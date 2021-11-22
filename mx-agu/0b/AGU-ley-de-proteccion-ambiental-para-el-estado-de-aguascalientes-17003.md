@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2021-03-29"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -2457,19 +2457,35 @@ VI. El establecimiento de unidades intensivas y extensivas, conforme a la normat
 
 No se permitirá emitir o descargar contaminantes a la atmósfera, el agua y los suelos, cuando rebasen los límites máximos permitidos que se encuentran señalados en las Normas Oficiales Mexicanas y los demás ordenamientos de la materia.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 130.
 
-Se considerará como de cuidado especial a las bolsas de plástico o de polietileno, por lo que se deberá disminuir al máximo en el Estado su uso y distribución por supermercados, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento o persona en general, para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno, deberán ser progresivamente reemplazadas por productos de material degradable y/o biodegradable que resulte compatible; según las directrices y lineamientos que establezca esta Ley y el Programa establecido al efecto.
+Se considera como de cuidado especial a las bolsas de plástico y polietileno y envases de poliestireno expandido de un solo uso, por lo que se prohíbe en el Estado su uso y distribución por supermercados, tiendas de conveniencia, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento que los proporcione a las personas para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno o envases de poliestireno expandido de un solo uso, deberán ser remplazados biodegradables (sic) o tela; según las directrices y lineamientos que establezca esta ley y el Programa establecido al efecto
 
-Se exceptúan de lo anterior la utilización de bolsas de polietileno por cuestiones de salubridad, por lo que únicamente serán utilizadas para almacenar, empacar y/o conservar alimentos, mercancías o insumos, y no resulte factible la utilización de un material sustituto al polietileno.
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+Se consideran plásticos de un solo uso de manera enunciativa mas no limitativa, los siguientes:
+
+I. Bolsas, platos, vasos y cubiertos de Plástico;
+
+II. Envases de poliestireno expandido (unicel);
+
+III. Popotes.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+Se exceptúan de lo anterior la utilización de bolsas de polietileno y envases de poliestireno expandido de un solo uso por cuestiones de salubridad, por lo que únicamente serán utilizados para almacenar, empacar y/o conservar alimentos, mercancías o insumos, cuando no resulte factible la utilización de un material sustituto al polietileno o de poliestireno expandido de un solo uso.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+El incumplimiento a lo previsto en el presente Artículo se sancionará de conformidad con lo establecido por el Artículo 212 Fracciones I, II, III, V y VI de la presente Ley.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 131.
 
-Se elaborará y difundirá un "Programa de Sustitución gradual de Plástico No Biodegradable por materiales Biodegradables", con el fin de reducir el consumo de bolsas, envases, embalajes o empaques de plástico no biodegradables que se utilicen en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
+Se elaborará y difundirá un "Programa de Sustitución de Plástico No Biodegradable Biodegradables (sic)", con el fin de eliminar el consumo de bolsas, envases, embalajes o empaques de plástico o poliestireno expandido de un solo uso no biodegradables, que se utilizan en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -3997,131 +4013,25 @@ El presente Decreto entrará en vigor al día siguiente a su publicación en el 
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 22/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DÉCIMO TERCERO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN CIUDAD MADERO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+P.O. 22 DE NOVIEMBRE DE 2021.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de julio de dos mil dieciséis, con excepción de lo dispuesto en el artículo transitorio CUARTO, que entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 24.- SE REFORMAN EL PRIMER PÁRRAFO; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 130; EL ARTÍCULO 131; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 130; TODOS DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico para incorporar a éste al juzgado de Distrito con residencia en Ciudad Madero, y quedar como sigue:
+El presente decreto entrará en vigor ciento ochenta días hábiles posteriores a su publicación en el Periódico Oficial del Estado.
 
-ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN TAMPICO Y CIUDAD MADERO.
+###### ARTÍCULO SEGUNDO.
 
-PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL QUE
+En un plazo que no excederá de 90 días naturales, contados a partir del inicio de vigencia del presente Decreto, se deberán efectuar las adecuaciones procedentes a los reglamentos en la materia.
 
-CORRESPONDE LA GUARDIA
+###### ARTICULO TERCERO.
 
-Del 11 al 18 de julio. Juzgado Noveno
+En un plazo que no excederá de 90 días naturales, contados a partir del inicio de vigor del presente Decreto, los Ayuntamientos deberán efectuar las adecuaciones procedentes a los ordenamientos en la materia.
 
-Del 18 al 25 de julio. Juzgado Décimo
+###### ARTICULO CUARTO.
 
-Del 25 de julio al 1 de agosto. Juzgado Décimo Tercero
-
-Del 1 al 8 de agosto. Juzgado Noveno
-
-Del 8 al 15 de agosto. Juzgado Décimo
-
-Del 15 al 22 de agosto. Juzgado Décimo Tercero
-
-Y así, sucesivamente conforme al orden establecido.
-
-El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforman los numerales SEGUNDO, fracción XIX, número 3; y CUARTO, fracción XIX, párrafo quinto del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a XVIII. …
-
-XIX. …
-
-1. a 2. …
-
-3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
-
-XX. a XXXII. …
-
-CUARTO. …
-
-I. a XVIII. …
-
-XIX. …
-
-…
-
-…
-
-…
-
-…
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
-
-XX. a XXXIII. …".
-
-D.O.F. 31 DE MAYO DE 2016.
-
-PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciséis, con excepción de lo previsto en el transitorio CUARTO, el cual iniciará su vigencia a partir de la aprobación del mismo.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito de Amparo y Juicios Federales en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, para quedar como sigue:
-
-ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE QUERÉTARO, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE.
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL
-
-AÑO 2016 AL QUE CORRESPONDE
-
-LA GUARDIA
-
-Del 30 mayo al 6 de junio. Juzgado Tercero
-
-Del 6 al 13 de junio. Juzgado Cuarto
-
-Del 13 al 20 de junio. Juzgado Quinto
-
-Del 20 al 27 de junio. Juzgado Sexto
-
-Del 27 de junio al 4 de julio. Juzgado Séptimo
-
-Del 4 al 11 de julio. Juzgado Primero
-
-Del 11 al 18 de julio. Juzgado Segundo
-
-Del 18 al 25 de julio. Juzgado Tercero
-
-Del 25 de julio al 1 de agosto. Juzgado Cuarto
-
-Del 1 al 8 de agosto. Juzgado Quinto
-
-Del 8 al 15 de agosto. Juzgado Sexto
-
-Del 15 al 22 de agosto. Juzgado Séptimo
-
-Y así, sucesivamente conforme al orden establecido.
-
-El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XXII, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. a XXI. ...
-
-XXII ...
-
-1. a 2. ...
-
-3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
-
-XXIII. a XXXII. ...".
-
-D.O.F. 8 DE JUNIO DE 2016.
+En un plazo que no exceda de treinta días naturales a partir de la entrada en vigor del presente Decreto, se harán los ajustes necesarios al "Programa de sustitución de Plástico No Biodegradable por materia Biodegradable".
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, COMPETENCIA Y FECHA DE INICIO DE FUNCIONES DEL DÉCIMO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE MÉXICO".]
 
