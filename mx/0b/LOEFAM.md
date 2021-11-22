@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2018-06-21"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -1692,7 +1692,11 @@ VII. Del Cuerpo Especial de Policía Militar.
 
 De Soldado a General de Brigada; y
 
-VIII. Del Cuerpo Especial de Música Militar. De Soldado a Mayor.
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Del Cuerpo Especial de Música Militar.
+
+De Soldado a Teniente Coronel.
 
 ###### ARTICULO 192.
 
@@ -1902,9 +1906,11 @@ C. Especialistas del Servicio Meteorológico.
 
 De Soldado a Teniente Coronel.
 
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
 XIV. Del Servicio de Control de Vuelo.
 
-De Subteniente a Coronel.
+De Subteniente a General Brigadier.
 
 > <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
 
@@ -1916,13 +1922,17 @@ a. Ingenieros en Aeronáutica.
 
 De Subteniente a General de Brigada, y
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
 b. Especialistas en Mantenimiento de Aviación.
 
-De Soldado a Coronel;
+De Soldado a General Brigadier;
+
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
 B. Abastecimiento de Material Aéreo.
 
-De Sargento Segundo a Coronel;
+De Sargento Segundo a General Brigadier;
 
 C. Material Aéreo Electrónico, que se subdivide en:
 
@@ -1930,17 +1940,23 @@ a. Ingenieros en Electrónica de Aviación.
 
 De Subteniente a General de Brigada, y
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
 b. Especialistas en Electrónica de Aviación.
 
-De Sargento Segundo a Coronel;
+De Sargento Segundo a General Brigadier;
+
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
 D. De Armamento Aéreo.
 
-De Soldado a Coronel;
+De Soldado a General Brigadier;
+
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
 E. Mantenimiento de Paracaídas.
 
-De Cabo a Capitán Primero; y
+De Cabo a Mayor; y
 
 F. Especialistas del Servicio de Material Aéreo.
 
@@ -2143,3 +2159,13 @@ D.O.F. 21 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 191 Y 193 DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
