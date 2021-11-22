@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2021-08-02"
+last_updated: "2021-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -1399,7 +1399,9 @@ Las solicitudes de acceso a la Información se pueden realizar a través de la P
 
 Las solicitudes de acceso a la Información deberán resolverse y notificarse al interesado en el menor tiempo posible, que no podrá exceder de diez días contados a partir del día siguiente a la presentación de la solicitud; excepcionalmente, dicho plazo podrá ampliarse hasta por diez días más, siempre y cuando existan razones fundadas y motivadas, las cuales deberán ser aprobadas por el Comité de Transparencia, mediante la emisión de una resolución que deberá notificarse al solicitante, antes de su vencimiento.
 
-Cuando la solicitud sea relativa a expedientes médicos o datos sobre salud del solicitante, deberá resolverse y notificarse al mismo, dentro del término de cinco días siguientes a la presentación de aquélla.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+Cuando la solicitud sea relativa a expedientes médicos o datos sobre salud del solicitante, deberá remitirse inmediatamente a la autoridad correspondiente, a fin de que se le dé el trámite como un ejercicio de los derechos ARCO, establecido en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios.
 
 ###### Artículo 72.
 
@@ -1818,3 +1820,11 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá Implicar discriminación o trato diferenciado injusto.
+
+P.O. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 31.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 71 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
