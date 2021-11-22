@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2021-06-14"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2497,7 +2497,7 @@ Los titulares de las dependencias ejercerán la competencia correspondiente a su
 
 ### CAPÍTULO II. De las Dependencias de la Administración Pública Municipal
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 304.
 
@@ -2535,9 +2535,9 @@ VII.- Secretaría de Desarrollo Social;
 
 VIII.- Secretaría de Desarrollo Económico y Rural,
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-IX.- Secretaría de Turismo y Cultura;
+IX.- Secretaría de Turismo;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
@@ -2560,6 +2560,18 @@ XIV.- (DEROGADA, P.O. 14 DE JUNIO DE 2021)
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2021)</small>
 
 XV.- Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+XVI.- Instituto de Cultura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+XVII.- Instituto de la Mujer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+XVIII.- Instituto del Deporte.
 
 ###### Artículo 305.
 
@@ -2585,7 +2597,7 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 311.
 
@@ -2751,9 +2763,9 @@ d). Departamento de Administración y Mantenimiento de Edificios, y
 
 e). Departamento del Rastro Municipal.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-VII. Secretaría de Desarrollo Social
+VII.- Secretaría de Desarrollo Social:
 
 a). Departamento de Desarrollo Social,
 
@@ -2769,13 +2781,11 @@ d). Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
 
 e). Departamento de Coordinación Educativa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+f). (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
-f). Departamento de Atención al Migrante.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
-
-VIII. Secretaría de Desarrollo Económico y Rural
+VIII. Secretaría de Desarrollo Económico y Rural:
 
 1). Unidad Regional Calvillo del Servicio Nacional de Empleo;
 
@@ -2787,11 +2797,15 @@ VIII. Secretaría de Desarrollo Económico y Rural
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-e).(sic) Departamento de Desarrollo Agropecuario y
+e).(SIC) Departamento de Desarrollo Agropecuario y
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 f). Departamento de Proyectos Productivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+7). Departamento de Atención al Migrante
 
 IX. (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
@@ -2843,15 +2857,19 @@ XII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
 XIII.- (DEROGADA, P.O. 14 DE JUNIO DE 2021)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-XIV. Secretaría de Turismo y Cultura:
+XIV. Secretaría de Turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 1). Departamento de Atención al visitante;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+
 2). Departamento de Pueblo Mágico;
 
-3). Departamento de Cultura;
+3). (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 4). Departamento de Proyectos y Promoción de Destino.
 
@@ -2869,13 +2887,21 @@ b). (DEROGADO, P.O. 10 DE FEBRERO DE 2020)
 
 c). Departamento de Imagen Institucional
 
-> <small>(REFORMADA [N. DE E. ADICIONADA CON SU INCISO], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 XVI.- Secretaría Ejecutiva
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 a). Departamento de coordinación con autoridades auxiliares.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+b). Coordinación de Asesores
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+c). Coordinación de enlace con la ciudadanía
 
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS Y NUMERALES], P.O. 14 DE JUNIO DE 2021)</small>
 
@@ -2898,6 +2924,22 @@ c). Dirección de Medio Ambiente.
 1) Departamento de Gestión Ambiental.
 
 d). Departamento Jurídico Administrativo,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+XVIII.- Instituto de Cultura
+
+a) Departamento de promoción y difusión cultural
+
+b) Departamento de enseñanza artística
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+XIX.- Instituto de la Mujer
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+XX.- Instituto del Deporte.
 
 ###### Artículo 312.
 
@@ -3971,11 +4013,11 @@ XV. Las demás que este Código y otras disposiciones legales determinen.
 
 #### SECCIÓN DÉCIMA. SECRETARÍA DE TURISMO Y CULTURA
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 336.
 
-Corresponde a la Secretaría de Turismo y Cultura:
+Corresponde a la Secretaría de Turismo:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4005,21 +4047,17 @@ VI. Atender de manera atenta y ordenada a los turistas que eligen Calvillo para 
 
 VII. Aprovechar plenamente los recursos naturales, artísticos, artesanales e históricos en beneficio de la economía del Municipio y de sus habitantes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
-
-VIII. Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
+VIII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2021)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 IX. Promover e incrementar el número de visitantes al Municipio, ofreciendo una mejor y mayor calidad de los servicios de turismo cultural;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+X. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2021)
 
-X. Aumentar la captación de los recursos provenientes de la actividad cultural, destinándolos a la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura Calvillense;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XI. Promover regional, nacional e internacionalmente la cultura, el arte y en especial el trabajo artesanal de nuestra gente, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
+XI. Promover regional, nacional e internacionalmente el trabajo artesanal de nuestra gente, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4281,9 +4319,17 @@ XI.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territo
 
 XII.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 340 Ter.
 
-(DEROGADO, P.O. 14 DE JUNIO DE 2021)
+Corresponde al Instituto de Cultura:
+
+I.- Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
+
+II.- Aumentar la captación de los recursos provenientes de la actividad cultural, destinándolos a la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura Calvillense;
+
+III.- Promover regional, nacional e internacionalmente la cultura y el arte, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -4415,15 +4461,19 @@ Los Comisarios municipales podrán ser adscritos bajo la dirección y supervisi�
 
 ### CAPÍTULO III. De los Organismos Auxiliares de la Administración
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 366.
 
-En el Municipio de Calvillo funcionarán como órganos auxiliares de la Administración Pública, con el carácter de cuerpos consultivos y sin que ejerzan funciones de autoridad frente a los particulares, el Consejo de Participación Ciudadana y Colaboración Municipal, la Comisión de Planeación para el Desarrollo Municipal, el Consejo Municipal de Protección Civil, el Comité Ciudadano de Control y Vigilancia de la Obra Pública Municipal en los términos previstos en la legislación municipal aplicable, el Comité Municipal del Deporte, el Consejo Municipal de Seguridad Pública, el Consejo Municipal de Salud, el Consejo Municipal de Participación Social en la Educación y la Junta de Festejos Patrióticos, así como los demás Consejos, Comités y Comisiones que se creen por acuerdo del Ayuntamiento, estableciéndose sus funciones, facultades, atribuciones, integración, organización y estructura.
+En el Municipio de Calvillo funcionarán como órganos auxiliares de la Administración Pública, con el carácter de cuerpos consultivos y sin que ejerzan funciones de autoridad frente a los particulares, el Consejo de Participación Ciudadana y Colaboración Municipal, la Comisión de Planeación para el Desarrollo Municipal, el Consejo Municipal de Protección Civil, el Comité Ciudadano de Control y Vigilancia de la Obra Pública Municipal en los términos previstos en la legislación municipal aplicable, el Comité Municipal del Deporte, el Consejo Municipal de Seguridad Pública, el Consejo Municipal de Salud, el Consejo Municipal de Participación Social en la Educación, Comité de Capacidades Diferentes y la Junta de Festejos Patrióticos, así como los demás Consejos, Comités y Comisiones que se creen por acuerdo del Ayuntamiento, estableciéndose sus funciones, facultades, atribuciones, integración, organización y estructura.
 
 #### SECCIÓN PRIMERA. Del Instituto de la Mujer de Calvillo
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 367.
 
-Para el desarrollo social integral de la mujer en Calvillo se instituye el Organismo Público Descentralizado de la Administración Pública Municipal, denominado Instituto de la Mujer de Calvillo, al cual se otorga personalidad jurídica para todo efecto legal.
+Para el desarrollo social integral de la mujer en Calvillo se instituye el Instituto de la Mujer de Calvillo.
 
 ###### Artículo 368.
 
@@ -4431,15 +4481,15 @@ El instituto tendrá su domicilio legal en la ciudad de Calvillo, Aguascalientes
 
 ###### Artículo 369.
 
-El patrimonio del instituto se integra por los bienes muebles e inmuebles que le transmita en propiedad el Municipio de Calvillo, recursos y apoyos que obtenga de instituciones públicas o privadas, así como por todos los bienes y derechos que adquiera por cualquier otro título y por las obligaciones que adquiera o le deriven de las disposiciones legales aplicables.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 370.
 
-El Municipio de Calvillo, por conducto de la Presidencia Municipal, suministrará al instituto los bienes, recursos e insumos necesarios para su funcionamiento administrativo, en la medida en que los recursos propios del mismo no resulten suficientes para tal efecto, por lo que en el Presupuesto de Egresos del Municipio se contemplará la partida que apruebe el Ayuntamiento para su asignación al instituto.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 371.
 
-Para el cumplimiento de su objeto y ejercicio de sus atribuciones el instituto estará dotado de autonomía técnica y de gestión, por lo que sus proyectos y programas, actos y actividades serán decididos y ejecutados en los términos establecidos por sus órganos de dirección en los términos de este Código.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 372.
 
@@ -4489,13 +4539,11 @@ Con el fin de conocer, analizar y evaluar la actividad del instituto, la Directo
 
 #### SECCIÓN SEGUNDA. Del Instituto del Deporte de Calvillo
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-###### Artículo 383.
+###### Articulo 383.
 
-Para promover, estimular y fomentar el desarrollo de la cultura física y el deporte, así como para propiciar la coordinación de las actividades deportivas con las acciones y programas de los tres niveles de gobierno y con la sociedad civil, se instituye el Organismo Público Descentralizado de la Administración Pública Municipal denominado Instituto del Deporte de Calvillo.
-
-El Instituto del Deporte de Calvillo, contará con personalidad jurídica, patrimonio propio y con domicilio en la Ciudad de Calvillo, Aguascalientes.
+Para promover, estimular y fomentar el desarrollo de la cultura física y el deporte, así como para propiciar la coordinación de las actividades deportivas con las acciones y programas de los tres niveles de gobierno y con la sociedad civil, se instituye el Instituto del Deporte de Calvillo.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -4529,19 +4577,7 @@ XIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con 
 
 XIV. Las demás que (sic) Ley u otras disposiciones legales determinen.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 383 B.- El patrimonio del Instituto del Deporte de Calvillo, se integrará con:
-
-I. Las aportaciones que realice el Gobierno Municipal, a través de los recursos que se le asignen en el Presupuesto de Egresos del Municipio de Calvillo, así como los subsidios y demás recursos que reciba;
-
-II. Las aportaciones que en su caso, le realicen el Gobierno Federal, Estatal y Municipal, así como las aportaciones que le realicen las personas físicas y morales, estatales, nacionales, a través de donaciones, legados, fideicomisos y premios, los cuales de ninguna manera podrán implicar condiciones contrarias a su objetivo conforme lo establece la Ley del Deporte del Estado de Aguascalientes;
-
-III. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio;
-
-IV. Los recursos que el propio Instituto del Deporte de Calvillo genere; y
-
-V. Los demás recursos, bienes y derechos que se adquieran o reciban por cualquier otro título legal.
+Artículo 383 B.- (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 384.
 
@@ -4595,63 +4631,17 @@ XVI.- Fomentar los vínculos con las instituciones, organismos y agrupaciones de
 
 XVII.- Las demás que determinen otras leyes y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 387.
 
-La administración del Instituto del Deporte de Calvillo, y de las estructuras administrativas que se establezcan estará a cargo de un Órgano de Gobierno denominado Junta Directiva.
+El Instituto del Deporte de Calvillo estará a cargo de un Director General que será designado y removido por el Presidente Municipal.
 
-Tendrá un Director General que será designado y removido por el Presidente Municipal.
+Artículo 387 A.- (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+Artículo 387 B.- (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
-Artículo 387 A.- La Junta Directiva a que se refiere el artículo anterior, estará integrada por un representante de cada una de las siguientes dependencias:
-
-I. Secretaría de Gobernación y del H. Ayuntamiento;
-
-II. Secretaría de Finanzas y Administración;
-
-III. Secretaría de Desarrollo Social;
-
-IV. Secretaría de Seguridad Pública y Vialidad;
-
-V. El Regidor Presidente de la Comisión de Educación, Cultura y Deportes;
-
-VI. Secretaría de la Defensa Nacional con la representación en el Municipio; e
-
-VII. Instituto de Educación en el Municipio.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 387 B.- La Junta Directiva será presidida por el titular del Instituto del Deporte de Calvillo, quien convocará a participar como invitado permanente al Contralor Interno, quien participará con voz pero sin voto.
-
-Podrán ser invitados a participar con voz pero sin voto, personalidades distinguidas de los sectores sociales y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
-
-La determinación de quienes deben de participar en los casos señalados en el párrafo anterior, serán acordados previamente por el Presidente de la Junta Directiva, a propuesta de los integrantes de la misma.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
-
-Artículo 387 C.- La Junta Directiva tendrá las siguientes facultades:
-
-I. Establecer en congruencia con el programa sectorial, las políticas y definir las prioridades a las que deberá sujetarse el Instituto del Deporte de Calvillo, relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y deporte;
-
-II. Aprobar los programas y presupuesto del Instituto del Deporte de Calvillo, así como sus modificaciones, en los términos de la legislación aplicable;
-
-III. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto del Deporte de Calvillo, con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
-
-IV. Aprobar la estructura básica de la organización del Instituto del Deporte de Calvillo, y las modificaciones que procedan a la misma;
-
-V. Autorizar la creación de comités de apoyo;
-
-VI. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto del Deporte de Calvillo requiera para la prestación de sus servicios;
-
-VII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General;
-
-VIII. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados del Instituto del Deporte de Calvillo;
-
-IX. Realizar los actos que sean necesarios para el cumplimiento de los objetivos del Instituto del Deporte de Calvillo;
-
-X. Las demás que le confieran las disposiciones legales aplicables en la materia;
+Artículo 387 C.- (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -4669,9 +4659,9 @@ IV. Ser de probada honorabilidad.
 
 Artículo 387 E.- El Director General tendrá las siguientes atribuciones y obligaciones:
 
-I. Presidir él la Junta de Gobierno;
+I. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2021)
 
-II. Administrar y representar legalmente al Instituto del Deporte de Calvillo;
+II. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2021)
 
 III. Formular los programas institucionales de corto, mediano y largo plazos, así como el presupuesto del Instituto del Deporte de Calvillo y presentarlos para su aprobación a la instancia correspondiente;
 
@@ -4679,13 +4669,13 @@ IV. Establecer los métodos que permitan el óptimo aprovechamiento de los biene
 
 V. Tomar las medidas pertinentes a fin de que las funciones del Instituto, se realicen de manera articulada, congruente y eficaz;
 
-VI. Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en las políticas aprobadas por la Junta Directiva;
+VI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2021)
 
 VII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Instituto, para así poder mejorar la gestión del mismo;
 
 VIII. Establecer sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-IX. Presentar periódicamente a la Junta Directiva el informe del desempeño de las actividades del Instituto, incluido el ejercicio del presupuesto de ingresos, egresos y los estados financieros correspondientes; y
+IX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2021)
 
 X. Las demás que le confiera las disposiciones legales aplicables.
 
@@ -4903,171 +4893,31 @@ Las sanciones que contempla la Ley de Cultura Física y Deporte del Estado de Ag
 
 ###### Artículo 411.
 
-El Instituto de la Familia de Calvillo, Aguascalientes, es un organismo público descentralizado de la Administración Pública Municipal, con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios para el cumplimiento de sus atribuciones y fines, que tiene como objetivo fundamental promover el fortalecimiento y desarrollo de la Familia como elemento básico de la sociedad; así como fomentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades y de trato entre personas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 412.
 
-Para los efectos de esta sección se entenderá por:
-
-I.- Director: Al Director General del Instituto;
-
-II.- El Consejo: Al Consejo Consultivo;
-
-III.- Instituto: Al Instituto Municipal de la Familia de Calvillo, Aguascalientes;
-
-IV.- La Junta: A la Junta de Gobierno; y
-
-V.- Las dependencias de la Administración Pública Municipal colaborarán con el Instituto en el ámbito de su competencia siempre y cuando la cooperación se oriente al cumplimiento de las atribuciones y responsabilidades señaladas en el presente Código Municipal de Calvillo, Aguascalientes.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 413.
 
-La duración del Instituto será por tiempo indefinido y su extinción solamente será factible por acuerdo del H. Ayuntamiento. El Instituto tendrá su domicilio en el Municipio de Calvillo, Aguascalientes.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 414.
 
-El Instituto tendrá los objetivos específicos siguientes:
-
-I.- En el ámbito de su competencia promover y proteger los derechos, obligaciones y valores cívicos fundamentales de la familia y en particular de cada uno de sus integrantes;
-
-II.- Promover la orientación de los programas actuales del Municipio hacia una perspectiva de familia;
-
-III.- Fomentar los valores humanos;
-
-IV.- Realizar capacitaciones con el objetivo de promover formación para la familia; y
-
-V.- Generar políticas públicas con perspectiva de familia.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 415.
 
-Para el eficiente y eficaz cumplimiento de sus objetivos, el Instituto tendrá las atribuciones y responsabilidades siguientes:
-
-I.- Realizar estudios, investigaciones, consultas, registro, seguimiento y evaluación de las condiciones sociales, económicas, educativas y culturales de las familias en los distintos ámbitos y zonas del Municipio, así como de aquellos aspectos que sean de utilidad para el adecuado fortalecimiento y desarrollo de la integración familiar, crear y mantener un sistema de información que permita obtener, procesar, intercambiar y difundir información actualizada en relación con la situación de la familia en el Municipio, generando un banco de datos de consulta impresa y electrónica;
-
-II.- Diseñar la metodología necesaria para analizar la eficacia de las políticas, acciones y decisiones instrumentadas con perspectiva de familia, con especial atención en lo que corresponde a la aplicación y optimización de los recursos y recomendar las adecuaciones necesarias para el mejor funcionamiento de las mismas;
-
-III.- Presentar a la consideración del H. Ayuntamiento la formulación, diseño y análisis de proyectos de carácter legislativo y reglamentario, relacionados con la familia y sus integrantes, a fin de asegurar el marco jurídico que garantice el desarrollo y fortalecimiento de la familia;
-
-IV.- Actuar como órgano de consulta y asesoría del H. Ayuntamiento, del Presidente Municipal, dependencias de la Administración Pública Municipal, de organizaciones sociales y civiles cuyos objetivos se relacionen con el fortalecimiento de la familia;
-
-V.- Diseñar y proponer a las dependencias de la Administración Pública Municipal programas de comunicación social para difundir ampliamente los valores, principios, derechos y obligaciones de la familia y de sus integrantes, en aras de promover una auténtica cultura de la familia;
-
-VI.- Elaborar programas intensivos y permanentes de capacitación para la sociedad y para funcionarios y servidores públicos municipales que tengan a su cargo la elaboración de políticas, acciones y planes en materia de política familiar, desarrollando eventos y seminarios académicos sobre temas específicos, incluyendo los métodos y técnicas de investigación y planificación, para el personal de diferente nivel;
-
-VII.- Diseñar, elaborar y proponer a las dependencias de la Administración Pública Municipal:
-
-a).- Programas tendientes a prevenir conductas delictivas en el ámbito familiar para promover medidas de prevención, rehabilitación e implementación de programas y acciones en apoyo a la plena integración familiar;
-
-b).- Programas de apoyo a favor de las víctimas de los delitos que se susciten en el entorno familiar, considerando las medidas necesarias para evitar su victimización;
-
-c).- Programas para la formación integral de los adolescentes y jóvenes, proyectando estrategias que permitan mayores oportunidades de estudio y de empleo, capacitación y asesoría para el trabajo, cuidado de la salud y la lucha en contra del vandalismo, las adicciones y el alcoholismo;
-
-d).- Programas para promover el desarrollo y protección integral de la mujer, incluyendo a quienes se encuentren en cualquier situación de discriminación, con énfasis en la protección de sus derechos, apoyando la formulación de políticas públicas gubernamentales e impulsando las de la sociedad para alcanzar la equidad y su participación equitativa en la vida política, económica y social sin distingo de origen étnico, regional-nacional, idioma, edad, capacidades diferentes, condición social, condiciones de salud, convicciones, estado civil, color, cultura, capacidad económica, religión, dogma, o cualesquier otra, conjugando esfuerzos con los distintos ordenes de gobierno y los sectores público y privado para la propuesta y recomendación de acciones dirigidas a mejorar la condición social de la población femenina;
-
-e).- Programas para apoyar a los adultos, a los adultos mayores y a las personas con capacidades diferenciadas;
-
-f).- Programas y proyectos tendientes a elevar las condiciones de salud y nutrición de la niñez, que impulsen su sano crecimiento físico, afectivo, mental y social;
-
-g).- Apoyar y asesorar a las dependencias de la Administración Pública Municipal respecto a los trabajos, acciones y programas que podrán implementarse en forma conjunta por el Municipio y por diversas dependencias y entidades, para el cumplimiento de los objetivos señalados en el artículo anterior, así como en el Plan Municipal de Desarrollo a favor de la mejora de las condiciones de vida de las familias en el Municipio;
-
-h).- Celebrar y suscribir convenios o acuerdos de apoyo y colaboración con organismos públicos, sociales y privados, Estatales, Nacionales e Internacionales para unir esfuerzos de participación, para el desarrollo de programas y proyectos acordes a los objetivos específicos del Instituto;
-
-i).- Propiciar y facilitar los mecanismos de colaboración con los diferentes organismos o sectores en los ámbitos: Municipal, Estatal, Nacional e Internacional, sobre aspectos relacionados con la familia y, particularmente, con los trabajos de estudio e investigación que promueva el Instituto;
-
-j).- Fomentar la realización de eventos académicos y programas educativos como instrumentos que faciliten la discusión, reflexión, análisis y propuestas sobre temas vinculados con el diseño de políticas públicas a favor de la familia;
-
-k).- Realizar, mediante convenios con instituciones de educación superior, acciones y programas permanentes de servicio social de estudiantes en apoyo a los programas y acciones del Instituto para el mejor cumplimiento de sus objetivos;
-
-l).- Informar el conjunto de acciones y programas del Instituto;
-
-m).- Someter a la consideración del H. Ayuntamiento el proyecto del presupuesto que contenga el monto anual de transferencia a favor del Instituto;
-
-n).- Producir y promover obras y materiales impresos o electrónicos para dar a conocer y promover los programas que esté llevando a cabo el Instituto;
-
-ñ).- Promover y gestionar la aportación de recursos económicos y en especie, provenientes de dependencias e instituciones públicas, de organizaciones privadas y sociales y de empresas, interesadas en apoyar la integración familiar y colaborar con los fines, objetivos y atribuciones del Instituto; y
-
-o).- La realización de todos aquellos proyectos, programas y acciones que estén encaminados al cumplimiento de sus objetivos.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 416.
 
-El órgano máximo del Instituto es la Junta de Gobierno que tendrá facultades de decisión y técnico consultivas, y estará integrada de la manera siguiente:
-
-I.- La Presidenta del Comité de Desarrollo Integral de la Familia, quién fungirá como Presidenta;
-
-II.- El Director General del Instituto quién fungirá como Secretario Técnico;
-
-III.- El Director del Instituto de la Juventud;
-
-IV.- Un representante de las Asociaciones de Padres de Familia;
-
-V.- Un representante de la Coordinación de Educación Básica del Municipio;
-
-VI.- El Regidor de la Comisión de Salud, Asistencia Social, Familia, Menores y Tercera Edad;
-
-VII.- El Regidor de la Comisión de Educación, Cultura y Deporte; y
-
-VIII.- Un representante de Delegados y Comisarios Municipales.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 417.
 
-El Director será nombrado por el Presidente Municipal de Calvillo, Aguascalientes, deberá reunir los requisitos siguientes:
-
-I.- Ser ciudadano Mexicano (a), con pleno ejercicio de sus derechos civiles y políticos;
-
-II.- Acreditar no haber sido condenado por delito intencional, ni estar sujeto a proceso penal o, inhabilitado para desempeñar un cargo público;
-
-III.- Tener su domicilio en el Municipio de Calvillo, Aguascalientes;
-
-IV.- El Director tendrá las atribuciones siguientes:
-
-a).- Administrar y representar legalmente al Instituto;
-
-b).- Celebrar previa asesoría del Departamento Jurídico y de Gobernación del Ayuntamiento y aprobación del H., Ayuntamiento, toda clase de contratos y convenios con autoridades Federales, Estatales y Municipales, con organismos públicos y privados, que sean necesarios para el cumplimiento de los fines del Instituto;
-
-c).- Representar al Instituto ante cualquier autoridad Federal, Estatal, Municipal, personas físicas o morales, públicas o privadas, con todas las facultades que correspondan a un apoderado general para actos de administración, para pleitos y cobranzas, así como las generales y especiales que requieran cláusula especial conforme a la Ley;
-
-d).- Supervisar la organización, funcionamiento del Instituto y autorizar la creación de Comisiones y Comités que coadyuven al cumplimiento de los fines del Instituto;
-
-e).- Expedir las circulares, acuerdos o disposiciones que sean necesarios para la correcta conducción del Instituto;
-
-f).- Coordinar los trabajos de planeación, elaboración y ejecución del programa de trabajo del Instituto, sometiéndolo a la aprobación del H. Ayuntamiento. Las acciones que desarrolle el Instituto, en el marco del Plan Municipal de Desarrollo, guardarán correlación con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, el Programa Nacional para la Igualdad de Oportunidades y no Discriminación contra las Mujeres, y el Programa Estatal para la Equidad;
-
-g).- Fijar las condiciones generales de trabajo del Instituto con facultades para contratar, nombrar y remover al personal administrativo y operativo del Instituto, así como aceptar renuncias, autorizar licencias, permisos y en general, cumplir todas las responsabilidades inherentes al manejo de los recursos humanos del Instituto;
-
-h).- Supervisar el manejo y control de los aspectos administrativos, operativos y presupuestarios del Instituto, estableciendo mecanismos de evaluación;
-
-i).- Celebrar, con aprobación del Departamento Jurídico y de Gobernación del Ayuntamiento, convenios de investigación con Instituciones de Educación Superior Estatales y Nacionales, que sean de utilidad para los fines del Instituto; y
-
-j).- Las demás que le confiera el presente ordenamiento jurídico. El Director, en el ámbito administrativo, acordará directamente con el Presidente Municipal y estará a cargo de la ejecución de los programas y acciones del Instituto;
-
-V.- El Director podrá ser removido de su encargo por el Presidente Municipal;
-
-VI.- Son causas de remoción del Director las siguientes:
-
-a).- No se excuse de intervenir en asuntos en los que tenga interés personal y/o de negocios;
-
-b).- Cuando realice acciones de proselitismo político o religioso;
-
-c).- Por falta de probidad en el desempeño de sus funciones;
-
-d).- Por pérdida de confianza; y,
-
-e).- Por estar sujeto a procedimiento de responsabilidad administrativa.
-
-VII.- El programa de trabajo del Instituto establecerá los objetivos y estrategias que le permitan cumplir con sus objetivos, atribuciones y responsabilidades y establecerá los instrumentos, Unidades Administrativas y responsables de su ejecución;
-
-VIII.- El Programa de trabajo del Instituto se elaborará con una proyección a 3 años y vinculará sus acciones con los objetivos y estrategias que para el fortalecimiento y desarrollo de la Familia, señalen los Planes Municipal, Estatal y Nacional de Desarrollo y los programas operativos que de éstos se deriven;
-
-Una vez aprobado el Programa por el H Ayuntamiento, éste, sus objetivos, estrategias, proyectos y acciones serán obligatorios para el Instituto. El Programa de trabajo del Instituto puede modificarse o actualizarse periódicamente, previa autorización del H Ayuntamiento;
-
-IX.- El Instituto solicitará a los titulares de las dependencias y entidades de la Administración Pública Municipal, la información, documentación, cifras y estadísticas que sean pertinentes para el cumplimiento de sus objetivos, atribuciones y responsabilidades, así como la colaboración en el marco de sus respectivas competencias, en el diseño, ejecución y seguimiento del programa de trabajo del Instituto;
-
-X.- El Instituto podrá emitir opiniones, recomendaciones y propuestas a las autoridades y servidores públicos municipales, con la finalidad de cumplir con la ejecución del Programa de trabajo;
-
-XI.- El patrimonio del Instituto se integra por los bienes muebles e inmuebles que le transmita en propiedad el Municipio de Calvillo, recursos y apoyos que obtenga de instituciones públicas o privadas, así como por todos los bienes y derechos que adquiera por cualquier otro título y por las obligaciones que adquiera o le deriven de las disposiciones legales aplicables;
-
-XII.- El Municipio de Calvillo, por conducto de la Presidencia Municipal, suministrará al Instituto los bienes, recursos e insumos necesarios para su funcionamiento administrativo, en la medida en que los recursos propios del mismo no resulten suficientes para tal efecto, por lo que en el Presupuesto de Egresos del Municipio se contemplará la partida que apruebe el Ayuntamiento para su asignación al Instituto; y
-
-XIII.- En caso de extinción del Instituto, el activo neto que resulte se aplicará al Patrimonio Municipal.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)
 
 ## TÍTULO TERCERO. DE LA PLANEACIÓN Y EL DESARROLLO MUNICIPAL
 
@@ -25166,3 +25016,21 @@ Artículo Quinto.- Publíquese el presente Decreto en el Periódico Oficial del 
 Artículo Sexto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Séptimo.- Cúmplase.
+
+P.O. 22 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE SE RELACIONAN CON LA "REFORMA AL CÓDIGO MUNICIPAL DE CALVLLLO, AGS".]</small>
+
+Artículo Primero. Se reforma el Código Municipal de Calvillo, Ags., en los siguientes términos:
+
+[…]
+
+Artículo Segundo.- Todos los artículos del Código Municipal de Calvillo, Ags., y demás reglamentación municipal que mencionan Secretaría de Turismo y Cultura se refieren a la Secretaría de Turismo, lo anterior para todos los efectos legales a los que haya lugar.
+
+Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Cuarto.- Administrativamente el presente acuerdo surte sus efectos de manera retroactiva a partir del día quince de octubre de dos mil veintiuno.
+
+Artículo Quinto.- Se ordena su publicación en el Periódico Oficial del Estado.
+
+Artículo Sexto.- Cúmplase.
