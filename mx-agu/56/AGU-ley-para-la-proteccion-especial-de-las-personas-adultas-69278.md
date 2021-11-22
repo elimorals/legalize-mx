@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2021-03-01"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -785,7 +785,7 @@ II. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos 
 
 ## TÍTULO QUINTO. DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DEL ADULTO MAYOR
 
-### CAPÍTULO ÚNICO. De la Asistencia Social
+### CAPÍTULO I. De la Asistencia Social
 
 ###### ARTÍCULO 30.
 
@@ -913,9 +913,33 @@ V. Asesorar al Consejo en los temas de su competencia; y
 
 VI. Cumplir las encomiendas resultado de los acuerdos del Consejo.
 
-## TÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. De las Infracciones y Sanciones
+## TÍTULO SEXTO. DELA (SIC) ASISTENCIA SOCIAL
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. De la protección a la economía de las personas adultas mayores
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 B.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, incorporarán a las personas adultas mayores a los programas de asistencia alimentaria que operen, cuando estas no cuenten con los medios para su subsistencia o sus familiares no puedan proporcionárselos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 C.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, promoverán la celebración de convenios con la iniciativa privada, a fin de qué se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 D.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, promoverán las facilidades administrativas en el pago de derechos por los servicios que otorgan cuando el usuario de estos sea una persona adulta mayor.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 E.- El Estado deberá priorizar la atención de las personas adultas mayores que no cuenten con recursos para su sostenimiento.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 F.- El Estado deberá establecer programas de apoyo económico de manera periódica, para las personas adultas mayores en circunstancia de pobreza, vulnerabilidad o marginalidad, que estén excluidas de un régimen de seguridad social y no cuenten con otra clase de apoyo gubernamental o esquema de pensión, priorizando la atención de los solicitantes conforme a sus circunstancias de vulnerabilidad o marginalidad.
 
 ###### ARTÍCULO 37.
 
@@ -953,11 +977,13 @@ Las instituciones públicas y privadas, casas hogar, albergues, residencias de d
 
 ARTÍCULO 38 A.- La atención preferencial, es un beneficio que sólo podrá otorgarse para realizar trámites personales. Es intransferible, y las personas adultas mayores deberán presentar una identificación oficial vigente.
 
-### CAPÍTULO II. De los Servidores Públicos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. De las Infracciones y Sanciones
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### CAPÍTULO III. Del Procedimiento
+### CAPÍTULO II. De los Servidores Públicos
 
 ###### ARTÍCULO 39.
 
@@ -999,13 +1025,15 @@ III. Las condiciones socioeconómicas del infractor; y
 
 IV. Si la conducta del infractor implica reincidencia.
 
-### CAPÍTULO IV. Del Recurso de Revisión
+### CAPÍTULO III. Del Procedimiento
 
 ###### ARTÍCULO 43.
 
 Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a las personas que refiere como tales el primer párrafo del Artículo 73 de la Constitución Política del Estado de Aguascalientes.
 
 El incumplimiento a las funciones y atribuciones que establece la presente Ley, se sujetará a lo dispuesto en el Capítulo XVI llamado “de la Responsabilidad de los Servidores Públicos” de la Constitución Política del Estado de Aguascalientes.
+
+### CAPÍTULO IV. Del Recurso de Revisión
 
 ###### ARTÍCULO 44.
 
@@ -1236,3 +1264,11 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 ###### ARTÍCULO TERCERO.
 
 Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
+
+P.O. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 30.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO ÚNICO “DE LA ASISTENCIA SOCIAL” PARA QUEDAR COMO CAPÍTULO I “DE LA ASISTENCIA SOCIAL” Y SE ADICIONA UN CAPÍTULO II DENOMINADO “DE LA PROTECCIÓN A LA ECONOMÍA DE LAS PERSONAS ADULTAS MAYORES” Y LOS ARTÍCULOS 38 B, 38 C, 38 D, 38 E Y 38 F AL TÍTULO SEXTO “DE LA ASISTENCIA SOCIAL” DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) a partir del 1° de enero del 2022.
