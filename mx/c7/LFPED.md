@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2021-05-20"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -224,13 +224,17 @@ XXXI. Difundir sin consentimiento de la persona agraviada información sobre su 
 
 XXXII. Estigmatizar y negar derechos a personas con VIH/SIDA;
 
-> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
-XXXIII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas, y
+XXXIII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+XXXIV. Prohibir, limitar o restringir el acto de amamantar en espacios públicos, y
 
 > <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2014)</small>
 
-XXXIV. En general cualquier otro acto u omisión discriminatorio en términos del artículo 1, párrafo segundo, fracción III de esta Ley.
+XXXV. En general cualquier otro acto u omisión discriminatorio en términos del artículo 1, párrafo segundo, fracción III de esta Ley.
 
 ### CAPÍTULO III. MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 
@@ -1535,3 +1539,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXXIV AL ARTÍCULO 9 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
