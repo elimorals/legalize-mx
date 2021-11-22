@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2021-03-29"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -2457,19 +2457,35 @@ VI. El establecimiento de unidades intensivas y extensivas, conforme a la normat
 
 No se permitirá emitir o descargar contaminantes a la atmósfera, el agua y los suelos, cuando rebasen los límites máximos permitidos que se encuentran señalados en las Normas Oficiales Mexicanas y los demás ordenamientos de la materia.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 130.
 
-Se considerará como de cuidado especial a las bolsas de plástico o de polietileno, por lo que se deberá disminuir al máximo en el Estado su uso y distribución por supermercados, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento o persona en general, para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno, deberán ser progresivamente reemplazadas por productos de material degradable y/o biodegradable que resulte compatible; según las directrices y lineamientos que establezca esta Ley y el Programa establecido al efecto.
+Se considera como de cuidado especial a las bolsas de plástico y polietileno y envases de poliestireno expandido de un solo uso, por lo que se prohíbe en el Estado su uso y distribución por supermercados, tiendas de conveniencia, autoservicios, almacenes, negocios, comercios, y cualquier establecimiento que los proporcione a las personas para llevar, transportar o trasladar los productos adquiridos. Por lo anterior las bolsas de plástico o de polietileno o envases de poliestireno expandido de un solo uso, deberán ser remplazados biodegradables (sic) o tela; según las directrices y lineamientos que establezca esta ley y el Programa establecido al efecto
 
-Se exceptúan de lo anterior la utilización de bolsas de polietileno por cuestiones de salubridad, por lo que únicamente serán utilizadas para almacenar, empacar y/o conservar alimentos, mercancías o insumos, y no resulte factible la utilización de un material sustituto al polietileno.
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+Se consideran plásticos de un solo uso de manera enunciativa mas no limitativa, los siguientes:
+
+I. Bolsas, platos, vasos y cubiertos de Plástico;
+
+II. Envases de poliestireno expandido (unicel);
+
+III. Popotes.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+Se exceptúan de lo anterior la utilización de bolsas de polietileno y envases de poliestireno expandido de un solo uso por cuestiones de salubridad, por lo que únicamente serán utilizados para almacenar, empacar y/o conservar alimentos, mercancías o insumos, cuando no resulte factible la utilización de un material sustituto al polietileno o de poliestireno expandido de un solo uso.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+El incumplimiento a lo previsto en el presente Artículo se sancionará de conformidad con lo establecido por el Artículo 212 Fracciones I, II, III, V y VI de la presente Ley.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 131.
 
-Se elaborará y difundirá un "Programa de Sustitución gradual de Plástico No Biodegradable por materiales Biodegradables", con el fin de reducir el consumo de bolsas, envases, embalajes o empaques de plástico no biodegradables que se utilicen en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
+Se elaborará y difundirá un "Programa de Sustitución de Plástico No Biodegradable Biodegradables (sic)", con el fin de eliminar el consumo de bolsas, envases, embalajes o empaques de plástico o poliestireno expandido de un solo uso no biodegradables, que se utilizan en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -3996,3 +4012,23 @@ El presente Decreto entrará en vigor al día siguiente a su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 24.- SE REFORMAN EL PRIMER PÁRRAFO; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 130; EL ARTÍCULO 131; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 130; TODOS DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor ciento ochenta días hábiles posteriores a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo que no excederá de 90 días naturales, contados a partir del inicio de vigencia del presente Decreto, se deberán efectuar las adecuaciones procedentes a los reglamentos en la materia.
+
+###### ARTICULO TERCERO.
+
+En un plazo que no excederá de 90 días naturales, contados a partir del inicio de vigor del presente Decreto, los Ayuntamientos deberán efectuar las adecuaciones procedentes a los ordenamientos en la materia.
+
+###### ARTICULO CUARTO.
+
+En un plazo que no exceda de treinta días naturales a partir de la entrada en vigor del presente Decreto, se harán los ajustes necesarios al "Programa de sustitución de Plástico No Biodegradable por materia Biodegradable".
