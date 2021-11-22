@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2021-09-13"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2475,7 +2475,7 @@ ARTICULO 214 BIS.- A quien en detrimento de la sociedad conyugal o patrimonio co
 
 ### CAPITULO X. RECEPTACION
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 215.
 
@@ -2565,15 +2565,15 @@ Si el daño recae en bienes de valor científico, artístico o de un servicio p�
 
 ###### ARTICULO 224.
 
-Al que después de la consumación de un hecho típico de carácter patrimonial y sin haber participado en éste, reciba, adquiera u oculte el producto de aquél, a sabiendas de su ilegítima procedencia se le impondrán las tres cuartas partes de la punibilidad prevista para tal hecho típico.
+Al que después de la consumación de un hecho típico de carácter patrimonial y sin haber participado en éste, reciba, adquiera, posea u oculte el producto de aquél, a sabiendas de su ilegítima procedencia se le impondrán las tres cuartas partes de la punibilidad prevista para tal hecho típico.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 225.
 
-Si el que recibió o adquirió la cosa, no tuvo conocimiento de que su procedencia era ilegítima, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se aplicará la mitad de la punibilidad referida en el Artículo anterior.
+Si el que recibió, adquirió o tuvo posesión de la cosa, no tuvo conocimiento de que su procedencia era ilegítima, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se aplicará la mitad de la punibilidad referida en el artículo anterior.
 
-Para los efectos del párrafo anterior, previamente a la adquisición de vehículos de motor, los interesados podrán cerciorarse de su legítima procedencia en la oficina correspondiente de la Procuraduría General de Justicia del Estado.
+Para los efectos del párrafo anterior, se entenderá que se adoptaron las precauciones indispensables, cuando previo a la adquisición, se cuente con la documentación que acredite la propiedad o posesión del bien y en el caso de vehículos de motor, los interesados obtengan la constancia de vehículo no robado expedida por una autoridad encargada de la procuración de justicia en el Estado o el documento equivalente expedido en otra Entidad Federativa.
 
 ### CAPITULO VI. MATRIMONIO ILEGAL
 
@@ -4720,3 +4720,13 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 762 QUE REFORMA EL ARTÍCULO EL ARTÍCULO (SIC) 114 PÁRRAFO TERCERO, 121 PÁRRAFO SEGUNDO, 162 PÁRRAFO PRIMERO, 189 BIS FRACCIÓN II Y III, 208 PÁRRAFO SEGUNDO, 334 FRACCIÓN VI Y 349 DECIES; ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160 Y LA FRACCIÓN IV DEL ARTÍCULO 189 BIS; Y SE DEROGA EL ARTÍCULOS 243 QUINTUS Y SUS FACCIONES I, II, III, IV, V, VI, VII y VIII, DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 3 QUE REFORMA LOS ARTÍCULOS 224 Y 225 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las averiguaciones previas, carpetas de investigación y procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando y ejecutando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
+
+TERCERO. El Poder Ejecutivo del Estado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, deberá implementar las medidas necesarias para difundir el contenido de la presente reforma, con la finalidad de prevenir a la ciudadanía para que tomen las precauciones correspondientes al adquirir un vehículo de motor, y así eviten incurrir en una conducta ilícita o ser víctimas de otras.
