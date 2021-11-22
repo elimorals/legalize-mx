@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cooperacion-para-el-alumbrado-publico-de-la-ciudad-19738
 country: "mx"
 rank: "ley"
 publication_date: "1982-10-24"
-last_updated: "1982-10-24"
+last_updated: "2021-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE COOPERACION PARA EL ALUMBRADO PUBLICO DE LA CIUDAD DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NUMERO 25, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE COOPERACION PARA EL ALUMBRADO PUBLICO DE LA CIUDAD DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 24 de octubre de 1982.
 
@@ -134,3 +136,19 @@ Rodolfo Landeros Gallegos.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Joaquín Cruz Ramírez.
+
+P.O. 22 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 25 QUE SE RELACIONA CON EL ORDENAMIENTO.]</small>
+
+###### ARTICULO ÚNICO.
+
+Se Abroga la Ley de Cooperación para el Alumbrado Público de la Ciudad de Aguascalientes, expedida por la LI Legislatura del H. Congreso del Estado de Aguascalientes, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 24 de octubre de 1982.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25.- SE ABROGA LA LEY DE COOPERACIÓN PARA EL ALUMBRADO PÚBLICO DE LA CIUDAD DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
