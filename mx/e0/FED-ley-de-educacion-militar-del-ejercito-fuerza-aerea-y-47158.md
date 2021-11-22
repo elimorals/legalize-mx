@@ -4,7 +4,7 @@ identifier: "FED-ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-47158"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-23"
-last_updated: "2018-05-22"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47158&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-16"
 
 LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
 
@@ -159,9 +159,17 @@ I. Colegios;
 
 II. Escuelas;
 
-III. Centros de Estudios, y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
-IV. Unidades-Escuela.
+III. Centros de Estudios;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+IV. Unidades-Escuela, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+V. Institutos.
 
 ###### Artículo 15.
 
@@ -187,9 +195,11 @@ VI. De Especialización.
 
 #### SECCIÓN PRIMERA. DE LOS TIPOS Y MODALIDADES DE LA EDUCACIÓN MILITAR
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-El proceso educativo será realizado en los términos de esta Ley, por los Colegios, Escuelas Militares, Centros de Estudios, Unidades-Escuela y Dependencias de la Secretaría que tengan asignada la responsabilidad de impartir cursos considerados en el Plan General de Educación Militar.
+El proceso educativo será realizado en los términos de esta Ley, por los Institutos, Colegios, Escuelas Militares, Centros de Estudios, Unidades-Escuela y Dependencias de la Secretaría que tengan asignada la responsabilidad de impartir cursos considerados en el Plan General de Educación Militar.
 
 ###### Artículo 18.
 
@@ -378,3 +388,11 @@ D.O.F. 22 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 Y 28 DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
