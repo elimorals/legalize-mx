@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2021-10-14"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -1536,9 +1536,9 @@ Los padres, tutores, quienes ejercen la patria potestad o quienes ostenten la re
 
 A estos efectos, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento, con énfasis en niñas, niños, adolescentes y personas adultas mayores.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
-En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento, y que se requiera el internamiento del menor, deberá respetarse lo dispuesto por el artículo 75 de esta Ley y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento, y que se requiera el internamiento del menor, deberá respetarse lo dispuesto por el artículo 75 de esta Ley y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
@@ -9457,3 +9457,9 @@ Cuarto. A partir de la publicación del presente Decreto, la Secretaría de Salu
 Quinto. A partir de la publicación de las disposiciones jurídicas a que se refiere el artículo segundo transitorio del presente Decreto, los fabricantes contarán con dos años para sustituir las pruebas cosméticas en animales por métodos alternativos para evaluar la seguridad y eficacia de los productos cosméticos.
 
 Sexto. Las disposiciones a las que se refiere el presente Decreto no se aplicarán a los productos e ingredientes probados y disponibles para la venta, en el momento de la publicación de este Decreto.
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 77 DE LA LEY GENERAL DE SALUD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
