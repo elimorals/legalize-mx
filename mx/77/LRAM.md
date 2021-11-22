@@ -4,7 +4,7 @@ identifier: "LRAM"
 country: "mx"
 rank: "ley"
 publication_date: "1985-01-14"
-last_updated: "1985-01-14"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=316&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAM"
 
 LEY DE RECOMPENSAS DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -106,11 +106,15 @@ VII.- Mérito Facultativo Naval
 
 VIII.- Mérito Deportivo Naval
 
-IX.- Perseverancia Excepcional
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
-X.- Perseverancia
+IX.- Bicentenario
 
-XI.- Distinción Naval
+X.- Perseverancia Excepcional
+
+XI.- Perseverancia
+
+XII.- Distinción Naval
 
 ###### ARTICULO 10.
 
@@ -420,7 +424,33 @@ II.- Listón. Será en popotillo de seda en forma pentagonal de treinta milímet
 
 III.- Gafete. Será un rectángulo de nueve milímetros de ancho por treinta milímetros de largo, confeccionado en popotillo de seda. Los colores serán los mismos del listón respectivo, con el escudo de la Armada de México sobrepuesto en metal plateado, inscrito en un círculo imaginario de ocho milímetros de diámetro.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+### CAPITULO XIII. Condecoración Bicentenario
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTICULO 62 BIS.- La Condecoración Bicentenario se otorga, por acuerdo del Alto Mando a propuesta del Mando Superior en Jefe, al personal militar o civil nacional o extranjero, por efectuar con resultados positivos que redunden en el prestigio y buen nombre de la institución lo siguiente:
+
+I.- Efectuar acciones en contra de: piratería en la mar, el contrabando, el terrorismo, el tráfico ilícito de armas de fuego y explosivos, personas, estupefacientes y psicotrópicos;
+
+II.- Efectuar exitosamente, operaciones de rescate, auxilio a la población civil en casos y zonas de desastre; de protección a instalaciones estratégicas del país y en la defensa y conservación del material bajo su cargo;
+
+III.- Auxiliar con éxito en operaciones de protección de los recursos marítimos, marinos y del medio ambiente marino; y
+
+IV.- Auxiliar con éxito a las Unidades de las Fuerzas Armadas Mexicanas, así como a corporaciones policiales de los diferentes niveles de gobierno, en situaciones que impliquen riesgo de pérdida de vidas humanas o se comprometa la existencia de la unidad.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTICULO 62 TER.- La Condecoración Bicentenario, será en tamaño original y miniatura. La condecoración original consta de:
+
+I.- Joya: Será una rosa de vientos en metal plateada. Estará formada por dos planos sobrepuestos, en el plano base llevará una rosa náutica plateada con 16 puntos cardinales, de treinta y cinco milímetros de diámetro; en el plano frontal inscrita en un círculo de cuarenta y cinco milímetros de diámetro llevará en 3D un campo dorado, que traerá labrado una Fragata Pola, un avión Persuader 235 y un Binomio Canino; por la parte superior de estos llevará inscrito "ARMADA DE MÉXICO" y en la parte inferior llevará la fecha "1821-2021"; el tejo dorado llevará un cabo que circundará las figuras mencionadas.
+
+Al centro del reverso, la joya llevará la fecha de su creación y la siguiente leyenda: "Creada por Decreto Presidencial".
+
+II.- Listón: Será en popotillo de seda, en forma pentagonal de treinta milímetros de ancho por cuarenta y cinco milímetros de largo en color azul marino, en medio de éste irán los colores de la bandera nacional puestos en forma diagonal con un ancho de dieciocho milímetros. En su parte superior llevará una placa rectangular de treinta milímetros de ancho por diez milímetros de alto labrada del mismo metal que el de la joya con una ranura por donde pasará el listón, esta placa en su parte anterior llevará centrada la palabra "MÉXICO" y en la parte posterior un alfiler y seguro o pin. En el extremo inferior del listón, en su vértice, llevará una argolla de unión de donde penderá la joya.
+
+III.- Gafete: Será un rectángulo de once por treinta milímetros, confeccionado en popotillo de seda. Los colores están distribuidos en la misma forma del listón de la Joya, en color azul marino, en medio de éste irán los colores de la bandera nacional puestos en forma diagonal con un ancho de dieciocho milímetros.
 
 ## TITULO TERCERO. De las Menciones Honoríficas
 
@@ -456,6 +486,8 @@ Al personal de clases y marinería, que haya observado buena conducta, se le con
 
 ## TITULO QUINTO. De las Citaciones
 
+### CAPITULO UNICO
+
 ###### ARTICULO 69.
 
 Cuando a juicio de un mando deba estimularse a uno o más elementos a sus órdenes, con motivo de haber realizado un acto relevante sin ser de los que ameriten alguna de las otras recompensas previstas en esta ley, dispondrá la citación del mismo, por medio de la orden particular, dando cuenta de ello al Alto Mando por los conductos regulares y anexándose copia para el expediente del interesado
@@ -477,3 +509,13 @@ La presente ley entrará en vigor el día siguiente de su publicación en el Dia
 México, D.F., a 13 de diciembre de 1984.- Celso Humberto Delgado Ramírez, S.P.- Enrique Soto Izquierdo, D.P.- Rafael Armando Herrera Morales, S.S.- Arturo Contreras Cuevas, D.S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE RECOMPENSAS DE LA ARMADA DE MÉXICO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, con movimientos compensados, por lo que no se incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
