@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-10-18"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -1157,47 +1157,49 @@ II. Dictamen de viabilidad financiera y administrativa, emitido por la Comisión
 
 III. Dictamen de estimación del impacto presupuestario y administrativo, así como también una corrida financiera de las nuevas plazas, emitido por la Secretaría de Finanzas Públicas y la Secretaría de Administración.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes unidades administrativas:
 
-Secretaría Particular;
+a) Secretaría Particular;
 
-Oficina Ejecutiva del Presidente Municipal;
+b) Oficina Ejecutiva del Presidente Municipal;
 
-Secretariado de Enlace Ciudadano;
+c) Secretariado de Enlace Ciudadano;
 
-Comité Municipal para el Desarrollo Integral de la Familia;
+d) Comité Municipal para el Desarrollo Integral de la Familia;
 
-Dirección General del Sistema para el Desarrollo Integral de la Familia;
+e) Dirección General del Sistema para el Desarrollo Integral de la Familia;
 
-Secretaría de Comunicación Social;
+f) Secretaría de Comunicación Social;
 
-Coordinación General de Delegaciones Urbanas y Rurales;
+g) Coordinación General de Delegaciones Urbanas y Rurales;
 
-Órgano Interno de Control;
+h) Órgano Interno de Control;
 
-Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+i) Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-Secretaría de Finanzas Públicas;
+j) Secretaría de Finanzas Públicas;
 
-Secretaría de Obras Públicas;
+k) Secretaría de Obras Públicas;
 
-Secretaría de Administración;
+l) Secretaría de Administración;
 
-Secretaría de Desarrollo Social;
+m) Secretaría de Desarrollo Social;
 
-Secretaría de Desarrollo Urbano;
+n) Secretaría de Desarrollo Urbano;
 
-Secretaría de Servicios Públicos;
+o) Secretaría de Servicios Públicos;
 
-Secretaría de Seguridad Pública;
+p) Secretaría de Seguridad Pública;
 
-Secretaría del Medio Ambiente y Desarrollo Sustentable.
+q) Secretaría del Medio Ambiente y Desarrollo Sustentable;
 
-Secretaría de Economía Social y Turismo Municipal; y
+r) Secretaría de Economía Social y Turismo Municipal;
 
-Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes.
+s) Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes; y
+
+t) Coordinación General de Salud.
 
 I.- PRESIDENCIA MUNICIPAL
 
@@ -1715,13 +1717,13 @@ Departamento de Recursos Humanos.
 
 Departamento de Control Presupuestal.
 
-Dirección de Salud Pública.
+> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-Departamento de Regulación Sanitaria.
+> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-Departamento de Rastro.
+> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-Departamento de Salud y Bienestar Animal.
+> <small>(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 Dirección de Limpia y Aseo Público.
 
@@ -1982,6 +1984,16 @@ Departamento de Atención a Solicitudes de Información y Datos Personales.
 Departamento de Capacitación y Vinculación Institucional.
 
 Departamento de Evaluación de Transparencia.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+XXI.- Coordinación General de Salud.
+
+Departamento de Regulación Sanitaria.
+
+Departamento de Rastro.
+
+Departamento de Salud y Bienestar Animal.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE JULIO DE 2018)</small>
 
@@ -3065,7 +3077,7 @@ CAPITULO (SIC) DÉCIMO CUARTO
 
 De la Secretaría de Servicios Públicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 #### SECCIÓN PRIMERA. Programa de Formación Policíaca
 
@@ -3073,77 +3085,29 @@ De la Secretaría de Servicios Públicos
 
 Corresponde a la Secretaría de Servicios Públicos lo siguiente:
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de limpia y aseo público, panteones, parques y jardines, así como alumbrado público.
 
-I.- La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, control de población canina y felina, limpia y aseo público, panteones, parques y jardines así como alumbrado público. En cuanto al control de la población canina y felina, el servicio no puede concesionarse.
+II. Ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+III. Supervisar las operaciones, funcionamiento y vigilancia de las inhumaciones, exhumaciones y reinhumaciones, pudiendo prestarlo en forma directa o por el conducto de los particulares, de acuerdo a la presente reglamentación.
 
-II.- Vigilar que los servicios que proporcione el rastro a los usuarios se haga en condiciones que garantice la higiene en el sacrificio humanitario y transportación de los productos cárnicos;
+IV. Regular y supervisar todo sistema de alumbrado público que los particulares, gobierno federal, estatal y municipal, así como los organismos descentralizados instalen en las vialidades y áreas públicas municipales; así como el solicitar un porcentaje del material instalado, en calidad de depósito en garantía, esto de acuerdo con los requerimientos que la dirección crea convenientes y necesarios.
 
-III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano dentro de su ámbito de competencia.
+V. Ejercer las atribuciones que le corresponden al Municipio en materia de alumbrado público de conformidad a la normatividad vigente.
 
-IV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales, así como haber acreditado la legítima propiedad del ganado, dentro de sus instalaciones.
+VI. Construir, contratar y concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas.
 
-V. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la normatividad vigente.
+VII. Promover y regular la participación de la ciudadanía en los programas de forestación y reforestación, vigilancia y conservación de las áreas verdes públicas municipales.
 
-VI. (DEROGADA, P.O. 13 DE ENERO DE 2014)
+VIII. Vigilar y regular el servicio de limpia y recolección de residuos sólidos, por sí o por conducto de terceras personas a través de concesiones o convenios.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+IX. Regular y vigilar los mecanismos, instrumentos y procedimientos para la prestación de los servicios de limpia y recolección, transportación, alojamiento, reúso, tratamiento, confinamiento y disposición final de residuos no peligrosos.
 
-VII. Ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
+X. Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen.
 
-VIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
+XI. Fomentar a través de programas de educación ambiental la disminución en la generación de basura, residuos y cambio en patrones de consumo y producción;
 
-IX. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
-
-X. Supervisar las operaciones, funcionamiento y vigilancia de las inhumaciones, exhumaciones y reinhumaciones, pudiendo prestarlo en forma directa o por el conducto de los particulares, de acuerdo a la presente reglamentación.
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
-
-XI. Regular y supervisar todo sistema de alumbrado público que los particulares, gobierno federal, estatal y municipal, así como los organismos descentralizados instalen en las vialidades y áreas públicas municipales; así como el solicitar un porcentaje del material instalado, en calidad de depósito en garantía, esto de acuerdo con los requerimientos que la dirección crea convenientes y necesarios.
-
-XII. Ejercer las atribuciones que le corresponden al Municipio en materia de alumbrado público de conformidad a la normatividad vigente.
-
-XIII. Construir, contratar y concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas.
-
-XIV. Promover y regular la participación de la ciudadanía en los programas de forestación y reforestación, vigilancia y conservación de las áreas verdes públicas municipales.
-
-XV. Vigilar y regular el servicio de limpia y recolección de residuos sólidos, por sí o por conducto de terceras personas a través de concesiones o convenios.
-
-XVI. Regular y vigilar los mecanismos, instrumentos y procedimientos para la prestación de los servicios de limpia y recolección, transportación, alojamiento, reuso, tratamiento, confinamiento y disposición final de residuos no peligrosos.
-
-XVII. Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen.
-
-XVIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XIX.- Fomentar a través de programas de educación ambiental la disminución en la generación de basura, residuos y cambio en patrones de consumo y producción;
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XX.- Regular y vigilar la salud pública por conducto de sus diversas unidades administrativas;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXI.- Verificar y vigilar el cumplimiento de las condiciones sanitarias de los establecimientos, productos, actividades y servicios en protección de la salud de la población;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXII.- Promover, fortalecer y apoyar las acciones en materia de salubridad local a cargo del Municipio, con sujeción a las políticas nacionales y estatales de salud y a los convenios que al efecto se celebren;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXIII.- Vigilar en la esfera de su competencia el cumplimiento de la Ley de Salud del Estado de Aguascalientes y de las demás disposiciones legales de la materia, así como instrumentar y desarrollar programas municipales que procuren el cumplimiento de este fin;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXIV.- Coordinarse con las autoridades estatales y federales en materia de salud a efecto de instrumentar y desarrollar programas para el mejoramiento de los niveles de salud y bienestar en el Municipio; y
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXV.- Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -3281,6 +3245,12 @@ XX. Promover el turismo local en el territorio Municipal, y
 
 XXI. Y las demás que le confieran las leyes de la materia.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+APARTADO DÉCIMO OCTAVO
+
+De la Coordinación Transparencia y Acceso a la Información del Municipio de Aguascalientes
+
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ARTÍCULO 114 QUATER.- Corresponde a la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes:
@@ -3306,6 +3276,38 @@ IX.- Brindar asesoría, apoyo técnico y capacitaciones a las Dependencias, para
 X.- Dar vista a la instancia competente de la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública, así como de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, y
 
 XI.- Las demás que se desprendan de la normatividad aplicable.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+APARTADO DÉCIMO NOVENO
+
+De la Coordinación General de Salud
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 114 QUINQUIES.- Corresponde a la Coordinación General de Salud:
+
+I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de salud pública municipal, rastro municipal, y control de población canina y felina. Este último servicio no podrá concesionarse.
+
+II. Vigilar que los servicios que proporcione el rastro a los usuarios se haga en condiciones que garantice la higiene en el sacrificio humanitario y transportación de los productos cárnicos;
+
+III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano dentro de su ámbito de competencia.
+
+IV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales, así como haber acreditado la legítima propiedad del ganado, dentro de sus instalaciones.
+
+V. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la normatividad vigente.
+
+VI. Regular y vigilar la salud pública por conducto de sus diversas unidades administrativas;
+
+VII. Verificar y vigilar el cumplimiento de las condiciones sanitarias de los establecimientos, productos, actividades y servicios en protección de la salud de la población;
+
+VIII. Promover, fortalecer y apoyar las acciones en materia de salubridad local a cargo del Municipio, con sujeción a las políticas nacionales y estatales de salud y a los convenios que al efecto se celebren;
+
+IX. Vigilar en la esfera de su competencia el cumplimiento de la Ley de Salud del Estado de Aguascalientes y de las demás disposiciones legales de la materia, así como instrumentar y desarrollar programas municipales que procuren el cumplimiento de este fin;
+
+X. Coordinarse con las autoridades estatales y federales en materia de salud a efecto de instrumentar y desarrollar programas para el mejoramiento de los niveles de salud y bienestar en el Municipio; y
+
+XI. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -24228,3 +24230,41 @@ P.O. 18 DE OCTUBRE DE 2021.
 PRIMERO: La presente reforma al artículo 82 apartado A) inciso III del Código Municipal de Aguascalientes, iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior COMISIÓN PERMANENTE DE SEGURIDAD PÚBLICA, se entenderán hechas o conferidas al actual COMISIÓN PERMANENTE DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL.
+
+P.O. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+
+SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Al momento de la aprobación de la presente reforma por parte del Honorable Ayuntamiento Constitucional del Municipio de Aguascalientes, se deberá iniciar el procedimiento de la entrega-recepción de la Coordinación General de Salud; lo cual será derivado del nombramiento del titular por parte del presidente Municipal de Aguascalientes dentro de los siguientes treinta días hábiles.
+
+Una vez designado el Coordinador General de Salud, se deberán de realizar los trámites respectivos para transferir a dicha Coordinación General, los recursos humanos, financieros y materiales.
+
+CUARTO.- Se faculta al o la titular de la Coordinación General de Salud, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la sustanciación de los procedimientos con antelación a la vigencia de la presente reforma.
+
+QUINTO.- El personal adscrito a la Dirección de Salud Pública que sea trasferido a la Coordinación General de Salud, conservará los derechos laborales que haya adquirido con anterioridad.
+
+La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
+
+SEXTO.- La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+
+SÉPTIMO.- La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
+
+OCTAVO.- La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+NOVENO.- Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+DÉCIMO.- La Coordinación General de la Salud, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Coordinación, con el fin de que se encuentre conforme a la presente reforma.
+
+DÉCIMO PRIMERO.- Dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, la Secretaría de Servicios Públicos deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes las reformas, reglamentos, lineamientos generales, manuales de organización y de procedimientos necesarios y correspondientes con el fin de que se encuentre conforme a la presente reforma y para su aprobación por el Honorables Ayuntamiento Constitucional del Municipio de Aguascalientes.
+
+DÉCIMO SEGUNDO.- Todos los trámites que hubiesen iniciado bajo la vigencia de los ordenamientos legales señalados en el transitorio primero, se deberán de concluir con los procedimientos previsto (sic) en los mismos.
+
+DÉCIMO TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Director de Salud Pública, se entenderán hechas o conferidas a la actual Coordinación General de Salud.
+
+DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado "De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes", que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado "De la Coordinación General de Salud" que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
+
+DÉCIMO QUINTO.- Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones.
