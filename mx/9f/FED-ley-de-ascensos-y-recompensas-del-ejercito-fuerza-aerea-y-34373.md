@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2020-04-15"
+last_updated: "2021-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-29"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -223,27 +223,33 @@ En igualdad de competencia profesional determinada por las puntuaciones obtenida
 
 Para participar en los concursos de selección, los Oficiales deberán satisfacer los requisitos siguientes:
 
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
 I. Tener como mínimo el tiempo de servicios que se expresa a continuación:
 
-a. Subtenientes: 6 años;
+a. Subtenientes: 5 años;
 
-b. Tenientes: 9 años;
+b. Tenientes: 8 años;
 
-c. Capitanes Segundos: 12 años, y
+c. Capitanes Segundos: 10 años, y
 
-d. Capitanes Primeros: 15 años.
+d. Capitanes Primeros: 13 años.
 
 II. Tener en el grado que ostente una antigüedad mínima de:
 
-a. Subtenientes: 3 años;
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+a. Subtenientes: 2 años;
 
-b. Subtenientes que hayan obtenido su grado conforme a la fracción III del artículo 9 de esta Ley o que hayan egresado de otras Instituciones Educativas Militares con estudios de tipo Superior de Nivel Licenciatura: 2 años;
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+b. Subtenientes que hayan obtenido su grado conforme a la fracción III del artículo 9 de esta Ley o que hayan egresado de otras Instituciones Educativas Militares con estudios de tipo Superior de Nivel Licenciatura: 1 año;
 
 c. Tenientes: 3 años;
 
-d. Capitanes Segundos: 3 años, y
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+d. Capitanes Segundos: 2 años, y
 
 e. Capitanes Primeros: 3 años.
 
@@ -345,11 +351,15 @@ VII. No encontrarse en alguno de los supuestos previstos en el artículo 35 de e
 
 Los Subtenientes egresados de las Instituciones Educativas Militares o Cursos de Formación de Oficiales o que hayan obtenido su grado en términos de la fracción III del artículo 9 de esta Ley, podrán participar por una sola ocasión en la Promoción Especial para ascender al grado de Teniente, en los casos siguientes:
 
-A. Una vez cumplidos dos años de su egreso, para el personal cuyos estudios tengan una duración de cuatro años, o tres si la duración de éstos fue de tres años.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+A. Una vez cumplido un año de su egreso, para el personal cuyos estudios tengan una duración de cuatro años, o dos si la duración de éstos fue de tres años.
 
 Lo anterior, siempre que hayan servido durante ese tiempo en las unidades del Ejército ejerciendo el mando o en unidades de vuelo de la Fuerza Aérea, si se trata de Pilotos Aviadores; tratándose de Oficiales de servicio, en los Servicios Orgánicos de las Unidades del Ejército, de unidades de vuelo de la Fuerza Aérea o en unidades de sus Servicios no encuadradas; y, en aquellos Servicios en que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 
-B. Una vez cumplidos dos años de antigüedad en el grado, del ascenso obtenido conforme a la fracción III del artículo 9 de esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+B. Una vez cumplido un año de antigüedad en el grado, del ascenso obtenido conforme a la fracción III del artículo 9 de esta Ley.
 
 En todo caso, el personal al que se refiere este artículo también deberá reunir los requisitos siguientes:
 
@@ -365,9 +375,13 @@ IV. No encontrarse en alguno de los supuestos previstos en el artículo 35 de es
 
 Para participar en los concursos de selección para el ascenso de Mayor a Teniente Coronel, se deberán satisfacer los requisitos siguientes:
 
-I. Tener como mínimo 19 años de tiempo de servicio;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
-II. Tener como mínimo cuatro años de antigüedad en el grado;
+I. Tener como mínimo 16 años de tiempo de servicio;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
+II. Tener como mínimo tres años de antigüedad en el grado;
 
 III. Haber prestado sus servicios en ese grado en la forma siguiente:
 
@@ -513,23 +527,41 @@ VI. Secretario: Subjefe Administrativo y Logístico del Estado Mayor de la Defen
 
 VII. Secretario Adjunto: Jefe de la Sección de Recursos Humanos del Estado Mayor de la Defensa Nacional.
 
+> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 34.
 
 Para poder participar en la Promoción Superior se deberá contar como mínimo a la fecha de ascenso con:
 
-I. Cuatro años de antigüedad en el grado, y
+I. Cuatro años de antigüedad en el grado;
 
 II. Los tiempos de servicios siguientes:
 
-a. Tenientes Coroneles: 23 años;
+a. Tenientes Coroneles: 20 años;
 
-b. Coroneles: 27 años;
+b. Coroneles: 24 años;
 
-c. Generales Brigadieres o de Grupo: 31 años, y
+c. Generales Brigadieres o de Grupo: 28 años, y
 
-d. Generales de Brigada o de Ala: 35 años.
+d. Generales de Brigada o de Ala: 32 años.
 
-Además de los requisitos señalados en el artículo 8 de la presente Ley.
+III. Buena conducta militar y civil;
+
+IV. Buena salud.
+
+La Secretaría podrá considerar en la convocatoria respectiva la participación de personal que se ubique en alguna de las hipótesis previstas en el artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. En este supuesto, el personal que participe deberá cumplir con las condiciones siguientes:
+
+a. Su condición de salud no haya requerido cambio de arma a servicio en términos del citado numeral;
+
+b. Lo solicite por escrito, y
+
+c. No se trate del padecimiento previsto en el numeral 13 del artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+
+V. Un índice de masa corporal inferior a 28.00;
+
+VI. Aprobación en los cursos de formación, capacitación, de perfeccionamiento o superiores y demás que estatuya la normativa vigente en materia de educación militar para el grado inmediato superior, y
+
+VII. Aptitud profesional y capacidad física.
 
 ###### ARTÍCULO 35.
 
@@ -938,3 +970,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, con movimientos compensados, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 22 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 18, 19, 20 Y 34 DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
