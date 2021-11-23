@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2021-07-19"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -77,11 +77,15 @@ Los acuerdos y los convenios tendrán carácter obligatorio para todos los parti
 
 Concepto de seguridad pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 3.
 
-La seguridad pública es una función a cargo del Estado y sus municipios orientada a la consecución de los siguientes fines:
+La seguridad pública es una función a cargo del Estado y los municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, para lo cual estos deberán:
 
-I. Salvaguardar los derechos humanos y sus garantías, la preservación del orden y la paz pública;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+I. Actuar dentro de los límites y conforme a los procedimientos que permitan preservar tanto la seguridad pública como los derechos humanos;
 
 II. Disminuir y contener la incidencia delictiva, identificando sus factores criminógenos;
 
@@ -111,11 +115,15 @@ II. Consejo Estatal: el Consejo Estatal de Seguridad Pública;
 
 III. Instituto: el Instituto de Formación en Seguridad Pública del Estado;
 
-IV. Programa Rector: el conjunto de contenidos encaminados a la profesionalización de los integrantes de las Instituciones Policiales previstas en la Ley General del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-V. Sistema: el Sistema Estatal de Seguridad Pública; y
+IV. Ley del Servicio Profesional: Ley del Servicio Profesional de Carrera Policial del Estado y Municipios de Guanajuato;
 
-VI. Secretaría: la Secretaría de Seguridad Pública.
+V. Programa Rector: el conjunto de contenidos encaminados a la profesionalización de los integrantes de las Instituciones Policiales previstas en la Ley General del Sistema Nacional de Seguridad Pública;
+
+VI. Sistema: el Sistema Estatal de Seguridad Pública; y
+
+VII Secretaría: la Secretaría de Seguridad Pública.
 
 ## Título Segundo. Autoridades y competencias en materia de Seguridad Pública
 
@@ -1061,137 +1069,63 @@ Ningún servidor público podrá tener medidas de protección por dos cargos div
 
 ### Capítulo I. Derechos y Obligaciones
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 Derechos de los integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 43.
 
-Son derechos de los integrantes de las Instituciones de Seguridad Pública, los siguientes:
+Son derechos de los integrantes de las Instituciones de Seguridad Pública los previstos por la Ley del Servicio Profesional y demás leyes, reglamentos y disposiciones aplicables.
 
-I. Percibir un salario remunerador conforme a su rango y el presupuesto que corresponda;
-
-II. Gozar de las prestaciones, así como recibir oportuna atención médica y el tratamiento adecuado, cuando sufran lesiones en el cumplimiento del deber, en la institución pública o privada más cercana al lugar de los hechos y contar con un seguro de vida;
-
-III. Ser recluidos en áreas especiales para los policías, en los casos en que sean sujetos a prisión;
-
-IV. Recibir asistencia jurídica gratuita institucional, en los casos en que por motivo del cumplimiento del servicio sean sujetos de algún procedimiento que tenga por objeto fincarles responsabilidades penal, civil o administrativa;
-
-V. Que les sean respetados los derechos que les reconoce la Carrera Policial, en los términos de esta Ley;
-
-VI. Recibir un trato digno y respetuoso de sus superiores jerárquicos;
-
-VII. Conocer las causas específicas que motivan su remoción;
-
-VIII. Recibir una constancia de resultado, cuando sean sujetos a las evaluaciones de control y confianza; y
-
-IX. Las demás que les confieran las leyes y reglamentos de la materia.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 Obligaciones de los integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 44.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública tendrán las siguientes obligaciones:
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública tendrán las obligaciones establecidas en la Ley del Servicio Profesional.
 
-I. Conducirse siempre con dedicación y disciplina dentro y fuera del servicio, con apego al orden jurídico y respeto a los derechos humanos reconocidos en la Constitución Federal, los tratados internacionales reconocidos por ésta y la particular del Estado;
-
-II. Preservar la reserva y abstenerse en términos de las disposiciones aplicables de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
-
-III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
-
-IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
-
-V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
-
-VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
-
-VII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
-
-VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y jurídicos aplicables;
-
-IX. Velar por la vida e integridad física de las personas detenidas;
-
-X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
-
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
-
-XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, y brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
-
-XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
-
-XV. Someterse a evaluaciones de control de confianza que tendrá una vigencia de tres años para acreditar el cumplimiento de sus requisitos de permanencia, excepto para el personal que desempeña funciones de mando, cuyo caso la vigencia de la evaluación será de un año.
-
-XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
-
-XVII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
-
-XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
-
-XIX. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;
-
-XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones de Seguridad Pública y de Procuración de Justicia;
-
-XXI. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
-
-XXII. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente, o cuando se configure la salvedad prevista en la fracción siguiente;
-
-XXIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de sus instituciones;
-
-XXIV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
-
-XXV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las instituciones, dentro o fuera del servicio;
-
-XXVI. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
-
-XXVII. Abstenerse de generar daños en el patrimonio de los particulares en el ejercicio de sus funciones; y
-
-XXVIII. Las demás que establezcan las disposiciones jurídicas aplicables.
-
-Obligaciones adicionales de los integrantes de las Instituciones Policiales
+La formación y el desempeño de los integrantes de las Instituciones Policiales se regirán por una doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente a la perspectiva de género.
 
 ###### Artículo 45.
 
-Además de lo señalado en el artículo anterior, los integrantes de las Instituciones Policiales tendrán las obligaciones siguientes:
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
-I. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realicen;
-
-II. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes;
-
-III. Apoyar a las autoridades que así se los soliciten en la investigación y persecución de delitos, así también en situaciones de grave riesgo, catástrofes o desastres;
-
-IV. Ejecutar los mandamientos judiciales y ministeriales;
-
-V. Obtener y mantener actualizado su Certificado Único Policial;
-
-VI. Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre ellos funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
-
-VII. Responder sobre la ejecución de las órdenes directas que reciban a un solo superior jerárquico; por regla general, respetando preponderantemente la línea de mando;
-
-VIII. Participar en operativos de coordinación con otras corporaciones policiales, y brindarles el apoyo que conforme a derecho y posibilidades proceda;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
-
-IX. Mantener en buen estado el armamento, material, municiones y equipo que se les asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
-
-X. Abstenerse de asistir uniformados a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2020)</small>
-
-XI. Portar o utilizar, cuando participen en operativos, únicamente los equipos de radiofrecuencia, de telefonía, o cualquier otro dispositivo de comunicación que les hayan sido proporcionados por la Institución a la que pertenecen, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo.
-
-Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 Faltas graves
 
 ###### Artículo 45
 
-1. Se considerarán faltas graves las contenidas en las fracciones I, II, VIII, XIX, XX, XXII, XXIII y XXIV del artículo 44 y las fracciones IV, VI, VIII, IX X (sic) y XI del artículo 45 de la presente Ley.
+1. Será considerado como falta grave el incumplimiento de las obligaciones siguientes:
+
+I. Conducirse siempre con dedicación y disciplina, así como en apego al orden jurídico y con respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política para el Estado de Guanajuato;
+
+II. Guardar reserva de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
+
+III. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y jurídicos aplicables;
+
+IV. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;
+
+V. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;
+
+VI. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+
+VII Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+
+VIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de sus Instituciones Policiales;
+
+IX. Ejecutar los mandamientos judiciales y ministeriales;
+
+X. Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre ellos funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
+
+XI. Participar en operativos de coordinación con otras corporaciones policiales, y brindarles el apoyo que conforme a derecho y posibilidades proceda;
+
+XII, Mantener en buen estado el armamento, material, municiones y equipo que se les asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+
+XIII. Abstenerse de asistir uniformados a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de sus funciones o en casos de flagrancia; y
+
+XIV. Portar o utilizar, cuando participen en operativos, únicamente los equipos de radiofrecuencia, de telefonía, o cualquier otro dispositivo de comunicación que les hayan sido proporcionados por la Institución a la que pertenecen, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo.
 
 Organización y funcionamiento de las Instituciones Policiales de los municipios
 
@@ -1331,6 +1265,10 @@ El control de confianza es el proceso que tiene por objeto evaluar la condición
 
 El Centro de Evaluación y Control de Confianza del Estado tendrá la obligación de expedir constancia de resultado del proceso de evaluación aplicado a los integrantes de las instituciones policiales.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Los integrantes de las Instituciones de Seguridad Pública tendrán derecho a recibir la constancia de resultado de la evaluación de control y confianza.
+
 Centros de evaluación y control de confianza de las instituciones de seguridad pública
 
 ###### Artículo 53.
@@ -1411,15 +1349,19 @@ El uso de la fuerza está en directa relación con los medios que emplean las pe
 
 ### Capítulo IV. Sistemas Complementarios de Seguridad Social y Reconocimientos
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 Prestaciones complementarias de seguridad social para los integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 59.
 
-El Estado y los municipios garantizarán a los integrantes de sus Instituciones Policiales al menos las prestaciones previstas como mínimas para los trabajadores al servicio del Estado y los municipios. Adicionalmente a fin de propiciar el fortalecimiento del sistema de seguridad social del personal integrante de las Instituciones Policiales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
+El Estado y los municipios garantizarán a los integrantes de sus Instituciones Policiales al menos las prestaciones previstas como mínimas para los trabajadores al servicio del Estado y los municipios.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+Adicionalmente a fin de propiciar el fortalecimiento del sistema de seguridad social del personal integrante de las Instituciones Policiales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social los cuales deben contemplar, al menos, gastos funerarios, atención psicológica, así como becas y apoyos educativos, de conformidad a la suficiencia presupuestal del Estado y los municipios.
+
+Las prestaciones adicionales establecidas en el párrafo anterior no forman parte del salario integrado.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 Reglas para la remuneración y sistemas complementarios de seguridad social de las Instituciones Policiales
 
@@ -1429,51 +1371,19 @@ Reglas para la remuneración y sistemas complementarios de seguridad social de l
 
 Las Instituciones Policiales municipales, considerarán las recomendaciones relativas a la remuneración de los integrantes que para tal efecto realice el Instituto.
 
-I. De igual forma, se establecerá un sistema de compensaciones para los ascendientes, descendientes, cónyuge, concubina o concubinario, siempre que hubiesen dependido económicamente de los elementos de las Instituciones Policiales, que contemplen el fallecimiento y la incapacidad total o permanente acaecidos por motivo de sus funciones de conformidad con lo siguiente:
+Cuando los elementos integrantes de las Instituciones de Seguridad Pública, en el cumplimiento de su deber sufran lesiones, tendrán derecho a recibir oportuna atención médica y trato adecuado, así como a contar con un seguro de vida, en términos de la Ley del Servicio Profesional.
 
-a) Indemnización por incapacidad total o permanente en el que la suma deberá ser al menos de cincuenta y hasta doscientos meses de salario íntegro, dicha suma será suministrada de conformidad con la normatividad correspondiente.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-En el caso de incapacidad parcial, las Instituciones Policiales, deberán velar por la permanencia laboral en un área administrativa que su condición se lo permita; y
-
-b) Indemnización por fallecimiento en el que la suma deberá ser al menos de ciento cincuenta y hasta trescientos meses de salario íntegro, dicha suma será suministrada de conformidad con la normatividad correspondiente.
-
-II. Adicionalmente, deberán contar al menos con lo siguiente:
-
-a) Pago de gastos funerarios por el fallecimiento del elemento de las Instituciones Policiales;
-
-b) La atención psicológica, que requiera por afectaciones o alteraciones que sufra a consecuencia del desempeño de sus funciones;
-
-c) Becas educativas para los elementos de las Instituciones Policiales y sus descendientes menores de edad; y
-
-d) Becas y apoyos educativos para los descendientes menores de edad de los integrantes de las Instituciones Policiales fallecidos o que les haya sobrevenido incapacidad total permanente, en el ejercicio o con motivo de sus funciones.
-
-Para tales efectos, el titular del Poder Ejecutivo del Estado y los ayuntamientos deberán promover en el ámbito de sus competencias, las adecuaciones normativas.
-
-El sistema de compensaciones y las prestaciones adicionales establecidas en el presente artículo no forman parte del salario integrado.
-
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
-
-Fideicomiso para los integrantes de las Instituciones Policiales
+Mecanismos para el otorgamiento de derechos para los integrantes de las Instituciones Policiales
 
 ###### Artículo 59
 
-2. El Poder Ejecutivo del Estado y los ayuntamientos, deberán integrar un Fideicomiso para el pago de las compensaciones a que se refiere la fracción I del artículo anterior.
-
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
-
-Requisitos que integran el Fideicomiso para el pago de las remuneraciones y sistemas complementarios de seguridad social de las Instituciones Policiales
+2. El Poder Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, preverán los mecanismos necesarios para el otorgamiento de los derechos referidos en el artículo anterior.
 
 ###### Artículo 59
 
-3. El Fideicomiso para el pago de las compensaciones de los integrantes de las Instituciones Policiales se integrará de la siguiente manera.
-
-I. Recursos asignados en el Presupuesto General de Egresos del Estado;
-
-II. Recursos destinados para tal efecto en los presupuestos de egresos de los cuarenta y seis municipios del Estado; y
-
-III. Las donaciones o aportaciones realizadas por el sector privado.
-
-Para tales efectos, el Estado y los municipios deberán promover en el ámbito de sus competencias, las adecuaciones legales y presupuestarias respectivas.
+3. (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
 Desarrollo policial
 
@@ -3116,3 +3026,9 @@ P.O. 19 DE JULIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor a los noventa días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 SEGUNDO. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones o adecuaciones normativas necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
