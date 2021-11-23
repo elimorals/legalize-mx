@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8938
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-11"
-last_updated: "2019-08-01"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre del 2012.
 
@@ -427,6 +427,10 @@ Las asambleas generales se regirán por las siguientes disposiciones:
 
 I. Serán celebradas en las instalaciones del condominio. Cuando esto no sea posible, en un lugar apropiado para ese efecto perteneciente al mismo municipio en donde esté ubicado el condominio, seleccionado por el administrador con opinión del Comité de Vigilancia;
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Podrán realizarse a distancia mediante el uso de herramientas tecnológicas, ante una emergencia declarada por la autoridad respectiva que impida o haga inconveniente la presencia de los condóminos en el recinto destinado para tal efecto, atendiendo a las formalidades que establece la presente ley y los reglamentos correspondientes;
+
 II. Sesionarán válidamente con la asistencia de por lo menos el setenta y cinco por ciento del total de los condóminos, en primera convocatoria; con más del cincuenta por ciento de éstos, en segunda convocatoria; o con los que asistan, en tercera convocatoria, salvo los casos especiales señalados en esta Ley;
 
 III. En los casos en los que sólo un condómino represente más del cincuenta por ciento del valor total inicial del inmueble y los condóminos restantes no asistan a la Asamblea General, previo anuncio de la convocatoria de acuerdo a esta Ley, la Asamblea podrá celebrarse en los términos de la fracción anterior;
@@ -445,7 +449,9 @@ Cuando un solo condómino represente más del cincuenta por ciento del valor tot
 
 IX. Las resoluciones de la Asamblea General se aprobarán por mayoría simple, excepto en los casos en que esta Ley, la escritura constitutiva del régimen o el reglamento interno establezcan una mayoría especial;
 
-X. El secretario de la Asamblea General levantará el acta de la sesión, en la que se asentará el lugar, fecha, hora de inicio y de terminación, el orden del día, su desarrollo, los acuerdos aprobados con el señalamiento de la votación recaída a cada asunto del orden del día y las firmas del presidente y del secretario, de los miembros del Comité de Vigilancia que asistieron y de los condóminos que así lo soliciten. El acta se integrará al libro de actas de la Asamblea General.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+X. El secretario de la Asamblea General levantará el acta de la sesión, en la que se asentará el lugar, fecha, hora de inicio y de terminación, la indicación de modalidad a distancia en su caso, el orden del día, su desarrollo, los acuerdos aprobados con el señalamiento de la votación recaída a cada asunto del orden del día y las firmas del presidente y del secretario, de los miembros del Comité de Vigilancia que asistieron y de los condóminos que así lo soliciten. El acta se integrará al libro de actas de la Asamblea General.
 
 Cuando se haya convocado legalmente a una Asamblea General y no se cuente con el libro de actas de la Asamblea General, por alguna circunstancia extraordinaria, el acta podrá levantarse en fojas por separado, haciendo constar en ella tal circunstancia; y
 
@@ -549,7 +555,9 @@ a) Quién convoca;
 
 b) Tipo de Asamblea de que se trate;
 
-c) Hora, fecha y lugar de celebración;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+c) Hora, fecha, lugar de la celebración o indicar que se realizará bajo la modalidad a distancia estableciendo la plataforma y link respectivo;
 
 d) El orden del día;
 
@@ -1185,7 +1193,9 @@ En los casos en que el ejercicio de los derechos o el cumplimiento de las obliga
 
 Cuando la mediación y conciliación en sede judicial no produzca la celebración de un convenio que resuelva el conflicto y éste siga exteriorizándose en conductas que afecten la armonía condominal, el administrador o el Comité de Vigilancia, a solicitud de alguno de los que se encuentren inmersos en el conflicto, convocará a Asamblea General Extraordinaria, en cuyo orden del día se indique que uno de sus propósitos será el dar solución al conflicto. Para ese efecto, se precisará la naturaleza de éste y las personas entre quienes ha surgido el conflicto.
 
-El convocante de la Asamblea General Extraordinaria, solicitará la presencia de un mediador y conciliador itinerante del Centro Estatal de Justicia Alternativa, haciendo saber al subdirector correspondiente, el motivo de la solicitud, la fecha, hora y lugar en que se celebrará la Asamblea y, en su caso, le hará llegar los documentos pertinentes para que se pueda agendar oportunamente la asistencia del personal del Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+El convocante de la Asamblea General Extraordinaria, solicitará la presencia de un mediador y conciliador itinerante del Centro Estatal de Justicia Alternativa, haciendo saber al subdirector correspondiente, el motivo de la solicitud, la fecha, hora y lugar en que se celebrará la Asamblea, si se realizará en modalidad a distancia y, en su caso, le hará llegar los documentos pertinentes para que se pueda agendar oportunamente la asistencia del personal del Centro Estatal de Justicia Alternativa.
 
 Designación del mediador y conciliador e intervención en la Asamblea
 
@@ -1280,3 +1290,9 @@ Artículo Segundo. Los ayuntamientos deberán actualizar los reglamentos y demá
 Programa de actualización de micro medición
 
 Artículo Tercero. Los organismos operadores contarán con un periodo de ciento ochenta días posteriores a la entrada en vigor del presente decreto para crear, impulsar e implementar un programa de actualización de micro medición para los usuarios que no cuenten con este servicio, generando acciones que faciliten la incorporación a este nuevo sistema.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 3 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
