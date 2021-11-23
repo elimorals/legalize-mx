@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2021-03-22"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -96,6 +96,10 @@ V.- Coordinadora de Eje: La dependencia de la Administración Pública Estatal q
 ###### Artículo 5o.
 
 El Gobernador del Estado para auxiliarse en el desempeño de sus funciones, tendrá directamente adscritas las unidades de asesoría, de apoyo técnico y administrativo, de acceso a la información, de archivos y de coordinación para la conformación de estructuras organizacionales y de políticas públicas, así como en materia de tecnología de la información y de comunicación social. También podrá establecer oficinas de representación del Gobierno del Estado fuera del propio territorio, que determine de acuerdo a sus atribuciones, al presupuesto que se autorice y con apego a la Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+La Jefatura de Gabinete del Poder Ejecutivo del Estado de Guanajuato es la unidad de apoyo del Gobernador del Estado encargada de coordinar a las dependencias y entidades de la administración pública estatal, así como dar seguimiento a sus metas.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -445,9 +449,9 @@ l) Prestar y ordenar el servicio público de transporte de competencia estatal, 
 
 m) Vigilar el cumplimiento de las disposiciones legales estatales de los medios masivos de comunicación, así como dirigir y supervisar la administración de aquellos pertenecientes al Poder Ejecutivo del Estado;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-n) Realizar en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial, así como con las dependencias y entidades estatales, de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra;
+n) Realizar en coordinación con la Secretaría de Desarrollo Social y Humano, así como con las dependencias y entidades estatales de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
 
 V.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -605,7 +609,7 @@ g) Coordinar el proceso de evaluación socioeconómica de proyectos del Estado p
 
 h) Promover esquemas de capacitación que permitan mejores prácticas en la formulación y ejecución de proyectos; y
 
-i) Coordinar con la Secretaría de la Transparencia y Rendición de Cuentas y las instancias competentes, que haya congruencia entre los programas de las dependencias y entidades del Poder Ejecutivo con el Programa de Gobierno y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, sin perjuicio de las atribuciones que corresponden a las Coordinadoras de Eje o Sector; y
+i) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -715,9 +719,11 @@ g) Realizar en coordinación con las autoridades competentes, las acciones neces
 
 VI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-La Secretaría de Desarrollo Social y Humano es la dependencia encargada de procurar el desarrollo individual y comunitario de la población del Estado, así como combatir la pobreza, y le competen las siguientes atribuciones:
+La Secretaría de Desarrollo Social y Humano es la dependencia encargada de procurar el desarrollo individual y comunitario de la población del Estado, combatir la pobreza, así como de la implementación de políticas públicas relativas a la vivienda y a los asentamientos humanos y le competen las siguientes atribuciones:
 
 I.- En materia de desarrollo social y humano:
 
@@ -759,19 +765,51 @@ III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
 
 IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
 
-V.- En materia de equipamiento urbano y vivienda:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-a) Promover y concertar acciones de vivienda y apoyar su ejecución con la participación de otras dependencias y entidades del Poder Ejecutivo y de las autoridades municipales, así como de los sectores social y privado;
+V.- En materia de asentamientos humanos, equipamiento urbano y vivienda:
 
-b) Impulsar en corresponsabilidad con los ayuntamientos, el desarrollo integral de las comunidades urbanas y rurales, estableciendo con ellas y con las demás dependencias y entidades del Poder Ejecutivo del Estado competentes, los programas de obra, de servicio e infraestructura básicos, a fin de aumentar el nivel de bienestar de sus habitantes;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-c) Coordinar con los organismos auxiliares, dependencias estatales, autoridades federales y municipales que correspondan, la formulación y operación de los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado;
+a) Promover el estudio y análisis de la situación en que se encuentran los fraccionamientos y asentamientos humanos que existen en el estado;
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+b) Promover en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial y la Procuraduría Ambiental y de Ordenamiento Territorial y con la participación de los ayuntamientos del Estado, el desarrollo sostenible de los asentamientos humanos, de acuerdo con el Código Territorial y los instrumentos de planeación del desarrollo urbano y ordenamiento ecológico territorial;
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+c) Efectuar acciones tendientes a la regularización de la tenencia de la tierra en coordinación con la Secretaría de Gobierno y los municipios;
 
 d) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 e) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 f) (DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2018)
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+g) Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación de los municipios, en apego a los programas en materia de desarrollo urbano y ordenamiento ecológico territorial;
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+h) Impulsar en corresponsabilidad con los ayuntamientos, el desarrollo integral de las comunidades urbanas y rurales, estableciendo con ellas y con las demás dependencias y entidades del Poder Ejecutivo del Estado, los programas de obra, de servicio e infraestructura básicos, a fin de aumentar el nivel de bienestar de sus habitantes;
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+i) Coordinar con los organismos auxiliares, dependencias estatales, autoridades federales y municipales, la formulación y operación de los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado;
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+j) Coordinar la planeación estatal en materia de vivienda y la inversión en esta, el equipamiento y servicios urbanos;
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+k) Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa; y
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+l) Promover y concertar acciones de vivienda y apoyar su ejecución con la participación de otras dependencias y entidades del Poder Ejecutivo y de las autoridades municipales, así como de los sectores social y privado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN VII], P.O. 21 DE MAYO DE 2013)</small>
 
@@ -1001,9 +1039,17 @@ i) Coadyuvar en la conservación del patrimonio inmobiliario histórico y cultur
 
 j) Vigilar que se respete el derecho de vía en las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del estado;
 
-k) Planear, programar y presupuestar la construcción, conservación, mantenimiento y modernización de las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del estado; y
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-l) Planear, organizar y administrar la infraestructura, a fin de que sea incluyente;
+k) Planear, programar y presupuestar la construcción, conservación, mantenimiento y modernización de las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del Estado;
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+l) Planear, programar, presupuestar, contratar y dar seguimiento a las acciones de construcción, reconstrucción, reforzamiento, rehabilitación, habilitación, adecuación, mantenimiento y equipamiento físico de inmuebles e instalaciones destinados a la prestación del servicio público de educación, en coordinación con la Secretaría de Educación;
+
+La competencia será sin perjuicio de la prevista en la Ley General de Educación al Comité Escolar de Administración Participativa; y
+
+m) Planear, organizar y administrar la infraestructura, a fin de que sea incluyente;
 
 II.- En materia de conectividad y movilidad:
 
@@ -1025,7 +1071,27 @@ h) Proponer, integrar y administrar técnicamente la cartera de proyectos de imp
 
 i) Impulsar la tecnología digital en el estado, para potenciar el desarrollo social y el impulso a los mercados digitales; y
 
-III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+III.- En materia de infraestructura física educativa:
+
+a) Realizar las actividades en materia de ejecución de infraestructura educativa con apego a la normatividad;
+
+b) Realizar los diagnósticos y pronósticos relacionados con la infraestructura física educativa;
+
+c) Definir las acciones de prevención en materia de seguridad sísmica y estructural de los inmuebles e instalaciones destinados al servicio educativo;
+
+d) Validar los proyectos ejecutivos para acciones diferentes al mantenimiento menor, a realizarse en las instituciones educativas públicas, incluyendo aquellos que se ejecuten por parte de los Comités Escolares de Administración Participativa o sus equivalentes;
+
+e) Coordinar la validación de dictámenes técnicos para la gestión de incorporación de los particulares;
+
+f) Atender las necesidades de infraestructura, de acuerdo con la priorización que la Secretaría de Educación establezca para garantizar la prestación del servicio educativo; y
+
+g) Las demás atribuciones que señalen las disposiciones.
+
+Para efecto de esta fracción deberá sujetarse a la planeación previamente establecida.
+
+IV.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 31.
 
@@ -1305,7 +1371,9 @@ i) Proponer el establecimiento de áreas naturales protegidas y promover para su
 
 j) Fomentar el desarrollo y uso de la tecnología para la protección y en su caso, el aprovechamiento sustentable de los recursos naturales, así como para el uso de energías limpias;
 
-k) Elaborar estudios de riesgo ambiental y coordinar los estudios, trabajos y servicios meteorológicos y climatológicos, así como los estudios hidrológicos e hidrogeológicos que realice el organismo estatal del agua de Guanajuato;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+k) Elaborar estudios de riesgo ambiental y coordinar los estudios, trabajos y servicios meteorológicos y climatológicos;
 
 l) Coordinar y ejecutar proyectos de formación, capacitación y actualización dirigidos a la mejora de la gestión ambiental;
 
@@ -1337,17 +1405,19 @@ h) Promover la celebración de convenios de colaboración con los municipios en 
 
 i) Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos que se dispongan para tal efecto;
 
-j) Efectuar acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios;
+j) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
-k) Promover el estudio y análisis de la situación en que se encuentran los diversos fraccionamientos y asentamientos humanos que existen en el estado;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-l) Promover y vigilar en coordinación con los ayuntamientos del Estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
+k) Promover el estudio y análisis de la situación ambiental, hídrica y de ordenamiento territorial en que se encuentran los centros de población en el estado;
 
-m) Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación de los municipios;
+l) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
-n) Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos; y
+m) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
-ñ) Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa; y
+n) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+
+ñ) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
 III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -1479,11 +1549,11 @@ Las entidades paraestatales deberán proporcionar a las demás entidades del sec
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, así como de las metas y objetivos señalados en sus programas. Asimismo, podrán participar en los sectores a los que sean convocadas, independientemente del que pertenezcan.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 44.
 
-Las Secretarías de Finanzas, Inversión y Administración, de la Transparencia y Rendición de Cuentas, y las áreas de planeación deberán coordinar que haya congruencia entre los programas de las dependencias y entidades del Poder Ejecutivo con el Programa de Gobierno y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, sin perjuicio de las atribuciones que corresponden a las coordinadoras de sector.
+Las áreas de planeación del Poder Ejecutivo deberán asegurar la alineación entre los programas presupuestarios de las dependencias y entidades con el Plan Estatal de Desarrollo, el Programa de Gobierno y sus programas derivados, y con los lineamientos y disposiciones generales para cada etapa del ciclo presupuestario, sin perjuicio de las atribuciones que corresponden a las coordinadoras de sector.
 
 ### CAPÍTULO TERCERO. ORGANISMOS DESCENTRALIZADOS
 
@@ -1825,11 +1895,11 @@ El órgano de vigilancia estará integrado por un comisario propietario y un sup
 
 ### CAPÍTULO SEXTO. DESARROLLO, CONTROL Y EVALUACIÓN
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 87.
 
-Las entidades paraestatales para su desarrollo y operación deberán sujetarse al Programa de Gobierno y a los programas que de éste deriven, a las directrices que en materia de programación y evaluación emita el área encargada de la planeación, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas, Inversión y Administración, así como a las políticas que defina la Secretaría coordinadora de sector.
+Las entidades paraestatales para su desarrollo y operación deberán sujetarse al Plan Estatal de Desarrollo, al Programa de Gobierno y a sus programas derivados, atendiendo a las disposiciones normativas aplicables al ciclo presupuestario, así como a las políticas que defina la Secretaría coordinadora de sector.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2215,6 +2285,10 @@ Artículo Séptimo. Las Secretarías de Finanzas, inversión y Administración, 
 
 Los asuntos que se encuentren en trámite al momento de la extinción de las entidades referidas en este artículo, serán resueltos por las secretarías correspondientes.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+La Secretaría de Finanzas, Inversión y Administración llevará a cabo la liquidación de la Comisión de Vivienda del Estado de Guanajuato, para lo cual establecerá las bases bajo las cuales se desarrollará este proceso.
+
 P.O. 12 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 56, APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
@@ -2344,3 +2418,25 @@ P.O. 22 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 308 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 28, FRACCIÓN I, INCISO M) Y 32, FRACCIÓN III, INCISO B) Y FRACCIÓN V, INCISO A) DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO Y, EL SEGUNDO Y TERCER PÁRRAFOS DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO LEGISLATIVO 217, POR EL CUAL SE REFORMÓ EL ARTÍCULO 32, FRACCIÓN V, INCISO A) Y, SE ADICIONÓ EL ARTÍCULO 28, FRACCIÓN I, INCISO M), DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 179, SEGUNDA PARTE, DEL 7 DE SEPTIEMBRE DEL AÑO 2020".]
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 6 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO Y DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigencia del presente decreto el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para el cumplimiento del presente decreto, en un término que no exceda de 180 días. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente decreto, acorde a lo establecido en el artículo transitorio siguiente.
+
+Artículo Tercero. La Secretaría de Medio Ambiente y Ordenamiento Territorial y el Instituto de Infraestructura Física Educativa, transferirán a las secretarías de Desarrollo Social y Humano, y de Infraestructura, Conectividad y Movilidad, según corresponda, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la dependencia y entidad paraestatal referidas en el párrafo que antecede, conforme a su situación laboral pasarán a formar parte de las secretarías de Desarrollo Social y Humano, y de Infraestructura, Conectividad y Movilidad, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Artículo Cuarto. Las secretarías de Desarrollo Social y Humano, y de Infraestructura, Conectividad y Movilidad, sustituyen en su ámbito de competencia en todas sus obligaciones y asumen los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial y el Instituto de Infraestructura Física Educativa que les transfieran los asuntos en términos del artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias a la Secretaría de Medio Ambiente y Ordenamiento Territorial, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Desarrollo Social y Humano de conformidad con el artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto de Infraestructura Física Educativa, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Infraestructura, Conectividad y Movilidad de conformidad con el artículo tercero transitorio del presente Decreto.
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a las secretarías de Desarrollo Social y Humano; y de Infraestructura, Conectividad y Movilidad para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
