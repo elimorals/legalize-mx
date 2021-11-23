@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2021-09-24"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -97,9 +97,13 @@ XIII. Secretaría: la Secretaría de Educación;
 
 XIV. Servicio social: la actividad temporal y obligatoria que ejecuten y presten los educandos beneficiados directamente por los servicios educativos de los tipos medio superior y superior, a favor de la sociedad y del Estado;
 
-XV. Sistema Educativo Estatal: al conjunto de personas, instituciones y elementos educativos dedicados a la función social de la educación en la Entidad, en los términos de esta Ley; y
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XVI. Trastornos generalizados del desarrollo: aquellos que implican déficit o retraso en el desarrollo de las áreas de atención, interacción, comunicación y socialización, varía en cada persona en cuanto capacidades, inteligencia y comportamiento. Entre estos trastornos se incluye autismo, síndrome de asperger, TDAH y desintegrativo infantil.
+XV. SICOM: La Secretaría de Infraestructura, Conectividad y Movilidad;
+
+XVI. Sistema Educativo Estatal: al conjunto de personas, instituciones y elementos educativos dedicados a la función social de la educación en la Entidad, en los términos de esta Ley; y
+
+XVII. Trastornos generalizados del desarrollo: aquellos que implican déficit o retraso en el desarrollo de las áreas de atención, interacción, comunicación y socialización, varía en cada persona en cuanto capacidades, inteligencia y comportamiento. Entre estos trastornos se incluye autismo, síndrome de asperger, TDAH y desintegrativo infantil.
 
 Para los efectos de esta Ley y las demás disposiciones que regulan al Sistema Educativo Estatal, se entenderá como sinónimos de docente, los conceptos de educadora, educador, profesora, profesor, maestra y maestro.
 
@@ -719,7 +723,9 @@ XI. Establecer los mecanismos administrativos para que el Sistema Educativo Esta
 
 XII. Desarrollar el programa operativo anual de educación, en concordancia con la planeación estatal para mejorar los servicios y la calidad educativa;
 
-XIII. Programar con el organismo responsable de la infraestructura física educativa los planteles a intervenir;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XIII. Programar con la SICOM los planteles a intervenir en materia de infraestructura física educativa;
 
 XIV. Proponer la competencia y estructura de los organismos, de las unidades administrativas y de las instituciones públicas de la Entidad que presten los servicios educativos;
 
@@ -2425,35 +2431,13 @@ Las instituciones públicas de educación media superior y superior determinará
 
 ### Capítulo I. Responsable de la Infraestructura Física Educativa
 
-Instancia u Organismo responsable de la infraestructura física educativa
-
 ###### Artículo 211.
 
-El organismo responsable de la Infraestructura física educativa será el encargado de planear, programar, presupuestar, contratar y dar seguimiento a las acciones de construcción, reconstrucción, reforzamiento, rehabilitación, habilitación, adecuación, mantenimiento y equipamiento de inmuebles e instalaciones destinados a la prestación del servicio público de educación.
-
-La competencia del organismo en mención será sin perjuicio de la prevista en la Ley General de Educación al Comité Escolar de Administración Participativa.
-
-Competencia del Organismo responsable de la Infraestructura Física Educativa
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 212.
 
-El Instituto u Organismo responsable de la Infraestructura Física Educativa, es la instancia competente en el Estado de Guanajuato, para:
-
-I. Realizar las actividades correspondientes en materia de ejecución de infraestructura educativa con apego a la normatividad aplicable;
-
-II. Realizar los diagnósticos y pronósticos relacionados con la infraestructura física educativa;
-
-III. Definir las acciones de prevención en materia de seguridad sísmica y estructural de los inmuebles e instalaciones destinados al servicio educativo;
-
-IV. Validar los proyectos ejecutivos para acciones diferentes al mantenimiento menor, a realizarse en las instituciones educativas públicas, incluyendo aquellos que se ejecuten por parte de los Comités Escolares de Administración Participativa o sus equivalentes;
-
-V. Coordinar la validación de dictámenes técnicos para la gestión de incorporación de los particulares;
-
-VI. Atender las necesidades de infraestructura, de acuerdo con la priorización que la Secretaría establezca para garantizar la prestación del servicio educativo; y
-
-VII. Las demás atribuciones que señalen las disposiciones aplicables.
-
-Para efecto de lo anterior, la instancia u organismo responsable de la Infraestructura Física Educativa, deberá sujetarse a la planeación previamente establecida.
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 
 ### Capítulo II. De los inmuebles donde se presta el servicio educativo
 
@@ -2467,9 +2451,11 @@ Las autoridades educativas y escolares promoverán la participación de los sect
 
 Sistema Nacional de información de la infraestructura física educativa
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 214.
 
-La Secretaría, el organismo a que se refiere el artículo 211 de esta Ley y demás autoridades competentes, coordinarán las acciones para alimentar y actualizar el Sistema Nacional de Información de la Infraestructura Física Educativa, el cual constituirá un insumo para la elaboración de diagnósticos y pronósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles e inmuebles que se destinen al servicio educativo.
+La Secretaría, la SICOM y demás autoridades, coordinarán las acciones para alimentar y actualizar el Sistema Nacional de Información de la Infraestructura Física Educativa, el cual constituirá un insumo para la elaboración de diagnósticos y pronósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles e inmuebles que se destinen al servicio educativo.
 
 Requisitos para que un inmueble preste servicio educativo
 
@@ -2495,9 +2481,11 @@ La comunidad educativa es corresponsable para el cuidado y conservación de la i
 
 Planeación financiera y administrativa para la infraestructura física educativa
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 218.
 
-Las autoridades educativas, en el ámbito de sus respectivas competencias, deberán desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de espacios educativos al servicio del Sistema Educativo Estatal, realizando las previsiones necesarias para que los recursos económicos destinados para ese efecto, sean prioritarios y oportunos, y las respectivas obligaciones se atiendan de manera gradual y progresiva, de acuerdo con la disponibilidad presupuestal, debiendo establecer las condiciones fiscales, presupuestales, administrativas y jurídicas para facilitar y fomentar la inversión en la materia.
+Las autoridades educativas, y la SICOM en el ámbito de sus respectivas competencias, deberán desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de espacios educativos al servicio del Sistema Educativo Estatal, realizando las previsiones para que los recursos económicos destinados para ese efecto, sean prioritarios y oportunos, y las respectivas obligaciones se atiendan de manera gradual y progresiva, de acuerdo con la disponibilidad presupuestal, debiendo establecer las condiciones fiscales, presupuestales, administrativas y jurídicas para facilitar y fomentar la inversión en la materia.
 
 Participación para el financiamiento
 
@@ -2519,9 +2507,11 @@ Asimismo, promoverán mecanismos para acceder a fuentes alternas de financiamien
 
 Concurrencia en la infraestructura física educativa
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 220.
 
-Corresponde a la Secretaría, en el ámbito de su competencia, por conducto del organismo a que se refiere el presente capítulo o la dependencia respectiva, promover ante los ayuntamientos y sectores público, social y privado, la concurrencia en: la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio público educativo.
+Corresponde a la Secretaría, en el ámbito de su competencia, por conducto de la SICOM, promover ante los ayuntamientos y sectores público, social y privado, la concurrencia en: la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio público educativo.
 
 Mantenimiento de los muebles e inmuebles destinados al servicio educativo
 
@@ -2709,7 +2699,9 @@ En el caso de instituciones que requieran reconocimiento de validez oficial de e
 
 II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas, de accesibilidad que la autoridad otorgante determine, conforme a los términos que determinen las disposiciones normativas aplicables.
 
-Para los efectos de la presente fracción, los particulares deberán obtener la opinión técnica favorable del dictamen de infraestructura física educativa, que para tal efecto elabore el perito en infraestructura educativa, de conformidad con las disposiciones normativas del organismo responsable de la infraestructura física educativa, de acuerdo a los plazos establecidos y de conformidad con las disposiciones normativas; y
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Para los efectos de la presente fracción, los particulares deberán obtener la opinión técnica favorable del dictamen de infraestructura física educativa, que para tal efecto elabore el perito en infraestructura educativa, de conformidad con las disposiciones normativas de la SICOM, de acuerdo a los plazos establecidos y de conformidad con las disposiciones normativas; y
 
 III. Contar con personal docente que acredite la preparación adecuada de acuerdo a los perfiles, criterios e indicadores de la normatividad aplicable o vigente.
 
@@ -3260,3 +3252,25 @@ P.O. 24 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 338 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 3 Y LA FRACCIÓN XI BIS AL ARTÍCULO 34 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 6 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO Y DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigencia del presente decreto el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para el cumplimiento del presente decreto, en un término que no exceda de 180 días. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente decreto, acorde a lo establecido en el artículo transitorio siguiente.
+
+Artículo Tercero. La Secretaría de Medio Ambiente y Ordenamiento Territorial y el Instituto de Infraestructura Física Educativa, transferirán a las secretarías de Desarrollo Social y Humano, y de Infraestructura, Conectividad y Movilidad, según corresponda, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la dependencia y entidad paraestatal referidas en el párrafo que antecede, conforme a su situación laboral pasarán a formar parte de las secretarías de Desarrollo Social y Humano, y de Infraestructura, Conectividad y Movilidad, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Artículo Cuarto. Las secretarías de Desarrollo Social y Humano, y de Infraestructura, Conectividad y Movilidad, sustituyen en su ámbito de competencia en todas sus obligaciones y asumen los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial y el Instituto de Infraestructura Física Educativa que les transfieran los asuntos en términos del artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias a la Secretaría de Medio Ambiente y Ordenamiento Territorial, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Desarrollo Social y Humano de conformidad con el artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias al Instituto de Infraestructura Física Educativa, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Infraestructura, Conectividad y Movilidad de conformidad con el artículo tercero transitorio del presente Decreto.
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a las secretarías de Desarrollo Social y Humano; y de Infraestructura, Conectividad y Movilidad para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
