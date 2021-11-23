@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2020-12-07"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -671,13 +671,25 @@ La Secretaría tendrá en las materias de ordenamiento y administración sustent
 
 I. Participar en la formulación, modificación, actualización y evaluación del programa estatal;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-II. Elaborar y ejecutar acciones para la constitución, administración y aprovechamiento de provisiones y reservas territoriales para el desarrollo urbano en los centros de población, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
+I bis. Identificar las necesidades de infraestructura pública, equipamiento urbano y servicios públicos y proponer su incorporación en los programas;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-III. Promover la constitución, administración y aprovechamiento de provisiones y reservas territoriales, la programación de acciones y proyectos para la dotación de infraestructura pública para la accesibilidad universal, incluyendo la movilidad sustentable y el equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al ambiente, los espacios naturales, el paisaje, la imagen urbana, las áreas de valor escénico y el patrimonio natural, cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
+I bis 1. Apoyar técnicamente a los municipios y a los grupos sociales organizados, en la integración y elaboración de estudios y proyectos de infraestructura pública y equipamiento urbano;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+II. Elaborar y ejecutar acciones para la constitución, administración y aprovechamiento de provisiones y reservas territoriales para el desarrollo urbano en los centros de población;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+III. Promover la constitución, administración y aprovechamiento de provisiones y reservas territoriales, la programación de acciones y proyectos para la dotación de infraestructura pública para la accesibilidad universal, incluyendo la movilidad sustentable y el equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al ambiente, los espacios naturales, el paisaje, la imagen urbana, las áreas de valor escénico y el patrimonio natural, cultural urbano y arquitectónico;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+III bis. Promover ante las instancias competentes la gestión de recursos para acciones, obras y servicios de infraestructura pública relacionados con el desarrollo urbano y la movilidad sustentable;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -691,17 +703,17 @@ V. Gestionar el ejercicio del derecho de preferencia que corresponde al Ejecutiv
 
 VI. Proponer proyectos y acciones para la consolidación y mejoramiento de los centros de población, con objeto de estimular su redensificación poblacional de acuerdo a lo establecido en los programas, promoviendo, en su caso, la colaboración de sus habitantes para la aplicación y ejecución de los mismos, en coordinación con los ayuntamientos y, en su caso, con la Federación;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+VII. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
-VII. Coadyuvar con los ayuntamientos para prevenir el establecimiento de asentamientos humanos que no cumplan con las disposiciones del Código;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-VIII. Promover el desarrollo, construcción, conservación y mejoramiento de obras de infraestructura pública y equipamiento para el desarrollo urbano, regional y metropolitano, en coordinación con los gobiernos federal y municipal, y la participación de los sectores social y privado;
+VIII. Promover el desarrollo, construcción, conservación y mejoramiento de obras de infraestructura pública y equipamiento para el desarrollo urbano, regional y metropolitano;
 
 IX. Administrar las provisiones y reservas territoriales, en los términos del Código, cuando no corresponda hacerlo expresamente a otra dependencia o entidad del Ejecutivo del Estado;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-IX bis. Participar en la gestión del ordenamiento sustentable del territorio de los centros de población que presenten un fenómeno de conurbación o metropolización, en coordinación con las autoridades federales, estatales y municipales competentes;
+IX bis. Participar en la gestión del ordenamiento sustentable del territorio de los centros de población que presenten un fenómeno de conurbación o metropolización;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -730,6 +742,10 @@ IX bis 6. Brindar asesoría y soporte técnico a las dependencias y entidades en
 X. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
 XI. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Para el ejercicio de sus atribuciones, la Secretaría se coordinará con otras dependencias y entidades de la administración pública estatal, y con los gobiernos federal y municipal, y promoverá la participación de los sectores social y privado, en el ámbito de sus competencias.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -765,95 +781,167 @@ IX bis 1. Apoyar técnicamente a las autoridades municipales en la planeación, 
 
 X. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-Atribuciones de la Secretaría en materia de vivienda
+Atribuciones de la Secretaría de Desarrollo Social y Humano en materia de vivienda
 
-Artículo 17 bis 1. La Secretaría tendrá en materia de vivienda, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Artículo 17 bis 1. La Secretaría de Desarrollo Social y Humano tendrá en materia de vivienda, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 I. Proponer al Ejecutivo del Estado las políticas estatales de vivienda y ejecutarlas, incluyendo la constitución de reservas territoriales;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 II. Promover el ordenamiento y administración sustentable del territorio de los centros de población, conjuntamente con las dependencias y entidades de la administración pública federal y municipal que corresponda, así como coordinar las acciones que el Ejecutivo del Estado convenga en esta materia, con la participación de los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 III. Planear, promover, ejecutar, concertar y evaluar las acciones e inversiones en materia de vivienda en todos sus tipos y modalidades, con la participación de los gobiernos de los diferentes ámbitos y de los sectores social y privado;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 IV. Promover y apoyar mecanismos de coordinación y financiamiento en materia de vivienda, con la participación de otras dependencias y entidades de la administración pública federal, estatal o municipal, de las instituciones de crédito, públicas y privadas, y de los diversos grupos sociales;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 V. Prestar apoyo y soporte técnicos a las unidades administrativas municipales y asesorar, previa solicitud de los ayuntamientos, en la formulación de los contenidos en materia de vivienda de los programas a que se refiere el Código;
 
-VI. Promover, apoyar y realizar investigaciones científicas y tecnológicas en materia de vivienda;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+VI. Promover la realización de investigaciones científicas y tecnológicas en materia de vivienda;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 VII. Coordinar la operación y funcionamiento del Inventario Habitacional y de Suelo para Vivienda;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 VIII. Participar en la ejecución de las acciones en materia de vivienda previstas en el programa estatal, de conformidad con la normatividad aplicable;
 
-IX. Identificar las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, proponer su incorporación en los programas, así como promover y apoyar su ejecución con los municipios y con los sectores social y privado;
+IX. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
-X. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura pública relacionados con el desarrollo urbano y la movilidad sustentable;
+X. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
-XI. Promover ante las instancias competentes el desarrollo, construcción, conservación y mejoramiento de obras de infraestructura pública para el desarrollo urbano, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
+XI. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
-XII. Fungir como agente técnico de los fondos crediticios y financieros destinados a la ejecución de obras y servicios en materia de infraestructura pública y equipamiento urbano, para apoyar la vivienda;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XIII. Apoyar técnicamente a los municipios y a los grupos sociales organizados, en la integración y elaboración de estudios y proyectos de infraestructura pública y equipamiento urbano;
+XII. Fungir, en coordinación con las dependencias y entidades de la administración pública estatal, como agente técnico de los fondos crediticios y financieros destinados a la ejecución de obras y servicios en materia de infraestructura pública y equipamiento urbano, para apoyar la vivienda;
+
+XIII. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 XIV. Generar soluciones habitacionales de interés social, que propicien el crecimiento ordenado de los asentamientos humanos;
 
-XV. Ejecutar proyectos para la adquisición de suelo, urbanización y venta de lotes con servicios, que promuevan el desarrollo urbano y habitacional;
+XV. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
-XVI. Desarrollar, ejecutar y promover esquemas, instrumentos, mecanismos y programas de financiamiento para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población de menores ingresos, coordinando su ejecución con las instancias correspondientes;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XVII. Evaluar y dar seguimiento a la aplicación de fondos que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
+XVI. Desarrollar, ejecutar y promover esquemas, instrumentos, mecanismos y programas para la adquisición de vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población de menores ingresos, coordinando su ejecución con las instancias correspondientes;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XVII. Evaluar y dar seguimiento a la aplicación de fondos que se deriven de las acciones en los términos de la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 XVIII. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para el desarrollo de la vivienda en los aspectos normativos, tecnológicos, productivos y sociales;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 XIX. Fomentar y apoyar medidas que promuevan la calidad de la vivienda;
 
-XX. Realizar la planeación, programación, presupuestación, ejecución y evaluación de las acciones de vivienda de su competencia, incluyendo la constitución, administración y aprovechamiento de reservas territoriales, otorgando atención preferente a la población de menores ingresos;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XXI. Constituir, administrar y aprovechar las reservas territoriales para vivienda y convenir programas y acciones de vivienda con la Federación y con los municipios;
+XX. Realizar la planeación, programación, presupuestación, ejecución y evaluación de las acciones de vivienda de su competencia, otorgando atención preferente a la población de menores ingresos;
 
-XXII. Fomentar y apoyar acciones y proyectos para la constitución y operación de organismos de carácter no lucrativo en materia de vivienda;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XXIII. Apoyar a las autoridades municipales en la planeación, gestión de recursos, operación de programas y en la ejecución y evaluación de acciones en materia de vivienda, incluyendo la constitución, administración y aprovechamiento de reservas territoriales;
+XXI. Convenir programas y acciones de vivienda con la Federación y con los municipios;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XXII. Fomentar y apoyar acciones y proyectos para la constitución y operación de organismos sociales de beneficiarios en materia de vivienda;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XXIII. Apoyar a las autoridades municipales, cuando así lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución y evaluación de acciones en materia de vivienda;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 XXIV. Celebrar con las dependencias y entidades de la administración pública federal o municipal, así como con propietarios, desarrolladores y productores sociales de vivienda, toda clase de actos jurídicos para la implementación de las políticas de vivienda y demás acciones inmobiliarias;
 
-XXV. Promover la participación de los sectores social y privado en la instrumentación de las acciones de vivienda, incluyendo la constitución, administración y aprovechamiento de reservas territoriales, de conformidad con lo dispuesto en el Código y en los demás ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XXVI. Coadyuvar con otras dependencias para generar opciones de financiamiento para que más familias tengan acceso a créditos de vivienda;
+XXV. Promover la participación de los sectores social y privado en la instrumentación de las acciones de vivienda de conformidad con lo dispuesto en el Código y en los demás ordenamientos legales aplicables;
 
-XXVII. Involucrar a los desarrolladores de vivienda, universidades, proveedores y colegios de profesionistas en el diseño y ejecución de las políticas públicas en materia de soluciones habitacionales de interés social y financiamiento a las viviendas; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XXVI. Coadyuvar con otras dependencias para generar más opciones para la adquisición de vivienda;
+
+XXVII. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021) y;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 XXVIII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-Atribuciones de la Secretaría en materia de tenencia de la tierra
+Atribuciones de la Secretaría de Desarrollo Social y Humano en materia de tenencia de la tierra
 
-Artículo 17 bis 2. La Secretaría tendrá en materia de tenencia de la tierra, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Artículo 17 bis 2. La Secretaría de Desarrollo Social y Humano tendrá en materia de tenencia de la tierra, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 I. Organizar y ejecutar acciones para la regularización de los asentamientos humanos en el Estado;
 
-II. Detectar los asentamientos humanos que no cumplan con las disposiciones del Código, en coordinación con los municipios, y llevar el padrón de los mismos;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+II. Coadyuvar con los ayuntamientos para prevenir el establecimiento de asentamientos humanos que no cumplan con las disposiciones del Código;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 III. Coordinarse con las autoridades federales, estatales y municipales para la ejecución de las acciones de regularización de asentamientos humanos;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 IV. Asesorar a las autoridades municipales para la integración de expedientes de asentamientos humanos susceptibles de ser regularizados y proporcionar el apoyo técnico que se requiera para ello;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 V. Apoyar a las diversas dependencias y entidades de los gobiernos federal, estatal y municipales en trámites expropiatorios en asuntos de su competencia, cuando así se lo requieran;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 VI. Proponer el establecimiento de normas, criterios y métodos para la coordinación con las instituciones que participen en la regularización de la tenencia de la tierra;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 VII. Tramitar y dar seguimiento a las solicitudes de regularización de los asentamientos humanos en la entidad, que le sean turnados para su atención;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 VIII. Organizar y ejecutar programas y acciones para la regularización de predios rústicos en la entidad;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 IX. Coordinar, vigilar y supervisar el funcionamiento de la Inspectoría Rural y de las inspectorías móviles que se establezcan;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 X. Dar seguimiento a las solicitudes de regularización de los predios rústicos en la entidad, que le sean turnados para su atención;
 
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 XI. Colaborar con las dependencias y entidades de la administración pública federal, estatal y municipal, en la ejecución de acciones para la regularización de la tenencia de la tierra; y
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 XII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
@@ -869,11 +957,11 @@ XII. Las demás que establezca el Código y las demás disposiciones jurídicas 
 
 Naturaleza y atribuciones de la Comisión
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-La Comisión Estatal del Agua de Guanajuato es un organismo descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, con las atribuciones siguientes:
+La Comisión Estatal del Agua de Guanajuato es un organismo descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, y la autoridad encargada de la rectoría en la planificación en materia de agua del Estado. Cuenta con las atribuciones siguientes;
 
 I. Proponer el contenido de la planeación hidráulica que se integrará a los programas y aprobar sus programas operativos anuales;
 
@@ -924,6 +1012,26 @@ XVII bis. Fomentar la participación social y ciudadana en la gestión del agua 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 XVII bis 1. Coordinarse con los municipios y organismos operadores en el diseño e implementación de políticas públicas, encaminadas al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XVII bis 2. Elaborar estudios hidrológicos e hidrogeológicos;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XVII bis 3. Definir políticas y estrategias que coadyuven al uso sustentable del agua;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XVII bis 4. Vigilar, cuidar y preservar el agua, de conformidad con el acuerdo que se suscriba con la autoridad federal en materia de agua;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XVII bis 5. Participar en los Consejos de Cuenca de los cuales el Estado forma parte;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+XVII bis 6. Promover, coordinar y, en su caso, realizar la investigación y desarrollo tecnológico en materia de agua y la formación y capacitación de los recursos humanos;
 
 XVIII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
@@ -4463,17 +4571,19 @@ La Secretaría incluirá en el Inventario de Áreas Naturales Protegidas y mante
 
 Integración y administración del Inventario Habitacional y de Suelo para Vivienda
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 219.
 
-La Secretaría administrará el Inventario Habitacional y de Suelo para Vivienda, así como los indicadores en la materia, que formarán parte del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y en el que integrará la información de ese sector, en los términos de la ley federal de vivienda, e incluirá aquélla que permita identificar la evolución y crecimiento del mercado de vivienda, con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
+La Secretaría de Desarrollo Social y Humano administrará el Inventario Habitacional y de Suelo para Vivienda, así como los indicadores en la materia, que formarán parte del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y en el que integrará la información de ese sector, en los términos de la ley federal de vivienda, e incluirá aquélla que permita identificar la evolución y crecimiento del mercado de vivienda, con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 
 Objeto de la actualización del Inventario Habitacional y de Suelo para Vivienda
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 220.
 
-La Secretaría mantendrá actualizado el Inventario Habitacional y de Suelo para Vivienda, a fin de determinar los cálculos sobre el rezago y las necesidades de vivienda, su calidad y espacios, su acceso a los servicios básicos, así como la adecuada planeación de la oferta de vivienda, los requerimientos de suelo para vivienda, las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, y la focalización de medidas, proyectos y acciones en la materia. Entre otros indicadores de evaluación, deberán considerarse los siguientes:
+La Secretaría de Desarrollo Social y Humano mantendrá actualizado el Inventario Habitacional y de Suelo para Vivienda, a fin de determinar los cálculos sobre el rezago y las necesidades de vivienda, su calidad y espacios, su acceso a los servicios básicos, así como la adecuada planeación de la oferta de vivienda, los requerimientos de suelo para vivienda, las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, y la focalización de medidas, proyectos y acciones en la materia. Entre otros indicadores de evaluación, deberán considerarse los siguientes:
 
 I. Metas por cobertura territorial;
 
@@ -4487,9 +4597,11 @@ IV. Evaluación de los precios de suelo, de las medidas de control para evitar s
 
 Acceso a la información en materia de vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 221.
 
-La Secretaría diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+La Secretaría de Desarrollo Social y Humano diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
 Además, informará de los procedimientos, tiempo de respuesta, costos, requisitos y estímulos fiscales necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de material informativo dirigido a los promotores y productores sociales y privados, principalmente sobre sus programas y reglas de operación. De igual manera, elaborará y difundirá material informativo para la población acreditada o solicitante de algún crédito de vivienda.
 
@@ -6351,9 +6463,9 @@ Preservación de los materiales y sistemas de construcción
 
 En los centros de población declarados Patrimonio Cultural, en los centros históricos delimitados en los programas municipales, en las zonas de entorno del patrimonio natural, cultural urbano y arquitectónico y en las zonas con valor escénico, deberán respetarse los materiales y sistemas tradicionales y regionales de construcción, de acuerdo a las disposiciones del Código.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-La Secretaría auxiliará a los municipios en la elaboración de documentos técnicos de análisis de materiales y sistemas tradicionales y regionales de construcción, a considerar en los espacios a que se refiere el párrafo anterior, atendiendo a la normatividad aplicable.
+La Secretaría de Desarrollo Social y Humano auxiliará a los municipios en la elaboración de documentos técnicos de análisis de materiales y sistemas tradicionales y regionales de construcción, a considerar en los espacios a que se refiere el párrafo anterior, atendiendo a la normatividad aplicable.
 
 Uso y destino de las construcciones
 
@@ -7361,9 +7473,9 @@ XII. Difundir entre la población la información relativa a los programas públ
 
 XIII. Fomentar, otorgar estímulos y facilitar la producción de vivienda bajo lineamientos, criterios y parámetros de sustentabilidad; y
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XIV. Implementar políticas ambientales y de sustentabilidad en los programas que maneje la Secretaría.
+XIV. Implementar políticas ambientales y de sustentabilidad en los programas que maneje la Secretaría de Desarrollo Social y Humano.
 
 Aspectos que deberán considerar las políticas de vivienda
 
@@ -7423,9 +7535,11 @@ Las acciones de vivienda que se realicen en el Estado y los municipios, deberán
 
 Impulso a la vivienda que cumpla con las normas ambientales y de ordenamiento sustentable del territorio
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 467.
 
-La Secretaría promoverá ante los organismos financieros de vivienda que sólo sean elegibles en sus programas y líneas de acción, viviendas que se ubiquen en desarrollos, conjuntos o fraccionamientos que cumplan puntualmente con los programas y las disposiciones jurídicas en materia ambiental.
+La Secretaría de Desarrollo Social y Humano promoverá ante los organismos financieros de vivienda que sólo sean elegibles en sus programas y líneas de acción, viviendas que se ubiquen en desarrollos, conjuntos o fraccionamientos que cumplan puntualmente con los programas y las disposiciones jurídicas en materia ambiental.
 
 Atlas de riesgos
 
@@ -7469,17 +7583,19 @@ XIII. Ubicados en las laderas de un volcán.
 
 Lineamientos que deberán observar las acciones de suelo y vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 470.
 
-Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Guanajuato deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno y sustentabilidad establezca la Secretaría, en coordinación con el Instituto de Planeación, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en el Código y las demás disposiciones jurídicas.
+Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Guanajuato deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno y sustentabilidad establezca la Secretaría de Desarrollo Social y Humano, en coordinación con el Instituto de Planeación, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en el Código y las demás disposiciones jurídicas.
 
 Promoción de la calidad de la vivienda
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 471.
 
-Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría promoverá, en coordinación con las autoridades competentes, que en el desarrollo de las acciones habitacionales, en sus distintos tipos y modalidades, y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y de higiene suficientes en función al número de usuarios, provean de los servicios de suministro de energía eléctrica, de agua potable y de drenaje de aguas residuales que contribuyan a disminuir los factores de enfermedad, y garanticen la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
+Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría de Desarrollo Social y Humano promoverá, en coordinación con las autoridades competentes, que en el desarrollo de las acciones habitacionales, en sus distintos tipos y modalidades, y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y de higiene suficientes en función al número de usuarios, provean de los servicios de suministro de energía eléctrica, de agua potable y de drenaje de aguas residuales que contribuyan a disminuir los factores de enfermedad, y garanticen la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en el Código en materia de calidad y sustentabilidad de la vivienda y a las disposiciones jurídicas.
 
@@ -7499,9 +7615,9 @@ Seguridad, habitabilidad y sustentabilidad de la vivienda
 
 Los ayuntamientos expedirán y aplicarán los reglamentos y normas técnicas que establezcan los requisitos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-La Secretaría promoverá y asesorará a las autoridades municipales en la elaboración de las disposiciones reglamentarias que se mencionan en este artículo.
+La Secretaría de Desarrollo Social y Humano promoverá y asesorará a las autoridades municipales en la elaboración de las disposiciones reglamentarias que se mencionan en este artículo.
 
 Participación en esquemas de financiamiento
 
@@ -7509,9 +7625,9 @@ Participación en esquemas de financiamiento
 
 El Ejecutivo del Estado fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y con los principios de una vivienda digna y decorosa.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-Asimismo, la Secretaría promoverá que las tecnologías sean acordes con los requerimientos sociales y regionales y las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
+Asimismo, la Secretaría de Desarrollo Social y Humano promoverá que las tecnologías sean acordes con los requerimientos sociales y regionales y las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
 Uso de materiales y productos sustentables
 
@@ -7521,11 +7637,11 @@ El Ejecutivo del Estado y los ayuntamientos promoverán el uso de materiales y p
 
 Acuerdos y convenios con productores de materiales básicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 476.
 
-La Secretaría promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
+La Secretaría de Desarrollo Social y Humano promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
 
 I. La atención a las necesidades emergentes de vivienda para damnificados, derivados de desastres;
 
@@ -7533,9 +7649,9 @@ II. Apoyar programas de producción social de vivienda, particularmente aquéllo
 
 III. La conformación de paquetes de materiales para las familias de menores ingresos.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-Asimismo, la Secretaría promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de los permisos de construcción.
+Asimismo, la Secretaría de Desarrollo Social y Humano promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de los permisos de construcción.
 
 ### Capítulo III. Financiamiento a la vivienda
 
@@ -7565,17 +7681,21 @@ Cuando en los convenios y acuerdos a que se refiere el artículo anterior, se ut
 
 Inversión en acciones de vivienda
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 479.
 
-La Secretaría y las unidades administrativas responsables de las políticas de vivienda en los municipios, promoverán programas tendientes a buscar la inversión de organismos federales, instituciones de crédito, organismos que apoyen acciones de vivienda, así como de la iniciativa privada, para la construcción de viviendas.
+La Secretaría de Desarrollo Social y Humano y las unidades administrativas responsables de las políticas de vivienda en los municipios, promoverán programas tendientes a buscar la inversión de organismos federales, instituciones de crédito, organismos que apoyen acciones de vivienda, así como de la iniciativa privada, para la construcción de viviendas.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Ofertas de suelo para vivienda
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 480.
 
-La Secretaría instrumentará y promoverá acciones y estímulos que induzcan la colaboración y coordinación con los gobiernos federal y estatal y municipales, así como la participación de propietarios, promotores, desarrolladores y usuarios, para generar ofertas de suelo para vivienda con oportunidad, calidad y servicios, preferentemente para beneficio de la población de menores ingresos y de los productores sociales de vivienda.
+La Secretaría de Desarrollo Social y Humano instrumentará y promoverá acciones y estímulos que induzcan la colaboración y coordinación con los gobiernos federal y estatal y municipales, así como la participación de propietarios, promotores, desarrolladores y usuarios, para generar ofertas de suelo para vivienda con oportunidad, calidad y servicios, preferentemente para beneficio de la población de menores ingresos y de los productores sociales de vivienda.
 
 Selección de beneficiarios y proveedores
 
@@ -7587,19 +7707,23 @@ Cuando el Estado o los municipios realicen acciones de vivienda, en la selecció
 
 Participación de los promotores privados de vivienda
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 482.
 
-La participación de los promotores privados en la implementación de las políticas de vivienda del Estado, estará sujeta a la coordinación y supervisión de la Secretaría, que dictará las normas para la ejecución de obras e inversiones, los requisitos y trámites, el registro de los promotores y la entrega de fianzas y garantías, dependiendo del alcance de la obra, en observancia de las disposiciones vigentes.
+La participación de los promotores privados en la implementación de las políticas de vivienda del Estado, estará sujeta a la coordinación y supervisión de la Secretaría de Desarrollo Social y Humano, que dictará las normas para la ejecución de obras e inversiones, los requisitos y trámites, el registro de los promotores y la entrega de fianzas y garantías, dependiendo del alcance de la obra, en observancia de las disposiciones vigentes.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Supervisión a la participación de los promotores sociales
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 483.
 
-La participación de los promotores sociales en la implementación de las políticas de vivienda del Estado, estará sujeta a la supervisión de la Secretaría, ante la que deberán estar acreditados y registrados, conforme a las disposiciones que emita, mismas que permitirán el desarrollo autónomo de los promotores sociales y básicamente estarán orientadas a garantizar la transparencia en el manejo y aplicación de los recursos, vigilando en todo momento el que estén a salvo sus derechos como beneficiarios y productores.
+La participación de los promotores sociales en la implementación de las políticas de vivienda del Estado, estará sujeta a la supervisión de la Secretaría de Desarrollo Social y Humano, ante la que deberán estar acreditados y registrados, conforme a las disposiciones que emita, mismas que permitirán el desarrollo autónomo de los promotores sociales y básicamente estarán orientadas a garantizar la transparencia en el manejo y aplicación de los recursos, vigilando en todo momento el que estén a salvo sus derechos como beneficiarios y productores.
 
-La Secretaría podrá celebrar convenios con productores sociales y con las universidades e instituciones de educación superior, dirigidos a la investigación, asesoría y apoyo técnico, y demás acciones indispensables para el cumplimiento del objeto del Código.
+La Secretaría de Desarrollo Social y Humano podrá celebrar convenios con productores sociales y con las universidades e instituciones de educación superior, dirigidos a la investigación, asesoría y apoyo técnico, y demás acciones indispensables para el cumplimiento del objeto del Código.
 
 Objeto de la aplicación de recursos públicos para la vivienda
 
@@ -7609,11 +7733,11 @@ La aplicación de recursos públicos para la vivienda tiene por objeto la promoc
 
 Mecanismos y acciones para la implementación de las políticas de vivienda
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 485.
 
-La Secretaría diseñará y operará los mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios y financiamientos, internos o externos, así como otras aportaciones, para la implementación de las políticas de vivienda que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de la población de menores ingresos.
+La Secretaría de Desarrollo Social y Humano diseñará y operará los mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios y financiamientos, internos o externos, así como otras aportaciones, para la implementación de las políticas de vivienda que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de la población de menores ingresos.
 
 Los mecanismos y acciones a que se refiere el párrafo anterior se ajustarán a lo dispuesto en la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato.
 
@@ -7643,9 +7767,9 @@ Las acciones en materia de vivienda se ejecutarán de acuerdo a las siguientes m
 
 I. Fondeo, crédito o préstamo otorgado por instituciones financieras legalmente establecidas;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-II. Gasto, subsidio, crédito o inversión directa del gobierno estatal, cuya aplicación se hará a través de la Secretaría;
+II. Gasto, subsidio, crédito o inversión directa del gobierno estatal, cuya aplicación se hará a través de la Secretaría de Desarrollo Social y Humano;
 
 III. Gasto, subsidio, crédito o inversión de otros organismos públicos locales o federales de vivienda, que operan en el Estado;
 
@@ -7737,11 +7861,11 @@ II. Se cuente con un programa técnico y financiero en el que se definan las nec
 
 Mecanismos de información
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 502.
 
-La Secretaría establecerá las disposiciones administrativas por medio de las cuales se fijarán los mecanismos de información, calificación y clasificación de los bienes, con el objeto de normar técnica, financiera y socialmente su aprovechamiento, para ello deberá realizar:
+La Secretaría de Desarrollo Social y Humano establecerá las disposiciones administrativas por medio de las cuales se fijarán los mecanismos de información, calificación y clasificación de los bienes, con el objeto de normar técnica, financiera y socialmente su aprovechamiento, para ello deberá realizar:
 
 I. La conformación de un inventario de información pública que contendrá necesidades y oferta de suelo para vivienda en los centros de población con más de cien mil habitantes en el Estado;
 
@@ -7761,9 +7885,11 @@ IV. Las previsiones de suelo para la dotación de infraestructura pública, equi
 
 Desarrollo y consolidación de la producción social de vivienda
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 504.
 
-La Secretaría facilitará y promoverá el desarrollo y consolidación de la producción social de vivienda y propiciará la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen esta forma de producción habitacional.
+La Secretaría de Desarrollo Social y Humano facilitará y promoverá el desarrollo y consolidación de la producción social de vivienda y propiciará la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen esta forma de producción habitacional.
 
 Autoconstrucción y autoproducción de vivienda
 
@@ -7781,11 +7907,11 @@ Las organizaciones de la sociedad civil que tengan por objeto la adquisición, m
 
 Asistencia técnica a productores sociales de vivienda
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 507.
 
-La Secretaría promoverá la asistencia técnica a los productores sociales de vivienda, la cual se podrá proporcionar a través de:
+La Secretaría de Desarrollo Social y Humano promoverá la asistencia técnica a los productores sociales de vivienda, la cual se podrá proporcionar a través de:
 
 I. Organizaciones sociales;
 
@@ -7795,9 +7921,9 @@ III. Colegios, asociaciones o gremios profesionales;
 
 IV. Dependencias y organismos del sector público; y
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-V. La propia Secretaría.
+V. La propia Secretaría de Desarrollo Social y Humano.
 
 Acciones de suelo y vivienda
 
@@ -7813,9 +7939,11 @@ II. Otros productores que operen sin fines de lucro tales como los organismos no
 
 Actividades productivas y generadoras de ingreso
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 509.
 
-La Secretaría fomentará en las acciones y proyectos de producción social de vivienda la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
+La Secretaría de Desarrollo Social y Humano fomentará en las acciones y proyectos de producción social de vivienda la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
 
 Autogestión habitacional
 
@@ -7827,9 +7955,11 @@ El Ejecutivo del Estado y los ayuntamientos, con el fin de impulsar la constituc
 
 Estudios en materia de vivienda
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 511.
 
-La Secretaría y las unidades administrativas responsables de las políticas de vivienda en los municipios, realizarán estudios para lotificaciones de vivienda popular o económica por autoconstrucción, y para la constitución de reservas territoriales.
+La Secretaría de Desarrollo Social y Humano y las unidades administrativas responsables de las políticas de vivienda en los municipios, realizarán estudios para lotificaciones de vivienda popular o económica por autoconstrucción.
 
 Requisitos que deberán satisfacer los grupos no lucrativos
 
@@ -7863,9 +7993,11 @@ Tratándose de las comunidades rurales y pueblos y comunidades indígenas, deber
 
 Acciones colectivas de autoconstrucción
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 514.
 
-La Secretaría, en coordinación con los ayuntamientos, deberá establecer y apoyar proyectos y acciones colectivas de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad, la sustentabilidad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
+La Secretaría de Desarrollo Social y Humano, en coordinación con los ayuntamientos, deberá establecer y apoyar proyectos y acciones colectivas de autoconstrucción cuando se trate de vivienda rural e indígena, en que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta, de tal suerte que, además de abatir los costos, se fomente y respete la solidaridad, la sustentabilidad y el espíritu comunitario, y se aprovechen los materiales naturales disponibles.
 
 Vivienda rural e indígena
 
@@ -8131,11 +8263,11 @@ Las instituciones de asesoría y consulta técnica podrán establecerse a nivel 
 
 Consejo Estatal de Vivienda
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 525.
 
-El Consejo Estatal de Vivienda es la instancia de consulta y asesoría de la Secretaría y sesionará cuando menos dos veces al año.
+El Consejo Estatal de Vivienda es la instancia de consulta y asesoría de la Secretaría de Desarrollo Social y Humano y sesionará cuando menos dos veces al año.
 
 En la integración del Consejo deberán observarse los principios de pluralidad y equidad.
 
@@ -8147,11 +8279,13 @@ Integración del Consejo Estatal de Vivienda
 
 El Consejo Estatal de Vivienda se integrará con:
 
-I. Un Presidente, que será el Titular de la Secretaría;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+I. Un Presidente, que será el Titular de la Secretaría de Desarrollo Social y Humano;
 
-II. Un Secretario Ejecutivo, designado por el titular de la Secretaría;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+II. Un Secretario Ejecutivo, designado por el Titular de la Secretaría de Desarrollo Social y Humano;
 
 III. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
@@ -8173,7 +8307,9 @@ El desempeño del cargo como miembro del Consejo Estatal de Vivienda será a tí
 
 El Consejo podrá asistirse de profesionales y expertos que le auxilien e informen en determinados temas o asuntos.
 
-Cuando el Titular del Ejecutivo asista a las sesiones del Consejo Estatal de Vivienda, asumirá la presidencia y el Titular de la Secretaría pasará a ser un integrante más.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Cuando el Titular del Ejecutivo asista a las sesiones del Consejo Estatal de Vivienda, asumirá la presidencia y el Titular de la Secretaría de Desarrollo Social y Humano pasará a ser un integrante más.
 
 Funciones del Consejo Estatal de Vivienda
 
@@ -8299,9 +8435,9 @@ Denuncia de la existencia o formación de asentamientos humanos que no cumplan c
 
 La existencia o formación de asentamientos humanos que no cumplan con las disposiciones del Código, podrán ser denunciadas por cualquier persona ante la unidad administrativa municipal, a efecto de que se formulen las denuncias o se ejerzan las acciones legales ante las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-La Procuraduría y la Secretaría remitirán a las autoridades municipales competentes, las denuncias que le presenten sobre la formación o existencia de asentamientos humanos que no cumplan con las disposiciones del Código.
+La Procuraduría y la Secretaría de Desarrollo Social y Humano remitirán a las autoridades municipales competentes, las denuncias que le presenten sobre la formación o existencia de asentamientos humanos que no cumplan con las disposiciones del Código.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -9048,3 +9184,35 @@ Artículo Cuarto. Los ayuntamientos deberán emitir o actualizar su registro mun
 Previsión presupuestal
 
 Artículo Quinto. Los ayuntamientos deberán considerar las previsiones presupuestales para el cumplimiento del presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 4 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS Y DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Expedición de la reglamentación y demás Disposiciones para el cumplimiento del presente Decreto
+
+Artículo Segundo. A partir de la entrada en vigencia del presente decreto el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para el cumplimiento del presente decreto, en un término que no exceda de 180 días. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente decreto, acorde a lo establecido en el artículo transitorio siguiente.
+
+Transferencias
+
+Artículo Tercero. La Secretaría de Medio Ambiente y Ordenamiento Territorial transferirá a la Secretaría de Desarrollo Social y Humano los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que haya venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la dependencia referida en el párrafo que antecede, conforme a su situación laboral pasará a formar parte de la Secretaría de Desarrollo Social y Humano, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Sustitución en obligaciones y compromisos, y referencias
+
+Artículo Cuarto. La Secretaría de Desarrollo Social y Humano sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial que le transfiera en términos del artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias a la Secretaría de Medio Ambiente y Ordenamiento Territorial, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Desarrollo Social y Humano de conformidad con el artículo tercero transitorio del presente Decreto.
+
+Procedimientos y mecanismos de asignación
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a la Secretaría de Desarrollo Social y Humano para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Proceso de entrega-recepción extraordinaria
+
+Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
