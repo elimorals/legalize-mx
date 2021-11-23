@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2021-08-30"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "2017-09-15"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE NOVIEMBRE DE 2021 DE LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE NOVIEMBRE DE 2021.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -1262,9 +1264,11 @@ Las bases de servicio, lanzaderas, cierres de circuito, encierros, terminales, s
 
 En caso de que el concesionario o permisionario no acredite los comprobantes de pago de derechos en tiempo y forma, documentos e información necesaria en el plazo conferido por la Ley, procederá la extinción de la Concesión o Permiso, por lo que la Secretaría estará facultada a su adjudicación en términos de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 96.
 
-Los requisitos para el otorgamiento de permisos de transporte mercantil y privado de pasajeros y de carga, lanzaderas, sitios, bases de servicio y del equipamiento auxiliar, se ajustarán a lo siguiente:
+Los requisitos para el otorgamiento de permisos de transporte mercantil, privado de pasajeros y de carga, lanzaderas, sitios, bases de servicio y del equipamiento auxiliar, se ajustarán a lo siguiente:
 
 I. Haber realizado los estudios correspondientes sobre la demanda del servicio e impacto a la vialidad y al medio ambiente, acreditando su viabilidad con los permisos o licencias expedidos por la autoridad competente, conforme a los lineamientos y procedimientos que establezca la Secretaría;
 
@@ -1278,7 +1282,13 @@ V. La administración a que hace referencia la fracción anterior, firmará el f
 
 VI. Las demás que determine la Secretaría.
 
-Los sitios y bases para la prestación del servicio de transporte mercantil y privado de pasajeros y carga, únicamente serán autorizados para su uso y aprovechamiento de vehículos matriculados en la Ciudad de México, con excepción de aquellos que presten el servicio de transporte de pasajeros privado especializado con chofer.
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Los sitios y bases para la prestación del servicio de transporte mercantil y privado de pasajeros serán autorizados para uso y aprovechamiento de vehículos matriculados en la Ciudad de México, siempre que cuenten con el permiso expedido por la Secretaría, en términos del artículo 125 de la Ley, así como los correspondientes del presente Reglamento, con excepción de aquellos que presten el servicio de transporte de pasajeros privado especializado con chofer.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Los sitios para la prestación del servicio de transporte mercantil y privado de carga serán autorizados para uso y aprovechamiento de vehículos que cuenten con el permiso expedido por la Secretaría, en términos del artículo 125 de la Ley y los correspondientes del presente Reglamento.
 
 ###### Artículo 97.
 
@@ -1600,11 +1610,15 @@ Adicionalmente, la Secretaría podrá realizar las inspecciones vehiculares en c
 
 La Secretaría de acuerdo a los lineamientos correspondientes para la emisión de la Tarjeta de Circulación, determinara la clasificación de los vehículos.
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2021)
+
 ###### Artículo 114.
 
 La Secretaría implementará los sistemas y mecanismos necesarios para el Control Vehicular y autorizará, previo cumplimiento de los requisitos establecidos, los siguientes trámites:
 
-Para el caso de vehículos de transporte particular:
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+A. Para el caso de vehículos de transporte particular:
 
 I. Alta de vehículos nuevos del padrón vehicular;
 
@@ -1640,17 +1654,33 @@ XVI. Expedición de permisos para conducir; y
 
 XVII. Expedición, renovación y reposición de licencias para conducir.
 
-Para el caso de vehículos del servicio de transporte de pasajeros y de carga:
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+B. Para el caso de vehículos del servicio de transporte de pasajeros y de carga:
+
+(REPUBLICADA G.O. 23 DE NOVIEMBRE DE 2021)
 
 I. Alta de vehículos nuevos del padrón vehicular;
 
+(REPUBLICADA G.O. 23 DE NOVIEMBRE DE 2021)
+
 II. Baja de vehículos del padrón vehicular;
+
+(REPUBLICADA G.O. 23 DE NOVIEMBRE DE 2021)
 
 III. Expedición, renovación y reposición de tarjeta de circulación;
 
-III (SIC). Reposición de engomado de circulación permanente y de placas de matrícula; y
+> <small>(REFORMADA G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-IV. Permiso para circular sin placas de matrícula, tarjeta de circulación o engomado de circulaciónn (sic) permanente;
+IV. Reposición de engomado de circulación permanente y de placas de matrícula;
+
+> <small>(REFORMADA G.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+V. Permiso para circular sin placas de matrícula, tarjeta de circulación o engomado de circulación permanente; y
+
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+VI. Sustitución vehicular (que incluye la baja del vehículo que deja de prestar el servicio y el alta del vehículo que ingresa al padrón vehicular al amparo de una misma concesión).
 
 ### CAPÍTULO SEGUNDO
 
@@ -1810,59 +1840,41 @@ Para el refrendo de la tarjeta de circulación el solicitante podrá tramitarla 
 
 ### CAPÍTULO CUARTO. DE LOS REQUISITOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 120.
 
-Para realizar trámites relacionados con control vehicular, el propietario del vehículo o su representante, deberá cumplir, según sea el caso, con los requisitos siguientes, presentando los documentos requeridos en original y copia para su cotejo:
+Para realizar trámites relacionados con control vehicular, la persona propietaria del vehículo o su representante deberá cumplir, según sea el caso, con los requisitos siguientes, presentando los documentos requeridos en original para su cotejo.
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-Tratándose de vehículos de transporte particular, se establece el siguiente cuadro de requisitos, sin menoscabo de los existentes en el catálogo de trámites y servicios autorizado a la Secretaría. Todos los trámites que a continuación se enuncian deberán ser acompañados, para personas físicas, de la Clave Única de Registro de Población, y para personas morales, del documento donde conste su creación o constitución; señalando que, para la autorización de los mismos será necesario que la persona interesada acredite que el vehículo cuyo movimiento se solicita, se encuentra al corriente del pago de obligaciones fiscales, ambientales y cívicas, que devengan de las disposiciones contenidas en la Ley, el presente Reglamento y el Reglamento de Tránsito de la Ciudad de México. Además, en el caso de trámites digitales, los documentos que se acompañen deberán enviarse en formato digital mediante los mecanismos que la Secretaría determine.
+Tratándose de vehículos de transporte particular se establece el siguiente cuadro de requisitos, sin menoscabo de los existentes en el catálogo de trámites y servicios autorizado por la Secretaría. Todos los trámites que a continuación se enuncian deberán ser acompañados, para personas físicas de la Clave Única de Registro de Población; y para personas morales del documento en donde conste su creación o constitución; los cuales se podrán presentar en copia certificada. Además, en el caso de trámites digitales, los documentos que se acompañen deberán enviarse en formato digital mediante los mecanismos que la Secretaría determine. Asimismo, la Secretaría podrá allegarse de mecanismos de validación automatizados y/o consultas directas entre bases de datos de distintas áreas de la Administración Pública de la Ciudad de México que permitan corroborar cualquiera de los requisitos que deberá cumplir la persona solicitante.
 
-> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 37 A LA 38.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAREN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 7 A LA 8.]</small>
+> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 37 A LA 38.]</small>
 
-El trámite previsto en la fracción IV del artículo 114 del presente Reglamento, se otorgará únicamente en los siguientes casos:
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 7 A LA 8; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 5 A LA 7.]</small>
 
-a) A toda persona que presenta permanentemente una disminución en sus facultades físicas, cuyo nivel de funcionalidad les permita conducir un vehículo automotor;
+> <small>[N. DE E. LOS PÁRRAFOS TERCERO CON SUS INCISOS, CUARTO Y QUINTO PASARON A FORMAR PARTE DE LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 6 A LA 7.]</small>
 
-b) Al padre o tutor del (sic) hija o hijo discapacitado que no pueda valerse por sí mismo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-c) Al hijo o hija con madre o padre discapacitado que no pueda valerse por sí mismo;
+Tratándose de servicio de transporte de pasajeros público, tanto individual como colectivo, deberá cumplir con los siguientes requisitos, sin menoscabo de los existentes en el catálogo de trámites y servicios autorizado a la Secretaría:
 
-d) A la esposa con esposo discapacitado que no pueda valerse por sí mismo y viceversa; y
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-e) A toda persona que tenga la tutoría legal sobre un discapacitado que no pueda valerse por sí mismo.
+> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 38 A LA 39.]</small>
 
-Además de los requisitos establecidos en el presente artículo presente Reglamento (sic), el solicitante deberá presentar los siguientes:
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 8 A LA 9; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 7 A LA 10.]</small>
 
-En los supuestos de los incisos b) y c), original del acta de nacimiento del padre o tutor y de la hija o hijo, en el caso del inciso d), original del acta de matrimonio y en el caso del inciso e), copia certificada de la sentencia emitida por un juez de lo familiar.
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
-
-En la modalidad de discapacidad, el solicitante deberá presentar documento expedido por el sistema para el desarrollo de la familia de la Ciudad de México (DIF), en el cual se determine si hay discapacidad, si es permanente o no, total o parcial. Para la modalidad de discapacidad solo presentara la tenencia vigente y las dos anteriores.
-
-Tratándose de servicio de transporte de pasajeros público, deberá cumplir con lo siguiente, sin menoscabo de los existentes en el catálogo trámites y servicios autorizado a la Secretaría:
-
-> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE PÚBLICO COLECTIVO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 38 A LA 39.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE PÚBLICO COLECTIVO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 8 A LA 9.]</small>
-
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2019)</small>
-
-> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINA 10.]</small>
+> <small>[N. DE E. LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS PASÓ A FORMAR PARTE DE LA TABLA DE REQUISITOS PARA TRÁMITES DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL Y COLECTIVO DE PASAJEROS, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 7 A LA 10.]</small>
 
 > <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINA 40.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINA 10 y 11.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINA 10 y 11; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12.]</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2019)</small>
-
-> <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA TRÁMITES DE REVISTA VEHICULAR DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS (TAXI) EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINA 41.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA TRÁMITES DE REVISTA VEHICULAR DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS (TAXI) EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 11 A LA 12.]</small>
+> <small>[N. DE E. LA TABLA DE REQUISITOS PARA TRÁMITES DE REVISTA VEHICULAR DE TRANSPORTE PÚBLICO INDIVIDUAL DE PASAJEROS (TAXI) PASÓ A FORMAR PARTE DE LA TABLA REQUISITOS PARA TRÁMITES DE CONTROL VEHICULAR DE TRANSPORTE PÚBLICO MERCANTIL Y PRIVADO DE CARGA Y MERCANTIL Y PRIVADO DE PASAJEROS, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 12.]</small>
 
 Los requisitos de las tablas que anteceden se refieren de manera enunciativa más no limitativa, en el caso de los trámites que no se encuentran en ellas determinados, podrán acudirse al Catálogo de Trámites y Servicios aprobado para la Secretaría, en donde se muestran de manera complementaria los trámites y requisitos necesarios para el control vehicular que regula la Secretaría.
 
@@ -2002,9 +2014,7 @@ l) E12 para la conducción de los demás, que establezca la Secretaría como Tra
 
 La Licencia Tipo E tendrá una vigencia de dos y tres años y autoriza también la conducción de los vehículos que requieren licencia Tipo A.
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
-
-Para la expedición de las Licencias tipo “C” “D” y “E” (en cualquiera de los supuestos previstos de los incisos b) al l), se requiere acreditar o contar con Licencia Tipo “A” emitida por la Secretaría, o por la Dependencia responsable de la emisión de dichas licencias en el Estado de México, con cuando menos tres años de antigüedad. Para el caso de licencias para conducir emitidas por las autoridades responsables del Estado de México, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación y que cumplen con la antigüedad requerida para el caso.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -2180,11 +2190,9 @@ VI. Capacitación;
 
 VII. Conocimientos y Desempeño (pericia);
 
-> <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADA G.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-VIII. Se requiere acreditar o contar con licencia tipo “A” emitida por la Secretaría, o por la entidad responsable de la emisión de dichas licencias en el Estado de México, cuando menos con tres años de antigüedad. Para el caso de licencias para conducir emitidas por las autoridades responsables del Estado de México, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación, y que cumplen con la antigüedad requerida para el caso.
-
-Se requiere acreditar o contar con Licencia tipo “A”, emitida por la Secretaría, cuando menos con cinco años de antigüedad, para tramitar las Licencias Tipo “C”, “D” y “E”, según lo establecido en el artículo 126, fracción V, para los incisos b) al l).
+VIII. Se requiere acreditar o contar con Licencia tipo “A”, “B”, “C” o “D” emitida por la Secretaría o contar con licencia tipo “A” emitida por la entidad responsable de la emisión de dichas licencias en cualquier entidad de la República Mexicana, la cual deberá contar con una antigüedad de por lo menos tres años Para el caso de licencias para conducir emitidas por las autoridades responsables en otras entidades federativas de la República Mexicana, la persona interesada deberá acreditar que dichos documentos se encuentran vigentes al momento de su presentación, que cumplen con la antigüedad requerida para el caso las cuales deberán ser revisadas por la Dirección responsable del trámite correspondiente.
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2019)</small>
 
@@ -3665,3 +3673,11 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO. El presente Decreto entrará en vigor al día de su publicación.
 
 TERCERO. El Organismo Regulador de Transporte continuará y concluirá las gestiones administrativas ante las instancias correspondientes para la liberación del derecho de vía hasta su culminación. Una vez hecho lo anterior, coadyuvará con las gestiones, dentro del ámbito de su competencia, para la entrega del proyecto y la asignación de los inmuebles a la Entidad Paraestatal (sic) Servicio de Transportes Eléctricos.
+
+G.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO, EN MATERIA DE CONTROL VEHICULAR”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
