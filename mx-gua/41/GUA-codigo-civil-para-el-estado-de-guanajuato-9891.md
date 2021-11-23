@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2021-07-19"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -5287,11 +5287,11 @@ Sólo puede constituirse el patrimonio familiar con bienes sitos en el municipio
 
 Cada familia sólo puede constituir un patrimonio con aportación de bienes de uno o varios miembros del núcleo familiar o de la familia, compuesta ésta por los parientes consanguíneos hasta el segundo grado. Los que se constituyan con posterioridad no producirán efecto legal alguno, subsistiendo el primero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### Art. 778.
 
-El valor comercial máximo de los bienes afectos al patrimonio familiar, será la cantidad que resulte de multiplicar por ciento diez la Unidad de Medida y Actualización diaria, elevada al año en la fecha en que se constituye el patrimonio.
+El valor comercial máximo de los bienes afectos al patrimonio familiar será la cantidad que resulte de multiplicar por ciento veinte el salario mínimo general vigente, elevado al año en la fecha en que se constituya el patrimonio.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -17622,3 +17622,9 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. El Ejecutivo del Estado contará con un plazo de ciento veinte días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias al Reglamento del Registro Público de la Propiedad para el Estado de Guanajuato, a efecto de regular la implementación del Registro de Deudores Alimentarios.
 
 Artículo Tercero. En un plazo de sesenta días a partir de las adecuaciones al Reglamento, la Dirección General de Registros Públicos de la Propiedad y Notarías deberá crear el Registro de Deudores Alimentarios.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 2 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 778 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
