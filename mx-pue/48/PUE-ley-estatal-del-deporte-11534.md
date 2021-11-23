@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2021-11-08"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -203,25 +203,25 @@ El Consejo Estatal del Deporte, es un órgano de opinión en materia de activaci
 
 El Consejo Estatal del Deporte estará integrado por:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-I.- Una o un Presidente, que será la persona Titular de la Secretaría de Educación;
+I.- La persona titular de la Presidencia, que será ostentada por la persona titular de la Secretaría de Educación Pública del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-II.- Una o un Secretario Técnico, que será designado por la Presidencia;
+II.- La persona titular de la Secretaría Técnica, que será designada por la persona titular de la Presidencia;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-III.- La o el Director de Educación Física de cada sistema educativo; que tendrá el carácter de vocal; y
+III.- La persona titular de la Dirección de Educación Física de cada sistema educativo; que tendrá el carácter de vocal; y
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-IV.- Una o un Consejero por cada asociación deportiva estatal debidamente constituida y acreditada ante el Registro Estatal del Deporte.
+IV.- Una persona Consejera por cada asociación deportiva estatal debidamente constituida y acreditada ante el Registro Estatal del Deporte.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-Las y los integrantes del Consejo Estatal del Deporte, participarán en él de manera honorífica y por tanto no percibirán remuneración alguna.
+Las personas integrantes del Consejo Estatal del Deporte, participarán en él de manera honorífica y por tanto no percibirán remuneración alguna; además, para la integración del mismo deberá de cumplirse con el principio constitucional de paridad de género.
 
 ###### ARTICULO 14.
 
@@ -231,9 +231,9 @@ Son facultades del Consejo Estatal del Deporte:
 
 I.- Servir como órgano asesor en materia del deporte, cultura física y activación física;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-II.- Proponer a la persona Titular del Poder Ejecutivo del Estado las políticas deportivas a implantarse en el Estado;
+II.- Proponer a la persona titular del Poder Ejecutivo del Estado las políticas deportivas a implantarse en el Estado;
 
 III.- Establecer el procedimiento para ingresar al Salón de Honor del Deportista Poblano;
 
@@ -275,15 +275,15 @@ XIII.- Promover en la práctica de actividades físicas, recreativas y deportiva
 
 XIV.-Las demás que le otorgue esta Ley, su reglamento y demás normas, aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 15.
 
-El Consejo Estatal del Deporte funcionará en pleno y sesionará ordinariamente cuando menos dos veces al año y, extraordinariamente, las veces que sea necesario a convocatoria de su Presidenta o Presidente, sus acuerdos se tomarán por mayoría de votos y en caso de empate la o el Presidente tendrá voto de calidad.
+El Consejo Estatal del Deporte funcionará en pleno y sesionará ordinariamente cuando menos dos veces al año y, extraordinariamente, las veces que sea necesario a convocatoria de la persona titular de la Presidencia, sus acuerdos se tomarán por mayoría de votos y en caso de empate la persona titular de la Presidencia tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-La o el Presidente podrá invitar a las sesiones del pleno a otras y otros funcionarios o especialistas en la materia, cuya participación se considere indispensable o valiosa para el desarrollo del Sistema Estatal del Deporte.
+La persona titular de la Presidencia podrá invitar a las sesiones del pleno a otras personas especialistas en la materia, cuya participación se considere indispensable o valiosa para el desarrollo del Sistema Estatal del Deporte.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -407,21 +407,27 @@ Los Consejos Municipales del Deporte y Atención a la Juventud, tendrán como fu
 
 Los Consejos Municipales del Deporte y Atención a la Juventud, estarán integrados por:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-I.- La o el Director del Comité Municipal del Deporte y Atención a la Juventud, que será designado por la o el Presidente Municipal;
+I.- La persona titular de la Dirección del Comité Municipal del Deporte y Atención a la Juventud, que será designada por la persona titular de la Presidencia Municipal;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-II.- Una o un Consejero por cada liga deportiva, debidamente constituida y acreditada ante el Comité Municipal del Deporte y Atención a la Juventud; y
+II.- Una persona Consejera por cada liga deportiva, debidamente constituida y acreditada ante el Comité Municipal del Deporte y Atención a la Juventud; y
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-III.- Una o un representante de cada Sistema Educativo en el Municipio.
+III.- Una persona representante de cada Sistema Educativo en el Municipio.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN III], P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Los Consejos Municipales del Deporte y Atención a la Juventud; deberán estar integrados con base en el principio constitucional de paridad de género.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 24.
 
-El Consejo Municipal funcionará en pleno y celebrará sesiones por lo menos una vez cada seis meses y extraordinarias cuando sean convocadas por el Presidente.
+El Consejo Municipal funcionará en pleno y celebrará sesiones por lo menos una vez cada seis meses y extraordinarias cuando sean convocadas por la persona titular de la Presidencia.
 
 ## TITULO III. DE LA PARTICIPACION DE LOS DEPORTISTAS Y ORGANISMOS DEPORTIVOS EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -810,6 +816,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 8, EL PRIMER PÁRRAFO DEL 9, EL 12, LAS FRACCIONES I, II III, IV Y EL ÚLTIMO PÁRRAFO DEL 13, LAS FRACCIONES II, IX, X Y XI DEL 14, EL PRIMER Y SEGUNDO PÁRRAFOS DEL 15, EL 16, EL PRIMER PÁRRAFO DEL 19, LA FRACCIÓN IV DEL 21, LAS FRACCIONES I, II Y III DEL 23, EL CAPÍTULO II DEL TÍTULO III, EL PRIMER PÁRRAFO Y LAS FRACCIONES V Y IX DEL 27, EL PRIMER PÁRRAFO DEL 28, EL SEGUNDO Y ÚLTIMO PÁRRAFOS DEL 29, EL 30, EL INCISO E) DEL SEGUNDO PÁRRAFO DEL 31, LA FRACCIÓN III DEL 32, EL 36, EL 37, EL 38, EL PRIMER Y TERCER PÁRRAFOS DEL 41 Y EL 42; Y ADICIONA LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 14, TODOS DE LA LEY ESTATAL DEL DEPORTE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, III, IV Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 13, LA FRACCIÓN II DEL 14, EL PRIMER Y SEGUNDO PÁRRAFOS DEL 15, LAS FRACCIONES I, II Y III DEL 23 Y EL 24, Y ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL 23; DE LA LEY ESTATAL DEL DEPORTE.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
