@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-12-11"
+last_updated: "2021-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -1071,9 +1071,11 @@ El Instituto de Transparencia y los sujetos obligados procurarán que las obliga
 
 El Instituto de Transparencia, en el ámbito de sus atribuciones coadyuvará, con los sujetos obligados y representantes de la sociedad civil en la implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura gubernamental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 68.
 
-El Instituto de Transparencia y los sujetos obligados establecerán las medidas que faciliten el acceso y búsqueda de la información para personas con discapacidad y se procurará que la información publicada tenga un lenguaje sencillo para cualquier persona y sea accesible de manera focalizada a personas que hablen alguna lengua indígena.
+El Instituto de Transparencia y los sujetos obligados establecerán las medidas que faciliten el acceso y búsqueda de la información para personas con discapacidad y buscarán, en todo momento, que la información generada y publicada tenga un lenguaje sencillo para cualquier persona y sea accesible de manera focalizada y, en la medida de lo posible, traducida a personas que hablen alguna lengua indígena.
 
 Por lo que, por sí mismos o a través del Sistema Nacional, deberán promover y desarrollar de forma progresiva, políticas y programas tendientes a garantizar la accesibilidad de la información en la máxima medida posible.
 
@@ -2846,6 +2848,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 68 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
