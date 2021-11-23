@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cambio-climatico-para-el-estado-de-guanajuato-y-sus-9661
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2020-07-22"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -259,17 +259,11 @@ XX. Promover y asesorar a los municipios del Estado en la elaboración de progra
 
 XXI. Remitir, a la autoridad competente a nivel federal, la información que soliciten respecto del cumplimiento del Programa Estatal y de la Estrategia Estatal;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+XXII. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
-XXII. Promover el desarrollo de vivienda sustentable en el estado de Guanajuato que contemple energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua;
+XXIII. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-XXIII. Promover el desarrollo de unidades habitacionales de conformidad con lo previsto en el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial y el atlas estatal de riesgos, con el objeto de evitar las condiciones de vulnerabilidad de las viviendas, ante los fenómenos naturales ocasionados por el cambio climático;
-
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-XXIV. Promover e incentivar el desarrollo de programas de remodelación de viviendas que contemplen energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua;
+XXIV. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -354,6 +348,16 @@ Facultades de la Secretaría de Desarrollo Social y Humano
 ###### Artículo 13.
 
 Corresponde a la Secretaría de Desarrollo Social y Humano formular, regular, dirigir y participar en la instrumentación de acciones de mitigación y adaptación al cambio climático, en los programas de desarrollo social del Estado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+En materia de vivienda le corresponde en colaboración con la Secretaría:
+
+I. Promover el desarrollo de vivienda sustentable en el estado de Guanajuato que contemple energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua;
+
+II. Promover el desarrollo de unidades habitacionales de conformidad con lo previsto en el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial y el atlas estatal de riesgos, con el objeto de evitar las condiciones de vulnerabilidad de las viviendas, ante los fenómenos naturales ocasionados por el cambio climático; y
+
+III. Promover e incentivar el desarrollo de programas de remodelación de viviendas que contemplen energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y el agua.
 
 Facultades de la Secretaría de Desarrollo Económico Sustentable
 
@@ -1852,3 +1856,35 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 4 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS Y DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Expedición de la reglamentación y demás Disposiciones para el cumplimiento del presente Decreto
+
+Artículo Segundo. A partir de la entrada en vigencia del presente decreto el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para el cumplimiento del presente decreto, en un término que no exceda de 180 días. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente decreto, acorde a lo establecido en el artículo transitorio siguiente.
+
+Transferencias
+
+Artículo Tercero. La Secretaría de Medio Ambiente y Ordenamiento Territorial transferirá a la Secretaría de Desarrollo Social y Humano los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que haya venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la dependencia referida en el párrafo que antecede, conforme a su situación laboral pasará a formar parte de la Secretaría de Desarrollo Social y Humano, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Sustitución en obligaciones y compromisos, y referencias
+
+Artículo Cuarto. La Secretaría de Desarrollo Social y Humano sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial que le transfiera en términos del artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias a la Secretaría de Medio Ambiente y Ordenamiento Territorial, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Desarrollo Social y Humano de conformidad con el artículo tercero transitorio del presente Decreto.
+
+Procedimientos y mecanismos de asignación
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a la Secretaría de Desarrollo Social y Humano para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Proceso de entrega-recepción extraordinaria
+
+Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
