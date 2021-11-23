@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-forestal-sustentable-para-el-estado-y-los-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2019-11-25"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 25 de noviembre de 2019.
 
@@ -329,11 +329,13 @@ V. Promover el manejo integral de microcuencas, y
 
 VI. Impulsar el manejo integrado de plagas y enfermedades que afecten tanto a los recursos forestales, como, en su caso, a los cultivos agrícolas.
 
-Coordinación de la Secretaría con la Secretaría de Innovación, Ciencia y Educación Superior
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Coordinación de la Secretaría con la Secretaría de Educación y el Instituto de Innovación, Ciencia y Emprendimiento para la Competitividad para el Estado de Guanajuato
 
 ###### Artículo 16.
 
-La Secretaría y la Secretaría de Innovación, Ciencia y Educación Superior, se coordinarán para la atención de las necesidades afines de investigación, y formación de recursos de alto nivel del sector forestal, de acuerdo con la política estatal forestal.
+La Secretaría, la Secretaría de Educación, y el Instituto de Innovación, Ciencia y Emprendimiento para la Competitividad para el Estado de Guanajuato, se coordinarán para la atención de las necesidades afines de investigación, y formación de recursos de alto nivel del sector forestal, de acuerdo con la política estatal forestal.
 
 ### Capítulo III. Política Estatal y Planeación en Materia Forestal
 
@@ -680,3 +682,35 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2021.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Expedición de la reglamentación y demás Disposiciones para el cumplimiento del presente Decreto
+
+Artículo Segundo. A partir de la entrada en vigencia del presente decreto el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para el cumplimiento del presente decreto, en un término que no exceda de 180 días. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente decreto, acorde a lo establecido en el artículo transitorio siguiente.
+
+Transferencias
+
+Artículo Tercero. La Secretaría de Medio Ambiente y Ordenamiento Territorial transferirá a la Secretaría de Desarrollo Social y Humano los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que haya venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la dependencia referida en el párrafo que antecede, conforme a su situación laboral pasará a formar parte de la Secretaría de Desarrollo Social y Humano, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Sustitución en obligaciones y compromisos, y referencias
+
+Artículo Cuarto. La Secretaría de Desarrollo Social y Humano sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial que le transfiera en términos del artículo tercero transitorio del presente Decreto.
+
+Para todos los efectos legales correspondientes, las referencias a la Secretaria de Medio Ambiente y Ordenamiento Territorial, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Desarrollo Social y Humano de conformidad con el artículo tercero transitorio del presente Decreto.
+
+Procedimientos y mecanismos de asignación
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a la Secretaría de Desarrollo Social y Humano para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Proceso de entrega-recepción extraordinaria
+
+Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega- Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
