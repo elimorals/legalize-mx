@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2020-12-30"
+last_updated: "2021-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -507,19 +507,21 @@ II.- Cuenten con una o más sucursales, bodegas, instalaciones, locales u oficin
 
 III.- Realicen las actividades gravadas conforme al presente capítulo.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-ARTÍCULO 22 BIS.- Están obligadas a retener y enterar este impuesto las personas físicas, personas morales y unidades económicas que contraten la prestación de servicios de personal con un intermediario, contratista, tercero o cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado.
+ARTÍCULO 22 BIS.- Están obligadas a retener y enterar este impuesto las personas físicas, las personas morales y las unidades económicas que subcontraten servicios especializados o de ejecución de obras especializadas con un intermediario, contratista, tercero o cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado.
 
-Las personas físicas, morales o unidades económicas que contraten la prestación de servicios de personal con un intermediario, contratista, tercero o cualquiera que sea su denominación, deberán cumplir con las obligaciones establecidas en este capítulo, adicionalmente a las disposiciones establecidas en el Código Fiscal del Estado de Yucatán.
+Las personas físicas, morales o unidades económicas que subcontraten la prestación de servicios especializados o de ejecución de obras especializadas con un intermediario, contratista, tercero o cualquiera que sea su denominación, deberán cumplir con las obligaciones establecidas en este capítulo, adicionalmente a las disposiciones establecidas en el Código Fiscal del Estado de Yucatán.
 
-La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados.
+Para los efectos de este Capítulo, se entenderá por prestación de servicios especializados o de ejecución de obras especializadas lo que al respecto establezca la Ley Federal del Trabajo.
 
-La retención del impuesto prevista anteriormente no libera a los prestadores de servicios de personal que hubieran sido objeto de la retención, de la obligación de presentar la declaración de pago del impuesto prevista en el artículo 26 de esta ley.
+La retención se efectuará en el momento en que se pague la contraprestación por los servicios especializados o de ejecución de obras especializadas subcontratados.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+La retención del impuesto prevista anteriormente no libera a los prestadores de los servicios especializados o de ejecución de obras especializadas que hubieran sido objeto de la retención, de la obligación de presentar la declaración de pago del impuesto, prevista en el artículo 26 de esta ley.
 
-ARTÍCULO 22 TER.- Los intermediarios, contratistas, terceros o cualquiera que sea su denominación que presten servicios de personal, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, deberán presentar aviso por cada uno de los establecimientos, en donde presten los servicios de personal; dicho aviso deberá presentarse mediante las formas aprobadas por la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general, dentro de los siguientes diez días posteriores a la firma del contrato suscrito o al primer mes de inicio de la prestación de los servicios o bien, de la fecha en que se hubieran modificado las condiciones o términos con las que se contrató el servicio.
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 22 TER.- Los intermediarios, contratistas, terceros o cualquiera que sea su denominación que presten servicios especializados o de ejecución de obras especializadas, deberán presentar aviso por cada uno de los establecimientos en donde presten los servicios especializados o de ejecución de obras especializadas; dicho aviso deberá presentarse mediante las formas aprobadas por la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general, dentro de los siguientes diez días posteriores a la firma del contrato suscrito o al primer mes de inicio de la prestación de los servicios o bien, de la fecha en que se hubieran modificado las condiciones o términos con las que se contrató el servicio.
 
 #### SECCIÓN CUARTA. DE LA TASA
 
@@ -577,7 +579,9 @@ III.- Las que reanuden actividades;
 
 IV.- Las que cambien de denominación o razón social, o
 
-V.- Aquellas cuyos trabajadores provengan de sustitución patronal de otras personas morales relacionadas por pertenencia accionaria.
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+V.- Aquellas cuyos trabajadores provengan de sustitución patronal.
 
 > <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -586,6 +590,10 @@ ARTÍCULO 27 C.- Los contribuyentes que generen en forma directa nuevos empleos 
 Se consideran nuevos empleos los de carácter permanente, que se contraten en forma adicional al promedio mensual de la plantilla de personal que hubiere ocupado el contribuyente durante el año calendario inmediato anterior, al de la contratación del personal.
 
 No están comprendidas en este artículo, las remuneraciones correspondientes a los empleos de carácter eventual y las que tengan por objeto sustituir a otro trabajador.
+
+> <small>(ADICIONADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+No se considerarán como nuevos empleos, cuando se trate únicamente de sustitución patronal.
 
 > <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -639,59 +647,85 @@ j) Unidades agrícolas industriales de la mujer campesina.
 
 #### SECCIÓN NOVENA. DE LA RETENCIÓN POR PRESTACIÓN DE SERVICIOS
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-ARTÍCULO 27 E.- Las personas físicas, morales o unidades económicas que contraten la prestación de servicios de personal por la que se tenga la obligación de pagar el impuesto previsto en este capítulo, con un intermediario, contratista, tercero o cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, deberán:
+#### SECCIÓN PRIMERA. DEL OBJETO
 
-I.- Retener el impuesto que se cause conforme a las disposiciones de esta ley y expedir al prestador del servicio de personal la constancia de la retención dentro de los cinco días siguientes a la fecha en que se efectuó dicha retención, en el formato que para tal efecto autorice la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-II.- Presentar aviso por cada uno de los establecimientos en donde contraten los servicios de personal, dicho aviso deberá presentarse mediante las formas aprobadas por la Agencia de Administración Fiscal de Yucatán a través de reglas de carácter general, dentro de los cinco días siguientes a la firma del contrato suscrito o al primer mes de inicio de la prestación de los servicios o bien, de la fecha en que se hubieran modificado las condiciones o términos en los que se contrató el servicio.
+###### ARTÍCULO 27-E.
 
-En el aviso a que se refiere esta fracción deberá especificarse que la persona con la que se suscribió el contrato de prestación de servicios de personal se encuentra inscrita en el Registro Estatal de Contribuyentes; en caso de no hacerlo, la autoridad fiscal tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador de servicios de personal con la obligación de cubrir el impuesto sobre erogaciones por remuneración al trabajo personal.
+Las personas físicas, morales o unidades económicas que subcontraten con un intermediario, contratista, tercero o cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, la prestación de servicios especializados o de ejecución de obras especializadas, por la que se tenga la obligación de pagar el impuesto previsto en este Capítulo, deberán:
+
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+I.- Retener el impuesto que se cause conforme a las disposiciones de esta ley y expedir al prestador de servicios especializados o de ejecución de obras especializada la constancia de la retención dentro de los cinco días siguientes a la fecha en que se efectuó dicha retención, en el formato que para tal efecto autorice la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
+
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+II.- Presentar aviso por cada uno de los establecimientos en donde contraten los servicios especializados o de ejecución de obras especializadas; dicho aviso deberá presentarse mediante las formas aprobadas por la Agencia de Administración Fiscal de Yucatán a través de reglas de carácter general, dentro de los cinco días siguientes a la firma del contrato suscrito o al primer mes de inicio de la prestación de los servicios o bien, de la fecha en que se hubieran modificado las condiciones o términos en los que se contrató el servicio.
+
+En el aviso a que se refiere esta fracción deberá especificarse que la persona con la que se suscribió el contrato de prestación de servicios especializados o de ejecución de obras especializadas se encuentra inscrita en el Registro Estatal de Contribuyentes; en caso de no hacerlo, la autoridad fiscal tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador de servicios especializados o de ejecución de obras especializadas con la obligación de cubrir el impuesto sobre erogaciones por remuneración al trabajo personal.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 III.- Presentar aviso de alta o aumento de obligaciones por el inicio de la retención del impuesto, este aviso se presentará de forma simultánea con el aviso señalado en la fracción anterior, dentro de los cinco días siguientes a la firma del contrato suscrito o al primer mes de inicio de la prestación de los servicios.
 
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
 IV.- Presentar declaraciones mensuales definitivas del impuesto retenido y enterarlo en términos de este capítulo.
 
-El retenedor estará obligado a presentar sus declaraciones, aun cuando no exista impuesto a pagar, mientras no presente el aviso de disminución de sus obligaciones como retenedor.
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+El retenedor estará obligado a presentar sus declaraciones, aun cuando no exista impuesto a pagar, mientras no presente el aviso de disminución de sus obligaciones como retenedor o suspensión de actividades.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 V.- Llevar los registros contables, que permitan identificar los importes de las retenciones que de conformidad con este capítulo estén obligados a efectuar.
 
-VI.- Rendir la información relativa a los trabajos contratados o recibidos de prestadores de servicio de personal, de conformidad con las disposiciones de carácter general que para el efecto emita la Agencia de Administración Fiscal de Yucatán.
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+VI.- Rendir la información relativa a los trabajos subcontratados o recibidos de prestadores de servicios especializados o de ejecución de obras especializadas, de conformidad con las disposiciones de carácter general que para el efecto emita la Agencia de Administración Fiscal de Yucatán.
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ARTÍCULO 27 F.- La retención a que se refiere el artículo 22 Bis se determinará conforme a lo siguiente:
 
-I.- El comprobante fiscal que expida el prestador del servicio de personal señalará, en forma expresa y por separado, los importes de los conceptos por los que se cause el impuesto, la suma de dichos importes será la base para el cálculo de la retención.
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-II.- En caso de que el comprobante no se expida en los términos de la fracción anterior, el retenedor deberá solicitar por escrito, dentro de los cinco días hábiles siguientes a la fecha de expedición del comprobante, al prestador del servicio de personal, que le dé a conocer por el mismo medio, el importe total de los conceptos por los que se cause el impuesto establecido en el presente capítulo. La suma de dichos importes será la base para la retención.
+I.- El comprobante fiscal que expida el prestador de servicios especializados o de ejecución de obras especializadas señalará, en forma expresa y por separado, los importes de los conceptos por los que se cause el impuesto; la suma de dichos importes será la base para el cálculo de la retención.
 
-La información a que se refiere la fracción anterior deberá suministrarse por el prestador del servicio de personal al retenedor, dentro de los cinco días hábiles posteriores a la recepción del escrito mencionado.
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-En el supuesto de que, el prestador del servicio de personal no expida el comprobante señalado en la fracción I de este artículo, o bien no proporcione el escrito previsto en la fracción II, la base para la retención será el total de las contraprestaciones efectivamente pagadas en el mes que corresponda.
+II.- En caso de que el comprobante no se expida en los términos de la fracción anterior, el retenedor deberá solicitar por escrito, dentro de los cinco días hábiles siguientes a la fecha de expedición del comprobante, al prestador de servicios especializados o de ejecución de obras especializadas, que le dé a conocer por el mismo medio, el importe total de los conceptos por los que se cause el impuesto establecido en el presente capítulo. La suma de dichos importes será la base para la retención.
+
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+La información a que se refiere la fracción anterior deberá suministrarse por el prestador de servicios especializados o de ejecución de obras especializadas al retenedor, dentro de los cinco días hábiles posteriores a la recepción del escrito mencionado.
+
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+En el supuesto de que, el prestador de los servicios especializados o de ejecución de obras especializadas no expida el comprobante señalado en la fracción I de este artículo, o bien no proporcione el escrito previsto en la fracción II, la base para la retención será el total de las contraprestaciones efectivamente pagadas en el mes que corresponda.
 
 La base a que se refiere el párrafo anterior, se determinará sin incluir la contribución que se traslade en forma expresa y por separado en el comprobante, independientemente de la denominación con que se designe. A dicha base se le aplicará la tasa que corresponda de conformidad con lo establecido en el artículo 24 de esta ley.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-ARTÍCULO 27 G.- En caso de que el retenedor hubiera retenido en exceso el importe del impuesto al prestador del servicio de personal, este último podrá solicitar la devolución del pago indebido que proceda, en términos de lo dispuesto en el Código Fiscal del Estado de Yucatán.
+###### ARTÍCULO 27-G.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+En caso de que el retenedor hubiera retenido en exceso el importe del impuesto al prestador de servicios especializados o de ejecución de obras especializadas, este último podrá solicitar la devolución del pago indebido que proceda, en términos de lo dispuesto en el Código Fiscal del Estado de Yucatán.
 
-De igual manera, el prestador del servicio de personal podrá acreditar el impuesto que le haya sido retenido contra el impuesto a cargo que le corresponda, hasta agotarlo o solicitar su devolución. El saldo cuya devolución se solicite no podrá acreditarse en declaraciones posteriores. Para que sea acreditable el impuesto retenido deberá haberse enterado previamente.
+De igual manera, el prestador de los servicios especializados o de ejecución de obras especializadas podrá acreditar el impuesto que le haya sido retenido contra el impuesto a cargo que le corresponda, hasta agotarlo o solicitar su devolución. El saldo cuya devolución se solicite no podrá acreditarse en declaraciones posteriores. Para que sea acreditable el impuesto retenido deberá haberse enterado previamente.
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ARTÍCULO 27 H.- El retenedor será responsable solidario en términos de lo dispuesto en el Código Fiscal del Estado de Yucatán.
 
-Cuando no se efectúen las retenciones a que se refiere el artículo 22 Bis y se enteren de conformidad con lo señalado en este capítulo, las autoridades fiscales presumirán, salvo prueba en contrario, que el impuesto omitido es el que resulte de aplicar la tasa a que se refiere el primer párrafo del artículo 24 de esta ley, al total de las contraprestaciones pactadas con el prestador del servicio.
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
+
+Cuando no se efectúen las retenciones a que se refiere el artículo 22 Bis y no se enteren de conformidad con lo señalado en este capítulo, las autoridades fiscales presumirán, salvo prueba en contrario, que el impuesto omitido es el que resulte de aplicar la tasa a que se refiere el primer párrafo del artículo 24 de esta ley, al total de las contraprestaciones pactadas con el prestador del servicio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-#### SECCIÓN PRIMERA. DEL OBJETO
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. DEL SUJETO
 
@@ -4486,3 +4520,19 @@ II. Las referidas en las fracciones XII, XIII, XIV, XV, XVI, XX, XXI, XXII, XXII
 III. Las referidas en los incisos a), b) y c) de la fracción I, y a), b) y e) de la fracción II del artículo 82-A de la Ley General de Hacienda del Estado de Yucatán, las cuales entrarán en vigor el 1 de enero de 2022.
 
 IV. Las referidas en las fracciones I, II, V, VI, IX, X, XI, XII, XIII, XIV, XV, XVI, XIX y XX del artículo 85-G de la Ley General de Hacienda del Estado de Yucatán, las cuales entrarán en vigor el 1 de febrero de 2021.
+
+D.O. 23 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 433/2021 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EN MATERIA DE SUBCONTRATACIÓN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Aviso de modificación de retenedores
+
+Artículo segundo. Para efectos de lo dispuesto en la fracción XIII del párrafo segundo del artículo 40 del Código Fiscal del Estado de Yucatán, las personas físicas, morales o unidades económicas, que a la fecha de entrada en vigor de este decreto, estén inscritas en el Registro Estatal de Contribuyentes y tengan la obligación de retener el impuesto sobre erogaciones por remuneración al trabajo personal, deberán presentar el aviso de modificación de sus datos registrados, a través de las formas oficiales que para tal efecto emita la Agencia de Administración Fiscal de Yucatán; y manifestar si la retención deriva de la subcontratación de servicios especializados o de la ejecución de obras especializadas, dentro del mes siguiente al día de la entrada en vigor de este decreto.
+
+Aviso de modificación de prestadores de servicios
+
+Artículo tercero. Los intermediarios, contratistas, terceros o cualquiera que sea su denominación, que presten servicios especializados o de ejecución de obras especializadas, que a la fecha de entrada en vigor de este decreto, estén inscritos en el Registro Estatal de Contribuyentes deberán presentar el aviso de modificación de sus datos registrados, a que se refiere la fracción XIII del párrafo segundo del artículo 40 del Código Fiscal del Estado de Yucatán, a través de las formas oficiales que para tal efecto emita la Agencia de Administración Fiscal de Yucatán; y manifestar si la prestación deriva de servicios especializados o de la ejecución de obras especializadas, dentro del mes siguiente al día de la entrada en vigor de este decreto.
