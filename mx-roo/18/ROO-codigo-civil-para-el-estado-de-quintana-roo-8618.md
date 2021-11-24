@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2021-11-12"
+last_updated: "2021-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2021.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -14335,7 +14335,9 @@ El arrendador está obligado, aunque no haya pacto expreso:
 
 I.- A mantener el bien arrendado en estado de servir para el uso convenido, y a falta de convenio al respecto, para el uso a que aquél, por su misma naturaleza, estuviere destinado, haciendo para ello todas las reparaciones necesarias;
 
-II.- A no estorbar ni embarazar de manera alguna el uso del bien arrendado, a no ser por causa de reparaciones urgentes e indispensables;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+II.- A no estorbar ni embarazar de manera alguna el uso del bien arrendado, o del suministro de los servicios básicos, a no ser por causa de reparaciones urgentes e indispensables.
 
 III.- A garantizar el uso o goce pacífico del bien por todo el tiempo del contrato; y
 
@@ -17702,3 +17704,11 @@ P.O. 12 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 156 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO; SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 429 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 1° DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 24 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 157 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 2687 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
