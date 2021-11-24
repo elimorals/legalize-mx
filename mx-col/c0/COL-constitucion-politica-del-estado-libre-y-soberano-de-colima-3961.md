@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2021-10-30"
+last_updated: "2021-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -71,9 +71,11 @@ Artículo 2°
 
 Toda persona tiene derecho:
 
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
 I. A la vida.
 
-El Estado protegerá y garantizará este derecho desde el momento de la concepción;
+El Estado protegerá y garantizará este derecho en condiciones de dignidad;
 
 II. A la identidad y a ser registrada de manera inmediata a su nacimiento.
 
@@ -241,17 +243,19 @@ Los ciudadanos tienen derecho a solicitar la revocación del mandato de la Gober
 
 #### SECCIÓN II. DEL SISTEMA DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
 Artículo 8°
 
-A. Los tribunales del Estado estarán expeditos para impartir justicia en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, imparcial y gratuita.
+A. Los tribunales del Estado garantizarán el derecho de toda persona a la tutela jurisdiccional efectiva y que se le administre justicia de manera pronta, completa, imparcial y gratuita, en los plazos, términos y modalidades que fijen los ordenamientos jurídicos aplicables.
 
-En el Estado de Colima el proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación y demás bases y lineamientos establecidos en la Constitución Federal.
+Los tribunales se rigen por el principio de independencia judicial y se encuentran dotados de autonomía y plena jurisdicción para emitir y ejecutar sus resoluciones. Sus integrantes tienen reconocidas las garantías para el ejercicio, regularidad y seguridad de su actividad, con apego a la Constitución Federal, esta Constitución, los principios básicos relativos a la independencia de la judicatura y las leyes.
+
+B. En el Estado de Colima el proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación y demás bases y lineamientos establecidos en la Constitución Federal.
 
 En todo proceso del orden penal, el imputado, la víctima y el ofendido gozarán de los derechos fundamentales y las garantías para hacerlos efectivos que les otorgan la Constitución Federal, los tratados internacionales de que el Estado Mexicano sea parte, esta Constitución y las leyes.
 
-B. El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+C. El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -609,7 +613,9 @@ Artículo 26
 
 Para ser diputado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, no poseer otra nacionalidad y tener residencia en el Estado no menor de cinco años, antes del día de la elección;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos, y tener residencia en el Estado no menor de cinco años, antes del día de la elección;
 
 II. Estar inscrito en la lista nominal de electores;
 
@@ -785,7 +791,9 @@ VIII. Aprobar, cuando lo juzgue conveniente, los convenios de carácter financie
 
 IX. Aprobar los convenios celebrados con los gobiernos de los Estados en materia de conurbación y límites;
 
-X. Autorizar, en los términos de las leyes respectivas, las enajenaciones que deba hacer el Ejecutivo de los bienes inmuebles propiedad del Estado; asimismo, autorizar las donaciones a instituciones de interés público o de beneficencia, en los términos y condiciones que fije el mismo Congreso;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+X. Autorizar, en los términos de las leyes respectivas, las enajenaciones que deba hacer la persona titular del Poder Ejecutivo de los bienes inmuebles propiedad de la Administración Pública Centralizada del Estado; asimismo, autorizar las donaciones a instituciones de interés público o de beneficencia, en los términos y condiciones que fije el mismo Congreso;
 
 XI. Otorgar permiso al Gobernador para salir de (sic) territorio del Estado cuando su ausencia sea mayor de treinta días;
 
@@ -815,9 +823,13 @@ b) A los comisionados del Instituto de Transparencia, Acceso a la Información P
 
 XXII. Otorgar o negar su aprobación al nombramiento de magistrados del Supremo Tribunal de Justicia y a la propuesta de Fiscal General del Estado que haga el Ejecutivo, en los términos que establece esta Constitución;
 
-XXIII. Aprobar, en los términos de las leyes respectivas, el nombramiento del magistrado presidente del Tribunal de Arbitraje y Escalafón;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
-XXIV. Aprobar el nombramiento de los magistrados del Tribunal de Justicia Administrativa que proponga el Ejecutivo en los términos de esta Constitución;
+XXIII. Aprobar el nombramiento de la magistrada o magistrado que integre y presida el Tribunal de Arbitraje y Escalafón en los términos que establece esta Constitución;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+XXIV. Aprobar el nombramiento de las magistradas y magistrados del Tribunal de Justicia Administrativa en los términos que establece esta Constitución;
 
 XXV. Elegir al titular del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado en los términos previstos en esta Constitución y la ley de la materia;
 
@@ -953,11 +965,17 @@ Las resoluciones del Poder Legislativo tendrán el carácter de decreto-ley, dec
 
 Artículo 41
 
-Al presentarse a la Cámara un dictamen de ley o decreto por la comisión respectiva, una vez aprobado se remitirá copia de él al Ejecutivo para que, en un plazo no mayor de diez días hábiles, haga las observaciones que estime convenientes o manifieste su conformidad; en este último caso tendrá, a partir de que fenezca el plazo anterior, un término de cinco días hábiles para publicarlo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
-Transcurrido este último plazo, sin que el Ejecutivo haya realizado la publicación, la ley o el decreto, se tendrán por promulgados para todos los efectos legales, debiendo el presidente del Congreso o de la Comisión Permanente, en su caso, ordenar la publicación en el Periódico Oficial dentro de los siguientes cinco días hábiles, sin que para ello se requiera refrendo.
+Al presentarse a la Cámara un dictamen de ley o decreto por la comisión respectiva, una vez aprobado se remitirá copia de él a la persona titular del Poder Ejecutivo para que, en un plazo no mayor de veinte días naturales, haga las observaciones que estime convenientes o manifieste su conformidad; en este último caso tendrá, a partir de que fenezca el plazo anterior, un término de cinco días naturales para publicarlo.
 
-Si el Ejecutivo devuelve la ley o el decreto con observaciones, se pasarán a la comisión para que, previo dictamen, sean discutidos de nueva cuenta en cuanto a las observaciones hechas; y si son confirmados por el voto de las dos terceras partes de los miembros del Congreso, o modificados de conformidad con las observaciones hechas, el proyecto tendrá el carácter de ley o decreto, y serán devueltos al Ejecutivo para efectos de su promulgación y publicación dentro de los siguientes cinco días hábiles; de no hacerlo, lo hará el presidente del Congreso o de la Comisión Permanente, en los términos del párrafo anterior.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+Transcurrido este último plazo, sin que el Ejecutivo haya realizado la publicación, la ley o el decreto, se tendrán por promulgados para todos los efectos legales, debiendo la presidencia del Congreso o de la Comisión Permanente, en su caso, ordenar la publicación en el Periódico Oficial dentro de los siguientes cinco días naturales, sin que para ello se requiera refrendo.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+Si el Ejecutivo devuelve la ley o el decreto con observaciones, se pasarán a la comisión para que, previo dictamen, sean discutidos de nueva cuenta en cuanto a las observaciones hechas; y si son confirmados por el voto de las dos terceras partes de los miembros del Congreso, o modificados de conformidad con las observaciones hechas, el proyecto tendrá el carácter de ley o decreto, y serán devueltos al Ejecutivo para efectos de su promulgación y publicación dentro de los siguientes cinco días naturales; de no hacerlo, lo hará el presidente del Congreso o de la Comisión Permanente, en los términos del párrafo anterior.
 
 Cuando haya dictamen en un todo conforme a la iniciativa que proceda del Ejecutivo, no se pasará el dictamen como lo previene este artículo.
 
@@ -1181,13 +1199,13 @@ XI. Expedir los nombramientos de las magistradas y magistrados del Supremo Tribu
 
 XII. Aceptar las renuncias y las licencias de los funcionarios a que se refiere la fracción anterior, dando cuenta con ellas al Congreso o a la Comisión Permanente en su caso;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
-XIII. Proponer los nombramientos de las magistradas y magistrados del Tribunal de Justicia Administrativa y someterlos a la aprobación del Congreso del Estado en los términos previstos por esta Constitución;
+XIII. Proponer al Congreso del Estado, en los términos previstos en esta Constitución, los nombramientos de las magistradas y magistrados del Tribunal de Justicia Administrativa;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
-XIV. Proponer al Congreso del Estado, mediante el procedimiento que establezca la ley de la materia, a la presidenta o presidente del Tribunal de Arbitraje y Escalafón;
+XIV. Proponer al Congreso del Estado, en los términos previstos en esta Constitución, a la magistrada o magistrado que integre y presida el Tribunal de Arbitraje y Escalafón;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1243,9 +1261,9 @@ XXVI. Inspeccionar las obras de mejoras materiales costeadas por los ingresos de
 
 XXVII. Celebrar, con aprobación del Congreso, los convenios de carácter financiero con la Federación; y con los Estados en materia de conurbación y límites, en términos de las fracciones VIII y IX del artículo 34 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
-XXVIII. Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado;
+XXVIII. Desincorporar y enajenar los bienes que constituyen el patrimonio inmobiliario a cargo de la Administración Pública Centralizada del Estado, con la autorización del Congreso, en los términos que dispongan las leyes y disposiciones jurídicas de la materia;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1597,19 +1615,23 @@ Durante el ejercicio de su encargo, los miembros del Poder Judicial no podrán e
 
 #### SECCIÓN I. DE LA JURISDICCIÓN EN MATERIA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
 Artículo 77
 
-La función jurisdiccional en materia administrativa, incluyendo la fiscal y de responsabilidades de servidores públicos, estará a cargo del Tribunal de Justicia Administrativa del Estado, el cual estará dotado de plena autonomía para dictar sus fallos, en los términos que dispongan esta Constitución y la ley que lo regule. Ésta establecerá su organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones.
+La función jurisdiccional en materia administrativa, incluyendo la fiscal y de responsabilidades administrativas de servidores públicos y particulares, estará a cargo del Tribunal de Justicia Administrativa del Estado, el cual estará dotado de plena autonomía para dictar sus fallos, en los términos que dispongan esta Constitución, las leyes que lo regulen y su reglamento interior. Estas establecerán su organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones.
 
-El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre los particulares y la Administración Pública del Estado y los municipios. Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos del Estado y los municipios por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias por los daños y perjuicios que afecten a la Hacienda Pública, o al patrimonio de los entes públicos, del Estado y los municipios.
+El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre los particulares y la Administración Pública del Estado y los municipios. Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos del Estado y los municipios por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves en términos de la legislación aplicable; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias por los daños y perjuicios que afecten a la Hacienda Pública, o al patrimonio de los entes públicos, del Estado y los municipios.
 
-El Tribunal será colegiado y estará integrado por tres magistrados, quienes deberán cumplir los mismos requisitos previstos en el artículo 69 de esta Constitución para ser magistrado del Supremo Tribunal de Justicia; durarán seis años en el ejercicio de su encargo y durante éste sólo podrán ser removidos por las causas graves que señale la ley.
+El Tribunal podrá ejercer la función jurisdiccional consultiva respecto de la interpretación sobre el contenido y alcance de las disposiciones previstas en las leyes locales de carácter administrativo.
 
-El titular del Poder Ejecutivo propondrá al Congreso del Estado el nombramiento de las personas que considere idóneas para ocupar el cargo de magistrado. El Congreso hará la designación dentro del plazo de diez días hábiles, mediante el voto de las dos terceras partes de sus miembros presentes y previa comparecencia de las personas propuestas. Si el Congreso no resuelve dentro del plazo indicado, se tendrá por aprobada la propuesta presentada por el Ejecutivo del Estado.
+El Tribunal será colegiado y estará integrado por tres magistraturas, las personas que las ocupen deberán cumplir los requisitos previstos en el artículo 69 de esta Constitución para ser magistrada o magistrado del Supremo Tribunal de Justicia, teniendo las garantías de éstos; durarán seis años en el ejercicio de su encargo y durante este solo podrán ser removidos por las causas graves que señale la ley.
 
-Si el Congreso niega la aprobación dentro del plazo indicado, lo notificará al titular del Poder Ejecutivo, quien deberá realizar una segunda propuesta, procediéndose en los mismos términos del párrafo anterior. En caso de que el Congreso rechace dos propuestas sucesivas de nombramiento, se tendrá por aprobada la que libremente determine el Ejecutivo.
+Únicamente no será exigible el requisito de ser mexicano por nacimiento para acceder al cargo de magistrada o magistrado en el Tribunal, bastando con que se tenga la ciudadanía mexicana.
+
+La persona titular del Poder Ejecutivo propondrá al Congreso del Estado el nombramiento de las personas que considere idóneas para ocupar el cargo de magistrada o magistrado en el Tribunal. El Congreso hará la designación dentro del plazo de veinte días naturales, mediante el voto de las dos terceras partes de sus miembros presentes, previa comparecencia de las personas propuestas. Si el Congreso no resolviere dentro del plazo indicado, se tendrá por aprobada la propuesta presentada por el Ejecutivo del Estado.
+
+Si el Congreso niega expresamente la aprobación dentro del plazo indicado, lo notificará a la persona titular del Poder Ejecutivo, quien deberá realizar una segunda propuesta, pudiendo optar en todo caso por reiterar su propuesta inicial o proponer a otra u otras personas para el cargo, procediéndose en los mismos términos del párrafo anterior. En caso de que el Congreso rechace dos propuestas sucesivas de nombramiento, se tendrá por aprobada la que libremente determine el Ejecutivo.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1681,7 +1703,19 @@ Antes de acudir a los juzgados laborales, los trabajadores y patrones deberán a
 
 La etapa jurisdiccional estará a cargo del Poder Judicial del Estado, el cual contará con juzgados en materia laboral necesarios para solventar los procedimientos laborales derivados del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos que prevean las leyes de la materia, cuyas sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
-B. La función jurisdiccional para resolver las controversias de carácter laboral entre el Estado, los municipios y los organismos descentralizados de ambos, y sus trabajadores, estará a cargo del Tribunal de Arbitraje y Escalafón, el cual se regirá por la Ley de la materia y sus Reglamentos.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+B. La función jurisdiccional en materia laboral burocrática estará a cargo del Tribunal de Arbitraje y Escalafón, el cual estará dotado de plena autonomía para dictar sus fallos, en los términos que dispongan esta Constitución, la ley que lo regule y su reglamento interior. La ley establecerá su forma de organización, funcionamiento, atribuciones y procedimientos.
+
+El Tribunal tendrá a su cargo dirimir las controversias individuales y colectivas que se susciten entre los poderes del Estado, los órganos autónomos previstos en esta Constitución y los municipios, incluyendo los organismos descentralizados, y sus personas servidoras públicas, salvo las de aquellos entes públicos que se encuentren sujetos a un régimen jurídico especial en materia laboral o de relación administrativa con su personal, en cuyo caso las controversias que se susciten se tramitarán y resolverán conforme a lo que disponga dicho régimen especial.
+
+Asimismo, será el órgano competente para ejercer el control de legalidad de los actos de las organizaciones sindicales del ámbito burocrático y para conocer y resolver sobre los conflictos que se presenten entre las mismas y los relativos a su ámbito interno.
+
+El Tribunal será unitario y estará integrado por una magistrada o magistrado que lo presidirá, quien deberá cumplir los requisitos de elegibilidad que se establecen en el artículo 69 de esta Constitución y tener además experiencia en materia laboral. Durará seis años en el ejercicio de su encargo y durante éste sólo podrá autorizarse su remoción por las causas graves que señale la ley.
+
+Únicamente no será exigible el requisito de ser mexicano por nacimiento para acceder al cargo de magistrada o magistrado en el Tribunal, bastando con que se tenga la ciudadanía mexicana.
+
+El Congreso del Estado hará la designación de la magistrada o magistrado respectivo mediante el voto de las dos terceras partes de sus miembros presentes, a propuesta de la persona titular del Poder Ejecutivo, observándose en lo conducente lo previsto por los párrafos sexto y séptimo del artículo 77 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1749,7 +1783,9 @@ Artículo 83
 
 Para ser Fiscal General del Estado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no poseer otra nacionalidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+I. Ser ciudadano mexicano en ejercicio de sus derechos;
 
 II. Tener, cuando menos, treinta años cumplidos al día de su designación y no más de setenta y cinco;
 
@@ -2183,7 +2219,9 @@ Artículo 93
 
 Para ser integrante de un Ayuntamiento se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y no poseer otra nacionalidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Ser originario del Municipio de que se trate, con una residencia inmediata anterior al día de la elección de un año ininterrumpido, o contar con residencia no menor de tres años antes del día de la elección;
 
@@ -2763,25 +2801,47 @@ Artículo 141
 
 Nunca se impondrán préstamos forzosos ni por las oficinas se hará gasto alguno que no conste en los presupuestos o no sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que lo ordenen como a los empleados que lo obedezcan.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
 Artículo 142
 
-Los servidores públicos de los poderes del Estado, los órganos autónomos, los municipios, las entidades paraestatales y paramunicipales de la Administración Pública del Estado y de los municipios, y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser estrictamente proporcional a sus responsabilidades y a la función que realizan. Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos del Estado y de los municipios, bajo las siguientes bases:
+A. Las personas servidoras públicas de los poderes del Estado, los órganos autónomos, los municipios, las entidades paraestatales y paramunicipales de la Administración Pública del Estado y de los municipios, fideicomisos públicos, y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
-I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+El régimen de remuneraciones será determinado anual y equitativamente en los presupuestos de egresos del Estado y de los municipios, bajo las bases siguientes:
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente;
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los gastos sujetos a comprobación, los gastos propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos cuando la ley así lo permita, o que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente;
+No forman parte de la remuneración los recursos que perciban las personas servidoras públicas, en términos de ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo, relacionados con jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos, ni los servicios de seguridad y protección especial que requieran las personas servidoras públicas por razón del tipo de cargo que desempeñen;
 
-IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo; estos conceptos no formarán parte de la remuneración.
+II. Ninguna persona servidora pública podrá recibir remuneración o retribución, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la que tenga derecho a recibir la persona titular del Poder Ejecutivo Federal por concepto de percepciones ordinarias, sin considerar las prestaciones de seguridad social a las que tenga derecho conforme a la legislación en la materia;
 
-Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
+III. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico, excepto en los casos siguientes:
 
-V. Las remuneraciones y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo como en especie.
+a) Cuando el excedente sea consecuencia del desempeño de varios empleos públicos y exista norma jurídica aplicable que lo permita y se cuente además con un dictamen de compatibilidad de puestos favorable que expedirá el órgano interno de control del ente público respectivo;
 
-Serán causa de responsabilidad las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
+b) Cuando su remuneración sea producto de las condiciones generales de trabajo; o
+
+c) Cuando sea derivado de un trabajo técnico calificado o de alta especialización en su función.
+
+La suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para la persona titular del Poder Ejecutivo Federal en el presupuesto correspondiente;
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones, haberes de retiro o pagos de semejante naturaleza por servicios prestados en el desempeño de la función pública sin que estas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo, conforme a lo prescrito en la fracción IV del artículo 127 de la Constitución Federal;
+
+V. Las liquidaciones al término de la relación de trabajo en el servicio público solo serán las que se otorguen en términos de lo que establezcan los instrumentos jurídicos señalados en la fracción anterior y no podrán concederse por el solo acuerdo de los titulares de los entes públicos ni de sus órganos de gobierno;
+
+VI. Los créditos y préstamos solo podrán concederse cuando una ley o decreto, contrato colectivo o condiciones generales de trabajo así lo permitan;
+
+VII. Las remuneraciones y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo como en especie;
+
+VIII. Las conductas que impliquen el incumplimiento o la elusión por simulación a lo establecido en este artículo serán sancionadas conforme al tipo de responsabilidad que corresponda con apego a las leyes de la materia.
+
+B. Con independencia de las indemnizaciones o prestaciones a las que tengan derecho a recibir las personas servidoras públicas que por resolución jurisdiccional se haya determinado que su despido es injustificado o, en su caso, el ente público patronal no haya acreditado la causa de rescisión, cualquiera que hubiese sido la acción intentada, la persona trabajadora tendrá derecho además a que se le paguen los salarios vencidos o caídos computados desde la fecha del despido o de la rescisión hasta por un periodo máximo de doce meses, a razón del salario que corresponda a la fecha en que se realice el pago.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también a la persona trabajadora los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+C. En el caso de que el Tribunal competente determine que fue injustificada la separación, baja, cese o cualquier otra forma de terminación del servicio entre las instituciones de seguridad pública y las personas servidoras públicas del ramo que cuenten con carrera policial, incluyendo las de carrera en la Fiscalía General, estas tendrán derecho a una indemnización de tres meses de sueldo y el pago de las demás prestaciones a que tengan derecho; pudiendo reclamarse dichas prestaciones hasta por el último año en que prestó sus servicios.
+
+En los juicios en que el Tribunal competente condene al pago de haberes o de la remuneración diaria ordinaria dejada de percibir, este se cubrirá hasta por un periodo máximo de doce meses y se hará con base a su última percepción diaria que se le haya entregado a la persona involucrada por la prestación de sus servicios.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -3870,6 +3930,18 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los plazos y disposiciones previstas en el presente Decreto, entrarán en vigor para las cuentas públicas de los años 2021 y siguientes.
 
 TERCERO.- A partir de la entrada en vigor del presente Decreto, en términos de los transitorios anteriores, se derogan todas las disposiciones legales que contravengan o se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 9.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 2°, FRACCIÓN I; 8; 26, FRACCIÓN I; 34, FRACCIONES X, XXIII Y XXIV; 41 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 58, FRACCIONES XIII, XIV Y XXVIII; 77; 79 APARTADO B; 83, FRACCIÓN I; 93, FRACCIÓN I; Y 142 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”, con excepción de lo previsto en el artículo transitorio siguiente.
+
+SEGUNDO. La disposición prevista en el artículo 79, apartado B, párrafo cuarto de esta Constitución, relativa a la conformación del Tribunal de Arbitraje y Escalafón, entrará en vigor en la misma fecha en que lo haga la legislación secundaria expedida por el Congreso del Estado, a iniciativa de la persona titular del Poder Ejecutivo, que regule a dicho órgano jurisdiccional en los términos prescritos por la disposición constitucional señalada.
+
+TERCERO. Los juicios o procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su conclusión conforme al ordenamiento jurídico vigente aplicable al momento de su inicio.
+
+CUARTO. El Congreso del Estado deberá realizar las adecuaciones normativas que correspondan para dar cumplimiento a lo previsto en el presente decreto, dentro del plazo de noventa días naturales siguientes a la entrada en vigor del mismo.
 
 ###### ARTÍCULO ÚNICO.
 
