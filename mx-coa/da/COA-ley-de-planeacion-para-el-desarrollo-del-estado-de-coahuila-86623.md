@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-para-el-desarrollo-del-estado-de-coahuila-866
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-09"
-last_updated: "2020-11-27"
+last_updated: "2021-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 9 de marzo de 2012.
 
@@ -383,7 +383,7 @@ VII. Evaluar el cumplimiento de los objetivos y las metas del Plan Estatal;
 
 VII (SIC). Vigilar que los programas operativos anuales guarden congruencia con los objetivos del Plan Estatal;
 
-VIII. Integrar y dar seguimiento a los proyectos estratégicos definidos en el Plan Estatal, y
+VIII. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2021)
 
 IX. Las demás previstas en esta ley y otros ordenamientos aplicables.
 
@@ -571,9 +571,11 @@ II. La evaluación de los avances logrados en el cumplimiento de los objetivos y
 
 III. La estimación de los costos para alcanzar los resultados cuantitativos y cualitativos, así como los indicadores necesarios para medir su desempeño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-Los anteproyectos deberán sujetarse a la estructura programática aprobada por la Secretaría de Finanzas, en coordinación con la Secretaría Técnica y de Planeación y demás instancias correspondientes, la cual contendrá los objetivos, metas, indicadores de desempeño y la dependencia o entidad responsable, en congruencia con el Plan Estatal y con los programas derivados.
+Los anteproyectos deberán sujetarse a la estructura programática aprobada por la Secretaría de Finanzas y demás instancias correspondientes, la cual contendrá los objetivos, metas, indicadores de desempeño y la dependencia o entidad responsable, en congruencia con el Plan Estatal y con los programas derivados.
 
 Los indicadores a que se refiere el párrafo anterior, incluirán un índice, medida, cociente o fórmula a fin de establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad. Dichos indicadores serán la base para el funcionamiento del Sistema de Evaluación para el Desempeño.
 
@@ -583,9 +585,11 @@ Los proyectos de presupuesto de egresos del estado, la iniciativa de Ley de Ingr
 
 #### SECCIÓN TERCERA. DEL CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-La Secretaría de Fiscalización y Rendición de Cuentas, en coordinación con la Secretaría Técnica y de Planeación, establecerá la metodología, procedimientos y mecanismos para el adecuado control, seguimiento, revisión y evaluación de la ejecución de los programas, el uso y destino de los recursos asignados a ellos y la vigilancia de su cumplimiento.
+La Secretaría de Fiscalización y Rendición de Cuentas, en coordinación con la Secretaría de Finanzas, a través del personal que se designe para tal efecto o por profesionales externos que se contraten para tal fin, establecerán la metodología, procedimientos y mecanismos para el adecuado control, seguimiento, revisión, evaluación y supervisión de la ejecución de los programas, el uso y destino de los recursos asignados a ellos y la vigilancia de su cumplimiento.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -826,3 +830,15 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 105.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 32, EL PRIMER PÁRRAFO DEL ARTÍCULO 34; Y SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 19 DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
