@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-de-evaluacion-de-la-ciudad-de-151
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-10-20"
-last_updated: "2021-10-20"
+last_updated: "2021-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151979&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2021-10-15"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO DE EVALUACION DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.evalua.cdmx.gob.mx/storage/app/media/2021/DG/estatuto-orgainico-evalua.pdf]</small>
-
 ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2021.
 
 Estatuto publicado en el Número 708 de la Gaceta Oficial de la Ciudad de México, el miércoles 20 de octubre de 2021.
 
@@ -122,9 +120,11 @@ El Consejo de Evaluación es un organismo constitucional autónomo técnico cole
 
 El Consejo de Evaluación tiene por objeto la evaluación externa de los programas, estrategias, acciones y políticas de la Administración Pública y de las Alcaldías en materia de desarrollo social, desarrollo económico, desarrollo urbano y rural, medio ambiente y seguridad ciudadana, así como la medición de la pobreza y la desigualdad, la clasificación de las unidades territoriales de la Ciudad de México por su grado de desarrollo social, la emisión de informes sobre el estado de la cuestión social y cualquier opinión consultiva que se le requiera.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 4.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el Consejo de Evaluación contará con un Consejo, un Órgano Interno de Control, una Secretaría Técnica y las unidades administrativas que se establecen en el presente Estatuto y en el Manual de Organización y Procedimientos.
+Para el estudio, planeación y despacho de los asuntos que le competen, el Consejo de Evaluación contará con un Consejo, un Órgano Interno de Control, una Secretaría Ejecutiva y las unidades administrativas que se establecen en el presente Estatuto y en el Manual de Organización.
 
 ###### Artículo 5.
 
@@ -258,7 +258,9 @@ III. Poner a consideración del Consejo los asuntos tratados en las sesiones y s
 
 IV. Proponer al Consejo los Términos de Referencia a los que deberán apegarse las evaluaciones externas cuando este organismo las realice a través de terceros;
 
-V. Proponer al Consejo las metodologías e indicadores, a efecto de medir la pobreza, el bienestar y la desigualdad, así como aquellos relacionados con el desarrollo económico, desarrollo social, desarrollo urbano y rural, medio ambiente y seguridad ciudadana en la Ciudad de México, que elabore la Dirección de Información Estadística, así como los demás que considere pertinentes;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+V. Proponer al Consejo las metodologías e indicadores, a efecto de medir la pobreza, el bienestar y la desigualdad, así como aquellos relacionados con el desarrollo económico, desarrollo social, desarrollo urbano y rural, medio ambiente y seguridad ciudadana en la Ciudad de México, que elabore la Dirección Ejecutiva de Información Estadística, así como los demás que considere pertinentes;
 
 VI. Hacer públicas las mediciones, bases de datos y programas de cálculo que realice el Consejo de Evaluación sobre la desigualdad, la pobreza y el bienestar, así como de los indicadores sobre el estado del desarrollo económico, desarrollo social, desarrollo urbano y rural, medio ambiente y seguridad ciudadana en la Ciudad de México, en los términos del artículo 37 de la Ley de Evaluación;
 
@@ -302,11 +304,15 @@ XXV. Establecer los procedimientos y métodos de trabajo para que las funciones 
 
 XXVI. Establecer mecanismos de coordinación con el Instituto de Planeación y el Sistema Integral de Derechos Humanos;
 
-XXVII. Aprobar los nombramientos de las y los Directores y de las personas titulares de las unidades administrativas del Consejo de Evaluación;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+XXVII. Aprobar los nombramientos de las y los Directores Ejecutivos y de las personas titulares de las unidades administrativas del Consejo de Evaluación;
 
 XXVIII. Aprobar el catálogo de puestos y los tabuladores del personal adscrito al Consejo de Evaluación;
 
-XXIX. Aprobar el Manual de Organización y Procedimientos del Consejo de Evaluación;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+XXIX. Aprobar el Manual de Organización, el Manual de Procedimientos y los demás que sean necesarios para el cumplimiento de las funciones del Organismo Constitucional Autónomo y sus correspondientes actualizaciones;
 
 XXX. Las demás requeridas para el desarrollo de sus funciones y las del Consejo.
 
@@ -380,7 +386,9 @@ XXIX. Elaborar, en coordinación con las unidades administrativas implicadas, un
 
 XXX. Atender, en coordinación con la Presidencia, a los requerimientos de información que realice la Sala Constitucional del Tribunal Superior de Justicia de la Ciudad de México respecto de las controversias que se generen por las observaciones y recomendaciones que emita el Consejo de Evaluación;
 
-XXXI. Emitir convocatorias, en coordinación con la Dirección de Administración y Finanzas, para la adquisición de los servicios o bienes que le permitan cumplir con las atribuciones conferidas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+XXXI. Emitir convocatorias, en coordinación con la Dirección Ejecutiva de Administración y Finanzas, para la adquisición de los servicios o bienes que le permitan cumplir con las atribuciones conferidas;
 
 XXXII. Proponer a la Presidencia los términos de referencia a los que deberán apegarse las evaluaciones externas cuando este organismo las realice a través de terceros;
 
@@ -388,33 +396,45 @@ XXXIII. Instrumentar la coordinación entre el Consejo, por un lado; y el Instit
 
 XXXIV. Coordinar la comunicación social del Consejo de Evaluación, de acuerdo con las indicaciones que formule la Presidencia;
 
-XXXV. Dar seguimiento a los contratos de las evaluaciones externas realizadas por personas externas al Consejo de Evaluación, en coordinación con la Dirección de Administración y Finanzas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+XXXV. Dar seguimiento a los contratos de las evaluaciones externas realizadas por personas externas al Consejo de Evaluación, en coordinación con la Dirección Ejecutiva de Administración y Finanzas;
 
 XXXVI. Atender las solicitudes de asesoría, consulta y opinión técnica que le sean requeridos (sic) por instituciones públicas;
 
 XXXVII. Diseñar e integrar un Directorio de Personas Evaluadoras e informar al Consejo sobre la incorporación o permanencia de las personas en el Directorio;
 
-XXXVIII. Proponer a la Presidencia los nombramientos de las y los directores y de las personas titulares de las Unidades administrativas del Consejo;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+XXXVIII. Proponer a la Presidencia los nombramientos de las y los directores ejecutivos y de las personas titulares de las Unidades administrativas del Consejo;
 
 XXXIX. Aprobar los nombramientos del personal adscrito a las unidades administrativas del Consejo de Evaluación;
 
-XL. Proponer a la Presidencia el Manual de Organización y Procedimientos del Consejo de Evaluación, así como sus correspondientes actualizaciones;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+XL. Proponer a la Presidencia el Manual de Organización, el Manual de Procedimientos y los demás que sean necesarios para el cumplimiento de las funciones del Organismo Constitucional Autónomo y sus correspondientes actualizaciones;
 
 XLI. Expedir copias certificadas de los documentos que obren en los archivos del Consejo de Evaluación;
 
 XLII. Las demás necesarias para el cumplimiento de sus funciones y las del Consejo de Evaluación.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 19.
 
-Las unidades administrativas del Consejo de Evaluación, con estricto apego a los lineamientos y metodologías que determine el Consejo, realizarán las actividades que en el Programa de Trabajo le (sic) sean asignadas a fin de contribuir con al (sic) logro de los objetivos y atribuciones legales del Consejo de Evaluación. Las unidades administrativas del Consejo de Evaluación dependerán directamente de la Persona Titular de la Secretaría Ejecutiva, salvo la Dirección de Investigación y la Dirección de Información Estadística que estarán sujetas a la Presidencia del Consejo.
+Las unidades administrativas del Consejo de Evaluación, con estricto apego a los lineamientos y metodologías que determine el Consejo, realizarán las actividades que en el Programa de Trabajo le sean asignadas a fin de contribuir con al (sic) logro de los objetivos y atribuciones legales del Consejo de Evaluación. Las unidades administrativas del Consejo de Evaluación dependerán directamente de la Persona Titular de la Secretaría Ejecutiva, salvo la Dirección Ejecutiva de Investigación y la Dirección Ejecutiva de Información Estadística que estarán sujetas a la Presidencia del Consejo.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 20.
 
-Para dar cumplimiento al Programa de Trabajo del Consejo de Evaluación, de acuerdo con el artículo 15 de la Ley de Evaluación, la estructura administrativa del Consejo de Evaluación contará con las áreas y sus correspondientes funciones y responsabilidades que se enuncian en los siguientes artículos, además de las que se establezcan en el Manual de Organización y Procedimientos.
+Para dar cumplimiento al Programa de Trabajo del Consejo de Evaluación, de acuerdo con el artículo 15 de la Ley de Evaluación, la estructura administrativa del Consejo de Evaluación contará con las áreas y sus correspondientes funciones y responsabilidades que se enuncian en los siguientes artículos, además de las que se establezcan en el Manual de Organización.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO], G.O. 26 DE NOVIEMBRE DE 2021)</small>
 
 ###### Artículo 21.
 
-La Dirección de Información Estadística tendrá las siguientes atribuciones:
+La Dirección Ejecutiva de Información Estadística tendrá las siguientes atribuciones:
 
 I. Elaborar e integrar la información estadística del Consejo de Evaluación, especialmente la información y las mediciones periódicas a las que el Consejo de Evaluación esté obligado, como se especifica en los artículos 63 y siguientes del presente estatuto. Para cumplir con lo anterior, deberá:
 
@@ -438,9 +458,11 @@ IV. Participar en la planeación y el diseño de encuestas, así como de estudio
 
 V. Las demás que le confiera la Presidencia del Consejo.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 22.
 
-La Dirección de Investigación tendrá las siguientes atribuciones:
+La Dirección Ejecutiva de Investigación tendrá las siguientes atribuciones:
 
 I. Proponer a la Presidencia políticas o programas que podrán ser evaluados, así como tópicos para desarrollar estudios o investigaciones;
 
@@ -454,9 +476,11 @@ V. Elaborar documentos de investigación, indicadores e información sobre tópi
 
 VI. Las demás que le confiera la Presidencia del Consejo.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-La Dirección de Administración y Finanzas tendrá las siguientes atribuciones:
+La Dirección Ejecutiva de Administración y Finanzas tendrá las siguientes atribuciones:
 
 I. Administrar los servicios generales, los recursos humanos, financieros, materiales y tecnológicos, con calidad y eficiencia, para apoyar el cumplimiento de los objetivos y garantizar la continuidad de la operación en el ejercicio de sus funciones de las Unidades Administrativas del Consejo de Evaluación;
 
@@ -468,7 +492,9 @@ IV. Apoyar a la Secretaría Ejecutiva en el proceso de contratación o el establ
 
 V. Integrar, bajo la coordinación de la Presidencia, la propuesta del Programa Operativo Anual y del Anteproyecto del Presupuesto de Egresos para su presentación y autorización ante el Consejo y el envío a la Secretaría de Administración y Finanzas de la Ciudad de México;
 
-VI. Determinar, junto con la Presidencia y la Secretaría Ejecutiva, los instrumentos jurídicos administrativos y normativos (convenios, contratos, oficios circulares, actas administrativas, entre otros) que detallen las políticas y lineamientos a seguir en materia de las relaciones laborales conforme a los derechos y obligaciones de cada una de las partes, se elaborarán en conjunto con la Unidad de Asuntos Jurídicos y Transparencia;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+VI. Determinar, junto con la Presidencia y la Secretaría Ejecutiva, los instrumentos jurídicos administrativos y normativos (convenios, contratos, oficios circulares, actas administrativas, entre otros) que detallen las políticas y lineamientos a seguir en materia de las relaciones laborales conforme a los derechos y obligaciones de cada una de las partes, se elaborarán en conjunto con la Coordinación de Asuntos Jurídicos y Transparencia;
 
 VII. Administrar, dirigir y controlar la contabilidad, registro y control de los recursos financieros del Consejo de Evaluación de forma mensual, trimestral y anual;
 
@@ -510,9 +536,11 @@ XXV. Proporcionar el apoyo informático y contribuir al aprovechamiento de las t
 
 XXVI. Realizar las demás funciones inherentes al cargo que le señale la persona titular de la Secretaría Ejecutiva, la presidencia del Consejo o aquellas que sean determinadas por la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-La Unidad de Asuntos Jurídicos y Transparencia tendrá las siguientes atribuciones:
+La Coordinación de Asuntos Jurídicos y Transparencia tendrá las siguientes atribuciones:
 
 I. Llevar a cabo la representación legal del Consejo de Evaluación en las tareas que le asigne la Presidencia del Consejo o la Secretaría Ejecutiva, para los asuntos jurídicos, juicios, procesos y procedimientos en los que el Consejo sea parte;
 
@@ -536,9 +564,11 @@ IX. Las que le atribuyan expresamente los ordenamientos normativos, o bien sean 
 
 Las plazas de estructura del Consejo de Evaluación estarán sujetas al contenido del artículo 26 de la Ley de Evaluación, el artículo 107 de la Ley de austeridad, transparencia en remuneraciones, prestaciones y ejercicio de recursos de la Ciudad de México, la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 10 Apartado C de la Constitución.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-Además de lo establecido en el presente estatuto, el Consejo de Evaluación contará con la estructura administrativa y el personal de honorarios que se establezca en su Manual de Organización y Procedimientos para su funcionamiento, sujeta a la disponibilidad presupuestal.
+Además de lo establecido en el presente estatuto, el Consejo de Evaluación contará con la estructura administrativa y el personal de honorarios que se establezca en su Manual de Organización para su funcionamiento, sujeta a la disponibilidad presupuestal.
 
 ###### Artículo 27.
 
@@ -548,9 +578,11 @@ La Presidencia del Consejo designará a la persona servidora pública del Consej
 
 En caso de ausencia o renuncia de la persona titular de la Secretaría Ejecutiva, la persona titular de la Presidencia del Consejo hará la designación correspondiente, de acuerdo con las disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-La ausencia temporal de los Directores y/o de la Persona Titular de la Unidad de Asuntos Jurídicos y Transparencia, por motivos de salud, vacaciones, licencias o cualquier otra causa justificada, será suplida por los servidores públicos de la jerarquía inmediata inferior, dentro del área de cada responsabilidad.
+La ausencia temporal de los Directores Ejecutivos y/o de la Coordinación de Asuntos Jurídicos y Transparencia, por motivos de salud, vacaciones, licencias o cualquier otra causa justificada, será suplida por los servidores públicos de la jerarquía inmediata inferior, dentro del área de cada responsabilidad.
 
 ### CAPÍTULO QUINTO. DE LAS EVALUACIONES
 
@@ -616,9 +648,11 @@ En el Directorio de Personas Evaluadoras podrán participar profesores, investig
 
 No podrán ser evaluadores externos aquellas personas que tengan algún conflicto de interés con la política, el programa o la institución a evaluar o hayan fungido en los últimos tres años como mandos superiores o análogos en el Gobierno Federal o de la Ciudad de México. Las personas consejeras deberán abstenerse de participar tanto en la discusión como en la votación de los casos en que tengan conflicto de interés.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
 ###### Artículo 39.
 
-La Secretaría Ejecutiva, con apoyo de la Dirección de Administración y Finanzas, gestionará el proceso de contratación o el establecimiento de convenios para las evaluaciones externas realizadas por terceras personas. Los evaluadores externos, sean personas físicas o morales, deberán cumplir con las especificaciones del contrato o convenio, con las cláusulas previstas en los términos de referencia y con los requerimientos administrativos que correspondan.
+La Secretaría Ejecutiva, con apoyo de la Dirección Ejecutiva de Administración y Finanzas, gestionará el proceso de contratación o el establecimiento de convenios para las evaluaciones externas realizadas por terceras personas. Los evaluadores externos, sean personas físicas o morales, deberán cumplir con las especificaciones del contrato o convenio, con las cláusulas previstas en los términos de referencia y con los requerimientos administrativos que correspondan.
 
 ###### Artículo 40.
 
@@ -936,10 +970,28 @@ TERCERO. Se abroga el Estatuto del Consejo de Evaluación del Desarrollo Social 
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Estatuto.
 
-QUINTO. Los procedimientos en trámite que tenga el Consejo de Evaluación del Desarrollo Social de la Ciudad de México ante la Secretaría de Administración y Finanzas de la Ciudad de México, así como ante otros organismos e instituciones públicas, iniciados con anterioridad a la entrada en vigor del presente Estatura (sic) Orgánico, serán tramitados y resueltos conforme al Estatuto Orgánico del Consejo de Evaluación del Desarrollo Social de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 08 de julio de 2019.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-SEXTO. El Consejo de Evaluación deberá diseñar, aprobar y publicar su Manual de Organización y Procedimientos conforme a las disposiciones jurídicas y administrativas aplicables.
+QUINTO. Los procedimientos en trámite que tenga el Consejo de Evaluación del Desarrollo Social de la Ciudad de México ante la Secretaría de Administración y Finanzas de la Ciudad de México, así como ante otros organismos e instituciones públicas, iniciados con anterioridad a la entrada en vigor del presente Estatuto Orgánico, serán tramitados y resueltos conforme al Estatuto Orgánico del Consejo de Evaluación del Desarrollo Social de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 08 de julio de 2019.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+SEXTO. El Consejo de Evaluación deberá diseñar, aprobar y publicar su Manual de Organización, el Manual de Procedimientos y los demás que sean necesarios para el cumplimiento de las funciones del Organismo Constitucional Autónomo y sus correspondientes actualizaciones conforme a las disposiciones jurídicas y administrativas aplicables.
 
 SEPTIMO. El seguimiento a las recomendaciones emitidas antes de la entrada en vigor del presente estatuto se desarrollará de acuerdo a las disposiciones establecidas en el Estatuto Orgánico del Consejo de Evaluación del Desarrollo Social de la Ciudad de México publicado en la Gaceta Oficial de la Ciudad de México el 08 de julio de 2019.
 
 OCTAVO. En la primera integración del Consejo, el Congreso elegirá a tres personas consejeras para un periodo de cuatro años y a dos para un periodo de dos años. Todas las personas consejeras designadas en la primera integración del Consejo podrán presentar su candidatura a la reelección por un periodo de cuatro años adicionales, de acuerdo con las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+NOVENO. Con el propósito de salvaguardar la operación de acciones sociales de apoyo directo a la población, la Persona Titular de la Secretaría Ejecutiva podrá aprobar acciones sociales o sus modificaciones y en su caso de ser necesario por la relevancia del asunto, someter la aprobación ante el Consejo, en tanto no se armonice la legislación aplicable o las instituciones públicas competentes establezcan a qué órgano corresponde la referida competencia.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 26 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Acuerdo surtirá efectos desde el momento de su aprobación por Consejo de Evaluación de la Ciudad de México en la III Sesión Ordinaria 2021.
