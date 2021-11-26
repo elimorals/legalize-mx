@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2021-02-23"
+last_updated: "2021-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -91,9 +91,9 @@ VII. Política Estatal de Vivienda. El conjunto de acciones, medidas, lineamient
 
 VIII. Reglamento. El Reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-IX. Secretaría. Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+IX. Secretaría. Secretaría de Vivienda y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -119,9 +119,9 @@ Las autoridades encargadas de la aplicación de esta ley son:
 
 I. El Titular del Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-II. La persona titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+II. La persona titular de la Secretaría de Vivienda y Ordenamiento Territorial;
 
 III. La Comisión, y
 
@@ -753,11 +753,11 @@ Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorpo
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA COMISIÓN ESTATAL DE VIVIENDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 62.
 
-Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
+Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Vivienda y Ordenamiento Territorial y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -801,9 +801,9 @@ VI. Los demás que adquiera por cualquier título.
 
 Para su funcionamiento, la Comisión contará con una Junta de Gobierno que será su máxima autoridad, y se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de Vivienda y Ordenamiento Territorial;
 
 II. Una Secretaría Técnica, encabezada por quien sea titular de la Dirección General de la Comisión;
 
@@ -891,13 +891,19 @@ XVIII. Vigilar la aplicación correcta de los recursos ordinarios y extraordinar
 
 XIX. Las demás que le otorguen otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-ARTÍCULO 66 TER. La Junta de Gobierno deberá celebrar cuando menos, dos sesiones ordinarias trimestralmente.
+Artículo 66 TER. La Junta de Gobierno deberá celebrar sesiones ordinarias trimestralmente.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 Podrán celebrarse sesiones extraordinarias cada vez que quien sea titular de la Presidencia lo estime conveniente o a petición de una tercera parte del total de los integrantes de la Junta de Gobierno.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
 Los integrantes de la Junta de Gobierno participarán en las sesiones a que se refiere este artículo, con voz y voto, a excepción de quien sea titular de la Secretaria Técnica, quien tendrá voz pero no voto. En caso de empate, quien sea titular de la Presidencia de la Junta de Gobierno tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 En las sesiones de la Junta de Gobierno podrá asistir el Ejecutivo del Estado, a quien le corresponderá, en su caso, presidir la sesión con todas las atribuciones de quien sea titular de la Presidencia, quien participará como vocal.
 
@@ -933,9 +939,15 @@ XII. Proporcionar la información y dar acceso a la documentación que le solici
 
 XIII. Proponer a la Junta de Gobierno, en su caso, las Reglas de Operación, manuales de organización, lineamientos y demás disposiciones de carácter interno;
 
-XIV. Ejecutar los acuerdos que dicte la Junta de Gobierno, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-XV. Las demás que señalen las disposiciones que le sean aplicables.
+XIV. Ejecutar los acuerdos que dicte la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+XV. Certificar los documentos, archivos, trámites y/o expedientes, que se encuentren dentro de los archivos de la Comisión Estatal de Vivienda, y;
+
+XVI. Las demás que señalen las disposiciones que le sean aplicables.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -1202,3 +1214,15 @@ P.O. 23 DE FEBRERO DE 2021.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 104.- SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 6, LA FRACCIÓN II DEL ARTÍCULO 7, EL PRIMER PÁRRAFO DEL ARTÍCULO 62, LA FRACCIÓN I DEL PRIMER PÁRRAFO DEL ARTÍCULO 65, EL PRIMER PÁRRAFO DEL ARTÍCULO 66 TER, LA FRACCIÓN XIV DEL ARTÍCULO 66 QUÁTER; Y SE ADICIONA LA FRACCIÓN XV, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL XV PARA QUEDAR COMO XVI AL ARTÍCULO 66 QUÁTER DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente decreto, se deberán realizar las modificaciones a los ordenamientos legales y administrativos que resulten necesarias.
