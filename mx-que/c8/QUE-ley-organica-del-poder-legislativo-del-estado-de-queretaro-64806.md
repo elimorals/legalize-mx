@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2021-06-02"
+last_updated: "2021-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -2013,9 +2013,9 @@ XI. Desarrollo social, grupos vulnerables y vivienda. Tiene a su cargo la atenci
 
 XII. Desarrollo urbano, obras públicas y comunicaciones. Tiene a su cargo la atención de asuntos en materia de desarrollo y planeación urbana, ordenamiento territorial, normatividad de obra pública y comunicaciones;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-XIII. Familia. Tiene a su cargo la atención de asuntos relacionados con el concepto de familia como institución social;
+XIII. Familia y Derechos de las Niñas, Niños y Adolescentes. Tiene a su cargo la atención de asuntos relacionados con el concepto de familia como institución social, así como los que involucren o puedan afectar los derechos de niñas, niños y adolescentes, garantizando el principio de interés superior de la niñez y de la adolescencia;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2059,9 +2059,9 @@ XXII. Salud. Tiene a su cargo la atención de asuntos en materia de salud públi
 
 XXIII. Seguridad pública y protección civil. Tiene a su cargo la atención de asuntos en materia de seguridad pública estatal y municipal, así como de prevención y protección civil;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2021)</small>
 
-XXIV. Trabajo y previsión social. Tiene a su cargo la atención de asuntos relativos a la legislación en materia de trabajo; y
+XXIV. Seguimiento de la Agenda 2030. Conocerá, de acuerdo a su denominación y competencia, exclusivamente de los asuntos que le turne la Mesa Directiva de la Legislatura y que versen sobre el seguimiento de la Agenda 2030, así como de los asuntos que actualmente conoce la Comisión de Trabajo y Previsión Social; y
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3316,3 +3316,15 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 ###### ARTÍCULO TERCERO.
 
 Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 26 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LAS FRACCIONES XIII Y XXIV DEL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Todas las referencias previstas en otras disposiciones jurídicas relativas a la Comisión de Trabajo y Previsión Social, se entenderán a la Comisión Seguimiento de la Agenda 2030.
+
+Artículo Cuarto. Los asuntos que a la fecha de la aprobación de la presente reforma se encuentren en trámite ante la Comisión de Trabajo y Previsión Social, serán substanciados y dictaminados por la Comisión Seguimiento de la Agenda 2030.
