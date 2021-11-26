@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2020-12-30"
+last_updated: "2021-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -3345,6 +3345,60 @@ n) Actividad vinculada con servicios de blindaje y equipo, $26,487.00 (VEINTISÉ
 
 o) Actividad vinculada con servicios de seguridad privada, $8,829.00 (OCHO MIL OCHOCIENTOS VEINTINUEVE PESOS 00/100 M.N.).
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+p) Consulta de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada de antecedentes en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $100.00 (CIEN PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+q) Inscripción de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $100.00 (CIEN PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+r) Baja de personal directivo, administrativo y operativo que realizan las personas físicas o morales que prestan el servicio de seguridad privada en el Registro Estatal de Personal de Seguridad Pública y Registro Nacional de Personal de Seguridad Pública, $100.00 (CIEN PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 26 DE NOVIEMBRE DE 2021)</small>
+
+V. Servicios prestados por la Policía Complementaria:
+
+a) Servicios de guardia, custodia, vigilancia de bienes muebles, inmuebles o valores en sus distintas modalidades por suboficial armado:
+
+I. $29,000.00 (VEINTINUEVE MIL PESOS 00/100 M.N.) mensuales;
+
+II. Por evento $966.00 (NOVECIENTOS SESENTA Y SEIS PESOS 00/100 M.N.). por día.
+
+b) Servicios de guardia, custodia, vigilancia de bienes muebles, inmuebles o valores en sus distintas modalidades por oficial armado:
+
+I. $39,000.00 (TREINTA Y NUEVE MIL PESOS 00/100 M.N.) mensuales;
+
+II. Por evento $1,300.00 (MIL TRECIENTOS PESOS 00/100 M.N.). por día.
+
+c) Servicios de guardia, custodia, vigilancia y seguridad de personas en sus distintas modalidades por suboficial armado:
+
+I. $29,000.00 (VEINTINUEVE MIL PESOS 00/100 M.N.) mensuales;
+
+II. Por evento $966.00 (NOVECIENTOS SESENTA Y SEIS PESOS 00/100 M.N.). por día.
+
+d) Servicios de guardia, custodia, vigilancia y seguridad de personas en sus distintas modalidades por oficial armado:
+
+I. $39,000.00 (TREINTA Y NUEVE MIL PESOS 00/100 M.N.) mensuales;
+
+II. Por evento $1,300.00 (MIL TRECIENTOS PESOS 00/100 M.N.). por día.
+
+e) Servicios de guardia, custodia, vigilancia de bienes muebles, inmuebles o valores en sus distintas modalidades por suboficial sin arma:
+
+I. $18,000.00 (DIECIOCHO MIL PESOS 00/100 M.N.) mensuales;
+
+II. Por evento $600.00 (SEISCIENTOS PESOS 00/100 M.N.). por día.
+
+f) Servicios de guardia, custodia, vigilancia y seguridad de personas en sus distintas modalidades por Suboficial sin arma:
+
+I. $18,000.00 (DIECIOCHO MIL PESOS 00/100 M.N.) mensuales,
+
+II. Por evento $600.00 (SEISCIENTOS PESOS 00/100 M.N.). por día.
+
+Los servicios por evento se cobran por día en turnos de 8 horas.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 143.
@@ -4544,3 +4598,11 @@ El presente Decreto entrará en vigor el día primero de enero de dos mil veinti
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 109.- SE ADICIONAN LOS INCISOS P), Q) Y R) A LA FRACCIÓN IV Y LA FRACCIÓN V AL ARTÍCULO 142; DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
