@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-137131"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-02"
-last_updated: "2021-11-20"
+last_updated: "2021-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE NOVIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE NOVIEMBRE DE 2021.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 2 de julio de 2019.
 
@@ -567,11 +567,11 @@ Cumplidos los requisitos señalados en el artículo 46 de la presente ley, la Se
 
 ### CAPÍTULO PRIMERO. DE LOS NOTARIOS AUXILIARES
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021) (F. DE E., P.O. 26 DE NOVIEMBRE DE 2021)
 
 ###### Artículo 50.
 
-El Notario Público Titular, tendrá derecho a proponer un Notario Auxiliar, quien deberá reunir los mismos requisitos establecidos para ser Titular establecidos en el artículo 38 de la presente ley, con excepción de la fracción XI. El nombramiento de Notario Auxiliar, lo extenderá el Titular del Poder Ejecutivo del Estado, a partir del análisis que realice y a solicitud del Notario Titular.
+El Notario Público Titular, tendrá derecho a proponer un Notario Auxiliar, quien deberá reunir los mismos requisitos establecidos para ser Titular establecidos en el artículo 38 de la presente ley, con excepción de la fracción X. El nombramiento de Notario Auxiliar, lo extenderá el Titular del Poder Ejecutivo del Estado, a partir del análisis que realice y a solicitud del Notario Titular.
 
 ###### Artículo 51.
 
@@ -1977,7 +1977,7 @@ Tratándose de la suspensión temporal o revocación del ejercicio de la funció
 
 ###### Artículo 206.
 
-En el caso de la suspensión temporal o revocación del ejercicio de la función notarial, se estará a lo señalado en el artículo 157 de esta ley respecto de quien quedará encargado del despacho de la Notaría; únicamente para tramitar el cierre de los instrumentos ya iniciados, expedir los testimonios, copias certificadas o certificaciones que correspondan, a solicitud de la parte interesada, y durará en estas funciones por el término estrictamente necesario para cumplir con su encomienda, que no excederá de sesenta días hábiles a partir de la fecha en que asuma el encargo; vencido éste, se entregará a la Dirección General de Notarias el protocolo, los folios útiles y el archivo.
+En el caso de la suspensión temporal o revocación del ejercicio de la función notarial, se estará a lo señalado en el artículo 157 de esta Ley respecto de quien quedará encargado del despacho de la Notaría; únicamente para tramitar el cierre de los instrumentos ya iniciados, expedir los testimonios, copias certificadas o certificaciones que correspondan, a solicitud de la parte interesada, y durará en estas funciones por el término estrictamente necesario para cumplir con su encomienda, que no excederá de sesenta días hábiles a partir de la fecha en que asuma el encargo; vencido éste, se entregará a la Dirección General de Notarias el protocolo, los folios útiles y el archivo.
 
 ###### Artículo 207.
 
