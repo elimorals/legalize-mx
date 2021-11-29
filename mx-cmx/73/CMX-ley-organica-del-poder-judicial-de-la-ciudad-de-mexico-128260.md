@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2021-09-02"
+last_updated: "2021-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -2500,25 +2500,25 @@ XXVIII. Formar parte del Comité Coordinador del Sistema Anticorrupción de la C
 
 Las excitativas serán remitidas al Pleno del Tribunal Superior de Justicia, previa determinación de su procedencia y sólo podrán ser presentadas por las partes con interés legítimo; y
 
-> <small>(ADICIONADA G.O. 22 DE JULIO DE 2021)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE NOVIEMBRE DE 2021)</small>
 
-XXX (SIC). Emitir disposiciones y programas que coadyuven para la prevención, atención e indemnización de enfermedades o riesgos de trabajo psicosociales, derivados de la fatiga y estrés laboral para las personas trabajadoras del Poder Judicial de la Ciudad de México; mismas que deberán contemplar mecanismos que garanticen un entorno laboral favorable, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
-
-XXX. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus funciones y de las relativas a la función jurisdiccional del Tribunal Superior de Justicia, del Instituto de Servicios Periciales y Ciencias Forenses y de los órganos judiciales;
+XXX (SIC). Emitir disposiciones y programas que coadyuven para la prevención, atención e indemnización de enfermedades o riesgos de trabajo psicosociales, derivados de la fatiga y estrés laboral para las personas trabajadoras del Poder Judicial de la Ciudad de México; mismas que deberán contemplar mecanismos que garanticen un entorno laboral favorable;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XXXI. Expedir acuerdos, lineamientos y demás disposiciones administrativas que coadyuven a la función jurisdiccional, especialmente aquellas que garanticen el acceso a la justicia, a las tecnologías de la información, justicia digital y la tutela jurisdiccional efectiva, sin perjuicio de la autonomía de los órganos jurisdiccionales;
+XXXI. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus funciones y de las relativas a la función jurisdiccional del Tribunal Superior de Justicia, del Instituto de Servicios Periciales y Ciencias Forenses y de los órganos judiciales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XXXII. Nombrar a la persona titular del Centro de Justicia Alternativa, y
+XXXII. Expedir acuerdos, lineamientos y demás disposiciones administrativas que coadyuven a la función jurisdiccional, especialmente aquellas que garanticen el acceso a la justicia, a las tecnologías de la información, justicia digital y la tutela jurisdiccional efectiva, sin perjuicio de la autonomía de los órganos jurisdiccionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+
+XXXIII. Nombrar a la persona titular del Centro de Justicia Alternativa, y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
-XXXIII. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
+XXXIV. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
 
 ###### Artículo 219.
 
@@ -4871,3 +4871,11 @@ CUARTO.- El proceso de transformación y/o, en su caso, transformación de Juzga
 QUINTO.- La nueva competencia de los Juzgados Civiles de Proceso Escrito y los Juzgados Civiles de Proceso Oral entrará en vigor a partir del 1 enero de 2022.
 
 Los asuntos recibidos antes de la entrada en vigor del presente Decreto continuarán conociéndolos, hasta su conclusión, los Juzgados Civiles competentes en ese momento, independientemente de que sea transformado el órgano jurisdiccional respectivo.
+
+G.O. 29 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXX Y SE RECORREN LAS FRACCIONES SUBSECUENTES DEL ARTÍCULO 218 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
