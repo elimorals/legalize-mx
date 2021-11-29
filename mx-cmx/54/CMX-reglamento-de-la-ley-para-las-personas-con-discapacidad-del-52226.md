@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-para-las-personas-con-discapacidad-del-522
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-13"
-last_updated: "2006-11-13"
+last_updated: "2021-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52226&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2006-09-08"
 ---
 # REGLAMENTO DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO Y TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL Y SE EMITE EL REGLAMENTO DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2021 (ABROGADO).
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 13 de noviembre de 2006.
 
@@ -891,3 +893,21 @@ SEGUNDO. Se abroga el Reglamento del Consejo Promotor para la Integración al De
 TERCERO. El presente Reglamento deberá ser igualmente publicado en el Diario Oficial de la Federación para su mayor difusión.
 
 Dado en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México siendo el 8 de septiembre del año dos mil seis. - LIC. ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ, JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- FIRMA.- EL SECRETARIO DE GOBIERNO, LIC. RICARDO RUÍZ SUÁREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, LIC. MANUEL SANTIAGO QUIJANO.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, MTRO. EDUARDO VEGA LÓPEZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, ING. CESAR BUENROSTRO HERNÁNDEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, LIC. ENRIQUE PROVENCIO DURAZO.- FIRMA.- EL SECRETARIO DE SALUD, DR. RICARDO BARREIRO PERERA.- FIRMA.- EL SECRETARIO DE FINANZAS, LIC. ARTURO HERRERA GUTIÉRREZ. FIRMA.- SECRETARIO DE TRANSPORTES Y VIALIDAD, LIC. LUIS RUÍZ HERNÁNDEZ.- FIRMA.- LA SECRETARIA DE TURISMO, LIC. JULIA RITA CAMPOS DE LA TORRE.- FIRMA.- LA SECRETARIA DE CULTURA, LIC. RAQUEL SOSA ELÍZAGA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL ORDENAMIENTO.]</small>
+
+PRIMERO.- Se abroga el Reglamento de la Ley para las Personas con discapacidad del Distrito Federal.
+
+SEGUNDO.- Se emite el Reglamento de la Ley para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL Y SE EMITE EL REGLAMENTO DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. A la entrada en vigor del presente Decreto, se abrogan las disposiciones establecidas en el Reglamento de la Ley para las Personas con Discapacidad del Distrito Federal, publicado el 13 de noviembre de 2006 en la Gaceta Oficial del -entonces- Distrito Federal no. 134-bis.
