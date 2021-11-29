@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-del-poder-judicial-del-estado-de-139597"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-16"
-last_updated: "2019-12-16"
+last_updated: "2021-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2021.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de diciembre de 2019.
 
@@ -31,7 +31,17 @@ PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
 CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-El personal judicial del Poder Judicial del Estado de Aguascalientes, conscientes de la Misión de impartir justicia para legitimar el estado de derecho para toda la sociedad, a través de tribunales que se encuentran expeditos para administrarla de manera pronta, completa, imparcial y gratuita; y comprometidos con administrar justicia con calidad que con estricto apego a la legalidad sea accesible, transparente y confiable para mantener la seguridad jurídica y la credibilidad de la sociedad; sabedores del marco normativo que les aplica en materia de ética, responsabilidades administrativas y combate a la corrupción; orientando sus actividades al cumplimiento de los objetivos de la Institución, aplicando como principios rectores de la ética judicial la independencia, imparcialidad, objetividad y profesionalismo en el actuar cotidiano; sujeta su actuación en el ejercicio de su función pública a las siguientes disposiciones:
+> <small>(REFORMADO [N. DE E. CON SUS PUNTOS], P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+Las y los servidores públicos del Poder Judicial del Estado de Aguascalientes:
+
+Conscientes de la MISIÓN de ésta institución, que consiste en impartir justicia a través de tribunales que se encuentran expeditos para administrarla de manera pronta, completa, imparcial y gratuita;
+
+Comprometidos con la VISIÓN de ésta institución, que consiste en administrar justicia de calidad, orientada por sus valores institucionales para otorgar un servicio eficiente, eficaz y profesional, que en estricto apego a la legalidad y con perspectiva de género sea accesible, transparente y confiable para mantener la seguridad jurídica y la credibilidad ante la sociedad; y,
+
+Orientados a la consecución del OBJETIVO de esta institución, que consiste en legitimar el Estado de Derecho aplicando como principios rectores: la ética judicial, la independencia, la imparcialidad, la objetividad y el profesionalismo en el actuar cotidiano para combatir la corrupción y promover, respetar, proteger y garantizar los derechos humanos de los justiciables.
+
+Sujetaran su actuación, en el ejercicio de su función pública, a las REGLAS DE CONDUCTA contenidas en el DECALÓGO a que se refiere el Capítulo IV del presente Código.
 
 ### CAPÍTULO I. OBJETO DEL CÓDIGO DE CONDUCTA
 
@@ -51,9 +61,11 @@ El personal judicial ejercerá sus facultades, atribuciones y obligaciones legal
 
 ### CAPÍTULO III. GLOSARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 4°.
 
-Para los efectos de este Código, además de los conceptos señalados en el artículo 4° del Código de Ética; se entenderá por:
+Para los efectos de este Código, además de los conceptos señalados en el artículo 4º del Código de Ética, se entenderá por:
 
 I. ADMINISTRACIÓN PÚBLICA: Conjunto de órganos administrativos que tienen como función realizar una actividad para alcanzar el bien colectivo de un estado, a partir de los servicios públicos;
 
@@ -67,31 +79,73 @@ V. CÓDIGO DE CONDUCTA: El Código de Conducta del Poder Judicial del Estado de 
 
 VI. ÉTICA: Rama de la filosofía que se ocupa del estudio racional de la moral, la virtud, el deber, la felicidad y el buen vivir; en tanto requiere de la reflexión y de la argumentación;
 
-VII. ÉTICA PÚBLICA: Alude al perfil, formación y conducta responsable comprometida de las personas encargadas de las cuestiones públicas, es la ciencia del buen comportamiento en el servicio a la ciudadanía;
+VII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-VIII. EFICIENCIA: Es la virtud a la utilización correcta y con la menor cantidad de recursos para conseguir un objetivo de la función judicial y de los procedimientos, que no es otro que el de resolver el conflicto jurídico en una forma real, posible y legal, en los plazos y condiciones que el propio Derecho determina;
+VIII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-IX. EXCELENCIA: Es la conducta del servidor público que se funda en la mejora continua, que fija metas y que se esfuerza por superarlas;
+IX. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-X. HONRADEZ: Es la rectitud de ánimo, que se rige por los valores morales, que respeta las normas sociales, sin esperar ni pedir nada que no sea cumplir con la función en los términos que el propio derecho exige;
+X. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-XI. IMPARCIALIDAD: Alude a la intervención que debe realizarse en los conflictos jurídicos y en consecuencia, mantenerse en una posición objetiva en relación con las facciones enfrentadas sin que medie interés, simpatía o prejuicio en favor o en contra de alguna persona o situación;
+XI. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-XII. INDEPENDENCIA: Es la plena soberanía del servidor público del Poder Judicial al ejercer su función de tutela y realización del Derecho objetivo en cuanto al ejercicio de no aceptar influencias provenientes del sistema social, sin subordinación, ni sumisión a otra cosa que la Ley y el Derecho;
+XII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-XIII. LEGALIDAD: Toda aquella intervención o decisión que se encuentra fundada en Derecho en su más amplio sentido y que se basa además en la técnica e interpretación jurídica que mayor certeza genere en la solución de los conflictos;
+XIII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-XIV. LEALTAD: Es el comportamiento apegado a la verdad, nobleza, rectitud, honradez, honestidad, entre otros valores morales y éticos con fidelidad al Derecho, según se espera de una persona de honor y que actúa en favor del bien colectivo y del bien de las partes, conforme a su derecho, observando los fines del proceso y de la institución del Poder Judicial;
+XIV. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-XV. OBJETIVIDAD: Es la actitud que debe de observar el servidor público del Poder Judicial en el conflicto sin permitir influencias provenientes de sí mismo, de la circunstancia sociopolítica o derivadas de la situación personal de cada una de las partes;
+XV. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
-XVI. PROFESIONALISMO: Es la respuesta más alta a la excelencia y de conocimiento profundo de la teoría, técnica y práctica, que un servidor judicial debe externar en su ejercicio laboral, para lo cual deberá siempre actualizarse y capacitarse con objeto de elevar la calidad de las actividades que le corresponde desempeñar;
+XVI. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
 
 XVII. PODER JUDICIAL: Poder Judicial del Estado de Aguascalientes;
 
 XVIII. PERSONAL JUDICIAL: Las personas que desempeñan un empleo, cargo o comisión que coadyuven en funciones jurisdiccionales y administrativas en el Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto en el artículo 108 párrafos primero y cuarto de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 73 párrafo primero de la Constitución Política del Estado de Aguascalientes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
 ### CAPÍTULO IV. REGLAS DE CONDUCTA
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+PRIMERA. Ejercer las atribuciones, facultades y obligaciones que les otorga la ley, con honestidad, cooperación, austeridad y sin ostentación, orientados a satisfacer el interés superior de la sociedad, por encima de intereses particulares.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+SEGUNDA. Conducirse con respeto hacia las personas con las que tenga relación, en el ejercicio de su función pública.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+TERCERA. Conducirse con transparencia y resguardar la documentación e información que tienen bajo su responsabilidad, en términos de ley.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+CUARTA. Conducirse de manera respetuosa, eficiente, oportuna, responsable e imparcial, al recibir y dar trámite a los asuntos que por su empleo, cargo o comisión le sean asignados, absteniéndose de condicionar el cumplimiento de sus obligaciones a requisitos no previstos en la ley.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+QUINTA. Conducirse con imparcialidad, apego a la ley y sin discriminar, justificando de manera transparente sus decisiones y acciones, al participar en procedimientos de recursos humanos, de planeación de estructuras o desahogar, en general, cualquier función en el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+SEXTA. Administrar los recursos materiales del Poder Judicial del Estado con transparencia, honradez y eficiencia, para satisfacer los objetivos a los que están destinados, considerando la conservación del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+SÉPTIMA. Conducirse con transparencia, imparcialidad y legalidad en la celebración, otorgamiento o prórroga de contrataciones públicas, considerando la conservación del medio ambiente, y orientando sus decisiones a satisfacer los intereses de la sociedad y a garantizar las mejores condiciones para el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+OCTAVA. Conducirse con imparcialidad y apego a la ley, justificando de manera transparente sus decisiones y acciones, al participar en procesos de evaluación.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+NOVENA. Generar, obtener, utilizar y comunicar información suficiente, oportuna, confiable y de calidad, al participar en procesos de control interno y demás relacionados con el fortalecimiento de la cultura ética y el servicio a la sociedad, conduciéndose con imparcialidad y apego a la ley.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+DÉCIMA. Respetar las formalidades esenciales de los procedimientos de su competencia, así como fomentar la cultura de denuncia al participar en procedimientos administrativos.
 
 ###### ARTÍCULO 5°.
 
@@ -189,6 +243,14 @@ III. Eliminar el lenguaje discriminatorio basado en estereotipos de género, as�
 
 IV. Fomentar la igualdad entre hombres y mujeres, respetando la orientación sexual de cualquier persona usuaria(o), compañera(o) y subordinada(o) con el propósito de institucionalizar la equidad de género y el respeto a los derechos humanos.
 
+...
+
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 29 DE NOVIEMBRE DE 2021, EN SU PROEMIO SE INDICA QUE SE DEROGA ESTA FRACCIÓN, PERO EN EL CONTENIDO DE LA REFORMA ANTERIOR SE ADVIERTE QUE EL ARTÍCULO 9 SOLO CONSTA DE CUATRO FRACCIONES, VÉASE LITERALIDAD PÁGINA 43.]</small>
+
+XX. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2021)
+
+...
+
 ###### ARTÍCULO 10°.
 
 CONFLICTO DE INTERÉS
@@ -229,6 +291,16 @@ II. Abstenerse de realizar acciones tendentes a inhibir la presentación de quej
 
 III. Atender en el ámbito de sus responsabilidades y con estricto apego a derecho toda queja y/o denuncia.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. VINCULACIÓN CON EL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
+
+Las reglas de conducta contenidas en el Capítulo IV del presente Código, orientan la actuación del personal judicial en la aplicación de los principios, valores y reglas de integridad previstos en el Código de Ética del Poder Judicial.
+
+Dichos principios, valores y reglas de integridad, se vinculan con las reglas de conducta y con las atribuciones y objetivos de las áreas de esta institución, de la siguiente manera:
+
+> <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 29 DE NOVIEMBRE DE 2021, PÁGINA DE LA 42 A LA 43.]</small>
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -268,3 +340,25 @@ MAGISTRADO DE LA SALA CIVIL
 LIC. EDNA EDITH LLADÓ LÁRRAGA
 
 MAGISTRADA DE LA SALA PENAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA CONTRALORÍA INTERNA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Aguascalientes, así como en la página oficial de internet del Poder Judicial del Estado de Aguascalientes, con fundamento en lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas y disposición Décimo Tercera de los Lineamientos para la emisión del Código de Ética a que se refiere el precepto legal citado en primer término, para su difusión y conocimiento general. y en atención al principio de máxima publicidad.
+
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO. Instrúyase a la Secretaría Particular de la Magistrada Presidenta del H. Supremo Tribunal de Justicia del Estado para que en el ámbito de sus funciones realice la gestión correspondiente para la publicación del presente acuerdo en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA CONTRALORÍA INTERNA POR EL QUE SE DEROGAN DISPOSICIONES DEL CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Aguascalientes, así como en la página oficial de internet del Poder Judicial del Estado de Aguascalientes, con fundamento en lo establecido por los artículos 16 de la Ley General de Responsabilidades Administrativas y disposición Décimo Tercera de los Lineamientos para la emisión del Código de Ética a que se refiere el precepto legal citado en primer término, para su difusión y conocimiento general. y en atención al principio de máxima publicidad.
+
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO. Instrúyase a la Secretaría Particular de la Magistrada Presidenta del H. Supremo Tribunal de Justicia del Estado para que en el ámbito de sus funciones realice la gestión correspondiente para la publicación del presente acuerdo en el Periódico Oficial del Estado de Aguascalientes.
