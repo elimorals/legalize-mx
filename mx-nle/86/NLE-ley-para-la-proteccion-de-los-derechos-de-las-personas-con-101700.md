@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-12-20"
+last_updated: "2021-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -78,6 +78,10 @@ XI.- Discapacidad auditiva: restricción en la función de percepción de los so
 XII. Discapacidad Motora: Las dificultades que se presentan para la organización del acto motor en el individuo;
 
 XIII. Discapacidad intelectual: Dificultades en los procesos mentales y para el desarrollo de habilidades, destrezas, hábitos y actitudes adaptativas esperadas para su edad y en su entorno;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+XIII Bis. Discriminación Múltiple: Es la situación de desigualdad específica en la que se encuentran personas con discapacidad que al ser discriminadas por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
 XIV. Diseño Universal: Se entenderá por el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida de lo posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
 
@@ -1094,3 +1098,9 @@ P.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 201. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 16 BIS Y POR MODIFICACIÓN AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA POR ADICIÓN DE UN ARTÍCULO 27 BIS A LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 018. SE ADICIONA UNA FRACCIÓN XIII BIS, AL ARTÍCULO 2 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
