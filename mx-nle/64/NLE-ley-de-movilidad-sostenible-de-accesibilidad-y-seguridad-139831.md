@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2021-03-10"
+last_updated: "2021-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -407,9 +407,19 @@ XIII. Revisar los estudios de impacto de movilidad de su competencia y, emitir o
 
 XIV. Definir dentro de los programas de ordenamiento territorial y de desarrollo urbano correspondientes, la jerarquía y categoría de las vialidades, de acuerdo a la tipología que corresponda;
 
-XV. Emitir en coordinación con el Instituto los lineamientos, manuales y criterios para el diseño de la infraestructura y equipamiento para la movilidad, con la participación de los Municipios y de la sociedad en general; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
 
-XVI. Las demás atribuciones que le otorguen la presente Ley, su Reglamento y otros ordenamientos jurídicos aplicables en la materia siempre y cuando no contravengan esta Ley.
+XV. Emitir en coordinación con el Instituto los lineamientos, manuales y criterios para el diseño de la infraestructura y equipamiento para la movilidad, con la participación de los Municipios y de la sociedad en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+XVI. Establecer programas de sustitución para el pago del transporte público SETME y SETRA mediante mecanismos de reciclaje de botellas de plástico, en los cuales los usuarios del transporte, puedan canjear por bonos, tarjeta, boletos u otro instrumento de cambio que determine la autoridad.
+
+Para ello la autoridad podrá realizar convenios de colaboración con las empresas legalmente establecidas dedicadas al reciclaje de productos de botellas de plástico clasificados como tales, con el objeto de establecer disposiciones dirigidas para llevar a cabo los programas y especificaciones que determine la secretaría, con atención a lo dispuesto por el párrafo segundo del artículo 17 de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+XVII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento y otros ordenamientos jurídicos aplicables en la materia siempre y cuando no contravengan esta Ley.
 
 ###### Artículo 13.
 
@@ -1329,7 +1339,9 @@ VI. A recibir atención médica inmediata en caso de siniestros;
 
 VII. A la indemnización por las lesiones causadas en su persona y daños en sus bienes, en su caso, ocasionados por hechos viales;
 
-VIII. Conocer los datos del operador, a través del documento de identificación que se establezca en el reglamento de la Ley; lo cual deberá colocarse en un lugar visible del vehículo y será de un tamaño que permita su lectura a distancia; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+VIII. Conocer los datos del operador, a través del documento de identificación que se establezca en el reglamento de la Ley; lo cual deberá colocarse en un lugar visible del vehículo y será de un tamaño que permita su lectura a distancia;
 
 IX. A viajar sin costo en el SETRA y SETME en los siguientes casos:
 
@@ -1338,6 +1350,10 @@ a) Las niñas, niños y adolescentes de hasta 1.10 metros de estatura, siempre y
 b) El personal autorizado por el Instituto en actividades de supervisión o de vigilancia.
 
 c) Carteros, mensajeros de telégrafos, agentes de la policía ministerial, elementos de seguridad pública y tránsito, personal militar, de bomberos y paramédicos, siempre y cuando estén en funciones y lo acrediten mediante el documento que determine el Instituto.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+X. Realizar el pago del transporte público SETME y SETRA mediante instrumentos establecidos por la secretaria derivados del programa de reciclaje de botellas de plástico.
 
 #### SECCIÓN PRIMERA. SETME
 
@@ -1917,9 +1933,17 @@ VIII. Establecer las medidas que incentiven el uso del transporte público y el 
 
 IX. Procurar la integración física, operativa, informativa, de imagen y de modo de pago de los sistemas de transporte público para garantizar los horarios, transferencias modales, recorridos, frecuencias de paso y demás infraestructura con las que se proporciona el servicio;
 
-X. Promover acciones y mejoras a la infraestructura, para hacer más eficiente la distribución de bienes y mercancías, pero al mismo tiempo reducir los impactos negativos de los vehículos de carga en los demás usuarios del sistema de movilidad; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
 
-XI. Basar la toma de decisiones, en diagnósticos, pronósticos y criterios sustentados técnicamente, que planteen soluciones integrales y de raíz, para con ellos garantizar el uso eficiente de los recursos públicos.
+X. Promover acciones y mejoras a la infraestructura, para hacer más eficiente la distribución de bienes y mercancías, pero al mismo tiempo reducir los impactos negativos de los vehículos de carga en los demás usuarios del sistema de movilidad;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+XI. Basar la toma de decisiones, en diagnósticos, pronósticos y criterios sustentados técnicamente, que planteen soluciones integrales y de raíz, para con ellos garantizar el uso eficiente de los recursos públicos; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+XII. Desarrollar programas que beneficien y a su vez fomenten la participación del usuario en el tema del reciclaje, inculcando en él la cultura de la sustentabilidad.
 
 ###### Artículo 128.
 
@@ -3028,3 +3052,13 @@ SEGUNDO.- El Instituto Estatal de las Mujeres deberá realizar las modificacione
 TERCERO.- El Instituto de Movilidad y Accesibilidad deberá de realizar las modificaciones al Reglamento de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, así como a su Reglamento Interior, para adecuarlos al presente Decreto en un plazo no mayor a 60-sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
 
 CUARTO.- El Instituto Estatal de la Mujer, así como el Instituto de Movilidad y Accesibilidad, tendrán un plazo no mayor a 90-noventa días naturales posteriores a la entrada en vigor del presente Decreto para elaborar de manera coordinada y publicar en el Periódico Oficial del Estado de Nuevo León los protocolos establecidos en los artículos 23 fracción XXXII y 26 fracción XIX de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, y la guía para la elaboración del Plan de Acción Inmediata para la Erradicación de cualquier tipo de Violencia contra la (sic) Mujeres en el Sistema Estatal de Movilidad establecido en el artículo 26 Bis de la Ley del Instituto Estatal de las Mujeres.
+
+P.O. 30 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 017. SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 12, LA FRACCIÓN VIII DEL ARTÍCULO 70 Y FRACCIONES X Y XI DE ARTÍCULO 127; Y POR ADICIÓN DE LA FRACCIÓN XVII AL ARTÍCULO 12, LA FRACCIÓN X AL ARTÍCULO 70 Y LA FRACCIÓN XII AL ARTÍCULO 127, TODOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se le concede a la Secretaria de Movilidad y Planeación Urbana un término de 90 días hábiles a partir de la entrada en vigor del presente decreto, para que realice las adecuaciones al marco jurídico que resulten necesarias para la aplicación del presente decreto.
+
+TERCERO. Se le concede al Instituto de Movilidad y Accesibilidad un término de 90 días hábiles a partir de la publicación del presente decreto, para que realice las adecuaciones al marco jurídico que resulten necesarias para la aplicación del presente decreto.
