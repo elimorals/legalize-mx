@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-11-29"
+last_updated: "2021-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -237,9 +237,9 @@ VIII. OCTAVO CIRCUITO:
 
 2. Tres tribunales unitarios, dos con sede en Torreón y uno con sede en Saltillo.
 
-> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 1/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 23/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2021)</small>
 
-3. Trece juzgados de distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y ocho en La Laguna, con sede en Torreón, uno de éstos en Materia Mercantil Federal.
+3. Trece juzgados de distrito en el Estado de Coahuila de Zaragoza: tres con residencia en Saltillo, uno con sede en Piedras Negras, uno con residencia en Monclova y ocho en La Laguna, con sede en Torreón, uno de éstos en materia mercantil federal.
 
 IX. NOVENO CIRCUITO:
 
@@ -475,9 +475,9 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Cancún.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 13/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 18/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2021)</small>
 
-3. Ocho Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y seis con sede en Cancún.
+3. Nueve Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y siete con sede en Cancún.
 
 4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún.
 
@@ -8662,3 +8662,27 @@ TERCERO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Coordinaci
 CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionan con el cumplimiento de este Acuerdo.
 
 QUINTO. La Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Coahuila de Zaragoza, con sede en Monclova y los Juzgados de Distrito Cuarto y Quinto en la misma entidad federativa y sede, colocarán avisos en lugar visible de sus accesos, informando al público lo determinado en el presente Acuerdo.
+
+D.O.F. 30 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 18/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO NOVENO DE DISTRITO EN EL ESTADO DE QUINTANA ROO, CON RESIDENCIA EN CANCÚN, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Juzgado Noveno de Distrito en el Estado de Quintana Roo, con residencia en Cancún, de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Noveno de Distrito en el Estado de Quintana Roo, con residencia en Cancún.
+
+D.O.F. 30 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 23/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO QUINTO DE DISTRITO EN EL ESTADO DE COAHUILA DE ZARAGOZA, CON RESIDENCIA EN SALTILLO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las (sic) Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Quinto de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Quinto de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo.
