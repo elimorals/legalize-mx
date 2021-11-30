@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2021-04-13"
+last_updated: "2021-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -75,7 +75,9 @@ Los padres están obligados a alimentar, educar e instruir a sus hijos, fomentan
 
 En todas las decisiones y actuaciones del Estado, en el ámbito de su competencia, se velará y cumplirá con el principio del interés superior de la niñez, reconociendo y garantizando de manera plena sus derechos. Además de los que se establezcan en la ley de la materia, los niños y las niñas, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación, inclusión, a la identidad, a la familia, a recibir los servicios para la atención, cuidado y desarrollo integral infantil en condiciones de calidad, calidez, seguridad, sano esparcimiento para su desarrollo integral. Este principio, deberá guiar todas las acciones afirmativas, la protección integral, el diseño, presupuesto, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez, las cuales deberán contribuir a su formación física, psicológica, económica, social, cultural, ambiental, ética, cívica, además de evitar y sancionar el maltrato y abusos que afecten su desarrollo.
 
-Toda persona tiene derecho a una existencia digna, a la educación, a la cultura, al trabajo y a la protección de la salud. El Estado promoverá el desarrollo físico, moral, intelectual, social y económico del pueblo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+
+Toda persona tiene derecho a una existencia digna, a la alimentación, a la educación, a la cultura, al trabajo y a la protección de la salud. El Estado promoverá el desarrollo físico, moral, intelectual, social y económico del pueblo.
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
 
@@ -3994,5 +3996,13 @@ P.O. 13 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 383 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 515 QUE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
