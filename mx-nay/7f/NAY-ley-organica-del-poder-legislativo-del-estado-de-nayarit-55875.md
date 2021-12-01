@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2021-08-12"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -1167,7 +1167,25 @@ IV. No haber desempeñado durante el último año, algún cargo de dirección de
 
 V. Acreditar ante la Comisión de Gobierno el perfil, conocimiento y experiencia necesaria de al menos tres años en lo relativo al cargo.
 
-#### SECCIÓN PRIMERA. INICIATIVAS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN QUINTA. UNIDAD PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 83 Bis.
+
+El Congreso contará con una Unidad para la Igualdad de Género, la cual tendrá como objeto garantizar de manera efectiva el derecho fundamental a la igualdad entre mujeres y hombres, encargada de diseñar e implementar las estrategias para la transversalización de la perspectiva de género y una política protectora de derechos humanos e igualdad sustantiva, a través del fomento, promoción y generación de acciones y políticas públicas, dentro de su marco competencial.
+
+La Unidad para la Igualdad de Género funcionará como comité, procurando la paridad de género en su conformación, y estará integrada por la persona que ejerza la presidencia o titularidad de la Comisión de Gobierno, de la Comisión Legislativa de Igualdad de Género y Familia, de la Secretaría General, de la Oficialía Mayor y de la Contraloría Interna.
+
+Las o los titulares señalados en el párrafo anterior, podrán designar a quien pueda fungir como su representante, así como, sustituirlo de manera libre.
+
+Las y los servidores públicos que integren este comité preferentemente contarán con experiencia en materia de género o derechos humanos y no podrá conformarse por quienes ocupen niveles inferiores a jefaturas de departamentos o su equivalente. En caso de que la persona designada no cuente con experiencia en materia de género o derechos humanos deberá capacitarse de manera inmediata.
+
+Una vez integrado el órgano colegiado denominado Unidad para la Igualdad de Género, deberán elegir entre sus integrantes a la persona que ejerza la presidencia, otra que lleve a cabo las funciones de la secretaría, y los demás integrantes tendrán el carácter de vocales; cargos que serán designados por decisión de la mayoría de las y los integrantes del órgano.
+
+En las sesiones del comité, las y los servidores públicos que lo conformen, tendrán derecho a voz y voto, y desempeñarán su función de manera honorífica, por lo que no recibirán percepción económica adicional por su participación.
 
 ## TÍTULO CUARTO. PROCESO LEGISLATIVO
 
@@ -1295,13 +1313,15 @@ d).- El orden interno precisará: la finalidad, las definiciones cuando así pro
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
-#### SECCIÓN SEGUNDA. REFORMAS CONSTITUCIONALES
+#### SECCIÓN PRIMERA. INICIATIVAS
 
 ###### Artículo 94.
 
 La actividad legislativa que desarrolla el Congreso para conocer y en su caso aprobar leyes o decretos comprenderán:
 
-I. Presentación de la iniciativa, que deberá contemplar el objeto, su fundamento legal, antecedentes y propuesta; cuando se trate de iniciativa de un nuevo ordenamiento, o de reforma legal, deberá incluirse una exposición de motivos;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+I. Presentación de la iniciativa, que deberá contemplar el objeto, su fundamento legal, antecedentes, propuesta y en el caso de tratarse de temas de género se incluirá un análisis de la problemática con perspectiva de género; cuando se trate de iniciativa de un nuevo ordenamiento, o de reforma legal, deberá incluirse una exposición de motivos;
 
 II. Estudio y dictamen de la o las comisiones competentes, suscrito cuando menos por la mayoría de sus integrantes;
 
@@ -1329,7 +1349,7 @@ Las iniciativas con carácter de dictamen provenientes de las Comisiones Legisla
 
 La iniciativa de Acuerdo, podrá ser presentada de manera individual por los diputados o a través de los grupos parlamentarios. Su dictaminación y trámite se ajustará al reglamento.
 
-#### SECCIÓN TERCERA. OBSERVACIONES
+#### SECCIÓN SEGUNDA. REFORMAS CONSTITUCIONALES
 
 ###### Artículo 96.
 
@@ -1347,7 +1367,7 @@ V. La Mesa Directiva del Congreso o de la Diputación Permanente, realizará el 
 
 VI. Tratándose de reformas y adiciones a la Constitución General, las minutas no estarán sujetas a modificación, no obstante su trámite consistirá en su estudio, dictamen, discusión y aprobación por la mayoría de los presentes, ordenando su publicación en el periódico oficial y remitiendo la resolución al Congreso de la Unión para los efectos conducentes.
 
-#### SECCIÓN CUARTA. NOMBRAMIENTOS
+#### SECCIÓN TERCERA. OBSERVACIONES
 
 ###### Artículo 97.
 
@@ -1371,7 +1391,7 @@ VII. Remitir la resolución al titular del Poder Ejecutivo, para que de conformi
 
 De toda resolución dictada por el Congreso, la Secretaría General del Congreso solicitará al Periódico Oficial, Órgano de Gobierno del Estado, dotación de ejemplares en cantidad suficiente para archivo, difusión o distribución gratuita entre los diputados.
 
-#### SECCIÓN QUINTA. QUÓRUM Y MÉTODOS DE VOTACIÓN
+#### SECCIÓN CUARTA. NOMBRAMIENTOS
 
 ###### Artículo 99.
 
@@ -1390,6 +1410,8 @@ IV.- En todos los casos la Comisión competente recibirá la comparecencia perso
 V.- La Comisión competente deberá emitir su dictamen, dentro de los diez días hábiles siguientes al de la comparecencia, mismo que será sometido a la Asamblea para los efectos de su discusión y aprobación en su caso.
 
 Si no se aprueba por la Asamblea el dictamen a que se refiere el párrafo anterior, se ordenará por el Presidente de la Mesa Directiva, que este se tenga como desechado y se devolverá a la Comisión, para que atendiendo las razones expuestas por la Asamblea emita un nuevo dictamen dentro del término de cinco días.
+
+#### SECCIÓN QUINTA. QUÓRUM Y MÉTODOS DE VOTACIÓN
 
 ###### Artículo 100.
 
@@ -1704,3 +1726,19 @@ P.O. 12 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA EL ARTÍCULO 83 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE UNIDAD PARA LA IGUALDAD DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para su conocimiento y efectos conducentes, comuníquese el presente Decreto a la Presidenta de la Comisión de Gobierno del Poder Legislativo del Estado de Nayarit; a la Presidenta de la Comisión Legislativa de Igualdad de Género y Familia del Congreso del Estado, así como, a las y los titulares de la Secretaría General, la Oficialía Mayor y la Contraloría Interna, Órganos Técnicos del Congreso del Estado.
+
+TERCERO. En un plazo no mayor a treinta días hábiles posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado de Nayarit realizará la sesión de instalación de la Unidad para la Igualdad de Género.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO EN EL TRABAJO LEGISLATIVO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
