@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-10-16"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4207,15 +4207,17 @@ IV. Violencia económica.- Privación intencionada y no justificada legalmente d
 
 V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, lesiona o daña la libertad, seguridad, integridad y desarrollo psicosexual de cualquier persona. Se expresa a través de la inducción a presenciar o realizar prácticas sexuales no deseadas o que generen dolor, así como la celotipia para el control, manipulación o dominio de la pareja, entre otros y;
 
-VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en los casos permitidos por la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado en el Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
-La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de menores de doce años, personas adultas mayores, persona con discapacidad, mujeres en estado de gravidez o durante tres meses posteriores al parto.
+La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de menores de doce años, personas adultas mayores, persona con discapacidad, mujeres en estado de gravidez o durante tres meses posteriores al parto o cuando la conducta sea cometida durante una declaratoria de emergencia sanitaria o cualquier otra que requiera aislamiento social.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -5644,3 +5646,13 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2834.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VI DEL ARTÍCULO 404 BIS Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 405 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se instruye a la Secretaría de Servicios Parlamentarios realice los trámites correspondientes para el cumplimiento a los oficios números CP2R1A.-3091.19, CP2R1A.- 3604.19 y D.G.P.L.64-II-7-1350, recibido en la Secretaría de Servicios Parlamentarios el diecinueve de agosto del año dos mil diecinueve, el veintiséis de agosto del año dos mil diecinueve y cuatro de diciembre del año dos mil diecinueve, respectivamente, remitidos por el Poder Legislativo Federal.
