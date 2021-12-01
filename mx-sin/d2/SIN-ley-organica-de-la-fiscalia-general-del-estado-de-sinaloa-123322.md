@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2021-09-24"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -379,11 +379,17 @@ IX. Los órganos auxiliares encargados de impartir educación superior, realizar
 
 X. La Oficialía Mayor, órgano encargado de la administración de la Fiscalía General;
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
-XI. Unidad de Inteligencia Patrimonial y Económica; y
+XI. Unidad de Inteligencia Patrimonial y Económica;
 
-XII. Los demás órganos o unidades creadas por mandato legal o que determine el Fiscal General en el Reglamento o en otras disposiciones de su normatividad interna.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+XII. Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+XIII. Los demás órganos o unidades creadas por mandato legal o que determine el Fiscal General en el Reglamento o en otras disposiciones de su normatividad interna.
 
 ###### Artículo 10.
 
@@ -595,19 +601,21 @@ II. El servidor público suplente del Fiscal General resolverá sobre el inicio 
 
 El Fiscal General será representado ante las autoridades judiciales, administrativas y del trabajo por los servidores públicos que determine el Reglamento o por los Ministerios Públicos que designe para el caso concreto y con las formalidades que para el caso establezca la legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
-## TÍTULO IV. DE LAS FISCALÍAS ESPECIALIZADAS EN COMBATE A LA CORRUPCIÓN, DE DESAPARICIÓN FORZADA DE PERSONAS, DE TORTURA, Y DE ATENCIÓN A DELITOS ELECTORALES
+## TÍTULO IV
+
+DE LAS FISCALÍAS ESPECIALIZADAS EN COMBATE A LA CORRUPCIÓN, DE DESAPARICIÓN FORZADA DE PERSONAS, DE TORTURA, DE ATENCIÓN A DELITOS ELECTORALES Y DE ATENCIÓN A MUJERES VÍCTIMAS DEL DELITO POR RAZONES DE GÉNERO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO ÚNICO. DE LAS FISCALÍAS ESPECIALIZADAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21.
 
-Las Fiscalías Especializadas son órganos encargados de investigar y perseguir los hechos o actos que las Leyes Generales y la legislación en el Estado consideran como delitos en materia de corrupción, desapariciones forzadas de personas, tortura y electoral.
+Las Fiscalías Especializadas son órganos encargados de investigar y perseguir los hechos o actos que las Leyes Generales y la legislación en el Estado consideran como delitos en materia de corrupción, desapariciones forzadas de personas, tortura, electoral y los cometidos contra mujeres por razones de género.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
 
@@ -629,15 +637,27 @@ III. Acreditar los cursos de especialización, capacitación y de actualización
 
 Artículo 21 Bis A. La Fiscalía General debe capacitar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a las Fiscalías Especializadas en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica en la materia de su competencia, aplicación del Protocolo Homologado para la investigación, identificación forense, cadena de custodia, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, de Tortura y de Atención a Delitos Electorales serán designados y removidos por el Fiscal General. El Congreso del Estado podrá objetar los nombramientos y remociones dentro del plazo de diez días hábiles en la forma dispuesta por el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
+Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, de Tortura, de Atención a Delitos Electorales y en Atención a Mujeres Víctimas del Delito por Razones de Género serán designados y removidos por el Fiscal General. El Congreso del Estado podrá objetar los nombramientos y remociones dentro del plazo de diez días hábiles en la forma dispuesta por el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
 
 Para tal efecto, una vez que se realicen los nombramientos respectivos, el Fiscal General los remitirá al Congreso del Estado conjuntamente con los expedientes que contengan la documentación correspondiente para la acreditación del cumplimiento de los requisitos para ocupar el cargo.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 22 Bis.
+
+El Reglamento Interno de las Fiscalías Especializadas, detallará y establecerá sus estructuras orgánicas, recursos humanos y materiales, las atribuciones competenciales de cada uno de sus órganos internos, así como las facultades y obligaciones de las personas que sean titulares de las mismas, garantizando la adecuada operación, eficacia y eficiencia en su desempeño, a fin de cumplir en todo momento con la legislación en la materia respecto de la que tienen competencia y las tareas encomendadas.
+
+En la designación de las personas titulares correspondiente a la estructura organizacional de cada una de las Fiscalías Especializadas, se deberá de tomar en consideración el principio de paridad de género.
+
+Los acuerdos, circulares, instructivos, lineamientos, manuales y demás normas administrativas emitidas por parte de las Fiscalías Especializadas, que sean necesarios para regular la actuación de las instituciones a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+
+Las Fiscalías Especializadas en el desarrollo de las acciones de investigación y persecución de los delitos, sus atribuciones, así como demás procedimientos, se sujetarán a lo que expresamente establecen las Leyes Generales de la materia de su competencia, al Código Nacional de Procedimientos Penales, asimismo a la demás legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2019)</small>
 
@@ -839,15 +859,29 @@ VIII. Fomentar la participación de la comunidad y de instituciones académicas 
 
 IX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
-Artículo 23 Bis C. El Reglamento Interno de las Fiscalías Especializadas, detallará y establecerá sus estructuras orgánicas, recursos humanos y materiales, las atribuciones competenciales de cada uno de sus órganos internos, así como las facultades y obligaciones de las personas que sean titulares de las mismas, garantizando la adecuada operación, eficacia y eficiencia en su desempeño, a fin de cumplir en todo momento con la legislación en la materia respecto de la que tienen competencia y las tareas encomendadas.
+Artículo 23 Bis C. Corresponde a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, la realización de las atribuciones siguientes:
 
-En la designación de las personas titulares correspondiente a la estructura organizacional de cada una de las Fiscalías Especializadas, se deberá de tomar en consideración el principio de paridad de género.
+I. El ejercicio de las atribuciones a que se refiere el artículo 6 de esta Ley, cuando se trate de hechos en los que se haya privado de la vida a mujeres por razones de violencia de género. Igualmente, en los casos de los siguientes hechos o conductas delictivas en que la víctima sea mujer:
 
-Los acuerdos, circulares, instructivos, lineamientos, manuales y demás normas administrativas emitidas por parte de las Fiscalías Especializadas, que sean necesarios para regular la actuación de las instituciones a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+a) Que atenten contra la libertad y seguridad sexual y el normal desarrollo psicosexual;
 
-Las Fiscalías Especializadas en el desarrollo de las acciones de investigación y persecución de los delitos, sus atribuciones, así como demás procedimientos, se sujetarán a lo que expresamente establecen las Leyes Generales de la materia de su competencia, al Código Nacional de Procedimientos Penales, asimismo a la demás legislación aplicable.
+b) Violencia familiar;
+
+c) Que atenten contra la obligación alimentaria;
+
+d) Desaparición de mujeres respecto de hechos no vinculados a la delincuencia organizada;
+
+e) Discriminación por razones de género; y
+
+f) Delitos en materia de trata de personas previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+II. La atención psicológica, médica y otras, en los casos de violencia contra las mujeres en los delitos o hechos contemplados en la fracción I de este artículo, en coordinación con otros órganos o unidades administrativas de la Fiscalía General que proporcionen los servicios a que se refiere el presente apartado; y
+
+III. La canalización a víctimas u ofendidas, en los casos de los apartados anteriores, hacia las dependencias o instituciones que proporcionen los servicios de carácter tutelar, asistencial, preventivo, educacional y demás de contenido similar, así como la vigilancia de su debida atención.
+
+Todas las acciones anteriores se realizarán con perspectiva de género.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
 
@@ -1890,3 +1924,21 @@ Por única ocasión, el Fiscal General deberá formular el Plan Estratégico de 
 ###### ARTICULO TERCERO.
 
 La Fiscalía General del Estado, por conducto de su titular, deberá hacer las adecuaciones al Reglamento de la Ley Orgánica de la Fiscalía General del Estado dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 5 DEL H. CONGRESO DEL ESTADO.- QUE PROPONE REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de su estructura con la nueva normativa legal.
+
+TERCERO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto, el Poder Judicial del Estado deberá realizar las siguientes acciones:
+
+1. Deberán llevarse a cabo las adecuaciones reglamentarias correspondientes para que las causas penales relacionadas con violencia de género sean turnadas y atendidas por personal capacitado.
+
+2. Verificar si en los Juzgados de Primera Instancia de Control y Enjuiciamiento Penal se cuenta con suficiente personal calificado para atender las causas relacionadas con violencia de género y atención a víctimas.
+
+3. En su caso, realizar las capacitaciones en materia de violencia de género y atención a víctimas para jueces y personal administrativo de los mismos.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
