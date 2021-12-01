@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-09-21"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1377,25 +1377,11 @@ X.- Opinión de la entidad para la instalación de establecimientos operadores d
 
 XI.- Los servicios prestados por la Fiscalía General de Justicia, causarán conforme a la siguiente tarifa:
 
-a).- Expedición de copias simples, certificadas o autenticadas de averiguaciones previas, carpetas de investigación, expedientes de procedimientos administrativos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización;
+a).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2021)
 
-b).- Emisión de dictámenes periciales, cincuenta y seis veces el valor diario de la Unidad de Medida y Actualización, en las siguientes materias:
+b).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2021)
 
-1. Construcción o topografía,
-
-2. Documentos cuestionados o grafoscopía,
-
-3. Trabajo Social,
-
-4. Psicología,
-
-5. Toxicología forense,
-
-6. Medicina forense, y
-
-7. Dactiloscopía.
-
-c).- Emisión de dictamen de paternidad o prueba para determinación de perfiles genéticos, por cada uno setenta y nueve veces el valor diario de la Unidad de Medida y Actualización;
+c).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2021)
 
 d).- Traslado de motocicleta, automóvil, SUV o camioneta al depósito oficial de vehículos asegurados o puestos a disposición, con equipo de grúa, con maniobra simple, ocho veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -1507,13 +1493,43 @@ I. Las certificaciones, busca, cotejo y copias de documentos, así como la legal
 
 II. Las certificaciones y copias certificadas expedidas a quejosos para ser exhibidas en juicios de amparo promovidos contra actos del Gobierno del Estado. En estos casos deberá expresarse que su expedición se efectúa para ser presentada en el juicio de amparo respectivo;
 
-III. Las legalizaciones de firmas solicitadas oficiosamente por las autoridades judiciales en causas criminales y las solicitudes también de oficio por otras autoridades a condición, en este último caso, de que no sean para beneficio directo del solicitante o de otro particular; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
-IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalización de firmas, busca de copias de documentos solicitados oficiosamente, por servidores públicos del Gobierno del Estado, de los Municipios o de la Federación en ejercicio y en cumplimiento de sus funciones.
+III. Las legalizaciones de firmas solicitadas oficiosamente por las autoridades judiciales en causas criminales y las solicitudes también de oficio por otras autoridades a condición, en este último caso, de que no sean para beneficio directo del solicitante o de otro particular;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
-V. Las certificaciones y copias certificadas de los documentos solicitados por las víctimas del delito dentro de procesos penales, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas y el Código Nacional de Procedimientos Penales.
+IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalización de firmas, busca de copias de documentos solicitados oficiosamente, por servidores públicos del Gobierno del Estado, de los Municipios o de la Federación en ejercicio y en cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+V. Las certificaciones y copias certificadas de los documentos solicitados por las víctimas del delito dentro de procesos penales, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas y el Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+VI. Expedición de copias simples, certificadas o autenticadas de averiguaciones previas, carpetas de investigación, expedientes de procedimientos administrativos;
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+VII. Emisión de dictámenes periciales, en las siguientes materias:
+
+1. Construcción o topografía,
+
+2. Documentos cuestionados o grafoscopía,
+
+3. Trabajo Social,
+
+4. Psicología,
+
+5. Toxicología forense,
+
+6. Medicina forense, y
+
+7. Dactiloscopía; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+VIII. Emisión de dictamen de paternidad o prueba para determinación de perfiles genéticos.
 
 ### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
 
@@ -4172,6 +4188,18 @@ P.O. 21 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-7 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III, IV Y V, Y SE ADICIONAN LAS FRACCIONES VI, VII Y VIII AL ARTÍCULO 61; Y SE DEROGAN LOS INCISOS A), B) Y C) DE LA FRACCIÓN XI DEL ARTÍCULO 59, DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
