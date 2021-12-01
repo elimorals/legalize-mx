@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2021-10-23"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -520,6 +520,10 @@ La Dirección del Registro Civil supervisará las actuaciones de los Oficiales d
 ###### Artículo 66.
 
 Las declaraciones de nacimiento se harán presentando a la niña o niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél, acompañando el certificado de nacimiento. El certificado de nacimiento se otorgará de forma gratuita y deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Estado. Dicho certificado hace prueba del día, hora, lugar de nacimiento, maternidad y sexo del nacido.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+En los lugares donde no existan instituciones de salud cercanas o el parto fuere asistido por persona que no cuente con autorización para certificar el nacimiento, la autoridad municipal bajo su responsabilidad, expedirá constancia de nacimiento, la cual deberá contener día, hora, lugar de nacimiento, maternidad y sexo del nacido, sustentada en dicha constancia, la Dirección del Registro Civil deberá realizar el trámite del registro de la niña o niño.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -17160,3 +17164,13 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2886.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 66 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
