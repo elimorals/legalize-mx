@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2021-09-24"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -670,6 +670,12 @@ V. Abstenerse de presentar en público al imputado o acusado como culpable si no
 VI. Mantener el orden en las salas de audiencias; y
 
 VII. Los demás establecidos en esta Ley, el Código Nacional de Procedimientos Penales y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 53 BIS B.- Los Juzgados de Primera Instancia de Control y Enjuiciamiento Penal deberán contar con personal capacitado para atender y substanciar las diligencias y actuaciones relativas a delitos cometidos contra mujeres por razones de género.
+
+Los Jueces y el personal de los juzgados, en la aplicación de este artículo deberán actuar con perspectiva de género.
 
 ###### ARTICULO 54.
 
@@ -1552,3 +1558,21 @@ Artículo Primero. El presente Decreto entrará en vigor dentro de los quince d�
 Artículo Segundo. En un plazo que no excederá de noventa días posteriores a la publicación del presente Decreto, el Supremo Tribunal de Justicia emitirá la normativa necesaria para la implementación del sistema de carrera judicial.
 
 Artículo Tercero. Los asuntos que se encuentren en trámite en las Salas que cambian su competencia al entrar en vigor el presente Decreto, serán transferidos a la que en lo subsecuente deba conocer y concluidos por esta, de acuerdo a lo previsto en el mismo Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 5 DEL H. CONGRESO DEL ESTADO.- QUE PROPONE REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de su estructura con la nueva normativa legal.
+
+TERCERO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto, el Poder Judicial del Estado deberá realizar las siguientes acciones:
+
+1. Deberán llevarse a cabo las adecuaciones reglamentarias correspondientes para que las causas penales relacionadas con violencia de género sean turnadas y atendidas por personal capacitado.
+
+2. Verificar si en los Juzgados de Primera Instancia de Control y Enjuiciamiento Penal se cuenta con suficiente personal calificado para atender las causas relacionadas con violencia de género y atención a víctimas.
+
+3. En su caso, realizar las capacitaciones en materia de violencia de género y atención a víctimas para jueces y personal administrativo de los mismos.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
