@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-11-10"
+last_updated: "2021-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2531,13 +2531,17 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 2. La Medalla al Mérito "Luis García de Arellano" se otorgará anualmente en sesión solemne que deberá celebrarse durante el segundo periodo de sesiones ordinarias de cada año legislativo.
 
-3. La convocatoria correspondiente a la entrega de la presea será emitida, a más tardar, durante el mes de noviembre del año anterior a su entrega.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+3. La convocatoria correspondiente a la entrega de la presea será emitida, a más tardar, durante el mes de diciembre del año anterior a su entrega.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 142.
 
-1. La Medalla al Mérito "Luis García de Arellano" consistirá en un tejo de oro pendiente de una cinta de seda para fijarse al cuello. En el diseño de la presea figurarán alusiones relativas a Don Luis García de Arellano, el Escudo de Tamaulipas y el Congreso del Estado.
+1. La Medalla al Mérito "Luis García de Arellano" consistirá en un tejo de oro pendiente de una cinta de seda para fijarse al cuello, con un costo máximo de ciento cincuenta mil pesos. En el diseño de la presea figurarán alusiones relativas a Don Luis García de Arellano, el Escudo de Tamaulipas y el Congreso del Estado.
 
-2. La presea implicará también el otorgamiento del diploma correspondiente, que será suscrito por los integrantes de la Mesa Directiva del Congreso y la entrega de un reconocimiento en pecuniario de 100 mil pesos.
+2. La presea implicará también el otorgamiento del diploma correspondiente, que será suscrito por los integrantes de la Mesa Directiva del Congreso y la entrega de un reconocimiento en pecuniario equivalente a 2,789 UMA's. (DOS MIL SETESCIENTOS (SIC) OCHENTA Y NUEVE UNIDADES DE MEDIDA Y ACTUALIZACIÓN).
 
 ###### ARTICULO 143.
 
@@ -2547,7 +2551,9 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 ###### ARTICULO 144.
 
-1. Toda persona e institución pública podrá proponer candidato al otorgamiento de la Medalla al Mérito "Luis García de Arellano".
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+1. Toda persona e institución pública podrá proponer candidaturas al otorgamiento de la Medalla al Mérito "Luis García de Arellano".
 
 2. El Congreso otorgará la mayor difusión a la convocatoria que expida y, en todo caso, la hará llegar a las instituciones públicas y privadas que pudieran tener interés en proponer candidatos.
 
@@ -2563,7 +2569,9 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 1. A la sesión solemne que deberá celebrarse para la entrega de la presea, se invitará al titular del Poder Ejecutivo del Estado y al Presidente del Supremo Tribunal de Justicia, quienes ocuparán el lugar que les corresponde en el presidium del Salón de Sesiones, conforme a las previsiones del ceremonial contenidas en esta ley.
 
-2. En dicha sesión solemne, se invitará al Gobernador del Estado para que imponga la presea a quien haya sido galardonado con ella; a su vez, le entregará el diploma correspondiente y el reconocimiento a que se refieren el párrafo 2 del artículo 142 de esta ley.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+
+2. En dicha sesión solemne, el Presidente o Presidenta de la Mesa Directiva del Congreso del Estado de Tamaulipas impondrá la presea a quien haya sido galardonado o galardonada con ella; el Presidente o Presidenta de la Comisión de la Medalla el Mérito “Luis García de Arellano” entregará el diploma correspondiente y el reconocimiento a que se refieren el párrafo 2 del artículo 142 de esta ley.
 
 3. En la sesión solemne no se contemplará ningún asunto adicional en el orden del día a la imposición de la Medalla al Mérito "Luis García de Arellano".
 
@@ -3534,6 +3542,14 @@ La relación de iniciativas que se den por concluidas como lo dispone el articul
 P.O. 10 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-8 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-51 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
