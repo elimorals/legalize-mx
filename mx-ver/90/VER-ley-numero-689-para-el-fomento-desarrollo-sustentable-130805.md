@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-689-para-el-fomento-desarrollo-sustentable-130805"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-05"
-last_updated: "2018-10-05"
+last_updated: "2021-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 689 PARA EL FOMENTO, DESARROLLO SUSTENTABLE, PRODUCCIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DEL CAFÉ VERACRUZANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 5 de octubre de 2018.
 
@@ -45,653 +45,709 @@ LEY NÚMERO 689
 
 PARA EL FOMENTO, DESARROLLO SUSTENTABLE, PRODUCCIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DEL CAFÉ VERACRUZANO
 
-## TÍTULO PRIMERO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. De las Disposiciones Generales
+## TÍTULO PRIMERO. Disposiciones Generales
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. Objeto de la Ley
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son (sic) orden público y de interés social y de observancia general en todo el territorio Veracruzano.
+Las disposiciones de esta Ley son de orden público e interés social y de observancia general en todo el Estado de Veracruz de Ignacio de la Llave. Son sujetos de esta ley productores de café, los agroindustriales del café, procesadores del café, los comercializadores y los vendedores en pequeña escala.
+
+Todo lo no previsto se regirá por las disposiciones aplicables de la Ley de Desarrollo Rural Sustentable y demás leyes en la materia.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-La presente Ley tiene por objeto:
+Es objeto de la presente Ley:
 
-I. Normar, fomentar y desarrollar la producción, comercialización y consumo del café;
+I. Fomentar y promover el desarrollo del sector cafetalero en el Estado de Veracruz, de conformidad con lo previsto en la Ley de Planeación del Desarrollo Veracruzano, de los programas que de ella se desprendan y demás ordenamientos aplicables;
 
-II. Promover y fomentar la cafeticultora a través de la capitalización del sector, el suministro de insumos, la obtención de apoyos financieros;
+II. Incrementar la participación del sector cafetalero en el mercado nacional e internacional;
 
-III. Fomentar el consumo interno;
+III. Fomentar y desarrollar la competitividad, modernización y eficiencia de todos los actores de la cadena agroalimentaria del café, bajo el enfoque de sostenibilidad y justicia distributiva;
 
-IV. Procurar una justa distribución del ingreso cafetalero con criterios de competitividad técnica, factibilidad económica, desarrollo social y sustentabilidad;
+IV. Procurar una distribución del ingreso cafetalero con criterios de competitividad técnica, factibilidad económica, desarrollo social y sostenibilidad;
 
-V. Incrementar la participación del sector cafetalero en los mercados nacional e internacional; y
+V. Proponer que en las políticas públicas para la Cafeticultura Veracruzana se incluya: presupuesto, programas, acciones estratégicas orientadas a estimular mejores ingresos para los sectores más desfavorecidos, así como establecer procesos participativos y mecanismos de financiamiento, que garanticen la planeación, diseño, implementación y evaluación del funcionamiento y continuidad de dichas políticas públicas;
 
-VI. Regular las relaciones entre los agentes participantes en la cadena de producción, procesamiento, comercialización y consumo de café, tendientes a generar oportunidades equitativas en el mercado y un desarrollo integral del sector y de las regiones cafetaleras.
+VI. Diseñar políticas públicas, así como regulaciones que prioricen la sostenibilidad, la igualdad y la inclusión en congruencia con el marco legal, los convenios y tratados internacionales en la materia; y
+
+VII. Crear mecanismos e incentivos necesarios para promover la inclusión de las mujeres y las juventudes en la cafeticultura.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 3.
 
-Para efectos de la presente Ley, se entenderá por:
+Para efectos de la presente Ley se entenderá por:
 
-I. Centros de Acopio. Lugar donde se recibe el café y se expiden facturas;
+I. LDRS. Ley de Desarrollo Rural Sustentable de la Federación;
 
-II. Comercializador. Persona física o moral que se dedique a la compraventa del café, en cualquier parte de la cadena productiva;
+II. OIC. Organización Internacional del Café;
 
-III. Consejo. Consejo Consultivo del Café de Veracruz;
+III. PVD. Plan Veracruzano de Desarrollo;
 
-IV. Denominación de Origen. Certificación de Calidad del Café Veracruzano;
+IV. SEDARPA. Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca;
 
-V. Ley. Ley para el Fomento, Desarrollo Sustentable, Producción, Distribución y Comercialización del Café Veracruzano;
+V. SEDECOP. Secretaría de Desarrollo Económico y Portuario;
 
-VI. Exportador. Persona que se dedique a la venta a otros países de café producido en Veracruz;
+VI. SEDEMA. Secretaría de Medio Ambiente;
 
-VII. Fondo. Apoyo económico a los cafeticultores;
+VII. Agroindustriales del café. Persona física o moral que produce café y se involucra en distintos niveles de la cadena agroalimentaria del café;
 
-VIII. Fideicomiso. Fondos para programas y proyectos específicos para beneficiar a los cafeticultores;
+VIII. Agroforestería. Sistemas y tecnologías de uso de la tierra en los que se integran en la misma parcela de tierra y de forma deliberada uno o más cultivos agrícolas con plantas de sombra típicamente leñosas y perennes, generando más estratos de vegetación;
 
-IX. Fideicomisario. El Gobierno de (sic) Estado que a través del Instituto, entregará los apoyos;
+IX. Café cereza. Fruto maduro, recién cosechado del cafeto, sano, sin despulpar, también conocido como café uva, apto para ser sometido inmediatamente al beneficio húmedo y convertirlo en café pergamino;
 
-X. Fideicomitente. Cafeticultor que recibirá apoyos económicos;
+X. Café pergamino. Fruto del cafeto despulpado y seco, quedando el grano cubierto por una delgada cutícula cuyo color da nombre al producto;
 
-XI. Instituto. Instituto Veracruzano del Café;
+XI. Café puro. Producto industrializado de café tostado o soluble obtenido únicamente del grano del café verde, sin descafeinar o descafeinado, el cual no debe provenir de granos dañados y sin adición de materias o sustancias ajenas al grano de café;
 
-XII. ONG. Organizaciones No Gubernamentales;
+XII. Café verde. Grano de café seco al que se le ha eliminado la cutícula color pergamino a través del beneficio seco, también conocido como café oro y apto para ser sometido a los demás procesos de industrialización;
 
-XIII. Padrón. Registro Estatal de Productores de Café;
+XIII. Cafetal de Sombra: Predio agrícola en el que se utiliza un sistema de manejo de tierras para el cultivo del café bajo el dosel de especies de otras plantas, típicamente arbóreas;
 
-XIV. Poder Ejecutivo. Al Gobierno del Estado de Veracruz;
+XIV. Cafeticultura Veracruzana. Red de agentes involucrados en los diferentes procesos de la cadena;
 
-XV. Productor. Persona física o moral que se dedique al cultivo y cosecha del café;
+XV. Cafeto. Planta del género Coffea L., perteneciente a las familias de las rubiáceas;
 
-XVI. Presupuesto. Presupuesto de Egresos del Estado de Veracruz de Ignacio de la Llave y Presupuesto de Egresos de la Federación;
+XVI. Café Orgánico. Sistema de cultivo al cual se le suprimen todos los agentes químicos para la producción;
 
-XVII. Programa Integral. Programa Integral para el Desarrollo de la Cafeticultora;
+XVII. Cafés de Especialidad. De acuerdo con las normas de la Asociación de Cafés Especiales (SCA) un café que recibe una puntuación de 80 puntos o más en una escala de 100, reconociendo la trazabilidad del grano, origen, productor, región y atributos en taza;
 
-XVIII. SEDARPA. Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca;
+XVIII. Cafés convencionales. De calidades inferiores a los especiales con cierto grado de defectos, los cuales no están certificados, por la SCA y su precio de venta está regido por la bolsa de valores;
 
-XIX. SEDECOP. Secretaría de Desarrollo Económico y Portuario; y
+XIX. Cadena agroalimentaria del café. (Cadena) Es el proceso de producción que va de la preparación del suelo al consumo en taza, pasando por el proceso de producción, acopio, transformación, molido, envasado y venta al consumidor;
 
-XX. SEDEMA. Secretaría de Medio Ambiente.
+XX. Certificación de Origen. Documento expedido por el Consejo Regulador del café Veracruz A.C. denominación de origen, para señalar la región donde se ha producido un volumen determinado de café y que cumpla con la Norma de trazabilidad y calidad;
+
+XXI. Centros de Recepción. Lugar donde se reciben distintas presentaciones del café y se expiden los comprobantes de comercialización respectivos;
+
+XXII. Comercializador. Persona física o moral que se dedique a la compraventa del café, en cualquier etapa de la cadena productiva;
+
+XXIII. Comisión. Comisión Reguladora de la Cafeticultura Sostenible en el Estado de Veracruz;
+
+XXIV. Consejo. Consejo Consultivo de la Cafeticultura;
+
+XXV. Exportador. Persona que se dedique a la venta de café en diversas presentaciones en transacciones comerciales con otros países. en otros países;
+
+XXVI. Importador. Persona que compra café del extranjero y lo incorpora al mercado nacional;
+
+XXVII. Industrializador. Persona física o moral que se dedica al beneficio húmedo y/o seco del café, a la fabricación de café descafeinado, tostado y molido, soluble y otras presentaciones;
+
+XXVIII. Ley. Ley para el Fomento y Desarrollo Sustentable de la Cafeticultura en el Estado de Veracruz de Ignacio de la Llave;
+
+XXIX. Organizaciones. Figura asociativa que agrupa y representa a quienes se dedican a actividades productivas similares en diferentes zonas;
+
+XXX. Padrón. La plataforma digital geo-referenciada que aloja los datos de identificación de productores, comercializadores e industrializadores de café en la jurisdicción que corresponde al Estado de Veracruz de Ignacio de la Llave;
+
+XXXI. Precio de referencia. El Precio estimado para sufragar los costos de producción más un margen de ganancia relacionado directamente con el promedio del precio nacional y de exportación;
+
+XXXII. Productor de café. Persona física o moral que se dedique al cultivo y cosecha del café; sin llevar a etapa final el proceso de producción;
+
+XXXIII. Productor de pequeña escala. Persona física que se dedica al cultivo y cosecha del café en fincas ubicadas en territorio veracruzano cuya extensión no sea superior a cinco hectáreas;
+
+XXXIV. Programa. Programa Integral para el Desarrollo Sostenible de la Cafeticultura;
+
+XXXV. Presupuesto. Presupuesto de Egresos del Estado de Veracruz de Ignacio de la Llave; y
+
+XXXVI. Reservas Agroforestales Cafetaleras. Son terrenos de propiedad privada o social, donde se promueve la conservación de los agroecosistemas cafetaleros bajo sombra con especies de árboles y arbustos nativos que promueven la preservación de la biodiversidad representativa del Estado, y que aseguran los servicios ecosistémicos, motivo por el cual se sujetan a un régimen voluntario de protección.
 
 ### CAPÍTULO II. De las Autoridades Competentes
 
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 4.
 
-Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de sus respectivas atribuciones:
+Para el cumplimiento de lo establecido en el Programa de Fomento y Desarrollo a la Cafeticultura, son autoridades encargadas de la aplicación de la presente Ley en el ámbito de sus respectivas atribuciones:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. SEDARPA; y
+II. SEDARPA;
 
-III. SEDECOP.
+III. SEDECOP; y
+
+IV. SEDEMA.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 5.
 
 Corresponde al Titular del Poder Ejecutivo:
 
-I. Ejecutar la política y programas de apoyo, impulso, de acuerdo con las disposiciones generales de la presente Ley;
+I. Ejecutar la política y programas de apoyo de acuerdo con las disposiciones generales de la presente Ley;
 
 II. Garantizar los derechos previstos en este ordenamiento;
 
-III. Fomentar el desarrollo sustentable de la Cafeticultura, a través de su tecnificación, mejoramiento genético y el cuidado fitosanitario del cultivo, considerando de manera integral el proceso de producción del café, propiciando un régimen equitativo en las relaciones de los participantes en el proceso y velando por el cumplimiento de las leyes y los reglamentos aplicables a esta actividad;
+III. Promover el acercamiento entre las entidades públicas de los tres ámbitos de gobierno con los sectores privados y sociales, así como con los organismos internacionales, para el desarrollo de la cafeticultura en Veracruz;
 
-IV. Disponer lo necesario para que en el Plan Veracruzano de Desarrollo considere en (sic) estrategias integrales que detonen esta actividad;
+IV. Celebrar con la Federación, las entidades federativas e instituciones oficiales o particulares, los convenios necesarios para concertar acciones que tengan por objeto la promoción, difusión e investigación de las actividades cafeticultoras;
 
-V. Conservar y fomentar las regiones cafeticultoras del Estado, con el apoyo constante y permanente a esta actividad;
+V. Fomentar el desarrollo sostenible de la cafeticultura, a través de su tecnificación, mejoramiento genético y el cuidado fitosanitario del cultivo, considerando de manera integral el proceso de producción del café, propiciando un régimen equitativo en las relaciones de los participantes en el proceso y velando por el cumplimiento de las leyes y los reglamentos aplicables a esta actividad;
 
-VI. Defender los intereses del sector cafetalero veracruzano, en el entorno nacional e internacional, con base en los acuerdos derivados de los convenios y tratados internacionales;
+VI. Conservar y fomentar las regiones cafeticultoras del Estado, con el apoyo constante y permanente a esta actividad;
 
-VII. Celebrar con la Federación, las entidades federativas e instituciones oficiales o particulares, los convenios necesarios para concertar acciones que tengan por objeto la promoción, difusión e investigación de las actividades cafeticultoras;
+VII. Posicionar los intereses del sector cafetalero veracruzano, en el entorno nacional e internacional, con base en los acuerdos derivados de los convenios y tratados internacionales;
 
-VIII. Crear incentivos económicos, crediticios y programas de apoyo para personas y organismos que impulsen el desarrollo y promoción de la Actividad cafeticultora; y
+VIII. Crear incentivos económicos, crediticios, así como programas de apoyo para que impulsen el desarrollo y promoción de la Actividad cafeticultora; y
 
 IX. Las demás que le otorgue esta Ley.
 
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 6.
 
-Corresponde al Secretario de la SEDARPA mediante el Instituto lo siguiente:
+Corresponde al Secretario de la SEDARPA, en el ejercicio de sus respectivas atribuciones para los efectos de esta Ley:
 
-I. Propiciar la coordinación de las entidades públicas de los tres ámbitos de gobierno con los sectores privados y sociales, así como con los organismos internacionales, para el desarrollo de la cafeticultora;
+I. Proponer al Titular del Poder Ejecutivo del Estado, la elaboración del Programa de Fomento y Desarrollo a la cafeticultura, como un instrumento clave para la Cafeticultura del Estado;
 
-II. Fomentar por la vía de las entidades públicas responsables la tecnificación del cultivo del café, mediante la reproducción de semillas mejoradas; la introducción de nuevas técnicas de plantación de cultivos y de conservación de suelos; la difusión de prácticas de fertilización que mejoren los rendimientos de las plantas y ayuden a conservar el ambiente; y la difusión de los métodos de control de malezas, de plagas y de enfermedades;
+II. Otorgar incentivos y financiamiento a las diferentes etapas de la cadena agroalimentaria del café, mediante el Programa Anual Cafetalero;
 
-III. Proponer al Titular del Poder Ejecutivo del Estado, la elaboración de proyectos y normas relativas al café;
+III. Brindar asistencia técnica y capacitación, para crear el Programa Integral de Producción Proyectos Regionales Relativos al Café;
 
-IV. Vincularse coordinadamente con los Ayuntamientos;
+IV. Promover en colaboración con instancias de investigación el desarrollo de variedades locales resistentes a enfermedades y plagas que merman en la producción;
 
-V. Propiciar un sistema general de acopio, certificación y comercialización de café para apoyar a los cafeticultores en la comercialización del café, en conjunto con la SEDECOP;
+V. Vincularse coordinadamente con los Ayuntamientos de cada una de las regiones cafetaleras de Veracruz;
 
-VI. Promover la prestación de los servicios institucionales de fomento y desarrollo previstos en la capitalización, la organización y creación de figuras asociativas de los sectores social y privado, en los términos de la legislación aplicable para el desarrollo de las tecnologías de alta productividad y de las capacidades de los productores;
+VI. Promover la creación de figuras asociativas de los sectores social y privado, en los términos de la legislación aplicable;
 
-VII. Fomentar la construcción de infraestructura para el aprovechamiento del suelo y el agua, caminos de saca, el equipamiento de transporte, el procesamiento y la comercialización del café, con el fin de fortalecer la capitalización de los productores;
+VII. Proponer la construcción de infraestructura para el aprovechamiento del suelo y el agua, caminos de saca, el equipamiento de transporte, el procesamiento y la comercialización del café, con el fin de fortalecer la capitalización del sector;
 
-VIII. Promover la canalización de estímulos y prestaciones para los cafeticultores; así como para sus trabajadores y las industrias del ramo, con objeto de garantizar la seguridad social y la estabilidad laboral;
+VIII. Concertar acuerdos de colaboración con instituciones de investigación y capacitación públicas y privadas para el desarrollo de las tecnologías de alta productividad y las capacidades de los productores;
 
-IX. Fomentar el cultivo de sombra, el tratamiento de aguas residuales y la conservación del suelo, con base en lo dispuesto por leyes en materia de medio ambiente;
+IX. Administrar, reglamentar y mantener actualizados el Registro del Padrón Estatal de Productores, Industrializadores, Comercializadores y Exportadores de Café; y
 
-X. Alentar la introducción y el uso de equipos modernos para el procesamiento del café, más adecuados para el desarrollo del sector;
+X. Establecer las reglas o normas del programa de inocuidad para el café en el Estado, con observancia de los instrumentos jurídicos vinculantes y no vinculantes existentes a la fecha a nivel nacional e internacional; sobre todo en países productores y comercializadores del café de Veracruz.
 
-XI. Coordinarse y celebrar convenios con las diferentes Secretarías del Gobierno del Estado, incluyendo la Secretaría de Educación de Veracruz, a efecto de incorporar en los programas de estudio de los diferentes niveles de educación, la cultura del Café y sus derivados;
-
-XII. Administrar, reglamentar y mantener actualizados permanentemente el Registro del Padrón Estatal de Productores, Industrializadores, Comercializadores y Exportadores de Café;
-
-XIII. Organizar el mercado interno del café y la concurrencia del productor al mercado exterior;
-
-XIV. Elaborar un Sistema Estatal de Certificación de Calidad de Café que facilite las cotizaciones de producto, a fin de lograr la equidad en la distribución del ingreso cafetalero;
-
-XV. Autorizar y supervisar de (sic) los Centros de Acopio;
-
-XVI. Expedir en los términos de las leyes aplicables y de los convenios nacionales e internacionales suscritos por el Estado de Veracruz, los certificados de origen y la documentación que se requiera para la exportación definitiva;
-
-XVII. Promover el suministro de insumos de alta calidad; entre otros: material vegetativo y fertilizantes orgánicos para el control de plagas y de enfermedades de las plantaciones cafetaleras;
-
-XVIII. Promover la realización de obras y servicios para el desarrollo social de las regiones y comunidades cafetaleras; y
-
-XIX. Las demás que le otorgue esta Ley.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 7.
 
-Corresponde al Secretario de la SEDECOP por medio del Instituto lo siguiente:
+Corresponde al Secretario de la SEDECOP, en el ejercicio de sus respectivas atribuciones para los efectos de esta Ley:
 
-I. Proponer programas de financiamiento y estímulos para ser considerados en los ordenamientos presupuestales y fiscales correspondientes;
+I. Gestionar ante las autoridades correspondientes las autorizaciones de los cupos y modalidades de exportación de café para obtener mejores precios en los organismos internacionales que controlan los precios del café;
 
-II. Promover la inversión de capitales de riesgo en el otorgamiento de créditos refaccionarios, prendarios y de avío y fomentar la formación de uniones crediticias especializadas;
+II. Opinar sobre los permisos de importación de café, otorgados por las dependencias competentes del Poder Ejecutivo, vigilando en todo momento que éstos no sean en perjuicio de los productores nacionales;
 
-III. Realizar los estudios y las acciones necesarias para apoyar al productor, cuando así lo requiera, para su acceso al mercado en mejores condiciones;
+III. Proporcionar mecanismos de financiamiento en el ámbito de la comercialización del café;
 
-IV. Vigilar la equidad en los términos generales de los contratos que sirvan como base para la compraventa del grano;
+IV. Promover encuentros con la industria cafetalera tanto nacional como internacional con la finalidad de detectar áreas de oportunidad para el desarrollo y crecimiento de los agroindustriales veracruzanos;
 
-V. Fomentar el consumo del café veracruzano;
+V. Promover el consumo del café, mediante campañas de publicidad, ferias, exposiciones y eventos estatales, nacionales e internacionales para dar a conocer el café de Veracruz, tanto de productores como organizaciones sociales y privadas, en donde se dé prioridad al productor y al campo veracruzano;
 
-VI. Promover y supervisar la elaboración y venta de café en todas sus presentaciones, para asegurar la calidad del producto;
+VI. Promover la organización de productores para elevar la calidad de la cadena productiva cafetalera, con base en su capacitación adecuada, tendente a consolidar su oferta en el mercado; fondos transversales, estímulos y prestaciones;
 
-VII. Proponer a la SEDARPA los programas, las estrategias y los proyectos mediante los cuales se diseñen, ejecuten y promuevan los incentivos para el fomento y desarrollo de la Cafeticultura;
+VII. Realizar los estudios y las acciones necesarias para apoyar al productor, cuando así lo requiera, para su acceso al mercado en mejores condiciones;
 
-VIII. Apoyar a la SEDARPA en el diseño del Programa Integral para el Desarrollo Sustentable de la Cafeticultura;
+VIII. Canalizar fondos transversales, estímulos y prestaciones a las regiones cafetaleras, a fin de reactivar la economía fortaleciendo a la población de los sectores secundario y terciario que intervienen en las diferentes etapas de la cadena agroalimentaria del café;
 
-IX. Promover la industrialización del café en gran escala; y
+IX. Garantizar esquemas de financiamiento a corto, mediano y largo plazo para la comercialización del producto;
 
-X. Las demás que le otorgue esta Ley.
+X. Emitir los criterios para la formulación de un Programa de Responsabilidad Social Empresarial, atendiendo a las capacidades y ámbito de acción de los comercializadores y los apoyará en su formulación y aplicación;
+
+XI. Diseñar estrategias y fortalecer las capacidades asociativas de los pequeños productores mediante incentivos y recursos financieros que la Secretaría determine; y
+
+XII. Por medio del PRSE, fortalecerá el Capital Social de los productores cafetaleros; diseñará estímulos para la cohesión social en las regiones cafetaleras; podrá promover y financiar la integración de figuras asociativas de pequeños productores; Apoyar en los procesos legales, administrativos, fiscales y comerciales a las organizaciones de los pequeños productores.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 8.
 
-En términos de lo dispuesto en el Plan Veracruzano de Desarrollo, el Instituto, propondrá y, en su caso será el encargado de aplicar el Programa Integral para el Desarrollo Sustentable de la Cafeticultura, el cual estará basado en los Estudios Regionales Sustentables y Competitividad de las Zonas Cafetaleras y en su propuesta de política, atenderá los objetivos, las prioridades, los mecanismos y los procedimientos adecuados para el desarrollo del sector cafetalero veracruzano, especialmente en los arrendatarios, ejidatarios, comuneros, pequeños propietarios y en las regiones marginadas.
+Corresponde al Secretario de la SEDEMA, en el ejercicio de sus respectivas atribuciones para los efectos de esta Ley:
 
-## TÍTULO SEGUNDO. Del Instituto Veracruzano del Café
+I. Proponer al Titular del Ejecutivo, así como a la SEDARPA y SEDECOP, una política integral de manejo de los recursos naturales involucrados en la producción de café, como son: suelo, agua, y biodiversidad; que garanticen su aprovechamiento sustentable en las regiones cafetaleras de Veracruz;
 
-### CAPÍTULO III. Del Programa Integral para el Desarrollo Sustentable de la Cafeticultura
+II. Fomentar el cultivo de café bajo sombra, la conservación del suelo a través de las distintas técnicas existentes, reforestando con especies que ayuden a una mejor calidad en la producción del aromático y a la vez eviten la erosión, así como el tratamiento de las aguas residuales generadas con base en lo dispuesto por las leyes en la materia;
+
+III. Vigilar el cumplimiento de las acciones en favor de la sostenibilidad definidas en el Programa Anual Cafetalero;
+
+IV. Promover el desarrollo y la adopción de tecnologías en las diferentes etapas de la cadena agroalimentaria del café, que sean adaptables a las características fisiográficas de las regiones cafetaleras;
+
+V. Fomentar la incorporación de especies de árboles de sombra o frutales nativos para garantizar la conservación de la biodiversidad y la protección ambiental;
+
+VI. Observar el cumplimiento de la normatividad nacional vigente en lo relativo al uso de agroquímicos y fertilizantes;
+
+VII. Coadyuvar en el ámbito de su competencia con la Procuraduría Estatal de Protección al Medio Ambiente, y de manera concurrente con la Procuraduría Federal de Protección al Ambiente y con la Comisión Nacional del Agua, para analizar acciones y planes de limpieza de los ríos, lagos, y otras fuentes de agua que se vean afectados por agroindustrias cafetaleras;
+
+VIII. Elaborar dictámenes técnicos sobre el desarrollo y la adopción de tecnologías amigables con el medio ambiente en las diferentes etapas de la cadena agroalimentaria del café; así como del impacto social, sostenible y económico en el entorno de las diferentes regiones cafetaleras; y
+
+IX. Promover la conservación de los agroecosistemas cafetaleros bajo sombra, con especies de árboles y arbustos nativos que promuevan la preservación de la biodiversidad representativa del Estado, y que aseguren los servicios ecosistémicos a través de la certificación de áreas privativas de conservación en la denominación de Reserva Agroforestal Cafetalera.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO SEGUNDO. Del Fortalecimiento a la Cadena Agroalimentaria del Café
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. Programa de Fomento y Desarrollo a la Cafeticultura en el Estado de Veracruz de Ignacio de la Llave
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 9.
 
-El Programa Integral para el Desarrollo Sustentable de la Cafeticultura deberá impulsar:
+Por medio del Programa de fomento y desarrollo a la Cafeticultura en el Estado de Veracruz, se establecerán los parámetros mínimos e indispensables para el fomento y desarrollo de la Cafeticultura del Estado de Veracruz de Ignacio de la Llave, conforme a las mejores prácticas nacionales e internacionales en materia de sostenibilidad.
 
-I. El otorgamiento de créditos en condiciones preferenciales y dentro de los parámetros de competitividad nacional e internacional, tanto en tasas como en plazos, a través de la banca de desarrollo y comercial;
+El Programa analizará las causas relativas a la producción del café mediante la creación de estructuras que permitan a los productores, a los beneficiadores y comercializadores, contar con los recursos humanos, técnicos, financieros y materiales para el buen eslabonamiento de la cadena agroalimentaria del café.
 
-II. La celebración de convenios con la banca de desarrollo que permita a los productores acceder a préstamos preferenciales;
-
-III. La transferencia de tecnología de punta, así como formas de adquisición de maquinaria y equipo industrial tendientes a la adopción de nuevas y modernas tecnologías;
-
-IV. Impulsar la participación eficiente de recursos humanos en el sector cafetalero, procurando la especialización, el incremento de la productividad y las formas de empleo complementarias para elevar el nivel y la calidad de vida, del sector cafetalero;
-
-V. Impulsar los mecanismos de organización del mercado del café para garantizar la libre competencia y concurrencia de los agentes de la cadena productiva;
-
-VI. Establecer el precio de garantía al kilogramo de café cereza; y
-
-VII. Normalizar y registro para la propagación y establecimiento del cultivo, de acuerdo a variables geográficas y en base a las características de las diversas especies y variedades de café, para optimizar el potencial productivo de las regiones cafetaleras diversas.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 10.
 
-El programa Integral para el Desarrollo Sustentable de la Cafeticultura considerará las prioridades siguientes:
+El Programa de fomento y desarrollo a la Cafeticultura en el Estado de Veracruz de Ignacio de la Llave, tendrá los fines siguientes:
 
-I. Establecer un registro de control permanente actualizado que permita definir el carácter y conocer el número de productores, cultivo y productividad por superficies georreferenciadas, la capacidad de beneficio húmedo y seco, y la participación en los mercados local, nacional e internacional del café veracruzano, en sus diferentes presentaciones, entre otros parámetros;
+I. Fomentar producción e integración de la cadena de valor para la mejora de suelo, agua, optimizando su potencial productivo en las regiones cafetaleras diversas;
 
-II. La integración de organizaciones con base en superficie en cultivo obtenida para que puedan alcanzarse incrementos de productividad y volúmenes rentables;
+II. Promover un ordenamiento territorial para propagar semillas adecuadas resistentes a plagas y enfermedades que han diezmado la producción de café en las últimas décadas; así como sistemas de cultivo adecuados a la fisiografía de cada una de las 10 regiones cafetaleras del Estado de Veracruz;
 
-III. Incorporar a los productores al beneficio del Instituto Mexicano del Seguro Social;
+III. Fomentar la producción de semilla y planta certificada de germoplasmas óptimos para el sector cafetalero veracruzano, así como, promover la validación técnica y/o certificación de los procesos productivos primarios;
 
-IV. Fomentar el establecimiento de procesos productivos que no afecten el medio ambiente;
+IV. Fomentar el acompañamiento permanente en procesos y actividades en las diferentes etapas de la cadena agroalimentaria del café de manera que se cumpla con estándares mínimos y generar un registro para incentivar con aportaciones;
 
-V. La investigación y el desarrollo tecnológicos en toda la cadena productiva del café;
+V. Incentivar con aportaciones económicas vía subsidio y créditos blandos a las empresas sociales de productores que deseen incursionar en otros eslabones de la cadena agroalimentaria del café;
 
-VI. Los proyectos que propicien la capitalización del campo cafetalero;
+VI. Incentivar a productores de pequeña escala que deseen obtener certificaciones y sellos de calidad que puedan darle valor agregado a su producto; y
 
-VII. Impulsar mecanismos de reordenamiento del mercado para garantizar la auténtica libre competencia y concurrencia de los agentes de las cadenas productiva y comercial;
+VII. Fomentar el cultivo de café en asociación con plantaciones de frutales o maderables, para obtener además de beneficio económicos para el productor, beneficios ecosistémicos al incrementar el dosel de sombra y respetar los corredores biológicos, privilegiando la importancia de los servicios ambientales que otorgan las especies de café de sombra.
 
-VIII. Centros de acopio, certificación y comercialización, que mejoren el abasto y distribución, y que propicien la reducción de costos de almacén y transporte;
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
-IX. Proporcionar capacitación con visión empresarial a los productores;
+### CAPÍTULO II. Del Fomento a la Producción de Pequeña Escala
 
-X. Marco regulatorio para la propagación del cultivo y definición de directrices de calidad y trazabilidad genética del material vegetativo de las diversas especies y variedades de café; y
-
-XI. Estudios de la calidad de café con respecto a las diferentes regiones y especies y variedades dentro de ellas, con el fin de normalizar el establecimiento del cultivo de manera óptima.
-
-### CAPÍTULO IV. Del Fondo de Estabilización, Fortalecimiento y Reordenamiento de la Cafeticultura
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-El Ejecutivo Estatal deberá prever en la iniciativa del Presupuesto de Egresos del Estado para el año fiscal correspondiente, y contemplarse en el decreto respectivo, la previsión necesaria que tendrá como objeto seguir operando el Fondo de Estabilización, Fortalecimiento y Reordenamiento de la Cafeticultura, de conformidad con los lineamientos que establece la presente ley.
+La SEDARPA establecerá dentro del Programa de fomento y desarrollo a la Cafeticultura en el Estado de Veracruz, un apartado especial para mejorar la calidad de vida y la posibilidad de incursionar en el mercado del café a los productores de pequeña escala, procurando gestionar que sean prioridad en los Planes de Desarrollo Nacional y Estatal, a fin de validar el criterio de justicia distributiva y equitativa enunciado en los objetivos de la presente ley.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-Para ser beneficiario del Fondo, el productor de Café deberá encontrarse inscrito en el Padrón Estatal de Productores del Café Veracruzano.
+Se deberá establecer dentro del Programa de fomento y desarrollo a la Cafeticultura en el Estado de Veracruz, la coordinación de acciones que permitan medir el impacto de los distintos programas de fomento productivo y de beneficio social vinculados a la cafeticultura en el Estado, priorizando en aquellos que contribuyen a resolver problemáticas concretas de los pueblos originarios, las zonas de atención prioritaria rural y áreas naturales protegidas.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-La SEDARPA, atendiendo el punto de vista del Instituto, emitirá las Reglas de Operación del Fondo, en las cuales se especificarán lineamientos para la entrega de los apoyos a los productores.
+Será prioridad de la SEDARPA en coordinación con las autoridades encargadas de la aplicación de la presente Ley, para el fomento a la producción a pequeña escala realizar las siguientes acciones:
 
-### CAPÍTULO V. De la Administración de los Fondos
+I. Fomentar la economía a microescala del café, a fin de que los productores puedan beneficiar su café y se promueva un acercamiento organizado a la industria para mejorar las condiciones de comercialización del producto;
+
+II. Apoyar a las comunidades, para la realización e inversión en el proyecto de los beneficios observando uso de agua, suelo, descarga de aguas residuales, energía eléctrica, entre otros insumos que impacten el medio ambiente;
+
+III. Incentivar prototipos regionales de producción que puedan replicarse en regiones con criterios de factibilidad, sostenibilidad, sin alterar el equilibrio ecológico y social en las comunidades;
+
+IV. Promover el consumo del café de los pueblos originarios mediante programas que destaquen sus tradiciones y costumbres, el aporte a la conservación de la naturaleza y la biodiversidad que les rodea;
+
+V. Promover la diversificación de cultivos aledaños al café para fomentar opciones de autoconsumo o en su caso opciones alternas de vinculación al mercado para las regiones cafetaleras;
+
+VI. Promover el beneficiado artesanal o de traspatio húmedo y seco y demás técnicas con criterio de responsabilidad social y ambiental;
+
+VII. Promover la asociación de productores artesanales de café y establecer programas, estrategias y financiamiento;
+
+VIII. Proporcionar mediante financiamiento al desarrollo y la capacitación para el control de calidad;
+
+IX. Crear un Padrón de Productores de Café con información oportuna, actualizada y necesaria para la toma de decisiones; así como incluir dentro del padrón un apartado específico para productores de pequeña escala; y
+
+X. Promover y capacitar al productor para la certificación y comercio sostenible del cultivo y proceso del café.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO III. De la Agroindustrialización
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 14.
 
-El Fondo será operado por el Instituto en los términos de las Reglas de Operación que al efecto emita la SEDARPA y será obligación del Instituto, entregar directamente los recursos a los productores beneficiarios.
+La SEDARPA deberá incluir en el padrón a las agroindustrias existentes en el Estado, así como de organizaciones cafetaleras; que le permitan contar con datos certeros de la cantidad de café que se procesa en las regiones del Estado.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 15.
 
-El Instituto, al operar el Fondo, actuará como agente técnico; y la SEDARPA, sin perjuicio de las facultades que las leyes y reglamentos le confieren a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado, será responsable de supervisar, controlar y dar seguimiento al Fondo.
+La Secretaría definirá prototipos de beneficio húmedo y seco basado en tecnología de punta, cuidando el proceso tradicional del café, donde se contemple entre otras cosas un bajo consumo de agua, de energía eléctrica, de combustibles fósiles o renovables, el tratamiento de agua, el cuidado de los afluentes.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 16.
 
-(sic) Fondo de Estabilización, Fortalecimiento y Reordenamiento de la Cafeticultura, podrá incrementarse por las aportaciones que libremente realicen toda clase de instituciones públicas y/o privadas, personas físicas o morales y ONG,s nacionales e internacionales canalizados a una cuenta que determine la SEDARPA, SEFIPLAN y el Instituto.
+La Secretaría proporcionará acompañamiento en las diferentes etapas de la cadena agroalimentaria del café; así como en procesos de la siembra, beneficiado y del producto final.
 
-Los Recursos Federales destinados a desarrollar la Cafeticultura y que la Secretaría de Hacienda y Crédito Público entreguen a la Secretaría de Finanzas y Planeación, deberán ser entregados al Instituto en un plazo no mayor a 30 días hábiles siguientes a la recepción de dichos recursos y se sujetarán a lo dispuesto en la presente ley.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 17.
 
-Los productores de café que sufran siniestro o desastre natural, recibirán una indemnización que no será menor al precio de garantía establecido en esta ley, dichos recursos provendrán del Fondo Nacional de Desastres Naturales, del Fondo Estatal de Desastres Naturales y/o de los fondos que aplique la SAGARPA de acuerdo las reglas de operación publicadas.
+La SEDARPA tendrá, dentro de las prioridades establecidas en el presente Capitulo, el promover los procesos productivos en las diferentes etapas de la cadena agroalimentaria fomentando la producción de cafés diferenciados y artesanales; así como actividades amigables con el medio ambiente.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-El Instituto realizará las gestiones necesarias para constituir un fideicomiso que tendrá la función de administrar los recursos de los fondos para la realización de programas y proyectos específicos, apoyos y pagos a cafeticultores, de cualquiera de los sujetos previstos en esta ley, y demás establecidos en las leyes relativas a la materia.
+En relación con la disponibilidad presupuesta!, la Secretaría buscará el incentivar a las cooperativas y empresas integradoras dotándolas con maquinaria, equipo e infraestructura para su desarrollo y fortalecimiento agroindustrial, siempre y cuando demuestren de manera positiva el impacto social, sostenible y económico en el entorno de las diferentes regiones cafetaleras.
 
-### CAPÍTULO I. Creación, Domicilio y Personalidad Jurídica del Instituto Veracruzano del Café
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO IV. De la comercialización y el fomento al consumo
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-En el fideicomiso a que se refiere el artículo anterior, los productores de café serán fideicomitentes y el Gobierno del Estado fideicomisario, fungiendo como presidente del Comité Técnico, el titular del Instituto.
+La SEDECOP desarrollará y operará un programa de monitoreo del mercado internacional, diferenciales por calidad, rendimientos, volúmenes, regiones, que aporten elementos técnicos para conformar un precio de referencia en las distintas regiones productoras de café del Estado.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 20.
 
-El Instituto señalará las instituciones de crédito en que el productor pueda tramitar el cobro de los apoyos, para lo cual deberá establecer los requisitos que cubran los productores.
+El precio de referencia del café en el Estado es un mecanismo de justicia social distributiva y equitativa, con la finalidad que el productor pueda sufragar los costos de producción, más un margen de ganancia relacionado directamente con el promedio del precio nacional, los rendimientos, el precio por ventas finales, además de los premios de calidad, reconocimiento a zonas geográficas, y los ingresos de divisas por exportaciones, el cual deberá estar directamente vinculado al Padrón en el Estado.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21.
 
-El Instituto informará de manera bimestral a la SEDARPA, a la SEFIPLAN y a la Contraloría General del Estado, acerca de los avances físicos y financieros del programa en los formatos que se establezcan para el efecto. Y de forma anual sobre el resultado del fideicomiso mencionado en artículos anteriores.
+Las comercializadoras de empresas sociales y privadas que accedan a mercados diferenciados, deberán tener prácticas sostenibles que se implementen en las diferentes etapas de la cadena; los beneficios, en la medida de lo posible, deberán reflejar en sus actividades productivas estrategias de conservación al medio ambiente en el entorno del cafetal, pero, sobre todo se buscará que apliquen medidas en beneficio de los actores principales que son los productores.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-Con la finalidad de impulsar la Cafeticultura del estado mediante una plataforma especializada se crea el Instituto Veracruzano del Café, en adelante denominado el Instituto, como un organismo descentralizado de la Administración Pública Estatal, sectorizado a la SEDARPA, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, operación y ejecución, para el óptimo desempeño y ejecución de sus funciones, mismo que será el organismo encargado de velar por la aplicación de esta ley, su reglamento interior y demás normas que competan a sus atribuciones.
+Deberá ser prioridad de los sujetos de la presente Ley, defender los derechos del consumidor final, promoviendo el correcto etiquetado frontal con la finalidad que en el producto se declare el porcentaje de café puro, el porcentaje que contiene de mezcla entre diferentes variedades, así como el añadido de otros componentes que no provengan del café.
 
-### CAPÍTULO II. Objeto y Atribuciones Generales
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. De los Cafés Especiales y Diferenciados
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-El domicilio legal del Instituto será ubicado en la ciudad de Xalapa, Veracruz de Ignacio de la Llave, en la cual instalará su oficina principal, contando con la posibilidad de contar con oficinas de representación en la (sic) diferentes regiones y municipios del Estado, tanto en el ámbito nacional y en el extranjero para el eficiente desempeño de su objeto.
+En el Programa de fomento y desarrollo a la Cafeticultura en el Estado de Veracruz, se deberán establecer políticas para promover la renovación de plantaciones con variedades especiales de café según los diferentes escenarios en condiciones ambientales, respetando el ordenamiento ecológico del territorio, logrando productividad progresiva, siempre buscando la diferenciación por calidad.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 24.
 
-El Instituto tiene por objeto primordial el impulso y fomento (sic) sector cafetalero mediante el para (sic) la proposición, asesoramiento, ejecución y evaluación de la política cafetalera estatal, con el objeto de promover, regular, coordinar y vigilar las actividades de productividad, propagación del cultivo, producción, industrialización, comercialización y almacenamiento, para propiciar el desarrollo sustentable del sector cafetalero, mayor competitividad y el fomento comercial e industrial, con asistencia técnica específica, innovación y transferencia de tecnología, que den como resultado el incremento de productividad y calidad, además del fortalecimiento de la comercialización y posicionamiento en mercado nacional e internacional.
+Se establecerá como prioritario dentro de las políticas establecidas por el Consejo Consultivo de la Cadena Agroalimentaria del Café, en materia de cafés especiales y diferenciados, lo siguiente:
 
-## TÍTULO TERCERO. De las Atribuciones del Instituto en Materia de Organización, de la Producción y Comercialización
+I. Incrementar el consumo interno de cafés de especialidad en el Estado, así como promocionar la venta en el exterior del país;
 
-### CAPÍTULO I. De la Organización de Productores
+II. Promocionar, diferenciar y proteger el prestigio y calidad del café veracruzano, promoviendo el acceso a nichos de mercado diferenciados nacionales e internacionales posicionando a los cafés de especialidad, para que impacten en el mercado regional incluso de cafés convencionales;
 
-### CAPÍTULO III. De la Integración de su Patrimonio
+III. Impulsar el crecimiento de nichos de mercado no convencionales, incrementando la calidad del café en función de los requerimientos de mercados objetivo, fundamentada en la capacitación a los productores para lograr mayor calidad;
+
+IV. Incluir en el Padrón la diferenciación entre cafés convencionales y cafés de especialidad, a fin de conocer con precisión cuántos productores y cuánto producto de esta clasificación existe para aperturar oportunidades de mercado;
+
+V. Con base en investigación científica promover la siembra de plantas adaptadas a sombra y a altitudes adecuadas, proponiendo las especies adecuadas en la faja de oro del café (zona S) así identificada en el Estado, la cual reúne las condiciones agroecológicas para mantener la calidad de las cafés de especialidad y diferenciados;
+
+VI. Gestionar, evaluar la implementación de viveros comunitarios de cafés diferenciando las variedades a utilizar por los requerimientos del mercado de especialidad, convencional, nacional e internacional y por las condiciones agroclimáticas;
+
+VII. Elaborar catálogos de variedades y de productores sobresalientes en la producción de cafés diferenciados, para crear una política regional de semillas y renovación por altitudes;
+
+VIII. Negociar con organismos internacionales, agencias multilaterales, organismos sociales, OSC, u otras para adquirir estímulos a la biodiversidad, compensar por captura de carbono, reducción de gases efecto invernadero, pago de servicios ambientales que prestan los cafetales así como negociar los bonos de carbono, generados en superficies donde se cultivan cafés especiales;
+
+IX. Crear un programa de fomento y desarrollo de semillas de variedades de alta calidad de Coffea Arábica, que se establecerán como Bancos de Germoplasma para variedades endémicas que caracterizan a las regiones cafetaleras y les otorgan identidad; y
+
+X. Impulsar campañas de publicidad, ferias, exposiciones y eventos estatales, nacionales e internacionales para promocionar los cafés especiales del territorio veracruzano, posicionándolos en nichos de mercado de agregación de valor.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO TERCERO. Del Medio Ambiente, la Sostenibilidad y la Responsabilidad Social
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. Del Medio Ambiente y Sostenibilidad
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-Para que el Instituto de cabal cumplimiento del objeto tendrá las atribuciones siguientes:
+En las plantaciones de café bajo sombra se deberá promover la conservación y uso sostenible de la biodiversidad con énfasis en los usos tradicionales, la diversificación de cultivos asociados al café y de prácticas productivas con responsabilidad social y ambiental.
 
-I. Planificar y diseñar políticas, estrategias y programas para el fomento a la producción, industrialización y comercialización con el fin de aumentar la productividad, competitividad y posicionamiento de la calidad del producto;
-
-II. Normar, gestionar y coadyuvar en las labores de las autoridades competentes en materia de sanidad implementadas;
-
-III. El diseño e implementación de programas y estrategias que faciliten la participación activa del sector productivo en las regiones y municipios, a fin de evaluar resultados específicos de productividad, asistencia técnica, capacitación y manejo del cultivo del café;
-
-IV. Suscribir y negociar acuerdos o convenios de participación, coordinación y articulación con instancias Federales, Estatales, Municipales, la iniciativa privada y organismos nacionales e internacionales, para el desarrollo y fomento de la Cafeticultura;
-
-V. Promover y ejecutar inversión pública y privada, previa autorización de la Junta de Gobierno, con recursos que formen parte de su patrimonio en los convenios de concurrencia que celebre el Estado con los tres órdenes de Gobierno e instancias públicas y privadas, nacionales e internacionales, con el objeto de potenciar los recursos destinados a la Cafeticultura integrantes clave del sector;
-
-VI. Generar, incentivar y difundir innovaciones tecnológicas desarrolladas por el propio Instituto o por otros agentes externos, en materia de modernización de las técnicas del cultivo del café, así como la validación de propuestas de incorporación de nuevas variedades genéticamente resistentes a enfermedades, de alta productividad y que preserven la calidad del producto final;
-
-VII. Generar herramientas para el Padrón del parque cafetalero, mediante el registro e identificación de productores de café por Municipio, lo mismo que generación, concentración y difusión de información estadísticas de la cadena productiva, con el objeto de administrar facilitar el acceso de la información generada por los diversos agentes que componen el sector cafetalero para coadyuvar a una mejor toma de decisiones de los usuarios de dicha información;
-
-VIII. Fomentar la consolidación de las organizaciones, mediante la participación activa en proyectos y programas locales, regionales, nacionales e internacionales de manera coordinada y transparente;
-
-IX. Generar y promover inversiones directas o indirectas mediante convenios de participación o asociación entre productores, industriales y comercializadores, a nivel nacional e internacional;
-
-X. La coordinación y constitución del Consejo Consultivo del Café, como organismo de asesoría y consulta, en el que podrán participar las organizaciones de productores más representativos del Estado, Industriales y comercializadores. Así como académicos e investigadores de instituciones públicas y privadas, con el fin de cooperar con propuestas e intercambio de opiniones en la instrumentación de la política cafetalera Estatal;
-
-XI. Promover y desarrollar proyectos de investigación tendentes a la innovación técnica, tecnológica y comercial, que propicien el mejoramiento de la producción, competitividad y rentabilidad del producto, de manera propia o en alianza con agentes del sector que los propongan o ejecuten;
-
-XII. Concertar el intercambio de experiencias y tecnologías con instituciones públicas y privadas, tanto nacionales como extranjeras que coadyuven a la mejora del sector cafetalero, teniendo la facultad de concertar y negociar convenios de colaboración para el desarrollo y fomento del sector cafetalero;
-
-XIII. Optimizar y mejorar los sistemas de acopio, almacenamiento y conservación, a fin de mejorar las condiciones de venta y contratos comerciales que garantice una distribución equitativa del sector productivo primario para su capitalización y modernización;
-
-XIV. Ofrecer asesoría jurídica, comercial y financiera a la cadena de valor y a sus organizaciones en la contratación y comercialización que permita un mejor manejo del riesgo de la actividad de los agentes que componen el sector cafetalero;
-
-XV. Normar, coordinar e impulsar un programa eficiente de producción de material vegetativo de calidad, para la renovación continua e ininterrumpida del parque cafetalero Estatal mediante la participación activa de los productores, organizaciones, Ayuntamientos e instituciones públicas y privadas;
-
-XVI. Gestionar y fungir como organismo articulador de los programas de desarrollo alimentario y social en los municipios productores de café, en coordinación con las instituciones de la Federación, el Estado y Municipios, así como instituciones, organizaciones y agentes no gubernamentales públicos y privados; y
-
-XVII. Además de las atribuciones que señale el presente instrumento, su reglamento interno y normatividad que sea aplicable, así como las que instruya la Junta de Gobierno para el cumplimiento de su objeto.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 26.
 
-Para su ejercicio, el Instituto contará con los bienes muebles e inmuebles destinados para el cumplimiento de sus atribuciones, lo mismo que con los recursos que les sean asignados por la Junta de Gobierno, con forme (sic) a las asignaciones presupuestales correspondientes.
+Las autoridades correspondientes, conforme a lo establecido en el presente ordenamiento, implementarán acciones programáticas y afirmativas que permitan el mantenimiento de los servicios ambientales que contempla la estrategia para la conservación y uso sostenible de la biodiversidad del Estado y en cumplimiento de las Normas Oficiales Mexicanas aplicables.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 27.
 
-El patrimonio del Instituto se conformará por:
+Se deberá fomentar, controlar, evaluar la siembra de café de la especie Coffea Robusta de especialidad, en zonas bajas con sistemas agroforestales, sin sustituir al bosque, pudiendo ser utilizados potreros y tierras para un adecuado manejo agronómico, evaluando la tecnología indicada para alcanzar los rendimientos óptimos para ser rentable en relación a cantidad y calidad.
 
-I. Los recursos del Estado y la Federación asignados a su presupuesto, correspondientes a la aplicación de su plan de trabajo, que le estén encomendados de acuerdo a su objeto;
-
-II. Los bienes muebles e inmuebles que adquiera o los que le aporten la Federación, el Estado, los Ayuntamientos y otras instituciones u organismos públicos y privados, personas físicas o morales, nacionales o extranjeras;
-
-III. Los rendimientos, utilidades, intereses, comisiones, permisos, derechos y productos que obtenga por las operaciones que realice o que por cualquier título legal le corresponda;
-
-IV. Las aportaciones, donaciones, herencias y legados que reciba de instituciones públicas o privadas;
-
-V. Los beneficios que obtenga de la enajenación de bienes de su patrimonio;
-
-VI. Los ingresos que perciban por los servicios prestados; y
-
-VII. Los recursos derivados de fideicomisos en los que se les señale como beneficiario.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 28.
 
-El Instituto es la instancia normativa y de coordinación, encargada de dar seguimiento a las acciones que promuevan mecanismos interinstitucionales, para el establecimiento de políticas públicas y estrategias para el cumplimiento del objetivo de esta Ley.
+El aprovechamiento de productos forestales maderables y no maderables de vegetación que provenga de terrenos bajo cultivo de cafetales, se regirá por lo concerniente a terrenos diversos a los forestales, establecido en la Ley de Desarrollo Forestal Sustentable para el Estado de Veracruz de Ignacio de la Llave y su Reglamento.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 29.
 
-Para dar cumplimiento a sus atribuciones, el Instituto estará integrado de la siguiente forma:
+El fomento y establecimiento de plantaciones de café bajo sol, se hará en terrenos degradados y de uso agropecuario, integrando a dichas plantaciones esquemas de restauración de suelos y aplicación de prácticas productivas sostenibles.
 
-I. La Junta de Gobierno;
-
-II. La Dirección General;
-
-III. Un Comisariado Público; y
-
-IV. Un Consejo Consultivo
-
-El Instituto contará para el desarrollo y ejecución de sus funciones, de la estructura orgánica y plantilla del personal que apruebe la Junta de Gobierno, con base a las necesidades y disponibilidad presupuestal existente, en función de sus atribuciones, mismas que se determinan en su reglamento interno.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 30.
 
-La Junta de Gobierno, es la instancia responsable de establecer las políticas, objetivos y metas, además de evaluar los resultados y el desarrollo de las actividades del Instituto fungiendo como órgano supremo.
+Se reconoce la importancia de los Cafetales de Sombra en Veracruz como proveedores de servicios ambientales y como hábitat para la conservación de la biodiversidad, por lo que para efectos de la legislación veracruzana serán considerados como espacios naturales de importancia para la conservación en la modalidad de reservas ecológicas de aprovechamiento productivo.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 31.
 
-Los integrantes de la Junta de Gobierno contarán con voz y voto, teniendo la facultad de designar a un suplente, acreditándose debidamente mediante oficio ante la Junta de Gobierno para su aprobación.
+Se exhorta a las autoridades del Estado y los municipios a implementar las medidas necesarias para fomentar su conservación a través de estímulos y el diseño de instrumentos de planeación y regulación del territorio que impidan los cambios de uso de suelo y que restrinjan la transición a otros cultivos menos sostenibles.
 
-Los miembros de la Junta de Gobierno, titulares y suplentes, tendrán carácter honorífico e institucional, por lo que las personas que lo desempeñen no devengarán salario, compensación o prestación alguna.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
-El Director General se obliga a participar en todas las sesiones de la Junta de Gobierno, ordinarias o extraordinarias, contando con derecho a voz, pero sin voto.
+### CAPÍTULO II. De la Responsabilidad Social
 
-### CAPÍTULO IV. De la Integración del Instituto
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 32.
 
-La Junta de Gobierno se reunirá en sesión ordinaria por lo menos una vez cada dos meses convocada con cinco días de anticipación y sesiones extraordinarias por dos días hábiles de anticipación:
+Las autoridades competentes y sujetos de la presente Ley deberán fomentar la reactivación de la cafeticultura en un entorno cambiante fomentando la renovación y mantenimiento de fincas cafetaleras para generar bienestar económico y social a corto, mediano y largo plazo.
 
-I. A petición del Presidente de la Junta de Gobierno;
-
-II. A solicitud del Director General o el Comisariado Público;
-
-III. A petición de dos terceras partes de los integrantes del Consejo Consultivo; y
-
-IV. Por caso fortuito, fuerza mayor o grave, según lo califique el Presidente del Consejo Consultivo.
-
-La Junta de Gobierno, por conducto del Secretario Técnico, podrá invitar a sus sesiones, de considerarlo necesario, a cualquier representante de las dependencias de la administración pública Federal, Estatal y/o Municipal, o a representantes de instituciones públicas y organizaciones del sector social y privado, siempre y cuando sus actividades se relacionen con el objeto del Instituto; y en su calidad de invitados tendrán derecho a voz, pero no a voto.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 33.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de dos terceras partes de sus miembros.
+Los actores de la Cadena Agroalimentaria del Café, procurarán garantizar, en todas las etapas de la cadena, la seguridad laboral de sus integrantes, con fundamento en las disposiciones aplicables en el artículo 123 Constitucional apartado A en su fracción XII relativo a las disposiciones de las empresas agrícolas.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 34.
 
-Los acuerdos y resoluciones que emita la Junta de Gobierno se aprobarán por la mayoría de votos de sus miembros y se ejecutarán por la Dirección General; y en caso de empate, el presidente en fundiciones (sic) tendrá voto de calidad.
+Las autoridades reguladas en la presente Ley, en materia de responsabilidad social, tendrán las siguientes obligaciones:
 
-## TÍTULO CUARTO. Del Consejo Consultivo del Café del Estado
+I. Fomentar esquemas de igualdad e inclusión en el desarrollo de las actividades de la cadena agroalimentaria del café;
 
-### CAPÍTULO I. De su Integración y Atribuciones
+II. Garantizar la seguridad en plantaciones comerciales, evitar las situaciones de peligro a de (sic) la población de los jornaleros agrícolas; y
 
-### CAPÍTULO V. De la Junta de Gobierno
+III. Incorporar esquemas de inclusión social de mujeres, jóvenes y población provenientes de pueblos originarios en todas las etapas de la cadena agroalimentaria del café.
+
+Los comercializadores del café en Veracruz deberán diseñar e implementar, de acuerdo con sus capacidades un programa de Responsabilidad Social Empresarial. Este programa deberá contemplar entre otros rubros las medidas para promover el pago justo a los pequeños productores, el fomento a la conservación y restauración de los ecosistemas, el fomento a la incorporación de las modalidades de reserva que establece la presente ley y la promoción de la participación activa de las mujeres en la cafeticultura.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO CUARTO. Institucionalidad de la Cafeticultura
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. Del Consejo Consultivo
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 35.
 
-La Junta de Gobierno se integrará por:
+Se crea el Consejo Consultivo de la Cadena Agroalimentaria del Café, como órgano de apoyo y consulta de las autoridades encargadas de la aplicación de la presente Ley; con carácter institucional, social, honorífico, plural, democrático y transparente, en el que podrán participar los diferentes actores de la cadena para promover la política pública, los programas, proyectos y acciones concretas a desarrollar en el Estado en beneficio de la Cafeticultura Veracruzana.
 
-I. El titular del Ejecutivo del Estado, quien fungirá como Presidente;
-
-II. El Secretario de SEDARPA, quien fungirá como Vocal;
-
-III. El Secretario de SEDECOP, quien fungirá como Vocal;
-
-IV. El Secretario de SEFIPLAN, quien fungirá como Vocal;
-
-V. El Secretario de SEDEMA, quien fungirá como Vocal;
-
-VI. El Contralor General del Estado, quien fungirá como Vocal;
-
-VII. El Presidente de la Comisión Permanente de Desarrollo Agropecuario Rural y Forestal del Congreso del Estado, quien fungirá como Vocal;
-
-VIII. El titular del Instituto fungirá como secretario técnico y acudirá a las sesiones con derecho de voz y voto.
-
-IX. Tres representantes de reconocida trayectoria y labor en el rubro (un académico y dos investigadores del sector público y del sector privado), como Vocales;
-
-X. Representantes de Asociaciones Legalmente Constituidas que representen rubros de la industria de la transformación, comercialización y consumo nacional, y comercialización y consumo internacional, como Vocales;
-
-XI. Diez representantes de productores, uno por cada región cafetalera (cada representante con capacidad de voto proporcional a la producción y el número de productores que representa), como Vocales;
-
-XII. Representante no Gubernamental del Sistema producto (sic) café de Veracruz, como Vocal; y
-
-XIII. Delegado de SAGARPA en el Estado de Veracruz, como Vocal.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 36.
 
-La Junta de Gobierno tendrá, entre otras, las siguientes facultades:
+El Consejo Consultivo estará integrado por:
 
-I. Analizar y aprobar plan de trabajo anual de (sic) Instituto que presente la Dirección General;
+I. El Gobernador del Estado, quien fungirá como Presidente;
 
-II. Aprobar el presupuesto anual de egresos y la estimación de ingresos que presente, la Dirección General, así como las adecuaciones pertinentes en términos de ley;
+II. El Titular de la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, quien fungirá como secretario técnico;
 
-III. Analizar el balance anual y los estados financieros, así como, los informes generales y especiales que rinda la Dirección General;
+III. El Titular de la Secretaría de Desarrollo Económico y Portuario;
 
-IV. Supervisar el cumplimiento del plan de trabajo y el ejercicio del presupuesto anual de egresos, con respecto al avance de las actividades y el apego a la normatividad aplicable;
+IV. El Titular de la Secretaría de Medio Ambiente;
 
-V. Analizar y en su caso probar los actos jurídicos que celebre la Dirección General, que implique traslación de dominio, aceptación y remisión de obligaciones patrimoniales, necesarias para el cumplimiento con los objetivos del Instituto;
+V. El Titular de la Secretaría de Turismo y Cultura; y
 
-VI. Dictaminar y en su caso aprobar el proyecto de reglamento interior de (sic) Instituto, para la expedición y publicación correspondiente;
+VI. El Titular del Instituto Veracruzano de los Pueblos Indígenas.
 
-VII. Revisar y aprobar los manuales, la estructura organizacional del Instituto, así como la creación o supresión de los órganos que lo integran, de conformidad con la normatividad aplicable vigente y a las necesidades y disponibilidad presupuestal, en todos los casos deberá sujetarse a lo que establezca la dependencia normativa competente;
+Serán invitados permanentes el titular del Consejo Veracruzano de Investigación Científica y Desarrollo Tecnológico y el titular de la Secretaría de Finanzas y Planeación del Estado.
 
-VIII. Autorizar la contratación de despachos externos, para dictaminar el óptimo ejercicio financiero, de recursos humanos y materiales, y en su caso para coordinar las correcciones para el óptimo funcionamiento del Instituto;
+El Consejo incorporará a tres vocales de instituciones académicas públicas y privadas prestigiadas y especializadas en materia de cafeticultura en el Estado, así mismo incorporará a seis representantes de la sociedad que se hayan dedicado al menos los últimos 5 años a alguna actividad de la cadena agroalimentaria del café: organizaciones, empresas, catadores, baristas, cafeterías, sociedad civil organizada, que sean residentes del territorio veracruzano y propuestos por alguna institución o colectivo del gremio cafetalero.
 
-IX. Establecer los lineamientos generales a los que se (sic) deberá sujetarse el Instituto, en la celebración de acuerdos, convenios y contratos con dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, así como, con los organismos del sector público, privado y social, nacionales o extranjeros, para la ejecución del cumplimiento del objeto de creación del organismo;
+Los integrantes del Consejo no recibirán retribución alguna y los vocales durarán en su encargo cuatro años y se elegirán democráticamente bajo los lineamientos que dicho Consejo determine.
 
-X. Vigilar el estricto cumplimiento de este decreto y demás normas aplicables, pudiendo al efecto solicitar a las autoridades competentes la observancia de las obligaciones que le resulten;
-
-XI. Mediar y resolver los casos no previstos en el presente decreto, mediante acuerdos que emita, conforme a las disposiciones jurídicas aplicables;
-
-XII. Aprobar el programa institucional y operativo anual del Instituto, así como las propuestas de modificaciones que procedan durante el ejercicio fiscal en términos de la legislación aplicable; y
-
-XIII. Las demás que le señale el presente decreto, su reglamento interior y los ordenamientos jurídicos o administrativos que le resulten aplicables.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 37.
 
-El Secretario Técnico contará con las siguientes atribuciones.
+El Consejo Consultivo aprobará los lineamientos para su funcionamiento, celebrará dos reuniones plenarias al año, en la última de cada año el Secretario Técnico presentará el Programa para su discusión y aprobación por el Consejo. Independientemente de las reuniones plenarias, se podrán celebrar las reuniones de trabajo extraordinarias que sean necesarias.
 
-I. Convocar a las sesiones ordinarias y extraordinarias por instrucciones del Presidente de la Junta de Gobierno;
-
-II. Dar seguimiento a los acuerdos y resoluciones tomadas en las sesiones de la Junta de Gobierno;
-
-III. Participar con derecho a voz, pero sin voto en las sesiones de la Junta de Gobierno;
-
-IV. Elaborar el orden del día y formalizar las invitaciones a las diferentes sesiones de la Junta de Gobierno;
-
-V. Llevar el control de asistencia de los miembros de la Junta de Gobierno y suscribir los documentos que ésta emita;
-
-VI. Elaborar y dar lectura al acta respectiva de cada sesión de la Junta de Gobierno, recabando la documentación soporte y firmas correspondientes;
-
-VII. Dar a conocer oportunamente a los miembros de la Junta de Gobierno, las actas de las sesiones, el orden del día y la documentación que deba conocerse en las sesiones correspondientes;
-
-VIII. La custodia, firma y registro de las actas de trabajo y acuerdos de la Junta de Gobierno, anexando el soporte documental correspondiente;
-
-IX. Rendir los informes correspondientes de los resultados y avances obtenidos en las sesiones realizadas por la Junta de Gobierno; y
-
-X. Las demás que la Junta de Gobierno le asigne en cumplimiento de este decreto y la normatividad aplicable.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
-El Director General será nombrado por el Ejecutivo del Estado, a través de la SEDARPA y quien deberá cumplir con los requisitos establecidos en la presente ley.
+Los integrantes del Consejo Consultivo representarán y se incorporarán a los diferentes mecanismos de participación social y privada, convocados por los gobiernos de orden municipal, estatal y federal.
 
-La SEDARPA recibirá la terna de propuestas de la Junta de Gobierno del Instituto, para elegir al titular del Instituto, en las que se señalen el perfil, la experiencia, las contribuciones a la Cafeticultura veracruzana, así como ser veracruzano, y los merecimientos de sus candidatos, los cuales serán puestos a consideración del Gobernador del Estado, para la designación del titular del Instituto.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 39.
 
-El Director General del Instituto, tendrá entre otras las atribuciones siguientes:
+El Consejo Consultivo tendrá las siguientes atribuciones:
 
-I. Representar legalmente al Instituto ante toda clase de Autoridades, Organismos, Instituciones y Personas Públicas o Privadas, Nacionales o Extranjeras. La representación a la que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones y constituye una representación amplísima;
+I. Disponer lo necesario para que en el Plan Veracruzano de Desarrollo se consideren estrategias integrales que detonen esta actividad;
 
-II. Formular y someter a la aprobación de la Junta de Gobierno, los programas del Instituto y ejecutar estos una vez que sean aprobados;
+II. Fortalecer la cafeticultura en las distintas regiones del Estado, con acciones de acompañamiento, financiamiento y vinculación a mercados convencionales y diferenciados;
 
-III. Formular los programas, así como el proyecto de reglamento interior y los manuales del Instituto y sus modificaciones, sometiéndolos a consideración de la Junta de Gobierno;
+III. Posicionar al sector cafetalero veracruzano, en el entorno nacional e internacional, con base en los acuerdos derivados de los convenios y tratados internacionales, signados por el Estado Mexicano; así como con programas y proyectos que fortalezcan su competitividad, calidad y esquemas de diferenciación;
 
-IV. Administrar y realizar las tareas operativas del Instituto, implementando las acciones necesarias para su buen funcionamiento;
+IV. Diseñar y establecer mecanismos económicos, donde se incluya entre otros, el pago por servicios ambientales para fomentar la incorporación y permanencia de fincas cafetaleras en las modalidades de protección ambiental, de igual forma se incentivará;
 
-V. Proponer para aprobación y revisión de la Junta de Gobierno, los programas y proyectos presupuestados para cada ejercicio anual, así como los Estados financieros e informes generales y especiales del Instituto;
+V. Celebrar con la Federación, las entidades federativas e instituciones oficiales o particulares, los convenios necesarios para concertar acciones que tengan por objeto la promoción, difusión e investigación de la Cafeticultura Veracruzana;
 
-VI. Otorgar, sustituir y revocar toda clase de poderes, de conformidad con la legislación vigente;
+VI. Crear incentivos económicos, crediticios y programas de apoyo para personas y organismos que impulsen la Cafeticultura Veracruzana; y
 
-VII. Informar a la Junta de Gobierno, los avances en los programas, acciones, políticas y proyectos que lleve a cabo el Instituto;
+VII. Las demás que le otorgue esta Ley.
 
-VIII. Concurrir a las sesiones de la Junta de Gobierno, participando en ellas con voz, pero sin voto y cumplir y hacer cumplir las disposiciones generales y los acuerdos emitidos por ésta;
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
-IX. Celebrar y suscribir toda clase de actos jurídicos y administrativos, contratos y convenios en representación del Instituto que sean necesarias para el cumplimiento de su objeto, informando periódicamente a la Junta de Gobierno sobre el resultado de los mismos;
+### CAPÍTULO II. Dirección de Desarrollo de la Cafeticultura Veracruzana
 
-X. Conducir las relaciones laborales del personal del Instituto, conforme a la Legislación que resulte aplicable;
-
-XI. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de recursos humanos, financieros y materiales del Instituto;
-
-XII. Nombrar y remover al personal del Instituto, con base en el presupuesto autorizado y de acuerdo a las necesidades que se generen para el cumplimiento de objetivos, de conformidad con la legislación aplicable;
-
-XIII. Otorgar permisos y licencias con y sin goce de sueldo al personal del Instituto, designando a quienes los sustituyan provisionalmente; así como aplicar e imponer las sanciones administrativas que corresponda en términos de las disposiciones reglamentarias conducentes;
-
-XIV. Para los efectos administrativos q (sic) que haya lugar, certificar, en su caso, la documentación propia del Instituto y toda aquella que obre en los archivos del mismo;
-
-XV. Solicitar al Comisario, el análisis y evaluación de los sistemas, mecanismos y procedimientos de control del Instituto, así como solicitar la revisión y auditorías de índole administrativas, contables, operacionales, técnicas y jurídicas a las autoridades competentes, con la finalidad de vigilar y trasparentar el manejo y la aplicación de los recursos públicos;
-
-XVI. Suscribir toda clase de contratos de trabajo, en representación del Instituto;
-
-XVII. Delegar en servidores públicos subalternos, las atribuciones que le corresponden, excepto aquellas que su ejercicio sea personalísimo y por su naturaleza indelegables;
-
-XVIII. Presentar a la Junta de Gobierno, los informes relacionados con las actividades del Instituto;
-
-XIX. Ejecutar los acuerdos y resoluciones emitidos por la Junta de Gobierno; y
-
-XX. Las demás que en el ámbito de su competencia le asignen las leyes, reglamentos, decretos, acuerdos y demás ordenamientos aplicables, así como las que le confiera el Gobernador del Estado y la Junta de Gobierno.
-
-### CAPÍTULO VI. De la Integración y Atribuciones de la Junta de Gobierno
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 40.
 
-El Instituto contará con un órgano permanente de vigilancia, a cargo de un Comisariado Público, que será nombrado y removido libremente por el Titular de la Contraloría General del Estado, en términos de la legislación aplicable y deberá llevar a cabo las funciones de vigilancia y control interno.
+La SEDARPA considerará dentro de su estructura administrativa una Dirección denominada de Desarrollo de la Cafeticultura Veracruzana, misma que coordinará las políticas en materia agroalimentaria del café en Veracruz, y tendrá por objeto proponer mecanismos de regulación en todos los eslabones de la cadena agroalimentaria del café a fin de fortalecer a este sector en el Estado de Veracruz.
 
-### CAPÍTULO X. Reglas de Gestión y de las Relaciones Laborales
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 41.
 
-El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Estatal, de conformidad con lo establecido por el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
+La Dirección tendrá como prioritarias las siguientes atribuciones:
 
-### CAPÍTULO VII. Atribuciones del Secretario Técnico
+I. Promover el reconocimiento a los cafés de especialidad producidos en territorio veracruzano, diseñar una estrategia de posicionamiento y comercialización de estos cafés, en nichos de mercado nacionales e internacionales;
+
+II. Fomentar y gestionar el financiamiento para el acopio, beneficiado, almacenaje, comercialización, empaque y distribución del café veracruzano para la generación de valor agregado, especialmente para figuras jurídicas integradas con sentido social y con enfoque de sostenibilidad;
+
+III. Diseñar e implementar un programa permanente de capacitación y asistencia técnica, para el manejo de tecnologías sostenibles. Este programa deberá contemplar entre otros rubros las medidas para promover el pago justo a los productores de pequeña escala, el fomento a la conservación y restauración de los ecosistemas, el fomento a la incorporación de las modalidades de reserva que establece la presente ley y la promoción de la participación activa de las mujeres en la cafeticultura;
+
+IV. Informar al Consejo Consultivo los avances y verificación del Padrón Estatal Cafetalero;
+
+V. Fortalecer, asesorar, gestionar la creación y fortalecimiento de personas morales con estructuras legales y operativas más eficaces en la materia, donde el objeto social y estatutos, privilegien la buena aplicación de los recursos, la transparencia, honestidad, productividad y rentabilidad, en un ambiente de alta democracia en su toma de decisiones y administración;
+
+VI. Promover la organización de los productores estatales, regionales o municipales y la creación de figuras asociativas de los sectores social y privado considerados en las leyes o reglamentos de la materia;
+
+VII. Diseñar y establecer mecanismos económicos, donde se incluya entre otros, el pago por servicios ambientales para fomentar la incorporación y permanencia de fincas cafetaleras en las modalidades de protección ambiental, de igual forma se incentivará;
+
+VIII. Reconocer de manera pública y oficial, de manera consensada, democrática y por demostración de hechos, a personas físicas o morales por logros reconocidos para la Cafeticultura en el Estado; y
+
+IX. Las demás que le otorgue esta Ley, o la reglamentación expedida para el efecto.
+
+> <small>(ADICIONADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO III. Del Padrón de Productores
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 42.
 
-Los planes y programas que lleve a cabo el Instituto, en ejercicio de sus funciones, deberán será (sic) acordes con los planes nacionales y estatal de desarrollo.
+La SEDARPA integrará un padrón de productores que contendrá al menos el nombre, superficie sembrada, sistema de cultivo, variedad de café y ubicación georeferenciadas del predio. Los diferentes actores de la cadena agroalimentaria del café tendrán el derecho a ser censados y de ingresar al Padrón.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 43.
 
-El régimen laboral al que se sujetarán las relaciones de trabajo del Instituto, se ajustarán a lo dispuesto en el apartado A, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos y su ley reglamentaria.
+Para acceder a programas gubernamentales, incentivos públicos y esquemas de financiamiento en donde tengan participación instancias gubernamentales estatales, con participación directa o indirecta, es requisito indispensable contar con registro actualizado en el Padrón.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 44.
 
-El Instituto promoverá y apoyará la integración y operación de las asociaciones y organizaciones de los cafeticultores de conformidad con lo dispuesto en la Ley Federal de Desarrollo Rural Sustentable.
+Con la finalidad de fortalecer a la producción de pequeña escala, podrán inscribirse al padrón los productores que tengan de 0.25 a 5 hectáreas y se alojarán en el apartado específico de productores de pequeña escala.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 45.
 
-Promover la organización de los productores estatales, regionales o municipales y la creación de figuras asociativas de los sectores social y privado considerados en las leyes o reglamentos de la materia.
+Para ingresar al Padrón, los productores, deberán comprobar con evidencia física y documental su participación en algún eslabón de la cadena agroalimentaria del café.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 46.
 
-Las organizaciones de productores estatales, regionales o municipales, tendrán como objetivos fundamentales:
+La institución encargada de administrar el Padrón definirá al menos dos periodos por año para actualizar el mismo; emitirá convocatoria pública abierta en donde establecerá los requisitos para registrar en el Padrón.
 
-I. Consolidar la oferta para fortalecer su acción en el mercado;
+En el caso de los productores de café de pequeña escala, se permitirá la presentación de documentos que avalen propiedad privada y propiedad social, se permitirán contratos de arrendamiento o aparcería. Los documentos oficiales podrán ser: escritura pública, título de propiedad, certificado agrario o constancia de posesión.
 
-II. La obtención de mejores precios para participar equitativamente en la distribución del ingreso cafetalero;
-
-III. Uso adecuado de los servicios institucionales de fomento y desarrollo previstos en la Ley Federal de Desarrollo Rural Sustentable.
-
-IV. Integración y consolidación de las organizaciones de productores cafetaleros como sujetos de crédito;
-
-V. Capacitación de los productores para el uso de tecnologías de alta productividad, conservación de los sistemas y avances en la incorporación de valor agregado a su producto;
-
-VI. Transformar al productor de café en beneficio de los sistemas educativo, de salud y de seguridad social; y
-
-VII. Los productores asociados, cumplirán con las normas oficiales mexicanas e internacionales, en términos de lo dispuesto por la presente Ley.
-
-### CAPÍTULO II. Del Padrón de Productores, Industrializadores, Comercializadores y Exportadores
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 47.
 
-El Registro del Padrón Estatal, es el mecanismo de organización y consulta que permita definir el carácter y conocer el número de productores, cultivo y productividad por superficies georreferenciadas, la capacidad de beneficio húmedo y seco, y la participación en los mercados local, nacional e internacional del café veracruzano, en sus diferentes presentaciones, entre otros parámetros.
+Se deberán realizar visitas de campo, programadas o aleatorias, para mayor confiabilidad de los datos alojados en el Padrón, con el fin de verificar superficie de siembra a través de medición poligonal y georreferenciación; de igual manera se verificará la existencia y cumplimiento de obligaciones de agroindustrias, industrias, comercializadores y otros actores de la cadena agroalimentaria del café; los cuales también serán georreferenciados para mayor certeza.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 48.
 
-El productor de café deberá encontrarse inscrito en el Padrón Estatal de Productores, Industrializadores, Comercializadores y Exportadores de café, para tener derecho a recibir los servicios, los estímulos y apoyos que preste u otorgue el Instituto previstos en esta ley.
+Los datos que proporcionen los actores de la cadena agroalimentaria del café tendrán un alto nivel de confidencialidad, su acceso será limitado y sólo se podrá proporcionar mediante la firma de un convenio específico a instituciones de investigación, universidades, instancias públicas federales y estatales, procurando salvaguardar los derechos de protección de datos personales.
 
-### CAPÍTULO III. Del Establecimiento de los Centros de Acopio
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 49.
 
-El Instituto promoverá el establecimiento de centros de acopio, certificación y comercialización en las regiones cafetaleras, que se encargarán de la operación de entrega-recepción en la compra-venta de café.
+Los datos personales y los datos georreferenciados que se alojen en el Padrón estarán sujetos a lo establecido en la Ley del Sistema Nacional de Estadística e Informática.
 
-### CAPÍTULO VIII. De la Dirección General
+> <small>(ADICIONADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO IV. De la Sociedad Civil Organizada
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 50.
 
-El Instituto promoverá el establecimiento de centros de acopio, certificación y comercialización en las regiones cafetaleras, que se encargarán de la operación de entrega-recepción en la compra-venta de café, los cuales serán manejados por los propios productores en coordinación con la SEDARPA y el Instituto, para ello, el Instituto expedirá las reglas de organización y operación de los Centros de Acopio previstos en este artículo.
+Las organizaciones de productores estatales, regionales o municipales tendrán como objetivos fundamentales:
+
+I. Consolidar la producción para fortalecer su acción en el mercado;
+
+II. Promover la búsqueda de nichos de mercado a fin de obtener mejores precios y seguridad en la colocación del producto, así como participar equitativamente en la distribución del ingreso cafetalero;
+
+III. Uso adecuado de los servicios institucionales de fomento y desarrollo previstos en la Ley Federal de Desarrollo Rural Sustentable;
+
+IV. Acompañamiento para la Integración y consolidación de las organizaciones de productores cafetaleros como sujetos de crédito;
+
+V. Capacitación de los productores para el uso de tecnologías de alta productividad, conservación de los sistemas y avances en la incorporación de valor agregado a su producto; y
+
+VI. Así como los requisitos establecidos para la constitución de personas morales en materia civil, mercantil o mediante cooperativas.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-El Consejo Consultivo del Café del Estado de Veracruz de Ignacio de la Llave es un órgano de apoyo y consulta del Instituto, con carácter institucional, social y honorífico, que estará integrado por el Presidente, un Secretario y cinco Vocales los que no recibirán retribución, compensación o emolumento alguno, y serán seleccionados por la Junta de Gobierno, de entre los sectores público, social, privado y académico, de acuerdo con lo dispuesto en el reglamento interior.
+Los productores podrán asociarse en organismos del sector social de la economía, sociedades o asociaciones civiles y empresas cooperativas o sociedades mercantiles, a su vez pueden estar asociadas a empresas integradoras regionales, consentido productivo y de comercialización de sus productos en toda la cadena de valor.
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 52.
 
-El Consejo Consultivo del Café del Estado de Veracruz de Ignacio de la Llave, emitirá opiniones y recomendaciones sobre las políticas del Instituto y los programas que éste ejecute.
+La SEDARPA establecerá un programa de incentivos, así como de financiamiento a los productores y a las organizaciones con visión agroempresarial con la finalidad de impactar en el desarrollo sostenible y económico de las regiones cafetaleras de Veracruz.
 
-El Director General representará al Instituto, ante el Consejo Consultivo del Café del Estado.
+> <small>(ADICIONADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO IX. Órgano Interno de Vigilancia
+### CAPÍTULO V. De las sanciones
+
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 53.
 
-El Consejo Consultivo del Café del Estado tendrá entre otras las funciones siguientes:
+La SEDARPA, a través del (sic) Dirección de Desarrollo de la Cafeticultura Veracruzana, podrá iniciar una investigación administrativa por violaciones a lo establecido en la presente Ley, dependiendo la gravedad de la falta, así como la reincidencia, la sanción podrá ser desde apercibimiento público hasta determinar el no recibir incentivos o apoyos gubernamentales por determinado tiempo, sin perjuicio de denunciar ante la Fiscalía General del Estado por la posible comisión de delitos.
 
-I. Apoyar a las actividades del Instituto, formulando las recomendaciones y sugerencias tendientes a su mejoramiento;
-
-II. Formular al Director General del Instituto por conducto de su Presidente, las propuestas para la consecución del objeto previsto en el artículo tercero de este decreto;
-
-III. El Presidente del Instituto, previa invitación, podrá participar en las reuniones de la Junta de Gobierno con derecho a voz, pero sin voto;
-
-IV. Solicitar al Director General toda la información que se requiera para el desempeño adecuado de sus funciones; y
-
-V. Las demás que le correspondan en términos de este decreto, las que le atribuya el reglamento interior del Instituto, y demás normatividad que le resulte aplicable.
-
-### CAPÍTULO II. De las Sanciones
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 54.
 
-El incumplimiento a las disposiciones previstas en la presente Ley, será sancionado en términos de las disposiciones legales aplicables.
+Para el establecimiento de las sanciones se atenderá a lo establecido en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Lave (sic).
+
+> <small>(ADICIONADO, G.O. 2 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 55.
+
+Los productores asociados cumplirán con las normas oficiales mexicanas e internacionales, en términos de lo dispuesto por la presente Ley.
 
 T R A N S I T O R I O S
 
@@ -730,3 +786,17 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 870 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO, DESARROLLO SUSTENTABLE, PRODUCCIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DEL CAFÉ VERACRUZANO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Consejo Consultivo aprobará los lineamientos para su funcionamiento en un plazo no mayor a noventa días hábiles, contado a partir de su instalación.
+
+TERCERO. El Ejecutivo del Estado expedirá la reglamentación correspondiente para el funcionamiento administrativo de la Dirección denominada de Desarrollo de la Cafeticultura Veracruzana dentro de la estructura administrativa de la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, en un plazo no mayor a Ciento Ochenta días hábiles.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
