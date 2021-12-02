@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2021-09-13"
+last_updated: "2021-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -2037,31 +2037,43 @@ Para coadyuvar en los fines y funciones de la administración pública municipal
 
 La constitución de las juntas vecinales de mejoras, y demás organismos de participación ciudadana, se apegarán a los tiempos y plazos establecidos en la presente Ley o en su reglamento respectivo. Los que cualquiera que sea el nombre con que se les designe, presentarán propuestas al ayuntamiento para fijar las bases de los planes y programas municipales o modificarlos, en su caso; el cabildo supervisará sus actividades y vigilará, en su caso, el destino de los fondos que manejen.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
-ARTICULO 101 BIS. Las Juntas Vecinales de Mejoras se conformarán y constituirán durante el tercer mes de ejercicio de los ayuntamientos.
+Los ayuntamientos cuidarán que, en los Consejos de Desarrollo Social Municipal, se incluyan a los Representantes Sociales Comunitarios de barrios, colonias populares, comunidades y ejidos.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+Para la integración de los Consejos de Desarrollo Social Municipal, los ayuntamientos deberán contar con la colaboración y coordinación del Consejo Estatal Electoral y de Participación Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+Asimismo, los ayuntamientos deberán expedir el Reglamento para la integración y funcionamiento de los Consejos de Desarrollo Social Municipal, para lo cual el Consejo Estatal Electoral y de Participación Ciudadana emitirá lineamientos de apoyo al respecto, a fin de unificar la metodología de todos los ayuntamientos, para dotar de certeza, legalidad, imparcialidad y objetividad los procedimientos respectivos. Los procesos llevados a cabo sin observar los lineamientos generales emitidos por el Consejo Estatal Electoral y de Participación Ciudadana, se declararán nulos por la autoridad jurisdiccional competente.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+Recibida la propuesta metodológica, el Consejo Estatal Electoral y de Participación Ciudadana, la analizará y emitirá su opinión técnica, en un plazo que no excederá de quince días contados a partir de su recepción, proponiendo a la consideración del ayuntamiento respectivo, las adecuaciones que estime necesarias para dotar de certeza, legalidad, imparcialidad y objetividad, la constitución de los Consejos de Desarrollo Social Municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+La convocatoria para las asambleas constitutivas deberá publicarse un mes antes a la fecha programada para la asamblea que corresponda, en uno de los diarios de mayor circulación del Estado, en el portal de transparencia del municipio, y en sus estrados. Asimismo, deberá ser remitida con la misma antelación, al Consejo Estatal Electoral y de Participación Ciudadana, quien podrá designar observadores. Las asambleas que no cumplan con estos requisitos se considerarán nulas, así como las resoluciones que en ellas se tomen.
+
+ARTICULO 101 BIS. (DEROGADO, P.O. 2 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 102.
 
-Los ayuntamientos cuidarán que en los Consejos de Desarrollo Social Municipal, se incluyan a los Representantes Sociales Comunitarios de barrios, colonias populares, comunidades y ejidos.
+La administración pública municipal deberá constituir, además, las Juntas de Participación Ciudadana, de conformidad con lo que establece la Ley de Juntas de Participación Ciudadana del Estado de San Luis Potosí.
 
-Asimismo, procurarán que en la integración de todos los organismos se incluyan personas de los sectores de mayor representatividad en la población, y que tengan el perfil idóneo para el desempeño de las responsabilidades que se les asigne.
+ARTICULO 102 BIS. (DEROGADO, P.O. 2 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
+ARTICULO 102 TER. (DEROGADO, P.O. 2 DE DICIEMBRE DE 2021)
 
-ARTÍCULO 102 BIS. Para la integración de los organismos a que se refiere este Capítulo, los ayuntamientos deberán contar con la colaboración y coordinación del Consejo Estatal Electoral y de Participación Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes, y se haga cargo de los mismos.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2017)</small>
-
-ARTÍCULO 102 TER. Para el debido cumplimiento de lo dispuesto en el artículo anterior, los ayuntamientos deberán expedir el Reglamento para la integración y funcionamiento de los organismos de participación ciudadana, para lo cual el Consejo Estatal Electoral y de Participación Ciudadana emitirá lineamientos de apoyo al respecto, a fin de unificar la metodología de todos los ayuntamientos, para dotar de certeza, legalidad, imparcialidad y objetividad los procedimientos respectivos. Los procesos llevados a cabo sin observar los lineamientos generales emitidos por el Consejo Estatal Electoral y de Participación Ciudadana, serán nulos.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 103.
 
-Cuando alguno de los representantes de los organismos referidos no cumpla con sus obligaciones, el cabildo deberá sustituirlo llamando al suplente respectivo o, en su defecto, al que resulte electo mediante un nuevo proceso de elección.
+Cuando alguna de las personas representantes de los Consejos de Desarrollo Social Municipal no cumpla con sus obligaciones, el cabildo deberá sustituirla llamando a la suplente respectiva o, en su defecto, a quien resulte electo mediante un nuevo proceso de elección.
 
 ### CAPITULO XIII. De los Organismos Auxiliares Municipales
 
@@ -3380,3 +3392,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0135.- SE EXPIDE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 102 Y 103, ADICIONA AL ARTÍCULO 101, CINCO PÁRRAFOS, ÉSTOS COMO TERCERO A SÉPTIMO Y DEROGA LOS ARTÍCULOS 101 BIS, 102 BIS Y 102 TER DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 68 DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al inicio de la vigencia de la Ley de las Juntas de Participación Ciudadana del Estado de San Luis Potosí, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
