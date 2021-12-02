@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-integracion-y-funcionamiento-de-las-juntas-y-12349"
 country: "mx"
 rank: "ley"
 publication_date: "1958-10-19"
-last_updated: "1958-10-19"
+last_updated: "2021-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY PARA LA INTEGRACION Y FUNCIONAMIENTO DE LAS JUNTAS Y COMITES DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 2 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA INTEGRACION Y FUNCIONAMIENTO DE LAS JUNTAS Y COMITES DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de San Luis Potosí, el 19 de octubre de 1958.
 
@@ -122,3 +124,23 @@ MANUEL ALVAREZ
 El Secretario General de Gobierno,
 
 Lic. AGUSTIN OLIVO MONSIVAIS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley que se expide con este Decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, los ayuntamientos del Estado deberán emitir el Reglamento de la Ley de las Juntas de Participación Ciudadana del Estado de San Luis Potosí.
+
+TERCERO. A la entrada en vigor de este Decreto, se abroga la Ley para la Integración y Funcionamiento de las Juntas y Comités de Mejoramiento Moral, Cívico y Material, publicada como Decreto Legislativo número 48, el diecinueve de octubre de mil novecientos cincuenta y ocho.
+
+CUARTO. Para la elección de las juntas (sic) participación del proceso electivo 2021-2024, los ayuntamientos correspondientes y el CEEPAC, tendrán de plazo para emitir la convocatoria, del uno de diciembre de dos mil veintiuno al veintiocho de febrero de dos mil veintidós, para la integración total de las Juntas por única ocasión. Las subsecuentes elecciones se regirán por los plazos establecidos en el artículo 13, de esta Ley.
+
+QUINTO. Los respectivos ayuntamientos erogarán los recursos necesarios, presupuestados para el ejercicio fiscal 2021 o 2022, para la elección de las juntas de participación del proceso electivo 2021-2024; y para los posteriores, se aplicará lo establecido por esta Ley.
+
+SEXTO. El CEEPAC, emitirá los lineamientos para regular las elecciones de las Juntas de Participación Ciudadana, dentro de los treinta días siguientes a la publicación del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
