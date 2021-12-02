@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2021-11-30"
+last_updated: "2021-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -881,6 +881,10 @@ XXIII-B.- Elegir, reelegir y destituir del cargo, a los comisionados del Institu
 
 XXIII-C.- Elegir y destituir del encargo, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos de control de los organismos autónomos previstos en el Capítulo I del Título Tercero A de esta Constitución;
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+XXIII-D. Elegir de entre la terna que envíe el Titular del Poder Ejecutivo, al titular del Centro de Conciliación Laboral del Estado Michoacán de Ocampo, por el voto de las dos terceras partes de los diputados presentes; así como destituirlo por la misma mayoría calificada;
+
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
 XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
@@ -1191,13 +1195,17 @@ XIX.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en lo
 
 XX.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
-XXI.- Consultar a los ciudadanos, a través de plebiscito, sobre actos o decisiones, cuando lo considere trascendental para la vida pública y el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán someterse a plebiscito, los actos o decisiones relativos a materia tributaria o fiscal, de Egresos, régimen interno de la administración pública del Estado y los demás que determine la ley; y,
+XXI.- Consultar a los ciudadanos, a través de plebiscito, sobre actos o decisiones, cuando lo considere trascendental para la vida pública y el interés social del Estado, conforme a los procedimientos y formalidades que establezca la Ley de la materia. No podrán someterse a plebiscito, los actos o decisiones relativos a materia tributaria o Fiscal, de Egresos, régimen interno de la Administración Pública del Estado y los demás que determine la Ley;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2021)</small>
 
-XXII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
+XXII.- Presentar terna al Congreso del Estado, para la elección del titular del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+XXIII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1291,11 +1299,11 @@ Los titulares de las dependencias serán responsables con el Gobernador en todos
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 67.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, en los menores de materia civil, en los comunales, en los de justicia penal para adolescentes y en los de ejecución de sanciones penales.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, en los laborales, en los menores de materia civil, en los comunales, en los de justicia penal para adolescentes y en los de ejecución de sanciones penales.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1503,11 +1511,13 @@ Cuando la falta exceda el plazo señalado en el artículo anterior, se hará una
 
 Corresponde al Supremo Tribunal de Justicia del Estado:
 
-I.- Conocer en Pleno:
+I. Conocer en Pleno:
 
 a).- De las cuestiones de competencia y de la acumulación entre los jueces de cuantía menor de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces de cuantía menor de otros distritos;
 
-b).- De los negocios civiles y penales comunes, como tribunal de revisión;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+b).- De los negocios civiles, penales comunes y laborales, como tribunal de revisión;
 
 c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;
 
@@ -1517,17 +1527,23 @@ e) De la expedición y modificación de su reglamento interior;
 
 f) De la aprobación del proyecto de presupuesto que someta a su consideración el Consejo del Poder Judicial;
 
-g) De la autorización a los jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación y del Distrito Federal y con las juntas de Conciliación y Arbitraje, federal y local; y,
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
-h) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva; y,
+g) De la autorización a los jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación y de la Ciudad de México; y,
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+h) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva;
 
 II.- Conocer en Salas:
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
-a) De los negocios civiles, penales y de jurisdicción concurrente como tribunal de apelación y casación;
+a) De los negocios civiles, penales, laborales y de jurisdicción concurrente como tribunal de apelación y casación;
 
-b) De los recursos de queja en negocios civiles y penales; y,
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+b) De los recursos de queja en negocios civiles, penales y laborales; y,
 
 c) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
 
@@ -1554,6 +1570,14 @@ La administración de justicia en primera instancia estará a cargo de jueces. L
 En materia penal la primera instancia corresponde, además, a los juzgados de control de garantías y tribunales de juicio oral; los que el Consejo del Poder Judicial podrá acordar que sean itinerantes, cuando así se requiera, en todo el Estado.
 
 También son jueces de primera instancia los especializados en justicia penal para adolescentes y los de ejecución de sanciones.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 86 Bis.
+
+La resolución de las diferencias o los conflictos entre trabajadores y patrones que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación, estará a cargo de los juzgados en materia laboral del Poder Judicial del Estado.
+
+La Ley determinará el número de éstos y su residencia; sus integrantes deberán de contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1585,7 +1609,9 @@ IV.- No haber sido sentenciado por delito doloso.
 
 Son atribuciones de los tribunales y jueces de primera instancia:
 
-I. Conocer en primera instancia de los negocios civiles, penales y de jurisdicción concurrente de su región o distrito judicial, según corresponda;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+I. Conocer en primera instancia de los negocios civiles, penales, laborales y de jurisdicción concurrente de su región o distrito judicial, según corresponda;
 
 II. Conocer de las cuestiones de competencia y de acumulación que se susciten entre los jueces menores de materia civil del mismo distrito;
 
@@ -2712,6 +2738,28 @@ El Gobernador cuidará con todo empeño de que sean obedecidas las prescripcione
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 Las relaciones de trabajo entre el Estado y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+La función conciliatoria en materia laboral estará a cargo del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, como organismo público descentralizado, especializado e imparcial, el cual contará con personalidad jurídica y patrimonio propio, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinarán en la Ley que al efecto se expida.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+El titular del organismo descentralizado a que se refiere el párrafo anterior, durará en su encargo por un período de seis años y podrá ser reelecto por una sola ocasión; sólo podrá ser removido por causa grave en los términos del Título Cuarto de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 148 Bis.
+
+La designación del titular del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, será con previa comparecencia de las personas propuestas por el Titular del Poder Ejecutivo del Estado ante el Congreso del Estado. A falta absoluta, el sustituto será nombrado para concluir el periodo respectivo.
+
+La designación se hará dentro del improrrogable plazo de treinta días. Si el Congreso del Estado no resolviere dentro de dicho plazo ocupará el cargo aquél que, dentro de dicha terna, designe el Titular del Ejecutivo Estatal.
+
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Titular del Poder Ejecutivo Estatal someterá una nueva, en los términos que marca la Ley. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe (sic) Titular del Poder Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -4006,3 +4054,21 @@ P.O. 30 DE NOVIEMBRE DE 2021.
 PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 586 POR EL QUE "SE REFORMAN LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 60; EL ARTÍCULO 67; LOS INCISOS B) Y G) DE LA FRACCIÓN I Y LOS INCISOS A) Y B) DE LA FRACCIÓN II DEL ARTÍCULO 83; LA FRACCIÓN I DEL ARTÍCULO 89; SE ADICIONAN LA FRACCIÓN XXIII-D AL ARTÍCULO 44; LA FRACCIÓN XXIII AL ARTÍCULO 60; EL ARTÍCULO 86 BIS; LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 148 Y EL ARTÍCULO 148 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Concluido el procedimiento de reforma Constitucional mandatado por el artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+CUARTO. Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto, el Congreso del Estado deberá adecuar la normativa vigente para la organización y funcionamiento de las leyes que regularán la organización y el funcionamiento de los juzgados en materia laboral del Poder Judicial del Estado; y, se expedirá la Ley Orgánica del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, para dar cumplimiento con el Artículo Segundo Transitorio del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral publicada en el Diario Oficial de la Federación en fecha 24 de febrero de 2017.
+
+QUINTO. Una vez entrado en vigor el presente Decreto, se realizarán en su caso, los ajustes al Presupuesto de Egresos del Estado, tendientes a la implementación, infraestructura y capacitación de la reforma al Sistema de Justicia Laboral en el Estado.
+
+SEXTO. En tanto se instituyan e inicien operaciones los juzgados laborales y el Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, la Junta Local de Conciliación y Arbitraje y, en su caso, la Secretaría de Gobierno, continuarán atendiendo las diferencias o conflictos que se presenten en materia laboral.
+
+Los asuntos que estuvieren en trámite al momento de iniciar sus funciones los juzgados o tribunales y el Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
