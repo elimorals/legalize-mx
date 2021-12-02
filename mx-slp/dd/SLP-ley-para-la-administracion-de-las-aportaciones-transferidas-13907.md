@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2019-08-06"
+last_updated: "2021-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -673,11 +673,11 @@ Los Asesores Técnicos sólo tendrán participación con voz pero no con voto. L
 
 El Consejo electo se constituirá formalmente en asamblea con mayoría simple, durante el cuarto mes de ejercicio de funciones del nuevo ayuntamiento, lo cual se hará constar en un acta; debiendo presentar su Reglamento Interno para su aprobación en la primera asamblea que celebre.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 68.
 
-Los presidentes municipales, por acuerdo de cabildo, emitirán convocatoria para la elección de los integrantes del Consejo de Desarrollo Social Municipal, mediante asambleas que para ese efecto se celebren. La convocatoria deberá expedirse cuando menos un mes antes de la constitución formal del Consejo, la que deberá celebrarse durante el cuarto mes de ejercicio de los ayuntamientos.
+Los presidentes municipales, por acuerdo de cabildo, emitirán convocatoria para la elección de los integrantes del Consejo de Desarrollo Social Municipal, mediante asambleas que para ese efecto se celebren. La convocatoria deberá expedirse cuando menos un mes antes de la constitución formal del Consejo, la que deberá celebrarse durante el sexto mes de ejercicio de los ayuntamientos.
 
 ###### ARTICULO 69.
 
@@ -1018,3 +1018,11 @@ P.O. 6 DE AGOSTO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0135.- SE EXPIDE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA (SIC) LOS ARTÍCULOS 102 Y 103, ADICIONA AL ARTÍCULO 101 CINCO PÁRRAFOS, ÉSTOS COMO TERCERO A SÉPTIMO Y DEROGA LOS ARTÍCULOS 101 BIS, 102 BIS Y 102 TER DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 68 DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al inicio de la vigencia de la Ley de las Juntas de Participación Ciudadana del Estado de San Luis Potosí, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
