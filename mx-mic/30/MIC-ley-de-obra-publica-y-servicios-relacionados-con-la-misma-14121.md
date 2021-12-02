@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2017-07-20"
+last_updated: "2021-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -121,7 +121,9 @@ V. Avance financiero: El porcentaje de los trabajos pagados respecto del importe
 
 VI. Avance físico: El porcentaje de los trabajos ejecutados y verificados por el residente, en relación a los trabajos contemplados en el programa de ejecución convenido;
 
-VII. Ayuntamientos: Los órganos de la administración pública de los municipios del Estado;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+VII. Ayuntamientos: Los órganos de la administración pública de los municipios del Estado, así como los Concejos Municipales o Autoridades Tradicionales en términos de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo;
 
 VIII. Bitácora: Documento técnico legal que se utiliza para registrar los hechos, actos, antecedentes, pormenores e incidentes en la ejecución de la obra pública, además de ser el medio de comunicación entre las partes que formalizan los contratos;
 
@@ -130,6 +132,10 @@ IX. Cámara: La Asociación Civil que agrupa personas físicas y morales con int
 X. Caso fortuito o fuerza mayor: El acontecimiento proveniente de la naturaleza o del hombre caracterizado por ser imprevisible, inevitable, irresistible, insuperable, ajeno a la voluntad de las partes y que imposibilita el cumplimiento de todas o alguna de las obligaciones previstas en el contrato de obras públicas o servicios relacionados con las mismas;
 
 XI. Comité: El Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública y Servicios Relacionados;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+XI BIS. Comité vecinal de obra pública por cooperación: Es un órgano de representación ciudadana, sin intermediarios, conformado por vecinos de una colonia, fraccionamiento, tenencia, comunidad rural, encargaturas del orden, comunidad indígena, autoridades tradicionales, concejo comunal, entre otros, pertenecientes a un Municipio, con el objeto de administrar, trasparentar y vigilar la aplicación de los recursos económicos y materiales que aporten los beneficiados para la ejecución de la obra pública por cooperación, conforme a la normatividad aplicable;
 
 XII. Contratista: La persona física o moral que celebre contratos de obra pública y de servicios relacionados con la misma en los términos de la presente Ley;
 
@@ -155,6 +161,10 @@ XXII. Licitante: La persona que participe en cualquier procedimiento de licitaci
 
 XXIII. Obras públicas asociadas a proyectos de infraestructura: Las obras que tienen por objeto la construcción, ampliación o modificación de bienes inmuebles destinados directamente a la prestación de servicios de comunicaciones, transportes, hidráulico, medio ambiente, turístico, educación, salud y energético;
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+XXIII BIS. Obras públicas por cooperación: Las que se realicen con la participación del comité vecinal de obra pública por cooperación, mediante convenio con las dependencias y entidades del Poder Ejecutivo del Estado, así como ayuntamientos y entidades paramunicipales;
+
 XXIV. Presupuesto de obra o de servicio: El recurso estimado que la dependencia o entidad determina para ejecutar los trabajos en el que se desglosa el listado de conceptos de trabajo o actividades, unidades de medida, cantidades de trabajo y sus precios;
 
 XXV. Proyecto arquitectónico: El que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
@@ -162,6 +172,10 @@ XXV. Proyecto arquitectónico: El que define la forma, estilo, distribución y e
 XXVI. Proyecto ejecutivo: El conjunto de planos y documentos que conforman los proyectos arquitectónico y de ingeniería de una obra, el catálogo de conceptos, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
 
 XXVII. Proyecto de ingeniería: El que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales y particulares aplicables, así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+XXVII BIS. Reglas de operación: Son el conjunto de disposiciones que, con apego a esta Ley, elabora la Secretaría en coordinación con la Secretaría de Contraloría, para establecer la forma de operar el programa;
 
 XXVIII. Residencia de Supervisión: La facultada por las Dependencias, por las áreas administrativas, por las entidades paraestatales, ayuntamientos y entidades paramunicipales y/o cualquier área o dependencia o entidad de cualquiera de los poderes a que se refiere la presente Ley;
 
@@ -518,6 +532,26 @@ Como invitado permanente, el titular de la Cámara de la delegación Michoacán,
 Además con el objeto de garantizar la participación ciudadana en su conformación, se deberá invitar a los representantes de las Cámaras que correspondan, asociaciones, colegios de profesionistas y ciudadanos reconocidos por la comunidad para verificar la transparencia de los procedimientos de licitación y adjudicación, sólo con derecho a voz.
 
 La organización, funcionamiento e intervención del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública y Servicios Relacionados, deberá apegarse a lo dispuesto en el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 23 Quater.
+
+La Secretaría será la responsable de elaborar el expediente técnico, ejecutar y supervisar las obras públicas por cooperación, de acuerdo a lo establecido en la presente Ley, el convenio respectivo y las Reglas de Operación.
+
+Las obras públicas por cooperación, se realizarán a iniciativa y a solicitud de los beneficiarios, quienes posteriormente integrarán el comité vecinal de obra pública por cooperación a través de petición presentada por escrito a la Secretaría y al Ayuntamiento correspondiente.
+
+El Comité vecinal de obra pública por cooperación, estará integrado atendiendo el principio de perspectiva de género y será conformado de la siguiente manera:
+
+I. Una o un presidente;
+
+II. Una o un secretario;
+
+III. Una o un tesorero; y,
+
+IV. Dos vocales.
+
+El funcionamiento y atribuciones de los integrantes del comité vecinal de obras públicas por cooperación, se establecerá en las Reglas de Operación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -1468,3 +1502,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase el presente Decreto al Gobernador del Estado para su conocimiento y seguimiento.
 
 TERCERO. Los ayuntamientos y gobiernos ciudadanos en el ámbito de su competencia, tendrán un plazo de noventa días para elaborar o reformar en su caso, sus reglamentos en la materia, para dar cumplimiento con lo establecido en el presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 09 POR EL QUE "SE REFORMA LA FRACCIÓN VII Y SE ADICIONAN LAS FRACCIONES XI BIS, XXIII BIS Y XXVII BIS AL ARTÍCULO 3°; Y, SE ADICIONA EL ARTÍCULO 23 QUATER A LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría en un término no mayor de sesenta días hábiles, elaborará y publicará por conducto del Ejecutivo del Estado de Michoacán, las reglas de operación de las obras públicas por cooperación.
