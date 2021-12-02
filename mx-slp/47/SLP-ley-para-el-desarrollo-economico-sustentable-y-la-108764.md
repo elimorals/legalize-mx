@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2021-02-27"
+last_updated: "2021-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -128,6 +128,12 @@ La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, a t
 La Secretaría, en coordinación con las secretarías de, Desarrollo Urbano, Vivienda y Obras Públicas; y Trabajo y Previsión Social, determinarán, en el ámbito de sus competencias, las zonas de fomento económico, las cuales obedecerán a la planeación del ordenamiento territorial y desarrollo urbano enmarcados en la Ley de Desarrollo Urbano, y los planes, Estatal, y municipales de Desarrollo Urbano, con el propósito de impulsar programas de desarrollo económico, proyectos de inversión y, en general, actividades económicas.
 
 ### CAPÍTULO II. Del Programa General de Desarrollo Económico Sustentable y la Competitividad
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 6º.
+
+La política para el desarrollo económico y la competitividad del Estado, así como el Programa General de Desarrollo Económico Sustentable y la Competitividad, tendrán una visión de largo plazo, ponderando los objetivos, lineamientos y estrategias establecidos en el Plan Estatal de Desarrollo, y se constituirán dentro de las disposiciones y principios de orden ambiental, laboral, y social, así como de la Agenda para el Desarrollo Sostenible y los instrumentos internacionales.
 
 ###### ARTÍCULO 6°.
 
@@ -1024,3 +1030,11 @@ P.O. 27 DE FEBRERO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0134.- SE REFORMA EL ARTÍCULO 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
