@@ -4,7 +4,7 @@ identifier: "QUE-ley-forestal-sustentable-del-estado-de-queretaro-69510"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2021-10-08"
+last_updated: "2021-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY FORESTAL SUSTENTABLE DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO AMBIENTAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. 3 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY FORESTAL SUSTENTABLE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -1310,3 +1310,33 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 3 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO AMBIENTAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. El presente Código entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a este Código.
+
+Artículo Tercero. Se abroga la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 55, de fecha 31 de julio de 2009.
+
+Artículo Cuarto. Se abroga la Ley Forestal Sustentable del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 55, de fecha 31 de julio de 2009.
+
+Artículo Quinto. Se abroga la Ley de Biodiversidad del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 41, de fecha 15 de julio de 2016.
+
+Artículo Sexto. Se abroga la Ley de Protección Animal del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", número 53, de fecha 24 de julio de 2009.
+
+Artículo Séptimo. Los asuntos que estén en trámite al momento de entrada en vigor del presente Código seguirán substanciándose de acuerdo con las leyes con que se hubiere iniciado el trámite.
+
+Artículo Octavo. Las autorizaciones que se hubieren expedido por las autoridades competentes, a la fecha de entrada en vigor de este Código, continuarán vigentes en los términos y condiciones en que fueron expedidas.
+
+Artículo Noveno. El Poder Ejecutivo del Estado deberá expedir los Reglamentos del presente Código que sean necesarios para regular de manera específica cada materia.
+
+Artículo Décimo. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases y disposiciones que señala el presente Código.
+
+Artículo Décimo Primero. Las guías de impacto ambiental; de estudio de riesgo y listados de actividades riesgosas que estén vigentes al momento de entrar en vigor el presente Código seguirán siendo aplicadas hasta que se publiquen las derivadas de este Código.
+
+Artículo Décimo Segundo. La Secretaría de Desarrollo Sustentable deberá implementar la plataforma electrónica referida en el artículo 115, en un plazo de 180 días.
+
+Artículo Décimo Tercero. A partir de la entrada en vigor del presente Código, la Secretaría de Desarrollo Sustentable y la Secretaría de Desarrollo Agropecuario, ambas del Poder Ejecutivo del Estado de Querétaro, tendrán un plazo de 90 días naturales para llevar a cabo el traslado programado de los recursos humanos, financieros y materiales, así como de la estructura orgánica, que actualmente atiende los asuntos y trámites en materia forestal, respetando los derechos laborales de los servidores públicos.
