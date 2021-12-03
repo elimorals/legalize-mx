@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2021-06-02"
+last_updated: "2021-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1631,7 +1631,7 @@ ARTICULO 159 BIS.- El que para descubrir los secretos o vulnerar la intimidad de
 
 ### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO IV. DEL ACOSO Y HOSTIGAMIENTO SEXUAL
 
@@ -1639,7 +1639,9 @@ ARTICULO 159 BIS.- El que para descubrir los secretos o vulnerar la intimidad de
 
 ARTICULO 167 BIS.- Comete el delito de acoso sexual la persona que con fines sexuales para sí o para un tercero, asedie a cualquier persona, o solicite favores de naturaleza sexual; al responsable se le impondrá pena de 1 a 3 años de prisión y de 100 a 600 días multa. Este delito se perseguirá por querella.
 
-Si el sujeto pasivo fuera menor de 18 años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena se duplicará y el delito se perseguirá de oficio.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2021)</small>
+
+Si el sujeto pasivo fuera menor de 18 años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena será de 2 años y 6 meses a 8 años de prisión y de 270 a 800 días multa y, además, el delito se perseguirá de oficio.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
@@ -1647,7 +1649,9 @@ ARTICULO 167 TER.- Comete el delito de hostigamiento sexual la persona que con f
 
 El delito previsto en este artículo se perseguirá por querella.
 
-Si el sujeto pasivo fuera menor de 18 años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena se duplicará y el delito se perseguirá de oficio.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2021)</small>
+
+Si el sujeto pasivo fuera menor de 18 años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena será de 5 años y 4 meses a 10 años de prisión y de 530 a 2100 días multa y, además el delito se perseguirá de oficio.
 
 Cuando el sujeto activo sea servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social, y utilice los medios o circunstancias que el encargo le proporcione, el delito se perseguirá de oficio, y además de la pena que corresponda, se le destituirá de su cargo y se le inhabilitará para ocupar cualquier otro en el sector público hasta por dos años; en caso de reincidencia, la inhabilitación será definitiva.
 
@@ -1687,11 +1691,11 @@ Se entiende por cópula, la introducción del órgano sexual masculino en el cue
 
 Se impondrán las mismas penas señaladas en este artículo al que introduzca por la vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 161.
 
-Se equipara a la violación y se sancionará con pena de 12 a 30 años de prisión al que:
+Se equipará a la violación y se sancionará con pena de 16 a 40 años de prisión al que:
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
 
@@ -1735,11 +1739,11 @@ Al que sin el consentimiento de una persona y sin el propósito de llegar a la c
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 166.
 
-Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de catorce años de edad o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la obligue a ejecutarlos o a observarlos, ya sea de forma directa o por cualquier otro medio, se le impondrá prisión de 4 a 8 años.
+Al que, sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de catorce años de edad o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la obligue a ejecutarlos o a observarlos, ya sea de forma directa o por cualquier otro medio, se le impondrá prisión de 5 años 4 meses a 10 años.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1769,7 +1773,7 @@ Además del aumento de la pena, el culpable perderá la patria potestad o la tut
 
 ###### ARTICULO 167.
 
-Al que tenga cópula con persona mayor de 14 años y menor de 18 años, obteniendo su consentimiento por medio de seducción o engaño, se le aplicará de 4 meses a 6 años de prisión.
+Al que tenga cópula con persona mayor de 14 años y menor de 18 años, obteniendo su consentimiento por medio de seducción o engaño, se le aplicará de 1 año a 8 años de prisión.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
@@ -4672,3 +4676,11 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 3 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
