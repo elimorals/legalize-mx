@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-374
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-20"
-last_updated: "2021-06-02"
+last_updated: "2021-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 3 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga", el 20 de febrero de 2004.
 
@@ -1452,3 +1452,21 @@ Se derogan todas las disposiciones de igual o menor jerarquía que contravengan 
 ###### ARTÍCULO TERCERO.
 
 Aprobado el presente dictamen, emítase el proyecto de Ley correspondiente y envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 3 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Ley.
+
+Artículo Tercero. Se abroga la Ley de Prevención y Gestión Integral de Residuos del Estado de Querétaro, publicada en La Sombra de Arteaga, Periódico Oficial del Gobierno del Estado de Querétaro, de fecha 20 de febrero de 2004.
+
+Artículo Cuarto. Los asuntos que estén en trámite al momento de entrada en vigor de la presente Ley, seguirán substanciándose de acuerdo con las normas con que se hubiere iniciado el trámite.
+
+Artículo Quinto. Las autorizaciones que se hubieren expedido por las autoridades competentes, a la fecha de entrada en vigor de esta Ley, continuarán vigentes en los términos y condiciones en que fueron expedidas.
+
+Artículo Sexto. El Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley.
+
+Artículo Séptimo. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases y disposiciones que señala la presente Ley.
