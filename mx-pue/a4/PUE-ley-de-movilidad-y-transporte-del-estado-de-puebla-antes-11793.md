@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2021-11-04"
+last_updated: "2021-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -2820,3 +2820,23 @@ P.O. 4 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Movilidad y Transporte del Estado de Puebla publicada en el Periódico Oficial de fecha dieciocho de marzo de mil novecientos noventa y ocho.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+CUARTO. El Gobernador del Estado expedirá el reglamento de la presente Ley a más tardar dentro de los ciento ochenta días siguientes al de su entrada en vigor. Los municipios expedirán dentro del mismo plazo las disposiciones jurídicas municipales necesarias para regular las materias de su competencia previstas en la presente Ley.
+
+QUINTO. Todos los procedimientos y recursos que se hubieren iniciado bajo la vigencia de la Ley de Movilidad y Transporte del Estado de Puebla que se abroga, se tramitarán, substanciarán y resolverán conforme a las disposiciones de dicha Ley.
+
+Quien haya iniciado algún trámite y no ha realizado el pago del derecho por el servicio correspondiente en esta materia, a la entrada en vigor de la presente Ley, se sujetará a lo dispuesto en el presente ordenamiento.
+
+SEXTO. Los permisos para servicios de transporte complementarios vigentes al momento de la expedición de la presente ley, serán considerados como permisos para servicio público de transporte de pasajeros en la modalidad de transporte masivo.
+
+SÉPTIMO. Las erogaciones que deriven de la aplicación de esta Ley se sujetarán a la suficiencia presupuestaria que apruebe el Congreso del Estado.
