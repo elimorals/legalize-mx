@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-11-20"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -479,6 +479,8 @@ Si el día señalado para la instalación, el Ayuntamiento entrante no se presen
 
 ### CAPÍTULO II. DE LA COMPETENCIA DEL AYUNTAMIENTO
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 4 DE DICIEMBRE DE 2021, PÁGINA 6.]</small>
+
 ###### ARTÍCULO 43.
 
 Son atribuciones del Ayuntamiento:
@@ -533,6 +535,10 @@ XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los progr
 
 Los programas de obras públicas a que hace referencia la presente ley, tratándose de instalaciones públicas e infraestructura urbana deberán asegurar la accesibilidad, evacuación, y libre tránsito, para todas las personas con discapacidad, para ello deberán cumplir con las normas de diseño y de señalización que contengan, asimismo, se deberá de proponer las adecuaciones tanto a las instalaciones públicas como infraestructura urbana existente, a efecto de que cubran las necesidades de las personas con discapacidad.
 
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+XV Bis.- Elaborar y contribuir en la implementación del programa para el fomento del desarrollo económico municipal, así como constituir la creación del Consejo Municipal Consultivo de Fomento del Desarrollo Económico, en términos de los artículos 6 y 7 de la Ley para el Fomento del Desarrollo Económico del Estado de Oaxaca.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2021)</small>
 
 XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, así como los planes en materia de movilidad y seguridad vial y los mecanismos que se requieran para la adecuada conducción del mismo, la creación de zonas territoriales, de reserva ecológica y los de alta productividad agrícola, previo dictamen de la autoridad competente;
@@ -576,6 +582,10 @@ XXI.- Elaborar y presentar ante el Congreso del Estado, a más tardar el último
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
 XXII. Presentar por conducto del Presidente Municipal al Órgano Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública del año anterior, a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos establecidos legalmente. Asimismo, entregar los informes y demás datos que les sean solicitados de conformidad con lo establecido en las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Con la finalidad de que los Ayuntamientos den cumplimiento a los principios de Racionalidad, Austeridad y Disciplina del Gasto Público Municipal, deberán de celebrar convenios de coordinación, con el Órgano Superior de Fiscalización del Estado de Oaxaca, para la capacitación en el manejo de la Cuenta Pública Municipal, el Ayuntamiento establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y eficiente a su personal.
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
@@ -827,67 +837,39 @@ LXXXIV.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalizació
 
 LXXXV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-LXXXVI.- Crear la Instancia Municipal de las Mujeres, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
+LXXXVI.- Crear la Procuraduría Municipal de los Derechos de Niñas, Niños y Adolescentes como un órgano Autónomo, Independiente y Descentralizado, con sus respectivos equipos Multidisciplinarios y Patrimonio Propio para estar en condiciones de ser garantes del interés superior del menor de edad.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-Para el adecuado funcionamiento de las Instancias Municipales de la Mujer, el ayuntamiento deberá aprobar los reglamentos o manuales de operación y organización correspondientes, en los términos previstos en la fracción I Bis del presente artículo.
+LXXXVII.- Crear la Instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+LXXXVIII.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos para el Estado de Oaxaca.
 
-LXXXVII.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos para el Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXVI], P.O. 2 DE NOVIEMBRE DE 2019)</small>
+LXXXIX.- En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
 
-LXXXVIII.- En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+XC.- Instalar viveros municipales dentro de su jurisdicción, para producir plantas nativas de la zona, para contribuir a la reforestación en su región y promover la forestación entre la población.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-Para el fortalecimiento de la cultura indígena del Estado de Oaxaca, los municipios y las agencias municipales podrán crear y organizar el Instituto Comunitario Municipal de la Lengua Indígena que corresponda a su particular comunidad, para la preservación, enseñanza, hablada y escrita de sus lenguas originarias o nativas.
+XCI.- Inscribir a sus trabajadores en alguno de los regímenes de seguridad social o en su defeco (sic) suscribir nuevo convenio con los Servicios de Salud del Estado; a través de la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca para acceder a la seguridad social;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-LXXXIX.- Instalar viveros municipales dentro de su jurisdicción, para producir plantas nativas de la zona, para contribuir a la reforestación en su región y promover la forestación entre la población.
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XC. Inscribir a sus trabajadores en alguno de los regímenes de seguridad social o en su defecto suscribir nuevo convenio con los Servicios de Salud del Estado; a través de la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca para acceder a la seguridad social;
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2021)</small>
-
-XCI.- Promover, proteger y apoyar la lactancia materna y las prácticas óptimas de alimentación de lactantes y niños pequeños conforme a lo establecido en la Ley de Fomento a la Lactancia Materna en el Estado de Oaxaca.
+XCII.- Promover, proteger y apoyar la lactancia materna y las prácticas óptimas de alimentación de lactantes y niños pequeños conforme a lo establecido en la Ley de Fomento a la Lactancia Materna en el Estado de Oaxaca;
 
 Así mismo deberán realizar acciones tendientes a erradicar la violencia y discriminación hacia las mujeres que la realicen en vías y espacios públicos;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+XCIII.- Reglamentar para que, en los centros urbanos de los municipios del estado, la carga y descarga de bienes y mercancías sea con horarios establecidos y con puntos establecidos para el ascenso y descenso de pasajeros;
 
-XCII.- Reglamentar para que, en los centros urbanos de los municipios del estado, la carga y descarga de bienes y mercancías sea con horarios establecidos y con puntos establecidos para el ascenso y descenso de pasajeros;
+XCIV.- Establecer las medidas de control y las sanciones para prevenir y vigilar la contaminación visual, así como la originada por ruido, por malos olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas, así como a la población, al ambiente o los elementos naturales;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+XCV.- Aprobar y ejecutar, la propuesta educativa de carácter regional y contextualizada, como el proyecto educativo y el reconocimiento adicional para los trabajadores de la educación en términos de la Ley General del sistema para la carrera de las maestras y maestros; sin que esto implique una relación laboral o facultades laborales sobre los trabajadores del Instituto Estatal de Educación Pública de Oaxaca.
 
-XCIII.- Establecer las medidas de control y las sanciones para prevenir y vigilar la contaminación visual, así como la originada por ruido, por malos olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas, así como a la población, al ambiente o los elementos naturales;
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
-
-XCIV.- Aprobar y ejecutar, la propuesta educativa de carácter regional y contextualizada, como el proyecto educativo y el reconocimiento adicional para los trabajadores de la educación en términos de la Ley General del sistema para la carrera de las maestras y maestros; sin que esto implique una relación laboral o facultades laborales sobre los trabajadores del Instituto Estatal de Educación Pública de Oaxaca.
-
-> <small>(REFORMADA Y REUBICADA, P.O. 5 DE OCTUBRE DE 2021)</small>
-
-XCV.- Las demás que les señalen las leyes y reglamentos municipales.
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
-
-En virtud de dotar de mejor gestión ambiental y social el Sector de Agua y Saneamiento del Estado de Oaxaca, es preciso que el Municipio trabaje en conjunto con las entidades y dependencias del Gobierno del Estado de Oaxaca, así como de quienes intervienen en la obra pública
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
-
-Para la mejor gestión ambiental y social del Sector de Agua y Saneamiento del Estado de Oaxaca, los Municipios serán los encargados de expedir los permisos de construcción acorde al plan Sectorial de Agua y Saneamiento del Gobierno del Estado de Oaxaca.
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
-
-Podrán celebrar contratos de crédito basado en licitación de contratos financiados, conforme al procedimiento señalado por la legislación vigente en materia de adquisiciones federal y estatal.
+XCVI.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -1521,13 +1503,19 @@ Tratándose de solicitudes de expedición de licencias para el funcionamiento de
 
 Cuando no se cuente con la autorización de la Comisión antes citada, se negará la expedición de licencia, además de notificar de lo anterior a la Comisión Nacional Bancaria y de Valores para los efectos legales que correspondan.
 
-XX.- Expedir licencias a establecimientos que expendan bebidas alcohólicas, las que de concederse tendrán siempre el carácter de temporales, previa autorización del Cabildo y con apego a la Ley Estatal de Salud;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+XX.- Otorgar licencias a establecimientos que expendan bebidas alcohólicas, las que de concederse tendrán siempre el carácter de temporales, previa autorización del Cabildo, con apego a la Ley Estatal de Salud.
+
+Para efectos de la fracción anterior, el establecimiento deberá realizar campañas preventivas para evitar el abuso del consumo de bebidas alcohólicas, por lo menos dos veces al año.
 
 XXI.- Resolver sobre las peticiones de los particulares en materia de permisos para el aprovechamiento y comercio en las vías públicas, con aprobación del Cabildo, las que de concederse, tendrán siempre el carácter de temporales y revocables y no serán gratuitas;
 
 XXII.- Proponer al Ayuntamiento al Concejal que deba sustituirlo en sus ausencias no mayores de quince días, o en las sesiones ordinarias que le encomiende;
 
-XXIII.- Crear en el primer año de su gestión administrativa un organismo que se denominará Comité Municipal del Sistema para el Desarrollo Integral de la Familia, y en las Agencias Municipales se denominará Subcomité Municipal del Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+XXIII.- Crear en el primer año de su gestión administrativa un organismo que se denominará Comité Municipal del Sistema para el Desarrollo Integral de la Familia, así como la implementación de las Procuradurías Municipales y sus equipos Multidisciplinarios y en las Agencias Municipales se denominará Subcomité Municipal del Sistema para el Desarrollo Integral de la Familia;
 
 XXIV.- Visitar periódicamente las Agencias Municipales y de Policía y todos los demás centros de población urbanos, suburbanos y de naturaleza agraria que conformen el territorio municipal, con el objeto de verificar la eficaz prestación de los servicios públicos municipales y recibir las demandas de la población, para proponer al Cabildo las medidas de solución conducentes;
 
@@ -2773,15 +2761,19 @@ II.- Que no contravengan o invadan disposiciones o competencias federales y esta
 
 III.- Que tengan como propósito fundamental la seguridad, el bienestar y la tranquilidad de la población, el equilibrio ecológico y el cuidado del medio ambiente;
 
-IV.- Que su aplicación fortalezca al municipio libre;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-V.- Que en su elaboración se tome en cuenta la opinión de la población y que se prevean procedimientos de revisión y consulta con la participación de la propia comunidad para garantizar la actualización de cada reglamento. Máxime cuando se trate de municipios que se rigen bajo el sistema de usos y costumbres;
+IV.- La promoción de una cultura de la separación de la basura, e instrumentación de programas de recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos;
 
-VI.- Que su articulado incluya la formulación y funcionamiento de unidades administrativas municipales, responsables de la inspección, vigilancia del cumplimiento de estos ordenamientos y de la aplicación de sanciones cuando proceda;
+V.- Que su aplicación fortalezca al municipio libre;
 
-VII.- Que la normatividad de la administración y de los servicios públicos municipales tengan como propósitos primordiales, la eficiencia de los mismos y el mejoramiento general de la población del Municipio; y
+VI.- Que en su elaboración se tome en cuenta la opinión de la población y que se prevean procedimientos de revisión y consulta con la participación de la propia comunidad para garantizar la actualización de cada reglamento. Máxime cuando se trate de municipios que se rigen bajo el sistema de usos y costumbres;
 
-VIII.- Que incluyan un capítulo sobre recursos de inconformidad que permita a los particulares impugnar actos de autoridad.
+VII.- Que su articulado incluya la formulación y funcionamiento de unidades administrativas municipales, responsables de la inspección, vigilancia del cumplimiento de estos ordenamientos y de la aplicación de sanciones cuando proceda;
+
+VIII.- Que la normatividad de la administración y de los servicios públicos municipales tengan como propósitos primordiales, la eficiencia de los mismos y el mejoramiento general de la población del Municipio; y
+
+IX.- Que incluyan un capítulo sobre recursos de inconformidad que permita a los particulares impugnar actos de autoridad.
 
 ###### ARTÍCULO 135.
 
@@ -4554,6 +4546,54 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 20 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2845.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO, LAS FRACCIONES V Y VII DEL ARTÍCULO 28 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2841.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2842.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2843.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN IV RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 134 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2844.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 68; Y SE ADICIONA LA FRACCIÓN LXXXVI, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Los Ayuntamientos contarán con un plazo de 90 días naturales para la instalación y designación de quien encabece la Procuraduría Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+CUARTO.- Los Ayuntamientos en coordinación con la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, elaborarán los lineamientos y el reglamento de las Procuradurías Municipales para lo cual contarán con el plazo de 90 días para su elaboración y aprobación.
+
+QUINTO.- Los Ayuntamientos deberán asignar la partida presupuestal en la Ley (sic) Presupuesto de Egresos para el Ejercicio Fiscal correspondiente para el funcionamiento de la Procuraduría Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+SEXTO.- La Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, será la encargada de coadyuvar con las Autoridades Municipales para la correcta instalación y funcionamiento de las Procuradurías Municipales en los 570 Municipios.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2917.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XX DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
