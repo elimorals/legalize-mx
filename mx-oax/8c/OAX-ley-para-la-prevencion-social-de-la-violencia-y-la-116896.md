@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-social-de-la-violencia-y-la-116896"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2016-06-10"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de junio de 2016.
 
@@ -121,13 +121,35 @@ En lo no previsto por la presente Ley, se aplicarán, conforme a su naturaleza y
 
 La prevención social de la violencia y la delincuencia incluye los siguientes ámbitos:
 
-I. Social;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-II. Comunitario;
+I. Familiar
 
-III. Situacional; y
+II. Social;
 
-IV. Psicosocial.
+III. Comunitario;
+
+IV. Situacional; y
+
+V. Psicosocial.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 6 Bis.
+
+La prevención social de la violencia y la delincuencia en el ámbito familiar se llevará a cabo mediante:
+
+I. Programas integrales que fomenten el fortalecimiento y protección de valores humanos en la familia y la sociedad como estrategia de prevención de la violencia y la delincuencia;
+
+II. La promoción de actividades y espacios de diálogo y aprendizaje en la familia como talleres, foros, conferencias, video conferencias, y todos los espacios que permitan promover en la sociedad la tolerancia, el respeto, la paz, la comunicación, el entendimiento y la cooperación;
+
+III. Ser facilitadores de otras familias que necesiten asistencia para resolver situaciones de inestabilidad o conflictos;
+
+IV. El reforzamiento de las habilidades emocionales e interpersonales, así como el ejercicio de valores, por parte de los Poderes del Estado y los Municipios en servidores públicos en la atención a víctimas de violencia;
+
+V. Estrategias de educación y sensibilización para padres de familia y alumnos de las escuelas de educación básica ubicadas en polígonos con mayores índices de violencia, quienes recibirán capacitación y materiales para reforzar sus conocimientos en habilidades socioemocionales para la vida; y
+
+VI. Promoción de estrategias de educación y sensibilización hacia las familias y poblaciones de mayor vulnerabilidad, para la prevención y concientización del uso responsable del internet y las nuevas tecnologías de la información y la comunicación.
 
 ###### Artículo 7.
 
@@ -584,3 +606,13 @@ SUFRAGIO EFECTIVO. NO RELECCIÓN.
 Tlalixtac de Cabrera, Centro, Oax., 04 de marzo del 2016.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2871.- MEDIANTE EL CUAL ADICIONAN LA FRACCIÓN I AL ARTÍCULO 6, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y EL ARTÍCULO 6 BIS A LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
