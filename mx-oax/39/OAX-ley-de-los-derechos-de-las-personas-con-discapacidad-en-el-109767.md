@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2021-11-20"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -461,9 +461,15 @@ IX. Las demás que disponga esta Ley y otros ordenamientos legales aplicables
 
 Las personas con discapacidad tienen derecho a un nivel de vida adecuado, incluyendo alimentación, vestido y vivienda así como a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 30.
 
-Corresponde a la Secretaría de Desarrollo Social y Humano, establecer los lineamientos y las reglas de operación acordes para garantizar el acceso de las personas con discapacidad, en particular las mujeres de todas las edades, en todas las acciones, programas de desarrollo social y estrategias de reducción de la pobreza, considerando el principio de accesibilidad.
+Corresponde a la Secretaría de Bienestar del Estado de Oaxaca, establecer los lineamientos y las reglas de operación acordes para garantizar el acceso de las personas con discapacidad, en particular las mujeres de todas las edades, en todas las acciones, programas de desarrollo social y estrategias de reducción de la pobreza, considerando el principio de accesibilidad.
+
+Fomentar que las dependencias utilicen formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad para la difusión de información dirigida al público, de manera oportuna y sin costo adicional, y
+
+Propiciar el diseño y la formación de un sistema de información sobre los servicios públicos en materia de discapacidad, a través de la utilización de la lengua de señas, el sistema braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido internet.
 
 ###### Artículo 31.
 
@@ -843,13 +849,127 @@ IX. Acciones y servicios relacionados con el ejercicio de sus derechos; y
 
 X. Cualquier otro que permita el diseño, implementación y evaluación de políticas y acciones encaminadas a dar cumplimiento con lo previsto en esta Ley.
 
-## TÍTULO CUARTO. DE LAS RESPONSABILIDADES Y SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO CUARTO. DE LA PROCURADURÍA DE LA DEFENSA DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 56.
 
-El incumplimiento, ya sea por acción u omisión, de lo dispuesto en esta Ley por parte de autoridades estatales o municipales, generará responsabilidades imputables y serán sancionados conforme a lo prescrito por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, sin menoscabo de la posibilidad del inicio de procedimiento de queja ante la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y/o el fincamiento de responsabilidades de diversa índole jurídica dependiendo del caso concreto.
+Se crea la Procuraduría de la Defensa de las Personas con Discapacidad, como un órgano administrativo desconcentrado jerárquicamente subordinado al Organismo Público Descentralizado denominado “Sistema para el Desarrollo Integral de la Familia del estado de Oaxaca”, con el objeto de brindar protección y asistencia en cualquier orden en las cuestiones y asuntos relacionados con las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 57.
+
+Para el cumplimiento de su objeto, la Procuraduría de la Defensa de las Personas con Discapacidad, tendrá las siguientes atribuciones:
+
+I. Vigilar que las políticas públicas en atención y apoyo a las personas con discapacidad sigan los principios de equidad, justicia social, equiparación de oportunidad, el reconocimiento de las diferencias, la dignidad, la inclusión, el respeto, la accesibilidad universal, el fomento a la vida independiente, la transversalidad, el diseño universal y la no discriminación por motivos de discapacidad, entre otros;
+
+II. Orientar, asesorar y asistir gratuitamente en materia legal cualquier asunto en que las personas con discapacidad tengan un interés jurídico directo, en especial aquellos que se refieren a su salud y seguridad;
+
+III. Procurar y velar para que las personas con discapacidad reciban un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte;
+
+IV. Procurar, impulsar y promover el reconocimiento, protección y el ejercicio pleno de los derechos de las personas con discapacidad, previstos en la legislación aplicable;
+
+V. Vigilar y en su caso visitar los establecimientos públicos o privados donde se atienda a personas con discapacidad, para asegurar que cuenten con las adecuaciones necesarias para su atención, y así garantizar el pleno respeto a su integridad física y mental;
+
+VI. Vigilar que a toda persona con discapacidad se le garantice el derecho de ser escuchada en los ámbitos médico y legal, con la intervención de la familia o autoridad competente en su caso;
+
+VII. Coadyuvar con la Fiscalía General del Estado de Oaxaca, cuando las personas con discapacidad sean víctimas de cualquier conducta tipificada como delito; así como en los casos de que se trate de faltas administrativas;
+
+VIII. Asesorar a las personas con discapacidad mediante la vía de métodos alternativos de solución de conflictos en cualquier procedimiento legal en el que sean partes interesadas;
+
+IX. Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando la persona con discapacidad se encuentre en situación de abandono por parte de los familiares o cuidadores;
+
+X. Recibir, atender, orientar o en su caso remitir, a la instancia competente, las denuncias o reclamaciones de abuso o violación de los derechos de las personas con discapacidad establecidos en la presente Ley;
+
+XI. Las demás que se determinen en las disposiciones aplicables o las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 58.
+
+La Procuraduría de la Defensa de las Personas con Discapacidad estará a cargo de un Procurador, el cual será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado, de una terna presentada por el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 59.
+
+La Procuraduría de la Defensa de las Personas con Discapacidad contará con las unidades administrativas que se determinen en el Reglamento de la Procuraduría de la Defensa de las Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 60.
+
+Para ser Procurador de la Defensa de las Personas con Discapacidad se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Licenciado en Derecho con título debidamente registrado y tres años mínimos de ejercicio profesional comprobado;
+
+III. Acreditar experiencia en la atención de personas con discapacidad;
+
+IV. Mayor de treinta años; y
+
+V. Ser de reconocida honorabilidad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 61.
+
+El Procurador como encargado de la Procuraduría de la Defensa de las Personas con Discapacidad contará con las siguientes atribuciones:
+
+I. Dirigir, ordenar y dar seguimiento a las labores de las distintas áreas operativas de la Procuraduría de la Defensa de las Personas con Discapacidad;
+
+II. Representar legalmente a la Procuraduría de la Defensa de las Personas con Discapacidad;
+
+III. Elaborar y someter a aprobación del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, el Reglamento Interior y la Estructura Orgánica de la Procuraduría de la Defensa de las Personas con Discapacidad;
+
+IV. Coordinar las actividades y supervisar el cumplimiento de las obligaciones y atribuciones de la Procuraduría de la Defensa de las Personas con Discapacidad;
+
+V. Rendir un informe bimestral de actividades de la Procuraduría, a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca y al Consejo para las Personas con Discapacidad;
+
+VI. Observar y hacer observar las disposiciones que le señala esta Ley y su Reglamento;
+
+VII. Tener a su cargo y dirigir al personal administrativo de la Procuraduría de la Defensa de las Personas con Discapacidad;
+
+VIII. Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones y análisis que considere necesarios para el buen desarrollo de las labores normativas y rectoras de la Procuraduría de la Defensa de las Personas con Discapacidad;
+
+IX. Las demás que determinen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 62.
+
+La Procuraduría de la Defensa de las Personas con Discapacidad para hacer cumplir sus atribuciones, las disposiciones de esta Ley, y el respeto de los derechos de las personas con discapacidad previsto en la legislación aplicable, podrá emplear cualquiera de los siguientes medios de apremio dictados por autoridad competente:
+
+I. Apercibimiento;
+
+II. Auxilio de la fuerza pública; y
+
+III. Arresto hasta por treinta y seis horas.
+
+La Procuraduría de la Defensa de las Personas con Discapacidad, velará en todo momento por el debido cumplimiento de la presente Ley y en casos de violación u omisión dará vista a la autoridad competente a fin de que se avoque a la investigación y en su caso a la sanción de dichas violaciones.
+
+(REUBICADO [N. DE E. ANTES TÍTULO CUARTO], P.O.4 DE DICIEMBRE DE 2021)
+
+## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+(REPUBLICADO, P.O.4 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 56], P.O.4 DE DICIEMBRE DE 2021)
+
+###### Artículo 63.
+
+El incumplimiento, ya sea por acción u omisión, de lo dispuesto en esta Ley por parte de autoridades estatales o municipales, generará responsabilidades imputables y serán sancionados conforme a lo prescrito por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, sin menoscabo de la posibilidad del inicio de procedimiento de queja ante la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y/o el fincamiento de responsabilidades de diversa índole jurídica dependiendo del caso concreto.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 57], P.O.4 DE DICIEMBRE DE 2021)
+
+###### Artículo 64.
 
 La inobservancia a lo previsto en esta ley, ya sea por acción u omisión, por parte de personas u organizaciones que no sean autoridades, será sancionada conforme lo establecido por la ley o leyes aplicables al caso concreto.
 
@@ -907,8 +1027,6 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS E
 
 P.O. 7 DE SEPTIEMBRE DE 2019.
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 742.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
@@ -954,3 +1072,25 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2918.- MEDIANTE EL CUAL ADICIONAN UN TÍTULO CUARTO DENOMINADO "DE LA PROCURADURÍA DÉ LA DEFENSA DE LAS PERSONAS CON DISCAPACIDAD", CON SUS ARTÍCULOS 56, 57, 58, 59,· 60, 61 Y 62, RECORRIÉNDOSE EN, SU ORDEN EL TÍTULO SUBSECUENTE CON SU CAPÍTULO ÚNICO Y SUS ARTÍCULOS PARA QUEDAR COMO TÍTULO QUINTO Y ARTÍCULOS 63 Y 64, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presupuesto de Egresos del Estado de Oaxaca, para el ejercicio fiscal 2022, deberá contemplar las previsiones financieras necesarias para el cumplimiento del presente Decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado, dentro de los treinta días hábiles posteriores a la entrada en vigor del presente Decreto, nombrará al Procurador de la Defensa de las Personas con Discapacidad, con base en la terna presentada por el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca.
+
+CUARTO.- El Procurador de la Defensa de las Personas con Discapacidad en un plazo no mayor a los seis meses a partir de su nombramiento, deberá elaborar el Reglamento Interior de la Procuraduría de la Defensa de las Personas con Discapacidad.
+
+QUINTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2924.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 30 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
