@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2021-10-16"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -273,15 +273,17 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Seguridad Pública;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+IV. La o el Fiscal General del Estado de Oaxaca;
 
-V. El Diputado Presidente de la Comisión Permanente de Protección Ciudadana;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+V. La Diputada o El Diputado Presidente de la Comisión Permanente de Democracia y Participación Ciudadana;
 
-VI. El Diputado Presidente de la Comisión Permanente de Administración de Justicia;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+VI. La Diputada o El Diputado Presidente de la Comisión Permanente de Administración y Procuración de Justicia;
 
 > <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -359,9 +361,15 @@ XVIII. Promover políticas de coordinación y colaboración con el Poder Judicia
 
 XIX. Recomendar la remoción de los titulares de las Instituciones de Seguridad Pública, previa opinión justificada del Secretariado Ejecutivo, por el incumplimiento de las obligaciones establecidas en la presente Ley;
 
-XX. Establecer los criterios generales para el registro de los servicios auxiliares de seguridad pública y empresas de seguridad privada, programas eficientes para que la sociedad participe en los procesos de evaluación de políticas de prevención del delito, así como las Instituciones de Seguridad Pública, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-XXI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal de Seguridad Pública.
+XX. Establecer los criterios generales para el registro de los servicios auxiliares de seguridad pública y empresas de seguridad privada, programas eficientes para que la sociedad participe en los procesos de evaluación de políticas de prevención del delito, así como las instituciones de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+XXI. Aprobar acuerdos para la prevención social de la violencia y el delito, en la juventud y en las y los estudiantes de todos los niveles educativos ya sean de instituciones públicas o privadas con reconocimiento oficial, y
+
+XXII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 19.
 
@@ -3466,3 +3474,11 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2870.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IV, V Y VI DEL ARTÍCULO 16, Y LA FRACCIÓN XX DEL ARTÍCULO 18; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 18, RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
