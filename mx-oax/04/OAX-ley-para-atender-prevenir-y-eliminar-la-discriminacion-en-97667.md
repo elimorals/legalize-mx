@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2021-11-13"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -1027,9 +1027,11 @@ De no ser posible la notificación por cualquiera de esos medios, podrá realiza
 
 Con la finalidad de publicitar y hacer del conocimiento de la opinión pública aquellos casos relacionados con presuntos actos, omisiones o prácticas discriminatorias que a juicio de la Comisión sean graves, reiterativos o que tengan una especial trascendencia, podrá emitir informes especiales en los que se expondrán los resultados de las investigaciones; en su caso, las omisiones u obstáculos atribuibles a particulares, personas servidoras públicas y entes públicos; estableciendo propuestas de acciones y medidas para lograr condiciones de igualdad y no discriminación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 87.
 
-Las personas servidoras públicas estatales, municipales o entes públicos a quienes se les compruebe haber cometido actos, omisiones o prácticas discriminatorias, además de las medidas administrativas y de reparación que se les imponga, quedarán sujetas a las responsabilidades en que hayan incurrido, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+Las personas servidoras públicas estatales, municipales o entes públicos a quienes se les compruebe haber cometido actos, omisiones o prácticas discriminatorias, además de las medidas administrativas y de reparación que se les imponga, quedarán sujetas a las responsabilidades en que hayan incurrido, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 La Comisión enviará la resolución a la Secretaría de la Contraloría y Transparencia Gubernamental Gobierno del Estado de Oaxaca, a la persona encargada de la contraloría interna o a la persona titular del área de responsabilidades de la dependencia o ente público, al que se encuentre o se hubiese encontrado adscrita la persona servidora pública responsable. La resolución emitida por la Comisión constituirá prueba plena dentro del procedimiento respectivo.
 
@@ -1212,6 +1214,14 @@ SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 P.O. 13 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2793.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 6; LA FRACCIÓN I DEL ARTÍCULO 10, LA FACCIÓN (SIC) II DEL ARTÍCULO 29, LOS INCISOS A), D) Y G) DE LA FRACCIÓN III DEL ARTÍCULO 32, LA FRACCIÓN I DEL ARTÍCULO 33, LA FRACCIÓN IV DEL ARTÍCULO 40, EL ARTÍCULO 94; SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 7; UN QUINTO PÁRRAFO AL ARTÍCULO 49; SE DEROGA EL INCISO C) DE LA FRACCIÓN III DEL ARTÍCULO 32 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2906.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 87 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
