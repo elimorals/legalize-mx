@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2021-11-13"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -85,27 +85,31 @@ II. Artesanía: Obras y/o productos terminados elaborados de acuerdo con herrami
 
 III. Artesano: Toda persona física que con destreza creativa, desarrolle sus habilidades innatas, conocimientos prácticos o teóricos de una técnica para transformar manualmente materias primas en productos que reflejen la belleza, tradición o cultura del Estado, auxiliándose de herramientas e instrumentos de cualquier naturaleza y siempre que se realice dentro de las distintas ramas artesanales de producción que contemple esta Ley;
 
-IV. Estado: Estado Libre y Soberano de Oaxaca;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-V. Fondo Artesanal: Fondo de Fomento a las Actividades Artesanales;
+IV. Corredor Artesanal: Zona o zonas geográficas ubicadas dentro de uno o más municipios, una o más regiones del Estado de Oaxaca, que produzcan bienes artesanales.
 
-VI. Junta Directiva: Junta Directiva del Instituto Oaxaqueño de las Artesanías;
+V. Estado: Estado Libre y Soberano de Oaxaca;
 
-VII. ICAPET-SNE: Instituto de capacitación y Productividad para el Trabajo del Estado de Oaxaca;
+VI. Fondo Artesanal: Fondo de Fomento a las Actividades Artesanales;
 
-VIII. Instituto: Instituto Oaxaqueño de las Artesanías;
+VII. Junta Directiva: Junta Directiva del Instituto Oaxaqueño de las Artesanías;
 
-IX. Ley: Ley de Fomento a las Actividades Artesanales del Estado de Oaxaca;
+VIII. ICAPET-SNE: Instituto de capacitación y Productividad para el Trabajo del Estado de Oaxaca;
 
-X. Premio Artesanal: Premio Estatal de las Actividades Artesanales;
+IX. Instituto: Instituto Oaxaqueño de las Artesanías;
 
-XI. Producción artesanal: La actividad económica de transformación, cuyo proceso se realiza con materias primas de origen natural o artificial, con el objeto de producir un bien determinado mediante la utilización de habilidades manuales y conocimiento de la historia del lugar o región donde se elaboran;
+X. Ley: Ley de Fomento a las Actividades Artesanales del Estado de Oaxaca;
 
-XII. Recursos naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos artesanales como son los siguientes: tierras, bosques, recursos minerales y comunidades vegetativas;
+XI. Premio Artesanal: Premio Estatal de las Actividades Artesanales;
 
-XIII. Sector artesanal: Es el sector que desarrolla la actividad artesanal, integrada por artesanos, unidades de producción y sociedades de artesanos, y
+XII. Producción artesanal: La actividad económica de transformación, cuyo proceso se realiza con materias primas de origen natural o artificial, con el objeto de producir un bien determinado mediante la utilización de habilidades manuales y conocimiento de la historia del lugar o región donde se elaboran;
 
-XIV. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de· que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
+XIII. Recursos naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos artesanales como son los siguientes: tierras, bosques, recursos minerales y comunidades vegetativas;
+
+XIV. Sector artesanal: Es el sector que desarrolla la actividad artesanal, integrada por artesanos, unidades de producción y sociedades de artesanos, y
+
+XV. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
 
 ###### Artículo 6.
 
@@ -369,9 +373,11 @@ II. La utilización de mecanismos de promoción artesanal por región o rama, qu
 
 III. La promoción de acuerdos interinstitucionales, que faciliten el intercambio de servicios e infraestructura de apoyo para exhibiciones nacionales e internacionales.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-Se podrá difundir la cultura artesanal del Estado, mediante la edición de atlas artesanales, catálogos, muestrarios, impresos, mensajes radiofónicos, televisivos, audios, videos y el establecimiento de museos artesanales.
+Se podrá difundir la cultura artesanal del Estado y fomentar la comercialización de las obras artesanales oaxaqueñas, mediante la edición de atlas artesanales, catálogos, muestrarios, impresos, mensajes radiofónicos, televisivos, audios, videos, a través de medios digitales y el establecimiento de museos artesanales.
 
 ### CAPÍTULO XI. DE LA PROMOCIÓN TURÍSTICA DE LAS ARTESANÍAS
 
@@ -423,7 +429,9 @@ El Ejecutivo, a través de la Secretaria de Finanzas, destinará en el presupues
 
 A efecto de fomentar las artesanías a nivel estatal, el Instituto promoverá diversas acciones y entre las cuales, de manera ejemplificativa podrán ser las siguientes:
 
-I. …
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+I.- Declarar lugares como pueblos de artesanos y corredores artesanales;
 
 II. …
 
@@ -576,3 +584,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2913.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 33 Y LA FRACCIÓN I DEL ARTÍCULO 39; Y SE ADICIONA LA FRACCION IV RECORRIENDOSE LAS SUBSECUENTES AL ARTICULO 5, TODOS DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
