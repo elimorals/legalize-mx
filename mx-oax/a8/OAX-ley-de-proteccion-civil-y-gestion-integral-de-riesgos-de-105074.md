@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2020-10-03"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -619,7 +619,11 @@ IV. Elaborar los trabajos que le encomiende el Presidente del Consejo Estatal y 
 
 V. Elaborar y presentar el Reglamento Interno del Consejo Estatal, en el pleno del mismo para su aprobación correspondiente.
 
-VI. Las demás funciones que le confieran el Consejo Estatal o el Presidente del Consejo Estatal.
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+VI. Coadyuvar con el Órgano Superior de Fiscalización del Estado y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de ayuda estatal, así como del cumplimiento de esta Ley; y
+
+VII. Las demás funciones que le confieran el Consejo Estatal o el Presidente del Consejo Estatal.
 
 ###### Artículo 28.
 
@@ -1145,7 +1149,9 @@ El objetivo fundamental del Sistema Municipal es proteger a las personas y a la 
 
 Es responsabilidad de cada Ayuntamiento la integración y funcionamiento del Sistema Municipal y la instalación del Consejo Municipal.
 
-Los Ayuntamientos promoverán en los proyectos de presupuesto de egresos, las partidas presupuestales que se estimen necesarias para el cumplimiento de los programas y planes de la materia así como los recursos destinados a un fondo municipal para la prevención y atención de desastres.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Los Ayuntamientos deberán destinar por lo menos el tres por ciento de su Presupuesto de Egresos para cada ejercicio anual, en el cumplimiento de los programas y planes de la materia, así como los recursos destinados a un fondo municipal para la prevención y atención de desastres, priorizando en todo momento la elaboración o actualización del Atlas Municipal de Riesgos.
 
 ###### Artículo 42.
 
@@ -1203,7 +1209,9 @@ VII. Promover la integración de fondos municipales para la prevención, atenci�
 
 VIII. Promover la suscripción de convenios de colaboración administrativa con el Estado en materia de prevención y atención de desastres y, en general, en materia de protección civil;
 
-IX. Proponer la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de desastres;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+IX. Garantizar la adquisición en calidad y precio, así como el mantenimiento del equipo, herramientas y materiales necesarios en materia de Protección Civil;
 
 X. Elaborar y mantener actualizado un registro de personas físicas o morales de su circunscripción, que por sus actividades incrementen el nivel de riesgo, remitiéndolo a la Coordinación Estatal para lo correspondiente a sus atribuciones;
 
@@ -1279,9 +1287,13 @@ VIII. Acordar la instalación del Centro Municipal de Operaciones;
 
 IX. Proponer políticas en materia de protección civil;
 
-X. Solicitar, según sea el caso, el apoyo del Gobierno Estatal; y,
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-XI. Las demás que le señalen esta Ley y los reglamentos respectivos.
+X. Crear Comisiones o grupos de trabajo, con especialistas y ciudadanos, para apoyar las labores de prevención y fortalecimiento de las acciones de Protección Civil; y
+
+XI. Solicitar, según sea el caso, el apoyo del Gobierno Estatal; y,
+
+XII. Las demás que le señalen esta Ley y los Reglamentos respectivos.
 
 ###### Artículo 48.
 
@@ -1609,11 +1621,25 @@ V. Disponer un espacio informativo previo a la celebración de eventos deportivo
 
 VI. Impulsar la coordinación de los diferentes sectores de la población la cultura de prevención de riesgos de desastres y la autoprotección, con un enfoque de equidad de género e interculturalidad, priorizando los grupos en situación de vulnerabilidad.
 
-### CAPÍTULO I. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL Y PREVENCIÓN DE RIESGOS DE DESASTRES, CAPACITACIÓN, AUTORIZACIÓN, ACREDITACIÓN Y CERTIFICACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo III. De la Atención a la Población Rural Afectada por Contingencias Climatológicas
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 80 Bis.
+
+Es responsabilidad del Gobierno Estatal y de los Municipios, atender los efectos negativos provocados por los fenómenos climatológicos extremos en el sector rural. En este sentido, se deberá contar con los mecanismos que permitan atender de manera ágil y oportuna, mediante apoyos directos y contratación de seguros catastróficos a los productores agrícolas, pecuarios, acuícolas y pesqueros de bajos ingresos, afectados por contingencias climatológicas extremas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 80 Ter.
+
+Para dar cumplimiento a ala (sic) responsabilidad del Gobierno Estatal en cuanto a los productores rurales de bajos ingresos afectados por contingencias climatológicas, el Ejecutivo Estatal deberá vigilar la instrumentación de un programa, para la atención de fenómenos naturales perturbadores que afecten los activos productivos y su previsión presupuestal.
 
 ## TÍTULO CUARTO. PROFESIONALIZACIÓN Y PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA, GRUPOS VOLUNTARIOS Y REGISTRO ESTATAL DE ORGANIZACIONES CIVILES
+### CAPÍTULO I. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL Y PREVENCIÓN DE RIESGOS DE DESASTRES, CAPACITACIÓN, AUTORIZACIÓN, ACREDITACIÓN Y CERTIFICACIÓN
 
 ###### Artículo 81.
 
@@ -1677,7 +1703,7 @@ II. Cooperar con las autoridades correspondientes para programar las acciones a 
 
 III. Colaborar con la Coordinación Estatal o la Coordinación Municipal para el debido cumplimiento de los programas de protección civil y sus líneas de acción;
 
-### CAPÍTULO I. DE LOS INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
+### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA, GRUPOS VOLUNTARIOS Y REGISTRO ESTATAL DE ORGANIZACIONES CIVILES
 
 ###### Artículo 88.
 
@@ -1741,7 +1767,7 @@ Todas las organizaciones civiles, cualquiera que fuere su denominación, pueden 
 
 ## TÍTULO QUINTO. GESTIÓN FINANCIERA Y TRANSFERENCIA DE RIESGOS
 
-### CAPÍTULO II. DEL FONDO ESTATAL DE PREVENCIÓN DE RIESGOS Y PROTECCIÓN CIVIL
+### CAPÍTULO I. DE LOS INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
 
 ###### Artículo 97.
 
@@ -1769,9 +1795,7 @@ Así mismo se fomentará la actualización y utilización de la Gestión Integra
 
 Es responsabilidad del Poder Ejecutivo, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre de origen natural en los bienes y servicios estratégicos del Estado.
 
-### Capítulo III. De las Donaciones
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO II. DEL FONDO ESTATAL DE PREVENCIÓN DE RIESGOS Y PROTECCIÓN CIVIL
 
 ###### Artículo 102.
 
@@ -1787,7 +1811,9 @@ El Fondo Estatal de Prevención de Riesgos y Protección Civil, se integrará a 
 
 Los ingresos que perciba la Coordinación Estatal por concepto de derechos, serán destinados al Fondo Estatal de Prevención de Riesgos y Protección Civil, en términos de esta Ley y su Reglamento.
 
-### CAPÍTULO IV. DE LA DETECCIÓN DE ZONAS DE RIESGO
+### Capítulo III. De las Donaciones
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 104.
 
@@ -1797,9 +1823,7 @@ Los donativos y donaciones a los que se refiere el párrafo anterior se sujetar�
 
 Las personas físicas o morales que deseen colaborar con la captación de donaciones en especie deberán obtener la autorización de la Coordinación Estatal.
 
-### CAPÍTULO I. DE LAS INSPECCIONES
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO IV. DE LA DETECCIÓN DE ZONAS DE RIESGO
 
 ###### Artículo 105.
 
@@ -1827,7 +1851,9 @@ En el caso de asentamientos humanos ya establecidos en Zonas de Riesgo, las auto
 
 ## TÍTULO SEXTO. MEDIOS LEGALES
 
-### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. DE LAS INSPECCIONES
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 110.
 
@@ -1877,9 +1903,7 @@ Cuando exista una situación de peligro que ponga en riesgo a las personas, a lo
 
 Si del acta de inspección se desprende la necesidad de volver a realizar otra visita, el inspector regresará al establecimiento con el objeto de vigilar el cumplimiento de las observaciones asentadas en el acta anterior correspondiente y en su caso informar a efecto de determinar las sanciones que correspondan.
 
-### CAPÍTULO III. DE LAS SANCIONES
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 114.
 
@@ -1935,9 +1959,9 @@ Lo anterior sin perjuicio de que no se haya podido llevar a cabo la diligencia d
 
 Cuando se apliquen alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicará su temporalidad y, en su caso, las acciones que se deben llevar a cabo para ordenar el retiro de las mismas.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
+### CAPÍTULO III. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 118.
 
@@ -1999,9 +2023,9 @@ Las sanciones por infracciones de protección civil se impondrán sin perjuicio 
 
 Para la imposición de las medidas de seguridad y las sanciones a que se refiere este capítulo, se estará a lo dispuesto a la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, en su parte conducente.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
-DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 125.
 
@@ -2036,6 +2060,10 @@ V. Tratándose de multas, el recurrente garantice el crédito fiscal en cualesqu
 La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
 
 ## TÍTULO SÉPTIMO
+
+### CAPÍTULO ÚNICO
+
+DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA.
 
 ###### Artículo 130.
 
@@ -2162,3 +2190,19 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2928.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VI, RECORRIÉNDOSE EL ORDEN DE LA SUBSECUENTE, AL ARTÍCULO 27; UN CAPÍTULO III DENOMINADO "DE LA ATENCIÓN A LA POBLACIÓN RURAL AFECTADA POR CONTINGENCIAS CLIMATOLÓGICAS", AL TÍTULO TERCERO, QUE CONTIENE LOS ARTÍCULOS 80 BIS Y 80 TER, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2929.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 41, LA FRACCIÓN IX DEL ARTICULO 44; Y SE ADICIONA LA FRACCIÓN X, RECORRIÉNDOSE EL ORDEN DE LA FRACCIÓN SUBSECUENTE AL ARTÍCULO 47, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
