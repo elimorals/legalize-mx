@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-11-20"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1665,6 +1665,10 @@ La presentación de propuestas y solicitudes no genera derecho o antecedente par
 
 Los servidores públicos de la Secretaría en sus respectivas áreas serán responsables de llevar a cabo todo el procedimiento para el otorgamiento de las concesiones conforme a la presente Ley y su Reglamento, en caso de incumplimiento u omisión serán sancionados de acuerdo a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y demás ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Las solicitudes para el otorgamiento de concesiones y modificación de concesiones y/o permisos del servicio especial de transporte, deberán cumplir con la debida publicidad a fin de dar oportunidad de intervenir a todo tercero al que pudiera lesionarse en sus derechos con el otorgamiento de la concesión o permiso especial solicitado, a fin de que pueda manifestar lo que a su derecho convenga.
+
 ###### Artículo 121.
 
 Las propuestas y solicitudes en el procedimiento para el otorgamiento de concesiones deberán llevarse a cabo personalmente por el interesado, tratándose de persona física, o por el representante legal debidamente autorizado de las sociedades de transportistas.
@@ -2443,11 +2447,13 @@ La Secretaría podrá solicitar el auxilio de la fuerza pública cuando fuere ne
 
 Para una mejor vigilancia del servicio público de transporte colectivo, la Secretaría podrá auxiliarse de tecnologías de monitoreo, cuyo centro de gestión esté bajo su administración.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 195.
 
-La Secretaría ordenará y practicará, a través del personal de supervisión, inspección y vigilancia, exámenes médicos y de detección de consumo de bebidas alcohólicas o drogas a los conductores del servicio de transporte, con la finalidad de evaluar su estado de salud y determinar si se encuentran o no en aptitud para realizar con la adecuada eficiencia y seguridad las funciones inherentes a sus actividades.
+La Secretaría ordenará y practicará por lo menos una vez al año, a través de los supervisores de movilidad, exámenes médicos y de detección de consumo de bebidas alcohólicas o drogas a los conductores y/u operadores del servicio de transporte público, con la finalidad de evaluar su estado de salud y determinar si se encuentran o no en aptitud para realizar con la adecuada eficiencia y seguridad las funciones inherentes a sus actividades. Los supervisores de movilidad podrán ser asistidos por personal especializado debidamente acreditado y con experiencia profesional, y por autoridades competentes en materia de tránsito y vialidad.
 
-Se suspenderán los derechos derivados de la licencia de conducir al conductor que resulte positivo en el examen de detección de consumo de bebidas alcohólicas o alguna droga.
+Se cancelarán de manera definitiva los derechos derivados de la licencia de conducir al conductor que resulte positivo en el examen de detección de consumo de bebidas alcohólicas o alguna droga.
 
 ###### Artículo 196.
 
@@ -2686,6 +2692,10 @@ II. Cuando se compruebe fehacientemente el cobro de tarifas distintas a las auto
 III. A quién en la prestación del servicio de transporte público de pasajeros, modifique o altere los itinerarios o rutas, horarios, equipos para determinar la tarifa o las condiciones de prestación del servicio en los términos de esta Ley, de la propia concesión y de las demás disposiciones jurídicas y administrativas aplicables, se sancionará con multa de cuarenta veces la Unidad de Medida y Actualización vigente;
 
 IV. Negar la prestación del servicio de transporte público a cualquier usuario sin causa justificada, así como los actos de maltrato que se reciban de quien brinde dicho servicio, se sancionará con multa ochenta a cien veces la Unidad de Medida y Actualización vigente tratándose de servicio de pasajeros y de sesenta veces la Unidad de Medida y Actualización vigente, tratándose de servicio de carga;
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Se aumentará hasta una cuarta parte de la multa, cuando las infracciones antes descritas se cometan en perjuicio de persona o personas que presten un servicio de salud, a partir de la emisión de medidas de seguridad por parte de la autoridad sanitaria ante casos de pandemia, epidemia, contingencia o riesgo grave de carácter sanitario que afecte la salud y la vida de las personas y hasta que se declare formalmente que han concluido sus efectos. No se aplicará esta sanción en el supuesto de que las medidas de seguridad de la autoridad sanitaria antes señaladas, establezcan la suspensión o restricción del servicio de transporte público.
 
 V. Negar, impedir u obstaculizar el uso del servicio de transporte a las personas con discapacidad, se sancionará con multa equivalente de ciento sesenta veces la Unidad de Medida y Actualización vigente;
 
@@ -3386,3 +3396,27 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- La Secretaría de Movilidad del Gobierno del Estado de Oaxaca tendrá un plazo de 90 días hábiles, contados a partir de la fecha de entrada en vigor del presente Decreto, para verificar el retiro de la publicidad sexista en las unidades y vehículos del transporte público.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2868.- MEDIANTE CUAL ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 220 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2869.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 195 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2927.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 120 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
