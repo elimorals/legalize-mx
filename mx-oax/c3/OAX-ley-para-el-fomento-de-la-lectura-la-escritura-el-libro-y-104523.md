@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-de-la-lectura-la-escritura-el-libro-y-10452
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-10"
-last_updated: "2020-10-03"
+last_updated: "2021-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL LIBRO Y EL USO DE LAS BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO PARA LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS EN EL ESTADO Y MUNICIPIOS DE OAXACA, PUBLICADA EN EL P.O. DE 4 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL LIBRO Y EL USO DE LAS BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de octubre de 2014.
 
@@ -688,3 +690,19 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE FOMENTO PARA LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS EN EL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga la Ley (sic) Fomento de la Lectura, la Escritura, el Libro y el Uso de las Bibliotecas publicada el 10 de octubre de 2014.
+
+TERCERO.- Mediante el presente Decreto, se crea el Consejo Estatal para el Fomento de la Lectura, la Escritura, el Acceso al Libro y las Bibliotecas, el cual deberá instalarse en un plazo no mayor de tres meses, y a los sesenta días de integrado este deberá expedir su reglamento y programa de trabajo.
+
+En caso de que no se integre el Consejo Estatal en los términos y plazos, la Secretaría de la Contraloría y Transparencia Gubernamental deberá iniciar los procedimientos correspondientes.
+
+CUARTO.- Los Ayuntamientos de los Municipios deberán integrar los Consejos Municipales a más tardar un año contado a partir de la publicación del presente Decreto.
+
+QUINTO.- El Ejecutivo del Estado, en un plazo no mayor de noventa días, contados a partir de la entrada en vigor, deberá emitir el Reglamento de la presente Ley.
