@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-participacion-ciudadana-para-el-estado-de-oaxaca-89597"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2021-10-23"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto del 2012.
 
@@ -519,9 +519,19 @@ Las autoridades convocantes deberán, dentro de los quince días hábiles siguie
 
 DEL CABILDO EN SESIÓN ABIERTA.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 50.
 
-El cabildo en sesión abierta, es la sesión que celebra el ayuntamiento, en la cual los habitantes participan directamente con derecho a voz pero sin voto, a fin de discutir asuntos de interés para la comunidad y con competencia sobre el mismo.
+El cabildo en sesión abierta, es la sesión que celebra el ayuntamiento, en la cual los habitantes participan directamente con derecho a voz, pero sin voto, a fin de discutir asuntos de interés para la comunidad; no podrán ser materia de cabildo abierto las siguientes:
+
+I. Asuntos de interés tributario o fiscal;
+
+II. Derecho humano a la privacidad;
+
+III. Acciones relacionadas con los cuerpos de seguridad pública; y
+
+IV. Las relacionadas con el régimen interno y de organización de la administración pública municipal.
 
 ###### ARTÍCULO 51.
 
@@ -900,6 +910,14 @@ P.O. 28 DE AGOSTO DE 2021.
 P.O. 23 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2789.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 11, EL ARTÍCULO 42 Y EL ARTÍCULO 53; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2840.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 50 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
