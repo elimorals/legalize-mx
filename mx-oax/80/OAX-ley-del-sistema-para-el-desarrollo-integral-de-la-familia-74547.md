@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-74547
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-13"
-last_updated: "2021-03-13"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de marzo de 2010.
 
 LIC. ULISES ERNESTO RUIZ ORTIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
-QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+QUE LA LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
 
 DECRETO NUM. 1583
 
@@ -51,7 +51,7 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, es un
 
 ###### ARTÍCULO 3.
 
-Para todos los efectos a que haya lugar, se entenderá por:
+Para todos los efectos a que haya lugar se entenderá por:
 
 I. Sistema DIF.- Oaxaca o DIF Oaxaca.- Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
@@ -93,7 +93,7 @@ II.- Apoyar el desarrollo de la familia y de los sujetos de la asistencia social
 
 III.- Realizar acciones de apoyo para la integración social de los sujetos materia de esta Ley;
 
-IV.- Promover e impulsar el sano crecimiento físico mental y social de la niñez;
+IV.- Promover e Impulsar el sano crecimiento físico mental y social de la niñez;
 
 V.- Concertar acciones y programas con la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca en beneficio de la población objeto de atención por cada una de las instituciones;
 
@@ -137,7 +137,7 @@ XXI.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 5.
 
-En casos de desastres, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros análogos causados por la naturaleza o por acción u omisión humana, por los que se originen daños a la población, el DIF Oaxaca, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otros organismos, dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, promoverá la atención y coadyuvará en las acciones de los distintos sectores sociales que actúen en beneficio de aquellos en el ámbito de su competencia.
+En casos de desastres como inundaciones, terremotos, derrumbes, explosiones, incendios y otros análogos causados por la naturaleza o por acción u omisión humana, por los que se originen daños a la población, el DIF Oaxaca, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otros organismos, dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, promoverá la atención y coadyuvará en las acciones de los distintos sectores sociales que actúen en beneficio de aquellos en el ámbito de su competencia.
 
 ###### ARTÍCULO 6.
 
@@ -167,7 +167,7 @@ V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen con
 
 VI.- El Organismo Auxiliar denominado "Gasolinera DIF Oaxaca," independientemente del número(s) de estación(es) de servicio que le otorgue la autoridad competente; y
 
-VII.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier título y aquéllos que actualmente tenga en posesión.
+VII.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier titulo y aquellos que actualmente tenga en posesión.
 
 Todos los bienes muebles o inmuebles que constituyan el patrimonio del DIF Oaxaca, son inembargables, en consecuencia, no podrá emplearse la vía de apremio; ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del mismo, sino que tales sentencias se comunicarán al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos del año siguiente, se solicite de la Legislatura del Estado, la expedición de un Decreto especial que autorice la erogación.
 
@@ -177,7 +177,7 @@ Las donaciones, legados, herencias y demás que reciba el DIF Oaxaca, así como 
 
 ###### ARTÍCULO 9.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el DIF Oaxaca contará con los siguientes Órganos de Representación:
+Para el estudio, planeación y despacho de los asuntos que le competen, el DIF Oaxaca cantará con los siguientes Órganos de Representación:
 
 I.-. El Consejo Directivo;
 
@@ -185,7 +185,7 @@ II.- El Director General; y
 
 III.- El Consejo Consultivo.
 
-El DIF Oaxaca queda sujeto al control y vigilancia del Ejecutivo del Estado, por conducto de las Secretarías de Finanzas, Administración y de la Contraloría, en el respectivo ámbito de sus atribuciones.
+El DIF Oaxaca queda sujeto al control y vigilancia del Ejecutivo del Estado, por conducto de las Secretarías de Finanzas, Administración y de la Contraloría en el respectivo ámbito de sus atribuciones.
 
 ### CAPÍTULO V. Del Consejo Directivo y sus Facultades
 
@@ -193,7 +193,7 @@ El DIF Oaxaca queda sujeto al control y vigilancia del Ejecutivo del Estado, por
 
 El Consejo Directivo, es la máxima autoridad del DIF Oaxaca y estará conformado de la siguiente manera:
 
-I.- Presidente del Consejo Directivo, que será el Gobernador del Estado;
+I.- Presidente del Consejo Directivo que será el Gobernador del Estado;
 
 II.- Secretario Ejecutivo, que será el Director General;
 
@@ -217,7 +217,7 @@ d).- Los Diputados del Congreso del Estado, en términos del artículo 38 de la 
 
 ###### ARTÍCULO 11.
 
-El Consejo Directivo celebrará sesiones ordinarias cada cuatro meses y extraordinarias cuando las convoque el Presidente del Consejo Directivo por estimarlo necesario; para la celebración de las sesiones se requerirá la asistencia cuando menos de la mitad más uno de sus miembros, de no haber quórum, se citará nuevamente a sesión, la que se verificará con los miembros presentes. Los integrantes del Consejo Directivo participarán en las sesiones con voz y voto, a excepción del Secretario Ejecutivo y Comisario, quienes tendrán únicamente voz.
+El Consejo Directivo celebrará sesiones ordinarias cada cuatro meses y extraordinarias cuando las convoque el Presidente del Consejo Directivo por estimarlo necesario; para la celebración de las sesiones se requerirá la asistencia cuando menos de la mitad mas uno de sus miembros, de no haber quórum, se citará nuevamente a sesión, la que se verificará con los miembros presentes. Los integrantes del Consejo Directivo participarán en las sesiones con voz y voto, a excepción del Secretario Ejecutivo y Comisario, quienes tendrán únicamente voz.
 
 Las resoluciones se tomarán por mayoría de votos, teniendo el Presidente del Consejo Directivo voto de calidad para el caso de empate.
 
@@ -241,9 +241,9 @@ VII.- Conocer de las herencias, legados, donaciones y demás aportaciones;
 
 VIII.- Aprobar los programas de mediano y largo plazo a que quedarán sujetos los servicios de salud en materia de asistencia social que preste el DIF Oaxaca, en base a los programas sectoriales y prioridades presupuestales a que esté sujeto;
 
-IX.- Aprobar la designación de los integrantes del Consejo Técnico de Adopciones, mismo que se encargará de emitir opinión respecto a la aprobación e idoneidad de solicitudes, así como de las asignaciones de niñas, niños y adolescentes; el cual se regirá para su integración y funcionamiento, conforme a lo dispuesto por su propio Reglamento;
+IX.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 2021)
 
-X.- Aprobar la creación de Consejos y Comités necesarios para el estudio e implementación de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales, los cuales estarán formados por los representantes que al efecto designen las dependencias y entidades competentes;
+X.- Aprobar la creación de Consejos y Comités necesarios para el estudio e implementación de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales los cuales estarán formados por los representantes que al efecto designen las dependencias y entidades competentes;
 
 XI.- Aprobar la creación de entidades auxiliares de colaboración que operen actividades directamente vinculadas con la obtención de recursos materiales y financieros encaminadas a fortalecer los objetivos del DIF Oaxaca; y
 
@@ -285,13 +285,13 @@ VII.- Presentar a consideración del Órgano de Gobierno, el informe anual de ac
 
 VIII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables;
 
-IX.- Administrar y representar legalmente al Organismo, con facultades amplias que corresponden a los mandatarios generales para pleitos y cobranzas, para actos de administración y dominio y las especiales que requieran cláusula especial conforme a la Ley, así como delegar en uno o más apoderados esas facultades para que las ejerzan individual o en forma conjunta;
+IX.- Administrar y representar legalmente al Organismo, con facultades amplías que corresponden a los mandatarios generales para pleitos y cobranzas, para actos de administración y dominio y las especiales que requieran cláusula especial conforme a la Ley, así como delegar en uno o más apoderados esas facultades para que las ejerzan individual o en forma conjunta;
 
 X.- Instruir la elaboración y proponer al Órgano de Gobierno, los planes y programas de trabajo, conforme al presupuesto autorizado en los términos de la normatividad aplicable a través de las áreas del DIF Oaxaca;
 
 XI.- Instruir la elaboración y proponer al Consejo Directivo, el Reglamento Interior del DIF Oaxaca, los Manuales de Organización, Procedimientos y de Servicios al Público a través de las áreas del DIF Oaxaca; y
 
-XII.- Las demás que sean necesarias para el ejercicio de sus facultades.
+XII.- Las demás Que sean necesarias para el ejercicio de sus facultades.
 
 ###### ARTÍCULO 15.
 
@@ -355,7 +355,7 @@ VI.- Representar al Consejo Consultivo en todas las actividades en que deba inte
 
 ###### ARTÍCULO 21.
 
-El Gobierno del Estado en forma prioritaria, proporcionará servicios de asistencia social a través del DIF Oaxaca, encaminados al desarrollo integral de la familia y al apoyo en su formación, subsistencia y desarrollo a individuos con carencias familiares esenciales, no superables en forma autónoma por ellos.
+El Gobierno del Estado en forma prioritaria, proporcionará servicios de asistencia social a través del DIF Oaxaca, encaminados al desarrollo integral de la familia y al apoyo en su formación, subsistencia y desarrollo a individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
 
 ###### ARTÍCULO 22.
 
@@ -439,7 +439,7 @@ XII. Habitantes del medio rural o urbano, marginados, que carezcan de lo indispe
 
 XIII. Personas que por extrema necesidad requieran de servicios asistenciales.
 
-XIV. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
+XIV. Los demás supuestos considerados en otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 24.
 
@@ -523,7 +523,7 @@ IX.- Las demás actividades, que tiendan a modificar y mejorar las condiciones d
 
 ###### ARTÍCULO 33.
 
-Se consideran servicios básicos de protección en materia de asistencia social, los siguientes:
+Se consideran servicios básicos de protección en materia de asistencia social; los siguientes:
 
 I.- La atención a personas que por sus carencias socio-económicas o con problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
@@ -537,13 +537,13 @@ V.- El desarrollo comunitario en localidades y zonas social y económicamente ma
 
 VI.- El establecimiento y manejo de centros dedicados a la atención de niños, niñas con conducta antisocial y adolescentes infractores;
 
-VII.- La colaboración y auxilio a las autoridades laborales competentes en la vigilancia y aplicación de la Legislación Laboral relativa a los niños, niñas y adolescentes; y
+VII- La colaboración y auxilio a las autoridades laborales competentes en la vigilancia y aplicación de la Legislación Laboral relativa a los niños, niñas y adolescentes; y
 
 VIII.- Las demás actividades, que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
 ###### ARTÍCULO 34.
 
-De manera enunciativa se consideran servicios básicos de atención local, en materia de asistencia social, los siguientes:
+De manera enunciativa se consideran servicios básicos de atención local en materia de asistencia social, los siguientes:
 
 I.- La promoción, supervisión, vigilancia y evaluación de las Instituciones de Asistencia Privada;
 
@@ -561,7 +561,7 @@ Las instituciones particulares que presten los servicios de asistencia social a 
 
 ###### ARTÍCULO 36.
 
-Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado, con la participación del DIF Oaxaca, celebrará convenios y acuerdos para la coordinación de acciones a nivel Estatal o Municipal, así como con las entidades y dependencias de la Administración Pública Federal.
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado con la participación del DIF Oaxaca, celebrará convenios y acuerdos para la coordinación de acciones a nivel Estatal o Municipal, así como con las entidades y dependencias de la Administración Pública Federal.
 
 ###### ARTÍCULO 37.
 
@@ -589,7 +589,7 @@ El Gobierno del Estado a través del DIF Oaxaca, celebrará convenios o contrato
 
 ###### ARTÍCULO 40.
 
-El Gobierno del Estado, a través del DIF Oaxaca, con la participación de las dependencias y entidades estatales que correspondan, propiciará que la concertación de acciones en materia de asistencia social con los sectores social y privado a que se refiere el artículo anterior, se lleven a cabo mediante la celebración de convenios o contratos que en todo caso deberán ajustarse a las siguientes bases:
+El Gobierno del Estado a través del DIF Oaxaca, con la participación de las dependencias y entidades estatales que correspondan, propiciará que la concertación de acciones en materia de asistencia social con los sectores social y privado a que se refiere el artículo anterior, se lleven a cabo mediante la celebración de convenios o contratos que en todo caso deberán ajustarse a las siguientes bases:
 
 I.- Delimitación de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
@@ -677,7 +677,7 @@ La Procuraduría tendrá las siguientes atribuciones:
 
 I.- Intervenir y proteger a los sujetos de asistencia social en caso de maltrato, abandono, extravío o cualquier otra situación de vulnerabilidad;
 
-II.- Intervenir a petición de parte, como árbitro o conciliador en los asuntos que se le planteen en materia familiar y/o en cualquier otra materia cuando se afecten los derechos de los sujetos de asistencia social, con excepción de las controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persiguen de oficio;
+II.- Intervenir a petición de parte, como árbitro conciliador en los asuntos que se le planteen en materia familiar y/o en cualquier otra materia cuando se afecten los derechos de los sujetos de asistencia social, con excepción de las controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persiguen de oficio;
 
 III.- Intervenir ante las autoridades correspondientes, cuando se advierta la violación de los derechos de los niños, niñas y adolescentes;
 
@@ -713,7 +713,7 @@ VIII.- Proporcionar al personal de las Procuradurías Municipales de Protección
 
 IX.- Establecer y operar en forma conjunta con las Procuradurías Municipales de Protección de los Derechos de Niñas, Niños y Adolescentes, programas de prevención de la violencia familiar.
 
-X.- Determinar provisionalmente la custodia de los niños, niñas y adolescentes sujetos a asistencia social, comunicando inmediatamente esta determinación a la autoridad jurisdiccional competente, así como a las partes involucradas, para que comparezcan ante aquella para que resuelva sobre la custodia definitiva; y
+X.- Determinar provisionalmente la custodia de los niños, niñas y adolescentes sujetos a asistencia social, comunicando inmediatamente esta determinación a la autoridad jurisdiccional competente, así como las partes involucradas, para que comparezcan ante aquella para que resuelva sobre la custodia definitiva; y
 
 XI.- Las demás que señale el Reglamento Interior del DIF Oaxaca.
 
@@ -741,7 +741,7 @@ I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos;
 
 II. Mayor de 30 años de edad;
 
-III. Ser Licenciado en Derecho con título legalmente expedido;
+III. Ser licenciado en Derecho con titulo legalmente expedido;
 
 IV. Con cinco años de ejercicio profesional como mínimo; y
 
@@ -860,3 +860,11 @@ P.O. 13 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2132.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2921.- MEDIANTE EL CUAL DEROGA LA FRACCIÓN IX DEL ARTÍCULO 12 DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca.
