@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2021-03-27"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -1383,7 +1383,9 @@ La Política Estatal de Desarrollo Social y humano debe incluir, cuando menos, l
 
 I. Pensión Alimentaria para Adultos Mayores de Setenta Años del Estado de Oaxaca.
 
-II. Becas para la Educación Superior.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+II. Becas para la Educación Básica, Media Superior y Superior.
 
 III. Dotación gratuita de útiles escolares y uniformes a los alumnos de educación básica en escuelas públicas del Estado de Oaxaca.
 
@@ -1421,39 +1423,59 @@ El Comité Estatal de Desarrollo Social y Humano autorizará el mecanismo median
 
 La falsedad en la información proporcionada por los beneficiarios generará la anulación y suspensión de este beneficio por el tiempo que determine el Comité Estatal de Desarrollo Social y Humano, sin perjuicio de las sanciones penales que sean procedentes.
 
-### CAPÍTULO III. BECAS PARA LA EDUCACIÓN SUPERIOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO III
+
+BECAS PARA LA EDUCACIÓN BÁSICA, MEDIA SUPERIOR Y SUPERIOR.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 92.
 
-Tiene por objeto reconocer, proteger y garantizar el derecho que tienen las y los jóvenes que estudien en los planteles de educación pública superior pertenecientes al Estado de Oaxaca, a recibir una Beca no menor a medio salario mínimo mensual vigente en el Estado de Oaxaca.
+Tiene por objeto reconocer, proteger y garantizar el derecho que tienen las y los niños y jóvenes que se encuentren en situación de pobreza o en condiciones de vulnerabilidad y que estudien en los centros escolares de los niveles de educación básica, media superior y superior pertenecientes al Estado de Oaxaca, a recibir una Beca, cuyo monto deberá ser suficiente para apoyar a los gastos de la educación.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 93.
 
-Se establece el derecho de todos los jóvenes que acrediten no contar con recursos económicos suficientes para realizar estudios de educación superior en instituciones públicas, a recibir una beca mensual con el monto que fije el Comité Estatal de Desarrollo Social y Humano, a fin de incentivar y alcanzar la profesionalización en los Oaxaqueños.
+En el Estado de Oaxaca, se reconoce el derecho de todos las y los niños y jóvenes que se encuentren en situación de pobreza o en condiciones de vulnerabilidad que le impida realizar estudios de educación básica, media superior y superior en instituciones públicas, a recibir una beca mensual con el monto que fije el Comité Estatal de Desarrollo Social y Humano, a fin de garantizar el acceso, permanencia y participación en los servicios educativos de las y los Oaxaqueños.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 94.
 
-Para dar cobertura a este derecho, el Gobierno del Estado, por conducto de la Secretaría establecerá en su presupuesto anual, un fondo suficiente que garantice el ejercicio de este derecho. En dicho fondo, podrán realizar contribuciones instituciones estatales, federales, organismos civiles, empresariales y privados, de conformidad con lo dispuesto en el reglamento.
+Para dar cobertura a este derecho, el Gobierno del Estado, el Estado se podrá en coordinación con la Federación, los Municipios, instituciones privadas y con la sociedad civil organizada con el objetivo de fortalecer el programa de becas.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 95.
 
-La asignación de las becas se realizará anualmente por parte del Comité Estatal de Desarrollo Social y Humano, seleccionando entre los aspirantes que concurran por convocatoria pública anual a los becarios; en el mismo periodo se realizarán los refrendos correspondientes.
+La asignación de las becas se realizará anualmente por parte del Comité Estatal de Desarrollo Social y Humano, conforme a los criterios de imparcialidad, equidad, objetividad, urgencia y necesidad.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 96.
 
-Será prioridad del Comité Estatal de Desarrollo Social y Humano brindar atención a estudiantes provenientes de las zonas indígenas con identidad en desarrollo, comunidades marginadas y en pobreza extrema.
+Será prioridad del Comité Estatal de Desarrollo Social y Humano brindar atención a las y los niños y jóvenes pertenecientes de las zonas indígenas con identidad en desarrollo, comunidades marginadas y en pobreza extrema.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 97.
 
-Los interesados en obtener una beca de educación superior, deberán cubrir los requisitos que establece el reglamento de la presente ley.
+La selección, acción y distribución de becas se realizarán conforme a los criterios establecidos en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 98.
 
-Las autoridades en los planteles de educación superior deberán revisar previo otorgamiento de la beca, la documentación necesaria, en un plazo no mayor de treinta días hábiles contados a partir del cierre de las convocatorias anuales, turnando dicha documentación al Comité para su dictamen y en su caso asignación.
+Las autoridades escolares de todos los niveles educativos deberán revisar previo otorgamiento de la beca, la documentación necesaria, en un plazo no mayor de treinta días hábiles contados a partir del cierre de las convocatorias anuales, turnando dicha documentación al Comité para su dictamen y en su caso asignación.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 99.
 
-Todas las instituciones de educación superior públicas, elaboraran un padrón de becarios, el cual actualizarán anualmente y que harán del conocimiento del Instituto Estatal de Educación Pública de Oaxaca, quien a su vez los remitirá al Comité Estatal de Desarrollo Social y Humano para su refrendo de conformidad con el reglamento de la presente ley.
+Todas las instituciones públicas de educación básica, media superior y superior elaborarán un padrón de becarios, el cual actualizarán anualmente y que harán del conocimiento del Instituto Estatal de Educación Pública de Oaxaca y a la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología; quienes a su vez los remitirá al Comité Estatal de Desarrollo Social y Humano para su refrendo de conformidad con el reglamento de la presente ley.
 
 ### CAPÍTULO IV. DOTACIÓN GRATUITA DE ÚTILES ESCOLARES Y DE UNIFORMES A LOS ALUMNOS DE EDUCACIÓN BÁSICA EN ESCUELAS PÚBLICAS DEL ESTADO DE OAXACA
 
@@ -1658,3 +1680,11 @@ P.O. 27 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2377.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XLVIII Y XLIX DEL ARTÍCULO 3; EL ARTÍCULO 9; LA FRACCIÓN I DEL ARTÍCULO 21; Y EL ARTÍCULO 35; SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 6, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2915.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 85, LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO QUINTO “PROGRAMAS DE DESARROLLO SOCIAL”; ASÍ COMO LOS ARTÍCULOS 92, 93, 94, 95, 96, 97, 98 Y 99 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan o contravengan al presente Decreto.
