@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-12-01"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -753,17 +753,17 @@ a).- Cuando el sujeto activo fuere operador de un vehículo destinado al servici
 
 b).- Al que encontrándose en estado de ebriedad o bajo el influjo de alguna droga, causare más de un homicidio o concurra éste con lesiones previstas en los artículos 275 o 276;
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-c).- A quién en estado de ebriedad o bajo el influjo de alguna droga, reitere la comisión culposa de homicidio o lesiones graves.
+c).- A quien en estado de ebriedad o bajo el influjo de alguna droga, lleve a cabo la comisión culposa de homicidio o lesiones graves.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
 
 d) Al conductor de un vehículo de motor, quien por hacer uso de un teléfono celular o cualquier dispositivo electrónico de entretenimiento o comunicación, con el que hable, envíe mensajes de texto o utilice sus aplicaciones de comunicación o entretenimiento al conducir, causare homicidio o lesiones de las previstas por los artículos 275 o 276, o las que se llegasen a tipificar.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-Además de la pena impuesta en el tercer párrafo del presente artículo, en el supuesto señalado en el inciso c) se le impondrá la obligación de rehabilitarse al sujeto activo.
+Además de la pena impuesta en el tercer párrafo del presente artículo, en el supuesto señalado en el inciso c) se le impondrá la obligación de rehabilitarse al sujeto activo. El Juez establecerá el lugar, tiempo y forma en que se llevará a cabo la rehabilitación, que deberá hacerse en instituciones públicas u organizaciones privadas dedicadas a la rehabilitación de las personas, según sea cada caso.
 
 > <small>(ADICIONADO, [N. DE E. PERTENECE AL INCISO D], P.O. 12 DE MARZO DE 2018)</small>
 
@@ -1785,7 +1785,13 @@ Quien además de lo establecido en el párrafo anterior, por cualquier medio div
 
 200.- Para los efectos del artículo anterior, la autoridad ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado el contenido referido en el artículo anterior, el retiro inmediato de la publicación que se realizó.
 
-200 Bis.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+200 Bis.- A quien imparta u obligue a otra u otro a recibir una terapia de conversión se le impondrán de dos a cinco años de prisión y de cincuenta a cien veces el valor de la unidad de medida y actualización. Este delito se perseguirá por querella necesaria.
+
+Se entiende por terapias de conversión, aquellas prácticas consistentes en sesiones psicológicas, psiquiátricas, métodos o tratamientos que tenga (sic) por objeto anular, obstaculizar, modificar o menoscabar la expresión o identidad de género, así como la orientación sexual de la persona, en las que se emplea violencia física, moral o psicoemocional, mediante tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana.
+
+Cuando la terapia de conversión se hiciere contra persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho o persona que no tenga la capacidad de resistir la conducta, la pena se aumentará en una mitad de su mínimo a una mitad de su máximo y se perseguirá por oficio.
 
 201.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
@@ -2583,19 +2589,29 @@ Delitos contra el comercio y la industria.
 
 240.- Se aplicarán de uno a diez años de prisión y multa de mil a cincuenta mil pesos, además del decomiso de los artículos objeto de la infracción:
 
-I.- A quien o quienes acaparen, monopolicen, oculten o retiren del comercio artículos de primera necesidad o de consumo necesario o con el objeto de provocar el alza de precios;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+I.- A quien o quienes acaparen, monopolicen, oculten, nieguen injustificadamente su venta o retiren del comercio artículos de primera necesidad o de consumo necesario o con el objeto de provocar el alza de precios o afectar el abasto a los consumidores;
 
 II.- A quienes celebren acuerdos o combinaciones con productores, industriales, comerciantes o empresarios, para evitar la competencia en el mercado libre, obligando a los consumidores a pagar precios exagerados;
 
-III.- Al que ejecute actos contrarios a la libre concurrencia en la industria o el comercio;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+III.- A quien o quienes realicen venta con inmoderado lucro, en artículos de primera necesidad o de consumo necesario;
+
+IV.- Al que ejecute actos contrarios a la libre concurrencia en la industria o el comercio;
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
-IV.- A quienes por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración o reducción resultaren daños, lesiones u homicidio, se aplicarán, además, las sanciones que por esos delitos correspondan.
+V.- A quienes por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración o reducción resultaren daños, lesiones u homicidio, se aplicarán, además, las sanciones que por esos delitos correspondan.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 Lo mandado en este Artículo se observará sin prejuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa con base en leyes especiales.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+240-A.- A quien o quienes cometan alguna de las conductas previstas en el artículo 240, con respecto de artículos de consumo necesario, productos de higiene personal, medicamentos e insumos médicos, bienes destinados a la prevención de propagación, tratamiento o contagio de enfermedades o cualquier artículo de primera necesidad y los que se requieran para la conservación de los mismos, en el contexto de la amenaza, inminencia u ocurrencia de una situación de desastre natural, riesgo sanitario o cualquier otra circunstancia catastrófica que altere de forma grave el orden público durante el tiempo que dure, se le aumentará hasta una mitad más en su mínimo y máximo, la pena que corresponda.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2723,9 +2739,19 @@ En el último supuesto, el delito se perseguirá de oficio. En los demás casos 
 
 Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
 
-242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-243.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
+242.- Comete el delito de ciberacoso sexual quien, utilizando las Tecnologías de la Información y la Comunicación (TIC), asedie, coaccione o intimide de manera reiterada a otra persona con fines sexuales, a pesar de su oposición manifiesta.
+
+A quien incurra en este delito, se le impondrá pena de seis meses a tres años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en el párrafo anterior, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+243.- Se impondrá de dos a seis años de prisión y multa de cuatrocientos a seiscientas veces el valor diario de la Unidad de Medida y Actualización, a quien utilizando la coacción, intimidación, seducción, inducción o engaño, establezca comunicación con fines sexuales a través de cualquier tecnología de la información y comunicación, con una persona menor de dieciocho años de edad, o con persona incapaz de comprender el significado del hecho, o con alguna discapacidad o que por cualquier causa no pueda resistirlo, a pesar de su consentimiento.
+
+En este supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 
 244.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
@@ -2743,7 +2769,7 @@ Para los efectos de este artículo, se entiende por cópula, la introducción de
 
 246 BIS.- Se equipara a la violación y se sancionará de catorce á veinte años de prisión y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización, a quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño.
 
-La seducción y el engaño se presumirá en todo momento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -3939,6 +3965,14 @@ II.- Por sí o por terceros haga uso de violencia psicológica o física, intimi
 
 III.- Para disimular su actividad usuraria suscriba títulos de crédito, si no media otra causa que justifique su existencia.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+380 TER.- Comete el delito de fraude a migrantes el que incumpla con la realización de los trámites que había prometido para la legalización de residencia en otro país.
+
+El delito de fraude a migrantes, se castigará con prisión de tres a doce años y multa de hasta dos veces del valor defraudado por cada acto realizado.
+
+Además de las sanciones establecidas en el párrafo anterior, la prisión aumentará en una cuarta parte de la pena impuesta, cuando se trate de afectaciones a mujeres o indígenas, niñas y niños.
+
 381.- Las mismas penas señaladas en el Artículo anterior se impondrán:
 
 I.- Al que obtenga dinero, valores o cualquiera otra cosa ofreciendo encargarse de la defensa de un procesado o de un sentenciado o de la dirección o patrocinio en un asunto civil o administrativo, si no efectúa aquella o no realiza ésta, sea porque no se haga cargo legalmente de la misma o porque renuncie o abandone el negocio o la causa sin motivo justificado;
@@ -4501,9 +4535,9 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-413. A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de cuatro a ocho años de prisión y de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente. Para los efectos de este artículo, se tendrá por consumado el delito aun cuando él o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+413. A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de cuatro a ocho años de prisión y de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -5656,3 +5690,59 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se instruye a la Secretaría de Servicios Parlamentarios realice los trámites correspondientes para el cumplimiento a los oficios números CP2R1A.-3091.19, CP2R1A.- 3604.19 y D.G.P.L.64-II-7-1350, recibido en la Secretaría de Servicios Parlamentarios el diecinueve de agosto del año dos mil diecinueve, el veintiséis de agosto del año dos mil diecinueve y cuatro de diciembre del año dos mil diecinueve, respectivamente, remitidos por el Poder Legislativo Federal.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2835.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 380 TER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2836.- MEDIANTE EL CUAL REFORMAN EL INCISO C) DEL PÁRRAFO TERCERO Y EL PÁRRAFO CUARTO DEL ARTÍCULO 58 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2837.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 413 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2887.- MEDIANTE EL CUAL DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 246 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2901.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 240; Y SE ADICIONA LA FRACCIÓN III, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 240 Y EL ARTICULO 240-A AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2902.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 242 Y 243 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2905.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 200 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
