@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2021-09-18"
+last_updated: "2021-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -315,6 +315,10 @@ El Gobierno del Estado promoverá la cooperación interinstitucional entre empre
 
 El Gobierno Estatal promoverá en concertación con los sectores productivos, la creación, desarrollo y mejoramiento de la infraestructura productiva, mediante la inversión pública, privada y social, para facilitar la distribución y comercialización de la producción, acercar al productor con el consumidor, estimular nuevas inversiones en la generación y uso racional de agua y energía, vías de comunicación y medios de transporte, bodegas, sistemas de cuartos fríos, de parques industriales, equipamiento de servicios relacionados a las actividades productivas y la protección del ambiente.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 18 BIS.- El Gobierno del Estado en coordinación con la iniciativa privada, difundirá y promoverá entre la ciudadanía el consumo de productos de origen local.
+
 ### CAPITULO III. DE LAS MICRO, PEQUEÑA Y MEDIANA EMPRESAS
 
 ###### ARTICULO 19.
@@ -566,3 +570,13 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 PRIMERO. - El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2912.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 18 BIS A LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
