@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2021-12-01"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1347,85 +1347,51 @@ La aclaración de las actas del estado civil deberá tramitarse ante la Direcci�
 
 En el caso de la fracción VI del artículo anterior, una vez aprobada la aclaración para anotar un segundo apellido, previa la anotación marginal que se realice en los atestados correspondientes a la Oficialía del Registro Civil y Archivo Central, se dará vista al Ministerio Público, quien dentro del término de tres días hábiles podrá oponerse a la aclaración; dicha oposición que deberá ser fundada y motivada, se tramitará en los términos previstos por el Reglamento Interno del Registro Civil.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 142 Bis.
+
+El derecho al servicio de aclaración de actas en los casos previstos en las fracciones I, II, III, IV y V del artículo 141, será gratuito.
+
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ## TITULO QUINTO. Del matrimonio
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. Requisitos necesarios para contraerlo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
-
 ###### Artículo 143.
 
-El matrimonio es un contrato civil celebrado entre dos personas, que se unen para realizar una vida en común y proporcionarse respeto, igualdad y ayuda mutua.
-
-El contrato de matrimonio solamente se disuelve por la muerte de alguno de los cónyuges o por el divorcio.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
-
-El Estado procurará, por todos los medios que estén a su alcance, que las personas que vivan en concubinato contraigan matrimonio. Para la realización de este fin, que es de orden público, se efectuarán campañas periódicas de convencimiento.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 143 Bis.
 
-El concubinato es la unión de hecho, realizada voluntariamente entre dos personas que hacen vida en común, que estando en aptitud de contraer matrimonio entre sí no lo han celebrado en términos que la Ley señala y hacen vida en común, situación que sólo podrá demostrarse si han procreado uno o más hijos o han vivido públicamente como cónyuges durante más de dos años continuos.
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
-
-Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 143 Ter.
 
-Regirán al concubinato todos los derechos y obligaciones inherentes a la familia y al matrimonio, en lo que le fueren aplicables.
-
-El concubinato genera entre los concubinos derechos alimentarios y sucesorios, independientemente de los demás derechos y obligaciones reconocidos en este código o en otras leyes.
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 143 Quáter.
 
-Son aplicables al concubinato las siguientes disposiciones:
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
-
-I. Los concubinos, desde el inicio de la vida en común, se deben mutuamente alimentos en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
-
-II. El concubinato termina por muerte de uno de los concubinos, por voluntad de uno o ambos, o por cualquier otra causa que implique la cesación de la vida en común;
-
-III. Los concubinos están obligados a ayudarse de manera equitativa en el cuidado y la educación de sus menores hijos.
-
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
-
-IV. Una vez cesado el concubinato, el concubino o concubina que durante la relación haya realizado cotidianamente trabajos del hogar consistentes en tareas de administración, dirección, atención del mismo o al cuidado de la familia, tendrá derecho a una compensación respecto de los bienes adquiridos durante la relación de concubinato, la cual no podrá ser superior ni inferior al cincuenta por ciento del valor de los bienes adquiridos dentro de la vida en común, y
-
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
-
-V. Una vez cesado el concubinato, el concubino o concubina que durante el concubinato haya realizado cotidianamente trabajos del hogar consistentes en tareas de administración, dirección, atención del mismo o al cuidado de la familia, tendrá derecho a recibir alimentos en los mismos términos y proporciones que la Ley señala para los cónyuges, obligación que subsistirá por el tiempo que duró la relación de concubinato y en tanto el acreedor o acreedora no contraiga nupcias o se una en concubinato con otra persona.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 144.
 
-La ley no reconoce esponsales de futuro.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 145.
 
-El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 146.
 
-Cualquier condición contraria a la comunidad íntima de vida y a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 147.
 
-Para contraer matrimonio es necesario que los contrayentes hayan cumplido dieciocho años de edad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 148.
 
@@ -1461,47 +1427,11 @@ Para contraer matrimonio es necesario que los contrayentes hayan cumplido diecio
 
 ###### Artículo 156.
 
-Son impedimentos para celebrar el contrato de matrimonio:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-I. La falta de edad requerida por la ley.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-II. La falta de dispensa de parte del Juez competente en sus respectivos casos.
-
-III. El parentesco de consanguinidad legítimo o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual el impedimento se extiende a los hermanos y a los medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
-
-IV. El parentesco de afinidad en línea recta, sin limitación alguna;
-
-V. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
-
-VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
-
-VII. La fuerza o miedo graves.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-En caso de sustracción subsiste el impedimento entre el sustractor y la persona sustraída mientras ésta no sea restituida a lugar seguro donde libremente pueda manifestar su voluntad;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
-
-VIII. La embriaguez habitual, la morfinomanía, la eteromanía, el uso indebido y persistente de las demás drogas enervantes y la locura.
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1999)</small>
-
-IX. Padecer alguno de los estados de incapacidad a que se refiere la Fracción II del artículo 465; y
-
-X. El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-De estos impedimentos sólo es dispensable el parentesco en línea colateral desigual.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 157.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 158.
 
@@ -1509,59 +1439,39 @@ El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, e
 
 ###### Artículo 159.
 
-El tutor no puede contraer matrimonio con la persona que ha estado o que está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por la autoridad judicial respectiva, sino cuando hayan sido aprobadas las cuentas de la tutela.
-
-Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 160.
 
-Si el matrimonio se celebrase en contravención con lo dispuesto en el artículo anterior el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre, mientras se obtiene la dispensa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De los derechos y obligaciones que nacen del matrimonio
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
-
 ###### Artículo 161.
 
-Los cónyuges están obligados a respetarse de forma recíproca en su dignidad, a contribuir cada uno por su parte a los fines del matrimonio y a ayudarse mutuamente.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 162.
 
-Los cónyuges vivirán juntos en el domicilio conyugal. Se considera domicilio conyugal el lugar establecido de común acuerdo por ellos, en el cual ambos tendrán autoridad propia y consideraciones iguales.
-
-Los tribunales con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 163.
 
-Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de estos, en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
-
-La mujer tendrá a su favor la presunción de la necesidad de alimentos, salvo prueba en contrario.
-
-Los derechos y obligaciones que nacen del matrimonio, serán siempre iguales para los cónyuges entendiéndose los quehaceres del hogar como aportación económica, de tal manera que si alguno de ellos, contribuyera a esa subsistencia, con su trabajo en el hogar y en el cuidado de los hijos, el otro cónyuge deberá sufragar por sí solo, los gastos de subsistencia.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 164.
 
-Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los sueldos, ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia, y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 165.
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
-
 ###### Artículo 166.
 
-Los cónyuges de común acuerdo, arreglarán todo lo relativo a la dirección y cuidado del hogar, la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
-
-En caso de que uno de los cónyuges no estuviere de acuerdo respecto de alguno de los puntos indicados, el Juez de lo Familiar competente procurará avenirlos, y si no lo lograse, resolverá de inmediato sin forma de juicio, lo que fuere más conveniente a la familia e intereses de los hijos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 167.
 
@@ -1579,21 +1489,17 @@ En caso de que uno de los cónyuges no estuviere de acuerdo respecto de alguno d
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
-
 ###### Artículo 171.
 
-Los cónyuges tienen la capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesiten el consentimiento uno del otro, salvo lo que se estipule en las capitulaciones matrimoniales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 172.
 
 (DEROGADO, P.O. 9 DE MARZO DE 2018)
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
-
 ###### Artículo 173.
 
-El contrato de compraventa sólo podrá celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 174.
 
@@ -1603,77 +1509,65 @@ El contrato de compraventa sólo podrá celebrarse entre los cónyuges cuando el
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
-
 ###### Artículo 176.
 
-Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 176 Bis.
 
-Los derechos y obligaciones a que se refiere este Capítulo son extensivos a un solo hombre y a una sola mujer que vivan en unión estable, libres de vínculo matrimonial y sin impedimento para contraerlo, en los términos y condiciones a que se refiere el artículo 1502-BIS.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III. Del contrato de matrimonio con relación a los bienes
+
+> <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 Disposiciones Generales
 
 ###### Artículo 177.
 
-El contrato de matrimonio se celebrará bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 178.
 
-La sociedad conyugal puede ser voluntaria o legal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 179.
 
-La sociedad voluntaria se regirá estrictamente por las capitulaciones matrimoniales que la constituyan: en todo lo que no estuviere expresado en ellas de un modo terminante regirán los preceptos que arreglan la sociedad legal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 180.
 
-La sociedad voluntaria y la legal se regirán por las disposiciones relativas a la sociedad común en todo lo que no estuviere comprendido en los capítulos relativos de este Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 181.
 
-La sociedad conyugal legal, nace desde el momento en que se celebra el matrimonio; la voluntaria puede nacer desde la celebración del matrimonio o durante éste, según que las capitulaciones matrimoniales respectivas se pacten al celebrase el matrimonio o durante el mismo.
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 182.
 
-La sociedad conyugal, voluntaria o legal, terminará por la muerte de cualquiera de los cónyuges, por divorcio declarado, o por voluntad de los consortes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 183.
 
-Puede también terminar la sociedad legal durante el matrimonio, a petición de alguno de los cónyuges cuando siendo voluntaria, ocurra cualquiera de los siguientes motivos:
-
-I.- Si el socio administrador, por su notoria negligencia o torpe administración amenaza arruinar a su consorte o disminuir considerablemente los bienes comunes;
-
-II.- Cuando el socio administrador hace cesión de bienes a sus acreedores o es declarado en quiebra.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 184.
 
-El abandono injustificado del domicilio conyugal por uno de los cónyuges, por más de seis meses produce, en relación al matrimonio los siguientes efectos:
-
-I. Hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; estos no podrán comenzar de nuevo sino por convenio expreso.
-
-II. (DEROGADA, P.O. 7 DE AGOSTO DE 2021)
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 185.
 
-La separación de bienes se rige por las capitulaciones matrimoniales que expresamente la establezcan y por los preceptos legales que la regulan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 186.
 
-Se llaman capitulaciones matrimoniales los pactos que los esposos celebren para constituir ya sea sociedad voluntaria, ya separación de bienes, y para administrar éstos en uno y en otro caso.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 187.
 
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio, o durante él; y pueden comprender no sólo los bienes de que sean dueños los esposos o consortes al tiempo de celebrarlo, sino también los que adquieran después.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 188.
 
@@ -1681,337 +1575,275 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 ###### Artículo 189.
 
-Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 190.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 191.
 
-La sentencia que declara la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en este Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 192.
 
-En los casos de nulidad del matrimonio, la sociedad se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges proceden de buena fe.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 193.
 
-Cuando sólo uno de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario se considerará nula desde el principio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 194.
 
-Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 195.
 
-Si la disolución de la sociedad procede de nulidad de matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos y, si no los hubiere, al cónyuge inocente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 196.
 
-Si los dos cónyuges procedieron de mala fe, las utilidades se aplicarán a los hijos y si no los hubiere se repartirán en proporción de lo que cada consorte llevó al matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 197.
 
-Disuelta la sociedad, se procederá a formar inventario, en el cual no se incluirán el lecho, los vestidos y los objetos de uso personal de los consortes, que serán de éstos o de sus herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 198.
 
-Terminado el inventario se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas, el importe de ésta se deducirá del haber de cada consorte en proporción a las utilidades que debían corresponderle y si uno solo llevó capital, de éste se deducirá la pérdida total.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 199.
 
-Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la repartición.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV. Sociedad voluntaria
 
 ###### Artículo 200.
 
-Las capitulaciones matrimoniales que establezca la sociedad voluntaria, se extenderán forzosamente en escritura pública y en la misma forma se harán constar las modificaciones a ellas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 201.
 
-La escritura de capitulaciones matrimoniales deberá contener:
-
-I. Lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad con expresión de su valor y de los gravámenes que reporten;
-
-II. Lista especificada de los bienes muebles que cada consorte introduzca a la sociedad;
-
-III. Nota pormenorizada de las deudas que tenga cada cónyuge al pactarse las capitulaciones, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que contraigan durante la sociedad ya sea por ambos consortes o por cualquiera de ellos;
-
-IV. Declaración expresa de si la sociedad ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando, en este último caso, cuáles son los bienes que hayan de entrar a la sociedad;
-
-V. La declaración explícita de si la sociedad conyugal ha de comprender los bienes de los consortes en todo o en parte y sus productos o sólo estos últimos. En uno y otro caso se determinará con toda claridad la parte que en los productos corresponda a cada cónyuge, si no comprende la sociedad los bienes mismos;
-
-VI. La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecute, o si debe dar participación de ese producto al otro consorte y en qué proporción;
-
-VII. Declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
-
-VIII. Declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción;
-
-IX. Las bases para liquidar la sociedad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 202.
 
-Es nula la capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades; así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o utilidades.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 203.
 
-Cuando se establezca que uno de los consortes sólo debe recibir una cantidad fija, el otro consorte o sus herederos deben pagar la suma convenida, haya o no utilidad en la sociedad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 204.
 
-Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge, será considerado como donación y quedará sujeto a lo prevenido en el capítulo correspondiente de este título.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 205.
 
-No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal, pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 #### Sección Primera. De la sociedad legal
 
 ###### Artículo 206.
 
-A falta de capitulaciones expresas, se entiende celebrado el matrimonio bajo el régimen de sociedad legal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 207.
 
-Son propios de cada cónyuge:
-
-I. Los bienes de que era dueño al tiempo de celebrarse el matrimonio y los que adquiera por prescripción durante la sociedad, así como los que durante la misma adquiera por don de la fortuna, por donación de cualquier especie o por herencia o legado constituido a favor de uno de ellos;
-
-II. Los bienes adquiridos durante la sociedad por compra o permuta de los (sic) raíces que pertenezcan a cada uno de ellos antes de celebrarse el matrimonio;
-
-III. Los adquiridos por consolidación de la propiedad y el usufructo, cuando se hace en beneficio de uno solo de ellos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 208.
 
-Forman el fondo de la sociedad legal:
-
-I. Todos los bienes adquiridos por cualquiera de los cónyuges en el ejercicio de una profesión científica, del comercio o de la industria o por cualquier otro trabajo;
-
-II. Los bienes provenientes de herencia, legado o donación hecha a ambos cónyuges sin designación de partes;
-
-III. Los bienes adquiridos por título oneroso durante la sociedad a costa del caudal común, ya que la adquisición sea para la comunidad o para uno de los consortes;
-
-IV. Los frutos, acciones, rentas e intereses percibidos o devengados durante la sociedad, procedentes de los bienes comunes o de los propios de cada uno de los consortes;
-
-V. Los edificios construídos durante la sociedad con fondos de ella, sobre suelo propio de alguno de los cónyuges, pero se abonará a éste el valor del terreno.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 209.
 
-Todos los bienes que existan en poder de cualquiera de los cónyuges al hacerse la separación de ellos, se presumen gananciales, mientras no se pruebe lo contrario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 210.
 
-Ni la declaración de uno de los cónyuges que afirme ser suya una cosa, ni la confesión del otro, ni ambas juntas, se estimarán pruebas suficientes, aunque sean judiciales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 #### Sección Segunda. Administración de la Sociedad Legal
 
 ###### Artículo 211.
 
-El dominio y la posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; será necesario el consentimiento de ambos para la enajenación y gravamen de los bienes que forman el fondo de la sociedad, pudiendo el juez respectivo suplir el consentimiento de cualquiera de los esposos en caso de injustificada oposición para la enajenación o gravamen.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 212.
 
-Los cónyuges no pueden repudiar o aceptar la herencia común sin el consentimiento del otro. En caso de disenso el Juez resolverá tomando en cuenta el interés superior de los hijos.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 213.
 
-La administración de la sociedad conyugal legal, recaerá en ambos cónyuges o bien, por acuerdo mutuo en cualquiera de los dos.
-
-En caso de desacuerdo entre los cónyuges, se estará a lo dispuesto en el último párrafo del artículo 166 de este Código.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 214.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o de forma individual con autorización del otro, son carga de la sociedad legal.
-
-Se exceptúa de lo dispuesto en este artículo:
-
-I. Las deudas que provengan de delito de alguno de los cónyuges o de un hecho moralmente reprobado, aunque no sea punible por la ley;
-
-II. Las deudas que graven los bienes propios de los cónyuges, no siendo por censos o pensiones cuyo importe haya entrado al fondo social.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 215.
 
-Las deudas de cada cónyuge, anteriores al matrimonio, no son carga de la sociedad legal, a no ser en los casos siguientes:
-
-I. Si el otro cónyuge estuviere personalmente obligado;
-
-II. Si hubieren sido contraídas en provecho común de los cónyuges.
-
-Se comprenden entre estas deudas las que provengan de cualquier hecho de los consortes, anterior al matrimonio, aun cuando la operación se haga efectiva durante la sociedad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 216.
 
-Los créditos anteriores al matrimonio, en caso de que el cónyuge obligado no tenga con qué satisfacerlos, sólo podrán ser pagados con los gananciales que le correspondan, después de disuelta la sociedad legal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 217.
 
-Los acreedores del cónyuge deudor podrán también hacer uso, respecto de los bienes de éste, del derecho que conceden los artículos 2877 y 2878.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 218.
 
-Son carga de la sociedad legal:
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-I. Las pensiones y réditos devengados, durante el matrimonio, de obligaciones a que estuvieren afectos los demás bienes propios de los cónyuges y los que formen el fondo social;
-
-II. Los impuestos y los gastos de conservación y reposición indispensables para la conservación de los bienes propios de cada cónyuge, o los que se hicieren en relación con los bienes del fondo social;
-
-III. El mantenimiento de la familia, educación de los hijos comunes, y de los entenados, hijos legítimos o menores de edad o impedidos;
-
-IV. Los gastos de inventario y los demás que se causen en la liquidación y entrega de los bienes que formaron el fondo social.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VI. De la separación de bienes
 
 ###### Artículo 219.
 
-Puede haber separación de bienes en virtud de capitulaciones anteriores al matrimonio o durante éste por convenio de los consortes, o bien por sentencia judicial. La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrarse el matrimonio sino también los que adquieran después.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 220.
 
-La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos de acuerdo con las estipulaciones consignadas en el presente código.
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 221.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 222.
 
-No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio, siendo suficiente el contrato que se celebre ante el Oficial del Registro Civil. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 223.
 
-Las capitulaciones que establezcan separación de bienes al contraerse el matrimonio, únicamente contendrán la voluntad expresa de los consortes para que esta separación quede definida por el convenio. Las capitulaciones que establezcan la misma separación de bienes después de haber regido la sociedad conyugal, sea voluntaria o legal, contendrán la separación de los bienes que hayan formado el fondo de la sociedad conyugal, y la determinación de los bienes propios de cada consorte; sin perjuicio de la prueba que sobre la propiedad de los bienes adquiridos antes del matrimonio y de todos aquellos que no formen el fondo de la sociedad conyugal puedan aducirse en caso de objeción a aquellas capitulaciones.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 224.
 
-En el régimen de separación de bienes, los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan y, por consiguiente, todos los frutos y las accesiones de dichos bienes no serán comunes sino del dominio exclusivo del dueño de ellos, sin perjuicio de las cargas que sobre esos bienes deban pesar de acuerdo con los fines de la sociedad conyugal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 225.
 
-Serán propios de cada uno de los cónyuges los salarios, sueldos, emolumentos o ganancias que tuvieren por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 226.
 
-Cada uno de los cónyuges debe contribuir a la educación, alimentación de los hijos y las demás cargas del matrimonio de acuerdo con lo dispuesto en el artículo 163.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 227.
 
-Los bienes que los cónyuges adquieran en común, por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario. Para la enajenación de estos bienes y para todo cuanto con ellos se relacione, se seguirán las reglas de la mancomunidad.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 228.
 
-Los cónyuges no podrán cobrarse entre sí retribución u honorario alguno por los servicios que le prestare o por los consejos y asistencia que diere; pero si uno de los consortes por causa de ausencia o impedimento del otro no originada por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 229.
 
-Los cónyuges que ejerzan la patria potestad se dividirán entre sí por partes iguales la mitad del usufructo que la ley les concede.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 230.
 
-Las sentencias dictadas contra uno de los cónyuges en el régimen de separación de bienes, no producirán efectos contra los del otro.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 231.
 
-Todas las obligaciones que se contraigan para el sostenimiento y amparo de la familia en el régimen de separación de bienes, estarán a cargo solidaria y mancomunadamente de ambos cónyuges, en los términos del artículo 163.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VII. De las donaciones antenupciales
 
 ###### Artículo 232.
 
-Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 233.
 
-Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos, en consideración al matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 234.
 
-Las donaciones antenupciales entre esposos aunque fueren varias, no podrán exceder, reunidas, de la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 235.
 
-Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 236.
 
-Para calcular si es inoficiosa una donación antenupcial, tienen el esposo donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 237.
 
-Si al hacerse la donación no se formó inventario de los bienes del donador no podrá elegirse la época en que aquélla se otorgó.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 238.
 
-Las donaciones antenupciales no necesitan para su validez de aceptación expresa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 239.
 
-Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 240.
 
-Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 241.
 
-Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 242.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 243.
 
-Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efectuarse.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 244.
 
-Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VIII. De las donaciones entre consortes
 
 ###### Artículo 245.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 246.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes, salvo en los casos previstos en el artículo 2236 del presente Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 247.
 
-Estas donaciones no se anularán por la supervivencia de hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IX. De los matrimonios nulos e ilícitos
 
 ###### Artículo 248.
 
-Son causas de nulidad de un matrimonio:
-
-I. Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos señalados en el artículo 156 de este Código;
-
-II. Que se haya celebrado en contravención con lo dispuesto en los artículos 99, 100, 102, 104 y 105.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 249.
 
@@ -2031,11 +1863,11 @@ II. Que se haya celebrado en contravención con lo dispuesto en los artículos 9
 
 ###### Artículo 253.
 
-El parentesco de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 254.
 
-La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 255.
 
@@ -2043,71 +1875,63 @@ La acción que nace de esta clase de nulidad y la que dimana del parentesco de a
 
 ###### Artículo 256.
 
-La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges, para casarse con el que quede libre, puede ser deducida por el cónyuge inocente, por los hijos y herederos del cónyuge víctima del atentado y por el Ministerio Público, dentro del término de seis meses contados desde que se celebró el nuevo matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 257.
 
-El miedo y la violencia serán causas de nulidad del matrimonio si concurren las circunstancias siguientes:
-
-I. Que uno u otro importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
-
-II. Que el miedo haya sido causado, o la violencia hecha, al cónyuge o a la persona o personas que lo tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
-
-III. Que uno u otro hayan subsistido al tiempo de celebrarse el matrimonio.
-
-La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de los sesenta días contados desde la fecha en que cesó la violencia o la intimidación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 258.
 
-La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 156 sólo puede ser pedida por los cónyuges dentro del término de sesenta días contados desde que se celebró el matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 259.
 
-Tiene derecho de pedir la nulidad a que se refiere la fracción IX del artículo 156, el otro cónyuge y el tutor del incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 260.
 
-El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste, aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la ejercitará el Ministerio Público.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 261.
 
-La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges o por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 262.
 
-No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 263.
 
-El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia, ni de cualquiera otra manera. Sin embargo los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 264.
 
-Ejecutoriada la sentencia que declare la nulidad, el tribunal de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 265.
 
-El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 266.
 
-Los cónyuges no pueden celebrar transacción ni compromiso en árbitros acerca de la nulidad del matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 267.
 
-El matrimonio contraído de buena fe aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante éste y trescientos días después de la declaración de nulidad, si no se hubieren separado los cónyuges, o desde su separación en caso contrario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 268.
 
-Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos. Si ha habido mala fe de parte de ambos consortes el matrimonio produce efectos civiles solamente respecto de los hijos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 269.
 
-La buena fe se presume; para destruir esa presunción se requiere prueba plena.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 270.
 
-Si la demanda de nulidad fue entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 294.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 271.
 
@@ -2117,315 +1941,113 @@ Si la demanda de nulidad fue entablada por uno solo de los cónyuges, desde lueg
 
 (DEROGADO, P.O. 12 DE MAYO DE 2017)
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1971)</small>
-
 ###### Artículo 273.
 
-Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes y se liquidará la sociedad conyugal si existiere. Los produetos (sic) repartibles, si los dos cónyuges hubieren procedido de buena fe se dividirán entre ellos en la forma que corresponda. Si sólo hubiere habido buena fe de parte de uno de los cónyuges, se estará a lo dispuesto en el artículo 195 de este Código. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a los hijos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 274.
 
-Declarada la nulidad del matrimonio, se observarán respecto de las dotaciones (sic) antenupciales las reglas siguientes:
-
-I. Las hechas por un tercero a los cónyuges, podrán ser revocadas;
-
-II. Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
-
-III. Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
-
-IV. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 275.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, se tomarán las precauciones a que se refiere el capítulo I del título quinto del libro tercero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 276.
 
-Es ilícito pero no nulo el matrimonio:
-
-I. Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-II. Si no se ha otorgado la previa dispensa que requiere el artículo 159 o si se celebra sin transcurrir los términos que fija el artículo 301.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 277.
 
-Los que infrinjan el artículo anterior así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señala el Código de la materia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-### CAPITULO X. Del divorcio
+> <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+### CAPITULO X
 
 ###### Artículo 278.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El divorcio se clasifica en incausado, mutuo consentimiento y administrativo.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-El divorcio incausado, podrá solicitarse por cualquiera de los cónyuges ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, y sin importar el tiempo que haya transcurrido desde su celebración.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 279.
 
-El cónyuge, que pretenda divorciarse; estará obligado a presentar al Juzgado la propuesta de convenio en que se fijen los siguientes puntos:
-
-I. La designación de la persona o personas, que tendrán la guarda y custodia de los hijos del matrimonio, menores de edad o incapaces.
-
-II. Las modalidades bajo las cuales se ejercerá el derecho de visita, con el progenitor que no tenga la custodia, así mismo se especificará la casa en que habitarán los hijos.
-
-III. El modo de subvenir a las necesidades de los hijos y en su caso, del cónyuge a quien deba darse alimentos, tanto durante el procedimiento como después de decretarse el divorcio, así como las medidas correspondientes en caso de que la mujer se encuentre en cinta (sic). Deberá precisarse la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
-
-IV. Designación del cónyuge que hará uso del domicilio conyugal y del menaje, o en su caso el domicilio en que vivirá cada uno de los cónyuges en caso de no existir domicilio conyugal;
-
-V. El nombramiento del administrador de los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma y bases de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo de todos los bienes muebles e inmuebles de la sociedad conyugal y el proyecto de partición.
-
-VI. En caso de que el matrimonio esté sujeto al régimen de separación de bienes, deberá señalarse la compensación, que no podrá ser superior al cincuenta por ciento del valor de los bienes adquiridos dentro del matrimonio, para el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 280.
 
-Los jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 281.
 
-La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto los interesados deberán comunicar su reconciliación a el Juez de lo Familiar.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 282.
 
-El cónyuge que no quiera pedir el divorcio, podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, cuando éste se encuentre en alguno de los siguientes casos:
-
-I. Padezca cualquier enfermedad incurable que sea, además, contagiosa o hereditaria;
-
-II. Padezca impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada; o
-
-III. Padezca trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo;
-
-En estos casos, el Juez, con conocimiento de causa, podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 283.
 
-Las acciones y pretensiones derivadas del matrimonio relativas a la situación de hijos menores de edad o incapaces, al derecho de alimentos o al régimen patrimonial adoptado en el matrimonio, que sean consecuencia de la disolución del vínculo, se resolverán en el mismo procedimiento de divorcio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 284.
 
-El divorcio por mutuo consentimiento se obtendrá ocurriendo ante el juez competente en los términos que ordene el Código de Procedimientos Civiles.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 284 Bis.
 
-Al admitirse la demanda de divorcio, o antes si hubiere urgencia, y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
-
-I. Separar a los cónyuges. Para este efecto el juzgador verificará que el uso de la vivienda familiar sea designado al cónyuge que vaya a ejercer la guarda y custodia de los hijos, salvo que a solicitud de éste optará por la separación del domicilio conyugal; informando al Juez el nuevo lugar de residencia;
-
-II. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges pudiendo ser uno de éstos o bien, el régimen de custodia compartida.
-
-El otorgamiento de la guarda y custodia de menores de edad no estará sustentado en prejuicios de género, por lo cual deberá atenderse al interés superior de la niñez;
-
-III. Establecer las modalidades del derecho de visita o convivencia de las personas menores de dieciocho años o incapaces con el progenitor que no los tenga en custodia, en caso de disensión, el Juzgador resolverá lo conducente tomando siempre en cuenta las circunstancias personales, la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
-
-IV. Señalar y asegurar los alimentos que debe dar el cónyuge obligado al cónyuge acreedor y a los hijos.
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2021)</small>
-
-V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede embarazada;
-
-VI. Dictar las medidas necesarias para que los cónyuges no se causen daños o perjuicios en sus personas ni en sus bienes, ni en los de la sociedad conyugal; bienes o derechos de sus hijos;
-
-VII. Ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y del Comercio del Estado y de aquellos lugares en que se conozca que tienen bienes;
-
-VIII. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2476 de este Código;
-
-IX. Separar al cónyuge agresor del domicilio conyugal, así como prohibirle acudir a dicho domicilio, al lugar de trabajo, donde estudien y/o lugar determinado donde se encuentren los agraviados. Siempre que la gravedad del caso así lo requiera el juzgador podrá prohibir al cónyuge agresor, que se acerque, intimide o moleste a los agraviados en su entorno social, así como a las personas integrantes de su familia, escuchando previamente a éstos; y, dictar las medidas necesarias a fin de evitar actos de violencia familiar; y
-
-X. Las demás que considere necesarias.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 285.
 
-Los cónyuges que pretendan divorciarse por mutuo consentimiento estarán obligados a presentar al Juzgado un convenio en que se fijen los puntos:
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-I. Designación del progenitor, o en su caso, personas a quienes sean confiados los hijos del matrimonio, menores o incapaces. Asimismo se especificará la casa que habitarán tales hijos y la forma y condiciones en que se ejercerá el derecho de visita o convivencia de los hijos con el progenitor que no tenga la custodia;
-
-II. En el mismo caso de la fracción anterior, el modo de subvenir a las necesidades de los hijos tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-III. La casa en donde vivirá cada uno de los cónyuges mientras dure el procedimiento;
-
-IV. La cantidad que a título de alimentos el cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que deba darse para asegurarlo;
-
-V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio así como la designación de liquidadores, cuando se haya celebrado el matrimonio bajo el régimen de sociedad conyugal. A este efecto, se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 285 Bis.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el juzgador podrá acordar, de manera provisional, a petición de los ascendientes, parientes colaterales o de los propios menores de edad, cualquier medida que se considere benéfica para éstos últimos.
-
-El juzgador podrá modificar esta decisión si las circunstancias en que la tomó varían y se demuestra que la modificación es en interés de las personas menores de dieciocho años.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 285 Ter.
 
-En el divorcio tendrá derecho a los alimentos el que lo necesite, y su monto se fijará de acuerdo a las circunstancias siguientes:
-
-I. La edad y el estado de salud de los cónyuges;
-
-II. Su grado de estudios y posibilidad de acceso a un empleo;
-
-III. Medios económicos de uno y de otro cónyuge, así como de sus necesidades;
-
-IV. Otras obligaciones que tenga el cónyuge deudor; y
-
-V. Las demás que el juzgador estime necesarias y pertinentes.
-
-En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
-
-La obligación de dar alimentos cesará, si el acreedor alimentario contrae nuevas nupcias o hace vida en común con otra persona como su pareja.
-
-En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 286.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 286 Bis.
 
 (DEROGADO, P.O. 7 DE AGOSTO DE 2021)
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
-
 ###### Artículo 287.
 
-La sentencia de divorcio fijará la situación de los hijos, para lo cual, el Juzgador gozarán (sic) de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad y en especial a la custodia y cuidado de las personas menores de dieciocho años, así como las obligaciones de crianza y el derecho de los hijos de convivir con ambos progenitores, debiendo obtener los elementos de juicio para ello; oír y considerar la opinión de niñas, niños y adolescentes, atendiendo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
-
-Asimismo, podrá dictar todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que afecte el desarrollo superior del menor. De igual forma, para el caso de mayores de dieciocho años incapaces, sujetos a la tutela de alguno de los excónyuges.
-
-Para el caso de los mayores incapaces sujetos a tutela de alguno de los excónyuges, se deberán establecer las medidas a que se refiere este artículo para su protección. Así también fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a sus hijas e hijos.
-
-En caso de desacuerdo, el juzgador habrá de resolver sobre la procedencia de la compensación que prevé el artículo 279 fracción VI, del presente Código, atendiendo a las circunstancias especiales de cada caso.
-
-De igual manera el juzgador fijará las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar, en términos de la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género. Medidas que podrán ser suspendidas o modificadas.
-
-En los casos en que cualquiera de los progenitores pierda la patria potestad queda sujetos (sic) a todas las obligaciones que tiene para con sus hijos.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 288.
 
-El divorcio por mutuo consentimiento puede solicitarse en cualquier momento, posterior a la celebración del matrimonio.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 289.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y, en su caso, a la liquidación de la sociedad conyugal; se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o en relación a los hijos. Los divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a la subsistencia y educación de los hijos hasta que lleguen a la mayoría de edad.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 290.
 
-El cónyuge que estime haber sufrido daño moral o afectación en los derechos de la personalidad con motivo y por el tiempo que estuvo unido en matrimonio, podrá ejercer la acción prevista en el artículo 1787 de este Código, en contra de quien fue su cónyuge.
-
-Se presumirá el daño moral y, por tanto, habrá lugar a la indemnización, además de los casos previstos en el párrafo segundo del artículo de referencia, cuando un cónyuge:
-
-I. Cometa delito doloso que merezca pena corporal en perjuicio del otro cónyuge o de sus hijos menores de edad o incapaces;
-
-II. Ejerza violencia o intimidación en el seno del hogar común; y
-
-III. Oculte deliberadamente padecer sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, enfermedad crónica e incurable que sea, además, contagiosa y hereditaria.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 291.
 
-Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, no tengan descendientes, y si los hubiere, sean mayores de dieciocho años, y que la mujer no esté embarazada.
-
-I. Los requisitos para la procedencia del divorcio administrativo son los siguientes:
-
-a) Solicitud por escrito;
-
-b) Copia certificada del acta de matrimonio de reciente expedición de no más de seis meses anteriores a la fecha de la solicitud;
-
-c) Declaración por escrito, bajo protesta de decir verdad, de no haber procreado hijos durante el matrimonio;
-
-d) Para el caso de tener hijos, deberá acreditar que son mayores de edad y no son acreedores alimentarios;
-
-e) Acreditar que la cónyuge no está embarazada;
-
-f) Comprobante de domicilio declarado por los cónyuges;
-
-g) En caso de haber contraído matrimonio bajo el régimen de sociedad conyugal legal, convenio de liquidación de la sociedad conyugal legal;
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-h) Identificación oficial o equivalente en caso de minoría de edad;
-
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
-
-i) Reconocer la solicitud por comparecencia dentro de un término de dos días posteriores a la fecha de presentación de la misma.
-
-II. Con independencia de los requisitos referidos en la fracción anterior, las personas extranjeras deberán cumplir con la siguiente documentación.
-
-a) Para el caso de que el divorcio lo soliciten mediante mandatario, por encontrarse fuera del país, acreditar la personalidad del mismo;
-
-b) Identificación oficial de los interesados;
-
-c) Demostrar que sus condiciones y calidad migratoria les permite realizar el divorcio administrativo; y
-
-d) Presentar certificación de su legal estancia en el país, debidamente expedida por la secretaria de relaciones exteriores.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
-
-Reunidos los requisitos anteriores, los cónyuges se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio o el del en que contrajeron matrimonio, deberán acreditar que son casados, mayores de edad; además de lo anterior, manifestarán su voluntad de divorciarse.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
-
-El Oficial del Registro Civil, previa identificación de los consortes les hará entrega de la solicitud de divorcio, misma que deberá ser requisitada y devuelta al Oficial del Registro Civil, hecho lo anterior, se citará a los cónyuges para que se presenten a reconocer la solicitud a los dos días posteriores. Si los consortes realizan el reconocimiento, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el libro respectivo.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
-
-El divorcio así obtenido será nulo absolutamente, si se comprueba que los cónyuges tienen hijos menores de 18 años o incapaces, o no han liquidado su sociedad conyugal, ante autoridad judicial o ante notario público. La acción para promover la nulidad la tendrá todo interesado legítimo o el Ministerio Público. En este caso el procedimiento seguirá en la vía de controversias del orden familiar que prevé el Código de Procedimientos Civiles. La manifestación de hechos falsos será sancionada en términos de lo establecido por el Código Penal.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
-
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden solicitar su divorcio por mutuo consentimiento ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 292.
 
-En virtud del divorcio los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 293.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del extinto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 294.
 
-Ejecutoriada la sentencia de divorcio o decretado el divorcio en términos del artículo 664 quinquies del Código de Procedimientos Civiles para el Estado de Oaxaca, El Juez de Primera Instancia remitirá copia de ella (sic) el Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 295.
 
@@ -2473,899 +2095,489 @@ En el divorcio por mutuo consentimiento, el cónyuge que estuviere imposibilitad
 
 (DEROGADO, P.O. 12 DE MAYO DE 2017)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TÍTULO SEXTO. Del parentesco, de los alimentos y de la violencia familiar
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. Del parentesco
 
 ###### Artículo 304.
 
-La ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 305.
 
-El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 306.
 
-El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer; y entre la mujer y los parientes del varón.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 307.
 
-El parentesco civil es el que nace de la adopción; existe entre el adoptante y el adoptado y entre éste y los parientes del primero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 308.
 
-Cada generación forma un grado, de parentesco.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 309.
 
-La línea es recta o transversal: la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas, que, sin descender de otras, proceden de un progenitor o tronco común.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 310.
 
-La línea recta es ascendente o descendente: ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 311.
 
-En la línea recta, los grados se cuentan por el número de generaciones, o por el de personas, excluyendo al progenitor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 312.
 
-En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De los alimentos
 
 ###### Artículo 313.
 
-La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 314.
 
-Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
-
-El concubino y la concubina se deben mutuamente alimentos en los mismos términos señalados para los cónyuges.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
-
-El concubino y la concubina tienen el derecho de preferencia que a los cónyuges concede el Artículo 164 de este Código para el pago de alimentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 315.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas, que estuvieren más próximos en grado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 316.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2019)</small>
-
-Será caso de excepción a la obligación mencionada en el párrafo que antecede, cuando consta judicialmente o se pruebe mediante juicio que los padres no hubieren cumplido con proporcionar alimentos a sus hijos cuando estos fueron menores de edad o los necesitaron o conste judicialmente que los hubieran abandonado. Subsistiendo en todo momento la decisión voluntaria del descendiente para proporcionar los alimentos demandados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 317.
 
-A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 318.
 
-Los hermanos y parientes colaterales a que se refiere el artículo anterior tienen obligación de dar alimentos a los niños, niñas y adolescentes. También deben alimentar a los que fueren incapaces
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 319.
 
-El adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 320.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad, los gastos de embarazo y parto. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación del alimentario y para proporcionarle un oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
-
-También comprenden las atenciones a las necesidades psíquicas, afectiva y de sano esparcimiento y en su caso los gastos de funerales.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-Por lo que hace a las personas adultas mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-En relación a las personas con algún tipo de discapacidad o aquellas declaradas en estado de interdicción lo necesario para lograr, en lo posible su habilitación o rehabilitación y su desarrollo.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-Los descendientes que al adquirir la mayoría de edad estén estudiando una carrera tienen derecho a recibir alimentos hasta concluida la misma, siempre y cuando realicen sus estudios de manera ininterrumpida y estos sean acordes con su edad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 321.
 
-El obligado a dar alimentos cumple la obligación, asignando una pensión competente al acreedor alimentario, o incorporándolo a su familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 322.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia al que deba recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, o cuando haya inconveniente legal para hacer esa incorporación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 323.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y las necesidades del que deba recibirlos. Para el caso de ascendientes, además de lo anterior, deberán manifestar bajo protesta de decir verdad el derecho a la reciprocidad alimentaria.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-Cuando las actividades económicas de quien debe dar alimentos no permitan saber con exactitud su capacidad económica y quien deba recibirlos sea menor de edad, éstos se darán atendiendo a la calidad de vida que haya tenido el menor en los últimos años.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-La pensión alimenticia que se haya fijado por convenio o sentencia judicial tendrá un incremento inmediato y equivalente al que tenga el salario mínimo general de la zona económica. De la petición del acreedor alimentario se dará vista a su contrario. El Juez resolverá sin más trámite.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
-
-La pensión alimenticia, deducida por sentencia de reconocimiento de paternidad, debe computarse a partir del conocimiento del embarazo y/o nacimiento del hijo. El juez, para calcular el monto de la pensión alimenticia cuando la obligación debe retrotraerse al momento del nacimiento, deberá considerar lo siguiente:
-
-I. Si existió o no conocimiento previo de su obligación;
-
-II. La buena o mala fe del deudor alimentario durante la tramitación del proceso;
-
-III. La posibilidad económica actual del deudor alimenticio; y
-
-IV. Las obligaciones alimenticias presentes, derivadas de su situación personal actual.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 323 Bis.
 
-Las personas menores de edad, con discapacidad, sujetos a estado de interdicción, personas adultas mayores y el cónyuge que de (sic) dedique al hogar gozan de la presunción de necesitar alimentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 324.
 
-Si fueren varios los que deban dar alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 325.
 
-Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviere, él cumplirá únicamente la obligación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 326.
 
-La obligación de dar alimentos no comprende la de proveer de capital a los hijos para que ejerzan el oficio, arte o profesión a que se hubieren dedicado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 327.
 
-Tienen acción para pedir el aseguramiento de los alimentos:
-
-I. El acreedor alimentario;
-
-II. El ascendiente que lo tenga bajo su patria potestad;
-
-III. El tutor;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-IV. Los hermanos y demás parientes colaterales dentro del cuarto grado;
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-V. El Ministerio Público o la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca a falta o por imposibilidad de las personas enunciadas en las tres fracciones que anteceden.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 328.
 
-Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 329.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 330.
 
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 331.
 
-En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad y, si ésta no alcanza a cubrirla, el exceso será de cuenta de los que ejerzan la patria potestad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 332.
 
-Cesa la obligación de dar alimentos:
-
-I. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
-
-II. Cuando el alimentario deja de necesitar los alimentos;
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo o al estudio del alimentario mayor de edad, mientras subsistan estas causas;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
-
-IV. Si el alimentario, sin consentimiento del que deba dar los alimentos, abandona la casa de éste, por causas injustificadas. Si las causas fueron atendibles, podrá el alimentario solicitar su desincorporación;
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
-
-V. Cuando los hijos cumplan la mayoría de edad y no se encuentren estudiando; hayan concluidos (sic) sus estudios, contraigan nupcias o se emancipen;
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
-
-VI. En caso de violencia familiar inferida, por el acreedor alimentista mayor de edad, contra el que debe prestarlos; y
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
-
-VII. Cuando el cónyuge o concubino que los recibe, realice un trabajo o actividad que le permita subsistir, contraiga nuevas nupcias o se una en concubinato.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 333.
 
-El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 334.
 
-Cuando el deudor alimentario no estuviera presente o estándolo rehusare entregar lo necesario para los alimentos y el sostenimiento de los miembros de su familia con derecho a recibirlos, será responsable de las deudas que se contraigan para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto; al efecto, deberá tomarse en consideración las circunstancias particulares sociales del acreedor alimentario.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 335.
 
-El cónyuge que sin culpa, se vea obligado a vivir separado del otro, podrá pedir al Juez de Primera Instancia del lugar de su residencia que obligue al otro a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que lo abandonó. El Juez, según las circunstancias, del caso fijará la suma que el culpable deba ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que pague los gastos que el inocente haya tenido que erogar con tal motivo.
-
-Lo expuesto en este artículo es aplicable también a la obligación alimentaria respecto a los hijos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 336.
 
-Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o inválidos, el Estado y los Municipios tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se trataré de hermanos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO III. Del registro de deudores alimentarios morosos
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+Artículo 336 Bis I.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Artículo 336 Bis I.- Quien incumpla total o parcialmente, con la obligación alimentaria ordenada provisional o definitivamente por la autoridad judicial o establecida mediante convenio judicial, por un período de treinta días naturales se constituirá en deudor alimentario moroso. El juez o jueza ordenará su inscripción en el Registro de Deudores Alimentarios Morosos remitiendo dentro de los tres días copia certificada del auto o sentencia para tal efecto.
+Artículo 336 Bis II.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-El deudor alimentario moroso que acredite ante la autoridad judicial de conocimiento, que se encuentra al corriente del pago de alimentos a que se refiere el párrafo anterior, podrá previo pago de derechos al estado, solicitar la cancelación de la inscripción correspondiente.
+Artículo 336 Bis III.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+Artículo 336 Bis IV.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Artículo 336 Bis II.- La Dirección del Registro Civil del Estado de Oaxaca, a través de la Unidad Administrativa tendrá a su cargo la creación y manejo del registro de deudores alimentarios morosos; y estará facultado para expedir un certificado que informe si una persona se encuentra inscrita o no en el Registro de Deudores Alimentarios Morosos.
+Artículo 336 BIS V.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-La Unidad del Registro de Deudores Alimentarios Morosos hará público en la plataforma digital o en el portal electrónico oficial del Registro Civil, el nombre de las personas deudoras alimentarias morosas que se encuentren inscritas en éste.
+Artículo 336 Bis VI.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+Artículo 336 Bis VII.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Artículo 336 Bis III.- La jueza o juez ordenará al Instituto de la Función Registral del Estado de Oaxaca que haga la anotación marginal en los bienes propiedad de la persona deudora alimentaria morosa, el Instituto informará sobre la procedencia de la anotación.
-
-La anotación marginal a la que hace referencia el párrafo anterior, quedará exenta de pago de derechos al estado.
-
-La Dirección del Registro Civil deberá celebrar convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información de las personas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos.
-
-También deberá celebrar convenios con las entidades públicas y los municipios para que brinde información de aquellas personas físicas proveedoras de servicios y las morales representadas o asociadas por personas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos en términos de la ley de la materia.
-
-La jueza o juez deberá dar vista al Ministerio Público y a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público de las personas deudoras alimentarias morosas, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
-
-Artículo 336 Bis IV.- El Registro de Deudores Alimentarios Morosos contendrá:
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2021)</small>
-
-I. Nombre completo del deudor alimentario;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-II. La Clave única de registro de población del deudor alimentario;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-III. Nombre del acreedor o de los acreedores alimentarios;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2021)</small>
-
-IV. Datos del acta que acredite el vínculo entre el deudor y acreedor alimentario, en su caso;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2021)</small>
-
-V. Monto de la pensión decretada o convenida, en su caso, número de pagos incumplidos y monto del adeudo alimentario;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2021)</small>
-
-VI. Número de pagos incumplidos y monto del adeudo alimentario;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-VII. Órgano Jurisdiccional que ordenó el registro;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2021)</small>
-
-VIII. Datos del expediente jurisdiccional de la que deriva su inscripción.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
-
-Artículo 336 BIS V.- El certificado expedido por la Unidad del registro de deudores alimentarios morosos contendrá lo siguiente:
-
-I. Nombre y Clave Única de Registro de Población del deudor;
-
-II. Número de acreedores alimentarios;
-
-III. Monto de la pensión alimenticia decretada o convenida;
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-IV. Número de pagos incumplidos y monto del adeudo alimentario;
-
-V. Órgano jurisdiccional que ordenó el registro;
-
-VI. Datos del expediente jurisdiccional de la que deriva su inscripción.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-La expedición del certificado a favor de personas acreedores (sic) alimentarias quedará exenta del pago de los derechos estatales.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-Artículo 336 Bis VI.- La cancelación a la inscripción en el Registro de Deudores Alimentarios Morosos procede cuando el deudor demuestre ante la autoridad judicial que ha cumplido con su obligación alimentaria y que la misma se encuentra garantizada; para la cual la jueza o juez ordenará su cancelación, misma que se tramitará de manera incidental.
-
-Procederá también la cancelación de la inscripción del registro de deudor alimentario cuando haya cesado la obligación alimentaria.
-
-Hecha la cancelación se hará de (sic) conocimiento del Instituto de la Función Registral para que realice la anotación correspondiente.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
-
-Artículo 336 Bis VII.- La inscripción en el Registro de Deudores Alimentarios Morosos tendrá los efectos siguientes:
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-I. Constituirá prueba plena en los delitos que atentan contra la obligación alimentaria.
-
-II. Inscribir en el Instituto de la Función Registral la cantidad adeudada en los bienes del deudor alimentario.
-
-III. Garantizar la preferencia en el pago de deudas alimentarias.
-
-Queda exento el pago de derechos de inscripción a que refiere este artículo en el Instituto de la Función Registral.
-
-(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2015) (REUBICADO ANTES CAPÍTULO III, P.O. 23 DE JUNIO DE 2018)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO IV. De la violencia familiar
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
+Artículo 336 Bis A.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Artículo 336 Bis A.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física, psicoemocional, sexual, económica y patrimonial, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+Artículo 336 Bis B.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
-
-Artículo 336 Bis B.- Por violencia familiar se considera todo acto u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica o sexualmente que se ejerza en contra de cualquier miembro de la familia por otro integrante de la misma; ya sea que, se realicen dentro o fuera del domicilio familiar y que tiene por efecto causar un daño. Los tipos de violencia familiar son los siguientes:
-
-I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas.
-
-II. Violencia Psicoemocional: Todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, humillaciones, celotipia, actitudes devaluatorias, de abandono, comparaciones destructivas, que provoquen en quien las recibe, depresión, o menoscabo, detrimento, disminución, afectación o alteración autocognitiva y autovalorativa que integran su autoestima o en alguna esfera o área de su estructura psíquica.
-
-III. Violencia Sexual: Acto u omisión cuyas formas de expresión pueden ser obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
-
-IV. Violencia contra los derechos sexuales y reproductivos: Acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud reproductiva de cualquier integrante de la familia y por tanto, afecte a la libertad para disfrutar de una vida sexual satisfactoria y sin riesgos para la salud, a la libertad para acceder o no a servicios de atención a la salud sexual y reproductiva, a los anticonceptivos y para ejercer o no el derecho a la paternidad o maternidad responsable;
-
-V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
-
-VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
-
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la libertad, dignidad o integridad de la familia.
-
-Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
-
-Para efectos de éste artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado, así como de parentesco civil.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 13 DE ABRIL DE 2018)</small>
-
-> <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL PRESENTE TÍTULO QUEDA INTEGRADO POR DOS CAPÍTULOS.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO SEPTIMO. De la filiación
 
-> <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL CONTENIDO DE LOS ANTERIORES CAPÍTULO II, III Y IV QUEDA INMERSO EN EL PRESENTE CAPÍTULO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. De los hijos
 
-> <small>(REFORMADO Y REUBICADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-###### Artículo 336 Bis.
-
-La filiación es el vínculo existente entre los hijos y sus progenitores. La misma confiere e impone a los hijos, al padre y a la madre, los derechos y obligaciones establecidas por este Código.
-
-La filiación queda probada por el nacimiento, las presunciones legales, el reconocimiento que el padre o la madre hagan de su hijo, la sentencia ejecutoria que declare la paternidad o la maternidad, o por la adopción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+Artículo 336 Bis (SIC).- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 337.
 
-Se presumen hijos de los cónyuges:
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
-
-I. Los nacidos después de la celebración del matrimonio; y
-
-II. Los nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 337 Bis.
 
-Se presumen hijos del concubino y de la concubina:
-
-I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato; y
-
-II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida en común entre el concubino y la concubina.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 338.
 
 (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
-
 ###### Artículo 339.
 
-El cónyuge no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su cónyuge, a no ser que el nacimiento se le haya ocultado, o que demuestre que, durante los diez meses que precedieron al nacimiento, no tuvo acceso carnal con su cónyuge.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 340.
 
-El cónyuge podrá desconocer al hijo nacido después de trescientos días contados desde que judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la cónyuge, el hijo o el tutor de éste, pueden sostener en tales casos la paternidad del cónyuge.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 341.
 
-El cónyuge no podrá desconocer que es padre del hijo nacido después de la celebración del matrimonio.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
-
-I. Si se probare que supo antes de casarse del embarazo de su futura cónyuge;
-
-II. Si concurrió al levantamiento del acta de nacimiento y ésta fué firmada por él, o contiene su declaración de no saber firmar;
-
-III. Si ha reconocido expresamente por suyo al hijo de su mujer;
-
-IV. Si el hijo no nació capaz de vivir.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 342.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio o a partir del día siguiente al en que cesó la vida en común entre el concubino y la concubina, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 343.
 
-En todos los casos en que el cónyuge tenga derecho de contradecir que el nacido es hijo habido en su matrimonio, deberá deducir su acción dentro de sesenta días contados desde el nacimiento, si estuvo presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el engaño, si se le ocultó el nacimiento.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 344.
 
-Si el marido está bajo tutela por cualquiera de las causas señaladas en la Fracción II del artículo 465, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día en que legalmente se declare haber terminado el impedimento.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 345.
 
-Cuando el cónyuge, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el cónyuge.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 346.
 
-Los herederos del cónyuge, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido después de la celebración del matrimonio, cuando el cónyuge no haya comenzado esa demanda. En los demás casos, si el cónyuge ha muerto sin hacer la reclamación dentro del plazo hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 347.
 
-Si la viuda, la divorciada, o aquélla cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias dentro de los trescientos días siguientes a la disolución del primero, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
-
-I. Se presume que el hijo es del primer marido, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
-
-II. Se presume que el hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
-
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuya.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 348.
 
-El desconocimiento de un hijo de parte del marido, o de sus herederos se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 348 Bis.
 
-Son aplicables al concubino, por analogía, las disposiciones de los artículos 343, 344, 345, 346 y 348 de este Código.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 349.
 
-En el juicio de contradicción de la paternidad serán oídos la madre, en su caso la concubina y el hijo, a quien, si fuere menor, se proveerá de un tutor interino.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 350.
 
-Para los efectos legales se reputa nacido el feto que, desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias, nunca, ni por nadie podrá entablarse demanda sobre la filiación.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 351.
 
-Sobre la filiación no debe haber transacción ni compromiso en árbitros.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 352.
 
-Puede haber transacción o arbitraje sobre los derechos pecuniarios que de la filiación, pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 353.
 
-La filiación de los hijos se prueba con la partida de su nacimiento, pero si se cuestiona la existencia o validez del matrimonio de los padres, debe presentarse el acta de matrimonio de éstos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 354.
 
-A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo de los cónyuges. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la Ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito, o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
-
-Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 355.
 
-Si hubiere hijos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad, les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos su legitimidad por sólo la falta de presentación del acta de matrimonio, siempre que se pruebe por la posesión de estado de hijos legítimos, o que por los medios de prueba que autoriza el artículo anterior se demuestre la filiación y no esté contradicha por el acta de nacimiento.
-
-REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 356.
 
-Si un individuo ha sido reconocido constantemente como hijo de otro, por la familia de éste y en la sociedad, quedará probada la posesión de estado de hijo, si además concurre alguna de las circunstancias siguientes:
-
-I. Que el hijo haya usado constantemente el apellido del que pretende que es su padre, con anuencia de éste;
-
-II. Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento.
-
-Además, será necesario que el presunto padre tenga la edad exigida por el artículo 375.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 356 Bis.
 
-La filiación de los hijos a que se refiere el artículo 337 bis de este Código, se demuestra con el acta de nacimiento de aquéllos y, en su caso, con la prueba de la fecha en que comenzó o terminó la vida común de los padres.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 357.
 
-Cuando el hijo o la hija no está en posesión de estado de hijo de matrimonio y lo pretenda, deberá acreditar:
-
-I. El matrimonio de la madre con la persona de quien pretende ser hijo legítimo;
-
-II. El nacimiento durante el tiempo del matrimonio o dentro de los trescientos días siguientes a su disolución;
-
-III. La identidad personal con el hijo nacido del matrimonio de que se trate.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 358.
 
-Declarado nulo el matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos habidos durante él se consideran como hijos habidos en matrimonio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 359.
 
-Las acciones civiles que se intenten contra el hijo por los bienes que haya adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 360.
 
-La acción que compete al hijo para reclamar su estado, es imprescriptible para él y para sus descendientes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 361.
 
-Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
-
-I. Si el hijo murió antes de cumplir veinticinco años;
-
-II. Si el hijo cayó en demencia antes de cumplir veinticinco años y murió después en el mismo estado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 362.
 
-Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste hubiere desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
-
-También podrán contestar toda demanda que tenga por objeto despojarlo de la condición de hijo legítimo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 363.
 
-Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los herederos conceden los dos artículos que preceden, si el hijo no dejó bienes suficientes para pagarles.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 364.
 
-Las acciones de que hablan los tres artículos anteriores, prescriben a los cuatro años contados desde el fallecimiento del hijo.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 365.
 
-La posesión de estado de hijo habido en matrimonio no puede perderse sino por sentencia que haya causado ejecutoria que así lo declare.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 366.
 
-Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio, sin que preceda sentencia, por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
-
-REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 367.
 
-El matrimonio subsecuente de los padres, hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 388.
 
-se presume hija o hijo de la madre, las niñas y niños cuya madre haya fallecido con motivo del parto o cesárea, por lo que se tomará el certificado de nacimiento suscrito por médico o medica autorizado para el ejercicio de su profesión, o persona que haya asistido al parto, en el formato expedido para tal efecto por la Secretaría de Salud, para asentar el nombre de la madre en el registro de nacimiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 369.
 
-Si el hijo fuere reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 370.
 
-Aunque el reconocimiento sea posterior a la celebración del matrimonio, los hijos adquieren todos sus derechos desde el día en que se celebró el matrimonio de sus padres.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 371.
 
-Pueden gozar también del derecho que les concede el artículo 367, los hijos que dejaren descendientes, si hubieren fallecido antes de celebrarse el matrimonio de sus padres.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 372.
 
-Pueden gozar también del mismo derecho, los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está embarazada, o que lo reconoce si aquélla estuviere embarazada.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 373.
 
-Respecto de los hijos habidos fuera de matrimonio, la maternidad quedará probada por el solo hecho del nacimiento. Para justificar este hecho, serán admisibles todos los medios de prueba permitidos por la Ley.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 374.
 
-Respecto del padre, la filiación se establece por el reconocimiento voluntario o por sentencia que declare la paternidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 375.
 
-Pueden reconocer a sus hijos naturales los que tengan la edad exigida para contraer matrimonio, aumentada con la edad del hijo que va a ser reconocido y un año más.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 376.
 
-El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o a falta de éstos sin la autorización judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 377.
 
-No obstante el reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 378.
 
-Puede reconocerse al hijo que no ha nacido o al que ha muerto si ha dejado descendencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 379.
 
-Los padres pueden reconocer a su hijo conjunta o separadamente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 380.
 
-El reconocimiento hecho por uno de los padres produce efectos respecto de él y no respecto del otro progenitor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 381.
 
-El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, no se tendrá por revocado aun cuando el testamento se revoque.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 382.
 
-El reconocimiento puede ser contradicho por un tercero interesado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 383.
 
-El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 384.
 
-El reconocimiento de un hijo nacido fuera del matrimonio deberá hacerse de alguno de los modos siguientes:
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
-
-I. En la partida de nacimiento, ante el Oficial del Registro Civil;
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2021)</small>
-
-II. Por acta especial ante el mismo Oficial;
-
-III. Por escritura pública;
-
-IV. Por testamento;
-
-V. Por confesión judicial directa y expresa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 385.
 
-Cuando el padre o la madre reconozcan separadamente a un hijo no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fué habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación se testarán de oficio, de modo que queden absolutamente ilegibles.
-
-Se exceptúa de lo dispuesto en este artículo, el caso de reconocimiento del hijo que no ha nacido cuando se haga por cualquiera de los tres últimos medios, a no ser que a la vez sea hijo de mujer casada en cuyo caso no se podrá hacer el reconocimiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 386.
 
-El Oficial del Registro Civil, el Juez de Primera Instancia en su caso, o el Notario que consientan en la violación del artículo que preceda, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 387.
 
-El padre o la madre podrán reconocer al hijo o hija nacidos antes o fuera del matrimonio de aquéllos; y el marido podrá reconocer al habido durante éste; pero no tendrá derecho de llevarlo a vivir al domicilio conyugal, si no es con el consentimiento expreso de la cónyuge.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 388.
 
-El hijo o hija biológica de un hombre casado o una mujer casada podrá ser reconocido como hijo o hija por persona distinta del marido o mujer, aun cuando éstos no lo hayan desconocido, si presenta cualquiera de los siguientes documentos:
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-I. Prueba pericial en genética molecular del ácido desoxirribonucleico o ADN, en la que resulte la compatibilidad genética entre el menor a registrar y quien se atribuya la paternidad o maternidad;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-II. Constancia municipal de cohabitación con un mínimo de un año ininterrumpido anterior a la fecha de nacimiento del menor a registrar.
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-III. Sentencia ejecutoriada.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 389.
 
-El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene o del que el Juez le nombrará especialmente para el caso, oyendo para el efecto a dicho menor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 390.
 
-Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando llegue a la mayor edad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 391.
 
-El término para deducir esta acción será de cuatro años, que comenzarán a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 392.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño a quien le ha dado su nombre o permitido que lo lleve, que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será de sesenta días, contados desde que tuvo conocimiento de él.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 393.
 
-Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
-
-REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 394.
 
-Cuando el padre y la madre que no viven juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos lo tendrá bajo guarda y custodia y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 395.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la guarda y custodia el que primero haya reconocido, salvo que se conviniera otra cosa entre los padres y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público, oyendo, de ser posible, al menor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 396.
 
-La investigación de la paternidad de los hijos nacidos fuera del matrimonio está permitida sólo en los casos siguientes:
-
-I. En los de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción.
-
-II. Cuando el hijo se encuentre en posesión del estado de hijo del presunto padre.
-
-III. Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente.
-
-IV. Cuando el hijo tenga a su favor un principio de prueba por escrito contra el pretendido padre.
-
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-V. Cuando la mujer, sin haber vivido maritalmente con el presunto padre, haya tenido al hijo y aquél se niegue a reconocerlo.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-En todos estos casos el procedimiento se seguirá en la vía de controversias del orden familiar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 397.
 
-La posesión de estado, para los efectos de la fracción II del artículo que precede, se justificará demostrando por los medios ordinarios de prueba que el hijo ha sido tratado por el presunto padre o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 398.
 
-Está permitido al hijo nacido fuera del matrimonio y a sus descendientes, investigar la maternidad, la cual podrá probarse por cualquiera de los medios ordinarios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 399.
 
-(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 400.
 
-El hecho y aun lo (sic) obligación contraída de dar alimentos no constituye por sí solo prueba, ni aun presuncional de paternidad o maternidad. Tampoco puede alegarse como razón para investigar ésta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 401.
 
-Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres.
-
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos el derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 402.
 
-El hijo reconocido por el padre, por la madre, o por ambos, tiene derecho:
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-I. A llevar el apellido del que lo reconoce;
-
-II. A ser alimentado por éste;
-
-III. A percibir la porción hereditaria y los alimentos que fije la ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De la Adopción Plena
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
-
 ###### Artículo 403.
 
-La adopción plena es el acto por el cual una persona mayor de veinticinco años en ejercicio de sus derechos, acepta a uno o más menores o incapacitados como hijos, adquiriendo respecto de él o ellos todos los derechos que los padres tienen y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo.
-
-El acto de adopción produce efectos legales entre los adoptantes y adoptados así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores; subsisten, sin embargo, los impedimentos para contraer matrimonio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 404.
 
-Toda persona mayor de veinticinco años puede adoptar, siempre que entre el adoptante y el adoptado haya una diferencia de edad no menor de diecisiete años.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
-
-Podrán ser adoptados simultáneamente por un solo matrimonio o una sola persona, gemelos, mellizos, triates o múltiples y en general dos o más menores o incapacitados.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
-
-Cuando se trate de hermanos de diferentes edades, quedará a juicio del Juez decidir sobre la conveniencia de la separación o no de éstos para darlos en adopción.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 405.
 
-El marido y la mujer podrán adoptar cuando los dos estén conformes en considerar al adoptado o adoptados como sus hijos. En este caso, bastará que cualquiera de los dos cónyuges sea mayor de veinticinco años, pero deberá existir la diferencia de edad de diecisiete años entre adoptantes y adoptado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 406.
 
-Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el artículo anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 407.
 
-El tutor no puede adoptar al pupilo sino después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 408.
 
@@ -3373,95 +2585,37 @@ El tutor no puede adoptar al pupilo sino después de que hayan sido definitivame
 
 ###### Artículo 409.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 410.
 
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 411.
 
-Para que la adopción pueda tener lugar, deberán consentir en ella, en sus respectivos casos las personas u organismo público que enseguida se indica:
-
-I. El que ejerce la Patria Potestad sobre el menor, menores, incapacitado o incapacitados, que se trate o traten de adoptar;
-
-II. El tutor de quien o quienes se van a adoptar;
-
-III. Las personas que hayan acogido al o a los sujetos de adopción y tenga o tengan el trato como de hijo, cuando no exista titular que ejerza la Patria Potestad, ni tutor;
-
-IV. El organismo público descentralizado denominado "Sistema para el Desarrollo Integral de la Familia" cuando el menor o menores se encuentren bajo su cuidado;
-
-V. El Ministerio Público del domicilio del o de los adoptados cuando éstos no tengan padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
-
-Si el sujeto o sujetos de la adopción tienen más de catorce años, también se necesita su consentimiento para ese efecto.
-
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
-
-El consentimiento otorgado en términos de ley ante la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior reconocimiento ante la presencia judicial.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 411 Bis.
 
-Para llevar a cabo la adopción, deberán satisfacerse también los siguientes requisitos:
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-I. Demostrar plenamente que es mayor de veinticinco años;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
-
-II. Que el o los adoptantes tienen medios económicos bastantes para proveer a la subsistencia del menor o incapacitado como hijo propio, según las circunstancias del sujeto o sujetos que tratan de adoptarse;
-
-III. Que el adoptante sea persona de buenas costumbres;
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
-
-IV. Certificado de no estar inscrita en el Registro de Deudores Alimentarios Morosos;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
-
-V. La carta de idoneidad emitida por el Sistema para el Desarrollo Integral de la Familia;
-
-VI. Deberá justificar que la adopción sea benéfica para los menores o incapacitados que tratan de adoptarse;
-
-VII. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2010)
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
-
-Artículo 411 Bis A.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
-
-La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
-
-En igualdad de circunstancias se dará preferencia en la adopción a solicitantes mexicanos sobre extranjeros. Asimismo se dará preferencia a las adopciones nacionales sobre las internacionales.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+Artículo 411 Bis A.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 412.
 
-Si el tutor, el Ministerio Público o las personas a que se refiere el artículo 411, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Juez, tomando en consideración el interés superior del menor que trate de adoptarse procurando su bienestar con absoluto respeto a sus derechos fundamentales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 413.
 
-El procedimiento para hacer la adopción será fijado por el Código de Procedimientos Civiles.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 414.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 415.
 
-El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
-
-El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
-
-I. Para efectos de impedimento para contraer matrimonio; y
-
-II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad; si fuere· menor de edad se requerirá el consentimiento de los adoptantes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 416.
 
@@ -3473,13 +2627,11 @@ II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuan
 
 ###### Artículo 418.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 419.
 
-La adopción plena es irrevocable.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 420.
 
@@ -3501,237 +2653,155 @@ La adopción plena es irrevocable.
 
 (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ## TITULO OCTAVO. De la patria potestad
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
 ###### Artículo 425.
 
-La patria potestad es el conjunto de deberes que la sociedad impone a los progenitores para atender la crianza, la protección y la educación de sus hijos e hijas menores de edad y favorecer el desarrollo integral de sus potencialidades. Es de orden público y se ejerce atendiendo al interés superior de la infancia e implica un respeto mutuo entre progenitores e hijos.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-Los hijos, cualquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 426.
 
-Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deba ejercerla conforme a la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 427.
 
-La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades que le impriman las leyes aplicables al caso.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 428.
 
-La patria potestad de los hijos se ejerce:
-
-I. Por el padre y la madre; y
-
-II. Por los abuelos que a juicio del Juez representen el mayor interés de los menores, oyendo en todo caso a éstos.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 429.
 
-Si el padre y la madre se separan o viven separados decidirán, de común acuerdo, quien atenderá la guarda y la custodia de los hijos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+Artículo 429 Bis A.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-En caso de desacuerdo, o de advertirlo necesario, el Juez, con base en el interés superior de la niñez, a la opinión del Ministerio Público, y al resultado de las pruebas periciales en materia de trabajo social y de psicología familiar que oficiosamente habrán de practicárseles a los progenitores, a sus parejas con las que éstos cohabiten y de la (sic) demás pruebas que estimen pertinentes, resolverá lo conducente a la designación de la persona que deba tener la guarda y la custodia del menor, teniendo como objetivo primordial, el cuidar, educar y respetar al niño, niña o adolescente, sin infringir actos de fuerza que atenten contra su integridad física o psíquica.
-
-Los hijos habitarán con el ascendiente al que se encargue la custodia. Por lo que el otro progenitor estará obligado a colaborar en su alimentación y conservará los derechos de visita y convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
-
-En todos los asuntos del orden familiar, los jueces y tribunales estarán facultados para recabar y desahogar de oficio las pruebas necesarias para preservar el interés superior de la niñez, otorgando al ministerio público la intervención que corresponda.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
-
-Artículo 429 Bis A.- Quien ejerza la guardia y custodia de un niño, niña o adolescente debe procurar el respeto de los menores para ambos ascendientes; en consecuencia, cada uno de los ascendientes o progenitor deberá evitar cualquier acto encaminado a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro ascendiente o progenitor.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2018)</small>
-
-Artículo 429 Bis B.- A efecto de que el menor sea adecuadamente escuchado, deberá contar con un Asistente de menores o un perito, debiendo ser en ambos casos profesional en psicología, quien asistirá al menor para facilitar la comunicación libre y espontánea; valorar su aptitud para comprender los hechos y darle protección psicoemocional en las sesiones donde sea oído por el Juez en privado sin la presencia de los progenitores. El menor para ser escuchado deberá contar con una edad mínima de siete años, de acuerdo a lo que establece el Código Civil para el Estado de Oaxaca.
-
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
-
-Dicho asistente será designado por el Sistema Estatal para el Desarrollo Integral de la Familia o la Dirección de Servicios Periciales del Tribunal y tendrá la facultad de solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga la guardia y custodia del menor dar cumplimiento a sus requerimientos.
-
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
-
-Si en la escucha, la niña, niño o adolescente manifestaré la negativa de convivir con uno de los progenitores, el órgano jurisdiccional suspenderá provisionalmente la convivencia y ordenará las medidas y el desahogo de pruebas que considere necesarias para asegurar la estabilidad y desarrollo integral del mismo, levantando dicha medida una vez asegurado que no exista una situación de riesgo o las condiciones sean favorables para la convivencia.
+Artículo 429 Bis B.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 430.
 
-En los casos previstos en los artículos 394 y 395 cuando por cualquier circunstancia deje de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 431.
 
 (DEROGADO, P.O. 7 DE FEBRERO DE 1998)
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
-
 ###### Artículo 432.
 
-A falta del padre y de la madre ejercerán la patria potestad sobre los hijos e hijas, los parientes a que se refiere la fracción II del artículo 428 de este ordenamiento.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 433.
 
-A fin de llamar al ejercicio de la patria potestad a las personas a que se refiere el artículo 428, el Juez deberá evaluar las circunstancias concretas y decidir en función de lo que sea más conveniente para el menor de que se trate, atendiendo, tanto los aspectos afectivos, como los económicos. En todo caso se privilegiarán los primeros sobre los segundos y se oirá al menor.
-
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
-
-Tratándose de casos que deriven de un procedimiento penal por el delito de feminicidio cometido por el padre contra la madre, el Juez o Jueza deberá otorgar la patria potestad de forma preferente a los abuelos maternos, debiendo asegurarse que dicha determinación cumpla con el principio de interés superior de la niñez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 434.
 
-Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria poaestad (sic) los que siguen en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en ejercicio de ese derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 435.
 
-Mientras estuviere el hijo bajo la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos, o decreto de autoridad competente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 436.
 
-A las personas que tienen al menor bajo su patria potestad incumbe la obligación de educarlo convenientemente y procurar su desarrollo integral.
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
-
-Cuando llegue a conocimiento de cualquier autoridad administrativa o del juez que aquellas personas que teniendo la patria potestad, la guarda o custodia del menor, no cumplen con las obligaciones que les corresponden, o ejerzan violencia familiar contra él, lo harán saber al Ministerio Público quien promoverá lo que corresponda, y el juez de inmediato, decretará las medidas de protección para aquél.
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2017)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 437.
 
-Quienes ejerzan la patria potestad o tengan menores bajo su seguridad o custodia, tienen la obligación de cuidar, educar y respetar su integridad física y psicológica, así como observar una conducta que sirva a éstos de buen ejemplo.
-
-La obligación de educar no implica infligir al menor de edad, actos de fuerza que atenten contra su integridad física o psíquica.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 438.
 
-El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-En todo caso, el Juez oirá a los hijos sujetos a la patria potestad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 439.
 
-En caso de irracional disenso, resolverá el juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Si la resolución del juez es en el sentido de autorizar al menor para contraer obligaciones o comparecer en juicio, los actos jurídicos que sean consecuencia de esta autorización sólo tendrán efectos con relación al mismo menor y a sus bienes; pero de ninguna manera afectarán a la persona ni a los bienes de los que ejerzan la patria potestad sobre él.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De los efectos de la patria potestad respecto de los bienes del hijo
 
 ###### Artículo 440.
 
-Los que ejercen la patria potestad son los legítimos representantes de los que están bajo de ella y tienen la administración legal de los bienes que les pertenezcan, conforme a las prescripciones de este código.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 441.
 
-Si la patria potestad se ejerce a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, ambos serán los administradores de los bienes del menor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 442.
 
-La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 443.
 
-Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
-
-I. Bienes que adquiera por su trabajo;
-
-II. Bienes que adquiera por cualquiera otro título.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 444.
 
-Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
-
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si el hijo adquiere bienes por herencia, legado o donación, y el testador o donante ha dispuesto que el usufructo pertenezca al hijo en totalidad o en proporción determinada, o que se destine a un fin expreso, se estará a lo dispuesto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 445.
 
-Los padres pueden renunciar su derecho a la mitad del usufructo haciendo constar su renuncia por escrito o por cualquiera otro medio que no deje lugar a duda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 446.
 
-La renuncia del usufructo hecha en favor del hijo, se considera como donación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 447.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 448.
 
-El usufructo de los bienes concedido a las personas que ejerzan la patria potestad, lleva consigo las obligaciones que expresa el Capítulo III, del Título Quinto, del Libro Segundo, y, además, las impuestas a los usufructuarios, con excepción de la obligación de dar fianza, fuera de los casos siguientes:
-
-I. Cuando los que ejerzan la patria potestad han sido declarados en quiebra o estén concursados;
-
-II. Cuando contraigan ulteriores nupcias;
-
-III. Cuando su administración sea notoriamente ruinosa para los hijos.
-
-Si el obligado a dar fianza en los casos de este artículo, no lo hiciere dentro del término de sesenta días desde que sobrevino la causa de otorgarla, quedará separado de la administración de los bienes que pasará al ascendiente, que deba ejercer la patria potestad en su falta, o al tutor que corresponda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 449.
 
-Cuando por la ley o por voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con las restricciones que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 450.
 
-Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo, sino por causa de absoluta necesidad o de evidente beneficio, y previa la autorización del juez competente.
-
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas o acciones, por menor valor del que se cotice en plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de ellos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 451.
 
-Siempre que el juez conceda licencia a los que ejercen la patria potestad para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al fin para el que se solicitó, así como para que el resto se invierta en la adquisición de un inmueble o se imponga, con segura hipoteca, en favor del menor.
-
-Al efecto, el precio de la venta se depositará en una institución de crédito y la persona que ejerza la patria potestad no podrá disponer de él sin orden judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 452.
 
-El derecho de usufructo concedido a las personas que ejerzan la patria potestad, se extingue:
-
-I. Por la emancipación o la mayor edad del hijo;
-
-II. Por la pérdida de la patria potestad;
-
-III. Por renuncia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 453.
 
-En los casos de suspensión de la patria potestad también se suspenderá el derecho a la administración y usufructo de los bienes del hijo, que pasará a la persona que deba desempeñar, en defecto del suspendido, la patria potestad; si no la hubiere se designará tutor.
-
-La suspensión de esos derechos durará el mismo tiempo que el de la patria potestad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 454.
 
-Las personas que ejerzan la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 455.
 
-En todos los casos en que las personas que ejerzan la patria potestad tengan interés opuesto al de los hijos, serán éstos representados en juicio y fuera de él, por un tutor nombrado por el juez para cada caso.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 456.
 
-Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejerzan la patria potestad, los bienes del hijo se derrochen o disminuyan.
-
-Estas medidas se tomarán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años o del Ministerio Público en todo caso.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 457.
 
-Las personas que ejerzan la patria potestad deben entregar a los hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenezcan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III
 
@@ -3739,391 +2809,291 @@ De modos de acabarse y suspenderse la patria potestad.
 
 ###### Artículo 458.
 
-La patria potestad se acaba:
-
-I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
-
-II. Con la emancipación;
-
-III. Con la mayor edad del hijo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 459.
 
-La patria potestad se pierde:
-
-I. Cuando el que la ejerce es condenado expresamente a la pérdida de ese derecho, o cuando es condenado, dos o más veces, a pena privativa de libertad mayor de dos años;
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-II. Cuando por las costumbres depravadas de quienes la ejercen, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad, o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la Ley penal. Se entiende por maltrato todo acto u omisión dirigido a dominar, someter, controlar o agredir física, psicoemocional o sexualmente al hijo o hija sujeto a la patria potestad;
-
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
-
-III. Por la exposición que el que, o los que, ejerzan la patria potestad hicieren de los sujetos a ella, o porque los dejen abandonados por más de seis meses.
-
-IV. (DEROGADA, P.O. 13 DE ABRIL DE 2018)
-
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2015)</small>
-
-V. Por incumplimiento de la obligación alimentaria por más de 90 días sin causa justificada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 460.
 
-La madre o la abuela que pase a segundas nupcias no perderá, por este hecho, la patria potestad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 461.
 
-El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 462.
 
-La patria potestad se suspende:
-
-I. Por incapacidad, declarada judicialmente.
-
-II. Por ausencia, declarada en forma;
-
-III. Por sentencia condenatoria que imponga como pena esta suspensión.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ENERO DE 2016)</small>
-
-IV. Por no permitir que se lleven a cabo las convivencias decretadas por la autoridad judicial o por convenio aprobado judicialmente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 463.
 
-La patria potestad no es renunciable.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO NOVENO. De la tutela
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. Disposiciones generales
 
 ###### Artículo 464.
 
-El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señala la ley.
-
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades de que habla la parte final del artículo 427.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 465.
 
-Tienen incapacidad natural y legal:
-
-I. Los menores de edad;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1999)</small>
-
-II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos y aquéllos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por sí mismos, o manifestar su voluntad por algún medio.
-
-III. (DEROGADA, P.O. 11 DE DICIEMBRE DE 1999)
-
-IV. (DEROGADA, P.O. 11 DE DICIEMBRE DE 1999
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 466.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del capítulo I, título décimo de este libro.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 467.
 
-La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 468.
 
-El que rehusare sin causa legal desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 469.
 
-La tutela se desempeñará por el tutor con intervención del Curador, y del Consejo de Tutelas, en los términos establecidos en este Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 470.
 
-Ningún incapaz puede tener al mismo tiempo más de un tutor y de un curador definitivos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 471.
 
-El tutor y el curador pueden desempeñar la tutela o la curatela de tres incapaces. Si éstos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor o un curador a todos ellos, aunque sean más de tres.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 472.
 
-Cuando los intereses de alguno o algunos de los incapaces, que tienen el mismo tutor, fueren opuestos, éste lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces que el mismo designe, mientras se decide el punto de oposición.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 473.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al propio tiempo por una misma persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado en línea recta, o dentro del cuarto de la colateral.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 474.
 
-No pueden ser nombrados tutores o curadores las personas que integren los consejos locales de tutelas; ni los que estén ligados por parentesco de consanguinidad con éstas en línea recta, sin limitación de grado; y en la colateral, dentro del cuarto inclusive.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 475.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, el ejecutor testamentario y en caso de intestado los parientes y una persona con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia respectivo, dentro de ocho días, a fin de que provea a la tutela, bajo la pena (sic) una multa de uno a cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
-
-Los Oficiales del Registro Civil, las Autoridades administrativas y las judiciales, tienen la obligación de dar aviso al Juez de Primera Instancia de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 476.
 
-La tutela puede ser testamentaria, legítima o dativa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 477.
 
-Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 478.
 
-Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 479.
 
-El menor de edad que se encuentre en cualquiera de los casos a que se refiere la Fracción II del artículo 465, estará sujeto a la tutela de los menores, mientras no llegue a la mayoría de edad. Si al llegar ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 480.
 
-Los hijos menores de un incapaz quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 481.
 
-El cargo de tutor respecto de las personas comprendidas en los casos a que se refiere la Fracción II del artículo 465, durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o los ascendientes. El cónyuge tendrá obligaciones de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tiene (sic) derecho a que se les releve de ella a los diez años de ejercerla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 482.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado; o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas por el de interdicción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 483.
 
-Los jueces de Primera Instancia son las autoridades competentes para intervenir en los asuntos relativos a la tutela.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 484.
 
-El Juez de Primera Instancia del domicilio del incapacitado cuidará provisionalmente de la persona y bienes de éste, hasta que se nombre tutor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 485.
 
-El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De la tutela testamentaria
 
 ###### Artículo 486.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 428, tienen derecho, aunque fuere menor, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión del hijo póstumo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 487.
 
-El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 488.
 
-Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 489.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad ni bajo la de otro, puede nombrarle tutor sólo para la administración de los bienes que le deje.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 490.
 
-Si fueren varios los menores podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos; observándose en su caso lo dispuesto en el artículo 472.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 491.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
-
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 492.
 
-En ningún otro caso hay lugar a la tutela testamentaria del incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 493.
 
-Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrado, a quien substituirán los demás, por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción. Esto no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 494.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de los bienes del incapaz, que no sean contrarias a las leyes, a no ser que el juez, oyendo al tutor y al curador las estime dañosas a los intereses de aquél, en cuyo caso podrá dispensarlas o modificarlas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 495.
 
-Si por algún nombramiento provisional de tutor o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 496.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III. De la tutela legítima de los menores
 
 ###### Artículo 497.
 
-Ha lugar a tutela legítima:
-
-I. Cuando no hay quien ejerza la patria potestad, ni tutor testamentario;
-
-II. Cuando deba nombrarse tutor por causa de divorcio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 498.
 
-La tutela legítima corresponde:
-
-I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
-
-II. Por falta o incapacidad de los hermanos a los colaterales dentro del tercer grado inclusive.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 499.
 
-Si hubiese varios hermanos de igual vínculo, y varios tíos de igual grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 500.
 
-La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV. De la tutela legítima de los mayores de edad incapaces
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2021)</small>
-
 ###### Artículo 501.
 
-Los cónyuges y concubinas son tutores legítimos uno en pos del otro.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 502.
 
-Los hijos mayores de edad son tutores de su padre o madre viudos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 503.
 
-Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el juez elegirá el que le parezca más apto.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 504.
 
-El padre y la madre son en derecho tutores de sus hijas e hijos solteros o viudos que no tengan hijos o hijas o que teniéndolos no puedan desempeñar la tutela. Cuando ambos padres vivan convendrán entre sí quien de ellos desempeñará la tutela y en caso de desacuerdo, la jueza o el juez elegirá al que le parezca más apto o apta para el cargo; si solamente vive el padre o la madre, el supérstite desempeñará las funciones de la tutela, salvo impedimento legal o físico.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 505.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: el abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 498 observándose, en su caso, lo que dispone el artículo 499.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 506.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V. De la tutela legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia
 
 ###### Artículo 507.
 
-La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 508.
 
-Los directores de las inclusas, hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 509.
 
-En el caso del artículo anterior, no es necesario el discernimiento del cargo.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 509 Bis.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia intrafamiliar, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia intrafamiliar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VI. De la tutela dativa
 
 ###### Artículo 510.
 
-La tutela dativa tiene lugar:
-
-I. Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
-
-II. Cuando el tutor testamentario está impedido temporalmente de ejercer su cargo y no hay algún pariente de los designados en el artículo 498;
-
-III. En los demás casos en que lo ordene la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 511.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 512.
 
-Si el menor no ha cumplido dieciséis años el nombramiento de tutor lo hará el juez de entre las personas que figuran en la lista formada cada año por el Consejo de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 513.
 
-Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 514.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 515.
 
-Los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela, en este segundo caso, tendrá por objeto el cuidado de la persona del menor a efecto de que reciba la educación que corresponde. El tutor será nombrado a petición del Consejo de Tutelas, del Ministerio Público, del mismo menor, y aun de oficio por el juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 516.
 
-En el segundo caso del artículo anterior el juez nombrará, de entre las personas que figuren en las listas que deben formar los consejos de tutelas, la que desempeñe la del menor, siempre que aquélla esté conforme con desempeñar gratuitamente el cargo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 517.
 
-Si el menor que se encuentra en el segundo caso previsto por el artículo 514, adquiere bienes, el juez le nombrará tutor dativo, de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VII. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
 
 ###### Artículo 518.
 
-No pueden ser tutores, aunque estén anuentes en recibir el cargo:
-
-I. Los menores de edad;
-
-II. Los incapaces mayores de edad;
-
-III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-IV. Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
-
-V. Los que hayan sido condenados por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
-
-VI. Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
-
-VII. Los que al deferirse (sic) la tutela tengan pleito pendiente con el incapacitado;
-
-VIII. Los deudores del incapacitado en cantidad considerable, a juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda declarándolo así expresamente, al hacer el nombramiento;
-
-IX. Los jueces, magistrados y demás funcionarios o empleados de la administración de justicia;
-
-X. El que no esté domiciliado en el lugar en que que (sic) deba ejercer la tutela;
-
-XI. Los empleados públicos de Hacienda, que por razón de su destino, tengan responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto;
-
-XII. Los que padezcan enfermedad crónica contagiosa;
-
-XIII. Los demás a quienes lo prohíba la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 519.
 
-Serán separados de la tutela:
-
-I. Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de los bienes del incapaz;
-
-II. Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes;
-
-III. Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 604;
-
-IV. Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su inhabilidad;
-
-V. El tutor que se encuentre en el caso previsto por el artículo 159;
-
-VI. El tutor que permanezca ausente, por más de seis meses, del lugar en que deba desempeñar la tutela.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 520.
 
-No pueden ser tutores ni curadores de las personas comprendidas en la Fracción II del artículo 465, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 521.
 
@@ -4131,673 +3101,577 @@ No pueden ser tutores ni curadores de las personas comprendidas en la Fracción 
 
 ###### Artículo 522.
 
-El Ministerio Público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos por el artículo 519 y de los que no cumplan o abandonen el encargo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 523.
 
-El tutor que fuere procesado por cualquier delito, quedará suspenso en el ejercicio de su cargo desde que se provea el auto motivado de prisión, hasta que se pronuncie sentencia irrevocable.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 524.
 
-En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 525.
 
-Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VIII. De las excusas para el desempeño de la tutela
 
 ###### Artículo 526.
 
-Pueden excusarse de ser tutores:
-
-I. Los empleados y funcionarios públicos;
-
-II. Los militares en servicio activo;
-
-III. Los que tengan bajo su patria potestad tres o más descendientes;
-
-IV. Los que fueren tan pobres que no puedan atender a la tutela sin menoscabo de su subsistencia;
-
-V. Los que por el mal estado habitual de su salud, o por no saber leer ni escribir no pueden atender debidamente la tutela;
-
-VI. Los que tengan sesenta años cumplidos;
-
-VII. Los que tengan a su cargo otra tutela o curaduría.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 527.
 
-Si el que teniendo excusa legítima para ser tutor, acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 528.
 
-El tutor debe proponer sus impedimentos o excusas dentro de diez días después de sabido el nombramiento, disfrutando un día por cada veinte kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente.
-
-Transcurrido el término sin ejercitar el derecho, se entiende renunciada la excusa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 529.
 
-Si el tutor tuviere dos o más excusas, las propondrá simultáneamente dentro del plazo señalado en el artículo anterior; y si propone una sola, se entenderán renunciadas las demás.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 530.
 
-Mientras se califica el impedimento o la excusa, el juez nombrará un tutor interino.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 531.
 
-El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 532.
 
-El tutor, que sin excusa o desechada la que hubiere propuesto, no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurrirá la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citado no se presenta al juez manifestando su parentesco con el incapaz.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 533.
 
-Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda según la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IX. De la garantía que deben prestar los tutores para asegurar su manejo
 
 ###### Artículo 534.
 
-El tutor, antes de que se le discierna el cargo, prestará caución para asegurar su manejo. Esta caución consistirá:
-
-I. En hipoteca o prenda;
-
-II. En fianza.
-
-La garantía prendaria que preste el tutor se constituirá depositando las cosas dadas en prenda en una Institución de Crédito autorizada para recibir depósitos; a falta de ella se depositarán en poder de personas de notoria solvencia y honorabilidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 535.
 
-Están exceptuados de la obligación de dar garantía:
-
-I. Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
-
-II. El tutor que no administre bienes;
-
-III. El padre, la madre y los abuelos, en los casos en que conforme a la ley son llamados a desempeñar la tutela de sus descendientes salvo lo dispuesto en el artículo 538;
-
-IV. Los que acojan a un expósito, lo alimenten y eduquen convenientemente por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 536.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, hagan necesaria aquélla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 537.
 
-La garantía que presten los tutores no impedirá que el juez, a moción del Ministerio Público, del Consejo de Tutelas, de los parientes próximos del incapacitado o de éste, si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 538.
 
-Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía; salvo el caso de que el juez, con audiencia del curador o del Consejo de Tutelas, lo crea conveniente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 539.
 
-Siempre que el tutor sea también coheredero del incapaz y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale a la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 540.
 
-Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 541.
 
-El tutor no podrá dar fianza para caucionar su manejo sino cuando carezca de bienes en que constituir fianza, hipoteca o prenda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 542.
 
-Cuando los bienes que tenga no alcancen a cubrir la cantidad que ha de asegurar conforme al artículo siguiente, la garantía podrá consistir: Parte en hipoteca o prenda, parte en fianza, o solamente en fianza, a juicio del juez y previa audiencia del curador y del Consejo de Tutelas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 543.
 
-La hipoteca o prenda y, en su caso, la fianza, se darán:
-
-I. Por el importe de las rentas de los bienes raíces en los dos últimos años y por los réditos de los capitales impuestos durante ese mismo tiempo;
-
-II. Por el valor de los bienes muebles;
-
-III. Por el de los productos de las fincas rústicas en dos años, calculados por peritos, o por el término medio de productos en un quinquenio, a elección del juez;
-
-IV. Si hubiere negociaciones mercantiles e industriales por el 20% del importe de las mercancías y demás efectos muebles, calculado por los libros, si están llevados en debida forma, o a juicio de peritos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 544.
 
-Si los bienes del incapacitado enumerados en el artículo que precede aumentan o disminuyen durante la tutela podrá aumentarse o disminuirse proporcionalmente la hipoteca, la prenda o la fianza, a pedimento del tutor, del curador, del Ministerio Público, o del Consejo de Tutelas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 545.
 
-El juez responde subsidiariamente de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 546.
 
-Si el tutor, dentro de tres meses de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artículo 543, se procederá al nombramiento de nuevo tutor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 547.
 
-Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario solemne y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos.
-
-Para cualquier otro acto de administración, requerirá la autorización judicial, la que se concederá, si procede, oyendo al curador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 548.
 
-Al presentar el tutor su cuenta anual, el curador o el Consejo de Tutelas deben promover información de supervivencia o idoneidad de los fiadores dados por aquél; esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El Ministerio Público tiene igual facultad y, hasta de oficio, el juez puede exigir esa información.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 549.
 
-Es también obligación del curador y del Consejo de Tutelas, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO X. Del desempeño de la tutela
 
 ###### Artículo 550.
 
-Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 507.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 551.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño pueda rehusarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 552.
 
-El tutor está obligado:
-
-I. A alimentar y educar al incapacitado;
-
-II. A destinar de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración, si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
-
-III. A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado dentro del término que el juez designe, con intervención del curador y del mismo incapacitado, si goza de discernimiento y ha cumplido dieciséis años de edad.
-
-El término para formar el inventario no podrá ser mayor de seis meses;
-
-IV. Administrar el caudal del incapacitado. El pupilo será consultado para los actos importantes de la administración, cuando sea capaz de discernimiento y mayor de dieciséis años.
-
-La administración de los bienes que el pupilo ha adquirido con su trabajo, le corresponde a él y no al tutor;
-
-V. A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
-
-VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 553.
 
-Los gastos de alimentación y educación del incapacitado deben regularse de manera que nada necesario le falte, según sus condiciones y posibilidad económica.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 554.
 
-Cuando el tutor entre en el ejercicio de su encargo, el juez fijará con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del incapacitado, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que el que nombre tutor hubiere señalado para dicho objeto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 555.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según las circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo de Tutelas o por sí mismo, ponerlo en conocimiento del juez para que dicte las medidas convenientes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 556.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del juez, quién decidirá este punto prudentemente y oyendo en todo caso al mismo menor, al curador y al Consejo de Tutelas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 557.
 
-Si las rentas del menor no alcanzaren a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 558.
 
-Si los menores o los mayores de edad, con algunas de las incapacidades a que se refiere el artículo 465 Fracción II, fuesen indigentes o careciesen de suficientes medios para los gastos que demandan su alimentación y educación, el tutor exigirá judicialmente la prestación de estos gastos a los parientes que tienen la obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea obligado a dar alimentos, por razón de su parentesco con tutelado, el curador ejercitará la acción a que este artículo se refiere.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 559.
 
-Si los menores o mayores de edad con incapacidades como las que señala el artículo 465 en su Fracción II no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor con autorización del Juez de los Familiar, quien oirá el parecer del curador y el Consejo Local de las Tutelas, pondrá al tutelado en un establecimiento de beneficencia pública o privada en donde pueda alimentarse y habilitarse. En su caso, si esto no fuera posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando a su tutelado, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 560.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 561.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 552 está obligado a presentar al juez, en el mes de enero de cada año, certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 562.
 
-Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior, el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial que se otorgará con audiencia del curador. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediatamente al juez para obtener la debida aprobación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 563.
 
-La obligación de hacer inventario no puede ser dispensada ni aun por los que tienen derecho de nombrar tutor testamentario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 564.
 
-Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 565.
 
-El tutor está obligado a listar en el inventario el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 566.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 552.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 567.
 
-Hecho el inventario no se admite al tutor rendir prueba en contra de él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
-
-Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de derecho claramente establecido.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 568.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen, y el juez, oído el parecer del tutor, determinará en justicia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 569.
 
-El tutor, dentro del primer mes de ejercer su cargo, fijará, con aprobación del juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados, podrá aumentarse después, sino con aprobación judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 570.
 
-Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas las sumas listadas en sus respectivos objetos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 571.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en este caso se respetará su voluntad en cuanto no ofrezca grave inconveniente a juicio del juez.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 572.
 
-El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones (sic) de capitales y que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses, contados desde que se reúna la cantidad de tres mil veces el valor diario de la Unidad de Medida y Actualización vigente, con segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que pueda sobrevenir al realizarla o en inversión bancaria.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 573.
 
-Si para hacer la imposición dentro del término señalado en el artículo anterior, hubiere algún inconveniente grave, lo manifestará al juez, quien podrá ampliar el plazo por otros tres meses.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 574.
 
-El autor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean impuestos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 575.
 
-Mientras que se hacen las imposiciones a que se refieren los artículos 573 y 574 el tutor depositará las cantidades que perciba en una Institución de Crédito autorizada al efecto.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 576.
 
-Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor o del mayor con alguna de las incapacidades a que se refiere el artículo 465 Fracción II debidamente justificada y previa a la confirmación del curador y la autorización judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 577.
 
-Cuando la enajenacón (sic) se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 452.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 578.
 
-La venta de bienes raíces de los menores y mayores incapaces, es nula, si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda pudiendo dispensarla, acreditada la utilidad que resulte al tutelado.
-
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta, ni dar fianza a nombre del tutelado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 579.
 
-Cuando se trate de enajenar, gravar, o hipotecar a título oneroso, bienes que pertenecen al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones o seguridades con que deban hacerse, pudiendo si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 580.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el juez.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 581.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios los negocios (sic) del incapacitado. Cuando el objeto de la transacción consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, se necesitará del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 582.
 
-El nombramiento de árbitros hecho por el autor (sic) deberá sujetarse a la aprobación del juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 583.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, sus hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 584.
 
-Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, copartícipes, o socios del incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 585.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y la aprobación judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 586.
 
-El tutor no puede aceptar para sí, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 587.
 
-El tutor no puede dar en arrendamiento los bienes del incapacitado, por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose en su caso lo dispuesto en el artículo 579.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 588.
 
-El arrendamiento, hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido, aun cuando se acabe la tutela; pero será nula toda anticipación de rentas o alquileres por más de dos años.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 589.
 
-Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado, ya sea que se constituya o no hipoteca en el contrato.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 590.
 
-El tutor no puede hacer donación a nombre del incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 591.
 
-El menor debe respetar a su tutor: Este tiene, respecto de aquél, las mismas facultades que a los ascendientes concede el artículo 437.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 592.
 
-Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 593.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 594.
 
-La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 595.
 
-Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales con las siguientes modificaciones:
-
-I. En los casos en que conforme a derecho se requiera el consentimiento del cónyuge, se suplirá éste por el Juez con audiencia del curador;
-
-II. En los casos en el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará.
-
-Es obligación del curador promover este nombramiento, y si no la cumple, será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento el Consejo Local de Tutelas.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 596.
 
-Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes a que se refiere el artículo 581 de este Código, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 576 del mismo ordenamiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 597.
 
-Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 598.
 
-En caso de mal tratamiento, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado o del Consejo de Tutelas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 599.
 
-El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento, y para los tutores legítimos y dativos la fijará el juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 600.
 
-En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 601.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria o diligencia del tutor, tendrá éste derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el juez, con audiencia del curador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 602.
 
-Para que pueda hacerse en la retribución de los tutores el aumento extraordinario que permite el artículo anterior, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 603.
 
-El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este título hubiese recibido, si contraviniese lo dispuesto en el artículo 159.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO XI. De las cuentas de la tutela
 
 ###### Artículo 604.
 
-El tutor está obligado a rendir al juez cuenta detallada de su adquisición, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivarán la remoción del tutor.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 605.
 
-También tienen obligación de rendir cuenta, cuando por causas graves que calificará el Juez, la exijan el curador, el Consejo Local de Tutelas, el Ministerio Público, los propios incapaces señalados en la Fracción II del artículo 465, o los menores que hayan cumplido dieciséis años de edad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 606.
 
-La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes, y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañado de los documentos justificados y de un balance del estado de los bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 607.
 
-El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 608.
 
-Si el incapacitado no está en posesión de algunos bienes a que tenga derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses contados desde que tuvo noticia del derecho del incapacitado, no entabló a nombre de éste judicialmente, las acciones conducentes para recobrarlos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 609.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, pueda resultar al tutor por culpa o negligencia en el desempeño de su cargo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 610.
 
-Las cuentas deben rendirse en el lugar en que se desempeñe la tutela.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 611.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ello no haya resultado utilidad a los menores y a los mayores de edad incapaces, si esto ha sido sin culpa del primero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 612.
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el juez con audiencia del curador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 613.
 
-El tutor será igualmente indemnizado, según el prudente arbitrio del juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 614.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo tutelado y si esa dispensa se pusiere como condición en cualquier acto, se tendrá por no puesta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 615.
 
-El tutor que sea reemplazado por otro estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplace. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 616.
 
-El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela. El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 617.
 
-La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 618.
 
-La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 619.
 
-Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas de la misma.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO XII. De la extinción de la tutela
 
 ###### Artículo 620.
 
-La tutela se extingue:
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-I. Por la muerte del pupilo o porque desaparezca su incapacidad;
-
-II. Cuando el incapacitado sujeto a tutela, entre a la patria potestad por reconocimiento o por adopción.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO XIII. De la entrega de los bienes
 
 ###### Artículo 621.
 
-El tutor, concluída la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 622.
 
-La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el juez puede fijar un término prudente para su conclusión, pero, en todo caso, deberá comenzarse en el plazo antes señalado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 623.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 624.
 
-La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el juez podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera, y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 625.
 
-Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 626.
 
-El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley, y si no, desde que expire el mismo término.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 627.
 
-Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes, se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán efectivas las hipotecas y otras garantías, dadas para la administración hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 628.
 
-Si la caución fuera de fianza, el convenio que conceda nuevos plazos al tutor, se hará saber al fiador, si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera y se podrá exigir el pago inmediato o la subrogación del fiador, por otro igualmente idóneo que acepte el convenio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 629.
 
-Si no se hiciere saber el convenio al fiador éste no permanecerá obligado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 630.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de la tutela; o desde que por sentencia ejecutoriada se declare que cesa la incapacidad en los demás casos previstos por la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 631.
 
-Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegó a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que por sentencia ejecutoria se declare que cesa la incapacidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO XIV. Del curador
 
 ###### Artículo 632.
 
-Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela que se refiera a autorización para matrimonio, autorización para reconocimiento de hijos naturales, así como la tutela de los expósitos acogidos, o cuando un menor carezca de bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 633.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo o si teniéndolo se halla impedido.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 634.
 
-También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el artículo 473.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 635.
 
-Igualmente se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida se nombrará nuevo curador conforme a derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 636.
 
-Lo dispuesto sobre impedimentos y excusas de los tutores regirá igualmente respecto de los curadores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 637.
 
-Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 638.
 
-Designarán por sí mismos al curador, con aprobación judicial:
-
-I. Los comprendidos en el artículo 511 observándose lo que allí se dispone respecto de esos nombramientos;
-
-II. Los menores de edad emancipados en el caso previsto en la fracción III del artículo 657.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 639.
 
-El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 640.
 
-El curador está obligado:
-
-I. A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
-
-II. A vigilar la conducta del tutor y a poner en conocimiento del juez todo aquello que considere que puede ser dañoso al incapacitado;
-
-III. A dar aviso al juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
-
-IV. A cumplir las demás obligaciones que la ley le señale.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 641.
 
-El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 642.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará la curaduría.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 643.
 
-El curador tiene derecho a ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 644.
 
-En los casos en que conforme a este Código tenga que intervenir el curador, cobrará el honorario que señale el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO XV. De los Consejos de Tutela
 
 ###### Artículo 645.
 
-En cada cabecera de distrito judicial habrá un Consejo de Tutela, compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo y serán nombrados por los respectivos Ayuntamientos en la primera sesión que celebren en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 646.
 
-El Consejo de Tutelas es un órgano de vigilancia y de información que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tienen las obligaciones siguientes:
-
-I. Formar y remitir a los jueces de Primera Instancia una lista de las personas de cada una de las cabeceras de Ayuntamiento del respectivo distrito judicial que, por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al juez.
-
-A este efecto los presidentes municipales correspondientes, con excepción del de la cabecera, deberán proporcionar al Consejo una lista de las personas de su Municipalidad que puedan desempeñar la tutela: esta lista será enviada precisamente durante el mes de diciembre de cada año;
-
-II. Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores, dando aviso al juez de las faltas y omisiones que notaren;
-
-III. Avisar al juez cuando tenga conocimiento de que los bienes del incapacitado están en peligro, a fin de que dicte las medidas correspondientes de protección;
-
-IV. Investigar y poner en conocimiento del juez qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
-
-V. Cuidar con especialidad de que los tutores cumplan con la obligación que tienen de destinar preferentemente los recursos del incapacitado a la curación de sus enfermedades o a su regeneración, si se trata de ebrios consuetudinarios o de los que abusen habitualmente de las drogas enervantes;
-
-VI. Vigilar el registro de tutelas a fin de que sea llevado en debida forma.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 647.
 
-El Presidente del Consejo de Tutelas será el ejecutor de las decisiones de éste y su representante.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 648.
 
-Los jueces de Primera Instancia ejercerán una sobrevigilancia sobre el conjunto de los actos del deudor, para impedir, por medio de disposiciones apropiadas, la trasgresión de sus deberes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO XVI. Del estado de interdicción
 
 ###### Artículo 649.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados sin la autorización del tutor salvo lo dispuesto en la fracción IV del artículo 551.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 650.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas en el artículo 657.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 651.
 
-La nulidad a que se refieren los dos artículos anteriores sólo puede ser alegada sea como acción sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación ni por los mancomunados en ella.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 652.
 
-La acción para pedir la nulidad prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretenda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 653.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 649 y 650, en las obligaciones que hubieran contraído sobre materias propias de la profesión o arte en que sean peritos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 654.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO DECIMO. De la emancipación y de la mayor edad
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. De la emancipación
 
@@ -4805,61 +3679,53 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 (DEROGADO, P.O. 9 DE MARZO DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 1971)</small>
-
 ###### Artículo 656.
 
-Los mayores de 16 años que estén sujetos a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
-
-Los que ejerzan la patria potestad o la tutela pueden emancipar a los que están bajo de ella, que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 657.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-I. (DEROGADA, P.O. 9 DE MARZO DE 2018)
-
-II. De la autorización del que lo emancipó, y a falta de éste de la del juez, para la enajenación, gravamen o hipoteca de bienes raíces;
-
-III. De un tutor para los negocios judiciales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 658.
 
-Hecha la emancipación, no puede ser revocada.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 659.
 
-La emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De la mayor edad
 
 ###### Artículo 660.
 
-La mayor edad se rige por las prevenciones de los artículos 23 y 24 de este Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO UNDECIMO. De los ausentes e ignorados
 
-### CAPITULO I. De las medidas provisionales en caso de ausencia
+> <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+### CAPITULO I
 
 ###### Artículo 661.
 
-En cualquier caso, en que los cónyuges dejaren pasar más de tres meses, sin continuar el procedimiento iniciado por mutuo consentimiento o no acudieren a reconocer su solicitud presentada para obtener el divorcio administrativo, la autoridad correspondiente declarará sin efectos la solicitud y se mandará archivar el expediente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 662.
 
-Cuando una persona haya desaparecido y se ignora el lugar donde se encuentre y quién la represente, el juez a petición de parte o de oficio nombrará un depositario de sus bienes; la citará por edictos publicados durante cinco veces consecutivas en el Periódico Oficial y en otro periódico del último de sus domicilios, si lo hubiere, u otro de mayor circulación en el Estado y en dos de los principales de la capital de la República, señalándole, para que se presente, un término que no bajará de tres meses ni pasará de seis y dictará las providencias necesarias para asegurar los bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 663.
 
-Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquel lugar del extranjero en que se pueda presumir que se encuentre el ausente o que se tengan noticias de él.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 664.
 
-Si el ausente tiene hijos menores, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutor testamentario, ni legítimo, el Ministerio Público pedirá que se nombre tutor en los términos prevenidos en los artículos 510 y 511. El mismo derecho tendrán los menores interesados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 665.
 
@@ -4867,525 +3733,399 @@ Las obligaciones y facultades del depositario serán las que la ley asigna a los
 
 ###### Artículo 666.
 
-Se nombrará depositario:
-
-I. Al cónyuge del ausente;
-
-II. A uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el juez elegirá al más apto;
-
-III. Al ascendiente del ausente, más próximo en grado;
-
-IV. A falta de los anteriores, o cuando sea inconveniente que éstos, por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, el juez nombrará al heredero presuntivo y si hubiere varios se observará lo que dispone el artículo 672.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 667.
 
-Si cumplido el término del llamamiento, el citado no compareciere por sí, ni por apoderado legítimo, ni por medio de tutor o de pariente que pueda representarlo, se procederá al nombramiento de representante.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 668.
 
-Lo mismo se hará cuando en iguales circunstancias caduque el poder conferido por el ausente, o sea insuficiente para el caso.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 669.
 
-Tienen acción para pedir el nombramiento de depositario o de representante, el Ministerio Público, o cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de éste.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 670.
 
-En el nombramiento de representante se seguirá el orden establecido en el artículo 666.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 671.
 
-Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo el depositario o representante; mas si no estuvieren conformes, el juez lo nombrará libremente de entre las personas designadas por el artículo anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 672.
 
-A falta de cónyuge, de descendientes y de ascendientes, será representante el heredero presuntivo. Si hubieren varios con igual derecho, ellos mismos elegirán al que debe representarlos. Si no se ponen de acuerdo en la elección, la hará el juez prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 673.
 
-El representante del ausente es el legítimo administrador de los bienes de éste y tiene, respecto de ellos, las mismas obligaciones, facultades y restricciones que los tutores.
-
-No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos, y si dentro del término de un mes no presta la caución correspondiente, se nombrará otro representante.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 674.
 
-El representante del ausente disfrutará la misma retribución que a los tutores señalan los artículos 598, 599 y 600.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 675.
 
-No pueden ser representantes de un ausente, los que no pueden ser tutores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 676.
 
-Pueden excusarse, de esa representación, los que puedan hacerlo de la tutela.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 677.
 
-Será removido del cargo de representante, el que deba serlo del de tutor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 678.
 
-El cargo de representante acaba:
-
-I. Con el regreso del ausente;
-
-II. Con la presentación del apoderado legítimo;
-
-III. Con la muerte del ausente;
-
-IV. Con la posesión provisional.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 679.
 
-Cada año, en el día que corresponda a aquel en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constará el nombre y domicilio del representante, y el tiempo que falta para que se cumpla el plazo que señalan los artículos 681 y 682. Las publicaciones se harán en los términos de los artículos 662 y 663.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 680.
 
-El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De la declaración de ausencia
 
 ###### Artículo 681.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 682.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuvieron ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 683.
 
-Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 684.
 
-Pasados dos años, que se contarán del modo establecido en el artículo 682, el Ministerio Público y las personas que designa el artículo siguiente pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 670, 671 y 672.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 685.
 
-Pueden pedir la declaración de ausencia:
-
-I. Los presuntos herederos legítimos del ausente;
-
-II. Los herederos instituídos en testamento abierto;
-
-III. Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente, y
-
-IV. El Ministerio Público.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 686.
 
-Si el juez encuentra fundada la demanda, dispondrá que se publique extracto de ella, por cinco veces consecutivas, en el Periódico Oficial del Estado y en otro periódico del último domicilio del ausente, si lo hubiere, y la remitirá a los cónsules conforme al artículo 663.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 687.
 
-Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 688.
 
-Si hubiere algunas noticias u oposición, el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 686, y hacer la averiguación por los medios que el oponente proponga y por lo que el mismo juez crea oportuno.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 689.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 690.
 
-El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III. De los efectos de la declaración de ausencia
 
 ###### Artículo 691.
 
-Declarada la ausencia, si hubiere testamento público u ológrafo, la persona en cuyo poder se encuentre lo presentará al juez, dentro de quince días contados desde la última publicación de que habla el artículo 689.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 692.
 
-El juez, de oficio o a instancia de cualquiera que se crea interesado en el testamento ológrafo, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las demás solemnidades prescritas para la apertura de esta clase de testamentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 693.
 
-Los herederos testamentarios, y en su defecto los que fueren legítimos al tiempo de la desaparición de un ausente, o al tiempo en que se hayan recibido las últimas noticias, si tienen capacidad legal para administrar, serán puestos en la posesión provisional de los bienes, dando fianza que asegure las resultas de la administración. Si estuvieren bajo la patria potestad o tutela, serán representados por quien corresponda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 694.
 
-Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 695.
 
-Si los bienes no admiten cómoda división, los herederos elegirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el juez lo nombrará, escogiéndolo de entre los mismos herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 696.
 
-Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta se nombrará el administrador general.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 697.
 
-Los herederos que no administren podrán nombrar un interventor, que tendrá las facultades y obligaciones señaladas a los curadores. Su honorario será el que le fijen los que le nombren y se pagará por éstos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 698.
 
-El que entre en la posesión provisional tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 699.
 
-En el caso del artículo 694 cada heredero dará la garantía que corresponda a la parte de bienes que administre.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 700.
 
-En el caso del artículo 695, el administrador general será quien dé la garantía legal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 701.
 
-Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presencia de éste, podrán ejercitarlos, dando la garantía que corresponda, según el artículo 542.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 702.
 
-Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma garantía.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 703.
 
-Si no pudiere darse la garantía prevenida en los cinco artículos anteriores, el juez, según las circunstancias de las personas y de los bienes, y concediendo el plazo fijado en el artículo 545 podrá disminuir el importe de aquélla; pero de modo que no baje de la tercia (sic) parte de los valores sñalados (sic) en el artículo 542.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 704.
 
-Mientras no se dé la expresada garantía, no cesará la administración del representante.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 705.
 
-No están obligados a dar garantía:
-
-I. El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, por la parte que en ellos les corresponda;
-
-II. El ascendiente que en ejercicio de la patria potestad administre bienes que, como herederos del ausente, correspondan a sus descendientes.
-
-Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que correspondan a los legatarios, si no hubiere división, ni administrador general.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 706.
 
-Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los capítulos XII y XIV del título noveno de este libro. El plazo señalado en el párrafo segundo del artículo 621 se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 707.
 
-Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá, o la continuación del representante, o la elección de otro que, en nombre de la Hacienda Pública, entre en la posesión provisional, conforme a los artículos que anteceden.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 708.
 
-Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 709.
 
-Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que hayan tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV. De la administración de los bienes del ausente casado
 
 ###### Artículo 710.
 
-La declaración de ausencia interrumpe la sociedad conyugal bien sea voluntaria o legal, a menos que en las capitulaciones matrimoniales se haya estipulado que continúe aquélla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 711.
 
-Declarada la ausencia se procederá, con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deben corresponder al cónyuge ausente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 712.
 
-El cónyuge presente recibirá desde luego los bienes que le correspondan hasta el día en que la declaración de ausencia haya causado ejecutoria. De estos bienes podrá disponer libremente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 713.
 
-Los bienes del ausente se entregarán a sus herederos, en los términos prevenidos en el artículo anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 714.
 
-En el caso previsto en el artículo 709, si el cónyuge presente entrare como heredero en la posesión provisional, se observará lo que ese artículo dispone.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 715.
 
-Si el cónyuge presente no fuere heredero ni tuviere bienes propios, tendrá derecho a alimentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 716.
 
-Si el cónyuge ausente regresa o probare su existencia, quedará restaurada la sociedad conyugal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 717.
 
-Si la ausencia de los cónyuges fuere simultánea se hará la separación de bienes conforme se previene en este capítulo; y se entregarán a los respectivos herederos los que les correspondan, conforme al capítulo anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V. De la presunción de muerte del ausente
 
 ###### Artículo 718.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
-
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, o en cualquier siniestro terrestre, aéreo, o marítimo, bastará que hayan transcurrido dos años contados desde su desaparición para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el capítulo I de este título.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
-
-Cuando la desaparición sea consecuencia de un fenómeno natural como terremotos, erupciones, maremotos, ciclones, huracanes, tornados, trombas o incendios; así como explosiones u otros siniestros semejantes provocados por el hombre y por cualquier medio de prueba se acredite que el desaparecido fue víctima de éste, bastará el transcurso de veintiún días, contados a partir del acontecimiento, para que el juez inicie el procedimiento que declare la presunción de muerte. En este procedimiento, el juez acordará la publicación de la solicitud de la declaración de presunción de muerte por una sola vez en el Periódico Oficial del Estado y en otro de mayor circulación estatal, con cargo al Fondo para la Administración de Justicia; este procedimiento, en ningún caso, excederá de veinte días.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
-
-En los casos a que se refiere el párrafo anterior, la presunción de muerte por ausencia de una persona declarada judicialmente, hará las veces del acta de defunción para todos los efectos legales a que haya lugar.
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1998)</small>
-
-La presunción de muerte por ausencia declarada en la vía de jurisdicción voluntaria no tiene autoridad de cosa juzgada; la tendrá la que se dicte en jurisdicción contenciosa, pero sólo respecto de quienes intervinieron en las diligencias.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 719.
 
-Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 692; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 706 y los herederos y demás interesados entrarán en la posesión definitiva de los bienes sin garantía alguna: la que según la ley se hubiere dado, quedará cancelada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 720.
 
-Si se llegare a probar la muerte del ausente, la herencia se diferirá a los que debieran heredar al tiempo de ella; pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional de acuerdo con lo dispuesto por el artículo 709, y todos ellos, desde que obtuvieron la posesión definitiva.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 721.
 
-Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados o los que se hubieren adquirido con el mismo precio; pero no podrá reclamar frutos ni rentas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 722.
 
-Cuando hecha la declaración de ausencia o la de presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él si tuvieren por herederos, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia, y así se declara por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 709 y 721 debiera hacerse al ausente si se presentare.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 723.
 
-Los poseedores definitivos darán cuenta al ausente o a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí, o por apoderado legítimo, o desde aquel en que por sentencia que cause ejecutoria se haya deferido la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 724.
 
-La posesión definitiva termina:
-
-I. Con el regreso del ausente;
-
-II. Con la noticia cierta de su existencia;
-
-III. Con la certidumbre de su muerte;
-
-IV. Con la sentencia que cause ejecutoria en el caso del artículo 722.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 725.
 
-En el caso segundo del artículo anterior, los poseedores definitivos serán considerados como provisionales desde el día en que se tenga noticia cierta de la existencia del ausente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 726.
 
-La sentencia que declare la presunción de muerte de un ausente casado, pone término a la sociedad conyugal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 727.
 
-En el caso previsto por el artículo 715, el cónyuge sólo tendrá derecho a alimentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VI. De los efectos de la ausencia respecto de los derechos eventuales del ausente
 
 ###### Artículo 728.
 
-Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 729.
 
-Si se defiere una herencia a la que sea llamado un individuo declarado ausente o respecto del cual se haya hecho la declaración de presunción de muerte, entrarán sólo en ella los que debían ser coherederos de aquél o suceder por su falta; pero deberán hacer inventario en forma de los bienes que reciban.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 730.
 
-En este caso, los coherederos o sucesores se considerarán como poseedores provisionales o definitivos de los bienes que por la herencia debían corresponder al ausente, según la época en que la herencia se defiera.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 731.
 
-Lo dispuesto en los dos artículos anteriores debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrán ejercitar el ausente, sus representantes, acreedores o legatarios, y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 732.
 
-Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que, por contrato o por cualquiera otra causa, tengan con él relaciones jurídicas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VII. Disposiciones generales
 
 ###### Artículo 733.
 
-El representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 734.
 
-Por causa de ausencia no se suspenden los términos que fija la ley para la prescripción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 735.
 
-El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO DUODECIMO. Del patrimonio de la familia
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO UNICO
 
 ###### Artículo 736.
 
-Son objeto del patrimonio de la familia:
-
-I. La casa habitación de la familia, adquirida en propiedad por el jefe de la familia o por alguno de sus miembros;
-
-II. En algunos casos una parcela cultivable;
-
-III. El mobiliario de uso doméstico;
-
-IV. Tratándose de familias campesinas, el equipo agrícola: considerándose como tal, los semovientes, las semillas, los útiles, implementos y aperos de labranza que utilicen personalmente los miembros de la familia;
-
-V. Tratándose de familias obreras, el equipo de trabajo, considerándose como tal la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique y que también personalmente utilicen los miembros de ella;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-VI. Tratándose de familias que se dediquen al comercio: el pequeño comercio o industria; y
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 1997)</small>
-
-VII. Los bienes que se consideren instrumentos de trabajo, fuente de ingresos de la que depende la manutención de la familia;
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 737.
 
-La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él queden afectos, del que lo constituya a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes según lo dispuesto en el artículo siguiente.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 738.
 
-Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye, en su caso, el concubino o la concubina y las demás personas a quienes el constituyente del patrimonio de la familia tiene obligación de dar alimentos. Este derecho es intransmisible, pero debe tenerse en cuenta lo dispuesto en el Artículo 750.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 739.
 
-Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría.
-
-El representante tendrá también la administración de dichos bienes.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 740.
 
-Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno. Podrán ser transmitidos a título de herencia, sin necesidad de extinguir el citado patrimonio y con la misma afectación de destino, haciéndose la anotación marginal correspondiente en el Instituto de la Función Registral.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 741.
 
-Sólo puede constituirse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 742.
 
-Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto alguno legal.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 743.
 
-El valor máximo de los bienes afectados al patrimonio familiar, conforme al Artículo 736, tratándose de la casa habitación y mobiliario de uso doméstico, será la cantidad que resulte de multiplicar 12557 veces el valor diario de la Unidad de Medida y Actualización vigente; la misma cuantía para el caso de que la parcela cultivable constituya el patrimonio familiar y por lo que se refiere a los instrumentos de trabajo que sirven para la manutención de los integrantes de la familia, será la suma obtenida de multiplicar el valor diario de la Unidad de Medida y Actualización vigente, por 3000, de tal manera que el valor máximo de bienes afectados al patrimonio familiar, no podrá exceder del resultado de elevar el importe del valor diario de la Unidad de Medida y Actualización vigente, a 15557 veces.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 744.
 
-El patrimonio de familia podrá constituirse:
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
-
-I. Por el miembro de la familia que ejerza la patria potestad;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
-
-II. Por los cónyuges sobre sus bienes, sin que necesite autorización uno del otro.
-
-III. Por el pariente que suministre alimentos a sus ascendientes, descendientes o colaterales siempre que vivan formando una familia;
-
-IV. Por el tutor cuando administre bienes pertenecientes al incapacitado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 745.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito ante las oficinas del Instituto de la Función Registral del Estado de Oaxaca o en su caso ante la Registraduría correspondiente del lugar en donde se ubique el bien, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
-
-Además comprobará lo siguiente:
-
-I. Que es mayor de edad o que está emancipado;
-
-II. Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
-
-III. La existencia de la familia a cuyo favor se va se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias de las actas del Registro Civil;
-
-IV. Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes fuera de las servidumbres;
-
-V. Que el valor de los bienes que van a constituir el patrimonio, no excede del fijado en el artículo 743.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 746.
 
-Si se llenan las condiciones exigidas en el Artículo anterior, el Registrador, aprobará la constitución del patrimonio de la familia y hará la inscripción correspondiente en el Instituto de la Función Registral en tratándose de la Ciudad de Oaxaca y en las Registradurías correspondientes a la ubicación del bien.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 747.
 
-Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el Artículo 743, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fija el Artículo 753 de este Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 748.
 
-Cuando haya peligro de que, quien tenga obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentarios y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de familia hasta por los valores fijados en el artículo 743.
-
-En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 745 y 746.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 749.
 
-La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 750.
 
-Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa, de cultivar la parcela, y de explotar el comercio o industria; si no lo hiciere, el Ministerio Público puede ocurrir a la autoridad competente para que haga la declaración a que se refiere el artículo que sigue.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 751.
 
-Puede disminuirse el patrimonio de la familia:
-
-I. Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia;
-
-II. Cuando el patrimonio familiar, por causas posteriores a su constitución ha rebasado en más de un cincuenta por ciento el valor máximo que puede tener conforme al artículo 743.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 752.
 
-El patrimonio de familia se extingue:
-
-I. Cuando lo pidan los interesados en el mismo;
-
-II. Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
-
-III. Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada o de cultivar por su cuenta y por dos años consecutivos, la parcela que le corresponda;
-
-IV. Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia de que el patrimonio quede extinguido;
-
-V. Cuando por causa de utilidad pública o social se expropien los bienes que lo formen;
-
-VI. (DEROGADA, P.O. 31 DE MAYO DE 1997)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 753.
 
-La declaración de modificación o extinción del patrimonio de la familia la hará el Juez competente por la vía de jurisdicción voluntaria y la comunicará al Instituto de la Función Registral para que se hagan las anotaciones o cancelaciones correspondientes.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-En caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Único, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Instituto de la Función Registral, para los efectos legales que corresponda.
-
-Cuando el patrimonio se extinga por la causa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 754.
 
-Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos si aquél ha muerto. En el caso de expropiación, el precio que se obtenga será percibido por el dueño de los bienes que fueron materia de la misma.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 755.
 
-El Ministerio Público será oído en los procedimientos judiciales sobre extinción y reducción del patrimonio de la familia.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 756.
 
-Las anotaciones e inscripciones que hagan las oficinas del Instituto de la Función Registral, con motivo del patrimonio de la familia, serán hechas sin costo alguno para los interesados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 # LIBRO SEGUNDO. De los bienes
 
@@ -7435,2401 +6175,2129 @@ Cuando el último día sea feriado, no se tendrá por completa la prescripción,
 
 La propiedad científica, literaria y artística, su falsificación y penas y la manera de hacer constar aquéllas, se rigen por las leyes especiales y las disposiciones relativas del Código Civil Federal.
 
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 # LIBRO TERCERO. De las sucesiones
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
 ###### Artículo 1184.
 
-Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1185.
 
-La herencia se defiere por la voluntad del testador o por disposición de la ley. La primera se llama testamentaria y la segunda legítima.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1186.
 
-El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1187.
 
-El heredero adquiere a título universal y responde las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1188.
 
-El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1189.
 
-Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Artículos (sic) 1190.- Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quienes murieron antes, se tendrán todos por muertos al mismo tiempo y no habrá lugar entre ellos a la trasmisión de la herencia o legado.
+###### Artículo 1190.
+
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1191.
 
-A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1192.
 
-Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que formen la sucesión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1193.
 
-El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1194.
 
-El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquél a quien hereda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1195.
 
-El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
-
-Declarada la nulidad el coheredero preterido quedará subrogado en todos los derechos y obligaciones que hubiere adquirido el tercero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1196.
 
-Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia; y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1197.
 
-El derecho concedido en el artículo 1195, cesa si la enajenación se hace a un coheredero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO SEGUNDO. De la sucesión por testamento
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. De los testamentos en general
 
 ###### Artículo 1198.
 
-Testamento es un acto personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos y declara o cumple deberes para después de su muerte.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1199.
 
-No pueden testar en el mismo acto dos o más personas, ya en provecho recíproco, ya en favor de un tercero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1200.
 
-Ni la subsistencia del nombramiento del heredero o de los legatarios, ni la designación de las cantidades que a ellos correspondan, pueden dejarse al arbitrio de un tercero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1201.
 
-Cuando el testador deje como herederos o legatarios a determinadas clases formadas por número ilimitado de individuos, tales como los pobres, los huérfanos, los ciegos, etc., puede encomendar a un tercero la distribución de las cantidades que deja para ese objeto y la elección de las personas a quienes deba aplicarse, observándose lo dispuesto en el artículo 1233.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1202.
 
-El testador puede encomendar a un tercero que haga la elección de los actos de beneficencia o de los establecimientos públicos o privados a los cuales deban aplicarse los bienes que lega con ese objeto, así como la distribución de las cantidades que a cada uno corresponden.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1203.
 
-La disposición hecha en términos vagos en favor de los parientes del testador, se entenderá que se refiere a los parientes más próximos, según el orden de la sucesión legítima.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1204.
 
-La expresión de una falsa causa, será considerada como no escrita; a no ser que del mismo testamento resulte que el testador no habría hecho aquella disposición conociendo la falsedad de la causa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1205.
 
-En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1206.
 
-Si el testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, logren igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron todas las formalidades legales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1207.
 
-La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1208.
 
-El juez que tuviere noticia de que alguno impide a otro testar, se presentará sin demora en la casa del segundo para asegurar el ejercicio de su derecho, y levantará acta en la que se haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios que al efecto hayan empleado o intentado emplear, y si la persona cuya libertad ampara hizo uso de su derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De la capacidad para testar
 
 ###### Artículo 1209.
 
-Pueden testar todos aquellos a quienes la ley no prohíba expresamente el ejercicio de ese derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1210.
 
-Están incapacitados para testar:
-
-I. Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
-
-II. Los que permanente o accidentalmente no disfruten de su cabal juicio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1211.
 
-Es válido el testamento hecho por un demente, en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones siguientes:
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1212.
 
-Siempre que el demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar. Se hará constar en acta formal el resultado del reconocimiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1213.
 
-Si éste fuere favorable, se procederá desde luego a la formación del testamento ante Notario Público, con todas las solemnidades que se requieran para los testamentos públicos abiertos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1214.
 
-Firmarán el acta, además del Notario y de los testigos, el juez y los médicos que intervinieren para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia será nulo el testamento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1215.
 
-Para juzgar de la capacidad del testador, se atenderá especialmente el estado en que se halle al hacer el testamento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III. De la capacidad para heredar
 
 ###### Artículo 1216.
 
-Todos los habitantes del Estado de cualquier edad que sean, tienen capacidad para heredar y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
-
-I. Falta de personalidad;
-
-II. Delito;
-
-III. Presunción de influencia contraria a la libertad del testador o a la verdad e integridad del testamento;
-
-IV. Falta de reciprocidad internacional;
-
-V. Utilidad pública;
-
-VI. Renuncia o remoción de algún cargo conferido en el testamento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1217.
 
-Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la herencia, o los concebidos cuando no sean viables, conforme a lo dispuesto en el artículo 350.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1218.
 
-Será, no obstante, válida la disposición hecha en favor de los hijos que nacieron de ciertas y determinadas personas vivas al tiempo de la muerte del testador; pero no valdrá la que se haga en favor de descendientes de ulteriores grados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1219.
 
-Son incapaces de heredar por testamento o por intestado:
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
-
-I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trata, o a los padres, hijos, cónyuge, concubino, concubina o hermanos de ella;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-II. El que con dolo haya presentado denuncia o querella, aun cuando aquélla sea fundada, contra el autor de la sucesión, sus ascendientes, descendientes, hermanos, cónyuge, concubino, concubina por delito que merezca pena de prisión.
-
-III. (DEROGADA, P.O. 7 DE AGOSTO DE 2021)
-
-IV. (DEROGADA, P.O. 7 DE AGOSTO DE 2021)
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
-
-V. El que haya sido condenado por delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, concubina, concubino, de sus ascendientes o de sus hermanos;
-
-VI. El padre y la madre respecto del hijo expuesto por ellos;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-VII. Los ascendientes que abandonaren o prostituyeren a sus descendientes, respecto de los ofendidos;
-
-VIII. Los demás parientes del autor de la herencia que teniendo obligación de darle alimentos, no la hubieren cumplido;
-
-IX. Los parientes del autor de la herencia que, hallándose éste imposibilitado para trabajar y sin recursos no se cuidaran de recogerlo, o de hacerlo recoger en establecimientos de beneficencia;
-
-X. El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
-
-XI. El que conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
-
-XII. Para el caso de sucesión testamentaria, el padre o la madre de sus hijos naturales, y de los descendientes de éstos, si no han reconocido a los primeros;
-
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-XIII. El que haya sido condenado por violencia intrafamiliar contra del autor de la herencia.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1220.
 
-Se aplicará también lo dispuesto en la fracción II del artículo anterior, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge, concubino, concubina o hermano del acusador, si la acusación es declarada calumniosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1221.
 
-Cuando la parte agraviada de cualquiera de los modos que expresa el artículo 1219 perdonare al ofensor, recobrará éste el derecho de suceder al ofendido, por intestado, si el perdón consta por declaración auténtica o por hechos indubitables.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1222.
 
-La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución anterior con las mismas solemnidades que se exigen para testar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1223.
 
-El incapaz de heredar, en los casos del artículo 1219 no tendrá el usufructo ni la administración de los bienes que, en su caso, corresponden a sus descendientes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1224.
 
-Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituídos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de la tutela.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1225.
 
-La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes, ni hermanos del menor, observándose en su caso, lo dispuesto en la fracción X del artículo 1219.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1226.
 
-Por presunción contraria a la libertad del testador, son incapaces de heredar por testamento: El médico que haya asistido a aquél durante su última enfermedad, si entonces hizo su disposición testamentaria; así como el cónyuge, concubina o concubino descendientes, ascendientes o hermanos del facultativo, a no ser que los herederos instituidos sean también herederos legítimos.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1227.
 
-Por presunción de influjo contrario a la verdad e integridad del testamento, son incapaces de heredar, el notario y los testigos que intervinieron en él y sus cónyuges, concubina o concubino, descendientes, ascendientes, cónyuges, concubinos o hermanos.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1228.
 
-Los Ministros y Ministras de los cultos, no pueden ser herederos por testamento de los Ministros y Ministras del mismo culto o de un particular con quien tengan parentesco dentro del cuarto grado. La misma incapacidad tienen los ascendientes, descendientes, cónyuges, concubinos y hermanos de los Ministros y Ministras, respecto de las personas a quienes éstos hayan prestado cualquier clase de auxilios espirituales, durante la enfermedad de que hubieren fallecido; o de quienes hayan sido directores espirituales los mismos Ministros o Ministras.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1229.
 
-El notario que a sabiendas autorice un testamento en que se contravenga lo dispuesto en los tres artículos anteriores sufrirá la pena de privación de oficio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1230.
 
-Los extranjeros, y las personas morales, son capaces de adquirir bienes por testamento o por intestado; pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las respectivas leyes reglamentarias de los artículos constitucionales. Tratándose de extranjeros, se observará también lo dispuesto en el artículo siguiente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1231.
 
-Por falta de reciprocidad internacional, son incapaces de heredar por testamento o por intestado, a los habitantes del Estado, los extranjeros que, según las leyes de su país, no puedan testar o dejar por intestado sus bienes a favor de los mexicanos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1232.
 
-La herencia o legado que se deje a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el gobierno los aprueba.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1233.
 
-La disposición hecha a favor de los pobres en general, sin designación de personas ni de población, aprovecha sólo a los del domicilio del testador en la época de su muerte, si no consta claramente haber sido otra su voluntad.
-
-La calificación de pobres y la distribución, se harán por la persona que haya designado el testador en su falta, por el albacea; y en falta de éste por el juez.
-
-Si es el juez quien hace la calificación y distribución, debe aplicar los fondos a los hospitales o casas de beneficencia o de educación, dependientes del Gobierno.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1234.
 
-La disposición que el testador haga en favor de su alma, sin determinar la obra piadosa o benéfica que él quiera se ejecute, se entenderá hecha a favor de los establecimientos de beneficencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1235.
 
-Las disposiciones hechas en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en el artículo 27 de la Constitución Federal y las leyes reglamentarias respectivas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1236.
 
-Por renuncia o remisión de un cargo, son incapaces de heredar por testamento, los que, nombrados en él tutores, curadores o albaceas, hayan rehusado el cargo sin justa causa o por mala conducta hayan sido separados judicialmente de su ejercicio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1237.
 
-Lo dispuesto en la parte primera del artículo anterior, no comprende a los que, desechada por el juez la excusa, hayan servido el cargo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1238.
 
-Las personas llamadas por la ley para desempeñar la tutela legítima y que rehusen sin causa justa desempeñarla no tienen derecho de heredar a los incapaces de quienes debieron ser tutores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1239.
 
-Para que el heredero pueda suceder, basta que sea capaz al tiempo de la muerte del tutor de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1240.
 
-Si la institución fuere condicional, se necesitará, además, que el heredero sea capaz al tiempo en que se cumpla la condición.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1241.
 
-El heredero por testamento, que muera antes que el testador o antes de que se cumpla la condición; el incapaz de heredar y el que renuncie a la sucesión, no trasmiten ningún derecho a sus herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1242.
 
-En los casos del artículo anterior la herencia pertenece a los herederos legítimos del testador, a no ser que éste haya dispuesto otra cosa, o que deba tener lugar el derecho de acrecer.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1243.
 
-El que hereda en lugar del excluído tendrá las mismas cargas y condiciones que legalmente se habían impuesto a aquél.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1244.
 
-Los deudores hereditarios que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en posesión del derecho de heredero o legatario, la excepción de incapacidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1245.
 
-A excepción de los casos comprendidos en las fracciones X y XI del artículo 1219, la incapacidad para heredar a que se refiere ese artículo, priva también de los alimentos que correspondan por ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1246.
 
-La incapacidad no produce el efecto de privar al incapaz de lo que hubiere de percibir, sino después de declarada en juicio, a petición de algún interesado, no pudiendo promoverla el juez, de oficio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1247.
 
-No puede deducirse acción para declarar la incapacidad, pasados tres años desde que el incapaz esté en posesión de la herencia o legado; salvo que se trate de incapacidades establecidas en vista del interés público, las cuales en todo tiempo pueden hacerse valer.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1248.
 
-Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad y aquel con quien contrató hubiere tenido buena fe, el contrato subsistirá; mas el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV. De las condiciones que pueden ponerse en los testamentos
 
 ###### Artículo 1249.
 
-El testador es libre para establecer condiciones al disponer de sus bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1250.
 
-Las condiciones impuestas a los herederos y legatarios, en lo que no esté prevenido en este capítulo, se regirán por las reglas establecidas para las obligaciones condicionales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1251.
 
-La falta de cumplimiento de alguna condición impuesta al heredero, o al legatario, no perjudicará a éstos siempre que hayan empleado todos los medios necesarios para cumplir aquélla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1252.
 
-La condición física o legalmente imposible de dar o de hacer, impuesta al heredero o legatario, se tendrá por no puesta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1253.
 
-Si la condición que era imposible al tiempo de otorgar el testamento, dejare de serlo a la muerte del testador, será válida.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1254.
 
-Es nula la institución hecha bajo la condición de que el heredero o legatario hagan en su testamento alguna disposición en favor del testador o de otra persona.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1255.
 
-La condición que solamente suspende por cierto tiempo la ejecución del testamento, no impedirá que el heredero o el legatario adquieran derecho a la herencia o legado y lo transmitan a sus herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1256.
 
-Cuando el testador no hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea y, al hacerse la partición se asegurará competentemente el derecho del legatario para el caso de cumplirse la condición, observándose, además, las disposiciones establecidas para hacer la partición cuando alguno de los herederos es condicional.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1257.
 
-Si la condición es puramente potestativa de dar o hacer alguna cosa, y el que ha sido gravado con ella ofrece cumplirla; pero aquel a cuyo favor se estableció rehusa aceptar la cosa o el hecho, la condición se tiene por cumplida.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1258.
 
-La condición potestativa se tendrá por cumplida aun cuando el heredero o legatario hayan prestado la cosa o el hecho antes de que se otorgara el testamento, a no ser que pueda reiterarse la prestación, en cuyo caso no será ésta obligatoria sino cuando el testador haya tenido conocimiento de la primera.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1259.
 
-En el caso final del artículo que precede, corresponde al que debe pagar el legado la prueba de que el testador tuvo conocimiento de la primera prestación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1260.
 
-La condición de no dar o de no hacer, se tendrá por no puesta. La condición de no impugnar el testamento o alguna de las disposiciones que contenga, so pena de perder el carácter de heredero o legatario, se tendrá por no puesta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1261.
 
-Cuando la condición fuere casual o mixta, bastará que se realice en cualquier tiempo, vivo o muerto el testador, si éste no hubiere dispuesto otra cosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1262.
 
-Si la condición se hubiere cumplido al hacerse el testamento ignorándolo el testador, se tendrá por cumplida; mas si lo sabía, sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1263.
 
-La condición impuesta al heredero o legatario, de tomar o dejar de tomar estado, se tendrá por no puesta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1264.
 
-Podrá, sin embargo, dejarse a alguno el uso o habitación, una pensión alimenticia periódica o el usufructo que equivalga a esa pensión, por el término que permanezca soltero o viudo. La pensión alimenticia se fijará de acuerdo con lo prevenido en el artículo 323.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1265.
 
-La condición que se ha cumplido existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado a menos que el testador haya dispuesto expresamente otra cosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1266.
 
-La carga de hacer alguna cosa se considera como condición resolutoria.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1267.
 
-Si no se hubiere señalado tiempo para el cumplimiento de la carga ni ésta por su propia naturaleza lo tuviere, se observará lo dispuesto en el artículo 1256.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1268.
 
-Si el legado fuere de prestación periódica, que debe concluir en un día que es inseguro si llegará o no, llegado el día el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1269.
 
-Si el día en que debe comenzar el legado fuere seguro, sea que se sepa o no cuando ha de llegar, el que ha de entregar la cosa legada tendrá, respecto de ella, los derechos y las obligaciones del usufructuario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1270.
 
-En el caso del artículo anterior, si el legado consiste en prestación periódica, el que deba pagarlo hace suyo todo lo correspondiente al intermedio, y cumple con hacer la prestación comenzando el día señalado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1271.
 
-Cuando el legado deba concluir en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1272.
 
-Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V. De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos
 
 ###### Artículo 1273.
 
-Toda persona tiene derecho de disponer libremente de sus bienes por testamento, a título de herencia o de legado.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1274.
 
-El testador debe dejar alimentos a las personas que se mencionan en las Fracciones siguientes:
-
-I. A las y los descendientes, menores de dieciocho años;
-
-II. A las y los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente; unos y otras aun cuando fueren mayores de dieciocho años;
-
-III. Al cónyuge supérstite que permanezca libre de matrimonio o concubinato y no tenga bienes;
-
-IV. A los ascendientes; y
-
-V. A la concubina o concubino que permanezcan libres de matrimonio o de otro concubinato o que estén impedidos para trabajar y no tengan bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1275.
 
-No hay obligación de dejar alimentos, sino a falta o por imposibilidad de los parientes más próximos en grado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1276.
 
-No hay obligación de dejar alimentos a las personas que tengan bienes; pero si teniéndolos, su producto no iguala a la pensión que debería corresponderles, la obligación se reducirá a lo que falte para completarla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1277.
 
-Para tener derecho de ser alimentado se necesita encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 1274; y cesa este derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1278.
 
-El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 320, 326, 328 y 329 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada, correspondería al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación cualquiera que sea, siempre que no baje del mínimum antes establecido. Con excepción de los artículos citados en el presente capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del capítulo II, título VI del libro primero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1279.
 
-Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1274, se observarán las reglas siguientes:
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
-
-I. Se ministrarán al cónyuge, a la concubina o al concubino supérstite a prorrata; y
-
-II. Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes. Si el caudal hereditario no bastare ni para cubrir las pensiones alimenticias de los descendientes, se ministrarán alimentos a éstos hasta donde alcance, teniéndose en este caso en cuenta la mayor o menor necesidad y no la condición de legítimos o ilegítimos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1280.
 
-Es inoficioso el testamento en que no se deje la pensión alimenticia, según lo establecido en este capítulo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1281.
 
-El preferido, tendrá solamente derecho a que se le dé la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1282.
 
-La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1283.
 
-No obstante lo dispuesto en el artículo 1281, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VI. De la institución de heredero
 
 ###### Artículo 1284.
 
-El testamento, otorgado legalmente, será válido aunque no contenga institución de heredero, aunque el nombrado no acepte la herencia o sea incapaz de heredar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1285.
 
-En los tres casos señalados en el artículo anterior, se cumplirán las disposiciones testamentarias que estuvieren hechas conforme a las leyes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1286.
 
-No obstante lo dispuesto en el artículo 1249, la designación de día en que deba comenzar o cesar la institución de heredero se tendrá por no puesta.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1287.
 
-Los herederos instituídos sin designación de la parte que a cada uno corresponda, heredarán por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1288.
 
-El heredero instituído en cosa cierta y determinada, debe tenerse por legatario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1289.
 
-Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, como si dijera: "Instituyo por mis herederos a Pedro y a Pablo y a los hijos de Francisco", los colectivamente nombrados se considerarán como si lo fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1290.
 
-Si el testador instituye a sus hermanos y los tiene sólo de padre, sólo de madre, o de padre y madre, se dividirán la herencia como en el caso de intestado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1291.
 
-Si el testador llama a la sucesión a cierta persona y a sus hijos, se entenderán todos instituídos simultánea y no sucesivamente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1292.
 
-El heredero debe ser instituído designándolo por su nombre y apellido, y si hubiere varios que tuvieren el mismo nombre y apellido, deben agregarse otros nombres o circunstancias que distingan al que se quiere nombrar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1293.
 
-Aunque se haya omitido el nombre del heredero si el testador lo designare de modo que no pueda dudarse quién sea, valdrá la institución.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1294.
 
-El error en el nombre, apellido, o cualidades del heredero, no vicia la institución, si de otro modo se supiere ciertamente cuál es la persona nombrada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1295.
 
-Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse a quién quiso designar el testador, ninguno será heredero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1296.
 
-Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse, será nula, a menos que, por algún evento, puedan resultar ciertas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VII. De los Legados
 
 ###### Artículo 1297.
 
-El legado puede consistir en la prestación de cosa o en la de algún hecho o servicio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1298.
 
-No produce efecto el legado si por acto del testador pierde la cosa legada la forma y denominación que la determinaban.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1299.
 
-El testador puede gravar con legados no sólo a los herederos, sino a los mismos legatarios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1300.
 
-Cuando el testador, el heredero o el legatario sólo tengan cierta parte o derecho en la cosa legada se restringirá el legado a esa parte o derecho, si el testador no declara de un modo expreso que sabía ser la cosa parcialmente de otro y que, no obstante esto, la legaba por entero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1301.
 
-La cosa legada deberá ser entregada con todos sus accesorios y en el estado en que se halle al morir el testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1302.
 
-Los gastos necesarios para la entrega de la cosa legada serán a cargo del legatario, salvo disposición del testador en contrario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1303.
 
-El legatario no puede aceptar una parte del legado y repudiar otra.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1304.
 
-Si el legatario muere antes de aceptar el legado y deja varios herederos, puede uno de éstos aceptar y otro repudiar la parte que le corresponde en el legado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1305.
 
-Si se dejaren dos legados y uno fuere oneroso, el legatario no puede renunciar éste y aceptar el que no lo sea. Si los dos son onerosos o gratuitos es libre para aceptarlos todos o repudiar el que quiera.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1306.
 
-El heredero que sea al mismo tiempo legatario, puede renunciar la herencia y aceptar el legado o renunciar éste y aceptar aquélla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1307.
 
-El acreedor cuyo título no conste más que por testamento, se tendrá para los efectos legales como legatario preferente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1308.
 
-Cuando se legue una cosa, con todo lo que comprenda, no se entenderán legados los documentos justificantes de propiedad, ni los créditos activos, a no ser que se hayan mencionado específicamente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1309.
 
-El legado del menaje de una casa sólo comprende los bienes muebles a que se refiere el artículo 771.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1310.
 
-Si el que lega una propiedad le agrega después nuevas adquisiciones, no se comprenderán éstas en el legado, aunque sean contiguas, sino hay nueva declaración del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1311.
 
-La declaración a que se refiere el artículo precedente no se requiere respecto de las mejoras necesarias, útiles o voluntarias, hechas en el mismo predio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1312.
 
-El legatario puede exigir que el heredero otorgue fianza en todos los casos en que pueda exigirla el acreedor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1313.
 
-Si sólo hubiere legatarios, podrán éstos exigirse entre sí la constitución de la hipoteca necesaria.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1314.
 
-No puede el legatario ocupar por su propia autoridad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1315.
 
-Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, sin perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1316.
 
-El importe de las contribuciones correspondientes al legado, se deducirá del valor de éste a no ser que el testador disponga otra cosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1317.
 
-Si toda la herencia se distribuye en legados se prorratearán las deudas y gravámenes de ella entre todos los partícipes en proporción de sus cuotas, a no ser que el testador hubiere dispuesto otra cosa.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1318.
 
-El legado queda sin efecto si la cosa legada perece viviendo el testador, si se pierde por evicción fuera del caso previsto en el artículo 1364 de este Código o si perece después de la muerte del testador, sin culpa del heredero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1319.
 
-Queda también sin efecto el legado si el testador enajena la cosa legada pero vale si la recobra por un título legal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1320.
 
-Si los bienes de la herencia no alcanzan para cubrir todos los legados, el pago se hará en el siguiente orden:
-
-I. Legados remuneratorios;
-
-II. Legados que el testador o la ley haya declarado preferentes;
-
-III. Legados de cosa cierta y determinada;
-
-IV. Legados de alimentos o de educación;
-
-V. Los demás a prorrata.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1321.
 
-Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose respecto de los actos y contratos inscritos en el Instituto de la Función Registral por terceros que los hayan celebrado de buena fe, lo dispuesto para poseedores de esta clase.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1322.
 
-El legatario de un bien que perece incendiado después de la muerte del testador, tiene derecho a recibir la indemnización del segundo si la cosa estaba asegurada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1323.
 
-Si se declara nulo el testamento después de pagado el legado, la acción del verdadero heredero para recobrar la cosa legada procede contra el legatario y no contra el otro heredero, a no ser que éste haya hecho con dolo la partición.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1324.
 
-Si el heredero o legatario renunciare a la sucesión, la carga que se les haya impuesto se pagará solamente con la cantidad a que tiene derecho el que renunció.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1325.
 
-Si la carga consiste en la ejecución de un hecho, el heredero o legatario que acepte la sucesión queda obligado a prestarlo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1326.
 
-Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente; y si sufre evicción, podrá repetir lo que haya pagado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1327.
 
-En los legados alternativos la evicción corresponde al heredero, si el testador no la concede expresamente al legatario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1328.
 
-Si el heredero tiene la elección, puede entregar la cosa de menor valor, si la elección corresponde al legatario, puede exigir la cosa de mayor valor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1329.
 
-En los legados alternativos, se observará, además, lo dispuesto para las obligaciones alternativas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1330.
 
-En los casos en que el que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1331.
 
-El juez, a petición de parte legítima, hará la elección, si en el término que le señale no la hiciere la persona que tenga derecho de hacerla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1332.
 
-La elección hecha legalmente es irrevocable.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1333.
 
-Es nulo el legado que el testador hace de cosa propia individualmente determinada, que al tiempo de su muerte no se halle en su herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1334.
 
-Si la cosa mencionada en el artículo que precede, existe en la herencia, pero no en la cantidad y número designados, tendrá el legatario lo que hubiere.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1335.
 
-Cuando el legado es de cosa específica y determinada, propia del testador, el legatario adquiere su propiedad desde que aquél muere y hace suyos los frutos pendientes y futuros, a no ser que el testador haya dispuesto otra cosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1336.
 
-La cosa legada en el caso del artículo anterior, correrá desde el mismo instante a riesgo del legatario; y en cuanto a su pérdida, aumento o deterioro posteriores, se observará lo dispuesto en las obligaciones de dar, para el caso de que se pierda, deteriore o aumente la cosa cierta que deba entregarse.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1337.
 
-El legado de cosa ajena, si el testador sabía que lo era, es válido; y el heredero está obligado a adquirirla para entregarla al legatario o dar a éste su precio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1338.
 
-La prueba de que el testador sabía que la cosa era ajena corresponde al legatario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1339.
 
-Si el testador ignoraba que la cosa legada era ajena, es nulo el legado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1340.
 
-Es válido el legado si el testador, después de otorgado el testamento, adquiere la cosa que al otorgarlo no era suya.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1341.
 
-Es nulo el legado de cosa que al otorgarse el testamento pertenezca al mismo legatario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1342.
 
-Si en la cosa legada tiene alguna parte el testador o un tercero, sabiéndolo aquél, en lo que al mismo corresponde, vale el legado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1343.
 
-Si el legatario adquiere la cosa legada, después de otorgado el testamento, se entiende legado su precio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1344.
 
-Es válido el legado hecho a un tercero de cosa propia del heredero, o de un legatario, quienes si aceptan la sucesión, deberán entregar la cosa legada o su precio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1345.
 
-Si el testador ignoraba que la cosa fuese propia del heredero, o del legatario, será nulo el legado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1346.
 
-El legado que consiste en la devolución de la cosa recibida en prenda o en el título constitutivo de una hipoteca, sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1347.
 
-Lo dispuesto en el artículo que precede se observará también en el legado de una fianza, ya sea hecha al fiador, ya al deudor principal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1348.
 
-Si la cosa legada está dada en prenda o hipotecada o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia a no ser que el testador haya dispuesto expresamente otra cosa.
-
-Si por no pagar el obligado, conforme al párrafo anterior, lo hiciere el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquél.
-
-Cualquiera otra carga, perpetua o temporal, a que se halle afecta la cosa legada, pasa con ésta al legatario; pero en ambos casos las rentas y los réditos devengados hasta la muerte del testador son carga de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1349.
 
-El legado de una deuda hecha al mismo deudor extingue la obligación; y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a desempeñar las prendas, a cancelar las hipotecas y las fianzas y a libertar al legatario de toda responsabilidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1350.
 
-Legado el título, sea público o privado, de una deuda, se entiende legada ésta, observándose lo dispuesto en los artículos 1346 y 1347.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1351.
 
-El legado hecho al acreedor no compensa el crédito, a no ser que el testador lo declare expresamente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1352.
 
-En caso de compensación, si los valores fueren diferentes, el acreedor tendrá derecho de cobrar el exceso del crédito o el del legado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1353.
 
-Por medio de un legado puede el deudor mejorar la condición de su acreedor, haciendo puro el crédito condicional, hipotecario el simple, o exigible desde luego el que lo sea a plazo; pero esta mejora no perjudicará en manera alguna los privilegios de los demás acreedores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1354.
 
-El legado hecho a un tercero, de un crédito a favor del testador, sólo produce efectos en la parte del crédito que está insoluto al tiempo de abrirse la sucesión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1355.
 
-En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título del crédito y le concederá todas las acciones que en virtud de él corresponde al testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1356.
 
-Cumpliendo lo dispuesto en el artículo que precede, el que debe pagar el legado queda enteramente libre de la obligación de saneamiento y de cualquier otra responsabilidad, ya provenga ésta del mismo título, ya de insolvencia del deudor o de sus fiadores, ya de otra causa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1357.
 
-Los legados de que hablan los artículos 1349 y 1354, comprenden los intereses que por el crédito o deuda se deban a la muerte del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1358.
 
-Dichos legados subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1359.
 
-El legado genérico de liberación o perdón de las deudas, comprende sólo las existencias al tiempo de otorgar el testamento y no las posteriores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1360.
 
-El legado de cosa mueble indeterminada, pero comprendida en género determinado, será válida, aunque en la herencia no haya cosa alguna del género a que la cosa legada pertenezca.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1361.
 
-En el caso del artículo anterior, la elección es del que debe pagar el legado, quien, si las cosas existen, cumple con entregar una de mediana calidad, pudiendo, en caso contrario, comprar una de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio, o a juicio de peritos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1362.
 
-Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado, escoger la mejor; pero si no las hay, sólo podrá exigir una de mediana calidad o el precio que le corresponda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1363.
 
-Si la cosa indeterminada fuere inmueble, sólo valdrá el legado existiendo en la herencia varios del mismo género; para la elección se observarán las reglas establecidas en los dos artículos anteriores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1364.
 
-El obligado a la entrega del legado responderá en caso de evicción, si la cosa fuere indeterminada, y se señalase solamente por el género o especie.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1365.
 
-En el legado de especie, el heredero debe entregar la misma cosa legada; en caso de pérdida se observará lo dispuesto para las obligaciones de dar cosa determinada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1366.
 
-Los legados en dinero deben pagarse en esa especie; y si no la hay en la herencia, con el producto de los bienes que al efecto se vendan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1367.
 
-El legado de cosa o cantidad depositadas en lugar designado, sólo subsistirá en la parte que en él se encuentre.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1368.
 
-El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto que dure menos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1369.
 
-Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el capítulo II, título VI del libro primero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1370.
 
-Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1371.
 
-El legado de educación dura hasta que el legatario sale de la menor edad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1372.
 
-Cesa también el legado de educación, si el legatario, durante la menor edad, obtiene profesión u oficio con qué poder subsistir.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1373.
 
-El legado de pensión, sean cuales fueren la cantidad, el objeto y los plazos, corre desde la muerte del testador; es exigible al principio de cada período, y el legatario hace suya la que tuvo derecho de cobrar, aunque muera antes de que termine el período comenzado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1374.
 
-Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispusiere que dure menos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1375.
 
-Sólo duran veinte años los legados de que trata el artículo anterior, si fueren dejados a alguna corporación que tuviere capacidad de adquirirlos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1376.
 
-Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlo hasta que legalmente se extinga.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VIII. De las substituciones
 
 ###### Artículo 1377.
 
-Puede el testador sustituir una o más personas al heredero o herederos instituídos, para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1378.
 
-Los substitutos pueden ser nombrados conjunta o sucesivamente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1379.
 
-El substituto del substituto, faltando éste, lo es del heredero substituido.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1380.
 
-Los substitutos recibirán la herencia con los mismos gravámenes y condiciones con que debían recibirla los herederos; a no ser que el testador haya dispuesto expresamente otra cosa, o que los gravámenes o condiciones fueren puramente personales del heredero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1381.
 
-Si los herederos instituídos en partes desiguales fueren substituídos recíprocamente, en la substitución tendrán las mismas partes que en la institución; a no ser que claramente aparezca haber sido otra la voluntad del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1382.
 
-Quedan prohibidas las substituciones fideicomisarias y cualquiera otra diversa de la autorizada en el artículo 1377, sea cual fuere la forma de que se las (sic) revista.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1383.
 
-La nulidad de la substitución fideicomisaria no importa la de la institución, ni la del legado, teniéndose únicamente por no escrita la cláusula fideicomisaria.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1384.
 
-No se reputa fideicomisaria la disposición en la que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo a otra; a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1385.
 
-Puede el padre dejar una parte o la totalidad de sus bienes a su hijo, con la carga de transferirlos al hijo o hijos que tuviere, en cuyo caso el heredero se considerará como usufructuario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1386.
 
-La disposición que autoriza el artículo anterior, será nula cuando la transmisión de los bienes deba hacerse a descendientes de ulteriores grados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1387.
 
-Se consideran fideicomisarias, y en consecuencia, prohibidas, las disposiciones que contengan prohibición de enajenar, o que llamen a un tercero a lo que quede de la herencia por la muerte del heredero, o el encargo de prestar a más de una persona sucesivamente, cierta renta o pensión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1388.
 
-La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones para estudiantes, para los pobres o para cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Si la carga se impusiera sobre bienes inmuebles y fuere temporal, el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen mientras que la inscripción de éste no se cancele.
-
-Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capital e interés con primera y suficiente hipoteca.
-
-La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IX. De la nulidad, revocación y caducidad de los testamentos
 
 ###### Artículo 1389.
 
-Es nula la institución de heredero o legatario hecha en memorias o comunicados secretos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1390.
 
-Es nulo el testamento que haga el testador bajo la influencia de amenazas contra su persona o sus bienes o contra la persona y bienes de su cónyuge y de sus parientes hasta el tercer grado por consanguinidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1391.
 
-El testador que se encuentre en el caso del artículo que precede, podrá, luego que cese la violencia o disfrute de libertad completa, revalidar su testamento con las mismas solemnidades que si lo otorgara de nuevo. De lo contrario será nula la revalidación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1392.
 
-Es nulo el testamento aceptado por dolo o fraude.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1393.
 
-Es nulo el testamento en que el testador no exprese cumplida y claramente su voluntad, sino sólo por señales o monosílabos en respuesta a las preguntas que se le hacen.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1394.
 
-El testador no puede prohibir que se impugne el testamento en los casos en que éste deba ser nulo conforme a la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1395.
 
-El testamento es nulo cuando se otorgue en contravención a las formas prescritas por la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1396.
 
-Son nulas la renuncia del derecho de testar y la cláusula en que alguno se obligue a no usar de ese derecho, sino bajo ciertas condiciones, sean éstas de la clase que fueren.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1397.
 
-La renuncia de la facultad de revocar el testamento es nula.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1398.
 
-El testamento anterior queda revocado de pleno derecho por el posterior perfecto, si el testador no expresa en éste su voluntad de que aquél subsista en todo o en parte.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1399.
 
-La revocación producirá su efecto aunque el segundo testamento caduque por la incapacidad o renuncia del heredero o de los legatarios nuevamente nombrados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1400.
 
-El testamento anterior recobrará, no obstante, su fuerza, si el testador, revocando el posterior, declara ser su voluntad que el primero subsista.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1401.
 
-Las disposiciones testamentarias caducan y quedan sin efecto, en lo relativo a los herederos y legatarios:
-
-I. Si el heredero o legatario muere antes que el testador o antes de que se cumpla la condición de que dependa la herencia o el legado;
-
-II. Si el heredero o legatario se hace incapaz de recibir la herencia o legado;
-
-III. Si renuncia a su derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1402.
 
-La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO TERCERO. De la forma de los testamentos
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 1403.
 
-El testamento, en cuanto a su forma, es ordinario o especial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1404.
 
-El ordinario puede ser:
-
-I. Público abierto;
-
-II. Público cerrado;
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2001)</small>
-
-III. Público Simplificado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1405.
 
-El especial puede ser:
-
-I. Privado;
-
-II. Militar;
-
-III. Marítimo y
-
-IV. Hecho en país extranjero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1406.
 
-No pueden ser testigos del testamento:
-
-I. Los amanuenses del Notario que los autorice;
-
-II. Los menores de edad;
-
-III. Los que no estén en su sano juicio;
-
-IV. Los ciegos, sordos o mudos;
-
-V. Los que no entiendan el idioma que habla el testador;
-
-VI. Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigos de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes;
-
-VII. Los que hayan sido condenados por el delito de falsedad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1407.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el Notario, dos intérpretes nombrados por el mismo testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1408.
 
-Tanto el Notario, como los testigos que intervengan en cualquier testamento, deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquiera coacción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1409.
 
-Si la identidad del testador no pudiere ser verificada, se declarará esta circunstancia por el Notario o por los testigos, en su caso; agregando uno u otros todas las señales que caracterizan la persona de aquél.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1410.
 
-En el caso del artículo que precede, no tendrá validez el testamento mientras no se pruebe la identidad del testador.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1411.
 
-Se prohíbe a los Notarios que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo pena de cien veces el valor diario de la Unidad de Medida y Actualización vigente, de multa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1412.
 
-El Notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1413.
 
-Lo dispuesto en el artículo que precede, se observará también por cualquiera que tenga en su poder un testamento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1414.
 
-Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. Del testamento público abierto
 
 ###### Artículo 1415.
 
-Testamento público abierto, es el que se otorga ante Notario y tres testigos idóneos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1416.
 
-El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1417.
 
-Si alguno de los testigos no supiere escribir, firmará otro de ellos por él; pero cuando menos, deberá constar la firma entera de dos testigos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1418.
 
-Si el testador no pudiera o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1419.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciendo constar esta circunstancia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1420.
 
-El que fuere sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo designará una persona que lo lea a su nombre.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1421.
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por el Notario, como está prescrito en el artículo 1416, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1422.
 
-Cuando el testador ignore el idioma del país, si puede escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1407. La traducción se transcribirá como testamento en el protocolo respectivo, y el original se archivará en el apéndice del mismo protocolo correspondiente al Notario que intervenga en el acto.
-
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
-
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1423.
 
-Las formalidades se practicarán acto continuo y el Notario dará fe de haberse llenado todas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1424.
 
-Faltando algunas (sic) de las referidas solemnidades quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá además, en la pena de pérdida de oficio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III. Testamento público cerrado
 
 ###### Artículo 1425.
 
-El testamento público cerrado, puede ser escrito por el testador, o por otra persona a su ruego, y en papel común.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1426.
 
-El testador debe rubricar todas las hojas y firmar al calce del testamento, pero si no supiere o no pudiere hacerlo, podrá rubricar o firmar por él otra persona a su ruego.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1427.
 
-En el caso del artículo que precede, la persona que haya rubricado y firmado por el testador, concurrirá con él a la presentación del pliego cerrado; en este acto, el testador declarará que aquella persona rubricó y firmó en su nombre y ésta firmará en la cubierta con los testigos y el Notario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1428.
 
-El papel en que esté escrito el testamento o el que le sirva de cubierta, deberá estar cerrado y sellado, o lo hará cerrar y sellar el testador en el acto del otorgamiento y lo exhibirá al Notario en presencia de tres testigos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1429.
 
-El testador, al hacer la presentación declarará que en aquel pliego está contenida su última voluntad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1430.
 
-El Notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, que deberá ser firmada por el testador, los testigos y el Notario, quien, además, pondrá su sello.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1431.
 
-Si alguno de los testigos no supiere firmar, se llamará a otra persona que lo haga en su nombre y en su presencia, de modo que siempre haya tres firmas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1432.
 
-Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre y en su presencia no debiendo hacerlo ninguno de los testigos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1433.
 
-Sólo en casos de suma urgencia podrá firmar uno de los testigos, ya sea porque no sepa hacerlo, ya por el testador. El Notario hará constar expresamente esta circunstancia, bajo la pena de suspensión de oficio por tres años.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1434.
 
-Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1435.
 
-El sordomudo podrá hacer testamento cerrado con tal de que éste vaya escrito, fechado y firmado de su propia mano y que, al presentarlo al Notario ante cinco testigos, escriba a presencia de todos, sobre la cubierta, que en aquel pliego se contiene su última voluntad, y va escrita y firmada por él. El Notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 1428, 1430 y 1431.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1436.
 
-En el caso del artículo anterior, si el testador no puede firmar la cubierta, se observará lo dispuesto en los artículos 1432 y 1433, dando fe el Notario de la elección que el testador haga de uno de los testigos para que firme por él.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1437.
 
-Puede hacer testamento cerrado el que sea sólo mudo o sólo sordo, con tal de que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así al testador y firme la nota de su puño y letra, sujetándose a las demás solemnidades precisas para esta clase de testamentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1438.
 
-El testamento cerrado que carezca de alguna de las formalidades indicadas, quedará sin efecto y el Notario será responsable en los términos del artículo 1424.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1439.
 
-Cerrado y autorizado el testamento, se entregará al testador y el Notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fué autorizado y entregado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1440.
 
-Por la infracción del artículo anterior, no se anulará el testamento, pero el Notario incurrirá en la pena de suspensión por seis meses.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1441.
 
-El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1442.
 
-Luego que el juez reciba un testamento cerrado y se compruebe ante él el fallecimiento del testador, hará comparecer al Notario y a los testigos que concurrieron al otorgamiento de aquel testamento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1443.
 
-El testamento cerrado no podrá ser abierto sino después que el Notario y los testigos instrumentales hayan reconocido ante el Juez sus firmas y las del testador, o la de la persona que por éste hubiere firmado, y hayan declarado si en su concepto está cerrado y sellado como lo estaba en el acto de la entrega.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1444.
 
-Si no pudieren comparecer los testigos por muerte, enfermedad o ausencia, bastará el reconocimiento de la mayor parte y el del Notario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1445.
 
-Si por iguales causas no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el juez lo hará constar así por información, como también la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar en que éste se otorgó.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1446.
 
-En todo caso, los que comparecieron reconocerán sus firmas. Cumplido lo prescrito en los dos artículos anteriores el juez decretará la publicación y protocolización del testamento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1447.
 
-El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior, o abierto el que forma la cubierta o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1448.
 
-Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1413 y 1414, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiere tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2001)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III BIS. Testamento público simplificado
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
-
 ###### Artículo 1448 Bis.
 
-Testamento Público Simplificado es aquél que se otorga ante Notario respecto de un inmueble destinado a que vaya a destinarse a vivienda por el adquiriente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble destinado al mismo fin, que lleven a cabo las Autoridades del Estado de Oaxaca o cualquier dependencia o entidad de la Administración Pública Federal, Estatal o Municipal o en un acto posterior, de conformidad con lo siguiente:
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
-
-I. Que el precio del inmueble o su valor de avaluó no exceda del equivalente a 25 veces el valor diario de la Unidad de Medida y Actualización vigente, elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
-
-II. El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición a favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
-
-III. Si hubiere pluralidad de adquirientes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1199 de este Código;
-
-IV. Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
-
-V. Los legatarios podrán reclamar directamente la entrega del inmueble y no les serán aplicables las disposiciones de los artículos 1595, 1652 y demás relativos de este código; y
-
-VI. Fallecido el autor de la sucesión, la adjudicación de bienes hereditarios a los legatarios, se hará en los términos del artículo 882-ter del Código de Procedimientos Civiles del Estado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV. Del testamento privado
 
 ###### Artículo 1449.
 
-El testamento privado está permitido en los casos siguientes:
-
-I. Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra Notario a hacer el testamento;
-
-II. Cuando no haya Notario en la población, o juez que actúe por receptoría;
-
-III. Cuando, aun cuando haya Notario o Juez en la población, sea imposible, o por lo menos difícil, que concurran al otorgamiento del testamento;
-
-IV. Cuando los militares o asimilados del ejército entren en campaña o se encuentren prisioneros de guerra.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1450.
 
-El testador que se encuentre en el caso de hacer testamento privado, declarará a (sic) presencia de cinco testigos idóneos su última voluntad, que uno de ellos o el mismo testador redactará por escrito.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1451.
 
-No será necesario redactar por escrito el testamento, cuando ninguno de los testigos sepa escribir y en los casos de suma urgencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1452.
 
-En los casos de suma urgencia bastarán tres testigos idóneos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1453.
 
-Al otorgarse un testamento privado se observarán en su caso las disposiciones contenidas en los artículos 1416 al 1423.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1454.
 
-El testamento privado sólo surtirá sus efectos, si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes de desaparecida la causa que lo autorizó.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1455.
 
-El testamento privado necesita, además, para su validez, que se eleve a escritura pública por declaración judicial, la que se hará en virtud de las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1456.
 
-La elevación o protocolización a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieran la muerte del testador y la forma de su disposición.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1457.
 
-Los testigos que concurran a un testamento privado, deberán declarar circunstanciadamente:
-
-I. El lugar, la hora, el día, el mes y el año en que se otorgó el testamento;
-
-II. Si reconocieron, vieron y oyeron claramente al testador;
-
-III. El tenor de la disposición;
-
-IV. Si el testador estaba en su cabal juicio y libre de cualquiera coacción;
-
-V. El motivo por el que se otorgó el testamento privado;
-
-VI. Si saben que el testador falleció o no de la enfermedad, o en el peligro en que hallaba.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1458.
 
-Si los testigos fueren idóneos y estuvieron conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el juez declarará que sus dichos son el formal testamento de la persona de quien se trata.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1459.
 
-Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente contestes, y mayores de toda excepción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1460.
 
-Lo dispuesto en el artículo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1461.
 
-Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V. Del Testamento militar
 
 ###### Artículo 1462.
 
-Los militares de la guardia nacional o de cualquiera otra fuerza al servicio del Estado y sus asimilados, en el momento de entrar en acción de guerra, o estando heridos sobre el campo de batalla, podrán hacer su disposición testamentaria declarando su voluntad ante dos testigos idóneos, o presentándoles el pliego cerrado que contenga su disposición, escrita y firmada, o por lo menos firmada de su puño y letra.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1463.
 
-Lo dispuesto en el artículo anterior se observará, en su caso, respecto de los prisioneros de guerra.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1464.
 
-Los testamentos otorgados por escrito conforme a este capítulo, deberán ser entregados, luego que muera el testador, por aquel en cuyo poder hubiere quedado, al Jefe de la corporación, quién lo remitirá al Gobierno del Estado y éste a la autoridad judicial competente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1465.
 
-Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él, desde luego, al Jefe de la corporación, quien dará parte en el acto al Gobierno del Estado y éste a la Autoridad Judicial competente, a fin de que, citando a los testigos, se proceda conforme a derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1466.
 
-Los testamentos de los militares del ejército nacional y sus asimilados, se rigen por las disposiciones del Código Civil Federal y surtirán sus efectos en el Estado como también lo surtirán si se ajustan a las prescripciones de este Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1467.
 
-Las disposiciones contenidas en los artículos 1454 y 1461 se observarán también en el testamento militar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VI. Del testamento marítimo, y del hecho en país extranjero
 
 ###### Artículo 1468.
 
-El testamento marítimo y el otorgado en país extranjero serán válidos en el Estado, siempre que se hayan observado en ellos las disposiciones federales y del Estado, relativas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+Artículo 1468 BIS.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-Artículo 1468 BIS.- El testamento público abierto hecho en el extranjero ante jefe de oficinas consulares en ejercicio de funciones notariales, celebrados dentro de su circunscripción y que estén destinados a surtir efectos en el Estado de Oaxaca, será equivalente al otorgado ante notario del Estado de Oaxaca, en los términos de la Ley del Servicio Exterior Mexicano y su Reglamento, y el testimonio respectivo tendrá plena validez sin necesidad de legalización.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO CUARTO. De la sucesión legítima
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. Disposiciones generales
 
 ###### Artículo 1469.
 
-La herencia legítima se abre:
-
-I. Cuando no hay testamento, o el que se otorgó es nulo o perdió su validez;
-
-II. Cuando el testador no dispuso de todos sus bienes;
-
-III. Cuando no se cumple la condición impuesta al heredero, o éste muera antes que el testador, o repudie la herencia, sin que haya substituto ni tenga lugar el derecho de acrecer;
-
-IV. Cuando el heredero instituído es incapaz de heredar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1470.
 
-Cuando siendo válido el testamento no deba subsistir la institución de heredero, subsistirán, sin embargo, las demás disposiciones hechas en él; y la sucesión legítima sólo comprenderá los bienes que debían corresponder al heredero instituído.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1471.
 
-Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1472.
 
-Tienen derecho a heredar por sucesión legítima:
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
-
-I. Los descendientes, cónyuge, ascendientes y parientes colaterales dentro del sexto grado y la concubina o el concubino, si se satisfacen en este caso los requisitos del artículo 1502-BIS; y
-
-II. A falta de los anteriores, la beneficencia pública.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1473.
 
-El parentesco de afinidad no da derecho de heredar.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1474.
 
-Los parientes más próximos excluyen a los más remotos, salvo lo dispuesto en los artículos 1479 y 1500.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1475.
 
-Los parientes que se hallaren en el mismo grado heredarán por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1476.
 
-Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el capítulo I, Título Sexto, Libro Primero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. De la sucesión de los descendientes
 
 ###### Artículo 1477.
 
-Si a la muerte de los padres quedaren sólo hijos, la herencia se dividirá entre todos por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1478.
 
-Cuando concurran descendientes con el cónyuge que sobreviva, a éste le corresponderá la porción de un hijo de acuerdo con lo dispuesto en el artículo 1492.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1479.
 
-Si quedaren hijos y descendientes de ulterior grado los primeros heredarán por cabeza y los segundos por estirpes, lo mismo se observará tratándose de descendientes de hijos muertos con anterioridad al autor de la herencia, o incapaces de heredar o que hubieren renunciado la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1480.
 
-Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes; y si en algunas de éstas hubieren varios herederos, la porción que a ella corresponda se dividirá por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1481.
 
-Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1482.
 
-El adoptado hereda como un hijo, existiendo el derecho de sucesión entre éste y los parientes del adoptante, en los términos que establece este Código.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1483.
 
-Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1484.
 
-Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III. De la sucesión de los ascendientes
 
 ###### Artículo 1485.
 
-A falta de descendientes y de cónyuge, sucederán el padre y la madre por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1486.
 
-Si sólo hubiere padre o madre, el que viva sucederá al hijo en toda la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1487.
 
-Si sólo hubiere ascendientes de ulterior grado por una línea, se dividirá la herencia por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1488.
 
-Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos partes iguales; y se aplicará una a los ascendientes de la línea paterna y otra a los de la materna. Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1489.
 
 (DEROGADO, P.O. 1 DE ENERO DE 1994)
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
-
 ###### Artículo 1490.
 
-Si concurre el cónyuge del adoptado con los adoptantes, se estará a lo dispuesto por el artículo 1494.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1491.
 
-Los ascendientes, aun cuando sean ilegítimos tienen derecho de heredar a sus descendientes reconocidos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV. De la sucesión del cónyuge
 
 ###### Artículo 1492.
 
-El cónyuge que sobreviva, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene, al morir el autor de la sucesión, no igualan a la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1493.
 
-En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, sólo tendrá derecho a recibir lo que baste para igualar sus bienes con la porción mencionada.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1494.
 
-Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1495.
 
-Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, la herencia se dividirá por mitad, correspondiendo una de ellas al cónyuge y la otra se aplicará al hermano o hermanos que se dividirán por partes iguales la porción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1496.
 
-El cónyuge recibirá la porción que le corresponda conforme a los dos artículos anteriores, aunque tenga bienes propios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1497.
 
-A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V. De la sucesión de los colaterales
 
 ###### Artículo 1498.
 
-Si sólo hay hermanos por ambas líneas, sucederán por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1499.
 
-Si concurren hermanos con medios hermanos, aquéllos herederán (sic) doble porción que éstos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1500.
 
-Si concurren hermanos con sobrinos, hijos de hermanos o de medios hermanos que hubieren muerto antes que el autor de la sucesión, que sean incapaces de heredar o que hayan renunciado la herencia, los primeros heredarán por cabeza y los segundos por estirpes, teniendo en cuenta lo dispuesto en el artículo anterior.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1501.
 
-A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpes y la porción de cada estirpe por cabezas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1502.
 
-A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del sexto grado, sin distinción de línea ni consideración al doble vínculo, y heredarán por partes iguales.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V BIS. De la sucesión de los concubinos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
-
 ###### Artículo 1502 Bis.
 
-Los concubinos se heredarán en las mismas porciones y lugar que establecen los Artículos 1492 al 1497, para el Conyugue supérstite, si reúnen una de las condiciones siguiente (sic):
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+Artículo 1502 Bis A.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-I. Que el tiempo de vida en común que precedió inmediatamente a la muerte del autor de la herencia haya durado dos años o más si el supérstite no tuvo hijos con el autor de la sucesión; y,
+Artículo 1502 Bis B.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+Artículo 1502 Bis C.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
-II. Que el supérstite haya tenido uno o más hijos del autor de la herencia, cualquiera que haya sido la duración de la vida en común inmediatamente anterior a la muerte de éste.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
-
-Artículo 1502 Bis A.- Si la vida en común no duró el mínimo a que se refiere la fracción I del Artículo anterior, y no hubo descendencia con el autor de la sucesión, el concubino o la concubina supérstite tendrá el derecho a alimentos si carece de bienes y está imposibilitado para trabajar. Este derecho cesa cuando el supérstite contraiga nupcias o viva nuevamente en concubinato.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
-
-Artículo 1502 Bis B.- Si al morir el autor de la herencia, comparece más de una persona reclamando la calidad de concubino, ninguna heredará ni tendrá derecho a alimentos, salvo prueba en contrario.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
-
-Artículo 1502 Bis C.- El concubino en su caso y la concubina, por si y en representación del hijo habido con el autor de la sucesión, o la madre del menor con derecho a investigar su paternidad, pueden deducir las acciones respectivas dentro del juicio universal, sin necesidad de procedimientos judicial previo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VI. De la sucesión de la Beneficencia Pública
 
 ###### Artículo 1503.
 
-A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública del Estado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1504.
 
-Cuando sea heredera la Beneficencia Pública del Estado y entre lo que corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Federal, se venderán los bienes en pública subasta, antes de hacerse la adjudicación aplicándose a la beneficencia el precio que se obtuviere.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítimas
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede embarazada
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
-
 ###### Artículo 1505.
 
-Cuando a la muerte del marido la viuda quede o cree quedar embarazada, debe ponerlo dentro de cuarenta días en conocimiento del Juez o Jueza para que lo notifique a los interesados en la sucesión. En la misma forma debe proceder la concubina a la muerte del concubino.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1506.
 
-Los interesados podrán pedir al Juez o Jueza que se proceda oportuna y decorosamente a la averiguación del embarazo.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1507.
 
-Aunque resulte cierto el embarazo o los interesados no la contradigan, podrán pedir al Juez o Jueza que dicte las providencias convenientes para evitar la suposición del parto, o que el hijo que nazca pase como viable no siéndolo en realidad.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
-
-Artículo·1508.·Cuando el resultado de la averiguación fuere contrario a la certeza del embarazo, y la viuda insista en que aquélla es verdadera, podrá pedir al Juez o Jueza que, con audiencia de los interesados le señale una casa decente donde sea guardada a vista y con todas las precauciones necesarias, hasta que llegue el tiempo natural del parto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1508.
 
-Cuando el resultado de la averiguación fuere contrario a la certeza de la preñez, y la viuda insista en que aquélla es verdadera, podrá pedir al juez que, con audiencia de los interesados le señale una casa decente donde sea guardada a vista y con todas las precauciones necesarias, hasta que llegue el tiempo natural del parto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1509.
 
-Los interesados pueden pedir en cualquier tiempo que se repita la averiguación.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1510.
 
-Si el marido reconoció en instrumento público o privado la certeza del embarazo de su consorte, no podrá procederse a la averiguación; pero los interesados podrán pedir que se practiquen las diligencias de que habla el artículo 1506.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1511.
 
-La viuda embarazada, aun cuando tenga bienes, debe ser alimentada competentemente de los bienes de la sucesión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1512.
 
-Si la viuda no da aviso al juez o no observa las medidas dictadas por él, podrán los interesados negarle los alimentos, cuando tenga bienes.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1513.
 
-Si por averiguaciones posteriores resultare cierto el embarazo, se deberán abonar los alimentos que hubieren dejado de pagarse.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1514.
 
-La omisión de la madre no perjudica a la legitimidad del hijo, si por otros medios legales puede acreditarse.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Articulo 1515.
 
-La viuda no debe devolver los alimentos recibidos, aun cuando haya habido aborto o no resultare cierto el embarazo, salvo el caso en que ésta hubiere sido contradicha por la información pericial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1516.
 
-El juez decidirá de plano toda cuestión de las tratadas en este capítulo, resolviendo en caso dudoso a favor de la viuda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1517.
 
-Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este capítulo, deberá ser oída la viuda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1518.
 
-La división de la herencia se suspenderá hasta que se verifique el parto; mas los acreedores podrán ser pagados con mandato judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO II. Del derecho de acrecer
 
 ###### Artículo 1519.
 
-El derecho de acrecer es el que la ley concede a un heredero para agregar a su porción hereditaria la que debía corresponder a otro heredero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1520.
 
-Para que en las herencias por testamento tenga lugar el derecho de acrecer, se requiere:
-
-I. Que dos o más sean llamados a una misma herencia o a una misma porción de ella, sin especial designación de partes;
-
-II. Que uno de los llamados muera antes que el testador, renuncie la herencia o sea incapaz de recibirla.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1521.
 
-No se entenderá que están designadas las partes sino cuando el testador haya mandado expresamente que se dividan o las haya designado con señales físicas, más la frase: por mitad o por partes iguales u otras, que aunque designen parte alícuota no fijan ésta numéricamente, o por señales que hagan a cada uno dueño de un cuerpo separado, no excluyen el derecho de acrecer.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1522.
 
-Si la falta del heredero acaece después de haber aceptado la herencia, no hay lugar al derecho de acrecer; y su parte se trasmite a sus herederos, salvo lo dispuesto en el artículo 1525.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1523.
 
-Los herederos a quienes acrece la parte caduca suceden en todos los derechos y obligaciones que tendría el que no quiso o no pudo recibir la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1524.
 
-Los herederos sólo pueden repudiar la porción que acrece a la suya renunciando la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1525.
 
-Cuando conforme a la ley debe tener lugar el derecho de acrecer entre los llamados conjuntamente a un usufructo, la porción del que falte pasará al propietario, salvo disposición expresa del testador, en contrario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1526.
 
-Lo dispuesto en los seis artículos que preceden, se observará igualmente en los legados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1527.
 
-Cuando los legatarios no se hallen en el caso de la fracción I del artículo 1520, pero sí en alguno de los señalados en la fracción II, el legado acrecerá a los herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1528.
 
-El testador puede prohibir o modificar como quiera el derecho de acrecer.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1529.
 
-En las herencias intestamentarias si hubiere varios parientes en un mismo grado y alguno o algunos no quisieren o no pudieren heredar, su parte acrecerá a los otros del mismo grado, salvo lo dispuesto en los artículos 1479 y 1500.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO III. De la apertura y trasmisión de la herencia
 
 ###### Artículo 1530.
 
-La sucesión se abre en el momento en que muere el autor de la herencia o cuando se declara la presunción de muerte de un ausente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1531.
 
-No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido instituído heredero de bienes determinados, reclamar la totalidad de la herencia que le corresponda conjuntamente con otros, sin que el demandado pueda oponer la excepción de que la herencia no le pertenece por entero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1532.
 
-Habiendo albacea nombrado, él deberá promover la declaración a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1533.
 
-El derecho de reclamar la herencia prescribe en diez años y es trasmisible a los herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV. De la aceptación y repudiación de la herencia
 
 ###### Artículo 1534.
 
-La aceptación puede se expresa o tácita. Es expresa la aceptación si el heredero acepta con palabras terminantes; y tácita, si ejecuta algunos hechos de los que se deduzca necesariamente la intención de aceptar, o aquéllos que no podría ejecutar sino con su calidad de heredero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1535.
 
-Ninguno puede aceptar ni repudiar la herencia: en parte, con plazo o condicionalmente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1536.
 
-Pueden aceptar o repudiar la herencia todos los que tienen libre disposición de sus bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1537.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1538.
 
-Los cónyuges no necesitan la autorización uno del otro para aceptar o repudiar la herencia que les corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1539.
 
-Si los herederos no se convinieren sobre la aceptación o repudiación, podrán aceptar unos y repudiar otros.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1540.
 
-Si el heredero fallece sin aceptar o repudiar la herencia, el derecho de hacerlo se trasmite a sus sucesores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1541.
 
-Los efectos o repudiación de la herencia se retrotraen siempre a la fecha de la muerte de la persona a quien se hereda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1542.
 
-La repudiación debe ser expresa y hacerse por escrito ante el juez, o por medio de instrumento público otorgado ante notario, cuando el heredero no se encuentre en el lugar del juicio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1543.
 
-La repudiación no priva al que la hace, si no es heredero ejecutor, del derecho de reclamar los legados que se le hubieren dejado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1544.
 
-El que es llamado a una misma herencia por testamento y abintestado, y la repudia por el primer título, pierde el derecho de suceder por intestado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1545.
 
-El que repudia el derecho de suceder por intestado sin tener noticia de su título testamentario, puede en virtud de éste, aceptar la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1546.
 
-Ninguno puede renunciar la sucesión de persona viva, ni enajenar los derechos que eventualmente pueda tener a su herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1547.
 
-Nadie puede aceptar ni repudiar sin estar cierto de la muerte de aquel de cuya herencia se trata.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1548.
 
-Conocida la muerte de aquel a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1549.
 
-Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de instituciones de beneficencia privada en el Estado, no pueden repudiar la herencia, las primeras sin aprobación judicial, previa audiencia del Ministerio Público; y las segundas, sin sujetarse a las disposiciones relativas de la ley de beneficencia privada.
-
-Los establecimientos públicos no pueden aceptar ni repudiar herencias, sin aprobación de la autoridad administrativa superior de quien dependan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1550.
 
-Cuando alguno tuviere interés en que el heredero declare si acepta o repudia la herencia, podrá pedir, pasados nueve días de la apertura de ésta, que el juez fije al heredero un plazo que no excederá de un mes, para que dentro de él haga su declaración, apercibido de que, si no la hace, se tendrá la herencia por aceptada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1551.
 
-La aceptación y la repudiación, una vez hechas, son irrevocables y no pueden ser impugnadas sino en los casos de dolo o violencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1552.
 
-El heredero puede revocar la aceptación o la repudiación, cuando por un testamento desconocido, al tiempo de hacerla, se altere la cantidad o calidad de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1553.
 
-En el caso del artículo anterior, si el heredero revoca la aceptación, devolverá todo lo que hubiere percibido de la herencia, observándose respecto de los frutos, las reglas relativas a los poseedores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1554.
 
-Si el heredero repudia la herencia en perjuicio de sus acreedores, pueden éstos pedir al juez que los autorice para aceptar en nombre de aquél.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1555.
 
-En el caso del artículo anterior, la aceptación sólo aprovechará a los acreedores para el pago de sus créditos; pero si la herencia excediere del importe de éstos, el exceso pertenecerá a quien llame la ley, y en ningún caso al que hizo la renuncia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1556.
 
-Los acreedores cuyos créditos fueren posteriores a la repudiación no pueden ejercer el derecho que les concede el artículo 1554.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1557.
 
-El que por la repudiación de la herencia deba entrar en ella, podrá impedir que la acepten los acreedores, pagando a éstos los créditos que tengan contra el que la repudie.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1558.
 
-El que a instancias de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1559.
 
-La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1560.
 
-Toda herencia se entiende aceptada a beneficio de inventario aun cuando no se exprese.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO V. De los Albaceas
 
 ###### Artículo 1561.
 
-No podrá ser albacea el que no tenga la libre disposición de sus bienes.
-
-La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1562.
 
-No pueden ser albaceas, excepto en el caso de ser herederos únicos:
-
-I. Los Magistrados o jueces que estén ejerciendo jurisdicción en el lugar en que se abre la sucesión;
-
-II. Los que por sentencia hubieren sido removidos otra vez del cargo de albacea;
-
-III. Los que hayan sido condenados por delitos contra la propiedad; y
-
-IV. Los que no tengan un modo honesto de vivir.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1563.
 
-El testador puede nombrar uno o más albaceas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1564.
 
-Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores votarán sus legítimos representantes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1565.
 
-La mayoría, en todos los casos de que habla este capítulo, y los relativos a inventario y partición, se calcularán por el importe de las porciones y no por el número de las personas.
-
-Cuando la mayor porción esté representada por menos de la cuarta parte de los herederos, para que haya mayoría se necesita que con ellos voten los herederos que sean necesarios para formar por lo menos la cuarta parte del número total.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1566.
 
-Si no hubiere mayoría el albacea será nombrado por el juez de entre los propuestos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1567.
 
-Lo dispuesto en los dos artículos que preceden se observará en los casos de intestado y cuando el albacea nombrado falte, sea por la causa que fuere.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1568.
 
-El heredero que fuere único, será albacea si no hubiere sido nombrado otro en el testamento. Si es incapaz, desempeñará el cargo su tutor.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1569.
 
-Cuando no hay heredero o el nombrado no entra en la herencia, el juez nombrará el albacea, si no hubiere legatarios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1570.
 
-En el caso del artículo anterior, si hay legatarios, el albacea será nombrado por éstos, de entre ellos mismos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1571.
 
-El albacea nombrado conforme a los dos artículos que preceden, durará en su encargo mientras que, declarados los herederos legítimos, éstos hacen la elección de albacea.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1572.
 
-Cuando toda la herencia se distribuya en legados, los legatarios nombrarán el albacea de entre ellos mismos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1573.
 
-El albacea podrá ser universal o especial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1574.
 
-Cuando fueren varios los albaceas nombrados el albaceazgo será ejercitado por cada uno de ellos en el orden en que hubieren sido designados, a no ser que el testador hubiere dispuesto expresamente que se ejerza de común acuerdo por todos los nombrados, pues en este caso se considerarán mancomunados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1575.
 
-Cuando los albaceas fueren mancomunados sólo valdrá lo que todos hagan de consuno (sic); lo que haga uno de ellos, legalmente autorizado por los demás; y lo que, en caso de disidencia, acuerde el mayor número. Si no hubiere mayoría, decidirá el juez.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1576.
 
-En los casos de suma urgencia, puede uno de los albaceas mancomunados, practicar bajo su responsabilidad personal, los actos que fueren necesarios, dando cuenta inmediatamente a los demás.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1577.
 
-El cargo de albacea es voluntario, pero el que lo acepta, se constituye en la obligación de desempeñarlo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1578.
 
-El albacea que renuncia sin justa causa, perderá lo que le hubiere dejado el testador. Lo mismo sucederá cuando la renuncia sea por justa causa, si lo que se deja al albacea es con el exclusivo objeto de remunerarlo por el desempeño del cargo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1579.
 
-El albacea que presentare excusas, deberá hacerlo dentro de los seis días siguientes a aquél en que tuvo noticias de su nombramiento; o si éste le era conocido, dentro de los seis días siguientes a aquél en que tuvo noticias de la muerte del testador. Si presenta sus excusas fuera del término señalado, responderá de los daños y perjuicios que ocasiona.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1580.
 
-Pueden excusarse de ser albaceas:
-
-I. Los empleados y funcionarios públicos;
-
-II. Los militares en servicio activo;
-
-III. Los que fueren tan pobres que no puedan atender el albaceazgo sin menoscabo de su subsistencia;
-
-IV. Los que por el mal estado habitual de su salud, no pueden atender debidamente el albaceazgo;
-
-V. Los que tengan sesenta años cumplidos;
-
-VI. Los que tengan a su cargo otro albaceazgo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1581.
 
-El albacea que estuviere presente mientras se decide sobre su excusa, debe desempeñar el cargo bajo la pena establecida en el artículo 1578.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1582.
 
-El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1583.
 
-El albacea general está obligado a entregar al ejecutor especial las cantidades o cosas necesarias para que cumpla la parte del testamento que estuviere a su cargo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1584.
 
-Si el cumplimiento del legado dependiere de plazo o de alguna condición suspensiva, podrá el ejecutor general resistir la entrega de la cosa o cantidad, dando fianza a satisfacción del legatario o del ejecutor especial, de que la entrega se hará a su debido tiempo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1585.
 
-El ejecutor especial podrá también, a nombre del legatario, exigir la constitución de la hipoteca necesaria.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1586.
 
-La posesión de los bienes hereditarios y el derecho a la misma posesión se trasmite, por ministerio de la ley, a los herederos y a los ejecutores universales, desde el momento de la muerte del autor de la herencia salvo lo dispuesto en el artículo 199.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1587.
 
-El albacea debe deducir todas las acciones que pertenecieron al autor de la herencia y que no se hayan extinguido por su muerte, así como las que nazcan para la sucesión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1588.
 
-Son obligaciones del albacea general:
-
-I. La presentación del testamento;
-
-II. El aseguramiento de los bienes de la herencia;
-
-III. La formación del inventario;
-
-IV. La administración de los bienes y la rendición de las cuentas del albaceazgo;
-
-V. El pago de las deudas mortuorias, hereditarias y testamentarias;
-
-VI. La partición y adjudicación de los bienes entre los herederos y legatarios.
-
-VII. La defensa, en juicio o fuera de él, así de la herencia como de la validez del testamento;
-
-VIII. La de representar a la sucesión en todos los juicios que hubieren de promoverse en su nombre o que se promovieren contra ella;
-
-IX. Las demás que le imponga la ley.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1589.
 
-Los albaceas, dentro de los quince días siguientes a la aprobación del inventario, propondrán al juez la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deberá entregarse a los herederos o legatarios.
-
-El juez, observando el procedimiento fijado por el Código de la materia, aprobará o modificará la proposición hecha, según corresponda.
-
-El albacea que no presente la proposición de que se trata o que durante dos bimestres consecutivos, sin justa causa, no cubra a los herederos o legatarios lo que les corresponda, será separado de su cargo a solicitud de los interesados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1590.
 
-El albacea también está obligado, dentro de los tres meses contados desde que acepte su nombramiento, a garantizar su manejo con fianza, hipoteca o prenda, a su elección, conforme a las bases siguientes:
-
-I. Por el importe de la renta de los bienes raíces en el último año y por los réditos de los capitales impuestos, durante ese mismo tiempo;
-
-II. Por el valor de los bienes muebles;
-
-III. Por el de los productos de las fincas rústicas en un año, calculados por peritos o por el término medio de un quinquenio, a elección del juez;
-
-IV. En las negociaciones mercantiles o industriales por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1591.
 
-Cuando el albacea sea también coheredero y su porción baste para garantizar, conforme a lo dispuesto en el artículo que precede, no estará obligado a prestar garantía especial, mientras que conserve sus derechos hereditarios. Si su porción no fuere suficiente para prestar la garantía de que se trata, estará obligado a dar fianza, hipoteca o prenda, por lo que falta para completar esa garantía.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1592.
 
-El testador no puede librar al albacea de la obligación de garantizar su manejo; pero los herederos sean testamentarios o legítimos, tienen derecho de dispensar al albacea del cumplimiento de esa obligación.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1593.
 
-Si el albacea ha sido nombrado en testamento y lo tiene en su poder, debe presentarlo dentro de los ocho días siguientes a la muerte del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1594.
 
-El albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos Civiles. Si no lo hace, será removido.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1595.
 
-El albacea, antes de formar el inventario, no permitirá la extracción de cosa alguna, si no es que conste la propiedad ajena por el mismo testamento anterior a la muerte del testador, o por los libros de la casa llevados en debida forma, si el autor de la herencia hubiere sido comerciante.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1596.
 
-Cuando la propiedad de la cosa ajena conste por medios diversos de los enumerados en el artículo que precede, el albacea se limitará a poner al margen de las partidas respectivas una nota que indique la pertenencia de la cosa, para que la propiedad se discuta en el juicio correspondiente.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1597.
 
-La infracción de los dos artículos anteriores hará responsable al albacea de los daños y perjuicios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1598.
 
-El albacea, dentro del primer mes de ejercer su cargo, fijará, de acuerdo con los herederos, la cantidad que haya de emplearse en los gastos de administración y el número de sueldos de los dependientes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1599.
 
-Si para el pago de una deuda u otro gasto urgente, fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con los herederos y, si esto no fuere posible, con aprobación judicial.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1600.
 
-Lo dispuesto en los artículos 583 y 584 respecto de los tutores, se observará también por los albaceas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1601.
 
-El albacea no puede gravar ni hipotecar los bienes de la herencia, sin consentimiento de los herederos o de los legatarios, en su caso.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1602.
 
-El albacea no puede transigir ni comprometer en árbitros los negocios de la herencia, sin el consentimiento de los herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1603.
 
-El albacea sólo puede dar en arrendamiento hasta por un año, los bienes de la herencia. Para arrendarlos por mayor tiempo, necesita del consentimiento de los herederos o de los legatarios en su caso.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1604.
 
-El albacea está obligado a rendir cada año cuenta de su albaceazgo. No podrá ser nuevamente nombrado, sin que antes haya sido aprobada su cuenta anual. Además, rendirá la cuenta general de albaceazgo. También rendirá cuenta de su administración, cuando, por cualquier causa, deje de ser albacea.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1605.
 
-La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1606.
 
-Son nulas de pleno derecho las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario o de rendir cuentas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1607.
 
-La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1608.
 
-Cuando fuere heredera la Beneficencia Pública o los herederos menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1609.
 
-Aprobadas las cuentas, los interesados pueden celebrar sobre su resultado, los convenios que quieran.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1610.
 
-El heredero o herederos que no hubieren estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un interventor que vigile al albacea. Si la minoría inconforme la forman varios herederos, el nombramiento de interventor se hará por mayoría de votos y, si no se obtiene mayoría, el nombramiento lo hará el juez, eligiendo el interventor de entre las personas propuestas por los herederos de la minoría.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1611.
 
-Las funciones del interventor se limitarán a vigilar el exacto cumplimiento del cargo de albacea.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1612.
 
-El interventor no puede tener la posesión ni aun interina, de los bienes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1613.
 
-Debe nombrase precisamente interventor:
-
-I. Siempre que el heredero esté ausente o no sea conocido;
-
-II. Cuando la cuantía de los legados iguale o exceda a la porción del heredero albacea;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
-
-III. Cuando se hagan legados para objetos o establecimientos de beneficencia pública.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1614.
 
-Los interventores deben ser mayores de edad y capaces para obligarse.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1615.
 
-Los interventores durarán mientras que no se revoque su nombramiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1616.
 
-Los interventores tendrán la retribución que acuerden los herederos que los nombren y si los nombra el juez, cobrarán conforme a arancel, como si fueren apoderados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1617.
 
-Los acreedores y legatarios no podrán exigir el pago de sus créditos y legados, sino hasta que el inventario haya sido formado y aprobado, siempre que se forme y apruebe dentro de los términos señalados por la ley, salvo en los casos previstos en los artículos 1636 y 1639, y aquellas deudas sobre las cuales hubiere juicio pendiente al abrirse la sucesión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1618.
 
-Los gastos hechos por el albacea en el cumplimiento de su cargo incluso los honorarios de abogado y procurador que haya ocupado, se pagarán con la masa de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1619.
 
-El albacea debe cumplir su encargo dentro de un año contado desde su aceptación o desde que terminen los litigios que se promovieron sobre la validez o nulidad del testamento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1620.
 
-Sólo por causa justificada pueden los herederos prorrogar al albacea el plazo señalado en el artículo anterior, y la prórroga no excederá de un año.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1621.
 
-Para prorrogar el plazo del albaceazgo, es indispensable que la prórroga la acuerde una mayoría que represente las dos terceras partes de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1622.
 
-El testador puede señalar al albacea la retribución que quiera.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1623.
 
-Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe líquido y efectivo de la herencia; y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1624.
 
-El albacea tiene derecho de elegir lo que le deja el testador por el desempeño del cargo y lo que la ley le concede por el mismo motivo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1625.
 
-Si fueren varios y mancomunados los albaceas la retribución se repartirá entre todos ellos; si no fueren mancomunados, la retribución se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1626.
 
-Si el testador legó conjuntamente a los albaceas alguna cosa por el desempeño de su cargo, la parte de los que no admitan éste acrecerá a los que la ejerzan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1627.
 
-Los cargos de albacea o interventor acaban:
-
-I. Por el término natural del encargo;
-
-II. Por muerte;
-
-III. Por incapacidad legal declarada en forma;
-
-IV. Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
-
-V. Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
-
-VI. Por revocación de su nombramiento hecho por los herederos;
-
-VII. Por remoción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1628.
 
-La revocación puede hacerse por los herederos, en cualquier tiempo, pero en el mismo acto debe nombrarse el sustituto.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1629.
 
-Cuando el albacea haya recibido del testador algún encargo especial además del de seguir el juicio sucesorio para hacer entrega de los bienes a los herederos, no quedará privado de aquel encargo, por la revocación del nombramiento de albacea que hagan los herederos. En tal caso, se considerará como ejecutor especial y se aplicará lo dispuesto en el artículo 1583.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1630.
 
-Si la revocación se hace sin causa justificada, el albacea removido tiene derecho de percibir lo que el testador le haya dejado por el desempeño del cargo, o el tanto por ciento que le corresponda conforme al artículo 1623, teniéndose en cuenta lo dispuesto en el artículo 1625.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1631.
 
-La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo promovido por parte legítima.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VI. Del inventario y de la liquidación de la herencia
 
 ###### Artículo 1632.
 
-El albacea definitivo, dentro del término que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1633.
 
-Si el albacea no cumpliere lo dispuesto en el artículo anterior, podrá promover la formación de inventario cualquier heredero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1634.
 
-El inventario se formará según lo disponga el Código de Procedimientos Civiles. Si el albacea no lo presenta dentro del término legal, será removido.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1635.
 
-Concluído y aprobado judicialmente el inventario, el albacea procederá a la liquidación de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1636.
 
-En primer lugar, serán pagadas las deudas mortuorias, si no lo estuvieren ya, pues pueden pagarse antes de la formación del inventario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1637.
 
-Se llaman deudas mortuorias los gastos del funeral y los gastos que se hayan causado en la última enfermedad del autor de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1638.
 
-Las deudas mortuorias, se pagarán del cuerpo de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1639.
 
-En segundo lugar, se pagarán los gastos de rigurosa conservación y administración de la herencia, así como los créditos alimenticios que pueden también ser cubiertos antes de la formación del inventario.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1640.
 
-Si para hacer los pagos de que hablan los artículos anteriores no hubiere dinero en la herencia, el albacea promoverá la venta de los bienes muebles y aun de los inmuebles, con las solemnidades que respectivamente se requieran.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1641.
 
-En seguida se pagarán las deudas hereditarias que fueren exigibles.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1642.
 
-Se llaman deudas hereditarias, las contraídas por el autor de la herencia independientemente de su última disposición, y de las que es responsable con sus bienes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1643.
 
-Si hubiere pendiente algún concurso, el albacea no deberá pagar sino conforme a la sentencia de graduación de acreedores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1644.
 
-Los acreedores, cuando no haya concurso, serán pagados en el orden en que se presenten; pero si entre los no presentados hubiere algunos preferentes, se exigirá a los que fueren pagados la caución de acreedor de mejor derecho.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1645.
 
-El albacea, concluído el inventario, no podrá pagar los legados, sin haber cubierto o asignado bienes bastantes para pagar las deudas, conservando en los respectivos bienes los gravámenes especiales que tengan.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1646.
 
-Los acreedores que se presenten después de pagados los legatarios, solamente tendrán acción contra éstos cuando en la herencia no hubiere bienes bastantes para cubrir sus créditos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1647.
 
-La venta de bienes hereditarios para el pago de deudas y legados, se hará en pública subasta; a no ser que la mayoría de los interesados acuerden otra cosa.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1648.
 
-La mayoría de los interesados, o la autorización judicial en su caso, determinará la aplicación que haya de darse al precio de las cosas vendidas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VII. De la partición
 
 ###### Artículo 1649.
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida la partición de la herencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1650.
 
-A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aun por prevención expresa del testador.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1651.
 
-Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores entre ellos deberá oírse al tutor y al Ministerio Público y el auto en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1652.
 
-Si el autor de la herencia dispone en su testamento que a algún heredero o legatario se le entreguen determinados bienes, el albacea, aprobado el inventario, les entregará esos bienes, siempre que garanticen suficientemente responder por los gastos y cargas generales de la herencia en la proporción que les corresponda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1653.
 
-Si el autor de la herencia hiciere la partición de los bienes en su testamento, a ella deberá estarse salvo derecho de tercero.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1654.
 
-Si el autor de la sucesión no dispuso cómo deberían repartirse sus bienes y se trata de una negociación que forme una unidad agrícola, industrial o comercial, habiendo entre los herederos agricultores, industriales o comerciantes, a ellos se aplicará la negociación, siempre que puedan entregar en dinero a los otros coherederos la parte que les corresponda. El precio de la negociación se fijará por peritos.
-
-Lo dispuesto en este artículo, no impide que los coherederos celebren los convenios que estimen pertinentes.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1655.
 
-Los coherederos deben abonarse recíprocamente las rentas y frutos que cada uno haya recibido de los bienes hereditarios, los gastos útiles y necesarios y los daños ocasionados por malicia o negligencia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1656.
 
-Si el testador hubiere legado pensión o renta vitalicia, sin gravar con ella en particular a algún heredero o legatario, se capitalizará al nueve por ciento anual, y se separará un capital o fondo de igual valor, que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario. Lo mismo se observará cuando se trate de las pensiones alimenticias a que se refiere el artículo 1274.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1657.
 
-En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponderá a cada uno de los herederos, luego de que aquélla se extinga.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1658.
 
-Cuando todos los herederos sean mayores, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado.
-
-Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará su aprobación si no se lesionan los derechos de los menores.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1659.
 
-La partición constará en escritura pública, siempre que en la herencia haya bienes cuya enajenación deba hacerse con esa formalidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1660.
 
-Los gastos de la partición se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO VIII. De los efectos de la partición
 
 ###### Artículo 1661.
 
-La partición legalmente hecha, confiere a los coherederos la propiedad exclusiva de los bienes que les hayan sido asignados.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1662.
 
-Cuando por causas anteriores a la partición, alguno de los coherederos fuese privado del todo o de parte de su haber, los otros coherederos están obligados a indemnizarle de esa pérdida en proporción a sus derechos hereditarios.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1663.
 
-La porción que deberá pagarse al que pierda su parte, no será la que represente su haber primitivo, sino la que le corresponda, deduciendo del total de la herencia la parte perdida.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1664.
 
-Si alguno de los coherederos estuviere insolvente, la cuota con que debe contribuir, se repartirá entre los demás, incluso el que perdió su parte.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1665.
 
-Los que pagaren por el insolvente, conservarán su acción contra él para cuando mejore de fortuna.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1666.
 
-La obligación a que se refiere el artículo 1662 sólo cesará en los casos siguientes:
-
-I. Cuando se hubieren dejado al heredero bienes individualmente determinados, de los cuales es privado;
-
-II. Cuando al hacerse la partición los coherederos renuncien expresamente el derecho a ser indemnizados;
-
-III. Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre. Si se adjudica como cobrable un crédito los coherederos no responden de la insolvencia posterior del deudor hereditario y sólo son responsables de su solvencia al tiempo de hacerse la partición.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1667.
 
-Por los créditos incobrables no hay responsabilidad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1668.
 
-El heredero cuyos bienes hereditarios fueren embargados o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IX. De la rescisión y nulidad de las particiones
 
 ###### Artículo 1669.
 
-Las particiones pueden rescindirse o anularse por las mismas causas que los contratos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1670.
 
-El heredero preterido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará nueva partición para que perciba la parte que le corresponda.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1671.
 
-La partición hecha con un heredero falso, es nula en cuanto tenga relación con él; y la parte que se le aplique se distribuirá entre los herederos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 ###### Artículo 1672.
 
-Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este título.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
 
 # LIBRO CUARTO. DE LAS OBLIGACIONES
 
@@ -10166,6 +8634,28 @@ Los contratos que no están especialmente reglamentados en este Código, se regi
 ###### Artículo 1740.
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se oponga a la naturaleza de éstos o a disposiciones especiales de la ley sobre los mismos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 1740 Bis.
+
+En todos los contratos conmutativos o de tracto sucesivo se entenderá que el consentimiento fue otorgado en los términos y condiciones existentes al momento de celebración.
+
+Cuando una prestación resulte en falta de equidad por haber ocurrido alguna causa general que modifique las circunstancias bajo las que se celebró el contrato, se podrá optar entre la rescisión de éste o su modificación equitativa. Los hechos modificativos deben fundarse en causas extraordinarias que no pudieron preverse por las partes al momento de su celebración.
+
+La modificación del contrato en cuanto a su ejecución solo abarcará las prestaciones posteriores al hecho extraordinario por causas de difícil cumplimiento y cuando resulte una ventaja inequitativa con onerosidad desproporcionada para una de las partes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 1740 Ter.
+
+Los hechos extraordinarios deben ser generales e imprevisibles de tal forma que los contratantes no habrían pactado en los términos en que lo hicieron si los hubieran conocido con anterioridad, además podrá considerarse en estos casos cualquier circunstancia económica que trascienda en la vida internacional, nacional, estatal o municipal u otras semejantes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 1740 Quáter.
+
+El ejercicio de la acción de modificación del contrato por hecho extraordinario deberá hacerse ante el Juez o Jueza competente y la persona interesada deberá acreditar que hasta antes de presentarse esa circunstancia se encontraba al corriente del cumplimiento en lo pactado. Esta acción prescribe en el mismo término que la ley señala para ejercitar la acción de cumplimiento o rescisión.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -12532,6 +11022,10 @@ La aceptación de las donaciones se hará en la misma forma en que éstas deban 
 ###### Artículo 2222.
 
 Es nula la donación que comprenda la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo lo necesario para vivir según sus circunstancias.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Cuando la persona que dona sea adulta mayor, el Notario o Notaria que expida el instrumento público, deberá incluir la cláusula de usufructo vitalicio sobre los bienes donados.
 
 ###### Artículo 2223.
 
@@ -17174,3 +15668,43 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO NÚM. 2833.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2222 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2838.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 142 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+CUARTO.- El Titular del Poder Ejecutivo deberá realizar las modificaciones y ajustes presupuestarios necesarias (sic) para incluirlos en el siguiente ejercicio fiscal.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2888.- MEDIANTE EL CUAL ADICIONAN LOS ARTÍCULOS 1740 BIS, 1740 TER Y 1740 QUÁTER AL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2831.- MEDIANTE EL CUAL (SIC) EXPIDE EL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
