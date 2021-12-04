@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2021-10-09"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -481,7 +481,9 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 
 Incurrirán en Faltas administrativas no graves, Faltas administrativas graves, Faltas de particulares en la modalidad de graves y Faltas de particulares en situación especial quienes actualicen los supuestos previstos en los Capítulos I, II, III y IV, del Título Tercero, del Libro Primero, de la Ley General.
 
-También se considerarán como faltas administrativas graves de las y los servidores públicos los actos de violencia de género cometidos contra las mujeres, de acuerdo a lo establecido por la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+También se considerarán como faltas administrativas graves de las y los servidores públicos los actos de violencia de género cometidos contra las mujeres, de acuerdo a lo establecido por la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género, así como las conductas discriminatorias en términos del artículo 7 de la Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca.
 
 ###### Artículo 48.
 
@@ -698,3 +700,11 @@ P.O. 9 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2906.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 87 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
