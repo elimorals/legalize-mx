@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adopciones-del-estado-de-oaxaca-121802"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-12"
-last_updated: "2020-10-17"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADOPCIONES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 12 de mayo de 2017.
 
@@ -359,7 +359,15 @@ II.- El titular o la titular de la Procuraduría quién será el Secretario (a) 
 
 III.- Dos Representantes del H. Tribunal Superior de Justicia del Estado;
 
-IV.- Cinco integrantes de la Sociedad Civil, expertos en materia de niñez y adolescencia con perfiles profesionales en psicología, medicina y disciplinas a (sic) afines al tema en mención; y
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+IV.- Seis ciudadanos especialistas designados por el Titular del Poder Ejecutivo, elegidos por los colegios y asociaciones de profesionistas o universidades, que serán:
+
+a) Dos médicos generales;
+
+b) Dos psicólogos clínicos; y,
+
+c) Dos trabajadores sociales.
 
 V.- El o la titular del Sistema Local de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca.
 
@@ -368,6 +376,10 @@ Todos los integrantes del Consejo contarán con derecho a voz y voto.
 ###### ARTÍCULO 20.
 
 Los integrantes del Consejo desempeñarán el cargo en forma honorífica, por un período máximo de seis años.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Se exceptúan de lo anterior los establecimientos en las fracciones III y IV del artículo 19, quienes duraran en su encargo un máximo de dos años.
 
 ###### ARTÍCULO 21.
 
@@ -622,3 +634,13 @@ P.O. 17 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2920.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 20 DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca.
+
+TERCERO.- El Poder Ejecutivo realizara las adecuaciones reglamentarias respectivas.
