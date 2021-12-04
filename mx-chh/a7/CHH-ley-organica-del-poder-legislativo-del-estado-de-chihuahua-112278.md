@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2021-09-15"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -887,9 +887,9 @@ El desarrollo de las sesiones de la Diputación Permanente y el despacho de los 
 
 Las comisiones del Congreso son órganos colegiados integrados por diputados y diputadas, cuyas funciones son las de analizar y discutir las iniciativas de leyes, decretos, acuerdos, y demás asuntos de su competencia que les sean turnados para elaborar, en su caso, los dictámenes o informes, según corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-Las comisiones, cuando tengan asuntos que resolver, se reunirán a convocatoria de quien ocupe la presidencia conjuntamente con la secretaría de las mismas, expedida y remitida por medio físico, electrónico o telemático, sin que exista un orden de prelación, a través de la secretaría técnica.
+Las comisiones deberán de reunirse por lo menos una vez al mes, cuando tengan asuntos que resolver, a convocatoria de quien ocupe la presidencia conjuntamente con la secretaría de las mismas, expedida y remitida por medio físico, electrónico o telemático, sin que exista un orden de prelación, a través de la secretaría técnica.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
 
@@ -995,7 +995,9 @@ XIV.- De Pueblos y Comunidades Indígenas.
 
 XV.- De Desarrollo Municipal y Fortalecimiento del Federalismo.
 
-XVI.- De Asuntos Fronterizos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+XVI. De Asuntos Fronterizos y Atención a Migrantes.
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3278,3 +3280,19 @@ P.O. 15 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0007/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0026/2021 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 96, FRACCIÓN XVI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0027/2021 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 87, PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
