@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-para-el-estado-de-oaxaca-125270"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-30"
-last_updated: "2021-09-18"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 2017.
 
@@ -555,7 +555,9 @@ V. Entregar a la Secretaría información para el sistema de alerta, de acuerdo 
 
 La solicitud que el Ejecutivo del Estado o los Municipios presenten al Congreso para la autorización de la contratación de Financiamientos u Obligaciones deberá contener y acompañar los siguientes requisitos:
 
-I. Monto, destino y condiciones del Financiamiento a contraer;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+I. Monto, destino, condiciones de la deuda a contraer y la descripción detallada de la inversión pública productiva;
 
 II. Tipo de operación;
 
@@ -649,11 +651,11 @@ La Secretaría deberá publicar la situación de la Deuda Pública del Estado y 
 
 ### CAPÍTULO OCTAVO. De las Sanciones
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 45.
 
-Los servidores públicos que incumplan con las obligaciones establecidas en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+los servidores públicos que incumplan con las obligaciones establecidas en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados con Faltas Graves de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y (sic) Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 ###### Artículo 46.
 
@@ -748,3 +750,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales correspondientes.
 
 CUARTO. Se derogan todas aquellas normas que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2932.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 32 Y EL ARTÍCULO 45 DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
