@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2021-11-20"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -515,7 +515,9 @@ VII.- Suscripción del contrato.
 
 Las licitaciones públicas podrán ser:
 
-I.- Estatales, cuando por el monto de la obra así proceda, la publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en el Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+I.- Estatales, cuando por el monto de la obra así proceda y donde únicamente deberán participar contratistas locales. La publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en el Estado;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1666,3 +1668,11 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2925.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 28 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
