@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-publica-del-estado-de-oaxaca-109298"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2016-11-12"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 7 de mayo de 2015.
 
@@ -49,7 +49,9 @@ LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA
 
 Objeto de la Ley
 
-Las disposiciones de la presente Ley son de orden público y de interés social, y tienen por objeto regular la prestación del servicio de la defensoría pública a fin de garantizar el derecho a la defensa técnica adecuada, asesoría y patrocinio jurídico en el Estado, en materia penal, justicia para adolescentes, civil, familiar, mercantil, agraria, administrativa y constitucional.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Las disposiciones de la presente Ley son de orden público y de interés social, y tienen por objeto regular la prestación del servicio de la defensoría pública a fin de garantizar el derecho a la defensa técnica adecuada, asesoría y patrocinio jurídico en el Estado, en materia penal, justicia para adolescentes, civil, familiar, mercantil, agraria, administrativa, indígena, derechos humanos y constitucional.
 
 ###### Artículo 2.
 
@@ -117,21 +119,27 @@ Atribuciones
 
 La Defensoría tendrá las atribuciones siguientes:
 
-I. Asesorar en las materias civil, familiar, mercantil, agraria, administrativa y constitucional a las personas que lo soliciten, y patrocinarlas ante los juzgados cuando estas carezcan de recursos económicos para contratar un licenciado en derecho particular, o intervengan adolescentes, incapaces o miembros de una comunidad indígena;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+I. Asesorar en las materias civil, familiar, mercantil, agraria, administrativa, indígena, derechos humanos y constitucional a las personas que lo soliciten, y patrocinarlas ante los órganos jurisdiccionales y no jurisdiccionales cuando estas carezcan de recursos económicos para contratar un licenciado en derecho particular, o intervengan adolescentes, incapaces o miembros de una comunidad indígena o afromexicana;
 
 II. Defender jurídicamente a las personas que intervengan en un proceso o procedimiento penal en los supuestos previstos por las disposiciones aplicables;
 
 III. Defender y representar legalmente a los adolescentes a quienes se les atribuya la comisión de un hecho con carácter de delito, de conformidad con lo señalado en la Ley de Justicia para Adolescentes aplicable;
 
-IV. Establecer y coordinar las relaciones con entidades, dependencias y organismos públicos de los tres órdenes de gobierno para el cumplimiento de su objeto;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-V. Fomentar, coordinar, concertar y suscribir convenios de coordinación y colaboración, respectivamente, con instituciones públicas y privadas, ya sean locales, nacionales o internacionales, para el cumplimiento de su objeto, particularmente con las dedicadas a la protección de los derechos humanos;
+IV. Defender y representar legalmente a las personas agraviadas o quejosas ante la Defensoría de los Derechos Humanos del Pueblo de Oaxaca; la Sala Constitucional y la Sala de Justicia Indígena, con motivo de los procedimientos y procesos que se tramiten ante ellas.
 
-VI. Proponer proyectos de iniciativas de ley y decretos en materia de asesoría, patrocinio y defensa técnica;
+V. Establecer y coordinar las relaciones con entidades, dependencias y organismos públicos de los tres órdenes de gobierno para el cumplimiento de su objeto;
 
-VII. Capacitar y certificar a los abogados y profesionistas privados para los efectos señalados en los párrafos segundo y tercero (sic) del artículo 5 de esta ley; y
+VI. Fomentar, coordinar, concertar y suscribir convenios de coordinación y colaboración, respectivamente, con instituciones públicas y privadas, ya sean locales, nacionales o internacionales, para el cumplimiento de su objeto, particularmente con las dedicadas a la protección de los derechos humanos;
 
-VIII. Las ciernas (sic) que establezcan la presente Ley y demás disposiciones legales aplicables.
+VII. Proponer proyectos de iniciativas de ley y decretos en materia de asesoría, patrocinio y defensa técnica;
+
+VIII. Capacitar y certificar a los abogados y profesionistas privados para los efectos señalados en los párrafos segundo y tercero del artículo 5 de esta ley; y
+
+IX. Las ciernas (sic) que establezcan la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -387,15 +395,21 @@ VIII. Visitar periódicamente a los sentenciados en su centro de reclusión a fi
 
 IX. Las demás que señalen las leyes y el reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-Obligaciones de los Defensores en Materia Civil, Familiar, Mercantil, Agraria, Administrativa y Constitucional
+Obligaciones de los Defensores en Materia Civil, Familiar, Mercantil, Agraria, Administrativa, indígena, derechos humanos y Constitucional.
 
-De los Defensores en materia civil, familiar, mercantil, agraria, administrativa y constitucional tendrán las obligaciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Los Defensores en materia civil, familiar, mercantil, agraria, administrativa, indígena, derechos humanos y constitucional tendrán las obligaciones siguientes:
 
 I. Brindar asesoría jurídica en las materias de su competencia a toda persona que lo solicite;
 
-II. Patrocinar ante los Juzgados competentes a las personas que soliciten el servicio en las materias señaladas, procurando la conciliación entre las partes, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+II. Patrocinar ante los órganos jurisdiccionales y no jurisdiccionales competentes a las personas que soliciten el servicio en las materias señaladas, procurando la conciliación entre las partes, y
 
 III. Las demás que señalen las leyes y el reglamento.
 
@@ -447,7 +461,9 @@ VI. Las demás que les señalen las leyes y el reglamento.
 
 Del Patrocinio Jurídico
 
-Para gozar .del servicio de patrocinio en materia civil, familiar, mercantil, agraria, administrativa y constitucional el interesado deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Para gozar del servicio de patrocinio en materia civil, familiar, mercantil, agraria, administrativa, indígena, derechos humanos y constitucional el interesado deberá:
 
 I. Presentar el formato de solicitud;
 
@@ -467,7 +483,9 @@ II. Los trabajadores jubilados o pensionados, así como sus cónyuges o concubin
 
 III. Los trabajadores eventuales o subempleados;
 
-IV. Las personas de las comunidades indígenas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+IV. Las personas de las comunidades indígenas y afromexicana;
 
 V. Las personas que en razón de su situación social o económica tengan la necesidad de estos servicios; y
 
@@ -702,3 +720,11 @@ SÉPTIMO.- El Gobernador del Estado a través de la Secretaría de Finanzas y de
 OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de Oaxaca.
 
 El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2889.- MEDIANTE EL CUAL REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1, LA FRACCIÓN I DEL ARTÁCULO 6, LOS PARRAFOS PRIMERO, SEGUNDO Y LA FRACIÓN (SIC) II DEL ARTÍCULO 21, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24 Y LA FRACCIÓN IV DEL ARTÍCULO 25; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 6, RECORRIÉNDOSE LAS SUBSECUENTES DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
