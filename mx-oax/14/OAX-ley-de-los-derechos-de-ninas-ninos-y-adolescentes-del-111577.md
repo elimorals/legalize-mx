@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2021-11-20"
+last_updated: "2021-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -253,9 +253,13 @@ En la aplicación de la presente Ley se tomarán en cuenta las condiciones parti
 
 Se respetarán los usos, costumbres y prácticas culturales, siempre y cuando no vulneren o restrinjan los derechos de las niñas, niños y adolescentes.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por determinación judicial que ordene la privación de la libertad de madres, padres, tutores o personas que ejerzan su guarda y custodia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, condición de desplazamiento interno, por determinación judicial que ordene la privación de la libertad de madres, padres, tutores o personas que ejerzan su guarda y custodia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Las medidas de protección especial a que se refiere el párrafo que antecede, considerarán al menos proporcionar los alimentos que comprenden la comida, el vestido, alojamiento y la asistencia en caso de enfermedad, así como la educación básica obligatoria, a través de las instituciones correspondientes.
 
 ###### Artículo 10.
 
@@ -325,7 +329,9 @@ XX. Derecho de niñas, niños y adolescentes indígenas y afromexicanos;
 
 XXI. Derechos de niñas, niños y adolescentes migrantes;
 
-XXII. Derechos de Niñas, Niños y Adolescentes en Situación de Emergencias Naturales y Desastres Ecológicos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+XXII. Derechos de Niñas, Niños y Adolescentes en Situación de Emergencias Sanitarias, Naturales y Desastres Ecológicos;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
 
@@ -1283,17 +1289,45 @@ En tanto el Instituto Nacional de Migración determine la condición migratoria 
 
 Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
 
-### CAPÍTULO XXIII. DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE EMERGENCIAS NATURALES Y DESASTRES ECOLÓGICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO XXIII. DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE EMERGENCIAS SANITARIAS, NATURALES Y DESASTRES ECOLÓGICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 80.
 
-En situación de emergencias naturales y desastres ecológicos, las niñas, niños y adolescentes tienen el derecho a recibir de manera prioritaria e inmediata protección y asistencia por parte del Estado, en sus tres niveles; en su caso, con las organizaciones de la sociedad civil y organismos internacionales, privilegiando en todo momento el interés superior de la niñez.
+En situación de emergencias sanitarias, naturales y desastres ecológicos, las niñas, niños y adolescentes tienen el derecho a recibir de manera prioritaria e inmediata protección y asistencia por parte del Estado, en sus tres niveles; en su caso, con las organizaciones de la sociedad civil y organismos internacionales, privilegiando en todo momento el interés superior de la niñez.
 
 El Estado instalará centros de atención y asistencia integral especializada para niñas, niños y adolescentes, al mismo tiempo de realizar la pronta localización de los miembros de la familia separada por el desastre o emergencia.
 
 ###### Artículo 81.
 
 El Estado, en coordinación con las organizaciones civiles y organismos internacionales, establecerán planes, programas y protocolos para proteger la supervivencia y seguridad de niñas, niños, adolescentes y sus familias; considerando los lineamientos en emergencias humanitarias y catástrofes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 81 Bis.
+
+Son derechos de niñas, niños y adolescentes en estado de orfandad por el fallecimiento de su madre, padre, tutores o de quien ejerza su guarda y custodia a causa de una emergencia sanitaria, natural o desastre ecológico recibir del Estado de manera prioritaria e inmediata protección y asistencia integral.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; así como prever e implementar las acciones, programas y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 81 Ter.
+
+El Sistema DIF Estatal en coordinación con el Sistema Local de Protección a través de la Secretaría Ejecutiva serán las encargadas de generar y actualizar un padrón estatal de niñas, niños y adolescentes en estado de orfandad por el fallecimiento de su madre, padre, tutores o de quien ejerza su guarda y custodia a causa de una emergencia sanitaria, natural o desastre ecológico.
+
+La información contenida en el padrón estatal a que refiere el presente artículo será confidencial en lo relativo a la protección de datos personales y sólo podrá ser público en lo que se refiera a datos de carácter estadístico, para fines de medición y evaluación.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 81 Quáter.
+
+Las autoridades de los tres niveles y órdenes de gobierno que tengan conocimiento de que una niña, niño o adolescente se encuentran en estado de orfandad tendrán la obligación de informar a las instancias correspondientes la situación para que sean inscritas en el padrón correspondiente.
+
+Podrán solicitar la inscripción en el padrón aquellas personas que tengan conocimiento del estado de orfandad de la niña, niño o adolescente acudiendo a la oficina designada para tal efecto con las documentales que acrediten dicho estado.
 
 ### CAPÍTULO XXIV. DE LOS DERECHOS DE NIÑAS Y ADOLESCENTES MADRES O PADRES
 
@@ -1327,9 +1361,11 @@ La Ley reconoce el disfrute de los derechos en igualdad de condiciones de niñas
 
 El Reglamento de esta Ley establecerá el procedimiento a seguir para determinar quién ejercerá la guardia y custodia de las niñas, niños o adolescentes.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 84.
 
-Niñas o niños nacidos de madres privadas de su libertad tienen derecho a recibir todos los servicios básicos y especializados durante y después de su nacimiento, y podrán permanecer con ella hasta los dos años de edad.
+Niñas o niños nacidos de madres privadas de su libertad tienen derecho a recibir todos los servicios básicos y especializados durante y después de su nacimiento, y podrán permanecer con ella hasta los tres años de edad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2019)</small>
 
@@ -1753,33 +1789,35 @@ XXIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 El Sistema Local estará conformado por:
 
-A. Poder Ejecutivo Estatal:
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-I. El Gobernador del Estado, quien lo presidirá;
+A. Las y los Titulares de las siguientes Dependencias del Poder Ejecutivo Estatal:
 
-II. El Secretario General de Gobierno;
+I. Gobernador o Gobernadora del Estado, quien lo presidirá;
 
-III. El Titular de la Jefatura de la Gubernatura;
+II. Secretaría General de Gobierno;
 
-IV. El Secretario de Finanzas;
+III. Secretaría de Finanzas;
 
-V. El Secretario de la Secretaría de Desarrollo Social y Humano;
+IV. Secretaría de Bienestar del Estado de Oaxaca;
 
-VI. El titular del Instituto Estatal de Educación Pública;
+V. Secretaría de Salud;
 
-VII. El Secretario de Salud;
+VI. Secretaría de Economía;
 
-VIII. El Secretario de Trabajo;
+VII. Secretaría de Pueblos Indígenas y Afromexicano;
 
-IX. El Secretario de Asuntos Indígenas;
+VIII. Secretaría de las Mujeres de Oaxaca;
 
-X. El titular del Instituto Oaxaqueño de Atención a Migrantes;
+IX. Jefatura de la Gubernatura;
 
-XI. El titular del Instituto de la Mujer Oaxaqueña;
+X. Instituto Estatal de Educación Pública de Oaxaca;
 
-XII. El Titular de la Coordinación para la atención de los Derechos Humanos, y
+XI. Instituto Oaxaqueño de Atención al Migrante;
 
-XIII. El Titular del Sistema DIF Estatal.
+XII. Coordinación para la Atención de los Derechos Humanos;
+
+XIII. Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca.
 
 B. Municipios:
 
@@ -2428,3 +2466,33 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2812.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 13, LA DENOMINACIÓN DEL CAPÍTULO XXIII DEL TÍTULO SEGUNDO, EL PÁRRAFO PRIMERO DEL ARTÍCULO 80, EL APARTADO A DEL ARTÍCULO 109; SE ADICIONAN LOS ARTÍCULO (SIC) 81 BIS, 81 TER Y 81 QUÁTER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca en coordinación con el Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca desarrollaran una campaña permanente de difusión e implementaran las acciones y mecanismos necesarios para la inscripción de niñas, niños y adolescentes en situación de orfandad en el padrón correspondiente.
+
+TERCERO.- El Poder Ejecutivo contará con un plazo de 90 días naturales para emitir los lineamientos para operar, determinar e integrar la información que contendrá el padrón estatal de niñas, niños y adolescentes en estado de orfandad por el fallecimiento de su madre, padre, tutores o de quien ejerza su guarda y custodia a causa de una emergencia sanitaria, natural o desastre ecológico.
+
+CUARTO.- El Poder Ejecutivo deberá prever lo necesario para el cumplimiento de estas disposiciones en el proyecto de Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2922.- MEDIANTE EL CUAL REFORMA EL TERCER PÁRRAFO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2923.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 84 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
