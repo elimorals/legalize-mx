@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-para-el-fomento-y-la-proteccion-41961
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2017-05-12"
+last_updated: "2021-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANIAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2004.
 
@@ -237,7 +237,9 @@ e) El Secretario Técnico del Titular del Poder Ejecutivo;
 
 f) El Secretario de Desarrollo Social y Humano;
 
-g) El Secretario de Asuntos Indígenas,
+> <small>(REFORMADO. P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+g) La o el Secretario de Pueblos Indígenas y Afromexicano,
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -510,3 +512,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Instituto Oaxaqueño de las Artesanías, actualizará el padrón de artesanos del Estado de Oaxaca dentro del plazo de un año contado a partir de la publicación del presente decreto; además, informará la conclusión de la misma al Titular de la Secretaría de Economía para ésta última la publique en su portal electrónico.
 
 TERCERO. El Instituto Oaxaqueño de las Artesanías y la Coordinación General de Enlace Federal y Relaciones internacionales, dentro del plazo de ciento ochenta días naturales contados a partir de la publicación del presente decreto, emitirán los lineamientos que tengan por objeto el cumplimiento de las acciones establecidas en la presente Ley en materia de registro y protección de las artesanías oaxaqueñas ante las instancias correspondientes; estando obligados a difundir los mismos por los medios impresos y electrónicos a efecto de que los artesanos conozcan el contenido de los referidos lineamientos.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2914.- MEDIANTE EL CUAL REFORMA EL INCISO G) DE LA FRACCIÓN III DEL ARTÍCULO 7, DE LA LEY QUE CREA EL INSTITUTO OAXAQUENO DE LAS ARTESANIAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
