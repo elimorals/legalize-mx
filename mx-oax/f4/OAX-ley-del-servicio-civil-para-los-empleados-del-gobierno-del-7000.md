@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2021-10-23"
+last_updated: "2021-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -375,17 +375,21 @@ V.- Procurar a los empleados, dentro de sus posibilidades económicas, los medio
 
 VI.- Conceder a los empleados licencias hasta por quince días con goce de sueldo para el desempeño de comisiones sindicales y sin goce de él para atender cargos de elección popular. Las licencias comprenderán todo el período para el que hayan sido electos y éste se computará como efectivo dentro del escalafón.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-VII.- Conceder las licencias a que se refiere el artículo 68 Ter de esta Ley, y;
+VII.- Conceder las licencias a que se refiere el artículo 68 Ter de esta Ley;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-VIII.- expedir a los empleados sus respectivas credenciales para su debida identificación.
+VIII.- Expedir a los empleados sus respectivas credenciales para su debida identificación; y
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
 
 IX.- Impartir cursos de capacitación y adiestramiento a sus trabajadores, a fin de que éstos mejoren su capacidad y aptitud profesional.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Así como, impartir cursos de sensibilización y educación sobre violencia y relaciones entre los géneros, para que a través de ellos se logre mayor equilibrio e igualdad entre mujeres y hombres.
 
 ###### ARTICULO 36.
 
@@ -418,6 +422,10 @@ VII.- Cuidar los enseres que les sean proporcionados para su trabajo y evitar cu
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
 
 VIII.- Asistir a los cursos que se impartan para mejorar su preparación y eficiencia.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+Así como, asistir y participar en los cursos que se impartan sobre sensibilización y educación sobre violencia y relaciones entre los géneros, para que a través de ellos se logre mayor equilibrio e igualdad entre mujeres y hombres.
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
 
@@ -500,6 +508,10 @@ h).- Por concurrir al trabajo en estado de embriaguez o bajo la influencia de al
 i).- Por falta comprobada de cumplimiento a las condiciones fijadas en el nombramiento, a las obligaciones fijadas en el Reglamento de trabajo, o por prisión que sea el resultado de una sentencia ejecutoria.
 
 j).- Por supresión de plazas por el H. Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+
+VI.- Por cometer actos de hostigamiento o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo.
 
 ###### ARTICULO 40.
 
@@ -1130,6 +1142,22 @@ P.O. 13 DE MARZO DE 2021.
 P.O. 23 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2771.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 69 Y LA FRACCIÓN II DEL ARTÍCULO 70 DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2872.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VI AL ARTÍCULO 39 DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2873.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 35; Y SE ADICIONAN UN SEGUNDO PARRAFO A LA FRACCION IX DEL ARTICULO 35, Y UN SEGUNDO PARRAFO A LA FRACCION VIII DEL ARTÍCULO 37, DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
