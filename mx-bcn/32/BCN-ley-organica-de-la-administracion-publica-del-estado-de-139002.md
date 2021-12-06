@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-139002"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2021-10-27"
+last_updated: "2021-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE ENERO DE DOS MIL VEINTIDÓS.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -1468,3 +1470,65 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente al de su public
 SEGUNDO. Las Juntas Locales de Conciliación y Arbitraje, continuarán en operación y funcionamiento, de conformidad con lo previsto por la reforma de 01 de mayo de 2019, por la que fueron modificadas diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, conciliación obligatoria, libertad sindical y negociación colectiva, hasta en tanto se culmine con la resolución de los asuntos que tengan en trámite.
 
 TERCERO. La presente reforma no afectará los derechos laborales adquiridos y demás prestaciones reconocidas a los trabajadores de base de las Juntas de Conciliación y Arbitraje de la Secretaría de Trabajo y Previsión Social.
+
+P.O. 6 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 41 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de dos mil veintidós.
+
+SEGUNDO. La Ley Orgánica de la Administración Pública del Estado de Baja California, publicada en el Periódico Oficial No. 49, de treinta y uno de octubre de dos mil diecinueve, Número Especial, Tomo CXXVI, quedará abrogada una vez que entre en vigor la presente Ley.
+
+En tanto se expiden los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de la presente Ley, así como los nuevos reglamentos internos de las dependencias, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley las disposiciones legales, reglamentarias y administrativas que regulaban los actos de que se trate con anterioridad.
+
+TERCERO. Dentro de un plazo no mayor de trescientos sesenta y cinco días siguientes a la entrada en vigor de la presente Ley, deberán expedirse las reformas de armonización legislativa a las leyes que correspondan a fin de hacerlas acordes a los términos de esta Ley.
+
+CUARTO. Dentro del plazo de treinta días siguientes a la entrada en vigor de esta Ley, se deberá conformar la comisión intersecretarial que tendrá como objeto realizar los trabajos para la elaboración de la iniciativa de ley que regule el servicio civil de carrera; la forma y términos para su funcionamiento será determinado por sus integrantes.
+
+La comisión intersecretarial estará integrada por las titularidades, o las personas que estos designen, de las dependencias siguientes:
+
+a) Secretaría General de Gobierno;
+
+b) Secretaría de Hacienda;
+
+c) Oficialía Mayor de Gobierno; y,
+
+d) Secretaría de la Honestidad y la Función Pública.
+
+La Consejería Jurídica se integrará a la comisión intersecretarial una vez que inicie su funcionamiento.
+
+La comisión intersecretarial tendrá un plazo no mayor de trescientos sesenta y cinco días a partir de su integración para presentar a la Persona Titular de (sic) Poder Ejecutivo el proyecto de iniciativa de ley que regule el servicio civil de carrera de las dependencias de la Administración Pública.
+
+QUINTO. Se faculta a la Persona Titular del Poder Ejecutivo, para que en términos de la Ley correspondiente, realice las provisiones o ajustes necesarios al Presupuesto de Egresos para el ejercicio fiscal 2022, con el fin de que la nueva estructura orgánica del Poder Ejecutivo prevista en esta Ley inicie su funcionamiento el primero de enero de dos mil veintidós, debiendo comunicar de ello en los informes de evaluación del ejercicio del gasto público que rinda al Congreso del Estado.
+
+SEXTO. Los recursos humanos de las dependencias que se separan o transfieren funciones, transforman o modifican competencia que pasen o se adscriban a las dependencias a que se refiere la presente Ley, conservarán sus derechos laborales en términos de las leyes de la materia.
+
+SÉPTIMO. La Oficialía Mayor de Gobierno a partir de la publicación de esta ley y en un plazo no mayor al treinta y uno de diciembre de dos mil veintiuno, deberá:
+
+a) Determinar el cambio o adscripción del personal de las dependencias que se separan, o transfieren funciones, transforman o modifican competencia, atendiendo a las funciones que previamente desarrollan; y,
+
+b) Realizar las acciones administrativas necesarias para la transferencia del mobiliario, vehículos, equipos, tecnología, instrumentos, aparatos, maquinaria, archivos, información e instalaciones de las dependencias, subsecretarías y unidades administrativas que se separan o transfieren funciones, transforman o modifican competencia, a la dependencia que corresponda en términos de esta Ley, respetando las funciones que previamente se desarrollan en las mismas.
+
+OCTAVO. La integración y funcionamiento de la Secretaría de Seguridad Ciudadana del Estado de Baja California, prevista en los artículos 30, fracción IV y 34 de esta Ley, estará sujeta a la aprobación, publicación e inicio de vigencia de la reforma a los artículos 53, 54 y 69 de la Constitución Política del Estado Libre y Soberano de Baja California, por la cual se escinden las atribuciones de seguridad pública de la Fiscalía General del Estado.
+
+NOVENO. Hasta en tanto entre en vigor la presente Ley, las dependencias que se separan o transfieren funciones, transforman o modifican competencia, seguirán a cargo de las funciones, trámites, procedimientos y demás asuntos que les corresponda, en términos del artículo SEGUNDO transitorio de este Decreto, salvo la excepción prevista en el párrafo siguiente.
+
+El Archivo General de Notarias denominado administrativamente como Dirección del Archivo General de Notarias actualmente adscrito a la Subsecretaría Jurídica del Estado seguirá dependiendo de la Secretaría General de Gobierno y ejerciendo las funciones que se le atribuyen en la Ley del Notariado para el Estado de Baja California; asimismo, la vigilancia del cumplimiento de dicha Ley se ejercerá por conducto de la Secretaría General de Gobierno y de la Dirección del Archivo General de Notarias en términos de la misma.
+
+DÉCIMO. Los asuntos administrativos que, con motivo de esta Ley deban pasar o ser transferidos de una dependencia a otra, y se encuentren pendientes de resolución o conclusión, continuarán atendiéndose por las dependencias que se separan o transfieren funciones, transforman o modifican competencia, en términos del artículo SEGUNDO transitorio de este Decreto; en caso de no concluirse pasarán a las unidades administrativas de las dependencias que señale la presente Ley.
+
+DÉCIMO PRIMERO. Cuando en otras disposiciones legales se dé una denominación distinta a alguna dependencia o unidad administrativa cuyas funciones estén establecidas en la presente Ley, dichas atribuciones se entenderán conferidas para su ejercicio a la dependencia que se determine en la misma, en tanto no se realicen los ajustes legislativos, reglamentarios o normativos que correspondan.
+
+DÉCIMO SEGUNDO. El nombramiento que haga la Persona Titular del Poder Ejecutivo de la titularidad de la Secretaría de Integración y Bienestar Social en términos del artículo 49, fracción X de la Constitución del Estado y, en su caso, la ratificación que realice el Congreso del Estado de conformidad con el numeral 27, fracción XXXII de la misma Constitución, se entenderá efectuado al titular de la Secretaría de Bienestar una vez que entre en vigor la presente Ley.
+
+DÉCIMO TERCERO. La Persona Titular del Poder Ejecutivo para regular debidamente lo concerniente al funcionamiento de las dependencias de la Administración Pública de conformidad a esta Ley, emitirá los nuevos reglamentos internos dentro del plazo de trescientos sesenta y cinco días posteriores a su entrada en vigor.
+
+DÉCIMO CUARTO. Las dependencias que se separan o transfieren funciones, transforman o modifican competencia, a través de sus unidades de apoyo para la administración de los recursos financieros, materiales y humanos, ejercerán provisionalmente las atribuciones y funciones que en ese ámbito se confieren a las dependencias que se prevén en la presente Ley, hasta en tanto se les aprueben los recursos necesarios en el presupuesto de egresos correspondiente.
+
+DÉCIMO QUINTO. Las atribuciones en materia de política de tecnologías de la información y telecomunicaciones para las dependencias y entidades paraestatales de la Administración Pública, a que se refiere el artículo 21, fracción X de la presente Ley, que actualmente fija la Secretaría de Hacienda a través de la Subsecretaría de Tecnología de la Información y Comunicaciones, las seguirá ejerciendo hasta en tanto no se emita la norma respectiva y se transfieran a la Coordinación de Gabinete por sí o a través del órgano que se determine; supuesto en el cual dichas atribuciones quedarán circunscritas al ámbito de competencia que le atribuye esta Ley a la Secretaría de Hacienda, con independencia de la vinculación que deberá tener con la Coordinación de Gabinete o el órgano que se determine para el ejercicio de las atribuciones que corresponden a estos últimos.
+
+DÉCIMO SEXTO. El inicio de funcionamiento del órgano desconcentrado a que se refiere el artículo 21, párrafo segundo de esta Ley, se determinará mediante el instrumento correspondiente o, bien, la declaratoria que formule la Persona Titular del Poder Ejecutivo, mientras tanto se estará en materia de Tecnología de la Información y Comunicaciones a lo dispuesto en el artículo DÉCIMO QUINTO transitorio de este Decreto.
+
+El cumplimiento del objeto y fin del citado órgano desconcentrado serán revisados al término de tres años de su funcionamiento a efecto de proponer el cambio de su naturaleza jurídica y especialización, en su caso.
+
+DÉCIMO SÉPTIMO. La Consejería Jurídica y la Secretaría del Trabajo y Previsión Social formarán parte de la Comisión Interinstitucional Estatal para la implementación del Sistema de Justicia Laboral, prevista en el artículo TERCERO Transitorio del Decreto número 21, expedido por el Congreso del Estado por el cual se aprueban reformas a diversos artículos de la Ley Orgánica del Poder Judicial del Estado d (sic) Baja California, publicado en el Periódico Oficial número 88, Tomo CXXVIII de veintisiete de octubre de dos mil veintiuno.
