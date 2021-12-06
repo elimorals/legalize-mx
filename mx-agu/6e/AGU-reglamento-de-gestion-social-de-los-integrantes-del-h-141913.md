@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-gestion-social-de-los-integrantes-del-h-141913"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-01-20"
-last_updated: "2020-04-13"
+last_updated: "2021-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE GESTION SOCIAL DE LOS INTEGRANTES DEL H. CABILDO DE SAN JOSE DE GRACIA, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE GASTOS DE GESTIÓN Y GASTOS DE REPRESENTACIÓN DE LOS INTEGRANTES DEL H. CABILDO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES, PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE GESTIÓN SOCIAL DE LOS INTEGRANTES DEL H. CABILDO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2021 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección al Núm. 3 del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero de 2020.
 
@@ -264,3 +266,15 @@ P.O. 13 DE ABRIL DE 2020.
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 6 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE GASTOS DE GESTIÓN Y GASTOS DE REPRESENTACIÓN DE LOS INTEGRANTES DEL H. CABILDO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO
+
+El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga el Reglamento de Gestión Social de los integrantes del H. Cabildo de San José de Gracia, Aguascalientes publicado en el Periódico Oficial en fecha 20 de enero de 2020 con todas sus reformas.
