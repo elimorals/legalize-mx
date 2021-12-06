@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-del-poder-judicial-del-estado-de-139597"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-16"
-last_updated: "2021-11-29"
+last_updated: "2021-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "AGU"
 CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE DICIEMBRE DE 2021.]</small>
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de diciembre de 2019.
 
@@ -347,7 +349,9 @@ P.O. 29 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA CONTRALORÍA INTERNA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES".]
 
-PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Aguascalientes, así como en la página oficial de internet del Poder Judicial del Estado de Aguascalientes, con fundamento en lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas y disposición Décimo Tercera de los Lineamientos para la emisión del Código de Ética a que se refiere el precepto legal citado en primer término, para su difusión y conocimiento general. y en atención al principio de máxima publicidad.
+> <small>(F. DE E., P.O. 6 DE DICIEMBRE DE 2021)</small>
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Aguascalientes, así como en la página oficial de internet del Poder Judicial del Estado de Aguascalientes, con fundamento en lo establecido por los artículos 16 de la Ley General de Responsabilidades Administrativas y disposición Décimo Tercera de los Lineamientos para la emisión del Código de Ética a que se refiere el precepto legal citado en primer término, para su difusión y conocimiento general y en atención al principio de máxima publicidad. Además, deberá entregarse un ejemplar impreso y/o electrónico a la totalidad del personal judicial conforme a lo previsto en el Artículo 24 fracción II del Código de Ética del Poder Judicial del Estado de Aguascalientes.
 
 SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
@@ -357,7 +361,7 @@ P.O. 29 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA CONTRALORÍA INTERNA POR EL QUE SE DEROGAN DISPOSICIONES DEL CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
 
-PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Aguascalientes, así como en la página oficial de internet del Poder Judicial del Estado de Aguascalientes, con fundamento en lo establecido por los artículos 16 de la Ley General de Responsabilidades Administrativas y disposición Décimo Tercera de los Lineamientos para la emisión del Código de Ética a que se refiere el precepto legal citado en primer término, para su difusión y conocimiento general. y en atención al principio de máxima publicidad.
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Aguascalientes, así como en la página oficial de internet del Poder Judicial del Estado de Aguascalientes, con fundamento en lo establecido por los artículos 16 de la Ley General de Responsabilidades Administrativas y disposición Décimo Tercera de los Lineamientos para la emisión del Código de Ética a que se refiere el precepto legal citado en primer término, para su difusión y conocimiento general. (sic) y en atención al principio de máxima publicidad.
 
 SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
