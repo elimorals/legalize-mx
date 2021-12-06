@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2021-11-02"
+last_updated: "2021-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -349,9 +349,9 @@ Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decoro
 
 El disfrute de una movilidad segura en las vialidades del Estado es un derecho que tiene toda persona. La ley establecerá las bases y programas para garantizar la seguridad vial del peatón, conductor y pasajero, en las distintas modalidades del transporte público o privado, incluyendo el no motorizado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
 
-Toda persona tiene el derecho humano a vivir libre de corrupción.
+Toda persona tiene el derecho humano a la seguridad ciudadana y a vivir libre de corrupción.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
 
@@ -1847,23 +1847,33 @@ III.- Las demás que le confiera la Ley Orgánica de la Administración Pública
 
 El Secretario General de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO I.. DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA
+Las faltas de la persona titular de la Secretaría General de Gobierno, serán suplidas por el o por la titular de la Secretaría de Hacienda.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO IV.. DE LA SECRETARIA DE SEGURIDAD CIUDADANA Y DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 54.
 
-Las faltas del Secretario General de Gobierno, serán suplidas por el Secretario de Hacienda.
+Las atribuciones que corresponden al Estado en materia de seguridad ciudadana, se ejercerán por conducto de la Secretaría de Seguridad Ciudadana dependiente del Poder Ejecutivo del Estado.
+
+La seguridad ciudadana tendrá como fines salvaguardar la integridad y derechos de las personas, preservar las libertades, el orden y la paz pública; comprende la prevención especial y general de los delitos, así como la prevención social de las violencias con una perspectiva de género, y enfoque diferencial; la inteligencia preventiva y la reinserción social, en un marco de respeto a los derechos humanos y con la participación de la ciudadanía.
+
+La titularidad de la Secretaría de Seguridad Ciudadana recaerá en la persona que designe el Titular del Poder Ejecutivo del Estado, y contará con un Secretariado Ejecutivo, como órgano desconcentrado con autonomía técnica y de gestión, que ejercerá las atribuciones que determine la ley.
+
+El Sistema Estatal de Seguridad Ciudadana se integrará y funcionará en los términos que establezca la ley.
 
 ## TITULO QUINTO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2017)</small>
 
-### CAPITULO II.. DEL PODER JUDICIAL
+### CAPITULO I.. DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 55.
 
@@ -1939,9 +1949,9 @@ La Ley desarrollara en los términos que señala esta Constitución, la carrera 
 
 El Tribunal Estatal de Justicia Administrativa contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo la vigilancia, disciplina y fiscalización del Tribunal, el titular de dicho órgano, deberá reunir los requisitos y sujetarse al procedimiento que determine la ley. El tribunal establecerá mecanismos que transparenten y propicien la rendición de cuentas de su función jurisdiccional, en los términos de las leyes.
 
-### CAPITULO III.. DE LA JURISDICCION ELECTORAL
+### CAPITULO II.. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 56.
 
@@ -2389,9 +2399,9 @@ Los Magistrados, Jueces y demás funcionarios del Poder Judicial del Estado, ser
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-### CAPITULO IV. DE LA FISCALIA GENERAL DEL ESTADO
+### CAPITULO III.. DE LA JURISDICCION ELECTORAL
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 68.
 
@@ -2411,19 +2421,25 @@ El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
+### CAPITULO IV. DE LA FISCALIA GENERAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 6 DE DICIEMBRE DE 2021, PÁGINA 83 Y 84.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 69.
 
-La institución del Ministerio Público se organizará en una Fiscalía General del Estado, que será un órgano autónomo con personalidad jurídica y patrimonio propio, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión y que tendrá a su cargo, la investigación y persecución de los delitos, ejercicio de la acción penal; promover, proteger, respetar y garantizar los derechos al conocimiento de la verdad, la reparación integral del daño y de no repetición de las víctimas, ofendidos en particular y de la sociedad en general. La Fiscalía General Ejercerá atribuciones de Seguridad Pública, a través del organismo que la ley determine para cumplir los fines establecidos por el Sistema Nacional de Seguridad Pública.
+La institución del Ministerio Público se organizará en una Fiscalía General del Estado, que será un órgano autónomo con personalidad jurídica y patrimonio propio, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión; tendrá a su cargo, la investigación y persecución de los delitos y el ejercicio de la acción penal; así como el promover, proteger, respetar y garantizar los derechos al conocimiento de la verdad, la reparación integral del daño y de no repetición de las víctimas, ofendidos en particular y de la sociedad en general.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE DICIEMBRE DE 2021)</small>
 
 Para la investigación de los delitos, el Ministerio Público se auxiliará de una policía que estará bajo su conducción y mando en el ejercicio de esta atribución. La Ley le establecerá su estructura y atribuciones. Asimismo, intervendrá en todos los demás asuntos que determinen esta Constitución y las leyes.
 
-Se crea el Centro Estatal de Inteligencia, integrado por la Fiscalía General y las Secretarías y Direcciones de Seguridad de los Ayuntamientos de Baja California, como órgano de coordinación en materia de seguridad pública. La coordinación del Centro estará a cargo del Fiscal General del Estado, con respeto a las autonomías de los municipios. La Ley fijará las atribuciones y responsabilidades del Fiscal General y demás participantes del Centro Estatal de inteligencia.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
 
-La Fiscalía General del Estado contará con un Órgano Interno de Control que contará con las atribuciones previstas en las leyes aplicables, denominado Fiscalía de Contraloría y Visitaduría; cuyo titular al igual que los demás fiscales que formen parte de la Fiscalía General del Estado serán nombrados y removidos por el Fiscal General del Estado.
+La Fiscalía General del Estado contará con un Órgano Interno de Control que tendrá con (sic) las atribuciones previstas en las leyes aplicables, denominado Fiscalía de Contraloría y Visitaduría; cuyo titular será nombrado y removido por el Fiscal General del Estado al igual que a los demás fiscales que formen parte de la Fiscalía General del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 El Fiscal General del Estado, en términos de las disposiciones legales aplicables, presentará de manera directa al Congreso del Estado el Proyecto de Presupuesto de Egresos del Ejercicio Fiscal que corresponda.
 
@@ -2521,9 +2537,9 @@ La Ley fijará las atribuciones y deberes inherentes a la Defensoría Pública, 
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 76.
 
@@ -2569,7 +2585,7 @@ El Ayuntamiento es el órgano colegiado de representación popular, depositario 
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DEL 2001)</small>
 
-### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
+### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2713,7 +2729,7 @@ V.- No podrán ser electos miembros de un Ayuntamiento:
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2751,7 +2767,7 @@ VIII.- Establecer las bases generales para la presentación del informe del pres
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2875,7 +2891,7 @@ Cuando dos o más centros urbanos situados en territorios de dos o más municipi
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2915,7 +2931,9 @@ En los Presupuestos de Egresos que sean aprobados por los Ayuntamientos, se podr
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
+### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 86.
 
@@ -2937,9 +2955,7 @@ Las personas integrantes de los Concejos Municipales o los Munícipes designados
 
 ## TITULO SEPTIMO
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS, PARTICULARES Y PATRIMONIAL DEL ESTADO Y DEL SISTEMA ESTATAL ANTICORRUPCION
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
 
 ###### ARTICULO 88.
 
@@ -2981,7 +2997,9 @@ EL PODER JUDICIAL CONTARÁ Y ADMINISTRARÁ IGUALMENTE, CON LOS RECURSOS QUE SE S
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2017)</small>
 
-### CAPITULO UNICO.. PREVENCIONES GENERALES
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS, PARTICULARES Y PATRIMONIAL DEL ESTADO Y DEL SISTEMA ESTATAL ANTICORRUPCION
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 ###### ARTICULO 91.
 
@@ -3221,7 +3239,7 @@ Para efecto de la designación de los integrantes del Comité de Participación 
 
 ## TITULO NOVENO
 
-### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
+### CAPITULO UNICO.. PREVENCIONES GENERALES
 
 ###### ARTICULO 96.
 
@@ -3463,7 +3481,7 @@ Los poderes del Estado legítimamente constituidos, no podrán reconocer, bajo n
 
 ## TITULO DECIMO
 
-### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
+### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 112.
 
@@ -3478,6 +3496,8 @@ Las reformas o adiciones efectuadas a esta Constitución, aprobadas de conformid
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 1999)</small>
 
 Las adiciones o reformas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso del Estado, mediante Dictamen, referente a la afectación del texto de ésta, y a la parte de su cuerpo en que deba de incorporarse, aprobado por mayoría calificada, produciendo una declaratoria de reforma o adición constitucional, que deberá promulgarse sin necesidad de ningún otro trámite.
+
+### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
 
 ###### ARTICULO 113.
 
@@ -5484,3 +5504,41 @@ PRIMERO. Una vez aprobada la presente reforma, túrnese a los ayuntamientos del 
 SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
 
 TERCERO. La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 53 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7, 53, 54, 69, LA ADICIÓN DE UN CAPÍTULO IV, DENOMINADO DE LA SECRETARÍA DE SEGURIDAD CIUDADANA Y DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Una vez aprobado el presente Decreto de reformas por el Congreso del Estado, túrnese a los Ayuntamientos del Estado de Baja California, para el procedimiento previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. El presente Decreto deberá publicarse en el Periódico Oficial, Órgano de Gobierno del Estado, y entrará en vigor el primero de enero de dos mil veintidós.
+
+TERCERO. Dentro de los diez días siguientes a la publicación del presente Decreto, se constituirá un Comité Intersecretarial integrado por las personas titulares de la Secretaría General de Gobierno, quien lo presidirá, de la Oficialía Mayor de Gobierno, de la Secretaría de Hacienda, de la Fiscalía General del Estado, de la Comisión Estatal del Sistema Penitenciario del Estado y por las demás personas o dependencias que designe la persona titular del Poder Ejecutivo del Estado. El Comité, en su primera sesión, determinará las reglas para su funcionamiento y sus decisiones se tomarán por mayoría de votos de sus integrantes.
+
+Para los efectos del presente Decreto, el Comité tendrá por objeto:
+
+a) Identificar los recursos humanos, financieros, bienes, patrimonio, fondos, participaciones o ministraciones presupuestales de carácter federal, activos y valores, o en su caso, los pasivos que la Fiscalía General del Estado destina, ejerce o haya asumido para la atención de las atribuciones en materia de seguridad pública, incluyendo aquellos que para el ejercicio de esta función se le hubieran transferido a la Fiscalía General del Estado en virtud de lo dispuesto en el artículo octavo transitorio del Decreto No. 7 de la XXIII Legislatura del Congreso del Estado publicado el 23 de octubre de 2019 en el Periódico Oficial del Estado de Baja California.
+
+Los bienes y recursos a que se refiere este inciso, deberán corresponder y ser proporcionales con la estructura orgánica y unidades administrativas con que cuenta la Fiscalía General del Estado, para el ejercicio de las funciones en materia de seguridad pública, autorizadas en el Presupuesto de Egresos para el Ejercicio Fiscal 2021 y sus ampliaciones, y que conforme al presente Decreto corresponderán a la Secretaría de Seguridad Ciudadana.
+
+b) Planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas actividades y labores necesarias para la transferencia de los bienes y recursos a que se refiere el inciso a) al Poder Ejecutivo del Estado para ser destinados al ejercicio de las funciones de la Secretaría de Seguridad Ciudadana.
+
+c) Realizar la transferencia de los bienes y recursos a que se refiere el inciso a), a más tardar el treinta y uno de diciembre de dos mil veintiuno.
+
+d) Realizar los demás actos que sean necesarios para la correcta y cabal implementación del presente Decreto.
+
+CUARTO. La Secretaría de Hacienda, contemplará en el proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado, para el Ejercicio Fiscal 2022, los ramos, programas y partidas que correspondan, a fin de garantizar el funcionamiento de la Secretaría de Seguridad Ciudadana.
+
+En la aprobación del Presupuesto (sic) Egresos para el Ejercicio Fiscal 2022 de la Fiscalía General del Estado, no se considerarán las partidas presupuestales destinadas a la atención de las atribuciones y funciones en materia de seguridad ciudadana.
+
+QUINTO. Los recursos y participaciones correspondientes al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP) y demás recursos que de conformidad con la Ley de Coordinación Fiscal corresponda percibir al Estado en materia de Seguridad Pública, serán administrados por el Poder Ejecutivo Estatal, para la consecución de los fines del Sistema Nacional de Seguridad Pública.
+
+SEXTO. En la transferencia de personal que se realice con motivo del presente Decreto, cualquiera que sea la naturaleza y forma en que presten sus servicios, se respetarán en todo momento las condiciones y prestaciones que, en su caso, gocen en su relación con los órganos correspondientes. Los trabajadores de base que como consecuencia de este Decreto sean transferidos, conservarán todos sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+SÉPTIMO. Hasta en tanto entre en vigor el presente Decreto, la Fiscalía General del Estado seguirá a cargo de las funciones, trámites, procedimientos y demás asuntos en materia de seguridad, que corresponden al Estado, en los términos que actualmente disponen las leyes y las disposiciones reglamentarias vigentes.
+
+Los trámites, procedimientos y demás asuntos en materia de Seguridad Pública, a cargo de la Fiscalía General del Estado, que se encuentren pendientes de concluir o resolver a la entrada en vigor de este Decreto, serán transferidos a la Secretaría de Seguridad Ciudadana para su conclusión aplicando lo que establecen las leyes y las disposiciones reglamentarias vigentes al momento de su inicio; salvo aquellos asuntos que por acuerdo del Comité Intersecretarial, deban ser concluidos por la Fiscalía General del Estado, en su caso.
+
+OCTAVO. Las funciones, facultades, derechos y obligaciones a cargo de la Fiscalía General del Estado en materia de seguridad pública que se le otorguen o haya asumido en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado; o con dependencias y entidades de la Federación y de los Municipios, o con cualquier persona física o moral, serán asumidas, por la Secretaría de Seguridad Ciudadana, de conformidad con las atribuciones que determinen las leyes aplicables.
+
+NOVENO. A más tardar el 31 de diciembre de 2021 deberán aprobarse las modificaciones o abrogación de los ordenamientos legales que correspondan para dar cumplimiento al presente Decreto.
