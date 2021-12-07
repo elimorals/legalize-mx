@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2021-11-18"
+last_updated: "2021-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -82,6 +82,10 @@ El Estado realizará todas las acciones necesarias orientadas a lograr el derech
 ###### Artículo 2.
 
 Todas las autoridades y organismos autónomos del estado de Yucatán, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, así como realizar sus funciones de conformidad con los principios de universalidad, interdependencia, indivisibilidad, progresividad, igualdad y deberán actuar con perspectiva de género. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2021)</small>
+
+El Estado reconoce el derecho fundamental al acceso libre y universal de banda ancha e internet, a través de los mecanismos y políticas públicas necesarias para asegurar progresivamente a la población su integración a la sociedad de la información y el conocimiento, promoviendo el desarrollo individual y social.
 
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
@@ -4864,3 +4868,15 @@ D.O. 18 DE NOVIEMBRE DE 2021.
 Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 7 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 436/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE RECONOCIMIENTO DEL INTERNET COMO DERECHO FUNDAMENTAL”.]
+
+Entrada en Vigor.
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria.
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
