@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2021-11-18"
+last_updated: "2021-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -2281,6 +2281,26 @@ El decreto o ley devuelto al Congreso del Estado con observaciones, se remitirá
 
 La comisión o comisiones dictaminadoras podrán ratificar el dictamen o modificarlo y si el Pleno aprueba el dictamen a que se refiere el párrafo anterior por la mayoría calificada que establece la Constitución Política para el Estado de Guanajuato, se remitirá al titular del Poder Ejecutivo del Estado la ley o el decreto respectivo, quien deberá promulgarlo sin más trámite.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 208 Bis.
+
+Aprobada por el Pleno una adición o reforma a la Constitución Política para el Estado de Guanajuato, la Mesa Directiva la comunicará a los ayuntamientos de los municipios de la entidad, por los medios que pongan a disposición a efecto de que hagan llegar su aprobación o no a la Mesa Directiva dentro de los quince días hábiles siguientes a la fecha en que reciban la comunicación.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 208 Ter.
+
+La aprobación o no de la reforma constitucional por parte de los ayuntamientos se realizará a través de una certificación en forma física o electrónica. La certificación del secretario del Ayuntamiento será presentada en el portal que para tal efecto habilite el Congreso del Estado y deberá estar signada con la firma electrónica certificada del presidente municipal, pudiéndose presentar en físico.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Artículo 208 Cuáter. La Mesa Directiva en sesión de Pleno o Diputación Permanente realizará el cómputo de la aprobación de los ayuntamientos, realizando la presidencia la declaratoria de aprobación de la adición o reforma y remitirá el Decreto aprobado al titular del Ejecutivo del Estado para los efectos de su competencia.
+
+La Mesa Directiva requerirá a los ayuntamientos que no se hayan pronunciado en los términos del artículo 208 bis de esta ley, para dar cumplimiento al proceso reformador de la Constitución, otorgando un plazo de cinco días hábiles para remitir la certificación correspondiente al Congreso del Estado.
+
+Vencido el plazo de requerimiento, la Mesa Directiva en sesión de Pleno o Diputación Permanente inmediata llevará a cabo en su caso, la declaratoria correspondiente.
+
 ### Capítulo VII. Evaluación Legislativa
 
 ###### Artículo 209.
@@ -3568,5 +3588,11 @@ Artículo único. El presente Decreto entrará en vigencia al día siguiente de 
 P.O. 18 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 5, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 8, APROBADO POR LA SEXAGÉSIMA QUINTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 208 BIS, 208 TER Y 208 CUÁTER (SIC) DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
