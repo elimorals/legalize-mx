@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2021-07-16"
+last_updated: "2021-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -671,7 +671,9 @@ VI. El Titular de la Secretaría del Trabajo y Previsión Social, Vocal;
 
 VII. El Titular de la Secretaría de Desarrollo Económico, Vocal; y
 
-VIII. (DEROGADA, P.O. 16 DE JULIO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VIII. Dos representantes del Consejo Estatal de la Juventud.
 
 El órgano de gobierno contará con su Secretario Técnico con voz pero sin voto y fungirá como tal, el Titular del Instituto Quintanarroense de la Juventud.
 
@@ -897,9 +899,9 @@ Los integrantes del Consejo, no podrán ser parte del personal administrativo de
 
 Al Consejo le corresponden las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-I. Proponer al Instituto las medidas convenientes para alcanzar el cumplimiento de sus acciones de trabajo;
+I. Proponer a dos representantes del Consejo ante la Junta Directiva y presentar al Instituto las medidas convenientes para alcanzar el cumplimiento de sus acciones de trabajo.
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
 
@@ -1055,11 +1057,13 @@ El Congreso Juvenil se llevará a cabo dentro del Primer Periodo Ordinario de Se
 
 La Legislatura del Estado, a través de la Comisión de Desarrollo Juvenil con Igualdad de Oportunidades, y en coordinación con los Institutos Municipales de la Juventud o, en su caso, la autoridad municipal y el Instituto Electoral de Quintana Roo, tendrán la responsabilidad de organizar y llevar a cabo el Congreso Juvenil.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 63.
 
-Los participantes del Congreso Juvenil, serán los jóvenes que cumplan con los requisitos que se estipulen en la convocatoria que emita la Comisión.
+Los participantes del Congreso Juvenil, serán las y los jóvenes que cumplan con los requisitos que se estipulen en la convocatoria que emita la Comisión.
 
-La selección de los jóvenes será representativa de cada uno los Municipios del Estado y cada uno de los Distritos Electorales.
+La selección de las y los jóvenes será representativa de cada uno (sic) los Municipios del Estado y cada uno de los Distritos Electorales. Podrán ser seleccionados las y los jóvenes que no hayan tenido la calidad de congresistas propietarios anteriormente. No podrán participar los servidores públicos de los tres órdenes de gobierno, ni órganos autónomos.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1067,19 +1071,33 @@ La selección de los jóvenes será representativa de cada uno los Municipios de
 
 La Comisión emitirá la Convocatoria correspondiente un mes y medio antes de la fecha de celebración del Congreso Juvenil, la cual se hará de conocimiento público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+La Comisión, las autoridades municipales y el Instituto Electoral de Quintana Roo darán amplia publicidad a la Convocatoria.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 65.
 
-Los participantes de los Municipios del Estado, deberán presentar una propuesta Legislativa ante el Instituto Municipal de la Juventud o, en su caso, ante la autoridad municipal correspondiente, quien seleccionará a sus representantes.
+Los participantes de los Municipios del Estado deberán presentar una propuesta Legislativa ante la Unidad Administrativa Municipal en materia de Juventud o, en su caso, ante la autoridad municipal correspondiente. Estas autoridades deberán remitir todas las propuestas recibidas a la Comisión, 15 días antes de la celebración del evento.
 
-Los participantes de los Distritos Electorales, deberán presentar una propuesta Legislativa ante el Instituto Electoral de Quintana Roo, quien deberá seleccionar a los representantes de los diversos distritos del Estado.
+Asimismo, los jóvenes podrán presentar de manera directa sus propuestas legislativas a la Comisión de Desarrollo Juvenil con Igualdad de Oportunidades.
 
-Las propuestas serán valoradas por estas autoridades, quienes determinarán qué jóvenes fungirán como Propietarios y quiénes como Suplentes e inmediatamente deberán presentarlos ante la Comisión, con sus respectivas propuestas legislativas.
+Todas las actuaciones que realice la Comisión de Desarrollo Juvenil con Igualdad de Oportunidades deberán ser públicas y transmitirse a través de los medios oficiales del Poder Legislativo.
+
+La Comisión garantizará la paridad de género.
+
+Los casos no previstos en la Ley, se resolverán a través de la Comisión.
+
+La convocatoria establecerá el mecanismo de selección y será acordada entre los integrantes de la Comisión, un representante del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, un representante del Instituto Quintanarroense de la Juventud y un representante de una Universidad Pública del Estado, este último será rotativo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 66.
 
-Las propuestas emanadas del Congreso Juvenil, deberán ser turnadas a la Legislatura, con la finalidad de presentarle el resultado de su labor legislativa, mismas que se incorporarán, según sea el caso, al trabajo legislativo del Congreso del Estado.
+Una vez concluido el Congreso Juvenil, el Instituto de Investigaciones Legislativas realizará el análisis de todas las propuestas a fin de establecer la viabilidad de su incorporación al trabajo legislativo. Los análisis de viabilidad deberán estar fundados y motivados, incluyendo los considerados no viables.
+
+El Instituto de Investigaciones Legislativas pondrá a consideración de las comisiones las propuestas y el análisis de viabilidad correspondiente en un término no mayor de tres meses.
 
 ###### Artículo 67.
 
@@ -1266,3 +1284,29 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 153 POR EL QUE SE REFORMAN LOS ARTÍCULOS 63, 65 Y 66, Y SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 64 DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+SEGUNDO. La Honorable XVI Legislatura del Estado de Quintana Roo, por única ocasión, aprueba la celebración del 6to. Congreso Juvenil dentro del primer trimestre del año 2022.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 168 POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 42-D Y LA FRACCIÓN I DEL ARTÍCULO 47 DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 169, POR EL QUE SE ADICIONA UN SEGUNDO TRANSITORIO Y SE REFORMA LA NUMERACIÓN DEL TRANSITORIO ÚNICO, QUEDANDO COMO PRIMERO, AMBOS DEL DECRETO NÚMERO 153 POR EL QUE SE REFORMAN LOS ARTÍCULOS 63, 65 Y 66, Y SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 64 DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EXPEDIDO POR LA H. XVI LEGISLATURA DEL ESTADO”.]
+
+ÚNICO. El presente Decreto se turnará para su publicación en el Periódico Oficial del Estado de Quintana Roo, y entrará en vigor al mismo tiempo o una vez que esté vigente el Decreto Número 153 de la XVI Legislatura del Estado.
