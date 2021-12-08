@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-patronato-para-administrar-el-impuesto-especial-11836"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-29"
-last_updated: "2015-12-22"
+last_updated: "2021-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1995.
 
@@ -53,13 +53,17 @@ LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSID
 
 Es objeto del impuesto especial destinado a la Universidad Autónoma de Nayarit, el pago de impuestos, de derechos y productos establecidos y los que llegaren a establecerse en las leyes fiscales, tanto del Estado como de los Municipios.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-Este impuesto se causará y pagará a la tasa del 12%.
+Este impuesto se causará y pagará a la tasa del 15%.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-El producto de este impuesto será destinado íntegramente a fomentar e incrementar el patrimonio de la Universidad Autónoma de Nayarit y al financiamiento de sus actividades académicas, de extensión, vinculación e investigación.
+El producto de este impuesto será destinado íntegramente a la Universidad Autónoma de Nayarit, de la siguiente forma:
+
+a) Lo equivalente al 25% del total recaudado será para fomentar e incrementar el patrimonio de la Universidad Autónoma de Nayarit y al financiamiento de sus actividades académicas, de extensión, vinculación e investigación.
+
+b) Lo equivalente al 75% del total recaudado será destinado para pago de deuda de la Universidad Autónoma de Nayarit.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -103,13 +107,17 @@ b) Que la contratación se lleve a cabo mediante los procedimientos que establez
 
 V.- Financiamiento de actividades académicas, deportivas, artísticas y culturales;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-VI.- Otorgamiento de becas; y
+VI.- Otorgamiento de becas;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-VII.- Para cubrir los gastos de administración y funcionamiento del patronato, con el acuerdo unánime de los miembros del patronato.
+VII.- Para cubrir los gastos de administración y funcionamiento del patronato, con el acuerdo unánime de los miembros del patronato, y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Para pago de deuda de la Universidad Autónoma de Nayarit.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
 
@@ -211,9 +219,9 @@ Las faltas justificadas serán informadas con la debida anticipación; si un rep
 
 Son atribuciones del Patronato:
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-I.- Recibir, concentrar y administrar los recursos económicos derivados de la recaudación del impuesto especial del 12%;
+I. Recibir, concentrar y administrar los recursos económicos derivados de la recaudación del impuesto especial del 15%;
 
 II.- Formar y controlar el inventario de los bienes que formen el Patronato;
 
@@ -235,9 +243,9 @@ VIII.- Fomentar las actividades científicas y tecnológicas de acuerdo con los 
 
 IX.- Celebrar convenios y contratos relacionados con su objeto;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-X.- Promover instrumentos de inversión financiera y productiva respecto de los recursos universitarios provenientes del impuesto especial del 12%;
+X. Promover instrumentos de inversión financiera y productiva respecto de los recursos universitarios provenientes del impuesto especial del 15%;
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -348,3 +356,23 @@ Artículo primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Con la finalidad de dar cumplimiento a lo previsto en el párrafo primero de la fracción V del artículo 5º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit, las recaudadoras que culminan su periodo en el año 2017, deberán instrumentar los mecanismos financieros y jurídicos, para convenir con el representante legal del Patronato, la forma y plazos para enterar y acreditar a más tardar el 31 de diciembre del 2016, la totalidad de los pasivos que tienen con motivo del impuesto especial destinado a la Universidad Autónoma de Nayarit, tanto de administraciones anteriores como la vigente. Posterior a ello, aplicará ordinariamente lo previsto en el párrafo primero, fracción V, del artículo 5 de la ley citada en este párrafo.
 
 Artículo tercero. Los recursos que se obtengan con motivo de la regularización de los adeudos de administraciones anteriores, deberán ser utilizados preferentemente para infraestructura y equipamiento, de conformidad a lo establecido en la fracción IV del artículo 4º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En lo que refiere al párrafo tercero, inciso b) del artículo 1 del presente Decreto el equivalente al 75% del total del Impuesto recaudado será destinado para pago de deuda de la Universidad Autónoma de Nayarit, contratada hasta antes del 18 de septiembre de 2021.
+
+TERCERO. El saldo existente hasta la entrada en vigor del presente Decreto en las cuentas bancarias del Patronato para Administrar el Impuesto, se destinará a la amortización de la deuda de la Universidad Autónoma de Nayarit.
+
+CUARTO. El importe recaudado por concepto del Impuesto Especial destinado a la Universidad Autónoma de Nayarit, correspondiente al mes de diciembre de 2021, se distribuirá conforme a lo establecido en el presente Decreto.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+SEXTO. El Congreso del Estado contará con el plazo de hasta 60 días naturales para aprobar las leyes o reformas, que en su caso correspondan a la legislación local en los términos del presente Decreto.
+
+SÉPTIMO. La Universidad Autónoma de Nayarit contará con el plazo de hasta 40 días naturales para adecuar sus procesos internos en términos de lo dispuesto en el presente Decreto.
+
+OCTAVO. El presente Decreto tendrá vigencia hasta en tanto la Universidad Autónoma de Nayarit, no cubra la totalidad de la deuda contratada, una vez que se colme dicho supuesto, habrán de realizarse las reformas necesarias para adecuar la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit, a la realidad financiera de la Máxima Casa de Estudios del Estado.
