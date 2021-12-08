@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2021-06-07"
+last_updated: "2021-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 9 DE DICIEMBRE DE 2021 Y 17 DE DICIEMBRE DE 2021 RESPECTIVAMENTE, EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -67,9 +69,9 @@ Los organismos autónomos del Estado, formarán parte de la Administración Púb
 
 Las dependencias y entidades de la Administración Pública Estatal, Centralizada y Paraestatal, contarán con un Órgano Interno de Control, que tendrán las facultades establecidas en la Constitución, y demás leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-En el caso de las dependencias, la Secretaría de la Contraloría General, podrá ejercer directamente los recursos, atribuciones y facultades de los órganos internos de control, lo anterior atendiendo a la capacidad presupuestal de cada ente.
+En el caso de las dependencias, la Secretaría para la Honestidad y Buena Gobernanza, podrá ejercer directamente los recursos, atribuciones y facultades de los órganos internos de control, lo anterior atendiendo a la capacidad presupuestal de cada ente.
 
 ###### Artículo 2o.
 
@@ -103,11 +105,11 @@ El Gobernador del Estado esta facultado para resolver las dudas que surjan sobre
 
 Asimismo, tendrá atribuciones para, en el ejercicio de sus funciones, emitir decretos administrativos tendientes a crear las dependencias y organismos auxiliares que resulten indispensables para el buen despacho del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 8o.
 
-Para el ejercicio de sus funciones, el Gobernador del Estado contará con el apoyo directo, de una Jefatura de Oficina, una Secretaría Particular y las unidades administrativas, de asesoría, apoyo técnico y de coordinación que él mismo determine, de conformidad con el presupuesto de egresos.
+Para el ejercicio de sus funciones, el Gobernador del Estado contará con el apoyo directo, de una Jefatura de Oficina, la Secretaría Particular, la Secretaría Particular del Despacho del Ejecutivo, así como las unidades administrativas, de asesoría, apoyo técnico y de coordinación que él mismo determine, de conformidad con el presupuesto de egresos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2019)</small>
 
@@ -179,11 +181,11 @@ Las dependencias y entidades de la Administración Pública del Estado, enviará
 
 Las dependencias y entidades de la Administración Pública del Estado proporcionarán oportunamente a la Consejería Jurídica del Gobernador la información y apoyo que requiera para el cumplimiento de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 17.
 
-Las dependencias y entidades de la Administración Pública del Estado formularán, respecto de los asuntos de su competencia, los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones legales, mismos que deberán ser revisados y en su caso, validados por su respectiva área jurídica y previo a su remisión al Ejecutivo, recabarán y anexarán también , el escrito que contenga la opinión, informe o validación de la Secretaría General de Gobierno, y en su caso, de la Secretaría de Administración y Finanzas, cuando se adviertan implicaciones de índole financiera o presupuestal, y de la Secretaría de la Contraloría General cuando en el ámbito de su competencia deban ser analizados por esta dependencia.
+Las dependencias y entidades de la Administración Pública del Estado formularán, respecto de los asuntos de su competencia, los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones legales, mismos que deberán ser revisados y en su caso, validados por su respectiva área jurídica y previo a su remisión al Ejecutivo, recabarán y anexarán también, el escrito que contenga la opinión, informe o validación de la Secretaría General de Gobierno, y en su caso, de la Secretaría de Administración y Finanzas, cuando se adviertan implicaciones de índole financiera o presupuestal, y de la Secretaría para la Honestidad y Buena Gobernanza cuando en el ámbito de su competencia deban ser analizados por esta dependencia.
 
 Corresponderá al Gobernador del Estado autorizar con su firma el ordenamiento de que se trate y, con el respectivo refrendo, ordenar su publicación.
 
@@ -225,9 +227,9 @@ El Gobernador del Estado expedirá los reglamentos interiores, acuerdos, circula
 
 En el reglamento interior de cada una de las dependencias, se determinarán las atribuciones de sus unidades administrativas.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de la Contraloría General. En cada una de las dependencias y entidades de la Administración Pública Estatal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
+Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría para la Honestidad y Buena Gobernanza. En cada una de las dependencias y entidades de la Administración Pública Estatal, se mantendrán al corriente' los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
 
 ###### Artículo 25.
 
@@ -325,11 +327,17 @@ IV. Secretaría de Infraestructura;
 
 V. Secretaría de Educación;
 
-VI. Secretaría de la Contraloría General;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VI. Secretaría para la Honestidad y Buena Gobernanza;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
 VII. Secretaría de Desarrollo Rural;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VII. Bis. Secretaría del Trabajo y Justicia Laboral;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -419,7 +427,7 @@ XXV. Autorizar los folios y protocolos notariales, así como los mecanismos que 
 
 XXVI. Conocer, tramitar y resolver sobre el procedimiento relativo a la actuación de los notarios, cuando éste sea contrario a la ley en términos de las disposiciones legales aplicables;
 
-XXVII. Administrar el Archivo General del Estado, normar y asesorar a las dependencias y entidades de la Administración Pública en la organización, control, registro y salvaguarda de sus archivos en activo y los que deben enviar a esta Secretaría;
+XXVII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
 XXVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
@@ -545,11 +553,13 @@ XI.- Autorizar, vigilar y evaluar, de conformidad con las leyes respectivas, el 
 
 XII.- Hacer glosa preventiva de los ingresos y egresos del Gobierno del Estado;
 
-XIII.- Elaborar conjuntamente con la Secretaría de la Contraloría General la normatividad para regular el ejercicio de los ingresos y egresos del estado y la implementación de los procedimientos de modernización, reestructuración o simplificación administrativa, así como lo referente a la contabilidad y control en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros, contratación de deuda, manejo de fondos y custodia de documentos que constituyen valores, acciones y derechos que formen parte del patrimonio de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+XIII.- Elaborar conjuntamente con la Secretaría para la Honestidad y Buena Gobernanza la normatividad para regular el ejercicio de los ingresos y egresos del estado y la implementación de los procedimientos de modernización, restauración o simplificación administrativa, así como lo referente a la contabilidad y control en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros, contratación de deuda, manejo de fondos y custodia de documentos que constituyen valores, acciones y derechos que formen parte del patrimonio de la Administración Pública Estatal;
 
-XIV.- Solventar por acuerdo del Gobernador del Estado, conjuntamente con la Secretaría de la Contraloría General las observaciones que determine el Congreso del Estado a través de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+XIV.- Solventar por acuerdo del Gobernador del Estado, conjuntamente con la Secretaría para la Honestidad y Buena Gobernanza las observaciones que determine el Congreso del Estado a través de la Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -689,7 +699,9 @@ LXVIII.- Registrar los actos y contratos de los que resulten derechos y obligaci
 
 LXIX.- Administrar y asegurar la conservación y mantenimiento del patrimonio del Poder Ejecutivo;
 
-LXX.- Establecer en coordinación con la Secretaría de la Contraloría General las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la Administración Pública Estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+LXX.- Establecer en coordinación con la Secretaría para la Honestidad y Buena Gobernanza las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la Administración Pública Estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios;
 
 LXXI.- Crear, previo acuerdo del Gobernador del Estado, las unidades administrativas que requieran las dependencias y entidades de la Administración Pública Estatal;
 
@@ -1105,9 +1117,11 @@ XXXV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le
 
 Artículo 36 bis. (DEROGADO, P.O. 17 DE DICIEMBRE DE 2011)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-A la Secretaría de la Contraloría General le corresponden las siguientes atribuciones:
+A la Secretaría para la Honestidad y Buena Gobernanza le corresponden las siguientes atribuciones:
 
 I. Planear, programar, organizar y coordinar el sistema de control, evaluación, vigilancia, responsabilidad administrativa y registro patrimonial de los servidores públicos de la Administración Pública Centralizada y Paraestatal;
 
@@ -1211,9 +1225,9 @@ XXXV. Informar periódicamente al Gobernador del Estado, sobre la fiscalización
 
 XXXVI. Recibir y atender directamente, o a través de los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal, las quejas o denuncias que presenten los particulares en contra de los servidores públicos por incumplimiento en sus obligaciones o con motivo de acuerdos, convenios o contratos que celebren con las dependencias o entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-XXXVII. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+XXXVII. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, actos de deshonestidad y actos de corrupción;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -1231,9 +1245,9 @@ XL. Coordinar y supervisar el sistema de control interno, establecer las bases g
 
 XLI. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, servicio profesional de carrera en la Administración Pública Estatal, estructuras orgánicas y ocupacionales, de conformidad con las respectivas normas de control de gasto en materia de servicios personales;
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-XLII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría General; asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control;
+XLII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, quienes dependerán jerárquica y funcionalmente de la Secretaría para la Honestidad y Buena Gobernanza; asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control;
 
 > <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -1271,21 +1285,21 @@ L. Proporcionar, en su caso, asesoría normativa con carácter preventivo en los
 
 LI. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-LII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Local Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+LII. Formular y conducir con apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Local Anticorrupción, la política general de la administración pública estatal para establecer acciones que propicien la honestidad, integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
 
 > <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
 
 LIII. Ejercer las facultades que la Constitución Política del Estado le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales;
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-LIV. Llevar directamente el sistema de control interno de las dependencias y entidades que por su situación presupuestal no les permita incorporar un órgano interno de control;
+LIV. Llevar directamente el sistema de control interno de las dependencias y entidades que, por su disposición presupuestal les impida incorporar en su estructura administrativa un órgano encargado de esta tarea;
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-LV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Local Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
+LV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Local Anticorrupción, en materia de fomento a la honestidad y combate a la corrupción en la Administración Pública Estatal;
 
 > <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -1303,23 +1317,31 @@ LVIII. Emitir el Código de Ética de los servidores públicos del gobierno esta
 
 LIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-La propuesta de nombramiento de titular de la Secretaría de la Contraloría General que el Gobernador del Estado someta a ratificación del Congreso del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley de la materia.
+La propuesta de nombramiento de titular de la Secretaría para la Honestidad y Buena Gobernanza que el Gobernador del Estado someta a ratificación del Congreso del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
 
 Artículo 37 bis. Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos.
 
-Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción LIII del artículo 37 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Local Anticorrupción y la Secretaría de la Contraloría General respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-Las unidades encargadas de la función de auditoría de la Secretaría de la Contraloría General y los órganos internos de control de la Administración Pública Estatal formarán parte del Sistema Local de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley del Sistema Local Anticorrupción del Estado de Nayarit y las mejores prácticas que considere el referido sistema.
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción LIII del artículo 37 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Local Anticorrupción y la Secretaría para la Honestidad y Buena Gobernanza respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Las unidades encargadas de la función de auditoría de la Secretaría para la Honestidad y Buena Gobernanza y los órganos internos de control de la Administración Pública Estatal formarán parte del Sistema Local de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley del Sistema Local Anticorrupción del Estado de Nayarit y las mejores prácticas que considere el referido sistema.
 
 Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
 
-Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de la Contraloría General y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Local Anticorrupción, tanto las dependencias y entidades, así como la Secretaría de la Contraloría General, implementarán las acciones pertinentes para mejora de la gestión.
+Los titulares de las unidades encargadas de la función de auditoría de la Secretaría para la Honestidad y la Buena Gobernanza y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Local Anticorrupción, tanto las dependencias y entidades, así como la Secretaría para la Honestidad y Buena Gobernanza, implementarán las acciones pertinentes para mejora de la gestión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -1449,6 +1471,84 @@ XLVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XLIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 38 Bis.
+
+A la Secretaría del Trabajo y Justicia Laboral le corresponden las atribuciones siguientes:
+
+I. En el ámbito de su competencia vigilar el cumplimiento y observancia de las disposiciones del artículo 123 de la Constitución General de la República y demás relativos en materia laboral, la Ley Federal del Trabajo y sus reglamentos y las disposiciones en materia del trabajo y previsión social de carácter estatal y municipal;
+
+II. Dentro de su competencia ejercer las funciones en materia de trabajo, previsión social, capacitación y adiestramiento de conformidad con los ordenamientos legales; así como fomentar el empleo y la productividad;
+
+III. Fomentar los derechos humanos en materia de trabajo y vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral, llevando a cabo entre otras, las acciones siguientes:
+
+a). Instrumentar acciones que mejoren las condiciones laborales de las mujeres;
+
+b). Promover la integración a la planta productiva del país, a aquellas personas que hayan estado recluidas en los centros de readaptación social, y que acrediten haber recibido capacitación en el trabajo;
+
+c). Promover la inclusión laboral de las personas adultas mayores o con discapacidad;
+
+d). Aplicar políticas públicas para combatir la explotación laboral de menores;
+
+e). Respetar y fomentar el espíritu ecologista y la preservación del medio ambiente en el trabajo, y
+
+f). Promover la democracia sindical y el acceso a la contratación colectiva.
+
+IV. Procurar el equilibrio entre los factores de la producción de conformidad con las disposiciones legales aplicables;
+
+V. Elaborar y desarrollar programas para el trabajo y el empleo, de acuerdo con el Programa de Gobierno y el Gran Plan Estatal de Desarrollo;
+
+VI. Realizar los programas y acciones necesarias para impulsar el incremento de la productividad y calidad en el trabajo en los sectores productivos;
+
+VII. Fomentar la capacitación y adiestramiento para el incremento de la productividad y la calidad en el trabajo, en coordinación con las instancias educativas. Así como llevar a cabo los programas de educación, capacitación y vinculación para el empleo;
+
+VIII. Diseñar y proponer acciones y alianzas estratégicas para la generación de empleo e incremento de la productividad, integrando para tal propósito a las instituciones educativas, científicas, tecnológicas, sectores público, social y privado, y a la sociedad civil en general;
+
+IX. Promover y coadyuvar en la regulación y supervisión de las actividades industrial, minera, comercial y de servicios para mejorar la producción, de conformidad con las leyes aplicables;
+
+X. Establecer, presidir y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+
+XI. Diseñar alianzas estratégicas para la generación de empleo y mejorar la productividad;
+
+XII. Promover e impulsar el desarrollo social, cultural y recreativo entre los trabajadores y sus familias;
+
+XIII. Organizar y patrocinar exposiciones y museos de trabajo y previsión social;
+
+XIV. Organizar, dirigir, ordenar y supervisar las visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, en los ámbitos de su competencia;
+
+XV. Vigilar el cumplimiento de las normas relativas a la capacitación, adiestramiento de los trabajadores y seguridad e higiene de los centros de trabajo; y elaborar y ejecutar los programas correspondientes;
+
+XVI. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo y poner a su disposición la información que soliciten para el cumplimiento de sus funciones;
+
+XVII. Coadyuvar en el funcionamiento del organismo público descentralizado denominado Centro de Conciliación Laboral del Estado de Nayarit de conformidad con lo establecido en su Ley Orgánica y las demás disposiciones aplicables;
+
+XVIII. Coordinar y vigilar el debido funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
+
+XIX. Coordinar y vigilar el debido funcionamiento del área administrativa del Trabajo y Previsión Social y ejercer las funciones correspondientes dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia;
+
+XX. Intervenir a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+XXI. Coadyuvar para que la prestación del servicio público de conciliación laboral se ajuste a los preceptos constitucionales y legales;
+
+XXII. Promover y vigilar la constitución y funcionamiento de las comisiones que se formen para regular las relaciones obrero patronal;
+
+XXIII. Organizar y llevar el registro de las asociaciones sociales, obreras, patronales y profesionales y demás que funcionen en el Estado, a través de las unidades administrativas competentes;
+
+XXIV. Prestar asistencia jurídica gratuita a los trabajadores y a los sindicatos que lo soliciten y representarlos ante los tribunales del trabajo;
+
+XXV. Difundir y actualizar a la sociedad en general respecto a las reformas y modificaciones legales que se den en materia laboral;
+
+XXVI. Imponer y hacer efectivas las sanciones establecidas en el Título XVI de la Ley Federal del Trabajo, en el ámbito de su competencia;
+
+XXVII. Conocer y resolver los recursos y demás medios administrativos de impugnación que interpongan los particulares en contra de los actos administrativos emanados de esta Secretaría, o que por mandato legal le corresponda tramitar en los términos de los ordenamientos aplicables;
+
+XXVIII. Intervenir en los procedimientos judiciales y administrativos en que sea parte la Secretaría, o bien, tenga interés jurídico de conformidad con las facultades otorgadas por los ordenamientos aplicables o por los convenios o anexos celebrados con la Federación y los municipios;
+
+XXIX. Gestionar y administrar fondos estatales y programas de financiamiento que tenga en operación el Gobierno de Nayarit, y
+
+XXX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 39.
@@ -1475,9 +1575,9 @@ IV. Promover y apoyar la relación con empresarios locales, nacionales y extranj
 
 V. Generar y difundir en el estado una cultura empresarial, basada en parámetros de competitividad internacional;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-VI. Fomentar el incremento de la productividad y calidad en el trabajo entre los sectores de la producción y en coordinación con la Secretaría de Educación, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
+VI. Fomentar el incremento de la productividad y calidad en el trabajo entre los sectores de la producción y en coordinación con la Secretaría de Educación y la Secretaría del Trabajo y Justicia Laboral, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2014)</small>
 
@@ -1555,101 +1655,63 @@ XXIV. Coadyuvar en la ejecución de los diversos programas que provengan de subs
 
 XXV. Fomentar la creación de consejos consultivos que coadyuven con la Secretaría en el debido cumplimiento de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+XXVI. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XXVI. Elaborar y desarrollar programas de trabajo y empleo, de acuerdo con el Programa de Gobierno;
+XXVII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-XXVII. Establecer, presidir y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+XXVIII. Diseñar, en coordinación con la Secretaría del Trabajo y Justicia Laboral, alianzas estratégicas para la generación de empleo y productividad;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XXIX. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XXVIII. Diseñar alianzas estratégicas para la generación de empleo y productividad;
+XXX. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XXXI. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XXIX. Instrumentar acciones que mejoren las condiciones laborales de las mujeres;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XXXII. Promover, en coordinación con la Secretaría del Trabajo y Justicia Laboral, la intervención en los sectores productivos para la inclusión laboral de las personas adultas mayores o con discapacidad;
 
-XXX. Vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral;
+XXXIII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-XXXI. Promover la integración laboral de las personas recluidas en los centros de readaptación social que hayan mostrado capacitación en el trabajo;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XXXII. Promover la intervención en los sectores productivos para la inclusión laboral de las personas adultas mayores o con discapacidad;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XXXIII. Aplicar políticas públicas para combatir la explotación laboral de menores;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XXXIV. Promover e impulsar el desarrollo social, cultural y recreativo entre los trabajadores y sus familias;
+XXXIV. Promover e impulsar, en coordinación con la Secretaría del Trabajo y Justicia Laboral, el desarrollo social, cultural y recreativo entre los trabajadores y sus familias;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXV. Organizar, dirigir, ordenar y supervisar los servicios de visita de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, en los ámbitos de su competencia;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XXXVI. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XXXVI. Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo y poner a su disposición la información que soliciten para el cumplimiento de sus funciones;
+XXXVII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XXXVIII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XXXVII. Coordinar el funcionamiento de la Junta Local y las Juntas Especiales de Conciliación y Arbitraje, de las comisiones que se formen para regular las relaciones obrero patronal y del Tribunal de Conciliación y Arbitraje, así como vigilar el funcionamiento de los mismos;
+XXXIX. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XL. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XXXVIII. Coordinar y vigilar el debido funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
+XLI. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-XXXIX. Coordinar y vigilar el debido funcionamiento del Departamento del Trabajo y Previsión Social;
+XLII. Llevar a cabo, en coordinación con la Secretaría del Trabajo y Justicia Laboral, los programas de educación, capacitación y vinculación para el empleo;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XLIII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XL. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+XLIV. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XLV. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-XLI. Mediar y conciliar, a petición de parte, en los conflictos colectivos que surjan de presuntas violaciones a la ley o a los contratos colectivos de trabajo;
+XLVI. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+XLVII. Establecer, en coordinación con la Secretaría del Trabajo y Justicia Laboral, los programas y acciones necesarios para impulsar el incremento de la productividad y calidad en el trabajo entre los sectores de producción;
 
-XLII. Llevar a cabo los programas de educación, capacitación y vinculación para el empleo;
+XLVIII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XLIII. Vigilar el cumplimiento de las normas relativas a la capacitación, adiestramiento de los trabajadores y seguridad e higiene de los centros de trabajo; y elaborar y ejecutar los programas correspondientes;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XLIV. Organizar y llevar el registro de las asociaciones sociales, obreras, patronales y profesionales y demás que funcionen en el Estado a través de la Junta Local de Conciliación y Arbitraje;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XLV. Prestar asistencia jurídica gratuita a los trabajadores y a sus sindicatos que así lo soliciten y representarlos ante los tribunales del trabajo;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XLVI. Ejercer dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia, las funciones en materia de trabajo y previsión social;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XLVII. Establecer los programas y acciones necesarios para impulsar el incremento de la productividad y calidad en el trabajo entre los sectores de producción;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XLVIII. Difundir por los conductos pertinentes las modificaciones que se den en las normas laborales;
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XLIX. Imponer y hacer efectivas las sanciones establecidas en el Título XVI de la Ley Federal del Trabajo, en el ámbito de su competencia;
+XLIX. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021);
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
@@ -2203,15 +2265,13 @@ La intervención a que se refiere el artículo anterior, se realizará a través
 
 Corresponde a los coordinadores de sector, coordinar la programación y presupuestación, conocer la operación, evaluar los resultados y ser el presidente en los órganos de gobierno de los organismos agrupados en el sector a su cargo, conforme a la legislación vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 45.
 
-Las relaciones entre las dependencias y las entidades de la Administración Pública Estatal, para fines de congruencia global de la administración con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control, se llevarán a cabo en la forma y términos que dispongan las leyes y demás ordenamientos, por conducto del Instituto de Planeación del Estado de Nayarit y las Secretarías de Administración y Finanzas, de la Contraloría General y de Desarrollo Sustentable, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a las coordinadoras de sector o que se deleguen, por sus órganos de gobierno, en la Secretaría de Administración y Finanzas.
+Las relaciones entre las dependencias y las entidades de la Administración Pública Estatal, para fines de congruencia global de la administración con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control, se llevarán a cabo en la forma y términos que dispongan las leyes y demás ordenamientos, por conducto del Instituto de Planeación del Estado de Nayarit y las Secretarías de Administración y Finanzas, para la Honestidad y Buena Gobernanza y de Desarrollo Sustentable, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a las coordinadoras de sector o que se deleguen, por sus órganos de gobierno, en la Secretaría de Administración y Finanzas.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
-
-Las Secretarías de Administración y Finanzas y de la Contraloría General emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
+Las Secretarías de Administración y Finanzas y para la Honestidad y Buena Gobernanza emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 ###### Artículo 46.
 
@@ -2221,7 +2281,9 @@ El Gobernador del Estado, en términos de ley, podrá crear, fusionar, suprimir 
 
 Salvo lo establecido en las leyes o en los decretos de creación, los órganos de gobierno de las entidades serán presididos por el titular de la dependencia, a que estén adscritos sectorialmente.
 
-Para efecto de seguimiento de los acuerdos tomados por los órganos de gobierno de las entidades y la implantación de sistemas de control de gestión y fiscalización, la dependencia coordinadora de sector deberá establecer los secretariados técnicos y la Secretaría de la Contraloría General nombrar a los comisarios de sector en los términos de ley.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Para efecto de seguimiento de los acuerdos tomados por los órganos de gobierno de las entidades y la implantación de sistemas de control de gestión y fiscalización, la dependencia coordinadora de sector deberá establecer los secretariados técnicos y la Secretaría para la Honestidad y Buena Gobernanza nombrar a los comisarios de sector en los términos de ley.
 
 ###### Artículo 48.
 
@@ -2251,13 +2313,13 @@ Las leyes o decretos de creación establecerán las bases de su organización y 
 
 La dirección y administración de los organismos descentralizados estará a cargo de un órgano de gobierno y un director general.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-Asimismo, contarán con un órgano interno de control, cuyo titular será designado por la Secretaría de la Contraloría General, y tendrán las facultades establecidas en la Constitución, y demás leyes aplicables.
+Asimismo, contarán con un órgano interno de control, cuyo titular será designado por la Secretaría para la Honestidad y Buena Gobernanza, y tendrán las facultades establecidas en la Constitución, y demás leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-La Secretaría de la Contraloría General considerando la cuantía del monto de los recursos materiales y humanos que ejerza el organismo descentralizado, podrá optar por designar a un titular de Órgano Interno de Control, o en su caso supervisar directamente el sistema de control interno del organismo referido.
+La Secretaría para la Honestidad y Buena Gobernanza considerando la cuantía del monto de los recursos materiales y humanos que ejerza el organismo descentralizado, podrá optar por designar a un titular del Órgano Interno de Control, o en su caso supervisar directamente el sistema de control interno del organismo referido.
 
 ###### Artículo 54.
 
@@ -2313,17 +2375,17 @@ Los Fideicomisos Públicos Paraestatales son aquellos por medio de los cuales, e
 
 Los Fideicomisos Públicos Paraestatales contarán con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del estado y en cuyo órgano de gobierno participen servidores públicos de dos o más dependencias, correspondiendo al titular de la dependencia coordinadora del sector la designación del Director General.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 61.
 
-No tendrán carácter de fideicomisos Públicos Paraestatales, aquellos que se constituyan con la aportación por una sola vez del Gobierno del Estado o que reciban donaciones del mismo y que éste no intervenga en las funciones del Comité Técnico, salvo en la vigilancia de la correcta aplicación de los recursos y el cumplimiento de los fines del fideicomiso a través de la Secretaría de la Contraloría General; ni los Fideicomisos de Financiamiento a que se refiere la Ley de Deuda Pública del Estado de Nayarit. En este ultimo caso, los fideicomisos que se constituyan podrán o no tener comité técnico y se regirán en su totalidad por las disposiciones establecidas en el contrato que les de origen y por las disposiciones mercantiles y/o civiles aplicables.
+No tendrán carácter de fideicomisos Públicos Paraestatales, aquellos que se constituyan con la aportación por una sola vez del Gobierno del Estado o que reciban donaciones del mismo y que éste no intervenga en las funciones del Comité Técnico, salvo en la vigilancia de la correcta aplicación de los recursos y el cumplimiento de los fines del fideicomiso a través de la Secretaría para la Honestidad y Buena Gobernanza; ni los Fideicomisos de Financiamiento a que se refiere la Ley de Deuda Pública del Estado de Nayarit. En este último caso, los fideicomisos que se constituyan podrán o no tener comité técnico y se regirán en su totalidad por las disposiciones establecidas en el contrato que les de origen y por las disposiciones mercantiles y/o civiles aplicables.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 62.
 
-Los Fideicomisos Públicos Paraestatales serán dirigidos por comités técnicos, los cuales se integrarán con los titulares de las dependencias o entidades públicas que determine el titular de la dependencia coordinadora de sector, debiendo invariablemente formar parte de ellos un representante de la Secretaría de Administración y Finanzas y uno de la Secretaría de la Contraloría General.
+Los Fideicomisos Públicos Paraestatales serán dirigidos por comités técnicos, los cuales se integrarán con los titulares de las dependencias o entidades públicas que determine el titular de la dependencia coordinadora de sector, debiendo invariablemente formar parte de ellos un representante de la Secretaría de Administración y Finanzas y uno de la Secretaría para la Honestidad y Buena Gobernanza.
 
 ###### Artículo 63.
 
@@ -2347,17 +2409,17 @@ Estos organismos interinstitucionales podrán crearse por ley o por decreto o ac
 
 Del desarrollo, control y evaluación.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 67.
 
-Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal, a la Ley de Planeación, a las demás leyes y reglamentos aplicables, al Gran Plan Estatal de Desarrollo de al menos a 25 años, al Programa de Gobierno y a los programas sectoriales y regionales que deriven de los mismos, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Administración y Finanzas y de la Contraloría General, así como a las políticas que defina el coordinador de sector.
+Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal, a la Ley de Planeación, a las demás leyes y reglamentos aplicables, al Gran Plan Estatal de Desarrollo de al menos a 25 años, al Programa de Gobierno y a los programas sectoriales y regionales que deriven de los mismos, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Administración y Finanzas y para la Honestidad y Buena Gobernanza, así como a las políticas que defina el coordinador de sector.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 68.
 
-En los organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos y comisiones, consejos y demás organismos de carácter público, la Secretaría de la Contraloría General, cuando así lo estime conveniente, podrá designar a un comisario o a un titular del Órgano Interno de Control permanente o temporal para la vigilancia, control y evaluación, de dichas entidades.
+En los organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos y comisiones, consejos y demás organismos de carácter público, la Secretaría para la Honestidad y Buena Gobernanza, cuando así lo estime conveniente, podrá designar a un comisario o a un titular del Órgano Interno de Control permanente o temporal para la vigilancia, control y evaluación, de dichas entidades.
 
 La coordinadora de sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o administración de las entidades, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control y evaluación.
 
@@ -2395,11 +2457,11 @@ II. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 (DEROGADO, P.O. 29 DE MAYO DE 2019)
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 73.
 
-La Comisión Intersecretarial de Gasto y Financiamiento es un organismo integrado por los titulares de la Secretaría de Administración y Finanzas, quien fungirá como su Presidente, la Secretaría de la Contraloría General, quien fungirá como Secretario Técnico, la Secretaría de Desarrollo Sustentable, así como por los demás servidores públicos que determine el Gobernador del Estado.
+La Comisión Intersecretarial de Gasto y Financiamiento es un organismo integrado por los titulares de la Secretaría de Administración y Finanzas, quien fungirá como su Presidente, la Secretaría para la Honestidad y Buena Gobernanza, quien fungirá como Secretario Técnico, la Secretaría de Desarrollo Sustentable, así como por los demás servidores públicos que determine el Gobernador del Estado.
 
 ###### Artículo 74.
 
@@ -2413,9 +2475,9 @@ III. Examinar la situación financiera de las entidades de la Administración P�
 
 IV. Proponer un calendario de ingresos y gastos para prever las necesidades de financiamiento el cual, con la oportunidad requerida, permita contar con los recursos suficientes para lograr el debido cumplimiento de las obligaciones del estado, cuidando que armonice el ejercicio del presupuesto de egresos con los recursos provenientes de la ley de ingresos y del financiamiento del sector público estatal;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-V. Promover mecanismos de comunicación permanente entre las Secretarías de Administración y Finanzas y de la Contraloría General, que permitan conocer con oportunidad y confiabilidad el ejercicio del gasto público y su financiamiento;
+V. Promover mecanismos de comunicación permanente entre las Secretarías de Administración y Finanzas y para la Honestidad y Buena Gobernanza, que permitan conocer con oportunidad y confiabilidad el ejercicio del gasto público y su financiamiento;
 
 VI. Efectuar acciones administrativas de reforma institucional que tengan como propósito poner en operación las disposiciones de esta Ley;
 
@@ -2788,3 +2850,37 @@ P.O. 7 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 40 B, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE (SIC) ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, salvo lo dispuesto en los artículos transitorios subsecuentes.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
+
+TERCERO. La Secretaría del Trabajo y Justicia Laboral creada a partir del presente Decreto, comenzará en funciones el día 01 de enero del 2022.
+
+CUARTO. Las atribuciones otorgadas en otras leyes, decretos y reglamentos a la Secretaría de Economía en lo correspondiente en materia del trabajo, se entenderán transferidas a la Secretaría del Trabajo y Justicia Laboral.
+
+QUINTO. El Congreso del Estado contará con el plazo de 180 días naturales para aprobar las leyes o reformas, que en su caso correspondan a la legislación local en los términos del presente Decreto.
+
+SEXTO. A la entrada en vigor del presente Decreto, el Poder Ejecutivo contará con un plazo máximo de treinta días naturales para emitir y realizar las reformas necesarias a los reglamentos interiores con la finalidad de establecer la integración, estructura, facultades y atribuciones de la Secretaría del Trabajo y Justicia Laboral, así como delimitar las facultades y atribuciones de la Secretaría de Economía.
+
+SÉPTIMO. La resolución de los aspectos administrativos no previstos en el presente Decreto corresponderá a la Secretaría de Administración y Finanzas y Secretaría para la Honestidad y Buena Gobernanza del Poder Ejecutivo, previo a las opiniones que emitan los titulares de las Dependencias involucradas.
+
+Las atribuciones que corresponden en otras leyes y reglamentos a la Secretaría de la Contraloría General se entenderán como competencia de la Secretaría para la Honestidad y Buena Gobernanza.
+
+OCTAVO. Serán transferidos a su nueva adscripción a partir de la modificación legal correspondiente, los recursos humanos, documentales, financieros y materiales con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente Decreto.
+
+Los titulares de las dependencias a que se refiere el presente Decreto, por sí o por quien ellos designen, serán coordinadores del proceso de transferencia de los recursos mencionados en el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento. De igual forma, deberán proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+
+NOVENO. Los derechos laborales del personal de confianza, base o de contrato que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán, conforme a la Ley de la materia. El presente Decreto garantizará y respetará los derechos de los trabajadores conforme a la Ley.
+
+DÉCIMO. Las facultades y atribuciones con que cuentan las unidades administrativas de las dependencias que por virtud del presente Decreto se modifican, continuarán vigentes en términos de los reglamentos interiores que las rigen hasta en tanto sean publicadas (sic) los nuevos reglamentos interiores o las reformas a los vigentes, sin perjuicio de su nueva adscripción.
+
+Asimismo, para efectos de cumplir con las obligaciones normativas al marco jurídico local y federal, por virtud del presente Decreto, la transferencia de los recursos humanos, documentales, financieros y materiales, se hará de manera gradual, de acuerdo a un plan de capacitación y capacidad de recursos, sin que exceda preferentemente del ejercicio fiscal 2022.
+
+DÉCIMO PRIMERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+DÉCIMO SEGUNDO. La Secretaría del Trabajo y Justicia Laboral será la Dependencia encargada de coordinar y vigilar el funcionamiento de la Junta Local y las Juntas Especiales de Conciliación y Arbitraje, de las comisiones que se formen para regular las relaciones obrero patronal y del Tribunal de Conciliación y Arbitraje, durante el tiempo que estás instancias continúen ejerciendo sus facultades y atribuciones previstas en la Constitución General de la República y la Ley Federal del Trabajo; y en el caso del Tribunal de Conciliación y Arbitraje, de conformidad con el Estatuto Jurídico para los Trabajadores al Servicio del Estado, Municipios e Instituciones Descentralizadas de Carácter Estatal.
