@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2021-07-07"
+last_updated: "2021-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -83,7 +83,7 @@ VII. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Pro
 
 VIII. Instituciones policiales: A los cuerpos de policías estatales y municipales, de vigilancia y custodia de los establecimientos penitenciarios, de justicia para adolescentes, de detención preventiva, de tribunales de barandilla; y en general, todas las dependencias, grupos y unidades especializadas encargadas de la seguridad pública a nivel estatal y municipal que realicen funciones similares;
 
-IX. Instituto: El Instituto Estatal de Ciencias Penales y Seguridad Pública;
+IX. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2021)
 
 X. La Comisión: La Comisión de Honor y Justicia;
 
@@ -105,13 +105,17 @@ XV. Sistema Estatal: El Sistema Estatal de Seguridad Pública de Sinaloa;
 
 XVI. Secretario Ejecutivo: El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-XVII. Policía Penitenciaria: A la Unidad Especializada de la Policía Penitenciaria; y,
+XVII. Policía Penitenciaria: A la Unidad Especializada de la Policía Penitenciaria;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-XVIII. Policía Procesal: A la Unidad Especializada de la Policía Procesal.
+XVIII. Policía Procesal: A la Unidad Especializada de la Policía Procesal: y,
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+XIX. Universidad: Universidad de la Policía del Estado de Sinaloa.
 
 ###### Artículo 3.
 
@@ -441,9 +445,11 @@ IX. Participar en la prevención y combate a las actividades de posesión, comer
 
 X. Las demás que les asignen esta ley u otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-Las instituciones de Seguridad Pública, preferentemente deberán contratar y emplear a las personas egresadas del Instituto, pero en todo caso, deberán contar con el registro y certificación emitido por el Centro Estatal y, cumplir plenamente los requisitos que señalen esta Ley y demás ordenamientos legales aplicables.
+Las instituciones de Seguridad Pública, preferentemente deberán contratar y emplear a las personas egresadas de la Universidad, pero en todo caso, deberán contar con el registro y certificación emitido por el Centro Estatal y, cumplir plenamente los requisitos que señalen esta Ley y demás ordenamientos legales aplicables.
 
 ###### Artículo 25.
 
@@ -1331,11 +1337,11 @@ IX. Las demás que le confieran la presente Ley, el reglamento respectivo y aque
 
 ### Capítulo IV. Del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 68.
 
-El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal y gozará de autonomía técnica y de gestión, cuyo titular se denominará Secretario Ejecutivo, quien para el cumplimiento de sus atribuciones contará con los Centros Estatales de Información; de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana; de Evaluación y Control de Confianza; de Comando, Control, Comunicaciones, Cómputo e Inteligencia, y el Instituto. El Titular del Ejecutivo Estatal expedirá el Reglamento del Secretariado, que establecerá sus atribuciones, así como la articulación del Secretariado, de los Centros y del Instituto.
+El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal y gozará de autonomía técnica y de gestión, cuyo titular se denominará Secretario Ejecutivo, quien para el cumplimiento de sus atribuciones contará con los Centros Estatales de Información; de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana; de Evaluación y Control de Confianza y de Comando, Control, Comunicaciones, Cómputo e Inteligencia. El Titular del Ejecutivo Estatal expedirá el Reglamento del Secretariado, que establecerá sus atribuciones, así como la articulación del Secretariado y de los Centros.
 
 ###### Artículo 69.
 
@@ -2769,7 +2775,9 @@ V. Indicar los esquemas de supervisión institucional;
 
 VI. El nombre, edad, antigüedad, cargo y funciones de sus integrantes;
 
-VII. Justificar, mediante constancia expedida por el Instituto Estatal de Ciencias Penales y Seguridad Pública, que sus integrantes cuentan con la formación y preparación académica, operativa, táctica y física para ejercer sus funciones adecuadamente;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VII. Justificar, mediante constancia expedida por la Universidad, que sus integrantes cuentan con la formación y preparación académica, operativa, táctica y física para ejercer sus funciones adecuadamente;
 
 VIII. Acreditar que sus integrantes estén inscritos en el Registro Estatal del Personal de Seguridad Pública y contar con cédula única de identificación policial; y,
 
@@ -3047,7 +3055,9 @@ XV. Participar en el diseño e instrumentación de los programas de prevención 
 
 XVI. Facilitar la activa participación de la comunidad en las tareas que se relacionen con la seguridad pública;
 
-XVII. Asistir a los cursos de capacitación, adiestramiento y especialización que imparta el Instituto o Academias;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+XVII. Asistir a los cursos de capacitación, adiestramiento y especialización que imparta la Universidad o Academias;
 
 XVIII. Aprobar los procesos de evaluación de control de confianza y del desempeño, en los términos y condiciones que determina esta Ley;
 
@@ -3557,27 +3567,29 @@ II. Impartir educación media y superior a los aspirantes y servidores públicos
 
 III. Formar técnicos, investigadores, docentes y especialistas en las diversas áreas de seguridad pública y de las ciencias penales; realizar investigaciones y estudios sobre los principales problemas delictivos que afectan a la sociedad y difundir los resultados y recomendaciones; prestar servicios de asesoría a instituciones públicas y privadas, conforme a los términos de esta Ley y demás normatividad aplicable.
 
-El Instituto es la única instancia responsable de dar cumplimiento a las disposiciones contenidas en este Título.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+La Universidad es la única instancia responsable de dar cumplimiento a las disposiciones contenidas en este Título.
 
 ###### Artículo 237 Bis.
 
-El Instituto Estatal de Ciencias Penales y Seguridad Pública, es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propio, cuyos órganos generales de gobierno tendrán su domicilio en la ciudad de Culiacán Rosales, Sinaloa.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2021)
 
-Para el cumplimiento de lo que dispone este título, se podrá autorizar la creación de extensiones del Instituto Estatal de Ciencias Penales y Seguridad Pública.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 238.
 
-Los Municipios podrán desarrollar programas de actualización y capacitación para sus policías preventivos, cumpliendo previamente los requisitos de acreditación y validación por parte del Instituto Estatal de Ciencias Penales y Seguridad Pública, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en esta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional. Asimismo, las autoridades municipales podrán participar conjuntamente con el Instituto en los procesos de reclutamiento y selección de quienes aspiren a ingresar a su policía preventiva, con apego a los lineamientos que la institución policial establezca, en los términos que prevé este ordenamiento y la reglamentación respectiva; sin embargo, para la selección de candidato será exclusivamente el Instituto Estatal de Ciencias Penales y Seguridad Pública quien determine la admisión del solicitante siempre y cuando cumpla con los requerimientos correspondientes.
+Los Municipios podrán desarrollar programas de actualización y capacitación para sus policías preventivos, cumpliendo previamente los requisitos de acreditación y validación por parte de la Universidad, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en esta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional. Asimismo, las autoridades municipales podrán participar conjuntamente con la Universidad en los procesos de reclutamiento y selección de quienes aspiren a ingresar a su policía preventiva, con apego a los lineamientos que la institución policial establezca, en los términos que prevé este ordenamiento y la reglamentación respectiva; sin embargo, para la selección de candidato será exclusivamente la Universidad quien determine la admisión del solicitante siempre y cuando cumpla con los requerimientos correspondientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ### Capítulo II. Del Sistema de Formación y Profesionalización del Personal para la Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 239.
 
-En los términos de esta Ley y además con las atribuciones, finalidades y objetivos que le señala la Ley Orgánica del Instituto Estatal de Ciencias Penales y Seguridad Pública, éste se integra dentro del Sistema Estatal de Seguridad Pública, para proveer a la formación y profesionalización de los siguientes servidores públicos:
+En los términos de esta Ley y además con las atribuciones, finalidades y objetivos que le señala su Ley Orgánica, la Universidad se integra dentro del Sistema Estatal de Seguridad Pública, para proveer a la formación y profesionalización de los siguientes servidores públicos:
 
 I. Personal técnico y profesional en las áreas de prevención del delito, tratamiento de adolescentes y menores infractores, función policial, sistema penitenciario y de reinserción social, tratamiento, reintegración social y familiar e internamiento de adolescentes y en aquellas disciplinas que se relacionen con cumplimiento del objeto y fines de esta Ley;
 
@@ -3601,9 +3613,11 @@ VI. Policía Procesal; y,
 
 VII. Aquellos que por sus funciones realicen actividades de supervisión o inspección en materia de tránsito, transporte ambiental, entre otras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 240.
 
-El Instituto Estatal de Ciencias Penales y Seguridad Pública tendrá obligadamente además de las finalidades señaladas por su Ley Orgánica, los objetivos específicos siguientes:
+La Universidad tendrá obligadamente además de las finalidades señaladas por su Ley Orgánica, los objetivos específicos siguientes:
 
 I. Formar profesionales en seguridad pública, aptos para la aplicación de conocimientos y el razonamiento crítico en la toma de decisiones, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos;
 
@@ -3625,53 +3639,15 @@ VIII. Formular planes de estudio, programas, textos, métodos y sistemas de ense
 
 IX. Planear e impulsar la enseñanza policial en todas sus manifestaciones técnico-científica, inculcando el espíritu de servicio y respeto permanente al orden legal vigente, a la sociedad y sus valores, así como al estricto sentido de disciplina, responsabilidad, honestidad, rectitud y lealtad institucional;
 
-X. Expedir constancias, diplomas, reconocimientos, certificados y títulos de los estudios que se cursen en el Instituto; y,
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+X. Expedir constancias, diplomas, reconocimientos, certificados y títulos de los estudios que se cursen en la Universidad; y,
 
 XI. Las demás que sean necesarias para la realización de sus atribuciones.
 
 ###### Artículo 241.
 
-El Instituto Estatal de Ciencias Penales y Seguridad Pública, será responsable de aplicar los Programas Rectores de Profesionalización para lo cual tendrá, entre otras, las siguientes funciones:
-
-I. Aplicar los procedimientos homologados del Sistema;
-
-II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
-
-III. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
-
-IV. Proponer las etapas, niveles de escolaridad y grados académicos de la profesionalización;
-
-V. Promover y prestar servicios educativos a sus respectivas Instituciones;
-
-VI. Aplicar las estrategias para la profesionalización de los aspirantes y servidores públicos;
-
-VII. Proponer y aplicar los contenidos de los planes y programas para la formación de los servidores públicos a que se refiere el Programa Rector;
-
-VIII. Garantizar la equivalencia de los contenidos mínimos de planes y programas de profesionalización;
-
-IX. Revalidar equivalencias de estudios de la profesionalización;
-
-X. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
-
-XI. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes;
-
-XII. Proponer y, en su caso, publicar las convocatorias para el ingreso al Instituto;
-
-XIII. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
-
-XIV. Expedir constancias de las actividades para la profesionalización que imparta;
-
-XV. Proponer la celebración de convenios con Instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
-
-XVI. Supervisar que los aspirantes e integrantes de las Instituciones Policiales se sujeten a la normatividad del Instituto;
-
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
-
-XVII. Inscribir en el Registro Estatal de Personal de Seguridad Pública a los aspirantes que ingresen a cursar la formación inicial; y,
-
-XVIII. Las demás que establezcan las disposiciones legales aplicables.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2021)
 
 ###### Artículo 242.
 
@@ -3681,7 +3657,9 @@ I. Los contenidos básicos de los programas para la formación, capacitación y 
 
 II. Los aspectos que contendrá el Programa Rector;
 
-III. Que los integrantes de las Instituciones Policiales se sujeten a los programas correspondientes al Instituto;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+III. Que los integrantes de las Instituciones Policiales se sujeten a los programas correspondientes de la Universidad;
 
 IV. El diseño y actualización de políticas y normas para el reclutamiento y selección de candidatos a las Instituciones Policiales y vigilar su aplicación;
 
@@ -3695,21 +3673,27 @@ VIII. La revalidación de equivalencias de estudios de la profesionalización en
 
 IX. Las demás que establezcan otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 242 Bis.
 
-El Instituto garantizará a quienes se encuentran en formación dentro del mismo, los siguientes beneficios:
+La Universidad garantizará a quienes se encuentran en formación dentro del mismo, los siguientes beneficios:
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
 
 l. Obtención de servicios médicos;
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2021)</small>
+
 II. Seguro de Vida; y
 
-III. Percibir un apoyo económico digno durante su estadía en el Instituto.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+III. Percibir un apoyo económico digno durante su estadía en la Universidad.
 
 ###### Artículo 243.
 
-El Instituto contará con el presupuesto que le otorgue la Ley de Ingresos y Presupuesto de Egresos del Estado; en los términos de las disposiciones aplicables, podrá recibir aportaciones para su mejor funcionamiento mediante acuerdos, convenios o cualquier otro instrumento legal, con dependencias y entidades del Gobierno Federal, de otras entidades federativas, del estado o municipios; así como de personas o instituciones privadas, sociales o académicas.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2021)
 
 ### Capítulo III. Del Perfil de Ingreso a la Formación Inicial Policial
 
@@ -4156,3 +4140,35 @@ TERCERO. El Ejecutivo del Estado realizará las adecuaciones presupuestales que 
 En el ámbito del Gobierno Municipal, los Ayuntamientos realizarán las acciones que les correspondan conforme a esta ley y conforme a las disposiciones aplicables en el ámbito de sus competencias.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 7 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA UNIIVERSIDAD DE LA POLICÍA DEL ESTADO DE SINALOA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGUNDAD PUBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley Orgánica del Instituto Estatal de Ciencias Penales y Seguridad Pública, publicada en el Periódico Oficial "El Estado de Sinaloa" número 41, de fecha 5 de abril de 1993, segunda sección.
+
+TERCERO. Las menciones al Instituto Estatal de Ciencias Penales y Seguridad Pública o a su Director General, hechas en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Universidad de la Policía del Estado de Sinaloa o al Rector, respectivamente.
+
+CUARTO. La Universidad de la Policía del Estado de Sinaloa seguirá observando todas las disposiciones reglamentarias y administrativas aplicables, a la fecha del presente Decreto, al Instituto Estatal de Ciencias Penales y Seguridad Pública, en todo lo que no se opongan a la Ley que se expide mediante el presente Decreto, hasta en tanto expida y entren en vigor sus propias disposiciones.
+
+QUINTO. En tanto se establecen los órganos de la Universidad, el Secretario General de Gobierno designará, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, un encargado de despacho de la Rectoría, quien ejercerá las facultades que establece el artículo 32 de la Ley que se expide mediante el presente Decreto, durante el periodo que dure su designación.
+
+SEXTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente decreto, deberá iniciar el procedimiento de liquidación y extinción del Instituto Estatal de Ciencias Penales y Seguridad Pública, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+
+El patrimonio y presupuesto con que actualmente cuenta el Instituto Estatal de Ciencias Penales y Seguridad Pública serán transferidos y pasarán a formar parte íntegra de la Universidad de la Policía del Estado de Sinaloa.
+
+La Secretaría de Administración y Finanzas de Gobierno del Estado deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Estatal de Ciencias Penales y Seguridad Pública a la Universidad de la Policía del Estado de Sinaloa.
+
+Los trabajadores que se encuentran prestando servicios en el Instituto Estatal de Ciencias Penales y Seguridad Pública a la fecha de entrada en vigor del presente Decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición a la Universidad de la Policía del Estado de Sinaloa, la misma calidad, sus derechos y preservando su antigüedad.
+
+Las obligaciones contraídas por el Instituto Estatal de Ciencias Penales y Seguridad Pública serán asumidas por la Universidad de la Policía del Estado de Sinaloa.
+
+SÉPTIMO. Una vez que la primer Junta de Gobierno designe al Rector, este, dentro de los quince días hábiles siguientes proveerá lo necesario para que se elijan los miembros del Consejo Académico a que se refiere el artículo 22 fracción IV de la Ley que se expide mediante el presente Decreto.
+
+La Junta de Gobierno dentro de los diez días hábiles siguientes a la fecha de su constitución, procederá a expedir el Estatuto Orgánico e iniciará las reformas necesarias a los reglamentos vigentes.
+
+OCTAVO. En tanto la Universidad de la Policía del Estado de Sinaloa implementa sus propios planes y programas de estudio, aquellos establecidos por el Instituto Estatal de Ciencias Penales y Seguridad Pública seguirán aplicándose hasta la conclusión de los respectivos cursos, periodos, niveles o grados.
+
+NOVENO. En términos del artículo 26 de la Ley de Entidades Paraestatales del Estado de Sinaloa, el Rector de la Universidad dentro de los treinta días siguientes a la fecha de instalación de la Junta Directiva de la Universidad de la Policía del Estado de Sinaloa o la persona a que se refiere el artículo quinto transitorio deberá inscribir lo dispuesto por la fracción I del artículo 27 de dicho artículo en el Registro Público de Entidades Paraestatales.
