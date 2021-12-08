@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2020-05-02"
+last_updated: "2021-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -379,9 +379,13 @@ El trabajador podrá optar en ejercicio de las correspondientes acciones, ya sea
 
 Cuando el Tribunal resuelva que proceden las causas de rescisión sin responsabilidad para la Entidad pública, el trabajador no tendrá derecho al pago de los salarios caídos, ni a la indemnización correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 35.
 
-Si en el procedimiento correspondiente no comprueba el Titular la causa de rescisión, el trabajador tendrá derecho además a que se le paguen los sueldos vencidos, desde la fecha del cese hasta que se cumplimente el laudo.
+Si en el procedimiento correspondiente no comprueba el Titular la causa de rescisión, el trabajador tendrá derecho además a que se le paguen los salarios vencidos o caídos computados desde la fecha del despido o de la rescisión hasta por un periodo máximo de doce meses, a razón del salario que corresponda a la fecha en que se realice el pago.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también a la persona trabajadora los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
 
@@ -1860,3 +1864,9 @@ P.O. 2 DE MAYO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los titulares de las entidades o dependencias a que hace referencia la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, que hayan rescindido relaciones laborales con posterioridad a la publicación el 18 de marzo del año 2020, de la DECLARATORIA DE EMERGENCIA POR LA PRESENCIA DEL COVID-19 (CORONAVIRUS) EN EL ESTADO DE COLIMA, en contravención al presente Decreto, podrán recontratar mediante convenio que celebrarán con los trabajadores despedidos, informando de ello al Tribunal de Arbitraje y Escalafón, para los efectos legales conducentes.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 29.- POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
