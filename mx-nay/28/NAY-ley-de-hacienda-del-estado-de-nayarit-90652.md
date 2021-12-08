@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2019-03-22"
+last_updated: "2021-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -495,7 +497,7 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 #### SECCIÓN PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 54.
 
@@ -513,11 +515,17 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 ###### Artículo 55.
 
-El objeto de este impuesto lo constituyen las erogaciones realizadas por concepto de servicios de hospedaje recibidos en el Estado de Nayarit. Se considera servicio de hospedaje la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados en:
+El objeto de este impuesto lo constituyen las erogaciones realizadas por concepto de servicios de hospedaje recibidos en el Estado de Nayarit. Se considera servicio de hospedaje la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, incluidos los servicios de hospedaje que se oferten a través de plataformas digitales, independientemente de su temporalidad, dentro de los que quedan comprendidos los servicios prestados en:
 
-I. Hoteles, moteles, tiempo compartido, multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+I. Hoteles, moteles, tiempo compartido, multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows, cabañas, y
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
 II. Casas o departamentos, amueblados con fines de hospedaje para fines turísticos y otros establecimientos que brinden servicios de hospedaje de naturaleza turística.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
 
@@ -539,13 +547,21 @@ El impuesto al que se refiere este capítulo se causará en el momento en que se
 
 Están obligadas al pago de este impuesto las personas físicas y morales que realicen las erogaciones objeto del mismo, mediante las retenciones que deberán efectuar los prestadores de los servicios de hospedaje.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Son responsables solidarios de este impuesto los retenedores del mismo, así como los administradores, encargados o cualquiera otra denominación que se utilice, para aquellas personas que se encarguen de otorgar el acceso o acondicionen para su uso, el lugar en que se presten los servicios de hospedaje a que se refiere este Capítulo.
+
 Cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador, por medio de plataformas electrónicas, en el cobro de las erogaciones por el servicio de hospedaje, previsto en el Artículo 55 de esta Ley, estará obligada a enterar el pago del impuesto sobre hospedaje a la autoridad fiscal, cuando este se cubra a través de ella.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 59.
 
-El contribuyente trasladará el impuesto, en forma expresa y por separado, a las personas que reciban los servicios objeto de esta contribución. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a las personas que reciban los servicios de hospedaje, por un monto equivalente al impuesto establecido en este capítulo.
+El contribuyente trasladará el impuesto, en forma expresa y por separado, a las personas que reciban los servicios objeto de esta contribución. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a las personas que reciban los servicios de hospedaje en dinero o especie por un monto equivalente al impuesto establecido en este capítulo.
 
 #### SECCIÓN CUARTA. De la Cuota
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 60.
 
@@ -553,43 +569,61 @@ La base para el pago de este impuesto se integra con el monto total de las eroga
 
 En ningún caso se considerará que el Impuesto al Valor Agregado que se cause por los servicios de hospedaje forma parte de la base gravable de este impuesto.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+En el caso de tiempos compartidos, la base para el pago de este impuesto se integra por el monto de la erogación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 61.
 
-Los servicios prestados bajo el sistema "todo incluido" por el cual se realicen las erogaciones que contemplen servicios adicionales al de hospedaje tales como alimentación, transportación y otros similares, considerarán como base gravable únicamente las erogaciones correspondientes al albergue.
+Los servicios prestados bajo el sistema "todo incluido" por el cual se realicen las erogaciones que contemplen servicios adicionales al de hospedaje tales como alimentación, transportación y otros similares, considerarán como base gravable únicamente las erogaciones correspondientes al albergue. En caso de que no se desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 En ningún caso, la base del impuesto sobre hospedaje dentro del sistema ''todo incluido" podrá ser inferior al 40% del total de las erogaciones realizadas por la contraprestación de esos servicios.
 
 #### SECCIÓN QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 62.
 
-Este impuesto se calculará y liquidará aplicando la tasa que al efecto establezca la Ley de Ingresos del Estado.
+El Impuesto sobre Hospedaje se calculará y liquidará aplicando la tasa del 5% a la base señalada para este impuesto.
 
 #### SECCIÓN SEXTA. De las Exenciones
 
 ###### Artículo 63.
 
-El pago del impuesto se hará mediante el entero bimestral de las retenciones que debió efectuar el prestador de los servicios que señala este Capítulo, a más tardar el día 10 del mes de calendario siguiente a la fecha de causación, o el día hábil siguiente si aquel no lo fuera. Dicho pago se entenderá definitivo.
+Los retenedores calcularán el impuesto aplicando la tasa referida en el artículo 62 de esta Ley, sobre el total de ingresos por la prestación de los servicios de hospedaje obtenidos en el período correspondiente, y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
 
-El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios de hospedaje, obtenido en el período por el que se efectúa la declaración.
+I. El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual, y
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2019)</small>
+II. Los retenedores deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar, a más tardar el día 10 de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior. La obligación de presentar declaración bimestral subsistirá aun cuando no hubiese cantidad a pagar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 63 Bis.
 
-Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras que intervengan a través de plataformas digitales en el cobro de las erogaciones por servicios de hospedaje y en caso de que se cubra a través de ellas el Impuesto sobre Hospedaje, estarán obligadas a lo siguiente:
+Las personas físicas, morales, asociación en participación y análogas que en su carácter de intermediarias, promotoras o facilitadoras que intervengan a través de plataformas digitales en el cobro de las erogaciones por servicios de hospedaje y en caso de que se cubra a través de ellas el Impuesto sobre Hospedaje, estarán obligadas a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
 
 I. Inscribirse al Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el Artículo 58 de esta Ley;
 
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+
 II. Enterar el impuesto sobre hospedaje que se haya pagado a través de las plataformas tecnológicas en las oficinas autorizadas por la Secretaría de Administración y Finanzas, y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
 
 III. Presentar declaraciones de manera agregada hasta en tanto no presente el aviso de baja al registro o de suspensión temporal de actividades.
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2019)</small>
+
 Se entiende por plataforma digital, a la aplicación de servicios de hospedaje que la persona física o moral administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios de hospedaje en inmuebles con terceros.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2019)</small>
 
 Cuando la persona física o moral en su carácter de intermediario, promotor o facilitador, por medio de plataformas tecnológicas, entere el pago del impuesto sobre hospedaje, liberará al prestador del servicio de hospedaje de las obligaciones establecidas en este Artículo.
 
@@ -621,21 +655,27 @@ La Secretaría de Administración y Finanzas del Estado podrá estimar los ingre
 
 I. Cuando no presenten sus declaraciones, o no lleven los libros y registros contables, y
 
-II. Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada en la que debió enterarse, exista discrepancia mayor a un 3%.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+II. Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, exista discrepancia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2019)</small>
 
 #### SECCIÓN PRIMERA. Del Objeto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 66.
 
 Son obligaciones de los prestadores de servicios de hospedaje:
 
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Administración y Finanzas del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro del mes siguiente, al día en que se inicien sus obligaciones de enterar a los pagos de este impuesto;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-II. Presentar ante las autoridades fiscales, dentro del plazo que señala la fracción anterior, los avisos del cambio de domicilio, nombre, razón social o suspensión de actividades;
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Administración y Finanzas del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro de los veinte días hábiles siguientes, al día en que se inicien sus obligaciones de enterar a (sic) los pagos de este impuesto;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+II. Presentar ante las autoridades fiscales, dentro del plazo que señala la fracción anterior, los avisos del cambio de domicilio, nombre, razón social, suspensión o reanudación de actividades u obligaciones, clausura, fusión, escisión, liquidación o transformación de personas morales, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en las formas oficiales de empadronamiento;
 
 III. Presentar cuando así lo soliciten las autoridades fiscales, los avisos, datos, documentos e informes en relación con este impuesto, dentro de los plazos y en los lugares señalados para tal efecto;
 
@@ -647,11 +687,21 @@ IV. Enterar en las oficinas autorizadas dentro del plazo señalado en este Capí
 
 V. Los prestadores de servicios de hospedaje que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Administración y Finanzas del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
 
-Las personas físicas o morales para efecto de impuestos federales, cuyo domicilio fiscal se encuentre en otra entidad federativa, pero que perciban erogaciones en el Estado de Nayarit por la prestación de servicios de hospedaje, tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto, el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Administración y Finanzas que corresponda a su jurisdicción, y
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+Las personas físicas o morales para efecto de impuestos federales, cuyo domicilio fiscal se encuentre en otra entidad federativa, pero que perciban erogaciones en el Estado de Nayarit por la prestación de servicios de hospedaje, tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto, el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Administración y Finanzas que corresponda a su jurisdicción;
 
-VI. Expedir comprobantes por las erogaciones objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VI. Expedir comprobantes por las erogaciones objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VII. Llevar y conservar los registros contables o administrativos exigidos por la ley, y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VIII. Proporcionar a la autoridad fiscal, cuando así lo solicite, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados para ese efecto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -663,11 +713,13 @@ VI. Expedir comprobantes por las erogaciones objeto de este impuesto, llevar lib
 
 ###### Artículo 67.
 
-Es objeto de este impuesto la venta de bebidas con contenido alcohólico que se realice en el territorio del Estado, a excepción de la cerveza en todas sus presentaciones.
+Es objeto de este impuesto la venta de bebidas con contenido alcohólico que se realice en el territorio del Estado, con excepción de aquellas cuyo gravamen se encuentra expresamente reservado a la Federación.
 
 Para los efectos de este impuesto se entiende por:
 
-Bebidas con contenido alcohólico, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3° G.L. hasta 55° G.L. incluyendo al aguardiente.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Bebidas con contenido alcohólico, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3° G.L. hasta 55° G.L. incluyendo al aguardiente y a los concentrados de bebidas alcohólicas, aun cuando tengan una graduación alcohólica mayor.
 
 Venta, la enajenación que realice cualquier persona física o moral de los bienes a que se refiere este artículo.
 
@@ -675,7 +727,7 @@ Se entiende que la venta se efectúa en territorio del Estado, si en él se llev
 
 #### SECCIÓN TERCERA. De la Base y Tasa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 68.
 
@@ -685,13 +737,17 @@ Son sujetos de este impuesto, las personas físicas y morales que realicen en te
 
 ###### Artículo 69.
 
-La base de este impuesto será el valor de la enajenación. Para estos efectos, se considerará valor de enajenación el precio de la venta de bebidas alcohólicas, a excepción de la cerveza en todas sus presentaciones, adicionado con las cantidades que por cualquier otro concepto se carguen o cobren al adquiriente del bien, excepto aquellas correspondientes al Impuesto al Valor Agregado e Impuesto Especial sobre Producción y Servicios.
+La base de este impuesto será el valor de la enajenación. Para estos efectos, se considerará valor de enajenación el precio de la venta de bebidas con contenido alcohólico, adicionado con las cantidades que por cualquier otro concepto se carguen o cobren al adquiriente del bien, excepto aquellas correspondientes al Impuesto al Valor Agregado e Impuesto Especial sobre Producción y Servicios.
 
 El impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte el precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo en su caso precios oficiales.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 70.
 
-Este impuesto se calculará aplicando al valor que señala el artículo anterior, la tasa del 3 %.
+Este impuesto se calculará aplicando al valor que señala el artículo anterior, la tasa del 4.5 %.
+
+El impuesto no será acreditable contra otros impuestos locales o federales.
 
 #### SECCIÓN QUINTA. De las obligaciones de los contribuyentes
 
@@ -699,9 +755,7 @@ Este impuesto se calculará aplicando al valor que señala el artículo anterior
 
 El impuesto se calculará mensualmente y se pagará a más tardar el día diez del mes siguiente a aquel en que corresponda el pago, a través de los formatos que para tales efectos establezca la Secretaría de Administración y Finanzas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-Los contribuyentes que realicen la venta de bebidas con contenido alcohólico, a excepción de la cerveza en todas sus presentaciones, que les hayan efectuado alguna retención, a través de un comerciante o distribuidor, siempre y cuando cuenten con un domicilio fiscal dentro del Estado de Nayarit, pudiendo ser, sucursal, oficina, almacén, bodega o cualquier otro similar o análogo, de acuerdo con el artículo 72 de esta ley, deberán presentar su declaración en la que podrán acreditar dicha retención en el entero de sus pagos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de estos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
 
@@ -727,11 +781,13 @@ Para los efectos de este impuesto, también se considerará venta, el faltante d
 
 El impuesto se causa en el momento en el que se perciban los ingresos derivados de la venta y sobre el monto de lo pagado. Cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 74-A.
 
-Cuando la venta se realice en hoteles bajo el sistema "todo incluido", en el que la contraprestación contempla el cobro de varios servicios, tales como hospedaje, alimentación, bebidas y otros similares; los contribuyentes consideraran como base gravable únicamente el importe correspondiente a las bebidas con contenido alcohólico, a excepción de la cerveza en todas sus presentaciones. El contribuyente deberá estimar el importe relativo a las bebidas con contenido alcohólico, a excepción de la cerveza en todas sus presentaciones, dentro del sistema "todo incluido".
+Cuando la venta se realice en hoteles bajo el sistema “todo incluido”, en el que la contraprestación contempla el cobro de varios servicios, tales como hospedaje, alimentación, bebidas y otros similares; los contribuyentes considerarán como base gravable únicamente el importe correspondiente a las bebidas con contenido alcohólico. El contribuyente deberá estimar el importe relativo a las bebidas con contenido alcohólico dentro del sistema “todo incluido”.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Los contribuyentes deberán exhibir los documentos y registros que acrediten dicha estimación, cuando la Autoridad se los requiera.
 
@@ -745,9 +801,17 @@ I. Empadronarse para los efectos de este impuesto, ante la Secretaria de Adminis
 
 II. Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el artículo 67 de esta ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base de impuesto;
 
-III. Presentar las declaraciones relativas al impuesto previsto en el presente capitulo. Si un contribuyente tuviera varios establecimientos en el Estado, presentará una declaración por cada establecimiento, o bien una concentrada por todo el Estado previa autorización, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-IV. Proporcionar la información que en relación con este impuesto se les solicite en las declaraciones respectivas.
+III. Presentar las declaraciones relativas al impuesto previsto en el presente capítulo. Si un contribuyente tuviera varios establecimientos en el Estado, presentará una declaración por cada establecimiento, o bien una concentrada por todo el Estado previa autorización;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+IV. Proporcionar la información que en relación con este impuesto se les solicite en las declaraciones respectivas, y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+V. Expedir comprobante por cada una de las operaciones, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.
 
 ### CAPÍTULO III. DE LOS IMPUESTOS ADICIONALES
 
@@ -807,6 +871,8 @@ Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, 
 
 #### SECCIÓN SEGUNDA. De los Sujetos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 84.
 
 Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, honorarios asimilados a salarios, prestado dentro del Estado de Nayarit, independientemente de la denominación que se le otorgue, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
@@ -817,21 +883,27 @@ Son objeto de este impuesto, las erogaciones en efectivo o en especie por concep
 
 ###### Artículo 85.
 
-Son sujetos de este impuesto las personas físicas o morales obligadas a efectuar los pagos a que se refiere el artículo anterior.
+Están obligadas al pago de este impuesto las personas físicas y morales, las asociaciones en participación y análogas que realicen las erogaciones a que se refiere el artículo anterior.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 Están obligadas a retener y enterar este impuesto, las personas físicas o morales que contraten bajo cualquier esquema jurídico la prestación de servicios de contribuyentes domiciliados dentro o fuera del Estado, cuya realización genere la prestación de trabajo personal subordinado dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 2.0% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
+Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 3.0% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2019)</small>
 
 Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado, honorarios asimilados a salarios en el territorio de este, en sucursales, bodegas, agencias, unidades académicas, dependencias y cualquier ente o figura que permita tener personal subordinado, honorarios asimilados a salarios dentro del mismo.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Serán responsables solidarios del pago de este impuesto las personas físicas o morales que contraten y reciban la prestación del trabajo personal subordinado, aun cuando el pago del salario se realice por otra persona.
+
 #### SECCIÓN CUARTA. De la Cuota
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 86.
 
@@ -841,21 +913,21 @@ Para efectos de este impuesto se consideran remuneraciones al trabajo personal, 
 
 #### SECCIÓN QUINTA. Del Pago
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 87.
 
-El impuesto sobre nóminas se liquidará aplicando la tasa del 2.0 % a la base gravable señalada para este impuesto.
+El impuesto sobre nóminas se liquidará aplicando la tasa del 3.0% a la base señalada para este impuesto.
 
 #### SECCIÓN SEXTA. De las Exenciones
 
 ###### Artículo 88.
 
+El impuesto se causará o retendrá en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 84 de esta ley.
+
 El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó o se retuvo. El pago deberá hacerse mediante declaración en las oficinas o instituciones autorizadas por la Secretaría de Administración y Finanzas que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
 
-La Secretaría de Administración y Finanzas podrá celebrar convenios con los sujetos de este impuesto, a efecto de que éstos puedan anticipar pagos semestrales, con un descuento del 5% sobre la estimación que la misma Secretaría determine.
-
-La obligación de presentar declaración subsistirá, aun cuando no se hayan efectuado erogaciones gravadas.
+La obligación de presentar declaración subsistirá, aunque no se hayan efectuado erogaciones gravadas.
 
 #### SECCIÓN SÉPTIMA. De la Estimación de Erogaciones
 
@@ -865,33 +937,49 @@ Están exentas del pago de este Impuesto:
 
 I. Las erogaciones que se cubran por concepto de:
 
-a). Participaciones de los trabajadores en las utilidades de las empresas;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-b). Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las Leyes o Contratos respectivos;
+a) Participaciones de los trabajadores en las utilidades de las empresas;
 
-c). Indemnizaciones por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales subordinados;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-d). Pensiones y Jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
+b) Gastos de Previsión Social, en los términos de la Ley del Impuesto Sobre la Renta;
 
-e). Pagos por gastos funerarios;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-f). Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
+c) Aportaciones de seguridad social, fondos de ahorro para el retiro constituidos de acuerdo a las leyes de la materia, a cargo del patrón;
 
-g). Gastos de Previsión Social, en los términos de la Ley del Impuesto Sobre la Renta;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-h). Aguinaldos, y
+d) Aguinaldos;
 
-i). Aportaciones de seguridad social, fondos de ahorro para el retiro constituidos de acuerdo a las leyes de la materia, a cargo del patrón.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-II. Las erogaciones que efectúen:
+e) Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las leyes o contratos respectivos;
 
-a) Las Instituciones públicas o privadas cuyo objeto de creación sea la realización de la asistencia social en cualquier de sus formas así previstas en la Ley estatal de la materia, siempre que se preste de forma regular y gratuita o sujeta a una cuota de recuperación, y sus ingresos provenga únicamente de donaciones u aportaciones voluntaria;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+f) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-b) Asociaciones de trabajadores y colegios de profesionistas, y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-c) Los partidos políticos.
+g) Pagos por gastos funerarios;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+h) Becas educacionales y deportivas para los trabajadores;
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+i) Indemnización por despido o terminación laboral, y
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+j) Pagos realizados a personas físicas por la prestación de su trabajo personal independiente por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+II. Las erogaciones que efectúen las instituciones públicas o privadas cuyo objeto de creación sea la realización de la asistencia social en cualquiera de sus formas así previstas en la ley estatal de la materia, siempre que se preste de forma regular y gratuita o sujeta a una cuota de recuperación, y sus ingresos provenga (sic) únicamente de donaciones u aportaciones voluntarias.
 
 #### SECCIÓN OCTAVA. De las Obligaciones de los Contribuyentes de este Impuesto
 
@@ -903,17 +991,21 @@ La Secretaría de Administración y Finanzas podrá estimar las erogaciones en l
 
 I. Cuando no presenten sus declaraciones o no lleven los libros o registros contables que legalmente estén obligados a llevar;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-II. Cuando, por los informes que se obtengan, se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, exista discrepancia mayor a un 3%;
+II. Cuando de los informes que se obtengan de las declaraciones y datos presentados por el contribuyente ante un tercero o ante cualquier dependencia o entidad gubernamental, exista discrepancia con los datos o importes declarados en materia de este impuesto o bien cuando el contribuyente fue omiso en su pago;
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-III. Cuando la información solicitada le sea entregada de manera parcial, y
+III. Cuando la información solicitada le sea entregada de manera parcial;
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-IV. Cuando el contribuyente no entregue la información solicitada o no atienda el requerimiento.
+IV. Cuando el contribuyente no entregue la información solicitada o no atienda el requerimiento, y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+V. Cuando no se cuente con registro en el padrón estatal de contribuyentes, no se presenten declaraciones o no se pague oportunamente el importe del Impuesto Sobre Nóminas, o se pague el impuesto de forma incorrecta, respecto de las remuneraciones al trabajo personal subordinado relacionado con el ramo de la construcción de bienes inmuebles, se estimarán las erogaciones de conformidad a los costos de mano de obra por metro cuadrado para la obra privada, así como los factores de mano de obra de los contratos de obra pública que rigen las diversas leyes sobre la materia, acorde con la determinación de salarios mínimos que mediante resolución emite el H. Consejo de Representantes de la Comisión Nacional de Salarios Mínimos la cual fija los salarios mínimos generales y profesionales.
 
 #### SECCIÓN PRIMERA. Diversos Aprovechamientos
 
@@ -927,9 +1019,21 @@ II. Presentar ante las mismas autoridades, dentro del plazo que señala la fracc
 
 III. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
 
-IV. Las sucursales, bodegas, agencias y otras dependencias de la matriz, que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse por separado; y las que estén ubicadas en la misma localidad, se deberán empadronar sólo para efectos de control, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
-V. Las personas físicas o morales cuyo domicilio fiscal, para efecto de impuestos federales, se encuentre en otra entidad federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, tendrán la obligación de registrar como domicilio fiscal estatal, el lugar donde se origine la actividad o contraprestación, además deberán enterar el impuesto correspondiente en la oficina recaudadora de su jurisdicción o institución de crédito autorizada por la Secretaría de Administración y Finanzas.
+IV. Las sucursales, bodegas, agencias y otras dependencias de la matriz, que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse por separado; y las que estén ubicadas en la misma localidad, una deberá registrarse, para efectos de pago y las demás para efectos de control;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+V. Las personas físicas o morales cuyo domicilio fiscal, para efecto de impuestos federales, se encuentre en otra entidad federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, tendrán la obligación de registrar como domicilio fiscal estatal, el lugar donde se origine la actividad o contraprestación, además deberán enterar el impuesto correspondiente en la oficina recaudadora de su jurisdicción o institución de crédito autorizada por la Secretaría de Administración y Finanzas;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VI. Conservar la documentación comprobatoria del pago de las remuneraciones objeto de este impuesto, y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+VII. Las personas físicas y jurídico colectivas que reciban las prestaciones del trabajo personal y que no hagan erogaciones objeto de este impuesto, deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicio ante la oficina recaudadora que corresponda a su domicilio y proporcionar los datos que identifiquen a la persona física o jurídica colectiva que haga dichas erogaciones, así como el número total de personas que presten el trabajo.
 
 ### CAPÍTULO ÚNICO. DE LOS DERECHOS
 
@@ -1125,6 +1229,100 @@ Los Notarios Públicos no autorizarán, ni los Registradores Públicos de la Pro
 
 Las obras públicas pueden ser realizadas a iniciativa del Ejecutivo del Estado o de vecinos que tengan interés en su realización.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Bis.
+
+Están obligadas al pago de contribuciones por mejoras para Obras de Impacto Vial, las personas físicas o jurídicas colectivas, que en términos de la legislación aplicable, requieran de la evaluación técnica de impacto en materia urbana y/o evaluación de impacto estatal, que en territorio del Estado construyan, amplíen y/o modifiquen el uso o aprovechamiento de bienes inmuebles, con un uso de suelo industrial, comercial, servicios, educación y cultura, servicios para recreación, comunicaciones, conjuntos urbanos y parques industriales, debidamente autorizados y que regionalmente se vean beneficiados con las obras.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Ter.
+
+Para determinar el monto de la contribución para obras de impacto vial que deba cubrir el contribuyente, se multiplicará el número de cajones de estacionamiento requeridos para el inmueble, por el del factor de mitigación de impacto vial y este producto se multiplicará por el factor de uso de suelo.
+
+El factor de uso de suelo se aplicará ubicando el rango correspondiente tomando en cuenta el uso general de suelo, el uso específico de suelo y la zona que corresponda al municipio en que se localice el inmueble.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Quater.
+
+Para establecer el número de cajones de estacionamiento requeridos por el inmueble y el factor de uso de suelo a que se refiere el artículo 111 ter, se ubicará el rango que corresponda de acuerdo al uso general del suelo, el uso específico del suelo y la zona en que se localice el inmueble, conforme a lo establecido en las reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Quinquies.
+
+Tratándose de conjuntos urbanos habitacionales en el Estado, para la determinación de la contribución que por cada vivienda corresponda, se aplicarán las tarifas establecidas en las reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+Artículo 111 Sexties.- Estas contribuciones para Obras de Impacto Vial, deberán pagarse en cualquiera de las formas de pago establecidas por la Secretaría de Administración y Finanzas, debiendo enterarlas mediante declaración en la forma oficial aprobada, en cualquiera de los siguientes supuestos:
+
+I. En el caso de obra nueva, dentro de los 10 días hábiles posteriores a la expedición de la primera licencia o permiso de construcción que se emita con relación a la obra objeto del dictamen de incorporación e impacto vial. Cuando con motivo de la construcción se expidan diferentes licencias, la que se tomará en cuenta para el cómputo del plazo señalado en el párrafo anterior, será la que se expida en su modalidad de obra nueva;
+
+II. Para el caso de ampliación o modificación, deberá de pagarse dentro de los 10 días hábiles posteriores a la expedición de la licencia que las autorice, según sea el caso, y se vincule al dictamen de incorporación e impacto vial, y
+
+III. En los casos en que no se requiera licencia de construcción, el pago de las contribuciones deberá realizarse dentro de los 10 días hábiles posteriores a aquel en que surta efectos la notificación del dictamen de incorporación e impacto vial.
+
+En el caso de que la construcción, ampliación o modificación se haya iniciado en fecha anterior a la emisión del dictamen, con independencia de las sanciones aplicables, el pago de la contribución deberá realizarse dentro de los 10 días hábiles posteriores a aquel en que surta efectos la notificación del dictamen de incorporación e impacto vial.
+
+El pago de estas contribuciones podrá realizarse a plazos, ya sea diferido o en parcialidades, con otorgamiento de la garantía del interés fiscal en los términos del Código Fiscal del Estado de Nayarit. Los ingresos generados por las contribuciones de mejoras para obras de impacto vial, se depositarán en la cuenta autorizada para tal efecto por la Secretaría de Administración y Finanzas.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Septies.
+
+Para el control y vigilancia de las contribuciones para Obras de Impacto Vial se deberá constituir un comité para dar seguimiento a la aplicación de las aportaciones, el cual estará integrado por:
+
+I. Un representante de la Secretaría de Desarrollo Sustentable;
+
+II. Un representante de la Secretaría de Movilidad;
+
+III. Un representante de la Secretaría de Administración y Finanzas;
+
+IV. Un representante de la Secretaría de Infraestructura, y
+
+V. Dos representantes de los Municipios de la entidad.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Octies.
+
+El Comité será presidido por el representante de la Secretaría de Desarrollo Sustentable y tendrá, entre otras funciones, las siguientes:
+
+I. Dar seguimiento al ingreso que se obtenga por estas contribuciones;
+
+II. Vigilar el comportamiento de estas contribuciones de impacto vial y sus repercusiones y resultados, y
+
+III. Vigilar que el ingreso que se obtenga por estas contribuciones se destine a la realización de obras para infraestructura vial en el territorio del o los municipios en que se hubieren causado.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Nonies.
+
+No se pagarán las contribuciones para obras de impacto vial por:
+
+I. Los conjuntos urbanos habitacionales de tipo social progresivo;
+
+II. Las construcciones, ampliaciones y naves al interior de conjuntos urbanos y parques industriales debidamente autorizados;
+
+III. Las subdivisiones y fusiones de predios sin construcción ni aprovechamiento de uso;
+
+IV. Los orfanatorios, asilos de ancianos e indigentes y albergues;
+
+V. Los inmuebles para captación y distribución de agua, diques, presas, represas, canales, arroyos, ríos, tratamiento, conducción y distribución de agua, operación de plantas potabilizadoras, plantas de tratamiento de aguas negras, lagunas de oxidación, de control y de regulación, zonas de transferencia de basura y rellenos sanitarios, así como estaciones y subestaciones eléctricas;
+
+VI. Los inmuebles destinados a actividades agrícolas, ganaderas, silvícolas o piscícolas, y
+
+VII. Los estacionamientos, terminales de autobuses urbanos y foráneos, torres o sitios celulares denominados radio bases.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 111 Decies.
+
+El ingreso que se perciba por este concepto, será destinado para el desarrollo de obras de infraestructura vial que tienda a mitigar el impacto vial en la zona de influencia. El proyecto de obra y su ejecución se dará de manera coordinada, entre las Secretarías de Desarrollo Sustentable, Infraestructura, Movilidad y el municipio o municipios afectados, conforme lo dispuesto en las reglas generales.
+
 ## TÍTULO SEXTO. PRODUCTOS
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES APLICABLES AL PROCEDIMIENTO
@@ -1262,3 +1460,21 @@ P.O. 22 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se modifica de 100 a 50 por ciento la aportación otorgada al Fideicomiso de Promoción Turística del Estado de Nayarit, señalada en la Cláusula Segunda punto 1 del Contrato de Fideicomiso de fecha 30 de Abril de 1997, constituido en virtud del Decreto número 8002, emitido por el H. Congreso del Estado Libre y Soberano de Nayarit, publicado en el Periódico Oficial Órgano del Gobierno del Estado con fecha 14 de Diciembre de 1996, el cual contiene reformas, adiciones y modificaciones a diversas disposiciones de la Ley de Hacienda del Estado de Nayarit, entre las que se encuentra la creación del Impuesto al Hospedaje y la obligación de constituir un Fideicomiso para el Fomento al Turismo del Estado.
+
+El 50 por ciento descontado conforme al párrafo anterior, será destinado para pago de deuda del Gobierno del Estado.
+
+Los ingresos excedentes a lo presupuestado en la Ley de Ingresos del Estado Libre y Soberano de Nayarit, para el Ejercicio Fiscal 2022, así como los obtenidos a través de plataformas digitales, en el rubro del Impuesto sobre Hospedaje que el Estado obtenga por los esfuerzos recaudatorios realizados en el mismo ejercicio fiscal, no formarán parte del porcentaje otorgado al fideicomiso.
+
+Lo establecido en el presente artículo surtirá efectos a partir del mes de marzo de 2022, con el importe recaudado por concepto del Impuesto sobre Hospedaje del bimestre enero-febrero de 2022, por lo que se autoriza al fideicomitente a modificar el contrato con la fiduciaria y sus modificatorios.
+
+TERCERO.- El aumento en la tasa para el cobro del Impuesto sobre Hospedaje, se llevará a cabo de manera progresiva en los siguientes dos años, es decir, para el ejercicio fiscal 2022 el aumento será del 3% al 4%, por lo que, hasta el ejercicio fiscal 2023 la tasa del impuesto será del 5%.
+
+CUARTO.- Para la implementación del cobro de Contribuciones por Mejoras para Obras de Impacto Vial, el Titular del Poder Ejecutivo del Estado, dentro de los 90 días contados a partir de la entrada en vigor de la presente Ley emitirá las reglas de carácter general que regulen el cobro, procedimientos, administración y destino del ingreso recaudado por este concepto en general.
