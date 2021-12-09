@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2021-05-08"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -157,7 +157,9 @@ XXXVIII. VALUACIÓN CATASTRAL: el conjunto de actividades técnicas realizadas p
 
 XXXIX. VALUADOR: el servidor público dependiente de la dirección de catastro municipal que elabora los dictámenes para determinar los avalúos catastrales;
 
-XL. VÍAS PÚBLICAS: las señaladas en la Ley de Desarrollo Urbano del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+XL. VÍAS PÚBLICAS: las señaladas en la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de San Luis Potosí;
 
 XLI. VISITAS DE CAMPO: la inspección física del exterior de un inmueble que realizan las autoridades catastrales, para verificar las características, y/o medidas y colindancias del mismo, para contrastarla con la información documental proporcionada por el propietario o poseedor de un inmueble;
 
@@ -1830,6 +1832,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1163.- SE REFORMA EL ARTÍCULO 151 EN SUS FRACCIONES I Y II; Y DEROGA DEL MISMO ARTÍCULO 151 LA FRACCIÓN V, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0138.- SE REFORMA EL ARTÍCULO 4º EN SU FRACCIÓN XL DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
