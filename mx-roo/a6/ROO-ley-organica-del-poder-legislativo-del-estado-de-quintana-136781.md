@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2020-01-03"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -1721,6 +1721,8 @@ Las responsabilidades administrativas no graves en que incurran los Titulares y 
 
 ### CAPÍTULO SEGUNDO. Del Dictamen
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ## TÍTULO DÉCIMO PRIMERO. De la entrega y recepción
 
 ### CAPÍTULO TERCERO. Del Debate
@@ -1821,13 +1823,33 @@ Si las proposiciones, no fueran calificadas para su trámite de urgente y obvia 
 
 ###### Artículo 149.
 
-Toda iniciativa de Ley o Decreto deberá ser analizada y votada en pleno dentro del término de ciento ochenta días naturales siguientes contados a partir de su lectura.
+Es obligación de las diputadas y los diputados integrantes de las comisiones, estudiar, analizar y dictaminar toda iniciativa de Ley o Decreto, para que sea votada en el Pleno dentro del ejercicio constitucional de la legislatura que le corresponda.
 
-Las Comisiones deberán dictaminar las iniciativas que les fueran turnadas dentro de un término máximo de ciento cincuenta días naturales, contados a partir de la lectura de la iniciativa en pleno, con las salvedades que señalen la Constitución y esta Ley. Si una sola Iniciativa fuere turnada a dos o más Comisiones, estas trabajarán unidas y emitirán conjuntamente un solo dictamen.
+Si una iniciativa fuere turnada a dos o más Comisiones, éstas trabajarán unidas y emitirán conjuntamente un solo dictamen.
 
-Tratándose de iniciativas en las que la Comisión considere que requiera de mayor tiempo para su estudio, análisis y resolución, antes de que fenezca el plazo antes señalado, deberán presentar ante el pleno un acuerdo de la comisión en el cual solicite, de manera fundada y motivada su petición de prórroga hasta por un plazo de noventa días naturales.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-Únicamente serán interrumpidos los plazos para dictaminar las iniciativas presentadas, cuando se instale una nueva Legislatura, exceptuando las iniciativas preferentes cuyos términos son improrrogables.
+###### Artículo 149 Bis.
+
+Las iniciativas que no fuesen dictaminadas por las comisiones y votadas por la Legislatura durante su ejercicio constitucional, podrán ser prorrogadas para su estudio, análisis y dictamen por una sola ocasión por la siguiente legislatura conforme al trámite siguiente:
+
+I. La Presidencia de la Mesa Directiva de la Comisión Permanente de la legislatura saliente, deberá elaborar un informe que contenga la relación de las iniciativas pendientes de dictamen por esa legislatura;
+
+II. El informe referido en la fracción anterior, deberá remitirse a la Legislatura entrante, para que ésta, dentro del plazo de sesenta días naturales posteriores a la apertura del Primer Periodo Ordinario de Sesiones del Primer Año de Ejercicio, someta a consideración del Pleno las iniciativas que ameritan prórroga.
+
+Para tal efecto, la Presidencia de la Mesa Directiva de la legislatura entrante remitirá a las comisiones ordinarias el informe, para que en el plazo de quince días naturales se pronuncien sobre aquellas iniciativas que consideren ameritan prórroga para su atención en esa legislatura.
+
+III. La Presidencia de la Mesa Directiva en funciones de la legislatura entrante, una vez recibido el pronunciamiento de las comisiones ordinarias, someterá a consideración de la legislatura aquellas iniciativas que a consideración de las comisiones ameriten prórroga.
+
+Si la legislatura entrante no lleva a cabo ninguna manifestación respecto de las iniciativas remitidas en el término a que se refiere la fracción II de este artículo, se considerarán por ese hecho desechadas, sin que se requiera declaratoria expresa.
+
+IV. Las iniciativas que fueren aceptadas por la legislatura entrante, serán atendidas por las comisiones a las que se encuentren turnadas, durante el plazo establecido en el artículo 149 de esta ley, y no podrán volver a ser objeto de prórroga para una siguiente legislatura.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 149 Ter.
+
+Los dictámenes aprobados por las comisiones que no lleguen a ser del conocimiento de una Legislatura, pasarán con esa misma calidad a la siguiente Legislatura a efecto de que sean sometidos a discusión y votación del Pleno Legislativo.
 
 ###### Artículo 150.
 
@@ -1851,19 +1873,17 @@ Cuando para emitir un dictamen sea necesario la opinión, informes técnicos, co
 
 La negativa, omisión, negligencia o actitud dilatoria en cumplir lo solicitado, será motivo de responsabilidad administrativa, lo que se comunicará a la secretaría coordinadora del sector a que corresponda la entidad del Ejecutivo, al superior jerárquico o al titular del Ejecutivo, según sea el caso, para que ordene se proporcione lo requerido y se aplique la sanción que corresponda, de conformidad con lo que establece la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 154.
 
-Al inicio de cada año de ejercicio legislativo, la mesa directiva podrá presentar al pleno un informe escrito sobre las iniciativas o proyectos pendientes de dictamen y cuyo plazo para ser votadas en comisiones haya precluído, precisando las diferentes actuaciones recaídas en cada una de ellas.
+Antes de que culmine el tercer año de ejercicio constitucional de la Legislatura que corresponda, la Presidencia de la Mesa Directiva de la Comisión Permanente deberá emitir un informe por escrito dirigido a la Legislatura entrante, en el que se contenga lo siguiente:
 
-Respecto de las iniciativas de diputados y ciudadanos que hayan precluido en sus plazos para ser dictaminadas en comisiones, se procederá conforme a lo siguiente:
+I. Las iniciativas pendientes de dictamen para efectos del trámite establecido en el artículo 149 Bis, y
 
-a) Una vez que se cuente con el informe escrito sobre las iniciativas o proyectos pendientes de dictamen, la Subsecretaría de Servicios Legislativos dentro del término de veinte días hábiles siguientes deberá remitir a los órganos de representación, el listado de iniciativas presentadas por éstos, para que en un plazo no mayor a diez días hábiles, se pronuncien en forma escrita sobre aquellas iniciativas que son de su interés;
+II. Los dictámenes aprobados por las comisiones competentes y que no fueron sometidos a votación del Pleno Legislativo conforme a lo establecido en el artículo 149 Ter de esta ley.
 
-b) La Mesa Directiva deberá consultar en iguales plazos y para los mismos efectos referidos en el inciso anterior, a la dirección de análisis jurídico legislativo, a fin de que presente un informe respecto de aquellas iniciativas que considere pertinentes continuar con el proceso legislativo, debiéndose sustentar dicha determinación y manifestando cuáles deben ser desechadas y archivadas como asuntos concluidos;
-
-c) La mesa directiva someterá a votación del pleno, el acuerdo que contenga la relación de iniciativas desechadas por no haber sido seleccionadas por los órganos legislativos ni por la dirección de análisis jurídico legislativo, a efecto de concluir los trámites legislativos, descargar los turnos correspondientes y enviar los expedientes al archivo como asuntos concluidos, y
-
-d) Las iniciativas seleccionadas para continuar su proceso legislativo deberán ser analizadas, discutidas y votadas en sus respectivas comisiones como asuntos prioritarios dentro de los noventa días posteriores a dicha determinación.
+Al iniciar el primer año de ejercicio constitucional de la legislatura entrante, quien presida la Mesa Directiva hará del conocimiento al Pleno y a las comisiones ordinarias el informe a que se refiere el presente artículo a efecto de continuar con el trámite que corresponda.
 
 ### CAPÍTULO QUINTO. De la expedición
 
@@ -2294,3 +2314,13 @@ P.O. 3 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 148 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA Y DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Los plazos y procedimientos establecidos en el presente Decreto serán aplicables a las iniciativas de Ley o Decreto presentadas en la H. XVI Legislatura del Estado que al inicio de la vigencia del presente decreto no hayan fenecido en sus plazos para aprobación ante la Legislatura o dictaminación en las comisiones ordinarias competentes. Asimismo, le serán aplicables a las iniciativas presentadas en legislaturas anteriores a la XVI Legislatura del Estado de Quintana Roo, que se encuentran pendientes de votación ante el Pleno de la Legislatura.
