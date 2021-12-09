@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "2020-01-03"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -237,9 +237,9 @@ XIII.- Citar a sesiones extraordinarias, por sí o a solicitud del Ejecutivo, cu
 
 XIV.- Declarar la falta de quórum legal para sesional (sic).
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-XV.- Compeler a las Comisiones a nombre de la Legislatura, para la presentación de dictámenes cuando hayan transcurrido cinco días al de la fecha de turno del asunto, fijarles plazos de entrega y en su caso, proponer se pasen a otra comisión.
+XV.- Remitir a la legislatura entrante, el informe a que hace referencia el artículo 154 de la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
@@ -1020,3 +1020,13 @@ P.O. 3 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 148 POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA Y DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINATANA ROO.”]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Los plazos y procedimientos establecidos en el presente Decreto serán aplicables a las iniciativas de Ley o Decreto presentadas en la H. XVI Legislatura del Estado que al inicio de la vigencia del presente decreto no hayan fenecido en sus plazos para aprobación ante la Legislatura o dictaminación en las comisiones ordinarias competentes. Asimismo, le serán aplicables a las iniciativas presentadas en legislaturas anteriores a la XVI Legislatura del Estado de Quintana Roo, que se encuentran pendientes de votación ante el Pleno de la Legislatura.
