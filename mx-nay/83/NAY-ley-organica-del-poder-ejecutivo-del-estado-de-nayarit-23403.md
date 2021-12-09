@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2021-12-08"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 9 DE DICIEMBRE DE 2021 Y 17 DE DICIEMBRE DE 2021 RESPECTIVAMENTE, EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE DICIEMBRE DE 2021.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -2859,21 +2859,25 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
 
-TERCERO. La Secretaría del Trabajo y Justicia Laboral creada a partir del presente Decreto, comenzará en funciones el día 01 de enero del 2022.
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+TERCERO. La Secretaría del Trabajo y Justicia Laboral creada a partir del presente Decreto, comenzará en funciones el día 01 de enero del 2022 y su titular será nombrado dentro de los quince días hábiles siguientes.
 
 CUARTO. Las atribuciones otorgadas en otras leyes, decretos y reglamentos a la Secretaría de Economía en lo correspondiente en materia del trabajo, se entenderán transferidas a la Secretaría del Trabajo y Justicia Laboral.
 
 QUINTO. El Congreso del Estado contará con el plazo de 180 días naturales para aprobar las leyes o reformas, que en su caso correspondan a la legislación local en los términos del presente Decreto.
 
-SEXTO. A la entrada en vigor del presente Decreto, el Poder Ejecutivo contará con un plazo máximo de treinta días naturales para emitir y realizar las reformas necesarias a los reglamentos interiores con la finalidad de establecer la integración, estructura, facultades y atribuciones de la Secretaría del Trabajo y Justicia Laboral, así como delimitar las facultades y atribuciones de la Secretaría de Economía.
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+SEXTO. A la entrada en vigor del presente Decreto, el Poder Ejecutivo contará con un plazo máximo de noventa días naturales para emitir y realizar las reformas necesarias a los reglamentos interiores con la finalidad de establecer la integración, estructura, facultades y atribuciones de la Secretaría del Trabajo y Justicia Laboral, así como delimitar las facultades y atribuciones de la Secretaría de Economía.
 
 SÉPTIMO. La resolución de los aspectos administrativos no previstos en el presente Decreto corresponderá a la Secretaría de Administración y Finanzas y Secretaría para la Honestidad y Buena Gobernanza del Poder Ejecutivo, previo a las opiniones que emitan los titulares de las Dependencias involucradas.
 
 Las atribuciones que corresponden en otras leyes y reglamentos a la Secretaría de la Contraloría General se entenderán como competencia de la Secretaría para la Honestidad y Buena Gobernanza.
 
-OCTAVO. Serán transferidos a su nueva adscripción a partir de la modificación legal correspondiente, los recursos humanos, documentales, financieros y materiales con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente Decreto.
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-Los titulares de las dependencias a que se refiere el presente Decreto, por sí o por quien ellos designen, serán coordinadores del proceso de transferencia de los recursos mencionados en el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento. De igual forma, deberán proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+OCTAVO. El Ejecutivo del Estado emitirá un acuerdo para programar los plazos de transferencia de los recursos humanos, documentales, financieros y materiales con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente Decreto.
 
 NOVENO. Los derechos laborales del personal de confianza, base o de contrato que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán, conforme a la Ley de la materia. El presente Decreto garantizará y respetará los derechos de los trabajadores conforme a la Ley.
 
