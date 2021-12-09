@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1530
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-08"
-last_updated: "2021-12-08"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL CENTRO DE CONCILIACION LABORAL DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE DICIEMBRE DE 2021 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE DICIEMBRE DE 2021.]</small>
 
 Ley publicada en la Sección Cuarta del Número 108 del Periódico Oficial del Estado de Nayarit, el miércoles 8 de Diciembre de 2021.
 
@@ -1163,9 +1163,13 @@ Octavo. El titular de la Secretaría del Trabajo y Justicia Laboral, en su calid
 
 Noveno. Las convocatorias a concurso para la selección de personal del Centro de Conciliación Laboral del Estado de Nayarit, serán de carácter abierto y garantizarán el derecho de participar en igualdad de género y oportunidades al personal de las Juntas de Conciliación y Arbitraje.
 
-Décimo. El Presidente de la Junta de Conciliación y Arbitraje de Nayarit, presentará en un plazo no mayor a treinta días naturales, a partir de la publicación de la presente Ley, un programa de trabajo respecto a la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-Décimo Primero. El Congreso del Estado emitirá la declaratoria de entrada en funciones del Centro de Conciliación Laboral del Estado de Nayarit, a más tardar el 28 de febrero del 2022. Dicha declaratoria deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y ser ampliamente difundida en todo el territorio del Estado.
+Décimo. El Presidente de la Junta de Conciliación y Arbitraje de Nayarit, presentará al titular de la Secretaría del Trabajo y Justicia Laboral en un plazo no mayor a treinta días naturales, posteriores a la fecha de designación de dicho titular, un programa de trabajo respecto a la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Décimo Primero. El Congreso del Estado emitirá la declaratoria de entrada en funciones del Centro de Conciliación Laboral del Estado de Nayarit, a más tardar el 1 de mayo de 2022, o en su caso se atenderá a las prórrogas que sobre la materia establezca e implemente la autoridad federal correspondiente. Dicha declaratoria deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y ser ampliamente difundida en todo el territorio del Estado.
 
 DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los ocho días del mes de diciembre del año dos mil veintiuno.
 
