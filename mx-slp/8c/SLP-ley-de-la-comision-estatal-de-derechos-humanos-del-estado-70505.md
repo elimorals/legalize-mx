@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2021-09-13"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -209,13 +209,23 @@ IV. Migrantes y sus familias, incluidos los jornaleros agrícolas, sin distinci�
 
 V. Jóvenes, estableciendo especial atención a aquéllos que se adscriben a nuevos grupos o colectivos de identidad cultural, a aquéllos que entran en conflicto con la ley, y a quienes ingresan sin las mínimas garantías de seguridad al mercado laboral;
 
-VI. Personas que asumen identidades sexuales no convencionales y que forman unidades familiares;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+VI. Personas que asumen su identidad de género y orientación sexual no convencionales, y que forman unidades familiares;
 
 VII. Colectivos o grupos alternativos a los tradicionales, estableciendo especial atención en la promoción de una cultura de tolerancia y responsabilidad que permita la convivencia de los principios de libertad individual, responsabilidad familiar y armonía social;
 
-VIII. Personas que padezcan una condición médica que produzca discriminación contra ellos, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-IX. Personas con discapacidad.
+VIII. Personas que padezcan una condición médica que produzca discriminación contra ellos;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+IX. Personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+X. Personas adultas mayores.
 
 La Comisión estará atenta a los procesos de formación de nuevas identidades y colectivos en el Estado, promoviendo de modo sistemático una cultura de tolerancia. La Comisión denunciará por todos los medios a su alcance, los discursos de odio, discriminación o exclusión en contra de personas, identidades o colectivos.
 
@@ -1926,5 +1936,13 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1257.- SE REFORMA LOS ARTÍCULOS 79 EN SU PÁRRAFO PRIMERO Y 79 BIS EN SU PÁRRAFO PRIMERO, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0140.- SE REFORMA EL ARTÍCULO 16 EN SUS FRACCIONES VI, VIII Y IX; Y ADICIONA AL MISMO ARTÍCULO 16 LA FRACCIÓN X DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
