@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2021-08-05"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -45,11 +45,15 @@ LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es reglamentaria de las disposiciones contenidas en el artículo 15 de la Constitución Política del Estado de San Luis Potosí, que se refieren a la protección, conservación y restauración del ambiente en el territorio del Estado. Sus disposiciones son de orden público e interés social, y tienen por objeto propiciar el desarrollo sustentable en la Entidad y establecer las bases para:
+La presente Ley es reglamentaria de las disposiciones contenidas en el artículo 15 de la Constitución Política del Estado de San Luis Potosí, que se refieren a la protección, preservación, conservación y restauración del ambiente y equilibrio ecológico en el territorio del Estado. Sus disposiciones son de orden público e interés social, y tienen por objeto propiciar el desarrollo sustentable en la Entidad y establecer las bases para:
 
-I. Garantizar el derecho de toda persona a gozar de un ambiente sano para su desarrollo y bienestar;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+I. Garantizar el derecho de toda persona a gozar de un ambiente sano para su desarrollo, salud y bienestar;
 
 II. Llevar a cabo la formulación, conducción y evaluación de la política ambiental estatal;
 
@@ -63,7 +67,9 @@ V. La prevención y el control de la contaminación en los casos no reservados a
 
 VI. Garantizar la participación corresponsable de las personas, en forma individual o colectiva, en la conservación, restauración y protección ambiental en la Entidad;
 
-VII. El ejercicio de las atribuciones que en materia ambiental corresponden al Gobierno del Estado y ayuntamientos, bajo el principio de concurrencia previsto en el artículo 73 fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos, y en los artículos 4° y 7° de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+VII. El ejercicio de las atribuciones que en materia ambiental corresponden al Gobierno del Estado y ayuntamientos, bajo el principio de concurrencia previsto en el artículo 73 fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos, y en los artículos 4°, 7° y 8°, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 VIII. Regular la autorización del impacto ambiental para el desarrollo de obras o actividades de carácter público o privado de competencia local, que puedan causar deterioro ambiental o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, preservar y restaurar los ecosistemas a fin de evitar o reducir al máximo sus efectos negativos;
 
@@ -190,6 +196,10 @@ XXV. Elementos Antrópicos: todos los elementos materiales, como herramientas, c
 XXVI. Elementos Naturales: todos aquellos elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin inducción;
 
 XXVII. Emisiones: liberación de gases de efecto invernadero en la atmósfera;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+XXVII Bis. Equilibrio Ecológico: a relación de interdependencia entre los elementos que conforman el ambiente, que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
 XXVIII. Estaciones de Transferencia: las instalaciones para el transbordo de los residuos sólidos de los vehículos de recolección, a los vehículos de transferencia;
 
@@ -415,9 +425,9 @@ XXXII. La elaboración de informes periódicos sobre el estado del ambiente en e
 
 XXXIII. La prestación de apoyo y auxilio técnico a los ayuntamientos y a los organismos operadores del agua que lo precisen, para el cumplimiento de las atribuciones que esta Ley les otorga;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-XXXIV. Expedir los dictámenes técnicos previos al otorgamiento de las licencias de uso de suelo, respecto de las obras o actividades de carácter público o privado que puedan causar impacto ambiental significativo, o que sean consideradas como riesgosas, situadas dentro de los centros de población y asentamientos humanos que no cuenten con Plan de Centro de Población Estratégico o Plan de Desarrollo Urbano, así como en los casos de obras o actividades que se pretendan desarrollar fuera de los mismos;
+XXXIV. Expedir los dictámenes técnicos previos al otorgamiento de las licencias de uso de suelo, respecto de las obras o actividades de carácter público o privado que puedan causar impacto ambiental significativo, o que sean consideradas como riesgosas, situadas dentro de los centros de población y asentamientos humanos que no cuenten con Programa de Desarrollo Urbano de Centro de Población, o Programa de Ordenamiento Territorial y Desarrollo Urbano, así como en los casos de obras o actividades que se pretendan desarrollar fuera de los mismos;
 
 XXXV. Inspeccionar las obras o actividades que lo requieran y sancionar en los casos que así lo ameriten, en los términos previstos en esta Ley y demás disposiciones aplicables, en aquellos a que alude el Décimo Transitorio de este ordenamiento sólo en cuanto este último esté vigente;
 
@@ -529,9 +539,9 @@ XVIII TER. (DEROGADA, P.O. 28 DE ABRIL DE 2016)
 
 XIX. Expedir las licencias de uso de suelo conforme a los lineamientos establecidos en la Ley de Desarrollo Urbano, en la presente Ley, en los planes de ordenamiento ecológico, de desarrollo urbano y demás disposiciones normativas y reglamentarias aplicables;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-XX. Realizar la evaluación del impacto ambiental de obras o actividades que puedan causar impacto ambiental significativo, cuando las mismas se pretendan realizar en sus centros de población, y cuenten con Plan de Desarrollo Urbano, y Plan de Centro Estratégico de Población, a fin de otorgar, en los términos de dicha evaluación y autorización, la licencia de uso de suelo municipal de construcción, y la licencia de operación o funcionamiento correspondientes; cuando no cuenten con dichos planes promoverán la evaluación conjunta con la SEGAM;
+XX. Realizar la evaluación del impacto ambiental de obras o actividades que puedan causar impacto ambiental significativo, cuando las mismas se pretendan realizar en sus centros de población, y cuenten con Programa de Ordenamiento Territorial y Desarrollo Urbano, y Programa de Desarrollo Urbano de los Centros de Población, a fin de otorgar, en los términos de dicha evaluación y autorización, la licencia de uso de suelo municipal de construcción, y la licencia de operación o funcionamiento correspondientes; cuando no cuenten con dichos programas promoverán la evaluación conjunta con la SEGAM;
 
 XXI. La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
 
@@ -777,9 +787,11 @@ III. Formular los lineamientos y criterios de regulación ecológica para la pro
 
 El Gobierno del Estado y los ayuntamientos observarán y aplicarán las bases contenidas en el artículo 20 Bis 5 de la LGEEPA, en lo referente a los procedimientos bajo los cuales los planes de ordenamiento ecológico de la Entidad y locales serán elaborados, aprobados, expedidos, evaluados y modificados.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 23.
 
-Los planes de desarrollo urbano que se formulen o modifiquen en cualquiera de sus categorías, deberán ajustarse a los planes de ordenamiento ecológico, debiéndose observar lo previsto en la Ley de Planeación del Estado y demás disposiciones legales y reglamentarias aplicables.
+Los programas de ordenamiento territorial y desarrollo urbano que se formulen o modifiquen en cualquiera de sus categorías, deberán ajustarse a los planes de ordenamiento ecológico, debiéndose observar lo previsto en la Ley de Planeación del Estado y demás disposiciones legales y reglamentarias aplicables.
 
 ###### ARTICULO 24.
 
@@ -813,7 +825,9 @@ Efectuada la consulta en un término máximo de cinco días el Ayuntamiento soli
 
 La SEGAM contará con un plazo máximo de quince días hábiles para emitir el dictamen; una vez transcurrido dicho plazo sin que el mismo hubiese sido emitido, se entenderá por aprobado el plan presentado, y
 
-III. Emitido el dictamen o una vez transcurrido el plazo antes mencionado sin que se hubiere emitido, el Ayuntamiento en sesión de Cabildo se pronunciará sobre el plan, adoptando el acuerdo que proceda y con sus elementos integrantes lo elevará para su conocimiento y publicación en el Periódico Oficial del Estado al titular del Ejecutivo del Estado, por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+III. Emitido el dictamen o una vez transcurrido el plazo antes mencionado sin que se hubiere emitido, el Ayuntamiento en sesión de Cabildo se pronunciará sobre el plan, adoptando el acuerdo que proceda y con sus elementos integrantes lo elevará para su conocimiento y publicación en el Periódico Oficial del Estado "Plan de San Luis" al titular del Ejecutivo del Estado, por conducto del Presidente Municipal.
 
 ###### ARTICULO 27.
 
@@ -883,9 +897,11 @@ La SEDARH, una vez recibida la solicitud por escrito, deberá emitir su opinión
 
 Los ayuntamientos, en los términos establecidos por el artículo 46 de la LGEEPA y 8º fracción VII de esta Ley, podrán establecer zonas de preservación ecológica de los centros de población con las formalidades y requisitos que se establecen en la LGEEPA, en esta Ley y en la Ley Orgánica del Municipio Libre.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 32.
 
-Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas de competencia estatal o municipal se deberán realizar los estudios que lo justifiquen, los que deberán ser puestos a disposición del público en las oficinas de la SEGAM por un término de treinta días naturales para su consulta y formulación de observaciones; contados a partir de su publicación sintetizada en el Periódico Oficial del Estado, así como en alguno de los diarios de mayor circulación en la Entidad; dichas observaciones una vez transcurrido dicho plazo, deberán remitirse a la SEGAM en un término máximo de quince días naturales para su evaluación.
+Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas de competencia estatal o municipal se deberán realizar los estudios que lo justifiquen, los que deberán ser puestos a disposición del público en las oficinas de la SEGAM por un término de treinta días naturales para su consulta y formulación de observaciones; contados a partir de su publicación sintetizada en el Periódico Oficial del Estado "Plan de San Luis", así como en alguno de los diarios de mayor circulación en la Entidad; dichas observaciones una vez transcurrido dicho plazo, deberán remitirse a la SEGAM en un término máximo de quince días naturales para su evaluación.
 
 ###### ARTICULO 33.
 
@@ -949,11 +965,13 @@ V. Los lineamientos para la elaboración del plan de manejo o recuperación del 
 
 VI. Las observaciones, opiniones y propuestas derivadas de las consultas que se hubieren realizado.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 38.
 
-Las declaratorias deberán publicarse en el Periódico Oficial del Estado y un extracto de las mismas en alguno de los diarios de mayor circulación en la Entidad; y se notificarán además a los propietarios o poseedores de los predios afectados en forma personal cuando se conocieren sus domicilios.
+Las declaratorias deberán publicarse en el Periódico Oficial del Estado "Plan de San Luis" y un extracto de las mismas en alguno de los diarios de mayor circulación en la Entidad; y se notificarán además a los propietarios o poseedores de los predios afectados en forma personal cuando se conocieren sus domicilios.
 
-En caso contrario, se hará una segunda publicación que surtirá efectos de notificación. Las declaratorias se inscribirán en el Registro Público de la Propiedad y del Comercio correspondiente.
+En caso contrario, se hará una segunda publicación que surtirá efectos de notificación. Las declaratorias se inscribirán en el Registro Público de la Propiedad correspondiente.
 
 ###### ARTICULO 39.
 
@@ -987,7 +1005,9 @@ VI. Los inventarios biológicos existentes y los que se prevea realizar, y
 
 VII. Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área de que se trate.
 
-La SEGAM deberá publicar en el Periódico Oficial del Estado y en alguno de los diarios de mayor circulación en la Entidad, un resumen del plan de manejo respectivo y el plano de localización del área.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+La SEGAM deberá publicar en el Periódico Oficial del Estado "Plan de San Luis" y en alguno de los diarios de mayor circulación en la Entidad, un resumen del plan de manejo respectivo y el plano de localización del área.
 
 ###### ARTICULO 42.
 
@@ -1009,7 +1029,9 @@ Asimismo, podrá establecerse la creación de un organismo público descentraliz
 
 La SEGAM o el organismo público descentralizado que se hubiese creado, llevará el registro de las áreas integrantes del Sistema Estatal de las Areas Naturales Protegidas.
 
-En el registro se consignarán los datos relacionados con el establecimiento del área de que se trate, los contenidos de la declaratoria respectiva, así como los relativos a su inscripción en el Registro Público de la Propiedad y del Comercio correspondiente.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+En el registro se consignarán los datos relacionados con el establecimiento del área de que se trate, los contenidos de la declaratoria respectiva, así como los relativos a su inscripción en el Registro Público de la Propiedad correspondiente.
 
 La SEGAM promoverá ante las autoridades responsables de cada área, la incorporación de apropiadas reglas de manejo que incluyan la conservación, administración, desarrollo y vigilancia de las áreas integrantes del sistema.
 
@@ -1067,7 +1089,9 @@ VI. Promover una mayor equidad social en la distribución de costos y beneficios
 
 VII. Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio dinámico, la salud y el bienestar de la población en el Estado.
 
-Con el propósito de lograr los objetivos de este artículo, las acciones y lineamientos específicos de los programas que lleve a cabo la SEGAM, serán publicados en el Periódico Oficial del Estado
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Con el propósito de lograr los objetivos de este artículo, las acciones y lineamientos específicos de los programas que lleve a cabo la SEGAM, serán publicados en el Periódico Oficial del Estado "Plan de San Luis".
 
 ###### ARTICULO 46.
 
@@ -1093,7 +1117,9 @@ II. La utilización de sistemas de ahorro de energía, y el uso de fuentes de en
 
 III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
 
-IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los planes de desarrollo urbano y programas de ordenamiento ecológico regional y local;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los programas de ordenamiento territorial y desarrollo urbano y programas de ordenamiento ecológico regional y local;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1113,17 +1139,15 @@ VIII. El reciclaje de materiales residuales como actividad industrial, pudiendo,
 
 ### CAPITULO V. DEL USO DEL SUELO Y DE LA LICENCIA
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 48.
 
-En los términos previstos por el artículo 9° fracción X de la Ley General de Asentamientos Humanos, los ayuntamientos podrán fijar las restricciones, tanto al uso del suelo como a las construcciones de cualquier clase que requieran el desarrollo urbano y ambiental estatal, así como las que fueren necesarias para la aplicación de los respectivos planes, de la presente Ley y demás disposiciones legales aplicables.
+En los términos previstos por la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano los ayuntamientos podrán fijar las restricciones, tanto al uso del suelo como a las construcciones de cualquier clase que requieran el desarrollo urbano y ambiental estatal, así como las que fueren necesarias para la aplicación de los respectivos planes, de la presente Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+El criterio general normativo para la regulación de los usos del suelo en el territorio del Estado, obedecerá estrictamente al contenido de los planes de ordenamiento ecológico regional del territorio, así como a los programas de ordenamiento territorial y desarrollo urbano en los asentamientos humanos y centros de población, a lo previsto en esta Ley, las de Ordenamiento Territorial y Desarrollo Urbano, y del Agua, así como de otras leyes aplicables.
 
-El criterio general normativo para la regulación de los usos del suelo en el territorio del Estado, obedecerá estrictamente al contenido de los planes de ordenamiento ecológico regional del territorio, así como a los planes de desarrollo urbano en los asentamientos humanos y centros de población, a lo previsto en esta Ley, las de Desarrollo Urbano, y del Agua, así como de otras leyes aplicables.
-
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
-
-El otorgamiento de dichas licencias será conforme lo dispone la Ley de Desarrollo Urbano del Estado.
+El otorgamiento de dichas licencias será conforme lo dispone la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado.
 
 ###### ARTICULO 49.
 
@@ -1207,7 +1231,9 @@ VII. Se rehabilitará el terreno laboreado para su aprovechamiento posterior, si
 
 Con la solicitud de autorización para la explotación que deberá presentarse ante la SEGAM, se acompañarán:
 
-I. Títulos que acrediten la propiedad del inmueble, debidamente inscritos en el Registro Público de la Propiedad y del Comercio, o en su caso, copia certificada del decreto dotatorio de tierras ejidales o comunales;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+I. Títulos que acrediten la propiedad del inmueble, debidamente inscritos en el Registro Público de la Propiedad o, en su caso, copia certificada del decreto dotatorio de tierras ejidales o comunales;
 
 II. Apeo y deslinde judicial o deslinde administrativo;
 
@@ -1293,15 +1319,19 @@ IV. Se observarán las disposiciones de la presente Ley, su reglamento respectiv
 
 V. Se promoverá el tratamiento de aguas residuales y su reutilización en actividades agrícolas, forestales, industriales y de servicios, así como su intercambio por aguas de primer uso, con objeto de ahorrar agua y aumentar su disponibilidad para el consumo humano y para la protección de las fuentes de abastecimiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 68.
 
-Para los fraccionamientos y condominios que se edifiquen en los centros de población, que la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas y los ayuntamientos determinen, con la intervención que corresponda a los propios ayuntamientos y a los organismos operadores del agua, previo los estudios de rigor y previa factibilidad técnica y económica, será obligatorio que sus promotores establezcan redes separadas de alcantarillado y de aguas pluviales, a fin de permitir el aprovechamiento de éstas últimas.
+Para los fraccionamientos y condominios que se edifiquen en los centros de población, que la SEDUVOP y los ayuntamientos determinen, con la intervención que corresponda a los propios ayuntamientos y a los organismos operadores del agua, previo los estudios de rigor y previa factibilidad técnica y económica, será obligatorio que sus promotores establezcan redes separadas de alcantarillado y de aguas pluviales, a fin de permitir el aprovechamiento de éstas últimas.
 
 ###### ARTICULO 69.
 
 El Gobierno del Estado por conducto de la SEGAM, expedirá previamente el dictamen técnico que corresponda para el otorgamiento de las concesiones, licencias, permisos y autorizaciones para el uso y aprovechamiento de las aguas de jurisdicción estatal, así como para el aprovechamiento de los recursos naturales que se encuentren en ellas, debiendo observar los principios, criterios y lineamientos normativos previstos en esta Ley, sus disposiciones reglamentarias y demás ordenamientos aplicables.
 
-Previamente a la emisión de las concesiones, licencias, permisos y autorizaciones, a que se refiere el párrafo anterior, se deberá contar además con el dictamen por escrito de la SEDARH y de la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento en los casos previstos en las leyes de la materia.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Previamente a la emisión de las concesiones, licencias, permisos y autorizaciones, a que se refiere el párrafo anterior, se deberá contar además con el dictamen por escrito de la SEDARH y de la Comisión Estatal del Agua en los casos previstos en las leyes de la materia.
 
 ### CAPITULO IV. DE LOS PROGRAMAS
 
@@ -1327,7 +1357,9 @@ V. La reducción del consumo de agua por las industrias, establecimientos comerc
 
 VI. La creación de programas estratégicos que contribuyan al uso de nuevas tecnologías, para la mejora del medio ambiente y la disminución de gases altamente contaminantes, siempre que se opongan a alguna disposición federal, o internacional.
 
-De igual manera podrán establecerse programas en materia de saneamiento de aguas en los términos que lo establecen las leyes aplicables, en coordinación en su caso con la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento y con los municipios por sí o a través de los organismos operadores del agua.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+De igual manera podrán establecerse programas en materia de saneamiento de aguas en los términos que lo establecen las leyes aplicables, en coordinación en su caso con la Comisión Estatal del Agua y con los municipios por sí o a través de los organismos operadores del agua.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2017)</small>
 
@@ -1699,7 +1731,9 @@ No se permitirá en las zonas habitacionales, ni en las proximidades a los servi
 
 La SEGAM, previa opinión de las dependencias que correspondan, con la participación de la Comisión Estatal de Ecología o del Subcomité Sectorial del COPLADE, establecerá y publicará en su página de internet, la clasificación y listados de las actividades riesgosas, en virtud de las características tóxicas o de flamabilidad y volúmenes de los materiales que se manejen en los establecimientos comerciales, industriales o de servicios, considerando además la ubicación del establecimiento.
 
-Se exceptuarán de dicha clasificación las actividades comprendidas en los listados de actividades clasificadas como altamente riesgosas emitidas por la federación. El acuerdo aprobatorio contendrá el respectivo listado y deberá ser publicado en el Periódico Oficial del Estado, en la página de internet de la SEGAM, y en los diarios de mayor circulación en la Entidad, actualizándolo constantemente. La misma regla deberá observarse en el listado de obras y actividades que causen o puedan causar impacto ambiental significativo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Se exceptuarán de dicha clasificación las actividades comprendidas en los listados de actividades clasificadas como altamente riesgosas emitidas por la Federación. El acuerdo aprobatorio contendrá el respectivo listado y deberá ser publicado en el Periódico Oficial del Estado "Plan de San Luis", en la página de internet de la SEGAM, y en los diarios de mayor circulación en la Entidad, actualizándolo constantemente. La misma regla deberá observarse en el listado de obras y actividades que causen o puedan causar impacto ambiental significativo.
 
 ###### ARTICULO 99.
 
@@ -1913,9 +1947,11 @@ Los distribuidores, propietarios o responsables de la venta directa o indirecta 
 
 ### CAPITULO III. DE LOS SERVICIOS URBANOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 110.
 
-Los ayuntamientos formularán las disposiciones necesarias para la conservación, restauración y protección del ambiente en los centros de población, en relación con los servicios de agua potable, alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques y jardines, tránsito y transporte locales, mismas que deberán ser observadas por las dependencias municipales encargadas de prestar tales serivicios (sic) y por los particulares a quienes se haya concesionado la prestación de los mismos.
+Los ayuntamientos formularán las disposiciones necesarias para la conservación, restauración y protección del ambiente en los centros de población, en relación con los servicios de agua potable, alcantarillado, saneamiento, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques y jardines, tránsito y transporte locales, mismas que deberán ser observadas por las dependencias municipales encargadas de prestar tales servicios, y por los particulares a quienes se haya concesionado la prestación de los mismos.
 
 ###### ARTICULO 111.
 
@@ -3702,5 +3738,13 @@ P.O. 5 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1225.- SE REFORMA EL ARTÍCULO 74 EN SU FRACCIÓN XI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0139.- SE REFORMA LOS ARTÍCULOS 1°, 7°, 8°, 23, 26, 32, 38, 41, 44, 45, 47, 48, 61, 68, 69, 70, 98, 110; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XXVII BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
