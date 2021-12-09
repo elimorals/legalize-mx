@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2021-12-08"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -35885,21 +35885,29 @@ a) Premio al Mérito Cultural;
 
 b) Premio a la Gestión Comunitaria;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2020)</small>
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-XIII. Reconocimiento de “Visitante Distinguido”;
+XIII. Premio Municipal de Periodismo Transmedia en sus dos categorías:
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2020)</small>
+a) Profesional;
 
-XIV. Reconocimiento de “Poblano Distinguido”;
+b) Estudiantil;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-XV. Reconocimiento de “Copia de la Declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial”; y
+XIV. Reconocimiento de "Visitante Distinguido";
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2021)</small>
 
-XVI. Reconocimiento “Juan de Palafox y Mendoza”.
+XV. Reconocimiento de "Poblano Distinguido";
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+XVI. Reconocimiento de "Copia de la Declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial", y
+
+(REUBICADA, P.O. 9 DE DICIEMBRE DE 2021)
+
+XVII. Reconocimiento "Juan de Palafox y Mendoza".
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -36836,6 +36844,54 @@ III. Toda propuesta debe expresar las actividades, trayectoria y logros de la pe
 IV. Los demás requisitos que el Consejo de Premiación, estime convenientes.
 
 Los candidatos a recibir dicho premio, podrán ser propuestos por instituciones, asociaciones, sectores sociales organizados, personas físicas o morales con domicilio en el municipio de Puebla.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+PREMIO MUNICIPAL DE PERIODISMO TRANSMEDIA
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Artículo 2335 Sexdecies. El Premio Municipal de Periodismo Transmedia es el premio que se otorga a aquellos estudiantes y profesionales del periodismo y la comunicación en el Municipio de Puebla, que sobresalen por su desempeño y ejercicio cotidiano del derecho ciudadano a estar informado, por la calidad de su trabajo y por la oportunidad periodística ejercida en beneficio de la opinión pública.
+
+Se entenderá por Transmedia como aquella narrativa o narración que se desarrolla a través de diferentes medios y plataformas de comunicación, cuyos diferentes fragmentos y elementos deben complementarse para ofrecer una visión de conjunto.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Artículo 2335 Septendecies. El Premio se otorgará en dos categorías:
+
+I. Profesional: El cual será otorgado (sic) aquellos profesionistas, originarios o radicados en el municipio de Puebla, que se postulen de forma individual o colectiva, hasta tres integrantes por equipo, cuyo trabajo cumpla con los requisitos de la Convocatoria, respectiva.
+
+II. Estudiantil: El cual será otorgado (sic) aquellos estudiantes, originarios o radicados en el municipio de Puebla, que se postulen de forma individual o colectiva, hasta tres integrantes por equipo, cuyo trabajo cumpla con los requisitos de la Convocatoria, respectiva.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Artículo 2335 Octodecies. El premio consistirá en una cantidad monetaria que será establecida por el Consejo de Premiación, en la categoría Profesional se elegirán tres lugares, y en la Estudiantil solo habrá un ganador.
+
+Lo (sic) premios serán entregados en Acto Protocolario, por acuerdo del Consejo de Premiación, o en Sesión Solemne de Cabildo, a propuesta de la Presidenta o Presidente Municipal.
+
+El Premio será entregado en el marco del Día Internacional de la Libertad de Prensa, en el mes de mayo, o cuando lo determine el Consejo de Premiación.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Artículo 2335 Novodecies. El Consejo de Premiación estará integrado por:
+
+I. El o la Presidenta Municipal, quien fungirá como Presidenta o Presidente del Consejo, con voz;
+
+II. El o la Titular de la Secretaría del Ayuntamiento, quien fungirá como Secretaria o Secretario Ejecutivo, con voz;
+
+III. El o la Titular de la Coordinación General de Transparencia, con voz, y
+
+IV. Integrantes del Consejo Ciudadano de Derechos Humanos, quienes escogerán el tema con perspectiva de género, sobre el cual deberá versar el trabajo y quienes tendrán voz y voto.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Artículo 2335 Vicies. La elección de los ganadores de cada categoría será llevada a cabo por un Jurado que será integrado por tres personas de reconocido prestigio y experiencia en periodismo, medios digitales y derechos humanos, los cuales deberán cumplir con los requisitos que se establezcan en la Convocatoria que publique el consejo Ciudadano de Derechos Humanos, para tal efecto.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
+Artículo 2335 Unvicies. El registro individual corresponde a profesionales o estudiantes que hicieron alguna publicación a título personal. Si el participante es registrado por un tercero, el postulante deberá poner el nombre del autor de dicha publicación, aunque los datos de contacto sean del solicitante.
+
+El registro en grupo, para cualquiera de las dos categorías, corresponde a equipos de trabajo, producciones, colectivos y todos aquellos que hayan colaborado en el mismo trabajo, debiendo designar una persona como representante.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -39694,5 +39750,13 @@ P.O. 8 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 22 DE SEPTIEMBRE DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE APRUEBA LA ADICIÓN DE REQUISITOS DE ESTACIONAMIENTOS EN ESPACIOS CULTURALES INDEPENDIENTES, A LA TABLA 6 DEL ARTÍCULO 960 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 PRIMERO. La adición aprobada en el presente Dictamen entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 22 DE SEPTIEMBRE DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS E IGUALDAD DE GÉNERO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, RESPECTO AL ARTÍCULO 2280 EN SUS FRACCIONES XIII, XIV, XV, XVI, Y SU ADICIÓN EN LA FRACCIÓN XIII, ASÍ COMO ADICIONA LOS ARTÍCULOS 2335 SEXDECIES AL 2335 UNIVICIES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La reforma y adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
