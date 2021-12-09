@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-07-15"
+last_updated: "2021-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1535,9 +1535,11 @@ Si en autos consta que una persona se manifiesta sabedora de una resolución, la
 
 Se entiende por días hábiles, todos los del año, excepto sábados y domingos, descansos obligatorios y aquellos en que el Tribunal Estatal de Conciliación y Arbitraje suspenda sus labores.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 162.
 
-Son horas hábiles las comprendidas entre las seis y las dieciocho horas del día, pero en materia de huelga son hábiles todos los días y las horas.
+Son horas hábiles las comprendidas entre las ocho y las dieciocho horas del día, pero en materia de huelga son hábiles todos los días y las horas.
 
 ###### ARTICULO 163.
 
@@ -2188,3 +2190,11 @@ P.O. 15 DE JULIO DE 2021.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0141.- SE REFORMA EL ARTÍCULO 162 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
