@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2021-05-11"
+last_updated: "2021-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -385,7 +385,9 @@ VIII.- Cuando menos el 50% de los habitantes, deberán estar alfabetizados.
 
 IX.- A solicitud del Comité Gestor, las dependencias de gobierno, de acuerdo a sus funciones y atribuciones, extenderán la correspondiente constancia de que la nueva cabecera municipal, tiene en funcionamiento los servicios públicos, como son: agua entubada, drenaje, alcantarillado, escuelas, hospital, mercado, rastro, alumbrado público, panteón y cárcel; mismos que podrán ser verificados a juicio del Congreso del Estado.
 
-Derivado de lo anterior, cuando el Poder Legislativo resuelva de manera favorable la creación de un muevo (sic) Municipio, deberá ser votado ante el Pleno por lo menos con las dos terceras partes de sus miembros, asimismo en caso de ser aprobado se designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos, desempeñado cargos de elección popular, ni sean miembros del comité gestor vigente. Ese Ayuntamiento durará 3 años, por lo menos, y será sustituido por aquél que sea elegido en los siguientes comicios ordinarios al término de ese plazo.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2021)</small>
+
+Derivado de lo anterior, cuando el Poder Legislativo resuelva de manera favorable la creación de un nuevo Municipio, deberá ser votado ante el Pleno por lo menos con las dos terceras partes de sus miembros, asimismo en caso de ser aprobado se designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos, desempeñado cargos de elección popular, ni sean miembros del comité gestor vigente. Ese Ayuntamiento será designado por un periodo no menor de un año, ni mayor de tres años, y deberá ser sustituido por aquél que sea elegido en los siguientes comicios ordinarios, inmediatos a la fecha de creación del nuevo Municipio.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
@@ -4304,3 +4306,11 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 10 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 10 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Período Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
