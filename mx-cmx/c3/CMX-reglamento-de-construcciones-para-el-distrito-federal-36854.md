@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2021-07-27"
+last_updated: "2021-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -526,9 +526,9 @@ II. Tome a su cargo el cumplimiento normativo del proyecto y la dirección de la
 
 III. Suscriba un dictamen de estabilidad o seguridad estructural de una obra, edificación o instalación;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
-IV. Suscriba el Visto Bueno de Seguridad y Operación de una obra, edificación o instalación; y
+IV. Suscriba el Visto Bueno de Seguridad y Operación de las Instalaciones; y
 
 V. Suscriba un documento relativo a cualquier otra modalidad que determinen las disposiciones legales y administrativas aplicables.
 
@@ -606,9 +606,9 @@ VIII. Resellar anualmente el carnet dentro de los cinco días hábiles anteriore
 
 IX. Solicitar al propietario o poseedor y/o al constructor los manuales de operación y mantenimiento para las obras que requieran de dictamen de impacto urbano o impacto urbano ambiental, de acuerdo con lo dispuesto en el Artículo 232 de este Reglamento;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
-X. Observar conjuntamente con el Corresponsable en Instalaciones, las previsiones contra incendio contenidas en el presente Reglamento y demás normas que apliquen a la edificación, para la elaboración del Visto Bueno de Seguridad y Operación, así como requerir para su revisión o elaboración el manual de operación y mantenimiento de las instalaciones contra incendio, eléctricas, de combustibles, de obra civil y otras que representen un riesgo o pongan en peligro la vida de los usuarios y terceras personas, así como los dictámenes de verificación de la instalación eléctrica y de combustible;
+X. Observar conjuntamente con el Corresponsable en Instalaciones, las previsiones contra incendio contenidas en el presente Reglamento y demás normas que apliquen a la edificación, para la elaboración del Visto Bueno de Seguridad y Operación de las Instalaciones, así como requerir para su revisión o elaboración el manual de operación y mantenimiento de las instalaciones contra incendio, eléctricas, de combustibles, de obra civil y otras que representen un riesgo o pongan en peligro la vida de los usuarios y terceras personas, así como los dictámenes de verificación de la instalación eléctrica y de combustible;
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -774,7 +774,9 @@ a) Suscriba conjuntamente con el Director Responsable de Obra una manifestación
 
 b) Suscriba la memoria de diseño y los planos del proyecto de instalaciones, o
 
-c) Suscriba conjuntamente con el Director Responsable de Obra el Visto Bueno de Seguridad y Operación.
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+c) Suscriba conjuntamente con el Director Responsable de Obra el Visto Bueno de Seguridad y Operación de las Instalaciones.
 
 ###### ARTÍCULO 39.
 
@@ -894,11 +896,11 @@ II. Cuando no hayan refrendado su registro correspondiente, y
 
 III. Cuando la Delegación expida la autorización de uso y ocupación de la obra.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 41.
 
-Para los efectos del presente Reglamento, la responsabilidad de carácter administrativo de los Directores Responsables de Obra y de los Corresponsables termina a los cinco años, salvo los casos sujetos al otorgamiento del visto bueno de seguridad y operación y la constancia de seguridad estructural, contados a partir de:
+Para los efectos del presente Reglamento, la responsabilidad de carácter administrativo de los Directores Responsables de Obra y de los Corresponsables termina a los cinco años, salvo los casos sujetos al otorgamiento del Visto Bueno de Seguridad y Operación de las Instalaciones y la Constancia de Seguridad Estructural, contados a partir de:
 
 I. La fecha en que se expida la autorización de uso y ocupación a que se refiere el artículo 70 de este Reglamento, o
 
@@ -1686,7 +1688,9 @@ Quedan exentas las reparaciones en vía pública de banquetas, guarniciones y br
 
 No se requiere manifestación de construcción ni licencia de construcción especial, para efectuar las siguientes obras:
 
-I. En el caso de las edificaciones derivadas del "Programa de Mejoramiento en Lote Familiar para la Construcción de Vivienda de Interés Social y Popular" y programas de vivienda con características semejantes promovidos por el Gobierno del Distrito Federal a través del Instituto de Vivienda del Distrito Federal de la Secretaría de Desarrollo Urbano y Vivienda, mediante el otorgamiento de créditos en sus distintas modalidades, para la construcción de vivienda de interés social o popular, misma que deberá contar con la dotación de servicios y condiciones básicas de habitabilidad que señalan este Reglamento y sus Normas, respetando el número de niveles, los coeficientes de utilización y de ocupación del suelo y en general lo establecido en los Programas de Desarrollo Urbano;
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+I. En el caso de las edificaciones derivadas del “Programa de Mejoramiento en Lote Familiar para la Construcción de Vivienda de Interés Social y Popular” y programas de vivienda con características semejantes promovidos por el Gobierno de la Ciudad de México a través del Instituto de Vivienda de la Ciudad de México, o bien, derivadas de Programas del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) o del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (FOVISSSTE), que permitan al acreditado por sí o a través de un tercero, construir, terminar su construcción, ampliar o remodelar su vivienda, mediante el otorgamiento de créditos en sus distintas modalidades, para la construcción de vivienda de interés social o popular, misma que deberá contar con la dotación de servicios y condiciones básicas de habitabilidad que señalan este Reglamento y sus Normas, respetando el número de niveles, los coeficientes de utilización y de ocupación del suelo y en general lo establecido en los Programas de Desarrollo Urbano;
 
 II. Reposición y reparación de los acabados de la construcción, así como reparación y ejecución de instalaciones, siempre que no afecten los elementos estructurales y no modifiquen las instalaciones de la misma;
 
@@ -1704,13 +1708,9 @@ VI. Demolición de hasta de 60 m2 en una edificación de un solo piso, sin afect
 
 VII. Construcciones provisionales para uso de oficinas, bodegas o vigilancia de predios durante la edificación de una obra y de los servicios sanitarios correspondientes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
-VIII. La obra pública que realice la Administración, ya sea directamente o a través de terceros; la cual deberá cumplir con los requisitos técnicos que establece el Reglamento de la Ley de Obras Públicas del Distrito Federal, éste Reglamento, sus Normas y demás instrumentos jurídico-administrativos en materia de prestación de servicios públicos urbanos, en materia de movilidad y funcionalidad de la vía pública.
-
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
-
-Los auxiliares de la Administración que otorguen su responsiva para dichas obras, darán aviso de ella a la Secretaría de Desarrollo Urbano y Vivienda, a efecto de su registro en el carnet.
+VIII. La obra pública que realice la Administración o el Gobierno Federal, ya sea directamente o a través de terceros; la cual deberá cumplir con los requisitos técnicos que establece el Reglamento de la Ley de Obras Públicas del Distrito Federal, este Reglamento, sus Normas y demás instrumentos jurídico-administrativos en materia de prestación de servicios públicos urbanos, en materia de movilidad y funcionalidad de la vía pública.
 
 IX. En pozos de exploración para estudios varios y obras de jardinería;
 
@@ -1772,21 +1772,31 @@ Las vigencias de las prórrogas se sujetarán a lo dispuesto en los artículos 5
 
 ### CAPÍTULO IV. DE LA OCUPACIÓN, DEL VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE LAS INSTALACIONES EN LAS CONSTRUCCIONES Y DE LA CONSTANCIA DE SEGURIDAD ESTRUCTURAL
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 65.
 
-Los propietarios o poseedores están obligados a dar el aviso de terminación de las obras ejecutadas por escrito a la Delegación y/o la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, en un plazo no mayor de 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la autoridad constate que las obras se hayan ejecutado sin contravenir las disposiciones de este Reglamento. El aviso antes referido deberá ser registrado por la autoridad en la base de datos de Seguimiento de Obras de la Ciudad de México y en el Sistema de Información respectivo, junto con la responsiva del Director Responsable de Obra y de los Corresponsables, en su caso.
+Los propietarios o poseedores están obligados a dar el aviso de terminación de las obras ejecutadas por escrito a la Alcaldía y/o a la Secretaría de Desarrollo Urbano y Vivienda, según corresponda, en un plazo no mayor de 15 días hábiles, contados a partir de la conclusión de las mismas, a fin de que la autoridad constate que las obras se hayan ejecutado sin contravenir las disposiciones de este Reglamento. El aviso antes referido deberá ser registrado por la autoridad en la base de datos de Seguimiento de Obras de la Ciudad de México y en el Sistema de Información respectivo, junto con la responsiva del Director Responsable de Obra y de los Corresponsables, en su caso.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
 
 Se podrá dar aviso de terminación de obra, parcial para ocupación en edificaciones que operen y funcionen independientemente del resto de la obra, las cuales deben garantizar que cuentan con los equipos de seguridad necesarios y que cumplen con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento, cuando estas hayan dado cumplimiento a las condicionantes hidráulicas contenidas en el Dictamen de Factibilidad de Servicios, así como, en el caso de proyectos que requieran de Estudio de Impacto Urbano, cumplir con la totalidad de estudios, proyectos y obras establecidas en las medidas de integración contenidas en el Estudio de Impacto Urbano a las que se refiere el artículo 93 de la Ley, y el cumplimiento de la obligación que establece la fracción III del artículo 64 de la Ley.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
+
 En caso de existir diferencia entre la obra ejecutada y los planos registrados, prevista en la fracción II del artículo 70 del presente Reglamento, el propietario, poseedor o representante legal deberán anexar dos copias de los planos que contengan dichas modificaciones, las cuales deberán cumplir con este Reglamento y sus Normas, suscritos por el propietario, poseedor o representante legal, el Director Responsable de Obra o los Corresponsables, en su caso, así como exhibir el pago de los derechos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
 
 En el caso de que los trabajos amparados con licencia de construcción especial en la vía pública contengan modificaciones, el interesado presentará dos copias legibles de los planos y el archivo electrónico de los mismos, este último será remitido a la Agencia por la Administración, en un término no mayor a 10 días hábiles posteriores a la revisión que la autoridad competente realice, así como exhibir el pago de los derechos y aprovechamientos correspondientes por los metros cuadrados de construcción adicional, de acuerdo con el Código Fiscal de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
+
 En el caso de la manifestación de construcción tipo A y la licencia de construcción especial señalada en el artículo 57, fracciones II a VIII, sólo se requiere dar aviso de terminación de obra.
 
-Para las manifestaciones de construcción tipo B y C, así como en los casos señalados en el artículo 57, fracción I de este Reglamento, la Administración otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado, cumpliendo con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento, y haya cumplido las condicionantes contenidas en el Dictamen de Factibilidad de Servicios Hidráulicos, así como con la totalidad de estudios, proyectos y obras establecidas en las medidas de integración contenidas en el Estudio de Impacto Urbano a las que se refiere el artículo 93 de la Ley, y el cumplimiento de la obligación que establece la fracción III del artículo 64 de la Ley.
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+Para las manifestaciones de construcción tipo B y C, así como en los casos señalados en el artículo 57, fracción I de este Reglamento, la Administración otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado, cumpliendo con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento, y haya cumplido en su caso con las condicionantes contenidas en el Dictamen de Factibilidad de Servicios Hidráulicos, así como con la totalidad de estudios, proyectos y obras establecidas en las medidas de integración contenidas en el Estudio de Impacto Urbano a las que se refiere el artículo 93 de la Ley, y el cumplimiento de la obligación que establece la fracción III del artículo 64 de la Ley.
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, G.O. 2 DE ABRIL DE 2019)</small>
 
@@ -1830,11 +1840,13 @@ En el caso de giros industriales, debe acompañarse de la responsiva de un Corre
 
 VI. En su caso, los resultados de las pruebas a las que se refieren los artículos 185 y 186 de este Reglamento, y
 
-VII. La declaración del propietario y del Director Responsable de Obra de que en la construcción que se trate se cuenta con los equipos y sistemas de seguridad para situaciones de emergencia, cumpliendo con las Normas y las Normas Oficiales Mexicanas correspondientes.
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
+VII. La declaración del propietario, del Director Responsable de Obra y del Corresponsable en Instalaciones en su caso, de que en la construcción que se trate se cuenta con los equipos y sistemas de seguridad para situaciones de emergencia, cumpliendo con las Normas y las Normas Oficiales Mexicanas correspondientes.
 
-El Visto Bueno de Seguridad y Operación de las Instalaciones deberá acompañarse de la Constancia de Seguridad Estructural vigente, sólo cuando el inmueble pertenezca al grupo A o subgrupo B1, de conformidad con el artículo 139 fracciones I y II, inciso a) de este Reglamento.
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+El Visto Bueno de Seguridad y Operación de las Instalaciones deberá acompañarse de la Constancia de Seguridad Estructural vigente, sólo cuando el inmueble pertenezca al grupo A o subgrupo B1, de conformidad con el artículo 139 fracciones I y II, inciso a) de este Reglamento. Para el caso de planteles educativos, el Visto Bueno de Seguridad y Operación de las Instalaciones se podrá acompañar del documento que acredite que se encuentra en proceso la revisión de la seguridad estructural de conformidad con los Lineamientos Técnicos para la Revisión de la Seguridad Estructural de Planteles Educativos después de un Sismo, vigentes.
 
 > <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
 
@@ -1869,6 +1881,12 @@ V. Ascensores para personas, montacargas, escaleras mecánicas o cualquier otro 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
 
 VI. Edificaciones o locales donde se realicen actividades de algún giro industrial en las que excedan la ocupación de 40 m2; hospitales y clínicas, albercas con iluminación subacuática, estaciones de servicio para el expendio de combustible y carburantes, así como plataformas de aterrizaje y despegue de helicópteros; para estos casos los Vistos Buenos también deberán estar suscritos por un Corresponsable en Instalaciones.
+
+> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 69 BIS. Para el caso de planteles escolares donde se imparta educación a nivel preescolar, primaria y secundaria, una vez realizado el trámite ante la Alcaldía del Visto Bueno de Seguridad y Operación de las Instalaciones del plantel educativo, el Órgano Político Administrativo deberá registrar la información solicitada en la Plataforma Electrónica “Sistema de Información de Planteles Escolares”, conforme a los Lineamientos que la Agencia Digital de Innovación Pública emita para tal fin.
+
+La Alcaldía deberá hacer del conocimiento al Instituto Local de la Infraestructura Física Educativa de la Ciudad de México del registro en la plataforma electrónica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
 
@@ -1926,6 +1944,14 @@ En edificaciones en las que no sean aplicables para la evaluación de los daños
 
 ARTÍCULO 71 QUATER.- Para el caso de planteles escolares donde se imparta educación a nivel inicial, preescolar, primaria, secundaria, media, media superior y superior, para emitir la Constancia de Seguridad Estructural se deberán aplicar los Lineamientos Técnicos para la Revisión de la Seguridad Estructural de Planteles Educativos en la Ciudad de México después de un Sismo, vigentes. En caso de daño, producido por un sismo o cualquier otra acción, se seguirá lo prescrito en el Artículo 177 Bis de este Reglamento. Si la revisión de la Seguridad Estructural a cargo del Corresponsable, determina que la construcción se encuentra en los supuestos de las Secciones 2.3.3.3 y 2.3.3.4 de las Normas de Rehabilitación, ésta debe ser desocupada y rehabilitada en un plazo no mayor que 12 meses.
 
+> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de los niveles preescolar, primaria y secundaria, una vez realizado el trámite ante la Alcaldía de la Constancia de Seguridad Estructural del plantel educativo, el Órgano Político Administrativo deberá registrar la información solicitada en la Plataforma Electrónica “Sistema de Información de Planteles Escolares”, conforme a los Lineamientos que la Agencia Digital de Innovación Pública emita para tal fin.
+
+> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+La Alcaldía deberá hacer del conocimiento al Instituto Local de la Infraestructura Física Educativa de la Ciudad de México del registro en la plataforma electrónica.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 72.
@@ -1948,7 +1974,9 @@ Recibida la documentación, la Administración procederá a su revisión y pract
 
 Para modificar el uso de edificaciones para ser destinadas a alguno de los supuestos señalados en los artículos 69, fracciones I, II y VI; 90, referentes a las edificaciones de riesgo alto, y 139 fracciones I y II, inciso a) de este Reglamento, el propietario o poseedor debe presentar ante la Administración los siguientes documentos:
 
-I. El Visto Bueno de Seguridad y Operación;
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
+
+I. El Visto Bueno de Seguridad y Operación de las Instalaciones;
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -2214,9 +2242,9 @@ Las edificaciones deben contar con las instalaciones y los equipos necesarios pa
 
 Los equipos y sistemas contra incendio deben mantenerse en condiciones para funcionar en cualquier momento, para lo cual deben ser revisados y probados periódicamente según se establezca en los manuales del fabricante, las Normas y las Normas Oficiales Mexicanas.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
-En las obras que requieran Visto Bueno de Seguridad y Operación según el artículo 69 de este Reglamento, el propietario o poseedor del inmueble llevará un libro de bitácora donde el Director Responsable de Obra y el Corresponsable, en su caso, registrarán los resultados de estas pruebas, debiendo mostrarlo a las autoridades competentes cuando éstas lo requieran.
+En las obras que requieran Visto Bueno de Seguridad y Operación de las Instalaciones según el artículo 69 de este Reglamento, el propietario o poseedor del inmueble llevará un libro de bitácora donde el Director Responsable de Obra y el Corresponsable, en su caso, registrarán los resultados de estas pruebas, debiendo mostrarlo a las autoridades competentes cuando éstas lo requieran.
 
 Para cumplir con el dictamen de prevención de incendios a que se refiere la Ley del H. Cuerpo de Bomberos del Distrito Federal, se deben aplicar con las disposiciones de esta Sección y con lo establecido en las Normas.
 
@@ -3498,17 +3526,17 @@ Los materiales, desechos y escombros provenientes de una demolición u obra en c
 
 ### CAPÍTULO I. DE LAS VISITAS DE VERIFICACIÓN
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 244.
 
-Una vez registrada la manifestación de construcción, expedida la licencia de construcción especial o el Visto Bueno de Seguridad y Operación, la Administración ejercerá las funciones de vigilancia y verificación que correspondan, de conformidad con lo previsto en la Ley, la Ley de Procedimiento Administrativo para el Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal.
+Una vez registrada la manifestación de construcción, expedida la licencia de construcción especial o el Visto Bueno de Seguridad y Operación de las Instalaciones, la Administración ejercerá las funciones de vigilancia y verificación que correspondan, de conformidad con lo previsto en la Ley, la Ley de Procedimiento Administrativo para el Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 245.
 
-Las verificaciones a que se refiere este Reglamento tienen por objeto comprobar que los datos y documentos contenidos en el registro de manifestación de construcción, la licencia de construcción especial o el Visto Bueno de Seguridad y Operación, referentes a obras o instalaciones que se encuentren en proceso o terminadas, cumplan con las disposiciones de la Ley, de los Programas, de este Reglamento, sus Normas y demás ordenamientos jurídicos aplicables.
+Las verificaciones a que se refiere este Reglamento tienen por objeto comprobar que los datos y documentos contenidos en el registro de manifestación de construcción, la licencia de construcción especial o el Visto Bueno de Seguridad y Operación de las Instalaciones, referentes a las edificaciones o instalaciones que se encuentren en proceso o terminadas, cumplan con las disposiciones de la Ley, de los Programas, de este Reglamento, sus Normas y demás ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
@@ -3628,9 +3656,9 @@ III. La obra se haya ejecutado sin observar el proyecto aprobado fuera de los l�
 
 IV. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
-V. No se haya registrado ante la Administración el Visto Bueno de Seguridad y Operación a que se refiere el artículo 68 de este Reglamento, y
+V. No se haya registrado ante la Administración el Visto Bueno de Seguridad y Operación de las Instalaciones a que se refiere el artículo 68 de este Reglamento, y
 
 VI. (DEROGADA, G.O. 12 DE ENERO DE 2015)
 
@@ -3718,9 +3746,9 @@ b) Sin autorización previa de la Secretaría de Obras y Servicios, se utilicen 
 
 c) No se acaten las disposiciones relativas contenidas en el Título Quinto de este Reglamento en la edificación de que se trate, salvo en el caso de las infracciones que prevé y sanciona el artículo 250 de este Reglamento, y
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2021)</small>
 
-d) Los Directores Responsables de Obra y Corresponsables en Instalaciones que en la elaboración del Visto Bueno de Seguridad y Operación, no hayan observado las normas de seguridad, estabilidad, prevención de emergencias, higiene y operación contenidas en el presente Reglamento;
+d) Los Directores Responsables de Obra y Corresponsables en Instalaciones que en la elaboración del Visto Bueno de Seguridad y Operación de las Instalaciones, no hayan observado las normas de seguridad, prevención de emergencias, higiene y operación contenidas en el presente Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -3945,6 +3973,14 @@ SEGUNDO.- El presente Decreto entra en vigor al día siguiente de su publicació
 G.O. 27 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL Y DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL PARA SIMPLIFICAR LAS PRÓRROGAS DE LOS TRÁMITES DE CONSTRUCCIÓN”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 10 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL PARA SIMPLIFICAR TRÁMITES DE CONSTRUCCIÓN E IMPLEMENTAR MECANISMOS DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS EN MATERIA DE SEGURIDAD ESTRUCTURAL EN INMUEBLES PERTENECIENTES AL SECTOR EDUCATIVO".]
 
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
