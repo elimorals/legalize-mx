@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-152290"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-04"
-last_updated: "2021-11-04"
+last_updated: "2021-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-26"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2021.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 4 de noviembre de 2021.
 
@@ -601,13 +601,17 @@ Establecimiento de las delegaciones.
 
 Las delegaciones se establecerán conforme a las necesidades del servicio en cada uno de los Estados de la República, identificándose con la denominación de la entidad federativa en que tengan sede, estarán adscritas orgánicamente a la Unidad de Defensa Penal. Contarán con una o un Delegado, así como con el personal profesional y administrativo que determine el presupuesto.
 
-En la Ciudad de México se contará con la Dirección de Prestación del Servicio de Defensa Penal, adscrita orgánicamente a la Unidad de Defensa Penal y tendrá una o un Director, así como el personal profesional y administrativo correspondiente.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 10 DE DICIEMBRE DE 2021)</small>
+
+En la Ciudad de México se contará con la Dirección de Prestación del Servicio de Defensa Penal, adscrita orgánicamente a la Unidad de Defensa Penal, así como las direcciones de la Unidad de Asesoría Jurídica y tendrán una o un Director, así como el personal profesional y administrativo correspondiente.
 
 ###### Artículo 18.
 
 Atribuciones y obligaciones.
 
-En el interior de la República las y los delegados, y en la Ciudad de México la o el titular de la Dirección de Prestación del Servicio en Defensa Penal, tendrán las atribuciones y obligaciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 10 DE DICIEMBRE DE 2021)</small>
+
+En el interior de la República las y los delegados, y en la Ciudad de México la o el titular de la Dirección de Prestación del Servicio en Defensa Penal, así como de las direcciones de la Unidad de Asesoría Jurídica tendrán las atribuciones y obligaciones siguientes:
 
 I. Planear, organizar, dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones institucionales con el personal profesional, administrativo, de apoyo y con personal de defensa penal adscrito en cada Delegación o en la Dirección;
 
@@ -1437,7 +1441,9 @@ I. Electrónica. En la que se verifica el cumplimiento permanente de las obligac
 
 La Dirección de Área correspondiente debe remitir el dictamen de supervisión electrónica resultante a la Unidad de Supervisión y Evaluación, y ésta concentrar el que se refiere a las personas titulares de delegaciones, a fin de que se integre al expediente de supervisión directa para efectos de evaluación, y
 
-II. Directa. Es la que instruye la persona titular del Instituto a fin de constituirse en forma física en el lugar de la Dirección de Área o Delegación a la que se encuentre adscrita la persona servidora pública sujeta a supervisión.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 10 DE DICIEMBRE DE 2021)</small>
+
+II. Directa. Es la que instruye la persona titular de la Unidad de Supervisión y Evaluación, a fin de constituirse en forma física o remota en el lugar de la Dirección de Área o Delegación a la que se encuentre adscrita la persona servidora pública sujeta a supervisión.
 
 Para el cumplimiento de los supuestos previstos en las fracciones anteriores, el personal correspondiente deberá hacer uso de la información electrónica contenida en la base de datos, antecedentes, actas o diagnósticos de supervisión, dictámenes de evaluación, cumplimiento a la normatividad, protocolos de actuación vigentes y obligatorios.
 
@@ -2048,3 +2054,13 @@ En el trámite de los procedimientos especiales, recursos, reconocimiento de ino
 De los registros electrónicos.
 
 La defensa penal o demás personal con licenciatura en derecho facultado para realizar funciones de defensa penal, generarán información documental y por medios electrónicos con el propósito de llevar el registro y expedientes de control, a fin de conocer el estado que guarda cada uno de los asuntos en que intervienen, desde el inicio de su actuación y hasta que la concluyan. Toda información generada deberá ser agregada digitalmente al Sistema Integral.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA".]
+
+PRIMERO. El presente Acuerdo y su ANEXO ÚNICO entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el transitorio siguiente.
+
+SEGUNDO. Las supervisiones cuya práctica se haya ordenado o se encuentren practicándose, antes de la publicación del presente Acuerdo, deberán llevarse a cabo y concluirse, conforme a lo dispuesto en las Bases Generales vigentes en ese momento.
