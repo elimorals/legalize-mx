@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2021-11-26"
+last_updated: "2021-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -2001,9 +2001,9 @@ VIII. Igualdad de Género y Derechos Humanos. Tiene a su cargo la atención de a
 
 IX. Desarrollo agropecuario y rural sustentable. Tiene a su cargo la atención de asuntos en materia de agricultura, ganadería, silvicultura, apicultura y acuicultura, así como de política para el desarrollo rural; abasto y medidas para garantizar la autosuficiencia agroalimentaria en el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2021)</small>
 
-X. Desarrollo económico y comercio. Tiene a su cargo la atención de asuntos en materia de desarrollo industrial, comercial, fomento de inversiones productivas y economía solidaria en el Estado de Querétaro;
+X. Desarrollo económico sustentable, emprendimiento y comercio. Tiene a su cargo la atención de asuntos en materia de desarrollo económico sustentable, industrial, comercial, fomento de inversiones productivas, emprendimiento, y economía solidaria en el Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3328,3 +3328,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. Todas las referencias previstas en otras disposiciones jurídicas relativas a la Comisión de Trabajo y Previsión Social, se entenderán a la Comisión Seguimiento de la Agenda 2030.
 
 Artículo Cuarto. Los asuntos que a la fecha de la aprobación de la presente reforma se encuentren en trámite ante la Comisión de Trabajo y Previsión Social, serán substanciados y dictaminados por la Comisión Seguimiento de la Agenda 2030.
+
+P.O. 10 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL LA “LEY QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
