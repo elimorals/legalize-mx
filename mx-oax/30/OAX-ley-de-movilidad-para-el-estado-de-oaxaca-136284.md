@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-12-04"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -143,7 +143,9 @@ Para efectos de aplicación e interpretación de esta Ley, se entenderá por:
 
 I. APLICACIÓN MÓVIL: Programa informático o plataforma electrónica, destinada a ofrecer servicios relacionados con la movilidad y el transporte, de geolocalización para la búsqueda y contacto virtual de prestadores del servicio con los usuarios, así como para la contratación y pago de servicios; ejecutada en dispositivos fijos o móviles mediante el uso de Internet, bajo la cual deberán operar los concesionarios del servicio de transporte público;
 
-II. ÁREA DE ESPERA CICLISTA: Zona marcada sobre el pavimento generalmente de color verde esmeralda con un símbolo de una bicicleta en su interior y antes o después de la zona peatonal, en una intersección de vías que tengan semáforos, que permite a los conductores de estos vehículos aguardar la luz verde del semáforo en una posición adelantada, de tal forma que sean visibles a los conductores del resto de los vehículos;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+II. ÁREA DE ESPERA PARA VEHÍCULOS NO MOTORIZADOS Y MOTOCICLETAS: Zona marcada sobre el pavimento en una intersección de calle que tenga semáforo, que permite a los conductores de estos vehículos aguardar la luz verde del semáforo en una posición adelantada, de tal forma que sean visibles a los conductores de otros vehículos. Consistente en dos rayas de alto, una separada a 1.20 metros inmediatamente antes del cruce peatonal y otra raya de alto separada 4 metros de la anterior. Entre las dos rayas de alto se deben colocar pictogramas de bicicleta y motocicleta;
 
 III. AUTORIDADES COMPETENTES:
 
@@ -283,21 +285,29 @@ LXII. TRANSPORTE PRIVADO: El que tiene por objeto satisfacer las necesidades par
 
 LXIII. USUARIO DE TRANSPORTE: La persona que utiliza el Servicio de Transporte a cambio del pago de la tarifa previamente autorizada;
 
-LXIV. VÍA PÚBLICA: Todo espacio de dominio público y de uso común destinado al tránsito de personas, bienes y vehículos;
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-LXV. VIAJE ESPECIAL: Aquel que se realiza fuera del lugar para el que fue otorgada la concesión, sin hacer escalas en puntos intermedios y sin ascenso de pasajeros, de manera espontánea;
+LXIV. VEHÍCULO ELÉCTRICO: Es aquel que utiliza baterías de energía eléctrica como fuente de energía, impulsado por uno o más motores eléctricos;
 
-LXVI. VÍAS PRIMARIAS: Este tipo de calles contemplan rutas principales que conectan la ciudad, con un alto número de circulación vehicular entre sus características encontramos: una alta cantidad de circulación diaria, más de seis carriles con uno o dos sentidos, autobuses con carril exclusivo o laterales, regularmente no cuentan con estacionamiento sobre la calle;
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-LXVII. VÍAS SECUNDARIAS: Estas calles conectan con diferentes áreas de la ciudad, pueden ser arterias principales dentro de los municipios y colonias sus características principales son: cuenta con cuatro a seis carriles con uno o dos sentidos, autobuses sin carril propio, estacionamientos sobre la calle, más transitada por peatones ciclistas de menor velocidad por congestión vial;
+LXV. VEHÍCULO HÍBRIDO: Es aquel que cuenta con dos motores: uno eléctrico y uno a combustión;
 
-LXVIII. VÍAS TERCIARIAS: Son vías terciarias que dan acceso a los predios y zonas habitacionales, sus cruces se semaforizan sólo en intersecciones con vías secundarias, Por ejemplo, las calles locales convencionales, pueden ser de doble sentido, generalmente tienen de dos a cuatro carriles, dos de circulación y dos de estacionamiento, sus características principales varían según el tipo de uso de suelo y son delimitados por marcas en el pavimento;
+LXVI. VÍA PÚBLICA: Todo espacio de dominio público y de uso común destinado al tránsito de personas, bienes y vehículos;
 
-LXIX. ZONA CONURBADA: Zona formada por dos o más centros de población de dos o más Municipios del Estado con continuidad demográfica;
+LXVII. VIAJE ESPECIAL: Aquel que se realiza fuera del lugar para el que fue otorgada la concesión, sin hacer escalas en puntos intermedios y sin ascenso de pasajeros, de manera espontánea;
 
-LXX. ZONA DE ESPERA: Espacio destinado para que los ciclistas se detengan en los cruceros y esquinas de las calles que tengan semáforos; el cual deberá ubicarse detrás de las áreas señaladas para el cruce de peatones y estará señalada; y
+LXVIII. VÍAS PRIMARIAS: Este tipo de calles contemplan rutas principales que conectan la ciudad, con un alto número de circulación vehicular entre sus características encontramos: una alta cantidad de circulación diaria, más de seis carriles con uno o dos sentidos, autobuses con carril exclusivo o laterales, regularmente no cuentan con estacionamiento sobre la calle;
 
-LXXI. ZONA PEATONAL: Área destinada para el uso exclusivo de peatones.
+LXIX. VÍAS SECUNDARIAS: Estas calles conectan con diferentes áreas de la ciudad, pueden ser arterias principales dentro de los municipios y colonias sus características principales son: cuenta con cuatro a seis carriles con uno o dos sentidos, autobuses sin carril propio, estacionamientos sobre la calle, más transitada por peatones ciclistas de menor velocidad por congestión vial;
+
+LXX. VÍAS TERCIARIAS: Son vías terciarias que dan acceso a los predios y zonas habitacionales, sus cruces se semaforizan sólo en intersecciones con vías secundarias. Por ejemplo, las calles locales convencionales, pueden ser de doble sentido, generalmente tienen de dos a cuatro carriles, dos de circulación y dos de estacionamiento, sus características principales varían según el tipo de uso de suelo y son delimitados por marcas en el pavimento;
+
+LXXI. ZONA CONURBADA: Zona formada por dos o más centros de población de dos o más Municipios del Estado con continuidad demográfica;
+
+LXXII. ZONA DE ESPERA: Espacio destinado para que los ciclistas se detengan en los cruceros y esquinas de las calles que tengan semáforos; el cual deberá ubicarse detrás de las áreas señaladas para el cruce de peatones y estará señalada; y
+
+LXXIII. ZONA PEATONAL: Área destinada para el uso exclusivo de peatones.
 
 ###### Artículo 5.
 
@@ -813,7 +823,11 @@ XLII. Proponer al Gobernador para su aprobación, con base en los estudios corre
 
 XLIII. Establecer en el Programa Integral de Movilidad, la política de estacionamiento; así como emitir la normatividad, los manuales y lineamientos técnicos para su regulación;
 
-XLIV. Las demás que establezca la presente Ley, su reglamento, y la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, y demás disposiciones legales aplicables en la materia.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+XLIV. Promover la utilización de vehículos motorizados que cuenten con tecnologías sustentables, tales como vehículos híbridos o vehículos eléctricos utilizados para el transporte privado, así como proponer a la Secretaría de Finanzas los estímulos fiscales aplicables a los contribuyentes que cuenten con este tipo de vehículos; y
+
+XLV. Las demás que establezca la presente Ley, su reglamento, y la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, y demás disposiciones legales aplicables en la materia.
 
 ###### Artículo 38.
 
@@ -2026,6 +2040,10 @@ III. Vehículos para la seguridad pública, salvamento y rescate.
 Los vehículos deberán contar con los dispositivos necesarios para prevenir y controlar la emisión de ruidos y gases que propicien la contaminación ambiental, debiendo someterse a las verificaciones de emisión de gases, con los términos que la normatividad en materia ambiental determine.
 
 Así también, deberán contar con dispositivos de identificación y control vehicular, para tal efecto los propietarios de vehículos deberán solicitar ante la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Oaxaca su inscripción al registro público correspondiente, conforme la normatividad en la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+La verificación de emisiones de gases para los vehículos híbridos estará sujeta a los términos establecidos en el Reglamento y a la normatividad en materia ambiental que lo determine.
 
 ###### Artículo 163.
 
@@ -3416,6 +3434,14 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 4 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2927.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 120 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2926.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 4; Y SE ADICIONAN LAS FRACCIONES LXIV Y LXV RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 4, LA FRACCIÓN XLIV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 37 Y EL PÁRRAFO TERCERO AL ARTÍCULO 162 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
