@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2021-10-09"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -95,7 +95,9 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Atención médica, al conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud, la cual podrá apoyarse de medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría de Salud;
 
-Se entiende por grupos vulnerabilizados, a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores, hombres con afecciones mentales y personas que se encuentran en situación de calle, de emergencia o desastre.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+Se entiende por grupos vulnerabilizados, a la niñez, adolescencia, juventud, mujeres y personas con capacidad de gestar en condiciones de embarazo y puerperio, menopausia, adultos mayores, personas con discapacidad y población que se encuentra en situación de calle, de emergencia o desastre.
 
 II. Asistencia social:
 
@@ -123,7 +125,9 @@ a) Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 b) Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, así como de las medidas de adaptación a los efectos del cambio climático; y
 
-c) Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+c) Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y anticoncepción, interrupción legal del embarazo, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
@@ -168,6 +172,14 @@ XVI. Sobrepeso, El exceso de peso en relación con la edad y la estatura, en adu
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
 XVII. Trastornos de la conducta alimentaria, grupo de trastornos mentales caracterizados por una conducta alterada ante la ingesta alimentaria o la aparición de comportamientos para el control de peso, mismos que conllevan problemas, físicos y afecciones al comportamiento psicológico y social del individuo y su entorno.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Interrupción Legal del Embarazo: procedimiento médico que se realiza a solicitud de la persona embarazada hasta la décima segunda semana completa de gestación, como parte de una atención integral basada en el derecho de las mujeres a decidir sobre su vida reproductiva en condiciones de atención médica segura;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+XIX. Interrupción Voluntaria del Embarazo: procedimiento médico que a solicitud de la persona embarazada realizan los integrantes del Sistema de Salud del Estado de Colima, como consecuencia de una violación sexual, sin que la usuaria lo haya denunciado ante las autoridades competentes, lo anterior en términos de lo previsto en la NOM-046-SSA2-2005 y normativa aplicable;
 
 ###### Artículo 4.
 
@@ -563,27 +575,37 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 La Secretaría, con la participación que corresponda al Comité de Planeación para el Desarrollo del Estado de Colima, elaborará el programa respectivo de salud, tomando en cuenta las prioridades y servicios del Sistema.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-Las instituciones públicas de salud del Gobierno del Estado de Colima, gratuitamente y en condiciones de calidad, deberán proceder a la interrupción del embarazo en los supuestos permitidos en el Código Penal para el Estado de Colima, cuando la mujer interesada así lo solicite. Para la cual, dichas instituciones de salud deberán proporcionar, servicios de consejería médica y social con información veraz y oportuna de otras opciones con que cuentan las mujeres además de la interrupción legal del embarazo, tales como la adopción o los programas sociales de apoyo, así como las posibles consecuencias en su salud.
+La atención a la salud sexual, reproductiva y de planificación familiar es prioritaria. Por lo que, las instituciones públicas de salud del Gobierno del Estado de Colima, gratuitamente y en condiciones de calidad, deberán proceder a la interrupción del embarazo en los supuestos permitidos en el Código Penal para el Estado de Colima, cuando la mujer o persona gestante interesada así lo solicite.
 
-La interrupción del embarazo deberá realizarse en un término de cinco días, contados a partir de que sea emitida la autorización del Ministerio Público, una vez satisfechos los requisitos establecidos en la legislación aplicable.
+Para la cual, estos servicios que se presten en la materia, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad y con perspectiva de género.
 
-En los casos de aborto contemplados en las fracciones II, III y IV del artículo 190 del Código Penal para el Estado de Colima, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+En todo momento, los médicos tendrán la obligación de proporcionar a la persona embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que se pueda tomar la decisión de manera libre, informada y responsable.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 30.
 
-Los prestadores de los servicios de salud a quienes corresponda practicar la interrupción del embarazo en los casos permitidos por el Código Penal para el Estado de Colima, y cuyas creencias religiosas o convicciones personales sean contrarias a tal interrupción, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en la interrupción del embarazo, debiendo referir a la mujer con un médico no objetor.
+El médico a quien corresponda practicar la interrupción legal del embarazo y cuyas creencias religiosas o convicciones personales sean contrarias a tal procedimiento, podrá ser objetor de conciencia y, por tal razón, excusarse de realizarla, teniendo la obligación de referir de inmediato y por escrito a la mujer o persona gestante con un médico no objetor.
 
-Será obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal no objetor de conciencia en la materia.
+Cuando sea urgente la interrupción del embarazo para salvaguardar la salud o la vida de la mujer o persona gestante no podrá invocarse la objeción de conciencia.
+
+Es obligación de las instituciones públicas de salud del Gobierno garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud no objetor de conciencia en la materia.
 
 ###### Artículo 31.
 
 La atención a la salud sexual, reproductiva y de planificación familiar y anticonceptiva es prioritaria. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
-El Gobierno promoverá y aplicará permanentemente y de manera intensiva, políticas y programas integrales tendentes a la educación y capacitación sobre salud sexual, derechos reproductivos, así como a la maternidad y paternidad responsables. Los servicios de planificación familiar y anticoncepción que ofrezca, tienen como propósito principal reducir el índice de embarazos no deseados, mediante la prevención, disminuir el riesgo, evitar la propagación de infecciones de transmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas y niños, adolescentes y jóvenes.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-El Gobierno otorgará servicios de consejería médica y social en materia de la atención a la salud sexual y reproductiva, los cuales funcionarán de manera permanente otorgando servicios gratuitos que ofrecerán información, difusión y orientación en la materia, así como el suministro constante de todos aquellos métodos anticonceptivos cuya eficacia y seguridad estén acreditadas científicamente. También, ofrecerán apoyo médico a la mujer que decida practicarse la interrupción de su embarazo, en los términos de esta Ley y de las disposiciones legales aplicables.
+El Gobierno promoverá y aplicará permanentemente y de manera intensiva, políticas y programas integrales tendientes a la educación y capacitación sobre salud sexual, derechos reproductivos, así como a la maternidad y paternidad responsables. Los servicios de planificación familiar y anticoncepción que ofrezca, tienen como propósito reducir el índice de interrupciones de embarazos, mediante la prevención de aquellos no planeados y no deseados, así como disminuir el riesgo reproductivo, evitar la propagación de infecciones de transmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas y niños, adolescentes y jóvenes.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+El Gobierno otorgará servicios de consejería médica y social en materia de la atención a la salud sexual y reproductiva, los cuales funcionarán de manera permanente otorgando servicios gratuitos que ofrecerán información, difusión y orientación en la materia, así como el suministro constante de todos aquellos métodos anticonceptivos cuya eficacia y seguridad estén acreditadas científicamente.
 
 ###### Artículo 32.
 
@@ -611,13 +633,19 @@ X. La prevención y atención médica integral de las infecciones de transmisió
 
 ### Capítulo II. Atención Materno-Infantil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-Toda mujer en el Estado de Colima tiene derecho a la maternidad. Para posibilitar este derecho fundamental de las mujeres, el Estado fomentará y propiciará las condiciones para hacerlo efectivo. Asimismo, podrá celebrar convenios de coordinación con la Federación, otros Estados y los Municipios para la consecución de este objetivo.
+Toda mujer o persona con capacidad de gestar en el Estado de Colima tiene derecho a la maternidad. Para posibilitar este derecho fundamental, el Estado fomentará y propiciará las condiciones para hacerlo efectivo. Asimismo, podrá celebrar convenios de coordinación con la Federación, otros Estados y los Municipios para la consecución de este objetivo.
 
-La protección materno-infantil abarca el período que incluye el embarazo, el parto, el post-parto y el puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el producto. Dicha protección tiene carácter prioritario y comprende, de manera enunciativa y no limitativa, las siguientes acciones:
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+La protección materno-infantil abarca el período que incluye el embarazo, el parto, el post-parto y el puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer o persona gestante y el producto. Dicha protección tiene carácter prioritario y comprende, de manera enunciativa y no limitativa, las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+I. La atención integral de la mujer o persona gestante durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
 II. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal; así como la prevención, detección y, en su caso, atención de las condiciones y enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado;
 
@@ -627,9 +655,11 @@ IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nac
 
 V. La atención del niño y su vigilancia durante el crecimiento y desarrollo, promoviendo la integración y el bienestar familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-Toda mujer en el período de protección materno-infantil tendrá las siguientes prerrogativas:
+Toda mujer o persona gestante en el período de protección materno-infantil tendrá las siguientes prerrogativas:
 
 I. Con relación al ejercicio igualitario de sus derechos:
 
@@ -637,15 +667,23 @@ a) Gozar de estabilidad en el empleo, cargo u ocupación que desarrolle, a no de
 
 b) Ocupar cargos de elección popular o de designación en los órganos de gobierno del Estado o Ayuntamientos, en igualdad de condiciones que lo hacen los varones o mujeres no embarazadas;
 
-c) Recibir educación, por lo que no podrá restringirse el acceso de las mujeres embarazadas a los centros de educación pública o privada;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-d) Accesar a los Centros de Atención a la Mujer, gubernamentales o privados; y
+c) Recibir educación, por lo que no podrá restringirse el acceso a las mujeres o personas gestantes embarazadas a los centros de educación pública o privada;
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+d) Acceder a los Centros de Atención a la Mujer, gubernamentales o privados; y
 
 e) Recibir la ayuda psicológica o psiquiátrica durante el embarazo y después del parto, cuando se trate de embarazos no previstos. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad.
 
-II. Con relación a la prestación de los servicios de salud, las mujeres embarazadas tienen los siguientes derechos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-a) Ser informadas sobre las opciones disponibles legalmente en relación con el embarazo, el parto y la crianza de sus hijos y a recibir información detallada sobre todos los lugares, profesionales y métodos disponibles para el parto;
+II. Con relación a la prestación de los servicios de salud, las mujeres o personas gestantes embarazadas tienen los siguientes derechos:
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+a) Ser informadas sobre las opciones disponibles legalmente en relación con el embarazo, la interrupción legal del embarazo, el parto y la crianza de sus hijos y a recibir información detallada sobre todos los lugares, profesionales y métodos disponibles para el parto;
 
 b) Recibir información completa y actualizada sobre los beneficios y riesgos de todos los procedimientos, fármacos y pruebas que se usan durante el embarazo, parto y posparto;
 
@@ -669,25 +707,31 @@ j) A ser informadas sobre el sistema de orientación y quejas disponibles para i
 
 Durante el embarazo, se establecen las siguientes prohibiciones:
 
-I. En cualquier actividad que desarrolle la mujer embarazada, no podrá ser expuesta al contacto con agentes infectocontagiosos e inhalación de substancias tóxicas volátiles, o a trabajar en áreas con emanaciones radioactivas o contacto con substancias materiales o fluidos explosivos o peligrosos. Tampoco se les podrá obligar a realizar actividades físicas vigorosas, violentas o de levantamiento de pesos y cargas que pongan en riesgo su salud y la del bebé.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-Las mujeres que realicen actividades de pie en su trabajo, contarán con el derecho a sillas o asientos cómodos que les permitan reducir el agotamiento y los riesgos de salud inherentes; y
+I. En cualquier actividad que desarrolle la mujer o personas con capacidad de gestar embarazada, no podrá ser expuesta al contacto con agentes infectocontagiosos e inhalación de substancias tóxicas volátiles, o a trabajar en áreas con emanaciones radioactivas o contacto con substancias materiales o fluidos explosivos o peligrosos. Tampoco se les podrá obligar a realizar actividades físicas vigorosas, violentas o de levantamiento de pesos y cargas que pongan en riesgo su salud y la del bebé.
 
-II. No se podrá negar el acceso a mujeres embarazadas con hijos en infancia temprana, a los establecimientos mercantiles de acceso al público bajo regulación del Estado o los Municipios, a menos que se trate de prohibiciones fundadas y acreditadas en la misma ley o que pongan en riesgo su salud o la de sus hijos.
+Las mujeres o personas con capacidad de gestar que realicen actividades de pie en su trabajo, contarán con el derecho a sillas o asientos cómodos que les permitan reducir el agotamiento y los riesgos de salud inherentes; y
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+II. No se podrá negar el acceso a las mujeres o personas con capacidad de gestar embarazadas con hijos en infancia temprana, a los establecimientos mercantiles de acceso al público bajo regulación del Estado o los Municipios, a menos que se trate de prohibiciones fundadas y acreditadas en la misma ley o que pongan en riesgo su salud o la de sus hijos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 36.
 
-En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán además con atención especializada a efecto de garantizar su salud y la del niño en gestación, otorgando las mejores condiciones de atención médica procurando que los responsables de la atención cuenten con la certificación de médico especialista, conforme a lo dispuesto por el artículo 81 de la Ley General de Salud.
+En el caso de las mujeres o personas con capacidad de gestar embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán además con atención especializada a efecto de garantizar su salud y la del producto en gestación, otorgando las mejores condiciones de atención médica procurando que los responsables de la atención cuenten con la certificación de médico especialista, conforme a lo dispuesto por el artículo 81 de la Ley General de Salud.
 
 Asimismo, se deberá garantizar la confidencialidad de la identidad de la madre, del padre y del niño en todo momento, conforme a la legislación aplicable.
 
 Tratándose de partos prematuros o de madres con el síndrome de inmunodeficiencia adquirida, el Estado podrá llevar a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-A partir del momento en que un médico del servicio de salud público o privado tenga conocimiento de que una de sus pacientes se encuentra embarazada, tiene la obligación de informarle sobre la existencia de estas disposiciones, de su objeto y de la protección que brinda a las mujeres embarazadas.
-
-Deberá enfatizarse la difusión de esta información, tratándose de población con desventaja socioeconómicas y embarazadas adolescentes.
+A partir del momento en que un médico del servicio de salud público o privado tenga conocimiento de que una de sus pacientes se encuentra embarazada, tiene la obligación de informarle sobre la existencia de estas disposiciones, de su objeto y de la protección que brinda a las mujeres o personas con capacidad de gestar embarazadas, así como de su derecho a acceder a una interrupción legal de embarazo en los términos de las leyes en la materia.
 
 ###### Artículo 38.
 
@@ -711,7 +755,9 @@ V. Acciones de capacitación para fortalecer la competencia técnica de las part
 
 La Secretaría impulsará la participación de los sectores sociales y privados, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, mediante la creación de Redes de Apoyo a la Salud Materno-Infantil, en el ámbito de su competencia.
 
-Lo anterior tendrá la finalidad de poner a disposición de las mujeres embarazadas, la información sobre la prestación de servicios médicos en esta materia, y en su caso, brindarles apoyo para acceder a éstos.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+Lo anterior tendrá la finalidad de poner a disposición de las mujeres o personas con capacidad de gestar embarazadas, la información sobre la prestación de servicios médicos en esta materia, y en su caso, brindarles apoyo para acceder a éstos.
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
 
@@ -723,7 +769,9 @@ I.- Los programas para padres destinados a promover la atención materno-infanti
 
 II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes; y
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres o personas con capacidad de gestar embarazadas.
 
 ###### Artículo 42.
 
@@ -1139,6 +1187,8 @@ El Estado, adoptará todas las medidas legislativas, administrativas y de cualqu
 
 La Secretaría impulsará la participación del sector público y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud respecto a las personas que hayan sido intervenidas en cirugía reconstructiva de senos, mediante redes de apoyo, en el ámbito de sus respectivas competencias.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 62 Ter.
 
 El Consejo Directivo del Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima se integrará de la siguiente manera:
@@ -1163,11 +1213,61 @@ Las atribuciones, funcionamiento y operación del Consejo Directivo, así como l
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-### Capítulo I. Disposiciones Comunes
+### CAPÍTULO IX. INTERRUPCIÓN LEGAL DEL EMBARAZO
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 62 Quinquies.
+
+(sic) Cuando una mujer o persona con capacidad de gestar en ejercicio de su autonomía reproductiva, decida interrumpir su embarazo de manera voluntaria podrá hacerlo hasta la décima segunda semana de gestación.
+
+Las instituciones públicas de salud del Gobierno procederán a la interrupción del embarazo, en forma gratuita, segura, expedita, confidencial, digna, y en condiciones de calidad, en los supuestos permitidos en el Código Penal para el Estado de Colima y en la NOM-046-SSA2-2005, cuando la mujer interesada así lo solicite.
+
+Para ello, las instituciones de salud pondrán a disposición de las mujeres o personas gestantes, servicios de consejería médica, psicológica y social con información veraz y oportuna de las opciones con que cuentan las mujeres o personas gestantes y su derecho a decidir.
+
+Las instituciones de salud del Gobierno atenderán las solicitudes de interrupción del embarazo a todas las mujeres o personas gestantes solicitantes aun cuando cuenten con algún otro servicio de salud público o privado. El servicio tendrá carácter universal, gratuito y sin condicionamiento alguno.
+
+También ofrecerán servicios de salud sexual, reproductiva y de planificación familiar a la mujer o persona con capacidad de gestar que haya practicado la interrupción de su embarazo, en los términos de esta Ley y de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 62 Sexies.
+
+Los servicios de interrupción legal del embarazo comprenden:
+
+I. La inducción de un aborto o interrupción del embarazo, de conformidad con las guías y los protocolos de buenas prácticas emitidos por las autoridades sanitarias nacionales e internacionales.
+
+Al momento de inducir un aborto, deberán priorizarse las intervenciones menos invasivas, pero igualmente efectivas, de entre las opciones existentes según el momento del proceso de gestación en que se encuentre el embarazo;
+
+II. Consejería médica, psicológica y social, con información clara, precisa, veraz y oportuna, basada en la mejor evidencia científica disponible, antes y después del aborto si así lo solicita la usuaria, y durante el tiempo que la propia usuaria estime necesario, independientemente de que el aborto haya sido inducido o espontáneo;
+
+III. Atención médica de urgencias en respuesta a cualquier efecto secundario o complicación derivada del procedimiento clínico empleado para un aborto inducido, y
+
+IV. Atención médica de urgencias para la atención de un aborto espontáneo.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 62 Septies.
+
+Los profesionales de la salud deberán, en todo momento y de manera absoluta, abstenerse de tratar de influenciar a la mujer embarazada o persona gestante para que cambie o revierta su decisión, o de cuestionar los motivos de la misma. Igualmente, deberán respetar el derecho de las usuarias a cambiar su decisión.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 62 Octies.
+
+Cuando la persona gestante decida practicarse la interrupción del embarazo, la institución habrá de efectuarla en un término no mayor a cinco días, contados a partir de que sea presentada la solicitud y satisfechos los requisitos establecidos en las disposiciones aplicables.
+
+Los servicios de interrupción legal del embarazo se considerarán servicios de atención médica de urgencia, cuando:
+
+I. Sea peligrosa la demora para preservar la vida o la salud de la mujer embarazada o persona gestante;
+
+II. El embarazo sea resultado de violencia sexual, o
+
+III. Esté próximo a vencer el plazo para inducir una interrupción legal y segura.
 
 ## Título Tercero. Salubridad Local
 
-### Capítulo II. Mercados y Centros de Abasto
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 63.
 
@@ -1213,7 +1313,7 @@ La Secretaría expedirá las normas técnicas a que quedará sujeto el control s
 
 La Secretaría publicará en el Periódico Oficial, las normas técnicas en materia de salubridad local y, en caso de considerarlo necesario, las resoluciones que dicte sobre la revocación de las autorizaciones sanitarias.
 
-### Capítulo III. Construcciones
+### Capítulo II. Mercados y Centros de Abasto
 
 ###### Artículo 69.
 
@@ -1231,7 +1331,7 @@ La Secretaría verificará que los mercados y centros de abasto, sean provisiona
 
 Los administradores, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénico-sanitarias para el debido mantenimiento de sus locales y a sujetar el ejercicio de los mismos a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### Capítulo IV. Cementerios, Crematorios y Funerarias
+### Capítulo III. Construcciones
 
 ###### Artículo 72.
 
@@ -1265,7 +1365,7 @@ Cuando los edificios, locales, construcciones o terrenos presenten un peligro, p
 
 Los propietarios o poseedores de los negocios establecidos en edificios o locales, están obligados a ejecutar las obras sanitarias que se requieran para cumplir con las disposiciones de higiene que establezca esta Ley, reglamentos y demás disposiciones relativas.
 
-### Capítulo V. Limpieza Pública
+### Capítulo IV. Cementerios, Crematorios y Funerarias
 
 ###### Artículo 80.
 
@@ -1285,7 +1385,7 @@ La aprobación de las solicitudes de conservación, refrigeración, exhumación 
 
 Para el traslado de cadáveres humanos se estará a lo dispuesto por la Ley General.
 
-### Capítulo VI. Rastros
+### Capítulo V. Limpieza Pública
 
 ###### Artículo 83.
 
@@ -1321,7 +1421,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 Los Ayuntamientos proveerán y colocarán depósitos de basura en los parques, jardines, paseos y en otros lugares de la vía pública; además, realizarán el aseo y mantenimiento de los mismos, cada vez que sea necesario.
 
-### Capítulo VII. Agua Potable
+### Capítulo VI. Rastros
 
 ###### Artículo 88.
 
@@ -1377,7 +1477,7 @@ Queda a cargo del municipio, en el ámbito de su competencia, las actividades de
 
 La Secretaría podrá verificar en cualquier tiempo, el cumplimiento de la presente Ley y demás disposiciones legales aplicables.
 
-### Capítulo VIII. Establos, Granjas Avícolas, Porcícolas, Apiarios y Establecimientos Similares
+### Capítulo VII. Agua Potable
 
 ###### Artículo 99.
 
@@ -1405,7 +1505,7 @@ Queda prohibido que los desechos que conduzcan los caños sean vertidos en ríos
 
 La infracción a esta disposición se sancionará de conformidad con los ordenamientos legales aplicables.
 
-### Capítulo IX. Zonas de Tolerancia y Prostitución
+### Capítulo VIII. Establos, Granjas Avícolas, Porcícolas, Apiarios y Establecimientos Similares
 
 ###### Artículo 105.
 
@@ -1437,7 +1537,7 @@ Los certificados podrán suscribirse con la firma autógrafa o con la firma elec
 
 Los establecimientos que se encuentren en el supuesto del artículo anterior, la Secretaría podrá ordenar la desocupación de los mismos siguiendo el procedimiento correspondiente.
 
-### Capítulo X. Reclusorios y Centros de Readaptación Social
+### Capítulo IX. Zonas de Tolerancia y Prostitución
 
 ###### Artículo 109.
 
@@ -1465,7 +1565,7 @@ II. A las personas que padezcan de alguna enfermedad sexualmente transmisible u 
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### Capítulo XI. Baños Públicos
+### Capítulo X. Reclusorios y Centros de Readaptación Social
 
 ###### Artículo 113.
 
@@ -1483,6 +1583,20 @@ Los responsables de la aplicación de los servicios médicos, coadyuvarán a la 
 
 Para tal efecto, los directores de dichas instituciones deberán proveer de todos los elementos, equipos y materiales para prevenir, y en su caso, contrarrestar los riesgos y daños en la salud de los internos.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 113 Bis.
+
+Los centros de reinserción social que contengan reclusas femeninas, contarán de forma permanente con servicios médicos de atención integral de la salud materno infantil. Para tal efecto, la Secretaría tendrá, entre otras, las siguientes atribuciones:
+
+I. Elaborar programas de salud integral de las mujeres o personas con capacidad de gestar, desde una perspectiva de género, poniendo énfasis en la salud sexual y reproductiva, que consideren como mínimo la realización de estudios de detección de enfermedades y atención de cáncer de mama y cervicouterino, así como de VIH/SIDA para quienes lo soliciten, además de llevar a cabo campañas informativas de salud materno-infantil;
+
+II. Facilitar el acceso oportuno, bajo consentimiento informado, a métodos anticonceptivos, anticoncepción de emergencia, interrupción legal del embarazo y de información sobre atención materno-infantil;
+
+III. Desarrollar programas para la prevención y atención de los problemas derivados por el consumo de sustancias psicoactivas entre las mujeres o personas con capacidad de gestar en reclusión, y
+
+IV. La atención integral del embarazo, parto, puerperio y del recién nacido, así como la atención integral a la salud de madres e hijos que permanezcan con ellas, hasta los seis años de edad.
+
 ###### Artículo 114.
 
 Los reclusorios y centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un consultorio médico que tenga el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea necesario su traslado a un hospital.
@@ -1491,7 +1605,7 @@ Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamie
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
-### Capítulo XII. Centros de Reunión y Espectáculos Públicos
+### Capítulo XI. Baños Públicos
 
 ###### Artículo 115.
 
@@ -1501,7 +1615,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
 
-### Capítulo XIII. Establecimientos Dedicados a la Prestación de Servicios
+### Capítulo XII. Centros de Reunión y Espectáculos Públicos
 
 ###### Artículo 117.
 
@@ -1511,7 +1625,7 @@ Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
-### Capítulo XIV. Establecimientos Dedicados a la Cirugía Estética, Plástica y Reconstructiva
+### Capítulo XIII. Establecimientos Dedicados a la Prestación de Servicios
 
 ###### Artículo 119.
 
@@ -1533,7 +1647,7 @@ Corresponde a la autoridad sanitaria ejercer el control sanitario de los estable
 
 El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### Capítulo XV. Establecimientos para el Hospedaje
+### Capítulo XIV. Establecimientos Dedicados a la Cirugía Estética, Plástica y Reconstructiva
 
 ###### Artículo 123.
 
@@ -1551,7 +1665,7 @@ El funcionamiento de los establecimientos señalados en este capítulo deberá a
 
 La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
 
-### Capítulo XVI. Transporte Público
+### Capítulo XV. Establecimientos para el Hospedaje
 
 ###### Artículo 127.
 
@@ -1571,7 +1685,7 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
-### Capítulo XVII. Gasolineras y Establecimientos Similares
+### Capítulo XVI. Transporte Público
 
 ###### Artículo 131.
 
@@ -1581,7 +1695,7 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
-### Capítulo XVIII. Centros Antirrábicos
+### Capítulo XVII. Gasolineras y Establecimientos Similares
 
 ###### Artículo 133.
 
@@ -1591,7 +1705,7 @@ Para los efectos de esta Ley, se entiende por gasolinería y estaciones de servi
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higiénico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### Capítulo XIX. Casas, Edificios y en general cualquier Inmueble de Dominio Público ó Privado
+### Capítulo XVIII. Centros Antirrábicos
 
 ###### Artículo 135.
 
@@ -1627,7 +1741,7 @@ Los propietarios serán responsables de las lesiones y daños a terceros que cau
 
 Las autoridades competentes mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la rabia.
 
-### Capítulo I. Autorizaciones
+### Capítulo XIX. Casas, Edificios y en general cualquier Inmueble de Dominio Público ó Privado
 
 ###### Artículo 139.
 
@@ -1645,7 +1759,7 @@ En caso de incumplimiento por parte de los propietarios o poseedores de dichos e
 
 ## Título Cuarto. Autorizaciones y Certificados
 
-### Capítulo II. Revocación de las Autorizaciones Sanitarias
+### Capítulo I. Autorizaciones
 
 ###### Artículo 142.
 
@@ -1677,7 +1791,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### Capítulo III. Certificados
+### Capítulo II. Revocación de las Autorizaciones Sanitarias
 
 ###### Artículo 149.
 
@@ -1723,7 +1837,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### Capítulo Único
+### Capítulo III. Certificados
 
 ###### Artículo 156.
 
@@ -1757,7 +1871,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## Título Quinto. Vigilancia Sanitaria
 
-### Capítulo I. Medidas de Seguridad Sanitaria
+### Capítulo Único
 
 ###### Artículo 161.
 
@@ -1865,7 +1979,7 @@ En el caso de los productos muestreados en procedimientos de muestreo o verifica
 
 ## Título Sexto. Medidas de Seguridad Sanitaria y Sanciones
 
-### Capítulo II. Sanciones Administrativas
+### Capítulo I. Medidas de Seguridad Sanitaria
 
 ###### Artículo 174.
 
@@ -1941,7 +2055,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud de las personas.
 
-### Capítulo III. Procedimiento para aplicar las Medidas de Seguridad y Sanciones
+### Capítulo II. Sanciones Administrativas
 
 ###### Artículo 182.
 
@@ -2019,7 +2133,7 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Impuesto el arresto, se hará del conocimiento a la autoridad correspondiente a efecto de que proceda a su ejecución.
 
-### Capítulo IV. Recurso de Inconformidad
+### Capítulo III. Procedimiento para aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 190.
 
@@ -2093,7 +2207,7 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente lo hará del conocimiento del Ministerio Público; lo anterior, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### Capítulo V. Prescripción
+### Capítulo IV. Recurso de Inconformidad
 
 ###### Artículo 200.
 
@@ -2170,6 +2284,8 @@ III. Que fueren de difícil reparación los daños y perjuicios que se causen al
 ###### Artículo 211.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### Capítulo V. Prescripción
 
 ###### Artículo 212.
 
@@ -2274,3 +2390,13 @@ P.O. 9 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 27.- POR EL QUE SE REFORMA EL CAPÍTULO IV, DEL LIBRO SEGUNDO, SECCIÓN PRIMERA, TÍTULO PRIMERO, ASÍ COMO LOS ARTÍCULOS 138, 139, 140, LAS FRACCIONES II Y III DEL ARÁBIGO 141, Y 142, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA Y SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN I, Y EL C) DE LA FRACCIÓN VI DEL ARTÍCULO 3°, ASÍ COMO LOS ARTÍCULOS 29, 30, SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 31, EL ARTÍCULO 33, EL C) Y D) DE LA FRACCIÓN I Y EL A) Y LA FRACCIÓN II DEL ARTÍCULO 34, 35, PRIMER PÁRRAFO DEL ARTÍCULO 36, 37, PRIMER PÁRRAFO DEL ARTÍCULO 40, 41 FRACCIÓN III, Y SE ADICIONAN LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 3°, EL CAPÍTULO IX DENOMINADO INTERRUPCIÓN LEGAL DEL EMBARAZO DEL TÍTULO SEGUNDO SISTEMA ESTATAL DE SALUD, TODOS DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. La Titular del Poder Ejecutivo del Estado, procurará prever las medidas presupuestales y administrativas necesarias para garantizar el derecho a la interrupción legal del embarazo.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
