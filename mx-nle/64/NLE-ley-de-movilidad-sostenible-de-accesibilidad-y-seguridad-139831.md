@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2021-11-30"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -2741,7 +2741,9 @@ Las sanciones por la violación a los preceptos de esta Ley, su Reglamento, a la
 
 I. Amonestación;
 
-II. Multa con el equivalente de 20 a 500 veces la Unidad de Medida y Actualización en el caso del servicio de taxi y servicio auxiliar de transporte;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+II. Multa con el equivalente de 20 a 300 veces la Unidad de Medida y Actualización en el caso del servicio de taxi y servicio auxiliar de transporte, la cual no será sujeta de retención del vehículo salvo causa debidamente justificada conforme el Reglamento de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León;
 
 III. Multa con el equivalente de 20 a 15,000 veces la Unidad de Medida y Actualización, para el resto del SETRA y SETME a excepción del taxi y servicio auxiliar de transporte;
 
@@ -2773,7 +2775,9 @@ Las sanciones para el SETIAP y el STDE, las impondrá el Instituto, por la viola
 
 I. Amonestación;
 
-II. Multa con el equivalente de 20 a 500 veces la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+II. Multa con el equivalente de 20 a 300 veces la Unidad de Medida y Actualización, la cual no será sujeta de retención del vehículo salvo causa debidamente justificada conforme el Reglamento de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León;
 
 III. Suspensión temporal o definitiva de los permisos o licencias;
 
@@ -3062,3 +3066,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se le concede a la Secretaria de Movilidad y Planeación Urbana un término de 90 días hábiles a partir de la entrada en vigor del presente decreto, para que realice las adecuaciones al marco jurídico que resulten necesarias para la aplicación del presente decreto.
 
 TERCERO. Se le concede al Instituto de Movilidad y Accesibilidad un término de 90 días hábiles a partir de la publicación del presente decreto, para que realice las adecuaciones al marco jurídico que resulten necesarias para la aplicación del presente decreto.
+
+P.O. 11 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 016. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN II DEL ARTÍCULO 213 Y LA FRACCIÓN II DEL ARTÍCULO 214 AMBAS DEL (SIC) LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEON”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de la Publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- La autoridad correspondiente, contará con 60 días naturales, a partir de la entrada en vigor del presente Decreto para llevar a cabo las adecuaciones dentro del Reglamento de la Ley.
