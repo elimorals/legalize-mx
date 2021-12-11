@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-12-04"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -900,6 +900,12 @@ VIII.- Ejercer violencia política contra las mujeres, o impedir el ejercicio de
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 IX.- Dictar acuerdos o acciones que contravengan disposiciones de autoridades en materia sanitaria que pongan en riesgo la salud de la población.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+X.- Retener las participaciones a las Agencias Municipales y de Policía, que reciben de manera mensual según el presupuesto de egresos autorizado en cada ejercicio fiscal correspondiente.
+
+El retraso en la entrega de las participaciones ocasionará el pago de intereses a la tasa de recargos que establezca el Congreso de la Unión para la liquidación a plazos de las contribuciones federales, como lo establece el artículo 8 último párrafo de la Ley de Coordinación Fiscal para el Estado de Oaxaca.
 
 ### CAPÍTULO III. DEL CABILDO MUNICIPAL
 
@@ -2073,9 +2079,9 @@ e) El cobro de los tributos, recargos, intereses y multas federales o estatales 
 
 VI.- Proponer al Presidente Municipal en tiempo y forma los anteproyectos de la Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez. Anteproyectos que, en último año del gobierno municipal, será el Presidente Municipal entrante quien los proponga en los términos establecidos por el artículo 43 fracción XXI de esta Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-Para los efectos del párrafo anterior el Tesorero deberá observar lo establecido en el artículo 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, estableciendo de manera clara el monto de los recursos que serán asignados a las Agencias Municipales y de Policía;
+Para los efectos del párrafo anterior se deberá observar lo establecido en el artículo 24 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, estableciendo de manera clara el monto de los recursos que serán asignados a las Agencias Municipales y de Policía, los que deberán ser entregados dentro de los cinco días hábiles siguientes a la fecha en que reciban en sus cuentas Bancarias Municipales el recurso de la Federación.
 
 VII.- Ejercer el presupuesto de egresos, y efectuar los pagos invariablemente en forma mancomunada con el Presidente Municipal, de acuerdo a los presupuestos aprobados por el Ayuntamiento;
 
@@ -4594,6 +4600,14 @@ SEXTO.- La Procuraduría Estatal de Protección de los Derechos de Niñas, Niño
 P.O. 4 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2917.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XX DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2715.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN VI DEL ARTÍCULO 95; Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 44 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
