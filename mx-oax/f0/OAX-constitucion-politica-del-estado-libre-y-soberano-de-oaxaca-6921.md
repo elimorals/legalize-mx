@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-11-13"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3493,9 +3493,9 @@ Corresponde al Ministerio Público la persecución, ante los tribunales, de todo
 
 La titularidad del Ministerio Público recae en la o el Fiscal General del Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-Para ser Fiscal General del Estado de Oaxaca, se requiere: ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar con antigüedad mínima de diez años con título profesional de licenciatura en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
+Para ser Fiscal General del Estado de Oaxaca, se requiere: ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar con antigüedad mínima de diez años con título profesional de licenciatura en derecho;·gozar de buena reputación, acreditar las pruebas de control de confianza conforme a las leyes de la materia y no haber sido condenado por delito doloso.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
@@ -6294,3 +6294,13 @@ P.O. 13 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2746.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO CUARTO DEL APARTADO D DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Honorable Congreso del Estado de Oaxaca realizará las adecuaciones correspondientes en la legislación estatal para armonizar su contenido con lo dispuesto en el presente Decreto, en el plazo de noventa días contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
