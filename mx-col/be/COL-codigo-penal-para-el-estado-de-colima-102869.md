@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2021-10-09"
+last_updated: "2021-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1757,7 +1757,9 @@ Cuando en la comisión de las lesiones intervengan dos o más sujetos y no const
 
 ### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
-### CAPÍTULO IV. ABORTO
+### CAPÍTULO IV. ABORTO PUNIBLE
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO V. INDUCCIÓN O AYUDA AL SUICIDIO
 
@@ -1833,45 +1835,65 @@ En caso de que en estado de ebriedad o bajo el influjo de estupefacientes o cual
 
 Para los efectos del artículo anterior se considerará estupefaciente, psicotrópico o vegetales los que determine la Ley General de Salud como ilegales.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
 ### CAPÍTULO I. VIOLACIÓN
 
 ###### ARTÍCULO 138.
 
-Comete el delito de aborto el que cause la muerte del producto de la concepción en cualquier momento de la preñez.
+Comete el delito de aborto quien interrumpe el embarazo después de la décima segunda semana de gestación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 139.
 
-Al que sin estar autorizado por la ley hiciere abortar a una mujer con consentimiento de ésta, se le impondrán de tres a cinco años de prisión y multa por un importe equivalente de cuatrocientas a setecientas unidades de medida y actualización.
+A la mujer o persona gestante que se provoque o consienta que se le practique un aborto, una vez transcurridas las primeras doce semanas de gestación se le impondrán de un mes a tres meses de tratamiento en libertad, consistentes en la aplicación de medidas integrales de salud y psicológica, con respeto a sus derechos humanos.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+A la persona que, haga abortar a la mujer o persona gestante con su consentimiento, en los términos del párrafo anterior, se le impondrán de quince días a dos meses de prisión o de cincuenta a cien días de trabajo en favor de la comunidad, y multa hasta de ochocientas y mil doscientas Unidades de Mediada (sic) de Actualización.
 
-Cuando falte el consentimiento, la prisión será de cinco a ocho años, y multa por el importe al equivalente de setecientas a mil unidades de medida y actualización; y si mediare violencia física o moral, se impondrá pena de ocho a diez años de prisión y multa de ochocientas a mil doscientas unidades de medida y actualización.
+En este caso, el delito únicamente se sancionará cuando se haya consumado.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 140.
 
-A la mujer que se procure el aborto o consienta en él se le aplicarán de dos a cuatro años de prisión y multa por un importe equivalente de cincuenta a sesenta unidades de medida y actualización.
+Comete el delito de aborto forzado quien interrumpa el embarazo de una mujer o persona gestante sin el consentimiento de ella, en cualquier momento de la gestación. En este caso, el delito de aborto forzado podrá ser sancionado en grado de tentativa, en los términos dispuestos por el presente Código.
+
+A quien hiciera abortar a una mujer o persona gestante sin su consentimiento se le impondrán prisión de tres a diez años y multa de ochocientos a mil doscientas Unidades de Medida de Actualización. Si se empleare la violencia física o moral, las sanciones serán de seis a quince años de prisión y multa hasta de ochocientas hasta mil doscientas Unidades de Medida de Actualización.
 
 ###### ARTÍCULO 141.
 
 No será punible el delito de aborto:
 
-I. Cuando sea ocasionado culposamente por la mujer embarazada;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
-II. Cuando se practique dentro de los tres primeros meses de embarazo y éste sea consecuencia de violación o de alguna técnica de reproducción asistida indebida;
+I. Cuando sea ocasionado culposamente por la mujer o persona gestante;
 
-III. Cuando de no provocarse el aborto con el consentimiento de la mujer embarazada, está corra peligro de muerte o afectación grave a su salud a juicio del médico que la asista, procurando éste la opinión de otro médico, siempre que esto fuere posible y la demora no aumente el peligro; o
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+II. El embarazo sea resultado de una violación o de una inseminación artificial no consentida, independientemente de que exista, o no, causa penal sobre estos delitos;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+III. Cuando de no provocarse el aborto, la mujer o persona gestante, corra peligro de muerte o afectación grave a su salud a juicio del médico que la asista.
 
 IV. Cuando se practique con el consentimiento de la mujer embarazada y a juicio de dos médicos exista razón suficiente para suponer que el producto presenta alteraciones genéticas o congénitas que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+V. Cuando una autoridad le hubiese negado previamente la posibilidad de interrumpir su embarazo dentro del plazo de las primeras doce semanas de gestación.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
+VI. Cuando, en la prestación de los servicios contemplados en la Ley de Salud, el personal médico o de enfermería hubiese omitido informarle correcta y oportunamente a la persona gestante de su derecho a interrumpir su embarazo de manera legal y segura durante las primeras doce semanas de la gestación.
+
 En el supuesto de la fracción II no se requerirá sentencia dictada sobre la violación o inseminación indebida, bastará la comprobación de la cópula o la inseminación artificial sin la voluntad de la mujer o contra de ésta, en cualquiera de las etapas del procedimiento penal.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 142.
 
-Si el aborto punible lo causa un médico, enfermero o partero, además de las sanciones previstas, se les impondrá suspensión de tres a siete años en el ejercicio de su profesión o actividad y la privación de esta en caso de habitualidad.
+Si el aborto forzado lo causa un médico, enfermero o partero, además de las sanciones previstas, se les impondrá suspensión de tres a siete años en el ejercicio de su profesión o actividad y la privación de esta en caso de habitualidad.
 
 ### CAPÍTULO II. ESTUPRO
 
@@ -4674,3 +4696,13 @@ P.O. 9 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 27.- POR EL QUE SE REFORMA EL CAPÍTULO IV, DEL LIBRO SEGUNDO, SECCIÓN PRIMERA, TÍTULO PRIMERO, ASÍ COMO LOS ARTÍCULOS 138, 139, 140, LAS FRACCIONES II Y III DEL ARÁBIGO 141, Y 142, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA Y SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN I, Y EL C) DE LA FRACCIÓN VI DEL ARTÍCULO 3°, ASÍ COMO LOS ARTÍCULOS 29, 30, SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 31, EL ARTÍCULO 33, EL C) Y D) DE LA FRACCIÓN I Y EL A) Y LA FRACCIÓN II DEL ARTÍCULO 34, 35, PRIMER PÁRRAFO DEL ARTÍCULO 36, 37, PRIMER PÁRRAFO DEL ARTÍCULO 40, 41 FRACCIÓN III, Y SE ADICIONAN LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 3°, EL CAPÍTULO IX DENOMINADO INTERRUPCIÓN LEGAL DEL EMBARAZO DEL TÍTULO SEGUNDO SISTEMA ESTATAL DE SALUD, TODOS DE LA LEY DE SALUD DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. La Titular del Poder Ejecutivo del Estado, procurará prever las medidas presupuestales y administrativas necesarias para garantizar el derecho a la interrupción legal del embarazo.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
