@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-de-los-municipios-del-6672"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-21"
-last_updated: "2018-10-12"
+last_updated: "2021-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de marzo de 1984.
 
@@ -867,23 +867,33 @@ Los sindicatos son las asociaciones de trabajadores constituidas para el estudio
 
 ###### ARTICULO 95.
 
-En cada uno de los municipios se reconocerá únicamente un sindicato de trabajadores al servicio de dichos municipios y sus instituciones y organismos descentralizados; para el caso de que concurran varios grupos de trabajadores, el tribunal respectivo otorgará el reconocimiento al mayoritario, no admitiéndose en consecuencia la formación de sindicatos minoritarios.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 96.
 
 Los sindicatos para fines de organización interna podrán formar delegaciones, pero éstas no gozarán de personalidad jurídica.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 97.
 
-Todos los trabajadores al servicio de cada uno de los municipios, a excepción de los de confianza y los supernumerarios, tendrán derecho a formar parte del sindicato correspondiente, pero una vez que soliciten y obtengan su ingreso no podrán dejar de formar parte de él, salvo que fuesen expulsados.
+Todos los trabajadores al servicio de cada uno de los municipios, a excepción de los de confianza y los supernumerarios, tienen derecho a constituir sindicatos, sin necesidad de autorización previa.
+
+El trabajador ejercerá en todo momento su libertad de adhesión o separación en un sindicato.
+
+Asimismo, a nadie se le puede obligar a formar parte de un sindicato, a no formar parte de él o a permanecer en el mismo.
+
+La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todos los miembros del sindicato. El sindicato deberá notificar la convocatoria al Tribunal con la misma anticipación, el cual podrá verificar el procedimiento de elección por conducto de los servidores públicos o fedatarios que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
 
 ###### ARTICULO 98.
 
 Cuando los trabajadores sindicalizados pasen a desempeñar un puesto de confianza, quedarán en suspenso todas las obligaciones y derechos sindicales, pero al terminar su gestión, volverán automáticamente al empleo de base del que fueron promovidos.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 99.
 
-Para que se constituya un sindicato de trabajadores al servicio de cada uno de los Municipios de Sinaloa se requiere que lo formen veinte trabajadores en servicio activo.
+Para que se constituya un sindicato de trabajadores al servicio de cada uno de los Municipios de Sinaloa se requiere que lo formen veinte trabajadores en servicio activo de una misma dependencia.
 
 ###### ARTICULO 100.
 
@@ -1318,3 +1328,41 @@ PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Queda sin efecto cualquier disposición que se oponga al presente decreto.
 
 TERCERO. Los juicios iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+P.O. 13 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 6 QUE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SINALOA, Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los Juzgados en materia laboral del Poder Judicial y el Centro de Conciliación Laboral entrarán en funciones una vez que el Congreso del Estado haga la declaratoria correspondiente, la cual deberá publicarse en el Periódico Oficial “EI Estado de Sinaloa".
+
+TERCERO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial Iniciarán actividades a más tardar el día 02 de mayo del año 2022, previa declaratoria del Congreso del Estado. El Centro de Conciliación Laboral deberá entrar en operaciones en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, conforme a las disposiciones previstas en el presente Decreto.
+
+CUARTO. Los procedimientos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje del Estado y ante las Juntas Especiales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+El Centro de Conciliación Laboral no admitirá a trámite solicitudes de audiencias de conciliación o emplazamiento respecto de procedimientos que estén sustanciados ante la Junta Local de Conciliación y Arbitraje y en su caso, ante las Juntas Especiales, incluyendo los de ejecución, por lo que se archivarán dichas solicitudes.
+
+QUINTO. La Junta Local de Conciliación y Arbitraje del Estado y las Juntas Especiales, según corresponda, continuarán conociendo de los procedimientos individuales que se inicien con posterioridad a la entrada en vigor del presente Decreto, hasta en tanto entren en funciones los Juzgados en materia laboral del Poder Judicial y el Centro de Conciliación Laboral, conforme los plazos previstos en las disposiciones transitorias del presente Decreto.
+
+SEXTO. Una vez que entren en operaciones el Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial, los procedimientos de conciliación y los procesos laborales se ventilarán ante ellos, de conformidad con el presente Decreto, según corresponda.
+
+SÉPTIMO. El Congreso del Estado deberá prever en la Ley de Ingresos y Presupuestos de Egresos del Estado para el Ejercicio Fiscal correspondiente, los recursos necesarios para la implementación de la reforma del sistema de justicia laboral.
+
+OCTAVO. Las convocatorias a concurso para la selección de personal del Centro de Conciliación Laboral y de los Juzgados en materia laboral del Poder Judicial serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de la Junta Local de Conciliación y Arbitraje del Estado y las Juntas Especiales.
+
+NOVENO. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+DÉCIMO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asimismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarias para operar la conectividad por medios electrónicos con las autoridades laborales.
+
+DÉCIMO PRIMERO. La Junta de Gobierno del Centro de Conciliación Laboral deberá instalarse en un plazo no mayor a quince días naturales siguientes del inicio de funciones.
+
+DÉCIMO SEGUNDO. El Reglamento Interior del Centro de Conciliación Laboral, deberá ser expedido y publicado por el Ejecutivo del Estado en el Periódico Oficial "El Estado de Sinaloa", en un plazo que no exceda de sesenta días naturales a partir del inicio de funciones del mismo.
+
+DÉCIMO TERCERO. El Poder Judicial deberá realizar las adecuaciones legales y administrativas necesarias para del debido funcionamiento de los juzgados en materia laboral.
+
+DÉCIMO CUARTO. En la implementación de las disposiciones a que se refiere el Decreto en materia laboral, publicado en el Diario Oficial de la Federación en fecha 01 de mayo de 2019, el Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial, deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+DÉCIMO QUINTO. El Instituto de la Defensoría Pública del Estado de Sinaloa, comenzará a prestar sus servicios en materia laboral en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, por lo que el Instituto deberá adecuar su normativa interna con las disposiciones de esta Ley y pueda crear un departamento en materia laboral.
+
+DÉCIMO SEXTO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
