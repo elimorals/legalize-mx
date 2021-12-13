@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2021-12-01"
+last_updated: "2021-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -131,21 +131,21 @@ La extensión territorial de cada uno de estos Distritos Judiciales es la del Mu
 
 Las cabeceras de dichos Distritos Judiciales serán las poblaciones de: Los Mochis, El Fuerte, Choix, Guasave, Sinaloa de Leyva, Angostura, Guamúchil, Mocorito, Badiraguato, Culiacán, Navolato, La Cruz, Cosalá, San Ignacio, Mazatlán, Concordia, El Rosario y Escuinapa, respectivamente, y en ellas residirán los Juzgados de Primera Instancia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 17.
 
 Los Juzgados de Primera Instancia ejercerán jurisdicción en el Distrito Judicial de su residencia y, en su caso, en los que fijen las leyes o en los que se determine mediante acuerdo por el Pleno del Supremo Tribunal de Justicia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
 
 En el caso de los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal, su jurisdicción se ejercerá en el territorio del Circuito Judicial integrado por los distritos que determine el Pleno del Supremo Tribunal de Justicia.
 
-Los Juzgados de Primera Instancia que conozcan de asuntos en materia penal iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio, podrán resolver lo que jurídicamente corresponda, respecto de las solicitudes formuladas por el Ministerio Público, durante el periodo de integración de la averiguación previa, para la práctica del cateo en Distritos Judiciales distintos al de su residencia.
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2021)</small>
+
+En el caso de los Juzgados en materia laboral, su jurisdicción se ejercerá en el territorio del Circuito Judicial integrado por los Distritos que determine el Pleno del Supremo Tribunal de Justicia, conforme a las necesidades del servicio.
+
+Los Juzgados de Primera Instancia que conozcan de asuntos en materia penal iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio, podrán resolver lo que jurídicamente corresponda, respecto de las solicitudes formuladas por el Ministerio Público, durante el período de integración de la averiguación previa, para la práctica del cateo en Distritos Judiciales distintos al de su residencia.
 
 ###### ARTICULO 18.
 
@@ -395,7 +395,9 @@ La Segunda y Tercera Sala conocerán:
 
 I. De los recursos que ante el superior concedan las Leyes contra las sentencias definitivas dictadas por los Jueces de Primera Instancia en los asuntos del orden civil y familiar;
 
-II. De las recusaciones y excusas de los Jueces de Primera Instancia en asuntos del orden civil y familiar;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2021)</small>
+
+II. De las recusaciones y excusas de los Jueces de Primera Instancia en asuntos del orden civil y familiar, así como de los juzgados con competencia en materia laboral;
 
 III. Ejercer la jurisdicción atrayente en asuntos del orden civil y familiar de las Salas de Circuito, en los términos de Ley; y
 
@@ -621,19 +623,15 @@ En cada Distrito Judicial habrá el número de Juzgados de Primera Instancia que
 
 El Pleno también determinará el número de Jueces que integrarán los Juzgados de Control y de Enjuiciamiento Penal de cada Circuito Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 52.
 
-El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar, para adolescentes o de ejecución de las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar, a menos que el Pleno del Supremo Tribunal de Justicia establezca mediante acuerdo que su conocimiento debe limitarse a materia determinada. En todo caso, en los Distritos Judiciales que formen parte de un Circuito Judicial donde ejerza jurisdicción un Juzgado de Primera Instancia de Control y de Enjuiciamiento Penal, no conocerá de materia penal conforme al sistema acusatorio.
+El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar, laboral, para adolescentes o de ejecución de las consecuencias jurídicas del delito de dichos Juzgados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar a menos que el Pleno del Supremo Tribunal de Justicia establezca, mediante acuerdo, que su conocimiento debe limitarse a materia determinada. En todo caso, en los Distritos Judiciales que formen parte de un Circuito Judicial donde ejerza jurisdicción un Juzgado de Primera Instancia de Control y de Enjuiciamiento Penal, no conocerá de materia penal conforme al sistema acusatorio.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
-
-Asimismo, el Pleno podrá fijar competencias especializadas a los Juzgados de Primera Instancia de cualquier Ramo y a las Salas de Circuito, para conocer exclusivamente asuntos de la materia correspondiente que por su alta incidencia, su impacto social o su complejidad requieran atención especifica para su resolución, o cuando en general sea conveniente para hacer mas eficiente y completo el servicio de impartición de justicia.
+Asimismo, el Pleno podrá fijar competencias especializadas a los Juzgados de Primera Instancia de cualesquier Ramo y a las Salas de Circuito, para conocer exclusivamente asuntos de la materia correspondiente que por su alta incidencia, su impacto social o su complejidad requieran atención específica para su resolución, o cuando en general sea conveniente para hacer más eficiente y completo el servicio de impartición de justicia.
 
 ###### ARTICULO 53.
 
@@ -770,6 +768,18 @@ XV. Dictar resolución mediante la cual se dé por cumplida la medida impuesta, 
 XVI. Emitir resoluciones vinculatorias para los centros de internamiento, en el ámbito de sus atribuciones; y,
 
 XVII. Las demás que determine la ley.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 55 Bis A.- A los Juzgados en Materia Laboral, corresponde:
+
+I. Conocer y resolver de los conflictos de trabajo que no sean competencia del Poder Judicial de la Federación y que se susciten entre trabajadores y patrones, sólo entre aquellos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionados con ellas;
+
+II. Conocer del recurso de reconsideración a que se refieren los artículos 858 y 871 de la Ley Federal del Trabajo; y
+
+III. Las demás facultades que determinen las leyes.
+
+Los juzgados en materia laboral conocerán de los conflictos individuales y estarán auxiliados por Peritos Judiciales que dispongan en su reglamento interior el Poder Judicial.
 
 ###### ARTICULO 56.
 
@@ -945,9 +955,11 @@ La administración de los archivos judiciales dependerá del Supremo Tribunal de
 
 La estructura, funciones y competencia de los archivos judiciales se establecerán en el Reglamento que se expida por el Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 77.
 
-En el Archivo General se depositarán todos los expedientes del orden civil, de lo familiar y penal totalmente concluidos, tanto por el Supremo Tribunal y los Juzgados, así como cualquier otro documento que por su importancia lo amerite.
+En el Archivo General se depositarán todos los expedientes del orden civil, familiar, laboral y penal totalmente concluidos, tanto por el Supremo Tribunal y los Juzgados, así como cualquier otro documento que por su importancia lo amerite.
 
 También se guardarán en el mismo local, que estará ubicado en la capital del Estado, los instrumentos del delito y objetos del mismo no reclamados por quienes tengan derecho a hacerlo y que hayan sido puestos a disposición de las autoridades judiciales.
 
@@ -1576,3 +1588,41 @@ TERCERO. Dentro de los ciento veinte días siguientes a la entrada en vigor del 
 3. En su caso, realizar las capacitaciones en materia de violencia de género y atención a víctimas para jueces y personal administrativo de los mismos.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 6 QUE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SINALOA, Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los Juzgados en materia laboral del Poder Judicial y el Centro de Conciliación Laboral entrarán en funciones una vez que el Congreso del Estado haga la declaratoria correspondiente, la cual deberá publicarse en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial iniciarán actividades a más tardar el día 02 de mayo del año 2022, previa declaratoria del Congreso del Estado. El Centro de Conciliación Laboral deberá entrar en operaciones en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, conforme a las disposiciones previstas en el presente Decreto.
+
+CUARTO. Los procedimientos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje del Estado y ante las Juntas Especiales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+El Centro de Conciliación Laboral no admitirá a trámite solicitudes de audiencias de conciliación o emplazamiento respecto de procedimientos que estén sustanciados ante la Junta Local de Conciliación y Arbitraje y en su caso, ante las Juntas Especiales, incluyendo los de ejecución, por lo que se archivarán dichas solicitudes.
+
+QUINTO. La Junta Local de Conciliación y Arbitraje del Estado y las Juntas Especiales, según corresponda, continuarán conociendo de los procedimientos individuales que se inicien con posterioridad a la entrada en vigor del presente Decreto, hasta en tanto entren en funciones los Juzgados en materia laboral del Poder Judicial y el Centro de Conciliación Laboral, conforme los plazos previstos en las disposiciones transitorias del presente Decreto.
+
+SEXTO. Una vez que entren en operaciones el Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial, los procedimientos de conciliación y los procesos laborales se ventilarán ante ellos, de conformidad con el presente Decreto, según corresponda.
+
+SÉPTIMO. El Congreso del Estado deberá prever en la Ley de Ingresos y Presupuestos de Egresos del Estado para el Ejercicio Fiscal correspondiente, los recursos necesarios para la implementación de la reforma del sistema de justicia laboral.
+
+OCTAVO. Las convocatorias a concurso para la selección de personal del Centro de Conciliación Laboral y de los Juzgados en materia laboral del Poder Judicial serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de la Junta Local de Conciliación y Arbitraje del Estado y las Juntas Especiales.
+
+NOVENO. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+DÉCIMO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asimismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarias para operar la conectividad por medios electrónicos con las autoridades laborales.
+
+DÉCIMO PRIMERO. La Junta de Gobierno del Centro de Conciliación Laboral deberá instalarse en un plazo no mayor a quince días naturales siguientes del inicio de funciones.
+
+DÉCIMO SEGUNDO. El Reglamento Interior del Centro de Conciliación Laboral, deberá ser expedido y publicado por el Ejecutivo del Estado en el Periódico Oficial "El Estado de Sinaloa", en un plazo que no exceda de sesenta días naturales a partir del inicio de funciones del mismo.
+
+DÉCIMO TERCERO. El Poder Judicial deberá realizar las adecuaciones legales y administrativas necesarias para del debido funcionamiento de los juzgados en materia laboral.
+
+DÉCIMO CUARTO. En la implementación de las disposiciones a que se refiere el Decreto en materia laboral, publicado en el Diario Oficial de la Federación en fecha 01 de mayo de 2019, el Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial, deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+DÉCIMO QUINTO. El Instituto de la Defensoría Pública del Estado de Sinaloa, comenzará a prestar sus servicios en materia laboral en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, por lo que el Instituto deberá adecuar su normativa interna con las disposiciones de esta Ley y pueda crear un departamento en materia laboral.
+
+DÉCIMO SEXTO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
