@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-01-20"
+last_updated: "2021-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de mayo de 2016.
 
@@ -105,7 +105,9 @@ Por información pública se entenderá como toda información que generen, pose
 
 Para efectos de esta Ley se entenderá por:
 
-I. Comisionado: Cada uno de los integrantes del Consejo General del Instituto;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Comisionada o Comisionado: Cada uno de los integrantes del Consejo General del Instituto;
 
 II. Comité de Transparencia: El Comité de Transparencia de los sujetos obligados;
 
@@ -467,7 +469,9 @@ El Instituto se integra por:
 
 I. El Consejo General, que es el órgano máximo de gobierno;
 
-II. Comisionados;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Comisionadas y Comisionados;
 
 III. La Secretaría Ejecutiva;
 
@@ -575,7 +579,9 @@ IV. Los demás bienes que adquiera u obtenga de conformidad con la Ley.
 
 Los bienes muebles e inmuebles, y recursos materiales del Instituto serán inalienables, imprescriptibles, inembargables y no estarán sujetos a gravamen o afectación de dominio alguno.
 
-Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Instituto, ni sobre las personas o bienes de los comisionados, en el interior de la Sala de Sesiones del Instituto.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Instituto, ni sobre las personas o bienes de las comisionadas o comisionados, en el interior de la Sala de Sesiones del Instituto.
 
 ###### Artículo 37.
 
@@ -589,17 +595,21 @@ Los empleados del Instituto se sujetarán a las disposiciones del Reglamento int
 
 Los servidores públicos del Instituto se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 39.
 
-La remuneración bruta anual de los servidores públicos del Instituto, incluyendo todas las prestaciones, no podrá ser superior a la de los comisionados del Instituto, ni a la de su superior jerárquico.
+La remuneración bruta anual de los servidores públicos del Instituto, incluyendo todas las prestaciones, no podrá ser superior a la de las y los comisionados del Instituto, ni a la de su superior jerárquico.
 
-Los comisionados del Instituto y sus servidores públicos no podrán otorgarse bonos o remuneración alguna que no esté previamente prevista en el presupuesto correspondiente, ni se podrá autorizar una ampliación presupuestal para tales efectos.
+Las comisionadas y comisionados del Instituto y sus servidores públicos no podrán otorgarse bonos o remuneración alguna que no esté previamente prevista en el presupuesto correspondiente, ni se podrá autorizar una ampliación presupuestal para tales efectos.
 
 ### Capítulo II. Del Consejo General del Instituto
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 40.
 
-El Consejo General se integra por un Comisionado Presidente y dos Comisionados. La Presidencia será de carácter rotativo en los términos de la presente Ley.
+El Consejo General se compondrá por tres integrantes, Comisionadas y Comisionados, ocupando uno de ellos la Presidencia. La Presidencia del Instituto será de carácter rotativo en los términos de la presente Ley. En su integración se deberá observar el principio de paridad de género.
 
 ###### Artículo 41.
 
@@ -617,7 +627,9 @@ III. Autorizar el proyecto de Presupuesto de Egresos anual y enviarlo para su in
 
 IV. Aprobar el Presupuesto de Egresos del Instituto, dentro del mes de enero del año fiscal correspondiente;
 
-V. Aprobar el proyecto de informe anual que presente el Comisionado Presidente previo a su presentación al Congreso del Estado;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Aprobar el proyecto de informe anual que presente la Comisionada o Comisionado Presidente previo a su presentación al Congreso del Estado;
 
 VI. Designar y remover a los servidores públicos del Instituto;
 
@@ -639,9 +651,11 @@ XIV. Enajenar su patrimonio inmobiliario, previa autorización del Congreso del 
 
 XV. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 43.
 
-El Presidente del Consejo General tiene las siguientes atribuciones:
+La Presidenta o Presidente del Consejo General tiene las siguientes atribuciones:
 
 I. Representar formal y legalmente al Instituto;
 
@@ -665,21 +679,29 @@ X. Realizar la entrega-recepción formalmente al Presidente que lo sustituya, y
 
 XI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
-### Capítulo III. De los Comisionados del Instituto
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo III. De las y los Comisionados del Instituto
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 44.
 
-Para ser comisionado del Instituto, deberá reunir los requisitos que señala la Constitución Política del Estado.
+Para ser comisionada o comisionado del Instituto, deberá reunir los requisitos que señala la Constitución Política del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 45.
 
-La elección de los comisionados se ajustará a lo dispuesto por la Constitución Política del Estado, y por el siguiente procedimiento:
+La elección de comisionadas y comisionados se ajustará a lo dispuesto por la Constitución Política del Estado, y por el siguiente procedimiento:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-I. El Congreso del Estado a través de la Comisión Permanente de Transparencia y Anticorrupción, emitirá una convocatoria pública, la cual se publicará durante cinco días consecutivos en el diario de mayor circulación en el Estado, y simultáneamente en la página de internet del Congreso del Estado y del Instituto, para que el Consejo Consultivo reciba las propuestas de aspirantes, dicha convocatoria deberá expedirse cuando menos con dos meses de anticipación a la fecha de la renovación de los comisionados.
+I. El Congreso del Estado a través de la Comisión Permanente de Transparencia y Anticorrupción, emitirá una convocatoria pública, la cual se publicará durante cinco días consecutivos en el diario de mayor circulación en el Estado, y simultáneamente en la página de internet del Congreso del Estado y del Instituto, para que el Consejo Consultivo reciba las propuestas de aspirantes, dicha convocatoria deberá expedirse cuando menos con dos meses de anticipación a la fecha de la renovación de las o los comisionados.
 
-En el caso de que se diera el supuesto de una vacante de comisionado, la publicación de la convocatoria se realizará posterior a los cinco días siguientes de la recepción por parte del Congreso del Estado, del aviso que al efecto haga el Instituto de la existencia de la vacante.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En el caso de que se diera el supuesto de una vacante de comisionada o comisionado, la publicación de la convocatoria se realizará posterior a los cinco días siguientes de la recepción por parte del Congreso del Estado, del aviso que al efecto haga el Instituto de la existencia de la vacante.
 
 > <small>(DEROGADO TERCER PÁRRAFO, B.O. 10 DE OCTUBRE DE 2019)</small>
 
@@ -697,13 +719,15 @@ e) La fecha límite para la revisión de los requisitos de elegibilidad; y
 
 f) Los instrumentos de evaluación.
 
-II. El Consejo Consultivo deberá revisar que los aspirantes reúnan los requisitos de elegibilidad, y una vez hecho lo anterior, remitirá a la Comisión de Transparencia, con diez días de anticipación a la renovación de los comisionados, la lista de los aspirantes que hubieren cumplido con los requisitos, con sus respectivos expedientes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. El Consejo Consultivo deberá revisar que los aspirantes reúnan los requisitos de elegibilidad, y una vez hecho lo anterior, remitirá a la Comisión de Transparencia, con diez días de anticipación a la renovación de las comisionadas o comisionados, la lista de los aspirantes que hubieren cumplido con los requisitos, con sus respectivos expedientes.
 
 En el caso de vacante, el Consejo Consultivo, remitirá la lista de los aspirantes que hubieren cumplido con los requisitos y los expedientes respectivos, a los cinco días siguientes de la fecha límite de revisión de los requisitos de elegibilidad.
 
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-La Comisión de Transparencia y Anticorrupción, dentro de los cinco días siguientes a la recepción de la lista de aspirantes, con apoyo del Consejo Consultivo entrevistarán a los aspirantes, con el propósito de verificar la idoneidad del perfil, una vez hecho lo anterior, procederá al análisis y revisión de los expedientes de los aspirantes y se seleccionará a los que integrarán la terna, que a juicio de la comisión reúnan los requisitos y sean los más idóneos para ocupar el cargo de Comisionado
+La Comisión de Transparencia y Anticorrupción, dentro de los cinco días siguientes a la recepción de la lista de aspirantes, con apoyo del Consejo Consultivo entrevistarán a los aspirantes, con el propósito de verificar la idoneidad del perfil, una vez hecho lo anterior, procederá al análisis y revisión de los expedientes de los aspirantes y se seleccionará a los que integrarán la terna, que a juicio de la comisión reúnan los requisitos y sean los más idóneos para ocupar el cargo de Comisionada o Comisionado.
 
 Para efecto de las entrevistas a que se refiere el párrafo anterior, la Comisión de Transparencia extenderá la invitación a los integrantes de la Legislatura para que estén presentes y puedan participar en las entrevistas, si así lo desean.
 
@@ -717,17 +741,21 @@ En todo momento se garantizará la máxima publicidad del proceso y de los docum
 
 III. Una vez presentado el dictamen ante el Pleno, se llevará a cabo la votación por cédula conforme a lo dispuesto por la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur. En caso de que ninguno de los integrantes de la terna alcance la mayoría requerida, se realizará una segunda votación; si vuelve a no alcanzarse la mayoría requerida podrá suspenderse la votación hasta por un día o realizarse una tercera votación enseguida; si vuelve a no alcanzarse la mayoría requerida se instruirá a la Comisión de Transparencia y Anticorrupción elabore un nuevo dictamen observando el procedimiento previsto en esta Ley; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-IV. Excepcionalmente en el caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción II de este artículo o el Consejo Consultivo no estuviere instalado o se hubiere disuelto, la Comisión de Transparencia y Anticorrupción realizará el procedimiento de elección de conformidad con el presente numeral, pudiendo ajustar los tiempos previstos en el presente artículo para llevar a cabo el procedimiento de elección del comisionado con anticipación a la conclusión del periodo del comisionado saliente o en su caso para cubrir la vacante por ausencia definitiva del comisionado.
+IV. Excepcionalmente en el caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción II de este artículo o el Consejo Consultivo no estuviere instalado o se hubiere disuelto, la Comisión de Transparencia y Anticorrupción realizará el procedimiento de elección de conformidad con el presente numeral, pudiendo ajustar los tiempos previstos en el presente artículo para llevar a cabo el procedimiento de elección de la comisionada o del comisionado con anticipación a la conclusión del periodo de la comisionada o comisionado saliente o en su caso para cubrir la vacante por ausencia definitiva de la comisionada o comisionado.
 
-En el caso de que el Gobernador del Estado objetare al comisionado electo en uso de su facultad de veto prevista en la Constitución del Estado, el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección de conformidad con el presente numeral, para lo cual podrán ajustarse y reducirse los plazos previstos para el debido cumplimiento del procedimiento, y elegir a los comisionados previo al vencimiento de la fecha en la que deban ser renovados o cubrirse la vacante por ausencia definitiva.
+En el caso de que el Titular de la Gubernatura del Estado objetare a la comisionada o comisionado electo en uso de su facultad de veto prevista en la Constitución del Estado, el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección de conformidad con el presente numeral, para lo cual podrán ajustarse y reducirse los plazos previstos para el debido cumplimiento del procedimiento, y elegir a las o los comisionados previo al vencimiento de la fecha en la que deban ser renovados o cubrirse la vacante por ausencia definitiva.
 
-El cargo de comisionado comenzará a correr a partir del día siguiente de la publicación del Decreto correspondiente en el Boletín Oficial del Gobierno del Estado. Antes de tomar posesión del cargo el comisionado deberá otorgar protesta en los términos señalados en el párrafo primero del artículo 163 de la Constitución del Estado.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El cargo de comisionada o comisionado comenzará a correr a partir del día siguiente de la publicación del Decreto correspondiente en el Boletín Oficial del Gobierno del Estado. Antes de tomar posesión del cargo la comisionada o el comisionado deberá otorgar protesta en los términos señalados en el párrafo primero del artículo 163 de la Constitución del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 46.
 
-Los comisionados del Instituto tienen las siguientes atribuciones:
+Las y los comisionados del Instituto tienen las siguientes atribuciones:
 
 I. Proponer modificaciones al Reglamento Interior;
 
@@ -741,47 +769,61 @@ V. Proponer la celebración de convenios de colaboración con autoridades o part
 
 VI. Las demás que establezca el Reglamento Interior.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 47.
 
-Los comisionados del Instituto durarán en el cargo siete años y no podrán ser reelectos. El Comisionado Presidente será rotado cada dos años, y será electo por la mayoría de los integrantes del Instituto, pudiendo ser reelecto para un periodo inmediato por una sola ocasión.
+Las comisionadas y los comisionados del Instituto durarán en el cargo siete años y no podrán ser reelectos. La titularidad de la Presidencia será rotada cada dos años, observado el principio de paridad de género, y será electa o electo por la mayoría de los integrantes del Instituto, pudiendo ser reelecta o reelecto para un periodo inmediato por una sola ocasión.
 
-> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+La rotación o reelección, en su caso, de quien ocupe la presidencia, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación.
 
-La rotación o reelección, en su caso, del Presidente, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### Capítulo IV. De las Ausencias y Remuneración de los Comisionados
+### Capítulo IV. De las Ausencias y Remuneración de las y los Comisionados
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 48.
 
-Las ausencias temporales del Comisionado Presidente serán suplidas por el Comisionado de mayor antigüedad, o en su caso, por designación del Consejo General. Los comisionados tendrán derecho ausentarse de forma temporal en los términos que lo establezca el Reglamento Interior del Instituto, previa autorización del Consejo General.
+Las ausencias temporales de la Comisionada o Comisionado Presidente serán suplidas por la Comisionada o Comisionado de mayor antigüedad, o en su caso, por designación del Consejo General. Las y los comisionados tendrán derecho (sic) ausentarse de forma temporal en los términos que lo establezca el Reglamento Interior del Instituto, previa autorización del Consejo General.
 
-En caso de ausencia definitiva de los comisionados, el Secretario Ejecutivo del Instituto dará aviso al Congreso del Estado, para que inicie el procedimiento de elección para cubrir la vacante de comisionado en los términos señalados por la Constitución Política del Estado y esta Ley.
+En caso de ausencia definitiva de las o los comisionados, el Secretario Ejecutivo del Instituto dará aviso al Congreso del Estado, para que inicie el procedimiento de elección para cubrir la vacante de comisionado en los términos señalados por la Constitución Política del Estado y esta Ley.
 
-La remuneración de los comisionados del Instituto será de acuerdo al presupuesto asignado y aprobado.
+La remuneración de las y los comisionados del Instituto será de acuerdo al presupuesto asignado y aprobado.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 49.
 
-Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá desempeñar fuera de su horario de trabajo y sólo podrán ser removidos de su cargo en los términos del Título Noveno de la Constitución Política del Estado Libre y Soberano de Baja California Sur y podrán ser sujetos a Juicio Político.
+Las comisionadas y los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá (sic) desempeñar fuera de su horario de trabajo y sólo podrán ser removidos de su cargo en los términos del Título Noveno de la Constitución Política del Estado Libre y Soberano de Baja California Sur y podrán ser sujetos a Juicio Político.
 
 ### Capítulo V. De la Secretaría Ejecutiva
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 50.
 
-El Consejo General, a propuesta del Presidente, nombrará un Secretario Ejecutivo, quien podrá ser removido libremente por acuerdo del Pleno del Instituto.
+El Consejo General, a propuesta de la Presidenta o Presidente, nombrará una Secretaria o un Secretario Ejecutivo, quien podrá ser removido libremente por acuerdo del Pleno del Instituto.
 
-El Secretario Ejecutivo del Instituto se regirá por los principios de eficiencia, imparcialidad, legalidad y especialidad.
+La o el Secretario Ejecutivo del Instituto se regirá por los principios de eficiencia, imparcialidad, legalidad y especialidad.
 
-El Secretario Ejecutivo puede ser removido por el Consejo por causa justificada.
+La Secretaria o el Secretario Ejecutivo puede ser removido por el Consejo por causa justificada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-El Secretario Ejecutivo tiene las siguientes atribuciones:
+La Secretaria o Secretario Ejecutivo tiene las siguientes atribuciones:
 
-I. Dar cuenta al Presidente del Instituto y a los comisionados de todas las comunicaciones que reciba el Instituto, así como de los antecedentes necesarios para la emisión de los acuerdos correspondientes;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Dar cuenta a la presidencia del Instituto y a las y a los comisionados de todas las comunicaciones que reciba el Instituto, así como de los antecedentes necesarios para la emisión de los acuerdos correspondientes;
 
 II. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que celebre el Consejo General;
 
-III. Remitir oportunamente a los comisionados, los citatorios, órdenes del día y material indispensable para las sesiones ordinarias y extraordinarias del Consejo General;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Remitir oportunamente a las y a los comisionados, los citatorios, órdenes del día y material indispensable para las sesiones ordinarias y extraordinarias del Consejo General;
 
 IV. Llevar el control del libro de actas y firmarlo en compañía del Consejo General;
 
@@ -789,7 +831,9 @@ V. Certificar y dar fe de los actos y acuerdos que emita el Consejo General y de
 
 VI. Ejecutar y dar seguimiento a los acuerdos aprobados por el Consejo General;
 
-VII. Auxiliar a los comisionados en el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Auxiliar a las y a los comisionados en el cumplimiento de sus atribuciones;
 
 VIII. Turnar al Contralor del Instituto, los asuntos que sean motivo de responsabilidad administrativa por parte de los servidores públicos del Instituto para que dé inicio al procedimiento de responsabilidad administrativa que prevé la Ley;
 
@@ -799,11 +843,13 @@ X. Las demás que establezca el Reglamento Interior del Instituto.
 
 ### Capítulo VI. Del Consejo Consultivo
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 52.
 
-El Instituto contará con un Consejo Consultivo, que fungirá como órgano de consulta y asesoría, el cual estará integrado por cinco consejeros que serán honoríficos.
+El Instituto contará con un Consejo Consultivo, que fungirá como órgano de consulta y asesoría, el cual se compondrá por cinco integrantes, Consejeras y Consejeros cuyos cargos serán honoríficos.
 
-En su integración se deberá garantizar la equidad de género y se deberá incluir personas con experiencia en materia de transparencia y en derechos humanos, provenientes de la sociedad civil y la academia.
+En su integración se observará el principio de paridad de género y se deberá incluir personas con experiencia en materia de transparencia y en derechos humanos, provenientes de la sociedad civil y la academia.
 
 ###### Artículo 53.
 
@@ -813,17 +859,23 @@ I. Dos representantes del sector académico;
 
 II. Dos representantes de la sociedad civil organizada, y
 
-III. Un ciudadano socialmente interesado en la materia.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Una ciudadana o un ciudadano socialmente interesado en la materia.
 
 El cargo como integrante del Consejo Consultivo es honorífico y no remunerado.
 
-El Consejo Consultivo tendrá un Secretario Técnico, el cual será ejercido por el titular de la Secretaría Ejecutiva del Instituto, quien participará en las sesiones del Consejo Consultivo sólo con voz.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-La Presidencia del Consejo Consultivo será en forma rotativa, anual y en estricto orden alfabético por apellido, entre los consejeros.
+El Consejo Consultivo tendrá una o un Secretario Técnico, el cual será ejercido por la o el titular de la Secretaría Ejecutiva del Instituto, quien participará en las sesiones del Consejo Consultivo sólo con voz.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Los integrantes del Consejo consultivo serán propuestos por las instituciones, organizaciones interesadas o en lo individual, de conformidad con la convocatoria pública que realice la Comisión de Transparencia.
+La Presidencia del Consejo Consultivo será en forma rotativa, anual y en estricto orden alfabético por apellido, entre las y los consejeros.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las y los integrantes del Consejo consultivo serán propuestos por las instituciones, organizaciones interesadas o en lo individual, de conformidad con la convocatoria pública que realice la Comisión de Transparencia.
 
 > <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
 
@@ -843,17 +895,21 @@ e) El lugar para la entrega de la solicitud de registro, la cual deberá ser aco
 
 Una vez concluido el plazo para el registro de los aspirantes, los expedientes de los aspirantes serán estudiados por la Comisión de Transparencia, la cual verificará que cumplan con los requisitos de elegibilidad, una vez hecho lo anterior, emitirá el dictamen respectivo en el cual se contendrá la lista del o los aspirantes que hayan cumplido los requisitos para su elección, en su caso. En todo momento se garantizará la máxima publicidad del proceso.
 
-> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El o los Consejeros serán electos por las dos terceras partes de los miembros del Congreso. En caso de que no se alcance la votación requerida, la Comisión de Transparencia presentará nueva propuesta que habrá de desahogarse con este mismo procedimiento.
+Las Consejeras y los Consejeros serán electos por las dos terceras partes de los miembros del Congreso. En caso de que no se alcance la votación requerida, la Comisión de Transparencia presentará nueva propuesta que habrá de desahogarse con este mismo procedimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 54.
 
-El Consejo requiere de la asistencia del Presidente del Consejo Consultivo, y la mitad de sus integrantes para sesionar válidamente y ejercer sus atribuciones, deberán asistir cuando menos tres consejeros.
+El Consejo requiere de la asistencia de la Presidenta o del Presidente del Consejo Consultivo, y la mitad de sus integrantes para sesionar válidamente y ejercer sus atribuciones, deberán asistir cuando menos tres consejeros.
 
 El Consejo debe sesionar ordinariamente cuando menos una vez cada cuatro meses y de manera extraordinaria cuando las dos terceras partes del Consejo lo determinen.
 
-Las decisiones del Consejo se toman por el voto de la mitad más uno de sus asistentes a la sesión, teniendo el Presidente del Consejo Consultivo voto de calidad para el caso de empate en la votación.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las decisiones del Consejo se toman por el voto de la mitad más uno de sus asistentes a la sesión, teniendo la Presidenta o el Presidente del Consejo Consultivo voto de calidad para el caso de empate en la votación.
 
 ###### Artículo 55.
 
@@ -861,7 +917,9 @@ El Consejo Consultivo tendrá las siguientes atribuciones:
 
 I. Fungir como órgano de consulta y asesoría en la planeación, orientación, sistematización y promoción de las actividades relacionadas con la transparencia y acceso a la información pública;
 
-II. Invitar, por conducto de su Presidente, a representantes de los sectores público, social y privado, para que expongan sus experiencias y realicen propuestas que coadyuven al cumplimiento de los fines del Instituto;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Invitar, por conducto de quien ocupe la Titularidad de la Presidencia, a representantes de los sectores público, social y privado, para que expongan sus experiencias y realicen propuestas que coadyuven al cumplimiento de los fines del Instituto;
 
 III. Analizar los distintos problemas que se presenten según su importancia y, en su caso, procurar propuestas en grado de especialización proponiendo alternativas de solución al Instituto;
 
@@ -869,9 +927,11 @@ IV. Promover la más amplia concertación entre los organismos públicos y priva
 
 V. Emitir su Reglamento de Operación y de Conducta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 56.
 
-El Presidente del Consejo tiene las siguientes atribuciones:
+La Presidenta o el Presidente del Consejo tiene las siguientes atribuciones:
 
 I. Representar formal y legalmente al Consejo Consultivo;
 
@@ -881,7 +941,9 @@ III. Elaborar y proponer el orden del día de las sesiones del Consejo Consultiv
 
 IV. Vigilar y dar seguimiento al cumplimiento de los acuerdos del Consejo Consultivo;
 
-V. Presentar un informe de su gestión anual y realizar la entrega recepción formalmente al Presidente que lo sustituya; y
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Presentar un informe de su gestión anual y realizar la entrega recepción formalmente a la Presidenta o Presidente que la o lo sustituya; y
 
 VI. Las demás que establezca el Reglamento de Operación y Conducta del Consejo.
 
@@ -889,7 +951,9 @@ VI. Las demás que establezca el Reglamento de Operación y Conducta del Consejo
 
 Para ser integrante del Consejo Consultivo se requiere:
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos;
 
 II. Haber desempeñado tareas sociales, profesionales, académicas, empresariales o culturales, que denoten compromiso y conocimiento en materia de transparencia, derechos humanos y acceso a la información pública;
 
@@ -901,19 +965,23 @@ V. No haber sido titular de alguna dependencia o entidad pública federal, estat
 
 VI. No haber sido miembro de los órganos de gobierno de algún ente público, durante los tres años anteriores al día de su nombramiento.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 58.
 
-Los integrantes del Consejo Consultivo durarán en el cargo cinco años, para lo cual el Secretario Técnico deberá llevar un registro de la duración del cargo de los consejeros, ya que tendrá la obligación de iniciar el proceso de elección del nuevo consejero.
+Los integrantes del Consejo Consultivo durarán en el cargo cinco años, para lo cual la Secretaria o Secretario Técnico deberá llevar un registro de la duración del cargo de los consejeros, ya que tendrá la obligación de iniciar el proceso de elección del nuevo consejero.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 59.
 
-El Consejo Consultivo participará en el proceso de elección de los comisionados del Instituto conforme a lo dispuesto por esta Ley.
+El Consejo Consultivo participará en el proceso de elección de comisionadas y comisionados del Instituto conforme a lo dispuesto por esta Ley.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 60.
 
-En caso de presentarse la vacante de Consejero, se procederá a cubrirla con arreglo al procedimiento de elección previsto en la presente Ley. Los Consejeros tendrán derecho (sic) ausentarse de forma temporal en los términos que establezca el Reglamento de Operación y Conducta del Consejo.
+En caso de presentarse la vacante de Consejera o Consejero, se procederá a cubrirla con arreglo al procedimiento de elección previsto en la presente Ley. Las y los Consejeros tendrán derecho (sic) ausentarse de forma temporal en los términos que establezca el Reglamento de Operación y Conducta del Consejo.
 
 ## TÍTULO CUARTO. DE LA CULTURA DE TRANSPARENCIA
 
@@ -2343,39 +2411,53 @@ Para efectos del vencimiento de los plazos para la interposición del recurso de
 
 El recurso de revisión se sustanciará conforme a las siguientes reglas:
 
-I. Interpuesto el recurso de revisión ante el Instituto, o una vez remitido por la Unidad de Transparencia de la autoridad responsable, el Secretario Ejecutivo del Instituto integrará expediente y lo turnará al comisionado ponente que corresponda, en el orden en que hayan sido nombrados los comisionados del Instituto, por el Congreso del Estado. Procurando una distribución equitativa en todo momento. Dicho comisionado deberá proceder a su análisis para que mediante acuerdo, decrete su admisión, prevención o su desechamiento.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Admitido el recurso de revisión, o una vez que se tenga al recurrente cumpliendo con la prevención, el comisionado ponente, ordenará correr traslado a la autoridad responsable, para que dentro del plazo de cinco días siguientes a dicha notificación, ofrezca su contestación y aporte las pruebas que considere pertinentes.
+I. Interpuesto el recurso de revisión ante el Instituto, o una vez remitido por la Unidad de Transparencia de la autoridad responsable, el Secretario Ejecutivo del Instituto integrará expediente y lo turnará a la comisionada o comisionado ponente que corresponda, en el orden en que hayan sido nombrados las y los comisionados del Instituto, por el Congreso del Estado. Procurando una distribución equitativa en todo momento. Dicha comisionada o comisionado deberá proceder a su análisis para que mediante acuerdo, decrete su admisión, prevención o su desechamiento.
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Admitido el recurso de revisión, o una vez que se tenga al recurrente cumpliendo con la prevención, la comisionada o el comisionado ponente, ordenará correr traslado a la autoridad responsable, para que dentro del plazo de cinco días siguientes a dicha notificación, ofrezca su contestación y aporte las pruebas que considere pertinentes.
 
 III. En el caso de que el recurrente señale un tercero interesado o el Instituto determine que existe uno, se le hará la notificación para que en el plazo de cinco días acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes.
 
-IV. Recibido en tiempo y en forma la contestación de la autoridad responsable y/o del tercero interesado, el comisionado ponente deberá proceder a su análisis para que mediante acuerdo, decrete su admisión o prevención. En caso de que la autoridad responsable y/o el tercero interesado no cumplan con la prevención dentro del plazo señalado para tal efecto, se les hará efectivo los apercibimientos decretados.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-V. En el mismo acuerdo que admita la contestación o en el que se tenga a la autoridad responsable y/o al tercero interesado cumpliendo con la prevención, o en el cual se les hizo efectivo los apercibimientos, el comisionado ponente señalará fecha para la celebración de la audiencia de ley, misma que deberá celebrarse en un plazo no mayor a diez días.
+IV. Recibido en tiempo y en forma la contestación de la autoridad responsable y/o del tercero interesado, la comisionada o el comisionado ponente deberá proceder a su análisis para que mediante acuerdo, decrete su admisión o prevención. En caso de que la autoridad responsable y/o el tercero interesado no cumplan con la prevención dentro del plazo señalado para tal efecto, se les hará efectivo los apercibimientos decretados.
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. En el mismo acuerdo que admita la contestación o en el que se tenga a la autoridad responsable y/o al tercero interesado cumpliendo con la prevención, o en el cual se les hizo efectivo los apercibimientos, la comisionada o el comisionado ponente señalará fecha para la celebración de la audiencia de ley, misma que deberá celebrarse en un plazo no mayor a diez días.
 
 VI. La celebración de la audiencia de ley, será para desahogar las pruebas que, debidamente ofrecidas y admitidas, así lo requieran, de igual forma, se admitirán o desecharán las pruebas supervinientes que se ofrezcan; conocer y resolver cualquier cuestión que se plantee en la misma audiencia y recibir los alegatos que se formulen por escrito. La falta de asistencia de las partes no impedirá la celebración de la audiencia.
 
-VII. Celebrada la audiencia de ley, el comisionado ponente, mediante acuerdo, decretará cerrada la instrucción, y pasará el expediente a resolución, citando a las partes a oírla.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+VII. Celebrada la audiencia de ley, la comisionada o el comisionado ponente, mediante acuerdo, decretará cerrada la instrucción, y pasará el expediente a resolución, citando a las partes a oírla.
 
-VIII. El comisionado ponente deberá elaborar el proyecto de resolución que en derecho corresponda, y una vez elaborado éste, lo remitirá al Comisionado Presidente, quien convocará a sesión ordinaria o extraordinaria del Pleno del Instituto, para su discusión, modificación o aprobación. Cuando para emitir resolución, se requiera verificar si la información es reservada o confidencial, de conformidad con lo dispuesto por el siguiente artículo, cuando así se requiera por el volumen o cantidad del expediente o cuando se estime necesario para dictar resolución apegada a derecho, el comisionado ponente dictará acuerdo de ampliación de plazo, que no podrá exceder de veinte días, mismo que será notificado a las partes.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-IX. En el caso de que se interponga el recurso de revisión por la causal dispuesta en la fracción VI del artículo 144 de esta Ley, se procederá en términos de los (sic) dispuesto por las fracciones I y II del presente artículo, y una vez valorados los elementos con que cuente, el comisionado ponente decretará cerrada la instrucción y pasará el expediente a resolución, citando a las partes a oírla, procediendo en los términos dispuestos en la fracción VIII del presente artículo, requiriéndole a la autoridad responsable que dentro del plazo de diez días, entregue la información solicitada, siempre y cuando ésta no sea reservada o confidencial.
+VIII. La comisionada o el comisionado ponente deberá elaborar el proyecto de resolución que en derecho corresponda, y una vez elaborado éste, lo remitirá a la Comisionada o al Comisionado Presidente, quien convocará a sesión ordinaria o extraordinaria del Pleno del Instituto, para su discusión, modificación o aprobación. Cuando para emitir resolución, se requiera verificar si la información es reservada o confidencial, de conformidad con lo dispuesto por el siguiente artículo, cuando así se requiera por el volumen o cantidad del expediente o cuando se estime necesario para dictar resolución apegada a derecho, la comisionada o el comisionado ponente dictará acuerdo de ampliación de plazo, que no podrá exceder de veinte días, mismo que será notificado a las partes.
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. En el caso de que se interponga el recurso de revisión por la causal dispuesta en la fracción VI del artículo 144 de esta Ley, se procederá en términos de los (sic) dispuesto por las fracciones I y II del presente artículo, y una vez valorados los elementos con que cuente, la comisionada o el comisionado ponente decretará cerrada la instrucción y pasará el expediente a resolución, citando a las partes a oírla, procediendo en los términos dispuestos en la fracción VIII del presente artículo, requiriéndole a la autoridad responsable que dentro del plazo de diez días, entregue la información solicitada, siempre y cuando ésta no sea reservada o confidencial.
 
 ###### Artículo 157.
 
 La falta de contestación de la autoridad responsable dentro del plazo a que se hace mención en la fracción II del artículo que precede, harán presumir como ciertos los hechos alegados por el recurrente, siempre que éstos le sean directamente imputables a la autoridad responsable.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 158.
 
-El comisionado ponente, deberá determinar de oficio o a petición de parte, desde el momento en que se les asigne un recurso de revisión para su conocimiento o cuando exista promoción al respecto por alguna de las partes, si se actualiza alguna causal de improcedencia o sobreseimiento prevista en la Ley.
+La comisionada o el comisionado ponente, deberá determinar de oficio o a petición de parte, desde el momento en que se les asigne un recurso de revisión para su conocimiento o cuando exista promoción al respecto por alguna de las partes, si se actualiza alguna causal de improcedencia o sobreseimiento prevista en la Ley.
 
-> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 159.
 
-Cuando como parte de la contestación de la autoridad responsable o durante la celebración de la audiencia de ley, ésta pone a disposición o acredita de manera fehaciente la entrega de la información requerida en la solicitud de información, el comisionado ponente, mediante acuerdo, dará vista al recurrente para que dentro del plazo de diez días siguientes a la notificación respectiva, alegue lo que a su derecho convenga o manifieste su conformidad con dicha información, apercibiéndolo que en caso de no hacerlo, se sobreseerá el recurso de revisión, en términos de lo señalado por la fracción III del artículo 174 de la presente Ley.
+Cuando como parte de la contestación de la autoridad responsable o durante la celebración de la audiencia de ley, ésta pone a disposición o acredita de manera fehaciente la entrega de la información requerida en la solicitud de información, la comisionada o el comisionado ponente, mediante acuerdo, dará vista al recurrente para que dentro del plazo de diez días siguientes a la notificación respectiva, alegue lo que a su derecho convenga o manifieste su conformidad con dicha información, apercibiéndolo que en caso de no hacerlo, se sobreseerá el recurso de revisión, en términos de lo señalado por la fracción III del artículo 174 de la presente Ley.
 
 ###### Artículo 160.
 
@@ -2908,3 +2990,11 @@ B.O. 20 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2694 SE REFORMAN LAS FRACCIONES X, XI Y SE RECORREN LAS SUBSECUENTES, ADICIONÁNDOSE LA FRACCIÓN XVIII AL ARTÍCULO 77, Y SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 79, ASÍ COMO EL INCISO G) DE LA FRACCIÓN II, INCISO D) DE LA FRACCIÓN IV E INCISO C) DE LA FRACCIÓN V, AL ARTÍCULO 80, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 UNICO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el cual entrara en vigor al día siguiente al de su publicación.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
