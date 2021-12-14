@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-101646"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2019-04-20"
+last_updated: "2021-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el sábado 28 de junio de 2014.
 
@@ -69,7 +69,9 @@ I. Actos Anticipados de Campaña: Los actos de expresión que se realicen bajo c
 
 II. Actos Anticipados de Precampaña: Las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
 
-III. Candidato Independiente: El ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Candidato Independiente: Ciudadana o Ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
 
 IV. Ciudadano Sudcaliforniano: La persona que teniendo la calidad de mexicano reúna además los requisitos establecidos en los Artículos 26 y 27 de la Constitución Política del Estado Libre y Soberano de Baja California Sur;
 
@@ -93,6 +95,22 @@ XIII. Ley: La Ley Electoral del Estado de Baja California Sur, y
 
 XIV. Tribunal Electoral: El Tribunal Estatal Electoral de Baja California Sur.
 
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XV. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XVI. Violencia política contra las mujeres en razón de género:
+
+Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, B.O. 14 DE DICIEMBRE DE 2021.]</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de baja California Sur, y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
 ###### Artículo 4°.
 
 El Instituto, dispondrá lo necesario para asegurar el cumplimiento de esta Ley y de la Ley General. Para tal efecto, las autoridades federales, estatales y municipales deberán prestar la colaboración necesaria para el adecuado desempeño de las funciones de las autoridades electorales establecidas por la Constitución y esta Ley.
@@ -105,7 +123,9 @@ La interpretación de esta Ley se hará conforme a los criterios gramatical, sis
 
 La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Nacional y al Instituto, a los partidos políticos y sus candidatos.
 
-El Instituto, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El Instituto, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley, así como garantizar el principio de paridad de género en el ejercicio de los derechos político-electorales, así como el respeto a los derechos humanos.
 
 ###### Artículo 6°.
 
@@ -115,7 +135,9 @@ I.- Derechos:
 
 a) Votar en las elecciones populares en los términos de esta Ley.
 
-b) Poder ser votado para todo cargo de elección popular, teniendo las calidades que establece esta Ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine esta Ley;
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+b) Poder ser votada o votado para todo cargo de elección popular, teniendo las calidades que establece esta Ley. El derecho de solicitar el registro de candidatos o candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine esta Ley;
 
 c) Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
@@ -141,21 +163,23 @@ g) Acudir a recibir, ante la autoridad electoral, la capacitación para el desem
 
 h) Las demás que señale la Ley.
 
-Será causa justificada del ciudadano para no desempeñar una función electoral:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-I.- Haber sido designado representante de un partido político ante el Instituto Estatal Electoral y sus órganos el día de la jornada electoral;
+III.- Será causa justificada del ciudadano para no desempeñar una función electoral:
 
-II.- Ser o haber sido dirigente de un partido político los tres años anteriores;
+a) Haber sido designado representante de un partido político ante el Instituto Estatal Electoral y sus órganos el día de la jornada electoral;
 
-III.- Ser candidato propietario o suplente, a cualquier puesto de elección popular;
+b) Ser o haber sido dirigente de un partido político los tres años anteriores;
 
-IV.- Ser Notario Público;
+c) Contar con registro de una candidatura, ya sea en calidad de ser candidato propietario o suplente, a cualquier puesto de elección popular;
 
-V.- Ser Agente del Ministerio Público;
+d) Ser Notario o Notaria Pública;
 
-VI.- Ser Magistrado; y
+e) Ser Agente del Ministerio Público;
 
-VII.- Ser Juez o Secretario de Acuerdos, en funciones.
+f) Ser Magistrada o Magistrado; y
+
+g) Ser Jueza, Juez o titular de la Secretaría de Acuerdos, en funciones.
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO ESTATAL ELECTORAL
 
@@ -185,7 +209,13 @@ VI. Velar por la autenticidad y efectividad del sufragio; y
 
 VII. Llevar a cabo la promoción del voto y la difusión de la educación cívica y la cultura democrática.
 
-Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VIII. Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, paridad, y se realizarán con perspectiva de género.
 
 ###### Artículo 9°.
 
@@ -201,13 +231,17 @@ El Instituto tendrá las siguientes atribuciones:
 
 I. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos que establezca el Instituto Nacional;
 
-II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidaturas;
 
 III. Garantizar la ministración oportuna del financiamiento público a que tienen derechos (sic) los partidos políticos nacionales y locales y, en su caso, a los Candidatos Independientes, en la entidad de conformidad con lo establecido en el Título Décimo Tercero de la presente Ley;
 
 IV. Desarrollar y ejecutar los programas de educación cívica;
 
-V. Orientar a los ciudadanos en el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Orientar a la ciudadanía en el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
 VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
 
@@ -215,7 +249,9 @@ VII. Imprimir los documentos y producir los materiales electorales, en términos
 
 VIII. Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo en el Estado con base en las disposiciones de esta Ley y con base en los resultados consignados en las actas de cómputos distritales y municipales;
 
-IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la legislatura, conforme al cómputo y declaración de validez que efectúe el propio organismo;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. Expedir las constancias de mayoría y declarar la validez de la elección a las y los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la legislatura, conforme al cómputo y declaración de validez que efectúe el propio organismo;
 
 X. Efectuar el cómputo de la elección del Titular del Poder Ejecutivo en la entidad;
 
@@ -223,7 +259,9 @@ XI. Implementar y operar el Programa de Resultados Electorales Preliminares de l
 
 XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en el Estado;
 
-XIII. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en el Estado, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIII. Desarrollar las actividades que se requieran para garantizar el derecho de la ciudadanía a realizar labores de observación electoral en el Estado, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
 XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
 
@@ -235,7 +273,13 @@ XVII. Ejercer la función de oficialía electoral respecto de actos o hechos exc
 
 XVIII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales del Instituto Nacional, sobre el ejercicio de las funciones que éste le hubiera delegado, conforme a lo previsto por la Ley General y demás disposiciones que emita el Consejo General, y
 
-XIX. Las demás que determinen la Ley General y esta Ley.
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIX. Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos político-electorales de las mujeres, y
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XX. Las demás que determinen la Ley General y ésta Ley.
 
 ###### Artículo 11.
 
@@ -291,19 +335,35 @@ c) Las mesas directivas de casillas.
 
 ### Capítulo II. Del Consejo General del Instituto Estatal Electoral y de su Presidencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 12.
 
-El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad guíen todas las actividades del Instituto.
+El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género guíen todas las actividades del Instituto. En su desempeño aplicará la perspectiva de género.
 
-El Consejo General se integra por un Consejero Presidente, seis Consejeros Electorales, un representante de cada uno de los partidos políticos y el Secretario Ejecutivo. Solo los Consejeros Electorales tendrán derecho a voto.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El Consejero Presidente del Consejo General y los Consejeros Electorales durarán en su encargo siete años, y serán electos y removidos por el Consejo General del Instituto Nacional, de conformidad con lo establecido por el artículo 116, fracción IV inciso c) de la Constitución General, y el procedimiento establecido en la Ley General.
+El Consejo General se integra por una Consejera o Consejero Presidente, tres Consejeras y tres Consejeros Electorales, personas representantes de los partidos políticos y una Secretaría Ejecutiva. Solo las Consejeras y Consejeros Electorales, tendrán derecho a voto.
 
-El Secretario Ejecutivo será nombrado y removido por el voto de las dos terceras partes de los consejeros electorales del Consejo Estatal, a propuesta del Consejero Presidente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La conformación del mismo deberá garantizar el principio de paridad de género.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El Consejero o Consejera Presidente del Consejo General y los Consejeros Electorales durarán en su encargo siete años, y serán electos y removidos por el Consejo General del Instituto Nacional, de conformidad con lo establecido por el artículo 116, fracción IV inciso c) de la Constitución General, y el procedimiento establecido en la Ley General.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La Secretaría o Secretario Ejecutivo será nombrado y removido por el voto de las dos terceras partes de las y los Consejeros electorales del Consejo General, a propuesta de la Consejera o Consejero Presidente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 Cada partido político designará a un representante propietario y un suplente, con voz pero sin voto.
 
-Los partidos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente al Consejero Presidente.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los partidos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente a la Consejera o Consejero Presidente.
 
 ###### Artículo 13.
 
@@ -319,21 +379,31 @@ Las resoluciones se tomarán por mayoría de votos, salvo las que conforme a est
 
 En el caso de ausencia definitiva del Consejero Presidente del Consejo General, los Consejeros Electorales nombrarán, de entre ellos mismos, a quien deba sustituirlo provisionalmente, comunicando de inmediato al Consejo General del Instituto Nacional a fin de que se designe su sustituto en los términos señalados en la Constitución General y la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
+El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero o Consejera Electoral.
 
-Independientemente de lo señalado en el párrafo anterior, las comisiones de: Educación Cívica y Capacitación Electoral; Organización Electoral; Partidos Políticos, Registro y Prerrogativas; Transparencia y Acceso a la Información y del Servicio Profesional Electoral; Quejas y Denuncias y de Procedimiento Contencioso Electoral, funcionarán permanentemente y se integrarán exclusivamente por Consejeros Electorales designados por el Consejo General. Los Consejeros Electorales podrán participar hasta en tres de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Para cada proceso electoral, se fusionarán las comisiones de Educación Cívica y Capacitación Electoral y de Organización Electoral, a fin de integrar la Comisión de Educación Cívica, Capacitación y Organización Electoral; el Consejo General designará, en septiembre del año previo al de la elección, a sus integrantes y al Consejero Electoral que la presidirá. Todas las comisiones se integrarán con tres Consejeros Electorales.
+Independientemente de lo señalado en el párrafo anterior, las comisiones de: Educación Cívica y Capacitación Electoral; Organización Electoral; Partidos Políticos, Registro y Prerrogativas; Transparencia y Acceso a la Información y del Servicio Profesional Electoral; Quejas y Denuncias, de Procedimiento Contencioso Electoral y Comisión de Igualdad de Género y No Discriminación, funcionarán permanentemente y se integrarán exclusivamente por Consejeras y Consejeros Electorales designados por el Consejo General. Los Consejeros y Consejeras Electorales podrán participar hasta en tres de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
 
-Las comisiones permanentes contarán con un secretario técnico que será el titular de la Dirección Ejecutiva correspondiente.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Para cada proceso electoral, se fusionarán las comisiones de Educación Cívica y Capacitación Electoral y de Organización Electoral, a fin de integrar la Comisión de Educación Cívica, Capacitación y Organización Electoral; el Consejo General designará, en septiembre del año previo al de la elección, a sus integrantes y al Consejero o Consejera Electoral que la presidirá. Todas las comisiones se integrarán con tres Consejeros y Consejeras Electorales.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las comisiones permanentes contarán con un secretario técnico que será el o la titular de la Dirección Ejecutiva correspondiente, quien podrá suplirse en sus funciones de secretario técnico, por el servidor público de nivel inmediato inferior que determine.
 
 El titular de la Dirección Ejecutiva podrá ser suplido en sus funciones de secretario técnico, por el servidor público de nivel inmediato inferior que determine.
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine esta Ley o los reglamentos y acuerdos del Consejo General.
 
-El Secretario Ejecutivo del Consejo General colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La Secretaria o Secretario Ejecutivo del Consejo General colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
 
 ###### Artículo 15.
 
@@ -353,15 +423,21 @@ A partir de la fecha de instalación y hasta el término del proceso electoral s
 
 Apartado A.- Los Consejos Municipales se integrarán de la siguiente manera:
 
-I.- Por un Consejero Presidente y Cuatro Consejeros Electorales, con voz y voto, que serán nombrados en base al procedimiento establecido en la convocatoria emitida por el Consejo General, a más tardar en la tercera semana del mes de octubre del año previo al de las elecciones ordinarias;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I.- Por una Consejera o un Consejero Presidente y dos Consejeras y dos Consejeros Electorales, con voz y voto, que serán nombrados en base al procedimiento establecido en la convocatoria emitida por el Consejo General, a más tardar en la tercera semana del mes de octubre del año previo al de las elecciones ordinarias. Deberá estar integrado de manera paritaria y la ocupación de la presidencia será rotativa para cada elección;
 
 II.- Por un representante de cada uno de los partidos políticos y de candidatos independientes acreditados conforme a esta Ley, con derecho a voz pero no a voto;
 
-III.- Por un Secretario General, con derecho a voz pero no a voto, nombrado por el Consejo General.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III.- Por una o un Secretario General, con derecho a voz pero no a voto, nombrado por el Consejo General.
 
 Por cada uno de los integrantes propietarios de los Consejos Municipales Electorales, se designará un suplente.
 
-El Presidente, el Secretario General y los Consejeros Electorales percibirán la remuneración económica que al efecto determine el Instituto Estatal Electoral.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La Presidenta o Presidente, la Secretaría o Secretario General y las y los Consejeros Electorales percibirán la remuneración económica que al efecto determine el Instituto Estatal Electoral.
 
 Un representante del Registro Federal de Electores podrá asistir a las sesiones del Consejo Municipal correspondiente, con voz pero sin voto, a invitación expresa.
 
@@ -439,15 +515,21 @@ Se instalarán a más tardar en la tercer semana del mes de octubre del año pre
 
 Apartado A.- Los Consejos Distritales se integrarán de la siguiente manera:
 
-I. Por un Consejero Presidente y cuatro Consejeros Electorales con voz y voto, que serán nombrados por el Consejo General, en base al procedimiento establecido en la convocatoria emitida para tal efecto, a más tardar en la tercer semana de octubre del año previo al de las elecciones;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Por una o un Consejero Presidente y cuatro Consejeras o Consejeros Electorales con voz y voto, que serán nombrados por el Consejo General, en base al procedimiento establecido en la convocatoria emitida para tal efecto, a más tardar en la tercera semana de octubre del año previo al de las elecciones. Deberá estar integrado de manera paritaria y la ocupación de la presidencia será rotativa para cada elección;
 
 II. Por un representante de cada uno de los partidos políticos, candidatos independientes y coaliciones acreditados conforme a esta Ley, con derecho a voz; y
 
-III. Por un Secretario General con derecho a voz pero no a voto, nombrado por el Consejo General.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Por una Secretaria o un Secretario General con derecho a voz pero no a voto, nombrado por el Consejo General.
 
 Por cada uno de los integrantes propietarios de los Consejos Distritales, se designará un suplente.
 
-El Presidente, el Secretario General y los Consejeros Electorales percibirán la remuneración económica que al efecto determine el Consejo General.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La Presidenta o Presidente, la Secretara (sic) o Secretario General y las consejeras y Consejeros Electorales percibirán la remuneración económica que al efecto determine el Consejo General.
 
 Apartado B.- Los Consejos Distritales tendrán las siguientes atribuciones:
 
@@ -479,7 +561,9 @@ XIII. Impartir en su caso, cursos de capacitación a los ciudadanos residentes e
 
 XIV. Las demás que le confiera esta Ley o el Instituto.
 
-Apartado C.- El Consejero Presidente del Consejo Distrital tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Apartado C.- La Consejera o Consejero Presidente del Consejo Distrital tendrá las siguientes atribuciones:
 
 I. Informar al Instituto sobre el desarrollo de sus funciones y del propio Consejo;
 
@@ -497,21 +581,29 @@ VII. Solicitar, cuando juzgue conveniente, a las autoridades correspondientes el
 
 VIII. Vigilar el cumplimiento de las resoluciones que dicte el propio Consejo;
 
-IX. Designar en su caso, a los ciudadanos que deberán fungir como presidentes, secretarios y escrutadores cuando mediante el procedimiento de insaculación no se hubiesen integrado la totalidad de mesas directivas de casillas;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. Designar en su caso, a los ciudadanos y ciudadanas que deberán fungir como presidentes, secretarios y escrutadores cuando mediante el procedimiento de insaculación no se hubiesen integrado la totalidad de mesas directivas de casillas;
 
 X. Remitir los recursos de inconformidad al Tribunal Electoral; y
 
 XI. Las demás que le confieran esta Ley o el Consejo General del Instituto.
 
-Apartado D.- El Secretario del Consejo Distrital tendrá las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-I. Auxiliar al Consejero Presidente del Consejo Distrital en los asuntos que éste le encomiende;
+Apartado D.- La Secretaria o Secretario del Consejo Distrital tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Auxiliar a la Consejera o Consejero Presidente del Consejo Distrital en los asuntos que éste le encomiende;
 
 II. Preparar el orden del día de las sesiones del Consejo; declarar la existencia del quórum legal para sesionar; dar fe de lo actuado en las sesiones; elaborar el acta correspondiente y autorizarla conjuntamente con el Presidente;
 
 III. Llevar el archivo del Consejo Distrital;
 
-IV. Expedir y entregar, por instrucciones del Consejero Presidente del Consejo, copias certificadas de registros, nombramientos, documentos, actas y actuaciones que le soliciten por escrito los Consejeros Electorales y representantes de los partidos políticos, candidatos independientes o coaliciones acreditados, recabando la constancia de recibo correspondiente, salvo el caso de que tal expedición amerite acuerdo expreso de los integrantes del Consejo y existan los medios materiales para su expedición o en su caso, a costa del partido político, candidato independiente o coalición solicitante;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Expedir y entregar, por instrucciones de la Consejera o Consejero Presidente del Consejo, copias certificadas de registros, nombramientos, documentos, actas y actuaciones que le soliciten por escrito los Consejeros Electorales y representantes de los partidos políticos, candidatos independientes o coaliciones acreditados, recabando la constancia de recibo correspondiente, salvo el caso de que tal expedición amerite acuerdo expreso de los integrantes del Consejo y existan los medios materiales para su expedición o en su caso, a costa del partido político, candidato independiente o coalición solicitante;
 
 V. Supervisar la administración de los recursos humanos, materiales y financieros del Consejo; y
 
@@ -529,9 +621,13 @@ IV. Auxiliar en la recepción de los paquetes electorales; y
 
 V. Las demás que le confiera esta Ley y el propio órgano electoral.
 
-Apartado F.- Para ser Presidente y Consejero Electoral de los Consejos Municipales o Distritales del Estado, deberán satisfacerse los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-I. Ser ciudadano sudcaliforniano en pleno goce de sus derechos políticos y civiles;
+Apartado F.- Para ser Presidente y Consejero Electoral de los Consejos Municipales o Distritales del Estado, deberá satisfacerse los siguientes requisitos:
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Ser ciudadano o ciudadana sudcaliforniana en pleno goce de sus derechos políticos y civiles;
 
 II. Estar inscrito en el Registro Federal de Electores y contar con la credencial para votar;
 
@@ -559,11 +655,15 @@ I. Aprobar y expedir los reglamentos interiores necesarios para el debido ejerci
 
 II. Vigilar la oportuna integración y adecuado funcionamiento de los órganos del Instituto, y conocer, por conducto de su Presidente, del Secretario Ejecutivo o de sus comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesario solicitarles;
 
-III. Designar al Secretario Ejecutivo por el voto de las dos terceras partes de los Consejeros Electorales, conforme a la propuesta que presente su Consejero Presidente;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Designar a la Secretaria o Secretario Ejecutivo por el voto de las dos terceras partes de los Consejeros Electorales, conforme a la propuesta que presente la o el Consejero Presidente, misma que deberá ser ocupada por hombre y mujer de manera rotativa.
 
 IV. Designar en caso de ausencia del Secretario Ejecutivo del Consejo General, de entre los integrantes de la Junta Estatal Ejecutiva, a la persona que fungirá como Secretario del Consejo General en la sesión;
 
-V. Designar a los directores ejecutivos y de unidades técnicas del Instituto, a propuesta que presente el Consejero Presidente. En el caso de las direcciones ejecutivas y unidades técnicas previstas en esta Ley, el nombramiento de sus titulares deberá realizarse por el voto de las dos terceras partes de los Consejeros Electorales;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Designar a las o los directores ejecutivos y de unidades técnicas del instituto, a propuesta que presente la Consejera o el Consejero Presidente. En el caso de las direcciones ejecutivas y unidades técnicas previstas en esta Ley, el nombramiento de sus titulares deberá realizarse por el voto de las dos terceras partes de las y los Consejeros Electorales;
 
 VI. Designar, mediante convocatoria pública, a los funcionarios que se desempeñaran como consejeros de los consejos distritales y municipales durante los procesos electorales, quedando sin efecto el nombramiento una vez concluido el proceso respectivo;
 
@@ -571,7 +671,9 @@ VII. Resolver sobre los convenios de fusión, frente, coalición y candidaturas 
 
 VIII. Recibir y resolver sobre la solicitud de candidatura común a gobernador, que soliciten los partidos políticos, en términos de lo establecido en esta Ley;
 
-IX. Vigilar que las actividades de los partidos políticos y las agrupaciones políticas locales se desarrollen con apego a las Leyes generales en la materia, así como la presente Ley, y cumplan con las obligaciones a que están sujetos;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. Vigilar que las actividades de los partidos políticos nacionales y las agrupaciones políticas locales se desarrollen con apego a las Leyes locales y generales en la materia, así como los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y vigilar que cumplan con las obligaciones a las que están sujetos;
 
 X. Vigilar que en lo relativo a las prerrogativas de los partidos politicos incluyendo el acceso a medios de comunicación distintos a radio y televisión, se actúe con apego a las Leyes Generales en la materia, asi como a lo dispuesto en los reglamentos que al efecto expida el Consejo General del Instituto Nacional, y convenios que expida el propio Consejo Generaldel (sic) Instituto;
 
@@ -619,9 +721,11 @@ XXXI. Informar al Congreso del Estado de Baja California Sur, la integración de
 
 XXXII. Convenir y asumir las funciones delegadas por el Instituto Nacional Electoral, con base en la fracción V apartado C numeral 11 inciso b del artículo 41 de la Constitución General y 125 de la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 19.
 
-Corresponden al Presidente del Consejo las atribuciones siguientes:
+Corresponden a la Presidenta o Presidente del Consejo las atribuciones siguientes:
 
 I. Garantizar la unidad y cohesión de las actividades de los órganos del Instituto;
 
@@ -635,7 +739,9 @@ V. Recibir las listas de candidaturas a diputados por el principio de representa
 
 VI. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo General;
 
-VII. Proponer al Consejo General el nombramiento del Secretario Ejecutivo, de los Directores Ejecutivos y demás titulares de unidades técnicas del Instituto;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Proponer al Consejo General el nombramiento de la Secretaria o el Secretario Ejecutivo, de las o los Directores Ejecutivos y demás Titulares de Unidades Técnicas del Instituto;
 
 VIII. Designar de entre los integrantes de la Junta Estatal Ejecutiva a quien sustanciará, en términos de la Ley de la materia, el medio de impugnación que se interponga en contra de los actos o resoluciones del Secretario Ejecutivo;
 
@@ -695,9 +801,11 @@ XV. Lo demás que le sea conferido por esta Ley, el Consejo General y su preside
 
 ### Capítulo IV. De la Junta Estatal Ejecutiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 21.
 
-La Junta Estatal Ejecutiva será presidida por el Presidente del Consejo General y se integrará con el Secretario Ejecutivo y con los directores ejecutivos de Prerrogativas y Partidos Políticos; de Organización Electoral; de Educación Cívica y Capacitación Electoral; de Quejas y Denuncias y de Procedimiento Contencioso Electoral; de Transparencia y Acceso a la Información y del Servicio Profesional Electoral y de Administración y Finanzas.
+La Junta Estatal Ejecutiva deberá de estar integrada observando el principio de paridad de género, será presidida por la Presidenta o Presidente del Consejo General y se integrará con la o el titular de la Secretaria Ejecutiva, con las y los directores ejecutivos de Prerrogativas y Partidos Políticos; de Organización Electoral; de Educación Cívica y Capacitación Electoral; de Quejas y Denuncias y de Procedimiento Contencioso Electoral; de Transparencia y Acceso a la Información y del Servicio Profesional Electoral y de Administración y Finanzas.
 
 El Contralor Interno podrá participar, a convocatoria del Consejero Presidente, en las sesiones de la Junta Estatal Ejecutiva.
 
@@ -797,15 +905,21 @@ IV. Las demás que establezcan las Leyes generales en la materia, esta Ley y dem
 
 ### Capítulo VI. De las Direcciones Ejecutivas y Unidades Técnicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-Al frente de cada una de las direcciones de la Junta Estatal Ejecutiva habrá un Director Ejecutivo o Director de Unidad Técnica, según el caso, quien será nombrado por el Consejo General.
+Al frente de cada una de las direcciones de la Junta Estatal Ejecutiva habrá una Directora o un Director Ejecutivo, o de Unidad Técnica, según el caso, quien será nombrado por el Consejo General.
 
 El Consejo General hará los nombramientos a que se refiere el párrafo anterior, de conformidad con lo dispuesto en el Artículo 18 de esta Ley.
 
-Los directores ejecutivos o de unidades técnicas deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-En caso de ser necesaria, la creación de unidades técnicas distintas a las previstas en esta Ley, deberá ser aprobada por el voto de la mayoría de los consejeros electorales del Consejo General, siempre que su creación no implique duplicidad de funciones con cualquier otra área del Instituto y se cuente con la disponibilidad presupuestaria necesaria para su funcionamiento.
+Las y los Directores ejecutivos o de unidades técnicas deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En caso de ser necesaria, la creación de unidades técnicas distintas a las previstas en esta Ley, deberá ser aprobada por el voto de la mayoría de las y los consejeros electorales del Consejo General, siempre que su creación no implique duplicidad de funciones con cualquier otra área del Instituto y se cuente con la disponibilidad presupuestaria necesaria para su funcionamiento.
 
 De acuerdo con sus funciones las unidades técnicas podrán ser permanentes o transitorias.
 
@@ -831,7 +945,9 @@ g) Proponer al Instituto Nacional Electoral las pautas de radio y televisión qu
 
 h) Llevar el libro de registro de los integrantes de los órganos directivos de los partidos políticos y de sus representantes acreditados ante los órganos del Instituto, así como el de los dirigentes de las agrupaciones políticas;
 
-i) Llevar los libros de registro de los candidatos a los puestos de elección popular;
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+i) Llevar los libros de candidaturas a los puestos de elección popular;
 
 j) Organizar la elección de los dirigentes de los partidos políticos locales, cuando así lo soliciten al Instituto. Los gastos correspondientes serán con cargo a las prerrogativas de los partidos políticos solicitantes;
 
@@ -875,13 +991,17 @@ k) Las demás que le confieran las Leyes generales, esta Ley y el Reglamento Int
 
 III.- La Dirección Ejecutiva de Educación Cívica y Capacitación Electoral tiene las siguientes atribuciones:
 
-a) Elaborar, proponer y coordinar a la Comisión de Educación Cívica los programas de educación cívica que desarrolle el Instituto y sus órganos desconcentrados.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+a) Elaborar, proponer y coordinar a la Comisión de Educación Cívica los programas de educación cívica, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político, en el Instituto y sus órganos desconcentrados.
 
 b) Vigilar el cumplimiento de los programas y políticas de educación cívica desarrollados;
 
 c) Diseñar y proponer estrategias para promover el voto entre la ciudadanía;
 
-d) Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+d) Orientar a la ciudadanía para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
 e) Llevar a cabo las acciones necesarias para exhortar a los ciudadanos que se inscriban y actualicen su registro en el Registro Federal de electores y para que acudan a votar;
 
@@ -893,9 +1013,19 @@ h) Elaborar los dictámenes correspondientes que deban someterse a consideració
 
 i) Ejecutar los acuerdos relativos al diseño y capacitación electoral que determine el Consejo General del Instituto Nacional Electoral;
 
-j) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competencia, y
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-k) Las demás que le confiera la Ley General de Instituciones y Procedimientos Electorales, esta Ley y el Reglamento.
+j) Acordar con la Secretaria o el Secretario Ejecutivo del Instituto los asuntos de su competencia;
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+k) Realizar campañas de información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+l) Capacitar al personal del Instituto, organismos públicos locales e integrantes de mesas directivas de casillas para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como en igualdad sustantiva, y
+
+m) Las demás que le confiera la Ley General de Instituciones y Procedimientos Electorales, esta Ley y el Reglamento.
 
 IV.- La Dirección de Quejas y Denuncias y de Procedimiento Contencioso Electoral tiene las siguientes atribuciones:
 
@@ -997,17 +1127,25 @@ i) Las demás que le confiera esta Ley y el Consejo General.
 
 ### Capítulo I. De las Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 28.
 
-El Tribunal Estatal Electoral es el órgano jurisdiccional especializado en materia electoral en el Estado y gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Estará integrado por Tres Magistrados que actuaran en forma colegiada y deberán cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+El Tribunal Estatal Electoral es el órgano jurisdiccional especializado en materia electoral en el Estado y gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Estará integrado por Tres Magistradas y Magistrados, observando el principio de paridad, alternando el género mayoritario, que actuaran en forma colegiada y deberán cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
 
 El Tribunal tendrá su residencia en la Capital del Estado.
 
-Los Magistrados Electorales, serán electos de conformidad a lo establecido en el Artículo 108 de la Ley General y durarán en el cargo siete años.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El Magistrado Presidente será designado por votación mayoritaria de los magistrados del Tribunal Electoral y durará en su encargo dos años; la Presidencia será rotatoria.
+Las y los Magistrados Electorales, serán electos de conformidad a lo establecido en el Artículo 108 de la Ley General y durarán en el cargo siete años.
 
-El Tribunal funcionará en pleno, para que sesione válidamente se requiere la presencia de por lo menos dos de sus integrantes; sus determinaciones serán válidas con el voto de la mayoría simple de los presentes. En caso de empate, el Magistrado Presidente tendrá voto de calidad, después de haber emitido su voto ordinario.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La Magistrada o Magistrado Presidente será designado por votación mayoritaria de los magistrados del Tribunal Electoral y durará en su encargo dos años. La Presidencia será rotatoria.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El Tribunal funcionará en pleno, para que sesione válidamente se requiere la presencia de por lo menos dos de sus integrantes; sus determinaciones serán válidas con el voto de la mayoría simple de los presentes. En caso de empate, el de la Magistrada o Magistrado Presidente tendrá voto de calidad, después de haber emitido su voto ordinario.
 
 ###### Artículo 29.
 
@@ -1051,9 +1189,11 @@ Durante el periodo de su encargo, los Magistrados Electorales no podrán tener n
 
 Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo de dos años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 32.
 
-El Magistrado Presidente del Tribunal Estatal Electoral, además de las funciones que esta Ley le encomienda a los Magistrados, tendrá las siguientes atribuciones:
+La Magistrada o el Magistrado Presidente del Tribunal Estatal Electoral, además de las funciones que esta Ley le encomienda, tendrá las siguientes atribuciones:
 
 I.- Convocar a los demás miembros del Tribunal, para la instalación e inicio de sus funciones, en los términos de esta Ley;
 
@@ -1213,11 +1353,15 @@ Las excusas y recusaciones que por impedimento legal se presenten, serán califi
 
 ### Capítulo IV. Requisitos para ser Magistrado Electoral
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 43.
 
-Para ser Magistrado Electoral se requiere lo siguiente:
+Para ser Magistrada o Magistrado Electoral se requiere lo siguiente:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
@@ -1271,17 +1415,29 @@ Los magistrados electorales sólo podrán ser privados de sus cargos en término
 
 ### Capítulo I. De la Participación de los Ciudadanos en las Elecciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 46.
 
-Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
+Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de las Ciudadanas y Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
 
 El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
-Es derecho de los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la presente Ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Es derecho y obligación de los ciudadanos, votar en las consultas populares sobre temas de trascendencia estatal o municipal, en los términos que determine la Ley de la materia y en los procesos de participación ciudadana que estén previstos en la legislación correspondiente.
+Es derecho de las ciudadanas y los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la presente Ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley.
 
-Para efectos del presente artículo, es obligación de los ciudadanos solicitar su incorporación al Padrón Electoral, en términos de lo dispuesto por los Artículos 135 y 136 de la Ley General.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Es derecho y obligación de la ciudadanía, votar en las consultas populares sobre temas de trascendencia estatal o municipal, en los términos que determine la Ley de la materia y en los procesos de participación ciudadana que estén previstos en la legislación correspondiente.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Para efectos del presente artículo, es obligación de la ciudadanía solicitar su incorporación al Padrón Electoral, en términos de lo dispuesto por los Artículos 135 y 136 de la Ley General.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 47.
 
@@ -1291,9 +1447,11 @@ Es derecho exclusivo de los ciudadanos participar como observadores de los actos
 
 Asimismo, atendiendo a lo dispuesto por el inciso m) del Artículo 104 de la Ley General, el Instituto desarrollará las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observadores en la Entidad, de acuerdo a los lineamientos que emita el Instituto Nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 48.
 
-Para el ejercicio del voto los ciudadanos deberán satisfacer, además de los que fija el Artículo 34 de la Constitución General, estar inscritos en el Registro Federal de Electores en los términos dispuestos por la Ley General, y contar con la credencial para votar correspondiente.
+Para el ejercicio del voto la ciudadanía deberá satisfacer, además de los que fija el Artículo 28 de la Constitución Política del Estado, estar inscrita en el Registro Federal de Electores en los términos dispuestos por la Ley General, y contar con la credencial para votar correspondiente.
 
 En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano, salvo en los casos de excepción expresamente señalados por la Ley General y la presente Ley.
 
@@ -1305,9 +1463,11 @@ Las candidaturas comunes y otras formas de participación o asociación de los p
 
 ### Capítulo II. De los Requisitos de Elegibilidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 49.
 
-Son requisitos para ser Diputado, Gobernador del Estado e Integrantes de Ayuntamientos, además de los que señalan los Artículos 44, 45, 69, 78, 138 y 138 Bis de la Constitución, los siguientes:
+Son requisitos para ser Diputada o Diputado, Titular de la Gubernatura del Estado e integrante de Ayuntamientos, además de los que señalan los artículos 44, 45, 69, 78, 138 y 138 Bis de la Constitución, los siguientes:
 
 I. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar correspondiente;
 
@@ -1316,6 +1476,14 @@ II. No ser Consejero Presidente, Consejero Electoral, Secretario Ejecutivo y dir
 III. No ser Magistrado del Tribunal Estatal Electoral, salvo que renuncie a su cargo, cuando menos dos años antes de la fecha de inicio del proceso electoral; y
 
 IV. No pertenecer al Servicio Profesional Electoral Estatal, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate.
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. No haber obtenido condena o sanción por la vía administrativa o jurisdiccional por violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. No ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
 
@@ -1339,49 +1507,59 @@ Tratándose de la postulación de candidatos independientes a elección consecut
 
 El ejercicio del Poder Ejecutivo del Estado se deposita en un solo individuo que se denomina “Gobernador del Estado de Baja California Sur”, electo cada seis años por mayoría relativa y voto directo de los ciudadanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 52.
 
-El Poder Legislativo del Estado, se deposita en una Asamblea que se denomina "Congreso del Estado de Baja California Sur", que deberá estar integrada por dieciséis diputados según el principio de Mayoría Relativa en su totalidad cada tres años, mediante el sistema de distritos electorales uninominales y hasta por cinco de diputados electos según el principio de Representación Proporcional, mediante el sistema de listas. Por cada diputado propietario se elegirá un suplente.
+El Poder Legislativo del Estado, se deposita en una Asamblea que se denomina "Congreso del Estado de Baja California Sur", que deberá estar integrada por dieciséis diputadas y diputados según el principio de Mayoría Relativa en su totalidad cada tres años, mediante el sistema de distritos electorales uninominales y hasta por cinco diputadas y diputados electos según el principio de Representación Proporcional, mediante el sistema de listas, que serán encabezadas alternadamente por mujeres y hombres cada periodo electivo. Por cada diputada o diputado propietario se elegirá un suplente del mismo género.
 
-En las fórmulas para diputados, tanto en el caso de mayoría relativa, como de representación proporcional, los partidos políticos deberán integrarlas por personas del mismo género.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En las fórmulas para una diputación, tanto en el caso de mayoría relativa, como de representación proporcional, los partidos políticos deberán integrarlas por personas del mismo género.
 
 En el caso de las candidaturas independientes, las fórmulas deberán estar integradas por personas del mismo género.
 
-> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Los diputados podrán ser electos hasta por cuatro periodos consecutivos por ambos principios.
+Las diputadas y diputados podrán ser electos hasta por cuatro periodos consecutivos por ambos principios.
 
-> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Serán sujetos de elección consecutiva los Diputados que hayan protestado o ejercido el cargo, independiente de su carácter de propietario o suplente.
+Serán sujetos de elección consecutiva las diputadas y diputados que hayan protestado o ejercido el cargo, independiente de su carácter de propietario o suplente.
 
-> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Quien hubiese sido electo Diputado propietario de manera consecutiva por el límite constitucional y el establecido en esta ley, no podrá ser electo para el siguiente periodo en calidad de suplente del mismo cargo de elección popular.
+Quien hubiese sido electo diputada o diputado propietario de manera consecutiva por el límite constitucional y el establecido en esta ley, no podrá ser electo para el siguiente periodo en calidad de suplente del mismo cargo de elección popular.
 
-> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-La posición de Diputado suplente que no haya protestado el cargo, no se contabiliza para efectos del límite de periodos para elección consecutiva.
+La posición de diputada o diputado suplente que no haya protestado el cargo, no se contabiliza para efectos del límite de periodos para elección consecutiva.
 
-Los candidatos a Diputados que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que ha sido electo en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los candidatos a una diputación que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que ha sido electo en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 53.
 
-Los municipios serán gobernados por un Ayuntamiento de elección popular directa, conformado por un Presidente Municipal y el número de integrantes que determine la Constitución.
+Los municipios serán gobernados por un Ayuntamiento de elección popular directa, conformado por una Presidencia Municipal y el número de integrantes que determine la Constitución.
 
-> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Serán sujetos de elección consecutiva el Presidente Municipal, Síndicos y Regidores del Ayuntamiento que hayan ejercido el cargo independientemente de su carácter de propietario o suplente, podrán ser en orden distinto al que fueron electos, a efecto de garantizar el principio de paridad de género.
+Serán sujetos de elección consecutiva la Presidenta o el Presidente Municipal, Síndica o Síndico y Regidoras o Regidores del Ayuntamiento que hayan ejercido el cargo independientemente de su carácter de propietario o suplente, podrán ser en orden distinto al que fueron electos, a efecto de garantizar el principio de paridad de género.
 
-> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-La suplencia de síndico y regidores no se contabilizará para efectos de los límites de la elección consecutiva, salvo que hayan ejercido el cargo.
+La suplencia de la Sindicatura y Regiduría no se contabilizará para efectos de los límites de la elección consecutiva, salvo que hayan ejercido el cargo.
 
 > <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
 
 Quien hubiese sido electo miembro propietario de manera consecutiva por el límite establecido en esta ley, no podrá ser electo para el siguiente periodo en calidad de suplente del mismo cargo de elección popular.
 
-Los candidatos a integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta con su manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las candidatas y candidatos a integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta con su manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
 
 ### Capítulo IV. Disposiciones Complementarias
 
@@ -1447,17 +1625,25 @@ Las organizaciones de Ciudadanos que pretendan constituirse en partido político
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de las jornadas comiciales, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del Estado, como de los municipios y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 63.
 
-Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y Candidatos Independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
+Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y Candidaturas Independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
 
-Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, candidato común, coalición o candidato que lo distribuye.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, candidatura común, coalición o candidata o candidato que lo distribuye.
 
 Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
 
-La entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos, candidato común, coaliciones o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona está estrictamente prohibida a los partidos, candidatos, sus equipos de campaña o cualquier persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al elector para obtener su voto.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El partido político, candidato registrado o simpatizante que viole lo dispuesto en este artículo, será sancionado en los términos previstos en la presente Ley.
+La entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos, candidatura común, coaliciones o candidata o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona está estrictamente prohibida a los partidos, candidatas y candidatos, sus equipos de campaña o cualquier persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al elector para obtener su voto.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El partido político, candidata o candidato registrado o simpatizante que viole lo dispuesto en este artículo, será sancionado en los términos previstos en la presente Ley.
 
 ###### Artículo 64.
 
@@ -1473,29 +1659,45 @@ Durante las precampañas sólo se podrán utilizar artículos utilitarios textil
 
 La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 65.
 
-Para los efectos de la fracción X del artículo 18, los partidos políticos, coaliciones o candidatos independientes, podrán contratar publicidad para difundir sus actividades ordinarias, precampaña y de campaña en medios de comunicación impresos y electrónicos distintos a radio y televisión, para tal efecto el Instituto celebrará convenio con los representantes de los medios de comunicación.
+Para los efectos de la fracción X del artículo 18, los partidos políticos, coaliciones o candidatas y candidatos independientes, podrán contratar publicidad para difundir sus actividades ordinarias, precampaña y de campaña en medios de comunicación impresos y electrónicos distintos a radio y televisión, para tal efecto el Instituto celebrará convenio con los representantes de los medios de comunicación.
 
 El Consejo General del Instituto creará la Comisión de Medios de Comunicación, encargada de convenir las tarifas publicitarias con medios distintos a radio y televisión durante el proceso electoral respectivo, misma que estará integrada por dos consejeros electorales y los representantes de los partidos políticos. Una vez agotado el fin para el que fue creada, la Comisión se disolverá y se creará nuevamente durante el siguiente proceso electoral.
 
 El convenio con los representantes de los medios de comunicación será aprobado por el Consejo General y contendrá:
 
-I.- Un catálogo de tarifas por unidad y por paquete de espacio para propaganda electoral, relacionada con los cargos de elección popular, incluyendo las promociones y el costo por publicidad, según sea el caso, que tengan a disposición de los partidos políticos, coaliciones o candidatos independientes para su contratación;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II.- La garantía de que las tarifas publicitarias que se cobren a los partidos políticos, coaliciones o candidatos independientes sean equitativas, procurando sean inferiores a las de la publicidad comercial, e iguales para todos; y
+I.- Un catálogo de tarifas por unidad y por paquete de espacio para propaganda electoral, relacionada con los cargos de elección popular, incluyendo las promociones y el costo por publicidad, según sea el caso, que tengan a disposición de los partidos políticos, coaliciones o candidaturas independientes para su contratación;
 
-III.- La prohibición de obsequiar espacios a algún partido político, coalición, candidatura común, precandidato o candidato, aspirante o candidato independiente, salvo que opere para todos en la misma proporción.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El Instituto informará oportunamente y en condiciones de equidad, a todos los partidos políticos, coaliciones o candidatos independientes, las diferentes modalidades y tarifas publicitarias de los servicios ofrecidos por las empresas de los medios de comunicación distintos a radio y televisión. Durante el proceso electoral, la contratación de los espacios orientados a la promoción del voto a favor de los candidatos a cargos de elección popular, exclusivamente se realizará por los partidos políticos, coaliciones, candidaturas comunes o candidatos independientes con los medios de comunicación que hubieran suscrito el convenio al que se hace referencia en el presente artículo, y los contratos se celebrarán con la participación de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, el responsable de la administración de los recursos de los candidatos independientes, en sus respectivos ámbitos de competencia, con el objeto de vigilar el cumplimiento del convenio y las disposiciones en esta materia.
+II.- La garantía de que las tarifas publicitarias que se cobren a los partidos políticos, coaliciones o candidatas y candidatos independientes sean equitativas, procurando sean inferiores a las de la publicidad comercial, e iguales para todos; y
 
-Los medios de comunicación que realicen contratos publicitarios con los partidos políticos, coaliciones, candidaturas comunes o candidatos independientes, estarán obligados a proporcionar oportunamente al Instituto la información que éste les requiera.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El Instituto informará oportunamente y en condiciones de equidad a todos los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes, los espacios públicos de que puedan disponer para la fijación de su propaganda electoral.
+III.- La prohibición de obsequiar espacios a algún partido político, coalición, candidatura común, precandidata o precandidato, o a candidata y candidato, aspirante o candidata o candidato independiente, salvo que opere para todos en la misma proporción.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El Instituto informará oportunamente y en condiciones de equidad, a todos los partidos políticos, coaliciones o candidatas y candidatos independientes, las diferentes modalidades y tarifas publicitarias de los servicios ofrecidos por las empresas de los medios de comunicación distintos a radio y televisión. Durante el proceso electoral, la contratación de los espacios orientados a la promoción del voto a favor de las candidaturas a cargos de elección popular, exclusivamente se realizará por los partidos políticos, coaliciones, candidaturas comunes o candidatas y candidatos independientes con los medios de comunicación que hubieran suscrito el convenio al que se hace referencia en el presente artículo, y los contratos se celebrarán con la participación de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, el responsable de la administración de los recursos de las candidatas y candidatos independientes, en sus respectivos ámbitos de competencia, con el objeto de vigilar el cumplimiento del convenio y las disposiciones en esta materia.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los medios de comunicación que realicen contratos publicitarios con los partidos políticos, coaliciones, candidaturas comunes o candidatas y candidatos independientes, estarán obligados a proporcionar oportunamente al Instituto la información que éste les requiera.
+
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN III], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El Instituto informará oportunamente y en condiciones de equidad a todos los partidos políticos, coaliciones, candidaturas comunes, candidatas y candidatos independientes, los espacios públicos de que puedan disponer para la fijación de su propaganda electoral.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 66.
 
-Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, por lo menos tres días antes al inicio del plazo para el registro de candidatos de la elección de que se trate. De no retirarse, el Instituto tomará las medidas necesarias para su retiro con cargo a la ministración del financiamiento público que corresponda al partido, además de la imposición de la sanción que al respecto establezca la presente Ley; y en su caso la Ley General.
+Los partidos políticos, precandidatas y precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, por lo menos tres días antes al inicio del plazo para el registro de candidaturas de la elección de que se trate. De no retirarse, el Instituto tomará las medidas necesarias para su retiro con cargo a la ministración del financiamiento público que corresponda al partido, además de la imposición de la sanción que al respecto establezca la presente Ley y en su caso la Ley General.
 
 ### Capítulo III. De las Encuestas y Sondeos de Opinión
 
@@ -1531,31 +1733,45 @@ IV. La salvaguarda y cuidado de las boletas electorales son considerados como un
 
 ### Capítulo VI. De los Observadores Electorales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 70.
 
-Los ciudadanos que deseen ejercitar su derecho como observadores electorales deberán sujetarse a las bases siguientes:
+Las ciudadanas y ciudadanos que deseen ejercer su derecho como observadores electorales deberán sujetarse a las bases siguientes:
 
 I. Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral;
 
-II. Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando fotocopia de su credencial para votar, y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, máxima publicidad, certeza y legalidad y sin vínculos a partido o agrupación política alguna;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Las ciudadanas y ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando fotocopia de su credencial para votar, y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, máxima publicidad, certeza y legalidad y sin vínculos a partido o agrupación política alguna;
 
 III. La solicitud de registro para participar como observadores electorales, podrá presentarse en forma personal o a través de la organización a la que pertenezcan, ante el Consejo Distrital correspondiente a su domicilio, a partir del inicio del proceso electoral y hasta el 30 de abril del año de la elección. Los presidentes de los consejos distritales, darán cuenta de las solicitudes a los propios consejos, para su aprobación, en la siguiente sesión que celebren. La resolución que se emita deberá ser notificada a los solicitantes. El Instituto, en el ámbito de su competencia garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte de los ciudadanos o las organizaciones interesadas;
 
-IV. Sólo se otorgará la acreditación a los ciudadanos que cumplan los requisitos establecidos en la Ley General y los que expida el Instituto Nacional;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Sólo se otorgará la acreditación a las ciudadanas y ciudadanos que cumplan los requisitos establecidos en la Ley General y los que expida el Instituto Nacional;
 
 V. Los observadores se abstendrán de:
 
 a) Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones, e interferir en el desarrollo de las mismas;
 
-b) Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-c) Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos;
+b) Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidatura alguna;
 
-d) Declarar el triunfo de partido político o candidato alguno, y
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+c) Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos, candidatas o candidatos;
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+d) Declarar el triunfo de partido político, candidata o candidato alguno, y
 
 e) La observación podrá realizarse en cualquier ámbito territorial del Estado;
 
-VI. Los ciudadanos acreditados como observadores electorales podrán solicitar ante el Instituto, la información electoral que requieran para el mejor desarrollo de sus actividades. Dicha información será proporcionada siempre que no sea reservada o confidencial en los términos fijados por la Ley y que existan las posibilidades materiales y técnicas para su entrega;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Las ciudadanas y ciudadanos acreditados como observadores electorales podrán solicitar ante el Instituto, la información electoral que requieran para el mejor desarrollo de sus actividades. Dicha información será proporcionada siempre que no sea reservada o confidencial en los términos fijados por la Ley y que existan las posibilidades materiales y técnicas para su entrega.
 
 VII. En los contenidos de la capacitación que se imparta a los funcionarios de las mesas directivas de casilla, debe preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación;
 
@@ -1581,9 +1797,11 @@ Las organizaciones a las que pertenezcan los observadores electorales, a más ta
 
 ### Capítulo VII. De los Debates
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 71.
 
-El Instituto organizará dos debates obligatorios entre todos los candidatos a la Gubernatura del Estado y promoverá la celebración de debates entre candidatos a diputados y candidatos a las Presidencias Municipales.
+El Instituto organizará dos debates obligatorios entre las candidaturas a la Gubernatura del Estado y promoverá la celebración de debates entre candidatas y candidatos a una diputación y las candidatas y candidatos a las Presidencias Municipales.
 
 Para la realización de los debates obligatorios, el Instituto definirá las reglas, fechas y sedes, respetando el principio de equidad entre los candidatos.
 
@@ -1673,7 +1891,7 @@ Atendiendo al principio de definitividad que rige en los procesos electorales, a
 
 Los procesos internos para la selección de candidatos a cargos de elección popular son el conjunto de actividades que realizan los partidos políticos y los aspirantes a dichos cargos, de conformidad con lo establecido en esta Ley, en los Estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político.
 
-Los servidores públicos que pretendan participar en una precampaña electoral o proceso interno, con el objeto de alcanzar la postulación o designación de su partido político para algún cargo de elección popular, deberán separarse de su cargo, por lo menos cinco días antes de su registro como precandidatos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
 
@@ -1729,11 +1947,15 @@ Se entiende por actos de precampaña electoral las reuniones públicas, asamblea
 
 Se entiende por propaganda de precampaña el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 85.
 
-Precandidato es el ciudadano que pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular.
+Precandidato es la ciudadana o ciudadano que pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político, en el proceso de selección interna de candidaturas a cargos de elección popular.
 
-Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición o en candidatura común.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Ningún ciudadano o ciudadana podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición o en candidatura común.
 
 Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios con excepción de los textiles señalados en esta Ley.
 
@@ -1779,45 +2001,61 @@ A las precampañas y a los precandidatos que en ellas participen les serán apli
 
 ### Capítulo III. Del Procedimiento de Registro de Candidatos
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 94.
 
-Corresponde a los partidos políticos nacionales y locales el derecho de solicitar el registro de candidatos a cargos de elección popular, sin perjuicio de las candidaturas independientes en los términos de esta Ley.
+Corresponde a los partidos políticos nacionales y locales el derecho de solicitar el registro de candidatas y candidatos a cargos de elección popular, sin perjuicio de las candidaturas independientes en los términos de esta Ley.
 
-> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 95.
 
-Las candidaturas a Diputados y Ayuntamientos a elegirse por el principio de mayoría relativa, por el principio de representación proporcional y planillas de Ayuntamientos del Estado, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación. El cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, las cuales deberán apegarse al principio de paridad vertical y horizontal.
+Las candidaturas a Diputaciones y Ayuntamientos a elegirse por el principio de mayoría relativa, por el principio de representación proporcional y planillas de Ayuntamientos del Estado, se registrarán por fórmulas de candidatas y candidatos compuestas cada una por un propietario y un suplente del mismo género, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación. El cincuenta por ciento de candidaturas propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidaturas del género opuesto, las cuales deberán apegarse al principio de paridad vertical y horizontal.
 
-En ningún caso los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, más de dos candidatos a Diputados por mayoría relativa y representación proporcional.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2017)</small>
+En ningún caso los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, más de dos candidatas y candidatos a Diputados por mayoría relativa y representación proporcional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 96.
 
-Los partidos políticos promoverán y garantizarán el principio de paridad entre los géneros, mediante la postulación de candidatos a los cargos de elección popular para la integración del Congreso del Estado, y Planillas de Ayuntamientos.
+Los partidos políticos promoverán y garantizarán el principio de paridad entre los géneros, mediante la postulación de candidatas y candidatos a los cargos de elección popular para la integración del Congreso del Estado y Planillas de Ayuntamientos.
 
-En ningún caso la postulación de candidatos para la renovación de Ayuntamientos debe contener más del cincuenta por ciento de candidatos de un mismo género. Cuando el cálculo del porcentaje antes mencionado arroje un número fraccionado, éste se elevará al entero inmediato superior.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En ningún caso la postulación de candidatos para la renovación de Ayuntamientos debe contener más del cincuenta por ciento de candidatos de un mismo género. Cuando el cálculo del porcentaje antes mencionado arroje un número fraccionado, éste se elevará al entero inmediato superior. El número impar será alternado por mujeres y hombres cada periodo electivo, en base al proceso electoral anterior.
 
 > <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
 
 En el registro de las candidatas y los candidatos para las planillas de ayuntamientos, deberán observarse y garantizarse la paridad entre los géneros, tanto de manera vertical como horizontal. Se entenderá de manera vertical, la postulación alternada de candidatas y candidatos integrantes dentro de una planilla para un mismo ayuntamiento, iniciando la nominación en orden para Presidente, Síndico y Regidores municipales respetando la igual proporción de géneros; asimismo, deberá entenderse de manera horizontal, la postulación de planillas con garantías de paridad de género entre los diferentes ayuntamientos que forman parte del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 97.
 
-El Instituto, en el ámbito de su competencia, tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+El instituto, en el ámbito de su competencia, tendrá facultades para rechazar el registro del número de candidaturas de un género que no garantice el principio de paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
 En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el Instituto, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
 
-> <small>(REFORMADO, B.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 98.
 
-De la totalidad de solicitudes de registro, tanto de las candidaturas a Diputados y Planillas de Ayuntamientos que presenten los partidos políticos ante el Instituto en forma individual o a través de coaliciones, así como mediante candidaturas comunes, deberán integrarse salvaguardando el principio de paridad entre los géneros establecida en la Constitución General, la Ley General, la Constitución y en esta Ley.
+De la totalidad de solicitudes de registro, tanto de las candidaturas a Diputaciones y Planillas de Ayuntamientos que presenten los partidos políticos ante el Instituto en forma individual o a través de coaliciones, así como mediante candidaturas comunes deberán integrarse salvaguardando el principio de paridad entre los géneros establecida en la Constitución General, la Ley General, la Constitución y en esta Ley.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 98 Bis.
+
+En ningún caso se admitirán criterios que tengan como resultado qué a alguno de los géneros le sea asignados exclusivamente aquellos distritos o municipios en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 99.
 
-Las listas de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
+Las listas de representación proporcional se integrarán por fórmulas de candidaturas compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista. En todos los casos, en la asignación se deberá de garantizar la paridad de género y se respetará la inclusión de las personas con discapacidad.
 
 ###### Artículo 100.
 
@@ -1877,7 +2115,9 @@ VII. Los candidatos a integrantes del Poder Legislativo y Ayuntamientos del Esta
 
 VIII. En las planillas de ayuntamientos, en ningún caso la postulación de candidatos debe contener más del cincuenta por ciento de candidatos de un mismo género; y
 
-IX. En el caso de las fórmulas de diputados por el principio de mayoría relativa que postulen únicamente partidos políticos en forma individual o a través de candidaturas comunes, o bien mediante coaliciones, estas deberán ser presentadas en su totalidad en listas completas de la totalidad de distritos, las cuales en ningún caso la postulación de candidatos debe contener más del cincuenta por ciento de candidatos de un mismo género.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. En el caso de las fórmulas de diputaciones por el principio de mayoría relativa que postulen únicamente partidos políticos en forma individual o a través de candidaturas comunes, o bien mediante coaliciones, estas deberán ser presentadas en su totalidad en listas completas de la totalidad de distritos, las cuales en ningún caso la postulación de candidaturas debe recaer en más del cincuenta por ciento del mismo género.
 
 Los candidatos propietarios y suplentes deberán ser del mismo género.
 
@@ -1885,9 +2125,11 @@ La solicitud deberá acompañarse de la declaración de aceptación de la candid
 
 De igual manera el partido político que en forma individual o a través de candidaturas comunes, o bien mediante coaliciones postule candidaturas, deberá manifestar por escrito que los candidatos cuyo registro solicita fueron seleccionados de conformidad con las normas estatutarias del propio partido político.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 106.
 
-La solicitud de cada partido político para el registro de las listas completas de candidaturas a diputados por el principio de representación proporcional, deberán acompañarse de la acreditación que demuestre que se registraron fórmulas de candidatos a diputados por el principio de mayoría relativa en cuando menos ocho distritos uninominales de la entidad, ya sea en forma individual, a través de candidaturas comunes o de coaliciones.
+La solicitud de cada partido político para el registro de las listas completas de candidaturas a diputaciones por el principio de representación proporcional, deberán acompañarse de la acreditación que demuestre que se registraron fórmulas de candidaturas a diputaciones por el principio de mayoría relativa en cuando menos ocho distritos uninominales de la entidad, ya sea en forma individual, a través de candidaturas comunes o de coaliciones.
 
 La solicitud de registro de las listas de representación proporcional a que se hace referencia en el párrafo anterior, deberá especificar en su caso, cuáles de los integrantes de cada lista están optando por reelegirse en sus cargos y el número de veces que han ocupado la misma posición de manera consecutiva.
 
@@ -1911,21 +2153,29 @@ De igual manera, el Consejo General comunicará de inmediato a los consejos muni
 
 Al concluir la sesión de registro de candidaturas, a que refiere el presente artículo, la autoridad electoral correspondiente, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas, dando a conocer los nombres del candidato o fórmulas registradas y de aquéllos que no cumplieron con los requisitos.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 109.
 
-El Consejo General solicitará oportunamente la publicación en el Boletín Oficial del Gobierno del Estado la relación de nombres de los candidatos y los partidos políticos que en forma individual o a través de candidaturas comunes, o bien mediante coaliciones los postulan. Asimismo, se publicarán y difundirán las cancelaciones de registros o sustituciones de candidatos.
+El Consejo General solicitará oportunamente la publicación en el Boletín Oficial del Gobierno del Estado la relación de nombres de las personas candidatas y los partidos políticos que en forma individual o a través de candidaturas comunes, o bien mediante coaliciones los postulan. Asimismo, se publicarán y difundirán las cancelaciones de registros o sustituciones de candidatos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 110.
 
-Para la sustitución de candidatos, los partidos políticos ya sea en forma individual o a través de candidaturas comunes, o bien mediante coaliciones, lo solicitarán por escrito al Consejo General, observando las siguientes disposiciones:
+Para la sustitución de candidatas y candidatos, los partidos políticos ya sea en forma individual o a través de candidaturas comunes, o bien mediante coaliciones, lo solicitarán por escrito al Consejo General, observando las siguientes disposiciones:
 
-I. Dentro del plazo establecido para el registro de candidatos podrán sustituirlos libremente, debiendo observar las reglas y el principio de paridad entre los géneros establecido en el artículo 98 de esta Ley;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Dentro del plazo establecido para el registro de candidatas y candidatos podrán sustituirlos libremente, debiendo observar las reglas y el principio de paridad entre los géneros establecido en el artículo 98 de esta Ley;
 
 II. Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia.
 
 En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de los treinta días anteriores al de la elección. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto en el artículo 125 de esta Ley, y
 
-III. En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General, se hará de manera inmediata del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución. En caso de omisión, el partido político podrá dar vista al Consejo General, para que proceda en consecuencia.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. En los casos en que la renuncia de la candidata o candidato fuera notificada por éste al Consejo General, se hará de manera inmediata del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución. En caso de omisión, el partido político podrá dar vista al Consejo General, para que proceda en consecuencia.
 
 ### Capítulo IV. De las Campañas Electorales
 
@@ -1941,9 +2191,11 @@ Tanto la propaganda electoral como las actividades de campaña a que se refiere 
 
 Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución General, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 112.
 
-Los gastos que realicen los partidos políticos, en forma individual, a través de candidaturas comunes o bien mediante coaliciones, así como sus candidatos, en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General.
+Los gastos que realicen los partidos políticos, en forma individual, a través de candidaturas comunes o bien mediante coaliciones, así como sus candidatas y candidatos, en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General.
 
 Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
 
@@ -1989,11 +2241,15 @@ El Presidente del Consejo General podrá solicitar a las autoridades competentes
 
 Los partidos políticos o candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán hacer de conocimiento a la autoridad competente su itinerario, a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 116.
 
-La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político que en forma individual o a través de candidaturas comunes, o bien mediante coaliciones ha registrado al candidato.
+La propaganda impresa que las personas candidateadas utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político que en forma individual o a través de candidaturas comunes, o bien mediante coaliciones ha registrado al candidato.
 
-La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos en forma individual o a través de candidaturas comunes, o bien mediante coaliciones, así como los candidatos, no tendrán más límite, en los términos del artículo 7o. de la Constitución General, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos en forma individual o a través de candidaturas comunes, o bien mediante coaliciones, así como de las candidatas y candidatos, no tendrán más límite, en los términos del artículo 7o. de la Constitución General, que el respeto a la vida privada de las personas candidateadas, autoridades, terceros y a las instituciones y valores democráticos.
 
 ###### Artículo 117.
 
@@ -2001,9 +2257,11 @@ La propaganda y mensajes que en el curso de las precampañas y campañas elector
 
 Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución General, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquéllos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El derecho a que se refiere este párrafo se ejercerá en forma y términos que determine la Ley de la materia.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 118.
 
-La propaganda que los partidos políticos realicen en forma individual, a través de candidaturas comunes o mediante coaliciones, así como la que los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones legales y administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
+La propaganda que los partidos políticos realicen en forma individual, a través de candidaturas comunes o mediante coaliciones, así como la que las personas candidateadas realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones legales y administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
 ###### Artículo 119.
 
@@ -2079,13 +2337,17 @@ I. Entidad, distrito o municipio;
 
 II. Cargo para el que se postula al candidato o candidatos;
 
-III. Emblema a color de cada uno de los partidos políticos nacionales y locales que participan con candidatos propios, o en coalición, en la elección de que se trate. En el caso de los partido políticos nacionales o locales que participen con candidatos comunes, el emblema común y el color o colores con que se participa, en la elección de que se trate;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Emblema a color de cada uno de los partidos políticos nacionales y locales que participan con candidaturas propias, o en coalición, en la elección de que se trate. En el caso de los partido (sic) políticos nacionales o locales que participen con candidaturas comunes, el emblema común y el color o colores con que se participa, en la elección de que se trate
 
 IV. Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contendrá este talón será la relativa a la entidad federativa, distrito electoral y elección que corresponda. El número de folio será progresivo;
 
 V. Apellidos y nombre completo del candidato o candidatos;
 
-VI. En el caso de diputados por mayoría relativa un solo espacio por cada partido político para comprender la fórmula de candidatos y al reverso de la misma boleta un espacio por cada partido político para los candidatos a Diputados Plurinominales. En el caso de diputados por mayoría relativa postulados mediante candidaturas comunes se asignará un solo espacio o recuadro para los partidos políticos que participan mediante esa figura;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. En el caso de diputaciones por mayoría relativa un solo espacio por cada partido político para comprender la fórmula de la candidatura y al reverso de la misma boleta un espacio por cada partido político para las candidaturas Plurinominales. En el caso de diputados por mayoría relativa postulados mediante candidaturas comunes se asignará un solo espacio o recuadro para los partidos políticos que participan mediante esa figura;
 
 VII. Para el caso de Candidatura Común, un solo espacio para cada partido y candidato; el emblema común y el color o colores con que se participe en la elección de que se trate;
 
@@ -2375,9 +2637,11 @@ III. Los que se distribuirían por resto mayor si después de aplicarse el cocie
 
 Se determinará si es el caso de aplicar a algún partido político el o los límites establecidos en el artículo 41 de la Constitución, para lo cual al partido político cuyo número de diputados por ambos principios exceda el porcentaje señalado, o su porcentaje de curules del total de la Legislatura exceda en ocho puntos a su porcentaje de votación estatal emitida, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás partidos políticos que no se ubiquen en estos supuestos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 154.
 
-El Consejo General, celebrará sesión el domingo siguiente al día de la elección para realizar el cómputo estatal para la elección y asignación de diputados de representación proporcional, misma que se realizará conforme a lo siguiente:
+El Consejo General, celebrará sesión el domingo siguiente al día de la elección para realizar el cómputo estatal para la elección y asignación de diputaciones de representación proporcional. En todos los casos, en la asignación se deberá de observar el principio de paridad de género, misma (sic) que se realizará conforme a lo siguiente:
 
 I. Al partido político que obtenga en la elección de diputados al menos el tres por ciento de la votación válida emitida y haber registrado cuando menos ocho candidaturas por el principio de mayoría relativa, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido, la asignación se hará siguiendo un orden de mayor a menor porcentaje de votos obtenidos;
 
@@ -2525,19 +2789,29 @@ Se entiende por cociente de unidad, el resultado de dividir entre el número de 
 
 Por resto mayor se entiende el remanente más alto entre los restos de las votaciones de cada partido político, después de haber participado en la distribución de Regidurías por el factor de cociente de unidad.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 169.
 
-Sólo tendrán derecho a participar en la asignación de Regidores de representación proporcional, los partidos políticos que en forma individual, a través de candidaturas comunes o mediante coaliciones, no hubiesen alcanzado el triunfo por mayoría relativa en el Municipio de que se trate y hayan obtenido, por lo menos, el 3% de la votación total emitida en el Municipio de que se trate y en caso de coaliciones, el 6% cuando se trate de dos partidos y hasta el 9% cuando la coalición este integrada por tres o más partidos políticos.
+Sólo tendrán derecho a participar en la asignación de Regidurías de representación proporcional, los partidos políticos que en forma individual, a través de candidaturas comunes o mediante coaliciones, no hubiesen alcanzado el triunfo por mayoría relativa en el Municipio de que se trate y hayan obtenido, por lo menos, el 3% de la votación total emitida en el Municipio de que se trate y en caso de coaliciones, el 6% cuando se trate de dos partidos y hasta el 9% cuando la coalición este integrada por tres o más partidos políticos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 170.
 
-El Consejo Municipal, en los términos del artículo 135 de la Constitución, procederá a hacer la asignación de Regidores de representación proporcional. Para este efecto, en la sesión a que refiere el artículo 162 de esta Ley hará la declaratoria de los partidos políticos que en forma individual, a través de candidaturas comunes o mediante coaliciones, no habiendo alcanzado el triunfo por mayoría relativa en la elección municipal respectiva, obtuvieron el porcentaje de votación a que se refiere el artículo anterior, observando las siguientes disposiciones:
+El Consejo Municipal, en los términos del artículo 135 de la Constitución, procederá a hacer la asignación de Regidurías de representación proporcional. Para este efecto, en la sesión a que refiere el artículo 162 de esta Ley hará la declaratoria de los partidos políticos que en forma individual, a través de candidaturas comunes o mediante coaliciones, no habiendo alcanzado el triunfo por mayoría relativa en la elección municipal respectiva, obtuvieron el porcentaje de votación a que se refiere el artículo anterior, observando las siguientes disposiciones:
 
-I.- Se asignará un Regidor a cada partido político que en forma individual, a través de candidaturas comunes o mediante coaliciones, haya obtenido el porcentaje mínimo de asignación señalado en el artículo anterior;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II.- Después de realizado el procedimiento previsto en la fracción anterior, se asignarán a cada partido político en forma individual, mediante el esquema de candidaturas comunes o coaliciones, los Regidores de representación proporcional cuantas veces contenga su votación el cociente de unidad. La asignación se hará siguiendo un orden de mayor a menor porcentaje de votos; y
+I. Se asignará una Regiduría a cada partido político que en forma individual, a través de candidaturas comunes o mediante coaliciones, haya obtenido el porcentaje mínimo de asignación señalado en el artículo anterior;
 
-III.- Si después de aplicado el cociente de unidad quedaren Regidurías por distribuir, se aplicará el resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos que en forma individual, a través de candidaturas comunes o mediante coaliciones, en la asignación de los Regidores de representación proporcional.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Después de realizado el procedimiento previsto en la fracción anterior, se asignarán a cada partido político en forma individual, mediante el esquema de candidaturas comunes o coaliciones, las Regidurías de representación proporcional cuantas veces contenga su votación el cociente de unidad. La asignación se hará siguiendo un orden de mayor a menor porcentaje de votos; y;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Si después de aplicado el cociente de unidad quedaren Regidurías por distribuir, se aplicará el resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos que en forma individual, a través de candidaturas comunes o mediante coaliciones, en la asignación de Regidurías de representación proporcional.
 
 ###### Artículo 171.
 
@@ -2545,9 +2819,11 @@ Las coaliciones sólo podrán acumular los votos emitidos a favor de las candida
 
 Cuando con el consentimiento de una planilla, su registro sea hecho por dos o más partidos sin mediar coalición, los votos emitidos a su favor no serán computables para la asignación de Regidores de representación proporcional, con excepción de lo dispuesto para las candidaturas comunes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 172.
 
-La asignación de Regidores de representación proporcional, se hará en el orden de prelación de los candidatos a Regidores que aparezcan en las planillas registradas por los partidos políticos que participaron ya sea de forma individual, a través de candidaturas comunes o mediante coaliciones.
+La asignación de Regidurías de representación proporcional, se hará en el orden de prelación de las candidaturas a Regidurías que aparezcan en las planillas registradas por los partidos políticos que participaron ya sea de forma individual, a través de candidaturas comunes o mediante coaliciones.
 
 Del procedimiento de asignación de Regidores por el principio de representación proporcional se elaborará acta circunstanciada de sus etapas e incidentes en su caso.
 
@@ -2695,9 +2971,11 @@ La organización y desarrollo de la elección de candidaturas independientes ser
 
 El Consejo Estatal emitirá las reglas de operación respectivas, utilizando racionalmente las unidades administrativas del mismo, conforme a la definición de sus atribuciones, observando para ello las disposiciones de esta Ley y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 184.
 
-El derecho de los ciudadanos de solicitar su registro de manera independiente de los partidos políticos se sujetará a los requisitos, condiciones y términos establecidos en la Constitución y en la presente Ley.
+El derecho de las ciudadanas y ciudadanos de solicitar su registro de manera independiente de los partidos políticos se sujetará a los requisitos, condiciones y términos establecidos en la Constitución y en la presente Ley.
 
 Las candidaturas independientes no podrán celebrar convenios de coalición, candidatura común o de apoyo con partidos políticos, tampoco podrán manifestar su apoyo a otra opción electoral o renunciar a la candidatura para estos fines en el proceso en que contiendan.
 
@@ -2849,9 +3127,11 @@ V. Insertar en su propaganda la Leyenda “aspirante a Candidato Independiente�
 
 VI. Los demás establecidos por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 205.
 
-Son obligaciones de los aspirantes:
+Son obligaciones de las personas aspirantes:
 
 I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución General, la Ley General, la Constitución y en la presente Ley;
 
@@ -2877,7 +3157,9 @@ g) Las personas que vivan o trabajen en el extranjero.
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-VI. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros aspirantes o precandidatos, partidos políticos, personas, instituciones públicas o privadas;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -2985,7 +3267,9 @@ Si la solicitud no reúne el porcentaje requerido se tendrá por no presentada.
 
 Ninguna persona podrá registrarse como candidato a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ser candidato para un cargo de elección federal popular y simultáneamente para otro del Estado o de los municipios. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro estatal.
 
-Los Candidatos Independientes que hayan sido registrados no podrán ser postulados como candidatos por un partido político que participe en forma individual, a través de candidaturas comunes o mediante coaliciones, en el mismo proceso electoral.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Quienes hayan obtenido registro de candidatura independiente no podrán ser postulados como candidatos por un partido político que participe en forma individual, a través de candidaturas comunes o mediante coaliciones, en el mismo proceso electoral.
 
 #### Sección Tercera. Del Registro
 
@@ -3029,9 +3313,11 @@ VII. Solicitar a los órganos electorales copia de la documentación electoral, 
 
 VIII. Las demás que les otorgue esta Ley, y los demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 218.
 
-Son obligaciones de los Candidatos Independientes registrados;
+Son obligaciones de las Candidatas y Candidatos Independientes registrados;
 
 I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución y en la presente Ley;
 
@@ -3063,7 +3349,9 @@ VII. Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y r
 
 VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros candidatos, partidos políticos, personas, instituciones públicas o privadas;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otras personas aspirantes, precandidatas, candidatas o candidatos, partidos políticos, personas, instituciones públicas o privadas;
 
 X. Insertar en su propaganda de manera visible la Leyenda: “Candidato Independiente”;
 
@@ -3225,11 +3513,15 @@ Con fundamento en lo establecido en el último párrafo del apartado B de la fra
 
 ### Capítulo XI. De la Documentación y el Material Electoral
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 241.
 
-Los Candidatos Independientes figurarán en la misma boleta que el Consejo Estatal apruebe para los candidatos de los partidos políticos que participan en forma individual, a través de candidaturas comunes o mediante coaliciones, según la elección en la que participen, de conformidad con esta Ley.
+Las Candidatas y Candidatos Independientes figurarán en la misma boleta que el Consejo Estatal apruebe para los candidatos de los partidos políticos que participan en forma individual, a través de candidaturas comunes o mediante coaliciones, según la elección en la que participen, de conformidad con esta Ley.
 
-Se utilizará un recuadro para cada Candidato Independiente o fórmula de Candidatos Independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos que participan en forma individual, a través de candidaturas comunes o mediante coaliciones, que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Se utilizará un recuadro para cada Candidatura Independiente o fórmula de Candidatos Independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos que participan en forma individual, a través de candidaturas comunes o mediante coaliciones, que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
 
 ###### Artículo 242.
 
@@ -3281,7 +3573,9 @@ c) Las cantidades que, en su caso, se determinen para cada partido, serán entre
 
 d) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere la fracción tercera de este artículo, y
 
-e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el cinco por ciento del financiamiento público ordinario.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, al menos el diez por ciento del financiamiento público ordinario.
 
 II.- Para gastos de Campaña:
 
@@ -3299,7 +3593,9 @@ b) El Consejo General, a través de la Unidad Técnica, vigilará que éstos des
 
 c) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
-Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, o aquellos que habiendo conservado registro legal no cuenten con representación en el Congreso local, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
 
 IV.- Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda con base en lo dispuesto por la fracción segunda inciso a) del presente artículo, y
 
@@ -3349,9 +3645,37 @@ X. Las organizaciones de ciudadanos que pretendan formar un partido político;
 
 XI. Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos;
 
-XII. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, y
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XII. Las o los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión.
 
 XIII. Los demás sujetos obligados en los términos de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California Sur, será sancionado en términos de lo dispuesto en este capítulo según corresponda.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 251 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo 251 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Obstaculizar a las mujeres los derechos de asociación o afiliación política;
+
+b) Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+c) Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+d) Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+e) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+f) Cualesquiera otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
 
 ###### Artículo 252.
 
@@ -3383,7 +3707,11 @@ XII. El incumplimiento de las reglas establecidas para el manejo y comprobación
 
 XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto, y
 
-XIV. La comisión de cualquier otra falta de las previstas en esta Ley.
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIV. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género;
+
+XV. La comisión de cualquier otra falta de las previstas en esta Ley.
 
 ###### Artículo 253.
 
@@ -3465,21 +3793,29 @@ I. El incumplimiento, según sea el caso, de las obligaciones establecidas en el
 
 II. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 258.
 
-Constituyen infracciones a la presente Ley de las autoridades o los servidores públicos, según sea el caso, de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público:
+Constituyen infracciones a la presente Ley de las autoridades o de las servidoras y los servidores públicos, según sea el caso, de cualquiera de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público:
 
 I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
 II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución General, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. El incumplimiento del principio de imparcialidad establecido por el artículo 163 de la Constitución del Estado Libre y Soberano de Baja california Sur, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre las personas aspirantes, precandidatos o candidatos durante los procesos electorales;
 
 IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución General;
 
 V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, con la finalidad de inducir o coaccionar a los Ciudadanos para votar a favor o en contra de cualquier partido político o candidato, y
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California Sur;
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 259.
 
@@ -3541,7 +3877,9 @@ c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por c
 
 d) Con la interrupción de la propaganda política o electoral que se transmita en medios distintos a la radio y televisión, en violación de las disposiciones de esta Ley, y
 
-e) En los casos de graves y reiteradas conductas violatorias de la Constitución General, la Constitución y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+e) En los casos de graves o reiteradas conductas violatorias de la Constitución, de la Ley General y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político.
 
 II. Respecto de las agrupaciones políticas;
 
@@ -3631,6 +3969,10 @@ a) Con amonestación pública, y
 
 b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta.
 
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+X. Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
+
 ###### Artículo 267.
 
 Cuando las autoridades federales, estatales o municipales cometan alguna infracción prevista en esta Ley, incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto, se dará vista al superior jerárquico y, en su caso, presentará la queja ante la autoridad competente por hechos que pudieran constituir responsabilidades administrativas o las denuncias o querellas ante el agente del Ministerio Público que deba conocer de ellas, a fin de que se proceda en los términos de las Leyes aplicables.
@@ -3676,6 +4018,22 @@ e) La reincidencia en el incumplimiento de obligaciones, y
 f) En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento de alguna de las obligaciones a que se refiere la presente Ley, incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 272 Bis.
+
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+a) Realizar análisis de riesgos y un plan de seguridad;
+
+b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+d) Ordenar la suspensión de cualquier cargo o puesto público o privado de la persona agresora, y
+
+e) Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
 
 ###### Artículo 273.
 
@@ -3778,6 +4136,20 @@ Las documentales privadas, técnicas, periciales, e instrumental de actuaciones,
 En el caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas tendrán únicamente el valor de un indicio.
 
 Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 278 Bis.
+
+En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+c) Disculpa pública, y
+
+d) Medidas de no repetición.
 
 ### Capítulo IV. Del Procedimiento Sancionador Ordinario
 
@@ -3941,6 +4313,10 @@ c) Contravengan las normas sobre propaganda política o electoral establecidas e
 
 d) Constituyan actos anticipados de precampaña o campaña.
 
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+e) Cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
+
 ###### Artículo 291.
 
 Cuando la conducta infractora esté relacionada con propaganda política o electoral distinta a radio y televisión, la autoridad electoral administrativa competente presentará la denuncia ante el Instituto.
@@ -3978,6 +4354,40 @@ La Dirección de Quejas, Denuncias y de Procedimiento Contencioso Electoral de l
 Cuando la Dirección de Quejas, Denuncias y de Procedimiento Contencioso Electoral de la Secretaría Ejecutiva admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
 Si la Dirección de Quejas, Denuncias y de Procedimiento Contencioso Electoral de la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias y de Procedimiento Contencioso Electoral dentro del mismo plazo de cuarenta y ocho horas, en los términos establecidos en el artículo 294 de esta Ley. Esta decisión podrá ser impugnada ante el Tribunal Electoral.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 291 Bis.
+
+En los procedimientos relacionadas (sic) con violencia política contra las mujeres en razón de género, la Dirección de Quejas, Denuncias y de Procedimiento Contencioso Electoral, ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias.
+
+Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales o locales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley de Responsabilidades Administrativas del Estado y municipios de Baja California Sur.
+
+La denuncia deberá contener lo siguiente:
+
+a) Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+b) Domicilio para oír y recibir notificaciones;
+
+c) Narración expresa de los hechos en que se basa la denuncia;
+
+d) Ofrecer y exhibir las pruebas o indicios con que se cuente, que permitan que la autoridad electoral inicie una investigación; o en su caso, mencionar las pruebas o indicios que habrán de requerirse, por no tener posibilidad de recabarle, y
+
+e) En su caso, las medidas cautelares y de protección que se soliciten.
+
+La Dirección de Quejas, Denuncias y de Procedimiento Contencioso Electoral, deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Electoral, y al Tribunal de Justicia administrativa para su conocimiento.
+
+La Dirección de Quejas, Denuncias y de Procedimiento Contencioso Electoral desechará la denuncia cuando:
+
+a) No se aporten u ofrezcan pruebas o indicios.
+
+b) Sea notoriamente frívola o improcedente.
+
+Cuando la Dirección de Quejas, Denuncias y de Procedimiento Contencioso Electoral admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos. En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Estatal Electoral, se desarrollarán conforme lo dispuesto en el artículo 293 de la presente Ley.
 
 ###### Artículo 292.
 
@@ -4422,3 +4832,11 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2728 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
