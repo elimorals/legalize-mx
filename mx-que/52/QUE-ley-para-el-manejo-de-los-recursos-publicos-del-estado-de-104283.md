@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2021-10-08"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -307,7 +305,9 @@ La Secretaría coordinará la programación y presupuestación del gasto públic
 
 Los Poderes Legislativo y Judicial, los organismos constitucionales autónomos y los tribunales administrativos, llevarán a cabo el proceso de programación por conducto de sus respectivas unidades de administración, para la formulación de su correspondiente proyecto de presupuesto de egresos, el que deberán enviar a la Secretaría para su inclusión en el Presupuesto de Egresos del Estado.
 
-La programación y presupuestación de los municipios, se realizará por conducto de las dependencias encargadas de sus finanzas públicas, en atención a lo dispuesto por esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La programación y presupuestación de los municipios, se realizará por conducto de las dependencias encargadas de sus finanzas públicas, en atención a lo dispuesto por esta Ley y demás disposiciones aplicables. La presupuestación que se realice durante el primer año en que inicie la gestión de la administración pública municipal que corresponda, podrá efectuarse con el anteproyecto de los ejes y estrategias que constituirán el Plan Municipal de Desarrollo.
 
 ## Título Tercero. De las remuneraciones de los servidores públicos
 
@@ -2122,3 +2122,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 12 DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
