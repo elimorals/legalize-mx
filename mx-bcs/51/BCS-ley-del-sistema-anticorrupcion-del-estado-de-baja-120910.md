@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-anticorrupcion-del-estado-de-baja-120910"
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-10"
-last_updated: "2017-04-10"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de abril de 2017.
 
@@ -271,9 +271,11 @@ El Presidente del Comité Coordinador tendrá voto de calidad en caso de empate.
 
 El Comité de Participación Ciudadana tiene como objetivo coadyuvar y encauzar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 16.
 
-El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas, procuración de justicia, la participación social ciudadana o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
+El Comité de Participación Ciudadana estará integrado por cinco ciudadanas y ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas, procuración de justicia, la participación social ciudadana o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
 
 Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva. Se exceptúa de lo anterior aquellas actividades relacionadas con la docencia, investigación y difusión de la cultura.
 
@@ -287,7 +289,9 @@ Los integrantes del Comité de Participación Ciudadana estarán sujetos al rég
 
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información, y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservado y confidencial.
 
-En la conformación del Comité de Participación Ciudadana se procurará que prevalezca la equidad de género.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En la conformación del Comité de Participación Ciudadana se observará el principio de paridad de género.
 
 ###### Artículo 18.
 
@@ -319,7 +323,9 @@ e) Podrán efectuarse audiencias públicas en las que se invitará a participar 
 
 f) El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
 
-En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y la ciudadana o ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar
 
 ###### Artículo 19.
 
@@ -509,7 +515,9 @@ El Secretario Técnico podrá ser removido por falta a su deber de diligencia, o
 
 Para ser designado Secretario Técnico se deberán reunir los requisitos siguientes:
 
-I. Ser ciudadano mexicano, residente del Estado y estar en pleno goce y ejercicio de sus derechos civiles;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Ser ciudadana o ciudadano mexicano, residente del Estado y estar en pleno goce y ejercicio de sus derechos civiles;
 
 II. Tener experiencia verificable de al menos cinco años en materias de transparencia, participación ciudadana, evaluación, fiscalización, docencia e investigación, rendición de cuentas o combate a la corrupción;
 
@@ -527,7 +535,9 @@ VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estata
 
 IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria, y
 
-X. No ser Secretario de Despacho del Poder Ejecutivo, ni Procurador General de Justicia del Estado, ni subsecretario en la Administración Pública Estatal, ni Magistrado del Tribunal Superior de Justicia, ni Magistrado del Tribunal de Justicia Administrativa, ni Consejero de la Judicatura, a menos que se haya separado de su cargo con un año antes del día de su designación.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+X. No ser Secretario de Despacho del Poder Ejecutivo, ni Procurador General de Justicia del Estado, ni subsecretario en la Administración Pública Estatal, ni Magistrada o Magistrado del Tribunal Superior de Justicia, ni Magistrada o Magistrado del Tribunal de Justicia Administrativa, ni Consejero de la Judicatura, a menos que se haya separado de su cargo con un año antes del día de su designación.
 
 ###### Artículo 35.
 
@@ -597,7 +607,9 @@ I. La coordinación de trabajo efectiva, fortalecimiento institucional, evitar d
 
 II. Mayor cobertura de la fiscalización de los recursos públicos;
 
-III. Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental, y a que el ciudadano común conozca cómo se gasta el dinero de sus impuestos, así como la máxima publicidad en los resultados de la fiscalización;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I (SIC). Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental, y a que la ciudadana y ciudadano común conozcan cómo se gasta el dinero de sus impuestos, así como la máxima publicidad en los resultados de la fiscalización;
 
 IV. Acatará las normas que el Comité Rector de (sic) Sistema Nacional de Fiscalización regule para su funcionamiento.
 
@@ -698,3 +710,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
