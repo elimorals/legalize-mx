@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2021-09-05"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -79,6 +79,10 @@ La residencia del Poder Legislativo es la capital del Estado, su recinto oficial
 
 El Congreso del Estado podrá trasladar su sede provisionalmente, cuando así lo acuerden las dos terceras partes de sus miembros presentes en la sesión en que se trate.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Cuando por cuestiones de seguridad para los integrantes del Poder Legislativo, les sea imposible sesionar en el Palacio Legislativo, el Presidente de la Mesa Directiva de manera fundada y motivada podrá disponer el cambio provisional de recinto a otras instalaciones del Congreso del Estado u otras instalaciones de los Poderes Ejecutivo, Judicial o de Organismos Constitucionales Autónomos. El cambio por razón (sic) seguridad, no podrá hacerse a instalaciones privadas o espacios públicos diferentes a los considerados en este artículo.
+
 ###### Artículo 5.
 
 Las instalaciones del Congreso son inviolables. Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre sus bienes, ni sobre las personas o sus bienes en el interior de las instalaciones del Palacio Legislativo, incluyendo otros bienes inmuebles o muebles destinados al servicio de las funciones inherentes al mismo.
@@ -117,23 +121,31 @@ II. Por acuerdo del Pleno, solicitar al Titular del Poder Ejecutivo del Estado, 
 
 III. Orientar a los habitantes del Estado, respecto a los medios jurídicos y administrativos de que puedan disponer, para hacer valer sus derechos ante las autoridades de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 11.
 
 En materia de participación ciudadana, el Congreso del Estado tendrá las siguientes facultades:
 
-I. Convocar a consulta pública y referéndum, previa determinación de las bases de la convocatoria respectiva, sobre las materias de su competencia;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Convocar a consulta pública, referéndum, previa determinación de las bases de la convocatoria respectiva, sobre las materias de su competencia;
 
 II. Publicar los resultados, dando a conocer las acciones que como resultado de la consulta, llevará a cabo el Congreso; y,
 
 III. Conforme a las bases establecidas en la ley, dar el trámite que corresponda a las iniciativas presentadas por ciudadanos.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 12.
 
-El Congreso del Estado, conforme a las leyes aplicables, aprobará su propio proyecto de presupuesto anual de gastos y por conducto de su órgano de gobierno lo remitirá al Ejecutivo del Estado, para que este lo incorpore al proyecto de Presupuesto de Egresos del Estado; así mismo, administrará de manera autónoma su presupuesto de gastos y su estructura administrativa.
+El Congreso del Estado, conforme a las leyes aplicables, aprobará su propio proyecto de presupuesto anual de gastos y por conducto de la Junta de Gobierno y Coordinación Política lo remitirá al Ejecutivo del Estado, para que este lo incorpore al proyecto de Presupuesto de Egresos del Estado; así mismo, administrará de manera autónoma su presupuesto de gastos y su estructura administrativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-El Congreso del Estado, en cualquier momento, podrá citar a los titulares de las dependencias y entidades de la administración pública centralizada y descentralizada del Poder Ejecutivo o de los Ayuntamientos cuando:
+El Congreso del Estado, en cualquier momento, podrá citar a los titulares de las dependencias y entidades de la administración pública centralizada y descentralizada del Poder Ejecutivo o de los Ayuntamientos, así como a los titulares de los organismos constitucionales autónomos, cuando:
 
 I. Se encuentre en estudio una iniciativa relacionada con la esfera de su competencia;
 
@@ -141,13 +153,23 @@ II. Sea necesario dotar de información sobre los programas y acciones de su ám
 
 III. Se encuentre en curso una investigación legislativa.
 
-Para citar a los servidores públicos del Estado, se deberá cumplir con el procedimiento siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Para citar a los servidores públicos del Estado, tratándose de los asuntos relativos a las fracciones I y II del primer párrafo de este artículo, se deberá cumplir con el procedimiento siguiente:
 
 I. La solicitud al Pleno deberá ser presentada por escrito y firmada por lo menos, por la cuarta parte de los Diputados integrantes del Congreso, señalando al servidor público, el asunto a tratar y la fecha en que debe asistir;
 
-II. Una vez analizado, si el asunto por el cual se pretende citar al servidor público, es relativo a las fracciones I y II del primer párrafo de este artículo, el Pleno resolverá lo procedente; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-III. En caso de aprobación del Pleno, el Presidente del Congreso, por conducto de la Secretaría General, notificará al servidor público el acuerdo, con una anticipación de por lo menos ocho días, especificándole el motivo por el cual debe comparecer al Congreso.
+II. Una vez analizado, el Pleno resolverá lo procedente; y
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. En caso de aprobación del Pleno, el Presidente del Congreso, por conducto de la Secretaría de Servicios Legislativos, notificará al servidor público el acuerdo, con una anticipación de por lo menos ocho días naturales, especificándole el motivo por el cual debe comparecer al Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de los asuntos relativos a la fracción III del primer párrafo de este artículo se estará a lo dispuesto en los procedimientos respectivos y la legislación que los rige.
 
 El Congreso del Estado, podrá solicitar informes a los titulares de las dependencias, órganos autónomos, entidades y organismos del gobierno estatal y de los municipios para el mejor desempeño de la función legislativa, quienes deberán proporcionar la información o documentación que les sea requerida por escrito.
 
@@ -155,9 +177,11 @@ El Congreso del Estado, podrá solicitar informes a los titulares de las depende
 
 #### SECCIÓN PRIMERA. DE LA JUNTA PREPARATORIA INICIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-La Secretaría General del Congreso, recibirá y mantendrá bajo custodia:
+La Secretaría de Servicios Legislativos, recibirá y mantendrá bajo custodia:
 
 I. Las constancias de mayoría y declaratoria de validez de la elección de Diputados electos por el principio de mayoría relativa;
 
@@ -167,9 +191,11 @@ III. Las sentencias recaídas a los juicios que se hayan tramitado en la elecci�
 
 Lo anterior, se efectuará en los términos y plazos previstos en las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 15.
 
-La Secretaría General, a más tardar el día quince de agosto del año de la elección, deberá presentar un informe a la Mesa Directiva sobre las constancias y declaratorias recibidas, la cual verificará que las mismas corresponden a la mayoría absoluta de los Diputados propietarios electos, convocándolos a una junta preparatoria inicial, que deberá efectuarse a más tardar el día veinte de agosto del año de la elección.
+La Secretaría de Servicios Legislativos, a más tardar el día quince de agosto del año de la elección, deberá presentar un informe a la Mesa Directiva sobre las constancias y declaratorias recibidas, anexando los informes respectivos de la autoridad electoral, la cual verificará que las mismas corresponden a la mayoría absoluta de los Diputados propietarios electos, convocándolos a una junta preparatoria inicial, que deberá efectuarse a más tardar el día veinte de agosto del año de la elección.
 
 El resto de los Diputados propietarios electos se integrarán a los trabajos del periodo preparatorio, una vez que la autoridad electoral haya notificado al Congreso su respectiva constancia y declaratoria.
 
@@ -237,9 +263,11 @@ Los Diputados propietarios electos, integrantes de la Comisión de transición, 
 
 El proyecto de integración de las comisiones legislativas será remitido como propuesta a la Junta de Gobierno y Coordinación Política, a más tardar el día de su elección, para que por su conducto, sea presentado al Pleno para su análisis, discusión y votación respectiva, en la tercera sesión siguiente a la instalación de la Legislatura.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-En la distribución de curules, áreas y oficinas para los Diputados propietarios electos, se estará a la práctica parlamentaria o a los acuerdos que en la materia se celebren.
+En la distribución de curules, áreas y oficinas para los Diputados propietarios electos, se estará a los acuerdos que en la materia se celebren o en su caso a la práctica parlamentaria.
 
 #### SECCIÓN CUARTA. DE LA SESIÓN PREPARATORIA FINAL
 
@@ -297,9 +325,11 @@ Si la ausencia de los Diputados propietarios electos impide la instalación de l
 
 #### SECCIÓN QUINTA. DE LA INSTALACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 28.
 
-La sesión de instalación de la Legislatura entrante se efectuará el día uno de septiembre del año de la elección a las once horas, de conformidad con el orden del día, que contendrá cuando menos, lo siguiente:
+La sesión de instalación de la Legislatura entrante se efectuará el día uno de septiembre del año de la elección a la hora que determine el Presidente de la Mesa directiva Inicial, de conformidad con el orden del día, que contendrá cuando menos, lo siguiente:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
@@ -441,7 +471,9 @@ Corresponde al Pleno, autorizar permisos a los Diputados para dejar de asistir a
 
 Para obtener licencia para separarse del cargo por tiempo determinado o indeterminado, los Diputados lo solicitarán por escrito con firma autógrafa y con señalamiento de la causa ante el Presidente de la Mesa Directiva. La solicitud será resuelta por el Pleno en la sesión en que se presente la solicitud de licencia. La misma surtirá efectos a partir de su presentación o en fecha posterior señalada en el escrito de referencia.
 
-Para reincorporarse al ejercicio de las actividades legislativas, el Diputado con licencia lo informará por escrito al Presidente de la Mesa, quien notificará al suplente para que cese en el ejercicio de su cargo en la fecha que se indique de igual manera lo hará del conocimiento del Pleno y de la Secretaría General, para los efectos legales conducentes.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Para reincorporarse al ejercicio de las actividades legislativas, el Diputado con licencia lo informará por escrito al Presidente de la Mesa, quien notificará al suplente para que cese en el ejercicio de su cargo en la fecha que se indique de igual manera lo hará del conocimiento del Pleno y de la Secretaría de Servicios Legislativos, para los efectos legales conducentes.
 
 Se entiende que los Diputados que falten a tres sesiones consecutivas del Pleno sin causa justificada y sin previo aviso al Presidente, renuncian a desempeñar su cargo, llamándose desde luego a los suplentes.
 
@@ -511,29 +543,31 @@ Los Diputados no pueden celebrar contrato alguno con el Estado, ni obtener conce
 
 #### SECCIÓN TERCERA. DE LAS FORMAS DE ORGANIZACIÓN PARLAMENTARIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 46.
 
-Los Diputados podrán agruparse en las formas de organización siguientes:
+Los Diputados de un mismo partido político, podrán agruparse en las formas de organización siguientes:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-I. Grupos Parlamentarios;
+I. Coaliciones Parlamentarias;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Coaliciones Parlamentarias;
+II. Grupos Parlamentarios;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 III. Fracciones Parlamentarias; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 IV. Representaciones de Partido.
 
-Sólo podrá constituirse una forma de organización partidista por cada partido político representado en la Legislatura.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los partidos políticos podrán participar en una Coalición Parlamentaria, independientemente de otra forma de organización en que participen. Las Coaliciones Parlamentarias, lo serán solo para la organización del gobierno interior y las demás atribuciones que se señalen.
 
 Los Diputados sin filiación partidista o que dejen de pertenecer a alguna forma de organización parlamentaria, sin integrarse a otra existente, serán considerados como Diputados independientes.
 
@@ -555,15 +589,15 @@ III. La denominación del grupo, coalición o fracción parlamentaria.
 
 En el caso de las representaciones de partido, se comunicará la decisión de constituirse como tal, mediante escrito donde se haga constar dicha voluntad.
 
-El expediente de constitución se remitirá a la Secretaría General a más tardar el treinta de agosto del año de la elección, para que a su vez sea entregado a la Mesa Directiva Inicial, electa en la junta preparatoria.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El expediente de constitución se remitirá a la Secretaría de Servicios Legislativos a más tardar el treinta de agosto del año de la elección, para que a su vez sea entregado a la Mesa Directiva Inicial, electa en la junta preparatoria.
 
 Las coaliciones parlamentarias podrán extinguirse por decisión de la mayoría de sus integrantes, para lo cual deberán comunicarlo por escrito a la Presidencia de la Mesa Directiva.
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
-
 ###### Artículo 47 Bis.
 
-Las coaliciones parlamentarias tendrán derecho al ejercicio de recursos económicos y a la asignación de recursos humanos y materiales como una sola forma de organización parlamentaria, de conformidad con el número de sus integrantes, sin tener la posibilidad de acceder a prerrogativas adicionales o especiales.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
 
@@ -901,19 +935,21 @@ V. Las Comisiones Legislativas.
 
 El Pleno de la Legislatura, es el órgano máximo de deliberación y resolución del Congreso del Estado; deberá reunirse en los términos y plazos que los ordenamientos aplicables prescriban; estará representado por una Mesa Directiva, a la que corresponderá el manejo del orden del día y la conducción de las sesiones bajo la autoridad del Presidente.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 73.
 
-La Mesa Directiva, es un órgano de gobierno interior del Congreso, integrada por un Presidente, un Vicepresidente, dos secretarios propietarios y dos suplentes, quienes durarán en su encargo el periodo ordinario en el que fueran electos. En su integración, prevalecerá el principio de pluralidad. No podrá ser Presidente de la Mesa Directiva, el Diputado que presida la Junta de Gobierno y Coordinación Política.
+La Mesa Directiva, es un órgano de gobierno interior del Congreso, integrada por un Presidente, un Vicepresidente, dos secretarios propietarios y dos suplentes, quienes durarán en su encargo durante un año de ejercicio constitucional, la que contará con un Secretario Técnico para el apoyo técnico-administrativo de sus funciones.
 
-La Mesa Directiva deberá elegirse en la junta previa respectiva, la que se realizará dentro de los cinco días previos a la instalación del periodo ordinario, mediante votación por cédula y por mayoría absoluta de los Diputados presentes. Los integrantes de la Mesa Directiva, solo podrán ser sustituidos por el voto de las dos terceras partes de los Diputados en la sesión de que se trate.
-
-Realizada la elección de la Mesa Directiva, se comunicará por oficio a los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado; a las Cámaras del Honorable Congreso de la Unión y a las Legislaturas de las demás entidades federativas.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 74.
 
-El Presidente de la Legislatura ostentará la representación jurídica del Congreso del Estado. A falta del Presidente, ejercerá sus funciones el Vicepresidente. En ausencia de este, tomarán la representación, por su orden, los Diputados que hubieran ocupado el cargo en los periodos de sesiones anteriores. En los juicios de amparo, su revisión, queja o inconformidad, las acciones de inconstitucionalidad, controversias constitucionales y en los juicios en los que el Congreso forme parte, se estará a lo dispuesto en la legislación aplicable. La Secretaria de Asuntos Jurídicos, estará facultada por delegación, a representar jurídicamente al Congreso.
+El Presidente de la Legislatura ostentará la representación jurídica del Congreso del Estado, sin perjuicio de poder ser representado, previa delegación, por el Titular de la Secretaría de Servicios Jurídicos. A falta del Presidente, ejercerá sus funciones el Vicepresidente. En ausencia de este, tomarán la representación, por su orden, los Diputados que hubieran ocupado el cargo en los periodos de sesiones anteriores. En los juicios de amparo, su revisión, queja o demás recursos, las acciones de inconstitucionalidad, controversias constitucionales y en todo tipo de juicio, sin importar su naturaleza, en los que el Congreso, sus Comisiones o sus unidades administrativas formen parte, y atendiendo a lo dispuesto por la legislación aplicable, la Secretaria de Asuntos Jurídicos, estará facultada en todo momento para representarlos jurídicamente, incluyendo la facultad de poder absolver posiciones.
 
-Las faltas de los secretarios propietarios serán cubiertas por los suplentes, y en caso de ausencia de éstos, por quien designe el Presidente del Congreso del Estado.
+En su integración, prevalecerá el principio de pluralidad. No podrá ser Presidente de la Mesa Directiva, el Diputado que presida la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 75.
 
@@ -926,6 +962,28 @@ II. Tutelar los derechos y vigilar el cumplimiento de las obligaciones de los Di
 III. Establecer mecanismos de coordinación y consulta con los demás órganos de gobierno interior y formas de organización parlamentaria; y
 
 IV. Velar por la integridad del recinto oficial del Congreso.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Proponer al Pleno del Congreso, para su designación o remoción, a quien ocupe el cargo de Secretario de Servicios Legislativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Presentar a la Comisión de Administración y Contraloría Interna su proyecto de presupuesto anual para que sea integrado al proyecto de presupuesto anual del Poder Legislativo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Suministrar, por conducto de la Secretaria de Servicios Legislativos, el apoyo profesional y técnico a la Mesa Directiva, Comisiones Legislativas, en cuanto a soporte documental, y demás órganos técnicos, para el mejor desempeño de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VIII. Efectuar el proceso de entrega-recepción, en los términos que dispongan los ordenamientos legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. Signar convenios de colaboración o coordinación en asuntos de su competencia y,
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 76.
 
@@ -957,7 +1015,9 @@ XII. Nombrar las comisiones especiales;
 
 XIII. Tomar la protesta a los Diputados en la forma establecida, y a los servidores públicos que conforme a la ley deban otorgarla ante el Congreso;
 
-XIV. Rendir u ordenar que se rindan los informes previos y justificados que se deriven de los juicios de amparo en todas sus etapas y recursos, controversias constitucionales y acciones de inconstitucionalidad en los que el Congreso sea señalado como parte y asumir la representación jurídica en las diferentes etapas de los juicios, en los casos en los cuales aquella no pueda ser delegada;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIV. Rendir u ordenar que se rindan los informes previos y justificados que se deriven de los juicios de amparo en todas sus etapas y recursos, controversias constitucionales y acciones de inconstitucionalidad en los que el Congreso sea señalado como parte y asumir la representación jurídica en las diferentes etapas de los juicios sin importar su naturaleza, en los que el Congreso, sus Comisiones o sus unidades administrativas formen parte, y atendiendo a lo dispuesto por la legislación aplicable, la Secretaria de Asuntos Jurídicos, estará facultada en todo momento para representarlos jurídicamente con excepción de aquellos casos en los cuales no pueda ser delegada;
 
 XV. Aplicar las medidas disciplinarias que le faculte expresamente la ley, al diputado o Diputados que se resistan a acatar las resoluciones dictadas por las instancias de gobierno del Congreso;
 
@@ -971,7 +1031,37 @@ XIX. Aplicar con imparcialidad las disposiciones orgánicas legislativas;
 
 XX. Suscribir convenios de colaboración o coordinación, en los que la Legislatura forme parte; y,
 
-XXI. Las demás que se deriven de la Constitución Política Local, de esta Ley y de las disposiciones o acuerdos que emita el Congreso.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXI. Supervisar las funciones de los órganos técnicos al Servicio del Congreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXII. Firmar los nombramientos de los servidores públicos acordados por el Pleno del Congreso; y de los que no sean por acuerdo de la Asamblea;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXIII. Presidir el Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos del Congreso; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXIV. Nombrar y remover a los servidores públicos bajo su adscripción, en los casos en que la presente ley no disponga determinado procedimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXV. Supervisar el orden del día elaborado por la Secretaría de Servicios Legislativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXVI. Ejercer la administración del presupuesto asignado a la Mesa Directiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXVII. Designar al Secretario Técnico de la Mesa Directiva, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XXVIII. Las demás que se deriven de la Constitución Política Local, de esta Ley y de las disposiciones o acuerdos que emita el Congreso.
 
 ###### Artículo 77.
 
@@ -1001,19 +1091,25 @@ VII. Formar a más tardar al tercer día hábil siguiente a la clausura del peri
 
 VIII. Autentificar con sus firmas, las copias certificadas que se expidan de los documentos que obren en el Congreso; esta facultad podrá ser delegada en la dependencia a cuyo cargo recaiga la prestación de servicios jurídicos del Congreso, especialmente los relacionados a las materias de amparo, acciones de inconstitucionalidad y controversias constitucionales y los recursos que de ellos se deriven;
 
-IX. Apoyarse para el desempeño de sus labores en la Secretaría General y sus dependencias; y,
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. Apoyarse para el desempeño de sus labores en la Secretaría de Servicios Legislativos y sus dependencias; y,
 
 X. Las demás que se deriven de esta Ley, de las disposiciones legales o acuerdos del Pleno.
 
 ### CAPÍTULO III. DE LA COMISIÓN PERMANENTE
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 79.
 
-Durante los períodos de receso del Congreso, la representación jurídica del Poder Legislativo radicará en una Comisión Permanente, integrada por cinco Diputados propietarios y cinco Diputados suplentes.
+Durante los periodos de receso del Congreso, la representación jurídica del Poder Legislativo radicará en una Comisión Permanente, integrada por los diputados integrantes de la Mesa Directiva en funciones y sus respectivos suplentes; la integración se realizará privilegiando la pluralidad de las distintas representaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 80.
 
-En la última sesión de un periodo ordinario, el Congreso deberá elegir un Presidente, dos secretarios y dos vocales, propietarios con sus respectivos suplentes, para integrar la Comisión Permanente que fungirá durante todo el receso, aun cuando el Congreso funcione en periodos extraordinarios.
+En la ultima sesión de un periodo ordinario, el Congreso deberá elegir dos vocales propietarios con sus respectivos suplentes para integrarse a la Comisión Permanente que fungirá durante todo el receso, aun cuando el Congreso funcione en periodos extraordinarios.
 
 La elección anterior deberá comunicarse por oficio a los Titulares de los Poderes Ejecutivo y Judicial del Estado; y a las Cámaras del Poder Legislativo Federal, a las Legislaturas de las demás Entidades Federativas y a los Ayuntamientos del Estado.
 
@@ -1065,23 +1161,37 @@ El Presidente de la Comisión Permanente podrá delegar en el Secretario de Serv
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL CONTENIDO DEL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NO. 002 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2021 QUE A LA LETRA DICE: "SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura. En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados." BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.]</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 86.
 
-A más tardar en la tercera sesión de la Legislatura y para todo el ejercicio constitucional, la asamblea elegirá por mayoría absoluta y mediante votación por cédula, el órgano de gobierno interior denominado Junta de Gobierno y Coordinación Política.
+En la primera sesión de la Legislatura y para todo el ejercicio constitucional, la asamblea elegirá por mayoría absoluta y mediante votación por cédula, el órgano de gobierno interior denominado Junta de Gobierno y Coordinación Política, integrado por un Presidente, que será el coordinador del grupo parlamentario o coalición parlamentaria que por sí mismo cuente con la mayoría absoluta de Diputados del Congreso; dos secretarios, uno de grupo o coalición mayoritario y otro de la primera minoría y dos vocales que corresponderán a Diputados del grupo parlamentario o coalición parlamentaria mayoritarios y de la segunda minoría respectivamente.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
 La Junta de Gobierno y Coordinación Política estará integrada por un Presidente o Presidenta, que será el o la coordinadora del grupo parlamentario o coalición parlamentaria que por sí mismo cuente con mayoría calificada de integrantes del Congreso; dos secretarías, una del grupo o coalición mayoritaria y otra de la primera minoría; y dos vocales, que corresponderán a diputadas o diputados del grupo parlamentario o coalición parlamentaria mayoritarios y de la segunda minoría respectivamente.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
 A la Junta de Gobierno y Coordinación Política concurrirán con voz las y los demás representantes parlamentarios de los Partidos Políticos representados en el Congreso.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
 Para efectos de determinar la prelación de las minorías, se estará al número de diputadas o diputados acreditados en la Legislatura por cada partido político y, en su caso, a la votación que éstos hayan obtenido por sí mismos en la última elección de diputados y diputadas de representación proporcional.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
 En el caso de las coaliciones parlamentarias, la prelación se determinará de acuerdo al número de diputadas y diputados que las integran y, en caso de contar con el mismo número de diputadas y diputados, a la suma de la votación que éstas hayan obtenido por sí mismas en la última elección de diputadas y diputados de representación proporcional.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
 En caso de que ningún grupo o coalición parlamentaria cuente con mayoría calificada al inicio de la Legislatura y con base en las declaratorias de constitución de las formas de organización parlamentaria realizadas en la sesión de instalación de la Legislatura, la responsabilidad de presidir la Junta de Gobierno tendrá una duración anual; esta encomienda se desempeñará sucesivamente en el primer año por el coordinador o coordinadora del grupo parlamentario de la coalición mayoritaria con mayor número de diputados, el segundo año lo presidirá el coordinador o coordinadora del grupo parlamentario de la coalición parlamentaria mayoritaria que le siga en orden decreciente al número de legisladores que la integren, y el tercer año presidirá la Junta de Gobierno el coordinador o coordinadora del grupo parlamentario o la coalición que le siga al grupo o coalición parlamentaria mayoritaria en orden decreciente al número de legisladores, siempre y cuando cuenten por lo menos con el veinte por ciento del número total de integrantes de la Legislatura.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+
 La Junta de Gobierno y Coordinación Política deberá impulsar los entendimientos, convergencias y consensos sobre las tareas legislativas, políticas y administrativas del Congreso del Estado. Adoptará sus resoluciones preferentemente por consenso; y en caso de no lograrlo, por la mayoría absoluta de sus miembros. En caso de empate, el Presidente o Presidenta ejercerá su voto de calidad.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
 
 En su sesión de instalación, la Junta de Gobierno y Coordinación Política deberá incluir en el orden del día, al menos, los puntos siguientes:
 
@@ -1105,7 +1215,7 @@ f) Otros asuntos cuyo desahogo se determine por la vía del acuerdo parlamentari
 
 IV. Otros asuntos que ameriten su atención y pronto desahogo.
 
-[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL CONTENIDO DEL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NO. 002 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2021 QUE A LA LETRA DICE: "SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura. En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados." BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.](REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE SEPTIEMBRE DE 2021)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 87.
 
@@ -1121,9 +1231,9 @@ IV. Dirigir y organizar los trabajos de la agenda legislativa institucional, en 
 
 V. Proponer al Pleno del Congreso a los integrantes de las Comisiones Legislativas, así como su sustitución, cuando existieren causas justificadas;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-VI. Proponer al Pleno del Congreso, para su designación, a quien ocupe el cargo de Secretario o Secretaria General;
+VI. Proponer al Pleno del Congreso, para su designación o remoción, a quien ocupe el cargo de Secretario General;
 
 VII. Nombrar y remover a los servidores públicos del Congreso, en los casos en que la presente ley no disponga determinado procedimiento;
 
@@ -1145,6 +1255,8 @@ XV. Signar convenios de colaboración o coordinación en asuntos de su competenc
 
 XVI. Las demás que le confiera esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 88.
 
 Son atribuciones del Presidente de la Junta de Gobierno y Coordinación Política, las siguientes:
@@ -1159,11 +1271,15 @@ IV. Proponer a la Junta de Gobierno y Coordinación Política lo que estime conv
 
 V. Supervisar las funciones de los órganos técnicos al Servicio del Congreso;
 
-VI. Firmar los nombramientos de los servidores públicos acordados por el Pleno del Congreso; y de los que no sean por acuerdo de la Asamblea;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-VII. Administrar el presupuesto del Poder Legislativo;
+VI. Firmar los nombramientos de los servidores públicos de la administración del Congreso que no sean por acuerdo de la Asamblea;
 
-VIII. Presidir el Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos del Congreso; la siguiente sesión de Junta de Gobierno y Coordinación Política; y,
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Administrar el presupuesto del Poder Legislativo, asegurando el ejercicio correspondiente presentado por la Mesa Directiva;
+
+VIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2021)
 
 IX. Las demás que le confieran otras disposiciones legales aplicables.
 
@@ -1221,9 +1337,11 @@ Las Comisiones Legislativas serán propuestas por la Junta de Gobierno y Coordin
 
 Las Comisiones Legislativas deberán integrarse de manera tal que reflejen la pluralidad política del Congreso y estarán integradas invariablemente por un Presidente, un Secretario y cuatro vocales. Sólo la Comisión de Hacienda, Presupuesto y Cuenta Pública estará conformada por siete integrantes, un Presidente, un Secretario y cinco Vocales.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 95.
 
-El Presidente de cada Comisión será responsable de los documentos y expedientes de los asuntos que se les turnen para su estudio; por lo tanto, deberá firmar en el libro de registro, que para el efecto llevará la Secretaría General, el recibo de ellos, y devolver los que en su poder se encuentren sin despachar, al finalizar el período de sesiones.
+El Presidente de cada Comisión será responsable de los documentos y expedientes de los asuntos que se les turnen para su estudio; por lo tanto, deberá firmar en el libro de registro, que para el efecto llevará la Secretaría de Servicios Legislativos, el recibo de ellos, y devolver los que en su poder se encuentren sin despachar, al finalizar el período de sesiones.
 
 ###### Artículo 96.
 
@@ -1313,6 +1431,10 @@ b) Disponer del apoyo técnico necesario del Centro de Investigaciones y Estudio
 
 c) El Presidente de cada Comisión está obligado a convocar a reunión con anticipación de al menos veinticuatro horas, excepción hecha de aquellas que por su urgencia o especial tratamiento deban de convocarse con menor anticipación, en cuyo caso, la citación deberá estar firmada por al menos la mayoría de los integrantes de la Comisión de que se trate. Si el Presidente se niega a realizar la convocatoria, esta se podrá expedir y será con la firma de la mayoría de los integrantes de la Comisión. Si a la reunión no concurre el Presidente, el Secretario la presidirá.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+d) El Presidente de la Comisión ostentará la representación jurídica de la misma, sin perjuicio de que dicha representación pueda ser ejercida por el Presidente de la Legislatura o previa delegación, por el Titular de la Secretaría de Servicios Jurídicos, quienes estarán facultados en todo momento para representarlos jurídicamente y brindar asesoría jurídica, lo anterior para efecto de comparecer a los juicios de amparo, su revisión, queja o demás recursos, las acciones de inconstitucionalidad, controversias constitucionales y en todo tipo de juicio o procedimiento, sin importar su naturaleza, en los que la Comisión forme parte.
+
 Las comisiones legislativas, podrán, si es necesario, acordar que las reuniones convocadas se constituyan en permanentes a efecto de dejar en estado de resolución los asuntos de su competencia y si fuera necesario allegarse de elementos adicionales para hacerlo.
 
 ###### Artículo 108.
@@ -1357,9 +1479,11 @@ Los acuerdos que se tomen, se resolverán por mayoría de votos; y si hubiere em
 
 De cada reunión de las comisiones, se levantará un acta, la cual será firmada por el Presidente y el Secretario.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 111.
 
-Las comisiones tendrán la obligación de formular al término de cada período ordinario de sesiones, un informe sobre el resultado del mismo, mismo que por conducto de la Secretaría General será hecha del conocimiento de la Mesa Directiva.
+Las comisiones tendrán la obligación de formular al término de cada período ordinario de sesiones, un informe sobre el resultado del mismo, mismo que por conducto de la Secretaría de Servicios Legislativos será hecha del conocimiento de la Mesa Directiva.
 
 ###### Artículo 112.
 
@@ -1883,25 +2007,43 @@ Si una iniciativa o asunto no fuere de la competencia expresa de alguna de las c
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS ADMINISTRATIVOS Y TÉCNICOS DEL CONGRESO
 
-### CAPÍTULO I. DE LA SECRETARÍA GENERAL
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO II. DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
+### CAPÍTULO I
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 158 Bis.
+
+La Secretaría General y la Secretaria de Servicios Legislativos, establecerán un estrecho trabajo de colaboración para la resolución de los asuntos competencia de cada una de ellas.
+
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO I], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. DE LA SECRETARÍA GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 159.
 
-Las funciones administrativas del Poder Legislativo, se ejercerán por conducto de la Secretaría General, órgano técnico administrativo del Congreso dependiente de la Junta de Gobierno y Coordinación Política, que tiene a su cargo la optimización de los recursos financieros, humanos y materiales del mismo, por conducto y coordinación de las Secretarías de Servicios Parlamentarios, de Servicios Administrativos y Financieros y de la Secretaría de Asuntos Jurídicos.
+Las funciones administrativas del Poder Legislativo, se ejercerán por conducto de la Secretaría General, órgano técnico administrativo del Congreso dependiente de la Junta de Gobierno y Coordinación Política, que tiene a su cargo la optimización de los recursos financieros, humanos y materiales del mismo, por conducto de la Secretaría de Servicios Administrativos y Financieros, estableciendo la coordinación necesaria con la Secretaría de Servicios Legislativos.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 Para el ejercicio de las funciones que esta Ley le atribuye a la Secretaría General, ejercerá las siguientes atribuciones:
 
-I. Auxiliar al Presidente de la Mesa Directiva o de la Comisión Permanente, en su caso, en la ejecución de los acuerdos del Congreso y a la Junta de Gobierno y Coordinación Política en sus funciones;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Realizar la función de Secretario Técnico de la Junta de Gobierno y Coordinación Política;
+I. Auxiliar a la Junta de Gobierno y Coordinación Política en sus funciones;
+
+II. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2021)
 
 III. Presentar a la Junta de Gobierno y Coordinación Política, dentro de los dos primeros meses del ejercicio de su encargo, un Plan Institucional de Desarrollo Administrativo del Congreso del Estado, en el cual deberá señalar con precisión, las facultades, atribuciones y metas que deberán realizar los distintos órganos administrativos a su cargo;
 
-IV. Supervisar la elaboración del orden del día, verificando, que en la misma se incluyan los asuntos que deba conocer el pleno, así como su oportuna fijación a la entrada del recinto oficial en el transcurso del día anterior, así como la guía correspondiente de los asuntos en cartera y proporcionar copia de los asuntos que soliciten los diputados;
+IV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2021)
 
-V. Vigilar el adecuado desempeño de las Secretarías y Unidades Administrativas a su cargo, optimizando la administración de los recursos humanos, materiales y financieros del Congreso;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Vigilar el adecuado desempeño de las Unidades Administrativas a su cargo, optimizando la administración de los recursos humanos, materiales y financieros del Congreso;
 
 VI. Supervisar la elaboración del proyecto de presupuesto anual de egresos del Congreso y someterlo a la consideración de la Junta de Gobierno y Coordinación Política;
 
@@ -1911,61 +2053,33 @@ VIII. Intervenir en las adquisiciones, servicios y suministros de las áreas del
 
 IX. Realizar las tareas de consulta y atención ciudadana, relaciones públicas y comunicación social del Congreso;
 
-X. Coordinar la debida actualización de la información pública, sin menoscabo de la que conforme a la ley deba ser difundida de oficio por conducto de la Unidad correspondiente, apoyándose para el cumplimiento de sus atribuciones en la utilización de un portal oficial de internet, que contendrá como mínimo lo siguiente:
+X. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2021)
 
-a) Integración de la Legislatura, Junta de Gobierno y Coordinación Política, formas de representación parlamentaria y Mesa Directiva;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-b) Historial de la conformación de las Legislaturas anteriores;
+XI. Coordinar la prestación de los servicios técnicos y administrativos para el debido desempeño de la función administrativa y la exacta ejecución de las resoluciones de la Junta de Gobierno y Coordinación Política;
 
-c) Estructura Orgánica del Congreso;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-d) Directorio de los servidores públicos;
-
-e) Agenda Legislativa;
-
-f) Calendario de Sesiones del Pleno, de la Comisión Permanente y de reuniones de Comisión;
-
-g) Videoteca de las sesiones;
-
-h) Códigos, leyes, decretos, acuerdos y reglamentos;
-
-i) Iniciativas y Dictámenes;
-
-j) Registro de las votaciones por asunto;
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2020)</small>
-
-k) Estadísticas de participación por diputado, por coalición parlamentaria, por fracción parlamentaria y por grupo parlamentario;
-
-l) Eventos y convocatorias;
-
-m) Calendarización de los foros y consultas públicas, así como los medios para la recepción de propuestas;
-
-n) Comunicados de prensa;
-
-o) Vínculo a las redes sociales, que permitan la comunicación interactiva con los ciudadanos;
-
-p) Buzón electrónico de quejas y sugerencia (sic), y,
-
-q) Los demás elementos que resulten necesarios a la difusión de la información oficial del Congreso;
-
-XI. Coordinar la prestación de los servicios técnicos, administrativos, legislativos, jurídicos y de investigación a través de las Secretarías a su cargo, para el debido desempeño de la función legislativa y parlamentaria y la exacta ejecución de las resoluciones del Congreso, de la Junta de Gobierno y Coordinación Política, así como de la Mesa Directiva o de la Comisión Permanente, en su caso;
-
-XII. Nombrar y remover al personal del Congreso, previo acuerdo con el Presidente de la Junta de Gobierno y Coordinación Política;
+XII. Nombrar y remover al personal del Congreso, bajo su adscripción, previo acuerdo con el Presidente de la Junta de Gobierno y Coordinación Política;
 
 XIII. El ejercicio de las atribuciones que le confieran las reglas para la difusión de actividades e imagen institucional del Poder Legislativo del Estado; y,
 
 XIV. Las demás que le confieran esta ley, sus reglamentos, el Pleno y la Junta de Gobierno y Coordinación Política.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-La Junta de Gobierno y Coordinación Política deberá designar dentro de la estructura orgánica de la Secretaría General y atendiendo a la disponibilidad presupuestal, una instancia responsable encargada de aplicar lo establecido en (sic) Ley General de Mejora Regulatoria, o bien, autorizarla para coordinarse con la Autoridad de Mejora Regulatoria del Estado para el cumplimiento de las obligaciones de dicha materia.
+La Junta de Gobierno y Coordinación Política deberá designar dentro de la estructura orgánica de la Secretaría General y atendiendo a la disponibilidad presupuestal, una instancia responsable encargada de aplicar lo establecido en la Ley General de Mejora Regulatoria, o bien, autorizarla para coordinarse con la Autoridad de Mejora Regulatoria del Estado para el cumplimiento de las obligaciones de dicha materia.
 
-A. SECRETARIA DE SERVICIOS ADMINISTRATIVOS Y FINANCIEROS
+> <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO III. DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS
+### CAPÍTULO III. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
 
-#### SECCIÓN PRIMERA. DE LOS DICTÁMENES
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XX A XIX FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINA 21.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARIA DE SERVICIOS ADMINISTRATIVOS Y FINANCIEROS
 
 ###### Artículo 160.
 
@@ -2025,13 +2139,15 @@ XIV. Elaborar y presentar a la Secretaría General del Congreso, a efecto de su 
 
 XV. Las demás que esta Ley, el Pleno del Congreso y el Secretario General le confieran.
 
-B. SECRETARÍA DE SERVICIOS PARLAMENTARIOS
+> <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO IV. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+### CAPÍTULO IV. DE LA SECRETARÍA DE SERVICIOS JURÍDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 161.
 
-La Secretaria de Servicios Parlamentarios, es el órgano técnico, dependiente de la Secretaría General, a cuyo cargo corresponde brindar el apoyo profesional y técnico a los diversos órganos del Congreso en sus funciones legislativas y parlamentarias y contara al menos con las siguientes unidades administrativas:
+La Secretaría de Servicios Legislativos, es el órgano técnico, dependiente de la Mesa Directiva, a cuyo cargo corresponde brindar el apoyo profesional y técnico a los diversos órganos del Congreso en sus funciones legislativas y parlamentarias y contará al menos con las siguientes unidades administrativas:
 
 I. Dirección de Apoyo al Proceso Parlamentario, la cual contará con los siguientes Departamentos:
 
@@ -2051,7 +2167,9 @@ II. Dirección de Apoyo a Órganos Legislativos, la cual contará con la siguien
 
 Esta Coordinación tendrá a su cargo la atención de visitas guiadas al Congreso.
 
-III. Dirección de Informática y Telecomunicaciones, la cual contará con los siguientes Departamentos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Dirección de Informática y Telecomunicaciones, la cual contará con los siguientes departamentos:
 
 1) Departamento de Informática;
 
@@ -2059,13 +2177,17 @@ III. Dirección de Informática y Telecomunicaciones, la cual contará con los s
 
 3) Departamento de Sistema de Información Parlamentaria.
 
-La Secretaria de Servicios Parlamentarios tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La Secretaria de Servicios Legislativos tendrá las siguientes atribuciones:
 
 I. Preparar los elementos necesarios para celebrar las sesiones del Congreso en los términos previstos por esta Ley, vigilando además la entrega oportuna de los citatorios para las sesiones a los Diputados;
 
 II. Prestar servicios de asistencia técnica a la Presidencia de la Mesa Directiva durante las sesiones y fuera de estas, comprendiendo: comunicaciones y correspondencia, turnos y control de documentos; certificación y autentificación documental, instrumentos de identificación y diligencias relacionados con el fuero de los legisladores, el libro del registro biográfico de los integrantes de cada una de las Legislaturas, protocolo, ceremonial, relaciones públicas, así como verificar en las sesiones el quórum de asistencia, cómputo y registro de las votaciones, información y estadística de las actividades que adopte el Pleno, elaboración, registro y publicación de las actas de las sesiones y registro de leyes y resoluciones que se adopten por la Asamblea; además de dar cumplimiento a las decisiones que adopte el Congreso en el Proceso Legislativo, remitiendo las normas al Poder Ejecutivo para su promulgación y publicación correspondiente;
 
-III. Bajo la orientación del Secretario General dirigir los trabajos y supervisar el cumplimiento de las atribuciones y el correcto funcionamiento de los servicios parlamentarios y legislativos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Supervisar la elaboración del orden del día, verificando, que en la misma se incluyan los asuntos que deba conocer el pleno, así como su oportuna fijación a la entrada del recinto oficial en el transcurso del día anterior, así como la guía correspondiente de los asuntos en cartera y proporcionar copia de los asuntos que soliciten los diputados; así como dirigir los trabajos y supervisar el cumplimiento de las atribuciones y el correcto funcionamiento de los servicios legislativos;
 
 IV. Supervisar y vigilar el cumplimiento, y en su caso, ejecutar las políticas y lineamientos de los servicios parlamentarios y legislativos;
 
@@ -2073,11 +2195,17 @@ IV. Supervisar y vigilar el cumplimiento, y en su caso, ejecutar las políticas 
 
 V. Publicar y distribuir la gaceta parlamentaria y los documentos que requieran su difusión y publicación del Congreso del Estado, por lo menos a las 21:00 hrs. del día inmediato a la sesión;
 
-VI. Informar, por conducto de la Secretaría General, a la Junta de Gobierno y Coordinación Política, al término de los periodos ordinarios de sesiones, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta y respecto al desempeño en la prestación de los servicios parlamentarios;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-VII. Formular y presentar a la Comisión de Administración y Contraloría Interna por conducto del Secretario General, su programa operativo anual, incorporando los proyectos de las comisiones legislativas;
+VI. Informar a la Mesa Directiva, al término de los periodos ordinarios de sesiones, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta y respecto al desempeño en la prestación de los servicios legislativos;
 
-VIII. Auxiliar al Secretario General, a llevar debido registro y control de iniciativas, dictámenes y actas de las sesiones plenarias vigilando su legal publicidad y registro del estado legislativo que guarden;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Formular y presentar a la Comisión de Administración y Contraloría Interna por conducto de la Mesa Directiva, su programa operativo anual, incorporando los proyectos de las comisiones legislativas;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VIII. Llevar el registro, control y archivo de iniciativas, dictámenes, decretos y actas de las sesiones plenarias vigilando su legal publicidad y registro del estado legislativo que guarden;
 
 IX. Apoyar a la Mesa Directiva, durante las sesiones, para verificar el quórum, cómputo y registro de las votaciones, información y estadística de las actividades y resoluciones que adopte el Pleno;
 
@@ -2091,37 +2219,73 @@ XIII. Auxiliar a la Mesa Directiva en las reuniones que celebre cuando no funcio
 
 XIV. Asistir a la Comisión Permanente en el desarrollo de sus funciones;
 
-XV. Auxiliar a la Secretaría General y en lo particular a la Comisión de Responsabilidades durante el trámite de juicio político, declaración de procedencia y responsabilidades administrativas y demás procedimientos encomendados a la citada Comisión;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-XVI. Auxiliar al Secretario General en el trámite parlamentario a los dictámenes aprobados por las comisiones y en su caso remitir al Ejecutivo los decretos correspondientes así como dar trámite a los acuerdos aprobados;
+XV. Auxiliar a la Comisión de Responsabilidades durante el trámite de juicio político, declaración de procedencia y responsabilidades administrativas y demás procedimientos encomendados a la citada Comisión, exclusivamente en cuanto a soporte documental;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XVI. Auxiliar en el trámite legislativo a los dictámenes aprobados por las comisiones y remitir al Ejecutivo los decretos correspondientes, así como dar trámite a los acuerdos aprobados;
 
 XVII. Proveer lo necesario para el oportuno despacho parlamentario de las iniciativas, acuerdos y puntos de acuerdo que se registren;
 
-XVIII. Coordinar la prestación de los Servicios Técnicos de Informática y Comunicaciones, así como vigilar la correcta operación del Sistema de Información Parlamentaria; y,
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+XVIII. Coordinar la prestación de los servicios legislativos para el debido desempeño de la función legislativa y la exacta ejecución de las resoluciones del Congreso, y de la Mesa Directiva o de la Comisión Permanente, en su caso;
 
-XIX. En el sistema de información parlamentaria y la pantalla de votación se podrá establecer a petición de cualquier diputado la utilización de sobrenombres, alias, apodo o motes que identifiquen plenamente al legislador, sin que medie requisito alguno más que sea solicitado en forma escrita, con la excepción de que estos no sean obscenos o vulgares.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+XIX. Las demás que esta Ley, el Pleno del Congreso y el Presidente de la Mesa Directiva le confieran.
 
-XX. Las demás que esta Ley, el Pleno del Congreso y el Secretario General le confieran.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-C. LA SECRETARIA DE SERVICIOS JURIDICOS
+#### SECCIÓN SEGUNDA. DE LA GACETA PARLAMENTARIA
 
-#### SECCIÓN SEGUNDA. DEL ESTUDIO, DISCUSIÓN Y VOTACIÓN DE DICTÁMENES
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO V. DEL COMITÉ DE TRANSPARENCIA
+###### Artículo 161 Bis.
+
+La Gaceta Parlamentaria, es el órgano informativo oficial del Congreso del Estado; estará a cargo de la Secretaría de Servicios Parlamentarios y tiene por objeto dar difusión pública a las labores parlamentarias.
+
+Las condiciones de edición, publicación y periodicidad serán acordadas por la Mesa Directiva.
+
+El contenido de la gaceta tendrá solo efectos informativos, sin que se considere lo publicado con validez legal y efecto jurídico vinculatorio.
+
+> <small>(REFORMADO [N. DE E. ANTES APARTADO C], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. DE LOS REQUISTOS (SIC) PARA SER SECRETARIA O SECRETARIO GENERAL, DE SERVICIOS LEGISLATIVOS; DE ADMINISTRACIÓN Y FINANZAS Y DE SERVICIOS JURÍDICOS
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 162.
 
-A la Secretaria de Servicios Jurídicos corresponde la atención a los asuntos contenciosos del Congreso del Estado. A este órgano técnico corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaria de Servicios Jurídicos corresponde la atención a los asuntos jurídico contenciosos del Congreso del Estado y dependerá del Presidente de la Mesa Directiva. A este órgano técnico corresponde el ejercicio de las siguientes atribuciones:
 
-I. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá su titular por delegación, conforme a las leyes aplicables, la representación jurídica del Congreso y sus dependencias, en los juicios y procedimientos contenciosos en los que éste sea parte, así como en los juicios de amparo en todas sus etapas y recursos, además atender las acciones de inconstitucionalidad y controversias constitucionales en las que el Congreso tenga interés, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico del Congreso, así como presentar denuncia o querella ante el Ministerio Público de los hechos que así lo ameriten;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Proporcionar asesoría jurídica a las unidades técnicas y administrativas de la Legislatura que lo requieran; y,
+I. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá su titular en todo momento conforme a las leyes aplicables, la representación jurídica del Congreso, sus Comisiones y sus unidades administrativas, en todos los juicios sin importar su naturaleza y procedimientos contenciosos en los que éste sea parte, así como en los juicios de amparo en todas sus etapas y recursos, además atender las acciones de inconstitucionalidad y controversias constitucionales en las que el Congreso sea parte, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico del Congreso, así como presentar denuncia o querella ante el Ministerio Público de los hechos que así lo ameriten;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Proporcionar asesoría jurídica a las Comisiones legislativas, unidades técnicas y administrativas de la Legislatura que lo requieran;
 
 III. Revisar que todos los contratos y convenios que deban ser suscritos por cualquier órgano, unidad administrativa o servidor público en representación de la Legislatura, cumplan con los requisitos y formalidades de ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Autenticar y certificar con su firma, las copias que se expidan de los documentos que obren en el Congreso, especialmente los relacionados con juicios de cualquier naturaleza, los relacionados a las materias de amparo, acciones de inconstitucionalidad y controversias constitucionales y los recursos que de ellos se deriven;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Llevar a cabo, por conducto de su titular, todo tipo de notificaciones y diligencias en asuntos relacionados con procedimientos tramitados ante las Comisiones Legislativas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Realizar las diligencias relativas a las cuestiones laborales del personal adscrito a las unidades administrativas de la Legislatura, las resoluciones y procesos de rescisión del contrato individual de trabajo, derivados de las mismas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En el orden prevenido por el presente artículo, en ausencia temporal del Titular de la Secretaría de Servicios Jurídicos, los titulares de las Direcciones podrán comparecer en representación del mismo ante las distintas autoridades jurisdiccionales.
 
 La Secretaria de Servicios Jurídicos contara con las siguientes direcciones:
 
@@ -2129,21 +2293,69 @@ I.- Dirección de Atención de Asuntos Constitucionales y de Amparo; y,
 
 II.- Dirección de Atención a Asuntos Contenciosos.
 
-### CAPÍTULO VI. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 162 Bis.
+
+El titular de la Secretaría de Servicios Jurídicos, los directores y asesores adscritos a dicha Secretaría, estarán impedidos para el ejercicio de la abogacía, en asuntos en los que se involucren o puedan involucrarse intereses del Poder Legislativo, durante el desempeño de su encargo, salvo en causa propia.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VI. DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
 
 ###### Artículo 163.
 
-Para ser Secretario General del Congreso, se requiere:
+Para ser Secretaria o Secretario General, se requiere:
 
-I. Ser ciudadano duranguense en Pleno goce de sus derechos civiles y políticos;
+I. Ser ciudadana o ciudadano duranguense en Pleno goce de sus derechos civiles y políticos;
 
 II. Ser mayor de veinticinco años y tener una residencia efectiva en el Estado de cuando menos dos años inmediatamente anteriores a la fecha del nombramiento;
 
-III. Ser de reconocida honradez y no haber sido sentenciado ejecutoriadamente por delito intencional, que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial; y,
+III. Ser de reconocida honradez y no haber recibido sentencia condenatoria ejecutoriada por delito intencional, que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial; y,
 
-IV. Poseer título de licenciatura afín a la naturaleza del cargo para el que es designado, con una antigüedad en el ejercicio profesional no menor de tres años;
+IV. Poseer título de licenciatura afín a la naturaleza del cargo para el que es designado, con una antigüedad en el ejercicio profesional no menor de tres años.
 
-Para ser Secretario de Servicios de Administración y Finanzas, deberán cumplirse los anteriores requisitos; en el caso de Secretario de Servicios Parlamentarios, además, deberá acreditar fehacientemente experiencia en la función parlamentaria, con antigüedad mínima de tres años a la fecha de ser designado. Para ser Secretario de Servicios Jurídicos además de los requisitos señalados en el presente artículo, deberá contar al menos con grado de licenciado en derecho, acreditar experiencia en el desempeño profesional al menos de cinco años y estará impedido para el ejercicio de la abogacía, salvo en causa propia, durante el desempeño de su encargo.
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 163 Bis.
+
+Para ser Secretaría o Secretario (sic) Administración y Finanzas, se requiere:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Ser mayor de veinticinco años y tener una residencia efectiva en el Estado de cuando menos dos años inmediatamente anteriores a la fecha del nombramiento;
+
+III. Ser de reconocida honradez y no haber recibido sentencia condenatoria ejecutoriada por delito intencional, que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial; y
+
+IV. Poseer título de licenciatura en disciplinas administrativas-contables y/o equivalentes.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 163 Ter.
+
+Para ser Secretaría o Secretario de Servicios Legislativos, se requiere:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Ser mayor de veinticinco años y tener una residencia efectiva en el Estado de cuando menos dos años inmediatamente anteriores a la fecha del nombramiento;
+
+III. Ser de reconocida honradez y no haber recibido sentencia ejecutoriada por delito intencional, que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial, y
+
+IV. Poseer título de licenciatura y acreditar fehacientemente experiencia en la función legislativa.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 163 Quater.
+
+Para ser Secretaría o Secretario de Servicios Jurídicos, se requiere:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Ser mayor de veinticinco años y tener una residencia efectiva en el Estado de cuando menos dos años inmediatamente anteriores a la fecha del nombramiento;
+
+III. Ser de reconocida honradez y no haber recibido sentencia ejecutada por delito intencional, que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial; y,
+
+IV. Poseer título de licenciatura en derecho, cédula profesional y acreditar experiencia en el desempeño profesional al menos de cinco años y estará impedido para el ejercicio de la abogacía, salvo en causa propia, durante el desempeño de su encargo
 
 ###### Artículo 164.
 
@@ -2151,25 +2363,137 @@ Los manuales de procedimientos que al efecto se elaboren, prevendrán la mejora 
 
 ###### Artículo 165.
 
-El Secretario General estará bajo la dirección inmediata del Presidente del Congreso para efectos documentales y de proceso legislativo; para las demás funciones, estará sujeto a la autoridad del Presidente de la Junta de Gobierno y Coordinación Política.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2021)
 
-### CAPITULO VI (SIC). DE LA GACETA PARLAMENTARIA
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO II], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII. DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 166.
 
 El Congreso del Estado, para el ejercicio de la facultad que le confiere el artículo 85 de la Constitución Política del Estado Libre y Soberano de Durango, tiene como órgano técnico-contable, a la Entidad de Auditoria Superior del Estado, la cual funcionará con las facultades y atribuciones que le señale la ley de la materia.
 
-### CAPÍTULO VII. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VIII. DEL COMITÉ DE COORDINACIÓN DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS DEL CONGRESO
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 167.
+
+El Congreso contará con un Centro de Investigaciones y Estudios Legislativos, como órgano técnico de investigación y análisis, de apoyo a las Comisiones Legislativas, así como a las y los integrantes de la Legislatura, cuyas funciones principales serán:
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Proporcionar asesoría y consultoría a las Comisiones Legislativas, para apoyar sus dictámenes, acuerdos y decisiones del Congreso, así como de las representaciones parlamentarias, los Diputados, la Secretaría de Servicios Legislativos y otros órganos legislativos;
+
+II. Apoyar a los Diputados en la elaboración de iniciativas, proposiciones de puntos de acuerdo y pronunciamientos y por solicitud de los mismos elaborar informes y opiniones sobre el trabajo legislativo;
+
+III. Apoyar en la interpretación de la Ley, reglamentos, prácticas y usos parlamentarios;
+
+IV. Auxiliar en la formulación de reglamentos y manuales de organización de la Legislatura;
+
+V. Diseñar y operar programas de profesionalización y actualización en áreas del conocimiento vinculadas al quehacer legislativo;
+
+VI. Proponer la celebración de convenios con otros institutos, centros o asociaciones de estudios e investigaciones legislativas, así como con organismos de los sectores público, social, académico y privado, con la finalidad de fortalecer el funcionamiento del Centro;
+
+VII. Ser el conducto de la Legislatura con otros institutos, centros o asociaciones de profesionales análogos, así como asistir a las reuniones y congresos a que fueren invitados;
+
+VIII. Proponer la celebración de foros, congresos y demás eventos que coadyuven al fortalecimiento del sistema legislativo;
+
+IX. Realizar análisis y evaluaciones sobre el marco jurídico que regula la organización y funcionamiento del Poder Legislativo del Estado y evaluar la aplicación de las normas que la Legislatura emita;
+
+X. Realizar estudios e investigaciones en materia legislativa, así como análisis comparativos de la legislación vigente de otras entidades federativas, de la federación y del ámbito internacional;
+
+XI. Monitorear las leyes y reformas aprobadas por el Congreso de la Unión y las Legislaturas locales, de los reglamentos expedidos por los (sic) Ejecutivo Federal o Estatales;
+
+XII. Diseñar y operar programas de investigación y difusión de los temas relacionados con el estudio, historia, funciones, actividad y prácticas parlamentarias;
+
+XIII. Diseñar manuales de procedimientos y prácticas legislativas, así como proponer las reformas a los mismos;
+
+XIV. Actualizar, sistematizar y difundir los acervos jurídico y legislativo de la Legislatura;
+
+XV. Elaborar el proyecto de programa anual de las actividades del Centro;
+
+XVI. Fungir como instancia de solventación de los procedimientos reglamentarios de mejora regulatoria; y,
+
+XVII. Las demás que se le encomienden a través del Comité respectivo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+
+###### Artículo 167 Bis.
+
+El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos estará integrado por:
+
+a) Los integrantes titulares de las (sic) Mesa Directiva
+
+b) Los integrantes de la Junta de Gobierno y Coordinación Política
+
+c) Tres especialistas en derecho legislativo.
+
+Todos los integrantes del Comité de Coordinación del Centro de Investigación y Estudios Legislativos tendrán derecho a voz y voto. En caso de empate el presidente de la Mesa directiva tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 167 Ter.
+
+El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos tendrá las siguientes funciones:
+
+a). Aprobar el programa anual de las actividades del Centro (sic) Investigaciones y Estudios Legislativos, y revisar el informe de cumplimiento del mismo al concluir el año respectivo.
+
+b). Instruir al Centro a realizar las investigaciones legislativas, proyectos y diagnósticos, que considere convenientes para la armonización legislativa con las leyes nacionales e internacionales conducentes.
+
+c). Propiciar mecanismos de capacitación y formación continua del personal del Centro.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 167 Quater.
+
+El Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos se deberá de reunir cuando menos cuatro veces al año.
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO IV], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO X. DEL COMITÉ DE TRANSPARENCIA
+
+### CAPÍTULO XI. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
+
+###### Artículo 168.
+
+La Dirección de Comunicación Social tendrá a su cargo la difusión de las actividades de la Legislatura, así como establecer los mecanismos adecuados para optimizar de manera constante, razonable y organizada, la información que se genere en el Congreso del Estado a nivel institucional como órgano de interés público.
+
+La Dirección operará un sistema de televisión, a través de un canal vía Internet, para la difusión institucional de las actividades que realicen el Congreso y sus órganos de gobierno. El acuerdo parlamentario respectivo, fijará las bases para la organización y funcionamiento de dicho sistema y las actividades que sean difundidas.
+
+La información que sea transmitida en forma pública a través del Sistema de Televisión vía Internet, no tendrá carácter vinculante ni constituirá prueba alguna.
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO V], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO VI (SIC). DE LA GACETA PARLAMENTARIA
+
+###### Artículo 169.
+
+El Comité de Transparencia se integrará por el Titular de la Unidad de Enlace para el Acceso a la Información Pública, el Secretario de Servicios Administrativos y Financieros y el Secretario de Servicios Jurídicos y sus funciones, atribuciones y obligaciones serán regidos conforme a la Ley General de la materia, la Ley de Acceso a la Información Pública del Estado y los reglamentos que corresponda (sic).
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VI], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO XII. DE LA CONTRALORÍA INTERNA
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
 
 Artículo 172 bis.- El Órgano Interno de Control del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la legislación en materia de responsabilidades administrativas confiere a los órganos internos de control, así como las que establecen la legislación en materia de obras públicas y de adquisiciones, arrendamientos y servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Artículo 172 ter.- El Órgano Interno de Control dependerá de la Comisión de Administración y Contraloría Interna y tendrá una relación de coordinación con la Secretaría General, sus unidades y áreas administrativas, así como con la Auditoría Superior del Estado.
+
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
 
-Artículo 172 ter.- El Órgano Interno de Control dependerá de la Comisión de Administración Interna y tendrá una relación de coordinación con la Secretaría General del Congreso, sus unidades y áreas administrativas, así como con la Auditoría Superior del Estado.
-
 El titular del órgano de control interno durará siete años en el cargo, pudiendo ser ratificado para un subsiguiente periodo.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
 
 Los servidores públicos adscritos al Órgano Interno de Control del Congreso y, en su caso, los profesionales contratados para la práctica de auditorías deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
@@ -2211,66 +2535,6 @@ V. Investigar y calificar actos u omisiones que pudieran constituir responsabili
 
 VI. Las demás que señale la legislación aplicable y el Reglamento Interno del Órgano interno de Control.
 
-###### Artículo 167.
-
-El Congreso contará con un Centro de Investigaciones y Estudios Legislativos, como órgano técnico de investigación y análisis, cuyas funciones principales serán:
-
-I. Proporcionar asesoría y consultoría a las Comisiones Legislativas, para apoyar sus dictámenes, acuerdos y decisiones del Congreso, así como de las representaciones parlamentarias, los Diputados, la Secretaría General y otros órganos legislativos;
-
-II. Apoyar a los Diputados en la elaboración de iniciativas, proposiciones de puntos de acuerdo y pronunciamientos y por solicitud de los mismos elaborar informes y opiniones sobre el trabajo legislativo;
-
-III. Apoyar en la interpretación de la Ley, reglamentos, prácticas y usos parlamentarios;
-
-IV. Auxiliar en la formulación de reglamentos y manuales de organización de la Legislatura;
-
-V. Diseñar y operar programas de profesionalización y actualización en áreas del conocimiento vinculadas al quehacer legislativo;
-
-VI. Proponer la celebración de convenios con otros institutos, centros o asociaciones de estudios e investigaciones legislativas, así como con organismos de los sectores público, social, académico y privado, con la finalidad de fortalecer el funcionamiento del Centro;
-
-VII. Ser el conducto de la Legislatura con otros institutos, centros o asociaciones de profesionales análogos, así como asistir a las reuniones y congresos a que fueren invitados;
-
-VIII. Proponer la celebración de foros, congresos y demás eventos que coadyuven al fortalecimiento del sistema legislativo;
-
-IX. Realizar análisis y evaluaciones sobre el marco jurídico que regula la organización y funcionamiento del Poder Legislativo del Estado y evaluar la aplicación de las normas que la Legislatura emita;
-
-X. Realizar estudios e investigaciones en materia legislativa, así como análisis comparativos de la legislación vigente de otras entidades federativas, de la federación y del ámbito internacional;
-
-XI. Monitorear las leyes y reformas aprobadas por el Congreso de la Unión y las Legislaturas locales, de los reglamentos expedidos por los (sic) Ejecutivo Federal o Estatales;
-
-XII. Diseñar y operar programas de investigación y difusión de los temas relacionados con el estudio, historia, funciones, actividad y prácticas parlamentarias;
-
-XIII. Diseñar manuales de procedimientos y prácticas legislativas, así como proponer las reformas a los mismos;
-
-XIV. Actualizar, sistematizar y difundir los acervos jurídico y legislativo de la Legislatura;
-
-XV. Elaborar el proyecto de programa anual de las actividades del Centro;
-
-XVI. Fungir como instancia de solventación de los procedimientos reglamentarios de mejora regulatoria; y,
-
-XVII. Las demás que se le encomienden a través del Comité respectivo.
-
-### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
-
-### CAPITULO II. DE LAS INICIATIVAS
-
-### CAPÍTULO III. DE LA DICTAMINACIÓN
-
-###### Artículo 168.
-
-La Dirección de Comunicación Social tendrá a su cargo la difusión de las actividades de la Legislatura, así como establecer los mecanismos adecuados para optimizar de manera constante, razonable y organizada, la información que se genere en el Congreso del Estado a nivel institucional como órgano de interés público.
-
-La Dirección operará un sistema de televisión, a través de un canal vía Internet, para la difusión institucional de las actividades que realicen el Congreso y sus órganos de gobierno. El acuerdo parlamentario respectivo, fijará las bases para la organización y funcionamiento de dicho sistema y las actividades que sean difundidas.
-
-La información que sea transmitida en forma pública a través del Sistema de Televisión vía Internet, no tendrá carácter vinculante ni constituirá prueba alguna.
-
-### CAPÍTULO IV. DE LA DISCUSIÓN
-
-###### Artículo 169.
-
-El Comité de Transparencia se integrará por el Titular de la Unidad de Enlace para el Acceso a la Información Pública, el Secretario de Servicios Administrativos y Financieros y el Secretario de Servicios Jurídicos y sus funciones, atribuciones y obligaciones serán regidos conforme a la Ley General de la materia, la Ley de Acceso a la Información Pública del Estado y los reglamentos que corresponda (sic).
-
-### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
-
 ###### Artículo 170.
 
 La Unidad de Enlace de Acceso a la Información Pública tendrá las atribuciones que le señalan (sic) Ley General de la materia, la Ley de Acceso a la Información Pública del Estado y el Reglamento para el Acceso a la Información Pública del Congreso del Estado.
@@ -2281,23 +2545,59 @@ La Unidad de Enlace de Acceso a la Información Pública dispondrá de los recur
 
 Para el adecuado desempeño de sus funciones, la Unidad de Enlace de Acceso a la Información Pública contará con el personal necesario de acuerdo a las posibilidades presupuestales del Congreso.
 
-### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 171 Bis.
+
+Tendrá a su cargo coordinar la debida actualización de la información pública, sin menoscabo de la que conforme a la ley deba ser difundida de oficio, apoyándose para el cumplimiento de sus atribuciones en la Secretaria General de Administración y de Servicios Legislativos, así como en la utilización de un portal oficial de internet, que contendrá como mínimo lo siguiente:
+
+a) Integración de la Legislatura, Junta de Gobierno y Coordinación Política, formas de representación parlamentaria y Mesa Directiva;
+
+b) Historial de la conformación de las Legislaturas anteriores;
+
+c) Estructura Orgánica del Congreso;
+
+d) Directorio de los servidores públicos;
+
+e) Agenda Legislativa;
+
+f) Calendario de Sesiones del Pleno, de la Comisión Permanente y de reuniones de Comisión;
+
+g) Videoteca de las sesiones;
+
+h) Códigos, leyes, decretos, acuerdos y reglamentos;
+
+i) Iniciativas y Dictámenes;
+
+j) Registro de las votaciones por asunto;
+
+k) Estadísticas de participación por diputado, por coalición parlamentaria, por fracción parlamentaria y por grupo parlamentario;
+
+l) Eventos y convocatorias;
+
+m) Calendarización de los foros y consultas públicas, así como los medios para la recepción de propuestas;
+
+n) Comunicados de prensa;
+
+o) Vínculo a las redes sociales, que permitan la comunicación interactiva con los ciudadanos;
+
+p) Buzón electrónico de quejas y sugerencia (sic), y
+
+q) Los demás elementos que resulten necesarios a la difusión de la información oficial del Congreso.
+
+### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
 
 ###### Artículo 172.
 
-La Gaceta Parlamentaria, es el órgano informativo oficial del Congreso del Estado; estará a cargo de la Secretaría General y tiene por objeto dar difusión pública a las labores parlamentarias.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2021)
 
-Las condiciones de edición, publicación y periodicidad serán acordadas por el Pleno, previa propuesta que haga la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VII], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El contenido de la gaceta tendrá solo efectos informativos, sin que se considere lo publicado con validez legal y efecto jurídico vinculatorio.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
-
-### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
+### CAPITULO II. DE LAS INICIATIVAS
 
 ## TÍTULO CUARTO. DEL PROCESO LEGISLATIVO
 
-### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
+### CAPÍTULO III. DE LA DICTAMINACIÓN
 
 ###### Artículo 173.
 
@@ -2337,7 +2637,7 @@ Cuando se considere que un asunto sea considerado de urgente y obvia resolución
 
 La discusión y votación de los dictámenes relativos a la Constitución Política de los Estados Unidos Mexicanos se desarrollaran conforme a lo establecido en esta Ley.
 
-### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
+### CAPÍTULO IV. DE LA DISCUSIÓN
 
 ###### Artículo 177.
 
@@ -2375,11 +2675,15 @@ III. Un proyecto de resolución.
 
 A las iniciativas deberá acompañarse la documentación correspondiente, según sea el caso, pero deberán ser acompañadas de una versión electrónica de las mismas y señalar el tema que contienen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 179.
 
-Las iniciativas serán dirigidas a los Secretarios de la Mesa Directiva; deberán ser suscritas por el o los iniciadores y presentadas por escrito con respaldo electrónico compatible con el Sistema de Información Parlamentaria, ante la Secretaría de Servicios Parlamentarios del Congreso del Estado.
+Las iniciativas serán dirigidas a los Secretarios de la Mesa Directiva; deberán ser suscritas por el o los iniciadores y presentadas por escrito con respaldo electrónico compatible con el Sistema de Información Parlamentaria, ante la Secretaría de Servicios Legislativos del Congreso del Estado.
 
-El Secretario General del Congreso, informará al Presidente y a los Secretarios de la Mesa Directiva, sobre las iniciativas recibidas, para efectos de enlistarlas en el orden del día de la sesión que corresponda.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El Secretario de Servicios Legislativos, informará al Presidente y a los Secretarios de la Mesa Directiva, sobre las iniciativas recibidas, para efectos de enlistarlas en el orden del día de la sesión que corresponda.
 
 Las iniciativas y proposiciones de acuerdo, así como los asuntos generales, serán registrados ante la Secretaría de Servicios Parlamentarios, al menos el día anterior al que pretendan tratarse, cerrando el plazo a las veinte horas, a efecto de que los miembros de la Legislatura, tengan conocimiento oportuno de la orden del día. Las proposiciones de acuerdo, deberán a su registro, señalar el tema a tratar.
 
@@ -2403,9 +2707,9 @@ Las iniciativas presentadas por los ciudadanos, se sujetarán a lo que disponga 
 
 Toda iniciativa cuyo dictamen haya sido considerado desechado por el Pleno, no podrá ser presentado nuevamente en el mismo período ordinario de sesiones.
 
-### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
+### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN PRIMERA. DE LOS DICTÁMENES
 
 ###### Artículo 183.
 
@@ -2435,9 +2739,7 @@ La aprobación y ejecución de nuevas obligaciones financieras derivadas de la l
 
 Los dictámenes derivados del ejercicio de atribuciones distintas a la creación, reforma, adición, derogación o abrogación de leyes o decretos, se presentarán al Pleno, según los plazos y procedimientos especiales establecidos para tal efecto.
 
-#### SECCIÓN SEGUNDA. DE LAS REGLAS GENERALES PARA EL DEBATE
-
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL CONTENIDO DEL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NO. 002 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2021 QUE A LA LETRA DICE: "SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura. En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados." BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.]</small>
+#### SECCIÓN SEGUNDA. DEL ESTUDIO, DISCUSIÓN Y VOTACIÓN DE DICTÁMENES
 
 ###### Artículo 186.
 
@@ -2463,19 +2765,19 @@ Aprobado en lo general y en lo particular, se procederá a la firma del dictamen
 
 Si el dictamen fuera en sentido negativo, se formulará el dictamen que contenga el acuerdo respectivo, que será hecho del conocimiento de la Mesa Directiva, para que (sic) los efectos de que se remitan al archivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 189.
 
-Aprobado el dictamen y recabadas las firmas de la mayoría de los Diputados, el Presidente de la Comisión dictaminadora instruirá al Secretario General, para que lo remita a la Mesa Directiva para su trámite correspondiente.
+Aprobado el dictamen y recabadas las firmas de la mayoría de los Diputados, el Presidente de la Comisión dictaminadora instruirá a la Secretaría de Servicios Legislativos, para que lo remita a la Mesa Directiva para su trámite correspondiente.
 
 Recibido el dictamen, la Mesa Directiva procederá a declarar la publicidad del dictamen, para los efectos de su discusión en el Pleno.
 
 Si en el dictamen se efectúan modificaciones a la iniciativa, asunto o petición turnados para su estudio, la Comisión hará una exposición de los argumentos en que apoyó su decisión.
 
-### CAPITULO CUARTO
+### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
 
-RATITIFICACION (SIC) Y DESIGNACION DE SERVIDORES PÚBLICOS.
-
-#### SECCIÓN TERCERA. DEL USO DE LA PALABRA
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 190.
 
@@ -2501,7 +2803,9 @@ Los dictámenes de acuerdo serán leídos y discutidos en la sesión en que se p
 
 Todo dictamen legislativo al que le haya recaído declaración de publicidad deberá ser puesto a disposición de los Diputados mediante el sistema de información parlamentaria.
 
-#### SECCIÓN CUARTA. DE LAS INTERVENCIONES
+#### SECCIÓN SEGUNDA. DE LAS REGLAS GENERALES PARA EL DEBATE
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL CONTENIDO DEL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NO. 002 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2021 QUE A LA LETRA DICE: "SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decreto número 619 aprobado por la LXVIII Legislatura. En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados." BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.]</small>
 
 ###### Artículo 193.
 
@@ -2553,7 +2857,7 @@ V. Declaratoria del cierre del debate en lo particular.
 
 En la etapa de discusión en lo general y en lo particular, los Diputados podrán formular preguntas al orador, quien decidirá si las acepta; en ese caso, responderá sobre el tema contenido en el cuestionamiento.
 
-#### SECCIÓN QUINTA. DE LOS ACTOS PREVIOS AL DEBATE
+#### SECCIÓN TERCERA. DEL USO DE LA PALABRA
 
 ###### Artículo 197.
 
@@ -2615,7 +2919,7 @@ Si el Presidente de la Mesa Directiva desea hacer uso de la palabra en un debate
 
 Los Secretarios de la Mesa Directiva podrán participar en el debate en forma alternada. En todo caso, habrá un Secretario en el estrado.
 
-#### SECCIÓN SEXTA. DEL DESARROLLO DEL DEBATE
+#### SECCIÓN CUARTA. DE LAS INTERVENCIONES
 
 ###### Artículo 204.
 
@@ -2641,7 +2945,7 @@ III. En el caso de intervenciones en el punto de la orden del día de las propos
 
 IV. Las preguntas que formulen los Diputados al orador y este las acepte, no excederán de dos minutos.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LOS ACTOS PREVIOS AL DEBATE
 
 ###### Artículo 206.
 
@@ -2659,7 +2963,7 @@ En la sesión en que sea programado el debate del dictamen regresado a comisione
 
 De no haber solicitud de regreso a comisiones del dictamen el Presidente de la Mesa Directiva declarará abierto el debate y procederá a formular el registro de oradores respectivo.
 
-#### SECCIÓN SEGUNDA. DE LAS REGLAS Y PROCEDIMIENTO PARA LA SANCIÓN, PROMULGACIÓN Y PUBLICACIÓN
+#### SECCIÓN SEXTA. DEL DESARROLLO DEL DEBATE
 
 ###### Artículo 208.
 
@@ -2710,6 +3014,8 @@ No podrá presentarse más de una moción suspensiva en la discusión de un dict
 Cuando el Presidente lo considere conveniente, preguntará al Pleno, quien por votación mayoritaria determinará, si el asunto está o no suficientemente discutido. En el primer caso, se procederá inmediatamente a la votación; en el segundo, continuará la discusión, pero bastará que hable uno a favor y otro en contra, para que se pueda repetir la pregunta.
 
 Declarado suficientemente debatido o agotado el registro de oradores, se hará la declaratoria de clausura, y enseguida se someterá a votación en lo general, o en lo particular, según corresponda.
+
+### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
 
 ###### Artículo 214.
 
@@ -2823,7 +3129,9 @@ Los empates en las votaciones se decidirán repitiéndolas, una sola vez, y si �
 
 La fórmula de expedición de decretos o acuerdos que contengan resoluciones relativas al ejercicio de atribuciones distintas a la creación de nuevas leyes, reformas, adiciones, derogaciones de leyes o decretos vigentes, se adecuará a la naturaleza de las mismas resoluciones.
 
-#### SECCION PRIMERA. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
+### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 229.
 
@@ -2859,9 +3167,7 @@ V. Suspensión o revocación de mandato de miembros de los ayuntamientos; y,
 
 VI. Sanciones derivadas de procedimientos de responsabilidad administrativa.
 
-#### SECCION SEGUNDA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
-
-DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
+#### SECCIÓN SEGUNDA. DE LAS REGLAS Y PROCEDIMIENTO PARA LA SANCIÓN, PROMULGACIÓN Y PUBLICACIÓN
 
 ###### Artículo 234.
 
@@ -2905,6 +3211,8 @@ La entrada en vigor de las leyes y decretos, iniciará al día siguiente al de s
 
 ## TITULO QUINTO. DE LOS PROCEDIMENTOS (SIC) DE RESPONSABILIDAD
 
+### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
+
 ###### Artículo 240.
 
 El Congreso del Estado, deberá erigirse en Jurado de Acusación, de Procedencia o en su caso, como Superior Jerárquico, para resolver los procedimientos de presunta responsabilidad política, penal o administrativa, en los términos que señale la ley de la materia.
@@ -2923,7 +3231,7 @@ Dentro de su competencia constitucional, en el caso de incumplimiento u omisión
 
 Los Servidores Públicos señalados en el artículo anterior, serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-#### SECCIÓN TERCERA. DE LA SUSPENSIÓN TEMPORAL O REVOCACIÓN DE LOS MIEMBROS DE AYUNTAMIENTOS
+#### SECCION PRIMERA. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
 
 ###### Artículo 244.
 
@@ -2953,6 +3261,10 @@ Si las sanciones fueren de sanción económica, inhabilitación, destitución o 
 
 Si las sanciones fueren económicas, una vez publicada la resolución en el Periódico Oficial del Gobierno del Estado, la Mesa Directiva instará a la Entidad de Auditoria Superior del Estado a hacer efectivas las sanciones, las que tendrán en todo caso carácter de crédito fiscal, pudiendo solicitar ésta, la intervención de las autoridades extractoras estatales para cumplir tal fin.
 
+#### SECCION SEGUNDA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
+
+DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
+
 ###### Artículo 250.
 
 El Congreso del Estado, conforme lo establece el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 82 fracción IV inciso c) de la Constitución Política del Estado, por acuerdo de las dos terceras partes del total de sus integrantes, podrá declarar la desaparición de Ayuntamientos; suspender temporal o definitivamente o revocar el mandato de uno o más de sus integrantes. Estas medidas se podrán aplicar así mismo a los consejos municipales, en su caso.
@@ -2975,7 +3287,9 @@ Los procedimientos para la suspensión definitiva y consecuente desaparición de
 
 El proceso para la suspensión definitiva y consecuente declaración de desaparición de Ayuntamientos, tendrá los siguientes trámites:
 
-I. La solicitud para que la Legislatura conozca de la o las causas graves a que se refiere el artículo 82 fracción IV inciso c) de la Constitución Política del Estado Libre y Soberano de Durango, podrá ser presentada ante la Secretaría General de Servicios Parlamentarios, del Congreso por cualquier ciudadano o grupo de ciudadanos representativos, bajo su más estricta responsabilidad, debiendo acompañar las pruebas conducentes. Esta solicitud, deberá ser ratificada, en la misma Oficialía, en un término de tres días naturales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. La solicitud para que la Legislatura conozca de la o las causas graves a que se refiere el artículo 82 fracción IV inciso c) de la Constitución Política del Estado Libre y Soberano de Durango, podrá ser presentada ante la Secretaría de Servicios Legislativos, por cualquier ciudadano o grupo de ciudadanos representativos, bajo su más estricta responsabilidad, debiendo acompañar las pruebas conducentes. Esta solicitud, deberá ser ratificada, en la misma Secretaría, en un término de tres días naturales;
 
 II. La Mesa Directiva de la Legislatura, turnará la solicitud a la Comisión de Responsabilidades para que analice y dictamine sobre la procedencia de la misma. A su vez, emplazará al Ayuntamiento para que exponga, en un término no mayor de setenta y dos horas naturales, lo que a sus intereses convenga. Una vez que el Ayuntamiento haya recibido la notificación de referencia, tendrá derecho a nombrar defensor, y si no lo hiciere dentro del término de tres días, la Comisión del Congreso lo nombrará de oficio;
 
@@ -2988,6 +3302,8 @@ V. Producidos y recibidos los alegatos, la Comisión procederá a formular sus c
 ###### Artículo 254.
 
 En la declaración de desaparición de un ayuntamiento, si no procediera la celebración de nuevas elecciones, el Congreso deberá designar a un consejo municipal, que funcionará hasta concluir el período respectivo.
+
+#### SECCIÓN TERCERA. DE LA SUSPENSIÓN TEMPORAL O REVOCACIÓN DE LOS MIEMBROS DE AYUNTAMIENTOS
 
 ###### Artículo 255.
 
@@ -3002,6 +3318,8 @@ Decretada la suspensión temporal o revocación del mandato de uno o más de los
 En relación con lo dispuesto en el artículo 82, fracción IV inciso c) de la Constitución Política Local, en caso de que la resolución sea absolutoria, concluirá la suspensión temporal y el miembro o miembros suspendidos reasumirán sus cargos con derecho a los emolumentos que hubieren dejado de percibir.
 
 ## TITULO SEXTO. PROCEDIMIENTOS LEGISLATIVOS ESPECIALES
+
+### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
 
 ###### Artículo 258.
 
@@ -3042,6 +3360,10 @@ La Comisión designada para el análisis del informe y evaluar el cumplimiento d
 ###### Artículo 267.
 
 El Centro de Investigaciones y Estudios Legislativos, será el órgano técnico de apoyo a la realización de los trabajos de análisis y evaluación del informe antes citado.
+
+### CAPITULO CUARTO
+
+RATITIFICACION (SIC) Y DESIGNACION DE SERVIDORES PÚBLICOS.
 
 ###### Artículo 268.
 
@@ -3292,3 +3614,21 @@ SEGUNDO.- Se derogan en todo su contenido los artículos 86, 87 y 193 del Decret
 En consecuencia, y con el fin de garantizar la constitucionalidad y legalidad de los actos y procedimientos del Congreso del Estado, se solicita al Poder Ejecutivo no realice la publicación del referido Decreto 619 en lo relacionado con los artículos señalados en el párrafo anterior en virtud de haber sido derogados.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto
+
+P.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 077.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. En un plazo no mayor de 90 días naturales a partir de la entrada en vigor del presente decreto deberá instalarse el Comité de Coordinación del Centro de Investigaciones y Estudios Legislativos.
+
+CUARTO. Para regular la fracción VII del artículo 75, una vez que entre en vigor la presente reforma, la Mesa Directiva recibirá una partida presupuestal suficiente para el cumplimiento de sus funciones.
+
+QUINTO. Los ciudadanos Secretario General y Secretario de Servicios Parlamentarios en funciones, asumirán el carácter de Secretario General y Secretario de Servicios Legislativos, respectivamente, con todas (sic) los derechos, obligaciones y competencias que a dicho cargo concede la presente Ley.
+
+SEXTO. Para los efectos de integrar el Libro de Prácticas Parlamentarias, la Comisión de Régimen, Reglamento y Prácticas Parlamentarias, mandará recabar los acuerdos parlamentarios aprobados por el Pleno, a efecto de su registro legal, quedando el mismo bajo la custodia de la Secretaría de Servicios Legislativos.
+
+SÉPTIMO. Las y los integrantes de la Mesa Directiva electos el 31 de agosto de 2021 durarán en su encargo hasta el 31 de agosto de 2022.
