@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2021-07-31"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1675,15 +1675,23 @@ En el supuesto establecido en la fracción VI, si el activo es un docente, admin
 
 Hostigamiento sexual. Comete el delito de hostigamiento sexual el que, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o de cualquiera otra que implique subordinación, solicite favores de naturaleza sexual para sí o para un tercero. Al responsable se le impondrá una sanción de seis meses a dos años de prisión y multa de cincuenta a trescientos días.
 
-Si la persona ofendida es menor de edad, la pena de prisión será de uno a tres años y multa de cien a cuatrocientos días.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Si la persona ofendida es menor de edad, la pena de prisión será de dos a cuatro años y multa de dos cientos a quinientos días.
 
 Si la persona hostigadora fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su encargo.
 
 Sólo se procederá contra la persona hostigadora a petición de parte ofendida. Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a abandonar su trabajo por ésta causa, la reparación del daño consistirá en el pago de la indemnización por despido injustificado teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo, además del pago del daño moral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 183.
 
-Acoso sexual. Comete el delito de acoso sexual quien se exprese verbal o físicamente de manera degradante en relación a la sexualidad de otra persona, sin que exista subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar, dicha conducta será sancionada con una pena de seis meses a un año de prisión.
+Acoso sexual. Comete el delito de acoso sexual quien se exprese verbal o físicamente de manera degradante en relación a la sexualidad de otra persona, sin que exista subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar, dicha conducta será sancionada con una pena de un año a dos años de prisión y multa de cien a cuatrocientos días.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Cuando el sujeto activo tenga la calidad de servidor público y haya cometido la conducta valiéndose de esta condición o haya intervenido en cualquier etapa del hecho delictivo, además de la pena establecida en el párrafo anterior, se le impondrá destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -4085,8 +4093,6 @@ II. Por medio de violencia en las personas o fuerza en las cosas perturben el or
 
 ### CAPÍTULO II. VIOLENCIA POLÍTICA DE GÉNERO
 
-> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
-
 ###### Artículo 384.
 
 Sedición. Se impondrán de uno a cinco años de prisión, a quienes de forma tumultuaria y sin uso de armas, resistan o ataquen a la autoridad para impedir el libre ejercicio de sus funciones con alguna de las siguientes finalidades:
@@ -4205,23 +4211,7 @@ En caso que no se acredite que existieron razones de género al privar de la vid
 
 ###### Artículo 390.
 
-Violencia política de género. A quien por cualquier medio realice por si o a través de terceros la acción u omisión que, en el marco del ejercicio de los derechos político-electorales, o bien, en el ejercicio de un cargo público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o mujeres, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público, se le impondrá de seis meses a dos años de prisión y de cincuenta a trescientos días multa. El delito de violencia política de género se perseguirá a petición de parte ofendida.
-
-Constituyen acciones y omisiones que configuran violencia política en razón de género, las siguientes:
-
-I. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir a ejercicio indebido de sus atribuciones o facultades;
-
-II. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
-
-III. Difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
-
-IV. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
-
-V. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables, por el único motivo de ser mujer; y
-
-VI. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género.
-
-Las sanciones a que se refieren en el primer párrafo de este artículo se aumentaran de una mitad del mínimo a una mitad del máximo cuando en la comisión de este delito intervenga un servidor público o un dirigente partidista, cuando se emplease violencia o engaño, o por el aprovechamiento de una situación de vulnerabilidad de la mujer.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -4626,3 +4616,25 @@ B.O. 31 DE JULIO DE 2021.
 PRIMERO.- El presente Decreto deberá publicarse en el Boletín Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2728 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2736 SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 182 Y SE REFORMA EL PÁRRAFO PRIMERO Y SE LE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 183 AMBOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4 DE LA LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en los artículos 182 y 183 del Código Penal para el Estado Libre y Soberano de Baja California Sur, que se reforman y adicionan respectivamente, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Artículo Tercero.- Sin perjuicio de lo establecido en el Artículo Transitorio Primero, el Instituto Sudcaliforniano de las Mujeres, deberá elaborar en coordinación y concertación con los sectores público, privado y social los Protocolos de Atención en los diversos ámbitos en los que se presenta la violencia hacia las mujeres en la entidad a más tardar el 30 de junio del año 2021.
+
+Los citados protocoles deberán difundirse ampliamente y publicados en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
