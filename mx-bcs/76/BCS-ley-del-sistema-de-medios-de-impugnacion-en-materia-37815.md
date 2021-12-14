@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-de-medios-de-impugnacion-en-materia-37815"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-27"
-last_updated: "2017-05-30"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 27 de febrero de 2004.
 
@@ -75,7 +75,9 @@ VI. Se hubiese permitido sufragar sin credencial con fotografía para votar o a 
 
 VII. Cuando se haya impedido el acceso a los representantes de los partidos políticos o hayan sido expulsados sin causa justificada, siempre que ello sea determinante para el resultado de la elección;
 
-VIII. Cuando se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VIII. Cuando se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a las ciudadanas y ciudadanos y esto sea determinante para el resultado de la votación;
 
 IX. Si la recepción de la votación se llevó a cabo por personas u organismos distintos a los facultados por la Ley Electoral vigente;
 
@@ -89,7 +91,9 @@ XII. Cuando el contenido del paquete electoral se encuentra alterado;
 
 XIII. Cuando el número total de votos emitidos sea superior al número total de electores que contenga la lista nominal correspondiente, salvo lo establecido por el artículo 278 párrafo segundo y tercero, y en el artículo 279 párrafo quinto de la Ley General de Instituciones y Procedimientos Electorales, y
 
-XIV. Cuando se cierre la casilla antes de la hora indicada, sin haber acudido a votar la totalidad de los ciudadanos de la lista nominal.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIV. Cuando se cierre la casilla antes de la hora indicada, sin haber acudido a votar la totalidad de las ciudadanas y ciudadanos de la lista nominal.
 
 ###### ARTÍCULO 4º.
 
@@ -125,7 +129,9 @@ III.- Se entenderá por violaciones graves, aquellas conductas irregulares que p
 
 IV.- Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilicito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral
 
-V.- Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V.- Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de las ciudadanas y ciudadanos y no de un ejercicio periodístico.
 
 A fin de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
 
@@ -133,9 +139,11 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 Ningún partido político o coalición podrá invocar, como causa de nulidad hechos o circunstancias que el propio partido dolosamente haya provocado.
 
-###### ARTÍCULO 6º.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-En el caso de la nulidad de la votación de una o más casillas, se descontará la votación anulada de la votación para la elección de Diputados, para Gobernador del Estado, así como para la elección de Presidente, Síndico y Regidores de los Ayuntamientos de la Entidad, para obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 4º de esta Ley.
+###### ARTÍCULO 6°.
+
+En el caso de la nulidad de la votación de una o más casillas, se descontará la votación anulada de la votación para la elección de Diputadas y Diputados, para Titular de la Gubernatura del Estado del Estado (sic), así como para la elección de Presidente, Síndico y Regidores de los Ayuntamientos de la Entidad, para obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 4° de esta Ley.
 
 ###### ARTÍCULO 7º.
 
@@ -175,11 +183,11 @@ Para el recuento de votos de una elección, el Tribunal Estatal Electoral dispon
 
 ### CAPÍTULO III. DE LOS MEDIOS DE IMPUGNACIÓN
 
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 9°.
 
-Los recursos y el Juicio de Inconformidad, son aquellos medios de impugnación con que cuentan los partidos políticos, las coaliciones, agrupaciones políticas estatales y ciudadanos, para efecto de garantizar la vigencia del principio de legalidad en los procesos electorales y tienen como finalidad revocar, modificar o confirmar en los términos de esta Ley, los actos y resoluciones impugnadas.
+Los recursos y el Juicio de Inconformidad, son aquellos medios de impugnación con que cuentan los partidos políticos, las coaliciones, agrupaciones políticas estatales y de ciudadanas y ciudadanos, para efecto de garantizar la vigencia del principio de legalidad en los procesos electorales y tienen como finalidad revocar, modificar o confirmar en los términos de esta Ley, los actos y resoluciones impugnadas.
 
 ###### ARTÍCULO 10.
 
@@ -213,15 +221,19 @@ I. Los partidos políticos o coaliciones, para impugnar los actos, resoluciones 
 
 II. Las agrupaciones políticas, cuando se les haya negado el registro como partidos políticos o asociaciones políticas estatales;
 
-III. Los ciudadanos para impugnar los actos o resoluciones del Instituto Estatal Electoral, cuando se recurra la imposición de una sanción en materia de precampañas, sin perjuicio de lo señalado en la legislación electoral federal en materia de recursos jurisdiccionales.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Las ciudadanas y ciudadanos para impugnar los actos o resoluciones del Instituto Estatal Electoral, cuando se recurra la imposición de una sanción en materia de precampañas, sin perjuicio de lo señalado en la legislación electoral federal en materia de recursos jurisdiccionales.
 
 ###### ARTÍCULO 13.
 
 Los partidos políticos y las coaliciones durante el proceso electoral podrán hacer valer el recurso de Apelación, para impugnar las resoluciones recaídas a los recursos de Revisión o contra los actos o resoluciones del Instituto Estatal Electoral que no tengan el carácter de irrevocables o bien, que no proceda otro recurso señalado en esta Ley.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 14.
 
-Durante la etapa posterior a las elecciones, el Juicio de Inconformidad procederá para impugnar las determinaciones de las autoridades electorales del Estado que violen normas del Estado, relativas a las elecciones de Gobernador del Estado, Ayuntamientos y Diputados, en los términos señalados en la presente Ley.
+Durante la etapa posterior a las elecciones, el Juicio de Inconformidad procederá para impugnar las determinaciones de las autoridades electorales del Estado que violen normas del Estado, relativas a las elecciones del Titular de la Gubernatura del Estado, Ayuntamientos y de Diputadas y Diputados, en los términos señalados en la presente Ley.
 
 ###### ARTÍCULO 15.
 
@@ -231,13 +243,19 @@ I. Los resultados consignados en las actas de cómputo distrital de la elección
 
 II. Los resultados consignados en las actas de cómputo distrital de la elección de Gobernador del Estado, por error aritmético en una o varias casillas;
 
-III. La declaración de validez de la elección de Diputados por el principio de mayoría relativa y; por lo tanto, el otorgamiento, de la constancia de mayoría respectiva, por las causales de nulidad establecidas en esta Ley;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. La declaración de validez de la elección de Diputadas y Diputados por el principio de mayoría relativa y; por lo tanto, el otorgamiento, de la constancia de mayoría respectiva, por las causales de nulidad establecidas en esta Ley;
 
 IV. La declaración de validez de la elección de Ayuntamientos, y por lo tanto el otorgamiento de la constancia de mayoría respectiva, o por la asignación de Regidores por el principio de representación proporcional por las causales de nulidad establecidas en esta Ley;
 
-V. La asignación de Diputados por el principio de representación proporcional que realice el Consejo General del Instituto Estatal Electoral, por las causales de nulidad establecidas en esta Ley;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-VI. Por error aritmético en los cómputos distritales de la elección de Gobernador del Estado, y de Diputados de mayoría relativa; en los cómputos municipales de la elección de Ayuntamientos y en el cómputo de Diputados por el principio de representación proporcional; y
+V. La asignación de Diputadas y Diputados por el principio de representación proporcional que realice el Consejo General del Instituto Estatal Electoral, por las causales de nulidad establecidas en esta Ley;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Por error aritmético en los cómputos distritales de la elección de Titular de la Gubernatura del Estado, y de Diputadas y Diputados de mayoría relativa; en los cómputos municipales de la elección de Ayuntamientos y en el cómputo de Diputadas y Diputados por el principio de representación proporcional; y
 
 VII. El cómputo general realizado por el Consejo General del Instituto Estatal Electoral en la elección de Gobernador del Estado, cuando exista error aritmético o por las causales de nulidad establecidas en la presente Ley, y en consecuencia contra la expedición de la constancia de mayoría correspondiente.
 
@@ -281,7 +299,9 @@ II. El Tribunal Estatal Electoral, del recurso de Apelación y del Juicio de Inc
 
 La interposición de los recursos que correspondan a los partidos políticos o coaliciones deberá tramitarse a través de sus representantes legítimos. Las organizaciones que pretendan constituirse en un Partido Político Local o las agrupaciones políticas podrán interponer el recurso de Apelación a través de sus representantes legítimos sólo en los casos señalados en el segundo párrafo del artículo 19 de la Ley General de Partidos Políticos y en el apartado A del artículo 178 de la Ley Electoral.
 
-Los ciudadanos podrán interponer el recurso de Apelación en el caso previsto en el artículo 12 fracción III de esta Ley.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las ciudadanas y ciudadanos podrán interponer el recurso de Apelación en el caso previsto en el artículo 12 fracción III de esta Ley.
 
 La personería de los representantes de los partidos políticos o coaliciones se tendrá por acreditada cuando estén registrados formalmente en los términos de la Ley Electoral, para lo cual deberá acompañar copia autorizada o certificada del documento en que conste el registro.
 
@@ -575,65 +595,105 @@ Si se ha cumplido con todos los requisitos, el Secretario General procederá a f
 
 Si el órgano del Instituto Estatal Electoral responsable omitió algún requisito, el Secretario General lo hará de inmediato del conocimiento del Consejero Presidente para que éste, requiera la complementación del o de los requisitos omitidos, procurando que se resuelva en el término de ocho días.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 47.
 
-El recurso de Apelación y el Juicio de Inconformidad, una vez recibidos los expedientes por el Tribunal Estatal Electoral, serán turnados de inmediato a un Magistrado, quien tendrá la obligación de revisar que los mismos reúnan todos los requisitos señalados en la presente Ley.
+El recurso de Apelación y el Juicio de Inconformidad, una vez recibidos los expedientes por el Tribunal Estatal Electoral, serán turnados de inmediato a una Magistrada o Magistrado, quien tendrá la obligación de revisar que los mismos reúnan todos los requisitos señalados en la presente Ley.
 
 En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del medio de impugnación, se reservará la admisión del mismo hasta la presentación de las señaladas o el vencimiento del plazo.
 
-Si de la revisión que realice el Magistrado que lo recibe, encuentra que los recursos encuadran en algunas de las causales de improcedencia a que se refiere el artículo 36 de esta Ley, o es evidentemente frívolo, someterá el acuerdo desde luego a la consideración del Pleno del Tribunal para su desechamiento de plano.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Si el recurso de Apelación y el Juicio de Inconformidad reúnen todos los requisitos, el Magistrado que los reciba dictará dentro de los ocho y tres días siguientes respectivamente después de su recepción, el acuerdo de admisión correspondiente, ordenando se fije copia del mismo en los estrados del Tribunal.
+Si de la revisión que realice la Magistrada o Magistrado que lo recibe, encuentra que los recursos encuadran en algunas de las causales de improcedencia a que se refiere el artículo 36 de esta Ley, o es evidentemente frívolo, someterá el acuerdo desde luego a la consideración del Pleno del Tribunal para su desechamiento de plano.
 
-El Magistrado que reciba el recurso de Apelación o el Juicio de Inconformidad, realizará todos los actos y diligencias necesarias para la substanciación de los expedientes de dichos medios de impugnación, de manera que los ponga en estado de resolución. Substanciados que sean los expedientes, formulará los proyectos de resolución y los someterá a la decisión del Pleno.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Si el recurso de Apelación y el Juicio de Inconformidad reúnen todos los requisitos, la Magistrada o Magistrado que los reciba dictará dentro de los ocho y tres días siguientes respectivamente después de su recepción, el acuerdo de admisión correspondiente, ordenando se fije copia del mismo en los estrados del Tribunal.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La Magistrada o Magistrado que reciba el recurso de Apelación o el Juicio de Inconformidad, realizará todos los actos y diligencias necesarias para la substanciación de los expedientes de dichos medios de impugnación, de manera que los ponga en estado de resolución. Substanciados expedientes, formulará los proyectos de resolución y los someterá a la decisión del Pleno.
 
 ###### ARTÍCULO 48.
 
 En la sesión de resolución, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
 
-I. El Magistrado ponente presentará el caso y el sentido de su proyecto de resolución, señalando las consideraciones jurídicas y los preceptos legales en que la funda;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Los Magistrados una vez que hayan conocido el proyecto de resolución, así como las consideraciones jurídicas del Magistrado ponente y fundamentos legales, discutirán el proyecto en turno;
+I. La Magistrada o Magistrado ponente presentará el caso y el sentido de su proyecto de resolución, señalando las consideraciones jurídicas y los preceptos legales en que la funda;
 
-III. Cuando el Magistrado Presidente considere suficientemente discutido el proyecto en turno, solicitará a los Magistrados su anuencia para someter dicho proyecto a votación; y
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-IV. Los Magistrados que así lo consideren procedente, podrán presentar voto particular, el cual se sustanciará de acuerdo con el procedimiento establecido en el presente artículo.
+Las Magistradas y Magistrados una vez que hayan conocido el proyecto de resolución, así como las consideraciones jurídicas del Magistrado ponente y fundamentos legales, discutirán el proyecto en turno;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Cuando la Magistrada Presidenta o Magistrado Presidente considere suficientemente discutido el proyecto en turno, solicitará a los Magistrados su anuencia para someter dicho proyecto a votación; y
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Las Magistradas y Magistrados que así lo consideren procedente, podrán presentar voto particular, el cual se sustanciará de acuerdo con el procedimiento establecido en el presente artículo.
 
 En casos extraordinarios el Pleno podrá diferir la resolución de un asunto listado.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 49.
 
-El Magistrado Presidente instruirá al Secretario General de Acuerdos para que fije en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de asuntos que serán ventilados en cada sesión y la convocatoria correspondiente.
+La Magistrada Presidenta o Magistrado Presidente instruirá al Secretario General de Acuerdos para que fije en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de asuntos que serán ventilados en cada sesión y la convocatoria correspondiente.
 
-El Magistrado Presidente determinará la hora y día de las sesiones del Pleno.
+La Magistrada Presidenta o Magistrado Presidente determinará la hora y día de las sesiones del Pleno.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 50.
 
-El Magistrado Presidente, a petición de cualquiera de los Magistrados del Tribunal, requerirá a los diversos organismos electorales, a las autoridades estatales, municipales o federales, cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en esta Ley.
+La Magistrada Presidenta o Magistrado Presidente, a petición de cualquiera de los Magistrados del Tribunal, requerirá a los diversos organismos electorales, a las autoridades estatales, municipales o federales, cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en esta Ley.
 
-Las autoridades deberán proporcionar dentro de las cuarenta y ocho horas siguientes a la recepción de la solicitud, los informes o documentos a que se refiere el párrafo anterior. En casos extraordinarios, el Magistrado Presidente podrá ordenar que se realice alguna diligencia o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la presente Ley.
+Las autoridades deberán proporcionar dentro de las cuarenta y ocho horas siguientes a la recepción de la solicitud, los informes o documentos a que se refiere el párrafo anterior. En casos extraordinarios, la Magistrada Presidenta o Magistrado Presidente podrá ordenar que se realice alguna diligencia o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Artículo 50 BIS.- 1 (SIC). El juicio para la protección de los derechos político-electorales, sólo procederá cuando la ciudadana o ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en el inciso b) del numeral 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
 
 > <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
-
-ARTÍCULO 50 BIS 1 (SIC). El juicio para la protección de los derechos político-electorales, sólo procederá cuando el ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en el inciso b) del numeral 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
 
 2. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Artículo 50 TER.- 1 (SIC). El juicio para la protección de los derechos político-electorales, podrá ser promovido por las ciudadanas y ciudadanos cuando:
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+a). Considere que se violó su derecho político-electoral de ser votada cuando, habiendo sido propuesta por un partido político, le sea negado indebidamente su registro como candidata a un cargo de elección popular. En los procesos electorales locales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto, a solicitud del Tribunal Estatal Electoral competente, remitirá el expediente para que sea resuelto por éste, junto con el juicio promovido por la ciudadana o el ciudadano;
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+b). Habiéndose asociado con otras ciudadanas o ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
+
 > <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
 
-ARTÍCULO 50 TER 1 (SIC). El juicio podrá ser promovido por el ciudadano cuando:
+c). Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior.
 
-a) Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales locales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto, a solicitud del Tribunal Estatal Electoral competente, remitirá el expediente para que sea resuelto por éste, junto con el juicio promovido por el ciudadano;
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-b) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
+d). Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos políticos y electorales. Lo anterior es aplicable a las precandidaturas y candidaturas a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable;
 
-c) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-d) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable, y
+e). Cuando siendo diputada o diputado o integrante de Ayuntamiento con derecho a participar en un proceso interno de selección de candidaturas, para efectos de la reelección, considere que el partido político o una autoridad electoral viola sus derechos políticos y electorales, y
 
-e) cuando siendo diputado o integrante de ayuntamiento con derecho a participar en un proceso interno de selección de candidatos, para afectos de la reelección, considere que el partido político o una autoridad electoral viola sus derechos político electorales.
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+f). Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California Sur y en la Ley Electoral del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
 
 2. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+> <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
 
 3. En los casos previstos en el inciso d) del numeral 1 de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
@@ -713,11 +773,13 @@ El que afirma está obligado a probar. También lo está el que niega, cuando su
 
 Los recursos de Revisión deberán ser resueltos en sesión pública por mayoría simple de los miembros presentes del Consejo General del Instituto Estatal Electoral con derecho a voto. Estos recursos deberán ser resueltos en un plazo no mayor a ocho días, contados a partir de que fueron presentados, salvo el caso señalado en el artículo 62 de esta Ley.
 
-Los recursos de Apelación serán resueltos por mayoría simple de los Magistrados del Tribunal Estatal Electoral, dentro de los seis días siguientes a aquél en que se admitan.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+Los recursos de Apelación serán resueltos por mayoría simple de las Magistradas y Magistrados del Tribunal Estatal Electoral, dentro de los seis días siguientes a aquél en que se admitan.
 
-Los Juicios de Inconformidad serán resueltos por la mayoría simple de los Magistrados del Tribunal Estatal Electoral, en el orden en que sean listados para cada sesión, salvo que el Pleno acuerde su modificación. Los Juicios de Inconformidad interpuestos para impugnar los resultados de la elección de Diputados, deberán ser resueltos en su totalidad a más tardar el día 25 de junio del año de la elección. Por lo que hace a los Juicios de Inconformidad presentados para impugnar los resultados de la elección de Gobernador del Estado y de Ayuntamientos, estos deberán ser resueltos a más tardar el día 12 de julio del año de la elección.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los Juicios de Inconformidad serán resueltos por la mayoría simple de las Magistradas y Magistrados del Tribunal Estatal Electoral, en el orden en que sean listados para cada sesión, salvo que el Pleno acuerde su modificación. Los Juicios de Inconformidad interpuestos para impugnar los resultados de la elección de Diputadas y Diputados, deberán ser resueltos en su totalidad a más tardar el día 25 de junio del año de la elección. Por lo que hace a los Juicios de Inconformidad presentados para impugnar los resultados de la elección de Titular de la Gubernatura del Estado y de Ayuntamientos, éstos deberán ser resueltos a más tardar el día 12 de julio del año de la elección.
 
 ###### ARTÍCULO 62.
 
@@ -757,11 +819,15 @@ II. Modificar el acta de cómputo municipal para la elección de Ayuntamiento y 
 
 III. Revocar la constancia de mayoría expedida en favor de una planilla de Ayuntamiento, así como la asignación de las Regidurías de representación proporcional; otorgarla a la planilla que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas en el Municipio, y modificar en consecuencia las actas de cómputo municipal respectivas;
 
-IV. Revocar la constancia de mayoría expedida por los Comités Distritales Electorales en favor de una fórmula de candidatos a Diputados por el principio de mayoría relativa, otorgándose a la fórmula de candidatos que resulte ganadora, como resultado de la anulación de la votación emitida en una o varias casillas en el Distrito, y modificar en consecuencia, el acta de cómputo distrital;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Revocar la constancia de mayoría expedida por los Comités Distritales Electorales en favor de una fórmula de candidatos a Diputadas y Diputados por el principio de mayoría relativa, otorgándose a la fórmula de candidatos que resulte ganadora, como resultado de la anulación de la votación emitida en una o varias casillas en el Distrito, y modificar en consecuencia, el acta de cómputo distrital;
 
 V. Modificar el acta de cómputo distrital respectiva; como consecuencia de declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador del Estado, cuando se den los supuestos de nulidad previstos en el artículo 3º de la presente Ley;
 
-VI. Hacer la corrección de los cómputos distritales de la elección de Gobernador del Estado, de Diputados de mayoría relativa, de los cómputos municipales de Ayuntamientos y del cómputo de Diputados de representación proporcional celebrado por el Consejo General del instituto Estatal Electoral, cuando sean impugnados por error aritmético;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Hacer la corrección de los cómputos distritales de la elección de Titular de la Gubernatura del Estado, de Diputadas y Diputados de mayoría relativa, de los cómputos municipales de Ayuntamientos y del cómputo de Diputadas y Diputados de representación proporcional celebrado por el Consejo General del instituto Estatal Electoral, cuando sean impugnados por error aritmético;
 
 VII. Modificar la asignación de Regidores y de Diputados por el principio de representación proporcional;
 
@@ -968,3 +1034,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Como única ocasión esta elección del 2018 será el primer domingo de julio.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2728 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
