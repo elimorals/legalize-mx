@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2021-08-20"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -166,6 +166,10 @@ El Ayuntamiento podrá realizar consultas populares y/o encuestas sobre actos ad
 ###### Artículo 17.
 
 Cada municipio será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Tanto en la integración del ayuntamiento como en la conformación del gabinete de primer nivel de la administración pública municipal, deberá observarse el principio de paridad de género, que se refiere a la integración cuantitativa igualitaria entre mujeres y hombres.
 
 ###### Artículo 18.
 
@@ -667,7 +671,9 @@ XII.- Convocar por conducto del Secretario, a las sesiones de Ayuntamiento, conf
 
 XIII.- Suscribir a nombre y con autorización del Ayuntamiento, los convenios, contratos y demás actos jurídicos que sean necesarios;
 
-XIV.- Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario, tesorero, contralor y oficial mayor y a los titulares de las dependencias y entidades de la Administración Pública Municipal así como a los subdelegados de las demarcaciones territoriales del municipio;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIV.- Proponer al Ayuntamiento, las personas que deban ocupar la titularidad de la Secretaria General, Tesorería, Contraloría, Oficialía Mayor y de las dependencias y entidades de la Administración Pública Municipal así como a los subdelegados de las demarcaciones territoriales del municipio, deberá observarse el principio de paridad de género, que se refiere a la integración cuantitativa igualitaria entre mujeres y hombres.
 
 XV.- Conceder o negar licencias a todos los servidores públicos municipales no previstos en la fracción anterior;
 
@@ -2548,3 +2554,11 @@ B.O. 20 DE AGOSTO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ÓRGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
