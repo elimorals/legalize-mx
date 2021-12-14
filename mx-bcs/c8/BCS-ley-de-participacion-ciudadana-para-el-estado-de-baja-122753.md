@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-participacion-ciudadana-para-el-estado-de-baja-122753"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-20"
-last_updated: "2018-11-30"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de julio de 2017.
 
@@ -80,6 +80,10 @@ VII. Tolerancia.
 VIII. Autonomía.
 
 IX. Respeto y defensa de Derechos Humanos.
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+X. Igualdad de Género.
 
 ###### Artículo 4.
 
@@ -145,9 +149,11 @@ Normas Transcendentales. Para la aplicación de esta Ley, se entenderá por Regl
 
 Legislación supletoria. A falta de disposición expresa en esta Ley, se aplicarán de manera supletoria y en el siguiente orden de prelación, las disposiciones de la Ley Electoral, la Ley de Justicia Administrativa y el Código de Procedimientos Civiles para el Estado de Baja California Sur.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-Interpretación de la Ley. El derecho a la Participación Ciudadana se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de Baja California Sur y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados; favoreciendo en todo tiempo los principios pro persona y de progresividad.
+Interpretación de la Ley. El derecho a la Participación Ciudadana se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de Baja California Sur y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados; favoreciendo en todo tiempo los principios pro persona, de progresividad y de igualdad de género.
 
 ## TÍTULO SEGUNDO. DE LAS Y LOS CIUDADANOS, HABITANTES, VECINOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
@@ -237,7 +243,9 @@ II. En caso de controversia, los actos o decisiones administrativas de los Ayunt
 
 III. La solicitud formulada por las ciudadanas y los ciudadanos referentes a la formación de un nuevo municipio dentro de los límites de los ya existentes, o de la supresión o fusión de alguno o algunos de estos.
 
-Cuando la solicitud se trate de la formación de un nuevo municipio, el plebiscito deberá aplicarse a los ciudadanos que habiten en el territorio que se pretenda erigir en Municipio.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Cuando la solicitud se trate de la formación de un nuevo municipio, el plebiscito deberá aplicarse a las ciudadanas y los ciudadanos que habiten en el territorio que se pretenda erigir en Municipio.
 
 Tratándose de supresión, el plebiscito deberá aplicarse a las ciudadanas y a los ciudadanos de todo el territorio del Municipio afectado, y si se trata de fusión de dos o más Municipios, éste deberá aplicarse en cada uno de ellos. El resultado deberá ser de cuando menos las dos terceras partes de los votos emitidos, ya sea en sentido afirmativo o negativo.
 
@@ -265,19 +273,29 @@ III. Precisar el acto o decisión de Gobierno que se pretende someter a plebisci
 
 IV. La solicitud para promover un plebiscito deberá presentarse dentro de los noventa días naturales posteriores a la publicación del acto o decisión de gobierno en el Boletín Oficial; y
 
-V. Exponer los motivos o razones por las cuales el acto o decisión se considera trascendental para la vida pública del Estado o Municipio, según sea el caso y las razones por las cuales en concepto del solicitante el acto o decisión deba someterse a consulta de los ciudadanos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+(SIC) Exponer los motivos o razones por las cuales el acto o decisión se considera trascendental para la vida pública del Estado o Municipio, según sea el caso y las razones por las cuales en concepto del solicitante el acto o decisión deba someterse a consulta de las ciudadanas y los ciudadanos.
 
 ###### Artículo 19.
 
 Requisitos en caso de solicitud ciudadana. Cuando la solicitud a que se refiere el artículo anterior, provenga de las ciudadanas y los ciudadanos, la misma deberá contener:
 
-I. Cuando menos el 4% de los ciudadanos inscritos en la Lista Nominal de Electores del Estado, en caso de la fracción l del artículo 16 de la presente Ley;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Cuando menos el 4% de los ciudadanos inscritos en la Lista Nominal de Electores, en el Municipio o Municipios de que se trate, respecto de los actos trascendentales de las autoridades municipales, en el caso de la fracción II del artículo 16 de esta Ley;
+I. Cuando menos el 4% de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores del Estado, en caso de la fracción l del artículo 16 de la presente Ley;
 
-III. Cuando menos el 33% de los ciudadanos inscritos en la Lista Nominal de Electores del Municipio o Municipios de que se trate, en el caso de la fracción III del artículo 16 de la presente Ley;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-IV. En todos los casos deberán anexarse los nombres y apellidos completos, firma y clave de elector de los ciudadanos inscritos en la Lista Nominal de Electores, que respalden la solicitud.
+II. Cuando menos el 4% de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores, en el Municipio o Municipios de que se trate, respecto de los actos trascendentales de las autoridades municipales, en el caso de la fracción II del artículo 16 de esta Ley;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Cuando menos el 33% de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores del Municipio o Municipios de que se trate, en el caso de la fracción III del artículo 16 de la presente Ley;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. En todos los casos deberán anexarse los nombres y apellidos completos, firma y clave de elector de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores, que respalden la solicitud.
 
 ###### Artículo 20.
 
@@ -311,11 +329,15 @@ II. Indicar con precisión la Ley, adición o reforma a la Constitución Políti
 
 III. Las razones por las cuales el ordenamiento o parte de su articulado deban someterse a la consideración de la ciudadanía.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 25.
 
-Requisitos en caso de solicitud de ciudadanos. Cuando la solicitud provenga de ciudadanos, deberá reunir los siguientes requisitos:
+Requisitos en caso de solicitud de las ciudadanas y los ciudadanos. Cuando la solicitud provenga de las ciudadanas y los ciudadanos, deberá reunir los siguientes requisitos:
 
-I. Tratándose de reformas o adiciones a la Constitución Política del Estado deberá anexarse a la solicitud, el respaldo con los nombres y apellidos completos, firma y clave de elector, de cuando menos el 5% de los ciudadanos inscritos en la Lista Nominal de Electores del Estado; y
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Tratándose de reformas o adiciones a la Constitución Política del Estado deberá anexarse a la solicitud, el respaldo con los nombres y apellidos completos, firma y clave de elector, de cuando menos el 5% de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores del Estado; y
 
 II. En los demás casos, en los términos de la fracción anterior, el porcentaje requerido será por lo menos el 4% del total de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores, del Estado o del Municipio o Municipios de que se trate.
 
@@ -329,7 +351,9 @@ I. Cuando se trate de solicitud para llevar a cabo un referéndum:
 
 a) Si la solicitud se ha promovido dentro del término establecido en la presente Ley;
 
-b) Si el número de ciudadanos inscritos en la Lista Nominal de Electores que respaldan la solicitud alcanza el porcentaje requerido; y
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+b) Si el número de ciudadanas y ciudadanos inscritos en la Lista Nominal de Electores que respaldan la solicitud alcanza el porcentaje requerido; y
 
 c) Si el ordenamiento de que se trate es susceptible de someterse a referéndum de acuerdo a las disposiciones de esta Ley.
 
@@ -365,7 +389,9 @@ I. Cuando el acto material del plebiscito no sea trascendental para el orden pú
 
 II. Cuando el escrito de solicitud se haya presentado en forma extemporánea;
 
-III. Cuando en los casos en que la promoción fuere realizada por ciudadanos, las firmas de apoyo no sean auténticas, los ciudadanos firmantes no estén inscritos en la Lista Nominal de Electores o los datos vaciados en el escrito de solicitud no concuerden con los datos registrados en la Lista Nominal de Electores;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Cuando en los casos en que la promoción fuere realizada por ciudadanas y ciudadanos, las firmas de apoyo no sean auténticas, las ciudadanas y ciudadanos firmantes no estén inscritos en la Lista Nominal de Electores o los datos vaciados en el escrito de solicitud no concuerden con los datos registrados en la Lista Nominal de Electores;
 
 IV. Cuando el acto objeto del procedimiento de plebiscito se hayan (sic) consumado y no puedan restituirse las cosas al estado que guardaban con anterioridad;
 
@@ -383,7 +409,9 @@ Causas de solicitud de improcedencia. Son causas de solicitud de improcedencia d
 
 I. Cuando el escrito de solicitud se haya presentado en forma extemporánea;
 
-II. En los casos en que la promoción fuere realizada por ciudadanos, cuando las firmas de apoyo no sean auténticas, las ciudadanas y los ciudadanos firmantes no estén inscritos en la Lista Nominal de Electores o los datos vaciados en el escrito de solicitud no coincidan con los datos registrados en la Lista Nominal de Electores;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. En los casos en que la promoción fuere realizada por ciudadanas y ciudadanos, cuando las firmas de apoyo no sean auténticas, las ciudadanas y los ciudadanos firmantes no estén inscritos en la Lista Nominal de Electores o los datos vaciados en el escrito de solicitud no coincidan con los datos registrados en la Lista Nominal de Electores;
 
 III. Que la Ley o el Decreto objeto del procedimiento de referéndum se hayan reformado de manera que hubieren desaparecido las disposiciones objeto del procedimiento;
 
@@ -419,7 +447,9 @@ V. El ámbito territorial de aplicación del procedimiento, anexando una relaci�
 
 VI. La exposición de motivos por los cuales los promoventes consideran que el acto administrativo o la disposición legislada debe ser revocado o derogada, según el caso;
 
-VII. La exposición de motivos y de circunstancias especiales por las cuales la autoridad de la que emana el acto o disposición sujeta al procedimiento del plebiscito o de referéndum, según sea el caso, considera que los ciudadanos deben emitir su voto a favor.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. La exposición de motivos y de circunstancias especiales por las cuales la autoridad de la que emana el acto o disposición sujeta al procedimiento del plebiscito o de referéndum, según sea el caso, considera que las ciudadanas y ciudadanos deben emitir su voto a favor.
 
 VIII. La naturaleza de la solicitud del procedimiento;
 
@@ -435,7 +465,9 @@ XII. Las demás disposiciones reglamentarias del procedimiento respectivo y part
 
 Método de votación. Tratándose de referéndum, las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores votarán por un "si" en caso de que su voluntad sea que la Ley u ordenamiento sometido a referéndum quede vigente y por un "no" cuando consideren que el ordenamiento de que se trate deba ser abrogado o derogado, según sea el caso.
 
-Tratándose de plebiscito, los ciudadanos inscritos en la Lista Nominal de Electores se limitarán a votar por un "sí" o por un "no" al acto de gobierno sometido a su consideración. El voto será libre y secreto.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de plebiscito, las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores se limitarán a votar por un "sí" o por un "no" al acto de gobierno sometido a su consideración. El voto será libre y secreto.
 
 ###### Artículo 34.
 
@@ -479,7 +511,9 @@ De las boletas. Para la emisión del voto, se imprimirán las boletas electorale
 
 I. Entidad, Distrito Electoral, Municipio de conformidad con la naturaleza del sufragio y con la aplicación territorial del procedimiento, siempre y cuando la aplicación se efectúe en varios Municipios o Distritos Electorales;
 
-II. Sello y firmas impresas del Presidente y Secretario General del Instituto;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Sello y firmas impresas de quien ocupe la Presidencia y la Secretaría General del Instituto;
 
 III. Talón desprendible con folio;
 
@@ -495,13 +529,17 @@ No observancia de la figura de representantes. No se observarán las disposicion
 
 #### Sección II. Votación de Referéndum y Adopción de Decisión
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 43.
 
-Del porcentaje de participación. La Leyes y Decretos sometidos a referéndum, sólo podrán ser derogados por la mayoría de votos de los electores, siempre y cuando haya participado más del 50% de los ciudadanos inscritos en la Lista Nominal de Electores correspondiente a la circunscripción territorial en la que se aplica el procedimiento electoral respectivo.
+Del porcentaje de participación. La Leyes y Decretos sometidos a referéndum, sólo podrán ser derogados por la mayoría de votos de los electores, siempre y cuando haya participado más del 50% de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores correspondiente a la circunscripción territorial en la que se aplica el procedimiento electoral respectivo.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 44.
 
-Del porcentaje de participación en caso de normas constitucionales. Tratándose de referéndum de normas constitucionales, sólo podrán derogarse si así lo votan las dos terceras partes de cuando menos el 50% de los ciudadanos inscritos en la Lista Nominal de Electores.
+Del porcentaje de participación en caso de normas constitucionales. Tratándose de referéndum de normas constitucionales, sólo podrán derogarse si así lo votan las dos terceras partes de cuando menos el 50% de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores.
 
 ###### Artículo 45.
 
@@ -515,15 +553,19 @@ De la temporalidad para presentar nueva iniciativa de la Ley o Decreto rechazado
 
 #### Sección III. De la Campaña de Divulgación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 47.
 
-Definición de campaña de divulgación. Campaña de Divulgación es la actividad que el Instituto realice, a efecto de que las y los ciudadanos conozcan los argumentos a favor y en contra, del acto o norma que se consulta.
+Definición de campaña de divulgación. Campaña de Divulgación es la actividad que el Instituto realice, a efecto de que las ciudadanas y los ciudadanos conozcan los argumentos a favor y en contra, del acto o norma que se consulta.
 
 Dentro de las actividades que emprenda el Instituto como parte de la campaña de divulgación, se contemplan medios masivos de comunicación y debates.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 48.
 
-De las causas de suspensión de la consulta. Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o se observe un ambiente de intimidación para los votantes, el Instituto suspenderá la realización de la consulta.
+De las causas de suspensión de la consulta. Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o se observe un ambiente de intimidación para las ciudadanas y los ciudadanos votantes, el Instituto suspenderá la realización de la consulta.
 
 Una vez suspendida la consulta por el Instituto, éste deberá enviar un informe fundado y motivado ante el Congreso del Estado, con las razones que determinaron la suspensión de la consulta.
 
@@ -591,19 +633,19 @@ Desechamiento de plano. El Congreso del Estado desechará de plano toda Iniciati
 
 #### Sección III. De los Requisitos de la Iniciativa Ciudadana
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 62.
 
-Requisitos. La Iniciativa Ciudadana deberá dirigirse al Presidente de la Mesa Directiva del Periodo Ordinario de Sesiones o de la Diputación Permanente, según corresponda y se presentará ante la Oficialía Mayor del Poder Legislativo, debiendo contener los siguientes requisitos:
+Requisitos. La Iniciativa Ciudadana deberá dirigirse a la Presidenta o Presidente de la Mesa Directiva del Periodo Ordinario de Sesiones o de la Diputación Permanente, según corresponda y se presentará ante la Oficialía Mayor del Poder Legislativo, debiendo contener los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-I. El nombre, firma, número de folio y sección de la credencial de elector del o los ciudadanos solicitantes, quienes deberán estar inscritos en la Lista Nominal de Electores correspondiente al Estado de Baja California Sur;
+I. El nombre, firma, número de folio y sección de la credencial de elector de las ciudadanas o los ciudadanos solicitantes, quienes deberán estar inscritos en la lista Nominal de Electores correspondiente al Estado de Baja California Sur;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Domicilio en la capital del Estado y en su caso nombrar un representante para oír y recibir notificaciones y participar en las discusiones en la Comisión respectiva, sin derecho a voto. En el caso de que se presenten iniciativas suscrita (sic) por dos o más ciudadanos deberán nombrar un representante común para los efectos de la presente fracción;
+II. Domicilio en la capital del Estado, la persona autorizada para oír y recibir notificaciones y participar en las discusiones en la Comisión respectiva, sin derecho a voto. En el caso de que se presenten iniciativas suscrita por dos o más ciudadanas o ciudadanos deberán nombrar un representante común para los efectos de la presente fracción;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -667,9 +709,11 @@ IV. Las habitantes y los habitantes en cualquiera de los ámbitos territoriales 
 
 V. A los Comités de las Unidades Territoriales.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 68.
 
-De los que pueden convocar. La consulta ciudadana podrá ser convocada por el Gobernador del Estado, Presidente Municipal, el Ayuntamiento, el Congreso del Estado, Delegado y Subdelegados Municipales de la Demarcación correspondiente, así como cualquier combinación de los anteriores o a solicitud de los ciudadanos.
+Quienes pueden convocar. La consulta ciudadana podrá ser convocada por Titular de la Gubernatura del Estado, Presidenta o Presidente Municipal, el Ayuntamiento, el Congreso del Estado, Delegadas o Delegados y Subdelegadas o Subdelegados Municipales de la Demarcación correspondiente, así como cualquier combinación de los anteriores o a solicitud de las ciudadanas y los ciudadanos.
 
 ###### Artículo 69.
 
@@ -686,6 +730,8 @@ En el caso de que el ejercicio de las funciones de la autoridad no corresponda a
 ### Capítulo V. De la Colaboración Ciudadana
 
 ### Capítulo VI. De la Difusión Pública
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 70.
 
@@ -705,7 +751,7 @@ La autoridad tendrá un plazo no mayor de 30 días naturales para aceptar, recha
 
 ###### Artículo 73.
 
-Definición. Las autoridades del Gobierno del Estado y de los Municipios llevaran a cabo la difusión pública de sus planes, programas, proyectos y acciones a su cargo. En ningún caso las acciones de difusión se utilizarán con fines de promoción de imagen de servidores públicos, partidos políticos o candidatos a puestos de elección popular.
+Definición. Las autoridades del Gobierno del Estado y de los Municipios llevaran a cabo la difusión pública de sus planes, programas, proyectos y acciones a su cargo. En ningún caso las acciones de difusión se utilizarán con fines de promoción de imagen de las y los servidores públicos, partidos políticos, candidatas y candidatos a puestos de elección popular.
 
 ###### Artículo 74.
 
@@ -715,7 +761,9 @@ De los efectos de la difusión. Las comunicaciones que hagan las autoridades adm
 
 Medios para la difusión. La difusión se hará a través de los medios informativos adecuados, que permitan a las ciudadanas y los ciudadanos habitantes de la demarcación territorial tener acceso a la información respectiva.
 
-La autoridad informará al público mediante avisos, señalamientos u otros medios con anticipación debida y de modo adecuado de las obras o los actos que pudieran afectar el desarrollo normal de las actividades de las y los ciudadanos habitantes de una zona determinada o de quienes circulen por la misma.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La autoridad informará al público mediante avisos, señalamientos u otros medios con anticipación debida y de modo adecuado de las obras o los actos que pudieran afectar el desarrollo normal de las actividades de las ciudadanas y los ciudadanos habitantes de una zona determinada o de quienes circulen por la misma.
 
 ### Capítulo VIII. De La Contraloría Ciudadana o Social
 
@@ -729,7 +777,9 @@ II. Recibir información sobre las actuaciones de los órganos que integran la A
 
 III. Presentar a las autoridades estales y municipales las peticiones, propuestas o quejas en todo lo relacionado con la administración pública a su cargo, y
 
-IV. Evaluar junto con las autoridades el cumplimiento de los programas y actos de gobierno. En todo momento las autoridades garantizarán el derecho de petición de los ciudadanos, de manera ágil y expedita.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Evaluar junto con las autoridades el cumplimiento de los programas y actos de gobierno. En todo momento las autoridades garantizarán el derecho de petición de las ciudadanas y los ciudadanos, de manera ágil y expedita.
 
 ###### Artículo 77.
 
@@ -745,7 +795,9 @@ En toda solicitud de audiencia pública se deberá hacer mención del asunto o a
 
 La contestación que recaiga a las solicitudes de audiencia pública deberá realizarse por escrito, señalando día, hora y lugar para la realización de la audiencia.
 
-La contestación mencionará el nombre y cargo del funcionario que asistirá. En el escrito de contestación se hará saber si la agenda propuesta por los solicitantes fue aceptada en sus términos, modificada o substituida por otra.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La contestación mencionará el nombre y cargo de la funcionaria o el funcionario que asistirá. En el escrito de contestación se hará saber si la agenda propuesta por los solicitantes fue aceptada en sus términos, modificada o substituida por otra.
 
 ###### Artículo 79.
 
@@ -759,19 +811,27 @@ En el caso de que durante la consulta la Ciudadanía se conduzca con faltas a la
 
 ### Capítulo IX. Del Comité de Vecinos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 81.
 
 Definición. La Contraloría Ciudadana o Social es el instrumento de participación de las ciudadanas y los ciudadanos habitantes de la unidad territorial que voluntaria e individualmente, asumen el compromiso de colaborar de manera honorífica con la Administración Pública Estatal y Municipal, para garantizar la transparencia, la eficacia y la eficiencia del gasto público, de acuerdo con la legislación aplicable y los programas de contraloría social existentes.
 
 ### Capitulo X. De los Observatorios Ciudadanos
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 82.
 
-Definición. Son las organizaciones ciudadanas de vecinos conformadas en las Unidades Territoriales de los Municipios del Estado de Baja California Sur.
+Definición. Son las organizaciones ciudadanas de vecinas y vecinos conformadas en las Unidades Territoriales de los Municipios del Estado de Baja California Sur.
 
-En los Municipios del Estado se constituirán los comités que se consideren necesarios en los términos de esta Ley para procurar la colaboración de las autoridades estatales, federales y municipales en el desarrollo de sus habitantes.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-El cargo que desempeñen todos y cada uno de los vecinos en los comités, será personal y honorífico por lo que no percibirán remuneración alguna por su desempeño.
+En los Municipios del Estado se constituirán los comités que se consideren necesarios en los términos de esta Ley observando el principio de paridad de género para procurar la colaboración de las autoridades estatales, federales y municipales en el desarrollo de sus habitantes.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El cargo que desempeñen todos y cada uno de las vecinas y los vecinos en los comités, será personal y honorífico por lo que no percibirán remuneración alguna por su desempeño.
 
 Los Municipios no aportarán a los comités recursos económicos o materiales para su sostenimiento.
 
@@ -779,7 +839,9 @@ Los Municipios no aportarán a los comités recursos económicos o materiales pa
 
 Reconocimiento legal. El Comité será reconocido por cualquier autoridad mediante su acta constitutiva y la constancia de reconocimiento de la mesa directiva, la cual se elaborara con auxilio de la Autoridad Municipal correspondiente, la cual no requerirá ser protocolizada por Notario Público.
 
-El acta constitutiva es el documento por medio del cual queda legalmente constituido un comité y deberá contener los siguientes datos:
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El acta constitutiva es el documento por medio del cual queda legalmente constituido un comité el cual estará integrado por hombres y mujeres y deberá contener los siguientes datos:
 
 I. Los preceptos legales en que se fundamenta la constitución del comité.
 
@@ -805,13 +867,17 @@ Solo por circunstancias excepcionales, atendiendo a la problemática de la unida
 
 La Autoridad Municipal podrá igualmente autorizar la fusión de dos o más comités o su división, oyendo previamente a las autoridades indicadas en el artículo anterior, así como al o a los comités que se pretendan dividir o fusionar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 85.
 
-De la Convocatoria. La Autoridad Municipal procederá a la formación del primer comité, debiendo convocar cuando menos con dos días de anticipación a la reunión en la que se elegirán a los miembros de la primera mesa directiva.
+De la Convocatoria. La Autoridad Municipal procederá a la formación del primer comité, debiendo convocar cuando menos con dos días de anticipación a la reunión en la que se elegirán a las y los miembros de la primera mesa directiva.
 
 La convocatoria se llevará a cabo por los medios de difusión al alcance de la Autoridad Municipal, en la que se señalará el día, lugar y hora para que tenga verificativo la reunión para la constitución del comité.
 
-La segunda y ulteriores mesas directivas serán convocadas por la mesa directiva saliente o por el 25% de los vecinos registrados. Para la elección de cualquier mesa directiva, esta será supervisada por la Autoridad Municipal, la que podrá ser asistida por una representación de los regidores.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+La segunda y ulteriores mesas directivas serán convocadas por la mesa directiva saliente o por el 25% de las vecinas y los vecinos registrados. Para la elección de cualquier mesa directiva, esta será supervisada por la Autoridad Municipal, la que podrá ser asistida por una representación de las regidoras y los regidores.
 
 El día y horario en que se efectuará la sesión deberá ser adecuado a la población que integra la unidad territorial, procurando que no interfiera en día y hora en que la mayoría trabaje.
 
@@ -819,17 +885,27 @@ El día y horario en que se efectuará la sesión deberá ser adecuado a la pobl
 
 De la asamblea constitutiva. La asamblea constitutiva del comité será presidida por la Autoridad Municipal.
 
-La votación se hará previa identificación de cada vecino que acredite su residencia en la unidad territorial con la correspondiente credencial de elector o solicitud a la autoridad electoral de alta o reposición por extravío.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-La urna en que se deposite el voto será transparente y a la vista de los representantes de cada candidato, debiéndose garantizar el secreto en el voto emitido.
+La votación se hará previa identificación de las vecinas y los vecinos que acrediten su residencia en la unidad territorial con la correspondiente credencial de elector o solicitud a la autoridad electoral de alta o reposición por extravío.
 
-Los votos se contarán frente a los representantes de cada candidato y de ser posible frente a la asamblea de vecinos.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Para la validez de la asamblea constitutiva, y para la elección de mesa directiva, es necesaria la reunión de cuando menos veinte personas vecinas de la unidad territorial en que se lleve a cabo. La Autoridad Municipal deberá procurar que los vecinos constituyentes provengan de todas las manzanas o sectores que componen la unidad territorial.
+La urna en que se deposite el voto será transparente y a la vista de quien represente a cada candidata o candidato, debiéndose garantizar el secreto en el voto emitido.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los votos se contarán frente a quien represente a cada candidata o candidato y de ser posible frente a la asamblea de vecinas y vecinos.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Para la validez de la asamblea constitutiva, y para la elección de mesa directiva, es necesaria la reunión de cuando menos veinte personas vecinas de la unidad territorial en que se lleve a cabo, observando el principio de paridad de género. La Autoridad Municipal deberá procurar que las vecinas y vecinos constituyentes provengan de todas las manzanas o sectores que componen la unidad territorial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 87.
 
-Generalidades de la asamblea constitutiva. En la asamblea constitutiva del comité, la Autoridad Municipal, dará una breve introducción explicando la importancia de constituirse en comité y explicará brevemente las principales facultades y obligaciones que tendrán todos y cada uno de los miembros de la mesa directiva del comité.
+Generalidades de la asamblea constitutiva. En la asamblea constitutiva del comité, la Autoridad Municipal, dará una breve introducción explicando la importancia de constituirse en comité y explicará brevemente las principales facultades y obligaciones que tendrán todas y todos, cada uno de las y los miembros de la mesa directiva del comité.
 
 La asamblea constitutiva que no reúna los requisitos formales a que se refiere la presente Ley, no tendrá validez, ni reconocimiento dicha asamblea. La Autoridad Municipal velará por el cumplimiento de las disposiciones relativas a la debida constitución de cada comité.
 
@@ -839,13 +915,19 @@ El objetivo de la asamblea constitutiva es constituir el comité y elegir su pri
 
 Lista de asistencia. Para los efectos de lo expresado en esta Ley, se deberá levantar lista de asistencia para comprobar el número de personas que asistieron y que se requieran para la constitución del comité, o en su caso, elección de la mesa directiva.
 
-Dicha lista deberá contener, nombre de la unidad territorial en la que queda constituido el comité vecinal. Se deberá expresar también el nombre, domicilio, edad y ocupación de cada uno de los vecinos presentes y que sean mayores de edad. En el acta constitutiva se asentarán los límites geográficos y el número de casas-habitación que la constituyen.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Dicha lista deberá contener, nombre de la unidad territorial en la que queda constituido el comité vecinal. Se deberá expresar también el nombre, domicilio, edad y ocupación de cada uno de las vecinas y los vecinos presentes y que sean mayores de edad. En el acta constitutiva se asentarán los límites geográficos y el número de casas-habitación que la constituyen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 89.
 
-De la mesa directiva. Una vez constituido un comité, se procederá a la elección de los miembros integrantes de la primera mesa directiva. La mesa directiva de cada comité se integrará con once miembros, los que se elegirán democráticamente por medio de votación individual y secreta. En los casos que no puedan reunirse once miembros, la mesa directiva se integrara como mínimo con siete miembros.
+De la mesa directiva. Una vez constituido un comité, se procederá a la elección de los miembros integrantes de la primera mesa directiva observando en su integración el principio de paridad de género. La mesa directiva de cada comité se integrará con once miembros, los que se elegirán democráticamente por medio de votación individual y secreta. En los casos que no puedan reunirse once miembros, la mesa directiva se integrara como mínimo con siete miembros observando el principio de paridad de género.
 
-Los miembros de una mesa directiva durarán en su cargo 2 años, pudiendo ser reelectos. El Presidente del comité sólo podrá reelegirse para el mismo cargo por una sola ocasión. A los miembros de la mesa directiva se les deberá preguntar si aceptan el cargo para el que se les elige, y en caso afirmativo se les recibirá su protesta.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las y los miembros de una mesa directiva durarán en su cargo 2 años, pudiendo ser reelectos. La Presidenta o el Presidente del comité sólo podrá reelegirse para el mismo cargo por una sola ocasión. A las y los miembros de la mesa directiva se les deberá preguntar si aceptan el cargo para el que se les elige, y en caso afirmativo se les recibirá su protesta.
 
 En el caso de que alguna de las personas que hayan sido elegidas para ser miembro de la mesa directiva no aceptare el cargo, en ese acto, se deberá proceder a elegir a otra persona que sí acepte el nombramiento.
 
@@ -853,13 +935,19 @@ En el caso de que alguna de las personas que hayan sido elegidas para ser miembr
 
 Suspensión y destitución. Cuando un miembro de la mesa directiva sea suspendido, renuncie, sea destituido o en fin, deje de ser miembro de la mesa, se procederá a su sustitución por el tiempo que falte a la mesa directiva.
 
-Este nombramiento se hará por convocatoria del presidente, del secretario o del tesorero del comité. Cuando el miembro solo sea suspendido, se procederá a la sustitución por el tiempo que dure la suspensión.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Este nombramiento se hará por convocatoria de quien ocupe la presidencia, la secretaría o tesorería del comité. Cuando el miembro solo sea suspendido, se procederá a la sustitución por el tiempo que dure la suspensión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 91.
 
-Convocatorias a asambleas. La mesa directiva del comité deberá convocar a asamblea ordinaria de vecinos por lo menos una vez cada dos meses, la cual se llevará a cabo dentro de los primeros diez días de cada bimestre. La mesa directiva deberá reunirse cuando menos una vez al mes.
+Convocatorias a asambleas. La mesa directiva del comité deberá convocar a asamblea ordinaria de las y los vecinos por lo menos una vez cada dos meses, la cual se llevará a cabo dentro de los primeros diez días de cada bimestre. La mesa directiva deberá reunirse cuando menos una vez al mes.
 
-Para cada sesión del comité o de la mesa directiva, deberá levantarse un acta describiendo el asunto tratado y el acuerdo tomado, los votos a favor, en contra y abstenciones, así como demás incidencias que se pudieran presentar, dicha acta deberá ser firmada por cada uno de los miembros de la mesa directiva presentes.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Para cada sesión del comité o de la mesa directiva, deberá levantarse un acta describiendo el asunto tratado y el acuerdo tomado, los votos a favor, en contra y abstenciones, así como demás incidencias que se pudieran presentar, dicha acta deberá ser firmada por cada uno de las y los miembros de la mesa directiva presentes.
 
 ###### Artículo 92.
 
@@ -875,7 +963,9 @@ El trato o la relación del comité con las autoridades de los tres niveles de g
 
 Funciones. El Comité tendrá las siguientes funciones:
 
-I. Representar los intereses colectivos de las vecinas y los vecinos de la Unidad Territorial, así como conocer, integrar, analizar y promover las soluciones a las demandas o propuestas de los vecinos de su Unidad Territorial;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Representar los intereses colectivos de las vecinas y los vecinos de la Unidad Territorial, así como conocer, integrar, analizar y promover las soluciones a las demandas o propuestas de las vecinas y los vecinos de su Unidad Territorial;
 
 II. Elaborar, y proponer programas y proyectos de desarrollo comunitario en su ámbito territorial;
 
@@ -893,9 +983,11 @@ VIII. Promover la organización democrática de las vecinas y los vecinos para l
 
 IX. Proponer, fomentar, promover y coordinar la integración y el desarrollo de las actividades de las Comisiones de Apoyo Comunitario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 94.
 
-De las Prohibiciones del Comité. Queda prohibido al Comité convocar, organizar, encabezar o dirigir reuniones con fines de promoción política con dirigentes de partidos o aspirantes de elección popular. Lo anterior sin cuartar su participación política.
+De las Prohibiciones del Comité. Queda prohibido al Comité convocar, organizar, encabezar o dirigir reuniones con fines de promoción política con las y los dirigentes de partidos o las y los aspirantes de elección popular. Lo anterior sin coartar su participación política.
 
 El comité que incumpla esta disposición será destituido de sus funciones y representación.
 
@@ -905,7 +997,7 @@ Del Reglamento. Lo no previsto en la presente Ley, se regulara por el Reglamento
 
 ###### Artículo 96.
 
-Observatorios Ciudadanos. Esta Ley reconoce como un instrumento de la participación ciudadana a los observatorios ciudadanos, mismos que se han constituido en formas de organización de la sociedad, a partir del análisis, seguimiento y evaluación de las políticas públicas de los distintos ámbitos de gobierno, así como de la revisión, estudio y planteamiento de propuestas respecto a distintas problemáticas que viven sectores de la sociedad. La autoridad promoverá de manera permanente, espacios de análisis y diálogo donde dichos observatorios den a conocer a los servidores públicos de sus propuestas, análisis y estudios.
+Observatorios Ciudadanos. Esta Ley reconoce como un instrumento de la participación ciudadana a los observatorios ciudadanos, mismos que se han constituido en formas de organización de la sociedad, a partir del análisis, seguimiento y evaluación de las políticas públicas de los distintos ámbitos de gobierno, así como de la revisión, estudio y planteamiento de propuestas respecto a distintas problemáticas que viven sectores de la sociedad. La autoridad promoverá de manera permanente, espacios de análisis y diálogo donde dichos observatorios den a conocer a las y los servidores públicos de sus propuestas, análisis y estudios.
 
 T R A N S I T O R I O S:
 
@@ -968,3 +1060,11 @@ B.O. 30 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
