@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-2537
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-31"
-last_updated: "2014-07-10"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de julio de 1999.
 
@@ -81,7 +81,9 @@ III.- Impulsar acciones para defender y proteger los derechos de la mujer consag
 
 IV.- Promover y propiciar cambios, por medio de campañas publicitarias, para la transformación de los patrones socioculturales que limitan el acceso de las mujeres a la toma de decisiones y a cargos públicos y privados;
 
-V.- Proponer las políticas y evaluar los programas relativos a la mujer en coordinación y concertación con los sectores público, privado y social;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V.- Proponer las políticas y evaluar los programas relativos a la mujer en coordinación y concertación con los sectores público, privado y social. Así como impulsar y coordinar con los sectores antes mencionados, la creación y actualización permanente de Protocolos de Atención en los diversos ámbitos en los que se presenta la violencia hacia las mujeres en la entidad.
 
 VI.- Impulsar la creación del Subcomité de la Mujer dentro de los Comités de Planeación para el Desarrollo Municipal; para ello promoverá, en el marco del Programa de Igualdad de Género, la participación de las mujeres en los Consejos de Desarrollo Municipal;
 
@@ -468,3 +470,17 @@ B.O. 10 DE JULIO DE 2014.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2736 SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 182 Y SE REFORMA EL PÁRRAFO PRIMERO Y SE LE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 183 AMBOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4 DE LA LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en los artículos 182 y 183 del Código Penal para el Estado Libre y Soberano de Baja California Sur, que se reforman y adicionan respectivamente, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Artículo Tercero.- Sin perjuicio de lo establecido en el Artículo Transitorio Primero, el Instituto Sudcaliforniano de las Mujeres, deberá elaborar en coordinación y concertación con los sectores público, privado y social los Protocolos de Atención en los diversos ámbitos en los que se presenta la violencia hacia las mujeres en la entidad a más tardar el 30 de junio del año 2021.
+
+Los citados protocoles (sic) deberán difundirse ampliamente y publicados (sic) en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
