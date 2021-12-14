@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-12-01"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -311,7 +311,9 @@ d) Disponer lo conducente para que los diputados se conduzcan conforme a las nor
 
 e) Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere razón para ello;
 
-f) Dar curso a los asuntos y negocios del Congreso en términos de la normatividad aplicable y determinar los turnos o trámites que daban (sic) recaer sobre las cuestiones con que se dé cuenta al Pleno;
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+f) Dar curso a los asuntos y negocios del Congreso en términos de la normatividad aplicable y determinar los turnos conforme a las competencias, o lo que corresponda respecto de los trámites que deban recaer sobre las cuestiones con que se dé cuenta al Pleno;
 
 g) Firmar, junto con los secretarios de la Mesa Directiva, las leyes, decretos y acuerdos que expida el Congreso, así como suscribir cualquier otra resolución del Pleno;
 
@@ -1031,6 +1033,10 @@ Las Minutas que no hayan sido atendidas mediante el procedimiento legislativo co
 
 2. El Congreso contará también con la Unidad de Género de los integrantes de sus servicios parlamentarios, administrativos y financieros, la cual dependerá de la Secretaría General.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+3. Los servidores públicos dependientes de la Secretaría General, deberán ejecutar sus tareas dentro y fuera del recinto con la objetividad, imparcialidad, institucionalidad, apartidismo y profesionalismo, propios de un cargo confiado por parte de un órgano plural por definición.
+
 ###### ARTICULO 60.
 
 1. En su desempeño, la Secretaría General observa las disposiciones de la Constitución Política del Estado, de esta ley, de los acuerdos relativos a la actividad parlamentaria, así como de los lineamientos que dicten los órganos de dirección parlamentaria y de dirección política del Poder Legislativo.
@@ -1215,9 +1221,9 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 ###### ARTICULO 65.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-1. La Unidad de Comunicación Social tiene a su cargo la difusión de las actividades del Congreso, a la vez que sirve de enlace con los medios de comunicación y es responsable del programa de publicaciones y del material de divulgación. En la realización de estas tareas cuidará en todo momento la utilización de lenguaje claro e inclusivo. Así mismo, dispondrá lo necesario para aprovechar al máximo los recursos didácticos y los avances tecnológicos a su alcance para la mayor divulgación de las actividades de la legislatura.
+1. La Unidad de Comunicación Social tiene a su cargo la difusión de las actividades del Congreso, a la vez que sirve de enlace con los medios de comunicación y es responsable del programa de publicaciones y del material de divulgación. En la realización de estas tareas actuará con criterios de objetividad, imparcialidad y neutralidad editorial, a efecto de garantizar el derecho de la sociedad a la información completa y precisa de las actividades desarrolladas por el Congreso, y cuidará en todo momento la utilización de lenguaje claro e inclusivo.
 
 2. La Unidad de Comunicación Social depende de la Junta de Coordinación Política para la divulgación de los aspectos de dirección política del Congreso.
 
@@ -1841,7 +1847,9 @@ DEL DERECHO DE INICIATIVA
 
 2. Toda iniciativa se presentará por escrito, será dirigida al Congreso del Estado, y deberá comprender una parte expositiva y otra relativa al proyecto de resolución.
 
-En las iniciativas se procurará la máxima utilización de lenguaje claro e inclusivo, al menos en su parte expositiva. Una vez conocida una iniciativa por el Pleno, será turnada a la comisión o comisiones que correspondan para su estudio y dictamen.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En las iniciativas se procurará la máxima utilización de lenguaje claro e inclusivo, al menos en su parte expositiva. Una vez conocida una iniciativa por el Pleno, será turnada a la comisión o comisiones que correspondan para su estudio y dictamen de acuerdo a su competencia.
 
 3. Podrán presentarse iniciativas de ley, de decreto, de acuerdo y de acuerdo económico.
 
@@ -3554,3 +3562,11 @@ P.O. 1 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-52 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
