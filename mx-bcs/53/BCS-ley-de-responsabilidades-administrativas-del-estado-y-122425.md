@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-administrativas-del-estado-y-122425"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-27"
-last_updated: "2019-04-20"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extraordinario No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -561,9 +561,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el servidor público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones la servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 16 Bis de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para Baja California Sur.
 
 ###### Artículo 58.
 
@@ -1914,3 +1916,11 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2728 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
