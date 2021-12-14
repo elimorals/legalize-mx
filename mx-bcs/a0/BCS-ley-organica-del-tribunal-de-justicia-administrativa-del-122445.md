@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-tribunal-de-justicia-administrativa-del-122445
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-27"
-last_updated: "2017-07-17"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extraordinario al No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -77,9 +77,11 @@ El presupuesto aprobado por el Congreso del Estado de Baja California Sur para e
 
 El Tribunal de Justicia Administrativa residirá en la Capital del Estado de Baja California Sur.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-El recinto del Tribunal de Justicia Administrativa es inviolable. Toda fuerza pública tiene impedido el acceso al mismo, salvo con el correspondiente permiso del Pleno o del Presidente del Tribunal, bajo cuyo mando quedarán dichas fuerzas.
+El recinto del Tribunal de Justicia Administrativa es inviolable. Toda fuerza pública tiene impedido el acceso al mismo, salvo con el correspondiente permiso del Pleno o de la Presidenta o el Presidente del Tribunal, bajo cuyo mando quedarán dichas fuerzas.
 
 ###### Artículo 6.
 
@@ -87,7 +89,9 @@ Para efectos de esta Ley se entenderá, por:
 
 I. Ley: La Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur;
 
-II. Presidente del Tribunal: El Presidente del Tribunal de Justicia Administrativa del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Presidenta o Presidente del Tribunal: La Presidenta o Presidente del Tribunal de Justicia Administrativa del Estado de Baja California Sur;
 
 III. Tribunal: El Tribunal de Justicia Administrativa del Estado de Baja California Sur;
 
@@ -101,51 +105,75 @@ V. El Pleno: El Pleno del Tribunal de Justicia Administrativa del Estado de Baja
 
 El Tribunal para el ejercicio de sus atribuciones, funcionará en Pleno y en salas, siendo tres salas ordinarias, unitarias y funcionarán por turno.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-El Pleno se constituirá por los Magistrados que integren el Tribunal y lo presidirá el que designe el propio cuerpo colegiado. El Pleno es la máxima autoridad del Tribunal.
+El Pleno se constituirá por las Magistradas y los Magistrados que integren el Tribunal y será presidido por quien designe el propio cuerpo colegiado. El Pleno es la máxima autoridad del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 9.
 
-El Tribunal tendrá un Presidente, quien durará en la Presidencia dos años y no podrá ser reelecto para el período inmediato.
+El Tribunal tendrá una Presidenta o un Presidente, quien durará en la Presidencia dos años y no podrá ser reelecta o reelecto para el período inmediato, también en este cargo se deberá observar el principio de paridad y garantizar la alternancia entre mujeres y hombres cada periodo electivo.
 
-El representante legal del Tribunal, es el Magistrado Presidente, así mismo está bajo su responsabilidad la administración del Tribunal, las (sic) que podrá delegar conforme al reglamento que se emita o, en casos no previstos o extraordinarios, por acuerdo del Pleno.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El representante legal del Tribunal, es la Magistrada Presidenta o el Magistrado Presidente, así mismo está bajo su responsabilidad la administración del Tribunal, las (sic) que podrá delegar conforme al reglamento que se emita o, en casos no previstos o extraordinarios, por acuerdo del Pleno.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 10.
 
-La elección del Presidente del Tribunal, se efectuará por los Magistrados en el Pleno, en sesión extraordinaria anterior a la fecha en que deba concluir el ejercicio de la Presidencia.
+La elección de la Magistrada Presidenta o el Magistrado Presidente del Tribunal, se efectuará por las Magistradas y los Magistrados en el Pleno, en sesión extraordinaria anterior a la fecha en que deba concluir el ejercicio de la Presidencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-El Pleno deberá sesionar ordinariamente una vez al mes y con carácter extraordinario siempre que el Presidente o alguno de los Magistrados lo solicite para tratar y resolver asuntos urgentes, previa convocatoria del Presidente, en la que se determinará si la sesión será privada o pública.
+El Pleno deberá sesionar ordinariamente una vez al mes y con carácter extraordinario siempre que la Presidenta o el Presidente o alguna Magistrada o alguno de los Magistrados lo solicite para tratar y resolver asuntos urgentes, previa convocatoria de la Presidenta o el Presidente, en la que se determinará si la sesión será privada o pública.
 
-El Pleno funcionará legalmente con la concurrencia de la mayoría de los Magistrados, debiendo estar presente el Presidente o aquel que lo sustituya en su función.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+El Pleno funcionará legalmente con la concurrencia de la mayoría de las Magistradas y los Magistrados, debiendo estar presente la Magistrada Presidenta o el Magistrado Presidente o aquel que lo sustituya en su función.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-Las resoluciones del Pleno se tomarán por mayoría de votos de los Magistrados presentes. En caso de empate, el Presidente del Tribunal o el Magistrado que lo sustituya tendrán voto de calidad.
+Las resoluciones del Pleno se tomarán por mayoría de votos de las Magistradas presentes y los Magistrados presentes. En caso de empate, la Presidenta o el Presidente del Tribunal o la Magistrada o el Magistrado que lo sustituya tendrán voto de calidad.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-Las actas que se levanten de los acuerdos y resoluciones del Pleno, deberán firmarse por los Magistrados que intervinieron en el conocimiento del asunto, así como por el Secretario de Acuerdos.
+Las actas que se levanten de los acuerdos y resoluciones del Pleno, deberán firmarse por las Magistradas y los Magistrados que intervinieron en el conocimiento del asunto, así como por el Secretario de Acuerdos.
 
 ###### Artículo 14.
 
 El Pleno tendrá las siguientes atribuciones:
 
-I. Designar de entre sus miembros al Presidente del Tribunal;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Fijar la adscripción de los Magistrados de las Salas Ordinarias;
+I. Designar de entre sus miembros a la Presidenta o el Presidente del Tribunal;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Fijar la adscripción de las Magistradas y los Magistrados de las Salas Ordinarias;
 
 III. Nombrar a los Secretarios de Estudio y Cuenta, a los Secretarios de Acuerdos, a los Actuarios, y al resto del personal que se requiera para al (sic) buen funcionamiento del Tribunal, así como concederles licencias y acordar lo que proceda respecto a su remoción;
 
-IV. Resolver los recursos de apelación en alzada y del recurso de revisión que se interpongan en contra de las resoluciones de los Magistrados de las Salas Ordinarias;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Resolver los recursos de apelación en alzada y del recurso de revisión que se interpongan en contra de las resoluciones de las Magistradas y los Magistrados de las Salas Ordinarias;
 
 V. Establecer los criterios de interpretación de las disposiciones legales que serán obligatorios para el propio Tribunal;
 
 VI. Emitir los acuerdos generales y circulares que estime pertinentes en el ámbito de su competencia;
 
-VII. Calificar las excusas o impedimentos de los Magistrados de las Salas Ordinarias y, en su caso, designar a quienes deban sustituirlos para la resolución del caso particular;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Calificar las excusas o impedimentos de las Magistradas y los Magistrados de las Salas Ordinarias y, en su caso, designar a quienes deban sustituirlos para la resolución del caso particular;
 
 VIII. Imponer correcciones disciplinarias, conforme a las leyes respectivas, a los abogados, agentes de negocios, procuradores o litigantes cuando, en las promociones que hagan falten al respeto al Tribunal, alguno de sus miembros o a cualquier otro servidor público del Tribunal;
 
@@ -157,19 +185,27 @@ XI. Designar las comisiones que sean necesarias para la administración interna 
 
 XII. Elaborar el proyecto de ingresos del Tribunal para turnarlo a la Secretaria de Finanzas y Administración en los términos de la Ley en la materia;
 
-XIII. Aprobar el presupuesto anual de egresos del Tribunal, que el Presidente formule en los términos de la Ley en la materia;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIII. Aprobar el presupuesto anual de egresos del Tribunal, que la Presidenta o el Presidente formule en los términos de la Ley en la materia;
 
 XIV. Dictar las órdenes relacionadas con el ejercicio del presupuesto del Tribunal;
 
 XV. Expedir o modificar el Reglamento Interior del Tribunal, así como las demás disposiciones necesarias para su buen funcionamiento;
 
-XVI. Aprobar los manuales de procedimientos que sometan a su consideración los Magistrados de las Salas del Tribunal;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XVI. Aprobar los manuales de procedimientos que sometan a su consideración las Magistradas y los Magistrados de las Salas del Tribunal;
 
 XVII. Dictar las medidas administrativas para el buen funcionamiento del Tribunal y disciplina de su personal, y aplicarlas a los Secretarios, Actuarios y demás empleados;
 
-XVIII. Designar al Titular de la Unidad de Responsabilidades Administrativas a propuesta del Presidente del Tribunal, suspenderlo y/o removerlo por faltas calificadas como graves;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-XIX. Resolver los procedimientos de responsabilidad administrativa en contra de los trabajadores del Tribunal que ponga a su consideración la Unidad de Responsabilidades Administrativas, y de los relativos a faltas no graves de los Magistrados, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California Sur o su equivalente; y respecto al procedimiento por faltas graves de los Magistrados procederá conforme a la Constitución del Estado; y
+XVIII. Designar a quien ocupe la Titularidad de la Unidad de Responsabilidades Administrativas a propuesta de la Presidenta o el Presidente del Tribunal, suspenderlo y/o removerlo por faltas calificadas como graves;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XIX. Resolver los procedimientos de responsabilidad administrativa en contra de los trabajadores del Tribunal que ponga a su consideración la Unidad de Responsabilidades Administrativas, y de los relativos a faltas no graves de las Magistradas y los Magistrados, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California Sur o su equivalente; y respecto al procedimiento por faltas graves de las y los Magistrados procederá conforme a la Constitución del Estado; y
 
 XX. Las demás que señalen esta Ley y demás disposiciones jurídicas aplicables.
 
@@ -229,37 +265,55 @@ Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para im
 
 ### CAPITULO CUARTO. DE LA INTEGRACION DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-El Tribunal estará integrado por tres Magistrados, además de los Secretarios de Estudio y Cuenta, Secretarios de Acuerdos, los Actuarios y el personal administrativo que se requiera.
+El Tribunal estará compuesto por tres integrantes, Magistradas y Magistrados, debiendo observarse para su integración el principio de paridad de género; además de los Secretarios de Estudio y Cuenta. Secretarios de Acuerdos, los Actuarios y el personal administrativo que se requiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-Los Magistrados del Tribunal, serán electos en términos del Artículo 92 de la Constitución del Estado, por el Poder Legislativo, de entre la terna propuestas (sic) por el Gobernador del Estado, previa comparecencia de las personas propuestas.
+Las Magistradas y los Magistrados del Tribunal, serán electos en términos del Artículo 92 de la Constitución del Estado, por el Poder Legislativo, de entre la terna propuestas (sic) por el Titular de la Gubernatura del Estado, previa comparecencia de las personas propuestas.
 
-La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
+La designación de las Magistradas y los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrada o Magistrado la persona que, dentro de dicha terna, designe el Titular de la Gubernatura del Estado.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-Los Magistrados durarán en su encargo seis años, computados a partir de la toma de protesta al cargo, al concluir el período para el que fueron nombrados, podrán ser considerados para ejercer hasta un periodo más de seis años, en los términos establecidos en la Constitución del Estado.
+Las Magistradas y los Magistrados durarán en su encargo seis años, computados a partir de la toma de protesta al cargo, al concluir el período para el que fueron nombrados, podrán ser considerados para ejercer hasta un periodo más de seis años, en los términos establecidos en la Constitución del Estado.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 20.
 
-Los Magistrados del Tribunal, deberán reunir los mismos requisitos que el Artículo 91 de la Constitución del Estado exige para ser Magistrado del Tribunal Superior de Justicia del Estado.
+Las y Los Magistrados del Tribunal, deberán reunir los mismos requisitos que el Artículo 91 de la Constitución del Estado exige para ser Magistrada o Magistrado del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21.
 
-Los Magistrados y demás servidores públicos adscritos al Tribunal percibirán iguales emolumentos que los que correspondan a los servidores públicos de igual categoría del Tribunal Superior de Justicia del Estado, los que no podrán ser disminuidos durante su encargo.
+Las Magistradas y los Magistrados y demás servidores públicos adscritos al Tribunal percibirán iguales emolumentos que los que correspondan a los servidores públicos de igual categoría del Tribunal Superior de Justicia del Estado, los que no podrán ser disminuidos durante su encargo.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 22.
 
-Los Magistrados del Tribunal serán inamovibles durante el período de su encargo, el cual se perderá en los supuestos establecidos en el Artículo 93 segundo párrafo de la Constitución del Estado.
+Las Magistradas y los Magistrados del Tribunal serán inamovibles durante el período de su encargo, el cual se perderá en los supuestos establecidos en el Artículo 93 segundo párrafo de la Constitución del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 23.
 
-Son causas de terminación del cargo de Magistrado del Tribunal:
+Son causas de terminación del cargo de Magistrada o Magistrado del Tribunal:
 
 I. Padecer incapacidad física o mental para desempeñar el cargo;
 
@@ -271,23 +325,33 @@ IV. Haber desempeñado el cargo durante seis o doce años, en los casos establec
 
 V. Por jubilación.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 24.
 
-Los Magistrados sólo podrán ser sancionados por el Pleno por actos calificados como no graves por la Ley de Responsabilidades Administrativas del Estado de Baja California Sur, mediante el procedimiento que en la misma se establece a través de la solicitud de la Unidad de Responsabilidades Administrativas o queja presentada ante el Pleno y turnada a dicha Unidad para el procedimiento de Ley.
+Las Magistradas y los Magistrados sólo podrán ser sancionados por el Pleno por actos calificados como no graves por la Ley de Responsabilidades Administrativas del Estado de Baja California Sur, mediante el procedimiento que en la misma se establece a través de la solicitud de la Unidad de Responsabilidades Administrativas o queja presentada ante el Pleno y turnada a dicha Unidad para el procedimiento de Ley.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-Cuando algún Magistrado esté por concluir el período para el cual haya sido nombrado, el Presidente del Tribunal, por lo menos con tres meses de anticipación, comunicará esa circunstancia al Gobernador del Estado para los efectos de la propuesta consecuente al Congreso, la cual se hará aún en caso de incumplirse la comunicación a que se refiere este párrafo.
+Cuando alguna Magistrada o algún Magistrado esté por concluir el período para el cual haya sido nombrado, la Presidenta o el Presidente del Tribunal, por lo menos con tres meses de anticipación, comunicará esa circunstancia al Titular de la Gubernatura del Estado para los efectos de la propuesta consecuente al Congreso, la cual se hará aún en caso de incumplirse la comunicación a que se refiere este párrafo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 26.
 
-La falta definitiva de cualquiera de los Magistrados o la actualización de alguna otra causa de terminación de su cargo, será comunicada inmediatamente por el Presidente del Tribunal al Gobernador del Estado, a fin de que proponga al Congreso la nueva terna.
+La falta definitiva de cualquiera de las Magistradas y los Magistrados o la actualización de alguna otra causa de terminación de su cargo, será comunicada inmediatamente por la Presidenta o el Presidente del Tribunal al Titular de la Gubernatura del Estado, a fin de que proponga al Congreso la nueva terna.
 
-En caso de que la falta o terminación del cargo sea del Presidente del Tribunal, se procederá previamente conforme al artículo 27 de la presente Ley.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+En caso de que la falta o terminación del cargo sea de la Presidenta o el Presidente del Tribunal, se procederá previamente conforme al artículo 27 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 27.
 
-Las faltas temporales del Magistrado Presidente serán cubiertas por el Magistrado que en Pleno se designe, así como las definitivas en tanto se provee a la nueva designación.
+Las faltas temporales de la Magistrada Presidenta o el Magistrado Presidente serán cubiertas por la Magistrada o el Magistrado que en Pleno se designe, así como las definitivas en tanto se provee a la nueva designación.
 
 Tratándose de casos no previstos por esta Ley en materia de faltas temporales y la suplencia, el Secretario del Pleno realizará los actos necesarios para cubrir las ausencias, incluso la relativa al comunicado a que se refiere el artículo 26 de esta Ley.
 
@@ -295,15 +359,23 @@ Tratándose de casos no previstos por esta Ley en materia de faltas temporales y
 
 Ninguna licencia podrá concederse por más de seis meses.
 
-Las licencias de los Magistrados, cuando no excedan de treinta días, serán concedidas con goce de sueldo por el Pleno; el Magistrado solicitante de la licencia deberá excusarse de votar; las que excedan de ese tiempo, así como las del Presidente del Tribunal, las concederá el Congreso del Estado, sin goce de sueldo.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las licencias de las Magistradas y los Magistrados, cuando no excedan de treinta días, serán concedidas con goce de sueldo por el Pleno; la o el Magistrado solicitante de la licencia deberá excusarse de votar; las que excedan de ese tiempo, así como las de la Presidenta o el Presidente del Tribunal, las concederá el Congreso del Estado, sin goce de sueldo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 29.
 
-Las faltas temporales de los Magistrados autorizadas por el Pleno, serán cubiertas por el Secretario adscrito al Magistrado.
+Las faltas temporales de las Magistradas y los Magistrados autorizadas por el Pleno, serán cubiertas por la Secretaria adscrita o el Secretario adscrito a la Magistrada o el Magistrado.
 
-Si las faltas de los Magistrados son definitivas, se aplicará lo dispuesto en este Artículo en tanto se hace la designación del nuevo Magistrado en los términos del Artículo 79 fracción XLIV de la Constitución del Estado.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Se considera que la falta de un Magistrado es definitiva, cuando ocurre por fallecimiento o se ausenta sin licencia o justificación por cinco días hábiles o si se prolonga por más de dos días hábiles de la licencia concedida.
+Si las faltas de las Magistradas y de los Magistrados son definitivas, se aplicará lo dispuesto en este Artículo en tanto se hace la designación de la nueva Magistrada o nuevo Magistrado en los términos del Artículo 79 fracción XLIV de la Constitución del Estado.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Se considera que la falta de una Magistrada o un Magistrado es definitiva, cuando ocurre por fallecimiento o se ausenta sin licencia o justificación por cinco días hábiles o si se prolonga por más de dos días hábiles de la licencia concedida.
 
 ###### Artículo 30.
 
@@ -321,31 +393,47 @@ V. Personal jurídico; y
 
 VI. Personal administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 31.
 
-Los Magistrados en funciones, así como los Secretarios de Estudio y Cuenta, los Secretarios de Acuerdos y Actuarios, estarán impedidos para desempeñar cualquier otro cargo o empleo en la Federación, Estados, Municipios, Organismos Descentralizados, Empresas de participación estatal o de algún particular, excepto los de carácter docente u honorífico.
+Las Magistradas y los Magistrados en funciones, así como los Secretarios de Estudio y Cuenta, los Secretarios de Acuerdos y Actuarios, estarán impedidos para desempeñar cualquier otro cargo o empleo en la Federación, Estados, Municipios, Organismos Descentralizados, Empresas de participación estatal o de algún particular, excepto los de carácter docente u honorífico.
 
 También estarán impedidos para ejercer su profesión salvo en causa propia.
 
-### CAPÍTULO QUINTO. DE LA REELECCIÓN DE LOS MAGISTRADOS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO QUINTO. DE LA REELECCIÓN DE LAS MAGISTRADAS Y LOS MAGISTRADOS
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 32.
 
-Para la reelección de los Magistrados deberá cumplirse con el procedimiento establecido en al Artículo 93 Bis de la Constitución del Estado y cumplir con los requisitos establecidos en la presente Ley.
+Para la reelección de las Magistradas y los Magistrados deberá cumplirse con el procedimiento establecido en al Artículo 93 Bis de la Constitución del Estado y cumplir con los requisitos establecidos en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 33.
 
-El Pleno del Tribunal deberá rendir al Congreso del Estado, los informes y documentación que este le solicite en relación con los procedimientos de reelección de Magistrados, bajo el siguiente procedimiento:
+El Pleno del Tribunal deberá rendir al Congreso del Estado, los informes y documentación que este le solicite en relación con los procedimientos de reelección de las Magistradas y los Magistrados, bajo el siguiente procedimiento:
 
-A. La información para procedimiento de reelección de algún Magistrado, deberá entregarse dentro del plazo de diez días naturales contados a partir del día siguiente a aquel en que se formula la solicitud, incluyendo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+A. La información para procedimiento de reelección de alguna Magistrada o Magistrado, deberá entregarse dentro del plazo de diez días naturales contados a partir del día siguiente a aquel en que se formula la solicitud, incluyendo:
 
 I. La información estadística, que contendrá el número total de asuntos que fueron turnados a su adscripción y los que fueron resueltos, incluyendo el porcentaje de los pendientes de resolución;
 
-II. El total de asuntos turnados a la Sala que tiene a su cargo el Magistrado, precisando cuántos han sido resueltos y cuantos están pendientes de resolución;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-III. El número desglosado del total de sentencias elaboradas por la Sala a la que pertenezca el Magistrado;
+II. El total de asuntos turnados a la Sala que tiene a su cargo la Magistrada o el Magistrado, precisando cuántos han sido resueltos y cuantos están pendientes de resolución;
 
-IV. La información de los resultados que el Pleno haya recibido en materia de quejas procesales o administrativas contra la ponencia del Magistrado en cuestión, las cuales deberán contener la evolución de los procedimientos respectivos y el resultado de su procedencia o no, así como las sanciones impuestas en su caso;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. El número desglosado del total de sentencias elaboradas por la Sala a la que pertenezca la Magistrada o el Magistrado;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. La información de los resultados que el Pleno haya recibido en materia de quejas procesales o administrativas contra la ponencia de la Magistrada o el Magistrado en cuestión, las cuales deberán contener la evolución de los procedimientos respectivos y el resultado de su procedencia o no, así como las sanciones impuestas en su caso;
 
 V. Las comisiones realizadas en el desempeño de su encargo;
 
@@ -353,23 +441,33 @@ VI. La documentación que acredite la impartición de cursos, conferencias o sem
 
 VII. El total de sesiones del Pleno del Tribunal celebradas, tanto ordinarias como extraordinarias, y el número total de éstas a las que asistió la Magistrada o el Magistrado sujeto al procedimiento de reelección.
 
-B. En el supuesto de que el Magistrado Presidente esté sujeto al procedimiento de reelección, se deberá acompañar además, la siguiente documentación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+B. En el supuesto de que la Magistrada Presidenta o el Magistrado Presidente esté sujeto al procedimiento de reelección, se deberá acompañar además, la siguiente documentación:
 
 I. Los informes anuales de labores, y
 
 II. Los decretos expedidos por el Congreso del Estado mediante los cuales se determina el resultado de la revisión y fiscalización de las cuentas públicas anuales, correspondientes a su periodo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-Los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conservar los requisitos cumplidos para su elección previstos en la Constitución del Estado, así como no encontrarse en ninguno de los supuestos previstos en el artículo 93 de la misma. La evaluación del desempeño de los Magistrados deberá sujetarse a criterios objetivos relativos a la excelencia y ética profesional, honestidad, eficiencia, diligencia y honorabilidad.
+Las Magistradas y los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conservar los requisitos cumplidos para su elección previstos en la Constitución del Estado, así como no encontrarse en ninguno de los supuestos previstos en el artículo 93 de la misma. La evaluación del desempeño de las Magistradas y los Magistrados deberá sujetarse a criterios objetivos relativos a la excelencia y ética profesional, honestidad, eficiencia, diligencia y honorabilidad.
 
-Las resoluciones del Congreso del Estado de Baja California Sur, respecto a la reelección o no reelección de Magistrados, serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO SEXTO. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
+Las resoluciones del Congreso del Estado de Baja California Sur, respecto a la reelección o no reelección de Magistradas y Magistrados, serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO SEXTO. DE LAS ATRIBUCIONES DE LAS MAGISTRADAS Y LOS MAGISTRADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 35.
 
-Son atribuciones comunes de los Magistrados:
+Son atribuciones comunes de las Magistradas y los Magistrados:
 
 I. Intervenir en los Juicios de amparo que se promuevan en contra de las resoluciones dictadas por el Tribunal;
 
@@ -387,7 +485,9 @@ VII. Proponer al Pleno del Tribunal a los Secretarios, Actuarios y personal admi
 
 VIII. Decretar las medidas de apremio para hacer cumplir sus determinaciones, y
 
-IX. Las que se establezcan en esta Ley, las disposiciones legales aplicables, el Pleno o el Presidente.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IX. Las que se establezcan en esta Ley, las disposiciones legales aplicables, el Pleno o la Presidenta o el Presidente.
 
 ### CAPITULO SÉPTIMO. DE LOS SECRETARIOS Y ACTUARIOS
 
@@ -419,7 +519,9 @@ Los Secretarios de Estudio y Cuenta, los Secretarios de Acuerdos y los Actuarios
 
 Corresponde a los Secretarios de Estudio y Cuenta:
 
-I. Dar cuenta al Magistrado de su adscripción, de las promociones presentadas por las partes el mismo día de su presentación;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+I. Dar cuenta a la Magistrada o el Magistrado de su adscripción, de las promociones presentadas por las partes el mismo día de su presentación;
 
 II. Proyectar los acuerdos de trámite y las resoluciones;
 
@@ -429,17 +531,25 @@ IV. Levantar las actas de las audiencias en las que corresponde dar cuenta y aut
 
 V. Expedir copias certificadas de las constancias que obren en los expedientes, lo anterior con excepción de los casos en que la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur obliga a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes; y
 
-VI. Las demás que le atribuyan las disposiciones legales aplicables o disponga el Presidente del Tribunal.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Las demás que le atribuyan las disposiciones legales aplicables o disponga la Presidenta o el Presidente del Tribunal.
 
 ###### Artículo 40.
 
 Corresponde a los Secretarios de Acuerdos:
 
-I. Auxiliar al Magistrado al que estén adscritos en la formulación de los proyectos de resoluciones que les encomienden;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-II. Autenticar con su firma las actuaciones del Magistrado ponente;
+I. Auxiliar a la Magistrada o el Magistrado al que estén adscritos en la formulación de los proyectos de resoluciones que les encomienden;
 
-III. Efectuar las diligencias que les encomiende el Magistrado al que estén adscritos cuando éstas deban practicarse fuera del local del Tribunal;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Autenticar con su firma las actuaciones de la Magistrada o el Magistrado ponente;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Efectuar las diligencias que les encomiende la Magistrada o el Magistrado al que estén adscritos cuando éstas deban practicarse fuera del local del Tribunal;
 
 IV. Dar fe y expedir certificados de las constancias que obren en los expedientes de la Ponencia a la que estén adscritos;
 
@@ -447,7 +557,9 @@ V. Digitalizar la documentación y actuaciones que se requiera incorporar a un e
 
 VI. Dar cuenta en las audiencias con los asuntos del conocimiento del Tribunal;
 
-VII. Integrar y engrosar los fallos definitivos, conforme a los razonamientos jurídicos del Magistrado;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Integrar y engrosar los fallos definitivos, conforme a los razonamientos jurídicos de la Magistrada o el Magistrado;
 
 VIII. Redactar y autorizar las actas de las audiencias en las que le corresponda dar cuenta, y las resoluciones que recaigan en los términos cuyo trámite se les encomiende;
 
@@ -463,19 +575,25 @@ I. Notificar, en el tiempo y forma prescritos por la Ley, las resoluciones reca�
 
 II. Formular los oficios de notificación de los acuerdos y enviarlos a su destino;
 
-III. Realizar las diligencias que les encomienden los Magistrados; y
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Realizar las diligencias que les encomienden las Magistradas y los Magistrados; y
 
 IV. Las demás que señalen las Leyes.
 
 ### CAPÍTULO OCTAVO. DE LA UNIDAD DE RESPONSABILIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 42.
 
-El Tribunal contará con una Unidad de Responsabilidades Administrativas, cuyo titular ejercerá las facultades a que se refiere la fracción III del Artículo 157 de la Constitución del Estado y la ley en materia de responsabilidades, y durará en su encargo 7 años:
+El Tribunal contará con una Unidad de Responsabilidades Administrativas, quien ocupe la titularidad ejercerá las facultades a que se refiere la fracción III del Artículo 157 de la Constitución del Estado y la ley en materia de responsabilidades, y durará en su encargo 7 años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 43.
 
-Corresponde al Titular de la Unidad de Responsabilidades Administrativas:
+Corresponde a quien ocupe la Titularidad de la Unidad de Responsabilidades Administrativas:
 
 I. Resolver sobre las responsabilidades de los servidores públicos y demás personal jurídico y administrativo del Tribunal contenidos en la presente Ley e imponer, en su caso, las sanciones administrativas correspondientes en términos de la Ley en materia de responsabilidades;
 
@@ -505,7 +623,9 @@ Se suspenderán las labores en los días señalados como inhábiles en la Ley pa
 
 Las sentencias del Tribunal constituirán criterios judiciales, siempre que lo resuelto se sustente en tres ejecutorias no interrumpidas por otra en contrario y no exista jurisprudencia al respecto. En los asuntos de sus competencias, se regirán por las disposiciones de la Ley de Procedimiento Contencioso Administrativo.
 
-Los criterios judiciales del Tribunal, serán obligatorias para él y sus Magistrados.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los criterios judiciales del Tribunal, serán obligatorias para él y sus Magistradas y Magistrados.
 
 Para la modificación de los criterios judiciales, se observarán las mismas reglas establecidas por esta Ley, para su formación.
 
@@ -515,9 +635,11 @@ Los criterios judiciales que sustente este Tribunal, así como aquellas que cons
 
 ### CAPITULO DÉCIMO PRIMERO. DEL RÉGIMEN LABORAL
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 48.
 
-Los Magistrados, así como los Secretarios y Actuarios se consideraran trabajadores de confianza. Las relaciones laborales y contractuales del personal administrativo se regirán por lo establecido en la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur y las Condiciones Generales de Trabajo.
+Las Magistradas y los Magistrados, así como los Secretarios y Actuarios se consideraran trabajadores de confianza. Las relaciones laborales y contractuales del personal administrativo se regirán por lo establecido en la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur y las Condiciones Generales de Trabajo.
 
 ## TRANSITORIOS
 
@@ -592,3 +714,11 @@ B.O. 17 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2464.- SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NÚMERO 2427, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PARA EL ESTABLECIMIENTO DEL SISTEMA ESTATAL ANTICORRUPCIÓN Y SU IMPLEMENTACIÓN, EN EL CONTEXTO Y BAJO LOS PRINCIPIOS DEL SISTEMA NACIONAL ANTICORRUPCIÓN, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 28 DE FEBRERO DE 2017; Y EL ARTÍCULO TRANSITORIO PRIMERO APARTADO A DEL ARTÍCULO TRANSITORIO SEGUNDO Y EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 2449 POR EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 27 DE JUNIO DE 2017".]
 
 ÚNICO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
