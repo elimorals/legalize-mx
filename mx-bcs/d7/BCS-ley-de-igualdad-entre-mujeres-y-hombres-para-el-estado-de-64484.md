@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-64484
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-10"
-last_updated: "2015-08-31"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2008.
 
@@ -219,9 +219,15 @@ I. El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
 II. El Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. La Observancia en materia de Igualdad entre Mujeres y Hombres.
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 16.
 
-En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
+En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley y en la Constitución del Estado.
 
 ###### Artículo 17.
 
@@ -325,13 +331,17 @@ Será objetivo de la Política Estatal, el fortalecimiento de la igualdad median
 
 I. Inclusión en los presupuestos y puntual aplicación de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica; y
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con participación paritaria entre mujeres y hombres en materia económica; y
 
 III. El impulso de liderazgos igualitarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 29.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos, observando el principio de paridad de género desarrollarán las siguientes acciones:
 
 I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -355,11 +365,15 @@ X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza c
 
 XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
 
-### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 30.
 
-La Política Estatal y municipal propondrá los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas, buscando en todo momento fortalecer las estructuras en las diferentes áreas de gobierno estatal y municipal de forma igualitaria.
+La Política Estatal y municipal propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas, buscando en todo momento fortalecer las estructuras en las diferentes áreas de gobierno estatal y municipal de forma igualitaria.
 
 ###### Artículo 31.
 
@@ -369,15 +383,19 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
 II. Garantizar que la educación en todos sus niveles, se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-III. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+III. Garantizar la participación paritaria de mujeres y hombres en altos cargos públicos;
 
-III Bis. Promover la participación y representación política equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III Bis. Promover la participación y representación política paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos;
 
 IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
 
-V. Fomentar la participación equilibrada y sin discriminación de sexos para el proceso de selección, contratación y ascensos en el trabajo en los tres Poderes del Estado y sus dependencias.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
+V. Garantizar la participación paritaria y sin discriminación de sexos para el proceso de selección, contratación y ascensos en el trabajo en los tres Poderes del Estado y sus dependencias.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -556,3 +574,11 @@ B.O. 31 DE AGOSTO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 14 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
