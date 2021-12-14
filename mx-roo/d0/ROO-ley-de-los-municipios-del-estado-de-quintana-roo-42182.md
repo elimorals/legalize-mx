@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2021-10-21"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -1066,6 +1066,10 @@ XVIII. De Derechos Humanos.
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 XIX. De Anticorrupción y Participación Ciudadana.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+XX. De la Diversidad Sexual.
 
 ###### ARTÍCULO 73.
 
@@ -3472,3 +3476,11 @@ P.O. 21 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Los Ayuntamientos deberán emitir las disposiciones reglamentarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del mismo.
+
+P.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 174 POR EL QUE SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 72 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
