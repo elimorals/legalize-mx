@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2019-04-20"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -53,15 +53,21 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
 La presente ley es de orden público e interés general, y tiene por objeto regular la estructura y atribuciones de los Servidores Públicos que integran el Poder Judicial del Estado, quienes se regirán por los principios rectores de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 2.
 
-El ejercicio de la función jurisdiccional del Estado de Baja California Sur se deposita en el Tribunal Superior de Justicia, Magistrados y Jueces del Fuero Común, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Baja California Sur, de manera independiente y autónoma.
+El ejercicio de la función jurisdiccional del Estado de Baja California Sur se deposita en el Tribunal Superior de Justicia, Magistradas y Magistrados, Juezas y Jueces del Fuero Común, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Baja California Sur, de manera independiente y autónoma.
 
 El Pleno del Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial.
 
-El representante legal del Poder Judicial, es el Magistrado Presidente del Tribunal Superior de Justicia.
+> <small>(REFORMADO TERCER PÁRRAFO, 14 DE DICIEMBRE DE 2021)</small>
 
-Corresponde al Tribunal Superior de Justicia, Magistrados y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente señale la Constitución Política de los Estados Unidos Mexicanos y la (sic) Leyes que de ella emanen.
+El representante legal del Poder Judicial, es la Magistrada o el Magistrado Presidente del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO CUARTO PÁRRAFO, 14 DE DICIEMBRE DE 2021)</small>
+
+Corresponde al Tribunal Superior de Justicia, Magistradas y Magistrados, Juezas y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente señale la Constitución Política de los Estados Unidos Mexicanos y la (sic) Leyes que de ella emanen.
 
 El Poder Judicial contará con un Consejo de la Judicatura, el cual será un órgano con independencia técnica y de gestión, así como para emitir sus resoluciones, que estará encargado de la administración, vigilancia, disciplina y carrera judicial del Poder Judicial, con excepción del Tribunal Superior de Justicia, en la forma y términos que señalan la Constitución Política de la Entidad y la presente ley.
 
@@ -99,9 +105,21 @@ II. Tribunal: Al Tribunal Superior de Justicia del Estado de Baja California Sur
 
 III. Pleno del Tribunal: Al Pleno del Tribunal Superior de Justicia del Estado;
 
-IV. Consejo: Al Consejo de la Judicatura; y
+> <small>(REFORMADA, 14 DE DICIEMBRE DE 2021)</small>
 
-V. Pleno del Consejo: Al Pleno del Consejo de la Judicatura.
+IV. Consejo: Al Consejo de la Judicatura;
+
+> <small>(REFORMADA, 14 DE DICIEMBRE DE 2021)</small>
+
+V. Pleno del Consejo: Al Pleno del Consejo de la Judicatura;
+
+> <small>(ADICIONADA, 14 DE DICIEMBRE DE 2021)</small>
+
+VI. Magistrados: A Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Baja California Sur; y
+
+> <small>(ADICIONADA, 14 DE DICIEMBRE DE 2021)</small>
+
+VII. Jueces: A Juezas y Jueces del Poder Judicial del Estado de Baja California Sur.
 
 ###### Artículo 5.
 
@@ -169,7 +187,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia, Diputado Local o Presidente Municipal durante el año previo al día de la designación.
 
-Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+> <small>(REFORMADO SEGUNDO PÁRRAFO, 14 DE DICIEMBRE DE 2021)</small>
+
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, y deberá observarse el principio de paridad de género para su designación.
 
 ###### Artículo 10.
 
@@ -1323,9 +1343,11 @@ La administración, vigilancia, disciplina y carrera judicial del Poder Judicial
 
 El Consejo de la Judicatura velará, en todo momento, por la autonomía de los órganos del Poder Judicial y por la independencia e imparcialidad de sus miembros.
 
+> <small>(REFORMADO, 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 89.
 
-El Consejo de la Judicatura tendrá su sede en la ciudad de La Paz y ejercerá sus atribuciones en todo el territorio del Estado. El pleno será su máximo órgano de decisión.
+El Consejo de la Judicatura tendrá su sede en la ciudad de La Paz y ejercerá sus atribuciones en todo el territorio del Estado. El pleno será su máximo órgano de decisión. Para su integración se deberá observar el principio de la paridad de género.
 
 ###### Artículo 90.
 
@@ -1511,9 +1533,11 @@ VII. Presentar proyectos de resolución al Pleno del Consejo, en las quejas, den
 
 VIII. Las demás que establezcan el Reglamento Interno y los Acuerdos del Pleno del Consejo.
 
+> <small>(REFORMADO, 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 109.
 
-La Comisión de Carrera Judicial velará porque el ingreso y promoción de los servidores públicos del Poder Judicial, se efectúe mediante el sistema de la carrera judicial, que se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad; Para este efecto supervisará la operación de la Escuela Judicial.
+La Comisión de Carrera Judicial velará porque el ingreso y promoción de los servidores públicos del Poder Judicial, se efectúe mediante el sistema de la carrera judicial, que se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia, antigüedad y el principio de paridad de género. Para este efecto supervisará la operación de la Escuela Judicial.
 
 ###### Artículo 110.
 
@@ -1575,7 +1599,9 @@ X. Las demás que le confieran el Reglamento y los Acuerdos emitidos por el Plen
 
 Son atribuciones del Consejo de la Judicatura:
 
-I. Con excepción de los Magistrados; nombrar a los Jueces, y demás servidores públicos del Poder Judicial que señale la Ley y permita el presupuesto, así como tomar su protesta de ley, sin expresar en los nombramientos respectivos la jurisdicción territorial en que deban ejercer sus funciones.
+> <small>(REFORMADA, 14 DE DICIEMBRE DE 2021)</small>
+
+I. Con excepción de Magistradas y Magistrados; nombrar a Jueces, y demás servidores públicos del Poder Judicial que señale la Ley y permita el presupuesto, observando el principio de paridad de género, así como tomar su protesta de ley, sin expresar en los nombramientos respectivos la jurisdicción territorial en que deban ejercer sus funciones.
 
 Tratándose del nombramiento de Jueces, la protesta constitucional, se tomará conjuntamente con el Pleno del Tribunal;
 
@@ -4072,3 +4098,11 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE DICIEMBRE DE 2021.
+
+(N. DE E. TRANSITORIOS DEL "DECRETO 2720 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
