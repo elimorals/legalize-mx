@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2021-07-06"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -119,19 +119,23 @@ El Estado garantizará y promoverá el acceso a la sociedad de la información y
 
 Toda persona tiene derecho a la cultura; a participar libremente en la vida cultural de la comunidad; a preservar y desarrollar su identidad; a acceder y participar en cualquier manifestación artística y cultural; a elegir pertenecer a una comunidad cultural; al disfrute de los bienes y servicios que presta el Estado en la materia; a conocer, preservar, fomentar y desarrollar su patrimonio cultural, así como al ejercicio de sus derechos culturales en condiciones de igualdad.
 
-(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
-(REFORMADO, P.O. 28 DE JULIO DE 2015) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
-(REFORMADO, P.O. 29 DE ABRIL DE 2004) (REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las leyes reglamentarias, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
 
@@ -2089,47 +2093,73 @@ VI. No haber sido Secretario de Estado, Fiscal General de la República, Senador
 
 VII. Realizar y aprobar las evaluaciones correspondientes, en los términos de esta Constitución y la ley.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Art. 60.
 
-Para la elección de los magistrados del Supremo Tribunal de Justicia, se estará a lo siguiente:
+Para la elección de las y los magistrados del Supremo Tribunal de Justicia se estará a lo siguiente:
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 I. El Congreso del Estado emitirá convocatoria pública abierta a la sociedad en general;
 
-II. El Congreso del Estado recibirá las solicitudes y los expedientes de los aspirantes, cubriendo los requisitos que establece la Constitución y acompañando la acreditación de la evaluación de control de confianza, realizada por la institución precisada en la convocatoria;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-III. Cerrado el registro de los aspirantes, el Congreso del Estado remitirá al Comité de Participación Social del Sistema Anticorrupción del Estado, copia de los expedientes de los aspirantes, para que practique las evaluaciones curriculares y de aptitudes y elabore un informe con sus opiniones técnicas de idoneidad de cada aspirante, el cual deberá ser remitido al Congreso del Estado;
+II. El Congreso del Estado recibirá las solicitudes y los expedientes de las y los aspirantes, cubriendo los requisitos que establece la Constitución y acompañado (sic) la acreditación de la evaluación de control de confianza, realizada por la institución precisada en la convocatoria;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. Cerrado el registro de las y los aspirantes, el Congreso del Estado remitirá al Comité de Participación Social del Sistema Anticorrupción del Estado, copia de los expedientes de las y los aspirantes, para que practique las evaluaciones curriculares y de aptitudes y elabore un informe con sus opiniones técnicas de idoneidad de cada aspirante, el cual deberá ser remitido al Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 IV. El Congreso del Estado, a través de la comisión legislativa competente, realizará una entrevista pública a cada aspirante, a la cual se invitará al Comité de Participación Social para que participe en la misma;
 
-V. Los aspirantes deberán acreditar un examen teórico práctico de conocimientos jurídicos, para lo cual el Congreso del Estado a través de la comisión legislativa competente deberá solicitar el apoyo a instituciones de educación superior públicas y privadas, y/o a organismos especializados en evaluación, con el seguimiento y vigilancia de representantes de organismos privados y de la sociedad civil;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-VI. La comisión legislativa competente debe emitir el dictamen con la lista de los candidatos que hayan cumplido con los requisitos y aprobado las evaluaciones a que se refieren la fracciones II y V de este artículo, acompañando la opinión técnica del Comité de Participación Social; y
+V. Las y los aspirantes deberán acreditar un examen teórico práctico de conocimientos jurídicos, para lo cual el Congreso del Estado a través de la comisión legislativa competente deberá solicitar a instituciones de educación superior públicas y privadas, y/o a organismos especializados en evaluación, con el seguimiento y vigilancia de representantes de organismos privados y de la sociedad civil;
 
-VII. El Congreso del Estado, en votación por cédula, y con el voto de cuando menos las dos terceras partes de los diputados integrantes, elegirá dentro de un término improrrogable de treinta días una vez que sea entregado el dictamen por parte de la comisión legislativa competente, al Magistrado que debe cubrir la vacante, en caso de declararse desierta la convocatoria, se procederá a emitir una nueva convocatoria, pudiendo participar aquellos aspirantes registrados dentro de la convocatoria previa.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VI. La comisión legislativa competente debe emitir el dictamen con la lista de las y los candidatos que hayan cumplido con los requisitos y aprobado las evaluaciones a que se refieren la fracciones II y V de este artículo, acompañando la opinión técnica del Comité de Participación Social;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+VII. El Congreso del Estado, en votación por cédula, y con el voto de cuando menos las dos terceras partes de las y los diputados integrantes; elegirá dentro de un término improrrogable de treinta días una vez que sea entregado el dictamen por parte de la comisión legislativa competente, al Magistrado que debe cubrir la vacante, en caso de declararse desierta la convocatoria, se procederá a emitir una nueva convocatoria, pudiendo participar aquellas y aquellos aspirantes registrados dentro de la convocatoria previa.
 
 Se declarará desierta la convocatoria cuando:
 
-a) No se elija al Magistrado dentro del plazo señalado en la fracción anterior, o
+a) No se elija a la Magistrada o Magistrado dentro del plazo señalado en la fracción anterior, o
 
-b) Después de tres votaciones ningún candidato alcance la mayoría requerida, debiendo mediar al menos cinco días naturales entre cada votación, pero siempre dentro del plazo anterior.
+b) Después de tres votaciones ninguna candidata o candidato alcancen la mayoría requerida, debiendo mediar al menos cinco días naturales entre cada votación, pero siempre dentro del plazo anterior.
 
-El Congreso del Estado elige con libertad soberana a los magistrados, en igualdad de circunstancias, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezca por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Los diputados emitirán su voto libre y secreto, en cualquier sentido de los que prevea la ley, sin que su voto esté condicionado por lo señalado en el párrafo anterior.
+VIII. El Congreso del Estado elige con libertad soberana a las magistradas y magistrados, en igualdad de circunstancias, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezca (sic) por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica;
 
-En la designación de magistrados será obligatorio observar el principio de alternancia para la paridad de género.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+IX. Las y los diputados emitirán su voto libre y secreto, en cualquier sentido de los que prevea la ley, sin que su voto esté condicionado por lo señalado en el párrafo anterior; y
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+X. En la designación de magistradas y magistrados será obligatorio observar el principio de alternancia para la paridad de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Art. 61.
 
-Los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo doce años improrrogables, contados a partir de la fecha en que rindan protesta de ley.
+Las y los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo doce años improrrogables, contados a partir de la fecha en que rindan protesta de ley.
 
-Los magistrados solo podrán ser removidos de sus cargos en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
-Los magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria.
+Las y los magistrados solo podrán ser removidos de sus cargos en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Las y los magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 Son causas de retiro forzoso:
 
@@ -2933,13 +2963,17 @@ Asimismo, podrá ordenarse la suspensión de actividades, disolución o interven
 
 La Auditoría Superior del Estado y los Órganos Internos de Control, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, en los términos que establezca la legislación aplicable.
 
-III. La Contraloría del Estado es el Órgano Interno del Control del Poder Ejecutivo del Estado y estará facultada por sí o a través de los órganos internos de control de la Administración Pública Centralizada y Paraestatal, para prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del Poder Ejecutivo; resolver las faltas administrativas no graves y remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+III. La Contraloría del Estado es el Órgano Interno del Control del Poder Ejecutivo del Estado, contará con autonomía técnica y de gestión, estará facultada por sí o a través de los órganos internos de control de la Administración Pública Centralizada y Paraestatal, para prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del Poder Ejecutivo; resolver las faltas administrativas no graves y remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución.
 
 La Contraloría del Estado podrá ejercer de oficio la facultad de atracción respecto de las investigaciones y procedimientos de responsabilidad administrativa que lleven los órganos internos de control de la Administración Pública Centralizada y Paraestatal, cuando el interés y trascendencia del asunto lo ameriten.
 
 La Contraloría del Estado podrá designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal; así como auditores externos en los casos en que la Ley así lo prevea.
 
-IV. Los entes públicos municipales así como los organismos a los que esta Constitución les otorga autonomía, tendrán órganos internos de control encargados de prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del respectivo ente; para resolver las faltas administrativas no graves y para remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución, de conformidad con los procedimientos que establezcan las leyes generales y locales de la materia, así como para revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos. Los órganos internos de control señalados estarán facultados para presentar ante la Fiscalía Especializada en Combate a la Corrupción las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+IV. Los entes públicos municipales así como los organismos a los que esta Constitución les otorga autonomía, tendrán órganos internos de control, los cuales gozarán de autonomía técnica y de gestión; encargados de prevenir, corregir, investigar y substanciar las faltas administrativas en que incurran los servidores públicos del respectivo ente; para resolver las faltas administrativas no graves y para remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa para su resolución, de conformidad con los procedimientos que establezcan las leyes generales y locales de la materia, así como para revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos. Los órganos internos de control señalados estarán facultados para presentar ante la autoridad correspondiente, Fiscalía Especializada en Combate a la Corrupción las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
 
 Los titulares de los órganos internos de control de aquellos organismos públicos que esta Constitución otorga autonomía y ejerzan recursos del Presupuesto del Estado deberán cumplir con los mismos requisitos que esta Constitución establece para ser titular de la Auditoría Superior del Estado y durarán en su cargo cuatro años, sin posibilidad de reelección.
 
@@ -3125,11 +3159,11 @@ Los períodos, plazos y términos que establece esta Constitución, corresponden
 
 Ninguna autoridad impondrá préstamos forzosos, ni las dependencias harán gasto alguno que no conste en los presupuestos o que no sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que la manden, como a los servidores públicos que la obedezcan.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Art. 116.
 
-Las relaciones laborales del Estado, de los municipios y de los organismos descentralizados de ambos con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la que deberá establecer el servicio civil de carrera, respetando las disposiciones del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
+Las relaciones laborales del Estado, de los municipios, de los organismos descentralizados, los entes públicos de los tres poderes y organismos constitucionalmente autónomos con sus servidores públicos, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la que deberá establecer el servicio profesional de carrera, así como un sistema de profesionalización del servicio público, respetando las disposiciones del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias, lo que garantizará la eficiencia, eficacia y rendimiento de aquellos servidores públicos profesionales, de conformidad con lo establecido por la Ley de Designaciones Públicas y del Servicio Profesional de Carrera del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -4230,3 +4264,19 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28326/LXII/21 QUE REFORMA LOS ARTÍCULOS 62 FRACCIÓN X, RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES Y EL 64, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28374/LXII/21 QUE REFORMA EL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, ASÍ COMO EL ACUERDO LEGISLATIVO 142/LXIII/21 EN EL QUE SE DECLARA APROBADO DICHO DECRETO CONFORME AL ARTÍCULO 117 DE LA PROPIA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28437/LXII/21 QUE REFORMA LOS ARTÍCULOS 60, 61, 106 Y 116 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO 143/LXIII/21 EN EL QUE SE DECLARA APROBADO DICHO DECRETO CONFORME AL ARTÍCULO 117 DE LA PROPIA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para efectos de la reforma constitucional envíese a los municipios del estado de Jalisco para su aprobación constitucional de conformidad al artículo 117 del mismo ordenamiento.
+
+TERCERO. Se otorga un plazo de 365 días hábiles para que se realicen las reformas, modificaciones y armonizaciones necesarias para el debido cumplimiento del presente dictamen de decreto.
