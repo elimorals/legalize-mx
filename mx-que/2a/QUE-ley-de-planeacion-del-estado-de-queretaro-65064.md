@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-planeacion-del-estado-de-queretaro-65064"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2021-10-08"
+last_updated: "2021-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -187,9 +185,11 @@ Los programas institucionales deberán permitir atender los requerimientos de al
 
 Los programas institucionales promoverán la transversalidad y la perspectiva de familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 15.
 
-Se entenderá como planeación municipal, al proceso por el cual se formularán, instrumentarán y evaluarán el Plan Municipal de Desarrollo y los programas que de éste se deriven.
+Se entenderá como planeación municipal, al proceso por el cual se formularán, instrumentarán y evaluarán el Plan Municipal de Desarrollo y los programas que de éste se deriven, entre ellos, los Programas de Desarrollo Regional y Desarrollo Metropolitano.
 
 El proceso de planeación municipal deberá llevarse a cabo a través de los organismos de coordinación institucional y participación social que señale la respectiva ley que establezca las bases generales para la organización municipal y demás normatividad sobre la materia.
 
@@ -559,25 +559,29 @@ En dichos Planes se dará estricta observancia al principio de estabilidad de la
 
 Al Comité de Planeación para el Desarrollo Municipal, corresponderá la elaboración del Plan Municipal de Desarrollo respectivo y al ayuntamiento tocará su estudio y aprobación.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 47.
 
-El Plan Municipal de Desarrollo tendrá una duración de tres años y comprenderá los objetivos y estrategias generales, criterios o líneas de acción, así como indicadores y metas vinculadas a los indicadores, a fin de que exprese con claridad los propósitos y prioridades para el desarrollo integral del municipio.
+El Plan Municipal de Desarrollo tendrá una duración de tres años, y comprenderá los objetivos y estrategias generales, criterios o líneas de acción, así como indicadores y metas vinculadas a los indicadores, pudiendo contener consideraciones y proyecciones a largo plazo, a fin de que exprese con claridad los propósitos y prioridades para el desarrollo integral del municipio.
 
 ###### Artículo 48.
 
 Del Plan Municipal de Desarrollo se derivarán los programas de las dependencias que conformen el gobierno municipal.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+
+Los Municipios podrán formular Programas de Desarrollo Regional y de Desarrollo Metropolitano, según sea el caso, siempre que estén alineados al Plan Estatal de Desarrollo, los cuales podrán contener consideraciones y proyecciones a largo plazo.
+
 ###### Artículo 49.
 
 A las dependencias municipales tocará la elaboración de dichos programas, al Comité de Planeación para el Desarrollo Municipal su revisión y al ayuntamiento su aprobación.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 50.
 
-El Presidente Municipal presentará el Plan Municipal de Desarrollo a más tardar el 31 de diciembre del año en que inicie su gestión.
+El Presidente Municipal presentará el Plan Municipal de Desarrollo a más tardar el 31 de marzo del año en que inicie su gestión, el cual se publicará en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 ###### Artículo 51.
 
@@ -1074,3 +1078,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 14 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
