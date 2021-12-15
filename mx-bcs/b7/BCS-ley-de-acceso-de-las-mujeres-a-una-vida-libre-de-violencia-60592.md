@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2021-12-14"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -134,6 +134,10 @@ XVIII. Misoginia: Conductas de odio hacia la mujer y se manifiesta en actos viol
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
 XIX. CIBERESPACIO.- Ámbito artificial creado por medios informáticos.
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+XX. BANEVIM-BCS: Al Banco Estatal de Datos e Información sobre Casos de Violencia Contra las Mujeres, el cual se integrará principalmente de casos o incidencia de violencia contra las mujeres, trámites, órganos competentes, regionalización, frecuencia, edad, número de víctimas, tipos y modalidades de violencia, causas, características, efectos, recursos asignados o erogados, investigaciones y estudios en la materia, y medidas de prevención, atención y erradicación y las evaluaciones de las mismas, y que podrá servir como elemento para acreditar la integración o procedencia de la Alerta de Violencia contra las Mujeres. El uso y disposición de la información que integre el Banco Estatal de Datos e Información sobre Casos de Violencia Contra las Mujeres, quedará sujeto a lo previsto por las leyes en materia de acceso a la información;
 
 ## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES
 
@@ -717,13 +721,13 @@ Las autoridades competentes de los tres órdenes de gobierno, que reciban denunc
 
 ### CAPÍTULO PRIMERO. INTEGRACIÓN
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-El Estado y los Municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+El Estado y los Municipios, se coordinarán para la integración y funcionamiento del Sistema Estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres. Los integrantes del Sistema Estatal deberán proporcionar oportunamente la información requerida para la integración del BANEVIM-BCS.
 
-Todas las medidas que lleve a cabo el Sistema deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
+Todas las medidas que lleve a cabo el Sistema Estatal deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -755,7 +759,9 @@ V.- Secretaría de Promoción y Desarrollo Económico
 
 VI.- Secretaría del Trabajo y Previsión Social
 
-VII.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+VII.- La Secretaria de Seguridad Pública del Estado de Baja California Sur.
 
 VIII.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
 
@@ -869,9 +875,9 @@ XXII. Revisar y evaluar la eficacia de las acciones, las políticas públicas, l
 
 XXIII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-XXIV. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
+XXIV. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas; y ponerlas a disposición oportunamente al BANEVIM-BCS. Así como, nombrar Enlace Institucional dentro de la Secretaría de Seguridad Pública del Estado de Baja California Sur para representar al Estado ante el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 > <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -919,7 +925,9 @@ XI. Asegurar que mejore la calidad de atención, que se preste a las mujeres afe
 
 XII. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
 
-XIII. Proporcionar al Sistema Estatal y Nacional así como a cualquier persona o dependencia, la información materia de estadística, en los términos de la Ley Estatal de Transparencia y Acceso a la Información Pública; y
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+XIII. Proporcionar al BANEVIM-BCS, al Sistema Estatal y Nacional, así como a cualquier persona o dependencia, la información materia de estadística, en los términos de la Ley Estatal de Transparencia y Acceso a la Información Pública; y
 
 XIV. Capacitar al personal del sector salud con la finalidad de que detecten la violencia contra las mujeres; proporcionando la siguiente información:
 
@@ -932,6 +940,10 @@ c. El tipo de violencia que se atendió;
 d. Los efectos producidos por la violencia; y
 
 e. Los recursos erogados en la atención médica.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+f. Casos de violencia obstétrica y morbilidad materna.
 
 XV. Celebrar convenios de cooperación en la materia con los municipios e instituciones públicas y privadas de educación; y
 
@@ -971,17 +983,21 @@ V. Promover las órdenes de protección que correspondan a favor de las mujeres.
 
 VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-VII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+VII. Crear un registro público sistemático en coordinación con el BANEVIM-BCS, de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
 > <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, homicidio agravado por feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente ley.
+IX. Establecer, en todos los órganos y unidades a su cargo, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del BANEVIM-BCS;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+X. Las demás previstas para el cumplimiento de la presente ley.
 
 #### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
@@ -1047,6 +1063,32 @@ IX. Realizar una página de Internet específica en la cual se encuentren los da
 
 X. Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 32 Bis.
+
+Corresponde a la Secretaría de Seguridad Pública del Estado de Baja California Sur:
+
+I. Diseñar con visión transversal, la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+
+II. Capacitar en los términos de la presente ley, al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
+
+III. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+IV. Establecer acciones y medidas que se deberán tomar para la reeducación e reinserción social de las personas;
+
+V. Implementar y mantener actualizado el Banco Estatal de Datos e Información sobre Casos de Violencia Contra las Mujeres, BANEVIM-BCS; en el que se integren, además de los casos correspondientes, las investigaciones realizadas por los sectores público, social, académico y privado sobre las causas, características y consecuencias de la violencia contra las mujeres, las medidas de prevención, atención y erradicación y las evaluaciones de las mismas, así como la información que generen las instituciones encargadas de promover, en el Estado, los derechos humanos de las mujeres; así como contar con el Enlace Institucional para representar al Estado ante el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+VI. Ejecutar y dar seguimiento a las acciones del programa que le correspondan;
+
+VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del sistema estatal y del programa;
+
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+IX. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse en forma permanente; y
+
+X. Las demás previstas para el cumplimiento de la presente ley
+
 #### SECCIÓN SEXTA. DE LA SECRETARÍA DE PROMOCIÓN Y DESARROLLO ECONÓMICO
 
 > <small>(F. DE E., B.O. 20 DE AGOSTO DE 2008)</small>
@@ -1077,7 +1119,9 @@ I. Realizar en el ámbito de su respectiva competencia, las acciones y programas
 
 II. Establecer en todos los centros a su cargo, las bases para un sistema de registro de información estadística en materia de violencia contra las mujeres, utilizando la metodología que para el efecto determine el Instituto Sudcaliforniano de las Mujeres;
 
-III. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres proporcionando la información y datos estadísticos que requieran para el debido cumplimiento, de conformidad con la Ley de (sic) Estatal de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+III. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres y al BANEVIM-BCS proporcionando la información y datos estadísticos que requieran para el debido cumplimiento, de conformidad con la Ley de (sic) Estatal de Transparencia y Acceso a la Información Pública;
 
 IV. Sensibilizar y concientizar a las personas usuarias de las instituciones a su cargo, sobre la violencia contra las mujeres y proporcionarles información para prevenirla;
 
@@ -1091,7 +1135,17 @@ VIII. Solicitar la tutela, guarda y custodia a favor de cualquier persona que te
 
 IX. Adecuar o crear modelos de atención que favorezcan el empoderamiento de las mujeres afectadas y reparen el daño causado por la violencia, acorde con los lineamientos señalados en esta Ley.
 
-X. Las demás previstas para el cumplimiento de la presente Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+X. Establecer en todos los centros, refugios y unidades a su cargo, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del BANEVIM-BCS.
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+XI. Establecer, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del BANEVIM-BCS, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+XII. Las demás previstas para el cumplimiento de la presente Ley y otras disposiciones aplicables.
 
 #### SECCIÓN OCTAVA. DEL PODER LEGISLATIVO
 
@@ -1113,15 +1167,25 @@ IV. Aplicar la perspectiva de género de manera transversal en sus actividades.
 
 Son obligaciones del Poder Judicial del Estado:
 
-I. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y del acceso de las mujeres a la justicia y a la aplicación de la presente Ley;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+I. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y del acceso de las mujeres a la justicia y a la aplicación de la presente Ley; que deberán integrarse en el BANEVIM-BCS;
 
 II. Crear una instancia que institucionalice la perspectiva de género en la administración e impartición de justicia, en el Poder Judicial;
 
 III. Impulsar la especialización en violencia de género contra las mujeres, en Derechos Humanos de las mujeres y en la materia de esta Ley, al personal encargado de la impartición de justicia;
 
-IV. Informar sobre los procedimientos judiciales en materia de violencia en contra de las mujeres; y
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-V. Las demás que le confiera esta Ley.
+IV. Informar sobre los procedimientos judiciales en materia de violencia en contra de las mujeres; dicha información deberá integrarse en el BANEVIM-BCS; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+V. Establecer, en todos los órganos y unidades a su cargo, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del BANEVIM-BCS;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+VI. Las demás que le confiera esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2014)</small>
 
@@ -1137,9 +1201,9 @@ I.- Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titul
 
 II.- Ejecutar los acuerdos aprobados por los integrantes del Sistema Estatal;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-III.- Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los casos de violencia contra las mujeres, por Municipios;
+III.- Organizar en coordinación con la Secretaria de Seguridad Pública del Estado de Baja California Sur, y mantener actualizado el Banco Estatal de Datos e Información sobre Casos de Violencia Contra las Mujeres, BANEVIM-BCS, por Municipios;
 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -1169,9 +1233,9 @@ XIII.- Canalizar a las mujeres violentadas a las instituciones para que les otor
 
 XIV.- Coadyuvar con las instituciones privadas dedicadas a prestar asistencia y protección a las mujeres afectadas de violencia;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-XV.- Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación y la información derivada de cada una de las instituciones encargadas de promover los derechos fundamentales de las mujeres en el Estado y Municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia; sirviendo además en la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+XV.- Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación y la información derivada de cada una de las instituciones encargadas de promover los derechos fundamentales de las mujeres en el Estado y Municipios. Los resultados de dichas investigaciones serán concentrados en el BANEVIM-BCS y dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia; sirviendo además en la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 XVI.- Establecer una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres en materia de violencia;
 
@@ -1255,6 +1319,10 @@ XII. Participar y coadyuvar en la prevención, atención y erradicación de la v
 
 XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
 
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+XIV. Informar al BANEVIM-BCS la información estadística pertinente y la atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN DÉCIMO SEGUNDA. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
@@ -1273,7 +1341,9 @@ I. Establecer las políticas públicas transversales y con perspectiva de géner
 
 II. Vigilar el respeto de los derechos laborales de las mujeres y hombres propiciando la igualdad de oportunidades y la no discriminación de mujeres y hombres en materia de trabajo y previsión social;
 
-III. Establecer mecanismos para erradicar el hostigamiento y el acoso sexual a las mujeres en los centros laborales;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+III. Establecer mecanismos para erradicar el hostigamiento y el acoso sexual a las mujeres en los centros laborales; e informar permanentemente al BANEVIM-BCS sobre los casos de que se tenga registro, mediante el mecanismo que establezca el Instituto Sudcaliforniano de la Mujer.
 
 IV. Denunciar ante la Contraloría General, a los servidores públicos que resulten responsables de violencia en contra de mujeres;
 
@@ -1291,9 +1361,9 @@ VII. Promover la cultura de respeto a los derechos humanos de las mujeres en el 
 
 VIII. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
+IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y de información al BANEVIM-BCS; y
 
 > <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -1371,7 +1441,9 @@ VIII. Vigilar que los medios de comunicación no fomenten la violencia contra la
 
 IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-X. Publicar periódicamente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco de Datos e Información sobre Casos de Violencia contra las Mujeres;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+X. Publicar periódicamente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, BANEVIM-BCS;
 
 XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
@@ -1431,7 +1503,25 @@ III. Proporcionar a las víctimas, la atención médica, psicológica y jurídic
 
 IV. Proporcionar un refugio seguro a las víctimas; y
 
-V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+V. Informar a la autoridad competente y al BANEVIM-BCS de los casos de violencia que ocurran en los centros educativos
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+VI. Ejecutar y dar seguimiento a las acciones del programa que le correspondan;
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del sistema estatal y del programa;
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+
+IX. Las demás previstas para el cumplimiento de la presente ley.
 
 ###### ARTÍCULO 42.
 
@@ -1654,3 +1744,11 @@ B.O. 14 DE DICIEMBRE DE 2021.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 15 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2759 SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- Se derogan todas las disposiciones contrarias al contenido del presente decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
