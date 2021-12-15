@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-11-30"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -289,7 +289,9 @@ XII. DECIMOSEGUNDO CIRCUITO:
 
 2. Tres tribunales unitarios: dos con sede en Mazatlán y uno con residencia en Culiacán.
 
-3. Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 22/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2021)</small>
+
+3. Once juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y cuatro en Mazatlán, uno de éstos en materia mercantil federal.
 
 4. (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)
 
@@ -369,9 +371,9 @@ XVIII. DECIMOCTAVO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Cuernavaca.
 
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 52/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ENERO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 26/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2021)</small>
 
-3. Nueve Juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
+3. Diez Juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
 
 XIX. DECIMONOVENO CIRCUITO:
 
@@ -8686,3 +8688,27 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. Las (sic) Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Quinto de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Quinto de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo.
+
+D.O.F. 15 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 22/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN MAZATLÁN; ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones. Asimismo, la Coordinación de Administración Regional apoyará para el traslado de los asuntos que corresponda conocer al órgano jurisdiccional de nueva creación.
+
+D.O.F. 15 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 26/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO DÉCIMO DE DISTRITO EN EL ESTADO DE MORELOS, CON RESIDENCIA EN CUERNAVACA, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Décimo de Distrito en el Estado de Morelos, con residencia en Cuernavaca, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Décimo de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
