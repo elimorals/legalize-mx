@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2021-04-09"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -417,11 +417,23 @@ X.- Establecer la organización y funcionamiento del Tribunal de Justicia Admini
 
 El Tribunal de Justicia Administrativa del Estado estará dotado de plena autonomía para dictar sus resoluciones y tendrá competencia para dirimir las controversias que se susciten entre los particulares y la administración pública estatal o municipal y para imponer, en los términos que disponga la Ley de la materia, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos, según corresponda.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
 
-El Tribunal se integrará hasta por siete Magistrados que durarán en su cargo quince años improrrogables y deberán reunir los requisitos que se señalen en la Ley.
+El Tribunal de Justicia Administrativa se organizará en un Pleno, una Junta de Gobierno y Administración, una Sala Especializada en materia de responsabilidades administrativas y las Salas que establezca el propio Pleno en los términos de la ley.
 
-Los Magistrados del Tribunal serán designados por el Gobernador del Estado y ratificados por el voto de la mayoría de los miembros presentes del Congreso del Estado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+El Pleno del Tribunal de Justicia Administrativa se compondrá por siete magistrados y será presidida por uno de sus miembros nombrado (sic) por mayoría simple de los mismos, por un período improrrogable de cuatro años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+La Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa se integrará por tres magistrados. Será presidida por uno de sus miembros, nombrado por mayoría simple de los mismos durante un periodo improrrogable de cuatro años. Resolverá de manera colegiada y ejercerá la competencia en materia de faltas administrativas graves y de las responsabilidades que se deriven de los daños y perjuicios en contra de las haciendas públicas estatal o municipales, así como sobre el patrimonio de los entes públicos de conformidad con la legislación correspondiente. Los magistrados que integren la Sala Especializada en materia de responsabilidades administrativas no integrarán el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+Los Magistrados del Tribunal durarán en su cargo quince años improrrogables y deberán reunir los requisitos que establece el artículo 89 de esta Constitución. Serán nombrados por el Gobernador del Estado, con la ratificación del Congreso del Estado por el voto de las dos terceras partes de los miembros presentes. La Ley preverá las reglas para el escalonamiento de los períodos de encargo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE DICIEMBRE DE 2021)</small>
 
 Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
 
@@ -1075,9 +1087,9 @@ XII.- Crear y suprimir empleos públicos, señalando, aumentando o disminuyendo 
 
 XIII.- Erigirse en Gran Jurado para resolver por el voto de las dos terceras partes de sus miembros, sobre el procedimiento de Juicio Político.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2021)</small>
 
-XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia a propuesta en terna del Ejecutivo; y ratificar por mayoría de los miembros presentes del Congreso a los Magistrados del Tribunal de Justicia Administrativa designados por el Ejecutivo del Estado, así como designar al integrante del Comité Consultivo del Consejo de la Judicatura del Poder Judicial del Estado que le corresponda;
+XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia a propuesta en terna del Ejecutivo; y ratificar por el voto de las dos terceras partes de los miembros presentes del Congreso a los Magistrados del Tribunal de Justicia Administrativa nombrados por el Ejecutivo del Estado, así como designar al integrante del Comité Consultivo del Consejo de la Judicatura del Poder Judicial del Estado que le corresponda;
 
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -2269,95 +2281,117 @@ Las participaciones que corresponden al Estado y a los Municipios en ingresos Fe
 
 La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos que establezca la ley, para hacer efectivos los créditos a su favor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 113.
 
-La Auditoría Superior del Estado, es la Unidad de Fiscalización, Control y Evaluación, dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes respectivas, el cual contará con las atribuciones siguientes:
+La Auditoría Superior del Estado es el órgano especializado del Congreso del Estado encargado de la función de fiscalización, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley. Su actuación se regirá por los principios de legalidad, definitividad, imparcialidad, profesionalidad y honradez.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+Para el control, vigilancia y evaluación del desempeño de la Auditoría Superior, el Congreso del Estado contará con una Unidad Técnica.
 
-I.- Fiscalizar los ingresos, egresos, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos de los Poderes del Estado, Ayuntamientos, organismos autónomos, entidades paraestatales y paramunicipales, organismos públicos desconcentrados, fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o Ayuntamientos y en general, cualquier persona física o jurídica, pública o privada, mandato, fondo y demás que por cualquier razón recauden, manejen, ejerzan, resguarden o custodien recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, tanto en el país como en el extranjero, y demás que formen parte de la cuenta pública, en términos de las disposiciones aplicables; asimismo, fiscalizará las acciones del Estado y Municipios en materia de fondos, recursos locales, deuda pública estatal y municipal, y las garantías que, en su caso, otorguen el Gobierno del Estado y los Municipios a sus entidades paraestatales o paramunicipales, según corresponda, así como el destino y ejercicio de los recursos obtenidos por estos financiamientos;
+La Auditoría Superior del Estado tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+I. Fiscalizar en forma posterior los ingresos, los egresos, el control, la administración, el manejo, la custodia y la aplicación de fondos, de bienes y de recursos de los Poderes del Estado, los Ayuntamientos, los organismos autónomos, las entidades paraestatales y los paramunicipales, los organismos públicos desconcentrados, los fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o Ayuntamientos y, en general, cualquier persona física o jurídica, pública o privada, mandato, fondo y demás que por cualquier razón recauden, manejen, ejerzan, resguarden o custodien recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, tanto en el país como en el extranjero, y demás que formen parte de la cuenta pública, en términos de las disposiciones aplicables.
 
-II.- Ejercer la función de fiscalización conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+Asimismo, fiscalizará las acciones del Estado y Municipios en materia de fondos, recursos locales, deuda pública estatal y municipal, y las garantías que, en su caso, otorguen el Gobierno del Estado y los Municipios a sus entidades paraestatales o paramunicipales, .según corresponda, así como el destino y ejercicio de los recursos obtenidos por estos financiamientos.
 
-La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, se referirán a la información definitiva presentada en la Cuenta Pública.
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
 
 La Auditoría Superior del Estado, podrá realizar revisiones preventivas conforme a la Ley respectiva.
 
-En los trabajos de planeación de auditorías y revisiones, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, en términos de las disposiciones aplicables.
+Para los efectos de los trabajos de planeación de las auditorías y demás revisiones que le competan, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, en términos de las disposiciones aplicables.
 
-La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejercicio y pago, diversos Ejercicios Fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales, municipales y demás de su competencia en términos de las disposiciones aplicables. Las observaciones y recomendaciones que, respectivamente, emita la Auditoría Superior del Estado, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la revisión de la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto fiscalizado comprenda diversos ejercicios fiscales para su ejecución o pago. Las observaciones y recomendaciones que, respectivamente, emita la Auditoría Superior del Estado, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-En los casos que determine la Ley, derivado de denuncias y previa autorización de su Titular, la Auditoría Superior del Estado podrá revisar durante el ejercicio fiscal en curso a los sujetos de revisión, así como respecto de ejercicios anteriores. Los sujetos de revisión proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. En estos supuestos, la Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada de Combate a la Corrupción o las autoridades competentes;
+En los casos que determine la Ley, derivado de denuncias y previa autorización de su Titular, la Auditoría Superior del Estado podrá revisar durante el ejercicio fiscal en curso a los sujetos de revisión, así como respecto de ejercicios anteriores. Los sujetos de revisión proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. En estos supuestos, la Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante la Sala Especializada del Tribunal de Justicia Administrativa, la Fiscalía Especializada de Combate a la Corrupción o las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+II. Llevar a cabo visitas domiciliarias, auditorías y compulsas, en las que podrá requerir la exhibición de los documentos físicos o digitales que resulten indispensables para el ejercicio de sus funciones de fiscalización e investigación, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-III.- Llevar a cabo visitas domiciliarias, auditorías y compulsas, en las que podrá requerir la exhibición de los documentos que resulten indispensables para el ejercicio de sus funciones de fiscalización e investigación;
+III. Establecer y difundir normas, procedimientos, métodos y sistemas técnicos, informáticos, contables, de evaluación del desempeño y de auditoría para la fiscalización de las Cuentas Públicas; así como formular observaciones y recomendaciones que sobre el particular procedan, a los sujetos de revisión;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+IV. Investigar, en ejercicio de la función de fiscalización, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita en el ingreso, egreso, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos estatales, municipales y demás de su competencia, de los Poderes del Estado, de los Ayuntamientos, de los organismos autónomos del Estado y demás sujetos de revisión establecidos en la legislación aplicable; y como resultado de estas investigaciones, substanciar y en su caso, promover las acciones que sean procedentes ante las instancias competentes, en términos de las disposiciones aplicables;
 
-IV.- Establecer y difundir normas, procedimientos, métodos y sistemas técnicos, informáticos, contables, de evaluación del desempeño y de auditoría para la fiscalización de las Cuentas Públicas; así como formular observaciones y recomendaciones que sobre el particular procedan, a los sujetos de revisión;
+V. Realizar auditorías en materia de desempeño en los términos que disponga la Ley;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+VI. Emitir resoluciones, imponer sanciones y medidas de apremio, en términos de la legislación aplicable;
 
-V.- Investigar, en ejercicio de la función de fiscalización, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita en el ingreso, egreso, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos estatales, municipales y demás de su competencia, de los Poderes del Estado, de los Ayuntamientos, de los organismos autónomos del Estado y demás sujetos de revisión establecidos en la legislación aplicable; y como resultado de estas investigaciones, substanciar y en su caso, promover las acciones que sean procedentes ante las instancias competentes, en términos de las disposiciones aplicables;
+VII. Promover las acciones de responsabilidad ante las autoridades competentes, y presentar las denuncias y querellas penales para la imposición de sanciones que corresponda a los servidores públicos estatales, municipales y a los particulares, en cuyos procedimientos tendrá la intervención que señale la Ley; y
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+VIII. Las demás que deriven de esta Constitución, su Ley y otras disposiciones legales aplicables en la materia.
 
-VI.- Realizar auditorías sobre el desempeño en los términos que disponga la Ley;
+El Titular de la Auditoría Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura Estatal, de la terna que se derive de la Convocatoria que emita para tal efecto el Órgano de Gobierno del Congreso del Estado, debiendo contar los aspirantes con experiencia de, al menos, cinco años en materia de fiscalización, auditoría, responsabilidades, control interno, evaluación del desempeño u otros equivalentes.
 
-VII.- (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2016)
+El Titular de la Auditoría Superior del Estado, será nombrado por un periodo de siete años. Podrá ser ratificado por una sola vez para un periodo igual, de acuerdo con las disposiciones de la Ley de la materia.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+La ley respectiva determinará los requisitos que debe cumplir el Titular de la Auditoría Superior. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión; salvo las no remuneradas, docentes, artísticas, de beneficencia y en asociaciones científicas.
 
-VIII.- Emitir resoluciones, imponer sanciones y medidas de apremio, en términos de la legislación aplicable;
+No podrán ejercer el cargo de Titular de la Auditoría Superior del Estado quienes, dentro de los tres años anteriores al nombramiento, hubiesen fungido como Gobernador del Estado; titular de alguna dependencia o entidad del gobierno federal o local, con excepción de los órganos responsables del control interno; Senador; Diputado Federal o Local; Ministro, Magistrado o Juez del Poder Judicial Federal o del Estado; Presidente Municipal o dirigente de partido político nacional o local, así como quienes hubiesen sido postulados para cualquier cargo de elección popular durante el año previo a la emisión de la convocatoria respectiva.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+El Titular de la Auditoría Superior del Estado podrá ser removido, exclusivamente, por causa grave, con la misma votación requerida para su nombramiento y a través del procedimiento especial que prevea la ley del Congreso, así como en términos de lo previsto por el Título Noveno de esta Constitución.
 
-IX.- Promover las acciones de responsabilidad ante las autoridades competentes, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley; y
+Para efectos del párrafo anterior, se entiende como causa grave:
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+I. Contravenir los principios a los que se debe ajustar la función de fiscalización conforme a esta Constitución y la Constitución Política de los Estados Unidos Mexicanos;
 
-X.- Las demás que deriven de esta Constitución, su Ley y otras disposiciones legales aplicables en la materia.
+II. No satisfacer los requisitos o actualizar los supuestos de prohibición establecidos en el presente artículo;
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+III. Ausentarse de sus labores por más de un mes sin que medie autorización del Congreso;
 
-El Titular de la Auditoría Superior del Estado, será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura Estatal, de la terna que se derive de la Convocatoria que emita para tal efecto el Órgano de Gobierno del Congreso del Estado, debiendo contar los aspirantes con experiencia de al menos cinco años en materia de control, auditoría financiera y de responsabilidades.
+IV. Abstenerse de presentar en el año correspondiente, sin causa justificada, los informes previstos en la ley;
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+V. Conducirse con parcialidad o aceptar la injerencia de los partidos políticos en el ejercicio (sic) la función de fiscalización, en el proceso de revisión de la Cuenta Pública, así como en los procedimientos de fiscalización y de imposición de sanciones;
 
-El Titular de la Auditoría Superior del Estado, será nombrado por un periodo de siete años; pudiendo ser ratificado por una sola vez para un periodo igual, de acuerdo a las disposiciones de la Ley de la materia y podrá ser removido exclusivamente, conforme a lo previsto en los artículos 125 fracción II y 127 de esta Constitución.
+VI. Obtener, sin justificación, una evaluación del desempeño no satisfactoria, a juicio del Congreso, durante dos ejercicios consecutivos;
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+VII. Incurrir en cualquiera de las conductas consideradas como faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas; y
 
-La ley respectiva determinará los requisitos que debe cumplir el Titular de la Auditoría Superior. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión; salvo las no remunerables, docentes, artísticas, de beneficencia y en asociaciones científicas.
+VIII. Cualquier otra análoga a las anteriores prevista en la Ley y que afecte el buen despacho de la función de fiscalización y el combate a la corrupción.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+El Congreso del Estado resolverá sobre la existencia de las causas de la remoción del Titular de la Auditoría Superior del Estado, bajo el procedimiento que establezca la Ley del Congreso. La remoción causará efectos inmediatos y deberá procederse al nombramiento para un nuevo período.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 114.
 
-La revisión de las Cuentas Públicas corresponde al Congreso del Estado, a través de la Auditoría Superior, y tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ajustaron a los criterios señalados en los presupuestos, conforme a las disposiciones aplicables, así como verificar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas.
+La revisión de las Cuentas Públicas corresponde al Congreso del Estado, a través de la· Auditoría Superior, y tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ajustaron a lo dispuesto en el presupuesto del ejercicio, conforme a las disposiciones aplicables, así como verificar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 La Cuenta Pública del Estado del ejercicio correspondiente, deberá ser presentada por el Poder Ejecutivo ante el Congreso del Estado, a más tardar el último día hábil del mes de abril del año siguiente. Sólo se podrá ampliar este plazo, cuando medie solicitud del Gobernador del Estado, suficientemente justificada a juicio de la Legislatura, en términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 Tratándose de las Cuentas Públicas municipales del ejercicio correspondiente, cada Ayuntamiento deberá presentarla ante el Congreso del Estado, por conducto de la Auditoría Superior, a más tardar el último día hábil del mes de abril del año siguiente.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 Lo dispuesto en los dos párrafos anteriores, se observará sin perjuicio de la demás información que deban presentar conforme a la Ley, para su revisión y fiscalización por la Auditoría Superior del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 La Auditoría Superior entregará por conducto de la Comisión respectiva, los Informes del Resultado de la fiscalización superior y demás que, conforme a esta Constitución y la Ley respectiva, deba conocer el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 Los Informes del Resultado serán de carácter público; los plazos, contenido y el procedimiento para su emisión y entrega, se determinarán en la Ley respectiva.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 La Auditoría Superior, también informará al Pleno del Congreso, a través de la Comisión respectiva, de las Cuentas que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 El incumplimiento de este precepto, será causa de responsabilidad de los servidores públicos de la Auditoría Superior del Estado o de la Comisión respectiva del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 La Auditoría Superior del Estado guardará reserva de sus actuaciones y observaciones hasta que entregue los Informes del Resultado de la fiscalización superior de los sujetos de revisión, la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 Los actos y demás resoluciones de la Auditoría Superior del Estado, podrán ser impugnadas ante la propia Auditoría en los casos que proceda, en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 Los Poderes del Estado, los Ayuntamientos y demás sujetos de revisión, facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones. Asimismo, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales, municipales, y demás que competa fiscalizar a la Auditoría Superior del Estado, deberán proporcionar la información y documentación que la misma les solicite de conformidad con los procedimientos establecidos en las Leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de incumplimiento a lo dispuesto en este párrafo, los responsables serán sancionados en los términos que establezcan las Leyes aplicables.
 
@@ -2521,21 +2555,31 @@ IV.- Para la aplicación de sanciones administrativas a los servidores públicos
 
 Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos, que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La Ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
 
-Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control estatales y municipales, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa del Estado. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control estatales o municipales según corresponda.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control estatales y municipales, según corresponda, y serán resueltas por la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado. Las demás faltas y sanciones administrativas serán conocidas y resueltas por los órganos internos de control estatales o municipales según corresponda.
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en las Leyes respectivas, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 Para impugnar la calificación de las faltas administrativas como no graves, que realicen los órganos internos de control, se observará lo previsto en la Ley de la materia.
 
-Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la Ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales, municipales y demás de su competencia; y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Combate a la Corrupción a que se refiere esta Constitución;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la Ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales, municipales y demás de su competencia; y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Combate a la Corrupción a que se refiere esta Constitución;
 
-IV Bis.- El Tribunal de Justicia Administrativa del Estado, impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a las Haciendas Públicas estatal o municipales, o a los entes públicos locales o municipales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+IV Bis.- El Tribunal de Justicia Administrativa del Estado, a través de la Sala Especializada en materia de responsabilidades administrativas, impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a las Haciendas Públicas estatal o municipales, o a los entes públicos locales o municipales.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a las Haciendas Públicas estatal o municipales, o a los entes públicos locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 Las Leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones;
 
@@ -2549,13 +2593,17 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 VI.- En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la confidencialidad y reserva de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La Ley establecerá los procedimientos para que les sea entregada dicha información.
 
-La Auditoría Superior del Estado, la Secretaría del Ejecutivo Estatal responsable del Control Interno y los órganos internos de control estatales y municipales, podrán recurrir las determinaciones de la Fiscalía Especializada de combate a la corrupción del Estado y del Tribunal de Justicia Administrativa del Estado, de conformidad con lo previsto en esta Constitución y en las Leyes respectivas;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+La Auditoría Superior del Estado, la Secretaría del Ejecutivo Estatal responsable del Control Interno y los órganos internos de control estatales y municipales, podrán recurrir las determinaciones de la Fiscalía Especializada de combate a la corrupción del Estado y de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado, de conformidad con lo previsto en esta Constitución y en las Leyes respectivas;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 VII.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades competentes en el Estado y en los Municipios que lo integran en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-a) El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada de Combate a la Corrupción; de la Secretaría del Ejecutivo Estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa; el presidente de la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado; así como por un representante del Consejo de la Judicatura del Estado y otro del Comité de Participación Ciudadana.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+a) El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada de Combate a la Corrupción; de la Secretaría del Ejecutivo Estatal responsable del control interno; por el presidente de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa; el presidente de la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado; así como por un representante del Consejo de la Judicatura del Estado y otro del Comité de Participación Ciudadana.
 
 b) El Comité de Participación Ciudadana del Sistema, deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley; y
 
@@ -3744,3 +3792,21 @@ SEGUNDO. El Congreso del Estado deberá expedir, en un plazo que no excederá de
 Para efectos de lo establecido en el párrafo anterior el Congreso del Estado deberá realizar foros de consulta ciudadana o ejercicios de parlamento abierto con organizaciones de la sociedad civil en la construcción y dictaminación de la legislación mencionada.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO ELE PUEBLA, EN MATERIA ELE FISCALIZACIÓN SUPERIOR Y COMBATE A LA CORRUPCIÓN".]
+
+PRIMERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Los Magistrados del Tribunal de Justicia Administrativa que se encuentren desempeñando su cargo durarán el tiempo por el que fueron originalmente designados.
+
+Conforme al procedimiento establecido en esta Constitución, se deberá nombrar y ratificar a los Magistrados integrantes de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado, en un plazo máximo de tres meses, contados a partir de la vigencia del presente Decreto.
+
+QUINTO. El Congreso del Estado, en un plazo no mayor a sesenta días, deberá expedir las leyes y demás ordenamientos conforme a lo dispuesto en el presente Decreto.
+
+SEXTO. El Congreso del Estado deberá asignar los recursos necesarios para la implementación y funcionamiento de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa.
