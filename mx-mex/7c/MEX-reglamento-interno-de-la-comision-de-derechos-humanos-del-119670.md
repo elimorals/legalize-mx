@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2020-03-05"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -1671,11 +1671,21 @@ Pruebas
 
 Los expedientes de queja serán formalmente concluidos mediante resolución firmada por el Visitador General, en la que se establezca la causa de conclusión del expediente y su fundamento legal.
 
-> <small>(ADICIONADO, G.G. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE DICIEMBRE DE 2021)</small>
 
-Artículo 90 bis.- Los expedientes de queja y de investigación de oficio deben ser sustanciados y concluidos, de conformidad con las disposiciones aplicables, en un término no mayor a 180 días naturales, contados a partir de la emisión del acuerdo de calificación que corresponda.
+Artículo 90 bis. Los expedientes de queja y de investigación de oficio deben ser sustanciados y concluidos, de conformidad con las disposiciones aplicables, en un término que no exceda de doscientos cuarenta días hábiles, contados a partir de la emisión del acuerdo de calificación que corresponda.
 
-Plazo que podrá ser ampliado hasta por 60 días naturales previo acuerdo fundado y motivado de la autoridad sustanciadora cuando se presenten circunstancias extraordinarias o la complejidad del asunto así lo amerite.
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2021)</small>
+
+El plazo que antecede podrá ser ampliado por el Visitador o Visitadora General a cargo, hasta por sesenta días hábiles, cuando se presenten circunstancias extraordinarias o la complejidad del asunto lo amerite, mediante acuerdo debidamente fundado y motivado, previa autorización de la Presidencia de la Comisión.
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2021)</small>
+
+De manera excepcional, el Visitador o Visitadora General podrá solicitar a la Presidencia, mediante escrito fundado y motivado, durante los cinco días hábiles previos a que fenezca dicha ampliación, se prorrogue el plazo por el tiempo que sea necesario para la debida integración del expediente, atendiendo a la naturaleza del asunto de que se trate. Solicitud que será atendida en un plazo no mayor a cinco días hábiles.
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de violaciones graves a la integridad física o psíquica, de lesa humanidad, a la vida, ataques a la libertad personal fuera del procedimiento judicial, o alguno de los actos prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, serán imprescriptibles.
 
 Conclusión de los expedientes de queja
 
@@ -2104,3 +2114,13 @@ G.G. 5 DE MARZO DE 2020.
 PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno", así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+G.G. 15 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CODHEM/CC/11-2021/28 POR EL QUE SE REFORMA AL ARTÍCULO 90 BIS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno", así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno".
+
+TERCERO. Los expedientes de queja y de investigación de oficio que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, se ajustarán al término aquí establecido.
