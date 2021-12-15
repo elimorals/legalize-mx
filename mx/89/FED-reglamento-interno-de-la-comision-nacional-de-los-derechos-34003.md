@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2021-10-27"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2021.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE OCTUBRE DE 2021]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE DICIEMBRE DE 2021.]</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -1217,9 +1217,9 @@ La persona titular del Órgano Interno de Control tendrá la facultad de nombrar
 
 En los acuerdos y lineamientos del Órgano Interno de Control señalarán las personas servidoras públicas del mismo que podrán suplir en ausencias temporales a la persona titular del Órgano Interno de Control en el ejercicio de sus atribuciones y/o funciones.
 
-> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 15 DE DICIEMBRE DE 2021)
 
-Para el ejercicio de sus atribuciones, el ejercicio de sus atribuciones, el Órgano Interno de Control contará con las siguientes áreas:
+Para el ejercicio de sus atribuciones, el Órgano Interno de Control contará con las siguientes áreas:
 
 I. Quejas, Denuncias y Notificaciones;
 
@@ -1227,9 +1227,9 @@ I. Quejas, Denuncias y Notificaciones;
 
 II. Responsabilidades, Situación Patrimonial y Defensa Jurídica;
 
-> <small>(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)</small>
+(F. DE E., D.O.F. 27 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 15 DE DICIEMBRE DE 2021)
 
-II (SIC). Control y Auditorías, y
+III. Control y Auditorías, y
 
 IV. Evaluación de la Gestión.
 
@@ -1249,7 +1249,7 @@ La persona quien ocupe la titularidad del Área de Control y Auditorías, podrá
 
 (REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021) (F. DE E., D.O.F. 27 DE OCTUBRE DE 2021)
 
-La persona quien ocupe la titularidad del Área del Evaluación de la Gestión podrá ejercer las atribuciones señaladas en las fracciones, I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX y XLIII.
+La persona quien ocupe la titularidad del Área del (sic) Evaluación de la Gestión podrá ejercer las atribuciones señaladas en las fracciones, I, XIX, XX, XXI, XXIV, XXVII, XXX, XXXI, XXXII, XXXV, XXXVIII, XXXIX y XLIII.
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
@@ -3162,5 +3162,11 @@ Tercero. El Manual de Organización General de la Comisión Nacional de los Dere
 D.O.F. 27 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DE LA "ACLARACIÓN AL ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, PUBLICADO EL 8 DE OCTUBRE DE 2021".]
+
+ÚNICO.- Publíquese el presente Acuerdo Aclaratorio en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “ACLARACIÓN AL ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, PUBLICADO EL 8 DE OCTUBRE DE 2021”.]
 
 ÚNICO.- Publíquese el presente Acuerdo Aclaratorio en el Diario Oficial de la Federación.
