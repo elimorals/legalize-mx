@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2020-08-17"
+last_updated: "2021-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -37,7 +37,7 @@ LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SO
 
 CONSIDERANDO
 
-.
+[...]
 
 DÉCIMO SEXTO.- Que el Honorable Congreso del Estado está facultado, de conformidad con el artículo 36, fracciones I y XLV de la Constitución Política Local para expedir, reformar, adicionar, derogar y abrogar las leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social; así como para expedir las leyes necesarias para hacer efectivas las facultades que no estén reservadas a los poderes de la Unión y correspondan a su régimen interior, por lo que se emite el siguiente:
 
@@ -367,6 +367,10 @@ XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
+#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 20.
 
 Para efectos de esta Ley, deberá entenderse por Violencia Feminicida: La forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
@@ -420,6 +424,38 @@ a) Investigar y sancionar los actos de autoridades omisas o negligentes que llev
 b) Diseñar e instrumentar políticas públicas integrales que eviten la comisión de delitos contra las mujeres; y
 
 c) Verificar los hechos y la publicidad de la verdad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 23 Bis.
+
+Violencia digital es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Para efectos de la presente sección se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 23 Ter.
+
+Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce por cualquier persona física o jurídica colectiva que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 23 Quáter.
+
+Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la o el Fiscal del Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o jurídicas colectivas, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que ordene las medidas de protección contempladas en este artículo, deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo, para lo cual adoptará las medidas de seguridad, técnicas, administrativas e informáticas para su protección y resguardo.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en este artículo, deberá celebrarse la audiencia en la que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas, considerando la información disponible, así como la irreparabilidad del daño.
 
 ## TÍTULO TERCERO. DE LAS ÓRDENES DE PROTECCIÓN
 
@@ -1340,3 +1376,13 @@ Para el caso del proceso electoral local 2020-2021, el Instituto Electoral y de 
 ###### ARTÍCULO QUINTO.
 
 La observancia del principio de paridad de género a que se refiere el artículo 13 de la Ley Electoral y de Partidos Políticos del Estado de Tabasco, será aplicable a quienes tomen posesión de su encargo, a partir del siguiente proceso electoral que corresponda a la entrada en vigor del presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 007 POR EL QUE “SE ADICIONA AL TÍTULO SEGUNDO, CAPÍTULO II, LA SECCIÓN SEXTA INTITULADA "DE LA VIOLENCIA DIGITAL Y MEDIÁTICA", INTEGRADA POR LOS ARTÍCULOS 23 BIS, 23 TER Y 23 QUÁTER, A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo deberá emitir las adecuaciones conducentes al Reglamento de la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia.
