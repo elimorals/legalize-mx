@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-9-2017-de-la-sala-superior-del-124160"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-10-30"
-last_updated: "2017-10-30"
+last_updated: "2021-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124160&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-10-17"
 ---
 # ACUERDO GENERAL NUMERO 9/2017 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [RELATIVO AL PROCEDIMIENTO PARA LA INTEGRACION, ELABORACION, NOTIFICACION Y PUBLICACION DE LA JURISPRUDENCIA Y TESIS QUE EMITAN SUS SALAS]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 3/2021, DE TRES DE DICIEMBRE DE DOS MIL VEINTIUNO, RELATIVO AL PROCEDIMIENTO PARA LA INTEGRACIÓN, ELABORACIÓN, NOTIFICACIÓN Y PUBLICACIÓN DE LA JURISPRUDENCIA Y TESIS QUE EMITAN SUS SALAS, PUBLICADO EN EL D.O.F. DE 16 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 9/2017, DE DIECISIETE DE OCTUBRE DE DOS MIL DIECISIETE, RELATIVO AL PROCEDIMIENTO PARA LA INTEGRACIÓN, ELABORACIÓN, NOTIFICACIÓN Y PUBLICACIÓN DE LA JURISPRUDENCIA Y TESIS QUE EMITAN SUS SALAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 30 de octubre de 2017.
 
@@ -442,3 +444,21 @@ NOTIFÍQUESE. A las Salas Regionales de este Tribunal, por la vía más expedita
 Así lo acordaron por unanimidad de votos, las Magistradas y los Magistrados que integran la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, ante la Secretaria General de Acuerdos, quien autoriza y da fe.
 
 La Magistrada Presidenta, Janine M. Otálora Malassis.- Rúbrica.- Los Magistrados: Felipe de la Mata Pizaña, Felipe Alfredo Fuentes Barrera, Indalfer Infante Gonzales, Reyes Rodríguez Mondragón, Mónica Aralí Soto Fregoso, José Luis Vargas Valdez.- Rúbricas.- La Secretaria General de Acuerdos, María Cecilia Sánchez Barreiro.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 3/2021, DE TRES DE DICIEMBRE DE DOS MIL VEINTIUNO, RELATIVO AL PROCEDIMIENTO PARA LA INTEGRACIÓN, ELABORACIÓN, NOTIFICACIÓN Y PUBLICACIÓN DE LA JURISPRUDENCIA Y TESIS QUE EMITAN SUS SALAS”.]
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General 9/2017 relativo a las reglas para la elaboración, envío y publicación de las tesis relevantes y de jurisprudencia que emitan las Salas del Tribunal Electoral del Poder Judicial de la Federación, así como los acuerdos y demás disposiciones generales y específicas que se opongan a lo previsto en este instrumento normativo.
+
+TERCERO. La jurisprudencia y tesis integradas conforme a la ley y Acuerdos Generales anteriores conservarán su formato y mantendrán su obligatoriedad, salvo que sean interrumpidas, declarada la no vigencia u obsolescencia.
+
+CUARTO. Para la integración de la jurisprudencia por reiteración o contradicción de criterios a que se refiere el presente Acuerdo General, no se tomará en cuenta el formato de las tesis aprobadas con anterioridad y en ellas se deberá incluir la nota correspondiente, en el IUS Electoral y en la Gaceta.
+
+QUINTO. El trámite para la publicación de tesis de Salas Regionales iniciado con anterioridad a la vigencia del presente Acuerdo General se regirá en todo lo que no se oponga por las disposiciones de este ordenamiento.
+
+SEXTO. Publíquese este en el Diario Oficial de la Federación, en la Gaceta Jurisprudencia y Tesis en materia electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de la Sala Superior y de las Salas Regionales y en las páginas de Internet e Intranet de este órgano jurisdiccional.
