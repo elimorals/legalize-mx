@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-secretaria-de-seguridad-publica-del-100406"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-04-07"
-last_updated: "2019-09-13"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -141,15 +141,21 @@ B. En materia de Ejecución de Penas y Medidas Judiciales:
 
 I. Diseñar la política penitenciaria en los delitos del orden local; coordinar a través de la unidad administrativa respectiva la ejecución de las penas y medidas de seguridad, así como organizar y dirigir los programas a liberados, sentenciados o procesados; de igual forma, coordinar, supervisar, organizar y administrar los programas de atención integral y los de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
 
-II. Vigilar el adecuado funcionamiento de los centros de reinserción social así como los centros de internamiento para adolescentes;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-III. Participar, conforme a los convenios respectivos, en el intercambio, traslado, custodia, vigilancia y tratamiento de los internos de los centros de reinserción social en el Estado;
+II. Vigilar el adecuado funcionamiento de los Centros Penitenciarios, así como los de Ejecución de Medidas para Adolescentes del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+III. Participar, conforme a los convenios respectivos, en el intercambio, traslado, custodia, vigilancia y tratamiento de los internos de los Centros Penitenciarios en el Estado;
 
 IV. Emitir las constancias de antecedentes no penales;
 
 V. Diseñar las políticas públicas para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial, y
 
-VI. Administrar los Centros de Reinserción Social, los Centros de Ejecución de Penas Privativas de la Libertad y los Centros de Ejecución de Medidas para Adolescentes del Estado, dando cumplimiento a las resoluciones de los Jueces de Control y de Ejecución de Sentencias; así como, realizar los traslados de procesados y sentenciados que legalmente procedan;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+VI. Administrar los Centros Penitenciarios y Centros de Ejecución de Medidas para Adolescentes del Estado, dando cumplimiento a las resoluciones de los Jueces de Control y de Ejecución de Sentencias; así como, realizar los traslados de procesados y sentenciados que legalmente procedan;
 
 VII. Las demás que le atribuyan expresamente las Leyes o Reglamentos.
 
@@ -165,113 +171,13 @@ El Secretario será nombrado y removido en los términos que establecen la Const
 
 La Secretaría, para el despacho de los asuntos que establecen la Constitución Estatal, Leyes, Reglamentos y demás ordenamientos aplicables y de conformidad con el presupuesto que se le asigne, contará con las unidades administrativas, los elementos policiales y el personal que sean necesarios.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-Para el desempeño de las funciones, la Secretaría se integrará de la siguiente forma:
+La Secretaría contará dentro de su estructura orgánica con los Órganos Desconcentrados, Subsecretarías, Coordinaciones Generales, Direcciones Generales, Coordinaciones, Direcciones de área u homólogos y el personal necesario para el cumplimiento de sus atribuciones y funciones, mismas que se definirán en el Reglamento Interior que tenga a bien emitir la persona Titular del Poder Ejecutivo.
 
-I. Secretario:
-
-a) Dirección de Comunicación Social;
-
-b) Dirección de Relaciones Públicas;
-
-c) Dirección Jurídica;
-
-d) Unidad de Enlace.
-
-II. Subsecretaría de Seguridad Pública:
-
-a) Comisión Estatal de la Policía Preventiva;
-
-1. Coordinación de la Fuerza Institucional Policial.
-
-b) Dirección de Asuntos Internos;
-
-c) Dirección de Registro y Supervisión de Empresas y Servicios Privados de Seguridad;
-
-d) Coordinación de Vinculación con Instancias;
-
-1. Dirección de Vinculación con Instancias;
-
-e) Subdirección General Operativa;
-
-f) Subdirección de Tránsito;
-
-g) Subdirección de la Policía Fronteriza;
-
-h) Subdirección Jurídica;
-
-i) Subdirección de Seguridad Pública.
-
-j) Dirección Administrativa.
-
-III. Subsecretaría de Ejecución de Penas y Medidas de Seguridad:
-
-a) Dirección General de Ejecución de Penas y Medidas de Seguridad;
-
-b) Dirección del Centro de Reinserción Social;
-
-c) Dirección del Centro de Reinserción Social en Benito Juárez;
-
-d) Dirección General de Ejecución de Medidas para Adolescentes, y
-
-e) Dirección del Centro de Ejecución de Medidas para Adolescentes.
-
-IV. Subsecretaría de Planeación y Finanzas:
-
-a) Dirección General de Administración;
-
-b) Dirección de licitaciones, Concursos y Transparentación;
-
-c) Dirección de Administración de Fondos Federales, y
-
-d) Dirección de Planeación.
-
-V. Coordinación General de Centro de Control, Comando, Cómputo y Comunicación:
-
-a) Dirección de Telecomunicaciones;
-
-b) Dirección de Enlace al Centro Estatal de Información;
-
-c) Dirección de Sistemas;
-
-d) Dirección de Servicios de Emergencia y Denuncia Anónima;
-
-e) Dirección Administrativa;
-
-f) Dirección del Subcentro de Control, Comando, Cómputo y Comunicación en la Zona Norte, y
-
-g) Dirección Subcentro Cozumel.
-
-VI. Academia Estatal de Seguridad Pública.
-
-a) Coordinación Académica, y
-
-b) Dirección Administrativa.
-
-> <small>(ADICIONADA [N. DE .E CON SUS INCISOS], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
-
-VII. Centro Estatal de Evaluación y Control de Confianza;
-
-a) Dirección de Poligrafía;
-
-b) Dirección de Medicina y Toxicología;
-
-c) Dirección de Investigación Socioeconómica, y
-
-d) Dirección de Psicología.
-
-El Secretario contará con un despacho integrado por la secretaría particular, el área de asesores, gabinete de coordinación, órganos técnicos y demás unidades de apoyo contemplado dentro del presupuesto autorizado y que resulte necesario para el adecuado cumplimiento de sus facultades.
-
-El Reglamento Interior, establecerá las atribuciones de las unidades administrativas y de las unidades administrativas policiales, con base en la especialización necesaria para el mejor desarrollo de la función de seguridad pública y el ejercicio de las demás atribuciones que le corresponden.
-
-Las demás unidades administrativas y unidades administrativas policiales subalternas y demás personal de apoyo que se establezcan por acuerdo del Secretario, deberán contenerse y especificarse en el Manual de Organización que la Secretaría elabore conforme al Organigrama aprobado.
-
-Para efectos de la presente ley, quedan comprendidos como mandos superiores, a los Subsecretarios, Comisionado, Directores Generales y Directores de Área.
-
-Por mandos medios quedan comprendidos los cargos de Subdirecciones, Jefes de Departamento, Jefes de Oficina, y los demás que sean necesarios de creación de conformidad con el presupuesto asignado.
-
-Se considerarán personal de confianza todos aquellos cargos que no impliquen una función policial.
+Asimismo, las unidades administrativas policiales de agrupamientos especiales, de servicios, de docencia y demás que integran a la Secretaría, se establecerán y funcionarán de acuerdo con lo dispuesto en el reglamento interior, reglamentos específicos, manuales y/o protocolos de actuación y demás normatividad que se emitan.
 
 ### CAPÍTULO II. DEL SECRETARIO
 
@@ -867,7 +773,9 @@ IV. Realizar acciones específicas de protección y vigilancia externa a inmuebl
 
 La atribución de vigilar lugares estratégicos para la seguridad pública del Estado de Quintana Roo, a que se refiere la fracción VI del 32 de esta ley, comprende:
 
-I. Vigilar el exterior de las instalaciones de centros de reinserción social del Estado de Quintana Roo y centros de ejecución de medidas para adolescentes y centros de reclusión municipal.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+I. Vigilar el exterior de las instalaciones de los Centros Penitenciarios en el Estado, de los Centros de Ejecución de Medidas para Adolescentes del Estado y de los Centros de Reclusión Municipal.
 
 II. Realizar acciones especiales de vigilancia en zonas consideradas de alta incidencia delictiva.
 
@@ -1007,17 +915,23 @@ III. Atención respetuosa y comedida, y
 
 IV. Los demás que determine la Secretaría.
 
-## TÍTULO QUINTO. DE LOS CENTROS DE REINSERCIÓN SOCIAL, DE EJECUCIÓN DE PENAS PRIVATIVAS DE LA LIBERTAD Y DE EJECUCIÓN DE MEDIDAS PARA ADOLESCENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO QUINTO. DE LOS CENTROS PENITENCIARIOS, Y DE EJECUCIÓN DE MEDIDAS PARA ADOLESCENTES
 
 ### CAPÍTULO ÚNICO. DE LA ADMINISTRACIÓN DE LOS CENTROS
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 50.
 
-La Secretaría tiene a su cargo la administración de los Centros de Reinserción Social, de Ejecución de Penas Privativas de la Libertad y de Ejecución de Medidas para Adolescentes del Estado; así como los centros de reclusión municipal de conformidad con los convenios o acuerdos que en su momento se firmen.
+La Secretaría tiene a su cargo la administración de los Centros Penitenciarios y de Ejecución de Medidas para Adolescentes del Estado; así como los centros de reclusión municipal de conformidad con los convenios o acuerdos que en su momento se firmen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-Los Centros de Reinserción Social de Ejecución de Penas Privativas de la libertad y de Ejecución de Medidas para Adolescentes, tienen como mando directo a un Director, quien a su vez se encuentra bajo el mando de un Director General y ambos están adscritos a una Subsecretaría; cada centro se regirá por los ordenamientos legales aplicables a cada uno, basados cuando menos en las siguientes funciones:
+Los Centros Penitenciarios y de Ejecución de Medidas para Adolescentes del Estado, tienen como mando directo a un Director, quien a su vez se encuentra bajo el mando de un Director General y ambos están adscritos a una Subsecretaría; cada centro se regirá por los ordenamientos legales aplicables a cada uno, basados cuando menos en las siguientes funciones:
 
 I. Administrar, supervisar, resguardar y organizar el interior del Centro penitenciario;
 
@@ -1164,3 +1078,11 @@ SÉPTIMO. La Secretaría de Finanzas y Planeación, así como la Oficialía Mayo
 OCTAVO. La Secretaría de Seguridad Pública deberá realizar las modificaciones correspondientes a su estructura orgánica, reglamento interior y demás instrumentos que requieran actualización, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del mismo.
 
 NOVENO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo ordenado en este Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 175 POR EL QUE SE REFORMAN LAS FRACCIONES II, III Y VI DEL APARTADO B DEL ARTÍCULO 3; EL ARTÍCULO 5; LA FRACCIÓN I DEL ARTÍCULO 37; LA DENOMINACIÓN DEL TÍTULO QUINTO PARA DENOMINARSE "DE LOS CENTROS PENITENCIARIOS, Y DE EJECUCIÓN DE MEDIDAS PARA ADOLESCENTES"; Y LOS ARTÍCULOS 50 Y 51, TODOS DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
