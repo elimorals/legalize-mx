@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2021-11-05"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -1949,19 +1949,17 @@ Toda notificación personal, realizada con quien deba entenderse será legalment
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
-###### Artículo 106.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-Cuando la notificación se deba efectuar personalmente y el notificador no encuentre a quien deba notificar o a su representante legal, dejará citatorio con quien se encuentre en el domicilio, para que espere a una hora fija del día hábil siguiente, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio.
+###### ARTÍCULO 106.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+Cuando la notificación deba efectuarse personalmente y la o el notificador no encuentre a quien deba notificar o su representante legal, dejará citatorio con quien se encuentre en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior a aquél en que se dejó el citatorio. En caso de que en el domicilio no se en (sic)
 
-El citatorio será siempre para la espera antes señalada y si la persona citada o su representante legal no esperaren, a la hora señalada en el citatorio, se practicará la diligencia con quién se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
+cuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y, de ello, la o el notificador levantará una constancia de la situación presentada.
 
-Si el citatorio se realizó para efectos de que se acudiera a las oficinas de la autoridad para recibir la notificación, y el interesado o su representante legal no acudiesen, la notificación se hará por estrados en los términos del artículo 108 de este Código.
+El día y hora de la cita, la o el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o, en su defecto, con una o un vecino.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento, los honorarios que establece este Código.
-
-Tratándose de los honorarios a que se refiere el párrafo que antecede, la autoridad los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
+En caso de que ésta o éste último se negase a recibir la notificación, ésta se hará por instructivo que se fijará en lugar visible de dicho domicilio, debiendo la o el notificador asentar razón de tal circunstancia, o por cualquiera de los otros medios previstos en el artículo 103 de este Código.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1969,9 +1967,11 @@ Tratándose de los honorarios a que se refiere el párrafo que antecede, la auto
 
 Cuando se deje sin efectos una notificación practicada ilegalmente se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las demás responsabilidades que en su caso resulten procedentes.
 
-###### Artículo 108.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimosexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+###### ARTÍCULO 108.
+
+Las notificaciones por estrados se harán fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del undécimo día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 ###### Artículo 109.
 
@@ -2003,7 +2003,9 @@ III. Fianza otorgada por institución autorizada, la que no gozará de los benef
 
 IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
-V. Embargo en la vía administrativa; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+V. Embargo en la vía administrativa de bienes muebles tangibles e inmuebles, excepto predios rústicos, así como negociaciones; y
 
 VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije el Servicio de Administración Fiscal del Estado de Campeche.
 
@@ -2487,9 +2489,11 @@ Si los bienes señalados para la ejecución hubieran sido embargados por autorid
 
 En tanto se resuelve el procedimiento respectivo no se hará aplicación del ingreso de la venta o remate del bien embargado, salvo que se garantice el interés fiscal a satisfacción del Servicio de Administración Fiscal del Estado de Campeche.
 
-###### Artículo 147.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-El embargo de créditos será notificado directamente por la oficina recaudadora a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+###### ARTÍCULO 147.
+
+El embargo de créditos será notificado directamente por la autoridad fiscal a las o los deudores del embargado, y se les requerirá con el objeto de que informen las características de la relación contractual con la o el contribuyente, apercibidos de que, en caso de no comparecer en el término de tres días, se les impondrá una multa de conformidad con el artículo 94 fracción I de éste Código. Asimismo, se les requerirá para que no hagan el pago de las cantidades respectivas a ésta o éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
 
 Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y de Comercio que corresponda, la oficina recaudadora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes al en que surta efectos la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
 
@@ -2651,13 +2655,13 @@ En aquellos casos en que después de realizado el avalúo se lleven a cabo const
 
 Cuando exista imposibilidad para la realización de un avalúo de un inmueble, ya sea por la negativa u oposición por parte de los habitantes, o por cualquier otra razón, éste se podrá realizar basándose en las constancias que existan en diferentes dependencias estatales o municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-###### Artículo 170.
+###### ARTÍCULO 170.
 
-El remate deberá ser convocado al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del período señalado para el remate y la misma se mantendrá en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate.
+El remate deberá ser convocado al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La convocatoria se publicará en la página electrónica de la autoridad fiscal y en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzguen convenientes, cuando menos diez días antes del inicio del período señalado para el remate y la misma se mantendrá en los medios en que se haya fijado o dado a conocer hasta la conclusión de la subasta.
 
-La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente, además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberá cumplir los postores para concurrir al mismo.
+En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir las o los postores para concurrir a la subasta.
 
 ###### Artículo 171.
 
@@ -3486,3 +3490,11 @@ P.O. 5 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Campeche.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 10 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 106, 108, LA FRACCIÓN V DEL ARTÍCULO 110, EL PÁRRAFO PRIMERO DEL ARTÍCULO 147 Y EL ARTÍCULO 170, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 2022, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al presente Decreto.
