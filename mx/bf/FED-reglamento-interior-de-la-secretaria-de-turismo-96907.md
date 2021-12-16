@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-turismo-96907"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-12-30"
-last_updated: "2013-12-30"
+last_updated: "2021-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96907&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-12-23"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, PUBLICADO EN EL D.O.F. DE 16 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2021 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 30 de diciembre de 2013.
 
@@ -1466,3 +1468,33 @@ NOVENO.- Las referencias que se hacen y las facultades que se otorgan en reglame
 DÉCIMO.- En tanto se expidan los manuales que en el presente Reglamento se determinan, se continuarán aplicando los vigentes sólo en lo que no se opongan al presente ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- La Secretaria de Turismo, Claudia Ruiz Massieu Salinas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Turismo, publicado en el Diario Oficial de la Federación el 30 de diciembre de 2013.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas a las unidades administrativas que desaparecen o cambian de denominación por virtud de este Reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+QUINTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la atribución o competencia correspondiente en este ordenamiento.
+
+Los procedimientos y asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor del presente Reglamento, se tramitarán y resolverán de conformidad con las disposiciones vigentes al momento en el que se iniciaron.
+
+SEXTO.- Los recursos humanos, materiales, de tecnologías de la información, financieros, archivos, documentación y acervo bibliográfico, que correspondían al Instituto de Competitividad Turística que desaparece, serán trasladados en su totalidad a la Dirección General de Profesionalización y Competitividad Turística.
+
+Asimismo, los recursos humanos, materiales, de tecnologías de la información, financieros, archivos, documentación y acervo bibliográfico, que correspondían a la Corporación de Servicios al Turista Ángeles Verdes que desaparece, serán trasladados en su totalidad a la Dirección General de Servicios al Turista Ángeles Verdes.
+
+Por su parte, los recursos humanos que correspondían al extinto Consejo de Promoción Turística de México, S.A. de C.V., cuya desincorporación se instruyó mediante el Decreto por el que se reforman y derogan diversas disposiciones de la Ley General de Turismo, publicado en el Diario Oficial de la Federación con fecha 31 de julio de 2019, serán transferidas únicamente las plazas necesarias a la Dirección General de Promoción y Asuntos Internacionales.
+
+SÉPTIMO.- En las transferencias y readscripciones de personal de la Secretaría, así como en las eventuales bajas, se respetarán en todo caso los derechos laborales de las personas servidoras públicas, de conformidad con las disposiciones jurídicas aplicables.
+
+OCTAVO.- Cuando en términos del último párrafo del artículo 32 de este Reglamento, el auxilio que proporcione la Secretaría de Turismo al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando, lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
+
+NOVENO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, se llevarán a cabo mediante movimientos compensados y no se requerirán recursos adicionales, por lo que la Secretaría de Turismo deberá sujetarse a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementará su presupuesto regularizable.
