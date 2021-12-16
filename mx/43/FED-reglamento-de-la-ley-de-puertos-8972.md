@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-puertos-8972"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-21"
-last_updated: "2014-04-02"
+last_updated: "2021-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1994-11-18"
 ---
 # REGLAMENTO DE LA LEY DE PUERTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PUERTOS, PUBLICADO EN EL D.O.F. DE 16 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE PUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2021 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de noviembre de 1994.
 
@@ -1248,3 +1250,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 D.O.F. 2 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE PUERTOS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Puertos publicado el 21 de noviembre de 1994, en el Diario Oficial de la Federación.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite en la Secretaría de Infraestructura, Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de este ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
