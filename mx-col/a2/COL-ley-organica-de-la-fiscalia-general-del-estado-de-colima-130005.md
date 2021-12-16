@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-fiscalia-general-del-estado-de-colima-130005
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-21"
-last_updated: "2020-07-13"
+last_updated: "2021-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 56 del Periódico Oficial del Estado de Colima, el martes 21 de agosto de 2018.
 
@@ -208,6 +208,10 @@ VIII. Fiscalía Especializada en Combate a la Corrupción;
 IX. Fiscalía Especializada en delitos por razones de Género y Trata de Personas; y
 
 X. Visitaduría General (Órgano Interno de Control).
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+XII (SIC). Centro de Justicia para las Mujeres.
 
 2. Adicionalmente, la Fiscalía General podrá contar con las direcciones, coordinaciones, departamentos, comités y, en general, con las unidades administrativas, órganos técnicos e instancias de apoyo, cualquiera que sea su denominación u organización, que se requieran para el buen despacho de los asuntos de su competencia, las cuales se determinarán en el Reglamento Interior, el cual fijará sus atribuciones o facultades, sin perjuicio de lo que establezca la presente Ley.
 
@@ -1765,6 +1769,56 @@ Entrega de estímulos
 
 1. Los funcionarios y empleados de la Fiscalía General, serán estimulados por el eficiente desempeño de su trabajo en los términos de la Ley del Servicio y demás legislación aplicable.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO CUARTO. DE LOS ÓRGANOS DESCONCENTRADOS DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. DEL CENTRO DE JUSTICIA PARA LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 81.
+
+El Centro de Justicia para las Mujeres es un órgano desconcentrado de la Fiscalía General del Estado, con autonomía operativa y técnica, dependiente administrativamente de la Fiscalía General. El cual se regirá por esta Ley Orgánica, su Reglamento Interior, y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 82.
+
+El Objeto del Centro de Justicia para las Mujeres.
+
+1.- El Centro de Justicia tiene por objeto propiciar el acceso a la Justicia integral para las mujeres que han sido víctimas de delitos de violencia de género, desarrollando la atención de manera interdisciplinaria, secuencial, interinstitucional y especializada en un ambiente agradable, seguro, confiable y libre de violencia.
+
+2.- La Fiscalía General, será la responsable de crear los Centros de Justicia para las Mujeres, que se requieran en los Municipios de la Entidad, para garantizar que las mujeres cuenten con el acceso a los servicios que estos ofrecen.
+
+3.- La atención brindada en los lugares donde se establezcan los Centros de Justicia para las Mujeres, deberá ser ampliada de manera integral a los menores de edad o mayores en estado de interdicción que sean hijos de la mujer víctima de violencia, cuando derivado del hecho considerado como delito se vean afectados aquellos como parte del núcleo familiar.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 83.
+
+Las atribuciones del Centro de Justicia para las Mujeres.
+
+1.- El Centro de Justicia para las Mujeres tendrá las siguientes atribuciones:
+
+I. Coordinar de manera interinstitucional a las autoridades competentes para garantizar el acceso a la justicia de las mujeres víctimas de violencia y el ejercicio efectivo de sus derechos a una vida libre de violencia, con respeto a sus derechos humanos ante los órganos de la Administración Pública y asegurar un acceso rápido y eficaz en los programas establecidos;
+
+II. Generar planes y programas en coordinación con las autoridades en materia de prevención, sanción y erradicación de la violencia contra las mujeres y dar seguimiento a los mismos;
+
+III. Diseñar programas de prevención y educación a fin de fomentar los valores de la no violencia, igualdad de derechos entre hombres y mujeres y equidad de género;
+
+IV. Fortalecer las políticas públicas de prevención de la violencia contra las mujeres y de erradicación de la discriminación de género;
+
+V. Establecer y fortalecer medidas de seguridad y protección, así como gestionar las medidas cautelares que garanticen los derechos y la protección personal, física, emocional, laboral y patrimonial de la mujer víctima de la violencia;
+
+VI. Promover la participación y colaboración de organismos públicos y privados que son afines al Centro de Justicia para las Mujeres;
+
+VII. Buscar mecanismos de acceso a recursos financieros Federales, Estatales y Municipales para mejorar el equipamiento y funcionamiento del Centro, y;
+
+VIII. Las demás que establezca la Ley Orgánica y su reglamento, el reglamento Interior del Centro de Justicia para las Mujeres y la demás normatividad aplicable.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
@@ -1828,3 +1882,13 @@ SEGUNDO. La Fiscalía General del Estado de Colima deberá crear la base estadí
 TERCERO. El Consejo General del Instituto Electoral del Estado, deberá emitir los lineamientos para prevenir, atender y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 114, fracción VIII, del Código Electoral del Estado de Colima, en términos del presente Decreto.
 
 CUARTO. Los Partidos Políticos deberán crear los mecanismos internos para prevenir, sancionar y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 51, fracción I, del Código Electoral del Estado de Colima, en términos del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 28.- POR EL QUE SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 8, ASIMISMO, SE ADICIONA EL TÍTULO CUARTO DENOMINADO DE LOS ÓRGANOS DESCONCENTRADOS DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA, QUE INCLUYE EL CAPÍTULO I DEL CENTRO DE JUSTICIA PARA LAS MUJERES, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se deja sin efectos el Decreto emitido el día 22 de mayo de 2012 por el Gobernador Constitucional del Estado, publicado en el Periódico Oficial “El Estado de Colima” en fecha 26 de mayo de 2012.
+
+TERCERO. Se instruye para que se emita el reglamento interno del Centro de Justicia para las Mujeres, dentro del término de 15 días hábiles posteriores a que haya sido publicada la presente reforma en el Periódico Oficial “El Estado de Colima”.
