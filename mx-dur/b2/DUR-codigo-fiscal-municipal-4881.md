@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "2020-12-10"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -712,6 +712,10 @@ La condonación o reducción de los créditos fiscales municipales, excepción h
 ###### ARTICULO 62o.
 
 Tratándose de personas pensionadas o jubiladas legalmente acreditadas, o mayores de 60 años en precaria situación económica, el Presidente Municipal concederá un 50% de descuento en el monto de los créditos fiscales relativos al impuesto predial, al impuesto sobre traslación de dominio de bienes inmuebles y a los derechos por servicio de agua potable y alcantarillado. En el caso de las personas físicas mayores de 60 años, cuando ellos sean propietarios del inmueble y que ellos mismos lo habiten y además comprobar su situación económica mediante un estudio socioeconómico que realizará el municipio correspondiente. Para el municipio de Durango, el descuento al impuesto predial y al impuesto sobre traslación de dominio de bienes inmuebles, será de un 80%.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 62o BIS.- Las presidentas y/o presidentes municipales, durante el mes de marzo podrán otorgar subsidios que podrán ser hasta de un 80% en el Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, de Avalúo y demás trámites relacionados con la escrituración de viviendas de interés social y popular, así como de terrenos populares, de acuerdo a las características que se contienen en la Ley General de Desarrollo Urbano para el Estado de Durango; así como en los gastos respectivos de ejecución, multas y recargos, atendiendo a que estos beneficios se otorgarán únicamente al propietario de una sola vivienda.
 
 ###### ARTICULO 63o.
 
@@ -2228,3 +2232,13 @@ TERCERO. En caso de que los contribuyentes que (sic) incumplan el convenio celeb
 CUARTO. Notifíquese a la brevedad a los Ayuntamientos a fin de que socialicen el contenido del presente decreto en el Municipio correspondiente.
 
 QUINTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 008.- QUE CONTIENE ADICIÓN DEL ARTÍCULO 62 BIS AL CÓDIGO FISCAL MUNICIPAL”.]
+
+Primero. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. No podrán ser objeto de los beneficios previstos en el presente decreto los propietarios que hayan adquirido viviendas mediante contrato de compra venta posteriores a la entrada en vigor del presente.
+
+Tercero. Para dar cumplimiento al presente decreto, las presidentas y/o presidentes municipales deberán considerar dichos beneficios en sus leyes de ingresos municipales para el ejercicio fiscal correspondiente.
