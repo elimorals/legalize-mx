@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2021-11-05"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2022 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -1831,13 +1833,19 @@ Autobuses de más de 30 pasajeros 60.00
 
 El cobro de los derechos señalados aplicarán en los términos, tramos, modalidades y condiciones que señala la Ley que Establece Disposiciones para el Tránsito en el Camino de Acceso a la Zona Arqueológica de Calakmul, publicada en el Periódico Oficial del Estado, en fecha 29 de diciembre de 1994.
 
-### CAPÍTULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO VII
+
+POR SERVICIOS PRESTADOS POR EL PODER JUDICIAL DEL ESTADO DE CAMPECHE, LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 72.
 
-Por los servicios que de acuerdo con sus respectivas atribuciones presten las autoridades de las Secretarías de la Administración Pública Estatal y sus Órganos Administrativos Desconcentrados, se cobrarán, entre otros, los siguientes derechos:
+Por los servicios que de acuerdo con sus respectivas atribuciones presten el Poder Judicial del Estado de Campeche, las autoridades de las Secretarías de la Administración Pública Estatal y sus Órganos Administrativos Desconcentrados, se cobrarán, entre otros, los siguientes derechos:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
 
@@ -1849,11 +1857,15 @@ a).- Por el registro a concurso 6
 
 b).- Por inscripción y venta de bases 9 a 35
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 II.- Por el registro al padrón de proveedores,
 
 contratistas y prestadores de servicio
 
 pagarán anualmente 6
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 III.- Perforación de pozos
 
@@ -1907,6 +1919,8 @@ desarrollo y aforo:
 
 hora adicional o fracción 9.71 12.17 16.19
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 IV.- Preparación de suelos
 
 A).- Cuando se efectúe la preparación de suelos con tractor de 120 caballos de fuerza, se causarán y pagarán derechos por hectárea, de acuerdo con el número veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
@@ -1945,6 +1959,8 @@ f).- Esparcidora 4.06
 
 g).- Tape de siembra en arroz 8.11
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 V.- Cuando se efectúe la venta de árboles por unidad se causarán y pagarán derechos, de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
 
 T A R I F A
@@ -1963,7 +1979,11 @@ e).- Marañón 0.25
 
 f).- Pitahaya 0.32
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 VI.- Cuando se efectúe la venta de productos avícolas consistente en un paquete familiar de aves que conste de 8 hembras y 2 machos, se causarán y pagarán derechos, por un importe de 3.23 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 VII.- Por la evaluación, dictaminación y autorización del informe preventivo para el aprovechamiento de materiales pétreos:
 
@@ -1983,6 +2003,8 @@ a 30 hectáreas 500
 
 Para los efectos de esta fracción, previo a la solicitud de esta contraprestación será requisito indispensable que los contribuyentes acrediten haber cumplido con las obligaciones fiscales que les imponen, en su caso, las fracciones I y III del artículo 19 de esta Ley y, conforme se den las situaciones jurídicas de hecho, cumplir con el resto de obligaciones que les impone el referido artículo 19 y demás aplicables de esta misma Ley.
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 VII Bis.- Por la evaluación y dictaminación del informe preventivo para la realización de obras públicas o privadas:
 
 Unidades de Medida
@@ -1995,21 +2017,31 @@ b) De 3.1 a 5 hectáreas 250
 
 c) De 5.1 a 10 hectáreas 270
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 VIII.- Por la recepción y evaluación del informe preventivo, para fraccionamientos, unidades habitacionales, desarrollo turístico estatales, obra pública estatal o privada:
 
 a) De 5000 a 10000m2 80
 
 b) De 10001 m2 en adelante 172
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 IX.- Por la recepción y evaluación del informe preventivo, de las industrias señaladas en el inciso c) del artículo 34 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche, a excepción de maquiladoras 80
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 X.- Por la recepción y evaluación del informe preventivo de
 
 maquiladoras 172
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XI.- Por la recepción y evaluación del informe preventivo
 
 para la construcción de caminos estatales o rurales 172
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XII.- Por la evaluación y dictaminación de la manifestación
 
@@ -2029,13 +2061,19 @@ d).- Por la renovación o refrendo anual
 
 en cualquiera de sus modalidades 100
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XIII.- Por la evaluación y dictaminación de:
 
 a).- Estudio de Daños 180
 
 b).- Estudio de Riesgo 180
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XIV.- Por la expedición de cédula de operación 40
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XV.- Por la recepción y evaluación del dictamen
 
@@ -2044,6 +2082,8 @@ de impacto ambiental en su modalidad general para
 el aprovechamiento forestal
 
 y selvas tropicales 172
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XVI.- Por la inscripción al padrón del Registro
 
@@ -2055,11 +2095,15 @@ Nacional pagarán 6 veces el valor diario de la
 
 Unidad de Medida y Actualización.
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XVII.- Por la evaluación y dictaminación
 
 de modificaciones a proyectos autorizados
 
 en materia de impacto ambiental 100
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XVIII.- Por la aclaración, rectificación
 
@@ -2067,11 +2111,15 @@ o ampliación al contenido de la
 
 Manifestación del Impacto Ambiental 100
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XIX.- Por la evaluación técnica para
 
 la procedencia Operativa de un centro
 
 de Verificación vehicular de manera anual 180
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XX.- Por el ingreso a las áreas protegidas de competencia estatal:
 
@@ -2087,6 +2135,8 @@ d) Para la realización de actividades de
 
 pernoctar o turismo 2
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XXI.- Por la expedición de la autorización para
 
 la posesión de un animal manifiestamente feroz
@@ -2097,6 +2147,8 @@ art. 7 de la Ley de Protección de
 
 los Animales del Estado 5
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XXII.- Por consulta que se realice al padrón
 
 vehicular 2
@@ -2106,6 +2158,8 @@ Están exentas de este pago las consultas al
 padrón vehicular que sean solicitadas por
 
 autoridades administrativas o judiciales.
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XXIII.- Por expedición de la constancia de carácter
 
@@ -2525,6 +2579,10 @@ en el apartado B de la fracción II del artículo 14 de la
 
 Ley de Transporte del Estado:
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+Por lo que respecta a los servicios que preste el Poder Judicial del Estado de Campeche, se cobrarán los derechos que se mencionan en las fracciones I y II de este artículo, consistentes en el registro a concurso, inscripción y venta de base, así como por el registro en el padrón de proveedores, contratistas y prestadores de servicio.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VIII. EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS EN MATERIA DE BEBIDAS ALCOHÓLICAS
@@ -2703,7 +2761,9 @@ En la aplicación de las cuotas de los derechos por servicios prestados por inst
 
 I. Las cuotas de recuperación que obtenga el Estado por los servicios públicos de salud serán destinadas para los programas y apoyos de asistencia médica y de rehabilitación en el Estado.
 
-II. Los servicios de salud y atención médica relacionados con programas de protección social en salud, se cobrarán conforme a los convenios o acuerdos que al efecto celebren el Ejecutivo Federal, Entidades Federativas y el Ejecutivo del Estado de Campeche.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+II. Los servicios de salud, medicamentos e insumos que se otorguen a personas sin seguridad social serán gratuitos, y se regirán por lo establecido en el Título Tercero Bis de la Ley General de Salud y el Acuerdo de Coordinación que para tal efecto se haya celebrado con el Instituto de Salud para el Bienestar.
 
 III. Los servicios de salud y atención médica que se presten derivados de los acuerdos o convenios que se celebren con otras instituciones, se sujetarán a las cuotas pactadas en los mismos.
 
@@ -2717,15 +2777,13 @@ VII. La recaudación de estas cuotas de recuperación se hará a través de las 
 
 VIII. El procedimiento y los tiempos para que la Secretaría de Finanzas remita lo recaudado por concepto de cuotas de recuperación se sujetará al convenio de Coordinación que celebren la Secretaría de Finanzas de la Administración Pública Estatal y el Instituto Descentralizado de Servicios de Salud Pública del Estado de Campeche.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 79-D.
 
 Por servicios que proporcionan las instituciones de salud pública se causarán y pagarán los derechos establecidos en el siguiente tabulador:
 
-> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 13 DE JULIO DE 2017, PÁGINAS DE LA 18 A LA 105.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR EN EL P.O. DE 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 2 A LA 7; Y P.O. DE 27 DE DICIEMBRE DE 2019, PAGINAS DE LA 178 A LA 181]</small>
+> <small>[N. DE E. VÉASE TABULADOR DE CUOTAS DE RECUPERACIÓN EN EL P.O. 16 DE DICIEMBRE DE 2021, PÁGINAS DE LA 3 A LA 149.]</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
@@ -3059,31 +3117,39 @@ Ingresarán a la Hacienda Pública los derechos que se cobren por los servicios 
 
 Los pagos que deban efectuar los interesados ingresarán a la oficina recaudadora correspondiente, mediante recibo oficial que expida la misma, cuyo pago podrá efectuarse de conformidad con lo establecido por el artículo 3 de esta Ley.
 
-> <small>(ADICIONADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 79-H.
 
 Los derechos que se pagarán por las publicaciones que se realicen en el Periódico Oficial del Estado serán los siguientes:
 
-Unidades de
-
-Medida y
+I. Por publicación Unidades de Medida y
 
 Actualización
 
-I. Por publicación
+a) Anual 1,000
 
-a) Por plana entera 15.38
+b) Por plana entera 15.38
 
-b) Por media plana 7.69
+c) Por media plana 7.69
 
-c) Por cuarto de plana 3.84
+d) Por cuarto de plana 3.84
 
-II. La expedición de copias certificadas de años anteriores al año 2015, ya que se trata del archivo histórico.
+II. La expedición de copias certificadas
+
+de las ediciones publicadas
 
 a) Por la primera hoja 1.53
 
 b) Por las subsiguientes .1
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 79-I.
+
+Quienes opten por el concepto de publicación anual, previsto en el artículo anterior, deberán realizar el pago a más tardar el día 20 de enero de cada ejercicio fiscal, siempre que la publicación del acto en el Periódico Oficial del Estado se establezca como obligatoria y sea ordenada o se regule expresamente en la Constitución, en las Leyes y Reglamentos de carácter estatal o municipal, en el Presupuesto de Egresos del Estado, por parte de los Poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Públicos Autónomos o se trate de la publicación de los Acuerdos que expidan las personas titulares de las Secretarías y Dependencias de la Administración Pública Estatal y las convocatorias públicas abiertas de plazas, que establece la Ley del Servicio Profesional de Carrera para la Administración Pública del Estado de Campeche.
+
+Los Poderes Legislativo y Judicial, así como las Secretarías, Dependencias y Entidades de la Administración Pública del Estado de Campeche, los Organismos Públicos Autónomos y, en su caso, los Municipios del Estado, pagarán los derechos establecidos en los incisos b) y c) de la fracción I del artículo anterior, cuando se trate de publicaciones de convocatorias para licitaciones públicas, edictos y cédulas de notificación, así como de los documentos cuya inserción ordenen en la sección correspondiente del Periódico Oficial del Estado que no cumplan las características señaladas en el párrafo que antecede.
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
@@ -3706,3 +3772,11 @@ P.O. 5 DE NOVIEMBRE DE 2021.
 PRIMERO. - El presente decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Campeche.
 
 SEGUNDO. - Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 11 POR EL QUE "PRIMERO.- SE REFORMAN DEL TÍTULO TERCERO LA DENOMINACIÓN DEL CAPÍTULO VII "POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS" PARA QUEDAR COMO "POR SERVICIOS PRESTADOS POR EL PODER JUDICIAL DEL ESTADO DE CAMPECHE, LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS"; EL PÁRRAFO PRIMERO DEL ARTÍCULO 72; LA FRACCIÓN II DEL ARTÍCULO 79-C; LOS ARTÍCULOS 79-D Y 79-H"; "SEGUNDO: SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 72 Y EL ARTÍCULO 79-I TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
