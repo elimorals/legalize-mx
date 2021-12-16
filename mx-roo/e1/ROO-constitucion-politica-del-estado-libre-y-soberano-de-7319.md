@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2021-10-07"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -621,49 +621,63 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 
 Para quienes violen lo dispuesto en el presente artículo en los términos que fije la Ley, se establecerán sanciones penales, o en su caso administrativas, así como la obligación de reparar el daño.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 32.
 
-La educación es un derecho fundamental del ser humano y de la sociedad. Todo individuo tiene derecho a la educación en los términos de la legislación aplicable.
+La educación es un derecho fundamental del ser humano y de la sociedad. Todas las personas tienen derecho a la educación, al conocimiento y al aprendizaje continuo.
 
-El Estado garantizará el ejercicio del derecho a la educación para todos y la universalización de la educación básica.
+La educación pública será obligatoria, universal, inclusiva, pública, gratuita y laica.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+La educación inicial, preescolar, primaria y secundaria conforman la educación básica.
 
-La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
+El Estado y los municipios garantizarán la educación inicial, preescolar, primaria, secundaria, media superior y la superior, lo será en términos de la fracción X del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos.
 
-La educación cumple un eminente valor social de interés general. Su orientación descansa en el desenvolvimiento integral de la persona como miembro de una colectividad, y propicia el acceso generalizado a la instrucción pública.
+El Estado de Quintana Roo, participará en la función educacional, con arreglo a la distribución dispuesta en la legislación federal de la materia, entre la Federación, Estados y Municipios, para su adecuada unificación y coordinación.
 
-El Estado de Quintana Roo, participará en la función educacional, con arreglo a la distribución dispuesta en la legislación federal de la materia, entre la Federación, Estados y Municipios, para su adecuada unificación y coordinación y para la determinación de las aportaciones económicas que deban corresponder a este servicio público.
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
-
-La educación en el Estado de Quintana Roo, será laica, científica, democrática y nacionalista. Procurará el constante mejoramiento cultural, social, político y económico del pueblo. Se sustentará en los valores de la Cultura de la Legalidad, el respeto a los Derechos Humanos y la conciencia de la solidaridad nacional e internacional. Luchará contra los privilegios, la exclusión y las rupturas del tejido social. Combatirá la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
 
 Asimismo, atenderá a la comprensión de la problemática estatal y contribuirá al aprovechamiento y conservación de los recursos del Estado, y a la defensa de la independencia política, científica, tecnológica y económica de la nación, para garantizar la continuidad y acrecentamiento de nuestra cultura.
 
-El Estado, además de lo señalado con antelación, deberá:
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
-
-a).- Promover y atender todos los tipos, niveles y modalidades educativas incluyendo la educación inicial, la educación superior y demás necesarios para el desarrollo del Estado y la Nación;
-
-b).- Acentuar la formación y capacitación para el trabajo orientada hacia la productividad; y
-
-c).- Promover y apoyar la investigación científica y tecnológica y alentar el fortalecimiento y difusión de nuestra cultura, la educación física y la práctica del deporte.
-
-Todos los servicios de educación obligatoria que el Estado ofrece serán gratuitos de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
-
-Los beneficiarios del servicio podrán contribuir solidariamente a su mantenimiento, conservación, ampliación y cobertura.
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización retroalimentado por evaluaciones diagnósticas. Corresponderá al Estado la coordinación con la Federación para la implementación del Sistema para las Carreras de las maestras y los maestros en sus funciones docentes, directivos o de supervisión.
 
 Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades, en estos casos los particulares deberán cumplir con los planes y programas que la autoridad competente determine y obtendrán previamente la autorización expresa del Poder Público, sujetándose a las disposiciones de la Ley General de Educación, de la Ley de Educación del Estado, de sus respectivos reglamentos y de los acuerdos secretariales que incidan en la materia.
 
 En los términos que establezca la Ley, el Estado otorgará y retirará la autorización o el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
-Las inversiones que en materia educativa realicen los gobiernos estatal y municipales, y sus organismos descentralizados, así como los particulares, son de interés público, por lo tanto quedan sujetas a la normatividad que salvaguarda este interés.
+El Estado fortalecerá a las instituciones públicas de formación docente, de manera especial a las escuelas normales, en los términos que disponga la ley.
 
-El Gobierno Estatal asumirá el ejercicio de todas las demás atribuciones que le confieran el Artículo 3º de la Constitución General y sus disposiciones reglamentarias.
+Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza y aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno, sean idóneos y contribuyan a los fines de la educación.
+
+A fin de dar cumplimiento a lo dispuesto en la fracción II del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, el Estado emitirá opiniones respecto de la determinación que realice el Ejecutivo Federal acerca de los principios rectores y objetivos de la educación inicial, así como los planes y programas de estudio de la educación básica y normal, y en proyectos y programas educativos que contemplen realidades y contextos regionales y locales.
+
+Las universidades y las demás instituciones de educación superior del Estado a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio.
+
+La educación que se imparta en el Estado, tendrá perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lectoescritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente.
+
+La educación será democrática como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+
+La educación atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura.
+
+La educación que se imparta en el Estado contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+
+El Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos.
+
+En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
+
+En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades.
+
+La educación será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación.
+
+Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social.
+
+Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar.
+
+Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad.
+
+Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -5528,3 +5542,15 @@ P.O. 7 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 151 POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL NUMERAL 6 DE LA FRACCIÓN III Y EL PÁRRAFO QUINTO DE LA FRACCIÓN V, Y SE DEROGA EL PÁRRAFO TERCERO DEL NUMERAL 6 DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 293 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 176 POR EL QUE SE REFORMA EL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA EDUCATIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de enero del año dos mil veintidós.
+
+SEGUNDO. La Legislatura del Estado, deberá llevar a cabo las modificaciones necesarias en la legislación correspondiente, a más tardar en un plazo de un año a partir de la publicación del presente Decreto.
+
+TERCERO. El Poder Ejecutivo del Estado deberá considerar una partida presupuestal para el cumplimiento del presente Decreto que garantice la suficiencia económica para las instituciones educativas, en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, para el Ejercicio Fiscal 2023.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
