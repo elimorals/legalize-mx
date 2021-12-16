@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2021-11-13"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -2749,13 +2749,11 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 ### CAPÍTULO I. DE LOS MAGISTRADOS, CONSEJEROS Y JUECES DE PRIMERA INSTANCIA
 
-(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4., ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA REFORMA A ESTE ARTÍCULO EN LA PORCIÓN NORMATIVA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 196.
 
-Los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, así como los miembros del Consejo General del Poder Judicial del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco Y CUANDO SE ENCUENTREN PRIVADOS DE LA LIBERTAD CON MOTIVO DE UN PROCESO PENAL.
+Los magistrados del Supremo Tribunal de Justicia, así como los miembros del Consejo de la Judicatura del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
@@ -4134,3 +4132,9 @@ DÉCIMO. El Poder Judicial del Estado deberá concretar y publicar las modificac
 DÉCIMO PRIMERO. Los derechos laborales de las y los trabajadores que se vean involucradas (sic) en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
 
 DÉCIMO SEGUNDO. El Consejo de la Judicatura deberá ajustar o expedir los acuerdos generales necesarios dentro de un plazo de 180 (sic) posteriores a la entrada en vigor del presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28728/LXIII/21 QUE REFORMA LOS ARTÍCULOS 31, 33, 34, 37, 40 Y 45; Y ADICIONA LOS ARTÍCULOS 30 BIS, 30 BIS 1, 30 BIS 2, 30 BIS 3, 30 BIS 4, 30 BIS 5, 30 BIS 6, 30 BIS 7, 30 BIS 8, 30 BIS 9, 30 BIS 10, 30 BIS 11, 30 BIS 12, 30 BIS 13 Y 30 BIS 14, Y SE CAMBIA LA DENOMINACIÓN DEL TÍTULO SEGUNDO, TODOS DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIAS (SIC) DEL ESTADO DE JALISCO; Y REFORMA AL ARTÍCULO 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO, Y REFORMA EL ARTÍCULO 97 FRACCIÓN III DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
