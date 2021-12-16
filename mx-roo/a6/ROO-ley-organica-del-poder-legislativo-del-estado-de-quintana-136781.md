@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2021-12-09"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -1671,7 +1671,9 @@ XIII. Solicitar la información y efectuar visitas a los órganos y demás área
 
 XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
 
-XV. Intervenir en los actos de entrega y recepción de los servidores públicos del Poder Legislativo de mandos medios y superiores;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+XV. Intervenir en los actos de entrega y recepción de los servidores públicos del Poder Legislativo;
 
 XVI. Atender las solicitudes de los diferentes órganos y demás áreas administrativas del Poder Legislativo en los asuntos de su competencia;
 
@@ -1724,6 +1726,8 @@ Las responsabilidades administrativas no graves en que incurran los Titulares y 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
 ## TÍTULO DÉCIMO PRIMERO. De la entrega y recepción
+
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO TERCERO. Del Debate
 
@@ -1939,7 +1943,9 @@ Toda iniciativa que conste de más de cien artículos, podrá ser discutida por 
 
 En la discusión en lo particular, se podrán apartar los artículos, fracciones, incisos o párrafos que los diputados quieran impugnar. Los demás artículos que no ameriten discusión se reservarán para su votación.
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 164.
 
@@ -1981,6 +1987,8 @@ Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobad
 
 ### CAPÍTULO SEGUNDO. De la entrega y recepción de la Junta y de las Comisiones
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 169.
 
 Habiéndose dado lectura a la minuta de ley o decreto, o dispensado en su caso de tal trámite, se expedirá la ley o decreto correspondiente, debidamente autorizados por las firmas del presidente y secretario de la mesa directiva y con el sello de la Legislatura, bajo la siguiente fórmula: "La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, Decreta: (Nombre y a continuación el texto aprobado de la Ley o Decreto). Cuando se trate de una declaratoria se usará la misma fórmula con las modificaciones de mencionar el artículo de la Constitución en que se funda y la palabra Declara en lugar de "Decreta".
@@ -2007,101 +2015,33 @@ En la interpretación, reforma, derogación o abrogación de las leyes o decreto
 
 ###### Artículo 173.
 
-Todos los servidores públicos del Poder Legislativo cuyo cargo concluya, deberán realizarán la entrega y recepción de los asuntos de sus competencias, así como de los recursos humanos, materiales y financieros que se les hubiere asignado para el ejercicio de sus funciones.
+Todos los servidores públicos Titulares que integran los Órganos del Poder Legislativo, así como los directores, coordinadores, secretarios técnicos y todo aquél que administre, maneje, ejerza o custodie recursos del Poder Legislativo del Estado de Quintana Roo, cuyo cargo concluya, deberán realizar la entrega y recepción de los asuntos de sus respectivas competencias, así como de los recursos humanos, materiales y financieros que se les hubiere asignado para el ejercicio de sus funciones. Para lo cual se sujetarán a lo dispuesto en la Ley de Entrega y Recepción de los Poderes Públicos, Ayuntamientos, Órganos Públicos Autónomos y de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
 
 ###### Artículo 174.
 
-Al término de cada Legislatura, tienen la obligación de realizar los actos de entrega y recepción, los servidores públicos que conforman:
-
-I. Los Órganos Legislativos;
-
-II. Los Órganos de Representación, y
-
-III. Los Órganos Técnicos y Administrativos.
-
-Lo anterior será aplicable cuando el servidor público administre, maneje, ejerza o tenga a su disposición recursos del Poder Legislativo, o que por la naturaleza e importancia de las funciones que desempeña sea necesario que cumpla con lo estipulado por el presente título.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 175.
 
-El titular del área correspondiente deberá notificar al Órgano Interno de Control, el cambio de alguno de los servidores públicos que tengan que sujetarse al procedimiento de entrega y recepción a que refiere éste título, a más tardar dentro de los tres días siguientes a que se tenga conocimiento o se produzca el término de sus funciones o el cambio de las mismas. En los casos en que el servidor público que deba realizar actos de entrega y recepción sea el titular de un área, su superior jerárquico deberá realizar la notificación correspondiente.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 176.
 
-La entrega y recepción que establece la presente ley, se realizará mediante acto administrativo que se asiente en el acta correspondiente, a la que se acompañará la información y la documentación relativa a los asuntos, obligaciones y recursos asignados de acuerdo a su empleo, cargo o comisión, con base en las disposiciones normativas complementarias y formatos que emita el Órgano Interno de Control del Poder Legislativo.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 177.
 
-Para que el acta administrativa correspondiente a la entrega y recepción sea válida, se requiere que contenga:
-
-I. La fecha, lugar y hora en que da inicio la diligencia;
-
-II. El nombre, cargo u ocupación de las personas que intervienen, quienes se identificarán plenamente;
-
-III. Especificar el asunto u objeto principal del acto o diligencia del cual se va a dejar constancia;
-
-IV. Relacionar por escrito y a detalle, el conjunto de hechos que la diligencia de entrega y recepción comprende así como las situaciones que acontezcan durante su desarrollo, situación que deberá manifestarse bajo protesta de decir verdad;
-
-V. Realizarse en presencia de dos servidores públicos del Poder Legislativo, los cuales no podrán ser, en ningún caso, directores de área o jefes de departamento;
-
-VI. Especificar número, tipo y contenido de los documentos que se anexan y complementan el acta;
-
-VII. Indicar fecha, lugar y hora en que concluye la diligencia;
-
-VIII. Formularse por lo menos en tres tantos;
-
-IX. No debe contener tachaduras, enmendaduras o borraduras; en todo caso, los errores deben corregirse mediante testado, antes del cierre del acta;
-
-X. Los espacios o renglones no utilizados deben ser cancelados con guiones;
-
-XI. Todas y cada una de las hojas que integran el acta circunstanciada de la diligencia de entrega y recepción, deben ser firmadas por los servidores saliente y entrante así como por los testigos y por el titular del Órgano Interno de Control, haciéndose constar en su caso, el hecho de la negativa para hacerlo;
-
-XII. En caso de no existir formato especial del acta, está debe levantarse en papel oficial de la dependencia, organismo o entidad de que se trate cumpliendo con los requisitos establecidos en el presente artículo;
-
-XIII. Las cantidades, deben ser asentadas con números y letras, y
-
-XIV. Las hojas que integren el acta deben foliarse en forma consecutiva y entre sellarse con el sello oficial del Órgano Interno de Control.
-
-La ausencia del titular del Órgano Interno de Control en el acto de entrega y recepción se considera como una falta de formalidad del acto.
-
-El original del acta quedará bajo la custodia del servidor público que recibe, la primera copia a cargo del responsable de la entrega, la segunda se entregará al Órgano Interno de Control para el archivo correspondiente.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 178.
 
-Dependiendo de la naturaleza de las funciones que desempeñe el servidor público que realizará la entrega y recepción, la información y la documentación relativa a los asuntos, obligaciones y recursos que sean objeto de entrega, deberán contemplar por lo menos, los requisitos establecidos a continuación:
-
-I. Situación Patrimonial:
-
-a) Bienes de almacén;
-
-b) Bienes inmuebles;
-
-c) Bienes muebles, y
-
-d) Contratos y convenios.
-
-II. Recursos Humanos:
-
-a) Plantilla de personal actualizada;
-
-b) Inventario de recursos humanos, y
-
-c) Estructura orgánica.
-
-III. Asuntos en trámite;
-
-IV. Resumen o informe ejecutivo de los principales resultados obtenidos durante su gestión;
-
-V. Análisis evaluativo sobre los programas y acciones a su cargo, y
-
-VI. La demás información que por la naturaleza del cargo desempeñado sea necesaria.
-
-Además de los requisitos anteriores, la información y documentación deberá adjuntarse de acuerdo con las disposiciones normativas complementarias y formatos que emita el Órgano Interno de Control.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 179.
 
-El Órgano Interno de Control del Poder Legislativo deberá rendir un informe por escrito a la mesa directiva, dentro de los noventa días naturales posteriores al acto de entrega y recepción, en el cual se relacionen, en su caso, la existencia de las irregularidades detectadas.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
-La mesa directiva hará del conocimiento del pleno, el informe en cuestión cuando existan irregularidades.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO CUARTO. De la entrega y recepción de los Titulares de las Áreas del Poder Legislativo
 
@@ -2109,113 +2049,91 @@ La mesa directiva hará del conocimiento del pleno, el informe en cuestión cuan
 
 ###### Artículo 180.
 
-El proceso de entrega y recepción que realice quien presida la Junta saliente, iniciará a más tardar quince días naturales después de instalada la Legislatura, concluyendo con la firma del acta respectiva, a más tardar dentro de los treinta días naturales siguientes.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 181.
 
-En el acto de entrega y recepción que se realice entre quien presida la Junta saliente y la persona que presida la Junta entrante, intervendrán los antes mencionados, quiénes entregarán sus despachos a sus homólogos entrantes con la intervención del titular del Órgano Interno de Control y de dos testigos designados uno por cada presidente así como por el Secretario General en funciones.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 182.
 
-Quien presida la Junta saliente, además de la documentación e información referida en el artículo 176, deberán adjuntar a su entrega y recepción, por lo menos lo siguiente:
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
-I. Archivo que contenga los asuntos tratados por el pleno, por período ordinario de sesiones y por año de ejercicio legislativo;
-
-II. Archivo que contenga los asuntos tratados por el pleno, por periodo extraordinario de sesiones y por cada año de ejercicio legislativo;
-
-III. Archivo que contenga los asuntos tratados por la comisión permanente correspondiente a cada uno de los periodos de receso;
-
-IV. Relación de iniciativas, así como de juicios políticos, recibidos y pendientes de dictaminar o determinar su procedibilidad, según corresponda, turnados a comisiones;
-
-V. Relación de iniciativas en cartera;
-
-VI. Relación de expedientes de asuntos en trámite de carácter jurisdiccional;
-
-VII. Inventarios de bienes muebles e inmuebles, relación de activos y pasivos del Poder Legislativo, así como la relación de recursos humanos, materiales y financieros que entrega, y
-
-VIII. La documentación comprobatoria que ampare todos los importes ejercidos por los órganos de representación, en el ejercicio de sus atribuciones, tales como gestiones y gastos de representación, entre otros, durante su ejercicio constitucional.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 #### SECCIÓN SEGUNDA. De la entrega y recepción de las Comisiones
 
 ###### Artículo 183.
 
-La entrega y recepción de las comisiones ordinarias tendrá lugar entre los presidentes de las comisiones y los secretarios técnicos entrante y saliente, quiénes entregarán toda la información digital y física concerniente a la comisión ordinaria, en presencia del Secretario General del Poder Legislativo, haciendo constar dicha entrega en acta.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 184.
 
-La entrega y recepción de la información y documentación relativa a las comisiones ordinarias deberá contener por lo menos, lo siguiente:
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
-I. La relación de las iniciativas y acuerdos atendidos con la especificación del trámite dado a las mismas;
-
-II. La relación de iniciativas y los asuntos en trámite de su comisión así como el estado que guardan;
-
-III. La relación, en su caso, de los recursos humanos y materiales que tuvieren a su disposición, y
-
-IV. La demás información que se encuentre en los archivos de la comisión respectiva.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO QUINTO. De la entrega y recepción de los órganos de representación
 
 ###### Artículo 185.
 
-El proceso de entrega y recepción que realicen los diputados salientes, inicia diez días hábiles antes del cese de sus funciones, concluyendo con la firma del acta respectiva, a más tardar dentro de los quince días naturales siguientes.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 186.
 
-Los diputados salientes además de cumplir con las disposiciones que de manera general establece este título, pondrán a disposición del Secretario General, todos aquellos recursos humanos y materiales que se les hubiesen asignado para el desempeño de sus funciones.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO SEXTO. De las irregularidades de la entrega y recepción
 
 ###### Artículo 187.
 
-El presente capítulo será aplicable a los titulares de los órganos técnicos y administrativos, los directores, coordinadores y secretarios técnicos, así como a todo aquél que administre, maneje, ejerza o custodie recursos del Poder Legislativo del Estado.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 188.
 
-El proceso de entrega y recepción inicia con la separación del cargo del titular o del servidor público, y concluye con la firma del acta respectiva, a más tardar dentro de los quince días hábiles siguientes.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 189.
 
-En el acto de entrega y recepción que establece este capítulo intervendrán el servidor público saliente quién le hará entrega de sus asuntos al entrante o en su caso a su superior jerárquico, en presencia de algún funcionario del Órgano Interno de Control.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
-Tratándose de la separación del Secretario General del Poder Legislativo, el procedimiento iniciará con la separación del cargo del mismo quien le hará entrega al entrante o a quien designe para este efecto quien presida la Junta, en tanto es nombrado el nuevo Secretario General, en ambos casos deberá contarse durante el levantamiento del acta respectiva con la presencia del Titular del Órgano Interno de Control y dos testigos.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO SÉPTIMO. De las situaciones excepcionales en la entrega y recepción
 
 ###### Artículo 190.
 
-Dentro de los diez días previos al inicio de cada Legislatura, se reunirá la comisión permanente con la secretaría general y los órganos de representación, a efecto de llevar a cabo el proceso de entrega y recepción de los bienes que le hubieren sido asignados mismos que deberán poner a disposición del Órgano Interno de Control, a fin de que sean entregados a la nueva Legislatura.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
-La Secretaría General deberá informar a la Junta, sobre los activos y bienes de un órgano de representación que no se hayan entregado al entrar en funciones la nueva Legislatura e iniciar las acciones legales que correspondan.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
 ###### Artículo 191.
 
-El proceso de entrega y recepción será sancionado por el Órgano Interno de Control, en el ámbito de su competencia.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 192.
 
-En caso de que el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término de sesenta días hábiles siguientes, contados a partir de la fecha de la conclusión del procedimiento de entrega y recepción, deberá hacerlas del conocimiento de la Secretaría General y del Órgano Interno de Control, según corresponda, a fin de que sea requerido el servidor público saliente y proceda a su aclaración, bajo pena de incurrir en responsabilidad administrativa y/o penal.
-
-El Órgano Interno de Control y, en su caso, la Secretaría General, una vez recibido el escrito que señale las probables irregularidades detectadas en la verificación del acta de entrega y recepción, citará dentro de los quince días hábiles siguientes, a los servidores públicos entrantes y salientes, a efecto de solicitarles las aclaraciones pertinentes y que proporcionen la documentación que en su caso resulte faltante. De esta citación se levantará un acta administrativa, dejando asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas.
-
-Si el servidor público entrante considera que no se aclaran dichas inconsistencias, procederá a través de la Secretaría General y del Órgano Interno de Control, según corresponda, a realizar las investigaciones a que haya lugar y de resultar que se constituye probable responsabilidad administrativa, se procederá conforme lo dispuesto por la Ley General de Responsabilidades Administrativas, sin perjuicio de lo que señalen otros ordenamientos.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 193.
 
-En caso de que algún servidor público no realice la entrega y recepción que regula este título, la Secretaría General o el Órgano Interno de Control, según corresponda, llevará a cabo el procedimiento respectivo para deslindar las responsabilidades conforme a la Ley General de Responsabilidades Administrativas, sin perjuicio de lo que señalen otros ordenamientos.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
-Si a pesar del requerimiento realizado al servidor público saliente no cumpliera esta obligación, se procederá en los términos de lo dispuesto en la Ley General de Responsabilidades Administrativas además que dicha falta será considerada grave para los efectos de la sanción que se le imponga. Lo anterior sin perjuicio de lo que dispongan otros ordenamientos penales o administrativos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO ÚNICO. Disposiciones Especiales
 
 ###### Artículo 194.
 
-En caso de muerte, ausencia injustificada por más de doce días hábiles, incapacidad grave o cualquier otra que inhabilite en sus capacidades mentales a cualquier servidor público del Poder Legislativo obligado a realizar entrega de los asuntos o recursos a su cargo, el titular del área correspondiente le notificará al Órgano Interno de Control o al Secretario General, según corresponda, y levantará acta correspondiente ante la presencia de dos testigos a fin de dejar constancia del estado en que se encuentran los asuntos y recursos así como realizar la entrega a la persona nombrada como encargada o titular definitivo.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ###### Artículo 195.
 
-En el caso particular de los diputados en los que se actualice los supuestos enumerados en el artículo anterior, la entrega y recepción se realizará con el personal de confianza que tuviere asignado, en cuyo caso el Secretario General levantará acta correspondiente al estado en que se encuentran los asuntos y recursos materiales que se le hubiere asignado en el ejercicio de sus funciones y en presencia del titular del Órgano Interno de Control.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2021)
 
 ## TÍTULO DÉCIMO TERCERO. De las Prevenciones Generales
 
@@ -2324,3 +2242,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. Los plazos y procedimientos establecidos en el presente Decreto serán aplicables a las iniciativas de Ley o Decreto presentadas en la H. XVI Legislatura del Estado que al inicio de la vigencia del presente decreto no hayan fenecido en sus plazos para aprobación ante la Legislatura o dictaminación en las comisiones ordinarias competentes. Asimismo, le serán aplicables a las iniciativas presentadas en legislaturas anteriores a la XVI Legislatura del Estado de Quintana Roo, que se encuentran pendientes de votación ante el Pleno de la Legislatura.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 165 POR EL QUE SE EXPIDE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS PÚBLICOS AUTÓNOMOS Y DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
