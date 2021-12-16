@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2016-12-25"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO FISCAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -840,6 +840,10 @@ XVI. Crear, suprimir o modificar las cuotas, tasas o tarifas de los derechos pro
 XVII. Delegar en el Secretario de Finanzas y de Administración del Estado y en otras autoridades fiscales las facultades anteriores, con excepción de la relativa a la reglamentación de las leyes fiscales y las previstas en las fracciones II, XIV, XV, XVI y XVII de este artículo.
 
 XVIII. Las demás que le otorgan como autoridad fiscal, la Constitución Política del Estado, la presente ley y los demás ordenamientos fiscales.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 67 BIS.- El Gobernador del Estado, durante el mes de marzo podrá otorgar subsidios que podrán ser hasta de un 80% en el pago de derechos por los servicios que presta el Registro Público de la Propiedad y del Comercio, así como en los gastos respectivos de ejecución, multas y recargos aplicables a los trámites relacionados con la escrituración de viviendas de interés social y popular, así como de terrenos populares, de acuerdo a las características que se contienen en la Ley General de Desarrollo Urbano para el Estado de Durango; atendiendo a que estos beneficios se otorgarán únicamente al propietario de una sola vivienda o terreno.
 
 ###### ARTICULO 68.
 
@@ -2816,3 +2820,13 @@ P.O. 25 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto iniciará su vigencia el día 1 de enero de 2017, el cual será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+[P.O. TRANSITORIOS DEL “DECRETO NO. 009.- QUE CONTIENE ADICIÓN DEL ARTÍCULO 67 BIS AL CÓDIGO FISCAL DEL ESTADO DE DURANGO”.
+
+Primero. el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. No podrán ser objeto de los beneficios previstos en el presente Decreto los propietarios que hayan adquirido viviendas mediante contrato de compra venta posteriores a la entrada en vigor del presente.
+
+Tercero. Para dar cumplimiento al presente decreto, el Titular del Poder Ejecutivo deberá considerar dichos beneficios en la Ley de Ingresos del Estado para el Ejercicio Fiscal correspondiente.
