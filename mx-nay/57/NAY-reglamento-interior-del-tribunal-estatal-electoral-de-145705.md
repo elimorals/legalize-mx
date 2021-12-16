@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-estatal-electoral-de-145705"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-22"
-last_updated: "2021-01-21"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ENERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en la Sección Tercera del Número 115 en el Periódico Oficial del Estado de Nayarit, el martes 22 de diciembre de 2020.
 
@@ -1507,6 +1505,8 @@ La Presidenta o Presidente deberá llamar al orden a la Magistrada o Magistrado 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 83.
 
 Las Magistradas o Magistrados, deberán excusarse de conocer de los asuntos donde tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad.
@@ -1557,9 +1557,9 @@ Por cuanto hace a los órganos electorales y autoridades responsables, así como
 
 ###### Artículo 89.
 
-Las Magistradas o Magistrados numerarios que hayan concluido su encargo por el cual fueron designados por el Senado de la República, disfrutarán de un haber por retiro a partir del día inmediato siguiente a su conclusión, por un monto equivalente a una cuarta parte del tiempo en que hayan ejercido su función; del mismo monto al que se establezca y reciban los Magistrados en activo. Además, tendrán derecho a recibir el fondo de ahorro establecido para las o los Magistrados en activo, así como a una gratificación anual por concepto de aguinaldo correspondiente a dos meses del salario señalado.
+Las Magistradas o Magistrados numerarios que hayan concluido su encargo por el cual fueron designados por el Senado de la República, disfrutarán de un haber por retiro a partir del día inmediato siguiente a su conclusión, por un monto equivalente a una cuarta parte del tiempo en que hayan ejercido su función; del mismo monto al que se establezca y reciban los Magistrados en activo. Así como a una gratificación anual por concepto de aguinaldo correspondiente a dos meses del salario señalado. En el último periodo del haber de retiro, se pagará la parte proporcional de aguinaldo.
 
-El pago de las prestaciones establecidas en el párrafo anterior se realizará con la ministración correspondiente de cada mes, a más tardar el día último de estos, del año que corresponda. Con excepción del relativo al mes de diciembre que se pagará el día 15 del citado mes. En la misma fecha, se cubrirá el pago del aguinaldo y fondo de ahorro anualizado.
+El pago de las prestaciones establecidas en el párrafo anterior se realizará con la ministración correspondiente de cada quincena, del mes y del año que corresponda. Con excepción del relativo al mes de diciembre que se pagará el día 15 del citado mes, en el cual se cubrirá el pago del aguinaldo y el mes completo correspondiente.
 
 En caso de fallecimiento de la Magistrada o Magistrado, la remuneración de transición se transmite con su misma extensión, alcance y contenido al cónyuge e hijos.
 
@@ -1610,3 +1610,11 @@ Tercero. Los asuntos administrativos y jurisdiccionales tramitados antes de la e
 Así, se aprobó en sesión pública del Pleno del Tribunal Estatal Electoral, celebrada el viernes dieciséis de enero de dos mil veinte, integrado por la Magistrada Presidenta Irina Graciela Cervantes Bravo y los Magistrados Gabriel Gradilla Ortega, José Luis Brahms Gómez y Rubén Flores Portillo, quienes firman la referida acta para constancia de su aprobación, ante la fe del Secretario General de Acuerdos Héctor Alberto Tejeda Rodríguez.
 
 Héctor Alberto Tejeda Rodríguez, Secretario General de Acuerdos (sic) Tribunal Estatal Electoral Nayarit.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ARTÍCULO 89, DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL".]
+
+Primera. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
