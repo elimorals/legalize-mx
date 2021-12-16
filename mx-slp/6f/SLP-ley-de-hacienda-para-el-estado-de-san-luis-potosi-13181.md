@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2021-11-19"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -479,11 +479,11 @@ Son sujetos de este impuesto las personas físicas y morales que realicen las er
 
 La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal, en términos del artículo 20 de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 23.
 
-El Impuesto se causará, liquidará y pagará aplicando la tasa del dos punto cinco por ciento sobre la base que señala el artículo anterior.
+El Impuesto se causará, liquidará y pagará aplicando la tasa del tres por ciento sobre la base que señala el artículo anterior.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -3564,3 +3564,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 TERCERO. Una vez publicado este Decreto en el Periódico Oficial del Estado "Plan de San Luis", no se proporcionarán placas, tarjetas de circulación ni calcomanías a vehículos de motor, cuando los propietarios tengan adeudos con el fisco de vehículos inscritos en el padrón vehicular estatal, hasta que éstos hayan sido cubiertos. Corresponderá a la Secretaría de Finanzas de Gobierno del Estado, fijar los requisitos y lineamientos para que los contribuyentes puedan regularizar sus adeudos.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO.- 0159. LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2022; SE REFORMA EL ARTÍCULO 23 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
