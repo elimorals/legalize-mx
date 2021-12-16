@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-entrega-y-recepcion-de-los-recursos-asignados-a-los-7359
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-01"
-last_updated: "2010-03-01"
+last_updated: "2021-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE ENTREGA Y RECEPCION DE LOS RECURSOS ASIGNADOS A LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA Y DE LOS AYUNTAMIENTOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS PÚBLICOS AUTÓNOMOS Y DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENTREGA Y RECEPCION DE LOS RECURSOS ASIGNADOS A LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA Y DE LOS AYUNTAMIENTOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de marzo del 2010.
 
@@ -352,3 +354,19 @@ LIC. GUSTAVO ALBERTO GARCÍA BRADLEY
 DIPUTADO SECRETARIO:
 
 C. JOSÉ FRANCISCO HADAD ESTEFANO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 165 POR EL QUE SE EXPIDE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS PÚBLICOS AUTÓNOMOS Y DE LAS ENTIDADES DE LA ADMINSITRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Entrega y Recepción de los Recursos asignados a los Servidores Públicos de la Administración Pública y de los Ayuntamientos del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado, de fecha 02 de marzo del año 2010 y se derogan las demás disposiciones legales aplicables de igual o menor jerarquía que se opongan a la presente Ley.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley, la Auditoria Superior del Estado de Quintana Roo, expedirá los manuales, lineamientos y formatos para los procesos de Entrega Recepción institucional e individual de los sujetos obligados en el presente ordenamiento, mismos que se publicarán en el Periódico Oficial del Estado de Quintana Roo.
+
+CUARTO. Los Procesos de Entrega y Recepción intermedia y Final iniciados con anterioridad a la entrada en vigor de esta Ley, deberán continuarse hasta su conclusión en los términos de la Ley que se abroga y su Reglamento.
+
+QUINTO. El Poder Legislativo contará con 60 días hábiles, posteriores a la entrada en vigor del presente Decreto, para emitir su reglamento respetivo del proceso de entrega recepción.
