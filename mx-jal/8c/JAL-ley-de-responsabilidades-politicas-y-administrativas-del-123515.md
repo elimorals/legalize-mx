@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2021-10-02"
+last_updated: "2021-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -97,7 +97,9 @@ X. Los demás órganos y entes públicos que determinen las leyes.
 
 3. No podrán imponerse dos veces, por una sola conducta, sanciones de la misma naturaleza.
 
-## TÍTULO SEGUNDO. JUICIO POLÍTICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO SEGUNDO. DEL JUICIO POLÍTICO Y LA DECLARACIÓN DE PROCEDENCIA
 
 ### Capítulo I. Sujetos y causas de Juicio Político
 
@@ -383,31 +385,181 @@ III. El monto del daño de la infracción cometida, en su caso; y
 
 IV. El grado de intervención por parte del servidor público en el acto u omisión que dieron motivo al procedimiento.
 
-### Capítulo III. Disposiciones generales del Juicio Político
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-#### Sección Primera. Disposiciones Generales
+### Capítulo III. De la declaración de procedencia de juicio penal
 
-#### Sección Segunda. De su Estructura
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+#### Sección primera. Disposiciones generales
 
-### Capítulo I. Observancia de la Ley General de Responsabilidades Administrativas
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis.
+
+1. Para proceder penalmente contra magistrados que por disposición constitucional cuenten con inmunidad procesal, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
+
+2. Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 1.
+
+1. No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos, a que se refiere el párrafo primero (sic) artículo anterior, cometa un delito durante el tiempo en que se encuentre separado de su encargo o no haya asumido el ejercicio del mismo.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 2.
+
+1. Para declarar que ha lugar a ejercitar la acción penal, es necesario que existan datos de prueba que establezcan que se ha cometido un hecho que la ley señala como delito y la probabilidad de que el denunciado lo cometió o participó en su comisión.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+#### Sección segunda. Del procedimiento
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 3.
+
+1. Cuando el ministerio público determine judicializar la carpeta de investigación en contra de alguno de los servidores públicos contemplados en el primer párrafo del artículo 30 Bis del presente ordenamiento, como requisito de procedibilidad del ejercicio de la acción penal correspondiente, el Fiscal General deberá solicitar, ante el Congreso del Estado, la declaración de procedencia de juicio penal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 4.
+
+1. El escrito de solicitud de declaración de procedencia de juicio penal se presentará por duplicado en la Secretaría General del Congreso del Estado y deberá reunir los siguientes requisitos:
+
+I. Deberá estar firmado por el Fiscal General; y
+
+II. Deberá estar acompañado con copias autentificadas de la carpeta de investigación que contenga los datos de prueba y los razonamientos con los que funde la solicitud de imputación.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 5.
+
+1. Una vez presentado el escrito, el Secretario General del Congreso, lo remitirá al Pleno de la Asamblea para que éste la turne a la Comisión de Responsabilidades.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 6.
+
+1. La Comisión de Responsabilidades, dentro de los tres días hábiles siguientes a aquel en que haya recibido la solicitud, notificará al denunciado la apertura del procedimiento de declaración de procedencia de juicio penal, observando en todo momento las siguientes prevenciones:
+
+I. La notificación se realizará en el domicilio de la dependencia en la que el servidor público preste sus servicios o realice sus funciones o en su defecto, el lugar donde se le encuentre;
+
+II. Se le extenderá un juego de copias certificadas del escrito de solicitud presentado por el Fiscal General y de la carpeta de investigación instaurada en su contra;
+
+III. Se le hará saber que puede comparecer o presentar sus alegatos por escrito, dentro de los siguientes cinco días hábiles a aquel en que surta efectos la notificación;
+
+IV. Se hará de su conocimiento que tiene derecho a nombrar a un abogado o licenciado en derecho para que lo defienda; y
+
+V. Se le prevendrá para que señale domicilio para oír todo tipo de notificaciones.
+
+2. Una vez que se tenga la certeza de que se han cumplido todas y cada una de las prevenciones contempladas en el presente artículo y transcurridos los cinco días de plazo, independientemente de que el denunciado comparezca o no, se continuará con el procedimiento.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 7.
+
+1. La Comisión de Responsabilidades analizará la carpeta de investigación que le haga llegar el Fiscal General, así como los alegatos y argumentos esgrimidos por el denunciado. Deberá emitir un dictamen dentro de un plazo no mayor de treinta días hábiles, por medio del cual determinará si ha lugar o no a la declaración de procedencia del juicio penal en contra del servidor público denunciado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 8.
+
+1. Dada la cuenta del dictamen, el presidente del Congreso del Estado anunciará a la Asamblea que debe erigirse en jurado de procedencia que deberá verificarse al día siguiente y mandará citar para la audiencia, al Fiscal General, al servidor público denunciado y a su defensor.
+
+2. Si el Fiscal General lo considera conveniente, podrá ser acompañado para el desahogo de la audiencia del o de los servidores públicos que integraron la carpeta de investigación.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 9.
+
+1. El día designado para la audiencia, se observará el siguiente desarrollo:
+
+I. Quienes asistan a la audiencia deberán permanecer en la misma respetuosamente, en silencio y no podrán introducir instrumentos que permitan grabar imágenes de video, sonidos o gráficas.
+
+II. La Secretaría dará lectura a las constancias procesales, las cuales se integran por:
+
+a) El escrito de solicitud de declaración de procedencia;
+
+b) Los datos de prueba que integran la carpeta de investigación;
+
+c) Los alegatos presentados por el servidor público denunciado o por su defensor;
+
+III. Se otorgará el uso de la palabra en primer término al Fiscal General o en su caso, al o a los servidores públicos que este designe y, posteriormente al acusado o a su defensor para que expresen lo que a su derecho convenga;
+
+IV. Una vez escuchadas las partes, la Asamblea en pleno, discutirá los hechos probablemente constitutivos de delito y la existencia de la probabilidad de que servidor público denunciado participo en ellos;
+
+V. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni al Fiscal General o al o a los servidores públicos que le acompañen, con la excepción de que cualquier integrante de la Asamblea solicite algunas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos; y
+
+VI. Cerrada la etapa de discusión, se retirarán el acusado y su defensor, así como el Fiscal General y personas que lo acompañen. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea, a excepción de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de votos de sus integrantes, si ha lugar o no a proceder contra el denunciado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 10.
+
+1. Si el pleno de la Asamblea declara que ha lugar a proceder penalmente en contra del servidor público denunciado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista la inmunidad penal por el desempeño del empleo cargo o comisión, y se declarará que el término para el ejercicio de la acción penal queda en suspenso en tanto el servidor público continúe en funciones; la resolución en la que se niegue la declaración de procedencia de juicio penal no será obstáculo para que el procedimiento continúe su curso a partir del momento en que el servidor público denunciado deje de estar en funciones.
+
+2. La declaratoria del Congreso de ninguna manera prejuzga sobre los fundamentos de la denuncia.
+
+3. Por ningún motivo, las resoluciones de declaración de procedencia del juicio penal podrán tener trascendencia jurídica en el proceso penal seguido ante las autoridades jurisdiccionales ordinarias.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 11.
+
+1. No podrá seguirse proceso penal a alguno de los servidores públicos de los que hace referencia el artículo 30 Bis párrafo primero de esta ley sin que se hayan satisfecho todos y cada uno de los requisitos que contiene la presente sección.
+
+2. En caso de que se haya ejercitado la acción penal en contra de algún servidor público con inmunidad, el Congreso del Estado, a través de la Secretaría, librará oficio al juez que conozca de la causa a fin de que suspenda el procedimiento, en tanto se plantea y resuelve si ha lugar a proceder, ordenando deje sin efecto cualquier acto procesal que se hubiere dictado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 12.
+
+1. Si una vez procesado el servidor público resultare absuelto, se le repondrá en su empleo, cargo o comisión, enterándole los sueldos que hubiere dejado de percibir.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+#### Sección tercera. De la declaración de procedencia de juicio penal por la comisión de delitos federales
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 13.
+
+1. El gobernador, los diputados del Congreso del Estado, los magistrados del Poder Judicial del Estado y los miembros del Consejo de la Judicatura, gozan de inmunidad constitucional por la comisión de delitos federales en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Bis 14.
+
+1. Cuando alguno de los servidores públicos mencionados en el artículo anterior hubiere sido sujeto de Declaración de Procedencia por el Congreso de la Unión, en los términos del título IV de la Constitución Federal, una vez recibida la declaración correspondiente en el Congreso del Estado, éste procederá como corresponda a lo previsto en la ley.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo IV. Disposiciones comunes para los procedimientos de juicio político y declaración de procedencia
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 31.
 
-1. Las declaraciones y resoluciones definitivas del Congreso del Estado en materia de juicio político, son inatacables.
+1. Las declaraciones y resoluciones definitivas del Congreso del Estado en materia de juicio político y declaración de procedencia de juicio penal, son inatacables.
 
 ###### Artículo 32.
 
 1. La Secretaría General del Congreso del Estado enviará a la Asamblea, por riguroso turno, las denuncias o acusaciones que se presenten.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-1. Todas las sesiones en que se desahogue alguno de los trámites previstos en la presente ley relativos al juicio político, tendrán el carácter de extraordinarias.
+1. Todas las sesiones en que se desahogue alguno de los trámites previstos en la presente ley relativos al juicio político o a la declaración de procedencia de juicio penal, tendrán el carácter de extraordinarias.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 34.
 
-1. Por ningún motivo y bajo ninguna circunstancia podrá dispensarse trámite alguno de los establecidos en el presente ordenamiento, para los procedimientos de juicio político.
+1. Por ningún motivo y bajo ninguna circunstancia podrá dispensarse trámite alguno de los establecidos en el presente ordenamiento, para los procedimientos de juicio político y declaración de procedencia de juicio penal.
 
 ###### Artículo 35.
 
@@ -443,7 +595,9 @@ VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, 
 
 2. Sólo con expresión de causa podrá recusarse a cualquiera de los diputados o a los miembros del órgano técnico jurídico de estudio y cuenta del Congreso del Estado que deban participar en actos del procedimiento.
 
-3. La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, cualquier miembro de la Comisión de Responsabilidades o por el denunciante, desde el momento en que el denunciado es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+3. La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, cualquier miembro de la Comisión de Responsabilidades o por el denunciante, desde el momento en que el denunciado es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político o en jurado de procedencia, en los casos de declaración de procedencia de juicio penal.
 
 ###### Artículo 38.
 
@@ -457,9 +611,11 @@ VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, 
 
 2. Las autoridades estarán obligadas a entregar las constancias señaladas; si no lo hicieren, la Comisión de Responsabilidades o la Asamblea, les fijará un plazo máximo de cinco días hábiles para que las expida, apercibida de que, en caso de no cumplir con su obligación, se le fincarán por medio de su superior jerárquico, responsabilidades administrativas.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 40.
 
-1. La Asamblea del Congreso del Estado no podrá erigirse en jurado de acusación o de sentencia sin que antes se haya comprobado fehacientemente que las partes han sido debidamente notificadas y citadas.
+1. La Asamblea del Congreso del Estado no podrá erigirse en jurado de acusación, de sentencia o de procedencia sin que antes se haya comprobado fehacientemente que las partes han sido debidamente notificadas y citadas.
 
 ###### Artículo 41.
 
@@ -481,13 +637,15 @@ VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, 
 
 ###### Artículo 45.
 
-1. Las sentencias de juicio político aprobadas por la Asamblea con arreglo a esta ley, se comunicarán a los tribunales del Poder Judicial del Estado, al ayuntamiento correspondiente, si se tratare de alguno de sus integrantes y al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el periódico oficial “El Estado de Jalisco”.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+
+1. Las declaraciones de procedencia o las sentencias de juicio político aprobadas por la Asamblea con arreglo a esta ley, se comunicarán, según sea el caso, al Supremo Tribunal de Justicia, el Consejo de la Judicatura del Estado o al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el periódico oficial "El Estado de Jalisco".
 
 2. En todos los casos relativos a la materia sustantiva o adjetiva no previstos en el presente Título, se aplicará, en lo conducente, las disposiciones aplicables del Código Nacional de Procedimientos Penales y el Código Penal del Estado Libre y Soberano de Jalisco.
 
 ## TÍTULO TERCERO. RESPONSABILIDAD ADMINISTRATIVA
 
-### Capítulo II. Causas de responsabilidades administrativas no graves
+### Capítulo I. Observancia de la Ley General de Responsabilidades Administrativas
 
 ###### Artículo 46.
 
@@ -507,7 +665,7 @@ IV. Los procedimientos de investigación, sustanciación y calificación de las 
 
 V. Todos aquellos otros conceptos, definiciones, ámbitos, atribuciones o procedimientos que se encuentren establecidos y regulados por las leyes generales de Responsabilidades Administrativas y del Sistema Nacional Anticorrupción.
 
-### Capítulo III. Órganos Internos de Control
+### Capítulo II. Causas de responsabilidades administrativas no graves
 
 ###### Artículo 47.
 
@@ -581,7 +739,7 @@ XXIII. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, inde
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo IV. Procedimientos de responsabilidad administrativa y sus recursos
+### Capítulo III. Órganos Internos de Control
 
 ###### Artículo 50.
 
@@ -592,6 +750,8 @@ XXIII. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, inde
 2. La Contraloría del Estado es el Órgano Interno del Control del Poder Ejecutivo del Estado que de manera directa, o a través de los órganos internos de control de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, ejercerá sus atribuciones de conformidad a la legislación orgánica del Poder Ejecutivo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+#### Sección Primera. Disposiciones Generales
 
 ###### Artículo 51.
 
@@ -672,6 +832,10 @@ III. De Auditoría, Promoción, Evaluación, Fortalecimiento y Control Interno; 
 IV. Las demás que se consideren necesarias para el adecuado desempeño del órgano interno de control.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+
+#### Sección Segunda. De su Estructura
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 53 Bis.
 
@@ -831,7 +995,7 @@ XXIV. Las demás que establezca la ley.
 
 En el caso de los entes constitucionalmente autónomos, se presentará ante el Congreso del Estado.
 
-### Capítulo IV (SIC). Facilidades para presentar las declaraciones fiscal, patrimonial y de intereses
+### Capítulo IV. Procedimientos de responsabilidad administrativa y sus recursos
 
 ###### Artículo 54.
 
@@ -876,6 +1040,8 @@ En el caso de los entes constitucionalmente autónomos, se presentará ante el C
 I. Los procedimientos de responsabilidad administrativa por faltas administrativas graves cometidas por los servidores públicos y las que correspondan a los particulares vinculados con faltas administrativas graves; y
 
 II. Los procedimientos para fincar las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de sus entes públicos.
+
+### Capítulo IV (SIC). Facilidades para presentar las declaraciones fiscal, patrimonial y de intereses
 
 ###### Artículo 61.
 
@@ -1054,3 +1220,9 @@ P.O. 2 DE OCTUBRE DE 2021.
 PRIMERO: El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO: Se otorga un plazo máximo de 120 días para que los entes públicos municipales, armonicen los reglamentos correspondientes.
+
+P.O. 16 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28728/LXIII/21 QUE REFORMA LOS ARTÍCULOS 31, 33, 34, 37, 40 Y 45; Y ADICIONA LOS ARTÍCULOS 30 BIS, 30 BIS 1, 30 BIS 2, 30 BIS 3, 30 BIS 4, 30 BIS 5, 30 BIS 6, 30 BIS 7, 30 BIS 8, 30 BIS 9, 30 BIS 10, 30 BIS 11, 30 BIS 12, 30 BIS 13 Y 30 BIS 14, Y SE CAMBIA LA DENOMINACIÓN DEL TÍTULO SEGUNDO, TODOS DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIAS (SIC) DEL ESTADO DE JALISCO; Y REFORMA AL ARTÍCULO 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO, Y REFORMA EL ARTÍCULO 97 FRACCIÓN III DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
