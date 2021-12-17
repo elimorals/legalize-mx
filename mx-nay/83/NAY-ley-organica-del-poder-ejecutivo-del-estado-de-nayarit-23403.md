@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2021-12-09"
+last_updated: "2021-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE MARZO DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE DICIEMBRE DE 2021.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -2873,7 +2875,9 @@ SEXTO. A la entrada en vigor del presente Decreto, el Poder Ejecutivo contará c
 
 SÉPTIMO. La resolución de los aspectos administrativos no previstos en el presente Decreto corresponderá a la Secretaría de Administración y Finanzas y Secretaría para la Honestidad y Buena Gobernanza del Poder Ejecutivo, previo a las opiniones que emitan los titulares de las Dependencias involucradas.
 
-Las atribuciones que corresponden en otras leyes y reglamentos a la Secretaría de la Contraloría General se entenderán como competencia de la Secretaría para la Honestidad y Buena Gobernanza.
+> <small>(F. DE E., P.O. 17 DE DICIEMBRE DE 2021)</small>
+
+Las menciones realizadas y las atribuciones que corresponden en otras leyes, reglamentos, decretos y demás instrumentos normativos a la Secretaría de la Contraloría General se entenderán de manera indistinta y como competencia de la Secretaría para la Honestidad y Buena Gobernanza.
 
 > <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2021)</small>
 
