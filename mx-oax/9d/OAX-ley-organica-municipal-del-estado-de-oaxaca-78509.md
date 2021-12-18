@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-12-11"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -575,9 +575,9 @@ XIX.- Aprobar el nombramiento o remoción del Secretario, Tesorero, Responsable 
 
 XX.- Resolver en los términos convenientes para la comunidad, los casos de concesión de servicios públicos de su competencia, con excepción de los de seguridad pública y tránsito;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-XXI.- Elaborar y presentar ante el Congreso del Estado, a más tardar el último día del mes de noviembre de cada año, la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente. En lo que respecta a la iniciativa de Ley de Ingresos Municipales que se aplicará en el primer año de ejercicio constitucional, deberá aprobarse por el Ayuntamiento en funciones a propuesta del Presidente Municipal entrante que asumirá el cargo el primero de enero del año que corresponda.
+XXI.- Elaborar y presentar en forma digital editable ante el Congreso del Estado, a más tardar el último día del mes de noviembre de cada año, la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente. En lo que respecta a la iniciativa de Ley de Ingresos Municipales que se aplicará en el Primer Año de Ejercicio Constitucional, deberá aprobarse por el Ayuntamiento en funciones a propuesta del Presidente Municipal entrante que asumirá el cargo el primero de enero del año que corresponda. Misma que deberá de cumplir con los requisitos establecidos en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, las Normas emitidas por el Consejo Nacional de Armonización Contable y demás disposiciones legales aplicables.
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -725,7 +725,9 @@ h) Estado de actividades;
 
 LIII.- Solicitar al Congreso del Estado, autorización para contratar créditos destinados a las inversiones públicas productivas en los términos de la Ley de Deuda Pública para el Estado de Oaxaca;
 
-LIV.- Realizar descuentos en el cobro de contribuciones a favor de los pensionados, jubilados, pensionistas, discapacitados, senescentes y demás que dispongan las leyes del Estado, que tengan su domicilio en el ámbito de la jurisdicción del Municipio respectivo;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+LIV. Realizar descuentos en el cobro de contribuciones a favor de los pensionados, jubilados, pensionistas, discapacitados, senescentes, familias monoparentales y demás que dispongan las leyes del Estado, que tengan su domicilio en el ámbito de la jurisdicción del Municipio respectivo;
 
 LV.- Celebrar convenios con el Estado a fin de que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna función o de un servicio que el Municipio tenga a su cargo o para que se ejerzan coordinadamente por el Estado y el propio Municipio;
 
@@ -2409,11 +2411,11 @@ Así como de los ingresos que se determinen en leyes, decretos federales y estat
 
 Las Leyes de Ingresos Municipales una vez aprobadas por el Congreso del Estado tendrán vigencia anual y regirán el ejercicio fiscal a partir del 1º de enero y hasta el 31 de diciembre del año que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 123.
 
-La iniciativa de la Ley de Ingresos Municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos municipales deberá aprobarse por la mayoría calificada del Cabildo para su presentación ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año; en los términos establecidos por la fracción XXI del artículo 43 de esta Ley.
+La iniciativa de la Ley de Ingresos municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos Municipales deberá aprobarse por la mayoría calificada en sesión de cabildo que será presidida por la presidencia municipal o quien le substituya legalmente, con la presencia de la o las sindicaturas y la regiduría de hacienda, para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año en los términos establecidos en la fracción XXI del artículo 43 de esta Ley. Cuando el resultado de la operación para determinar la mayoría calificada no sea un número entero se tomará en consideración el número entero superior inmediato que corresponda.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -4612,3 +4614,11 @@ P.O. 11 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2716.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXI Y LIV DEL ARTÍCULO 43, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 123 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
