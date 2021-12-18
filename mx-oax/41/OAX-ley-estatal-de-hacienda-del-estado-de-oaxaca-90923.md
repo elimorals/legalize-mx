@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2020-12-26"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -1321,9 +1321,9 @@ VII. Las demás que señale la ley y los ordenamientos fiscales aplicables.
 
 Son objeto de este impuesto:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección o dependencia de un patrón, o que se realicen mediante un contratista, intermediario laboral, tercero o cualquiera que sea su denominación, aun cuando cualesquiera de los sujetos mencionados en esta fracción, o todos ellos tengan su domicilio fiscal fuera del Estado, y
+I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección o dependencia de un patrón, o que se realicen mediante la subcontratación de la prestación de servicios especializados o la ejecución de obras especializadas, en términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo, aun cuando cualesquiera de los sujetos mencionados en esta fracción, o todos ellos tengan su domicilio fiscal fuera del Estado, y
 
 II. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, por los Servicios prestados dentro del territorio del estado, aún cuando los prestadores del servicio o los beneficiaros del mismo, o ambos, tengan su domicilio fiscal fuera de éste.
 
@@ -1333,9 +1333,9 @@ Para los efectos de este impuesto quedan comprendidas en el concepto de remunera
 
 Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 67 de esta ley.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-En el caso de la fracción primera de este artículo, las personas físicas, morales o unidades económicas que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
+En el caso de la fracción primera de este artículo, las personas físicas, morales o unidades económicas que contraten la prestación de servicios especializados o la ejecución de obras especializadas con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
 
 En el caso de la fracción II de este artículo, las personas físicas, morales o unidades económicas que contraten la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando el servicio personal se preste en los términos de la misma fracción, estarán obligadas a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
 
@@ -1343,11 +1343,13 @@ En el caso de la fracción II de este artículo, las personas físicas, morales 
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior, así como los Gobiernos Federal, Estatal y Municipal, los Poderes, Órganos Autónomos, Dependencias, Órganos Desconcentrados, Entidades: Organismos Descentralizados, Auxiliares de Colaboración, Empresas de Participación Estatal y los Fideicomisos Públicos de los tres órdenes de Gobierno.
 
-Cuando el pago de las erogaciones por remuneraciones al trabajo personal ya sea subordinado o no, se realice a través de un intermediario laboral, cualquiera que sea la denominación que los beneficiarios del servicio e intermediarios asuman, ambos serán responsables solidarios entre sí, respecto del cumplimiento de las obligaciones contenidas en este Capítulo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+Cuando el pago de las erogaciones por remuneraciones al trabajo personal que se realice por la subcontratación de la prestación de servicios especializados o la ejecución de obras especializadas, ambos serán responsables solidarios entre sí, respecto del cumplimiento de las obligaciones contenidas en este Capítulo.
 
-Están obligados a retener y enterar este impuesto en los términos de la presente Ley, quienes obtengan de otras personas físicas, morales o unidades económicas, en su calidad de intermediarias, de conformidad a los artículos 13, 14 y 15 de la Ley Federal del Trabajo, domiciliadas dentro o fuera del territorio de esta entidad, la prestación de un servicio personal subordinado, siempre que el mismo se preste dentro del territorio del Estado. En este caso deberán entregar a la persona física, moral o unidad económica que les proporcione los trabajadores, la constancia de retención correspondiente.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+Están obligados a retener y enterar este impuesto en los términos de la presente Ley, quienes obtengan de otras personas físicas, morales o unidades económicas, la prestación de servicios especializados o la ejecución de obras especializadas, de conformidad a los artículos 13, 14 y 15 de la Ley Federal del Trabajo, domiciliadas dentro o fuera del territorio de esta entidad, la prestación de un servicio personal subordinado, siempre que el mismo se preste dentro del territorio del Estado. En este caso deberán entregar a la persona física, moral o unidad económica que les proporcione los trabajadores, la constancia de retención correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1708,5 +1710,15 @@ P.O. 26 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiuno.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 12.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I, Y EL CUARTO PÁRRAFO DEL ARTÍCULO 63; ASÍ COMO EL SEGUNDO Y TERCER PÁRRAFOS DEL ARTÍCULO 64 DE LA LEY ESTATAL DE HACIENDA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
