@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2021-09-04"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -441,9 +441,9 @@ II.- Conducir los asuntos internos del orden político del Estado;
 
 III. Conducir y coordinar las relaciones del Poder Ejecutivo con los otros Poderes del Estado, y con las y los Agentes Consulares en lo relativo a su competencia.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-IV.- Designar a los representantes que integrarán el Jurado, para seleccionar y someter al Pleno del Congreso la terna integrada por los candidatos a Magistrados del Supremo Tribunal de Justicia mejor calificados; asimismo, intervenir en la integración de las ternas para la designación de los Consejos Municipales y demás funcionarios, de conformidad con lo dispuesto por la Constitución Política del Estado;
+IV.- Asistir a la persona titular del Ejecutivo en la selección de quienes deban someterse a consideración del Congreso del Estado para la designación de Magistraturas del Poder Judicial del Estado, así como de quien se designe para integrar el Consejo de la Judicatura de dicho Poder, de conformidad con lo dispuesto por la Constitución Política del Estado.
 
 V. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
@@ -453,7 +453,7 @@ VI.- Atender lo relativo a la remisión de iniciativas de leyes y decretos envia
 
 VII.- Publicar en el Periódico Oficial del Gobierno del Estado las leyes, decretos y reglamentos; circulares y acuerdos del Ejecutivo, así como las demás comunicaciones de carácter oficial que determinen las leyes, y compilar y archivar el Diario Oficial de la Federación, el Semanario Judicial de la Federación y el Periódico Oficial del Gobierno del Estado.
 
-VIII.- Coordinar la elaboración del informe anual que el Gobernador debe presentar al Congreso, sobre el Estado que guarde la Administración Pública;
+VIII.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -467,7 +467,9 @@ X.- Llevar un registro general de firmas de funcionarios y atender todo lo relat
 
 XI.- Tramitar los recursos administrativos que competa conocer y resolver a la persona titular del Poder Ejecutivo del Estado, incluyendo aquellos que pretendan combatir actos emitidos por la propia Secretaría General de Gobierno, facultándola para substanciar todas las etapas del procedimiento, excepto la emisión de la resolución definitiva.
 
-XII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+XII. Representar a la persona titular del Poder Ejecutivo en cualquier procedimiento administrativo o contencioso, así como en cualquier medio de control constitucional, en que sea señalada como parte o tercero, con facultades amplias y necesarias para ejercer dicha representación, salvo que la misma sea asumida por la Secretaría de Coordinación de Gabinete, a través de la Consejería Jurídica del Estado.
 
 XIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
@@ -487,13 +489,9 @@ XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas 
 
 XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, Registral Civil, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables.
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+XIX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
-XIX. Ejercer y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XX. Ejercer las atribuciones relativas a infraestructura física educativa en los términos que señale la ley de la materia.
+XX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
 XXI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
@@ -505,9 +503,7 @@ XXIII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
 XXIV. Intervenir, en auxilio y coordinación con las autoridades federales, en los términos de las leyes vigentes, en materia demográfica, migración, de cultos religiosos, loterías, rifas, sorteos y juegos, clubes de caza, tiro y pesca, así como portación de armas, uso de explosivos, detonantes y pirotecnia;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-XXV. Fomentar y apoyar la realización de programas de colaboración intermunicipales, para coadyuvar e incidir en la prevención o solución de problemas comunes a más de un municipio o que faciliten la convivencia de sus habitantes;
+XXV. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
@@ -1557,9 +1553,7 @@ IX. Crear y difundir programas, proyectos y estudios permanentes de información
 
 H. Diseñar, coordinar y evaluar la política estatal del Sistema Penitenciario. El desarrollo de dicha política se llevará a cabo mediante un órgano administrativo desconcentrado.
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-I. Coordinar y organizar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+I. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
 (NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1675,13 +1669,37 @@ g) Planear, desarrollar y mantener la infraestructura de tecnología de la infor
 
 XIV. En materia de Consejería Jurídica:
 
-a) Ejercer como titular de la Consejería Jurídica del Estado con las facultades de representación legal de la persona titular del Poder Ejecutivo del Estado, más amplias y necesarias para el desahogo de todo tipo de litigios, ante autoridades federales, estatales o municipales y organismos internacionales de derechos humanos; así como para las acciones y controversias constitucionales en las que el Estado sea parte. Dichas facultades podrán ser delegadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-Así mismo, será la encargada de asesorar en la materia a la persona titular del Poder Ejecutivo del Estado.
+a) Proponer a la persona titular del Poder Ejecutivo a quien ocupará la titularidad de la Consejería Jurídica del Estado, la cual contará con las siguientes facultades:
 
-b) Asesorar jurídicamente las dependencias y entidades del Poder Ejecutivo.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-c) Elaborar proyectos de iniciativas de Ley, decretos y reglamentos que le sean encomendados por la persona titular del Poder Ejecutivo.
+1. De representación legal de la persona titular del Poder Ejecutivo, más amplias y necesarias para el desahogo de todo tipo de litigios, ante autoridades federales, estatales y municipales, organismos internacionales de derechos humanos, acciones de inconstitucionalidad y controversias constitucionales en las que el Estado sea parte y representar al Estado en todos aquellos litigios que le sean encomendados por la persona titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+2. Asesorar jurídicamente a la persona titular del Poder Ejecutivo del Estado y a las dependencias y entidades de la Administración Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+3. Elaborar y analizar proyectos de iniciativas de Ley, decretos y reglamentos, que le sean encomendados por las personas titulares del Poder Ejecutivo y de la Secretaría de Coordinación de Gabinete.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+4. Analizar todos aquellos documentos jurídicos que le encomienden las personas titulares del Poder Ejecutivo y de la Secretaría de Coordinación de Gabinete.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+Cualquiera de las atribuciones anteriormente señaladas, podrán ser delegadas a las o los servidores públicos que se requiera, mediante Acuerdo publicado en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+La persona titular de la Consejería Jurídica del Estado podrá auxiliarse del personal especializado que le sea autorizado en el presupuesto correspondiente.
+
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2021)
+
+c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1733,27 +1751,47 @@ XVIII. Publicar un informe anual sobre el desempeño de sus funciones, los avanc
 
 XIX. Las demás que establezcan las leyes.
 
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-ARTICULO 35 QUINQUIES. La Secretaría de Seguridad Pública se integrará por las instituciones policiales conforme a la Ley del Sistema Estatal de Seguridad Pública, excepto las expresamente adscritas a autoridad distinta; la Comisión Estatal de Seguridad; los Centros de Control, Comando, Comunicaciones y Cómputo; la Fiscalía en Ejecución de Penas y Medidas Judiciales; y, el Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana. Lo anterior, además de las asignadas por la legislación aplicable.
+ARTÍCULO 35 QUINQUIES. La Secretaría de Seguridad Pública se integrará por las instituciones policiales conforme a la Ley del Sistema Estatal de Seguridad Pública, excepto las expresamente adscritas a autoridad distinta; la Comisión Estatal de Seguridad; los Centros de Control, Comando, Comunicaciones y Cómputo; el Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, así como el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública. Lo anterior, además de las asignadas por la legislación aplicable.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE ENERO DE 2020)</small>
 
 A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 I. Atender los asuntos en materia de Seguridad Pública y Prevención del Delito.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 II. Desarrollar las políticas de seguridad pública que establezca la persona titular del Poder Ejecutivo.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 III. Encabezar la realización de operativos conjuntos de carácter preventivo, entre las dependencias encargadas de la seguridad pública municipal.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 IV. Proponer la política criminal en el ámbito Estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 V. Realizar aquellas acciones que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 VI. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones; y compartirla de manera sistemática con las autoridades competentes para la debida coordinación y defensa de la seguridad pública en el Estado.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 VII. Organizar, dirigir y supervisar los Centros de Control, Comando, Comunicaciones y Cómputo.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 VIII. Implementar acciones tendientes a prevenir el comportamiento criminal.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 IX. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Plan Estatal de Seguridad Pública.
 
@@ -1761,17 +1799,35 @@ IX. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración
 
 X. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad y prevención del delito, entre las direcciones de seguridad pública municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 XI. Representar a la persona titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+XI Bis. Coordinar y organizar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 XII. Proponer, en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 XIII. Suministrar, intercambiar y sistematizar la información sobre seguridad pública y prevención, procesados, sentenciados y reos, en conjunto con la Fiscalía General del Estado y demás autoridades estatales y municipales en la materia, conforme a los lineamientos que al efecto se expidan.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 XIV. Fomentar a nivel Estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 XV. Elaborar y difundir los estudios e investigaciones criminológicos.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 XVI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, estatales y municipales.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 XVII. Prestar, de forma excepcional, servicios regidos por el Derecho Privado para proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas, bienes y valores; seguridad en inmuebles; a dependencias, entidades y órganos públicos así como a personas físicas y morales que por alguna circunstancia lo requieran de manera temporal, o que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado, sin afectar el estado de fuerza requerido para la seguridad pública.
 
@@ -1787,23 +1843,77 @@ XXII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
 XXIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 XXIV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos en materia del tránsito de vehículos y personas peatonas en el uso de las vías públicas.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 XXV. Regular, controlar y supervisar la prestación de los servicios de seguridad privada, de conformidad con la ley de la materia.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 XXVI. Dar seguimiento a las personas sentenciadas que gozan de libertad condicionada.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 XXVII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales, de que tenga conocimiento con motivo de sus funciones; así como atender las solicitudes de apoyo y auxilio que realicen las áreas competentes, en el ejercicio de sus facultades.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+
 XXVIII. Generar los insumos tangibles e intangibles necesarios para la profesionalización de los cuerpos de seguridad pública.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 XXIX. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 36.
 
-Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación General de Comunicación, la cual atenderá las materias de comunicación social, opinión pública y relaciones públicas.
+Además de las dependencias a que se refiere el artículo 24 de esta Ley, la persona titular del Poder Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con:
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+I. La Coordinación de Comunicación, la cual tendrá las siguientes atribuciones:
+
+a) Coordinar la estrategia de comunicación del Ejecutivo del Estado de Chihuahua, en los diversos medios de comunicación.
+
+b) Coordinar y supervisar la cobertura informática de las actividades y eventos gubernamentales para su posterior difusión.
+
+c) Elaborar análisis relativos al contenido de los mensajes pronunciados por la persona titular del Poder Ejecutivo y de las políticas públicas del Ejecutivo del Estado.
+
+d) Elaborar periódicamente análisis de información y estudios sobre opinión pública.
+
+e) Divulgar en los medios informativos las actividades de la persona titular del Poder Ejecutivo y de las dependencias y entidades de la Administración Pública Estatal.
+
+f) Convocar a los medios de comunicación a las ruedas de prensa o actividades que realicen las personas titulares del Poder Ejecutivo y de las dependencias y entidades de la Administración Pública Estatal.
+
+g) Las demás que le asignen las leyes, reglamentos o decretos, así como las que le indique la persona titular del Poder Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+II. La Coordinación de Relaciones Públicas, la cual tendrá las siguientes atribuciones:
+
+a) Establecer los criterios, directrices y protocolos, en el ámbito de su competencia.
+
+b) Coordinar y supervisar el programa de relaciones públicas del Ejecutivo del Estado de Chihuahua.
+
+c) Establecer y dar seguimiento a las relaciones necesarias con dependencias públicas, iniciativa privada y sociedad civil en materia de relaciones públicas.
+
+d) Proponer a la persona titular del Poder Ejecutivo los planes, programas, protocolos y las estrategias que en materia de relaciones públicas sean necesarias.
+
+e) Elaborar y administrar el directorio de las personas servidoras públicas y representantes de la sociedad civil que sean necesarias para el desempeño eficiente de sus actividades.
+
+f) Colaborar con instituciones públicas, iniciativa privada y sociedad civil, para organizar y realizar eventos tendientes al fortalecimiento de las relaciones públicas de la persona titular del Poder Ejecutivo con el sector que corresponda.
+
+g) Atender a las personas invitadas especiales que instruya la persona titular del Poder Ejecutivo.
+
+h) Las demás que le asignen las leyes, reglamentos o decretos, así como las que le indique la persona titular del Poder Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+III. La Representación del Gobierno del Estado de Chihuahua en la Ciudad de México.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -3298,5 +3408,53 @@ El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del E
 Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
 
 ###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLYC/0104/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo, a través de las dependencias competentes, realizará las adecuaciones estructurales y las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas.
+
+###### ARTÍCULO TERCERO.
+
+La Coordinación General de Comunicación y la Coordinación de Relaciones Públicas realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes y recursos de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO CUARTO.
+
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública realizará los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes y recursos de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en trámite del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberán concluirse y formarán parte de una entrega recepción específica a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO SEXTO.
+
+El presupuesto asignado para el año 2021 al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberá ejercerse exclusivamente en los proyectos para los cuales estén destinados, en los términos que fueran acordados.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las facultades y compromisos derivados de convenios o acuerdos celebrados con dependencias o entidades de la Administración Pública Federal, Estatal o Municipal serán asumidos por el área competente de conformidad con el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado y la Secretaría de Seguridad Pública, por medio del Instituto Estatal de Seguridad Pública, deberán establecer las bases de coordinación y la creación de instrumentos jurídicos que tengan por objeto la formación, capacitación y actualización especializada del personal ministerial, pericial y policial, en el ámbito de su competencia, hasta en tanto se establezcan las condiciones para que cada una de las dependencias en mención, cuente con su propio Instituto de formación y capacitación.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo Estatal contará con un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, para presentar las reformas legales, reglamentarias y administrativas necesarias para adecuar el marco jurídico estatal, a efecto de poder estar en aptitud de dar viabilidad programática y orgánica al presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las y los servidores públicos que pasen a formar parte de otra área o dependencia, en ninguna forma resultarán afectados en los derechos derivados de su relación laboral.
+
+###### ARTÍCULO UNDÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
