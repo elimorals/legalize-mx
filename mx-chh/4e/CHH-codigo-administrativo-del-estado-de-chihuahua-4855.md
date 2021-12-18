@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2021-01-27"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 28 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFCOD/0944/2020 I P.O. POR EL QUE SE REFORMA EL ARTÍCULO 791, PRIMER PÁRRAFO; INCISOS D) Y E), PRIMER PÁRRAFO; Y SE DEROGA SU INCISO C), DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISIETE DE ENERO DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9699,11 +9697,11 @@ VII.- Tratándose de la ejecución de obras, los proyectos y presupuestos respec
 
 Cuando la expropiación sea solicitada por una Entidad, deberá anexarse copia del acta de sesión de su Junta de Gobierno, Directiva, Consejo de Administración o Comité Técnico, en la que se apruebe o autorice la solicitud de expropiación.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 1706.
 
-El Ejecutivo del Estado, por conducto de la Dirección de Gobernación, integrará el expediente de expropiación, de ocupación temporal o de limitación de dominio y, en su caso, hará la declaratoria respectiva.
+El Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, integrará el expediente de expropiación, de ocupación temporal o de limitación de dominio y, en su caso, hará la declaratoria respectiva.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
@@ -9779,11 +9777,11 @@ XI.- Orden de inscripción en el Registro Público de la Propiedad y del Notaria
 
 XII.- Orden de notificación personal al afectado o a quien legalmente lo represente en los términos de la presente ley.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 1712.
 
-Los acuerdos de expropiación se ejecutarán por conducto de la Dirección de Gobernación, siempre que los expropiados se nieguen a cumplirlos voluntariamente. Deberán inscribirse en el Registro Público de la Propiedad.
+Los acuerdos de expropiación se ejecutarán por conducto de la Secretaría General de Gobierno, siempre que los expropiados se nieguen a cumplirlos voluntariamente. Deberán inscribirse en el Registro Público de la Propiedad.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
@@ -9803,11 +9801,11 @@ III.- Los contratos de arrendamiento o de cualquier otra clase, por los que se h
 
 Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, recurso administrativo de revocación contra la declaratoria correspondiente, en los términos de este Código.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 1715.
 
-El recurso administrativo de revocación referido en el artículo anterior se interpondrá directamente ante el Gobernador del Estado, y se tramitará por conducto de la Dirección de Gobernación, en los términos del artículo 1644 de este Código.
+El recurso administrativo de revocación referido en el artículo anterior se interpondrá directamente ante la persona titular del Poder Ejecutivo, y se tramitará por conducto de la Secretaría General de Gobierno, en los términos del artículo 1644 de este Código.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
@@ -11078,3 +11076,51 @@ P.O. 27 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0104/2021 1 P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo, a través de las dependencias competentes, realizará las adecuaciones estructurales y las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas.
+
+###### ARTÍCULO TERCERO.
+
+La Coordinación General de Comunicación y la Coordinación de Relaciones Públicas realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes y recursos de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO CUARTO.
+
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública realizará los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes y recursos de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en trámite del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberán concluirse y formarán parte de una entrega recepción específica a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO SEXTO.
+
+El presupuesto asignado para el año 2021 al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberá ejercerse exclusivamente en los proyectos para los cuales estén destinados, en los términos que fueran acordados.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las facultades y compromisos derivados de convenios o acuerdos celebrados con dependencias o entidades de la Administración Pública Federal, Estatal o Municipal serán asumidos por el área competente de conformidad con el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado y la Secretaría de Seguridad Pública, por medio del Instituto Estatal de Seguridad Pública, deberán establecer las bases de coordinación y la creación de instrumentos jurídicos que tengan por objeto la formación, capacitación y actualización especializada del personal ministerial, pericial y policial, en el ámbito de su competencia, hasta en tanto se establezcan las condiciones para que cada una de las dependencias en mención, cuente con su propio Instituto de formación y capacitación.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo Estatal contará con un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, para presentar las reformas legales, reglamentarias y administrativas necesarias para adecuar el marco jurídico estatal, a efecto de poder estar en aptitud de dar viabilidad programática y orgánica al presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las y los servidores públicos que pasen a formar parte de otra área o dependencia, en ninguna forma resultarán afectados en los derechos derivados de su relación laboral.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
