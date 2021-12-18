@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-del-congreso-del-estado-de-jalisco-139502"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-24"
-last_updated: "2019-10-24"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ÉTICA DEL CONGRESO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Código publicado en la Sección IV al Número 13 del Periódico Oficial del Estado de Jalisco, el jueves 24 de octubre de 2019.
 
@@ -55,11 +55,15 @@ Para esos (sic) efectos del presente Código de Ética se entenderá por:
 
 I. Acoso sexual: la forma de violencia con connotación lasciva en la que, si bien no existe subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
-II. Código de Conducta: El instrumento emitido por la unidad administrativa del Congreso del Estado que corresponda, a propuesta del titular respectivo, el cual deberá observar los lineamientos que para tal efecto emita el Comité de Ética.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+II. Código de Conducta: El instrumento emitido por la unidad administrativa del Congreso del Estado que corresponda, a propuesta del titular respectivo, el cual deberá observar los lineamientos que para tal efecto emita el Comité de Ética e Igualdad.
 
 III. Código de Ética: El Código de Ética del Congreso del Estado.
 
-IV. Comité: El Comité de Ética Legislativa del Congreso del Estado.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+IV. Comité: El Comité de Ética e Igualdad del Congreso del Estado.
 
 V. Contraloría: Al Órgano Interno de Control del Congreso del Estado.
 
@@ -565,11 +569,15 @@ e) Discriminar por cualquier motivo en la atención de consultas y la prestació
 
 f) Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento del servicio y atención al público.
 
-### Capítulo sexto. Del Comité de Ética
+> <small>(REFORMADA SU DENOMINACÓN, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo sexto. Del Comité de Ética e Igualdad
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 24.
 
-El Comité de Ética tiene por objeto el fomento de los principios, valores y reglas de integridad pública para fomentar la ética e integridad en el servicio público en (sic) Congreso del Estado.
+El Comité tiene por objeto el fomento de los principios, valores y reglas de integridad pública para fomentar la ética e integridad en el servicio público en el Congreso del Estado.
 
 ###### Artículo 25.
 
@@ -599,21 +607,17 @@ XI. Elaborar y proponer a las unidades administrativas las Políticas de Integri
 
 XII. Las demás que se señalen en el presente Código de Ética y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 26.
 
-1. El Comité debe sesionar ordinariamente cuando menos una vez cada tres meses.
+Para efectos de la periodicidad y validez de las sesiones, así como de los acuerdos y resoluciones del Comité, se sujetará a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Jalisco y su Reglamento respectivo.
 
-2. El Comité requiere de la asistencia de más de la mitad de sus integrantes para sesionar válidamente y el voto de más de la mitad de sus integrantes para tomar acuerdos y aprobar resoluciones.
-
-3. El Comité no puede emitir dictámenes ni conocer de procedimientos de responsabilidad administrativa.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 27.
 
-1. El Comité se integrará de cinco diputados o diputadas, de acuerdo con los criterios para conformar la Mesa de Decanos. El primero en la lista de decanos funge como presidente y los siguientes cuatro como vocales.
-
-2. La Asamblea designa a los integrantes del Comité, a propuesta de la Junta de Coordinación Política, mediante acuerdo legislativo de acuerdo con lo señalado en el párrafo anterior.
-
-3. El Contralor del Congreso funge como Secretario Técnico del Comité, quien tendrá derecho a voz.
+El Comité se integrará conforme a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Jalisco y su Reglamento respectivo.
 
 ###### Artículo 28.
 
@@ -665,15 +669,17 @@ IV. Las demás que señale este Código, y otras disposiciones aplicables.
 
 ### Capítulo séptimo. Mecanismos para capacitación y difusión
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 30.
 
-El Comité de Ética en coordinación con la Contraloría, garantizará la capacitación continua en materia de principios, valores y reglas de integridad dirigida a los servidores públicos del Congreso del Estado.
+El Comité en coordinación con la Contraloría, garantizará la capacitación continua en materia de principios, valores y reglas de integridad dirigida a los servidores públicos del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 31.
 
-El Comité de Ética deberá elaborar un plan anual de trabajo para la difusión del Código de Ética y las Políticas de Integridad, así como las capacitaciones que sean calendarizadas. Lo anterior con el objetivo de fortalecer la prevención y concientización para inhibir la comisión de hechos de corrupción y actos contrarios a la ética.
-
-Los mecanismos de participación a los que hace mención el párrafo anterior podrán ser cursos, talleres, conferencias, seminarios o cualquier otra dinámica que facilite el conocimiento, la sensibilización y la adopción de los principios, valores y reglas de integridad que rigen el servicio público. Estos podrán impartirse de manera presencial o virtual, procurando siempre un lenguaje comprensible.
+El Comité deberá elaborar un plan anual de trabajo para la difusión del Código de Ética y las Políticas de Integridad, así como las capacitaciones que sean calendarizadas. Lo anterior con el objetivo de fortalecer la prevención y concientización para inhibir la comisión de hechos de corrupción y actos contrarios a la ética.
 
 ## Transitorios
 
@@ -692,3 +698,13 @@ Guadalajara, Jalisco; 18 de septiembre de 2019
 MTRO. RAÚL BERMÚDEZ CAMARENA
 
 TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL CONGRESO DEL ESTADO DE JALISCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO LEGISLATIVO 144/LXIII/21, QUE APRUEBA DIVERSAS REFORMAS AL CÓDIGO DE ÉTICA DEL CONGRESO DEL ESTADO".]
+
+Primero. Las modificaciones contenidas en el presente acuerdo entrarán en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. De conformidad con el artículo 53 Bis, numeral 1, fracciones I y VI de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como de los artículos 3, numeral 1, fracción I; 39, numeral 1, fracción II; 40, numeral 1, fracción IV; y 182, numeral 1, remítase el presente acuerdo a la Mesa Directiva para efecto de que sea agendado en la sesión correspondiente y que se apruebe el trámite correspondiente para su publicación en el periódico oficial "El Estado de Jalisco".
