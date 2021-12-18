@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-para-los-servidores-publicos-del-instituto-1482
 country: "mx"
 rank: "codigo"
 publication_date: "2021-03-06"
-last_updated: "2021-03-06"
+last_updated: "2021-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021 (ABROGADO).
 
 Código publicado en la Sección IX del Periódico Oficial del Estado de Jalisco, el sábado 6 de marzo de 2021.
 
@@ -548,3 +550,21 @@ PRESIDENTE DEL CONSEJO Y DIRECTOR GENERAL DEL INSTITUTO DE JUSTICIA ALTERNATIVA 
 DR. HÉCTOR ANTONIO EMILIANO MAGALLANES RAMÍREZ
 
 SECRETARIO TÉCNICO Y SECRETARIO DEL CONSEJO DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO”.]
+
+Primero.- El presente acuerdo entrará en vigor a partir del día siguiente de que sea aprobado por el Consejo del Instituto de Justicia Alternativa del Estado de Jalisco.
+
+Segundo.- Una vez aprobado el presente acuerdo, publíquese en el Periódico Oficial "El Estado de Jalisco", así como en el portal de Internet del Instituto de Justicia Alternativa del Estado de Jalisco; lo anterior sin perjuicio de la divulgación y difusión que se le dé en términos del Capítulo VII del Código de Ética para las Personas Servidoras Públicas del Instituto de Justicia Alternativa del Estado de Jalisco contenido dentro del mismo acuerdo.
+
+Tercero.- A la fecha de entrada en vigor del presente acuerdo, todas las menciones que se hagan del Código de Ética y Código de Ética para los Servidores Públicos del Instituto de Justicia Alternativa del Estado de Jalisco en las diversas disposiciones normativas internas del Instituto, así como en cualquier disposición jurídica, se entenderá que se refieren al Código de Ética para las Personas Servidoras Públicas del Instituto de Justicia Alternativa del Estado de Jalisco contenido y aprobado dentro de este acuerdo.
+
+Cuarto.- Con la entrada en vigor del presente acuerdo, quedará abrogado el Código de Ética para los Servidores Públicos del Instituto de Justicia Alternativa del Estado de Jalisco aprobado anteriormente, así como todas aquellas disposiciones que se opongan a lo previsto en el Código de Ética para las Personas Servidoras Públicas del Instituto de Justicia Alternativa del Estado de Jalisco contenido dentro de este acuerdo.
+
+Quinto.- Una vez que entre en vigor el presente acuerdo, podrá integrarse, instalarse y funcionar en su caso, el Comité de Ética a que se refiere el Código de Ética para las Personas Servidoras Públicas del Instituto de Justicia Alternativa del Estado de Jalisco contenido en este acuerdo, para lo cual se observaran las reglas previstas en el mismo, así como los lineamientos, directrices, guías metodológicas y procedimientos que emita el órgano Interno de Control para tales efectos.
+
+Sexto.- Para el funcionamiento y operación del Comité de Ética a que se hace referencia en el presente acuerdo, la Dirección de Administración y Planeación del Instituto proveerá los recursos financieros y materiales necesarios conforme a las disposiciones presupuestales y de contabilidad gubernamental vigentes y aplicables.
