@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2021-09-04"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -329,13 +329,15 @@ III. La Comisión Ejecutiva de Atención a Víctimas.
 
 IV. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-V. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 VI. Prevención y Reinserción Social.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+VII. Los Centros de Justicia para las Mujeres.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2020)</small>
 
@@ -587,11 +589,9 @@ La Comisión Ejecutiva de Atención a Víctimas podrá contar con establecimient
 
 (DEROGADO, P.O. 1 DE ENERO DE 2020)
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
 ###### Artículo 10 Bis.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Fiscalía General del Estado, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables, para cuyos efectos contará con la Dirección de Planeación, Control de Recursos y Programas Federales.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2018)</small>
 
@@ -1958,5 +1958,53 @@ El Gobierno Estatal deberá publicar en el Periódico Oficial del Gobierno del E
 Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpetas de investigación, órdenes de aprehensión y en general todos los asuntos que actualmente se estén atendiendo por la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, pasarán a la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia.
 
 ###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0104/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo, a través de las dependencias competentes, realizará las adecuaciones estructurales y las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas.
+
+###### ARTÍCULO TERCERO.
+
+La Coordinación General de Comunicación y la Coordinación de Relaciones Públicas realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes y recursos de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO CUARTO.
+
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública realizará los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes y recursos de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en trámite del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberán concluirse y formarán parte de una entrega recepción específica a la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO SEXTO.
+
+El presupuesto asignado para el año 2021 al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberá ejercerse exclusivamente en los proyectos para los cuales estén destinados, en los términos que fueran acordados.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las facultades y compromisos derivados de convenios o acuerdos celebrados con dependencias o entidades de la Administración Pública Federal, Estatal o Municipal serán asumidos por el área competente de conformidad con el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La Fiscalía General del Estado y la Secretaría de Seguridad Pública, por medio del Instituto Estatal de Seguridad Pública, deberán establecer las bases de coordinación y la creación de instrumentos jurídicos que tengan por objeto la formación, capacitación y actualización especializada del personal ministerial, pericial y policial, en el ámbito de su competencia, hasta en tanto se establezcan las condiciones para que cada una de las dependencias en mención, cuente con su propio Instituto de formación y capacitación.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo Estatal contará con un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, para presentar las reformas legales, reglamentarias y administrativas necesarias para adecuar el marco jurídico estatal, a efecto de poder estar en aptitud de dar viabilidad programática y orgánica al presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las y los servidores públicos que pasen a formar parte de otra área o dependencia, en ninguna forma resultarán afectados en los derechos derivados de su relación laboral.
+
+###### ARTÍCULO UNDÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
