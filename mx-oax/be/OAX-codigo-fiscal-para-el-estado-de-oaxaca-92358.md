@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2021-09-18"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -736,6 +736,30 @@ Para los efectos de este artículo, las escrituras públicas que se contengan en
 Cuando las promociones deban ser presentadas en documentos digitales por los representantes o los autorizados, el documento digital correspondiente deberá contener Firma electrónica avanzada de dichas personas.
 
 Los representantes legales tienen la obligación de informar a la autoridad cuando su poder haya sido revocado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 50-A.
+
+Cualquier autoridad, ente público, Entidad, Órgano u Organismo de los Poderes del Estado y de los Municipios, Órganos Autónomos y Entidades Paraestatales que reciban y ejerzan recursos públicos estatales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con las personas Físicas, Morales o unidades económicas que:
+
+I. Tengan a su cargo créditos fiscales firmes;
+
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+
+III. No se encuentren inscritos en el Registro Estatal de Contribuyentes cuando tengan la obligación de hacerlo en los términos que este Código establece;
+
+IV. Habiendo vencido el plazo para presentar alguna declaración, definitiva o complementaria, así como aquellas declaraciones correspondientes a retenciones y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción también aplicará a la falta de cumplimiento de cualquier otra declaración informativa;
+
+V. Estando inscritos en el Registro Estatal de Contribuyentes, se encuentren como no localizados; y
+
+VI. Se encuentren definitivamente en la situación a que se refiere el cuarto párrafo del artículo 69-B y noveno párrafo del 69-B Bis del Código Fiscal de la Federación.
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro supuesto de los contenidos en este artículo.
+
+Para estos efectos, en el convenio se establecerá que los sujetos a que se refiere el primer párrafo de este artículo retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes.
+
+Los requisitos y procedimientos que deberán observar los sujetos a que se refiere el primer párrafo de este artículo para la celebración de los convenios citados, se establecerán en las Reglas que para tal efecto emita la Secretaría.
 
 ###### ARTÍCULO 51.
 
@@ -4604,3 +4628,13 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 9.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 50-A AL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
