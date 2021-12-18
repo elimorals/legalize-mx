@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2021-10-30"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -124,9 +124,9 @@ XI. El 100% de la recaudación que se obtenga del Impuesto Sobre la Renta que ef
 
 La distribución se realizará de conformidad con los montos por Municipio que informe la Secretaría de Hacienda y Crédito Público y a la Secretaría de la Hacienda Pública del Estado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-Respecto de los importes a que se refiere la fracción VI del presente artículo, se exceptúan los ingresos que el Estado perciba por concepto de Impuesto sobre Nóminas que causen y enteren la Federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos, por las erogaciones que efectúen en calidad de entidades patronales.
+Respecto de los importes a que se refiere la fracción VI del presente artículo, se exceptúan los ingresos que el Estado perciba por concepto de Impuesto sobre Nóminas que causen y enteren la Federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos, por las erogaciones que efectúen en calidad de entidades patronales, así como de los ingresos que de acuerdo con la Ley de Hacienda del Estado de Jalisco tengan un destino específico.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -669,3 +669,15 @@ Primero. La modificación realizada al párrafo segundo del inciso b) de la frac
 Segundo. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, a actualizar el coeficiente correspondiente al Fondo de Fomento Municipal, en función de la incorporación o desincorporación de los Municipios al convenio de coordinación y colaboración administrativa en materia del impuesto predial, con base en la información proporcionada por la Secretaría de Hacienda y Crédito Público esto durante los ejercicios fiscales 2021 y 2022.
 
 Tercero. Con excepción de lo dispuesto en el artículo primero transitorio, el resto de las disposiciones contenidas en el presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28723/LXIII/21 QUE ADICIONA EL ARTÍCULO 46 BIS A LA LEY DE HACIENDA DEL ESTADO; SE MODIFICAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO Y SE MODIFICA EL ARTÍCULO 5 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Titular del Ejecutivo del Estado, por conducto de la Secretaria de la Hacienda Pública, constituirá un fideicomiso público, al cual aportará los ingresos provenientes de las cantidades adicionales o excedentes al 2%, para ser destinados a la rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura educativa de educación básica, media superior, tecnológica y superior del Sistema Educativo Estatal.
+
+TERCERO.- La operación y funcionamiento del Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco se sujetará a las disposiciones de la legislación aplicable, para el cumplimiento de los fines a que este Decreto se refiere.
+
+CUARTO.- El Comité Técnico del Fideicomiso deberá aprobar y expedir sus lineamientos de administración y operación, para el cumplimiento de los fines a que este decreto se refiere.
