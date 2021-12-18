@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-instituto-de-la-infraestructura-fisica-96294"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2021-07-06"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -327,11 +327,97 @@ VI. Todos los demás bienes o derechos que perciba en el ejercicio de sus atribu
 
 La enajenación del patrimonio inmobiliario del Instituto sólo podrá realizarse mediante autorización expresa del Congreso del Estado.
 
-### Capítulo VI. De la extinción y liquidación del Instituto
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo VI. Del Fondo para la Infraestructura Educativa del Estado de Jalisco
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-Son causas de extinción del Instituto,
+Para la administración de los recursos a que se refiere el artículo 46 Bis de la Ley de Hacienda del Estado de Jalisco, se constituirá el Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco, con la finalidad de administrar, destinar e invertir recursos públicos para la rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura educativa de educación básica, media superior, tecnológica y superior del Sistema Educativo Estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 20.
+
+El Fondo se constituirá con los recursos obtenidos de:
+
+I. Las cantidades que perciba la Hacienda Pública Estatal por concepto de Impuesto sobre Nómina adicionales o excedentes después de aplicar un dos por ciento del impuesto;
+
+II. Las aportaciones estatales adicionales, que llegaran a establecerse en el presupuesto de egresos del Poder Ejecutivo del Estado de Jalisco;
+
+III. Las aportaciones de los sectores público, privado o social;
+
+IV. El importe de los productos o rendimientos que se deriven de la inversión y en su caso, de la reinversión de los recursos que integran su patrimonio, y;
+
+V. Los demás recursos que determine el Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo VII. Del Comité Técnico del Fondo para la Infraestructura Educativa del Estado de Jalisco
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 21.
+
+Para la aplicación y destino de los recursos del Fondo, se conformará un Comité Técnico como instancia normativa del Fondo y que estará integrado por:
+
+I. El Titular del Poder Ejecutivo del Estado, quien lo presidirá;
+
+II. La persona titular de la Secretaría de Innovación, Ciencia y Tecnología;
+
+III. La persona titular de la Secretaría de Educación;
+
+IV. La persona titular de la Secretaría de la Hacienda Pública;
+
+V. La persona titular de la Secretaría de Infraestructura y Obra Pública;
+
+VI. La persona que Presida la Cámara Nacional de Comercio (CANACO);
+
+VII. La persona que Presida el Centro Empresarial de Jalisco S.P.;
+
+VIII. La persona Coordinadora del Consejo de Cámaras Industriales de Jalisco;
+
+IX. La persona que Presida la Cámara Mexicana de la Industria de la Construcción; y
+
+X. Dos representantes de la iniciativa privada o sector empresarial nombrados por el Titular del Poder Ejecutivo, a propuesta de la persona Titular de la Coordinación General Estratégica de Crecimiento y Desarrollo Económico uno de los cuales deberá ser mujer.
+
+Serán invitados permanentes el Director General del Instituto y la persona representante de la Contraloría del Estado quienes tendrán sólo derecho a voz pero sin voto y su presencia no computará para quórum.
+
+El Comité contará con un Secretario Técnico que será designado y removido por el Titular de la Secretaría de Educación y tendrá a su cargo auxiliar al Presidente del Comité para el cumplimiento de todas sus atribuciones.
+
+Todos los integrantes contarán con voz y voto, podrán nombrar a un suplente, y permanecerán en el Comité por el tiempo que dure el encargo que desempeñen, su participación será de carácter honorífica y por lo tanto no será remunerada.
+
+Para la validez de los acuerdos del Comité se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 22.
+
+Son atribuciones del Comité Técnico de manera enunciativa, más no limitativa las siguientes:
+
+I. Definir de acuerdo al Plan Estatal de Gobernanza y Desarrollo de Jalisco las acciones prioritarias de rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura referida en el artículo 19, para lo cual se tomará en consideración las variables de población, pobreza y rezago educativo de cada municipio;
+
+II. Instruir la ejecución de acciones de infraestructura y equipamiento que requieran los planteles educativos;
+
+III. Instruir y autorizar el pago de los recursos destinados a la infraestructura y equipamiento referida en el artículo 19;
+
+IV. Conocer y aprobar los informes del avance físico y financiero correspondiente a los contratos de obra, que presente la Secretaría de Infraestructura y Obra Pública y/o la Dependencia responsable del gasto;
+
+V. Autorizar y supervisar las inversiones que se realizan con fondos del Fideicomiso; y
+
+VI. Aquellas que determine el instrumento público mediante el cual se establezca el Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REUBICADO, ANTES CAPÍTULO VI], P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo VIII. De la extinción y liquidación del Instituto
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 19], P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 23.
+
+Son causas de extinción del Instituto:
 
 I. Dejar de cumplir sus fines y objetos;
 
@@ -339,7 +425,9 @@ II. Cuando su funcionamiento no resulte viable financieramente o sea innecesario
 
 III. Las causas establecidas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
 
-###### Artículo 20.
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 20], P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 24.
 
 Las relaciones laborales entre el Instituto y su personal se rigen por la ley estatal en materia de servidores públicos y su reglamento interno, conforme a lo dispuesto por la Constitución Política del Estado de Jalisco y demás disposiciones aplicables.
 
@@ -432,3 +520,15 @@ P.O. 6 DE JULIO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un término de 90 días hábiles para realizar las adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28723/LXIII/21 QUE ADICIONA EL ARTÍCULO 46 BIS A LA LEY DE HACIENDA DEL ESTADO; SE MODIFICAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO Y SE MODIFICA EL ARTÍCULO 5 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Titular del Ejecutivo del Estado, por conducto de la Secretaria de la Hacienda Pública, constituirá un fideicomiso público, al cual aportará los ingresos provenientes de las cantidades adicionales o excedentes al 2%, para ser destinados a la rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura educativa de educación básica, media superior, tecnológica y superior del Sistema Educativo Estatal.
+
+TERCERO.- La operación y funcionamiento del Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco se sujetará a las disposiciones de la legislación aplicable, para el cumplimiento de los fines a que este Decreto se refiere.
+
+CUARTO.- El Comité Técnico del Fideicomiso deberá aprobar y expedir sus lineamientos de administración y operación, para el cumplimiento de los fines a que este decreto se refiere.
