@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2020-12-29"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -650,6 +650,18 @@ Así mismo, deberán presentar su aviso de inscripción en su carácter de reten
 Las prestadoras de servicios de personal a que se refiere esta fracción, informarán mensualmente a la receptora de dicho servicio, el importe de la nómina y el impuesto correspondiente que habrá de retenerse.
 
 En caso de que la prestadora de servicios de personal no proporcione la información a que se refiere el párrafo anterior para efectos de la retención respectiva, esta se determinará aplicando al valor total de los servicios prestados en el mes, consignados en los respectivos comprobantes fiscales, el factor de .90 y a su resultado se le aplicará la tasa del impuesto.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 46 Bis.
+
+Del total de los recursos que se recauden por el Impuesto sobre Nóminas, con las cantidades adicionales o excedentes al 2% se establecerá el Fondo para la Infraestructura Educativa del Estado de Jalisco y será constituido bajo la figura de un Fideicomiso irrevocable de inversión y administración.
+
+Dichos recursos públicos serán administrados a través del fondo para su aplicación en la rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura educativa de educación básica, media superior, tecnológica y superior del Sistema Educativo Estatal.
+
+El Presupuesto de egresos de cada ejercicio fiscal deberá contemplar la partida específica para el destino de los recursos que integran el Fondo.
+
+La Secretaría de la Hacienda Pública transferirá mensualmente al Fondo los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.
 
 ### CAPITULO SEXTO. Del impuesto sobre hospedaje
 
@@ -1370,3 +1382,15 @@ Primero. El presente decreto entrará en vigor el día 01 de enero de 2021, prev
 Segundo. El Ejecutivo del Estado de Jalisco, antes del 31 de diciembre de 2020, deberá realizar las adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
 
 Tercero. La tarifa aplicable a la contribución materia del presente decreto será incluida en la Ley de Ingresos del Estado de Jalisco para el Ejercicio Fiscal 2021.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28723/LXIII/21 QUE ADICIONA EL ARTÍCULO 46 BIS A LA LEY DE HACIENDA DEL ESTADO; SE MODIFICAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO Y SE MODIFICA EL ARTÍCULO 5 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO.- El Titular del Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, constituirá un fideicomiso público, al cual aportará los ingresos provenientes de las cantidades adicionales o excedentes al 2%, para ser destinados a la rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura educativa de educación básica, media superior, tecnológica y superior del Sistema Educativo Estatal.
+
+TERCERO.- La operación y funcionamiento del Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco se sujetará a las disposiciones de la legislación aplicable, para el cumplimiento de los fines a que este Decreto se refiere.
+
+CUARTO.- El Comité Técnico del Fideicomiso deberá aprobar y expedir sus lineamientos de administración y operación, para el cumplimiento de los fines a que este decreto se refiere.
