@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2021-09-04"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -1207,7 +1207,9 @@ II. A falta de cónyuge, la concubina o concubinario, por sí solos o en concurr
 
 III. A falta de cónyuge, hijos, concubina o concubinario, la pensión se entregará a la madre o padre, conjunta o separadamente, en caso de que hubiesen dependido económicamente del afiliado o pensionado.
 
-2. Las personas divorciadas no tendrán derecho a la pensión de quien haya sido su cónyuge, a menos que a la muerte del causante, éste estuviese ministrándole alimentos por condena judicial y siempre que no existan viuda o viudo, hijos, concubina o concubinario y ascendientes con derecho a la misma. Cuando las personas divorciadas disfrutasen de la pensión en los términos de este artículo, perderán dicho derecho si contraen nuevas nupcias o si viviesen en concubinato.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+2. Las personas divorciadas no tendrán derecho a la pensión de quien haya sido su cónyuge, a menos que a la muerte del causante, éste estuviese ministrándole alimentos por condena judicial y siempre que no existan viuda o viudo, hijos, concubina o concubinario y ascendientes con derecho a la misma.
 
 ###### Artículo 93.
 
@@ -2288,3 +2290,11 @@ SEGUNDO.- Los Ayuntamientos deberán evaluar y revisar sus planes o programas de
 TERCERO.- Dentro de un plazo no mayor a 30 días naturales, los ayuntamientos deberán incluir en su portal de transparencia los planes o programas de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo que se encuentren vigentes.
 
 CUARTO.- El Instituto de Pensiones de los Servidores Públicos del Estado de Colima dentro de un plazo no mayor a 10 días hábiles contados a partir de la entrada en vigor del presente decreto deberá realizar las acciones necesarias para cabal cumplimiento a lo dispuesto en el presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 20.- POR EL QUE SE REFORMA EL APARTADO 2 DEL ARTÍCULO 92 DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el 31 de diciembre de 2021.
