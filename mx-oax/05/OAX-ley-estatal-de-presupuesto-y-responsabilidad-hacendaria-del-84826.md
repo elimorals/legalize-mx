@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2020-12-26"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -1949,6 +1949,10 @@ Para los efectos de esta fracción, los Ejecutores de gasto remitirán al Ejecut
 
 La Secretaría una vez validada la información capturada por cada una de las Ejecutoras de gasto, procederá a la publicación de los informes en el Periódico Oficial del Gobierno del Estado y los pondrá a disposición del público en general a través de su página electrónica de Internet, la cual deberá actualizar a más tardar en la fecha en que el Ejecutivo Federal entregue los citados informes a la Cámara de Diputados del Congreso de la Unión.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+Para efectuar el seguimiento de la captura de información, los ejecutores de gasto informarán a la Secretaría sobre cualquier instrumento jurídico o anexo que suscriban con la Federación en el que resulten beneficiados con recursos de naturaleza federal y que se establezca la obligación de rendir cuentas por la administración y ejercicio de los recursos públicos en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, esto con independencia de que la Secretaría haya participado o no en la suscripción del instrumento jurídico. El informe respectivo deberá efectuarse en un plazo no mayor a quince días hábiles posteriores a la suscripción del acto jurídico que le dé origen.
+
 ### CAPÍTULO SEGUNDO. DE LA EVALUACIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
@@ -2274,3 +2278,13 @@ QUINTO. Lo previsto en la fracción IV del artículo 17 Bis de la Ley se aplicar
 SEXTO. El Ejecutivo deberá informar al Congreso del Estado, en los informes trimestrales que correspondan, a que se refiere el artículo 81 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, sobre la constitución del Fondo y la emisión de sus reglas de operación.
 
 SÉPTIMO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 14.- MEDIANTE EL CUAL ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 82 BIS DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
