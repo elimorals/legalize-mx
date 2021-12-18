@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-12-04"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1649,6 +1649,18 @@ Venta de bebidas y comestibles adulterados o alterados.
 
 191.- A los propietarios y a los encargados del establecimiento en que se vendan comestibles o bebidas adulterados o alterados, se les impondrá la misma pena que señala el artículo anterior, clausurándose además definitivamente el establecimiento de que se trata, en caso de reincidencia.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+191 Bis.- Se aplicará prisión de diez meses a seis años y multa de hasta doce mil pesos al que comercie o distribuya gratuitamente, productos preenvasados que han superado la fecha de caducidad que se indica en el etiquetado del producto, independientemente de aplicarle la sanción correspondiente por el delito que resulte.
+
+Si la distribución gratuita de dichos productos lo realizará algún servidor o servidora pública encontrándose en ejercicio de sus funciones, además de la pena prevista se le inhabilitará para ejercer otro cargo público por un tiempo igual al que dure la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+191 Ter.- A las personas propietarias de los establecimientos en que se comercien productos preenvasados que han superado la fecha de caducidad que se indica en el etiquetado del productos (sic), se les impondrá la misma pena que señale el artículo anterior. En caso de reincidencia se clausurará definitivamente el establecimiento.
+
+Si estas conductas se llevaran a cabo durante o inmediatamente después de que las autoridades competentes hayan emitido formalmente alguna declaratoria de emergencia ya sea por desastre natural, crisis sanitaria o de cualquier otra índole la sanción se aumentará en una mitad.
+
 ### CAPITULO II.
 
 Contagio y propagación de enfermedades.
@@ -3125,6 +3137,40 @@ Los supuestos previstos en el párrafo anterior no integran los elementos del cu
 
 Tampoco integran los elementos del cuerpo del delito previsto en el párrafo primero del presente artículo, las conductas realizadas conforme a las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca, suscritas y realizadas por el solicitante o representante, en el documento de voluntad anticipada para los efectos legales a que haya lugar
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+292 Bis. Comete el delito de homicidio por razones de identidad de género u orientación sexual, quien prive de la vida a otra persona y se cumpla por los menos uno de los siguientes supuestos:
+
+I.- Que la víctima presente signos de violencia sexual de cualquier tipo;
+
+II. Que a la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras o mutilaciones o signos de asfixia, previos o posteriores a la privación de la vida;
+
+III. El cuerpo, cadáver o restos de la víctima hayan sido enterrados, ocultados, incinerados o sometidos a cualquier sustancia que lo desintegre;
+
+IV. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima, aun cuando no haya denuncia, querella o cualquier otro tipo de registro;
+
+V. Por desprecio u odio a la víctima motivado por discriminación, homofobia, transfobia o misoginia;
+
+VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público;
+
+VII. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+
+VIII. Se trate de una persona integrante de la comunidad LGBTTTIQ, activista o que forme parte de algún colectivo, colectiva o cualquier organización de defensa de los derechos de identidad de género u orientación sexual; o
+
+IX. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+
+Se entenderá como desprecio u odio cuando el activo realice conductas humillantes o degradantes, antes o durante la privación de la vida.
+
+La identidad de género, es la vivencia interna e individual del género tal como cada persona la experimenta profundamente, la cual podría corresponder o no con el sexo asignado al momento del nacimiento, incluyendo la vivencia personal del cuerpo, así como otras expresiones de género como la vestimenta, el modo de hablar y los modales, la identidad de género podría involucrar la modificación de la apariencia o la función corporal a través de medios médicos, quirúrgicos o de otra índole, siempre que la misma sea libremente escogida.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+292 Ter.- A quien cometa el delito de homicidio por razones de identidad de género u orientación sexual, se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela, o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
+
+Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito, como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
+
 ### CAPITULO IV.
 
 Reglas comunes para lesiones y homicidio.
@@ -3153,7 +3199,9 @@ Tampoco integran los elementos del cuerpo del delito previstos en el párrafo an
 
 297.- Por riña se entiende, para todos los efectos penales: la contienda de obra y no de palabra, entre dos o más personas.
 
-298.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+298.- Se aumentará de una tercera parte del mínimo a una tercera parte del máximo a quien infiera una lesión a una persona motivado por su preferencia u orientación sexual.
 
 299.- Se entiende que las lesiones y el homicidio, son calificados, cuando se cometen con premeditación, con ventaja, con alevosía o a traición.
 
@@ -5742,6 +5790,22 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 4 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2905.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 200 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2904.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 298; Y SE ADICIONAN LOS ARTÍCULOS 292 BIS, 292 TER DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2907.- MEDIANTE EL CUAL ADICIONAN LOS ADICIONAN LOS ARTÍCULOS 191 BIS Y 191 TER AL CAPÍTULO I DEL TÍTULO QUINTO DENOMINADO DELITOS CONTRA LA SALUD, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
