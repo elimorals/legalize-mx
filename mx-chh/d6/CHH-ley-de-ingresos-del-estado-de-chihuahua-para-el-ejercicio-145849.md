@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-14584
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo de la Edición Extraordinaria del Periódico Oficial del Estado de Chihuahua, el jueves 31 de diciembre de 2020.
 
@@ -793,6 +793,10 @@ La Secretaría de Hacienda establecerá, con sujeción a los lineamientos establ
 
 La cancelación de los créditos a que se refieren los párrafos anteriores de este artículo no libera de su pago.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO DECIMOCTAVO.- Se autoriza a la Secretaría de Hacienda para que, dentro de la cuenta pública estatal, registre de manera virtual y con base en la información que con carácter obligatorio le proporcionen los organismos descentralizados del sector educativo estatal, los ingresos que por concepto de derechos se hayan obtenido durante el presente ejercicio fiscal.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -832,6 +836,8 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los treinta días d
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
 
 TARIFA PARA EL COBRO DE DERECHOS
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TARIFA PARA EL COBRO DE DERECHOS EN EL P.O. 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 3 A LA 4.]</small>
 
 Con fundamento en los artículos 64 fracción VI de la Constitución Política del Estado de Chihuahua; 37, 38 fracción III del Código Fiscal del Estado de Chihuahua; 3, 86 y 87 de la Ley de Hacienda para el Estado de Chihuahua y demás leyes fiscales aplicables, se emite la:
 
@@ -948,3 +954,17 @@ b). A COLOR, POR CADA HOJA. 22.50
 > <small>[N. DE E. VÉASE TARIFAS EN EL ANEXO DE LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINAS DE LA 38 A LA 69.]</small>
 
 > <small>[N. DE E. VÉASE FORMATO 7 EN EL ANEXO DE LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 31 DE DICIEMBRE DE 2020, PÁGINAS DE LA 70 A LA 71.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLIE/0106/2021 I P.O”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza a la Secretaría de Hacienda para que realice los ajustes presupuestales que se deriven de la entrada en vigor de las disposiciones contenidas en el presente decreto.
