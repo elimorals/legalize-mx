@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2020-12-26"
+last_updated: "2021-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -155,7 +155,7 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3; Y 18 DE DICIEMBRE DE 2021, PÁGINA 20.]</small>
 
 ### CAPÍTULO II. SECRETARÍA DE ADMINISTRACIÓN
 
@@ -167,13 +167,49 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15; Y 26 DE DICIEMBRE DE 2020, PÁGINA 15.]</small>
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 11 Bis.
+
+Se pagarán y causarán derechos por el uso, goce o aprovechamiento del Centro Recreativo Polideportivo "Venustiano Carranza", de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+I. Actividades deportivas o recreativas con fines de lucro
+
+organizadas por personas físicas y morales en el área
+
+edificada del Centro Recreativo Polideportivo "Venustiano
+
+Carranza'', por día: 40.00
+
+II. Eventos deportivos o recreativos con fines de lucro
+
+organizados por personas físicas y morales en las áreas al
+
+aire libre del Centro Recreativo Polideportivo "Venustiano
+
+Carranza", por hora:
+
+a) Campo de futbol: 2.00
+
+b) Cancha de futbol de pasto sintético: 1.50
+
+c) Cancha multifuncional: 0.50
+
+d) Pista tartán: 2.50
+
+e) Trotapista y Ciclopista: 1.00
+
+f) Cancha de frontón: 1.50
+
 ###### Artículo 12.
 
 Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del Archivo General del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 6; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
 
 ###### Artículo 13.
 
@@ -477,11 +513,13 @@ c) Mototaxi 5.00
 
 d) Carga 10.00
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-Artículo 28 B. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de educación y vinculación, de conformidad con las siguientes cuotas:
+Artículo 28 B. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de desarrollo y regulación de sistemas de movilidad, de conformidad con las siguientes cuotas:
 
 No. Concepto Número de UMA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 I Expedición de autorización para impartir
 
@@ -501,21 +539,27 @@ a prestadores de servicios públicos. 1.00
 
 III (DEROGADA, P.O. 24 DE DICIEMBRE DE 2019)
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 IV Expedición, renovación y reposición
 
 de tarjetón para conductores: 6.00
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-Artículo 28 C. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de planeación, normatividad e imagen vial, de conformidad con las siguientes cuotas:
+Artículo 28 C. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de planeación, de conformidad con las siguientes cuotas:
 
 No. Concepto Número de UMA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 I Expedición de dictamen sobre
 
 la factibilidad de la solicitud del
 
 servicio especial de transporte: 5.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 II Expedición de dictamen sobre
 
@@ -529,6 +573,8 @@ habitantes habitantes
 
 adicionales
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 III Por la elaboración de estudios
 
 de factibilidad como requisito
@@ -536,6 +582,8 @@ de factibilidad como requisito
 para la integración de expediente
 
 para solicitud de concesión: 100.00 4.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 IV Expedición de dictamen de
 
@@ -625,6 +673,12 @@ servicio público, inscrito en el Registro
 
 Estatal de Transporte: 3.46
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+VIII. Expedición de permiso de operación y registro de
+
+servicios conexos: 30.00
+
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 Artículo 28 F. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia del servicio de transporte colectivo metropolitano CITYBUS OAXACA, de conformidad con las siguientes cuotas:
@@ -681,6 +735,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS 17 A LA 18.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+
 ### CAPÍTULO VIII. SECRETARÍA DE BIENESTAR DEL ESTADO DE OAXACA
 
 ###### Artículo 31.
@@ -689,7 +745,7 @@ Se causarán y pagarán derechos por los servicios públicos que se presten de c
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 5 A LA 6.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 18; Y 26 DE DICIEMBRE DE 2020, PÁGINA 18.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 18; Y 26 DE DICIEMBRE DE 2020, PÁGINA 18; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -767,7 +823,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 24 DE DICIEMBRE DE 2019, PÁGINA 8; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
 
 ### CAPÍTULO XIII. SECRETARÍA DE ECONOMÍA
 
@@ -883,7 +939,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23; 24 DE DICIEMBRE DE 2019, PÁGINA 10.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23; 24 DE DICIEMBRE DE 2019, PÁGINA 10; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
 
 ###### Artículo 44.
 
@@ -969,6 +1025,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+
 ###### Artículo 46.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de publicaciones, de conformidad con las siguientes cuotas:
@@ -1011,7 +1069,7 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Coor
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 11 A LA 13.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; 24 DE DICIEMBRE DE 2019, PÁGINA 11; Y 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 19 A LA 20.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; 24 DE DICIEMBRE DE 2019, PÁGINA 11; Y 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 19 A LA 20; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
 
 ###### Artículo 50.
 
@@ -1041,7 +1099,7 @@ Se causarán y pagarán derechos por los servicios públicos que realice el Cole
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 26.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 24 A LA 25.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 24 A LA 25; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2018)</small>
 
@@ -1137,6 +1195,44 @@ A los alumnos que obtengan al término de sus periodos lectivos promedios de eva
 
 El Consejo Directivo determinará el otorgamiento de becas que van desde el 25%, 50%, 75% y 100% por los conceptos de inscripción y reinscripción.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 56 Bis.
+
+Se causarán y pagarán derechos por los servicios públicos que realice la Universidad Politécnica de Nochixtlán "Abraham Castellanos", de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+I. Ficha de examen para selección. 3.95
+
+II. Inscripción y/o reinscripción. 15.00
+
+III. Expedición de constancia de estudios. 1.12
+
+IV. Reposición de credencial. 2.80
+
+V. Expedición de certificado de estudios. 1.12
+
+VI. Expedición de constancia de calificaciones 1.12
+
+VII. Diplomados. 89.27
+
+VIII. Curso especializado. 33.47
+
+IX. Curso básico. 5.58
+
+A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
+
+PROMEDIO DESCUENTO
+
+l. De 9.6 a 10· 100%
+
+II. De 9.1 a 9.5 75%
+
+III. De 8.5 a 9.0 50%
+
+La Junta Directiva determinará el otorgamiento de becas que van desde el 50%, 75% y 100% por los conceptos de inscripción y reinscripción.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 57.
@@ -1145,11 +1241,11 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen las
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25; Y 26 DE DICIEMBRE DE 2020, PÁGINA 20.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25; Y 26 DE DICIEMBRE DE 2020, PÁGINA 20; Y 18 DE DICIEMBRE DE 2021, PÁGINA 22.]</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
-Para los incisos b), c Bis), d), e), f) y l) de la fracción I; b), c Bis), d), de la fracción II; el Consejo Académico de cada Universidad, asignará y aplicará porcentajes de beca por servicios públicos que se realicen a los alumnos en los porcentajes del 25%, 50%, 75% y 100% de descuento.
+El Consejo Académico de la Universidad aplicará descuentos del 25%, 50%, 75% y 100% sobre el importe total únicamente en los conceptos señalados en los incisos b), c) bis, d), e), f) y l) de la fracción I; e incisos b), c) bis y d) de la fracción II del presente artículo; los que estarán en función del porcentaje de beca asignado a cada alumno por el Consejo Académico.
 
 TRANSITORIOS:
 
@@ -1204,3 +1300,13 @@ Primero. El presente Decreto entrará en vigor el uno de enero de dos mil veinti
 Segundo. Publíquese en (sic) el presente Decreto en el Periódico Oficial del Gobierno de Estado de Oaxaca.
 
 Tercero. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 10.- MEDIANTE EL CUAL REFORMA DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
