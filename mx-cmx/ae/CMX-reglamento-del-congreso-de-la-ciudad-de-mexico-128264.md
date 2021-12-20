@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2020-05-20"
+last_updated: "2021-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -2246,15 +2246,25 @@ Lo no previsto en el presente capítulo será resuelto de manera inapelable por 
 
 Las Comisiones y Comités, conforme a lo establecido en el Reglamento de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Congreso, enviarán a la Unidad de Transparencia en documento impreso y en medio electrónico la siguiente información:
 
-Copia de las actas de las reuniones de la Comisión o Comité, con listas de asistencia;
+> <small>(REFORMADA [N. DE E. ANTES PÁRRAFO SEGUNDO], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-I. Informes trimestral, semestral, anual y final;
+I. Copia de las actas de las reuniones de la Comisión o Comité, con listas de asistencia;
 
-II. Los acuerdos que se adopten y el sentido del voto de las y los Diputados;
+> <small>(REFORMADA Y REUBICADA [N. DE E ANTES FRACCIÓN I], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-III. Programa anual de trabajo, y
+II. Informes semestrales y final;
 
-IV. La información a que se refiere este artículo deberá publicarse en la Gaceta.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN II], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+III. Los acuerdos que se adopten y el sentido del voto de las y los Diputados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN III], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+IV. Programa anual de trabajo, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IV] G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+V. La información a que se refiere este artículo deberá publicarse en la Gaceta.
 
 ###### Artículo 205.
 
@@ -2374,7 +2384,9 @@ XX. Ordenar el envío de la documentación pertinente a la Gaceta para su public
 
 XXI. Ordenar el envío de los dictámenes aprobados a la Coordinación de Servicios Parlamentarios para su publicación en el sitio electrónico y ser enlistados para su aprobación en el Pleno del Congreso;
 
-XXII. Remitir a la Junta, su programa anual de trabajo y el informe trimestral, semestral y anual de actividades, aprobado por la Comisión o Comité;
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXII. Remitir a la Junta, su programa anual de trabajo y sus informes semestrales de actividades, aprobado por la Comisión o Comité;
 
 XXIII. Remitir al área de Comunicación Social y a la Coordinación de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de las y los Diputados que hayan asistido a la misma;
 
@@ -2584,7 +2596,9 @@ XI. Preparar los programas anuales de trabajo;
 
 XII. Realizar el análisis del informe con el que las y los servidores den cuenta al Congreso del estado que guardan sus respectivos ramos, previsto en el 29 Aparatado D incisos k y p de la Constitución Local;
 
-XIII. Redactar los informes trimestrales, semestrales y anuales de actividades, y
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XIII. Redactar los informes semestrales de actividades y
 
 XIV. Resolver los acuerdos o resoluciones que considere la propia Comisión, relacionados con las actividades que le corresponden en los términos de la ley, este reglamento y los acuerdos del Congreso, relacionados con su competencia.
 
@@ -2638,9 +2652,11 @@ IV. Incluir la realización de foros, estudios, investigaciones, publicaciones, 
 
 El programa aprobado deberá enviarse a la Junta dentro de los quince días posteriores a su aprobación para su publicación en Gaceta y su difusión en los medios electrónicos del Congreso, a más tardar tres días después de haberse recibido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 226.
 
-Los informes de actividades de la Comisión, se entregaran a la Junta, a través de los medios de divulgación disponibles. Serán trimestrales, semestrales, anuales y final de receso;
+Los informes de actividades de la Comisión, se entregarán a la Junta, a través de los medios de divulgación disponibles.
 
 Los informes contendrán:
 
@@ -2666,9 +2682,7 @@ X. Resumen de otras actividades desarrolladas por la Comisión como foros, audie
 
 ###### Artículo 227.
 
-El informe trimestral abarcará, del día que se haya instalado la Comisión al último día del mes de diciembre del mismo año, del primero de enero al último de marzo, del primero de abril al último de junio y del primero de julio al último de septiembre, respectivamente salvo el cuarto informe del tercer año de la Legislatura que abarcará del primero de julio al último día de agosto del último año de ejercicio de la legislatura.
-
-Los periodos de entrega serán para el primer trimestre en el mes de enero, para el segundo trimestre será el mes de abril, para el tercero el mes de julio y para el cuarto el mes de octubre; salvo el cuarto informe trimestral del tercer año de la Legislatura, el cual deberá entregarse los primeros días del mes de septiembre del último año de ejercicio de la Legislatura
+(DEROGADO, G.O. 20 DE DICIEMBRE DE 2021)
 
 ###### Artículo 228.
 
@@ -6179,3 +6193,11 @@ Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario
 Tercero. Comuníquese a la persona titular de la Oficialía Mayor para que, en coordinación de las demás Unidades Administrativas que correspondan, realicen de manera inmediata las medidas atinentes a efecto de otorgar condiciones para que puedan llevarse a cabo sesiones vía remota del Pleno, Mesa Directiva, Conferencia, Junta, Comisiones, Comités, Comisión Permanente o, en su caso, de las Unidades Administrativas, para cumplir con las obligaciones y disposiciones constitucionales, legales y reglamentarias.
 
 Cuarto. Aprobado el presente Decreto, la Junta emitirá el Acuerdo para establecer al menos dos medios remotos tecnológicos de comunicación como medios oficiales para ejercer sus funciones y atribuciones del Congreso.
+
+G.O. 20 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 204, PÁRRAFO SEGUNDO, FRACCIONES I, II, III Y IV, 211 FRACCIÓN XXII, 222 FRACCIÓN XIII, Y 226 EN SU PRIMER PÁRRAFO; Y SE DEROGA EL ARTÍCULO 227, TODOS ELLOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
