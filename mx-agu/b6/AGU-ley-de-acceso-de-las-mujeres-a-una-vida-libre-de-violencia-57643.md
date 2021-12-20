@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-08-02"
+last_updated: "2021-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -84,6 +84,26 @@ X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y 
 > <small>(ADICIONADA, P.O. 18 DE MARZO DE 2019)</small>
 
 XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 2° bis.- Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas estatales y municipales son:
+
+I. La igualdad sustantiva entre la mujer y el hombre;
+
+II. El respeto a la dignidad humana de las mujeres;
+
+III. La no discriminación;
+
+IV. La libertad de las mujeres;
+
+V. La promoción del desarrollo integral de las mujeres;
+
+VI. La plena participación de las mujeres en todas las esferas de la vida.
+
+VII. Perspectiva de género en las decisiones que emitan las autoridades competentes; y
+
+VIII. Transversalidad y progresividad en la implementación de acciones gubernamentales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
@@ -417,15 +437,11 @@ Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalient
 
 ### CAPÍTULO IV. De las Órdenes de Protección
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 26.
 
-Las órdenes de protección tienen como propósito prevenir, interrumpir o impedir la consumación de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una orden dictada por la autoridad judicial competente.
-
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
-
-Las órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público, los jueces mixtos, jueces cívicos, jueces de lo penal, civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos de delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, y deberán otorgarse de oficio o a petición de parte, por el Ministerio Público, los jueces mixtos, jueces cívicos, jueces de lo penal, civil y familiar, según corresponda, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
 ###### Artículo 27.
 
@@ -526,6 +542,54 @@ II. Prolongar las órdenes de protección de naturaleza civil por el tiempo que 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 El juez durante el desahogo de la audiencia deberá evitar cualquier circunstancia que propicie la revictimización de la mujer violentada.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 ter.- Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I.- Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II.- Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III.- Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+
+IV.- Principio de oportunidad y eficacia: Las órdenes deber ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+V.- Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VI.- Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+
+VII.- Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tome respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 quáter.- Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a las autoridades previstas en el artículo 29 de la presente Ley, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+La autoridad en el ámbito de su competencia deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 quinquies.- La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 sexies.- Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incuplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas. Previo a la suspensión de las órdenes de protección decretadas, las autoridades previstas en el artículo 29 de la presente Ley deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 septies.- Al momento de dictarse sentencia, las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
+
+Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público, tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 octies.- Por ninguna circunstancia las autoridades previstas en el artículo 29 de la presente Ley notificarán de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad. Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 nonies.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
 
 ### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
 
@@ -1590,3 +1654,19 @@ El Presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos de la entidad deberán adecuar sus normas internas de conformidad con esta Reforma, en un plazo máximo de un año contado a partir de su inicio de vigencia.
+
+P.O. 20 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 47.- SE REFORMA EL ARTÍCULO 26 Y SE ADICIONAN LOS ARTÍCULOS 30 TER, 30 QUÁTER, 30 QUINQUIES, 30 SEXIES, 30 SEPTIES, 30 OCTIES Y 30 NONIES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 20 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. TANSITORIO DEL “DECRETO NÚMERO 48.- SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]</small>
+
+###### ARTICULO ÚNICO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
