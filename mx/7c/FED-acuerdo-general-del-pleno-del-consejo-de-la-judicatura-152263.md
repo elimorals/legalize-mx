@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2021-11-03"
+last_updated: "2021-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2021-10-28"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2021 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE DICIEMBRE DE 2021.]</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -197,9 +197,11 @@ VII. Paridad de género: Generación de condiciones orientadas a consolidar, de 
 
 Perspectiva de género. En el Poder Judicial de la Federación se incorporará la perspectiva de género de forma transversal, progresiva y equitativa en el desarrollo de la Carrera Judicial a fin de garantizar el ejercicio y goce de los derechos humanos con un enfoque de igualdad sustantiva. Por su parte, el Consejo velará por que los órganos a su cargo también incorporen la perspectiva de género en el ejercicio de sus funciones relacionadas con la Carrera Judicial.
 
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 7.
 
-Contribución a la Carrera Judicial. La Escuela Judicial promoverá la Carrera Judicial mediante la celebración de convenios con instituciones académicas y judiciales nacionales o extranjeras, convocatorias a congresos y seminarios, con la finalidad de difundir la naturaleza de la función judicial y lograr su optimización; impulsando la creación de centros de práctica judicial; y todas aquellas medidas que puedan contribuir a la formación de personas servidoras públicas profesionales, con conocimientos de vanguardia, honestas y honestos, y de excelencia. La Escuela Judicial informará a la Comisión de los convenios que celebre a la Comisión.
+Contribución a la Carrera Judicial. La Escuela Judicial promoverá la Carrera Judicial mediante la celebración de convenios con instituciones académicas y judiciales nacionales o extranjeras, convocatorias a congresos y seminarios, con la finalidad de difundir la naturaleza de la función judicial y lograr su optimización; impulsando la creación de centros de práctica judicial; y todas aquellas medidas que puedan contribuir a la formación de personas servidoras públicas profesionales, con conocimientos de vanguardia, honestas y honestos, y de excelencia. La Escuela Judicial informará de los convenios que celebre a la Comisión.
 
 ### Capítulo III. Categorías de la Carrera Judicial
 
@@ -245,7 +247,9 @@ Requisitos para ser Jueza o Juez de Distrito. Para poder ser designada Jueza o J
 
 Requisitos para ser Secretaria o Secretario de Tribunal de Circuito o de Pleno Regional y Asistente de constancias y registro en tribunal de alzada. Las Secretarias y Secretarios de Tribunal de Circuito, Pleno Regional y las y los Asistentes de constancias y registro de tribunal de alzada deberán contar con experiencia profesional de al menos tres años y satisfacer los demás requisitos exigidos para ser Magistrada o Magistrado, salvo el de la edad mínima, además de los requisitos previstos en la Ley y en este Acuerdo.
 
-En los concursos de oposición para la promoción en la categoría de Secretaria o Secretario de Tribunal Circuito o de Pleno Regional o Asistente de constancias y registro de tribunal de alzada, únicamente podrán participar las personas que tengan 6 meses de antigüedad (sin que importe si dicha antigüedad se obtuvo de manera continua o interrumpida).
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
+En los concursos de oposición para la promoción en la categoría de Secretaria o Secretario de Tribunal Circuito o de Pleno Regional o Asistente de constancias y registro de tribunal de alzada, únicamente podrán participar las personas que tengan 6 meses de antigüedad (sin que importe si dicha antigüedad se obtuvo de manera continua o interrumpida) en las categorías de Secretarios de Juzgado, Asistentes de constancias y registro de Jueza o Juez de control o Jueza o Juez de enjuiciamiento y Secretarios Proyectistas de Juzgado de Distrito.
 
 También podrán participar las personas que cuenten con 6 meses de experiencia en cualquiera de dichas categorías, aunque en el momento del concurso no se desempeñen en el cargo, siempre y cuando tengan un nombramiento vigente dentro del Poder Judicial de la Federación. No obstante, las personas que dejaron de formar parte del Poder Judicial de la Federación podrán participar en los concursos de promoción a los que refiere el párrafo anterior siempre que, cumpliendo los requisitos previstos, se hayan separado de su cargo en un plazo de hasta 6 meses antes de la inscripción al concurso respectivo.
 
@@ -471,7 +475,9 @@ La Consejera o Consejero en funciones que presidirá el Jurado hará la declarac
 
 En el Jurado deberá haber personas de cuando menos dos de los perfiles antes señalados y el número de integrantes no podrá ser menor a tres. Además, por cada titular del Jurado se nombrará una persona con el mismo perfil como suplente. El Pleno se encargará de designar a las personas integrantes del Jurado, a propuesta de la Escuela Judicial.
 
-En los concursos para Titulares, dentro del Jurado deberá participar cuando menos una persona que goce de la categoría correspondiente al nivel respectivo, con las características previstas en las fracciones I y II del presente numeral.
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
+En los concursos para Titulares, dentro del Jurado deberá participar cuando menos una persona que goce de la categoría correspondiente al nivel respectivo, con las características previstas en las fracciones II o III del presente numeral.
 
 Las y los integrantes del Jurado que no pertenezcan al Poder Judicial de la Federación recibirán una remuneración por su participación en los concursos de oposición de conformidad con el instrumento que precisa la remuneración del personal docente de la Escuela Judicial al que se refiere el artículo 95 del presente Acuerdo.
 
@@ -793,9 +799,11 @@ V. La antigüedad en el Poder Judicial de la Federación o la experiencia profes
 
 Las listas a que refiere este artículo deberán ser publicadas en la página web de la Escuela Judicial y podrán realizarse nuevos concursos, aunque no se hubieran agotado las listas.
 
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 61.
 
-Listas de personas vencedoras de los concursos de oposición para órganos especializados. Si la convocatoria del concurso se emitió para ocupar una categoría de un órgano jurisdiccional especializado, se integrarán listas nacionales con las personas vencedoras específicas para cada categoría de Carrera Judicial y materia de especialización. Los cargos que se generen en los órganos especializados deberán cubrirse con las listas a que hace referencia este Capítulo y no podrán designarse personas de las listas generales, sino hasta que se agoten las listas especializadas.
+Listas de personas vencedoras de los concursos de oposición para órganos especializados. Si la convocatoria del concurso se emitió para ocupar una categoría de un órgano jurisdiccional especializado, se integrarán listas nacionales con las personas vencedoras específicas para cada categoría de Carrera Judicial y materia de especialización. Los cargos que se generen en los órganos especializados deberán cubrirse con las listas a que hace referencia este artículo y no podrán designarse personas de las listas generales, sino hasta que se agoten las listas especializadas.
 
 ###### Artículo 62.
 
@@ -1381,7 +1389,9 @@ Federación, y 25 puntos
 
 Total 100 puntos
 
-En caso de que la persona se hubiera desempeñado como Secretario o Secretaria de Estudio y Cuenta de Ministro o Ministra de la Suprema Corte, no se evaluará la fracción IV y esos 25 puntos se añadirán a la fracción I del artículo anterior, de tal forma que el rubro “calificación obtenida en el concurso de oposición” tendrá 85 puntos.
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
+En caso de que la persona se hubiera desempeñado como Secretario o Secretaria de Estudio y Cuenta de Ministro o Ministra de la Suprema Corte, no se evaluará la fracción V y esos 25 puntos se añadirán a la fracción I del artículo anterior, de tal forma que el rubro “calificación obtenida en el concurso de oposición” tendrá 85 puntos.
 
 Los formatos de inscripción de los concursos para la designación de Titulares deberán prever un apartado en el que las personas participantes puedan señalar las sedes y especialidades de su preferencia, para que puedan ser consideradas en caso de que las necesidades en el servicio lo permitan.
 
@@ -1393,7 +1403,9 @@ Propuesta de cambio de adscripción. Las Magistradas y los Magistrados y Juezas 
 
 I. Sus solicitudes se valorarán de acuerdo con los criterios previstos por el artículo 66 de la Ley;
 
-II. La solicitud deberá presentarse por escrito al Consejo mediante el sistema electrónico previsto para al efecto, en el que se deberá manifestar bajo protesta de decir verdad lo siguiente: las razones por las que se solicita el cambio de adscripción; los posibles conflictos de interés que pudieran existir con particulares o con otras personas servidoras públicas con motivo del desempeño de la función jurisdiccional; los nombres y grado de parentesco de todas las y los familiares dentro del quinto grado por consanguinidad y por afinidad que laboren dentro del Poder Judicial de la Federación; los cursos que hubiera impartido o tomado en la Escuela Judicial; y las labores de cuidado familiares no remuneradas que realice al interior de su núcleo familiar; y
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
+II. La solicitud deberá presentarse por escrito al Consejo mediante el sistema electrónico previsto para tal efecto, en el que se deberá manifestar bajo protesta de decir verdad lo siguiente: las razones por las que se solicita el cambio de adscripción; los posibles conflictos de interés que pudieran existir con particulares o con otras personas servidoras públicas con motivo del desempeño de la función jurisdiccional; los nombres y grado de parentesco de todas las y los familiares dentro del quinto grado por consanguinidad y por afinidad que laboren dentro del Poder Judicial de la Federación; los cursos que hubiera impartido o tomado en la Escuela Judicial; y las labores de cuidado familiares no remuneradas que realice al interior de su núcleo familiar; y
 
 III. Acreditar una antigüedad mínima de tres años en el órgano jurisdiccional al que se encuentre adscrito el o la solicitante, salvo los casos que exijan las necesidades del servicio, en los que el Pleno podrá exceptuar la presente regla.
 
@@ -1419,17 +1431,25 @@ Cambios de adscripción situaciones extraordinarias, razones de seguridad o acos
 
 Asimismo, en el caso de personas servidoras públicas distintas de los y las Titulares, el Consejo podrá llevar a cabo cambios de adscripciones por cuestiones de seguridad y hostigamiento o acoso sexual, o cualquier otra conducta de violencia sexual y de género, así como en caso de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género. Únicamente en estos casos se seguirá el siguiente procedimiento:
 
-I. La Comisión de Vigilancia o la Unidad de Prevención y Combate al Acoso Sexual propondrán a la Comisión de Adscripción, a través de la Secretaría Ejecutiva de Adscripción, el cambio de adscripción de personas servidoras públicas, respectivamente, ante riesgos de seguridad o como una medida de protección contra el hostigamiento laboral o el acoso sexual, atendiendo siempre al interés de la persona en riesgo o en una situación de víctima.
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
 
-II. Al recibir la solicitud de cambio de adscripción por parte de la Comisión de Vigilancia o la Unidad de Prevención y Combate al Acoso Sexual, la Comisión de Adscripción, a través de la Secretaría Ejecutiva de Adscripción, valorará el perfil de la persona en cuestión, en aras de determinar los posibles lugares a los cuales resulte adecuado el movimiento, atendiendo en todo momento a las causas que lo motivaron.
+I. La Comisión de Vigilancia o la Unidad de Prevención y Combate al Acoso Sexual propondrán a la Secretaría Ejecutiva de Creación de Nuevos Órganos, para la integración de nuevas plantillas, o a la Comisión de Administración para los demás casos, el cambio de adscripción de personas servidoras públicas, respectivamente, ante riesgos de seguridad o como una medida de protección contra el hostigamiento laboral o el acoso sexual, atendiendo siempre al interés de la persona en riesgo o en una situación de víctima.
 
-III. Hecho lo anterior, la Comisión de Adscripción, conforme la propuesta que le proporcione la Secretaría Ejecutiva de Adscripción, revisará si existen vacantes disponibles para que:
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
+II. Al recibir la solicitud de cambio de adscripción por parte de la Comisión de Vigilancia o la Unidad de Prevención y Combate al Acoso Sexual, la Secretaría Ejecutiva de Creación de Nuevos Órganos o la Comisión de Administración, según corresponda, valorará el perfil de la persona en cuestión, en aras de determinar los posibles lugares a los cuales resulte adecuado el movimiento, atendiendo en todo momento a las causas que lo motivaron.
+
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
+III. Hecho lo anterior, la Secretaría Ejecutiva de Creación de Nuevos Órganos o la Comisión de Administración, según corresponda, revisará si existen vacantes disponibles para que:
 
 a) En caso afirmativo, se haga el respectivo cambio de adscripción, y
 
 b) En caso negativo, se realice un monitoreo constante para identificar las vacantes que se generen en aras de lograr eventualmente el cambio de adscripción. En tanto exista una vacante disponible y a propuesta de la Unidad de Prevención y Combate al Acoso Sexual o la Comisión de Vigilancia, se podrá comisionar a la persona en riesgo o en situación de víctima o, en su defecto, se le podrá otorgar como medida preventiva y extraordinaria una licencia con goce de sueldo.
 
-IV. En los dos supuestos antes mencionados, la Comisión de Adscripción, a través de la Secretaría Ejecutiva de Adscripción, notificará de inmediato a la Unidad de Prevención y Combate al Acoso Sexual o a la Comisión de Vigilancia respectivo la imposibilidad de cubrir la plaza mediante el proceso normal de contratación o el cambio de adscripción.
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
+IV. En los dos supuestos antes mencionados, la Secretaría Ejecutiva de Creación de Nuevos Órganos o la Comisión de Administración, notificará de inmediato a la Unidad de Prevención y Combate al Acoso Sexual o a la Comisión de Vigilancia respectivo (sic) la imposibilidad de cubrir la plaza mediante el proceso normal de contratación o el cambio de adscripción.
 
 ###### Artículo 124.
 
@@ -1983,9 +2003,11 @@ Las licencias sin goce de sueldo no se computarán como tiempo de servicio prest
 
 Las licencias con goce de sueldo serán concedidas por la Comisión de Administración sólo cuando las motive una causa de fuerza mayor que impida el ejercicio del cargo. Ninguna licencia hasta por quince días con goce de sueldo podrá concederse si implica la extensión previa o posterior de los periodos vacacionales.
 
+> <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 182.
 
-Plazo para solicitar una nueva licencia. Cuando se hubiere otorgado una licencia mayor de seis meses, no podrá concederse otra en el transcurso de un año, y, si se hubiere gozado de una menor a seis meses, no podrá solicitarse otra en el transcurso de cuatro meses.
+Plazo para solicitar una nueva licencia. Cuando se hubiere otorgado una licencia mayor de seis meses, no podrá concederse otra en el transcurso de un año, y si se hubiere gozado de una menor a seis meses, en el transcurso de cuatro meses no podrá solicitarse licencia de carácter personal con goce de sueldo.
 
 ###### Artículo 183.
 
