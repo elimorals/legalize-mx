@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2020-05-20"
+last_updated: "2021-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1468,11 +1468,17 @@ Las Comisiones Ordinarias serán en número que corresponda correlacionadamente 
 
 El Pleno designará en cada Legislatura las siguientes Comisiones ordinarias con carácter permanente:
 
-I. Abasto y Distribución de Alimentos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-II. Administración Pública Local;
+I. Administración Pública Local;
 
-III. Administración y Procuración de Justicia;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+II. Administración y Procuración de Justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+III. Agenda 20-30;
 
 IV. Alcaldías y Límites Territoriales;
 
@@ -1484,75 +1490,153 @@ VII. Atención al Desarrollo de la Niñez;
 
 VIII. Atención Especial a Víctimas;
 
-IX. Ciencia, tecnología e Innovación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2019)</small>
+IX. Bienestar Animal;
 
-X. Derechos Culturales;
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XI. Deporte;
+X. Ciencia, Tecnología e Innovación;
 
-XII. Derechos Humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XIII. Desarrollo e Infraestructura Urbana y Vivienda;
+XI. Derechos Culturales;
 
-XIV. Desarrollo Económico;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XV. Desarrollo Metropolitano;
+XII. Deporte;
 
-XVI. Desarrollo Rural;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 9 DE MAYO DE 2019)</small>
+XIII. Derechos Humanos;
 
-XVII. Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales;
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XVIII. Educación;
+XIV. Desarrollo e Infraestructura Urbana;
 
-XIX. Gestión Integral del Agua;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XX. Hacienda;
+XV. Desarrollo Rural, Abasto y Distribución de Alimentos;
 
-XXI. Igualdad de Género;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXII. Juventud;
+XVI. Desarrollo Económico;
 
-XXIII. Movilidad Sustentable;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXIV. Normatividad, Estudios y Prácticas Parlamentarias;
+XVII. Desarrollo Metropolitano;
 
-XXV. Participación Ciudadana;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXVI. Planeación del Desarrollo;
+XVIII. Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales;
 
-> <small>(REFORMADA, G.O. 9 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXVII. Preservación del Medio Ambiente, Cambio Climático, Protección Ecológica y Animal;
+XIX. Educación;
 
-XXVIII. Presupuesto y Cuenta Pública;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXIX. Protección a Periodistas;
+XX. Gestión Integral del Agua;
 
-XXX. Protección Civil y Gestión Integral de Riesgos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXXI. Pueblos, Barrios Originarios y Comunidades Indígenas Residentes;
+XXI. Hacienda;
 
-XXXII. Puntos Constitucionales e iniciativas Ciudadanas;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXXIII. Reconstrucción;
+XXII. Igualdad de Género;
 
-XXXIV. Registral, Notarial y Tenencia de la Tierra;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXXV. Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México;
+XXIII. Juventud;
 
-XXXVI. Salud;
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXXVII. Seguridad Ciudadana;
+XXIV. Movilidad Sustentable y Seguridad Vial;
 
-XXXVIII. Transparencia y Combate a la Corrupción;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
 
-XXXIX. Turismo; y
+XXV. Normatividad, Estudios y Prácticas Parlamentarias;
 
-XL. Uso y aprovechamiento del Espacio Público.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXVI. Ordenamiento Territorial de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXVII. Participación Ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXVIII. Personas Migrantes Originarias de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXIX. Planeación del Desarrollo;
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXX. Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXI. Presupuesto y Cuenta Pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXII. Protección a Periodistas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXIII. Protección Civil y Gestión Integral de Riesgos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXIV. Pueblos, Barrios Originarios y Comunidades Indígenas Residentes;
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXV. Puntos Constitucionales e Iniciativas Ciudadanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXVI. Reactivación Económica;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXVII. Reconstrucción;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXVIII. Registral, Notarial y Tenencia de la Tierra;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XXXIX. Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XL. Salud;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XLI. Seguridad Ciudadana;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XLII. Transparencia y Combate a la Corrupción;
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XLIII. Turismo;
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XLIV. Uso y Aprovechamiento del Espacio Público, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2021)</small>
+
+XLV. Vivienda.
 
 ###### Artículo 75.
 
@@ -2739,3 +2823,11 @@ Tercero. Comuníquese a la persona titular de la Oficialía Mayor para que, en c
 Cuarto. Aprobado el presente Decreto, la Junta emitirá el Acuerdo para establecer al menos dos medios remotos tecnológicos de comunicación como medios oficiales para ejercer sus funciones y atribuciones del Congreso.
 
 La Junta sesionará los días lunes de cada semana para acordar lo relativo a las sesiones virtuales.
+
+G.O. 20 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE REFORMAN LAS FRACCIONES I, II, III, IX A LA XLV DEL ARTÍCULO 74 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
