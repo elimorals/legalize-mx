@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2019-12-30"
+last_updated: "2021-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -468,6 +468,10 @@ V. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2019)
 > <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
 VI. Instituto de Administración y Avalúos de Bienes Nacionales.
+
+> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VII. Agencia Nacional de Aduanas de México;
 
 Las Unidades, las Subprocuradurías, las Subtesorerías y las Direcciones Generales, estarán integradas por los Jefes de Unidad, Subprocuradores, Subtesoreros, Directores Generales, Secretarios Técnicos, Directores Generales Adjuntos, Directores, Subdirectores, Jefes de Departamento, de Oficina, de Sección y de Mesa, por los Coordinadores, Supervisores, Auditores, Ayudantes de Auditor y por los demás servidores públicos que señale este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -8631,11 +8635,11 @@ El Órgano Interno de Control contará en su estructura con un área administrat
 
 Para la más eficaz atención y el eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a los que se les otorgarán autonomía técnica y facultades ejecutivas para resolver sobre materias específicas dentro del ámbito de competencia que se determine en cada caso, de conformidad con las normas que al efecto establezca el instrumento legal respectivo, el cual deberá ser publicado en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 98-C.
 
-El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro y el Instituto de Administración y Avalúos de Bienes Nacionales tendrán la organización y las atribuciones que les establezcan las disposiciones jurídicas por los que fueron creados.
+El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, el Instituto de Administración y Avalúos de Bienes Nacionales y la Agencia Nacional de Aduanas de México tendrán la organización y las atribuciones que les establezcan las disposiciones jurídicas aplicables.
 
 > <small>(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -9174,3 +9178,33 @@ SEXTO.- Las modificaciones a las estructuras orgánicas que se generen como resu
 SÉPTIMO.- La Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales se extingue para los efectos financieros, presupuestales y de cuenta pública el 31 de diciembre de 2019, por lo que deberá dar cumplimiento a todos los procesos administrativos y legales que se deriven de la extinción a más tardar en dicha fecha.
 
 OCTAVO.- Se abroga el Reglamento Interior de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, publicado el 29 de septiembre de 2017 en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO Y DEL REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, Y POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA NACIONAL DE ADUANAS DE MÉXICO”.]
+
+Primero. El presente Decreto entrará en vigor el 1o de enero de 2022.
+
+Segundo. Se abroga el Decreto por el que se crea la Agencia Nacional de Aduanas de México como un órgano administrativo desconcentrado de la Secretaría de Hacienda y Crédito Público publicado en el Diario Oficial de la Federación el 14 de julio de 2021.
+
+Tercero. El Servicio de Administración Tributaria podrá proporcionar a la Agencia Nacional de Aduanas de México los servicios de comunicaciones y tecnologías de la información requeridos para apoyar sus funciones administrativas hasta en tanto ésta pueda llevarlos a cabo por su cuenta, en los términos del convenio de colaboración que al efecto se celebre.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para la Secretaría de Hacienda y Crédito Público en el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, por lo que no se autorizarán recursos adicionales y no se incrementará su presupuesto regularizable durante el ejercicio fiscal respectivo.
+
+Quinto. Los recursos humanos, financieros y materiales con que cuenta la Administración General de Aduanas y las Aduanas del Servicio de Administración Tributaria serán transferidos a la Agencia Nacional de Aduanas de México.
+
+Las erogaciones que se generen con motivo de la transferencia deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Los ejecutores de gasto, por conducto de sus unidades responsables, deberán realizar el proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+Los derechos de los trabajadores serán respetados conforme a la legislación y normativa aplicables.
+
+Sexto. Para efectos de lo previsto en el último párrafo del artículo 38 del presente Reglamento, para agilizar la organización y colaboración entre las referidas autoridades federales, la Secretaría de la Defensa Nacional y la Secretaría de Marina podrán constituir fideicomisos públicos sin estructura, que servirán como vehículos financieros para recibir y administrar los recursos que deriven de cualquier otro vehículo que reciba la contraprestación prevista en el artículo 16 de la Ley Aduanera, con objeto de que con cargo a los patrimonio (sic) de los fideicomisos que lleguen a constituirse, se realicen los pagos correspondientes a los servicios u obra pública contratados para los puntos de entrada y salida del país que coordinan, en cumplimiento estricto a lo previsto en el artículo 16 de la Ley Aduanera.
+
+Séptimo. Los asuntos que a la entrada en vigor del presente instrumento jurídico se encuentren en trámite en la Administración General de Aduanas, las Aduanas y las unidades administrativas que de éstas dependan, así como aquéllos atendidos por las unidades administrativas del Servicio de Administración Tributaria que modifiquen sus atribuciones en virtud de la entrada en vigor del presente Reglamento por ser competencia de la Agencia Nacional de Aduanas de México, se tramitarán hasta su conclusión por dicha Agencia, sus Aduanas y las unidades administrativas que de éstas dependan, en el ámbito que a cada una corresponda de conformidad con su Reglamento Interior vigente.
+
+Octavo. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la Administración General de Aduanas y a las Aduanas del Servicio de Administración Tributaria se entenderán hechas o conferidas a la Agencia Nacional.
+
+Para efecto de los contratos de fideicomisos públicos en los que la Administración General de Aduanas del Servicio de Administración Tributaria funja como unidad responsable, la Agencia deberá llevar a cabo todas las gestiones necesarias con la finalidad de que se modifiquen dentro de los 90 días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+Noveno. Los asuntos derivados de denuncias presentadas en contra de los servidores públicos de la Administración General de Aduanas que se encuentren en trámite en la Administración General de Evaluación se trasladarán a la Dirección General de Evaluación de la Agencia Nacional, de conformidad con la legislación aplicable.
