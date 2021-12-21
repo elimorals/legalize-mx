@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2021-07-04"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -63,11 +63,11 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de interés social que tiene por objeto, reglamentar las disposiciones contenidas en el artículo 160, en su párrafo tercero, de la Constitución Política del Estado Libre y Soberano de Durango, en materia de adquisiciones, arrendamientos y contratación de servicios que lleve a cabo el Estado, las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos; así como en materia de Proyectos de inversión y Prestación de Servicios.
+La presente Ley es de orden público y de interés social que tiene por objeto, reglamentar las disposiciones contenidas en el artículo 160, en su párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Durango, en materia de adquisiciones, arrendamientos y contratación de servicios que lleven a cabo los poderes del Estado, los órganos constitucionales autónomos y los ayuntamientos, así como en materia de Proyecto de Inversión y Prestación de Servicios.
 
 ###### ARTÍCULO 2.
 
@@ -115,9 +115,13 @@ XIV.- INTERNET: Red de Comunicaciones Internacionales.
 
 XV.- PIPS: El contrato, concesión o cualquier otro instrumento jurídico en virtud del cual una Entidad adquiere bienes, el uso de éstos o servicios que deban prestarse o suministrarse por la contraparte durante un plazo mínimo de tres años y máximo de treinta años y requieran de una inversión por la contraparte superior a dos millones de Unidades de Inversión, según se publique por el Banco de México al momento de la celebración del Contrato.
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-XVI.- INVERSIONISTA PROVEEDOR: La persona que celebra un contrato de PIPS con una Dependencia, Entidad o Ayuntamiento.
+XVI.- INVERSIONISTA PROVEEDOR: La persona que celebra un contrato de PIPS con una Dependencia, Entidad o Ayuntamiento; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+XVII.- ENTES PÚBLICOS.- Los poderes del Estado, los ayuntamientos y los órganos constitucionales autónomos.
 
 ###### ARTÍCULO 3.
 
@@ -1250,3 +1254,11 @@ SEGUNDO. La Secretaría, dispondrá de un plazo de 40 días naturales contados a
 TERCERO. Todas las empresas que así lo decidan, podrán aportar recursos para el Fondo a que se refiere este Decreto, realizando su correspondiente aportación a la Secretaría, quien expedirá el comprobante fiscal respectivo.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 014.- QUE CONTIENE A LOS ARTÍCULOS 1 Y 2 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Las disposiciones de esta Ley son obligatorias para los poderes del Estado, los ayuntamientos y los órganos constitucionales autónomos, por lo que en tanto se reforme, serán aplicables a éstos, todas aquellas que se refieren a las dependencias, entidades y/o ayuntamientos.
