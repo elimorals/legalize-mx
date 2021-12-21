@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prestacion-del-servicio-publico-de-panteones-en-319
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-20"
-last_updated: "2020-07-08"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 20 de mayo de 2003.
 
@@ -227,9 +227,11 @@ VII.- Memoria técnica del proyecto arquitectónico, constructivo y de detalles 
 
 VIII.- Opinión de la autoridad sanitaria correspondiente.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 15.
 
-Para el establecimiento y operación de los panteones públicos concesionados se dará cumplimiento a las disposiciones contenidas en la Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado.
+Para el establecimiento y operación de los panteones públicos concesionados se dará cumplimiento a las disposiciones contenidas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas.
 
 ###### ARTÍCULO 16.
 
@@ -718,3 +720,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-89 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, Y DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
