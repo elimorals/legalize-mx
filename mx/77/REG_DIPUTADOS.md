@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2021-04-27"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -2026,9 +2026,13 @@ I. Presentar el proyecto del Programa de trabajo a los integrantes de la comisi�
 
 II. Presentar ante el pleno de la comisión, para su aprobación, las propuestas de opinión fundada que tengan que elaborar en términos de la normatividad aplicable, o cuando la Mesa Directiva u otras comisiones le soliciten opinión respecto de los asuntos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-III. Proponer a la comisión la integración de subcomisiones o grupos de trabajo, dentro de la comisión, para la presentación de predictámenes o proyectos de resolución, así como para la coordinación de actividades con otras comisiones, comités o dependencias del Poder Ejecutivo Federal;
+III. Proponer a la comisión la integración de subcomisiones o grupos de trabajo, dentro de la comisión, para la presentación de predictámenes o proyectos de resolución, así como para:
+
+a) La coordinación de actividades con otras comisiones o comités, de la Cámara de Senadores; dependencias o entidades del Poder Ejecutivo Federal, y
+
+b) La realización de reuniones en conferencia con comisiones de la Cámara de Senadores.
 
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -2292,7 +2296,9 @@ III. Redactar los informes semestrales de actividades;
 
 IV. Elaborar los dictámenes o resoluciones, sobre los asuntos que le fueron turnados por el Presidente para tales efectos;
 
-V. Decidir la constitución e integración de subcomisiones y grupos de trabajo;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+V. Decidir la constitución e integración de subcomisiones y grupos de trabajo, así como la coordinación de actividades con comisiones de la Cámara de Senadores para trabajar en conferencia;
 
 VI. Realizar el análisis del informe con el que los secretarios de despacho den cuenta a la Cámara del estado que guardan sus respectivos ramos, previsto en el primer párrafo del artículo 93 de la Constitución;
 
@@ -2356,7 +2362,9 @@ I. Ser aprobado por la comisión dentro de los dos primeros meses del primer añ
 
 II. Contener la programación de sus reuniones ordinarias, en términos de lo señalado en este Reglamento y la normatividad aplicable;
 
-III. Contener criterios generales para la metodología de trabajo, como integración de subcomisiones o grupos de trabajo, procedimiento de elaboración de dictámenes u oficios de respuesta, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+III. Contener criterios generales para la metodología de trabajo, como integración de subcomisiones o grupos de trabajo, procedimiento de elaboración de dictámenes u oficios de respuesta, en su caso, para la coordinación de actividades con comisiones de la Cámara de Senadores para el trabajo en conferencia, y
 
 IV. Incluir la realización de foros, estudios, investigaciones, publicaciones, visitas, entrevistas, audiencias, invitaciones a particulares y, en caso necesario, comparecencias de servidores públicos.
 
@@ -2484,7 +2492,9 @@ XII. La información sobre la aplicación y destino final de los recursos econó
 
 ###### Artículo 168.
 
-1. Las comisiones podrán tener reuniones con carácter ordinario, extraordinario o permanente.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+1. Las comisiones podrán tener reuniones con carácter ordinario, extraordinario, permanente o en conferencia.
 
 ###### Artículo 169.
 
@@ -2505,6 +2515,16 @@ XII. La información sobre la aplicación y destino final de los recursos econó
 3. Las reuniones permanentes podrán reiniciar en el lugar y hora que el Presidente de la Junta Directiva convoque, con los diputados presentes, pero cualquier decisión que se tome sólo será válida cuando el quórum se acredite.
 
 4. La Reunión culminará cuando el Presidente de la Junta Directiva declare que se han agotado los asuntos listados en el Orden del día o por acuerdo de la mayoría absoluta.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 171 Bis.
+
+1. Serán reuniones en conferencia aquellas que se realicen entre las comisiones de la Cámara de Diputados y las correspondientes de la Cámara de Senadores, para analizar de manera conjunta iniciativas, proyectos de ley o decreto u otros asuntos, cuya tramitación se considere necesario agilizar.
+
+2. Las reuniones en conferencia se realizan previo acuerdo con la colegisladora, en los términos de la normatividad interna de cada Cámara.
+
+3. La propuesta para el acuerdo de reuniones en conferencia será aprobada por la Junta e incluirá, al menos, el programa de actividades, calendario de reuniones, así como las reglas para su conducción y desarrollo.
 
 ###### Artículo 172.
 
@@ -4227,3 +4247,9 @@ D.O.F. 27 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO AL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE REUNIONES EN CONFERENCIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
