@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2021-05-04"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -673,6 +673,10 @@ Esta denuncia, reporte o noticia no obedecerá a formalidades especiales pudiend
 
 La orden de protección deberá estar debidamente fundada y motivada y ser ejecutada inmediatamente por la fuerza pública municipal, pudiendo solicitar el auxilio de otras autoridades.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+La presente orden de protección debe ser notificada a las autoridades que se considere deban enterarse para efectos de su cooperación inmediata, considerando como mínimo, a la laboral, para efecto de permitir la ausencia de la trabajadora, con goce de sueldo, por el tiempo que se emita la orden; y la educativa, de tener menores hijos a su guarda y custodia, para que sea justificada la inasistencia de los menores de edad a clase; independientemente de las demás a quien deba notificarse, según el caso particular de la mujer violentada, para su colaboración en mantener la integridad y seguridad de la víctima y sus menores hijos.
+
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
 
 ARTÍCULO 39 BIS. Corresponde al Instituto Electoral de Michoacán en el ámbito de su competencia:
@@ -1160,3 +1164,11 @@ P.O. 4 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 250.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 11 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 06.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 22 Y LA FRACCIÓN VII DEL ARTÍCULO 35, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS.- ARTÍCULO SEGUNDO.- SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 39, DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para su conocimiento y debida publicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
