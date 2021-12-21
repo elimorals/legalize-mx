@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2019-10-16"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -1495,9 +1495,11 @@ No podrán inscribirse mediante información posesoria, las servidumbres continu
 
 ### CAPITULO XXVI. DE LAS NORMAS SUPLETORIAS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 170.
 
-A falta de disposición expresa, se consideran como normas supletorias, en lo conducente, las disposiciones contenidas en el Código Civil para el Estado de Tamaulipas, el Código de Procedimientos Civiles para el Estado de Tamaulipas, el Código Fiscal del Estado, la Ley de Catastro, la Ley del Notariado y la Ley para el Desarrollo Urbano del Estado de Tamaulipas.
+A falta de disposición expresa, se consideran como normas supletorias, en lo conducente, las disposiciones contenidas en el Código Civil para el Estado de Tamaulipas, el Código de Procedimientos Civiles del Estado de Tamaulipas, el Código Fiscal del Estado de Tamaulipas, la Ley de Catastro para el Estado de Tamaulipas; la Ley del Notariado para el Estado de Tamaulipas y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas.
 
 ## TRANSITORIOS
 
@@ -1586,3 +1588,11 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado de Tamaulipas.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-89 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, Y DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
