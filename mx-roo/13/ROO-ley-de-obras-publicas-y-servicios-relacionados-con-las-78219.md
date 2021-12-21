@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-y-servicios-relacionados-con-las-78219"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2021-07-16"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -73,9 +73,9 @@ Las dependencias estatales se abstendrán de crear fideicomisos, otorgar mandato
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-I.- Secretaría: La Secretaría de Desarrollo Social;
+I.- SECRETARÍA: La Secretaría de Finanzas y Planeación;
 
 II.- Dependencias: Las mencionadas en la fracción I del artículo 1 de esta ley, que de conformidad con la ley orgánica de la Administración Pública Estatal se encuentren facultadas para realizar obras públicas y servicios relacionados con las mismas;
 
@@ -1448,5 +1448,17 @@ la Secretaría de Finanzas y Planeación y la Secretaría de Ecología y Medio A
 La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legislatura del Estado, a través de la Comisión de Puntos Legislativos y Técnica Parlamentaria, cada dos meses, a partir de la fecha de la expedición del presente decreto, respecto del avance del proceso de transferencia de los recursos financieros, humanos y materiales, además de las funciones, procesos y procedimientos correspondientes, a la transferencia de la Oficialía Mayor, a la Secretaría de Finanzas y Planeación, así como de la Secretaría de Desarrollo Económico a la Secretaría de Ecología y Medio Ambiente.
 
 ###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
