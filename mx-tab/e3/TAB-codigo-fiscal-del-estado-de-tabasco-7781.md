@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2019-12-21"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -33,9 +33,11 @@ LIC. MANUEL GURRIA ORDOÑEZ, GOBERNADOR SUSTITUTO DEL ESTADO LIBRE Y SOBERANO DE
 
 Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
-La Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades conferidas por el Artículo 36, Fracción I de la Constitución Política del Estado, y:
+La H. Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades conferidas por el Artículo 36, Fracción I de la Constitución Política del Estado; y
 
-.
+C O N S I D E R A N D O
+
+[...]
 
 Ha tenido a bien emitir el siguiente:
 
@@ -403,13 +405,21 @@ XII. Los socios o accionistas, respecto de las contribuciones que se hubieran ca
 
 La responsabilidad solidaria se calculará multiplicando el porcentaje de participación que haya tenido el socio o accionista en el capital social al momento de la causación, por la contribución omitida, en la parte que no se logre cubrir con los bienes de la empresa;
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+XIII. Los asociantes, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas mediante la asociación en participación, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la misma, siempre que la asociación en participación incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c) y d) de la fracción IV de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el período o la fecha de que se trate;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+XIV. Las personas físicas o jurídicas colectivas que subcontraten personal con otras personas físicas o jurídicas colectivas, en términos de lo previsto en el artículo 27-B de la Ley de Hacienda del Estado de Tabasco, por el Impuesto Sobre la Nómina causado por estas últimas, que no haya sido enterado;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+XV. Las personas físicas o jurídicas colectivas que deleguen, mediante cualquier figura jurídica, la ejecución de las obras que les fueron adjudicadas en el Estado de Tabasco, en términos de los (sic) previsto por el artículo 27-C de la Ley de Hacienda del Estado de Tabasco, por el impuesto sobre la nómina causado por las personas físicas o jurídicas colectivas a las que se les delegaron las obras que no haya sido enterado, y
+
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XIII. Los asociantes, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas mediante la asociación en participación, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la misma, siempre que la asociación en participación incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c) y d) de la fracción IV de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el período o la fecha de que se trate; y
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-XIV. Las demás personas que señalen las leyes.
+XVI. Las demás personas que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -431,9 +441,9 @@ Las promociones deberán contener por lo menos los requisitos siguientes:
 
 I. Constar por escrito;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-II. El nombre, la denominación o razón social y el domicilio fiscal manifestado ante el Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad y la clave que le correspondió en dicho registro;
+II. El nombre, la denominación o razón social y el domicilio fiscal manifestado ante el Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad y la clave que le correspondió en dicho registro y el Registro Federal de Contribuyentes;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
@@ -443,21 +453,25 @@ III. Señalar la autoridad a la que se dirige y el propósito de la promoción;
 
 IV. El domicilio para oír y recibir notificaciones ubicado en el lugar donde resida la autoridad a la que dirige su promoción y el nombre de la persona autorizada para recibirlas;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-V. Copia de la identificación del contribuyente o representante legal, previo cotejo con su original; y
+V. Copia de la identificación del contribuyente o representante legal, previo cotejo con su original solo en las promociones que se presenten presencialmente; y
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
 VI. La dirección de correo electrónico para recibir notificaciones.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-Cuando no se cumpla con alguno de los requisitos mencionados en las fracciones I, II, III, V y VI a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de diez días cumpla con el requisito omitido, en caso de no subsanarse la omisión, la promoción se tendrá por no presentada. Asimismo, cuando no se cumpla con el requisito establecido en la fracción IV de este artículo, las notificaciones se realizarán conforme a la fracción III del artículo 94 del presente Código.
+Cuando no se cumpla con alguno de los requisitos mencionados en las fracciones I, II, III, V y VI a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de diez días cumpla con el requisito omitido, en caso de no subsanarse la omisión, la promoción se tendrá por no presentada. Asimismo, cuando no se cumpla con el requisito establecido en la fracción IV de este artículo y el contribuyente no tenga habilitado el Tabasco-Buzón Fiscal, las notificaciones se realizarán conforme a la fracción III del artículo 94 del presente Código.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 En caso de que la firma no sea legible o se dude de su autenticidad, las autoridades fiscales requerirán al promovente para que en el plazo señalado en el párrafo anterior, se presente a ratificar la firma.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+En el caso de que el contribuyente desee presentar su promoción electrónicamente, podrá hacerlo siempre y cuando lo haga a través de Tabasco-Buzón Fiscal, autenticándose previamente con la firma electrónica avanzada.
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al Registro Estatal de Contribuyentes a que se refiere el artículo 29 de este Código.
 
@@ -496,6 +510,10 @@ En ningún trámite administrativo se admitirá la gestión de negocios. La repr
 Los particulares o sus representantes podrán autorizar por escrito a personas para que a su nombre reciban notificaciones. Las personas así autorizadas podrán ofrecer, rendir pruebas y presentar promociones relacionadas con ellas.
 
 Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha que se presente la promoción.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+Cuando las promociones deban ser presentadas en documentos digitales por los representantes o los autorizados, el documento digital correspondiente deberá contener firma electrónica avanzada de dichas personas.
 
 ###### Artículo 21.
 
@@ -596,6 +614,10 @@ En ningún caso los intereses a cargo del fisco estatal excederán de los que se
 Si la devolución se hubiere efectuado y no procediere, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades devueltas indebidamente y por intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+Los requerimientos a que se refiere este artículo se formularán por la autoridad fiscal en documento digital que se notificará al Contribuyente a través del Tabasco-Buzón Fiscal, el cual deberá atenderse por los Contribuyentes mediante este medio de comunicación.
 
 ###### Artículo 24.
 
@@ -821,6 +843,30 @@ La integridad y autoría de un documento digital con firma electrónica avanzada
 
 Artículo 30 Sexties.- Los actos y procedimientos administrativos, así como los trámites y servicios públicos que corresponda prestar a las autoridades fiscales, podrán gestionarse con el uso de los medios electrónicos, los cuales deberán funcionar bajo los principios de neutralidad tecnológica, autenticidad, conservación, confidencialidad e integridad; sin que esto afecte su validez, para lo cual los servidores públicos facultados para rubricar documentos oficiales, deberán contar con un certificado de firma electrónica avanzada.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Septies.
+
+Las personas físicas o jurídicas colectivas inscritas en el Registro Estatal de Contribuyentes tendrán asignado un Tabasco-Buzón Fiscal, consistente en un sistema de comunicación electrónico ubicado en la página de Internet de la Secretaría de Finanzas del Gobierno del Estado de Tabasco, a través del cual:
+
+I. La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido; y
+
+II. Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
+
+Las personas físicas y jurídicas colectivas que tengan asignado un Tabasco-Buzón Fiscal deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por la Secretaría de Finanzas del Gobierno del Estado de Tabasco mediante los mecanismos de comunicación que el Contribuyente elija de entre los que se den a conocer con las reglas de carácter general que para tal efecto emita. La autoridad enviará por única ocasión, mediante el mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+Para efectos de lo previsto en el párrafo anterior, los contribuyentes deberán habilitar el Tabasco-Buzón Fiscal, registrar y mantener actualizados los medios de contacto, de acuerdo con el procedimiento que al efecto establezca la Secretaría de Finanzas del Gobierno del Estado de Tabasco mediante las reglas de carácter general que para tal efecto emita.
+
+Cuando el Contribuyente no habilite el Tabasco-Buzón Fiscal o señale medios de contacto erróneos o inexistentes, o bien, no los mantenga actualizados, se entenderá que se opone a la notificación y la autoridad podrá notificarle conforme a lo señalado en el artículo 94, fracción III de este Código.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 30 Octies.
+
+La Secretaría de Finanzas del Gobierno del Estado de Tabasco mediante las reglas de carácter general que para tal efecto se emitan, podrá autorizar el uso del Tabasco-Buzón Fiscal previsto en el artículo 30 Septies de este Código cuando las autoridades de la administración pública centralizada y paraestatal del gobierno estatal o municipal, o los organismos constitucionalmente autónomos tengan el consentimiento de los particulares, o bien, estos últimos entre sí acepten la utilización del citado buzón.
+
+Las bases de información depositadas en el mencionado buzón en términos de este artículo, no podrán tener un uso fiscal para los efectos de lo dispuesto en el artículo 49, primer párrafo de este Código.
+
 ## TITULO III. FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES FISCALES
 
 ### Capítulo Unico
@@ -927,21 +973,41 @@ Las peticiones que se formulen a las autoridades fiscales deberán ser resueltas
 
 Cuando se requiera al promovente, para que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
 Los actos administrativos que se deban notificar contendrán por lo menos los requisitos siguientes:
 
-I. Constar por escrito;
+I. Constar por escrito en documento impreso o digital.
 
-II. Nombre y firma de la autoridad que lo emite;
+Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente o por medio del Tabasco-Buzón Fiscal, deberán transmitirse codificados a los destinatarios.
 
-III. Fundamento, motivación y resolución de que se trate; y
+II. Señalar la autoridad que lo emite.
 
-IV. Nombre o nombres de las personas a las que vaya dirigido.
+III. Señalar lugar y fecha de emisión.
 
-Cuando se ignore el nombre de la persona a la que va dirigido, señalarán los datos suficientes que permitan su identificación.
+IV. Estar fundado, motivado y expresar la resolución, objeto o propósito de que se trate.
+
+V. Ostentar la firma del funcionario competente. En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
+
+VI. Señalar el nombre o nombres de las personas a las que vaya dirigido.
+
+Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
+
+Para la emisión y regulación de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría de Finanzas del Gobierno del Estado de Tabasco, serán aplicables las disposiciones previstas en el Capítulo II, del Título II denominado "Uso de Medios Electrónicos" de este ordenamiento.
+
+En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+Asimismo, la integridad y autoría del documento impreso que contenga la impresión del sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, será verificable mediante el método de remisión al documento original con la clave pública del autor.
+
+La Secretaría de Finanzas del Gobierno del Estado de Tabasco establecerá los medios a través de los cuales se podrá comprobar la integridad y autoría del documento señalado en el párrafo anterior.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
+
+Adicionalmente, los funcionarios de la Secretaría de Finanzas del Gobierno del Estado de Tabasco, podrán utilizar su firma electrónica avanzada en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que se deban notificar, siendo aplicable para tal efecto lo dispuesto en los párrafos segundo a sexto del presente artículo.
 
 ###### Artículo 34.
 
@@ -955,21 +1021,19 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo, que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 34
 
 Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que en contravención a las disposiciones aplicables incurran en alguno de los siguientes casos:
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-I. Tengan a su cargo créditos fiscales firmes.
+I. Tengan a su cargo créditos fiscales firmes, ya sea de naturaleza local en términos de lo que prevé el artículo 6 del Código Fiscal del Estado de Tabasco; o créditos fiscales federales firmes controlados por las Unidades Administrativas de la Secretaría de Finanzas en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Tabasco.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código; o créditos fiscales federales controlados por las Unidades Administrativas de la Secretaría de Finanzas en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Tabasco, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por el Código Fiscal de la Federación.
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -978,6 +1042,10 @@ III. No se encuentren inscritos en el Registro Estatal de Contribuyentes.
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 IV. Habiendo vencido el plazo para presentar alguna declaración, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+V. Hayan manifestado en las declaraciones de pagos del impuesto sobre nómina al que estén obligados, salarios que no concuerden con la información que declare en el Sistema Único de Autodeterminación (SUA) obtenido de la Delegación en Tabasco del Instituto Mexicano del Seguro Social, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -995,11 +1063,11 @@ Para estos efectos, en el convenio se establecerá que las dependencias antes ci
 
 Los proveedores a quienes se adjudique el contrato sólo podrán subcontratar con aquellos contribuyentes que estén al corriente de sus obligaciones fiscales, de conformidad con lo dispuesto por este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 35.
 
-Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios o terceros relacionados con ellos, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades, observando estrictamente el siguiente orden:
+Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios, terceros relacionados con ellos, así como a los responsables de dar acceso a condominios, plazas comerciales, conjuntos habitacionales, parques industriales, hospitales o lugares en donde se ejecuten obras, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades de comprobación o de verificación de cumplimiento de obligaciones fiscales, observando estrictamente el siguiente orden:
 
 I. Solicitar el auxilio de la fuerza pública;
 
@@ -1089,7 +1157,9 @@ Una vez practicado el aseguramiento precautorio, la entidad financiera o socieda
 
 En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
 
-V. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+V. La autoridad fiscal notificará al Contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará personalmente o por Tabasco-Buzón Fiscal al Contribuyente, responsable solidario o tercero relacionado.
 
 VI. Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 145 de este Código, salvo lo indicado en su segundo párrafo.
 
@@ -1161,7 +1231,9 @@ En caso del incumplimiento a tres o más requerimientos respecto de la misma obl
 
 Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
 
-II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, proporcionen los datos, documentos o informes que les soliciten;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos, en las oficinas de las propias autoridades o a través del Tabasco-Buzón Fiscal, dependiendo de la forma en que se efectuó el requerimiento, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran a efecto de llevar a cabo su revisión.
 
 III. Practicar visitas a los contribuyentes, responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
 
@@ -1193,9 +1265,17 @@ d) Las demás que la ley señale.
 
 En estos casos, el personal deberá estar facultado expresamente por escrito de autoridad fiscal competente, para la vigilancia del cumplimiento de los ordenamientos relativos y practicar la verificación;
 
-VII. Recabar de los funcionarios, empleados públicos y fedatarios, los informes y datos que posean con motivo de sus funciones; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-VIII. Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva.
+VII. Recabar de los funcionarios, empleados públicos y fedatarios, los informes y datos que posean con motivo de sus funciones;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+VIII. Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+IX. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones, así como de aquella proporcionada por entes públicos, derivado de los convenios de colaboración administrativa correspondientes.
 
 ###### Artículo 38.
 
@@ -1315,9 +1395,9 @@ Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad
 
 Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos, documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-I. La solicitud se notificará al contribuyente de conformidad con lo establecido en el artículo 115 del presente ordenamiento;
+I. La solicitud se notificará al contribuyente de conformidad con lo establecido en el artículo 94 del presente ordenamiento;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1325,9 +1405,9 @@ II. En la solicitud se indicará ante quien, el lugar y el plazo en el cual se d
 
 III. Los informes, libros o documentos requeridos, deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-IV. Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario, quien podrá ser notificado de conformidad con el artículo 115 de este Código;
+IV. Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario, quien podrá ser notificado de conformidad con el artículo 94 de este Código;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1385,19 +1465,29 @@ Si durante el plazo para concluir la visita domiciliaria o la revisión de la co
 
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 42 Ter.
 
-Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 42 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refieren las fracciones VI y VII del artículo 42 de este Código.
+Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 42 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente o por medio del Tabasco-Buzón Fiscal, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refieren las fracciones VI y VII del artículo 42 de este Código.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 42 Bis de este Código.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa en el estado, contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 En dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el recurso administrativo y en el juicio contencioso administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, de conformidad con lo previsto por el último párrafo del artículo 41 de este Código.
 
@@ -1407,9 +1497,9 @@ Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos
 
 Para los efectos de lo dispuesto por los artículos 31 Quáter y 37, fracción VI de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
+I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, oficinas, bodegas, almacenes, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1589,6 +1679,50 @@ No se formularán querellas ni se impondrán multas por omisión en el pago de c
 
 Lo establecido en este artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 50
+
+Bis.- Para los efectos de lo dispuesto en el artículo 37, fracción IX de este Código, las revisiones electrónicas se realizarán conforme a lo siguiente:
+
+I. Con base en la información y documentación que obre en su poder, las autoridades fiscales darán a conocer los hechos que deriven en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional a la cual, en su caso, se le podrá acompañar un oficio de preliquidación, cuando los hechos consignados sugieran el pago de algún crédito fiscal.
+
+II. En la resolución provisional se le requerirá al Contribuyente, responsable solidario o tercero, para que en un plazo de quince días siguientes a la notificación de la citada resolución, manifieste lo que a su derecho convenga y proporcione la información y documentación, tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones o aprovechamientos consignados en la resolución provisional.
+
+En caso de que el Contribuyente acepte los hechos e irregularidades contenidos en la resolución provisional y el oficio de preliquidación, podrá optar por corregir su situación fiscal dentro del plazo señalado en el párrafo que antecede, mediante el pago total de las contribuciones y aprovechamientos omitidos, junto con sus accesorios, en los términos contenidos en el oficio de preliquidación, en cuyo caso, gozará del beneficio de pagar una multa equivalente al 20% de las contribuciones omitidas.
+
+III. Una vez recibidas y analizadas las pruebas aportadas por el Contribuyente, dentro de los diez días siguientes a aquél en que venza el plazo previsto en la fracción II de este artículo, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
+
+a) Efectuará un segundo requerimiento al Contribuyente, el cual deberá ser atendido dentro del plazo de diez días siguientes a partir de la notificación del segundo requerimiento.
+
+b) Solicitará información y documentación de un tercero, situación que deberá notificársele al Contribuyente dentro de los diez días siguientes a la solicitud de la información.
+
+El tercero deberá atender la solicitud dentro de los diez días siguientes a la notificación del requerimiento; la información y documentación que aporte el tercero deberá darse a conocer al Contribuyente dentro de los diez días siguientes a aquel en que el tercero la haya aportado; para lo cual el Contribuyente contará con un plazo de diez días contados a partir de que le sea notificada la información adicional del tercero para manifestar lo que a su derecho convenga.
+
+IV. La autoridad contará con un plazo máximo de cuarenta días para la emisión y notificación de la resolución con base en la información y documentación con que se cuente en el expediente. El cómputo de este plazo, según sea el caso, iniciará a partir de que:
+
+a) Haya vencido el plazo previsto en la fracción II de este artículo o, en su caso, se hayan desahogado las pruebas ofrecidas por el Contribuyente;
+
+b) Haya vencido el plazo previsto en la fracción III, inciso a) de este artículo o, en su caso, se hayan desahogado las pruebas ofrecidas por el Contribuyente, o
+
+c) Haya vencido el plazo de 10 días previsto en la fracción III, inciso b) de este artículo para que el Contribuyente manifieste lo que a su derecho convenga respecto de la información o documentación aportada por el tercero.
+
+Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción IX del artículo 42 de este Código, se tendrá por perdido el derecho para realizarlo.
+
+Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se refiere este artículo, se notificarán y presentarán en documentos digitales a través del Tabasco-Buzón Fiscal.
+
+Las autoridades fiscales deberán concluir el procedimiento de revisión electrónica a que se refiere este artículo dentro de un plazo máximo de seis meses contados a partir de la notificación de la resolución provisional, excepto en materia de comercio exterior, en cuyo caso el plazo no podrá exceder de dos años, en aquellos casos en que se haya solicitado una compulsa internacional. El plazo para concluir el procedimiento de revisión electrónica a que se refiere este párrafo se suspenderá en los casos señalados en las fracciones I, II, III, V y VI, y penúltimo párrafo del artículo 42 Bis de este Código.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 50 Ter.
+
+Con relación a las facultades de comprobación previstas en el artículo 37, fracciones II, III y IX de este Código, las autoridades fiscales podrán revisar uno o más rubros o conceptos específicos, correspondientes a una o más contribuciones o aprovechamientos, que no se hayan revisado anteriormente, sin más limitación que lo que dispone el artículo 54 de este Código.
+
+Cuando se comprueben hechos diferentes la autoridad fiscal podrá volver a revisar los mismos rubros o conceptos específicos de una contribución o aprovechamiento por el mismo periodo y en su caso, determinar contribuciones o aprovechamientos omitidos que deriven de dichos hechos.
+
+La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros; en los datos aportados por los particulares en las declaraciones complementarias que se presenten, o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
+
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 51.
@@ -1743,7 +1877,9 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva y confidencialidad en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva y confidencialidad no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal, a los tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 49 de este Código.
 
-Dicha reserva o confidencialidad tampoco comprenderá la información relativa a los adeudos fiscales de los contribuyentes, que las autoridades fiscales proporcionen o difundan únicamente a las sociedades de información crediticia que operen de conformidad con la Ley para Regular las Sociedades de Información Crediticia, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+Dicha reserva o confidencialidad tampoco comprenderá la información relativa a los créditos fiscales de los contribuyentes, que las autoridades fiscales proporcionen o difundan únicamente a las sociedades de información crediticia que operen de conformidad con la Ley para Regular las Sociedades de Información Crediticia, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
 
 Mediante acuerdo de intercambio recíproco de información, suscrito por el titular de la Secretaría, se podrá suministrar la información a las autoridades fiscales de otras entidades federativas o del Gobierno Federal, siempre que se pacte o acuerde que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente.
 
@@ -1789,17 +1925,57 @@ Para efectuar el pago de las cantidades que resulten en los términos de este ar
 
 Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 57 Bis.
+
+Cuando con motivo del ejercicio de facultades de comprobación, las autoridades fiscales observen o hubieren determinado la omisión total o parcial del pago de contribuciones, sin que éstas incluyan las retenidas o recaudadas, el infractor podrá solicitar los beneficios que este artículo otorga, siempre que declare bajo protesta de decir verdad que cumple todos los siguientes requisitos:
+
+I. Haber presentado los avisos, declaraciones y demás información que establecen las disposiciones fiscales, correspondientes a sus últimos doce periodos mensuales o seis periodos bimestrales.
+
+II. Que no se determinaron diferencias a su cargo en el pago de contribuciones y accesorios superiores al 10%, respecto de las que hubiera declarado, en caso de que las autoridades hubieran ejercido facultades de comprobación respecto de cualquiera de los últimos doce periodos mensuales o seis periodos bimestrales.
+
+III. Haber cumplido los requerimientos que, en su caso, le hubieren hecho las autoridades fiscales en los tres últimos ejercicios fiscales.
+
+IV. No haber incurrido en alguna de las agravantes a que se refiere el artículo 62 de este Código al momento en que las autoridades fiscales impongan la multa.
+
+V. No estar sujeto al ejercicio de una o varias acciones penales, por delitos previstos en la legislación fiscal o no haber sido condenado por delitos fiscales.
+
+VI. No haber solicitado en los últimos tres años el pago a plazos de contribuciones retenidas, recaudadas o trasladadas.
+
+Las autoridades fiscales para verificar lo anterior podrán requerir al infractor, en un plazo no mayor de veinte días posteriores a la fecha en que hubiera presentado la solicitud a que se refiere este artículo, los datos, informes o documentos que considere necesarios. Para tal efecto, se requerirá al infractor a fin de que en un plazo máximo de quince días cumpla con lo solicitado por las autoridades fiscales, apercibido que de no hacerlo dentro de dicho plazo, no será procedente la reducción a que se refiere este artículo. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
+
+Las autoridades fiscales, una vez que se cercioren que el infractor cumple con los requisitos a que se refiere este artículo, reducirán el monto de las multas por infracción a las disposiciones fiscales en 100% y aplicarán la tasa de recargos por prórroga determinada conforme a la Ley de Ingresos del Estado de Tabasco por el plazo que corresponda.
+
+La reducción de la multa y la aplicación de la tasa de recargos a que se refiere este artículo, se condicionará a que el adeudo sea pagado ante las oficinas autorizadas, dentro de los 15 días siguientes a aquél en que se le haya notificado la resolución respectiva.
+
+Sólo procederá la reducción a que se refiere este artículo, respecto de multas firmes o que sean consentidas por el infractor y siempre que un acto administrativo conexo no sea materia de impugnación, así como respecto de multas determinadas por el propio Contribuyente. Se tendrá por consentida la infracción o, en su caso, la resolución que determine las contribuciones, cuando el Contribuyente solicite la reducción de multas a que se refiere este artículo o la aplicación de la tasa de recargos por prórroga.
+
+La aplicación de tasa de recargos que se indica en este artículo, también es aplicable para aquellos contribuyentes que, sin estar bajo el ejercicio de facultades de comprobación, deseen regularizar sus adeudos fiscales. En este caso, quedarán a salvo las facultades de comprobación de las autoridades fiscales para verificar que el Impuesto, que el Contribuyente manifieste, sea el que realmente deban (sic) pagar.
+
+Lo previsto en este artículo no constituye instancia y las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
+
+El beneficio previsto en este artículo quedará sin efectos, en caso de que el Contribuyente declare con falsedad los requisitos que este artículo prevé o bien, manifieste importes menores a los realmente adeudados en el supuesto previsto en el párrafo sexto de este artículo.
+
 ###### Artículo 58.
 
 Son responsables de las infracciones fiscales:
 
 I. Los que intervienen en la concepción, preparación o ejecución de ellas;
 
-II. Los que inducen o compelen a otro a comentarlas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-III. Los que prestan auxilio o cooperación de cualquier especie antes o después de su ejecución; y
+II. Los que inducen o compelen a otro a cometerlas.
 
-IV. Los que se encuentren en los demás supuestos señalados por las leyes fiscales.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+III. Los que prestan auxilio o cooperación de cualquier especie antes o después de su ejecución;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+IV. Las personas que resguarden el ingreso a condominios, plazas comerciales, conjuntos habitacionales, parques industriales, hospitales o lugares en donde se ejecuten obras y que nieguen el acceso o impidan el cumplimiento de las facultades de comprobación o verificación de cumplimiento de obligaciones fiscales de esta autoridad fiscal; y
+
+V. Los que se encuentren en los demás supuestos señalados por las leyes fiscales.
 
 Cuando sean varios los responsables, cada uno pagará la multa que se imponga individualmente.
 
@@ -1829,19 +2005,105 @@ III. La omisión haya sido corregida por el contribuyente con posterioridad a lo
 
 Siempre que se omita el pago de una contribución, cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de éstos y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 61.
 
-La Secretaría de Finanzas podrá condonar hasta el 100% las multas por infracciones a las disposiciones fiscales estatales, inclusive las determinadas por el propio contribuyente, para lo cual la propia Secretaría aplicará supletoriamente las reglas de carácter general, requisitos y supuestos que establezca la Federación en materia de condonación.
+La Secretaría de Finanzas podrá reducir hasta el 100% las multas por infracciones a las disposiciones fiscales estatales, inclusive las determinadas por el propio contribuyente, para lo cual la propia Secretaría aplicará las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+I. Los contribuyentes que estén sujetos a facultades de comprobación y que opten por autocorregirse podrán solicitar la reducción, a partir del momento en que inicien las facultades de comprobación de las autoridades fiscales y hasta antes de que venza el plazo previsto en los artículos 42 Ter, primer párrafo y 50 bis último párrafo de este Código; para lo cual en todos los casos, el Contribuyente deberá autocorregirse totalmente y a satisfacción de la autoridad, conforme a lo siguiente:
 
-La solicitud de condonación de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+a) Cuando los contribuyentes manifiesten su intención de cubrir las contribuciones a su cargo en una exhibición, deberán hacerlo dentro del plazo de tres días siguientes a la notificación de la resolución en que se autorice la solicitud y los porcentajes de reducción serán del 100%.
 
-La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
+b) Cuando los contribuyentes manifiesten su intención de cubrir las contribuciones a su cargo y sus accesorios en parcialidades o en forma diferida conforme a los artículos 52 y 52 bis de este Código, los porcentajes de reducción serán del 90%.
 
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+c) Los importes correspondientes a la multa no reducida derivada de impuestos retenidos o trasladados, así como las cantidades inherentes a estos, deberán ser cubiertos dentro de los tres días siguientes a la notificación de la resolución en que se autorice la reducción; esta última surtirá sus efectos cuando el Contribuyente cumpla con el pago a plazos que, en su caso, se autorice.
+
+d) Cuando derivado del ejercicio de facultades de comprobación, se deban pagar multas por incumplimiento a las obligaciones fiscales federales distintas a las obligaciones de pago, el porcentaje de reducción se calculará de acuerdo con el procedimiento previsto en la fracción III de este artículo.
+
+II. Las autoridades fiscales reducirán las multas determinadas por la omisión en el pago de una obligación fiscal, conforme al siguiente procedimiento:
+
+a) Cuando los contribuyentes manifiesten su intención de cubrir las contribuciones a su cargo en una exhibición, deberán hacerlo dentro del plazo de tres días siguientes a la notificación de la resolución en que se autorice la solicitud y los porcentajes de reducción serán hasta el 100%.
+
+b) Se considerará la antigüedad del periodo o ejercicio al que corresponda la multa, computándose la antigüedad a partir de la fecha de vencimiento de la obligación de presentación de la declaración de que se trate, hasta la fecha de presentación de la solicitud.
+
+c) Las Autoridad Fiscal resolverá las solicitudes de reducción aplicando a la multa, el porcentaje que le corresponda, de acuerdo a la siguiente tabla:
+
+Antigüedad Porcentaje
+
+Hasta 1 año 100%
+
+Más de 1 año y hasta 2 años 90%
+
+Más de 2 año y hasta 3 años 80%
+
+Más de 3 año y hasta 4 años 70%
+
+Más de 4 año y hasta 5 años 60%
+
+Más de 5 años 50%
+
+d) Cuando los contribuyentes manifiesten su intención de cubrir las contribuciones a su cargo y sus accesorios en parcialidades o en forma diferida, los porcentajes de reducción serán los siguientes:
+
+Antigüedad Porcentaje
+
+Hasta 1 año 90%
+
+Más de 1 año y hasta 2 años 80%
+
+Más de 2 año y hasta 3 años 70%
+
+Más de 3 año y hasta 4 años 60%
+
+Más de 4 año y hasta 5 años 50%
+
+Más de 5 años 40%
+
+e) Los importes correspondientes a la multa no reducida derivada de impuestos retenidos o trasladados, así como las cantidades inherentes a estos, deberán ser cubiertos dentro de los diez días siguientes a la notificación de la resolución en que se autorice la reducción.
+
+La resolución de reducción de multas fiscales, surtirá efectos cuando el Contribuyente cumpla con el pago del remanente correspondiente al importe del porcentaje de la multa que no se redujo. Las multas no reducidas, así como el monto de las contribuciones omitidas y sus accesorios, según sea el caso, los cuales, previa actualización en términos de los artículos 22 y 57 de este Código, deberán ser cubiertos de los diez días siguientes a la fecha en que surta efectos la notificación de la resolución de reducción.
+
+III. Tratándose de por (sic) incumplimiento a las obligaciones fiscales estatales distintas a las obligaciones de pago a contribuyentes, se determinará el porcentaje de reducción atendiendo a lo siguiente:
+
+a) La antigüedad de la infracción se computará a partir de que la autoridad fiscal notifica el acto administrativo que da origen a la sanción y hasta la fecha de presentación de la solicitud de reducción.
+
+Tratándose de facultades de comprobación, el cómputo de la antigüedad comenzará a partir del momento en que se notifica el inicio de facultades de comprobación.
+
+b) La Autoridad Fiscal resolverá las solicitudes de reducción aplicando a la multa, el porcentaje que le corresponda, considerando los porcentajes siguientes:
+
+Antigüedad Porcentaje
+
+Hasta 1 año 90%
+
+Más de 1 año y hasta 2 años 80%
+
+Más de 2 año y hasta 3 años 70%
+
+Más de 3 año y hasta 4 años 60%
+
+Más de 4 año y hasta 5 años 50%
+
+Más de 5 años 40%
+
+c) Para estos efectos, el contribuyente deberá haber subsanado la causa que dio origen a la sanción.
+
+IV. Para efectos de este artículo, no procederá la reducción de multas en cualquiera de los siguientes supuestos:
+
+a) De contribuyentes que estén o hayan estado sujetos a una causa penal en la que se haya dictado sentencia condenatoria por delitos de carácter fiscal y esta se encuentre firme; en el caso de personas jurídico colectivas, el representante legal o representantes legales o los socios y accionistas o cualquier persona que tenga facultades de representación, no deberán estar vinculadas a un procedimiento penal en las que se haya determinado mediante sentencia condenatoria firme su responsabilidad por la comisión de algún delito fiscal en términos del artículo 80 de este Código.
+
+b) Aquellas que no se encuentren firmes, salvo cuando el Contribuyente las haya consentido.
+
+Se entenderá que existe consentimiento, cuando realiza la solicitud de reducción antes de que fenezcan los plazos legales para su impugnación, se desista del medio de defensa que haya interpuesto, o cuando decide corregirse fiscalmente antes de que sea determinado el adeudo por la autoridad revisora.
+
+c) Que sean conexas con un acto que se encuentre impugnado.
+
+d) Tratándose de multas por infracciones contenidas en disposiciones que no sean fiscales.
+
+e) Respecto de multas que la autoridad fiscal haya autorizado su reducción hasta en dos ocasiones, y estas no hayan surtido efectos porque el Contribuyente no realizó el pago de la parte no reducida en el plazo otorgado.
+
+La solicitud de reducción de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+
+La solicitud de reducción dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
 ###### Artículo 62.
 
@@ -1933,9 +2195,9 @@ III. Señalar como domicilio fiscal para efectos del Registro Estatal de Contrib
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes, a que se refiere el artículo 66, se impondrán las multas siguientes:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-I. De cuarenta veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en la fracción I;
+I. De cincuenta veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en la fracción I;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -1967,9 +2229,21 @@ II. Presentar las declaraciones, solicitudes o avisos, incompletos o con errores
 
 III. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo, cuando el pago se efectúe espontáneamente;
 
-IV. Presentar declaraciones o solicitudes que sin derecho hayan dado lugar a una devolución; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señala este Código, salvo, cuando la presentación se efectúe en forma espontánea.
+IV. Presentar declaraciones o solicitudes que sin derecho hayan dado lugar a una devolución;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señala este Código, salvo, cuando la presentación se efectúe en forma espontánea;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+VI. Impedir a (sic) que se practique la verificación de cumplimiento de obligaciones en el domicilio fiscal, sucursal, instalaciones, edificios, parques industriales, clínicas, hospitales, conjuntos habitacionales, almacenes y cualquiera que sea el lugar en donde se presuma la existencia de personal que reciba por su trabajo, el pago a que hace referencia el artículo 26 de la Ley de Hacienda del Estado de Tabasco; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+VII. Tratándose de establecimientos que comercialicen motocicletas, motocarros o motonetas, que no retengan y enteren el pago del derecho establecido en el artículo 85, fracción I, inciso b) de la Ley de Hacienda para el Estado de Tabasco, y cuando se dé el supuesto previsto en el cuarto párrafo del artículo 81-A de la Ley de Hacienda del Estado de Tabasco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -1995,11 +2269,21 @@ c) De diez veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Respecto de lo señalado en la fracción II, cinco veces el valor diario de la Unidad de Medida y Actualización, en cada caso;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-III. Tratándose de las señaladas en las fracciones III y V, de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+III. Tratándose de las señaladas en las fracciones III y V, de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Para la señalada en la fracción IV, la multa será el 30% de la devolución indebida.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+IV. Para la señalada en la fracción IV, la multa será el 30% de la devolución indebida;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+V. Tratándose de la señalada en la fracción VI, la multa será de cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+VI. Tratándose de la señalada en la fracción VII, la multa será de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 70.
 
@@ -2088,6 +2372,18 @@ II. De veinte a setecientas veces el valor diario de la Unidad de Medida y Actua
 ###### Artículo 76.
 
 Las infracciones no previstas en este Código, pero que se encuentren en otras leyes fiscales y no tengan fijada sanción alguna, se sancionarán con multa de cinco a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 76 Bis.
+
+Se considera infracción en la que pueden incurrir los contribuyentes conforme lo previsto en el artículo 30 Septies de este Código, el no habilitar el Tabasco-Buzón Fiscal, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 76 Ter.
+
+A quien cometa la infracción relacionada con la no habilitación del Tabasco-Buzón Fiscal, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 76 Bis, se impondrá una multa de treinta y cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ### Capítulo II. Delitos Fiscales
 
@@ -2199,6 +2495,10 @@ No se formulará querella si quien hubiere omitido el pago de la contribución u
 
 Para los fines de este artículo y del siguiente, se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aún cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+También comete el delito de defraudación fiscal, utilizar esquemas simulados de prestación de servicios especializados o la ejecución de obras especializadas, descritas en el artículo 15-D, penúltimo párrafo, del Código Fiscal de la Federación, o realizar la subcontratación de personal a que se refiere el primer y segundo párrafos de dicho artículo.
+
 ###### Artículo 87.
 
 Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
@@ -2219,9 +2519,19 @@ II. No rinda al citado registro, los informes a que se encuentra obligado o lo h
 
 III. Use más de una clave del Registro Estatal de Contribuyentes;
 
-IV. Se atribuya como propias actividades ajenas ante el Registro Estatal de Contribuyentes; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-V. Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación de la orden de visita y antes de un año contado a partir de dicha notificación, o bien después de que se le hubiere notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efecto.
+IV. Se atribuya como propias actividades ajenas ante el Registro Estatal de Contribuyentes;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+V. Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación de la orden de visitas y antes de un año contado a partir de dicha notificación, o bien después de que se le hubiere notificado un crédito fiscal y antes de que este se haya garantizado, pagado o quedado sin efecto.
+
+Para los efectos de esta fracción, se entiende que el contribuyente desocupe o desaparezca del lugar donde tenga su domicilio fiscal cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un periodo de doce meses y no pueda practicar la diligencia en términos de este Código; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+VI. Modifique, destruya o provoque la pérdida de la información que contenga el Tabasco-Buzón Fiscal con el objeto de obtener indebidamente un beneficio propio o para terceras personas en perjuicio del fisco estatal, o bien ingrese de manera no autorizada a dicho buzón, a fin de obtener información de terceros.
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que tenga manifestados al Registro Estatal de Contribuyentes en el caso de la fracción V.
 
@@ -2265,7 +2575,29 @@ La misma pena se impondrá a quien dolosamente destruya o deteriore dichas merca
 
 Las notificaciones de los actos administrativos se harán:
 
-I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de: citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+I. Por Tabasco-Buzón Fiscal, personalmente o por correo certificado, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+
+La notificación electrónica de documentos digitales se realizará en el Tabasco-Buzón Fiscal conforme a las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado de Tabasco. La facultad mencionada podrá también ser ejercida por las autoridades a que se refiere el artículo 30 Octies del presente Código.
+
+El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado.
+
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el Contribuyente se autenticó para abrir el documento a notificar.
+
+Previo a la realización de la notificación electrónica, al Contribuyente le será enviado un aviso mediante el mecanismo designado por éste en términos del tercer párrafo del artículo 30 Septies de este Código.
+
+Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+En caso de que el Contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el Contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+
+El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario de documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
+
+Las notificaciones en el Tabasco-Buzón Fiscal serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en los artículos 30 Ter y 33, fracción V de este Código.
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
@@ -2277,7 +2609,9 @@ III. Por estrados, cuando la persona a quien deba notificarse no sea localizable
 
 IV. Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión; y
 
-V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 97 de este Código.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el tercer párrafo del artículo 97 de este Código.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -2317,15 +2651,17 @@ Toda notificación personal realizada con quien deba entenderse será legalmente
 
 En los casos de sociedades en liquidación, cuando se hubiere nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse podrán practicarse válidamente con cualquiera de los nombrados, que hubiese aceptado su designación y hasta en tanto la misma no le sea revocada.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 97.
 
-Cuando la notificación deba efectuarse personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en su domicilio, sea para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de seis días a la oficina de la autoridad fiscal.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, este se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en su domicilio o en su defecto con un vecino. En caso de que estos últimos se negaren a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar la razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
+El día y hora de la cita, el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal, no acude a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en el artículo 94 de este Código.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+En caso de que el requerimiento de pago a que hace referencia el artículo 120 de este Código, no pueda realizarse personalmente, porque la persona a quien deba notificarse no sea localizada en el domicilio fiscal, se ignore su domicilio o el de su representante, desaparezca del lugar donde tenga su domicilio fiscal, se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción V del artículo 88 de este Código, la notificación del requerimiento de pago y la diligencia de embargo se realizarán a través de Tabasco-Buzón Fiscal, por Estrados o por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar la razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará por concepto de honorarios tres veces el valor diario de la Unidad de Medida y Actualización, y se causarán a cargo de quien incurrió en incumplimiento.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará por concepto de honorarios seis veces el valor diario de la Unidad de Medida y Actualización, y se causarán a cargo de quien incurrió en incumplimiento.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -2729,8 +3065,6 @@ Para que sea aplicable la excepción a que se refiere el párrafo anterior, ser�
 
 En ningún caso el fisco estatal intervendrá en los juicios universales. Cuando se inicie el juicio de quiebra, suspensión de pago o de concurso, el Juez que conozca del asunto deberá dar aviso a las autoridades fiscales para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del Procedimiento Administrativo de Ejecución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 119.
@@ -2743,37 +3077,25 @@ II. Por la de embargo, incluyendo los señalados en los artículos 36, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $480.00 se cobrará esta cantidad en vez del 2% del crédito.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $380.00 se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $59,540.00.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $74,700.00.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 36, fracción II y 101, fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor del Estado en los términos de lo previsto por los artículos 159 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -2813,11 +3135,11 @@ Si la exigibilidad se origina por cese de la prórroga, de la autorización para
 
 No se practicará embargo respecto de aquellos créditos fiscales que hayan sido impugnados en sede administrativa, tampoco se practicará embargo cuando se encuentre impugnado en sede jurisdiccional y esté garantizado en términos de lo establecido en las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 121.
 
-El ejecutor designado por el jefe de la oficina exactora se constituirá en el lugar donde se encuentren los bienes propiedad del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones en este Código. De esta diligencia se levantará acta circunstanciada de la que se entregará copia a la persona con quien se entienda la misma y se notificará personalmente al propietario de los bienes embargados, en caso de no localizarlo se le notificará conforme a las fracciones III y IV del artículo 94 de este Código, las cuales tendrán la misma validez como si se hubiesen practicado de manera personal.
+El ejecutor designado por el jefe de la oficina exactora se constituirá en el lugar donde se encuentren los bienes propiedad del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones en este Código. De esta diligencia se levantará acta circunstanciada de la que se entregará copia a la persona con quien se entienda la misma y se notificará por Tabasco-Buzón Fiscal al propietario de los bienes embargados. En caso de que el contribuyente no haya habilitado el mecanismo para recibir notificaciones por Tabasco-Buzón Fiscal, esta se efectuará personalmente y, en caso de no localizarlo se le notificará conforme a las fracciones III y IV del artículo 94 de este Código, las cuales tendrán la misma validez como si se hubiesen practicado de manera personal.
 
 Si la notificación del crédito fiscal adeudado o del requerimiento en su caso, se hizo por edicto, la diligencia se entenderá con la autoridad municipal o local de la circunscripción de los bienes, salvo que, en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
@@ -3115,11 +3437,11 @@ IV. Al quedar firme la resolución del acto impugnado.
 
 Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se llevará a cabo en el local de la oficina ejecutora o a través de medios electrónicos. La autoridad podrá ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 143.
 
-La base para enajenación de los bienes inmueblesembargadosserá (sic) el de avalúo y para negociaciones el avalúo pericial, en todos los demás casos, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente el avalúo practicado en los términos de este código.
+La base para enajenación de los bienes inmuebles embargados será el de avalúo y para negociaciones el avalúo pericial, en todos los demás casos, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente o por medio del Tabasco-Buzón Fiscal el avalúo practicado.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -3341,7 +3663,9 @@ IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósit
 
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
-Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán por Tabasco-Buzón Fiscal, personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados. En los casos en que no haya habilitado medios de contacto para recibir notificaciones electrónicas, no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
 
 Los bienes que pasen a propiedad del Fisco Estatal conforme a este artículo, podrán ser enajenados o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas.
 
@@ -3411,17 +3735,25 @@ Si la resolución dictada en el recurso de revocación se combate ante el Tribun
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 168.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad competente, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo 175 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.
+El recurso deberá presentarse a través del Tabasco-Buzón Fiscal, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo 171 Quater de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala. El escrito de interposición del recurso también podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, a través de los medios que autorice la Secretaría de Finanzas del Gobierno del Estado de Tabasco, mediante las reglas de carácter general que para tal efecto se emitan.
 
-Si el particular tiene su domicilio fuera de la población en que radique la autoridad competente, el escrito de interposición del recurso podrá presentarse en la oficina recaudadora más cercana a dicho domicilio o enviarlo a la autoridad competente para resolverlo, por correo certificado con acuse de recibo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+Si el particular no se encuentra obligado a habilitar su Tabasco-Buzón Fiscal y además tiene su domicilio fuera de la población en que radique la autoridad competente, el escrito de interposición del recurso podrá presentarse en la oficina recaudadora más cercana a dicho domicilio o enviarlo a la autoridad competente para resolverlo, por correo certificado con acuse de recibo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 En los casos del párrafo anterior, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina recaudadora o se deposite en la oficina de correos.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
 
@@ -4276,3 +4608,61 @@ DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se de
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
 
 DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 008 POR EL QUE “SE REFORMAN: EL ARTÍCULO 18, FRACCIÓN XIII; 19 PÁRRAFO SEGUNDO, FRACCIONES II Y V, Y PÁRRAFO TERCERO; 33; 34 BIS, FRACCIONES I Y 11; 35; 35 BIS, FRACCIÓN V; 37, FRACCIONES II, VII Y VIII; 42, FRACCIONES 1 Y IV; 42 TER, PÁRRAFO PRIMERO; 42 QUATER, FRACCIÓN I; 56, PÁRRAFO SEGUNDO; 58, FRACCIONES II Y III; 61; 67, FRACCIÓN I; 68, FRACCIONES IV Y V; 69, FRACCIONES III Y IV; 88 FRACCIONES IV Y V; 94, FRACCIONES 1 Y V; 97; 119, PÁRRAFOS SEGUNDO Y TERCERO; 121, PÁRRAFO PRIMERO; 143, PÁRRAFO PRIMERO; 164 BIS, PÁRRAFO TERCERO; Y 168, PÁRRAFOS PRIMERO Y SEGUNDO. SE ADICIONAN: LAS FRACCIONES XIV Y XV AL ARTÍCULO 18, RECORRIÉNDOSE LA ACTUAL XIV PARA SER XVI; UN PÁRRAFO QUINTO RECORRIÉNDOSE EL ACTUAL QUINTO PARA SER SEXTO AL ARTÍCULO 19; EL PÁRRAFO CUARTO AL ARTÍCULO 20; EL PÁRRAFO NOVENO AL ARTÍCULO 23; EL ARTÍCULO 30 SEPTIES; 30 OCTIES; LA FRACCIÓN V AL ARTÍCULO 34 BIS; LA FRACCIÓN IX AL ARTÍCULO 37; EL ARTÍCULO 50 BIS; 50 TER; 57 BIS; LA FRACCIÓN IV AL ARTÍCULO 58, RECORRIÉNDOSE LA ACTUAL IV PARA SER V; LAS FRACCIONES VI Y VII AL ARTÍCULO 68; LAS FRACCIONES V Y VI AL ARTÍCULO 69; 76 BIS; 76 TER; EL PÁRRAFO SEXTO AL ARTÍCULO 86; Y LA FRACCIÓN VI AL ARTÍCULO 88; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintidós, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022 no contempla los recursos refrendados del ejercicio fiscal 2021, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2022.
+
+QUINTO. Por el período comprendido del 1 de enero al 30 de abril de 2022, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2022; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE DICIEMBRE DE 2021, PÁGINA 150.]</small>
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2017, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+SEXTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en el artículo transitorio que antecede.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2022, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año-modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2017, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+NOVENO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+DÉCIMO. Los derechos previstos en el artículo 91-A, fracciones XII y XIII de la Ley de Hacienda del Estado de Tabasco, entrarán en vigor una vez que inicie su vigencia la Norma Ambiental Estatal que al efecto expida la Secretaría de Bienestar, Sustentabilidad y Cambio Climático.
+
+DÉCIMO PRIMERO. Las reformas y adiciones a los artículos 18, 34 Bis, 35, 42, 42 Quáter, 56, 57 Bis, 58, 61, 67, 68, 69, 86, 88, fracción V, 94, fracción V, 97 y 119 del Código Fiscal del Estado de Tabasco, entrarán en vigor el día uno de enero del año dos mil veintidós.
+
+Las sanciones previstas en los artículos 76 Bis y 76 Ter del Código Fiscal del Estado de Tabasco serán aplicables a partir del día uno de enero del año dos mil veintitrés.
+
+Las demás reformas y adiciones al Código Fiscal del Estado de Tabasco serán aplicables a las personas físicas a partir del día uno de julio del año dos mil veintidós y a las personas jurídicas colectivas a partir del día uno de enero del año dos mil veintitrés.
+
+DÉCIMO SEGUNDO. La Secretaría de Finanzas emitirá en un plazo no mayor de 180 días naturales a partir de la entrada en vigor del presente Decreto, las Reglas de Carácter General a que refiere el artículo 30 Septies del Código Fiscal del Estado de Tabasco, las cuales deberán ser publicadas en el Periódico Oficial del Estado y en su página de internet.
