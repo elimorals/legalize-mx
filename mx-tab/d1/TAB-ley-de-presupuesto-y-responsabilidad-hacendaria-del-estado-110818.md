@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1108
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2019-05-01"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 16 de diciembre de 2015.
 
@@ -403,7 +403,7 @@ III. La descripción de los riesgos relevantes para las finanzas públicas, incl
 
 IV. Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
 
-V. Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin;
+V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2021)
 
 VI. Un estudio actuarial de las pensiones de los trabajadores al servicio del Estado, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas conforme a la Ley de Seguridad Social del Estado de Tabasco y el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
 
@@ -1824,3 +1824,71 @@ Cuando en otras disposiciones se dé una denominación distinta a alguna depende
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 008 POR EL QUE “SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 13 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARÍA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintidós, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaría de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022 no contempla los recursos refrendados del ejercicio fiscal 2021, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2022.
+
+QUINTO. Por el período comprendido del 1 de enero al 30 de abril de 2022, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2022; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Ejercicio Periodo de pago
+
+Fiscal
+
+Derecho de refrendo 20% 01 al 31 de enero de 2022
+
+anual de placas, 15% 01 al 28 de febrero de 2022.
+
+tarjeta de circulación 10% 2022 01 al 31 de marzo de 2022.
+
+y calcomanías. 5% 01 al 30 de abril de 2022.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2017, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+SEXTO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en el artículo transitorio que antecede.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2022, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2022, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año- modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2017, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+NOVENO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+DÉCIMO. Los derechos previstos en el artículo 91-A, fracciones XII y XIII de la Ley de Hacienda del Estado de Tabasco, entrarán en vigor una vez que inicie su vigencia la Norma Ambiental Estatal que al efecto expida la Secretaría de Bienestar, Sustentabilidad y Cambio Climático.
+
+DÉCIMO PRIMERO. Las reformas y adiciones a los artículos 18, 34 Bis, 35, 42, 42 Quáter, 56, 57 Bis, 58, 61, 67, 68, 69, 86, 88, fracción V, 94, fracción V, 97 y 119 del Código Fiscal del Estado de Tabasco, entrarán en vigor el día uno de enero del año dos mil veintidós.
+
+Las sanciones previstas en los artículos 76 Bis y 76 Ter del Código Fiscal del Estado de Tabasco serán aplicables a partir del día uno de enero del año dos mil veintitrés.
+
+Las demás reformas y adiciones al Código Fiscal del Estado de Tabasco serán aplicables a las personas físicas a partir del día uno de julio del año dos mil veintidós y a las personas jurídicas colectivas a partir del día uno de enero del año dos mil veintitrés.
+
+DÉCIMO SEGUNDO. La Secretaría de Finanzas emitirá en un plazo no mayor de 180 días naturales a partir de la entrada en vigor del presente Decreto, las Reglas de Carácter General a que refiere el artículo 30 Septies del Código Fiscal del Estado de Tabasco, las cuales deberán ser publicadas en el Periódico Oficial del Estado y en su página de internet.
