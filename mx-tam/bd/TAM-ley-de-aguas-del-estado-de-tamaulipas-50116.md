@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2021-03-12"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -111,11 +111,9 @@ VII. Aguas residuales tratadas: Las aguas residuales después de haber recibido 
 
 VIII. Alcantarillado Sanitario: El servicio público que permite desalojar las aguas residuales de los predios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-IX. Área de Conservación Natural: Los territorios que deban mantenerse en su estado natural, conforme a lo establecido en el Código para el Desarrollo Sustentable del Estado, la Ley para el Desarrollo Urbano del Estado y la Ley de Expropiación, Ocupación Temporal o Limitación de Dominio vigentes en la entidad federativa, u otros ordenamientos generales del Poder Legislativo que así lo dispongan.
+IX. Área de Conservación Natural: Los territorios que deban mantenerse en su estado natural, conforme a lo establecido en el Código para el Desarrollo Sustentable del Estado, la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas y la Ley de Expropiación, Ocupación Temporal o Limitación de Dominio vigentes en la entidad federativa, u otros ordenamientos generales del Poder Legislativo que así lo dispongan;
 
 X. Área de Factibilidad de los Servicios: El territorio donde es posible prestar los servicios de agua potable o drenaje sanitario sin necesidad de invertir en infraestructura para los sistemas de captación, conducción, potabilización, almacenamiento, desalojo y tratamiento de aguas residuales.
 
@@ -3160,3 +3158,11 @@ P.O. 12 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-89 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, Y DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
