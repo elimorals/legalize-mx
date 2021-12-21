@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2021-12-16"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -685,7 +685,9 @@ IX. Representar al Poder Legislativo ante el Instituto de Seguridad y Servicios 
 
 X. Suscribir, con autorización de la Junta, las operaciones y convenios financieros y crediticios con instituciones, organismos o dependencias, públicas o privadas;
 
-XI. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta las opiniones de los integrantes de la Junta;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
+XI. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta las opiniones de los integrantes de la Junta, además de remitir a los integrantes de la legislatura el Informe de Avance de Gestión Financiera establecido en la Ley de Fiscalización y Rendición de Cuentas del Estado de Quintana Roo;
 
 XII. Informar anualmente a la Legislatura del Estado de las actividades de la Junta, dando a conocer tanto la estadística de los decretos aprobados como la correspondiente a las iniciativas pendientes de ser dictaminadas, y
 
@@ -2250,3 +2252,11 @@ P.O. 16 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 164, POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
