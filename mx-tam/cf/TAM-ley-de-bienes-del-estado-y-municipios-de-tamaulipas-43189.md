@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2021-07-14"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -79,9 +79,9 @@ d) Código Municipal para el Estado de Tamaulipas;
 
 e) Ley de Obras Públicas y Servicios relacionados con las mismas para el Estado de Tamaulipas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-f) Ley para el Desarrollo Urbano del Estado de Tamaulipas;
+f) Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas;
 
 g) Código Fiscal del Estado de Tamaulipas;
 
@@ -165,9 +165,9 @@ b) Dictaminar, en el ámbito de su competencia, las propuestas que les formulen 
 
 c) Tomar, en su caso, las medidas administrativas y ejercer las acciones judiciales encaminadas a mantener o recuperar la posesión de los inmuebles del Estado y de los Ayuntamientos, así como procurar la remoción de cualquier obstáculo creado natural o artificialmente que impidan su adecuado uso o destino.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-2. La Secretaría de Desarrollo Urbano y Medio Ambiente informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado, con motivo de la aplicación de la Ley para el Desarrollo Urbano del Estado de Tamaulipas.
+2. La Secretaría de Desarrollo Urbano y Medio Ambiente informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado, con motivo de la aplicación de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas.
 
 ###### Artículo 8.
 
@@ -848,3 +848,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-89 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, Y DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
