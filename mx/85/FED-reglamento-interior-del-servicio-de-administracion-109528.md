@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-109528"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-24"
-last_updated: "2015-08-24"
+last_updated: "2021-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109528&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-08-19"
 ---
 # REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SALVO LO DISPUESTO EN LAS FRACCIONES I, II Y III DEL MENCIONADO TRANSITORIO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 24 de agosto de 2015.
 
@@ -42,6 +42,10 @@ REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 ###### Artículo 1.
 
 El Servicio de Administración Tributaria, como órgano administrativo desconcentrado de la Secretaría de Hacienda y Crédito Público, tiene a su cargo el ejercicio de las atribuciones y el despacho de los asuntos que le otorgan la Ley del Servicio de Administración Tributaria, otras leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas aplicables, así como los asuntos que el Secretario de Hacienda y Crédito Público le encomiende ejecutar y coordinar en las materias a que se refiere el presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+Para el ejercicio de las atribuciones en materia aduanera que le otorgan las disposiciones jurídicas aplicables, el Servicio de Administración Tributaria contará con el auxilio de la Agencia Nacional de Aduanas de México, de conformidad con lo establecido en el Reglamento Interior de dicho órgano administrativo desconcentrado.
 
 ###### Artículo 2.
 
@@ -69,23 +73,7 @@ g) Administración Central de Programas Operativos con Entidades Federativas, y
 
 h) Administración Central de Apoyo Jurídico de Recaudación;
 
-II. Administración General de Aduanas:
-
-a) Administración Central de Operación Aduanera;
-
-b) Administración Central de Apoyo Jurídico de Aduanas;
-
-c) Administración Central de Investigación Aduanera;
-
-d) Administración Central de Atención Aduanera y Asuntos Internacionales;
-
-e) Administración Central de Modernización Aduanera;
-
-f) Administración Central de Equipamiento e Infraestructura Aduanera;
-
-g) Administración Central de Planeación Aduanera, y
-
-h) Administración Central de Procesamiento Electrónico de Datos Aduaneros;
+II. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 III. Administración General de Auditoría Fiscal Federal:
 
@@ -141,8 +129,6 @@ i) Administración Central de lo Contencioso de Grandes Contribuyentes, y
 
 j) Administración Central de Coordinación Estratégica de Grandes Contribuyentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO FRACCIÓN I, DEL PRESENTE ORDENAMIENTO.</small>
-
 VI. Administración General de Hidrocarburos:
 
 a) Administración Central de Planeación y Programación de Hidrocarburos;
@@ -181,7 +167,9 @@ VIII. Administración General Jurídica:
 
 a) Administración Central de Normatividad en Impuestos Internos;
 
-b) Administración Central de Normatividad en Comercio Exterior y Aduanal;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+b) Administración Central de Normatividad en Comercio Exterior;
 
 c) Administración Central de lo Contencioso;
 
@@ -199,7 +187,9 @@ a) Administración Central de Planeación, Análisis e Información;
 
 b) Administración Central de Proyectos y Vinculación Institucional;
 
-c) Administración Central de Estudios Tributarios y Aduaneros;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+c) Administración Central de Estudios Tributarios;
 
 d) Administración Central de Modelos de Riesgo, y
 
@@ -247,7 +237,9 @@ b) Administración Central de Análisis y Evaluación de Riesgos;
 
 c) Administración Central de Evaluación de la Confiabilidad;
 
-d) Administración Central de Evaluación de Comercio Exterior y Aduanal;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+d) Administración Central de Evaluación de Comercio Exterior;
 
 e) Administración Central de Evaluación de Impuestos Internos;
 
@@ -259,13 +251,19 @@ h) Administración Central de Evaluación de Procesos e Información;
 
 i) Coordinación de Evaluación de Comunicaciones y Tecnologías de la Información, y
 
-j) Coordinación de Procedimientos Penales;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-C. Unidades Administrativas Desconcentradas, y
+j) Coordinación de Procedimientos Penales, y
 
-D. Aduanas.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-Las administraciones generales estarán integradas por sus titulares y por administradores centrales, coordinadores, administradores, administradores desconcentrados, administradores de las aduanas, subadministradores, jefes de departamento, enlaces, supervisores, auditores, ayudantes de auditor, inspectores, abogados tributarios, ejecutores, notificadores, visitadores, verificadores, oficiales de comercio exterior, personal al servicio de la Unidad de Apoyo para la Inspección Fiscal y Aduanera y demás servidores públicos que señala este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+C. Unidades Administrativas Desconcentradas.
+
+D. (DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+Las administraciones generales estarán integradas por sus titulares y por administradores centrales, coordinadores, administradores, administradores desconcentrados, subadministradores, jefes de departamento, enlaces, supervisores, auditores, ayudantes de auditor, inspectores, abogados tributarios, ejecutores, notificadores, visitadores, verificadores y demás servidores públicos que señala este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 La Comisión del Servicio Fiscal de Carrera a que se refiere la Ley del Servicio de Administración Tributaria, estará presidida por el Jefe del Servicio de Administración Tributaria y constituida por los demás servidores públicos que determine el Estatuto del Servicio Fiscal de Carrera, quienes ejercerán las facultades que dicho Estatuto les confiera.
 
@@ -279,19 +277,23 @@ Se exceptúa de lo previsto en el párrafo anterior, los casos en que los manual
 
 El personal adscrito al Servicio de Administración Tributaria, en términos de la Ley Federal de Armas de Fuego y Explosivos y demás disposiciones jurídicas aplicables, podrá ser autorizado para portar armas en el ejercicio de las facultades que tenga conferidas; asimismo, cuando con motivo del ejercicio de dichas facultades el mencionado personal autorizado practique alguna detención o advierta la comisión de una probable conducta delictiva, deberá adoptar las medidas conducentes conforme a la Constitución Política de los Estados Unidos Mexicanos y las disposiciones aplicables en materia de detención, uso de la fuerza y, en particular, de protección a los derechos humanos que correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 4.
 
-El Jefe del Servicio de Administración Tributaria será suplido en sus ausencias por los administradores generales Jurídico, de Grandes Contribuyentes, de Hidrocarburos, de Recaudación, de Auditoría Fiscal Federal, de Auditoría de Comercio Exterior, de Aduanas, de Servicios al Contribuyente o de Recursos y Servicios, por los administradores centrales de Amparo e Instancias Judiciales, de lo Contencioso, de lo Contencioso de Grandes Contribuyentes o de lo Contencioso de Hidrocarburos, en el orden indicado.
+El Jefe del Servicio de Administración Tributaria será suplido en sus ausencias por los administradores generales Jurídico, de Grandes Contribuyentes, de Hidrocarburos, de Recaudación, de Auditoría Fiscal Federal, de Auditoría de Comercio Exterior, de Servicios al Contribuyente o de Recursos y Servicios, por los administradores centrales de Amparo e Instancias Judiciales, de lo Contencioso, de lo Contencioso de Grandes Contribuyentes o de lo Contencioso de Hidrocarburos, en el orden indicado.
 
 El Jefe del Servicio de Administración Tributaria será suplido en sus ausencias por los administradores desconcentrados jurídicos exclusivamente para interponer ante los Tribunales Colegiados de Circuito los recursos de revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo en contra de las sentencias emitidas por el Pleno, Sección o Salas Regionales del Tribunal Federal de Justicia Fiscal y Administrativa que se dicten en los juicios contenciosos administrativos.
 
 Los administradores generales serán suplidos por los administradores centrales y coordinadores adscritos a su respectiva Administración General, en el orden en el que se enumeran en el artículo 2 de este Reglamento.
 
-Los administradores centrales serán suplidos por los administradores o coordinadores que de ellos dependan, en el orden que se establece para cada Administración Central en los artículos 16, 19, 22, 25, 28, 30, 32, 35, 38, 40, 42 y 44 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+Los administradores centrales serán suplidos por los administradores o coordinadores que de ellos dependan, en el orden que se establece para cada Administración Central en los artículos 16, 22, 25, 28, 30, 32, 35, 38, 40, 42 y 44 de este Reglamento.
 
 Los administradores adscritos a las unidades administrativas centrales, a las coordinaciones y a las administraciones desconcentradas, serán suplidos por los administradores o subadministradores que de ellos dependan.
 
-Los administradores de las aduanas serán suplidos por los subadministradores, jefes de sección, jefes de sala o jefes de departamento adscritos a ellas.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 El Jefe del Servicio de Administración Tributaria y los administradores generales de Recaudación, de Servicios al Contribuyente, de Auditoría Fiscal Federal y de Auditoría de Comercio Exterior, serán suplidos en sus ausencias y exclusivamente para la resolución del recurso de revisión a que se refiere el artículo 61 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, por el Administrador Central de Asuntos Jurídicos de Actividades Vulnerables.
 
@@ -309,9 +311,11 @@ Las administraciones centrales de las administraciones generales de Recursos y S
 
 Las unidades desconcentradas a que se refiere el apartado C del artículo 2 del presente Reglamento tendrán la sede que se establece en el artículo 6 de este ordenamiento y ejercerán sus atribuciones en todo el territorio nacional.
 
-Las aduanas tendrán la sede que se establece en el artículo 7 de este Reglamento y ejercerán sus atribuciones conforme al artículo 21 del presente ordenamiento.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-### Capítulo II. Del Nombre y Sede de las Unidades Administrativas Desconcentradas y de las Aduanas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo II. Del Nombre y Sede de las Unidades Administrativas Desconcentradas
 
 ###### Artículo 6.
 
@@ -535,107 +539,7 @@ Las administraciones o subadministraciones adscritas a las administraciones desc
 
 ###### Artículo 7.
 
-El nombre, sede y circunscripción territorial de las Aduanas será el siguiente:
-
-I. Aduana de Aguascalientes, con sede en Aguascalientes;
-
-II. Aduana de Ensenada, con sede en Baja California;
-
-III. Aduana de Mexicali, con sede en Baja California;
-
-IV. Aduana de Tecate, con sede en Baja California;
-
-V. Aduana de Tijuana, con sede en Baja California;
-
-VI. Aduana de La Paz, con sede en Baja California Sur;
-
-VII. Aduana de Ciudad del Carmen, con sede en Campeche;
-
-VIII. Aduana de Ciudad Acuña, con sede en Coahuila de Zaragoza;
-
-IX. Aduana de Piedras Negras, con sede en Coahuila de Zaragoza;
-
-X. Aduana de Torreón, con sede en Coahuila de Zaragoza;
-
-XI. Aduana de Manzanillo, con sede en Colima;
-
-XII. Aduana de Ciudad Hidalgo, con sede en Chiapas;
-
-XIII. Aduana de Ciudad Juárez, con sede en Chihuahua;
-
-XIV. Aduana de Chihuahua, con sede en Chihuahua;
-
-XV. Aduana de Ojinaga, con sede en Chihuahua;
-
-XVI. Aduana de Puerto Palomas, con sede en Chihuahua;
-
-XVII. Aduana del Aeropuerto Internacional de la Ciudad de México, con sede en el Distrito Federal;
-
-XVIII. Aduana de México, con sede en el Distrito Federal;
-
-XIX. Aduana de Guanajuato, con sede en Guanajuato;
-
-XX. Aduana de Acapulco, con sede en Guerrero;
-
-XXI. Aduana de Guadalajara, con sede en Jalisco;
-
-XXII. Aduana de Toluca, con sede en México;
-
-XXIII. Aduana de Lázaro Cárdenas, con sede en Michoacán;
-
-XXIV. Aduana de Colombia, con sede en Nuevo León;
-
-XXV. Aduana de Monterrey, con sede en Nuevo León;
-
-XXVI. Aduana de Salina Cruz, con sede en Oaxaca;
-
-XXVII. Aduana de Puebla, con sede en Puebla;
-
-XXVIII. Aduana de Querétaro, con sede en Querétaro;
-
-XXIX. Aduana de Cancún, con sede en Quintana Roo;
-
-XXX. Aduana de Subteniente López, con sede en Quintana Roo;
-
-XXXI. Aduana de Mazatlán, con sede en Sinaloa;
-
-XXXII. Aduana de Agua Prieta, con sede en Sonora;
-
-XXXIII. Aduana de Guaymas, con sede en Sonora;
-
-XXXIV. Aduana de Naco, con sede en Sonora;
-
-XXXV. Aduana de Nogales, con sede en Sonora;
-
-XXXVI. Aduana de San Luis Río Colorado, con sede en Sonora;
-
-XXXVII. Aduana de Sonoyta, con sede en Sonora;
-
-XXXVIII. Aduana de Dos Bocas, con sede en Tabasco;
-
-XXXIX. Aduana de Altamira, con sede en Tamaulipas;
-
-XL. Aduana de Ciudad Camargo, con sede en Tamaulipas;
-
-XLI. Aduana de Ciudad Miguel Alemán, con sede en Tamaulipas;
-
-XLII. Aduana de Ciudad Reynosa, con sede en Tamaulipas;
-
-XLIII. Aduana de Matamoros, con sede en Tamaulipas;
-
-XLIV. Aduana de Nuevo Laredo, con sede en Tamaulipas;
-
-XLV. Aduana de Tampico, con sede en Tamaulipas;
-
-XLVI. Aduana de Tuxpan, con sede en Veracruz;
-
-XLVII. Aduana de Veracruz, con sede en Veracruz;
-
-XLVIII. Aduana de Coatzacoalcos, con sede en Veracruz, y
-
-XLIX. Aduana de Progreso, con sede en Yucatán.
-
-Las aduanas podrán ubicar su sede en cualquier municipio que corresponda a la entidad federativa que identifique la Aduana, así como en el aeropuerto internacional o en el puerto que corresponda a esa entidad federativa. Tratándose del Distrito Federal, las aduanas podrán estar ubicadas en éste o en cualquiera de los municipios que forman su área conurbada. El Jefe del Servicio de Administración Tributaria, mediante Acuerdo que se publique en el Diario Oficial de la Federación, establecerá la circunscripción territorial de las aduanas y podrá establecer o suprimir las secciones aduaneras correspondientes.
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 ## Título II. De la Competencia
 
@@ -651,7 +555,9 @@ II. Representar al Secretario de Hacienda y Crédito Público en controversias f
 
 III. Proponer la celebración de sesiones extraordinarias de la Junta de Gobierno del Servicio de Administración Tributaria;
 
-IV. Constituir las instancias de consulta y los comités especializados a que se refiere el artículo 19 de la Ley del Servicio de Administración Tributaria; emitir los lineamientos para la integración y funcionamiento de dichas instancias de consulta y comités especializados, del Comité de Impuestos Internos y del Comité de Aduanas y Comercio Exterior, así como aprobar los procedimientos para el análisis y discusión de políticas operativas y administrativas en las materias de la competencia de cada uno de dichos comités y para la emisión por parte de éstos de las recomendaciones que procedan a las unidades administrativas del Servicio de Administración Tributaria y presidirlos;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+IV. Constituir las instancias de consulta y los comités especializados a que se refiere el artículo 19 de la Ley del Servicio de Administración Tributaria; emitir los lineamientos para la integración y funcionamiento de dichas instancias de consulta y comités especializados, del Comité de Impuestos Internos y del Comité de Comercio Exterior, así como aprobar los procedimientos para el análisis y discusión de políticas operativas y administrativas en las materias de la competencia de cada uno de dichos comités y para la emisión por parte de éstos de las recomendaciones que procedan a las unidades administrativas del Servicio de Administración Tributaria y presidirlos;
 
 V. Aprobar los asuntos que no requieran autorización de la Junta de Gobierno del Servicio de Administración Tributaria;
 
@@ -669,7 +575,9 @@ XI. Supervisar la administración de los recursos humanos, financieros y materia
 
 XII. Nombrar y remover a los servidores públicos del Servicio de Administración Tributaria, así como a los funcionarios fiscales de libre designación, en términos del Estatuto del Servicio Fiscal de Carrera y demás disposiciones jurídicas aplicables;
 
-XIII. Crear grupos de trabajo necesarios para la adecuada interpretación de la legislación fiscal y aduanera, considerando la participación que corresponda a las unidades administrativas de la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XIII. Crear grupos de trabajo necesarios para la adecuada interpretación de la legislación fiscal, aduanera, y en materia de comercio exterior, considerando la participación que corresponda a las unidades administrativas de la Secretaría de Hacienda y Crédito Público y de la Agencia Nacional de Aduanas de México;
 
 XIV. Supervisar que se otorguen las prestaciones de carácter social y cultural, así como que se lleven a cabo las actividades de capacitación del personal del Servicio de Administración Tributaria, de acuerdo con las normas y principios establecidos por la Comisión del Servicio Fiscal de Carrera y demás disposiciones jurídicas aplicables;
 
@@ -677,15 +585,17 @@ XV. Otorgar las autorizaciones previstas por las disposiciones fiscales y aduane
 
 XVI. Modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular de conformidad con el Código Fiscal de la Federación, que emitan las unidades administrativas adscritas a él;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO FRACCIÓN I, DEL PRESENTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XVII. Expedir los acuerdos por los que se deleguen facultades a los servidores públicos o a las unidades administrativas del Servicio de Administración Tributaria; se determinen la circunscripción territorial de las aduanas y las secciones aduaneras de las aduanas, subsedes de las administraciones desconcentradas de la Administración General de Auditoría de Comercio Exterior; se constituyan sedes de las unidades administrativas centrales fuera de la Ciudad de México y aquéllos por los que se apruebe la ubicación de sus oficinas en el extranjero y designar a los servidores públicos adscritos a dichas oficinas;
+XVII. Expedir los acuerdos por los que se deleguen facultades a los servidores públicos o a las unidades administrativas del Servicio de Administración Tributaria; se determinen las subsedes de las administraciones desconcentradas de la Administración General de Auditoría de Comercio Exterior; se constituyan sedes de las unidades administrativas centrales fuera de la Ciudad de México y aquéllos por los que se apruebe la ubicación de sus oficinas en el extranjero y designar a los servidores públicos adscritos a dichas oficinas;
 
 XVIII. Proporcionar a las autoridades competentes de la Secretaría de Hacienda y Crédito Público la información que requieran para la evaluación y diseño de la política fiscal y aduanera, y para elaborar los informes que la Secretaría esté obligada a presentar;
 
 XIX. Celebrar contratos, convenios y, en general, toda clase de actos jurídicos directamente vinculados con el desarrollo de las atribuciones del Servicio de Administración Tributaria o relacionados con la administración de los recursos humanos, materiales y financieros que le sean asignados;
 
-XX. Solicitar opinión a la Procuraduría de la Defensa del Contribuyente sobre la interpretación de las disposiciones fiscales y aduaneras, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XX. Solicitar opinión a la Procuraduría de la Defensa del Contribuyente sobre la interpretación de las disposiciones fiscales y en materia de comercio exterior, y
 
 XXI. Aquellas que le confieren al Servicio de Administración Tributaria el Reglamento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, la Ley de Ingresos sobre Hidrocarburos y su Reglamento y otras disposiciones jurídicas aplicables.
 
@@ -721,8 +631,6 @@ El Jefe del Servicio de Administración Tributaria no podrá delegar las faculta
 
 #### Sección I. De las Administraciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO FRACCIÓN I, DEL PRESENTE ORDENAMIENTO.</small>
-
 ###### Artículo 11.
 
 Los administradores generales, además de las facultades que les confieren otros artículos de este Reglamento, tendrán las siguientes:
@@ -745,7 +653,9 @@ VIII. Celebrar, modificar y revocar contratos, convenios y, en general, toda cla
 
 IX. Implementar los acuerdos y coordinar las acciones en el ámbito de su competencia, respecto de las atribuciones que le correspondan al Servicio de Administración Tributaria, para el cumplimiento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y su Reglamento, la Ley de Ingresos sobre Hidrocarburos y su Reglamento, y demás disposiciones jurídicas aplicables;
 
-X. Informar respecto de las infracciones a las leyes fiscales y aduaneras detectadas en el ejercicio de sus facultades, a las autoridades fiscales, organismos u órganos facultados para determinar créditos fiscales o imponer sanciones en materias distintas a las de su competencia y proporcionar los datos y elementos necesarios para que dichas autoridades ejerzan sus facultades;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+X. Informar respecto de las infracciones a las leyes fiscales y aduaneras, así como de comercio exterior detectadas en el ejercicio de sus facultades, a las autoridades fiscales, organismos u órganos facultados para determinar créditos fiscales o imponer sanciones en materias distintas a las de su competencia y proporcionar los datos y elementos necesarios para que dichas autoridades ejerzan sus facultades;
 
 XI. Proporcionar a la Administración General de Evaluación, la información y documentación que le soliciten las instancias competentes en materia de seguridad nacional;
 
@@ -763,7 +673,9 @@ XVII. Notificar los actos que emitan relacionados con el ejercicio de sus facult
 
 XVIII. Llevar a cabo las acciones que correspondan para dar cumplimiento a sentencias ejecutoriadas o resoluciones firmes dictadas por autoridades judiciales o administrativas, respecto de los asuntos de su competencia;
 
-XIX. Dejar sin efectos sus propias resoluciones cuando se hayan emitido en contravención a las disposiciones fiscales y aduaneras, siempre que no se encuentren firmes, se haya interpuesto medio de defensa en su contra y medie solicitud de la Administración General Jurídica en los términos de la Ley Federal de Procedimiento Contencioso Administrativo y de los lineamientos que para tales efectos emita dicha Administración General;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XIX. Dejar sin efectos sus propias resoluciones cuando se hayan emitido en contravención a las disposiciones fiscales y aduaneras, así como de comercio exterior, siempre que no se encuentren firmes, se haya interpuesto medio de defensa en su contra y medie solicitud de la Administración General Jurídica en los términos de la Ley Federal de Procedimiento Contencioso Administrativo y de los lineamientos que para tales efectos emita dicha Administración General;
 
 XX. Modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular de conformidad con el Código Fiscal de la Federación, emitidas por las unidades administrativas a su cargo;
 
@@ -776,8 +688,6 @@ XXIII. Imponer sanciones por infracción a las disposiciones jurídicas que rige
 XXIV. Cancelar los requerimientos y, en su caso, las multas en materia de su competencia, cuando deriven de supuestas omisiones en términos del Reglamento del Código Fiscal de la Federación, y
 
 XXV. Vigilar la debida garantía del interés fiscal en los asuntos en que tengan competencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO FRACCIÓN I, DEL PRESENTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -817,7 +727,9 @@ XVI. Proponer a la Administración General de Recursos y Servicios el anteproyec
 
 XVII. Proponer y participar, en coordinación con las administraciones generales de Planeación y de Comunicaciones y Tecnologías de la Información, en la planeación, diseño y definición de los programas electrónicos en las materias de su competencia;
 
-XVIII. Proponer y participar en la elaboración y validación de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales y aduaneras;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Proponer y participar en la elaboración y validación de las formas oficiales de avisos, pedimentos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales y de comercio exterior;
 
 XIX. Coadyuvar con las unidades administrativas de la Secretaría de Hacienda y Crédito Público y proporcionar a la Unidad de Inteligencia Financiera de dicha dependencia, la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a las bases de datos que contengan la referida información;
 
@@ -829,7 +741,9 @@ XXII. Participar con la Administración General de Evaluación en la elaboració
 
 XXIII. Expedir las constancias de identificación del personal a su cargo o comisionado por otra unidad administrativa del Servicio de Administración Tributaria, a fin de habilitarlos para la práctica de actos relacionados con el ejercicio de sus facultades y autorizar la emisión de gafetes de identificación;
 
-XXIV. Certificar copias de documentos que tengan en su poder u obren en sus archivos, incluso impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos; certificar documentos, expedientes y hechos, inclusive la ratificación de firmas que realicen los particulares en términos del Código Fiscal de la Federación, relativos a los asuntos de su competencia; expedir las constancias que se deban enviar a las autoridades fiscales de los países con los que se tengan celebrados convenios o tratados en materia fiscal o aduanera y, en su caso, solicitar previamente su legalización o apostillamiento, así como llevar a cabo la compulsa de documentos públicos o privados;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXIV. Certificar copias de documentos que tengan en su poder u obren en sus archivos, incluso impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos; certificar documentos, expedientes y hechos, inclusive la ratificación de firmas que realicen los particulares en términos del Código Fiscal de la Federación, relativos a los asuntos de su competencia; expedir las constancias que se deban enviar a las autoridades fiscales de los países con los que se tengan celebrados convenios o tratados y demás instrumentos internacionales aplicables y, en su caso, solicitar previamente su legalización o apostillamiento, así como llevar a cabo la compulsa de documentos públicos o privados;
 
 XXV. Designar a los peritos para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
@@ -841,7 +755,9 @@ XXVIII. Desarrollar e implementar, en coordinación con la Administración Gener
 
 XXIX. Informar a la Administración General de Planeación, sobre los grupos de trabajo del Servicio de Administración Tributaria en los que participen, así como proponer, en su caso, la creación de aquéllos que consideren necesarios y la eliminación de los que sean prescindibles;
 
-XXX. Diseñar, desarrollar, instrumentar, evaluar y actualizar, conforme a los lineamientos que emita la Administración General de Planeación, los modelos de riesgo tributarios o aduaneros, en el ámbito de su competencia, así como implementar los relativos a la prevención y combate a la corrupción establecidos por la Administración General de Evaluación;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXX. Diseñar, desarrollar, instrumentar, evaluar y actualizar, conforme a los lineamientos que emita la Administración General de Planeación, los modelos de riesgo tributarios, en el ámbito de su competencia, así como implementar los relativos a la prevención y combate a la corrupción establecidos por la Administración General de Evaluación;
 
 XXXI. Definir y analizar, conforme a los lineamientos que emita la Administración General de Planeación, los modelos de integración de la información en el ámbito de su competencia;
 
@@ -873,8 +789,6 @@ XLIV. Las demás que en el ámbito de sus competencias le atribuyan al Servicio 
 
 #### Sección II. De las Administraciones Centrales y Coordinaciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO FRACCIÓN I, DEL PRESENTE ORDENAMIENTO.</small>
-
 ###### Artículo 13.
 
 Los administradores centrales, los coordinadores y los administradores adscritos a las unidades administrativas centrales, además de las facultades que les confieren otros artículos de este Reglamento, tendrán las siguientes:
@@ -891,11 +805,15 @@ V. Nombrar, designar, remover o comisionar, conforme a los ordenamientos aplicab
 
 VI. Notificar los actos que emitan relacionados con el ejercicio de sus facultades y los que dicten las unidades administrativas de la Administración General a la que se encuentren adscritos.
 
-#### Sección III. De las Administraciones Desconcentradas y de las Aduanas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+#### Sección III. De las Administraciones Desconcentradas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 14.
 
-Los administradores desconcentrados y de las aduanas y los administradores adscritos a dichas unidades administrativas desconcentradas, además de las facultades que les confieren otros artículos de este Reglamento, tendrán las siguientes:
+Los administradores desconcentrados y los administradores adscritos a las unidades administrativas desconcentradas, además de las facultades que les confieren otros artículos de este Reglamento, tendrán las siguientes:
 
 I. Las señaladas en las fracciones I, V, IX, X, XI, XII, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXIII, XXIV y XXV del artículo 11 de este Reglamento;
 
@@ -931,7 +849,9 @@ I. Participar en la definición e instrumentación de los proyectos especiales e
 
 II. Participar con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público y del Servicio de Administración Tributaria, en el diseño de los procesos de recaudación de ingresos federales por las instituciones de crédito, terceros u oficinas de recaudación autorizadas;
 
-III. Definir, previa opinión de la Administración General de Planeación y de la Administración General de Servicios al Contribuyente, las formas oficiales y demás documentos requeridos por las disposiciones fiscales y aduaneras, así como la integración y actualización de los archivos que se utilicen para el procesamiento electrónico de datos, respecto de las declaraciones y pagos, y verificar la integridad de la información contenida en los mismos, dándole la participación que le corresponda a las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+III. Definir, previa opinión de la Administración General de Planeación y de la Administración General de Servicios al Contribuyente, las formas oficiales y demás documentos requeridos por las disposiciones fiscales y de comercio exterior, así como la integración y actualización de los archivos que se utilicen para el procesamiento electrónico de datos, respecto de las declaraciones y pagos, y verificar la integridad de la información contenida en los mismos, dándole la participación que le corresponda a las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público;
 
 IV. Elaborar y actualizar los instructivos de operación para la prestación de los servicios de recepción de información de declaraciones fiscales y de recaudación de ingresos federales por parte de las instituciones de crédito, terceros u oficinas de recaudación autorizadas;
 
@@ -943,7 +863,7 @@ VII. Recaudar directamente, por instituciones de crédito, terceros o a través 
 
 VIII. Proporcionar a la unidad administrativa competente de la Secretaría de Hacienda y Crédito Público la información de los ingresos recaudados, a través de las instituciones de crédito, terceros u oficinas de recaudación autorizadas;
 
-IX. Tramitar y resolver las solicitudes de recuperación de los depósitos en cuenta aduanera y los rendimientos que se hayan generado en dicha cuenta, efectuados por contribuyentes ante instituciones de crédito y casas de bolsa autorizadas para estos efectos, conforme a la Ley Aduanera;
+IX. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 X. Normar, tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes relacionadas con la presentación de declaraciones y recepción de pagos, así como requerimientos derivados de dichas declaraciones y pagos;
 
@@ -963,7 +883,9 @@ XVII. Participar con las unidades administrativas competentes de la Secretaría 
 
 XVIII. Participar con la Administración General de Servicios al Contribuyente, en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, así como en la actualización del sistema de información geográfica fiscal y de dicho marco;
 
-XIX. Normar los procedimientos de notificación establecidos en el Código Fiscal de la Federación, así como notificar los actos de otras autoridades fiscales, aduaneras y de las que remitan créditos fiscales para su cobro y habilitar a terceros para que realicen notificaciones;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XIX. Normar los procedimientos de notificación establecidos en el Código Fiscal de la Federación, así como notificar los actos de otras autoridades fiscales y de las que remitan créditos fiscales para su cobro y habilitar a terceros para que realicen notificaciones;
 
 XX. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de registro de contribuyentes, para comprobar los datos que se encuentran en el registro federal de contribuyentes, así como solicitarles la información y documentación necesaria para constatar dichos datos y proporcionar la información resultado de dichas visitas a las unidades administrativas competentes del Servicio de Administración Tributaria para que realicen las inscripciones y actualizaciones correspondientes al registro federal de contribuyentes;
 
@@ -1115,7 +1037,9 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. A la Administración Central de Declaraciones y Pagos, las siguientes:
 
-I. Las señaladas en las fracciones I, II, IV, VII, VIII, IX, X respecto del trámite y resolución de las solicitudes y requerimientos a que se refiere dicha fracción y XI del artículo 16 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+I. Las señaladas en las fracciones I, II, IV, VII, VIII, X respecto del trámite y resolución de las solicitudes y requerimientos a que se refiere dicha fracción y XI del artículo 16 de este Reglamento, y
 
 II. Integrar y actualizar los archivos que se utilicen para el procesamiento electrónico de datos y verificar la integridad de la información contenida en los mismos dándole la participación que le corresponda a las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, previa opinión de la Administración General de Planeación;
 
@@ -1145,417 +1069,37 @@ V. Emitir opinión respecto de los lineamientos, directrices o procedimientos qu
 
 VI. Fungir como enlace de la Administración General de Recaudación en la atención de los requerimientos de información de la Procuraduría de la Defensa del Contribuyente, vinculados con quejas o reclamaciones en las que sea señalada como responsable alguna de las unidades administrativas adscritas a dicha Administración General; propuestas de modificación a las disposiciones o estrategias internas cuando la materia de las mismas resulte de su competencia, así como participar en las reuniones en las que sea convocado el Servicio de Administración Tributaria para la atención de asuntos que correspondan a la Administración General de Recaudación, y
 
-VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y aduaneras, decretos, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Recaudación.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y de comercio exterior, decretos, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Recaudación.
 
 ###### Artículo 18.
 
 Compete a las administraciones y subadministraciones desconcentradas de recaudación, ejercer las atribuciones que a continuación se señalan:
 
-I. A las administraciones desconcentradas de recaudación, las señaladas en las fracciones V, VI, VII, VIII, IX, X respecto del trámite y resolución de las solicitudes y requerimientos a que se refiere dicha fracción, XI, XII, XIII, XIV, XV, XVI, XIX salvo el normar los procedimientos de notificación establecidos en el Código Fiscal de la Federación, XX, XXII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLIII, XLVIII, XLIX, L, LI y LII del artículo 16 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+I. A las administraciones desconcentradas de recaudación, las señaladas en las fracciones V, VI, VII, VIII, X respecto del trámite y resolución de las solicitudes y requerimientos a que se refiere dicha fracción, XI, XII, XIII, XIV, XV, XVI, XIX salvo el normar los procedimientos de notificación establecidos en el Código Fiscal de la Federación, XX, XXII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLIII, XLVIII, XLIX, L, LI y LII del artículo 16 de este Reglamento, y
 
 II. A las subadministraciones desconcentradas de recaudación, las señaladas en las fracciones XIII, XIV y XIX salvo el normar los procedimientos de notificación establecidos en el Código Fiscal de la Federación, del artículo 16 de este Reglamento, así como tramitar y resolver las solicitudes de aclaración que le presenten los contribuyentes sobre problemas relacionados con la presentación de declaraciones, pagos, imposición de multas y requerimientos de su competencia.
 
 Las administraciones desconcentradas de recaudación estarán a cargo de un Administrador Desconcentrado, auxiliado en el ejercicio de sus facultades por los subadministradores desconcentrados de recaudación, jefes de departamento, notificadores, ejecutores, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 ### Capítulo IV. De la Administración General de Aduanas
 
 ###### Artículo 19.
 
-Compete a la Administración General de Aduanas:
-
-I. Participar con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público, en el estudio y elaboración de propuestas de políticas y programas relativos al desarrollo de la franja y región fronteriza del país, al fomento de las industrias de exportación, regímenes temporales de importación o exportación y de depósito fiscal; intervenir en el estudio y formulación de los proyectos de aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior en los que las unidades administrativas de la Secretaría de Hacienda y Crédito Público participen con otras autoridades competentes; emitir opinión sobre los precios estimados que fije dicha Secretaría, respecto de las mercancías de comercio exterior que sean objeto de subvaluación o sobrevaloración;
-
-II. Participar, en coordinación con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, en las negociaciones de convenios aduaneros y tratados internacionales relacionados con la materia aduanera y de comercio exterior;
-
-III. Mantener comunicación y colaborar con las autoridades fiscales, aduaneras o de comercio exterior de otros países, así como asistir a los servidores públicos del Servicio de Administración Tributaria en sus relaciones con dichas autoridades, respecto de asuntos relacionados con la entrada y salida de mercancías del territorio nacional;
-
-IV. Colaborar y coordinarse con las demás unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, las dependencias y entidades de la Administración Pública Federal y las autoridades de las entidades federativas y municipios, de conformidad con la legislación aduanera y demás disposiciones jurídicas aplicables sobre la aplicación de las medidas de seguridad y control que deben realizarse en aeropuertos, puertos marítimos, terminales ferroviarias o de autotransporte de carga y pasajeros y cruces fronterizos autorizados para el tráfico internacional, así como coordinarse con las dependencias y entidades de la Administración Pública Federal que lleven a cabo sus funciones en dichos lugares;
-
-V. Establecer las estrategias, lineamientos y directrices que deben seguir las unidades administrativas que le sean adscritas y las aduanas, respecto de normas de operación, despacho aduanero, comprobación del cumplimiento de las obligaciones fiscales y aduaneras, embargo precautorio, retención de mercancías, suspensión de libre circulación, procedimientos aduaneros que deriven del ejercicio de facultades de comprobación, verificación de la debida determinación y pago de impuestos, derechos, aprovechamientos y sus accesorios de carácter federal que se generen por la entrada y salida de mercancías del territorio nacional, así como del cumplimiento de las regulaciones y restricciones no arancelarias, inclusive en materia de normas oficiales mexicanas y comprobación del cumplimiento de los requisitos y obligaciones inherentes a la concesión, autorización, registro o patente otorgada por esta Administración General;
-
-VI. Planear, organizar, establecer, dirigir y controlar estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas relacionadas con la entrada y salida de mercancías del territorio nacional, así como estudiar, analizar e investigar conductas vinculadas con el contrabando de mercancías y emitir, en coordinación con las unidades administrativas del Servicio de Administración Tributaria, estrategias y alternativas tendientes a combatir dichas conductas;
-
-VII. Establecer estrategias o lineamientos para la operación de las áreas de servicios aduanales, respecto a la entrada y salida del territorio nacional de mercancías y medios de transporte, del despacho aduanero, los hechos y actos que deriven de éste o de dicha entrada o salida, así como de la vigilancia del cumplimiento de las obligaciones respectivas;
-
-VIII. Establecer las estrategias o lineamientos para el control, vigilancia y seguridad de los recintos fiscales y fiscalizados concesionados, autorizados y estratégicos; de las mercancías de comercio exterior en ellos depositados; la circulación de vehículos dentro de dichos recintos, las operaciones de carga, descarga y manejo de dichas mercancías, así como, en coordinación con otras dependencias y entidades competentes de la Administración Pública Federal, para el control, vigilancia y seguridad sobre la entrada y salida de mercancías y personas en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga y pasajeros autorizados para el tráfico internacional y en forma exclusiva en las aduanas, recintos fiscales, fiscalizados concesionados, autorizados y estratégicos, secciones aduaneras, garitas y puntos de revisión aduaneros;
-
-IX. Establecer estrategias o lineamientos en materia de la recuperación de los depósitos en cuenta aduanera, efectuados por contribuyentes ante instituciones de crédito y casas de bolsa autorizadas para estos efectos y normar la operación de las disposiciones sobre recaudación, cobro coactivo, imposición de sanciones, contabilidad de ingresos y movimiento de fondos, en las materias a que se refiere el presente artículo;
-
-X. Proponer el establecimiento o supresión de aduanas, garitas, secciones aduaneras y puntos de revisión aduaneros, así como aprobar las instalaciones que se pondrán a su disposición para el despacho aduanero de mercancías, su reconocimiento y demás actos o hechos que deriven de los mismos, y las obras que se realizarán en las oficinas administrativas de las aduanas y sus instalaciones complementarias;
-
-XI. Señalar dentro de los recintos fiscales la ubicación de las oficinas administrativas y sus instalaciones complementarias, las zonas restringidas y las zonas de circulación de vehículos, así como las áreas restringidas para el uso de telefonía celular u otros medios de comunicación dentro de los recintos fiscales y fiscalizados;
-
-XII. Habilitar lugares de entrada, salida o maniobras de mercancías, e instalaciones como recintos fiscales para uso de la autoridad aduanera;
-
-XIII. Señalar en las aduanas, aeropuertos internacionales, terminales ferroviarias o terrestres y en los desarrollos portuarios los lugares autorizados para la entrada y salida de mercancías extranjeras o nacionales, así como aprobar el lugar en que se ubicarán dichos lugares y las instalaciones que se pondrán a disposición de las autoridades aduaneras para las funciones del despacho aduanero y los demás actos o hechos que deriven del mismo;
-
-XIV. Proponer a las autoridades competentes de la Administración Pública Federal, de las entidades federativas y municipios, en su caso, la asignación de recursos para las obras de mejoramiento de infraestructura, desarrollo tecnológico y equipamiento de las aduanas;
-
-XV. Proponer, en coordinación con la Administración General de Recursos y Servicios y demás unidades administrativas competentes del Servicio de Administración Tributaria, las acciones a desarrollar que impliquen la aplicación de los recursos de los fideicomisos públicos en los asuntos a que se refiere este artículo;
-
-XVI. Proveer, en coordinación con la Administración General de Comunicaciones y Tecnologías de la Información, los sistemas, equipos, redes y dispositivos informáticos y de comunicaciones que den soporte a las funciones operativas y administrativas de las aduanas;
-
-XVII. Instrumentar y, en su caso, autorizar proyectos de tecnología de control de inspección no intrusiva en el reconocimiento aduanero o en la verificación de mercancía en transporte, así como las acciones que de estos proyectos deriven, considerando los servicios de soporte y mantenimiento especializado que coadyuven en la operación aduanera de conformidad con los lineamientos emitidos por la Administración General de Planeación;
-
-XVIII. Emitir las disposiciones generales para la obtención de patentes de agente aduanal y autorizaciones de mandatario de agente aduanal y dictaminador aduanero, así como las convocatorias para la obtención de patentes de agente aduanal;
-
-XIX. Otorgar las patentes de agente aduanal y las autorizaciones de mandatario de agente aduanal y dictaminador aduanero, así como tramitar, resolver y notificar los actos o resoluciones concernientes a los asuntos relacionados con estas patentes y autorizaciones y requerirlos para que cumplan las obligaciones previstas en la Ley Aduanera y demás disposiciones jurídicas aplicables;
-
-XX. Diseñar, aplicar y evaluar los exámenes de conocimientos y psicotécnicos para obtener las patentes de agente aduanal y las autorizaciones de mandatario de agente aduanal y de dictaminador aduanero, así como emitir la convocatoria para que los agentes aduanales puedan someterse a dichos exámenes y los lineamientos que deberán cumplir las instituciones académicas o especializadas en evaluación para la aplicación de los referidos exámenes a los agentes aduanales y acreditar a dichas instituciones;
-
-XXI. Vigilar y verificar el cumplimiento de las obligaciones del agente aduanal, mandatario de agente aduanal y dictaminador aduanero, así como tramitar, resolver e imponer sanciones en términos de las leyes aplicables por los actos u omisiones cometidos por aquéllos;
-
-XXII. Determinar la lesión al interés fiscal y la omisión del permiso de autoridad competente cuando dicha conducta constituya causal de suspensión o cancelación de la patente de agente aduanal o de la autorización de mandatarios de agente aduanal, según corresponda;
-
-XXIII. Tramitar y resolver la inhabilitación, suspensión, cancelación o extinción de la patente de agente aduanal, así como la cancelación de la autorización otorgada al mandatario de agente aduanal y al dictaminador aduanero y efectuar las notificaciones correspondientes;
-
-XXIV. Emitir a los agentes aduanales autorizaciones para actuar en una aduana adicional a la de su adscripción, así como tramitar y resolver los demás asuntos inherentes a la patente de agente aduanal y a las autorizaciones de mandatario de agente aduanal y dictaminador aduanero;
-
-XXV. Otorgar, prorrogar, modificar, suspender, cancelar o revocar las autorizaciones o concesiones competencia de esta Administración General o sus unidades administrativas a que se refiere la Ley Aduanera, en términos de dicha Ley y demás disposiciones aduaneras y, en su caso, ordenar la suspensión de las operaciones correspondientes y su reactivación, así como tramitar y resolver los demás asuntos concernientes a las autorizaciones o concesiones otorgadas, incluso verificar el cumplimiento de los requisitos y las obligaciones inherentes a las mismas;
-
-XXVI. Otorgar la autorización para el establecimiento de depósitos fiscales para la exposición y venta de mercancías extranjeras y nacionales libres de impuestos al comercio exterior y de cuotas compensatorias y, en su caso, clausurar dichos establecimientos, así como la autorización temporal para locales destinados a exposiciones internacionales de mercancías o la autorización para someterse al proceso de ensamble y fabricación de vehículos a empresas de la industria automotriz terminal;
-
-XXVII. Autorizar la introducción o extracción de mercancías mediante el empleo de tuberías, ductos, cables u otros medios susceptibles de conducirlas;
-
-XXVIII. Otorgar concesión o autorización para que los particulares presten los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior y autorizar para que dentro de los recintos fiscalizados las mercancías puedan ser objeto de elaboración, transformación o reparación para su posterior retorno al extranjero o exportación; otorgar autorización para prestar los servicios de carga, descarga y maniobras de mercancías en el recinto fiscal, en oficinas e instalaciones complementarias de las aduanas y secciones aduaneras, así como autorizar la importación o fabricación de candados oficiales o electrónicos que se utilizarán en los vehículos y contenedores que transporten las mercancías de los despachos;
-
-XXIX. Autorizar que la entrada o salida de mercancías al territorio nacional se efectúe por un lugar distinto al autorizado;
-
-XXX. Autorizar la prestación de los servicios de prevalidación electrónica de datos contenidos en los pedimentos y la prestación de servicios necesarios para llevar a cabo el control de la importación temporal de remolques, semirremolques y portacontenedores;
-
-XXXI. Habilitar inmuebles para la introducción de mercancías bajo el régimen de recinto fiscalizado estratégico y emitir la autorización para su administración, así como otorgar autorización para destinar mercancías al régimen de recinto fiscalizado estratégico;
-
-XXXII. Autorizar la exención de los impuestos al comercio exterior por la entrada al territorio nacional de las mercancías que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos y personas morales autorizadas para recibir donativos deducibles en el impuesto sobre la renta, así como la maquinaria y equipo obsoleto que se haya importado temporalmente y sus desperdicios, en términos del artículo 61, fracciones IX y XVI de la Ley Aduanera;
-
-XXXIII. Autorizar a los almacenes generales de depósito para que presten el servicio de depósito fiscal y para que en sus instalaciones se adhieran los marbetes o precintos a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios;
-
-XXXIV. Otorgar, renovar, modificar, suspender o cancelar, según corresponda, la autorización en la inscripción de los registros previstos en la Ley Aduanera y demás disposiciones aplicables, competencia de esta Administración General o sus unidades administrativas, así como tramitar y resolver los demás asuntos concernientes a dichas autorizaciones otorgadas, incluso verificar el cumplimiento de los requisitos y las obligaciones inherentes a las mismas;
-
-XXXV. Autorizar la inscripción en el registro del despacho de mercancías de las empresas, respecto de los asuntos a que se refiere este artículo;
-
-XXXVI. Coadyuvar con la Administración General de Auditoría de Comercio Exterior en la inscripción en el registro de empresas certificadas, incluso bajo la modalidad de operador económico autorizado, así como autorizar, renovar o cancelar la certificación en materia de impuesto al valor agregado e impuesto especial sobre producción y servicios, respecto de los asuntos a que se refiere este artículo;
-
-XXXVII. Autorizar el registro para la toma de muestras de mercancías estériles, radiactivas, peligrosas o para las que se requieran de instalaciones o equipos especiales para la toma de muestras de las mismas;
-
-XXXVIII. Autorizar la inscripción en el registro de empresas transportistas de mercancías en tránsito;
-
-XXXIX. Realizar respecto de los asuntos a que se refiere este artículo, el procedimiento de inscripción en los padrones de importadores, de importadores de sectores específicos y de exportadores sectoriales, así como dejar sin efectos la suspensión del registro en dichos padrones;
-
-XL. Otorgar o cancelar las autorizaciones para que las personas y los objetos puedan ingresar a los recintos fiscales; las autorizaciones para que en la obligación del retorno de exportaciones temporales se cumpla con la introducción al país de mercancías que no hayan sido las exportadas temporalmente, en términos de la Ley Aduanera, así como las autorizaciones para la rectificación de los datos contenidos en los pedimentos, en términos de dicha Ley;
-
-XLI. Otorgar o cancelar la autorización para la importación de mercancías explosivas, inflamables, contaminantes, radiactivas, corrosivas, perecederas o de fácil descomposición y animales vivos, que se encuentren en depósito ante la aduana por única vez, cuando el importador estando obligado a inscribirse en el padrón de importadores no haya concluido su trámite de inscripción; la cancelación de la garantía de tránsito interno o internacional otorgada mediante cuenta aduanera de garantía; la importación de muestras destinadas a análisis y pruebas de laboratorio para verificar el cumplimiento de normas de carácter internacional, así como autorizar, en términos de los tratados internacionales respectivos, a los gobiernos extranjeros para efectuar el tránsito internacional de mercancías y la exención de la presentación de la garantía a que se refiere el artículo 84-A de la Ley Aduanera;
-
-XLII. Habilitar días y horas inhábiles para el despacho aduanero; autorizar los gafetes de identificación de las personas que presten servicios o que deban tener acceso a los recintos fiscales o fiscalizados, así como emitir lineamientos para regular la expedición y uso de dichos gafetes;
-
-XLIII. Ordenar en su caso, y practicar, actos de revisión, reconocimiento, verificación, visitas domiciliarias, auditorías, inspección y vigilancia, para cerciorarse del cumplimiento de las disposiciones jurídicas que regulan y gravan la entrada y salida del territorio nacional de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida, así como del cumplimiento de los requisitos y las obligaciones inherentes a las autorizaciones, concesiones, patentes e inscripciones en registros a que se refiere la Ley Aduanera y dejar sin efectos las visitas domiciliarias previstas en este artículo;
-
-XLIV. Ordenar y realizar la inspección y vigilancia permanente en el manejo, transporte o tenencia de las mercancías en los recintos fiscales o fiscalizados;
-
-XLV. Revisar los pedimentos, sus anexos y demás documentos, incluso electrónicos o digitales, así como la información contenida en la transmisión electrónica o en el aviso consolidado a que se refiere la Ley Aduanera, exigibles por los ordenamientos legales aplicables a los consignatarios, destinatarios, propietarios, poseedores o tenedores en las importaciones y los remitentes en las exportaciones, así como a las demás personas que intervengan en el despacho aduanero de las mercancías, entre otras, los agentes aduanales y representantes legales, de acuerdo a los diferentes tráficos y regímenes aduaneros;
-
-XLVI. Practicar el reconocimiento aduanero de las mercancías de comercio exterior en los recintos fiscales y fiscalizados o llevarlo a cabo a petición del contribuyente, en su domicilio, en las dependencias, bodegas, instalaciones o establecimientos que señale, cuando se satisfagan los requisitos correspondientes, así como conocer y revisar el dictamen aduanero que formulen los dictaminadores aduaneros, conforme a la Ley Aduanera; autorizar, prorrogar, modificar o cancelar el despacho de mercancías de exportación en el domicilio de los interesados;
-
-XLVII. Ordenar y practicar la verificación en cualquier parte del territorio nacional respecto de mercancías en transporte, de vehículos de procedencia extranjera en tránsito y de aeronaves y embarcaciones, para comprobar su legal importación o tenencia y estancia en el país;
-
-XLVIII. Practicar inspecciones, actos de vigilancia y verificaciones, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, derechos, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, de la determinación de la base de los impuestos generales de importación o exportación, la verificación y determinación de la clasificación arancelaria de las mercancías de procedencia extranjera, así como comprobar, de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera de los que México sea parte, el cumplimiento de obligaciones a cargo de contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos, inclusive en materia de origen, de acuerdo a las actuaciones levantadas por las oficinas consulares en términos del artículo 63 del Código Fiscal de la Federación; verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, inclusive las normas oficiales mexicanas; declarar que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del Fisco Federal; inspeccionar y vigilar los recintos fiscales y fiscalizados y, en este último caso, vigilar el cumplimiento de los requisitos y las obligaciones derivadas de la concesión o autorización otorgada para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior; verificar el domicilio que los contribuyentes declaren en el pedimento, la transmisión electrónica o en el aviso consolidado que establece la Ley Aduanera;
-
-XLIX. Verificar y supervisar los servicios autorizados que facilitan el reconocimiento aduanero empleando tecnología no intrusiva;
-
-L. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de registro de contribuyentes, para comprobar los datos que se encuentran en el registro federal de contribuyentes y realizar las inscripciones y actualizaciones de los mismos por actos de autoridad, en las materias a que se refiere el presente artículo;
-
-LI. Dar a conocer a los contribuyentes, responsables solidarios, productores, importadores, exportadores y demás obligados en materia aduanera, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus facultades de comprobación y hacer constar dichos hechos y omisiones en las actas u oficios que para tal efecto se levanten, en términos de la Ley Aduanera y demás disposiciones jurídicas aplicables;
-
-LII. Participar con otras autoridades en la prevención de ilícitos en las aduanas, recintos fiscales y fiscalizados, secciones aduaneras, garitas y puntos de revisión aduaneros y en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga o de pasajeros, autorizados para el tráfico internacional;
-
-LIII. Analizar, detectar y dar seguimiento respecto de los asuntos a que se refiere este artículo y en coordinación con las demás autoridades competentes, sobre las operaciones específicas de comercio exterior en las que se presuma la comisión de cualquier ilícito en cuanto al valor, origen, clasificación arancelaria de mercancías, evasión en el pago de contribuciones, cuotas compensatorias u otros aprovechamientos y derechos, incumplimiento de regulaciones y restricciones no arancelarias inclusive normas oficiales mexicanas e infracciones administrativas, para la debida aplicación del programa de control aduanero y de fiscalización, así como dar seguimiento a las denuncias presentadas;
-
-LIV. Ejercer las facultades de las autoridades aduaneras en materia de abandono de las mercancías y declarar, en su caso, que han pasado a propiedad del Fisco Federal, en coordinación con las autoridades competentes conforme a la legislación aduanera y demás disposiciones jurídicas aplicables;
-
-LV. Informar a las personas que presten los servicios señalados en el artículo 14 de la Ley Aduanera, respecto de las cuales se haya declarado el abandono, que no serán objeto de destino, a fin de que puedan proceder a su destrucción de conformidad con las disposiciones jurídicas aplicables;
-
-LVI. Ejercer la vigilancia y custodia de los recintos fiscales y de los demás bienes y valores depositados en ellos;
-
-LVII. Emitir opinión sobre el otorgamiento o cancelación de las autorizaciones a que se refiere el artículo 40, fracción XXXVII de este Reglamento; vigilar el cumplimiento de las obligaciones de las personas autorizadas a que se refiere esta fracción y dar a conocer a la autoridad competente las irregularidades y los hechos que impliquen la aplicación de sanciones o que puedan constituir causales de cancelación de dichas autorizaciones, así como coadyuvar en la integración de los expedientes respectivos;
-
-LVIII. Dictaminar, conforme a los lineamientos y normas científicas aplicables y a los instrumentos metodológicos y técnicos, las características, naturaleza, usos, origen y funciones de las mercancías de comercio exterior; efectuar ensayes con relación a minerales, metales y compuestos metálicos sujetos al pago de contribuciones o aprovechamientos; practicar el examen pericial de otros productos y materias primas, así como proporcionar servicios de asistencia técnica en materia de muestreo, de análisis y de ingeniería a los entes del sector público conforme a los convenios respectivos y a los particulares mediante el pago de derechos correspondiente;
-
-LIX. Establecer la naturaleza, estado, origen y demás características de las mercancías de comercio exterior, así como sugerir su clasificación arancelaria y solicitar el dictamen que se requiera al agente aduanal, mandatario aduanal, dictaminador aduanero o cualquier otro perito para ejercer las atribuciones a que se refiere esta fracción;
-
-LX. Ordenar y practicar el embargo precautorio o aseguramiento de bienes o mercancías en los casos en que haya peligro de que el obligado se ausente, se realice la enajenación u ocultamiento de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en cualquier otro caso que señalen las leyes, así como de cantidades en efectivo, en cheques nacionales o extranjeros, órdenes de pago o cualquier otro documento por cobrar o una combinación de ellos, superiores a las cantidades que señalen las disposiciones legales, cuando se omita declararlas a las autoridades aduaneras al entrar o salir del territorio nacional, conforme a lo dispuesto en la legislación aduanera, y levantarlo cuando proceda;
-
-LXI. Ordenar y practicar la retención, persecución, embargo precautorio o aseguramiento de las mercancías de comercio exterior, incluidos los vehículos, o de sus medios de transporte, en términos de la Ley Aduanera, inclusive por compromisos internacionales, requerimientos de orden público o cualquier otra regulación o restricción no arancelaria; notificar dichos actos, incluso el embargo precautorio o aseguramiento de las mercancías respecto de las cuales no se acredite su legal introducción, importación, internación, estancia o tenencia en el país, así como ordenar el levantamiento del citado embargo o aseguramiento y la entrega de las mercancías antes de la conclusión de los procedimientos iniciados, según corresponda, previa calificación y aceptación de la garantía del interés fiscal por parte de la autoridad competente, y poner a disposición de la aduana que corresponda las mercancías retenidas o embargadas para que realice su control y custodia;
-
-LXII. Determinar los impuestos al comercio exterior, derechos por servicios aduaneros y aprovechamientos; aplicar las cuotas compensatorias y determinar en cantidad líquida el monto correspondiente a cargo de contribuyentes, responsables solidarios y demás obligados, así como determinar las otras contribuciones que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, cuando ello sea consecuencia del ejercicio de las atribuciones a que se refiere este artículo y determinar los accesorios que correspondan en los supuestos antes señalados;
-
-LXIII. Determinar, conforme a la Ley Aduanera, el valor en aduana y el valor comercial de las mercancías;
-
-LXIV. Retener las mercancías de procedencia extranjera objeto de una resolución de suspensión de libre circulación emitida por la autoridad competente en materia de propiedad intelectual y ponerlas a disposición de dicha autoridad;
-
-LXV. Tramitar y resolver los procedimientos administrativos en materia aduanera que deriven del ejercicio de sus facultades de comprobación o del ejercicio de las facultades de comprobación efectuado por otras autoridades fiscales; sustanciar y resolver el procedimiento relacionado con la determinación en cantidad líquida de contribuciones y aprovechamientos omitidos, así como de las sanciones y accesorios de los mismos, en los términos que establezcan las disposiciones fiscales y aduaneras;
-
-LXVI. Entregar a los interesados las mercancías objeto de una infracción a la Ley Aduanera y demás disposiciones fiscales, cuando dichas mercancías no estén sujetas a prohibiciones o restricciones y se garantice el interés fiscal;
-
-LXVII. Transferir a la instancia competente, en términos de la legislación aplicable, los bienes embargados o asegurados en el ejercicio de sus atribuciones, que hayan pasado a propiedad del Fisco Federal o de los que pueda disponer en términos de la normativa correspondiente, así como realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la asignación, donación o destrucción de los bienes embargados cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones jurídicas aplicables;
-
-LXVIII. Evaluar y, en su caso, aceptar las garantías que se otorguen respecto de impuestos al comercio exterior, derechos por servicios aduaneros y demás contribuciones y aprovechamientos, así como sus accesorios que se causen con motivo de la entrada o salida del territorio nacional de mercancías y medios de transporte, conforme a los lineamientos que establezca la Administración General de Recaudación;
-
-LXIX. Aplicar las autorizaciones previas, franquicias, exenciones, estímulos fiscales y subsidios que sean otorgados por las autoridades competentes en la materia aduanera; constatar los requisitos y límites de las exenciones de impuestos al comercio exterior a favor de pasajeros y de menajes y resolver las solicitudes de abastecimiento de medios de transporte;
-
-LXX. Emitir opinión respecto de la procedencia del reintegro de los depósitos derivados de cuentas aduaneras efectuados por contribuyentes ante instituciones de crédito y casas de bolsa autorizadas y los rendimientos que se hayan generado en dicha cuenta;
-
-LXXI. Recaudar, directamente, por terceros o a través de las oficinas autorizadas al efecto, el importe de las contribuciones y aprovechamientos, incluyendo las cuotas compensatorias, así como los productos federales en materia aduanera;
-
-LXXII. Verificar el saldo a favor por compensar, así como determinar las cantidades compensadas indebidamente, incluida la actualización y accesorios a que haya lugar, en materia de comercio exterior;
-
-LXXIII. Integrar la información estadística sobre el comercio exterior;
-
-LXXIV. Intervenir en la recuperación en el extranjero de vehículos, aeronaves y embarcaciones nacionales o nacionalizados objeto de robo o de disposición ilícita y, en términos de las leyes del país y los convenios internacionales celebrados en esta materia; expedir las constancias que sean necesarias y proporcionar la documentación e informes de que disponga, que sean requeridos por las autoridades consulares mexicanas que formulen la solicitud respectiva; aplicar la legislación aduanera y los convenios internacionales para la devolución de los vehículos, embarcaciones o aeronaves extranjeros materia de robo o de disposición ilícita, mediante la realización de los actos de vigilancia y verificación en tránsito, verificación de mercancías en transporte, visitas domiciliarias y de revisión física en los recintos fiscales y fiscalizados respectivos; notificar a las autoridades del país de procedencia la localización de los vehículos, embarcaciones o aeronaves robados u objeto de disposición ilícita, así como resolver acerca de su devolución y del cobro de los gastos que se hubieren autorizado;
-
-LXXV. Realizar el registro, control, supervisión e integración de la contabilidad de ingresos, así como movimientos de fondos, derivados de las operaciones efectuadas en las aduanas, de conformidad con la Ley General de Contabilidad Gubernamental;
-
-LXXVI. Mantener consultas con los organismos y asociaciones representativos de los contribuyentes sobre cuestiones relevantes en materia aduanera que requieran ser simplificadas y facilitar el cumplimiento de sus obligaciones, así como analizar las propuestas formuladas por los citados organismos y asociaciones que tengan por objeto dar claridad y sencillez a la aplicación de los procedimientos administrativos en materia aduanera;
-
-LXXVII. Dar a conocer la información contenida en los pedimentos, en la transmisión electrónica o en el aviso consolidado a que se refiere la Ley Aduanera, de conformidad con las disposiciones legales aplicables;
-
-LXXVIII. Determinar la viabilidad de incorporación de nuevos sectores industriales al programa de control aduanero y de fiscalización por sector industrial, así como de aduanas exclusivas para determinadas mercancías, fracciones arancelarias y demás datos que permitan la identificación individual de las mercancías;
-
-LXXIX. Dirigir y operar la sala de servicios aduanales en aeropuertos internacionales, respecto de la entrada y salida del territorio nacional de mercancías y medios de transporte; el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida, así como la vigilancia del cumplimiento de las obligaciones respectivas, inclusive las establecidas por las disposiciones sobre recaudación, cobro coactivo e imposición de sanciones;
-
-LXXX. Tramitar y registrar las importaciones o internaciones temporales de vehículos y verificar sus salidas y retornos;
-
-LXXXI. Tramitar y registrar la toma de muestras de mercancías en depósito ante la aduana;
-
-LXXXII. Supervisar a la Unidad de Apoyo para la Inspección Fiscal y Aduanera;
-
-LXXXIII. Coordinar los programas en materia de seguridad aduanera y fungir como enlace con otras dependencias de la Administración Pública Federal y con las autoridades competentes de los gobiernos extranjeros para la adopción de medidas y la implementación de programas y proyectos que en materia de seguridad deban aplicar las autoridades aduaneras, conjuntamente con las autoridades federales, estatales o locales;
-
-LXXXIV. Resolver las consultas relacionadas con el despacho aduanero y, en materia de autorizaciones, concesiones, patentes e inscripciones en registros a que se refiere la Ley Aduanera, que no impliquen la interpretación jurídica de las disposiciones fiscales y aduaneras; emitir de oficio o a petición de parte, opinión a las unidades administrativas adscritas a esta Administración General, en los procesos y asuntos administrativos que dichas unidades lleven a cabo, así como en los demás asuntos que deriven del ejercicio de sus atribuciones;
-
-LXXXV. Extraer de conformidad con las disposiciones que expida la Administración General de Comunicaciones y Tecnologías de la Información, información de las bases de datos del Servicio de Administración Tributaria y proporcionarla a las autoridades extranjeras y nacionales competentes y a los contribuyentes respecto de las operaciones que hayan efectuado, en los casos y términos que señalen los tratados internacionales en los que México sea parte, leyes y demás ordenamientos aplicables dándole participación a la Administración General de Planeación;
-
-LXXXVI. Recopilar, integrar, registrar, procesar, analizar y evaluar datos e información que se obtenga en materia de administración de riesgo y los resultados obtenidos a través de los mecanismos, sistemas y aplicaciones utilizados en las aduanas, recintos fiscales y fiscalizados, secciones aduaneras, garitas y puntos de revisión aduaneros, así como en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga o de pasajeros, autorizados para el tráfico internacional;
-
-LXXXVII. Planear, diseñar, configurar, desarrollar, mantener, y actualizar los mecanismos, sistemas y aplicaciones, en coordinación con la Administración General de Comunicaciones y Tecnologías de la Información, que permitan reconocer, identificar, analizar y procesar operaciones de comercio exterior que pongan en riesgo la seguridad nacional o impliquen la comisión de algún ilícito, así como administrar, coordinar y dirigir su funcionamiento conforme a las disposiciones jurídicas aplicables;
-
-LXXXVIII. Administrar, en coordinación con la Administración General de Comunicaciones y Tecnologías de la Información, los servicios y las soluciones en materia de comunicaciones y tecnologías de la información que den soporte a las funciones operativas y administrativas de las aduanas para la sistematización de los procesos y servicios que éstas realizan;
-
-LXXXIX. Fungir como autoridad competente en la aplicación de los acuerdos, convenios o tratados de los que México sea parte en materia aduanera o de intercambio de información en dicha materia; participar en la celebración de convenios de intercambio de información a que se refiere esta fracción con autoridades de otros países, así como resolver los problemas específicos y consultas de aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos respecto de las materias a que se refiere este artículo y tomando en cuenta la normativa emitida por la Administración General Jurídica;
-
-XC. Asignar números de autorización a los importadores y exportadores que promuevan el despacho aduanero de mercancías sin la intervención de agente aduanal, así como acreditar a sus representantes legales; iniciar, instruir y resolver la revocación de la autorización otorgada a dichos importadores y exportadores y de la acreditación de sus representantes legales, así como tramitar, resolver y notificar los actos y resoluciones concernientes a los asuntos relacionados en esta fracción;
-
-XCI. Autorizar que el despacho de mercancías por las aduanas nacionales, pueda hacerse conjuntamente con las oficinas aduaneras de otros países, y
-
-XCII. Coadyuvar con la Administración General de Recaudación en la elaboración del informe que señale si se encuentran pagados o garantizados los créditos fiscales para atender los requerimientos de la Procuraduría Fiscal de la Federación o de la autoridad judicial en los procesos por delitos fiscales.
-
-Tratándose de las entidades y sujetos a que se refieren los artículos 28, apartado B y 30, apartado B de este Reglamento, la Administración General de Aduanas, sus unidades administrativas centrales y las aduanas, podrán ejercer las atribuciones contenidas en este artículo, sin perjuicio de las atribuciones que les correspondan a la Administración General de Grandes Contribuyentes, a la Administración General de Hidrocarburos o a las unidades administrativas adscritas a las mismas, de conformidad con los artículos 28, 29, 30 y 31 de este Reglamento.
-
-La Administración General de Aduanas estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos siguientes:
-
-1. Administrador Central de Operación Aduanera:
-
-a) Administrador de Operación Aduanera “1”;
-
-b) Administrador de Operación Aduanera “2”;
-
-c) Administrador de Operación Aduanera “3”;
-
-d) Administrador de Operación Aduanera “4”;
-
-e) Administrador de Operación Aduanera “5”;
-
-f) Administrador de Operación Aduanera “6”, y
-
-g) Administrador de Operación Aduanera “7”;
-
-2. Administrador Central de Apoyo Jurídico de Aduanas:
-
-a) Administrador de Apoyo Jurídico de Aduanas “1”;
-
-b) Administrador de Apoyo Jurídico de Aduanas “2”;
-
-c) Administrador de Apoyo Jurídico de Aduanas “3”;
-
-d) Administrador de Apoyo Jurídico de Aduanas “4”;
-
-e) Administrador de Apoyo Jurídico de Aduanas “5”;
-
-f) Administrador de Apoyo Jurídico de Aduanas “6”;
-
-g) Administrador de Apoyo Jurídico de Aduanas “7”;
-
-h) Administrador de Apoyo Jurídico de Aduanas “8”;
-
-i) Administrador de Apoyo Jurídico de Aduanas “9”;
-
-j) Administrador de Apoyo Jurídico de Aduanas “10”, y
-
-k) Administrador de Apoyo Jurídico de Aduanas “11”;
-
-3. Administrador Central de Investigación Aduanera:
-
-a) Administrador de Investigación Aduanera “1”;
-
-b) Administrador de Investigación Aduanera “2”;
-
-c) Administrador de Investigación Aduanera “3”;
-
-d) Administrador de Investigación Aduanera “4”;
-
-e) Administrador de Investigación Aduanera “5”, y
-
-f) Administrador de Investigación Aduanera “6”;
-
-4. Administrador Central de Atención Aduanera y Asuntos Internacionales:
-
-a) Administrador de Atención Aduanera y Asuntos Internacionales “1”;
-
-b) Administrador de Atención Aduanera y Asuntos Internacionales “2”, y
-
-c) Administrador de Atención Aduanera y Asuntos Internacionales “3”;
-
-5. Administrador Central de Modernización Aduanera:
-
-a) Administrador de Modernización Aduanera “1”;
-
-b) Administrador de Modernización Aduanera “2”;
-
-c) Administrador de Modernización Aduanera “3”;
-
-d) Administrador de Modernización Aduanera “4”;
-
-e) Administrador de Modernización Aduanera “5”;
-
-f) Administrador de Modernización Aduanera “6”;
-
-g) Administrador de Modernización Aduanera “7”, y
-
-h) Administrador de Modernización Aduanera “8”;
-
-6. Administrador Central de Equipamiento e Infraestructura Aduanera:
-
-a) Administrador de Equipamiento e Infraestructura Aduanera “1”;
-
-b) Administrador de Equipamiento e Infraestructura Aduanera “2”;
-
-c) Administrador de Equipamiento e Infraestructura Aduanera “3”;
-
-d) Administrador de Equipamiento e Infraestructura Aduanera “4”;
-
-e) Administrador de Equipamiento e Infraestructura Aduanera “5”;
-
-f) Administrador de Equipamiento e Infraestructura Aduanera “6”, y
-
-g) Administrador de Equipamiento e Infraestructura Aduanera “7”;
-
-7. Administrador Central de Planeación Aduanera:
-
-a) Administrador de Planeación Aduanera “1”, y
-
-b) Administrador de Planeación Aduanera “2”;
-
-8. Administrador Central de Procesamiento Electrónico de Datos Aduaneros:
-
-a) Administrador de Procesamiento Electrónico de Datos Aduaneros “1”, y
-
-b) Administrador de Procesamiento Electrónico de Datos Aduaneros “2”, y
-
-9. Administradores de las Aduanas:
-
-a) Subadministradores de las Aduanas.
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 ###### Artículo 20.
 
-Compete a las siguientes unidades administrativas de la Administración General de Aduanas ejercer las atribuciones que a continuación se señalan:
-
-A. A la Administración Central de Operación Aduanera, las siguientes:
-
-I. Las señaladas en las fracciones I, IV, XL, XLI, XLII salvo la emisión de los lineamientos para regular la expedición y uso de gafetes, XLIII, XLIV, XLV, XLVII, XLVIII, LI, LIV, LV, LVII, LXI, LXII, LXIII, LXV, LXVI, LXVII, LXVIII, LXXVI, LXXIX, LXXX, LXXXI y LXXXIII salvo fungir como enlace con gobiernos extranjeros, del artículo 19 de este Reglamento;
-
-II. Supervisar el cumplimiento de las estrategias y procedimientos que competan a las aduanas; observar las irregularidades en su actuación e instruir la debida aplicación de las disposiciones normativas, así como proponer mejoras en la operación aduanera;
-
-III. Entrevistar y aplicar, en coordinación con las administraciones generales de Recursos y Servicios y de Evaluación, las pruebas que se requieran a los candidatos a servidores públicos adscritos a las aduanas, salvo las que les competan directamente a dichas administraciones generales;
-
-IV. Participar con la Administración General de Recursos y Servicios, en el diseño, organización e instrumentación de los programas de capacitación para el personal adscrito a las aduanas;
-
-V. Participar, en coordinación con las unidades administrativas adscritas a la Administración General de Aduanas, en los asuntos relativos a la operación aduanera que no impliquen la interpretación jurídica de las disposiciones fiscales y aduaneras, y
-
-VI. Auxiliar al Administrador General de Aduanas o al Administrador Central de Equipamiento e Infraestructura Aduanera, según corresponda, en el ejercicio de las facultades previstas en las fracciones V, VII, VIII, X, XI, XII y XIII del artículo 19 de este Reglamento;
-
-B. A la Administración Central de Apoyo Jurídico de Aduanas, las siguientes:
-
-I. Las señaladas en las fracciones I, IV, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXVII, XXXIX, XLIII, XLV, XLVIII, LI, LVIII, LIX, LXX, LXXVI, LXXXIV, LXXXIX, XC, XCI y XCII del artículo 19 de este Reglamento;
-
-II. Emitir opinión jurídica respecto de los acuerdos, bases de colaboración y convenios en los que la Administración General de Aduanas y sus unidades administrativas actúen como autoridad aduanera;
-
-III. Coadyuvar con la Administración General Jurídica en el análisis de los proyectos de iniciativas de leyes, decretos, acuerdos, resoluciones administrativas y disposiciones de carácter general, respecto de las materias relacionadas con la competencia de la Administración General de Aduanas, así como proponer a la Administración General Jurídica la emisión o modificación de los referidos proyectos; solicitar a las unidades administrativas de la Administración General de Aduanas sus propuestas e información necesaria para efectos de la presente fracción y fungir como enlace de éstas ante la Administración General Jurídica;
-
-IV. Orientar y asistir legalmente a las unidades administrativas de la Administración General de Aduanas, a fin de que en los procedimientos administrativos que dichas unidades lleven a cabo se cumplan las formalidades previstas en las disposiciones que los regulan; resolver las consultas que formulen dichas unidades administrativas, así como emitir opinión a los formatos que deben utilizar las unidades administrativas de la Administración General de Aduanas y las aduanas en el ejercicio de sus atribuciones, tomando en cuenta las disposiciones que para tales efectos haya emitido la Administración General Jurídica;
-
-V. Emitir opinión respecto de los lineamientos, directrices o procedimientos que las unidades administrativas de la Administración General de Aduanas deberán seguir en la aplicación de disposiciones jurídicas;
-
-VI. Fungir como enlace de la Administración General de Aduanas en la atención de los requerimientos de información de la Procuraduría de la Defensa del Contribuyente, vinculados con quejas o reclamaciones en las que sea señalada como responsable alguna de las unidades administrativas adscritas a dicha Administración General; propuestas de modificación a las disposiciones o estrategias internas cuando la materia de las mismas resulte de su competencia, así como participar en las reuniones en las que sea convocado el Servicio de Administración Tributaria para la atención de los asuntos que correspondan a la Administración General de Aduanas, y
-
-VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y aduaneras, decretos, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Aduanas;
-
-C. A la Administración Central de Investigación Aduanera, las siguientes:
-
-I. Las señaladas en las fracciones III, IV, VI, XXI, XLIII, XLIV, XLV, XLVII, XLVIII, L, LI, LII, LIII, LIV, LV, LVI, LX, LXI, LXII, LXIII, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXV, LXXVII y LXXVIII del artículo 19 de este Reglamento;
-
-II. Actuar como Unidad de Apoyo para la Inspección Fiscal y Aduanera, y
-
-III. Prestar servicios de seguridad y protección a las instalaciones, edificios y servidores públicos de la Secretaría de Hacienda y Crédito Público y del Servicio de Administración Tributaria que mediante acuerdo determine el Presidente de la Junta de Gobierno de dicho órgano administrativo desconcentrado;
-
-D. A la Administración Central de Atención Aduanera y Asuntos Internacionales, las señaladas en las fracciones II, III, IV, XXXV, XXXVI, XLIII, XLVIII, LI, LXXIV, LXXVI, LXXXIII respecto a fungir como enlace con gobiernos extranjeros en la adopción e implantación de las medidas y programas a que se refiere dicha fracción y LXXXIX del artículo 19 de este Reglamento;
-
-E. A la Administración Central de Modernización Aduanera, las siguientes:
-
-I. Las señaladas en las fracciones IV, XXV, XXXVIII, XLII salvo la emisión de los lineamientos para regular la expedición y uso de gafetes, XLIII, XLVIII, XLIX, LI, LVII, LXXIII, LXXVII, LXXXV, LXXXVI, LXXXVII y LXXXVIII del artículo 19 de este Reglamento;
-
-II. Analizar, formular y distribuir a la unidad administrativa competente del Servicio de Administración Tributaria, la información estadística acerca de las actividades desempeñadas por las unidades administrativas de la Administración General de Aduanas, y
-
-III. Coordinar el estudio, desarrollo y formulación de propuestas de indicadores de gestión y desempeño que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de las unidades administrativas de la Administración General de Aduanas, así como supervisar y evaluar su cumplimiento;
-
-F. A la Administración Central de Equipamiento e Infraestructura Aduanera, las señaladas en las fracciones IV, X, XI, XII, XIII, XIV, XV, XVI, XVII, XLIII, XLVIII y LI del artículo 19 de este Reglamento;
-
-G. A la Administración Central de Planeación Aduanera, las siguientes:
-
-I. Las señaladas en las fracciones IV, LXXXVI y LXXXVIII del artículo 19 de este Reglamento;
-
-II. Proponer al Administrador General de Aduanas los modelos de riesgo tributarios y aduaneros, excepto los relativos al combate a la corrupción, que implementarán las unidades administrativas de la Administración General de Aduanas y coordinar a éstas en el desarrollo de los mismos;
-
-III. Evaluar la aplicación de los modelos de riesgo desarrollados por las unidades administrativas de la Administración General de Aduanas; calificar la calidad y eficiencia de los mismos y dar a conocer sus resultados;
-
-IV. Elaborar en coordinación con las unidades administrativas de la Administración General de Aduanas la planeación presupuestaria de los proyectos estratégicos de las aduanas;
-
-V. Coordinar a las unidades administrativas de la Administración General de Aduanas para la implementación de las acciones que derivan de la planeación estratégica y el programa anual de mejora continua del Servicio de Administración Tributaria;
-
-VI. Dar seguimiento a la implementación y operación de los proyectos estratégicos en las aduanas, y
-
-VII. Elaborar propuestas a las autoridades competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público con la información necesaria que permita la evaluación y diseño de la política aduanera, y
-
-H. A la Administración Central de Procesamiento Electrónico de Datos Aduaneros, las señaladas en las fracciones III, IV, VI, LII y LIII del artículo 19 de este Reglamento.
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 ###### Artículo 21.
 
-Compete a las aduanas, subadministraciones de las aduanas y verificadores incluidos los técnicos adscritos a las aduanas, dentro de la circunscripción territorial que les corresponda, ejercer las atribuciones que a continuación se señalan:
-
-A. A las aduanas y a las subadministraciones de las aduanas, conforme a lo siguiente:
-
-I. Las señaladas en las fracciones III, IV, XXI, XXIX, XL, XLII salvo la emisión de los lineamientos para regular la expedición y uso de gafetes, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVIII, LIX, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXXI, LXXII, LXXIV, LXXVI, LXXIX, LXXX, LXXXI y LXXXIII del artículo 19 de este Reglamento;
-
-II. Participar con otras autoridades en la prevención de ilícitos en las aduanas, recintos fiscales y fiscalizados, secciones aduaneras, garitas y puntos de revisión aduaneros y en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga o de pasajeros, autorizados para el tráfico internacional, y
-
-III. Coadyuvar en la vigilancia del cumplimiento de obligaciones de las personas autorizadas en términos del segundo párrafo del artículo 16 de la Ley Aduanera y de los dictaminadores aduaneros, así como en la integración del expediente respectivo.
-
-Corresponde a las aduanas autorizar que los servicios a que se refiere la Ley Aduanera, relativos a las maniobras de carga, descarga, transbordo y almacenamiento de las mercancías, el embarque o desembarque de pasajeros y la revisión de su equipaje, así como los demás actos del despacho aduanero, sean prestados por el personal aduanero en lugar distinto del autorizado o en día u hora inhábil, así como modificar, prorrogar o cancelar dicha autorización, y
-
-B. A los verificadores, incluidos los técnicos, adscritos a las aduanas, conforme a lo siguiente:
-
-I. Las facultades establecidas en las fracciones XLV, XLVI, XLVII, XLVIII, XLIX, LI, LIX, LX, LXI, LXII, LXIII, LXIV, LXVII, LXIX, LXXI, LXXIX y LXXX del artículo 19 de este Reglamento, y
-
-II. Practicar el reconocimiento aduanero de las mercancías, recibir de los particulares, responsables solidarios y terceros con ellos relacionados catálogos y demás elementos que le permitan identificar las mercancías, a fin de verificar el cumplimiento de las disposiciones jurídicas en materia aduanera y llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones jurídicas que regulan y gravan la entrada y salida del territorio nacional de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida.
-
-Cada Aduana estará a cargo de un Administrador del que dependerán los subadministradores de las aduanas, jefes de sala, jefes de departamento, jefes de sección, verificadores, verificadores técnicos, notificadores, oficiales de comercio exterior, visitadores, el personal al servicio de la Unidad de Apoyo para la Inspección Fiscal y Aduanera que ésta determine y el personal que las necesidades del servicio requiera.
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 ### Capítulo V. De la Administración General de Auditoría Fiscal Federal
 
@@ -1607,7 +1151,11 @@ XXI. Solicitar a la Administración General de Recaudación la publicación, a t
 
 XXII. Cancelar, revocar o dejar sin efectos los certificados de sello digital de conformidad con el Código Fiscal de la Federación, así como restringir el uso del certificado de la firma electrónica avanzada o cualquier otro mecanismo permitido en las disposiciones jurídicas aplicables, y resolver las aclaraciones o solicitudes que presenten los contribuyentes para subsanar o desvirtuar las irregularidades detectadas en el ejercicio de las atribuciones a que se refiere este artículo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 XXIII. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones, verificaciones de origen y demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de tales disposiciones por los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, incluyendo las que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, cuotas compensatorias, regulaciones y restricciones no arancelarias, inclusive normas oficiales mexicanas, y para comprobar de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera de los que México sea parte, el cumplimiento de obligaciones a cargo de los contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos, inclusive en materia de origen; comunicar a los contribuyentes la sustitución de la autoridad que continúe con el procedimiento instaurado para la comprobación de las obligaciones fiscales y reponer dicho procedimiento de conformidad con el Código Fiscal de la Federación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 XXIV. Ordenar y practicar visitas domiciliarias, inspecciones, actos de vigilancia y verificaciones, requerir informes y llevar a cabo cualquier otro acto que establezcan las disposiciones fiscales y aduaneras respecto de los asuntos a que se refiere el presente artículo y con el propósito de verificar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados, relativas a la propiedad intelectual e industrial; detectar, analizar y dar seguimiento a los casos de impresión, reproducción o comercialización de documentos públicos y privados, así como la venta de combustibles, sin la autorización que establezcan las disposiciones jurídicas aplicables, cuando tengan repercusiones en el cumplimiento de las obligaciones fiscales o aduaneras de los contribuyentes, responsables solidarios y demás obligados, así como analizar y dar seguimiento a las denuncias que le sean presentadas;
 
@@ -1623,7 +1171,7 @@ XXIX. Realizar de conformidad con las políticas, procedimientos y criterios que
 
 XXX. Determinar los impuestos al comercio exterior, derechos por servicios aduaneros, aprovechamientos; aplicar las cuotas compensatorias y determinar en cantidad líquida el monto correspondiente a cargo de contribuyentes, responsables solidarios y demás obligados, así como determinar las otras contribuciones que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, derivado del ejercicio de atribuciones a que se refiere este artículo y determinar los accesorios que correspondan en los supuestos antes señalados;
 
-XXXI. Habilitar instalaciones como recintos fiscales para uso de la autoridad fiscal y aduanera, así como declarar el abandono de las mercancías que se encuentren en dichos recintos fiscales bajo su responsabilidad;
+XXXI. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 XXXII. Vigilar la destrucción o donación de mercancías, incluyendo las importadas temporalmente y los bienes de activo fijo;
 
@@ -1805,7 +1353,9 @@ V. Emitir opinión respecto de los lineamientos, directrices o procedimientos qu
 
 VI. Fungir como enlace de la Administración General de Auditoría Fiscal Federal en la atención de los requerimientos de información de la Procuraduría de la Defensa del Contribuyente, vinculados con quejas o reclamaciones en las que sea señalada como responsable alguna de las unidades administrativas adscritas a dicha Administración General y en las propuestas de modificación a las disposiciones o estrategias internas cuando la materia de las mismas resulte de su competencia, así como coadyuvar en la suscripción de acuerdos conclusivos que lleven a cabo la referida Administración General y sus unidades administrativas y participar en las reuniones en las que sea convocado el Servicio de Administración Tributaria derivadas de la atención de los asuntos que correspondan a la Administración General de Auditoría Fiscal Federal, y
 
-VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y aduaneras, decretos, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Auditoría Fiscal Federal, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y de comercio exterior, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Auditoría Fiscal Federal, y
 
 G. A la Administración Central de Devoluciones y Compensaciones y a las unidades administrativas adscritas a la misma, conforme a lo siguiente:
 
@@ -1835,35 +1385,53 @@ Las administraciones desconcentradas de auditoría fiscal estarán a cargo de un
 
 Compete a la Administración General de Auditoría de Comercio Exterior:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 I. Participar con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público, en el estudio y elaboración de propuestas de políticas y programas relativos al desarrollo de la franja y región fronteriza del país, al fomento de las industrias de exportación y regímenes aduaneros; intervenir en el estudio y formulación de los proyectos de aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior en los que las unidades administrativas de la Secretaría de Hacienda y Crédito Público participen con otras autoridades competentes, así como emitir opinión sobre los precios estimados que fije dicha Secretaría, respecto de las mercancías de comercio exterior que sean objeto de subvaluación o sobrevaloración;
 
-II. Planear, organizar, establecer, dirigir y controlar estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas relacionadas con el comercio exterior y participar con otras autoridades en la prevención de ilícitos en las aduanas, recintos fiscales y fiscalizados, secciones aduaneras, garitas y puntos de revisión aduaneros y en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga o de pasajeros, autorizados para el tráfico internacional, así como en cualquier otra parte del territorio nacional;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-III. Colaborar y coordinarse con las demás unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, las dependencias y entidades de la Administración Pública Federal y las autoridades de las entidades federativas y municipios, de conformidad con la legislación aduanera y demás disposiciones jurídicas aplicables sobre la aplicación de las medidas de seguridad y control que deben realizarse, tanto en aeropuertos, puertos marítimos, terminales ferroviarias o de autotransporte de carga y pasajeros y cruces fronterizos autorizados para el tráfico internacional, como en los demás lugares del territorio nacional en los que pueda ejercer sus atribuciones, así como establecer las acciones de coordinación con las dependencias y entidades de la Administración Pública Federal que lleven a cabo sus funciones en dichos lugares;
+II. Planear, organizar, establecer, dirigir y controlar estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas relacionadas con el comercio exterior y participar con otras autoridades en la prevención de ilícitos;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+III. Colaborar y coordinarse con las demás unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, las dependencias y entidades de la Administración Pública Federal y las autoridades de las entidades federativas y municipios, de conformidad con las disposiciones jurídicas aplicables sobre la aplicación de las medidas de seguridad y control que deben realizarse en el territorio nacional en los que pueda ejercer sus atribuciones, así como establecer las acciones de coordinación con las dependencias y entidades de la Administración Pública Federal que lleven a cabo sus funciones en dichos lugares;
 
 IV. Mantener consultas con los organismos y asociaciones representativos de los contribuyentes sobre cuestiones relevantes en materia de comercio exterior que requieran ser simplificadas y facilitar el cumplimiento de sus obligaciones, así como analizar las propuestas formuladas por dichos organismos y asociaciones;
 
-V. Proponer a la unidad administrativa competente del Servicio de Administración Tributaria, la incorporación de nuevos sectores industriales al programa de control aduanero y de fiscalización por sector industrial y de aduanas exclusivas para determinadas mercancías, fracciones arancelarias y demás datos que permitan la identificación individual de las mercancías, así como instrumentar conjuntamente con dicha unidad administrativa, los mecanismos para la realización de proyectos especiales por sector de contribuyentes, responsables solidarios, productores, importadores, exportadores y demás obligados;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-VI. Coadyuvar con la Administración General de Aduanas a la integración de la información estadística en materia de comercio exterior;
+V. Proponer a la Agencia Nacional de Aduanas de México, la incorporación de nuevos sectores industriales al programa de control aduanero y de fiscalización por sector industrial y de aduanas exclusivas para determinadas mercancías, fracciones arancelarias y demás datos que permitan la identificación individual de las mercancías, así como instrumentar conjuntamente con dicho órgano administrativo desconcentrado, los mecanismos para la realización de proyectos especiales por sector de contribuyentes, responsables solidarios, productores, importadores, exportadores y demás obligados;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VI. Coadyuvar con la Agencia Nacional de Aduanas de México en la integración de la información estadística en materia de comercio exterior;
 
 VII. Dar a conocer la información contenida en los pedimentos, en la transmisión electrónica y en el aviso consolidado a que se refiere la Ley Aduanera de conformidad con las disposiciones jurídicas aplicables, respecto de los asuntos a que se refiere el presente artículo;
 
-VIII. Analizar, detectar y dar seguimiento respecto de los asuntos a que se refiere el presente artículo y en coordinación con las demás autoridades competentes, sobre las operaciones específicas de comercio exterior en las que se presuma la comisión de cualquier ilícito en cuanto al valor, origen, clasificación arancelaria de mercancías, evasión en el pago de contribuciones, cuotas compensatorias u otros aprovechamientos, derechos, incumplimiento de regulaciones y restricciones no arancelarias inclusive normas oficiales mexicanas, infracciones administrativas e incumplimiento de las obligaciones derivadas de la concesión o autorización de los recintos fiscalizados para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior y de los recintos fiscalizados estratégicos, así como investigar y dar seguimiento a las denuncias presentadas;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VIII. Analizar, detectar y dar seguimiento respecto de los asuntos a que se refiere el presente artículo y en coordinación con las demás autoridades competentes, sobre las operaciones específicas de comercio exterior en las que se presuma la comisión de cualquier ilícito en cuanto al valor, origen, clasificación arancelaria de mercancías, evasión en el pago de contribuciones, cuotas compensatorias u otros aprovechamientos, derechos, incumplimiento de regulaciones y restricciones no arancelarias inclusive normas oficiales mexicanas, infracciones administrativas, así como investigar y dar seguimiento a las denuncias presentadas;
 
 IX. Solicitar de los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos, para planear y programar sus actos de fiscalización;
 
-X. Establecer los lineamientos y directrices que deben seguir las unidades administrativas que le sean adscritas, en materia de normas de operación y comprobación del cumplimiento de las obligaciones fiscales y aduaneras, embargo precautorio de mercancías respecto de las cuales no se acredite la legal importación, tenencia o estancia en el país, procedimientos aduaneros que deriven del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras, así como en materia de impuestos, derechos, aprovechamientos y sus accesorios de carácter federal y respecto de la verificación del cumplimiento de las regulaciones y restricciones no arancelarias, inclusive en materia de normas oficiales mexicanas;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+X. Establecer los lineamientos y directrices que deben seguir las unidades administrativas que le sean adscritas, en materia de normas de operación y comprobación del cumplimiento de las obligaciones fiscales, aduaneras y de comercio exterior, embargo precautorio de mercancías respecto de las cuales no se acredite la legal importación, tenencia o estancia en el país, procedimientos aduaneros que deriven del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales, aduaneras y de comercio exterior, así como en materia de impuestos, derechos, aprovechamientos y sus accesorios de carácter federal y respecto de la verificación del cumplimiento de las regulaciones y restricciones no arancelarias, inclusive en materia de normas oficiales mexicanas;
 
 XI. Requerir a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, así como a contadores públicos inscritos que hayan formulado dictámenes para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos, instrumentos e informes y, tratándose de dichos contadores, para que exhiban sus papeles de trabajo;
 
 XII. Revisar los pedimentos, sus anexos y demás documentos, incluso electrónicos o digitales, así como la información contenida en la transmisión electrónica o en el aviso consolidado a que se refiere la Ley Aduanera, exigibles por los ordenamientos legales aplicables a los consignatarios, destinatarios, propietarios, poseedores o tenedores, en las importaciones y los remitentes en las exportaciones, así como a las demás personas que intervengan en el despacho aduanero de las mercancías, entre otras, los agentes aduanales y representantes legales, de acuerdo a los diferentes tráficos y regímenes aduaneros;
 
-XIII. Ordenar y practicar actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, para proporcionarlos a las autoridades de los países con los que se tengan celebrados convenios o tratados en materia fiscal o aduanera, u otros que contengan disposiciones sobre dichas materias, así como solicitar a las autoridades de gobiernos extranjeros que de conformidad con los tratados y demás instrumentos internacionales aplicables, ordenen y practiquen en su territorio las visitas domiciliarias, auditorías, inspecciones, verificaciones, incluso las relativas a la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías y los demás actos que establezcan las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XIII. Ordenar y practicar actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, para proporcionarlos a las autoridades de los países con los que se tengan celebrados convenios, tratados y demás instrumentos aplicables en materia fiscal y de comercio exterior, así como solicitar a las autoridades de gobiernos extranjeros que de conformidad con los tratados y demás instrumentos internacionales aplicables, ordenen y practiquen en su territorio las visitas domiciliarias, auditorías, inspecciones, verificaciones, incluso las relativas a la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías y los demás actos que establezcan las disposiciones jurídicas aplicables;
 
 XIV. Transferir a la instancia competente, en términos de la legislación aplicable, los bienes embargados o asegurados en el ejercicio de sus atribuciones que hayan pasado a propiedad del Fisco Federal o de los que pueda disponer conforme a la normativa correspondiente;
 
-XV. Solicitar a la Administración General de Aduanas, cuando así se requiera para el ejercicio de sus atribuciones, el dictamen a que se refiere la fracción LVIII del artículo 19 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XV. Solicitar, a la Agencia Nacional de Aduanas de México, cuando así se requiera para el ejercicio de sus atribuciones, el dictamen que se emita conforme a los lineamientos y normas científicas aplicables y a los instrumentos metodológicos y técnicos, las características, naturaleza, usos, origen y funciones de las mercancías de comercio exterior, así como ensayos con relación a minerales, metales y compuestos metálicos sujetos al pago de contribuciones o aprovechamientos; solicitar que se practique el examen pericial de otros productos y materias primas, así como que se proporcionen servicios de asistencia técnica en materia de muestreo, de análisis y de ingeniería a los entes del sector público conforme a los convenios respectivos y a los particulares mediante el pago de derechos correspondiente;
 
 XVI. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, para comprobar el cumplimiento de sus obligaciones fiscales en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y accesorios de carácter federal respecto de los asuntos a que se refiere el presente artículo;
 
@@ -1873,7 +1441,9 @@ XVIII. Llevar a cabo todos los actos y procedimientos previstos en el Código Fi
 
 XIX. Obtener la información, documentación o pruebas necesarias para que las autoridades competentes formulen al Ministerio Público, la denuncia, querella o declaratoria de que el Fisco Federal haya sufrido o pueda sufrir perjuicio, así como intercambiar información con otras autoridades fiscales;
 
-XX. Estudiar, analizar e investigar, en los asuntos a que se refiere el presente artículo y en coordinación con la Administración General de Planeación, conductas vinculadas con el contrabando de mercancías, así como proponer a la Administración General de Aduanas estrategias y alternativas tendientes a combatir dichas conductas;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XX. Estudiar, analizar e investigar, en los asuntos a que se refiere el presente artículo y en coordinación con la Administración General de Planeación, conductas vinculadas con el contrabando de mercancías, así como en coordinación con la Agencia Nacional de Aduanas de México establecer e implementar estrategias y alternativas tendientes a combatir dichas conductas;
 
 XXI. Solicitar a la Administración General de Recaudación la publicación, a través de la página de Internet del Servicio de Administración Tributaria, del nombre o denominación o razón social y la clave del registro federal de contribuyentes de aquellos sujetos que se ubiquen en alguno de los supuestos establecidos en el artículo 69 del Código Fiscal de la Federación, así como de los contribuyentes a los que se les hubiera condonado algún crédito fiscal y los montos respectivos, conforme a lo previsto en la Ley General de Transparencia y Acceso a la Información Pública;
 
@@ -1885,9 +1455,11 @@ XXIV. Verificar, que las autoridades fiscales de las entidades federativas ejerz
 
 XXV. Proponer, en coordinación con la Administración General de Recursos y Servicios y las demás unidades administrativas del Servicio de Administración Tributaria competentes, las acciones a desarrollar que impliquen la aplicación de los recursos de los fideicomisos públicos en los asuntos a que se refiere este artículo;
 
-XXVI. Practicar revisiones a los contadores públicos inscritos ante la autoridad fiscal que hayan formulado dictámenes para efectos fiscales y, en su caso, requerirlos para que exhiban y proporcionen la contabilidad, avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes que deban presentarse o conservarse, los catálogos y demás elementos que le permitan identificar las mercancías, los títulos de crédito y demás documentos mercantiles negociables utilizados por los importadores y exportadores en las operaciones de comercio exterior y los originales para el cotejo de las copias que se acompañen a la documentación relacionada con las operaciones de comercio exterior, así como citarlos para que exhiban sus papeles de trabajo; emitir los oficios de irregularidades y el de conclusión de la revisión, y revisar los dictámenes que se formulan para efectos aduaneros;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XXVII. Solicitar a la Tesorería de la Federación el reintegro de los depósitos derivados de cuentas aduaneras efectuados por contribuyentes ante instituciones de crédito y casas de bolsa autorizadas y los rendimientos que se hayan generado en dichas cuentas;
+XXVI. Practicar revisiones a los contadores públicos inscritos ante la autoridad fiscal que hayan formulado dictámenes para efectos fiscales y, en su caso, requerirlos para que exhiban y proporcionen la contabilidad, avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes que deban presentarse o conservarse, los catálogos y demás elementos que le permitan identificar las mercancías, los títulos de crédito y demás documentos mercantiles negociables utilizados en las operaciones de comercio exterior y los originales para el cotejo de las copias que se acompañen a la documentación relacionada con las operaciones de comercio exterior, así como citarlos para que exhiban sus papeles de trabajo; emitir los oficios de irregularidades y el de conclusión de la revisión, y revisar los dictámenes que se formulan para efectos aduaneros;
+
+XXVII. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 XXVIII. Coadyuvar con la Administración General de Recaudación en la elaboración del informe que señale si se encuentran pagados o garantizados los créditos fiscales, a fin de atender los requerimientos de la Procuraduría Fiscal de la Federación o de la autoridad judicial en los procesos por delitos fiscales;
 
@@ -1903,17 +1475,23 @@ XXXIII. Solicitar a los contribuyentes, responsables solidarios o terceros con e
 
 XXXIV. Determinar y liquidar a los contribuyentes, responsables solidarios y demás obligados, las diferencias por errores aritméticos derivados de las solicitudes de devolución o de las compensaciones realizadas por concepto de las operaciones de comercio exterior que realicen;
 
-XXXV. Fungir como enlace entre el Servicio de Administración Tributaria y las unidades administrativas de la Secretaría de Relaciones Exteriores, estados extranjeros y organismos internacionales, en materia aduanera y de comercio exterior;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XXXVI. Otorgar, modificar, renovar, prorrogar, suspender o cancelar, según corresponda, las autorizaciones relacionadas con la importación, exportación temporal y retorno de mercancías; retorno seguro de vehículos de procedencia extranjera; reexpedición y traslado de mercancías importadas a la franja o región fronteriza al resto del territorio nacional; reexpedición y traslado de mercancías importadas al resto del territorio nacional a la franja y región fronteriza; la rectificación de pedimentos; las de donación, destrucción o el cambio de régimen de mercancías importadas temporalmente, así como la importación definitiva de mercancías destinadas a la seguridad nacional;
+XXXV. Fungir como enlace entre el Servicio de Administración Tributaria y las unidades administrativas de la Secretaría de Relaciones Exteriores, estados extranjeros y organismos internacionales, en materia de comercio exterior;
+
+XXXVI. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 XXXVII. Resolver las consultas relacionadas con la confirmación de validez de la regularización de vehículos de procedencia extranjera y corrección de constancias de regularización de dichos vehículos;
 
-XXXVIII. Participar, en coordinación con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, en las negociaciones de convenios y tratados internacionales en materia aduanera y comercio exterior;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXXVIII. Participar, en coordinación con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, en las negociaciones de convenios y tratados internacionales en materia de comercio exterior;
 
 XXXIX. Mantener comunicación y colaborar con las autoridades fiscales, aduaneras o de comercio exterior de otros países, así como asistir, en la materia de comercio exterior, a los servidores públicos del Servicio de Administración Tributaria en sus relaciones con dichas autoridades;
 
-XL. Fungir como autoridad competente en la aplicación de los acuerdos, convenios o tratados de los que México sea parte en materia aduanera o de intercambio de información en dicha materia; participar en la celebración de convenios de intercambio de información a que se refiere esta fracción con autoridades de otros países, así como resolver los problemas específicos y consultas de aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos respecto de las materias a que se refiere este artículo y tomando en cuenta la normativa emitida por la Administración General Jurídica;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XL. Fungir como autoridad competente en la aplicación de los acuerdos, convenios, tratados y demás instrumentos internacionales aplicables de los que México sea parte; participar en la celebración de convenios de intercambio de información a que se refiere esta fracción con autoridades de otros países, así como resolver los problemas específicos y consultas de aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos respecto de las materias a que se refiere este artículo y tomando en cuenta la normativa emitida por la Administración General Jurídica;
 
 XLI. Emitir a la Tesorería de la Federación, a petición de la autoridad competente que determinó la procedencia, monto y cuenta bancaria para el depósito respectivo, las órdenes de pago a efecto de que se realice la devolución a los particulares que deba efectuarse por la Federación, de conformidad con lo establecido en la Ley del Servicio de Tesorería de la Federación y su Reglamento, respecto de los asuntos a que se refiere el presente artículo;
 
@@ -1929,37 +1507,57 @@ XLVI. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de v
 
 XLVII. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales digitales por Internet, así como solicitar la exhibición de los comprobantes que amparen la legal propiedad, posesión, tenencia, estancia o importación de las mercancías que enajenen;
 
-XLVIII. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones, verificaciones de origen y demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de tales disposiciones por los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, incluyendo las que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, derechos, aprovechamientos, estímulos fiscales, franquicias, subsidios, subvenciones, accesorios de carácter federal, cuotas compensatorias, regulaciones y restricciones no arancelarias, inclusive normas oficiales mexicanas y para comprobar de conformidad con los acuerdos, convenios o tratados en materia comercial, fiscal o aduanera de los que México sea parte, el cumplimiento de las obligaciones a cargo de los contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos, inclusive en materia de origen, y solicitar y utilizar las actuaciones levantadas por las oficinas consulares en los términos del Código Fiscal de la Federación en la práctica de los procedimientos previstos en dicho ordenamiento;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XLVIII. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones, verificaciones de origen y demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de tales disposiciones por los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, incluyendo las que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, derechos, aprovechamientos, estímulos fiscales, franquicias, subsidios, subvenciones, accesorios de carácter federal, cuotas compensatorias, regulaciones y restricciones no arancelarias, inclusive normas oficiales mexicanas y para comprobar de conformidad con los acuerdos, convenios, tratados y demás instrumentos internacionales aplicables de los que México sea parte, el cumplimiento de las obligaciones a cargo de los contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos, inclusive en materia de origen, y solicitar y utilizar las actuaciones levantadas por las oficinas consulares en los términos del Código Fiscal de la Federación en la práctica de los procedimientos previstos en dicho ordenamiento;
 
 XLIX. Llevar a cabo revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados;
 
-L. Ordenar y practicar la verificación de mercancías en transporte, de vehículos de procedencia extranjera en tránsito y de aeronaves y embarcaciones; la vigilancia y custodia de los recintos fiscales y fiscalizados y de las mercancías depositadas en ellos; llevar a cabo otros actos de vigilancia para cerciorarse del cumplimiento de las disposiciones jurídicas que regulan y gravan la entrada o salida del territorio nacional de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida, y verificar el domicilio que los contribuyentes declaren en el pedimento;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-LI. Practicar visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones y demás actos que establezcan las disposiciones fiscales y aduaneras a los recintos fiscalizados y vigilar el cumplimiento de las obligaciones derivadas de la concesión o autorización otorgada para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior y, en su caso, proceder a su revocación o cancelación, cuando sea detectada alguna irregularidad por la que proceda la revocación o cancelación, respecto de los asuntos a que se refiere el presente artículo; habilitar instalaciones como recintos fiscales para uso de la autoridad fiscal y aduanera, así como declarar el abandono de las mercancías que se encuentren en dichos recintos fiscales bajo su responsabilidad;
+L. Ordenar y practicar la verificación de mercancías en transporte, de vehículos de procedencia extranjera en tránsito y de aeronaves y embarcaciones; llevar a cabo otros actos de vigilancia para cerciorarse del cumplimiento de las disposiciones jurídicas aplicables en materia de comercio exterior, incluso las que regulan y gravan la entrada o salida del territorio nacional de mercancías y medios de transporte, y verificar el domicilio que los contribuyentes declaren en el pedimento;
 
-LII. Ordenar y realizar la inspección y vigilancia permanente en el manejo, transporte o tenencia de las mercancías en cualquier parte del territorio nacional, inclusive en los recintos fiscales y fiscalizados;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-LIII. Ordenar y practicar visitas domiciliarias, inspecciones, actos de vigilancia y verificaciones, requerir informes y llevar a cabo cualquier otro acto que establezcan las disposiciones fiscales y aduaneras respecto de los asuntos a que se refiere el presente artículo y con el propósito de verificar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados, relativas a la propiedad intelectual e inclusive industrial; detectar, analizar y dar seguimiento a los casos de impresión, reproducción o comercialización de documentos públicos y privados, así como de la venta de combustibles, sin la autorización que establezcan las disposiciones jurídicas aplicables, cuando tengan repercusiones en el cumplimiento de las obligaciones fiscales o aduaneras de los contribuyentes, responsables solidarios y demás obligados, así como analizar y dar seguimiento a las denuncias que le sean presentadas;
+LI. Practicar visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones y demás actos que establezcan las disposiciones fiscales y aduaneras a los recintos fiscalizados y vigilar el cumplimiento de las obligaciones derivadas de la concesión o autorización otorgada para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior y, en su caso, proceder a su revocación o cancelación, cuando sea detectada alguna irregularidad por la que proceda la revocación o cancelación, respecto de los asuntos a que se refiere el presente artículo;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LII. Ordenar y realizar la inspección y vigilancia permanente en el manejo, transporte o tenencia de las mercancías en cualquier parte del territorio nacional;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LIII. Ordenar y practicar visitas domiciliarias, inspecciones, actos de vigilancia y verificaciones, requerir informes y llevar a cabo cualquier otro acto que establezcan las disposiciones fiscales y aduaneras respecto de los asuntos a que se refiere el presente artículo y con el propósito de verificar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados, relativas a la propiedad intelectual e inclusive industrial; detectar, analizar y dar seguimiento a los casos de impresión, reproducción o comercialización de documentos públicos y privados, así como de la venta de combustibles, sin la autorización que establezcan las disposiciones jurídicas aplicables, cuando tengan repercusiones en el cumplimiento de las obligaciones fiscales, aduaneras o de comercio exterior de los contribuyentes, responsables solidarios y demás obligados, así como analizar y dar seguimiento a las denuncias que le sean presentadas;
 
 LIV. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por Internet de sus actividades o expedirlos sin que cumplan los requisitos señalados en el Código Fiscal de la Federación o asentando en el comprobante la clave del registro federal de contribuyentes de persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios; ordenar y practicar la clausura de los establecimientos en el caso de que el contribuyente no cuente con controles volumétricos, así como la de los establecimientos en donde se realicen juegos con apuestas y sorteos cuando no den cumplimiento a lo que establece la Ley del Impuesto Especial sobre Producción y Servicios;
 
 LV. Ordenar y practicar el embargo precautorio o aseguramiento en los casos en que las leyes lo señalen, así como levantarlo y, en su caso, poner a disposición de los interesados los bienes;
 
-LVI. Ordenar y practicar la retención, persecución, embargo precautorio o aseguramiento de las mercancías, incluidos los vehículos, o de sus medios de transporte, en términos de la Ley Aduanera, inclusive por compromisos internacionales, requerimientos de orden público o cualquier otra regulación o restricción no arancelaria; notificar el embargo precautorio o aseguramiento de mercancías respecto de las cuales no se acredite su legal internación, estancia o tenencia en el país; tramitar y resolver los procedimientos administrativos en materia aduanera que deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras, o del ejercicio de las facultades de comprobación efectuado por otras autoridades fiscales o aduaneras, así como ordenar el levantamiento del citado embargo o aseguramiento y la entrega de las mercancías embargadas, antes de la conclusión del procedimiento de que se trate, en su caso, previa calificación y aceptación de la garantía del interés fiscal y poner a disposición de la unidad administrativa que corresponda, las mercancías embargadas para que realicen su control y custodia; declarar que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del Fisco Federal, y liberar las garantías otorgadas respecto de la posible omisión del pago de contribuciones en mercancías sujetas a precios estimados;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LVI. Ordenar y practicar la retención, persecución, embargo precautorio o aseguramiento de las mercancías, incluidos los vehículos, o de sus medios de transporte, en términos de la Ley Aduanera, inclusive por compromisos internacionales, requerimientos de orden público o cualquier otra regulación o restricción no arancelaria; notificar el embargo precautorio o aseguramiento de mercancías respecto de las cuales no se acredite su legal internación, estancia o tenencia en el país, tramitar y resolver los procedimientos administrativos en materia aduanera que deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras, o del ejercicio de las facultades de comprobación efectuado por otras autoridades fiscales o aduaneras, así como ordenar el levantamiento del citado embargo o aseguramiento y la entrega de las mercancías embargadas, antes de la conclusión del procedimiento de que se trate, en su caso, previa calificación y aceptación de la garantía del interés fiscal y poner a disposición de la unidad administrativa que corresponda, las mercancías embargadas para que realicen su control y custodia; declarar que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del Fisco Federal, y liberar las garantías otorgadas respecto de la posible omisión del pago de contribuciones en mercancías sujetas a precios estimados;
 
 LVII. Ordenar y practicar el embargo precautorio o aseguramiento de mercancías en los casos en que haya peligro de que el obligado se ausente, se realice la enajenación u ocultamiento de mercancías o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en cualquier otro caso que señalen las leyes;
 
-LVIII. Dar a conocer a los contribuyentes, productores, importadores, exportadores, responsables solidarios y demás obligados en materia aduanera, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus facultades de comprobación y de las verificaciones de origen practicadas y hacer constar dichos hechos y omisiones en las actas u oficios que para tal efecto se levanten, en términos de la Ley Aduanera y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-LIX. Determinar las contribuciones o aprovechamientos de carácter federal; aplicar las cuotas compensatorias y determinar en cantidad líquida el monto correspondiente a cargo de contribuyentes, responsables solidarios y demás obligados, así como determinar las otras contribuciones que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, derivado del ejercicio de las atribuciones a que se refiere este artículo o cuando ello sea necesario, y determinar los accesorios que correspondan en los supuestos antes señalados;
+LVIII. Dar a conocer a los contribuyentes, productores, importadores, exportadores, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus facultades de comprobación y de las verificaciones de origen practicadas y hacer constar dichos hechos y omisiones en las actas u oficios que para tal efecto se levanten, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LIX. Determinar las contribuciones que se causen por la entrada o salida del territorio nacional de mercancías y medios de transporte, derivado del ejercicio de las atribuciones a que se refiere este artículo o cuando ello sea necesario, y determinar los accesorios que correspondan en los supuestos antes señalados;
 
 LX. Requerir en términos del artículo 41, fracción I del Código Fiscal de la Federación, la presentación de las declaraciones, avisos, información y demás documentos, cuando los obligados no lo hagan en los plazos señalados respecto de los asuntos a que se refiere el citado artículo y hacer efectiva una cantidad conforme a lo previsto en la fracción II de dicho artículo, cuando vencido el plazo para atender el tercer requerimiento éste no sea solventado;
 
-LXI. Evaluar y, en su caso, aceptar las garantías que se otorguen respecto de impuestos al comercio exterior, derechos por servicios aduaneros, accesorios, aprovechamientos y demás contribuciones que se causen con motivo de la entrada o salida del territorio nacional de mercancías y medios de transporte, conforme a los lineamientos que establezca la Administración General de Recaudación;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-LXII. Determinar la lesión al interés fiscal, inclusive por la inexactitud de la clasificación arancelaria o de algún dato declarado en el pedimento, en la factura o en la declaración del valor en aduana o comercial, o por la omisión del permiso de autoridad competente, cuando constituyan causal de suspensión o cancelación de la patente de agente aduanal o de la autorización del mandatario aduanal, de agente aduanal, y dictaminador aduanero y, en su caso, dar a conocer a la Administración General de Aduanas dicha determinación para que proceda conforme a las disposiciones jurídicas aplicables;
+LXI. Evaluar y, en su caso, aceptar las garantías que se otorguen respecto de aprovechamientos, contribuciones y accesorios que se causen con motivo de la entrada o salida del territorio nacional de mercancías y medios de transporte, conforme a los lineamientos que establezca la Administración General de Recaudación;
 
-LXIII. Entregar a los interesados las mercancías objeto de una infracción a la Ley Aduanera y demás disposiciones fiscales, cuando dichas mercancías no estén sujetas a prohibiciones o restricciones y se garantice el interés fiscal;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LXII. Determinar la lesión al interés fiscal, inclusive por la inexactitud de la clasificación arancelaria o de algún dato declarado en el pedimento, en la factura o en la declaración del valor en aduana o comercial, o por la omisión del permiso de autoridad competente, cuando constituyan causal de suspensión o cancelación de la patente de agente aduanal o de la autorización del mandatario aduanal, de agente aduanal, y dictaminador aduanero y, en su caso, dar a conocer a la Agencia Nacional de Aduanas de México dicha determinación para que proceda conforme a las disposiciones jurídicas aplicables;
+
+LXIII. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 LXIV. Realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la asignación, donación o destrucción de los bienes embargados, cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones jurídicas aplicables;
 
@@ -1973,6 +1571,8 @@ LXVIII. Dejar sin efectos las órdenes de visita domiciliaria, verificación en 
 
 LXIX. Solicitar a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a las entidades financieras y sociedades cooperativas de ahorro y préstamo, que ejecuten embargos o aseguramientos de los bienes a que se refiere el artículo 40-A, fracción III, inciso f) del Código Fiscal de la Federación, de conformidad con las disposiciones jurídicas aplicables y solicitar el levantamiento de los mismos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 LXX. Revisar que los dictámenes formulados por contador público inscrito sobre los estados financieros de los contribuyentes o respecto de operaciones de enajenación de acciones, o cualquier otro tipo de dictamen que tenga repercusión para efectos fiscales o aduaneros, reúnan los requisitos establecidos en las disposiciones aplicables y cumplan las relativas a impuestos, aportaciones de seguridad social, derechos, contribuciones de mejoras, aprovechamientos, estímulos fiscales, franquicias y accesorios federales, así como notificar a los contribuyentes cuando la autoridad haya iniciado el ejercicio de facultades de comprobación con un tercero relacionado con éstos;
 
 LXXI. Informar a la Administración General de Auditoría Fiscal Federal o a la Administración General de Grandes Contribuyentes, según corresponda, las irregularidades cometidas por los contadores públicos inscritos de las que tenga conocimiento con motivo de la revisión de los dictámenes que éstos formulen para efectos fiscales o las derivadas del incumplimiento de las disposiciones fiscales por parte de dichos contadores;
@@ -1985,21 +1585,29 @@ LXXIV. Practicar visitas para verificar en el domicilio fiscal, establecimientos
 
 LXXV. Asegurar las cajetillas de cigarros y declarar que pasan a propiedad del Fisco Federal, a efecto de que se proceda a su destrucción, cuando en ejercicio de sus atribuciones se detecte que no contengan el código de seguridad a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios;
 
-LXXVI. Intervenir en la recuperación en el extranjero de vehículos, embarcaciones y aeronaves nacionales o nacionalizados objeto de robo o de disposición ilícita de que haya tenido conocimiento con motivo del ejercicio de sus atribuciones y, en términos de las leyes del país y los convenios internacionales celebrados en esta materia; expedir las constancias que sean necesarias y proporcionar la documentación e informes de que disponga, que sean requeridos por las autoridades consulares mexicanas que formulen la solicitud respectiva; aplicar la legislación aduanera y los convenios internacionales para la devolución de los vehículos, embarcaciones o aeronaves extranjeros materia de robo o de disposición ilícita, mediante la realización de los actos de vigilancia y verificación en tránsito, verificación de mercancías en transporte, visitas domiciliarias y de revisión física en los recintos fiscales y fiscalizados respectivos; notificar a las autoridades del país de procedencia la localización de los vehículos, embarcaciones o aeronaves robados u objeto de disposición ilícita, así como resolver acerca de su devolución y del cobro de los gastos que se hubieren autorizado;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LXXVI. Intervenir en la recuperación en el extranjero de vehículos, embarcaciones y aeronaves nacionales o nacionalizados objeto de robo o de disposición ilícita de que haya tenido conocimiento con motivo del ejercicio de sus atribuciones y, en términos de las leyes del país y los convenios internacionales celebrados en esta materia; expedir las constancias que sean necesarias y proporcionar la documentación e informes de que disponga, que sean requeridos por las autoridades consulares mexicanas que formulen la solicitud respectiva; aplicar los convenios internacionales para la devolución de los vehículos, embarcaciones o aeronaves extranjeros materia de robo o de disposición ilícita, mediante la realización de los actos de vigilancia y verificación en tránsito, verificación de mercancías en transporte y visitas domiciliarias; notificar a las autoridades del país de procedencia la localización de los vehículos, embarcaciones o aeronaves robados u objeto de disposición ilícita, así como resolver acerca de su devolución y del cobro de los gastos que se hubieren autorizado;
 
 LXXVII. Suscribir los acuerdos conclusivos a que se refiere el Código Fiscal de la Federación;
 
 LXXVIII. Analizar, formular y distribuir a la unidad administrativa competente del Servicio de Administración Tributaria, la información estadística acerca de las actividades desempeñadas por las unidades administrativas adscritas a esta Administración General;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 LXXIX. Autorizar y, en su caso renovar o cancelar la certificación en materia de los impuestos al valor agregado y especial sobre producción y servicios respecto de los asuntos a que se refiere este artículo; requerir información y documentación, realizar visitas de inspección y seguimiento, llevar a cabo cualquier otro acto que establezcan las disposiciones fiscales y aduaneras con el propósito de verificar el cumplimiento de las obligaciones de los contribuyentes relativas a dicha autorización, y resolver los asuntos relacionados con la misma; evaluar, tramitar, aceptar, rechazar o cancelar, según proceda, las garantías que se otorguen respecto de los impuestos al valor agregado y especial sobre producción y servicios, que se causen con motivo de la entrada de mercancías al territorio nacional, autorizar ampliaciones y disminuciones de dichas garantías, así como hacer efectivas las garantías constituidas para asegurar el interés fiscal;
 
-LXXX. Establecer los lineamientos respecto a la aceptación de garantías que se otorguen respecto de impuestos al comercio exterior, derechos por servicios aduaneros, accesorios, aprovechamientos, y demás contribuciones que se causen con motivo de la entrada o salida del territorio nacional de mercancías y medios de transporte;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LXXX. Establecer los lineamientos respecto a la aceptación de garantías que se otorguen respecto de las contribuciones que se causen con motivo de la entrada o salida del territorio nacional de mercancías y medios de transporte;
 
 LXXXI. Autorizar, renovar, suspender o cancelar la inscripción en el registro de empresas certificadas, incluso bajo la modalidad de operador económico autorizado; realizar visitas de inspección y seguimiento, llevar a cabo cualquier otro acto que establezcan las disposiciones fiscales y aduaneras con el propósito de verificar el cumplimiento de las obligaciones de los contribuyentes relativas a dicha inscripción y resolver los asuntos relacionados con la misma, así como administrar dicho registro, y
 
 LXXXII. Autorizar, y en su caso, renovar, suspender o cancelar la inscripción en el registro del despacho de mercancías de las empresas respecto de los asuntos a que se refiere el presente artículo; requerir y llevar a cabo cualquier otro acto que establezcan las disposiciones aduaneras con el propósito de verificar el cumplimiento de las obligaciones derivadas de dicha autorización, así como resolver los asuntos relacionados con la misma y administrar dicho registro.
 
 Tratándose de las entidades y sujetos a que se refieren los artículos 28, apartado B y 30, apartado B de este Reglamento, la Administración General de Auditoría de Comercio Exterior, sus unidades administrativas centrales y desconcentradas, podrán ejercer las atribuciones contenidas en este artículo, sin perjuicio de las atribuciones que les correspondan a la Administración General de Grandes Contribuyentes, a la Administración General de Hidrocarburos o a las unidades administrativas adscritas a las mismas de conformidad con los artículos 28, 29, 30 y 31 de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 La Administración General de Auditoría de Comercio Exterior y sus unidades administrativas, cuando con motivo del ejercicio de sus facultades de comprobación en materia de comercio exterior, conozcan o adviertan el incumplimiento de las obligaciones y disposiciones fiscales distintas a las relativas al comercio exterior, en ejercicio de las atribuciones contenidas en las fracciones XI, XVI, XXIX, XLVIII, LIII, LIV, LV, LX y LXX del presente artículo, podrán determinar lo que corresponda, inclusive respecto de aquellas contribuciones y aprovechamientos distintos a los que se causen por la entrada o salida del territorio nacional de mercancías y de los medios en que se transportan o conducen.
 
@@ -2085,7 +1693,11 @@ A. A la Administración Central de Planeación y Programación de Comercio Exter
 
 B. A la Administración Central de Apoyo Jurídico de Auditoría de Comercio Exterior y a las Administraciones de Apoyo Jurídico de Auditoría de Comercio Exterior “1” y “2”, las siguientes:
 
-I. Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, XI, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLVIII, LIX, LXV, LXXIII y LXXVII del artículo 25 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+I. Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, XI, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLVIII, LIX, LXV, LXXIII y LXXVII del artículo 25 de este Reglamento;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 II. Emitir opinión jurídica respecto de los acuerdos, bases de colaboración y convenios en los que la Administración General de Auditoría de Comercio Exterior y sus unidades administrativas actúen como autoridad fiscal y aduanera;
 
@@ -2097,21 +1709,31 @@ V. Emitir opinión respecto de los lineamientos, directrices o procedimientos qu
 
 VI. Fungir como enlace de la Administración General de Auditoría de Comercio Exterior en la atención de los requerimientos de información de la Procuraduría de la Defensa del Contribuyente, vinculados con quejas o reclamaciones en las que sea señalada como responsable alguna de las unidades administrativas adscritas a dicha Administración General y en las propuestas de modificación a las disposiciones o estrategias internas cuando la materia de las mismas resulte de su competencia, así como coadyuvar en la suscripción de acuerdos conclusivos que lleven a cabo la referida Administración General y sus unidades administrativas y participar en las reuniones en las que sea convocado el Servicio de Administración Tributaria derivadas de la atención de los asuntos que correspondan a la Administración General de Auditoría de Comercio Exterior, y
 
-VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y aduaneras, decretos, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Auditoría de Comercio Exterior;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-C. A la Administración Central de Investigación y Análisis de Comercio Exterior y a las Administraciones de Investigación y Análisis de Comercio Exterior “1”, “2”, “3”, “4” y “5”, las señaladas en las fracciones III, VII, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI y LXXVII del artículo 25 de este Reglamento;
+VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y de comercio exterior, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Auditoría de Comercio Exterior;
 
-D. A la Administración Central de Operaciones Especiales de Comercio Exterior, y a las Administraciones de Operaciones Especiales de Comercio Exterior “1”, “2”, “3”, “4” y “5”, las señaladas en las fracciones III, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXVIII, XXXIX, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI y LXXVII del artículo 25 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-E. A la Administración Central de Auditoría de Operaciones de Comercio Exterior y a las Administraciones de Auditoría de Operaciones de Comercio Exterior “1”, “2”, “3”, “4”, “5” y “6”, las señaladas en las fracciones III, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI y LXXVII del artículo 25 de este Reglamento;
+C. A la Administración Central de Investigación y Análisis de Comercio Exterior y a las Administraciones de Investigación y Análisis de Comercio Exterior "1", "2", "3", "4" y "5", las señaladas en las fracciones III, VII, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVIII, XXIX, XXX, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI y LXXVII del artículo 25 de este Reglamento;
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+D. A la Administración Central de Operaciones Especiales de Comercio Exterior, y a las Administraciones de Operaciones Especiales de Comercio Exterior "1", "2", "3", "4" y "5", las señaladas en las fracciones III, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVIII, XXIX, XXX, XXXVIII, XXXIX, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI y LXXVII del artículo 25 de este Reglamento;
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+E. A la Administración Central de Auditoría de Operaciones de Comercio Exterior y a las Administraciones de Auditoría de Operaciones de Comercio Exterior "1", "2", "3", "4", "5" y "6", las señaladas en las fracciones III, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVIII, XXIX, XXX, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI y LXXVII del artículo 25 de este Reglamento;
 
 F. A la Administración Central de Certificación y Asuntos Internacionales de Auditoría de Comercio Exterior y a las Administraciones de Certificación y Asuntos Internacionales de Auditoría de Comercio Exterior “1”, “2” y “3”, las señaladas en las fracciones II, III, IV, VI, VIII, IX, XVI, XX, XXI, XXXVIII, XXXIX, XL, LXI, LXXII, LXXVIII, LXXIX, LXXXI y LXXXII del artículo 25 de este Reglamento, y
 
 G. A la Administración Central de Coordinación Estratégica de Auditoría de Comercio Exterior y a la Administración de Coordinación Estratégica de Auditoría de Comercio Exterior “1”, las señaladas en las fracciones III, IV, XXII, XXIII y XXIV del artículo 25 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 27.
 
-Compete a las administraciones desconcentradas de auditoría de comercio exterior y a las administraciones de auditoría de comercio exterior “1”, “2” y “3” y subadministraciones adscritas a dichas administraciones desconcentradas, ejercer las atribuciones señaladas en las fracciones III, IV, VI, VII, VIII, IX, XI, XII, XV, XVI, XVII, XVIII, XXI, XXVI, XXVII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV, LXXV y LXXVI del artículo 25 de este Reglamento.
+Compete a las administraciones desconcentradas de auditoría de comercio exterior y a las administraciones de auditoría de comercio exterior "1", "2" y "3" y subadministraciones adscritas a dichas administraciones desconcentradas, ejercer las atribuciones señaladas en las fracciones III, IV, VI, VII, VIII, IX, XI, XII, XV, XVI, XVII, XVIII, XXI, XXVI, XXIX, XXX, XXXI; XXXII, XXXIII, XXXIV, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX, LX, LXI, LXII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV, LXXV y LXXVI del artículo 25 de este Reglamento.
 
 Cada Administración Desconcentrada de Auditoría de Comercio Exterior estará a cargo de un Administrador Desconcentrado de Auditoría de Comercio Exterior, del que dependerán los administradores de auditoría de comercio exterior “1”, “2” y “3”, así como los subadministradores, jefes de departamento, coordinadores de auditoría, enlaces, supervisores, auditores, inspectores, verificadores, ayudantes de auditor y notificadores, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -2125,7 +1747,9 @@ A. Atribuciones:
 
 I. Solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización;
 
-II. Ordenar y practicar actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, para proporcionarlos a las autoridades de los países con los que se tengan celebrados convenios o tratados en materia fiscal o aduanera, u otros que contengan disposiciones sobre dichas materias, así como solicitar a las autoridades de gobiernos extranjeros que, de conformidad con los tratados y demás instrumentos internacionales aplicables, ordenen y practiquen en su territorio las visitas domiciliarias, auditorías, inspecciones, verificaciones, incluso las relativas a la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, y los demás actos que establezcan las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+II. Ordenar y practicar actos de comprobación necesarios para la obtención de la información y documentación que resulten procedentes, para proporcionarlos a las autoridades de los países con los que se tengan celebrados convenios o tratados en materia fiscal, u otros que contengan disposiciones sobre dichas materias, así como solicitar a las autoridades de gobiernos extranjeros que, de conformidad con los tratados y demás instrumentos internacionales aplicables, ordenen y practiquen en su territorio las visitas domiciliarias, auditorías, inspecciones, verificaciones, incluso las relativas a la existencia de los documentos que acrediten la legal estancia y tenencia de las mercancías de comercio exterior, y los demás actos que establezcan las disposiciones jurídicas aplicables;
 
 III. Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en materia fiscal;
 
@@ -2151,7 +1775,9 @@ XIII. Participar con las unidades administrativas de la Secretaría de Hacienda 
 
 XIV. Fungir como autoridad competente en la interpretación y aplicación de los acuerdos interinstitucionales en el ámbito internacional con cláusula fiscal, acuerdos, convenios o tratados fiscales o de intercambio de información fiscal, de los que México sea parte, incluso en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas de acuerdo con los procedimientos establecidos en los mismos y de las disposiciones jurídicas en dichas materias contenidas en otros instrumentos jurídicos internacionales, así como resolver las consultas de aplicación sobre los procedimientos establecidos en los mismos, tomando en cuenta la normativa emitida por la Administración General Jurídica;
 
-XV. Participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público en los grupos de trabajo que se establezcan al amparo de los acuerdos interinstitucionales en el ámbito internacional con cláusula fiscal, acuerdos, convenios o tratados fiscales o de intercambio de información fiscal de los que México sea parte u otros que contengan disposiciones en materia fiscal y aduanera;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XV. Participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público en los grupos de trabajo que se establezcan al amparo de los acuerdos interinstitucionales en el ámbito internacional con cláusula fiscal, acuerdos, convenios o tratados fiscales o de intercambio de información fiscal de los que México sea parte u otros que contengan disposiciones en materia fiscal, aduanera y de comercio exterior;
 
 XVI. Aplicar la tasa de recargos que corresponda durante el ejercicio de sus facultades de comprobación y hasta antes de emitirse la liquidación determinativa del crédito fiscal, en términos del Código Fiscal de la Federación, así como reducir las multas que correspondan, conforme a las disposiciones jurídicas aplicables;
 
@@ -2231,7 +1857,9 @@ LIII. Resolver las consultas y las solicitudes de autorización o de determinaci
 
 LIV. Declarar, a petición de parte, la prescripción de los créditos fiscales y la extinción de las facultades de la autoridad para comprobar el cumplimiento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios e imponer multas en relación con los impuestos, derechos, contribuciones de mejoras y sus accesorios de carácter federal;
 
-LV. Tramitar y resolver los recursos administrativos interpuestos contra resoluciones o actos de ella misma o de las unidades administrativas que de ella dependan, así como aquéllos que se interpongan contra las resoluciones en materia de certificación de origen, los actos que apliquen cuotas compensatorias definitivas y los emitidos a los sujetos de su competencia por la Administración General de Aduanas, excepto los emitidos por las aduanas que de esta última dependan;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LV. Tramitar y resolver los recursos administrativos interpuestos contra resoluciones o actos de ella misma o de las unidades administrativas que de ella dependan, así como aquéllos que se interpongan contra las resoluciones en materia de certificación de origen y los actos que apliquen cuotas compensatorias definitivas;
 
 LVI. Representar al Secretario de Hacienda y Crédito Público, a la Junta de Gobierno, al Jefe del Servicio de Administración Tributaria y a las unidades administrativas de dicho órgano administrativo desconcentrado, en toda clase de juicios ante el Tribunal Federal de Justicia Fiscal y Administrativa, contra resoluciones o actos de éstos o de las autoridades fiscales de las entidades federativas que deriven de la aplicación que dichas autoridades hagan de las leyes fiscales federales en cumplimiento de los convenios de coordinación fiscal, así como para ejercer las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios ante dicho Tribunal;
 
@@ -2695,8 +2323,6 @@ V. Analizar, formular y distribuir a la unidad administrativa competente del Ser
 
 ### Capítulo VIII. De la Administración General de Hidrocarburos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO FRACCIÓN I, DEL PRESENTE ORDENAMIENTO.</small>
-
 ###### Artículo 30.
 
 Corresponde a la Administración General de Hidrocarburos las atribuciones que se señalan en el apartado A de este artículo, las cuales se ejercerán respecto de las entidades y sujetos comprendidos en el apartado B de este artículo, conforme a lo siguiente:
@@ -2715,7 +2341,9 @@ V. Informar a la autoridad competente, la cuantificación del perjuicio sufrido 
 
 VI. Mantener comunicación con las autoridades fiscales de otros países para obtener y proporcionar la información y documentación en relación con los asuntos internacionales a que se refiere el presente artículo;
 
-VII. Participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público en los grupos de trabajo que se establezcan al amparo de los acuerdos interinstitucionales en el ámbito internacional con cláusula fiscal, acuerdos, convenios o tratados fiscales o de intercambio de información fiscal de los que México sea parte u otros que contengan disposiciones en materia fiscal y aduanera;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VII. Participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público en los grupos de trabajo que se establezcan al amparo de los acuerdos interinstitucionales en el ámbito internacional con cláusula fiscal, acuerdos, convenios o tratados fiscales o de intercambio de información fiscal de los que México sea parte u otros que contengan disposiciones en materia fiscal, aduanera y de comercio exterior;
 
 VIII. Fungir como autoridad competente en la interpretación y aplicación de los acuerdos interinstitucionales en el ámbito internacional con cláusula fiscal, acuerdos, convenios o tratados fiscales o de intercambio de información fiscal, de los que México sea parte, incluso en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas de acuerdo con los procedimientos establecidos en los mismos y de las disposiciones jurídicas aplicables en dichas materias contenidas en otros instrumentos jurídicos internacionales, así como resolver las consultas de aplicación de los procedimientos establecidos en los mismos, tomando en cuenta la normativa emitida por la Administración General Jurídica;
 
@@ -2811,7 +2439,9 @@ LIII. Resolver las consultas y las solicitudes de autorización o de determinaci
 
 LIV. Participar con las unidades administrativas de la Secretaría de Hacienda y Crédito Público en la formulación de los anteproyectos de acuerdos interinstitucionales en el ámbito internacional con cláusula fiscal, acuerdos, convenios y tratados internacionales en materia fiscal o de intercambio de información fiscal u otros que contengan disposiciones sobre dichas materias, así como en las negociaciones respectivas y asistir a los servidores públicos del Servicio de Administración Tributaria en sus relaciones con los funcionarios o autoridades de otros países, respecto de dichos instrumentos;
 
-LV. Tramitar y resolver los recursos administrativos interpuestos contra resoluciones o actos de ella misma o de las unidades administrativas que de ella dependan, así como aquéllos que se interpongan contra las resoluciones en materia de certificación de origen, los actos que apliquen cuotas compensatorias definitivas y los emitidos a los sujetos de su competencia por la Administración General de Aduanas, excepto los emitidos por las aduanas que de esta última dependan;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LV. Tramitar y resolver los recursos administrativos interpuestos contra resoluciones o actos de ella misma o de las unidades administrativas que de ella dependan, así como aquéllos que se interpongan contra las resoluciones en materia de certificación de origen, y los actos que apliquen cuotas compensatorias definitivas;
 
 LVI. Representar al Secretario de Hacienda y Crédito Público, a la Junta de Gobierno, al Jefe del Servicio de Administración Tributaria y a las unidades administrativas de dicho órgano administrativo desconcentrado, en toda clase de juicios ante el Tribunal Federal de Justicia Fiscal y Administrativa, contra resoluciones o actos de éstos o de las autoridades fiscales de las entidades federativas por la aplicación que dichas autoridades hagan de las leyes fiscales federales en cumplimiento de los convenios de coordinación fiscal, así como para ejercer las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios ante dicho Tribunal;
 
@@ -3009,8 +2639,6 @@ d) Administrador de Operación de Hidrocarburos “4”, y
 
 e) Administrador de Operación de Hidrocarburos “5”.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO FRACCIÓN I, DEL PRESENTE ORDENAMIENTO.</small>
-
 ###### Artículo 31.
 
 Compete a las siguientes unidades administrativas de la Administración General de Hidrocarburos ejercer las atribuciones que a continuación se señalan:
@@ -3079,9 +2707,13 @@ II. Auxiliar al Administrador General de Hidrocarburos en el ejercicio de las fa
 
 Compete a la Administración General de Servicios al Contribuyente:
 
-I. Prestar a través de diversos canales de atención a los contribuyentes, los servicios de asistencia y orientación, auxiliarlos en el cumplimiento de las obligaciones fiscales, aduaneras y de comercio exterior, así como darles a conocer sus derechos;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-II. Recibir de los particulares directamente o a través de las oficinas y medios electrónicos autorizados las declaraciones, avisos, requerimientos, solicitudes, aclaraciones, manifestaciones, instrumentos autorizados y demás documentación a que obliguen las disposiciones fiscales y aduaneras que no deban presentarse ante otras unidades administrativas del Servicio de Administración Tributaria;
+I. Prestar a través de diversos canales de atención a los contribuyentes, los servicios de asistencia y orientación, auxiliarlos en el cumplimiento de las obligaciones fiscales y de comercio exterior, así como darles a conocer sus derechos;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+II. Recibir de los particulares directamente o a través de las oficinas y medios electrónicos autorizados las declaraciones, avisos, requerimientos, solicitudes, aclaraciones, manifestaciones, instrumentos autorizados y demás documentación a que obliguen las disposiciones en materia de contribuciones federales que no deban presentarse ante otras unidades administrativas del Servicio de Administración Tributaria;
 
 III. Coordinar el proceso de asignación de infraestructura para el registro de los datos de identidad que vinculen al firmante con los datos de creación de la firma electrónica, así como los servicios de certificación de las administraciones desconcentradas de servicios al contribuyente y dependencias de la Administración Pública Federal, entidades federativas y municipios conforme a las disposiciones jurídicas aplicables;
 
@@ -3095,7 +2727,7 @@ VII. Tramitar y resolver las solicitudes de aclaración que presenten los contri
 
 VIII. Otorgar a los contribuyentes el certificado para el uso de sellos digitales que les permita la emisión de comprobantes fiscales digitales por Internet, así como llevar el registro y control de dichos certificados;
 
-IX. Recibir las solicitudes de recuperación de los depósitos en cuenta aduanera y los rendimientos que se hayan generado en dicha cuenta, efectuados por contribuyentes ante instituciones de crédito y casas de bolsa autorizadas para estos efectos;
+IX. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 X. Establecer, normar y actualizar el registro de trámites fiscales, incluyendo los requisitos para la presentación de los mismos;
 
@@ -3109,9 +2741,13 @@ XIV. Cancelar, revocar o dejar sin efectos los certificados de sello digital de 
 
 XV. Recibir, tramitar y resolver las solicitudes de información materia de su competencia en los términos de este artículo, realizadas por diversas autoridades de conformidad con las disposiciones jurídicas aplicables;
 
-XVI. Realizar, según sea el caso, la inscripción, actualización, modificación, cancelación, suspensión o dejar sin efectos esta última, en el registro federal de contribuyentes, en los padrones de importadores, de importadores de sectores específicos, de exportadores sectoriales y de cualquier otro padrón o registro previsto en la legislación fiscal o aduanera, así como habilitar a los agentes aduanales a los que se les hubiera conferido el encargo para actuar como consignatarios o mandatarios;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XVII. Participar en los sondeos y encuestas a fin de evaluar la operación recaudatoria y la calidad y cobertura de los registros de padrones contemplados en la legislación fiscal y aduanera, en coordinación con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público;
+XVI. Realizar, según sea el caso, la inscripción, actualización, modificación, cancelación, suspensión o dejar sin efectos esta última, en el registro federal de contribuyentes, en los padrones de importadores, de importadores de sectores específicos, de exportadores sectoriales y en cualquier otro padrón o registro previsto en la legislación en materia de contribuciones federales, así como realizar las validaciones correspondientes en el referido registro a efecto de identificar a los contribuyentes que se les hubiera conferido el encargo para actuar como consignatarios o mandatarios, de conformidad con las disposiciones en materia de contribuciones federales, pueden realizar importaciones y/o exportaciones de manera general y aquellos en sectores específicos, en este último caso, llevar a cabo las verificaciones necesarias con las autoridades reguladoras en la materia correspondiente;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XVII. Participar en los sondeos y encuestas a fin de conocer y evaluar la opinión de los contribuyentes sobre la calidad de la atención, trámites y servicios recibidos en los diversos canales de atención, así como la operación recaudatoria y la calidad y cobertura de los registros de padrones contemplados en la legislación aplicable en materia de contribuciones federales, en coordinación con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público;
 
 XVIII. Solicitar a la Administración General de Recaudación la publicación, a través de la página de Internet del Servicio de Administración Tributaria, del nombre o denominación o razón social y la clave del registro federal de contribuyentes de aquellos sujetos que se ubiquen en alguno de los supuestos establecidos en el artículo 69 del Código Fiscal de la Federación;
 
@@ -3119,7 +2755,9 @@ XIX. Establecer e implementar las acciones de los programas de prevención y res
 
 XX. Participar, conjuntamente con las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público, en la formulación de los programas relativos a la aplicación de las disposiciones en materia de participación de los trabajadores en las utilidades de las empresas;
 
-XXI. Validar el contenido que tendrá el material de información impresa y electrónica para la orientación de los contribuyentes respecto del cumplimiento voluntario de las disposiciones fiscales y aduaneras;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXI. Definir, establecer y validar, en coordinación con las unidades administrativas del Servicio de Administración Tributaria, el contenido de los materiales para la orientación de los contribuyentes respecto del cumplimiento voluntario de las disposiciones en materia de contribuciones federales, así como los medios por los cuales será difundido;
 
 XXII. Autorizar a las organizaciones que agrupen a contribuyentes para que a nombre de éstos puedan presentar declaraciones, avisos, solicitudes y demás documentos que exijan las disposiciones fiscales;
 
@@ -3129,21 +2767,29 @@ XXIV. Verificar el cumplimiento de las obligaciones de las personas morales y fi
 
 XXV. Proponer estrategias para fomentar el uso de los medios electrónicos de pago, comprobantes fiscales digitales por Internet y otros programas auxiliares a la fiscalización, en coordinación con las demás unidades administrativas del Servicio de Administración Tributaria;
 
-XXVI. Llevar a cabo las acciones necesarias para desarrollar, instrumentar y normar la operación de los comprobantes fiscales digitales por Internet y la firma electrónica avanzada, así como de los documentos electrónicos en los servicios a los contribuyentes, en coordinación con las demás unidades administrativas del Servicio de Administración Tributaria;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXVI. Llevar a cabo las acciones necesarias para desarrollar, instrumentar y normar la operación de los comprobantes fiscales digitales por Internet, pedimentos y la firma electrónica avanzada, así como de los documentos electrónicos en los servicios a los contribuyentes, en coordinación con las demás unidades administrativas del Servicio de Administración Tributaria o la Agencia Nacional de Aduanas de México, según corresponda;
 
 XXVII. Proponer, desarrollar, normar e instrumentar el uso y mejora de medios electrónicos, en los servicios dirigidos a los contribuyentes, en coordinación con las demás unidades administrativas del Servicio de Administración Tributaria;
 
 XXVIII. Resolver las solicitudes de autorización para actuar como proveedor de certificación en los procesos previstos en las disposiciones fiscales que tiene a su cargo el Servicio de Administración Tributaria, así como, según corresponda, amonestar, revocar, dejar sin efectos, no renovar o dar a conocer la pérdida de la vigencia de dicha autorización;
 
-XXIX. Emitir, en coordinación con la Administración General de Comunicaciones y Tecnologías de la Información, los lineamientos para el diseño de estrategias para el desarrollo y el fortalecimiento de los servicios digitales y otros programas que faciliten el cumplimiento voluntario y oportuno de las obligaciones fiscales y aduaneras;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXIX. Emitir, en coordinación con la Administración General de Comunicaciones y Tecnologías de la Información, los lineamientos para el diseño de estrategias para el desarrollo y el fortalecimiento de los servicios digitales y otros programas que faciliten el cumplimiento voluntario y oportuno de las obligaciones en materia de contribuciones federales;
 
 XXX. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de registro de contribuyentes, para comprobar los datos que se encuentran en el registro federal de contribuyentes y realizar las inscripciones y actualizaciones de los mismos por actos de autoridad;
 
 XXXI. Generar e integrar la información estadística en materia de registro federal de contribuyentes;
 
-XXXII. Normar, coordinar e implementar los programas y procedimientos para la inscripción, suspensión, modificación, cancelación y actualización en el registro federal de contribuyentes, en los padrones de importadores, de importadores de sectores específicos, de exportadores sectoriales y de cualquier otro padrón o registro previsto en la legislación fiscal o aduanera;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XXXIII. Integrar, dirigir y mantener actualizado el registro federal de contribuyentes y los demás registros y padrones previstos en la legislación fiscal y aduanera, basándose en los datos que las personas le proporcionen, o los que obtenga por cualquier otro medio, en términos del Código Fiscal de la Federación;
+XXXII. Normar, coordinar e implementar los programas y procedimientos para la inscripción, suspensión, modificación, cancelación y actualización en el registro federal de contribuyentes, en los padrones de importadores, de importadores de sectores específicos, de exportadores sectoriales para efectos fiscales y de cualquier otro padrón o registro previsto en la legislación en materia de contribuciones federales;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXXIII. Integrar, dirigir y mantener actualizado el registro federal de contribuyentes y los demás registros y padrones previstos en la legislación en materia de contribuciones federales, basándose en los datos que las personas le proporcionen, o los que obtenga por cualquier otro medio, en términos del Código Fiscal de la Federación;
 
 XXXIV. Verificar el cumplimiento de las obligaciones en materia de registro y actualización del registro federal de contribuyentes, basándose en los datos que las personas le proporcionen, los que le proporcionen terceros, las demás unidades administrativas del Servicio de Administración Tributaria, o los que obtenga por cualquier otro medio; requerir la presentación de avisos, solicitudes y demás documentos autorizados en materia de dicho registro, cuando los obligados no lo hagan en los plazos respectivos y tramitar y resolver las solicitudes de aclaraciones que presenten los contribuyentes en esta materia, así como requerir la rectificación de errores u omisiones contenidos en los citados documentos;
 
@@ -3181,9 +2827,13 @@ L. Coordinar con las instituciones de seguridad social y demás entes públicos 
 
 LI. Fungir como enlace del Servicio de Administración Tributaria con los grupos o sectores de contribuyentes que deban incorporarse a la economía formal, a fin de auxiliarlos en el cumplimiento de sus obligaciones fiscales y darles a conocer sus derechos;
 
-LII. Establecer canales de atención con los contribuyentes, organismos y asociaciones que los representen, en materia de simplificación y facilitación en el cumplimiento de sus obligaciones de comercio exterior, así como analizar las propuestas formuladas que tengan por objeto dar claridad y sencillez a la aplicación de los trámites y servicios previstos en la Ley Aduanera y demás disposiciones fiscales;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-LIII. Definir y establecer con las administraciones generales de Aduanas y de Auditoría de Comercio Exterior, los medios para dar a conocer a los contribuyentes la información contenida en el material impreso o electrónico, vinculada con la orientación en el cumplimiento voluntario de las disposiciones fiscales, aduaneras y de comercio exterior;
+LII. Establecer canales de atención con los contribuyentes, organismos y asociaciones que los representen, en materia de simplificación y facilitación en el cumplimiento de sus obligaciones incluidas las de comercio exterior, así como analizar las propuestas formuladas que tengan por objeto dar claridad y sencillez a la aplicación de los trámites y servicios previstos en las disposiciones en materia de contribuciones federales;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LIII. Determinar, mantener actualizado y poner a disposición los servicios de consulta de las claves en el registro federal de contribuyentes de aquéllos que cumplen con las obligaciones en materia de impuestos federales y, en su caso, con las autorizaciones o permisos emitidos por otras dependencias y entidades competentes de la Administración Pública Federal para realizar operaciones de comercio exterior, y
 
 LIV. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria, en el estudio y elaboración de propuestas de procedimientos de operación, relativos a la promoción del cumplimiento voluntario de las obligaciones en materia aduanera y de comercio exterior, y
 
@@ -3311,13 +2961,17 @@ a) Subadministradores Desconcentrados de Servicios al Contribuyente.
 
 Compete a las siguientes unidades administrativas de la Administración General de Servicios al Contribuyente ejercer las atribuciones que a continuación se señalan:
 
-A. A la Administración Central de Servicios Tributarios al Contribuyente y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X salvo establecer y normar el registro de trámites fiscales, XI, XII, XIII, XIV con excepción del establecimiento de los lineamientos a que se refiere dicha fracción, XV, XVI, XVII y XVIII del artículo 32 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+A. A la Administración Central de Servicios Tributarios al Contribuyente y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII y X salvo establecer y normar el registro de trámites fiscales, XI, XII, XIII, XIV con excepción del establecimiento de los lineamientos a que se refiere dicha fracción, XV, XVI, XVII y XVIII del artículo 32 de este Reglamento;
 
 B. A la Administración Central de Apoyo Jurídico de Servicios al Contribuyente y a las unidades administrativas adscritas a la misma, las siguientes:
 
 I. Las señaladas en las fracciones I, II, XV, XVIII, XIX, XX, XXI, XXII, XXIII y XXIV del artículo 32 de este Reglamento;
 
-II. Emitir opinión jurídica respecto de los acuerdos, bases de colaboración y convenios en los que la Administración General de Servicios al Contribuyente y sus unidades administrativas actúen como autoridad fiscal y aduanera;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+II. Emitir opinión jurídica respecto de los acuerdos, bases de colaboración y convenios en los que la Administración General de Servicios al Contribuyente y sus unidades administrativas actúen como autoridad fiscal;
 
 III. Coadyuvar y fungir como enlace con la Administración General Jurídica en el análisis de los proyectos de iniciativas de leyes, decretos, acuerdos, reglamentos, resoluciones administrativas y disposiciones de carácter general, respecto de las materias competencia de la Administración General de Servicios al Contribuyente y proponer a la Administración General Jurídica la emisión o modificación de los referidos proyectos, así como solicitar a las unidades administrativas de la Administración General de Servicios al Contribuyente sus propuestas e información necesaria para efectos de la presente fracción;
 
@@ -3327,13 +2981,17 @@ V. Emitir opinión respecto de los lineamientos, directrices o procedimientos qu
 
 VI. Fungir como enlace de la Administración General de Servicios al Contribuyente en la atención de los requerimientos de información de la Procuraduría de la Defensa del Contribuyente, vinculados con quejas o reclamaciones en las que sea señalada como responsable alguna de las unidades administrativas adscritas a dicha Administración General; propuestas de modificación a las disposiciones o estrategias internas cuando la materia de las mismas resulte de su competencia, así como participar en las reuniones en las que sea convocado el Servicio de Administración Tributaria para la atención de asuntos que correspondan a la Administración General de Servicios al Contribuyente;
 
-VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y aduaneras, decretos, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Servicios al Contribuyente, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VII. Solicitar a la Administración General Jurídica la publicación en el Diario Oficial de la Federación de las disposiciones fiscales y de comercio exterior, acuerdos, resoluciones administrativas, criterios y disposiciones de carácter general y particular, en las que corresponda participar a la Administración General de Servicios al Contribuyente, y
 
 VIII. Auxiliar al Administrador General de Servicios al Contribuyente, en el ejercicio de la atribución señalada en la fracción XLII del artículo 12 de este Reglamento;
 
 C. A la Administración Central de Gestión de Servicios y Trámites con Medios Electrónicos y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones I, II, XV, XVIII, XXV, XXVI, XXVII, XXVIII y XXX del artículo 32 de este Reglamento;
 
-D. A la Administración Central de Operación de Padrones y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones I, II, VII, XV, XVI, XVII, XVIII, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y XXXVIII del artículo 32 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+D. A la Administración Central de Operación de Padrones y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones I, II, VII, XV, XVI, XVII, XVIII, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII y LIII del artículo 32 de este Reglamento;
 
 E. A la Administración Central de Comunicación Institucional y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones XXI, XXV, XXXIX, XL, XLI, XLII, XLIII y XLIV del artículo 32 de este Reglamento;
 
@@ -3341,7 +2999,9 @@ F. A la Administración Central de Programas Interinstitucionales de Servicios y
 
 G. A la Administración Central de Promoción a la Formalidad y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones I, II, XV, XVII, XVIII, XLV, XLVIII, XLIX, L y LI del artículo 32 de este Reglamento;
 
-H. A la Administración Central de Gestión de Servicios y Trámites en materia de Comercio Exterior y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones XV, LII, LIII y LIV del artículo 32 de este Reglamento, y
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+H. A la Administración Central de Gestión de Servicios y Trámites en materia de Comercio Exterior y a las unidades administrativas adscritas a la misma, las señaladas en las fracciones XV, LII y LIV del artículo 32 de este Reglamento, y
 
 I. A la Coordinación Nacional de las Administraciones Desconcentradas de Servicios al Contribuyente y a las unidades administrativas adscritas a la misma, las siguientes:
 
@@ -3349,9 +3009,11 @@ I. Las señaladas en las fracciones XV y LV del artículo 32 de este Reglamento,
 
 II. Auxiliar al Administrador General de Servicios al Contribuyente en el ejercicio de las atribuciones señaladas en los artículos 11, fracción VIII y 12, fracciones III y XI de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 34.
 
-Compete a las administraciones desconcentradas de servicios al contribuyente y a las subadministraciones desconcentradas de servicios al contribuyente, ejercer las atribuciones señaladas en las fracciones I, II, VI, VII, VIII, IX, XI, XII, XIII, XIV salvo el establecer estrategias o lineamientos a que se refieren dicha fracción, XV, XVI, XVII, XVIII, XX, XXII, XXX, XXXIII, XXXIV, L y LII del artículo 32 de este Reglamento.
+Compete a las administraciones desconcentradas de servicios al contribuyente y a las subadministraciones desconcentradas de servicios al contribuyente, ejercer las atribuciones señaladas en las fracciones I, II, VI, VII, VIII, XI, XII, XIII, XIV salvo el establecer estrategias o lineamientos a que se refieren dicha fracción, XV, XVI, XVII, XVIII, XX, XXII, XXX, XXXIII, XXXIV, L y LII del artículo 32 de este Reglamento.
 
 Las administraciones desconcentradas de servicios al contribuyente estarán a cargo de un Administrador Desconcentrado, auxiliado en el ejercicio de sus facultades por los subadministradores desconcentrados de servicios al contribuyente, jefes de departamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -3371,9 +3033,15 @@ IV. Elaborar y proponer para aprobación superior, el Manual de Organización Ge
 
 V. Tramitar la publicación en el Diario Oficial de la Federación de las disposiciones administrativas que corresponda emitir al Servicio de Administración Tributaria;
 
-VI. Emitir opinión respecto de los acuerdos, bases de colaboración y convenios en los que el Jefe del Servicio de Administración Tributaria o los administradores generales actúen como autoridad fiscal o aduanera, salvo tratándose de los casos a que se refieren los artículos 19, fracción II, 28, apartados A, fracción XIV y B, fracción VIII y 40, fracciones XXVIII, XXXI, XXXVII y XLIII de este Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+VI. Emitir opinión respecto de los acuerdos, bases de colaboración y convenios en los que el Jefe del Servicio de Administración Tributaria o los administradores generales actúen como autoridad en materia de contribuciones federales, salvo tratándose de los casos a que se refieren los artículos 28, apartados A, fracción XIV y B, fracción VIII y 40, fracciones XXVIII, XXXI, XXXVII y XLIII de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 VII. Compilar y dar a conocer a través de los medios electrónicos establecidos, la normativa interna del Servicio de Administración Tributaria, en materia fiscal y aduanera;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 VIII. Compilar y dar a conocer a través de los medios electrónicos establecidos, la jurisprudencia en materia fiscal y aduanera;
 
@@ -3381,13 +3049,19 @@ IX. Establecer el criterio de interpretación que las unidades administrativas d
 
 X. Asistir a las unidades administrativas del Servicio de Administración Tributaria y a otras autoridades fiscales federales, a fin de que en los procedimientos administrativos que lleven a cabo, se cumplan las formalidades previstas en las disposiciones que los regulan;
 
-XI. Orientar a los contribuyentes respecto de asuntos individuales y concretos relativos a los trámites administrativos que realicen ante las autoridades fiscales y aduaneras, sin interferir en las funciones de las mismas, ni constituir instancia judicial o administrativa;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XI. Orientar a los contribuyentes respecto de asuntos individuales y concretos relativos a los trámites administrativos que realicen ante las unidades administrativas del Servicio de Administración Tributaria, sin interferir en las funciones de las mismas, ni constituir instancia judicial o administrativa;
 
 XII. Orientar y asistir legalmente a los servidores públicos adscritos al Servicio de Administración Tributaria, en los asuntos que deriven de los actos o actividades realizadas en el ejercicio de sus atribuciones, de conformidad con los lineamientos que al efecto emita;
 
-XIII. Resolver las consultas que formulen los interesados en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y aduaneras;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XIV. Resolver las solicitudes de autorización previstas en las disposiciones fiscales y aduaneras, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria, así como revocarlas, no renovarlas o dejarlas sin efectos;
+XIII. Resolver las consultas que formulen los interesados en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y de comercio exterior;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XIV. Resolver las solicitudes de autorización previstas en las disposiciones fiscales, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria, así como revocarlas, no renovarlas o dejarlas sin efectos;
 
 XV. Representar al Servicio de Administración Tributaria y a sus unidades administrativas, en toda clase de investigaciones y procedimientos administrativos tramitados por la Procuraduría de la Defensa del Contribuyente, así como ejercer las negociaciones, excepciones y defensas de las que sean titulares en dichos procedimientos, sin perjuicio de las quejas y denuncias de hechos canalizadas a la Administración General de Evaluación y al Órgano Interno de Control en dicho órgano administrativo desconcentrado o que deban ser atendidas por otras unidades administrativas conforme a su competencia;
 
@@ -3395,29 +3069,37 @@ XVI. Fungir como enlace para la atención de los requerimientos de información 
 
 XVII. Atender los asuntos relativos a la investigación y análisis de problemas sistémicos que afecten a los contribuyentes y sean identificados por la Procuraduría de la Defensa del Contribuyente;
 
-XVIII. Solicitar opinión a la Procuraduría de la Defensa del Contribuyente sobre la interpretación de las disposiciones fiscales y aduaneras;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Solicitar opinión a la Procuraduría de la Defensa del Contribuyente sobre la interpretación de las disposiciones fiscales y de comercio exterior;
 
 XIX. Asistir legalmente a los servidores públicos de las unidades administrativas del Servicio de Administración Tributaria en sus relaciones con los funcionarios o autoridades de otros países, respecto de acuerdos, convenios o tratados internacionales celebrados en materia aduanera y de comercio exterior;
 
-XX. Fungir como autoridad competente en la interpretación de tratados, convenios y acuerdos, incluso los de carácter interinstitucional en el ámbito internacional, en materia aduanera, de comercio exterior o de intercambio de información y de las disposiciones jurídicas en dichas materias, contenidas en otros instrumentos jurídicos internacionales;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XXI. Fungir como enlace entre el Servicio de Administración Tributaria y las unidades administrativas de la Secretaría de Relaciones Exteriores, estados extranjeros y organismos internacionales en materia jurídica aduanera y de comercio exterior;
+XX. Fungir como autoridad competente en la interpretación de tratados, convenios y acuerdos, incluso los de carácter interinstitucional en el ámbito internacional y demás instrumentos internacionales aplicables de los que México sea parte, en las materias competencia del Servicio de Administración Tributaria;
 
-XXII. Mantener comunicación con las autoridades aduaneras y de comercio exterior de otros países para obtener y proporcionar la información y documentación en relación con los asuntos internacionales en materia jurídica aduanera y de comercio exterior;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XXIII. Participar, con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público, en las negociaciones de convenios en materia aduanera y de comercio exterior;
+XXI. Fungir como enlace entre el Servicio de Administración Tributaria y las unidades administrativas de la Secretaría de Relaciones Exteriores, estados extranjeros y organismos internacionales en las materias a que se refiere este artículo;
 
-XXIV. Participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público en los grupos de trabajo que se establezcan al amparo de tratados, convenios o acuerdos internacionales, incluso los de carácter interinstitucional en materia aduanera, de comercio exterior o de intercambio de información, u otros instrumentos jurídicos internacionales que contengan disposiciones sobre dichas materias;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXII. Mantener comunicación con las autoridades aduaneras y de comercio exterior de otros países para obtener y proporcionar la información y documentación en relación con los asuntos internacionales en las materias a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXIII. Participar, con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público y de la Agencia Nacional de Aduanas de México, en las negociaciones de convenios en materia aduanera y de comercio exterior;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXIV. Participar conjuntamente con las unidades administrativas competentes del Servicio de Administración Tributaria, de la Secretaría de Hacienda y Crédito Público y de la Agencia Nacional de Aduanas de México, en los grupos de trabajo que se establezcan al amparo de tratados, convenios o acuerdos internacionales, incluso en comités y reuniones de carácter interinstitucional en materia aduanera, de comercio exterior o de intercambio de información, u otros instrumentos jurídicos internacionales que contengan disposiciones sobre dichas materias;
 
 XXV. Recabar, con fines estadísticos, la información relativa a las quejas y reclamaciones interpuestas ante la Procuraduría de la Defensa del Contribuyente tramitadas por los contribuyentes presuntamente afectados por actos de las unidades administrativas del Servicio de Administración Tributaria;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO FRACCIÓN III, DEL PRESENTE ORDENAMIENTO.</small>
 
 XXVI. Resolver los recursos de revocación hechos valer contra actos o resoluciones de la misma o de cualquier unidad administrativa del Servicio de Administración Tributaria que no tenga conferida de manera expresa esta atribución, así como los correspondientes a las autoridades fiscales federales de las entidades federativas en cumplimiento de los convenios de coordinación fiscal y, en su caso, el recurso de inconformidad previsto en la Ley de Coordinación Fiscal;
 
 XXVII. Representar al Secretario de Hacienda y Crédito Público, a la Junta de Gobierno, al Jefe del Servicio de Administración Tributaria y a las unidades administrativas de dicho órgano administrativo desconcentrado, en toda clase de juicios ante el Tribunal Federal de Justicia Fiscal y Administrativa, contra resoluciones o actos de éstos o de las autoridades fiscales de las entidades federativas que deriven de la aplicación de las leyes fiscales federales en cumplimiento de los convenios de coordinación fiscal, así como para ejercer las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios ante dicho Tribunal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO FRACCIÓN III, DEL PRESENTE ORDENAMIENTO.</small>
 
 XXVIII. Interponer con la representación del Secretario de Hacienda y Crédito Público, de la Junta de Gobierno, del Jefe del Servicio de Administración Tributaria y de las unidades administrativas de dicho órgano administrativo desconcentrado, el recurso de revisión contra las sentencias y resoluciones que pongan fin al juicio, dictadas por las Salas del Tribunal Federal de Justicia Fiscal y Administrativa, respecto de los juicios de su competencia, y el amparo adhesivo, así como comparecer y alegar en los juicios de amparo que interpongan los particulares en contra de las sentencias y resoluciones definitivas dictadas por el Tribunal Federal de Justicia Fiscal y Administrativa;
 
@@ -3467,23 +3149,41 @@ g) Administrador de Normatividad en Impuestos Internos “7”, y
 
 h) Subadministradores de Normatividad en Impuestos Internos;
 
-2. Administrador Central de Normatividad en Comercio Exterior y Aduanal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-a) Administrador de Normatividad en Comercio Exterior y Aduanal “1”;
+2. Administrador Central de Normatividad en Comercio Exterior:
 
-b) Administrador de Normatividad en Comercio Exterior y Aduanal “2”;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-c) Administrador de Normatividad en Comercio Exterior y Aduanal “3”;
+a) Administrador de Normatividad en Comercio Exterior "1";
 
-d) Administrador de Normatividad en Comercio Exterior y Aduanal “4”;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-e) Administrador de Normatividad en Comercio Exterior y Aduanal “5”;
+b) Administrador de Normatividad en Comercio Exterior "2";
 
-f) Administrador de Normatividad en Comercio Exterior y Aduanal “6”;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-g) Administrador de Normatividad en Comercio Exterior y Aduanal “7”, y
+c) Administrador de Normatividad en Comercio Exterior "3";
 
-h) Subadministradores de Normatividad en Comercio Exterior y Aduanal;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+d) Administrador de Normatividad en Comercio Exterior "4";
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+e) Administrador de Normatividad en Comercio Exterior "5";
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+f) Administrador de Normatividad en Comercio Exterior "6";
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+g) Administrador de Normatividad en Comercio Exterior "7", y
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+h) Subadministradores de Normatividad en Comercio Exterior;
 
 3. Administrador Central de lo Contencioso:
 
@@ -3569,13 +3269,21 @@ II. Administraciones de Normatividad en Impuestos Internos “1”, “2”, “
 
 III. Subadministraciones de Normatividad en Impuestos Internos, las señaladas en las fracciones I, II, III, IV, V, VII, XI, XII y XIII del artículo 35 de este Reglamento;
 
-B. A la Administración Central de Normatividad en Comercio Exterior y Aduanal y a las unidades administrativas adscritas a la misma, conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-I. Administración Central de Normatividad en Comercio Exterior y Aduanal, las señaladas en las fracciones I, II, III, V, VI, X, XI, XIII, XIV, XIX, XX, XXI, XXII, XXIII, XXIV y XL del artículo 35 de este Reglamento;
+B. A la Administración Central de Normatividad en Comercio Exterior y a las unidades administrativas adscritas a la misma, conforme a lo siguiente:
 
-II. Administraciones de Normatividad en Comercio Exterior y Aduanal “1”, “2”, “3”, “4”, “5”, “6” y “7”, las señaladas en las fracciones I, II, VI, X, XI, XIII, XIV, XIX, XX, XXI, XXII, XXIII y XXIV del artículo 35 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-III. Subadministraciones de Normatividad en Comercio Exterior y Aduanal, las señaladas en las fracciones I, X, XI, XIII y XIV del artículo 35 de este Reglamento.
+I. Administración Central de Normatividad en Comercio Exterior, las señaladas en las fracciones I, II, III, V, VI, X, XI, XIII, XIV, XIX, XX, XXI, XXII, XXIII, XXIV y XL del artículo 35 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+II. Administraciones de Normatividad en Comercio Exterior "1", "2", "3", "4", "5", "6" y "7", las señaladas en las fracciones I, II, VI, X, XI, XIII, XIV, XIX, XX, XXI, XXII, XXIII y XXIV del artículo 35 de este Reglamento, y
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+III. Subadministraciones de Normatividad en Comercio Exterior, las señaladas en las fracciones I, X, XI, XIII y XIV del artículo 35 de este Reglamento.
 
 La atribución que se otorga en este apartado respecto de la fracción XIII del artículo 35 de este Reglamento, no podrá ejercerse en lo que se refiere a consultas relativas al impuesto al valor agregado y al impuesto especial sobre producción y servicios;
 
@@ -3628,6 +3336,8 @@ III. Subadministraciones de Operación de Jurídica, la señalada en el inciso b
 Compete a las administraciones y subadministraciones desconcentradas jurídicas, ejercer las atribuciones que a continuación se señalan:
 
 I. A las administraciones desconcentradas jurídicas, las señaladas en las fracciones XI, XII, XIII, XIV, XV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y XL del artículo 35 de este Reglamento, así como analizar de oficio o previa solicitud de la unidad administrativa del Servicio de Administración Tributaria, que los actos administrativos dirigidos de manera individual a contribuyentes, que emitan las administraciones desconcentradas de las otras unidades administrativas del Servicio de Administración Tributaria, cumplen con las referidas formalidades, a fin de evitar vicios en dichos actos y procedimientos administrativos, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
 II. A las subadministraciones desconcentradas jurídicas, las señaladas en las fracciones XI, XIII, XIV, XV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y XL del artículo 35 de este Reglamento.
 
@@ -3723,15 +3433,25 @@ a) Administrador de Proyectos y Vinculación Institucional “1”, y
 
 b) Administrador de Proyectos y Vinculación Institucional “2”;
 
-3. Administrador Central de Estudios Tributarios y Aduaneros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-a) Administrador de Estudios Tributarios y Aduaneros “1”;
+3. Administrador Central de Estudios Tributarios:
 
-b) Administrador de Estudios Tributarios y Aduaneros “2”;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-c) Administrador de Estudios Tributarios y Aduaneros “3”, y
+a) Administrador de Estudios Tributarios "1";
 
-d) Administrador de Estudios Tributarios y Aduaneros “4”;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+b) Administrador de Estudios Tributarios "2";
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+c) Administrador de Estudios Tributarios "3", y
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+d) Administrador de Estudios Tributarios "4";
 
 4. Administrador Central de Modelos de Riesgo:
 
@@ -3763,7 +3483,9 @@ II. Auxiliar al Administrador General de Planeación en el ejercicio de la facul
 
 B. A la Administración Central de Proyectos y Vinculación Institucional, las señaladas en las fracciones XIII, XIV, XV, XVI, XVII con excepción de la emisión de lineamientos a que se refiere dicha fracción, XVIII, XXVII, XXVIII, XXIX, XXX y XXXII del artículo 38 de este Reglamento;
 
-C. A la Administración Central de Estudios Tributarios y Aduaneros, las señaladas en las fracciones XIX, XX, XXI, XXII, XXIII, XXVIII, XXX y XXXII del artículo 38 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+C. A la Administración Central de Estudios Tributarios, las señaladas en las fracciones XIX, XX, XXI, XXII, XXIII, XXVIII, XXX y XXXII del artículo 38 de este Reglamento;
 
 D. A la Administración Central de Modelos de Riesgo, conforme a lo siguiente:
 
@@ -3821,7 +3543,7 @@ XVIII. Realizar el diagnóstico periódico del clima organizacional y desarrolla
 
 XIX. Promover y aplicar los programas de servicio social de pasantes;
 
-XX. Aplicar las pruebas psicológicas que se requieran en el examen psicotécnico para obtener la patente de agente aduanal o la autorización de dictaminador aduanero;
+XX. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2021)
 
 XXI. Expedir y suscribir las credenciales oficiales de identificación del personal del Servicio de Administración Tributaria, así como validar los formatos de gafetes de identificación que emitan los administradores generales del Servicio de Administración Tributaria;
 
@@ -3843,11 +3565,17 @@ XXIX. Remover y cesar, conforme a las disposiciones jurídicas aplicables, al pe
 
 XXX. Dar cumplimiento a los laudos que se emitan respecto de los asuntos a que se refiere este artículo;
 
-XXXI. Establecer lineamientos, directrices, normas y criterios jurídicos para la celebración de contratos, convenios y demás actos relacionados con las materias de su competencia, inclusive las reglas de operación y los relacionados con la aplicación de los recursos de los fideicomisos públicos en los que el Servicio de Administración Tributaria sea parte; suscribir, modificar, revocar, suspender, dar por terminado anticipadamente y rescindir administrativamente en representación del Servicio de Administración Tributaria, los convenios y contratos que el mismo celebre, que no sean responsabilidad directa de otra unidad administrativa de dicho órgano administrativo desconcentrado conforme a las disposiciones jurídicas aplicables y de cuya ejecución se desprendan obligaciones patrimoniales a cargo del mismo, así como de los demás documentos que impliquen actos de administración, incluso los relativos a la celebración de rifas, sorteos o loterías cuyo objeto sea incentivar el cumplimiento voluntario de las disposiciones fiscales y aduaneras, apoyar las funciones recaudatorias, fiscalizadoras y aduaneras; llevar a cabo los procesos de adquisición y arrendamiento de bienes y servicios, así como los de obra pública y servicios relacionados con la misma; supervisar la prestación de servicios que contrate y la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en su posesión; realizar las acciones necesarias para la regularización jurídica y administrativa de los bienes inmuebles, así como aplicar las normas para la administración y baja de bienes muebles de las dependencias de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XXXII. Proporcionar y administrar, directamente o a través de terceros especializados que al efecto contrate, los bienes inmuebles necesarios para el almacenaje y preservación de los bienes muebles que sean entregados por las unidades administrativas del Servicio de Administración Tributaria en relación con los procedimientos administrativos fiscales y aduaneros, incluyendo el abandono, así como llevar a cabo el cuidado y protección de los mismos;
+XXXI. Establecer lineamientos, directrices, normas y criterios jurídicos para la celebración de contratos, convenios y demás actos relacionados con las materias de su competencia, inclusive las reglas de operación y los relacionados con la aplicación de los recursos de los fideicomisos públicos en los que el Servicio de Administración Tributaria sea parte; suscribir, modificar, revocar, suspender, dar por terminado anticipadamente y rescindir administrativamente en representación del Servicio de Administración Tributaria, los convenios y contratos que el mismo celebre, que no sean responsabilidad directa de otra unidad administrativa de dicho órgano administrativo desconcentrado conforme a las disposiciones jurídicas aplicables y de cuya ejecución se desprendan obligaciones patrimoniales a cargo del mismo, así como de los demás documentos que impliquen actos de administración, incluso los relativos a la celebración de rifas, sorteos o loterías cuyo objeto sea incentivar el cumplimiento voluntario de las disposiciones fiscales, apoyar las funciones recaudatorias, fiscalizadoras y de comercio exterior; llevar a cabo los procesos de adquisición y arrendamiento de bienes y servicios, así como los de obra pública y servicios relacionados con la misma; supervisar la prestación de servicios que contrate y la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en su posesión; realizar las acciones necesarias para la regularización jurídica y administrativa de los bienes inmuebles, así como aplicar las normas para la administración y baja de bienes muebles de las dependencias de la Administración Pública Federal;
 
-XXXIII. Determinar los procedimientos y criterios para el control, identificación, recepción, almacenaje, custodia, maniobra, traslado, entrega, transferencia y destino de las mercancías de comercio exterior que han pasado a propiedad del Fisco Federal y de las que se pueda disponer legalmente, de los bienes que sean entregados en relación con los procedimientos administrativos fiscales y aduaneros, incluyendo los abandonados, así como de las obras aceptadas como pago en especie que deban aplicar las unidades administrativas del Servicio de Administración Tributaria;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXXII. Proporcionar y administrar, directamente o a través de terceros especializados que al efecto contrate, los bienes inmuebles necesarios para el almacenaje y preservación de los bienes muebles que sean entregados por las unidades administrativas del Servicio de Administración Tributaria en relación con los procedimientos administrativos que dichas unidades administrativas lleven a cabo, incluyendo el abandono, así como llevar a cabo el cuidado y protección de los mismos;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXXIII. Determinar los procedimientos y criterios para el control, identificación, recepción, almacenaje, custodia, maniobra, traslado, entrega, transferencia y destino de las mercancías de comercio exterior que han pasado a propiedad del Fisco Federal y de las que se pueda disponer legalmente, de los bienes que sean entregados en relación con los procedimientos administrativos en materia de contribuciones federales, incluyendo los abandonados, así como de las obras aceptadas como pago en especie que deban aplicar las unidades administrativas del Servicio de Administración Tributaria;
 
 XXXIV. Recibir, tramitar y resolver sobre el pago en especie conforme a las disposiciones jurídicas aplicables;
 
@@ -3859,35 +3587,45 @@ XXXVII. Otorgar y cancelar las autorizaciones a que se refiere el artículo 16, 
 
 XXXVIII. Proponer al Jefe del Servicio de Administración Tributaria el programa interno de protección civil y llevar a cabo la comunicación y coordinación permanentes con el Sistema Nacional de Protección Civil;
 
-XXXIX. Proponer y aplicar las disposiciones y procedimientos de seguridad para el ingreso, permanencia y salida de personas y bienes de los inmuebles que ocupe el Servicio de Administración Tributaria, así como adoptar las medidas necesarias para evitar el comercio informal dentro de dichas instalaciones, excepto en los lugares que sean competencia de la Administración General de Aduanas;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XL. Adoptar las medidas necesarias para resguardar los bienes muebles e inmuebles que ocupe el Servicio de Administración Tributaria, así como para salvaguardar la integridad física de las personas que se encuentren dentro de las instalaciones; coordinar la atención de emergencias en dichos inmuebles, salvo en los lugares que sean competencia de la Administración General de Aduanas;
+XXXIX. Proponer y aplicar las disposiciones y procedimientos de seguridad para el ingreso, permanencia y salida de personas y bienes de los inmuebles que ocupe el Servicio de Administración Tributaria, así como adoptar las medidas necesarias para evitar el comercio informal dentro de dichas instalaciones;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XL. Adoptar las medidas necesarias para resguardar los bienes muebles e inmuebles que ocupe el Servicio de Administración Tributaria, así como para salvaguardar la integridad física de las personas que se encuentren dentro de las instalaciones; coordinar la atención de emergencias en dichos inmuebles;
 
 XLI. Asesorar a las unidades administrativas del Servicio de Administración Tributaria en los asuntos laborales relativos a su personal, incluso en la práctica y levantamiento de constancias y actas administrativas en esta materia, así como conocer del incumplimiento de las obligaciones laborales del personal del Servicio de Administración Tributaria para el ejercicio de sus atribuciones;
 
-XLII. Designar a los servidores públicos que le estén adscritos para que representen al Servicio de Administración Tributaria en los juicios, controversias y asuntos que no sean de naturaleza fiscal o aduanera y que no sean competencia de alguna otra unidad administrativa, así como revocar dicha designación;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XLII. Designar a los servidores públicos que le estén adscritos para que representen al Servicio de Administración Tributaria en los juicios, controversias y asuntos que no sean de naturaleza fiscal y que no sean competencia de alguna otra unidad administrativa, así como revocar dicha designación;
 
 XLIII. Representar al Secretario de Hacienda y Crédito Público y al Jefe del Servicio de Administración Tributaria ante el Tribunal Federal de Conciliación y Arbitraje y demás autoridades del trabajo, en las controversias y juicios laborales que se susciten con el personal que le preste sus servicios al citado órgano administrativo desconcentrado; formular las demandas y contestaciones; allanarse, transigir, abstenerse de ejercitar acciones y desistirse de ellas; celebrar convenios, conciliar en los juicios laborales y ejercer dicha representación inclusive respecto de las acciones relativas a la ejecución de los laudos, resoluciones o sentencias; interponer los recursos que procedan y absolver posiciones; formular las demandas de amparo que procedan en contra de los laudos, resoluciones, sentencias y acuerdos que en dichos juicios se dicten; asistir legalmente en materia laboral a las unidades administrativas del Servicio de Administración Tributaria, así como efectuar el pago de salarios caídos y otras prestaciones de carácter económico determinadas en laudos, sentencias, resoluciones y acuerdos definitivos y en aquellos otros casos que corresponda conforme a la ley, incluyendo la restitución en el goce de derechos;
 
-XLIV. Comparecer y representar al Servicio de Administración Tributaria ante las autoridades de carácter administrativo o judicial en los juicios o procedimientos que no sean de naturaleza fiscal o aduanera y que no correspondan a otra unidad administrativa en que sea parte dicho órgano administrativo desconcentrado; ejercer toda clase de acciones, defensas y excepciones que correspondan al Servicio de Administración Tributaria; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas, así como formular las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios o recursos interpuestos ante dichas autoridades y vigilar el cumplimiento de las resoluciones correspondientes;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XLV. Suscribir, en representación del Servicio de Administración Tributaria, los informes que se deban rendir ante la autoridad judicial, así como los recursos, demandas y promociones de término en procedimientos judiciales que no sean de naturaleza fiscal o aduanera y que no sean competencia de la Administración General Jurídica o de otra unidad administrativa del Servicio de Administración Tributaria;
+XLIV. Comparecer y representar al Servicio de Administración Tributaria ante las autoridades de carácter administrativo o judicial en los juicios o procedimientos que no sean de naturaleza fiscal y que no correspondan a otra unidad administrativa en que sea parte dicho órgano administrativo desconcentrado; ejercer toda clase de acciones, defensas y excepciones que correspondan al Servicio de Administración Tributaria; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas, así como formular las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicioso recursos interpuestos ante dichas autoridades y vigilar el cumplimiento de las resoluciones correspondientes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO FRACCIÓN III, DEL PRESENTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XLV. Suscribir, en representación del Servicio de Administración Tributaria, los informes que se deban rendir ante la autoridad judicial, así como los recursos, demandas y promociones de término en procedimientos judiciales que no sean de naturaleza fiscal y que no sean competencia de la Administración General Jurídica o de otra unidad administrativa del Servicio de Administración Tributaria;
 
 XLVI. Comparecer ante la Procuraduría General de la República y las procuradurías generales de justicia de las entidades federativas, en las investigaciones relacionadas con los vehículos asignados al Servicio de Administración Tributaria, para formular denuncias de hechos y querellas y, en su caso, otorgar el perdón en los términos de las disposiciones aplicables, cuando el daño causado haya sido reparado plenamente y a entera satisfacción, así como recibir el importe de los daños que se causen a los propios vehículos y retirarlos de los lugares en que se encuentren depositados, en el ámbito de competencia a que se refiere este artículo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO FRACCIÓN III, DEL PRESENTE ORDENAMIENTO.</small>
 
 XLVII. Coadyuvar con la Procuraduría General de la República, en la integración de las investigaciones y en el trámite de los procesos que afecten al Servicio de Administración Tributaria o en los que tenga interés jurídico, respecto de los asuntos a que se refiere este artículo, así como solicitar la intervención del Procurador General de la República en todos aquellos asuntos contenciosos que le competan en términos del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XLVIII. Otorgar, modificar y revocar la concesión para administrar las devoluciones del impuesto al valor agregado de conformidad con la Ley del Impuesto al Valor Agregado, así como supervisar el cumplimiento de los términos y condiciones que deriven de dicha concesión;
 
-XLIX. Resolver las solicitudes que presenten los contribuyentes respecto de las autorizaciones no previstas en las disposiciones fiscales y aduaneras, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XLIX. Resolver las solicitudes que presenten los contribuyentes respecto de las autorizaciones no previstas en las disposiciones fiscales, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria;
 
 L. Elaborar y dar seguimiento a los informes relacionados con la ejecución de los proyectos financiados con recursos de los fideicomisos públicos en los que el Servicio de Administración Tributaria sea parte;
 
-LI. Participar con la Administración General de Aduanas en las acciones de coordinación con las demás unidades administrativas del Servicio de Administración Tributaria, las dependencias y entidades de la Administración Pública Federal y las autoridades de las entidades federativas y municipales, en relación con las medidas de seguridad, control y vigilancia que deben aplicarse en aeropuertos, puertos marítimos, terminales ferroviarias o de autotransporte de carga o de pasajeros y cruces fronterizos autorizados para el tráfico internacional, así como ejecutar los mecanismos de control, configuración y monitoreo de seguridad para los servicios electrónicos, sistemas y aplicaciones en materia de seguridad institucional;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+LI. Colaborar y coordinarse con las demás unidades administrativas del Servicio de Administración Tributaria, las dependencias y entidades de la Administración Pública Federal y las autoridades de las entidades federativas y municipios, en relación con las medidas de seguridad y control que deben realizarse en el territorio nacional en los que pueda ejercer sus atribuciones, así como ejecutar los mecanismos de control, configuración y monitoreo de seguridad para los servicios electrónicos, sistemas y aplicaciones en materia de seguridad institucional;
 
 LII. Proporcionar servicios de seguridad y protección a las instalaciones, edificios y servidores públicos tanto de la Secretaría de Hacienda y Crédito Público, como del Servicio de Administración Tributaria que mediante acuerdo determine el Presidente de la Junta de Gobierno de este órgano administrativo desconcentrado, en los términos que se establezcan en dicho acuerdo, y
 
@@ -4029,7 +3767,9 @@ III. Coadyuvar con la Administración General Jurídica en el análisis de los p
 
 IV. Emitir opinión respecto de disposiciones internas que las unidades administrativas de la Administración General de Recursos y Servicios deberán seguir en la aplicación de las disposiciones jurídicas, y
 
-V. Prestar asesoría y apoyo jurídico, así como emitir las opiniones jurídicas que requieran las unidades administrativas del Servicio de Administración Tributaria en el ejercicio de sus atribuciones, respecto de las materias distintas a la aplicación de las disposiciones fiscales y aduaneras;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+V. Prestar asesoría y apoyo jurídico, así como emitir las opiniones jurídicas que requieran las unidades administrativas del Servicio de Administración Tributaria en el ejercicio de sus atribuciones, respecto de las materias distintas a la aplicación de las disposiciones fiscales;
 
 F. A la Administración Central de Planeación y Proyectos, las señaladas en las fracciones I, II, VII, VIII, IX, XXIV, XXXVIII y L del artículo 40 de este Reglamento;
 
@@ -4097,9 +3837,13 @@ XXIII. Coordinar el desarrollo del modelo de seguridad en comunicaciones y tecno
 
 XXIV. Implementar controles, esquemas de configuración o monitoreo de seguridad y medidas de protección en materia de servicios electrónicos, sistemas y aplicaciones, comunicación e intercambio de datos, infraestructura, mecanismos de almacenamiento y de acceso a la información del Servicio de Administración Tributaria;
 
-XXV. Diseñar, definir y coordinar la implementación de los procesos tecnológicos, estructuras lógicas, protocolos, estándares, métodos, procedimientos de intercambio de información y demás definiciones tecnológicas en materia de firma electrónica avanzada, comprobantes fiscales digitales por Internet, así como respecto de cualquier otro documento o aplicación de carácter digital que prevean las disposiciones fiscales y aduaneras;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XXVI. Emitir opinión sobre el cumplimiento de los requisitos tecnológicos establecidos en la normativa correspondiente por parte de las personas que formulen alguna de las solicitudes de autorización a que se refieren las disposiciones fiscales y aduaneras, y
+XXV. Diseñar, definir y coordinar la implementación de los procesos tecnológicos, estructuras lógicas, protocolos, estándares, métodos, procedimientos de intercambio de información y demás definiciones tecnológicas en materia de firma electrónica avanzada, comprobantes fiscales digitales por Internet, así como respecto de cualquier otro documento o aplicación de carácter digital que prevean las disposiciones en las materias competencia del Servicio de Administración Tributaria;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXVI. Emitir opinión sobre el cumplimiento de los requisitos tecnológicos establecidos en la normativa correspondiente por parte de las personas que formulen alguna de las solicitudes de autorización a que se refieren las disposiciones fiscales y de comercio exterior, y
 
 XXVII. Establecer directrices y procedimientos para la utilización de mecanismos electrónicos de registro, medición, comunicación o intercambio de información con contribuyentes y terceros, así como evaluar las solicitudes que al respecto se formulen en términos de las disposiciones jurídicas aplicables y emitir el dictamen correspondiente.
 
@@ -4119,7 +3863,9 @@ a) Administradores de Apoyo Desconcentrado;
 
 6. Administrador Central de Seguridad, Monitoreo y Control.
 
-En cada sede de las unidades administrativas desconcentradas y de las aduanas del Servicio de Administración Tributaria, la Administración General de Comunicaciones y Tecnologías de la Información podrá contar con un servidor público que estará adscrito a la Administración Central de Operación y Servicios Tecnológicos, para que coordine la instrumentación de los sistemas, métodos, procedimientos y proyectos a que se refiere este artículo.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+En cada sede de las unidades administrativas desconcentradas del Servicio de Administración Tributaria, la Administración General de Comunicaciones y Tecnologías de la Información podrá contar con un servidor público que estará adscrito a la Administración Central de Operación y Servicios Tecnológicos, para que coordine la instrumentación de los sistemas, métodos, procedimientos y proyectos a que se refiere este artículo.
 
 ###### Artículo 43.
 
@@ -4145,7 +3891,9 @@ Compete a la Administración General de Evaluación:
 
 I. Recibir y analizar la información sobre hechos que puedan ser causa de responsabilidad administrativa o constitutivos de delitos con motivo de actos u omisiones de los servidores públicos del Servicio de Administración Tributaria en el desempeño de sus funciones;
 
-II. Planear, organizar, establecer, dirigir y controlar estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas en materia fiscal y aduanera en cualquier lugar en el que las unidades administrativas del Servicio de Administración Tributaria ejerzan sus atribuciones, así como realizar los actos de prevención que se requieran en apoyo a dichas unidades en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+II. Planear, organizar, establecer, dirigir y controlar estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas en cualquier lugar en el que las unidades administrativas del Servicio de Administración Tributaria ejerzan sus atribuciones, así como realizar los actos de prevención que se requieran en apoyo a dichas unidades en el ejercicio de sus atribuciones;
 
 III. Instrumentar, en coordinación con las demás unidades administrativas del Servicio de Administración Tributaria, las medidas para prevenir actos de los servidores públicos de dicho órgano administrativo desconcentrado contrarios a las disposiciones jurídicas aplicables;
 
@@ -4165,7 +3913,9 @@ X. Formular denuncias respecto de los hechos que puedan constituir delitos de lo
 
 XI. Informar a la autoridad competente, la cuantificación del perjuicio sufrido por el Fisco Federal por hechos que pudieren constituir delitos fiscales o de los servidores públicos del Servicio de Administración Tributaria, así como proporcionarle a dicha autoridad, en su carácter de coadyuvante del Ministerio Público, el apoyo técnico y contable en los procesos penales que deriven de dichas actuaciones, tratándose de asuntos urgentes, confidenciales o especializados y, en los demás casos, solicitar a la Administración General de Auditoría Fiscal Federal su intervención, a efecto de que sea ésta quien informe a la autoridad competente la cuantificación del perjuicio sufrido por el Fisco Federal, en términos de la fracción XIX del artículo 22 de este Reglamento;
 
-XII. Requerir a las unidades administrativas del Servicio de Administración Tributaria, la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a las bases de datos y, en su caso, participar en las actividades sujetas a vigilancia, previa notificación al titular de la unidad administrativa de que se trate o de su superior jerárquico, así como en los actos de fiscalización en cumplimiento de las disposiciones fiscales y aduaneras, previa habilitación del personal necesario por parte de la unidad administrativa competente del Servicio de Administración Tributaria;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XII. Requerir a las unidades administrativas del Servicio de Administración Tributaria, la información y documentación necesaria para el ejercicio de sus atribuciones, incluido el acceso a las bases de datos y, en su caso, participar en las actividades sujetas a vigilancia, previa notificación al titular de la unidad administrativa de que se trate o de su superior jerárquico, así como en los actos de fiscalización que lleven a cabo, previa habilitación del personal necesario por parte de la unidad administrativa competente del Servicio de Administración Tributaria;
 
 XIII. Solicitar y atender, respecto de los asuntos a que se refiere este artículo, los requerimientos de información de las dependencias y entidades de la Administración Pública Federal, así como de los órganos constitucionalmente autónomos y coordinar sus acciones con la Procuraduría Fiscal de la Federación, la Procuraduría General de la República, instancias de seguridad nacional, las demás unidades administrativas del Servicio de Administración Tributaria y el Órgano Interno de Control en dicho órgano administrativo desconcentrado, para dar seguimiento a los asuntos relacionados con la transparencia, la rendición de cuentas, prevención y combate de actos de corrupción;
 
@@ -4185,7 +3935,9 @@ XX. Verificar los mecanismos de control, configuración y monitoreo de seguridad
 
 XXI. Diseñar y desarrollar encuestas, sondeos y estudios de opinión pública sobre temas institucionales, fiscales, hacendarios, económicos y de coyuntura nacional, así como participar en la realización de campañas de difusión orientadas a los aspectos de transparencia y del proceso tributario, en coordinación con las unidades administrativas competentes del Servicio de Administración Tributaria, la Secretaría de Hacienda y Crédito Público, con grupos de contribuyentes de los diversos sectores, asociaciones, cámaras, colegios e institutos académicos y de investigación, a fin de conocer la percepción sobre los aspectos tributarios, y coadyuvar en la mejora de procesos, el combate a la corrupción, el fomento de la transparencia y la legalidad, la difusión de los medios de recepción de quejas y denuncias con los que cuenta el Servicio de Administración Tributaria;
 
-XXII. Coordinar a las unidades administrativas del Servicio de Administración Tributaria en el desarrollo y aplicación de sondeos, encuestas y estudios de opinión que se realicen, a fin de evaluar la operación recaudatoria, la calidad de los servicios y cobertura de los registros de padrones contemplados en la legislación fiscal y aduanera, conforme a lo que establezcan las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público. Asimismo, establecer alianzas estratégicas de comunicación y convenios de vinculación académica, de asesoría e investigación, con instituciones públicas, privadas, organismos internacionales, o asociaciones con el propósito de realizar intercambios de conocimientos, metodologías y desarrollos en los estudios de opinión pública y acciones enfocadas a la transparencia y combate a la corrupción en los asuntos del Servicio de Administración Tributaria;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XXII. Coordinar a las unidades administrativas del Servicio de Administración Tributaria en el desarrollo y aplicación de sondeos, encuestas y estudios de opinión que se realicen, a fin de evaluar la operación recaudatoria, la calidad de los servicios y cobertura de los registros de padrones contemplados en la legislación, conforme a lo que establezcan las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público. Asimismo, establecer alianzas estratégicas de comunicación y convenios de vinculación académica, de asesoría e investigación, con instituciones públicas, privadas, organismos internacionales, o asociaciones con el propósito de realizar intercambios de conocimientos, metodologías y desarrollos en los estudios de opinión pública y acciones enfocadas a la transparencia y combate a la corrupción en los asuntos del Servicio de Administración Tributaria;
 
 XXIII. Instruir a las unidades administrativas del Servicio de Administración Tributaria, la imposición de las medidas disciplinarias que resulten aplicables a los servidores públicos del Servicio de Administración Tributaria incluso las que deriven de las revisiones administrativas, supervisiones o interventorías internas, cuando se considere necesario conminarlos a conducirse conforme a las disposiciones jurídicas aplicables;
 
@@ -4219,13 +3971,19 @@ XXXVII. Evaluar los procesos institucionales emitiendo recomendaciones que permi
 
 XXXVIII. Instrumentar el proceso de evaluación de la confiabilidad en el Servicio de Administración Tributaria, emitir lineamientos y criterios relativos a dicha materia; aplicar exámenes toxicológicos, socioeconómicos, psicológicos y psicotécnicos entre otros, para el ingreso, reingreso, permanencia o cualquier otro movimiento de los servidores públicos del Servicio de Administración Tributaria y aquellos comisionados a este órgano administrativo desconcentrado por otras dependencias o entidades de la Administración Pública Federal y, en su caso, cuando así lo determine esta Administración General o la Administración Central a la que se encuentren adscritos, así como a las personas físicas, representantes de personas morales o terceros relacionados con las mismas, con las que el Servicio de Administración Tributaria mantenga alguna relación derivada de contratos, concesiones, permisos, autorizaciones o de cualquier otro acto jurídico, que por la naturaleza de las funciones que realice se considere necesario efectuar dicha evaluación; y aplicar evaluaciones de confiabilidad a personas relacionadas con instituciones públicas y privadas en los términos de los convenios que se tengan celebrados para tales efectos;
 
-XXXIX. Entrevistar y aplicar, como parte del examen psicotécnico, evaluaciones de confiabilidad a los sujetos obligados en términos de la Ley Aduanera;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-XL. Coadyuvar con las autoridades fiscales y aduaneras del Servicio de Administración Tributaria en la práctica de visitas domiciliarias, actos de vigilancia, inspecciones, verificación de mercancías en transporte, verificación en tránsito de vehículos de procedencia extranjera y de aeronaves y embarcaciones; en la vigilancia y custodia de los recintos fiscales y fiscalizados y de los bienes y valores depositados en ellos; en los demás actos para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios que establezcan las disposiciones fiscales y aduaneras y, en general, colaborar en el desarrollo de las demás actividades que tengan encomendadas conforme al presente Reglamento y demás disposiciones jurídicas aplicables;
+XXXIX. Entrevistar y aplicar, como parte del examen psicotécnico, evaluaciones de confiabilidad a los sujetos obligados en términos de las disposiciones fiscales;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XL. Coadyuvar con las autoridades fiscales del Servicio de Administración Tributaria en la práctica de visitas domiciliarias, verificación de mercancías en transporte, verificación en tránsito de vehículos de procedencia extranjera y de aeronaves y embarcaciones, y en los demás actos para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios que establezcan las disposiciones fiscales y aduaneras, en general, colaborar en el desarrollo de las demás actividades que tengan encomendadas conforme al presente Reglamento y demás disposiciones jurídicas aplicables;
 
 XLI. Verificar, evaluar y, en su caso, emitir directrices y recomendaciones a la Administración General de Comunicaciones y Tecnologías de la Información sobre los procedimientos y medidas a que se refiere el artículo 42, fracciones XVIII, XIX, XX y XXII del presente Reglamento, previo a su definición e instrumentación; solicitar la adecuación de cualquier proceso en materia de comunicaciones y tecnologías de la información, respecto de los sistemas de control de acceso, identificación y autentificación de usuarios de los bienes y servicios informáticos, así como de los demás procesos y sistemas utilizados para salvaguardar la confidencialidad, la integridad y la disponibilidad de los servicios e infraestructura de cómputo, comunicaciones y tecnologías de la información del Servicio de Administración Tributaria;
 
-XLII. Requerir y obtener de los particulares autorizados para practicar el reconocimiento aduanero en términos de la Ley Aduanera, todo tipo de documentación e información, incluso digital, relacionada con las operaciones de comercio exterior en las que participen, así como la relativa a otras operaciones y trámites en materia aduanera de los que tengan conocimiento;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+XLII. Requerir y obtener todo tipo de documentación e información, incluso digital, relacionada con las operaciones y trámites en las materias competencia del Servicio de Administración Tributaria de los que tengan conocimiento;
 
 XLIII. Supervisar que las unidades administrativas del Servicio de Administración Tributaria atiendan y den cumplimiento a los requerimientos de auditorías y revisiones, así como examinar que solventen las acciones y recomendaciones formuladas por la Auditoría Superior de la Federación, el Órgano Interno de Control, o de cualquier órgano fiscalizador y aquéllas emitidas por esta Administración General, y
 
@@ -4269,21 +4027,37 @@ c) Administrador de Evaluación de la Confiabilidad “3”, y
 
 d) Administrador de Evaluación de la Confiabilidad “4”;
 
-4. Administrador Central de Evaluación de Comercio Exterior y Aduanal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-a) Administrador de Evaluación de Comercio Exterior y Aduanal “1”;
+4. Administrador Central de Evaluación de Comercio Exterior:
 
-b) Administrador de Evaluación de Comercio Exterior y Aduanal “2”;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-c) Administrador de Evaluación de Comercio Exterior y Aduanal “3”;
+a) Administrador de Evaluación de Comercio Exterior "1";
 
-d) Administrador de Evaluación de Comercio Exterior y Aduanal “4”;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-e) Administrador de Evaluación de Comercio Exterior y Aduanal “5”;
+b) Administrador de Evaluación de Comercio Exterior "2";
 
-f) Administrador de Evaluación de Comercio Exterior y Aduanal “6”, y
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
 
-g) Administrador de Evaluación de Comercio Exterior y Aduanal “7”;
+c) Administrador de Evaluación de Comercio Exterior "3";
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+d) Administrador de Evaluación de Comercio Exterior "4";
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+e) Administrador de Evaluación de Comercio Exterior "5";
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+f) Administrador de Evaluación de Comercio Exterior "6", y
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+g) Administrador de Evaluación de Comercio Exterior "7";
 
 5. Administrador Central de Evaluación de Impuestos Internos:
 
@@ -4347,7 +4121,9 @@ B. A la Administración Central de Análisis y Evaluación de Riesgos, las seña
 
 C. A la Administración Central de Evaluación de la Confiabilidad, las señaladas en las fracciones I, III, IV, V, VII, VIII, IX, XII, XIII, XVI, XVII, XVIII, XXIII, XXIV, XXVI, XXXI, XXXII, XXXVIII con excepción de la emisión de los lineamientos a que se refiere dicha fracción y XXXIX del artículo 44 de este Reglamento;
 
-D. A la Administración Central de Evaluación de Comercio Exterior y Aduanal, las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XX, XXIII, XXIV, XXVI, XXIX, XXXII, XL, XLI con excepción de la emisión de directrices y recomendaciones a que se refiere dicha fracción y XLII del artículo 44 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2021)</small>
+
+D. A la Administración Central de Evaluación de Comercio Exterior, las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XX, XXIII, XXIV, XXVI, XXIX, XXXII, XL, XLI con excepción de la emisión de directrices y recomendaciones a que se refiere dicha fracción y XLII del artículo 44 de este Reglamento;
 
 E. A la Administración Central de Evaluación de Impuestos Internos, las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XX, XXIII, XXIV, XXVI, XXIX, XXXI, XXXII, XL y XLI con excepción de la emisión de directrices y recomendaciones a que se refiere dicha fracción, del artículo 44 de este Reglamento;
 
@@ -4626,3 +4402,35 @@ Los expedientes en trámite y archivos a cargo de las administraciones regionale
 NOVENO.- Las modificaciones a la estructura orgánica del Servicio de Administración Tributaria que deriven de la entrada en vigor del presente Reglamento, se realizarán a través de movimientos compensados del presupuesto autorizado de servicios personales de dicho órgano administrativo desconcentrado para el ejercicio fiscal en curso, por lo que no se incrementará el presupuesto regularizable de servicios personales para el siguiente ejercicio fiscal.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de agosto de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO Y DEL REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, Y POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA NACIONAL DE ADUANAS DE MÉXICO”.]
+
+Primero. El presente Decreto entrará en vigor el 1o de enero de 2022.
+
+Segundo. Se abroga el Decreto por el que se crea la Agencia Nacional de Aduanas de México como un órgano administrativo desconcentrado de la Secretaría de Hacienda y Crédito Público publicado en el Diario Oficial de la Federación el 14 de julio de 2021.
+
+Tercero. El Servicio de Administración Tributaria podrá proporcionar a la Agencia Nacional de Aduanas de México los servicios de comunicaciones y tecnologías de la información requeridos para apoyar sus funciones administrativas hasta en tanto ésta pueda llevarlos a cabo por su cuenta, en los términos del convenio de colaboración que al efecto se celebre.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para la Secretaría de Hacienda y Crédito Público en el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, por lo que no se autorizarán recursos adicionales y no se incrementará su presupuesto regularizable durante el ejercicio fiscal respectivo.
+
+Quinto. Los recursos humanos, financieros y materiales con que cuenta la Administración General de Aduanas y las Aduanas del Servicio de Administración Tributaria serán transferidos a la Agencia Nacional de Aduanas de México.
+
+Las erogaciones que se generen con motivo de la transferencia deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Los ejecutores de gasto, por conducto de sus unidades responsables, deberán realizar el proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+Los derechos de los trabajadores serán respetados conforme a la legislación y normativa aplicables.
+
+Sexto. Para efectos de lo previsto en el último párrafo del artículo 38 del presente Reglamento, para agilizar la organización y colaboración entre las referidas autoridades federales, la Secretaría de la Defensa Nacional y la Secretaría de Marina podrán constituir fideicomisos públicos sin estructura, que servirán como vehículos financieros para recibir y administrar los recursos que deriven de cualquier otro vehículo que reciba la contraprestación prevista en el artículo 16 de la Ley Aduanera, con objeto de que con cargo a los patrimonio (sic) de los fideicomisos que lleguen a constituirse, se realicen los pagos correspondientes a los servicios u obra pública contratados para los puntos de entrada y salida del país que coordinan, en cumplimiento estricto a lo previsto en el artículo 16 de la Ley Aduanera.
+
+Séptimo. Los asuntos que a la entrada en vigor del presente instrumento jurídico se encuentren en trámite en la Administración General de Aduanas, las Aduanas y las unidades administrativas que de éstas dependan, así como aquéllos atendidos por las unidades administrativas del Servicio de Administración Tributaria que modifiquen sus atribuciones en virtud de la entrada en vigor del presente Reglamento por ser competencia de la Agencia Nacional de Aduanas de México, se tramitarán hasta su conclusión por dicha Agencia, sus Aduanas y las unidades administrativas que de éstas dependan, en el ámbito que a cada una corresponda de conformidad con su Reglamento Interior vigente.
+
+Octavo. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la Administración General de Aduanas y a las Aduanas del Servicio de Administración Tributaria se entenderán hechas o conferidas a la Agencia Nacional.
+
+Para efecto de los contratos de fideicomisos públicos en los que la Administración General de Aduanas del Servicio de Administración Tributaria funja como unidad responsable, la Agencia deberá llevar a cabo todas las gestiones necesarias con la finalidad de que se modifiquen dentro de los 90 días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+Noveno. Los asuntos derivados de denuncias presentadas en contra de los servidores públicos de la Administración General de Aduanas que se encuentren en trámite en la Administración General de Evaluación se trasladarán a la Dirección General de Evaluación de la Agencia Nacional, de conformidad con la legislación aplicable.
