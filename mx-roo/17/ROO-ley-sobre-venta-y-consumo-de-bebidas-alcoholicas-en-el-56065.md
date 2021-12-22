@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2020-12-21"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -47,9 +47,9 @@ LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
 Las disposiciones de la presente Ley son de orden público, interés social y de observancia general en el Estado de Quintana Roo y tiene por objeto regular la venta, consumo y/o distribución de bebidas alcohólicas y cualquier otra acción que conduzca a la realización de dichas actividades, de conformidad con lo establecido en la presente Ley.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-El consumo que se regulará en la presente Ley será en los casos específicos que se señalan en la misma, y para ello se deberá contar con un permiso especial y cubrir el pago previsto en la Ley de Hacienda del Estado de Quintana Roo, y en su caso, con instalaciones que cuenten con servicios mínimos para garantizar la Seguridad Técnica y Protocolos de Seguridad Interna a que se refiere la fracción X del artículo 4 de esta Ley, enlazadas con la Secretaría de Seguridad Pública en su operación.
+El consumo que se regulará en la presente Ley será en los casos específicos que se señalan en la misma, y para ello se deberá contar con un permiso especial y cubrir el pago previsto en la Ley de Derechos del Estado de Quintana Roo, y en su caso, con instalaciones que cuenten con servicios mínimos para garantizar la Seguridad Técnica y Protocolos de Seguridad Interna a que se refiere la fracción X del artículo 4 de esta Ley, enlazadas con la Secretaría de Seguridad Pública en su operación.
 
 ###### ARTÍCULO 2.
 
@@ -153,9 +153,9 @@ La Secretaría de Seguridad tendrá las facultades para emitir las normas, bási
 
 Para llevar a cabo la actividad señalada en el Artículo 1 de la presente Ley, las personas físicas o morales, deberán obtener previamente la Licencia de Bebidas Alcohólicas, Permiso Provisional o Especial en los términos que la misma establece, y contar con Dictamen de Anuencia.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-Los derechos por el otorgamiento, modificación, transferencia, refrendo, renovación o reposición de la Licencia de Bebidas Alcohólicas, y por el otorgamiento del Permiso Provisional o Especial a que se refiere esta Ley, se causarán con base a las tarifas establecidas en la Ley de Hacienda del Estado de Quintana Roo.
+Los derechos por el otorgamiento, modificación, transferencia, refrendo, renovación o reposición de la Licencia de Bebidas Alcohólicas, y por el otorgamiento del Permiso Provisional o Especial a que se refiere esta Ley, se causarán con base a las tarifas establecidas en la Ley de Derechos del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -291,13 +291,15 @@ Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en su
 
 Para efectos de esta fracción el titular de la Licencia de Bebidas Alcohólicas deberá apegarse al procedimiento que se determine en el Reglamento de la presente Ley para nombrar sucesor.
 
-III.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a persona distinta a los señalados en las fracciones anteriores, será viable toda vez que el cesionario haya cumplido con lo señalado en los Artículos 14 y 15 de la presente Ley. Respecto al inciso g) del Artículo 15, el cesionario deberá pagar, por única vez, un derecho de acuerdo a lo previsto en la materia en la Ley de Hacienda del Estado de Quintana Roo;
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+III.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a persona distinta a los señalados (sic) en las fracciones anteriores, será viable toda vez que el cesionario haya cumplido con lo señalado en los Artículos 14 y 15 de la presente Ley. Respecto al inciso g) del Artículo 15, el cesionario deberá pagar, por única vez, un derecho de acuerdo a lo previsto en la materia en la Ley de Derechos del Estado de Quintana Roo;
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-IV.- La transferencia temporal mediante comodato para el uso de los derechos y obligaciones que dicha licencia otorga será autorizada, siempre y cuando presente el contrato de comodato respectivo con firmas originales, en el formato que para tal efecto establezca la Secretaría, y haya cumplido con lo señalado en los artículos 14 y 15 de la presente ley. Respecto al inciso g) del artículo 15, el comodatario deberá pagar por ejercicio fiscal (sic) total o la parte proporcional que corresponda de acuerdo a lo previsto en la Ley de Hacienda del Estado de Quintana Roo. La autorización de esta transferencia temporal mediante comodato deberá de renovarse anualmente. Se negará al titular de la Licencia de Bebidas Alcohólicas, la autorización de celebrar otro contrato de comodato cuando el comodatario autorizado, presente adeudo en sus obligaciones derivadas del uso y explotación de la Licencia correspondiente.
+IV.- La transferencia temporal mediante comodato para el uso de los derechos y obligaciones que dicha licencia otorga será autorizada, siempre y cuando presente el contrato de comodato respectivo con firmas originales, en el formato que para tal efecto establezca la Secretaría, y haya cumplido con lo señalado en los artículos 14 y 15 de la presente ley. Respecto al inciso g) del artículo 15, el comodatario deberá pagar por ejercicio fiscal total o la parte proporcional que corresponda de acuerdo a lo previsto en la Ley de Derechos del Estado de Quintana Roo. La autorización de esta transferencia temporal mediante comodato deberá de renovarse anualmente. El Titular de la Licencia de Bebidas Alcohólicas no podrá tramitar la autorización de celebrar otro contrato de comodato, cuando el Comodante o el Comodatario autorizado, presenten adeudos en sus obligaciones derivadas del uso y explotación de la Licencia de Bebidas Alcohólicas.
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
@@ -345,7 +347,9 @@ e) Constancia de uso de suelo de vigencia definitiva expedida por la autoridad m
 
 f) Certificado de no antecedentes penales expedido por la autoridad competente del lugar o de los lugares en los que el solicitante haya radicado los últimos 5 años, y cuya antigüedad no sea mayor a tres meses a la fecha de la solicitud. En el caso de las personas morales, el certificado deberá corresponder a alguno de los integrantes de la misma y no al apoderado legal;
 
-g) En caso de autorización de la Licencia de Bebidas Alcohólicas, pagar los derechos que en la materia prevea la Ley de Hacienda del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+g) En caso de autorización de la Licencia de Bebidas Alcohólicas, pagar los derechos que en la materia prevea la Ley de Derechos del Estado de Quintana Roo.
 
 h) Fotografías del exterior e interior del establecimiento.
 
@@ -369,9 +373,13 @@ l) Cumplir con las disposiciones específicas que para cada giro del establecimi
 
 El titular de la Licencia de Bebidas Alcohólicas que requiera efectuar alguna modificación en la misma se sujetará a lo establecido en los Artículos 11, 12, 13, 14, 15 y 26 de esta Ley y su Reglamento según sea el caso, y solamente en lo que expresamente aplique y señale la fracción correspondiente.
 
-De manera particular, en el caso de que el titular de una Licencia de Bebidas Alcohólicas decida cambiar el domicilio o razón social de la misma, deberá realizar previamente el trámite correspondiente, y cubrir un derecho a la Secretaría de conformidad a lo previsto en la Ley de Hacienda del Estado de Quintana Roo, en caso de ser viable el cambio solicitado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-De igual forma, en el caso de pérdida o extravío del documento original de la Licencia de Bebidas Alcohólicas, el titular deberá reportarlo por escrito a la Secretaría, y solicitar al Ejecutivo su reposición de acuerdo a lo señalado en el Reglamento de esta Ley, así como cubrir el pago de derechos establecidos para este caso en la Ley de Hacienda del Estado de Quintana Roo.
+De manera particular, en el caso de que el titular de una Licencia de Bebidas Alcohólicas decida cambiar el domicilio o razón social de la misma, deberá realizar previamente el trámite correspondiente, y cubrir un derecho a la Secretaría de conformidad a lo previsto en la Ley de Derechos del Estado de Quintana Roo, en caso de ser viable el cambio solicitado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+De igual forma, en el caso de pérdida o extravío del documento original de la Licencia de Bebidas Alcohólicas, el titular deberá reportarlo por escrito a la Secretaría, y solicitar al Ejecutivo su reposición de acuerdo a lo señalado en el Reglamento de esta Ley, así como cubrir el pago de derechos establecidos para este caso en la Ley de Derechos del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -431,9 +439,21 @@ II.- Permiso Especial: Es aquél que se otorga para la venta, consumo y/o distri
 
 a) Durante la realización eventual de alguna actividad pública como kermés, feria, cena baile, baile popular, degustación y en general, cualquier evento público de carácter artístico, cultural, social o deportivo.
 
-b) Cuando el contribuyente enajene bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominado souvenir, cuyo contenido máximo sea hasta 150 mililitros. Para la obtención de este permiso únicamente se requerirá acreditar estar inscrito en el Registro Estatal de Contribuyentes. Este permiso tendrá una vigencia de un año, y se deberá pagar el derecho que determine la Ley de Hacienda del Estado de Quintana Roo. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-c) Cuando el contribuyente preste el servicio público especializado a que se refiere el Artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio otorgue para su venta o consumo bebidas alcohólicas, y que por la naturaleza de su actividad comercial, no cuente con Licencia de Bebidas Alcohólicas. Este permiso tendrá una vigencia de un año, y se deberá pagar el derecho que determine la Ley de Hacienda del Estado de Quintana Roo. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
+b) Cuando el contribuyente enajene bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominado souvenir, cuyo contenido máximo sea hasta 150 mililitros. Para la obtención de este permiso únicamente se requerirá acreditar estar inscrito en el Registro Estatal de Contribuyentes. Este permiso tendrá una vigencia de un año, y se deberá pagar el derecho que determine la Ley de Derechos del Estado de Quintana Roo. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+c) Cuando el contribuyente preste el servicio público especializado a que se refiere el artículo 91 de la Ley de Movilidad del Estado de Quintana Roo, y dentro de este servicio expenda bebidas alcohólicas para su venta o consumo, y que por la naturaleza de su actividad comercial, no cuente con Licencia de Bebidas Alcohólicas, deberá tramitar este permiso con vigencia de hasta un año, previo pago de derechos que determine la Ley de Derechos del Estado de Quintana Roo. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+d) Cuando el contribuyente lleve a cabo transacciones de venta de bebidas alcohólicas como complemento de alimentos, en línea o vía telefónica a domicilio, y su establecimiento se encuentre dentro de los supuestos del artículo 25, inciso B fracciones I y II de esta Ley, deberá solicitar la expedición de un permiso especial con vigencia de hasta un año. Los permisionarios referidos en este inciso sólo estarán sujetos al mismo con relación a lo dispuesto en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN II], P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Este permiso especial deberá especificar los datos de la licencia principal y establecimiento en el que esta domiciliada, encontrándose el titular sujeto a los derechos y responsabilidades señaladas en esta Ley y su Reglamento para cada uno de ellos en lo particular.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -569,9 +589,15 @@ II.- Cuando el solicitante haya sido sancionado por autoridad competente por ser
 
 III.- Cuando el solicitante haya tenido una Licencia de Bebidas Alcohólicas, y haya transferido sus derechos permanentemente a terceras personas; salvo que dicha solicitud, sea presentada con posterioridad a dos años de haberse realizado la transferencia y que el solicitante cumpla con lo señalado en los Artículos 14 y 15 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-IV.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas para los siguientes tipos de establecimientos: agencia, minisúper, bar y tienda de conveniencia, cuando éstos se encuentren ubicados dentro de un rango de 500 metros radiales de otro del mismo tipo de establecimiento o giro, cuando se encuentre ubicado a menos de 500 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamientos. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
+IV.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas para los siguientes tipos de establecimientos: agencia, minisúper, bar y tienda de conveniencia, cuando éstos se encuentren ubicados dentro de un rango de 500 metros radiales de otro del mismo tipo de establecimiento o giro, cuando se encuentre ubicado a menos de 500 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos o de asistencia social y áreas de equipamiento. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Cuando los establecimientos se encuentren ubicados en las zonas insulares del Estado, no se otorgará la licencia de bebidas alcohólicas cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas para los siguientes tipos de establecimientos: agencia, minisúper, bar y tienda de conveniencia, cuando éstos se encuentren ubicados dentro de un rango de 200 metros radiales de otro del mismo tipo de establecimiento o giro, ni cuando se encuentre ubicado a menos de 200 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos o de asistencia social y áreas de equipamientos. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
 
 Se exceptuará de lo dispuesto en el presente artículo a los establecimientos ubicados en zonas turísticas y a las plazas comerciales.
 
@@ -581,7 +607,9 @@ VI.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólic
 
 VII.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólicas en casa-habitación, debiéndose entender por ésta al inmueble, cuarto, departamento, aposento, edificio o lugar construido que esté habitado por una o más personas como vivienda;
 
-VIII.- Cuando el solicitante sea servidor público de los señalados en el Artículo 2º de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Cuando el solicitante sea servidor público de los señalados en el artículo 3 fracción XXV de la Ley General de Responsabilidades Administrativas.
 
 ###### ARTÍCULO 27.
 
@@ -999,11 +1027,15 @@ Cuando el titular de la Licencia de Bebidas Alcohólicas sea notificado de la re
 
 En el escrito de interposición del recurso se deberán ofrecer las pruebas que se consideren, a excepción de la Prueba Confesional. Para la interposición del Recurso se seguirán las reglas de la Sección Segunda, Capítulo I, Título Quinto de los Procedimientos Administrativos del Código Fiscal del Estado de Quintana Roo, a excepción de las que sean incompatibles con las disposiciones de la presente ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 65.
 
-Una vez presentado el recurso de inconformidad, las autoridades señaladas deberán remitir copia del expediente al Secretario de Finanzas y Planeación del Estado de Quintana Roo, para que éste resuelva y substancie el recurso, por conducto de la Procuraduría Fiscal del Estado de Quintana Roo, quien en un plazo no mayor de 30 días hábiles, procederá a emitir la resolución correspondiente misma que deberá de ser notificada en forma personal al recurrente.
+Una vez presentado el recurso de inconformidad, las autoridades señaladas deberán remitir copia del expediente a la Secretaría de Finanzas y Planeación del Estado de Quintana Roo, para que se resuelva y se substancie, conforme a lo siguiente:
+
+I. Por conducto de la Procuraduría Fiscal del Estado de Quintana Roo, a través de su titular, tratándose del recurso de inconformidad procedente en términos del artículo 62 fracción I de esta Ley, el cual deberá ser resuelto en un plazo no mayor a 30 días hábiles contados a partir de su presentación, y
+
+II. Por conducto del Servicio de Administración Tributaria del Estado de Quintana Roo, a través de la Dirección Estatal Jurídica, de la Dirección Contenciosa o Subdirecciones Jurídicas de Zona tratándose del recurso de inconformidad procedente en términos del artículo 62 fracciones II, III y IV de esta Ley, el cual deberá ser resuelto en un plazo no mayor a 4 meses contados a partir de su presentación.
 
 ###### ARTÍCULO 66.
 
@@ -1442,3 +1474,11 @@ PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2021
 SEGUNDO. Se derogan aquellas disposiciones de igual o inferior jerarquía que se opongan al presente decreto.
 
 TERCERO. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto se realizará la reforma correspondiente al Reglamento de esta ley.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 187 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 1o. de enero de 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
