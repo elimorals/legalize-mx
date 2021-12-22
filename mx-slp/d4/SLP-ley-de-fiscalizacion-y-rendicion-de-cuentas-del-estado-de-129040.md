@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-10-24"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -153,9 +153,11 @@ Las definiciones previstas en los artículos 3 de la Ley de Presupuesto y Respon
 
 Tratándose de los informes a que se refieren las fracciones XVIII; XIX y XX del artículo anterior, la información contenida en los mismos será publicada en la página de Internet de la Auditoría Superior del Estado, en formatos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 6°.
 
-La fiscalización de la cuenta pública que realiza la Auditoría Superior del Estado se llevará a cabo de manera posterior al término de cada ejercicio fiscal, una vez que el programa anual de auditoría esté aprobado por el Auditor Superior, lo hará del conocimiento de la Comisión y lo publicara en su página de internet; tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control.
+La Auditoría Superior del Estado fiscalizará la cuenta pública de manera posterior al término de cada ejercicio fiscal, conforme al programa anual de auditorías que apruebe su titular, el cual deberá publicar en el Periódico Oficial del Estado, y en su página en internet, y hacerlo del conocimiento de la Comisión. La fiscalización de la cuenta pública tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control.
 
 ###### ARTÍCULO 7°.
 
@@ -1378,5 +1380,13 @@ P.O. 24 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0782.- SE ADICIONA PÁRRAFO AL ARTÍCULO 19, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0145.- SE REFORMA EL ARTÍCULO 6° DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
