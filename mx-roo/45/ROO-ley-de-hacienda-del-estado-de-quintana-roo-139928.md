@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2020-12-21"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -275,9 +275,11 @@ La aplicación e interpretación para efectos administrativos de la presente Ley
 
 Para los casos no previstos en las disposiciones de esta Ley, se aplicará de forma supletoria lo dispuesto en el Código y su Reglamento, (sic) Ley del Servicio de Administración Tributaria del Estado de Quintana Roo y su Reglamento Interior, el Código Fiscal de la Federación y su Reglamento, y en su defecto, las del Código de Comercio y del Derecho común.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-La recaudación y administración tributaria de los ingresos establecidos en esta Ley, es competencia de la Secretaría a través del SATQ y las unidades administrativas que autorice el titular del Poder Ejecutivo.
+La recaudación y administración tributaria de los ingresos establecidos en esta Ley, es competencia de la Secretaría por sí o a través del SATQ y las unidades administrativas que autorice el titular del Poder Ejecutivo.
 
 ###### Artículo 9.
 
@@ -285,7 +287,7 @@ Las contribuciones que se establecen en esta Ley, se pagarán en las oficinas y 
 
 ###### Artículo 10.
 
-Las dependencias, los organismos descentralizados, los fideicomisos públicos, las empresas de participación estatal mayoritaria, los Poderes Legislativo y Judicial y los Órganos Autónomos, deberán remitir mediante el Sistema Único de Información, un informe mensual dentro de los primeros 10 días naturales de concluido el mes a la Secretaría sobre la evolución de los ingresos obtenidos, respecto de la estimación de sus ingresos y una explicación detallada de la misma, así como los que tengan programados percibir durante el mes inmediato, para que sea revisado por la Secretaría, conjunta o indistintamente con la Secretaría de la Contraloría; asimismo mediante el Sistema citado, deberán informar a la Secretaría a más tardar el treinta y uno del mes de enero del ejercicio correspondiente, los montos de los ingresos que hayan generado, durante el ejercicio fiscal inmediato anterior.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 ###### Artículo 11.
 
@@ -339,7 +341,7 @@ La obligación de presentar declaraciones subsistirá aun cuando no hubiese cant
 
 Cuando los contribuyentes a que se refiere este capítulo causen baja o suspendan temporalmente actividades, deberán liquidar el impuesto que a la fecha se ha generado aplicando la tasa del 3% sobre el importe de los ingresos percibidos.
 
-Los sujetos de este impuesto deberán presentar a más tardar el último día hábil del mes de abril, en las formas aprobadas por la Secretaría, la declaración informativa en la que conste de manera clara el folio de los comprobantes fiscales expedidos en el ejercicio fiscal anterior.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 #### SECCIÓN SEGUNDA. Del Impuesto Cedular por la Enajenación de Bienes Inmuebles
 
@@ -1007,55 +1009,9 @@ XI. Ingresarán también por este concepto las recuperaciones de créditos otorg
 
 XII. Otros diversos de los señalados en las fracciones anteriores que perciba el Estado por actividades que no desarrolle en sus funciones propias de derecho público.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+###### Artículo 71 Bis.
 
-###### Artículo 71
-
-Bis. Por el uso de las instalaciones del inmueble denominado "Centro Social Andrés Quintana Roo", conocido como "SALÓN BELLAVISTA", y del inmueble denominado "SALÓN KOHUNLICH", ambos ubicados en el boulevard bahía de la ciudad de Chetumal, se pagará un importe de acuerdo a las condiciones y cuotas establecidas en las siguientes tablas:
-
-I. CENTRO SOCIAL ANDRÉS QUINTANA ROO, "SALÓN BELLAVISTA"
-
-TIPO DE EVENTO UMA
-
-a) General 86.84
-
-b) Sociedad civil con fines de lucro 62.03
-
-c) Sociedad civil sin fines de lucro 43.42
-
-d) Eventos escolares y privados de trabajadores 37.22
-
-e) Eventos cívicos y de instituciones públicas Exento
-
-II. SALÓN KOHUNLICH
-
-TIPO DE EVENTO UMA
-
-a) General 49.62
-
-b) Sociedad civil con fines de lucro 31.01
-
-c) Sociedad civil sin fines de lucro 21.09
-
-d) Eventos escolares y privados de trabajadores 12.4
-
-e) Eventos cívicos y de instituciones públicas Exento
-
-Se entenderá por tipo de evento, para efectos del contenido de las fracciones I y II de este artículo, lo siguiente:
-
-General: Eventos, festejos y celebraciones de carácter particular o ajeno a la actividad institucional de un órgano público.
-
-Sociedad civil con fines de lucro: Asociaciones civiles legalmente constituidas que lleven a cabo eventos relacionados con su objeto social y cuya finalidad sea recaudar fondos.
-
-Sociedad civil sin fines de lucro: Asociaciones civiles legalmente constituidas que lleven a cabo eventos relacionados con su objeto social y que sea abierto y gratuito al público.
-
-Eventos escolares: Son aquellos cuya realización sea para beneficio directo de la comunidad estudiantil sin fines de lucro.
-
-Eventos Privados de trabajadores: Eventos personales de los trabajadores o su cónyuge o hijos, considerando que esta tarifa aplicará únicamente una vez por año para cualquier miembro de su familia. En los eventos posteriores, el costo será el señalado como evento general.
-
-En todo caso deberá acreditar ser trabajador activo o jubilado del Gobierno del Estado.
-
-Eventos cívicos y de instituciones públicas: Eventos organizados por instituciones de carácter público del ámbito estatal, federal o municipal, que esté considerado en el calendario cívico o que se encuentre relacionado con el ejercicio de sus facultades, siempre y cuando no tenga fines de lucro.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 ### CAPÍTULO III. DE LOS ACCESORIOS DE LOS APROVECHAMIENTOS
 
@@ -1248,3 +1204,11 @@ PRIMERO. Con excepción de lo previsto en el artículo 74-Bis, el presente decre
 SEGUNDO. Lo dispuesto por el artículo 74-Bis, del presente Decreto, entrara en vigor el día primero del mes de abril del año dos mil veintiuno.
 
 TERCERO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 188, POR EL QUE SE REFORMA Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
