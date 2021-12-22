@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY HACIENDA DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -277,15 +279,73 @@ El Gobierno Federal, el de la Ciudad de México, los Gobiernos de los Estados, l
 
 En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
 
-#### SECCIÓN I. IMPUESTO CEDULAR A LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE INMUEBLES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-SUJETOS Y BASE
+#### SECCIÓN V. IMPUESTO A LAS EROGACIONES QUE SE REALICEN EN JUEGOS CON APUESTAS
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+SUJETO Y OBJETO
+
+###### ARTÍCULO 31
+
+1. Son sujetos de este impuesto las personas físicas y morales que realicen erogaciones para participar en juegos con apuestas que se realicen u organicen dentro del territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+BASE
+
+###### ARTÍCULO 31
+
+2. Se consideran erogaciones para participar en juegos con apuestas, las cantidades que se entreguen por concepto de acceso y utilización de máquinas o instalaciones relacionadas con los juegos con apuestas, cualquiera que sea el nombre con el que se les designe, así como las cargas y recargas adicionales que se realicen mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas, ya sea que dichas erogaciones se utilicen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+TASA
+
+###### ARTÍCULO 31
+
+3. El impuesto se calculará aplicando la tasa del 10% al monto total de las erogaciones efectuadas para participar en juegos con apuestas, ya sean en efectivo, en especie o en cualquier otro medio.
+
+Cuando el pago se realice en especie o por cualquier otro medio, se considerará como valor el total de las cantidades equivalentes en moneda nacional, tomando en consideración el valor de facturación o adjudicación, el de avalúo comercial o, en su caso, el valor que amparen dichos medios.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+CAUSACIÓN
+
+###### ARTÍCULO 31
+
+4. El impuesto se causará en el momento en que el sujeto obligado pague los montos o contraprestaciones que le permitan participar en los juegos con apuestas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+RETENCIÓN
+
+###### ARTÍCULO 31
+
+5. El operador del establecimiento en el que se realicen los juegos con apuestas, deberá retener el impuesto al momento de recibir el pago o contraprestación correspondiente, debiendo enterarlo ante las oficinas autorizadas a más tardar el día 15 del mes siguiente a aquel al que corresponda su retención.
+
+Los operadores de los establecimientos en los que se realicen juegos con apuestas, están obligados a expedir comprobantes por las retenciones realizadas, en los que conste expresamente y por separado el importe retenido.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+RESPONSABILIDAD SOLIDARIA
+
+###### ARTÍCULO 31
+
+6. Serán responsables solidarios del pago de este impuesto, las personas físicas o morales siguientes:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos con apuestas.
+
+II. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto.
+
+III. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección.
 
 ### CAPÍTULO II. IMPUESTOS SOBRE EL PATRIMONIO
 
-#### SECCIÓN II. IMPUESTO CEDULAR A LOS INGRESOS DERIVADOS DE LA ENAJENACIÓN DE INMUEBLES
+#### SECCIÓN I. IMPUESTO CEDULAR A LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE INMUEBLES
 
-SUJETOS Y OBJETO
+SUJETOS Y BASE
 
 ###### ARTÍCULO 32.
 
@@ -373,11 +433,9 @@ IV. Presentar declaraciones en los términos de esta Sección.
 
 Cuando los ingresos a que se refiere esta Sección sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
 
-#### SECCIÓN I. IMPUESTO SOBRE HOSPEDAJE
+#### SECCIÓN II. IMPUESTO CEDULAR A LOS INGRESOS DERIVADOS DE LA ENAJENACIÓN DE INMUEBLES
 
-OBJETO Y DESTINO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+SUJETOS Y OBJETO
 
 ###### ARTÍCULO 37.
 
@@ -433,9 +491,11 @@ Los contribuyentes podrán solicitar la práctica de un avalúo por corredor pú
 
 ### CAPÍTULO III. IMPUESTOS SOBRE LA PRODUCCIÓN, EL CONSUMO Y LAS TRANSACCIONES
 
-#### SECCIÓN II. IMPUESTO SOBRE ACTOS JURÍDICOS
+#### SECCIÓN I. IMPUESTO SOBRE HOSPEDAJE
 
-OBJETO
+OBJETO Y DESTINO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 40.
 
@@ -617,7 +677,7 @@ ESTIMACIÓN PRESUNTIVA
 
 La autoridad fiscal podrá determinar, en forma presuntiva, el valor de los actos por los que se debe de pagar este impuesto en los casos en que los retenedores se ubiquen en alguno de los supuestos establecidos para tales efectos en el Código Fiscal del Estado.
 
-#### SECCIÓN III. IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
+#### SECCIÓN II. IMPUESTO SOBRE ACTOS JURÍDICOS
 
 OBJETO
 
@@ -719,7 +779,7 @@ I. Presentar ante la oficina recaudadora respectiva, los documentos originales e
 
 II. Enterar el impuesto dentro de los 15 días siguientes a la fecha de la realización o celebración del acto jurídico.
 
-#### SECCIÓN ÚNICA. IMPUESTO SOBRE NÓMINAS
+#### SECCIÓN III. IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
 
 OBJETO
 
@@ -787,17 +847,159 @@ EXENTOS
 
 Están exentas del pago de este impuesto, las adquisiciones que efectúen los distribuidores de automóviles autorizados en el Estado y los comerciantes en el ramo de vehículos.
 
-#### SECCIÓN I. IMPUESTO ADICIONAL UNIVERSITARIO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN IV. IMPUESTO A LAS DEMASÍAS CADUCAS
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+SUJETO Y OBJETO
+
+###### ARTÍCULO 71
+
+1. Están obligadas al pago de este impuesto las personas físicas y morales que, en el Estado, realicen contratos u operaciones de mutuo con interés y garantía prendaria, no reguladas por leyes y autoridades financieras, respecto de la enajenación de bienes dados en prenda que no sean recuperados por el deudor prendario. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+BASE GRAVABLE Y TASA
+
+###### ARTÍCULO 71
+
+2. El impuesto se calculará aplicando la tasa del 20% a la diferencia que resulte entre el monto del avalúo que sirve de base para el otorgamiento del crédito prendario y el monto de la enajenación del bien otorgado en garantía prendaria, el monto del préstamo, los intereses devengados y los gastos de almacenaje.
+
+El monto del avalúo es la valoración del bien mueble dado en prenda, consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado.
+
+Para efectos de lo dispuesto en este artículo, se entenderá por gastos de almacenaje a todas aquellas erogaciones que se realicen para mantener la prenda en el estado en que se recibió del deudor prendario.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+PAGO
+
+###### ARTÍCULO 71
+
+3. El pago de este impuesto se efectuará a más tardar el día 15 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate, mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+OBLIGACIONES
+
+###### ARTÍCULO 71
+
+4. Son obligaciones de los sujetos del impuesto:
+
+I. Llevar y conservar los registros contables y administrativos de conformidad con las leyes y demás disposiciones aplicables.
+
+II. Mantener en los establecimientos o sucursales en los cuales se realicen las operaciones o contrataciones materia de este impuesto, las boletas o billetes de empeño y contratos, o cualquier otro documento que sustenten tales operaciones o contrataciones y permitan la plena identificación del deudor prendario incluyendo su domicilio y número telefónico, así como exhibirlos cuando las autoridades competentes lo requieran.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN V. IMPUESTO A LA VENTA FINAL DE BEBIDAS ALCOHÓLICAS
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 OBJETO
 
-#### SECCIÓN II. CONTRIBUCIÓN A LA CRUZ ROJA
+###### ARTÍCULO 71
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+5. Es objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado, llevada a cabo en territorio del Estado, excepto cerveza. Se entiende que la venta se efectúa en territorio del Estado, si en él se lleva a cabo la entrega material de las bebidas.
 
-SUJETO
+Para efectos de este impuesto se consideran bebidas con contenido alcohólico aquellas definidas como tal en la Ley del Impuesto Especial Sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+SUJETOS
+
+###### ARTÍCULO 71
+
+6. Son sujetos de este impuesto las personas físicas o morales que en el territorio del Estado realicen la venta final de bebidas con contenido alcohólico en envase cerrado, excepto cerveza.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+BASE
+
+###### ARTÍCULO 71
+
+7. La base del impuesto es el precio percibido por la venta final sin incluir los Impuestos al Valor Agregado y Especial sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+TASA
+
+###### ARTÍCULO 71
+
+8. La tasa del impuesto será del 4.5% sobre el ingreso percibido por la venta final de las bebidas objeto de este impuesto.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+PAGO
+
+###### ARTÍCULO 71
+
+9. El impuesto se pagará a más tardar el día 15 del mes siguiente a aquel al que corresponda el pago, mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+INCLUSIÓN EN EL PRECIO
+
+###### ARTÍCULO 71
+
+10. El impuesto deberá incluirse en el precio de venta final, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo en su caso precios oficiales, por lo que no se desglosará en el comprobante que al efecto se emita.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+ACREDITAMIENTOS
+
+###### ARTÍCULO 71
+
+11. Los contribuyentes del presente impuesto, pagarán el mismo, sin que proceda acreditamiento alguno contra dicho pago.
+
+Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de estos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+REGISTRO DE VENTAS
+
+###### ARTÍCULO 71
+
+12. Los contribuyentes obligados al pago de este impuesto deberán llevar un registro mensual de las ventas finales que realicen, desglosando los montos de cada una de las operaciones y las cantidades que integran la base de este impuesto.
+
+Quienes no cumplan con la obligación señalada en el párrafo anterior, serán responsables solidarios del impuesto que se dejare de pagar.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+VENTA FINAL
+
+###### ARTÍCULO 71
+
+13. Para los efectos de este impuesto, también se considerará venta final el faltante de inventario o el consumo propio.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+CAUSACIÓN
+
+###### ARTÍCULO 71
+
+14. El impuesto se causará en el momento en el que se perciban los ingresos derivados de la venta y sobre el monto de lo pagado. Cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+OBLIGACIONES
+
+###### ARTÍCULO 71
+
+15. Los contribuyentes de este impuesto, además de las señaladas en esta Sección y en otras disposiciones fiscales, tienen las siguientes obligaciones:
+
+I. Llevar contabilidad de conformidad con las leyes fiscales.
+
+II. Presentar las declaraciones relativas al impuesto. Si un contribuyente tuviera varios establecimientos, presentará una declaración concentrando todos los establecimientos.
+
+III. Proporcionar la información que en relación con este impuesto se les solicite en las declaraciones respectivas.
 
 ### CAPÍTULO IV. IMPUESTOS SOBRE NÓMINAS Y ASIMILABLES
+
+#### SECCIÓN ÚNICA. IMPUESTO SOBRE NÓMINAS
+
+OBJETO
 
 ###### ARTÍCULO 72.
 
@@ -867,9 +1069,15 @@ La Secretaría de Hacienda podrá determinar estimativamente las erogaciones de 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
+#### SECCIÓN I. IMPUESTO ADICIONAL UNIVERSITARIO
+
+OBJETO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 79.
 
-Es objeto de este impuesto, los montos que resulten a pagar por concepto de impuestos ordinarios y derechos a que se refieren esta Ley y la Ley de Ingresos del Estado de Chihuahua.
+Es objeto de este impuesto, los montos que resulten a pagar por concepto de impuestos ordinarios y derechos a que se refieren esta Ley, la Ley Estatal de Derechos de Chihuahua, la Ley de Ingresos del Estado de Chihuahua y, en su caso, el Acuerdo por el que se establecen las cuotas por el uso de carreteras del Estado.
 
 SUJETOS
 
@@ -885,9 +1093,19 @@ Se tomará como base de este impuesto, el monto total que se cause en cada impue
 
 TASA Y DESTINO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 82.
 
-A la base a que se refiere el artículo 81 de esta Ley, se le aplicará la tasa del 4 %, y el importe que se obtenga será el impuesto a pagar. Los ingresos que se obtengan por este impuesto se destinarán al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
+A la base a que se refiere el artículo 81 de esta Ley, se le aplicará la tasa del 4%, tratándose de impuestos ordinarios y derechos por el uso de carreteras de cuota estatales; y la tasa del 6%, tratándose del resto de derechos, y el importe que se obtenga será el impuesto a pagar.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Los ingresos que se obtengan por la aplicación de la tasa del 4% sobre impuestos ordinarios, así como la recaudación equivalente a 4 puntos porcentuales de la tasa del 6% sobre derechos, se destinarán por partes iguales, como aportación estatal respecto a los convenios federales que firmen la Universidad Autónoma de Chihuahua y la Universidad Autónoma de Ciudad Juárez. En caso de que dichos convenios no sean suscritos, los ingresos recaudados se destinarán, en igual proporción, al sostenimiento de dichas universidades.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+El ingreso equivalente a los 2 puntos porcentuales restantes de la tasa del 6% a derechos, así como el ingreso obtenido por la aplicación de la tasa del 4% a derechos por el uso de carreteras de cuota estatales, se destinarán como aportación estatal respecto a los convenios federales que firmen otras universidades públicas estatales y al financiamiento de programas estatales de fomento educativo.
 
 PAGO
 
@@ -896,6 +1114,12 @@ PAGO
 El impuesto establecido en esta sección deberá pagarse en los mismos plazos y de manera conjunta con los impuestos ordinarios y derechos que lo causen.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN II. CONTRIBUCIÓN A LA CRUZ ROJA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+SUJETO
 
 ###### ARTÍCULO 83-A.
 
@@ -1128,3 +1352,35 @@ Durante el tiempo de vigencia de las acciones decretadas para combatir la contin
 ###### ARTÍCULO CUARTO.
 
 Para los efectos previstos en el presente Decreto, en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, y demás disposiciones aplicables, se entiende por correo electrónico oficial de las personas que funjan como autoridades fiscales estatales, aquel que tenga la terminación @chihuahua.gob.mx; las autoridades fiscales estatales podrán comunicarse entre sí, y con las autoridades fiscales federales en materia fiscal federal coordinada, por ese medio electrónico; y se considera este con el mismo valor que un documento físico con firma autógrafa y con sello de la oficina de la autoridad correspondiente, independientemente de sus anexos digitalizados. En los casos en que las mencionadas autoridades utilicen en sus correos electrónicos una terminación diferente a la referida, bastará con que señalen por oficio presentado físicamente, con firma autógrafa y debidamente sellado, ante la diversa autoridad fiscal ante la cual pretendan actuar por dicha vía electrónica, cuál es la terminación oficial del correo electrónico, así como las direcciones de correo electrónico específicas de los servidores públicos que actuarán en tales términos.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0108/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones a la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones a la Ley de Hacienda del Estado de Chihuahua, entrarán en vigor el día primero de enero del año 2022, con excepción de lo dispuesto en la Sección V, del Capítulo III, del Título Segundo, relativa al Impuesto a la Venta Final de Bebidas Alcohólicas, la cual entrará en vigor el primero de enero del año 2023.
+
+Durante el año 2022, la Secretaría de Hacienda, con el objeto de lograr una adecuada implementación del Impuesto a la Venta Final de Bebidas Alcohólicas, deberá establecer conjuntamente con integrantes del H. Congreso del Estado, mesas técnicas de trabajo con los productores regionales de bebidas con contenido alcohólico del Estado, a fin de lograr mecanismos de incentivo y propuestas para generar la competitividad de dichos sectores productivos, sin que se vean afectadas sus cadenas productivas de valor.
+
+###### ARTÍCULO TERCERO.
+
+Durante los ejercicios fiscales de 2022 y 2023, en lugar de aplicar la tasa establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, sobre el monto mensual de las erogaciones a que se refiere el artículo 74 de la citada Ley, se aplicará la tasa que se señala en la siguiente tabla, de acuerdo con el ejercicio fiscal de que se trate.
+
+TABLA
+
+tasa del impuesto sobre ejercicio fiscal
+
+nóminas aplicable al que aplica
+
+4% 2022
+
+3.5% 2023
+
+Los ingresos adicionales que se recauden con motivo de la aplicación de las tasas señaladas en este artículo, respecto de los ingresos que se hubieran obtenido de haber aplicado la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, durante los ejercicios fiscales 2022 y 2023, se destinarán a cubrir necesidades presupuestales en materia de salud, educación, seguridad pública, así como de la Fiscalía General del Estado y saneamiento financiero, de acuerdo con lo que se establezca y apruebe en el Presupuesto de Egresos del Estado de Chihuahua, correspondiente a los ejercicios fiscales 2022 y 2023.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266-94-XI-P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de los mismos, el Impuesto Sobre Nóminas causado, determinado considerando la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua.
