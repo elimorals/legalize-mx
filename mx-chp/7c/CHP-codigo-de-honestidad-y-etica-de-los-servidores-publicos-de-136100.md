@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-honestidad-y-etica-de-los-servidores-publicos-de-1361
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-24"
-last_updated: "2019-04-24"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE HONESTIDAD Y ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE HONESTIDAD Y ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE HONESTIDAD Y ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de abril de 2019.
 
@@ -35,7 +37,7 @@ Liliana Angell González, Secretaria de la Honestidad y Función Pública, con f
 
 C o n s i d e r a n d o
 
-[…]
+[...]
 
 Que la Secretaría de la Honestidad y Función Pública, conforme a las atribuciones que le corresponden de conformidad con lo establecido en el artículo 31 fracción XXVI de la Ley Orgánica de la Administración Pública del Estado de Chiapas, se encuentra facultada para emitir el Código de Honestidad y Ética de los Servidores Públicos de la Administración Pública del Estado de Chiapas; por lo que, conforme a las consideraciones antes expuestas, tengo a bien emitir el siguiente:
 
@@ -1284,3 +1286,21 @@ Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 15 de la Le
 Dado, en la oficina que ocupa la Secretaría de la Honestidad y Función Pública, en la Ciudad de Tuxtla Gutiérrez, Chiapas; nueve días del mes de abril del año dos mil diecinueve.
 
 Liliana Angell González, Secretaria de la Honestidad y Función Pública.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “CÓDIGO DE HONESTIDAD Y ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Código de Honestidad y Ética entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Código de Honestidad y Ética.
+
+Artículo Tercero.- Se abroga el Acuerdo por el que se emite el Código de Honestidad y Ética de los Servidores Públicos de la Administración Pública del Estado de Chiapas, publicado en el Periódico Oficial Número 031, de fecha 24 de abril de 2019.
+
+Artículo Cuarto.- Los procedimientos de investigación iniciados con anterioridad a la entrada en vigor del presente Código de Honestidad y Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado.
+
+Artículo Quinto.- Las evaluaciones de cumplimiento y desempeño 2021, se atenderán en base a los criterios vigentes en dicho ejercicio.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por los artículos 15 párrafo segundo de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas; y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Código de Honestidad y Ética en el Periódico Oficial.
