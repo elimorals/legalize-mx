@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2021-11-18"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -103,13 +103,17 @@ III.- Los Juzgados de Paz;
 
 IV.- El Consejo de la Judicatura del Estado;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+V.- El Sistema Integral de Justicia para Adolescentes;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2021)</small>
 
-V.- Tribunales laborales, y
+VI.- Tribunales laborales, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2021)</small>
 
-VI.- En los demás órganos auxiliares de la administración de justicia que señale la ley.
+VII.- En los demás órganos auxiliares de la administración de justicia que señale la ley.
 
 Los árbitros, servidores públicos y auxiliares en la impartición de justicia, coadyuvan en la función jurisdiccional en los casos y términos establecidos en las leyes y códigos relativos.
 
@@ -1343,51 +1347,77 @@ Los Jueces de Paz tendrán competencia para conocer de los asuntos de jurisdicci
 
 De la Justicia Para Adolescentes.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 73
 
-Bis.- El Sistema Integral de Justicia para Adolescentes, es el conjunto de órganos jurisdiccionales y procedimientos que garantizan el proceso especializado para adolescentes y, la ejecución de las medidas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales aplicables, la Constitución Política del Estado Libre y Soberano de Quintana Roo y la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo, a efecto de maximizar los derechos de los adolescentes y de minimizar los efectos negativos de la aplicación del Sistema Integral de Justicia para Adolescentes.
+Bis.- El Sistema Integral de Justicia para Adolescentes, es el conjunto de órganos jurisdiccionales y procedimientos que garantizan el proceso especializado para adolescentes y la ejecución de las medidas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales aplicables, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado Libre y Soberano de Quintana Roo y la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo, a efecto de maximizar los derechos de los adolescentes y de minimizar los efectos negativos de la aplicación del Sistema Integral de Justicia para Adolescentes.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
-
-###### Artículo 73
-
-Ter.- El Tribunal Superior de Justicia y el Consejo de la Judicatura en el ámbito de sus competencias, constituirán los Tribunales y Juzgados que requiera el Sistema Integral de Justicia para Adolescentes y proveerán lo necesario para su adecuado funcionamiento; igualmente, emitirán los criterios de organización, formación especializada y los procedimientos de ingreso de sus operadores.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 73
 
-Quater.- El Sistema Integral de Justicia para Adolescentes se deposita en:
+Ter.- El Tribunal Superior de Justicia y el Consejo de la Judicatura en el ámbito de sus competencias, constituirán los Tribunales y Juzgados que requiera el Sistema Integral de Justicia para Adolescentes y proveerán lo necesario para su adecuado funcionamiento; igualmente, emitirán los criterios de organización, formación especializada y los procedimientos de ingreso, promoción y permanencia de sus operadores, con excepción de los relativos al nombramiento, ratificación y remoción de las personas titulares de las Magistraturas Unitarias para Adolescentes, en los términos previstos por el artículo 73-Septies de la presente Ley.
 
-I.- El Tribunal Superior de Justicia;
+Para efectos del párrafo anterior, las Salas Unitarias para Adolescentes, los Juzgados de Control para Adolescentes, los Juzgados para Adolescentes y los Juzgados de Ejecución de Medidas para Adolescentes, se integrarán de la misma manera que los órganos jurisdiccionales equiparables en materia penal, sin perjuicio de lo dispuesto en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, asi como las demás disposiciones normativas aplicables en materia procesal penal.
 
-II.- El Consejo de la Judicatura;
-
-III.- Los Tribunales Unitarios para Adolescentes;
-
-IV.- Los Juzgados para Adolescentes; y
-
-V.- Los Juzgados de Ejecución de Medidas para Adolescentes.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
-
-###### Artículo 73 Quinquies.
-
-Los Tribunales Unitarios para Adolescentes, los Juzgados para Adolescentes, y los Juzgados de Ejecución de Medidas para Adolescentes tendrán la residencia, jurisdicción y competencia que se les asigne de conformidad con lo previsto en ésta Ley y la Ley de Justicia para Adolescentes del Estado.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 73
 
-Sexties.- Los órganos jurisdiccionales para adolescentes y el personal que lo integran, tendrán las facultades y obligaciones que los demás miembros del Poder Judicial, salvo en aquello que no sea compatible con los fines del Sistema Integral de Justicia para Adolescentes.
+Quáter.- El Sistema Integral de Justicia para Adolescentes se deposita en:
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+I. El Tribunal Superior de Justicia;
+
+II. El Consejo de la Judicatura;
+
+III. Los Tribunales Unitarios para Adolescentes;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+IV. Los Juzgados de Control para Adolescentes.
+
+V. Los Juzgados para Adolescentes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+VI. Los Juzgados de Ejecución de Medidas para Adolescentes, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+VII. Los demás que establezcan en otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 73
 
-Sépties.- El Magistrado Unitario para Adolescentes cuenta con las facultades y obligaciones previstas por el artículo 33 fracciones III, IV, V y VI de la presente Ley.
+Quinquies.- Los Tribunales Unitarios para Adolescentes, los Juzgados de Control para Adolescentes, los Juzgados para Adolescentes, y los Juzgados de Ejecución de Medidas para Adolescentes tendrán la residencia, jurisdicción y competencia que les asigne el Consejo de la Judicatura, de conformidad con lo previsto en esta Ley, y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, asi como las demás disposiciones normativas aplicables en materia procesal penal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 73
+
+Sexties.- Los órganos jurisdiccionales para adolescentes y el personal que lo integran, tendrán las facultades y obligaciones que los demás miembros del Poder Judicial, salvo en aquello que no sea compatible con los fines del Sistema Integral de Justicia para Adolescentes, sin perjuicio de lo establecido por el artículo 70 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Para el ingreso, promoción y permanencia, de los funcionarios judiciales que conformen los Tribunales Unitarios para Adolescentes, los Juzgados de Control para Adolescentes, los Juzgados para Adolescentes, y los Juzgados de Ejecución de Medidas para Adolescentes, se estará a lo dispuesto, en lo conducente, por los capítulos VI y VII del Título Tercero de la presente Ley, debiéndose considerar, en su caso, contar con la especialización en la materia, en los términos previstos por los artículos 23, 63 y 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 73
+
+Sépties.- Las personas titulares de las Magistraturas Unitarias para Adolescentes cuentan con las facultades y obligaciones previstas por el artículo 33 fracciones III, IV y V de la presente Ley.
+
+Las personas titulares de las Magistraturas Unitarias para Adolescentes, serán designadas por la Legislatura del Estado, conforme al procedimiento señalado en el artículo 102 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, debiendo rendir protesta, ante la Legislatura del Estado.
+
+Para efectos del párrafo anterior, las y los aspirantes propuestos, además de satisfacer los mismos requisitos previstos por el artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, deberán acreditar, contar con la especialización en la materia, en los términos previstos por los artículos 23, 63 y 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Las personas titulares de las Magistraturas Unitarias para Adolescentes, durarán en su encargo un periodo de seis años, pudiendo ser reelectos para un periodo adicional, en los términos a los que se refiere el articulo 114 de la presente Ley, y solo podrán ser separadas de su encargo, en los términos señalados por el título octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo o, en su caso, por encontrarse dentro de las causas a las que se refiere el penúltimo párrafo del artículo 100 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y el artículo 115 de la presente Ley.
+
+Las personas titulares de las Magistraturas Unitarias para Adolescentes percibirán una remuneración digna, decorosa e irrenunciable de acuerdo a la disponibilidad presupuestal del Poder Judicial del Estado, la cual, no podrá ser reducida, en ningún caso, durante el ejercicio de su encargo.
+
+Las personas titulares de las Magistraturas Unitarias para Adolescentes, tienen derecho al haber de retiro, siempre y cuando hayan sido reelectos en el cargo mediante Decreto de la Legislatura del Estado, y concluyan los periodos que establece la Constitución, de conformidad a las disposiciones que establece la Ley Orgánica del Poder Judicial del Estado.
+
+Las faltas y sustituciones temporales de las personas titulares de las Magistraturas Unitarias para Adolescentes, serán suplidas por el funcionario judicial que determine el Consejo de la Judicatura. En caso de falta absoluta, se procederá de acuerdo con lo establecido en el segundo párrafo del presente artículo.
 
 ### CAPITULO IV. DE LA DIVISION TERRITORIAL
 
@@ -1897,43 +1927,69 @@ Las resoluciones del Pleno y de las Comisiones del Consejo de la Judicatura del 
 
 Cuando el Pleno del Consejo de la Judicatura del Estado estime que sus acuerdos o resoluciones o los de las Comisiones pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 92.
 
 Son atribuciones del Consejo de la Judicatura:
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 I.- Expedir los reglamentos en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 II.- Ejercer el presupuesto de egresos del Poder Judicial del Estado, con excepción del correspondiente al Tribunal Superior de Justicia;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 III.- Supervisar el funcionamiento de los órganos jurisdiccionales y las áreas administrativas que integran el Poder Judicial; así como el desempeño de sus servidores públicos;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-IV.- Determinar la designación, adscripción, ratificación, licencias, renuncias y remoción de Jueces de Primera Instancia, de Paz y laborales;
+IV.- Determinar la designación, adscripción, ratificación, licencias, renuncias y remoción de Jueces de Primera Instancia, de Paz, laborales y de Justicia para Adolescentes;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleados del propio Consejo y demás órganos de (sic) Poder Judicial con excepción de los magistrados y secretario general de acuerdos ambos del Tribunal Superior de Justicia, en los términos y mediante los procedimientos establecidos en la Ley, los reglamentos y acuerdos que el Consejo dicte en materia disciplinaria;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 VI.- Fijar los criterios generales del contenido programático sobre el que deban versar los exámenes de mérito que sustenten los aspirantes a algún cargo del Poder Judicial; así como para la elaboración, convocatoria, instrumentación y evaluación objetiva y personal, con excepción de los Magistrados del Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 VII.- Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 VIII.- Emitir las bases, mediante acuerdos generales, para normar las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obras y servicios que realice el Poder Judicial del Estado, a excepción del Tribunal Superior de Justicia, en ejercicio de su presupuesto de egresos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 IX.- Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 X.- Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo de los órganos del Poder Judicial, con excepción de los que auxilien al Pleno del Tribunal Superior de Justicia y a su presidencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XI.- Conceder licencias y permisos a los servidores públicos del Poder Judicial, con excepción de las autorizaciones que correspondan a otros órganos del mismo;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XII.- Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la Constitución Política del Estado y las disposiciones aplicables, a partir del dictamen que le presente la comisión correspondiente, con excepción de los conflictos relativos a los Magistrados del Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XIII.- Convocar periódicamente a congresos nacionales o regionales de magistrados, jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el funcionamiento de los órganos del Poder Judicial del Estado y proponer las medidas pertinentes para mejorarlos;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XIV.- Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial, ordenándolas por ramas, especialidades y circuitos judiciales;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XV.- Coordinar y supervisar el funcionamiento de los órganos auxiliares del Consejo de la Judicatura;
 
@@ -1941,15 +1997,27 @@ XV.- Coordinar y supervisar el funcionamiento de los órganos auxiliares del Con
 
 XVI.- Nombrar a los servidores públicos de los Juzgados, los órganos auxiliares del Consejo de la Judicatura, Instituto de Defensoría Pública y Centro de Justicia Alternativa; así como acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XVII.- Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XVIII.- Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XIX.- Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o se hayan violentado derechos humanos del (sic) algún particular, por parte de los funciones (sic) judiciales en ejercicio de su encargo, cuando así lo solicite cualquier ciudadano y lo acuerde el pleno del Tribunal Superior de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial o a la Contraloría del Poder Judicial;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XX.- Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de las salas, juzgados y demás órganos del Poder Judicial, con excepción de las que estén al servicio del Pleno y de la Presidencia del Tribunal Superior;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XXI.- Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XXII.- Fijar los criterios generales de evaluación mensual de juicios iniciados, en trámite y concluidos en el Poder Judicial, basados, por lo menos, en el rendimiento, eficiencia y eficacia; y, en su caso, previa ponderación de las evaluaciones respectivas, tomar las providencias que estimen necesarias, con excepción del Pleno del Tribunal;
 
@@ -3964,3 +4032,15 @@ P.O. 18 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 180 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y SE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones vigentes al momento de su inicio.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las personas titulares de las Magistraturas Unitarias para Adolescentes, así como de los Juzgados de Control para Adolescentes, los Juzgados para Adolescentes y Juzgados de Ejecución de Medidas para Adolescentes, que se encuentren en funciones a la entrada en vigor del presente decreto, continuarán en el ejercicio de sus cargos, en los mismos términos en que hubiesen sido designados.
