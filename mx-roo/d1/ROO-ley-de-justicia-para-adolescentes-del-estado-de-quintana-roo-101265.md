@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-para-adolescentes-del-estado-de-quintana-roo-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-28"
-last_updated: "2014-07-25"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL DECRETO NÚMERO: 180 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y SE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. 22 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Número 48 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 28 de mayo de 2014.
 
@@ -5008,3 +5010,15 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Se derogan las disposiciones que se opongan a las contenidas en el presente decreto.
 
 TERCERO. El actual Magistrado Unitario para Adolescentes continuará en el ejercicio de la función jurisdiccional y concluirá el período para el cual fue designado, sin perjuicio de poder ser ratificado en términos de lo dispuesto por el artículo 25 de la Ley de Justicia para Adolescentes contenido en este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 180 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y SE ABROGA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones vigentes al momento de su inicio.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las personas titulares de las Magistraturas Unitarias para Adolescentes, así como de los Juzgados de Control para Adolescentes, los Juzgados para Adolescentes y Juzgados de Ejecución de Medidas para Adolescentes, que se encuentren en funciones a la entrada en vigor del presente decreto, continuarán en el ejercicio de sus cargos, en los mismos términos en que hubiesen sido designados.
