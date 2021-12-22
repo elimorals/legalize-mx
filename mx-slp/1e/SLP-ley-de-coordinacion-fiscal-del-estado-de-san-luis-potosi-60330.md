@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2021-09-13"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -79,11 +79,29 @@ VII. SISTEMA DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI: al conjunto d
 
 ### CAPITULO II. Del Sistema de Coordinación Fiscal del Estado de San Luis Potosí
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-###### ARTICULO 4°.
+###### ARTICULO 4º.
 
-La Legislatura del Estado determinará anualmente, las bases, montos y plazos en que los municipios participarán del veinte por ciento del Fondo General de Participaciones, que el Estado reciba en los términos de la Ley de Coordinación Fiscal. Dichas bases, montos y plazos se deberán publicar en el Periódico Oficial del Estado, a más tardar el día treinta y uno de enero del año para el que sean vigentes dichas disposiciones.
+La Legislatura del Estado determinará anualmente, las bases, montos y plazos en que los municipios participarán del veinte por ciento del Fondo General de Participaciones; así mismo determinará anualmente, las bases, montos y plazos en que los municipios, en los porcentajes establecidos en esta Ley, participarán de:
+
+I. El Impuesto sobre Automóviles Nuevos;
+
+II. El Fondo de Compensación del Impuesto sobre Automóviles Nuevos;
+
+III. El Fondo de Fiscalización y Recaudación;
+
+IV. El Impuesto previsto como cuota del artículo 2-A fracción 11 de la Ley del Impuesto Especial sobre Producción y Servicios a que se refieren las fracciones I y II del artículo 4- A de la Ley de Coordinación Fiscal;
+
+V. El Fondo de Extracción de Hidrocarburos;
+
+VI. El Impuesto Especial sobre Producción y Servicios;
+
+VII. El Fondo de Fomento Municipal que el Estado reciba en los términos de la Ley de Coordinación Fiscal, y
+
+VIII. El incentivo de la recaudación neta del Impuesto Sobre la Renta por Enajenación de Bienes Inmuebles.
+
+Dichas bases, montos y plazos se deberán publicar en el Periódico Oficial del Estado, a más tardar el día treinta y uno de enero del año para el que sean vigentes dichas disposiciones.
 
 ###### ARTICULO 5°.
 
@@ -96,6 +114,12 @@ De la participación establecida a favor del Estado, en el Impuesto Especial Sob
 ###### ARTICULO 7°.
 
 De la participación federal establecida del Impuesto Sobre Automóviles Nuevos a favor del Estado, los municipios participarán del veinte por ciento.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 7° Bis.
+
+Del incentivo por la recaudación neta del Impuesto Sobre la Renta por Enajenación de Bienes Inmuebles, los municipios participarán del veinte por ciento.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2016)</small>
 
@@ -143,7 +167,9 @@ I. El primer fondo conformado con un noventa por ciento del total distribuible, 
 
 II. El segundo fondo constituido con el diez por ciento del total distribuible, que se utilizará hasta donde alcance, para resarcir a aquéllos municipios que con este nuevo sistema de reparto, lleguen a percibir menos de lo que recibieron en el mismo mes del año inmediatamente anterior al que corresponda la participación. En caso de ser insuficiente este segundo fondo, la distribución de los recursos existentes será proporcional a la diferencia en la percepción.
 
-Si al finalizar el año resultare un excedente del segundo fondo distribuible, se deducirán los incentivos pagados con anterioridad a los municipios coordinados, y el monto restante se repartirá conforme a lo siguiente: el dos por ciento será destinado a los municipios que tuvieren déficit en los términos de las fracciones I y II de este artículo; y el noventa y ocho por ciento restante, entre todos los municipios con base a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Si resultare un excedente del segundo fondo se repartirá el mismo mes conforme a lo siguiente: el dos por ciento será destinado a los municipios que tuvieren déficit en los términos de las fracciones I y II de este artículo; y el noventa y ocho por ciento restante, entre todos los municipios con base a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios.
 
 De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
@@ -151,29 +177,41 @@ De darse el caso de creación de nuevos municipios, para los efectos de este art
 
 (DEROGADO, P.O. 5 DE JULIO DE 2016)
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 14.
 
 Los municipios participarán en la distribución del Fondo de Fomento Municipal, conforme a las reglas siguientes:
 
-Del ciento por ciento distribuible entre los municipios, se formarán dos fondos:
+Del ciento por ciento distribuible entre los municipios, se formarán los siguientes fondos:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2016)</small>
+I. El primer fondo conformado por la base 2013 y el setenta por ciento informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establecido en el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, se distribuirá entre la totalidad de los municipios del Estado de San Luis Potosí; para su distribución se formarán a su vez dos fondos:
 
-I. El primer fondo conformado con un noventa por ciento del total distribuible, que se asignará de acuerdo a lo siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística y Geografía; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio;
+a) El primero conformado por el noventa por ciento del total distribuible, que se asignara de acuerdo a lo siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística y Geografía; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio.
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2016)</small>
+b) El segundo fondo constituido con el diez por ciento del total distribuible, se utilizará hasta donde alcance, para resarcir a aquéllos municipios que con este nuevo sistema de reparto, lleguen a percibir menos de lo que recibieron en el mismo mes del año inmediatamente anterior al que corresponda la participación. En caso de ser insuficiente este segundo fondo, la distribución de los recursos existentes será proporcional a la diferencia en la percepción, y
 
-II. El segundo fondo constituido con el diez por ciento del total distribuible, se utilizará hasta donde alcance, para resarcir a aquellos municipios que con este nuevo sistema de reparto, lleguen a percibir menos de lo que recibieron en el mismo mes del año inmediatamente anterior al que corresponda la participación. En caso de ser insuficiente este segundo fondo, la distribución de los recursos existentes será proporcional a la diferencia en la percepción, y
+c) Si resultare un excedente del segundo fondo distribuible, se repartirá el mismo mes conforme a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios; esta distribución estará sujeta a que el municipio de que se trate haya dado cumplimiento a lo dispuesto en el artículo 14 Bis der esta Ley en el ejercicio inmediato anterior.
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2016)</small>
+El excedente del fondo de aquellos municipios que no cumplieron, se repartirá entre los demás municipios de acuerdo al cálculo de nuevos factores de redistribución, y
 
-III. Si al finalizar el año resultare un excedente del segundo fondo distribuible, estará sujeto a que el municipio de que se trate haya dado cumplimiento a lo dispuesto en el artículo 14 Bis de esta Ley.
+II. El segundo fondo conformado por el treinta por ciento del excedente que resulte con respecto al Fondo en el año para el que se hace el cálculo en relación con el año 2013 informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme a lo que establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, se distribuirá entre el total de los municipios que celebren el Convenio para la Administración del Impuesto Predial con el Gobierno del Estado; se hará conformado:
 
-El excedente del fondo de aquellos municipios que no cumplieron, se repartirá entre los demás municipios de acuerdo al cálculo de nuevos factores de redistribución.
+a) Por único fondo por el cien por ciento del total distribuible, que se asignará de acuerdo a lo siguiente:
 
-Si al finalizar el año resultare un excedente del segundo fondo distribuible, se repartirá conforme a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios.
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE DICIEMBRE DE 2021, PÁGINA 4.]</small>
 
-De darse el caso de creación de nuevos municipios, para los efectos de este artículo se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
+Donde:
+
+CPi,t es el coeficiente de distribución.
+
+Ii,t es el valor mínimo entre el resultado del cociente RIi,t-1/ RIi,t-2 y el número 2.
+
+RCi,t es la suma de la recaudación de predial entre los municipios que hayan convenido la coordinación del cobro de dicho impuesto con el Gobierno del Estado de San Luis Potosí i en el año t y que registre su flujo de efectivo, reportada en los formatos que emite la Secretaría de Hacienda y Crédito Público.
+
+NCi es el último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística y Geografía de los municipios que hayan convenido la coordinación del cobro del predial para la Entidad i.
+
+De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo publicado por el Instituto Nacional de Estadística y Geografía. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2016)</small>
 
@@ -191,11 +229,25 @@ IV. En caso de que el municipio cobre los derechos de agua mediante los organism
 
 V. El municipio deberá justificar, en su caso, los incrementos en la recaudación, y proporcionar la información adicional que se le solicite, así como aclara y/o corregir las inconsistencias que se le hayan observado, y
 
-VI. En caso de que el municipio no cumpla con lo anterior, se sujetará a lo dispuesto en el párrafo segundo de la fracción III del artículo 14 de esta Ley.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+VI. En caso de que el municipio no cumpla con lo anterior, se sujetará a lo dispuesto en el párrafo segundo del inciso b) de la fracción I del artículo 14 de esta Ley.
 
 ###### ARTICULO 15.
 
 Los municipios participarán en la distribución del Fondo de Participación del Impuesto Sobre Automóviles Nuevos, en un veinte por ciento, que se distribuirá de la forma siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística, Geografía e Informática; el cuatro por ciento de acuerdo al índice municipal de pobreza que se establece en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 15 Bis.
+
+Los municipios participarán en la distribución del incentivo por la recaudación neta del Impuesto Sobre la Renta por Enajenación de Bienes Inmuebles, en un veinte por ciento, que se distribuirá de la forma siguiente:
+
+I. El noventa y cinco por ciento con base en el número de habitantes con que cuenten, de acuerdo con el último Censo General de Población o Conteo, publicado por el Instituto Nacional de Estadística y Geografía;
+
+II. El cuatro por ciento de acuerdo con el índice municipal de pobreza que se establece en el artículo 35 de la Ley de Coordinación Fiscal, y
+
+III. El uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio.
 
 ###### ARTICULO 16.
 
@@ -209,15 +261,19 @@ Del veinte por ciento distribuible entre los municipios, se formarán dos fondos
 
 I. El primer fondo conformado con un noventa por ciento del total distribuible, que se asignará de acuerdo a lo siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo publicado por el Instituto Nacional de Estadística, Geografía e Informática; el cuatro por ciento de acuerdo al índice municipal de pobreza que se establece en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio, y
 
-II. El segundo fondo constituido con el diez por ciento del total distribuible formará un fondo de compensación, el cual resarcirá a los municipios que hayan sufrido pérdidas respecto del año anterior. Si al finalizar el año resultare un excedente de este fondo, se repartirá conforme a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+II. El segundo fondo constituido con el diez por ciento del total distribuible formará un fondo de compensación, el cual resarcirá a los municipios que hayan sufrido pérdidas respecto del año anterior. Si resultare un excedente de este fondo, se repartirá el mismo mes conforme a los coeficientes aprobados por la Legislatura del Estado, para cada uno de los municipios.
 
 De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 18.
 
-Los municipios participarán en el Fondo de Fiscalización y Recaudación, que se distribuirá de acuerdo a lo siguiente:
+Los municipios participarán en el Fondo de Fiscalización y Recaudación, que se distribuirá mensualmente de acuerdo a lo siguiente:
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
 
 Del veinte por ciento distribuible entre los municipios se formará un único fondo que comprenderá el total distribuible, que se asignará de acuerdo a lo siguiente:
 
@@ -225,7 +281,11 @@ Del veinte por ciento distribuible entre los municipios se formará un único fo
 
 I. El noventa por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo publicado por el Instituto Nacional de Estadística y Geografía; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; el uno por ciento en proporción inversa a las participaciones que por población tenga cada municipio; y el cinco por ciento restante de acuerdo al factor de eficiencia administrativa del municipio, mismo que será el cociente de la recaudación de impuestos y derechos municipales contenida en la última cuenta pública presentada al Congreso del Estado, entre el gasto ejercido en el capítulo 1000, correspondiente a Servicios Personales, para cada uno de los municipios del Estado, y
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
+
 II. De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
 
 El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
@@ -522,3 +582,19 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0146.- SE REFORMA EL ARTÍCULO 4°; Y ADICIONA LOS ARTÍCULOS, 7º BIS, Y 15 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0147.- SE REFORMA LOS ARTÍCULOS, 12 EN SU PÁRRAFO PENÚLTIMO, 14, 14 BIS EN SU FRACCIÓN VI, 17 EN SU FRACCIÓN II, Y 18 EN SU PÁRRAFO PRIMERO DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
