@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-07-16"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -77,21 +77,15 @@ La recaudación y administración de las contribuciones de las Dependencias esta
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
 ###### Artículo 5.
 
-Las dependencias, los organismos descentralizados, los fideicomisos públicos, las empresas de participación estatal mayoritaria, los Poderes Legislativo y Judicial y los Órganos Autónomos, deberán remitir mediante el Sistema Único de Información, un informe mensual dentro de los primeros 10 días naturales de concluido el mes a la Secretaría sobre la evolución de los ingresos obtenidos, respecto de la estimación de sus ingresos y una explicación detallada de la misma, así como los que tengan programados percibir durante el mes inmediato, para que sea revisado por la Secretaría, conjunta o indistintamente con la Secretaría de la Contraloría; asimismo mediante el Sistema citado, deberán informar a la Secretaría a más tardar el treinta y uno del mes de enero del ejercicio correspondiente, los montos de los ingresos que hayan generado, durante el ejercicio fiscal inmediato anterior.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
-Los ingresos que recauden las dependencias y entidades se concentrarán forzosamente en la Secretaría y deberán reflejarse en la contabilidad gubernamental.
-
-Los programas y/o proyectos anuales de las Dependencias y sus órganos desconcentrados deberán contener la previsión de los ingresos que generen por la prestación de servicios públicos por el uso, goce o aprovechamiento de bienes del dominio público que tengan asignados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 6.
 
-Las contribuciones que se establecen en esta Ley se pagarán en las oficinas y medios autorizados por la Secretaría a través del Servicio de Administración Tributaria del Estado de Quintana Roo, en el monto, forma y época de pago que la misma Ley disponga.
+Las contribuciones que se establecen en esta Ley se pagarán en las oficinas y medios autorizados por la Secretaría a través del SATQ, en el monto, forma y época de pago que esta misma Ley y las demás leyes aplicables en la materia dispongan.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
 
@@ -104,6 +98,10 @@ Las Dependencias y sus órganos desconcentrados deberán poner a disposición de
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 Para hacer efectivo las exenciones o descuentos previstos en la presente Ley, se estará a lo dispuesto en las reglas de carácter general emitidas por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+El pago de los derechos que establece esta Ley deberá hacerse por el contribuyente previo a la prestación de los servicios o al uso, goce, explotación o aprovechamiento de bienes de dominio público del Estado.
 
 ###### Artículo 7.
 
@@ -475,6 +473,12 @@ i) Trámite de actas certificadas de otras entidades federativas:
 
 2. Matrimonio, defunción, divorcio o inscripción de actos 6.50
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+j) Procedimiento de reconocimiento de
+
+identidad de género. 5.50
+
 ###### Artículo 22.
 
 (DEROGADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)
@@ -565,6 +569,10 @@ a) Por nombre: en el que se certificarán los folios que reporte el sistema por 
 
 b) Por folio: en el que se certificarán los actos que reporte el sistema por dicho folio.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Cuando el servicio solicitado corresponda a inmuebles ubicados en Delegación distinta al de la ubicación del solicitante: 8.00
+
 VI. Por expedición de constancias de asiento registral por folio 5.00
 
 VII. Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5.00
@@ -590,6 +598,18 @@ XII. Por inscripción del acta de matrimonio por cuanto hace al régimen patrimo
 XIII. Por cada foja de los documentos a que se refieren las fracciones I y II de este artículo. 0.20
 
 En el supuesto que un mismo documento presentado contenga actos inscribibles y anotables, solo una vez se pagará este importe por dicho documento.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+XIV. Por servicio de Alertas Registrales Inmobiliarias por folio electrónico por 12 meses. 10.00
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+XV. Por el servicio de alta de una Notaría Pública, como usuario en el sistema informático del Registro Público de la Propiedad y del Comercio por 12 meses, por usuario. 85.00
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+XVI. Por el servicio de alta de notarías foráneas para la verificación de los instrumentos notariales por 12 meses 85.00
 
 ###### Artículo 30.
 
@@ -691,11 +711,11 @@ Las personas físicas representadas por el Instituto de Defensoría Pública del
 
 #### SECCIÓN SÉPTIMA. DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 32 Bis.
 
-Por los Servicios que presta la Coordinación Estatal de Protección Civil, se causarán los derechos, conforme a la tarifa siguiente:
+Por los servicios que presta la Coordinación Estatal de Protección Civil, se causarán los derechos, conforme a la tarifa siguiente:
 
 TASA (UMA) Unitarias y por nivel
 
@@ -705,13 +725,37 @@ CONCEPTO MEDIANO ALTO RIESGO
 
 RIESGO
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 I. Análisis de Riesgos 118.36 177.54
 
-II. Dictámenes Técnicos de
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-Protección Civil 94.69 142.54
+II. Validación de Dictámenes
 
-III. Diagnóstico de Riesgos 53.26
+Técnicos de Protección Civil
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+a) Gas 94.69
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+b) Eléctrico 94.69
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+c) Estructural 94.69
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+III. Diagnóstico de Riesgos
+
+para uso de inmuebles
+
+públicos y privados 53.26
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 IV. Programas Internos de
 
@@ -719,25 +763,87 @@ Protección Civil 53.26
 
 Establecimiento de Unidades Internas de Protección Civil
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 V. Capacitación de Unidades Internas 53.26
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 VI. Validación de Unidades Internas 53.26
 
-VII. Simulacros 17.75
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-VIII. Registro de Prestadores de Servicios 243.06
+VII. Evaluación de Simulacros 17.75
 
-IX. Capacitación de primeros auxilios 97.22
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-X. Elaboración de programas internos 72.92
+VIII. Por el análisis y calificación
 
-XI. Uso y manejo de extintores 48.61
+de la documentación para
 
-XII. Evacuación, búsqueda y rescate 24.31
+ser considerado Prestador de
 
-XIII. Revisión de proyectos de factibilidad 236.71 355.07
+Servicios en materia de
+
+protección civil para los rubros
+
+siguientes:
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+a) Elaboración de Programas
+
+Internos de Protección Civil 50
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+b) Capacitación en Primeros Auxilios 60
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+c) Capacitación en Uso y
+
+Manejo de Extintores 40
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+d) Capacitación en Evacuación 50
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+e) Venta y Recarga de Extintores 40
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+f) Capacitación en Búsqueda
+
+y Rescate Acuático 50
+
+IX. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+X. Revisión o elaboración de
+
+programas internos 72.92
+
+XI. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2021)
+
+XII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2021)
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XIII. Revisión de
+
+proyectos de factibilidad 236.71 355.07
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 XIV. Emisión de Opinión Favorable para la fabricación de armas de fuego, armas de gas y municiones, fabricación de pólvoras, explosivos, artificios o de substancias químicas relacionadas con los explosivos 591.79
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+La administración pública centralizada estatal y la municipal, no serán sujetos a la obligación de pago de los derechos a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, y X del presente artículo.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -944,6 +1050,18 @@ I. Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación d
 II. Por evento; 80.00
 
 III. Servicio público especializado. 110.00
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+IV. Restaurante, Restaurante-Bar 240.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Para el caso de la fracción IV, si el trámite se realiza dentro de los dos primeros meses del año, los contribuyentes no serán sujetos del pago de este derecho.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de la apertura del establecimiento a que se refiere la fracción IV, si el permiso se tramita dentro de los dos primeros meses contados a partir de su apertura, tampoco serán sujetos del pago de este derecho.
 
 CONCEPTO TARIFA
 
@@ -1219,6 +1337,194 @@ o archivo digital (formato PDF) 10.00
 
 h) Por Ortofoto en archivo digital (formato PDF) 15.00
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+i) Croquis de ubicación del predio 1.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+j) Km2 de ortoimagen de archivo generada
+
+con vehículo aéreo no tripulado a escala 1:1,500.
+
+Archivo en formato GeoTIFF, 5 cm de tamaño
+
+de pixel, georreferenciada en UTM, zona 16 norte,
+
+ITRF08, metros. 10.00.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+k) Km2 de ortoimagen de archivo generada
+
+con vehículo aéreo no tripulado a escala 1:1,500.
+
+Archivo en formato GeoTIFF, 5 cm de tamaño
+
+de pixel, georreferenciada en UTM, zona 16 norte,
+
+ITRF08, metros. 10.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+l) Km2 de ortoimagen nueva, generada con
+
+vehículo aéreo no tripulado a escala 1:1,500.
+
+Archivo en formato GeoTIFF, 5 cm de tamaño
+
+pixel, georreferenciada en UTM, zona 16 norte,
+
+ITRF08, metros. Incluye gastos de traslado
+
+y viáticos. 25.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+m) Hora de levantamiento LIDAR terrestre,
+
+3mm de precisión, con puntos de referencia
+
+geodésica cm con corrección a la RGNA o
+
+RGNP del INEGI. Se entrega nube de puntos
+
+en formato LAS colorizada a partir de
+
+imágenes fotográficas. Incluye gastos de traslado
+
+y viáticos hasta 250 de distancia en carretera
+
+a partir de Chetumal. 50.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+n) Hora de levantamiento LIDAR terrestre,
+
+3mm de precisión, con puntos de referencia
+
+geodésica cm con corrección a la RGNA o
+
+RGNP del INEGI. Se entrega nube de puntos
+
+en formato LAS colorizada a partir de
+
+imágenes fotográficas. Incluye gastos de
+
+traslado y viáticos, de 250 a 500 kms de distancia
+
+en carretera a partir de Chetumal. 80.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+o) 3 horas de mapeo 3D externo e interno
+
+para preservación digital de monumentos,
+
+edificaciones, BIM, evaluación de proyectos,
+
+análisis de riesgos, entre otros. El servicio
+
+integra mapeo 3D con vehículo aéreo no
+
+tripulado y 3hrs de levantamiento LIDAR
+
+con estación terrestre. Se entrega archivo
+
+en formato LAS que incluye el mundo externo
+
+e interno, georreferenciado y puntos colorizados
+
+a partir de imágenes fotográficas. Incluye gastos
+
+de traslado y viáticos considerando hasta
+
+250 kms de distancia en carretera a partir
+
+de Chetumal. 100.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+p) 3 horas de mapeo 3D externo e interno
+
+para preservación digital de monumentos,
+
+edificaciones, BIM, evaluación de proyectos,
+
+análisis de riesgos, entre otros. El servicio
+
+integra mapeo 3D con vehículo aéreo
+
+no tripulado y 3hrs de levantamiento LIDAR
+
+con estación terrestre. Se entrega archivo
+
+en formato LAS que incluye el mundo
+
+externo e interno, georreferenciado y
+
+puntos colorizados a partir de imágenes
+
+fotográficas. Incluye gastos de traslado y
+
+viáticos, de 250 a 500 kms de distancia
+
+de Chetumal. 145.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+q) Km2 de archivo digital vectorial de predios,
+
+en formato digital shapefile, a escala 1:2000,
+
+con atributos de área, perímetro, estado,
+
+municipio, localidad, manzana y lote.
+
+Georreferenciado en UTM, zona 16 norte,
+
+ITRF08, metros. Km2 de archivo digital
+
+vectorial de predios, en formato digital
+
+shapefile, a escala 1:2000, con atributos
+
+de área, perímetro, estado, municipio,
+
+localidad, manzana y lote. Georreferenciado
+
+en UTM, zona 16 norte, ITRF08, metros. 10.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+r) Hora de asesoría o capacitación
+
+especializada en materia de geodesia,
+
+cartografía, fotogrametría, sistemas de
+
+información geográfica, percepción remota pasiva,
+
+percepción remota pasiva (sic), LIDAR,
+
+CAD o minería de datos relacionados con
+
+catastro multifinalitario. 15.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+s) Colocación de punto de control georreferenciado
+
+con GPS de doble banda. Costo. 17.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+t) Por cada 25 kilómetros o fracción adicional,
+
+que resulte entre la distancia de la sede
+
+del IGECE al lugar de prestación por servicio 10.00
+
 III. Por copias de planos:
 
 a) En papel bond blanco y negro.
@@ -1367,7 +1673,9 @@ XIII. Constancia de Actualización de datos catastrales 8.00
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
+#### SECCIÓN OCTAVA. DE LOS SERVICIOS DE LA OFICINA ESTATAL DE ENLACE
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 51
 
@@ -1409,9 +1717,7 @@ Estarán exentos del pago de este derecho los visitantes nacionales y extranjero
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
 ###### Artículo 51
 
@@ -1429,21 +1735,29 @@ Quater. La cuota por día de los derechos de almacenaje previstos en el artícul
 
 Quinquies. Los interesados dispondrán de tres días hábiles para el retiro de sus bienes muebles, contados a partir de la fecha en que hubieran pagado los derechos de almacenaje. Transcurrido dicho término sin haber retirado los bienes muebles, se cubrirán estos derechos por todo el tiempo que continúe el almacenaje, a partir del día siguiente a aquél en que se efectuó el pago, hasta el momento en que se retiren.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
-
 ###### Artículo 51
 
-Sexies. Por la adquisición de bases de licitación, se causarán los derechos, conforme a la tarifa siguiente:
+Sexies. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
-CONCEPTO UMA
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-I. Bases de licitación 29.5893 a 35.5071
+#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
 
-> <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 51
+
+Septies. Por los servicios que presta la Oficina Estatal de Enlace con la Secretaría de Relaciones Exteriores, se causarán los derechos conforme a la tarifa siguiente:
+
+CONCEPTO UMA
+
+l. Gestión y trámite para la expedición de Pasaporte. 4.00
+
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. DEL INSTITUTO DE BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
 
@@ -1455,13 +1769,9 @@ I. Bases de licitación 29.5893 a 35.5071
 
 #### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
 
-#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
-
 ### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
 
 ###### Artículo 52.
 
@@ -1537,7 +1847,9 @@ Inmobiliario 15.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 54.
 
@@ -1701,7 +2013,7 @@ Contratistas del Estado de Quintana Roo. 10.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
 
 ###### Artículo 56.
 
@@ -1855,7 +2167,7 @@ d) Por análisis y resolución de la Cédula de Desempeño Ambiental, que opera 
 
 e) Por refrendo y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 150.00
 
-f) Por solicitud extemporánea de la Cédula de Desempeño Ambiental 400.00
+f) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 g) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental que opera de acuerdo a la Licencia de Funcionamiento ambiental 200.00
 
@@ -1925,7 +2237,7 @@ II. Análisis y calificación para emitir la congruencia de uso de suelo de los 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
+#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
 
 ###### Artículo 61.
 
@@ -2087,7 +2399,7 @@ c) Servicio público/Vans. 0.5755
 
 > <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
+#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
 
 ###### Artículo 62.
 
@@ -2109,9 +2421,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ###### Artículo 63.
 
@@ -2119,7 +2429,9 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
+#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 64.
 
@@ -2161,7 +2473,7 @@ IX. Verificación de animales, productos y subproductos para ingreso al Estado. 
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
+#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
 
 ###### Artículo 66.
 
@@ -2205,7 +2517,7 @@ XVII. Cambio de nomenclatura de Institución Educativa, Carrera y/o Estudios de 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A] , P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
+#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
 ###### Artículo 67.
 
@@ -2223,7 +2535,7 @@ III. Peritos valuadores. 17.25
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE LA CONTRALORÍA
 
-#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
+#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
 
 ###### Artículo 68.
 
@@ -2235,19 +2547,27 @@ El pago de los derechos por este concepto se hará en la caja de los propios hos
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las oficinas autorizadas por la Secretaría cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 69.
 
-Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los derechos establecidos, salvo los diagnósticos considerados dentro del sistema de protección social en salud, para su población afiliada, con base a la tarifa siguiente:
+Tratándose de personas que carezcan de seguridad social, la prestación de los servicios de salud, medicamentos y demás insumos asociados, podrá estar exenta de costos en los términos y de acuerdo a los supuestos previstos en el artículo 77 Bis 1 de la Ley General de Salud, Tabuladores vigentes, instrumentos y demás disposiciones jurídicas aplicables para tal efecto.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social, se considerará la capacidad instalada en infraestructura, equipamiento y recursos humanos en salud de las unidades médicas que correspondan.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Los servicios médicos asistenciales que se otorguen a la población con seguridad social se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los derechos establecidos, con base a la tarifa siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 561 A LA 609.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 32 A LA 37; P.O. 18 DE DICIEMBRE DE 2019, PÁGINAS DE LA 70 A LA 106.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 32 A LA 37; 18 DE DICIEMBRE DE 2019, PÁGINAS DE LA 70 A LA 106; 22 DE DICIEMBRE DE 2021, PÁGINAS DE LA 30 A LA 62.]</small>
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
+#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
 
 ###### Artículo 70.
 
@@ -2263,7 +2583,7 @@ Los servicios médicos asistenciales que se otorguen a la población abierta se 
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
 
 ###### Artículo 72.
 
@@ -2275,7 +2595,7 @@ Por el análisis de la documentación para participar en la designación de desp
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
+#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 73
 
@@ -2347,6 +2667,12 @@ d) Cinco años
 
 3. Licencia de motociclista 5.75
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+e) Reposición de Licencia de chofer,
+
+automovilista o motociclista 1.4
+
 Tratándose de personas afiliadas al Instituto Nacional de las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
 Durante la vigencia de las diversas Ferias de Empleo, organizadas por la Secretaría del Trabajo y Previsión Social, los buscadores de empleo gozarán del 50% de descuento en el pago de los derechos a que se refiere esta fracción.
@@ -2359,19 +2685,67 @@ b) 90 días 3.44
 
 c) 180 días 6.87
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+d) Reposición de permiso provisional 1.4
+
 III. Por arrastre de grúa 9.57
 
 IV. Por día de estancia en el corralón 0.46
 
-V. Permiso para circular con cristales
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-polarizados por 1 año, según su tipo:
+V. Permiso o autorización para
 
-a) De un humo para servicio público 5.50
+circular con cristales polarizados
 
-b) De un humo para servicio particular 6.50
+por 1 año, para el servicio particular,
 
-c) Hasta de tres humos para el servicio oficial 12.09
+con base a lo dispuesto en la normatividad
+
+de la materia. 6.5
+
+a) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
+
+b) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
+
+c) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+El pago de este derecho deberá
+
+efectuarse dentro de los primeros
+
+tres meses de cada año. Los propietarios
+
+o posesionarios de vehículos que
+
+posterior a este plazo, opten por polarizar
+
+los cristales de sus unidades, deberán
+
+obtener el permiso correspondiente
+
+previo el pago de derechos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Las personas físicas o morales que
+
+realicen el pago de este derecho dentro
+
+del plazo establecido en el párrafo anterior,
+
+gozarán de un 50% de descuento.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Los vehículos con cristales ahumados
+
+de fábrica, no serán sujetos del pago
+
+de este derecho.
 
 VI. Examen médico y de competencia para la
 
@@ -2394,6 +2768,18 @@ X. Por el registro y refrendo anual de escuelas de manejo 20.00
 XI. Por la expedición de historial de pagos 2.00
 
 XII. Por la expedición de constancias de no infracción 1.00
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+XIII. Por la expedición de Constancia
+
+de antigüedad de licencias. 2.00
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+XIV. Permiso para realizar maniobras
+
+de carga y descarga por día. 1.00
 
 APARTADO A
 
@@ -2717,7 +3103,7 @@ Policiales. 9.67
 
 ### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
 
-#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
 
 ###### Artículo 83.
 
@@ -2725,7 +3111,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
+#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 84.
 
@@ -2733,7 +3119,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
+#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
 
 ###### Artículo 85.
 
@@ -2741,7 +3127,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
+#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
 
 ###### Artículo 86.
 
@@ -2749,7 +3135,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
 
 ###### Artículo 87.
 
@@ -2757,7 +3143,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
+#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
 
 ###### Artículo 88.
 
@@ -2765,7 +3151,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
+#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
 
 ###### Artículo 89.
 
@@ -2773,7 +3159,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
+#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
 
 ###### Artículo 90.
 
@@ -2781,7 +3167,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
+#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
 
 ###### Artículo 91.
 
@@ -2789,7 +3175,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
 
 ###### Artículo 92.
 
@@ -2797,7 +3183,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
 
 ###### Artículo 93.
 
@@ -2805,7 +3191,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
+#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 94.
 
@@ -2813,7 +3199,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
+#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 95.
 
@@ -2821,7 +3207,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
+#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
 
 ###### Artículo 96.
 
@@ -2829,7 +3215,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
 
 ###### Artículo 97.
 
@@ -2837,7 +3223,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
 
 ###### Artículo 98.
 
@@ -2845,7 +3231,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
+#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 99.
 
@@ -2853,7 +3239,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
+#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 100.
 
@@ -2861,7 +3247,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 101.
 
@@ -2877,7 +3263,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
+#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 104.
 
@@ -2889,7 +3275,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
 
 ###### Artículo 106.
 
@@ -2897,13 +3283,15 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
+#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 107.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
 
 ###### Artículo 108.
 
@@ -3081,13 +3469,13 @@ VII. Por el escaneo de documentos para entregarlos en medios magnéticos, por ca
 
 En la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación y Oposición), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-Lo dispuesto en la fracción VI, no se realizará cobro alguno, cuando el solicitante se presente ante la Unidad de Transparencia que corresponda, con el material señalado en esa fracción o cualquier otra que se requiera para la reproducción de la información solicitada, siempre y cuando no exceda de veinte hojas.
+Lo dispuesto en la fracción VI de este artículo no causará cobro alguno, cuando el solicitante se presente ante la Unidad de Transparencia que corresponda, con el material señalado en esa fracción o cualquier otra que se requiera para la reproducción de la información solicitada.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-En la expedición de copias certificadas, además del precio de la copia a que se refieren las fracciones I, II y III de este artículo, se realizará el pago a que se refiere el numeral 1 del artículo 123 de esta Ley.
+En la expedición de copias certificadas, además del precio de la copia a que se refieren las fracciones I, II y III de este artículo, se realizará el pago a que se refiere el numeral 2 del artículo 123 de esta Ley.
 
 Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago de derechos a que se refieren las fracciones I, II, III, IV, V, VI y VII el solicitante deberá cubrir el costo del servicio respectivo por lo que deberá notificar a la Unidad de Transparencia correspondiente los servicios que ha contratado para que ésta última proceda al envío.
 
@@ -3113,13 +3501,17 @@ De igual forma, se consideran otros derechos, los relativos a la expedición de 
 
 CONCEPTO UMA
 
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 1. Por expedición de Copias simples
 
-a) Por foja tamaño carta: 0.178
+Por foja tamaño carta:
 
-b) Por la primera foja 0.06
+a) Por la primera foja 0.178
 
-Por cada foja excedente Por foja tamaño oficio:
+b) Por cada foja excedente 0.06
+
+Por foja tamaño oficio:
 
 a) Por la primera foja 0.237
 
@@ -3127,7 +3519,11 @@ b) Por cada foja excedente 0.07
 
 2. Por legalizaciones y certificaciones 1.73
 
-3. Copias certificadas de convenios transaccionales, exhortos y autorizaciones para escrituraciones. 9.00
+3. Copias certificadas de convenios
+
+transaccionales, exhortos y autorizaciones
+
+para escrituraciones. 9.00
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3362,3 +3758,27 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 1o. de enero del año 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Con la finalidad de regularizar la vigencia de los permisos de polarizado en el Municipio de Othón P. Blanco, en el presente ejercicio fiscal, se otorga un estímulo fiscal sobre el pago de los derechos a que se refiere el artículo 75 fracción V de la Ley de Derechos del Estado de Quintana Roo, a las personas físicas o morales que a la entrada en vigor del presente Decreto, posean vehículos con cristales polarizados, cuyo permiso venza en el año 2022, y requieran continuar circulando en las mismas condiciones:
+
+l. Si el permiso se obtuvo dentro del periodo de enero a junio de 2021, un 50%;
+
+II. Si el permiso se obtuvo dentro del periodo julio a septiembre de 2021, un 80%;
+
+III. Si el permiso se obtuvo dentro del periodo de octubre a noviembre de 2021, un 90%, y
+
+IV. Si el permiso se obtuvo dentro del periodo del mes de diciembre de 2021, un 100%.
+
+Para la aplicación del estímulo fiscal correspondiente, los interesados deberán acudir a la Dirección de Tránsito del Gobierno del Estado dentro de los tres primeros meses del ejercicio fiscal 2022 para el canje del Permiso otorgado durante el ejercicio 2021.
+
+TERCERO. Durante el ejercicio fiscal 2022, se otorga un estímulo fiscal del 50% sobre el pago de los derechos previstos en la fracción I del artículo 53, relativo a los servicios que presta la Secretaría de Desarrollo Territorial Urbano Sustentable en materia de operaciones inmobiliarias.
+
+CUARTO. El pago de los derechos por los servicios contemplados en las fracciones XIV, XV y XVI del artículo 29 de la presente Ley entrará en vigor a partir del primero de abril del año 2022.
+
+QUINTO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
