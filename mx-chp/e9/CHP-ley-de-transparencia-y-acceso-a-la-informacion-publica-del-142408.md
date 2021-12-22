@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1424
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-01"
-last_updated: "2021-06-16"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 1 de abril de 2020.
 
@@ -397,13 +397,13 @@ El Instituto promoverá la publicación de la información de datos abiertos y a
 
 ### Capítulo III. De su Integración
 
-(NOTA: EL 8 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 127/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE JULIO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 29.
 
 El Instituto estará integrado por tres Comisionados, uno de los cuales tendrá el carácter de Comisionado Presidente, quien asumirá la representación legal del mismo.
 
-La designación de los Comisionados estará a cargo del Congreso del Estado con facultad soberana, bajo el siguiente procedimiento:
+La elección de los Comisionados estará a cargo del Congreso del Estado, bajo el siguiente procedimiento:
 
 I. El Congreso del Estado a través de la Comisión legislativa correspondiente emitirá una convocatoria pública para que cualquier ciudadano que aspire al cargo de Comisionado, pueda registrarse, a efecto de recibir las solicitudes durante un período de diez días naturales contados a partir de la fecha de publicación de la convocatoria.
 
@@ -417,9 +417,15 @@ IV. Concluido el periodo de entrevistas, la Comisión legislativa correspondient
 
 V. El Pleno del Congreso del Estado con el voto de la mayoría de los diputados presentes, aprobarán o rechazarán el dictamen que se les presente.
 
-En caso de no obtener la votación requerida, el Congreso del Estado, deberá iniciar el procedimiento previsto en el presente artículo, en el cual podrán participar de nueva cuenta los aspirantes que participaron en el proceso anterior de selección.
+VI. En caso de no obtener la votación requerida, el Congreso del Estado, deberá iniciar el procedimiento previsto en el presente artículo, en el cual podrán participar de nueva cuenta los aspirantes que participaron en el proceso anterior de selección.
 
-VI. Las personas designadas para ocupar los cargos de Comisionado, protestará (sic) ante el Pleno del Congreso.
+VII. Las personas designadas para ocupar los cargos de Comisionado, protestarán ante el Pleno del Congreso.
+
+El nombramiento de algún Comisionado podrá ser objetado por el Gobernador del Estado en un plazo de 10 días hábiles contados a partir de que el Congreso del Estado le comunique la designación; si no lo objeta dentro de dicho plazo, ocupará el cargo de Comisionado la persona nombrada por el Congreso del Estado.
+
+En caso de que el Gobernador del Estado objete el nombramiento, el Congreso del Estado elegirá nuevamente al Comisionado, conforme a lo dispuesto en el segundo párrafo de este artículo.
+
+Si el segundo nombramiento es objetado se procederá en términos del párrafo anterior, pero una vez logrado un tercer nombramiento ya no podrá presentarse objeción y el elegido ocupará la vacante.
 
 ###### Artículo 30.
 
@@ -449,11 +455,11 @@ Los Comisionados durarán en el ejercicio de su cargo siete años. En caso de oc
 
 El cargo de Comisionado es incompatible con cualquier otro empleo, cargo o comisión, sea lucrativa o no, salvo la docencia, la beneficencia pública o privada que no implique remuneración alguna; y siempre que no interfiera con su horario, responsabilidades y actividades dentro del Instituto.
 
-(NOTA: EL 8 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 127/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE JULIO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 34.
 
-Los Comisionados sólo podrán ser removidos de su cargo en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS; LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS; y serán sujetos de juicio político a través del procedimiento que marca la Ley.
+Los Comisionados sólo podrán ser removidos de su cargo en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y serán sujetos de juicio político a través del procedimiento que marca la Ley.
 
 ###### Artículo 35.
 
@@ -2025,6 +2031,8 @@ De mediar o existir circunstancias que hagan difícil localizar, recabar o reuni
 
 No podrán invocarse como causales de ampliación del plazo de respuesta, motivos que supongan negligencia o descuido de los Sujetos Obligados en el Trámite de la solicitud.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 153.
 
 Cuando los detalles proporcionados por el solicitante no bastan para localizar la información solicitada, los Sujetos Obligados podrán requerir la aportación de más elementos al solicitante por una sola vez y dentro de un plazo no mayor a cinco días hábiles contados a partir del día hábil siguiente a la recepción de la solicitud, para que en un término de hasta diez días hábiles aporte más elementos, complemente o aclare su solicitud, apercibiéndolo de que en caso de no hacerlo se tendrá por no presentada su solicitud de información. En el caso de requerimientos parciales no desahogados, se tendrá por presentada la solicitud en lo que respecta a los contenidos de información que no formaron parte del requerimiento.
@@ -2032,10 +2040,6 @@ Cuando los detalles proporcionados por el solicitante no bastan para localizar l
 Este requerimiento interrumpirá el plazo de respuesta establecido en el artículo 152 de la presente Ley, por lo que comenzará a computarse nuevamente al día hábil siguiente de la aportación de más elementos por parte del solicitante. En este caso, el Sujeto Obligado atenderá la solicitud en los términos en que fue atendido el requerimiento de más elementos.
 
 La solicitud se tendrá por no presentada cuando los solicitantes no atiendan el requerimiento de información adicional. En el caso de requerimientos parciales no desahogados, se tendrá por presentada la solicitud por lo que respecta a los contenidos de información que no formaron parte del requerimiento.
-
-(NOTA: EL 8 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 127/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE JULIO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-LA SOLICITUD PODRÁ DETERMINARSE COMO IMPROCEDENTE CUANDO SE FORMULE EN UN LENGUAJE OBSCENO, IRRESPETUOSO, QUE NO CONTENGA TEXTO O ÉSTE CAREZCA DE SINTAXIS, LO QUE DEBERÁ HACERSE DEL CONOCIMIENTO DEL SOLICITANTE DENTRO DE LOS TRES DÍAS POSTERIORES A LA RECEPCIÓN DE LA MISMA.
 
 ###### Artículo 154.
 
@@ -2678,3 +2682,11 @@ P.O. 16 DE JUNIO DE 2021.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 016 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
