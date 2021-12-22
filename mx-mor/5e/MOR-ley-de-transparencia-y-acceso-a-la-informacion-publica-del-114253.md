@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2017-07-26"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de abril de 2016.
 
@@ -733,9 +733,11 @@ Los particulares, sin perjuicio de que sean considerados Sujetos Obligados en t�
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE TRANSPARENCIA COMUNES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 51.
 
-Los Sujetos Obligados pondrán a disposición del público en la Plataforma Electrónica las obligaciones de transparencia, debiendo difundir y actualizar en los respectivos medios electrónicos, además de la que de manera específica se señala en este Capítulo, sin que medie ninguna solicitud al respecto, la siguiente información:
+Los sujetos obligados pondrán a disposición del público en la plataforma electrónica las obligaciones de transparencia, debiendo difundir y actualizar en los respectivos medios electrónicos, además de la que de manera específica se señala en este capítulo, sin que medie ninguna solicitud al respecto, la siguiente información:
 
 I. El marco normativo aplicable a los Sujetos Obligados, en el que deberán incluirse Leyes, Códigos, Reglamentos, Decretos de creación, Acuerdos, Circulares, Periódico Oficial, Manuales Administrativos, Reglas de Operación, Criterios, Políticas y demás disposiciones administrativas que le dan sustento legal al ejercicio de sus funciones públicas;
 
@@ -893,7 +895,9 @@ XXXII. El inventario de bienes muebles e inmuebles en posesión y propiedad;
 
 XXXIII. Las recomendaciones emitidas por los órganos públicos del Estado Mexicano u organismos internacionales garantes de los derechos humanos, así como las acciones que han llevado a cabo para su atención;
 
-XXXIV. Sentencias y laudos que hayan causado estado o ejecutoria;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+XXXIV. Las resoluciones y laudos que se emitan en procesos o procedimientos seguidos en forma de juicio; una vez agotadas todas las etapas procesales.
 
 XXXV. Políticas y mecanismos de participación ciudadana en los procesos de elaboración, implementación y evaluación de políticas públicas, así como en la toma de decisiones de las entidades públicas;
 
@@ -989,11 +993,15 @@ XIV. Los resultados de los estudios o investigaciones de naturaleza económica, 
 
 XV. El padrón de cabilderos, de acuerdo a la normativa aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 54.
 
-Además de lo señalado en el artículo 51 de la presente Ley, el Poder Judicial y todos aquellos Órganos Constitucionales Autónomos o Administrativos que realicen funciones materialmente jurisdiccionales, deberán poner a disposición del público y actualizar la siguiente información:
+Además de lo señalado en el artículo 51 de la presente ley, el Poder Judicial del Estado de Morelos, el Tribunal de Justicia Administrativa, el Tribunal Estatal de Conciliación y Arbitraje y todos aquellos órganos constitucionales autónomos o administrativos que realicen funciones materialmente jurisdiccionales, deberán poner a disposición del público y actualizar la siguiente información:
 
-I. Las versiones públicas de las sentencias que hayan causado ejecutoria y sean de interés público;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+I. Las versiones públicas de todos los laudos o sentencias emitidas;
 
 II. Las versiones estenográficas de las sesiones públicas;
 
@@ -1673,17 +1681,11 @@ El Instituto determinará las modalidades, metodología, presupuesto y objetivos
 
 ### CAPÍTULO I. DEL RECURSO DE REVISIÓN ANTE EL INSTITUTO
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 117.
 
-El solicitante podrá interponer, por sí mismo o a través de su representante, ya sea por escrito o por medios electrónicos ante el Instituto o ante la Unidad de Transparencia que haya conocido de la solicitud, el recurso de revisión, DENTRO DE LOS TREINTA DÍAS HÁBILES SIGUIENTES A LA FECHA DE LA NOTIFICACIÓN DE LA RESPUESTA, O DEL VENCIMIENTO DEL PLAZO PARA SU NOTIFICACIÓN.
-
-En el caso de que se interponga ante la Unidad de Transparencia, ésta deberá remitir el recurso de revisión al Instituto a más tardar al día siguiente de haberlo recibido.
-
-En lo conducente se aplicará de forma supletoria la Ley de Procedimiento Administrativo para el Estado de Morelos.
-
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA RESPECTO DEL ARTÍCULO 118 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS, EN EL SENTIDO DE QUE NO CONTEMPLA EL SUPUESTO ESTABLECIDO EN EL ARTÍCULO 143, FRACCIÓN XIII, DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, RELATIVO A LA ORIENTACIÓN A UN TRÁMITE ESPECÍFICO, ASÍ COMO LA POSIBILIDAD DE QUE LA RESPUESTA DE LOS SUJETOS OBLIGADOS, COMO RESULTADO DE LA RESOLUCIÓN A UN RECURSO DE REVISIÓN INTERPUESTO EN CONTRA DE LA FALTA DE RESPUESTA A UNA SOLICITUD DE ACCESO A LA INFORMACIÓN DENTRO DE LOS PLAZOS LEGALMENTE PREVISTOS EN EL ARTÍCULO 143, FRACCIÓN VI, DE LA LEY GENERAL, PUEDA VOLVER A IMPUGNARSE A TRAVÉS DEL RECURSO DE REVISIÓN; POR LO QUE CONDENA AL CONGRESO DEL ESTADO DE MORELOS PARA QUE EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES, SUBSANE ESA OMISIÓN, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+El solicitante podrá interponer, por sí mismo o a través de su representante, ya sea por escrito o por medios electrónicos ante el instituto o ante la unidad de transparencia que haya conocido de la solicitud, el recurso de revisión.
 
 ###### Artículo 118.
 
@@ -1713,11 +1715,21 @@ XI. La negativa a permitir la consulta directa de la información;
 
 XII. La falta de respuesta o indebida fundamentación y motivación de la ampliación del plazo a que se refiere el artículo 105 de esta Ley;
 
-XIII. La falta, deficiencia o insuficiencia de la fundamentación y motivación en la respuesta, y
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-XIV. Las que se deriven de la normativa aplicable.
+XIII. La omisión en la orientación a un trámite específico;
 
-La respuesta que den los Sujetos Obligados derivada de la resolución a un recurso de revisión que proceda por las causales señaladas en las fracciones III, VIII, IX, X y XI es susceptible de ser impugnada de nueva cuenta mediante recurso de revisión ante el Instituto.
+(REUBICADA, P.O. 22 DE DICIEMBRE DE 2021)
+
+XIV. La falta, deficiencia o insuficiencia de la fundamentación y motivación en la respuesta, y
+
+(REUBICADA, P.O. 22 DE DICIEMBRE DE 2021)
+
+XV. Las que se deriven de la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+La respuesta que den los sujetos obligados derivada de la resolución a un recurso de revisión que proceda por las causales señaladas en las fracciones III, VI, VIII, IX, X y XI es susceptible de ser impugnada de nueva cuenta mediante recurso de revisión ante el instituto.
 
 ###### Artículo 119.
 
@@ -1755,13 +1767,15 @@ En ningún caso será necesario que el recurrente ratifique el recurso de revisi
 
 El Instituto subsanará las deficiencias de los recursos interpuestos en un plazo no mayor a 5 días hábiles, al momento de admitir a trámite el recurso de revisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 121.
 
-En caso de que el escrito en el que se presente el recurso no sea lo suficientemente claro para iniciar el procedimiento respectivo, y el Instituto no cuente con los elementos necesarios para subsanar la deficiencia, notificará al recurrente la prevención en un plazo que no excederá de tres días hábiles, con el objeto de que subsane las omisiones dentro de un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la notificación de la prevención, con el apercibimiento de que de no cumplir, se desechará el recurso de revisión.
+En caso de que el escrito en el que se presente el recurso no sea lo suficientemente claro para iniciar el procedimiento respectivo, y el instituto no cuente con los elementos necesarios para subsanar la deficiencia, prevendrá al recurrente por única ocasión, a efecto de que en un plazo que no excederá de tres días hábiles, con el objeto de que subsane las omisiones dentro de un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la notificación de la prevención, con el apercibimiento de que de no cumplir, se desechará el recurso de revisión.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-La prevención tendrá el efecto de interrumpir el plazo para resolver el recurso, POR LO QUE COMENZARÁ A COMPUTARSE A PARTIR DEL DÍA SIGUIENTE DE LA ADMISIÓN.
+La prevención tendrá el efecto de interrumpir el plazo para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo.
 
 No podrá prevenirse por el nombre que proporcione el solicitante.
 
@@ -1771,11 +1785,11 @@ Los Comisionados deberán excusarse por algún impedimento para conocer de un ca
 
 En caso de ser procedente la excusa, conocerá el comisionado que el Pleno determine.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 123.
 
-EL INSTITUTO RESOLVERÁ EL RECURSO DE REVISIÓN EN UN PLAZO QUE NO PODRÁ EXCEDER DE TREINTA DÍAS HÁBILES, CONTADOS A PARTIR DE LA ADMISIÓN DEL MISMO, EN LOS TÉRMINOS QUE ESTABLEZCA ESTA LEY, PLAZO QUE PODRÁ AMPLIARSE POR UNA SOLA VEZ Y HASTA POR UN PERIODO DE DIEZ DÍAS.
+El instituto resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días hábiles, contados a partir de la admisión del mismo, en los términos que establezca esta ley, plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días.
 
 Durante el procedimiento deberá aplicarse la suplencia de la queja a favor del recurrente, sin cambiar los hechos expuestos, asegurándose de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones.
 
@@ -1787,11 +1801,11 @@ En todo momento, los Comisionados deberán tener acceso a la información clasif
 
 La información reservada o confidencial que, en su caso, sea consultada por los Comisionados, por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no deberá estar disponible en el Expediente, salvo en los casos en los que sobreviniera la desclasificación de dicha información, y continuará bajo el resguardo del Sujeto Obligado en el que originalmente se encontraba.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 126.
 
-La resolución del Instituto deberá emitirse en escrito fundado y motivado y remitirse a la autoridad responsable, QUIEN DEBERÁ ACATAR LA RESOLUCIÓN EN UN PLAZO NO MAYOR DE CINCO DÍAS HÁBILES.
+La resolución del instituto deberá emitirse en escrito fundado y motivado y remitirse a la autoridad responsable, quien deberá acatar la resolución en un plazo no mayor de tres días.
 
 Al resolver el recurso de revisión deberá aplicar una prueba de interés público con base en elementos de idoneidad, necesidad y proporcionalidad cuando exista una colisión de derechos.
 
@@ -1803,11 +1817,9 @@ II. Necesidad: La falta de un medio alternativo menos lesivo a la apertura de la
 
 III. Proporcionalidad: El equilibrio entre perjuicio y beneficio a favor del interés público, a fin de que la decisión tomada represente un beneficio mayor al perjuicio que podría causar a la población.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+En los casos en que la prueba de interés público se aplique respecto de datos personales de un particular, éste deberá ser llamado como tercero interesado dentro del recurso de revisión.
 
-En los casos en que la prueba de interés público se aplique respecto de datos personales de un particular, éste deberá ser llamado como tercero interesado dentro del recurso de revisión. EL ORGANISMO GARANTE, AL RESOLVER EL RECURSO DE REVISIÓN, PODRÁ EXCEPCIONALMENTE DIVULGAR LOS DATOS PERSONALES, SIEMPRE QUE REALICE UNA VALORACIÓN Y EMITA UNA RESOLUCIÓN DEBIDAMENTE FUNDADA Y MOTIVADA. EN CASO DE DETERMINARSE LA PUBLICIDAD DE LA INFORMACIÓN, LA RESOLUCIÓN DEBERÁ EXPLICITAR LAS RAZONES POR LAS QUE SE AFIRMA QUE LOS BENEFICIOS SOCIALES DE DIVULGAR LA INFORMACIÓN SERÁN MAYORES A LA EVENTUAL AFECTACIÓN DE LOS INTERESES DE LOS PARTICULARES.
-
-En la resolución que emita el Instituto se especificará que ésta puede ser impugnada por los particulares ante el Poder Judicial de la Federación.
+En la resolución que emita el instituto se especificará que ésta puede ser impugnada por los particulares ante el Poder Judicial de la Federación.
 
 ###### Artículo 127.
 
@@ -1815,13 +1827,13 @@ El Instituto resolverá el recurso de revisión conforme a lo siguiente:
 
 I. Interpuesto el recurso de revisión, el Comisionado Presidente en un plazo no mayor a dos días hábiles, lo turnará al Comisionado ponente que corresponda, quien deberá proceder a su análisis para que decrete su admisión, prevención o desechamiento;
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-II. Admitido el recurso de revisión, el Comisionado ponente deberá integrar un Expediente y ponerlo a disposición de las partes, para que EN UN PLAZO MÁXIMO DE CINCO DÍAS manifiesten lo que a su derecho convenga;
+II. Admitido el recurso de revisión, el comisionado ponente deberá integrar un expediente y ponerlo a disposición de las partes, para que, en un plazo máximo de siete días, manifiesten lo que a su derecho convenga;
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-III. DENTRO DEL PLAZO MENCIONADO EN LA FRACCIÓN II DEL PRESENTE ARTÍCULO, las partes podrán ofrecer todo tipo de pruebas o formular alegatos excepto la confesional por parte de los Sujetos Obligados y aquéllas que sean contrarias a derecho. Si el recurso se interpone por la falta de contestación a la solicitud de información, el sujeto obligado deberá ofrecer el documento que pruebe que respondió en tiempo y forma;
+III. Dentro del plazo mencionado en la fracción II del presente artículo, las partes podrán ofrecer todo tipo de pruebas o formular alegatos excepto la confesional por parte de los sujetos obligados y aquéllas que sean contrarias a derecho. Si el recurso se interpone por la falta de contestación a la solicitud de información, el sujeto obligado deberá ofrecer el documento que pruebe que respondió en tiempo y forma;
 
 IV. El Comisionado ponente deberá determinar la celebración de audiencias con las partes durante la sustanciación del recurso de revisión;
 
@@ -1841,13 +1853,13 @@ II. Confirmar el acto o resolución impugnada, o
 
 III. Revocar total o parcialmente el acto o resolución impugnada.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2016 Y SU ACUMULADA 39/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 129.
 
-En las resoluciones que emita el Instituto podrán señalarles a los Sujetos Obligados que la información que deben proporcionar sea considerada como obligación de transparencia DE CONFORMIDAD CON EL CAPÍTULO II DEL TÍTULO CUARTO DE LA PRESENTE LEY, atendiendo a la relevancia de la información, la incidencia de las solicitudes sobre la misma y el sentido reiterativo de las resoluciones.
+En las resoluciones que emita el instituto podrán señalarles a los sujetos obligados que la información que deben proporcionar sea considerada como obligación de transparencia de conformidad con el capítulo II del título quinto de la presente ley, atendiendo a la relevancia de la información, la incidencia de las solicitudes sobre la misma y el sentido reiterativo de las resoluciones.
 
-En (sic) Instituto deberá notificar a las partes y publicar las resoluciones que concluyan el procedimiento a más tardar al tercer día siguiente de su aprobación. Los Sujetos Obligados deberán informar al Instituto el cumplimiento de sus resoluciones en un plazo no mayor a tres días.
+El instituto deberá notificar a las partes y publicar las resoluciones que concluyan el procedimiento a más tardar al tercer día siguiente de su aprobación. Los sujetos obligados deberán informar al instituto el cumplimiento de sus resoluciones en un plazo no mayor a tres días.
 
 ###### Artículo 130.
 
@@ -2288,3 +2300,13 @@ SEXTA. El Instituto Morelense de Información Pública, Estadística realizará 
 SÉPTIMA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal, para que considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal, que resulte necesaria para el cumplimiento de la presente la (sic) Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Morelos.
 
 OCTAVA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TREINTA Y SIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Aprobado el presente decreto por el poder reformador local y hecha la declaratoria correspondiente se remitirá al titular del Poder Ejecutivo del estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44, 70, fracción XVII, inciso a), y 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente decreto.
