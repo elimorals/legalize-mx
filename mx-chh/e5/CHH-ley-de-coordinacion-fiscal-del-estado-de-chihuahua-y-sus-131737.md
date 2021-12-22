@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2021-09-04"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -395,6 +395,20 @@ Los ajustes trimestrales del Fondo de Fiscalización y Recaudación a los que se
 
 Cuando haya ha lugar a compensaciones de las participaciones referenciadas a la Recaudación Federal Participable (RFP) del Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF) durante el ejercicio fiscal, se entregarán a los municipios de acuerdo con la Ley de Coordinación Fiscal, las Reglas de Operación vigentes de dicho Fondo y con el coeficiente mensual vigente de esta Ley.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+En el supuesto de que las cantidades entregadas a los municipios mediante dichas compensaciones, sean superiores a la determinación anual de la disminución de las participaciones vinculadas con la Recaudación Federal Participable, que a su efecto realice e informe la Secretaría de Hacienda y Crédito Público, los municipios deberán realizar el reintegro de recursos que correspondan.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Para llevar a cabo el reintegro indicado en el párrafo anterior, los municipios suscribirán y remitirán a la Secretaría, una carta de aceptación respecto del ajuste de las diferencias que en su caso resulten, la que incluirá la autorización para que la Secretaría, con fundamento en el artículo 9o. de la Ley de Coordinación Fiscal, afecte sus participaciones como fuente de pago de dichas diferencias.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 34
+
+1. Con la finalidad de que mediante el mecanismo de potenciación de los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, implementado por Secretaría de Hacienda y Crédito Público, los Municipios obtengan mayores recursos en el ejercicio fiscal de que se trate, a cambio de los recursos futuros que les correspondan de dicho fondo, la Secretaría mediante la suscripción de Convenios con los Municipios, solicitará a la Secretaría de Hacienda y Crédito Público, para que trasmita los referidos recursos en favor del fideicomiso que como vehículo de potenciación, se haya constituido para tales efectos. Dicho convenio deberá incluir la autorización para que, con cargo a los recursos que les correspondan del Fondo General de Participaciones, se cubran las cantidades faltantes necesarias para el pago de las obligaciones que deriven del mencionado mecanismo de potenciación.
+
 ### CAPÍTULO II. DE LOS FONDOS DE APORTACIONES
 
 ###### ARTÍCULO 35.
@@ -429,7 +443,9 @@ La distribución entre los municipios de los recursos del Fondo para el Desarrol
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL ANEXO DEL P.O. DE 24 DE NOVIEMBRE DE 2018, PÁGINAS DE LA 25 A LA 26]</small>
 
-Los recursos del Fondo para el Desarrollo Socioeconómico Municipal que se distribuyan entre los municipios, tendrán como destino específico programas y proyectos municipales que generen beneficios socioeconómicos netos para el desarrollo municipal, y sin perjuicio de las competencias de la Auditoría Superior del Estado de Chihuahua, su destino y aplicación será revisado, controlado y evaluado por la Secretaría.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Los recursos del Fondo para el Desarrollo Socioeconómico Municipal que se distribuyan entre los municipios, tendrán como destino específico, programas y proyectos municipales que generen beneficios socioeconómicos netos para el desarrollo municipal, y su destino y aplicación será revisado y evaluado por la Auditoría Superior del Estado de Chihuahua, la cual deberá informar a la Secretaría, los resultados obtenidos respecto del ejercicio de esta función.
 
 Para la aplicación de los recursos, se conformará en cada Ayuntamiento una Comisión de Inversión para el Desarrollo Socioeconómico Municipal, la cual estará encargada de formular, evaluar y proponer al Ayuntamiento programas y proyectos que generen beneficios socioeconómicos netos para el desarrollo municipal, quien aprobará la aplicación de los recursos considerando fundamentalmente lo siguiente:
 
@@ -772,3 +788,37 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0108/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones a la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones a la Ley de Hacienda del Estado de Chihuahua, entrarán en vigor el día primero de enero del año 2022, con excepción de lo dispuesto en la Sección V, del Capítulo III, del Título Segundo, relativa al Impuesto a la Venta Final de Bebidas Alcohólicas, la cual entrará en vigor el primero de enero del año 2023.
+
+Durante el año 2022, la Secretaría de Hacienda, con el objeto de lograr una adecuada implementación del Impuesto a la Venta Final de Bebidas Alcohólicas, deberá establecer conjuntamente con integrantes del H. Congreso del Estado, mesas técnicas de trabajo con los productores regionales de bebidas con contenido alcohólico del Estado, a fin de lograr mecanismos de incentivo y propuestas para generar la competitividad de dichos sectores productivos, sin que se vean afectadas sus cadenas productivas de valor.
+
+###### ARTÍCULO TERCERO.
+
+Durante los ejercicios fiscales de 2022 y 2023, en lugar de aplicar la tasa establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, sobre el monto mensual de las erogaciones a que se refiere el artículo 74 de la citada Ley, se aplicará la tasa que se señala en la siguiente tabla, de acuerdo con el ejercicio fiscal de que se trate.
+
+TABLA
+
+TASA DEL IMPUESTO EJERCICIO FISCAL
+
+SOBRE NÓMINAS AL QUE APLICA
+
+APLICABLE
+
+4% 2022
+
+3.5% 2023
+
+Los ingresos adicionales que se recauden con motivo de la aplicación de las tasas señaladas en este artículo, respecto de los ingresos que se hubieran obtenido de haber aplicado la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, durante los ejercicios fiscales 2022 y 2023, se destinarán a cubrir necesidades presupuestales en materia de salud, educación, seguridad pública, así como de la Fiscalía General del Estado y saneamiento financiero, de acuerdo con lo que se establezca y apruebe en el Presupuesto de Egresos del Estado de Chihuahua, correspondiente a los ejercicios fiscales 2022 y 2023.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266-94-XI-P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de los mismos, el Impuesto Sobre Nóminas causado, determinado considerando la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua.
