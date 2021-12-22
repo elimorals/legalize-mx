@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-tulum-del-estado-de-91148"
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-30"
-last_updated: "2019-12-27"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,19 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 191 POR EL QUE SE ADICIONA EL CAPÍTULO XXVIII DENOMINADO "DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE EL MUNICIPIO", DENTRO DEL TÍTULO TERCERO DENOMINADO "DE LOS DERECHOS" , EL CUAL COMPRENDE LOS ARTÍCULO 131 BIS, 131 TER, 131 QUÁTER Y 131 QUINQUIES, TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor de treinta días naturales posteriores a la vigencia de este decreto y previa convocatoria del Honorable Ayuntamiento del Municipio de Tulum, debe constituirse el Comité Ciudadano de Seguimiento a la aplicación de los recursos públicos que se generen por el Derecho de Saneamiento Ambiental.
+
+El Comité Ciudadano de Seguimiento tendrá la encomienda de vigilar la recaudación de la contribución que se perciba en las arcas municipales por el concepto nuevo del derecho de saneamiento. El Comité Ciudadano de Seguimiento deberá estar integrado por cinco ciudadanos representantes de los principales sectores sociales y productivos establecidos en el Municipio.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de noviembre de 2012.
 
@@ -40,12 +52,6 @@ D E C R E T A:
 ÚNICO.- Se expide la Ley de Hacienda del Municipio de Tulum del Estado de Quintana Roo, para quedar como sigue;
 
 LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 023 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL ARTÍCULO 1 DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
-
-PRIMERO. El presente Decreto entrará en vigor el 1o. de enero del año 2020.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -2697,11 +2703,37 @@ III. Por la expedición de disco compacto 1.00 S.M.G. por cada uno.
 
 Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
-### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO XXVIII. DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE EL MUNICIPIO
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 131 Bis.
+
+Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el Municipio, con el fin de propiciar el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental en razón de los visitantes que arriben o permanezcan temporalmente en el municipio.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 131 Ter.
+
+Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios de cuartos y/o habitaciones de Hoteles, Posadas o Casas de Huéspedes, Hostales y Moteles, mismo derecho que será retenido por los prestadores de servicios del ramo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 131 Quater.
+
+El pago del derecho de saneamiento ambiental se causará a razón del 30% de la UMA por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 131 Quinquies.
+
+Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a las habitaciones ocupadas por la prestación del servicio de hospedaje, de las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO II. BIENES MOSTRENCOS
+### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### Artículo 132.
 
@@ -2725,7 +2757,7 @@ En todos los casos en que se autorice la enajenación de bienes del Municipio y 
 
 Los bienes de uso común o destinados al servicio del Municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante la aprobación por mayoría calificada del Ayuntamiento respectivo, y en los términos y para los fines previstos en la Ley de los Municipios del Estado de Quintana Roo.
 
-### CAPÍTULO III. MERCADOS
+### CAPÍTULO II. BIENES MOSTRENCOS
 
 ###### Artículo 137.
 
@@ -2735,7 +2767,7 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO III. MERCADOS
 
 ###### Artículo 139.
 
@@ -2819,7 +2851,7 @@ semifijos en la vía pública, pagarán diario:
 
 g) Otros no especificados, diario: de 0.8 a 5.0 S.M.G.
 
-### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
+### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 140.
 
@@ -2829,19 +2861,19 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter Estatal que al respecto existan.
 
-### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 142.
 
 Se consideran productos aquellos ingresos que obtiene el Municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO VII. PRODUCTOS DIVERSOS
+### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 143.
 
 El Ayuntamiento podrá obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servicio de limpia y transporte.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
 ###### Artículo 144.
 
@@ -2878,6 +2910,8 @@ Como participaciones del Estado se entienden aquellos ingresos que el Estado ent
 Son ingresos que percibirá el Municipio en forma independiente y adicional a las participaciones que obtienen de la Federación, con base en las estimaciones que se tengan de la recaudación Federal participable, denominados Fondo de Aportaciones para la Infraestructura Social Municipal, cuyo destino será exclusivamente para financiar obras, acciones sociales básicas e inversiones que beneficien directamente a sectores de su población en condiciones de rezago social y de pobreza extrema.
 
 ## TÍTULO OCTAVO. OTROS INGRESOS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 149.
 
@@ -2986,3 +3020,21 @@ Primero. El presente decreto entrará en vigor el día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 27 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 023 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL ARTÍCULO 1 DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 1o. de enero del año 2020.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 191 POR EL QUE SE ADICIONA EL CAPÍTULO XXVIII DENOMINADO "DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE EL MUNICIPIO", DENTRO DEL TÍTULO TERCERO DENOMINADO "DE LOS DERECHOS" , EL CUAL COMPRENDE LOS ARTÍCULO 131 BIS, 131 TER, 131 QUÁTER Y 131 QUINQUIES, TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor de treinta días naturales posteriores a la vigencia de este decreto y previa convocatoria del Honorable Ayuntamiento del Municipio de Tulum, debe constituirse el Comité Ciudadano de Seguimiento a la aplicación de los recursos públicos que se generen por el Derecho de Saneamiento Ambiental.
+
+El Comité Ciudadano de Seguimiento tendrá la encomienda de vigilar la recaudación de la contribución que se perciba en las arcas municipales por el concepto nuevo del derecho de saneamiento. El Comité Ciudadano de Seguimiento deberá estar integrado por cinco ciudadanos representantes de los principales sectores sociales y productivos establecidos en el Municipio.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente Decreto.
