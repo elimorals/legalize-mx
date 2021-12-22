@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-nominas-del-estado-de-quintana-roo-11119
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2018-12-20"
+last_updated: "2021-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -71,11 +71,15 @@ V. PERSONA FÍSICA: Individuo que realiza las situaciones jurídicas o de hecho 
 
 VI. PERSONA MORAL: Agrupación de personas que se unen con un fin determinado; pudiendo adoptar las formas siguientes: sociedades mercantiles, civiles, políticas, religiosas, asociaciones, sociedades cooperativas; los Poderes Federales y Estatales, los Municipios, los organismos descentralizados, organismos autónomos, fideicomisos de gobierno, dependencias, órganos desconcentrados y demás entidades de carácter público creadas mediante ley o decreto federal, estatal o municipal.
 
-VII. SECRETARÍA: A la Secretaría de Finanzas y Planeación.
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VIII. SECRETARIO: Al Titular de la Secretaría de Finanzas y Planeación.
+VII. SATQ: Al Servicio de Administración Tributaria del Estado de Quintana Roo.
 
-IX. UNIDAD ECONÓMICA: Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
+VIII. SECRETARÍA: A la Secretaría de Finanzas y Planeación.
+
+IX. SECRETARIO: Al Titular de la Secretaría de Finanzas y Planeación.
+
+X. UNIDAD ECONÓMICA: Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
 
 ## TÍTULO II. DEL OBJETO Y SUJETO
 
@@ -143,11 +147,13 @@ Los propietarios de inmuebles que contraten los servicios de personas físicas o
 
 Son sujetos pasivos de este impuesto las personas físicas, morales o unidades económicas, que realicen las erogaciones a que se refiere el artículo 2 de la presente Ley, aun cuando tengan su domicilio fuera del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-Los sujetos a que se refiere el párrafo anterior, que contraten la prestación de servicios de personal a través de un tercero, cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, deberán presentar Aviso en el que especificará el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador y el número de empleados, con independencia del tiempo por el que fueron contratados, el monto de la operación contratada, la vigencia del contrato; el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal, en los medios dispuestos por la Secretaría.
+Los sujetos a que se refiere el párrafo anterior que contraten la prestación de servicios de personal o ejecución de obras a través de un tercero, cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, deberán presentar Aviso en el que se especificará el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador, tipo de servicio especializado o de ejecución de obras especializadas que se haya contratado, el número de empleados, con independencia del tiempo por el que fueron contratados, el monto de la operación contratada, la vigencia del contrato, el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal, en los medios dispuestos por la Secretaría.
 
-Cuando se contrate servicios de personal para más de un establecimiento se deberá presentar aviso por cada uno, mediante las formas aprobadas por la Secretaría, en el que se especifique que la persona con la que suscribió el contrato de prestación de servicios de personal, se encuentra registrada en el Padrón Estatal de Contribuyentes; en caso de no hacerlo la autoridad fiscal competente tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador con la obligación del Impuesto Sobre Nóminas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Cuando se contrate servicios de personal para más de un establecimiento, se deberá presentar aviso por cada uno mediante las formas aprobadas por la Secretaría en el que se especifique que la persona con la que suscribió el contrato de prestación de servicios de personal se encuentra registrada en el Registro Estatal de Contribuyentes; en caso de no hacerlo, la autoridad fiscal competente tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador con la obligación del Impuesto Sobre Nóminas.
 
 Asimismo, deberán presentar el Aviso de Alta o Aumento de Obligación como Retenedor.
 
@@ -155,9 +161,13 @@ Asimismo, deberán presentar el Aviso de Alta o Aumento de Obligación como Rete
 
 El plazo para presentar el Aviso de Alta o Aumento de Obligaciones como Retenedor del Impuesto Sobre Nóminas se realizará de forma simultánea con el Aviso a que se refiere el segundo párrafo del presente artículo, dentro de los tres días siguientes a la fecha de la firma del contrato. En el mismo plazo deberá informar a la autoridad sobre cualquier cambio al citado aviso.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-Las personas físicas, morales o unidades económicas que desempeñen actividades comerciales, industriales, de servicios y de inversión de capital, mediante acuerdo de voluntades verbal o través de instrumento jurídico con independencia de la denominación que se le dé, deberán presentar dentro de los tres días siguientes a la celebración del mismo, el aviso mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal ante las oficinas autorizadas que corresponda al domicilio de su establecimiento, informando el nombre de la persona física o moral con la que celebró dicho acto, el número de empleados que se encuentren bajo su dirección y/o dependencia, por los cuales efectúa erogaciones económicas por concepto de remuneraciones al trabajo personal subordinado. En caso de omisión a la presentación del referido aviso, serán responsables solidarios las personas físicas o morales con quien celebró dicho acto jurídico.
+Las personas físicas, morales o unidades económicas que desempeñen actividades comerciales, industriales, de servicios y de inversión de capital, mediante acuerdo de voluntades verbal o a través de instrumento jurídico, con independencia de la denominación que se le dé, deberán presentar dentro de los tres días siguientes a la celebración del mismo, el aviso mediante los medios electrónicos dispuestos por la Secretaría, a través del SATQ o acudiendo de forma personal ante las oficinas autorizadas que corresponda al domicilio de su establecimiento, informando el nombre de la persona física, moral o unidad económica con la que celebró dicho acto, el número de empleados que se encuentran bajo su dirección y/o dependencia, por los cuales efectúa erogaciones económicas por concepto de remuneraciones al trabajo personal subordinado, así como el tipo de trabajo especializado a desempeñar u obra especializada a ejecutar. En caso de omisión a la presentación del referido aviso, serán responsables solidarios las personas físicas, morales o unidades económicas con quien celebró dicho acto jurídico.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Asimismo, previo a la celebración del instrumento jurídico, deberán inscribirse en el Registro de Prestadoras de Servicios Especializados de Personal o de Ejecución de Obras Especializadas que al efecto lleva la Secretaría, a través del SATQ para obtener su número de folio y referirlo en el contrato que al efecto celebre con la persona física, moral o unidad económica a la que le brinde este tipo de servicio.
 
 ## TÍTULO III. DE LA BASE Y DE LA TASA
 
@@ -181,7 +191,9 @@ Las personas físicas, morales o unidades económicas, aun cuando tengan su domi
 
 Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
-Están obligados a presentar aviso en términos del segundo párrafo del artículo 4 de esta ley quienes contraten a empresas que presten servicios de personal, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Están obligados a presentar aviso en términos del segundo párrafo del artículo 4 de esta ley quienes contraten a empresas que presten servicios de personal, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas, morales o unidades económicas, serán sujetas del pago de este impuesto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -257,6 +269,10 @@ V. Cuando los contribuyentes detecten diferencias en sus pagos, deberán present
 
 VI. Para los efectos previstos en el artículo 4 segundo párrafo de esta ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+VII. Previo a cada contratación para la prestación de servicios especializados o de ejecución de obras especializadas deberá requerirle a su prestador acredite estar inscrito en el Registro de Prestadoras de Servicios Especializados de Personal o de Ejecución de Obras Especializadas de la Secretaría, a través del SATQ a que se refiere el artículo 24-Ter del Código Fiscal del Estado de Quintana Roo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
@@ -281,11 +297,11 @@ Tratándose de intermediarios laborales deberán manifestar el número de emplea
 
 Quienes realicen pagos y erogaciones por cuenta de terceros gravados por este impuesto, a personas que presten servicios en el Estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la oficina autorizada por la Secretaría que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 7 de esta ley.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la oficina autorizada por la Secretaría correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
+Las personas a que se refiere el artículo anterior están obligadas a presentar aviso de inscripción ante la oficina autorizada por la Secretaría, a través del SATQ correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, el comprobante de retención.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -462,3 +478,11 @@ P.O. 20 DE DICIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor a partir del 1°. de enero de 2019, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se deja sin efecto todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 185, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
