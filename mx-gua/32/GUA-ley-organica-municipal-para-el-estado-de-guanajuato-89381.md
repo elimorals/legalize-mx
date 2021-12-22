@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2021-09-24"
+last_updated: "2021-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1103,9 +1103,9 @@ g) Conceder licencia para separarse de sus cargos al presidente municipal, sínd
 
 h) Crear las dependencias administrativas centralizadas y constituir entidades paramunicipales;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-i) Nombrar al secretario y al tesorero de la administración pública municipal, a propuesta del presidente municipal, prefiriendo en igualdad de circunstancias a los habitantes del Municipio;
+i) Nombrar al secretario y al tesorero de la administración pública municipal, así como al titular de la Unidad de Transparencia a propuesta del presidente municipal, prefiriendo en igualdad de circunstancias a los habitantes del Municipio;
 
 Remover a los servidores públicos señalados en el párrafo anterior, a propuesta del presidente municipal o de la mayoría simple del Ayuntamiento, en los términos del artículo 126 de esta Ley.
 
@@ -1293,9 +1293,9 @@ XII. Convocar por conducto del secretario, a las sesiones de Ayuntamiento, confo
 
 XIII. Suscribir a nombre y con autorización del Ayuntamiento, los convenios, contratos y demás actos jurídicos que sean necesarios;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-XIV. Proponer al Ayuntamiento las personas que deban ocupar la titularidad de la Secretaría de Ayuntamiento y de la Tesorería Municipal;
+XIV. Proponer al Ayuntamiento las personas que deban ocupar la titularidad de la Secretaría de Ayuntamiento, de la Tesorería Municipal y de la Unidad de Transparencia;
 
 XV. Nombrar y remover del cargo, a los servidores públicos municipales no previstos en la fracción anterior, así como conceder o negar licencias;
 
@@ -1933,9 +1933,9 @@ Publicidad
 
 Una vez aprobados por el Ayuntamiento, el plan y los programas a que se refiere este capítulo, se publicarán en el Periódico Oficial del Gobierno del Estado y, en su caso, podrán ser publicados en el periódico de circulación en el Municipio.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-Los instrumentos de planeación referidos en este capítulo se remitirán al Sistema Estatal de Información Estadística y Geográfica y serán información pública de oficio en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+Los instrumentos de planeación referidos en este capítulo se remitirán al Sistema Estatal de Información Estadística y Geográfica y serán información pública de oficio en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
 Programas operativos
 
@@ -2215,7 +2215,9 @@ IX. Derechos Humanos;
 
 X. Oficialía Mayor o la dependencia que realice funciones análogas a ésta;
 
-XI. Unidad de acceso a la información pública; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+XI. Unidad de Transparencia; y
 
 XII. Las demás que el Ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del Municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
 
@@ -2841,11 +2843,13 @@ XI. Las demás que se regulen en el reglamento o acuerdo de ayuntamiento y sean 
 
 La administración de los organismos descentralizados estará a cargo de un órgano de gobierno, que será un consejo directivo o su equivalente, designado por el Ayuntamiento en los términos del acuerdo y reglamento respectivo.
 
-El consejo directivo o su equivalente, elegirá de entre sus miembros a su presidente y, en su caso, designará al director general y demás personal necesario para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+El consejo directivo o su equivalente, elegirá de entre sus miembros a su presidente y, en su caso, designará al director general, y demás personal necesario para el cumplimiento de sus funciones; además, nombrará al titular de su Unidad de Transparencia.
 
-Las sesiones del consejo directivo o su equivalente serán públicas, con las excepciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+
+Las sesiones del consejo directivo o su equivalente serán públicas, con las excepciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
 Informe trimestral
 
@@ -4850,3 +4854,11 @@ Artículo Tercero. Las personas que hayan sido designadas como titulares de la C
 Derecho a participar
 
 Artículo Cuarto. Las personas que hayan sido designadas como titulares de la Contraloría Municipal conforme al proceso previsto en el artículo 131 de esta Ley permanecerán hasta que cumplan su periodo de cinco años, salvo que su designación este afectada de nulidad o incurran en alguna causal de destitución.
+
+P.O. 22 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 7, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
