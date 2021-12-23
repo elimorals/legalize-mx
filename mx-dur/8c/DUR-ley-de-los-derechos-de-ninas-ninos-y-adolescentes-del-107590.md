@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2021-06-17"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -607,21 +607,37 @@ Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad de c
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y acciones afirmativas en los términos de las disposiciones jurídicas aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la condición humana, para lo cual deberán:
 
-I. Realizar ajustes razonables para fomentar la inclusión social y establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-II. Dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión y procurarán ofrecer otras medidas de asistencia e intermediarios, así como un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible;
+I. Realizar ajustes razonables para fomentar la inclusión social, escolar y cultural, además de establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable;
 
-III. Realizar acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-IV. Ofrecer apoyos educativos y formativos para quienes ejercen la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna;
+II. Dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión y procurarán ofrecer otras medidas de asistencia e intermediarios, así como un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible de acuerdo a las particularidades de cada caso;
 
-V. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VI. Prevenir la ocultación, abandono, negligencia y segregación de niñas, niños y adolescentes con discapacidad;
+III. Realizar acciones y políticas públicas a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de niñas, niños y adolescentes con discapacidad y fomentar el respeto y reconocimiento a sus derechos humanos, a sus libertades fundamentales y dignidad, así como combatir los estereotipos, desinformación y prejuicios respecto de su discapacidad;
 
-VII. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VIII. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia. Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
+IV. Ofrecer apoyos educativos y formativos para quienes ejercen la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su máximo desarrollo, bienestar y vida digna;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+V. Promover acciones interdisciplinarias para el estudio, prevención, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VI. Prevenir la ocultación, abandono, negligencia, discriminación, abuso y segregación de niñas, niños y adolescentes con discapacidad;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VII. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, juego y esparcimiento, actividades culturales, artísticas y ocupacionales, así como a la capacitación para el trabajo; y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VIII. Establecer mecanismos que permitan la recopilación, actualización y disposición periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas y acciones de la sociedad civil en la materia. Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
 
 ### Capítulo Décimo Primero. Del Derecho a la Educación
 
@@ -1841,7 +1857,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2058,3 +2074,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 029.- QUE CONTIENE REFORMA AL ARTÍCULO 36 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE DERECHOS DE LOS MENORES CON DISCAPACIDAD”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
