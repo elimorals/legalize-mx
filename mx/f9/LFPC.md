@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2020-12-24"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
 
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -438,9 +438,9 @@ XXVII. Las demás que le confieran esta ley y otros ordenamientos.
 
 La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADA EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
-I. Multa de $290.34 a $29,034.20;
+I. Multa de $311.73 a $31,174.02;
 
 > <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
@@ -450,9 +450,9 @@ II. El auxilio de la fuerza pública;
 
 III. Ordenar arresto administrativo hasta por 36 horas, y
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADA EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
-IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $11,613.68, por un período no mayor a 180 días.
+IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $12,469.61, por un período no mayor a 180 días.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
@@ -1614,9 +1614,9 @@ f) Que la representación y gestión se realiza de manera gratuita, y
 
 g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADO EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $580,684.19.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $623,480.61.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1868,9 +1868,9 @@ En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas p
 
 La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADO EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $580,684.19.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $623,480.61.
 
 ###### ARTICULO 118.
 
@@ -1930,27 +1930,27 @@ ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a l
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADO EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $290.34 a $929,094.70.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $311.73 a $997,568.98.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADO EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $580.68 a $1,858,189.39.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $623.48 a $1’995,137.95.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADO EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $834.15 a $3,262,498.76.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $895.63 a $3’502,944.91.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADO EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
-ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $174,205.27 a $4,877,747.21. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $187,044.19 a $5’237,237.18. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -2060,9 +2060,9 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2020)
+(ACTUALIZADO EN SU MONTO, D.O.F. 23 DE DICIEMBRE DE 2021)
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $9,755,494.39.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $10’474,474.32.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -2544,11 +2544,11 @@ D.O.F. 24 DE DICIEMBRE DE 2020.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2021.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 772.- MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DECIMOQUINTO, DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS; Y SE ADICIONA EL ARTÍCULO 266 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+D.O.F. 23 DE DICIEMBRE DE 2021.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN PARA EL AÑO DOS MIL VEINTIDÓS, LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
 
-P.O. 9 DE MARZO DE 2018.
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 789.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 27 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
