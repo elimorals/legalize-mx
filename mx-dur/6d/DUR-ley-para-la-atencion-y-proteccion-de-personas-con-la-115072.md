@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-atencion-y-proteccion-de-personas-con-la-115072"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2021-06-17"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de mayo de 2016.
 
@@ -181,9 +181,15 @@ XIX. Tomar decisiones por sí o a través de sus padres o tutores para el ejerci
 
 XX. Gozar de una vida sexual digna y segura;
 
-XXI. Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-XXII. Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
+XXI. Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+XXII. Al acceso de los recursos tecnológicos y aplicaciones para su inclusión en la vida productiva con dignidad e independencia; y
+
+XXIII. Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
 
 ###### Artículo 9.
 
@@ -358,3 +364,11 @@ P.O. 17 DE JUNIO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 027.- QUE CONTIENE REFORMA A LA FRACCIÓN XXII Y SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 8 RECORRIENDOSE LA SUBSECUENTE DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
