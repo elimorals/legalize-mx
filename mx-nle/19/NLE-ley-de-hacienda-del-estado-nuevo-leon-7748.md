@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2019-12-30"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -139,11 +139,27 @@ Se incluyen como erogaciones para participar en juegos con apuestas, las cantida
 
 Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+En la realización de juegos o sorteos en los que vaya implícita una apuesta, el valor que debe considerarse para efectos de calcular las erogaciones para participar en juegos con apuestas será el monto total apostado, incluyendo efectivo y cualquier otra cantidad que se otorgue a los participantes con independencia de la denominación que se le dé (promociones, membresías, acceso a las instalaciones, entre otros), en virtud de que dichos conceptos también pueden ser apostados por los participantes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Por lo anterior, tratándose de juegos o sorteos en los que se apueste, se tendrán las siguientes obligaciones:
+
+I. Incluir como valor para calcular el impuesto, cualquier otra cantidad que se otorgue a los participantes con independencia de la denominación que se le dé (promociones, membresías, acceso a las instalaciones, entre otros);
+
+II. No disminuir de las erogaciones para participar en juegos con apuestas, las promociones, membresías, acceso a las instalaciones, entre otros, por corresponder a la retribución que obtiene el ganador de un juego con apuestas y sorteos, y
+
+III. No disminuir de la base del impuesto ninguno de los conceptos o importes que deban integrarla conforme a la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 11.
 
-El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+El impuesto se calculará aplicando la tasa del 15% al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 10, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
 
@@ -211,7 +227,15 @@ Son sujetos de este impuesto las personas físicas, morales o unidades económic
 
 El impuesto se calculará aplicando la tasa del 6% al valor de los actos o actividades realizados, a que se refiere el artículo 17.
 
-Se considerará como valor el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Se considerará como valor, el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas, incluyendo efectivo y cualquier otra cantidad que se otorgue a los participantes con independencia de la denominación que se le dé (promociones, membresías, acceso a las instalaciones, entre otros), en virtud de que dichos conceptos también pueden ser apostados por los participantes. Por lo anterior, tratándose de juegos o sorteos en los que se apueste, se tendrán las siguientes obligaciones:
+
+I. Incluir como valor para calcular el impuesto, cualquier otra cantidad que se otorgue a los participantes con independencia de la denominación que se le dé (promociones, membresías, acceso a las instalaciones, entre otros);
+
+II. No disminuir de las erogaciones para participar en juegos con apuestas, las promociones, membresías, acceso a las instalaciones, entre otros, por corresponder a la retribución que obtiene el ganador de un juego con apuestas y sorteos;
+
+III. No disminuir de la base del impuesto ninguno de los conceptos o importes que deban integrarla conforme a la presente Ley.
 
 Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego a (sic) sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
 
@@ -1103,115 +1127,423 @@ II.- Proporcionar, cuando así lo solicite el interesado, constancia de retenci�
 
 III.- Conservar la documentación relacionada con las constancias y las retenciones de este impuesto, por plazo de cinco años, a disposición de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+### CAPITULO QUINTO. De los Impuestos Ecológicos
 
-### CAPITULO QUINTO. Del Impuesto Sobre Tenencia o Uso de Vehículos
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.]</small>
+#### SECCION I. Del Impuesto Ambiental por Contaminación en la Extracción de Materiales Pétreos
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-#### SECCION I. Disposiciones Generales
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 118.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+El objeto de este impuesto es la extracción, explotación o aprovechamiento de materiales pétreos, que no sean concesibles por la Federación y que constituyan depósitos de igual naturaleza a los componentes de los terrenos. Para efectos de este artículo la extracción, explotación o aprovechamiento deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado de Nuevo León.
+
+Se consideran materiales pétreos las piedras de construcción y de adorno, mármol, canteras, arenas, granito, gravas, pizarras, arcillas que no requieran trabajos subterráneos, calizas, puzolanas, turbas, arenas silíceas, ónix, travertinos, tezontle, tepetate, piedras dimensionadas o de cualquier otra especie que no sean preciosas, mezclas de minerales no metálicos y las sustancias terrosas, y demás minerales no metálicos.
+
+Para efectos de este artículo se consideran piedras preciosas, las señaladas en el artículo 4 de la Ley Minera.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 119.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son sujetos del pago de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado realicen la extracción, explotación o aprovechamiento de los materiales pétreos a que se refiere el artículo anterior.
+
+La Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado, deberán cubrir el impuesto a su cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 120.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Es base de este impuesto el volumen de materiales pétreos que se extraigan, exploten o aprovechen en territorio del Estado, y que se determinará conforme al volumen extraído.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.]</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 121.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Este impuesto se causará con una tasa de 1.5 cuotas por cada metro cúbico o fracción que se extraiga de los materiales objeto del impuesto.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.]</small>
+Para efectos de este artículo, el impuesto se determinará a partir de la primera unidad completa de metro cúbico. Para el caso de que las extracciones no alcancen la siguiente unidad, la tasa por ese excedente se deberá calcular de forma proporcional a la fracción que exceda de la unidad.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 122.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+El pago de este impuesto deberá efectuarse mediante declaración mensual, a más tardar el día 17 del mes siguiente al que corresponda dicha declaración, que deberá presentarse en las formas y medios autorizados por la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 123.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son obligaciones de los contribuyentes de este impuesto las siguientes:
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+I. Inscribirse en el Registro Estatal de Contribuyentes y presentar la autorización de impacto ambiental expedida por la autoridad competente;
 
-#### SECCION II. Automóviles
+II. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades objeto del impuesto, deberán registrar domicilio dentro del Estado;
+
+III. Llevar un registro de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga;
+
+IV. Presentar las declaraciones del impuesto, enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección;
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos de la presente Sección; y
+
+VII. Las demás que se señalen en esta ley y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+#### SECCION II. Del Impuesto por la Emisión de Contaminantes a la Atmósfera
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 124.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son objeto de este impuesto las emisiones a la atmósfera de contaminantes generados en las diversas actividades y los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo.
+
+Se considera emisión a la atmósfera, la expulsión directa de los siguientes contaminantes que afecten la calidad del aire:
+
+I. Partículas Menores a 10 micrómetros (PM10);
+
+II. Partículas Menores a 2.5 micrómetros (PM2.5);
+
+III. Partículas Suspendidas Totales (PST);
+
+IV. Óxidos de Nitrógeno; y
+
+V. Dióxido de Azufre.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 125.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son sujetos de este impuesto las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+
+La Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado, deberán cubrir el impuesto a su cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 126.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son base de este impuesto los excedentes de los límites máximos de emisiones contaminantes a la atmósfera.
+
+Se toma como base lo dispuesto en la NOM-043-SEMARNAT-1993, la cual establece los niveles máximos permisibles de emisión a la atmósfera de partículas sólidas provenientes de fuentes fijas, así como la NOM-085-SEMARNAT-2011, que establece los niveles máximos permisibles para fuentes fijas que utilizan combustibles fósiles sólidos, líquidos o gaseosos o cualquiera de sus combinaciones, los humos, partículas suspendidas totales, bióxido de azufre y óxidos de nitrógeno.
+
+Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia la Cédula de Operaciones de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones de la Cédula de Operaciones a cargo de la Secretaría de Medio Ambiente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 127.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera gravadas por este impuesto, aplicando una tasa de 2.79 cuotas por cada tonelada o fracción de partículas emitidas.
+
+Para efectos de este artículo el impuesto se determinará a partir de la primera tonelada completa. Para el caso de que las emisiones no alcancen la siguiente unidad, la tasa por ese excedente se deberá calcular de forma proporcional a la fracción que exceda de la unidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 128.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+El pago de este impuesto deberá efectuarse mediante declaración mensual, a más tardar el día 17 del mes siguiente al que corresponda dicha declaración, que deberá presentarse en las formas y medios autorizados por la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 129.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son obligaciones de los contribuyentes de este impuesto las siguientes:
 
-#### SECCION III. Otros vehículos
+I. Inscribirse en el Registro Estatal de Contribuyentes;
+
+II. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades objeto del impuesto, deberán registrar domicilio dentro del Estado;
+
+III. Llevar un Registro de Emisiones Contaminantes, en el cual deberán consignar lo siguiente:
+
+a) Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
+
+b) En su caso, datos de concentración resultantes de los monitoreos o equipos de medición instalados; y
+
+c) Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría de Finanzas y Tesorería General del Estado o de la Secretaría de Medio Ambiente.
+
+IV. Presentar las declaraciones del impuesto, enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección;
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos de la presente Sección; y
+
+VII. Las demás que se señalen en esta ley y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+#### SECCION III. Del Impuesto por la Emisión de Contaminantes en el Agua
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 130.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Es objeto de este impuesto la emisión de sustancias contaminantes que se depositen, desechen o descarguen en el agua en el territorio del Estado.
+
+Para efectos de lo anterior se considera agua a la referida en el párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, así como la corriente o depósito natural de agua, presas y cauces.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 131.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades establecidas en el artículo anterior.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+La Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado, deberán cubrir el impuesto a su cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 132.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Es base de este impuesto la cantidad en metros cúbicos de agua afectados, expresada en miligramos por litro, con base en lo siguiente:
+
+Se toma como base lo dispuesto en la NOM-001-SEMARNAT-1996, la cual establece los niveles máximos permisibles de contaminantes en las descargas en aguas y bienes nacionales.
+
+a) Contaminantes básicos:
+
+Contaminante Cantidad de
+
+miligramos por litro
+
+por metro cúbico
+
+Grasas y aceites 25
+
+Sólidos suspendidos totales 60
+
+Demanda bioquímica de oxígeno 5 60
+
+Nitrógeno total 25
+
+Fósforo total 10
+
+b) Contaminantes por metales pesados y cianuros:
+
+Contaminante Cantidad de
+
+miligramos por litro
+
+por metro cúbico
+
+Arsénico 0.2
+
+Cadmio 0.2
+
+Cianuro 2.0
+
+Cobre 6.0
+
+Cromo 1.0
+
+Mercurio 0.01
+
+Níquel 4
+
+Plomo 0.4
+
+Zinc 20
+
+Para efectos de esta Sección, se entenderá que los valores presentados en este artículo representan una unidad de contaminantes en metros cúbicos de agua afectados.
+
+Si el agua fue contaminada con dos o más sustancias de las mencionadas en este artículo la cuota se pagará por cada contaminante.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 133.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+El impuesto a pagar se obtendrá aplicando una cuota por el equivalente a 1.10 cuotas por cada metro cúbico o fracción afectados.
+
+Para efectos de este artículo, el impuesto se determinará a partir de la primera unidad completa de metro cúbico afectado. Para el caso de que las afectaciones no alcancen la siguiente unidad, la tasa por ese excedente se deberá calcular de forma proporcional a la fracción que exceda de la unidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 134.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+El pago de este impuesto deberá efectuarse mediante declaración mensual, a más tardar el día 17 del mes siguiente al que corresponda dicha declaración, que deberá presentarse en las formas y medios autorizados por la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 135.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son obligaciones de los sujetos del impuesto las siguientes:
 
-#### SECCION IV. Vehículos usados
+I. Inscribirse en el Registro Estatal de Contribuyentes;
+
+II. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades objeto del impuesto, deberán registrar domicilio dentro del Estado;
+
+III. Llevar un registro específico de las sustancias contaminantes mencionadas en esta Sección, que sean adquiridas y utilizadas en los procesos de producción, su uso y destino, así como las cantidades que en estado físico sólido, semisólido o líquido se vertieron en el agua;
+
+IV. Presentar las declaraciones del impuesto, enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección;
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos de la presente Sección; y
+
+VII. Las demás que se señalen en esta ley y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+#### SECCION IV. Del Impuesto por la Emisión de Contaminantes en el Subsuelo y/o Suelo
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 136.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Es objeto de este impuesto la emisión de sustancias contaminantes orgánicas e inorgánicas que se depositen, desechen o descarguen en el subsuelo y/o suelo en el territorio del Estado, que sean bienes de uso común, bienes destinados a un servicio público y bienes propios pertenecientes a la Federación, a los Estados o a los Municipios, o bienes inmuebles que se encuentren en abandono.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 137.
 
-(DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
+Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades establecidas en el artículo anterior.
 
-#### SECCION DECIMA. De la Vigilancia
+La Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado, deberán cubrir el impuesto a su cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 137 Bis.
+
+Son base de este impuesto:
+
+I. Los contaminantes vertidos al subsuelo y/o suelo afectados, de miligramos por kilogramo, base seca, obtenidos de muestras que se realicen conforme a las Normas Oficiales Mexicanas en cada cien metros cuadrados de terreno, de acuerdo con lo siguiente:
+
+a) Subsuelos o suelos contaminados por hidrocarburos:
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-138-SEMARNAT/SSA1-2012: "Límites máximos permisibles de hidrocarburos en suelos y lineamientos para el muestreo en la caracterización y especificaciones para la remediación".
+
+Contaminante Cantidad de
+
+miligramos por
+
+kilogramo, base seca,
+
+por cada cien metros
+
+cuadrados de terreno
+
+Benceno 6
+
+Tolueno 40
+
+Etilbenceno 10
+
+Xilenos (suma de isómeros) 40
+
+Benzo[a]pireno 2
+
+Dibenzo[a,h ]antraceno 2
+
+Benzo[a]antraceno 2
+
+Benzo[b]fluoranteno 2
+
+Benzo[k]fluoranteno 8
+
+Indeno (1, 2, 3-cd) pireno 2
+
+b) Subsuelos y/o suelos contaminados por: arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio.
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-147-SEMARNAT/SSA1-2004: "Que establece criterios para determinar las concentraciones de remediación de suelos contaminados por arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio".
+
+Contaminante Cantidad de
+
+miligramos por
+
+kilogramo, base
+
+seca, por cada cien
+
+metros cuadrados de
+
+terreno
+
+Arsénico 22
+
+Bario 5400
+
+Berilio 150
+
+Cadmio 37
+
+Cromo hexavalente 280
+
+Mercurio 23
+
+Níquel 1600
+
+Plata 390
+
+Plomo 400
+
+Selenio 390
+
+Talio 5.2
+
+Vanadio 78
+
+II. Los desechos orgánicos o inorgánicos vertidos en el suelo por kilogramo en cada cien metros cuadrados de terreno afectado.
+
+Si el subsuelo y/o suelo fueren contaminados con dos o más sustancias de las mencionadas en este artículo, la cuota se pagará por cada contaminante.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 137 Bis
+
+1.- El impuesto a pagar se obtendrá aplicando 1.10 cuotas por cada kilogramo o miligramos por kilogramo según corresponda, de contaminante en cien metros cuadrados de terreno afectado.
+
+Para efectos de la fracción I del artículo anterior, el impuesto se determinará a partir de la primera unidad completa de miligramos por kilogramo, por cada cien metros cuadrados de terreno afectado. Para efectos de la fracción II del artículo anterior, el impuesto se determinará a partir de la primera unidad completa de kilogramo, por cada cien metros cuadrados de terreno afectado. Para el caso de que las afectaciones no alcancen la siguiente unidad, la tasa por ese excedente se deberá calcular de forma proporcional a la fracción que exceda de la unidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 137 Bis
+
+2.- El pago de este impuesto deberá efectuarse mediante declaración mensual, a más tardar el día 17 del mes siguiente al que corresponda dicha declaración, que deberá presentarse en las formas y medios autorizados por la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 137 Bis
+
+3.- Son obligaciones de los sujetos del impuesto las siguientes:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes;
+
+II. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades objeto del impuesto, deberán registrar domicilio dentro del Estado;
+
+III. Llevar un registro específico de las sustancias contaminantes mencionadas en esta Sección, que sean adquiridas y utilizadas en los procesos de producción, su uso y destino;
+
+IV. Presentar las declaraciones del impuesto, enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección;
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos de la presente Sección; y
+
+VII. Las demás que se señalen en esta ley y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+#### SECCION V. Supletoriedad, Facultades y Responsabilidades
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 137 Bis
+
+4.- Para efectos de este Capítulo son aplicables de manera supletoria la Ley Ambiental del Estado de Nuevo León y demás disposiciones vigentes en el Estado en materia de conservación y restauración del equilibrio ecológico, la protección al ambiente, el desarrollo sustentable del Estado, y derecho al medio ambiente, que no sean contrarias a la naturaleza del derecho fiscal.
+
+Para efectos del ejercicio de las facultades de comprobación, en auxilio de las autoridades fiscales a que se refiere el Código Fiscal del Estado, podrán intervenir las autoridades estatales competentes en las materias a que se refiere el párrafo anterior.
+
+Las disposiciones a que se refiere este Capítulo se establecen sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 137 Bis
+
+5.- Para efectos del presente Capítulo, para determinar la base gravable las autoridades fiscales podrán considerar:
+
+I. Los libros y registros sean cual fuera su denominación, que los sujetos obligados al pago de los impuestos establecidos en este Capítulo deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente; y
+
+II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar los impuestos establecidos en este Capítulo, a partir de las Manifestaciones de Impacto Ambiental, Cédulas de Operación Anual y demás documentos de carácter ambiental que los contribuyentes se encuentren obligados a generar.
 
 ###### ARTICULO 138.
 
@@ -1387,6 +1719,12 @@ Para los efectos del párrafo anterior se entiende que una persona presta servic
 
 Antes de que se efectúe el primer pago de honorarios en el año de calendario de que se trate, las personas a que se refiere el párrafo anterior, deberán comunicar por escrito al prestatario en cuyas instalaciones se realice la prestación del servicio, si los ingresos que obtuvieron de dicho prestatario en el año inmediato anterior excedieron del 50% del total de los percibidos en dicho año de calendario. En caso de que se omita dicha comunicación, el prestatario estará obligado a efectuar el pago del impuesto.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 154 Bis.
+
+Para efectos del artículo anterior, se deben considerar incluidas en el objeto de este impuesto todas las erogaciones que se realicen por los conceptos que se asimilan a los ingresos por salarios conforme a lo previsto en el artículo 94 de la Ley del Impuesto Sobre la Renta.
+
 ###### ARTICULO 155.
 
 Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen los pagos a que se refiere el Artículo anterior.
@@ -1405,11 +1743,11 @@ Es base de este impuesto, el monto total de los pagos a que se refiere el Artíc
 
 El impuesto sobre nóminas se causará a una tasa del 3% sobre la base a que se refiere el Artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 158.
 
-El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
+El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas, o a través de los medios electrónicos de pago autorizados por la autoridad fiscal, tales como transferencia electrónica de fondos desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México; cheque nominativo de la cuenta del contribuyente, tarjeta de crédito, de débito, de servicios, o los denominados monederos electrónicos autorizados por el Servicio de Administración Tributaria.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1451,9 +1789,9 @@ I.- Presentar su aviso de inscripción ante la Secretaría de Finanzas y Tesorer
 
 Tratándose de personas morales con residencia en el Estado, el aviso de inscripción deberá presentarse dentro del mes siguiente al día en que se firme su acta constitutiva;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-II.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos de cambio de nombre, razón social, domicilio, traslado, traspaso o suspensión de actividades;
+II.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos a que se refiere el artículo 28 del Código Fiscal del Estado.
 
 III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señaldos (sic) al eefcto (sic);
 
@@ -1567,7 +1905,9 @@ Para practicar las estimaciones a que se refiere este Artículo, se tendrán en 
 
 a) Las erogaciones realizadas, declaradas en los últimos doce meses.
 
-b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobre Productos del Trabajo en los últimos doce meses.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, en el rubro de Sueldos y Salarios en la Declaración Anual.
 
 > <small>(REFORMADO, P.O. DE 26 DE DICIEMBRE DE 2001)</small>
 
@@ -2441,9 +2781,9 @@ IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
 V.- Por cualquier rectificación de inscripciones ..... 5 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VI.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad y del Comercio para el Estado de Nuevo León ….. 5 cuotas
+VI.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad y del Comercio para el Estado …… 10 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2859,439 +3199,517 @@ f) Cambio de persona física a personal moral N$1,000.00
 
 Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse durante el mes de Marzo de cada año.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO CUARTO] Y REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
+### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General del Estado y Otros Organismos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 276.
 
-Por los servicios prestados por la Secretaría de Finanzas y Tesorería General del Estado o sus dependencias, se causarán los siguientes derechos:
+Se establecen los derechos por los servicios prestados por la Secretaría de Finanzas y Tesorería General del Estado, el Instituto de Control Vehicular y el Instituto Registral y Catastral del Estado a través de la Dirección de Catastro:
 
-I.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
+Por los servicios prestados por la Secretaría de Finanzas y Tesorería General del Estado, se causarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+I.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, respecto de establecimientos ubicados en los municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago, se cubrirán las siguientes cuotas:
 
-II.- Por impresión de documentos existentes en el expediente catastral:
+A. Licencias y autorizaciones de cambio de giro o domicilio y en su caso el refrendo anual de licencias:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+1.- Estadios de futbol y béisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas:
 
-a) Impresión simple, por hoja 0.018 cuotas
+a) Con capacidad de hasta 15,000 personas 750 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+b) Con capacidad de más de 15,000 personas y hasta 25,000
 
-b) Impresión certificada por cada documento, sin perjuicio de lo dispuesto en el inciso anterior 2 cuotas
+personas 1350 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+c) Con capacidad de más de 25,000 personas 1750 cuotas
 
-III.- Por la expedición de Informe y Cédula Catastrales:
+2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+a) Con un área de atención al público no mayor de 120 metros
 
-a) Informe de trasmisión de propiedad de bienes raíces en el Estado con formato autorizado y aviso de enajenación mediante el uso de la Plataforma de Notarios por medios electrónicos y/o cualquier otro medio establecido por el Instituto Registral y Catastral del Estado 5 cuotas
+cuadrados 1196 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+b) Con superficie de atención al público mayor a 120 metros
 
-b) Cédula Única Catastral 4.5 cuotas
+cuadrados 1414 cuotas
 
-c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+3.- Rodeos:
 
-d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+a) Con capacidad de hasta 1,500 personas 942 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+b) Con capacidad mayor de 1,500 personas 1250 cuotas
 
-IV.- Por Constancias de inscripción catastral:
+4.- Hoteles y moteles de paso, con servicio de bar y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+restaurante-bar 750 cuotas
 
-a) Constancia de no Inscripción 2 cuotas
+5.- Establecimientos que expendan bebidas alcohólicas en botella cerrada:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+a) Abarrotes con venta de cerveza, con un área de exposición al público,
 
-b) Constancia de inscripción, por predio 2 cuotas
+no mayor de 50 metros cuadrados 8 cuotas
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+b) Abarrotes con venta de cerveza, vinos y licores con un área de
 
-c) Constancia de comprobante domiciliario catastral por cada predio 1 cuota
+exposición al público no mayor de 50 metros
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+cuadrados 16 cuotas
 
-V.- Por Certificaciones catastrales:
+c) Depósitos con venta de cerveza, incluyendo los que tienen
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+servicio de auto 20 cuotas
 
-a) Certificación de Información Catastral, actual o histórica, por lote o inmueble 5 cuotas
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo los
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+que tienen servicio de auto 40 cuotas
 
-b) Certificación de Inscripción Catastral, identificación cartográfica y/o alfanumérica de existencia o inexistencia de un lote o inmueble 5 cuotas
+e) Licorerías 40 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+f) Minisuper y tiendas de conveniencia con un área de exposición
 
-VI.- Por actualizaciones y validaciones:
+al público no mayor a 120 metros cuadrados 30 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+g) Minisuper y tiendas de conveniencia con un área de exposición
 
-a) Modificación cartográfica y alfanumérica resultado de acreditación y/o rectificación de medidas, por lote 2 cuotas
+al público mayor a 120 metros cuadrados 68 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+h) Tiendas de autoservicio con un área de exposición al público
 
-b) Validación cartográfica, por predio 58 cuotas
+mayor a 120 metros cuadrados 96 cuotas
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+i) Tiendas de autoservicio departamentales con un área de
 
-c) Validación cartográfica y asignación de numeración por proyecto inmobiliario 58 cuotas
+exposición al público mayor a 120 metros cuadrados 190 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+j) Establecimientos que expendan al mayoreo y con servicio de
 
-VII.- Por diversos servicios catastrales:
+distribución, cerveza o bebidas alcohólicas en botella
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-a) Inscripción de fraccionamientos, relotificaciones y/o condominios, por cada lote o unidad resultante 2 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-b) Actualización cartográfica y alfanumérica por lote resultante producto de: Subdivisión y/o fusión, o desglose 2 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-c) Incorporación de predio omiso, por cada lote 4 cuotas
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-d) Validación de actualización de datos catastrales, por cada predio 1 cuota
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-e) Ingreso de aclaraciones, por cada predio 1 cuota
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-VIII.- Por información y ubicación de predios, por cada uno:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-a) Urbanos ..... 2 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-b) Rústicos ... 4 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-IX.- Por baja de construcción por demolición u otras causas ... 5 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-X.- Resello de planos de construcción ... 4 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XI.- Por impresión de planos de terreno y construcción existentes en el archivo documental:
-
-> <small>(REFORMADO ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-a) Impresión simple de planos: Manzaneros, fraccionamientos, condominios, subdivisiones, construcciones y otros, según las siguientes medidas:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1. Carta u oficio ... 1.5 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-2. Mayor a oficio y hasta doble carta ... 3 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-3. Mayor a doble carta y hasta 61 cm x 91 cm ... 4.5 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-4. Mayor a 61 cm x 91 cm ... 6 cuotas
-
-> <small>(REFORMADO ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-b) Impresión certificada de planos: Manzaneros, fraccionamientos, condominios, subdivisiones y otros, según las siguientes medidas:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1. Carta u oficio ... 4 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-2. Mayor a oficio y hasta doble carta ... 6 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-3. Mayor a doble carta y hasta 61 cm x 91 cm ... 8 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-4. Mayor a 61 cm x 91 cm ... 10 cuotas
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-XII.- Impresión de plano de terreno de cartografía digital:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-a) Impresión de plano simple de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1. Doble carta ... 4.5 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-2. Mayor a doble carta ... 6 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-b) Impresión de plano certificado de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1. Doble carta ... 8 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-2. Mayor a doble carta ... 10 cuotas
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-c) Impresión de duplicado de validación cartográfica (doble carta) 8 cuotas
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-XIII.- Por servicios de control vehicular, que se prestan:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-a) Por ingreso o refrendo anual en el padrón de vehículos de motor y remolques 35 cuotas
-
-b) Por expedición o reposición de constancia de registro vehícular 5 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIV.- Por autorización y refrendo anual de placas de demostración 60 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XV.- Por expedición, reposición o canje de placas de vehículos de motor y remolques 10 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XVI.- Por reposición de tarjeta de circulación 3 cuotas
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-XVII.- Por inscripción o cancelación de gravámenes y modificaciones al padrón vehicular 5 cuotas
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-XVIII.- Por el servicio de validación, ratificación de firmas o certificación sobre enajenación de vehículos 8 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIX.- Por expedición, renovación o reposición de licencia para conducir 8 cuotas
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-XX.- Por el servicio de información requeridos (sic) a otras autoridades 4 cuotas
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-XXI.- Por expedición de constancias y certificaciones 3 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XXII.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, respecto de establecimientos ubicados en los municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago, se cubrirán las siguientes cuotas:
-
-A) Licencias y autorizaciones de cambio de giro o domicilio y en su caso el refrendo anual de licencias:
-
-1.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 750 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 1350 cuotas y con capacidad de más de 25,000 personas. 1750 cuotas;
-
-2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 1196 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 1414 cuotas;
-
-3.- Rodeos con capacidad de hasta 1,500 personas, 942 cuotas y con capacidad mayor de 1,500 personas, 1250 cuotas;
-
-4.- Hoteles y moteles de paso, con servicio de bar y restaurante-bar, 750 cuotas;
-
-5.- En botella cerrada:
-
-a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 8 cuotas.
-
-b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 16 cuotas;
-
-c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 20 cuotas;
-
-d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 40 cuotas;
-
-e) Licorerías, 40 cuotas;
-
-f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 30 cuotas;
-
-g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 68 cuotas;
-
-h) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 96 cuotas;
-
-i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 190 cuotas; y
-
-j) Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 170 cuotas.
+cerrada 170 cuotas
 
 6.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
 
-a) Cervecerías con expendio de cerveza, 44 cuotas;
+a) Cervecerías con expendio de cerveza 44 cuotas
 
-b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 44 cuotas;
+b) Restaurantes, loncherías, fondas y similares, con expendio
 
-c) Billares con expendio de cerveza, 44 cuotas;
+de cerveza 44 cuotas
 
-d) Billares con expendio de cerveza, vinos y licores, 64 cuotas;
+c) Billares con expendio de cerveza 44 cuotas
 
-e) Cantinas o bares, con expendio de cerveza, vinos y licores, 126 cuotas;
+d) Billares con expendio de cerveza, vinos y licores 64 cuotas
 
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 72 cuotas;
+e) Cantinas o bares, con expendio de cerveza, vinos y
 
-g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 126 cuotas;
+licores 126 cuotas
 
-h) Centros o Clubes Sociales o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 0.50 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 50 cuotas;
+f) Restaurantes-bar, con expendio de cerveza, vinos y licores,
 
-i) Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.14 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 26 cuotas; y
+con un área de atención al público de hasta 120 metros
+
+cuadrados 72 cuotas
+
+g) Restaurantes-bar, con expendio de cerveza, vinos y licores,
+
+con un área de atención al público mayor a 120 metros
+
+cuadrados 126 cuotas
+
+h) Centros o Clubes Sociales o Deportivos con expendio y
+
+consumo de cerveza, vinos y licores, por metro cuadrado de
+
+superficie de expendio o consumo, pagarán 0.50 cuotas
+
+En ningún caso la cantidad a pagar será inferior a 50 cuotas
+
+i) Centros o Clubes Sociales o Deportivos con consumo de
+
+cerveza, vinos y licores, por metro cuadrado de superficie
+
+de consumo pagarán 0.14 cuotas
+
+En ningún caso la cantidad a pagar será inferior a 26 cuotas
 
 j) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
 
-Hasta 150 metros cuadrados de expendio o consumo abierto al público 76 cuotas.
+Hasta 150 metros cuadrados de expendio o consumo
 
-Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.30 cuotas.
+abierto al público 76 cuotas
 
-En ningún caso la cantidad a pagar será mayor a 500 cuotas.
+Por el excedente de 150 metros, pagarán por cada metro
 
-B) Permisos especiales:
+cuadrado o fracción de expendio o consumo abierto al público 0.30 cuotas
 
-1.- Para el expendio y consumo de bebidas alcohólicas, 0.4 cuotas por metro cuadrado de superficie de expendio o consumo, más un 10% de los derechos por cada día de duración del permiso;
+En ningún caso la cantidad a pagar será mayor a 500 cuotas
 
-2.- Para el consumo de bebidas alcohólicas, 0.2 cuotas por metro cuadrado de superficie de consumo, más un 10% de los derechos por cada día de duración del permiso;
+B. Permisos especiales:
 
-En los casos señalados en los dos incisos anteriores, en ningún caso la cantidad a pagar deberá ser menor a 100 cuotas.
+1.- Para el expendio y consumo de bebidas alcohólicas, por
 
-C) Autorizaciones de cambio de titular de licencia, 36 cuotas.
+metro cuadrado de superficie de expendio o consumo,
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+pagarán 0.4 cuotas
 
-XXIII.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, se cubrirán las siguientes cuotas, excepto en los municipios señalados en la fracción XXII de este artículo:
+Más un 10% de los derechos por cada día de duración del permiso.
 
-A) Por la expedición o en su caso refrendo anual de licencias, así como por autorización de cambio de giro o domicilio:
+2.- Para el consumo de bebidas alcohólicas, por metro cuadrado
 
-I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 500 cuotas y con capacidad de más de 15 mil personas, 900 cuotas;
+de superficie de consumo, pagarán 0.2 cuotas
 
-II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 386 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 436 cuotas;
+Más un 10% de los derechos por cada día de duración del permiso.
 
-III.- Rodeos con capacidad de hasta 1,500 personas, 436 cuotas y con capacidad mayor de 1,500 personas, 750 cuotas;
+En los casos señalados en los dos incisos anteriores, en ningún
 
-IV.- Hoteles y moteles de paso, con servicio de bar y restaurant-bar, 436 cuotas; y
+caso la cantidad a pagar deberá ser menor a 100 cuotas
 
-V.- Establecimientos que expendan bebidas alcohólicas:
+C. Autorizaciones de cambio de titular de licencia 36 cuotas
 
-1.- En botella cerrada:
+II.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, se cubrirán las siguientes cuotas, excepto en los municipios señalados en la fracción I de este artículo:
 
-a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 6 cuotas;
+A. Por la expedición o en su caso refrendo anual de licencias, así como por autorización de cambio de giro o domicilio:
 
-b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 10 cuotas;
+1.- Estadios de futbol y béisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas:
 
-c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 14 cuotas;
+a) Con capacidad de hasta 15 mil personas 500 cuotas
 
-d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 28 cuotas;
+b) Con capacidad de más de 15 mil personas 900 cuotas
 
-e) Licorerías, 28 cuotas;
+2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares:
 
-f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 16 cuotas;
+a) Con un área de atención al público no mayor de 120
 
-g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 34 cuotas;
+metros cuadrados 386 cuotas
 
-h) Tiendas de autoservicio con un área de exposición al público mayor de 120 metros cuadrados, 60 cuotas; y
+b) Con superficie de atención al público mayor a 120 metros
 
-i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 138 cuotas.
+cuadrado (sic) 436 cuotas
 
-2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 68 cuotas.
+3.- Rodeos:
 
-3.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
+a) Con capacidad de hasta 1,500 personas 436 cuotas
 
-a) Cervecerías con expendio de cerveza, 30 cuotas;
+b) Con capacidad mayor de 1,500 personas 750 cuotas
 
-b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 28 cuotas.
+4.- Hoteles y moteles de paso, con servicio de bar y
 
-c) Billares con expendio de cerveza, 30 cuotas;
+restaurant-bar 436 cuotas
 
-d) Billares con expendio de cerveza, vinos y licores, 50 cuotas;
+5.- Establecimientos que expendan bebidas alcohólicas en botella cerrada:
 
-e) Cantinas o bares, con expendio de cerveza, vinos y licores, 86 cuotas;
+a) Abarrotes con venta de cerveza, con un área de exposición
 
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 20 cuotas;
+al público, no mayor de 50 metros cuadrados 6 cuotas
 
-g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 32 cuotas;
+b) Abarrotes con venta de cerveza, vinos y licores con un área
 
-h) Centros o Clubes Sociales o Deportivos, con expendio o consumo de cerveza, vinos y licores, pagarán 0.40 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 40 cuotas;
+de exposición al público no mayor de 50 metros cuadrados 10 cuotas
+
+c) Depósitos con venta de cerveza, incluyendo los que tienen
+
+servicio de auto 14 cuotas
+
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo
+
+los que tienen servicio de auto 28 cuotas
+
+e) Licorerías 28 cuotas
+
+f) Minisuper y tiendas de conveniencia con un área de exposición
+
+al público no mayor a 120 metros cuadrados 16 cuotas
+
+g) Minisuper y tiendas de conveniencia con un área de exposición
+
+al público mayor a 120 metros cuadrados 34 cuotas
+
+h) Tiendas de autoservicio con un área de exposición al público
+
+mayor de 120 metros cuadrados 60 cuotas
+
+i) Tiendas de autoservicio departamentales con un área de
+
+exposición al público mayor a 120 metros cuadrados 138 cuotas
+
+6.- Establecimientos que expendan al mayoreo y con servicio
+
+de distribución, cerveza o bebidas alcohólicas en botella
+
+cerrada 68 cuotas
+
+7.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
+
+a) Cervecerías con expendio de cerveza 30 cuotas
+
+b) Restaurantes, loncherías, fondas y similares, con expendio
+
+de cerveza 28 cuotas
+
+c) Billares con expendio de cerveza 30 cuotas
+
+d) Billares con expendio de cerveza, vinos y licores 50 cuotas
+
+e) Cantinas o bares, con expendio de cerveza, vinos y licores 86 cuotas
+
+f) Restaurantes-bar, con expendio de cerveza, vinos y licores,
+
+con un área de atención al público de hasta 120 metros
+
+cuadrados 20 cuotas
+
+g) Restaurantes-bar, con expendio de cerveza, vinos y licores,
+
+con un área de atención al público mayor a 120 metros
+
+cuadrados 32 cuotas
+
+h) Centros o Clubes Sociales o Deportivos, con expendio o
+
+consumo de cerveza, vinos y licores, por metro cuadrado de
+
+superficie de expendio o consumo, pagarán 0.40 cuotas
+
+En ningún caso la cantidad a pagar será inferior a 40 cuotas
 
 i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
 
-Hasta 150 metros cuadrados de expendio o consumo abierto al público 20 cuotas
+Hasta 150 metros cuadrados de expendio o consumo abierto
 
-Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.30 cuotas
+al público 20 cuotas
 
-En ningún caso la cantidad a pagar Será mayor a 126 cuotas
+Por el excedente de 150 metros, pagarán por cada metro
 
-B) Permisos especiales:
+cuadrado o fracción de expendio o consumo abierto al
 
-1.- Para el expendio y consumo de bebidas alcohólicas, 0.30 cuotas por metro cuadrado de superficie de expendio o consumo, más un 10% de los derechos por cada día de duración del permiso.
+público 0.30 cuotas
 
-2.- Para el consumo de bebidas alcohólicas, 0.15 cuotas por metro cuadrado de superficie de consumo, más un 10% de los derechos por cada día de duración del permiso:
+En ningún caso la cantidad a pagar será mayor a 126 cuotas
 
-En los casos señalados en los dos incisos anteriores, en ningún caso la cantidad a pagar deberá ser menor a 50 cuotas
+B. Permisos especiales:
 
-C) Autorizaciones de cambio de titular de licencia, 30 cuotas
+1.- Para el expendio y consumo de bebidas alcohólicas, por metro
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+cuadrado de superficie de expendio o consumo, pagarán 0.30 cuotas
 
-Los derechos a que se refieren las fracciones XIII a XXI de este artículo, pasarán a ser patrimonio del Instituto de Control Vehicular, por lo que serán recaudados y administrados por dicho instituto en cumplimiento de sus fines y de acuerdo a sus facultades legales.
+Más un 10% de los derechos por cada día de duración del permiso.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+2.- Para el consumo de bebidas alcohólicas, por metro cuadrado
 
-En el caso de las fracciones XIII a XIX de este Artículo, no se expedirán los medios de control vehicular ni se proporcionará ninguno de sus servicios a vehículos o conductores que registren multas pendientes de pago en cualesquiera de los municipios del Estado, o en la Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, tratándose de vehículos de servicio público.
+de superficie de consumo, pagarán 0.15 cuotas
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
+Más un 10% de los derechos por cada día de duración del permiso.
 
-Para la aplicación de los derechos previstos en las fracciones XXII y XXIII de este artículo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
+En los casos señalados en los dos numerales anteriores, en
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
+ningún caso la cantidad a pagar deberá ser menor a 50 cuotas
 
-Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en las fracciones XXII y XXIII de este artículo, se equiparará a la que por sus características le sea más semejante.
+C. Autorizaciones de cambio de titular de licencia 30 cuotas
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
+Para la aplicación de los derechos previstos en las fracciones I y II anteriores, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
 
-Para los efectos de las fracciones XXII y XXIII de este artículo, se entiende por área de exposición al público, la totalidad de piso de venta o consumo a que tiene acceso el público, en un determinado establecimiento.
+Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en las fracciones I y II anteriores, se equiparará a la que por sus características le sea más semejante.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
+Para los efectos de las fracciones I y II anteriores, se entiende por área de exposición al público, la totalidad de piso de venta o consumo a que tiene acceso el público, en un determinado establecimiento.
 
-Los derechos previstos en las fracciones XXII y XXIII de este artículo, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
+Los derechos previstos en las fracciones I y II anteriores, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Por los servicios prestados por el Instituto de Control Vehicular, se causarán los siguientes derechos:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+I.- Por servicios de control vehicular, que se prestan:
 
-### CAPITULO SEXTO. De los Derechos Prestados por la Secretaría de Desarrollo Sustentable
+a) Por ingreso o refrendo anual en el padrón de vehículos de
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+motor y remolques 35 cuotas
+
+b) Por expedición o reposición de constancia de registro
+
+vehicular 5 cuotas
+
+II.- Por autorización y refrendo anual de placas de
+
+Demostración 60 cuotas
+
+III.- Por expedición, reposición o canje de placas de vehículos
+
+de motor y remolques 10 cuotas
+
+IV.- Por reposición de tarjeta de circulación 3 cuotas
+
+V.- Por inscripción o cancelación de gravámenes y modificaciones
+
+al padrón vehicular 5 cuotas
+
+VI.- Por el servicio de validación, ratificación de firmas o certificación
+
+sobre enajenación de vehículos 8 cuotas
+
+VII.- Por expedición, renovación o reposición de licencia para
+
+conducir 8 cuotas
+
+VIII.- Por el servicio de información requerido a otras
+
+autoridades 4 cuotas
+
+IX.- Por expedición de constancias y certificaciones 3 cuotas
+
+Los derechos a que se refieren las fracciones I a IX anteriores, pasarán a ser patrimonio del Instituto de Control Vehicular, por lo que serán recaudados y administrados por dicho instituto en cumplimiento de sus fines y de acuerdo con sus facultades legales.
+
+En el caso de las fracciones I a VII anteriores, no se expedirán los medios de control vehicular ni se proporcionará ninguno de sus servicios a vehículos o conductores que registren multas pendientes de pago en cualesquiera de los municipios del Estado, o en el Instituto de Movilidad y Accesibilidad de Nuevo León, tratándose de vehículos de servicio público.
+
+Por los servicios prestados por el Instituto Registral y Catastral del Estado a través de la Dirección de Catastro, se causarán los siguientes derechos:
+
+I.- Por Expedición en Archivo Electrónico en línea de documentos existentes en el expediente catastral:
+
+a) Impresión de imagen simple por hoja 0.018 cuotas
+
+b) Impresión de imagen certificada por cada documento, sin
+
+perjuicio de lo dispuesto en el inciso anterior 2 cuotas
+
+II.- Por expedición de Archivo Electrónico en línea de Informe y Cédula Catastrales:
+
+a) Informativo de Valor Catastral de trasmisión de propiedad
+
+de Bienes Raíces en el Estado con formato autorizado y aviso
+
+de enajenación mediante el uso de la Plataforma de Notarios
+
+por medios electrónicos y/o cualquier otro medio establecido
+
+por el Instituto Registral y Catastral del Estado 5 cuotas
+
+b) Cédula Única Catastral 4.5 cuotas
+
+III.- Por Expedición de Archivo Electrónico en línea de Constancias de inscripción Catastral:
+
+a) Constancia de no Inscripción 2 cuotas
+
+b) Constancia de inscripción, por predio 2 cuotas
+
+c) Constancia de comprobante domiciliario catastral, por cada
+
+predio 1 cuota
+
+IV.- Por Expedición de Archivo Electrónico en línea de Certificaciones Catastrales:
+
+a) Certificación de Información Catastral, actual o histórica,
+
+por lote o inmueble 5 cuotas
+
+b) Certificación de Inscripción Catastral, identificación
+
+cartográfica y/o alfanumérica de existencia o inexistencia
+
+de un lote o inmueble 5 cuotas
+
+V.- Por actualización y validación, con entregable de Archivo Electrónico en línea y/o cualquier otro medio señalado por el Instituto Registral y Catastral del Estado:
+
+a) Modificación cartográfica y alfanumérica resultado de
+
+acreditación y/o rectificación de medidas, por lote 2 cuotas
+
+b) Validación cartográfica, por predio 58 cuotas
+
+c) Validación cartográfica y asignación de numeración por
+
+proyecto inmobiliario 58 cuotas
+
+VI.- Por diversos servicios catastrales, con entregable de Archivo Electrónico en línea y/o cualquier otro medio señalado por el Instituto Registral y Catastral del Estado:
+
+a) Inscripción de fraccionamientos, relotificaciones y/o condominios,
+
+por cada lote o unidad resultante 2 cuotas
+
+b) Actualización cartográfica y alfanumérica por lote resultante
+
+producto de: Subdivisión y/o fusión, o desglose 2 cuotas
+
+c) Incorporación de predio omiso, por cada lote 4 cuotas
+
+d) Validación de actualización de datos catastrales, por cada
+
+predio 1 cuota
+
+e) Ingreso de aclaraciones, por cada predio 1 cuota
+
+VII.- Por información y ubicación de predios, con entregable de Archivo Electrónico en línea y/o cualquier otro medio señalado por el Instituto Registral y Catastral del Estado, por cada uno:
+
+a) Urbanos 2 cuotas
+
+b) Rústicos 4 cuotas
+
+VIII.- Por baja de construcción por demolición u otras causas;
+
+con entregable de Archivo Electrónico en línea y/o cualquier
+
+otro medio señalado por el Instituto Registral y Catastral del
+
+Estado, por cada uno 5 cuotas
+
+IX.- Resello de planos de construcción; con entregable de
+
+Archivo Electrónico en línea y/o cualquier otro medio señalado
+
+por el Instituto Registral y Catastral del Estado, por cada
+
+uno 4 cuotas
+
+X.- Por Expedición de Archivo Electrónico en línea de planos de terreno y construcción existentes en el archivo digital en el Sistema de Gestión Catastral:
+
+a) Impresión de imagen simple de planos: Manzaneros, fraccionamientos, condominios, subdivisiones, construcciones y otros, según las siguientes medidas:
+
+1. Carta u oficio 1.5 cuotas
+
+2. Mayor a oficio y hasta doble carta 3 cuotas
+
+3. Mayor a doble carta y hasta 61 cm x 91 cm 4.5 cuotas
+
+4. Mayor a 61 cm x 91 cm 6 cuotas
+
+b) Impresión de imagen certificada de planos: Manzaneros, fraccionamientos, condominios, subdivisiones y otros, según las siguientes medidas:
+
+1. Carta u oficio 4 cuotas
+
+2. Mayor a oficio y hasta doble carta 6 cuotas
+
+3. Mayor a doble carta y hasta 61 cm x 91cm 8 cuotas
+
+4. Mayor a 61 cm x 91 cm 10 cuotas
+
+XI.- Expedición de Archivo Electrónico en línea de plano de terreno de cartografía digital:
+
+a) Impresión de imagen de plano simple de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
+
+1. Doble carta 4.5 cuotas
+
+2. Mayor a doble carta 6 cuotas
+
+b) Impresión de imagen de plano certificado de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
+
+1. Doble carta 8 cuotas
+
+2. Mayor a doble carta 10 cuotas
+
+c) Impresión de imagen de duplicado de validación cartográfica
+
+doble carta 8 cuotas
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Medio Ambiente
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 276 Bis.
 
-Por los servicios prestados por la Secretaría de Desarrollo Sustentable, se causarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de Medio Ambiente, se causarán los siguientes derechos:
 
 Concepto TARIFA
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 I.- En el rubro de prestadores de servicios ambientales
 
@@ -3300,6 +3718,8 @@ a) Constancia de ingreso a la base de datos
 de prestadores de servicio en materia ambiental
 
 y su renovación anual 68.5 cuotas
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 II.- En el rubro de impacto ambiental:
 
@@ -3314,6 +3734,8 @@ ambiental, en la modalidad general e industrial 500 cuotas
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 c) Evaluación de estudio de riesgo 500 cuotas
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 III.- En el rubro de residuos:
 
@@ -3395,6 +3817,8 @@ k) Validación al registro de los Planes de Manejo de
 
 Residuos de Manejo Especial 75 cuotas
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 IV.- En el rubro de aguas residuales:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
@@ -3447,67 +3871,73 @@ d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018) (F. DE E., P.O. 14 DE ENERO DE 2019)
 
 VI.- Certificación estatal de cumplimiento ambiental 25 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VII.- Evaluación de Impacto Urbano Regional 500 cuotas
+VII.- Evaluación y elaboración de la cédula de ingreso al registro estatal:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+a) De asociaciones protectoras de animales y organizaciones no
 
-VIII.- Evaluación de Congruencia en planes o programas municipales de desarrollo urbano, de planes o programas de desarrollo urbano de centros de población o su modificación total o parcial:
+gubernamentales dedicadas a la protección y bienestar
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+animal 20 cuotas
 
-a) De municipios con una población mayor a 500,000 habitantes conforme a información oficial más reciente que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía 500 cuotas
+b) De individuos y/o profesionales dedicados a la protección y bienestar
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+animal 15 cuotas
 
-b) De municipios con una población mayor a 200,000 hasta 500,000 habitantes conforme a la información oficial más reciente que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía 300 cuotas
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+VIII.- Evaluación y elaboración de la cédula de ingreso al
 
-c) De municipios con una población hasta 200,000 habitantes conforme a la información oficial más reciente que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía 200 cuotas
+registro estatal de establecimientos que se dediquen a la
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+crianza y/o venta de animales 150 cuotas
 
-IX.- Evaluación de Congruencia en planes
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-o programas parciales de desarrollo urbano 375 cuotas
+IX.- Análisis del registro de las personas físicas y morales que
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+se dediquen o realicen actividades de exhibición, trabajo,
 
-X.- Evaluación de Medidas de Mitigación en zonas de riesgo:
+deportivas, competencias y/o adiestramiento de animales 40 cuotas
 
-> <small>(ADICIONADO CON SUS NUMERALES, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-a) Para fraccionamientos o conjuntos urbanos, edificaciones u obras en predios ubicados en área urbanizable:
+X.- Evaluación y elaboración de la cédula de ingreso al
 
-1. Inmuebles con superficie de hasta 499 metros cuadrados 75 cuotas
+registro estatal de las personas físicas y morales que se
 
-2. Inmuebles con superficie mayor a 499 y hasta 999 metros cuadrados 187.50 cuotas
+dediquen o realicen actividades de atención médica y/o
 
-3. Inmuebles con superficie mayor a 999 metros cuadrados 500 cuotas
+centros de atención veterinaria 35 cuotas
 
-> <small>(ADICIONADO CON SUS NUMERALES, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-b) Para construcciones en inmuebles ubicados en áreas urbanizadas:
+XI.- Evaluación y elaboración de la cédula de ingreso al
 
-1. Inmuebles con superficie de hasta 499 metros cuadrados 30 cuotas
+registro estatal de establecimientos físicos o móviles que
 
-2. Inmuebles con superficie mayor a 499 y hasta 999 metros cuadrados 50 cuotas
+proporcionen un servicio de limpieza, cuidado y/o
 
-3. Inmuebles con superficie mayor a 999 metros cuadrados 100 cuotas
+resguardo de animales 40 cuotas
 
-XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-XII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
+XII.- Evaluación, elaboración y análisis relativo al certificado
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+de procedencia, respecto de animales destinados a la
 
-XIII.- Asistencia Técnica del Centro de Colaboración
+venta, por cada animal 6 cuotas
 
-Geoespacial 187.50 cuotas
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-XIV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2019)
+XIII.- Evaluación de la factibilidad de aprovechamiento de
+
+recursos minerales no reservados a la Federación 150 cuotas
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+XIV.- Verificación Vehicular 0 cuotas
 
 XV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3519,63 +3949,111 @@ XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+XX.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-XX.- Evaluación y elaboración de la cédula de ingreso al registro estatal.
+XXI.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+XXII.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-a) De asociaciones protectoras de animales y organizaciones no gubernamentales dedicadas a la protección y bienestar animal 20 cuotas
+XXIII.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+XXIV.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-b) De individuos y/o profesionales dedicados a la protección y bienestar animal 15 cuotas
+XXV.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+XXVI.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-XXI.- Evaluación y elaboración de la cedula de
+XXVII.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-ingreso al registro estatal de establecimientos que se
+XXVIII.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2021)
 
-dediquen a la crianza y/o venta de animales 150 cuotas
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por la Secretaría de Movilidad y Planeación Urbana
 
-XXII.- Análisis del registro de las personas físicas y morales que se dediquen o realicen actividades de exhibición, trabajo, deportivas, competencias y/o adiestramiento de animales 40 cuotas
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+###### ARTICULO 276 Bis
 
-XXIII.- Evaluación y elaboración de la cédula de ingreso al registro estatal de las personas físicas y morales que se dediquen o realicen actividades de atención médica y/o centros de atención veterinaria 35 cuotas
+1.- Por los servicios prestados por la Secretaría de Movilidad y Planeación Urbana, se causarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+I.- Evaluación de Impacto Urbano Regional 500 cuotas
 
-XXIV.- Evaluación y elaboración de la cédula de ingreso al registro estatal de establecimientos físicos o móviles que proporcionen un servicio de limpieza, cuidado y/o resguardo de animales 40 cuotas
+II.- Evaluación de Congruencia en planes o programas municipales
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+de desarrollo urbano, de planes o programas de desarrollo urbano
 
-XXV.- Evaluación, elaboración y análisis relativo al
+de centros de población o su modificación total o parcial:
 
-certificado de procedencia, respecto de animales
+a) De municipios con una población mayor a 500,000 habitantes
 
-destinados a la venta, por cada animal 6 cuotas
+conforme a información oficial más reciente que hubiera dado a
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+conocer el Instituto Nacional de Estadística y Geografía 500 cuotas
 
-XXVI.- Evaluación de la factibilidad de aprovechamiento
+b) De municipios con una población mayor a 200,000 hasta
 
-de recursos minerales no reservados a la Federación 150 cuotas
+500,000 habitantes conforme a la información oficial más reciente
 
-> <small>(ADICIONADA CON SUS INCISOS, P.O. 30 DE DICIEMBRE DE 2019)</small>
+que hubiera dado a conocer el Instituto Nacional de Estadística
 
-XXVII.- Procedimiento de análisis y evaluación para la emisión de Certificado de Laboratorios en materia de pavimentos
+y Geografía 300 cuotas
+
+c) De municipios con una población hasta 200,000 habitantes
+
+conforme a la información oficial más reciente que hubiera
+
+dado a conocer el Instituto Nacional de Estadística
+
+y Geografía 200 cuotas
+
+III.- Evaluación de Congruencia en planes o programas
+
+parciales de desarrollo urbano 375 cuotas
+
+IV.- Evaluación de Medidas de Mitigación en zonas de riesgo:
+
+a) Para fraccionamientos o conjuntos urbanos, edificaciones u obras en predios ubicados en área urbanizable:
+
+1. Inmuebles con superficie de hasta 499 metros
+
+cuadrados 75 cuotas
+
+2. Inmuebles con superficie mayor a 499 y hasta 999 metros
+
+cuadrados 187.50 cuotas
+
+3. Inmuebles con superficie mayor a 999 metros
+
+cuadrados 500 cuotas
+
+b) Para construcciones en inmuebles ubicados en áreas urbanizadas:
+
+1. Inmuebles con superficie de hasta 499 metros
+
+cuadrados 30 cuotas
+
+2. Inmuebles con superficie mayor a 499 y hasta 999 metros
+
+cuadrados 50 cuotas
+
+3. Inmuebles con superficie mayor a 999 metros
+
+cuadrados 100 cuotas
+
+V.- Asistencia Técnica del Centro de Colaboración Geoespacial 187.50 cuotas
+
+VI.- Procedimiento de análisis y evaluación para la emisión de Certificado de
+
+Laboratorios en materia de pavimentos:
 
 a) Por primera vez 87 cuotas
 
 b) Renovación de Certificado 87 cuotas
 
-> <small>(ADICIONADA CON SUS INCISOS, P.O. 30 DE DICIEMBRE DE 2019)</small>
+VII.- Procedimiento de análisis y evaluación para la emisión de
 
-XXVIII.- Procedimiento de análisis y evaluación para la emisión de Certificado de Profesionales Responsables en materia de pavimentos:
+Certificado de Profesionales Responsables en materia de pavimentos:
 
 a) Por primera vez 46 cuotas
 
@@ -3583,11 +4061,7 @@ b) Renovación de Certificado 31 cuotas
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+### CAPITULO OCTAVO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
 
 ###### ARTICULO 277.
 
@@ -3635,9 +4109,9 @@ a) Contratistas N$440.00
 
 b) Proveedores N$220.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción N$5.00
+V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por el Instituto Registral y Catastral del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción ….. $ 5.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3817,13 +4291,61 @@ En caso de reproducción en fotografías, cintas de video, dispositivos de archi
 
 En todos los casos, con excepción del Poder Judicial del Estado y de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos, y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+### CAPITULO NOVENO. De los Derechos por los Servicios de Supervisión, Control y Expedición de Constancias de Ingreso a la Base de Datos, de Máquinas de Juegos y Apuestas
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 277 Bis
+
+1.- Las personas físicas y morales que operen bajo cualquier título (sic) establecimientos mercantiles en el Estado de Nuevo León, en los que se encuentren instalados o se instalen máquinas o equipos que permitan al público que accede a dichos locales el participar en juegos de apuestas de cualquier clase que otorguen premios en dinero o en especie o en juegos en los que el premio se obtenga por la destreza del participante o el azar, pagarán el derecho establecido en este Capítulo, por cada máquina o equipo que se encuentre en los citados establecimientos mercantiles.
+
+Las máquinas a que se refiere esta disposición son aquellas definidas en el artículo 10 párrafos segundo y tercero de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 277 Bis
+
+2.- La Secretaría de Finanzas y Tesorería General del Estado expedirá la Constancia de Ingreso a la base de datos a través del holograma a que se refiere el artículo 277 Bis-4 y realizará periódicamente visitas de verificación a los establecimientos mercantiles antes referidos, a fin de supervisar y controlar el cumplimiento de los contribuyentes a lo previsto en este Capítulo, en específico a lo previsto por los artículos 277 Bis-4 y 277 Bis-5. Estas visitas se sujetarán a lo dispuesto por el artículo 46 del Código Fiscal del Estado de Nuevo León.
+
+Las autoridades fiscales llevarán y actualizarán una base de datos de las máquinas de juegos o equipos a que se refiere el artículo 277 Bis-1, instaladas en el territorio del Estado de Nuevo León, y de los hologramas a que se refiere el artículo 277 Bis-4, que se expidan por parte de las autoridades fiscales del Estado, así como de los establecimientos en los que se instalen las citadas máquinas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 277 Bis
+
+3.- Por los servicios de expedición de supervisión, control y expedición de Constancia de Ingreso a la base de datos a cargo de la Secretaría de Finanzas y Tesorería General del Estado, se pagará un derecho equivalente a 300 cuotas anualmente por máquina. Este derecho se pagará ante las oficinas autorizadas a más tardar el día diecisiete del mes de marzo de cada ejercicio.
+
+Los contribuyentes podrán disminuir contra el derecho previsto en este Capítulo, el impuesto por la Realización de Juegos con Apuestas y Sorteos pagado en términos de esta Ley en el ejercicio inmediato anterior al que corresponda el pago del derecho previsto en este Capítulo. En caso de que el citado impuesto sea superior al monto del derecho, el saldo a favor no dará lugar a acreditamiento, devolución o compensación alguna.
+
+Los contribuyentes no podrán instalar máquinas sin haber pagado previamente el derecho a que se refiere este artículo y adherido el holograma correspondiente. Este derecho se pagará por meses completos en la proporción que represente del período comprendido desde el mes en que se presentó el aviso y hasta el último mes del ejercicio.
+
+Cuando los contribuyentes retiren una máquina sobre la cual ya se hubiera pagado el derecho a que se refiere el primer párrafo de este artículo, podrán solicitar la devolución por el remanente correspondiente a los meses completos en que dejó de utilizarse, siempre que el contribuyente entregue a la Secretaría de Finanzas y Tesorería General del Estado el holograma correspondiente. En caso de que las máquinas a que se refiere este párrafo vayan a ser sustituidas, el saldo a favor podrá aplicarse en contra del derecho correspondiente a la nueva máquina.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 277 Bis
+
+4.- Los sujetos obligados al pago del derecho previsto en este Capítulo deberán obtener de la Secretaría de Finanzas y Tesorería General del Estado un holograma que reúna las características que mediante reglas de carácter general fije la misma Secretaría. Este holograma deberá adherirse a la máquina de juegos en un lugar visible y permanecer en él hasta que se adhiera un nuevo holograma y servirá como constancia de ingreso a la base de datos y actualización del mismo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 277 Bis
+
+5.- Los contribuyentes a que se refiere este Capítulo estarán obligados, en adición a lo dispuesto por el artículo 277 Bis-4, a lo siguiente:
+
+I. A cumplir con las disposiciones aplicables en materia de establecimientos mercantiles;
+
+II. A presentar un aviso ante las oficinas autorizadas de la Secretaría de Finanzas y Tesorería General del Estado, en el que informe de cada máquina que enajene, ceda, deje de utilizar, así como de las que adquiera o instale en el establecimiento mercantil que corresponda. Este aviso se deberá presentar con antelación a la instalación en el establecimiento de la máquina de juegos correspondiente. En los demás casos se presentará dentro de los tres días siguientes en que ocurra cualquiera de los supuestos señalados, y
+
+III. Presentar a las autoridades fiscales la información que se les requiera mediante reglas de carácter general, a fin de que pueda integrarse la base de datos a que se refiere el segundo párrafo del 277 Bis-2.
 
 ## TITULO CUARTO. De los Productos
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 278.
 
@@ -3865,7 +4387,9 @@ Los productos se cobrarán de acuerdo con los contratos, o en los términos de l
 
 ## TITULO QUINTO. De los Aprovechamientos
 
-### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 280.
 
@@ -3935,9 +4459,7 @@ XV. Diversos.
 
 ## TITULO SEXTO. Facultades del Ejecutivo
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 281.
 
@@ -4658,3 +5180,21 @@ P.O. 30 DE DICIEMBRE DE 2019.
 Primero.- El presente Decreto entrará en vigor el 1 de enero de 2020.
 
 Segundo.- La Secretaría de Finanzas y Tesorería General del Estado, deberá dentro del plazo de 45 días, poner a disposición de las Empresas de Redes de Transporte los formatos necesarios para dar cumplimiento al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 037. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 01 de enero del año 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un plazo de 6 meses a partir de la entrada en vigor del presente Decreto para que la Secretaría de Finanzas y Tesorería General del Estado expida las reglas de carácter general relativas a la emisión del holograma a que se refiere el artículo 277 Bis-4.
+
+En tanto no se expida el holograma a que se refiere el artículo 277 Bis-4, de la Ley de Hacienda del Estado, los sujetos obligados al pago del derecho deberán conservar en su domicilio fiscal la documentación comprobatoria del pago del mismo, manteniendo una copia en el establecimiento mercantil en el que se encuentre la máquina de juegos que corresponda.
+
+###### ARTÍCULO TERCERO.
+
+El Capítulo Quinto del Título Segundo “De los Impuestos Ecológicos”, que se adiciona mediante el presente Decreto, estará en vigor hasta el 31 de diciembre de 2027.
