@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-12938
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-10"
-last_updated: "2021-05-20"
+last_updated: "2021-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 10 de junio de 2018.
 
@@ -285,9 +285,11 @@ III. Programas de protección social y reducción de la pobreza, especialmente p
 
 ### Capítulo XI. Educación
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 Artículo 25
 
-Las personas con discapacidad tienen derecho a recibir educación en todos sus niveles y en sus diferentes modalidades libre de barreras didácticas, psicológicas, políticas, sociales, culturales o de comunicación.
+Es obligación de las autoridades relacionadas con el derecho a la educación, implementar los ajustes razonables necesarios, que generen condiciones de no discriminación en el entorno escolar, proporcionar material didáctico idóneo para las niñas, niños y adolescentes con discapacidad, contar con el personal docente capacitado, y ejecutar todas las medidas necesarias para garantizar su educación inclusiva.
 
 Artículo 26
 
@@ -295,39 +297,55 @@ El Estado implementará políticas públicas educativas basadas en el principio 
 
 Artículo 27
 
-Se reconoce a la lengua de señas mexicana como parte del patrimonio lingüístico de la nación mexicana.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Se reconoce a la lengua de señas mexicana como parte del patrimonio lingüístico de la nación mexicana, y como una herramienta didáctica elemental para el aprendizaje de niñas, niños y adolescentes con discapacidad auditiva, la cual deberá desempeñarse por el personal capacitado en la materia, de forma obligatoria para las autoridades escolares.
 
 El sistema braille, los modos, medios y formatos de Comunicación que elijan las personas con discapacidad, serán reconocidos en sus relaciones oficiales.
 
 ### Capítulo XII. Trabajo, Capacitación y Empleo
 
-Artículo 28
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-Las autoridades competentes formularán políticas públicas, mecanismos y estrategias para la incorporación de las personas con discapacidad al empleo, capacitación y readaptación laboral.
+###### Artículo 28.
 
-Artículo 29
+Las autoridades competentes formularán políticas públicas, mecanismos y estrategias para la incorporación de las personas con discapacidad, al empleo, capacitación, readaptación y reinserción laboral, además de buscar en todo tiempo condiciones de trabajo accesibles, sanas y seguras para las mismas.
 
-Las políticas y programas de empleo deberán basarse en el principio de igualdad de oportunidades entre los trabajadores con discapacidad y los trabajadores en general, considerando que la finalidad es la de permitir que las personas con discapacidad obtengan y conserven un empleo adecuado y progresen en el mismo, en un entorno abierto, inclusivo y accesible.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-Asimismo, deberán tener acceso a la habilitación laboral y oportunidades de capacitación para el trabajo, que los equipare en oportunidades para su incorporación a la vida productiva.
+###### Artículo 29.
 
-Artículo 30
+Las políticas y programas de empleo deberán basarse en el principio de igualdad de oportunidades entre los trabajadores con discapacidad y los trabajadores en general, considerando que la finalidad es la de permitir que las personas con discapacidad obtengan y conserven un empleo adecuado y progresen en el mismo por ascenso, promoción y mejor remuneración, en un entorno abierto, inclusivo y accesible.
 
-Todo patrón del sector público y privado deberá en todo momento respetar la igualdad de oportunidades y de trato, para trabajadoras y trabajadores con discapacidad. Las medidas encaminadas a lograr la igualdad de oportunidades y de trato entre trabajadores con discapacidad y los demás trabajadores, no deberán considerarse discriminatorias respecto de estos últimos.
+Asimismo, deberán tener acceso a la habilitación y formación laboral y oportunidades de capacitación para el trabajo, que los equipare en oportunidades para su incorporación a la vida productiva.
 
-Artículo 31
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-Las autoridades, organismos laborales, instituciones públicas y privadas de capacitación para el trabajo y patrones, deberán adoptar medidas para proporcionar y evaluar los servicios de orientación y formación profesionales, colocación y empleo y otros afines, a fin de que las personas con discapacidad puedan lograr y conservar un empleo y progresar en el mismo.
+###### Artículo 30.
+
+Todo patrón del sector público y privado deberá en todo momento respetar la igualdad de oportunidades y de trato para trabajadoras y trabajadores con discapacidad considerando las condiciones particulares de estas en relación con el trabajo y las funciones de otros trabajadores y del centro de trabajo. Las medidas encaminadas a lograr la igualdad de oportunidades y de trato entre trabajadores con discapacidad y los demás trabajadores, no deberán considerarse discriminatorias respecto de estos últimos.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 31.
+
+Las autoridades, organismos laborales, instituciones públicas y privadas de capacitación para el trabajo y patrones, deberán adoptar medidas para proporcionar y evaluar los servicios de orientación y formación profesionales, colocación y empleo y otros afines, a fin de que las personas con discapacidad puedan lograr y conservar un empleo y progresar tanto en el escalafón como en la remuneración recibida en el mismo.
 
 Siempre que sea posible y adecuado, se utilizarán los servicios existentes para los trabajadores en general, con las adaptaciones necesarias.
 
-Artículo 32
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-Los organismos, consejos y cámaras empresariales deberán apoyar activamente la integración de las personas con discapacidad al mercado de trabajo, para lo cual procurarán incorporar en su plantilla de trabajadores por lo menos un dos por ciento de trabajadores con discapacidad. Igual disposición se observará en el caso de que el patrón sea un ente público.
+###### Artículo 32.
 
-Artículo 33
+Los organismos, consejos y cámaras empresariales deberán apoyar, incentivar y promover activamente la integración de las personas con discapacidad al mercado de trabajo, para lo cual procurarán incorporar en su plantilla de trabajadores por lo menos un dos por ciento de trabajadores con discapacidad.
 
-Las organizaciones de trabajadores y los patrones deben coadyuvar y cooperar para asegurar a las personas con discapacidad, condiciones equitativas en materia de políticas de contratación y ascenso, tasas de remuneración y condiciones de empleo.
+Igual disposición se observará en el caso de que el patrón sea un ente público.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 33.
+
+Las organizaciones de trabajadores y los patrones deben coadyuvar y cooperar para asegurar a las personas con discapacidad, condiciones equitativas en materia de políticas de contratación, capacitación, formación y ascenso, tasas de remuneración y condiciones de empleo.
 
 ### Capítulo XIII. Cultura, Turismo, Recreación y Deporte
 
@@ -1184,3 +1202,19 @@ P.O. 20 DE MAYO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 026.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 28, 29, 30, 31, 32 Y 33 DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO, EN MATERIA DE DERECHOS LABORALES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 028.-·QUE CONTIENE REFORMAS A LOS ARTÍCULOS 25 Y 27 DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO, EN MATERIA DE INCLUSIÓN DE PERSONAS CON DISCAPACIDAD".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
