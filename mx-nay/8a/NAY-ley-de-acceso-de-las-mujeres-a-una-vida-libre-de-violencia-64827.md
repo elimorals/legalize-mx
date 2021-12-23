@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2021-11-01"
+last_updated: "2021-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -671,6 +671,14 @@ XII.- Los demás señalados en esta Ley y otras disposiciones legales.
 
 La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses, a menos de que persista su estado de riesgo o de indefensión, para tales efectos, el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 34 Bis.
+
+El Estado y los Municipios de la entidad deberán instrumentar las medias (sic) presupuestales y administrativas necesarias para garantizar la asignación ágil y oportuna de recursos suficientes para la creación, operación y fortalecimiento de los refugios para víctimas a que hace referencia esta ley.
+
+En caso de que un Municipio no reúna las condiciones necesarias para la instalación de un refugio de acuerdo con lo establecido en el modelo, se deberá garantizar que cuenten con una casa de emergencia y/o de transición vinculada a un refugio.
+
 ### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
 
 ###### Artículo 35.
@@ -1309,7 +1317,9 @@ V. Emitir normatividad en materia de justicia cívica específica para sancionar
 
 VI. Promover en coordinación con el Estado, cursos anuales de capacitación a servidores y funcionarios públicos que atiendan a mujeres víctimas de la violencia;
 
-VII. Apoyar la creación de refugios seguros para las víctimas;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VII. Celebrar convenios con el Gobierno del Estado para la creación, operación y/o el fortalecimiento de refugios para las víctimas de acuerdo con las condiciones establecidas en la Ley General y en la presente Ley;
 
 VIII. Celebrar convenios de cooperación, coordinación, concertación y adherirse a protocolos y acuerdos sobre discriminación y violencia de género; y
 
@@ -1396,3 +1406,9 @@ P.O. 1 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA DIGITAL”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
