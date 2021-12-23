@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2020-12-30"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -219,7 +219,7 @@ En los casos en que una sociedad entre en liquidación o sea fusionada, el ejerc
 
 Cuando una sociedad no se encuentre en los supuestos del párrafo anterior y desee anticipar la fecha de terminación de sus ejercicios deberá presentar aviso ante las autoridades fiscales. Tratándose de la segunda y posteriores ocasiones en que se desee efectuar dicho cambio, deberán haber transcurrido cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 13.
 
@@ -237,6 +237,10 @@ No obstante lo dispuesto en los párrafos anteriores, si el último día del pla
 
 Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Las autoridades fiscales podrán suspender los plazos por fuerza mayor o caso fortuito. Dicha suspensión deberá darse a conocer mediante disposiciones de carácter general.
+
 ###### ARTICULO 14.
 
 La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 8:00 y las 19:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Tratándose de la verificación de bienes y de mercancías en transporte, se considerarán hábiles todos los días del año y las veinticuatro horas del día.
@@ -244,6 +248,10 @@ La práctica de diligencias por las autoridades fiscales deberá efectuarse en d
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
 Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución y de notificaciones, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que debe pagar contribuciones en días y horas inhábiles. También se podrá efectuar la habilitación a que se refiere este párrafo, para la continuación de una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de la contabilidad o de los bienes del particular, siempre que exista la sospecha de su alteración u ocultamiento en caso de suspenderse la diligencia sin haberlos asegurado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+El buzón tributario se regirá conforme al horario de la Zona Centro de México, de conformidad con la Ley del Sistema de Horario en los Estados Unidos Mexicanos y el Decreto por el que se establece el Horario Estacional que se aplicará en los Estados Unidos Mexicanos.
 
 ###### ARTICULO 15.
 
@@ -367,21 +375,21 @@ Las cantidades actualizadas conservan la naturaleza jurídica que poseían antes
 
 Para los efectos de este artículo se aplicará el Índice Nacional de Precios al Consumidor, calculado por el Instituto Nacional de Estadística y Geografía, que se publica en el Diario Oficial de la Federación.
 
-###### ARTICULO 18 Bis.
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-El monto de las contribuciones, los aprovechamientos o de las devoluciones a cargo del fisco se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones, los aprovechamientos y en su caso el monto de las devoluciones, no se actualizarán por fracciones de mes.
+###### ARTICULO 18 Bis
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+1.- Las personas físicas y morales inscritas en el registro estatal de contribuyentes tendrán asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de Internet de la Secretaría de Finanzas y Tesorería General del Estado de Nuevo León, a través del cual:
 
-Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
+I.- La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido y podrá enviar mensajes de interés.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+II.- Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal, debiendo contar con la firma electrónica avanzada a que se refiere este Código.
 
-Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en las declaraciones mensuales, no será deducible ni acreditable.
+Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por la Secretaría de Finanzas y Tesorería General del Estado a cualquiera de los mecanismos de comunicación que el contribuyente registre de los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante los mecanismos elegidos, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Para efectos de lo previsto en el párrafo anterior, los contribuyentes deberán habilitar el buzón tributario, registrar y mantener actualizados los medios de contacto, de acuerdo con el procedimiento que al efecto establezca la Secretaría de Finanzas y Tesorería General del Estado de Nuevo León mediante reglas de carácter general.
 
-Para los efectos de este artículo se aplicará el Indice Nacional de Precios al Consumidor, calculado por el Banco de México, que se publica en el Diario Oficial de la Federación.
+Cuando el contribuyente no habilite el buzón tributario o señale medios de contacto erróneos o inexistentes, o bien, no los mantenga actualizados, se entenderá que se opone a la notificación y la autoridad podrá notificarle conforme a lo señalado en el artículo 133, fracción III, de este Código.
 
 ## TITULO II
 
@@ -563,7 +571,37 @@ C).- No lleve contabilidad o la lleve en forma incompleta, la oculte o la destru
 
 D).- No cubra los créditos fiscales dentro de los términos legales, tratándose de sociedades que no tengan las obligaciones a que se refieren los incisos A), B) y C), respecto del crédito que se adeuda.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+E).- Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos de este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+F).- No se localice en el domicilio fiscal registrado ante el Registro Estatal de Contribuyentes.
+
 IV.- Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+También se considerará que existe adquisición de negociación, salvo prueba en contrario, cuando la autoridad fiscal detecte que la persona que transmite y la que adquiere el conjunto de bienes, derechos u obligaciones se ubican en alguno de los siguientes supuestos:
+
+a) Transmisión parcial o total, mediante cualquier acto jurídico, de activos o pasivos entre dichas personas.
+
+b) Identidad parcial o total de las personas que conforman su órgano de dirección, así como de sus socios o accionistas con control efectivo. Para tales efectos, se considerará que dichos socios o accionistas cuentan con control efectivo cuando pueden llevar a cabo cualquiera de los actos señalados en la fracción X, cuarto párrafo, incisos a), b) o c) de este artículo.
+
+c) Identidad parcial o total de sus representantes legales.
+
+d) Identidad parcial o total de sus proveedores.
+
+e) Identidad de su domicilio fiscal; de la ubicación de sus sucursales, instalaciones, fábricas o bodegas, o bien, de los lugares de entrega o recepción de la mercancía que enajenan.
+
+f) Identidad parcial o total de los trabajadores afiliados en el Instituto Mexicano del Seguro Social.
+
+g) Identidad en las marcas, patentes, derechos de autor o avisos comerciales bajo los cuales fabrican o prestan servicios.
+
+h) Identidad en los derechos de propiedad industrial que les permiten llevar a cabo su actividad.
+
+i) Identidad parcial o total de los activos fijos, instalaciones o infraestructura que utilizan para llevar a cabo el desarrollo de sus actividades.
 
 V.- Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades en el Estado, por las que deban pagarse contribuciones hasta por el monto de dichas contribuciones.
 
@@ -571,7 +609,9 @@ VI.- Quienes ejerzan, la patria potestad o la tutela, por las contribuciones a c
 
 VII.- Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos.
 
-VIII.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria; a través de las formas o formatos que al efecto señale la Secretaría de Finanzas y Tesorería General del Estado mediante reglas de carácter general para el cumplimiento de obligaciones fiscales.
 
 IX.- Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
 
@@ -587,29 +627,49 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 Para efectos del impuesto sobre nóminas a que se refiere la Ley de Hacienda del Estado, son responsables solidarios del pago de dicho impuesto quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago de las remuneraciones se realice por conducto de terceros.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 137 Y 138.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 28.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar si procediere, su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado y dar, en su caso, los siguientes avisos:
+En materia del Registro Estatal de Contribuyentes, las personas físicas y las personas morales que deban presentar declaraciones periódicas deberán:
 
-I.- Cambio de nombre, denominación o razón social.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-II.- Cambio de domicilio.
+I.- Solicitar la inscripción en el Registro Estatal de Contribuyentes ante la Secretaría de Finanzas y Tesorería General del Estado, proporcionando la información relacionada con el domicilio fiscal, así como señalar un correo electrónico y número telefónico como medios de contacto.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-III.- Alta, cambio, suspensión o baja de obligaciones fiscales.
+II.- En su caso, dar los avisos correspondientes como son los siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+a) Cambio de nombre, denominación o razón social.
 
-IV.- Liquidación, fusión o escisión.
+b) Cambio de domicilio fiscal.
 
-V.- Cancelación en el Registro de Contribuyentes.
+c) Suspensión de actividades.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+La presentación del aviso a que se refiere este inciso libera al contribuyente de la obligación de presentar declaraciones periódicas durante la suspensión de actividades, excepto tratándose de las del ejercicio en que interrumpa sus actividades y cuando se trate de contribuciones causadas aún no cubiertas o de declaraciones correspondientes a periodos anteriores a la fecha de inicio de la suspensión de actividades.
 
-VI.- Aumento o disminución de obligaciones fiscales.
+d) Reanudación de actividades.
 
-Asimismo, presentarán aviso de cambio de la actividad preponderante o sobre la apertura o cierre de establecimientos o de locales que se utilicen como base tipo para el desempeño de sus servicios.
+e) Actualización de actividades económicas y obligaciones.
+
+f) Liquidación, fusión o escisión.
+
+g) Apertura de establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que se utilice para el desempeño de actividades.
+
+h) Cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que se utilice para el desempeño de actividades.
+
+i) Cancelación en el Registro Estatal de Contribuyentes.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Los avisos a que se refiere este artículo se deberán presentar dentro del mes siguiente a aquél en que se actualice el supuesto jurídico o el hecho que lo motive, previo a la presentación de cualquier trámite que deba realizarse ante la Secretaría de Finanzas y Tesorería General del Estado, en dicho mes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+El aviso de cambio de domicilio se presentará a partir de que el contribuyente o el retenedor establezcan su domicilio en lugar distinto al que manifestaron en el Registro Estatal de Contribuyentes o cuando deba considerarse un nuevo domicilio fiscal en los términos del artículo 11 del Código.
 
 Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión o de liquidación, de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el Registro de Contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Finanzas y Tesorería General del Estado dentro del mes siguiente a la autorización de la Escritura.
 
@@ -675,13 +735,17 @@ Cuando se inicie el ejercicio de facultades de comprobación, únicamente se pod
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del Artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 138 Y 139.]</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 33 Bis.
 
-La Administración Pública Estatal, Central y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública con proveedores que:
+Los Poderes Ejecutivo, Legislativo y Judicial del Estado; los entes autónomos, los Ayuntamientos de los Municipios del Estado y las Entidades de la Administración Pública Paraestatal, ya sean estatales o municipales, previamente a realizar la contratación de adquisiciones, arrendamientos, servicios u obra pública con personas físicas, morales o entes jurídicos, deberán solicitar la opinión de cumplimiento de obligaciones fiscales que emitirá la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Así mismo los sujetos antes señalados en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con proveedores que:
 
 I.- Tengan a su cargo créditos fiscales firmes, determinados, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
 
@@ -689,9 +753,37 @@ II.- No se encuentren inscritos en el Registro Estatal o Federal de Contribuyent
 
 III.- Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
 
-La prohibición establecida en este dispositivo no será aplicable a quienes se encuentren en el supuesto de la fracción I de este Artículo, siempre que se obtenga la autorización de las autoridades fiscales en los términos que este Código establece para cubrir los pagos a plazo, ya sea diferidos o en parcialidades.
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-Quienes se ubiquen en los supuestos de las fracciones II y III de este Artículo contarán, previo a su contratación, con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que surta efectos las (sic) notificación que realice la autoridad respecto de la irregularidad detectada.
+IV.- Estando inscritos en el Registro Estatal de Contribuyentes, se encuentren como no localizados.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+V.- Tengan sentencia condenatoria firme por algún delito fiscal. El impedimento para contratar será por un periodo igual al de la pena impuesta, a partir de que cause firmeza la sentencia.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VI.- Se encuentren en los listados a que se refieren los artículos 69-B, o 69-B Bis, del Código Fiscal de la Federación.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables en el Estado de Nuevo León, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción II, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Los sujetos establecidos en el primer párrafo de este artículo que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción II, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Quienes se ubiquen en los supuestos de la fracción I de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones II y III, contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la opinión de cumplimiento de obligaciones fiscales del subcontratante.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Los contribuyentes que requieran obtener la opinión de cumplimiento de obligaciones fiscales para realizar alguna operación comercial o de servicios, para obtener subsidios y estímulos, para realizar algún trámite fiscal estatal, así como para las contrataciones por adquisición de bienes, arrendamiento, prestación de servicio y obra pública que vayan a realizar con los sujetos señalados en el primer párrafo de este artículo, deberán hacerlo mediante el procedimiento que establezca la Secretaría de Finanzas y Tesorería General del Estado, mediante reglas de carácter general.
 
 Para estos efectos, en los contratos de adquisiciones, arrendamientos, servicios u obra pública se establecerá cláusula de retención, respecto de las contraprestaciones a favor de los contratistas o proveedores, a efecto de garantizar el pago de las contribuciones omitidas.
 
@@ -727,15 +819,21 @@ VIII.- El Director del Instituto de Control Vehicular, así como los titulares d
 
 Para el ejercicio de sus facultades, las autoridades fiscales del Estado tendrán competencia en todo el territorio del Estado de Nuevo León y tratándose de autoridades municipales en su respectiva circunscripción territorial y en su caso en los términos de los convenios de coordinación fiscal que tengan celebrados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 35.
 
-Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
+Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y a la población en general, para ello procurarán:
 
-I.- Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnisismos (sic) y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+I.- Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes. Asimismo, informar sobre las consecuencias del incumplimiento de las obligaciones fiscales, en cuanto a la imposición de multas, y causación de recargos, gastos de ejecución y otros gastos, además de informar sobre el ejercicio de las facultades de comprobación de las autoridades fiscales.
 
 II.- Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones.
 
-III.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y en su caso distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+III.- Elaborar las herramientas electrónicas, formas o formatos de declaración que puedan ser llenadas y presentadas fácilmente, para lo cual, serán difundidas y puestas a disposición de los contribuyentes con oportunidad, así como informar de las fechas y medios de presentación de todas las declaraciones.
 
 IV.- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
 
@@ -757,11 +855,33 @@ c) Comunicados para informar sobre inconsistencias detectadas o comportamientos 
 
 El envío de los documentos señalados en los incisos anteriores, no se considerará inicio de facultades de comprobación.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 36.
 
-Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por autoridad competente para ello.
+Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+La autoridad quedará obligada a aplicar los criterios contenidos en la contestación a la consulta de que se trate, siempre que se cumpla con lo siguiente:
+
+I.- Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad se pueda pronunciar al respecto.
+
+II.- Que los antecedentes y circunstancias que originen la consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
+
+III.- Que la consulta se formule antes de que la autoridad ejerza sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+La autoridad no quedará vinculada por la respuesta otorgada a las consultas realizadas por los contribuyentes cuando los términos de la consulta no coincidan con la realidad de los hechos o datos consultados o se modifique la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Las respuestas recaídas a las consultas a que se refiere este artículo no serán obligatorias para los particulares, por lo cual éstos podrán impugnar, a través de los medios de defensa establecidos en las disposiciones aplicables, las resoluciones definitivas en las cuales la autoridad aplique los criterios contenidos en dichas respuestas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Las autoridades fiscales deberán contestar las consultas que formulen los particulares en un plazo de tres meses contados a partir de la fecha de presentación de la solicitud respectiva.
 
 ###### ARTICULO 37.
 
@@ -819,7 +939,9 @@ Para la emisión y regulación de los documentos digitales, de la firma electró
 
 El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, mediante resolución podrá:
 
-I.- Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+I.- Reducir o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
 II.- Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
 
@@ -839,9 +961,15 @@ I.- Solicitar el auxilio de la fuerza pública.
 
 II.- Imponer la multa que corresponda en los términos de este Código.
 
-III.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+III.- Practicar el aseguramiento precautorio de los bienes o de la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos conforme a lo establecido en el artículo 42 Bis de este Código.
 
 IV.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+V.- Determinar la clausura provisional por tres días del establecimiento en que se desarrollan las actividades objeto de las facultades de comprobación.
 
 > <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
 
@@ -849,89 +977,105 @@ IV.- Solicitar a la autoridad competente se proceda por desobediencia a un manda
 
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
-ARTICULO 42 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 42 Bis.
 
-El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes o los responsables solidarios, a que se refiere la fracción III del artículo 42 de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
+El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, a que se refiere la fracción III del artículo 42 de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
 
 I.- Se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I y II del artículo 42 de este ordenamiento, salvo en los casos siguientes:
 
-a) Cuando no puedan iniciarse o desarrollarse las facultadas de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente; hayan desaparecido, o se ignore su domicilio.
+a) Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros con ellos relacionados no sean localizados en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente; hayan desaparecido, o se ignore su domicilio.
 
 b) Cuando las autoridades fiscales practiquen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y éstos no puedan demostrar que se encuentran inscritos en el registro estatal de contribuyentes o, en su caso, no exhiban los comprobantes que amparen la legal posesión o propiedad de las mercancías que enajenen en dichos lugares.
 
-c) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes.
+c) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes, los responsables solidarios o terceros con ellos relacionados, oculten, enajenen o dilapiden sus bienes.
 
-II.- La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos 55 y 56 de este Código.
+II.- La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos 56 y 57 de este Código.
 
-La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se notificará al contribuyente en ese acto.
+El aseguramiento precautorio de los bienes o la negociación de los terceros relacionados con el contribuyente o responsable solidario se practicará hasta por la tercera parte del monto de las operaciones, actos o actividades que dicho tercero realizó con tal contribuyente o responsable solidario, o con el que la autoridad fiscal pretenda comprobar con las solicitudes de información o requerimientos de documentación dirigidos a éstos.
+
+La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, entregando copia de la misma a la persona con quien se entienda la diligencia.
 
 III.- El aseguramiento precautorio se sujetará al orden siguiente:
 
-a) Bienes inmuebles, en este caso, el contribuyente o su representante legal deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna. Cuando la diligencia se entienda con un tercero, se deberá requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho.
+a) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
 
 b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia.
 
-c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+c) Dinero y metales preciosos.
 
-d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente.
+d) Bienes inmuebles, en este caso, el contribuyente, el responsable solidario o tercero con ellos relacionado, o en su caso, el representante legal de cualquiera de ellos, según el aseguramiento de que se trate, deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna. Cuando la diligencia se entienda con un tercero, se deberá requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho.
 
-e) Dinero y metales preciosos.
+e) Los bienes muebles no comprendidos en las fracciones anteriores.
 
-f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 cuotas, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+f) La negociación del contribuyente.
 
-g) Los bienes muebles no comprendidos en las fracciones anteriores.
+g) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
 
-h) La negociación del contribuyente.
+h) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente.
 
-Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
-
-Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
+Cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados no cuenten con alguno de los bienes a asegurar conforme al orden de prelación establecido en esta fracción; manifiesten bajo protesta de decir verdad, no contar con alguno de ellos, o bien, no acrediten la propiedad de los mismos, dicha circunstancia se asentará en el acta circunstanciada referida en el tercer párrafo de la fracción II de este artículo, en estos casos, la autoridad fiscal podrá practicar el aseguramiento sobre cualquiera de los otros bienes, atendiendo al citado orden de prelación.
 
 En el supuesto de que el valor del bien a asegurar conforme al orden establecido exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
 
-Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere el inciso f) de esta fracción.
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros con ellos relacionados no sean localizados en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso de cambio correspondiente al registro estatal de contribuyentes, hayan desaparecido o se ignore dicho domicilio, o cuando éstos hubieren sido sancionados en dos o más ocasiones por la comisión de alguna de las infracciones a que se refiere la fracción I del artículo 85 de este Código, el aseguramiento se practicará sobre los bienes a que se refiere el inciso a) de esta fracción.
 
-Tratándose de las visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública a que se refiere el inciso b) de la fracción I de este artículo, el aseguramiento se practicará sobre las mercancías que se enajenen en dichos lugares, sin que sea necesario establecer un monto de la determinación provisional de adeudos fiscales presuntos.
+En los casos a que se refiere el párrafo anterior, cuando el contribuyente, el responsable solidario o el tercero con ellos relacionado, no cuente con los bienes a que se refiere el inciso a) de esta fracción, el aseguramiento precautorio se podrá practicar indistintamente sobre cualquiera de los bienes señalados en la misma, sin necesidad de agotar el orden de prelación establecido.
 
-IV.- El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III de este artículo, se realizará conforme a lo siguiente:
+Tratándose de los supuestos a que se refieren el inciso b) de la fracción I de este artículo, el aseguramiento se practicará sobre las mercancías que se enajenen en dichos lugares, sin que sea necesario establecer un monto de la determinación provisional de adeudos fiscales presuntos.
 
-La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la institución de crédito, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
+En los casos a que se refiere el párrafo anterior, se levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se entregará a la persona con quien se entienda la visita.
 
-Cuando la solicitud de aseguramiento se realice a través de las comisiones señaladas en el párrafo anterior, estas contarán con un plazo de tres días para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que practique el aseguramiento precautorio.
+IV.- El aseguramiento de los bienes a que se refiere el inciso a) de la fracción III de este artículo, se realizará conforme a lo siguiente:
 
-La institución de crédito, la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, contará con un plazo de tres días contado a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para practicar el aseguramiento precautorio.
+La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
 
-Una vez practicado el aseguramiento precautorio, la institución de crédito, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, deberá informar a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a aquel en que lo haya realizado, las cantidades aseguradas en una o más cuentas o contratos del contribuyente, responsable solidario o tercero relacionado con ellos.
+Cuando la solicitud de aseguramiento se realice a través de las comisiones señaladas en el párrafo anterior, éstas contarán con un plazo de tres días para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que practique el aseguramiento precautorio.
 
-En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno.
+La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, contará con un plazo de tres días contado a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para practicar el aseguramiento precautorio.
 
-Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
+La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, deberá informar a la comisión de que se trate, o bien, a la autoridad fiscal que ordenó la medida, que practicó el aseguramiento precautorio de los bienes a que se refiere el inciso a) de la fracción III de este artículo, a más tardar al tercer día siguiente a aquél en que lo haya realizado, informando el monto de las cantidades aseguradas al contribuyente, responsable solidario o tercero con ellos relacionado, así como el número de las cuentas o contratos sobre los que se haya practicado dicho aseguramiento.
 
-V.- La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
+En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
 
-VI.- Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 148 de este Código, salvo lo indicado en su segundo párrafo.
+En los casos en que la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda haya informado a la comisión de que se trate que llevó a cabo el citado aseguramiento precautorio, dicha comisión contará con un plazo de tres días para proporcionar a la autoridad fiscal que ordenó la medida, la información relativa al nombre, razón, o denominación social de la entidad financiera o sociedad cooperativa de ahorro y préstamo que lo haya practicado, al monto de las cantidades aseguradas al contribuyente, responsable solidario o tercero con ellos relacionado, así como al número de las cuentas o de los contratos sobre los que se haya practicado dicho aseguramiento. El plazo de tres días a que se refiere este párrafo se contará a partir de la fecha en que la comisión de que se trate haya recibido dicha información por parte de la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
+
+Las entidades financieras y las sociedades cooperativas de ahorro y préstamo en ningún caso podrán negar al contribuyente la información acerca de la autoridad fiscal que ordenó el aseguramiento.
+
+V.- Los bienes o la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, quedan asegurados desde el momento en que se practique el aseguramiento precautorio, incluso cuando posteriormente se ordenen, anoten o inscriban ante otras instituciones, organismos, registros o terceros.
+
+VI.- La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado que se llevó a cabo el aseguramiento precautorio de sus bienes o negociación, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación a que se refiere esta fracción, deberá efectuarse en términos de lo dispuesto en el artículo 133 de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya llevado a cabo.
+
+En el caso de los bienes a que se refiere el inciso a) de la fracción III de este artículo, el plazo para notificar el aseguramiento al contribuyente, responsable solidario o tercero con ellos relacionado, se computará a partir de la fecha en que la comisión de que se trate, o bien, la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, hayan proporcionado a la autoridad fiscal la información a que se refieren los párrafos quinto y séptimo de la fracción IV de este artículo.
+
+VII.- Los bienes asegurados precautoriamente podrán, desde el momento en que se designen como tales en la diligencia por la que se practique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 148 de este Código, salvo lo indicado en su segundo párrafo.
 
 El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
 
-Lo establecido en esta fracción no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren los incisos e) y f) de la fracción III de este artículo, así como sobre las mercancías que se enajenen en los locales, puestos fijos o semifijos en la vía pública, cuando el contribuyente visitado no demuestre estar inscrito en el registro estatal de contribuyentes, o bien, no exhiba los comprobantes que amparen la legal posesión o propiedad de dichas mercancías.
+Lo establecido en esta fracción no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren los incisos b), de la fracción I, y a) y c) de la fracción III de este artículo.
 
-VII.- Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
+VIII.- Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
 
-En el caso de que se hayan asegurado los bienes a que se refiere el inciso f) de la fracción III de este artículo, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
+La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado, que se llevó a cabo el levantamiento del aseguramiento precautorio de sus bienes o negociación, en términos de lo dispuesto en el artículo 133 de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya levantado.
 
-La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la institución de crédito, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de esta fracción.
+En el caso de que se hayan asegurado los bienes a que se refiere el inciso a) de la fracción III de este artículo, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
+
+La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de esta fracción.
 
 Cuando la solicitud de levantamiento del aseguramiento se realice a través de las comisiones señaladas en el párrafo anterior, estas contarán con un plazo de tres días a partir de que surta efectos la notificación a las mismas, para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que levante el aseguramiento precautorio.
 
-La institución de crédito, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, contará con un plazo de tres días a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión que corresponda, o bien de la autoridad fiscal, según sea el caso, para levantar el aseguramiento precautorio.
+La entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, contará con un plazo de tres días a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión que corresponda, o bien de la autoridad fiscal, según sea el caso, para levantar el aseguramiento precautorio.
 
-Una vez levantado el aseguramiento precautorio, la institución de crédito, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate deberá informar del cumplimiento de dicha medida a la autoridad fiscal que ordenó el levantamiento, a más tardar al tercer día siguiente a aquel en que lo haya realizado.
+La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda deberá informar del cumplimiento de dicha medida a la comisión de que se trate, o bien, a la autoridad fiscal que ordenó levantar el aseguramiento precautorio de los bienes a que se refiere el inciso a) de la fracción III de este artículo, a más tardar al tercer día siguiente a aquél en que lo haya realizado.
+
+En los casos en que la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda haya informado a la comisión de que se trate que llevó a cabo el levantamiento del aseguramiento precautorio, dicha comisión contará con un plazo de tres días para informar a la autoridad fiscal sobre tal situación. El plazo de tres días a que se refiere este párrafo se contará a partir de la fecha en que la comisión de que se trate haya recibido dicha información por parte de la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
+
+El plazo para notificar el levantamiento del aseguramiento de los bienes a que se refiere el inciso a) de la fracción III de este artículo, al contribuyente, responsable solidario o tercero con ellos relacionado, se computará a partir de la fecha en que la comisión de que se trate, o bien, la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, hayan informado a la autoridad fiscal sobre el levantamiento del aseguramiento precautorio.
 
 Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente, observando para ello lo dispuesto en los párrafos que anteceden.
 
-Tratándose de los supuestos establecidos en el inciso b) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro estatal de contribuyentes o se acredite la legal posesión o propiedad de la mercancía, según sea el caso.
+Tratándose de los supuestos establecidos en el inciso b) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro estatal de contribuyentes o se acredite la legal posesión o propiedad de la mercancía.
 
 Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
@@ -953,6 +1097,14 @@ III.- Imponer la multa que corresponda en los términos de este código y requer
 
 En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 43 Bis.
+
+Las autoridades fiscales podrán requerir a las autoridades de los distintos órdenes de gobierno, órganos constitucionalmente autónomos y demás autoridades, les proporcionen la información y documentación necesaria para el cumplimiento de sus atribuciones, quienes deberán atender los requerimientos que se les formulen dentro de los plazos que al efecto se les establezcan.
+
+En caso de no atender los requerimientos, las autoridades fiscales podrán emplear como medida de apremio una multa de 10 a 1000 cuotas, por cada requerimiento no atendido, y solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
+
 ###### ARTICULO 44.
 
 La Secretaría de Finanzas y Tesorería General del Estado a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
@@ -971,11 +1123,51 @@ V.- Practicar u ordenar se practique avalúo o verificación física de toda cla
 
 VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
-VII.- Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas y Tesorería General del Estado tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la propia Secretaría, a través de los abogados que designe, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VIII.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
+VII.- Allegarse de los datos de prueba necesarios para formular la denuncia, querella o declaratoria al Ministerio Público del Estado o de la Federación en el ámbito de su competencia para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas y Tesorería General del Estado tendrán el mismo valor probatorio que la ley relativa concede a las actas de la policía en funciones de investigación; y la propia Secretaría, a través de los abogados que designe como Asesores Jurídicos, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado o del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 44 Bis.
+
+Las revisiones electrónicas a que se refiere el artículo 44, fracción VIII, se realizarán conforme a lo siguiente:
+
+a) Con base en la información y documentación que obre en su poder, las autoridades fiscales darán a conocer al contribuyente, responsable solidario o tercero relacionado con ellos, los hechos o actos que deriven en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional, la cual, en su caso, podrá acompañarse de un oficio de preliquidación, cuando los hechos o actos consignados sugieran el pago de algún crédito fiscal.
+
+En dicha resolución, se le requerirá para que en un plazo de diez días siguientes a partir de la notificación que se realice a través del buzón tributario, manifieste lo que a su derecho convenga y proporcione la información y documentación tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones consignadas en la misma.
+
+En caso de que el contribuyente no aporte pruebas, ni manifieste lo que a su derecho convenga para desvirtuar los hechos u omisiones dentro del plazo establecido, la resolución provisional y, en su caso, el oficio de preliquidación que se haya acompañado, se volverán definitivos y las cantidades determinadas en el oficio de preliquidación se harán efectivas mediante el procedimiento administrativo de ejecución.
+
+En caso de que el contribuyente acepte los hechos e irregularidades contenidos en la resolución provisional y el oficio de preliquidación, podrá optar por corregir su situación fiscal dentro del plazo señalado en el párrafo segundo de este numeral, mediante el pago total de las contribuciones omitidas actualizadas y sus accesorios, en los términos contenidos en el oficio de preliquidación, con el beneficio de la reducción total de las multas en que hubiere incurrido por infracciones a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente.
+
+b) Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, responsable solidario o tercero relacionado, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, contará con diez días siguientes a aquél en que recibió la información para efectuar un segundo requerimiento, el cual deberá ser atendido dentro del plazo de diez días siguientes a la notificación respectiva, o bien, podrá solicitar información y documentación a un tercero o a las autoridades relacionadas para que en igual plazo la proporcionen.
+
+La información y documentación que aporte el tercero o las autoridades fiscales o administrativas requeridas, deberá darse a conocer al contribuyente, dentro de los diez días siguientes a aquél en que la hayan aportado; hecho lo anterior, el contribuyente contará con un plazo de diez días siguientes a la notificación de la información adicional, para manifestar lo que a su derecho convenga.
+
+Concluidos los plazos otorgados al contribuyente para hacer valer lo que a su derecho convenga, se tendrá por perdido el derecho para realizarlo.
+
+La revisión electrónica deberá concluirse dentro de un plazo máximo de seis meses contados a partir del día siguiente a la notificación de la resolución provisional, con la resolución que emita la autoridad fiscal.
+
+Los actos y resoluciones administrativas, así como las promociones de los contribuyentes a que se refiere esta fracción, se notificarán y presentarán en documentos digitales a través del buzón tributario.
+
+El plazo máximo de seis meses para concluir el procedimiento descrito en la presente fracción, se suspenderá en los casos siguientes:
+
+a) Cuando el contribuyente interponga algún medio de defensa en contra de la resolución provisional o en contra de cualquier acto derivado de esta, hasta que se dicte resolución definitiva de los mismos.
+
+b) Cuando las autoridades o los terceros, a los cuales se les solicite diversa información y/o documentación, en su caso, no atiendan el requerimiento respectivo durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de un mes.
+
+c) Cuando se suspendan temporalmente las actividades laborales por notificación formal de huelga y hasta que se declare legalmente concluida esta.
+
+d) Cuando fallezca el contribuyente, hasta en tanto se designe al representante de la sucesión.
+
+e) Cuando la autoridad se vea impedida para continuar el procedimiento descrito en la presente fracción, por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial del Estado y en el portal de Internet establecido al efecto por las autoridades fiscales.
 
 ###### ARTICULO 45.
 
@@ -1060,6 +1252,10 @@ III.- Durante el desarrollo de la visita los visitadores a fin de asegurar la co
 IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
 
 Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los plazos establecidos en el párrafo anterior para desvirtuar los hechos u omisiones mencionados en la última acta parcial. La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones.
 
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad.
 
@@ -1315,11 +1511,11 @@ III.- Señalen el nombre o domicilio de un tercero, real o ficticio, si se compr
 
 IV.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 63.
 
-Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en la documentación o expedientes o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Tesorería General del Estado y de cualquier autoridad u organismo descentralizado que sea competente en materia de contribuciones de carácter estatal.
+Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, en las leyes fiscales, o en el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado, o bien, que consten en la documentación o expedientes o base de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Tesorería General del Estado y de cualquier autoridad u organismo descentralizado que sea competente en materia de contribuciones de carácter estatal, o para la investigación de hechos presumiblemente ilícitos.
 
 Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
@@ -1361,11 +1557,11 @@ No se impondrán multas por omisión en el pago de contribuciones, cuando éstas
 
 Lo establecido en este Artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 65.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación. Lo anterior, independientemente de que se trate de créditos determinados y notificados por autoridades distintas a las autoridades fiscales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1382,6 +1578,10 @@ I.- Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que
 II.- El contribuyente sea declarado en quiebra, concurso, suspensión o solicite su liquidación judicial.
 
 III.- El contribuyente no pague alguna de las parcialidades, con sus recargos, a más tardar dentro de los quince días siguientes a aquel en que vence la parcialidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+En caso de que la solicitud de pago a plazo resulte improcedente, el crédito será exigible conforme a lo dispuesto en el artículo 146, quinto párrafo, de este Código.
 
 ###### ARTICULO 67.
 
@@ -1453,17 +1653,15 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 74.
 
-La Secretaría de Finanzas y Tesorería General del Estado, podrá condonar total o parcialmente las multas por infracción a las disposiciones fiscales o administrativas no fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría de Finanzas y Tesorería General del Estado establecerá, mediante reglas de carácter general, los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
+La Secretaría de Finanzas y Tesorería General del Estado, podrá reducir total o parcialmente las multas por infracción a las disposiciones fiscales o administrativas no fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría de Finanzas y Tesorería General del Estado podrá mediante reglas de carácter general, establecer los requisitos y supuestos por los cuales procederá la reducción, así como la forma y plazos para el pago de la parte no reducida.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+La solicitud de reducción de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Tesorería General del Estado al respecto no podrán ser impugnadas por los medios de defensa que establece este Código y en todo caso se podrá autorizar la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
-La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Tesorería General del Estado al respecto no podrán ser impugnadas por los medios de defensa que establece este Código y en todo caso se podrá autorizar la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
-
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+Sólo procederá la reducción de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
 ###### ARTICULO 75.
 
@@ -1545,21 +1743,57 @@ II.- No presentar los avisos al registro o hacerlo extemporáneamente.
 
 III.- No presentar las solicitudes de empadronamiento, presentarlas extemporáneamente, no efectuar el refrendo de sus actividades, así como iniciar actividades sin haber solicitado y obtenido la autorización correspondiente cuando las Leyes Fiscales así lo estipulen, en caso de establecimientos por cuya inscripción y refrendo deban pagarse derechos, aún cuando los derechos correspondientes se encuentren suspendidos.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+IV.- No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la Ley.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+V.- Señalar como domicilio fiscal para efectos del Registro Estatal de Contribuyentes, un lugar distinto del que corresponda conforme al artículo 11.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VI.- No atender los requerimientos realizados por la autoridad fiscal, en el plazo concedido, respecto de corroborar la autenticidad, la validación o envío de instrumentos notariales para efectos de la inscripción o actualización en el Registro Estatal de Contribuyentes, conforme al artículo 28 de este Código.
+
 ###### ARTICULO 80.
 
 A quien cometa las infracciones relacionadas con el registro estatal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-I.- De 8.5 cuotas a la comprendida en la fracción I.
+I.- De 39 a 116 cuotas, a las comprendidas en las fracciones I y II.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-II.- De 4.5 cuotas a la comprendida en la fracción II.
+II.- Para la señalada en la fracción III de 10 a 23 cuotas.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-III.- De 1 a 3 tantos de los derechos a cubrir, a la comprendida en la fracción III.
+III.- De 47 a 94 cuotas, a la comprendida en la fracción IV, tratándose de personas morales y de 16 a 31 cuotas, tratándose de personas físicas.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+IV.- Para la señalada en la fracción V:
+
+a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y 82 cuotas. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de 33 cuotas ni mayor de 82 cuotas.
+
+b) De 10 a 23 cuotas, en los demás documentos.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+V.- De 193 a 386 cuotas, a las comprendidas en la fracción VI.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 80 Bis.
+
+Se considera infracción en la que pueden incurrir los contribuyentes conforme lo previsto en el artículo 18 Bis-1 de este Código, el no habilitar el buzón tributario, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTICULO 80 Bis
+
+1.- A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 80 Bis, se impondrá una multa de 34 a 103 cuotas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1681,11 +1915,11 @@ I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar
 
 II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-###### Artículo 86.
+###### ARTICULO 86.
 
-Se impondrá una multa de 41 a 82 cuotas a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el Artículo 85.
+Se impondrá una multa de 168 a 336 cuotas a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el Artículo 85.
 
 ###### ARTICULO 87.
 
@@ -1729,19 +1963,21 @@ La infracción en cualquier forma a las disposiciones fiscales, diversa a las pr
 
 ### CAPITULO II. De los Delitos Fiscales
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 92.
 
-Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, formule querella tratándose de los delitos previstos en los artículos 102, 103, 104, 105, 106 y demuestre que el fisco sufrió o se le pudo producir perjuicio económico. En los demás casos, bastará la denuncia de los hechos ante el Ministerio Público del Estado.
+Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente el Secretario de Finanzas y Tesorero General del Estado o el funcionario competente, así como la Tesorería Municipal en su respectivo ámbito de competencia, formule querella tratándose de los delitos previstos en los artículos 102, 103, 104, 105, 106 y declare que el fisco sufrió o se le pudo producir perjuicio económico independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado. En los demás casos, bastará la denuncia de los hechos ante el Ministerio Público del Estado o ante el Ministerio Público de la Federación en el ámbito de su competencia. Los abogados de la Secretaría de Finanzas y Tesorería General del Estado o de la Tesorería Municipal podrán actuar como Asesores jurídicos dentro de dichos procedimientos.
 
-Los procesos por los delitos fiscales a que se refieren los artículos invocados en este precepto, se sobreseerán a petición del Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Estado formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+En los procesos por los delitos fiscales a que se refieren los artículos invocados en este precepto, el Secretario de Finanzas y Tesorero General del Estado o el funcionario competente, así como la Tesorería Municipal en su respectivo ámbito de competencia, podrá participar como parte ofendida en cualquiera de las soluciones alternas y formas de terminación anticipada de un procedimiento penal bajo las normas y condiciones que para tal efecto contempla el Código Nacional de Procedimientos Penales, cuando él o los imputados o procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría, siempre que sea la primera ocasión en que se vean involucrados por éste tipo de ilícitos. La participación anterior en el procedimiento penal se hará discrecionalmente, antes de que el Ministerio Público del Estado o de la Federación formule conclusiones o se emita el alegato de clausura por parte del Ministerio Público y el Asesor Jurídico ante la Autoridad Judicial que corresponda y surtirá efectos respecto de las personas a que la misma se refiera.
 
-En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, hará la cuantificación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público en el Estado formule conclusiones. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
+En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, el Secretario de Finanzas y Tesorero General del Estado o el funcionario competente, así como la Tesorería Municipal en su respectivo ámbito de competencia, con el fin de formular ante el Ministerio Público el requisito de procedibilidad que corresponda, podrá allegarse de los datos de prueba necesarios para documentar hechos probablemente constitutivos de delitos fiscales, así como hará la cuantificación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público del Estado o de la Federación formule conclusiones o se emita el alegato de clausura por parte del Ministerio Público y el Asesor Jurídico ante la Autoridad Judicial que corresponda. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 93.
 
-Cuando una autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este Código y sea perseguible de oficio, de inmediato lo hará del conocimiento del ministerio público en el Estado para los efectos legales que procedan, aportándole las actuaciones y pruebas que se hubiere allegado.
+Cuando una autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este código y sea perseguible de oficio, de inmediato lo hará del conocimiento del Ministerio Público del Estado o de la Federación según corresponda, para los efectos legales que procedan, aportándole las actuaciones y datos de prueba que se hubiere allegado.
 
 ###### ARTICULO 94.
 
@@ -1763,6 +1999,14 @@ V.- Ayuden dolosamente a otro para su comisión.
 
 VI.- Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VII.- Tengan la calidad de garante derivada de una disposición jurídica, de un contrato o de los estatutos sociales, en los delitos de omisión con resultado material por tener la obligación de evitar el resultado típico.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Derivado de un contrato o convenio que implique desarrollo de la actividad independiente, propongan, establezcan o lleven a cabo por sí o por interpósita persona, actos, operaciones o prácticas, de cuya ejecución directamente derive la comisión de un delito fiscal.
+
 ###### ARTICULO 96.
 
 Es responsable de encubrimiento en los delitos fiscales, quien, sin previo acuerdo y sin haber participado en él, después de la ejecución del delito:
@@ -1776,6 +2020,14 @@ El encubrimiento a que se refiere este artículo se sancionará con prisión de 
 ###### ARTICULO 97.
 
 Si un funcionario o empleado público comete o en cualquier forma participa en la comisión de un delito fiscal, la pena aplicable por el delito que resulte se aumentará de tres meses a tres años de prisión.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Se impondrá sanción de uno a seis años de prisión, a los servidores públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Se impondrá sanción de uno a seis años de prisión, al servidor público que revele a terceros la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
 ###### ARTICULO 98.
 
@@ -1803,19 +2055,35 @@ Para que proceda la condena condicional cuando se incurra en delitos fiscales, a
 
 Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales o definitivos o el impuesto del ejercicio en los términos de las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+El delito de defraudación fiscal y el delito previsto en el artículo 431 del Código Penal del Estado, se podrán perseguir simultáneamente. Se presume cometido el delito de defraudación fiscal cuando existan ingresos o recursos que provengan de operaciones con recursos de procedencia ilícita.
+
 El delito de defraudación fiscal se sancionará con prisión de uno a seis meses si el monto de lo defraudado no excede de $500,000.00; cuando exceda de esta cantidad la pena será de seis meses a tres años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a tres años de prisión.
 
 No se formulará querella si quien hubiere omitido el pago de la contribución u obtenido el beneficio indebido conforme a este artículo, lo entera con sus accesorios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 103.
 
-Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
+Se equipará y será sancionado con las mismas penas del delito de defraudación fiscal, quien:
 
 I.- Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
 
 II.- Se beneficie sin derecho de un subsidio o estímulo fiscal.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+III.- Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en el Registro de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado, después de la notificación de la orden de visita domiciliaria o del requerimiento de la contabilidad, documentación o información, de conformidad con la fracción II del artículo 44 de este Código, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente tenga la obligación de presentar dicho aviso, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación.
+
+Para los efectos de esta fracción, se entiende que el contribuyente desaparece del local en donde tiene su domicilio fiscal cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un periodo de doce meses y no pueda practicar la diligencia en términos de este Código.
 
 ###### ARTICULO 104.
 
@@ -2149,11 +2417,29 @@ ARTICULO 132 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 Las notificaciones de los actos administrativos se harán:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-I.- Personalmente, por correo certificado, o por medios electrónicos mediante documentos digitales y con la firma electrónica avanzada, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+I.- Por buzón tributario, personalmente o por correo certificado, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-Las notificaciones efectuadas mediante documentos digitales se harán por medios electrónicos y con la firma electrónica avanzada, en los términos que establece la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado.
+La notificación electrónica de documentos digitales se realizará en el buzón tributario conforme lo dispuesto en la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado.
+
+El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado.
+
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
+
+Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo designado por éste en términos del tercer párrafo del artículo que corresponda a la creación del Buzón Tributario.
+
+Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+
+El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario del documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
+
+Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado.
 
 II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
@@ -2195,11 +2481,11 @@ El citatorio a que se refiere este artículo será siempre para la espera antes 
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 137.
 
-Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación, o bien se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro del acto de autoridad que se pretenda notificar y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado y publicado el documento.
+Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación, o bien se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro del acto de autoridad que se pretenda notificar y que se fijará durante diez días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. En estos casos se tendrá como fecha de notificación la del decimoprimer día, contado a partir del siguiente a aquél en que se hubiera fijado el documento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -2365,9 +2651,9 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidas en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, o por tener por no presentada la solicitud de pago a plazos, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -3362,3 +3648,21 @@ El presente Decreto entrará en vigor el 1° de enero del año 2021.
 ###### ARTÍCULO SEGUNDO.
 
 A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 040. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 01 de enero del año 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un plazo de un año a partir de la entrada en vigor del presente Decreto para que la Secretaría de Finanzas y Tesorería General del Estado implemente el Buzón Tributario y expida las reglas de carácter general relativas al funcionamiento del mismo, atendiendo a las posibilidades presupuestales.
+
+Hasta en tanto no se implemente el buzón tributario, todas las notificaciones, promociones y demás actuaciones, trámites, actos y resoluciones, se continuarán realizando en los términos previstos en el Código Fiscal del Estado vigente al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se concede un plazo de 6 meses a partir de la entrada en vigor del presente Decreto para que la Secretaría de Finanzas y Tesorería General del Estado expida las reglas de carácter general relativas a la emisión de la opinión de cumplimiento de obligaciones fiscales a que se refiere el artículo 33 Bis.
