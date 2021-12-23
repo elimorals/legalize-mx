@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2021-12-09"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -4251,6 +4251,10 @@ I. Si el objeto de fraccionar o dividir un lote se hace en consecuencia de adjud
 
 II. Cuando se trate de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado, o entre cónyuges, concubinos y hermanos.
 
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 416.
 
 A quien promueva, induzca, aliente o permita la formación o constitución de asentamientos humanos irregulares, integrados por dos o más familias, que impliquen peticiones respecto de su regularización o causen un perjuicio público por sí o por interpósita persona, o bien, cuando contando con las licencias, autorizaciones o permisos respectivos, incumpla con los términos en que fueron otorgados, se hará acreedor a la pena dispuesta por el artículo 413 de este Código.
@@ -4386,6 +4390,56 @@ No se considerarán para efectos del presente capitulo, como actos de crueldad o
 ###### ARTÍCULO 425.
 
 Comete el delito de violencia política contra las mujeres, aquella persona que por medio de acciones u omisiones y basado en elementos de género y realizadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, se le impondrá de dos a seis años de prisión y de cincuenta a trescientos días multa.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO VIGÉSIMO CUARTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 426.
+
+Se impondrá de cinco a quince años de prisión y multa de mil a cinco mil Unidades de Medida y Actualización al que, por sí o por interpósita persona, realice cualquiera de las siguientes conductas:
+
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, altere, dé en garantía, traspase, transporte o transfiera dentro del territorio estatal, recursos, derechos, valores o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita;
+
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos, valores o bienes de procedencia ilícita.
+
+En la realización de estas conductas el sujeto activo deberá tener conocimiento de que los recursos, derechos, valores o bienes, proceden o representan el producto de una actividad ilícita, y
+
+III. Para efectos de lo dispuesto en este artículo, se entenderá que una persona tiene conocimiento de que los recursos, derechos, valores o bienes, proceden o representan el producto de una actividad ilícita cuando:
+
+a) Existan los medios para conocer o prever que los recursos, derechos o bienes proceden o representan el producto de una actividad ilícita o de un acto de participación en ella, basado en las circunstancias del bien, de la operación o de los sujetos involucrados y elementos objetivos acreditables en el caso concreto y no los agota pudiendo hacerlo, o
+
+b) Se realicen actos u operaciones a nombre de un tercero, sin el consentimiento de éste o sin título jurídico que lo justifique, de manera que no se actualice la gestión de negocios en términos de la legislación civil aplicable.
+
+Cuando la autoridad competente en el ejercicio de sus facultades, encuentren elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá ejercer respecto de los mismos las facultades de comprobación que le confieran las leyes y denunciar los hechos que probablemente puedan constituir un delito.
+
+Las penas previstas en el párrafo primero del presente artículo, serán aumentadas desde un tercio hasta en una mitad cuando el delito se cometa por servidores públicos o las realice dentro de un año siguiente de haberse separado del cargo; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
+
+Cuando la persona que realiza los actos jurídicos, con alguno de los resultados mencionados en el párrafo primero, revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en dos terceras partes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 427.
+
+Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos, valores o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que proceden directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito o no pueda acreditarse su legítima procedencia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 428.
+
+Se impondrá de tres a diez años de prisión y multa de ochocientas a dos mil seiscientas Unidades de Medida y Actualización, a quien ponga a nombre de terceros recursos, derechos, valores o bienes de procedencia ilícita para llevar a cabo la ocultación de éstos; aun cuando los terceros no tengan conocimiento de la procedencia ilícita de los recursos, derechos, valores o bienes.
+
+La misma sanción prevista en el párrafo anterior se impondrá a quien permita que se pongan bajo su nombre recursos, derechos, valores o bienes que procedan o representen el producto de una actividad ilícita.
+
+Las penas previstas en el párrafo primero del presente artículo serán aumentadas desde un tercio hasta en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 429.
+
+Se sancionará con prisión de tres a diez años y multa de mil a cinco mil Unidades de Medida y Actualización, a quien auxilie, colabore o asesore profesional o técnicamente a otros para la realización de cualquiera de las conductas previstas en este Capítulo.
 
 TRANSITORIOS:
 
@@ -4634,3 +4688,9 @@ P.O. 9 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD; AGRAVANTE DEL DELITO DE FEMINICIDIO, Y DE COMBATE A LOS CRÍMENES DE ODIO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
