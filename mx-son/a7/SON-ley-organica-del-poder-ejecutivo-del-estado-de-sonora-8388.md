@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2021-06-14"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 14 DE JUNIO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -2693,9 +2691,11 @@ B.O. 16 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 183, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
 
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor un año después del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+El presente Decreto entrará en vigor el día 01 de enero de 2022, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2716,3 +2716,11 @@ B.O. 4 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 13, QUE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 183, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 21 SECC. IV, DE FECHA 16 DE MARZO DE 2021”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
