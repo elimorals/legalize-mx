@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-101805"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-21"
-last_updated: "2021-10-08"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -119,9 +117,9 @@ VI. Los titulares de las dependencias encargadas de las finanzas públicas de lo
 
 VII. El Director de Ingresos o el titular de la unidad administrativa encargada de la recaudación de los ingresos, así como los funcionarios que mediante acuerdo autorice el titular de la dependencia encargada de las finanzas públicas municipales; y
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VIII. Las demás que la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y el Reglamento Interior de la Secretaría de Finanzas señalen.
+VIII. Las demás que la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y el Reglamento Interior de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro señalen.
 
 Las autoridades señaladas en este artículo, se considerarán autoridades fiscales estatales o municipales en el ejercicio de las facultades que se establezcan en los convenios que celebren el Estado y los Municipios, y sólo procederán los recursos y medios de defensa que establecen las leyes fiscales correspondientes.
 
@@ -153,7 +151,9 @@ a) Cuando se realicen actividades empresariales, el local en el que se encuentre
 
 b) Cuando no realicen las actividades señaladas en el inciso anterior, el local que utilicen para el desempeño de sus actividades.
 
-c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación o a través de los medios digitales autorizados por la autoridad fiscal, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción;
 
 II. En el caso de personas morales, el local en donde se encuentre la administración principal del negocio o, en su defecto, el que designe;
 
@@ -168,6 +168,10 @@ Siempre que los contribuyentes no hayan manifestado alguno de los domicilios cit
 Las autoridades fiscales podrán practicar diligencias en el lugar que se hubiere designado como domicilio fiscal y, en su caso, en el que conforme a este artículo se considere domicilio fiscal del contribuyente.
 
 Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello o hubieran designado como tal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Las autoridades fiscales, en la verificación de la existencia y localización del domicilio fiscal, podrán utilizar servicios, medios tecnológicos o cualquier otra herramienta tecnológica que proporcionen georreferenciación, vistas panorámicas o satelitales, cuya información también podrá ser utilizada para la elaboración y diseño de un marco geográfico fiscal.
 
 ###### Artículo 12.
 
@@ -192,6 +196,12 @@ No obstante lo dispuesto en los párrafos anteriores, si el último día del pla
 Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
 
 Las oficinas a que se refiere el párrafo primero, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones. Únicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, el número de registro de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmadas, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos, en este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 13 Bis.
+
+Para los casos señalados en los artículos 12 y 13 de este Código, se regirán conforme al horario de la Zona Centro de México, de conformidad con la Ley del Sistema de Horario en los Estados Unidos Mexicanos y el Decreto por el que se establece el Horario Estacional que se aplicará en los Estados Unidos Mexicanos, a través de la utilización de herramientas electrónicas que permitan el desarrollo de los procedimientos conforme a la normativa expresa para aquellos casos.
 
 ###### Artículo 14.
 
@@ -439,9 +449,11 @@ A falta de disposición expresa, el cumplimiento de obligaciones fiscales distin
 
 #### Sección Primera. Del Pago
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 35.
 
-Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas, dentro del plazo que a continuación se indica:
+Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse mediante declaración que se presentará ante las oficinas o medios electrónicos autorizados, dentro del plazo que a continuación se indica:
 
 I. Si la contribución se calcula por períodos establecidos en ley y en los casos de retención o de recaudación de contribuciones, los contribuyentes, retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 20 del mes de calendario inmediato posterior al de terminación del período de la retención o de la recaudación, respectivamente; y
 
@@ -475,11 +487,15 @@ I. El efectivo;
 
 II. Los cheques certificados o de caja;
 
-III. Los cheques de cuentas personales de los contribuyentes, siempre que cumplan con los requisitos que establezcan las autoridades fiscales mediante resoluciones de carácter general y se expidan a favor del Gobierno del Estado de Querétaro o del municipio que corresponda;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-IV. Los medios y las transferencias electrónicas de fondos a favor del Gobierno del Estado de Querétaro o del municipio que corresponda.
+III. Los cheques de cuentas personales de los contribuyentes, siempre que cumplan con los requisitos que establezcan las autoridades fiscales mediante resoluciones de carácter general y se expidan a favor del Poder Ejecutivo del Estado de Querétaro o del municipio que corresponda;
 
-Se entiende por transferencia electrónica de fondos, el pago de las contribuciones y aprovechamientos que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de Gobierno del Estado de Querétaro o del municipio de que se trate, se realiza por las instituciones de crédito, en forma electrónica, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+IV. Los medios y las transferencias electrónicas de fondos a favor del Poder Ejecutivo del Estado de Querétaro o del municipio que corresponda.
+
+Se entiende por transferencia electrónica de fondos, el pago de las contribuciones y aprovechamientos que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del Poder Ejecutivo del Estado de Querétaro o del municipio de que se trate, se realiza por las instituciones de crédito, en forma electrónica, y
 
 V. Las tarjetas de crédito y débito.
 
@@ -609,7 +625,9 @@ La prescripción en favor del fisco del Estado a que se refiere el artículo 60,
 
 Las autoridades fiscales, podrán cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 2,000 unidades de inversión, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75 por ciento del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -649,7 +667,31 @@ Las resoluciones que se dicten con motivo de solicitudes para condonación parci
 
 Sólo procederá la condonación en los términos de este artículo, cuando las multas hayan quedado firmes y siempre y cuando los actos administrativos conexos a éstas no sean materia de impugnación.
 
-#### Sección Primera. Disposiciones Generales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+#### Sección Quinta. De los Medios Digitales
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 51 Bis.
+
+Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener la firma electrónica del autor regulada conforme a la Ley Estatal en la materia, salvo los casos que establezcan una regla diferente.
+
+Para los efectos mencionados en el párrafo anterior, se deberá contar con un certificado que confirme el vínculo entre un firmante y los datos de creación de una firma electrónica, conforme a las disposiciones que para tal efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 51 Bis
+
+1. En los documentos electrónicos, una firma electrónica amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 51 Bis
+
+2. Para la generación de la Firma Electrónica Avanzada, los contribuyentes realizarán el trámite respetivo ante la Unidad de Firma Electrónica, de conformidad con lo establecido en la Ley Estatal de la materia.
+
+Las autoridades fiscales, mediante reglas de carácter general y de conformidad con las disposiciones e instrumentos jurídicos aplicables, podrán autorizar el uso de otras firmas electrónicas cuyos servicios sean administrados por autoridades certificadoras diversas.
 
 ## Título Tercero. De los Derechos y Obligaciones de los Contribuyentes
 
@@ -696,6 +738,12 @@ II. Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultad
 III. Señalar todos los hechos y circunstancias relacionados con la promoción, así como acompañar los documentos e información que los acrediten.
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, se estará a lo dispuesto en el último párrafo del artículo 52 de este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 52 Ter.
+
+En el caso de promociones, instancias, consultas y peticiones que de conformidad con las disposiciones aplicables deban promoverse y sustanciarse a través de medios digitales. se estará a lo previsto por dichas disposiciones.
 
 ###### Artículo 53.
 
@@ -1277,11 +1325,11 @@ VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las
 
 La resolución a que se refiere el párrafo anterior, deberá emitirse en un término que no excederá de 30 días contados a partir del vencimiento del plazo señalado en el párrafo que antecede.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 77.
 
-Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 75 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del citado artículo 75.
+Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 75 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará al contribuyente de conformidad con lo establecido en el artículo 132 del presente ordenamiento, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del citado artículo 75.
 
 El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 74 de este Código.
 
@@ -2177,7 +2225,9 @@ Por los incapacitados, los concursados, los ausentes y las sucesiones, comparece
 
 Los actos que se deban notificar deberán tener por lo menos los siguientes requisitos:
 
-I. Constar por escrito;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+I. Constar por escrito en documento impreso o, en su caso, electrónico;
 
 II. Señalar la autoridad que lo emite;
 
@@ -2245,13 +2295,17 @@ Toda notificación personal, realizada con quien debe entenderse será legalment
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 135.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, se le dejará citatorio en el domicilio, sea para que espere a una hora fija del día hábil posterior que se señale en el mismo o para que acuda a notificarse a las oficinas de las autoridades fiscales dentro del plazo de seis días, contado a partir de aquel en que fue dejado el citatorio. Si la persona que se encuentre en el domicilio se negare a recibir el citatorio, a identificarse, a firmarlo o manifiesta no contar con identificación, la cita se hará por instructivo que se fijará en un lugar visible del domicilio, situación que se hará constar en el acta que al efecto se levante.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
 
-El citatorio a que se refiere este artículo será siempre para la espera antes señalada y si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o, en su defecto, con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta a la autoridad fiscal exactora.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+El día y hora de la cita, el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta a la autoridad fiscal exactora.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador responsable una multa equivalente de diez veces la Unidad de Medida y Actualización.
 
@@ -2279,7 +2333,9 @@ III. Fianza otorgada por institución autorizada, la que no gozará de los benef
 
 Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la afianzadora;
 
-IV. Embargo en la vía administrativa; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+IV. Embargo en la vía administrativa de bienes muebles tangibles e inmuebles, excepto predio rústicos, así como negociaciones.
 
 V. Obligación solidaria asumida por terceros que comprueben su idoneidad y solvencia.
 
@@ -2303,9 +2359,9 @@ Las garantías subsistirán hasta que proceda su cancelación en los términos d
 
 Los gastos que se originen con motivo del ofrecimiento de la garantía del interés fiscal deberán ser cubiertos por el interesado de manera previa a la calificación de esta última, inclusive los que se generen cuando sea necesario realizar la práctica de avalúos.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-En los casos en que de acuerdo con la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro, o en su caso, la Ley de Amparo, o ante el órgano jurisdiccional competente proceda la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad exactora por cualquiera de los medios previstos en este Código.
+En los casos en que, de acuerdo con la Ley de Procedimiento Contencioso Administrativo del Estado de Querétaro, o en su caso, la Ley de Amparo, o ante el órgano jurisdiccional competente proceda la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad exactora por cualquiera de los medios previstos en este Código.
 
 ###### Artículo 138.
 
@@ -2441,7 +2497,7 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 ### Capítulo Cuarto. Del Recurso Administrativo de Revocación
 
-#### Sección Segunda. De la Opción de Interponer el Recurso de Revocación
+#### Sección Primera. Disposiciones Generales
 
 ###### Artículo 145.
 
@@ -2547,13 +2603,13 @@ VI. Contra actos que tengan por objeto hacer efectivas fianzas otorgadas en gara
 
 VII. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 156, de este Código.
 
-#### Sección Tercera. Del Sobreseimiento
+#### Sección Segunda. De la Opción de Interponer el Recurso de Revocación
 
 ###### Artículo 154.
 
 Será optativo para el interesado la interposición del recurso de revocación o acudir directamente sin agotar éste al Tribunal de lo Contencioso Administrativo del Estado.
 
-#### Sección Cuarta. De la Impugnación de las Notificaciones
+#### Sección Tercera. Del Sobreseimiento
 
 ###### Artículo 155.
 
@@ -2569,7 +2625,7 @@ IV. Cuando hayan cesado los efectos del acto o resolución impugnada; y
 
 V. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 156 de este Código.
 
-#### Sección Quinta. Del trámite y resolución del Recurso
+#### Sección Cuarta. De la Impugnación de las Notificaciones
 
 ###### Artículo 156.
 
@@ -2591,9 +2647,7 @@ Si se resuelve que la notificación fue legalmente practicada y como consecuenci
 
 En el caso de actos regulados por otras leyes estatales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que, en su caso establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
 
-#### Sección Primera. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+#### Sección Quinta. Del trámite y resolución del Recurso
 
 ###### Artículo 157.
 
@@ -2641,9 +2695,9 @@ Si la resolución ordena un determinado acto o iniciar la reposición del proced
 
 ### Capítulo Quinto. Del Procedimiento Administrativo de Ejecución
 
-#### Sección Segunda. Del Embargo
+#### Sección Primera. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 161.
 
@@ -2765,7 +2819,9 @@ II. La preferencia corresponderá al titular del derecho real, en caso de que el
 
 III. Si ambos o todos los acreedores públicos poseen derechos reales, la preferencia corresponderá al primer embargante.
 
-#### Sección Tercera. De la Intervención
+#### Sección Segunda. Del Embargo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 166.
 
@@ -2903,13 +2959,23 @@ Cuando los bienes señalados para la traba estuvieren ya embargados por otras au
 
 Si los bienes señalados para la ejecución hubieran sido ya embargados por parte de las autoridades fiscales municipales, se practicará la diligencia, entregándose los bienes al depositario que designe la autoridad estatal. En caso de inconformidad, la controversia será resuelta por el Tribunal Superior de Justicia del Estado. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 176.
 
-El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del embargado para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+El embargo de créditos será notificado directamente por la autoridad fiscal a los deudores del embargado, y se les requerirá con el objeto de que informen las características de la relación contractual con el contribuyente, apercibidos que de no comparecer en el término de tres días, se les impondrá una multa de 10 a 50 veces la Unidad de Medida y Actualización (UMA); asimismo, se les requerirá para que no efectúen el pago de las cantidades respectivas a éste sino a la autoridad fiscal, apercibidos de doble pago en caso de desobediencia.
 
-Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+Si se tratare de títulos a la orden o al portador, el embargo solo podrá practicarse mediante la obtención física de los mismos.
 
-En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado el jefe de la oficina ejecutora firmará la escritura o documento relativo en rebeldía de aquél y lo hará del conocimiento del Registro Público que corresponda, para los efectos procedentes.
+Si llegare a asegurarse el título mismo del crédito, se nombrará un depositario que lo conserve en guarda, quien tendrá la obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y de intentar las acciones y recursos que la ley concede para hacer efectivo el crédito.
+
+Una vez realizado el pago del crédito, por parte del deudor al embargado, la autoridad requerirá a éste para que, dentro del lazo de tres días, entregue el comprobante fiscal por el concepto que haya sido motivo del pago realizado, apercibido de que, si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+
+Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el registro público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes al día en que surta efectos la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+
+En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, el jefe de la oficina ejecutora firmará la escritura o documento relativos en rebeldía de aquél y lo hará del conocimiento del registro público que corresponda, para los efectos procedentes.
+
+El incumplimiento en que incurra el deudor del embargado a lo indicado en el primer párrafo de este artículo, dentro del plazo que para tal efecto le haga del conocimiento la autoridad fiscal, hará exigible el monto respectivo a través del procedimiento administrativo de ejecución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2931,7 +2997,7 @@ En igual forma procederá el ejecutor cuando la persona con quien se entienda la
 
 Si no fuere factible romper o forzar las cerraduras de cajas u otros bienes unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
 
-#### Sección Cuarta. Del Remate
+#### Sección Tercera. De la Intervención
 
 ###### Artículo 180.
 
@@ -2983,6 +3049,8 @@ La intervención se levantará cuando el crédito fiscal se hubiere satisfecho o
 
 Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el por ciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el por ciento del crédito que resulte.
 
+#### Sección Cuarta. Del Remate
+
 ###### Artículo 188.
 
 La enajenación de bienes embargados, procederá:
@@ -3031,11 +3099,13 @@ La convocatoria se fijará en sitio visible y usual de la oficina ejecutora y en
 
 En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 192.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, el cual deberá obtenerse oportunamente, serán notificados del periodo de remate señalado en la convocatoria y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la fracción II, inciso b) del artículo 132 de este Código, se tendrán como notificados de la fecha en que se efectuará el remate, en aquella en que la convocatoria se haya fijado en sitio visible en la oficina ejecutora, siempre que en dicha convocatoria se exprese el nombre de los acreedores.
+Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, el cual deberá obtenerse oportunamente, serán notificados del periodo de remate señalado en la convocatoria y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la fracción II, incisos b) y c) del artículo 132 de este Código, se tendrán como notificados de la fecha en que se efectuará el remate, en aquella en que la convocatoria se haya fijado en sitio visible en la oficina ejecutora, siempre que en dicha convocatoria se exprese el nombre de los acreedores.
 
-Los acreedores a que alude el párrafo anterior podrán concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora y la resolución se hará del conocimiento del acreedor.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 193.
 
@@ -3201,11 +3271,15 @@ IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósit
 
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
-Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-Los bienes que pasen a propiedad del fisco estatal conforme a este artículo, podrán ser enajenados en los términos del artículo 209 de este Código.
+Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán por cualquiera de las formas de notificación señaladas en el artículo 132 de este Código, que ha transcurrido el plazo de abandono y que, como consecuencia, pasan a propiedad del fisco estatal. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
 
-El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Los bienes que pasen a propiedad del fisco estatal conforme a este artículo se transferirán a la Oficialía Mayor del Poder Ejecutivo del Estado de Querétaro.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 214.
 
@@ -4014,3 +4088,179 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO”.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero de 2022, bajo las modalidades previstas en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Catastro para el Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" de fecha 20 de marzo de 1997.
+
+Los asuntos o procedimientos generados ante la Dirección de Catastro de la Secretaría de Finanzas del Poder Ejecutivo antes de la entrada en vigor de la presente Ley, serán sustanciados conforme a las disposiciones de la Ley de Catastro para el Estado de Querétaro vigentes al momento de su inicio, y a la que se hace referencia en el párrafo que antecede.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones aplicables al uso de medios digitales por los servidores públicos y demás trámites y servicios, se implementarán gradualmente conforme a las bases y lineamientos que publique la Unidad Administrativa correspondiente, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
+
+###### ARTÍCULO QUINTO.
+
+Los sujetos obligados a los impuestos previstos en el Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro que hayan iniciado sus operaciones con anterioridad a la entrada en vigor de la presente Ley, darán cumplimiento a la obligación de empadronarse, dentro del mes siguiente a que cobre vigencia esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los artículos 51 BIS, 51 BIS-1, 51 B1S-2 y 52 TER del Código Fiscal del Estado de Querétaro entrarán en vigor cuando cobren vigencia los instrumentos jurídicos respectivos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Tratándose de la Ley de Hacienda para el Estado de Querétaro y de la Ley de Ingresos para el Ejercicio Fiscal 2022, respecto de los recursos de libre disposición y las disponibilidades que no hayan sido comprometidos al 31 de diciembre de 2021, en términos de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, podrán destinarlos para cubrir las necesidades señaladas en el cuarto párrafo del artículo 55 de dicha Ley, así como a la estabilidad de las finanzas del Estado, atendiendo a lo establecido en el Plan Estatal de Desarrollo del Estado de Querétaro 2021-2027, así como para la inversión pública productiva en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+###### ARTÍCULO OCTAVO.
+
+La recaudación obtenida con motivo del 1 por ciento (uno por ciento) adicional contenido en el artículo 72 de la Ley de Hacienda del Estado de Querétaro, será destinada preferentemente a proyectos de infraestructura, inversión pública productiva, obligaciones contraídas por el Estado, fondos de contingencia y fondos de reserva.
+
+###### ARTÍCULO NOVENO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2022, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, se autoriza a la Dirección de Catastro adscrita a la Secretaría de Finanzas, a realizar la aplicación del cobro del derecho equivalente a 1.25 UMA, respecto de bienes considerados como vivienda de interés social o popular.
+
+II. Se faculta a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, para establecer la temporalidad del beneficio en los derechos de avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, a los cuales durante dicha autorización se aplicará un factor de reducción del 100 por ciento en el cobro, conforme los requisitos que para tal efecto se establezcan.
+
+III. Se faculta a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, para que establezca la temporalidad del beneficio en los derechos previstos en el artículo 142 de la Ley de Hacienda del Estado de Querétaro, a los cuales durante dicha autorización se aplicará un factor de reducción del 100 por ciento en el cobro, siendo estos, en los siguientes servicios:
+
+a) Rectificación de acta;
+
+b) Expedición de copias certificadas de actas del estado civil de las personas, levantadas en el Estado de Querétaro, por cada hoja, bajo los siguientes supuestos:
+
+1. La expedición de la primera copia certificada, que con motivo de un procedimiento administrativo de rectificación de acta haya sido resuelto por la Dirección Estatal del Registro Civil, cuyo formato se imprima en español o en lengua indígena.
+
+2. La expedición de una copia certificada de acta de nacimiento impresa en sistema braille, que soliciten las personas físicas ciegas o débiles visuales; y
+
+c) La expedición de copias certificadas de actas del estado civil de las personas, levantadas en otra entidad federativa, por medio de la Base de Datos Nacional a partir de la Conexión Interestatal, tratándose de copia certificada de acta de nacimiento impresa en sistema braille que soliciten las personas físicas ciegas o débiles visuales.
+
+IV. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+PERIODO DE PAGO DESCUENTO
+
+Enero 2022 10 por ciento
+
+Febrero 2022 8 por ciento
+
+Marzo 2022 5 por ciento
+
+V. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo del Estado de Querétaro 2021 - 2027, de beneficios fiscales de reducciones hasta el cincuenta por ciento de las contribuciones conforme a lo establecido en la presente Ley de Hacienda del Estado de Querétaro en el ejercicio fiscal 2022.
+
+VI. Se autoriza a las autoridades fiscales a realizar la cancelación de los créditos fiscales por incosteabilidad en el cobro durante el ejercicio fiscal 2022.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2021, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se autoriza a las autoridades fiscales la aplicación de la cancelación de los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2017 y anteriores;
+
+VII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, de hasta el noventa y nueve por ciento; debiendo la Secretaría de Finanzas realizar las autorizaciones a través de los lineamientos de aplicación correspondientes.
+
+VIII. Las autoridades fiscales podrán restituir las cantidades pagadas por los derechos particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal de la Secretaría de Finanzas del Poder Ejecutivo del Estado, se generarán las acciones administrativas correspondientes.
+
+IX. Por la expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación vehicular a aquellos que con motivo del alta o registro en el Padrón Vehicular Estatal, en el periodo comprendido de enero a marzo de 2022, en términos de la fracción II, del artículo 157 de la Ley de Hacienda del Estado de Querétaro, podrán realizar el canje de placas, tarjeta de circulación y calcomanía de identificación vehicular, conforme al Programa que para tal efecto se establezca en el ejercicio fiscal 2022
+
+X. Para el pago de los derechos establecidos en la fracción II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán con la aplicación de los siguientes beneficios durante el primer trimestre de 2022:
+
+LUGAR DE PAGO DESCUENTO
+
+Enero a Marzo 2022
+
+Cajas recaudadoras en Oficinas 15 por ciento
+
+Medio digitales de pago 30 por ciento
+
+Establecimientos autorizados (instituciones
+
+bancarias, tiendas de autoservicio y
+
+conveniencia, entre otros) 30 por ciento
+
+XI. Se autoriza a la Secretaría de Finanzas, para que respecto al impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, aplique un factor de reducción de hasta el 50 por ciento.
+
+XII. Se autoriza al Centro de Congresos y Querétaro Teatro Metropolitano para que en términos de los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, apliquen un factor de reducción de hasta el 50 por ciento del cobro de los derechos respectivos.
+
+XIII. Los derechos por vivienda de interés social o popular que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad del Estado de Querétaro, se causarán al 50 por ciento conforme a las siguientes:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XIV. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad del Estado de Querétaro que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa de viviendas de interés social o popular.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XV. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad del Estado de Querétaro que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XVI. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad del Estado de Querétaro, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellos cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+XVII. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad del Estado de Querétaro para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial.
+
+XVIII. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere el Código Ambiental del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+XIX. Se autoriza a la Secretaría de Seguridad Ciudadana para la creación de Programas Estatales para para (sic) la aplicación de un factor de reducción de hasta el setenta y cinco por ciento del cobro por concepto de los derechos que, de conformidad con lo previsto en el Capítulo Décimo Primero del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, deban pagarse por los servicios que preste la citada dependencia, previa validación de la Secretaría de Finanzas.
+
+XX. Se faculta al Titular de la Secretaría de Finanzas del Poder Ejecutivo para que, en el ejercicio de sus facultades, expida los acuerdos administrativos necesarios para el manejo de los asuntos financieros y tributarios del Estado.
+
+Asimismo, estará facultado para expedir aquellos que autoricen los estímulos fiscales a través de disposiciones y procesos relativos a los numerales 70 al 73 de la Ley de Hacienda del Estado de Querétaro que tengan por objeto establecer los mecanismos para optimizar la recaudación estatal.
+
+Para el ejercicio fiscal 2022, se autoriza a la Secretaría de Finanzas del Poder Ejecutivo para que por su conducto autorice los esquemas necesarios a efecto de otorgar estímulos fiscales directos respecto al Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro;
+
+XXI. Los contribuyentes de los impuestos establecidos en las Secciones II, III y IV del Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, podrán reducir de la base gravable, las toneladas o su correspondiente conversión, que se certifiquen mediante los sellos de bajas de emisiones otorgados y transferidos a través del mecanismo establecido por la Secretaría de Desarrollo Sustentable, relativos a la compensación de emisiones de gases de efecto invernadero a la atmósfera y la absorción de bióxido de carbono por actividades de conservación de zonas forestales, ganadería sustentable y reducción de emisiones en el manejo de residuos, en términos de lo previsto en la Ley de Cambio Climático para el Estado de Querétaro.
+
+XXII. Los recursos obtenidos en términos de lo previsto en el Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, serán destinados principalmente a obras de infraestructura en el Estado, así como para proyectos ambientales.
+
+XXIII. Se faculta a las dependencias estatales y municipales, en el ámbito de su competencia, para realizar la aplicación del cobro de 60 hasta 100 UMA por los conceptos que deriven del incumplimiento por cualquiera de las partes, en los acuerdos voluntarios que las mismas celebren, en materia de respeto vecinal.
+
+XXIV. En el caso de los derechos que se causen en términos de la Ley de Hacienda del Estado de Querétaro, se utilizará la Unidad de Medida y Actualización para su determinación y cálculo, de conformidad con lo establecido en la Ley de la Unidad de Medida y Actualización del Estado de Querétaro y demás disposiciones que al efecto resulten aplicables.
+
+Así mismo, en términos del numeral 170 de la Ley de Hacienda del Estado de Querétaro se fijan los derechos en pesos, ya que se hace más dinámico el cobro de los mismos; y
+
+XXV. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas.
+
+###### ARTÍCULO DÉCIMO.
+
+Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
