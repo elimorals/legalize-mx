@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-para-el-desarrollo-integral-del-11407
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-07"
-last_updated: "2017-11-16"
+last_updated: "2021-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de abril de 2016.
 
@@ -71,59 +71,71 @@ III. La sociedad civil, los sectores privado y social, mediante la celebración 
 
 Para los efectos de esta ley y de su reglamento se entenderá por:
 
-I. ADULTOS MAYORES: Aquellas personas que cuenten con sesenta y cinco años o más de edad;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-II. ASISTENCIA SOCIAL: Conjunto de acciones, que tienden a modificar y mejorar las condiciones de vida y bienestar de las personas adultas mayores, poniendo especial énfasis en aquellas que se encuentran en estado de vulnerabilidad, abandono, riesgo o discapacidad;
+I. ABANDONO: Incumplimiento de la obligación de asistencia, sin motivo justificado, de los familiares del adulto mayor, que derivado del mismo deja sin recursos para atender sus necesidades de subsistencia, entendiendo esta desde el punto de vista del Derecho Alimentario;
 
-III. ATENCIÓN INTEGRAL: Satisfacción de las necesidades físicas, materiales, biológicas, psicológicas, emocionales, sociales, laborales, culturales, recreativas y productivas de las personas adultas mayores, para facilitarles una vejez plena y sana, se considerarán sus hábitos, capacidades funcionales, usos, costumbres y preferencias;
+II. ADULTOS MAYORES: Aquellas personas que cuenten con sesenta y cinco años o más de edad;
 
-IV. ATENCIÓN PREFERENCIAL: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos de personas adultas mayores, poniendo especial atención a aquellas que tengan alguna discapacidad.
+III. ASISTENCIA SOCIAL: Conjunto de acciones, que tienden a modificar y mejorar las condiciones de vida y bienestar de las personas adultas mayores, poniendo especial énfasis en aquellas que se encuentran en estado de vulnerabilidad, abandono, riesgo o discapacidad;
+
+IV. ATENCIÓN INTEGRAL: Satisfacción de las necesidades físicas, materiales, biológicas, psicológicas, emocionales, sociales, laborales, culturales, recreativas y productivas de las personas adultas mayores, para facilitarles una vejez plena y sana, se considerarán sus hábitos, capacidades funcionales, usos, costumbres y preferencias;
+
+V. ATENCIÓN PREFERENCIAL: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos de personas adultas mayores, poniendo especial atención a aquellas que tengan alguna discapacidad.
 
 Los gobiernos estatal y municipal, en el ámbito de sus respectivas competencias, promoverán condiciones de accesibilidad para los adultos mayores, tanto en el transporte público como en los espacios arquitectónicos;
 
-V. AUTORIDADES: Las dependencias y entidades que forman parte de la administración pública estatal y municipal
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VI. CALIDAD DEL SERVICIO: Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
+VI. AUTORIDADES: Las dependencias y entidades que forman parte de la administración pública estatal y municipal;
 
-VII. DESARROLLO HUMANO: Al proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto;
+VII. CALIDAD DEL SERVICIO: Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
 
-VIII. DESARROLLO SOCIAL: Al proceso de mejoramiento de la calidad de vida de la sociedad, mediante la satisfacción de las necesidades básicas, que sea construido prospectivamente bajo los principios de equidad, diversidad, libertad, universalidad, integralidad, solidaridad, participación, sustentabilidad, subsidiariedad y transparencia, con perspectiva de largo plazo;
+VIII. DESARROLLO HUMANO: Al proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto;
 
-IX. DIF: Sistema Estatal para el Desarrollo Integral de la Familia; y
+IX. DESARROLLO SOCIAL: Al proceso de mejoramiento de la calidad de vida de la sociedad, mediante la satisfacción de las necesidades básicas, que sea construido prospectivamente bajo los principios de equidad, diversidad, libertad, universalidad, integralidad, solidaridad, participación, sustentabilidad, subsidiariedad y transparencia, con perspectiva de largo plazo;
 
-X. DIF MUNICIPAL: Sistema Municipal para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-XI. DIRECTOR: Director General del Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango, quien será la persona física sobre la que recae la titularidad del Instituto;
+X. DIF: Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XII. FAMILIA DEL ADULTO MAYOR: Aquel vínculo o relación interpersonal cuya sujeción está basada en los lazos consanguíneos o filiales que se hayan generado entre sí, durante el transcurso del tiempo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-XIII. GÉNERO: Concepto que se refiere a los valores, atributos, roles y representación que la sociedad asigna a hombres y mujeres;
+XI. DIF MUNICIPAL: Sistema Municipal para el Desarrollo Integral de la Familia;
 
-XIV. GERIATRÍA: Es la rama de la medicina interna dedicada al estudio de los aspectos fisiológicos y de las enfermedades propias de las personas adultas mayores;
+XII. DIRECTOR: Director General del Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango, quien será la persona física sobre la que recae la titularidad del Instituto;
 
-XV. GERONTOLOGÍA: Estudio científico sobre la vejez, desde el punto de vista biológico, psicológico y social;
+XIII. FAMILIA DEL ADULTO MAYOR: Aquel vínculo o relación interpersonal cuya sujeción está basada en los lazos consanguíneos o filiales que se hayan generado entre sí, durante el transcurso del tiempo;
 
-XVI. INFORMACIÓN: Las instituciones públicas y privadas, que tengan a cargo programas y acciones sociales deberán proporcionar la información y asesoría sobre las garantías consagradas en la Constitución Política Federal y Estatal, en esta Ley y sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores;
+XIV. GÉNERO: Concepto que se refiere a los valores, atributos, roles y representación que la sociedad asigna a hombres y mujeres;
 
-XVII. INSTITUTO: Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango;
+XV. GERIATRÍA: Es la rama de la medicina interna dedicada al estudio de los aspectos fisiológicos y de las enfermedades propias de las personas adultas mayores;
 
-XVIII. INTEGRACIÓN SOCIAL: Conjunto de acciones y políticas que realizan las dependencias y entidades de la administración pública estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su bienestar, convivencia y desarrollo social;
+XVI. GERONTOLOGÍA: Estudio científico sobre la vejez, desde el punto de vista biológico, psicológico y social;
 
-XIX. JUNTA: A la Junta de Gobierno del Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango;
+XVII. INFORMACIÓN: Las instituciones públicas y privadas, que tengan a cargo programas y acciones sociales deberán proporcionar la información y asesoría sobre las garantías consagradas en la Constitución Política Federal y Estatal, en esta Ley y sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores;
 
-XX. LEY: La Ley que crea el Instituto para el Desarrollo Integral de los Derechos de las Personas Adultas Mayores del Estado de Durango;
+XVIII. INSTITUTO: Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango;
 
-XXI. PERSPECTIVA DE GÉNERO: Es la política, programas y acciones cuyo propósito es la promoción y generación de la igualdad y equidad de oportunidades;
+XIX. INTEGRACIÓN SOCIAL: Conjunto de acciones y políticas que realizan las dependencias y entidades de la administración pública estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su bienestar, convivencia y desarrollo social;
 
-XXII. PRESIDENTE: La persona que preside la Junta de Gobierno;
+XX. JUNTA: A la Junta de Gobierno del Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango;
 
-XXIII. REGISTRO: El Instituto recabará la información necesaria del Instituto Nacional de Estadística, Geografía e Informática, para determinar la cobertura y características de los programas y beneficios dirigidos a las personas adultas mayores;
+XXI. LEY: La Ley que crea el Instituto para el Desarrollo Integral de los Derechos de las Personas Adultas Mayores del Estado de Durango;
 
-XXIV. SECRETARIO TÉCNICO: La persona física sobre la que recae la titularidad de la Secretaría Técnica de la Junta de Gobierno;
+XXII. PERSPECTIVA DE GÉNERO: Es la política, programas y acciones cuyo propósito es la promoción y generación de la igualdad y equidad de oportunidades;
 
-XXV. SEDESOE: A la Secretaría de Desarrollo Social del Gobierno del Estado;
+XXIII. PRESIDENTE: La persona que preside la Junta de Gobierno;
 
-XXVI. TANATOLOGÍA: Estudios encaminados a procurar una muerte digna con cuidados, paliativos, biológicos, psicológicos y sociales;
+XXIV. REGISTRO: El Instituto recabará la información necesaria del Instituto Nacional de Estadística, Geografía e Informática, para determinar la cobertura y características de los programas y beneficios dirigidos a las personas adultas mayores;
+
+XXV. SECRETARIO TÉCNICO: La persona física sobre la que recae la titularidad de la Secretaría Técnica de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+XXVI. SEDESOE: A la Secretaría de Desarrollo Social del Gobierno del Estado; y
+
+XXVII. TANATOLOGÍA: Estudios encaminados a procurar una muerte digna con cuidados, paliativos, biológicos, psicológicos y sociales;
 
 ### CAPÍTULO II
 
@@ -161,7 +173,9 @@ XI. Realizar la investigación y llevar a cabo la incorporación necesaria para 
 
 XII. Asesorar al Ejecutivo del Estado, a través de sus dependencias y entidades, en la formulación y programación de las políticas públicas y acciones relacionadas con el desarrollo de los adultos mayores, así como asesorar a los sectores privado y social;
 
-XIII. Fomentar una cultura de respeto y reconocimiento al trabajo y experiencia de los adultos mayores;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+XIII. Fomentar una cultura de respeto y reconocimiento al trabajo y experiencia de los adultos mayores; así como fomentar entre la sociedad en general el deber de apoyar, auxiliar y proteger a las personas mayores con las debidas consideraciones a sus condiciones particulares, con el más amplio sentido de solidaridad y corresponsabilidad.
 
 XIV. Realizar estudios, investigaciones, generar estadísticas y difundir todo tipo de datos que permitan conocer el estado que guardan los adultos mayores con relación a sus derechos, la no discriminación, las oportunidades que se les brindan, con el fin de generar una conciencia favorable hacia los adultos mayores y su revalorización, de manera coordinada y vinculatoria con las demás entidades, organismos y dependencias que tengan conocimiento o lleven a cabo actividades relacionadas con los adultos mayores;
 
@@ -611,17 +625,35 @@ XIV. Generar estrategias de participación de las familias de los adultos mayore
 
 ### CAPÍTULO VI. DE LAS OBLIGACIONES DE LA SOCIEDAD Y LA FAMILIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-La familia de las personas adultas mayores deberá cumplir su función social; por tanto, de manera constante y permanente velará por las mismas, siendo responsable de proporcionarles los satisfactores necesarios para su atención, bienestar y desarrollo integral y tendrá las siguientes obligaciones para con ellas:
+La familia de las personas adultas mayores deberá cumplir su función social; por tanto, de manera constante y permanente velará por las mismas, siendo responsable de conocer, respetar y hacer respetar sus derechos y de proporcionarles los satisfactores necesarios para su atención, bienestar y desarrollo integral y tendrá las siguientes obligaciones para con ellas:
 
 I. Otorgar alimentos de conformidad con lo establecido en la legislación aplicable;
 
 II. Fomentar la convivencia familiar cotidiana, donde las personas adultas mayores participen activamente y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y apoyo;
 
-III. Evitar que sus integrantes cometan cualquier acto de discriminación, abuso, explotación, aislamiento, violencia entre otras; así como actos jurídicos que pongan en riesgo la persona, bienes y derechos de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-IV. Vigilar que los trabajos o actividades que realicen las personas adultas mayores no impliquen un esfuerzo superior a las condiciones de su salud física y mental.
+III. Evitar que sus integrantes cometan cualquier acto de discriminación, abuso, explotación, aislamiento, violencia entre otras; así como actos jurídicos que pongan en riesgo la persona, bienes y derechos de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+IV. Vigilar que los trabajos o actividades que realicen las personas adultas mayores no impliquen un esfuerzo superior a las condiciones de su salud física y mental;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+V. Procurar que permanezcan en el hogar del que forman parte y que sólo por decisión personal, enfermedad, causas de fuerza mayor o por determinación de autoridad competente, sean ingresadas en alguna institución de asistencia pública o privada, dedicada al cuidado y atención de personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VI. Atender sus necesidades psicoemocionales, independientemente si están con su familia o se encuentran en una institución pública, privada, social, casa hogar, asilo o cualquier otro centro de atención geriátrica; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VII. Atender su salud física y emocional cuantas veces sea necesario, para brindarles una vida digna.
 
 ###### Artículo 34.
 
@@ -665,9 +697,15 @@ III. Expedir, modificar, derogar o abrogar los ordenamientos municipales conduce
 
 IV. Promover que en las nuevas construcciones que se realicen por el sector público, privado o social, con fines de uso comunitario, recreación o cualquiera otra naturaleza cuenten con las adecuaciones necesarias, tendientes a eliminar las barreras arquitectónicas que impidan el libre desplazamiento con seguridad de las personas adultas mayores.
 
-V. Promover la creación de Consejos Municipales para la atención de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-VI. Las demás que le confieran esta ley y otros ordenamientos legales y reglamentarios sobre la materia.
+V. Promover la creación de Consejos Municipales para la atención de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+VI. Formular, promover y desarrollar programas y políticas públicas orientadas al uso y aprovechamiento de las tecnologías de la información y comunicación; y
+
+VII. Las demás que le confieran esta ley y otros ordenamientos legales y reglamentarios sobre la materia.
 
 ### CAPÍTULO VIII. DE LA DENUNCIA POPULAR, RESPONSABILIDADES Y SANCIONES
 
@@ -774,3 +812,19 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 024.- QUE CONTIENE REFORMAS Y ADICIONES A LA FRACCIÓN VI, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 37 DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 025.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
