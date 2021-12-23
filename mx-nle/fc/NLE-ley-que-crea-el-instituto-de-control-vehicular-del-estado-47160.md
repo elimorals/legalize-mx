@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2020-12-30"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -621,21 +621,25 @@ VII. No acatar la reserva que ésta Ley establece sobre los datos contenidos en 
 
 Las sanciones correspondientes a las infracciones señaladas en el artículo anterior serán como sigue:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-l. De 15 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I y ll;
+I. De 30 a 40 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción I;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-ll. De 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones IV y V;
+II. De 15 a 20 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción II;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-III. De 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción VI; y
+III. De 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones IV y V;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-IV. De 100 a 200 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y VII; en el caso de la fracción III se asegurarán los medios de identificación vehicular de que se trate.
+IV. De 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción VI; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+V. De 200 a 300 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y VII; en el caso de la fracción III se asegurarán los medios de identificación vehicular de que se trate y, en su caso, ordenar el retiro de vehículos de la circulación y su depósito en lotes autorizados.
 
 ### Capítulo IX. De los medios de defensa
 
@@ -722,6 +726,12 @@ En cualquier tiempo en que el Instituto advierta que el registro se asentó en c
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 Artículo Vigésimo Primero.- Durante el ejercicio fiscal 2021, tratándose de vehículos cuyo modelo sea 2006 o años anteriores, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
+
+En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+Artículo Vigésimo Segundo.- Durante el ejercicio fiscal 2022, tratándose de vehículos cuyo modelo sea 2013 o años anteriores, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
 
 En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
 
@@ -812,3 +822,11 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 035. SE REFORMAN LAS FRACCIONES I, II, III Y IV Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 38, Y SE ADICIONA UN ARTÍCULO VIGÉSIMO SEGUNDO TRANSITORIO, TODOS A LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 01 de enero del año 2022.
