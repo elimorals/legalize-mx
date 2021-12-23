@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2021-10-08"
+last_updated: "2021-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -270,6 +268,14 @@ Las trabajadoras disfrutarán de quince días naturales de descanso con goce de 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
 Asimismo, los trabajadores disfrutarán de cinco días hábiles, con goce de sueldo, por el nacimiento de un hijo; tratándose de un nacimiento múltiple, los trabajadores tendrán cinco días hábiles adicionales por cada hijo nacido vivo. Los trabajadores disfrutarán de este periodo de descanso cuando obtengan en adopción a un menor o incapaz, contados a partir de su entrega.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 33 Ter.
+
+Las dependencias, entidades y demás entes públicos, en el ámbito de sus competencias, promoverán y otorgarán la autorización para que las trabajadoras mayores de 40 años puedan acudir anualmente a las instituciones médicas que correspondan, para realizarse estudios preventivos de cáncer de mama y cervicouterino.
+
+Las dependencias, entidades y demás entes públicos, preferentemente establecerán un calendario durante el mes de octubre de cada año, a fin de que atendiendo a la naturaleza de las actividades que desempeñen, gradualmente se otorgue la autorización a favor de las trabajadoras.
 
 ### Capítulo Tercero. De los salarios
 
@@ -2124,3 +2130,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 23 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA EL ARTÍCULO 33 TER A LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
