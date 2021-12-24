@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2021-12-16"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -230,6 +230,10 @@ VII. Apoyar las actividades productivas y el desarrollo sustentable de las comun
 VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas en el territorio del Estado, mediante acciones para garantizar los derechos laborales; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas;
 
 IX. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y de los municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+X. Garantizar el reconocimiento, la protección, la promoción, la difusión, la preservación, el desarrollo y el uso de las lenguas, conocimientos y todos los elementos que constituyan la cultura e identidad de los pueblos y comunidades indígenas del Estado. Estas acciones también serán garantizadas por los Poderes Legislativo y Judicial, así como los órganos públicos autónomos de Quintana Roo, en el ámbito de sus competencias.
 
 Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Legislatura del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas especificas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
@@ -5554,3 +5558,11 @@ SEGUNDO. La Legislatura del Estado, deberá llevar a cabo las modificaciones nec
 TERCERO. El Poder Ejecutivo del Estado deberá considerar una partida presupuestal para el cumplimiento del presente Decreto que garantice la suficiencia económica para las instituciones educativas, en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, para el Ejercicio Fiscal 2023.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 183 POR EL QUE SE ADICIONA UNA FRACCIÓN X AL APARTADO B DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente ley.
