@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-othon-p-blanco-del-estado-1321
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 24 del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -195,7 +195,9 @@ I. Hasta un 25% si se cubre en una sola emisión, siempre y cuando el pago se ef
 
 II. Hasta un 15% si se cubre en una sola emisión y el pago se efectúa el último día hábil del mes de febrero del año al que se deba realizar el pago.
 
-III. Hasta un 50% si se cubre en una sola emisión y el pago se efectúa hasta el último día hábil del mes de febrero del año al que se deba realizar el pago si el contribuyente es una persona con discapacidad, pensionado, jubilado o cuente con su credencial del Instituto Nacional del Adulto Mayor (INAPAM) o INSEN. Este beneficio se aplicará a un solo inmueble del contribuyente, siempre y cuando dicho inmueble corresponda al domicilio de su propia casa habitación y cuyo valor catastral no exceda de quince mil UMA. Al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en las fracciones anteriores de este artículo.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+III. Hasta un 50% si se cubre en una sola emisión y el pago se efectúa hasta el último día hábil del mes de febrero del año al que se deba realizar el pago si el contribuyente es una persona con discapacidad, pensionado, jubilado o cuente con su credencial del Instituto Nacional del Adulto Mayor (INAPAM) o INSEN, así como a los trabajadores del H. Ayuntamiento. Este beneficio se aplicará a un solo inmueble del contribuyente, siempre y cuando dicho inmueble corresponda al domicilio de su propia casa habitación y cuyo valor catastral no exceda de quince mil UMA. Al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en las fracciones anteriores de este artículo.
 
 ###### Artículo 17.
 
@@ -987,9 +989,13 @@ a) En las oficinas del registro civil en días y horas hábiles: 1.7 UMA
 
 b) En las oficinas del registro civil en días y horas inhábiles: 5.0 UMA
 
-c) Fuera de las oficinas del registro civil en días y horas hábiles: 6.6 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-d) Fuera de las oficinas del registro civil en sábados y domingos y días festivos: 22.0 UMA
+c) Fuera de las oficinas del registro civil en días y horas hábiles: 13.0 UMA a 35.0 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+d) Fuera de las oficinas del registro civil en sábados y domingos y días festivos: 22.0 UMA 50.0 UMA
 
 e) Registro de matrimonios contraídos por mexicanos fuera de la
 
@@ -1075,15 +1081,25 @@ p) Otros no especificados: 11.0 UMA
 
 Los derechos señalados en los incisos h), i), j), k) y l) de esta fracción, se causarán con la expedición por cada copia certificada de los actos correspondientes.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VI. Por los servicios prestados por registro de nacimiento de personas, fuera de las oficinas del Registro Civil.
+
+a) En días y horas hábiles: 8.0 a 20.0 UMA
+
+b) En días y horas inhábiles: 10.0 a 25.0 UMA
+
 Las oficinas del Registro Civil Municipal tendrán a la vista de los usuarios, la relación que contenga los servicios que presta, con sus respectivas tarifas.
 
 ###### Artículo 76.
 
 En los casos de desastres, ciclones, sismos o campañas de regularización como matrimonios colectivos o solicitudes de oficios de las autoridades, el Ayuntamiento podrá subsidiar hasta el 100% de los derechos que causen la prestación de los servicios del Registro Civil Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 77.
 
-Los oficiales del Registro Civil y su auxiliar cobrarán el 20% y 10% respectivamente de los derechos cobrados conforme a la fracción I, incisos b), c), d), h) y j) y la fracción III, inciso b) del artículo 75.
+Los oficiales del Registro Civil cobrarán el 20% de los derechos cobrados conforme a los incisos b), c), d), h) y j) de la fracción I; los incisos a) y b) de la fracción I Bis y el inciso b) de la fracción III, del artículo 75.
 
 Los actos de Registro Civil Municipal se efectuarán previo aviso y pago de los derechos a que se refiere el artículo 75.
 
@@ -1091,37 +1107,61 @@ Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los de
 
 ### CAPÍTULO IV. DE LAS LICENCIAS PARA CONSTRUCCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 78.
 
-Toda licencia de construcción, sus refrendos y terminación causarán derechos; su pago se efectuará previo a su expedición con base en los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente, de acuerdo a la tipología y aplicando la tarifa siguiente:
+Toda licencia de construcción en cualquiera de sus modalidades: obra nueva, reparación, reconstrucción, restauración, remodelación, ampliación y licencia de construcción especial; sus refrendos, y la constancia de terminación de obras, causarán derechos. Su pago se efectuará previo a su expedición con base en los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente, de acuerdo a la tipología y aplicando la tarifa siguiente:
 
 I. Cuando se trate de casa habitación:
 
 a) De interés social:
 
-1. Hasta 55 m2 de construcción se pagará por metro cuadrado: 0.28 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+1. Hasta 55 m2 de construcción se pagará por cada metro cuadrado: 0.14 UMA
 
 2. Quedarán exentas cuando sea autoconstrucción o ampliación, previa verificación de la autoridad correspondiente; siempre y cuando la superficie total de construcción no exceda de 55 m2 de construcción;
 
 b) De interés medio:
 
-1. Con más de 55 m2 hasta 90 m2 de construcción, se pagará por metro cuadrado de construcción: 0.17 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-2. Más de 90 m2 y hasta 150 m2, se pagará por metro cuadrado de construcción: 0.05 UMA
+1. Con más de 55m2 hasta 90m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.16 UMA
 
-3. De 150 m2 en adelante se pagará por metro cuadrado de construcción: 0.09 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-c) Residencial, se pagará por metro cuadrado de construcción:
+2. Más de 90m2 y hasta 150m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.18 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+3. Más de 150m2 y hasta 250m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.20 UMA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+c) Residencial, de acuerdo a su ubicación, se pagará por cada metro cuadrado de construcción:
 
 1. Residencial Zona Urbana: 0.25 UMA
 
-2. Residencial Zona Hotelera: 0.30 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+2. Residencial Zona Hotelera, zona de playa, ribera de zona lacustre: 0.30 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+3. Residencial en zona rural: 0.15 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+4. Residencial en zona campestre, u otras ubicaciones no señaladas anteriormente: 0.28 UMA
 
 d) Por revisión, validación y aprobación de planos:
 
 1. En la primera planta, se cobrará por metro cuadrado (m2): 0.09 UMA
 
-2. En la segunda planta, se cobrará por metro cuadrado (m2): 0.09 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+2. En la segunda planta y niveles superiores, se cobrará por metro (m2): 0.11 UMA
 
 II. Cuando se trate de edificaciones destinadas a fines comerciales y/o de servicios, industriales o de cualquier otra índole distinta a la establecida en la fracción anterior, se pagará por m2 de construcción:
 
@@ -1133,23 +1173,75 @@ c) Comercial y/o de servicios en zona diversa a las anteriores: 0.25 UMA
 
 d) Industrial y cualquier otra índole: 0.6 UMA
 
-Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período de un año y las comprendidas en la fracción II, por los plazos que fije el Ayuntamiento, los que no serán menores que el anterior ni mayor a dos años, de acuerdo a la ley de la materia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-III. Fraccionamiento de terreno: Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse se aplicará el 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán al quedar definidos los proyectos, antes de iniciar las obras.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los mismos términos del párrafo anterior.
+III. Autorización de fraccionamientos, conjunto urbano, condominios; sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse se aplicará el 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán al quedar definidos los proyectos, antes de iniciar las obras.
 
-IV. Por concepto de terminación de obra se cobrará: 5.5 UMA
+El fraccionamiento de terreno y/o conjunto urbano, y/o condominio, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los mismos términos del párrafo anterior.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IV. Por concepto de la constancia de terminación de obra, se cobrará de 5.5 a 100.0 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+V. Por concepto de prórroga de una licencia de construcción, se cobrará por cada metro cuadrado de construcción faltante o sin construir, con respecto a la licencia originalmente expedida y al avance físico real existente en obra, de acuerdo con lo establecido por en el Artículo 78 fracciones I y II, de esta Ley.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VI. Por concepto de renovación de una licencia de construcción, se pagará por metro cuadrado de construcción: 0.10 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VII. Por concepto de la modificación de una licencia de construcción, se cobrará por cada metro cuadrado contemplado en la modificación, de acuerdo con lo establecido por en el Artículo 78 fracciones I y II, de esta Ley.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VIII. Por concepto de la licencia de construcción en su modalidad de reconstrucción por fenómeno natural, quedará exento cuando se demuestre que la construcción dañada contó o cuenta con una licencia de construcción expedida en su momento bajo la modalidad que le hubiera correspondido. Caso contrario deberá proceder como una regularización.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IX. Por concepto de la licencia de construcción para bardas, se calculará el total de m2 que corresponde, para lo cual se multiplicará la longitud por la altura de la barda, y se pagará por m2 la siguiente tarifa: 0.10 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+X. Por concepto del permiso de construcción de banqueta, cuando esté relacionado con los casos señalados en el artículo 81, se cobrará de conformidad con lo dispuesto en el mismo.
+
+En los casos donde exclusivamente corresponda con obra nueva para dotar de una banqueta inexistente, o reparación de la misma por estar dañada, y que se realizarán a costo y cuenta del propietario colindante, sin representarle ningún beneficio económico o actividad lucrativa, estarán exentos de este pago.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+XI. Por la autorización para construcción de antenas para telecomunicaciones, telefonía celular o equiparable, según rango de alturas, se pagará la siguiente tarifa:
+
+a) de 0.1 a 10 metros de altura: 80 UMA;
+
+b) de 11 a 20 metros de altura: 100 UMA;
+
+c) de 21 a 30 metros de altura: 120 UMA;
+
+d) de 31 metros de altura en adelante: 140 UMA.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+XII. Por el registro y revalidación de los peritos responsables de obra y corresponsables, se cobrará conforme a la siguiente tarifa:
+
+a. Por el registro de peritos responsables de obra y corresponsables, en cualquier tiempo: 50.0 UMA.
+
+b. Por la revalidación del registro de peritos responsables de obra y corresponsables, anualmente: 40.0 UMA
 
 ###### Artículo 79.
 
 La ejecución de toda obra sin licencia respectiva se sancionará de 5.0 UMA a 110.00 UMA, multa que podrá ampliarse hasta en un 10% del costo estimado de la obra en caso de reincidencia.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 80.
 
-Se requerirá de licencia para las obras de reparación de edificios, así como para cualquier demolición, excavación, relleno, reconstrucción o ampliación.
+Se requerirá licencia para las obras de reparación de edificios, demolición, reconstrucción, ampliación así como los demás casos de acciones urbanísticas establecidos en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, la Ley de Acciones Urbanísticas del Estado de Quintana Roo, y el Reglamento de Desarrollo Urbano y Construcción del Municipio de Othón P. Blanco.
 
-No requerirán licencia o autorización las acciones de conservación y mantenimiento de edificios.
+No requerirán licencia ni autorizaciones las acciones establecidas como exentas por esas mismas leyes estatales y reglamento municipal.
 
 ###### Artículo 81.
 
@@ -1161,45 +1253,83 @@ II. Tratándose de demoliciones en construcciones determinadas a fines distintos
 
 III. Para realizar obras, modificaciones o reparaciones en la vía pública se cobrará por metro lineal: 0.06 UMA
 
-IV. Cuando se ocupe la vía pública con instalaciones de servicio público o con construcciones provisionales se cobrará por metro cuadrado: 0.30 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IV. Cuando se ocupe la vía pública con instalaciones de servicio privado, construcciones provisionales, o mobiliario urbano, se cobrará por metro cuadrado: 0.30 UMA.
 
 V. Cuando se rompa el pavimento o se hagan cortes en las aceras y guarniciones de la vía pública para la ejecución de obras públicas y privadas se cobrarán por metro lineal: 0.6 UMA
 
-VI. Cuando se construyan instalaciones subterráneas en vía pública para diversos usos, se cobrarán por metro lineal: 1.0 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VI. Cuando se construyan instalaciones subterráneas en vía pública o de conexión a las redes de infraestructura y servicios públicos, se cobrarán por metro lineal: 1.00 UMA.
 
 Para los casos a que se refieren las fracciones V y VI de este artículo, el promotor entregará al Ayuntamiento, ante la autoridad que otorgó la autorización respectiva, fianza expedida por afianzadora legalmente autorizada a favor de la Tesorería Municipal, que garantice la correcta reparación de la vía pública por un importe del 50% del costo de obra.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 82.
 
-Por la regularización de licencias para obras de construcción, reconstrucción, ampliación y demolición, se pagará el importe hasta tres veces de la tarifa correspondiente prevista en el artículo 78.
+Por la regularización de licencias en cualquiera de sus modalidades: obra nueva, reparación, reconstrucción, restauración, demolición, remodelación, ampliación y licencia de construcción especial, y cualquier otra establecida en las leyes de la materia, se pagará el importe hasta tres veces de la tarifa correspondiente prevista en el artículo 78.
 
 ###### Artículo 83.
 
 Por la autorización que realice el Municipio del régimen de propiedad en condominio, subdivisión, parcelaciones, fraccionamientos, fusiones, relotificaciones, conjuntos urbanos o urbanizaciones en general se pagará la siguiente tarifa:
 
-I. Por la autorización del régimen de propiedad en condominio por tipo de construcción:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-a) Interés social: EXENTO
+I. Por la autorización del régimen de propiedad en condominio de acuerdo al uso del condominio:
 
-b) Medio. Por unidad de propiedad exclusiva: 6.6 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-c) Residencial. Por unidad de propiedad exclusiva: 8.8 UMA
+a) Uso Habitacional para Vivienda de Interés Social (hasta 55.00 m2 de construcción), por unidad de propiedad exclusiva: EXENTO
 
-d) Comercial en Zona Hotelera. Por unidad de propiedad exclusiva: 11.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-e) Industrial, zonas mixtas y otros usos de suelos distintos a los antes mencionados: 15.0 UMA
+b) Uso Habitacional para Vivienda de nivel medio (de 55.00 a 250.00m2 de construcción), por unidad de propiedad exclusiva: 6.60 UMA.
 
-II. Por la autorización de subdivisión, parcelamiento, relotificación o fraccionamiento en general:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-a) Cuando resulten 2 lotes: 5.1 UMA
+c) Uso Habitacional para Vivienda Residencial (más de 250.00m2 de construcción), por unidad de propiedad exclusiva: 8.80 UMA.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+d) Uso Comercial en Zona Hotelera, por unidad de propiedad exclusiva: 15.00 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+e) Uso Comercial en otras zonas excepto Zona Hotelera, por unidad de propiedad exclusiva: 10.00 UMA
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+f) Usos industriales, usos mixtos y otros usos distintos a los antes señalados, por unidad de propiedad exclusiva: 15.00 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+g) Uso (sic) servicios, por unidad de propiedad exclusiva: 10.00 UMA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+II. Por la autorización de subdivisión, parcelación, relotificación o fraccionamiento en general:
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+a) Cuando resulten 2 lotes: 6.00 UMA
 
 b) Cuando resulten más de 2 lotes, por cada lote excedente: 4.5 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+c) Por cada lote que interviene en la relotificación: 10.00 UMA
 
 III. Por la fusión de predios en general:
 
 a) Por la fusión de 2 lotes: 5.1 UMA
 
 b) Más de 2 lotes originales, por cada lote adicional: 4.5 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IV. Por la actualización de la autorización de subdivisión o fusión con una antigüedad no mayor a 2 años; en caso de una antigüedad mayor se deberá realizar trámite nuevo, por cada fracción o lote resultante: 4.80 UMA
 
 ### CAPÍTULO V. DE LAS CERTIFICACIONES
 
@@ -1321,7 +1451,9 @@ Si dentro del primer año de hecho un refrendo de temporalidad se solicita la pe
 
 El Municipio concederá las licencias para las exhumaciones y traslado de cadáveres o restos, una vez satisfechos los requisitos de salubridad y el pago de los derechos correspondientes.
 
-### CAPÍTULO VII. DEL ALINEAMIENTO DE PREDIOS, NÚMERO OFICIAL, CONSTANCIA DE USO DE SUELO, MEDICIÓN DE SOLARES DEL FUNDO LEGAL Y SERVICIOS CATASTRALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII. DEL ALINEAMIENTO DE PREDIOS, NÚMERO OFICIAL, CONSTANCIA DE USO DE SUELO, MEDICIÓN DE SOLARES DEL FUNDO LEGAL, SERVICIOS CATASTRALES Y DE DESARROLLO URBANO
 
 ###### Artículo 92.
 
@@ -1331,25 +1463,15 @@ Los derechos respectivos se cubrirán previamente a la prestación del servicio,
 
 I. Alineación de predios:
 
-a) En las zonas urbanas y residenciales
-
-determinadas por la autoridad catastral:
+a) En las zonas urbanas y residenciales determinadas por la autoridad catastral:
 
 1. Con frente hasta de 20 metros: 2.2 a 9.7 UMA
 
-2. Con frente de más de 20 metros hasta
+2. Con frente de más de 20 metros hasta 40 metros lineales: 6.6 UMA a 12.05 UMA
 
-40 metros lineales: 6.6 UMA a 12.05 UMA
+3. Por cada metro adicional a los 40 metros de frente: 0.17 UMA
 
-3. Por cada metro adicional a los
-
-40 metros de frente: 0.17 UMA
-
-b) En las zonas suburbanas y
-
-fuera de zonas residenciales
-
-determinadas por la autoridad catastral:
+b) En las zonas suburbanas y fuera de zonas residenciales determinadas por la autoridad catastral:
 
 1. Con frente hasta de 20 metros: 2.2 UMA a 6.6 UMA
 
@@ -1365,199 +1487,121 @@ II. Expedición:
 
 III. Constancia de Uso del suelo:
 
-a) Habitacional o vivienda de
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Interés social: 3.3 UMA a 7.7 UMA
+a) Habitacional o Vivienda de Interés Social (hasta 55.00 m2 de construcción): 5.00 UMA a 10.00 UMA
 
-b) Habitacional o vivienda de nivel medio: 4.4 UMA a 16.5 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-c) Habitacional o vivienda Residencial: 5.5 UMA a 22.0 UMA
+b) Habitacional o Vivienda de nivel medio (de 55.00 a 250.00m2 de construcción): 5.00 UMA a 16.50 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+c) Habitacional o Vivienda Residencial (más de 250.00m2 de construcción): 5.50 UMA a 22.00 UMA
 
 d) Comercial, industrial y de servicios: 5.5 UMA a 548 UMA
 
 e) Con fines turísticos de: 11 UMA a 1096 UMA
 
-IV. Los servicios prestados por el
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Catastro Municipal causarán derechos
+f) Con fines o actividades agropecuarias y similares, y con otros usos no señalados anteriormente: 10.00 UMA a 500.00 UMA
 
-cuyo pago deberá efectuarse al momento
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-de solicitarse el servicio y de
+g) Por concepto de actualización del titular o cambio de titular en una constancia de uso de suelo ya expedida, que no tenga una antigüedad mayor a 3 años en su fecha de expedición, y que se mantenga el giro o actividad, sin aumentos o disminuciones de giros: 12.00 UMA a 50.00 UMA
 
-acuerdo con las tarifas siguientes:
+IV. Los servicios prestados por el Catastro Municipal causarán derechos cuyo pago deberá efectuarse al momento de solicitarse el servicio y de acuerdo con las tarifas siguientes:
 
 a) Por la subdivisión de predios:
 
 1. Cuando resulten dos lotes: 7.4 UMA
 
-2. Cuando resulten más de dos lotes,
+2. Cuando resulten más de dos lotes, por lote excedente: 6.0 UMA
 
-por lote excedente: 6.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-3. Cuando los bienes inmuebles sean
+3. Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular, se causará el 50% de los derechos a que se refieren los numerales 1 y 2 del presente inciso.
 
-destinados para la vivienda de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-interés social y popular, se causará
+4. Prórroga de subdivisión: 7.14 UMA
 
-el 50% de los derechos a que se refieren
+b) Por croquis de localización: 8.9 UMA
 
-los numerales a) y b) de esta fracción.
+c) Por copias heliográficas y/o bond de planos: 8.9 UMA
 
-b) (sic) Por croquis de localización: 8.9 UMA
-
-c) Por copias heliográficas y/o bond
-
-de planos: 8.9 UMA
-
-d) Por certificados de valor
-
-catastral y vigencia (cédula catastral): 4.5 UMA
+d) Por certificados de valor catastral y vigencia (cédula catastral): 4.5 UMA
 
 e) Certificación de medidas y colindancias:
 
-Por deslinde y levantamiento
+Por deslinde y levantamiento topográfico de predios rústicos y urbanos, serán calculados de acuerdo al siguiente cuadro de superficies:
 
-topográfico de predios rústicos y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-urbanos, serán calculados de acuerdo
+1. De 1 a 300 metros cuadrados: 15.0 UMA
 
-al siguiente cuadro de superficies:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-1. Hasta de una hectárea: 60.0 UMA
+2. De 301 a 600 metros cuadrados: 20.0 UMA
 
-2. De más de 1 a 2 hectáreas: 70.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-3. De más de 2.01 a 4 hectáreas: 150.0 UMA
+3. De 601 a 1000 metros cuadrados: 25.0 UMA
 
-4. De más de 4 hectáreas según
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-perímetro, por metro lineal: 0.15 UMA
+4. De 1001 a 2000 metros cuadrados: 30.0 UMA
 
-f) Constancias de propiedad o
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-constancias de no propiedad: 4.0 UMA
+5. De 2001 a 5000 metros cuadrados: 40.0 UMA
 
-g) La expedición de documentos
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-extraviados: 3.2 UMA
+6. De 5001 a 10000 metros cuadrados: 50.0 UMA
 
-h) Por declaración de documentos
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-inscritos en el registro público
+7. De 10001 metros cuadrados a 2 hectáreas: 60.0 UMA
 
-de la propiedad y del comercio
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-para su registro en el padrón
+8. De 2.01 hectáreas a 4 hectáreas: 150.0 UMA
 
-de contribuyentes del impuesto predial: 4.5 UMA
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-i) Por la asignación de claves
+9. Por metro lineal que exceda de 4 hectáreas, según perímetro: 0.175 UMA
 
-catastrales y avalúos en propiedad
+f) Constancias de propiedad o constancias de no propiedad: 4.0 UMA
 
-de régimen en condominio,
+g) La expedición de documentos extraviados: 3.2 UMA
 
-fraccionamiento y subdivisiones
+h) Por declaración de documentos inscritos en el registro público de la propiedad y del comercio para su registro en el padrón de contribuyentes del impuesto predial: 4.5 UMA
 
-se aplicará por indiviso o fracción
+i) Por la asignación de claves catastrales y avalúos en propiedad de régimen en condominio, fraccionamiento y subdivisiones se aplicará por indiviso o fracción resultante: 4.5 UMA
 
-resultante: 4.5 UMA
+j) Por la práctica de avalúos que realicen peritos designados por la autoridad catastral municipal a solicitud del interesado, se ajustará a lo siguiente:
 
-j) Por la práctica de avalúos que
+1. Hasta $100,000.00: 5% sobre el valor que resulte.
 
-realicen peritos designados por la
+2. De $100,000.01 en adelante: 6% sobre el valor que resulte:
 
-autoridad catastral municipal a
+k) Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular: 5.00 UMA
 
-solicitud del interesado, se ajustará
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-a lo siguiente:
+l) Por verificación de medidas y colindancias, cuando se trate de predios rústicos y suburbanos o cuando exista previamente una certificación de medidas y colindancias realizada por la dirección de catastro Municipal.
 
-1. Hasta $100,000.00: 5% sobre el valor
+m) Los servicios catastrales no previstos en esta tarifa pagarán una cuota que no excederá del costo de los mismos la que será fijada por la autoridad catastral municipal, atendiendo al valor comercial que representa la prestación del servicio.
 
-que resulte.
+n) Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etcétera, los interesados deberán cubrirlos sin que excedan del costo comercial de los mismos.
 
-2. De $100,000.01 en adelante: 6% sobre el valor
+o) Por alta de predio en el padrón catastral, cambio de propietario, cambio de condición, corrección de datos en cedula catastral, constancia de nomenclatura, constancia de desglose de áreas, constancias de construcción o información catastral por escrito: 5.00 UMA
 
-que resulte:
+p) Por la búsqueda y expedición de copias simples de cédulas catastrales o de cualquier otro documento catastral, por cada hoja: 1.06 UMA
 
-k) Cuando el avalúo se realice
-
-a los bienes inmuebles destinados
-
-para la vivienda de interés social
-
-y popular: 5.00 UMA
-
-l) Por verificación de medidas y
-
-colindancias de predios rústicos
-
-y suburbanos conforme a las
-
-condiciones, distancia y tiempo
-
-que dure el trabajo.
-
-m) Los servicios catastrales no
-
-previstos en esta tarifa pagarán una
-
-cuota que no excederá del costo de los
-
-mismos la que será fijada por la
-
-autoridad catastral municipal, atendiendo
-
-al valor comercial que representa la
-
-prestación del servicio.
-
-n) Cuando con motivo de la prestación
-
-de los servicios arriba señalados
-
-se eroguen gastos adicionales
-
-por traslado, alimentación, etcétera,
-
-los interesados deberán cubrirlos
-
-sin que excedan del costo comercial
-
-de los mismos.
-
-o) Por alta de predio en el
-
-padrón catastral, cambio de
-
-propietario, cambio de condición,
-
-corrección de datos en cedula
-
-catastral, constancia de nomenclatura,
-
-constancia de desglose de áreas,
-
-constancias de construcción o
-
-información catastral por escrito: 5.00 UMA
-
-p) Por la búsqueda y expedición
-
-de copias simples de cédulas
-
-catastrales o de cualquier otro
-
-documento catastral, por cada hoja: 1.06 UMA
-
-q) Por autorización para
-
-escrituración de lote
-
-(Carta de liberación de lote): 7.16 UMA
+q) Por autorización para escrituración de lote (Carta de liberación de lote): 7.16 UMA
 
 r) Por la fusión de predios:
 
@@ -1565,33 +1609,85 @@ r) Por la fusión de predios:
 
 2. Por lote adicional: 4.5 UMA
 
-3. Cuando los bienes inmuebles
+3. Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular, se causará el 50% de los derechos a que se refieren los numerales 1 y 2 de esta fracción e inciso.
 
-sean destinados para la vivienda
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-de interés social y popular,
+4. Prorroga de fusión: 6.00 UMA
 
-se causará el 50% de los derechos
+s) Asignación de nomenclatura a fraccionamientos: 20.0 UMA
 
-a que se refieren los numerales
+t) Por la búsqueda y expedición de copias certificadas de documentos que emita la autoridad catastral municipal. 4.35 UMA
 
-1 y 2 de esta fracción e inciso.
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-s) Asignación de nomenclatura a
+u) Por apeo y deslinde:
 
-fraccionamientos: 20.0 UMA
+1. De 1 a 300 metros cuadrados: 17.5 UMA
 
-t) Por la búsqueda y expedición
+2. De 301 a 600 metros cuadrados: 23.4 UMA
 
-de copias certificadas de
+3. De 601 a 1000 metros cuadrados: 29.5 UMA
 
-documentos que emita la autoridad
+4. De 1001 a 2000 metros cuadrados: 36.7 UMA
 
-catastral municipal. 4.35 UMA
+5. De 2001 a 5000 metros cuadrados: 47.2 UMA
+
+6. De 5001 a 10000 metros cuadrados: 58.6 UMA
+
+7. De 10001 metros cuadrados a 2 hectáreas: 69.8 UMA
+
+8. De 2.01 hectáreas a 4 hectáreas: 169.0 UMA
+
+9. Por metro lineal que exceda de 4 hectáreas, según perímetro: 0.19 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+V. Por la autorización de diversas acciones urbanísticas.
+
+a) Por la autorización de la densificación, en los términos fijados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se pagará por cada unidad resultante del incremento, de acuerdo con lo siguiente:
+
+1. Por cada vivienda de Interés Social (hasta 55.00 m2 de construcción): 30.00 UMA
+
+2. Por cada vivienda de nivel medio (de 55.00 a 250.00 m2 de construcción): 50.00 UMA
+
+3. Por cada vivienda residencial (más de 250.00m2 de construcción): 75.00 UMA
+
+4. Por cada cuarto hotelero en zona turística de playa o zona hotelera de playa: 200 UMA
+
+5. Por cada cuarto hotelero o su equivalente en otras ubicaciones diferentes a la fracción anterior: 120.00 UMA
+
+6. Por cada unidad de uso comercial, servicios, usos mixtos u otros usos no señalados anteriormente: 50.00 UMA
+
+b) Por la autorización de la zonificación incluyente en los términos fijados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se pagará al Municipio la compensación por el potencial de uso de suelo de las superficies a ampliar, con base a cada unidad resultante y/o beneficiada de esta acción, de acuerdo a lo establecido en la fracción V, numeral 1, del presente artículo.
+
+c) Por la autorización de la reconfiguración en los términos fijados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se pagará por cada unidad de propiedad involucrada y/o beneficiada de esta acción, de acuerdo con lo siguiente:
+
+1. Por cada unidad de propiedad de tipo o uso vivienda de Interés Social (hasta 55.00 m2 de construcción): 9.00 UMA
+
+2. Por cada unidad de propiedad de tipo o uso vivienda de nivel medio (de 55.00 a 250.00m2 de construcción): 12.00 UMA
+
+3. Por cada unidad de propiedad de tipo o uso vivienda Residencial (más de 250.00m2 de construcción): 18.00 UMA
+
+4. Por cada unidad de propiedad de tipo o uso cuarto hotelero en zona turística o zona hotelera: 22.00 UMA
+
+5. Por cada unidad de propiedad de tipo o uso cuarto hotelero en otras ubicaciones diferentes a la fracción anterior: 14.00 UMA
+
+6. Por cada unidad de propiedad de tipo o uso unidad de uso comercial, servicios, usos mixtos u otros usos no señalados anteriormente: 18.00 UMA
+
+d) Por la autorización de la vinculación en los términos fijados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, se pagará por cada unidad de propiedad, lote o predio involucrado(s) y/o beneficiado(s) de esta acción, de acuerdo con lo dispuesto en la autorización de la reconfiguración.
+
+e) Por el trámite de reconocimiento de validez de documentos de permisos, licencias y autorizaciones antiguas expedidas por las entonces dependencias municipales anteriores y que en la actualidad corresponden con la Dirección General de Desarrollo Urbano, Medio Ambiente y Ecología, se pagará: 10.00 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VI. Por concepto de actualización del titular o cambio de titular en una constancia de uso de suelo ya expedida, que no tenga una antigüedad mayor a 3 años en su fecha de expedición, y que se mantenga el giro o actividad, sin aumentos o disminuciones de giros: 12.00 UMA a 50.00 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 93.
 
-Los alineamientos de predios tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición.
+Los alineamientos, certificaciones, subdivisiones, fusiones, lotificaciones o fraccionamientos de predios tendrán una vigencia de seis meses contados a partir de la fecha de su expedición.
 
 ###### Artículo 94.
 
@@ -2059,7 +2155,9 @@ Serán responsables solidarios del pago de este derecho, los propietarios de los
 
 Por la expedición de licencias, permisos o autorizaciones que otorguen las autoridades facultadas para estos efectos, con base al reglamento de anuncios del Municipio se deberán pagar las tarifas siguientes:
 
-I. Denominativos, anualmente: 1.65 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+I. Denominativos, anualmente: 2.5 UMA
 
 II. Anuncios colocados en vehículos del servicio público, por vehículo anualmente:
 
@@ -2071,23 +2169,41 @@ III. Volantes, encartes ofertas por mes: 3.00 UMA
 
 IV. Por difusión fonética de publicidad en la vía pública por unidad de sonido por día: 3.0 UMA
 
-V. Mantas y lonas; en la vía pública por mes: 0.6 a 2.2 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+V. Mantas y lonas; en la vía pública, por mes: 0.10 a 0.73 UMA
 
 VI. Por anuncios espectaculares con altura mínima de tres metros, por anuncio anualmente:
 
-a) Cuyo contenido se despliegue a través de una sola carátula, vista o pantalla excepto electrónicos: 75.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-b) Cuyo contenido se despliegue a través de dos o más carátulas, vistas o pantallas, excepto electrónicos: 148.0 UMA
+a) Cuyo contenido se despliegue a través de una sola carátula o vista: 2.5 UMA
 
-VII. Anuncios luminosos, anualmente:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-a) Una pantalla: 60.0 UMA
+b) Cuyo contenido se despliegue a través de dos o más carátulas o vistas: 24.6 UMA
 
-b) Dos o más pantallas: 74.0 UMA
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VII. Anuncios luminosos, anualmente por metro cuadrado:
+
+a) Una vista o pantalla: 8.5 UMA
+
+b) Dos o más vistas: 10.5 UMA
 
 VIII. Anuncios giratorios anualmente: 45.0 UMA
 
-IX. Anuncio cuyo contenido se transfiera a través de pantalla electrónica, anualmente: 100.0 UMA
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+a) Cuando el movimiento rotatorio se realice por mecanismos eléctrico (sic): 90.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+b) Cuando el movimiento rotatorio de realice por acción del viento: 45.0 UMA
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IX. Anuncio cuyo contenido se transfiera a través de pantalla electrónica, por mes: 16.6 UMA
 
 X. Anuncios pintados, fijados, sobre muros, tapias, fachadas, techos, marquesinas, etc., que no sean denominativos, por metro cuadrado anual: 0.40 UMA
 
@@ -2097,11 +2213,15 @@ XII. Carteles y posters, por mes: 0.9 UMA
 
 XIII. Anuncios luminosos de gas neón por metro cuadrado anualmente: 0.80 UMA
 
-XIV. Anuncio espectacular denominativo de centro comercial, anualmente: 40.00 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+XIV. Anuncio espectacular denominativo de centro comercial, por mes: 6.6 UMA
 
 XV. Mantas y lonas impresas con o sin bastidor, fijadas en fachadas, muros, marquesinas, tapias, techo, etc por metro cuadrado anualmente: 2.0 UMA
 
-XVI. Anuncio (sic) tridimensionales adosados a fachada, anualmente: 40.0 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+XVI. Anuncio tridimensional adosados (sic) a fachada, anualmente, por metro cuadrado: 4.5 UMA
 
 ###### Artículo 115.
 
@@ -2197,361 +2317,75 @@ Las personas físicas o morales que requieran del servicio especial lo solicitar
 
 ### CAPÍTULO XX. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 128.
 
-Los servicios prestados por la autoridad municipal de Protección Civil causarán derechos que se pagarán con base en las tarifas siguientes:
+Los servicios prestados por la autoridad municipal de Protección Civil causarán derechos, anualmente, que se pagarán con base en las tarifas siguientes:
 
-I. Por el Servicio de Asesoría Técnica: 2.2 UMA
+I. Por el servicio de asesoría técnica: 2.2 UMA
 
-II. Registro de Prestadores de Servicio:
+II. Registro de prestadores de servicio: 11.0 UMA
 
-a) En venta, recarga y mantenimiento de extintores: 11.0 UMA
+a) Elaboración de Programas Internos de Protección Civil: 34.0 UMA
 
-b) En dictamen técnico eléctrico: 16.5 UMA
+b) Capacitación en las cuatro brigadas de Protección Civil: 34.0 UMA
 
-c) En instalación de gas LP: 16.5 UMA
+c) Capacitación de Brigadas en Prevención y Combate de Incendios: 20.0 UMA
 
-d) En elaboración de Programa Interno de Protección Civil: 16.5 UMA
+d) Capacitación en Brigadas en Primeros Auxilios: 20.0 UMA
 
-e) Como capacitador en materia de Protección Civil: 22.0 UMA
+e) Capacitación en Brigadas en Evacuación de Inmuebles: 20.0 UMA
 
-f) En servicio, dictaminación y mantenimiento de recipientes sujetos a presión y calderas: 16.5 UMA
+f) Capacitación en Brigadas en Búsqueda y Rescate: 20.0 UMA
 
-g) En dictamen de riesgos estructurales de inmuebles: 22.0 UMA
+g) Venta, Recarga y mantenimiento de extintores: 11.0 UMA
 
-III. Por la Certificación: 5.5 UMA
+h) Elaboración y capacitación en Programas de Seguridad, Salvamento y Rescate Acuático: 15.0 UMA
 
-IV. Por la autorización de la Dirección de Protección Civil para la tramitación de las licencias de funcionamiento:
+i) Aplicación de productos químicos y retardantes de fuego: 25.0 UMA
 
-1. Academias en general: 8.0 UMA
+j) Dictamen Técnico en instalación de gas LP: 16.5 UMA
 
-2. Accesorios para autos: 8.0 UMA
+k) Dictamen técnico eléctrico: 20.0 UMA
 
-3. Agencias de autos y motos: 34.0 UMA
+l) Dictamen de Instalaciones y sistemas contra incendio y detección de humo: 32.0 UMA
 
-4. Agua purificada, dispensadora: 8.0 UMA
+m) Dictaminador en Riesgo Estructural: 30.0 UMA
 
-5. Agua purificada, distribuidora 10.0 UMA
+III. Por la Certificación de programas internos de Protección Civil de mediano y alto riesgo:
 
-6. Agua purificada, planta purificadora: 15.0 UMA
+a) En giros de alto riesgo: 20.0 UMA
 
-7. Antojitos y loncherías: 8.0 UMA
+b) En giros de mediano riesgo: 10.0 UMA
 
-8. Aseguradoras: 16.0 UMA
+IV. Por la inspección y expedición de certificado de anuencia de Protección Civil, para antenas de telecomunicación, telefonía celular, internet y similares, el cual se pagará conforme a la siguiente tarifa.
 
-9. Espectaculares: 12.0 UMA
+a) De 0.1 a 10 metros de altura: 30.0 UMA
 
-10. Balnearios/centro recreativo: 20.0 UMA
+b) De 11 a 20 metros de altura: 45.0 UMA
 
-11. Bancos: 60.0 UMA
+c) De 21 a 30 metros de altura: 60.0 UMA
 
-12. Bares tipo 1: 16.0 UMA
+d) De 31 metros de altura en adelante: 75.0 UMA
 
-13. Bares tipo 2: 10.0 UMA
+V. Por la autorización del Dictamen de anuencia de Protección civil, para la tramitación de las licencias de funcionamiento.
 
-14. Bienes raíces: 22.0 UMA
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 24 DE DICIEMBRE DE 2021, PÁGINAS DE LA 130 A LA 137.]</small>
 
-15. Billar: 14.0 UMA
+VI. Por la revalidación anual de registro: 20.0 UMA
 
-16. Bodegas (grandes): 20.0 UMA
+VII. Anuencia para transporte de combustible, vigente por 6 meses.
 
-17. Cafeterías (grande): 15.0 UMA
+a) Transporte de combustible para trabajo de campo y ejidal: 5.00 a 25.0 UMA
 
-18. Cafeterías (pequeñas): 10.0 UMA
+b) Transporte de gas licuado del petróleo: 30.0 a 50.0 UMA
 
-19. Casa de cambio: 16.0 UMA
+VIII. Anuencia para uso de pirotecnia: 10.0 a 50.0 UMA
 
-20. Casa de empeño: 32.0 UMA
+IX. Por la emisión de diagnósticos de riesgos: 10.0 a 50.0 UMA
 
-21. Centro de diversiones (casino): 50.0 UMA
-
-22. Centro de diversiones: 20.0 UMA
-
-23. Centro de rehabilitación: 7.0 UMA
-
-24. Centro nocturno: 10.0 UMA
-
-25. Chicharronerias / carnitas: 10.0 UMA
-
-26. Ciber: 5.0 UMA
-
-27. Cines: 10.0 UMA
-
-28. Circos: 50.0 UMA
-
-29. Clínicas tipo 1: 50.0 UMA
-
-30. Clínicas tipo 2: 20.0 UMA
-
-31. Cocina económica: 10.0 UMA
-
-32. Coctelerías: 12.0 UMA
-
-33. Rentadora, varios: 10.0 UMA
-
-34. Compra y venta de chatarra: 45.0 UMA
-
-35. Concreteras /material de construcción trituradora de piedra:
-
-15.0 UMA
-
-36. Constructoras – bodegas: 25.0 UMA
-
-37. Consultorio dental, médico, otros: 16.0 UMA
-
-38. Cuarterías / posadas: 15.0 UMA
-
-39. Depósito de combustibles: 300.0 UMA
-
-40. Delfinario: 8.0 UMA
-
-41. Deshuesadoras de vehículos: 50.0 UMA
-
-42. Discotecas: 15.0 UMA
-
-43. Distribuidora de cervezas: 15.0 UMA
-
-44. Distribuidora de pollos y huevo: 20.0 UMA
-
-45. Distribuidora de refrescos: 15.0 UMA
-
-46. Distribuidoras: 10.0 UMA
-
-47. Drinks: 30.0 UMA
-
-48. Escuelas particulares: 60.0 UMA
-
-49. Estación de radio: 20.0 UMA
-
-50. Estancias infantiles / guarderías/ ludotecas: 12.0 UMA
-
-51. Expendio de productos químicos y de limpieza: 20.0 UMA
-
-52. Fábricas tipo 2 (cigarros, galletas, cal, hielo, ropa): 40.0 UMA
-
-53. Fábricas tipo 2 (cigarros, galletas, cal, hielo, ropa): 30.0 UMA
-
-54. Farmacias: 30.0 UMA
-
-55. Ferrotlapalerías y ferreterías – tipo 1: 50.0 UMA
-
-56. Ferrotlapalerías y ferreterías – tipo 2: 20.0 UMA
-
-57. Florerías: 10.0 UMA
-
-58. Funerarias: 50.0 UMA
-
-59. Galerías de arte: 5.0 UMA
-
-60. Gaseras: 20.0 UMA
-
-61. Gasolineras: 20.0 UMA
-
-62. Gimnasios: 8.0 UMA
-
-63. Hospitales privados: 50.0 UMA
-
-64. Hotel y restaurant: 15.0 UMA
-
-65. Hoteles tipo 1: 50.0 UMA
-
-66. Hoteles tipo 2: 25.0 UMA
-
-67. Impresión de periódicos (edición integrada con la
-
-impresión): 20.0 UMA
-
-68. Imprentas: 8.0 UMA
-
-69. Joyería: 10.0 UMA
-
-70. Laboratorios de análisis: 8.0 UMA
-
-71. Lácteos y carnes frías: 10.0 UMA
-
-72. Lavadero de autos: 6.0 UMA
-
-73. Lavandería y tintorerías: 15.0 UMA
-
-74. Librerías / papelerías: 5.0 UMA
-
-75. Línea de autotransporte: 10.0 UMA
-
-76. Llanteras- compra venta: 15.0 UMA
-
-77. Marisquerías: 10.0 UMA
-
-78. Mensajería y paquetería: 16.0 UMA
-
-79. Mini súper: 8.0 UMA
-
-80. Mini súper con venta de cerveza: 20.0 UMA
-
-81. Motel / posadas/hostal: 25.0 UMA
-
-82. Mueblerías (maderas): 8.0 UMA
-
-83. Novedades: 5.0 UMA
-
-84. Peleterías: 10.0 UMA
-
-85. Panaderías: 10.0 UMA
-
-86. Pastelerías: 15.0 UMA
-
-87. Perfumería y similares (en plazas comerciales): 8.0 UMA
-
-88. Parque acuático: 19.0 UMA
-
-89. Pescaderías: 8.0 UMA
-
-90. Piano bar: 25.0 UMA
-
-91. Pinturas en general y accesorios: 10.0 UMA
-
-92. Pizzerías – tipo 1: 12.0 UMA
-
-93. Pizzerías – tipo 2: 10.0 UMA
-
-94. Planta distribuidora eléctrica: 10.0 UMA
-
-95. Plazas comerciales (servicios de agentes inmobiliarios): 10.0 UMA
-
-96. Refaccionarias – tipo 1: 25.0 UMA
-
-97. Refaccionarias – tipo 2: 15.0 UMA
-
-98. Reparación de calzado: 4.0 UMA
-
-99. Restaurant bar: 25.0 UMA
-
-100. Restaurantes tipo 1 (con servicio de meseros): 20.0 UMA
-
-101. Restaurantes tipo 2: 15.0 UMA
-
-102. Rosticerías -pollos asados: 10.0 UMA
-
-103. Rótulos, mantas: 4.0 UMA
-
-104. Sala de fiestas: 10.0 UMA
-
-105. Sastrerías: 5.0 UMA
-
-106. Servicio de aires acondicionados, computo, telecomunicaciones: 6.0 UMA
-
-107. Servicios de fumigación: 6.0 UMA
-
-108. Servicios de grúas: 30.0 UMA
-
-109. Servicios de publicidad: 5.0 UMA
-
-110. Servicios financieros y financieras: 20.0 UMA
-
-111. Servicios turísticos (agencias de viajes): 10.0 UMA
-
-112. Servicios digitales (centro de atención a clientes): 50.0 UMA
-
-113. Venta de servicios digitales (celulares y accesorios): 8.0 UMA
-
-114. Servicio de seguridad privada: 20.0 UMA
-
-115. Talleres en general tipo 1 (electrónica, mecánico, eléctrico, tapicería): 15.0 UMA
-
-116. Talleres en general tipo 2 (electrónica, mecánico, eléctrico, tapicería): 10.0 UMA
-
-117. Taquerías tipo 1: 15.0 UMA
-
-118. Taquerías tipo 2: 10.0 UMA
-
-119. Tatuajes y perforaciones: 5.0 UMA
-
-120. Tianguis de autos: 16.0 UMA
-
-121. Tienda de abarrotes (grandes): 20.0 UMA
-
-122. Tienda de artesanías: 5.0 UMA
-
-123. Tienda de ropa tipo 1: 20.0 UMA
-
-124. Tienda de ropa tipo 2: 10.0 UMA
-
-125. Tienda de telas: 25.0 UMA
-
-126. Tiendas departamental: 15.0 UMA
-
-127. Tiendas de autoservicios: 8.0 UMA
-
-128. Tortillerías: 10.0 UMA
-
-129. Traslado de valores: 40.0 UMA
-
-130. Varios: 8.0 UMA
-
-131. Venta de aires acondicionados: 10.0 UMA
-
-132. Venta de carbón: 5.0 UMA
-
-133. Venta de chatarra (recicladora grande): 20.0 UMA
-
-134. Venta de complementos alimenticios: 5.0 UMA
-
-135. Venta de electrónicos y línea blanca: 37.0 UMA
-
-136. Venta de equipo de cómputo: 20.0 UMA
-
-137. Venta de herrería y aluminios: 8.0 UMA
-
-138. Venta de plomería, material eléctrico: 33.0 UMA
-
-139. Venta de vidrios y aluminios: 25.0 UMA
-
-140. Venta y recarga de extintores: 20.0 UMA
-
-141. Venta de Artículos usados (bazar): 8.0 UMA
-
-142. Veterinarias / venta de alimentos: 8.0 UMA
-
-143. Video juegos: 8.0 UMA
-
-144. Vinaterías: 20.0 UMA
-
-145. Vivero: 16.0 UMA
-
-146. Zapaterías: 8.0 UMA
-
-147. Abarrotes y/o tendejones: 4.0 UMA
-
-148. Bisutería en general: 4.0 UMA
-
-149. Carnicerías: 4.0 UMA
-
-150. Cerrajería: 4.0 UMA
-
-151. Despacho contable: 4.0 UMA
-
-152. Estéticas: 4.0 UMA
-
-153. Expendio de pan: 4.0 UMA
-
-154. Expendio de revistas-estanquillo: 4.0 UMA
-
-155. Expendio de pollo fresco: 4.0 UMA
-
-156. Fruterías: 4.0 UMA
-
-157. Oficinas administrativas (constructoras contable, despachos): 4.0 UMA
-
-158. Perfumerías (fuera de plazas comerciales): 4.0 UMA
-
-159. Taller de bicicletas –vulcanizadoras chicas: 4.0 UMA
-
-160. Locatarios de mercados hasta dos locales juntos: 4.0 UMA
-
-161. Locatarios de mercados de 3 o más locales juntos: 8.0 UMA
-
-IV. Por la revalidación anual de registro: 11.0 UMA
-
-V. Otros servicios no definidos en las anteriores fracciones a consideración y estudio técnico por parte del titular de la dirección: 6.6 a 50.0 UMA
+X. Servicio de capacitación e integración de brigadas en materia de protección civil: 10.0 a 50.0 UMA
 
 ### CAPÍTULO XXI. DEL (SIC) SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
 
@@ -2675,21 +2509,81 @@ c (sic)) Por más de tres horas: 1.40 UMA
 
 Por los materiales que se utilicen para reproducir la información que proporcionen los sujetos obligados de naturaleza municipal, previstos en la Ley de Transparencia y Acceso a la Información Pública, pagarán un derecho conforme a la tarifa siguiente:
 
-I. Por la expedición de documentos en copia simple:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-a) De una a cinco fojas: 0.05 UMA
+I. Para la expedición de copia simple blanco y negro tamaño carta:
 
-b) De seis fojas en delante por cada una: 0.027 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-II. Por la expedición de videocintas por cada una: 2.2 UMA
+a) De una a veinte fojas no se causará derecho alguno.
 
-III. Por la expedición de audio casettes por cada uno: 1.1 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 5 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+b) De veintiún fojas en adelante por cada una: 0.0110 UMA
 
-IV. POR LA EXPEDICIÓN DE DISCO COMPACTO POR CADA UNO: 1.1 UMA
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación para la Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Municipio, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
+II. Para la expedición de copia simple blanco y negro tamaño oficio:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+a) De una a veinte fojas no se causará derecho alguno.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+b) De veintiún fojas en adelante por cada una: 0.0120 UMA
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+III. Expedición de copia a color:
+
+a) De una a veinte fojas no se causará derecho alguno.
+
+b) De veintiún fojas en adelante tamaño carta por foja: 0.0828 UMA
+
+c) De veintiún fojas en adelante tamaño oficio por foja: 0.11 UMA
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IV. Versiones Públicas por foja: 0.04 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+V. Por la expedición de copias heliográficas y/o bond de planos geográficos o arquitectónicos que por sus características y dimensiones requieran de mecanismos especiales o equipo tecnológico especial para su reproducción se aplicará la tarifa prevista en la fracción IV inciso 3. c) de la Ley de Hacienda del Municipio de Othón P. Blanco del Estado de Quintana Roo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VI. Por la expedición de la información digital en disco compacto, multimedia, memoria usb:
+
+a) CD. 0.13 UMA
+
+b) CD regrabable 0.26 UMA
+
+c) DVD 0.06 UMA
+
+d) DVD regrabable 0.17 UMA
+
+e) USB de 8 a 64 GB 1.5 a 3.5 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VII. Por el escaneo de documentos para entregarlos en medios magnéticos, por cada hoja: 0.005 UMA.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+En la expedición de copias simples de datos personales (Acceso, Rectificación, Cancelación y Oposición), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+En la expedición de copias certificadas, además del precio de la copia a que se refieren las fracciones I, II y III de este artículo, se realizará el pago a que se refiere la fracción III del Artículo 85 Capítulo V de la Ley de Hacienda del Municipio de Othón P. Blanco del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago de derechos a que se refieren las fracciones I, II, III, IV, V, VI y VII, el solicitante deberá cubrir el costo del servicio respectivo por lo que deberá notificar a la Unidad de Transparencia correspondiente los servicios que ha contratado para que ésta última proceda al envío.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de lo dispuesto en la fracción VI, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación para la Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Municipio de Othón P. Blanco, el material señalado en esa fracción o cualquier otro que se requiera para la reproducción de la información solicitada siempre y cuando no exceda de veinte hojas.
 
 ### CAPÍTULO XXVI. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
 
@@ -2729,6 +2623,10 @@ a) Cremación individual: 14.0 UMA
 
 b) Cremación común $ 15.00 pesos por kilogramo de peso del animal.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IX. Por la recuperación de perros asegurados por el centro de atención Canina 1.0 a 10.0 UMA
+
 ### CAPÍTULO XXVIII. DE LOS SERVICIOS QUE PRESTA EL DEPARTAMENTO DE ZONA FEDERAL MARÍTIMO TERRESTRE Y MULTAS FEDERALES
 
 ###### Artículo 139.
@@ -2737,31 +2635,57 @@ Todos los servicios que proporcione del Departamento de Zona Federal Marítimo T
 
 I. Constancias:
 
-a) De uso o no uso de la ZOFEMAT: 2.5 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-b) De no adeudo por derecho de uso y goce o aprovechamiento de la ZOFEMAT: 2.5 UMA
+a) De uso o no uso de la ZOFEMAT: 11.0 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+b) De no adeudo por derecho de uso y goce o aprovechamiento de la ZOFEMAT: 11.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+c) Por otras constancias: 11.0 UMA
 
 II. Impresión de planos y/o cartas geográficas: 30.0 UMA a 75.0 UMA
 
-III. Levantamientos geodésicos vértices GPS pleamar; levantamientos vértices GPS límites con la ZOFEMAT y terrenos ganados al mar u alguna otra área federal costera solicitada: 20.0 UMA a 30.0 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-IV. Visitas técnicas y/o inspección a la ZOFEMAT solicitadas por particulares: 20.0 UMA a 30.0 UMA
+III. Levantamientos geodésicos vértices GPS pleamar; levantamientos vértices GPS límites con la ZOFEMAT y terrenos ganados al mar u alguna otra área federal costera solicitada: 30.0 a 50.0 UMA
 
-V. Por cualquier modificación en la superficie, nombre, domicilio, uso, concesión y/o propietario en el padrón de contribuyentes de la ZOFEMAT: 2.0 UMA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IV. Visitas técnicas y/o inspección a la ZOFEMAT solicitadas: 30.0 a 50.0 UMA
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+V. Por cualquier modificación en la superficie, nombre, domicilio, uso, concesión y/o propietario en el padrón de contribuyentes de la ZOFEMAT: 6.0 UMA
 
 VI. Expedición de copias certificadas de constancias existentes en los archivos de la ZOFEMAT, por cada hoja: 1.0 UMA
 
 VII. Factibilidad de usos y aprovechamientos, por mes:
 
-a) Masajes, por mesa: 10.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-b) Artesanías, por mesa: 10.0 UMA
+a) Masajes, por mesa: 06.00 UMA
 
-c) Prestaciones de servicios turísticos, por locación o stand: 25.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+b) Artesanías, por mesa: 05.0 a 15.0 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+c) Prestaciones de servicios turísticos, por locación o stand: 13.00 UMA
 
 d) Eventos especiales, religiosos, culturales, deportivos, fotografía y video, por evento: 25.0 UMA
 
-e) Trencitas, por silla: 10.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+e) Trencitas, por silla: 04.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+f) Por la colocación de objetos recreativos, de descanso, para consumir alimentos o bebidas, para hacer ejercicio, módulos de venta en general, o similares sobre el área de la Zona Federal. 0.5 a 50.0 UMA
 
 ###### Artículo 140.
 
@@ -2769,7 +2693,7 @@ Quedan comprendidas en este capítulo las personas físicas que realicen los sig
 
 I. Los vendedores de tiempos compartidos;
 
-II. Los peritos responsable de obra y corresponsables;
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2021)
 
 III. Los promotores de tiempo compartido.
 
@@ -2779,7 +2703,7 @@ Los derechos a que se refiere el artículo anterior se pagarán de acuerdo a la 
 
 I. Para los vendedores de tiempo compartido por mes; 11.0 a 55.0 UMA
 
-II. Para los promotores de tiempos compartidos, por año: 11.0 a 55.0 UMA
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2021)
 
 III. Para los peritos responsable de obra y corresponsables, por año: 11.0 a 55.0 UMA
 
@@ -2787,13 +2711,51 @@ III. Para los peritos responsable de obra y corresponsables, por año: 11.0 a 55
 
 Aquellos derechos no regulados en la presente Ley, se recaudarán conforme al ordenamiento legal correspondiente.
 
-### CAPÍTULO I. DE LA VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO II. DE LOS BIENES MOSTRENCOS
+### CAPÍTULO XXIX. "DEL SANEAMIENTO AMBIENTAL"
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 142 Bis.
+
+Los derechos que establece este artículo se causarán por la ejecución de saneamiento ambiental que se realice en el municipio, en razón de la ocupación de hoteles, posadas o casas de huéspedes, hostales y moteles; y del arribo vía marítima al territorio del Municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 142 Ter.
+
+Están obligados a pagar el derecho de saneamiento ambiental, el o los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles. Asimismo, están obligados a pagar este derecho, las personas que arriben vía marítima al territorio del Municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 142 Quater.
+
+El pago del derecho de saneamiento ambiental se causará en razón de la siguiente tarifa:
+
+I. El .15 del valor diario de la U.M.A. por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (checkout) si el pago es después de prestado el servicio.
+
+II. El .15 del valor diario de la U.M.A. que deberá ser cubierto al momento de adquirir el boleto del servicio de transporte marítimo que corresponda o al pagar la tarifa por uso de la infraestructura portuaria cuando se arribe en una embarcación privada.
+
+El monto de este derecho será retenido por los prestadores de los servicios de transporte marítimo o de hospedaje, según corresponda, y será enterado a la tesorería municipal de conformidad con lo dispuesto en la presente ley.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 142 Quinquies.
+
+Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal la información que se refiere a las habitaciones ocupadas por la prestación de ese servicio y el número de arribos vía marítima, así como de las operaciones practicadas con personas físicas y morales respecto de la causación de este derecho, a más tardar el día quince del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 142 Sexies.
+
+Quedan exentos del pago de este derecho, respecto de la fracción II del artículo 142 Quater, de esta Ley, quienes acrediten ser residentes del municipio de Othón P. Blanco.
+
+### CAPÍTULO I. DE LA VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO III. DE LOS MERCADOS Y OTROS SITIOS
+### CAPÍTULO II. DE LOS BIENES MOSTRENCOS
 
 ###### Artículo 143.
 
@@ -2811,7 +2773,7 @@ En todos los casos en que se autorice la enajenación de bienes de los municipio
 
 Los bienes de uso común o destinados al servicio de los municipios no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización de la Legislatura del Estado.
 
-### CAPÍTULO IV. DEL ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO III. DE LOS MERCADOS Y OTROS SITIOS
 
 ###### Artículo 147.
 
@@ -2821,7 +2783,7 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil constituirá un ingreso para la hacienda municipal.
 
-### CAPÍTULO V. DE LOS CRÉDITOS A FAVOR DEL MUNICIPIO
+### CAPÍTULO IV. DEL ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 149.
 
@@ -2867,7 +2829,7 @@ c) Cuando los vendedores no establezcan puestos semifijos en la vía pública, d
 
 d) Otros no especificados, diario: 0.10 UMA a 6.50 UMA
 
-### CAPÍTULO VI. DE LA VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO V. DE LOS CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 150.
 
@@ -2877,19 +2839,19 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter estatal que al respecto existan.
 
-### CAPÍTULO VII. DE LOS PRODUCTOS DIVERSOS
+### CAPÍTULO VI. DE LA VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 152.
 
 Se consideran productos aquellos ingresos que obtiene el municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO ÚNICO. DE LOS APROVECHAMIENTOS
+### CAPÍTULO VII. DE LOS PRODUCTOS DIVERSOS
 
 ###### Artículo 153.
 
 El Municipio podrá obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servicio de limpia y transporte.
 
-### CAPÍTULO ÚNICO. DE LAS PARTICIPACIONES
+### CAPÍTULO ÚNICO. DE LOS APROVECHAMIENTOS
 
 ###### Artículo 154.
 
@@ -2897,7 +2859,7 @@ Los productos no especificados en este capítulo, así como el costo administrat
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO ÚNICO. DE LAS APORTACIONES FEDERALES
+### CAPÍTULO ÚNICO. DE LAS PARTICIPACIONES
 
 ###### Artículo 155.
 
@@ -2905,7 +2867,7 @@ Son aprovechamientos los ingresos que correspondan a las funciones de derecho p�
 
 ## TÍTULO SEXTO. DE LAS PARTICIPACIONES
 
-### CAPÍTULO ÚNICO. OTROS INGRESOS
+### CAPÍTULO ÚNICO. DE LAS APORTACIONES FEDERALES
 
 ###### Artículo 156.
 
@@ -2918,6 +2880,8 @@ La Tesorería Municipal deberá ajustar sus procedimientos de cobro, liquidació
 Como Participaciones estatales se entienden aquellos ingresos que el Estado entrega a los municipios deducibles de sus propios ingresos y que se regulan conforme a las disposiciones que al efecto establecen las leyes fiscales del Estado o la Legislatura local.
 
 ## TÍTULO SÉPTIMO. DE LAS APORTACIONES FEDERALES
+
+### CAPÍTULO ÚNICO. OTROS INGRESOS
 
 ###### Artículo 158.
 
@@ -3014,3 +2978,17 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TREINTA Y UN DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECIOCHO.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 203 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO: El presente decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO: En un plazo no mayor de noventa días naturales posteriores a la entrada en vigor del presente decreto y previa convocatoria aprobada por el Honorable Ayuntamiento del Municipio, deberá constituirse el Comité Ciudadano de Seguimiento a la aplicación de los recursos públicos que se generen por el Derecho de Saneamiento Ambiental establecido en la presente ley.
+
+El Comité además tendrá la encomienda de vigilar la recaudación de la contribución que se perciba en las arcas municipales por el concepto del derecho de saneamiento. El Comité deberá estar integrado por cinco ciudadanos representantes de los principales sectores sociales y productivos establecidos en el Municipio y su cargo será honorario.
+
+TERCERO: Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
