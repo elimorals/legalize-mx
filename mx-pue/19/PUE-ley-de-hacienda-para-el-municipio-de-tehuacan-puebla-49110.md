@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-para-el-municipio-de-tehuacan-puebla-49110"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEHUACAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2005.
 
@@ -483,41 +483,59 @@ Los derechos o conceptos de ingreso de cualquier naturaleza, que se establezcan 
 
 ### CAPÍTULO V. DE LOS DERECHOS POR EL SERVICIO DE ALUMBRADO PÚBLICO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 58.
 
-Son objeto de estos derechos, la prestación del servicio de alumbrado público.
+Es objeto de este Derecho la prestación del servicio de alumbrado público en el territorio del Municipio, otorgado en vías primarias o secundarias, boulevares, avenidas, áreas de recreo o deportivas, iluminaciones artísticas, festivas o de temporada y, en general, en cualquier otro lugar de uso común.
+
+Por la prestación del servicio de alumbrado público, el Ayuntamiento del Municipio cobrará un derecho en los términos previstos en este Capítulo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 59.
 
-Son sujetos de estos derechos las personas físicas o morales que tengan celebrado contrato con el organismo público federal encargado del suministro de energía.
+Son sujetos de esto derecho y, consecuentemente, obligados a su pago, todas las personas físicas o morales que reciben la prestación del servicio de alumbrado público por el Ayuntamiento del Municipio.
+
+Para los efectos de este artículo, se considera que reciben el servicio de alumbrado público los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Municipio.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 60.
 
-Es base de estos derechos, el gasto total que implique al Municipio la prestación del servicio de alumbrado público, el cual se obtiene de la suma de los siguientes conceptos:
+Es base de este Derecho el gasto total anual que le genere al Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior la prestación del servicio de alumbrado público en el territorio municipal, traído a valor presente con la aplicación de un factor de actualización.
 
-I = Gasto que representa para el Municipio la instalación de infraestructura del alumbrado público.
+El factor de actualización a que se refiere el párrafo anterior, se aplicará por el transcurso del tiempo y con motivo de los cambios de precios en el país. Dicho factor se obtendrá dividiendo el Índice de Precios del Genérico Electricidad del Índice Nacional de Precios al Consumidor del mes (sic) noviembre del año anterior, al mes de noviembre más reciente.
 
-M = Gasto que representa para el Municipio el mantenimiento y conservación del alumbrado público.
+Para los efectos del presente Artículo, se entiende como gasto total del servicio de alumbrado público, la suma de las siguientes erogaciones anuales que haya realizado el Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior para la prestación de este servicio:
 
-S = Sueldos del personal encargado de realizar las tareas inherentes a la prestación del mismo.
+I. El pago a la empresa u organismo suministrador de energía eléctrica de las redes de alumbrado público del Municipio;
 
-R = Constitución de una reserva razonable para la reposición, mejoramiento y en su caso, expansión del servicio.
+II. Los gastos de ampliación, instalación, reparación, limpieza y mantenimiento del alumbrado público y luminarias que se requieren para prestar el servicio público;
 
-C = Gasto que representa para el Municipio el suministro de energía eléctrica para la prestación del servicio público a que se refiere este Capítulo.
+III. Los gastos de depreciación de las luminarias calculado como el costo promedio de las luminarias entre su vida útil multiplicado por el total de luminarias; y
 
-El Municipio cuando así lo determine la Autoridad Municipal que corresponda, subsidiará totalmente el costo de los conceptos I, M, S y R antes definidos. Para el cálculo de estos derechos, el Municipio trasladará a los usuarios del servicio, parte del concepto C, recuperando únicamente la cantidad que resulte de aplicar las tasas a que se refiere la Ley de Ingresos del Municipio, al importe facturado a los usuarios registrados ante el organismo público descentralizado federal que presta el servicio de energía eléctrica.
+IV. Los gastos de administración y operación del servicio de alumbrado público, incluyendo la nómina del personal del Municipio encargado de dichas funciones.
 
-El Municipio podrá celebrar convenio con el organismo público descentralizado federal citado, a fin de que realice el cobro de los derechos a que se refiere este Capítulo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 61.
 
-El Municipio podrá disminuir gradualmente el subsidio a que se refiere el artículo anterior.
+La cuota o tarifa para el pago de este Derecho, será la cantidad que resulte de dividir el gasto total anual del servicio de alumbrado público, entre el número total de los sujetos del servicio, en los términos que establezca la Ley de Ingresos del Municipio, en el ejercicio fiscal que corresponda.
 
-Asimismo, registrará de manera detallada, las erogaciones que realice por los conceptos mencionados en el artículo anterior.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 62.
 
-Los derechos por la prestación del servicio a que se refiere este Capítulo, se causarán anualmente y se pagarán bimestralmente conforme a las tasas que señale la Ley de Ingresos del Municipio.
+El Derecho por el Servicio de Alumbrado Público se causará anualmente y se pagará conforme a lo siguiente:
+
+I. Mensual o bimestralmente si la recaudación se realiza a través de la empresa u organismo suministrador de energía eléctrica, o
+
+II. Mensual, semestral o anualmente, si se realiza directamente a la tesorería del Municipio.
+
+El Municipio estará facultado para celebrar el convenio o convenios necesarios a fin de establecer el mecanismo para la recaudación del Derecho por los Servicios de Alumbrado Público con la empresa u organismo suministrador de energía eléctrica.
+
+El Municipio podrá otorgar beneficios, subsidios o estímulos fiscales en materia del derecho a que se refiere el presente capítulo, mismos que deberá publicar en el Periódico Oficial del Estado.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS CONSTANCIAS Y OTROS SERVICIOS
 
@@ -1060,3 +1078,13 @@ CUARTO.- Las disposiciones legales, acuerdos, órdenes, circulares, en que se ha
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los ocho días del mes de diciembre de dos mil cinco.- Diputada Presidenta.- EDITH CID PALACIOS.- Rúbrica.- Diputado Vicepresidente.- PERICLES OLIVARES FLORES.- Rúbrica.- Diputado Secretario.- ÓSCAR ANGUIANO MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN AGUILAR HERNÁNDEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Ciudad de Puebla de Zaragoza, a los nueve días del mes de diciembre del año dos mil cinco.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 58, 59, 60, 61 Y 62 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE TEHUACÁN".]
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
