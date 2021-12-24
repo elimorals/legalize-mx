@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2021-05-12"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -1163,9 +1163,11 @@ Contra la resolución de la Visitaduría General de la Fiscalía General, proced
 
 Cuando se resuelva la remoción se procederá a la cancelación del certificado del servidor público, debiéndose hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 81.
 
-Cuando la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los Agentes del Ministerio Público, Agentes de la Policía Ministerial o peritos fue injustificada, éstos sólo tendrán derecho a recibir el pago de una indemnización, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
+Cuando la autoridad jurisdiccional competente resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los Agentes del Ministerio Público, Agentes de la Policía Ministerial o peritos fue injustificada, éstos tendrán derecho a recibir el pago de una indemnización, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido; que constará de un importe de tres meses de sueldo base y las partes proporcionales de las prestaciones que le correspondan, las cuales se computarán desde la fecha de separación, baja, cese o remoción, hasta un periodo máximo de doce meses. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
 ###### ARTÍCULO 82.
 
@@ -1300,3 +1302,9 @@ P.O. 12 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 486. SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 2 Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 10; Y POR ADICIÓN CON UNA FRACCIÓN VI BIS, AL ARTÍCULO 10, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 023. SE ADICIONA CON UN SEGUNDO Y TERCER PÁRRAFO EL ARTÍCULO 198 BIS 30 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO 81 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
