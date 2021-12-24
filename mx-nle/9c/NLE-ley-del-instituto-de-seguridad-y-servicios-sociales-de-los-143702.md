@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-1437
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2020-09-14"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección III al Número 94 del Periódico Oficial del Estado de Nuevo León, el miércoles 29 de julio de 2020.
 
@@ -63,17 +63,15 @@ III. Deudor Solidario. El servidor público que se compromete a cumplir con una 
 
 IV. Beneficiarios:
 
-(NOTA: EL 20 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 247/2020, DECLARÓ LA INVALIDEZ DEL INCISO a DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS NOVENTA DÍAS NATURALES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-a. LA ESPOSA O A FALTA DE ÉSTA, LA MUJER CON QUIEN EL SERVIDOR PÚBLICO, PENSIONADO O JUBILADO HA VIVIDO COMO SI LO FUERA DURANTE LOS DOS AÑOS ANTERIORES O CON LA QUE TUVIESE HIJOS, SIEMPRE QUE AMBOS PERMANEZCAN LIBRES DE MATRIMONIO, DEBIENDO COMPROBAR, ESTA ÚLTIMA, QUE DEPENDE DEL SERVIDOR PÚBLICO, PENSIONADO O JUBILADO. SI EL SERVIDOR PÚBLICO, PENSIONADO O JUBILADO TIENE VARIAS CONCUBINAS, NINGUNA DE ELLAS TENDRÁ EL CARÁCTER DE BENEFICIARIO;
+a. La o el cónyuge o a falta de la o el mismo, la persona con quien el servidor público o servidora pública, pensionado o pensionada, o jubilado o jubilada ha vivido como si lo fuera durante los dos años anteriores o con quien tuviese hijos, siempre que ambos permanezcan libres de matrimonio, debiendo comprobar, esta última persona, que depende del servidor público o servidora pública, pensionado o pensionada, o jubilado o jubilada. Si el servidor público o servidora pública, pensionado o pensionada, o jubilado o jubilada tiene varias concubinas o concubinos según el caso, ninguno de ellos o de ellas tendrá el carácter de beneficiario o beneficiaria;
 
-(NOTA: EL 20 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 247/2020, DECLARÓ LA INVALIDEZ DEL INCISO b DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS NOVENTA DÍAS NATURALES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2021)
 
-b. EL ESPOSO O A FALTA DE ÉSTE, EL VARÓN CON QUIEN LA SERVIDORA PÚBLICA, PENSIONADA O JUBILADA HA VIVIDO COMO SI LO FUERA DURANTE LOS DOS AÑOS ANTERIORES, O CON LA QUE TUVIESE HIJOS, SIEMPRE QUE PERMANEZCAN LIBRES DE MATRIMONIO, DEBIENDO CONTAR AQUÉL CON SESENTA AÑOS DE EDAD COMO MÍNIMO O ESTAR INCAPACITADO TOTAL Y PERMANENTEMENTE PARA TRABAJAR, ASÍ COMO COMPROBAR QUE DEPENDEN ECONÓMICAMENTE DE LA SERVIDORA PÚBLICA, PENSIONADA O JUBILADA;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 20 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 247/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO c DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS NOVENTA DÍAS NATURALES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c. Los hijos del servidor público, jubilado o pensionado, menores de dieciocho años, que dependan económicamente de éstos, SALVO QUE HAYAN CONTRAÍDO MATRIMONIO, VIVAN EN CONCUBINATO O TUVIEREN A SU VEZ HIJOS, A MENOS QUE ESTE ÚLTIMO EVENTO SEA RESULTADO DE LA COMISIÓN DE UN DELITO;
+c. Los hijos del servidor público o servidora pública, jubilado o jubilada, o pensionado o pensionada, menores de dieciocho años, que dependan económicamente de éstos;
 
 d. Los hijos del servidor público, jubilado o pensionado, mayores de dieciocho años y hasta la edad de veinticinco que, además de cumplir con los requisitos establecidos en el inciso anterior, continúen cursando estudios de nivel medio superior, superior o nivel universitario, debiendo comprobar semestralmente que están realizando esos estudios en alguna rama del conocimiento en planteles oficiales o reconocidos por las autoridades educativas del estado, y que no tengan un trabajo;
 
@@ -347,7 +345,7 @@ Cuando no se hubieren hecho a los servidores públicos las retenciones procedent
 
 Cuando el Instituto hubiese realizado un pago indebido, por omisión o error en el informe rendido o documentación expedida por la entidad pública, el citado Instituto realizará los ajustes necesarios en el monto de las prestaciones subsecuentes de carácter periódico que se estuviesen otorgando, con el objeto de adecuarlas al monto que le corresponden.
 
-Lo dispuesto en los párrafos anteriores, será sin perjuicio de las sanciones que resulten aplicables a los responsables de las situaciones previstas en este precepto. La imposición de estas sanciones no eximirá a las entidades públicas de la obligación de resarcir al Instituto por los daños causados.
+Lo dispuesto en los párrafos anteriores, será sin prejuicio de las sanciones que resulten aplicables a los responsables de las situaciones previstas en este precepto. La imposición de estas sanciones no eximirá a las entidades públicas de la obligación de resarcir al Instituto por los daños causados.
 
 Cuando la entidad pública entere cuotas y aportaciones de un servidor público que no se encuentre afiliado al Instituto, ni sea sujeto de incorporación al régimen de seguridad social contemplado en esta ley, ello no implicará de manera alguna reconocimiento de afiliación, ni de antigüedad, ni generará derecho alguno para el servidor público y las personas que haya nombrado como sus beneficiarios, y el Instituto sólo estará obligado a devolver las cuotas y aportaciones a la entidad pública en un plazo máximo de treinta días para que esta a su vez devuelva al servidor público sus cuotas.
 
@@ -841,7 +839,7 @@ Los pensionistas recibirán una gratificación anual equivalente en días, a la 
 
 La cuantía de la renta vitalicia será dinámica y se incrementará en el mes de enero de cada año con el mismo aumento porcentual de la inflación anual.
 
-La cuantía se incrementará al multiplicarla por el factor que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
+La cuantía se incrementará al multiplicarla por el factor que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior entre el citado Índice correspondiente al mes de diciembre del segundo año inmediato anterior a aquél en el que se efectúe el ajuste.
 
 ###### ARTÍCULO 83.
 
@@ -1019,9 +1017,9 @@ El derecho al pago de esta prestación económica se inicia a partir del día si
 
 El orden para gozar de las pensiones por causa de muerte, será el siguiente:
 
-(NOTA: EL 20 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 247/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS NOVENTA DÍAS NATURALES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-I. LA ESPOSA O ESPOSO SUPÉRSTITE, SOLOS O EN CONCURRENCIA CON LOS HIJOS SI LOS HAY; O ESTOS SOLOS SIEMPRE QUE SEAN MENORES DE DIECIOCHO AÑOS DE EDAD, O HASTA LOS VEINTICINCO AÑOS, SIEMPRE Y CUANDO REÚNAN LOS REQUISITOS QUE SEÑALA ESTA LEY. TAMBIÉN LOS MAYORES DE DIECIOCHO AÑOS SOLOS QUE ESTÉN INCAPACITADOS TOTAL Y PERMANENTEMENTE PARA TRABAJAR. EN CASO DEL ESPOSO DEBERÁ JUSTIFICAR QUE DEPENDÍA ECONÓMICAMENTE O DE LA SERVIDORA PÚBLICA, PENSIONADA O JUBILADA, TENER SESENTA AÑOS DE EDAD COMO MÍNIMO O ESTAR INCAPACITADO TOTAL O PERMANENTEMENTE PARA TRABAJAR Y QUE NO CUENTA CON SEGURIDAD SOCIAL PROPORCIONADA POR ESTE INSTITUTO U OTRO ORGANISMO ENCARGADO DE BRINDAR LA MISMA;
+I. La o el cónyuge supérstite, solos o en concurrencia con los hijos si los hay; o estos solos siempre que sean menores de dieciocho años de edad, o hasta los veinticinco años, siempre y cuando reúnan los requisitos que señala esta Ley. También los mayores de dieciocho años solos que estén incapacitados total y permanentemente para trabajar.
 
 II. A falta de esposa o esposo, la concubina o el concubino, siempre que hubieren tenido hijos con el finado o finada, o vivido en su compañía durante los dos años que precedieron a su muerte, y ambos hayan permanecido libres de matrimonio durante el concubinato; pudiendo gozar de la pensión solos o en concurrencia con los hijos, o éstos solos, cuando reúnan las condiciones señaladas en la fracción anterior, si al morir tuviere varias concubinas o concubinos, ninguno de ellos tendrá derecho a pensión;
 
@@ -1067,7 +1065,7 @@ Si el segundo solicitante reúne los requisitos que esta Ley establece, se le co
 
 ###### ARTÍCULO 110.
 
-La esposa supérstite o la concubina, al igual que el esposo supérstite o el concubino, disfrutarán de por vida la pensión concedida por el Instituto, salvo cuando llegaren a contraer nuevas nupcias, vivan en concubinato, o engendren un hijo, en cuyo caso se cancelará la prestación económica. Esta situación no afectará los derechos adquiridos por los hijos, si los hubiere.
+La esposa supérstite o la concubino, al igual que el esposo supérstite o el concubina, disfrutarán de por vida la pensión concedida por el Instituto, salvo cuando llegaren a contraer nuevas nupcias, vivan en concubinato, o engendren un hijo, en cuyo caso se cancelará la prestación económica. Esta situación no afectará los derechos adquiridos por los hijos, si los hubiere.
 
 ###### ARTÍCULO 111.
 
@@ -1973,9 +1971,7 @@ DÉCIMO TERCERO.- Para efecto de lo establecido en el tercer párrafo del artíc
 
 DÉCIMO CUARTO.- El estado de cuenta del Certificado para Jubilación de cada servidor público deberá contener lo siguiente: sus datos generales, número de cuenta personal, registro federal de contribuyentes, clave única del registro de población, entidad pública donde presta sus servicios, salario base de cotización, antigüedad, cuotas y aportaciones obligatorias, fondo físico, fondo nocional (sic), subcuenta de vivienda, aportaciones adicionales, rendimientos y saldo acumulado a la fecha del corte de la información.
 
-(NOTA: EL 20 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 247/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL TRANSITORIO DÉCIMO QUINTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS NOVENTA DÍAS NATURALES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-DÉCIMO QUINTO. POSTERIOR A LA TERMINACIÓN DE LA VIGENCIA DEL ARTÍCULO DÉCIMO TRANSITORIO Y CONSIDERANDO EL POSIBLE IMPACTO PRESUPUESTAL, EL CONGRESO DEBERÁ ANALIZAR LA MODIFICACIÓN DEL INCISO B DE LA FRACCIÓN IV DEL ARTÍCULO 3, DE LA PRESENTE LEY CON EL FIN DE PROCURAR LA INCORPORACIÓN PROGRESIVA COMO BENEFICIARIOS DE LOS ESPOSOS DE LAS SERVIDORAS PÚBLICAS INDEPENDIENTEMENTE DE SU EDAD Y SU ESTADO DE SALUD, SIEMPRE QUE ESTOS NO SEAN BENEFICIARIOS DE OTRO SERVICIO DE SALUD.
+DÉCIMO QUINTO. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2021)
 
 DÉCIMO SEXTO.- El Instituto, previa aprobación del Consejo Directivo, expedirá la reglamentación derivada de la presente ley en un plazo no mayor a noventa días naturales contados a partir de que entre en vigor el presente ordenamiento legal.
 
@@ -2020,3 +2016,9 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 021. RELATIVO A LAS OBSERVACIONES PRESENTADAS AL DECRETO NÚM. 530 DE FECHA 19 DE JULIO DEL 2021 DE LA LXXV”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
