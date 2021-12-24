@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2019-12-27"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -235,7 +235,9 @@ I. Hasta un 25% si se cubre en una sola emisión, siempre y cuando el pago se ef
 
 II. Hasta un 15% si se cubre en una sola emisión y el pago se efectúa el último día hábil del mes de febrero del año al que se deba realizar el pago, y
 
-III. Hasta un 50% si se cubre en una sola emisión y el pago se efectúa el último día hábil del mes de febrero del año al que se deba realizar el pago si el contribuyente es una persona con discapacidad, pensionado, jubilado o cuente con su credencial del INAPAM o INSEN. Este beneficio se aplicará a un solo inmueble del contribuyente, siempre y cuando dicho inmueble corresponda al domicilio de su propia casa habitación y cuyo valor catastral no exceda de veinte mil UMA.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+III. Hasta un 50% si se cubre en una sola emisión durante el periodo del ejercicio fiscal del año al que se deba realizar el pago si el contribuyente es una persona con discapacidad, pensionado, jubilado o cuente con su credencial del INAPAM o INSEN. Este beneficio se aplicará a un solo inmueble del contribuyente, siempre y cuando dicho inmueble corresponda al domicilio de su propia casa habitación y cuyo valor catastral no exceda de veinte mil UMA.
 
 IV. El Ayuntamiento, en las situaciones de emergencia derivadas de desastres naturales, declaradas por el Titular del Ejecutivo del Estado, podrá conceder estímulos fiscales a los contribuyentes hasta de un 50% del monto del impuesto predial, cuando éste sea cubierto en una sola emisión, por anticipado y cubra todo el año, y sea enterado en la Tesorería Municipal antes del 31 de diciembre del año de la contingencia, y hasta un 25% del total del importe, si el pago se realiza en los meses de enero y febrero del año siguiente.
 
@@ -685,11 +687,11 @@ De igual manera, tendrán la facultad y obligación de retener y enterar el impu
 
 #### SECCIÓN I. Del Objeto
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 54.
 
-Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el municipio.
+Los derechos que establece este capítulo se causarán por la ejecución del servicio de saneamiento ambiental que realice el Municipio con el fin de propiciar el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental, en razón de los visitantes que arriben o permanezcan temporalmente en el Municipio.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -701,15 +703,17 @@ Los derechos que establece este capítulo se causarán por la ejecución de sane
 
 Están obligados a pagar los derechos de saneamiento ambiental:
 
-I. Los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, o cualquier otro servicio de hospedaje.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+I. Los visitantes usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, o cualquier otro servicio de hospedaje.
 
 II. Los visitantes que no se hospeden en algún establecimiento de los referidos en la fracción I del presente artículo.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 55 Bis.
 
-Tratándose del pago del derecho de Saneamiento Ambiental que realicen los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, o cualquier otro servicio de hospedaje, el monto del derecho deberá ser retenido por los prestadores de los servicios del ramo. Debiendo enterar y declarar lo retenido en términos del artículo 57 de la presente Ley.
+Tratándose del pago del derecho de Saneamiento Ambiental que realicen los visitantes usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, o cualquier otro servicio de hospedaje, el monto del derecho deberá ser retenido por los prestadores de los servicios del ramo. Debiendo enterar y declarar lo retenido en términos del artículo 57 de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -717,27 +721,29 @@ Tratándose del pago del derecho de Saneamiento Ambiental que realicen los usuar
 
 Tratándose del pago del derecho de Saneamiento Ambiental que realicen los visitantes que no se hospeden en alguno de los establecimientos referidos en la fracción I del artículo 55 de esta Ley, el monto del derecho deberá ser retenido por la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio. Debiendo enterar y declarar lo retenido en términos del artículo 57 de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+Aquellos visitantes que realicen su arribo vía embarcación privada, embarcación menor o turística cubrirán el pago de este derecho al pagar la tarifa por uso de la infraestructura portuaria o a través de los medios que disponga la Tesorería Municipal mediante reglas de carácter general.
+
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN III. De la Tasa y Período de Pago
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 56.
 
 El pago del derecho de saneamiento ambiental se causará en razón del:
 
-1. 30% del valor correspondiente a la Unidad de Medida y Actualización diaria por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (checkout) si el pago es después de prestado el servicio.
+1. 30% del valor correspondiente a la Unidad de Medida y Actualización diaria por turista por noche (turista/noche), al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio. En el caso de los visitantes a la parte insular que hayan causado el derecho de saneamiento ambiental de conformidad con el numeral 2 del presente artículo y decidan hospedarse, podrán acreditar el pago de este derecho por única ocasión en la primera noche de ocupación.
 
-2. 20% del valor correspondiente a la Unidad de Medida y Actualización diaria, tratándose de los visitantes a la parte insular del Municipio, que no se hospeden en alguno de los establecimientos previstos en la fracción I del artículo 55 de esta Ley. El cual será retenido por la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio.
+2. 20% del valor correspondiente a la Unidad de Medida y Actualización diaria por visitante. Tratándose de los visitantes a la parte insular del Municipio, que no se hospeden en alguno de los establecimientos previstos en la fracción I del artículo 55 de esta Ley. El cual será retenido por la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio. Los visitantes que realicen su arribo por vía embarcación privada, embarcación menor o turística cubrirán el pago de este derecho al pagar la tarifa por uso de la infraestructura portuaria o a través de los medios que disponga la Tesorería Municipal mediante reglas de carácter general.
 
-3. 10% del valor correspondiente a la Unidad de Medida y Actualización diaria, en el caso de los visitantes a la parte insular que utilicen el medio de transporte marítimo, además de cubrir el pago establecido en la fracción anterior, éste porcentaje deberá pagarse al momento de hospedarse en cualquiera de los establecimientos previstos en la fracción I del artículo 55 de esta Ley.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 57.
 
-Los retenedores deberán de enterar y declarar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a las habitaciones ocupadas por la prestación de ese servicio, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que se efectuó la retención, acompañado del entero del derecho correspondiente.
+Los retenedores deberán de enterar y declarar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a los visitantes por noche por la prestación de ese servicio, así como de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que se efectuó la retención, acompañado del entero del derecho correspondiente.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -2827,7 +2833,37 @@ El Ayuntamiento, propondrá a la Legislatura del Estado, a más tardar en el mes
 
 Este derecho deberá ser cubierto en la Tesorería Municipal en forma mensual dentro de los primeros cinco días de cada mes.
 
-Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año dentro del mes de enero, y febrero de cada año fiscal, se le concederá al contribuyente un descuento del 10% del total del importe.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año dentro del mes de enero, febrero y marzo de cada año fiscal, se le concederá al contribuyente un descuento del 10% del total del importe.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 123 Bis.
+
+Por los servicios previstos en el artículo anterior, los sujetos obligados al pago de este derecho, sea por deuda propia o ajena, pagarán de manera mensual y en una sola cantidad, misma que calcularán tomando como base los metros cuadrados de construcción de los locales comerciales, industriales, de servicios o de casa-habitación, donde se genere la basura o residuos sólidos, multiplicados por la cuota prevista en el siguiente:
+
+TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2021, PÁGINAS DE LA 216 A LA 243.]</small>
+
+La tarifa prevista en la tabla del presente artículo será fija para los primeros sesenta metros cuadrados de construcción; y por cada veinte metros cuadrados de excedente, el contribuyente deberá pagar adicionalmente, un 15% del resultado de aplicar la tarifa vigente.
+
+Están exentos de la cuota adicional por metro cuadrado excedente prevista en el artículo anterior, los sujetos obligados que reciban los servicios objeto de esta contribución, cuyo giro corresponda a las claves: 01.02, 01.03, 01.04, 01.05, 01.06, 03.01, 05.14, 11.01, 20.01, 23.01, 24.01, 24.02, 24.03, 24.04, 24.05, 35.01, 35.02, 35.03, 35.04, 35.05, 35.06, 35.07, 35.08, 35.09, 35.10, 35.11, 35.12, 35.13, 35.14, 35.15, 35.16, 35.17, 35.18, 35.19, 35.20, 35.21, 35.22, 35.23, 35.24, 76.01, 76.02, 81.04, 88.04.
+
+Los contribuyentes que en términos de la Ley para la Prevención y la Gestión Integral de Residuos del Estado de Quintana Roo están obligados a la formulación y ejecución de los Planes de Manejo previstos en el ordenamiento jurídico antes citado; para ser sujetos de la exención prevista en el párrafo anterior, deberán acreditar ante la Tesorería Municipal, la aprobación de dichos planes por la Secretaría de Ecología y Medio Ambiente del Estado de Quintana Roo. Las zonas que se describen en el tabulador que se refiere en el primer párrafo de este artículo, corresponden a las ubicaciones siguientes:
+
+ZONA (A).- Se localiza en la ínsula y comprende de la SM 7 MZA 68 a la 76, SM 8 MZA 60, 62, 63 de la 266 a la 278, SM 9 MZA 32 a la 47, 49, 50 de la 52 a la 59, Zona Continental SMZA 01 MZA 04 del lote 037 al 041 SL-02, MZA 06, SMZA 03 MZA 01.
+
+ZONA (B).- Se localiza en la ínsula y comprende de la SMZA 1 MZA 1 a la 30, SMZA 2 MZA 7, 84, 85, 88, 112, 113, 116, 164, 204, 206, 215, 216, Zona Continental SMZA 01 MZA 02, 04 del lote 1 al 36, SMZA 02, MZA 01, 03, 05, 07, 09, 10, 11, 12, 13, 14 y 15.
+
+ZONA (C).- Se localiza en la ínsula y comprende de la SMZA 3 MZA 79 a la 84, 86, 87, 102, SMZA 4 MZA 89 de la 90 a la 98, 100, 101, 103 a la 106, 108, 109, 110, 118, 205, SMZA 5 MZA 65, 66, 67, 99, 114, 115, 124, 138, 139, 140 a la 146, 151, 152, 153, 154, 165, 174, 175, 176, 177, 199, 201, 208, 209, 210, 211, 212, 213, 214 SMZA 121, 126 a la 131, 133, 134, 135, 136, 137, 147, 148, 149, 150, 155 a la 164, 166, 169, 170, 171, 172, 173, 179, 180, 181, 184 a la 198, 202, 203, 210, 215, 217, 250 a la 264 y 291 zona Continental Parcela 238, 310 a la 347, 461 a la 493.
+
+El cálculo y entero del derecho por el servicio de recolección, transportación, tratamiento y destino final de residuos sólidos, se debe efectuar presentando la declaración respectiva, en la que el contribuyente exprese al menos, los metros cuadrados base del cálculo del derecho, la zona y la cuota que le corresponde. La tesorería municipal mediante la expedición de disposiciones de carácter general dará a conocer a los contribuyentes los formatos oficiales y los demás requisitos que deben cumplir para la presentación de la declaración a que se refiere este artículo.
+
+Respecto a los que se encuentren en el supuesto de una casa habitación, la cuota mensual de pago prevista, será por la cantidad de 0.35 UMA, con excepción de los que se encuentren en los sectores 2, 7, 9 de la zona insular; y los sectores 10A, 11A, y 13A de la zona continental a los cuales se les cobrará la cuota mensual de 2.0 UMA.
+
+Respecto de los predios donde se ubiquen departamentos o los que se encuentren en régimen de condominio, el cobro se realizará por cada uno de ellos, con la cuota mensual de 0.35 UMA.
 
 ### CAPÍTULO XXIII. Promoción y Publicidad Turística
 
@@ -2999,387 +3035,13 @@ vinculados con el manejo, producción y venta de animales. 15.00
 
 ### CAPITULO XXVII. De los Servicios en Materia de Protección Civil
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 133.
 
 Los servicios prestados por la autoridad municipal de Protección Civil causarán derechos que se pagarán con base en las tarifas siguientes:
 
-UMA.
-
-I. Por certificación como prestador de servicios en
-
-materia de protección civil, por cada especialidad 10.00 a 20.00
-
-II. Permisos:
-
-a) Para la venta de artesanía pirotécnica no explosiva
-
-en temporada, menor a 10 kgs. 10.00 a 20.00
-
-b) Para anuncios publicitarios, torres y antenas de
-
-comunicación:
-
-1. Anuncios panorámicos de 10m2 a nivel de piso
-
-y anuncios panorámicos de menos de 10m2 a una
-
-altura menor de 6 metros. 10.00 a 20.00
-
-2. Anuncios panorámicos de 10m2 en azotea y
-
-anuncios panorámicos de menos de 10m2 a una
-
-altura mayor de 6 metros. 20.00 a 30.00
-
-3. Anuncio panorámico de tipo unipolar de más de
-
-10m2 en áreas no urbanas, torres o antenas de
-
-comunicación de cualquier tipo arriba de 10 metros
-
-desde el nivel de piso o azotea 30.00 a 40.00
-
-4. Torres y antenas de comunicación de cualquier tipo
-
-por metro lineal desde nivel de calle 8.00
-
-5. Anuncios panorámicos de tipo unipolar en áreas
-
-urbanas 20.00
-
-c) Para evento masivo en áreas públicas y privadas:
-
-1. Por millar de asistencia 50.00
-
-2. Por instalación de equipos y estructuras especiales 50.00
-
-d) Para el almacenamiento provisional de pirotecnia
-
-artesanal en temporada. 50 a 100.00
-
-e) Para locales que almacenen y/o distribuyan
-
-gas LP en recipientes portátiles (tanques de máximo
-
-10 kilogramos) 10.00
-
-f) Para la instalación de circos, exposiciones y juegos:
-
-1. Por circos y exposiciones. 30.00
-
-2. Por cada juego mecánico (menos de 10
-
-juegos mecánicos). 30.00
-
-3. Por cada juego mecánico extra (más de 11
-
-juegos mecánicos). 5.00
-
-III. Dictámenes aprobatorios.
-
-a) Para marinas:
-
-1. Para instalaciones con afluencia menor
-
-a 49 personas. 10.00 a 20.00
-
-2. Para afluencia de 50 a 100 personas. 15.00 a 25.00
-
-3. Para instalaciones con afluencia masiva,
-
-de 101 a 500 personas. 30.00 a 50.00
-
-4. Para instalaciones con afluencia masiva
-
-de 501 a 999 personas. 50.00 a 100.00
-
-5. Para instalaciones con afluencia masiva de
-
-más de 1000 personas. 100.00 a 200.00
-
-b) Para escuelas, guarderías y centros educativos.
-
-1. Para instalaciones con afluencia menor
-
-a 49 personas. 10.00 a 15.00
-
-2. Para afluencia de 50 a 100 personas. 16.00 a 25.00
-
-3. Para instalaciones con afluencia masiva,
-
-de 101 a 500 personas. 26.00 a 35.00
-
-4. Para instalaciones con afluencia masiva
-
-de 501 a 999 personas. 36.00 a 50.00
-
-5. Para instalaciones con afluencia masiva
-
-de más de 1000 personas. 51.00 a 100.00
-
-6. Por instalaciones comerciales de gas LP
-
-estacionario (en su caso) de 100 a 4000 litros. 50.00
-
-c) Para hoteles:
-
-1. Para instalaciones con afluencia menor
-
-a 49 personas 10.00 a 20.00
-
-2. Para afluencia de 50 a 100 personas 21.00 a 40.00
-
-3. Para instalaciones con afluencia masiva
-
-de 101 a 500 personas 41.00 a 60.00
-
-4. Para instalaciones con afluencia masiva
-
-de 501 a 999 personas 61.00 a 100.00
-
-5. Para instalaciones con afluencia masiva de
-
-más de 1000 personas 101.00 a 150.00
-
-6. Por instalaciones industriales que almacenen
-
-y/o distribuyen gas LP y/o combustibles en
-
-recipientes fijos de hasta 5000 litros 30.00 a 150.00
-
-7. Por instalaciones industriales que almacenen
-
-y/o distribuyen gas LP y/o combustibles en recipientes
-
-fijos de hasta 10,000 litros 151.00 a 200.00
-
-8. Por instalaciones industriales que almacenen
-
-y/o distribuyen gas LP y/o combustibles en
-
-recipientes fijos por cada 10,000 litros. 200.00
-
-d) Para gaseras
-
-1. Para instalaciones con afluencia menor
-
-a 49 personas 5.00 a 10.00
-
-2. Para afluencia de 50 a 100 personas 11.00 a 20.00
-
-3. Para instalaciones con afluencia masiva,
-
-de 101 a 500 personas 21.00 a 30.00
-
-4. Para instalaciones con afluencia masiva
-
-de 501 a 999 personas 31.00 a 80.00
-
-5. Para instalaciones con afluencia masiva
-
-de más de 1000 personas 81.00 a 120.00
-
-6. Por vehículos que transportan gas LP en
-
-recipientes portátiles 50.00
-
-7. Por vehículos que transportan gas LP en
-
-recipientes fijos 100.00
-
-8. Por instalaciones industriales que almacenan
-
-y/o distribuyen gas LP y/o combustibles con
-
-recipiente fijo hasta por 5000 litros. 50.00 a 200.00
-
-9. Por instalaciones industriales que almacenan
-
-y/o distribuyen gas LP y/o combustibles con
-
-recipiente fijo hasta por 10,000 litros 201.00 a 250.00
-
-10. Por instalaciones industriales que almacenan
-
-y/o distribuyen gas LP y/o combustibles con
-
-recipiente fijo de más de 10,000 litros. Por cada
-
-10,000 litros 200.00
-
-e) Para gasolineras
-
-1. Por cada bomba despachadora 100.00
-
-2. Por cada 20,000 litros de almacenamiento 250.00
-
-f) Para locales comerciales y renovaciones de bajo riesgo
-
-1. Para locales con afluencia menor a 49 personas,
-
-menores a 60 m2 establecidos en plazas
-
-comerciales, zona hotelera o giros supermercados
-
-de carga y descarga aérea, camiones foráneos de
-
-carga, casas de cambio, casas de empeño, cajeros
-
-automáticos 5.00 a 10.00
-
-2. Para locales con afluencia menor a 49 personas,
-
-de 61 a 150 m2, establecidos en plazas comerciales,
-
-supermercados, zona hotelera o giros de carga y
-
-descarga aérea, camiones foráneos de carga, casas
-
-de cambio, casas de empeño, cajeros automáticos 11.00 a 20.00
-
-3. Para locales con afluencia menor a 49 personas,
-
-menores a 60 m2, establecidos en el resto del
-
-municipio, para todos los giros restantes 5.00 a 10.00
-
-4. Para locales con afluencia menor a 49 personas,
-
-de 61 a 150 m2, establecidos en el resto del municipio,
-
-para todos los giros restantes 11.00 a 20.00
-
-g) Para locales comerciales y renovaciones
-
-de mediano y alto riesgo.
-
-1. Para instalaciones con afluencia menor
-
-a 49 personas 5.00 a 10.00
-
-2. Para instalaciones con afluencia de 50 a 100 personas 11.00 a 20.00
-
-3. Para instalaciones con afluencia masiva
-
-de 101 a 500 personas 21.00 a 40.00
-
-4. Para instalaciones con afluencia masiva
-
-de 501 a 999 personas 41.00 a 100.00
-
-5. Para instalaciones con afluencia masiva de
-
-más de 1000 personas 101.00 a 150.00
-
-6. Por operaciones de alto riesgo 151.00 a 200.00
-
-7. Por locales con productos químicos de autoconsumo
-
-hasta por 5000 litros 20.00 a 50.00
-
-8. Por locales con productos químicos de autoconsumo
-
-hasta por 10,000 litros 51.00 a 100.00
-
-9. Por locales con productos químicos de autoconsumo
-
-más de 10,000 litros 101.00 a 200.00
-
-10. Locales que utilizan, almacenan y/o distribuyen
-
-productos químicos al menudeo 20.00 a 50.00
-
-11. Locales que utilizan, almacenan y/o distribuyen
-
-productos químicos al mayoreo 51.00 a 100.00
-
-h) Para transporte de combustible
-
-1. De hasta 500 litros 50.00
-
-2. De más de 500 litros 75.00
-
-i) Para la quema de pirotecnia debajo de
-
-10 kilogramos 30.00
-
-j) Para planta de distribución de pirotecnia 1500.00
-
-IV. Firmas de conformidad:
-
-a) De seguridad para quema de pirotecnia, conforme
-
-al peso que se establece a continuación:
-
-1. Arriba de 10 kgs y hasta 20 kgs 20.00
-
-2. Más de 20 kgs y hasta 30 kgs 40.00
-
-3. Más de 30 kgs y hasta 50 kgs 100.00
-
-4. Más de 50 kgs y hasta 100 kgs 150.00
-
-b) Para uso de explosivos, conforme al peso que
-
-se establece a continuación:
-
-1. De 1 a 1000 kilogramos 8.00 a 45.00
-
-2. De 1001 a 9999 kilogramos 70.00
-
-3. De 10,000 a 49,000 80.00
-
-4. De Más de 49,000 y hasta 99,000 kilogramos 130.00
-
-5. De Más de 99,000 y hasta 300,000 kilogramos 180.00
-
-6. Por cada kilo excedente arriba de 300,000
-
-kilogramos por kilo excedente 0.05
-
-c) En planos, para autorización de proyectos
-
-de gasolineras, tiendas de autoservicio,
-
-discotecas, centros comerciales, supermercados 40.00
-
-d) Visto bueno de gas en cilindros para puestos
-
-ambulantes y semifijos:
-
-1. Cilindro de 10 kilogramos 4.00
-
-2. Cilindro de 20 kilogramos. 10.00
-
-3. Cilindro de 30 kilogramos 12.00
-
-V. Por la revisión y hasta la autorización mediante
-
-resolución, de programas internos de protección civil
-
-para establecimientos con afluencia masiva 6.00
-
-VI. Prórroga para el cumplimiento de observaciones
-
-derivadas de una inspección de protección civil. 0.60
-
-VII. Evaluación del programa de seguridad acuática 10.00
-
-VIII. Capacitación en materia de protección civil 6.00
-
-IX. Por la revalidación anual del registro 10.00
-
-X. Por registro de vehículos tipo ambulancia 30.00
-
-XI. Registro de vehículos de transporte de sustancias
-
-químicas y materiales peligros 50.00
-
-XII. Otros servicios no definidos en las anteriores
-
-fracciones a consideración y estudio técnico por
-
-parte del titular de la Dirección. 30.00
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2021, PÁGINAS DE LA 245 A LA 250.]</small>
 
 ### CAPÍTULO XXVIII. De los Servicios que Presta la Unidad de Vinculación
 
@@ -3728,3 +3390,11 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 206 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
