@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-administrativas-del-estado-de-136748"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2021-03-10"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Ley Publicada en la Sección Tercera al Número 70 del Periódico Oficial del Estado de Nuevo León, el viernes 7 de junio de 2019.
 
@@ -41,11 +41,11 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN
 
 ### Capítulo I. Objeto, ámbito de aplicación y sujetos de la Ley
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, de observancia general en el Estado y tiene por objeto, en los términos señalados por la Ley General de Responsabilidades Administrativas, determinar las competencias de las autoridades estatales y municipales, para establecer las responsabilidades administrativas de los Servidores Públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, HECHOS DE CORRUPCIÓN O EN SITUACIÓN ESPECIAL, así como los procedimientos para su aplicación.
+La presente Ley es de orden público, de observancia general en el Estado y tiene por objeto, en los términos señalados por la Ley General de Responsabilidades Administrativas, determinar las competencias de las autoridades estatales y municipales, para establecer las responsabilidades administrativas de los Servidores Público, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, o en situación especial, así como los procedimientos para su aplicación.
 
 En el ámbito de los Poderes Ejecutivo, Legislativo y Judicial, los Órganos Constitucionalmente Autónomos, así como en los Municipios, los órganos de vigilancia o control interno correspondientes ejercerán las atribuciones previstas en esta Ley.
 
@@ -57,13 +57,13 @@ I. Establecer los principios y obligaciones que rigen la actuación de los Servi
 
 II. Establecer principios y mecanismos para fomentar una cultura de integridad pública, que promueva el honesto y eficiente desempeño del servidor público y del particular que ofrezca sus servicios a favor de uno o varios entes públicos;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-III. Establecer LOS HECHOS DE CORRUPCIÓN, faltas administrativas graves y no graves de los Servidores Públicos, las sanciones aplicables a las mismas, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
+III. Establecer las faltas administrativas graves y no graves de los Servidores Públicos, las sanciones aplicables a las mismas, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-IV. IDENTIFICAR LAS FALTAS ADMINISTRATIVAS QUE CONSTITUYEN HECHOS DE CORRUPCIÓN;
+IV. Identificar las faltas administrativas;
 
 V. Establecer las sanciones por la comisión de faltas de particulares, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
 
@@ -85,9 +85,9 @@ II. Autoridad investigadora: La Autoridad en la Contraloría y Transparencia Gub
 
 III. Autoridad resolutora: Tratándose de faltas administrativas no graves DE PERSONAL DE RANGO INFERIOR A SECRETARIO DE DESPACHO, DIRECTOR GENERAL O EQUIVALENTE, lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos internos de control. TRATÁNDOSE DE FALTAS ADMINISTRATIVAS NO GRAVES DE PERSONAL DE RANGO DE SECRETARIO DE DESPACHO, DIRECTOR GENERAL O EQUIVALENTE, LO SERÁ EL TITULAR DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL O TITULAR DEL ÓRGANO INTERNO DE CONTROL SEGÚN CORRESPONDA.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Para las faltas administrativas graves y EN LOS CASOS DE HECHOS DE CORRUPCIÓN DE SERVIDORES PÚBLICOS Y/O de particulares, TRATÁNDOSE DE SANCIONES ADMINISTRATIVAS, lo será el Tribunal;
+Para las faltas administrativas graves de servidores públicos y/o de particulares, tratándose de sanciones administrativas, lo será el Tribunal;
 
 IV. Autoridad substanciadora: La autoridad en la Contraloría y Transparencia Gubernamental, los Órganos internos de control, la Auditoría Superior, que en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
 
@@ -121,17 +121,15 @@ XV. Falta administrativa grave: Las faltas administrativas de los Servidores Pú
 
 XVI. Falta administrativa no grave: La falta administrativa de los Servidores Públicos en los términos de la presente Ley, cuya sanción corresponde a la Contraloría y Transparencia Gubernamental, o a los Órganos internos de control de los entes públicos;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-XVII. Faltas de particulares: Los actos de personas físicas o morales de carácter privado que estén vinculados con faltas administrativas graves O HECHOS DE CORRUPCIÓN a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;
+XVII. Faltas de particulares: Los actos de personas físicas o morales de carácter privado que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XVIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2021)
 
-XVIII. HECHO DE CORRUPCIÓN: SE CONSIDERARÁ COMO HECHO DE CORRUPCIÓN, LA ACCIÓN U OMISIÓN QUE EL SERVIDOR PÚBLICO Y EL PARTICULAR VINCULADO CON ÉSTE REALICEN CONJUNTA O INDIVIDUALMENTE, SIEMPRE QUE SE OBTENGA O PRETENDA OBTENER UN BENEFICIO INDEBIDO, DE VALOR ECONÓMICO O DE CUALQUIER OTRO TIPO, TALES COMO DÁDIVAS, FAVORES O VENTAJAS, PARA SÍ MISMO O PARA UN TERCERO, O ACEPTAR LA PROMESA DE TALES BENEFICIOS;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XIX. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas O HECHOS DE CORRUPCIÓN;
+XIX. Informe de presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;
 
 XX. Magistrado: El Titular de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado;
 
@@ -157,9 +155,9 @@ I. Los Servidores Públicos del Estado de Nuevo León pertenecientes a los entes
 
 II. Aquellas personas que habiendo fungido como Servidores Públicos del Estado y Municipios de Nuevo León, se ubiquen en los supuestos a que se refiere la presente Ley; y
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-III. Los particulares vinculados con faltas administrativas graves O HECHOS DE CORRUPCIÓN Y LOS QUE SE ENCUENTREN EN SITUACIÓN ESPECIAL CONFORME AL CAPÍTULO IV DEL TÍTULO TERCERO DE LA PRESENTE LEY.
+III. Los particulares vinculados con faltas administrativas graves y los que se encuentren en situación especial conforme al capítulo IV del Título Tercero de la presente Ley.
 
 ###### Artículo 5.
 
@@ -247,11 +245,11 @@ II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públ
 
 III. Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-La Auditoría Superior, será competente para investigar y substanciar el procedimiento por las faltas administrativas graves Y HECHOS DE CORRUPCIÓN.
+La Auditoría superior, será competente para investigar y substanciar el procedimiento por las faltas administrativas graves.
 
 En caso de que la Auditoría Superior detecte posibles faltas administrativas no graves, deberá dar cuenta de ello a la Contraloría o al Órgano Interno de Control que corresponda, para que continúen la investigación respectiva y promuevan las acciones que procedan.
 
@@ -261,21 +259,21 @@ Cuando la Contraloría estime que ella debe instruir una investigación o proced
 
 En los casos en que, derivado de sus investigaciones, acontezca la presunta comisión de delitos, presentarán las denuncias correspondientes ante el Ministerio Público competente.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-El Tribunal, además de las facultades y atribuciones conferidas en su legislación orgánica y demás normatividad aplicable, estará facultado para resolver la imposición de sanciones por la comisión de faltas administrativas graves, HECHOS DE CORRUPCIÓN y de faltas de particulares, conforme a los procedimientos previstos en esta Ley, tratándose de sanciones administrativas.
+El Tribunal, además de las facultades y atribuciones conferidas en su legislación orgánica y demás normatividad aplicable, estará facultado para resolver la imposición de sanciones por la comisión de faltas administrativas graves y de faltas de particulares, conforme a los procedimientos previstos en esta Ley, tratándose de sanciones administrativas.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-Cuando las Autoridades investigadoras determinen que de los actos u omisiones investigados, se desprenden tanto la comisión de faltas administrativas graves como no graves O HECHOS DE CORRUPCIÓN por el mismo servidor público, se substanciará el procedimiento en los términos previstos para las faltas Administrativas Graves O HECHOS DE CORRUPCIÓN, a fin de que sea el Tribunal el que imponga la sanción a dicha falta. Si el Tribunal determina que se cometieron tanto faltas administrativas graves O HECHOS DE CORRUPCIÓN, como faltas administrativas no graves, al graduar la sanción que proceda tomará en cuenta la comisión de éstas últimas.
+Cuando las Autoridades investigadoras determinen que, de los actos u omisiones investigados, se desprenden tanto la comisión de faltas administrativas graves como no graves por el mismo servidor público, se substanciará el procedimiento en los términos previstos para las faltas Administrativas Graves a fin de que sea el Tribunal el que imponga la sanción a dicha falta. si el Tribunal determina que se cometieron tanto faltas administrativas graves como faltas administrativas no graves, al graduar la sanción que proceda tomará en cuenta la comisión de éstas últimas.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)./
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Cuando la Contraloría o los órganos internos de control inicien un procedimiento de responsabilidad y en la investigación se detecte la presunta responsabilidad de una falta administrativa grave, HECHO DE CORRUPCIÓN o de carácter penal, a la brevedad, remitirán el asunto dando vista a la autoridad competente anexando copia certificada de la investigación y substanciación del caso.
+Cuando la Contraloría o los órganos internos de control inicien un procedimiento de responsabilidad y en la investigación se detecte la presunta responsabilidad de una falta administrativa grave, o de carácter penal, a la brevedad, remitirán el asunto dando vista a la autoridad competente anexando copia certificada de la investigación y substanciación del caso.
 
 Para los procedimientos iniciados por autoridad incompetente se estará a lo que dispone el artículo 109 del Código de Procedimientos Civiles del Estado de Nuevo León.
 
@@ -335,11 +333,11 @@ El Comité Coordinador del Sistema Estatal Anticorrupción, deberá establecer l
 
 ### Capítulo II. De la integridad de las personas morales
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 24.
 
-Las personas morales serán sancionadas en los términos de esta Ley, cuando los actos vinculados con faltas administrativas graves O HECHOS DE CORRUPCIÓN sean realizados por personas físicas que DIRECTA O INDIRECTAMENTE actúen a su nombre, representación y pretendan obtener mediante tales conductas, beneficios para dicha persona moral O SUS SOCIOS, ACCIONISTAS, PROPIETARIOS O PERSONAS QUE EJERZAN CONTROL SOBRE ELLA, INCLUYENDO RESPECTO A ÉSTAS ÚLTIMAS LAS PERSONAS PREVISTAS EN EL ARTÍCULO 52 DE ESTA LEY.
+Las personas morales serán sancionadas en los términos de esta Ley, cuando los actos vinculados con faltas administrativas graves, sean realizados por personas físicas que directa o indirectamente actúen a su nombre, representación y pretendan obtener mediante tales conductas, beneficios para dicha persona moral o sus socios, accionistas, propietarios o personas que ejerzan control sobre ella, incluyendo respecto a éstas últimas las personas previstas en el artículo 52 de esta Ley.
 
 ###### Artículo 25.
 
@@ -379,9 +377,9 @@ El Sistema Estatal de Información y la Plataforma Digital Nacional, contarán a
 
 En el Sistema de Evolución Patrimonial, de declaración de intereses y de constancias de presentación de la declaración fiscal del Sistema Estatal de Información y de la Plataforma Digital Nacional, se inscribirán según correspondan, los datos públicos de los Servidores Públicos O PARTICULARES SEÑALADOS EN EL ARTÍCULO 32 DEL PRESENTE ORDENAMIENTO, obligados a presentar declaraciones de situación patrimonial y de intereses. De igual forma, se inscribirá la constancia que para efectos de esta Ley emita la autoridad fiscal, sobre la presentación de la declaración anual de impuestos.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-En el Sistema Nacional de Servidores Públicos y particulares sancionados de la Plataforma Digital Nacional se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley General del Sistema Nacional Anticorrupción y las disposiciones legales en materia de transparencia, las constancias de sanciones o de inhabilitación que se encuentren firmes en contra de los Servidores Públicos o particulares que hayan sido sancionados por actos vinculados con faltas graves O HECHOS DE CORRUPCIÓN en términos de esta Ley, así como la anotación de aquellas abstenciones que hayan realizado las autoridades investigadoras o el Tribunal, en términos de los artículos 77 y 80 de esta Ley.
+En el sistema Nacional de servidores públicos y particulares sancionados de la Plataforma Digital Nacional se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley General del sistema Nacional Anticorrupción y las disposiciones legales en materia de transparencia, las constancias de sanciones o de inhabilitación que se encuentren firmes en contra de los Servidores Públicos o particulares que hayan sido sancionados por actos vinculados con faltas graves, en términos de esta Ley, así como la anotación de aquellas abstenciones que hayan realizado las autoridades investigadoras o el Tribunal, en términos de los artículos 77 y 80 de esta Ley.
 
 Los entes públicos, previo al nombramiento, designación o contratación de quienes pretendan ingresar al servicio público, consultarán el Sistema Nacional de Servidores Públicos y particulares sancionados del Sistema Estatal de Información y de la Plataforma Digital Nacional, con el fin de verificar si existen inhabilitaciones de dichas personas.
 
@@ -561,11 +559,9 @@ El Comité Coordinador Nacional, a propuesta del Comité de Participación Ciuda
 
 La declaración de intereses, deberá presentarse en los plazos a que se refiere el artículo 33 de esta Ley y de la misma manera le serán aplicables los procedimientos establecidos en dicho artículo para el incumplimiento de dichos plazos. También, deberá presentar la declaración en cualquier momento en que el servidor público O LOS PARTICULARES SEÑALADOS EN EL ARTÍCULO 32 DEL PRESENTE ORDENAMIENTO, en el ejercicio de sus funciones, considere que se puede actualizar un posible Conflicto de Interés.
 
-## TÍTULO TERCERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DEL TÍTULO TERCERO DE ESTE ORDENAMIENTO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-DE LAS FALTAS ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES y hechos de corrupción
+## TÍTULO TERCERO. DE LAS FALTAS ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMNISTRATIVAS (SIC) GRAVES
 
 ### Capítulo I. De las faltas administrativas no graves de los Servidores Públicos
 
@@ -597,11 +593,11 @@ Para efectos de esta Ley, se entiende que un socio o accionista ejerce control s
 
 Lo señalado en el anterior párrafo únicamente será para identificar al accionista que ejerce el control sobre una sociedad, por lo que la determinación de sanciones sobre una persona moral recaerán de manera generalizada a las personas que cuentan con el puesto de representante, accionista, socio, propietario y persona que ejerza el control sobre la misma.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 50.
 
-También se considerará falta administrativa no grave, los daños y perjuicios que, de manera culposa o negligente y sin incurrir en alguna de las faltas administrativas graves O HECHOS DE CORRUPCIÓN señalados en el Capítulo siguiente, cause un servidor público a la Hacienda Pública o al patrimonio de un ente público.
+También se considerará falta administrativa no grave, los daños y perjuicios que, de manera culposa o negligente y sin incurrir en alguna de las faltas administrativas graves señaladas en el capítulo siguiente, cause un servidor público a la Hacienda Pública o al patrimonio de un ente público.
 
 Los entes públicos, entidades o los particulares que, en términos de este artículo, hayan recibido recursos públicos sin tener derecho a los mismos, deberán reintegrar los mismos a la Hacienda Pública o al patrimonio del ente afectado en un plazo no mayor a 90 días hábiles, contados a partir de la notificación correspondiente de la Autoridad resolutora.
 
@@ -609,17 +605,15 @@ En caso de que no se realice el reintegro de los recursos señalados en el párr
 
 La Autoridad resolutora podrá abstenerse de imponer la sanción que corresponda conforme al artículo 75 de esta Ley, cuando el daño o perjuicio a la Hacienda Pública o al patrimonio de los entes públicos no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización y el daño haya sido resarcido o recuperado.
 
-### Capítulo II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DEL CAPÍTULO II DE ESTE ORDENAMIENTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+### Capítulo II. De las faltas administrativas graves de los Servidores Públicos
 
-De las faltas administrativas graves Y HECHOS DE CORRUPCIÓN de los Servidores Públicos
-
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-Las conductas previstas en el presente Capítulo constituyen faltas administrativas graves Y HECHOS DE CORRUPCIÓN de los Servidores Públicos, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
+Las conductas previstas en el presente Capítulo constituyen faltas administrativas graves de los Servidores Públicos, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
 
 ###### Artículo 52.
 
@@ -671,11 +665,11 @@ Incurrirá en enriquecimiento oculto u ocultamiento de Conflicto de Interés el 
 
 Cometerá tráfico de influencias el servidor público que utilice la posición que su empleo, cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, para generar cualquier beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere el artículo 52 de esta Ley.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 62.
 
-Será responsable de encubrimiento el servidor público que cuando en el ejercicio de sus funciones llegare a advertir actos u omisiones que pudieren constituir faltas administrativas O HECHOS DE CORRUPCIÓN, realice deliberadamente alguna conducta para su ocultamiento.
+Será responsable de encubrimiento el servidor público que cuando en el ejercicio de sus funciones llegare a advertir actos u omisiones que pudieren constituir faltas administrativas, realice deliberadamente alguna conducta para su ocultamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2020)</small>
 
@@ -689,35 +683,31 @@ Para los casos en los que el desacato consista en incumplir con el requerimiento
 
 Los Servidores Públicos responsables de la investigación, substanciación y resolución de las faltas administrativas incurrirán en obstrucción de la justicia cuando:
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-I. Realicen cualquier acto que simule conductas no graves durante la investigación de actos u omisiones calificados como graves O HECHOS DE CORRUPCIÓN en la presente Ley y demás disposiciones aplicables;
+I. Realicen cualquier acto que simule conductas no graves durante la investigación de actos u omisiones calificados como graves, en la presente Ley y demás disposiciones aplicables;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-II. No inicien el procedimiento correspondiente ante la autoridad competente, dentro del plazo de treinta días naturales, a partir de que tengan conocimiento de cualquier conducta que pudiera constituir una falta administrativa grave, faltas de particulares O UN HECHO DE CORRUPCIÓN; y
+II. No inicien el procedimiento correspondiente ante la autoridad competente, dentro del plazo de treinta días naturales, a partir de que tengan conocimiento de cualquier conducta que pudiera constituir una falta administrativa grave, o faltas de particulares; y
 
 III. Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en esta Ley.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Los Servidores Públicos o particulares que denuncien una Falta administrativa grave, HECHO DE CORRUPCIÓN o faltas de particulares, o sean testigos dentro del procedimiento de responsabilidad administrativa, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por la autoridad investigadora, substanciadora o resolutora, de conformidad con la Ley para Incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León.
+Los servidores públicos o particulares que denuncien una Falta administrativa grave, o faltas de particulares, o sean testigos dentro del procedimiento de responsabilidad administrativa, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por la autoridad investigadora, substanciadora o resolutora, de conformidad con la Ley para Incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-PARA EFECTOS DEL PRESENTE CAPITULO SERÁ CONSIDERADO HECHO DE CORRUPCIÓN LO ESTABLECIDO POR LOS ARTÍCULOS 52, 53, 54, 55 Y 57 DE LA PRESENTE LEY. LOS CASOS RESTANTES CONFORMARÁN LAS FALTAS ADMINISTRATIVAS GRAVES.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-### Capítulo III
+### Capítulo III. De los actos de particulares vinculados con faltas administrativas graves
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DEL CAPÍTULO III DE ESTE ORDENAMIENTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-De los actos de particulares vinculados con faltas administrativas graves Y HECHOS DE CORRUPCIÓN
-
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 65.
 
-Los actos de particulares previstos en el presente Capítulo, se consideran vinculados a faltas administrativas graves Y HECHOS DE CORRUPCIÓN, por lo que su comisión será sancionada en términos de esta Ley.
+Los actos de particulares previstos en el presente capítulo, se consideran vinculados a faltas administrativas graves, por lo que su comisión será sancionada en términos de esta Ley.
 
 Cuando la Auditoría Superior, la autoridad investigadora o resolutora de la contraloría u órganos internos de control tuvieren conocimiento de la posible comisión de un presunto delito, darán vista al ministerio público competente.
 
@@ -775,13 +765,13 @@ Será responsable por el uso indebido de recursos públicos el particular que re
 
 También se considera uso indebido de recursos públicos, la omisión de rendir cuentas que comprueben el destino que se otorgó a dichos recursos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 72.
 
 Será responsable de contratación indebida de ex Servidores Públicos el particular que contrate a quien haya sido servidor público durante el año previo, que posea información privilegiada que directamente haya adquirido con motivo de su empleo, cargo o comisión en el servicio público, y directamente permita que el contratante se beneficie en el mercado o se coloque en situación ventajosa frente a sus competidores. En este supuesto también será sancionado el ex servidor público contratado.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-PARA EFECTOS DEL PRESENTE CAPITULO SERÁN CONSIDERADOS HECHOS DE CORRUPCIÓN LO ESTABLECIDO POR LOS ARTÍCULOS 66, 68, 72 PÁRRAFO PRIMERO Y 70 PÁRRAFO TERCERO CUANDO ESTE ÚLTIMO EL INTERMEDIARIO EL INTERMEDIARIO (SIC) SEA UN SERVIDOR PÚBLICO, DE LA PRESENTE LEY. LOS CASOS RESTANTES CONFORMARÁN LOS ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ### Capítulo IV. De las faltas de particulares en situación especial
 
@@ -797,9 +787,9 @@ A los particulares que se encuentren en situación especial, conforme al present
 
 Para el caso de faltas administrativas no graves, las facultades de la Contraloría o de los Órganos internos de control para imponer las sanciones prescriban en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado. Para los demás casos no contemplados bajo los anteriores supuestos, la prescripción también será de tres años.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Cuando se trate de faltas administrativas graves, HECHOS DE CORRUPCIÓN o faltas de particulares, el plazo de prescripción será de siete años contados en los mismos términos del párrafo anterior, incluyendo los casos que se citan como no contemplados.
+Cuando se trate de faltas administrativas graves, o faltas de particulares, el plazo de prescripción será de siete años contados en los mismos términos del párrafo anterior, incluyendo los casos que se citan como no contemplados.
 
 La prescripción se interrumpirá con la clasificación a que se refiere el primer párrafo del artículo 100 de esta Ley.
 
@@ -859,17 +849,15 @@ II. No haya actuado de forma dolosa.
 
 La Contraloría o los órganos internos de control, dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
 
-### Capítulo II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DEL CAPÍTULO II DE ESTE ORDENAMIENTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+### Capítulo II. Sanciones para los Servidores Públicos por faltas graves
 
-Sanciones para los Servidores Públicos por faltas graves O HECHOS DE CORRUPCIÓN
-
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 78.
 
-Las sanciones administrativas que imponga el Tribunal a los Servidores Públicos, derivado de los procedimientos por la comisión de faltas administrativas graves O HECHOS DE CORRUPCIÓN, consistirán en:
+Las sanciones administrativas que imponga el Tribunal a los Servidores Públicos, derivado de los procedimientos por la comisión de faltas administrativas graves, consistirán en:
 
 I. Suspensión del empleo, cargo o comisión;
 
@@ -883,9 +871,9 @@ IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el
 
 V. INHABILITACIÓN DEFINITIVA PARA DESEMPEÑAR EMPLEOS, CARGOS O COMISIONES EN EL SERVICIO PÚBLICO Y PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS PÚBLICAS.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-A juicio del Tribunal, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad DEL HECHO DE CORRUPCIÓN O de la Falta administrativa grave.
+A juicio del Tribunal, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la Falta administrativa grave.
 
 La suspensión del empleo, cargo o comisión que se imponga podrá ser de treinta a noventa días naturales.
 
@@ -959,9 +947,9 @@ c) INHABILITACIÓN DEFINITIVA PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, 
 
 d) LA SUSPENSIÓN DE ACTIVIDADES, POR UN PERIODO QUE NO SERÁ MENOR DE UN AÑO NI MAYOR DE CINCO AÑOS, LA CUAL CONSISTIRÁ EN DETENER, DIFERIR O PRIVAR TEMPORALMENTE A LOS PARTICULARES DE SUS ACTIVIDADES COMERCIALES, ECONÓMICAS, CONTRACTUALES O DE NEGOCIOS POR ESTAR VINCULADOS A FALTAS ADMINISTRATIVAS GRAVES O HECHOS DE CORRUPCIÓN PREVISTOS EN ESTA LEY;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO e) DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-e) Disolución de la sociedad respectiva, la cual consistirá en la pérdida de la capacidad legal de una persona moral, para el cumplimiento del fin por el que fue creada por orden jurisdiccional y como consecuencia de la comisión, vinculación, participación y relación con una falta administrativa grave O HECHO DE CORRUPCIÓN PREVISTO EN ESTA LEY;
+e) Disolución de la sociedad respectiva, la cual consistirá en la pérdida de la capacidad legal de una persona moral, para el cumplimiento del fin por el que fue creada por orden jurisdiccional y como consecuencia de la comisión, vinculación, participación y relación con una falta administrativa grave prevista en esta Ley;
 
 f) Reparación de daños y perjuicios ocasionados a la Hacienda Pública estatal o municipal, o al patrimonio de los entes públicos;
 
@@ -971,13 +959,13 @@ g) INHABILITACIÓN TEMPORAL PARA QUE SUS SOCIOS ACCIONISTAS, REPRESENTANTES LEGA
 
 Para la imposición de sanciones a las personas morales deberá observarse además, lo previsto en los artículos 24 y 25 de esta Ley.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Las sanciones previstas en los incisos d) y e) de esta fracción, sólo serán procedentes cuando la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves O HECHOS DE CORRUPCIÓN.
+Las sanciones previstas en los incisos d) y e) de esta fracción, sólo serán procedentes cuando la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-A juicio del Tribunal, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre que sean compatibles entre ellas y de acuerdo a la gravedad de las faltas de particulares O HECHOS DE CORRUPCIÓN.
+A juicio del Tribunal, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre que sean compatibles entre ellas y de acuerdo a la gravedad de las faltas de particulares.
 
 Se considerará como atenuante en la imposición de sanciones a personas morales cuando los órganos de administración, representación, vigilancia o los socios de las personas morales denuncien o colaboren en las investigaciones proporcionando la información y los elementos que posean, resarzan los daños que se hubieren causado.
 
@@ -1013,17 +1001,15 @@ Para los fines de esta Ley, los entes públicos para incentivar la denuncia y sa
 
 Los hechos ilícitos cometidos por particulares contenidos en la presente Ley, serán perseguidos por la autoridad competente de oficio.
 
-### Capítulo IV
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DEL CAPÍTULO IV DE ESTE ORDENAMIENTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+### Capítulo IV. Disposiciones comunes para la imposición de sanciones por faltas administrativas graves y faltas de particulares
 
-Disposiciones comunes para la imposición de sanciones por faltas administrativas graves, HECHOS DE CORRUPCIÓN y faltas de particulares
-
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 84.
 
-Para la imposición de las sanciones por faltas administrativas graves, HECHOS DE CORRUPCIÓN y faltas de particulares, se observarán las siguientes reglas:
+Para la imposición de las sanciones por faltas administrativas graves y faltas de particulares, se observarán las siguientes reglas:
 
 I. La suspensión o la destitución del puesto de los Servidores Públicos serán impuestas por el Tribunal y ejecutadas por el titular o servidor público competente del Ente público o entidad correspondiente;
 
@@ -1077,11 +1063,9 @@ Si el presunto infractor confiesa su responsabilidad sobre los actos que se le i
 
 DISPOSICIONES ADJETIVAS
 
-## TÍTULO PRIMERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DEL TÍTULO PRIMERO DE ESTE ORDENAMIENTO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-DE LA INVESTIGACIÓN Y CALIFICACIÓN DE LAS FALTAS GRAVES, hechos de corrupción Y FALTAS NO GRAVES
+## TÍTULO PRIMERO. DE LA INVESTIGACIÓN Y CALIFICACIÓN DE LAS FALTAS GRAVES Y FALTAS NO GRAVES
 
 ### Capítulo I. Inicio de la investigación
 
@@ -1093,25 +1077,27 @@ Igualmente, incorporarán a sus investigaciones, las técnicas, tecnologías y m
 
 Las autoridades investigadoras, de conformidad con las leyes de la materia, deberán cooperar con las autoridades internacionales a fin de fortalecer los procedimientos de investigación, compartir las mejores prácticas internacionales y combatir de manera efectiva la corrupción.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 91.
 
-La investigación por la presunta responsabilidad de faltas administrativas, O HECHOS DE CORRUPCIÓN iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos.
+La investigación por la presunta responsabilidad de faltas administrativas, iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos.
 
 Las denuncias podrán ser anónimas. A solicitud expresa del denunciante, las autoridades investigadoras, sustanciadoras y resolutoras mantendrán con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 92.
 
-Las autoridades investigadoras establecerán áreas de fácil acceso, para que cualquier interesado pueda presentar denuncias por presuntas faltas administrativas O HECHOS DE CORRUPCIÓN, de conformidad con los criterios establecidos en la presente Ley.
+Las autoridades investigadoras establecerán áreas de fácil acceso, para que cualquier interesado pueda presentar denuncias por presuntas faltas administrativas, de conformidad con los criterios establecidos (sic)
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 93.
 
-La denuncia deberá contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de faltas administrativas, O HECHOS DE CORRUPCIÓN, y podrán ser presentadas de manera electrónica a través de los mecanismos que para el caso establezcan las Autoridades investigadoras. Lo anterior, sin menoscabo de lo que determine para tal efecto la plataforma digital del Sistema Nacional Anticorrupción y/o del Sistema Estatal Anticorrupción.
+La denuncia deberá contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de faltas administrativas, podrán ser presentadas de manera electrónica a través de los mecanismos que para el caso establezcan las Autoridades investigadoras. Lo anterior, sin menoscabo de lo que determine para tal efecto la plataforma digital del Sistema Nacional Anticorrupción y/o del Sistema Estatal Anticorrupción.
 
 (NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1127,9 +1113,9 @@ Para el cumplimiento de sus atribuciones, las Autoridades investigadoras llevar�
 
 Las autoridades investigadoras tendrán acceso a la información necesaria para el esclarecimiento de los hechos, con inclusión de aquélla que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones a que se refiere esta Ley, con la obligación de mantener la misma reserva o secrecía, conforme a lo que determinen las leyes.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-Para el cumplimiento de las atribuciones de las autoridades investigadoras, durante el desarrollo de investigaciones por faltas administrativas graves O HECHOS DE CORRUPCIÓN, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal bursátil, fiduciario o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. Esta información conservará su calidad en los expedientes correspondientes, para lo cual se celebrarán convenios de colaboración con las autoridades correspondientes.
+Para el cumplimiento de las atribuciones de las autoridades investigadoras, durante el desarrollo de investigaciones por faltas administrativas graves, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal bursátil, fiduciario o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. Esta información conservará su calidad en los expedientes correspondientes, para lo cual se celebrarán convenios de colaboración con las autoridades correspondientes.
 
 Para efectos de lo previsto en el párrafo anterior, se observará lo dispuesto en el artículo 38 de esta Ley.
 
@@ -1169,17 +1155,15 @@ La Auditoría Superior investigará y en su caso substanciará, en los términos
 
 En caso de que la Auditoría Superior tenga conocimiento de la presunta comisión de Faltas administrativas distintas a las señaladas en el artículo anterior, dará vista a la Contraloría o a los Órganos internos de control que correspondan, dentro de los 15 días hábiles siguientes al momento en el que se tuvo conocimiento del hecho, a efecto de que procedan a realizar la investigación correspondiente.
 
-### Capítulo III
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DEL CAPÍTULO III DE ESTE ORDENAMIENTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+### Capítulo III. De la calificación de faltas administrativas
 
-De la calificación de faltas administrativas Y HECHOS DE CORRUPCIÓN
-
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 100.
 
-Concluidas las diligencias de investigación, las autoridades investigadoras procederán al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y, en su caso, calificarla como grave, no grave O HECHO DE CORRUPCIÓN.
+Concluidas las diligencias de investigación, las autoridades investigadoras procederán al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y, en su caso, calificarla como grave, o no grave.
 
 Una vez calificada la conducta en los términos del párrafo anterior, se incluirá la misma en el Informe de Presunta Responsabilidad Administrativa, mismo que deberá contener la falta administrativa, el presunto responsable y los terceros a quienes pueda afectar la resolución; y éste se presentará ante la autoridad substanciadora a efecto de iniciar el procedimiento de responsabilidad administrativa.
 
@@ -1289,13 +1273,13 @@ Son partes en el procedimiento de responsabilidad administrativa:
 
 I. La Autoridad investigadora;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-II. El servidor público señalado como presunto responsable de la falta administrativa grave, no grave O HECHO DE CORRUPCIÓN;
+II. El servidor público señalado como presunto responsable de la falta administrativa grave, o no grave;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-III. El particular, sea persona física o moral, señalado como presunto responsable en la comisión de faltas de particulares O HECHOS DE CORRUPCIÓN; y
+III. El particular, sea persona física o moral, señalado como presunto responsable en la comisión de faltas de particulares; y
 
 IV. Los terceros, que son todos aquellos a quienes pueda afectar la resolución que se dicte en el procedimiento de responsabilidad administrativa, incluido el denunciante.
 
@@ -1687,9 +1671,9 @@ II. El acuerdo de admisión del Informe de Presunta Responsabilidad Administrati
 
 III. El acuerdo por el que se ordene la citación a la audiencia inicial del procedimiento de responsabilidad administrativa;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-IV. En el caso de faltas administrativas graves O HECHOS DE CORRUPCIÓN, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa al Tribunal;
+IV. En el caso de faltas administrativas graves, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa al Tribunal;
 
 V. Los acuerdos por lo que se aperciba a las partes o terceros, con la imposición de medidas de apremio;
 
@@ -1833,17 +1817,17 @@ IV. La fijación clara y precisa de los hechos controvertidos por las partes;
 
 V. La valoración de las pruebas admitidas y desahogadas;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-VI. Las consideraciones lógico jurídicas que sirven de sustento para la emisión de la resolución. En el caso de que se hayan ocasionado daños y perjuicios a la Hacienda Pública Federal, estatal o municipal o al patrimonio de los entes públicos, se deberá señalar la existencia de la relación de causalidad entre la conducta calificada como falta administrativa grave, HECHO DE CORRUPCIÓN o falta de particulares y la lesión producida; la valoración del daño o perjuicio causado; así como la determinación del monto de la indemnización, explicitando los criterios utilizados para su cuantificación;
+VI. Las consideraciones lógico jurídicas que sirven de sustento para la emisión de la resolución. En el caso de que se hayan ocasionado daños y perjuicios a la Hacienda Pública Federal, estatal o municipal o al patrimonio de los entes públicos, se deberá señalar la existencia de la relación de causalidad entre la conducta calificada como falta administrativa grave, o falta de particulares y la lesión producida; la valoración del daño o perjuicio causado; así como la determinación del monto de la indemnización, explicitando los criterios utilizados para su cuantificación;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-VII. El relativo a la existencia o inexistencia de los hechos que la ley señale como falta administrativa grave, HECHO DE CORRUPCIÓN o falta de particulares y, en su caso, la responsabilidad plena del servidor público o particular vinculado con dichas faltas. Cuando derivado del conocimiento del asunto, la Autoridad resolutora advierta la probable comisión de faltas administrativas, imputables a otra u otras personas, podrá ordenar en su fallo que las autoridades investigadoras inicien la averiguación correspondiente;
+VII. El relativo a la existencia o inexistencia de los hechos que la ley señale como falta administrativa grave, o falta de particulares y, en su caso, la responsabilidad plena del servidor público o particular vinculado con dichas faltas.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-VIII. La determinación de la sanción para el servidor público que haya sido declarado plenamente responsable o particular vinculado en la comisión de la falta administrativa grave O HECHO DE CORRUPCIÓN;
+VIII. La determinación de la sanción para el servidor público que haya sido declarado plenamente responsable o particular vinculado en la comisión de la falta administrativa grave;
 
 IX. La existencia o inexistencia que en términos de esta Ley constituyen faltas administrativas o hechos de corrupción; y
 
@@ -1881,23 +1865,23 @@ XI. La resolución, deberá notificarse personalmente al presunto responsable. E
 
 ### Capítulo III. Del procedimiento de responsabilidad administrativa cuya resolución corresponda al Tribunal
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 209.
 
-En los asuntos relacionados con faltas administrativas graves, HECHOS DE CORRUPCIÓN o faltas de particulares, se deberá proceder de conformidad con el procedimiento previsto en este artículo.
+En los asuntos relacionados con faltas administrativas graves, o faltas de particulares, se deberá proceder de conformidad con el procedimiento previsto en este artículo.
 
 Las Autoridades substanciadoras deberán observar lo dispuesto en las fracciones I a VII del artículo anterior, luego de lo cual procederán conforme a lo dispuesto en las siguientes fracciones:
 
 I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la audiencia inicial, la Autoridad substanciadora deberá, bajo su responsabilidad, enviar al Tribunal los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio del Tribunal de la resolución del asunto;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-II. Cuando el Tribunal reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el Informe de Presunta Responsabilidad Administrativa sea de las consideradas como graves O HECHOS DE CORRUPCIÓN. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la Autoridad substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el artículo anterior.
+II. Cuando el Tribunal reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el Informe de presunta Responsabilidad Administrativa sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la Autoridad substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el artículo anterior.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-De igual forma, de advertir el Tribunal que los hechos descritos por la Autoridad investigadora en el Informe de Presunta Responsabilidad Administrativa corresponden a la descripción de UN HECHO DE CORRUPCIÓN O falta grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles. En caso de que la Autoridad investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber al Tribunal fundando y motivando su proceder. En este caso, el Tribunal continuará con el procedimiento de responsabilidad administrativa.
+De igual forma, de advertir el Tribunal que los hechos descritos por la Autoridad investigadora en el Informe de presunta Responsabilidad Administrativa corresponden a la descripción de una falta grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles. En caso de que la Autoridad investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber al Tribunal fundando y motivando su proceder. En este caso, el Tribunal continuará con el procedimiento de responsabilidad administrativa.
 
 Una vez que el Tribunal haya decidido que el asunto corresponde a su competencia y, en su caso, se haya solventado la reclasificación, deberá notificar personalmente a las partes sobre la recepción del expediente.
 
@@ -1977,9 +1961,9 @@ En el escrito deberán formularse los agravios que consideren las partes se les 
 
 Procederá el recurso de apelación contra las resoluciones siguientes:
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-I. La que determine imponer sanciones por la comisión de faltas administrativas graves, HECHOS DE CORRUPCIÓN o faltas de particulares; y
+I. La que determine imponer sanciones por la comisión de faltas administrativas graves, o faltas de particulares; y
 
 II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean Servidores Públicos o particulares.
 
@@ -2029,21 +2013,19 @@ La ejecución de las sanciones por faltas administrativas no graves se llevará 
 
 Tratándose de los Servidores Públicos de base, la suspensión y la destitución se ejecutarán por el titular del Ente público.
 
-#### Sección Segunda
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ACÁPITE DE LA SECCIÓN SEGUNDA DE ESTE ORDENAMIENTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-Cumplimiento y ejecución de sanciones por faltas administrativas graves, HECHOS DE CORRUPCIÓN y faltas de particulares
+#### Sección Segunda. Cumplimiento y ejecución de sanciones por faltas administrativas graves y faltas de particulares
 
 ###### Artículo 224.
 
 Las sanciones económicas impuestas por el Tribunal constituirán créditos fiscales a favor de la Hacienda Pública, o del patrimonio de los entes públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Finanzas y Tesorería General del Estado o Tesorería Municipal correspondiente, a la que será notificada la resolución emitida por el Tribunal respectivo.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 225.
 
-Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un servidor público por faltas administrativas graves O HECHOS DE CORRUPCIÓN, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
+Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un servidor público por faltas administrativas graves, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
 
 I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, se dará vista a su superior jerárquico, Contraloría u Órgano de control interno correspondiente, a efecto de que se registre (sic) las constancias de sanciones o de inhabilitación en el sistema estatal de información y en el sistema nacional de Servidores Públicos y particulares sancionados de la Plataforma digital nacional que menciona el artículo 27 de la presente Ley;
 
@@ -2071,11 +2053,11 @@ II. Cuando se decrete la disolución de la sociedad respectiva, los responsables
 
 EN CASO DE QUE LAS AUTORIDADES ENCARGADAS DE REALIZAR LAS INSCRIPCIONES DE SOCIEDADES, RECIBAN UNA SOLICITUD DE UNA NUEVA SOCIEDAD CUYO OBJETO Y CARACTERÍSTICAS SEAN SIMILARES A LA SOCIEDAD QUE SE HAYA SUSPENDIDO O DISUELTO Y QUE UNO O VARIOS DE SUS SOCIOS SEAN QUIENES INTEGRABAN ALGUNA DE LAS SOCIEDADES SEÑALADAS EN LAS FRACCIONES I Y II DE ESTE ARTÍCULO, DEBERÁN NOTIFICARLO DE INMEDIATO AL TRIBUNAL, A FIN DE QUE ÉSTE AUTORICE O RECHACE LA INSCRIPCIÓN DE LA SOCIEDAD DE QUE SE TRATE.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 228.
 
-Cuando haya causado ejecutoria una sentencia en la que se determine que no existe una falta administrativa grave, HECHO DE CORRUPCIÓN o faltas de particulares, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento. En los casos en que haya decretado la suspensión del servidor público en su empleo, cargo o comisión, ordenará la restitución inmediata del mismo y en su caso restituya los salarios caídos.
+Cuando haya causado ejecutoria una sentencia en la que se determine que no existe una falta administrativa grave, o faltas de particulares, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento. En los casos en que haya decretado la suspensión del servidor público en su empleo, cargo o comisión, ordenará la restitución inmediata.
 
 ###### Artículo 229.
 
@@ -2140,3 +2122,9 @@ P.O. 10 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 463. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 9 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 022. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
