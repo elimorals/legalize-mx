@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2017-03-28"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -4141,25 +4141,59 @@ Los derechos o conceptos de ingreso de cualquier naturaleza, que se establezcan 
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PÚBLICO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 240.
 
-Es objeto de este derecho, el servicio de alumbrado público que presta el Ayuntamiento en el Municipio.
+Es objeto de este Derecho la prestación del servicio de alumbrado público en el territorio del Municipio, otorgado en vías primarias o secundarias, boulevares, avenidas, áreas de recreo o deportivas, iluminaciones artísticas, festivas o de temporada y, en general, en cualquier otro lugar de uso común.
+
+Por la prestación del servicio de alumbrado público, el Ayuntamiento del Municipio cobrará un derecho en los términos previstos en este Capítulo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 241.
 
-Son sujetos de este derecho, las personas físicas o morales que sean usuarias del servicio de energía eléctrica proporcionado por la Comisión Federal de Electricidad.
+Son sujetos de este derecho y, consecuentemente, obligados a su pago, todas las personas físicas o morales que reciben la prestación del servicio de alumbrado público por el Ayuntamiento del Municipio.
+
+Para los efectos de este artículo, se considera que reciben el servicio de alumbrado público los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Municipio.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 242.
 
-Es base de este derecho, el importe de los consumos de energía eléctrica que hagan los usuarios a la Comisión Federal de Electricidad.
+Es base de este Derecho el gasto total anual que le genere al Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior la prestación del servicio de alumbrado público en el territorio municipal, traído a valor presente con la aplicación de un factor de actualización.
+
+El factor de actualización a que se refiere el párrafo anterior, se aplicará por el transcurso del tiempo y con motivo de los cambios de precios en el país. Dicho factor se obtendrá dividiendo el Índice de Precios del Genérico Electricidad del Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior, al mes de noviembre más reciente.
+
+Para los efectos del presente Artículo, se entiende como gasto total del servicio de alumbrado público, la suma de las siguientes erogaciones anuales que haya realizado el Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior para la prestación de este servicio:
+
+I. El pago a la empresa u organismo suministrador de energía eléctrica de las redes de alumbrado público del Municipio;
+
+II. Los gastos de ampliación, instalación, reparación, limpieza y mantenimiento del alumbrado público y luminarias que se requieren para prestar el servicio público;
+
+III. Los gastos de depreciación de las luminarias calculado como el costo promedio de las luminarias entre su vida útil multiplicado por el total de luminarias; y
+
+IV. Los gastos de administración y operación del servicio de alumbrado público, incluyendo la nómina del personal del Municipio encargado de dichas funciones.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 243.
 
-El pago de este derecho, se hará simultáneamente con el del consumo que se realice a la Comisión Federal de Electricidad.
+La cuota o tarifa para el pago de este Derecho, será la cantidad que resulte de dividir el gasto total anual del servicio de alumbrado público, entre el número total de los sujetos del servicio, en los términos que establezca la Ley de Ingresos del Municipio, en el ejercicio fiscal que corresponda.
 
-Se faculta al Presidente para que, con la intervención del Ejecutivo del Estado, celebre con la Comisión Federal de Electricidad los convenios necesarios para establecer el mecanismo de recaudación de este derecho.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
-La Comisión Federal de Electricidad, retendrá las cantidades que por derecho de alumbrado público paguen los usuarios por sus consumos, en términos del primer párrafo y en su caso, si lo establecen los convenios a que se refiere el párrafo anterior, se aplicarán las cantidades retenidas al pago del servicio de energía y alumbrado público.
+###### Artículo 243 Bis.
+
+El Derecho por el Servicio de Alumbrado Público se causará anualmente y se pagará conforme a lo siguiente:
+
+I. Mensual o bimestralmente si la recaudación se realiza a través de la empresa u organismo suministrador de energía eléctrica, o
+
+II. Mensual, semestral o anualmente, si se realiza directamente a la tesorería del Municipio.
+
+El Municipio estará facultado para celebrar el convenio o convenios necesarios a fin de establecer el mecanismo para la recaudación del Derecho por los Servicios de Alumbrado Público con la empresa u organismo suministrador de energía eléctrica.
+
+El Municipio podrá otorgar beneficios, subsidios o estímulos fiscales en materia del derecho a que se refiere el presente capítulo, mismos que deberá publicar en el Periódico Oficial del Estado.
 
 ### CAPÍTULO VII. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS Y CONSTANCIAS
 
@@ -6988,3 +7022,11 @@ P.O. 28 DE MARZO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Queda sin efecto cualquier acto o disposición que se oponga al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 240, 241, 242 Y 243, Y ADICIONA EL ARTÍCULO 243 BIS DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponga al presente Decreto.
