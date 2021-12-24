@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2021-05-17"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -3237,6 +3237,14 @@ a) La remoción del puesto, cargo o comisión por el incumplimiento de los requi
 
 b) La terminación del ejercicio del cargo, debidamente emitida conforme a las disposiciones correspondientes.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+Si la autoridad jurisdiccional resolviere que la separación, baja, remoción, cese o cualquier otra forma de terminación del servicio fue injustificada, las Instituciones Policiales sólo estarán obligadas a pagar al servidor público la indemnización y las partes proporcionales de las prestaciones que le correspondan al momento de la terminación del servicio, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+En todo caso, la indemnización consistirá en tres meses de sueldo base. Las demás prestaciones comprenderán el sueldo base, así como los beneficios, recompensas, estipendios, asignaciones, gratificaciones, premios, retribuciones, subvenciones, haberes, dietas, compensaciones o cualquier otro concepto que percibía el interesado por la prestación de sus servicios, los cuales se computarán desde la fecha de su separación, baja, cese o remoción, hasta por un periodo máximo de doce meses.
+
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 198 Bis 31.
@@ -3888,3 +3896,9 @@ P.O. 17 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 485. SE ADICIONA EL ARTÍCULO 135 BIS A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 023. SE ADICIONA CON UN SEGUNDO Y TERCER PÁRRAFO EL ARTÍCULO 198 BIS 30 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO 81 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
