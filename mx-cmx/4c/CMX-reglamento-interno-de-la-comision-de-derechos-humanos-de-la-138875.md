@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2021-03-29"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -904,9 +904,23 @@ Integración
 
 Para el cumplimiento de sus atribuciones, la Dirección Ejecutiva de Delegaciones y Enlace Legislativo contará con al menos:
 
-I. Una Dirección de Área; y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
 
-II. El personal profesional, técnico y administrativo necesario que al efecto establezca la persona titular de la Presidencia para la adecuada realización de sus funciones.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+I. Dos Subdirecciones Generales de Delegaciones
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+II. Una Subdirección de Área, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+III. El personal profesional, técnico y administrativo necesario que al efecto establezca la persona titular de la Presidencia para la adecuada realización de sus funciones.
 
 ###### Artículo 54.
 
@@ -948,13 +962,27 @@ Delegaciones de la Comisión
 
 Las Delegaciones de la Comisión en las diversas demarcaciones territoriales, tendrán como propósito propiciar la proximidad de los servicios que aquella ofrece y, para el cumplimiento de su objeto, contarán en su integración como mínimo con las siguientes personas servidoras públicas:
 
-I. Responsable de la Oficina de la Delegación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
 
-II. De Promoción Territorial;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
 
-III. Visitadora Adjunta con adscripción a la Dirección General de Quejas y Atención Integral; y
+I. Coordinadora de Oficina en Delegaciones;
 
-IV. Enlace Administrativa con adscripción a la Dirección General de Administración.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+II. Promotoras Territoriales; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+III. Visitadora Adjunta con adscripción a la Dirección General de Quejas y Atención Integral.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+IV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2021)
 
 ###### Artículo 56.
 
@@ -1068,31 +1096,89 @@ Atribuciones
 
 Para el eficaz cumplimiento de sus funciones, la Dirección Ejecutiva de Educación en Derechos Humanos, por conducto de la persona titular o persona encargada del despacho, tendrá las atribuciones siguientes:
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
 I. Diseñar y ejecutar estrategias de educación que contribuyan al desarrollo de una cultura de paz, a partir del análisis contextual, fortaleciendo la comprensión de las problemáticas y el manejo positivo de los conflictos, desde el reconocimiento de los sujetos de derechos y de las diferencias, tomando como referencia los valores del diálogo y el intercambio, la tolerancia y los derechos humanos para contribuir a una Ciudad de México más justa, pacífica y democrática.
 
 Estas actividades estarán dirigidas a personas servidoras públicas, personas promotoras, formadoras y docentes, integrantes de organizaciones de la sociedad civil, a los diferentes grupos y poblaciones, así como al público en general, y podrán ser presenciales o a distancia, a través del uso de tecnologías de la información;
 
-II. Implementar procesos educativos dirigidos a los diferentes sectores de la población con el objetivo de promover el respeto de la dignidad humana, el libre desarrollo de la personalidad, el empoderamiento de las personas, la resolución no violenta de conflictos, los mecanismos alternativos de resolución de conflictos y la justicia restaurativa;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
 
-III. Diseñar y ejecutar estrategias de promoción y educación encaminadas a la construcción y fortalecimiento de la ciudadanía activa con enfoque territorial para el ejercicio de los derechos humanos, así como para la prevención y resolución de las distintas problemáticas sociales, a través de la mediación social buscando en todo caso obtener soluciones que respondan a los principios básicos de la justicia restaurativa; dirigidas a personas servidoras públicas, a integrantes de organizaciones de la sociedad civil, a los diferentes grupos y poblaciones y al público en general;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
 
-IV. Diseñar y ejecutar actividades de formación en materia de mediación social y con enfoque de derechos humanos;
+II. Implementar procesos educativos dirigidos a los diferentes sectores de la población con el objetivo de promover el respeto de la dignidad humana, el libre desarrollo de la personalidad, el empoderamiento de las personas, la resolución no violenta de conflictos, los mecanismos alternativos de resolución de conflictos, la justicia restaurativa.
 
-V. Desarrollar estrategias de acompañamiento de procesos de intervención con enfoque de derechos humanos para la prevención, gestión y solución de conflictos bajo los principios del diálogo, comprensión, tolerancia, empatía y confidencialidad que permitan a las partes proponer y construir acuerdos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
 
-VI. Implementar actividades educativas especialmente dirigidas a la formación de formadores territoriales en derechos humanos, mediación social y cultura de la paz;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
 
-VII. Llevar a cabo la vinculación con las organizaciones de la sociedad civil, así como con organismos nacionales e internacionales para realizar acciones conjuntas en apoyo a los proyectos educativos en derechos humanos;
+III. Diseñar y ejecutar estrategias de promoción y educación encaminadas a la construcción y fortalecimiento de la ciudadanía activa con enfoque territorial para el ejercicio de los derechos humanos; así como para la incidencia en materia de política pública para la prevención y resolución de las distintas problemáticas sociales.
 
-VIII. Coordinarse con las delegaciones de la Comisión para promover la educación en derechos humanos, la cultura de la paz, y la resolución de conflictos a través de la mediación social; así como llevar a cabo acciones encaminadas a la prevención de violaciones a derechos humanos;
+[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf
 
-IX. Articular con las demás Áreas de la Comisión la elaboración de opiniones, estudios, informes, propuestas, reportes y demás actividades relacionadas con la promoción, protección, garantía, vigilancia, estudio, educación, investigación y divulgación de los derechos humanos en la Ciudad de México;
+(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)]
 
-X. Proponer a la persona titular de la Presidencia, la celebración de convenios y otros instrumentos jurídicos con dependencias, entidades del sector público y organizaciones de la sociedad civil, en el marco de sus atribuciones;
+IV. Diseñar y ejecutar actividades educativas en materia de mediación social con enfoque de derechos humanos y perspectiva de género con el propósito de alcanzar soluciones que respondan a los principios básicos de la justicia restaurativa; dirigidas a personas servidoras
 
-XI. Organizar, clasificar, conservar, guardar y custodiar los archivos de trámite de la Dirección; y
+públicas, a integrantes de organizaciones de la sociedad civil, a los diferentes grupos de atención prioritaria y poblaciones y al público en general.
 
-XII. Las demás que sean necesarias para el cumplimiento de sus funciones y las que le confiera el presente Reglamento, la persona titular de la Presidencia y los ordenamientos internos.
+[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf
+
+(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2021)]
+
+V. En su carácter de área especializada en materia de derechos de infancias y juventudes con perspectiva de género, llevar a cabo las acciones necesarias para generar una cultura de conocimiento y respeto de los derechos humanos de niñas, niños, adolescentes y personas jóvenes, tendentes a la adopción de medidas que incluyan, la generación de espacios participativos, de formación, educación e información de los derechos humanos de las infancias y juventudes, y que en coordinación con las demás áreas de la Comisión y otras instancias se dé cumplimiento a las obligaciones de promoción y protección efectiva.
+
+Así como, observar, coadyuvar, dar seguimiento y colaborar con los mecanismos de protección a los derechos de niñas, niños y adolescentes.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VI. Desarrollar estrategias de acompañamiento de procesos de intervención con enfoque de derechos humanos y perspectiva de género para la prevención, gestión y solución de conflictos bajo los principios del diálogo, comprensión, tolerancia, empatía y confidencialidad que permitan a las partes proponer y construir acuerdos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VII. Implementar actividades educativas especialmente dirigidas a la formación de formadores territoriales en derechos humanos, mediación social y cultura de la paz;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+VIII. Llevar a cabo la vinculación con las organizaciones de la sociedad civil, instancias públicas y organismos locales, nacionales e internacionales, para realizar acciones conjuntas para la realización de promoción y educación en derechos humanos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+IX. Coordinarse con las delegaciones de la Comisión para promover la educación en derechos humanos, la cultura de la paz, y la resolución de conflictos a través de la mediación social; así como llevar a cabo acciones encaminadas a la prevención de violaciones a derechos humanos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+X. Articular con las demás Áreas de la Comisión la elaboración de opiniones, estudios, informes, propuestas, reportes y demás actividades relacionadas con la promoción, protección, garantía, vigilancia, estudio, educación, investigación y divulgación de los derechos humanos en la Ciudad de México;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+XI. Proponer a la persona titular de la Presidencia, la celebración de convenios y otros instrumentos jurídicos con dependencias, entidades del sector público y organizaciones de la sociedad civil, en el marco de sus atribuciones;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+XII. Organizar, clasificar, conservar, guardar y custodiar los archivos de trámite de la Dirección;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2021)</small>
+
+XIII. Las demás que sean necesarias para el cumplimiento de sus funciones y las que le confiera el presente Reglamento, la persona titular de la Presidencia y los ordenamientos internos.
 
 La persona titular de la Dirección Ejecutiva de Educación en Derechos Humanos o encargada de despacho podrá delegar y distribuir funciones entre el personal adscrito a la misma.
 
@@ -1210,7 +1296,9 @@ XXI. Coordinar los procesos de planeación y programación Institucional;
 
 XXII. Integrar, en coordinación con las Áreas de la Comisión, el Programa Operativo Anual (POA), así como el Anteproyecto de Presupuesto Anual y someterlo a consideración de la persona titular de la Presidencia;
 
-XXIII. Coordinar y supervisar al personal que realiza funciones y actividades administrativas en las Delegaciones de la Comisión en las Alcaldías de la Ciudad;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+XXIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2021)
 
 XXIV. Aplicar el cumplimiento de las disposiciones normativas que rigen en materia de recursos materiales, adquisiciones, servicios generales, almacenes e inventarios;
 
@@ -2213,3 +2301,25 @@ G.O. 29 DE MARZO DE 2021.
 PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México a Yolanda Ramírez Hernández, Directora General Jurídica de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico yolanda.ramirez@cdhcm.org.mx, y teléfono 5552295600, extensión 2451.
+
+G.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 15/2021 ACTA NÚM. 10/2021 DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA REFORMAR, ADICIONAR, DEROGAR Y MODIFICAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE ESTE ORGANISMO”.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf]</small>
+
+Primero. La presente reforma al Reglamento Interno fue aprobada por el Consejo de la Comisión de Derechos Humanos de la Ciudad de México, en la Sesión Ordinaria 10/2021 de fecha veintiuno de octubre de dos mil veintiuno, entrará en vigor el 01 de enero de 2022.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México mediante enlace electrónico.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADO EL ACUERDO 15/2021, POR EL CUAL EL CONSEJO DE LA MISMA APRUEBA REFORMAR DIVERSOS ARTÍCULOS DE SU REGLAMENTO INTERNO DE ESTE ORGANISMO”.]</small>
+
+PRIMERO. Se da a conocer el enlace electrónico del mismo sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México, donde podrá ser consultado el Acuerdo 15/2021, de fecha 21 de octubre de 2021, por el cual se aprueba reformar las fracciones I y II y adicionar la fracción III del artículo 53; reformar las fracciones I y II y derogar la fracción IV del artículo 55; reformar y adicionar las fracciones del artículo 60 y derogar la fracción XXIII del artículo 64 del Reglamento Interno de este organismo, el cual estará disponible para su consulta y descarga en el siguiente enlace electrónico https://cdhcm.org.mx/wp-content/uploads/2021/12/Acuerdo-15-2021-Reglamento-Interno.pdf
+
+SEGUNDO. Las reformas, adiciones y derogación antes mencionadas entrarán en vigor el día 01 de enero de 2022.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México a Yolanda Ramírez Hernández, Directora General Jurídica de la Comisión de Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico Yolanda.ramirez@cdhcm.org.mx, y teléfono 5552295600, extensión 2451.
