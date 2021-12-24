@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-hacendario-para-el-municipio-de-san-andres-1126
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-31"
-last_updated: "2017-12-29"
+last_updated: "2021-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
 
 Código publicado en la Trigésima Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de diciembre de 2015.
 
@@ -2025,39 +2025,59 @@ Para la determinación de las cuotas, tasas y tarifas a que se refiere el párra
 
 ### CAPÍTULO V. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PÚBLICO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 199.
 
-Son sujetos de estos derechos las personas físicas o morales que tengan celebrado contrato con el organismo público federal encargado del suministro de energía.
+Es objeto de este Derecho la prestación del servicio de alumbrado público en el territorio del Municipio, otorgado en vías primarias o secundarias, boulevares, avenidas, áreas de recreo o deportivas, iluminaciones artísticas, festivas o de temporada y, en general, en cualquier otro lugar de uso común.
 
-ART1ÍCULO (SIC) 200.- Son objeto de estos derechos la prestación del servicio de alumbrado público.
+Por la prestación del servicio de alumbrado público, el Ayuntamiento del Municipio cobrará un derecho en los términos previstos en este Capítulo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 200.
+
+Son sujetos de este derecho y, consecuentemente, obligados a su pago, todas las personas físicas o morales que reciben la prestación del servicio de alumbrado público por el Ayuntamiento del Municipio.
+
+Para los efectos de este artículo, se considera que reciben el servicio de alumbrado público los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Municipio.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 201.
 
-Es base de estos derechos, el gasto total que implique al Municipio la prestación del servicio de alumbrado público, el cual se obtiene de la suma de los siguientes conceptos:
+Es base de este Derecho el gasto total anual que le genere al Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior la prestación del servicio de alumbrado público en el territorio municipal, traído a valor presente con la aplicación de un factor de actualización.
 
-I = Gasto que representa para el Municipio la instalación de infraestructura del alumbrado público.
+El factor de actualización a que se refiere el párrafo anterior, se aplicará por el transcurso del tiempo y con motivo de los cambios de precios en el país. Dicho factor se obtendrá dividiendo el Índice de Precios del Genérico Electricidad del Índice Nacional de Precios al Consumidor del mes noviembre del año anterior, al mes de noviembre más reciente.
 
-M = Gasto que representa para el Municipio el mantenimiento y conservación del alumbrado público.
+Para los efectos del presente Artículo, se entiende como gasto total del servicio de alumbrado público, la suma de las siguientes erogaciones anuales que haya realizado el Ayuntamiento del Municipio en el ejercicio fiscal inmediato anterior para la prestación de este servicio:
 
-S = Sueldos del personal encargado de realizar las tareas inherentes a la prestación del mismo.
+I. El pago a la empresa u organismo suministrador de energía eléctrica de las redes de alumbrado público del Municipio;
 
-R = Constitución de una reserva razonable para la reposición, mejoramiento y en su caso, expansión del servicio.
+II. Los gastos de ampliación, instalación, reparación, limpieza y mantenimiento del alumbrado público y luminarias que se requieren para prestar el servicio público;
 
-C = Gasto que representa para el Municipio el suministro de energía eléctrica para la prestación del servicio público a que se refiere este Capítulo.
+III. Los gastos de depreciación de las luminarias calculado como el costo promedio de las luminarias entre su vida útil multiplicado por el total de luminarias; y
 
-El Municipio cuando así lo determine la Autoridad Municipal que corresponda, subsidiará totalmente el costo de los conceptos I, M, S y R antes definidos. Para el cálculo de estos derechos, el Municipio trasladará a los usuarios del servicio, parte del concepto C, recuperando únicamente la cantidad que resulte de aplicar las tasas a que se refiere la Ley de Ingresos del Municipio, al importe facturado a los usuarios registrados ante el organismo público descentralizado federal que presta el servicio de energía eléctrica.
+IV. Los gastos de administración y operación del servicio de alumbrado público, incluyendo la nómina del personal del Municipio encargado de dichas funciones.
 
-El Municipio podrá celebrar convenio con el organismo público descentralizado federal citado, a fin de que realice el cobro de los derechos a que se refiere este Capítulo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 202.
 
-El Municipio podrá disminuir gradualmente el subsidio a que se refiere el artículo anterior.
+La cuota o tarifa para el pago de este Derecho, será la cantidad que resulte de dividir el gasto total anual del servicio de alumbrado público, entre el número total de los sujetos del servicio, en los términos que establezca la Ley de Ingresos del Municipio, en el ejercicio fiscal que corresponda.
 
-Asimismo, registrará de manera detallada, las erogaciones que realice por los conceptos mencionados en el artículo anterior.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 203.
 
-Los derechos por la prestación del servicio a que se refiere este capítulo, se causarán anualmente y se pagarán bimestralmente conforme a las tasas que señale la Ley de Ingresos del Municipio.
+El Derecho por el Servicio de Alumbrado Público se causará anualmente y se pagará conforme a lo siguiente:
+
+I. Mensual o bimestralmente si la recaudación se realiza a través de la empresa u organismo suministrador de energía eléctrica, o
+
+II. Mensual, semestral o anualmente, si se realiza directamente a la tesorería del Municipio.
+
+El Municipio estará facultado para celebrar el convenio o convenios necesarios a fin de establecer el mecanismo para la recaudación del Derecho por los Servicios de Alumbrado Público con la empresa u organismo suministrador de energía eléctrica.
+
+El Municipio podrá otorgar beneficios, subsidios o estímulos fiscales en materia del derecho a que se refiere el presente capítulo, mismos que deberá publicar en el Periódico Oficial del Estado.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS Y CONSTANCIAS
 
@@ -2758,3 +2778,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado de Puebla y entrará en vigor el día primero de enero del año dos mil dieciocho.
 
 SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 199, 200, 201, 202 Y 203 DEL CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponga al presente Decreto.
