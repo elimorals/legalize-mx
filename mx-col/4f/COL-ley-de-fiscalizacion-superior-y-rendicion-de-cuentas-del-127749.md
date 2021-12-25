@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-127749
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-07"
-last_updated: "2020-06-10"
+last_updated: "2021-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento No.1 del Periódico Oficial del Estado de Colima, el sábado 7 de abril de 2018.
 
@@ -73,7 +73,9 @@ III. La distribución, ministración, ejercicio y destino de los recursos proven
 
 IV. Las situaciones irregulares que sean denunciadas en términos de esta Ley, respecto al ejercicio fiscal en curso o a ejercicios anteriores distintos al de la Cuenta Pública en revisión;
 
-V. En coordinación con la Auditoría Superior de la Federación, la distribución, ministración y ejercicio de las participaciones federales que correspondan al Estado y sus municipios; así como demás recursos públicos federales, cuando exista convenio de coordinación, colaboración u otro suscrito con la Auditoría Superior de la Federación;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+V. En coordinación con la Auditoría Superior de la Federación o de manera directa en términos de la presente Ley, de la Ley de Coordinación Fiscal del Estado de Colima y demás disposiciones legales aplicables, la distribución, ministración y ejercicio de las participaciones federales que correspondan al Estado y sus municipios; así como demás recursos públicos federales, cuando exista convenio de coordinación, colaboración u otro suscrito con la Auditoría Superior de la Federación;
 
 VI. El cálculo y determinación de los factores de distribución de participaciones federales a los municipios del Estado; vigilando el estricto cumplimiento de lo dispuesto por la Ley de Coordinación Fiscal, la Ley de Coordinación Fiscal del Estado de Colima, y demás disposiciones legales aplicables;
 
@@ -153,9 +155,13 @@ VII. Cédula de Resultados Preliminares: el documento técnico-jurídico emitido
 
 VIII. Congreso del Estado: el H. Congreso del Estado Libre y Soberano de Colima;
 
-IX. Comisión de Gobierno: la Comisión de Gobierno Interno y Acuerdos Parlamentarios, cuerpo colegiado del H. Congreso del Estado de Colima;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-X. Comisión de Hacienda: la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, cuerpo colegiado del H. Congreso del Estado de Colima;
+IX. Junta de Gobierno: la Junta de Gobierno y Coordinación Política, cuerpo colegiado del H. Congreso del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+X. Comisión de Hacienda: la Comisión de Hacienda, Fiscalización y Cuenta Pública, cuerpo colegiado del H. Congreso del Estado de Colima;
 
 XI. Comisión de Vigilancia: la Comisión de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, cuerpo colegiado del H. Congreso del Estado de Colima;
 
@@ -245,7 +251,9 @@ Cuando el Órgano Superior de Auditoría, al fiscalizar las cuentas públicas de
 
 A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente en materia de revisión y fiscalización gubernamental, las disposiciones de derecho financiero contenidas en la legislación federal y local que resulten aplicables, considerándose éstas, las relativas al ingreso, patrimonio, deuda y gasto público; así como las referentes a las responsabilidades de los servidores públicos, y las del derecho común, sustantivo y procesal.
 
-Sin perjuicio de lo señalado en el párrafo anterior, en todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas y desahogo del recurso de reconsideración, se observarán las disposiciones de la Ley General de Responsabilidades Administrativas y el Código de Procedimientos Penales del Estado de Colima.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Sin perjuicio de lo señalado en el párrafo anterior, en todas las cuestiones relativas al procedimiento no previsto en esta Ley, así como en la apreciación de las pruebas y desahogo del recurso de reconsideración, se observarán las disposiciones de la Ley General de Responsabilidades Administrativas y el Código Nacional de Procedimientos Penales.
 
 El Órgano Superior de Auditoría podrá emitir los criterios relativos a los procedimientos, técnicas, sistemas y métodos para la ejecución de auditorías sobre el desempeño, mismos que deberán sujetarse a las disposiciones establecidas en la presente Ley, y publicarse en el Periódico Oficial "El Estado de Colima".
 
@@ -261,9 +269,7 @@ De no proporcionar la información o documentación dentro de los plazos y en la
 
 Los entes fiscalizados a que se refiere este artículo, deberán acompañar a la información solicitada, los anexos, estudios, memorias de cálculo y demás documentación soporte relacionada con el requerimiento respectivo.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
-
-Las entidades fiscalizadas facilitarán los auxilios que requiera el Órgano Superior de Auditoría y Fiscalización Gubernamental, cumpliendo con la entrega de información requerida a través de cualquier plataforma tecnológica, cuando esto así sea solicitado por aquél, ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente; mismo tratamiento realizarán ante el surgimiento de un caso fortuito o de fuerza mayor, inclusive estos eventos podrán ser invocados ante el Congreso del Estado de Colima o el Órgano Superior de Auditoría, por los entes fiscalizados para los efectos de la revisión y fiscalización a que se refiere esta Ley, en su respectivo caso se dictaminará o resolverá lo conducente. El Auditor Superior del Estado instrumentará los planes y lineamientos que transitoriamente sean pertinentes para el eficaz despacho de la fiscalización gubernamental.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 10.
 
@@ -283,9 +289,7 @@ VI. Para imponer la multa que corresponda, el Órgano Superior de Auditoría deb
 
 VII. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información al Órgano Superior de Auditoría, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
-
-No procederá la imposición de sanciones ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente; ni ante el surgimiento de un caso fortuito o de fuerza mayor; sin embargo, las entidades fiscalizadas dispondrán del auxilio al Órgano Superior de Auditoría en los términos del artículo 9 de esta ley y para el objeto de que no se paralice la labor de fiscalización correspondiente, ni el seguimiento de las observaciones respectivas. De no comprobarse la atención al auxilio solicitado, se estará a lo señalado en el párrafo primero.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
@@ -321,9 +325,11 @@ III. El estado analítico de activos, pasivos y deuda.
 
 La Cuenta Pública mensual señalada en el párrafo anterior, será entregada en forma impresa y en archivo electrónico de datos que permita y facilite su uso y procesamiento informático, independientemente de los demás requisitos que se deban cumplir para su presentación. Los servidores públicos en funciones al momento de elaborar y rendir la Cuenta Pública mensual y sus anexos, serán los responsables de signarla y presentarla en los términos de esta Ley. Cuando la aprobación de la Cuenta Pública mensual para su presentación dependa de un ente colegiado, sus integrantes serán solidaria y subsidiariamente responsables del incumplimiento a lo señalado en el presente artículo. Transcurrido el plazo señalado en el presente artículo, sin que se haya dado cumplimiento a lo dispuesto por el mismo, será motivo suficiente para que el Órgano Superior de Auditoría pueda imponer a los responsables una multa mínima de ciento cincuenta a una máxima de mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-Dentro de los treinta días posteriores a la conclusión del primer semestre del año, los poderes del Estado, los órganos estatales autónomos, los municipios y los entes públicos paraestatales y paramunicipales, que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, deberán entregar al Congreso del Estado, debidamente aprobado por el órgano de gobierno que les corresponda, el Informe de Avance de la Gestión Financiera, su contenido se referirá a los programas a su cargo y cuya información servirá para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados, y contendrá:
+Dentro de los sesenta días hábiles posteriores a la conclusión del primer semestre del año, los poderes del Estado, los órganos estatales autónomos, los municipios y los entes públicos paraestatales y paramunicipales, que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, deberán entregar al Congreso del Estado, debidamente aprobado por el órgano de gobierno que les corresponda, el Informe de Avance de la Gestión Financiera, su contenido se referirá a los programas a su cargo y cuya información servirá para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados, y contendrá:
 
 I. El flujo contable de ingresos y egresos al treinta de junio del año en que se ejerza el presupuesto de egresos;
 
@@ -339,17 +345,27 @@ III. El acervo de la deuda y la plantilla del personal por dependencia o entidad
 
 Lo anterior, sin perjuicio de lo previsto en la legislación aplicable en materia presupuestal y responsabilidad hacendaria.
 
-El Órgano Superior de Auditoría realizará un análisis del Informe de Avance de la Gestión Financiera, y podrá emitir recomendaciones a los entes públicos auditados, con el objeto de que implementen las acciones pertinentes para el cumplimiento de las metas y objetivos trazados en el presupuesto correspondiente, sin perjuicio de las observaciones, que en su caso, emita en la fiscalización de la Cuenta Pública.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-Dentro de los cuarenta y cinco días hábiles posteriores a la fecha de recepción del Informe de Avance de la Gestión Financiera por parte del Órgano Superior de Auditoría, éste presentará a la Comisión de Hacienda, un análisis de dicho documento, que contendrá el estado que guarda la gestión financiera y el cumplimiento de los programas y objetivos, así como las recomendaciones realizadas al ente público.
+El Órgano Superior de Auditoría realizará un análisis del Informe de Avance de gestión Financiera, y podrá emitir recomendaciones a los Entes Fiscalizados, con el objeto de que implementen las acciones pertinentes para el cumplimiento de las metas y objetivos trazados en su Presupuesto de Egresos respectivo, sin perjuicio de las observaciones, que, en su caso, emita en la fiscalización de la Cuenta Pública correspondiente.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Dentro de los noventa días hábiles posteriores a la fecha de recepción del Informe de Avance de la Gestión Financiera por parte del Órgano Superior de Auditoría, éste presentará a la Comisión de Hacienda, un análisis de dicho documento, mismo que contendrá el estado que guarda la gestión financiera y el cumplimiento de los programas y objetivos, así como las recomendaciones realizadas al ente público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 15.
 
-La Cuenta Pública anual correspondiente al año anterior de los Poderes Legislativo y Judicial, los órganos estatales autónomos, los municipios y los entes públicos paraestatal o paramunicipales que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, deberá ser entregada al Congreso del Estado, debidamente aprobada por sus respectivos órganos de gobierno, a más tardar el último día de febrero del año siguiente al que corresponda. Por su parte, el Poder Ejecutivo del Estado entregará su Cuenta Pública anual a más tardar el treinta de abril del año siguiente al que corresponda.
+La Cuenta Pública anual correspondiente al año anterior de los Poderes Ejecutivo, Legislativo y Judicial, los órganos estatales autónomos, los municipios y los entes púbicos paraestatal o paramunicipales que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, deberá ser entregada al Congreso del Estado, debidamente aprobada por sus respectivos órganos de gobierno, a más tardar el último día de abril del año siguiente al que corresponda.
 
-A fin de integrar y consolidar la cuenta pública del Gobierno del Estado, los poderes Legislativo y Judicial, los órganos estatales autónomos y los entes públicos de la administración pública estatal, harán llegar con la debida anticipación a la Secretaría, la información que la misma les solicite. Lo mismo acontecerá, en lo conducente, en la integración y consolidación de la cuenta pública de los municipios, respecto a los recursos ministrados a los entes autónomos y de la administración pública municipal.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-No obstante lo señalado en el párrafo anterior, los poderes Legislativo y Judicial, así como los órganos estatales autónomos, están obligados a integrar y remitir para su fiscalización la cuenta pública e Informe de Avance de la Gestión Financiera. La omisión en la integración y remisión de la cuenta pública, dará lugar a la imposición de las sanciones correspondientes.
+A fin de integrar y consolidar la cuenta pública de los Poderes Ejecutivo, Legislativo y Judicial, los órganos estatales autónomos y los entes públicos de la administración pública estatal, harán llegar con la debida anticipación a la Secretaría, la información que la misma les solicite. Lo mismo acontecerá, en lo conducente, en la integración y consolidación de la cuenta pública de los municipios, respecto a los recursos ministrados a los entes de la administración pública municipal y para municipal.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+No obstante, lo señalado en el párrafo anterior, los Poderes Ejecutivo, Legislativo y Judicial, así como los órganos estatales autónomos, los municipios y los entes públicos paraestatal o paramunicipales que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, están obligados a integrar y remitir al Congreso del Estado para su fiscalización la cuenta pública mensual y anual, así como el Informe de Avance de la Gestión Financiera. La omisión en la integración y remisión de la cuenta pública, dará lugar a la imposición de las sanciones correspondientes.
 
 La Cuenta Pública anual señalada en el primer párrafo, será entregada en forma impresa y en archivo electrónico de datos que permita su uso y facilite su procesamiento informático, independientemente de los demás requisitos que se deban cumplir para su presentación. Los servidores públicos competentes y en funciones al momento de elaborar y rendir la Cuenta Pública anual y sus anexos, serán los responsables de signarla y entregarla al Congreso del Estado en los términos de esta Ley, este documento deberá contener lo que se establece en el Capítulo II del Título Cuarto de la Ley General de Contabilidad Gubernamental, además de lo señalado por la normatividad emitida por el Consejo Nacional de Armonización Contable, en relación con el contenido de la Cuenta Pública, y misma que deberán publicar, el mismo día de su entrega física, en sus respectivas páginas oficiales de internet y como mínimo contendrá:
 
@@ -413,7 +429,9 @@ La información a que se refieren las fracciones I a la III de este artículo, s
 
 Cuando la aprobación de la Cuenta Pública anual para su presentación dependa de un ente colegiado, sus integrantes serán solidaria y subsidiariamente responsables del incumplimiento a lo señalado en el presente artículo. Transcurrido el plazo señalado en el presente artículo, sin que se haya dado cumplimiento a lo dispuesto por el mismo, será motivo suficiente para que el Órgano Superior de Auditoría pueda imponer a los responsables una multa mínima de ciento cincuenta a una máxima de mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-El Congreso del Estado deberá concluir la revisión de las cuentas públicas anuales a más tardar el treinta de noviembre del año de su presentación, con base en el análisis de su contenido y en el dictamen de la revisión del Informe del Resultado que emita el Órgano Superior de Auditoría, sin demérito de que el trámite de las observaciones, recomendaciones o acciones promovidas por el propio Órgano Superior de Auditoría, seguirá su curso en términos de lo dispuesto por la Constitución del Estado y esta Ley.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+El Congreso del Estado deberá concluir la revisión de las cuentas públicas anuales a más tardar el último día del mes de abril del año siguiente al de su presentación, con base en el análisis de su contenido y en el dictamen de la revisión del Informe del Resultado que emita el Órgano Superior de Auditoría, sin demérito de que el trámite de las observaciones, recomendaciones o acciones promovidas por el propio Órgano Superior de Auditoría, seguirá su curso en términos de lo dispuesto por la Constitución del Estado y esta Ley.
 
 ###### Artículo 16.
 
@@ -521,7 +539,9 @@ El Órgano Superior de Auditoría tendrá acceso a la información que las dispo
 
 Cuando derivado de la práctica de auditorías se entregue al Órgano Superior de Auditoría información de carácter reservado o confidencial, éste deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por el Órgano Superior de Auditoría en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
-El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de las responsabilidades establecidas en las leyes correspondientes;
 
 XIII. Colaborar con la Auditoría Superior de la Federación, cuando exista convenio de colaboración, coordinación, concertación u otro, para efectos de la fiscalización de recursos federales que ejerzan los entes fiscalizados, en la investigación y detección de desviaciones de dichos recursos;
 
@@ -577,9 +597,7 @@ c) El objeto y alcance que deban tener, el ejercicio o período presupuestal a q
 
 II. Si al momento de entregar o notificar el oficio a que se refiere la fracción anterior, no se encontrara el titular o representante legal del Ente Fiscalizado en el domicilio señalado en la orden respectiva, de entregar o notificar, en su caso se iniciará la auditoría respectiva, con quien haya sido delegado mediante el oficio respectivo para atender dicha diligencia, o en su defecto con quien se encuentre en el lugar en que se actúa, lo anterior siempre que se acredite como servidor público del Ente Fiscalizado, todo lo anterior se hará constar en el acta correspondiente.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
-
-Ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente, o el surgimiento de un caso fortuito o de fuerza mayor, el Auditor Superior del Estado instrumentará los planes y lineamientos para que la práctica de las auditorías, inspecciones y demás diligencias se desahoguen a través de plataformas tecnológicas, para los efectos de la revisión y fiscalización a que se refiere esta Ley, todo lo remitido y recibido a través de esos medios tendrá plena validez, con independencia de que los cotejos de documentos, levantamiento de actas circunstanciadas, reuniones de trabajo y entrega de documentos o suscripción de documentales, en físico, se deban realizar con posterioridad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 23.
 
@@ -677,9 +695,11 @@ III. La imposición de una multa en términos de lo dispuesto en el TÍTULO Sext
 
 ### CAPÍTULO III. DEL INFORME DEL RESULTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-El Órgano Superior de Auditoría rendirá al Congreso del Estado, a más tardar el treinta de septiembre del año de la presentación de la Cuenta Pública, por conducto de la Comisión de Hacienda, el Informe del Resultado correspondiente, el cual tendrá el carácter de público.
+El Órgano Superior de Auditoría rendirá al Congreso del Estado, a más tardar el último día del mes de febrero del año siguiente al de la presentación de la Cuenta Pública respectiva, por conducto de la Comisión de Hacienda, el Informe del resultado correspondiente, el cual tendrá el carácter de público.
 
 El plazo previsto en el párrafo anterior, podrá ser ampliado en la misma proporción en que se dilaten la rendición de las cuentas públicas por parte de los entes fiscalizados, procurando en todo momento la rendición del Informe del Resultado con la anticipación necesaria para que el Congreso del Estado apruebe y expida el Decreto en el que se consigne la conclusión del proceso de revisión y fiscalización a que se refiere el artículo 36 de la Constitución del Estado.
 
@@ -725,9 +745,13 @@ El Órgano Superior de Auditoría, en el Informe del Resultado de la Cuenta Púb
 
 El Órgano Superior de Auditoría informará al Congreso del Estado, por conducto de la Comisión de Hacienda, del estado que guarda la solventación de observaciones hechas a los entes fiscalizados, respecto a cada uno de los Informes del Resultado de la Cuenta Pública que se deriven de las funciones de la fiscalización superior.
 
-Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar el primer día hábil de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-El informe semestral se elaborará con base en los formatos que al efecto establezca la Comisión de Hacienda e incluirá invariablemente los montos efectivamente resarcidos a la hacienda pública estatal o municipal, en su caso, al patrimonio de los entes públicos estatales o municipales, según corresponda, derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley General de Responsabilidades Administrativas y esta Ley. Asimismo, deberá publicarse en la página oficial de internet del Órgano Superior de Auditoría, en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública, en la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima y se mantendrá de manera permanente en la página oficial de internet del Órgano Superior de Auditoría, salvaguardando la información reservada o confidencial que contengan.
+Para tal efecto, el Informe a que se refiere este artículo será anual y deberá ser presentado a más tardar el último día del mes de noviembre de cada año, con los datos disponibles al cierre del tercer trimestre, respectivamente.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+El informe señalado en el párrafo anterior, se elaborará con base en los formatos que al efecto establezca la Comisión de Hacienda e incluirá invariablemente los montos efectivamente resarcidos a la hacienda pública estatal o municipal, en su caso, al patrimonio de los entes públicos estatales o municipales, según corresponda derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley General de Responsabilidades Administrativas y esta Ley. Asimismo, deberá publicarse en la página oficial de internet del Órgano Superior de Auditoría, en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública, en la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima y se mantendrá de manera permanente en la página oficial de internet del órgano Superior de Auditoría, salvaguardando la información reservada o confidencial que contengan.
 
 En dicho informe, el Órgano Superior de Auditoría dará a conocer el seguimiento específico de las promociones de los informes de presunta responsabilidad administrativa, a fin de identificar a la fecha del informe, las estadísticas sobre dichas promociones, identificando también las sanciones que al efecto hayan procedido.
 
@@ -735,17 +759,23 @@ Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el
 
 En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada, en dicho informe el Órgano Superior de Auditoría dará a conocer la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia, así como, en su caso, la pena impuesta.
 
-Una vez presentado el Informe del Resultado y para efectos del seguimiento semestral a que se refiere el presente artículo, el Órgano Superior de Auditoría notificará mediante oficio a los entes fiscalizados, aquellas observaciones, recomendaciones y acciones que hubieren sido rectificadas o ratificadas como no solventadas, parcialmente solventadas, no atendidas o parcialmente atendidas, según corresponda, requiriéndoles para que dentro del plazo de siete días hábiles, comparezcan a través de sus representantes legales o enlaces, a una reunión de resultados finales, en la que presentarán por escrito un informe sobre las mejoras o medidas implementadas y en su caso, las acciones a realizar; asimismo podrán suscribir conjuntamente con el personal de las áreas auditoras correspondientes del Órgano Superior de Auditoría, los acuerdos y mecanismos para su atención. Lo anterior, sin perjuicio de que el Órgano Superior de Auditoría pueda emitir las recomendaciones pertinentes en los casos en que no logre acuerdos con los entes fiscalizados.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-De la reunión a que se refiere el párrafo anterior, se elaborará el acta de hechos respectiva por parte del personal del Órgano Superior de Auditoría.
+Para efectos del seguimiento anual a que se refiere el presente artículo, el Órgano Superior de Auditoría notificará, a partir del primer día hábil del mes de junio del año de entrega al H. Congreso del informe del resultado correspondiente, mediante oficio a los Entes Fiscalizados, aquellas recomendaciones que hubieren sido ratificadas como no atendidas, requiriéndoles para que dentro del plazo de quince días hábiles presenten por escrito un informe sobre las mejoras o medidas implementadas y en su caso, las acciones a realizar para atender dichas recomendaciones.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO IV. DE LAS ACCIONES Y RECOMENDACIONES DERIVADAS DE LA FISCALIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 41.
 
-El Órgano Superior de Auditoría, conforme a los avances que presenten los trabajos de fiscalización superior, durante los meses de junio, julio y agosto del año en que se presentó la Cuenta Pública, dará a conocer a los entes fiscalizados el Informe de Auditoría y las Cédulas de Resultados Preliminares correspondientes, en las que se contengan las acciones y recomendaciones derivadas de la fiscalización superior a la gestión financiera, a efecto de que dichos entes presenten las justificaciones, aclaraciones y documentación soporte que correspondan.
+El Órgano Superior de Auditoría, conforme a los avances que presenten los trabajos de fiscalización superior, durante los meses de septiembre, octubre y noviembre del año en que se presentó la Cuenta Pública, dará a conocer a los Entes Fiscalizados el Informe de Auditoría y las Cédulas de Resultados Preliminares correspondientes, en las que se contengan las acciones y recomendaciones derivadas de la fiscalización superior a la gestión financiera, a efecto de que dichos entes presenten las justificaciones, aclaraciones y documentación soporte que correspondan.
 
-Para dar cumplimiento al párrafo anterior, el Auditor Superior o en su caso, el Auditor Especial que lo supla, citará mediante oficio y por lo menos con veinticuatro horas de anticipación, a los titulares de los entes fiscalizados, y demás servidores públicos que al efecto se considere procedente, para que acudan a las instalaciones del Órgano Superior de Auditoría para darles a conocer el Informe de Auditoría y las Cédulas de Resultados Preliminares que correspondan, y en las que se contengan las acciones y recomendaciones derivadas de la fiscalización superior realizada a la gestión financiera, documentos que se notificarán mediante el oficio respectivo y se entregarán levantando el acta respectiva para acreditarlo. Hecho lo anterior, el Ente Fiscalizado contará con un plazo de siete días hábiles contados a partir del día hábil siguiente a la notificación efectuada, para que emitan las respuestas, argumentaciones y aporte las probanzas y documentos soporte a las mismas, las cuales de resultar procedente, a juicio del Auditor Superior, serán valoradas y consideradas por el Órgano Superior de Auditoría en la elaboración del Informe del Resultado de la Cuenta Pública que presentará al Congreso del Estado, en el plazo previsto en el artículo 39, de esta Ley.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Para dar cumplimiento al párrafo anterior, el Auditor Superior o en su caso, el Auditor Especial que lo supla, citará mediante oficio y por lo menos con veinticuatro horas de anticipación, a los titulares de los entes fiscalizados, y demás servidores públicos que al efecto se considere procedente, para que acudan a las instalaciones del Órgano Superior de Auditoría para darles a conocer el Informe de Auditoría y las Cédulas de Resultados Preliminares que correspondan, y en las que se contengan las acciones y recomendaciones derivadas de la fiscalización superior realizada a la gestión financiera, documentos que se notificarán mediante el oficio respectivo y se entregarán levantando el acta respectiva para acreditarlo. Hecho lo anterior, el Ente Fiscalizado contará con un plazo de diez días hábiles contados a partir del día hábil siguiente a la notificación efectuada, para que emitan las respuestas, argumentaciones y aporte las probanzas y documentos soporte a las mismas, las cuales serán valoradas y consideradas por el Órgano Superior de Auditoría en la elaboración del Informe del Resultado de la Cuenta Pública que presentará al Congreso del Estado, en el plazo previsto en el artículo 37 de esta Ley.
 
 El plazo para que los entes fiscalizados emitan las respuestas, argumentaciones y aporten las probanzas y documentos soporte, a que se refiere el párrafo anterior, podrá ser prorrogado hasta por tres días hábiles, a criterio del Auditor Superior, previa solicitud del Ente Fiscalizado. Dicha solicitud deberá contener las circunstancias particulares que justifiquen y motiven la necesidad del periodo adicional, el cual, de ser concedido, será improrrogable.
 
@@ -795,6 +825,14 @@ VII. Por medio de la denuncia de juicio político, hará del conocimiento del Co
 
 El Órgano Superior de Auditoría, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el Informe de Presunta Responsabilidad Administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante el Congreso, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente, en los términos del Título Cuarto de esta Ley.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Artículo 46 BIS.- Para efectos de lo dispuesto en la fracción VII del artículo 116 de la Constitución del Estado, el Órgano Superior de Auditoría podrá solicitar al Congreso del Estado la suspensión de la revisión y fiscalización de las cuentas públicas, así como de cualquier otro procedimiento que tenga a su cargo o que sea parte de sus atribuciones, sin que afecte la validez de los mismos.
+
+La suspensión señalada en el párrafo anterior, será a solicitud del titular del Órgano Superior de Auditoría, la cual realizará mediante oficio fundado, señalando en el mismo la o las causas de fuerza mayor o la imposibilidad material que motivan dicha solicitud, además de señalar el periodo que comprenderá la misma; una vez recibida por el Congreso del Estado la solicitud antes referida, éste dispondrá de cinco días hábiles para pronunciarse sobre la suspensión y emitir el Decreto respectivo.
+
+Una vez concluido el periodo de la suspensión autorizada por el Congreso del Estado, los plazos en materia de la revisión y fiscalización de las cuentas públicas, así como de cualquier otro procedimiento que tenga a su cargo o que sea parte de las atribuciones del Órgano Superior de Auditoría, señalados en la Constitución del Estado o la presente Ley, se reanudarán y se considerarán ampliados por el mismo periodo que dure la suspensión antes señalada.
+
 ### CAPÍTULO V. DE LA CONCLUSIÓN DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 47.
@@ -807,13 +845,19 @@ El análisis de la Comisión de Hacienda podrá incorporar aquellas sugerencias 
 
 En aquellos casos en que la Comisión de Hacienda detecte errores en el Informe del Resultado de la Cuenta Pública o bien, considere necesario aclarar o profundizar el contenido del mismo, podrá solicitar al Órgano Superior de Auditoría la entrega por escrito de las explicaciones pertinentes, así como la comparecencia del titular del Órgano Superior de Auditoría o de otros servidores públicos del mismo, las ocasiones que considere necesarias, a fin de realizar las aclaraciones correspondientes, sin que ello implique la modificación del Informe del Resultado de la Cuenta Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 49.
 
-La Comisión de Hacienda estudiará y dictaminará el Informe del Resultado de la Cuenta Pública. Asimismo, someterá a votación del Pleno del Congreso del Estado, el dictamen correspondiente a más tardar el treinta de noviembre del año de la presentación de la Cuenta Pública.
+La Comisión de Hacienda estudiará y dictaminará el Informe del Resultado de la Cuenta Pública. Asimismo, someterá a votación del Pleno del Congreso del Estado, el dictamen correspondiente a más tardar el último día del mes de abril del año siguiente al de la presentación de Cuenta Pública.
 
-El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe del Resultado de la Cuenta Pública y recuperando las discusiones técnicas realizadas en la Comisión de Hacienda, para ello acompañará a su dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión de Hacienda.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-La aprobación del dictamen no suspende el trámite de las acciones promovidas por el Órgano Superior de Auditoría, mismas que seguirán el procedimiento previsto en esta Ley.
+El dictamen señalado en el párrafo anterior, deberá contar con el análisis pormenorizado del contenido del Informe del Resultado de la Cuenta Pública correspondiente y estar sustentado en conclusiones técnicas del mismo, incorporando las discusiones técnicas realizadas en la Comisión de Hacienda, en un apartado de antecedentes.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+El retraso en la aprobación del dictamen, señalado en el primer párrafo del presente artículo, no suspenderá el curso legal y trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Auditoría, mismas que seguirán el procedimiento previsto en esta Ley y demás normas aplicables.
 
 Cuando por causas justificadas a criterio del pleno del Congreso del Estado, no pueda dictaminarse la cuenta pública de una entidad, se dejará abierto el proceso de revisión y fiscalización hasta en tanto se tengan los elementos para dictaminar lo procedente o el plazo establecido por el Congreso del Estado. Dicha determinación deberá contenerse en un Decreto. Este acto legislativo deja sin efecto cualquier responsabilidad del Órgano Superior de Auditoría, si las causas son ajenas al mismo.
 
@@ -995,13 +1039,15 @@ El Órgano Superior de Auditoría, en los términos de la Ley del Sistema Antico
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 74.
 
-Las actuaciones y diligencias que se lleven a cabo por o ante el Órgano Superior de Auditoría, se practicarán en horas y días hábiles. Son horas hábiles, las comprendidas entre las 08:30 y las 20:00 horas. Para efectos de esta Ley, son hábiles todos los días del año, con excepción de los sábados, los domingos, el 1º de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1º y 5 de mayo, el 16 de septiembre, los días 1 y 2, así como el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1º de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre; los días que se declaren como no laborables por el Auditor Superior, así como los días en que tengan vacaciones generales los servidores públicos del Órgano Superior de Auditoría.
+Las actuaciones y diligencias que se lleven a cabo por (sic) ante el Órgano Superior de Auditoría, se practicarán en horas y días hábiles. Son horas hábiles, las comprendidas entre las 08:30 y las 18:00 horas. Para efectos de esta Ley, son hábiles todos los días del año, con excepción de los sábados, los domingos, el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, los días 1 y 2, así como el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre; los días que se declaren como no laborables por el Auditor Superior, así como los días en que tengan vacaciones generales los servidores públicos del Órgano Superior de Auditoría.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-El Órgano Superior de Auditoría por acuerdo del Auditor Superior, podrá habilitar días y horas inhábiles, para actuar o para que se practiquen diligencias, cuando éstas se inicien en horas hábiles, podrán concluirse en horas inhábiles, sin afectar su validez; podrá suspender los plazos y términos a que se refiere esta Ley ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente, o el surgimiento de un caso fortuito o de fuerza mayor, esto, hasta por un plazo improrrogable de 30 días naturales; o, cuando a juicio de los auditores comisionados, habilitados o designados por el Órgano Superior de Auditoría para que lleven a cabo la actuación o diligencia lo consideren necesario, asentando en el acta respectiva la o las circunstancias particulares que justifiquen y motiven la necesidad de dicha suspensión. La declaratoria excepcional por más de 30 treinta días de suspensión de plazos y términos o de ampliación de los mismos para los efectos de la revisión y fiscalización a que se refiere esta Ley, descansará en Decreto que al efecto emita el Congreso del Estado de Colima, previa solicitud del Auditor Superior del Estado y justificación de dicha medida.
+El Órgano Superior de Auditoría por acuerdo del Auditor Superior, podrá habilitar días y horas inhábiles, para actuar o para que se practiquen diligencias; cuando éstas se inicien en horas hábiles, podrán concluirse en horas inhábiles, sin afectar su validez y podrán suspenderse por causa de fuerza mayor, caso fortuito o cuando a juicio de los auditores comisionados, habilitados o designados por el Órgano Superior de Auditoría para que lleve a cabo la actuación o diligencia lo consideren necesario, sentando en el acta respectiva la o las circunstancias particulares que justifiquen y motiven la necesidad de dicha suspensión.
 
 Los plazos referidos en meses y años, se computarán en días naturales.
 
@@ -1205,7 +1251,9 @@ III. Conocer los programas de fiscalización, estratégicos, de actividades u ot
 
 Con respecto a los procedimientos, alcances, métodos, lineamientos y resoluciones de procedimientos de fiscalización podrá formular observaciones cuando dichos programas omitan áreas relevantes de la Cuenta Pública;
 
-IV. Recibir del Órgano Superior de Auditoría el informe anual de las actividades realizadas, el informe trimestral de los avances de auditoría que haya practicado, el Informe del Resultado de la Cuenta Pública respectiva, el informe semestral del estado que guarda la solventación de observaciones y acciones por parte de los entes fiscalizados, y en su caso, el Informe Específico derivado de denuncias o indicios de irregularidades presentadas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+IV. Recibir del Órgano Superior de Auditoría el informe anual de las actividades realizadas, el informe trimestral de los avances de auditoría que haya practicado, el Informe del Resultado de la Cuenta Pública respectiva, el informe anual del estado que guarda la solventación de observaciones y acciones por parte de los entes fiscalizados, y en su caso, el Informe Específico derivado de revisiones de denuncias o indicios de irregularidades presentadas;
 
 V. Requerir la comparecencia del Auditor Superior y demás servidores públicos del Órgano Superior de Auditoría para que informen sobre los trabajos de fiscalización que realizan, así como para que expliquen el contenido del Informe del Resultado o del Informe Específico y, en su caso, aclaren cualquier aspecto relacionado con los mismos;
 
@@ -1299,21 +1347,31 @@ Al frente del Órgano Superior de Auditoría habrá un Auditor Superior, quien d
 
 La designación del Auditor Superior se sujetará al procedimiento siguiente:
 
-I. La Comisión de Gobierno formulará la convocatoria pública correspondiente, a efecto de recibir durante un período de cuando menos tres días hábiles contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el cargo de Auditor Superior.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-La Comisión de Gobierno se auxiliará de cuando menos tres organizaciones de la sociedad civil o académicas, en la convocatoria que al efecto se emita para proponer al candidato a ocupar el cargo de Auditor Superior;
+I. La Junta de Gobierno formulará la convocatoria pública correspondiente, afecto (sic) de recibir durante un periodo de cuando menos tres días hábiles contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el cargo de Auditor Superior.
 
-II. Concluido el plazo señalado en la fracción anterior, y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión de Gobierno procederá a la revisión y análisis de las mismas, a efecto de determinar quiénes cumplieron con los requisitos de elegibilidad exigidos;
+La Junta de Gobierno se auxiliará de cuando menos tres organizaciones de la sociedad civil o académicas, en la convocatoria que al efecto se emita para proponer al candidato a ocupar el cargo de Auditor Superior;
 
-III. Una vez determinadas las solicitudes que fueron procedentes, los integrantes de la Comisión de Gobierno entrevistarán por separado a los candidatos que superaron la etapa prevista en la fracción anterior, a efecto de evaluar su perfil y determinar al candidato que consideren idóneo para ocupar el cargo.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+II. Concluido el plazo señalado en la fracción anterior, y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Junta de Gobierno procederá a la revisión y análisis de las mismas, a efecto de determinar quiénes cumplieron con los requisitos de elegibilidad exigidos;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+III. Una vez determinadas las solicitudes que fueron procedentes, los integrantes de la Junta de Gobierno entrevistarán por separado a los candidatos que superaron la etapa prevista en la fracción anterior, a efecto de evaluar su perfil y determinar al candidato que consideren idóneo para ocupar el cargo.
 
 Los integrantes de las comisiones de Hacienda y de Vigilancia podrán participar en el proceso de entrevistas y emitir opinión sobre el perfil e idoneidad de los candidatos;
 
-IV. Acto seguido, la Comisión de Gobierno formulará su dictamen, a fin de proponer al Pleno del Congreso del Estado al candidato que a su juicio consideren idóneo, el cual para ser designado como titular del Órgano Superior de Auditoría deberá obtener la votación calificada a que se refiere el primer párrafo de este artículo; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+IV. Acto seguido, la Junta de Gobierno formulará su dictamen, a fin de proponer al Pleno del Congreso del Estado al candidato que a su juicio consideren idóneo, el cual para ser designado como titular del Órgano Superior de Auditoría deberá obtener la votación calificada a que se refiere el primer párrafo de este artículo; y
 
 V. La persona designada para ocupar el cargo protestará ante el Pleno del Congreso del Estado.
 
-En caso de que el candidato propuesto por la Comisión de Gobierno para ocupar el cargo de Auditor Superior no obtenga la votación de las dos terceras partes de los miembros presentes del Congreso del Estado, se volverá a someter una nueva propuesta, previa convocatoria, en los términos del presente artículo.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+En caso de que el candidato propuesto por la Junta de Gobierno para ocupar el cargo de Auditor Superior no obtenga la votación de las dos terceras partes de los miembros presentes del Congreso del Estado, se volverá a someter una nueva propuesta, previa convocatoria, en los términos del presente artículo.
 
 ###### Artículo 101.
 
@@ -1365,7 +1423,9 @@ V. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funci
 
 VI. Faltar gravemente en el ejercicio de su cargo a la observancia de los principios de legalidad, imparcialidad y confiabilidad.
 
-El procedimiento de remoción será conocido y substanciado por la Comisión de Gobierno, previa denuncia fundada con documentos y evidencias mediante las cuales se presuma la existencia de alguna de las causas graves antes señaladas. La Comisión de Gobierno garantizará el derecho de audiencia y defensa del Auditor Superior, en términos del párrafo primero de este artículo y dictaminará sobre las razones, motivos y fundamentos para una eventual remoción. La Comisión de Gobierno podrá desechar la denuncia en cualquier tiempo. Sólo el dictamen que contenga propuesta de remoción será puesto a consideración del Pleno del Congreso del Estado para que éste decida lo conducente.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+El procedimiento de remoción será conocido y substanciado por la Junta de Gobierno, previa denuncia fundada con documentos y evidencias mediante las cuales se presuma la existencia de alguna de las causas graves antes señaladas. La Junta de Gobierno garantizará el derecho de audiencia y defensa del Auditor Superior, en términos del párrafo anterior de este artículo y dictaminará sobre las razones, motivos y fundamentos para una eventual remoción. La Junta de Gobierno podrá desechar la denuncia en cualquier tiempo. Solo el dictamen que contenga propuesta de remoción será puesto a consideración del Pleno del Congreso del Estado para que éste decida lo conducente.
 
 Las Comisiones de Hacienda y de Vigilancia podrán participar en el procedimiento de remoción del Auditor Superior y emitir opinión al respecto.
 
@@ -1443,13 +1503,23 @@ XXVII. Establecer los mecanismos necesarios para fortalecer la participación ci
 
 XXVIII. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinador a que se refiere la Ley del Sistema Anticorrupción del Estado de Colima y al Comité de Participación Ciudadana. Con base en el informe señalado, podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan; y
 
-XXIX. Las demás que señale esta Ley y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-De las atribuciones previstas a favor del Auditor Superior en esta Ley, sólo las mencionadas en las fracciones V, VI, VII, VIII, IX, X, XI, XII, XVII, XVIII, XIX, XX, XXI, XXVII y XXVIII de este artículo son de ejercicio exclusivo del referido Auditor Superior y, por tanto, no podrán ser delegadas.
+XXIX. Solicitar al Congreso del Estado, y previa aprobación de éste, la suspensión de la revisión y fiscalización de las cuentas públicas y/o cualquier otro procedimiento de revisión y fiscalización que tenga a su cargo, y establecer nuevos plazos a los señalados en la presente Ley para el cumplimiento de las obligaciones del Órgano Superior de Auditoría en materia de revisión y fiscalización, atendiendo en todo momento lo establecido en el artículo 116, fracción VII, de la Constitución del Estado y 46 BIS de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+XXX. Las demás que señale esta Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+De las atribuciones previstas a favor del Auditor Superior en esta Ley, solo las mencionadas en las fracciones V, VI, VII, VIII, IX, X, XI, XII, XVII, XVIII, XIX, XX, XXI, XXVII, XXVIII y XXIX de este artículo son ejercicio exclusivo del referido Auditor Superior y, por tanto, no podrán ser delegadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 106.
 
-El Auditor Superior será auxiliado en sus funciones por los auditores especiales, así como por los titulares de las unidades de asuntos jurídicos y administrativa, directores, subdirectores, jefes de área, supervisores, auditores y demás servidores públicos que al efecto señale su Reglamento Interior. En el Reglamento Interior referido se establecerán las funciones y atribuciones de los referidos servidores públicos del Órgano Superior de Auditoría.
+El Auditor Superior será auxiliado en sus funciones por los auditores especiales, así como por los titulares de las unidades de asuntos jurídicos y administrativa, directores, subdirectores, jefes de área, supervisores, auditores y demás servidores públicos que al efecto señale su Reglamento Interior. En el Reglamento Interior antes referido se establecerán las funciones y atribuciones de los servidores públicos del Órgano Superior de Auditoría, lo anterior, sin perjuicio de que las mismas puedan ser ejercidas de manera directa por el Auditor Superior.
 
 El Auditor Superior podrá adscribir orgánicamente las unidades, áreas y dependencias establecidas en su Reglamento Interior hasta donde se lo permita el presupuesto de egresos que tenga autorizado. Los acuerdos en los cuales se deleguen facultades o se adscriban unidades, áreas o dependencias se publicarán en el Periódico Oficial "El Estado de Colima".
 
@@ -1461,7 +1531,9 @@ I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y polític
 
 II. Tener por lo menos treinta años cumplidos al día de su designación;
 
-III. Contar, el día de su designación, con antigüedad mínima de diez años, con título y cédula profesional de contador público, licenciado en derecho, licenciado en economía, licenciado en administración, licenciado en arquitectura, en ingeniería civil o profesiones afines, según corresponda, expedido por autoridad o institución legalmente facultada para ello; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+III. Contar, el día de su designación, con antigüedad mínima de diez años, con título y cédula profesional de contador público, licenciado en derecho, licenciado en economía, licenciado en administración y demás carreras afines a la fiscalización, expedidos por autoridad o institución legalmente facultada para ello; y
 
 IV. Contar al momento de su designación con una experiencia de cinco años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas, o manejo de recursos.
 
@@ -1513,9 +1585,13 @@ XX. Las demás que en el ámbito de su competencia les asigne esta Ley, el Regla
 
 El Director de Auditoría, sin perjuicio de las atribuciones del Auditor Superior y Auditores Especiales, tendrán además las siguientes facultades:
 
-I. Ejecutar, los programas aprobados por el Auditor Superior de Auditoría, respecto a las actividades relacionadas con la revisión de la Cuenta Pública y elaborar los proyectos ejecutivos para el desarrollo de los trabajos de fiscalización;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-II. Revisar la Cuenta Pública que se rinda en términos de esta Ley;
+I. Ejecutar, los programas aprobados por el Auditor Superior, respecto a las actividades relacionadas con la revisión de la Cuenta Pública y elaborar los proyectos ejecutivos para el desarrollo de los trabajos de fiscalización;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+II. Revisar la Cuenta Pública que se rinda por los Entes Fiscalizables en términos de esta Ley;
 
 III. Requerir a los entes fiscalizados y terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para realizar la función de fiscalización;
 
@@ -1535,7 +1611,9 @@ X. Solventar o dar por concluidas, conjuntamente con el auditor especial respect
 
 XI. Suplir las ausencias temporales o definitivas del auditor especial del área que corresponda, hasta en tanto se nombre al que en su caso le sustituya;
 
-XII. Revisar y fiscalizar la información programática incluida en la Cuenta Pública de los Entes Públicos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+XII. Revisar y fiscalizar la información programática incluida en la Cuenta Pública de los Entes Fiscalizables;
 
 XIII. Participar en la preparación de estudios y proyectos que competan al Órgano Superior de Auditoría, en la forma que determine el Auditor Superior o el Auditor Especial del área que corresponda; y
 
@@ -1798,3 +1876,19 @@ P.O. 10 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 276 POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 25 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 49.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones referentes a los plazos señalados en los artículos 14, 15, 37, 40, 41 y 49, del presente Decreto, entrarán en vigor para la revisión y fiscalización de las cuentas públicas de los años 2021 y siguientes.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, en términos de los transitorios anteriores, se derogan todas las disposiciones legales que contravengan o se opongan a lo dispuesto en el presente Decreto.
