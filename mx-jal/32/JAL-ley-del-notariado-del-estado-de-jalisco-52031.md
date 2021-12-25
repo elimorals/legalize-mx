@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2020-04-02"
+last_updated: "2021-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -809,7 +809,9 @@ En lo señalado en los dos párrafos anteriores se observará lo estipulado en l
 
 ## TÍTULO SEGUNDO. ACTIVIDAD NOTARIAL
 
-### CAPÍTULO I. DEL INICIO, ASOCIACIÓN, SUSPENSIÓN Y TERMINACIÓN DE LA FUNCIÓN NOTARIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. DEL INICIO, ASOCIACIÓN, ASISTENCIA, SUSPENSIÓN Y TERMINACIÓN DE LA FUNCIÓN NOTARIAL
 
 #### SECCIÓN PRIMERA. DEL INICIO DE LA FUNCIÓN NOTARIAL
 
@@ -847,9 +849,21 @@ En caso que el notario modifique cualquiera de los datos a que se refieren las f
 
 Para autorizar los instrumentos a que se refiere esta ley, el notario usará un sello único de forma circular, de cuatro centímetros de diámetro, que llevará en el centro el Escudo Nacional y alrededor su nombre, apellidos, número de notaría y el municipio de su adscripción.
 
-Si existiere convenio de asociación notarial, el sello del asociado contendrá, además, dicha circunstancia; en caso de conclusión del mismo, el sello deberá entregarse para su guarda al Director del Archivo de Instrumentos Públicos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-En caso de extravío, robo, alteración o deterioro del sello, éste será repuesto, haciéndolo del conocimiento de los directores del Archivo de Instrumentos Públicos y del Registro Público de la Propiedad, así como del Consejo de Notarios, a quienes se remitirá copia del acta que se levante ante el Agente del Ministerio Público en los tres primeros supuestos, en cuyo evento se le pondrá un signo al nuevo sello que lo diferencie del anterior.
+Corresponde al Consejo de Notarios autorizar la fabricación y la entrega correspondiente a los notarios públicos del sello único de autorizar, previa solicitud y a costa del notario que lo requiera.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+En caso de extravío, robo, alteración o deterioro del sello, éste será repuesto en los términos del párrafo anterior, previa denuncia que se levante en la Fiscalía Estatal y cuyos hechos serán notificados a los directores del Archivo de Instrumentos Públicos y del Registro Público de la Propiedad, así como al Consejo de Notarios de la entidad, debiéndose signar el nuevo sello de manera que se diferencie del anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Si existiere convenio de asociación notarial, el sello del asociado contendrá además dicha circunstancia; en caso de conclusión del mismo, el sello deberá entregarse para su destrucción al titular de la Dirección del Archivo de Instrumentos Públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+La contravención a lo dispuesto en el presente artículo se sancionará de conformidad con las disposiciones aplicables.
 
 ###### Artículo 47.
 
@@ -873,7 +887,9 @@ El Consejo de Notarios establecerá las reglas, cuando así se requiera, para qu
 
 El Colegio de Notarios publicará, en el mes de enero de cada año en el periódico oficial El Estado de Jalisco, los horarios de atención al público que tengan establecidos las notarías de la entidad. Asimismo, mantendrá permanentemente actualizada la información en su página de internet.
 
-#### SECCIÓN SEGUNDA. DE LOS CONVENIOS DE ASOCIACIÓN NOTARIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS CONVENIOS NOTARIALES DE ASOCIACIÓN Y DE ASISTENCIA
 
 ###### Artículo 49.
 
@@ -935,9 +951,63 @@ El sello de autorizar del faltante deberá enviarse a la Dirección del Archivo 
 
 Ante la falta definitiva de un notario asociado, el convenio de asociación notarial se tendrá por concluido, siempre y cuando no subsistan dos notarios asociados.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-Artículo 53 bis. En caso de fallecimiento de un notario con adscripción a las Regiones de la 1 a la 12 previstas en el artículo 32 de esta ley, que no tuviere celebrado convenio de asociación notarial, el Secretario General de Gobierno, escuchando la opinión del Consejo de Notarios, podrá autorizar, por un plazo no mayor a seis meses, a un notario de la misma región del fallecido, para que concluya los trámites de los instrumentos autorizados por el faltante, en los términos del artículo 53 de esta ley, para cuyo efecto conservará durante ese plazo el protocolo del notario fallecido, al término del cual deberá remitirlo al Archivo de Instrumentos Públicos para su resguardo definitivo, de conformidad al artículo 198, fracción I de esta ley. En este caso, se deberá hacer mención al oficio de autorización en cada intervención que realice con el cargo conferido.
+Artículo 53 bis. Para la mejor prestación del servicio notarial, en los casos de ausencia temporal de los notarios por causa de licencia o enfermedad, que no tengan suscrito convenio de asociación notarial, y de conformidad con lo previsto en el artículo 49 fracciones I y II de la presente ley, podrán celebrar convenio notarial de asistencia temporal.
+
+Los convenios notariales de asistencia temporal tendrán la duración que las partes acuerden y se sujetarán a lo previsto en el artículo 54 de la presente ley.
+
+Suscrito el convenio notarial de asistencia temporal se deberá presentar a la Consejería Jurídica del Poder Ejecutivo del Estado para que, de encontrarlo ajustado a derecho, se le dé publicidad al acto de su celebración a través del Periódico Oficial "El Estado de Jalisco".
+
+No se requerirá aprobación de la autoridad estatal cuando el convenio notarial de asistencia temporal obedezca a la ausencia del notario por razones de enfermedad o urgencia médica, propia o de familiares cercanos que no exceda de treinta días hábiles continuos. Celebrado el convenio, deberá comunicarse a todas las autoridades señaladas en el artículo 45 de esta ley y publicarse una sola vez en el Periódico Oficial "El Estado de Jalisco".
+
+A partir de la fecha de publicación del convenio el notario asistente podrá actuar en los folios del notario asistido y en los suyos propios. El convenio notarial de asistencia temporal deberá contemplar la forma de salvaguardar el correcto funcionamiento y sostenimiento de la notaría asistida, para su debida continuidad.
+
+Los notarios en el estado de Jalisco, como un acto de voluntad anticipada, podrán suscribir convenio notarial de asistencia temporal en los términos del presente artículo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Artículo 53 ter. En caso del fallecimiento de un notario que no tuviere celebrado convenio de asociación notarial, se informará de inmediato a la Secretaría General de Gobierno para que, escuchando la opinión del Consejo de Notarios, autorice la asistencia temporal de un notario adscrito a la misma región notarial del fallecido por un plazo de seis meses, prorrogables por una sola ocasión, para que concluya los trámites de los instrumentos autorizados por el faltante, en los términos del artículo 53 de esta ley, para cuyo efecto conservará durante ese plazo el protocolo del notario fallecido, al término del cual deberá remitirlo al Archivo de Instrumentos Públicos para su resguardo definitivo, de conformidad al artículo 198, fracción I de esta ley. En este caso, se deberá hacer mención al oficio de autorización en cada intervención que realice con el cargo conferido.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Artículo 53 quáter. El convenio notarial de asistencia temporal tendrá los siguientes efectos:
+
+I. El notario asistente actuará por el tiempo que dure el convenio en los folios del notario asistido, debiendo insertar en cada escritura dicha circunstancia;
+
+II. El notario asistente podrá expedir testimonios y copias certificadas que soliciten los interesados, de instrumentos asentados en los libros de protocolo y de registro de certificaciones;
+
+III. Los pagos de impuestos y derechos que por motivo de la licencia efectúe el notario asistente, serán responsabilidad únicamente del notario asistido;
+
+IV. El notario asistente no podrá llevar a cabo actuaciones fuera de la Notaría en los folios del Notario asistido;
+
+V. El notario asistente no podrá celebrar actos nuevos en el protocolo del notario asistido;
+
+VI. El notario asistente podrá concluir los instrumentos notariales pendientes en el protocolo del notario asistido;
+
+VII. Dentro del tiempo de vigencia del convenio, el notario asistente podrá expedir ulteriores testimonios respecto a escrituras previas a la vigencia del convenio, así como en su caso copias certificadas de documentos que obren dentro del archivo y libros de documentos respectivos, asentando razón en cada una del convenio notarial de asistencia temporal;
+
+VIII. La solicitud de hologramas, folios y papel testimonio se presentará por el notario asistente, siguiendo en todo momento el orden del notario asistido;
+
+IX. En tanto dure el convenio notarial de asistencia temporal, el sello de autorizar del notario asistido deberá ponerse en custodia de la persona titular de la Dirección del Archivo de Instrumentos Públicos;
+
+X. Las actuaciones que se lleven a cabo por el notario asistente deberán ser autorizadas con su sello, pero siempre deberá asentarse razón del convenio respectivo y en cada uno de los actos en que intervenga deberá señalarse que se actúa en el protocolo del notario asistido con base en el convenio notarial de asistencia temporal, la fecha de su aprobación y la de su publicación.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Artículo 53 quinquies. El convenio notarial de asistencia temporal se dará por concluido en cualquiera de los siguientes casos:
+
+I. Por el cumplimiento del término por el cual fue suscrito;
+
+II. Por terminación anticipada acordada por las partes;
+
+III. Por orden del Secretario General de Gobierno o por la autoridad estatal competente cuando el notario asistente ocurra en irregularidades, en su protocolo o en el del notario asistido; y
+
+IV. Por ausencia total, incapacidad o muerte de cualquiera de los notarios que celebraron el convenio de asistencia temporal.
+
+Cuando el notario asistido regrese a sus funciones deberá dar aviso a las autoridades que cita el artículo 45 de la presente ley.
+
+Para los efectos del presente artículo, será aplicable en lo conducente lo previsto en el artículo 52 de la presente ley.
 
 #### SECCIÓN TERCERA. DE LA SUSPENSIÓN Y TERMINACIÓN DE LA FUNCIÓN NOTARIAL
 
@@ -1060,6 +1130,10 @@ Protocolo es el conjunto de folios ordenados numérica y cronológicamente, en l
 ###### Artículo 62.
 
 El Consejo de Notarios, a solicitud del notario y a costa de éste, autorizará imprimir los folios y el papel testimonio que requiera para su ejercicio. Los folios serán remitidos al Archivo de Instrumentos Públicos, para su entrega. El papel testimonio tendrá las características que determine el Consejo de Notarios quien lo entregará al solicitante por conducto del Colegio de Notarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+La Dirección del Archivo de Instrumentos Públicos no entregará folios a los notarios públicos que no hubiesen presentado un tomo debidamente encuadernado para efectos del artículo 70 de la presente Ley. Para tal efecto, los notarios públicos pueden solicitar a la Dirección una única e inaplazable prórroga de 60 sesenta días naturales especificando en la petición la causa del retraso.
 
 ###### Artículo 63.
 
@@ -1243,7 +1317,13 @@ I. Se escribirán con letra clara, sin abreviaturas, y expresando las fechas y l
 
 II. Precisará el número y tomo que le corresponda, lugar y fecha en que se extiende, nombre, número y adscripción del notario;
 
-III. Anotará la hora y fecha en que se termina de firmar la escritura por los comparecientes y por el notario, quien imprimirá su sello, con lo que quedará autorizado el instrumento. En los supuestos en que la ley así lo prevenga, se hará constar la hora de inicio;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+III. Anotará la hora y fecha en que se termina de firmar el instrumento notarial por los comparecientes, quienes invariablemente deben estampar junto a su firma las huellas digitales, preferentemente de sus dedos índices; en caso de no poder hacerlo, el notario público autorizante asentará la razón de esto en el instrumento público, firmará e imprimirá su sello, con lo que quedará autorizado el instrumento. En los supuestos en que la ley así lo prevenga, se hará constar la hora de inicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+No será aplicable lo dispuesto en esta fracción en cuanto a verificar datos biométricos disponibles, así como de la consulta de la información contenida en los soportes tecnológicos, a quienes actúen en representación de la Federación, los Estados, Municipios, Estados extranjeros, integrantes de los poderes legislativo y judicial, representantes de organismos públicos descentralizados y desconcentrados, instituciones y sociedades que integran el sistema financiero, así como las instituciones, dependencias y fideicomisos públicos;
 
 IV. En su caso, consignará las declaraciones que hagan los otorgantes como antecedentes o preliminares, y relacionará los datos indispensables y necesarios que identifiquen el acto, hecho o negocio jurídico de que se traten con los documentos y testimonios originales que se le presenten, o bien insertará estos últimos.
 
@@ -1281,13 +1361,25 @@ Los representantes de personas jurídicas manifestarán sus generales y se preci
 
 VII. Cuando algún guarismo, palabra o frase resulten equivocados o deban ser sustituidos por otros, se encerrarán dentro de un paréntesis y se testarán con una raya delgada en el centro que permita su lectura. Si un guarismo, palabra o frase se omitió o debe sustituir a otros, se anotará entre renglones y se encerrará entre comillas. En ambos casos, lo testado o puesto entre renglones se salvará antes de las firmas;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-VIII. Debe dar fe de conocimiento de los comparecientes o de que los identificó con documentos oficiales expedidos por autoridades federales, estatales, municipales o por el Instituto Nacional Electoral que contengan la fotografía y firma del compareciente.
+VIII. Debe dar fe de conocimiento de los comparecientes o de que los identificó con documento oficial expedido por autoridad federal, estatal, municipal, por organismos públicos autónomos o con documentos expedidos por gobiernos de otros países, que contengan la fotografía y firma del compareciente.
 
-En su caso, el notario estará obligado a cerciorarse de la identidad de los comparecientes mediante la consulta de la información contenida en los soportes tecnológicos aprobados por el Colegio de Notarios para tal efecto.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-En cualquier otro caso intervendrán dos testigos quienes se identificarán con documentos oficiales que contengan fotografía y firma, deberán ser mayores de edad, saber leer y escribir y declararán conocer la identidad de los otorgantes, sin que puedan desempeñarse como tales los ciegos, sordos y mudos, además, la persona identificada deberá estampar sus huellas digitales, preferentemente de sus dedos índices, haciendo constar esta circunstancia.
+En caso de que el notario identifique al compareciente mediante su credencial para votar con fotografía, o bien alguna otra identificación contenida en los soportes tecnológicos aprobados por el Consejo de Notarios, estará obligado a verificar los datos biométricos disponibles, así como a hacer la consulta de la información contenida en los referidos soportes, debiendo dejar constancia de ello.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+No será aplicable lo dispuesto en esta fracción en cuanto a verificar datos biométricos disponibles, así como de la consulta de la información contenida en los soportes tecnológicos, a quienes actúen en representación de la Federación, los Estados, Municipios, Estados extranjeros, organismos públicos descentralizados y desconcentrados, instituciones y sociedades que integran el sistema financiero, así como las instituciones, dependencias y fideicomisos públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+En el supuesto de que no sea posible cerciorarse de la identidad en el sistema de verificación de datos biométricos disponibles, por causas de fuerza mayor o por no permitirlo la identificación oficial vigente presentada para tal efecto, el notario solicitará una segunda identificación, además de asentar dicho supuesto, anexando al libro de documentos aquella evidencia de la gestión realizada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+En cualquier otro caso intervendrán dos testigos quienes se identificarán con documentos oficiales que contengan fotografía y firma, deberán ser mayores de edad, saber leer y escribir y declararán conocer la identidad de los otorgantes, sin que puedan desempeñarse como tales los ciegos, sordos y mudos, además, la persona identificada deberá estampar sus huellas digitales, preferentemente de sus dedos índices, haciendo constar esta circunstancia; en caso de no poder hacer la estampa de huellas, el notario público asentará dicha circunstancia en el instrumento público;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1505,9 +1597,19 @@ Si transcurrido el término establecido en las leyes fiscales aplicables no se h
 
 ### CAPÍTULO IV. DE LOS DUPLICADOS Y AVISOS
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 102.
 
-De todo instrumento público se formará un duplicado por separado que será firmado por los comparecientes y autorizado por el notario, el cual será un ejemplar idéntico al instrumento público de que se trate, en donde invariablemente deberá aparecer el número de folio a fin de que pueda ser identificado, mismo que se remitirá al Archivo de Instrumentos Públicos.
+De todo instrumento público se formará un duplicado que por separado será firmado por los comparecientes, quienes invariablemente deben estampar junto a su firma las huellas digitales preferentemente de sus dedos índices y autorizado por el notario.
+
+En caso de no poder estampar las huellas digitales el notario asentará dicha circunstancia.
+
+El notario autorizante podrá, bajo su estricta responsabilidad, generar el duplicado electrónico al realizar el escaneo de los folios que contienen el instrumento público, con las características enunciadas en el presente artículo.
+
+El duplicado será un ejemplar idéntico al instrumento público al que se trate, en donde invariablemente deberá aparecer el número de folio a fin de que pueda ser identificado, mismo que se remitirá al Archivo de Instrumentos Públicos en forma electrónica en formato PDF, encriptado con la firma electrónica del notario autorizante, adjunto al archivo que contenga el aviso de instrumento público, en términos de éste Capítulo.
+
+El duplicado en formato PDF, que contenga la totalidad de las páginas que constituyen el instrumento público, que muestre las firmas y huellas impuestas de los comparecientes, así como la firma y sello notarial de autorizar del notario público y sea encriptado con su firma electrónica, se considera el duplicado electrónico. Una vez que se tenga la notificación de recibido del aviso del Archivo de Instrumentos Públicos, que será la confirmación que haga el propio sistema, se podrá destruir el ejemplar a que se hace referencia en el primer párrafo, ya que el mismo deja de tener eficacia, al obtener la calidad de duplicado electrónico el enviado bajo ese sistema.
 
 ###### Artículo 103.
 
@@ -1519,25 +1621,17 @@ La dependencia encargada de la conservación de los duplicados podrá mantenerlo
 
 Los duplicados a que se refiere este capítulo podrán ser destruidos por la dependencia encargada de su guarda, cuando coincidan en un mismo lugar con su matriz en forma permanente y dentro del mismo espacio físico. En caso de pérdida por siniestro de la matriz, y ésta o su duplicado hubiese sido reproducida en los términos del párrafo anterior, las copias auténticas extraídas del soporte en que se encuentren debidamente certificadas por la Dirección del Archivo de Instrumentos Públicos, harán prueba plena respecto a su existencia y contenido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 105.
 
-De toda escritura o acta que autoricen los notarios deberán dar aviso a la Dirección del Archivo de Instrumentos Públicos, dentro de los dos días hábiles siguientes al de la autorización respectiva, este plazo se ampliará un día hábil mas tratándose de certificaciones de hechos, en ambos casos se anexará el duplicado del instrumento a que se refiere el artículo anterior.
-
-Cuando se presenten a las Oficinas de Recaudación Fiscal avisos relativos a testamentos públicos abiertos, el duplicado de la escritura se remitirá en sobre cerrado con cinta adhesiva sobre la cual deberá estamparse el sello de autorizar, abarcando en la parte central la totalidad de la cinta y a ambos lados de ella parte del sobre, para que así se remita al titular del Archivo de Instrumentos Públicos.
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+De toda escritura o acta que autoricen los notarios deberán dar aviso a la Dirección del Archivo de Instrumentos Públicos, de forma electrónica, dentro de los dos días hábiles siguientes al de la autorización respectiva, este plazo se ampliará un día hábil más tratándose de certificaciones de hechos; en ambos casos se anexará el duplicado del instrumento a que se refiere el artículo anterior.
 
 En tratándose del testamento público cerrado, solamente contendrá los datos de la razón que asiente en el protocolo y los datos indicados.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+Al aviso se anexará electrónicamente al duplicado del instrumento, en los términos a que se refieren los artículos 102 y 103 de esta ley.
 
-Los notarios que ejerzan sus funciones en las Regiones distintas a la XIII, Subregión Centro, presentarán este aviso invariablemente por conducto de la Oficina de Recaudación Estatal con sede en la municipalidad de su adscripción.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
-
-Al aviso se anexará siempre el duplicado del instrumento, en los términos a que se refieren los artículos 102 y 103 de esta ley.
+Servirá como acuse de recibo la confirmación que el propio sistema haga de la recepción del mismo, cuya impresión que contenga hora y firma de recibido, se debe agregar al libro de documentos, asentando razón de ello.
 
 ###### Artículo 106.
 
@@ -1557,15 +1651,15 @@ Todos los avisos, sin perjuicio de lo dispuesto por el artículo 115, deberán c
 
 Cuando el notario autorice la constitución de fundaciones o asociaciones de asistencia social, además de los que se refieren en los artículos anteriores, deberá dar aviso al Instituto Jalisciense de Asistencia Social y remitir copias del acta constitutiva dentro de un plazo no mayor a quince días hábiles de la fecha de su constitución, lo que podrá hacerse por correo registrado con acuse de recibo.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 110.
 
-Los avisos a que se refiere ésta Ley se presentarán por duplicado, de los cuales, el acuse de recibo deberá contener la anotación de la hora y fecha de recibido, el cual se deberá agregar al libro de documentos, asentando razón de ello.
-
-El notario podrá optar por dar los avisos en forma electrónica, mediante las reglas de carácter general que expidan las autoridades competentes con acuerdo de las dependencias involucradas en las que se establezca además la forma de recepción del soporte documental para ser agregado al libro de documentos, asentando razón de ello.
+Los avisos a que se refiere ésta ley, excepto los señalados en este Capítulo, se presentarán por duplicado, debiéndo contener el acuse de recibo la anotación de la hora y fecha de recibido y se agregará al libro de documentos, asentado razón de ello.
 
 ###### Artículo 111.
 
-Los avisos y sus anexos, que en cumplimiento de lo dispuesto por los artículos 102 y 107 deban ser presentados ante la Oficina de Recaudación Fiscal Estatal, se concentrarán en la Dirección del Archivo de Instrumentos Públicos, dentro de los diez días hábiles del mes que se siga al de su presentación. Esta obligación correrá a cargo de los jefes de dichas oficinas recaudadoras.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2021)
 
 ###### Artículo 112.
 
@@ -1585,9 +1679,9 @@ Cuando se trate de revocación o renuncia de poderes que no hayan sido otorgados
 
 Cuando al otorgarse un testamento, se revoque otro asentado en el protocolo de la misma notaría, se deberá hacer la anotación correspondiente; si pasó ante diverso notario, se le comunicará para que aquel la efectúe.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
 
-El notario deberá dar aviso dentro de los dos días siguientes, a la Procuraduría Social y a la Dirección del Archivo de Instrumentos Públicos cuando se otorgue o revoque un testamento.
+El notario deberá dar aviso de forma electrónica dentro de los dos días siguientes a la Procuraduría Social y a la Dirección del Archivo de Instrumentos Públicos cuando se otorgue o revoque un testamento.
 
 En ambos casos el aviso deberá contener los siguientes datos:
 
@@ -1612,6 +1706,10 @@ IX. Número de la escritura y del tomo en donde quedó asentado el acto; y
 X. Nombre completo del notario, número de la notaría y municipio de adscripción.
 
 Esta disposición se aplicará aun cuando el protocolo del notario en donde se hubiere asentado el testamento que se revoque, pertenezca a otra entidad federativa.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+Artículo 115 bis. En el supuesto de que por causas de fuerza mayor la plataforma electrónica del Archivo de Instrumentos Públicos o la de la Procuraduría Social, en términos del artículo 115 de esta Ley, no permita la recepción de los avisos y duplicados electrónicos, de conformidad con lo establecido en este capítulo, la Dirección o la Procuraduría, darán aviso al Colegio de Notarios del Estado, a efecto de permitir la recepción de avisos y duplicados, con las características enunciadas en los artículos 108 y 115 de esta ley, en formato físico, dentro del término de dos días hábiles siguientes a dicho aviso.
 
 ### CAPÍTULO V. DEL LIBRO DE DOCUMENTOS O APÉNDICE
 
@@ -1993,7 +2091,9 @@ II. Ejercer la función notarial, simultáneamente, con cargos públicos, en vio
 
 III. Haber obtenido la patente de aspirante al ejercicio del notariado o el nombramiento de notario, utilizando documentación apócrifa o haciendo manifestaciones falsas;
 
-IV. Por no entregar el protocolo y sello de autorizar cuando sean requeridos por la Dirección de Archivo de Instrumentos Públicos en los términos de los artículos 189 y 190 de esta Ley;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
+IV. Por no entregar el protocolo y sello de autorizar cuando sean requeridos por la Dirección del Archivo de Instrumentos Públicos de conformidad con lo establecido en esta ley;
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -2085,9 +2185,11 @@ Las promociones y actuaciones en el procedimiento administrativo se deben presen
 
 Quien promueva a nombre de otro, deberá acreditar la personalidad, personería o representación con que se ostente, con los documentos que establecen las leyes o reglamentos aplicables, o bien, en los términos que establece el Código Civil. No procederá la gestión de negocios en los procedimientos contemplados en esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 163.
 
-El Titular del Ejecutivo del Estado, a través del Secretario General de Gobierno, sustanciará el procedimiento administrativo. Para este efecto, podrá delegar y facultar a uno o varios servidores públicos para la práctica de toda clase de citaciones, notificaciones y emplazamientos; presidir y desahogar audiencias; admitir, desechar y desahogar pruebas; emitir acuerdos de mero trámite; practicar diligencias, inspecciones, sentar certificaciones, certificar documentos y demás actos de carácter procesal que se requieran, levantando y autorizando al efecto las actas correspondientes.
+El Titular del Ejecutivo del Estado, a través de la persona titular de la Consejería Jurídica del Poder Ejecutivo del Estado, sustanciará el procedimiento administrativo. Para este efecto, podrá delegar y facultar a uno o varios servidores públicos para la práctica de toda clase de citaciones, notificaciones y emplazamientos; presidir y desahogar audiencias; admitir, desechar y desahogar pruebas; emitir acuerdos de mero trámite; practicar diligencias, inspecciones, sentar certificaciones, certificar documentos y demás actos de carácter procesal que se requieran, levantando y autorizando al efecto las actas correspondientes.
 
 ###### Artículo 164.
 
@@ -3065,7 +3167,7 @@ SEGUNDO. Lo previsto en el artículo 57, fracción VI, de la reforma a la Ley de
 
 TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no será aplicable a quienes hayan obtenido patente de aspirante al ejercicio del notariado con anterioridad a la entrada en vigor del presente decreto
 
-CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
+CUARTO. (DEROGADO, P.O. 25 DE DICIEMBRE DE 2021)
 
 QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
 
@@ -3096,3 +3198,11 @@ P.O. 2 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27841/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 10 Y 148 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO”.]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 25 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28727/LXIII/21 DEL CONGRESO DEL ESTADO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS PRECEPTOS DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, deberá realizar las adecuaciones reglamentarias, así como las técnicas y electrónicas necesarias para su cumplimiento.
