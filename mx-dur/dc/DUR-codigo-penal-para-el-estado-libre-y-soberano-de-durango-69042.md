@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2021-07-04"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -483,9 +483,11 @@ B. Causas de justificación:
 
 I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
 II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, lesión o privación de la vida a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 
 III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -1839,9 +1841,11 @@ El homicidio y las lesiones son calificadas cuando se cometan con: premeditació
 
 Se consideran razones de género las mismas contempladas para el delito de feminicidio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-ARTÍCULO 147 BIS. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
+###### Artículo 147 Bis.
+
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2018)</small>
 
@@ -1875,13 +1879,13 @@ VI. Que entre la víctima y el sujeto activo exista o haya existido una relació
 
 VII. Entre el activo y la víctima hubo o haya existido una relación laboral, docente o otro que implique confianza, subordinación o superioridad; o
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-VIII. Cuando la víctima se haya encontrado en un estado de indefensión.
+VIII. Cuando la víctima se haya encontrado en un estado de indefensión, entendiéndose esta como la situación de desprotección real o incapacidad que imposibilite su defensa o la solicitud de auxilio, incluyendo aquellos casos en los que el sujeto activo le hubiere suministrado estupefacientes o psicotrópicos para ocasionar la inconciencia a la víctima;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-IX. Que el sujeto activo haya obligado a la víctima a ejercer prostitución.
+IX. Que el sujeto activo haya obligado a la víctima a ejercer prostitución o haya ejercido actos de trata de personas en agravio de la víctima.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
@@ -1898,42 +1902,6 @@ En caso de que no se acredite el feminicidio, se aplicarán las reglas del homic
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2021)</small>
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluídos los de carácter sucesorio.
-
-###### Artículo 147 Bis.
-
-Se entiende que hay feminicidio cuando, se prive de la vida a una mujer por razones de género y se presente alguna de las circunstancias siguientes:
-
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
-
-I. El cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
-
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
-
-II. A la víctima se le hayan inferido lesiones infamantes, degradantes o mutilaciones, antes o después de haberla privado de la vida;
-
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
-
-III. Existan datos que establezcan que previamente se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
-
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
-
-IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
-
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
-
-V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
-
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
-
-VI. Que entre la víctima y el sujeto activo exista o haya existido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de hecho o amistad; o
-
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
-
-VII. Entre el activo y la víctima hubo o haya existido una relación laboral, docente o cualquier otro que implique confianza, subordinación o superioridad.
-
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
-
-En el caso de la fracción VI se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 
 ### CAPÍTULO IV. ABORTO
 
@@ -6684,3 +6652,19 @@ P.O. 4 DE JULIO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 078.- QUE CONTIENE REFORMA Y ADICIÓN AL ARTÍCULO 28 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 081.- QUE CONTIENE REFORMA AL ARTÍCULO 147 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
