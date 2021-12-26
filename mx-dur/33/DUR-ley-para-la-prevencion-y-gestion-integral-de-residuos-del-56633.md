@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-y-gestion-integral-de-residuos-del-56633
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-12"
-last_updated: "2021-05-20"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2007.
 
@@ -115,7 +115,9 @@ XIII. Generación: La acción de producir residuos sólidos a través de proceso
 
 XIV. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-XV. Generadores de alto volumen: Las personas físicas o morales que generen un promedio igual o superior a 50 kilogramos diarios en peso bruto total de los residuos sólidos o su equivalente en unidades de volumen;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XV. Generadores de alto volumen; las personas físicas o morales que generen un promedio igual o superior a 20 kilogramos diarios en peso bruto total de los residuos sólidos o su equivalente en unidades de volumen.
 
 XVI. Gestión integral: El conjunto articulado e interrelacionado de acciones y normas operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de los residuos sólidos, desde su generación hasta la disposición final;
 
@@ -173,13 +175,15 @@ XLII. Tratamiento: El procedimiento mecánico, físico, químico, biológico o t
 
 XLIII. Valorización: Todo procedimiento que permite el aprovechamiento de los recursos contenidos en los residuos, la recuperación del valor remanente o el poder calorífico de los materiales que componen los residuos mediante su reincorporación en procesos productivos bajo criterios de corresponsabilidad, manejo integral y eficiencia ambiental, tecnológica y económica sin poner en peligro la salud humana y sin utilizar métodos que puedan causar perjuicios al medio ambiente.
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
-
-XLIV. Procuraduría Ambiental: Procuraduría de Protección al Ambiente del Estado de Durango;
+XLIV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2021)</small>
 
 XLV. Economía Circular: Modelo de producción y consumo que implica compartir, alquilar, reutilizar, reparar, renovar y reciclar materiales y productos existentes todas las veces que sea posible para crear un valor añadido.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XLVI. Microgenerador: Las personas físicas o morales que generen un promedio menor a 20 kilogramos diarios en peso bruto total de los residuos sólidos o su equivalente en unidades de volumen.
 
 ###### Artículo 4.
 
@@ -205,7 +209,9 @@ III. Coadyuvar para el cumplimiento de las Normas Oficiales Mexicanas que establ
 
 Convenir en la implementación de políticas públicas que permitan la reutilización y reciclado de plásticos comerciales e industriales de uso único.
 
-IV. La regulación y control de los residuos peligrosos provenientes de microgeneradores, cuando un municipio no cuente con los elementos o regulación necesarios para dicha regulación y control;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+IV. La regulación y control de los residuos provenientes de microgeneradores, cuando un municipio no cuente con los elementos o regulación necesarios para dicha regulación y control;
 
 V. Expedir conforme a sus respectivas atribuciones, los reglamentos y los ordenamientos jurídicos que permitan darle cumplimiento conforme a sus circunstancias particulares, en materia de residuos de manejo especial, así como de prevención de la contaminación de sitios con dichos residuos;
 
@@ -219,7 +225,9 @@ VIII. Autorizar y llevar a cabo el control de los residuos peligrosos generados 
 
 IX. Establecer el registro de planes de manejo y programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente ley y las normas oficiales mexicanas que al efecto se emitan, en el ámbito de su competencia;
 
-X. Promover, en coordinación con el gobierno federal y las autoridades correspondientes, la creación de infraestructura para el manejo integral de residuos sólidos urbanos, de manejo especial y residuos peligrosos, así como con la participación de los inversionistas y representantes de los sectores sociales interesados;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+X. Promover, en coordinación con el gobierno federal y las autoridades correspondientes, la creación de infraestructura para el manejo integral de residuos sólidos urbanos y de manejo especial, así como con la participación de los inversionistas y representantes de los sectores sociales interesados;
 
 XI. Promover programas municipales de prevención y gestión integral de los residuos de su competencia y de prevención de la contaminación de sitios con tales residuos y su remediación, con la participación activa de las partes interesadas;
 
@@ -245,7 +253,9 @@ XXI. Regular y establecer las bases para el cobro por la prestación de uno o va
 
 XXII. Instruir a la Secretaría sobre los programas para el establecimiento de sistemas de gestión integral de residuos de manejo especial y la construcción y operación de rellenos sanitarios, con objeto de recibir asistencia técnica del Gobierno Federal para tal fin;
 
-XXIII. Coadyuvar en la promoción de la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XXIII. Coadyuvar en la promoción de la prevención de la contaminación de sitios con materiales, residuos y su remediación;
 
 XXIV. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al sistema de información ambiental y de recursos naturales del Gobierno Federal;
 
@@ -263,11 +273,11 @@ XXVII. Fomentar el aprovechamiento de la materia orgánica de los residuos solid
 
 XXVIII. Las demás que se establezcan en este y otros ordenamientos jurídicos que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 6.
 
-Las atribuciones que esta ley confiere al Poder Ejecutivo del Estado serán ejercidas a través de la Secretaría y la Procuraduría Ambiental, salvo las que directamente correspondan a otra autoridad por disposición expresa de la Ley.
+Las atribuciones que esta ley confiere al Poder Ejecutivo del Estado serán ejercidas a través de la Secretaría, salvo las que directamente correspondan a otra autoridad por disposición expresa de la Ley.
 
 Cuando debido a las características de las materias objeto de esta Ley y de conformidad con la Ley Orgánica de la Administración Pública del Estado de Durango y otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 
@@ -291,15 +301,19 @@ IV. Prestar, por si o a través de gestores, el servicio público de manejo inte
 
 V. Otorgar en los términos que dispongan las leyes, las autorizaciones y concesiones de una o más de las actividades que comprende la prestación de los servicios de manejo integral de los residuos sólidos urbanos;
 
-VI. Establecer y mantener actualizado el registro de los grandes generadores de residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VI. Establecer y mantener actualizado el registro de los generadores de alto volumen de residuos sólidos urbanos.
 
 VII. Verificar el cumplimiento de las disposiciones de esta ley, normas oficiales mexicanas y demás ordenamientos jurídicos en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables;
 
-VIII. Participar en el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con el Gobierno Estatal de conformidad con lo establecido en esta Ley;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VIII. Participar en el control de los residuos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con el Gobierno Estatal de conformidad con lo establecido en esta Ley;
 
 IX. Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos;
 
-X. Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación; y
+X. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 XI. Las demás que se establezcan en esta ley, las Normas Oficiales Mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
@@ -313,37 +327,63 @@ II. Incorporar en los planes y programas de ordenamiento territorial, ordenamien
 
 III. Requerir a las autoridades Municipales correspondientes, y a los grandes generadores de residuos de la Entidad, la presentación de la información necesaria para la elaboración de los diagnósticos básicos integrales que sustentarán la gestión de los mismos; y
 
-IV. Formular e instrumentar un programa maestro con enfoque regional e intermunicipal, para regular la creación de tiraderos de residuos a cielo abierto en todo el Estado
+IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 8 Bis.
 
-Son facultades del Poder Ejecutivo del Estado de Durango a través de la Procuraduría Ambiental:
+Además de las facultades mencionadas en el artículo anterior son facultades del Poder Ejecutivo del Estado de Durango, a través de la Secretaría:
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 I. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial y rellenos sanitarios;
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 II. Verificar y controlar el cumplimiento de las Normas Oficiales Mexicanas relativas al desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos, de manejo especial y su disposición final;
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 III. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su reglamento y demás aplicables;
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 IV. Atender y resolver las denuncias ciudadanas, presentadas conforme a lo que establece esta Ley, su reglamento y demás aplicables;
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 V. Participar en el establecimiento y operación, en el marco del Sistema Nacional de Protección Civil y en coordinación con la federación, de un sistema para la prevención y control de contingencias y emergencias ambientales derivadas de la gestión de residuos de su competencia;
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 VI. Promover la participación de los sectores privado y social en el diseño e instrumentación de acciones para prevenir la generación de residuos de manejo especial, y llevar a cabo su gestión integral adecuada, así como para la prevención de la contaminación de sitios con estos residuos y su remediación, conforme a los lineamientos de esta Ley, su reglamento y las normas oficiales mexicanas correspondientes;
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 VII. Verificar el cumplimiento de las Normas Oficiales Mexicanas para prevenir la contaminación por residuos cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua;
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 VIII. Solicitar a las autoridades municipales, a los generadores y a las empresas de servicios de manejo, la información necesaria para el cumplimiento de las disposiciones;
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 IX. La emisión de recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la Ley Estatal;
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 X. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución, que sea necesaria de conformidad con la presente Ley;
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 XI. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 XII. Clausurar y suspender las actividades, establecimientos o rellenos sanitarios o en su caso, solicitar la revocación y cancelación de las licencias o permisos, cuando se violenten los criterios y disposiciones de esta Ley y su Reglamento; y
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 XIII. Las demás que se establezcan en este y otros ordenamientos jurídicos que resulten aplicables.
 
@@ -375,7 +415,9 @@ XI. Conservar y dar mantenimiento al equipamiento e infraestructura urbana de su
 
 XII. Registrar y, en su caso autorizar, las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y para el traslado de residuos sólidos;
 
-XIII. Establecer convenios con las autoridades estatales y federales competentes, para llevar a cabo el control de los residuos peligrosos generados a nivel domiciliario y por los establecimientos microgeneradores de este tipo de residuos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XIII. Establecer convenios con las autoridades estatales y federales competentes, para llevar a cabo el control de los residuos generados a nivel domiciliario y por los establecimientos microgeneradores;
 
 XIV. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que corresponda;
 
@@ -709,15 +751,115 @@ La Secretaría establecerá convenios de vinculación y colaboración con los ce
 
 Los sistemas de manejo ambiental de las dependencias gubernamentales del Estado de Durango, se darán a conocer por medio de informes anuales, que serán publicados en el Periódico Oficial del Gobierno del Estado de Durango.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Bis.
+
+Para prevenir riesgos a la salud y al ambiente, el manejo integral de los residuos comprende las siguientes etapas:
+
+I. Reducción en la fuente;
+
+II. Separación;
+
+III. Reutilización;
+
+IV. Limpia o barrido;
+
+V. Acopio;
+
+VI. Almacenamiento;
+
+VII. Recolección;
+
+VIII. Traslado o Transportación;
+
+IX. Reciclaje;
+
+X. Co-procesamiento;
+
+XI. Tratamiento; y
+
+XII. Disposición final.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Ter.
+
+Las etapas que comprenden el manejo integral de residuos enlistadas en el artículo anterior, se deberán llevar a cabo conforme a lo establecido en esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Quater.
+
+La Secretaría y los Ayuntamientos promoverán que en la fabricación y utilización de empaques y envases para todo tipo de productos, se utilicen materiales que permitan reducir la generación de residuos sólidos urbanos y de manejo especial.
+
+En el caso de aquellos envases que no sea posible obtener alternativas, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, gestionarán ante las empresas correspondientes la obligación de que se responsabilicen de recuperar los envases utilizados para la venta de sus productos, sobre todo aquellos que al ser desocupados o agotados, representan riesgos para la salud de la población o contengan materiales de lenta degradación.
+
+Toda persona deberá procurar el mejor aprovechamiento y utilidad de los residuos para tal efecto, en sus actividades domiciliarias, industriales, comerciales o de servicios y procurará reutilizar los residuos que genere.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Quinquies.
+
+La limpieza o barrido de áreas y vialidades públicas, así como la recolección de residuos sólidos urbanos y su traslado o transportación compete a las autoridades municipales, sin infringir las disposiciones reglamentarias y sin perjuicio de las concesiones que otorguen, observando las disposiciones jurídicas que las determinan.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Artículo 37 Séxies.- La recolección de residuos sólidos urbanos se realizará de acuerdo a las disposiciones administrativas que expidan las autoridades municipales, las que deberán establecer la periodicidad con la que ocurrirá, los horarios y días en los que tendrá lugar, así como las rutas que se seguirán y los puntos en los que tendrá lugar.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Sépties.
+
+La recolección de residuos de manejo especial es obligación de sus generadores, quienes podrán contratar a una empresa de servicio de manejo, autorizada por la Secretaría; para la realización de esta etapa.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Octies.
+
+Los vehículos destinados a la recolección y traslado o transportación de residuos, obligatoriamente deberán contar con contenedores adecuados que hagan factible su acopio por separado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Nonies.
+
+La transportación de residuos se realizará con la autorización de las autoridades municipales para el caso de los residuos sólidos urbanos y de las autoridades estatales en el caso de los residuos de manejo especial.
+
+En materia de residuos incorporados a un plan de manejo registrado se entenderá su transportación autorizada siempre y cuando se realice de conformidad con lo que señala dicho plan.
+
+Para la transportación de residuos sólidos urbanos y de manejo especial deberán observarse:
+
+I. Las condiciones necesarias para el transporte, dependiendo del tipo de residuos de que se trate;
+
+II. Las medidas de seguridad en el transporte, tanto para el medio ambiente de forma integral así como prioritariamente la salud;
+
+III. Las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos;
+
+IV. En su caso, los requerimientos establecidos en el plan de manejo correspondiente;
+
+V. El contar con un permiso especial de transporte y movilidad para la transportación de cada tipo de residuo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 37 Decies.
+
+Los sitios destinados al tratamiento y disposición final de residuos sólidos urbanos y de manejo especial, que realicen su trámite por primera vez, además de cumplir con los requisitos señalados en la presente Ley, deberán contar con la autorización de impacto ambiental establecidos en la Ley de Gestión Ambiental Sustentable para el Estado de Durango, el Reglamento en Materia de impacto Ambiental, las Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
 ## TÍTULO QUINTO. DE LA GENERACIÓN DE RESIDUOS
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 38.
 
-Las personas físicas o morales que generen residuos sólidos urbanos y de manejo especial, tienen la propiedad y responsabilidad del residuo en todo su ciclo de vida, incluso durante su manejo, recolección, acopio, transporte, reciclado, tratamiento o disposición final, de conformidad con lo establecido en esta Ley y demás ordenamientos aplicables.
+Las personas físicas o morales que generen residuos sólidos urbanos y de manejo especial, tienen responsabilidad del residuo en todo su ciclo de vida, incluso durante su manejo, recolección, acopio, transporte, reciclado, tratamiento o disposición final, de conformidad con lo establecido en esta Ley y demás ordenamientos aplicables, en el entendido de que dicha responsabilidad será transferida de conformidad con lo siguiente:
 
-Una vez que los residuos sólidos urbanos o de manejo especial han sido transferidos a los servicios públicos o privados de limpia, o a empresas registradas por las autoridades competentes, para dar servicios a terceros relacionados con su recolección, acopio, transporte, reciclado, tratamiento o disposición final, la responsabilidad de su manejo ambientalmente adecuado, y de acuerdo con las disposiciones de esta Ley y otros ordenamientos aplicables, se transferirá a éstos, según corresponda.
+I. Una vez que los residuos sólidos urbanos o de manejo especial han sido transferidos a los servicios públicos o privados de limpia, o a empresas registradas ante las autoridades competentes, para dar servicios a terceros relacionados con su recolección, acopio, transporte, reciclado, tratamiento o disposición final, la responsabilidad de su manejo ambientalmente adecuado, y de acuerdo con las disposiciones de esta Ley y otros ordenamientos aplicables, se transferirá a éstos, según corresponda; y
+
+II. A pesar de que un generador transfiera sus residuos a una persona física o moral autorizada, debe asegurarse de que ésta obtenga un permiso correspondiente de la Secretaría General de Gobierno o de la autoridad competente en movilidad, en el manejo de dichos residuos, para evitar que con ello se ocasionen daños a la salud y al ambiente, a través de contratos y comprobaciones de que los residuos llegaron a un destino final autorizado; en caso contrario, podrá ser considerado como responsable solidario de los daños al ambiente y la salud que pueda ocasionar dicha empresa por el manejo inadecuado de sus residuos, y a las sanciones que resulten aplicables de conformidad con éste y otros ordenamientos.
+
+Quedan exentos de esta disposición, los usuarios del servicio público de recolección municipal, así como el micro generadores (sic) de residuos.
 
 ###### Artículo 39.
 
@@ -781,19 +923,53 @@ XV. Todo acto u omisión que contribuya a la contaminación de las vías públic
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción, de conformidad con las disposiciones establecidas en la presente Ley, sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 40 Bis.
+
+Los residuos que se acumulen o puedan acumularse y se depositen o infiltren en los suelos, deberán reunir las condiciones necesarias para prevenir o evitar:
+
+I. La contaminación del suelo;
+
+II. Las alteraciones nocivas en el proceso biológico de los suelos;
+
+III. Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación; y
+
+IV. Los riesgos y problemas de salud.
+
 ### CAPÍTULO II. DE LAS OBLIGACIONES PARTICULARES
 
 ###### Artículo 41.
 
 Los grandes generadores de residuos sólidos urbanos y de manejo especial están obligados a:
 
-I. Registrarse ante las autoridades Municipales competentes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-II. Establecer planes de manejo para los residuos que generen en grandes volúmenes, y someterlos a registro ante las autoridades competentes, en caso de que requieran ser modificados o actualizados;
+I. Registrarse ante la Secretaría y renovar el registro obtenido, cada siguiente año fiscal;
 
-III. Llevar una bitácora en la que registren el volumen y tipo de residuos generados anualmente, y la forma de manejo a la que fueron sometidos los que se generen en grandes volúmenes; las bitácoras anuales deberán conservarse durante dos años y tenerlas disponibles para entregarlas a la Secretaría cuando ésta realice encuestas, o las requiera para elaborar los inventarios de residuos; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-IV. Ocuparse del acopio, almacenamiento, recolección, transporte, reciclaje, tratamiento o disposición final de sus residuos generados en grandes volúmenes o de manejo especial, de conformidad con las disposiciones de esta Ley y otros ordenamientos que resulten aplicables, o entregarlos a los servicios de limpia o a proveedores de estos servicios que estén registrados ante las autoridades competentes, cubriendo los costos que su manejo represente.
+II. Establecer los planes de manejo para los residuos que generen grandes volúmenes y registrarlos ante la Secretaría, en caso de que requieran ser modificados o actualizados, deberán notificarle oportunamente a la misma;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+III. Llevar una bitácora en la que registren el volumen y tipo de residuos generados anualmente, y la forma de manejo a la que fueron sometidos los que se generen en grandes volúmenes, las bitácoras anuales deberán conservarse durante dos años y tenerlas disponibles para entregarlas a la Secretaría cuando esta realice encuestas, o las requiera para elaborar los inventarios de residuos; además deberán presentarse anualmente ante la Secretaría en la renovación de su permiso;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+IV. Llevar a cabo el manejo integral de sus residuos, de conformidad con las disposiciones de esta Ley y demás ordenamientos que resulten aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+V. Presentar a la Secretaría el informe de generación y formas de manejo de los residuos de manejo especial de conformidad a lo establecido en el Reglamento correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VI. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VII. Contar con las garantías que establece la Legislación en la materia, para asegurar que el cierre de las operaciones en sus instalaciones, queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud y el ambiente.
 
 ###### Artículo 42.
 
@@ -827,9 +1003,11 @@ Los propietarios, condóminos, administradores, arrendatarios o encargados de ed
 
 Dichos depósitos y contenedores deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 49.
 
-Los propietarios de mascotas están obligados a recoger las heces fecales generadas por éstas cuando transiten con ellas por la vía pública o en las áreas comunes, y depositarlas en los recipientes o contenedores específicos en la vía pública o dentro de sus domicilios. Los animales muertos en los domicilios o en la vía pública deberán ser llevados en bolsas de polietileno o contenedores herméticamente cerrados a los centros de inhumación o disposición final autorizados o establecidos por las autoridades competentes.
+Los propietarios de mascotas están obligados a recoger las heces fecales generadas por éstas cuando transiten con ellas por la vía pública o en las áreas comunes, y depositarlas en los recipientes o contenedores específicos en la vía pública o dentro de sus domicilios. Los animales muertos en los domicilios o en la vía pública deberán ser llevados en bolsas o contenedores herméticamente cerrados a los centros de inhumación o disposición final autorizados o establecidos por las autoridades competentes.
 
 ## TÍTULO SEXTO. DE LOS SERVICIOS DE LIMPIA
 
@@ -1145,7 +1323,9 @@ III.- Quemar neumáticos desechados a excepción de los procesos que se menciona
 
 IV.- Enterrar neumáticos; y
 
-V.- Depositar neumáticos en los rellenos sanitarios de los municipios.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+V.- Incorporar neumáticos en los rellenos sanitarios de los municipios.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -1171,9 +1351,7 @@ El almacenamiento de neumáticos desechados deberá realizarse separando por tam
 
 Los almacenadores o plantas de transformación de neumáticos desechados deberán de contar con las autorizaciones correspondientes. La Secretaría deberá de llevar un control y listado actualizado de los almacenadores o plantas de transformación.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
-
-Artículo 82 Séxies.- La Procuraduría Ambiental vigilará y sancionará a los almacenistas o plantas de transformación, que incumplan con la legislación ambiental aplicable.
+ARTÍCULO 82 SEXIES.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2021)
 
 ## TÍTULO SÉPTIMO. DE LOS PARTICULARES QUE INTERVIENEN EN EL MANEJO DE LOS RESIDUOS
 
@@ -1207,21 +1385,33 @@ c) Establecimientos ubicados en parques industriales, con una superficie superio
 
 IV. Empresas recicladoras: Personas físicas o morales que someten a algún tipo de trasformación a los materiales valorizables contenidos en productos descartados, así como en los residuos, para obtener materiales secundarios o reciclados que puedan ser utilizados como tales o destinados a un aprovechamiento como insumos en la generación de nuevos productos de consumo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 85.
 
-Las empresas que se dediquen a la reutilización o reciclaje de residuos sólidos deberán:
+Las empresas y todo establecimiento mercantil, industrial y de servicios que se dedique a la reutilización o reciclaje de los residuos deberán:
 
 I. Obtener registro o autorización de las autoridades ambientales competentes, según corresponda;
 
 II. Ubicarse, según sea el caso, en zonas de uso del suelo industrial, o en lugares que reúnan los criterios que establezcan las Normas Oficiales Mexicanas aplicables, y que permitan la viabilidad de sus operaciones;
 
-III. Operar de manera segura y ambientalmente adecuada;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+III. Instrumentar un plan de manejo registrado por la Secretaría para la operación segura y ambientalmente adecuada de los residuos sólidos que maneje;
 
 IV. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes, cuando sea el caso;
 
 V. Contar con personal capacitado y continuamente actualizado; y
 
 VI. Contar, en su caso, con garantías financieras para asegurar que al cierre de las operaciones en sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente, cuando así se juzgue pertinente, por la dimensión de sus operaciones y el riesgo que éstas conlleven, o haya sido reglamentado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VII. Atender a las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por (sic) Secretaría, mismas que formarán parte de la autorización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VIII. Contar con permiso de la Secretaría cuando el generador o cualquier establecimiento se dedique al manejo de los residuos de manejo especial, ya sea en su modalidad de almacenaje, reciclaje, reutilización y/o traslado.
 
 ### CAPÍTULO II. DE LOS SUELOS CONTAMINADOS Y SU REMEDIACIÓN
 
@@ -1251,65 +1441,81 @@ IV. Los procedimientos para llevar a cabo su remediación, cuando sea el caso. P
 
 ### CAPÍTULO I. MEDIDAS DE CONTROL Y DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 88.
 
-La Procuraduría Ambiental realizará los actos de inspección y vigilancia para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de prevención y gestión integral de residuos e impondrá las medidas de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley, la Ley de Gestión Ambiental Sustentable del Estado de Durango, la Ley Orgánica de la Procuraduría de Protección al Ambiente, la Ley General Ambiental y la Ley General de Residuos.
+La Secretaría realizará los actos de inspección y vigilancia para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de prevención y gestión integral de residuos e impondrá las medidas de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley, la Ley de Gestión Ambiental Sustentable del Estado de Durango, la Ley General Ambiental y la Ley General de Residuos.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 89.
 
-La Procuraduría Ambiental llevará a cabo actividades de inspección y vigilancia relacionadas con micro generadores de residuos peligrosos, cuando el municipio no tenga la infraestructura para realizar dichas actividades.
+La Secretaría llevará a cabo actividades de inspección y vigilancia relacionadas con microgeneradores de residuos, cuando el municipio no tenga la infraestructura para realizar dichas actividades.
 
 ###### Artículo 90.
 
 Sí como resultado de una visita de inspección se detecta la comisión de un delito, se deberá dar vista a la autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 91.
 
-En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos de manejo especial peligrosos, la Procuraduría Ambiental de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
+En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos de manejo especial, la Secretaría de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
 
-I.- La Clausura temporal o parcial de las fuentes contaminantes, así como de las exhalaciones en que se generan, manejen o dispongan finalmente los residuos peligrosos involucrados en los supuestos a los que se refiere este precepto;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+I. La Clausura temporal o parcial de las fuentes contaminantes, así como de las exhalaciones en que se generan, manejen o dispongan finalmente los residuos involucrados en los supuestos a los que se refiere este precepto;
 
 II.- La suspensión de las actividades respectivas;
 
 III.- El reenvasado, tratamiento o remisión de residuos peligrosos a confinamientos autorizados o de almacenamiento temporal.
 
-IV.- El aseguramiento precautorio de materiales o residuos peligrosos, y demás bienes involucrados con la conducta que da lugar a la imposición de la medida de seguridad; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-V.- La estabilización o cualquier acción análoga que impida que los residuos peligrosos ocasionen los efectos adversos previstos en el artículo 1 de esta Ley.
+IV. El aseguramiento precautorio de materiales o residuos y demás bienes involucrados con la conducta que da lugar a la imposición de la medida de seguridad; y
 
-Tratándose de residuos peligrosos generados por microgeneradores, las medidas de seguridad a las que se hace referencia en este artículo, serán aplicadas por las autoridades del gobierno estatal y de los municipios.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+V. La estabilización o cualquier acción análoga que impida que los residuos ocasionen los efectos adversos previstos en el artículo 1 de esta Ley.
 
-La Procuraduría Ambiental podrá promover ante la autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de residuos generados por microgeneradores, las medidas de seguridad a las que se hace referencia en este artículo, serán aplicadas por las autoridades del gobierno estatal y de los municipios.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+La Secretaría podrá promover ante la autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos.
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 92.
 
-Los infractores de la presente Ley o quienes induzcan directa o indirectamente a alguien a infringirla, independientemente de las responsabilidades civiles o penales correspondientes, serán sancionadas por la Procuraduría Ambiental de conformidad con los siguientes criterios:
+Los infractores de la presente Ley o quienes induzcan directa o indirectamente a alguien a infringirla, independientemente de las responsabilidades civiles o penales correspondientes, serán sancionadas por la Secretaría de conformidad con los siguientes criterios:
 
 I. Cuando los daños causados al ambiente se produzcan por actividades debidas a diferentes personas, la autoridad competente imputará individualmente esta responsabilidad y sus efectos económicos;
 
-II. Cuando el generador o poseedor de los residuos, o prestador del servicio, los entregue a persona física o jurídica distinta de las señaladas en esta Ley, solidariamente compartirán la responsabilidad; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-III. Cuando sean varios los responsables y no sea posible determinar el grado de participación de cada uno en la realización de la infracción, solidariamente compartirán la responsabilidad.
+II. Cuando el generador o poseedor de los residuos, o prestador del servicio, los entregue a persona física o jurídica distinta de las señaladas en esta Ley, solidariamente compartirán la responsabilidad;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+III. Cuando sean varios los responsables y no sea posible determinar el grado de participación de cada uno en la realización de la infracción, solidariamente compartirán la responsabilidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+IV. Cuando el generador o cualquier establecimiento que se dedique al manejo de los residuos de manejo especial, ya que sea en su modalidad de almacenaje, reciclaje, reutilización y/o traslado; no cuente con el permiso autorizado por la Secretaría.
 
 La imposición de cualquier sanción prevista por la presente Ley, no excluye la responsabilidad civil o penal y la eventual indemnización o reparación de daños y perjuicios que puedan recaer sobre el sancionado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 93.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionados administrativamente por la Procuraduría Ambiental y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionados administrativamente por la Secretaría y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
 
@@ -1329,21 +1535,21 @@ IV. La reparación del daño ecológico; y
 
 V. El arresto hasta por treinta y seis horas.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 94.
 
-Cuando la gravedad de la infracción lo amerite, la Procuraduría Ambiental y los gobiernos de los municipios, en su ámbito de competencia, promoverán lo conducente ante las autoridades competentes a efecto de que se proceda a la revocación o cancelación de la concesión, permiso, licencia, y en general, de toda autorización otorgada para operar, funcionar, prestar servicios o aprovechar los recursos naturales.
+Cuando la gravedad de la infracción lo amerite, la Secretaría y los gobiernos de los municipios, en su ámbito de competencia, promoverán lo conducente ante las autoridades competentes a efecto de que se proceda a la revocación o cancelación de la concesión, permiso, licencia, y en general, de toda autorización otorgada para operar, funcionar, prestar servicios o aprovechar los recursos naturales.
 
 ###### Artículo 95.
 
 Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción, serán sancionadas a juicio fundado y motivado de las autoridades competentes atendiendo a lo que se señale en los reglamentos respectivos.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 96.
 
-Para la imposición de sanciones, la Procuraduría Ambiental oirá previamente en defensa a los que se presuman infractores.
+Para la imposición de sanciones, la Secretaría oirá previamente en defensa a los presuntos infractores.
 
 ###### Artículo 97.
 
@@ -1361,9 +1567,9 @@ V. El beneficio directamente obtenido por el infractor por los actos que motiven
 
 VI. Cuando se trate de materias primas forestales maderables y no maderables, provenientes de aprovechamientos para los cuales no exista autorización.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría Ambiental o los gobiernos de los municipios, en el ámbito de sus respectivas competencias, impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría o los gobiernos de los municipios, en el ámbito de sus respectivas competencias, impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 ###### Artículo 98.
 
@@ -1387,19 +1593,17 @@ Se establece la responsabilidad solidaria, independiente de toda falta, de los g
 
 La exención de responsabilidad sólo se producirá acreditando que, a pesar de haberse adoptado todas las medidas destinadas a evitarlos, y sin mediar culpa concurrente del generador u operador de instalaciones, los daños y perjuicios se produjeron por culpa exclusiva de la víctima o de un tercero por quien no se deba responder.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 102.
 
-La Procuraduría Ambiental y las autoridades municipales, según su ámbito de competencia, podrán ser subsidiariamente responsables, atendiendo a su capacidad financiera y presupuestaria, por los perjuicios ocasionados a los usuarios, y están en la obligación de accionar contra los administradores, funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sanciones penales a que haya lugar.
+La Secretaría y las autoridades municipales, según su ámbito de competencia, podrán ser subsidiariamente responsables, atendiendo a su capacidad financiera y presupuestaria, por los perjuicios ocasionados a los usuarios, y están en la obligación de accionar contra los administradores, funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sanciones penales a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 103.
 
-Todo servidor público está en la obligación de denunciar ante la Procuraduría Ambiental cualquier alteración del ambiente, de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental vigente, incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan al amparo de la legislación vigente.
-
-Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
+Todo servidor público está en la obligación de denunciar ante la Secretaría cualquier alteración del ambiente, de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental vigente, incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan al amparo de la legislación vigente. Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
 
 ###### Artículo 104.
 
@@ -1425,11 +1629,11 @@ Los afectados por los actos y resoluciones de las autoridades administrativas qu
 
 Toda persona, atendiendo al procedimiento establecido en la Ley Estatal, podrá denunciar ante la autoridad competente, todo hecho, acto u omisión derivado del manejo inadecuado de Residuos que cause o pueda causar daños al ambiente, a la salud pública o que sea contrario a lo dispuesto en la presente Ley y demás ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 108.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría Ambiental todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos sólidos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma, para que sea procedente basta con los datos necesarios que permita localizar la fuente contaminante o identificar los hechos denunciados.
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Secretaría todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos sólidos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma, para que sea procedente basta con los datos necesarios que permita localizar la fuente contaminante o identificar los hechos denunciados.
 
 ###### Artículo 109.
 
@@ -1443,9 +1647,9 @@ III. Los datos que permitan identificar al presunto infractor o localizar la fue
 
 IV. Las pruebas que el denunciante pueda ofrecer.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría Ambiental, investigue de oficio los hechos constitutivos de la denuncia.
+Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Secretaría, investigue de oficio los hechos constitutivos de la denuncia.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -1453,27 +1657,255 @@ Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto e
 
 Recibida la denuncia se procederá a localizar la fuente contaminante, efectuar las diligencias necesarias para la comprobación y evaluar los hechos y notificar a quién presuntamente sea responsable de los mismos.
 
-La Procuraduría Ambiental recibirá todas las denuncias que se le presenten, turnará a la brevedad, los asuntos de competencia municipal, sin perjuicio de que solicite a ésta la información que se requiera para dar seguimiento a los hechos denunciados.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-En todo asunto, la Procuraduría Ambiental llevará un registro de las denuncias que se presenten.
+La Secretaría recibirá todas las denuncias que se le presenten, turnará a la brevedad, los asuntos de competencia municipal, sin perjuicio de que solicite a ésta la información que se requiera para dar seguimiento a los hechos denunciados.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+En todo asunto, la Secretaría llevará un registro de las denuncias que se presenten.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 111.
 
-Cuando la denuncia se presentare ante el Municipio y sea de competencia Estatal de inmediato la hará del conocimiento de la Procuraduría Ambiental, pero antes adoptará las medidas necesarias si los hechos denunciados son de tal manera grave que pongan en riesgo el medio ambiente y la integridad física de la población.
+Cuando la denuncia se presentare ante el Municipio y sea de competencia Estatal de inmediato la hará del conocimiento de la Secretaría, pero antes adoptará las medidas necesarias si los hechos denunciados son de tal manera grave que pongan en riesgo el medio ambiente y la integridad física de la población.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 112.
 
-La Procuraduría Ambiental o las Autoridades Municipales, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, harán del conocimiento del denunciante el trámite que se haya dado a aquélla y dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+La Secretaría o las Autoridades Municipales, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, harán del conocimiento del denunciante el trámite que se haya dado a aquélla y dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 113.
 
-Cuando las infracciones a las disposiciones de esta Ley hubieren ocasionado daños o perjuicios, él o los interesados podrán solicitar a la Procuraduría Ambiental o a las Autoridades Municipales la formulación de un dictamen técnico al respecto, el cual tendrá el valor de prueba, en caso de ser presentado en juicio.
+Cuando las infracciones a las disposiciones de esta Ley hubieren ocasionado daños o perjuicios, él o los interesados podrán solicitar a la Secretaría o a las Autoridades Municipales la formulación de un dictamen técnico al respecto, el cual tendrá el valor de prueba, en caso de ser presentado en juicio.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO NOVENO. DE LOS PLANES DE MANEJO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. DE LAS OBLIGACIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 114.
+
+Los planes de manejo de residuos sólidos urbanos y de manejo especial, deberán estar encaminados a:
+
+I. Identificar formas de prevenir o reducir la generación de residuos sólidos urbanos y de manejo especial;
+
+II. Establecer esquemas de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados;
+
+III. Establecer mecanismos para reutilizar, reciclar o aprovechar los residuos que no se puedan evitar, de conformidad con las disposiciones legales aplicables y en la medida que esto sea ambientalmente adecuado, económicamente viable y tecnológicamente factible;
+
+IV. Reducir el volumen y riesgo en el manejo de los residuos que no se puedan valorizar, de conformidad con las disposiciones legales aplicables;
+
+V. Alentar la innovación de procesos, métodos y tecnologías para lograr un manejo integral de los residuos, que sea económicamente factible y;
+
+VI. Disponer de un relleno sanitario o de un sitio controlado, según corresponda, para los residuos que no puedan ser susceptibles de valorizarse.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 115.
+
+El contenido de los planes de manejo se sujetará a lo previsto en el reglamento de esta Ley, la Ley General, los ordenamientos que de ella emanen y en las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 116.
+
+Estarán obligados a la formulación y ejecución de los planes de manejo, los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo, de conformidad con las normas oficiales mexicanas correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 117.
+
+La determinación de residuos que podrán sujetarse a planes de manejo se llevará a cabo con base a lo que establezcan las normas oficiales mexicanas, así como los siguientes criterios:
+
+I. Que los materiales que los componen tengan un alto valor económico;
+
+II. Que se trate de residuos de alto volumen de generación, producidos por un número reducido de generadores; y
+
+III. Que se trate de residuos que representen un riesgo a la población, al ambiente o a los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 118.
+
+Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará a la Secretaría para su validación y en la cual se asentará, entre otros, lo siguiente:
+
+I. El nombre, la denominación o razón social de quien presente la propuesta, del representante legal en su caso, el nombre de los autorizados para recibir notificaciones, al órgano administrativo al que se dirijan, el lugar y fecha de formulación;
+
+II. Los residuos generados que serán objeto de los planes de manejo;
+
+III. Los procedimientos, métodos o técnicas que se emplearán en la reutilización, reciclado o tratamiento de los residuos;
+
+IV. Las empresas autorizadas y registradas como prestadoras de servicios que se ocuparán del manejo integral de los residuos sujetos a los planes de manejo, en cualquiera de sus etapas;
+
+V. Cronograma enunciando las principales actividades y sus fechas de implantación, así como la periodicidad para evaluación y entrega de actualizaciones;
+
+VI. Los responsables de la implantación y seguimiento de los planes de manejo correspondientes;
+
+VII. La indicación de que parte de la información proporcionada a la Secretaría deberá manejarse de manera confidencial por tratarse de información privilegiada de valor comercial, y;
+
+VIII. Los indicadores para evaluar el desempeño del plan de manejo.
+
+La propuesta se entregar (sic) firmada por el interesado o su representante legal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 119.
+
+La Secretaría podrá convocar individual o conjuntamente con los ayuntamientos de manera gradual, a los productores, importadores, distribuidores y comercializadores de productos de consumo que al desecharse se conviertan en residuos sólidos urbanos y de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la ley general, las normas oficiales mexicanas y esta Ley a fin de:
+
+I. Dar a conocer que son prioritarios para su atención por el grado de dificultad que implica el manejo de los residuos correspondientes o los problemas ambientales que se han visto asociados a las formas de disposición final comunes de los mismos;
+
+II. Proponer la formulación de proyectos piloto que de manera gradual permitan la devolución de los residuos por los consumidores, a fin de que se ocupen de su reciclaje, tratamiento o disposición final;
+
+III. Identificar conjuntamente las alianzas y redes de colaboración que es necesario establecer, en el marco de la responsabilidad compartida pero diferenciada, a fin de contar con el apoyo necesario de las partes interesadas para facilitar la formulación e implantación de los proyectos piloto a los que hace referencia la fracción anterior de este artículo;
+
+IV. Identificar el tipo de instrumentos económicos o de otra índole que permitirán sustentar el costo del manejo de los residuos en su fase post-consumo, así como de facilidades administrativas, incentivos o reconocimientos que podrán implantarse para alentar el desarrollo de los planes de manejo;
+
+V. Identificar los medios y mecanismos a través de los cuales se podrá hacer del conocimiento público la existencia de los proyectos pilotos y las formas en las que se espera que los consumidores participen en los planes de manejo de los residuos;
+
+VI. Identificar las necesidades de infraestructura para el manejo integral de los residuos devueltos por los consumidores y la capacidad instalada en el estado o en el país para ello; e
+
+VII. Identificar las necesidades a satisfacer para crear o fortalecer los mercados del reciclaje de los materiales valorizables que puedan recuperarse de los residuos sujetos a los planes de manejo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 120.
+
+En ningún caso los planes de manejo podrán plantear formas de manejo contrarias a los objetivos y a los principios en los que se basa la normatividad aplicable a la prevención y reducción de riesgos del residuo de que se trate, ni realizarse a través de empresas que no estén autorizadas ante las autoridades competentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. DE LAS OBLIGACIONES PARTICULARES
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 121.
+
+Las personas físicas o morales responsables de la producción, distribución o comercialización de bienes que, una vez terminada su vida útil generen residuos sólidos urbanos y de manejo especial en alto volumen o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en la presente Ley, las demás disposiciones jurídicas aplicables, así como:
+
+I. Instrumentar planes de manejo de los residuos sólidos urbanos y de manejo especial en sus procesos de producción, prestación de servicios o en la utilización de envases y embalajes, así como su fabricación o diseño, comercialización o utilización que contribuyan a la minimización de los residuos y promuevan la reducción de la generación en la fuente, su valorización o disposición final, que ocasionen el menor impacto ambiental posible;
+
+II. Adoptar sistemas eficientes de recuperación para minimizar, reciclar o reusar los residuos sólidos urbanos y de manejo especial derivados de la comercialización de sus productos finales y;
+
+III. Promover el uso de envases y embalajes que una vez utilizados sean susceptibles de valorización mediante procesos de reúso y reciclaje.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 122.
+
+Los residuos de manejo especial, podrán ser transferidos a industrias para su utilización como insumos dentro de sus procesos, haciéndolo previamente del conocimiento de la Secretaría mediante un Plan de Manejo para dichos insumos, el cual estará basado en la minimización de sus riesgos.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 123.
+
+Los prestadores del servicio de recolección, transporte o tratamiento de los residuos de manejo especial, deberán estar autorizados y registrados para tales efectos por la Secretaría, debiéndose cerciorar los generadores de dichos residuos que las empresas que presten los servicios de manejo y disposición final de los mismos, cuenten con las autorizaciones respectivas y vigentes, en caso contrario serán responsables de los daños y perjuicios que se ocasionen por su manejo.
+
+En caso de que se contraten los servicios de manejo y disposición final de residuos de manejo especial por empresas autorizadas por la Secretaría y los residuos sean entregados a estas, la responsabilidad por las operaciones le corresponderá a dicha empresa, independientemente de la responsabilidad que tiene el generador
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO III. DE LAS AUTORIZACIONES DE LOS PLANES DE MANEJO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 124.
+
+El Prestador de Servicios y/o Promovente, o en su caso, quien suscriba los trámites en materia de residuos de manejo especial y/o materia prima secundaria, que pretenda obtener cualquiera de las autorizaciones previstas en esta Ley y el Reglamento de la misma, deberá presentar a esta Secretaría, las solicitudes correspondientes de conformidad con los formatos establecidos por ésta.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 125.
+
+El personal de la Secretaría, podrá en cualquier momento realizar visitas de evaluación al sitio, con el objeto de verificar la información y documentación proporcionada en su solicitud.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 126.
+
+La vigencia de las autorizaciones para la realización de las distintas etapas del manejo integral de los residuos de manejo especial, serán definidas en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO IV. REVOCACIÓN O CANCELACIÓN DE AUTORIZACIONES
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 127.
+
+Son causas de revocación de las autorizaciones:
+
+I. Que exista falsedad en la información y/o documentos presentados por el Prestador de servicios y/o Promovente, o en su caso, quien suscriba los tramites en materia de residuos de manejo especial; proporcionada a la Secretaría o al Ayuntamiento en su caso;
+
+II. Se acredite, compruebe, evidencie o demuestre la presentación de cualquier documento apócrifo ante la Secretaría;
+
+III. Se cuente o se inicie un procedimiento jurídico administrativo en materia de medio ambiente por parte de alguna autoridad competente, la Secretaría valorará si este procedimiento perjudica algún procedimiento del manejo de sus residuos;
+
+IV. Cuando las actividades de manejo integral de los residuos contravengan la normatividad aplicable o las obligaciones establecidas en la autorización;
+
+V. No renovar las garantías otorgadas en los términos del reglamento de la presente Ley;
+
+VI. No reparar el daño ambiental que se cause con motivo de las actividades autorizadas;
+
+VII. Incumplir con las obligaciones establecidas en la autorización, la presente Ley y demás disposiciones aplicables;
+
+VIII. Al haber un conato de incendio en las instalaciones de la empresa generadora y/o empresa de servicio de manejo;
+
+IX. Si se realizan maniobras o actividades en la vía pública por parte de las empresas de servicio de manejo en cualquiera de las etapas de manejo de residuos de manejo especial y/o materia prima secundaria; y
+
+X. No se presenten los reportes de bitácoras y manifiestos de entrega, transporte y recepción de residuos de manejo especial y/o materia prima secundaria por parte de las empresas generadoras y/o empresas de servicio de manejo.
+
+En caso de cambio de denominación o razón social, absorción o fusión de una empresa generadora y/o empresa de servicio de manejo de residuos de manejo especial, hasta en tanto la Secretaría determine lo conducente con respecto a la vigencia y aplicación de la autorización, por lo cual el Prestador de servicios y/o Promovente o en su caso, quien suscriba los trámites en dicha materia, tendrá prohibido trabajar con tal carácter en el Estado de Durango, por los próximos tres años no será autorizado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128.
+
+En caso de cancelar una autorización en materia de residuos de manejo especial por falsedad en la información y/o documentos presentados por el Prestador de servicios y/o Promovente o en su caso, quien suscriba los trámites en dicha materia, deberá notificar a la Secretaría, cualquier modificación dentro de la empresa y realizar la actualización correspondiente a los tramites de su empresa, y en caso de omitir cualquier información que se encuentre marcada dentro de esta Ley, se cancelara la autorización.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO V
+
+DE LOS PRESTADORES DE SERVICIO Y/O PROMOVENTES EN MATERIA DE RESIDUOS DE MANEJO ESPECIAL.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 129.
+
+Los trámites en materia de residuos de manejo especial, podrán ser elaborados por Prestadores de Servicio y/o Promovente en materia de residuos, sin perjuicio de que puedan también ser elaborados por el interesado en obtener las autorizaciones a que alude el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 130.
+
+El Prestador de Servicios y/o Promovente, o en su caso, quien suscriba los trámites en materia de residuos de manejo especial, serán responsables ante la Secretaría de observar, cumplir, acatar, lo dispuesto por este Reglamento, la Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 131.
+
+El Prestador de Servicios y/o Promovente, o en su caso, quien suscriba los trámites en materia de residuos de manejo especial, deberá elaborar e integrar los trámites debiendo cumplir con las siguientes obligaciones:
+
+I. Cumplir estrictamente con la normatividad ambiental y demás disposiciones legales aplicables, utilizando técnicas y metodologías actualizadas en la materia;
+
+II. Informar a la Secretaría sobre la existencia de riesgos ambientales inminentes o daños graves al ambiente, los recursos naturales o la salud pública, que detecte con motivo de la prestación de sus servicios;
+
+III. Abstenerse de presentar información, documentación y/o autorizaciones falsas o de cometer errores técnicos; y
+
+IV. Las demás que se establezcan en otras disposiciones aplicables.
+
+Quien incumpla con alguna de las obligaciones previstas en este artículo será sancionado de conformidad con lo establecido en esta la (sic) Ley y su Reglamento, sin perjuicio de las sanciones previstas en otras disposiciones aplicables, así como la suspensión y/o cancelación del trámite.
 
 ## TRANSITORIOS
 
@@ -1600,3 +2032,15 @@ La presente reforma entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65.- QUE CONTIENE REFORMAS, ADICIONES Y DEROGACIONES A DIVERSOS ARTÍCULOS PARA LA PREVENCIÓN DE GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
+
+TERCERO. En un término no mayor a 240 días posteriores a la entrada en vigor del presente decreto el Ejecutivo del Estado, hará las adecuaciones necesarias a la legislación secundaria derivada del presente decreto.
+
+CUARTO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
