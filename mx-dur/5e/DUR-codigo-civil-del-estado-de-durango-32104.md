@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2021-07-04"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -7399,7 +7399,9 @@ ART. 2018.- Si al denunciarse el pleito o durante él, reconoce el que enajenó 
 
 ART. 2019.- Si la finca que se enajenó se halla gravada, sin haberse hecho mención de ello en la escritura con alguna carga o servidumbre voluntaria no aparente, el que adquirió puede pedir la indemnización correspondiente al gravamen, o la rescisión del contrato.
 
-ART. 2020.- Las asociaciones recsisorias (sic) y de indemnización a que se refiere el artículo que precede, prescriben en un año, que se contará, para la primera, desde el día en que se perfeccionó el contrato, y por la segunda, desde el día en que el adquiriente tenga noticia de la carga o servidumbre.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ART. 2020.- Las acciones rescisorias y de indemnización a que se refiere el artículo que precede, prescriben en un año, que se contará, para la primera, desde el día en que se perfeccionó el contrato, y por la segunda, desde el día en que el adquiriente tenga noticia de la carga o servidumbre.
 
 ART. 2021.- El que enajena no responde por la evicción:
 
@@ -7433,7 +7435,9 @@ ART. 2028.- Si la cosa enajenada pereciere o mudare de naturaleza a consecuencia
 
 ART. 2029.- Si el enajenante no conocía los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquiriente los haya pagado.
 
-ART. 2030.- Las acciones que nacen de lo dispuesto en los artículos 2023 al 2029 se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2019 y 2020.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ART. 2030.- Las acciones que nacen de lo dispuesto en los artículos 2023 al 2029 se extinguen a los doce meses contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2019 y 2020.
 
 ART. 2031.- Enajenándose dos o más animales juntamente, sea en un precio alzado o sea señalándolo a cada uno de ellos, el vicio de uno da sólo lugar a la acción redhibitoria, respecto de él, y no respecto de los demás, a no ser que aparezca que el adquiriente no habría adquirido el sano o sanos sin el vicioso (sic), o que la enajenación fuese de un rebaño y el vicio fuere contagioso.
 
@@ -8245,9 +8249,13 @@ ART. 2310.- El arrendatario está obligado a pagar la renta que se venza hasta e
 
 ART. 2311.- Si el precio del arrendamiento debiere pagarse en frutos y el arrendatario no los entregare en el tiempo debido, está obligado a pagar en dinero el mayor precio que tuvieren los frutos dentro del tiempo convenido.
 
-ART. 2312.- Si por caso forutito (sic) o fuerza mayor se impide totalmente al arrendatario el uso de la cosa arrendada, no se causará renta mientras dure el impedimento, si este dura más de dos meses, podrá pedir la rescisión del contrato.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-ART. 2313.- Si sólo impide en parte el uso de la cosa, podrá el arrendatario pedir la reducción parcial de la renta, a juicio de peritos, a no ser que las partes opten por la resición (sic) del contrato, si el impedimento dura el tiempo fijado en el artículo anterior.
+ART. 2312.- Si por caso fortuito o fuerza mayor se impide totalmente al arrendatario el uso del bien arrendado, no se causará renta mientras dure el impedimento, y si éste dura más de dos meses, podrá el arrendatario pedir la rescisión del contrato.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ART. 2313.- Si por caso fortuito o fuerza mayor, sólo impide en parte el uso del bien arrendado, podrá el arrendatario pedir la reducción parcial de la renta, a juicio de peritos, a no ser que las partes opten por la rescisión del contrato, si el impedimento dura el tiempo fijado en el artículo anterior.
 
 ART. 2314.- Lo dispuesto en los artículos anteriores no es renunciable.
 
@@ -8309,7 +8317,9 @@ ART. 2335.- La renta debe pagarse en los plazos convenidos, y a falta de conveni
 
 ART. 2336.- El arrendatario no tendrá derecho a la rebaja de la renta por esterilidad de la tierra arrendada o por pérdida de frutos proveniente de casos fortuitos ordinarios; pero sí en caso de pérdida de más de la mitad de los frutos, por casos fortuitos extraordinarios.
 
-Entiéndese por casos fortuitos extraordinarios: incendio, guerra, peste, inundación insólita, langosta, terremoto u otro acontecimiento igualmente desacostumbrado y que los contratantes no hayan podido razonablemente preveer.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Entiéndase por casos fortuitos extraordinarios: incendio, guerra, peste, inundación insólita, langosta, declaración de pandemia, terremoto, u otro acontecimiento igualmente desacostumbrado y que los contratantes no hayan podido razonablemente prever.
 
 En estos casos el precio del arrendamiento se rebajarán proporcionalmente al monto de las pérdidas sufridas.
 
@@ -10962,6 +10972,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 565.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 079.- QUE CONTIENE REFORMA A LOS ARTÍCULOS 2020, 2030 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 080.- QUE CONTIENE REFORMA A LOS ARTÍCULOS 2312, 2313 Y 2336, TODOS DEL CÓDIGO CIVIL VIGENTE EN· EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
