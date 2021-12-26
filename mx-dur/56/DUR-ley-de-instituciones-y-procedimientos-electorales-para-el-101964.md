@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2021-08-19"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -1533,7 +1533,11 @@ VIII. Revisar que a los, partidos políticos, a las agrupaciones políticas y a 
 
 IX. Asistir a las sesiones del Consejo General, y
 
-X. Las demás que le confiera esta Ley y el Consejo General.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+X. Implementar las medidas necesarias a fin de dar cumplimiento a las obligaciones establecidas en la Ley de Mejora Regulatoria del Estado de Durango; y
+
+XI. Las demás que le confiera esta Ley y el Consejo General.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
@@ -5648,3 +5652,15 @@ P.O. 19 DE AGOSTO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 071.- POR EL QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 101, RECORRIENDOSE LA SUBSECUENTE DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
