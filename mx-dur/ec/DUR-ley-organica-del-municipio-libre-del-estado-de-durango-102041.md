@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2021-04-08"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -471,7 +471,9 @@ VII. Proponer ante el Congreso del Estado, iniciativas en materia de administrac
 
 VIII. Formular y aprobar el Bando de Policía y Gobierno con arreglo a las bases normativas que establezca la Legislatura del Estado o prorrogar el anterior, lo cual deberá realizarse durante el primer trimestre de su gestión, así como solicitar su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
-Tanto el Bando como la reglamentación que apruebe el Ayuntamiento, podrá ser reformada, adicionada, derogada o abrogada en todo tiempo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+El Bando y la reglamentación que apruebe el Ayuntamiento, podrá ser reformada, adicionada, derogada o abrogada en todo tiempo, en base a los principios señalados en la Ley de Mejora Regulatoria del Estado de Durango.
 
 IX. Conceder y expedir licencias para el funcionamiento de espectáculos, establecimientos con venta de bebidas con contenido alcohólico, bailes y diversiones públicas en general.
 
@@ -811,7 +813,9 @@ VIII. Promover la regularización de la propiedad de los bienes municipales e in
 
 IX. Vigilar que los servidores públicos municipales, presenten oportunamente la declaración de su situación patrimonial al tomar posesión del cargo, anualmente y al concluir su ejercicio.
 
-X. Proponer la formulación, expedición, modificación o reforma de los reglamentos municipales y demás disposiciones administrativas.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+X. Proponer la formulación, expedición, modificación o reforma de los reglamentos municipales y demás disposiciones administrativas, de conformidad con los principios de mejora regulatoria.
 
 XI. Vigilar la correcta prestación de los servicios públicos municipales, así como las relativas al alineamiento, conservación y aseo de las calles.
 
@@ -833,7 +837,9 @@ V. Rendir un informe mensual del estado que guarden los asuntos de cada comisió
 
 VI. Vigilar que el Ayuntamiento cumpla con las disposiciones que establecen las leyes, planes y programas establecidos.
 
-VII. Proponer la formal expedición, derogación o reforma de los reglamentos municipales y demás disposiciones administrativas.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VII. Proponer la formal expedición, derogación o reforma de los reglamentos municipales y demás disposiciones administrativas, de conformidad con los principios de mejora regulatoria.
 
 VIII. Informarse del estado financiero y patrimonial del municipio y de la situación en general del Ayuntamiento.
 
@@ -1617,9 +1623,11 @@ A través de sistemas de información y orientación idóneos, los ayuntamientos
 
 Con la normatividad que acuerde el Ayuntamiento, se podrán modificar los reglamentos municipales cumpliendo con las disposiciones contenidas en la presente Ley y con los procedimientos que se establezcan en los mismos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 140.
 
-Los ayuntamientos tendrán la facultad de expedir circulares y disposiciones administrativas de observancia general en su circunscripción territorial, cuya aplicación redunde en beneficio de la comunidad y de la administración municipal.
+Los ayuntamientos tendrán la facultad de expedir circulares y disposiciones administrativas de observancia general en su circunscripción territorial, cuya aplicación redunde en beneficio de la comunidad y de la administración municipal, de conformidad con los principios de la mejora regulatoria.
 
 ### Capítulo III. De las Bases Generales para la Expedición de Reglamentos Municipales
 
@@ -2588,5 +2596,17 @@ P.O. 8 DE ABRIL DE 2021.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 072.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN VIII DEL INCISO B), DEL ARTÍCULO 33, LA FRACCIÓN X DEL ARTÍCULO 60, LA FRACCIÓN VII DEL NUMERAL 61, Y EL ARTÍCULO 140, TODOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
