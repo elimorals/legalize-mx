@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2021-12-23"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -281,13 +281,17 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-XX. Derechos de niñas, niños y adolescentes en situaciones especiales; y
+XX. Derechos de niñas, niños y adolescentes en situaciones especiales;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-XXI. Derecho de acceso a las Tecnologías de la Información y Comunicación.
+XXI. Derecho de acceso a las Tecnologías de la Información y Comunicación; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XXII. Derecho a la alimentación.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2020)</small>
 
@@ -373,7 +377,13 @@ Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho 
 
 Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
 
-Las autoridades locales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Las niñas, niños y adolescentes en condiciones de orfandad derivada de la comisión de algún un (sic) delito o a consecuencia de la violencia generalizada o de cualquier otra índole, tienen derecho a convivir o mantener relaciones personales y contacto directo con sus familiares supervivientes de modo regular, para tal efecto y en beneficio del fortalecimiento familiar, las autoridades implementarán acciones y procedimientos expeditos que lo garanticen.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Las autoridades locales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia o de sus familiares sobrevivientes más cercanos en su caso.
 
 ###### Artículo 18.
 
@@ -471,19 +481,11 @@ IV. Establecer medidas expeditas, en los casos, en que niñas, niños y adolesce
 
 ### Capítulo Sexto. Del Derecho a No ser Discriminado
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 27.
 
-Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que no deberá hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de su raza, origen étnico, nacional o social, idioma, sexo, religión, opiniones, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor, familiares o quienes ejerzan la custodia sobre ellos.
-
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
-
-I. Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, cualquier forma de trabajo infantil o cualquiera otra condición de marginalidad;
-
-II. Adoptar medidas y realizar acciones afirmativas, cuando sean necesarias, para garantizar que niñas y las adolescentes tengan igualdad de trato y oportunidades que los niños y los adolescentes;
-
-III. Promover e impulsar un desarrollo integral de igualdad entre niñas, niños y adolescentes, erradicando usos, costumbres o prácticas culturales que promuevan cualquier tipo de discriminación de niñas, niños y adolescentes, atendiendo a los principios rectores de esta Ley, y
-
-IV. Impulsar políticas públicas encaminadas al fortalecimiento familiar, a fin de que todas las niñas, los niños y los adolescentes logren un desarrollo integral y accedan a las mismas oportunidades a lo largo de su vida.
+Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que no deberá hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de su raza, origen étnico, nacional o social, idioma, sexo, religión, opiniones, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud, de su situación de maternidad o paternidad prematura o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor, familiares o quienes ejerzan la custodia sobre ellos.
 
 ###### Artículo 28.
 
@@ -527,19 +529,25 @@ I. Prevenir, sancionar y erradicar los casos en que niñas, niños o adolescente
 
 II. Implementar las medidas apropiadas para prevenir, sancionar y erradicar cualquier tipo de violencia en contra de niñas, niños y adolescentes con discapacidad;
 
-III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas directas o indirectas de violencia para lograr el goce y restitución de sus derechos;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
 IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas; así como para la reparación integral del daño; y
+V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-VI. Coordinar programas, talleres y campañas de información para padres, alumnas y alumnos a fin de generar la prevención, protección y erradicación de la violencia digital, así como del uso responsable de las tecnologías de la información y la comunicación.
+VI. Coordinar programas, talleres y campañas de información para padres, alumnas y alumnos a fin de generar la prevención, protección y erradicación de la violencia digital, así como del uso responsable de las tecnologías de la información y la comunicación; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VI (SIC). Implementar programas, acciones y medidas especiales para la protección de los derechos de niñas, niños y adolescentes en situación de orfandad, afectados por la violencia derivada de la comisión de algún delito o la violencia generalizada o de cualquier otra índole.
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
@@ -575,11 +583,21 @@ XI. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niños
 
 XII. Establecer las medidas para que en los servicios de salud se atiendan de manera especial los casos en que niñas, niños y adolescentes sean víctimas de delitos o de cualquier tipo de violencia;
 
-XIII. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación.
+XIII. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
-En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XV. Establecer programas, acciones y medidas especiales para el cuidado de la salud de niñas, niños y adolescentes en situación de orfandad derivada de la comisión algún delito o la violencia generalizada o de cualquier otra índole;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia o la de sus familiares sobrevivientes en su caso de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
 
@@ -671,7 +689,9 @@ VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendi
 
 IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
 
-X. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes, para abatir el ausentismo, abandono y deserción escolar;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+X. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes, para abatir el ausentismo, bajo rendimiento, abandono y deserción escolar, mediante campañas que promuevan los servicios de alfabetización de los niveles básicos.
 
 XI. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
@@ -1001,33 +1021,59 @@ Las autoridades estatales y municipales, a fin de lograr la reinserción y parti
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
 
-ARTÍCULO 60 BIS. Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
+Artículo 60 BIS. Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 60 Bis 1.
+###### Artículo 60 Bis 1.
 
 El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 3° y 6° constitucional, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 60 Bis 2.
+###### Artículo 60 Bis 2.
 
 Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 60 Bis 3.
+###### Artículo 60 Bis 3.
 
 Los padres, tutores y quienes tengan a cargo el cuidado de niñas, niños o adolescentes, en apego al interés superior de la niñez, instruirán en el conocimiento y uso responsable de las tecnologías de la información y comunicación con el objeto de que en el ejercicio de su derecho, los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información no afecten o impidan objetivamente su desarrollo integral, ejerciendo en caso de vulneración de sus derechos las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-### Capítulo Único. De los Centros de Asistencia Social
+### CAPITULO VIGÉSIMO SEGUNDO
+
+DERECHO A LA ALIMENTACIÓN.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 60 Bis 4.
+
+Niñas, niños y adolescentes tienen derecho a una alimentación saludable que asegure su pleno desarrollo físico y mental. Por lo cual este derecho será el eje de la política pública de seguridad alimentaria del Estado.
+
+La desnutrición y la obesidad entre las niñas, niños y adolescentes son asuntos de salud pública en el Estado.
+
+El Poder Ejecutivo del Estado y gobiernos municipales podrán crear programas de educación alimentaria y mejoramiento nutricional para las niñas, niños y adolescentes en la etapa inicial, preescolar, primaria, secundaria y medio superior en zonas identificadas con altos índices de desnutrición, anemia o en riesgo de desnutrición. Madres y padres de familia participaran en el cumplimiento de la misma.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 60 Bis 5.
+
+Se prohíben las siguientes actividades en las instituciones públicas y privadas de educación inicial, preescolar, primaria, secundaria:
+
+I. La distribución, donación, regalo, venta y suministro a menores de edad, de bebidas azucaradas y alimentos envasados de alto contenido calórico, conforme a las disposiciones legales aplicables al interior de los planteles educativos.
+
+II. La distribución, donación, regalo, venta y suministro de bebidas azucaradas y alimentos envasados de alto contenido calórico en comedores de los centros públicos de educación inicial, preescolar, primaria, secundaria.
+
+III. La venta, distribución o exhibición de cualquiera de esos productos a través de distribuidores automáticos o máquinas expendedoras.
+
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ## TÍTULO TERCERO. De los derechos y obligaciones
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ###### Artículo 61.
 
@@ -1117,7 +1163,7 @@ XII. Educar y supervisar en el conocimiento y uso responsable de las tecnología
 
 Quienes ejercen la patria potestad, tutela o guarda y custodia, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
 
-### Capítulo Segundo. De la Procuraduría de Protección
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 64.
 
@@ -1133,7 +1179,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Tercero. Del Sistema Local de Protección
+### Capítulo Segundo. De la Procuraduría de Protección
 
 ###### Artículo 65.
 
@@ -1191,7 +1237,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Cuarto. De los Sistemas Municipales de Protección
+### Capítulo Tercero. Del Sistema Local de Protección
 
 ###### Artículo 69.
 
@@ -1265,9 +1311,17 @@ XV. Coordinar con las autoridades de los órdenes de gobierno la implementación
 
 XVI. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
 
-XVII. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-XVIII. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
+XVII. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Realizar campañas permanentes de difusión en redes sociales, televisoras y radiodifusoras locales, con la finalidad de prevenir la violencia contra las niñas, niños y adolescentes, así como campañas de promoción dentro de la población en general para que denuncien cuando tengan conocimiento de que alguna niña, niño o adolescente este sufriendo algún tipo de violencia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XIX. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
 
 ###### Artículo 73.
 
@@ -1293,9 +1347,17 @@ IX. Coordinarse con las autoridades estatal y federal para la implementación y 
 
 X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
 
-XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-XII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
+XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XII. Realizar campañas permanentes de difusión en redes sociales, televisoras y radiodifusoras locales, con la finalidad de prevenir la violencia contra las niñas, niños y adolescentes, así como campañas de promoción dentro de la población en general para que denuncien cuando tengan conocimiento de que alguna niña, niño o adolescente este sufriendo algún tipo de violencia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XIII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
 #### Sección Segunda. Del Sistema DIF Estatal
 
@@ -1317,7 +1379,7 @@ VI. Promover la formación, capacitación y profesionalización del personal de 
 
 VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
+### Capítulo Cuarto. De los Sistemas Municipales de Protección
 
 ###### Artículo 75.
 
@@ -1417,7 +1479,7 @@ VI. Acreditar las pruebas de control de confianza emitidas por la autoridad comp
 
 El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta del Titular del Poder Ejecutivo.
 
-### Capítulo Sexto. Del Programa Nacional y el Programa Local
+### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
 
 #### Sección Primera. De los Integrantes
 
@@ -1655,7 +1717,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Sexto. Del Programa Nacional y el Programa Local
 
 ###### Artículo 84.
 
@@ -1668,6 +1730,8 @@ El eje rector de los Sistemas Municipales será el fortalecimiento familiar con 
 Cada Sistema Municipal contará con una Secretaría Ejecutiva cuyo titular será nombrado y removido libremente por el Presidente Municipal, quien deberá contar con experiencia en materia de asistencia social.
 
 Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los lineamientos establecidos por el Sistema Local; se reunirán cuando menos dos veces al año, para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 85.
 
@@ -1857,7 +1921,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2078,6 +2142,54 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 029.- QUE CONTIENE REFORMA AL ARTÍCULO 36 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE DERECHOS DE LOS MENORES CON DISCAPACIDAD”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 057.- QUE CONTIENE REFORMA AL ARTÍCULO 27 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 058.- POR EL QUE SE ADICIONA UN VI PÁRRAFO, RECORRIENDOSE EL SUBSECUENTE, ASÍ MISMO SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 17; SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 32; Y SE ADICIONA UNA FRACCIÓN XV, ASÍ MISMO SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 059.- QUE CONTIENE REFORMA A LOS ARTÍCULOS 72 Y 73 DE LA LEY DE LOS DERECHOS DE LAS (SIC) NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 060.- QUE CONTIENE REFORMA A LA FRACCIÓN X DEL ARTÍCULO 37 DEL CAPÍTULO DÉCIMO PRIMERO DEL DERECHO A LA EDUCACIÓN A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 073.- QUE CONTIENE REFORMA A LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE DERECHO A LA ALIMENTACIÓN”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
