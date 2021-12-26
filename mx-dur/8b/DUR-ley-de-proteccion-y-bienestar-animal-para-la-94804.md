@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-bienestar-animal-para-la-94804"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2019-10-15"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -145,9 +145,9 @@ XXII. Bioparque: Área geográfica ubicada en un amplio espacio natural con lím
 
 XXIII. Cautiverio: Falta de libertad o aprisionamiento al que es sometido un Animal de manera deliberada por parte de las Personas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-XXIV. Centro de Asistencia Canino y Felino: Los Centros de Atención Antirrábico y de Esterilización dependientes de las autoridades municipales;
+XXIV. Centro de Asistencia Animal: La Institución en la cual un animal es alojado para su protección, atención médica y cuidado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -213,9 +213,7 @@ XXXIX. Ley: Ley de Protección y Bienestar Animal para la Sustentabilidad en el 
 
 XL. Ley de Gestión Ambiental: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
-
-XLI. Ley Orgánica de la Procuraduría: Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango;
+XLI. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -237,9 +235,7 @@ XLV. Plan de contingencia: Instrumento que se deriva de un análisis de riesgo d
 
 XLVI. Poseedor: Persona física o moral que, sin tener el título de propietario o sin ser Encargado, posee un Animal y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
-
-XLVII. Procuraduría Ambiental: Procuraduría de Protección al Ambiente del Estado de Durango;
+XLVII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -291,11 +287,11 @@ LIX. Vehículos de Tracción Animal: Carros, carretas, instrumentos de labranza 
 
 Los términos definidos en este artículo podrán ser utilizados indistintamente en singular o plural, conforme a la presente Ley a fin de adecuarlos al sentido gramatical correspondiente, sin que por ello se pierda el significado otorgado en el presente artículo.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 4.
 
-En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Gestión Ambiental, la Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango, la Ley de Salud del Estado de Durango, la Ley Ganadera para el Estado de Durango y demás leyes, reglamentos, normas y ordenamientos aplicables que no se opongan a la presente.
+En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Gestión Ambiental, la Ley de Salud del Estado de Durango, la Ley Ganadera para el Estado de Durango y demás leyes, reglamentos, normas y ordenamientos aplicables que no se opongan a la presente.
 
 ### CAPÍTULO III. De las autoridades
 
@@ -305,17 +301,17 @@ En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria la
 
 La aplicación de esta Ley corresponde:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-I. Al Poder Ejecutivo del Estado, a través de la Secretaría, a la Procuraduría Ambiental, a la SAGDR, a la Secretaría de Salud, a la Secretaría de Educación y demás dependencias sanitarias del Estado, en el ámbito de sus respectivas competencias; y,
+I. Al Poder Ejecutivo del Estado, a través de la Secretaría, a la SAGDR, a la Secretaría de Salud, a la Secretaría de Educación y demás dependencias sanitarias del Estado, en el ámbito de sus respectivas competencias; y
 
 II. A los Municipios del Estado, por conducto de las dependencias que se determine en sus Reglamentos.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 6.
 
-La Secretaría y la Procuraduría Ambiental, en coordinación con la Secretaría de Salud, la Secretaría de Educación, en el ámbito de sus respectivas competencias y con la participación de Asociaciones, difundirán por los medios apropiados el objeto, contenido, alcance, derechos y obligaciones de esta Ley, buscando implementar programas educativos en materia de bioconservación y de la tenencia responsable de Animales tendientes a fomentar el respeto, el cuidado, la protección y el trato digno y humanitario hacia los Animales.
+La Secretaría, en coordinación con la Secretaría de Salud, la Secretaría de Educación y SAGDR, en el ámbito de sus respectivas competencias y con la participación de Asociaciones, difundirán por los medios apropiados el objeto, contenido, alcance, derechos y obligaciones de esta Ley, buscando implementar programas educativos en materia de bioconservación y tenencia responsable de Animales destinados a fomentar el respeto, el cuidado, la protección y el trato digno y humanitario hacia los Animales.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -323,53 +319,85 @@ La Secretaría y la Procuraduría Ambiental, en coordinación con la Secretaría
 
 La Secretaría de Educación promoverá en el ámbito de su competencia, una cultura de respeto a los animales.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 8.
 
-Corresponde al Ejecutivo del Estado, a través de la Secretaría:
+Corresponde al Ejecutivo del Estado, a través de la Secretaría, en coordinación con SAGDR, la Secretaría de Salud, la Secretaría de Educación:
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 I. Conformar y actualizar, conforme a la información que le proporcionen los Municipios, el registro estatal de Personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de los Animales;
 
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 II. Promover la creación de Centros de Control Animal ante los Ayuntamientos del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 III. Coadyuvar, con la autoridad competente, en la ejecución de las medidas zoosanitarias, de higiene y de buen funcionamiento para los establecimientos con animales;
 
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 IV. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales y la creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo, y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 V. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 8 Bis.
 
-Corresponde al Ejecutivo del Estado, a través de la Procuraduría Ambiental:
+Corresponde al Ejecutivo del Estado, a través de la Secretaría:
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 I. Crear Normas Técnicas Ambientales en la materia;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 II. Coadyuvar con el Ayuntamiento para la creación de la reglamentación aplicable;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 III. Vigilar el cumplimiento de las disposiciones legales aplicables para la protección y trato digno y respetuoso a los animales;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 IV. Vigilar los centros de asistencia canina y felina municipales que cuenten con lo establecido en las Normas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 V. Denunciar ante la autoridad competente las faltas, omisiones o delitos cometidos en contra de los animales; y
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 VI. Las demás establecidas en la legislación aplicable en la materia.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 8 Ter.
 
-Corresponde al Ejecutivo del Estado, a través de la Secretaría y de la Procuraduría Ambiental:
+Corresponde al Ejecutivo del Estado, a través de la Secretaría, en coordinación con SAGDR, la Secretaría de Salud, la Secretaría de Educación:
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 I. Fomentar y apoyar la creación de Sociedades, Asociaciones o Grupos de Protección de Animales;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 II. Promover campañas de difusión en materia de protección y respeto a los Animales;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 III. Celebrar convenios con la Federación, los municipios, otras Entidades Federativas, así como con organismos e instituciones de los sectores social, académico y privado, relacionados con la materia de la presente Ley;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 IV. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias de su competencia; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 V. Las demás establecidas en la legislación aplicable en la materia.
 
@@ -425,11 +453,11 @@ Las autorizaciones y el procedimiento de registro serán expedidos y definidos p
 
 La inscripción a dicho registro es de carácter obligatorio y para mantenerlo vigente, el interesado deberá renovarla cada año. En el caso de cambio de propietario, poseedor o encargado deberá comunicarse a la SAGDR para los efectos a que haya a lugar, conforme a los lineamientos que ésta expida.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-Los Municipios deberán contar con al menos un Centro de Asistencia Canino y Felino, apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables.
+Los Municipios deberán contar con al menos un Centro de Asistencia Animal, apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables.
 
 ## TITULO SEGUNDO. OBLIGACIONES
 
@@ -470,6 +498,12 @@ No se permitirá el uso de Animales para efectuar prácticas de entrenamiento de
 ###### Artículo 16.
 
 Quedan prohibidas las peleas de perros, así como azuzarlos para que se acometan entre ellos y hacer de las peleas así provocadas un espectáculo público o privado, así como facilitar inmuebles a título oneroso o gratuito, para que tengan lugar dichas peleas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Artículo 16 bis.- Se prohíbe tatuar u ordenar la realización de tatuajes en animales que no sean los estrictamente permitidos por esta ley, así como colocar u ordenar la colocación de piercing o perforaciones con fines meramente estéticos en los mismos.
+
+Además de lo anterior, queda prohibido realizar mutilaciones o modificaciones innecesarias o que sean de índole meramente estética en los animales.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -613,11 +647,11 @@ Las autoridades estatales y municipales, los clubes de caza, las Asociaciones Ci
 
 ### CAPÍTULO V. De la Caza
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 33.
 
-Queda expresamente prohibida la caza de cualquier especie animal silvestre en el Estado de Durango a excepción de la que se efectúe en aquellos cotos de caza que las autoridades fijen para fines deportivos, conforme a las Leyes y reglamentos aplicables. Se entiende por coto de caza una superficie delimitada y destinada por el Ejecutivo de la Unión a la caza deportiva, en los términos de las disposiciones federales aplicables.
+Queda expresamente prohibida la caza de cualquier especie animal silvestre en el Estado de Durango a excepción de la que se efectúe en aquellos cotos de caza que las autoridades fijen para fines deportivos, conforme a las Leyes y reglamentos aplicables. Se entiende por coto de caza una superficie delimitada y destinada por la autoridad competente a la caza deportiva, en los términos de las disposiciones federales aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -795,11 +829,11 @@ Los Animales de Carga y Tiro en condiciones fisiológicas no aptas, como los des
 
 Los vehículos de tracción animal no podrán ser cargados con un peso mayor al doble del peso del Animal que se utilice para tirar, y se tendrá en cuenta las condiciones físicas y fisiológicas de los Animales que se empleen.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 51.
 
-El Estado a través de la Secretaría, la Procuraduría Ambiental, los municipios y las Asociaciones, diseñarán e implementarán un programa de substitución progresiva de los Animales de Carga y Tiro, utilizados para actividades de trabajo.
+El Estado a través de la Secretaría, los municipios y las Asociaciones, diseñarán e implementarán un programa de substitución progresiva de los Animales de Carga y Tiro, utilizados para actividades de trabajo.
 
 ### CAPÍTULO V. De la exhibición, de la pensión, Adiestramiento y del Albergue de Animales
 
@@ -925,7 +959,9 @@ c) Cuando el traslado se haga en camionetas con caja al descubierto, deben utili
 
 d) Queda prohibido trasladarlos en cajuelas de automóviles, así como amarrados o con movimiento libre en cajas de camionetas sin la debida protección;
 
-e) Los vehículos de los Centros de Asistencia Canino y Felino deben tener compartimientos separados para el traslado simultáneo de animales domésticos de compañía, en donde no exista contacto físico ni visual entre ellos cuando se trate de distintas especies. Además de contar con ventilación suficiente y adecuada para tal propósito. La captura y traslado de Animales debe realizarse por personal debidamente identificado y capacitado en el Bienestar Animal;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+e) Los vehículos de los Centros de Asistencia Animal, deben tener compartimientos separados para el traslado simultáneo de animales domésticos de compañía, en donde no exista contacto físico ni visual entre ellos cuando se trate de distintas especies. Además de contar con ventilación suficiente y adecuada para tal propósito. La captura y traslado de Animales debe realizarse por personal debidamente identificado y capacitado en el Bienestar Animal.
 
 f) Queda prohibido que los establecimientos que enajenen aves domésticas les corten o mutilen sus extremidades, que utilicen bolsas para la entrega y traslado de estas especies a los compradores, o que les amarren las alas cruzadas; y,
 
@@ -955,39 +991,55 @@ b) En el caso de peces, anfibios y reptiles, se tomarán las precauciones necesa
 
 Queda prohibida la transportación de cualquier Animal arrastrándolo o suspendido de los miembros inferiores o superiores o ambos.
 
-### CAPÍTULO VII. De los Centros de Asistencia Canino y Felino
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO VII. De los Centros de Asistencia Animal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 64.
 
-Los Centros de Asistencia Canino y Felino estarán a cargo de las autoridades Municipales y tienen como funciones:
+Los Centros de Asistencia Animal, estarán a cargo de las autoridades Municipales y tienen como funciones:
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 I. Llevar a cabo como actividad primordial campañas de vacunación y esterilización para Animales Domésticos de Compañía, mismas que deberán ser masivas, gratuitas, sistemáticas y extensivas; de tal manera que el sacrificio de animales no sea el método por elección para el control de poblaciones, para así hacer una transición a métodos éticos de control de la fauna urbana, cuidando en todo momento que los materiales quirúrgicos utilizados sean de calidad y no caducos.
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
 II. Realizar campañas de educación sobre la tenencia responsable de Animales;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 III. Desarrollar programas de difusión tendientes a concientizar a la población en general de la importancia del control de natalidad animal, como medio efectivo de lograr un equilibrio poblacional y para favorecer la adopción de Animales Abandonados;
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
 IV. Efectuar el Sacrificio Humanitario de Animales en los términos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 V. Certificar y capacitar al personal que trabaje en estos centros con especial atención a quienes estén encargados del sacrificio de animales, entendiéndose por esto principalmente una revisión de salud mental; y,
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
 VI. Las demás previstas en esta Ley y otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 Para cumplir con los objetivos de las campañas y programas señalados en este artículo los Municipios del Estado podrán celebrar convenios de colaboración con las autoridades estatales correspondientes, instituciones educativas, centros de investigación y Asociaciones y Personas Interesadas en el tema.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 65.
 
-Los Centros de Asistencia Canino y Felino podrán coordinarse con las Asociaciones para que los animales que se encuentren en el supuesto de las fracciones I, II y III del artículo 78 puedan ser entregados para Adopción.
+Los Centros de Asistencia Animal, podrán coordinarse con las Asociaciones para que los animales que se encuentren en el supuesto de las fracciones I, II y III del artículo 78 puedan ser entregados para Adopción.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 66.
 
-El personal de los Centros de Asistencia Canino y Felino deberán regresar los Animales a sus Propietarios Poseedores o Encargados al término del plazo mencionado en el artículo 78 fracción VI de esta Ley, cuándo así lo soliciten, previa firma de responsiva.
+El personal de los Centros de Asistencia Animal, deberán regresar los Animales a sus Propietarios Poseedores o Encargados al término del plazo mencionado en el artículo 78 fracción VI de esta Ley, cuándo así lo soliciten, previa firma de responsiva.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -1091,21 +1143,33 @@ Quedan exceptuados los Animales que constituyan plagas que pongan en peligro el 
 
 ### CAPÍTULO III. Del Sacrificio Humanitario de los Animal Domésticos de Compañía
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 78.
 
-El Sacrificio Humanitario de los Animales Domésticos de Compañía se deberá realizar primordialmente en los Centros de Asistencia Canino y Felino, y de manera auxiliar en las clínicas veterinarias de las Asociaciones y en clínicas veterinarias particulares, de conformidad con sus posibilidades y recursos disponibles, y únicamente en los siguientes supuestos:
+El Sacrificio Humanitario de los Animales Domésticos de Compañía se deberá realizar primordialmente en los Centros de Asistencia Animal, y de manera auxiliar en las clínicas veterinarias de las Asociaciones y en clínicas veterinarias particulares, de conformidad con sus posibilidades y recursos disponibles, y únicamente en los siguientes supuestos:
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 I. Entrega voluntaria de los Propietarios o Poseedores por imposibilidad para su manutención, enfermedad grave o zoonótica, incapacidad física o vejez extrema;
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
 II. Cuando sean asegurados y no reclamados en un plazo de 20 días naturales contados a partir de su fecha de captura por deambular en la vía pública;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 III. Por el sufrimiento que le cause una enfermedad o accidente y sean desahuciados clínicamente para su recuperación;
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
 IV. A juicio de la Autoridad competente por el exceso en el número de ejemplares de su especie y constituyan un riesgo zoosanitario o peligro para la comunidad y no se encuentre una alternativa a corto plazo para resolver el riesgo inminente; siempre y cuando se haya conminado previamente a la comunidad a mantener a sus perros en sus hogares, para entonces tomar la decisión sobre aquellos ejemplares que carecen de hogar.
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
 V. Cuando a criterio de la Autoridad competente, conforme a las circunstancias e investigaciones realizadas, lo estime pertinente para los Animales Potencialmente Peligrosos que incurran en reincidencia de ataque; y,
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 VI. Cuando los Animales que agredan a personas o a Animales no sean reclamados por su Propietario, Poseedor o Encargado dentro de los 10 días naturales.
 
@@ -1157,15 +1221,15 @@ El Estado y los Municipios promoverán y facilitarán la participación efectiva
 
 El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, serán órganos de consulta y participación ciudadana con la finalidad de realizar acciones de promoción cultural, proponer líneas concretas de acción para la formulación de políticas públicas que sobre todo involucren medidas preventivas y de control ético de la fauna urbana.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, funcionarán y se integrarán conforme a lo dispuesto por los propios Reglamentos que emitan la Secretaría, la Procuraduría Ambiental y los Municipios.
+El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, funcionarán y se integrarán conforme a lo dispuesto por los propios Reglamentos que emitan la Secretaría y los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 85.
 
-En el ámbito de sus respectivas competencias, la Procuraduría Ambiental y las Autoridades Municipales, llevarán un registro de las Asociaciones y personas interesadas, con quienes celebren convenios de colaboración, para el cumplimiento de esta Ley.
+En el ámbito de sus respectivas competencias, la Secretaría y las Autoridades Municipales, llevarán un registro de las Asociaciones y personas interesadas, con quienes celebren convenios de colaboración, para el cumplimiento de esta Ley.
 
 En el marco de cooperación con las autoridades responsables de la ejecución y cumplimiento de la Ley, las Asociaciones y personas interesadas que suscriban convenios de colaboración, podrán:
 
@@ -1197,7 +1261,9 @@ I. Los hechos u omisiones denunciados; y
 
 II. En su caso los datos que permitan identificar al presunto infractor.
 
-La autoridad estará obligada a mantener en reserva el nombre del denunciante, cuando éste así lo solicite. Así como dar respuesta por escrito al denunciante del resultado de las investigaciones en un lapso no mayor a 10 días naturales a partir de la fecha de denuncia.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+La autoridad estará obligada a mantener en reserva el nombre del denunciante, cuando éste así lo solicite. Así como dar respuesta por escrito al denunciante del resultado de las investigaciones de conformidad a la Ley de Justicia Administrativa del Estado de Durango, a partir de la fecha de denuncia.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -1371,7 +1437,9 @@ II. Clausura temporal, parcial o total de los establecimientos, instalaciones, s
 
 III. La suspensión temporal, parcial o total de obras, eventos o actividades donde se celebren espectáculos públicos con animales que no cumplan con esta Ley, su reglamento, las Normas Oficiales Mexicanas, así como con cualquier otro precepto legal aplicable.
 
-IV. En caso de decomiso de animales doméstico y/o de compañía, estos quedarán a resguardo del centro de atención canina y felino o en alguna entidad protectora acreditada para tal fin, sin que esto implique el sacrificio del Animal en cuestión y en todo lo posible se pondrá en adopción, brindándole atención médica requerida.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+IV. En caso de decomiso de animales doméstico y/o de compañía, estos quedarán a resguardo del Centro de Asistencia Animal o en alguna entidad protectora acreditada para tal fin, sin que esto implique el sacrificio del Animal en cuestión y en todo lo posible se pondrá en adopción, brindándole atención médica requerida.
 
 Las medidas de seguridad ordenadas por las autoridades competentes en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y en su caso correctivo, se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas. Dichas medidas tendrán la duración estrictamente necesaria para la protección efectiva de los Animales y la corrección de las irregularidades respectivas y deberán ser notificadas al infractor para su inmediata ejecución.
 
@@ -1820,3 +1888,25 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en 
 TERCERO. Las Autoridades Municipales promoverán, en un plazo no mayor a 120 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
 
 CUARTO. En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones pertinentes al Reglamento que permitan la exacta observancia de la Ley, en las materias de su competencia.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 062.- POR EL QUE SE ADICIONA UN ARTÍCULO 16 BIS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 066.- QUE CONTIENE REFORMAS Y DEROGACIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL, PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
