@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2021-03-23"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -197,9 +197,9 @@ V.- Impulsar una formación que contribuya al desarrollo de la democracia y al f
 
 VI.- Fomentar el cuidado de la salud individual, difundiendo información sobre los daños físicos, mentales, morales y sociales que producen las adicciones a las drogas y otros tóxicos que apartan a las personas del estudio, del trabajo y de la orientación hacia una vida social saludable y productiva;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-VII.- Promover la convivencia de respeto y de armonía en condiciones de igualdad y libre de cualquier forma de maltrato físico, psicológico o verbal entre estudiantes; impulsando proyectos de intervención educativa en materia de habilidades socio-emocionales.
+VII.- Promover la convivencia de respeto y de armonía en condiciones de igualdad y libre de cualquier forma de maltrato físico, psicológico o verbal entre estudiantes; impulsando proyectos de intervención educativa en materia de habilidades socio-emocionales; además proporcionar, en su caso, atención psicológica a la víctima de violencia o maltrato escolar, en cualquiera de sus modalidades y a la persona agresora, así como orientación sobre las vías legales a seguir en casos que lo ameriten. También garantizara la atención psicosocial a las víctimas, a la persona agresora y a las receptoras indirectas de maltrato dentro de las escuelas.
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -509,9 +509,9 @@ XVIII.- Ajustar el Calendario Escolar para cada ciclo lectivo de Educación Prim
 
 XIX.- Coordinarse con la autoridad educativa federal y con las autoridades municipales, para la distribución, uso y recuperación, en su caso, de libros de texto gratuito y demás materiales educativos complementarios;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-XX.- Editar libros y producir materiales didácticos distintos a los libros de texto gratuito; así como promover obras editoriales con la participación de intelectuales comprometidos con el desarrollo de la sociedad; en la edición de obras será obligatorio el uso de material reciclable.
+XX.- Editar libros y producir materiales didácticos distintos a los libros de texto gratuito; así como promover obras editoriales con la participación de intelectuales comprometidos con el desarrollo de la sociedad y la promoción de la atención a la salud mental y la educación socioemocional; en la edición de obras será obligatorio el uso de material reciclable;
 
 XXI.- Realizar estudios sistemáticos de diagnóstico, censales, de medición, de opinión y de evaluación del Sistema Estatal de Educación; así como de la demanda social educativa, para llevar a cabo la planeación anual para la prestación de servicios educativos suficientes y eficientes;
 
@@ -579,9 +579,13 @@ f) Garantizar que los planteles de educación básica y media superior o equival
 
 g) La Secretaría deberá coordinarse con la Secretaría de Salud, con la finalidad de detectar los cambios epidemiológicos de la obesidad, el sobrepeso y trastornos de la conducta alimentaria de los educandos de la entidad.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-h) Impulsar el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas, incluyendo a cada institución educativa del sector público y privado con cuando menos, un profesional de la psicología por cada 300 alumnos, como factor protector y facilitador de competencias de vida para los alumnos, maestros y padres de familia. La Secretaría a tal efecto suscribirá convenios con instituciones de educación superior a efecto de que sus graduados realicen el servicio social en psicología y trabajo social en escuelas de nivel básico; y
+h) Impulsar el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas, incluyendo a cada institución educativa del sector público y privado con cuando menos, un profesional de la psicología por cada 300 alumnos, como factor protector y facilitador de competencias de vida para los alumnos, maestros y padres de familia, quien se encargará de la prevención, diagnóstico y dar seguimiento a la salud mental de las y los estudiantes.
+
+De forma prioritaria, en coordinación con las autoridades de salud de los tres órdenes de gobierno, diseñar y ejecutar programas tendientes a la promoción y atención de la salud mental en el sector educativo.
+
+La Secretaría a tal efecto suscribirá convenios con instituciones de educación superior a efecto de que sus graduados realicen el servicio social en psicología y trabajo social en escuelas de nivel básico; y
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2019)</small>
 
@@ -1227,7 +1231,9 @@ I.- Establecer mecanismos a fin de que las niñas, niños y adolescentes con dis
 
 II.- Incorporar a los docentes y personal asignado que intervengan directamente en la integración educativa de personas con discapacidad, al Sistema Nacional de formación, actualización, capacitación y superación profesional para maestros de educación básica;
 
-III.- Proporcionar a los estudiantes con discapacidad, materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas invidentes o débiles visuales y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+III.- Proporcionar a los estudiantes con discapacidad, materiales y ayudas técnicas que apoyen su rendimiento académico, efectuando los ajustes razonables necesarios, de acuerdo con la suficiencia presupuestal con que cuenta el plantel, para su inclusión equipando los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas invidentes o débiles visuales y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
 
 IV.- Incluir la enseñanza del Sistema de Escritura Braille y la Lengua de Señas Mexicana en la educación pública y privada, que complementen los conocimientos de los alumnos con discapacidad;
 
@@ -1744,6 +1750,152 @@ La Secretaría, por medio de la Dirección de Profesiones, será la encargada de
 ###### ARTICULO 135.
 
 (DEROGADO, P.O. 6 DE MARZO DE 2014)
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 135 BIS. El Sistema de Educación Superior del Estado de Durango se integra por:
+
+I. Las y los estudiantes de las instituciones de educación superior;
+
+II. El personal académico de las instituciones de educación superior;
+
+III. El personal administrativo de las instituciones de educación superior;
+
+IV. Las autoridades educativas;
+
+V. Las autoridades de las instituciones de educación superior;
+
+VI. Las universidades e instituciones de educación superior a las que la ley otorga autonomía;
+
+VII. Las instituciones de educación superior del Estado, sus organismos descentralizados y desconcentrados, así como los subsistemas en que se organice la educación superior;
+
+VIII. Las instituciones particulares de educación superior con autorización o reconocimiento de validez oficial de estudios;
+
+IX. Los programas educativos;
+
+X. Los instrumentos legales, administrativos y económicos de apoyo a la educación superior;
+
+XI. Las políticas en materia de educación superior;
+
+XII. Las instancias colegiadas de vinculación, participación y consulta derivadas de esta Ley;
+
+XIII. Las (sic) Comisión Estatal para la Planeación de la Educación Superior del Estado de Durango; y
+
+XIV. Todos los demás actores que participen en la prestación del servicio público de educación superior.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 135 TER. El Sistema de Educación Superior del Estado de Durango tendrá los siguientes propósitos:
+
+I. Contribuir a la consolidación de estructuras, sistemas y procesos orientados a la mejora continua e innovadora de las instituciones y programas de educación superior en el estado;
+
+II. Ampliar la distribución territorial y la oferta de educación superior, a fin de atender las problemáticas locales y comunitarias con énfasis en el bienestar de la población;
+
+III. Fortalecer las capacidades educativas locales y la coordinación con la Federación;
+
+IV. Sentar las bases, desde el ámbito estatal, de procesos eficientes y eficaces de planeación, coordinación, participación y vinculación social conforme a lo establecido en la Ley General de Educación Superior, y la presente Ley;
+
+V. Consolidar los procesos de evaluación y acreditación de programas e instituciones de educación superior en el estado;
+
+VI. Fortalecer y articular la concurrencia financiera y la distribución de recursos públicos respectivos en el estado;
+
+VII. Coadyuvar a la integración y articulación de espacios locales y regionales de educación superior, ciencia, tecnología e innovación;
+
+VIII. Estrechar la vinculación de las instituciones de educación superior con las comunidades locales, el entorno social, así como con los sectores sociales y productivos, y
+
+IX. Los demás que se determinen en las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 135 QUATER. Corresponde al Poder Ejecutivo del Estado de Durango, por conducto de la Secretaría de Educación, las siguientes atribuciones:
+
+I. Coordinar el Sistema de Educación Superior del Estado de Durango, de acuerdo con la (sic) las disposiciones de la Ley General de Educación Superior y la presente Ley, con respeto a la autonomía universitaria y a la diversidad de las instituciones de educación superior;
+
+II. Vincular la planeación de la educación superior con los objetivos, lineamientos y prioridades del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo, del Programa Sectorial de Educación, del Programa Nacional de Educación Superior y del Programa Estatal de Educación Superior;
+
+III. Establecer mecanismos de colaboración entre los subsistemas e instituciones de educación superior de la entidad;
+
+IV. Establecer la Comisión Estatal para la Planeación de la Educación Superior del Estado de Durango;
+
+V. Trabajar de manera conjunta con la Secretaría de Educación Pública de la Administración Pública Federal, a través del Consejo Nacional para la Coordinación de la Educación Superior, para la planeación, evaluación y mejora continua de la educación superior;
+
+VI. Proponer a la Secretaría de Educación Pública de la Administración Pública Federal, contenidos regionales para que, en su caso, sean incluidos en los planes y programas de estudio de las escuelas normales;
+
+VII. Elaborar el anteproyecto de presupuesto correspondiente a la educación superior para el cumplimiento de las disposiciones legales correspondientes;
+
+VIII. Ministrar, cuando corresponda, los recursos provenientes de la Federación para la educación superior;
+
+IX. Promover en las instituciones de educación superior de la entidad la celebración y aplicación de convenios para el desarrollo armónico de la educación superior, el fortalecimiento de la investigación científica y tecnológica, y para el desarrollo del Sistema de Educación Superior del Estado de Durango;
+
+X. Ejecutar acciones para fomentar la cultura de la evaluación y acreditación entre las instituciones de educación superior de la entidad;
+
+XI. Establecer los lineamientos para la expedición de títulos profesionales;
+
+XII. Suministrar información para actualizar el sistema de información de la educación superior, de consulta pública, de apoyo a los procesos de planeación y evaluación a que se refiere el artículo 61 de la Ley General de Educación Superior, y
+
+XIII. Las demás que con tal carácter establezcan esta Ley, la Ley General de Educación Superior y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 135 QUINQUIES. La Comisión Estatal para la Planeación de la Educación Superior del Estado de Durango, tiene como finalidad la coordinación local de las estrategias, programas y proyectos, así como la planeación del desarrollo de la educación superior, y se integrará por al menos una persona representante de:
+
+I. La Secretaría de Educación del Estado;
+
+II. La Secretaría de Educación Pública de la Administración Pública Federal;
+
+III. Las Instituciones públicas de educación superior de cada uno de los subsistemas en la entidad;
+
+IV. Las instituciones de educación superior particulares de la entidad;
+
+V. La instancia estatal de vinculación, consulta y participación social, de conformidad con la Ley General de Educación Superior, y
+
+VI. El Sistema Estatal de Ciencia y Tecnología.
+
+A sus sesiones se invitará a participar a personas representantes de los sectores social y productiva. En la designación de las personas referidas se buscará la representación paritaria entre los géneros y se contemplará la representación de las instituciones públicas y particulares de educación superior.
+
+Las personas que integren la Comisión deberán gozar de reconocimiento en el ámbito académico de la educación superior, y su cargo en la Comisión será de carácter honorífico, por lo que no se contempla sueldo o salario por su participación en dicha Comisión. Para la integración de la Comisión Estatal la Secretaría realizará una consulta con las instituciones de educación superior en la entidad.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 135 SÉXIES. La Comisión Estatal para la Planeación de la Educación Superior del Estado de Durango, tendrá las siguientes funciones:
+
+I. Planear y propiciar el desarrollo de la educación superior de la entidad de manera concertada y participativa entre la autoridad educativa local y las instituciones de educación superior;
+
+II. Colaborar con la Secretaría en la elaboración del Programa Estatal de Educación Superior;
+
+III. Diseñar y promover la implementación de programas, proyectos, estrategias, políticas y acciones que apoyen el desarrollo y la mejora continua de la educación superior en la entidad;
+
+IV. Fomentar la colaboración entre las instituciones de educación superior de la entidad que permita un desarrollo coordinado de este tipo de educación, la movilidad de las y los estudiantes y del personal académico, así como su vinculación con los sectores público, social y productivo;
+
+V. Proponer y diseñar estrategias para hacer efectiva la obligatoriedad de la educación superior en la entidad, así como la reorientación de la oferta educativa, conforme a las necesidades del desarrollo estatal y regional, bajo criterios de inclusión y equidad;
+
+VI. Proponer criterios generales para la creación de nuevas instituciones públicas y programas educativos apegándose a las políticas de educación superior;
+
+VII. Realizar y solicitar estudios de factibilidad y de pertinencia de la apertura de nuevas instituciones públicas, planes y programas de estudios, así como nuevas modalidades y opciones educativas;
+
+VIII. Realizar los estudios necesarios que permitan identificar las necesidades de docencia, investigación, extensión y difusión de la cultura en la entidad;
+
+IX. Proponer estrategias para el fortalecimiento del financiamiento de las instituciones públicas de educación superior de la entidad, así como para la transparencia y la rendición de cuentas;
+
+X. Participar, con el Consejo Nacional para la Coordinación de la Educación Superior, en el diseño de las directrices, estrategias y programas para el desarrollo de la educación superior en los términos de las disposiciones aplicables;
+
+XI. Impulsar los procesos de evaluación de las instituciones de educación superior de la entidad y formular recomendaciones para la mejora continua;
+
+XII. Proponer estrategias para el fortalecimiento de la planta académica y administrativa de las instituciones de educación superior de la entidad;
+
+XIII. Aprobar su reglamento interno de funcionamiento, y
+
+XIV. Las demás previstas en la presente Ley, la Ley General de Educación Superior, y en otras disposiciones aplicables.
+
+La Comisión contará con una secretaría técnica designada conforme a los lineamientos de operación que al efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 135 SÉPTIES. En la formulación del Programa Estatal de Educación Superior, la Secretaría deberá observar lo establecido en el Programa Nacional de Educación Superior, las propuestas de la Comisión Estatal para la Planeación de la Educación Superior del Estado de Durango y de las instancias locales de vinculación, consulta y participación social en materia de educación superior de la entidad, de acuerdo con las disposiciones que al respecto prevé la Ley General de Educación Superior.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Artículo 135 OCTIES. La Secretaría dispondrá las medidas para que las instituciones de educación superior de la entidad proporcionen la información necesaria para incorporarse al Registro Nacional de Opciones para Educación Superior, a fin de dar a conocer a la población los espacios disponibles en las instituciones de educación superior, así como los requisitos para su ingreso.
 
 > <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -2916,3 +3068,31 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 067.- POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. En un plazo máximo de 60 días naturales contados a partir de la entrada en vigor del presente decreto deberá encontrarse instalada la Comisión Estatal para la Planeación de la Educación Superior del Estado de Durango.
+
+CUARTO.- Con el propósito de garantizar la gradualidad de la gratuidad en la educación superior que prevé la Ley General de Educación Superior, el cumplimiento del presente decreto se hará conforme disponibilidad presupuestal que determine el Gobierno Federal, a través del Fondo Federal Especial para la Obligatoriedad y Gratuidad de la Educación Pública.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 068.- QUE CONTIENE REFORMA A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 069.- QUE CONTIENE REFORMA A LA FRACCIÓN III DEL ARTÍCULO 77 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
