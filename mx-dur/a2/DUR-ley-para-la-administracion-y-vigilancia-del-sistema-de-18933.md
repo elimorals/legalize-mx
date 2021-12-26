@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2021-07-04"
+last_updated: "2021-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -193,11 +193,15 @@ Los ajustes cuatrimestrales y del ejercicio que resulten a cargo del Estado en e
 
 Las participaciones que correspondan a los Municipios son inembargables, no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo por lo establecido en el artículo 13 de la presente ley.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 13.
 
-Sujeto a los términos establecidos en la Ley de Coordinación Fiscal y la Ley de Deuda Pública del Estado de Durango y sus Municipios, los Municipios podrán directamente y/o a través del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y de Administración, afectar los ingresos y/o derechos derivados de las participaciones federales que a cada uno de ellos les corresponda, con el objeto de servir como fuente de pago y/o garantía de obligaciones del Municipio respectivo que hayan sido contratados de conformidad con los términos de la Ley de Coordinación Fiscal y la Ley de Deuda Pública del Estado de Durango y sus Municipios. Para dichos efectos, el Estado por conducto de la Secretaría de Finanzas y de Administración y los Municipios podrán celebrar convenios o contratos que sean requeridos para llevar a cabo dichas afectaciones.
+Sujeto a los términos establecidos en la Ley de Coordinación Fiscal y la Ley de Deuda Pública del Estado de Durango y sus Municipios, los Municipios podrán directamente y/o a través del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y de Administración, afectar los ingresos y/o derechos derivados de las participaciones federales que a cada uno de ellos les corresponda, con el objeto de servir como fuente de pago y/o garantía de obligaciones del municipio respectivo que hayan sido contratados de conformidad con los términos de la Ley de Coordinación Fiscal, Ley de Ley (sic) Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública del Estado de Durango y sus Municipios. Para dichos efectos, el Estado por conducto de la Secretaría de Finanzas y de Administración y los municipios podrán celebrar convenios o contratos que sean requeridos para llevar a cabo dichas afectaciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+El Estado podrá acordar con los municipios, la afectación de los ingresos por participaciones federales que a los municipios en cuestión les correspondan, cuando sea necesario reponer al Estado recursos que éste erogue, en carácter de responsable solidario ante terceros, en cumplimiento de obligaciones omitidas por el municipio. En tales casos se podrá acordar, previo análisis técnico financiero y tomando en cuenta el Sistema de Alertas, la devolución de la cantidad erogada por el Estado, a través de un convenio de colaboración que considere la reposición en parcialidades, por un término de hasta 10 años, mediante el uso de participaciones federales que al municipio le correspondan. Dichos convenios deberán ser autorizados por la Legislatura del Estado, e inscribirse en el Registro Público Único.
 
 ###### Artículo 14.
 
@@ -296,3 +300,11 @@ P.O. 4 DE JULIO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- A partir de la entrada en vigor del presente Decreto, quedarán derogadas todas las disposiciones legales y reglamentarias en el orden local, en lo que se opongan o contravengan lo autorizado en sus preceptos.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 074.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 DE LA LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
