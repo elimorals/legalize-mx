@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cambio-climatico-del-estado-de-durango-95588"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-07"
-last_updated: "2021-03-23"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de julio de 2013.
 
@@ -125,9 +125,7 @@ XVII. Ley: Ley de Cambio Climático del Estado de Durango;
 
 XVIII. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
-
-XIX. Procuraduría Ambiental: Procuraduría de Protección al Ambiente del Estado de Durango;
+XIX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -221,7 +219,9 @@ e) Impulsar la certificación de los aprovechamientos forestales;
 
 II. En centros urbanos de más de cincuenta mil habitantes, la sistematización del manejo de residuos sólidos, a fin de que no generen emisiones de metano;
 
-III. En todos los centros urbanos, las unidades de transporte público deberán cumplir los estándares de emisión, sujetándose a los programas de verificación vehicular o los concesionarios podrán optar por otros sistemas de transporte colectivo más eficientes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+III. En todos los centros urbanos, las unidades de transporte público deberán de reducir los vehículos de combustión interna, promoviendo su remplazo a unidades de emisión cero;
 
 IV. El Estado, conforme a las normas federales de la materia, procurará la generación de energía eléctrica para sus instalaciones, con la utilización de fuentes no contaminantes como, el viento, la luz solar y la biomasa, e
 
@@ -241,9 +241,7 @@ II. El titular de la Secretaría de Recursos Naturales y Medio Ambiente;
 
 III. El titular de la Dirección de Protección Civil del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
-
-IV. El titular de la Procuraduría de Protección al Ambiente del Estado; y
+IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
@@ -257,7 +255,9 @@ La Comisión, además del objeto señalado en su decreto de creación, tendrá p
 
 La Comisión se integra de acuerdo a lo establecido por el artículo 3 del decreto de creación de la misma.
 
-La Comisión podrá incorporar, para su funcionamiento y operación, a las autoridades municipales que corresponda, cuando se aborden temas relacionados con el ámbito de su competencia; así como a integrantes de la sociedad civil y a instituciones académicas u organismos no gubernamentales. Igualmente, podrá invitar a participar a autoridades federales y al Presidente de la Gran Comisión del Poder Legislativo o a quien designe.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+La Comisión podrá incorporar, para su funcionamiento y operación, a las autoridades municipales que corresponda (sic), cuando se aborden temas relacionados con el ámbito de su competencia; así como a integrantes de la sociedad civil y a instituciones académicas u organismos no gubernamentales. Igualmente, podrá invitar a participar a autoridades federales y a un representante del Poder Legislativo del Estado.
 
 Para los efectos de la presente Ley los integrantes de la Comisión ejercerán su labor de manera honorífica, cada propietario designará a su suplente respectivo.
 
@@ -289,7 +289,9 @@ IX. Proponer el desarrollo e integración de un marco jurídico estatal en la ma
 
 X. Crear acorde a sus posibilidades presupuestales una agencia gestora de captación de bonos verdes a nivel local, nacional e internacional, promoviendo proyectos de mitigación aplicados directamente a comunidades indígenas y campesinas propietarias de la tierra, en regiones o cuencas prioritarias;
 
-XI. Promover la articulación y coordinación con los Estados con los que se comparten cuencas hidrológicas forestales, con la finalidad de elaborar proyectos conjuntos de adaptación al cambio climático y mitigación de sus efectos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XI. Promover la articulación y coordinación con los Estados con los que se comparten cuencas hidrológicas, con la finalidad de elaborar proyectos conjuntos de adaptación al cambio climático y mitigación de sus efectos;
 
 XII. Promover la constitución de Consejos Regionales de Cambio Climático;
 
@@ -349,7 +351,9 @@ IV. Celebrar con el Estado, con otros municipios de la Entidad o con los particu
 
 V. Difundir permanentemente la aplicación de los planes o programas de desarrollo urbano municipal, donde se prevenga la exposición de los pobladores a riesgos ambientales;
 
-VI. En el ámbito de su competencia, establecer programas y estrategias para la reducción de vehículos automotores, así como programas de verificación vehicular;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+VI. En el ámbito de su competencia, establecer programas y estrategias para promover el uso de vehículos automotores emisión cero;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
@@ -551,21 +555,23 @@ IV. Concertar acciones e inversiones con los sectores social y privado con la fi
 
 ### CAPÍTULO X. DE LAS RESPONSABILIDADES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 32.
 
-La Procuraduría Ambiental será el órgano competente para realizar actos de fiscalización, inspección y vigilancia en las fuentes emisoras sujetas a reporte, para verificar la información proporcionada, su entrega en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
+La Secretaría será el órgano competente para realizar actos de fiscalización, inspección y vigilancia en las fuentes emisoras sujetas a reporte, para verificar la información proporcionada, su entrega en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-Cuando del procedimiento de inspección se desprendan infracciones a esta Ley en materia de reportes de emisiones, la Procuraduría Ambiental procederá conforme a lo establecido en la Ley de Gestión Ambiental Sustentable para el Estado de Durango y en la Ley de Justicia Administrativa del Estado.
+Cuando del procedimiento de inspección se desprendan infracciones a esta Ley en materia de reportes de emisiones, la Secretaría procederá conforme a lo establecido en la Ley de Gestión Ambiental Sustentable para el Estado de Durango y en la Ley de Justicia Administrativa del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 34.
 
-En caso de que las personas físicas o morales Las fuentes emisoras que sean sujetas de procedimientos de fiscalización para proporcionar informes, datos o documentos, tendrán la obligación de hacerlo dentro de un plazo no mayor a quince días hábiles, contados a partir del día siguiente al de la fecha de su requerimiento. En caso de no atender lo requerido por la autoridad en el plazo señalado, se harán acreedoras a las sanciones administrativas establecidas en esta Ley, y en la Ley de Gestión Ambiental Sustentable para el Estado de Durango.
+En caso de que las personas físicas o morales de fuentes emisoras sean sujetas a procedimientos tendrán la obligación de proporcionar informes, datos o documentos, en un plazo no mayor a quince días hábiles, contados a partir del día siguiente al de la fecha de su requerimiento. En caso de no atender lo requerido por la autoridad en el plazo señalado, se harán acreedoras a las sanciones administrativas establecidas en esta Ley, en la Ley de Gestión Ambiental Sustentable para el Estado de Durango y demás normatividad aplicable.
 
 ###### ARTÍCULO 35.
 
@@ -583,17 +589,17 @@ Los servidores públicos a que se refiere el presente capítulo serán responsab
 
 Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de esta Ley se harán acreedores a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás leyes aplicables, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 38.
 
-La inspección y vigilancia se llevará a cabo por personal autorizado, aplicando la Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango y la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+La inspección y vigilancia se llevará a cabo por personal autorizado, aplicando la Ley de Gestión Ambiental Sustentable del Estado de Durango y su Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 39.
 
-Las dependencias, servidores públicos, y la Comisión, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrán denunciar ante la Procuraduría Ambiental conductas que contravengan las disposiciones de la presente Ley.
+Las dependencias, servidores públicos, y la Comisión, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrán denunciar ante la Secretaría conductas que contravengan las disposiciones de la presente Ley.
 
 En caso de la presunta comisión de delitos, se dará parte al Ministerio Público.
 
@@ -601,11 +607,11 @@ En caso de la presunta comisión de delitos, se dará parte al Ministerio Públi
 
 ### CAPÍTULO XI. DEL RECURSO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 40.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe el interés jurídico, mediante el recurso que corresponda conforme a las disposiciones de la Ley de Justicia Administrativa del Estado de Durango, la Ley de Gestión Ambiental Sustentable del Estado de Durango, la Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango, y demás leyes que resulten aplicables.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso que corresponda conforme a las disposiciones de la Ley de Justicia Administrativa del Estado de Durango, la Ley de Gestión Ambiental Sustentable del Estado de Durango y demás leyes que resulten aplicables.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -688,3 +694,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 063.- QUE CONTIENE REFORMAS Y DEROGACIONES A DIVERSAS FRACCIONES DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
