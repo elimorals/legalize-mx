@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2021-01-03"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -917,8 +915,22 @@ P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 475.- QUE CONTIENE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO, SE REFORMA EL ARTÍCULO 34, SE REFORMA EL ARTÍCULO 35 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
 
-PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2022, previa publicación del presente en el Periódico Oficial del Gobierno del Estado de Durango.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2023, previa publicación del presente en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- El Poder Ejecutivo del Estado deberá expedir, dentro de 90 días posteriores a la publicación del presente decreto, las disposiciones administrativas a fin de dar cumplimiento al mismo.
 
 TERCERO.- Los ayuntamientos del Estado deberán expedir, dentro de 90 días posteriores a la publicación del presente decreto, las disposiciones reglamentarias a fin de dar cumplimiento al mismo.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 070.- QUE CONTIENE REFORMA AL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 475, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO, DE FECHA 24 DE DICIEMBRE DE 2020”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
