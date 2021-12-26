@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-la-maternidad-para-el-estado-de-durango-824
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-26"
-last_updated: "2014-12-28"
+last_updated: "2021-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 26 de junio de 2011.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 En Diversas fechas fueron presentadas a esta H. LXV Legislatura del Estado iniciativas de Decreto: la primera en fecha 15 de junio de 2010 por: los C.C. DIPUTADOS FRANCISCO AVILA CABADA, ERNESTO ABEL ALANIS HERRERA, MARIANO SOTO CALDERA, JORGE HERRERA DELGADO, SERGIO GAMERO DUEÑEZ, MARIA ASENCION ISIDRA MARTINEZ ZABALA, FRANCISCO GAMBOA HERRERA, MARTHA EUGENIA CASTRO GONZALEZ, HIPOLlTO PASILLAS ORTIZ, JUAN MORENO ESPINOZA, MARIA ISABEL CISNEROS TORRES, PEDRO HERRERA FAVELA, FERNANDO ULISES ADAME DE LEON, OMAR JOSE JIMENEZ HERRERA Y MARIBEL AGUILERA CHAIREZ, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, de la LXIV Legislatura, que contiene LEY DE PROTECCIÓN A LOS DERECHOS DE LA MUJER EMBARAZADA EN EL ESTADO DE DURANGO y la segunda en fecha 17 de marzo de 2011; por: la DIPUTADA J. LETICIA HERRERA ALE, integrante del Grupo Parlamentario del Partido Revolucionario Institucional, de la LXV Legislatura, que contiene LEY DE PROTECCIÓN A LA MATERNIDAD PARA EL ESTADO DE DURANGO; mismas que fueron turnadas a la Comisión de Equidad y Genero integrada por los CC. Diputados: Juana Leticia Herrera Ale, Francisco Acosta LLanes, Elia María Morelos Favela, Gina Gerardina Campuzano González y Karla Alejandra Zamora García; Presidente, Secretario y Vocales respectivamente los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S: .
+C O N S I D E R A N D O S:
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado expide el siguiente:
 
@@ -170,6 +172,14 @@ I (SIC). Impulsar la atención a la salud física, mental, sexual y reproductiva
 II. Realizar campañas permanentes de planificación familiar voluntaria, dirigida especialmente al grupo de adolescentes, además de canalizarlos a las dependencias correspondientes para recibir capacitación sobre el buen desarrollo e integración de la familia; y
 
 III. Las demás que le confiera la presente Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+IV. Realizar acciones que promuevan activamente y/o posibiliten, el derecho al acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el proceso de parto, siempre y cuando, no exista riesgo de que se presenten complicaciones de salud para el producto o la mujer embarazada; y celebrará los convenios que se requieran para tal efecto.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 26 DE DICIEMBRE DE 2021.]</small>
+
+Para hacer efectivo el derecho de acompañamiento, las instituciones de salud pública y privada, y centros de internamiento penal, deberán prever las medidas de seguridad e higiene necesarias.
 
 ###### ARTÍCULO 7.
 
@@ -500,3 +510,15 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 056.- POR EL QUE SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 6 A LA LEY DE PROTECCIÓN A LA MATERNIDAD PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Derivado de la crisis económica de origen pandémico provocada por SARS-COV-2, y la limitada capacidad presupuestal e incierta situación económica en el mediano y largo plazo, las instituciones públicas obligadas, tendrán un plazo para cumplir con las disposiciones contenidas, de dos años a partir de la entrada en vigor de la presente Ley, de acuerdo a la disponibilidad presupuestal.
+
+TERCERO. Las instituciones privadas, podrán convenir con la Secretaría de Salud y Servicios de Salud del Estado de Durango, a partir de la entrada en vigor de la presente Ley para su cumplimiento; ajustándose a las especificaciones de la regulación o programas que emita dicha Dependencia.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
