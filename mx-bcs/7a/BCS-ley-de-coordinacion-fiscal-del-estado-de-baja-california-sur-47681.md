@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2019-12-20"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -145,6 +145,10 @@ c) El 20% del Impuesto Especial Sobre Producción y Servicios, a la venta final 
 
 d) El 80% de los Ingresos Federales que obtengan los Municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona federal marítima-terrestre.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+e) El 20% de los ingresos que perciba el Estado, en términos del artículo 126 de la Ley del Impuesto Sobre la Renta;
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
@@ -227,6 +231,12 @@ De las cantidades que el Estado recaude por concepto del Impuesto Sobre Automóv
 
 De las cantidades que el Estado reciba por concepto del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, corresponderá a los Municipios un 20% del mismo, y se distribuirá en los mismos porcentajes en los que cada uno participe en los incentivos por la recaudación del Impuesto Sobre Automóviles Nuevos.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 10 Ter.
+
+De las cantidades que el Estado reciba en términos del artículo 126 de la Ley del Impuesto Sobre la Renta, corresponderá a los Municipios un 20%, dónde, el 100% de los recursos se distribuirá el 80% en partes iguales y el 20% restante se distribuirá en proporción directa al ingreso generado por el esfuerzo recaudatorio, respecto del antepenúltimo y penúltimo ejercicio a los que corresponda el cálculo y distribución.
+
 > <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 11.
@@ -244,6 +254,10 @@ Las formulas, metodologías y montos que se utilicen y determinen para los fondo
 Las Participaciones que conforme a esta Ley correspondan a los Municipios son inembargables y no estarán sujetas a retención o deducción alguna, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el Artículo 9o. de la Ley de Coordinación.
 
 No estarán sujetas a lo dispuesto en el párrafo anterior, las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes en Participaciones y de las obligaciones de cualquier naturaleza previo acuerdo entre las partes, contraídas con el Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El Estado, por conducto de la Secretaría, podrá otorgar a los Municipios anticipos de participaciones federales, mismos que podrán ser compensados dentro del mismo mes o meses siguientes, previo acuerdo de las partes.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], B.O. 10 DE JUNIO DE 2015)</small>
 
@@ -331,25 +345,19 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenac
 
 (DEROGADO, B.O. 10 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 16 Bis.
 
-De las cantidades que el Estado perciba por concepto de derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y de Comercio, corresponderán a los Municipios las cantidades que resulten de aplicar la fórmula siguiente:
+De las cantidades que el Estado perciba por concepto de derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y del Comercio, los Municipios recibirán las cantidades que se generen en su territorio; para el cálculo del pago de (sic) considerarán los ingresos efectivamente recaudados en el mes inmediato anterior al que corresponda el pago.
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINAS DE LA 75 A LA 76.]</small>
+En la segunda semana de cada mes, los municipios recibirán el 25% por concepto de anticipos a cuenta de los Ingresos por Participaciones Estatales por Derechos, el resto dentro de la cuarta semana del mes; descontando el costo administrativo de la recaudación de dichos derechos.
 
 Para efectos del presente artículo no se considerarán dentro de los ingresos por control vehicular, aquellos recaudados por concepto de registro y baja al padrón vehicular, por consulta a otras entidades federativas sobre trámites y pagos efectuados, por cambio de propietario de motor, carrocería y corrección de datos.
 
-La Secretaria de Finanzas y Administración publicará en el Boletín Oficial del Estado el calendario de entrega, porcentaje, formulas y variables utilizadas, así como los montos estimados que recibirá cada Municipio de los Ingresos por Participaciones Estatales por Derechos, para cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
+La Secretaría de Finanzas y Administración publicará en el Boletín Oficial del Estado el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados que recibirá cada Municipio de los Ingresos por Participaciones Estatales por Derechos para cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
 
-Los ingresos por participaciones estatales por derechos se determinará (sic) por cada ejercicio fiscal del Estado, el cual en forma provisional hará un cálculo mensual considerando los ingresos por derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y de Comercio obtenida en el año inmediato anterior o con base en la última información oficial disponible.
-
-> <small>(F. DE E., B.O. 14 DE ENERO DE 2016)</small>
-
-Los municipios recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos mensuales a cuenta de los Ingresos por Participaciones Estatales por Derechos. Los municipios recibirán el 25% de las cantidades que les correspondan en la segunda semana de cada mes y el resto en la cuarta semana.
-
-A más tardar dentro de los 30 días posteriores a que el Ejecutivo del Estado presente la Cuenta Pública del año anterior al Congreso del Estado para su revisión, la Secretaría de Finanzas y Administración determinará los Ingresos por Participaciones Estatales por Derechos obtenidos en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Ingresos por Participaciones Estatales por Derechos y formulará de inmediato las liquidaciones que procedan.
+A más tardar dentro de los 60 días posteriores al cierre del ejercicio que realice la Secretaría de Finanzas y Administración para efectos contables, se determinarán los ingresos reales de los Ingresos por Participaciones Estatales por Derechos y se formulará de inmediato las liquidaciones que procedan.
 
 ### CAPÍTULO TERCERO. DEL CÁLCULO Y LIQUIDACIÓN DE LAS PARTICIPACIONES
 
@@ -620,3 +628,9 @@ B.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2664 SE REFORMA LA LEY DE COORDINACIÓN FISCAL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2807 SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de enero del 2022, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
