@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2021-12-14"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -228,6 +228,54 @@ Las Leyes locales organizarán el patrimonio familiar determinando los bienes qu
 12.- Las Autoridades Estatales organizarán, coordinarán y fomentarán la vida económica de la entidad, para asegurar a todos los habitantes una existencia digna, tomando en consideración que los factores de la producción garantizan la justicia social.
 
 El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá, en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el Artículo 123 de la Constitución General de la República.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+La resolución de las diferencias o los conflictos entre trabajadores y patrones a que se refiere el apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos que no sea competencia del Poder Judicial de la Federación, corresponderá a los Tribunales Laborales del Poder Judicial del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Los integrantes de los Tribunales Laborales serán designados atendiendo a lo dispuesto en los artículos 88 y 89 último párrafo de esta Constitución.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Antes de acudir a los Tribunales Laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria, la cual estará a cargo del organismo descentralizado especializado e imparcial, de la Administración Pública del Estado, denominado Centro de Conciliación Laboral del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El Centro de Conciliación Laboral del Estado de Baja California Sur estará dotado de personalidad jurídica y patrimonio propio. Contando para su funcionamiento con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Rigiéndose por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Para la designación del titular del Centro de Conciliación Laboral del Estado de Baja California Sur, el Ejecutivo del Estado someterá una terna a consideración del Congreso del Estado, la cual previa comparecencia de las personas propuestas, realizará la designación correspondiente.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+La designación del titular del Centro de Conciliación Laboral del Estado de Baja California Sur, se hará por el voto de las dos terceras partes de los integrantes del Congreso del Estado presentes en la sesión correspondiente, dentro del improrrogable plazo de treinta días.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Si el Congreso del Estado, no resolviere dentro de dicho plazo, ocupará el cargo quien sea designado por el Gobernador Constitucional del Estado de los que se encuentren dentro de la terna propuesta.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador Constitucional del Estado someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Titular de (sic) Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del Centro de Conciliación Laboral, que no haya ocupado cargo alguno en partidos políticos, ni haya sido candidato a ocupar algún cargo público de elección popular en los tres años anteriores a la designación, deberá gozar de buena reputación y cumplir los requisitos que establezca la ley.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El titular del Centro de Conciliación Laboral del Estado de Baja California Sur, será nombrado por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El titular del Centro de Conciliación Laboral del Estado de Baja California Sur, sólo podrá ser removido por causa grave en los términos del Título IV de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -1385,13 +1433,13 @@ XLVIII.- Elegir a la Presidenta o Presidente y Consejeras y Consejeros de la Com
 
 XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
 
-(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-L.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+L.- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
 
-> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-L (SIC).- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
+LI.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -2019,17 +2067,25 @@ IX.- El Tribunal de Juicio Oral.
 
 X.- Los Jueces Especializados en Justicia para Adolescentes
 
-> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XI.- Los Jueces de Ejecución; y
+XI.- Los Jueces de Ejecución;
 
-> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+XII.- Los Jueces en materia laboral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Los Jueces Laborales serán designados mediante concursos abiertos, observando el principio de paridad de género, con base en criterios objetivos y de acuerdo al procedimiento (sic) disponga la Ley. Asimismo, deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 > <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -2131,9 +2187,9 @@ X. No excusarse de conocer los asuntos de los que tenga conocimiento que está i
 
 Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará a la Magistrada o Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de Magistrada o Magistrado respetando en todo caso la garantía de audiencia.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Las Magistradas y Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
+Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, Jueces Laborales, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -4540,3 +4596,53 @@ SEGUNDO.- El Congreso del Estado de Baja California Sur, deberá realizar las ad
 TERCERO.- La observancia del principio de paridad de género, será aplicable a quiénes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración, elección y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones, elecciones y nombramientos que correspondan, de conformidad con esta Constitución y las leyes.
+
+B.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2805 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo. El Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2022, deberá contener las partidas presupuestales destinadas para la implementación del sistema de justicia laboral previstas en este Decreto.
+
+Tercero. El Centro de Conciliación Laboral del Estado de Baja California Sur y los Juzgados Laborales iniciaran sus funciones a más tardar el 1° de mayo de 2022, atendiendo a las posibilidades presupuestales.
+
+Cuarto. El Centro de Conciliación Laboral del Estado de Baja California Sur, a que hace referencia el presente Decreto iniciará operaciones en la misma fecha en que lo hagan los Juzgados Laborales del Estado de Baja California Sur, conforme a las disposiciones previstas en el presente Decreto.
+
+Quinto. La Junta Local de Conciliación y Arbitraje del Estado de Baja California Sur y sus Juntas Especiales, continuaran recibiendo y atendiendo las diferencias o conflictos que se presenten entre Patrones y trabajadores hasta en tanto se instituyan e inicien operaciones los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Baja California Sur.
+
+Dichos conflictos serán resueltos y concluidos por la Junta de Conciliación y Arbitraje de conformidad con las disposiciones aplicables al momento de su inicio, de acuerdo con el plan y programa de trabajo para la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos;
+
+En razón de la publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 42, de fecha 29 de octubre de 2021, la Junta Local de Conciliación y Arbitraje del Estado de Baja California Sur, deberá transferir los expedientes y documentación referentes al registro de los contratos colectivos de trabajo, reglamentos interiores de trabajo y de organizaciones sindicales que, en el ámbito de su respectiva competencia tenga bajo su atención o resguardo, al organismo descentralizado de competencia Federal denominado Centro Federal de Conciliación y Registro Laboral que se encarga de atender los asuntos relacionados con el registro de contratos colectivos de trabajo, reglamentos interiores de trabajo y organizaciones sindicales.
+
+En caso de ser necesaria la designación de algún representante de trabajadores o, patrones ante las Juntas de Conciliación y Arbitraje, en tanto estas continúan su operación, el titular de la Secretaria del Trabajo y Desarrollo Social, realizara las designaciones correspondientes para el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones.
+
+Sexto. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición, deberán ser respetados en su totalidad. Las autoridades llevaran a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+Séptimo. Hasta en tanto entre en funciones el Centro de Conciliación Laboral del Estado de Baja California Sur, la Procuraduría de la Defensa del Trabajo conservará la facultad para citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de la Ley Federal del Trabajo, bajo la condición que si el solicitante del servicio no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+
+Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes de la entrada en vigor del Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1° de mayo de 2019.
+
+Octavo. El Poder Ejecutivo del Estado de Baja California Sur, deberá incluir en el proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2022 y subsecuentes, los recursos que sean necesarios para la creación, operación e inicio de funciones del Centro de Conciliación Laboral del Estado de Baja California Sur, mismo que será enviado a la Legislatura Estatal para su aprobación.
+
+Noveno. Las convocatorias a concursos abiertos para la selección y designación de Juez o jueza que integraran los Tribunales Laborales del Poder Judicial del Estado de Baja California Sur, que prescribe el último párrafo del numeral 89, que se adiciona por el presente Decreto, deberán ser de carácter público y para garantizar el principio de máxima publicidad, deberán ser publicadas en el Periódico de mayor circulación en el Estado, y simultáneamente en el Boletín Oficial del Gobierno del Estado de Baja California Sur, y en la página web del Poder Judicial del Estado de Baja California Sur, las convocatorias garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje. Lo anterior, también se deberá observar en el procedimiento para la selección y designación de Secretarias y Secretarios Instructores.
+
+Las convocatorias a que hace referencia el párrafo anterior, deberán de ser emitidas por el Consejo de la Judicatura del Poder Judicial del Estado, dentro de los 15 días siguientes a la entrada en vigor del presente Decreto.
+
+El Poder Judicial del Estado de Baja California Sur, deberá incluir en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2022 y subsecuentes, los recursos que sean necesarios para la creación, operación e inicio de funciones de los Juzgados Laborales.
+
+Décimo. El Centro de Conciliación Laboral del Estado de Baja California Sur y los Juzgados Laborales deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+Décimo Primero. Las Juntas Locales de Conciliación y Arbitraje se ajustarán al plan de trabajo que hubieren presentado al Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, respecto a la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos, así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+
+Décimo Segundo. Dentro de los cuarenta y cinco días siguientes a los que entre en vigor el, presente Decreto, el Congreso del Estado de Baja California Sur, deberá expedir la Ley Orgánica del Centro de Conciliación Laboral del Estado de Baja California Sur.
+
+De igual forma, dentro del plazo antes señalado, el Congreso del Estado de Baja California Sur, deberá adecuar, adicionar o derogar atendiendo a lo establecido en el presente decreto, las disposiciones relativas a los siguientes ordenamientos:
+
+a).- Ley Orgánica del Poder Judicial del Estado de Baja California Sur,
+
+b).- Ley Orgánica de la Administración Pública del Estado de Baja California Sur, y
+
+c).- Ley Orgánica de la Defensoría Pública del Estado de Baja California Sur.
+
+Décimo Tercero.- El H. Congreso del Estado de Baja California Sur, emitirá la Declaratoria de entrada en funciones del Centro de Conciliación Laboral del Estado de Baja California Sur, y de los Tribunales Laborales y a más tardar el día 30 de abril de 2022. Dicha Declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
