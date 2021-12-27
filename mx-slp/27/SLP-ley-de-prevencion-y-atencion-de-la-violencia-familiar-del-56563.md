@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2019-11-12"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -79,9 +79,9 @@ II. DIF: el Sistema para el Desarrollo Integral de la Familia del Estado;
 
 III. Organizaciones sociales: las instituciones legalmente constituidas y registradas, que se ocupan de la materia de esta Ley;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-IV. Procuraduría de Protección: la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor; y
+IV. Procuraduría de Protección: la Procuraduría de Protección de Niñas, Niños, y Adolescentes, y
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -161,9 +161,9 @@ g) La Dirección de Prevención y Readaptación Social.
 
 h) El Sistema para el Desarrollo Integral de la Familia del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-i) La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor.
+i) La Procuraduría de Protección de Niñas, Niños, y Adolescentes.
 
 j) El Instituto de las Mujeres del Estado de San Luis Potosí.
 
@@ -367,9 +367,9 @@ I. El Titular del Poder Ejecutivo, o quien designe, lo presidirá;
 
 II. El Supremo Tribunal de Justicia en el Estado;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-III. La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor;
+III. La Procuraduría de Protección de Niñas, Niños, y Adolescentes;
 
 IV. Los Servicios de Salud en el Estado;
 
@@ -399,11 +399,11 @@ XI. El Centro de Justicia para las Mujeres, y
 
 XII. Las asociaciones civiles, cuyo fin sea la prevención y atención de la violencia familiar; cuya representación será designada por las mismas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 19.
 
-El Consejo Estatal contará con un Secretario Técnico, que será el Procurador de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor quien tendrá a su cargo la organización interna del mismo, de acuerdo con las siguientes atribuciones:
+El Consejo Estatal contará con un Secretario Técnico, que será el Procurador de Protección de Niñas, Niños, y Adolescentes, quien tendrá a su cargo la organización interna del mismo, de acuerdo con las siguientes atribuciones:
 
 I. Suplir las ausencias temporales del Presidente;
 
@@ -870,3 +870,11 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0253.- REFORMA DE LOS ARTÍCULOS, 4° EN SU FRACCIÓN IV, 7° EN SU FRACCIÓN I EL INCISO I), 18 EN SU FRACCIÓN III, Y 19 EN SU PÁRRAFO PRIMERO DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
