@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2016-10-31"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -731,15 +731,15 @@ Sobre el monto de los impuestos y derechos que establece esta ley, excepto los i
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 64º.
 
-Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán de la prestación de los siguientes servicios:
+Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán conforme a las disposiciones contenidas en la presente Ley y se referirá a las acciones y actividades que se contra presten por la administración municipal.
 
 1. Registro Público de la Propiedad y del Comercio
 
 2. Servicios Catastrales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -771,31 +771,27 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 16. Servicios de inspección municipal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 17. Ocupación y uso de la vía pública o de bienes de uso común
 
 18. Recepción y Estudio de la solicitud de Registro, licencias y permisos de giros comerciales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 19. Expedición, revalidación y modificaciones para giros que expendan bebidas alcohólicas y horas extras para el ejercicio de dichas licencias, así como recepción y estudio de la solicitud por primera vez
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 20. Licencias, permisos y autorizaciones por anuncios, carteles o publicidad en la vía pública
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARÁGRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 21. Permisos para la realización de espectáculos y eventos especiales.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+22. Por saneamiento ambiental.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -807,13 +803,17 @@ Igualmente, para la introducción del servicio de agua potable y de drenaje o al
 
 Cuando se trate de construcción o ampliación de plantas desaladoras o plantas de tratamiento, deberán presentar adicionalmente la autorización del Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Los Cabos.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 65º.
 
-Los derechos por la prestación de servicios que proporcionan las diferentes dependencias y organismos municipales, se causarán en el momento en que el particular contrate la prestación del servicio o en el momento en que la situación objetiva ocasione al Ayuntamiento el gasto que deba ser remunerado por aquél, salvo en el caso en que la disposición que fije el derecho señale cosa distinta. Así mismo, por el uso o aprovechamiento de sus bienes de dominio público.
+Con la excepción del derecho de saneamiento ambiental, los demás derechos por la prestación de servicios que proporcionan las diferentes dependencias y organismos municipales, se causarán en el momento en que el particular contrate la prestación del servicio o en el momento en que la situación objetiva ocasione al Ayuntamiento el gasto que deba ser remunerado por aquél, salvo en el caso en que la disposición que fije el derecho señale cosa distinta. Asimismo, por el uso o aprovechamiento de sus bienes de dominio público.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 66º.
 
-El importe de las tasas o cuota que para cada derecho señala la presente Ley, deberá ser cubierto con anticipación a la prestación del servicio, en la oficina de Recaudación de Rentas de la Tesorería General Municipal, o en las cajas recaudadoras de los organismos descentralizados de la administración municipal que para tal efecto señale la misma. Esta disposición no aplica para aquellos derechos cuyo pago se genere por la prestación de servicios públicos que sean medibles en metros cúbicos.
+El importe de las tasas o cuota que para cada derecho señala la presente Ley, deberá ser cubierto con anticipación a la prestación del servicio, en la oficina de Recaudación de Rentas de la Tesorería General Municipal, o en las cajas recaudadoras de los organismos descentralizados de la administración municipal que para tal efecto señale la misma. Esta disposición no aplica para aquellos derechos cuyo pago se genere por la prestación de servicios públicos que sean medibles en metros cúbicos, ni para el derecho de saneamiento ambiental, cuyo importe y forma de entero se encuentra establecida en el capítulo respectivo de la presente ley
 
 ###### ARTÍCULO 67º.
 
@@ -835,9 +835,11 @@ Cuando por resolución administrativa o judicial se llegare a demostrar que el p
 
 ARTÍCULO 70° Causarán el equivalente a una vez el valor diario de la Unidad de Medida y Actualización los derechos por toda clase de constancias o certificaciones no detalladas en la presente Ley y expedidas por los servidores públicos municipales, así como las copias de documentos existentes en los archivos de las dependencias y organismos municipales, a solicitud de los interesados.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 71º.
 
-Los derechos a los que se refiere este título deberán ser cubiertos en forma anticipada en las cajas recaudadoras de la Tesorería General Municipal.
+Los derechos a los que se refiere este título deberán ser cubiertos en forma anticipada en las cajas recaudadoras de la Tesorería General Municipal, con excepción del derecho de saneamiento ambiental, cuya forma de entero se encuentra establecida en el capítulo respectivo de la presente ley.
 
 ###### ARTÍCULO 72º.
 
@@ -3461,11 +3463,29 @@ ruedas o Tianguis en vía pública de Medida y Actualización
 
 La tarifa anterior se cobrará por meses y a partir de la fecha en que se solicite el permiso.
 
-### Capítulo Primero. Venta o explotación de bienes muebles e inmuebles del Patrimonio Municipal
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo décimo noveno. Saneamiento ambiental
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 137º BIS. Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el Municipio, en razón de la ocupación de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales, moteles, plataformas digitales de hospedaje y similares.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 137º TER. Están obligados a pagar los derechos de saneamiento ambiental él o los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, plataformas digitales de hospedaje y similares; este derecho deberá ser retenido por los prestadores de servicios del ramo, o en su caso, por quienes determine el convenio de coordinación que al efecto se suscriba.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 137º QUÁTER. El pago del derecho de saneamiento ambiental se causará en razón del 35% del valor diario de la Unidad de Medida y Actualización por cuarto y/o habitación ocupada, al momento en el que se realice el pago de dicha ocupación.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 137º QUINQUIES. Los retenedores de este derecho deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a los cuartos y/o habitaciones ocupados por la prestación de ese servicio, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
 
 ## TITULO CUARTO. PRODUCTOS
 
-### Capítulo Segundo. Almacenaje de Vehículos y otros objetos en los corralones de depósitos municipales
+### Capítulo Primero. Venta o explotación de bienes muebles e inmuebles del Patrimonio Municipal
 
 ###### ARTÍCULO 138º.
 
@@ -3483,7 +3503,7 @@ En todos los casos en que se autorice la enajenación de bienes del Municipio y 
 
 Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización del Congreso del Estado.
 
-### Capítulo Tercero. Venta o explotación de bienes mostrencos
+### Capítulo Segundo. Almacenaje de Vehículos y otros objetos en los corralones de depósitos municipales
 
 ###### ARTÍCULO 141º.
 
@@ -3525,13 +3545,13 @@ Por cada día de almacenaje a partir del onceavo día, se pagará una cuota igua
 
 Para el caso de los vehículos que sean almacenados en corralones de depósitos concesionados pagarán la tarifa previamente autorizada en la concesión otorgada por el Ayuntamiento.
 
-### Capítulo Cuarto. Venta de Solares Propiedad del Municipio
+### Capítulo Tercero. Venta o explotación de bienes mostrencos
 
 ###### ARTÍCULO 142º.
 
 Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas y bajo el procedimiento que el Ayuntamiento autorice, el cual deberá estar sancionado por la Sindicatura Municipal.
 
-### Capítulo Quinto. Venta de papel para copias de Actas del Registro Civil
+### Capítulo Cuarto. Venta de Solares Propiedad del Municipio
 
 ###### ARTÍCULO 143º.
 
@@ -3557,7 +3577,7 @@ En la venta de solares a crédito se causarán intereses a razón de un 9% anual
 
 ARTÍCULO 146° Por la expedición de títulos de propiedad se pagará una cuota equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-### Capítulo Sexto. Ocupación de locales, almacenes y el uso de cuartos fríos en los mercados municipales
+### Capítulo Quinto. Venta de papel para copias de Actas del Registro Civil
 
 ###### ARTÍCULO 147º.
 
@@ -3589,7 +3609,7 @@ En caso de que a los Oficiales del Registro Civil les sean presentadas hojas sin
 
 ARTÍCULO 153° Los formatos oficiales que sean requeridos para la realización y expedición de trámites, estarán a disposición en la dependencia correspondiente o en la oficina que la Autoridad señale, previo pago de 0.15 del valor diario de la Unidad de Medida y Actualización que deberá cubrirse en la Recaudación Municipal de Rentas.
 
-### Capítulo Séptimo. Productos Diversos
+### Capítulo Sexto. Ocupación de locales, almacenes y el uso de cuartos fríos en los mercados municipales
 
 ###### ARTÍCULO 154º.
 
@@ -3681,7 +3701,7 @@ c) Evento deportivo masivo por temporada, se cobrará 913 veces el valor diario 
 
 d) Auditorios Municipales, 183 veces el valor diario de la Unidad de Medida y Actualización, cuando sean con fines de lucro.
 
-### Capítulo Primero. Recargos
+### Capítulo Séptimo. Productos Diversos
 
 ###### ARTÍCULO 155º.
 
@@ -3689,7 +3709,7 @@ Productos Diversos son todos aquello productos no considerados en los términos 
 
 ## TITULO QUINTO. APROVECHAMIENTOS
 
-### Capítulo Segundo. Multas
+### Capítulo Primero. Recargos
 
 ###### ARTÍCULO 156º.
 
@@ -3699,9 +3719,7 @@ La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos
 
 El plazo para su cómputo no comenzará a correr si el causante no conoce, por razones imputables a las Autoridades Fiscales el importe de los mismos, en los casos en que deba ser calificado o modificado previamente.
 
-### Capítulo Tercero. Aprovechamientos Diversos
-
-ARTÍCULO 160° Los aprovechamientos no especificados en este título se recaudarán de conformidad con las Leyes o contratos que las establezcan.
+### Capítulo Segundo. Multas
 
 ###### ARTÍCULO 158º.
 
@@ -4497,15 +4515,17 @@ II.- Causar molestias a las personas en tránsito con motivo de la actividad com
 
 III.- Introducirse a propiedad privada con fines comerciales, sin la autorización del propietario del inmueble, con multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización.
 
-### Capítulo Cuarto. Rezagos
+### Capítulo Tercero. Aprovechamientos Diversos
 
-### Capítulo Quinto. Gastos de Ejecución
+ARTÍCULO 160° Los aprovechamientos no especificados en este título se recaudarán de conformidad con las Leyes o contratos que las establezcan.
+
+### Capítulo Cuarto. Rezagos
 
 ###### ARTÍCULO 161º.
 
 Son rezagos los adeudos por concepto de impuestos, derechos productos y aprovechamientos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquel en que se causaron, aplicando en cuanto al fondo las Leyes fiscales vigentes en la fecha en que se generaron, y en cuanto a la forma, el procedimiento administrativo de ejecución que establece el Código Fiscal para el Estado y Municipios de Baja California Sur, así como en su caso, los procedimientos judiciales que corresponda. Los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos, productos y aprovechamientos de los cuales provengan.
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Quinto. Gastos de Ejecución
 
 ###### ARTÍCULO 162º.
 
@@ -4549,11 +4569,7 @@ VII. Otros no especificados.
 
 ## TITULO OCTAVO. CONTRIBUCIONES ESPECIALES
 
-### Capítulo Segundo. Registro, licencias y permisos de giros comerciales
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-ARTÍCULO 169° Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón fiscal de contribuyentes del Municipio de Los Cabos, dentro de los 30 días siguientes al inicio de operaciones, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos, y obtener su licencia de funcionamiento y revalidación anual por cada una; realizando el pago de derechos por la cantidad de 7 veces el valor diario de la Unidad de Medida y Actualización.
+### Capítulo Primero. Disposiciones Generales
 
 ###### ARTÍCULO 166º.
 
@@ -4568,6 +4584,12 @@ Los causantes sujetos a pagos periódicos presentarán al efectuar cualquier pag
 La ocultación de fuentes gravadas por esta Ley, que motiven omisión del pago los impuestos o derechos, será sancionada hasta con tres tantos al importe de los mismos sin perjuicio de hacer efectivos los créditos fiscales originales.
 
 Las personas que se dediquen a la venta de bienes raíces, Notarios Públicos, Jueces, Fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que impliquen la transmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad Municipal en un plazo de treinta días; de no hacerlo, sin perjuicio de ser solidarios responsables de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
+
+### Capítulo Segundo. Registro, licencias y permisos de giros comerciales
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 169° Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón fiscal de contribuyentes del Municipio de Los Cabos, dentro de los 30 días siguientes al inicio de operaciones, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos, y obtener su licencia de funcionamiento y revalidación anual por cada una; realizando el pago de derechos por la cantidad de 7 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 170º.
 
@@ -4784,3 +4806,13 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2804 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrara en vigor el día 01 de febrero del año 2022, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- EL H. Ayuntamiento del Municipio de los Cabos, a través de su Presidente Municipal, a partir de la publicación del presente Decreto, tendrá hasta el día de entrada en vigor del mismo para llevar a cabo la conformación del Fideicomiso de Saneamiento Ambiental del Municipio de Los Cabos, fecha en la que deberá poner a disposición de los obligados a retener y enterar las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta para el entero del Derecho de saneamiento Ambiental.
+
+TERCERO.- En la elaboración y aprobación del presupuesto de egresos de cada año, el Ayuntamiento deberá considerar los rubros porcentuales que serán aplicables según las acciones a las que determine destinar los egresos que con base en el esquema de presupuesto base cero provengan respetivamente de los ingresos cuyo origen sea el Saneamiento ambiental contemplado en el presente Decreto, siendo facultad del Fideicomiso que al efecto se constituya, la determinación específica de cada una de las acciones y/u obras a realizar respectando irrestrictamente los rubros y porcentajes determinados.
