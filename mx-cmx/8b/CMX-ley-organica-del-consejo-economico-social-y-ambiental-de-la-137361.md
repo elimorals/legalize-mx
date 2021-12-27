@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-consejo-economico-social-y-ambiental-de-la-137
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-25"
-last_updated: "2020-01-08"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-19"
 
 LEY ORGÁNICA DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 142 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 25 de julio de 2019.
 
@@ -164,47 +164,53 @@ XII. Las demás análogas al cumplimiento de su objeto.
 
 ### CAPÍTULO II. Integración
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 6°.
 
-El Consejo se integra por personas Consejeras representantes de organizaciones: de la sociedad civil, empresariales, de trabajadores, de profesionistas, de instituciones académicas, de las Alcaldías así como las personas titulares del del (sic) poder ejecutivo local en calidad de invitados permanentes según como se indica a continuación:
+El Consejo se integra por personas Consejeras representantes de organizaciones: de la sociedad civil, empresariales, de trabajadores, de profesionistas, de instituciones académicas, de las Alcaldías así como diversas autoridades en la Ciudad de México, en calidad de invitados permanentes según como se indica a continuación:
 
 A. Personas Consejeras.
 
-I. 5 representantes de organizaciones de la sociedad civil;
+I. 6 representantes de organizaciones de la sociedad civil;
 
-II. 5 representantes de organizaciones empresariales;
+II. 6 representantes de organizaciones empresariales;
 
-III. 5 representantes de organizaciones de trabajadores;
+III. 6 representantes de organizaciones de trabajadores;
 
-IV. 5 representantes de organizaciones de profesionistas;
+IV. 6 representantes de organizaciones de profesionistas;
 
-V. 5 representantes de instituciones académicas; y
+V. 6 representantes de instituciones académicas; y
 
 VI. La persona Titular de cada Alcaldía de la Ciudad de México.
 
 Se procurará en su integración la paridad de género. Contarán con derecho a voz y voto en las sesiones de la Asamblea General del Consejo
 
-> <small>(REFORMADO, G. O. 8 DE ENERO DE 2020)</small>
+B. Personas Invitadas Permanentes.
 
-B. Personas Invitadas Permanentes
+I. La persona Titular de la Jefatura de Gobierno, quien ocupará la Presidencia Honoraria del Consejo;
 
-I. La persona Titular de la Jefatura de Gobierno, quien fungirá como Presidente Honorario del Consejo;
+II. Las personas diputadas integrantes de la Comisión de Desarrollo Económico del Congreso de la Ciudad de México;
 
-II. Las Diputadas y los Diputados integrantes de la Comisión de Desarrollo Económico del Congreso de la Ciudad de México;
+III. La Persona titular de la Secretaría de Gobierno;
 
-III. La persona titular de la Secretaría de Administración y Finanzas;
+IV. La Persona titular de la Secretaría de Administración y Finanzas;
 
-IV. La persona titular de la Secretaría de Inclusión y Bienestar Social;
+V. La persona titular de la Secretaría de Inclusión y Bienestar Social;
 
-V. La persona titular de la Secretaría de Desarrollo Económico;
+VI. La persona titular de la Secretaría de Desarrollo Económico;
 
-VI. La persona titular de la Secretaría de Turismo;
+VII. La persona titular de la Secretaría de Turismo;
 
-VII. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
+VIII. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-VIII. La persona titular de la Secretaría de Trabajo y Fomento al Empleo; y
+IX. La persona titular de la Secretaría de Trabajo y Fomento al Empleo;
 
-IX. La persona titular de la Secretaria de Medio Ambiente
+X. La persona titular de la Secretaría de Medio Ambiente;
+
+XI. La persona titular del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México; y
+
+XII. La persona titular del Consejo de Evaluación de la Ciudad de México.
 
 Las personas invitadas permanentes, contarán con derecho a voz y voto en las sesiones de la Asamblea General del Consejo y pudiendo nombrar a un representante con un cargo al menos de dirección de área.
 
@@ -757,3 +763,11 @@ SEGUNDO. Las personas diputadas integrantes de la Comisión de Desarrollo Econó
 TERCERO. Notifíquese al Consejo Económico, Social y Ambiental de la Ciudad de México.
 
 CUARTO. La Consejería Jurídica y de Servicios Legales de la Ciudad de México, realizará la fe de erratas respecto al proemio de la Ley Orgánica del Consejo Económico, Social y Ambiental de la Ciudad de México que indica que fue publicada el "25 de julio de 2017" en vez de "25 de julio de 2019".
+
+G.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO, ASÍ COMO LAS FRACCIONES I A LA V DEL APARTADO A; SE ADICIONA LA FRACCIÓN III, SE REFORMA LA FRACCIÓN I Y SE RECORREN LAS FRACCIONES SUBSECUENTES Y SE ADICIONAN LAS FRACCIONES XI Y XII DEL APARTADO B, TODO DEL ARTÍCULO 6° DE LA LEY ORGÁNICA DEL CONSEJO ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
