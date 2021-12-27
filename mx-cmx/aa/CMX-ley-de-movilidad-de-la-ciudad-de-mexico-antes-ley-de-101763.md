@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2021-08-04"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -3756,8 +3756,20 @@ Tercero.- La Persona titular de la Jefatura de Gobierno contará con un plazo de
 
 Cuarto.- A efecto de que los permisionarios y concesionarios cumplan con lo previsto en los artículos 90 y 110, fracción XII, relativos a tener una póliza de seguro emitida por una Institución de Seguros, tendrán un plazo de 80 días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
-Quinto.- Los trabajadores que forman parte del Órgano Regulador de Transporte, se seguirán rigiendo por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Quinto.– Las personas trabajadoras que forman parte del Órgano Regulador de Transporte, se seguirán rigiendo por el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
 
 Los recursos financieros, materiales, humanos, cargas, compromisos y bienes en general del Órgano Regulador de Transporte, sin más trámite o formalidad continúan formando parte de su patrimonio.
 
 Sexto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO (SIC) SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - Se derogan todas aquellas disposiciones que se opongan al presente decreto.
