@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-cooperativo-para-el-estado-de-hidalgo-94076"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-29"
-last_updated: "2016-08-15"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 29 de abril de 2013.
 
@@ -137,15 +137,19 @@ Son supletorias de la ley, en materia administrativa, las disposiciones de la le
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE FOMENTO COOPERATIVO DEL ESTADO DE HIDALGO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 7.
 
-La organización y distribución de los negocios del orden administrativo en los términos de esta Ley, corresponde al Poder Ejecutivo a través de las Secretarías de Trabajo y Previsión Social, de Desarrollo Económico, de Desarrollo Social, de Finanzas y Administración y a los Presidentes Municipales en la forma y términos que determinen las Leyes correspondientes.
+La organización y distribución de los negocios del orden administrativo en los términos de esta Ley, corresponde al Poder Ejecutivo a través de las Secretarías de Trabajo y Previsión Social, de Desarrollo Económico, de Desarrollo Social, de Finanzas Públicas y a los Presidentes Municipales en la forma y términos que determinen las Leyes correspondientes.
 
 ###### Artículo 8.
 
 Corresponde al Gobernador del Estado:
 
-I.- Aprobar el programa General de Fomento Cooperativo del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I.- Aprobar el programa General de Fomento Cooperativo del Estado de Hidalgo, en términos de lo establecido en el Plan Estatal de Desarrollo.
 
 II.- Emitir las declaratorias de exención de contribuciones a las sociedades cooperativas a excepción de las expresamente señaladas;
 
@@ -177,7 +181,9 @@ III.- Promover la transformación de actividades marginales de la economía info
 
 C).- A la Secretaría de Desarrollo Económico:
 
-I.- Fomentar y promover la constitución se sistemas de organización social, particularmente las cooperativas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I.- Fomentar y promover la constitución de sistemas de organización social, particularmente las cooperativas;
 
 II.- Ejecutar los proyectos de apoyos económicos que el Poder Ejecutivo del Estado otorgue a las empresas sociales, a las microempresas y a los sectores empresariales, así como los financiamientos y prerrogativas que procedan a través del Fondo de Desarrollo Social;
 
@@ -185,7 +191,9 @@ III.- Apoyar servicios de investigación y asesoría en materia de gestión coop
 
 IV.- Promover el financiamiento ante las instancias públicas y privadas correspondientes para la producción, comercialización e inversión.
 
-D).- A la Secretaría de Finanzas y Administración:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+D).- A la Secretaría de Finanzas Públicas:
 
 I.- Aplicar y ejecutar los estímulos fiscales en los términos de la presente Ley, las autoridades y el Código Fiscal.
 
@@ -319,9 +327,13 @@ En los programas operativos anuales y en el Presupuesto de Egresos del Estado, q
 
 Las sociedades cooperativas gozarán de la exención de impuestos, contribuciones y derechos a las que estén obligadas durante su primer año de existencia, sin perjuicio de las declaratorias que al respecto emita el Gobernador, siempre que cumpla con los requisitos que se establezcan de conformidad con lo siguiente:
 
-I.- Las sociedades cooperativas de consumidores dedicadas a suministrar exclusivamente a sus socios, víveres, ropa, calzado, mientras el capital no exceda de 170 días de salario mínimo vigente;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-II.- Las sociedades cooperativas de productores, mientras el capital social no exceda de 260 días de salario mínimo vigente y estén integradas en su totalidad por obreros o campesinos o por los dos. Para efectos del siguiente artículo no se contabilizara como parte del capital de la sociedad, el capital amortizado de los muebles, maquinaria y demás bienes necesarios para los fines económicos de la sociedad cooperativa; y
+I.- Las sociedades cooperativas de consumidores dedicadas a suministrar exclusivamente a sus socios, víveres, ropa, calzado, mientras el capital no exceda de 268 veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+II.- Las sociedades cooperativas de productores, mientras el capital social no exceda de 412 veces la Unidad de Medida y Actualización y estén integradas en su totalidad por obreros o campesinos o por los dos. Para efectos del siguiente artículo no se contabilizará como parte del capital de la sociedad, el capital amortizado de los muebles, maquinaria y demás bienes necesarios para los fines económicos de la sociedad cooperativa; y
 
 III.- Las sociedades cooperativas a las que se refiere el artículo anterior, exceda el limite señalado, sin que sobrepase el doble de las sumas indicadas, cubrirá el 70% de los impuestos, contribuciones y derechos que estén obligadas a cubrir.
 
@@ -362,3 +374,11 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 6 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
