@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2021-12-22"
+last_updated: "2021-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -889,9 +889,11 @@ V. La persona designada para ocupar el cargo, protestará ante el Pleno del Cong
 
 En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Titular de la Auditoría Superior del Estado, haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso del Estado, se volverá a someter una nueva propuesta en los términos del artículo anterior y su nombramiento deberá hacerse necesariamente de entre alguno de los propuestos. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 75.
 
-El Titular de la Auditoría Superior del Estado durará en el encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido por el Congreso por las causas a que refiere el artículo 93 de esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado, en materia de responsabilidades. Si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
+El titular de la Auditoría Superior del Estado durará en el encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido por el Congreso por las causas a que refiere el artículo 81 de esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado, en materia de responsabilidades. Si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
 
 ###### ARTÍCULO 76.
 
@@ -1390,3 +1392,11 @@ P.O. 22 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0254.- REFORMA EL ARTÍCULO 75 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
