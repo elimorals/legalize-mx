@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2019-12-16"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -67,23 +67,23 @@ Todos los reglamentos, decretos, acuerdos, circulares y demás disposiciones que
 
 Tratándose de la promulgación y publicación de las leyes o decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del titular de la Secretaría General de Gobierno.
 
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 5.
 
-El Gobernador del Estado contará con el apoyo directo de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, a fin (sic) realizar las tareas de elaboración, seguimiento y evaluación permanente de las políticas públicas, sin perjuicio de las atribuciones que ejercen las dependencias de la administración pública estatal en el ámbito de sus respectivas competencias.
+El Gobernador del Estado contará con el apoyo directo de la Jefatura de la oficina del Ejecutivo a fin (sic) realizar las tareas de elaboración, integración, seguimiento y evaluación permanente de las políticas públicas, sin perjuicio de las atribuciones que ejercen las dependencias de la administración pública estatal en el ámbito de sus respectivas competencias.
 
 > <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 El Gobernador del Estado podrá contar con otras unidades administrativas de apoyo directo para el despacho de los asuntos y facultades que la Ley le señala.
 
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 6.
 
-El Gobernador del Estado designará al Jefe de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, quien tendrá a su cargo las unidades de asesoría, comunicación, apoyo técnico, coordinación, control administrativo y gubernamental que se requieran para el desempeño de sus funciones.
+El Gobernador del Estado designará al Jefe de la Oficina del Ejecutivo, quien tendrá a su cargo las unidades de asesoría, transparencia, comunicación, apoyo técnico, coordinación, control administrativo y gubernamental que se requieran para el desempeño de sus funciones.
 
-Asimismo, el Gobernador del Estado podrá establecer oficinas de representación fuera del propio territorio estatal, conforme al presupuesto que se autorice y con apego a la ley.
+El Gobernador del Estado podrá establecer oficinas de representación dentro y fuera del propio territorio estatal, conforme al presupuesto que se autorice y con apego a la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -143,25 +143,27 @@ Se publicarán en el boletín oficial del Gobierno del Estado aquellos convenios
 
 La administración pública del Estado tendrá a su cargo la prestación de los servicios públicos que las leyes establezcan. Dicha prestación solo podrá concesionarse en los términos, modalidades, condiciones y mediante las formalidades que expresamente determinen los ordenamientos y disposiciones legales que los regulen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 16.
 
-Para el despacho, estudio y planeación de los asuntos que correspondan a los diversos ramos de la administración pública estatal, auxiliarán al titular del Poder Ejecutivo, las siguientes dependencias:
+Para el despacho, estudio y planeación de los asuntos que correspondan a los diversos ramos de la administración pública estatal, auxiliarán al Titular del Poder Ejecutivo, las siguientes dependencias:
 
 I.- Secretaría General de Gobierno;
 
 II.- Secretaría de Finanzas y Administración;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-III.- Secretaría de Planeación Urbana, Infraestructura y Movilidad;
+III.- Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
 IV.- Secretaría de Educación Pública;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-V.- Secretaría de Turismo, Economía y Sustentabilidad;
+V.- Secretaría de Turismo y Economía;
 
 VI.- Secretaría de Salud;
 
@@ -169,9 +171,9 @@ VII.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
 VIII.- Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-IX.- Secretaría del Trabajo y Desarrollo Social;
+IX.- Secretaría del Trabajo, Bienestar y Desarrollo Social;
 
 X.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
@@ -451,9 +453,9 @@ XLIV. Integrar y mantener actualizado el padrón general de proveedores del Gobi
 
 XLV. Adquirir los bienes y servicios que requiera el Gobierno del Estado y proveer oportunamente a sus dependencias de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones, de conformidad con la planeación, programación y presupuestación que las mismas le remitan;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XLVI. Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, conjuntamente con las dependencias competentes; así como mantener actualizado el inventario de los mismos, con excepción de las reservas territoriales y predios sin construcción o edificación alguna, cuya actualización del inventario corresponderá a la Secretaria de Planeación Urbana, Infraestructura y Movilidad;
+XLVI. Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, conjuntamente con las dependencias competentes; así como mantener actualizado el inventario de los mismos, con excepción de las reservas territoriales y predios sin construcción o edificación alguna, cuya actualización del inventario corresponderá a la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales;
 
 XLVII. Coordinar los programas de conservación, mantenimiento y reparación de los bienes inmuebles del Gobierno del Estado, y
 
@@ -465,11 +467,11 @@ XLVIII. Coordinar la emisión de placas de circulación para el servicio privado
 
 XLIX. La demás que señalen las leyes aplicables.
 
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 23.
 
-A la Secretaría de Planeación Urbana, Infraestructura y Movilidad le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales, le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Promover el ordenamiento y la planeación territorial, como articuladores del bienestar de las personas y el uso eficiente del suelo;
 
@@ -507,9 +509,9 @@ X. Coadyuvar con los tres órdenes de gobierno, en la planeación y ejecución d
 
 XI. Intervenir en los procedimientos de planeación, programación, presupuestación, adjudicación y contratación de la obra pública, en coordinación con las demás dependencias y entidades del Gobierno del Estado que participen en dichos procedimientos;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XII. Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas y los servicios relacionados con las mismas, autorizadas por el Gobierno del Estado y ejecutadas por la Secretaría de Planeación Urbana, Infraestructura y Movilidad, incluyendo aquellas encomendadas por acuerdo expreso del Gobernador del Estado;
+XII. Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas y los servicios relacionados con las mismas, autorizadas por el Gobierno del Estado y ejecutadas por la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales, incluyendo aquellas encomendadas por acuerdo expreso del Gobernador del Estado;
 
 XIII. Coadyuvar en la conservación del patrimonio histórico y cultural en coordinación con las autoridades federales, estatales y municipales;
 
@@ -531,7 +533,45 @@ XVIII. Revisar las solicitudes de las concesiones para la prestación del servic
 
 XIX. Contribuir, en coordinación con las demás autoridades competentes, en el cumplimiento de la legislación estatal aplicable en materia de movilidad;
 
-XX. Las demás que le señalen las leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XX. Ejecutar las facultades que en materia de ecología le otorgan al Gobernador del Estado, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Equilibrio Ecológico y la Protección al (sic) Ambiente del Estado de Baja California Sur y su reglamento; así como la Ley de Aguas del Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXI. Proponer, conducir y evaluar las políticas y programas relativos al medio ambiente en coordinación con las entidades competentes, de conformidad con los Planes Nacional y Estatal de Desarrollo;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXII. Fomentar el aprovechamiento sustentable de los recursos naturales;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXIII. Aplicar y en su caso coordinar los instrumentos de política ambiental previstos en la legislación ambiental local, que procuren la conservación y restauración del equilibrio ecológico y la protección al ambiente que se realice en bienes y zonas de jurisdicción estatal;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXIV. Promover, en coordinación con las entidades competentes, la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y programas ambientales, mediante un sistema permanente de información sobre los ecosistemas y su equilibrio;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXV. Proponer al Gobernador del Estado el establecimiento de medidas de protección para las áreas naturales protegidas de la entidad;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXVI. Presentar al titular del Ejecutivo, la información necesaria a efecto de que este pueda decretar las “zonas de salvaguarda para la prevención de la contaminación” en la entidad;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXVII. Promover la suscripción de convenios de coordinación que tengan por objeto la participación del Estado en la ejecución de acciones y programas en materia de medio ambiente y aprovechamiento de los recursos naturales, así como ejercer las atribuciones que deriven de los mismos;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXVIII. Ejerce las facultades que, en materia de protección, preservación y aprovechamiento sustentable de los recursos naturales, le otorgan al Gobernador del Estado, la Ley de Equilibrio Ecológico y Protección del Ambiente del Estado y su Reglamento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXIX. Las demás que le señalen las leyes aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -587,39 +627,69 @@ XX. Coordinar el funcionamiento del Patronato del Estudiante Sudcaliforniano, en
 
 XXI. Las demás que le señalen las leyes aplicables.
 
-> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-A la Secretaría de Turismo, Economía y Sustentabilidad le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría de Turismo y Economía le corresponde el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 I. Establecer, conducir, supervisar y difundir, en coordinación con las autoridades competentes, las políticas generales, sectoriales, programas, proyectos e instrumentos necesarios para el desarrollo, promoción y fomento de las actividades turísticas, económicas y productivas en la entidad, considerando las propuestas de los sectores social y privado, así como las que formulen las demás dependencias de la administración pública estatal, paraestatal y municipal;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 II. Promover la organización de prestadores de servicios de todo tipo, constitución de cooperativas, creación de parques industriales y centros comerciales;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 III. Apoyar, controlar y supervisar, en coordinación con las dependencias competentes y de acuerdo con las leyes, reglamentos y acuerdos en la materia, los servicios turísticos de transporte, hospedaje, alimentación y similares que se presten en el Estado;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 IV. Instrumentar, mantener y operar los sistemas de información estadística relacionados con el turismo y la actividad económica estatal;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 V. Planear y presupuestar los programas de desarrollo regional desconcentrados al Gobierno del Estado, estableciendo, en coordinación con la Contraloría General, los mecanismos de control y evaluación de ejercicio presupuestal de los mismos;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 VI. Otorgar incentivos, apoyos y subsidios a las empresas, atendiendo a lo dispuesto a la ley de la materia y sus disposiciones administrativas;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 VII. Promover y, en su caso, organizar con el apoyo de las autoridades competentes o sectores involucrados, congresos, seminarios, ferias, exposiciones y otros eventos sobre desarrollo económico o que fomenten las tradiciones, la cultura, el deporte y los atractivos turísticos del Estado.
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 VIII. Participar en las actividades de la entidad paraestatal encargada, entre otros objetivos, de establecer mecanismos de apoyo financiero para fortalecer las actividades turísticas, sociales y productivas, con el fin de fortalecer la capacidad del Gobierno Estatal para apoyar el desarrollo de la economía de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 IX. Proponer, orientar y estimular el desarrollo de la micro, pequeña y medianas empresas y fomentar la organización de la producción económica de los artesanos, las industrias familiares, rurales y urbanas, incluyendo prestadores de servicios turísticos; así como promover el desarrollo de centros y sistemas comerciales en el Estado;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 X. Proponer al Gobernador del Estado políticas, programas y proyectos relativos al fomento de la actividad turística, y el fortalecimiento de las actividades económicas contextualizadas en el desarrollo sustentable, privilegiando su calidad y competitividad;
 
-XI. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordenamientos federales y estatales, aplicables en materia de turismo, fomento económico y desarrollo sustentable;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XI. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordenamientos federales y estatales, aplicables en materia de turismo y fomento económico;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XII. Administrar y en su caso, concesionar de conformidad con las disposiciones legales aplicables, los servicios comerciales y de apoyo al turista en aquellos lugares que por su importancia histórica, cultural, social o ambiental se ubiquen en los principales puntos de aforo o concentración y participar en los ingresos provenientes de los mismos, con la finalidad de que se contribuya a la mejora, ampliación y modernización de esos sitios y de la infraestructura turística, todo ello con criterios de desarrollo sustentable, equilibrio ecológico y potencialidad en el uso de los recursos;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XIII. Realizar, en coordinación con la Secretaría de Planeación Urbana, Infraestructura y Movilidad, obras públicas en materia de infraestructura turística, de manera directa o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Baja California Sur y demás disposiciones aplicables;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XIV. Formular y ejecutar la política, criterios y normas técnicas ecológicas ambientales aplicables en el Estado, en forma congruente con los que, en su caso, formule la Federación y aplicar en la esfera de su competencia, la Ley de Equilibrio Ecológico y Protección del Ambiente del Estado de Baja California Sur, y sus reglamentos, y
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XV. Las demás que le señalen las leyes aplicables.
 
@@ -739,9 +809,17 @@ XXII. Establecer contacto con organismos no gubernamentales interesados en la in
 
 XXIII. Coordinarse con las áreas de desarrollo social de los municipios del Estado;
 
-XXIV. Apoyar las acciones de aquellos organismos públicos y privados que desarrollen actividades de bienestar y asistencia social en beneficio de los habitantes de la entidad;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN EL B.O. 27 DE DICIEMBRE DE 2021, PÁGINA 144.]</small>
 
-XXV. Fomentar la participación de las instituciones académicas, de investigación de organizaciones no gubernamentales y de la sociedad en general, en el desarrollo e instrumentación de estrategias para superar rezagos sociales e impulsar el bienestar social de la población;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXIV. Fomentar la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general, en el desarrollo y ejecución de estrategias en el combate a la pobreza y el mejoramiento del bienestar de la población;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN EL B.O. 27 DE DICIEMBRE DE 2021, PÁGINA 144.]</small>
+
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXV. Impulsar las políticas públicas y el seguimiento de las mismas, para dar apoyo a la inclusión y participación de los jóvenes en vida social y productiva;
 
 XXVI. Concertar programas y, apoyar las actividades de bienestar y desarrollo social de los particulares, grupos intermedios y organismos no gubernamentales que actúan en el estado;
 
@@ -831,9 +909,9 @@ XXXIII. Conocer e investigar las conductas de los servidores públicos de la Adm
 
 XXXIV. Establecer mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XXXV. Emitir conjuntamente, según corresponda, con la Secretaría de Finanzas y Administración y con la Secretaría de Planeación Urbana, Infraestructura y Movilidad los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios, así como por la Ley de Obras Públicas y Servicios Relacionados con las mismas, ambas del Estado; así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal;
+XXXV. Emitir conjuntamente, según corresponda, con la Secretaría de Finanzas y Administración y con la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios, así como por la Ley de Obras Públicas y Servicios Relacionados con las mismas, ambas del Estado; así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal;
 
 XXXVI. Emitir los lineamientos generales o guías para la elaboración por parte de las dependencias estatales de los manuales, lineamientos, acuerdos y demás instrumentos legales que sean necesarios a las dependencias y entidades de la Administración Pública del Estado, respecto a que se ajusten a las normas emitidas por la propia Contraloría en el ámbito de su competencia;
 
@@ -1290,3 +1368,43 @@ B.O. 16 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2809 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de enero de 2022, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas y Administración deberá llevar a cabo los ajustes necesarios en el Presupuesto de Egresos del Estado de Baja California Sur correspondiente al ejercicio fiscal del año 2022 para los recursos financieros asignados al ámbito competencial relativo a la sustentabilidad sean incluidos en la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos y materiales que actualmente forman parte de la Subsecretaría de Sustentabilidad perteneciente a la Secretaría de Turismo, Economía y Sustentabilidad pasarán a formar parte de la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que con motivo del presente decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los realicen se incorporen a la dependencia que señala la ley, a excepción de los que sean urgentes o estén sujetos a plazos improrrogables.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en otras leyes u ordenamientos se otorgue denominación distinta a alguna dependencia cuyas funciones y facultades estén contempladas para otra secretaría así como las que se establezcan por convenios celebrados con autoridades federales y municipales, dicha competencia se entenderá concedida a las dependencias que se determinan en el presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las dependencias del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a su reglamentación interna respectiva para ajustarlos a la presente reforma de Ley, en un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto se expiden los reglamentos a que refiere el artículo transitorio anterior, continuarán vigentes los actuales en lo que no se opongan al presente decreto, confiriendo al Titular del Poder Ejecutivo la facultad para resolver las cuestiones que surjan en tanto se expidan las modificaciones a los reglamentos respectivos.
+
+###### ARTÍCULO OCTAVO.
+
+Se instruye a la Secretaría de Finanzas y Administración a realizar los trámites administrativos y financieros para el cumplimiento de lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
