@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2021-09-13"
+last_updated: "2021-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -1287,6 +1287,10 @@ I.- Garantizar y vigilar que el Sistema Educativo Estatal, dé cumplimiento a la
 
 II.- Planear, dirigir, coordinar, vigilar y evaluar la política educativa así como los servicios educativos a cargo del Estado, municipios, organismos descentralizados y desconcentrados de la Administración Pública Estatal y de los particulares con autorización o reconocimiento de validez oficial de estudios en todos los tipos, niveles y modalidades;
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+II Bis.- Diseñar e implementar políticas y programas para contribuir a la eliminación, prevención y atención de la deserción escolar, ya sea parcial o total, en el sistema educativo estatal, desde el nivel básico hasta el superior.
+
 III.- Regular la prestación de los servicios de educación inicial, básica, incluyendo la indígena; especial; para adultos; media superior; superior; normal y demás para la formación y actualización de maestros de educación básica, de conformidad con las disposiciones generales que la autoridad educativa federal determine;
 
 IV.- Diseñar y establecer mecanismos que aseguren la participación social en el sector educativo;
@@ -1948,3 +1952,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 773 MEDIANTE EL CUAL SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 5 QUE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
