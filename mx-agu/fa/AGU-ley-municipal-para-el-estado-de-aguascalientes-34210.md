@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2021-08-02"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -351,7 +351,9 @@ El procedimiento que seguirá el Congreso del Estado, se estará a lo dispuesto 
 
 Los Ayuntamientos tienen como función general el gobierno del Municipio y como atribuciones y facultades las siguientes:
 
-I. Aprobar y expedir reglamentos, Bando Municipal, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la moralidad y salubridad públicas y la participación ciudadana y vecinal, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I. Aprobar y expedir reglamentos, Bando Municipal, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la moralidad y salubridad públicas y la participación ciudadana y vecinal, así como en materia de movilidad y seguridad vial, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
 
 II. Señalar en sus reglamentos y bandos, las sanciones a que se sujetarán los infractores, cuidando que las mismas se ejecuten;
 
@@ -2620,3 +2622,11 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 23.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 71 Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
