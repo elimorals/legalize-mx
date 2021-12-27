@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-para-el-desarrollo-y-fortalecimiento-84142"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2011-12-05"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -39,7 +39,9 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -89,21 +91,45 @@ XI.- Secretario Técnico: Secretario o Secretaria Técnico del Instituto.
 
 El domicilio del Instituto será la Ciudad de Pachuca de Soto, Hidalgo, sin perjuicio de que pueda establecer representaciones regionales en aquellas zonas de la Entidad que requieran atención particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-El Instituto orientará el cumplimiento de sus objetivos bajo los siguientes principios rectores:
+El Instituto orientará el cumplimiento de sus objetivos bajo los siguientes principios:
 
 I.- Respeto pleno a la Autonomía Municipal;
 
-II.- Desarrollo integral de los Municipios a través de la articulación de políticas públicas, programas y acciones de los Gobiernos Federal, Estatal y Municipal, que favorezcan o que propicien el adecuado aprovechamiento de los recursos, así como su racionalización, optimización y rendición de cuentas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-III.- Fortalecimiento y modernización de la Administración Pública Municipal;
+II.- Libre autodeterminación de los pueblos y comunidades indígenas;
 
-IV.- Atención a las políticas públicas con perspectiva de género y con respecto a los derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-V.- Promoción de la participación ciudadana, para procurar la intervención de la sociedad en la toma de decisiones; seguimiento y evaluación de las políticas públicas, programas y acciones Municipales, Estatales y Federales; y
+III.- Transparencia y acceso a la información con máxima publicidad;
 
-VI.- Fomento de la cultura de la transparencia y acceso a la información.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV.- Fortalecimiento, modernización, organización y funcionamiento de buen gobierno;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V.- Perspectiva de género y respecto a los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VI.- Sostenibilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VII.- Igualdad;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Participación ciudadana; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IX.- Fiscalización, control, imparcialidad, eficiencia y eficacia en el manejo de los recursos públicos.
 
 ## TITULO SEGUNDO
 
@@ -580,3 +606,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 8 QUE REFORMA EL ARTÍCULO 5 DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
