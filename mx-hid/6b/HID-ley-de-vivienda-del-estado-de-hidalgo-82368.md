@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2021-09-13"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -231,7 +231,9 @@ I. Establecer la política estatal en materia de vivienda, de conformidad con lo
 
 II. Formular y aprobar el Programa Sectorial de Vivienda, en congruencia con los lineamientos de la política nacional, estatal y municipal;
 
-III. Celebrar convenios con la Federación, con otras entidades federativas, con los Municipios del Estado y con personas físicas o morales, con el objeto de coordinar los programas y acciones de suelo y vivienda;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+III. Celebrar convenios con la Federación, con otras entidades federativas, con los Municipios del Estado y con personas físicas o morales, con el objeto de coordinar los programas y acciones de suelo y vivienda bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana, sustentabilidad ambiental y vivienda sustentable;
 
 IV. Realizar la planeación, programación y presupuestación de acciones de vivienda, en beneficio de la población que carezca de ellas;
 
@@ -255,7 +257,9 @@ I. Fijar la política municipal en materia de vivienda en congruencia con esta L
 
 II. Formular, aprobar y administrar el Programa Municipal de Vivienda, de conformidad con los lineamientos de las políticas nacional y estatal;
 
-III. Celebrar convenios con la Federación, el Estado, con los Municipios de éste y de otras entidades federativas, previa autorización del Congreso del Estado de Hidalgo, así como con personas físicas o morales con el objeto de coordinar los programas y acciones de suelo y vivienda;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+III. Celebrar convenios con la Federación, el Estado, con los Municipios de éste y de otras entidades federativas, previa autorización del Congreso del Estado de Hidalgo, así como con personas físicas o morales con el objeto de coordinar los programas y acciones de suelo y vivienda; bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana, sustentabilidad ambiental y vivienda sustentable;
 
 IV. Realizar la planeación, programación y presupuestación de acciones de vivienda, en beneficio de la población que carezca de ellas;
 
@@ -307,7 +311,9 @@ VIII. Promover y concertar la participación de los sectores público, social y 
 
 IX. Proponer acciones concretas sobre la oferta de vivienda, acorde con la capacidad adquisitiva y características socioeconómicas de los beneficiarios;
 
-X. Asesorar a los Municipios que lo soliciten, en la elaboración y ejecución de programas de vivienda;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+X. Asesorar a los Municipios que lo soliciten, en la planeación, gestión de recursos, elaboración y ejecución de programas de vivienda, así como, en la ejecución de acciones en materia de suelo y vivienda.
 
 XI. Solicitar al Ejecutivo del Estado, cuando exista causa de utilidad pública, la expropiación de los bienes inmuebles, para integrar las reservas territoriales destinadas a la vivienda;
 
@@ -347,9 +353,13 @@ I. La Secretaría de Obras Públicas y Ordenamiento Territorial;
 
 II. La Secretaría de Desarrollo Social;
 
-III. La Secretaría de Planeación, Desarrollo Regional y Metropolitano;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-IV. La Secretaría de Finanzas y Administración;
+III. Unidad de Planeación y Prospectiva;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV. Secretaría de Finanzas Públicas;
 
 V. La Secretaria de Medio Ambiente y Recursos Naturales;
 
@@ -367,17 +377,29 @@ El Consejo Estatal de Vivienda estará integrado por:
 
 I. El Gobernador del Estado quien lo presidirá;
 
-II. El Director General de la Comisión, quien será el Secretario Técnico;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-III. El Secretario de Planeación, Desarrollo Regional y Metropolitano, quien será el Secretario Ejecutivo;
+II. El Titular de la Dirección General de la Comisión, quien será el Secretario Técnico;
 
-IV. El Secretario de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-V. El Secretario de Obras Públicas y Ordenamiento Territorial;
+III. El Titular de la Unidad de Planeación y Prospectiva, quien será el Secretario Ejecutivo;
 
-VI. El Secretario de Contraloría y Transparencia Gubernamental;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-VII. El Secretario de Medio Ambiente y Recursos Naturales;
+IV. El Titular de la Secretaría de Finanzas Públicas;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V. El Titular de la Secretaría de Obras Públicas y Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VI. El Titular de la Secretaría de Contraloría;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VII. El Titular de la Secretaría de Medio Ambiente y Recursos Naturales;
 
 VIII. Dependencias y Entidades Federales y Estatales involucradas;
 
@@ -517,7 +539,9 @@ III. El Presupuesto de Egresos del Estado y de los Municipios
 
 La programación y presupuestación anual de la política de vivienda en los términos señalados en esta Ley, será responsabilidad de:
 
-I. La Secretaría, la Secretaría de Finanzas y Administración y la Comisión, en sus respectivos ámbitos de competencia; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I. La Secretaría, la Secretaría de Finanzas Publicas y la Comisión, en sus respectivos ámbitos de competencia; y
 
 II. El Municipio y la Dependencia u Organismo de la Administración Pública Municipal competente en su caso, de conformidad con sus atribuciones específicas.
 
@@ -553,9 +577,11 @@ La aplicación de recursos públicos para la vivienda en el Estado, tiene por ob
 
 El Estado y los Municipios a través de las dependencias y organismos estatales y municipales, implementarán mecanismos y acciones para captar y destinar recursos presupuestales, subsidios, ahorros y financiamientos internos o externos, para los diversos programas de vivienda, que respondan a las necesidades en esta materia de los distintos sectores de la población, preferentemente la de bajos recursos económicos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 28.
 
-La presupuestación para las acciones de vivienda que utilicen fondos del Estado, deberán ser dictaminadas por la Secretaría de Finanzas y Administración, de manera previa a la aprobación por el Ejecutivo del Estado.
+La presupuestación para las acciones de vivienda que utilicen fondos del Estado, deberán ser dictaminadas por la Secretaría de Finanzas Públicas, de manera previa a la aprobación por el Ejecutivo del Estado.
 
 ###### Artículo 29.
 
@@ -1064,3 +1090,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 743 QUE REFORMA EL ARTÍCULO 4; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 7 QUE REFORMA LAS FRACCIONES III DE LOS ARTÍCULOS 7 Y 8; LA FRACCIÓN X DEL ARTÍCULO 10; LAS FRACCIONES III Y IV DEL ARTÍCULO 11; LAS FRACCIONES II, III, IV, V, VI Y VII DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 22, Y EL ARTÍCULO 28, TODOS DE LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del primero de enero de 2022.
