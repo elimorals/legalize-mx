@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-adquisicion-de-bienes-inmuebles-de-83370
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-03"
-last_updated: "2020-12-23"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 74 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 3 de octubre de 2011.
 
@@ -45,11 +45,11 @@ LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de observancia general en los Municipios de Bacalar, Felipe Carrillo Puerto y Lázaro Cárdenas del Estado de Quintana Roo y tiene por objeto establecer las bases para el cobro del Impuesto Sobre Adquisición de Bienes Inmuebles.
+La presente Ley es de observancia general en los Municipios de Felipe Carrillo Puerto y Lázaro Cárdenas del Estado de Quintana Roo y tiene por objeto establecer las bases para el cobro del Impuesto Sobre Adquisición de Bienes Inmuebles.
 
 ###### Artículo 2.
 
@@ -310,5 +310,13 @@ P.O. 23 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 080 POR EL QUE SE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS, DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMA EL ARTÍCULO 1 DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 201 POR EL QUE SE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR, DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL ARTÍCULO 1 DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
