@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2020-12-30"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -699,15 +699,19 @@ LII. Promover la investigación y el desarrollo de tecnologías que permitan pre
 
 LIII. Prevenir, controlar y abatir la contaminación generada por el uso de popotes y bolsas de uso único de material polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-LIV. Convenir con los Municipios y la Secretaría de Salud para generar, actualizar y difundir, conforme a los ordenamientos aplicables, una base de datos de los prestadores de servicios funerarios de cremación que operan en el Estado, la cual se integrará al Sistema Estatal de Información Ambiental y de Recursos Naturales. Dichos convenios deberán contener las bases mínimas que garanticen el intercambio de información y la periodicidad para que esta sea vigente.
+LIV. Convenir con los Municipios y la Secretaría de Salud, para generar, actualizar y difundir, conforme a los ordenamientos aplicables, una base de datos de los prestadores de servicios funerarios de cremación que operan en el Estado, la cual se integrará al Sistema Estatal de Información Ambiental y de Recursos Naturales. Dichos convenios deberán contener las bases mínimas que garanticen el intercambio de información y la periodicidad para que esta sea vigente.
 
-En materia de protección al ambiente de las emisiones que se generen por estos servicios la Secretaría establecerá la reglamentación que señale los requisitos y sanciones que correspondan; y
+En materia de protección al ambiente de las emisiones que se generen por estos servicios la Secretaría establecerá la reglamentación que señale los requisitos y sanciones que correspondan;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-LV. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
+LV. Promover, Impulsar y realizar campañas permanentes encaminadas a la separación, reutilización, y reciclado de los residuos sólidos; así como promover la educación ambiental de la población para controlar y separar los residuos desde la casa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+LVI. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
 
 ###### Artículo 9.
 
@@ -785,9 +789,17 @@ XXIX. Llevar a cabo el manejo, tratamiento y disposición final de los residuos 
 
 XXX. Expedir los Bandos de Policía y Buen Gobierno, sus Reglamentos, y disposiciones administrativas para coadyuvar con el cumplimiento de la presente Ley;
 
-XXXI. Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los materiales utilizados por los servidores públicos en las diversas dependencias municipales así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos municipales, la educación ambiental y el fortalecimiento de una cultura ecológica; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XXXII. Las demás atribuciones que les otorgue la presente Ley u otros ordenamientos aplicables a la materia.
+XXXI. Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los materiales utilizados por los servidores públicos en las diversas dependencias municipales, así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos municipales, la educación ambiental y el fortalecimiento de una cultura ecológica;
+
+> <small>(REFORMADA[N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXXII. Llevar a cabo las políticas públicas y, en conjunto con el Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos, las estrategias, programas, proyectos y acciones encaminadas a la separación, reutilización y reciclado de los residuos sólidos de conformidad con la ley de la materia; así como promover la educación ambiental de la población para controlar y separar los residuos desde la casa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXXIII. Las demás atribuciones que les otorgue la presente Ley u otros ordenamientos aplicables a la materia.
 
 #### SECCIÓN I. COORDINACIÓN DE AUTORIDADES
 
@@ -4114,3 +4126,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 025. SE REFORMAN LAS FRACCIONES LIV Y LV DEL ARTÍCULO 8, Y LAS FRACCIONES XXXI Y XXXII DEL ARTÍCULO 9; Y SE ADICIONAN LAS FRACCIONES LVI AL ARTÍCULO 8 Y LA XXXIII AL ARTÍCULO 9, TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
