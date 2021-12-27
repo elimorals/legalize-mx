@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2021-03-06"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -1243,7 +1243,9 @@ II. Establecer y desarrollar los programas que estime convenientes y necesarios,
 
 III. Planear, normar, establecer, coordinar y evaluar el Sistema Estatal de Salud, en coordinación con instituciones de salud públicas, sociales y privadas;
 
-IV. Implementar y fortalecer el Sistema Estatal de Protección Social de Salud en el Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV. Celebrar acuerdos de coordinación con el Instituto de Salud para el Bienestar para la ejecución de la prestación de servicios de salud para las personas sin seguridad social, de conformidad con la Ley General de Salud; y en su caso, acordar con la Secretaría de Salud de la Federación que ésta, por sí, a través, o en coordinación con las entidades de su sector coordinado, se haga cargo de organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general que corresponden al Estado;
 
 V. Planear, promover, apoyar y vigilar los servicios de atención médica y sus auxiliares de diagnóstico y terapéutico, que realicen las instituciones públicas, privadas y sociales en los términos de las leyes respectivas;
 
@@ -2112,6 +2114,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 6 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1137.- SE ADICIONA AL ARTÍCULO 8° EL PÁRRAFO TERCERO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0252.- SE REFORMA EL ARTÍCULO 41 TER EN SU FRACCIÓN IV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 4º EN SUS FRACCIONES, XX, Y XXI, 13 EN EL APARTADO A SU FRACCIÓN II, 27 BIS EN SU FRACCIÓN V, 30, Y 51 EN SU FRACCIÓN I; ADICIONA A LOS ARTÍCULOS, 4º EN SUS FRACCIONES, XXII A XXV, 5º EN SU APARTADO A LA FRACCIÓN II BIS, Y EL TÍTULO TERCERO BIS “DE LA PRESTACIÓN DE SERVICIOS DE SALUD, MEDICAMENTOS Y DEMÁS INSUMOS ASOCIADOS PARA LAS PERSONAS SIN SEGURIDAD SOCIAL” CON EL ARTÍCULO 67 SEPTIES; Y DEROGA EL TÍTULO DÉCIMO PRIMERO Y SUS CAPÍTULOS I, II, III, V, VI, VII, Y VIII, ASÍ COMO LOS ARTÍCULOS, 151, 152, 152 BIS, 153 A 163, Y 165 A 178 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
