@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-132100"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 31 de diciembre de 2018.
 
@@ -5136,3 +5138,75 @@ El 35 por ciento de honorarios referidos en la fracción I, inciso a), numerales
 ###### ARTÍCULO QUINTO.
 
 Los ingresos a que se refiere el artículo 137 bis se cobrarán mediante el acuerdo de coordinación correspondiente entre la Secretaría de Finanzas y Administración y la Fiscalía General del Estado, y se entregarán a esta última como recursos propios.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° primero de enero del año 2022 dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Hacienda del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 31 de diciembre de 2018.
+
+Los procedimientos que hasta antes de la entrada en vigor del presente Decreto se encuentren en trámite de una causa por la vía procesal, se sujetarán a las disposiciones señaladas por la Ley de Hacienda del Estado de Michoacán de Ocampo, vigente al 31 de diciembre del año 2021.
+
+TERCERO. Respecto a la Ley de Ingresos contenida en el Apartado Tercero del presente Decreto:
+
+a) Los ingresos de origen federal que percibirá el Gobierno del Estado, referidos en el artículo 1° codificación numeral 8.1, 8.2, 8.3, 8.4 y 8.5, podrán modificarse conforme a lo siguiente:
+
+I. Los montos de Participaciones en Ingresos Federales referidos en el numeral 8.1, estarán sujetos a lo que se publique en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022;
+
+II. Los montos de los Fondos de Aportaciones Federales referidos en el numeral 8.2, estarán sujetos a lo que señale el Decreto de Presupuesto de Egresos de la Federación para el Año 2022;
+
+III. Los montos de los Convenios de Reasignación de Recursos, referidos en el numeral 8.3, se sujetarán a los importes que efectivamente se acuerde por las partes y se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal sujetos por (sic) a los montos previstos para tal efecto. Dichos montos fueron determinados de conformidad con lo dispuesto por el Artículo 5° de la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios;
+
+IV. Los montos de los Incentivos derivados de la Colaboración Fiscal, referidos en el numeral 8.4, se sujetarán a los importes que efectivamente se determinen y recauden;
+
+V. Los montos de los Fondos Distintos de Aportaciones, referidos en el numeral 8.5, se sujetarán a los importes que efectivamente se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal.
+
+Al conocerse los montos referidos, la Secretaría de Finanzas y Administración los incorporará en el trimestre fiscal respectivo, que formará parte de la Cuenta Pública de la Hacienda Estatal, para el Ejercicio Fiscal del Año 2022.
+
+b) Con respecto a los ingresos, de ser necesario, el Titular del Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, podrá emitir disposiciones administrativas de carácter general, las cuales tendrán como propósito facilitar y simplificar el cumplimiento de las obligaciones establecidas en la presente Ley;
+
+c) Cuando algún gravamen no se encuentre previsto en esta ley, pero se establezca en alguna ley, acuerdo, o reglamento estatal respectivamente, éste se causará, liquidará y pagará conforme a lo señalado por estos últimos. Asimismo, cuando en alguna ley, acuerdo o reglamento se establezca alguno de los ingresos previstos en esta ley, y además los primeros señalen otros ingresos no considerados en esta última, se podrán aplicar con las cuotas relativas a los servicios con los que guarden mayor semejanza;
+
+d) El 35 por ciento de honorarios referidos en esta ley, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su Dirección de Contabilidad;
+
+e) Por lo que corresponde a las tres primeras columnas (lado izquierdo) del Artículo 1° de esta Ley, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado;
+
+f) Con motivo del Canje General de placas que se llevará a cabo durante el ejercicio fiscal del año 2022, se hace del conocimiento a los propietarios de los vehículos de servicio público, particular y de motocicletas, que el plazo para llevar a cabo dicho canje, y todos aquellos pagos relacionados con la posesión de su vehículo de servicio público, particular y motocicleta, será de seis meses, a partir del 1° de enero hasta el 30 de junio del año 2022.
+
+El plazo referido en el párrafo inmediato anterior, tratándose de vehículos de transporte público, considera también todos aquellos derechos señalados en el Artículo 19 de esta Ley, relativos a los Derechos por Servicios de Transporte Público;
+
+g) A partir del primero de enero del 2022 y hasta el treinta y uno de enero del mismo año, el Titular del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración, aplicará un descuento del 30 treinta por ciento al pago de derechos por canje general de placas, incluyendo tarjeta de circulación. Durante el mes de febrero, el descuento en la misma materia será del 20 veinte por ciento, y durante el mes de marzo el 10 por ciento, todos del año 2022.
+
+Se condonan los derechos que se causen por la expedición de permisos de circulación, para vehículos del servicio particular, público y motocicletas, en el supuesto de que al hacer el pago referido en el párrafo anterior, la Secretaría de Finanzas y Administración carezca de láminas con las cuales se pueda concretar la prestación de dicho servicio;
+
+h) Los propietarios y poseedores de vehículos extranjeros que se encuentren circulando en el estado, en los términos del segundo párrafo del artículo 42 de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo, pagarán por única ocasión, los derechos por inscripción al Registro Único de Vehículos Extranjeros ante la Secretaría de Finanzas y Administración y serán por la cuota equivalente al derecho por concepto de holograma de circulación; y,
+
+i) Durante el mes de enero de 2022, adicional al descuento establecido en el inciso g) en materia de reemplacamiento y tarjeta de circulación, se hará un descuento en la misma materia: del 10% a los autos cuyo valor sea menor a los 100 mil pesos y mayor a 80 mil pesos; del 20% a los autos cuyo valor se menor a 80 mil pesos y mayor a 60 mil pesos; del 30% a los autos cuyo valor sea menor a 60 mil pesos y mayor a 50 mil pesos; y del 50 % a los autos con valor menor a 50 mil pesos; todos tomando como referencia el precio correspondiente a cada auto contenido en el libro azul del mes de diciembre de 2021. En caso de que el automóvil de que se trate no se encuentre en dicho libro, se tomará como referencia el auto de la misma marca más similar en tipo y más cercano al año o modelo.
+
+CUARTO. Se implementará el Programa «Ponte a Mano» del período comprendido del quince de enero al quince de marzo de 2022 en materia de Derechos de Control Vehicular, que consiste en la condonación de todos los derechos en materia de refrendo, placas de circulación vehicular y tarjeta de circulación, incluyendo sus accesorios, desde que se haya generado la obligación de pago y hasta el 2021, tanto a particulares como a concesionarios del servicio público siempre y cuando se dé cumplimiento a lo siguiente:
+
+1. Se pague dentro del período comprendido del quince de enero al quince de marzo de 2022, el derecho por concepto de placas, refrendo o ambos, según sea el caso.
+
+2. Se solicite la condonación por parte del particular.
+
+3. En caso de que en ejercicio de las facultades de comprobación en esta materia, las autoridades fiscales determinen créditos fiscales que se hubieren causado hasta el ejercicio fiscal de 2021, el contribuyente, podrán incorporarse a los beneficios referidos en el párrafo que antecede.
+
+4. Tratándose de créditos fiscales sobre la materia del presente programa, que hubiesen sido impugnados por algún medio de defensa, al momento de solicitar la condonación a que se refiere el numeral 2, el contribuyente deberá acompañar copia sellada del desistimiento correspondiente. Asimismo, en el supuesto de que se impugne el pago de los derechos correspondientes al ejercicio fiscal 2022, quedará sin efectos la condonación, y la autoridad podrá hacerlos exigibles a través del ejercicio de sus facultades.
+
+5. En el caso de que las autoridades fiscales hayan iniciado procedimiento administrativo de ejecución, con motivo de los créditos fiscales generados por concepto de los derechos a que se refiere el presente programa, este se suspenderá desde el momento de presentación de solicitud de condonación. Durante todo el periodo que dure la suspensión a que se refiere este párrafo, se interrumpirá el término para que se consuma la prescripción a que se refiere el artículo 127 del Código Fiscal del Estado de Michoacán de Ocampo, relacionado con los créditos fiscales correspondientes.
+
+6. En ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+7. La solicitud de condonación a que se refiere el presente programa, no constituirá instancia y las resoluciones que dicte la autoridad fiscal al respecto, no podrán ser impugnadas por los medios de defensa.
+
+8. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del presente programa de condonación, en su caso.
+
+Previo al cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, durante todo el Ejercicio Fiscal 2022, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista, mismas que se podrán expedir de manera digital.
+
+El monto del derecho a pagar por las citadas licencias será de $2,000.00 (Dos mil pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia durante todo el Ejercicio Fiscal 2022.
+
+QUINTO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo para su conocimiento, con los respectivos anexos.
+
+SEXTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. La Secretaría de Finanzas y Administración del Gobierno del Estado realizará las adecuaciones administrativas necesarias para dar cumplimiento al presente Decreto, incluidos los anexos que acompañan a esta Ley de Ingresos, conforme a las modificaciones realizadas por este Congreso del Estado.
