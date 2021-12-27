@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2019-12-20"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -2243,7 +2243,17 @@ j) Capacitación especializada a personal de Empresas de
 
 Seguridad Privada; $5,000.00
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+k) Constancia de identificación y situación jurídica
+
+vehicular $216.00
+
 Los derechos causados conforme a esta fracción, se deberán pagar los primeros quince días después de haber cumplido con los requisitos que para el registro le solicite al interesado la Secretaría de Seguridad Pública del Gobierno del Estado, cuando sea licencia de funcionamiento y cuando sea refrendo los primeros 30 días del mes de Enero. La capacitación que se menciona en ésta fracción será únicamente para aquellas empresas que cuenten con autorización por parte de la Secretaría de Seguridad Pública del Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Los ingresos obtenidos por la contraprestación prevista en el inciso k) de la fracción I del presente Artículo, serán parte del fondo para el programa de mantenimiento, actualización y adquisición de la infraestructura y equipamiento de video vigilancia a cargo de la Secretaría de Seguridad Pública del Estado.
 
 ## Título Cuarto. De los productos
 
@@ -2340,3 +2350,11 @@ B.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2665 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del 2020, previo su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2808 SE ADICIONA UN INCISO K) A LA FRACCIÓN I, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 28 BIS DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se le concede un término de hasta el 31 de Diciembre de 2021 a la Secretaría de Seguridad Pública del Estado de Baja California Sur, con el objeto de que constituya en conjunto con la Secretaría de Finanzas y Administración del Estado de Baja California Sur, el fondo para el programa de mantenimiento, actualización y adquisición de la infraestructura y equipamiento de video vigilancia, y elabore el plan de trabajo para dar cumplimento al último párrafo del Artículo 28 Bis de la Ley de Derechos y Productos del Estado de Baja California Sur.
