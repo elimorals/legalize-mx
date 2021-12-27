@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2020-10-24"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -111,7 +111,9 @@ XI. Enlace Técnico: Es el funcionario público designado por los titulares de l
 
 XII. Fiscalía: Fiscalía General del Estado;
 
-XIII. Junta Local de Conciliación y Arbitraje: Tribunal Encargado de resolver los conflictos laborales en el ámbito estatal;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XIII. Centro de Conciliación Laboral del Estado: Organismo descentralizado de la Administración Pública Estatal encargado del servicio público de conciliación laboral para la resolución de los conflictos entre trabajadores y patrones en asuntos del orden local;
 
 XIV. Ley: Ley para la Entrega-Recepción de los recursos públicos del Estado y Municipios de San Luis Potosí;
 
@@ -137,9 +139,11 @@ XXIV. Tribunal Estatal de Justicia Administrativa: órgano jurisdiccional con au
 
 XXV. Órgano Interno de Control: las contraloría (sic) internas de los entes obligados.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 6°.
 
-Las disposiciones de esta ley deberán interpretarse conforme lo previsto en la Constitución Política del Estado, Ley Orgánica del Poder Legislativo, Ley Orgánica de la Administración Pública, Ley Orgánica del Municipio Libre, Ley de Responsabilidad Patrimonial del Estado y Municipios, Ley de Responsabilidades Administrativas; la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí; la Ley de Archivos del Estado de San Luis Potosí, la presente Ley y demás disposiciones que normen el marco de actuación del proceso de entrega-recepción en el Estado de San Luis Potosí. A falta de disposición expresa se aplicarán supletoriamente las disposiciones del Libro Segundo del Código Procesal Administrativo para el Estado de San Luis Potosí y a falta de disposiciones en éste, se fundará en los principios generales del derecho.
+Las disposiciones de esta Ley deberán interpretarse conforme lo previsto en la Constitución Política del Estado, Ley Orgánica del Poder Legislativo, Ley Orgánica de la Administración Pública, Ley Orgánica del Municipio Libre, Ley Orgánica del Poder Judicial del Estado, leyes orgánicas de los órganos constitucionales autónomos, las leyes que establezcan la organización y funcionamiento de cualquier organismo público de la Entidad; Ley de Responsabilidad Patrimonial del Estado y Municipios, Ley de Responsabilidades Administrativas; la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí; la Ley de Archivos del Estado de San Luis Potosí, la presente Ley y demás disposiciones que normen el marco de actuación del proceso de entrega-recepción en el Estado de San Luis Potosí. A falta de disposición expresa se aplicarán supletoriamente las disposiciones del Libro Segundo del Código Procesal Administrativo para el Estado de San Luis Potosí y a falta de disposiciones en éste, se fundará en los principios generales del derecho.
 
 ### CAPÍTULO II. SUJETOS Y OBJETIVO DEL PROCESO
 
@@ -187,7 +191,9 @@ a) El titular del Poder Ejecutivo.
 
 b) (DEROGADO, P.O. 22 DE MAYO DE 2019)
 
-c) Los Titulares de las entidades de la administración pública centralizada y desconcentrada.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+c) Las personas titulares de las dependencias y entidades de la administración pública centralizada y de los órganos desconcentrados.
 
 d) Subsecretarios.
 
@@ -213,7 +219,7 @@ e) Magistrados del Tribunal Estatal de Justicia Administrativa.
 
 f) Representantes integrantes del Tribunal Estatal de Conciliación y Arbitraje;
 
-g) Representantes integrantes de la Junta Local de Conciliación y Arbitraje;
+g) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 h) Titulares de las Unidades Administrativas, Coordinadores, Directores, Subdirectores, o su Equivalente.
 
@@ -365,9 +371,29 @@ Para efectos de esta Ley, son autoridades competentes para supervisar los actos 
 
 I. La Contraloría General del Estado, la entrega-recepción individual, respecto de los sujetos obligados señalados en el artículo 7, fracciones II, VI y organismos paraestatales, así como vigilar la entrega recepción final de la administración pública estatal;
 
-II. Los órganos internos de control municipales y paramunicipales, organismos, la entrega-recepción individual respecto de los sujetos obligados señalados en el artículo 7, fracciones IV y V, y
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-III. La Auditoría Superior del Estado, la entrega-recepción de fin e inicio de ejercicio del período constitucional, de los sujetos obligados señalados en el artículo 7 fracción IV, inciso a.
+II. El órgano interno de control del Congreso del Estado, respecto de los sujetos obligados señalados en el artículo 7°, fracción I, inciso a) de esta Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+III. El órgano interno de control de la Auditoría Superior del Estado, respecto de los sujetos obligados señalados en el artículo 7°, fracción I, inciso b) de esta Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV. El órgano interno de control del Poder Judicial del Estado, respecto de los sujetos obligados señalados en el artículo 7°, fracción III, de esta Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V. Los órganos internos de control de los órganos constitucionales autónomos, respecto de los sujetos obligados señalados en el artículo 7°, fracciones III y V, de esta Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VI. Los órganos internos de control de las entidades y órganos públicos, respecto de los sujetos obligados señalados en el artículo 7°, fracciones II y V, de esta Ley;
+
+VII. Los órganos internos de control municipales y paramunicipales, organismos, la entrega-recepción individual respecto de los sujetos obligados señalados en el artículo 7, fracciones IV y V, y
+
+VIII. La Auditoría Superior del Estado, la entrega-recepción de fin e inicio de ejercicio del período constitucional, de los sujetos obligados señalados en el artículo 7 fracción IV, inciso a.
 
 ###### ARTÍCULO 12.
 
@@ -1090,5 +1116,13 @@ P.O. 24 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0781.- SE REFORMA EL ARTÍCULO 81 EN SU FRACCIÓN IX, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE ADICIONA EL ARTÍCULO 60 BIS, DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0255.- REFORMA DE LOS ARTÍCULOS, 5° EN SU FRACCIÓN XIII, 6°, Y 7° EN SU FRACCIÓN II EL INCISO C); ADICIONA AL ARTÍCULO 11 CINCO FRACCIONES, ÉSTAS COMO II A VI, POR LO QUE ACTUALES II, Y III PASAN A SER FRACCIONES, VII, Y VIII; Y DEROGA DEL ARTÍCULO 7° EN SU FRACCIÓN III EL INCISO G) DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
