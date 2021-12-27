@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2021-10-18"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -57,11 +57,11 @@ El Estado de Nuevo León comprende el territorio de lo que fue la provincia del 
 
 El Estado de Nuevo León es libre, soberano e independiente de los demás Estados de la Federación y de cualquier otro extranjero. Como parte integrante de la República está ligado a ella del modo prevenido en la Constitución Federal promulgada el 5 de Febrero de 1917, y sujeto a las leyes generales de la Nación en todo lo que no afecte su régimen interior, pues retiene la libertad de gobernarse y administrarse por sí mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Art. 30.
 
-El Gobierno del Estado de Nuevo León, es Republicano, Democrático, Laico, Representativo y Popular; se ejercerá por los Poderes Legislativo, Ejecutivo y Judicial; siendo la base de su organización política y administrativa el Municipio Libre. Estos Poderes derivan del pueblo y se limitan solo al ejercicio de las facultades expresamente designadas en esta Constitución. No podrán reunirse dos o más de estos Poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo.
+El Gobierno del Estado de Nuevo León, es Republicano, Democrático, Laico, Representativo y Popular; se ejercerá por los Poderes Legislativo, Ejecutivo y Judicial; siendo la base de su organización política y administrativa el Municipio Libre. Estos Poderes derivan del pueblo y se limitan solo al ejercicio de las facultades expresamente designadas en esta Constitución. No podrán reunirse dos o más de estos Poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo. El pueblo participará en las decisiones del Estado a través de los instrumentos de participación ciudadana en los términos que establece esta Constitución y las leyes correspondientes.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -137,13 +137,81 @@ III.- Hacer peticiones, reclamaciones o protestas en asuntos políticos e inicia
 
 IV.- Asociarse individual y libremente para tratar en forma pacífica los asuntos políticos del Estado.
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-V.- Formar partidos políticos y afiliarse a ellos de manera libre, voluntaria e individual, en los términos que prevean las leyes.
+V. Formar partidos políticos y afiliarse a ellos de manera libre, voluntaria e individual, en los términos que prevean las leyes; y
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-No tendrá validez ningún pacto o disposición contrario a los principios establecidos en las fracciones anteriores o que limite de cualquier manera el derecho de los ciudadanos a la libertad de afiliación o de voto.
+VI. Votar en las consultas populares, sobre temas de trascendencia estatal o municipal y se llevarán a cabo conforme a lo siguiente y lo que establezcan las leyes aplicables:
+
+a) Serán convocadas por el Congreso del Estado a petición de:
+
+1. El Ejecutivo del Estado.
+
+2. El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado.
+
+3. Para el caso de las consultas populares de temas de trascendencia estatal, los ciudadanos en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores del Estado, en los términos que determine la ley.
+
+Para el caso de las consultas populares de temas de trascendencia municipal, los ciudadanos del municipio en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores del municipio que corresponda, en los términos que determine la ley.
+
+Con excepción de las hipótesis previstas en el numeral 3 anterior, la petición deberá ser aprobada por mayoría del Congreso.
+
+b) Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos y ciudadanas inscritos en la lista nominal de electores del Estado o del municipio, según corresponda, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo del Estado, los ayuntamientos y las autoridades competentes.
+
+c) No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución, ni en los tratados internacionales de los que el Estado Mexicano sea parte, ni las garantías para su protección, así como los principios consagrados en sus artículos 1, 29 y 30; la permanencia o continuidad en el cargo de los servidores públicos de elección popular, la materia electoral, el sistema financiero, ingresos, gastos y el Presupuesto de Egresos del Estado, las obras de infraestructura en ejecución, la seguridad en el estado. El Tribunal Superior de Justicia del Estado resolverá, previo a la convocatoria que realice el Congreso, sobre la constitucionalidad de la materia a que se refiera la consulta.
+
+d) La Comisión Estatal Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el numeral 3 del inciso a), así como la organización, difusión, desarrollo, cómputo y declaración de resultados.
+
+La Comisión Estatal Electoral promoverá la participación de los ciudadanos en las consultas populares y será la única instancia a cargo de la difusión de las mismas. La promoción deberá ser imparcial y de ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía, sino que deberá enfocarse en promover la discusión informada y la reflexión de los ciudadanos. Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos sobre las consultas populares.
+
+Durante el tiempo que comprende el proceso de consulta popular, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental del Estado y los municipios, salvo aquellas que tengan como fin difundir campañas de información de las autoridades electorales, las relativas a los servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
+e) Las consultas populares convocadas con base en la presente fracción, se realizarán el primer domingo de agosto, conforme a los requisitos y procedimiento que señale la ley secundaria.
+
+f) Las resoluciones de la Comisión Estatal Electoral podrán ser impugnadas ante el Tribunal Electoral del Estado; en términos de lo dispuesto en el artículo 44 de la presente Constitución.
+
+g) Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VII. Participar en los procesos de revocación de mandato.
+
+La revocación de mandato del Gobernador o Gobernadora del Estado es el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada en el desempeño del cargo a partir de la pérdida de la confianza y se llevará a cabo conforme a lo siguiente y lo que establezcan las leyes aplicables:
+
+a) Será convocado por la Comisión Estatal Electoral a petición de los ciudadanos y ciudadanas en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores, siempre y cuando la solicitud corresponda a por lo menos a la mitad más uno de los municipios de la entidad.
+
+La Comisión Estatal Electoral, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+
+b) Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
+
+Los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. La Comisión Estatal Electoral emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+c) La jornada, se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
+
+d) Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato solo procederá por mayoría absoluta.
+
+e) La Comisión Estatal Electoral, tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato, los cuales podrán ser impugnados ante el Tribunal Electoral del Estado, con base en lo dispuesto en el artículo 44 de la presente Constitución.
+
+f) Una vez resueltas las impugnaciones que se hubieren interpuesto, la Comisión Estatal Electoral emitirá la declaratoria de revocación de mandato; en caso de proceder, asumirá provisionalmente la titularidad del Poder Ejecutivo quien ocupe la Presidencia del Congreso; dentro de los treinta días siguientes, el Congreso nombrará a quien concluirá el periodo constitucional en ese periodo, en lo conducente, se aplicará lo dispuesto en el artículo 91 de esta Constitución.
+
+g) Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+La Comisión Estatal Electoral promoverá la participación ciudadana y será la única instancia a cargo de la difusión del proceso. La promoción será objetiva, imparcial y con fines informativos.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas.
+
+Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental tanto del Estado como de los Municipios.
+
+Los poderes públicos, los órganos constitucionalmente autónomos, las dependencias y entidades de la administración pública y cualquier otro ente, tanto del Estado como de los Municipios, solo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VII, P.O. 27 DE DICIEMBRE DE 2021]</small>
+
+Durante los tres días anteriores a la jornada de consulta y hasta el cierre oficial de las casillas, queda prohibida la publicación o difusión de encuestas o sondeos que tengan por objeto dar a conocer las preferencias de los ciudadanos y ciudadanas o cualquier otro acto de difusión relacionado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+No tendrá validez ningún pacto o disposición contrario a los principios establecidos en el presente artículo que limite de cualquier manera el derecho de los ciudadanos a la libertad de afiliación o de voto.
 
 ###### Art. 37.
 
@@ -541,15 +609,15 @@ En todo caso, la duración de las campañas será de sesenta a noventa días par
 
 La violación a estas disposiciones por los partidos políticos, candidatos o cualquier persona física o moral, será sancionada conforme a la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Art. 43.
 
-La organización de las elecciones es una función estatal que se ejerce bajo los principios rectores de legalidad, imparcialidad, objetividad, certeza, máxima publicidad e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios. La Ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado que serán designados conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
+La organización de las elecciones es una función estatal que se ejerce bajo los principios rectores de legalidad, imparcialidad, objetividad, certeza, máxima publicidad e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios; con competencia para organizar y realizar los procesos de consulta popular y de revocación de mandato. La Ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado que serán designados conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-La Comisión Estatal Electoral podrá celebrar convenios de coordinación y colaboración con el Instituto Nacional Electoral. Asimismo mediante convenio podrá solicitar al Instituto Nacional Electoral asumir la organización del proceso electoral del Estado de Nuevo León, en los términos que disponga la legislación aplicable.
+La Comisión Estatal Electoral podrá celebrar convenios de coordinación y colaboración con el Instituto Nacional Electoral. Asimismo, mediante convenio podrá solicitar al Instituto Nacional Electoral asumir la organización del proceso electoral, de la consulta popular y de revocación de mandato del Estado de Nuevo León, en los términos que disponga la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -5544,3 +5612,13 @@ P.O. 18 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 012. SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 084. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 30, LA FRACCIÓN V Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 36, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 43; SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 36, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado. Las reformas en materia de revocación de mandato a las que hace referencia el presente Decreto, así como las modificaciones que se realicen a las leyes correspondientes para regular dicha figura de conformidad a lo establecido en el transitorio SEGUNDO, entrarán en vigor a partir del 5 de octubre de 2025.
+
+SEGUNDO.- El H. Congreso del Estado de Nuevo León, dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las leyes correspondientes para regular la revocación de mandato y la consulta popular, en los términos del presente Decreto.
+
+TERCERO.-Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
