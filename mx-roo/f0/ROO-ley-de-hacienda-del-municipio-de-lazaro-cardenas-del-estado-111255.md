@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-12-23"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -176,6 +176,10 @@ El valor Catastral de los predios será determinado por las Unidades de Valuaci�
 ###### Artículo 16.
 
 El Impuesto Predial se cubrirá por bimestres adelantados en los diez primeros días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Cuando el impuesto causado sea cubierto en una sola emisión por anticipado, cubra todo el año y sea enterado en la tesorería municipal, el Ayuntamiento podrá conceder un descuento de hasta el 25% del importe total, pudiendo ofrecer diversos porcentajes de descuento dentro de los meses de enero a marzo de cada ejercicio fiscal, en los términos que el propio Ayuntamiento determine.
 
 #### SECCIÓN V. DE LAS EXENCIONES
 
@@ -745,6 +749,8 @@ Los derechos por los servicios que presta el Registro Civil, se pagarán de acue
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 109 A LA 111.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINA 36.]</small>
+
 Los derechos señalados en los incisos i), j), y k) de esta fracción, se causarán con la expedición por cada copia certificada del acto correspondiente.
 
 Las oficinas del Registro Civil Municipal, deberán tener a la vista de los usuarios una relación de los servicios que proporciona con las tarifas respectivas.
@@ -781,11 +787,29 @@ II. El fraccionamiento de terreno, cuando sea destinado a la vivienda de interé
 
 Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción II, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio afectación a la población.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+III. Aprobación definitiva de fraccionamientos de terreno: Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán al quedar definidos los proyectos, antes de iniciar las obras.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV. El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los términos del párrafo anterior.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V. Cuando se trate de instalaciones permanentes en la vía pública y bienes de uso común del Municipio, se pagará por metro cuadrado o metro lineal:
+
+a) Zona Urbana 0.75 UMA
+
+b) Zona Turística 1.0 UMA
+
+Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción IV, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio afectación a la población.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 68.
 
-La ejecución de toda obra sin licencia respectiva, se sancionará de 100 U.M.A., multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia.
+La ejecución de toda obra sin licencia respectiva, se impondrá una sanción por un importe equivalente de 50 hasta 100 UMA, atendiendo para ello, entre otros factores, la gravedad de la falta, la capacidad de pago del infractor y el objeto o finalidad de la construcción de la obra; dicha multa podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia.
 
 ###### Artículo 69.
 
@@ -928,6 +952,8 @@ Se establece la obligación de obtener el alineamiento, constancia de uso de sue
 Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que fijan la siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 118 A LA 121.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 38 A LA 39.]</small>
 
 Artículo 84 (SIC).- Concluido el plazo que establece el artículo anterior, los alineamientos podrán refrendarse en los términos y bajo las condiciones siguientes:
 
@@ -1301,15 +1327,33 @@ Están obligados a realizar el pago del presente derecho, las personas físicas 
 
 Son sujetos por deuda ajena y responsabilidad solidaria del pago de derechos a que se refiere este capítulo, las personas físicas o morales que sean propietarias o arrendadoras de los locales comerciales o de uso habitacional que reciban este servicio.
 
-El Ayuntamiento podrá concertar con las organizaciones, empresarios y ciudadanos causahabientes las condiciones de pago de estos derechos, fijándoles las condiciones de pago en atención a su capacidad económica.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+En casos extraordinarios y de causa de fuerza mayor, el Ayuntamiento podrá concertar con las organizaciones, empresarios y ciudadanos causahabientes las condiciones de pago de estos derechos, fijándoles las condiciones de pago en atención a su capacidad económica.
 
-El Ayuntamiento, propondrá a la Legislatura del Estado, a más tardar el 20 de noviembre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a los derechos por la prestación de los servicios a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Este derecho deberá ser cubierto en la Tesorería Municipal en forma mensual dentro de los primeros cinco días de cada mes.
+El Ayuntamiento, propondrá, en caso de estimar pertinente a la Legislatura del Estado, a más tardar el 20 de noviembre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las reformas relativas al objeto, sujetos obligados, período de pago, cuotas y tarifas aplicables, exenciones y demás circunstancias que considere, respecto de los derechos por la prestación de los servicios a que se refiere este artículo.
 
-Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año y sea enterado en la Tesorería Municipal correspondiente dentro del mes de enero, y febrero de cada año fiscal, se le concederá al contribuyente un descuento del 10% del total del importe.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Este derecho deberá ser cubierto en la Tesorería Municipal en forma mensual dentro de los primeros cinco días de cada mes, de acuerdo con el procedimiento que establezca la autoridad para tal fin.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Cuando el presente derecho sea cubierto en una sola emisión, cubra todo el año y sea enterado en la Tesorería Municipal dentro del mes de enero, febrero y marzo de cada año fiscal, podrá concederse al contribuyente un descuento de hasta el 20% del importe total, previa autorización y en los términos que determine el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Las cuotas y tarifas aplicables por la prestación de los servicios mencionados relativas al presente decreto, se cubrirán con base en los siguientes tabuladores:
+
+TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS DE LA ISLA DE HOLBOX DEL MUNICIPIO DE LÁZARO CÁRDENAS, QUINTANA ROO.
+
+> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 40 A LA 41.]</small>
+
+TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS PARA LAS LOCALIDADES EXCEPTO LA ISLA DE HOLBOX, DEL MUNICIPIO DE LÁZARO CÁRDENAS, QUINTANA ROO.
+
+> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 41 A LA 48.]</small>
 
 ### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
 
@@ -1439,21 +1483,165 @@ Causará derechos los servicios prestados por la autoridad municipal de Protecci
 
 TARIFAS
 
-I. Por el servicio de asesoría técnica 2 U.M.A
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-II. Por el servicio de registro 4 U.M.A
+I. Por registros efectuados ante la autoridad municipal de protección civil. 4 UMA
 
-III. Por la certificación 5 U.M.A.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-IV. Por la autorización de giros cuya actividad sea 10 U.M.A.
+II. Registro como prestador de servicios. 10 UMA
 
-considerada de riesgo de conformidad a lo dispuesto
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-por el artículo 86, fracción VI de esta Ley
+III. Permisos:
 
-V. Por revalidación anual de registro 10 U.M.A.
+a) Para la venta de artesanía pirotécnica no explosiva en temporada, debajo de 10 kg. 8 UMA
 
-VI. Otros servicios no precisados en este artículo 7 U.M.A.
+b) Para el almacenamiento provisional de pirotecnia artesanal, en temporada. 50 UMA
+
+c) Para anuncios publicitarios, torres y antenas de comunicación de cualquier tipo arriba de 10 metros desde nivel de piso o azotea. 150 UMA
+
+d) Para la operación de vehículos que presta servicios de ambulancia y hospitalarios por mes, por cada vehículo. 50 UMA
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV. Por el servicio de asesoría técnica para capacitación en materia de protección civil a particulares. 0.50 UMA por persona, por cada hora de capacitación
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V. Por el servicio de registro como prestador de servicios 4 UMA
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VI. Por la expedición de dictámenes aprobatorios:
+
+a) Para hoteles:
+
+1. Para instalaciones con afluencia menor a 49 personas. 50 UMA
+
+2. Para instalaciones con afluencia de 50 a 100 personas. 200 UMA
+
+3. Para instalaciones con afluencia masiva de 101 a 500 personas. 300 UMA
+
+4. Para instalaciones con afluencia masiva de 501 a 999 personas. 500 UMA
+
+b) Para escuelas, guarderías y centros educativos:
+
+1. Para afluencia de 1 a 100 personas 15 UMA
+
+2. Por instalaciones comerciales de gas LP estacionario (en su caso) de 100 a 4000 litros. 20 UMA
+
+c) Para locales comerciales y renovaciones de bajo riesgo:
+
+1. Para locales con afluencia menor a 49 personas, menores a 60 m2, establecidos en plazas comerciales, supermercados, zona hotelera o giros de carga y descarga aérea, camiones foráneos de carga, casas de cambio, casas de empeño, cajeros automáticos en la Isla de Holbox. 10 UMA
+
+2. Para locales con afluencia menor a 49 personas, de 61 a 150 m2, establecidos en plazas comerciales, supermercados, zona hotelera o giros de carga y descarga aérea, camiones foráneos de carga, casas de cambio, casas de empeño, cajeros automáticos en la Isla de Holbox. 15 UMA
+
+3. Para locales con afluencia menor a 49 personas, menores a 60 m2, establecidos en el resto del Municipio. 3 UMA
+
+4. Para locales con afluencia menor a 49 personas, de 61 a 150 m2, establecidos en el resto del Municipio. 5 UMA
+
+5. Por instalaciones industriales que almacenen y/o distribuyen gas LP y/o combustibles en recipientes fijos de hasta 10,000 litros. 350 UMA
+
+6. Por instalaciones industriales que almacenen y/o distribuyen gas LP y/o combustibles en recipientes fijos de más de 10,000 litros. 700 UMA
+
+7. Por vehículos que transportan gas LP en recipientes portátiles por mes y por vehículo. 30 UMA
+
+8. Por vehículos que transportan gas LP en recipientes fijos por mes y por vehículo. 10 UMA
+
+9. Por instalaciones industriales que almacenan y/o distribuyen gas LP y/o combustibles con recipiente fijo hasta por 5000 litros. 350 UMA
+
+10. Por instalaciones industriales que almacenan y/o distribuyen gas LP y/o combustibles con recipiente fijo hasta por 10,000 litros. 700 UMA
+
+11. Por instalaciones industriales que almacenan y/o distribuyen gas LP y/o combustibles con recipiente fijo de más de 10,000 litros. 700 UMA
+
+12. Por las instalaciones del aeropuerto, aeródromo o similar localizado en Holbox. 500 UMA
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VII. Por la autorización de giros cuya actividad sea considerada de riesgo de conformidad a lo dispuesto por el artículo 86, fracción VI de esta Ley.
+
+1. Para instalaciones con afluencia menor a 49 personas. 15 UMA
+
+2. Para instalaciones con afluencia de 50 a 100 personas. 30 UMA
+
+3. Para instalaciones con afluencia masiva de 101 a 500 personas. 50 UMA
+
+4. Por operaciones de alto riesgo. 200 UMA
+
+5. Locales que utilizan, almacenan y/o distribuyen productos químicos al menudeo. 60 UMA
+
+6. Locales que utilizan, almacenan y/o distribuyen productos químicos al mayoreo. 350 UMA
+
+7. Para transporte de combustible. 50 UMA
+
+8. Para la quema de pirotecnia debajo de 10 kg. 20 UMA
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+VIII. Firmas de conformidad:
+
+a) Para quema de pirotecnia, conforme al peso que se establece a continuación:
+
+1. Arriba de 10 kg. y hasta 20 kg. 50 UMA
+
+2. Más de 20 kg. y hasta 30 kg. 100 UMA
+
+3. Más de 30 kg. y hasta 50 kg. 150 UMA
+
+4. Más de 50 kg. y hasta 100 kg. 200 UMA
+
+b) En planos, y/o análisis de riesgos para autorización de proyectos de gasolineras, tiendas de autoservicio, discotecas, centros comerciales, supermercados, hoteles, restaurantes y posadas. 30 UMA
+
+c) Cilindros de gas para puestos ambulantes, por evento:
+
+1. Cilindro de 5 y 10 kg. 5 UMA
+
+2. Cilindro de 20 kg. 8 UMA
+
+3. Cilindro de 30 kg. 10 UMA
+
+d) Cilindros de gas para puestos semifijos, por mes:
+
+1. Cilindro de 5 y 10 kg. 5 UMA
+
+2. Cilindro de 20 kg. 8 UMA
+
+3. Cilindro de 30 kg. 10 UMA
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IX. Por revalidación anual de registro. 10 UMA
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+X. Autorización del Programa Interno de Protección civil y/o (sic) 4 UMA
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XI. Autorización del Programa de Prevención de Accidentes 10 UMA
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XII. Permiso de Protección Civil para la instalación de circos, exposiciones y juegos mecánicos:
+
+a) Circos y exposiciones: 100 UMA
+
+b) Juegos Mecánicos hasta 20 juegos: 1 UMA por juego
+
+c) Juegos Mecánicos más de 20 juegos: 3 UMA por juego
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XIII. Prórroga para cumplimiento de observaciones derivadas de inspección. 1 UMA por cada día
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XIV. Otros servicios no precisados en este artículo 7.00 UMA
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Los derechos previstos y las obligaciones que comprende el presente capítulo deberán ser cubiertos dentro de los tres meses del inicio de operaciones o bien durante los meses de enero y febrero de cada ejercicio fiscal según corresponda.
 
 ### CAPÍTULO XXVII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
 
@@ -1489,17 +1677,17 @@ Todos los servicios que proporcione la Dirección de Zona Federal Marítimo Terr
 
 ### CAPÍTULO XXIX. DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE EL MUNICIPIO
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 132 Bis.
 
-Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el municipio, en razón de la ocupación de Hoteles, posadas o casas de huéspedes, hostales y moteles.
+Los derechos que establece este capítulo se causarán por la ejecución del servicio de saneamiento ambiental que se realice el Municipio con el fin de propiciar el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 132 Ter.
 
-Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, mismo derecho que será retenido por los prestadores de servicios del ramo.
+Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios que visiten o permanezcan temporalmente en el Municipio, hospedándose en cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, así como cualquier centro o establecimiento de hospedaje contratado a través de plataformas digitales o similares, mismo derecho que será retenido por los prestadores de servicios del ramo.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
 
@@ -1511,17 +1699,39 @@ Quedan exentos del pago de este derecho:
 
 a) Las personas que presenten alguna discapacidad.
 
-b) Los visitantes que acrediten su residencia en el Estado de Quintana Roo a través de identificación oficial.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-c) Quedan exentos del pago de este derecho los visitantes que acrediten, mediante identificación oficial ser ciudadano quintanarroense.
+b) Quienes acrediten ser residentes de Lázaro Cárdenas;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+c) Quien acredite ser Quintananarroense (sic); y
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+d) Quienes, sin ser residentes, desarrollen un trabajo personal subordinado, regido por la legislación laboral, durante el periodo de tiempo en el cual desempeñen el trabajo que motiva su visita o estancia en el Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 132 Quáter.
 
-El pago del derecho de saneamiento ambiental se causará en razón del 0.23 U.M.A. por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
+El pago del derecho de saneamiento ambiental se causará en razón del 30% de la U.M.A. por cuarto y/o habitación, por noche de ocupación, por persona, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio de acuerdo con los siguientes montos:
 
-Tratándose de los visitantes, que no se hospeden, en algún establecimiento de los referidos en el artículo 132 TER, el pago será de 0.23 U.M.A. y lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio, o en su caso a través del modulo que asigne la tesorería municipal para recibir el derecho.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El cobro del derecho que se aplique a aquellos huéspedes adicionales que se alojan en los sitios ya mencionados en este artículo se hará a razón de 15% UMA por un segundo huésped por noche, y así consecutivamente de manera proporcional el mismo monto hasta por tres personas, como se especifica en la siguiente tabla:
+
+1 huésped por habitación por noche: 30 % de la UMA
+
+2 huéspedes por habitación por noche: 45 % de la UMA
+
+3 huéspedes por habitación por noche: 60 % de la UMA
+
+4 huéspedes o más por habitación por noche: 75 % de la UMA
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de los visitantes, que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago será igualmente de 30% de la U.M.A. y lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio, o en su caso a través del módulo que asigne la tesorería municipal para recibir el derecho.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -1862,3 +2072,13 @@ También se consideran como derechos para los efectos de este artículo, las con
 TERCERO.- Para el caso de las contribuciones establecidas en la presente Ley, la autoridad municipal contemplará un esquema de subsidios en las tarifas que representen montos superiores. En este caso, la autoridad municipal deberá considerar la condición económica del contribuyente para dictar procedente los subsidios que estime pertinentes.
 
 CUARTO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 193 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. Para el caso de las contribuciones establecidas en la presente Ley, la autoridad municipal contemplará un esquema de subsidios en las tarifas que representen montos superiores. En este caso, la autoridad municipal deberá considerar la condición económica del contribuyente para dictar procedente los subsidios que estime pertinentes.
