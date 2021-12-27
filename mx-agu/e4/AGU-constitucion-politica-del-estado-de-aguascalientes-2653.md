@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2021-10-04"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -144,6 +144,14 @@ Toda persona tiene derecho a la protección de la salud. La Ley establecerá las
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 Toda familia tiene derecho a disfrutar de una vivienda digna, decorosa, habitable y sustentable. Las leyes establecerán los instrumentos y apoyos necesarios a fin de que se propicie que las viviendas cumplan con una infraestructura y servicios públicos básicos adecuados y de calidad, contemplando los lineamientos que establecen los derechos fundamentales reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, así como en los Tratados Internacionales que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, comodidad, inclusión e igualdad, que permita el libre desplazamiento de todas las personas dentro del territorio estatal para la satisfacción de sus necesidades y pleno desarrollo; y a una jerarquía de movilidad, otorgando siempre prioridad a los peatones, personas con discapacidad y conductores de vehículos no motorizados, viendo siempre por una cultura de movilidad sustentable.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de la ciudad.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1831,7 +1839,9 @@ Los Municipios, con la aprobación de las dos terceras partes de los integrantes
 
 Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para:
 
-I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial.
 
 II.- Participar en la creación y administración de sus reservas territoriales.
 
@@ -3502,3 +3512,11 @@ P.O. 4 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 591.- SE ADICIONA UN ARTÍCULO 2o A A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES”.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 23.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 71 Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
