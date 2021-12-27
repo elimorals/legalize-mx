@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-pecuario-para-el-estado-de-hidalgo-50966"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2016-07-11"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO PECUARIO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -55,11 +55,11 @@ QUE CONTIENE LA LEY DE DESARROLLO PECUARIO PARA EL ESTADO DE HIDALGO
 
 La presente Ley tiene por objeto regular y proteger la actividad pecuaria en el Estado de Hidalgo y establecer las bases para promover el desarrollo sustentable de su fomento, producción, sanidad, inocuidad, y comercialización, mediante la planeación que integre las acciones de investigación, conservación y mejoramiento de las especies pecuarias para el consumo humano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-Quedan sujetas a las disposiciones de esta Ley, su Reglamento y la normatividad aplicable, en materia de sanidad animal, salud pública y protección ambiental y de organizaciones ganaderas, las siguientes actividades:
+Quedan sujetas a las disposiciones de esta Ley, su Reglamento y la normatividad aplicable, en materia de sanidad animal, salud pública, protección ambiental, cambio climático y de organizaciones ganaderas, las siguientes actividades:
 
 I.- La cría, reproducción, explotación, transportación y sacrificio de especies pecuarias que sean susceptibles de aprovechamiento económico para fines comerciales, deportivos o recreativos;
 
@@ -94,6 +94,10 @@ I.- (DEROGADA, P.O. 11 DE JULIO DE 2016)
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2016)</small>
 
 I Bis.- Animal mostrenco: Animales abandonados o perdidos cuyo dueño se ignore, los no señalados y no herrados que no pertenezcan al dueño del terreno en que pastan o agostan y que no cuente con el dispositivo de identificación oficial, en caso de bovinos y cuya marca o señal no sea posible de identificar y todos los que ostenten marcas y otros sistemas de identificación aquí previstos que no se encuentren registrados conforme a esta ley. El ganado que aparezca reiteradamente en la vía pública se considerará abandonado;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I Ter. Buenas prácticas pecuarias. Conjunto de procedimientos, condiciones y controles que se aplican en las unidades de producción de todas las especies, las cuales garantizan buena alimentación y manejo, sanidad, calidad del agua, control de desechos y fauna nociva, no utilización de sustancias prohibidas, así como, higiene y salud del personal para minimizar el riesgo de contaminación; brindando al consumidor un producto higiénico y sano.
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
@@ -307,6 +311,10 @@ Competen a la Secretaría las siguientes atribuciones:
 
 I.- Elaborar, ejecutar, evaluar y revisar las estrategias y líneas de acción pecuaria del Plan Estatal de Desarrollo, con base en la proposición y participación de los municipios, organizaciones pecuarias y organismos auxiliares;
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I Bis.- Proponer las acciones de adaptación y mitigación en materia pecuaria, para que sean incluidas en el Programa y Estrategia Estatal de Cambio Climático.
+
 II.- Controlar y coordinar las actividades pecuarias, conforme a las disposiciones de esta Ley y al Plan Estatal de Desarrollo;
 
 III.- A fin de garantizar la operatividad de los puntos de verificación zoosanitarios, proponer al Gobernador del Estado, que en el Presupuesto Anual de Egresos del Estado, se destinen recursos suficientes para cubrir los gastos de administración y operación para los puntos que se encuentren funcionando dentro del Estado y que operen bajo convenio con la Autoridad Federal;
@@ -465,7 +473,9 @@ II.- Coadyuvar con la autoridad estatal en la revisión de documentos que acredi
 
 III.- Participar en los procedimientos relativos a los animales mostrencos, de acuerdo a la normatividad aplicable;
 
-IV.- Apoyar a las Autoridades Federales, Estatales, Municipales, organizaciones pecuarias y organismos auxiliares de cooperación en la implementación de campañas zoosanitarias y de esquemas para el mejoramiento de la calidad de los productos y subproductos pecuarios;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV.- Apoyar a las Autoridades Federales, Estatales, Municipales, organizaciones pecuarias y organismos auxiliares de cooperación en la implementación de campañas zoosanitarias y de esquemas para el mejoramiento de la calidad de los productos y subproductos pecuarios; así como en la difusión de las acciones encaminadas a la mitigación y adaptación al cambio climático;
 
 V.- Hacer constar, mediante la elaboración del acta de hechos correspondiente, los daños sufridos en los predios de agricultores o en explotaciones pecuarias, por la invasión de ganado ajeno;
 
@@ -501,7 +511,9 @@ II.- Llevar un registro de guías de tránsito emitidas por las asociaciones gan
 
 Previo a la emisión de la guía de tránsito o REEMO deberá solicitar al usuario el certificado zoosanitario de movilización nacional cuando se pretendan movilizar mercancías al interior del país;
 
-III.- Apoyar a las autoridades federales, estatales, municipales, organizaciones pecuarias y organismos auxiliares en los programas de salud animal;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+III.- Apoyar a las autoridades federales, estatales, municipales, organizaciones pecuarias y organismos auxiliares en los programas de salud animal, de buenas prácticas pecuarias y las acciones para disminuir el cambio climático;
 
 IV.- Coadyuvar con la autoridad correspondiente, en las investigaciones de abigeato y de la comercialización ilícita de animales, proporcionando los datos e informes que se le requieran; y
 
@@ -537,7 +549,9 @@ Las organizaciones y productores individuales adoptarán en todo momento las med
 
 Las organizaciones ganaderas tendrán las siguientes-obligaciones:
 
-I.- Participar en la elaboración, ejecución, evaluación y revisión de las estrategias, líneas de acción del Plan Estatal de desarrollo y de los planes rectores por sistema-producto, conforme a la convocatoria que expida la Secretaría y de conformidad con las disposiciones Estatales en materia de planeación, fomento, protección, sanidad, mejoramiento genético y desarrollo sustentable;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I.- Participar en la elaboración, ejecución, evaluación y revisión de las estrategias, líneas de acción del Plan Estatal de Desarrollo y de los planes rectores por sistema-producto, conforme a la convocatoria que expida la Secretaría y de conformidad con las disposiciones Estatales en materia de planeación, fomento, protección, sanidad, mejoramiento genético y desarrollo sustentable; así como, en las acciones de mitigación y adaptación de los efectos del cambio climático;
 
 II.- Promover y gestionar toda medida tendiente al mejoramiento de la actividad pecuaria;
 
@@ -1009,7 +1023,9 @@ El Plan Estatal de Desarrollo considerará entre sus acciones:
 
 I.- El establecimiento de estrategias y acciones que promuevan el fortalecimiento y desarrollo de cada una de las etapas de las cadenas productivas de las especies pecuarias, productos y subproductos, con el fin de apoyar los programas de fomento pecuario en el Estado;
 
-II.- La elaboración de proyectos integrales de impacto regional o local para el desarrollo sustentable de la ganadería, en coordinación con las Autoridades Federales y organizaciones pecuarias del Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+II.- La elaboración de proyectos integrales de impacto regional o local para el desarrollo sustentable de la ganadería, incluyendo aquellos que estén dirigidos a las acciones para mitigar y adaptarse al cambio climático, en coordinación con las Autoridades Federales y organizaciones pecuarias del Estado;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2016)</small>
 
@@ -1052,6 +1068,10 @@ Para la debida interpretación de este Capítulo, se consideran tierras de agost
 Los productores, propietarios, arrendatarios o poseedores de tierras con pastizales, podrán recibir asesoría, apoyos económicos, insumos, prestación de maquinaria y colaboración técnica de la Secretaría, de otras Instituciones y Dependencias, de acuerdo a sus posibilidades presupuéstales para:
 
 I.- Aprovechar y mejorar la condición de productividad de sus pastizales;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+I. Bis.- Promover la incorporación de acciones para reducir la emisión de gases de efecto invernadero;
 
 II.- Evitar la destrucción de la fauna silvestre, los árboles y las plantas, que se encuentren en su pastizal;
 
@@ -1114,6 +1134,10 @@ La Secretaría promoverá la realización de acuerdos y convenios con las instit
 ###### Artículo 80.
 
 La Secretaría convocará a las organizaciones y organismos auxiliares para la creación de un Comité de Investigación, Capacitación y Asistencia técnica, para coordinar las estrategias y líneas de acción que correspondan a las necesidades del Estado y se evite el dispendio de recursos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Artículo 80 bis.- La Secretaría organizará una vez al año talleres de buenas prácticas pecuarias para mitigar los efectos del cambio climático en la ganadería, para capacitar a servidores públicos, productores, organizaciones pecuarias generales o especializadas, personal técnico, y organismos auxiliares.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2016)</small>
 
@@ -1602,3 +1626,9 @@ P.O. 11 DE JULIO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 9 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
