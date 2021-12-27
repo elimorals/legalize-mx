@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2021-10-04"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -319,13 +319,17 @@ XII. Dictar los criterios para la regulación e instrumentación de la cadena de
 
 XIII. Implementar el modelo homologado de unidad de policía cibernética, aprobado por el Consejo Nacional de Seguridad Pública;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XIV. Disponer la colaboración con la Fiscalía General del Estado para el cumplimiento de las medidas de protección de sujetos procesales, a través de la Policía Procesal;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XV. Celebrar convenios con instituciones educativas públicas y privadas, con el fin de fomentar e impulsar la formación educativa de los elementos de seguridad pública, y
+
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-XIV. Disponer la colaboración con la Fiscalía General del Estado para el cumplimiento de las medidas de protección de sujetos procesales, a través de la Policía Procesal, y
-
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-XV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+XVI. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
@@ -2930,5 +2934,13 @@ P.O. 4 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0004.- SE REFORMA LOS ARTÍCULOS 13 EN SUS FRACCIONES IV, V Y VI Y 45 EN SUS FRACCIONES IV Y V; Y ADICIONA AL ARTÍCULO 45 LA FRACCIÓN VI, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0164.- SE REFORMA, REFORMA (SIC) EL ARTÍCULO 14 EN SU FRACCIÓN XIV; Y SE ADICIONA AL MISMO ARTÍCULO 14 UNA FRACCIÓN, ÉSTA COMO XV, POR LO QUE ACTUAL XV PASA A SER FRACCIÓN XVI DE LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
