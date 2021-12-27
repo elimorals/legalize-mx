@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-08-05"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -141,13 +141,29 @@ XVIII. Secretaría de Salud federal: la dependencia centralizada de la administr
 
 XIX. Secretaría de Salud del Estado: la dependencia centralizada de la administración pública del Estado de San Luis Potosí;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta, y
+XX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XXI. Síndrome alcohólico fetal: conjunto de alteraciones que presentan algunos de los neonatos que estuvieron expuestos al alcohol durante el embarazo.
+XXI. Síndrome alcohólico fetal: conjunto de alteraciones que presentan algunos de los neonatos que estuvieron expuestos al alcohol durante el embarazo;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXII. Bienestar obstétrico: atención centrada en las necesidades y expectativas de la mujer, al respeto de sus sentimientos, decisiones, preferencias y dignidad humana; encaminada a alcanzar autoconfianza y control personal durante el embarazo, parto y puerperio, través (sic) de intervenciones seguras y bajo la mejor evidencia científica;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXIII. Partera (o) Profesional: la persona egresada de las escuelas de formación a nivel técnico, superior y de especialidad, en perfiles como partería técnica, licenciatura en enfermería y obstetricia, y especialidad en enfermería perinatal, que cuente con título y cédula profesional, y cuyo programa académico sea reconocido por autoridades educativas nacionales y estatales;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXIV. Personal con competencias en partería: profesional de salud, médico o enfermera que cuenta con cédula profesional, y que acredite haber recibido educación y capacitación en las competencias necesarias para desempeñarse en la atención de embarazos de bajo riesgo, el parto, en el período de posparto inmediato, y en la identificación, tratamiento y derivación de complicaciones en mujeres y recién nacidos, de acuerdo a lo establecido por la Confederación Internacional de Matronas, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXV. Servicios de partería profesional: comprende los servicios de salud y el personal de salud necesarios para prestar apoyo y atención a las mujeres y a la persona recién nacida, abarca la atención desde la etapa pregestacional, durante el embarazo, el trabajo de parto y el período de posparto, así como también la atención al recién nacido, que incluyen las medidas destinadas a prevenir problemas de salud durante el embarazo, la detección de situaciones anormales, y la ejecución de medidas de emergencia en ausencia de un equipo de respuesta inmediata.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -164,6 +180,10 @@ I. La atención médica, expedita y de calidad, preferentemente en beneficio de 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
 II. La atención médica ginecológica a todas las mujeres, en especial a las que solicitan servicios de prevención de embarazos, a las embarazadas, a las parturientas, a las mujeres con embarazos de riesgo, así como atención prenatal a las y los recién nacidos, y cuidados intensivos a prematuros o por enfermedades congénitas;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+II BIS. La prestación de los servicios de salud, medicamentos y demás insumos asociados para personas sin seguridad social; para tal efecto podrá celebrar con las autoridades federales acuerdos de coordinación en términos de la Ley General de Salud, y destinarles los recursos correspondientes de conformidad con la Ley de Coordinación Fiscal;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -453,7 +473,9 @@ A. En materia de salubridad general:
 
 I. Aplicar y vigilar el cumplimiento de las normas oficiales mexicanas, las leyes y reglamentos vigentes en el ramo de la salud;
 
-II. En coordinación con el Ejecutivo Federal, organizar, supervisar y evaluar los servicios de salud a que se refiere el Apartado A del artículo 5º. de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+II. Celebrar acuerdos con la Secretaría de Salud de la Federación para que ésta, por sí o en coordinación con las entidades de su sector coordinado, se haga cargo de organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general que corresponden al Estado, de conformidad con la Ley General de Salud;
 
 III. Coordinar el Sistema Estatal de Salud, y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
 
@@ -871,7 +893,9 @@ III. Cirujanos Dentistas;
 
 IV. Médicos Veterinarios en el área de su competencia, y
 
-V. Licenciados en Enfermería, quienes únicamente podrán prescribir cuando no se cuente con los servicios de un médico, aquellos medicamentos del cuadro básico que determine la Secretaría de Salud Federal.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V. Licenciados en Enfermería, quienes podrán prescribir aquellos medicamentos del Compendio Nacional de Insumos para la Salud, que determine la Secretaría de Salud Federal.
 
 Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría de Salud Federal.
 
@@ -939,11 +963,11 @@ III. Servicios sociales y privados, sea cual fuere la forma en que se contraten,
 
 IV. Otros que se presten de conformidad con lo que establezca el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 30.
 
-Son servicios a la población en general, los que se prestan en establecimientos públicos de salud a las personas que así lo requieran, regidos por criterios de perspectiva de género, no discriminación, universalidad y de equidad, fundada en las condiciones socioeconómicas de las personas usuarias.
+Son servicios públicos a la población en general, los que se presten en establecimientos públicos de salud a las personas que se encuentren en el país que así lo requieran, regidos por criterios de universalidad, igualdad e inclusión, y de gratuidad al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
@@ -1113,9 +1137,9 @@ Para que tal denuncia pueda tener curso legal, bastará el señalamiento de los 
 
 La atención materna infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-I. La atención médica ginecológica de la madre durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+I. La atención médica integral y multidisciplinaria, basada en evidencia científica, sensible psicológica y culturalmente, en un marco de derechos humanos y trato digno;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
 
@@ -1427,13 +1451,23 @@ Las universidades que impartan las carreras relacionadas con la salud, procurar�
 
 Por su parte el sector salud en coordinación con el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí promoverá cursos de profesionalización, talleres y diplomados con valor curricular, dirigidos a los profesionales en la salud que radican y laboran en zonas con población indígena que aborden la antropología médica, la medicina tradicional y el aprendizaje de las lenguas, náhuatl, téenek y xi´Oi.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+## TITULO TERCERO BIS. DE LA PRESTACIÓN DE SERVICIOS DE SALUD, MEDICAMENTOS Y DEMÁS INSUMOS ASOCIADOS PARA LAS PERSONAS SIN SEGURIDAD SOCIAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 67 SEPTIES. Todas las personas que se encuentren en el Estado que no cuenten con seguridad social, tienen derecho a la prestación de servicios públicos de salud conforme lo disponga la Ley General.
+
+El Estado, a través de la Secretaría de Salud, podrá celebrar acuerdos de coordinación y convenios específicos con la Secretaría de Salud Federal, para que ésta, con el auxilio o, a través del Instituto de Salud para el Bienestar, organice las acciones para la prestación de los servicios de salud a personas que no cuenten con seguridad social.
+
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
-
-## TITULO QUINTO. INVESTIGACION PARA LA SALUD
-
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 68.
 
@@ -1501,11 +1535,9 @@ Para efectos de la validez a que alude la fracción IV, debe acreditarse la rece
 
 ARTICULO 71 QUINQUE. Las personas que ejerzan en forma pública y/o privada la enfermería, deberán contar con certificación vigente otorgada por organismos debidamente reconocidos por la autoridad en materia de educación superior, así como por las autoridades federales y estatales sanitarias, en los términos que correspondan.
 
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
+
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 72.
 
@@ -1534,6 +1566,8 @@ Para los efectos del párrafo anterior el Ejecutivo del Estado, por conducto de 
 La Secretaría de Salud del Estado, y las instituciones de educación superior, elaborarán programas de carácter social que incorporen la perspectiva de género para las personas profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 77.
 
@@ -1587,11 +1621,9 @@ Los aspectos docentes del internado de pregrado y de las residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determine la Secretaría de Salud del Estado.
 
-## TITULO SEXTO. INFORMACION PARA LA SALUD
+## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
-### CAPITULO I. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 82.
 
@@ -1673,11 +1705,11 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto e
 
 En cualquier tratamiento de una persona enferma el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
-## TITULO SEPTIMO. PROMOCION DE LA SALUD
+## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO II. Educación para la Salud
+### CAPITULO I. Disposiciones Comunes
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 88.
 
@@ -1697,11 +1729,11 @@ III. Recursos físicos, humanos y financieros disponibles para la protección de
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, elaborarán y mantendrán disponibles las estadísticas que en estas materias les señale la Secretaría de Salud del Estado, y proporcionarán a ésta y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
 
-## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO III. Nutrición
+### CAPITULO II. Educación para la Salud
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 90.
 
@@ -1739,7 +1771,9 @@ III. Fomento sanitario, y
 
 IV Programas tendientes a erradicar la discriminación y la violencia de género.
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+### CAPITULO III. Nutrición
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 92.
 
@@ -1779,7 +1813,7 @@ La Secretaría de Salud, en coordinación con la Secretaría de Educación, form
 
 Tratándose de las comunidades indígenas, los programas a que se refiere este artículo, deberán difundirse en español, y la lengua o lenguas indígenas que correspondan.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 94.
 
@@ -1869,7 +1903,7 @@ X. Elaborar un expediente de la víctima que contenga datos desagregados por eda
 
 XI. Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPITULO II. Enfermedades Transmisibles
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 97.
 
@@ -1903,9 +1937,9 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento que satisfaga
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales, estatales y municipales competentes, orientará a la población para evitar la contaminación de agua de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas, desperdicios o basura.
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION Y REHABILITACION DE LA DISCAPACIDAD
+## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. Enfermedades no Transmisibles
+### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 102.
 
@@ -1921,7 +1955,7 @@ II. Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de co
 
 III. Coordinar los programas y actividades que establezca la autoridad federal de la materia, para la prevención, atención, control y erradicación de enfermedades, violencia de género y accidentes.
 
-### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 103.
 
@@ -2087,7 +2121,7 @@ El transporte de enfermos infectocontagiosos deberá efectuarse en vehículos ac
 
 La Secretaría de Salud del Estado determinará los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfectación u otras medidas de saneamientos de lugares, edificios, vehículos y objetos.
 
-### CAPITULO V. Organización de los Servicios de Salud
+### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
 
 ###### ARTICULO 118.
 
@@ -2111,7 +2145,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria competente les requiera, acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO VI. Accidentes
+### CAPITULO V. Organización de los Servicios de Salud
 
 ###### ARTICULO 121.
 
@@ -2133,7 +2167,7 @@ IV. Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Las autoridades sanitarias, en coordinación con las autoridades de educación, elaborarán programas y campañas para prevenir y controlar las enfermedades bucodentales en la población escolar.
 
-### CAPITULO UNICO
+### CAPITULO VI. Accidentes
 
 ###### ARTICULO 124.
 
@@ -2145,7 +2179,7 @@ Será obligatoria la notificación de los casos de tales enfermedades diagnostic
 
 La Secretaría de Salud del Estado establecerá el Registro Estatal de Deficientes Mentales, para facilitar la atención y protección de las personas que se encuentren disminuidas en sus capacidades intelectuales.
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO UNICO
 
 ###### ARTICULO 126.
 
@@ -2173,9 +2207,9 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, exis
 
 Este Consejo se integrará y funcionará en los términos y disposiciones que para tal efecto emita el Ejecutivo del Estado, por conducto de la Secretaría de Salud del Estado, y se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas Nacional y Estatal de Salud.
 
-## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION Y REHABILITACION DE LA DISCAPACIDAD
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
 ###### ARTICULO 128.
 
@@ -2265,11 +2299,9 @@ Los servicios de rehabilitación que proporcionen los establecimientos del secto
 
 El Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la Familia, y en coordinación con las dependencias, entidades federales, estatales y municipales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
 
-## TITULO DECIMO PRIMERO. DE LA PROTECCION SOCIAL EN SALUD
+## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO III. Programa para la Prevención y Tratamiento de la Farmacodependencia
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 140.
 
@@ -2299,9 +2331,9 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, laboral, educativo y de los espectáculos.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. Programa para la Prevención y Tratamiento de la Farmacodependencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 142.
 
@@ -2329,7 +2361,7 @@ Los establecimientos que expendan tabaco deberán tener a la vista del público,
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-### CAPITULO II. De los Beneficios de la Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 146.
 
@@ -2443,305 +2475,157 @@ Los profesionales de la salud, al prescribir medicamentos que contengan substanc
 
 Los establecimientos que expendan inhalantes y substancias tóxicas, deberán tener a la vista del público letreros alusivos prohibiendo la venta de inhalantes a menores de edad, y deberán solicitar una identificación oficial vigente.
 
-## TITULO DECIMO SEGUNDO. SALUBRIDAD GENERAL Y LOCAL
+> <small>(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+## TITULO DECIMO PRIMERO. DE LA PROTECCION SOCIAL EN SALUD
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 ###### ARTICULO 151.
 
-Las personas habitantes del Estado tienen derecho a ser incorporados al Sistema de Protección Social en Salud, con perspectiva de género, no discriminación y de conformidad con el artículo 4°. de la Constitución Política de los Estados Unidos Mexicanos, sin importar su condición social.
-
-La Protección Social en Salud es un mecanismo por el cual el estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de su utilización, y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios, que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social.
-
-Como mínimo se deberán contemplar los servicios de consulta externa en el primer nivel de atención; así como de consulta externa y hospitalización para las especialidades básicas de: medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, en el segundo nivel de atención.
-
-Las disposiciones reglamentarias establecerán los criterios necesarios para la secuencia y alcances de cada intervención que se provea en los términos de este Título.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 152.
 
-Para los efectos de esta Ley se entenderá por Sistema de Protección Social en Salud, a las acciones correspondientes que en esta materia provea el Sistema Estatal de Salud.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-La Secretaría de Salud del Estado coordinará las acciones de protección social en salud, las cuales contarán con la participación subsidiaria y coordinada de la Federación, de conformidad con lo establecido en la Ley General de Salud.
-
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
-
-ARTICULO 152 BIS. El Sistema Estatal de Salud implementará el Expediente Clínico Electrónico, conforme lo establece la NOM-024-SSA3-2010, emitida por la Secretaría de Salud federal, garantizando la seguridad y confidencialidad en el manejo de la información relacionada con la salud del paciente.
+ARTICULO 152 BIS. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 153.
 
-Las familias y personas que no sean derechohabientes de las instituciones de seguridad social, o no cuenten con algún otro mecanismo de previsión social en salud, se incorporarán al Sistema de Protección Social en Salud que les corresponda, en razón de su domicilio, con lo cual gozarán de las acciones de protección en salud a que se refiere este Título.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 154.
 
-La unidad de protección será el núcleo familiar, la cual para efectos de esta Ley se puede integrar de cualquiera de las siguientes maneras:
-
-I. Por los cónyuges e hijos;
-
-II. Por la concubina y el concubinario e hijos;
-
-III. Por el padre y/o la madre no unidos en vinculo matrimonial, o concubinato e hijos, y
-
-IV. Por otros supuestos de titulares y sus beneficiarios que el Consejo de Salubridad General determine, con base en el grado de dependencia y convivencia que justifiquen su asimilación transitoria o permanente a un núcleo familiar.
-
-El núcleo familiar será representado para los efectos de este Título por cualquiera de las personas enunciadas en las fracciones I a IV de este artículo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 155.
 
-Corresponde al Ejecutivo del Estado, por conducto de los Servicios de Salud, en la materia de protección social en salud lo siguiente:
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
-
-I. Proveer los servicios de salud con perspectiva de género y en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
-
-II. Identificar e incorporar beneficiarios al régimen estatal de protección social en salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el Estado, conforme a los lineamientos vigentes;
-
-III. Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación al Estado y las aportaciones propias, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para el efecto se celebren;
-
-IV. Programar los recursos necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento, conforme a las prioridades establecidas en el Sistema de Protección Social en Salud, en congruencia con el plan maestro que se elabore a nivel nacional;
-
-V. Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen Estatal de Protección Social en Salud, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional;
-
-VI. Realizar el seguimiento operativo de las acciones del Régimen Estatal de Protección Social en Salud en el Estado, y la evaluación de su impacto, proveyendo a la Federación la información que para el efecto le solicite;
-
-VII. Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica; para tal efecto, podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud, con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de las disposiciones y lineamientos aplicables;
-
-VIII. Proporcionar a las autoridades federales la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto, y
-
-IX. Promover la participación de los municipios en el Régimen Estatal de Protección Social en Salud y sus aportaciones económicas, mediante la suscripción de convenios, de conformidad con la legislación estatal aplicable.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 156.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Salud del Estado, podrá celebrar acuerdos de coordinación con las autoridades federales, estatales y municipales, para la ejecución del Sistema de Protección Social en Salud, de conformidad con el modelo nacional establecido, en los cuales se determinarán entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 ###### ARTICULO 157.
 
-Gozarán de los beneficios del Sistema de Protección Social en Salud, las familias cuyos miembros en lo individual satisfagan los siguientes requisitos:
-
-I. Ser residentes en el territorio nacional;
-
-II. No ser derechohabientes de la seguridad social;
-
-III. Contar con la Clave Unica de Registro de Población;
-
-IV. Formular la solicitud correspondiente de incorporación;
-
-V. Cubrir las cuotas familiares correspondientes, en los términos establecidos en la Ley General de Salud, y
-
-VI. Cumplir con las obligaciones establecidas en dicha ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 158.
 
-Para incrementar la calidad de los servicios la Secretaría de Salud del Estado, vigilará los requerimientos mínimos que servirán de base para la atención de los beneficiarios del Sistema de Protección Social en Salud.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
-
-La Secretaría de Salud del Estado promoverá las acciones necesarias para que las unidades médicas del Sistema Estatal de Salud, que se incorporen al Sistema de Protección Social en Salud, provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría, geriatría, y la atención a la violencia de género, de acuerdo al nivel de atención, y acrediten previamente su calidad.
-
-La acreditación de la calidad de los servicios prestados deberá considerar, al menos, los aspectos siguientes:
-
-I. Prestaciones orientadas a la prevención y el fomento del auto cuidado de la salud;
-
-II. Aplicación de exámenes preventivos;
-
-III. Programación de citas para consultas;
-
-IV. Atención personalizada;
-
-V. Integración de expedientes clínicos;
-
-VI. Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia;
-
-VII. Prescripción y surtimiento de medicamentos, y
-
-VIII. Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 159.
 
-El régimen estatal de protección social en salud proveerá de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el régimen estatal de protección social en salud, a partir de las transferencias que reciba, deberá destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro elaborado por la autoridad federal correspondiente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 ###### ARTICULO 160.
 
-El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, el Estado y los beneficiarios.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 161.
 
-Para sustentar el Sistema de Protección Social en Salud, el Gobierno del Estado efectuará las aportaciones solidarias por familia beneficiaria, conforme a los términos del Acuerdo de Coordinación correspondiente celebrado con el gobierno Federal.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 162.
 
-Los recursos de carácter federal que se transfieran al Estado para sustentar el Sistema de Protección Social en Salud, no serán embargables; ni el gobierno del Estado podrá, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos.
-
-Dichos recursos se administrarán y ejercerán con base en los acuerdos de coordinación que se celebren para el efecto. El gobierno del Estado deberá registrar estos recursos como ingresos propios, destinados específicamente a los fines establecidos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 163.
 
-Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma, de las obligaciones económicas establecidas en el convenio de coordinación correspondiente, celebrado con el gobierno Federal.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-### CAPITULO VI. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO V. De las Cuotas Familiares
 
 ###### ARTICULO 164.
 
 El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recursos que le sean aportados por el gobierno Federal del Fondo de Aportaciones para los Servicios de Salud a la Comunidad, de conformidad con los acuerdos de Coordinación que para el efecto se suscriban.
 
-### CAPITULO VII. Derechos y Obligaciones de los Beneficiarios
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO VI. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 ###### ARTICULO 165.
 
-Los beneficiarios del Sistema de Protección Social en Salud participarán en el financiamiento del mismo, mediante las cuotas familiares determinadas con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en forma anticipada, anual y progresiva, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
-
-Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios, éstos no aportarán cuotas familiares.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 166.
 
-Las cuotas familiares y reguladoras, que en su caso se establezcan, se recibirán, administrarán y aplicarán conforme a las disposiciones de la Ley General de Salud y de los convenios de coordinación vigentes, y serán destinadas específicamente al abasto de medicamentos, equipo y otros insumos para la salud que sean necesarios para el Sistema de Protección Social en Salud.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 167.
 
-Los Servicios de Salud deberán presentar a la Secretaría de Salud del Estado, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino y manejo de las cuotas familiares del régimen estatal de protección social en salud, quien a su vez informará a la Secretaría de Salud Federal.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 168.
 
-El nivel de ingreso o la carencia de éste, no podrán ser limitantes para el acceso al Sistema de Protección Social en Salud.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 169.
 
-Bajo el principio de solidaridad social, las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a años subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 170.
 
-Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad, o para el abastecimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-### CAPITULO VIII. Causas de Suspensión y Cancelación en el Sistema de Protección Social en Salud
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+### CAPITULO VII. Derechos y Obligaciones de los Beneficiarios
 
 ###### ARTICULO 171.
 
-La Secretaría de Salud del Estado, en el ámbito de su competencia, dispondrá lo necesario para transparentar su gestión de conformidad con las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
-
-Para estos efectos, la Secretaría de Salud del Estado, en coordinación con los Servicios Estatales de Salud, difundirá toda la información que tengan disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema de Protección Social en Salud, entre otros aspectos, con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del sistema.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 172.
 
-El control y supervisión del manejo de los recursos aportados para el Sistema Estatal de Protección Social en Salud, quedará a cargo de las autoridades siguientes, en las etapas que se indican:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes al Estado, corresponderá a la Secretaría de la Función Pública;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-II. Recibidos los recursos federales por el Estado, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna del gobierno del Estado; la supervisión y vigilancia no podrán implicar limitaciones, ni restricciones de cualquier índole, en la administración y ejercicio de dichos recursos, y
-
-III. La fiscalización de los recursos aportados para el Sistema Estatal de Protección Social en Salud, será efectuada por el Honorable Congreso del Estado, por conducto de su órgano de fiscalización.
-
-Cuando las autoridades estatales que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos señalados no han sido aplicados a los fines que señala la ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública, en forma inmediata.
-
-Las responsabilidades administrativas, civiles y penales que deriven de la desviación de los recursos señalados, serán sancionadas en los términos de la legislación correspondiente, por las autoridades competentes.
-
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VIII. Causas de Suspensión y Cancelación en el Sistema de Protección Social en Salud
 
 ###### ARTICULO 173.
 
-Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir, sin ningún tipo de discriminación, los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas de la administración pública de su elección, acreditados en el Régimen Estatal de Protección Social en Salud.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 174.
 
-Las personas beneficiarias del Sistema de Protección Social en Salud tendrán, además de los derechos establecidos en el artículo anterior, los siguientes:
-
-I. Recibir servicios integrales de salud;
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
-
-II. Acceso igualitario y sin discriminación en la atención;
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
-
-III. Trato digno, respetuoso de sus derechos humanos y atención de calidad;
-
-IV. Recibir los medicamentos que sean necesarios y que correspondan a los servicios de salud;
-
-V. Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
-
-VI. Conocer el informe anual de gestión del Sistema de Protección Social en Salud;
-
-VII. Contar con su expediente clínico;
-
-VIII. Decidir libremente sobre su atención;
-
-IX. Otorgar o no su consentimiento válidamente informado, y a rechazar tratamientos o procedimientos;
-
-X. Ser tratado con confidencialidad;
-
-XI. Contar con facilidades para obtener una segunda opinión;
-
-XII. Recibir atención médica en urgencias;
-
-XIII. Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos, para el acceso y obtención de servicios de atención médica;
-
-XIV. No cubrir cuotas de recuperación específicas por cada servicio que reciban, previa aprobación de estudio socioeconómico, por la institución médica prestadora del servicio;
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
-
-XV. Presentar quejas ante las autoridades sanitarias, por violencia institucional, por faltas o inadecuada prestación de servicios establecidos en este Título; así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas, y
-
-XVI. Ser atendido cuando se inconforme por la atención médica recibida.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 175.
 
-Los beneficiarios del Sistema de Protección Social en Salud tendrán las siguientes obligaciones:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-I. Adoptar conductas de promoción de la salud y prevención de enfermedades;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-II. Hacer uso de la credencial que los acredite como beneficiarios, siendo este documento de naturaleza personal e intransferible, y presentarlo siempre que se requieran servicios de salud;
-
-III. Informarse sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
-
-IV. Colaborar con el equipo de salud, informando verazmente y con exactitud sobre sus antecedentes, necesidades y problemas de salud;
-
-V. Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
-
-VI. Informarse acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
-
-VII. Cubrir oportunamente las cuotas familiares y reguladoras que, en su caso, se le fijen;
-
-VIII. Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
-
-IX. Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
-
-X. Hacer uso responsable de los servicios de salud, y
-
-XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud, y para la definición del monto a pagar por concepto de cuota familiar.
-
-### CAPITULO II. De los Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 176.
 
-La cobertura de protección social en salud será suspendida de manera temporal a cualquier familia beneficiaria en los siguientes casos:
-
-I. Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que determine la instancia competente, en su caso, y
-
-II. Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social, federal o estatal.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 177.
 
-Se cancelarán los beneficios de la protección social en salud y la posibilidad de reincorporación, cuando cualquier miembro de la familia beneficiaria:
-
-I. Realice acciones en perjuicio de los propósitos que persigue el Sistema de Protección Social en Salud, o afecte los intereses de terceros;
-
-II. Haga mal uso de la credencial que se le haya expedido como beneficiario, y
-
-III. Proporcione información falsa sobre su nivel de ingreso en el estudio socioeconómico para determinar su cuota familiar, y sobre su condición laboral o derechohabiencia de la seguridad social.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
 ###### ARTICULO 178.
 
-En los casos en que se materialicen los supuestos a que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema de Protección Social en Salud, hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo podrán acceder a los servicios de salud disponibles, en los términos y condiciones que establece esta Ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+## TITULO DECIMO SEGUNDO. SALUBRIDAD GENERAL Y LOCAL
 
-### CAPITULO III. Mercados y Centros de Abasto
+### CAPITULO II. De los Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
 
 ###### ARTICULO 179.
 
@@ -2777,7 +2661,7 @@ III. Giro comercial.
 
 Todo cambio de propietario de un establecimiento, de razón social, denominación o cesión de derechos de productos, deberá ser comunicado por escrito a la Secretaría de Salud del Estado, o en su caso, a los Servicios de Salud en el Estado, según corresponda, conforme a las competencias dispuestas en esta Ley, en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de la normatividad que al efecto se expida.
 
-### CAPITULO IV. De las Construcciones
+### CAPITULO III. Mercados y Centros de Abasto
 
 ###### ARTICULO 184.
 
@@ -2811,7 +2695,7 @@ En su caso se ajustarán a los límites máximos permisibles de hongos, levadura
 
 Para coadyuvar en la determinación de la ubicación y horario de los establecimientos dedicados a la venta de bebidas alcohólicas, las autoridades sanitarias tomarán en cuenta lo dispuesto en la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí.
 
-### CAPITULO V. Cementerios, Crematorios y Funerarias
+### CAPITULO IV. De las Construcciones
 
 ###### ARTICULO 189.
 
@@ -2833,7 +2717,7 @@ Se prohíbe el comercio de todo tipo de alcohol y bebidas alcohólicas, así com
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta Ley, los reglamentos respectivos y otras disposiciones legales aplicables.
 
-### CAPITULO VI. Limpieza Pública
+### CAPITULO V. Cementerios, Crematorios y Funerarias
 
 ###### ARTICULO 193.
 
@@ -2877,7 +2761,7 @@ Los edificios, cualquiera que sea el uso a que estén destinados, estarán provi
 
 La potabilidad del agua reunirá los requisitos especificados en esta Ley y su reglamento, así como en las normas oficiales mexicanas.
 
-### CAPITULO VII. Rastros y Establecimientos Similares
+### CAPITULO VI. Limpieza Pública
 
 ###### ARTICULO 202.
 
@@ -3133,7 +3017,7 @@ II. Expresar los motivos de la exhumación y destino final de los restos, y
 
 III. Los demás que determine la autoridad sanitaria.
 
-### CAPITULO VIII. Salud Ocupacional
+### CAPITULO VII. Rastros y Establecimientos Similares
 
 ###### ARTICULO 241.
 
@@ -3175,7 +3059,7 @@ Los municipios proveerán de depósitos de basura en los parques, jardines, pase
 
 Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO IX. Agua Potable, Alcantarillado y Saneamiento
+### CAPITULO VIII. Salud Ocupacional
 
 ###### ARTICULO 247.
 
@@ -3215,9 +3099,7 @@ El sacrificio de animales en los rastros se efectuará en los días y horas que 
 
 Los rastros y casas de matanza deberán estar ubicados a más de quinientos metros de zona habitacional.
 
-### CAPITULO X. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos
-
-Similares
+### CAPITULO IX. Agua Potable, Alcantarillado y Saneamiento
 
 ###### ARTICULO 255.
 
@@ -3243,7 +3125,9 @@ La Secretaría de Salud del Estado, en coordinación con las dependencias estata
 
 Los establecimientos que expendan substancias tóxicas inhalantes, deberán tener a la vista del público letreros alusivos a las condiciones bajo las cuales se expendan dichos productos al público en general, y prohibición expresa de su venta a menores de edad.
 
-### CAPITULO XI. Prostitución
+### CAPITULO X. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos
+
+Similares
 
 ###### ARTICULO 260.
 
@@ -3301,7 +3185,7 @@ V. Letrinización y control de excretas.
 
 Estos giros son de competencia municipal, pero quedarán bajo la supervisión de las autoridades sanitarias en el Estado.
 
-### CAPITULO XII. Reclusorios o Centros de Readaptación Social
+### CAPITULO XI. Prostitución
 
 ###### ARTICULO 270.
 
@@ -3335,7 +3219,7 @@ Cada granja contará con los servicios de un responsable médico veterinario zoo
 
 Queda prohibido el sacrificio de animales destinados al consumo humano, dentro de las instalaciones de la granja.
 
-### CAPITULO XIII. Baños Públicos y Albercas
+### CAPITULO XII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 275.
 
@@ -3401,7 +3285,7 @@ Queda prohibido el ejercicio de la prostitución a menores de dieciocho años.
 
 Queda prohibido el ejercicio de la prostitución en la vía pública.
 
-### CAPITULO XIV. Centros de Reunión y Espectáculos
+### CAPITULO XIII. Baños Públicos y Albercas
 
 ###### ARTICULO 287.
 
@@ -3433,9 +3317,7 @@ Las autoridades sanitarias vigilarán permanentemente que los reclusorios y cent
 
 En estas instituciones queda prohibida la introducción, uso, posesión y comercio de bebidas alcohólicas, estupefacientes y psicotrópicos; éstos últimos a menos que hayan sido prescritos por un médico legalmente reconocido, y controlada su administración por él mismo.
 
-### CAPITULO XV
-
-Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; Estudios de Tatuaje y/o Perforaciones y Otros Similares
+### CAPITULO XIV. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 294.
 
@@ -3461,7 +3343,9 @@ Queda prohibida la renta de trajes de baño.
 
 La apertura al público y el funcionamiento de estos establecimientos, deberán sujetarse a la verificación y control sanitario.
 
-### CAPITULO XVI. Tintorerías, Lavanderías y Lavaderos Públicos
+### CAPITULO XV
+
+Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; Estudios de Tatuaje y/o Perforaciones y Otros Similares
 
 ###### ARTICULO 299.
 
@@ -3489,7 +3373,7 @@ VI. Vehículo para traslado de enfermos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2017)</small>
 
-### CAPITULO XVII. Establecimientos para el Hospedaje Hoteles, Moteles, Casas de Huéspedes y Otros Similares
+### CAPITULO XVI. Tintorerías, Lavanderías y Lavaderos Públicos
 
 ###### ARTICULO 302.
 
@@ -3523,7 +3407,7 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 Dentro de los establecimientos a que se refiere este Título queda estrictamente prohibido el ejercicio de la prostitución, así como la venta e ingesta de bebidas alcohólicas y de substancias nocivas a la salud.
 
-### CAPITULO XVIII. Transporte Público Urbano y Foráneo
+### CAPITULO XVII. Establecimientos para el Hospedaje Hoteles, Moteles, Casas de Huéspedes y Otros Similares
 
 ###### ARTICULO 306.
 
@@ -3539,7 +3423,7 @@ III. Lavadero público: los establecimientos a los cuales acuden los interesados
 
 Corresponde a los Servicios de Salud del Estado, otorgar cuando proceda, la autorización correspondiente y ejercer la verificación sanitaria de los establecimientos a que se refiere este Capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XIX. Gasolinerias
+### CAPITULO XVIII. Transporte Público Urbano y Foráneo
 
 ###### ARTICULO 308.
 
@@ -3557,9 +3441,7 @@ La construcción, acondicionamiento y funcionamiento de un inmueble que se prete
 
 La apertura y explotación de un establecimiento de hospedaje no comprende el derecho de explotar giros anexos, aun cuando éstos constituyan una misma unidad comercial con el citado establecimiento; en consecuencia, tales anexos deberán recabar u obtener la autorización correspondiente, según el giro de que se trate.
 
-### CAPITULO XX. Prevención, Control de Esterilización de la Rabia y otras Zoonosis; y Natalidad de Animales
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
+### CAPITULO XIX. Gasolinerias
 
 ###### ARTICULO 312.
 
@@ -3577,7 +3459,9 @@ Los vehículos destinados al servicio de transporte de pasajeros y de carga, deb
 
 Las terminales de transportes deberán tramitar aviso de apertura ante los Servicios de Salud en el Estado, y reunir las condiciones de higiene para su funcionamiento; contando con recipientes para basura en lugares estratégicos.
 
-### CAPITULO XXI. Escuelas, Institutos, Colegios, Guarderías e Internados
+### CAPITULO XX. Prevención, Control de Esterilización de la Rabia y otras Zoonosis; y Natalidad de Animales
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 316.
 
@@ -3597,7 +3481,7 @@ En lugares visibles y distribuidos en número suficiente, se fijarán letreros i
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2021)</small>
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XXI. Escuelas, Institutos, Colegios, Guarderías e Internados
 
 ###### ARTICULO 320.
 
@@ -3681,7 +3565,7 @@ Toda persona que venda, ofrezca en adopción o regale animales domésticos, est�
 
 En caso de incumplimiento a esta disposición sanitaria, los animales deben ser trasladados al Centro de Control de Rabia y otras Zoonosis para vacunarlos, y si no reclamados por su propietario, en un término de cinco días hábiles, quedan a disposición de la autoridad.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 326.
 
@@ -3695,9 +3579,9 @@ Compete a la autoridad sanitaria y educativa otorgar la autorización correspond
 
 Los establecimientos objeto de este Capítulo deben contar con las instalaciones adecuadas, para la atención de los alumnos y menores en custodia.
 
-## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 329.
 
@@ -3719,7 +3603,7 @@ La autoridad sanitaria competente expedirá las autorizaciones respectivas, cuan
 
 Los establecimientos que obtengan autorización sanitaria deben colocarla a la vista del público. Las autorizaciones serán revisadas por la autoridad sanitaria competente.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 333.
 
@@ -3815,9 +3699,9 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas facultadas por la autoridad sanitaria competente.
 
-## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA
+## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. Del Procedimiento
+### CAPITULO UNICO
 
 ###### ARTICULO 345.
 
@@ -3905,11 +3789,9 @@ Transcurrido este plazo sin que se haya impugnado el resultado del análisis ofi
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-## TITULO DECIMO SEXTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE
+## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA
 
-SEGURIDAD Y SANCIONES
-
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Del Procedimiento
 
 ###### ARTICULO 356.
 
@@ -4013,7 +3895,11 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO III. Recurso de Revisión
+## TITULO DECIMO SEXTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE
+
+SEGURIDAD Y SANCIONES
+
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 370.
 
@@ -4059,7 +3945,7 @@ La resolución que pronuncie la autoridad sanitaria competente, se hará saber p
 
 Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
-### CAPITULO IV. De la Substanciación
+### CAPITULO III. Recurso de Revisión
 
 ###### ARTICULO 379.
 
@@ -4171,7 +4057,7 @@ Sólo procederá esta pena, si previamente se aplicó cualquiera otra de las san
 
 Impuesto el arresto, se comunicará por escrito la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. De la Suspensión
+### CAPITULO IV. De la Substanciación
 
 ###### ARTICULO 391.
 
@@ -4235,7 +4121,7 @@ Al recibir el recurso, la autoridad sanitaria correspondiente verificará si és
 
 En el caso de que el recurrente no diere cumplimiento al requerimiento efectuado, o cuando la autoridad sanitaria advierta la existencia de una causa notoria de improcedencia, se desechará el recurso.
 
-### CAPITULO VI. Extinción de Facultades
+### CAPITULO V. De la Suspensión
 
 ###### ARTICULO 398.
 
@@ -4252,6 +4138,8 @@ Estas autoridades en uso de las facultades que les confiere la legislación apli
 ###### ARTICULO 400.
 
 A solicitud de los particulares que se consideren afectados por alguna resolución o acto de las autoridades sanitarias, éstas los orientarán sobre el derecho de recurrir la resolución o acto de que se trate, y sobre la tramitación del recurso.
+
+### CAPITULO VI. Extinción de Facultades
 
 ###### ARTICULO 401.
 
@@ -4824,3 +4712,11 @@ P.O. 5 DE AGOSTO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0252.- SE REFORMA EL ARTÍCULO 41 TER EN SU FRACCIÓN IV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 4º EN SUS FRACCIONES, XX, Y XXI, 13 EN EL APARTADO A SU FRACCIÓN II, 27 BIS EN SU FRACCIÓN V, 30, Y 51 EN SU FRACCIÓN I; ADICIONA A LOS ARTÍCULOS, 4º EN SUS FRACCIONES, XXII A XXV, 5º EN SU APARTADO A LA FRACCIÓN II BIS, Y EL TÍTULO TERCERO BIS “DE LA PRESTACIÓN DE SERVICIOS DE SALUD, MEDICAMENTOS Y DEMÁS INSUMOS ASOCIADOS PARA LAS PERSONAS SIN SEGURIDAD SOCIAL” CON EL ARTÍCULO 67 SEPTIES; Y DEROGA EL TÍTULO DÉCIMO PRIMERO Y SUS CAPÍTULOS I, II, III, V, VI, VII, Y VIII, ASÍ COMO LOS ARTÍCULOS, 151, 152, 152 BIS, 153 A 163, Y 165 A 178 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
