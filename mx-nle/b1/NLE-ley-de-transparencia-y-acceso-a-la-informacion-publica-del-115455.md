@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2021-08-20"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -1111,9 +1111,17 @@ La Comisión coordinará las estrategias de medición y evaluación de resultado
 
 La Comisión podrá concertar con personas privadas o sectores de la sociedad, su inclusión en la política de transparencia proactiva, cuando sus actividades o productos puedan resultar de interés público o relevancia social.
 
-### Capítulo III. De los Datos Abiertos y su formato
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-### Capítulo I. De las disposiciones generales
+### Capítulo II Bis. Del Gobierno Abierto
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 76 Bis.
+
+La Comisión, en el ámbito de sus atribuciones y competencias coadyuvará, con los sujetos obligados y representantes de la sociedad civil en la implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura gubernamental.
+
+### Capítulo III. De los Datos Abiertos y su formato
 
 ###### Artículo 77.
 
@@ -1159,7 +1167,7 @@ Lo anterior no implica la transferencia o duplicidad de los conjuntos de datos a
 
 ## TÍTULO QUINTO. OBLIGACIONES DE TRANSPARENCIA
 
-### Capítulo II. De las obligaciones de transparencia comunes
+### Capítulo I. De las disposiciones generales
 
 ###### Artículo 83.
 
@@ -1245,7 +1253,7 @@ Los particulares, sin perjuicio de que sean considerados sujetos obligados de co
 
 La información a que se refiere el presente Título deberá publicarse de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Los sujetos obligados deberán atender las recomendaciones que al respecto expida el Sistema Nacional.
 
-### Capítulo III. De las obligaciones de transparencia específicas de los sujetos obligados
+### Capítulo II. De las obligaciones de transparencia comunes
 
 ###### Artículo 95.
 
@@ -1517,7 +1525,7 @@ LIV. Cualquier otra información que sea de utilidad o se considere relevante, a
 
 Los sujetos obligados deberán informar a la Comisión y verificar que se publiquen en la Plataforma Nacional de Transparencia, cuáles son los rubros que son aplicables a sus páginas de Internet, con el objeto de que éstos verifiquen y aprueben, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado.
 
-### Capítulo IV. De las obligaciones específicas de las personas físicas o morales que reciben y ejercen recursos públicos o ejercen actos de autoridad
+### Capítulo III. De las obligaciones de transparencia específicas de los sujetos obligados
 
 ###### Artículo 96.
 
@@ -1979,7 +1987,7 @@ II. Revisar el listado que remitió el sujeto obligado con base en las funciones
 
 III. Determinar el catálogo de información que el sujeto obligado deberá publicar como obligación de transparencia.
 
-### Capítulo V. De la verificación de las obligaciones de transparencia
+### Capítulo IV. De las obligaciones específicas de las personas físicas o morales que reciben y ejercen recursos públicos o ejercen actos de autoridad
 
 ###### Artículo 107.
 
@@ -2001,7 +2009,7 @@ III. Determinar las obligaciones de transparencia que deben cumplir y los plazos
 
 Se otorga acción ciudadana a los particulares, quienes fundando y motivando podrán realizar peticiones a la Comisión con el fin de que establezca la obligación de que determinado sujeto obligado publique información que dada sus características se considere es de interés público y que no haya sido considerada como tal por esta Ley o por el sujeto obligado, a esta petición la Comisión habrá de darle en forma razonada respuesta en un término de 10 días hábiles, de ser en forma positiva le informará al sujeto obligado la inclusión de dicha información como obligatoria en su portal.
 
-### Capítulo VI. De la denuncia por incumplimiento a las obligaciones de transparencia
+### Capítulo V. De la verificación de las obligaciones de transparencia
 
 ###### Artículo 109.
 
@@ -2063,7 +2071,7 @@ En caso de que la Comisión considere que subsiste el incumplimiento total o par
 
 Los sujetos obligados podrán voluntariamente solicitar a la Comisión, la realización de verificaciones para revisar y constatar el cumplimiento de sus obligaciones de transparencia previstas en esta ley.
 
-### Capítulo I. De las disposiciones generales de la clasificación y desclasificación de la información
+### Capítulo VI. De la denuncia por incumplimiento a las obligaciones de transparencia
 
 ###### Artículo 114.
 
@@ -2161,7 +2169,7 @@ En caso de que la Comisión considere que subsiste el incumplimiento total o par
 
 ## TÍTULO SEXTO. INFORMACIÓN CLASIFICADA
 
-### Capítulo II. De la Información Reservada
+### Capítulo I. De las disposiciones generales de la clasificación y desclasificación de la información
 
 ###### Artículo 125.
 
@@ -2261,9 +2269,7 @@ Cuando un Documento contenga partes o secciones reservadas o confidenciales, los
 
 La información contenida en las obligaciones de transparencia no podrá omitirse en las versiones públicas.
 
-### Capítulo III. De la Información Confidencial
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
+### Capítulo II. De la Información Reservada
 
 ###### Artículo 138.
 
@@ -2301,7 +2307,9 @@ I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanida
 
 II. Se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
 
-### Capítulo I. Del Procedimiento de Acceso a la Información
+### Capítulo III. De la Información Confidencial
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 141.
 
@@ -2355,7 +2363,7 @@ Para efectos de la fracción IV del presente artículo, la Comisión deberá apl
 
 ## TÍTULO SÉPTIMO. PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### Capítulo II. De los Costos de Acceso
+### Capítulo I. Del Procedimiento de Acceso a la Información
 
 ###### Artículo 146.
 
@@ -2503,7 +2511,7 @@ La resolución del Comité de Transparencia que confirme la inexistencia de la i
 
 Las personas físicas y morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, serán responsables del cumplimiento de los plazos y términos para otorgar acceso a la información.
 
-### Capítulo I. Del Recurso de Revisión ante la Comisión
+### Capítulo II. De los Costos de Acceso
 
 ###### Artículo 166.
 
@@ -2521,7 +2529,7 @@ La información deberá ser entregada sin costo, cuando implique la entrega de n
 
 ## TÍTULO OCTAVO. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### Capítulo II. Del Recurso de Inconformidad ante el Instituto
+### Capítulo I. Del Recurso de Revisión ante la Comisión
 
 ###### Artículo 167.
 
@@ -2763,15 +2771,13 @@ Las resoluciones de la Comisión son vinculatorias, definitivas e inatacables pa
 
 Los particulares podrán impugnar las determinaciones o resoluciones de la Comisión ante el Poder Judicial de la Federación.
 
-### Capítulo III. De la atracción de los Recursos de Revisión
+### Capítulo II. Del Recurso de Inconformidad ante el Instituto
 
 ###### Artículo 184.
 
 El recurso de inconformidad ante el Instituto o cualquier otro medio de impugnación contra las resoluciones a los recursos de revisión emitidas por la Comisión procederá en los términos previsto por la Ley General.
 
-### Capítulo IV. Del Cumplimiento
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+### Capítulo III. De la atracción de los Recursos de Revisión
 
 ###### Artículo 185.
 
@@ -2785,7 +2791,9 @@ En los casos en que el (sic) la Comisión sea el sujeto obligado recurrido, debe
 
 Previo a la decisión del Instituto sobre el ejercicio de la facultad de atracción a que se refiere el artículo anterior, la Comisión deberá agotar el análisis de todos los aspectos cuyo estudio sea previo al fondo del asunto, salvo que los aspectos de importancia y trascendencia deriven de la procedencia del recurso.
 
-### Capítulo V. De los criterios de interpretación
+### Capítulo IV. Del Cumplimiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 187.
 
@@ -2813,9 +2821,7 @@ II. Notificará al superior jerárquico del responsable de dar cumplimiento, par
 
 III. Determinará las medidas de apremio o sanciones, según corresponda, que deberán imponerse o las acciones procedentes que deberán aplicarse, de conformidad con lo señalado en el siguiente Título.
 
-### Capítulo I. De las Medidas de Apremio
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
+### Capítulo V. De los criterios de interpretación
 
 ###### Artículo 190.
 
@@ -2837,7 +2843,9 @@ Cualquier persona podrá denunciar ante la Comisión, la contradicción de crite
 
 ## TÍTULO NOVENO. MEDIDAS DE APREMIO Y SANCIONES
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De las Medidas de Apremio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 191.
 
@@ -2892,6 +2900,8 @@ Las multas que fije la Comisión se harán efectivas ante la autoridad estatal c
 El incumplimiento de los sujetos obligados será difundido en los portales de obligaciones de transparencia de la Comisión y considerado en las evaluaciones que realice ésta.
 
 En caso de que el incumplimiento de las determinaciones de la Comisión implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 197 de esta Ley, la Comisión deberá denunciar los hechos ante la autoridad competente.
+
+### Capítulo II. De las Sanciones
 
 ###### Artículo 197.
 
@@ -3144,3 +3154,9 @@ P.O. 20 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para efectos de las certificaciones a que se refiere el inciso b) de la fracción III del artículo 38 de la (sic) presente decreto, la Comisión deberá adecuar su normativa interna o emitir los lineamientos correspondientes.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 032. SE REFORMA EL TÍTULO CUARTO, POR ADICIÓN DE UN CAPÍTULO LL (SIC) BIS, DEL GOBIERNO ABIERTO, Y DEL ARTÍCULO 76 BIS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
