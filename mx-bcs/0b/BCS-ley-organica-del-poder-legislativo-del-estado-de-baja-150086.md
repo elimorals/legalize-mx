@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2021-10-10"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR EL 10 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -1527,15 +1525,29 @@ VIII.- Dictámenes en primera lectura.
 
 IX.- Dictámenes en segunda lectura para su discusión y aprobación en su caso.
 
-Los asuntos a que se refieren las fracciones IV, V, VI, VIII Y IX deberán registrarse a más tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante la Oficialía Mayor del Congreso del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Tratándose de los asuntos enumerados en las fracciones V, VI y VIII del presente artículo, el documento deberá ser entregado físicamente y mediante formato digital, a más tardar a las seis de la tarde del día anterior a la celebración de la sesión ordinaria, ante la Oficialía Mayor del Congreso del Estado.
+Los asuntos a que se refieren las fracciones IV, V, VI, VIII y IX deberán registrarse de la siguiente manera:
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+a) Los asuntos que habrán de tratarse en la Sesión Pública Ordinaria del día Martes, los registros deberán ser a más tardar a las 15:00 horas del día viernes anterior, o el día hábil anterior a éste que corresponda, ante la Oficialía Mayor.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+b) Los asuntos que habrán de tratarse en la Sesión Pública Ordinaria del día Jueves, los registros deberán ser a más tardar a las 15:00 horas del día martes anterior, o el día hábil anterior a éste que corresponda, ante la Oficialía Mayor.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de los asuntos enumerados en las fracciones V, VI y VIII del presente artículo, el documento deberá ser entregado físicamente y mediante formato digital, a más tardar a las 18:00 horas del día que corresponda en los términos señalados en los incisos a) y b) anteriormente referidos, ante la Oficialía Mayor.
 
 No podrá negarse el registro de asuntos legislativos, cuando cumplan con los requisitos señalados en el presente artículo.
 
 Para el caso de proposiciones con punto de acuerdo económico, iniciativas con proyecto de decreto o dictámenes que se presenten ante el Pleno, previo su registro, Podrá leerse el total de su contenido o exponer el tema de forma general; en ambos casos se deberá inscribir en el Diario de los Debates el Texto íntegro del documento, en ningún momento será válido el texto o extracto de temas distintos en la Presentación ante el Pleno a la del Registro. Para el Caso de los Dictámenes con punto de Acuerdo, que sean distintos al tema registrado, el Presidente de la Mesa Directiva lo regresará a la Comisión que lo emitió.
 
-El orden del día deberá fijarse en el exterior de la Sala de Sesiones; asimismo el orden del día y los documentos que señalan las fracciones V, VI y VIII del presente artículo, deberán hacerse públicos por los medios electrónicos disponibles del Honorable Congreso del Estado de Baja California Sur, a más tardar a las siete de la tarde del día anterior a la celebración de la Sesión Ordinaria.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El orden del día deberá fijarse en el exterior de la Sala de Sesiones a más tardar a las nueve de la mañana del día de la sesión que corresponda; asimismo el orden del día y los documentos que señalan las fracciones V, VI y VIII del presente artículo, deberán hacerse públicos por los medios electrónicos disponibles del Honorable Congreso del Estado de Baja California Sur, a más tardar a las 19:00 horas del día que corresponda en los términos señalados en los incisos a) y b) referidos en éste artículo.
 
 Artículo 97
 
@@ -2111,9 +2123,13 @@ Si el caso fortuito o la fuerza mayor fueren tales que las y los diputados no pu
 
 Las sesiones virtuales que se convoquen para celebrarse en día martes o en día jueves dentro del periodo ordinario, se considerarán ordinarias, independientemente de la hora en que se lleven a cabo. Si las sesiones se celebran cualquier otro día se considerarán extraordinarias. Las sesiones virtuales deberán conservarse mediante cualquier medio digital que permita su posterior reproducción.
 
-La Oficialía Mayor llevará a cabo el registro de los asuntos en el orden del día de las sesiones que se celebren de forma virtual, a través de correo electrónico, a partir del momento que se convoque y hasta las seis de la tarde del día anterior a la celebración de la sesión que corresponda.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Las proposiciones con punto de acuerdo, iniciativas de ley o decreto y dictámenes en primera lectura que de conformidad con el artículo 97 de esta Ley se deben presentar físicamente ante la Oficialía Mayor, en estos casos, los referidos documentos se enviaran solamente en documento digital mediante el correo electrónico que la Diputada o Diputado tenga debidamente registrado ante la Oficialía Mayor para los efectos. El documento deberá ser suscrito mediante la firma electrónica certificada de la Diputada o el Diputado, en caso de carecer de la misma, él envió del documento digital en el correo electrónico debidamente registrado y su sola lectura en la sesión virtual será suficiente para tenerse por debidamente presentado, sin necesidad que el documento sea firmado posteriormente por su suscriptor o suscriptores.
+La Oficialía Mayor llevará a cabo el registro de los asuntos en el orden del día de las sesiones que se celebren de forma virtual, a través de correo electrónico, a partir del momento que se convoque y en los términos de los incisos a) y b) del artículo 96 de la presente Ley.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Las proposiciones con punto de acuerdo, iniciativas de ley o decreto y dictámenes en primera lectura que de conformidad con el tercer párrafo del artículo 96 de esta Ley se deben presentar físicamente ante la Oficialía Mayor, en estos casos, los referidos documentos se enviarán solamente en documento digital mediante el correo electrónico que la Diputada o Diputado tenga debidamente registrado ante la Oficialía Mayor para los efectos. El documento deberá ser suscrito mediante la firma electrónica certificada de la Diputada o el Diputado, en caso de carecer de la misma, el envío del documento digital en el correo electrónico debidamente registrado y su sola lectura en la sesión virtual será suficiente para tenerse por debidamente presentado, sin necesidad que el documento sea firmado posteriormente por su suscriptor o suscriptores.
 
 Artículo 192
 
@@ -2592,3 +2608,11 @@ VÍCTOR MANUEL CASTRO COSÍO
 SECRETARIO GENERAL DE GOBIERNO
 
 HOMERO DAVIS CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2803 SE REFORMAN EL SEGUNDO, TERCER Y SEXTO PÁRRAFOS DEL ARTÍCULO 96 Y CUARTO Y QUINTO PÁRRAFOS DEL ARTÍCULO 191 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO. - El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
