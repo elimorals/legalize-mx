@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2021-04-06"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -355,7 +355,9 @@ IX. A que se integre un expediente de todo su proceso asistencial;
 
 X. A que se le solicite su autorización para la práctica de estudios;
 
-XI. A que se solicite su autorización para que el tratamiento que se le aplique pueda ser utilizado para un proyecto docente de investigación;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XI. A que se solicite su autorización por escrito, o de un familiar o representante legal en caso de incapacidad legal de aquél, para que el tratamiento que se le aplique pueda ser utilizado para un proyecto docente de investigación; para lo cual se le expondrán al paciente o firmante, de manera clara y accesible, los objetivos de la misma. Todo trabajo de investigación que involucre a personas farmacodependientes deberá respetar su dignidad y sus derechos humanos, entre ellos los de privacidad e intimidad;
 
 XII. A conocer el nombre y antecedentes profesionales de las personas encargadas de su asistencia, que deberán estar debidamente identificadas;
 
@@ -800,3 +802,11 @@ P.O. 6 DE ABRIL DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0167.- SE REFORMA, EL ARTÍCULO 20 EN SU FRACCIÓN XI DE LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
