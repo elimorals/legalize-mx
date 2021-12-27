@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-para-el-estado-de-san-luis-100327
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2021-04-06"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de marzo de 2014.
 
@@ -1093,13 +1093,15 @@ VII. Nombre y firma del representante en turno del establecimiento, y
 
 VIII. El destino y uso específico que habrá de otorgarse a los órganos, tejidos, componentes, o al cadáver peticionado.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-El Ministerio Público recibirá la solicitud debidamente requisitada y la integrará a la averiguación previa; para que el Ministerio Público esté en condiciones de dar anuencia por escrito, solicitará al médico legista informe si la toma de los órganos o tejidos que se indican en la solicitud, no son necesarios para el debido desarrollo de la autopsia, y si no interfiere la toma de éstos en el resultado de la misma; lo anterior, lo deberá informar de inmediato al Fiscal General del Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la disposición del cadáver.
+El Ministerio Público recibirá la solicitud debidamente requisitada y la integrará a la carpeta de investigación; para que el Ministerio Público esté en condiciones de dar anuencia por escrito, solicitará al médico legista informe si la toma de los órganos o tejidos que se indican en la solicitud, no son necesarios para el debido desarrollo de la autopsia, y si no interfiere la toma de éstos en el resultado de la misma; lo anterior, lo deberá informar de inmediato al Fiscal General del Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la disposición del cadáver.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 62.
 
-Para el caso de que la pérdida de la vida haya sido producto de la comisión de un delito, habrán de desahogarse todas y cada una de las diligencias necesarias para la adecuada integración de la averiguación previa, de conformidad con lo previsto por el Código Penal, y el Código de Procedimientos Penales para el Estado de San Luis Potosí.
+Para el caso de que la pérdida de la vida haya sido producto de la comisión de un delito, habrán de desahogarse todas y cada una de las diligencias necesarias para la adecuada integración de la averiguación previa, de conformidad con lo previsto por el Código Penal, y el Código Nacional de Procedimientos Penales.
 
 ###### ARTÍCULO 63.
 
@@ -1206,3 +1208,11 @@ P.O. 6 DE ABRIL DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0166.- SE REFORMA, EL PÁRRAFO DÉCIMO PRIMERO DE LA EXPOSICIÓN DE MOTIVOS, Y LOS ARTÍCULOS, 61 EN SU PÁRRAFO DÉCIMO TERCERO, Y 62 DE LA LEY DE DONACIÓN Y TRASPLANTES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
