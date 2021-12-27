@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2017-12-31"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -1085,21 +1085,29 @@ VIII. Otros aprovechamientos no especificados.
 
 Los turistas extranjeros que ingresen al Estado pagarán el aprovechamiento a que se refiere el presente Artículo por el uso y aprovechamiento de obras que realiza el Estado destinadas a infraestructura sobre bienes de dominio público y por la prestación de servicios en el ejercicio de sus funciones de derecho público, tendientes a prevenir, mitigar o compensar las alteraciones o afectaciones a éstas.
 
-Es sujeto de este aprovechamiento todo visitante extranjero con fines turísticos que ingrese al Estado de Baja California Sur y permanezca por más de 24 horas en el Estado. Para efectos de este aprovechamiento se entiende por turista lo establecido en el artículo 3 de la Ley General de Turismo.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+Es sujeto de este aprovechamiento todo visitante extranjero con fines turísticos que ingrese al Estado de Baja California Sur y permanezca por más de 24 horas en el Estado. Para efectos de este aprovechamiento se entiende por turista lo establecido en la fracción XX del artículo 3 de la Ley General de Turismo, y la fracción XIX del artículo 5 de la Ley de Turismo para el Estado de Baja California Sur.
 
 El aprovechamiento se fijará a razón de una cuota de $350.00 pesos, misma que será actualizada anualmente el primero de enero de cada año, considerando el periodo comprendido desde el decimotercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización. Para tal efecto, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo.
 
-El presente aprovechamiento se causará al momento en que el visitante extranjero con fines turísticos ingrese al territorio del Estado.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Tratándose de visitantes extranjeros con fines turísticos que ingresen al Estado vía aérea, el aprovechamiento previsto en el primer párrafo, deberá ser recaudado y enterado por las empresas de transporte aéreo de pasajeros.
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Por lo que se refiere a los visitantes extranjeros con fines turísticos que ingresen al Estado vía marítima, el aprovechamiento deberá ser recaudado y enterado por la Administración Portuaria Integral.
+> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Tratándose de visitantes extranjeros con fines turísticos que ingresen al Estado en medios distintos al aéreo y marítimo, el aprovechamiento será recaudado y enterado por las personas físicas o morales que presten servicios de hospedaje en hoteles, moteles, casas de huéspedes, campamentos, paradero de casas rodantes, establecimientos de tiempo compartido o cualquier otra instalación utilizada de manera ocasional o permanente, de manera directa o a través de operadores turísticos, intermediarios, representantes, o como se les designe.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Los prestadores de servicio señalados en los párrafos que anteceden, deberán enterar el pago del aprovechamiento en las oficinas o instituciones que esta ley prevé en su artículo 4, a más tardar el día 15 del mes siguiente a aquel en que se causó.
+> <small>(DEROGADO OCTAVO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-La Secretaría de Finanzas y Administración a través de Reglas de Carácter General determinará el mecanismo en que se deberá enterar el aprovechamiento referido.
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+El aprovechamiento deberá ser enterado a la autoridad fiscal por los turistas extranjeros que permanezcan en el Estado durante más de 24 horas, a través de los mecanismos que defina la Secretaría de Finanzas y Administración; sin menoscabo de los mecanismos jurídicos establecidos en el artículo 4 de la presente Ley.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+La Secretaría de Finanzas y Administración a través de las Reglas de Carácter General determinará los mecanismos para recaudar y enterar el aprovechamiento referido, así como el formato oficial en el que se establezcan los datos generales de cada turista extranjero que pague el aprovechamiento.
 
 > <small>(ADICIONADO, B.O. 30 DE MAYO DE 2017)</small>
 
@@ -1107,9 +1115,13 @@ La Secretaría de Finanzas y Administración a través de Reglas de Carácter Ge
 
 Los ingresos recaudados por el aprovechamiento a que se refiere el artículo 129 Bis de esta Ley, serán distribuidos de la siguiente manera:
 
-I. El 95% de estos recursos será depositado directamente por la Secretaría de Finanzas y Administración del Gobierno del Estado al Fideicomiso para la Administración del Aprovechamiento por el Uso de la Infraestructura Estatal y se utilizarán para el fortalecimiento de la Seguridad Pública y víctimas del delito, así como de la Salud, del Apoyo al Empleo, del Deporte, del Desarrollo agropecuario y pesquero, de la infraestructura turística y social, de la vivienda, de la Educación y de la Cultura en el Estado.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
 
-II. El 5% restante de los recursos, será aplicado para que el Gobierno del Estado pueda llevar a cabo la recaudación del aprovechamiento, así como las mejoras a la infraestructura y actualizaciones que sean necesarias para tal fin.
+I. El 80% de estos recursos será depositado directamente por la Secretaría de Finanzas y Administración del Gobierno del Estado al Fideicomiso para la Administración del Aprovechamiento por el Uso de la Infraestructura Estatal y se utilizarán para el fortalecimiento de la Seguridad Pública y víctimas del delito, así como de la Salud, del Apoyo al Empleo, del Deporte, del Desarrollo agropecuario y pesquero, de la infraestructura turística y social, de la vivienda, de la Educación y de la Cultura en el Estado.
+
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+
+II. El 20% restante de los recursos, será aplicado para que el Gobierno del Estado pueda llevar a cabo la recaudación del aprovechamiento, así como las mejoras a la infraestructura y actualizaciones que sean necesarias para tal fin.
 
 ## Título Séptimo. De las participaciones e incentivos federales
 
@@ -1314,3 +1326,13 @@ B.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2521.- SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 2438 POR MEDIO DEL CUAL SE ADICIONÓ EL ARTÍCULO 129 TER LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2806 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 129 BIS Y 129 TER DE LA LEY DE HACIENDA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2022, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la aprobación del presente Decreto y hasta antes de la entrada en vigor del mismo, el Titular del Poder Ejecutivo del Estado de Baja California Sur, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, deberán llevar a cabo la actualización de las Reglas de Carácter General a que hace referencia el último párrafo del artículo 129 Bis del presente Decreto
+
+TERCERO.- Se derogan las disposiciones normativas que se opongan a lo establecido en el presente Decreto.
