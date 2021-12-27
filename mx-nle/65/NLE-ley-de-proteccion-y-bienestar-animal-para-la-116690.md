@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2021-03-01"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -293,13 +293,21 @@ d) Centro de Atención Veterinaria;
 
 e) Establecimientos fijos o móviles que proporcionen un servicio de limpieza, cuidado o resguardo de los animales.
 
-II. Reglamentar la comercialización, procesos de adopción y el traslado de animales de compañía; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+II. Reglamentar la comercialización, procesos de adopción y el traslado de animales de compañía;
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
 III. Previa solicitud de persona interesada, emitir una constancia de no existencia de sanción administrativa por ejercer algún tipo de maltrato o crueldad animal.
 
-IV. Las demás atribuciones que le otorgue esta Ley, su Reglamento u otra norma jurídica aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV. Llevar a cabo, en coordinación con cada uno de los Municipios del Estado, la Instalación de los Centros de Control Canino y Felino; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V. Las demás atribuciones que le otorgue esta Ley, su Reglamento y las normas jurídicas aplicables.
 
 ###### Artículo 12.
 
@@ -325,9 +333,17 @@ I. Coadyuvar con la Secretaría de Salud en las campañas permanentes de esteril
 
 II. La creación de espacios públicos apropiados para la convivencia con animales, con la infraestructura adecuada y con instalación de contenedores de basura, acceso a agua potable, entre otros;
 
-III. Formular, aprobar y aplicar un Reglamento que garantice la protección y bienestar animal, apegado a la presente Ley y a las normas jurídicas aplicables; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-IV. Las demás atribuciones que le otorgue esta Ley, su Reglamento y las normas jurídicas aplicables.
+III. Formular, aprobar y aplicar un Reglamento que garantice la protección y bienestar animal, apegado a la presente Ley y a las normas jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IV. La Instalación de por lo menos un Centro de Control Canino y Felino, o bien en caso de requerirlo el municipio podrá generar convenios de coordinación con entidades públicas o privadas para llevar a cabo las acciones establecidas en esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+V. Las demás atribuciones que le otorgue esta Ley, su Reglamento y las normas jurídicas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -2034,3 +2050,15 @@ P.O. 1 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 446. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2 Y LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 024. SE REFORMAN LAS FRACCIONES II Y IV DEL ARTÍCULO 11, LAS FRACCIONES III Y IV DEL ARTÍCULO 14; Y POR ADICIÓN LA FRACCIÓN V AL ARTÍCULO 11 Y LA FRACCIÓN V AL ARTÍCULO 14, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Estado deberá coordinarse con los 51 Municipios, en un término que no exceda de 2-dos años, contados a partir de la entrada en vigor del presente Decreto para dar cumplimiento a lo establecido en el mismo.
+
+TERCERO.- Los Municipios, darán cumplimiento a lo ordenado en el presente Decreto, en un plazo no mayor a 2-dos años, contados a partir de la entrada en vigor del presente Decreto. Lo cual se realizará de acuerdo a su partida presupuestal destinada para esta materia.
+
+CUARTO.- Los Municipios tendrán un plazo no mayor a 1-un año, contado a partir de la entrada en vigor del presente Decreto, para realizar las reformas necesarias y ajustar sus reglamentos a las disposiciones modificadas de esta Ley, o bien, emitir el reglamento municipal respectivo.
