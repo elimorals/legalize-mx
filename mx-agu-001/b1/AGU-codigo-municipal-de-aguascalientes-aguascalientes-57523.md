@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-11-22"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1013,7 +1013,9 @@ VII. Agua Potable, Alcantarillado y Saneamiento.
 
 VIII. Obras Públicas.
 
-IX. Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+IX. Control Reglamentario, Espectáculos, Mercados y Estacionamientos;
 
 X. Alumbrado y Limpia.
 
@@ -1027,7 +1029,13 @@ XIV. Igualdad y Género.
 
 XV. Derechos Humanos.
 
-XVI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XVI. Salud.
+
+[ADICIONADA [N. DE E. REUBICADA], P.O.27 DE DICIEMBRE DE 2021)
+
+XVII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 B. SÍNDICOS:
 
@@ -1041,9 +1049,11 @@ Las Comisiones permanentes serán integradas a propuesta del Presidente Municipa
 
 El Cabildo por decisión de sus dos terceras partes podrá remover de su cargo a quien integre una Comisión cuando existan para ello causas graves que pongan en riesgo el buen funcionamiento de la Comisión a la que pertenece.
 
-###### ARTÍCULO 84.
+> <small>(REFORMADO PIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Podrá haber Comisiones colegiadas integradas por un mínimo de dos y un máximo de cinco integrantes del H. Ayuntamiento, y en las cuales el Regidor que la presida será el responsable del buen funcionamiento de la Comisión y de rendir informe de actividades al Secretario del H. Ayuntamiento.
+###### ARTICULO 84.
+
+Podrá haber Comisiones colegiadas integradas por un mínimo de dos y un máximo de seis integrantes del H. Ayuntamiento, y en las cuales el Regidor que la presida será el responsable del buen funcionamiento de la Comisión y de rendir informe de actividades al Secretario del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2009)</small>
 
@@ -24233,9 +24243,9 @@ SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el pr
 
 P.O. 22 DE NOVIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
-PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+PRIMERO.– Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -24249,13 +24259,13 @@ QUINTO.- El personal adscrito a la Dirección de Salud Pública que sea trasferi
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.- La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+SEXTO.– La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
 
-SÉPTIMO.- La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
+SÉPTIMO.– La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
 
-OCTAVO.- La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+OCTAVO.– La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
-NOVENO.- Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+NOVENO.– Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
 DÉCIMO.- La Coordinación General de la Salud, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Coordinación, con el fin de que se encuentre conforme a la presente reforma.
 
@@ -24265,6 +24275,14 @@ DÉCIMO SEGUNDO.- Todos los trámites que hubiesen iniciado bajo la vigencia de 
 
 DÉCIMO TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Director de Salud Pública, se entenderán hechas o conferidas a la actual Coordinación General de Salud.
 
-DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado "De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes", que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado "De la Coordinación General de Salud" que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
+DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado “De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes”, que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado “De la Coordinación General de Salud” que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
 
 DÉCIMO QUINTO.- Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE "REFORMA A LAS FRACCIONES IX Y XVI; Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, EN EL QUE SE ADICIONA LA FRACCIÓN XVI QUE CONTENDRÁ LA COMISIÓN DE SALUD; ASÍ COMO TAMBIÉN EL ARTÍCULO 84, PRIMER PÁRRAFO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]</small>
+
+PRIMERO. - Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal del Municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+
+SEGUNDO. - Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
