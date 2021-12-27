@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-para-el-estado-de-nuevo-leon-101738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-08"
-last_updated: "2017-07-10"
+last_updated: "2021-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 8 de julio de 2014.
 
@@ -1485,7 +1485,9 @@ XIX. Resolver sobre la solicitud o cancelación de registro de los partidos pol�
 
 XX. Registrar las candidaturas a los puestos de elección popular en el Estado, y darlas a conocer publicándolas en el Periódico Oficial del Estado;
 
-XXI. Promover y organizar los debates entre los candidatos que por disposición de la Constitución del Estado y esta Ley deban efectuarse;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXI. Promover y organizar los debates entre los candidatos que por disposición de la Constitución del Estado y esta Ley deban efectuarse, garantizando que en cada uno exista un intérprete de Lengua de Señas Mexicanas, que permita la inclusión de personas con discapacidad;
 
 XXII. Elaborar anualmente, dentro de la primera quincena del mes de octubre, el proyecto de presupuesto de egresos, que será remitido al Ejecutivo para su inclusión en el proyecto de presupuesto de egresos del Estado. El presupuesto aprobado se ejercerá y administrará en forma autónoma. El presupuesto de la Comisión Estatal Electoral incluirá también lo relativo al financiamiento público para los partidos políticos;
 
@@ -1507,9 +1509,21 @@ XXX. Hacer la declaratoria de validez de las elecciones de Gobernador y Diputado
 
 XXXI. Determinar la asignación de Diputados electos por el principio de representación proporcional y expedir la constancia correspondiente;
 
-XXXII. Resolver sobre los recursos que se le interpongan y sean de su competencia, de acuerdo a la Ley; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-XXXIII. Las demás que le confiera la Ley General de la materia y la presente Ley.
+XXXII. Resolver sobre los recursos que se le interpongan y sean de su competencia, de acuerdo a la Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXXIII. Efectuar cursos o capacitaciones para promover los Derechos Humanos de personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXXIV. Emitir los acuerdos que garanticen a las personas con discapacidad, el ejercicio del voto, mediante procedimientos de aspectos de accesibilidad, comunicación, capacitación y difusión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+XXXV. Las demás que le confiera la Ley General de la materia y la presente Ley.
 
 En relación a las fracciones XXV y XXVII, cuando se celebren elecciones concurrentes, se estará a lo dispuesto por el Instituto Nacional Electoral y demás disposiciones aplicables.
 
@@ -2144,6 +2158,20 @@ De igual manera, el partido político postulante deberá manifestar por escrito 
 Tratándose de coaliciones, a la solicitud de registro se deberá acompañar el convenio respectivo.
 
 La Comisión Estatal Electoral llevará un archivo con todos los datos de las candidaturas registradas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 144 Bis.
+
+Los partidos políticos y coaliciones deberán postular cuando menos una fórmula de candidatas o candidatos propietario y suplente a Diputados al Congreso del Estado, integrada por personas con discapacidad.
+
+Los partidos políticos y coaliciones deberán postular por lo menos una candidatura de persona o personas con alguna discapacidad en cualquiera de los ayuntamientos del estado. Esta candidatura podrá ser aplicable al cargo de la Presidencia Municipal o, en su caso, a la fórmula de candidatas o candidatos a una regiduría o sindicatura.
+
+Las personas interesadas deberán cumplir con los requisitos establecidos en el artículo 47 de la Constitución Política del Estado Libre y Soberano de Nuevo León y encontrarse en pleno ejercicio de sus derechos.
+
+Las entidades políticas deberán presentar ante la Comisión Estatal Electoral, los medios de prueba idóneos que demuestren que las personas postuladas cuenten con alguna discapacidad conforme a la Ley para la Protección de los Derechos de las Personas con Discapacidad vigente en la entidad.
+
+En caso de que la postulación de las candidaturas a las que refiere este artículo se realice a través de una coalición, se tendrá por cumplida la obligación para los partidos políticos integrantes de dicha coalición.
 
 ###### Artículo 145.
 
@@ -3125,9 +3153,11 @@ III. Depositará el elector sus boletas debidamente dobladas en las urnas respec
 
 IV. Se marcará con tinta indeleble la yema del pulgar derecho del elector; se marcará en el lugar previsto su credencial de elector, y se anotará a un lado de su nombre en la lista nominal de electores la palabra "votó”.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 240.
 
-Si el elector es invidente o padece de alguna discapacidad física para emitir su voto por sí solo, podrá auxiliarse de otra persona para efectuar la votación en los términos y condiciones que determine la Comisión Estatal Electoral.
+El Elector con alguna discapacidad tendrá derecho preferencial de emitir su voto. Para ello, deberá solicitar el turno al Presidente de la casilla o a quien esté en funciones en ese momento, con el fin de tomar las medidas necesarias, para que la persona con discapacidad pueda ejercer su voto. Si la persona es invidente o padece de alguna discapacidad física para emitir su voto por sí solo, podrá auxiliarse de otra persona para efectuar la votación en los términos y condiciones que determine la Comisión Estatal Electoral.
 
 Si la persona carece de pulgar derecho, se marcará con tinta indeleble la yema del dedo izquierdo.
 
@@ -4940,3 +4970,13 @@ Cuarto. Para los efectos del proceso electoral 2017-2018 en los que se renueven 
 Quinto. Para los efectos del proceso electoral 2017-2018 en los que se renueven el Congreso del Estado y Ayuntamientos, la etapa de preparación de la elección iniciará con la primera sesión de la Comisión Estatal Electoral en los primeros siete días del mes de noviembre del año anterior al de las elecciones, en virtud de que la jornada electoral del 2018 se llevará acabo el primer domingo de julio de dicho año.
 
 Sexto. Envíese al Ejecutivo del Estado para su inmediata publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 081. SE REFORMAN, LAS FRACCIONES XXI, XXXII Y XXXIII DEL ARTÍCULO 97, EL PÁRRAFO PRIMERO DEL ARTÍCULO 240; SE ADICIONA LAS FRACCIONES XXXIV Y XXXV DEL ARTÍCULO 97 Y UN ARTÍCULO 144 BIS TODOS DE LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- La Comisión Estatal Electoral contará con un plazo de ciento veinte días naturales para adecuar su marco normativo conforme a lo establecido en el presente Decreto
