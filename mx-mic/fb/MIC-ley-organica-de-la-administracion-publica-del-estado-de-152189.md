@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-152189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-08"
-last_updated: "2021-10-08"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Octava Sección del Número 77 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 8 de octubre de 2021.
 
@@ -835,9 +835,17 @@ XXXVII. Evaluar conjuntamente con la Secretaría del Bienestar, los programas de
 
 XXXVIII. Impulsar la protección de los productos endógenos y tradicionales, con fama ganada por medio de las marcas, marcas colectivas, denominaciones de origen e indicaciones geográficas;
 
-XXXIX. Diseñar, aplicar y evaluar la política de innovación, investigación científica y tecnológica del Estado, en coordinación con la Federación y los municipios, a través del organismo estatal competente en la materia, procurando la colaboración de instituciones de educación superior y tecnológica, nacionales e internacionales; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2021)</small>
 
-XL. Las demás que le confieran las normas jurídicas aplicables.
+XXXIX. Diseñar, aplicar y evaluar la política de innovación, investigación científica y tecnológica del Estado, en coordinación con la Federación y los municipios, a través del organismo estatal competente en la materia, procurando la colaboración de instituciones de educación superior y tecnológica, nacionales e internacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2021)</small>
+
+XL. Cumplir las disposiciones del Gobernador del Estado, sobre las facultades, que a éste le corresponden en materia de administración de trabajo y previsión social; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2021)</small>
+
+XLI. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 26.
 
@@ -1551,6 +1559,10 @@ Las menciones contenidas en otras leyes, decretos, reglamentos y en general en c
 
 El Congreso del Estado tendrá un plazo máximo de 120 días hábiles, para emitir la legislación reglamentaria contemplada en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2021)</small>
+
+DÉCIMO QUINTO. Los recursos humanos, materiales, financieros de la Secretaría de Gobierno, en materia de Administración del Trabajo y Previsión Social, se transferirán a la Secretaría de Desarrollo Económico, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO en Morelia, Michoacán de Ocampo, a los 5 cinco días del mes de octubre de 2021 dos mil veintiuno.
@@ -1560,3 +1572,17 @@ ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA.- DIP. ADRIANA HERNÁNDEZ ÍÑIGUE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 06 seis días del mes de octubre del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 24 “ARTÍCULO ÚNICO. SE REFORMAN LAS FRACCIONES XXXIX Y XL; Y, SE ADICIONAN LA FRACCIÓN XLI AL ARTÍCULO 25, Y EL ARTÍCULO DÉCIMO QUINTO TRANSITORIO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
