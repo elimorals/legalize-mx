@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-del-bienestar-sociedad-22507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-29"
-last_updated: "2020-06-30"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22507&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-11-27"
 
 REGLAMENTO ORGÁNICO DEL BANCO DEL BIENESTAR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de noviembre de 2001.
 
@@ -129,15 +129,15 @@ La Institución tendrá una duración indefinida.
 
 ### Capítulo II. Del Capital Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 7o.
 
-El capital social del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $1,947'025,000.00 (MIL NOVECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.). El capital social pagado es la cantidad de $1,947'025,000.00 (MIL NOVECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.).
+El capital social del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $17,447,142,000.00 (DIECISIETE MIL CUATROCIENTOS CUARENTA Y SIETE MILLONES CIENTO CUARENTA Y DOS MIL PESOS 00/100 M.N.) El capital social pagado es la cantidad de $17,447,142,000.00 (DIECISIETE MIL CUATROCIENTOS CUARENTA Y SIETE MILLONES CIENTO CUARENTA Y DOS MIL PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2021)</small>
 
-Dicho capital social estará representado por 128’503,650 (CIENTO VEINTIOCHO MILLONES QUINIENTOS TRES MIL SEISCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “A”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.), cada uno y por 66,198,850 (SESENTA Y SEIS MILLONES CIENTO NOVENTA Y OCHO MIL OCHOCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “B”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.) cada uno.
+Dicho capital social estará representado por 1,151,511,372 (MIL CIENTO CINCUENTA Y UN MILLONES QUINIENTOS ONCE MIL TRESCIENTOS SETENTA Y DOS) certificados de aportación patrimonial de la Serie "A", con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.), cada uno y por 593,202,828 (QUINIENTOS NOVENTA Y TRES MILLONES DOSCIENTOS DOS MIL OCHOCIENTOS VEINTIOCHO) certificados de aportación patrimonial de la Serie "B", con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.) cada uno.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -718,6 +718,18 @@ SEGUNDO.- De conformidad con lo establecido por el último párrafo del artícul
 D.O.F. 30 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
+
+D.O.F. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICA EL ARTÍCULO 7o., PÁRRAFOS PRIMERO Y SEGUNDO DEL REGLAMENTO ORGÁNICO DEL BANCO DEL BIENESTAR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, A EFECTO DE AUMENTAR EL CAPITAL SOCIAL DEL MISMO”.]
 
 ###### ARTÍCULO PRIMERO.
 
