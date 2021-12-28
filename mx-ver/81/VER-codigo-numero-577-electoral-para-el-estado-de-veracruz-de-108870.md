@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2020-10-01"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2. EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE L
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 28 DE DICIEMBRE DE 2021.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -1119,7 +1119,9 @@ LOS PARTIDOS POLÍTICOS, PARA EFECTOS DE LAS ELECCIONES LOCALES, GOZAN CON CARGO
 
 A. Para el sostenimiento de actividades ordinarias permanentes, el Consejo General del Organismo Público Local Electoral del Estado de Veracruz determinará anualmente el monto total por distribuir entre los partidos políticos, conforme a lo siguiente:
 
-I. Para los partidos políticos locales se atenderá lo dispuesto por la Ley General de Partido (sic) Políticos; y
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2021)</small>
+
+I. El financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos locales, se fijará anualmente en los términos establecidos por la Ley General de Partidos Políticos. El financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos nacionales se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado a la fecha de corte de julio de cada año, por el treinta y dos punto cinco por ciento (32.5%) del valor diario de la Unidad de Medida y Actualización vigente.
 
 II. Para los partidos políticos nacionales se multiplicará el número total de ciudadanos inscritos en el padrón electoral del Estado al último día del mes de julio de cada año, por el treinta y dos punto cinco por ciento del valor diario de la Unidad de Medida y Actualización vigente, de lo cual el treinta por ciento se distribuirá de forma igualitaria entre aquéllos y el setenta por ciento según el porcentaje de la votación estatal que hubiese obtenido cada uno en la elección inmediata anterior de diputaciones de mayoría relativa.
 
@@ -9154,3 +9156,15 @@ G.O. 1 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2 QUE REFORMA EL ARTÍCULO 50, APARTADO A, EN SU FRACCIÓN I, DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ".]
+
+PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Decreto entrará en vigor el día 1° de enero del año 2022, salvo en lo previsto en el Artículo Tercero Transitorio siguiente, que iniciará su vigencia el día de la publicación de este Decreto en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+TERCERO. Al efecto, la Comisión Permanente de Hacienda del Estado del Congreso del Estado deberá prever en el dictamen con proyecto de Decreto de Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave para el Ejercicio Fiscal 2022 y, en su caso, el Pleno del Congreso del Estado, los ajustes presupuestales pertinentes, a fin de materializar las disposiciones del presente Decreto. Igualmente, se instruye a la Secretaría de Finanzas y Planeación del Gobierno del Estado a efectuar o implementar los ajustes necesarios para el debido cumplimiento de este Decreto.
+
+CUARTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
