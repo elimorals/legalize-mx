@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2021-12-26"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -5599,7 +5599,9 @@ La punibilidad será de dos a siete años de prisión y multa de ciento cuarenta
 
 Las penas previstas en el artículo anterior se incrementarán en una mitad, cuando:
 
-I. El delito sea cometido por un servidor público en ejercicio de sus funciones o con motivo de ellas, en cuyo caso se impondrá a éste, además, destitución e inhabilitación para ocupar otro empleo, cargo o comisión públicos de seis meses a tres años; o,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2021)</small>
+
+I. El delito sea cometido por un servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia en ejercicio de sus funciones o con motivo de ellas, en cuyo caso se impondrá a éste, además, destitución e inhabilitación para ocupar otro empleo, cargo o comisión públicos de seis meses a tres años; o,
 
 II. La falsificación sirva como medio para el comercio de vehículos robados o de sus partes o componentes.
 
@@ -6664,6 +6666,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 26 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 081.- QUE CONTIENE REFORMA AL ARTÍCULO 147 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 082.- QUE CONTIENE REFORMA AL ARTÍCULO 404, FRACCIÓN I AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
