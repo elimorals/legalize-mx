@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2021-09-03"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2555,11 +2555,15 @@ III. Los particulares con autorización o con reconocimiento de validez oficial 
 
 IV. Los organismos públicos descentralizados que presten servicios educativos de carácter estatal o municipal;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-V. Las instituciones públicas y privadas dedicadas a la investigación científica y tecnológica y la atención a la juventud;
+V. Las instituciones públicas o privadas dedicadas a la investigación científica y tecnológica y la atención a la juventud;
 
 VI. Los profesionistas y sus asociaciones o colegios.
+
+> <small>(ADICIONADA, G.G. 28 DE DICIEMBRE DE 2021)</small>
+
+VII. La ciudadanía en general, tratándose de los reconocimientos públicos.
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -3193,47 +3197,69 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 I. Presea "Estado de México", en las modalidades y denominaciones siguientes:
 
-a) De ciencias "José Antonio Alzate";
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-b) De artes y letras "Sor Juana Inés de la Cruz";
+a) De ciencia, tecnología e innovación "José Antonio Alzate";
 
-c) De pedagogía y docencia "Agustín González Plata";
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-d) De deportes "Filiberto Navas Valdés";
+b) De arte y cultura "Sor Juana Inés de la Cruz";
 
-e) De periodismo e información "José María Cos";
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-f) Al mérito cívico "Isidro Fabela Alfaro";
+c) De pedagogía y docencia "Laura Méndez de Cuenca";
 
-g) Al mérito municipal "Alfredo del Mazo Vélez";
+d) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+
+e) De periodismo e información "Leona Vicario";
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+
+f) Al mérito cívico y servicios a la comunidad "Isidro Fabela Alfaro";
+
+g) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
 
 h) Al trabajo "Fidel Velázquez Sánchez";
 
 i) A la juventud "Felipe Sánchez Solís";
 
-j) A la perseverancia en el servicio a la sociedad "Gustavo Baz Prada";
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-k) A la administración pública "Adolfo López Mateos";
+j) A la contribución en el servicio público "Alfredo del Mazo Vélez";
 
-l) Al impulso económico "Filiberto Gómez";
+k) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
 
-m) Al mérito en la preservación del ambiente "José Mariano Mociño Suárez Lozada";
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-n) A quienes sin ser mexiquenses tengan méritos o hayan prestado servicios eminentes "José María Luis Mora";
+l) Al impulso económico "Adolfo López Mateos";
 
-ñ) A residentes en el extranjero "José María Heredia y Heredia";
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+
+m) De la preservación del ambiente y la sostenibilidad de los recursos naturales "José Mariano Mociño Suárez Lazada";
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+
+n) A quienes sin ser mexiquenses tengan méritos eminentes o relevantes "José María Luis Mora";
+
+ñ) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
 
 o) A la defensa de los derechos humanos "José María Morelos y Pavón";
 
-p) Al fortalecimiento de las instituciones públicas "León Guzmán".
+p) (DEROGADO, G.G. 28 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, G.G. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-q) A los integrantes con funciones operativas de las instituciones de seguridad pública del Estado de México "POLICÍA MEXIQUENSE DEL AÑO".
+q) De la seguridad, protección ciudadana o procuración de justicia "León Guzmán";
 
 > <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 r) Al mérito agrario "Andrés Molina Enríquez".
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+
+s) De medicina y fomento a la salud "Gustavo Baz Prada".
 
 II. Inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
@@ -3245,13 +3271,15 @@ II. Inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
 63.- La Presea "Estado de México" también podrá concederse post mortem.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE DICIEMBRE DE 2021)</small>
+
 ### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
-64.- La presea podrá usarse por sus titulares únicamente en solemnidades y actos públicos en que sea pertinente ostentarlas.
+64. La presea podrá usarse por sus titulares únicamente en solemnidades y actos cívicos en que sea pertinente ostentarlas.
 
 El derecho al uso de la presea a que se refiere este Capítulo, se extingue por sentencia ejecutoriada condenatoria por la comisión de un delito doloso.
 
@@ -18244,3 +18272,11 @@ QUINTO. Los Ayuntamientos de los 125 Municipios tomarán las previsiones necesar
 SEXTO. La antigüedad, prestaciones y demás derechos adquiridos a los que sean sujetos los miembros de los Cuerpos de Bomberos municipales ya establecidas en las diferentes modalidades que prevalecen en el Estado, serán respetados a partir de la entrada en vigor de la presente Ley.
 
 SÉPTIMO. La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, establecerá las previsiones para que a partir de la entrada en vigor de la presente Ley, las Bases Regionales que cuenten con las condiciones de centros de formación, se adapten para cumplir con los señalado en el Título Sexto de este Decreto.
+
+G.G. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 8.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3.3, LOS INCISOS A), B), C), E), F), J), L), M), N) Y Q) DE LA FRACCIÓN I DEL ARTÍCULO 3.61 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 3.64; SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 3.3, EL INCISO S) A LA FRACCIÓN I DEL ARTÍCULO 3.61; Y SE DEROGAN LOS INCISOS D), G), K), Ñ) Y P) DE LA FRACCIÓN I DEL ARTÍCULO 3.61 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
