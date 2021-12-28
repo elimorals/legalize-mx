@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2021-11-12"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFISAN"
 
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. 19 DE ENERO DE 2021.]
+[NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022”, PUBLICADA EN EL D.O.F. 28 DE DICIEMBRE DE 2021.]
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
@@ -176,9 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022", PUBLICADA EN EDICIÓN VESPERTINA DEL D.O.F. DE 28 DE DICIEMBRE DE 2021.]</small>
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $272,471.43. En el precio mencionado no se considerará el impuesto al valor agregado.
+
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022", PUBLICADA EN EDICIÓN VESPERTINA DEL D.O.F. DE 28 DE DICIEMBRE DE 2021.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -3101,3 +3105,61 @@ Artículo Sexto. Para los efectos del artículo 8o., fracción II, primer y segu
 ## Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+
+D.O.F. 28 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. LA MODIFICACIÓN DEL "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, PUBLICADA EL 27 DE DICIEMBRE DE 2021", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, PUBLICADA EL 27 DE DICIEMBRE DE 2021.]</small>
+
+Anexo 15 de la Resolución Miscelánea Fiscal para 2022
+
+Contenido
+
+Impuesto sobre Automóviles Nuevos
+
+A. Tarifa para determinar el Impuesto sobre Automóviles Nuevos para el año 2022.
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2022.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2021.
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 313,163.32 0.00 2.0
+
+313,163.33 375,795.92 6,263.16 5.0
+
+375,795.93 438,428.76 9,394.94 10.0
+
+438,428.77 563,693.73 15,658.19 15.0
+
+563,693.74 En adelante 34,447.90 17.0
+
+Si el precio del automóvil es superior a $864,750.45 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $864,750.45
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2022.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $292,552.57
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $292,552.58 y hasta $370,566.61
+
+C. Código de claves vehiculares
+
+> <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES EN EL D.O.F. DE 28 DE DICIEMBRE DE 2021, PÁGINAS DE LA 6 A LA 453.]</small>
