@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-y-prestacion-de-152471"
 country: "mx"
 rank: "ley"
 publication_date: "2021-11-09"
-last_updated: "2021-11-09"
+last_updated: "2021-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2021; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL DÍA QUINCE DE ENERO DE DOS MIL VEINTIDÓS.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Décima del Número 089 del Periódico Oficial del Estado de Nayarit, el martes 9 de noviembre de 2021.
 
@@ -1556,3 +1558,45 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" Recinto Oficial de est
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Juana Nataly Tizcareño Lara, Secretaria.- Rúbrica.- Dipo. Alejandro Regalado Curiel, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los ocho días del mes de noviembre de dos mil veintiuno.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor el día 15 de enero de 2022 previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, el nueve de noviembre del año dos mil veintiuno.
+
+TERCERO. Los trámites y disposiciones inherentes a los procesos de Licitación Pública, iniciados con anterioridad a la entrada en vigor de la presente norma, se substanciarán y resolverán hasta su conclusión, de conformidad con la normativa interna vigente, establecida en las dependencias, órganos y entidades de la administración pública.
+
+CUARTO. Se crea el Organismo Público Descentralizado denominado Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAPS), con personalidad jurídica, patrimonio propio, no sectorizado, con domicilio en la ciudad de Tepic Nayarit, el cual tendrá por objeto la coordinación, la operación y la validación de los procedimientos de las adquisiciones, arrendamientos y servicios dentro de las diferentes áreas de la administración pública centralizada y paraestatal del Gobierno del Estado de Nayarit en los términos que señala la presente Ley.
+
+QUINTO. La Junta de Gobierno del Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAPS), se instalará por el titular del Poder Ejecutivo a más tardar sesenta días posteriores contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La Junta de Gobierno aprobará y expedirá el Estatuto Orgánico del Instituto en un plazo no mayor de treinta días hábiles, contados a partir de la fecha de su instalación.
+
+SÉPTIMO. El Reglamento Interior del Instituto deberá expedirse en un término de treinta días contado a partir de la Instalación de la Junta de Gobierno.
+
+OCTAVO. El Organismo Público Descentralizado al que hace alusión esta Ley, denominado Instituto de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Nayarit (INAPS), se integrará con la estructura orgánica, recursos humanos, financieros y materiales que previamente autorice su Junta de Gobierno.
+
+NOVENO. Se faculta a la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit, para que en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto lleve a cabo las acciones necesarias presupuestarias para su cumplimiento.
+
+DÉCIMO. En un plazo que no exceda a los sesenta días naturales a partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo deberá expedir el Reglamento de la Ley.
+
+En tanto se expide el Reglamento, seguirán vigentes las disposiciones normativas que no se opongan al presente ordenamiento.
+
+DÉCIMO PRIMERO. Los entes públicos contarán con un plazo de ciento veinte días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto para realizar o promover las acciones y adecuaciones necesarias que permitan la correcta aplicación de esta Ley.
+
+DÉCIMO SEGUNDO. Los procedimientos de contratación y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+DÉCIMO TERCERO. En tanto se expida la Ley de Bienes del Estado, las enajenaciones de bienes muebles e inmuebles propiedad del estado se regularán por las siguientes disposiciones:
+
+A.- Los bienes muebles, propiedad del estado que ya no le resulten útiles, podrán ser enajenados a través de los procedimientos de remate respectivos por los Comités Técnicos de Adquisiciones aplicando de manera supletoria el procedimiento que al efecto se establece en el Código Fiscal del Estado de Nayarit.
+
+B.- Los bienes inmuebles que pertenezcan en pleno dominio al Gobierno del Estado, podrán ser desincorporados previa aprobación que realice el Congreso del Estado, por el titular del Poder Ejecutivo, mediante decreto que deberá ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado. Para la desincorporación de los bienes inmuebles se atenderá al tipo de figura jurídica que se refiera a cualquier forma de transmisión prevista en el Código Civil del Estado de Nayarit.
+
+DÉCIMO CUARTO. El diseño del Sistema Electrónico, deberá estar concluido en un plazo no mayor a ciento ochenta días, contados a partir de la fecha de entrada en vigor de este Decreto.
+
+DÉCIMO QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
