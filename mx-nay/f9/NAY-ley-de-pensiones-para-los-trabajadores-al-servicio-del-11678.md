@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pensiones-para-los-trabajadores-al-servicio-del-11678"
 country: "mx"
 rank: "ley"
 publication_date: "1997-07-30"
-last_updated: "2008-09-27"
+last_updated: "2021-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de julio de 1997.
 
@@ -87,6 +87,10 @@ IV.- Sección 49 del Sindicato Nacional de Trabajadores de la Educación.
 
 Cada representante propietario designará un suplente. Los integrantes del Comité tendrán derecho a voz y voto y el Director General exclusivamente voz informativa. Los integrantes de dicho Comité se desempeñarán dentro del mismo en forma honorífica.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2021)</small>
+
+El Comité de Vigilancia será representado por su Presidente en los asuntos administrativos y judiciales de su competencia.
+
 ###### ARTICULO 6o.
 
 Los miembros del Comité de Vigilancia durarán en sus cargos por todo el tiempo que subsista su designación. Sus nombramientos podrán ser revocados libremente por quienes los hayan designado.
@@ -147,9 +151,17 @@ VIII.- Organizar y administrar al Fondo;
 
 IX.- Convocar a sesiones ordinarias y las que fueren necesarias para el desahogo de los asuntos del Comité;
 
-X.- Presentar los proyectos de reformas o adiciones a las disposiciones reglamentarias del Fondo; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2021)</small>
 
-XI.- Todas las demás que le fijen los reglamentos o las que les señale el Comité.
+X.- Presentar los proyectos de reformas o adiciones a las disposiciones reglamentarias del Fondo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2021)</small>
+
+XI.- Expedir copias certificadas de los documentos que integran el archivo del Fondo de Pensiones y demás documentación que a su despacho corresponda, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2021)</small>
+
+XII.- Las demás previstas en la presente ley, los reglamentos y las que expresamente le señale el Comité de Vigilancia.
 
 ### Capítulo II. De su patrimonio
 
@@ -550,3 +562,9 @@ P.O. 27 DE SEPTIEMBRE DE 2008.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno de (sic) Estado de Nayarit.
 
 Artículo Segundo.- Los expedientes que se encuentren en procedimiento a la entrada en vigor serán remitidos de inmediato, con todos sus antecedentes, al área de medicina del trabajo de los Servicios de Salud de Nayarit, a fin de que ésta proceda a dictaminarlos conforme corresponda.
+
+P.O. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
