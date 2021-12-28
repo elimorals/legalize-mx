@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-radio-89333"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-09-07"
-last_updated: "2012-09-07"
+last_updated: "2021-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89333&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2012-07-24"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA RADIO
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 5 DE ENERO DE 2022 EN: https://www.imer.mx/transparencia/estatuto_organico_imer.pdf]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA RADIO, PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA RADIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2021 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de septiembre de 2012.
 
@@ -902,3 +906,45 @@ De conformidad a las adecuaciones del marco regulatorio aplicable en la materia,
 Cualquier documento, acto o procedimiento que haga referencia a lo contenido en el Estatuto Orgánico abrogado y que se encuentre en trámite a la fecha de entrada en vigor del presente Estatuto, continuará tramitándose hasta su conclusión conforme al Estatuto Orgánico vigente en su momento.
 
 La Directora General del Instituto Mexicano de la Radio, Ana Cecilia Terrazas Valdés.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE DICIEMBRE DE 2021.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico fue aprobado por la H. Junta Directiva conforme a las facultades que le confieren los artículos 15, segundo párrafo y 58, fracción VIII de la Ley Federal de Entidades Paraestatales y 7o. del Decreto de Creación, en la Sesión celebrada el día cinco de abril de 2021; y entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico aprobado mediante acuerdos de la H. Junta Directiva en la Primera Sesión Extraordinaria celebrada el día 8 de junio de 2012 y modificado en la Tercera Sesión Ordinaria celebrada el 24 de julio de 2012; así como aquellas disposiciones internas que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Las áreas o unidades administrativas con denominaciones nuevas o distintas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, continuarán su substanciación o dictarán las resoluciones respectivas.
+
+###### ARTÍCULO CUARTO.
+
+Cualquier documento, acto o procedimiento que haga referencia a lo contenido en el Estatuto Orgánico abrogado y que se encuentre en trámite a la fecha de entrada en vigor del presente Estatuto, continuará tramitándose hasta su conclusión conforme al Estatuto Orgánico vigente en su momento.
+
+###### ARTÍCULO QUINTO.
+
+A la fecha de emisión del presente Estatuto, el Instituto cuenta con un Consejo Ciudadano, órgano colegiado que fue elegido a través de convocatoria pública, plural y representativa, por lo que se entiende por ampliado el periodo de gestión a 5 años, y el cambio escalonado para su renovación comenzará a correr a partir del ejercicio fiscal 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO MEDIANTE EL CUAL SE INFORMA DE LA PUBLICACIÓN DEL ESTATUTO ORGÁNICO 2021 DEL INSTITUTO MEXICANO DE LA RADIO:
+
+Se da a conocer a las autoridades, servidores públicos y público en general, para todos los efectos legales y administrativos a que haya lugar, el hipervínculo electrónico para consulta del Estatuto Orgánico 2021 del Instituto Mexicano de la Radio, el cual tiene por objeto establecer la estructura administrativa del Instituto Mexicano de la Radio, así como las disposiciones sobre su funcionamiento programático, operativo, de planeación, de evaluación, administrativo y de control de este sujeto obligado mismo que podrá consultarse en la liga electrónica referida en el presente aviso:
+
+Denominación: Estatuto Orgánico 2020 del Instituto Mexicano de la Radio
+
+Emisor: Instituto Mexicano de la Radio
+
+Fecha de emisión: 05 de abril de 2021 aprobado por Junta de Gobierno
+
+Medio de Consulta: El documento se encuentra publicado para su difusión y consulta en el sitio de internet, en la siguiente liga:
+
+https://www.imer.mx/transparencia/estatuto_organico_imer.pdf
+
+Liga adicional: www.dof.gob.mx/2021/IMER/Estatuto-organico-IMER_2021.pdf
