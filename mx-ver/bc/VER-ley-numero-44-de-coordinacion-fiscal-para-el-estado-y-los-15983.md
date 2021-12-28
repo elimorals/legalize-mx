@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2021-01-01"
+last_updated: "2021-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -228,6 +228,18 @@ Una vez determinado el CPM para todos los municipios de la entidad, se suman y s
 Los municipios informarán a la Legislatura dentro de los tres primeros meses del año la recaudación que hayan obtenido por concepto de impuestos, derechos y contribuciones por mejoras en el año inmediato anterior.
 
 El órgano de fiscalización de la Legislatura podrá comprobar la veracidad de la información señalada en el párrafo anterior y, en su caso, se efectuarán los ajustes correspondientes a las participaciones.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FÓRMULAS], G.O. 28 DE DICIEMBRE DE 2021)</small>
+
+El 30% del excedente del Fondo de Fomento Municipal determinado, informado y ministrado a la Entidad por la Secretaría de Hacienda y Crédito Público, en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre el total de municipios que tengan celebrado convenio de coordinación fiscal con el Gobierno del Estado de Veracruz de Ignacio de la Llave en materia de impuesto predial, mediante la fórmula siguiente:
+
+> <small>[N. DE E. VEÁSE FÓRMULA EN LA G.O. DE 28 DE DICIEMBRE DE 2021, PÁGINA 6.]</small>
+
+CPFFM i t = Coeficiente de Participación del Fondo de Fomento Municipal del Municipio i-ésimo en el año para el cual se efectúa el cálculo, para la distribución del 30% del excedente del Fondo de Fomento Municipal, siempre y cuando tenga firmado con el Gobierno del Estado convenio de coordinación para el cobro del impuesto predial.
+
+Bi= Coeficiente de participación municipal en el año actual para el cual se efectúa el cálculo.
+
+TB= Suma de Bi
 
 ###### Artículo 13.
 
@@ -1676,3 +1688,13 @@ G.O. 1 DE ENERO DE 2021.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 3 QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
