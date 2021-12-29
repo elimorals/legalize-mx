@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2021-09-11"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -813,11 +813,11 @@ La aclaración de las actas del estado civil procede cuando en el registro exist
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 100.
 
-El matrimonio es la unión jurídica de un hombre y una mujer donde ambos, mediante una comunidad de vida, y procurándose respeto, igualdad y ayuda mutua, constituyan una familia, con la posibilidad de procrear hijos de manera libre, responsable e informada.
+El matrimonio es la unión jurídica de dos personas donde ambas, mediante una comunidad de vida, y procurándose respeto, igualdad y ayuda mutua, constituyan una familia.
 
 ###### ARTICULO 101.
 
@@ -1073,9 +1073,11 @@ DE LOS REGIMENES PATRIMONIALES, MATRIMONIALES Y CONCUBINARIOS
 
 El matrimonio puede celebrarse bajo el régimen de sociedad conyugal, bajo el de separación de bienes, o bien régimen mixto.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 136.
 
-El hombre y la mujer, al celebrar el matrimonio, conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; por consiguiente todos los frutos y accesiones de dichos bienes, no serán comunes sino del dominio exclusivo de la persona a quien aquéllos correspondan, salvo lo establecido por esta Ley respecto a los gananciales matrimoniales.
+Los contrayentes, al celebrar el matrimonio, conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; por consiguiente todos los frutos y accesiones de dichos bienes, no serán comunes sino del dominio exclusivo de la persona a quien aquéllos correspondan, salvo lo establecido por esta ley respecto a los gananciales matrimoniales.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -1287,17 +1289,23 @@ En este régimen corresponden a cada propietario, todos los productos y accesion
 
 Los bienes que los cónyuges adquieran en lo personal por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, serán del dominio exclusivo del que los reciba, a menos que se trate de donaciones de dependencias derivadas de programas de viviendas, o el donatario expresamente comparta la propiedad con el otro cónyuge.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 172.
 
-Ni el marido podrá cobrar a la mujer ni ésta a aquél retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y el resultado que produjere.
+Ninguno de los cónyuges podrá cobrar retribución u honorario alguno por los servicios personales que le prestare a su consorte, o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y el resultado que produjere.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 173.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí por partes iguales la mitad del usufructo que la ley les conceda.
+Los cónyuges que ejerzan la patria potestad se dividirán entre sí por partes iguales la mitad del usufructo que la ley les conceda.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 174.
 
-El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+Los cónyuges responden entre sí, de los daños y perjuicios que pudiesen ocasionarse por dolo, culpa o negligencia.
 
 ### CAPITULO OCTAVO. DE LAS DONACIONES ANTENUPCIALES
 
@@ -5242,3 +5250,11 @@ Artículo segundo. Las disposiciones relacionadas con la carta de identidad y co
 Artículo tercero. El Ejecutivo del Estado deberá prever en la iniciativa de Presupuesto de Egresos del Estado para el ejercicio fiscal 2022, que remita a la Legislatura, los recursos financieros suficientes para la Dirección del Registro Civil, dependiente de la Coordinación General Jurídica, con la finalidad de garantizar la creación del Registro de Deudores Alimentarios Morosos y la expedición de las cartas de identidad.
 
 Artículo cuarto. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 42.- SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
