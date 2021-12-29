@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-13934
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-05"
-last_updated: "2021-08-27"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-10-16"
 
 ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2021.
 
 Estatuto publicado en la Primera Sección al Número 4 del Diario Oficial de la Federación, el jueves 5 de diciembre de 2019.
 
@@ -511,9 +511,13 @@ IV. Planear, fomentar y, en su caso, coordinar la creación de políticas públi
 
 V. Conducir la participación del Organismo con los tres órdenes de gobierno en materia de asistencia social, para garantizar la protección y plena integración al bienestar de las personas en situación de vulnerabilidad, especialmente de niñas, niños y adolescentes en situación de migración acompañados y no acompañados, conforme a lo previsto en la Ley de Migración, la Ley General de Victimas, la Ley General de los Derechos de Niñas, Niños y Adolescentes (sic) demás disposiciones normativas aplicables;
 
-VI. Coadyuvar, prestar apoyo y colaboración técnica en la creación de establecimientos de asistencia social para niñas, niños y adolescentes en situación de migración acompañados y no acompañados en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como administrar los Centros de Asistencia Social de niñas, niños y adolescentes en situación de migración no acompañados, con que cuente el Organismo, conforme a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
 
-VII. Establecer y concertar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los programas, modelos y lineamientos, en el ámbito de su competencia, así como coordinar, monitorear, acompañar supervisar y darles seguimiento;
+VI. Coadyuvar, prestar apoyo y colaboración técnica en la creación de establecimientos de asistencia social para niñas, niños y adolescentes en situación de migración en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
+
+VII. Establecer y concertar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los programas, modelos y lineamientos, en el ámbito de su competencia, así como coordinar, monitorear, acompañar, supervisar y darles seguimiento. Respecto de aquellos relacionados con establecimientos de asistencia social para niñas, niños y adolescentes en situación de migración, esta facultad se ejercerá en coadyuvancia con la Unidad de Asistencia e Inclusión Social y la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
 
 VIII. Participar, en coordinación, colaboración o concertación con los sectores público, social y privado, en programas asistenciales en materia alimentaria, de desarrollo integral individual, familiar y comunitario, de fomento y fortalecimiento de políticas públicas en favor de la primera infancia, así como de prestación de servicios para la atención, cuidado y desarrollo integral infantil, celebrando, en su caso, los convenios respectivos;
 
@@ -557,7 +561,13 @@ II. Coadyuvar en el establecimiento de centros y servicios de rehabilitación no
 
 III. Concertar y coordinar los programas bajo su responsabilidad con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como con organizaciones de la sociedad civil;
 
-IV. Coadyuvar en la creación de establecimientos de asistencia social en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como prestar a éstos apoyo y colaboración técnica, con salvedad de aquellos Centros de Asistencia Social cuya administración le corresponda a las unidades administrativas de la Jefatura de Unidad de Atención a Población Vulnerable;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
+
+IV. Coadyuvar en la creación de establecimientos de asistencia social en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como prestar a éstos apoyo y colaboración técnica;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
+
+IV. BIS. Coordinar la administración de los Centros de Asistencia Social de niñas, niños y adolescentes en situación de migración no acompañados, con que cuente o habilite el Organismo a través de las actas de habilitación correspondientes que se emitan, conforme a la normatividad aplicable;
 
 V. Coordinar los programas integrales de rehabilitación y de servicios asistenciales, así como fomentar acciones de investigación, enseñanza, capacitación y formación de recursos humanos en salud y asistencia social y las actividades de capacitación y educación continua del personal de las unidades administrativas que le estén adscritas;
 
@@ -1019,7 +1029,7 @@ XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Po
 
 Corresponden a la persona Titular de la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad las siguientes facultades:
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
 
 I. Formular, aplicar y evaluar el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para someterlo a la consideración de la Jefa o Jefe de la Unidad de Atención a Población Vulnerable;
 
@@ -1039,9 +1049,11 @@ VIII. Coordinar la elaboración, ejecución y operación del Programa Nacional d
 
 IX. Diseñar, gestionar o coordinar las políticas públicas y las acciones concernientes a los servicios de asistencia social que se consideren primordiales para el beneficio de las personas en situación de vulnerabilidad, especialmente de niñas, niños y adolescentes en situación de migración acompañados y no acompañados, conforme a lo previsto en la normatividad aplicable;
 
-X. Administrar y coordinar la operación de los Centros de Asistencia Social de niñas, niños y adolescentes en situación de migración no acompañados, con que cuente el Organismo, conforme a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+X. Coordinar en colaboración con la Procuraduría Federal de Protección a Niñas, Niños y Adolescentes un registro de establecimientos asistenciales para el alojamiento y cuidado de la niñez migrante acompañada o separada, para concretar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los elementos que correspondan a la Unidad de Atención a Población Vulnerable a que se refiere la fracción VII del artículo 15 del presente ordenamiento;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
 
 XI. Apoyar, en el marco de sus atribuciones, a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y coadyuvar con los sectores público, privado y social en la atención integral de niñas, niños, adolescentes y personas en situación de vulnerabilidad;
 
@@ -1057,7 +1069,7 @@ XVI. Acompañar, monitorear y evaluar los Centros de Atención Infantil, para me
 
 XVII. Diseñar, gestionar o coordinar las políticas públicas y las acciones que atiendan al desarrollo integral de los individuos y familias que, por sus condiciones físicas, mentales, jurídicas, económicas o sociales, se encuentren en situación de vulnerabilidad, conforme a lo previsto en la normatividad aplicable; y
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
 
 XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
@@ -1069,7 +1081,9 @@ Corresponden a la persona Titular de la Dirección General de Integración Socia
 
 I. Contribuir en la definición de las políticas y estrategias en materia (sic) integración social;
 
-II. Administrar y coordinar la operación de establecimientos de asistencia social de su competencia, concertando, en su caso, acciones de apoyo y coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, con salvedad de aquellos Centros de Asistencia Social cuya administración le corresponda a otras unidades administrativas del Organismo;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
+
+II. Administrar y coordinar la operación de establecimientos de asistencia social de su competencia incluyendo los establecimientos asistenciales de niñas, niños y adolescentes en situación de migración no acompañados con que cuente o habilite el Organismo, conforme a la normatividad aplicable, concertando, en su caso, acciones de apoyo y coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
 
 III. Desarrollar, ejecutar y actualizar programas de atención integral a personas sujetas de asistencia social;
 
@@ -1095,7 +1109,7 @@ XIII. Supervisar y dar seguimiento a la ejecución del cumplimiento de los conve
 
 XIV. Gestionar y realizar canalizaciones de personas beneficiarias a organizaciones de la sociedad civil que tengan celebrados convenios de concertación con el Organismo en materia de atención especializada; y
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
 
 XV. Las demás que le confieran la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
@@ -1500,3 +1514,19 @@ PRIMERO.- La presente modificación al Estatuto entrará en vigor al día siguie
 SEGUNDO.- La persona titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes a través de la persona que ocupe la titularidad de la Dirección General de Normatividad, Promoción y Difusión de los Derechos de Niñas, Niños y Adolescentes, deberá realizar todas aquellas gestiones necesarias para conformar los lineamientos y bases, así como aquellas normativas que le den sustento regulador a la nueva “Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes”, así como las adecuaciones necesarias a fin de actualizar las acciones de operación, tipologías, elementos de identificación sustantiva y de políticas que conformaran dicha Red.
 
 TERCERO.- Hasta en tanto se cumple lo señalado en el artículo anterior, los elementos descritos que hagan referencia a la “Red Nacional de DIFusores” se entenderán como “Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes”.
+
+D.O.F. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Las referencias que contengan las disposiciones normativas de jerarquía inferior al Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia o los convenios de colaboración, coordinación u otros instrumentos convencionales que aludan a la Unidad de Atención a Población Vulnerable o a la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad relativas a disposiciones previas a esta reforma y que son motivo de la misma, se entenderán implícitamente aludidas a la Unidad de Asistencia e Inclusión Social y a la Dirección General de Integración Social y se mantendrán en vigor en tales términos, por lo que estas últimas unidades administrativas referidas, en su caso, deberán proponer los correspondientes convenios modificatorios de ser necesario y otros que en lo sucesivo se requieran para el cumplimiento de sus facultades estatutarias.
+
+CUARTO.- Únicamente se derogan las disposiciones normativas de jerarquía inferior a la presente reforma al Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, en aquello que se opongan o contravengan expresamente al presente Acuerdo.
+
+QUINTO.- Los asuntos en trámite y otros elementos que guarden relación con la administración, operación de establecimientos asistenciales para niñez migrante, motivo de la presente reforma deberán ser transferidos por la Unidad de Atención a Población Vulnerable o la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad para su continuidad hacia la Unidad de Asistencia e Inclusión Social y a la Dirección General de Integración Social en un plazo de 15 días hábiles a partir de la entrada en vigor del presente, sin que se demerite el desarrollo de los trabajos, lo anterior de conformidad con lo dispuesto por los artículos 45 y 46 de los Lineamientos Generales para la regulación de los procesos de entrega-recepción y de rendición de cuentas de la Administración Pública Federal, cuya última reforma fue publicada en el Diario Oficial de la Federación el seis de diciembre de dos mil dieciocho.
+
+SEXTO.- Las eventualidades que surjan relacionadas con recursos materiales, humanos u otras de diversa índole serán resueltas por el Jefe de la Unidad de Administración y Finanzas, conforme a lo dispuesto por el artículo 19, fracción VI del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el cinco de diciembre de dos mil diecinueve.
