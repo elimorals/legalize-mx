@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2020-12-23"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2022 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -701,6 +703,10 @@ Las multas por infracciones a las disposiciones municipales sean éstas de cará
 
 Cuando en la presente Ley se haga mención de la sigla “U.M.A.” dicho término se entenderá como la unidad de medida y actualización, que estuviese vigente en el momento en que se determine una contribución o un crédito fiscal.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+El valor a considerar cuando se haga mención en la presente Ley de la unidad de medida y actualización o U.M.A. será el valor diario vigente de dicha unidad multiplicado por el número de veces que la propia Ley establezca.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 ## TITULO SEGUNDO. DE LOS CONCEPTOS DE INGRESOS
@@ -803,6 +809,10 @@ Cuando la Dirección de Catastro del Municipio de Mérida expidiere una cédula 
 
 Si a la fecha de la emisión de la nueva cédula, el contribuyente ya hubiere pagado el impuesto correspondiente conforme al valor anterior, el nuevo valor consignado en la cédula servirá de base para calcular el impuesto correspondiente al mes en el que se aplique el nuevo valor, y en su caso, el de los siguientes meses por los cuales ya hubiere pagado el impuesto, determinándole la diferencia a pagar en caso de que resulte mayor y bonificándole la misma de los siguientes pagos, en caso de que resulte menor.
 
+> <small>(ADICIONADO SU ACÁPITE, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+De la base Valor Catastral
+
 ###### ARTÍCULO 46.
 
 Para la determinación de los valores catastrales correspondientes se tomarán en cuenta:
@@ -811,7 +821,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -819,7 +829,7 @@ II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas p
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 36 A LA 43; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 60.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 36 A LA 43; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 60; 29 DE DICIEMBRE DE 2021, PÁGINAS 55 A LA 64.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -827,19 +837,19 @@ III.- Los valores unitarios para los terrenos ubicados en el periférico y las c
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 45 A LA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 60 A LA 61.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 45 A LA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 60 A LA 61; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 64 A LA 65.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 La aplicación de los valores unitarios contenidos en esta fracción será a la superficie que resulte de multiplicar el frente del terreno, que se encuentre sobre el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, hasta por los cien primeros metros de fondo; la superficie restante será valorada con el valor unitario de la sección catastral que corresponda al terreno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 IV.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su unidad de propiedad exclusiva y su cuota de participación de las áreas comunes (antes, área privativa y proindiviso), de acuerdo a la siguiente tabla:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 61 A LA 62.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 61 A LA 62; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 65 A LA 67.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -847,7 +857,7 @@ V.- Los valores unitarios para los diferentes tipos de construcción y factores 
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 51; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 45 A LA 49; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 63 A LA 66.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 51; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 45 A LA 49; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 63 A LA 66; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 67 A LA 70.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -1033,7 +1043,9 @@ Dependiendo de la antigüedad de la construcción el valor unitario de la misma 
 
 NOTA 1.- Los tablajes catastrales; así como los predios urbanos ubicados en las secciones catastrales de la 31 a la 50, podrán ser demeritados hasta con el factor 0.50, respecto de la superficie restante a la del lote tipo de 1,000.00 M2, siempre y cuando no se haya aplicado para el predio el factor de demérito por superficie.
 
-NOTA 2.- Los inmuebles cuyo uso o destino sea de vialidad podrán ser demeritados hasta con el factor de 0.20
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+NOTA 2.- Los inmuebles cuyo uso o destino sea de vialidad podrán ser demeritados con el factor de 0.20.
 
 NOTA 3.- En los casos en los que dentro de una misma unidad habitacional o sección catastral las características físicas no sean homogéneas, la Dirección de Catastro podrá, previa justificación, modificar el valor unitario de terreno siempre y cuando no sea a la alza y hasta con un factor de 0.40.
 
@@ -1042,6 +1054,10 @@ NOTA 4.- Los inmuebles cuyo uso o destino sean áreas de donación para la feder
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 28 DE DICIEMBRE DE 2018)</small>
 
 NOTA 5.- En los casos en los que el predio se ubique en la zona 3 o 4 del Programa Municipal de Desarrollo Urbano de Mérida, la Dirección de Catastro podrá previa justificación, modificar el valor unitario de terreno hasta con un factor de 0.80.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+NOTA 6.- En los casos en los que un predio constituido en régimen de propiedad en condominio no se encuentre completamente desarrollado, la superficie de terreno exclusivo podrá demeritarse hasta con un factor de 0.40, siempre y cuando el valor unitario de dicha superficie no sea menor al valor unitario de la zona de ubicación del predio. Este demérito dejará de surtir sus efectos en el momento en que se detecte que el condominio ya ha sido completamente desarrollado.
 
 Los coeficientes de deméritos señalados en los incisos A), B), C), D), E), F), G) y H) no aplican en plazas comerciales. El coeficiente de demerito señalado en los incisos A), B), y C), podrá ser aplicado a tablajes catastrales, siempre que colinden con una vialidad constituida.
 
@@ -1053,7 +1069,7 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, el impu
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 66.]</small>
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 48 A LA 49.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 48 A LA 49; 29 DE DICIEMBRE DE 2021, PÁGINA 75.]</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -1325,13 +1341,19 @@ Vigencia de los avalúos
 
 Los avalúos periciales que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición. En todo caso, la fecha de la escritura deberá ubicarse dentro del plazo de vigencia.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-De la tasa
+De la tarifa
 
 ###### ARTÍCULO 60.
 
-El impuesto a que se refiere esta sección se calculará aplicando la tasa del 0.025, a la base señalada en el artículo 58 de esta Ley.
+El impuesto a que se refiere esta sección, se causará y pagará aplicando la siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 29 DE DICIEMBRE DE 2021, PÁGINA 76.]</small>
+
+Para el cálculo de éste, la diferencia entre la base del impuesto y el límite inferior que corresponda, se multiplicará por el factor aplicable al excedente del límite inferior que corresponda y al resultado obtenido se le sumará la cuota fija que corresponda; el importe de dicha operación será el Impuesto Sobre Adquisición de Inmuebles a pagar.
+
+La base del Impuesto será el valor mayor de conformidad al artículo 58 de esta Ley.
 
 Del manifiesto a la autoridad
 
@@ -1547,7 +1569,9 @@ a) Licencia para construcción.
 
 b) Licencia para demolición o desmantelamiento.
 
-c) Licencia para la excavación de zanjas en la vía pública.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+c) Licencia para la excavación de zanjas en vialidades.
 
 d) Licencia para construir bardas.
 
@@ -1937,7 +1961,15 @@ d) Zona 4. Conservación de los Recursos Naturales
 
 0.03 Metro Lineal
 
-3. Licencia para excavación de zanjas en vialidades 1.25 Metro Lineal
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+3. Licencia para excavación de zanjas en vialidades
+
+a) Para ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 2.00 Metro Lineal
+
+b) Para ductos o conductores para la explotación de servicios digitales 1.25 Metro Lineal
+
+c) Para ductos o conductores de cualquier tipo, distintos a los señalados en los incisos a) y b) del numeral 3 de esta fracción 1.25 Metro Lineal
 
 4. Licencia para construir bardas 0.06 Metro Lineal
 
@@ -2023,11 +2055,7 @@ de superficie
 
 solicitada
 
-2. Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo
-
-0.20 Metro Lineal de
-
-vialidad
+2. (DEROGADO, D.O. 29 DE DICIEMBRE DE 2021)
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VI, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -2214,6 +2242,16 @@ exclusiva, se pagará 110 Constancia
 d) De 101 unidades de propiedad exclusiva
 
 en adelante, se pagará 150 Constancia
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+5. De viabilidad para la instalación subterránea o aérea de:
+
+a) Ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 0.15 Metro Lineal
+
+b) Ductos o conductores para la explotación de servicios digitales 0.05 Metro Lineal
+
+c) Ductos o conductores de cualquier tipo, distintos a los señalados en los incisos a) y b) del numeral 5 de esta fracción 0.02 Metro Lineal
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VIII, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -2621,6 +2659,10 @@ $3.00 pesos
 
 c) Información pública municipal en disco compacto. $10.00 pesos
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Las cuotas establecidas en el presente artículo también serán aplicables a los servicios que por esos conceptos presten los organismos descentralizados o paramunicipales del Ayuntamiento de Mérida, los cuales serán recaudados y administrados en los términos que sus respectivos regímenes interiores establezcan.
+
 ###### ARTÍCULO 81.
 
 Los ejemplares y publicaciones en la Gaceta Municipal del Ayuntamiento de Mérida, causarán derechos conforme a lo siguiente:
@@ -2905,7 +2947,21 @@ V.- Por revalidación de cada oficio de división, unión y rectificación de me
 
 VI.- Por la elaboración de planos:
 
-a).- Tamaño carta 4.0
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+a).- Tamaño carta, conforme al rango de construcción siguiente:
+
+1. De hasta 300.00 m2 4.0
+
+2. De 300.01 a 600.00 m2 7.0
+
+3. De 600.01 a 900.00 m2 10.0
+
+4. De 900.01 a 1,200.00 m2 13.0
+
+5. De 1,200.01 a 1,500.00 m2 16.0
+
+Para el caso de la elaboración de planos cuya construcción exceda de 1,500.00 metros cuadrados, se pagará una cuota equivalente a 4 veces la unidad de medida y actualización por la elaboración del plano, más los derechos establecidos en la fracción VII e inciso b) de la fracción VIII, ambas del presente artículo.
 
 b).- Hasta cuatro cartas 7.0
 
@@ -2915,13 +2971,13 @@ c).- Hasta 105 x 90 centímetros (Ploter) 20.0
 
 VII.- Por cada diligencia de verificación:
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, ubicación física, medidas físicas, colindancias de predios, altimetría o marcajes en predios comprendidos en las secciones de la 1 a la 30 6.0
+a).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, medidas físicas, colindancias de predios, altimetría o marcajes en predios comprendidos en las secciones de la 1 a la 30 9.0
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, ubicación física, medidas físicas, colindancias de predios, almetría, o marcajes en predios comprendidos en las secciones de la 31 a la 50 8.0
+b).- Para la factibilidad de división, cambio de nomenclatura, estado físico del predio, medidas físicas, colindancias de predios, altimetría o marcajes en predios comprendidos en las secciones de la 31 a la 50 11.0
 
 c).- Para la elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental 20.0
 
@@ -3137,9 +3193,19 @@ V.- Plano del Municipio de Mérida (No georeferenciado) hasta nivel manzana, en 
 
 VI.- Asignación de nomenclatura en planos de fraccionamientos y divisiones de predios que formen al menos una vialidad, por cada fracción 0.1 U.M.A.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VII.- Por revisión y validación en línea (vía internet) de planos en formato catastral, elaborados y presentados por un dibujante empadronado, se cobrará por cada plano. 0.32 U.M.A.
+VII.- Por revisión y validación en línea (vía internet) de planos en formato catastral, se cobrará por cada plano:
+
+a) Cuando sean elaborados y presentados por un dibujante empadronado 0.32 U.M.A.
+
+b) Cuando se trate de validación de planos necesarios para el servicio de revisión técnica de la documentación de constitución o modificación del régimen de propiedad en condominio, conforme a lo siguiente:
+
+1. En condominios horizontales de hasta 40 fracciones o en condominios verticales de hasta 2 niveles 0.32 U.M.A.
+
+2. En condominios horizontales de 41 fracciones o más, o en condominios verticales de 3 niveles o más 0.50 U.M.A.
+
+3. En subcondominios 1.0 U.M.A.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -3213,9 +3279,15 @@ b) Para la instalación de mobiliario urbano del tipo paradero de autobús con e
 
 c) Para la instalación de mobiliario urbano distinto al señalado en el inciso b) de esta fracción, cuyo uso requiera el pago de una contraprestación: 0.50 veces la unidad de medida y actualización por metro cuadrado o fracción de éste.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-d) Para la instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo: 0.05 veces la unidad de medida y actualización por metro lineal.
+d) Para la instalación subterránea o aérea de:
+
+1. Ductos de gas natural, gasolina, diésel y demás derivados del petróleo: 0.15 veces la unidad de medida y actualización por metro lineal.
+
+2. Ductos o conductores para la explotación de servicios digitales: 0.05 veces la unidad de medida y actualización por metro lineal.
+
+3. Ductos o conductores de cualquier tipo distintos a los señalados en los numerales 1 y 2 del inciso d) de la presente fracción: 0.02 veces la unidad de medida y actualización por metro lineal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3264,6 +3336,10 @@ Excepto por el derecho contenido en las fracciones III y IV, los demás derechos
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 Los derechos establecidos en los incisos b) y c) de la fracción I y fracción II de este artículo se pagarán dentro de los quince días naturales del mes siguiente a aquel en que se hayan causado. Tratándose de lo establecido en los incisos b) y c) de la fracción I se podrá realizar el pago anticipado correspondiente a una anualidad.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Los derechos establecidos en el inciso d) de la fracción I de este artículo, deberán cubrirse por periodos de un año y en los términos del convenio que para el efecto se suscriba, previa aprobación del uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, por parte del Cabildo del H. Ayuntamiento de Mérida.
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -3465,6 +3541,10 @@ d) Florido y Jardines de la Paz a partir del cuarto refrendo se pagará:
 
 hasta 5 x 11 metros, por metro cuadrado 2.0 U.M.A.
 
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVII.- Por el nombramiento de beneficiario 1.0 U.M.A.
+
 ###### ARTÍCULO 102.
 
 Por servicios funerarios se pagarán los derechos que se establecen a continuación:
@@ -3477,13 +3557,13 @@ I.- Por los servicios prestados en Xoclán:
 
 a) Velación 4.0 U.M.A.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Ambulancia 3.6 U.M.A.
+b) Ambulancia 8.3 U.M.A.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-c) Carroza 8.3 U.M.A.
+c) Carroza 3.6 U.M.A.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3959,9 +4039,9 @@ b) Los usuarios de los servicios de recolección y traslado de residuos sólidos
 
 Para los efectos del inciso b) de este artículo, se considerará como tarifa de consumo ordinario el importe total que resulte de aplicar la tarifa señalada en el último párrafo del artículo 126 por el número de tambores de residuos sólidos de origen comercial generados por el usuario en el mes inmediato anterior a aquél en que se realice el pago señalado en ese inciso. Si durante cualquiera de los meses de servicio de recolección que se haya pagado por anticipado el usuario del servicio de recolección excediera en un 20 por ciento el número de tambores considerados para la determinación de la tarifa de consumo ordinario, éste deberá pagar la cuota correspondiente al número de tambores que excedieron al número de tambores considerados para la determinación de la tarifa de consumo ordinario.
 
-#### Sección Décima Sexta
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica Turística y Cultural.
+#### Sección Décima Sexta. Derechos por permisos otorgados a Oferentes en Programas para la Promoción Económica, Turística y Cultural
 
 ###### ARTÍCULO 128.
 
@@ -3985,11 +4065,11 @@ b) En el caso de programas o eventos de carácter eventual, por participar en es
 
 Por la emisión de la credencial de oferente en programas o eventos para la promoción económica y turística, se pagará un derecho equivalente a 2 veces la unidad de medida y actualización.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 131.
 
-El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Turismo y Promoción Económica, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
+El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Desarrollo Económico y Turismo, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
 
 #### Sección Décima Séptima. De los Derechos por el Servicio de Agua Potable y Drenaje
 
@@ -3997,9 +4077,11 @@ El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director d
 
 Son sujetos de los derechos establecidos en esta Sección, las personas físicas o morales, propietarias o poseedoras de inmuebles ubicados en el Municipio de Mérida, que se beneficien con los servicios de agua potable o drenaje sanitario proporcionados directamente por el Municipio.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 133.
 
-El objeto de los derechos a los que se refiere esta Sección son el servicio de suministro de agua potable y el de drenaje sanitario que el Municipio proporcione.
+El objeto de los derechos a los que se refiere esta Sección son el suministro de agua potable y drenaje sanitario que el Municipio de Mérida proporcione; así como los servicios inherentes a éstos establecidos en las fracciones V, VI y VII del artículo 134.
 
 ###### ARTÍCULO 134.
 
@@ -4012,6 +4094,18 @@ II. Para los predios que no cuenten con medidor volumétrico en su toma de agua:
 III. Por la contratación para la conexión de un predio a la red de Agua Potable Municipal: Por la toma de agua.
 
 IV. Por el servicio de drenaje sanitario será el importe correspondiente al consumo de agua potable.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V. Por el dictamen de factibilidad de dotación de agua potable a Desarrollos Inmobiliarios en las comisarías pertenecientes al Municipio de Mérida: el dictamen de factibilidad.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VI. Por el dictamen de autorización de proyecto de ampliación de red de agua potable a Desarrollos Inmobiliarios en comisarías del Municipio de Mérida: el dictamen de autorización.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VII. Por el dictamen de autorización de modificación de proyecto de ampliación de red de agua potable a Desarrollos Inmobiliarios en comisarías del Municipio de Mérida: el dictamen de autorización.
 
 ###### ARTÍCULO 135.
 
@@ -4081,15 +4175,29 @@ II. Por el consumo de agua potable de aquellos predios en los cuales no se haya 
 
 III. Por la contratación para la conexión de toma de agua, se pagará una cuota de 250 pesos.
 
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV. Por el dictamen de factibilidad de dotación de agua potable a Desarrollos Inmobiliarios ubicados en las comisarías pertenecientes al Municipio de Mérida, se pagará una cuota equivalente a 8.00 veces la unidad de medida y actualización.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V. Por el dictamen de autorización de proyecto de ampliación de red de agua potable a Desarrollos Inmobiliarios en comisarías del Municipio de Mérida, se pagará una cuota equivalente a 11.00 veces la unidad de medida y actualización.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VI. Por el dictamen de autorización de modificación de proyecto de ampliación de red de agua potable a Desarrollos Inmobiliarios en comisarías del Municipio de Mérida, se pagará una cuota equivalente a 5.00 veces la unidad de medida y actualización.
+
 ###### ARTÍCULO 136.
 
 La tarifa aplicable al servicio de drenaje sanitario a que se refiere la presente sección será el 50% del importe del consumo de agua potable que corresponda al mismo período
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 137.
 
-Los derechos a que se refiere la presente sección deberán cubrirse dentro del mes siguiente al cual correspondan, no se causará actualización ni recargos sobre los mismos.
+Los derechos a que se refieren las fracciones I y II del artículo 135 de la presente sección, deberán cubrirse dentro del mes siguiente al cual correspondan, no se causará actualización ni recargos sobre los mismos. En el caso de los derechos a que se refieren las fracciones III, IV, V y VI del artículo 135 de la presente sección, deberán cubrirse al momento de solicitar el servicio.
 
-Cuando el Municipio de Mérida realice la reconexión de los servicios de agua potable, con motivo de la reducción o suspensión del servicio de agua potable a que se hizo acreedor el usuario que adeudó las cuotas establecidas en el artículo 135, el usuario deberá pagar una cuota de 110 pesos por concepto de reconexión.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 #### Sección Décima Octava. Derechos por los Servicios de la Central de Abasto
 
@@ -4108,6 +4216,10 @@ Es objeto de este derecho, la prestación de los servicios de administración de
 Por el servicio de administración de central de abasto se entenderá, la asignación de lugares o espacios para la instalación de lugares fijos o semifijos y el control de los mismos, así como los servicios de aseo, mantenimiento, vigilancia, de entrada de vehículos, y otros relacionados con la operación y funcionamiento de las áreas e instalaciones de uso común.
 
 Los ingresos que se obtengan por los servicios señalados en esta Sección, serán administrados por el organismo municipal descentralizado del Ayuntamiento de Mérida denominado "Central de Abasto de Mérida", en los términos del Decreto Número 526 publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 5 de Enero de 1982.
+
+> <small>(ADICIONADO SU ACÁPITE, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+De la base y cuotas
 
 ###### ARTÍCULO 140.
 
@@ -4131,15 +4243,15 @@ c) De tres ejes 3.0 U.M.A.
 
 d) De más de tres ejes 6.0 U.M.A.
 
-> <small>(REFORMADA EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II.- Por cada día de uso de andén para la exhibición o venta de productos, por cada área de frente a la bodega, de hasta 4 metros lineales: 1.0 U.M.A.
+II.- Por cada mes de uso de andén para la exhibición o venta de productos, por cada área de frente a la bodega, de hasta 4 metros lineales: 10 U.M.A.
 
 > <small>(REFORMADA EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
 III.- Por cada 4 metros de frente de bodega, por concepto de mantenimiento y limpieza de las áreas e instalaciones de uso común, por mes: 3.0 U.M.A.
 
-Cuando derivado de la aplicación de esta fracción III resulte un importe mayor a 1,100 pesos por mes, el derecho se considerará causado hasta por 1,100 pesos del pago.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4151,9 +4263,17 @@ Del pago
 
 Las cuotas a que se refiere la fracción I del artículo 140 deberán ser pagadas previamente a la entrada del vehículo a las instalaciones de la central de abasto de Mérida.
 
-En el caso a que se refiere la fracción II del artículo 140, las cuotas deberán ser pagadas en forma diaria a más tardar en el día al cual correspondan. Las cuotas a que se refiere la fracción III del mencionado artículo 140, deberán ser cubiertas en forma mensual dentro de los primeros diez días del mes siguiente al cual correspondan.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-No se causarán actualización ni recargos sobre las cuotas a que se refiere el artículo 140
+En el caso a que se refiere la fracción II del artículo 140, las cuotas deberán ser pagadas en forma mensual a más tardar dentro de los primeros 5 días naturales del mes siguiente al cual correspondan. Las cuotas a que se refiere la fracción III del mencionado artículo 140, deberán ser cubiertas en forma mensual dentro de los primeros diez días naturales del mes siguiente al cual correspondan.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Cuando el último día de los plazos a que se refiere el párrafo anterior fuera día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+No se causarán actualización ni recargos sobre las cuotas a que se refiere el artículo 140.
 
 #### Sección Décima Novena. De los Derechos por los Servicios de Limpia de Bienes Inmuebles en Desuso
 
@@ -4187,7 +4307,21 @@ ARTÍCULO 144 B.- El objeto de los derechos establecidos en esta sección son lo
 
 I.- Constancia de Conformidad respecto de seguridad y ubicación para el consumo de Pirotecnia y Explosivos, y
 
-II.- Resultado de visita de verificación voluntaria.
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+II.- Emisión de Dictamen de Riesgo.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+III.- Emisión de Análisis de Riesgo.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV.- Revisión y Registro de Programas Internos de Protección Civil.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V.- Emisión de Constancia de Cumplimiento de Requisitos en Materia de Protección Civil.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4195,7 +4329,57 @@ ARTÍCULO 144 C.- Los derechos por los servicios a que se refiere la presente se
 
 I.- Por la Constancia de Conformidad respecto de seguridad y ubicación para el consumo de pirotecnia y explosivos: 10 U.M.A.
 
-II.- Por el resultado de visita de verificación voluntaria: 5 U.M.A.
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+II.- Emisión de Dictamen de Riesgo:
+
+a) Para establecimientos con ocupación de hasta 500.00 m2 6 U.M.A.
+
+b) Para establecimientos con ocupación de 500.01 hasta 3,000.00 m2 18 U.M.A.
+
+c) Para establecimientos con ocupación de 3,000.01 hasta 6,000.00 m2 36 U.M.A.
+
+d) Para establecimientos con ocupación de más de 6,000.00 m2 72 U.M.A.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+III.- Emisión de Análisis de Riesgo:
+
+a) Para edificaciones de hasta 500.00 m2 6 U.M.A.
+
+b) Para edificaciones de 500.01 hasta 3,000.00 m2 18 U.M.A.
+
+c) Para edificaciones de 3,000.01 hasta 6,000.00 m2 36 U.M.A.
+
+d) Para edificaciones de más de 6,000.00 m2 72 U.M.A.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV.- Revisión y registro de programas internos de Protección Civil:
+
+a) Cuando sea presentado para su registro por primera ocasión 60 U.M.A.
+
+b) Por la actualización de la vigencia de registros previamente emitidos 18 U.M.A.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V.- Emisión de constancia de cumplimiento de requisitos en materia de Protección Civil:
+
+a) Por evento con aforo de 1 y hasta 99 personas 5 U.M.A.
+
+b) Por evento con aforo de 100 y hasta 499 personas 10 U.M.A.
+
+c) Por evento con aforo de 500 y hasta 999 personas 15 U.M.A.
+
+d) Por evento con aforo de 1,000 y hasta 4,999 personas 25 U.M.A.
+
+e) Por evento con aforo de 5,000 y hasta 9,999 personas 50 U.M.A.
+
+f) Por evento con aforo a partir de 10,000 personas 100 U.M.A.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
+El pago de los derechos establecidos en la presente sección se pagará al momento de realizar la solicitud del servicio.
 
 ### CAPÍTULO III. CONTRIBUCIONES ESPECIALES
 
@@ -6268,3 +6452,111 @@ II. Los predios que fueron objeto de traslación de dominio a partir del ejercic
 ###### ARTÍCULO DÉCIMO.
 
 Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2021, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en todos los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
+
+D.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 439/2021 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil veintidós, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda, del Capítulo II, del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2022 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2022, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48, las bonificaciones se otorgarán de conformidad con lo establecido en el Programa de Estímulo que al efecto expida el Cabildo del H. Ayuntamiento de Mérida.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2022, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2022, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2022, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2022.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2022, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2022 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2022, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2021.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2022 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2022, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en todos los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
