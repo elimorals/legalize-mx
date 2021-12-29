@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2021-06-29"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -77,235 +77,313 @@ I.- Adecuaciones Presupuestarias: Las modificaciones a los calendarios presupues
 
 II.- Amortización de la Deuda y Disminución de Pasivos: Comprende la amortización de la deuda adquirida y disminución de pasivos con el sector privado y público;
 
-III.- Anteproyectos de Presupuesto del Estado: Los que elaboren las Dependencias y Entidades del Poder Ejecutivo y que se envían a la Secretaria para su incorporación, en su caso, al Proyecto de Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+III.- Anteproyectos de Presupuesto del Estado: Los que elaboren las Dependencias y Entidades del Poder Ejecutivo y que se envían para su incorporación, en su caso, al Proyecto de Presupuesto de Egresos del Estado;
 
 IV.- Anteproyectos de Presupuesto del Municipio: Los que elaboren las Dependencias y Entidades de la Administración Pública Municipal;
 
 V.- Asignaciones Presupuestales: Las previsiones de Gasto Público, aprobado mediante el Presupuesto de Egresos del Estado, que realiza el Titular del Ejecutivo a través de la Secretaría a los Ejecutores de Gasto del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VI.- Autoridades fiscalizadoras: Son aquellas facultadas para vigilar y revisar el Gasto Público en el ámbito de sus competencias federal, estatal o municipal, entre otras se pueden considerar como tales: la Auditoria Superior de la Federación, la Secretaría de la Función Pública del Poder Ejecutivo Federal; así como el Órgano Superior de Fiscalización del Estado, instancias competentes de los Poderes Legislativo y Judicial del Estado y de los Órganos Autónomos, la Contraloría del Estado, la CPLAP, así como las Contralorías Municipales;
+VI.- Autoridades fiscalizadoras: Son aquellas facultadas para vigilar y revisar el Gasto Público en el ámbito de sus competencias federal, estatal o municipal, entre otras se pueden considerar como tales: la Auditoria Superior de la Federación, la Secretaría de la Función Pública del Poder Ejecutivo Federal; así como el Órgano Superior de Fiscalización del Estado, instancias competentes de los Poderes Legislativo y Judicial del Estado y de los Órganos Autónomos, la Contraloría del Estado, el IPLANEA, los Órganos Internos de Control de las Entidades Paraestatales o Paramunicipales, así como las Contralorías Municipales;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VII.- CPLAP: Coordinación General de Planeación y Proyectos
+VII.- Balance presupuestario: La diferencia entre los ingresos totales incluidos en la Ley de Ingresos del Estado o de los Municipios, y los Gastos Totales considerados en el Presupuesto de Egresos del Estado o de los Municipios, con excepción de la amortización de la deuda respectivamente;
 
-VIII.- Clasificaciones: Es el orden y la distribución de las Asignaciones Presupuestales con el fin de sistematizar la orientación del Gasto Público, registrar y analizar su estructura, conforme a las diferentes formas vigentes para presentar las previsiones de recursos públicos, manteniendo los criterios de la armonización contable;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IX.- Clasificador: Es el clasificador por objeto del gasto, el documento técnico-normativo que permite a los Ejecutores de Gasto registrar los gastos que se realizan en el proceso presupuestario. Resume, ordena y presenta los gastos programados en el Presupuesto de Egresos, de acuerdo con la naturaleza de los bienes, servicios, activos y pasivos financieros objeto de la erogación. Alcanza a todas las transacciones que se realizan para obtener bienes y servicios que se utilizan en la prestación de servicios públicos y en la realización de Transferencias en el marco de la Ley;
+VIII.- Balance presupuestario de recursos disponibles: La diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos del Estado o de los Municipios, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos del Estado o de los Municipios, con excepción de la amortización de la deuda respectivamente;
 
-X.- COMUPLA: Coordinación Municipal de Planeación, las Dependencias o Entidades Municipales encargadas de crear y operar el Sistema de Evaluación del Desempeño Municipal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XI.- Congreso: Congreso del Estado de Aguascalientes;
+IX.- Clasificaciones: Es el orden y la distribución de las asignaciones presupuestales con el fin de sistematizar la orientación del Gasto Público, registrar y analizar su estructura, conforme a las diferentes formas vigentes para presentar las previsiones de recursos públicos, manteniendo los criterios de la armonización contable;
 
-XII.- Dependencias del Ejecutivo: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado, incluyendo sus órganos desconcentrados, mismas que son objeto de control presupuestario directo por parte de la Secretaría;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XIII.- Dependencias del Municipio: Las Dependencias de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público, en los términos que marca Ley Municipal para el Estado de Aguascalientes;
+X.- Clasificador: Es el clasificador por objeto del gasto, el documento técnico-normativo que permite a los ejecutores de gasto registrar los gastos que se realizan en el proceso presupuestario, así como resumir, ordenar y presentar los gastos programados en el Presupuesto de Egresos, de acuerdo con la naturaleza de los bienes, servicios, activos y pasivos financieros objeto de la erogación. Alcanza a todas las transacciones que se realizan para obtener bienes y servicios que se utilizan en la prestación de servicios públicos y en la realización de Transferencias en el marco de la Ley;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XIII A.- Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
+XI.- COMUPLA: Coordinación Municipal de Planeación, las Dependencias o Entidades Municipales encargadas de crear y operar el Sistema de Evaluación del Desempeño Municipal;
 
-XIV.- Disponibilidad Presupuestaria: Los recursos públicos que disponen los Ejecutores de Gasto en virtud de las Asignaciones Presupuestales previstas en el Presupuesto de Egresos, hasta que son aplicados o ejercidos a los conceptos de gasto correspondientes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+XII.- Congreso: El Congreso del Estado de Aguascalientes;
 
-XIV A.- Economías: Son los remanentes de recursos no devengados del presupuesto modificado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XV.- Ejecutores de Gasto: Las Dependencias y Entidades del Poder Ejecutivo, Legislativo y Judicial, los Órganos Autónomos, todos del Estado de Aguascalientes, así como los Municipios y sus correspondientes Dependencias y Entidades que ejerzan Gasto Público;
+XIII.- Constancia de Participaciones: El documento que emite la Secretaría de Hacienda y Crédito Público de manera mensual al Estado para informar el monto de las participaciones provisionales que le corresponden;
 
-XVI.- Ejecutores de Gasto del Estado: Los Poderes Ejecutivo, Legislativo y Judicial, así como los órganos Autónomos que ejerzan Gasto Público previsto en el Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVII.- Ejecutores de Gasto del Municipio: Las Dependencias y Entidades que forman parte de la Administración Pública Municipal, conforme a lo establecido por la Ley Municipal para el Estado de Aguascalientes;
+XIV.- Criterios Generales de Política Económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación y, a tal fin, para asegurar la congruencia necesaria con la Ley de Ingresos del Estado y el Presupuesto de Egresos del Estado y de los Municipios, respectivamente;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVIII.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 5° de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, mismos que son objeto de control presupuestario indirecto por parte de la Secretaria;
+XV.- Cuenta Pública: El documento a que se refiere el Artículo 27, Fracción V de la Constitución Política del Estado de Aguascalientes;
 
-XIX.- Entidades del Municipio: Las Entidades de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público, en los términos que marca (sic) Ley Municipal para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XX.- Estado: El Estado Libre y Soberano de Aguascalientes;
+XVI.- Dependencias del Ejecutivo: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, incluyendo sus órganos desconcentrados; mismas que son objeto de control presupuestario directo por parte de la Secretaría;
 
-XXI.- Estructura Presupuestal: Herramienta técnica que tiene por objeto presentar, ordenar y operar el ejercicio de los recursos públicos a través de clasificaciones administrativas, económicas, programáticas y demás clasificaciones de destino del Gasto Público, agrupadas en la clave presupuestaria, con apego a la armonización contable para la presentación, registro e información de las erogaciones previstas en el Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXII.- Evaluación del Desempeño: El seguimiento y la evaluación sistemática de los Programas Presupuestarios de los Ejecutores de Gasto, que permite la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión;
+XVII.- Dependencias del Municipio: Las Dependencias de la Administración Pública Municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público, en los términos que marca Ley Municipal para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXIII.- Ingresos Excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos del Estado y en la Ley de Ingresos de los Municipios;
+XVIII.- Deuda Contingente: Cualquier financiamiento sin fuente o garantía de pago definida, que contraten los organismos descentralizados estatales y municipales; las empresas de participación mayoritaria estatales o municipales y los fideicomisos estatales y municipales, cuando se asuma de manera solidaria o subsidiaria por el Gobierno del Estado o de los Municipios, o entre éstos, lo anterior, de acuerdo con lo establecido por la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
-XXIV.- Gasto Comprometido: El momento contable del gasto que refleja la aprobación por autoridad competente de un acto administrativo u otro instrumento jurídico que formaliza una relación jurídica con terceros para la adquisición de bienes y servicios o ejecución de obras y servicios relacionados con las mismas. En el caso de las obras a ejecutarse y servicios relacionados con las mismas o de bienes y servicios a recibirse durante varios ejercicios, el compromiso será registrado por la parte que se ejecutará o recibirá durante cada ejercicio;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+XIX.- Deuda Pública: Cualquier Financiamiento contratado para satisfacer los requerimientos presupuestales de los entes públicos, lo anterior, de acuerdo por lo establecido con la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
-XXV.- Gasto Corriente: Son los gastos de consumo y/o de operación que no tienen como contrapartida la creación de un activo, incluyendo de manera enunciativa mas no limitativa, el gasto en servicios personales, materiales y suministros, el arrendamiento de la propiedad y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos otorgados a los Ejecutores de Gasto, para financiar gastos de esas características;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXVI.- Gasto de Capital: Son los gastos destinados a la inversión de capital y las transferencias a los Ejecutores de Gasto y fideicomisos no considerados entidades paraestatales, para financiar gastos de estos con tal propósito;
+XX.- Disponibilidades: Los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
 
-XXVII.- Gasto Devengado: Al reconocimiento de las obligaciones de pago por parte de los ejecutores del gasto a favor de terceros con cargo al Presupuesto, por la recepción de conformidad de aceptar a satisfacción los bienes, servicios, contraprestaciones adquiridas o avance por trabajos ejecutados en obras públicas conforme al contrato correspondiente, y en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+XXI.- Disponibilidad Presupuestaria: Los recursos públicos que disponen los Ejecutores de gasto en virtud de las Asignaciones Presupuestales previstas en el Presupuesto de Egresos, hasta que son aplicados o ejercidos a los conceptos de gasto correspondientes;
 
-XXVIII.- Gasto Público: Gasto total que comprende la totalidad de las erogaciones previstas en el Presupuesto de Egresos, a cargo de los Ejecutores de Gasto del Estado y, en su caso, de los Municipios. El Gasto Público incluye los recursos que erogan los Sujetos de la Ley con recursos que provienen de reasignaciones realizadas por el Gobierno Federal o por el Estado a través de contratos, convenios, acuerdos y demás instrumentos jurídico-administrativos que determinen su naturaleza y destino;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXIX.- Impacto Presupuestal: Es el costo total por ejercicio fiscal que generaría para el erario público la aplicación de reformas o nuevas leyes, decretos, reglamentos, convenios y demás documentos análogos;
+XXII.- Economías: Los remanentes de recursos no comprometidos ni devengados del presupuesto modificado;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXX.- Indicadores de desempeño: Las expresiones cuantitativas o cualitativas, formuladas por la CPLAP o por la COMUPLA, según sea el caso, correspondiente a un índice, medida, cociente o fórmula que establece un parámetro del avance en el cumplimiento de los objetivos y metas. Dichos indicadores podrán ser de tipo estratégico o de gestión;
+XXIII.- Ejecutores de Gasto: Las Dependencias y Entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, los Órganos Autónomos, todos del Estado de Aguascalientes, así como los Municipios y sus correspondientes Dependencias y Entidades que ejerzan Gasto Público;
 
-XXXI.- Indicadores Estratégicos: Indicador de desempeño que mide el grado de cumplimiento de los objetivos de las políticas públicas y de los programas presupuestarios que impactan de manera directa en la población objetivo o área de enfoque;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXXII.- Indicadores de Gestión: Indicador de desempeño que mide el avance y logro en procesos y actividades, es decir, sobre la forma en que los bienes y servicios públicos son generados;
+XXIV.- Ejecutores de Gasto del Estado: Los Poderes Ejecutivo, Legislativo y Judicial, así como los órganos Autónomos que ejerzan Gasto Público previsto en el Presupuesto de Egresos del Estado;
 
-XXXIII.- Ley: Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXXIV.- Ley de Ingresos del Estado: La Ley de Ingresos del Estado de Aguascalientes para el ejercicio fiscal correspondiente, aprobada por el Congreso, autorizando los conceptos de ingresos para cubrir el Presupuesto de Egresos del Estado;
+XXV.- Ejecutores de Gasto del Municipio: Las Dependencias y Entidades que forman parte de la Administración Pública Municipal, conforme a lo establecido por la Ley Municipal para el Estado de Aguascalientes;
 
-XXXV.- Ley de Ingresos de los Municipios: La Ley de Ingresos de los Municipios, para el ejercicio fiscal correspondiente, aprobada por el Congreso;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+XXVI.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo las universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 5° de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, mismas que son objeto de control presupuestario indirecto por parte de la Secretaría;
 
-XXXVI.- Metodología del Marco Lógico: Es la herramienta desarrollada por la CPLAP o las COMUPLA, de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+XXVII.- Entidades del Municipio: Las Entidades de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público, en los términos que marca la Ley Municipal para el Estado de Aguascalientes;
 
-XXXVII.- Órganos Autónomos: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Aguascalientes, a los (sic) que se asignen recursos del Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXXVIII.- Plan Sexenal.- Plan Sexenal de Gobierno del Estado de Aguascalientes;
+XXVIII.- Estado: El Estado Libre y Soberano de Aguascalientes;
 
-XXXIX.- Presupuesto Basado en Resultados: Conjunto de procesos y herramientas que permite apoyar las decisiones presupuestarias en información que sistemáticamente incorpora consideraciones sobre los resultados de evaluación del ejercicio de los recursos públicos, y que motiva a los Ejecutores de Gasto a lograrlos, con el objeto de mejorar la calidad del gasto público y promover una adecuada rendición de cuentas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XL.- Presupuesto de Egresos: El documento mediante el cual se autorizan las erogaciones de los Ejecutores de Gasto para el ejercicio fiscal correspondiente;
+XXIX.- Estructura Presupuestal: Herramienta técnica que tiene por objeto presentar, ordenar y operar el ejercicio de los recursos públicos a través de clasificaciones administrativas, económicas, programáticas y demás clasificaciones de destino del Gasto Público, agrupadas en la clave presupuestaria, con apego a la armonización contable para la presentación, registro e información de las erogaciones previstas en el Presupuesto de Egresos;
 
-XLI.- Presupuesto de Egresos del Estado: El documento que contenga el Decreto del Congreso mediante el cual se expide el Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal correspondiente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XLII.- Presupuesto de Egresos del Municipio: El documento que contenga el Acuerdo del Ayuntamiento, mediante el cual se expide el Presupuesto de Egresos para el ejercicio fiscal correspondiente, del Municipio de que se trate;
+XXX.- Evaluación del Desempeño: El seguimiento y la evaluación sistemática de los programas presupuestarios de los Ejecutores de Gasto, que permite la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión;
 
-XLIII.- Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los Ejecutores del Gasto generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo. Para ello cuantifica los recursos humanos, materiales y financieros necesarios para la generación del bien o servicio a realizar bajo el enfoque del Presupuesto Basado en Resultados;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XLIV.- Proyecto de Ley de Ingresos del Estado: Es el documento que envía el Titular del Ejecutivo al Congreso para su aprobación que contiene los conceptos de ingresos;
+XXXI.- FEIEF: Fondo de Estabilización de los Ingresos de las Entidades Federativas previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
-XLV.- Proyecto de Ley de Ingresos del Municipio: Es el documento que envía el Presidente Municipal al Congreso para su aprobación, que contiene los conceptos de ingresos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XLVI.- Proyecto de Presupuesto de Egresos del Estado: Es el documento que envía el Titular del Ejecutivo para su aprobación al Congreso, que incorpora los Anteproyectos del Presupuesto del Estado y Proyectos de Presupuesto de Egresos;
+XXXII.- Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los entes públicos y, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, así como sus compromisos de pago, lo anterior, de acuerdo con lo establecido por la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
-XLVII.- Proyecto de Presupuesto de Egresos del Municipio: Es el documento que envía el Tesorero Municipal al Ayuntamiento para su aprobación y tiene como propósito estimar los costos durante el período de un año las acciones, obras y servicios públicos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+XXXIII.- Financiamiento Neto: La diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública, lo anterior, de acuerdo con lo establecido por la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
-XLVIII.- Proyectos de Prestación de Servicios y/o Asociaciones Público-Privadas: a las que se refiere la Ley de Asociaciones Público-Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XLIX.- Proyectos de Presupuesto de Egresos: Los que elaboren los Poderes Legislativo y Judicial, así como los órganos Autónomos, que se envían al Ejecutivo para incorporarse al Proyecto de Presupuesto de Egresos del Estado;
+XXXIV.- Fuente de pago: Los recursos utilizados por los entes públicos para el pago de cualquier Financiamiento u obligación, lo anterior, de acuerdo por lo establecido por la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-L.- Reasignaciones: Son las modificaciones al Presupuesto de Egresos del Estado que pueden realizarse, según las reglas contenidas en el Presupuesto de Egresos del Estado del ejercicio correspondiente y que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los Ejecutores de Gasto, en donde los capítulos, conceptos, partidas y Ejecutores del Gasto son disminuidos en sus recursos cuando sirven como origen, y en donde los capítulos, conceptos, partidas y Ejecutores del Gasto tienen incremento de recursos cuando sirven como destino;
+XXXV.- Gasto Comprometido: El momento contable del gasto que refleja la aprobación por autoridad competente de un acto administrativo, u otro instrumento jurídico que formaliza una relación jurídica con terceros para la adquisición de bienes y servicios o ejecución de obras y servicios relacionados con las mismas. En el caso de las obras a ejecutarse y servicios relacionados con las mismas o de bienes y servicios a recibirse durante varios ejercicios, el compromiso será registrado por la parte que se ejecutará o recibirá durante cada ejercicio;
 
-LI.- Reasignaciones por Convenio: Fuente de financiamiento del gasto público que se integra de los subsidios o reasignaciones que el Gobierno Federal transfiere, de conformidad a lo establecido en los convenios y demás instrumentos jurídicos que determinan su naturaleza y destino, que significan ingresos adicionales a los contemplados en la Ley de Ingresos, sin que para ello se requiera la aprobación del Congreso. En todos los casos, tanto los ingresos como a los egresos, estas aplicaciones de recursos de origen federal deberán incluirse en la Cuenta Pública;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+XXXVI.- Gasto Corriente: Son los gastos de consumo y/o de operación que no tienen como contrapartida la creación de un activo, incluyendo de manera enunciativa mas no limitativa, el gasto en servicios personales, materiales y suministros, el arrendamiento de la propiedad y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos otorgados a los Ejecutores de Gasto, para financiar gastos de esas características;
 
-LII.- Recursos Fiscales: Fuente de financiamiento del gasto público que se integra de los recursos estatales o, en su caso, los municipales, así como participaciones en ingresos fiscales federales, de acuerdo con lo establecido en la Ley de Ingresos del año correspondiente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LIII.- Secretaría: La Secretaría de Finanzas del Estado;
+XXXVII.- Gasto de Capital: Son los gastos destinados a la inversión de capital y las transferencias a los Ejecutores de Gasto y fideicomisos no considerados entidades paraestatales, para financiar gastos de estos con tal propósito;
 
-LIV.- Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en Indicadores de Desempeño que permitan conocer el impacto social de los programas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LV.- Suficiencia Presupuestaria: La capacidad de recursos financieros de un Ejecutor de Gasto en función de las Asignaciones Presupuestales autorizadas;
+XXXVIII.- Gasto Devengado: Al reconocimiento de las obligaciones de pago por parte de los ejecutores del gasto a favor de terceros con cargo al Presupuesto de Egresos, por la recepción de conformidad de bienes, servicios, contraprestaciones adquiridas o avance por trabajos ejecutados en obras públicas conforme al contrato correspondiente, así como de las obligaciones que derivan de tratados, leyes, decretos, resoluciones y sentencias definitivas;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LVI.- Tesorería: Las Secretarías de Finanzas en el ámbito Municipal a que se refiere la Ley Municipal para el Estado de Aguascalientes;
+XXXIX.- Gasto etiquetado: Las erogaciones que realizan los Ejecutores de Gasto con cargo a las Transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado que tengan algún destino específico.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LVII.- Titular del Ejecutivo: El Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes;
+XL.- Gasto no etiquetado: Las erogaciones que realizan los Ejecutores de Gasto con cargo a sus Ingresos de libre disposición y Financiamiento. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con algún destino específico;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LVIII.- Transferencias: Los recursos que con cargo al Presupuesto de Egresos, la Secretaría entrega líquida y efectivamente a las Entidades del Ejecutivo, los Municipios, los Órganos Autónomos, los Poderes Legislativo y Judicial del Estado, así como, en su caso, a las personas físicas o morales previstas en el Presupuesto de Egresos del Estado y fideicomisos no considerados Entidades del Ejecutivo;
+XLI.- Gasto Público: Gasto total que comprende la totalidad de las erogaciones previstas en el Presupuesto de Egresos, a cargo de los Ejecutores de Gasto del Estado y, en su caso, de los Municipios. El Gasto Público incluye los recursos que erogan los sujetos de la Ley con recursos que provienen de reasignaciones realizadas por el Gobierno Federal o por el Estado a través de contratos, convenios, acuerdos y demás instrumentos jurídico-administrativos que determinen su naturaleza y destino;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LIX.- Balance presupuestario: La diferencia entre los Ingresos totales incluidos en la Ley de Ingresos del Estado y/o de los Municipios, y los Gastos Totales considerados en el Presupuesto de Egresos del Estado y/o de los Municipios, con excepción de la amortización de la deuda respectivamente;
+XLII.- Impacto Presupuestal: Es el costo total por ejercicio fiscal que generaría para el erario público la aplicación de reformas o nuevas leyes, decretos, reglamentos, convenios y demás documentos análogos;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LX.- Balance presupuestario de recursos disponibles: La diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos del Estado y de los Municipios, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos del Estado y de los Municipios, con excepción de la amortización de la deuda respectivamente;
+XLIII.- Indicadores de desempeño: Las expresiones cuantitativas o cualitativas, formuladas por el IPLANEA o por la COMUPLA, según sea el caso, correspondiente a un índice, medida, cociente o fórmula que establece un parámetro del avance en el cumplimiento de los objetivos y metas. Dichos indicadores podrán ser de tipo estratégico o de gestión;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXI.- Constancia de Participaciones: El documento que emite la Secretaría de Hacienda y Crédito Público de manera mensual al Estado para informar el monto de las participaciones provisionales que le corresponden.
+XLIV.- Indicadores Estratégicos: Indicador de desempeño que mide el grado de cumplimiento de los objetivos de las políticas públicas y de los programas presupuestarios que impactan de manera directa en la población objetivo o área de enfoque;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXII.- Criterios Generales de Política Económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación y, a tal fin, para asegurar la congruencia necesaria con la Ley de Ingresos y Presupuesto de Egresos del Estado y de los Municipios, respectivamente;
+XLV.- Indicadores de Gestión: Indicador de desempeño que mide el avance y logro en procesos y actividades, es decir, sobre la forma en que los bienes y servicios públicos son generados;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXIII.- Deuda Contingente: La definida como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+XLVI.- Ingresos de libre disposición: Los ingresos locales y las participaciones federales, así como los recursos que, en su caso, se reciban en materia de estabilización de los ingresos y cualquier otro recurso que no esté destinado a un fin específico;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXIV.- Deuda Pública: La definida como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+XLVII.- Ingresos Excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos del Estado y en su caso, en la Ley de Ingresos de los Municipios;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXV.- FEIEF: Fondo de Estabilización de los Ingresos de las Entidades Federativas previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+XLVIII.- Inversión pública productiva: La definida como tal en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXVI.- Financiamiento: El definido como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+XLIX.- IPLANEA: El Instituto de Planeación del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXVII.- Financiamiento Neto: El definido como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+L.- Ley: Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXVIII.- Fuente de pago: La definida como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+LI.- Ley de Ingresos del Estado: La Ley de Ingresos del Estado de Aguascalientes para el ejercicio fiscal correspondiente, aprobada por el Congreso, autorizando los conceptos de ingresos para cubrir el Presupuesto de Egresos del Estado;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXIX.- Gasto etiquetado: Las erogaciones que realizan los Ejecutores de Gasto con cargo a las Transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado que tengan algún destino específico;
+LII.- Ley de Ingresos de los Municipios: La Ley de Ingresos de los Municipios, para el ejercicio fiscal correspondiente, aprobada por el Congreso;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXX.- Gasto no etiquetado: Las erogaciones que realizan los Ejecutores de Gasto con cargo a sus Ingresos de libre disposición y Financiamiento. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con algún destino específico;
+LIII.- Metodología del Marco Lógico: Es la herramienta desarrollada por el IPLANEA o las COMUPLA, de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXI.- Ingresos de libre disposición: Los Recursos Fiscales, así como los recursos que, en su caso, se reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+LIV.- Órganos Autónomos: Las personas de derecho público a las que se asignen recursos del Presupuesto de Egresos del Estado, con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Aguascalientes, así como a las que la ley les reconozca autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXII.- Inversión pública productiva: La definida como tal en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+LV.- Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXIII.- Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+LVI.- Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas al servicio de los sujetos a que se refiere el Artículo 2° de esta Ley, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXIV.- Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas al servicio de los sujetos a que se refiere el Artículo 2° de esta Ley, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+LVII.- Plan de Desarrollo.- El Plan de Desarrollo del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXV.- Sistema de Alertas: La publicación hecha por la Secretaría de Hacienda y Crédito Público sobre los indicadores de endeudamiento del Estado y los Municipios;
+LVIII.- Presupuesto Basado en Resultados: Conjunto de procesos y herramientas que permite apoyar las decisiones presupuestarias en información que sistemáticamente incorpora consideraciones sobre los resultados de evaluación del ejercicio de los recursos públicos, y que motiva a los Ejecutores de Gasto a lograrlos, con el objeto de mejorar la calidad del gasto público y promover una adecuada rendición de cuentas;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXVI.- Techo de Financiamiento Neto: El definido como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+LIX.- Presupuesto de Egresos: El documento mediante el cual se autorizan las erogaciones de los Ejecutores de Gasto para el ejercicio fiscal correspondiente;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXVII.- Transferencias federales etiquetadas: Las definidas como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios; y
+LX.- Presupuesto de Egresos del Estado: El documento que contenga el Decreto del Congreso mediante el cual se expide el Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal correspondiente.
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LXXVIII.- Cuenta Pública: El documento a que se refiere el Artículo 27, Fracción V de la Constitución Política del Estado de Aguascalientes.
+LXI.- Presupuesto de Egresos del Municipio: El documento que contenga el Acuerdo del Ayuntamiento, mediante el cual se expide el Presupuesto de Egresos para el ejercicio fiscal correspondiente, del Municipio de que se trate;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXII.- Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los Ejecutores del Gasto generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo. Para ello cuantifica los recursos humanos, materiales y financieros necesarios para la generación del bien o servicio a realizar bajo el enfoque del Presupuesto Basado en Resultados;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXIII.- Proyecto de Ley de Ingresos del Estado: Es el documento que envía el Titular del Ejecutivo al Congreso para su aprobación que contiene los conceptos de ingresos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXIV.- Proyecto de Ley de Ingresos del Municipio: Es el documento que envía el Presidente Municipal al Congreso para su aprobación, que contiene los conceptos de ingresos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXV.- Proyecto de Presupuesto de Egresos del Estado: Es el documento que envía el Titular del Ejecutivo para su aprobación al Congreso, que incorpora los Anteproyectos del Presupuesto del Estado y Proyectos de Presupuesto de Egresos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXVI.- Proyecto de Presupuesto de Egresos del Municipio: Es el documento que envía el Tesorero Municipal al Ayuntamiento para su aprobación y tiene como propósito estimar los costos durante el período de un año las acciones, obras y servicios públicos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXVII.- Proyectos de Prestación de Servicios y/o Asociaciones Público-Privadas: A las que se refiere la Ley de Asociaciones Público-Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXVIII.- Proyectos de Presupuesto de Egresos: Los que elaboren los Poderes Legislativo y Judicial, así como los Órganos Autónomos, que se envían al Ejecutivo para incorporarse al Proyecto de Presupuesto de Egresos del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXIX.- Reasignaciones: Son las modificaciones al Presupuesto de Egresos del Estado que se pueden realizarse, según las reglas contenidas en el Presupuesto de Egresos del Estado del ejercicio correspondiente y que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los Ejecutores de Gasto, en donde los capítulos, conceptos, partidas y Ejecutores del Gasto son disminuidos en sus recursos cuando sirven como origen, y en donde los capítulos, conceptos, partidas, y Ejecutores del Gasto tienen incremento de recursos cuando sirven como destino;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXX.- Reasignaciones por Convenio: Fuente de financiamiento del gasto público que se integra de los subsidios o reasignaciones que el Gobierno Federal transfiere, de conformidad a lo establecido en los convenios y demás instrumentos jurídicos que determinan su naturaleza y destino, que significan ingresos adicionales a los contemplados en la Ley de Ingresos del Estado o, en su caso la Ley de Ingresos de los Municipios, sin que para ello se requiera la aprobación del Congreso. En todos los casos, tanto los ingresos como a los egresos, estas aplicaciones de recursos de origen federal deberán incluirse en la Cuenta Pública;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXI.- Recursos Fiscales: Fuente de financiamiento del Gasto Público que se integra de los recursos estatales o, en su caso, los municipales, provenientes de los ingresos fiscales de acuerdo con lo establecido la Ley de Ingresos del año correspondiente;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXII.- Secretaría: La Secretaría de Finanzas del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXIII.- Sistema de Alertas: La publicación hecha por la Secretaría de Hacienda y Crédito Público sobre los indicadores de endeudamiento del Estado y los Municipios;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXIV.- Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en Indicadores de Desempeño que permitan conocer el impacto social de los programas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXV.- Suficiencia Presupuestaria: La capacidad de recursos financieros de un Ejecutor de Gasto en función de las Asignaciones Presupuestales autorizadas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXVI.- Techo de Financiamiento Neto: El límite de Financiamiento Neto anual que podrá contratar un ente público, con Fuente de pago de Ingresos de libre disposición. Dicha Fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos, de acuerdo con lo establecido por la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXVII.- Tesorerías: Las Secretarías de Finanzas en el ámbito Municipal a que se refiere la Ley Municipal para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXVIII.- Titular del Ejecutivo: El Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXIX.- Transferencias: Los recursos que, con cargo al Presupuesto de Egresos del Estado, la Secretaría entrega líquida y efectivamente a las Entidades del Ejecutivo, los Municipios, los Órganos Autónomos, los Poderes Legislativo y Judicial del Estado, así como, en su caso, a las personas físicas o morales previstas en el Presupuesto de Egresos del Estado y fideicomisos no considerados Entidades del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXX.- Transferencias federales etiquetadas: Los recursos de la Federación que recibe el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
 
 ###### Artículo 4°.
 
@@ -355,7 +433,9 @@ La Presupuestación es la fase de asignación de los recursos financieros, human
 
 La Programación y Presupuestación del Gasto Público del Estado comprende:
 
-I.- Las actividades que deberán realizar las Dependencias del Ejecutivo y Entidades del Ejecutivo para dar cumplimiento a los objetivos, políticas, estrategias, prioridades y metas con base en Indicadores de Desempeño, contenidos en el Sistema de Planeación Democrática y en los programas que se derivan del Plan Sexenal y, en su caso, de las directrices que el Ejecutivo del Estado expida en tanto se elabore dicho Plan, en los términos de la Ley de Planeación y Desarrollo Estatal y Regional del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+I.- Las actividades que deberán realizar las Dependencias del Ejecutivo y Entidades del Ejecutivo para dar cumplimiento a los objetivos, políticas, estrategias, prioridades y metas con base en Indicadores de Desempeño, contenidos en el Sistema de Planeación Democrática y en los programas que se derivan del Plan de Desarrollo y, en su caso, de las directrices que el Ejecutivo del Estado expida en tanto se elabore dicho Plan, en los términos de la Ley de Planeación y Desarrollo Estatal y Regional del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
@@ -393,19 +473,27 @@ III.- Las acciones que correspondan realizar conforme a los Criterios Generales 
 
 IV.- Las demás acciones que conforme a la Ley de Disciplina Financiera de las Entidades Federativas y sus Municipios deban realizarse.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 12.
 
-La Programación anual del Gasto Público del Estado, se realizará con apoyo en los Anteproyectos de Presupuesto del Estado que elaboren las Dependencias y Entidades del Ejecutivo en coordinación con la CPLAP para cada ejercicio fiscal, y con base en:
+La Programación anual del Gasto Público del Estado, se realizará con apoyo en los Anteproyectos de Presupuesto del Estado que elaboren las Dependencias y Entidades del Ejecutivo en coordinación con el IPLANEA para cada ejercicio fiscal, y con base en:
 
-I.- Las políticas del Plan Sexenal, los programas sectoriales y los Programas Presupuestarios anuales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+I.- Las políticas del Plan de Desarrollo, los programas sectoriales y los Programas Presupuestarios anuales;
 
 II.- Las políticas financieras, fiscales y crediticias que establezca la Secretaría, así como las bases, lineamientos y normas que determine sobre los procesos de programación, presupuestación y formulación anual del Presupuesto de Egresos del Estado;
 
-III.- La evaluación de los avances logrados en el cumplimiento de los objetivos y metas del Plan Sexenal y los programas sectoriales, con base en el Sistema Estatal de Seguimiento y Evaluación, las metas y avances físicos y financieros del ejercicio fiscal anterior y los pretendidos para el ejercicio siguiente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+III.- La evaluación de los avances logrados en el cumplimiento de los objetivos y metas del Plan de Desarrollo y los programas sectoriales, con base en el Sistema Estatal de Seguimiento y Evaluación, las metas y avances físicos y financieros del ejercicio fiscal anterior y los pretendidos para el ejercicio siguiente;
+
+(REPUBLICADA, P.O. 29 DE DICIEMBRE DE 2021)
 
 IV.- Los resultados de la Evaluación del Desempeño, conforme al Sistema de Evaluación del Desempeño previsto en esta Ley;
+
+(REPUBLICADA, P.O. 29 DE DICIEMBRE DE 2021)
 
 V.- La situación económica y financiera nacional y, la propia del Estado; y
 
@@ -427,13 +515,15 @@ V.- La situación económica y financiera nacional, y la propia del Estado de Ag
 
 VI.- Las políticas financieras, fiscales y crediticias que establezcan las Tesorerías, así como las bases, lineamientos y normas que determine sobre los procesos de planeación, programación y elaboración anual de los presupuestos de egresos de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 14.
 
-En materia de programación y presupuesto, la CPLAP y la COMUPLA, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
+En materia de programación y presupuesto, el IPLANEA y la COMUPLA, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
 
-I.- Emitir el conjunto de políticas, normas y lineamientos para la programación del Gasto Público, con base en el Plan Sexenal o en el Plan Municipal de Desarrollo respectivo, y observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+I.- Emitir el conjunto de políticas, normas y lineamientos para la programación del Gasto Público, con base en el Plan de Desarrollo o en el Plan Municipal de Desarrollo respectivo, y observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
 
 II.- Formular y emitir lineamientos para definir los Programas Presupuestarios;
 
@@ -505,21 +595,23 @@ VI.- Las previsiones del gasto de acuerdo con lo establecido en la clasificació
 
 VII.- Las demás previsiones que se estimen necesarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 18.
 
-Los Programas Presupuestarios de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, deberán ser analizados y compatibilizados por la CPLAP, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Sexenal y de los programas que de éste se deriven, en los términos de las leyes aplicables.
+Los Programas Presupuestarios de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, deberán ser analizados y compatibilizados por el IPLANEA , para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan de Desarrollo y de los programas que de éste se deriven, en los términos de las leyes aplicables.
 
 En el caso de los Municipios, esta función será llevada a cabo por la COMUPLA respecto a los programas que les corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
-Los Anteproyectos de Presupuesto del Estado se elaborarán por las unidades responsables de las Dependencias y Entidades del Ejecutivo en coordinación con la CPLAP, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores de desempeño para medir su cumplimiento. Estará a cargo de la CPLAP concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
+Los Anteproyectos de Presupuesto del Estado se elaborarán por las unidades responsables de las Dependencias y Entidades del Ejecutivo en coordinación con el IPLANEA, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores de desempeño para medir su cumplimiento.
 
-Estará a cargo de la CEPLAP concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Estará a cargo del IPLANEA concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales. Estará a cargo del IPLANEA concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
 
 En las previsiones de gasto que resulten deberán definirse el tipo y la fuente de recursos que se utilizarán.
 
@@ -545,7 +637,9 @@ a) Situación de la economía nacional;
 
 b) Las condiciones económicas, financieras y hacendarias del Estado o del Municipio de que se trate; y
 
-c) Descripción clara de la política de gasto público, la cual deberá mostrar su congruencia con los objetivos y metas establecidos en el Plan Sexenal o en el Plan de desarrollo Municipal aplicable.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+c) Descripción clara de la política de gasto público, la cual deberá mostrar su congruencia con los objetivos y metas establecidos en el Plan de Desarrollo o en el Plan de desarrollo Municipal aplicable.
 
 II.- Clasificaciones de los gastos;
 
@@ -631,9 +725,15 @@ b) Las previsiones salariales y económicas para cubrir los incrementos salarial
 
 Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del Estado. Para el caso de los Municipios, los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del respectivo Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 23.
 
-Los Anteproyectos de Presupuesto del Estado al igual que los Anteproyectos de Presupuesto de los Municipios, serán remitidos a más tardar el 20 de septiembre de cada año a la Secretaría o a las Tesorerías, según corresponda, para su revisión e incorporación al Proyectó de Presupuesto de Egresos del Estado o al Proyecto de Presupuesto de Egresos del Municipio.
+Los Anteproyectos de Presupuesto del Estado al igual que los Anteproyectos de Presupuesto de los Municipios, serán remitidos a más tardar el 20 de septiembre de cada año a la Secretaría o a las Tesorerías, según corresponda, para su revisión e incorporación al Proyecto de Presupuesto de Egresos del Estado o al Proyecto de Presupuesto de Egresos del Municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+En el caso de la Entidades del Ejecutivo, los Anteproyectos de Presupuesto del Estado serán remitidos a la Secretaría a través del IPLANEA previa implementación de las fases de programación y planeación que el mismo efectúe, en los términos del Capítulo I, del Título Segundo de esta Ley y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 24.
 
@@ -683,7 +783,9 @@ El Proyecto de Ley de Ingresos del Estado y, en su caso, el de los Municipios, i
 
 I.- La exposición de motivos en la que se señale:
 
-a) La política de ingresos definida conforme al Plan Sexenal y, en su caso, por los Planes de Desarrollo Municipal;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+a) La política de ingresos definida conforme al Plan de Desarrollo y, en su caso, por los Planes de Desarrollo Municipal;
 
 b) Los ingresos estimados para el año que se presupuesta;
 
@@ -959,15 +1061,15 @@ La información señalada en el párrafo anterior deberá hacerse pública a tra
 
 VIII. Una vez concluida la vigencia del Presupuesto de Egresos, con excepción de lo dispuesto en el Artículo 55 de esta Ley, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio respetando los porcentajes mencionados en el Artículo 22 Quáter de esta Ley. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el Artículo 47 Bis de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 47.
 
-La Secretaría, previa instrucción de las Dependencias del Ejecutivo, o excepcionalmente de las Entidades del Ejecutivo, y en concordancia, cuando corresponda, con el expediente técnico aprobado por la CPLAP, realizará los pagos a quien corresponda, para cubrir el gasto de capital.
+La Secretaría, previa instrucción de las Dependencias del Ejecutivo, o excepcionalmente de las Entidades del Ejecutivo, y en concordancia, cuando corresponda, con el expediente técnico aprobado por el IPLANEA, realizará los pagos a quien corresponda, para cubrir el gasto de capital.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-En los casos en que exista expediente técnico aprobado por la CPLAP, esta deberá realizar un seguimiento del avance del gasto de capital, y deberá anexarlo al expediente técnico anteriormente referido.
+En los casos en que exista expediente técnico aprobado por el IPLANEA, esta deberá realizar un seguimiento del avance del gasto de capital, y deberá anexarlo al expediente técnico anteriormente referido.
 
 Tratándose del Gasto Corriente, las Dependencias del Ejecutivo instruirán a la Secretaría la realización de los pagos correspondientes y, para tal efecto, deberán presentar la documentación a que haya lugar.
 
@@ -1131,13 +1233,13 @@ De igual manera se podrán retornar al Fondo de Estabilización los recursos que
 
 El Fondo de Inversiones Público Productivas y Programas Prioritarios, tendrá un Comité Técnico, el cual se integrará de la siguiente manera:
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I. El Titular de la CPLAP, quien lo presidirá;
+I.- El Titular del IPLANEA, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II. El Titular del área jurídica de la CPLAP, quien será el Secretario Técnico del Comité;
+II. El Titular del área jurídica del IPLANEA, quien será el Secretario Técnico del Comité;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -1163,15 +1265,15 @@ Todos los integrantes del Comité tendrán derecho a voz y voto, a excepción de
 
 Las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para el adecuado funcionamiento del Fondo serán emitidas y aprobadas por el Comité Técnico.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Las reglas de operación, así como los proyectos o programas de Inversión Público Productivas o Programas Prioritarios de las Dependencias, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo que emita el Comité Técnico, deberán estar alineadas al Plan Estatal de Desarrollo mediante validación de la CPLAP a través de dictamen técnico.
+Las reglas de operación, así como los proyectos o programas de Inversión Público Productivas o Programas Prioritarios de las Dependencias, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo que emita el Comité Técnico, deberán estar alineadas al Plan Estatal de Desarrollo mediante validación del IPLANEA a través de dictamen técnico.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 50.
 
-Cuando se realicen adecuaciones presupuestarias, derivadas de ampliaciones o reducciones presupuestarias, las Dependencias y Entidades del Ejecutivo o de los Municipios en su caso, podrán modificar sus Programas Presupuestarios en cuanto a sus objetivos, indicadores y metas, avisando de ello a la CPLAP, en el ámbito estatal, y a la COMUPLA, en el ámbito municipal.
+Cuando se realicen adecuaciones presupuestarias, derivadas de ampliaciones o reducciones presupuestarias, las Dependencias y Entidades del Ejecutivo o de los Municipios en su caso, podrán modificar sus Programas Presupuestarios en cuanto a sus objetivos, indicadores y metas, avisando de ello al IPLANEA, en el ámbito estatal, y a la COMUPLA, en el ámbito municipal.
 
 ###### Artículo 51.
 
@@ -1259,17 +1361,17 @@ Los recursos económicos de que dispongan los Ejecutores de Gasto serán sujetos
 
 La Evaluación del Desempeño que se realice en los términos de esta Ley, se efectuará sin perjuicio de lo que establezcan otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 61.
 
-La CPLAP en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+El IPLANEA en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 62.
 
-Corresponderá a la CPLAP y a las COMUPLA, en sus respectivas competencias, lo siguiente:
+Corresponderá al IPLANEA y a las COMUPLA, en sus respectivas competencias, lo siguiente:
 
 I.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño;
 
@@ -1289,17 +1391,17 @@ VIII.- Elaborar un informe anual que contenga los resultados de las evaluaciones
 
 IX.- Impartir a petición de parte capacitación en materia de Evaluación del Desempeño.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 63.
 
-El Titular del Ejecutivo, a través de la CPLAP y a petición expresa del Congreso, del Poder Judicial y de los Órganos Autónomos, les proporcionará la asesoría y apoyo técnico que requieran en materia de evaluación del desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
+El Titular del Ejecutivo, a través del IPLANEA y a petición expresa del Congreso, del Poder Judicial y de los Órganos Autónomos, les proporcionará la asesoría y apoyo técnico que requieran en materia de evaluación del desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 64.
 
-Las atribuciones que esta Ley le confiere a la CPLAP en materia de evaluación de desempeño, son sin perjuicio de las que tenga la Contraloría del Estado, así como de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
+Las atribuciones que esta Ley le confiere al IPLANEA en materia de evaluación de desempeño, son sin perjuicio de las que tenga la Contraloría del Estado, así como de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
 
 Asimismo, las atribuciones que esta Ley le confiere a la COMUPLA en materia de Evaluación de Desempeño, son sin perjuicio de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
 
@@ -1307,9 +1409,9 @@ Asimismo, las atribuciones que esta Ley le confiere a la COMUPLA en materia de E
 
 Son obligaciones de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, así como de las Dependencias del Municipio y de las Entidades del Municipio, en materia de Evaluación del Desempeño, las siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I.- Elaborar y proponer a la CPLAP y a las COMUPLA, según corresponda, los Indicadores de Desempeño de los Programas Presupuestarios a su cargo conforme a los lineamientos señalados en el Artículo 62 de la Ley;
+I.- Elaborar y proponer al IPLANEA y a las COMUPLA, según corresponda, los Indicadores de Desempeño de los Programas Presupuestarios a su cargo conforme a los lineamientos señalados en el Artículo 62 de la Ley;
 
 II.- Autoevaluarse mediante la medición por sí mismos o a través de evaluadores externos, del grado de cumplimiento de los Indicadores de Desempeño;
 
@@ -1317,15 +1419,15 @@ III.- Dar seguimiento y monitoreo de los Indicadores Estratégicos e Indicadores
 
 IV.- Atender las revisiones y recomendaciones de las Evaluaciones del Desempeño;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-V.- Informar trimestralmente a la CPLAP o a las COMUPLA según corresponda, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los indicadores de desempeño, cuya periodicidad de su cálculo así lo permita;
+V.- Informar trimestralmente al IPLANEA o a las COMUPLA según corresponda, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los indicadores de desempeño, cuya periodicidad de su cálculo así lo permita;
 
 VI.- Elaborar e implementar proyectos de mejora para incorporar en el diseño, adecuación y operación de los programas a su cargo, atendiendo los resultados de las evaluaciones e informar los avances con oportunidad; y
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VII.- Acordar con la CPLAP y con las COMUPLA, según corresponda, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
+VII.- Acordar con al IPLANEA y con las COMUPLA, según corresponda, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
 
 ###### Artículo 66.
 
@@ -1359,11 +1461,11 @@ El conjunto de la documentación contable consistente en libros de contabilidad,
 
 Las Dependencias y Entidades del Ejecutivo y de los Municipios en su caso, publicarán en Internet, en los términos de la legislación aplicable la información de los Programas Presupuestarios aprobados en sus presupuestos de egresos.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 69.
 
-La CPLAP y las COMUPLA publicarán en internet, en los términos de la legislación aplicable en materia de trasparencia, la información que se derive de los resultados de la aplicación de los indicadores del desempeño. Igual obligación tendrán el Congreso y el Poder Judicial, así como los Órganos Autónomos en el ámbito de su competencia.
+El IPLANEA y las COMUPLA publicarán en internet, en los términos de la legislación aplicable en materia de trasparencia, la información que se derive de los resultados de la aplicación de los indicadores del desempeño. Iguales obligaciones tendrán el Congreso y el Poder Judicial, así como los Órganos Autónomos en el ámbito de su competencia.
 
 ###### Artículo 70.
 
@@ -1702,3 +1804,11 @@ Siendo que en ningún caso los recursos a que se refiere el presente Decreto pod
 ###### ARTÍCULO QUINTO.
 
 El Gobierno del Estado deberá revelar en la cuenta pública y en los informes que periódicamente entreguen al Congreso del Estado, los montos que por concepto de ingresos hubiesen sido transferidos a la Hacienda Pública del Estado, y que sean objeto de ampliación al presupuesto de ingresos y egresos de la Dependencia del Ejecutivo, Entidad del Ejecutivo o Fideicomiso no considerado como parte de las Entidades del Ejecutivo, según corresponda, conforme a la aplicación del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 56.- SE REFORMAN Y ADICIONAN DISPOSICIONES DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero de dos mil veintidós.
