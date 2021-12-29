@@ -4,7 +4,7 @@ identifier: "FED-reglamento-en-materia-de-recursos-materiales-del-instituto-1340
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-03-01"
-last_updated: "2019-03-01"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134095&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-01-30"
 
 ACUERDO MEDIANTE EL CUAL SE APRUEBA LA ACTUALIZACIÓN DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2021.
 
 Acuerdo Publicado en el Diario Oficial de la Federación, viernes 1 de marzo de 2019.
 
@@ -1675,15 +1675,13 @@ La DRM deberá mantener la custodia de los vales de combustible, vigilando su us
 
 Artículo 190 BIS Lo asignación máxima mensual de combustible para vehículos como apoyo al cargo y utilitario, estará sujeto a la disponibilidad presupuestaria y a los criterios de austeridad, racionalidad y disciplina presupuestal y se hará conforme a lo siguiente:
 
-NO. CILINDROS IMPORTE MÁXIMO
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 190 BIS DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
 
-VEHÍCULO MENSUAL
+CILINDROS MONTO
 
-UTILITARIO
+4 5,500
 
-4 4000
-
-6 5000
+6 6,500
 
 En caso de que se requiera una cantidad mayor a la establecida, se deberá justificar por escrito la necesidad, sustentándola a través del kilometraje para que sea analizada y en su caso, autorizada por la DGA.
 
@@ -1844,3 +1842,21 @@ El titular de la Dirección General de Administración podrá autorizar, mediant
 PRIMERO.- El presente Reglamento entrará en vigor al momento de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Todos aquellos procesos, tramites, autorizaciones y actos iniciados con base en la disposición que queda sin efectos, deberán concluirse conforme a lo previsto en lo misma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 190 BIS DEL REGLAMENTO EN MATERIA DE RECURSOS MATERIALES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la modificación del artículo 190 bis del Reglamento en Materia de Recursos Materiales del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias, a efecto de que el presente Acuerdo, se publiquen (sic) en el Diario Oficial de la Federación.
+
+TERCERO. Se instruye a la Secretaría Técnica del Pleno para que, a través de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de Internet del INAI.
+
+CUARTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo, para agilizar su cumplimiento.
+
+QUINTO. El presente Acuerdo con las respectivas modificaciones, entrará en vigor al día siguiente de la publicación en el Diario Oficial de la Federación.
+
+SEXTO. El presente Acuerdo es de observancia general para todos los servidores públicos del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y de observancia obligatoria.
