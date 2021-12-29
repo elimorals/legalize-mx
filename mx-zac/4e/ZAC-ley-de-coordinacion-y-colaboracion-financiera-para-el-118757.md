@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2020-12-30"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -118,6 +118,10 @@ XVI. Secretaría. La Secretaría de Finanzas, del Gobierno del Estado de Zacatec
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XVII. Sistema de Coordinación. Sistema Estatal de Coordinación y Colaboración Financiera.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Inversión Pública Municipal: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (a) la construcción, mejoramiento, rehabilitación o reposición de bienes de dominio público; (b) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (c) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
 ###### Artículo 3.
 
@@ -581,19 +585,29 @@ De las cantidades que perciba el Estado dentro del ejercicio de que se trate, po
 
 I. El Fondo Único de Participaciones, el cual se integra de la forma siguiente:
 
-a) El 22% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+a) El 21.5% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 b) El 100% de los recursos provenientes del Fondo de Fomento Municipal, exceptuando lo establecido en el artículo 33 TER de esta Ley;
 
-c) El 22% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-d) El 22% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
+c) El 21.5% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
 
-e) El 22% del Fondo de Fiscalización y Recaudación;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-f) El 22% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos; y
+d) El 21.5% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+e) El 21.5% del Fondo de Fiscalización y Recaudación;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+f) El 21.5% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos; y
 
 g) El 100% del Impuesto Sobre la Renta, en los términos establecidos en el artículo 3-B de la Ley de Coordinación.
 
@@ -660,6 +674,36 @@ Ci es el Coeficiente de distribución del Fondo por Colaboración Administrativa
 Rci,t es el monto de la recaudación del Impuesto Predial del Municipio i en el ejercicio fiscal anterior al que se realiza el cálculo y que registre un flujo de efectivo, reportado en la última cuenta pública presentada a la Legislatura del Estado.
 
 --- (sic). Es la suma sobre todos los Municipios de la variable que le sigue.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 33 Quater.
+
+El Fondo de Inversión Pública Municipal, se integra de la forma siguiente:
+
+a) El 1% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
+
+b) El 1% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
+
+c) El 1% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
+
+d) El 1% del Fondo de Fiscalización y Recaudación;
+
+e) El 1% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos;
+
+Las participaciones del Fondo se calcularán mensualmente por la Secretaría, y ésta deberá mantenerlos y depositarlos en una cuenta específica operativa.
+
+El recurso del Fondo se distribuirá a los Municipios vía proyectos de inversión previamente registrados en la Secretaría.
+
+Los criterios para seleccionar las obras y proyectos financiados por este Fondo serán los siguientes:
+
+a) Registrar ante la Secretaría los proyectos de inversión que se materialicen en un impacto social.
+
+b) Celebrar convenio de participación con la Secretaria, donde el Municipio se comprometa a aportar cuando menos el 25% de la inversión total del proyecto de inversión.
+
+c) El monto del beneficio de este Fondo a los Municipios no podrá ser superior al doble de lo que le hubiera correspondido de participación con base a su coeficiente efectivo del ejercicio fiscal vigente.
+
+El Fondo de Inversión Pública Municipal se regirá con las reglas de operación que emita la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -733,9 +777,9 @@ En cumplimiento a lo establecido al párrafo anterior, la Secretaría realizará
 
 Si del resultado de la revisión de las cifras de recaudación del Impuesto Predial y Derechos por el suministro de Agua que realiza el Comité de Vigilancia del Sistema de Participaciones Federales dentro del Sistema Nacional de Coordinación Fiscal, existen inconsistencias en la información y declaración en las cifras reportadas por los Municipios, y derivado de ello realiza ajustes a las mismas, estos se realizarán cuando sean notificados por el citado Comité, y se harán retroactivos a partir del mes de abril del año que corresponda la distribución de participaciones.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Las participaciones a que se refiere el inciso h), primer párrafo del artículo 33 de la presente Ley, se determinarán por la Secretaría al momento de compensar la Liquidación de la Constancia de Participaciones y se determinarán los montos a distribuir a los municipios en donde se realizaron las enajenaciones de bienes inmuebles que causaron la recaudación, para pagarse en los 15 días hábiles del mes siguiente, contados a partir de la liquidación de la Constancia de Participaciones.
+Las participaciones a que se refiere el inciso h), primer párrafo del artículo 33 de la presente Ley, se determinarán por la Secretaría al momento de compensar la Liquidación de la Constancia de Participaciones y se determinarán los montos a distribuir a los municipios con la aplicación del coeficiente efectivo, para pagarse en los 15 días hábiles del mes siguiente, contados a partir de la liquidación de la Constancia de Participaciones.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -762,6 +806,10 @@ Cuando las entregas del Fondo establecido en el artículo 33 de esta Ley, no fue
 ###### Artículo 38.
 
 Las participaciones que correspondan a los Municipios son inembargables, y no pueden ser sujetas a retención. La Secretaría podrá retener las participaciones del Fondo establecido en el artículo 33 fracciones I y II de esta Ley, con el consentimiento por escrito de los Ayuntamientos, previa solicitud con copia certificada del acta de la Sesión de Cabildo en que conste que se aprobó por mayoría, para el solo efecto del cumplimiento de las obligaciones contraídas a su cargo, los que deriven de convenios con la Secretaría y cuando exista ordenamiento expreso de autoridad competente en caso de incumplimiento de obligaciones, sin perjuicio de lo establecido en el artículo 9 de la Ley de Coordinación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Para efectos del párrafo anterior, se considerarán obligaciones las de carácter fiscal, jurisdiccional y con proveedores de bienes y servicios.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1032,3 +1080,29 @@ Para efectos del artículo 31 del Código Fiscal del Estado de Zacatecas y sus M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal en lo que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 19.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS, LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintidós, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los ejercicios Fiscales 2022, 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos distribuidos del Fondo Único de Participaciones a los Municipios procedentes de las Participaciones Federales, para el Ejercicio 2022, no podrán ser inferiores a lo observado en el ejercicio 2021.
+
+###### ARTÍCULO CUARTO.
+
+Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaría y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
