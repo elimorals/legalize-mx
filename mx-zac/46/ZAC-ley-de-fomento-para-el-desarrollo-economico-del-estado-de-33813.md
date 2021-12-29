@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-para-el-desarrollo-economico-del-estado-de-33813
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2021-02-24"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -229,6 +229,14 @@ XIX. Consultoría:- Servicio empresarial que consiste en la transferencia de con
 
 XX. Capacitación.- Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las condiciones de seguridad, así como las capacidades y habilidades de los recursos humanos de las empresas que reciben atención.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XXI. Instrumentos de Desarrollo Económico: Mecanismos jurídicos que crean, modifican o extinguen derechos y obligaciones, que sirven para dar formalidad y validez jurídica al otorgamiento de estímulos e incentivos al determinar las bases normativas a las que deberán sujetarse las partes, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XXII. Convenio de Estabilidad Fiscal: Es el Instrumento de Desarrollo Económico, cuya finalidad es promover inversiones nuevas y ampliar las existentes en el Estado, mediante el compromiso formal y válido de invariabilidad de las normas tributarias existentes al momento de su celebración y por el periodo de vigencia que las partes o la ley establezcan.
+
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES Y DE LA APLICACIÓN DE LA LEY
 
 ###### ARTÍCULO 5.
@@ -257,7 +265,9 @@ II. Coordinar la planeación de la actividad económica;
 
 III. Concertar y coordinar la participación de los sectores público, social y privado, en la elaboración, ejecución y evaluación de los programas de fomento económico;
 
-IV. Celebrar convenios de coordinación en materia de desarrollo económico con el Poder Ejecutivo Federal y con los gobiernos estatales y municipales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV. Celebrar convenios de coordinación en materia de desarrollo económico con el Poder Ejecutivo Federal y con los gobiernos estatales y municipales, así como celebrar convenios con el sector privado en materia de desarrollo económico, mediante los cuales se provea el mejoramiento en las condiciones económicas del estado;
 
 V. Remitir a la Legislatura la iniciativa de Presupuesto de Egresos que sustente el Programa Operativo Anual de la Secretaría, y
 
@@ -282,6 +292,10 @@ II. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y E
 III. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
 IV. Establecer criterios para reforzar la estructura de desarrollo económico del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV Bis. Asesorar en la elaboración de los Convenios de Estabilidad Fiscal que el Estado celebre, aprobando los términos y condiciones que en los mismos se establezcan en materia económica;
 
 V. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
@@ -478,6 +492,28 @@ IV. Asegurar que las actividades productivas que no tengan impacto urbano, ambie
 ###### ARTÍCULO 29.
 
 Será obligación de la administración pública, en el ámbito de su competencia, el promover la modernización de un marco regulatorio de apertura y funcionamiento de las empresas simplificado y transparente, con el propósito de estimular la competitividad.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 29 BIS.- El Convenio de Estabilidad Fiscal es el mecanismo jurídico de desarrollo económico, cuya finalidad es promover inversiones nuevas y ampliar las existentes en el territorio del estado, mediante el compromiso formal y válido de invariabilidad de las normas tributarias existentes al momento de su celebración y por el periodo de vigencia que las partes o la ley establezcan.
+
+Mediante estos instrumentos, el Estado garantiza a los inversionistas que los suscriban, que, si durante su vigencia se modifica alguna disposición que hubieresido (sic) identificada como objeto de estabilidad, los inversionistas tendrán el derecho a que se les continúen aplicando las disposiciones sin modificar, por eltérmino (sic) de duración del Convenio adoptado.
+
+Por modificación debe entenderse cualquier cambio en las normas fiscales, por el que se modifique el sujeto, objeto, base gravable, tasa, cuota o tarifa, de aquellas contribuciones objeto del compromiso de estabilidad convenido por el Estado.
+
+Para tales efectos, en los Convenios de Estabilidad Fiscal deberán indicarse de manera expresa y taxativa las disposiciones normativas a cuya invariabilidad se comprometerá el Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 29 TER.- Podrán ser parte en los Convenios de Estabilidad Fiscal los inversionistas, personas físicas o morales, que realicen inversiones nuevas o amplíen las existentes en el Estado.
+
+La celebración de los Convenios de Estabilidad Fiscal se realizará ante la autoridad fiscal competente, en los términos que disponga la normatividad de la materia.
+
+En el Convenio se establecerá de manera expresa, la obligación del inversionista de realizar la inversión o ampliar las existentes, los compromisos de generación de empleo y se señalará el plazo máximo para su ejecución y el término de su vigencia.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 29 QUATER.- Los Convenios de Estabilidad Fiscal comenzarán su vigencia desde su suscripción y la misma estará condicionada a la duración de la administración gubernamental en su periodo constitucional.
 
 ### CAPÍTULO IV. DEL IMPULSO A LA INFRAESTRUCTURA PRODUCTIVA
 
@@ -812,3 +848,29 @@ P.O. 24 DE FEBRERO DE 2021.
 Artículo primero. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 19.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS, LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintidós, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los ejercicios Fiscales 2022, 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos distribuidos del Fondo Único de Participaciones a los Municipios procedentes de las Participaciones Federales, para el Ejercicio 2022, no podrán ser inferiores a lo observado en el ejercicio 2021.
+
+###### ARTÍCULO CUARTO.
+
+Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaría y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
