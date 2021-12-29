@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2020-12-31"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -645,13 +645,25 @@ VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico 
 
 #### SECCION CUARTA. De la Base
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 44.
 
-Será base para el pago de este impuesto, el valor catastral de los predios o de las construcciones, en su costo.
+Se tomará como base gravable de este impuesto, el valor catastral, de los predios o de las construcciones, en su costo, de conformidad con los valores remitidos anualmente a la Secretaría de Finanzas Públicas Municipales por parte del Instituto Catastral del Estado.
 
-En cuanto a los predios o construcciones que no tengan valores catastrales, servirá de base al valor con que se encuentren fiscalmente empadronadas o el valor de operación del traslado de dominio que se registre, aún tratándose de ventas con reservas de dominio, si este es mayor que aquellos.
+En el caso de que con posterioridad al inicio del ejercicio fiscal se advierta la actualización al valor de la propiedad por traslados de dominio, subdivisiones, fusiones, manifestaciones de predio, gravámenes de la Secretaria de Finanzas Públicas Municipales podrá reconsiderar la base gravable, siempre y cuando lo haga del conocimiento del particular cuyo bien haya sufrido cambios. En caso de que dicha autorización se realice con posterioridad al 30 de junio de 2022, se aplicará en el ejercicio fiscal siguiente.
+
+El valor catastral será determinado por el Instituto Catastral del Estado, y se compondrá de la suma de los productos de las superficies de terreno y/o construcción por su valor unitario, según lo dispuesto en la Ley de Catastro del Estado de Aguascalientes, debiéndose tomar en consideración las Tablas de Valores Unitarios de Suelo y/o Construcción, generadas, elaboradas y proporcionadas por dicho Instituto Catastral y que previamente aprueben el Ayuntamiento y el Congreso el (sic) Estado.
+
+Todo predio, que por causas imputables al sujeto de este impuesto, haya permanecido oculto a la acción fiscal de la autoridad o que hubiera estado tributando sobre un valor catastral inferior al que le corresponda en los términos de la Ley, deberá tributar sobre la base del valor que la autoridad catastral o fiscal le haya determinado inmediatamente después de haberse tenido la noticia de su descubrimiento, más el cobro de dicho impuesto o de las diferencias del mismo por el término de 5 (cinco) años anteriores, recargos y multas que procedan, salvo que el sujeto demuestre que la omisión data de fecha posterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 45.
+
+El impuesto predial, se determinará y liquidará de acuerdo con las tasas y cuotas que establezca anualmente la ley de ingresos.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 La base del impuesto se cambiará:
 
@@ -1925,7 +1937,7 @@ El presente Decreto entrará en vigor el día 01 de enero de 2020.
 
 P.O. 31 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 454.- LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2021”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 454.- LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2021".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1988,3 +2000,19 @@ De la misma forma, todos los contribuyentes del Servicio Integral de Iluminació
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Los valores que conforman el Anexo 1 de la presente Ley, relativo a las Tablas de Valores Unitarios de Suelo y/o de Construcción, pueden variar con base en las actualizaciones y reconsideraciones de valores que emita el Instituto Catastral del Estado de Aguascalientes, a solicitud del propietario.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 61.- REFORMA A LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el primero de enero de dos mil veintidós.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos y trámites, que se hubieren iniciado previo a la entrada en vigor de este Decreto, continuarán su sustanciación y se resolverán conforme a las disposiciones legales vigentes a la fecha en que se iniciaron.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican en este Decreto, deberán cumplirse en los términos establecidos en la normatividad vigente al momento en que se generaron.
