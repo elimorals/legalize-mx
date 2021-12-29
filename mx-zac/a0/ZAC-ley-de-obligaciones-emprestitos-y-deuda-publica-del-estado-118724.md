@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obligaciones-emprestitos-y-deuda-publica-del-estado-1187
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2018-12-31"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,425 +21,819 @@ state: "ZAC"
 ---
 # LEY DE OBLIGACIONES, EMPRESTITOS Y DEUDA PUBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-REGLAMENTO DEL CONSEJO CONSULTIVO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 5 de octubre de 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
-CONSIDERANDO.
+Ley publicada en el Suplemento 10 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
-Por todo lo anterior, se tiene a bien expedir el siguiente:
+ALEJANDRO TELLO CRISTERNA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 
-ACUERDO
+Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Segunda Legislatura del Estado, se han servido dirigirme el siguiente:
 
-ÚNICO.- Se expide el Reglamento del Consejo Consultivo del Sistema para elDesarrollo (sic) Integral de la Familia y Protección de Derechos del Estado de Coahuilade (sic) Zaragoza para quedar como sigue:
+DECRETO # 122
 
-REGLAMENTO DEL CONSEJO CONSULTIVO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
+LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+RESULTANDO PRIMERO. En sesión ordinaria del Pleno del 6 de diciembre de 2016, el Licenciado en Contabilidad, Alejandro Tello Cristerna, Gobernador del Estado de Zacatecas, en ejercicio de la facultad que le confieren los artículos 60 fracción II y 72 de la Constitución Política del Estado Libre y Soberano de Zacatecas; 46 fracción II de la Ley Orgánica del Poder Legislativo del Estado; 95 fracción II, 96 y 98 de su Reglamento General, sometió a la consideración de esta Asamblea Legislativa para su análisis y, en su caso, aprobación, la iniciativa con proyecto de decreto para expedir la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios.
 
-### Capítulo I. Del Objeto
+RESULTANDO SEGUNDO. Por acuerdo de la Presidencia de la Mesa Directiva, mediante memorándum número 0240, de la misma fecha, la iniciativa fue turnada a las Comisiones de Presupuesto y Cuenta Pública y de Vigilancia, para su análisis y la emisión del dictamen correspondiente.
+
+RESULTANDO TERCERO. El proponente justificó su Iniciativa, bajo la siguiente:
+
+EXPOSICIÓN DE MOTIVOS
+
+[…]
+
+Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
+
+DECRETA
+
+LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES Y FACULTADES DE LAS AUTORIDADES
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+Del Objeto de la Ley.
 
 ###### Artículo 1.
 
-El presente Reglamento es de observancia obligatoria para los integrantes del Consejo Consultivo del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza y tiene por objeto normar su integración, funcionamiento y atribuciones, así como establecer los criterios generales para cumplir con las funciones para las que fue creado, de conformidad con lo previsto en el artículo 37 de la Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza.
+Esta Ley es de orden público, de carácter general y aplicación obligatoria. Tiene por objeto establecer las bases, requisitos y responsabilidades en la programación, autorización, contratación, registro, vigilancia, control y transparencia de la Deuda Pública y Obligaciones a cargo de los Entes Públicos sujetos a esta Ley.
+
+Lo anterior, sin perjuicio de lo señalado por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como los requisitos para la afectación, como fuente de pago o garantía de las obligaciones a cargo de los Entes Públicos, de los bienes, derechos e ingresos que integran su hacienda pública o su patrimonio.
+
+Definiciones.
 
 ###### Artículo 2.
 
-El Consejo Consultivo del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, es un órgano plural de asesoría y apoyo técnico del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, que tiene por objeto emitir opiniones y recomendaciones sobre las políticas y programas del Sistema, apoyar sus actividades y contribuir a la obtención de recursos que permitan el incremento del patrimonio de éste. Se integra con la participación activa de los sectores público y privado relacionados con la asistencia social y la protección de los derechos de las personas en situación de vulnerabilidad.
+Para los efectos de esta Ley se entenderá por:
+
+I. Aportaciones Federales: Recursos que la federación transfiere a las haciendas públicas del Estado y sus Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos para cada tipo de aportación a que se refiere el Capítulo Quinto de la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas del Estado de Zacatecas, incluyendo los esquemas o proyectos de prestación de servicios similares o semejantes, con independencia de la denominación que se utilice para su desarrollo;
+
+III. Balance Presupuestario: Diferencia entre los ingresos totales incluidos en la Ley de Ingresos, y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+IV. Balance Presupuestario de Recursos Disponibles: Diferencia entre los ingresos provenientes de participaciones e ingresos propios, incluidos en la Ley de Ingresos, más el financiamiento neto y los gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+V. Deuda Contingente: Cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Poder Ejecutivo del Estado con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
+
+VI. Deuda Estatal Garantizada: Financiamiento del Poder Ejecutivo del Estado y sus Municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo II del Título Tercero de la presente Ley;
+
+VII. Deuda Pública: Cualquier Financiamiento contratado por los Entes Públicos;
+
+VIII. Disciplina Financiera: La observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera; la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico, el empleo y la estabilidad del sistema financiero;
+
+IX. Entes Públicos: Poder Ejecutivo del Estado, los Municipios, los Organismos Públicos Descentralizados Estatales o Municipales, las Empresas de Participación Estatal o Municipal mayoritarias, y los Fideicomisos Públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
+
+X. Fideicomiso de Administración, Garantía y Fuente de Pago: Instrumento jurídico de carácter fiduciario que tiene como finalidad la administración de sumas de dinero u otros bienes para ser destinados al cumplimiento oportuno y adecuado de las obligaciones que indique el fideicomitente;
+
+XI. Fideicomiso para la Colocación de Certificados Bursátiles: Instrumento jurídico de carácter fiduciario que tiene como finalidad la participación individual de sus tenedores en un crédito colectivo a cargo de personas morales o de un patrimonio afecto en fideicomiso. Dichos certificados podrán ser preferentes o subordinados o incluso tener distinta prelación;
+
+XII. Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
+
+XIII. Financiamiento Neto: Diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
+
+XIV. Fuente de Pago: Recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
+
+XV. Gasto Corriente: Erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros los servicios generales; así como las transferencias, asignaciones, subsidios, donativos y apoyos;
+
+XVI. Garantía de Pago: Mecanismo que respalda el pago de un Financiamiento u Obligación contratada;
+
+XVII. Ingresos Locales: Aquéllos percibidos por el Poder Ejecutivo del Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
+
+XVIII. Ingresos Totales: Totalidad de los Ingresos de Libre Disposición, las Transferencias Federales etiquetadas y el Financiamiento Neto;
+
+XIX. Instituciones Financieras: Instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría de Hacienda y Crédito Público o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
+
+XX. Instrumentos Derivados: Valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes;
+
+XXI. Inversión Pública Productiva: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+XXII. Legislatura del Estado: Poder Legislativo del Estado de Zacatecas;
+
+XXIII. Ley de Ingresos: Ley de Ingresos del Estado de Zacatecas o Ley de Ingresos de los Municipios, aprobada por la Legislatura del Estado, según corresponda;
+
+XXIV. Mejores condiciones de mercado: Costo financiero más bajo del mercado, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta de financiamiento, según comparativos y metodología a que se refiere el artículo 31, fracción IV de esta Ley;
+
+XXV. Obligaciones: Compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
+
+XXVI. Obligaciones a Corto Plazo: Cualquier Obligación contratada con Instituciones Financieras a un plazo menor o igual a un año;
+
+XXVII. Participaciones: Ingresos que corresponden al Estado o a los Municipios derivados del Sistema Nacional de Coordinación Fiscal, cuyos conceptos se señalan en la Ley de Coordinación Fiscal y los convenios que de ésta emanen;
+
+XXVIII. Pasivos Directos: Aquellos contratados por el Poder Ejecutivo y por los Municipios;
+
+XXIX. Pasivos Indirectos: Aquellos que contraigan las entidades de la administración pública paraestatal o municipal;
+
+XXX. Presupuesto de Egresos: Presupuesto de Egresos del Estado de Zacatecas aprobado por la Legislatura del Estado y Presupuesto de Egresos del Municipio aprobado por el Ayuntamiento, según corresponda;
+
+XXXI. Programa de Financiamiento: Cantidad total estimada, que al efecto se establezca en la Ley de Ingresos aplicable para la contratación de financiamientos del ejercicio fiscal en curso de que se trate, deduciendo las cantidades que se requieran para pagos a capital de financiamientos. El pago de intereses no formará parte del financiamiento pero deberá incluirse en el Presupuesto de Egresos correspondiente e informarse en la Cuenta Pública;
+
+XXXII. Reestructuración: Celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
+
+XXXIII. Refinanciamiento: Contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar, total o parcialmente, uno o más Financiamientos previamente contratados;
+
+XXXIV. Registro Público Único: Registro Público Federal para la inscripción de Deuda Pública y Obligaciones que contraten los Entes Públicos;
+
+XXXV. Registro Estatal de Deuda Pública: Registro Público a cargo del Estado para la inscripción de Deuda Pública y Obligaciones que contraten los Entes Públicos;
+
+XXXVI. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado de Zacatecas;
+
+XXXVII. Sistema de Alertas: Publicación hecha por la Secretaría de Hacienda y Crédito Público, sobre los indicadores de endeudamiento de los Entes Públicos; y
+
+XXXVIII. Techo de Financiamiento Neto: Límite de Financiamiento Neto anual que podrá contratar un Ente Público, con Fuente de pago de Ingresos de Libre Disposición. Dicha Fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos.
+
+De la interpretación y supletoriedad de la ley.
 
 ###### Artículo 3.
 
-Para efectos de este Reglamento se entenderá por:
+La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito del Estado de Zacatecas y sus Municipios, le corresponde a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Zacatecas, asimismo es la encargada de la expedición de las disposiciones legales necesarias en el ámbito de sus (sic) competencia para su debido cumplimiento.
 
-I. Consejo: El Consejo Consultivo del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+A falta de disposición expresa en esta Ley, se aplicarán, supletoriamente, la Ley de Disciplina y Responsabilidad Financiera del Estado y Municipios de Zacatecas, la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios.
 
-II. Informe Anual de Resultados: El informe del ejercicio fiscal respectivo que comprende el desarrollo de las acciones encaminadas al logro del objeto del Consejo.
-
-III. Junta de Gobierno: La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
-
-IV. Ley: La Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza.
-
-V. Organismo: El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
-
-VI. Sociedad Civil: Personas de la Sociedad Civil dedicadas a la asistencia social o a la protección de los derechos de las personas en situación de vulnerabilidad.
-
-VII. Presidente Honorario: El Presidente honorífico del Consejo.
-
-VIII. Presidente Ejecutivo: El Presidente del Consejo.
-
-IX. Programas: Los programas de asistencia social nacionales y estatales coordinados por el Organismo.
-
-X. Recursos: Los subsidios, donativos y demás recursos que se obtengan por medio del Consejo para integrarse al patrimonio del Organismo.
-
-XI. Reglamento: El Reglamento del Consejo Consultivo del Sistema para elDesarrollo (sic) Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
-
-XII. Secretario Técnico: El Secretario Técnico del Consejo Consultivo del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
-
-XIII. Titular del Organismo: El Titular del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del el Estado de Coahuila de Zaragoza.
+De los Entes Públicos a cargo de la Deuda Pública y Obligaciones.
 
 ###### Artículo 4.
 
-El Consejo está integrado por un Presidente Honorario, un Presidente Ejecutivo y catorce vocales, siete representantes del sector público y hasta siete representantes de la Sociedad Civil.
+La contratación de Deuda Pública en el Estado de Zacatecas, sólo podrá estar a cargo de los Entes Públicos:
 
-Cada miembro del Consejo deberá designar un suplente, que será autorizado por la Junta de Gobierno, para cubrir sus ausencias temporales, con excepción del Presidente Ejecutivo, quien será suplido por el Secretario Técnico. El cargo de suplente será indelegable, de manera que no se podrán acreditar representantes de éstos en las sesiones del Consejo.
+I. El Poder Ejecutivo del Estado;
 
-Quienes integren el Consejo, tanto propietarios como suplentes, antes de tomar posesión de su cargo deberán rendir protesta en los mismos términos de lo dispuesto en el artículo 17 de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
+II. Los Municipios;
 
-Todos los cargos a que se refiere el presente artículo serán honoríficos, por lo que sus titulares no recibirán retribución, emolumento o compensación alguna por su desempeño.
+III. Los Organismos Públicos Descentralizados Estatales o Municipales;
+
+IV. Las Empresas de Participación Estatal o Municipal mayoritarias; y
+
+V. Los Fideicomisos Públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
+
+De las operaciones de los Entes Públicos.
 
 ###### Artículo 5.
 
-Para ser miembro del Consejo se requerirá lo siguiente:
+Quedan sujetas a esta Ley, las siguientes operaciones que realicen los Entes Públicos, directamente o a través de fideicomisos:
 
-I. Por el sector público, los representantes y sus suplentes deberán ser funcionarios públicos al servicio de la Administración Pública Estatal; los representantes deberán tener nivel mínimo de Subsecretario y sus suplentes pueden ser del mismo nivel o un nivel jerárquico inferior.
+I. La suscripción, emisión o colocación de títulos de crédito, bonos, valores o cualquier otro documento pagadero a plazo;
 
-II. Por la Sociedad Civil, los representantes y sus suplentes deberán ser personas de reconocida solvencia moral y prestigio social o académico en materia de asistencia social, así como en la promoción, protección y defensa de los derechos de las personas en situación de vulnerabilidad y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
+II. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
+
+III. La celebración de operaciones con instrumentos derivados que impliquen una deuda directa o contingente para los Entes Públicos;
+
+IV. El otorgamiento de garantías, avales o la asunción de obligaciones solidarias o subsidiarias respecto de las obligaciones de otros Entes Públicos;
+
+V. Las deudas contingentes relacionadas con los actos anteriormente mencionados; y
+
+VI. La constitución de fideicomisos como Fuente de pago o garantía y fideicomisos para la colocación de certificados bursátiles.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+No constituyen operaciones financieras de deuda pública, las obligaciones derivadas de la adquisición de bienes, la contratación de obras públicas y servicios relacionados con las mismas.
+
+De la constitución de la Deuda Pública.
 
 ###### Artículo 6.
 
-Los miembros del Consejo serán nombrados de la siguiente forma:
+Para los fines de esta Ley, las Obligaciones y la Deuda Pública están constituidas por Pasivos Directos, Indirectos o Deuda Contingente, derivadas de créditos o financiamientos a cargo de los Entes Públicos.
 
-I. El Presidente Honorario será nombrado por la Junta de Gobierno.
+La deuda pública contratada por fideicomisos será atribuible, para efectos contables, al Ente Público fideicomitente y, en caso que hubiere dos o más, la deuda pública será en proporción a sus obligaciones de pago, conforme a lo dispuesto en el fideicomiso correspondiente.
 
-II. El Presidente Ejecutivo, será nombrado por la Junta de Gobierno, de entre cualquiera de los miembros del Consejo.
-
-III. Los representantes del sector público y sus suplentes, serán uno por cada una de las siguientes instituciones y serán nombrados por el titular de la dependencia que corresponda, con aprobación de la Junta de Gobierno:
-
-a. Secretaría de Desarrollo Social,
-
-b. Secretaría de Salud,
-
-c. Secretaría de Educación,
-
-d. Secretaría de Cultura,
-
-e. Secretaría de Finanzas,
-
-f. Secretaría de las Mujeres, y
-
-g. Secretaría de la Juventud.
-
-Los representantes del sector público y sus suplentes serán designados y aprobados por la Junta de Gobierno, dentro de los veinte días hábiles posteriores a la designación del Presidente Honorario.
-
-IV. Los representantes de la Sociedad Civil y sus suplentes, serán propuestos por el Presidente Ejecutivo al Consejo, quien solicitará la aprobación de la Junta de Gobierno.
+Del destino de la Deuda Pública y Obligaciones.
 
 ###### Artículo 7.
 
-La duración de los cargos de los miembros del Consejo será de conformidad a lo siguiente:
+Los Entes Públicos solo podrán contraer Obligaciones, Empréstitos y Deuda Pública cuando se destinen a Inversiones Públicas Productivas, Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
 
-I. El Presidente Honorario durará en el encargo un período máximo de seis años, coincidentes con el periodo constitucional del Gobernador Constitucional del Estado.
+Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión Pública Productiva a realizar.
 
-II. El Presidente Ejecutivo durará en su encargo tres años y podrá ser ratificado por la Junta de Gobierno por una sola ocasión, para un período consecutivo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III. Los vocales representantes del sector público y sus suplentes, durarán en su encargo tres años y podrán ser ratificados por una sola ocasión, para un período consecutivo.
+Lo dispuesto en este artículo no será aplicable a la contratación de Financiamientos, en términos de programas federales o de los convenios con la Federación, los que se regirán por lo acordado entre las partes en el convenio correspondiente, incluyendo aquellos rubros o destinos para atender a la población afectada por desastres naturales en los términos de las leyes, reglas de operación y lineamientos aplicables, así como por la Ley de Coordinación Fiscal.
 
-IV. Los vocales representantes de las Organizaciones de la Sociedad Civil y sus suplentes durarán en su encargo tres años y podrán ser reelegidos por una sola ocasión para un período consecutivo.
+De las prohibiciones en la contratación de Deuda Pública y Obligaciones.
 
 ###### Artículo 8.
 
-En apoyo a su funcionamiento, el Consejo contará con un Secretario Técnico, quien será el titular del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza. En las sesiones del Consejo, el Secretario Técnico tendrá derecho a voz, pero sin voto, y deberá designar a un suplente para cubrir sus ausencias temporales al interior del Consejo.
+Queda prohibido a los Entes Públicos:
 
-### Capítulo II. Definiciones
+I. Contraer directa o indirectamente obligaciones o empréstitos con gobiernos de otras naciones;
+
+II. Contratar con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional;
+
+III. Excedan los conceptos y montos que autorice la Legislatura del Estado;
+
+IV. Destinar los recursos derivados de Deuda Pública y Obligaciones para financiar gasto corriente; y
+
+V. Celebrar operaciones de coinversión con particulares o Asociaciones Público-Privadas, utilizando recursos provenientes de Deuda Pública, salvo que en este último caso dicho supuesto se encuentre previsto o autorizado en esta u otra ley estatal.
+
+### CAPÍTULO II. ATRIBUCIONES DE LAS AUTORIDADES
+
+Autoridades estatales y municipales en materia de Deuda Pública y Obligaciones.
 
 ###### Artículo 9.
 
-El Consejo contará con las facultades siguientes:
+Son autoridades en materia de Deuda Pública, en el ámbito de sus respectivas competencias:
 
-I. Emitir recomendaciones y opiniones al Organismo con relación a sus políticas y programas;
+I. La Legislatura del Estado de Zacatecas;
 
-II. Analizar, opinar y emitir recomendaciones sobre el informe de resultados y avances en la operación de los programas del Organismo;
+II. El Poder Ejecutivo del Estado de Zacatecas, a través de su titular y el Secretario de Finanzas; y
 
-III. Invitar a especialistas, investigadores, instituciones y grupos de interés a los grupos de trabajo del Consejo para que coadyuven en el estudio y análisis de temas de asistencia social y protección de derechos de las personas en situación de vulnerabilidad;
+III. Los Ayuntamientos.
 
-IV. Apoyar todas las actividades del Organismo;
-
-V. Conocer todas las propuestas de asistencia social y protección de derechos del Organismo y contribuir en la obtención de recursos que permitan que el Organismoincremente (sic) su patrimonio;
-
-VI. Requerir al Organismo, por conducto de su Titular, la información que considere necesaria para el estudio y análisis de sus políticas y programas;
-
-VII. Proponer al Titular del Organismo modificaciones al presente Reglamento, para su autorización por parte de la Junta de Gobierno;
-
-VIII. Elegir a los representantes de la Sociedad Civil como miembros del Consejo, con aprobación de la Junta de Gobierno, de las propuestas que someta a su consideración el Presidente Ejecutivo;
-
-IX. Aprobar a propuesta del Presidente Ejecutivo, la conformación de grupos de trabajo temporales:
-
-X. Aprobar el orden del día, así como el calendario de sesiones, y
-
-XI. Dar seguimiento a los acuerdos y recomendaciones emitidas por el Consejo.
+Atribuciones de la Legislatura del Estado.
 
 ###### Artículo 10.
 
-Los gastos administrativos del Consejo que se originen en su funcionamiento, serán con cargo al Organismo conforme a su disponibilidad presupuestaria y deberán aplicarse de conformidad con las disposiciones en la materia.
+Corresponde a la Legislatura del Estado en los términos de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios:
+
+I. Aprobar los montos máximos para la contratación de Obligaciones y Deuda Pública de los Entes Públicos;
+
+II. Aprobar, en su caso, los conceptos, montos y partidas correspondientes a los Ingresos Derivados de endeudamiento que deberán quedar contemplados en las Leyes de Ingresos y Presupuestos de Egresos de los Entes Públicos, de acuerdo con el Programa de Financiamiento;
+
+III. Previo a la aprobación de financiamientos o de los montos autorizados de deuda de los Entes Públicos, realizar el análisis de su capacidad de pago, así como del destino de las Obligaciones, Empréstitos y Deuda Pública y, en su caso, del otorgamiento de recursos como Fuente o Garantía de Pago;
+
+IV. Autorizar a los Entes Públicos la celebración o contratación de operaciones u obligaciones que constituyan Deuda Contingente;
+
+V. Autorizar las solicitudes de contratación de Deuda Pública, Financiamientos y Obligaciones, de los Entes Públicos en autorizaciones específicas o de montos de endeudamiento adicional no contemplados en las leyes de ingresos, incluyendo el plazo máximo para pago y el destino del mismo, en los términos de la presente Ley, siempre que sean necesarios para su financiamiento, mediante reforma a la propia Ley de Ingresos o a través de decretos específicos, cuando se presenten circunstancias económicas extraordinarias que así lo requieran y los Entes Públicos cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán, siempre que no excedan del monto de tope máximo para su endeudamiento; autorizaciones a las cuales se podrán adherir los municipios que así lo estimen conveniente derivado de la magnitud de los proyectos que constituyan Inversión Pública Productiva en los términos que señala la presente Ley, la Legislatura del Estado podrá autorizar la contratación de financiamientos a dos o más Municipios, bajo el amparo de una línea de crédito global o, en su caso, la emisión de valores conjunta entre dos o más Municipios, las cuales serán negociadas y gestionadas con la asesoría de la Secretaría.
+
+El plazo en el cual podrá ejercerse la autorización, no podrá rebasar el ejercicio fiscal inmediato siguiente a aquél en el que se otorga la autorización correspondiente. En caso de que no se especifique un plazo para ejercer la autorización otorgada por la Legislatura del Estado, ésta estará vigente hasta el término del ejercicio fiscal en el que fue otorgada;
+
+VI. Autorizar a los Entes Públicos la afectación de los Ingresos Locales, así como el derecho o los ingresos a las aportaciones federales susceptibles de afectación, a las participaciones o cualquier otro ingreso que le corresponda, como Fuente de pago o garantía de las obligaciones a su cargo, conforme a lo establecido en la presente Ley;
+
+VII. Autorizar a los Municipios respecto del derecho de cobro e Ingresos Derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable, que puedan ser afectados como garantía de pago;
+
+VIII. Conceder la autorización a las entidades de la administración pública paraestatal o paramunicipal la afectación de los bienes, derechos o ingresos que formen parte de su patrimonio, que sean susceptibles de constituirse como Fuente de pago o garantía de las obligaciones a su cargo, de acuerdo con la normatividad aplicable;
+
+IX. Aprobar, cuando así lo considere conveniente, la iniciativa del Ejecutivo del Estado o de dos o más Municipios, respecto de la contratación de créditos y la constitución de mecanismos de Fuente de Pago o Garantía, que afecten el derecho o los ingresos a las participaciones o aportaciones federales que les corresponden, para el pago de sus obligaciones, sujeto a que los recursos o ingresos de un Municipio no puedan destinarse al pago de las obligaciones de otro u otros Municipios; a la autorización correspondiente, podrán adherirse los Municipios que así lo decidan, previa autorización de sus Ayuntamientos;
+
+X. Autorizar la afectación como Fuente o Garantía de Pago, o ambas, de las obligaciones contraídas por el Estado, directamente o como avalista, deudor solidario, subsidiario o sustituto, sus bienes del dominio privado, los derechos e ingresos que obtengan de las participaciones que en ingresos federales le correspondan; así como sus derechos al cobro e Ingresos Derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, aportaciones federales, o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable;
+
+XI. Autorizar al Poder Ejecutivo del Estado o a los Municipios la constitución de fideicomisos que tengan entre sus fines la contratación de Obligaciones, Empréstitos y Deuda Pública, ya sea con Instituciones Financieras o mediante el mercado bursátil, así como la afectación de los Ingresos Locales o cualquier otro ingreso que le corresponda, distinto de las participaciones y aportaciones federales, a efecto de que sirvan como garantía y Fuente de pago de las Obligaciones, Empréstitos y Deuda Pública que se contraten, o bien, para la colocación de certificados bursátiles, en términos de lo previsto en la presente Ley;
+
+XII. Autorizar a celebrar los instrumentos necesarios para la formalización de los mecanismos mediante los cuales se realicen las afectaciones señaladas en las fracciones precedentes, para ser utilizados, además, como medio de captación y distribución de las aportaciones federales que les correspondan, en el entendido que cuando los mecanismos se formalicen a través de fideicomisos, éstos no serán considerados, en ningún caso, parte de la administración pública paraestatal o paramunicipal. A las autorizaciones señaladas en la presente fracción, se podrán adherir los Municipios que así lo consideren conveniente;
+
+XIII. Autorizar la celebración de operaciones de Refinanciamiento y Reestructuración de Deuda Pública, a excepción de aquellas que se ubiquen en los supuestos establecido en esta Ley;
+
+XIV. Solicitar a los Entes Públicos la documentación e información complementaria que requiera para el análisis de las solicitudes de contratación de Deuda Pública y Obligaciones. Tratándose de las solicitudes que realicen los Municipios o entes paramunicipales, la Legislatura del Estado podrá solicitar, previo a su aprobación, la opinión técnica de la Secretaría;
+
+XV. Ejercer las facultades de vigilancia que tiene conferidas en la Constitución Política del Estado Libre y Soberano de Zacatecas, a través de la Auditoria Superior del Estado; y
+
+XVI. Las demás que en materia de Deuda Pública, le confiere la Constitución Política del Estado Libre y Soberano de Zacatecas, esta Ley y otras disposiciones legales.
+
+Del contenido de las autorizaciones.
 
 ###### Artículo 11.
 
-Son facultades del Presidente Honorario las siguientes:
+La aprobación y autorización que se emita por parte de la Legislatura del Estado respecto de los Financiamientos que constituyan Deuda Pública, cumpliendo lo conducente en cuanto al otorgamiento de avales o garantías que pretendan otorgar el Estado o sus Municipios, deberá especificar lo siguiente:
 
-I. Enviar al Presidente Ejecutivo los asuntos que juzgue convenientes para ser tratados en el Consejo;
+I. Monto autorizado de la Obligación o Deuda Pública a contratar;
 
-II. Asistir al informe anual que rinda el Presidente Ejecutivo;
+II. Plazo máximo autorizado para el pago;
 
-III. Vigilar el cumplimiento del presente Reglamento;
+III. Destino de los recursos;
 
-IV. Presidir los trabajos del Consejo cuando asista a las sesiones.
+IV. En su caso, la Fuente de pago o la contratación de una Garantía de pago de la Deuda Pública u Obligación; y
+
+V. En caso de autorizaciones específicas, deberá establecerse su vigencia, en cuyo caso no podrá exceder el ejercicio fiscal siguiente. De no señalarse, la autorización se entenderá que sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
+
+Competencia del Poder Ejecutivo en materia de Deuda Pública.
 
 ###### Artículo 12.
 
-Al Presidente Ejecutivo le corresponden las siguientes atribuciones:
+Corresponde al Poder Ejecutivo del Estado:
 
-I. Convocar a las sesiones ordinarias y extraordinarias del Consejo, a través del Secretario Técnico;
+I. Enviar, para su aprobación, a la Legislatura del Estado, en los ejercicios en que se pretenda contratar endeudamiento, el Programa de Financiamiento Estatal junto con la iniciativa de Ley de Ingresos del Estado o la modificación a la misma, proponiendo en dichos instrumentos jurídicos, los montos necesarios de Deuda Pública y Obligaciones netos;
 
-II. Dirigir los trabajos del Consejo para el cumplimiento de su objeto y la completa observancia de la Ley y demás normatividad aplicable;
+II. Presentar y gestionar, ante la Legislatura del Estado, las solicitudes de autorización de endeudamiento adicional propio, así como de las entidades de la Administración Pública Paraestatal en términos de esta Ley;
 
-III. Representar al Consejo ante organismos públicos, privados, nacionales o internacionales en el ámbito de su competencia; así como fungir de enlace entre el Consejo y el Organismo en todo lo referente al funcionamiento y operación de las políticas y programas;
+III. Atender lo establecido en esta Ley, para que la contratación de Obligaciones, Empréstitos y Deuda Pública se lleven a cabo bajo las mejores condiciones de mercado;
 
-IV. Rendir un informe anual sobre las actividades del Consejo Consultivo;
+IV. Informar a la Legislatura del Estado de la situación de la deuda al rendir la Cuenta Pública anual y al remitir las iniciativas de Ley de Ingresos y Presupuesto de Egresos;
 
-V. Conformar las propuestas de los candidatos a representantes de la Sociedad Civil como miembros del Consejo y proponerlas al Consejo;
+V. Informar, de manera trimestral, a la Legislatura del Estado, así como en los informes de Cuenta Pública e Informe General Ejecutivo, y bajo los parámetros de la Ley General de Contabilidad Gubernamental, sobre la situación que guarda la Deuda Pública del Estado y de los Entes Públicos a cargo de la deuda; debiendo publicarla, en el Periódico Oficial, Órgano del Gobierno del Estado; y
 
-VI. Suscribir, en conjunto con los demás integrantes del Consejo, las opiniones y recomendaciones, así como los demás documentos que emita el Consejo;
+VI. Las demás facultades y obligaciones que deriven de la presente Ley.
 
-VII. Presidir y dirigir las sesiones ordinarias y extraordinarias, teniendo voto de calidad en caso de empate;
-
-VIII. Someter al conocimiento de los miembros del Consejo las políticas y programas del Organismo, para emitir las opiniones y recomendaciones;
-
-IX. Autorizar las convocatoriasa (sic) las sesiones del Consejo y someter a aprobación del Consejo el orden del día y el calendario de sesiones;
-
-X. Someter a votación de los miembros del Consejo las propuestas de las actividades y proyectos para la obtención de recursos;
-
-XI. Presentar al Titular del Organismo la propuesta de modificación del Reglamento, previo acuerdo del Consejo;
-
-XII. Invitar a expertos en materia de asistencia social y protección de derechos de las personas en situación de vulnerabilidad, a las sesiones del Consejo en calidad de consejeros, con derecho a voz pero no a voto, para que coadyuven a las actividades del mismo;
-
-XIII. Proponer al Consejo la integración de grupos de trabajo relacionados con la asistencia social y protección de derechos de las personas en situación de vulnerabilidad, y expedir los documentos necesarios para su funcionamiento;
-
-XIV. Someter a la consideración del Consejo las propuestas de acuerdos, así como ejecutar y dar seguimiento a los emitidos por el mismo:
-
-XV. Proponer al Consejo la baja de alguno de sus miembros conforme a los artículos del presente Reglamento;
-
-XVI. Las demás que le asigne el Consejo observando el presente Reglamento.
-
-Estas atribuciones serán ejercidas por el Presidente Ejecutivo, en caso de no poder ejecutarlas, recaerá la obligación en el Presidente Honorario.
+Atribuciones de la Secretaría de Finanzas
 
 ###### Artículo 13.
 
-A los vocales les corresponden las atribuciones siguientes:
+Corresponde al Poder Ejecutivo del Estado, a través de la Secretaría:
 
-I. Asistir a las sesiones del Consejo, y participar con voz y voto en las mismas;
+I. En los ejercicios en que se pretenda contratar endeudamiento, previa aprobación del Titular del Poder Ejecutivo, formular el Programa Financiero Estatal a fin de someterlo a consideración de la Legislatura del Estado, junto con la Iniciativa de la Ley de Ingresos del Estado o modificación de la misma;
 
-II. Someter a consideración del Consejo, las opiniones y recomendaciones a los programas del Consejo, así como las propuestas de las actividades y proyectos para la obtención de recursos;
+II. Celebrar, en apego a esta Ley, la contratación de Obligaciones, Empréstitos y Deuda Pública a cargo del Estado, directa y a corto plazo, y suscribir los títulos de crédito y demás instrumentos legales requeridos para tales efectos;
 
-III. Colaborar, a solicitud del Presidente Ejecutivo, en los asuntos o actividades para el debido cumplimiento de los acuerdos del Consejo;
+III. Concertar, con apego a esta Ley, la contratación de Obligaciones, Empréstitos y Deuda Pública a cargo del Estado directamente o a través de fideicomisos;
 
-IV. Remitir al Secretario Técnico los documentos que se sometan a consideración del Consejo;
+IV. Emitir valores, certificados, obligaciones, bonos en una o varias emisiones y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de fideicomisos, de conformidad con la legislación bursátil, financiera y mercantil aplicable, así como otorgar garantías que se requieran o sean convenientes para estos efectos.
 
-V. Proponeral (sic) Presidente Ejecutivo, la realización de sesiones extraordinarias;
+Los bonos que se pondrán en circulación cuando el Ejecutivo del Estado lo autorice, a través de la Secretaría, constituirán obligaciones generales directas e incondicionales, de acuerdo con los términos fijados en las actas de emisión o en los documentos contractuales respectivos;
 
-VI. Proponer la participación de invitados internos o externos a las sesiones del Consejo, y
+V. Concertar los términos y condiciones, celebrar y, en su caso, llevar a cabo cualquier acto relacionado con la contratación de instrumentos derivados y los demás instrumentos, contratos o actos que se relacionen o sean necesarios para la celebración de operaciones de Deuda Pública;
 
-VII. Las demás funciones que les encomiende el Consejo a través del Presidente Ejecutivo.
+VI. Administrar los recursos públicos que se obtengan de las Obligaciones, Empréstitos o Deuda Pública del Estado;
+
+VII. Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos que para tales efectos se establezcan, los pagos de amortizaciones, intereses y los demás conceptos derivados de las Obligaciones, Empréstitos y Deuda Pública (sic) cargo del Estado;
+
+VIII. Celebrar las operaciones de Reestructuración o Refinanciamiento de las obligaciones, deuda pública, directa o contingente contraída por el Estado, la cual podrá no ser incluida en la Ley de Ingresos y Presupuesto de Egresos del Estado cuando estas operaciones se realicen con posterioridad a la aprobación de tales ordenamientos;
+
+IX. Cuando la Legislatura del Estado lo autorice, constituirse como deudor solidario o subsidiario, garante o avalista de Obligaciones, Empréstitos y Deuda Pública contraída por las entidades de la administración pública paraestatal;
+
+X. Afectar como Fuente de pago o Garantía de las obligaciones a cargo del Estado, los Ingresos locales, así como el derecho a percibir los ingresos y los propios ingresos de las participaciones, aportaciones federales susceptibles de afectación, así como cualquier otro ingreso que tenga derecho a recibir, a través de los mecanismos que para tales efectos determine;
+
+XI. Concertar los términos y condiciones, celebrar y llevar a cabo cualquier acto relacionado con la constitución de los mecanismos de Fuente de Pago o Garantía;
+
+XII. Constituir fideicomisos de administración, garantía y Fuente de pago o fideicomisos para la colocación de certificados bursátiles, que tengan entre sus fines la contratación de Obligaciones, Empréstitos y Deuda Pública, ya sea con personas físicas o morales, Instituciones Financieras, o mercado bursátil, así como la afectación de los ingresos provenientes de impuestos, derechos, productos o aprovechamientos o cualquier otro ingreso que le corresponda, distinto de las Participaciones y Aportaciones Federales, a efecto de que sirva como fuente exclusiva de pago de los (sic) Obligaciones, Empréstitos y Deuda Pública que se contraten a través de dichos fideicomisos;
+
+XIII. Constituir fideicomisos de captación y distribución de contribuciones locales, Participaciones y Aportaciones Federales, en términos de la Ley de Coordinación y Colaboración Hacendaria del Estado de Zacatecas, a fin de cumplir con sus obligaciones de entrega de dichos recursos federales en términos de la Ley de Coordinación Fiscal;
+
+XIV. Autorizar a las entidades de la Administración Pública Paraestatal para gestionar y contratar Obligaciones, Empréstitos y Deuda Pública, siempre y cuando éstos tengan la solvencia suficiente para afrontar los compromisos y obligaciones que pretenden adquirir;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. Vigilar que se incluyan en el proyecto de Presupuesto de Egresos del Estado, los montos necesarios para cumplir puntualmente las obligaciones derivadas de las operaciones de Deuda Pública del Estado, así como incluir un apartado especial e independiente, para efectos informativos, respecto del servicio de la deuda de los Entes Públicos. Asimismo, deberá desglosar el monto asignado en el ejercicio fiscal correspondiente al pago de deuda pública en pago de principal e intereses, desglosar la deuda pública por tipo de obligación o instrumento de contratación y desglosar la Deuda Pública por Institución Bancaria;
+
+XVI. Asesorar técnicamente a los Municipios y a las entidades de la administración pública paraestatal y paramunicipal que así lo soliciten, en todo lo relativo a la programación, concertación, autorización, contratación y control de Deuda Pública;
+
+XVII. Alertar a los Entes Públicos que amorticen su deuda, liquiden intereses y realicen los pagos que se deriven de la Deuda Pública y Obligaciones contratadas por las mismas; dar aviso a la Legislatura del Estado respecto de cualquier inobservancia al cumplimiento de sus obligaciones;
+
+XVIII. Alertar que la capacidad de pago de los Entes Públicos, que contraen Obligaciones, Empréstitos y Deuda Pública, sea suficiente para cubrir puntualmente los compromisos que contraigan; de lo contrario, dar aviso a la Legislatura del Estado, para los efectos legales correspondientes;
+
+XIX. Presentar a la Legislatura del Estado cualquier otra información en relación con la Deuda Pública que conforme a la presente Ley deba exhibir;
+
+XX. Inscribir las operaciones crediticias que celebre el Estado y los Municipios, en el Registro Estatal de Deuda Pública, con fines declarativos;
+
+XXI. Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan dictamen sobre la calificación de la calidad crediticia del Estado y las calificaciones sobre la calidad crediticia de los valores que, en su caso, se proponga emitir el Estado y para que realicen la revisión periódica de las calificaciones respectivas;
+
+XXII. Remitir a la Legislatura del Estado los contratos de Deuda Pública, Obligaciones, Refinanciamiento o Reestructuración en un término de 15 días naturales siguientes a la celebración de los mismos;
+
+XXIII. Llevar a cabo, por sí o a través de personas físicas o morales especialistas en la materia, la evaluación de la Deuda Pública del Estado de Zacatecas;
+
+XXIV. Transparentar e Informar en los términos de la Ley aplicable, la Deuda Pública del Estado de Zacatecas; y
+
+XXV. Las demás que en materia de Deuda Pública le correspondan de conformidad con esta Ley y demás disposiciones legales aplicables.
+
+Atribuciones de los Municipios.
 
 ###### Artículo 14.
 
-Al Secretario Técnico le corresponderán las siguientes funciones:
+Corresponde a los Ayuntamientos:
 
-I. Preparar y organizar las sesiones del Consejo, previa autorización del Presidente Ejecutivo;
+I. Enviar para su aprobación a la Legislatura del Estado, en los ejercicios en que se pretenda contratar endeudamiento, el Programa Financiero Municipal junto con la iniciativa de Ley de Ingresos del Municipio o la modificación a la misma, proponiendo en dichos instrumentos jurídicos, los montos necesarios de Deuda Pública y Obligaciones netos;
 
-II. Convocar quince días antes a las sesiones, preparar el orden del día y los documentos que se someterán aconsideración (sic) del Consejo y remitirlos a sus miembros con anterioridad;
+II. Presentar y gestionar, ante la Legislatura del Estado, las solicitudes de autorización de contratación de Obligaciones, Empréstitos y Deuda Pública adicional del Municipio y de las entidades de la administración pública paramunicipal, en términos de esta Ley, proponiendo en su caso, la reforma o adición de las Leyes de Ingresos municipales y Presupuesto de Egresos;
 
-III. Suplir al Presidente Ejecutivo cuando así se lo solicite;
+III. Efectuar la solicitud para la obtención de autorizaciones particulares o globales por dos o más Municipios, incluso, con el apoyo del Ejecutivo del Estado, a fin de que se expida el decreto correspondiente, en el cual se podrá autorizar el o los montos adicionales de contratación de Deuda Pública y Obligaciones para cada Municipio, la Garantía o Fuente de Pago, y el mecanismo para su instrumentación, a la que se podrán adherir los Municipios que así lo estimen conveniente;
 
-IV. Verificar la existencia del quórum necesario para el inicio de las sesiones;
+IV. Atender lo establecido en esta Ley, para que la contratación de Obligaciones, Empréstitos y Deuda Pública se lleven a cabo bajo las mejores condiciones de mercado;
 
-V. Integrar la lista de asistencia;
+V. Concertar, celebrar y suscribir los contratos y documentos para la contratación de Obligaciones, Empréstitos y Deuda Pública a cargo de los Municipios, y suscribir los títulos de crédito y demás instrumentos legales requeridos para tales efectos;
 
-VI. Llevar el control y la estadística de asistencia de los miembros del Consejo a las sesiones e informarle al Presidente Ejecutivo de los miembros que incumplan con la asistencia mínima requerida en las sesiones;
+VI. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Municipio, ya sea directamente o a través de fideicomisos, de conformidad con la legislación bursátil, financiera y mercantil aplicable, así como otorgar las garantías que se requieran;
 
-VII. Verificar que los integrantes del Consejo se encuentren debidamente representados en las sesiones;
+VII. Contratar Obligaciones, Empréstitos y Deuda Pública a cargo del Municipio, ya sea directamente o a través de fideicomisos, de conformidad con las disposiciones de esta Ley, así como otorgar o constituir las garantías que correspondan;
 
-VIII. Dar lectura al acta de acuerdos de la sesión anterior y tomar nota de las observaciones que se presenten;
+VIII. Afectar como Fuente de Pago o Garantía de las Obligaciones o Deuda Pública a cargo del Municipio, los Ingresos Locales, así como el derecho a percibir los ingresos y los propios ingresos de las Participaciones, las Aportaciones Federales, así como cualquier otro ingreso que tenga derecho a percibir que sean susceptibles de afectación;
 
-IX. Redactar las actas de acuerdos de las sesiones del Consejo para someterlas a su consideración;
+IX. Concertar los términos y condiciones, celebrar y, en su caso, llevar a cabo cualquier acto relacionado con la constitución de los mecanismos de Fuente de pago o Garantía de las obligaciones a cargo del Municipio;
 
-X. Preparar y distribuir a los miembros del Consejo el Informe Anual de Resultados del año anterior en la primera sesión ordinaria del año en curso;
+X. Obtener del Cabildo la autorización correspondiente para proceder a la afectación de sus Participaciones, Aportaciones Federales como Fuente o Garantía de Pago de las obligaciones que contraiga, siempre que sean susceptibles de afectar conforme a la legislación aplicable; lo anterior, sin perjuicio de la autorización que, en su caso, le otorgue la Legislatura del Estado;
 
-XI. Mantener actualizado el registro de los integrantes del Consejo, que incluya como mínimo los nombres de los titulares y suplentes, su representación, cargos, domicilio, teléfonos, fax y correo electrónico;
+XI. Concertar los términos y condiciones, celebrar y, en su caso, llevar a cabo cualquier acto relacionado con la constitución de los mecanismos de Fuente de pago o Garantía;
 
-XII. Recopilar, analizar, tramitar, clasificar y archivar ordenadamente la documentación relacionada con el objeto del Consejo que sea de utilidad para demostrar el seguimiento y cumplimiento de los acuerdos y del presente Reglamento;
+XII. Constituir Fideicomisos de Administración, Garantía y Fuente de Pago o Fideicomisos para la Colocación de Certificados Bursátiles, que tengan entre sus fines la contratación de Obligaciones, Empréstitos y Deuda Pública, ya sea con personas físicas o morales, Instituciones Financieras, o mercado bursátil, así como la afectación de los ingresos provenientes de impuestos, derechos, productos o aprovechamientos o cualquier otro ingreso que le corresponda, distinto de las Participaciones y Aportaciones Federales, a efecto de que sirva como Fuente exclusiva de pago de los (sic) Obligaciones, Empréstitos y Deuda Pública que se contraten a través de dichos fideicomisos;
 
-XIII. Cotejar y expedir las copias de los documentos que consten en el archivo del Consejo;
+XIII. Concertar los términos y condiciones, celebrar y, en su caso, llevar a cabo cualquier acto relacionado con la contratación de Instrumentos Derivados, y los demás instrumentos, contratos o actos que se relacionen o sean necesarios para la celebración de operaciones de Obligaciones o Deuda Pública;
 
-XIV. Colaborar a solicitud del Presidente Ejecutivo, en asuntos o actividades para el debido cumplimiento de los acuerdos del Consejo;
+XIV. Autorizar a las entidades de la administración pública paramunicipal para gestionar y contratar Obligaciones, Empréstitos y Deuda Pública siempre y cuando éstas acrediten ante el Ayuntamiento la solvencia suficiente para afrontar los compromisos y obligaciones que pretenden adquirir;
 
-XV. Preparar las respuestas a las solicitudes de acceso a la información y atender las observaciones que le sean planteadas, previa autorización del Presidente Ejecutivo;
+XV. Autorizar a las entidades de la administración pública paramunicipal la afectación de los bienes, derechos que tiene derecho a percibir, los ingresos que integran su patrimonio y sean susceptibles de afectación, como Fuente de Pago o Garantía de las Obligaciones a su cargo;
 
-XVI. Llevar el registro y codificación de los acuerdos y resoluciones del Consejo;
+XVI. Incluir en el Presupuesto de Egresos de cada año las partidas necesarias para el pago de Obligaciones, Empréstitos y Deuda Pública a su cargo, así como la inclusión de un apartado especial e independiente, para efectos informativos, respecto al servicio de la deuda pública tanto propia como de las entidades de la administración pública paramunicipal;
 
-XVII. Realizar las acciones necesarias ante el Organismo, para el seguimiento de las opiniones, recomendaciones y acuerdos del Consejo, y
+XVII. Efectuar oportunamente, directamente o a través de los mecanismos establecidos para ello, los pagos de amortizaciones, intereses y demás conceptos derivados de la contratación de Obligaciones, Empréstitos y Deuda Públicaa (sic) su cargo;
 
-XVIII. Las demás funciones que le encomiende el Consejo, a través del Presidente Ejecutivo.
+XVIII. Celebrar las operaciones jurídicas de Reestructuración o Refinanciamiento de Obligaciones Deuda Pública Directa o Contingente del Municipio;
+
+XIX. Crear el Registro de Deuda Pública Municipal para inscribir sus operaciones crediticias, así como inscribirlas en el Registro Público Único y en el Registro Estatal de Deuda Pública;
+
+XX. Informar trimestralmente a la Legislatura del Estado de la situación que guardan las obligaciones y deuda pública municipal, incluyendo la información correspondiente al endeudamiento de las entidades de la administración pública paramunicipal, así como en los informes de la Cuenta Pública y Informe General Ejecutivo y bajo los parámetros de la Ley General de Contabilidad Gubernamental;
+
+XXI. Remitir a la Legislatura del Estado los contratos de Obligaciones, Empréstitos y Deuda Pública, así como los de Refinanciamiento y Restructuración en un término de 15 días naturales después de celebrado el mismo;
+
+XXII. Llevar a cabo por sí o a través de personas físicas o morales especialistas en la materia o a través de un despacho externo, la evaluación de la Deuda Pública del Municipio;
+
+XXIII. Transparentar e informar en los términos de la ley aplicable, la Deuda Pública del Municipio; y
+
+XXIV. Las demás facultades y obligaciones que deriven de la presente Ley.
+
+En el caso de que las Obligaciones o la Deuda Pública a cargo del Municipio o de las entidades de la administración pública municipal excedan el período constitucional para el cual fue electo el Ayuntamiento, se requerirá del acuerdo de las dos terceras partes de los integrantes del Cabildo para su contratación.
+
+Responsabilidad de gestión.
 
 ###### Artículo 15.
 
-El Presidente Ejecutivo someterá a consideración del Consejo, propuestas para elegir a los siete miembros representantes de la Sociedad Civil, realizada la elección, el Consejo solicitará la aprobación de la Junta de Gobierno.
+El titular de la Secretaría de Finanzas, el Tesorero Municipal o su equivalente en cada Ente Público, según corresponda a su ámbito de competencia, serán los responsables de gestionar que las Obligaciones, Empréstitos y Deuda Pública se celebren en las mejores condiciones del mercado.
+
+Corresponde a los Entes Públicos en materia de Deuda Pública y Obligaciones.
 
 ###### Artículo 16.
 
-Treinta días antes de que termine el periodo de gestión de los representantes de la Sociedad Civil, el Presidente Ejecutivo presentará sus propuestas al Consejo para la elección de los nuevos integrantes, respetando los lineamientos fijados en el presente Reglamento.
+A los Entes Públicos señalados en las fracciones III, IV y V del artículo 4 de esta Ley les corresponde:
 
-## TITULO SEGUNDO. ORGANIZACIÓN Y FUNCIONAMIENTO
+I. Formular y someter a la consideración de sus Órganos de Gobierno sus Programas de Deuda Pública y Obligaciones, de acuerdo con esta Ley;
 
-### Capítulo I. Integración
+II. Enviar los programas a la Secretaría o al Ayuntamiento, según corresponda, para su aprobación e incorporación en el Programa de Financiamiento Estatal o Municipal;
+
+III. Proporcionar a la Secretaría sus programas financieros anuales y de mediano plazo, así como la información que les solicite, a fin de determinar sus necesidades de crédito;
+
+IV. Solicitar a la Secretaría o al Ayuntamiento, que negocie en su nombre y representación los Financiamientos a contratar. En el caso de los Ayuntamientos, éstos podrán solicitar la asesoría de la Secretaría;
+
+V. Inscribir en el Registro Estatal o Municipal de Deuda Pública, según corresponda, sus obligaciones crediticias, amortización y rescate de títulos de deuda; y
+
+VI. Las demás que en materia de Deuda Pública y Obligaciones les correspondan.
+
+## TÍTULO SEGUNDO. PROGRAMACIÓN Y CONTRATACIÓN DE OBLIGACIONES Y DEUDA PÚBLICA
+
+### CAPÍTULO I. PROGRAMACIÓN
+
+Del Programa de Financiamiento Estatal.
 
 ###### Artículo 17.
 
-El Consejo celebrará por lo menos una sesión ordinaria cada tres meses, de acuerdo con el calendario anual de sesiones ordinarias propuesto en la primera sesión del ejercicio que se celebre, tomando en cuenta las fechas de celebración de las sesiones de la Junta de Gobierno del Organismo.
+Corresponde al Poder Ejecutivo del Estado presentar, en su caso, a la Legislatura del Estado el Programa de Financiamiento Estatal junto con la iniciativa de Ley de Ingresos o sus modificaciones, dentro de los plazos previstos en la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+Para tales efectos, la Secretaría deberá formular y someter a consideración del titular del Poder Ejecutivo del Estado, a más tardar 15 días antes de la fecha en que se deba presentar la iniciativa de Ley de Ingresos o sus modificaciones, el Programa de Financiamiento Estatal.
+
+El Programa de Financiamiento Estatal deberá contener la siguiente información:
+
+A. Respecto de Obligaciones o Deuda Pública del Estado:
+
+I. El monto que se propone contratar, especificando en su caso el total de Financiamiento Neto que generará la contratación de dicho financiamiento en el ejercicio siguiente o con el financiamiento adicional;
+
+II. El destino que se dará a los recursos obtenidos por la celebración de las operaciones de las Obligaciones o Deuda Pública, indicando su vinculación con el Plan Estatal de Desarrollo y los programas con los que se encuentren relacionados;
+
+III. El plazo al que se pretenda contratar el financiamiento;
+
+IV. En su caso, si se establecerá una Fuente de Pago primaria o exclusiva para el pago de las obligaciones o garantías que se deriven de la contratación de Obligaciones, Empréstitos y Deuda Pública;
+
+V. La proyección del monto que se destinará al pago de las Obligaciones de Deuda Pública;
+
+VI. En su caso, si se propone la contratación de instrumentos derivados u otras obligaciones vinculadas con el Financiamiento que generen Deuda Contingente del Estado;
+
+VII. Detalle de la Deuda Directa o Contingente que se encuentre vigente del Estado; y
+
+VIII. Cualquier otra información que, a juicio de la Secretaría, considere conveniente detallar.
+
+B. Respecto de las Obligaciones o Deuda Pública de las entidades de la administración pública paraestatal:
+
+I. El monto de la deuda que las entidades de la administración pública paraestatal proponen contratar durante el siguiente ejercicio fiscal, especificando el monto de Financiamiento Neto que generará la contratación de dicho financiamiento en el ejercicio en curso. Esta información deberá ser especificada por entidad;
+
+II. El destino que se dará a los recursos obtenidos por la celebración de las operaciones de Deuda Pública, indicando su vinculación con el Plan Estatal de Desarrollo y los programas;
+
+III. El plazo al que se pretenda contratar el Financiamiento;
+
+IV. Si se establecerá una Fuente de Pago primaria o exclusiva para el pago de las Obligaciones o Garantías que se deriven de la contratación de la Deuda Pública;
+
+V. La proyección del monto que se destinará al pago de las Obligaciones de Deuda Pública;
+
+VI. Si se propone la contratación de instrumentos derivados u otras obligaciones vinculadas que generen deuda contingente;
+
+VII. Según corresponda, si se prevé el otorgamiento de Garantías, avales o la contratación de obligaciones solidarias o subsidiarias por parte del Estado;
+
+VIII. Detalle de las Obligaciones, Empréstitos y Deuda Pública o Contingente vigente de las entidades de la Administración Pública Paraestatal; y
+
+IX. En su caso, cualquier otra información que, a juicio de la Secretaría considere conveniente detallar.
+
+Del Programa de Financiamiento Paraestatal.
 
 ###### Artículo 18.
 
-El Consejo celebrará sesiones extraordinarias a solicitud del Presidente Ejecutivo o a petición de cualquiera de los miembros del Consejo, a través del Presidente Ejecutivo.
+Las entidades de la Administración Pública Paraestatal que pretendan contratar Obligaciones, Empréstitos y Deuda Pública, en el siguiente ejercicio fiscal, deberán presentar la solicitud a la Secretaría, a más tardar 30 días naturales previos a la fecha límite en la que el Poder Ejecutivo del Estado deba presentar la iniciativa de la Ley de Ingresos del Estado a la Legislatura del Estado, adjuntando la información a que se refiere el artículo 17, apartado B de esta Ley, a fin de que la Secretaría evalúe la solicitud y, en caso de considerarla procedente, la incluya en el Programa de Financiamiento Estatal.
+
+Del Programa de Financiamiento Municipal.
 
 ###### Artículo 19.
 
-Las sesiones del Consejo se celebrarán siempre en el domicilio que se indique para el efecto y solo por acuerdo de éste, se realizarán en lugar distinto.
+Corresponde a los Ayuntamientos presentar a la Legislatura del Estado el Programa de Financiamiento municipal, junto con la iniciativa de Ley de Ingresos para el Municipio, dentro de los plazos previstos para tal efecto en la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+Para tales efectos, la Tesorería Municipal o su órgano equivalente, deberá formular, a más tardar 45 días naturales antes de la fecha límite en que el Ayuntamiento deba presentar su iniciativa de la Ley de Ingresos a la Legislatura del Estado, el Programa de Financiamiento Municipal, a efecto de someterlo a la aprobación del Cabildo.
+
+El Programa de Financiamiento municipal deberá especificar la siguiente información:
+
+A. Respecto de las Obligaciones o Deuda Pública del Municipio:
+
+I. El monto que se propone contratar durante el siguiente ejercicio fiscal, especificando en su caso el monto de Financiamiento Neto que generará la contratación de dicho financiamiento en el ejercicio en curso;
+
+II. El destino que se dará a los recursos obtenidos por la celebración de las operaciones de Deuda Pública, indicando su vinculación con el Plan Municipal de Desarrollo y los programas;
+
+III. El plazo al que se pretenda contratar el financiamiento;
+
+IV. Si se establecerá una fuente de pago primaria o exclusiva para el pago de las obligaciones o garantías que se deriven de la contratación de la Deuda Pública;
+
+V. La proyección del monto de las partidas que se destinarían durante el ejercicio fiscal para el pago y servicio de las Obligaciones de Deuda Pública;
+
+VI. Si se propone la contratación de instrumentos derivados u otras obligaciones vinculadas a la deuda pública que generen deuda contingente del Municipio;
+
+VII. Si se prevé el otorgamiento de garantías, avales o la contratación de obligaciones solidarias o subsidiarias por parte del Estado;
+
+VIII. Detalle de la Deuda Pública y Contingente a cargo del Municipio; y
+
+IX. Cualquier otra información que, a juicio de la Tesorería Municipal, considere conveniente detallar.
+
+B. Respecto de las Obligaciones y Deuda Pública de las entidades de la administración pública paramunicipal:
+
+I. El monto que pretendan contratar durante el siguiente ejercicio fiscal, especificando el monto (sic) Financiamiento Neto que generará la contratación de dicho Financiamiento en el ejercicio en curso. Esta información deberá ser especificada por ente;
+
+II. El destino que se dará a los recursos obtenidos por la celebración de estas operaciones, indicando su vinculación con el Plan Municipal de Desarrollo y los programas a los que se encuentren relacionados;
+
+III. El plazo al que se pretenda contratar el Financiamiento;
+
+IV. Si se establecerá una Fuente de Pago primaria o exclusiva para el pago de las mismas;
+
+V. La proyección del monto que se destinaría para el pago;
+
+VI. Si se propone la contratación (sic) Instrumentos Derivados u otras obligaciones vinculadas que generen Deuda Contingente;
+
+VII. Si se prevé el otorgamiento de garantías, avales o la asunción de obligaciones solidarias o subsidiarias por parte del Municipio;
+
+VIII. Detalle de las Obligaciones, Empréstitos y Deuda Pública o Contingente vigente de las entidades de la administración pública paramunicipal, desagregada por ente; y
+
+IX. Cualquier otra información que, a juicio de la Tesorería Municipal o su órgano equivalente, sea conveniente detallar.
+
+Del Programa de Financiamiento Paramunicipal.
 
 ###### Artículo 20.
 
-Las convocatorias a todas las sesiones se notificarán a los miembros del Consejo por el Secretario Técnico, por lo menos con 15 días naturales de anticipación a la fecha de su celebración; excepto en las sesiones extraordinarias que se consideren de urgencia, en las que se hará la notificación con tres días naturales de anticipación.
+Las entidades de la administración pública paramunicipal que pretendan contratar Obligaciones y Deuda Pública en el siguiente ejercicio fiscal, deberán formular sus solicitudes correspondientes a la Tesorería Municipal, a más tardar 5 días hábiles previos a la entrega del proyecto de Ley de Ingresos, adjuntando la información a que se refiere el artículo 19, apartado B de esta Ley, a fin de que ésta lo integre al Programa de Financiamiento Municipal y lo someta a la consideración del Ayuntamiento.
 
-En ambos casos las convocatorias a las sesiones tendrán inserta el orden del día y la documentación relacionada con los asuntos a tratar.
+### CAPÍTULO II. CONTRATACIÓN DE OBLIGACIONES Y DEUDA PÚBLICA
 
-### Capítulo II. Facultades y Funciones del Consejo
+Contenido de las solicitudes de Deuda Pública
 
 ###### Artículo 21.
 
-En las sesiones del Consejo, sólo podrán tratarse asuntos que estén incluidos expresamente en el orden del día, salvo en los casos en que el Presidente Ejecutivo y siete de los vocales del Consejo acuerden por unanimidad, que se trate otro asunto.
+Las solicitudes de contratación de Deuda Pública y Obligaciones que sean remitidas por los Entes Públicos a la Legislatura del Estado, deberán contener, al menos:
+
+I. Exposición de motivos;
+
+II. Monto de la operación y destino de la Deuda Pública;
+
+III. La corrida financiera de la operación de endeudamiento que se pretende contratar;
+
+IV. Los recursos que se van a otorgar como fuente de garantía de pago;
+
+V. El estado de la situación financiera y sus auxiliares;
+
+VI. El ejercicio de ingresos y egresos por partida;
+
+VII. Descripción de la situación de la Deuda Pública; y
+
+VIII. Relación detallada de las Inversiones Públicas Productivas a realizar o Reestructura o Refinanciamientos de la Deuda Pública.
+
+La antigüedad de los documentos que refieren las fracciones IV, V y VI, no deberán ser mayores a seis meses a la fecha en que se presente la solicitud de autorización de endeudamiento ante la Legislatura del Estado.
+
+La Legislatura del Estado, previa solicitud debidamente justificada del Poder Ejecutivo del Estado y de los Municipios, podrá autorizar el ejercicio de montos de endeudamiento, adicionales a los previstos en las leyes de ingresos correspondientes y presupuesto de egresos, cuando a juicio de la propia Legislatura se presenten circunstancias extraordinarias que así lo exijan.
+
+Solicitud de Deuda Pública Adicional
 
 ###### Artículo 22.
 
-Las sesiones serán presididas por el Presidente Ejecutivo y en el supuesto de que no se encuentre, podrá ser suplido por el Secretario Técnico.
+Para la contratación de Obligaciones, Empréstitos y Deuda Pública, adicional o no contempladas en las leyes de ingresos, para su aprobación, los Entes Públicos deberán presentar ante la Legislatura del Estado una solicitud en la que incluya:
+
+I. Monto de la Obligación o Deuda Pública a contratar;
+
+II. Plazo al que se pretende contratar el Financiamiento;
+
+III. Destino de los recursos, indicando su vinculación con el Plan de Desarrollo que corresponda, en consideración de la naturaleza del ente público y los programas a los que se encuentren relacionados;
+
+IV. La Fuente de Pago primaria o exclusiva, o la adquisición de una garantía, para cubrir los financiamientos que se deriven de la contratación de las Obligaciones, Empréstitos y Deuda Pública;
+
+V. La proyección del monto de las partidas que se destinarán durante el ejercicio fiscal para el pago y servicio de las Obligaciones, Empréstitos y Deuda Pública;
+
+VI. Si se propone la contratación de Instrumentos Derivados u otras vinculadas a la Deuda Pública que generen Deuda Contingente del ente público;
+
+VII. Según corresponda, si se prevé el otorgamiento de garantías, avales o la contratación de Obligaciones o Deuda Pública solidarias o subsidiarias por parte del Estado; y
+
+VIII. Cualquier otra información que, a juicio del Ente Público, considere conveniente detallar.
+
+Deuda Pública sin autorización de la Legislatura del Estado
 
 ###### Artículo 23.
 
-Para que una sesión ordinaria se considere válida, será necesario que estén presentes el Presidente Ejecutivo quien deba suplirlo y siete miembros del Consejo.
+El Poder Ejecutivo del Estado y los Municipios podrán contratar Obligaciones, Empréstitos o Deuda Pública en adición a los montos de endeudamiento aprobados en las leyes de ingresos o decretos correspondientes, sin la previa autorización de la Legislatura del Estado, siempre y cuando se cumplan los requisitos señalados en el artículo 40 de la presente Ley.
 
-De no haber el quórum necesario para el desarrollo de la sesión, se realizará una segunda convocatoria, con la mención de esa circunstancia.
+Cuando la deuda adicional genere como resultado un Balance Presupuestario de Recursos Disponibles negativo, se estará a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y sus Municipios y Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
+
+Del Refinanciamiento o Reestructura de la Deuda Pública.
 
 ###### Artículo 24.
 
-Para que una sesión extraordinaria se considere válida, será necesaria la asistencia de su Presidente Ejecutivo o quien deba suplirlo, y por lo menos ocho miembros del Consejo.
+Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica de la Legislatura del Estado, siempre y cuando cumplan con las siguientes condiciones:
 
-De no haber el quórum necesario para el desarrollo de la sesión, se realizará una segunda convocatoria, con la mención de esa circunstancia.
+I. Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar fundamentado en el cálculo de la tasa efectiva, bajo los lineamientos que emita la Secretaría de Hacienda y Crédito Público; es decir, el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al Financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, o tratándose de Reestructuraciones exista una mejora en las condiciones contractuales;
+
+II. No se incremente el saldo insoluto; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, no se otorgue plazo o periodo de gracia, ni se modifique el perfil de amortizaciones del principal del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Del plazo para informar a la Legislatura
 
 ###### Artículo 25.
 
-En caso de imposibilidad para celebrar la sesión en las fechas previstas en el calendario de sesiones, el Secretario Técnico, previa autorización del Presidente Ejecutivo, deberá informar con 5 días de anticipación, por escrito o por cualquier medio remoto de comunicación a los miembros del Consejo, indicándoles la nueva fecha en que se realizará la sesión; en este último caso, deberá de cerciorarse de la recepción de la información.
+Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público a cargo de la deuda deberá informar a la Legislatura del Estado sobre la celebración de este tipo de operaciones, así como presentar la solicitud de inscripción de dicho Refinanciamiento o Reestructuración ante el Registro Público Único y Registro Estatal de Deuda Pública.
+
+De las mejores condiciones del mercado para la contratación
 
 ###### Artículo 26.
 
-Corresponderá al Secretario Técnico llevar el control de asistencia de las sesiones y dar cuenta de éste al Presidente Ejecutivo, quien declarará, en su caso, la existencia del quórum necesario para iniciar la sesión. El Presidente Ejecutivo, una vez declarado el quórum, procederá al desahogo de los asuntos del orden del día.
+Los Entes Públicos estarán obligados a contratar los Financiamientos y Obligaciones, bajo las mejores condiciones de mercado.
+
+Financiamiento bajo las mejores condiciones del mercado
 
 ###### Artículo 27.
 
-Cuando exista en alguno de los miembros del Consejo un conflicto de intereses en algún punto a tratar, deberá abstenerse de votar y de participar en toda deliberación relativa a ese punto del orden del día; y tendrá la obligación de manifestar expresamente los motivos que dan lugar a ese conflicto, sin perjuicio de la responsabilidad civil y penal en que pueda incurrir.
+El Secretario de Finanzas, tesorero municipal o su equivalente en cada Ente Público, según corresponda a su ámbito de competencia, será el responsable de confirmar que el Financiamiento fue celebrado bajo las mejores condiciones del mercado.
+
+Del tope porcentual para la contratación de Deuda Pública
 
 ###### Artículo 28.
 
-El Secretario Técnico del Consejo levantará un acta de todas las sesiones que se celebren, la cual deberá contenerla (sic) fecha del día que se realice, el nombre y cargo de los asistentes, el orden del día, los acuerdos o resoluciones que se tomaron y el resultado de la votación; el acta deberá ser firmada por todos los miembros del Consejo que participaron en ella para darle validez.
+De acuerdo a la clasificación del Sistema de Alertas de la Secretaría de Hacienda y Crédito Público, el Estado y los Municipios tendrán los siguientes Techos de Financiamiento Neto:
 
-El Secretario Técnico integrará un expediente que contendrá el acta y los documentos que demuestren que la convocatoria se realizó en los términos indicados en este Reglamento.
+I. Bajo un endeudamiento sostenible, corresponderá un Techo de Financiamiento Neto de hasta el equivalente al 15 por ciento de sus Ingresos de libre disposición;
+
+II. Un endeudamiento en observación, tendrá como Techo de Financiamiento Neto el equivalente al 5 por ciento de sus Ingresos de libre disposición; y
+
+III. Un nivel de endeudamiento elevado tendrá un Techo de Financiamiento Neto igual a cero.
+
+Se autorizará Financiamiento Neto adicional al Techo de Financiamiento Neto contemplado en este artículo, hasta por el monto de Financiamiento Neto necesario para solventar las causas que generaron el Balance presupuestario de recursos disponible negativo.
+
+Para efectos de la determinación del Techo de Financiamiento Neto de aquellos Entes Públicos que no tengan contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, que den lugar a la evaluación que deberá realizar la Secretaría sobre los indicadores del Sistema de Alertas, tendrán que entregar la información requerida por la Secretaría de Hacienda y Crédito Público de acuerdo al Reglamento del Registro Público Único para la evaluación correspondiente.
+
+De la autorización previa paraestatal
 
 ###### Artículo 29.
 
-El Consejo tomará todas sus decisiones mediante votación directa por mayoría simple, a menos que previamente se acuerde por unanimidad una votación especial, teniendo el Presidente Ejecutivo voto de calidad para el caso de empate.
+Para la contratación de Obligaciones, Empréstitos y Deuda Pública, las entidades de la Administración Pública Paraestatal requerirán, además de la autorización de la Legislatura del Estado, de la previa autorización de sus Órganos de Gobierno y de la Secretaría.
+
+De la autorización previa paramunicipal
 
 ###### Artículo 30.
 
-Los miembros del Consejo podrán presentar propuestas de proyectos y actividades relacionados con la función del Consejo. Todos los miembros del Consejo tendrán derecho a voz y voto, con excepción del Secretario Técnico quien sólo tendrá derecho a voz.
+Para la contratación de Obligaciones, Empréstitos y Deuda Pública, las entidades de la Administración Pública Paramunicipal requerirán, además de la autorización de la Legislatura del Estado, la previa autorización de sus Órganos de Gobierno y del Ayuntamiento.
+
+Del procedimiento competitivo y transparencia.
 
 ###### Artículo 31.
 
-Cuando un miembro del Consejo se abstenga de votarse hará constar en el acta que al efecto se levante.
+En el caso de que el Estado o cualquiera de sus Entes Públicos soliciten autorización de Deuda Pública por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente; o el Municipio o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, deberán cumplir con lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Implementar un proceso competitivo con, por lo menos, cinco diferentes Instituciones Financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberá diferir en más de 30 días naturales y deberá tener una vigencia mínima de sesenta días naturales. Tratándose de propuestas relativas a Instrumentos derivados, no será aplicable la vigencia mínima de 60 días naturales;
+
+II. La solicitud del financiamiento que se realice a cada Institución Financiera deberá precisar y ser igual en cuanto a monto, plazo, perfil de amortizaciones, condiciones de disposición, oportunidad de entrega de los recursos y, en su caso, la especificación del recurso a otorgar como Fuente de Pago del financiamiento o garantía a contratar, de acuerdo con la aprobación de la Legislatura del Estado. En ningún caso la solicitud podrá exceder de los términos y condiciones autorizados por la Legislatura del Estado;
+
+III. Las ofertas irrevocables que presenten las Instituciones Financieras deberán precisar todos los términos y condiciones financieras aplicables al Financiamiento, así como la fuente o garantía de pago que se solicite. El Ente Público estará obligado a presentar la respuesta de las Instituciones Financieras que decidieron no presentar oferta;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En caso de no obtener el mínimo de ofertas irrevocables, el proceso competitivo será declarado desierto por única ocasión, por lo que el Ente Público deberá realizar un nuevo proceso competitivo y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I de éste artículo, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la invitación enviada a las Instituciones Financieras o prestador de servicios, misma que deberá cumplir con los términos establecidos en la invitación correspondiente;
+
+IV. Contratar la oferta que represente las mejores condiciones de mercado para el Ente Público, consistente en el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, bajo los Lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público; y
+
+V. Si una sola oferta no cubre el monto a contratar, se considerarán en orden preferente las propuestas que representen las mejores condiciones de mercado para el Ente Público, según los criterios establecidos en la fracción anterior, hasta cubrir el monto requerido.
+
+En caso de fraccionar la contratación del monto de Financiamiento autorizado por parte de la Legislatura del Estado, deberá considerarse el monto total de la misma, para los supuestos señalados en el párrafo primero de este artículo.
+
+Para acreditar la contratación bajo las mejores condiciones de mercado de los Financiamientos, Obligaciones, Empréstitos y Deuda Pública distintos a los señalados en el primer párrafo, el Ente Público deberá implementar un proceso competitivo por lo menos con dos Instituciones Financieras y obtener únicamente una oferta irrevocable, de acuerdo a lo establecido en la fracción I de este artículo.
+
+El Ente Público, en cualquier caso, deberá elaborar un documento que incluya el análisis comparativo de las propuestas, conforme a lo establecido en la fracción IV de este artículo. Dicho documento deberá publicarse en la página oficial de internet del propio Ente Público.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para el caso de contratación de coberturas de la Deuda Pública, se deberá llevar a cabo el proceso competitivo para la contratación de financiamientos, establecido en esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En el caso de operaciones de Reestructuración que cumplan lo señalado en el artículo 24 de esta Ley, no se requerirá realizar el proceso competitivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, tratándose de Refinanciamientos que sustituyan un Financiamiento por otro de forma total, aplicará la excepción prevista en el párrafo que antecede.
+
+Del procedimiento en operaciones bursátiles.
 
 ###### Artículo 32.
 
-Cuando un miembro del Consejo abandone sin permiso del Presidente Ejecutivo una sesión ya iniciada, se entenderá que vota en el sentido que vota la mayoría presente.
+Con excepción de las Obligaciones, Empréstitos y Deuda Pública que se contraten mediante el mercado bursátil, cuando la autorización del Financiamiento a que hace referencia el artículo 11 de esta Ley, exceda de cien millones de Unidades de Inversión, dicho proceso de contratación se realizará mediante licitación pública, con base en lo establecido en el artículo 31 de esta Ley conforme a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. El proceso competitivo deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior. El Ente Público no estará obligado a presentar las negativas de participación presentadas por las Instituciones Financieras o prestador de servicios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En caso de no obtener el mínimo de ofertas irrevocables, la licitación pública será declarada desierta por única ocasión, por lo que el Ente Público deberá realizar una nueva licitación pública y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I del artículo 31 de esta Ley, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la convocatoria, misma que deberá cumplir con los términos establecidos en la propia convocatoria. La convocatoria podrá indicar supuestos adicionales bajo los cuales podrá declararse desierta una licitación pública, y
+
+II. La Institución Financiera que resulte ganadora del proceso competitivo se dará a conocer en un plazo no mayor a 2 días hábiles posteriores al tiempo establecido de conformidad con la fracción anterior, a través de medios públicos y electrónicos, incluyendo la página oficial de internet del Ente Público, publicando el documento en que conste la comparación de las propuestas presentadas.
+
+De las operaciones bursátiles.
 
 ###### Artículo 33.
 
-En la obtención de los recursos, el Consejo deberá tomar en cuenta que se apliquen y cumplan los criterios siguientes:
+Los Entes Públicos podrán emitir valores, certificados, obligaciones, bonos y cualesquiera otros títulos, directamente o a través de fideicomisos, de conformidad con la legislación bursátil, financiera y mercantil aplicable, así como otorgar las garantías que se requieran para tales efectos. En el caso de emisiones a través de fideicomisos, éstos no serán considerados como entidades de la administración pública paraestatal o paramunicipal, según corresponda, puesto que su supervisión y control estará sujeto a lo dispuesto en las disposiciones legales aplicables.
 
-I. Se depositarán en el instrumento financiero o cuenta que corresponda según lo determine el Organismo;
-
-II. Los recursos se aplicarán y destinarán a los objetivos y beneficiarios que corresponda, de conformidad con los lineamientos de aplicación expedidos expresamente para ello;
-
-III. Cuando no existan lineamientos expresos para la aplicación de los recursos, éstos se ejercerán de conformidad a lo que determine el Organismo, pero deberá considerar la petición por escrito que realice la persona o institución que los aportó;
-
-IV. El Organismo elaborará un informe trimestral de los recursos, que contenga la recepción, origen, cargos, abonos, propósito, transferencia, destino y entrega a los receptores beneficiados;
-
-V. Se observará el calendario y la programación de aplicación de los recursos, y
-
-VI. Los archivos documentales e informáticos de la operación de los recursos serán resguardados bajo la responsabilidad del Secretario Técnico en forma clara, precisa y actualizada.
+Del cumplimiento de las obligaciones.
 
 ###### Artículo 34.
 
-Cuando el Consejo detecte que en el funcionamiento de las políticas y programas no se observen las disposiciones de la Ley y demás normatividad aplicable, ni se cumpla con alguno de los criterios para la aplicación de los recursos o existan planes y programas con mayor impacto social, deberá emitir opiniones y recomendaciones que considere necesarias al Titular del Organismo.
+Las entidades de la Administración Pública Paraestatal y Paramunicipal deberán incluir en sus presupuestos las partidas necesarias para cumplir con Obligaciones, Empréstitos y Deuda Pública a su cargo.
+
+De los instrumentos derivados.
 
 ###### Artículo 35.
 
-Cuando el Consejo emita alguna opinión o recomendación, ésta deberá ser entregada al Titular del Organismo y se observará el procedimiento siguiente:
+Los Entes Públicos podrán celebrar operaciones con Instrumentos Derivados que generen deuda contingente, y únicamente podrán celebrarlas cuando su contratación sea para evitar o mitigar riesgos económicos o financieros relacionados con las Obligaciones, Empréstitos y Deuda Pública contratados por ellos mismos y coadyuven a mantener o mejorar la calidad crediticia de su deuda.
 
-De considerarla procedente, el Titular del Organismo girará las instrucciones correspondientes para que se ejecute en un plazo no mayor de 15 días hábiles siguientes a la fecha en que se haya recibido.
+Queda prohibida la contratación de Instrumentos Derivados que generen Deuda Contingente con fines meramente especulativos.
 
-Si la considera improcedente, se hará del conocimiento del Consejo en forma fundada y motivada, en un plazo no mayor de 15 días hábiles siguientes a la fecha en que se haya recibido.
-
-Notificado el Consejo de la improcedencia de la opinión o recomendación, éste en sesión extraordinaria, revisará los argumentos del Titular del Organismo dentro de los siguientes 15 días hábiles a la notificación.
-
-El Consejo insistirá o modificará el sentido de su opinión y recomendación, para que en caso de considerarlo procedente, en un plazo no mayor de 10 días hábiles el Titular del Organismo gire las instrucciones correspondientes para su observancia.
+No impacto de financiamiento neto.
 
 ###### Artículo 36.
 
-Es obligaciónde (sic) los miembros del Consejo asistir a las sesiones, debiendo justificar cualquier inasistencia. En caso de la inasistencia injustificada a más de dos sesiones consecutivas, podrá ser dado de baja a petición del Presidente Ejecutivo, siendo sustituido de acuerdo a lo establecido en el presente Reglamento.
+La contratación de Instrumentos Derivados no impactará en el cálculo de Financiamiento Neto.
+
+Del pago de las comisiones y gastos de las obligaciones.
 
 ###### Artículo 37.
 
-En caso de ausencia de alguno de los miembros se suplirá conforme a lo siguiente:
+Los Entes Públicos podrán pagar, con cargo a los recursos que obtengan por la contratación (sic) Obligaciones, Empréstitos y Deuda Pública, las comisiones y gastos que se generen por la obtención, instrumentación, estructuración, reestructuración, formalización, colocación, calificación, asesoría de la operación, así como constituir, en su caso, los fondos de reserva de las operaciones correspondientes.
 
-I. El Presidente Ejecutivo, será suplido por el Secretario Técnico;
+En el caso de operaciones de Refinanciamiento, también podrán pagar con cargo a los recursos que obtengan del nuevo Financiamiento y, en su caso, las comisiones, penas y costos por rompimiento que genere el prepago de la operación a refinanciar.
 
-II. Los Vocales representantes del sector público deberán tener un suplente del mismo nivel jerárquico o inmediato inferior, quienes serán designados por el vocal propietario,
-
-III. Los Vocales representantes de la Sociedad Civil deberán tener un suplente, quien deberá pertenecer a la Sociedad Civil y será designado por el vocal propietario.
+De la contratación de las obligaciones derivadas de arrendamientos financieros
 
 ###### Artículo 38.
 
-El suplente, cuando actúe en ausencia de su titular, tendrá los mismos derechos y obligaciones que éste.
+En la contratación de Obligaciones que deriven de arrendamientos financieros o de esquemas de Asociaciones Público-Privadas, en lo conducente, los Entes Públicos se sujetarán a lo previsto en el artículo 31 de esta Ley. Asimismo, las propuestas presentadas deberán ajustarse a la naturaleza y particularidades de la Obligación a contratar, siendo obligatorio hacer público todos los conceptos que representen un costo para el Ente Público. En todo caso, la contratación se deberá realizar con quien presente mejores condiciones de mercado, de acuerdo con el tipo de Obligación a contratar y conforme a la legislación aplicable.
+
+De la contratación de las obligaciones a través de mercado bursátil.
 
 ###### Artículo 39.
 
-En caso de ausencias permanentes del Presidente Ejecutivo, la Junta de Gobierno procederá a designar al nuevo titular, de conformidad con lo previsto en este Reglamento. Para el caso de los Vocales representantes del sector público, los titulares de las dependencias designarán a un nuevo vocal, quien a su vez elegirá un suplente.
+Tratándose de la contratación de las Obligaciones, Empréstitos y Deuda Pública, a través del mercado bursátil, se deberá fundamentar en el propio documento de colocación, las razones por las cuales el mercado bursátil es una opción más adecuada que el bancario. Bajo la opción bursátil se exceptúa del cumplimiento a que hace referencia el artículo 31 de esta Ley, no obstante, deberá precisar todos los costos derivados de la emisión y colocación de valores a cargo del Ente Público.
 
-Las ausencias permanentes de los miembros Vocales representantes de la Sociedad Civil se cubrirán con el suplente, quien asumirá el carácter de vocal propietario y éste a su vez designará un suplente.
+Los Entes Públicos deberán entregar a la Legislatura del Estado una copia de los documentos de divulgación de la oferta el día hábil siguiente de su presentación a la Comisión Nacional Bancaria y de Valores, preliminar como definitiva. Los Entes Públicos deberán cumplir con las disposiciones de carácter general que emita dicha Comisión.
 
-### Capítulo III. De la Elección de los Representantes de las Organizaciones de la Sociedad Civil
+### CAPÍTULO III. CONTRATACIÓN DE OBLIGACIONES A CORTO PLAZO
+
+De la contratación.
 
 ###### Artículo 40.
 
-El presente Reglamento sólo podrá ser modificado por la Junta de Gobierno, a propuesta del Presidente Ejecutivo o del Titular del Organismo.
+El Poder Ejecutivo del Estado, por conducto de la Secretaría, y los Municipios, podrán contratar Obligaciones a corto plazo sin autorización de la Legislatura del Estado, siempre y cuando se cumplan las siguientes condiciones:
+
+I. En todo momento, el saldo insoluto total del monto principal de estos financiamientos a corto plazo no exceda del seis por ciento de los Ingresos Totales aprobados en la Ley de Ingresos respectiva, sin incluir Financiamiento Neto, del Estado o del Municipio durante el ejercicio fiscal correspondiente;
+
+II. Las Obligaciones o Deuda a corto plazo deberán quedar totalmente pagadas a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, sin poder contratar nuevos financiamientos a corto plazo durante dicho lapso;
+
+III. Las Obligaciones a corto plazo deberán ser quirografarias; y
+
+IV. Ser inscritas en los respectivos Registros Públicos de Deuda, según se trate.
+
+Para dar cumplimiento a la contratación de las Obligaciones a corto plazo, se deberá cumplir con lo dispuesto en el penúltimo párrafo del artículo 31 de esta Ley, relativo a las mejores condiciones de mercado.
+
+Las Obligaciones a corto plazo que se contraten, quedarán sujetas a los requisitos de información previstos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Del destino de las obligaciones a corto plazo.
 
 ###### Artículo 41.
 
 Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados exclusivamente a cubrir necesidades de esa naturaleza, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal.
 
-De las restricciones de las obligaciones a corto plazo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+De las restricciones de las obligaciones a corto plazo
 
 ###### Artículo 42.
 
-Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores de 1 año, salvo en el caso de las Obligaciones destinadas a Inversión Pública Productiva y cumpliendo con los requisitos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores de 1 año.
 
-### Capítulo IV. De las Sesiones
+### CAPÍTULO IV. CONSTITUCIÓN DE FIDEICOMISOS
+
+De la contratación de Fideicomisos
 
 ###### Artículo 43.
 
@@ -465,17 +859,21 @@ III. Se establezca en los documentos de la operación que el único medio de pag
 
 Cuando el patrimonio del fideicomiso no sea suficiente para el pago de los financiamientos, correrá exclusivamente a cargo de los acreedores, por lo que, éstos no contarán con derecho o acción alguna en contra de la hacienda pública o patrimonio del Ente Público fideicomitente. Salvo que la Legislatura del Estado autorice al Ejecutivo afectar un porcentaje complementario de Participaciones, como Garantía o Fuente Subsidiaria de Pago. El derecho de los acreedores será hasta por el límite expresamente autorizado por la Legislatura del Estado.
 
-## TITULO TERCERO. MODIFICACIONES AL REGLAMENTO
+## TÍTULO TERCERO. MECANISMOS DE PAGO O GARANTÍA
 
-De las Modificaciones
+### CAPÍTULO I. MECANISMOS DE PAGO
 
-### Capítulo V. Del Procedimiento de Votación
+De los ingresos como garantía y mecanismos de pago
 
 ###### Artículo 45.
 
 El Poder Ejecutivo por conducto de la Secretaría podrá afectar sus ingresos locales, así como el derecho a percibir los ingresos y los propios ingresos de las Aportaciones Federales susceptibles de afectación, a las Participaciones o cualquier otro ingreso que le corresponda, como Fuente de Pago o Garantía de las obligaciones a su cargo, a través (sic) fideicomisos, mandatos o cualquier otro acto jurídico análogo.
 
 Para los efectos de esta Ley, en caso que dichos mecanismos se instrumenten mediante fideicomisos, éstos no serán considerados parte de la Administración Pública Paraestatal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para aquellos casos en los que el Poder Ejecutivo del Estado o Municipios, realicen la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, se consolidarán estos con los Financiamientos y Obligaciones de la Entidad Federativa o Municipio y serán computables para efectos del Sistema de Alertas.
 
 El Poder Ejecutivo del Estado, por conducto de la Secretaría, sólo podrá afectar las Aportaciones Federales que en términos de la legislación federal sean susceptibles de afectación, hasta los límites previstos en la misma, y siempre que se destinen los recursos del financiamiento a los fines previstos en ella.
 
@@ -507,7 +905,9 @@ Constitución de fideicomisos
 
 Las entidades de la Administración Pública Paraestatal o Paramunicipal podrán afectar sus bienes con excepción de los de dominio público, derechos o ingresos, como Fuente de Pago o Garantía de las Obligaciones a su cargo, a través de fideicomisos, mandatos o cualquier otro acto jurídico análogo.
 
-### Capítulo VI. De los Criterios Generales para la Obtención de los Recursos
+### CAPÍTULO II. MECANISMOS DE GARANTÍA
+
+Del acceso a la Deuda Estatal Garantizada.
 
 ###### Artículo 48.
 
@@ -547,15 +947,17 @@ De los límites y gradualidad de la Deuda Estatal Garantizada.
 
 Para los efectos de los límites de la Deuda Estatal Garantizada, así como su gradualidad, se estará a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-De las evaluaciones en el cumplimiento de las Obligaciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+De las evaluaciones en el cumplimiento de las Obligaciones
 
 ###### Artículo 52.
 
-El Poder Ejecutivo del Estado estará sujeto a la evaluación del cumplimiento de las obligaciones específicas de responsabilidad hacendaria que efectúe periódicamente la Secretaría de Hacienda y Crédito Público, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. A su vez, el Poder Ejecutivo del Estado realizará dicha evaluación de las obligaciones a cargo de los Municipios, en términos de lo establecido en los propios convenios.
+El Poder Ejecutivo del Estado y los Municipios cuando tengan contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, cuya fuente o garantía de pago sea de ingresos de libre disposición, de acuerdo a su nivel de endeudamiento, serán evaluados por la Secretaría de Hacienda y Crédito Público.
 
-Para ello, el Poder Ejecutivo del Estado y Municipios enviarán trimestralmente a la Secretaría de Hacienda y Crédito Público y a la Legislatura del Estado, respectivamente, la información que se especifique en el convenio correspondiente para efectos de la evaluación periódica de cumplimiento. En todo caso, el Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, deberá remitir la evaluación correspondiente de cada Municipio a la Secretaría de Hacienda y Crédito Público.
+En caso de que un Ente Público, con excepción del Poder Ejecutivo del Estado y de los Municipios, se ubique en un nivel de endeudamiento elevado, deberá firmar un convenio con el Poder Ejecutivo Estatal o con el Municipio, para establecer obligaciones específicas de responsabilidad hacendaria.
 
-Tanto el Estado como sus Municipios, serán plenamente responsables de la validez y exactitud de la documentación e información que respectivamente entreguen para realizar la evaluación del cumplimiento referida en el párrafo anterior.
+El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en dicho convenio, estará a cargo del Poder Ejecutivo del Estado o del Municipio, según corresponda. El seguimiento referido deberá realizarse con una periodicidad trimestral, remitirse a la Secretaría de Hacienda y Crédito Público y publicarse a través de las páginas oficiales de Internet del Ente responsable del seguimiento.
 
 Del incumplimiento de los convenios.
 
@@ -565,7 +967,9 @@ En el caso de que el Poder Ejecutivo del Estado o sus Municipios incumplan el co
 
 ## TÍTULO CUARTO. CONTROL Y REGISTRO DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA
 
-### Capítulo VII. De las Opiniones y Recomendaciones
+### CAPÍTULO I. CONTROL DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA
+
+De las obligaciones de los Entes Públicos con el registro y control de las operaciones.
 
 ###### Artículo 54.
 
@@ -583,7 +987,9 @@ III. Comunicar trimestralmente al Registro Estatal de Deuda Pública de la Secre
 
 IV. Las demás que se deriven de la presente Ley.
 
-### Capítulo VIII. De las Suplencias
+### CAPÍTULO II. DEL REGISTRO PÚBLICO ÚNICO
+
+De la obligación de inscribir Deuda Pública y Obligaciones
 
 ###### Artículo 55.
 
@@ -677,18 +1083,98 @@ Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigir
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO.- Una vez instalado el Consejo, deberá sesionar de manera ordinaria en un plazo no mayor a quince días naturales.
+SEGUNDO. Se abroga la Ley de Deuda Pública para el Estado y los Municipios de Zacatecas, expedida mediante Decreto No. 431 publicada en Suplemento al Número 1 del Periódico Oficial del Gobierno del Estado, correspondiente al día 3 de enero de 2007.
 
-Se expide el presente Reglamento en la ciudad de Saltillo, Coahuila; el día 4 de octubre de dos mil doce. El titular del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, en cumplimiento con lo acordado por la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+TERCERO. En el caso de los Entes Públicos que se ubiquen en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hace referencia el artículo 50 de esta Ley, podrá establecer un Techo de Financiamiento Neto, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-EL DIRECTOR GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-DR. HÉCTOR FRANCO LÓPEZ
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 
-(RÚBRICA)
+DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado de Zacatecas, a los 21 días de mes de diciembre del año dos mil dieciséis. Diputada Presidenta.- DIP. NORMA ANGÉLICA CASTORENA BERRELLEZA. Diputadas Secretarias.- DIP. MA. GUADALUPE GONZÁLEZ MARTÍNEZ y DIP. MARÍA ELENA ORTEGA CORTÉS.- Rúbricas.
+
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+
+DADO en el Despacho del Poder Ejecutivo del Estado, a los veintinueve días del mes de diciembre del año dos mil dieciséis.
+
+A t e n t a m e n t e.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
+
+ALEJANDRO TELLO CRISTERNA.
+
+LA SECRETARIA GENERAL DE GOBIERNO
+
+FABIOLA GILDA TORRES RODRÍGUEZ.
+
+EL SECRETARIO DE FINANZAS
+
+JORGE MIRANDA CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. MEDIANTE DECRETO 112 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, LA H. LEGISLATURA DEL ESTADO SOMETIÓ DE NUEVA CUENTA LAS REFORMAS DEL DECRETO 273 EN ACATAMIENTO A LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, POR LO QUE SE SUGIERE CONSULTAR EL APARTADO CORRESPONDIENTE DENTRO DE LA CRONOLOGÍA LEGISLATIVA DE ESTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. "DISPOSICIONES TRANSITORIAS DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]</small>
+
+Artículo Único. Las presentes reformas a la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios, entrarán en vigor el primero de enero del año dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 112.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. Publíquese en el Periódico Oficial Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente en que haya surtido todos sus efectos en el Estado la declaración de invalidez decretada mediante la Acción de Inconstitucionalidad 12/2018 emitida por la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 113.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+Artículo primero. El presente Decreto entrará en vigor el 1° de enero de 2019, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para expedir los formatos que deberán ser utilizados en su llenado por los Entes Públicos, para la evaluación del impacto presupuestario, de conformidad con lo establecido en el artículo 18-Ter de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, mismos que deberá actualizar la propia Secretaría.
+
+Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los Ejercicios Fiscales 2019, 2020 y 2021.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 19.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS, LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintidós, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los ejercicios Fiscales 2022, 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto (sic) este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos distribuidos del Fondo Único de Participaciones a los Municipios procedentes de las Participaciones Federales, para el Ejercicio 2022, no podrán ser inferiores a lo observado en el ejercicio 2021.
+
+###### ARTÍCULO CUARTO.
+
+Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaría y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
