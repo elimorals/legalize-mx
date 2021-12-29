@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2021-09-20"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -306,6 +306,10 @@ LXXVIII. Transporte público: Conjunto de medios de transporte de personas y bie
 LXXIX. Vehículo: Artefacto mecánico destinado a transportar personas o bienes de un lugar a otro;
 
 LXXX. Vehículo motorizado: Medio de transporte terrestre que depende de una máquina de combustión interna o eléctrica para su tracción;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LXXX-A. Vehículos recreativos todo terreno: vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos, sin importar el número de cilindros, de cuatro o más ruedas con capacidades todo terreno, que pueden presentar dirección y pedales tipo automóvil, espacios para una o más personas, de carga y los cuales en forma enunciativa más no limitativa, están destinado (sic) específicamente para ser utilizado (sic) en actividades deportivas, recreativas, turísticas, de seguridad o laborales.
 
 LXXXI. Vía ciclista: Vía o sección de la calle destinada al tránsito de bicicletas en forma preferente;
 
@@ -4800,3 +4804,15 @@ P.O. 20 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 58.- SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES Y ADICIÓN A LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de dos mil veintidós.
+
+###### ARTÍCULO SEGUNDO.
+
+Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican conforme al Artículo Primero de este Decreto, deberán cumplirse en los términos, montos, formas y plazos establecidos en la normatividad vigente al momento en que se generaron.
