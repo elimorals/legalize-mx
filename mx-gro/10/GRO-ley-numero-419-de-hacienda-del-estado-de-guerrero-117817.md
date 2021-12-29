@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2021-01-22"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2021.]</small>
 
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -735,7 +733,7 @@ IV.- Las autoridades competentes que expidan los certificados de aeronavegabilid
 
 En el caso de vehículos nuevos hasta de 15 pasajeros, así como motocicletas, aeronaves y vehículos eléctricos, el impuesto se calculará tomando en consideración su valor total.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2021.]</small>
 
 ###### ARTÍCULO 70.
 
@@ -743,7 +741,7 @@ El impuesto será la cantidad que resulte de aplicar al valor total del vehícul
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 27 DE DICIEMBRE DE 2016, PÁGINA 36.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 22 DE ENERO DE 2021, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 22 DE ENERO DE 2021, PÁGINA 6; Y P.O. DE 29 DE DICIEMBRE DE 2021, PÁGINA 20.]</small>
 
 I.- Para automóviles nuevos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
 
@@ -761,33 +759,33 @@ Las cantidades establecidas en la tarifa se actualizarán en el mes de enero de 
 
 El Índice Nacional de precios al Consumidor que aplicará para los efectos del párrafo anterior es el publicado por el Instituto Nacional de Estadística y Geografía (INEGI) en los términos de los articulos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2021.]</small>
 
 ###### ARTÍCULO 71.
 
 Tratándose de vehículos usados de fabricación nacional o importados de más de quince pasajeros o de carga en general, así como los destinados al transporte público, embarcaciones, veleros, esquí acuáticos motorizados, motocicleta acuática, tabla de oleaje con motor, automóviles y motocicletas eléctricos, motocicletas y aeronaves, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo de acuerdo con la siguiente:
 
-Años de Factor
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Antigüedad
+Años de antigüedad Factor
 
 1 0.900
 
-2 0.889
+2 0.882
 
-3 0.875
+3 0.871
 
-4 0.857
+4 0.858
 
-5 0.833
+5 0.840
 
-6 0.800
+6 0.816
 
-7 0.750
+7 0.784
 
-8 0.667
+8 0.735
 
-9 0.500
+9 0.654
 
 Para los vehículos usados señalados en el primer párrafo de este artículo de diez o más años de antigüedad, el impuesto para el ejercicio actual y posteriores, será una cantidad igual al impuesto causado en el ejercicio fiscal inmediato anterior.
 
@@ -797,9 +795,9 @@ I.- El valor total del automóvil se multiplicará por el factor de depreciació
 
 II.- La cantidad obtenida, se multiplicará por el 0.245%.
 
-Las cantidades que resulten de la aplicación de los factores de la presente tabla, se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van aplicar los factores entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación, el cual se publicará en el periódico oficial del Gobierno del Estado a más tardar el día 10 de enero de cada año.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2021.]</small>
 
 ###### ARTÍCULO 72.
 
@@ -807,31 +805,35 @@ Tratándose de automóviles de fabricación nacional o importados usados, destin
 
 a).- El valor total del vehículo se multiplicará por el factor de aplicación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
-Años de Factor
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Antigüedad
+Años de antigüedad Factor
 
-1 0.850
+1 0.900
 
-2 0.725
+2 0.882
 
-3 0.600
+3 0.871
 
-4 0.500
+4 0.858
 
-5 0.400
+5 0.840
 
-6 0.300
+6 0.816
 
-7 0.225
+7 0.784
 
-8 0.150
+8 0.735
 
-9 0.075
+9 0.654
 
 b).- Para los vehículos usados señalados en el primer párrafo de este artículo de diez o más años de antigüedad, el impuesto para los ejercicios actuales y posteriores, será una cantidad igual al impuesto causado en el ejercicio fiscal inmediato anterior.
 
-Las cantidades que resulten de la aplicación de los factores de la presente tabla, se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van aplicar los factores entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación; al resultado se le aplicará la tarifa a que hace referencia el artículo 70 de esta ley. El factor de referencia se publicará en el Periódico Oficial del Gobierno del Estado a más tardar el día 10 de enero cada año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+A las cantidades que resulten de la aplicación de los factores de la presente tabla, se le aplicará la tarifa a que hace referencia el artículo 70 de esta ley.
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2021.]</small>
 
 ###### ARTÍCULO 73.
 
@@ -845,31 +847,17 @@ En caso de que no puedan comprobarse los años de antigüedad del vehículo, el 
 
 Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
 
-Mes de adquisición Factor aplicable
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-al impuesto causado
+Mes de adquisición Factor aplicable al impuesto causado
 
-Febrero 0.92
+Febrero a Marzo 1.0
 
-Marzo 0.83
+Abril a Junio 0.90
 
-Abril 0.75
+Julio a Septiembre 0.80
 
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
+Octubre a Diciembre 0.60
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1221,7 +1209,9 @@ B).- Remolques y similares 2.32
 
 C).- Por canje de placas o reposición por cualquier circunstancia 6.81
 
-II.- Por el refrendo anual de la tarjeta de circulación 3.96
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+II.- Por el refrendo anual de la tarjeta de circulación 1.5
 
 III.- Por la expedición inicial, reposición por extravío o deterioro y canje de placas y tarjeta de circulación de:
 
@@ -1233,13 +1223,19 @@ C).- Vehículos de mano 0.60
 
 D).- Placas para demostración 14.16
 
-E).- Por el Refrendo Anual de la tarjeta de circulación de motocicletas, motonetas y similares 2.5
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+E).- Por el Refrendo Anual de la tarjeta de circulación de motocicletas, motonetas y similares 1.5
 
 IV.- Por la expedición inicial, reposición por extravío o deterioro, canje de placas y tarjeta de circulación de vehículos para discapacitados 3.0
 
-a).- Baja de placas 2.50
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b).- Refrendo anual 2.50
+a).- Baja de placas 1.5
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+b).- Refrendo Anual 1.5
 
 V.- Cambio de vehículo, si se conservan las mismas placas por unidad 4.59
 
@@ -1247,7 +1243,9 @@ VI.- Cambio de motor o carrocerías de vehículos por unidad 3.09
 
 VII.- Baja de vehículos por unidad 3.09
 
-VIII.- Baja de placas 3.09
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Baja de placas 1.5
 
 IX.- Expedición de constancia de alta y baja del servicio 5.65
 
@@ -1255,33 +1253,17 @@ X.- Por reposición de tarjeta de circulación y holograma 3.84
 
 XI. Por cambio de propietario de vehículo de motor usado
 
-a).- Tratándose de automóviles, camiones, embarcaciones, vehículos eléctricos y cualquier otro vehículo de naturaleza análoga, de acuerdo a la tabla siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Años de antigüedad Factor
+a).- Tratándose de automóviles, camiones, embarcaciones, vehículos eléctricos y cualquier otro vehículo de naturaleza análoga 6.0
 
-actual 12.0
+> <small>(DEROGADA TABLA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-1-3 9.0
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-4-7 7.0
+b) Tratándose de los vehículos denominados motocicletas, trimotos y cuatrimotos 3.0
 
-8-10 5.0
-
-Más de 10 4.0
-
-b) Tratándose de los vehículos denominados motocicletas, trimotos y cuatrimotos, se pagará de acuerdo a la tabla siguiente:
-
-Años de antigüedad Factor
-
-actual 6.0
-
-1-3 4.5
-
-4-7 3.5
-
-8-10 2.5
-
-Más de 10 2.0
+> <small>(DEROGADA TABLA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO V
 
@@ -1423,6 +1405,8 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 12 A LA 14.]</small>
+
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 107
@@ -1521,7 +1505,9 @@ I).- Otros:
 
 4.- Anotaciones marginales de actas del registro civil 2.14
 
-5.- Aclaración administrativa de actas del registro civil 5.93
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+5.- Aclaración administrativa de actas del registro civil 2.96
 
 6.- Legalización de firmas 1.98
 
@@ -1535,7 +1521,9 @@ No se causarán los impuestos adicionales a que se refieren los artículos 51 en
 
 10.- Autorización de Registro Extemporáneo de Defunción 4.80
 
-11.- Rectificación Administrativa 14.50
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+11.- Rectificación Administrativa 7.25
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2153,33 +2141,63 @@ El pago por este Derecho se realizará conforme al Tabulador que publique en el 
 
 Por la autorización e inscripción al Registro Estatal de Peritos Valuadores de bienes inmuebles, para fines fiscales se pagará en Unidad de Medida y Actualización
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I.- Inscripción Inicial 80
+I.- Inscripción Inicial 40.0
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II.- Refrendo Anual 36.9
+II.- Refrendo Anual 18.45
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 125.
 
-Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se tomará como base y se aplicará la siguiente clasificación:
+Para el cobro de los derechos por el servicio de autorización de avalúos con fines fiscales, se tomará como base y se aplicará la siguiente tarifa:
 
-a).- Valor Fiscal de hasta $42,400.00 se pagará una Unidad de Medida y Actualización vigente.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b).- Valor Fiscal de $42,401.00 hasta $58,300.00 se determinará y pagará considerando el monto total del avalúo dividido entre $42,401.00 multiplicado por una tarifa de 0.8303 Unidad de Medida y Actualización vigente, más $ 11.00.
+T A R I F A
 
-c).- Valor Fiscal de $58,301.00 hasta $113,950.00 se determinará y pagará considerando el monto total del avalúo dividido entre $58,301.00 multiplicado por una tarifa de 0.8832 Unidad de Medida y Actualización vigente, más $27.00.
+LÍMITE LÍMITE UMA CUOTA
 
-d).- Valor Fiscal de $113,951.00 hasta $561,800.00 se determinará y pagará considerando el monto total del avalúo dividido entre $113,951.00 multiplicado por una tarifa de 1.6087 Unidad de Medida y Actualización vigente, más $34.00
+INFERIOR SUPERIOR MARGINAL
 
-e).- Valor Fiscal de $561,801.00 hasta $1´698,650.00 se determinará y pagará considerando el monto total del avalúo dividido entre $561,801.00 multiplicado por una tarifa de 5.3075 Unidad de Medida y Actualización vigente, más $196.00
+$ 1.00 $500,000.00 3.00 $0.00
 
-f).- Valor Fiscal de $1´698,651.00 hasta $4´584,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $1´698,651.00 multiplicado por una tarifa de 14.1323 Unidad de Medida y Actualización vigente, más $314.00
+$500,001.00 $1,000,000.00 3.50 $20.00
 
-g).- Valor Fiscal de $4´584,501.00 hasta $8´718,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $4´584,501.00 multiplicado por una tarifa de 24.9872 Unidad de Medida y Actualización vigente, más $1,124.00
+$1,000,001.00 $2,000,000.00 4.00 $25.00
 
-h).- Valor Fiscal de $8´718,501.00 en adelante se determinará y pagará considerando el monto total del avalúo dividido entre $8´718,501.00 multiplicado por una tarifa de 45.8800 Unidad de Medida y Actualización vigente, más $1,225.00.
+$2,000,001.00 $3,000,000.00 4.50 $30.00
+
+$3,000,001.00 $4,000,000.00 5.00 $35.00
+
+$4,000,001.00 $5,000,000.00 5.50 $40.00
+
+$5,000,001.00 $6,000,000.00 6.00 $45.00
+
+$6,000,001.00 En adelante 6.50 $50.00
+
+a).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+b).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+c).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+d).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+e).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+f).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+g).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+h).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Exceptuando el primer rango de la TARIFA; el pago del derecho se determinará considerando el monto total del avalúo dividido entre el límite inferior correspondiente, el resultado se multiplicará por el valor de la UMA vigente, al que se le adicionará la cuota marginal que le es aplicable.
 
 ###### ARTÍCULO 126.
 
@@ -4158,3 +4176,13 @@ P.O. 22 DE ENERO DE 2021.
 Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo. El presente Acuerdo tendrá vigencia del primero de enero al treinta y uno de diciembre del 2021.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 157, POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, entrarán en vigor el día 1 de enero del 2022.
+
+SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
+
+TERCERO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
