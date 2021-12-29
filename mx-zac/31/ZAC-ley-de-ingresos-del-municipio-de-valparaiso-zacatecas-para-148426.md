@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-municipio-de-valparaiso-zacatecas-para-1484
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,15 +25,7 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL MUNICIPIO DE VALPARAÍSO, ZACATECAS PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
-
-Ley publicada en el Suplemento 56 del número 105 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de diciembre de 2020.
-
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
-
-LEY DE INGRESOS DEL MUNICIPIO DE VALPARAÍSO, ZACATECAS PARA EL EJERCICIO FISCAL 2021
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento 56 del número 105 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de diciembre de 2020.
 
