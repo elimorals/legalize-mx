@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-12-22"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -1167,61 +1167,33 @@ Las contribuciones de mejoras para obras públicas se fijarán y liquidarán de 
 
 Se harán efectivas por medio del procedimiento administrativo de ejecución, que se encuentra regulado en el Código Fiscal del Estado.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ## TÍTULO QUINTO. DERECHOS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-CAUSACIÓN
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTÍCULO 86.
 
-Los derechos establecidos en la presente Ley y demás disposiciones aplicables, por el uso o aprovechamiento de los bienes de dominio público del Estado, así como la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso en que las leyes estatales aplicables en la materia señalen cosa distinta.
-
-PAGO
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 87.
 
-Los derechos que señala la Ley de Ingresos del Estado deberán ser cubiertos en donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Hacienda, de acuerdo con las tarifas o cuotas que se establezcan en la misma Ley.
-
-PRESTACIÓN DEL SERVICIO
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 88.
 
-El funcionario o empleado público que preste el servicio, por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el particular el recibo que acredite su pago.
-
-RESPONSABILIDAD SOLIDARIA
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 89.
 
-El funcionario o empleado público que preste algún servicio por el cual se cause un derecho, en contravención a lo dispuesto en esta Ley o en la Ley de Ingresos del Estado, será solidariamente responsable en su pago, sin perjuicio de las demás sanciones que procedan.
-
-NO CAUSACIÓN
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 90.
 
-No causan los derechos a que se refiere este título, además de los que se señalan en el artículo 10-A de la Ley de Coordinación Fiscal, los siguientes:
-
-I. La legalización de firmas y la expedición de certificados o certificaciones en los procesos civiles, penales y laborales, que lleven a cabo los tribunales judiciales o del trabajo.
-
-II. La legalización de firmas y la expedición de certificados y certificaciones solicitadas por las Dependencias de la Federación, Estado o municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo.
-
-III. El registro de actas de nacimiento en las oficinas públicas.
-
-IV. La expedición de actas de nacimiento, defunción y matrimonio a los miembros del Ejército Nacional.
-
-V. Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad o el de Comercio, a solicitud de las autoridades judiciales para que obren en causa criminal.
-
-En caso de que dichas certificaciones o copias a que se refiere el párrafo anterior, pero que sean para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, solo se expedirán gratuitamente cuando los interesados carezcan de recursos.
-
-VI. La expedición de certificados o copias certificadas del Registro Público de la Propiedad, sobre bienes o derechos de la Federación, de los Estados y los municipios, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas entidades, siempre que ellas sean las directamente interesadas en asegurar para sí esos mismos bienes o derechos.
-
-Cuando tal servicio derive de la aplicación de la facultad económico-coactiva en el cobro de adeudos fiscales, los gastos serán a cargo de los contribuyentes omisos, en caso de que no ocurriere la adjudicación al fisco de los bienes embargados.
-
-VII. Los certificados o copias certificadas del Registro Público de la Propiedad, que se expidan con relación a la dotación o restitución de ejidos, siempre que los peticionarios sean autoridades o los comisariados ejidales.
-
-VIII. La inscripción en el Registro Público de la Propiedad de las resoluciones presidenciales sobre dotación o restitución de ejidos, así como las inscripciones que se realicen de títulos de propiedad de solares expedidos por el Registro Agrario Nacional.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 ## TÍTULO SEXTO. PRODUCTOS
 
@@ -1384,3 +1356,31 @@ nóminas aplicable al que aplica
 Los ingresos adicionales que se recauden con motivo de la aplicación de las tasas señaladas en este artículo, respecto de los ingresos que se hubieran obtenido de haber aplicado la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, durante los ejercicios fiscales 2022 y 2023, se destinarán a cubrir necesidades presupuestales en materia de salud, educación, seguridad pública, así como de la Fiscalía General del Estado y saneamiento financiero, de acuerdo con lo que se establezca y apruebe en el Presupuesto de Egresos del Estado de Chihuahua, correspondiente a los ejercicios fiscales 2022 y 2023.
 
 Las contribuciones extraordinarias a que se refieren los Decretos 266-94-XI-P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de los mismos, el Impuesto Sobre Nóminas causado, determinado considerando la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ESTATAL DE DERECHOS DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el primero de enero del año 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites para la obtención de un servicio que se hubiesen iniciado a más tardar el 31 de diciembre de 2021, mediante el pago de los derechos respectivos, deberán ser concluidos por las dependencias que los presten, respetando el monto cubierto en dichos pagos, siempre y cuando la prestación del servicio de que se trate sea concluida a más tardar el 28 de febrero de 2022.
+
+El trámite de los servicios a que se refiere el párrafo anterior (iniciado a más tardar el 31 de diciembre de 2021, mediante el pago de los derechos respectivos), que partir de la entrada en vigor de esta Ley ya no se siga prestando, deberá ser concluido en la forma, plazo y monto que para el mismo se haya establecido en la Ley de Ingresos del Estado de Chihuahua para el Ejercicio Fiscal 2021.
+
+Cuando la solicitud de un servicio se haya presentado antes de la entrada en vigor de esta Ley, sin haberse efectuado el pago de los derechos correspondientes, dicho pago se hará en los términos de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales, reglamentarias o administrativas que establezcan la obligación de pagar derechos, determinen su cuantía o den las bases para determinarla, establezcan exenciones o den facultades para concederlas excepto las contenidas en el Código Fiscal del Estado de Chihuahua; así como las disposiciones que señalen lugar, forma o plazo, en relación con el pago de derechos.
+
+###### ARTÍCULO CUARTO.
+
+En tanto la Secretaría de Hacienda dé a conocer las formas oficiales que en su caso apruebe para efectuar el pago de los derechos que se establecen en esta Ley se usarán los recibos o formas oficiales que se venían utilizando con anterioridad a la fecha de entrada en vigor de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Para los efectos del artículo 4o. de la Ley Estatal de Derechos de Chihuahua, si a la entrada en vigor de la citada Ley no se ha publicado el valor de la UMA aplicable al ejercicio fiscal de 2022, se aplicará el valor de la UMA para el año 2021; una vez que entre en vigor el valor de la UMA para 2022, empezará a aplicarse el valor de la UMA para dicho año.
