@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2021-08-02"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -575,9 +575,9 @@ LVII.- Establecer instrumentos, políticas, procedimientos, servicios y acciones
 
 LVIII.- Participar en la planeación, operación y seguimiento de las políticas públicas, programas y acciones que se implementen en la atención de migrantes y sus familias; y
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-LIX.- Organizar, dirigir, evaluar y controlar los servicios de asesoría jurídica a las victimas u ofendidos de hechos delictivos y violación a sus derechos humanos a través de la Unidad Administrativa correspondiente; así como dar cumplimiento a la normatividad federal en la materia;
+LIX.- Operar, coordinar y dirigir, bajo los principios rectores, políticas y criterios establecidos en la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes, los servicios de ayuda, asistencia y reparación integral a las víctimas del delito y/o de violación a sus derechos humanos a través de la Comisión de Atención a Víctimas del Estado de Aguascalientes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
@@ -2616,3 +2616,53 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 74.- SE EXPIDE LA LEY DE VÍCTIMAS DEL ESTADO DE AGUASCALIENTES Y SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes emitida a través del Decreto 165 y publicada en el Periódico Oficial del Estado de Aguascalientes el 20 de abril de 2009, así como sus subsecuentes reformas.
+
+El Fondo de Atención a Víctimas u Ofendidos del Delito de la Fiscalía General del Estado, establecido en la Ley que se abroga en el presente Decreto, seguirá operando, mantendrá el patrimonio con el cual fue constituido y además se seguirá integrando con los recursos que deriven de los conceptos por el que se constituyó.
+
+El Fondo de Atención a Víctimas u Ofendidos del Delito de la Fiscalía General del Estado operará en términos de la normatividad que para tal efecto expida su titular, y en atención al Artículo 157 Quinquies de la Ley General de Víctimas, y al Presupuesto de Egresos del Estado de Aguascalientes correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo del Estado de Aguascalientes deberá hacer las previsiones presupuestales necesarias ante el Congreso del Estado para la operación del presente Decreto.
+
+El Congreso del Estado de Aguascalientes deberá garantizar el presupuesto necesario al Ejecutivo del Estado para el cumplimiento de las disposiciones establecidas en el presente Decreto, en el Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal 2022.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas del Estado podrá realizar las reasignaciones correspondientes al Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2022 para efecto de la administración y operación del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+El titular del Poder Ejecutivo del Estado de Aguascalientes, emitirá dentro de los 180 días siguientes a la publicación del presente Decreto, el Reglamento de la Ley de Víctimas del Estado de Aguascalientes.
+
+Las demás Autoridades en el Estado, deberán adecuar sus disposiciones legales y normativas dentro de los 180 días siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Sistema de Atención Integral a Víctimas del Estado de Aguascalientes a que se refiere el presente Decreto deberá instalarse dentro de los 90 días naturales a partir de la entrada en vigor del propio Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cualquier referencia realizada al organismo desconcentrado denominado Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, adscrito a la Secretaría General de Gobierno del Estado, en otros ordenamientos legales, se entenderá hecha a la Comisión de Atención a Víctimas del Estado de Aguascalientes, de igual forma, los actos administrativos, jurídicos y financieros que se hubieran celebrado por el referido órgano subsistirán en sus términos para que su ejecución, seguimiento y consecución sea realizada por la Comisión de Atención a Víctimas del Estado de Aguascalientes.
+
+###### ARTÍCULO OCTAVO.
+
+El personal adscrito al organismo desconcentrado denominado Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, adscrito a la Secretaría General de Gobierno del Estado, que ahora integren la Comisión de Atención a Víctimas del Estado de Aguascalientes conservarán sus derechos laborales.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría General de Gobierno del Estado deberá emitir las Reglas de Operación del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes, así como los tabuladores dentro de un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
+
+ARTÍCULO DÉCIMO Se derogan todas las disposiciones que contravengan el presente Decreto.
