@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obligaciones-emprestitos-y-deuda-publica-del-estado-1187
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2018-12-31"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento 10 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -181,7 +181,7 @@ Quedan sujetas a esta Ley, las siguientes operaciones que realicen los Entes Pú
 
 I. La suscripción, emisión o colocación de títulos de crédito, bonos, valores o cualquier otro documento pagadero a plazo;
 
-II. La adquisición de bienes, así como la contratación de obras o servicios, cuyo pago se pacte a plazo, salvo que se encuentren excluidos del régimen de deuda pública por disposición expresa en el ordenamiento que regule su contratación;
+II. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
 
 III. La celebración de operaciones con instrumentos derivados que impliquen una deuda directa o contingente para los Entes Públicos;
 
@@ -190,6 +190,10 @@ IV. El otorgamiento de garantías, avales o la asunción de obligaciones solidar
 V. Las deudas contingentes relacionadas con los actos anteriormente mencionados; y
 
 VI. La constitución de fideicomisos como Fuente de pago o garantía y fideicomisos para la colocación de certificados bursátiles.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+No constituyen operaciones financieras de deuda pública, las obligaciones derivadas de la adquisición de bienes, la contratación de obras públicas y servicios relacionados con las mismas.
 
 De la constitución de la Deuda Pública.
 
@@ -1148,3 +1152,29 @@ Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título S
 Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
 
 Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 19.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS, LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintidós, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los ejercicios Fiscales 2022, 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto (sic) este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos distribuidos del Fondo Único de Participaciones a los Municipios procedentes de las Participaciones Federales, para el Ejercicio 2022, no podrán ser inferiores a lo observado en el ejercicio 2021.
+
+###### ARTÍCULO CUARTO.
+
+Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaría y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
