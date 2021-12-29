@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2020-12-21"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -447,13 +447,17 @@ Son sujetos del impuesto las personas físicas o morales que perciban ingresos p
 
 Son responsables solidarios del pago del impuesto:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I. Los propietarios o poseedores de establecimientos e instalaciones en los que por cualquier acto se permita la realización de espectáculos públicos, hasta por el valor del inmueble en el que se lleve a cabo el evento, salvo que den aviso por escrito informando acerca de la celebración del contrato o del acto correspondiente a la Autoridad Fiscal Estatal previamente a la realización de los espectáculos públicos, dando a conocer de manera simultánea dicho acto; y
+I.- Los propietarios o poseedores de establecimientos e instalaciones en los que por cualquier acto se permita la realización de espectáculos públicos, hasta por el valor del inmueble en el que se lleve a cabo el evento, salvo que den aviso por escrito informando acerca de la celebración del contrato o del acto correspondiente a la Autoridad Fiscal Estatal previamente a la realización de los espectáculos públicos, dando a conocer de manera simultánea dicho acto;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II. Los Servidores Públicos que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de espectáculos públicos, si no expiden el informe a que se refiere el Artículo 27 de esta Ley.
+II.- Los Servidores Públicos que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de espectáculos públicos, si no expiden el informe a que se refiere el Artículo 27 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+III.- Los demás que señale el Código Fiscal del Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -503,9 +507,9 @@ Los pagos del impuesto sobre espectáculos públicos, se harán de la siguiente 
 
 I.- Al concluir el evento y por conducto del interventor que designe la Autoridad Fiscal Estatal, previa autodeterminación por el contribuyente del Impuesto a pagar.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-II.- Si los contribuyentes de este impuesto no realizan el pago oportunamente, se hará efectiva la garantía previamente constituida en términos del Código Fiscal del Estado y se hará acreedor a alguna de las sanciones establecidas en el artículo 23 de la presente Ley;
+II.- Si los contribuyentes de este impuesto no realizan el pago oportunamente, se hará efectiva la garantía previamente constituida en términos del Código Fiscal del Estado y se hará acreedor a alguna de las sanciones establecidas en el artículo 25 de la presente Ley;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -551,13 +555,9 @@ V.- Conservar los talonarios de boletos, pases o cualquier otro comprobante de a
 
 VI.- Dar aviso a la Autoridad Fiscal Estatal, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función del espectáculo público, a más tardar el mismo día de la celebración del evento, pero antes de que se lleve a cabo el mismo. Tal aviso podrá hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado, en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
 
-VII.- Presentar ante la Autoridad Fiscal Estatal, para su resello, el boletaje incluyendo los boletos de cortesía o cualquier otro comprobante de admisión que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen las diversiones o espectáculos públicos.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-VIII.- No vender boletos en tanto no estén resellados por la Autoridad Fiscal Estatal. La Autoridad Fiscal Estatal podrá dispensar esta obligación cuando conste el sello de autoridad municipal correspondiente.
+VIII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -567,15 +567,9 @@ IX.- Permitir en los eventos la presencia de los verificadores que hayan sido de
 
 X.- Presentar declaración del impuesto a pagar respecto a cada evento. Tal declaración podrá hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado o en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XI.- Exhibir ante la Autoridad Fiscal Estatal, cuando esta así lo requiera sin que ello implique el ejercicio de sus facultades de comprobación, los libros, registros y documentos relacionados con el o los eventos, así como los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos.
-
-Esta obligación podrá cumplirse en forma física o a través de medios electrónicos si los libros, registros o documentos, se conservaran en archivos electrónicos.
-
-En caso de que los contribuyentes no presenten la documentación descrita en el párrafo anterior, en los plazos establecidos en las disposiciones legales aplicables, la Autoridad Fiscal Estatal podrá determinar presuntivamente, salvo prueba en contrario, que fueron vendidos todos aquéllos boletos que no sean exhibidos ante la Autoridad Fiscal Estatal, para lo cual podrán considerar la capacidad de aforo del lugar o establecimiento en el que se realice la diversión o espectáculo público, de conformidad con la autorización emitida por la autoridad municipal competente.
-
-La Secretaría de Finanzas del Estado podrá autorizar a los contribuyentes, mediante reglas de carácter general que para tal efecto se emitan, la utilización de sistemas electrónicos alternos de control, para la emisión de boletos de las diversiones y espectáculos públicos que se realicen en el Estado, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, respecto a los boletos vendidos y no vendidos.
+XI.- Previa solicitud del contribuyente, la Secretaría de Finanzas del Estado podrá autorizar la utilización de sistemas electrónicos alternos de control, para la emisión de boletos de las diversiones y espectáculos públicos que se realicen en el Estado, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, respecto a los boletos vendidos y no vendidos.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -667,15 +661,19 @@ Además de las sanciones anteriormente citadas la Autoridad Fiscal Estatal podr�
 
 La suspensión a que refiere el párrafo anterior consistirá en el diferimiento del inicio del evento hasta en tanto se cumpla con las obligaciones.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 26.
 
-Cuando no se cumplan las obligaciones previstas en esta Ley, la autoridad Fiscal Estatal mediante mandamiento escrito podrá:
+Cuando no se cumplan las obligaciones previstas en esta Ley, la autoridad Fiscal Estatal mediante mandamiento escrito y en uso del ejercicio de sus facultades de comprobación establecidas en el Código Fiscal del Estado de Aguascalientes, discrecionalmente estará facultada para:
 
-a) Suspender temporalmente el evento cuando se haya omitido cumplir con las obligaciones previstas en las Fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XII del Artículo 23 de la presente Ley.
+I.- Requerir a los contribuyentes, responsables solidarios y/o a los terceros con ellos relacionados, los libros, registros y documentos relacionados con el o los eventos, así como los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos. Esta obligación podrá cumplirse en forma física o a través de medios electrónicos si los libros, registros o documentos, se conservaran en archivos electrónicos, dentro de un plazo de quince días hábiles siguientes a aquél en que le hayan sido requeridos.
 
-b) Clausurar el evento cuando se haya omitido cumplir con lo establecido en la Fracción XI del Artículo 23 de la presente Ley.
+II.- En caso de que los contribuyentes, responsables solidarios y/o terceros con ellos relacionados no presenten la documentación descrita en la fracción anterior o la presenten incompleta dentro del plazo establecido en dicha fracción, la Autoridad Fiscal Estatal podrá determinar presuntivamente, salvo prueba en contrario, que fueron vendidos todos aquéllos boletos que no sean exhibidos ante la Autoridad Fiscal Estatal, para lo cual podrán considerar la capacidad de aforo del lugar o establecimiento en el que se realice la diversión o espectáculo público, de conformidad con la autorización emitida por la autoridad municipal competente.
+
+III. Suspender temporalmente el evento cuando se haya omitido cumplir con las obligaciones previstas en las fracciones I, II, III, IV, V, VI, IX, X y XII del Artículo 23 de la presente Ley.
+
+IV. Clausurar cuando no cuente con la autorización establecida en la fracción XI del Artículo 23 de la presente Ley o cuando el contribuyente no atienda el requerimiento que refiere la fracción I de este artículo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -1015,9 +1013,9 @@ En todos los movimientos al Padrón Vehicular, el interesado deberá comprobar a
 
 La Secretaría de Finanzas del Estado mantendrá actualizado el Padrón Vehicular, para lo cual podrá si así lo considera, verificar y comprobar la veracidad de los documentos aportados para los diversos trámites a través de las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Al quedar inscrito un vehículo en el Registro Estatal Vehicular, se entregará al propietario o tenedor la Constancia de Registro correspondiente.
+Al quedar inscrito un vehículo en el Padrón Vehicular del Estado, se entregará al propietario o tenedor la Constancia de Registro correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1063,13 +1061,11 @@ Para obtener la baja del Padrón Vehicular del Estado o realizar el canje de pla
 
 Se presume, que el usuario o tenedor del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Los interesados en llevar a cabo el registro de vehículos, por concepto de inscripción a que se refieren los párrafos segundo y sexto de este Artículo, deberán comprobar ante la autoridad fiscal el pago de una contribución similar al Impuesto Sobre Tenencia o uso de Vehículos Automotores y/o al Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior, vigentes en el Estado durante los ejercicios fiscales 2011 a 2015. Dicha comprobación deberá realizarse respecto de cinco ejercicios fiscales anteriores, con documento en original y/o la copia certificada del pago realizado en la entidad federativa correspondiente.
+Los interesados en llevar a cabo el registro de vehículos, por concepto de inscripción a que se refieren los párrafos segundo y sexto de este Artículo, deberán comprobar ante la autoridad fiscal el pago de sus contribuciones respecto de los cinco ejercicios fiscales anteriores, con documento en original y/o la copia certificada del pago realizado en la entidad federativa correspondiente.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-Para otorgar la inscripción de vehículos cuyo valor total sea mayor de $300,000.00 que porten placas de otra entidad federativa en donde no se pague un gravamen similar al Impuesto Sobre Tenencia o Uso de Vehículos Automotores y/o al Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior, vigentes en el Estado durante los ejercicios fiscales 2011 a 2015, los propietarios deberán pagar el monto que corresponda a dichos Impuestos, de los 5 ejercicios fiscales anteriores a la fecha de solicitud de registro.
+> <small>(DEROGADO PÁRRAFO DÉCIMO CUARTO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1091,11 +1087,19 @@ a) El que se enajena por primera vez al consumidor por el fabricante, ensamblado
 
 b) El importado definitivamente al País que corresponda al año modelo posterior al ejercicio fiscal que transcurra, al año modelo del ejercicio fiscal que transcurra, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VI-A. Vehículos recreativos todo terreno: vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos, sin importar el número de cilindros, de cuatro o más ruedas con capacidades todo terreno, que pueden presentar dirección y pedales tipo automóvil, espacios para una o más personas, de carga y los cuales en forma enunciativa más no limitativa, están destinado (sic) específicamente para ser utilizado en actividades deportivas, recreativas, turísticas, de seguridad o laborales.
+
+Para efecto de las contribuciones a que se refiere esta Ley, la clasificación contenida en esta fracción, queda excluida de aquellos vehículos que en razón de sus características sean considerados por otras disposiciones legales, como automóviles.
+
 VII.- Valor total del vehículo: El precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, consignado en la primera facturación, a excepción del impuesto al valor agregado.
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
-Tratándose de vehículos de procedencia extranjera, o bien, en caso de que no sea posible conocer el valor consignado en la factura de la primera enajenación, se considerará como valor total del vehículo la del promedio del valor de los vehículos de las mismas características y modelo, registrados en el Padrón Vehicular del Estado de Aguascalientes, el cual se llevará a cabo sumando todos los importes de facturas de la primera enajenación al primer consumidor de los vehículos registrados con la misma clave vehicular otorgada por el Servicio de Administración Tributaria, de año modelo igual y se divide entre el número de ellas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de vehículos de procedencia extranjera, o bien, en caso de que no sea posible conocer el valor consignado en la factura de la primera enajenación, se considerará como valor total del vehículo la del promedio del valor de los vehículos de las mismas características y modelo, registrados en el Padrón Vehicular del Estado de Aguascalientes, el cual se llevará a cabo sumando todos los importes de facturas de la primera enajenación al primer consumidor de los vehículos registrados con la misma clave vehicular otorgada por la autoridad competente, de año modelo igual y se divide entre el número de ellas.
 
 VIII.- Marca: Los signos distintivos consistentes en denominaciones, diseños o formas tridimensionales, que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
 
@@ -1123,7 +1127,13 @@ g) Automóviles híbridos.
 
 h) Motocicletas.
 
-XIII.- Comerciantes en el ramo de vehículos: Personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+i) Vehículos recreativos todo terreno.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XIII.- Comerciantes en el ramo de vehículos: Personas físicas o morales, cuya actividad sea la importación y/o venta de vehículos nuevos o usados.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE APARTADO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.]</small>
 
@@ -1583,11 +1593,15 @@ El intermediario deberá inscribirse en el padrón del impuesto correspondiente 
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 39.
 
-Son responsables solidarios del pago del impuesto, los servidores públicos encargados de dar permiso o licencia permanente o temporal para el funcionamiento de los establecimientos que presten servicios de hospedaje, sin que se cumplan los requisitos establecidos en ley.
+Son responsables solidarios del pago de este impuesto:
+
+I. Los servidores públicos encargados de dar permiso o licencia permanente o temporal para el funcionamiento de los establecimientos que presten servicios de hospedaje, sin que se cumplan los requisitos establecidos en ley.
+
+II. Los demás que señale el Código Fiscal del Estado.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1623,13 +1637,15 @@ El impuesto se calculará aplicando la tasa del 3% sobre la base prevista por el
 
 El contribuyente trasladará el impuesto en forma expresa y por separado a las personas que reciban los servicios gravados por esta Ley. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas por un monto equivalente al impuesto establecido en este ordenamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 43.
 
-El impuesto se calculará por ejercicios fiscales, los cuales se fijarán por año calendario. Los contribuyentes presentarán declaración del ejercicio en las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio, o bien mediante los medios electrónicos que establezca para ello la autoridad recaudadora, debiendo cumplir los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+El impuesto se calculará por cada mes de calendario y los contribuyentes efectuarán el pago del impuesto mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el impuesto causado, a través del formato que para tal efecto establezca la Secretaría de Finanzas.
 
-Los contribuyentes de este impuesto efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes siguiente al que corresponda el impuesto declarado; pudiendo contar con días adicionales para ello, atendiendo al sexto dígito numérico del Registro de Contribuyentes del Estado, de conformidad con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+El pago mensual tendrá el carácter de definitivo y los contribuyentes podrán contar con días adicionales para ello, atendiendo al sexto dígito numérico del Registro de Contribuyentes del Estado, de conformidad con lo siguiente:
 
 Sexto Dígito Días Adicionales
 
@@ -1645,15 +1661,17 @@ Numérico
 
 9 y 10 5 días hábiles adicionales
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 Los pagos a que se refiere este Artículo podrán hacerse mediante los medios electrónicos que establezca para ello la autoridad recaudadora, debiendo cumplir el contribuyente los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 En tratándose de servicios a que se refiere el párrafo segundo del Artículo 37 de esta Ley, que sean proporcionados a través de un tercero como intermediario que realice tanto el cobro de las contraprestaciones de los servicios de hospedaje, como la retención y entero del presente impuesto, se liberará al contribuyente de la obligación de pago hasta por el monto enterado por el intermediario.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Tratándose de intermediarios que reciban el pago por el servicio de hospedaje y el Impuesto Sobre Servicios de Hospedaje, deberán presentar a más tardar el día 17 de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría.
+Tratándose de intermediarios que reciban el pago por el Impuesto Sobre la Prestación de Servicios de Hospedaje, deberán enterarlo a más tardar el día 17 de cada mes, mediante una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas, medios y oficinas autorizadas que para tal efecto establezca la Secretaría de Finanzas del Estado, sin que contra la retención pueda realizarse acreditamiento, compensación o disminución alguna.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1817,11 +1835,15 @@ Son sujetos de este impuesto las personas físicas y morales residentes en el Es
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 49.
 
-Son solidarios responsables del pago de este impuesto, los organizadores del evento de cuyo resultado dependa el pago del premio aún y cuando su domicilio fiscal se encuentre fuera del territorio del Estado.
+Son solidarios responsables del pago de este impuesto:
+
+I. Los organizadores del evento de cuyo resultado dependa el pago del premio aún y cuando su domicilio fiscal se encuentre fuera del territorio del Estado.
+
+II. Los demás que señale el Código Fiscal del Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1977,9 +1999,17 @@ I. Las que organicen, supervisen, sean encargados, administren, exploten o patro
 
 II. Los arrendadores de los establecimientos en los que se realicen los juegos o concursos a que se refiere el Artículo 54 A;
 
-III. Las personas físicas o morales que reciban cantidades a fin de permitir la participación en los juegos objeto del presente impuesto, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección.
+III. Las personas físicas o morales que reciban cantidades a fin de permitir la participación en los juegos objeto del presente impuesto;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V. Los demás que señale el Código Fiscal del Estado.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -2073,9 +2103,17 @@ I. Las que organicen, supervisen, sean encargados, administren, exploten o patro
 
 II. Los propietarios o poseedores de los establecimientos en los que se realicen los juegos o concursos a que se refiere el Artículo 54 H, siempre que no dé aviso a las autoridades sobre la realización del acto o contrato mediante el cual se conceda su uso, dentro de los 10 días siguientes a su firma;
 
-III. Las personas físicas o morales que reciban cantidades a fin de permitir la participación en los juegos objeto del presente impuesto, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección cuando den en arrendamiento o concedan el uso de las mismas para eventos privados, sin dar el aviso correspondiente a las autoridades fiscales a que hace referencia la Fracción II del presente Artículo.
+III. Las personas físicas o morales que reciban cantidades a fin de permitir la participación en los juegos objeto del presente impuesto;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección cuando den en arrendamiento o concedan el uso de las mismas para eventos privados, sin dar el aviso correspondiente a las autoridades fiscales a que hace referencia la Fracción II del presente Artículo; y
+
+> <small>(ADICIONADA, P.O 29 DE DICIEMBRE DE 2021)</small>
+
+V. Los demás que señale el Código Fiscal del Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -2165,13 +2203,17 @@ I.- El último adquiriente registrado en el Padrón Vehicular, así como el enaj
 
 El enajenante está obligado a presentar aviso de la enajenación a la Secretaría de Finanzas, en los formatos autorizados por ésta, dentro de los quince días naturales siguientes a la fecha de operación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II.- Los Servidores Públicos que autoricen y realicen cualquier trámite relacionado con la adquisición de vehículos usados de motor, en que se hubiere omitido el pago del impuesto; y
+II.- Los Servidores Públicos que autoricen y realicen cualquier trámite relacionado con la adquisición de vehículos usados de motor, en que se hubiere omitido el pago del impuesto;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-III.- Los intermediarios respecto de las adquisiciones gravadas por este impuesto.
+III.- Los intermediarios respecto de las adquisiciones gravadas por este impuesto; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV.- Los demás que señale el Código Fiscal del Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2183,7 +2225,9 @@ III.- Los intermediarios respecto de las adquisiciones gravadas por este impuest
 
 El impuesto se causará y pagará de acuerdo a lo siguiente:
 
-I.- En caso de automóviles de modelo del ejercicio fiscal que transcurre que sean destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+I.- En caso de automóviles y de vehículos recreativos todo terreno de modelo del ejercicio fiscal que transcurre que sean destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
 TARIFA
 
@@ -2301,6 +2345,10 @@ II.- Las adquisiciones que por causa de muerte del titular del vehículo usado, 
 
 III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios que sean utilizados para la prestación de servicios públicos.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV. Las adquisiciones que realicen las instituciones de beneficencia autorizadas por la Secretaría de Hacienda y Crédito Público para recibir donativos deducibles, siempre que los destinen a la prestación de servicios de rescate, transporte de limpia, pipas de agua, los cuerpos de bomberos, las ambulancias y acrediten estar autorizadas para prestar dichos servicios conforme la legislación aplicable.
+
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VII. Del Impuesto Sobre Nóminas
@@ -2409,11 +2457,15 @@ Para la determinación de la retención del impuesto, el retenedor deberá consi
 
 Al importe así determinado, se le aplicará la tasa del impuesto prevista en el Artículo 67 de esta Ley.
 
-La retención del impuesto prevista anteriormente, no libera a los contribuyentes directos de la obligación de presentar la declaración de pago del impuesto prevista en el Artículo 68 de la presente Ley, en la cual podrá acreditar el impuesto que le haya sido retenido en el periodo correspondiente, y en su caso, cubrir la diferencia del impuesto sobre nóminas que le resulte a su cargo, o bien solicitar la devolución del impuesto correspondiente, en el supuesto de que dicha retención genere un saldo a favor del contribuyente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+La retención del impuesto prevista anteriormente, no libera a los contribuyentes directos de la obligación de presentar la declaración de pago del impuesto prevista en el Artículo 68 de la presente Ley, en la cual podrá acreditar el impuesto que le haya sido retenido en el periodo correspondiente, siempre y cuando se trate de servicios especializados o de ejecución de obras que no formen parte del objeto social ni de la actividad preponderante de la contratante de dichos servicios u obras y que el contribuyente directo cuente con el registro que refiere el artículo 15 de la Ley Federal del Trabajo, y en su caso, cubrir la diferencia del impuesto sobre nóminas que le resulte a su cargo, o bien solicitar la devolución del impuesto correspondiente, en el supuesto de que dicha retención genere un saldo a favor del contribuyente.
 
 Para los efectos de este capítulo, se entenderá por prestación de servicios, toda obligación de hacer, de no hacer o permitir, asumida por una persona en beneficio de otra; cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, y se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
 
-Son responsables solidarios del pago de este impuesto, las personas físicas o morales, las asociaciones en participación, los fideicomisos, así como la Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos que contraten o reciban la prestación del trabajo personal, no obstante el pago se realice por conducto de un tercero.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Son responsables solidarios del pago de este impuesto, las personas físicas o morales, las asociaciones en participación, los fideicomisos, así como la Federación, el Estado, los Municipios, sus entidades paraestatales, los organismos autónomos y los demás que señale el Código Fiscal del Estado, que contraten o reciban la prestación del trabajo personal, no obstante, el pago se realice por conducto de un tercero.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2433,11 +2485,11 @@ Se podrán aplicar a la base del presente impuesto las deducciones, subsidios y 
 
 #### SECCION QUINTA. De la Tasa y el Pago
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 67.
 
-Este impuesto se causará y pagará aplicando a la base, la tasa del 2.5% sobre los pagos efectuados en dinero, en especie o en servicios, por concepto de remuneraciones al trabajo personal por cada uno de los meses del año calendario.
+Este impuesto se causará y pagará aplicando a la base, la tasa del 2% sobre los pagos efectuados en dinero, en especie o en servicios, por concepto de remuneraciones al trabajo personal por cada uno de los meses del año calendario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2493,7 +2545,7 @@ II.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de A
 
 III.- Presentar declaraciones;
 
-IV.- Presentar ante las oficinas autorizadas dentro de los dos meses siguientes al término del ejercicio fiscal de que se trate, la información sobre las personas a las que les hayan efectuado pagos por concepto de remuneraciones, en la forma oficial que dé a conocer la Secretaría de Finanzas, mediante publicación en el Periódico Oficial del Estado;
+IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
 
 V.- Presentar ante las mismas autoridades y dentro del plazo que señala la Fracción I anterior, los avisos de cambio de nombre, razón social, domicilio, traslado, traspaso o suspensión de actividades de conformidad con las disposiciones jurídicas aplicables;
 
@@ -3364,3 +3416,15 @@ P.O. 21 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58.- SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES Y ADICIÓN A LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de dos mil veintidós.
+
+###### ARTÍCULO SEGUNDO.
+
+Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican conforme al Artículo Primero de este Decreto, deberán cumplirse en los términos, montos, formas y plazos establecidos en la normatividad vigente al momento en que se generaron.
