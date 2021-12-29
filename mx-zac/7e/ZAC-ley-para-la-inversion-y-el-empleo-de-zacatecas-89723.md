@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inversion-y-el-empleo-de-zacatecas-89723"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-29"
-last_updated: "2021-02-24"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2012.
 
@@ -87,7 +87,9 @@ I. En el ámbito estatal:
 
 a. La Ley Orgánica de la Administración Pública del Estado de Zacatecas;
 
-b. El Código Fiscal del Estado de Zacatecas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+b. El Código Fiscal del Estado de Zacatecas y sus Municipios;
 
 c. El Reglamento Interior de la Secretaría de Finanzas; y
 
@@ -95,13 +97,25 @@ c. El Reglamento Interior de la Secretaría de Finanzas; y
 
 d. El Reglamento Interior de la Secretaría de Economía.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+e. La Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas.
+
 II. En el ámbito municipal:
 
 a. La Ley Orgánica del Municipio;
 
-b. El Código Fiscal Municipal del Estado de Zacatecas; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-c. Los reglamentos municipales que determine el Ayuntamiento.
+b. El Código Fiscal del Estado de Zacatecas y sus Municipios;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+c. Los reglamentos municipales que determine el Ayuntamiento; y.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+d. La Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas.
 
 ###### Artículo 5.
 
@@ -150,6 +164,10 @@ XIX. Reglamento: Reglamento de la Ley para la Inversión y el Empleo de Zacateca
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
 XX. Secretaría: Secretaría de Economía.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XXI. Instrumentos de Desarrollo Económico: Mecanismos jurídicos que crean, modifican o extinguen derechos y obligaciones, que sirven para dar formalidad y validez jurídica al otorgamiento de estímulos e incentivos al determinar las bases normativas a las que deberán sujetarse las partes.
 
 ###### Artículo 6.
 
@@ -204,6 +222,10 @@ Para el logro de los objetivos de la presente Ley concurrirán los sectores púb
 ###### Artículo 8.
 
 El Poder Ejecutivo del Estado promoverá la realización de las medidas que estime convenientes para el logro de los objetivos de la presente Ley, entre las que podrán estar la celebración de convenios de coordinación, colaboración o concertación entre dependencias y entidades públicas, o entre éstas y agentes de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Con el sector privado impulsará la celebración de convenios e implementación de Instrumentos de Desarrollo Económico, mediante los cuales se provean de mejoramiento en las condiciones económicas de la Entidad, cuya finalidad sea promover inversiones nuevas y ampliar las existentes en el territorio del Estado.
 
 ###### Artículo 9.
 
@@ -335,11 +357,11 @@ Los sectores estratégicos para el desarrollo económico determinados por el Pod
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, a través de sus dependencias y entidades, procurarán un desarrollo económico sustentable en el Estado.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 27.
 
-Para efectos del artículo anterior se promoverá la mejora del entorno económico, la calidad del marco regulatorio, la simplificación administrativa, la asociación público privada, la responsabilidad social de las empresas, el desarrollo de las condiciones laborales, el uso de las nuevas tecnologías, la sustentabilidad medioambiental, la inclusión laboral y el uso de energías renovables.
+Para efectos del artículo anterior se promoverá la mejora del entorno económico, la celebración de convenios e Instrumentos de Desarrollo Económico, la calidad del marco regulatorio, la simplificación administrativa, la asociación público privada, la responsabilidad social de las empresas, el desarrollo de las condiciones laborales, el uso de las nuevas tecnologías, la sustentabilidad medioambiental, la inclusión laboral y el uso de energías renovables.
 
 ###### Artículo 28.
 
@@ -1043,9 +1065,11 @@ Los titulares de las representaciones a que refiere el presente Capítulo rendir
 
 #### SECCIÓN PRIMERA. INCENTIVOS QUE SE PUEDEN OTORGAR
 
-###### Artículo 99.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Adicionalmente a lo dispuesto por otras leyes y tratados vigentes, las autoridades estatales competentes en los términos de esta Ley podrán otorgar incentivos a la inversión nacional y extranjera, para la creación de una nueva empresa o para incrementar la capacidad de operación de una ya existente en la entidad con el fin de crear nuevas fuentes de empleo. Es requisito para ser beneficiario de incentivos el crear cuando menos 20 fuentes de empleo permanentes. Las inversiones en la exploración y explotación minera no serán sujetas a los incentivos que señala la presente Ley.
+###### Articulo 99.
+
+Adicionalmente a lo dispuesto por otras leyes y tratados vigentes, las autoridades estatales competentes en los términos de esta Ley podrán otorgar incentivos a la inversión nacional y extranjera, para la creación de una nueva empresa o para incrementar la capacidad de operación de una ya existente en la entidad con el fin de crear nuevas fuentes de empleo. Es requisito para ser beneficiario de incentivos el crear cuando menos 20 fuentes de empleo permanentes. Las inversiones en la exploración y explotación minera no serán sujetas a los incentivos que señala la presente Ley, salvo en los casos de suscripción de convenios como instrumento de Desarrollo Económico.
 
 ###### Artículo 100.
 
@@ -1053,9 +1077,17 @@ Los incentivos que se podrán otorgar consistirán en:
 
 I. Incentivos fiscales:
 
-a. Exención del pago del Impuesto Sobre Nóminas de hasta el 100%; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b. Exención del pago de derechos estatales de hasta el 100%.
+a. Exención del pago del Impuesto Sobre Nóminas de hasta el 100%;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+b. Exención del pago de derechos estatales de hasta el 100%; y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+c. Los que se obtengan al suscribir un Convenio de Estabilidad Fiscal en los términos de las disposiciones aplicables.
 
 II. Incentivos económicos:
 
@@ -1652,3 +1684,29 @@ P.O. 24 DE FEBRERO DE 2021.
 Artículo primero. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 19.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS, LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y LA LEY DE OBLICACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintidós, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los ejercicios Fiscales 2022, 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto (sic) este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos distribuidos del Fondo Único de Participaciones a los Municipios procedentes de las Participaciones Federales, para el Ejercicio 2022, no podrán ser inferiores a lo observado en el ejercicio 2021.
+
+###### ARTÍCULO CUARTO.
+
+Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaría y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
