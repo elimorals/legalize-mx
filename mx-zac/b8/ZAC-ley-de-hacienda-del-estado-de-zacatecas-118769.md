@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2020-12-30"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ENERO DE 2022 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -96,6 +98,14 @@ XIV. Sujeto o sujetos: personas físicas, personas morales y cualquier entidad e
 XV. Tasa o Tarifa: es la cantidad de dinero que se deberá de pagar por concepto de un impuesto en específico a cargo del sujeto; y
 
 XVI. Unidades Económicas: las empresas, las sucesiones, los fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles o cualquiera otra forma de asociación, que realicen los actos y actividades previstos como supuestos causa de los impuestos establecidos en esta Ley, que no se encuentre reconocida como persona jurídica conforme a la legislación civil del estado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVII. Anfitrión: Nombre que se le asigna a la persona física o moral que brinda servicios de hospedaje en inmuebles de propiedad, posesión, administración, en forma total o parcial, a través de una plataforma digital, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Plataforma Digital: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se descargan o reciben datos o comunicaciones de voz y que para efectos de la presente Ley, permite a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, promotor, intermediario, facilitador o cualquier otro carácter análogo, permitiendo contratar los servicios ofrecidos.
 
 ###### ARTÍCULO 3.
 
@@ -797,9 +807,11 @@ La base de este impuesto es el monto total de las erogaciones a que se refiere e
 
 DE LA TASA
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 40.
 
-Este impuesto se causará en el momento en que se realicen los pagos o se efectúen las erogaciones que son objeto del mismo y se determinará aplicando a la base que resulte conforme al artículo anterior, la tasa del 2.5%.
+Este impuesto se causará en el momento en que se realicen los pagos o se efectúen las erogaciones que son objeto del mismo y se determinará aplicando a la base que resulte conforme al artículo anterior, la lasa del 3.0%.
 
 DEL PAGO
 
@@ -863,9 +875,11 @@ El Gobierno del Estado, en ningún caso, será considerado como intermediario la
 
 DEL OBJETO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 45.
 
-Es objeto de este impuesto la prestación de servicios mediante el que se concede el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo para el alojamiento o albergue temporal de personas a cambio de una contraprestación o pago, sin incluir alimentos ni otros servicios, otorgado en hoteles, moteles, hosterías, hostales, mesones, posadas, villas turísticas, casas de hospedaje y albergues con fines turísticos, campamentos, paraderos de casas rodantes móviles o autotransportables y otros establecimientos que presten servicios de esta naturaleza incluyendo los prestados por concepto de tiempo compartido.
+Es objeto de este impuesto la prestación de servicios mediante el que se concede el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo para el alojamiento o albergue temporal de personas a cambio de una contraprestación o pago, sin incluir alimentos ni otros servicios, otorgado en hoteles, moteles, hosterías, hostales, mesones, posadas, villas turísticas, casas de hospedaje, departamentos, casas y villas amueblados de manera total o parcial y albergues con fines turísticos, campamentos, paraderos de casas rodantes móviles o autotransportables y otros establecimientos que presten servicios de esta naturaleza incluyendo los prestados por concepto de tiempo compartido.
 
 DEL SUJETO
 
@@ -875,6 +889,10 @@ Son sujetos y están obligados al pago de este impuesto, las personas físicas y
 
 El contribuyente obligado trasladará este impuesto en forma expresa y por separado a los usuarios de este servicio. Se entenderá por traslado del impuesto, el cobro o cargo que el prestador del servicio debe hacer al usuario en los términos del artículo 45 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Las plataformas digitales deberán agregar este impuesto al costo final del alojamiento del anfitrión en términos del párrafo anterior, siendo así el sujeto obligado de enterar el mismo.
+
 El traslado del impuesto a que se refiere este artículo, no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
@@ -883,7 +901,13 @@ El traslado del impuesto a que se refiere este artículo, no se considerará vio
 
 BIS. En los supuestos previstos en los artículos 45 y 46 de este Código, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al impuesto por prestación de servicios de hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal y realizará el traslado del impuesto a las personas a quienes preste servicios de hospedaje.
 
-Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al impuesto por la prestación de servicio y hospedaje, deberán inscribirse al padrón del impuesto correspondiente en su carácter de intermediario promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 45 de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al impuesto por la prestación de servicio y hospedaje, deberán inscribirse al Registro Estatal de Contribuyentes respecto del impuesto correspondiente, en su carácter de intermediario, promotor o facilitador a efecto de cumplir con lo establecido en el artículo 45 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Cuando el servicio de hospedaje se brinde a través de plataformas digitales y estas funjan como intermediario entre el huésped y el anfitrión con el cobro de contraprestaciones por servicio de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes con carácter de retenedor y enterar el pago del impuesto correspondiente a la autoridad fiscal y realizará el traslado del impuesto a las personas a quienes preste servicios de hospedaje.
 
 El impuesto a que se refiere este Capítulo se causará al momento en que se perciban los valores correspondientes a las contraprestaciones por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto que deriven de la prestación de dicho servicio.
 
@@ -919,9 +943,11 @@ La tasa que se aplicará a la base del cálculo del impuesto es el 3%.
 
 DEL PAGO
 
-###### ARTÍCULO 50.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-El impuesto sobre hospedaje se pagará en las recaudaciones correspondientes al lugar donde se preste el servicio, o en las instituciones de crédito autorizadas, mediante la presentación de declaraciones trimestrales, dentro de los 17 días naturales siguientes a cada trimestre.
+ARTÍCULO 50
+
+El impuesto sobre hospedaje se pagará en las recaudaciones correspondientes al lugar donde se preste el servicio, o en las instituciones de crédito autorizadas, mediante la presentación de declaraciones mensuales, dentro de los 17 días naturales siguientes a cada mes.
 
 ###### ARTÍCULO 51.
 
@@ -1743,15 +1769,23 @@ i) Registro de convenio de suplencia notarial o convenio de asociación notarial
 
 IV. La unidad de legalización de firmas adscritas a la Coordinación General Jurídica:
 
-a) Certificado de estudio. $149.00
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Título profesional. $149.00
+a) Certificado de estudio $156.00
 
-c) De cualquier materia. $149.00
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+b) Título profesional $156.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+c) De cualquier materia $156.00
 
 d) Notarios públicos. $149.00
 
-e) Apostilla de documentos. $373.00
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+e) Apostilla de documentos $393.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1765,13 +1799,13 @@ VI. Los provenientes del Periódico Oficial, Órgano del Gobierno del Estado Lib
 
 a) Por suscripción y puesta a disposición en las propias instalaciones del Periódico Oficial:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-1. Por semestre $3,200.00
+1. Por semestre $5,000.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-2. Por año $5,500.00
+2. Por año $9,000.00
 
 b) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
@@ -1813,9 +1847,13 @@ VIII. Por servicios de publicación, por palabra de Aviso judicial, administrati
 
 IX. Por certificación de copias de ejemplares:
 
-a) Fecha menor a veinte años. $ 400.00
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Fecha mayor de veinte años. $ 500.00
+a) Fecha menor diez años $500.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+b) Fecha mayor de diez años $600.00
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -2057,9 +2095,9 @@ c) Para los vehículos que se encuentren registrados en el padrón vehicular, cu
 
 Para los efectos de esta fracción, se cubrirán los derechos siguientes
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Vehículo de servicio particular: $1,250.00
+a) Vehículo de servicio público y particular $1,250.00
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2151,9 +2189,9 @@ El almacenamiento y guarda en recintos oficiales de bienes embargados conforme a
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I. Para avalúos se aplicará la tarifa de 0.005 sobre el valor catastral del predio, el cual deberá ser equiparado al valor de mercado, y éste tendrá una vigencia de 6 meses a partir de la fecha de elaboración:
+I. Para avalúos se aplicará la tarifa de 0.006 sobre el valor catastral del predio, el cual deberá ser equiparado al valor de mercado, y éste tendrá una vigencia de 6 meses a partir de la fecha de elaboración:
 
 a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2293,19 +2331,17 @@ Del ingreso percibido por concepto de servicios catastrales, un 5% será destina
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I. Calificación Registral, por testimonio o documento. $ 57.00
+I. Calificación Registral, por testimonio o documento $59.00
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Tratándose de inmuebles con valor de hasta $281,000.00, se cubrirá una cuota de $2,163.00, por inmueble.
+a) Tratándose de inmuebles con valor de hasta $281,000.00, se cubrirá una cuota de $2,280.00, por inmueble.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-Cuando el valor del inmueble sea superior al valor de referencia establecido en el párrafo anterior, se cubrirá la cantidad de $2,930.00. Para efectos del valor del inmueble, éste será el mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
+Cuando el valor del inmueble sea superior al valor de referencia establecido en el párrafo anterior, se cubrirá la cantidad de $3,180.00 por inmueble. Para efectos del valor establecido en el párrafo anterior, éste será el mayor entre el avaluó practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2359,87 +2395,85 @@ c) Para los efectos de este capítulo se equiparan a la compraventa los siguient
 
 17. Tratándose de títulos otorgados por el Instituto Nacional del Suelo Sustentable e Instituto del Fondo Nacional de la Vivienda para los Trabajadores y otras instituciones oficiales similares, o por los programas que se instituyan en su lugar.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-III. Diligencias de apeo y deslinde: $ 343.00
+III. Diligencias de apeo y deslinde: $356.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV. Capitulaciones matrimoniales: $ 343.00
+IV. Capitulaciones matrimoniales: $356.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $ 343.00
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $356.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 VI. Fusión de predios, por cada uno de los predios fusionados: $ 115.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $ 115.00
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $121.00
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
 a) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Constitución o sustitución de garantías reales, cesión de garantías u obligaciones reales. $ 1,256.00
+b) Constitución o sustitución de garantías reales, cesión de garantías u obligaciones reales. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-c) Subrogación de garantía, cesión de garantías u obligaciones reales. $ 1,256.00
+c) Subrogación de garantía, cesión de garantías u obligaciones reales. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-d) Comodato o convenios judiciales. $ 1,256.00
+d) Comodato o convenios judiciales. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-e) Demandas o resoluciones que limiten el derecho de propiedad o posesión. $ 1,256.00
+e) Demandas o resoluciones que limiten el derecho de propiedad o posesión. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad. $ 1,256.00
+f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad. $ 1,256.00
+g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-h) Fianzas. $ 1,256.00
+h) Fianzas. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-i) Prendas sobre crédito inscrito. $ 1,256.00
+i) Prendas sobre crédito inscrito. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-j) Prenda de frutos pendientes. $ 1,256.00
+j) Prenda de frutos pendientes. $1,302.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares. $1,302.00
 
-k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares. $ 1,256.00
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+l) División de copropiedad, por cada uno de los predios resultantes. $1,302.00
 
-l) División de copropiedad, por cada uno de los predios resultantes. $ 1,256.00
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $281,000.00, se cubrirá la cantidad de $ 1,027.00.
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $281,000.00, se cubrirá la cantidad de $1,270.00
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el párrafo anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
 X. Contrato de promesa de venta, se tasará al 0.4 % sobre el valor que se manifieste en el documento.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XI. Contrato de apertura de crédito $ 685.00
+XI. Contrato de apertura de crédito $710.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, 0.20 % sobre el importe de la operación que se consigne en el documento.
 
@@ -2447,9 +2481,13 @@ XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados 
 
 > <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, se tasará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
+Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, en caso de que se incremente el monto establecido en el contrato inicial, se pagará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+En el supuesto a que se refiere el párrafo anterior, no se incremente el adeudo, o bien, se modifique alguna otra circunstancia se pagará la cantidad de: $3,169.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2459,9 +2497,9 @@ Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados por 
 
 En materia de crédito para adquisición de vivienda, por el registro del contrato de hipoteca y crédito simple, se tasará al 0.125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XIII. Inscripción de documentos que contengan los siguientes actos: $1,028.00
+XIII. Inscripción de documentos que contengan los siguientes actos: $1,066.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2501,17 +2539,17 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor o en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos, en los casos de (sic) dicho capital no exceda de $392,800.00 se pagará la cantidad de $1,256.00
+XV. Registro de personas morales o aumento de su capital social, siempre y cuando el capital no exceda de $392,800.00 se pagará la cantidad de: $1,506.00
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMAD0, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Para Inscripciones cuyo monto rebase el rango del valor establecido en el párrafo anterior, se aplicará la tarifa adicional del 1%, al monto del excedente.
+Para Inscripciones cuyo monto rebase el rango del valor establecido en esta fracción, se aplicará la tarifa adicional del 1 %, al monto del excedente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVI. Registro de documentos que contengan los siguientes actos: $ 1,028.00
+XVI. Registro de documentos que contengan los siguientes actos: $1,058.00
 
 a) Disolución de personas morales;
 
@@ -2525,71 +2563,71 @@ d) Modificación al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVII. Cancelación de inscripción o anotación: $ 229.00
+XVII. Cancelación de inscripción o anotación: $238.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $ 3,426.00
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $3,552.00
 
 XIX. Por la inscripción de documentos, expedición de certificados o de copias certificadas, solicitadas para entrega urgente, y que se expedirán dentro de las 7 horas hábiles siguientes a su solicitud, adicionalmente al pago de los derechos que corresponden, se cobrará:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Inscripción de documentos a excepción de fraccionamientos urbanos $ 1,557.00
+a) Inscripción de documentos a excepción de fraccionamientos urbanos $1,650.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Expedición de copias y certificados. $ 468.00
+b) Expedición de copias y certificados $479.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XX. Por el registro del contrato de arrendamiento, subarrendamiento o cesión de arrendamiento, se tasará al 0.35% la cantidad que dé como resultado el multiplicar la renta mensual por los años de duración de dicho contrato, en caso de que no se determine el monto del contrato, se cubrirá la cuota de: $ 1,256.00
+XX. Por el registro del contrato de arrendamiento, subarrendamiento o cesión de arrendamiento, se tasará al 0.35% la cantidad que dé como resultado el multiplicar la renta mensual por los años de duración de dicho contrato, en caso de que no se determine el monto del contrato, se cubrirá la cuota de: $1,365.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 103.
 
-Inscripción de contrato innominado: $ 2,969.00
+Inscripción de contrato innominado: $3,169.00
 
 ###### ARTÍCULO 104.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I. No propiedad: $ 343.00
+I. No propiedad: $356.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II. Inscripción o no inscripción: $ 343.00
+II. Inscripción o no inscripción: $356.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-III. Libertad de gravamen: $ 229.00
+III. Libertad de gravamen: $238.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV. Existencia de gravamen: $ 229.00
+IV. Existencia de gravamen: $238.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Por cada gravamen excedente: $ 57.00
+a) Por cada gravamen excedente: $59.00
 
 V. Certificado de Historial registral:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Hasta 5 fojas. $ 343.00
+a) Hasta 5 fojas. $356.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Por cada foja excedente. $ 21.00
+b) Por cada foja excedente. $22.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VI. Certificado de Limitación o de Anotación $ 343.00
+VI. Certificado de Limitación o de Anotación. $356.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2603,23 +2641,23 @@ I. Existente en libros:
 
 a) Certificadas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-1. Hasta cinco fojas $ 457.00
+1. Hasta cinco fojas: $474.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-2. Por cada foja excedente: $ 21.00
+2. Por cada foja excedente $22.00
 
 b) Simples
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-1. Hasta cinco fojas: $ 229.00
+1. Hasta cinco fojas: $238.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-2. Por cada foja excedente $ 18.00
+2. Por cada foja excedente: $19.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2637,13 +2675,13 @@ a) Certificadas
 
 b) Simples
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-1. Hasta cinco fojas: $ 260.00
+1. Hasta cinco fojas: $270.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-2. Por cada foja excedente: $ 18.00
+2. Por cada foja excedente: $19.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2661,25 +2699,25 @@ a) Certificadas
 
 b) Simples
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-1. Hasta cinco fojas $220.00
+1. Hasta cinco fojas: $270.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-2. Por cada foja excedente $17.00
+2. Porcada foja excedente $19.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+((REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 106.
 
-Ratificación o certificación de firmas: $ 343.00
+Ratificación o certificación de firmas: $356.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 107.
 
-Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: $ 343.00
+Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: $356.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3433,67 +3471,67 @@ XI. Constancia de vigencia o de existencia de licencia de conducir. $300.00
 
 Por la evaluación y emisión del dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I. Informe preventivo. $ 4,749.00
+I. Informe preventivo $5,029.00
 
 II. Estudio de Impacto Ambiental tipo General:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Con nivel de impacto bajo. $ 6,201.00
+a) Con nivel de impacto bajo $6,566.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Con nivel de impacto medio. $ 6,392.00
+b) Con nivel de impacto medio $6,769.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-c) Con nivel de impacto alto. $ 7,250.00
+c) Con nivel de impacto alto $7,677.00
 
 III. Estudio de Impacto Ambiental tipo Intermedio:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Con nivel de impacto bajo. $ 8,109.00
+a) Con nivel de impacto bajo $8,587.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Con nivel de impacto medio. $ 10,355.00
+b) Con nivel de impacto medio $10,965.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-c) Con nivel de impacto alto. $ 14,449.00
+c) Con nivel de impacto alto $15,300.00
 
 IV. Estudio de Impacto Ambiental Específico:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-a) Con nivel de impacto bajo. $ 15,588.00
+a) Con nivel de impacto bajo $16,506.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-b) Con nivel de impacto medio. $ 19,485.00
+b) Con nivel de impacto medio $20,633.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-c) Con nivel de impacto alto. $ 23,576.00
+c) Con nivel de impacto alto $24,965.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-V. Exención de trámite de impacto ambiental. $ 3,743.00
+V. Exención de trámite de impacto ambiental $3,964.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VI. Ratificación y ampliación de resolución de impacto ambiental. $ 2,308.00
+VI. Ratificación y ampliación de resolución de impacto ambiental $2,444.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VII. Estudio de riesgo ambiental. $ 10,716.00
+VII. Estudio de riesgo ambiental $11,347.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $ 4,825.00
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $ 5,109.00
 
 ###### ARTÍCULO 121.
 
@@ -3912,3 +3950,29 @@ Para efectos del artículo 31 del Código Fiscal del Estado de Zacatecas y sus M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal en lo que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 19.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS, LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y LA LAEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintidós, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los ejercicios Fiscales 2022, 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos distribuidos del Fondo Único de Participaciones a los Municipios procedentes de las Participaciones Federales, para el Ejercicio 2022, no podrán ser inferiores a lo observado en el ejercicio 2021.
+
+###### ARTÍCULO CUARTO.
+
+Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaria y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
