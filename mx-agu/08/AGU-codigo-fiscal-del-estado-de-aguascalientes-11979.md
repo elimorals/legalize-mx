@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2020-12-21"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -63,9 +63,13 @@ IV.- La Ley de Hacienda del Estado.
 
 V.- La Ley de Catastro del Estado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VI.- Los (sic) demás disposiciones de carácter fiscal.
+VI.- Ley de Coordinación Fiscal del Estado de Aguascalientes.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VII.- Las demás disposiciones de carácter fiscal.
 
 ###### ARTICULO 3o.
 
@@ -267,9 +271,31 @@ XIII.- Los obligados a efectuar retenciones de contribuciones o recaudarlas, cua
 
 XIV.- Las personas que tengan a cargo la administración de la empresa, cualquiera que sea el nombre con el que se les designe; cuando en materia de retención su administrada y/o representada, efectúe la retención y esta no la entere.
 
-XV.- Los usufructuarios de bienes inmuebles así como los que tengan derechos de uso y de habitación, por las contribuciones que se hubieren causado con relación a los bienes usufructuados, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVI.- Las demás personas que señalen las Leyes.
+XV.- Los usufructuarios de bienes inmuebles así como los que tengan derechos de uso y de habitación, por las contribuciones que se hubieren causado con relación a los bienes usufructuados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVI.- Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el período o a la fecha de que se trate, cuando dicha persona moral incurra en cualquiera de los siguientes supuestos:
+
+a) No solicite su inscripción en el Padrón de Contribuyentes del Estado.
+
+b) Cambie su domicilio sin presentar los avisos correspondientes en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+
+c) No lleve contabilidad, la oculte o la destruya.
+
+d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos de este Código.
+
+e) No se localice en el domicilio fiscal registrado ante el Padrón de Contribuyentes del Estado.
+
+f) Omita enterar a las autoridades fiscales, dentro del plazo que las leyes establezcan, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
+
+La responsabilidad a que se refiere esta fracción únicamente será aplicable a los socios o accionistas que tengan o hayan tenido el control efectivo de la sociedad, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVII.- Las demás personas que señalen las Leyes.
 
 ###### ARTICULO 24.
 
@@ -313,7 +339,13 @@ Cuando no exista disposición expresa para presentar algún aviso, será de 30 d
 
 III.- Presentar los avisos de los cambios de domicilio, de razón o denominación social, de actualización de actividades económicas y obligaciones, de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, de lugares en donde se almacenan mercancías y en general de cualquier lugar que se utilice para el desempeño de actividades, así como dar aviso de clausura o suspensión de sus actividades, en los términos de las disposiciones fiscales.
 
-El plazo para presentar los avisos a que se refiere el presente artículo, cuando no exista disposición expresa para presentar algún aviso, será de 30 días naturales a partir del momento en que se dé el hecho o acto jurídico generador.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+El plazo para presentar los avisos a que se refiere el presente artículo, cuando no exista disposición expresa para presentar algún aviso, será de 15 días hábiles a partir del momento en que se dé el hecho o acto jurídico generador.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Los contribuyentes que se encuentren sujetos al ejercicio de facultades de comprobación y no se les haya notificado la resolución a que se refiere el artículo 139 BIS de este Código, deberán presentar el aviso de cambio de domicilio que refiere el primer párrafo de esta fracción, con cinco días de anticipación a que realicen dicho cambio.
 
 IV.- Expedir o recabar los comprobantes que las disposiciones tributarias señalen.
 
@@ -595,9 +627,11 @@ V.- Aplicación del producto del remate.
 
 VI.- Fallecimiento del Infractor, cuando se trate de multas fiscales, habiendo quedado demostrado, fehacientemente, tal hecho, con documentación oficial.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
 
-VII.- Cancelación, en los casos que este código lo establezca.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Las formas de extinción a las que se refiere este artículo se sujetarán a las disposiciones aplicables de este Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -637,11 +671,13 @@ c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente 
 
 Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago inicial a que hace referencia el primer párrafo de la fracción II de este artículo, del monto total del adeudo obtenido conforme a los incisos de esta fracción.
 
-La actualización que corresponda al periodo mencionado, conforme a lo previsto en la Ley de Ingresos del Estado de Aguascalientes, que queda incluida en la tasa mensual de recargos por prórroga que comprende la actualización de acuerdo a la Ley de Ingresos de la Federación vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+La actualización que corresponda al periodo mencionado, le será adicionada la tasa mensual de recargos por prórroga que establece la Ley de Ingresos del Estado de Aguascalientes vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
 
-Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades en mora actualizadas, de (sic) conforme a lo previsto en la Ley de Ingresos del Estado de Aguascalientes, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades en mora actualizadas, conforme a lo previsto en la Ley de Ingresos del Estado de Aguascalientes, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -673,17 +709,25 @@ IV.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judici
 
 V.- Tratándose del pago en parcialidades el contribuyente no cumpla en tiempo y monto con tres parcialidades o, en su caso, con la última.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 46.
 
-La falta de pago oportuno de los créditos fiscales dará lugar a recargos que se considerarán como indemnizaciones al erario estatal y se determinarán con la tasa que al efecto señale la Ley de Ingresos, pero su monto no podrá excederse del importe de la prestación fiscal adeudada.
+La falta de pago oportuno de los créditos fiscales dará lugar a recargos que se considerarán como indemnizaciones al erario estatal y se determinarán con la tasa que al efecto señale la Ley de Ingresos del Estado de Aguascalientes, pero su monto no podrá excederse del importe de la prestación fiscal adeudada.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día siguiente al del vencimiento del plazo en que debió hacerse el pago y hasta que el mismo se efectúe.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Cuando el contribuyente deba pagar recargos, la tasa aplicable en un mismo periodo mensual o fracción de éste, será siempre la que esté en vigor al primer día del mes o fracción de que se trate, independientemente de que dentro de dicho periodo la tasa varíe.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Los recargos se calcularán sobre el total de las contribuciones o aprovechamientos previamente actualizados en términos del artículo 40 BIS de este Código, excluyendo los propios recargos y cualquier otro accesorio. En los mismos términos se calcularán los recargos sobre otros créditos fiscales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 La condonación parcial o total de los recargos sólo se hará mediante disposición expresa de carácter general, que mediante acuerdo, dicte el Titular del Ejecutivo del Estado o el Secretario de Finanzas del Estado.
 
@@ -791,9 +835,11 @@ La prescripción se inicia a partir de la fecha en que el crédito fue exigible.
 
 Las autoridades fiscales no declararán de oficio la prescripción; en todo caso los sujetos pasivos podrán solicitar que se declare que ha prescrito algún crédito fiscal a su cargo. También podrán hacerlo valer mediante escrito presentado en cualquier momento a partir del requerimiento que se les haga, siempre y cuando se garantice el interés fiscal, si no procede la dispensa. Cumplidos los requisitos anteriores, si el crédito fiscal efectivamente prescribió deberá declararse así y en su caso reintegrarse al contribuyente la garantía establecida sin ninguna deducción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 53.
 
-El término de la prescripción se interrumpirá:
+El término de la prescripción de los créditos fiscales se interrumpirá o suspenderá en los siguientes casos:
 
 I.- Por cualquier acto de la autoridad que tienda a la determinación y cobro del crédito fiscal, siempre que se notifique al deudor.
 
@@ -801,15 +847,19 @@ II.- Por cualquier acto o gestión del deudor en que expresa o tácitamente reco
 
 III.- Por cualquier gestión de cobro formulada por escrito que los interesados hagan ante las autoridades fiscales.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV.- Cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber comunicado a la autoridad fiscal mediante la presentación del aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal, o cuando lo cambie o señale uno fuera a la circunscripción territorial del Estado. La suspensión del plazo comenzará a partir de que se actualicen los supuestos descritos y se reanudará hasta que la autoridad fiscal localice al contribuyente.
+IV.- Cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber comunicado a la autoridad fiscal mediante la presentación del aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal, o cuando lo cambie o señale uno fuera a la circunscripción territorial del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V.- Cuando se suspenda el procedimiento administrativo de ejecución con motivo de interposición de medios de defensa o por el trámite de condonación de multas.
 
 De estos actos, gestiones o notificaciones, deberá existir una constancia escrita.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-En estos casos, el nuevo plazo comenzará a contarse a partir de la fecha en que se presente el supuesto de interrupción o desaparezca la causal de la interrupción.
+En los casos de las fracciones I, II y III del presente artículo el nuevo plazo comenzará a contarse a partir de la fecha en que se presente el supuesto de interrupción. Tratándose de las fracciones IV y V de este articulo la suspensión del plazo comenzará a partir de que se actualicen dichos supuestos y se reanudará hasta que desaparezca la causal de suspensión.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -883,21 +933,23 @@ Las multas administrativas que se impongan por las autoridades, por infracciones
 
 La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto no podrán ser impugnadas por los medios de defensa que establece este Código o cualquier otra Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 57.
 
-Las multas administrativas que se impongan por infracciones a las disposiciones fiscales, podrán ser condonadas parcialmente por acuerdo expreso de la Secretaría de Finanzas:
+Las multas administrativas que se impongan por infracciones a las disposiciones fiscales, podrán ser condonadas parcialmente por acuerdo expreso de la Secretaría de Finanzas, cuando:
 
-I.- Cuando la infracción cometida sea leve, y no haya tenido como consecuencia la evasión fiscal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II.- Cuando de hacerse efectiva la multa impuesta, el contribuyente quede en estado de insolvencia.
+I.- La infracción cometida sea leve, y no haya tenido como consecuencia la evasión fiscal.
 
-III.- Cuando el infractor al cometer la infracción haya procedido por error siempre y cuando su notoria ignorancia lo justifique.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+II.- De hacerse efectiva la multa impuesta, el contribuyente quede en estado de insolvencia.
 
-Para dictar resolución, el Secretario de Finanzas apreciará discrecionalmente los motivos por los cuales se impuso la sanción y si procede determinará el por ciento a condonar, que estime justificado.
+III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -918,6 +970,38 @@ Para efectos de que sea procedente la condonación otorgada, el contribuyente de
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 La condonación podrá solicitarse en cualquier momento, siempre que se cumplan con los requisitos establecidos para tal efecto en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 57 BIS.- No procederá la condonación de multas, en cualquiera de los siguientes supuestos:
+
+a) Tratándose de contribuyentes que hubieran incurrido en alguna de las agravantes a que se refiere el artículo 67 BIS de este Código al momento en que las autoridades fiscales impongan la multa.
+
+b) Tratándose de contribuyentes que estén o hayan estado sujetos a una causa penal en la que se dictara sentencia condenatoria por delitos de carácter fiscal y esta se encuentre firme.
+
+c) Tratándose de contribuyentes no localizados en el Padrón estatal de contribuyentes.
+
+d) Tratándose de multas no fiscales.
+
+e) Tratándose de multas por las que se haya autorizado la condonación y el contribuyente no realizara el pago de la parte no condonada en el plazo otorgado para tal efecto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 57 TER.- Para dictar el acuerdo de resolución a la solicitud de condonación que refiere el artículo 57 de este Código, se considerará la antigüedad del periodo o ejercicio al que corresponda la multa, computándose la antigüedad a partir de la fecha de vencimiento de la obligación que generó la multa, hasta la fecha en que se presente la solicitud, a lo que se aplicarán los porcentajes siguientes, según corresponda:
+
+Antigüedad Porcentaje de condonación
+
+Hasta un año 50%
+
+Más de un año y hasta dos Años 45%
+
+Más de dos años y hasta tres años 40%
+
+Más de tres años y hasta cuatro años 35%
+
+Más de cuatro años y hasta cinco años 30%
+
+Más de cinco años 25%
 
 ###### ARTICULO 58.
 
@@ -1217,43 +1301,43 @@ C. De un 50% a un 75% del importe de las contribuciones retenidas o recaudadas y
 
 Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, documentación, avisos, información o expedición de constancias y aquellas relacionadas con el Padrón de Contribuyentes del Estado, las que a continuación se indican:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción, todas las actividades por las que sea contribuyente habitual, o no citar su número de registro o de cuenta, según el caso, en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad. Por la comisión de esta infracción se impondrá una multa de $500.00 a $5,000.00.
+I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción, todas las actividades por las que sea contribuyente habitual, o no citar su número de registro o de cuenta, según el caso, en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad. Por la comisión de esta infracción se impondrá una multa del valor diario de 10 a 65 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II.- Obtener o usar más de un número del registro que corresponda, para el cumplimiento de las obligaciones a su cargo, en relación con los impuestos o contribuciones estatales. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+II.- Obtener o usar más de un número del registro que corresponda, para el cumplimiento de las obligaciones a su cargo, en relación con los impuestos o contribuciones estatales. Por la comisión de esta infracción se impondrá una multa de del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos o contribuciones correspondientes. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos o contribuciones correspondientes. Por la comisión de esta infracción se impondrá una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV.- No obtener oportunamente los permisos, placas, tarjetas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones o no devolverlos oportunamente, dentro del plazo que las mismas disposiciones establecen. Por la comisión de esta infracción se impondrá una multa de $100.00 a $5,000.00.
+IV.- No obtener oportunamente los permisos, placas, tarjetas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones o no devolverlos oportunamente, dentro del plazo que las mismas disposiciones establecen. Por la comisión de esta infracción se impondrá una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-V.- Emprender cualquier explotación sin obtener previamente el permiso, o sin llenar los requisitos exigidos por los ordenamientos fiscales. Por la comisión de esta infracción se impondrá una multa de $500.00 a $50,000.00.
+V.- Emprender cualquier explotación sin obtener previamente el permiso, o sin llenar los requisitos exigidos por los ordenamientos fiscales. Por la comisión de esta infracción se impondrá una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
 
 VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VII.- No proveerse de los elementos o enseres para cuantificar la producción o el consumo, cuando ello sea requisito establecido por los ordenamientos fiscales. Alterar dichos aparatos, enseres, elementos o lo que se utilice para obtener datos necesarios, a fin de determinar las prestaciones fiscales. Por la comisión de esta infracción se impondrá una multa de $200.00 a $10,000.00.
+VII.- No proveerse de los elementos o enseres para cuantificar la producción o el consumo, cuando ello sea requisito establecido por los ordenamientos fiscales. Alterar dichos aparatos, enseres, elementos o lo que se utilice para obtener datos necesarios, a fin de determinar las prestaciones fiscales. Por la comisión de esta infracción se impondrá una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VIII.- No acondicionar los almacenes, depósitos, bodegas, agencias, y en general, los locales destinados a la guarda o expendio de artículos, en la forma oficialmente aprobada. Por la comisión de esta infracción se impondrá una multa de $200.00 a $10,000.00.
+VIII.- No acondicionar los almacenes, depósitos, bodegas, agencias, y en general, los locales destinados a la guarda o expendio de artículos, en la forma oficialmente aprobada. Por la comisión de esta infracción se impondrá una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IX - Permitir sacar o mandar sacar de las fábricas, almacenes, depósitos, bodegas, artículos o productos, sin haberse cumplido antes las obligaciones fiscales. Por la comisión de esta infracción se impondrá una multa de $200.00 a $10,000.00.
+IX.- Permitir sacar o mandar sacar de las fábricas, almacenes, depósitos, bodegas, artículos o productos, sin haberse cumplido antes las obligaciones fiscales. Por la comisión de esta infracción se impondrá una multa del valor diario de7 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-X.- No cumplir con las disposiciones fiscales aplicables cuando se almacenen o transporten productos gravables. Por la comisión de esta infracción se impondrá una multa de $200.00 a $10,000.00, cuando no se pueda determinar la prestación fiscal omitida. De lo contrario, la multa será hasta de tres tantos del importe de dicha prestación.
+X.- No cumplir con las disposiciones fiscales aplicables cuando se almacenen o transporten productos gravables. Por la comisión de esta infracción se impondrá una multa del valor diario de 7 a 130 Unidades de Medida y Actualización, cuando no se pueda determinar la prestación fiscal omitida. De lo contrario, la multa será hasta de tres tantos del importe de dicha prestación.
 
 XI.- Infringir las disposiciones fiscales relativas en alguna de las siguientes formas:
 
@@ -1267,97 +1351,101 @@ d) Anunciar en ellos, productos diferentes a los que contengan.
 
 e) No marcarlos o no ponerles las anotaciones que deban llevar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Por la comisión de esta infracción se impondrá una multa de $200.00 a $10,000.00.
+Por la comisión de esta infracción se impondrá una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XII.- Negarse a recibir los productos que les sean aportados por sus socios, cuando se trate de sociedades que, de acuerdo con los ordenamientos fiscales, estén constituidas para controlar la producción o distribución. Por la comisión de esta infracción se impondrá una multa de $500.00 a $50,000.00.
+XII.- Negarse a recibir los productos que les sean aportados por sus socios, cuando se trate de sociedades que, de acuerdo con los ordenamientos fiscales, estén constituidas para controlar la producción o distribución. Por la comisión de esta infracción se impondrá una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XIII.- Perforar o destruir sin estar facultados, los cierres de control que determinen las disposiciones fiscales, o desprenderlos de los envases, botellas, botes y demás recipientes que contengan los productos gravados, o alterar o destruir los cordones, envolturas o sellos oficiales. Por la comisión de esta infracción se impondrá una multa de $500.00 a $50,000.00.
+XIII.- Perforar o destruir sin estar facultados, los cierres de control que determinen las disposiciones fiscales, o desprenderlos de los envases, botellas, botes y demás recipientes que contengan los productos gravados, o alterar o destruir los cordones, envolturas o sellos oficiales. Por la comisión de esta infracción se impondrá una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XIV.- No llevar los sistemas contables a que aluden las disposiciones fiscales, llevarlos en forma distinta a como éstas prescriben; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+XIV.- No llevar los sistemas contables a que aluden las disposiciones fiscales, llevarlos en forma distinta a como éstas prescriben; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos. Por la comisión de esta infracción se impondrá una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XV.- Llevar doble juego de libros. Por la comisión de esta infracción se impondrá una multa de $5,000.00 a $100,000.00.
+XV.- Llevar doble juego de libros. Por la comisión de esta infracción se impondrá una multa del valor diario de 65 a 1250 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVI.- Hacer, mandar hacer o permitir en su contabilidad anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquier anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras; Por la comisión de esta infracción se impondrá una multa de $5,000.00 a $20,000.00.
+XVI.- Hacer, mandar hacer o permitir en su contabilidad anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquier anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras; Por la comisión de esta infracción se impondrá una multa del valor diario de 65 a 250 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVII.- Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, cuando no haya transcurrido el plazo durante el cual, conforme a la ley, los deben conservar. Por la comisión de esta infracción se impondrá una multa de $5,000.00 a $20,000.00.
+XVII.- Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, cuando no haya transcurrido el plazo durante el cual, conforme a la ley, los deben conservar. Por la comisión de esta infracción se impondrá una multa del valor diario de 65 a 250 Unidades de Medida y Actualización.
 
 XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XX.- Faltar a la obligación de extender comprobantes, facturas o cualquier otro documento que señalen las disposiciones fiscales, no exigirlos cuando tengan obligación de hacerlo no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esta forma. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+XX.- Faltar a la obligación de extender comprobantes, facturas o cualquier otro documento que señalen las disposiciones fiscales, no exigirlos cuando tengan obligación de hacerlo no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esta forma. Por la comisión de esta infracción se impondrá una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXI.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos, o no aclararlos cuando las autoridades fiscales lo soliciten. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $5,000.00.
+XXI.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos, o no aclararlos cuando las autoridades fiscales lo soliciten. Por la comisión de esta infracción se impondrá una multa del valor diario de 115 a 280 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos, en forma distinta a lo señalado en las disposiciones fiscales o con errores que traigan consigo la evasión de una prestación fiscal. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+XXII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos, en forma distinta a lo señalado en las disposiciones fiscales o con errores que traigan consigo la evasión de una prestación fiscal. Por la comisión de esta infracción se impondrá una multa del valor diario de 35 a 170 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados. Por la comisión de esta infracción se impondrá una multa de $5,000.00 a $ 100,000.00.
+XXIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados. Por la comisión de esta infracción se impondrá una multa del valor diario de 65 a 1250 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXIV.- Declarar ingresos menores de los percibidos; hacer deducciones falsas, ocultar u omitir bienes o existencias que deben figurar en los inventarios, o listarlos a precios superiores o inferiores a los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlos fuera de los plazos que éstas dispongan. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+XXIV.- Declarar ingresos menores de los percibidos; hacer deducciones falsas, ocultar u omitir bienes o existencias que deben figurar en los inventarios, o listarlos a precios superiores o inferiores a los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlos fuera de los plazos que éstas dispongan. Por la comisión de esta infracción se impondrá una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXV.- Eludir el pago de las contribuciones como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras. Por la comisión de esta infracción se impondrá una multa de $5,000.00 a $ 50,000.00.
+XXV.- Eludir el pago de las contribuciones como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras. Por la comisión de esta infracción se impondrá una multa del valor diario de 65 a 650 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXVI.- Comprobar el pago de una contribución en forma no idónea o diversa de lo que señalen las disposiciones fiscales. Por la comisión de esta infracción se impondrá una multa de $100.00 a $5,000.00.
+XXVI.- Comprobar el pago de una contribución en forma no idónea o diversa de lo que señalen las disposiciones fiscales. Por la comisión de esta infracción se impondrá una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXVII.- Traficar con los documentos o comprobantes de pago de contribuciones, o hacer uso ilegal de ellos. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+XXVII.- Traficar con los documentos o comprobantes de pago de contribuciones, o hacer uso ilegal de ellos. Por la comisión de esta infracción se impondrá una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXVIII.- Resistirse por cualquier medio, a las visitas domiciliarias o de verificación; no suministrar los datos e informes que legalmente puedan exigir los visitadores o verificadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita. Por la comisión de esta infracción se impondrá una multa de $5,000.00 a $50,000.00.
+XXVIII.- Resistirse por cualquier medio, a las visitas domiciliarias o de verificación; no suministrar los datos e informes que legalmente puedan exigir los visitadores o verificadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita. Por la comisión de esta infracción se impondrá una multa del valor diario de 115 a 280 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXIX.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas de revisión y auditoría. Por la comisión de esta infracción se impondrá una multa de $5,000.00 a $20,000.00.
+XXIX.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas de revisión y auditoría. Por la comisión de esta infracción se impondrá una multa del valor diario de 65 a 250 Unidades de Medida y Actualizació (sic).
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXX.- Señalar como domicilio fiscal ante la autoridad fiscal estatal un lugar distinto del que corresponda conforme al artículo 30 de este Código. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+XXX.- Señalar como domicilio fiscal ante la autoridad fiscal estatal un lugar distinto del que corresponda conforme al artículo 30 de este Código. Por la comisión de esta infracción se impondrá una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XXXI.- No efectuar en los términos de las disposiciones fiscales los pagos provisionales, mensuales o definitivos de una contribución. Por la comisión de esta infracción se impondrá una multa de $1,000.00 a $10,000.00.
+XXXI.- No efectuar en los términos de las disposiciones fiscales los pagos provisionales, mensuales o definitivos de una contribución. Por la comisión de esta infracción se impondrá una multa del valor diario de 115 a 280 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 68 BIS.- También se considera una infracción de los sujetos pasivos, no enterar en forma total o parcial, los impuestos, contribuciones o derechos dentro de los plazos señalados por las leyes fiscales. Por la comisión de esta infracción se impondrá una multa del 50% al 90% de las contribuciones omitidas.
 
-También se aplicarán las multas a que se refiere este artículo, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda En estos casos las multas se calcularán sobre el monto del beneficio indebido.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+También se aplicarán las multas a que se refiere este artículo, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
 
 Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaría o el oficio de observaciones, según sea el caso, se aplicará una multa del 40% al 50% de las contribuciones omitidas.
 
 Si el infractor paga las contribuciones omitidas junto con sus accesorios, después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, se le impondrá una multa del 60% al 70% de las contribuciones omitidas.
 
-Si el infractor paga las contribuciones omitidas o devuelve el beneficio indebido con sus accesorios dentro de los 15 días siguientes a la fecha en la que surta efectos la notificación de la resolución respectiva, la multa se reducirá en un 20% del monto de las contribuciones omitidas. Para aplicar la reducción contenida en este párrafo, no se requerirá modificar la resolución que impuso la multa.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Si el infractor paga las contribuciones omitidas o devuelve el beneficio indebido con sus accesorios dentro de los 10 días hábiles siguientes a la fecha en la que surta efectos la notificación de la resolución respectiva, la multa se reducirá en un 50% del monto de las contribuciones omitidas. Para aplicar la reducción contenida en este párrafo, no se requerirá modificar la resolución que impuso la multa.
 
 Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 10% al 20% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
 
@@ -1405,105 +1493,157 @@ XIII.- Resistirse por cualquier medio al ejercicio de las facultades de comproba
 
 XIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 70.
 
-Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos del Estado y a los de sus Municipios, así como a los encargados de servicios públicos u órganos oficiales, las que a continuación se indican, señalándose las sanciones correspondientes:
+Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos del Estado, así como a los encargados de servicios públicos u órganos oficiales, las que a continuación se indican, señalándose las sanciones correspondientes:
 
 I.- Dar entrada o curso a documentos o libros que carezcan en todo o en parte, de los requisitos exigidos por las disposiciones fiscales y en general no vigilar el cumplimiento de las disposiciones mencionadas.
 
-Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo, multa de $100.00 a $5,000.00.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-II.- Extender actas, expedir certificados o certificaciones, legalizar firmas, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia del pago de los impuestos o derechos que en cada caso procedan o cuando no se exhiban las constancias respectivas, multa de $500.00 a $50,000.00.
+Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo, en cuyo caso se aplicará una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
 
-III.- Recibir el pago de una prestación fiscal y no enterar su importe dentro del plazo legal, multa de $5,000.00 a $50,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV.- No exigir el pago total de las prestaciones fiscales; recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con la forma establecida por las disposiciones aplicables y en perjuicio del control e interés fiscal, multa de $500.00 a $50,000.00.
+II.- Extender actas, expedir certificados o certificaciones, legalizar firmas, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia del pago de los impuestos o derechos que en cada caso procedan o cuando no se exhiban las constancias respectivas, en cuyo caso se aplicará una multa del valor diario de10 a 650 Unidades de Medida y Actualización.
 
-V.- No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos o inexactos, no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias, multa de $1,000.00 a $10,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de $200.00 a $10,000.00.
+III.- Recibir el pago de una prestación fiscal y no enterar su importe dentro del plazo legal, en cuyo caso se aplicará una multa del valor diario de 65 a 650 Unidades de Medida y Actualización.
 
-VII.- Alterar documentos fiscales que tengan en su poder, multa de $500.00 a $50,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VIII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos, multa de $500.00 a $50,000.00.
+IV.- No exigir el pago total de las prestaciones fiscales; recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con la forma establecida por las disposiciones aplicables y en perjuicio del control e interés fiscal, en cuyo caso se aplicará una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
 
-IX.- No practicar las visitas de inspección cuando tengan obligación de hacerlas, multa de $100.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales, multa de $200.00 a $10,000.00.
+V.- No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos o inexactos, no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias, en cuyo caso se aplicará una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos, multa de $500.00 a $50,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XII.- Facilitar o permitir la alteración de las declaraciones, aviso o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales, multa de $200.00 a $10,000.00.
+VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, en cuyo caso se aplicará una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
 
-XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, multa de $100.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XIV.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exhibir los inspectores; no mostrar los libros, documentos, registros, bodegas, locales y en general, negarse a proporcionar los elementos que se requieran en relación con el objeto de la visita, multa de $200.00 a $10,000.00.
+VII.- Alterar documentos fiscales que tengan en su poder, en cuyo caso se aplicará una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
 
-XV.- Exigir bajo el título de cooperación o colaboración y otro semejante, cualquier prestación o contraprestación que no esté expresamente prevista en la Ley, aún cuando se aplique a la realización de las funciones propias de su pago, multa de $1,000.00 a $10,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos, en cuyo caso se aplicará una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IX.- No practicar las visitas de inspección cuando tengan obligación de hacerlas, en cuyo caso se aplicará una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales, en cuyo caso se aplicará una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos, en cuyo caso se aplicará una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XII.- Facilitar o permitir la alteración de las declaraciones, aviso o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales, en cuyo caso se aplicará una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, en cuyo caso se aplicará una multa de 5 a 65 Unidades de Medida y Actualización Diaria vigente.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XIV.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exhibir los inspectores; no mostrar los libros, documentos, registros, bodegas, locales y en general, negarse a proporcionar los elementos que se requieran en relación con el objeto de la visita, en cuyo caso se aplicará una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XV.- Exigir bajo el título de cooperación o colaboración y otro semejante, cualquier prestación o contraprestación que no esté expresamente prevista en la Ley, aún cuando se aplique a la realización de las funciones propias de su pago, en cuyo caso se aplicará una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
 XVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Las sanciones previstas en este artículo, se impondrán con independencia de las infracciones aplicables en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, o en su caso de los procedimientos en materia penal por la posible comisión de un delito.
 
 ###### ARTICULO 71.
 
 Son infracciones cuya responsabilidad recae sobre terceros, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I.- Consentir o tolerar que se inscriban a su nombre en los padrones o registros de contribuyentes, negociaciones ajenas o percibir a su nombre propio ingresos gravables que correspondan a otra persona, cuando éste último traiga como consecuencia omisión de ingresos, multa de $1,000.00 a $50,000.00.
+I.- Consentir o tolerar que se inscriban a su nombre en los padrones o registros de contribuyentes, negociaciones ajenas o percibir a su nombre propio ingresos gravables que correspondan a otra persona, cuando éste último traiga como consecuencia omisión de ingresos, en cuyo caso se aplicará una multa del valor diario de 15 a 650 Unidades de Medida y Actualización.
 
-II.- No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales o cuando las autoridades los exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten, multa de $100.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos, multa de $100.000 a $5,000.00.
+II.- No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales o cuando las autoridades los exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten, en cuyo caso se aplicará una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
 
-IV.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, multa de $500.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos, en cuyo caso se aplicará una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
 
-V.- Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, multa de $2,000.00 a $50,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IV.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, en cuyo caso se aplicará una multa del valor diario de 10 a 65 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V.- Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, en cuyo caso se aplicará una multa del valor diario de 25 a 650 Unidades de Medida y Actualización.
 
 No se incurrirá en la infracción a que se refiere esta fracción, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales, o bien manifiesten también por escrito al contribuyente que su asesoría puede ser contraria a la interpretación de las autoridades fiscales.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VI.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales, así como colaborar en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan, multa de $1,000.00 a $100,000.00, siempre que no pueda precisarse el monto de la prestación fiscal omitida. De lo contrario, la multa será de un 20% a un 50% del importe de dicha prestación.
+VI.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales, así como colaborar en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan, en cuyo caso se aplicará una multa del valor diario de 15 a 1250 Unidades de Medida y Actualización, siempre que no pueda precisarse el monto de la prestación fiscal omitida. De lo contrario, la multa será de un 20% a un 50% del importe de dicha prestación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VII.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones retenidas, recaudadas o que debieron retener o recaudar, multa de $1,000.00 a $100,000.00.
+VII.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones retenidas, recaudadas o que debieron retener o recaudar, en cuyo caso se aplicará una multa del valor diario de 15 a 1250 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-VIII.- Presentar los documentos relativos al pago de las prestaciones retenidas o recaudados, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones, multa de $1,000.00 a $100,000.00.
+VIII.- Presentar los documentos relativos al pago de las prestaciones retenidas o recaudados, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones, en cuyo caso se aplicará una multa del valor diario de 15 a 1250 Unidades de Medida y Actualización.
 
-IX.- Adquirir, ocultar, retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron los gravámenes que en relación con aquellos, se hubiera debido pagar, multa de $100.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+IX.- Adquirir, ocultar, retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron los gravámenes que en relación con aquellos, se hubiera debido pagar, en cuyo caso se aplicará una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
 
-X.- No cerciorarse, al transportar artículos gravados, del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales impongan esa obligación, o hacer el transporte sin la documentación que exijan las mismas disposiciones, multa de $100,00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+X.- No cerciorarse, al transportar artículos gravados, del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales impongan esa obligación, o hacer el transporte sin la documentación que exijan las mismas disposiciones, en cuyo caso se aplicará una multa del valor diario de 15 a 65 Unidades de Medida y Actualización.
 
-XI.- Hacer pagos y aceptar documentos que los comprueben cuando, derivándose de hechos que generen el gravamen, no se haya cumplido con el pago de la prestación fiscal, o no se acredite su regular cumplimiento de acuerdo con las disposiciones fiscales, multa de $200.00 a $10,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+XI.- Hacer pagos y aceptar documentos que los comprueben cuando, derivándose de hechos que generen el gravamen, no se haya cumplido con el pago de la prestación fiscal, o no se acredite su regular cumplimiento de acuerdo con las disposiciones fiscales, en cuyo caso se aplicará una multa del valor diario de 7 a 130 Unidades de Medida y Actualización.
 
-XII.- No presentar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales, multa de $1,000.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+XII.- No presentar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales, en cuyo caso se aplicará una multa del valor diario de 15 a 65 Unidades de Medida y Actualización.
 
-XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, multa de $5,000.00 a $50,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XIV.- No poner en conocimiento de las autoridades fiscales, cuando se posean documentos de los mencionados en la fracción XI de este artículo, multa $500.00 a $50,000.00.
+XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, en cuyo caso se aplicará una multa del valor diario de 65 a 650 Unidades de Medida y Actualización.
 
-XV.- Alterar o destruir los cordones, envolturas o sellos oficiales, multa de $100.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-XVI.- Resistir por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores en general, negarse a proporcionar los elementos que requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita, multa de $ 5,000.00 a $ 200,000.00.
+XIV.- No poner en conocimiento de las autoridades fiscales, cuando se posean documentos de los mencionados en la fracción XI de este artículo, en cuyo caso se aplicará una multa del valor diario de 10 a 650 Unidades de Medida y Actualización.
 
-XVII.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias, multa de $ 50,000.00 a $ 500,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+XV.- Alterar o destruir los cordones, envolturas o sellos oficiales, en cuyo caso se aplicará una multa del valor diario de 5 a 65 Unidades de Medida y Actualización.
 
-XVIII.- Cuando el contador público que dictamine el cumplimiento de obligaciones fiscales, no observe la omisión de contribuciones recaudadas, retenidas, trasladadas o propias del contribuyente, en el informe sobre la situación fiscal del mismo, por el periodo que cubre el dictamen respectivo, cuando dichas omisiones se vinculen al incumplimiento de las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesionales del contador público, el trabajo que desempeña y la información que rinda como resultado de los mismos, y siempre que la omisión de contribuciones sea determinada por la Autoridad Fiscal Estatal en ejercicio de sus facultades de comprobación mediante resolución que haya quedado firme. Por la comisión de las infracciones previstas en este artículo, se impondrá una multa de $3,000.00 a $60,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVI.- Resistir por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos locales o cajas de valores en general, negarse a proporcionar los elementos que requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita, en cuyo caso se aplicará una multa del valor diario de 65 a 2500 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVII.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias, en cuyo caso se aplicará una multa del valor diario de 650 a 6500 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XVIII.- Cuando el contador público que dictamine el cumplimiento de obligaciones fiscales, no observe la omisión de contribuciones recaudadas, retenidas, trasladadas o propias del contribuyente, en el informe sobre la situación fiscal del mismo, por el periodo que cubre el dictamen respectivo, cuando dichas omisiones se vinculen al incumplimiento de las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesionales del contador público, el trabajo que desempeña y la información que rinda como resultado de los mismos, y siempre que la omisión de contribuciones sea determinada por la Autoridad Fiscal Estatal en ejercicio de sus facultades de comprobación mediante resolución que haya quedado firme. Por la comisión de las infracciones previstas en este artículo se aplicará una multa del valor diario de 35 a 750 Unidades de Medida y Actualización.
 
 No se incurrirá en la infracción a que se refiere esta fracción, cuando la omisión determinada no supere el 20% de las contribuciones recaudadas, retenidas o trasladadas, o el 30%, tratándose de las contribuciones propias del contribuyente.
 
@@ -1643,9 +1783,9 @@ II.- El Secretario de Finanzas del Estado.
 
 III.- El Subsecretario de Ingresos del Estado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-IV.- Los Directores Generales y Directores de Área de la Secretaría de Finanzas.
+IV.- Los Directores Generales y Coordinadores de la Secretaría de Finanzas.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -1679,7 +1819,9 @@ La competencia por razón de la materia de los distintos órganos de la Secretar
 
 Las autoridades fiscales para hacer cumplir sus determinaciones podrán emplear los siguientes medios de apremio:
 
-I.- Multa de $ 500.00 hasta $ 5,000.00.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+I.- Multa del valor diario de 10 hasta 65 Unidades de Medida y Actualización.
 
 II.- El auxilio de la fuerza pública.
 
@@ -1949,11 +2091,13 @@ Las oficinas recaudadoras de la Secretaría de Finanzas recibirán las declaraci
 
 Para el cumplimiento de las obligaciones que establecen las fracciones II, III y V del artículo 26 se observarán las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-I.- El empadronamiento y la presentación de avisos de clausura, de suspensión temporal, cambio de actividad, domicilio y razón social o denominación social, deberán hacerse en las formas aprobadas por la Secretaría de Finanzas, cuando las disposiciones fiscales no señalen plazos para el cumplimiento de estas obligaciones, se tendrá por establecido el de quince días siguientes a la fecha de realización del hecho de que se trate.
+I.- El empadronamiento y la presentación de avisos de clausura, de suspensión temporal, cambio de actividad, domicilio y razón social o denominación social, deberán hacerse en las formas aprobadas por la Secretaría de Finanzas, cuando las disposiciones fiscales no señalen plazos para el cumplimiento de estas obligaciones, se tendrá por establecido el de quince días hábiles siguientes a la fecha de realización del hecho de que se trate.
 
-II.- Cuando en las disposiciones fiscales se disponga que los sujetos pasivos expidan o recaben documentación comprobatoria de las operaciones realizadas, ésta deberá contener los datos que señalen esas disposiciones y que serán lo (sic) suficientes para identificar la operación de que se trate y la persona que la realice.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+II.- Cuando en las disposiciones fiscales se disponga que los sujetos pasivos expidan o recaben documentación comprobatoria de las operaciones realizadas, ésta deberá contener los datos que señalen esas disposiciones y ser suficientes para identificar la operación de que se trate y la persona que la realice.
 
 III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
@@ -2003,17 +2147,17 @@ Las notificaciones también se podrán efectuar en el último domicilio que el i
 
 Las notificaciones personales se entenderán con la persona que deba ser notificada, o con su representante legal, o persona autorizada en términos del Artículo 99 de este Código; a falta de los anteriores, el notificador cerciorado de ser el domicilio designado, o el establecido por la ley para efectos fiscales, dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, si la persona que se encuentre en el domicilio se negare a recibir el citatorio, a identificarse o a firmar el mismo, se fijará en la puerta del domicilio o en un lugar visible del mismo y el notificador hará constar esa situación en el acta que al efecto se levante.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-Si el domicilio se encontrare cerrado y nadie respondiera al llamado del notificador para atender la diligencia, el notificador procederá a dejar citatorio con un vecino, y de negarse éste a firmarlo, a recibirlo, o a identificarse, el citatorio se fijará en la puerta del domicilio designado para la práctica de la diligencia o en un lugar visible del mismo, y se asentará en el citatorio la media filiación del vecino y el domicilio de éste.
+Si el domicilio se encontrare cerrado y nadie respondiera al llamado del notificador para atender la diligencia, el notificador fijará el citatorio en la puerta del domicilio designado para la práctica de la diligencia o en un lugar visible del mismo, y asentará en dicho citatorio esa circunstancia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia. En el momento de la notificación se entregará al notificado, o a la persona con quien se entienda la diligencia, un tanto del documento a que se refiere la notificación, en los términos en que fue suscrito. De negarse la persona a recibirlo, a identificarse, a firmar la misma, o si el domicilio se encontrare cerrado y nadie respondiera al llamado del notificador, el acta de la diligencia se fijará en la puerta del domicilio o en un lugar visible del mismo y además se ordenará su notificación por estrados, sin que dicha situación afecte la legalidad de lo actuado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-La notificación se realizará por estrados, fijando durante cinco días el documento que pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación, publicando además el documento citado, durante el mismo plazo, en la página electrónica del Gobierno del Estado, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado y publicado. La autoridad dejará constancia de ello en el expediente respectivo.
+La notificación se realizará por estrados, fijando durante seis días hábiles el documento que pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación, publicando además el documento citado, durante el mismo plazo, en la página electrónica del Gobierno del Estado, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado y publicado. La autoridad dejará constancia de ello en el expediente respectivo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -2205,11 +2349,23 @@ Los libros, registros y documentos, sólo podrán recogerse, cuando exista pelig
 
 Para tal efecto, los visitadores podrán en cualquier momento e indistintamente, copiar, fotocopiar, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho aseguramiento no impida la realización de las actividades del visitado. Para esto (sic) efectos, se entiende que no se impide la realización de actividades cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Para estos efectos, se entiende que no se impide la realización de actividades cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los 20 días establecidos para desvirtuar los hechos u omisiones mencionados en la última acta parcial. La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones.
+
 V.- Los visitadores harán constar en el acta los hechos y omisiones observados y al concluir la visita cerrarán el acta haciendo constar los resultados en forma circunstanciada.
 
 Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales, o sobre la situación financiera del visitado, no producirá efectos de resolución fiscal; asimismo, el visitado o cualquiera de sus empleados podrá expresar en el acta si está conforme con su contenido o los motivos de su inconformidad, expresados también en forma circunstanciada.
 
 VI.- El visitado o la persona con quien se entienda la diligencia, los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con quien se entienda la diligencia.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Si al cierre del acta que se levante, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la diligencia.
 
 VII.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita.
 
@@ -2249,23 +2405,41 @@ d) Cuando el contribuyente no atienda el requerimiento de datos, informes o docu
 
 Si durante el plazo en el que se desarrolla la visita domiciliaria o la revisión de la documentación que se realice en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+e) Cuando los contribuyentes interpongan algún medio de defensa contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de la reposición del procedimiento que refiere la fracción XI del presente artículo, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento. Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 131 BIS.- Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-l.- La solicitud se notificará en el domicilio fiscal de la persona a la que va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o en el lugar donde éstas se encuentren. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal lo esperen a hora determinada el día siguiente para recibir la solicitud; si no se atendiere el citatorio, la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma.
+I.- La solicitud se notificará en el domicilio fiscal de la persona a la que va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o en el lugar donde éstas se encuentren. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal lo esperen a hora determinada el día siguiente para recibir la solicitud; si no se atendiere el citatorio, la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma.
 
 II.- En la solicitud se indicará el lugar y el plazo en el cual se deberán proporcionar los informes o documentos.
 
 III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
 
-IV.- Como consecuencia de la revisión de informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario. En el caso de que existan o no existan observaciones, las autoridades fiscales dentro del plazo a que se refiere la fracción XII del artículo 131 de este Código, formularán oficio en el que se dé a conocer al contribuyente, responsable solidario o tercero, el resultado de la revisión.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
-V.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará en el lugar señalado en la fracción l de este artículo. El contribuyente contará con un plazo de veinte días contados a partir del siguiente a aquel en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo. Este plazo no se contabilizará dentro del plazo de doce meses previsto en la fracción anterior.
+IV.- Como consecuencia de la revisión de informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+V.- En el caso de que existan o no existan observaciones, las autoridades fiscales dentro del plazo a que se refiere la fracción XII del artículo 131 de este Código, formularán oficio en el que se dé a conocer al contribuyente, responsable solidario o tercero, el resultado de la revisión.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VI.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará en el lugar señalado en la fracción l de este artículo. El contribuyente contará con un plazo de veinte días contados a partir del siguiente a aquel en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo. Este plazo no se contabilizará dentro del plazo de doce meses previsto en la fracción anterior.
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo a que se refiere el párrafo anterior, el contribuyente no presenta documentación comprobatoria que los desvirtúe, y
 
-VI.- La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+> <small>(ADICIONADA [N. DE E. REUBICADO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+VII.- La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2370,6 +2544,12 @@ Las diferencias de impuestos a cargo de contribuyentes determinados por el conta
 En caso de falsedad en el dictamen de contadores públicos, determinada por la Secretaría de Finanzas, esta previa audiencia con el contador, suspenderá hasta por tres años los efectos del registro a que se refiere la fracción I del artículo 133; si hubiera reincidencia o el autor hubiera participado en la comisión de un delito fiscal, se procederá a la cancelación de dicho registro.
 
 Para efectos de este artículo, se considera que hay reincidencia cuando se repite, por más de una vez, la falsedad en los dictámenes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 135 BIS.- En los casos en que se corrija la situación fiscal antes de que se haya notificado la resolución que se dicte con motivo del ejercicio de las facultades de comprobación, a petición del contribuyente se podrán compensar los saldos a favor que tenga del mismo impuesto, previa solicitud que formule a la autoridad fiscal y solo en caso de resolución favorable que la misma le otorgue y ésta resuelva que la compensación es procedente.
+
+La autoridad fiscal podrá solicitar los documentos e informes que considere necesarios para determinar la procedencia de los saldos a favor, independientemente de que éstos se hubieran generado en un periodo o ejercicio distinto al revisado. En ese caso no se considerará que la autoridad fiscal ésta ejerciendo sus facultades de comprobación respecto a las contribuciones y periodos que dieron origen al saldo favor que pretende compensar el contribuyente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -3265,9 +3445,19 @@ El importe de los depósitos que se constituyen de acuerdo con lo que establece 
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 200.
 
-Cuando el postor en cuyo favor se hubiere fincado el remate, no cumpla con las obligaciones que contraiga, se hará efectivo el depósito y su importe se aplicará al erario estatal como indemnización. En este caso, se reanudarán las almonedas en la forma y plazos que señalen los artículos respectivos.
+Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones contraídas y las que este Código señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco del Estado.
+
+No se hará efectivo el depósito y tampoco se aplicará al erario estatal como indemnización, cuando el postor manifieste por escrito a la autoridad, que se encuentran impedido por causa de fuerza mayor o caso fortuito y lo acredite exhibiendo las pruebas correspondientes.
+
+La autoridad podrá adjudicar el bien al postor que haya presentado la segunda postura de compra más alta y así sucesivamente, siempre que dicha postura sea mayor o igual al precio base de enajenación fijado.
+
+Al segundo o siguientes postores les serán aplicables los mismos plazos para el cumplimiento de las obligaciones del postor ganador.
+
+En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -3327,15 +3517,7 @@ Se entenderá que los bienes se encuentran a disposición del interesado, a part
 
 Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán a los propietarios de los mismos, personalmente, por correo certificado con acuse de recibo, por estrados en los casos señalados en la fracción III del artículo 116 de este Código o por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, que ha transcurrido el plazo de abandono y que como consecuencia pasan a propiedad del fisco del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-ARTICULO 203 TER.- Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones contraídas y las que este Código señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco del Estado.
-
-La autoridad podrá adjudicar el bien al postor que haya presentado la segunda postura de compra más alta y así sucesivamente, siempre que dicha postura sea mayor o igual al precio base de enajenación fijado.
-
-Al segundo o siguientes postores les serán aplicables los mismos plazos para el cumplimiento de las obligaciones del postor ganador.
-
-En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
+ARTICULO 203 TER.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -3379,9 +3561,11 @@ Inmediatamente que se hubiere otorgado y firmado la escritura en que conste la a
 
 Queda estrictamente prohibido adquirir los bienes objeto de un remate por sí o por interpósita persona, a los funcionarios de la dependencia ejecutora o exactora y personal de las mismas y los que hubieren intervenido por parte del fisco del Estado, en los procedimientos de ejecución. El remate efectuado en contravención a este precepto, será nulo y los infractores serán castigados de acuerdo con lo que establece este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 209.
 
-El producto del remate se aplicará al pago del crédito fiscal, en el orden siguiente:
+El producto del remate se aplicará al pago del crédito fiscal, hasta por el monto del adeudo, si éste no excede de la cantidad en que deba fincarse el remate en la almoneda, en el orden siguiente:
 
 I.- Gastos de ejecución.
 
@@ -3391,9 +3575,7 @@ II.- Los recargos y las multas.
 
 III.- Los impuestos, derechos, aprovechamientos y contribuciones de mejora, que dieron lugar al embargo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-IV.- Hasta por el monto del adeudo, si éste no excede de la cantidad en que deba fincarse el remate en la primera almoneda.
+IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -3403,7 +3585,9 @@ La adjudicación regulada en este artículo, sólo será válida si es aprobada 
 
 La Hacienda Pública Estatal tiene preferencia para adjudicarse en cualquier almoneda, los bienes ofrecidos en remate:
 
-I.- A falta de postores, por el importe de la postura legal que deba privar para la almoneda siguiente.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+I.- A falta de postores, por el importe de la postura legal que se señaló en la almoneda correspondiente.
 
 II.- A falta de pujas, por el importe de la postura legal no mejorada.
 
@@ -3433,7 +3617,9 @@ Los bienes embargados podrán enajenarse fuera de remate, cuando:
 
 I.- El embargado proponga comprador antes del día en que se finque el remate, se enajenen o adjudiquen los bienes a favor del fisco del Estado, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados.
 
-II.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables o semovientes, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación y cuando después de celebrada una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la primera almoneda.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+II.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables o semovientes, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación y cuando después de celebrada una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la citada almoneda.
 
 Cuando se trate de bienes inmuebles o bienes muebles que habiendo salido a subasta por lo menos en una almoneda y no se hubieren presentado postores, la autoridad ejecutora podrá proceder a su venta al mejor comprador.
 
@@ -3974,3 +4160,19 @@ El presente Decreto entrará en vigor el primero de enero de dos mil veintiuno.
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUMERO 57.- SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el primero de enero de dos mil veintidós.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos y trámites, que se hubieren iniciado previo a la entrada en vigor de este Decreto, continuarán su sustanciación y se resolverán conforme a las disposiciones legales vigentes a la fecha en que se iniciaron.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican en este Decreto, deberán cumplirse en los términos establecidos en la normatividad vigente al momento en que se generaron.
