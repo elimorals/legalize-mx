@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-municipio-de-villa-gonzalez-ortega-148376"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL MUNICIPIO DE VILLA GONZALEZ ORTEGA, ZACATECAS PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento 48 del número 105 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de diciembre de 2020.
 
