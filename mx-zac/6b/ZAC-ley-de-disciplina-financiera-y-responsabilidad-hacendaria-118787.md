@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11878
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2020-12-30"
+last_updated: "2021-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -2174,3 +2174,45 @@ Para efectos del artículo 31 del Código Fiscal del Estado de Zacatecas y sus M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal en lo que se opongan al presente decreto.
+
+P.O. DE 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 18.- LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, contenida en el Decreto No. 121, publicada en el Suplemento 5 al número 105 del Periódico Oficial del Gobierno del Estado, correspondiente al día 31 de diciembre de 2016.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía, en lo que se opongan a lo contenido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los Entes Públicos, en el ámbito de su competencia, la Secretaría, la unidad administrativa responsable de la planeación y programación en el Poder Ejecutivo del Estado y la Secretaría de la Función Pública, contarán con un plazo de un año a partir de la entrada en vigor de esta Ley para emitir conjuntamente la o las disposiciones en las cuales se definirán la operación del sistema presupuestario, para el debido cumplimiento de lo establecido en el artículo 8 de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las leyes o sus reformas a que se refiere el último párrafo de la fracción I del artículo 72 de esta Ley, serán aquellas que se emitan con posterioridad a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Dentro de los noventa días naturales posteriores a la entrada en vigor de la presente Ley, la Secretaría y la Secretaría de la Función Pública emitirán los lineamientos para la integración, operación y funcionamiento del Comité de Evaluación.
+
+La presidencia de dicho Comité estará a cargo de la Secretaría y la Secretaría de la Función Pública, quienes desempeñarán esta función en forma alterna por los periodos que señalen los lineamientos a que se refiere el párrafo anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro del término de sesenta días naturales contados a partir de la entrada en vigor de esta Ley, todos los Entes Públicos del Estado y Municipios, en el ámbito de sus respectivas competencias, tienen obligación de expedir la reglamentación y demás normatividad de Impacto Presupuestario, para implementar las etapas de:
+
+I. Evaluación de Impacto Presupuestario;
+
+II. Dictamen de Estimación de Impacto Presupuestario, y
+
+III. Dictamen de Estructura Orgánica y Ocupacional.
+
+Hasta en tanto, los formatos que deberán ser llenados por las dependencias y entidades son los que se encuentran actualmente publicados en el Suplemento al No. 62 del Periódico Oficial del Gobierno del Estado correspondiente al día 1 de agosto de 2020, como "Reglas Generales para la Evaluación del Impacto Presupuestario y Elaboración del Dictamen de Estimación de Impacto de los Proyectos de Iniciativas de Ley o Decretos que se Presenten a Consideración de la Legislatura del Estado y demás Disposiciones Administrativas Emitidas por el Ejecutivo del Estado de Zacatecas y Anexos", mismos que se deberán actualizar por la Secretaría, según aplique.
