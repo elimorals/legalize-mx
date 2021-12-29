@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2021-08-02"
+last_updated: "2021-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -555,7 +555,9 @@ c) El personal que integra la Fiscalía Especializada en Combate a la Corrupció
 
 d) Las que se establezcan en la presente Ley y las demás disposiciones jurídicas relativas y aplicables;
 
-LVI. Participar como integrante de la Conferencia Nacional de Procuración de Justicia, el Consejo Estatal de Seguridad Pública, el Sistema de Atención a Víctimas u Ofendidos de Aguascalientes y de todas aquellas instancias cuya participación requiera la ley, dando el debido seguimiento y cumplimiento a los acuerdos emitidos en su seno;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+LVI. Participar como integrante de la Conferencia Nacional de Procuración de Justicia, el Consejo Estatal de Seguridad Pública, el Sistema de Atención Integral a Víctimas del Estado de Aguascalientes y de todas aquellas instancias cuya participación requiera la ley, dando el debido seguimiento y cumplimiento a los acuerdos emitidos en su seno;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
@@ -669,7 +671,9 @@ VII. Autorizar las solicitudes de colaboración que formulen los Agentes del Min
 
 VIII. Promover, atender, vigilar y proteger cabalmente los derechos humanos y las garantías constitucionales de la persona imputada, cuando fuere detenida o se haya presentado voluntariamente durante la integración de la carpeta de investigación, así como cuando se haya decretado su retención, en términos de lo dispuesto por el Código Nacional;
 
-IX. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y las garantías constitucionales de las víctimas u ofendidos, así como procurar y solicitar, a favor de las personas que hayan adquirido tales calidades y por conducto de los Agentes del Ministerio Público a su cargo, el otorgamiento de las medidas de protección y de atención inmediata e integral establecidas por el Código Nacional, la Ley General de Victimas, la Ley de Atención y Protección a la Victima y al Ofendido para el Estado de Aguascalientes y las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IX. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y las garantías constitucionales de las víctimas u ofendidos, así como procurar y solicitar, a favor de las personas que hayan adquirido tales calidades y por conducto de los Agentes del Ministerio Público a su cargo, el otorgamiento de las medidas de protección y de atención inmediata e integral establecidas por el Código Nacional, la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y las demás disposiciones aplicables;
 
 X. Coordinar, promover, supervisar y proteger los derechos humanos y las garantías constitucionales de las personas que intervienen en el procedimiento penal y, en su caso, solicitar a su favor todas las medidas de protección establecidas por la Ley para la Protección de las Personas que Intervienen en el Enjuiciamiento Penal para el Estado de Aguascalientes;
 
@@ -707,7 +711,9 @@ VII. Autorizar las solicitudes de colaboración que formulen los Agentes del Min
 
 VIII. Promover, atender, vigilar y proteger cabalmente los derechos humanos y las garantías constitucionales de la persona imputada, cuando se le haya impuesto una medida cautelar privativa o restrictiva de libertad, en términos de lo dispuesto por el Código Nacional;
 
-IX. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y las garantías constitucionales de las víctimas u ofendidos, así como procurar y solicitar, a favor de las personas que hayan adquirido tales calidades y por conducto de los Agentes del Ministerio Público a su cargo, el otorgamiento de las medidas de protección y de atención inmediata e integral establecidas por el Código Nacional, la Ley General de Victimas, la Ley de Atención y Protección a la Victima y al Ofendido para el Estado de Aguascalientes y las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+IX. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y las garantías constitucionales de las víctimas u ofendidos, así como procurar y solicitar, a favor de las personas que hayan adquirido tales calidades y por conducto de los Agentes del Ministerio Público a su cargo, el otorgamiento de las medidas de protección y de atención inmediata e integral establecidas por el Código Nacional, la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y las demás disposiciones aplicables;
 
 X. Procurar que se obtenga la reparación integral del daño a favor de las víctimas o los ofendidos, en los casos que corresponda;
 
@@ -729,7 +735,9 @@ La Vice Fiscalía Jurídica será la encargada de coordinar la defensa y la repr
 
 La persona titular de la Vicefiscalía Jurídica tiene a su cargo el ejercicio de las siguientes atribuciones y facultades específicas:
 
-I. Otorgar a las víctimas y ofendidos las medidas de atención inmediata e integral, establecidas por la Ley General de Víctimas, la Ley de Atención y Protección de la Víctima y el Ofendido para el Estado de Aguascalientes y por las demás normas relativas y aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+I. Otorgar a las víctimas y ofendidos las medidas de atención inmediata e integral, establecidas por la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y por las demás normas relativas y aplicables;
 
 II. Elaborar, de forma coordinada con los factores y elementos que integran la estructura orgánica de la Fiscalía General correspondientes, y proponer al Fiscal General los proyectos de iniciativas de ley, reglamentos, acuerdos, circulares, instructivos, bases, protocolos, lineamientos, manuales de organización y manuales de procedimientos conducentes al buen desempeño de las funciones de la Fiscalía General;
 
@@ -923,7 +931,9 @@ I. Requerir a las instancias del sector público o privado la atención médica,
 
 II. Requerir el envío de las carpetas de investigación o las causas penales que sean tramitadas por cualquier otra área de la Fiscalía General, si de los indicios, huellas, vestigios, evidencias, objetos, instrumentos, productos, información o datos de prueba contenidos en ella, se desprende que pudiera tratarse de hechos presuntamente constitutivos de delito en materia de tortura;
 
-III. Procurar la correspondencia de los datos inscritos en el Registro Nacional del Delito de Tortura, el Registro Nacional de Víctimas, el Registro Estatal del Delito de Tortura y el Registro Estatal de Víctimas, en el ámbito de sus competencias; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+III. Procurar la correspondencia de los datos inscritos en el Registro Nacional del Delito de Tortura, el Registro Nacional de Víctimas, el Registro Estatal del Delito de Tortura y el registro de víctimas de la Fiscalía, en el ámbito de sus competencias; y
 
 IV. Las demás que se señalen en el reglamento de la presente Ley y en otras disposiciones legales aplicables.
 
@@ -1741,7 +1751,9 @@ XI. Determinar o, en su caso, solicitar la acumulación o la separación de proc
 
 XII. Interponer los medios de impugnación que procedan, en contra de las resoluciones dictadas por las autoridades jurisdiccionales que correspondan, en términos de lo dispuesto por las normas aplicables;
 
-XIII. Procurar que las víctimas o los ofendidos de los hechos presuntamente constitutivos de delito reciban ayuda inmediata, atención médica, psicológica y asistencia social de urgencia, así como la reparación integral del daño y el acceso a los derechos a la verdad y a la justicia, en términos de lo dispuesto por la Ley General de Víctimas, la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes, el Código Nacional, la Ley de Ejecución y las demás normas que sean aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+
+XIII. Procurar que las víctimas o los ofendidos de los hechos presuntamente constitutivos de delito reciban ayuda inmediata, atención médica, psicológica y asistencia social de urgencia, así como la reparación integral del daño y el acceso a los derechos a la verdad y a la justicia, en términos de lo dispuesto por la Ley General de Víctimas, la Ley de Víctimas del Estado de Aguascalientes, el Código Nacional, la Ley de Ejecución y las demás normas que sean aplicables;
 
 XIV. Solicitar, implementar y dar seguimiento a las medidas necesarias para la protección de las víctimas, los ofendidos, los testigos y de todos los sujetos que intervengan en el procedimiento penal, en términos de lo dispuesto por el Código Nacional, en la Ley para la Protección de las Personas que Intervienen en el Enjuiciamiento Penal para el Estado de Aguascalientes y las demás normas aplicables;
 
@@ -2696,3 +2708,53 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
+
+P.O. 29 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 74.- SE EXPIDE LA LEY DE VÍCTIMAS DEL ESTADO DE AGUASCALIENTES Y SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes emitida a través del Decreto 165 y publicada en el Periódico Oficial del Estado de Aguascalientes el 20 de abril de 2009, así como sus subsecuentes reformas.
+
+El Fondo de Atención a Víctimas u Ofendidos del Delito de la Fiscalía General del Estado, establecido en la Ley que se abroga en el presente Decreto, seguirá operando, mantendrá el patrimonio con el cual fue constituido y además se seguirá integrando con los recursos que deriven de los conceptos por el que se constituyó.
+
+El Fondo de Atención a Víctimas u Ofendidos del Delito de la Fiscalía General del Estado operará en términos de la normatividad que para tal efecto expida su titular, y en atención al Artículo 157 Quinquies de la Ley General de Víctimas, y al Presupuesto de Egresos del Estado de Aguascalientes correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo del Estado de Aguascalientes deberá hacer las previsiones presupuestales necesarias ante el Congreso del Estado para la operación del presente Decreto.
+
+El Congreso del Estado de Aguascalientes deberá garantizar el presupuesto necesario al Ejecutivo del Estado para el cumplimiento de las disposiciones establecidas en el presente Decreto, en el Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal 2022.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas del Estado podrá realizar las reasignaciones correspondientes al Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2022 para efecto de la administración y operación del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+El titular del Poder Ejecutivo del Estado de Aguascalientes, emitirá dentro de los 180 días siguientes a la publicación del presente Decreto, el Reglamento de la Ley de Víctimas del Estado de Aguascalientes.
+
+Las demás Autoridades en el Estado, deberán adecuar sus disposiciones legales y normativas dentro de los 180 días siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Sistema de Atención Integral a Víctimas del Estado de Aguascalientes a que se refiere el presente Decreto deberá instalarse dentro de los 90 días naturales a partir de la entrada en vigor del propio Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cualquier referencia realizada al organismo desconcentrado denominado Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, adscrito a la Secretaría General de Gobierno del Estado, en otros ordenamientos legales, se entenderá hecha a la Comisión de Atención a Víctimas del Estado de Aguascalientes, de igual forma, los actos administrativos, jurídicos y financieros que se hubieran celebrado por el referido órgano subsistirán en sus términos para que su ejecución, seguimiento y consecución sea realizada por la Comisión de Atención a Víctimas del Estado de Aguascalientes.
+
+###### ARTÍCULO OCTAVO.
+
+El personal adscrito al organismo desconcentrado denominado Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, adscrito a la Secretaría General de Gobierno del Estado, que ahora integren la Comisión de Atención a Víctimas del Estado de Aguascalientes conservarán sus derechos laborales.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría General de Gobierno del Estado deberá emitir las Reglas de Operación del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes, así como los tabuladores dentro de un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
+
+ARTÍCULO DÉCIMO Se derogan todas las disposiciones que contravengan el presente Decreto.
