@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2021-11-12"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3465,7 +3465,7 @@ Tipo y punibilidad.- Al que provoque públicamente a cometer un delito o haga ap
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 250.
 
@@ -3555,7 +3555,9 @@ Pena adicional para el delito cometido por medio de vehículo, motor o maquinari
 
 ###### Artículo 255.
 
-Tipo y Punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, no será castigado la primera vez cuando no haya provocado daño en las personas o en las cosas, pero la autoridad aprehensora lo presentará ante la Autoridad Administrativa Municipal que determinen los reglamentos, quien le formará registro para establecer antecedente, apercibiéndole formalmente de que si incurre de nuevo en esta conducta dentro del plazo de dos años, será consignado a la autoridad judicial.
+Tipo y Punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, no será castigado la primera vez cuando no haya provocado daño en las personas o en las cosas, pero la autoridad aprehensora lo presentará ante la Autoridad Administrativa Municipal que determinen los reglamentos, quien le formará registro para establecer antecedente, apercibiéndole formalmente de que si incurre de nuevo en esta conducta dentro del plazo de tres años, será consignado a la autoridad judicial, y de resultar responsable, además de la penalidad prevista por el último párrafo de este artículo, se le someterá a la medida de seguridad de tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópico, conforme a lo previsto por los artículos 55, fracción II y 60 de este Código.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 En todos los casos la Autoridad Administrativa remitirá copia certificada de las constancias que integren el registro en que formó el antecedente, a la Agencia del Ministerio Público.
 
@@ -6275,13 +6277,11 @@ P.O. 12 DE NOVIEMBRE DE 2021.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 867 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 80 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+P.O. 30 DE DICIEMBRE DE 2021.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 37 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 255 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
-
-P.O. 9 DE MAYO DE 2024.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 875 POR EL QUE SE REFORMA EL ARTÍCULO 28 BIS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
