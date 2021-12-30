@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2018-03-28"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -1219,7 +1219,9 @@ En los casos de los Poderes Legislativo y Judicial y los organismos autónomos, 
 
 Las Dependencias y Entidades remitirán a la Secretaría, dentro de los primeros diez días de cada mes, un informe mensual sobre los recursos fiscales, crediticios y provenientes de transferencias federales, que se encuentren comprometidos al cierre del mes inmediato anterior. En el caso de que éstos no se encuentren debidamente formalizados, la Secretaría podrá reasignar los recursos que no se encuentren comprometidos.
 
-Las Dependencias y Entidades tendrán como fecha límite para establecer compromisos con cargo al presupuesto de egresos a más tardar el 31 de octubre tratándose de obra pública por contrato y el 15 de noviembre para el resto de los conceptos de gasto.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Las Dependencias y Entidades tendrán como fecha límite para establecer compromisos con cargo al presupuesto de egresos a más tardar el 10 de diciembre, tratándose de obra pública por contrato, y el 20 de diciembre, para el resto de los conceptos del gasto.
 
 Quedan exceptuados del plazo anterior los compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos, así como los recursos fiscales que sirvan como contra parte (sic) para su ejecución, en cuyo caso las fechas de cierre de compromiso únicamente se sujetarán a lo dispuesto en los ordenamientos que rijan su transferencia y operación.
 
@@ -1389,9 +1391,11 @@ Queda prohibido realizar erogaciones, así como constituir o participar en fidei
 
 De los movimientos que se efectúen en los términos de este artículo, se informará en la Cuenta Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 93.
 
-Los recursos remanentes de los ejercicios anteriores serán considerados ingresos y deberán destinarse a mejorar preferentemente el balance fiscal, a la inversión productiva y al mejoramiento de los servicios públicos básicos, excepto los remanentes federales que tengan un fin específico y recursos de crédito, los cuales se sujetarán a las disposiciones federales aplicables.
+Los recursos remanentes de los ejercicios anteriores serán considerados ingresos y deberán destinarse a mejorar preferentemente el balance fiscal, a la inversión productiva y al mejoramiento de los servicios públicos que preste el estado, excepto los remanentes federales que tengan un fin específico y los recursos de crédito, los cuales se sujetarán a las disposiciones federales aplicables.
 
 No es aplicable lo dispuesto en este artículo, tratándose de recursos presupuestales transferidos con el carácter de aportaciones al patrimonio propio de las entidades, así como aquellos que se afecten a los fines del fideicomiso público.
 
@@ -2794,3 +2798,11 @@ El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prest
 Cuarto. Obligación normativa
 
 El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 444/2021 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
