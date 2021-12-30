@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2020-10-26"
+last_updated: "2021-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -47,9 +47,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-Esta ley tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado. Los órganos jurisdiccionales de dicha administración conocerán de asuntos civiles, extinción de dominio, mercantiles en jurisdicción concurrente, familiares, penales, de justicia integral para adolescentes del fuero común y, en su caso, de los acuerdos reparatorios o convenios que resulten de los mecanismos alternativos de solución de controversias, promoviendo su uso de acuerdo con la legislación en la materia. Conocerán de asuntos del orden federal, cuando la ley los faculte expresamente para ello.
+Esta ley tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado. Los órganos jurisdiccionales de dicha administración conocerán de asuntos civiles, extinción de dominio, mercantiles en jurisdicción concurrente, familiares, laborales, penales, de justicia integral para adolescentes del fuero común y, en su caso, de los acuerdos reparatorios o convenios que resulten de los mecanismos alternativos de solución de controversias, promoviendo su uso de acuerdo con la legislación en la materia. Conocerán de asuntos del orden federal, cuando la ley los faculte expresamente para ello.
 
 ###### Artículo 2.
 
@@ -253,9 +255,17 @@ XIV. La adscripción de los Magistrados cuando se elija nuevo Presidente y Conse
 
 XV. Recibir las quejas que se presenten en contra de los integrantes del Consejo, realizar las actuaciones o diligencias para mejor proveer y, en su caso, enviar al Congreso del Estado la información correspondiente para efectos de lo establecido en el Título Cuarto de la Constitución;
 
-XVI. Cualquier otro asunto de la competencia del Supremo Tribunal, cuyo conocimiento no corresponda a las salas del mismo, ni al Consejo, por disposición expresa de ley; y,
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XVII. Las demás que le asignen la Constitución y las leyes.
+XVI. Cualquier otro asunto de la competencia del Supremo Tribunal, cuyo conocimiento no corresponda a las salas del mismo, ni al Consejo, por disposición expresa de ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XVII. Las recusaciones con causa en asuntos de carácter laboral, de los jueces especializados en materia laboral; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Las demás que le asignen la Constitución y las leyes.
 
 ###### Artículo 15.
 
@@ -581,9 +591,11 @@ El Consejo también podrá habilitar a jueces de control y tribunales de enjuici
 
 ### Capítulo Segundo. Primera Instancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 39.
 
-Los juzgados de Primera Instancia conocerán de todos los negocios que no sean de la competencia de los juzgados menores o comunales. El Consejo determinará las materias de que conocerá cada uno, pudiendo determinar la existencia de juzgados mixtos, de instrucción así como jueces de oralidad en las materias civil, familiar y mercantil, cuando la carga de trabajo especializado de la materia lo requiera y lo permita el presupuesto.
+Los juzgados de Primera Instancia conocerán de todos los negocios que no sean de la competencia de los juzgados menores o comunales. El Consejo determinará las materias de que conocerá cada uno, pudiendo determinar la existencia de juzgados mixtos, de instrucción, así como jueces de oralidad en las materias civil, familiar, mercantil y laboral, cuando la carga de trabajo especializado de la materia lo requiera y lo permita el presupuesto.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
@@ -595,11 +607,15 @@ En materia penal la primera instancia corresponde además a los juzgados de cont
 
 También son jueces de primera instancia los jueces de control y tribunal de enjuiciamiento en justicia penal para adolescentes y los de ejecución de sanciones penales.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Son Jueces de primera instancia los jueces especializados en materia laboral.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 39 Bis.
 
-Los jueces de oralidad en las materias civil, penal, familiar y mercantil, tendrán fe pública, en todas aquellas audiencias y diligencias orales que les corresponda presidir con motivo de sus funciones en esta modalidad.
+Los jueces de oralidad en las materias civil, penal, familiar, mercantil y laboral, tendrán fe pública, en todas aquellas audiencias y diligencias orales que les corresponda presidir con motivo de sus funciones en esta modalidad.
 
 ###### Artículo 40.
 
@@ -686,6 +702,44 @@ III. Los demás asuntos mercantiles que determine el Consejo.
 ###### Artículo 44.
 
 Los juzgados de Primera Instancia que conozcan de la materia penal serán competentes para todos los delitos que no correspondan a los juzgados menores o comunales, así como de los recursos y demás diligencias que les encomiende la normatividad procesal penal aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 44 Bis.
+
+Los juzgados de primera instancia especializados en materia laboral, conocerán de todos aquellos conflictos que el artículo 123, apartado A, fracción XXXI, de la Constitución Política de los Estados Unidos Mexicanos, que (sic) no tenga reservados como competencia del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 44 Ter.
+
+Los Juzgados de primera instancia especializados en materia laboral, se integrarán con un juez, un secretario instructor y los secretarios.
+
+Así como los empleados que estime conveniente el Consejo, conforme a la Ley Federal de Trabajo y de acuerdo a su capacidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 44 Quater.
+
+El número de juzgados especializados en materia laboral, así como su competencia territorial, será determinada por el Consejo según la necesidad y capacidad presupuestal disponible.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 44 Quinquies.
+
+Las Funciones del Secretario Instructor serán dentro de la fase escrita del procedimiento y hasta antes de la Audiencia Preliminar, dictando los siguientes acuerdos:
+
+I. Admitir o prevenir la demanda y en su caso subsanarla conforme a las normas del trabajo;
+
+II. Ordenar la notificación del demandado;
+
+III. Ordenar las vistas, traslados y notificaciones;
+
+IV. Admitir y en su caso proveer respecto de las pruebas ofrecidas para acreditar las excepciones y defensas;
+
+V. Dictar las providencias precautorias contempladas en la Ley; y,
+
+VI. Las demás que el Juez ordené, así como las contempladas en la Ley Federal del Trabajo.
 
 ###### Artículo 45.
 
@@ -1621,25 +1675,31 @@ VI. El mantenimiento de las redes y equipos de cómputo a fin de apoyar el desem
 
 VII. Las demás que los reglamentos y manuales le encomienden.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 112.
 
-En el archivo judicial se recopilará, administrará y respaldará digitalmente la información siguiente:
+En el Archivo Judicial se recopilará, administrará y respaldará digitalmente la información siguiente:
 
-I. Todos los expedientes y registros de los asuntos del orden civil, mercantil, familiar y penal concluido por las salas y juzgados;
+I. Todos los expedientes y registros de los asuntos del orden civil, mercantil, familiar, laboral y penal concluido por las salas y juzgados;
 
-II. Los expedientes o registros en materia civil, mercantil o familiar en los que se haya dejado de promover por más de noventa días;
+II. Los expedientes o registros en materia, civil, mercantil o familiar en los que se haya dejado de promover por más de noventa días;
 
-III. Un ejemplar de cada número del Diario Oficial de la Federación, el Periódico Oficial, así como de las leyes, decretos y reglamentos expedidos por las autoridades estatales; y,
+III. Los expedientes o registros en materia laboral en los que se haya dejado de promover por el término que establece la Ley Federal del Trabajo;
 
-IV. Los demás documentos que las leyes y el reglamento respectivo determinen.
+IV. Un ejemplar de cada número del Diario Oficial de la Federación, del Periódico Oficial, así como de las leyes, decretos y reglamentos expedidos por las autoridades estatales; y,
 
-Esta información se regirá bajo los principios y condiciones señalados en la normatividad de acceso a la información pública.
+V. Los demás documentos que las leyes y el reglamento respectivo determinen.
+
+Esta información se regirá bajo los principios y condiciones señalados en la normatividad de acceso a la información pública y la comprendida en la normatividad en materia de archivos.
 
 El reglamento respectivo determinará la forma y términos de los registros, índices y libros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 113.
 
-Los expedientes o registros en papel depositados en el Archivo Judicial y que carezcan de valor histórico conforme a los criterios establecidos en el reglamento respectivo, por tratarse de juicios o procesos definitivamente concluidos, en materia civil, mercantil, familiar y penal, así como aquellos en que se hubiere desechado la demanda, se destruirán pasados seis meses a partir de que se haya determinado que carece de valor histórico. De esta información se mantendrá su respaldo digital.
+Los expedientes o registros en papel depositados en el Archivo Judicial y que carezcan de valor histórico conforme a los criterios establecidos en la legislación en materia de archivos y el reglamento respectivo, por tratarse de juicios o procesos definitivamente concluidos, en materia laboral, civil, mercantil, familiar y penal, así como aquellos en que se hubiere desechado la demanda, se destruirán pasados seis meses a partir de que se haya determinado que carece de valor histórico. De esta información se mantendrá su respaldo digital.
 
 Los expedientes o registros de los juicios o procesos concluidos en papel, que no se encuentren en ninguno de los supuestos establecidos en la fracción anterior serán analizados por una comisión de especialistas, quienes realizarán un dictamen de cada expediente, en el que determinarán cuáles son susceptibles de ser destruidos, por carecer de valor histórico. De esta información se mantendrá su respaldo digital.
 
@@ -1663,6 +1723,8 @@ El ingreso, permanencia y promoción de los servidores públicos del Poder Judic
 
 El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concurso de oposición.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 117.
 
 La Carrera Judicial está integrada por las siguientes categorías:
@@ -1675,15 +1737,17 @@ III. Secretario Proyectista de Sala;
 
 IV. Secretario de Acuerdos de Juzgado;
 
-V. Secretario Proyectista de Juzgado;
+V. Secretario Instructor;
 
-VI. Oficial de Sala;
+VI. Secretario Proyectista de Juzgado;
 
-VII. Jueces menores o comunales;
+VII. Oficial de Sala;
 
-VIII. Actuario o Notificador; y,
+VIII. Jueces menores o comunales;
 
-IX. Escribiente.
+IX. Actuario o Notificador; y,
+
+X. Escribiente.
 
 ### Capítulo Segundo. Concurso de Oposición
 
@@ -1933,13 +1997,17 @@ Las ausencias accidentales y temporales hasta por seis meses de los siguientes s
 
 I. Las del Secretario General de Acuerdos del Supremo Tribunal; por quien cumpliendo los requisitos designe el Presidente del Supremo Tribunal de Justicia;
 
-II. Las del Juez, en el sistema tradicional penal y en los juzgados civiles por el Secretario de Acuerdos; y en los que hubiere dos o más, por el de mayor antigüedad en el servicio; en tanto que en el sistema penal acusatorio y oral lo será el que designe el Consejo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+II. Las del Juez, en el sistema tradicional penal y en los juzgados civiles y laborales por el secretario de Acuerdos; y en los que hubiere dos o más, por el de mayor antigüedad en el servicio; en tanto que en el sistema penal acusatorio y oral lo será el que designe el Consejo;
 
 III. Las del Secretario de Acuerdos y del Actuario de Sala, por el Oficial de la misma;
 
 IV. Las del Oficial de Sala, por el Escribiente que determine el Magistrado;
 
-V. Las del Secretario, por otro de ellos si hubiere dos o más; si sólo hubiere uno, por el actuario; y, a falta de éste, por uno de los escribientes con mayor antigüedad en el servicio;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+V. Las del secretario, por otro de ellos si hubiere dos o más; si sólo hubiere uno, por el actuario; y, a falta de éste, por uno de los escribientes con mayor antigüedad en el servicio. La suplencia del secretario instructor se hará en los mismos términos señalados en esta fracción.
 
 VI. Las del actuario y notificador en el sistema tradicional, por el escribiente de mayor antigüedad; y,
 
@@ -1949,7 +2017,9 @@ VII. Las de los demás servidores públicos del Poder Judicial, por quien design
 
 Si el Secretario que sustituye al Juez es Licenciado en Derecho, podrá ser autorizado por el Consejo para dictar resoluciones incidentales y también aquellas que pongan fin a la instancia.
 
-En el caso de que el Secretario no sea Licenciado en Derecho, sólo podrá ser autorizado para dictar resoluciones que pongan fin a la instancia en los casos de desistimiento, perdón del ofendido o de su representante legítimo y cuando el Ministerio Público formule conclusiones no acusatorias, en el sistema penal tradicional, juzgados civiles y familiares.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En el caso de que el secretario no sea Licenciado en Derecho, sólo podrá ser autorizado para dictar resoluciones que pongan fin a la instancia en los casos de desistimiento, perdón del ofendido o de su representante legítimo y cuando el Ministerio Público formule conclusiones no acusatorias, en el sistema penal tradicional, juzgados civiles, familiares y laborales.
 
 El Secretario actuará con otro de igual categoría, si lo hubiere; con el Actuario y a falta de éstos, con al menos dos testigos de asistencia.
 
@@ -2318,3 +2388,19 @@ P.O. 26 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 357 POR EL QUE “SE ADICIONAN LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 2 Y LA FRACCIÓN XLVI AL ARTÍCULO 90, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN”.]
 
 UìNICO (SIC). El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 61 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1, 14 FRACCIONES XVI Y XVII, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, 39 BIS, 112, 113 PRIMER PÁRRAFO, 117, 154 FRACCIONES II Y V; Y EL ARTÍCULO 155 PÁRRAFO SEGUNDO; Y, SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 14, EL QUINTO PÁRRAFO AL ARTÍCULO 39, LOS ARTÍCULOS 44 BIS, 44 TER, 44 QUÁTERY 44 QUINQUIES, TODOS DE LA LEY ÓRGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN, PARA QUEDAR COMO SIGUEN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los Juzgados Laborales en el Estado de Michoacán de Ocampo, iniciarán funciones el día 1 de mayo del año 2022.
+
+Tercero. El Consejo del Poder Judicial del Estado tendrá a su cargo la determinación del número de Juzgados de Primera Instancia especializados en materia laboral, su integración, así como su competencia territorial, la instalación de los mismos será de forma gradual primeramente en aquellas regiones con alta incidencia de procesos laborales y de acuerdo a la disponibilidad presupuestaria.
+
+Cuarto. La selección del personal de los Juzgados Laborales del Estado, se hará respetando el principio de paridad de género y las convocatorias, de carácter público y abierto, del poder Judicial del Estado. En la oportuna temporalidad establecida en el artículo segundo transitorio del presente Decreto.
+
+Quinto. El Poder Judicial del Estado, deberá armonizar su reglamentación al presente Decreto, en un término no mayor a 60 días naturales, a partir de su publicación.
+
+Sexto. El Poder Ejecutivo Estatal y el H. Congreso del Estado de Michoacán de Ocampo realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros para el ejercicio fiscal 2021 que permitan el cumplimiento del presente Decreto.
