@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2020-12-30"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -269,13 +269,55 @@ Se considera empresa la persona física o moral que realice las actividades a qu
 
 El valor de los ingresos que se perciban por bienes y servicios se considerará en moneda nacional, a la fecha de la percepción o erogación, de conformidad con la cotización o valor que prevalezca en el mercado, y en su defecto se atenderá al avalúo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+###### Artículo 20-A.
+
+Para efectos fiscales, los avalúos vinculados con las contribuciones establecidas en las leyes tributarias deberán solicitarse previo al otorgamiento del acto de enajenación de bienes inmuebles que las cause y podrán ser practicados por la autoridad fiscal y además por los peritos valuadores siguientes:
+
+I. Las personas físicas que realicen avalúos y cumplan los requisitos previstos en el artículo 175 quáter de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+
+II. Las instituciones de crédito;
+
+III. Las sociedades civiles o mercantiles cuyo objeto específico sea la realización de avalúos, y
+
+IV. Los corredores públicos, con registro o habilitación vigente ante la Secretaría de Economía.
+
+Las personas a quienes se refieren las fracciones anteriores deberán contar con registro vigente en el Padrón de Peritos Valuadores del Estado de Yucatán ante la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+Las personas inscritas en el Padrón de Peritos Valuadores del Estado de Yucatán deberán obtener la validación de cada uno de los avalúos que elaboren para fines fiscales, de conformidad con este código, la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y demás disposiciones aplicables.
+
+Las personas físicas que realicen avalúos a que hace referencia la fracción I serán independientes, y podrán suscribir y realizar avalúos, o podrán fungir como auxiliares de las personas morales a que se refieren las fracciones II y III que anteceden y solo lo harán bajo el respaldo de una institución de crédito, sociedad civil o mercantil a que hacen referencia dichas fracciones.
+
+Las instituciones de crédito, así como las sociedades civiles o mercantiles a que se refieren las fracciones II y III de este artículo, deberán apoyarse para la suscripción y realización de avalúos en los peritos valuadores auxiliares o independientes inscritos en el Padrón de Peritos Valuadores del Estado de Yucatán ante la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, de conformidad con las disposiciones aplicables.
+
+Las personas a que se refieren las fracciones I, II, III y IV de este artículo deberán presentar los avalúos que practiquen, a través de los medios que establezca el Instituto de Seguridad Jurídica Patrimonial de Yucatán, de conformidad con las disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 20-B.
+
+Los avalúos que no reúnan los requisitos a que se refiere este Código, la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán, no producirán efectos fiscales por lo que tendrá que solicitarse un nuevo avalúo en términos de este código.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 20-C.
+
+Los avalúos, para efectos fiscales, tendrán una vigencia de seis meses, contados a partir de la fecha en que se expidan, salvo que durante ese período los inmuebles objeto del avalúo sufran modificaciones que impliquen una variación en las características físicas del inmueble, situación en la que deberá realizarse un nuevo avalúo del predio y someterse nuevamente a validación por parte del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+El fedatario público que formalice una operación con un avalúo de un predio que haya sufrido las variaciones a que se refiere el párrafo anterior, no tendrá responsabilidad solidaria ni obligación alguna, siempre y cuando en la escritura pública, las partes que participen en la referida operación manifiesten, bajo protesta de decir verdad, que el inmueble respecto del cual se elaboró el avalúo no ha sufrido variaciones. Lo anterior, sin perjuicio de que la autoridad fiscal ejerza las facultades que correspondan con la parte enajenante del inmueble, derivadas de las posibles diferencias en las contribuciones que resulten.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 20-D.
+
+Lo previsto en los artículos 20-A, 20-B y 20-C no será aplicable a los avalúos que se realicen para la determinación del valor de los bienes objeto de la garantía del interés fiscal, así como para la determinación de su valor en el procedimiento administrativo de ejecución realizado por las autoridades fiscales en términos de este código y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21.
 
-Cuando las leyes fiscales estatales hagan referencia al salario mínimo o a la unidad de medida y actualización, se entenderá al salario mínimo vigente o a la unidad de medida y actualización, en su valor actualizado, respectivamente.
+Cuando las leyes fiscales estatales hagan referencia al salario mínimo o a la UMA, se entenderá que se refieren al salario mínimo vigente o a la unidad de medida y actualización, en su valor actualizado, respectivamente.
 
 ###### Artículo 22.
 
@@ -845,7 +887,9 @@ A petición del contribuyente, la Agencia de Administración Fiscal de Yucatán 
 
 Las declaraciones, avisos y solicitudes de inscripción en el Registro Estatal de Contribuyentes y demás documentos que exijan las disposiciones fiscales podrán ser presentados en la oficina de la propia Agencia de Administración Fiscal de Yucatán, en sus oficinas recaudadoras, de acuerdo con la ubicación del domicilio fiscal del contribuyente, pudiendo hacer la presentación en cualquier otra oficina que autorice la propia Agencia o a través de los medios electrónicos que al efecto señale la autoridad mediante reglas de carácter general. También podrán enviarse por medio del servicio postal en pieza certificada o mensajería con acuse de recibo. En estos últimos casos se tendrá como fecha de presentación la del día en que se haga la entrega a las agencias de correo o mensajería correspondientes.
 
-Las oficinas a que se refiere el párrafo anterior recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contenga el nombre del contribuyente, su clave de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos, o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Las oficinas a que se refiere el párrafo anterior recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contenga el nombre del contribuyente, su clave de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos, o tratándose de declaraciones, estas contengan errores aritméticos o no se adjunte la información relativa a la validación del avalúo respectivo. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios, lo anterior sin perjuicio del ejercicio de las facultades de comprobación que correspondan.
 
 ###### Artículo 46.
 
@@ -1395,11 +1439,43 @@ Las autoridades fiscales que al ejercer las facultades de comprobación a que se
 
 Cuando las autoridades fiscales conozcan de terceros hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere el artículo 71, le darán a conocer al incumplido el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro del plazo a que se refiere la fracción VI del citado artículo 71.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 75.
 
-Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes que tengan repercusiones para contribuciones locales, siempre que reúnan los requisitos establecidos en las disposiciones de carácter general que emita la Agencia de Administración Fiscal de Yucatán.
+Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por los contadores públicos sobre los estados financieros de los contribuyentes, que tengan repercusiones para contribuciones locales, siempre que reúnan los requisitos establecidos en las disposiciones de carácter general que emita la Agencia de Administración Fiscal de Yucatán y los siguientes:
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+I. Que el contador público esté registrado ante la Agencia de Administración Fiscal de Yucatán, para lo cual deberá acreditar que cumple los siguientes requisitos:
+
+a) Ser de nacionalidad mexicana;
+
+b) Tener título profesional de contador público registrado ante la Secretaría de Educación Pública;
+
+c) Ser miembro de un colegio profesional o asociación, en ambos casos, de contadores públicos reconocidos por la Secretaría de Educación Pública, con una antigüedad no menor a tres años a la fecha de presentación de la solicitud del registro respondiente;
+
+d) Estar inscrito en el Registro Estatal de Profesionistas;
+
+e) Contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública y que cuenten con el certificado de idoneidad emitido por esta;
+
+f) Tener experiencia mínima de tres años participando en la elaboración de dictámenes fiscales, a la fecha de presentación de la solicitud de registro correspondiente, y
+
+g) Los demás que establezca la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
+
+Adicionalmente, podrán obtener el registro ante la Agencia de Administración Fiscal de Yucatán las personas extranjeras con derecho a dictaminar conforme a los tratados internacionales de que México sea parte, siempre que acrediten que cuentan con este derecho.
+
+Los contadores públicos serán dados de baja del registro que lleva la Agencia de Administración Fiscal de Yucatán en términos de esta fracción, cuando no formulen dictamen sobre las contribuciones estatales de las personas físicas, morales o unidades económicas en un periodo de cinco años, contado a partir de la presentación del último dictamen formulado el contador público.
+
+Una vez que se dé de baja al contador público del registro, la Agencia de Administración Fiscal de Yucatán le dará aviso por escrito inmediatamente, así como al colegio profesional o a la asociación de contadores públicos al que pertenezca. El contador público podrá solicitar a la referida agencia que deje sin efectos la baja del registro antes citado, siempre que lo solicite por escrito en un plazo de 30 días hábiles posteriores a la fecha en que reciba el aviso a que se refiere este párrafo.
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+II. Que el dictamen que emita el contador público se formule conforme a las normas de auditoría que regulan la capacidad, independencia e imparcialidad de ese profesional respecto al trabajo que desempeña y la información que rinda como resultado de este, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+III. Que el contador público emita, conjuntamente con su dictamen y bajo protesta de decir verdad, un informe sobre la revisión de la situación fiscal del contribuyente.
 
 Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 
@@ -1885,19 +1961,19 @@ III. No citar la clave del registro, o utilizar alguna no asignada por la autori
 
 IV. Señalar como domicilio fiscal para efectos del Registro Estatal de Contribuyentes, un lugar distinto del que corresponda conforme al artículo 13 de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 105.
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes a que se refiere el artículo 104, se le impondrá multa de acuerdo con lo siguiente:
 
-I. De $1,220.00 a $3,670.00, a las comprendidas en las fracciones I, II y IV, y
+I. De 20 a 62 UMA, a las comprendidas en las fracciones I, II y IV.
 
 II. Para la señalada en la fracción III:
 
-a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $2,600.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $1,040.00 ni mayor de $2,600.00, y
+a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y 44 UMA. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de 17 UMA ni mayor de 44 UMA.
 
-b) De $315.00 a $725.00, en los demás documentos.
+b) De 5 a 12 UMA, en los demás documentos.
 
 ###### Artículo 106.
 
@@ -1921,13 +1997,23 @@ VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos 
 
 VII. No proporcionar la información a que se refiere el último párrafo del artículo 29 de este Código, en los plazos que establecen las disposiciones fiscales;
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-VIII. No adherir a las máquinas de juegos o equipo que corresponda el holograma a que se refiere el artículo 85-M de la Ley General de Hacienda del Estado de Yucatán, y
+VIII. No adherir a las máquinas de juegos o equipo que corresponda el holograma a que se refiere el artículo 85-M de la Ley General de Hacienda del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-IX. No presentar el aviso a que se refiere la fracción IV del artículo 85-N de la Ley General de Hacienda del Estado de Yucatán.
+IX. No presentar el aviso a que se refiere la fracción IV del artículo 85-N de la Ley General de Hacienda del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+X. No presentar los avisos a los que se refieren las fracciones I y II del artículo 27 J de la Ley General de Hacienda del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XI. No presentar el aviso a que se refiere el artículo 27 K de la Ley General de Hacienda del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 107.
 
@@ -1935,49 +2021,41 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para las señaladas en las fracciones I y II:
 
-a) De $490.00 a $6,120.00 tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso;
+a) De 8 a 103 UMA, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella, declarando contribuciones adicionales por dicha declaración, también se aplicará la multa a que se refiere este inciso.
 
-b) De $490.00 a $12,240.00 por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento;
+b) De 8 a 205 UMA, por cada obligación a que esté afecto al presentar una declaración, solicitud, aviso o constancia fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
-c) De $4,695.00 a $9,385.00 por no presentar el aviso a que se refiere el segundo párrafo del artículo 34 de este Código, y
+c) De 79 a 157 UMA, por no presentar el aviso a que se refiere el párrafo segundo del artículo 34 de este Código.
 
-d) De $505.00 a $1,605.00 en los demás documentos;
+d) De 8 a 27 UMA, en los demás documentos.
 
 II. Respecto de la infracción señalada en la fracción III:
 
-a) De $365.00 a $1,220.00 por no poner el nombre o domicilio, o ponerlos equivocadamente, por cada uno;
+a) De 6 a 20 UMA, por no poner el nombre o domicilio, o ponerlos equivocadamente, por cada uno.
 
-b) De $65.00 a $120.00 por cada dato no asentado o asentado incorrectamente;
+b) De 1 a 2 UMA, por cada dato no asentado o asentado incorrectamente.
 
-c) De $245.00 a $610.00 por no señalar la actividad preponderante conforme al catálogo vigente, o señalarla equivocadamente;
+c) De 4 a 10 UMA, por no señalar la actividad preponderante conforme al catálogo vigente, o señalarla equivocadamente.
 
-d) De $445.00 a $1,330.00 por presentar las declaraciones sin la firma del contribuyente o del representante legal debidamente acreditado, y
+d) De 7 a 22 UMA, por presentar las declaraciones sin la firma del contribuyente o del representante legal debidamente acreditado.
 
-e) De $225.00 a $600.00, en los demás casos;
+e) De 4 a 10 UMA, en los demás casos.
 
-III. De $490.00 a $12,240.00, tratándose de las señaladas en la fracción IV, por cada requerimiento;
+III. De 8 a 205 UMA, tratándose de las señaladas en la fracción IV, por cada requerimiento.
 
-IV. De $6,120.00 a $12,240.00, respecto de la señalada en la fracción V;
+IV. De 103 a 205 UMA, respecto de la señalada en la fracción V.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+V. De 20 a 62 UMA, tratándose de la señalada en la fracción VI.
 
-V. De $1,220.00 a $3,670.00, tratándose de la señalada en la fracción VI;
+VI. De 62 a 205 UMA, tratándose de la señalada en la fracción VII.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+VII. De 84 a 251 UMA, tratándose de la señalada en la fracción VIII.
 
-VI. De $3,670.00 a $12,240.00, tratándose de la señalada en la fracción VII;
+VIII. De 84 a 168 UMA, tratándose de la señalada en la fracción IX.
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+IX. De 132 a 395 UMA, tratándose de la señalada en la fracción X, por cada aviso.
 
-VII. De $5,000.00 a $15,000.00 tratándose de la señalada en la fracción VIII;
-
-Adicionalmente, la máquina de juegos o el equipo que se encuentre en el establecimiento mercantil de que se trate, sin ostentar el holograma correspondiente pasará a ser propiedad del Fisco Estatal para los efectos previstos en el artículo 85-O de la Ley General de Hacienda del Estado de Yucatán, y
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
-
-VIII. De $5,000.00 a $10,000.00, tratándose de la señalada en la fracción IX.
-
-Adicionalmente, la máquina de juegos o equipo que se instale en el establecimiento mercantil de que se trate sin haber presentado el aviso a que se refiere la fracción IV del artículo 85-N de la Ley General de Hacienda del Estado de Yucatán, pasará a ser propiedad del Fisco Estatal para los efectos previstos en el artículo 85-O de la citada Ley.
+X. De 164 a 329 UMA, tratándose de la señalada en la fracción XI.
 
 ###### Artículo 108.
 
@@ -2001,21 +2079,23 @@ VI. No expedir o no entregar comprobante de sus actividades, cuando las disposic
 
 VII. Grabar en medios magnéticos o en cualquier otro medio que autorice la Agencia de Administración Fiscal de Yucatán, documentación o información para efectos fiscales sin cumplir con los requisitos que establezcan las disposiciones relativas.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 109.
 
-A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 108, se impondrán las siguientes sanciones:
+A quien cometa las infracciones relacionadas con la obligación de llevar la contabilidad a que se refiere el artículo 108, se le impondrán las siguientes sanciones:
 
-I. De $535.00 a $5,335.00 a la comprendida en la fracción I;
+I. De 9 a 89 UMA, a la comprendida en la fracción I.
 
-II. De $115.00 a $2,665.00 a las establecidas en las fracciones II y III;
+II. De 2 a 45 UMA, a las establecidas en las fracciones II y III.
 
-III. De $115.00 a $2,135.00 a la señalada en la fracción IV;
+III. De 2 a 36 UMA, a la señalada en la fracción IV.
 
-IV. De $325.00 a $4,265.00 a la señalada en la fracción V;
+IV. De 5 a 71 UMA, a la señalada en la fracción V.
 
-V. De $6,305 a $34,500 a la señalada en la fracción VI, y
+V. De 106 a 578 UMA, a la señalada en la fracción VI.
 
-VI. De $1,070.00 a $5,335.00 a la establecida en la fracción VII. La multa procederá sin perjuicio de que los documentos grabados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+VI. De 18 a 89 UMA, a la establecida en la fracción VII. La multa procederá sin perjuicio de que los documentos grabados en contravención de las disposiciones fiscales carezcan de valor probatorio.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2033,11 +2113,11 @@ IV. No informar a la autoridad fiscal sobre la práctica o levantamiento del ase
 
 V. No levantar el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente conforme a lo previsto en los artículos 188, 201, 207 y 207 -A de este Código.
 
-> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 109-B.
 
-A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo, a que se refiere el artículo 109-A de este Código se le impondrá una multa de $6,120.00 a $12,240.00 respecto de las señaladas en las fracciones I a la V del propio artículo.
+A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo, a que se refiere el artículo 109-A de este Código se le impondrá una multa de 103 a 205 UMA, respecto de las señaladas en las fracciones I a la V del propio artículo.
 
 ###### Artículo 110.
 
@@ -2051,17 +2131,19 @@ III. No suministrar los datos e informes sobre clientes y proveedores que legalm
 
 IV. Declarar falsamente que cumplen los requisitos que señala el artículo 95 de este Código.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 111.
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 110, se impondrán las siguientes multas:
 
-I. De $6,120.00 a $18,360.00 a la comprendida en la fracción I;
+I. De 103 a 308 UMA, a la comprendida en la fracción I.
 
-II. De $535.00 a $22,100.00 a la establecida en la fracción II;
+II. De 9 a 370 UMA, a la establecida en la fracción II.
 
-III. De $1,160.00 a $29,025.00 a la establecida en la fracción III, y
+III. De 19 a 487 UMA, a la establecida en la fracción III.
 
-IV. De $2,655.00 a $4,225.00, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción IV.
+IV. De 45 a 71 UMA, sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción IV.
 
 ###### Artículo 112.
 
@@ -2075,9 +2157,11 @@ III. Exigir una prestación que no esté prevista en las disposiciones fiscales,
 
 IV. Revelar a terceros, en contravención a lo dispuesto por el artículo 93 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 113.
 
-Se sancionará con una multa de $46,780.00 a $62,370.00 a quien cometa infracciones a las disposiciones fiscales a que se refiere el artículo 112.
+Se sancionará con una multa de 784 a 1,045 UMA, a quien cometa infracciones a las disposiciones fiscales a que se refiere el artículo 112.
 
 ###### Artículo 114.
 
@@ -2089,13 +2173,17 @@ II. Colaborar en la alteración o la inscripción de cuentas, asientos o datos f
 
 III. Ser cómplice, en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 115.
 
-Se sancionará con una multa de $17,500.00 a $27,500.00 a quien cometa infracciones a las disposiciones fiscales a que se refiere el artículo 114.
+Se sancionará con una multa de 293 a 461 UMA, a quien cometa infracciones a las disposiciones fiscales a que se refiere el artículo 114.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 116.
 
-La infracción a las disposiciones fiscales, en forma diversa a las previstas en los demás artículos de este capítulo, se sancionará con multa de $115.00 a $1,120.00.
+La infracción a las disposiciones fiscales en forma diversa a las previstas en los demás artículos de este capítulo, se sancionará con multa de 2 a 19 UMA.
 
 ###### Artículo 117.
 
@@ -3950,3 +4038,33 @@ Este decreto entrará en vigor el 1 de enero de 2021, previa publicación en el 
 Artículo segundo. Derogación
 
 Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este decreto.
+
+D.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 443/2021 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE AVALÚOS, COMO PARTE DEL PAQUETE FISCAL 2022”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2022, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el artículo 20-K de la Ley General de Hacienda del Estado de Yucatán, que lo hará el 1 de febrero de 2022 y de lo establecido en el penúltimo párrafo del artículo 20-I; el párrafo tercero del artículo 20 J; la fracción XIV del artículo 68; de la Ley General de Hacienda del Estado de Yucatán; los párrafos tercero y último del artículo 20-A; los artículos 20-B y 20-C; y el último párrafo del artículo 45, del Código Fiscal del Estado de Yucatán; la fracción XI del artículo 125; las fracciones II, III, VI, VIII y IX del artículo 175 quinquies; los artículos 175 septies y 175 octies; el párrafo segundo del artículo 175 nonies; 175 decies; el párrafo segundo del artículo 200; y las fracciones VII, VIII y IX del artículo 201 de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán que lo harán el 15 de febrero de 2022.
+
+Segundo. Obligación normativa
+
+El Gobernador del Estado emitirá el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
+
+En tanto se emite el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán, el Instituto de Seguridad Jurídica Patrimonial de Yucatán utilizará la NMX-R-081-SCFI-2015 denominada Servicios-Servicios de Valuación-Metodología, para la validación de los avalúos comerciales que le presenten los peritos valuadores en términos de este decreto.
+
+Tercero. Obligación de inscribirse en el padrón
+
+Las personas que se refiere el artículo 175 ter de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán tendrán la obligación de inscribirse en el Padrón de Peritos Valuadores del Estado de Yucatán para obtener la validación de sus avalúos en términos de este decreto a partir del 1 de enero de 2022, previa publicación de la convocatoria que, al efecto, emita el Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+Cuarta. (sic) Emisión de la convocatoria
+
+El Instituto de Seguridad Jurídica Patrimonial de Yucatán, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 444/2021 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
