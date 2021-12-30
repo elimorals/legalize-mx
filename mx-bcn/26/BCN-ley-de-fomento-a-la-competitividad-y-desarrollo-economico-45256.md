@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2019-01-18"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -43,11 +43,15 @@ LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJ
 
 Las disposiciones de esta Ley son de observancia general en el Estado de Baja California, y tiene por objeto fomentar la competitividad y el desarrollo económico del Estado, a través de una Política de Desarrollo Empresarial sustentada en las Vocaciones Regionales, así como en el otorgamiento de Estímulos a la inversión privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de las Secretarías de Desarrollo Económico y de Planeación y Finanzas, así como a los Ayuntamientos dentro del ámbito de sus respectivas competencias, en coordinación con el sector privado.
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de las Secretarías de Economía Sustentable y Turismo y de Hacienda, así como a los Ayuntamientos dentro del ámbito de sus respectivas competencias, en coordinación con el sector privado.
 
-Para efectos de lo previsto en el párrafo anterior, las Secretarías de Desarrollo Económico y de Planeación y Finanzas, se coordinarán con las demás Dependencias del Estado y Entidades Paraestatales, cuyas atribuciones incidan en el cumplimiento del objeto de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Para efectos de lo previsto en el párrafo anterior, las Secretarías de Economía Sustentable y Turismo y de Hacienda, se coordinarán con las demás Dependencias del Estado y Entidades Paraestatales, cuyas atribuciones incidan en el cumplimiento del objeto de esta Ley.
 
 Las Secretarías a que se refiere el artículo anterior dentro de sus respectivos ámbitos de competencia, se encuentran facultadas para interpretar esta Ley y su Reglamento, así como para emitir las disposiciones de carácter general que resulten necesarias para su adecuado cumplimiento, mismas que deberán publicarse en el Periódico Oficial del Estado.
 
@@ -95,9 +99,9 @@ XII. Persona Adulta Mayor: Persona de 60 años de edad o más, que lo haga const
 
 XIII. Persona Egresada de Albergue, Casa Hogar o Institución de Asistencia Social para Niñas, Niños y Adolescentes: Toda persona que, al cumplir su mayoría de edad, se le expida constancia de haber concluido su estancia en un albergue, casa hogar o institución de asistencia social para niña, niño y adolescente, pública o privada que se encuentre debidamente registrada ante las autoridades competentes en el Estado, susceptible de ser contratada por una empresa;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XIV. Persona Productiva con Capacidades Diferentes: Toda persona que, como consecuencia de una o más deficiencias físicas, psíquicas o sensoriales, congénitas o adquiridas, permanentes o temporales, independientemente de la causa que las hubiera originado, vea limitada su capacidad educativa, laboral o de integración social, y dicha limitación sea reconocida por una institución pública competente, susceptible de ser contratada por una empresa;
+XIV. Persona Productiva con Discapacidad: Toda persona que, como consecuencia de una o más deficiencias físicas, psíquicas o sensoriales, congénitas o adquiridas, permanentes o temporales, independientemente de la causa que las hubiera originado, vea limitada su capacidad educativa, laboral o de integración social, y dicha limitación sea reconocida por una institución pública competente, susceptible de ser contratada por una empresa;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
 
@@ -123,13 +127,13 @@ XVI. Reglamento: El Reglamento de la Ley de Fomento a la Competitividad y Desarr
 
 XVII. RETE: El Registro Estatal de Trámites Empresariales en el que se inscriben los trámites y servicios a cargo de las dependencias y entidades, sujetos a un proceso de mejora regulatoria;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XVIII. SMG: El salario mínimo general vigente en el Estado;
+XVIII. UMA: Unidad de Medida y Actualización Vigente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XIX. Secretaría: La Secretaría de Desarrollo Económico del Estado;
+XIX. Secretaría: La Secretaría de Economía Sustentable y Turismo;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
 
@@ -167,9 +171,9 @@ b) El impulso a la creación de Empresas regionales mediante la promoción de la
 
 c) Un marco jurídico que aliente y consolide la inversión;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-d) La incorporación al mercado laboral de personas adultas mayores y personas productivas con capacidades diferentes, personas egresadas de albergues, casa hogar o institución de asistencia social para niñas, niños y adolescentes, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
+d) La incorporación al mercado laboral de personas adultas mayores, Madres Solteras, Personas Productivas con Discapacidad, Personas egresadas de albergues, casa hogar o institución de asistencia social para niñas, niños y adolescentes, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
 
 e) La generación de nuevas fuentes de empleo formales y la conservación de los existentes;
 
@@ -301,9 +305,9 @@ I. Realicen un Proyecto de Inversión;
 
 II. Operen sistemas para el tratamiento de aguas residuales y las reutilicen totalmente, siempre que su descarga final no se realice en el sistema de alcantarillado; o,
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-III. Contraten Personas Adultas Mayores, Personas Productivas con Capacidades Diferentes y/o personas egresadas de albergue, casa hogar o institución de asistencia social para niñas, niños y adolescentes.
+III. Contraten Personas Adultas Mayores, Madres Solteras, Personas Productivas con Discapacidad y/o Personas egresadas de albergues, casa hogar o institución de asistencia social para niñas, niños y adolescentes.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -399,9 +403,9 @@ c) Más de 15 a 25 estudiantes 4 puntos
 
 d) Mas de 25 estudiantes 5 puntos
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-Esquema 4. Contratación de Personas Adultas Mayores, Personas Productivas con Capacidades Diferentes y/o personas egresadas de albergue, casa hogar o institución de asistencia social para niñas, niños y adolescentes, que representen:
+Esquema 4. Contratación de Personas Adultas Mayores, Madres Solteras, Personas Productivas con Discapacidad y/o Personas egresadas de albergue, casa hogar o institución de asistencia social para niñas, niños y adolescentes, que representen:
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -557,13 +561,17 @@ V. Proveeduría
 
 Esquema 1. La adquisición de insumos a Empresas instaladas en el Estado y/o el país, incluyendo aquellas que incorporen a sus procesos, productos fabricados en el Estado, cuando:
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 a) Entre 10 y 25% del valor de sus
 
 adquisiciones se efectúen en el Estado,
 
 en otras entidades federativas del país o
 
-en el Distrito Federal 3 puntos
+en la Ciudad de México 3 puntos
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
 b) Entre 26 y 50% del valor de sus
 
@@ -571,7 +579,9 @@ adquisiciones se efectúen en el Estado,
 
 en otras entidades federativas del país
 
-o en el Distrito Federal 5 puntos
+o en la Ciudad de México 5 puntos
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
 c) Más del 51% del valor de sus
 
@@ -579,7 +589,7 @@ adquisiciones se efectúen en el Estado,
 
 en otras entidades federativas del país
 
-o en el Distrito Federal 6 puntos
+o en la Ciudad de México 6 puntos
 
 d) Entre 75 y 90% del valor de sus
 
@@ -647,7 +657,9 @@ d).- Entre 21 y 30% en ahorro de energía. 2 Puntos
 
 e).- Entre 10 y 20% en ahorro de energía. 1 Punto
 
-La Comisión Estatal de Energía, coadyuvará con la Secretaría de Desarrollo Económico en la realización de los mecanismos y protocolos de verificación por cuanto al ahorro de Energía.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+La Comisión Estatal de Energía, coadyuvará con la Secretaría de Economía Sustentable y Turismo en la realización de los mecanismos y protocolos de verificación por cuanto al ahorro de Energía.
 
 El plazo para que la Empresa cumpla con los supuestos previstos en las fracciones I, II y III, será de 2 años, contado a partir de que se determine la procedencia de la solicitud de Estímulos fiscales.
 
@@ -667,13 +679,19 @@ Las Empresas interesadas en obtener los Estímulos previstos en esta Ley, deber�
 
 La Secretaría contará con un plazo máximo de 20 días hábiles para determinar en su caso, la procedencia de la solicitud de Estímulos no fiscales, contados a partir de que la referida solicitud se encuentre debidamente requisitada.
 
-La Secretaría de Planeación y Finanzas, resolverá las solicitudes de Estímulos fiscales conforme a lo previsto en las disposiciones fiscales aplicables.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+La Secretaría de Hacienda, resolverá las solicitudes de Estímulos fiscales conforme a lo previsto en las disposiciones fiscales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 16.
 
-En cualquier tiempo, la Secretaría y/o la Secretaría de Planeación y Finanzas, podrán verificar o inspeccionar que la Empresa observe los requisitos y las condiciones generales y particulares que sirvieron de base para el otorgamiento de los Estímulos.
+· En cualquier tiempo, la Secretaría y/o la Secretaría de Hacienda, podrán verificar o inspeccionar que la Empresa observe los requisitos y las condiciones generales y particulares que sirvieron de base para el otorgamiento de los Estímulos.
 
-Para los efectos del párrafo anterior, la Secretaría y/o la Secretaría de Planeación y Finanzas, podrán auxiliarse de las demás Dependencias del Estado y Entidades Paraestatales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Para los efectos del párrafo anterior, la Secretaría y/o la Secretaría de Hacienda, podrán auxiliarse de las demás Dependencias del Estado y Entidades Paraestatales.
 
 Las Empresas estarán obligadas a presentar la información que le sea requerida, en un término no mayor a 5 días hábiles, contados a partir de dicho requerimiento. Asimismo estarán obligadas a brindar todas las facilidades para la realización de la verificación o inspección en su caso.
 
@@ -775,7 +793,9 @@ El órgano de trabajo estará integrado por:
 
 I. Un representante de la Secretaría;
 
-II. Un representante de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+II. Un representante de la Secretaría de Hacienda;
 
 III. El Secretario Técnico del Comité, y
 
@@ -841,17 +861,17 @@ II. Un Secretario, que será nombrado por el Titular de la Secretaría, y
 
 III. Los siguientes vocales:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-a) El Titular de la Secretaría de Planeación y Finanzas;
+a) El Titular de la Secretaría de Hacienda;
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
 
 b) El Titular de la Secretaría del Trabajo y Previsión Social;
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-c) El Titular de la Secretaría de Desarrollo Social;
+c) El Titular de la Secretaría de Integración y Bienestar Social;
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
 
@@ -913,7 +933,9 @@ El Comité tendrá las siguientes atribuciones:
 
 I. Elaborar, actualizar y difundir la PDE, así como los demás asuntos relacionados con la misma;
 
-II. Analizar y opinar las solicitudes que en su caso le turne la Secretaría o la Secretaría de Planeación y Finanzas según corresponda, para la obtención de Estímulos señalados en la Ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+II. Analizar y opinar las solicitudes que en su caso le turne la Secretaría o la Secretaría de Hacienda según corresponda, para la obtención de Estímulos señalados en la Ley;
 
 III. Impulsar la simplificación, desregulación, perfeccionamiento, eficacia y modernización del marco jurídico estatal y municipal que impacte la actividad empresarial, así como la atracción y realización de Proyectos de Inversión;
 
@@ -1220,3 +1242,9 @@ P.O. 18 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 280 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 10 Y 13 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 40 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 3, 4, 10, 13, 15, 16, 25, 32 Y 40 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
