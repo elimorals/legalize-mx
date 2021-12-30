@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2020-12-24"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -441,13 +441,19 @@ III.- Señalar la autoridad a la que se dirige y el propósito de la promoción;
 
 IV.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
 
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+V.- La dirección de correo electrónico para recibir notificaciones.
+
 Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada; si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al Registro Estatal de Contribuyentes a que se refiere el artículo 33 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública, mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
 
@@ -523,7 +529,9 @@ Los retenedores podrán solicitar la devolución siempre que ésta se haga direc
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto queda insubsistente.
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cincuenta días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que comprueben la procedencia de la petición.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cincuenta días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que comprueben la procedencia de la petición, de igual manera se deberán señalar los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -961,7 +969,7 @@ c).- Prestar sus servicios en forma gratuita.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
-III.- Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover la actualización de sus datos en el Registro Estatal de Contribuyentes. Encontrándose facultada la autoridad en términos del artículo 34 de este Código, para inscribir de oficio a las personas físicas y morales que hubieran sido detectadas en dichos recorridos, en la omisión de inscribirse al Registro Estatal de Contribuyentes teniendo obligación de hacerlo.
+III. Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover la actualización de sus datos en el Registro Estatal de Contribuyentes. Encontrándose facultada la autoridad en términos del artículo 34 de este Código, para inscribir de oficio a las personas físicas y morales que hubieran sido detectadas en dichos recorridos, en la omisión de inscribirse al Registro Estatal de Contribuyentes teniendo obligación de hacerlo.
 
 > <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN III], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -989,9 +997,11 @@ Las respuestas recaídas a las consultas a que se refiere este artículo no ser�
 
 Las autoridades fiscales deberán contestar las consultas que formulen los particulares en un plazo de tres meses contados a partir de la fecha de presentación de la solicitud respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 44.
 
-Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado, mediante juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado de Sonora, mediante juicio iniciado por las autoridades fiscales.
 
 Cuando la Secretaría de Finanzas modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
@@ -1051,11 +1061,13 @@ Para la emisión y regulación de los documentos digitales, de la firma electró
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 49.
 
-Procederá la condonación total o parcial de créditos fiscales cuando se haya afectado o trate de impedirse se afecte la situación de alguna región de la entidad, o de alguna rama de las actividades económicas.
+Procederá la reducción total o parcial de créditos fiscales cuando se haya afectado o trate de impedirse se afecte la situación de alguna región de la entidad, o de alguna rama de las actividades económicas.
 
-El Gobernador del Estado, mediante disposiciones de carácter general determinará el monto de los créditos que se condonen, los sujetos que gozarán del beneficio; la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
+El Ejecutivo del Estado, mediante disposiciones de carácter general determinará el monto de los créditos que se reduzcan, los sujetos que gozarán del beneficio; la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el periodo de vigencia de los beneficios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -1377,6 +1389,10 @@ IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se
 
 Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los plazos establecidos en el párrafo anterior para desvirtuar los hechos u omisiones mencionados en la última acta parcial. La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones.
+
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad.
 
 V.- Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
@@ -1396,6 +1412,14 @@ IX.- Cuando de la revisión de las actas de visita y demás documentación vincu
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Lo señalado en el párrafo anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Para los efectos de este artículo, se entenderá por circunstanciar detallar pormenorizadamente toda la información y documentación obtenida dentro de la visita domiciliaria, a través del análisis, la revisión, la comparación contra las disposiciones fiscales, así como la evaluación, estimación, apreciación, cálculo, ajuste y percepción, realizado por los visitadores, sin que se entienda en modo alguno que la acción de circunstanciar constituye valoración de pruebas.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+La información a que se refiere el párrafo anterior será de manera enunciativa mas no limitativa, aquélla que esté consignada en los libros, registros y demás documentos que integran la contabilidad, así como la contenida en cualquier medio de almacenamiento digital o de procesamiento de datos que los contribuyentes sujetos a revisión tengan en su poder, incluyendo los objetos y mercancías que se hayan encontrado en el domicilio visitado y la información proporcionada por terceros.
 
 Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, solo se podrá efectuar la nueva revisión cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación, previstas en las disposiciones fiscales; a menos que en este último supuesto, la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado el incidente respectivo haya sido declarado improcedente.
 
@@ -2463,11 +2487,15 @@ Para efectos de lo dispuesto en la fracción I de este artículo, por resolució
 
 Así también deberá entenderse como resolución definitiva, aquella que sin resolver del fondo del asunto, exige al contribuyente requisitos cuyo incumplimiento resulta imposible.
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 112.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo del Estado; dicha opción solo procederá antes de que el interesado acuda al citado Tribunal. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa del Estado de Sonora; dicha opción solo procederá antes de que el interesado acuda al citado Tribunal. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
 
-Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de lo Contencioso Administrativo del Estado, la impugnación del acto conexo deberá hacerse valer ante el mismo Tribunal que conozca del juicio respectivo.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de Justicia Administrativa del Estado de Sonora, la impugnación del acto conexo deberá hacerse valer ante el mismo Tribunal que conozca del juicio respectivo.
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -2519,7 +2547,9 @@ I.- Que no afecten el interés jurídico del recurrente;
 
 II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias;
 
-III.- Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+III.- Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado de Sonora;
 
 IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
@@ -2583,9 +2613,11 @@ Si por el enlace de las pruebas rendidas y de las presunciones formadas, las aut
 
 Para el trámite, desahogo y valoración de las pruebas ofrecidas y admitidas, será aplicable lo dispuesto en la Sección relativa a las pruebas establecida en el Título VI, relativo al Procedimiento Contencioso Administrativo previsto en este Código.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 122.
 
-La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso. Transcurrido dicho plazo sin que se notifique la resolución, se considerará que la autoridad ha confirmado el acto impugnado, y el interesado podrá impugnarla ante el Tribunal de lo Contencioso Administrativo del Estado, en cualquier tiempo mientras no se notifique la resolución respectiva, o bien esperar a que esta se dicte.
+La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso. Transcurrido dicho plazo sin que se notifique la resolución, se considerará que la autoridad ha confirmado el acto impugnado, y el interesado podrá impugnarla ante el Tribunal de Justicia Administrativa del Estado de Sonora, en cualquier tiempo mientras no se notifique la resolución respectiva, o bien esperar a que esta se dicte.
 
 ###### ARTÍCULO 123.
 
@@ -2625,6 +2657,10 @@ I. Personalmente o por correo certificado o por medios electrónicos, con acuse 
 
 II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En tratándose de notificaciones por medios electrónicos, éstas podrán efectuarse siempre y cuando los gobernados habiliten un correo electrónico exclusivo para recibir notificaciones, el cual deberá ser proporcionado a la autoridad fiscal.
+
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 III.- Por estrados, cuando la persona a quién deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción IV del artículo 104 y en los demás casos que señalen las disposiciones fiscales;
@@ -2633,11 +2669,9 @@ III.- Por estrados, cuando la persona a quién deba notificarse no sea localizab
 
 IV.- Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
-
-V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el tercer párrafo de la fracción IV del artículo 127 de este Código.
+V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el tercer párrafo del artículo 127 de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2705,11 +2739,11 @@ Las publicaciones a que se refiere este artículo contendrán un extracto de los
 
 Se tendrá como fecha de notificación la de la última publicación.
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 129.
 
-Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la Secretaría de Hacienda; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca Ju Secretarla de Hacienda; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -2791,7 +2825,9 @@ El procedimiento administrativo quedara suspendido hasta que se haga saber la re
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieren embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observara lo dispuesto en la fracción V, primer párrafo del artículo 130 de este Código.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se esta tramitando recurso o ante el Tribunal de lo Contencioso Administrativo del Estado, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En caso de negativa o violación a la suspensión del procedimiento de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se esta tramitando recurso o ante el Tribunal de Justicia Administrativa del Estado de Sonora, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal.
 
 ###### ARTÍCULO 135.
 
@@ -2969,13 +3005,15 @@ TER.- La Secretaría de Hacienda podrá reducir total o parcialmente multas y re
 
 Lo previsto en este artículo no constituye instancia, las autorizaciones que otorguen no podrán ser impugnadas por los particulares y deberán ser publicadas conforme a las reglas que al efecto emitan las autoridades correspondientes.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-ARTÍCULO 146 QUÁTER.- Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales podrán condonar parcialmente los créditos fiscales relativos a contribuciones que debieron pagarse con anterioridad a la fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la Ley respectiva y de acuerdo con lo siguiente:
+ARTÍCULO 146 QUÁTER.- Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales podrán reducir parcialmente los créditos fiscales relativos a contribuciones que debieron pagarse con anterioridad a al fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la Ley respectiva y de acuerdo con lo siguiente:
 
-I.- Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales.
+I.- Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la reducción no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales.
 
-II.- Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación, determinada en los términos del inciso anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas. La autorización de condonación deberá sujetarse a los requisitos y lineamientos que establezca el reglamento de este Código.
+II.- Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la reducción, determinada en los términos del inciso anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
+
+La autorización de reducción deberá sujetarse a los requisitos y lineamientos que establezca la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -3659,31 +3697,19 @@ II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de 
 
 ###### ARTÍCULO 196.
 
-Los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora se substanciarán y resolverán con arreglo al procedimiento que determina este Código. A falta de disposición expresa se aplicarán las prevenciones del Código de Procedimientos Civiles del Estado, siempre que la disposición de este último Ordenamiento no contravenga al procedimiento contencioso que establece este Código.
-
-En los casos en que la resolución impugnada afecte los intereses jurídicos de dos o más personas, y éstas promuevan juicio, en el escrito inicial de la demanda deberán designar un representante común que elegirán de entre ellas mismas, y si no lo hicieren, el magistrado designará con tal carácter a cualquiera de los interesados al admitir la demanda.
-
-Cuando la resolución recaída a un recurso administrativo no satisfaga el interés jurídico del recurrente y éste la controvierta, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúe afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 197.
 
-En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo del Estado, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
-
-Los honorarios del perito tercero serán pagados por las partes. Si las que corresponda sufragar al particular, sea actor, demandado o coadyuvante, no son cubiertos oportunamente, los pagará la Secretaría de Finanzas y esta exigirá el reembolso mediante el procedimiento administrativo de ejecución.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 198.
 
-Toda promoción deberá ser firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, aplicándose al respecto las disposiciones del Código de Procedimientos Civiles.
-
-Ante el Tribunal de lo Contencioso Administrativo no procederá la gestión de negocios, quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada, a mas tardar, en la fecha de la presentación de la promoción.
-
-El mandato para asunto o asuntos determinados, solo podrá otorgarse al licenciado en derecho con titulo debidamente registrado en los términos de la Ley Reglamentaria de los artículos 4 y 5 Constitucionales o en la Dirección General de Profesiones del Estado.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 199.
 
-Las diligencias que deban practicarse fuera del local del Tribunal de lo Contencioso Administrativo podrán encomendarse a alguno de los secretarios o actuarios del mismo Tribunal.
-
-Cuando deban practicarse en lugar distinto de la ciudad de Hermosillo, podrán encomendarse a los jueces de primera instancia del ramo civil de la jurisdicción, quienes estarán obligados a diligenciar los exhortos respectivos.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ### CAPITULO II. Del Procedimiento
 
@@ -3691,571 +3717,229 @@ Cuando deban practicarse en lugar distinto de la ciudad de Hermosillo, podrán e
 
 ###### ARTÍCULO 200.
 
-Serán partes en el procedimiento:
-
-I.- El actor;
-
-II.- El demandado. Tendrán este carácter:
-
-a).- La autoridad que dicte, ordene o realice, ejecute o trate de ejecutar el acto o resolución, o trámite el procedimiento impugnado, o la que legalmente la sustituya;
-
-b).- El particular a quien favorezca la resolución cuya nulidad demande la autoridad administrativa;
-
-III.- El tercero que dentro del procedimiento administrativo aparezca como titular de un derecho incompatible con el que pretenda el actor;
-
-IV.- El Secretario de Finanzas, quien será representado en la forma que señalen los ordenamientos, aun cuando no sea actor ni demandado;
-
-Podrá apersonarse como coadyuvante de las autoridades administrativas, quien tenga interés directo en la anulación de una resolución favorable al particular.
-
-En cada escrito de demanda sólo podrá aparecer un demandante, salvo en los casos que se trate de la impugnación de resoluciones conexas que afecten los intereses jurídicos de dos o más personas, mismas que podrán promover el juicio de nulidad contra dichas resoluciones en un sólo escrito de demanda, siempre que en el escrito designen de entre ellas mismas un representante común, en caso de no hacer la designación, el magistrado instructor al admitir la demanda hará la designación.
-
-El escrito de demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo anterior, se tendrá por no interpuesto.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 201.
 
-Las autoridades que figuren como parte en los juicios de nulidad podrán acreditar delegados en las audiencias, con facultades para rendir pruebas y producir alegatos.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección II. De las Notificaciones y los Términos
 
 ###### ARTÍCULO 202.
 
-Toda resolución debe notificarse, a mas tardar, el segundo día a aquel en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución:
-
-Al actuario que no cumpla con esta obligación se le impondrá multa de cien a doscientos pesos y será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 203.
 
-Las notificaciones se harán:
-
-I.- A las autoridades por oficio, o en casos urgentes, por la vía telegráfica;
-
-II.- A los particulares, personalmente o por correo certificado con acuse de recibo, cuando se trate de alguna de las siguientes resoluciones;
-
-a).- La que admita o deseche la demanda;
-
-b).- La que señale día para la audiencia;
-
-c).- La que tenga por contestada la demanda, cuando se impugne una negativa ficta o cuando el autor no conozca los fundamentos de la resolución sino hasta que se conteste la demanda. En este caso, se acompañara copia de la contestación de la resolución que se notifica;
-
-d).- La de sobreseimiento y la sentencia;
-
-e).- La que manda citar a un tercero;
-
-f).- El requerimiento de un acto a la parte que deba cumplirlo;
-
-g).- En cualquier otro caso, si el Tribunal lo considera conveniente; y,
-
-III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán personalmente en el Tribunal a los particulares, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y por lista autorizada que se fijara en sitio visible del tribunal, si no se presentan con oportunidad.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 204.
 
-La lista a que se refiere la fracción III del artículo anterior, contendrá: el nombre de la persona a quien se notifique, el expediente en que la notificación se haga, y una síntesis de la parte dispositiva de la resolución correspondiente. En los autos se hará constar la fecha de la fijación de la lista.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 205.
 
-Las partes podrán autorizar por escrito a una o a varias personas para que a su nombre reciban las notificaciones, hagan promociones de trámite, ofrezcan y rindan pruebas, aleguen e interpongan recursos.
-
-La persona deberá tener titulo de Licenciado en Derecho debidamente registrado en la Secretaría de Educación Pública o en la Dirección General de Profesiones del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 206.
 
-Las notificaciones surtirán efectos al día hábil siguiente en que se haya hecho la notificación personal o entregado el oficio que contenga copia de la resolución que se notifica, o fijado la lista respectiva.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 207.
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto en este Código serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquel en que conoció el hecho ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
-
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
-
-Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, se dictará resolución.
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-Si se declara la nulidad, el Tribunal ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a la cantidad que resulte de sumar diez Unidades de Medida y Actualización, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 208.
 
-El cómputo de los términos se sujetara a las reglas siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2014)</small>
-
-I.- Empezarán a correr desde el día hábil siguiente en que surta efectos la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento; y,
-
-II.- Se contarán por días naturales, excluyendo los inhábiles, y aquellos en los que se suspendan las labores del Tribunal.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección III. De los Casos de Improcedencia y del Sobreseimiento
 
 ###### ARTÍCULO 209.
 
-Es improcedente el juicio ante el Tribunal de lo Contencioso Administrativo del Estado:
-
-I.- Contra actos, resoluciones o procedimientos que no afecten los intereses jurídicos del actor;
-
-II.- Contra actos, resoluciones o procedimientos que sean materia de otro juicio que se encuentre pendiente de resolución ante el Tribunal de lo Contencioso Administrativo del Estado o que hayan sido materia de sentencia pronunciada por el mismo Tribunal, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
-
-III.- Contra actos, resoluciones o procedimientos consentidos, expresa o tácitamente, entendiéndose por este último aquel en que no se promovió el juicio dentro de los plazos señalados por este Código;
-
-IV.- Que puedan impugnarse por medio de algún recurso o medio de defensa, con excepción de aquéllos cuya interposición sea optativa;
-
-V.- Contra resoluciones, actos o procedimientos administrativos que estén o hayan sido impugnados en un procedimiento judicial;
-
-VI.- Contra ordenamientos que dan normas o instrucciones de carácter general y abstracto sin haber sido aplicado concretamente al promovente;
-
-VII.- Cuando de las constancias de autos apareciere claramente que no existe la resolución o el acto impugnado;
-
-VIII.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las Leyes Fiscales Especiales;
-
-IX.- Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
-
-Para los efectos de esta fracción, se entiende que haya conexidad siempre que concurran las causas de acumulación previstas en el artículo 231 de este Código.
-
-X.- Cuando no se hagan valer conceptos de impugnación;
-
-XI.- Cuya impugnación no corresponda conocer a dicho Tribunal;
-
-La procedencia del juicio será examinada aun de oficio.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 210.
 
-Procede al sobreseimiento del juicio:
-
-I.- Cuando el demandante se desista del juicio;
-
-II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-III.- Cuando el actor, cualquiera que sea el estado en que se encuentre el juicio, no ha efectuado ningún acto procesal durante el plazo de 300 días, incluyendo los inhábiles;
-
-IV.- En el caso de que el demandante muera durante el juicio, si su pretensión es intransmisible o si su muerte deja sin materia el proceso;
-
-V.- Si la autoridad demandada deja sin efecto el acto impugnado; y,
-
-VI.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
-
-El sobreseimiento del juicio podrá ser total o parcial.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección IV. De los Impedimentos, Excusas y Recusaciones
 
 ###### ARTÍCULO 211.
 
-El magistrado del Tribunal de lo Contencioso Administrativo estará impedido para conocer en los siguientes casos:
-
-I.- Si es pariente consanguíneo, afín o civil de alguna de las partes, en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad y en la segunda de la colateral por afinidad, o de sus patrones o representantes;
-
-II.- Si tiene interés personal en el negocio;
-
-III.- Si ha sido apoderado en el mismo negocio;
-
-IV.- Si ha dictado la resolución impugnada o ha intervenido con cualquier carácter en la emisión de la misma o en su ejecución;
-
-V.- Si figura como parte en un juicio similar pendiente de resolución;
-
-VI.- Si tiene amistad estrecha o enemistad con alguna de las partes o sus apoderados; y,
-
-VII.- Estar en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas;
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 212.
 
-El magistrado tiene el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en que consiste el impedimento.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 213.
 
-Dentro de un plazo de tres días el magistrado enviará un informe manifestando la causa del impedimento al magistrado supernumerario, a efecto de que califique la excusa y, en su caso, se avoque al conocimiento del juicio.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 214.
 
-Las partes podrán recusar al magistrado cuando este en alguno de los casos de impedimento, mediante escrito al que acompañaran las pruebas pertinentes, en cualquier estado del juicio hasta el momento de empezar la audiencia final. Interpuesta la recusación, el magistrado recusado procederá conforme se dispone en el artículo anterior.
-
-El magistrado supernumerario que conozca de una recusación o excusa es irrecusable para ningún efecto.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 215.
 
-La resolución que decida la recusación o excusa es irrevocable. Si se declara improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de $1,000.00.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección V. De la Demanda
 
 ###### ARTÍCULO 216.
 
-La demanda deberá ser presentada por escrito directamente al Tribunal de lo Contencioso Administrativo o enviarse por correo certificado dentro de los treinta días siguientes a aquel en que haya surtido efectos la notificación de la resolución impugnada, excepción hecha de los casos siguientes:
-
-I.- Si el perjudicado reside en el extranjero y no tiene representación en el Estado, el termino para iniciar el juicio será de cuarenta y cinco días;
-
-II.- Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse dentro de los cinco años siguientes a la fecha en que sea notificada la resolución, salvo que dicha resolución haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier época, pero los efectos de la sentencia en caso de nulificarse la resolución favorable solo se retrotraerán a los cinco años anteriores a la presentación de la demanda;
-
-III.- En los casos de negativa ficta, el interesado no esta obligado a interponer la demanda dentro del termino a que se refiere este artículo, pudiendo presentarla en cualquier tiempo mientras no se dicte resolución expresa y siempre que haya transcurrido el plazo que señala el artículo 47 de este código;
-
-IV.- En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, el plazo para interponer el juicio de nulidad se suspenderá hasta por un año. La suspensión cesará tan pronto como se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación;
-
-V.- Cuando el perjudicado fallezca durante el plazo a que se refiere este artículo, se suspenderá hasta un año si antes no se ha aceptado el cargo de representante de la sucesión; y,
-
-VI.- Cuando la ley señale otro plazo.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 217.
 
-La demanda deberá contener:
-
-I.- El nombre del actor y el domicilio que señale para recibir notificaciones, que será siempre dentro del territorio del Estado de Sonora;
-
-II.- La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado, cuando el juicio sea promovido por la autoridad administrativa, y los del tercero interesado, cuando lo haya;
-
-III.- La resolución, acto o procedimiento que impugne y la autoridad o autoridades demandadas;
-
-IV.- Los hechos y fundamentos de derecho que den motivo a la demanda;
-
-V.- Las pruebas que el actor se proponga rendir. Cuando ofrezca pruebas pericial o testimonial, el actor deberá indicar los nombres de los peritos o testigos y acompañar el escrito que contenga los puntos o cuestionario que los peritos deben contestar; para el examen de los testigos será necesario acompañar a la demanda los interrogatorios escritos; y,
-
-VI.- Los conceptos de impugnación.
-
-Cuando se omitan los datos previstos en las fracciones I, III, y VI, el magistrado desechará por improcedente la demanda interpuesta. Cuando se omitan los datos previstos en las fracciones II, IV y V, el magistrado requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
-
-Se presume que el domicilio señalado en la demanda es el fiscal, salvo que la autoridad demuestre lo contrario. El domicilio fiscal servirá para recibir notificaciones cuando no se señale uno convencional diferente.
-
-Se presentara una copia de la demanda para cada una de las partes y de todos sus anexos.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 218.
 
-El promovente deberá acompañar con su demanda los siguientes documentos:
-
-I.- Una copia de la misma para cada una de las partes y una copia de los documentos anexos para el titular a que se refiere la fracción IV del artículo 200 o, en su caso, para el particular demandado;
-
-II.- El documento que acredite su personalidad cuando no gestione en nombre propio, al menos que compruebe que dicha personalidad le ha sido reconocida en el procedimiento dentro del cual haya emanado la resolución que reclame;
-
-III.- El documento en que conste la resolución o acto impugnado, o señalar el archivo o lugar en que se encuentre. Si se demanda la nulidad de una negativa ficta, deberá acompañarse copia de la instancia no resuelta por la autoridad;
-
-IV.- Constancia de la notificación del acto impugnado, excepto cuando el demandante declare bajo protesta de decir verdad que no recibió constancia o cuando hubiera sido por correo. Si la notificación fue por edictos deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo;
-
-V.- El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandante;
-
-VI.- El interrogatorio para el desahogo de la prueba testimonial, el que debe ir firmado por el demandante; y,
-
-VII.- Las pruebas documentales que ofrezca.
-
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se encuentra para que a su costa se mande expedir copia de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición bastará con que acompañe copia de la solicitud debidamente presentada por lo menos cinco días antes de la interposición de la demanda. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
-
-Si no se adjuntan a la demanda los documentos a que se refiere este precepto, el magistrado requerirá al promovente para que los presente dentro del plazo de cinco días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda. Si se trata de las pruebas a que se refieren las fracciones V, VI y VII, las mismas se tendrán por no ofrecidas.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 219.
 
-El demandante tendrá derecho a ampliar la demanda dentro de los veinte días siguientes al en que surta efectos el acuerdo recaído a la contestación de la misma, cuando se demande una negativa ficta o cuando el actor no conozca los fundamentos de la resolución impugnada, sino hasta que la demanda este contestada, en los casos previstos por el artículo 221, y cuando con motivo de la contestación, se introduzcan cuestiones que sin violar el primer párrafo del artículo 228 no sean conocidas por el actor al presentar la demanda.
-
-En el escrito de ampliación de demanda se deberá señalar el nombre del actor y el juicio en que se actúa, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten.
-
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente lo dispuesto en el penúltimo párrafo del artículo 218 de este Código.
-
-Si no se adjuntan las copias a que se refiere este artículo, el magistrado requerirá al promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones V, VI y VII del artículo 218 de este Código las mismas se tendrán por no ofrecidas.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 220.
 
-Se notificara a las autoridades demandadas la resolución por la que se desecha la demanda, remitiéndoles, copia de esta si la hubiere.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 221.
 
-Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
-
-I.-. Si el demandante afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en la demanda, en la que manifestará la fecha en que lo conoció;
-
-En caso de que también impugne el acto administrativo, los conceptos de nulidad se expresarán en la demanda, conjuntamente con los que se formulen contra la notificación.
-
-II.- Si el actor manifiesta que no conoce el acto administrativo que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien atribuye el acto, su notificación, o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia del auto administrativo y de su notificación, mismos que el actor podrá combatir mediante ampliación de la demanda;
-
-III.- El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo;
-
-Si resuelve que no hubo notificación o que fue ilegal, considerará que el actor fue sabedor del acto administrativo desde la fecha en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, se hubiese formulado contra dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada, y como consecuencia de ello la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con el acto administrativo combatido.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 222.
 
-El tercero, dentro de los treinta días siguientes a aquél en que se corra traslado de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de la demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
-
-Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y el cuestionario para los peritos. Son aplicables en lo conducente los dos últimos párrafos del artículo 218 de este Código.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección VI. De la Contestación
 
 ###### ARTÍCULO 223.
 
-Admitida la demanda se correrá traslado de ella y de sus anexos a las partes emplazándolas para que la contesten.
-
-La contestación de la demanda deberá ser presentada directamente al Tribunal de lo Contencioso Administrativo o enviarse por correo certificado dentro de los treinta días siguientes a aquel en que surta efectos la notificación del auto de admisión de la demanda. El plazo para contestar la ampliación de la demanda será de veinte días siguientes a aquél en que surta efectos la notificación del acuerdo que admita la ampliación.
-
-Si no se produce la contestación a tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
-
-En el mismo acuerdo de admisión se citara para la audiencia del juicio dentro de un plazo que no excederá de sesenta días.
-
-Cuando los demandados fueren varios, el termino para contestar les correrá individualmente.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 224.
 
-El demandado, en su contestación y en la contestación de la ampliación de la demanda, expresará:
-
-I.- Los incidentes de previo y especial pronunciamiento;
-
-II.- Las consideraciones que a su juicio impidan que se emita decisión en cuanto al fondo o demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda;
-
-III.- Se referirá concretamente a cada uno de los hechos que el actor le impute de manera expresa, afirmándolos, negándolos, expresando los que ignora por no ser propios o exponiendo como ocurrieron;
-
-IV.- Los fundamentos de derecho considerados aplicables y los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de impugnación;
-
-V.- Las pruebas que se proponga rendir. Cuando se trate de pruebas pericial o testimonial, indicara los nombres de los peritos o testigos y acompañará los escritos que contengan los puntos o cuestionario, o interrogatorios para el desahogo de las pruebas. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas;
-
-Se presentara copia para cada una de las partes del escrito de contestación y de sus anexos.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 225.
 
-La omisión en la presentación de las copias de la contestación de la demanda y de sus anexos, dará lugar a que el magistrado requiera al demandado para que exhiba las copias necesarias dentro del plazo de cinco días, apercibiéndoles de que se tendrá por no contestada la demanda en caso de incumplimiento.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 226.
 
-El demandado deberá adjuntar a su contestación:
-
-I.- Copias de la misma y de los documentos que acompañe para el demandante y para el tercero señalado en la demanda;
-
-II.- El documento en que acredite su personalidad cuando el demandado sea un particular y no gestione en nombre propio;
-
-III.- El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandado;
-
-IV.- En su caso, la ampliación del cuestionario para el desahogo de la pericial ofrecida por el demandante;
-
-V.- Las pruebas documentales que ofrezca;
-
-Tratándose de la contestación a la ampliación de la demanda, se deberán adjuntar también los documentos previstos en este artículo, excepto aquéllos que ya se hubieran acompañado al escrito de contestación de la demanda.
-
-Para los efectos de este artículo será aplicable, en lo conducente los dos últimos párrafos del artículo 218.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 227.
 
-Se presumirán ciertos, salvo que por las pruebas rendidas resulten desvirtuados, los hechos en que el actor impute de manera precisa al demandado, en los siguientes casos:
-
-I.- Cuando no se produzca la contestación dentro del plazo a que alude el artículo 223;
-
-II.- Cuando la contestación no se refiera completamente a los hechos afirmados por el actor, que sean propios del demandado; y,
-
-III.- Cuando sin causa justificada el demandado no exhiba la prueba que le haya sido requerida.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 228.
 
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
-
-En caso de negativa ficta, la autoridad expresara los hechos y el derecho en que se apoya la misma.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 229.
 
-Cuando haya contradicciones en cuanto a los fundamentos de derecho e interpretación entre la contestación de la autoridad que dicte u ordene, realice, ejecute o trate de ejecutar la resolución o procedimiento impugnado y la dada por la Secretaría de Finanzas, únicamente se tomara en cuenta, respecto de esas contradicciones lo expuesto por la propia Secretaría de Finanzas.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección VII. De los Incidentes
 
 ###### ARTÍCULO 230.
 
-En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo, sólo serán de previo y especial pronunciamiento:
-
-I.- La incompetencia en razón del territorio;
-
-II.- El de acumulación de autos;
-
-III.- El de nulidad de notificaciones;
-
-IV.- El de interrupción por causa de muerte, disolución, incapacidad o declaratoria de ausencia; y,
-
-V.- La recusación por causa de impedimento.
-
-Todas las cuestiones diversas a las anteriores, excepción hecha de las relativas a la suspensión del procedimiento de ejecución o rechazo de la garantía ofrecida, se reservaran para la audiencia.
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta Unidades de Medida y Actualización.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 231.
 
-Podrá decretarse la acumulación cuando, siendo las mismas partes o distintas, se aleguen idénticas violaciones legales y se impugne el mismo acto o actos diversos pero que sean unos antecedentes o consecuente de los otros.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 232.
 
-La acumulación se tramitará de oficio o a petición de parte ante el Tribunal de lo Contencioso Administrativo en el juicio que se haya promovido primero, en una sola audiencia en la que se hará la relación de los autos, se oirán los alegatos y se dictara la resolución que corresponda.
-
-Entre tanto se resuelve sobre la acumulación, se suspenderá el procedimiento en los juicios respectivos.
-
-Las solicitudes de acumulación notoriamente infundadas se desecharan de plano. Decretada la acumulación, se agregaran todos los autos para ser resueltos en una misma audiencia.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 233.
 
-La interrupción del juicio por causa de muerte, disolución, incapacidad o declaratoria de ausencia durará como máximo un año y se sujetará a lo siguiente:
-
-I.- Se decretará por el magistrado a partir de la fecha en que éste tenga conocimiento de la existencia de alguno de los supuestos a que se refiere este artículo; y,
-
-II.- Si transcurrido el plazo máximo de interrupción, no comparece el albacea, el representante legal o el tutor, el magistrado acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de la sucesión o de la liquidación, según sea el caso.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 234.
 
-Si la autoridad niega la suspensión del procedimiento de ejecución, rechaza la garantía ofrecida o reinicia el procedimiento, podrá promoverse, hasta antes de modificarse la resolución que ponga fin a la instancia ante el Tribunal de lo Contencioso Administrativo, el incidente respectivo.
-
-La Secretaría de Finanzas podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 235.
 
-Promovido el incidente de suspensión al procedimiento administrativo de ejecución a que se refiere el artículo anterior, el magistrado correrá traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada, por el termino de tres días y citara a una audiencia de pruebas y alegatos para dentro del decimoquinto día en la que se dictara la resolución que corresponda. Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su contestación se presumirán ciertos, salvo prueba en contrario los hechos que el promovente le impute de manera precisa, y se impondrá a aquella autoridad una multa de $100.00 A $1,000.00.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 236.
 
-Cuando se promueva alguno de los incidentes previstos en el artículo 230 se suspenderá el juicio en el principal hasta que se dicte la resolución correspondiente.
-
-Los incidentes a que se refieren las fracciones I, II y IV de dicho artículo únicamente podrán promoverse hasta antes de que quede instruido el proceso, en los términos del artículo 248 de este Código.
-
-Cuando se promuevan incidentes que no sean de previo y especial pronunciamiento continuará el trámite del proceso.
-
-Si no está previsto algún trámite especial los incidentes se substanciarán corriendo traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado concedido, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial las reglas relativas del principal.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 237.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el magistrado hasta antes que se cierre la instrucción del juicio. El incidente se substanciará conforme a lo dispuesto en el cuarto párrafo del artículo 236, corriendo traslado de la promoción a las partes por el término de seis días.
-
-Si alguna de las partes sostiene la falsedad de un documento firmado por otra, el magistrado podrá citar a la parte respectiva para que estampe su firma en presencia del Secretario.
-
-En los casos distintos de los señalados en el párrafo anterior, el incidentista deberá acompañar el documento que considere como indubitado o señalar el lugar donde se encuentre, o bien ofrecer la pericial correspondiente; si no lo hace, el magistrado desechará el incidente.
-
-El Tribunal resolverá sobre la autenticidad del documento exclusivamente para los efectos del juicio en el que se presente el incidente.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección VIII. De las Pruebas
 
 ###### ARTÍCULO 238.
 
-En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo será (sic) admisibles toda clase de pruebas excepto la confesión de las autoridades.
-
-No se considerarán comprendidas en la prohibición la petición de informes a las autoridades fiscales respecto de hechos que consten en sus expedientes o de documentos agregados a ellos, ni los casos en que se demande la nulidad de la resolución dictada al decidir acerca de una consulta.
-
-Las pruebas supervinientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, el magistrado ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 239.
 
-El magistrado tendrá facultad para ordenar la practica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 240.
 
-Cuando se planteen cuestiones de carácter técnico, el Tribunal, de oficio, podrá acordar que se rinda la prueba pericial.
-
-Los peritos nombrados por las partes serán presentados por estas al Tribunal dentro de los diez días siguientes al en que surta efectos la notificación del acuerdo en que se les haya tenido como tales, a manifestar la aceptación y protesta de desempeñar su cargo conforme a la ley. Si el perito de la parte que ofreció la prueba no acude o no acepta el cargo dentro de ese plazo, esta perderá el derecho de presentarlo posteriormente o nombrar otro perito, teniéndosele por desistida de la prueba.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 241.
 
-La recepción de las pruebas se hará en la audiencia de acuerdo con las siguientes reglas, y en lo no previsto se estará a lo dispuesto por el Código de Procedimientos Civiles:
-
-I.- Las posiciones se articularán precisamente en la audiencia y no se requerirá una segunda citación para tener por confeso al absolvente que no concurra sin causa justificada;
-
-Cuando la persona que deba absolver posiciones radique fuera de la ciudad de Hermosillo, y no tenga en esta constituido apoderado con facultad para absolverla, la diligencia se encomendara al Juzgado de Primera Instancia del Ramo Civil que corresponda.
-
-El magistrado calificará las posiciones, aun cuando la prueba haya de desahogarse en lugar distinto de la sede del Tribunal de lo Contencioso Administrativo.
-
-II.- La impugnación de los documentos puede hacerse desde la contestación de la demanda hasta el día de la celebración de la audiencia;
-
-III.- La prueba pericial se rendirá en la audiencia. Los peritos dictaminarán por escrito u oralmente. Las partes y el magistrado les pueden formular observaciones y hacerles preguntas que estimen pertinentes en relación con los puntos sobre los que dictamine. El perito tercero será designado por el magistrado preferentemente entre los registrados en el Tribunal; debe tener título en la ciencia o arte a que pertenezca la cuestión sobre la que ha de oírse su parecer, si estuvieren legalmente reglamentados; si la profesión o arte no estuvieren reglamentados o estándolo no hubiere peritos en el lugar, podrán ser nombradas personas entendidas, a juicio del magistrado, aun cuando no tengan título. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer, de preferencia, en una institución fiduciaria;
-
-IV.- No será impedimento para intervenir como testigo, el hecho de desempeñar un empleo o cargo publico;
-
-V.- Para el examen de los testigos se presentaran los interrogatorios por escrito. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda mas de un hecho. El magistrado deberá cuidar de que se cumplan estas condiciones, impidiendo preguntas que las contraríen;
-
-VI.- La protesta y examen de los testigos se hará en presencia de las partes que concurrieren. Interrogará el promovente de la prueba, y a continuación los demás litigantes;
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 242.
 
-El magistrado calificará las preguntas y repreguntas en todo caso, aun cuando la prueba haya de desahogarse en lugar distinto de la sede del Tribunal de lo Contencioso Administrativo.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 243.
 
-Se apreciará la resolución impugnada tal como aparezca probada ante la autoridad, con las excepciones a que se refiere el artículo 238.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 244.
 
-De acuerdo con lo dispuesto en el artículo 77 de este Código, se presumirán validos los actos, resoluciones y procedimientos de la autoridad administrativa no impugnados de manera expresa en la demanda, o aquellos respecto de los cuales, aunque impugnados, no se allegaren elementos de prueba bastantes para acreditar su ilegalidad.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 245.
 
-La valorización de las pruebas se hará de acuerdo con las disposiciones del Código de Procedimientos Civiles, con las siguientes modificaciones:
-
-I.- El valor probatorio de los dictámenes periciales será calificado por el magistrado, según las circunstancias;
-
-II.- Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, el Tribunal adquiera convicción distinta acerca de los hechos materia del litigio, podrá no sujetarse a los preceptos del Código, pero deberá entonces fundar cuidadosamente esta parte de su sentencia; y,
-
-III.- El Tribunal podrá invocar los hechos notorios.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección IX. De la Audiencia
 
 ###### ARTÍCULO 246.
 
-El orden de la audiencia será el siguiente:
-
-I.- Se dará cuenta con las reclamaciones de las partes y con cualquier cuestión incidental suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y se escucharán los alegatos de las partes sobre el particular. Acto continuo se pronunciará la resolución que proceda, ordenando, en su caso, que se practiquen las diligencias omitidas;
-
-II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se leerán la demanda, la contestación y las demás constancias de autos;
-
-III.- Se estudiaran, aun de oficio, los sobreseimientos que procedan respecto de las cuestiones que impidan se emita una decisión en cuando al fondo, y se dictará la resolución que corresponda;
-
-IV.- En su caso, se recibirán las pruebas que hayan sido ofrecidas con relación a la validez o nulidad del acto, acuerdo o procedimiento impugnado; y,
-
-V.- Se oirán los alegatos del actor, de la parte demandada, del tercero interesado y del coadyuvante, que se pronunciarán en ese orden.
-
-Las partes podrán presentar tales alegatos por escrito. Cuando se formulen oralmente no podrán exceder de media hora para cada una de las partes.
-
-Las promociones que las partes formulen en la audiencia, así como sus oposiciones contra los acuerdos que en ella se dicten se resolverán de plano.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 247.
 
-La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de previo y especial pronunciamiento. También podrá suspenderse o prorrogarse de oficio o a petición de parte, cuando exista motivo fundado a juicio del magistrado.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 #### Sección X. De la Sentencia
 
 ###### ARTÍCULO 248.
 
-Instruido el proceso y declarados vistos los autos, se dictará sentencia, para lo cual el Tribunal contará con un término de cinco días hábiles.
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 249.
 
-Se declarará que una resolución administrativa es nula cuando se demuestre alguna de las siguientes causales:
-
-I.- Incompetencia del funcionario que la haya dictado u ordenado o tramitado el procedimiento del que deriva dicha resolución.
-
-II.- Omisión de los requisitos formales exigidos por las leyes, que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso.
-
-III.- Vicios del procedimiento que afecten las defensas del particular y trasciendan al sentido de la resolución impugnada.
-
-IV.- Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas.
-
-V.- Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la Ley confiera dichas facultades.
-
-El Tribunal Contencioso Administrativo podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada y la ausencia total de fundamentación o motivación en dicha resolución.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 250.
 
-Las sentencias del Tribunal de lo Contencioso Administrativo se fundarán en derecho y se examinarán todos y cada uno de los puntos controvertidos de la resolución, la demanda y la contestación; en sus puntos resolutivos expresarán con claridad los actos o procedimientos cuya nulidad se declare o cuya validez se reconozca.
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 ###### ARTÍCULO 251.
 
-La sentencia definitiva podrá:
-
-I.- Reconocer la validez de la resolución impugnada.
-
-II.- Declarar la nulidad de la resolución impugnada.
-
-III.- Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad deba cumplirla, salvo que se trate de facultades discrecionales.
-
-IV.- Declarar la existencia de un derecho subjetivo y condenar al cumplimiento de una obligación, así como declarar la nulidad de la resolución impugnada.
-
-Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, deberá cumplirse en un plazo de cuatro meses contados a partir de que la sentencia quede firme. Dentro del mismo término deberá emitir la resolución definitiva, aun cuando hayan transcurrido los plazos señalados en los Artículos 59 y 79, de este Código.
-
-En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-
-Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III del Artículo 249 de este Código, el Tribunal Contencioso Administrativo declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 T R A N S I T O R I O S
 
@@ -4590,3 +4274,15 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 BIS-8 de la Ley de Hacienda del Estado.
+
+B.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 15, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES".]
+
+Artículo Primero.- El presente decreto entrará en vigor en el Estado de Sonora a partir del 01 de enero de 2022, previa publicación en el Boletín Oficial del Estado de Sonora.
+
+Artículo Segundo.- Los juicios contenciosos administrativos que se hubieran interpuesto antes de la entrada en vigor de la Ley de Justicia Administrativa del Estado de Sonora, se tramitarán y resolverán de conformidad con lo establecido en el Título Sexto del Código Fiscal del Estado de Sonora vigente en el momento de la presentación de la demanda.
+
+Artículo Tercero.- Los juicios de nulidad que se hubieran interpuesto a partir de la entrada en vigor de la Ley de Justicia Administrativa para el Estado de Sonora, se tramitarán y resolverán de acuerdo con lo dispuesto en esa misma Ley, por lo que las leyes que remitan a los artículos comprendidos del 196 al 251, contenidos en el Título Sexto del Código Fiscal del Estado de Sonora que se deroga, se entenderán referidos a los correlativos de la Ley de Justicia Administrativa del Estado de Sonora.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
