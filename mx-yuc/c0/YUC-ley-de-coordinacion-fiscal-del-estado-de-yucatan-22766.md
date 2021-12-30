@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2020-12-30"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -199,21 +199,23 @@ R1TOT Sumatoria de la Recaudación del Impuesto Predial y las cuotas de Servicio
 
 IV.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-V.- El 2.5% se distribuirá con base en la proporción directa del Índice de Masa de Marginación de cada municipio, con respecto a la sumatoria total de los valores del Índice para todos los municipios del Estado.
+V.- El 2.5% se distribuirá en la misma proporción que el Componente de Marginación de cada Municipio.
 
-El Índice de Masa de Marginación resultará de la siguiente fórmula:
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-IMMi= (Mi+2.44852)*Pi
+El Componente de Marginación resultará de la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL D.O. DE 30 DE DICIEMBRE DE 2021, PÁGINA 73.]</small>
 
 En donde:
 
-IMMi Índice de Masa de Marginación para el municipio i.
+> <small>[N. DE E. VÉASE FÓRMULA EN EL D.O. DE 30 DE DICIEMBRE DE 2021, PÁGINA 74.]</small>
 
-Mi Marginación para el municipio i de acuerdo con la última información publicada por el Consejo Nacional de Población.
+Donde:
 
-Pi Población del municipio i de acuerdo con la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática.
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2021, PÁGINA 74.]</small>
 
 > <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -233,7 +235,9 @@ III.- La cantidad establecida en artículo 5, numeral 9, se distribuirá de la s
 
 a) El 70% se distribuirá entre los Municipios, en proporción directa al número de habitantes que cada uno tenga, conforme a la última información oficial publicada por el Instituto Nacional de Estadística, Geografía e Informática.
 
-b) El 30% se distribuirá con base en la proporción directa del Índice de Masa de Marginación de cada municipio, con respecto a la sumatoria total de los valores del Índice para todos los municipios del Estado.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+b) El 30% se distribuirá en la misma proporción que el Componente de Marginación de cada Municipio.
 
 ###### Artículo 7.
 
@@ -526,3 +530,9 @@ D.O. 30 DE DICIEMBRE DE 2020.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 444/2021 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor Este decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
