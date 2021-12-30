@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2021-01-04"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURIDICA PATRIMONIAL DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -97,13 +99,17 @@ XII. Ley: la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yuc
 
 XIII. Registro Público: el Registro Público de la Propiedad y del Comercio del Estado de Yucatán;
 
-XIV. Reglamento: el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XV. (DEROGADA, D.O. 31 DE JULIO DE 2019)
+XIV. Padrón de Peritos: el Padrón de Peritos Valuadores del Estado de Yucatán;
 
-XVI. Titular del Catastro: al Director de la Dirección del Catastro, y
+XV. Reglamento: el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-XVII. Titular del Registro Público: el Director de la Dirección del Registro Público de la Propiedad y del Comercio, quien ejercerá la fe pública registral de la que es depositario pudiendo delegarla en los registradores sin perjuicio de poder ejercerla de manera directa.
+XVI. (DEROGADA, D.O. 31 DE JULIO DE 2019)
+
+XVII. Titular del Catastro: al Director de la Dirección del Catastro, y
+
+XVIII. Titular del Registro Público: el Director de la Dirección del Registro Público de la Propiedad y del Comercio, quien ejercerá la fe pública registral de la que es depositario pudiendo delegarla en los registradores sin perjuicio de poder ejercerla de manera directa.
 
 ## TÍTULO SEGUNDO. REGISTRO PÚBLICO
 
@@ -1051,6 +1057,8 @@ A los usuarios que hagan mal uso del sistema de cómputo o libros, se les suspen
 
 ### CAPÍTULO IV. Del Padrón Catastral y de la Inscripción de Inmueble
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 124.
 
 Para los efectos de este Título, se entenderá por:
@@ -1145,11 +1153,17 @@ VII. Permitir un ágil manejo de la información catastral digitalizada y su act
 
 VIII. Establecer las normas técnicas para la formación, mejoramiento y conservación de los registros para el control de las operaciones catastrales de los inmuebles en el Estado;
 
-IX. Recopilar de los catastros municipales toda la información de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+IX. Recopilar de los catastros municipales toda la información de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado;
 
-X. Recopilar, del Registro Público y de la Dirección del Archivo Notarial de la Consejería Jurídica, toda la información que sea necesaria para los efectos catastrales.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+X. Recopilar, del Registro Público y de la Dirección del Archivo Notarial de la Consejería Jurídica, toda la información que sea necesaria para los efectos catastrales, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XI. Fungir como autoridad fiscal para la revisión y validación de avalúos comerciales que se requieran para las transmisiones de propiedad o bien, tratándose de inscripciones por primera vez en catastro y registro público o para la actualización de la cédula o valor catastral.
 
 ###### Artículo 126.
 
@@ -1163,9 +1177,9 @@ III. Las obligaciones que en materia catastral tienen los propietarios o poseedo
 
 IV. El establecimiento de las normas técnicas que considere necesarias para la formación, mejoramiento y conservación de los registros para el control de las operaciones catastrales de los inmuebles en el Estado, y
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-V. El establecimiento de las normas técnicas y procedimentales necesarias para el intercambio de información con la Dirección del Registro Público.
+V. El establecimiento de las normas técnicas y procedimentales necesarias para el intercambio de información con la Dirección del Registro Público, con la Dirección del Catastro, con la Dirección del Archivo Notarial de la Consejería Jurídica y con la Agencia de Administración Fiscal de Yucatán.
 
 ###### Artículo 127.
 
@@ -1229,11 +1243,17 @@ III. Numérico, constituido por:
 
 a) El número catastral;
 
-b) Ubicación del Predio, indicando calle y número, en su caso;
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-c) Dimensiones y colindancias de cada Predio;
+b) Ubicación del Predio, indicando calle y número, colonia, sección, en su caso;
 
-d) Avalúo del Predio, y
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+c) Superficie, medidas y colindancias de cada Predio, incluyendo descripción de construcciones, en su caso;
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+d) Avalúo del predio, expedido por perito valuador inscrito en el Padrón de Peritos Valuadores del Estado de Yucatán, y
 
 e) Los datos topográficos necesarios.
 
@@ -1279,9 +1299,13 @@ La Valuación Catastral tiene por objeto asignar un valor determinado a los Bien
 
 Las tablas de valores catastrales unitarios tendrán vigencia del primero de enero al treinta y uno de diciembre del año que corresponda y que apruebe la Legislatura del Estado. En los casos en que esto último no ocurriere, se seguirá aplicando la última tabla aprobada.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 137.
 
-En los casos en que no se pueda determinar el Valor Catastral de un Predio, el área de la dirección del catastro que corresponda, con base en los elementos de que disponga, estimará el Valor Catastral aplicable para efectos fiscales, salvo prueba en contrario del propietario del inmueble.
+En los casos en que no se pueda determinar el Valor Catastral de un Predio, el área de la Dirección del Catastro que corresponda, con base en los elementos de que disponga, estimará el Valor Catastral aplicable para efectos fiscales.
+
+En caso de que el propietario del inmueble no esté de acuerdo con el Valor Catastral asignado, se estará a lo dispuesto en el último párrafo del artículo 158 de esta Ley.
 
 ###### Artículo 138.
 
@@ -1335,11 +1359,121 @@ En los casos en que a algún sector del territorio de los Municipios no se le ha
 
 Los Valores Unitarios de Suelo y de Construcción aprobados, así como los valores provisionales, en su caso, son la base para la determinación de los valores catastrales correspondientes a los Bienes Inmuebles, los cuales deberán ser equiparables o proporcionales, en los términos de la legislación aplicable, a los valores de mercado, mismos valores que deberán ser objeto de revisión cada año.
 
-### CAPITULO VII. De la Aclaración
+### CAPÍTULO VI BIS. Del Padrón de Peritos Valuadores del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 bis. El Padrón de Peritos Valuadores del Estado de Yucatán tiene por objeto ser un instrumento de consulta y apoyo a la sociedad sobre las personas que pueden practicar avalúos para efectos fiscales, así como de registro del ejercicio de la valuación comercial e inmobiliaria, que proporciona certeza y seguridad jurídica sobre las personas que pueden realizar avalúos para fines fiscales en el estado.
+
+El Padrón de Peritos Valuadores del Estado de Yucatán será integrado y actualizado por la Dirección de Catastro del Instituto a fin de darle vigencia permanente.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 ter. Para los efectos de esta Ley, se considera perito valuador a la persona inscrita en el Padrón de Peritos que determina el valor comercial de bienes inmuebles mediante un avalúo. Podrán ser peritos valuadores:
+
+I. Las personas físicas dedicadas a la valuación inmobiliaria;
+
+II. Las personas físicas dedicadas a la valuación inmobiliaria que laboren para instituciones de crédito;
+
+III. Las personas físicas dedicadas a la valuación inmobiliaria que laboren en sociedades civiles o mercantiles cuyo objeto específico sea la realización de avalúos, y;
+
+IV. Los corredores públicos, que cuenten con registro o habilitación vigente ante la Secretaría de Economía.
+
+El ejercicio de la valuación en el estado, por parte de los peritos valuadores inscritos en el Padrón de Peritos se regirá conforme a las disposiciones del Código Fiscal del Estado de Yucatán, esta Ley, el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 quáter. Las personas interesadas en inscribirse en el Padrón de Peritos a que se refieren las fracciones I, II y III del artículo anterior deberán presentar por escrito ante el Instituto, la solicitud correspondiente y cumplir, además, los siguientes requisitos:
+
+I. Tener como mínimo una experiencia de dos años en valuación inmobiliaria;
+
+II. Contar con estudios de valuación y cédula profesional de especialidad o maestría en valuación inmobiliaria expedida por la autoridad competente y registrada ante la autoridad competente;
+
+III. Tener conocimientos suficientes de los procedimientos y lineamientos técnicos de valuación inmobiliaria, así como específicamente de la valuación de inmuebles en el estado de Yucatán;
+
+IV. No desempeñar ni haber desempeñado dentro de los seis meses previos a la presentación de la solicitud de inscripción en el Padrón de Peritos, un empleo, cargo o comisión dentro de la Administración Pública federal, estatal o municipal, y
+
+V. Acreditar haber aprobado las evaluaciones que aplique la Dirección del Catastro del Instituto.
+
+Los peritos valuadores que se incorporen a la Administración Pública federal, estatal o municipal deberán hacerlo del conocimiento del Instituto para que suspenda su registro en el Padrón de Peritos durante el tiempo que se encuentren ejerciendo el empleo, cargo o comisión de que se trate.
+
+El Instituto realizará el registro en el Padrón de Peritos, una vez cumplidos los requisitos previstos y expedirá la constancia respectiva en un plazo que no excederá de quince días hábiles siguientes a la presentación de la solicitud. En caso de que la solicitud de inscripción haya sido resuelta en sentido negativo, el Instituto informará al solicitante las causas que motivaron la negativa dentro del mismo plazo.
+
+El Instituto convocará previo curso correspondiente a las personas que cuenten con registro en el Padrón de Peritos, ya sean auxiliares o independientes a la realización de exámenes teórico-prácticos, al menos, cada año, a efecto de verificar su actualización en el conocimiento de las leyes, lineamientos y manuales técnicos y administrativos, así como del mercado inmobiliario actual del estado de Yucatán. Cuando como resultado de dicho examen no se acredite tener los conocimientos suficientes para ejercer la práctica valuatoria, el perito valuador auxiliar o perito valuador independiente tendrán una oportunidad más de presentar el examen en un lapso máximo de dos meses antes de suspender su registro. Una vez cancelado, deberá presentar el examen en las fechas subsecuentes para aspirantes, establecidas en el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán, hasta por dos ocasiones más antes de proceder a la cancelación de su registro.
+
+El Instituto a través de su portal electrónico deberá publicar y mantener actualizado el Padrón de Peritos, expresando sus nombres, direcciones, número de registro y datos profesionales correspondientes.
+
+En el caso de las personas a que se refiere la fracción IV del artículo anterior que deseen inscribirse en el Padrón de Peritos únicamente deberán presentar ante el Instituto la solicitud correspondiente y el documento que contenga el registro o habilitación vigente que lo acredite como corredor público, emitido por la Secretaría de Economía.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 quinquies. Son obligaciones de los peritos valuadores inscritos en el Padrón de Peritos:
+
+I. Ejercer profesionalmente su actividad, con probidad, rectitud y eficiencia;
+
+II. Aplicar los lineamientos, métodos, criterios y técnicas establecidos en el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán;
+
+III. Asentar en los avalúos, los datos que correspondan a las condiciones reales del inmueble y determinar los valores de acuerdo con lo establecido en el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán;
+
+IV. Efectuar la inspección del predio objeto del avalúo;
+
+V. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto; en los que exista interés por parte de alguno de sus parientes consanguíneos en línea recta sin limitación de grado, colateral dentro del cuarto grado, y por afinidad dentro del segundo grado; en los que tenga amistad o enemistad con las partes, así como en los asuntos de las sociedades, sean civiles o mercantiles, de las que forme parte;
+
+VI. Integrar los avalúos que expida, con los datos complementarios requeridos por la normativa expedida por el Instituto;
+
+VII. Guardar el secreto profesional en relación con el ejercicio de sus funciones, salvo el caso de mandato por autoridad competente;
+
+VIII. Proporcionar a la Dirección de Catastro del Instituto, la documentación y la información que se le requiera en los términos de esta Ley, su reglamento y el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán;
+
+IX. Someterse a las evaluaciones anuales que instrumente la Dirección del Catastro del Instituto, y
+
+X. Las demás que les señalen esta Ley, el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán y las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 sexies. Los peritos valuadores deberán estimar el valor comercial de los predios a la fecha de la emisión del avalúo; cuando se requiera y exista información suficiente, podrán referir su valor a una época anterior, manifestando este hecho en el avalúo y motivando debidamente esa consideración.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 septies. Los avalúos comerciales que expidan los peritos valuadores conforme a las disposiciones de este Capítulo tendrán vigencia de seis meses, contados a partir de la fecha en que se expidan salvo que durante ese período los inmuebles objeto de avalúo, sufran modificaciones que impliquen variaciones en sus características físicas.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 octies. Los peritos valuadores deberán presentar, previo al otorgamiento del acto traslativo de dominio, la documentación e información que hayan utilizado para integrar los avalúos y estos a la Dirección del Catastro del Instituto a través de los medios electrónicos correspondientes, con su firma electrónica respectiva para obtener su validación.
+
+En caso de que el perito valuador hubiere presentado la información o documentación incompleta, la Dirección del Catastro del Instituto podrá prevenir, a través de los medios remotos correspondientes, por única vez, a los peritos valuadores, para que exhiban la documentación o información faltante en un plazo no mayor de tres días hábiles, contado a partir de la fecha de la prevención, suspendiéndose el término con que cuenta la Dirección del Catastro del Instituto para concluir el procedimiento de validación, en el entendido de que, si el perito valuador no la presenta dentro del plazo otorgado, se tendrá por desechada su solicitud de validación.
+
+La Dirección del Catastro del Instituto resolverá respecto a la solicitud de validación del perito valuador en el plazo de setenta y dos horas posteriores a la presentación del avalúo, así como de la documentación e información completa utilizada para elaborarlo y comunicará su resolución al perito valuador mediante documento electrónico a través del medio remoto que el perito valuador haya utilizado para presentarla, resolución que en caso de ser favorable deberá adjuntarse por el perito al avalúo.
+
+En caso de que la autoridad no se manifieste dentro del plazo referido, respecto a la solicitud, se entenderá que el avalúo ha sido validado. A petición del perito valuador, la Dirección del Catastro del Instituto expedirá la constancia que acredite esta situación, dentro de los dos días hábiles siguientes a la fecha en que se debió emitir la validación respectiva, la cual deberá adjuntarse por el perito al avalúo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 nonies. Las dependencias y entidades del Gobierno del estado y los fedatarios públicos solo admitirán, para el desahogo de sus trámites, los avalúos comerciales de bienes inmuebles expedidos por los peritos valuadores inscritos y cuyo registro se encuentre vigente en el Padrón de Peritos.
+
+Los avalúos a que se refiere el párrafo anterior deberán ser previamente validados por la Dirección del Catastro del Instituto, a excepción de lo previsto en el artículo 20-D del Código Fiscal del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Artículo 175 decies. En caso de que las personas inscritas en el Padrón de Peritos ante la Dirección del Catastro del Instituto practiquen avalúos sin ajustarse a lo establecido en el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán, en el Código Fiscal del Estado de Yucatán o en esta ley, la Dirección del Catastro del Instituto podrá aplicarles las siguientes sanciones:
+
+I. Apercibimiento;
+
+II. Amonestación pública o privada;
+
+III. Multa de mil a diez mil unidades de medida y actualización vigentes al momento de la infracción;
+
+IV. Suspensión del registro en el referido padrón por un periodo de seis meses hasta treinta y seis meses;
+
+V. Cancelación de registro como perito valuador, y
+
+VI. Inhabilitación en la función de perito valuador hasta por cinco años.
+
+Si hubiere reincidencia o participación en la comisión de algún delito fiscal, se podrá duplicar el monto máximo de la multa referida y cancelar dicho registro, sin perjuicio de las demás sanciones administrativas o penales en que pudieran llegar a incurrir, y se notificará al colegio respectivo; lo anterior sin perjuicio del ejercicio de facultades de comprobación que corresponda por la autoridad fiscal para determinar las contribuciones omitidas por quien hubiere utilizado un avalúo que no cumpla con las disposiciones legales respectivas.
 
 ###### Artículo 144.
 
-Todos los Bienes Inmuebles ubicados en el territorio del Estado se inscribirán en el Catastro correspondiente, señalando sus características físicas de ubicación, de uso y su valor, así como los datos socioeconómicos y estadísticos necesarios para cumplir los objetivos del Catastro, en sus formatos correspondientes.
+Todos los bienes inmuebles ubicados en el territorio del Estado se inscribirán en el Catastro correspondiente, señalando sus características físicas de ubicación, superficie, medidas y colindancias; de uso y su valor; descripción de la construcción; así como los datos socioeconómicos y estadísticos necesarios para cumplir los objetivos del Catastro, en sus formatos correspondientes.
 
 Para la inscripción de un Predio en el Padrón Catastral, la autoridad catastral deberá comprobar fehacientemente que dicho Predio no se encuentra ya inscrito y, en su caso que haya una resolución firme de la autoridad competente.
 
@@ -1429,11 +1563,15 @@ El desarrollador inmobiliario dará aviso a las autoridades estatales y municipa
 
 Cuando se trate de predios sujetos a régimen de propiedad en Condominio, los propietarios o poseedores del mismo deberán solicitar a la autoridad catastral municipal o estatal según corresponda, la expedición de la constancia de factibilidad, antes de la inscripción del título correspondiente.
 
-### CAPÍTULO I
+### CAPITULO VII. De la Aclaración
 
 ###### Artículo 158.
 
 La Dirección del Catastro o el área equivalente que corresponda asignará el Valor Catastral a los Bienes Inmuebles, de acuerdo al Título y las normas técnicas y administrativas aplicables y emitirá una resolución del valor por escrito que será la Cédula Catastral.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En caso de que el propietario del predio se encuentre inconforme respecto al valor previsto en la cédula catastral que emita el Instituto, por considerar que no se apega a las características de su inmueble, en cualquier momento a partir de su emisión podrá presentar ante la Dirección del Catastro del Instituto un avalúo, elaborado por perito valuador que forme parte del Padrón y validado por el Instituto, para efectos de que este actualice el valor previsto en la cédula catastral. La Dirección del Catastro del Instituto deberá notificar al municipio respectivo sobre la modificación de la cédula catastral de un predio ubicado dentro de su territorio dentro de los diez días hábiles siguientes a que esta ocurra, para los efectos legales que correspondan.
 
 ###### Artículo 159.
 
@@ -1469,11 +1607,15 @@ En caso de no cumplir con esta disposición, el propietario o poseedor se hará 
 
 La Valuación Catastral de inmuebles ubicados en el territorio del Estado se llevará a cabo en los siguientes casos:
 
-l. Cuando se realicen movimientos de propietario o poseedor o cambios a la forma física de un inmueble o cuando sean distintas a las asentados en el Padrón Catastral;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+I. Cuando se realicen movimientos de propietario o poseedor o cambios a la forma física o legal de un inmueble o cuando sean distintas a los asentados en el Padrón Catastral;
 
 II. Cuando la clave catastral sea distinta a la que corresponda al bien inmueble;
 
-III. Cuando exista error o diferencia en los datos asentados en el Padrón Catastral relativos a la superficie, linderos o colindancias del terreno;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+III. Cuando exista error o diferencia en los datos asentados en el Padrón Catastral relativos a la superficie, linderos o colindancias del terreno, en las construcciones, o en el uso o destino del Predio;
 
 IV. Cuando el valor asignado por la autoridad catastral no se haya realizado conforme a los términos establecidos en el presente Título;
 
@@ -1498,6 +1640,10 @@ g) Se inscriban en el Registro Público, o
 h) Se expropien, en los términos de las leyes aplicables.
 
 VI. En los demás casos en los que haya error o diferencia entre los datos asentados en el Padrón Catastral y las características del bien inmueble.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En caso de que el propietario del inmueble no esté de acuerdo con el valor catastral asignado, se estará a lo dispuesto en el último párrafo del artículo 158 de esta Ley.
 
 ###### Artículo 165.
 
@@ -1549,7 +1695,7 @@ Los distintos levantamientos técnicos catastrales se efectuarán de acuerdo a l
 
 Si las dimensiones manifestadas o las que aparezcan en el documento de propiedad o posesión de un bien inmueble, son diferentes a las dimensiones que resulten de un levantamiento técnico catastral efectuado por métodos topográficos convencionales o aerofotograméticos, se ordenará el deslinde catastral, cuyo costo será cubierto por el propietario o posesionario del bien inmueble de que se trate conforme a la ley aplicable a la materia.
 
-### CAPÍTULO II
+### CAPÍTULO I
 
 ###### Artículo 171.
 
@@ -1577,9 +1723,11 @@ El Gobierno del Estado y los Ayuntamientos podrán celebrar convenios entre sí 
 
 La información que generen en materia catastral las dependencias y organismos auxiliares de Administración Pública Estatal y Municipal de carácter interno y que forme parte de sus registros administrativos, será responsabilidad de cada una de ellas y la pondrán a disposición de la Dirección del Catastro para la constitución del acervo catastral del Estado, cuando sea de interés general.
 
-### CAPÍTULO III
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO IV
+### CAPÍTULO II
+
+### CAPÍTULO III
 
 ###### Artículo 176.
 
@@ -1623,7 +1771,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO V
+### CAPÍTULO IV
 
 ###### Artículo 179.
 
@@ -1635,7 +1783,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO VI
+### CAPÍTULO V
 
 ###### Artículo 181.
 
@@ -1655,7 +1803,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO I. De la Creación, Organización e Integración del Instituto
+### CAPÍTULO VI
 
 ###### Artículo 185.
 
@@ -1675,7 +1823,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO II. Del Órgano de Gobierno
+### CAPÍTULO I. De la Creación, Organización e Integración del Instituto
 
 ###### Artículo 189.
 
@@ -1691,7 +1839,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO III. De la Dirección General del Instituto
+### CAPÍTULO II. Del Órgano de Gobierno
 
 ###### Artículo 192.
 
@@ -1711,7 +1859,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO IV. Del Patrimonio del Instituto
+### CAPÍTULO III. De la Dirección General del Instituto
 
 ###### Artículo 196.
 
@@ -1723,7 +1871,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 ## TÍTULO QUINTO. INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-### CAPÍTULO V. Del Personal del Instituto
+### CAPÍTULO IV. Del Patrimonio del Instituto
 
 ###### Artículo 198.
 
@@ -1738,6 +1886,10 @@ El Instituto tiene por objeto llevar a cabo las funciones públicas correspondie
 ###### Artículo 200.
 
 El Instituto tendrá el carácter de autoridad fiscal, con atribuciones para determinar los créditos fiscales y las bases de la liquidación, de éstos, fijarlos en cantidad líquida, notificarlos, cobrarlos, exigirlos mediante el procedimiento administrativo de ejecución, así como verificar y comprobar el exacto cumplimiento de las obligaciones fiscales que se generen con motivo de la prestación de sus servicios, e imponer las sanciones que correspondan por las infracciones a las mismas, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Asimismo, el Instituto podrá fungir como autoridad fiscal para la revisión y validación de avalúos comerciales que se requieran para las transmisiones de propiedad o bien, tratándose de inscripciones por primera vez en el catastro o para la actualización de la Cédula o Valor Catastral.
 
 ###### Artículo 201.
 
@@ -1755,13 +1907,29 @@ III. Fungir como órgano de consulta para los titulares de las dependencias y en
 
 IV. Atender, en materia jurídica, los temas, la problemática y propuestas de solución de las áreas que lo integran, considerando las proposiciones formuladas por las dependencias y entidades de la Administración Pública de Yucatán, que tengan vinculación con el Instituto;
 
-V. Celebrar y suscribir acuerdos y convenios con las autoridades federales, estatales y municipales, así como con los sectores social y privado, para el eficaz cumplimiento de su objeto y funciones, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-VI. Las demás que esta Ley y otras disposiciones legales le otorguen.
+V. Celebrar y suscribir acuerdos y convenios con las autoridades federales, estatales y municipales, así como con los sectores social y privado, para el eficaz cumplimiento de su objeto y funciones;
 
-### CAPÍTULO VI. De la Profesionalización
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+VI. Integrar y mantener actualizado el Padrón de Peritos, a través de su Dirección del Catastro;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VII. Revisar, en apoyo a la autoridad fiscal, a través de su Dirección del Catastro, los avalúos comerciales realizados por los peritos valuadores que formen parte del Padrón de Peritos Valuadores del Estado de Yucatán, que utilicen los contribuyentes para el pago de las contribuciones estatales;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VIII. Validar los avalúos comerciales que expidan los peritos valuadores, a través de su Dirección del Catastro;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+IX. Sancionar a quienes emitan y utilicen avalúos que no cumplan con las disposiciones legales y normativas aplicables, en términos de esta ley, y
+
+X. Las demás que esta Ley y otras disposiciones legales le otorguen.
+
+### CAPÍTULO V. Del Personal del Instituto
 
 ###### Artículo 202.
 
@@ -1897,6 +2065,10 @@ XXIX. Autorizar la enajenación, afectación, cesión o disposición de los acti
 
 XXX. Las demás que esta Ley, el Código de la Administración Pública de Yucatán, el Reglamento de la Administración Pública de Yucatán y otras disposiciones legales le otorguen.
 
+### CAPÍTULO VI. De la Profesionalización
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ### CAPÍTULO VII. De la Especialización
 
 > <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
@@ -1912,10 +2084,6 @@ Artículo 228 Cuáter. Para ser designado titular del Catastro del Estado, adem�
 Catastro, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años y contar con experiencia acreditada en las áreas de cartografía, valuación inmobiliaria y en sistemas de información catastral.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 211.
 
@@ -2017,7 +2185,9 @@ Los servidores públicos con jerarquía inmediata inferior a la del Director Gen
 
 El Instituto contará con un Comisario, que será designado por el Titular de la Secretaría de la Contraloría General del Gobierno del Estado de Yucatán, quien tendrá la función de vigilar la correcta aplicación de las disposiciones legales y administrativas correspondientes, así como las demás que le confiera la Ley de la materia y el titular de la citada Secretaría.
 
-### CAPÍTULO I. Del Recurso Administrativo de Revisión
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 216.
 
@@ -2077,15 +2247,15 @@ El Instituto llevará su contabilidad de conformidad con las disposiciones aplic
 
 El Instituto deberá publicar sus balances consolidados anuales en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-### CAPÍTULO II. De las Notificaciones
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO I. Del Recurso Administrativo de Revisión
 
 ###### Artículo 225.
 
 Las relaciones laborales del Instituto con sus trabajadores, cualquiera que sea la naturaleza de la contratación de los mismos, se regirá por lo dispuesto en el artículo 123 Apartado A de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en las demás disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. De las Notificaciones
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 226.
 
@@ -2104,6 +2274,8 @@ Los trabajadores del Instituto, tendrán la obligación de participar en los pro
 ### CAPÍTULO ÚNICO
 
 ## TÍTULO SEXTO. VINCULACIÓN DEL REGISTRO PÚBLICO Y DEL CATASTRO
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 229.
 
@@ -2410,3 +2582,25 @@ El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integrac
 Quinto. Actualización del órgano colegiado en materia de medio ambiente
 
 El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
+
+D.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 443/2021 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE AVALÚOS, COMO PARTE DEL PAQUETE FISCAL 2022”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2022, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el artículo 20-K de la Ley General de Hacienda del Estado de Yucatán, que lo hará el 1 de febrero de 2022 y de lo establecido en el penúltimo párrafo del artículo 20-I; el párrafo tercero del artículo 20 J; la fracción XIV del artículo 68; de la Ley General de Hacienda del Estado de Yucatán; los párrafos tercero y último del artículo 20-A; los artículos 20-B y 20-C; y el último párrafo del artículo 45, del Código Fiscal del Estado de Yucatán; la fracción XI del artículo 125; las fracciones II, III, VI, VIII y IX del artículo 175 quinquies; los artículos 175 septies y 175 octies; el párrafo segundo del artículo 175 nonies; 175 decies; el párrafo segundo del artículo 200; y las fracciones VII, VIII y IX del artículo 201 de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán que lo harán el 15 de febrero de 2022.
+
+Segundo. Obligación normativa
+
+El Gobernador del Estado emitirá el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
+
+En tanto se emite el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán, el Instituto de Seguridad Jurídica Patrimonial de Yucatán utilizará la NMX-R-081-SCFI-2015 denominada Servicios-Servicios de Valuación-Metodología, para la validación de los avalúos comerciales que le presenten los peritos valuadores en términos de este decreto.
+
+Tercero. Obligación de inscribirse en el padrón
+
+Las personas que se refiere el artículo 175 ter de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán tendrán la obligación de inscribirse en el Padrón de Peritos Valuadores del Estado de Yucatán para obtener la validación de sus avalúos en términos de este decreto a partir del 1 de enero de 2022, previa publicación de la convocatoria que, al efecto, emita el Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+Cuarta. (sic) Emisión de la convocatoria
+
+El Instituto de Seguridad Jurídica Patrimonial de Yucatán, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días, contado a partir de la entrada en vigor de este decreto.
