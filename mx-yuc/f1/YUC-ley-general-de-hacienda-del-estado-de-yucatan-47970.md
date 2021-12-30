@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2021-11-23"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -87,6 +87,14 @@ OBLIGACIONES ESPECÍFICAS DE CADA TRIBUTO: A aquellas obligaciones a cargo de lo
 
 UNIDADES ECONÓMICAS: A los fideicomisos, las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, las sucesiones, las copropiedades, las sociedades conyugales y todas aquellas entidades, que sin tener personalidad jurídica propia, realizan los actos o actividades que causan contribuciones o aprovechamientos. El tratamiento fiscal de las unidades económicas será el mismo que para las personas morales.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+BASE SECA: Al terreno sin agua o líquidos, que se hubieran añadido ya sea por medios naturales o artificiales.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+NORMA OFICIAL MEXICANA: a la regulación técnica de observancia obligatoria expedida por las autoridades normalizadoras competentes cuyo fin esencial es el fomento de la calidad para el desarrollo económico y la protección de los objetivos legítimos de interés público previstos en la Ley de Infraestructura de la Calidad, mediante el establecimiento de reglas, denominación, especificaciones o características aplicables a un bien, producto, proceso o servicio, así como aquellas relativas a terminología, marcado o etiquetado y de información. Las Normas Oficiales Mexicanas se considerarán como reglamentos técnicos o medidas sanitarias o fitosanitarias, según encuadren en las definiciones correspondientes previstas en los tratados internacionales de los que el Estado Mexicano es parte.
+
 > <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 4.
@@ -125,9 +133,9 @@ El pago de los derechos que establece esta ley, deberá hacerse previamente a la
 
 Cuando esta ley establezca que el pago de derechos deba realizarse por períodos, se entenderá que dichos pagos son previos a la prestación del servicio correspondiente, excepto en los casos en que por su naturaleza, el pago no pueda efectuarse con anterioridad a la prestación del mismo.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-La cuota del derecho deberá corresponder al ejercicio fiscal en el que se preste el servicio, en caso contrario, deberá pagarse un diferencial al momento de prestarse el servicio, que será igual al monto del derecho del ejercicio fiscal en el que se preste el servicio menos el monto del derecho del ejercicio en el que se pagó.
+La cuota del derecho deberá corresponder al ejercicio fiscal en el que se preste el servicio.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -395,9 +403,9 @@ VI.- La transmisión de dominio de un bien tangible o del derecho para adquirirl
 
 En los casos de permuta se considerará que hay dos enajenaciones.
 
-> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicios, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no pueda determinarse la contraprestación, se atenderá al valor de avalúo que se practique o se hubiera practicado para la transmisión de propiedad.
+Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicios, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no pueda determinarse la contraprestación, se atenderá al valor de avalúo que se practique o se hubiera practicado por persona autorizada por las autoridades fiscales, para la transmisión de propiedad.
 
 > <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -419,43 +427,85 @@ ARTÍCULO 20 I.- Para los efectos de la determinación de la base se atenderá a
 
 Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles, efectuarán el pago del impuesto por cada una de las operaciones que realicen, aplicando la tasa del 5% sobre la base determinada de acuerdo con el párrafo que antecede y se enterará mediante declaración que se presentará dentro de los 30 días hábiles siguientes a la fecha de enajenación.
 
-> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-En el caso de operaciones consignadas en escritura pública, los notarios y demás fedatarios que por disposición legal tengan funciones notariales, bajo su responsabilidad, calcularán y recaudarán el impuesto a que se refiere esta Sección y lo enterarán en las oficinas autorizadas mediante declaración que se presentará dentro de los 30 días hábiles siguientes a la fecha en la que se firme la escritura.
+En el caso de operaciones consignadas en escritura pública, los notarios y demás fedatarios que por disposición legal tengan funciones notariales, bajo su responsabilidad, calcularán y recaudarán el impuesto a que se refiere este capítulo y lo enterarán en las oficinas autorizadas mediante declaración que se presentará dentro de los treinta días hábiles siguientes a la fecha en la que se firme la escritura.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Si para calcular el impuesto señalado, los contribuyentes o los fedatarios atienden al valor del avalúo del bien objeto de la enajenación, practicado por persona autorizada por las autoridades fiscales conforme a lo establecido en el siguiente artículo, deberán presentar la información relativa a los avalúos utilizados, en la declaración que corresponda, en términos de este artículo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Los fedatarios deberán verificar que los avalúos que sirvan de base para el cálculo del impuesto a que se refiere este capítulo hubieren sido realizados por peritos inscritos en el Padrón de Peritos Valuadores del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Además, los fedatarios públicos deberán constatar que los avalúos cuenten con la validación de la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
 
 > <small>(ADICIONADO, D.O. 19 DE FEBRERO DE 2014)</small>
 
 Los fedatarios quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere este artículo cuando la enajenación se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
-
-ARTÍCULO 20 J.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o persona con cédula profesional de especialista en valuación o maestría en valuación debidamente registrada ante la Secretaría de Educación del Poder Ejecutivo del Estado de Yucatán. La Agencia de Administración Fiscal de Yucatán estará facultada para ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 #### SECCIÓN TERCERA. DE LAS EXENCIONES
 
-> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-ARTÍCULO 20 K.- No se pagará el impuesto a que se refiere este Capítulo por los ingresos percibidos por la enajenación de la casa-habitación del contribuyente.
+###### ARTÍCULO 20-J.
 
-Para los efectos de este artículo, los contribuyentes deberán acreditar ante el fedatario público que formalice la operación que el inmueble objeto de la operación es la casa-habitación del contribuyente, con cualquiera de los documentos comprobatorios que se mencionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el del domicilio del bien inmueble enajenado:
+Los contribuyentes podrán solicitar la práctica de un avalúo por peritos valuadores registrados en el Padrón de Peritos Valuadores del Estado de Yucatán.
 
-I.- Credencial de elector vigente.
+Las personas que realicen los avalúos deberán contar con un registro vigente en el Padrón de Peritos Valuadores del Estado de Yucatán ante la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, en términos de lo dispuesto en el Código Fiscal del Estado de Yucatán, en la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y demás disposiciones aplicables.
 
-II.- Comprobante de pago efectuado por la prestación de los servicios de energía eléctrica o de telefonía fija.
+Los avalúos elaborados por los peritos valuadores a que se refiere el párrafo anterior, que se presenten ante la Agencia de Administración Fiscal de Yucatán deberán estar validados por la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, en términos de lo dispuesto en el Código Fiscal del Estado de Yucatán, la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y demás disposiciones legales y normativas aplicables.
 
-III.- Estado de cuenta que proporcione alguna institución de las que componen el sistema financiero, por casas comerciales o de tarjetas de crédito no bancarias.
+Las autoridades fiscales estarán facultadas para ordenar, revisar o tomar en cuenta el avalúo del bien objeto de la enajenación, lo anterior con independencia del ejercicio de sus facultades de comprobación.
 
-La documentación a que se refieren las fracciones anteriores deberá estar a nombre del contribuyente, de su cónyuge, de sus ascendientes o sus descendientes, en línea recta.
-
-Para efectos de este artículo, se considera que la casa-habitación del contribuyente comprende además la superficie del terreno que no exceda de tres veces el área cubierta por las construcciones que integran la casa-habitación. Si la superficie del terreno excede de tres veces el área de construcción, se pagará el impuesto por el ingreso obtenido por la superficie del terreno excedente.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN CUARTA. DE LOS RESPONSABLES SOLIDARIOS
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 20-K.
+
+No se pagará el impuesto a que se refiere este capítulo por los ingresos percibidos por la enajenación de la casa habitación del contribuyente, siempre que el monto de la contraprestación obtenida no exceda de setecientas mil unidades de inversión y la transmisión se formalice ante fedatario público. Por el excedente, el referido fedatario determinará la ganancia, calculará y enterará el impuesto en los términos de este capítulo. Para determinar la ganancia se deberán considerar las deducciones en la proporción que resulte de dividir el excedente entre el monto de la contraprestación obtenida.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Para los efectos de este artículo, los contribuyentes deberán acreditar ante el fedatario público que formalice la operación, que el inmueble objeto de esta es la casa habitación del contribuyente, con cualquiera de los documentos comprobatorios que se mencionan a continuación, siempre que el domicilio consignado en dicha documentación coincida plenamente o, en su caso, con alguno de los elementos fundamentales del domicilio del bien inmueble enajenado, utilizados en el instrumento correspondiente y que el fedatario público haga constar esta situación cuando formalice la operación:
+
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2014)</small>
+
+I.- Credencial de elector vigente.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+II.- Comprobantes fiscales de los pagos efectuados por la prestación de los servicios de energía eléctrica o de telefonía fija.
+
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2014)</small>
+
+III.- Estado de cuenta que proporcione alguna institución de las que componen el sistema financiero, por casas comerciales o de tarjetas de crédito no bancarias.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+La documentación a que se refieren las fracciones anteriores deberá estar a nombre del contribuyente, de su cónyuge, de sus ascendientes o sus descendientes, en línea recta.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+
+Para efectos de este artículo, se considera que la casa-habitación del contribuyente comprende además la superficie del terreno que no exceda de tres veces el área cubierta por las construcciones que integran la casa-habitación. Si la superficie del terreno excede de tres veces el área de construcción, se pagará el impuesto por el ingreso obtenido por la superficie del terreno excedente.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+La exención prevista en este artículo será aplicable siempre que durante los tres años inmediatos anteriores a la fecha de enajenación de que se trate, el contribuyente no hubiere enajenado otra casa habitación por la que hubiera obtenido la exención prevista en este artículo y manifieste, bajo protesta de decir verdad, dichas circunstancias ante el fedatario público ante quien se protocolice la operación.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En el caso de operaciones consignadas en escritura pública, exentas del pago del impuesto establecido en este capítulo, los fedatarios públicos que por disposición legal tengan funciones notariales, bajo su responsabilidad, deberán presentar la información relativa a los datos de las operaciones exentas, mediante declaración, a través de los medios que para tal efecto apruebe la Agencia de Administración Fiscal de Yucatán, dentro de los treinta días hábiles siguientes a aquel en el que se firme la escritura.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
@@ -465,7 +515,9 @@ Para efectos de este artículo, se considera que la casa-habitación del contrib
 
 Son solidariamente responsables del pago de este impuesto:
 
-I.- Los notarios y demás fedatarios que por disposición legal tengan funciones notariales, que tengan la obligación de calcular y enterar el impuesto de conformidad con lo dispuesto por el artículo 20-I de la ley, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+I.- Los notarios y demás fedatarios que por disposición legal desempeñen funciones notariales y tengan la obligación de calcular y enterar el impuesto conforme a este capítulo, y
 
 II.- Los funcionarios y empleados públicos que autoricen cualquier trámite relacionado con la enajenación de bienes inmuebles por los que se debió haber pagado este impuesto, sin haberse cerciorado de su pago.
 
@@ -540,6 +592,10 @@ La base de este impuesto es el monto total de las erogaciones que se realicen en
 El impuesto se determinará aplicando a la base la tasa del 3%.
 
 Tratándose de erogaciones realizadas a favor de los trabajadores de los Poderes Legislativo, Ejecutivo o Judicial del estado de Yucatán, de trabajadores de los organismos autónomos estatales, de los organismos o empresas de la Administración Pública estatal, se aplicará una tasa del 1%, en adición a la tasa prevista en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+La tasa adicional prevista en el párrafo anterior no será aplicable a las universidades e instituciones de educación superior a las que la Ley otorgue autonomía.
 
 #### SECCIÓN SEXTA. DE LA ÉPOCA Y LUGAR DE PAGO
 
@@ -649,9 +705,55 @@ j) Unidades agrícolas industriales de la mujer campesina.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-#### SECCIÓN PRIMERA. DEL OBJETO
+#### SECCIÓN DÉCIMA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 27 I.- Los contribuyentes de este impuesto tienen, además de las obligaciones señaladas en este capítulo y en las demás disposiciones fiscales, las siguientes:
+
+I.- Llevar y conservar su contabilidad de conformidad con el Código Fiscal del Estado de Yucatán, y conforme a las reglas de carácter general que, en su caso, emita la Agencia de Administración Fiscal de Yucatán.
+
+II.- Llevar y conservar los demás documentos que sean necesarios para acreditar que se ha cumplido con las obligaciones fiscales previstas en este capítulo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 27 J.- Los contribuyentes que realicen las erogaciones objeto de este impuesto y que deriven de construcción por obra o tiempo determinado, tendrán, independientemente de las obligaciones de carácter general previstas en este capítulo, las siguientes:
+
+I.- Presentar el Aviso de Inicio de Obra que corresponda al domicilio en donde se realizarán los trabajos, dentro del plazo de diez días hábiles previos al inicio de la construcción, o dentro de los diez días posteriores a la firma del contrato de obra, lo que suceda primero, en el que informarán lo siguiente:
+
+a) Fecha de inicio de los trabajos.
+
+b) Tipo de obra a ejecutar, pública o privada.
+
+c) Ubicación de la obra.
+
+d) Número de trabajadores.
+
+e) Tiempo de duración de la obra.
+
+f) Costo total de mano de obra.
+
+g) Número de Licencia de Construcción.
+
+h) Número de metros cuadrados de construcción.
+
+II.- Presentar el Aviso de Incidencias de Obra, correspondiente a la suspensión, reanudación, cancelación y terminación de la obra, dentro de los diez días hábiles siguientes a la fecha de la incidencia.
+
+Los avisos a que se refiere este artículo deberán presentarse a través de los medios que para tal efecto disponga la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 27 K.- Los contribuyentes que hayan realizado pagos a más de cien trabajadores en promedio mensual o que hayan erogado más de $ 12´000,000.00 moneda nacional por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios en el ejercicio fiscal, en términos del artículo 21 de esta ley, deberán presentar la determinación del pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, mediante dictamen emitido por contador público registrado ante la Agencia de Administración Fiscal de Yucatán.
+
+Los contribuyentes a que se refiere el párrafo anterior deberán presentar el aviso correspondiente a más tardar el 31 de marzo del ejercicio siguiente al que se dictaminen y el dictamen a más tardar el 30 de junio del ejercicio inmediato posterior al que se dictamina, ambos en términos del Código Fiscal del Estado de Yucatán y de las reglas de carácter general que para tal efecto expida la Agencia de Administración Fiscal de Yucatán. Tanto el aviso como el dictamen se presentarán en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán.
+
+En caso de que en el dictamen se determinen diferencias a pagar, estas deberán enterarse mediante declaración complementaria en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán dentro de los diez días siguientes a la presentación del dictamen.
+
+Lo dispuesto anteriormente no será aplicable a los contribuyentes que, estando obligados a presentar el dictamen en términos de este artículo, decidan presentar información alternativa al dictamen y pagar el impuesto mediante declaración mensual definitiva, siempre que reúnan los requisitos establecidos en las disposiciones de carácter general que emita la Agencia de Administración Fiscal de Yucatán.
+
+La Agencia de Administración Fiscal de Yucatán está facultada para emitir las reglas de carácter general para el cumplimiento de la obligación de los contribuyentes señalada en el párrafo tercero de este artículo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 27-E.
 
@@ -725,19 +827,17 @@ ARTÍCULO 27 H.- El retenedor será responsable solidario en términos de lo dis
 
 Cuando no se efectúen las retenciones a que se refiere el artículo 22 Bis y no se enteren de conformidad con lo señalado en este capítulo, las autoridades fiscales presumirán, salvo prueba en contrario, que el impuesto omitido es el que resulte de aplicar la tasa a que se refiere el primer párrafo del artículo 24 de esta ley, al total de las contraprestaciones pactadas con el prestador del servicio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
+#### SECCIÓN PRIMERA. DEL OBJETO
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. DEL SUJETO
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-#### SECCIÓN TERCERA. DE LA BASE
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
 ### CAPÍTULO IV. IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, CONCURSOS Y JUEGOS CON CRUCE DE APUESTAS LEGALMENTE PERMITIDOS
 
-#### SECCIÓN CUARTA. DE LA TASA
+#### SECCIÓN TERCERA. DE LA BASE
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -753,9 +853,9 @@ Quedan comprendidos en los juegos con cruce de apuestas, independientemente del 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-#### SECCIÓN QUINTA. ÉPOCA DE PAGO
+#### SECCIÓN CUARTA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 29.
 
@@ -769,9 +869,9 @@ III. Cobren los premios derivados de las actividades enunciadas en la fracción 
 
 IV. Reciban o cobren premios en el territorio del Estado, sin importar que el evento se hubiere celebrado fuera de éste.
 
-#### SECCIÓN SEXTA. DE LAS EXENCIONES
+#### SECCIÓN QUINTA. ÉPOCA DE PAGO
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 30.
 
@@ -783,7 +883,7 @@ Para el caso de los premios en especie se tomará como base gravable el valor de
 
 Cuando no exista una contraprestación para participar en una lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitidas, se considerará como base gravable el valor del premio otorgado, ya sea en efectivo, en especie o en el valor de los servicios.
 
-#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
+#### SECCIÓN SEXTA. DE LAS EXENCIONES
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -809,9 +909,9 @@ V. Quienes obtengan premios derivados de juegos permitidos con cruce o captació
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-#### SECCIÓN PRIMERA. DEL OBJETO
+#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 32.
 
@@ -831,7 +931,9 @@ Los contribuyentes eventuales no podrán iniciar la lotería, rifa, sorteo, conc
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+#### SECCIÓN PRIMERA. DEL OBJETO
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
@@ -859,9 +961,7 @@ c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-#### SECCIÓN TERCERA. DE LA BASE
-
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
 ###### ARTÍCULO 34.
 
@@ -883,9 +983,9 @@ V. Los contribuyentes que realicen habitualmente loterías, rifas, sorteos, conc
 
 ### CAPÍTULO V. IMPUESTO SOBRE HOSPEDAJE
 
-#### SECCIÓN CUARTA. DE LA TASA
+#### SECCIÓN TERCERA. DE LA BASE
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 35.
 
@@ -899,9 +999,9 @@ II. Casas o departamentos, enteros o por habitaciones privadas o compartidas.
 
 Cuando el servicio de hospedaje incluya servicios accesorios, tales como transporte, alimentación, uso de instalaciones y otros similares, y en la documentación comprobatoria no se desglosen o desagreguen los montos por la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva, corresponde en su totalidad al servicio de hospedaje.
 
-#### SECCIÓN QUINTA. DE LA CAUSACIÓN
+#### SECCIÓN CUARTA. DE LA TASA
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
@@ -911,9 +1011,9 @@ Están obligadas al pago de este impuesto, las personas físicas y morales que r
 
 Cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador, por medio de plataformas tecnológicas, en el cobro de las erogaciones por el servicio de hospedaje, previsto en el artículo 35, estará obligada a enterar el pago del impuesto sobre hospedaje a la autoridad fiscal, en caso de que este se cubra a través de ella. En caso contrario, las personas físicas y las morales que presten los servicios de hospedaje señalados en este capítulo, deberán enterarlo a la autoridad fiscal.
 
-#### SECCIÓN SEXTA. DE LA ÉPOCA DE PAGO
+#### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 37.
 
@@ -921,25 +1021,27 @@ La base para el cálculo del impuesto se integra con el monto total de las eroga
 
 Se consideran erogaciones gravadas, los pagos totales a que se refiere el artículo 35 de esta ley, incluyendo las cantidades que se carguen o cobren por intereses normales, penas convencionales, mantenimiento por la modalidad de tiempo compartido y cualquier otro concepto que se adicione, relacionado con los servicios de hospedaje, excluyendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado, no se incluirá para el cálculo de este gravamen.
 
-#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
+#### SECCIÓN SEXTA. DE LA ÉPOCA DE PAGO
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 38.
 
 La tasa que se aplicará a la base de cálculo de este impuesto es del 5% y su resultado se pagará en las oficinas autorizadas por la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán, en las formas oficiales autorizadas por la misma.
+
+#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
+
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+
+###### ARTÍCULO 39.
+
+El impuesto a que se refiere este capítulo se causará en el momento en que se efectúen las erogaciones gravadas, se hagan exigibles dichas erogaciones o se expida el comprobante de pago correspondiente.
 
 #### SECCIÓN OCTAVA. DEL DESTINO
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ARTÍCULO 41 TER.- El cincuenta por ciento de la recaudación anual por concepto de este impuesto se destinará a los fideicomisos o fondos que el Gobierno del estado conforme para la promoción y el desarrollo del turismo en la entidad, dirigidos a incentivar el crecimiento de los segmentos especiales de mercado de esta actividad.
-
-###### ARTÍCULO 39.
-
-El impuesto a que se refiere este capítulo se causará en el momento en que se efectúen las erogaciones gravadas, se hagan exigibles dichas erogaciones o se expida el comprobante de pago correspondiente.
-
-#### SECCIÓN PRIMERA. DEL OBJETO
 
 ###### ARTÍCULO 40.
 
@@ -949,7 +1051,7 @@ La persona física o moral que, en su carácter de intermediario, promotor o fac
 
 Cuando la persona física o moral, en su carácter de intermediario, promotor o facilitador, por medio de plataformas tecnológicas, entere el pago del impuesto sobre hospedaje, liberará al prestador del servicio de hospedaje de las obligaciones establecidas en este artículo.
 
-#### SECCIÓN SEGUNDA. DEL SUJETO
+#### SECCIÓN PRIMERA. DEL OBJETO
 
 ###### ARTÍCULO 41.
 
@@ -977,31 +1079,37 @@ III. Presentar declaraciones de manera agregada, hasta en tanto no presente el a
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-#### SECCIÓN TERCERA. DE LA BASE
+#### SECCIÓN SEGUNDA. DEL SUJETO
 
 ### CAPÍTULO VI. IMPUESTO ADICIONAL PARA LA EJECUCIÓN DE OBRAS MATERIALES Y ASISTENCIA SOCIAL
 
-#### SECCIÓN CUARTA. DE LA TASA
+#### SECCIÓN TERCERA. DE LA BASE
 
 ###### ARTÍCULO 42.
 
 El objeto de este impuesto, lo constituyen las erogaciones que se realicen por concepto de impuestos y derechos establecidos en esta ley.
 
-#### SECCIÓN QUINTA. DE LA CASUACIÓN (SIC) Y ÉPOCA DE PAGO
-
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+#### SECCIÓN CUARTA. DE LA TASA
 
 ###### ARTÍCULO 43.
 
 Están obligados al pago del impuesto establecido en este capítulo, las personas físicas y las morales que efectúen las erogaciones a que se refiere el artículo inmediato anterior.
 
-#### SECCIÓN SEXTA. DE LAS EXENCIONES
+#### SECCIÓN QUINTA. DE LA CASUACIÓN (SIC) Y ÉPOCA DE PAGO
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 44.
 
 La base de este impuesto, la constituirá el monto total de las erogaciones que realicen los contribuyentes, por concepto de pago de impuestos y derechos estatales.
+
+#### SECCIÓN SEXTA. DE LAS EXENCIONES
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 45.
+
+El impuesto a que se refiere este capítulo, se determinará aplicando a la base, la tasa del 20%.
 
 #### SECCIÓN PRIMERA. ARTÍCULO 47 A.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
@@ -1009,25 +1117,15 @@ ARTÍCULO 47 B.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 45.
+###### ARTÍCULO 46.
 
-El impuesto a que se refiere este capítulo, se determinará aplicando a la base, la tasa del 20%.
+Este impuesto se causará y pagará simultáneamente con el pago de los impuestos y derechos objeto del mismo.
 
 #### SECCIÓN SEGUNDA. ARTÍCULO 47 C.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
 ARTÍCULO 47 D.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
 ARTÍCULO 47 E.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 46.
-
-Este impuesto se causará y pagará simultáneamente con el pago de los impuestos y derechos objeto del mismo.
-
-#### SECCIÓN TERCERA. ARTÍCULO 47 F.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
-
-ARTÍCULO 47 G.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -1055,35 +1153,49 @@ VIII.- Impuesto a las erogaciones en juegos y concursos;
 
 IX.- Impuesto a la venta final de bebidas con contenido alcohólico;
 
-X.- Derechos por registro de reconocimiento, registro de defunción, autorización para el traslado de cadáver o cenizas; certificaciones y por registro extemporáneo de nacimiento;
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XI.- Derechos por la verificación de emisión de contaminantes generados por vehículos automotores;
+X.- Impuesto a la emisión de gases a la atmósfera;
 
-XII.- Derechos por el uso, goce o aprovechamiento de bienes de dominio público del Estado;
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XI.- Impuesto a la emisión de contaminantes al suelo, subsuelo y agua;
+
+XII.- Derechos por registro de reconocimiento, registro de defunción, autorización para el traslado de cadáver o cenizas; certificaciones y por registro extemporáneo de nacimiento;
+
+XIII.- Derechos por la verificación de emisión de contaminantes generados por vehículos automotores;
+
+XIV.- Derechos por el uso, goce o aprovechamiento de bienes de dominio público del Estado;
 
 > <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-XIII.- Derechos por el Uso de Bienes del Dominio Público del Estado de Yucatán que operen como Paradores Turísticos de Zonas Arqueológicas y Turísticas;
+XV.- Derechos por el Uso de Bienes del Dominio Público del Estado de Yucatán que operen como Paradores Turísticos de Zonas Arqueológicas y Turísticas;
 
-XIV.- Derechos por los servicios de supervisión, vigilancia y registro de máquinas de juegos y apuestas;
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XV.- Derechos por los servicios de inspección, control y fiscalización que realiza la Secretaría de la Contraloría General del Estado;
+XVI.- Derechos por los servicios de supervisión, vigilancia y registro de máquinas de juegos y apuestas;
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVI.- Derechos por los servicios que preste el Poder Judicial del Estado;
+XVII.- Derechos por los servicios de inspección, control y fiscalización que realiza la Secretaría de la Contraloría General del Estado;
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVIII.- Derechos por los servicios que preste el Poder Judicial del Estado;
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVII.- Derechos por el permiso anual de carga y descarga o transporte de carga en la vía pública, para vehículos del servicio particular o del servicio público, y
+XIX.- Derechos por el permiso anual de carga y descarga o transporte de carga en la vía pública, para vehículos del servicio particular o del servicio público, y
 
-XVIII.- (DEROGADA, D.O. 7 DE ABRIL DE 2020)
+XX.- (DEROGADA, D.O. 7 DE ABRIL DE 2020)
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VII
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. ARTÍCULO 47 F.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
+
+ARTÍCULO 47 G.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -1123,6 +1235,10 @@ III.- Juegos en los que sólo se reciban, capten, crucen o exploten apuestas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
+### CAPÍTULO VIII. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
 #### SECCIÓN TERCERA. DEL MOMENTO DE CAUSACIÓN
 
 > <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
@@ -1130,10 +1246,6 @@ III.- Juegos en los que sólo se reciban, capten, crucen o exploten apuestas.
 ARTÍCULO 47 Q.- El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos y hasta por el monto de cada pago que se realice.
 
 El impuesto se causa, asimismo, cuando quien paga al operador del establecimiento permita a otro usuario distinto de él la participación en los juegos de apuesta o el uso de las máquinas de juegos.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO VIII. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1147,6 +1259,16 @@ Cuando el pago o contraprestación a favor del operador del establecimiento se r
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
+###### ARTÍCULO 47-P.
+
+El impuesto se calculará aplicando la tasa del 16.5% al monto de las erogaciones a favor de la persona física o moral que opere el establecimiento, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los juegos o concursos a que se refiere el artículo 47-O.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos o concursos a que se refieren las fracciones I y III del artículo 47-O, o el uso o acceso a las máquinas de juegos a que se refiere la fracción II del propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
 #### SECCIÓN QUINTA. DE LAS OBLIGACIONES DIVERSAS DE LOS CONTRIBUYENTES
 
 > <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
@@ -1158,16 +1280,6 @@ ARTÍCULO 47 S.- El impuesto previsto en este Capítulo se causará y pagará co
 ARTÍCULO 47 T.- Los operadores de los establecimientos en los que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 47-R, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
 
 Las autoridades fiscales podrán comprobar el cumplimiento a lo previsto en este artículo, a través de las visitas de verificación a que se refiere el artículo 85-K de esta Ley.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 47-P.
-
-El impuesto se calculará aplicando la tasa del 16.5% al monto de las erogaciones a favor de la persona física o moral que opere el establecimiento, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los juegos o concursos a que se refiere el artículo 47-O.
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos o concursos a que se refieren las fracciones I y III del artículo 47-O, o el uso o acceso a las máquinas de juegos a que se refiere la fracción II del propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1203,17 +1315,13 @@ IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que s
 
 > <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
 ### CAPÍTULO IX. IMPUESTO A CASAS DE EMPEÑO
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN PRIMERA. DEL OBJETO
+#### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 47-W.
 
@@ -1221,7 +1329,7 @@ Están obligadas al pago del impuesto establecido en este capítulo las personas
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+#### SECCIÓN PRIMERA. DEL OBJETO
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1239,7 +1347,7 @@ El pago de este impuesto se efectuará mediante declaración mensual definitiva 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN TERCERA. DE LA BASE
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1257,7 +1365,7 @@ II. Mantener en los establecimientos o sucursales en los cuales se realicen las 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN CUARTA. DE LA TASA
+#### SECCIÓN TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1273,7 +1381,7 @@ También se considerará venta final, el faltante de inventario o el consumo pro
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN QUINTA. DE LA CAUSACIÓN
+#### SECCIÓN CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1283,7 +1391,7 @@ AB.- Son sujetos de este impuesto, las personas físicas o morales que realicen 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN SEXTA. DE LA ÉPOCA DE PAGO
+#### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1295,7 +1403,7 @@ El impuesto deberá incluirse en el precio correspondiente, sin que se considere
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
+#### SECCIÓN SEXTA. DE LA ÉPOCA DE PAGO
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1305,9 +1413,9 @@ AD.- La tasa del impuesto se calculará y determinará aplicando a la base que s
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN PRIMERA. DE LA PROPIEDAD
+#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 47
 
@@ -1315,9 +1423,9 @@ AE.- El impuesto se causará en el momento en que se perciban los ingresos deriv
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN SEGUNDA. DEL COMERCIO
+#### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 47
 
@@ -1329,9 +1437,9 @@ Cuando la contraprestación que perciba el contribuyente por la venta de las beb
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN TERCERA. OTROS DERECHOS
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 47
 
@@ -1343,9 +1451,443 @@ II.- Presentar las declaraciones relativas al impuesto previsto en el presente C
 
 III.- Proporcionar la información que en relación con este impuesto se les solicite en las declaraciones respectivas.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO XI. IMPUESTO A LA EMISIÓN DE GASES A LA ATMÓSFERA
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AH.- Es objeto de este impuesto la emisión a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen en el Estado y que originen una afectación a su territorio.
+
+Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que provoquen un deterioro ambiental por su simple emisión.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN CUARTA. DE LA CAUSACIÓN Y LA CUOTA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AI.- Son sujetos, y están obligados al pago de este impuesto, las personas físicas, personas morales y las unidades económicas, residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN QUINTA. DE LA ÉPOCA DE PAGO
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AJ.- La base de este impuesto lo constituye la cuantía de carga contaminante de las emisiones a la atmosfera gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+
+Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones a la atmósfera que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal de Emisiones a cargo de la Secretaría de Desarrollo Sustentable.
+
+Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2021, PÁGINA 42.]</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AK.- El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmosfera gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 2.70 UMA, por tonelada emitida de bióxido de carbono o su conversión, de acuerdo con lo establecido en el artículo anterior.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SÉPTIMA. DEL DESTINO
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AL.- El impuesto a que se refiere este capítulo se pagará mediante declaración anual relacionando la totalidad de emisiones a la atmosfera gravadas por este impuesto que el contribuyente haya generado en el ejercicio fiscal. La declaración anual se presentará en el mes de mayo del año siguiente a aquel en que termine el ejercicio fiscal de que se trate.
+
+A cuenta del impuesto los contribuyentes efectuarán pagos provisionales mensuales, mediante declaración que relacionará las emisiones a la atmósfera que el contribuyente haya generado desde el inicio del ejercicio fiscal y hasta el último día del mes al que corresponda el pago, y se presentará a más tardar el día 17 del mes inmediato posterior a aquel que corresponda el pago, conforme a las reglas de carácter general que al efecto emita la Agencia de Administración Fiscal de Yucatán.
+
+En la declaración anual se podrán acreditar los pagos provisionales mensuales efectivamente pagados del ejercicio que corresponda.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN OCTAVA. DE LA SUPLETORIEDAD
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AM.- Los contribuyentes de este impuesto tienen, además de las obligaciones señaladas en este Capítulo y en las demás disposiciones fiscales, las siguientes:
+
+I. Llevar su contabilidad de conformidad con lo previsto en el Código Fiscal del Estado de Yucatán y en las reglas de carácter general que, en su caso, emita la Agencia de Administración Fiscal de Yucatán. En la contabilidad que lleven los contribuyentes se deberán identificar las operaciones por las que deba pagarse el impuesto regulado en este capítulo.
+
+II. Presentar las declaraciones relativas al impuesto previsto en este capítulo. El contribuyente estará obligado a presentar sus declaraciones, aun cuando no exista impuesto a pagar, mientras no presente el aviso de disminución de obligaciones como causante del impuesto establecido en este Capítulo.
+
+Si un contribuyente tuviera varios establecimientos en el estado, presentará una declaración concentrada.
+
+III. Proporcionar la información que en relación con este impuesto se solicite en las declaraciones respectivas.
+
+IV. Llevar un Libro de Registro de Emisiones Contaminantes, que estará a disposición de la Secretaría de Desarrollo Sustentable y de la Agencia de Administración Fiscal de Yucatán, para efectos de su gestión y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa fiscal y medioambiental.
+
+En el Libro de Registro de Emisiones Contaminantes a que se refiere esta fracción los contribuyentes deberán incluir los datos siguientes:
+
+a) Volumen y tipología del combustible, así como materias primas consumidas o producidas;
+
+b) Composición química básica del combustible consumido o producido;
+
+c) Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en esta ley, en la Ley de Protección al Medio Ambiente del Estado de Yucatán y demás disposiciones aplicables;
+
+d) En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados, y
+
+e) Cualquier otro que se establezca mediante reglas de carácter general por parte de la Agencia de Administración Fiscal de Yucatán o la Secretaría de Desarrollo Sustentable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN NOVENA. DE LOS ESTÍMULOS
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AN.- El objetivo y finalidad de este impuesto es que la Hacienda Pública del Estado cuente con recursos que le permitan atender su obligación a la protección de la salud y a un medio ambiente sano para la población, de conformidad con lo establecido (sic) los artículos 4°, 25 y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos y 86 de la Constitución Política del Estado Libre y Soberano de Yucatán, a través del establecimiento de figuras impositivas que al mismo tiempo incentiven cambios en la conducta de los sujetos obligados para que favorezcan a mejorar la calidad de vida y la salud pública.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AO.- Los ingresos que se obtengan de la recaudación del impuesto establecido en este capítulo, se destinarán al sostenimiento de las actividades siguientes:
+
+I. El ejercicio de las atribuciones previstas en el artículo 8 de la Ley General de Cambio Climático.
+
+II. El ejercicio de las facultades y obligaciones contempladas en el artículo 6, fracciones II, XXII, XXIII, XXIV y XXVII, de la Ley de Protección al Medio Ambiente del Estado de Yucatán.
+
+III. La planeación y ejecución de obras, infraestructura y operación de los servicios de salud en el estado.
+
+IV. La planeación y ejecución de obras, infraestructura, preservación, restauración, manejo o remediación del equilibrio ecológico.
+
+V. La implementación y ejecución de proyectos para la prevención, protección y restauración del medio ambiente, garantizando el desarrollo sustentable del estado de Yucatán.
+
+VI. La prevención y atención de desastres naturales, contingencias ambientales, sequías, ciclones, entre otros.
+
+VII. La generación de proyectos para desarrollo sustentable y sostenible.
+
+VIII. La planeación y construcción de vivienda, para la reubicación de los habitantes de zonas de riesgo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN PRIMERA. DEL OBJETO
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AP.- Para efectos de este Capítulo serán aplicables, de manera supletoria, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección al Medio Ambiente del Estado de Yucatán, la Ley General de Cambio Climático y demás disposiciones vigentes en el Estado en materia ambiental, que no sean contrarias a la naturaleza del derecho fiscal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AQ.- Para efectos de lo establecido en este capítulo, cuando exista una disminución de los contaminantes objeto de este impuesto y esta sea equivalente a un 20% o más entre un ejercicio fiscal y otro, se otorgará un estímulo fiscal a los contribuyentes que consistirá en una reducción en un 15% del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
+
+Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Agencia de Administración Fiscal de Yucatán, las reducciones efectivas a través de la documentación que contable y jurídicamente sea procedente.
+
+El estímulo fiscal a que se refiere este artículo se podrá acreditar contra el monto del impuesto que efectivamente se deba pagar en la declaración provisional y en la declaración anual del ejercicio. La aplicación del estímulo no generará saldos a favor.
+
+Cuando sin tener derecho a ello se acredite contra el impuesto a pagar el estímulo fiscal establecido en este artículo o se haga en cantidad mayor a la que se tenga derecho, las autoridades fiscales exigirán el pago del impuesto omitido actualizado y de los accesorios que correspondan.
+
+Cuando se haya pagado el impuesto mediante el acreditamiento del estímulo fiscal, y posteriormente se presente una declaración complementaria reduciendo el importe del impuesto a cargo del contribuyente, solo procederá la devolución de cantidades a favor cuando estas deriven de un pago efectivamente realizado.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AR.- Es objeto de este impuesto la emisión de sustancias contaminantes generadas por actividades industriales o agropecuarias, que se depositen, desechen, descarguen o inyecten al suelo, subsuelo o al agua en el territorio del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AS.- Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que, en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades establecidas en el artículo anterior.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO XII. IMPUESTO A LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AT.- La base de este impuesto es la cantidad en metros cuadrados de terreno o metros cúbicos de agua afectados, según corresponda, con sustancias contaminantes que se emitan o se viertan desde la o las instalaciones o fuentes fijas, expresadas en:
+
+I. Para suelo y subsuelo, en la cantidad de miligramos por kilogramo, base seca, obtenidos de muestras que se realicen conforme a las Normas Oficiales Mexicanas en cada cien metros cuadrados de terreno, de acuerdo con lo siguiente:
+
+a) Suelos contaminados por hidrocarburos:
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-138-SEMARNAT/SSA1-2012: "Límites máximos permisibles de hidrocarburos en suelos y lineamientos para el muestreo en la caracterización y especificaciones para la remediación".
+
+Contaminante Cantidad de miligramos por kilogramo,
+
+base seca, por cada cien
+
+metros cuadrados de terreno
+
+Benceno 6
+
+Tolueno 40
+
+Etilbenceno 10
+
+Xilenos (suma de isómeros) 40
+
+Benzo[a]pireno 2
+
+Dibenzo[a,h ]antraceno 2
+
+Benzo[a]antraceno 2
+
+Benzo[b]fluoranteno 2
+
+Benzo[k]fluoranteno 8
+
+Indeno (1 ,2, 3-cd)pireno 2
+
+b) Suelos contaminados por: arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio.
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-147-SEMARNAT/SSA1-2004: "Que establece criterios para determinar las concentraciones de remediación de suelos contaminados por arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio".
+
+Contaminante Cantidad de miligramos por kilogramo,
+
+base seca, por cada cien
+
+metros cuadrados de terreno
+
+Arsénico 22
+
+Bario 5400
+
+Berilio 150
+
+Cadmio 37
+
+Cromo Hexavalente 280
+
+Mercurio 23
+
+Níquel 1600
+
+Plata 390
+
+Plomo 400
+
+Selenio 390
+
+Talio 5,2
+
+Vanadio 78
+
+II. Para agua en miligramos en litros, que se presenten por cada metro cúbico, con base en lo siguiente:
+
+Las muestras para determinar la cantidad de miligramos por litro por cada metro cubico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM- 001-SEMARNAT-1996: "Que establece los límites máximos permisibles de contaminantes en las descargas residuales en aguas y bienes nacionales"
+
+a) Contaminantes en aguas residuales básicos:
+
+Contaminante Cantidad de miligramos por litro,
+
+por metro cúbico
+
+Grasas y Aceites 25
+
+Sólidos Suspendidos Totales 60
+
+Demanda Bioquímica de Oxígeno 5 60
+
+Nitrógeno Total 25
+
+Fósforo Total 10
+
+b) Contaminantes en aguas residuales, ocasionado por metales pesados y cianuros:
+
+Contaminante Cantidad de miligramos por litro,
+
+por metro cúbico
+
+Arsénico 0.1
+
+Cadmio 0.1
+
+Cianuro 1
+
+Cobre 4
+
+Cromo 0.5
+
+Mercurio 0.005
+
+Níquel 2
+
+Plomo 0.2
+
+Zinc 10
+
+Para efectos de este capítulo, se entenderá que los valores presentados en este artículo representan una unidad de contaminante en metros cuadrados de terreno o metros cúbicos de agua afectados según corresponda.
+
+La unidad de contaminante de suelo, subsuelo o agua siempre se deberá expresar en números enteros, por lo que, en caso de que existan fracciones o excedentes de sustancias contaminantes que no constituyan una unidad de contaminante, se redondeará hacia abajo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN CUARTA. DE LA CAUSACIÓN Y LA CUOTA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AU.- El impuesto se causará aplicando los equivalentes y cuotas siguientes:
+
+I. Suelo y subsuelo: una cuota impositiva por el equivalente a 0.27 UMA por cada unidad de contaminantes de suelo o subsuelo de las señaladas en el artículo 47-AT, fracción I, de esta Ley, encontrada en cada cien metros cuadrados, y
+
+II. Agua: una cuota impositiva por el equivalente a 0.20 UMA por cada unidad de contaminantes de agua de las señaladas en el artículo 47-AT, fracción II, de esta Ley, hallada por metro cúbico.
+
+Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este capítulo la cuota se pagará por cada unidad de contaminante.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN QUINTA. DEL PAGO
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AV.- El impuesto se calculará aplicando a las unidades de contaminantes, previstas en el artículo 47-AT, de esta Ley, la cuota impositiva.
+
+El impuesto se pagará mediante declaración mensual definitiva, que relacionará las unidades de contaminantes en metros cuadrados de terreno o metros cúbicos de agua afectados según corresponda a que se refiere el artículo 47-AT de esta ley que el contribuyente haya generado en el mes de calendario que corresponda, y que presentarán los contribuyentes en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán, a más tardar el día diecisiete del mes de calendario siguiente, a la fecha de su causación o el día hábil siguiente si aquel no lo fuere.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AW.- Los contribuyentes sujetos al pago del Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua a que se refiere este Capítulo, deberán cumplir con las siguientes obligaciones:
+
+I. Presentar aviso de inscripción ante la Secretaría de Desarrollo Sustentable;
+
+II. Llevar su contabilidad de conformidad con el Código Fiscal del Estado de Yucatán, y conforme a las reglas de carácter general que, en su caso, emita la Agencia de Administración Fiscal de Yucatán, se deberán identificar las operaciones por las que deba pagarse este impuesto;
+
+III. Presentar las declaraciones correspondientes. Si un contribuyente tuviera varios establecimientos en el estado, presentará una declaración concentrada. El contribuyente estará obligado a presentar sus declaraciones, aun cuando no exista impuesto a pagar, mientras no presente el aviso de disminución de obligaciones como causante del impuesto;
+
+IV. Proporcionar la información que en relación con este impuesto se solicite en las declaraciones respectivas;
+
+V. Llevar un registro específico de las sustancias contaminantes mencionadas en este capítulo, que sean adquiridas y utilizadas en actividades industriales y agropecuarias, así como las cantidades que en estado físico sólido, semisólido o líquido se emitieron al suelo, subsuelo o agua; para ello, el contribuyente deberá contar con medidor volumétrico para medición de las aguas que se depositen, desechen, descarguen o inyecten al suelo, subsuelo o al agua;
+
+VI. Realizar las pruebas mensuales de muestreo previstas en las Normas Oficiales Mexicanas establecidas en el artículo 47-AT de esta Ley, y
+
+VII. Cualquier otra obligación de carácter formal que se establezca mediante reglas de carácter general emitidas por la Agencia de administración Fiscal de Yucatán o la Secretaría de Desarrollo Sustentable.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SÉPTIMA. DEL DESTINO
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AX.- Para determinar la base gravable las autoridades fiscales podrán considerar:
+
+I. Los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente, y
+
+II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar el Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, a partir de las Manifestaciones de Impacto Ambiental, Cédulas de Operación Anual y demás documentos de carácter ambiental que los contribuyentes se encuentren obligados a presentar ante la Secretaría del Medio Ambiente y Recursos Naturales, así como ante la Secretaría de Desarrollo Sustentable, correspondiente al último ejercicio fiscal que se hubieran presentado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN OCTAVA. DE LA SUPLETORIEDAD
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AY.- El objetivo y finalidad de este impuesto es que la Hacienda Pública del Estado cuente con recursos que le permitan atender su obligación a la protección de la salud y a un medio ambiente sano para la población, de conformidad con lo establecido (sic) los artículos 4°, 25 y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos y 86 de la Constitución Política del Estado Libre y Soberano de Yucatán, a través del establecimiento de figuras impositivas que al mismo tiempo incentiven cambios en la conducta de los sujetos obligados para que favorezcan a mejorar la calidad de vida y la salud pública.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+AZ.- Los ingresos que se obtengan de la recaudación del impuesto establecido en este Capítulo, se destinarán al sostenimiento de las actividades siguientes:
+
+I. El ejercicio de las atribuciones previstas en el artículo 8 de la Ley General de Cambio Climático;
+
+II. El ejercicio de las facultades y obligaciones contempladas en el artículo 6, fracciones II, XXII, XXIII, XXIV y XXVII, de la Ley de Protección al Medio Ambiente del Estado de Yucatán;
+
+III. La planeación y ejecución de obras, infraestructura y operación de los servicios de salud en el estado;
+
+IV. La planeación y ejecución de obras, infraestructura, preservación, restauración, manejo o remediación del equilibrio ecológico;
+
+V. La implementación y ejecución de proyectos para la prevención, protección y restauración del medio ambiente, garantizando el desarrollo sustentable del estado de Yucatán;
+
+VI. La prevención y atención de desastres naturales, contingencias ambientales, sequías, ciclones, entre otros;
+
+VII. La generación de proyectos para desarrollo sustentable y sostenible, y
+
+VIII. La planeación y construcción de vivienda, para la reubicación de los habitantes de zonas de riesgo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN NOVENA. DE LOS ESTÍMULOS
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+BA.- Para efectos de este capítulo serán aplicables, de manera supletoria, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección al Medio Ambiente del Estado de Yucatán, la Ley General de Cambio Climático, la Ley para la Gestión Integral de los Residuos en el Estado de Yucatán y demás disposiciones vigentes en el Estado en materia ambiental, que no sean contrarias a la naturaleza del derecho fiscal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 47
+
+BB.- Para efectos de lo establecido en este capítulo, cuando exista una disminución de los contaminantes objeto de este impuesto y esta sea equivalente a un 20% o más entre un ejercicio fiscal y otro, se otorgará un estímulo fiscal a los contribuyentes que consistirá en una reducción en un 15% del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
+
+Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Agencia de Administración Fiscal de Yucatán, las reducciones efectivas a través de la documentación que contable y jurídicamente sea procedente.
+
+El estímulo fiscal a que se refiere este artículo se podrá acreditar contra el monto del impuesto que efectivamente se deba pagar en la declaración mensual. La aplicación del estímulo no generará saldos a favor.
+
+Cuando sin tener derecho a ello se acredite contra el impuesto a pagar el estímulo fiscal establecido en este artículo o se haga en cantidad mayor a la que se tenga derecho, las autoridades fiscales exigirán el pago del impuesto omitido actualizado y de los accesorios que correspondan.
+
+Cuando se haya pagado el impuesto mediante el acreditamiento del estímulo fiscal, y posteriormente se presente una declaración complementaria reduciendo el importe del impuesto a cargo del contribuyente, solo procederá la devolución de cantidades a favor cuando estas deriven de un pago efectivamente realizado.
+
+#### SECCIÓN PRIMERA. DE LA PROPIEDAD
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DEL COMERCIO
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ### CAPÍTULO I. DERECHOS POR LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA EN GENERAL
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN TERCERA. OTROS DERECHOS
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN CUARTA. DEL COBRO
 
@@ -1419,41 +1961,9 @@ V.- Presentar a las autoridades fiscales la información que se les requiera med
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-#### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
-
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
-
-### CAPÍTULO II. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-#### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE LOS DERECHOS
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 85 V.- Los derechos por los servicios a que se refiere este capítulo, se causará conforme a las siguientes cuotas:
-
-l. Por el estudio de cumplimiento de requisitos para permitir la instalación y operación de casas de empeño, la expedición del permiso correspondiente y por su inscripción en el registro estatal de casas de empeño 111.11 UMA
-
-II. Por la revalidación anual del estudio de cumplimiento y del permiso 55.56 UMA
-
-III. Por cada modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original 16.67 UMA
-
-IV. Por la reposición del permiso otorgado o de la revalidación, en caso de extravío, robo o deterioro grave, a petición del interesado 6.95 UMA
-
-V. Por la revalidación extemporánea del estudio de cumplimiento y del permiso 83.34 UMA
-
-Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-### CAPÍTULO III. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO CIVIL
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
 ## TÍTULO TERCERO. DE LOS DERECHOS
 
-### CAPÍTULO IV. DERECHOS POR EL USO DE CEMENTERIOS Y PRESTACIÓN DE SERVICIOS CONEXOS
+### CAPÍTULO II. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1493,7 +2003,9 @@ No se causarán derechos por las reposiciones que sean solicitadas por el estado
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO V. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPÍTULO III. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO CIVIL
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 49.
 
@@ -1765,13 +2277,19 @@ h) Para vehículos con peso bruto vehicular a partir de cuatro toneladas para ma
 
 ARTÍCULO 56 A.- Por la expedición del holograma que acredite que el vehículo cuenta con póliza vigente otorgada por alguna compañía de seguros autorizada por la autoridad competente, se causará 1.50 UMA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-ARTÍCULO 56 B.- Por la expedición o renovación, en su caso, del permiso de funcionamiento para establecer una escuela de manejo, causará un derecho de 141.09 UMA
+ARTÍCULO 56 B.- Se causarán derechos para las escuelas de manejo conforme a lo siguiente:
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+I.- Por la expedición o renovación, en su caso, del permiso de funcionamiento para establecer una escuela de manejo: 282.18 UMA
 
-ARTÍCULO 56 C.- Por la expedición o renovación, en su caso, del permiso para ser instructor en alguna escuela de manejo, causará un derecho de 21.16 UMA
+II.- Por la validación y acreditación, por el término de un año, de cada vehículo con el que cuente una escuela de manejo autorizada por la Secretaría de Seguridad Pública, para el aprendizaje: 5.00 UMA
+
+III.- Por la autorización, por el término de un año, de cada laboratorio clínico encargado de la aplicación de exámenes toxicológicos para aspirantes a instructores o instructores autorizados de escuelas de manejo: 15.00 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTÍCULO 56 C.- Por la expedición o renovación anual, en su caso, del permiso para ser instructor en alguna escuela de manejo: 21.16 UMA
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2023,9 +2541,7 @@ El secretario de Administración y Finanzas podrá, mediante acto fundado y moti
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 56-I.
-
-Por los servicios que presta la Secretaría de Seguridad Pública en materia de validación, revalidación y capacitación de empresas de seguridad privada, se causarán derechos conforme a lo siguiente:
+ARTÍCULO 56 I.- Por los servicios que presta la Secretaría de Seguridad Pública en materia de validación, revalidación y capacitación de empresas de seguridad privada, se causarán derechos conforme a lo siguiente:
 
 I.- Por la validación, la inscripción o la revalidación de empresas que prestan servicios de seguridad privada en el estado, se causará un derecho equivalente a 37.50 UMA
 
@@ -2041,6 +2557,10 @@ V.- Por cada curso de capacitación que se otorgue a los elementos de seguridad 
 
 VI.- Por la validación de los centros de capacitación y adiestramiento para el personal directivo, administrativo y operativo que labore en empresas de seguridad privada, se causará un derecho equivalente a 35.00 UMA
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VII.- Por la autorización a empresas de seguridad privada, por un período de ciento ochenta días naturales, para habilitar con torretas y estrobos de color ámbar, blanco o verde, o la combinación de estos, a vehículos utilitarios de dichas empresas, se causará un derecho equivalente a 50.00 UMA
+
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ARTÍCULO 56 J.- Por otros servicios que presta la Secretaría de Seguridad Pública, se causarán derechos conforme a lo siguiente:
@@ -2049,7 +2569,7 @@ I.- Por la constancia de inspección en materia de seguridad humana y contra inc
 
 II.- Por dictamen de impacto vial 45.97 UMA
 
-### CAPÍTULO VI. SERVICIOS QUE PRESTAN LOS FEDATARIOS A QUIENES EL ESTADO LES HAYA CONCEDIDO FE PÚBLICA
+### CAPÍTULO IV. DERECHOS POR EL USO DE CEMENTERIOS Y PRESTACIÓN DE SERVICIOS CONEXOS
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2187,9 +2707,7 @@ En el caso de las certificaciones de las actas de nacimiento expedidas durante e
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 244/2014, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 26 DE DICIEMBRE DE 2014, EL CAPÍTULO IV, DEL TÍTULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
-### CAPITULO VII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL ARCHIVO NOTARIAL DEL ESTADO
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO V. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTÍCULO 58.
 
@@ -2233,9 +2751,11 @@ VI.- Por la expedición de duplicado de un título de concesión de uso a perpet
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO VIII. DERECHOS POR LOS SERVICIOS QUE PRESTA EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
+### CAPÍTULO VI. SERVICIOS QUE PRESTAN LOS FEDATARIOS A QUIENES EL ESTADO LES HAYA CONCEDIDO FE PÚBLICA
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
 
 ###### ARTÍCULO 59.
 
@@ -2269,9 +2789,9 @@ VI.- Por la rectificación de inscripción 1.50 UMA
 
 VII.- Por la verificación de cualquier predio 0.90 UMA
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-VIII.- Por cualquier cancelación de inscripción 9.47 UMA
+VIII.- Por cualquier cancelación de inscripción 9.70 UMA
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2317,6 +2837,8 @@ No se causarán los derechos a que se refieren las fracciones I, II, III y VIII 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
+
 ###### ARTÍCULO 60.
 
 Por los servicios que presta la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de comercio, se causarán derechos de acuerdo a lo siguiente:
@@ -2342,6 +2864,26 @@ IV.- Por la inscripción de actos o convenios relacionados con poderes o mandato
 V.- Por la rectificación o reposición de inscripciones 1.50 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE LOS DERECHOS
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 85 V.- Los derechos por los servicios a que se refiere este capítulo, se causará conforme a las siguientes cuotas:
+
+l. Por el estudio de cumplimiento de requisitos para permitir la instalación y operación de casas de empeño, la expedición del permiso correspondiente y por su inscripción en el registro estatal de casas de empeño 111.11 UMA
+
+II. Por la revalidación anual del estudio de cumplimiento y del permiso 55.56 UMA
+
+III. Por cada modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original 16.67 UMA
+
+IV. Por la reposición del permiso otorgado o de la revalidación, en caso de extravío, robo o deterioro grave, a petición del interesado 6.95 UMA
+
+V. Por la revalidación extemporánea del estudio de cumplimiento y del permiso 83.34 UMA
+
+Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 61.
 
@@ -2371,7 +2913,7 @@ II.- Cuando en un mismo documento se consignen dos o más actos o convenios, que
 
 III.- En los casos en que un documento tenga que inscribirse en varias secciones, los derechos se causarán separadamente, por cada una de las inscripciones.
 
-### CAPÍTULO IX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA CONSEJERÍA JURÍDICA
+### CAPITULO VII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL ARCHIVO NOTARIAL DEL ESTADO
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2421,7 +2963,7 @@ Cualquier escritura pública o documento que contenga un contrato o convenio oto
 
 No se causará este derecho, en los casos en que no se causen los establecidos en las fracciones I, II y III del artículo 59 de esta ley.
 
-### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
+### CAPÍTULO VIII. DERECHOS POR LOS SERVICIOS QUE PRESTA EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2437,13 +2979,27 @@ III.- Intervención del Director del Archivo Notarial en el o los trámites, al 
 
 IV.- La búsqueda de avisos de otorgamiento testamentario y contestación 3.00 UMA
 
-V.- Registro y archivo de testamentos ológrafos 3.00 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-VI.- Por la recepción y revisión de cada aviso de escritura que se otorga ante escribano público 0.75 UMA
+V.- Por el registro y archivo de testamentos ológrafos 4.00 UMA
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VI.- Por la recepción y revisión de cada aviso de escritura que se otorga ante escribano público 1.00 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VII.- Por la contestación de oficio de existencia y vigencia de poder o mandato ante notario público 1.00 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Por la recepción y trámite de escrituras autorizadas y testimonios expedidos por fedatarios públicos que no están en funciones 2.05 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
+### CAPÍTULO IX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA CONSEJERÍA JURÍDICA
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
@@ -2491,7 +3047,7 @@ d) Por el suplemento de fecha anterior por hoja 0.01 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA FISCALÍA GENERAL DEL ESTADO
+### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2509,9 +3065,7 @@ IV.- Certificación de plicas 0.47 UMA
 
 V.- Expedición de opinión para la instalación de establecimientos de juegos y sorteos 5.50 UMA
 
-### CAPÍTULO XIII. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE EDUCACIÓN
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
 ###### ARTÍCULO 68.
 
@@ -2597,9 +3151,9 @@ de 100,001 m2 a 200,000 m2 9.19 UMA
 
 de 200,001 m2 a 300,000 m2 11.44 UMA
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-A partir de 300,001 m2 en adelante, por cada 10,000 m2 excedentes se cobrará 0.38 UMA
+A partir de 300,001 m2 en adelante 40.00 UMA
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2641,7 +3195,29 @@ De 90,000.01 m2 a 120,000 m2, por m2 0.0018
 
 De 120,000.01 m2 a 150,000 m2, por m2 0.0016
 
-De 150,000.01 m2 en adelante, por m2 0.0014
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+De 150,000.01 m2 a 300,000.00 m2, por m2 0.0014
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+De 300,000.01 m2 a 500,000.00 m2, por m2 0.0012
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+De 500,000.01 m2 a 750,000.00 m2, por m2 0.0010
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+De 750,000.01 m2 a 1´000,000.00 m2, por m2 0.0008
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+De 1´000,000.01 m2 a 1´500,000.00 m2, por m2 0.0006
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+De 1´500,000.01 m2 en adelante, por m2 0.0004
 
 VII.- Por impresión de planos:
 
@@ -2729,6 +3305,10 @@ XIII.- Por los trabajos de investigación y análisis documental de la informaci
 
 El derecho establecido en esta fracción es adicional a los derechos previstos en las fracciones IV, V y VI de este artículo.
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XIV.- Por la validación de avalúos comerciales para el pago de contribuciones 1.5 UMA
+
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 69.
@@ -2797,9 +3377,9 @@ III. Constancia de factibilidad para constitución o modificación de régimen d
 
 Las instituciones públicas federales, estatales y municipales, siempre que el servicio sea destinado a un interés público, quedan exentas del pago de los derechos que establece este capítulo.
 
-### CAPÍTULO XIV. DERECHOS POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE DESARROLLO SUSTENTABLE
+### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA FISCALÍA GENERAL DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 74.
 
@@ -2827,7 +3407,9 @@ Las instituciones públicas federales, estatales y municipales, siempre que el s
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO XV. DERECHOS POR EL USO, GOCE O APROVECHAMIENTO DE BIENES DE DOMINIO PÚBLICO DEL ESTADO
+### CAPÍTULO XIII. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 80.
 
@@ -2840,6 +3422,320 @@ a) Para trámites consulares 1.23 UMA
 b) De antecedentes o no antecedentes penales 0.61 UMA
 
 II.- (DEROGADA, D.O. 21 DE MARZO DE 2018)
+
+### CAPÍTULO XIV. DERECHOS POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE DESARROLLO SUSTENTABLE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 81.
+
+Los servicios que presta la Secretaría de Educación, causarán derechos de conformidad con lo siguiente:
+
+I.- Estudio y Análisis de solicitud de autorización o reconocimiento de validez oficial, de estudios de los niveles siguientes:
+
+a) Inicial preescolar, primaria y secundaria 6.00 UMA
+
+b) Medio Superior 10.25 UMA
+
+c) Extraescolar 5.00 UMA
+
+II.- Autorización a particulares, para impartir estudios de, nivel:
+
+a) Preescolar 70.11 UMA
+
+b) Primaria 80.14 UMA
+
+c) Secundaria 90.15 UMA
+
+III.- Reconocimiento de validez oficial a particulares, por cada plan de estudios de nivel:
+
+a) Inicial 60.10 UMA
+
+b) Medio Superior y Extraescolar 100.17 UMA
+
+IV.- Cambio de domicilio de instituciones educativas particulares, de todos los niveles:
+
+a) Inicial, preescolar, primaria o secundaria 30.04 UMA
+
+b) Medio superior 40.07 UMA
+
+c) Formación para el trabajo 30.04 UMA
+
+V.- Inspección y vigilancia de establecimiento educativos particulares, por alumno inscrito en cada ejercicio escolar de, nivel:
+
+a) Preescolar 0.50 UMA
+
+b) Primaria 1.00 UMA
+
+c) Secundaria 1.50 UMA
+
+d) Medio superior y normal 1.50 UMA
+
+e) Extraescolar 1.00 UMA
+
+El pago de este derecho se efectuará en las fechas que establezca la Secretaría de Educación, con base en el tipo de plan de estudios de que se trate, conforme a los acuerdos de reconocimiento de validez oficial
+
+Quedan exentos, los alumnos becados por la secretaría
+
+VI.- Por examen:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+a) De regularización de secundaria y media superior 0.18 UMA
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) A título de suficiencia de nivel primaria 4.00 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c) Global a suficiencia de nivel secundaria, por grado 4.00 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d) Técnico profesional 2.25 UMA
+
+VII.- Por expedición de:
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+a) Certificado parcial de estudios de nivel medio superior, distinto del señalado en el inciso c) de esta fracción 0.75 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+b) Certificado completo de estudios de nivel medio superior, distinto del señalado en el inciso d) de esta fracción 1.00 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+c) Certificado parcial de estudios de escuelas técnicas profesionales 0.75 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d) Certificado completo de estudios de escuelas técnicas profesionales 1.00 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+e) Constancia de servicio social 1.75 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+f) Acta de examen técnico profesional 1.75 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+g) Título técnico profesional 3.25 UMA
+
+VIII.- Duplicado de:
+
+a) Constancia de preescolar 0.50 UMA
+
+b) Certificado de primaria, secundaria y extra escolar 1.00 UMA
+
+c) Dictamen de revalidación o equivalencia
+
+1. Inicial, preescolar, primaria o secundaria 1.50 UMA
+
+2. Medio superior 2.20 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+d) Certificado parcial de estudios de escuelas técnicas profesionales 1.00 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+e) Certificado completo de estudios de escuelas técnicas profesionales 1.50 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+f) Acta de examen técnico profesional 2.00 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+g) Transcripción de título de técnico profesional 2.52 UMA
+
+IX.- Por expedición de constancia de estudios 1.00 UMA
+
+X.- Para acreditar un trámite administrativo 1.00 UMA
+
+XI.- Equivalencias de estudios de nivel medio superior 4.00 UMA
+
+XII.- Revalidación de estudios de nivel:
+
+a) Primaria 0.50 UMA
+
+b) Secundaria 1.50 UMA
+
+c) Medio superior 4.02 UMA
+
+XIII.- Cambio de titular de un acuerdo de incorporación 50.08 UMA
+
+XIV.- Cambio de nombre de plantel educativo 15.02 UMA
+
+XV.- Cambio o ampliación de turno 15.02 UMA
+
+XVI.- Ampliación de domicilio
+
+a) Inicial, preescolar, primaria o secundaria 30.04 UMA
+
+b) Medio superior 40.07 UMA
+
+c) Formación para el trabajo 40.07 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XVII.- Registro de título profesional electrónico 4.70 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XVIII.- Validación de título profesional electrónico 2.35 UMA
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO XV. DERECHOS POR EL USO, GOCE O APROVECHAMIENTO DE BIENES DE DOMINIO PÚBLICO DEL ESTADO
+
+###### Artículo 82.
+
+Los servicios que presta la Secretaría de Desarrollo Sustentable, causarán derechos de conformidad con lo siguiente:
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I.- Por la verificación de emisión de contaminantes, generados por vehículos automotores, a excepción de los destinados al transporte público de pasajeros 3.20 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II.- Por cada cuota de conservación de cazador nacional 35.27 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III.- Por cada cuota de conservación de cazador extranjero 48.50 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV.- Por cada cintillo de cobro cinegético 5.29 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+V.- Por cada evaluación y resolución de informe preventivo 62.49 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VI.- Por cada evaluación y resolución de manifestación de impacto ambiental 115.37 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VII.- Por la expedición de exención de presentación de estudio de impacto ambiental 14.42 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Por cada evaluación y resolución de estudio de riesgo 38.46 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IX.- Por cada evaluación y resolución de la modificación del proyecto autorizado 35.57 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+X.- Por cada ratificación de autorizaciones otorgadas 26.92 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XI.- Por cada verificación e inspección de áreas, predios y Obras 21.14 UMA
+
+XII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
+
+XIII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
+
+XIV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
+
+XV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
+
+XVI.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Por cada evaluación y resolución de las solicitudes para obtener la factibilidad urbana ambiental 14.68 UMA
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Por cada verificación e inspección de áreas, predios y obras en materia de extracción de material pétreo 22.00 UMA
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIX.- Por la evaluación de las actividades de extracción de material pétreo, por metro cúbico 0.20 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XX.- Por cada evaluación y resolución de la licencia ambiental única 75.84 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXI.- Por cada verificación e inspección de áreas, predios y obras en materia de licencia ambiental única 21.14 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXII.- Por cada evaluación y resolución de la modificación del proyecto autorizado por la licencia ambiental única 37.92 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIII.- Por la renovación de la licencia ambiental única 37.92 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXIV.- Por la presentación de la cédula de operación anual de la licencia ambiental única 28.84 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXV.- Por la evaluación de capacidad de carga 14.68 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+XXVI.- Por el trámite del análisis y la opinión técnica para la viabilidad de un proyecto en el estado de Yucatán 14.68 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 82-A.
+
+Por el uso o aprovechamiento de los elementos naturales terrestres o acuáticos sujetos al régimen de dominio público del estado de Yucatán, existentes dentro de las áreas naturales protegidas de competencia estatal, derivado de toda actividad turística, deportiva o recreativa, de manera enunciativa mas no limitativa: buceo autónomo; buceo o inmersión libre; ciclismo; rappel; montañismo; excursionismo; espeleología; descenso a grutas; esquí acuático; recorridos en embarcaciones motorizadas y no motorizadas; observación de flora y fauna; así como nado, campismo, pernocta y navegación en cenotes, petenes, mares, canales, esteros, rías y lagunas costeras, se pagarán derechos, conforme a las siguientes cuotas:
+
+I.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
+
+a) Parque Estatal Lagunas de Yalahau 0.60 UMA
+
+b) Parque Estatal Kabah 0.60 UMA
+
+c) Parque Estatal Ix Kool Balamtun 0.60 UMA
+
+Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 7.02 UMA
+
+II.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
+
+a) Reserva Estatal de Dzilam de Bravo 0.80 UMA
+
+b) Reserva Estatal Biocultural del Puuc 0.80 UMA
+
+c) Reserva Estatal El Palmar 0.80 UMA
+
+d) Reserva Estatal Ciénegas y Manglares de la Costa Norte de Yucatán 0.80 UMA
+
+e) Reserva Estatal Geohidrológica Anillo de Cenotes 0.80 UMA
+
+Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 9.60 UMA
+
+III.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
+
+a) Área Natural Protegida de Valor Cultural, Histórico y Escénico San Juan Bautista Tabi y Anexa Sacnicté 1.72 UMA
+
+Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 17.20 UMA
+
+La obligación de pago de los derechos previstos en este artículo será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios recreativos, turísticos o deportivos. En los casos en que las actividades a las que se refiere este artículo se realicen sin la participación de los titulares mencionados, la obligación de pago será de cada persona.
+
+No pagarán los derechos a que se refiere este artículo la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, ni los residentes permanentes de las localidades que abarquen las áreas naturales protegidas en cuestión, siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
+
+Quedarán exentos del pago de los derechos a que se refiere este artículo los menores de trece años, las personas con cualquier tipo de discapacidad, los profesores, los estudiantes en activo y los residentes de las localidades que abarquen el área natural protegida, de acuerdo con el decreto de regulación correspondiente, siempre y cuando así lo acrediten.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, en la proporción definida en las reglas de operación del Fondo Ambiental, se destinarán a la Secretaría de Desarrollo Sustentable, para la protección, conservación, manejo, restauración y aprovechamiento sustentable de las áreas naturales protegidas.
+
+El cobro y pago de este derecho no exenta el pago por las actividades cinegéticas que se puedan desarrollar en las unidades de manejo ambiental presentes en las áreas naturales protegidas estatales, o bien, por cualquier otra actividad que se desarrolle al interior de estas.
 
 ### CAPÍTULO XVI. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SALUD
 
@@ -3051,157 +3947,37 @@ XXX.- Por trámite de importación y exportación 29.00 UMA
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-###### ARTÍCULO 81.
+###### ARTÍCULO 83.
 
-Los servicios que presta la Secretaría de Educación, causarán derechos de conformidad con lo siguiente:
+Están obligadas a pagar el derecho a que se refiere este capítulo, las personas que usen, gocen o aprovechen total o parcialmente los bienes del dominio público del Estado, conforme a lo siguiente:
 
-I.- Estudio y Análisis de solicitud de autorización o reconocimiento de validez oficial, de estudios de los niveles siguientes:
+I.- El 7.5% anual del valor del inmueble o de la fracción de este, que se afecte al uso, goce o aprovechamiento.
 
-a) Inicial preescolar, primaria y secundaria 6.00 UMA
+II.- El 2% anual del valor del inmueble o de la fracción de este, cuando en ellos se realicen actividades agropecuarias.
 
-b) Medio Superior 10.25 UMA
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
-c) Extraescolar 5.00 UMA
-
-II.- Autorización a particulares, para impartir estudios de, nivel:
-
-a) Preescolar 70.11 UMA
-
-b) Primaria 80.14 UMA
-
-c) Secundaria 90.15 UMA
-
-III.- Reconocimiento de validez oficial a particulares, por cada plan de estudios de nivel:
-
-a) Inicial 60.10 UMA
-
-b) Medio Superior y Extraescolar 100.17 UMA
-
-IV.- Cambio de domicilio de instituciones educativas particulares, de todos los niveles:
-
-a) Inicial, preescolar, primaria o secundaria 30.04 UMA
-
-b) Medio superior 40.07 UMA
-
-c) Formación para el trabajo 30.04 UMA
-
-V.- Inspección y vigilancia de establecimiento educativos particulares, por alumno inscrito en cada ejercicio escolar de, nivel:
-
-a) Preescolar 0.50 UMA
-
-b) Primaria 1.00 UMA
-
-c) Secundaria 1.50 UMA
-
-d) Medio superior y normal 1.50 UMA
-
-e) Extraescolar 1.00 UMA
-
-El pago de este derecho se efectuará en las fechas que establezca la Secretaría de Educación, con base en el tipo de plan de estudios de que se trate, conforme a los acuerdos de reconocimiento de validez oficial
-
-Quedan exentos, los alumnos becados por la secretaría
-
-VI.- Por examen:
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-a) De regularización de secundaria y media superior 0.18 UMA
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-b) A título de suficiencia de nivel primaria 4.00 UMA
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-c) Global a suficiencia de nivel secundaria, por grado 4.00 UMA
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-d) Técnico profesional 2.25 UMA
-
-VII.- Por expedición de:
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-a) Certificado parcial de estudios de nivel medio superior, distinto del señalado en el inciso c) de esta fracción 0.75 UMA
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-b) Certificado completo de estudios de nivel medio superior, distinto del señalado en el inciso d) de esta fracción 1.00 UMA
+Para efectos de las fracciones anteriores, el valor del inmueble se determinará conforme a un avalúo que emita la Secretaría de Obras Públicas, que será actualizado anualmente. En el avalúo que para el efecto practique dicha secretaría, se considerará todo cuanto de hecho y por derecho corresponda a los bienes inmuebles o a las fracciones afectas al uso, goce o aprovechamiento. Dicho avalúo únicamente deberá considerar, el inmueble como originalmente se otorgó en uso, goce o aprovechamiento, sin incluir las mejoras y adiciones efectuadas por el sujeto pasivo del derecho.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-c) Certificado parcial de estudios de escuelas técnicas profesionales 0.75 UMA
+Para efecto de lo señalado en el presente artículo no se consideran los bienes del dominio público del Estado en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+###### ARTÍCULO 84.
 
-d) Certificado completo de estudios de escuelas técnicas profesionales 1.00 UMA
+Para los efectos del artículo anterior, se estará obligado al pago del derecho correspondiente, se tenga o no permiso, concesión, acuerdo de destino o autorización, cuando se obtenga un aprovechamiento especial.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien de uso común, de modo que se limite el derecho de terceros para su libre uso.
 
-e) Constancia de servicio social 1.75 UMA
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+###### ARTÍCULO 85.
 
-f) Acta de examen técnico profesional 1.75 UMA
+Por el permiso para la instalación de anuncios publicitarios dentro y fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras estatales, se causarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+I.- Por cada metro cuadrado de la superficie total del anuncio publicitario o señal informativa 1 UMA
 
-g) Título técnico profesional 3.25 UMA
-
-VIII.- Duplicado de:
-
-a) Constancia de preescolar 0.50 UMA
-
-b) Certificado de primaria, secundaria y extra escolar 1.00 UMA
-
-c) Dictamen de revalidación o equivalencia
-
-1. Inicial, preescolar, primaria o secundaria 1.50 UMA
-
-2. Medio superior 2.20 UMA
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-d) Certificado parcial de estudios de escuelas técnicas profesionales 1.00 UMA
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-e) Certificado completo de estudios de escuelas técnicas profesionales 1.50 UMA
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-f) Acta de examen técnico profesional 2.00 UMA
-
-IX.- Por expedición de constancia de estudios 1.00 UMA
-
-X.- Para acreditar un trámite administrativo 1.00 UMA
-
-XI.- Equivalencias de estudios de nivel medio superior 4.00 UMA
-
-XII.- Revalidación de estudios de nivel:
-
-a) Primaria 0.50 UMA
-
-b) Secundaria 1.50 UMA
-
-c) Medio superior 4.02 UMA
-
-XIII.- Cambio de titular de un acuerdo de incorporación 50.08 UMA
-
-XIV.- Cambio de nombre de plantel educativo 15.02 UMA
-
-XV.- Cambio o ampliación de turno 15.02 UMA
-
-XVI.- Ampliación de domicilio
-
-a) Inicial, preescolar, primaria o secundaria 30.04 UMA
-
-b) Medio superior 40.07 UMA
-
-c) Formación para el trabajo 40.07 UMA
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO XVII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
 
@@ -3283,157 +4059,59 @@ ARTÍCULO 85 F.- Están exentas del pago de los derechos contenidos en las fracc
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 82.
+###### ARTICULO 85-B.
 
-Los servicios que presta la Secretaría de Desarrollo Sustentable, causarán derechos de conformidad con lo siguiente:
+Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura establecida en el artículo anterior.
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-I.- Por la verificación de emisión de contaminantes, generados por vehículos automotores, a excepción de los destinados al transporte público de pasajeros 3.20 UMA
+ARTÍCULO 85 C.- Para los fines de clasificación de los derechos por concepto de expedición de determinaciones sanitarias, renovaciones y autorizaciones temporales quedarán de la siguiente manera:
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+Apartado A
 
-II.- Por cada cuota de conservación de cazador nacional 35.27 UMA
+Determinaciones sanitarias y renovaciones
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+I.- Los establecimientos con categoría A, son:
 
-III.- Por cada cuota de conservación de cazador extranjero 48.50 UMA
+Expendios de cerveza en envase cerrado, licorería, pizzería, restaurante, tienda de autoservicio Tipo A, sala de recepciones y salón de baile;
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+II.- Los establecimientos con categoría B, son:
 
-IV.- Por cada cintillo de cobro cinegético 5.29 UMA
+Restaurantes de lujo, tienda de autoservicio Tipo B y cantinas;
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+III.- Los establecimientos con categoría C, son:
 
-V.- Por cada evaluación y resolución de informe preventivo 62.49 UMA
+Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y;
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
 
-VI.- Por cada evaluación y resolución de manifestación de impacto ambiental 115.37 UMA
+Apartado B
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+Autorizaciones temporales
 
-VII.- Por la expedición de exención de presentación de estudio de impacto ambiental 14.42 UMA
+I.- Las autorizaciones con categoría A, son para:
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+Kermés, verbena popular y demás eventos con carácter similar a los anteriores;
 
-VIII.- Por cada evaluación y resolución de estudio de riesgo 38.46 UMA
+II.- Las autorizaciones con categoría B, son para:
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+Eventos deportivos o espectáculos, fiestas y ferias tradicionales, puestos autorizados durante las fiestas de carnaval y demás eventos con carácter similar a los anteriores;
 
-IX.- Por cada evaluación y resolución de la modificación del proyecto autorizado 35.57 UMA
+III.- Las autorizaciones con categoría C, son para:
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
 
-X.- Por cada ratificación de autorizaciones otorgadas 26.92 UMA
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+ARTÍCULO 85 D.- Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
 
-XI.- Por cada verificación e inspección de áreas, predios y Obras 21.14 UMA
-
-XII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
-
-XIII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
-
-XIV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
-
-XV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
-
-XVI.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
-
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-XVII.- Por cada evaluación y resolución de las solicitudes para obtener la factibilidad urbana ambiental 14.68 UMA
-
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-XVIII.- Por cada verificación e inspección de áreas, predios y obras en materia de extracción de material pétreo 22.00 UMA
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIX.- Por la evaluación de las actividades de extracción de material pétreo, por metro cúbico 0.20 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XX.- Por cada evaluación y resolución de la licencia ambiental única 75.84 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XXI.- Por cada verificación e inspección de áreas, predios y obras en materia de licencia ambiental única 21.14 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XXII.- Por cada evaluación y resolución de la modificación del proyecto autorizado por la licencia ambiental única 37.92 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XXIII.- Por la renovación de la licencia ambiental única 37.92 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XXIV.- Por la presentación de la cédula de operación anual de la licencia ambiental única 28.84 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XXV.- Por la evaluación de capacidad de carga 14.68 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XXVI.- Por el trámite del análisis y la opinión técnica para la viabilidad de un proyecto en el estado de Yucatán 14.68 UMA
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 82-A.
-
-Por el uso o aprovechamiento de los elementos naturales terrestres o acuáticos sujetos al régimen de dominio público del estado de Yucatán, existentes dentro de las áreas naturales protegidas de competencia estatal, derivado de toda actividad turística, deportiva o recreativa, de manera enunciativa mas no limitativa: buceo autónomo; buceo o inmersión libre; ciclismo; rappel; montañismo; excursionismo; espeleología; descenso a grutas; esquí acuático; recorridos en embarcaciones motorizadas y no motorizadas; observación de flora y fauna; así como nado, campismo, pernocta y navegación en cenotes, petenes, mares, canales, esteros, rías y lagunas costeras, se pagarán derechos, conforme a las siguientes cuotas:
-
-I.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
-
-a) Parque Estatal Lagunas de Yalahau 0.60 UMA
-
-b) Parque Estatal Kabah 0.60 UMA
-
-c) Parque Estatal Ix Kool Balamtun 0.60 UMA
-
-Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 7.02 UMA
-
-II.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
-
-a) Reserva Estatal de Dzilam de Bravo 0.80 UMA
-
-b) Reserva Estatal Biocultural del Puuc 0.80 UMA
-
-c) Reserva Estatal El Palmar 0.80 UMA
-
-d) Reserva Estatal Ciénegas y Manglares de la Costa Norte de Yucatán 0.80 UMA
-
-e) Reserva Estatal Geohidrológica Anillo de Cenotes 0.80 UMA
-
-Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 9.60 UMA
-
-III.- Por persona, por día, por cada área natural protegida o zona de área natural protegida, de conformidad con lo siguiente:
-
-a) Área Natural Protegida de Valor Cultural, Histórico y Escénico San Juan Bautista Tabi y Anexa Sacnicté 1.72 UMA
-
-Las personas podrán optar por pagar el derecho a que se refiere esta fracción, por persona, por año, para todas las áreas naturales protegidas previamente enlistadas: 17.20 UMA
-
-La obligación de pago de los derechos previstos en este artículo será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios recreativos, turísticos o deportivos. En los casos en que las actividades a las que se refiere este artículo se realicen sin la participación de los titulares mencionados, la obligación de pago será de cada persona.
-
-No pagarán los derechos a que se refiere este artículo la tripulación de las embarcaciones que presten servicios náutico-recreativos y acuático-recreativos, ni los residentes permanentes de las localidades que abarquen las áreas naturales protegidas en cuestión, siempre y cuando cuenten con la certificación de esta calidad, otorgada por la autoridad responsable, previa presentación de la documentación correspondiente, y realicen actividades recreativas sin fines de lucro.
-
-Quedarán exentos del pago de los derechos a que se refiere este artículo los menores de trece años, las personas con cualquier tipo de discapacidad, los profesores, los estudiantes en activo y los residentes de las localidades que abarquen el área natural protegida, de acuerdo con el decreto de regulación correspondiente, siempre y cuando así lo acrediten.
-
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, en la proporción definida en las reglas de operación del Fondo Ambiental, se destinarán a la Secretaría de Desarrollo Sustentable, para la protección, conservación, manejo, restauración y aprovechamiento sustentable de las áreas naturales protegidas.
-
-El cobro y pago de este derecho no exenta el pago por las actividades cinegéticas que se puedan desarrollar en las unidades de manejo ambiental presentes en las áreas naturales protegidas estatales, o bien, por cualquier otra actividad que se desarrolle al interior de estas.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO XVIII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PÚBLICO DEL ESTADO DE YUCATÁN QUE OPEREN COMO PARADORES TURÍSTICOS DE ZONAS ARQUEOLÓGICAS Y TURÍSTICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-###### Artículo 85-G.
-
-Por el uso de bienes del dominio público del estado de Yucatán que operen como Paradores Turísiticos (sic) de Zonas Arqueológicas y Turísticas a que se refiere este artículo, se cobrarán los siguientes derechos:
+ARTÍCULO 85 G.- Por el uso de bienes del dominio público del estado de Yucatán que operen como Paradores Turísticos de Zonas Arqueológicas y Turísticas a que se refiere este artículo, se cobrarán los siguientes derechos:
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -3459,13 +4137,9 @@ VII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
 VIII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+IX.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2021)
 
-IX.- Grutas de Loltún, unidad de servicio 0.83 UMA
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-X.- Grutas de Loltún (extranjeros) 1.27 UMA
+X.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -3517,109 +4191,33 @@ La recaudación de este derecho se destinará a un fideicomiso cuyo fin principa
 
 > <small>(REFORMADA SU NUMERACIÓN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 83.
-
-Están obligadas a pagar el derecho a que se refiere este capítulo, las personas que usen, gocen o aprovechen total o parcialmente los bienes del dominio público del Estado, conforme a lo siguiente:
-
-I.- El 7.5% anual del valor del inmueble o de la fracción de este, que se afecte al uso, goce o aprovechamiento.
-
-II.- El 2% anual del valor del inmueble o de la fracción de este, cuando en ellos se realicen actividades agropecuarias.
-
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-Para efectos de las fracciones anteriores, el valor del inmueble se determinará conforme a un avalúo que emita la Secretaría de Obras Públicas, que será actualizado anualmente. En el avalúo que para el efecto practique dicha secretaría, se considerará todo cuanto de hecho y por derecho corresponda a los bienes inmuebles o a las fracciones afectas al uso, goce o aprovechamiento. Dicho avalúo únicamente deberá considerar, el inmueble como originalmente se otorgó en uso, goce o aprovechamiento, sin incluir las mejoras y adiciones efectuadas por el sujeto pasivo del derecho.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-Para efecto de lo señalado en el presente artículo no se consideran los bienes del dominio público del Estado en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
-
-###### ARTÍCULO 84.
-
-Para los efectos del artículo anterior, se estará obligado al pago del derecho correspondiente, se tenga o no permiso, concesión, acuerdo de destino o autorización, cuando se obtenga un aprovechamiento especial.
-
-Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien de uso común, de modo que se limite el derecho de terceros para su libre uso.
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 85.
-
-Por el permiso para la instalación de anuncios publicitarios dentro y fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras estatales, se causarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
-
-I.- Por cada metro cuadrado de la superficie total del anuncio publicitario o señal informativa 1 UMA
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
-
 ### CAPÍTULO XIX. DERECHOS POR ACCESO A LA INFORMACIÓN
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-ARTÍCULO 85 H.- Por los servicios que presten los sujetos obligados por la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, con excepción de los municipios, se causarán derechos conforme a lo siguiente:
+ARTÍCULO 85 H.- La consulta de la información y documentación que realicen los particulares a las dependencias y entidades de la Administración Pública estatal, a los Poderes Legislativo y Judicial, y a los organismos constitucionales autónomos, en términos de la legislación aplicable en materia de transparencia y acceso a la información pública, y de protección de datos personales, será gratuita, salvo que para su entrega se requiera su impresión o almacenamiento, en cuyo caso se cobrará por costo de recuperación lo siguiente:
 
-I.- Expedición de copias simples, con anterioridad a partir de dos años, por hoja 0.10 UMA
+I.- Por la expedición de copias simples, a partir de la vigesimoprimera copia, por hoja 0.02 UMA
 
-II.- Expedición de copias simples, para el anterior y actual ejercicio, por hoja 0.04 UMA
+II.- Por la expedición de la certificación de datos o documentos, a partir de la vigesimoprimera hoja, por hoja 0.20 UMA
 
-III.- Expedición de copias certificadas 0.20 UMA
+III.- Por la entrega de disco magnético o disco compacto, por cada uno 1.00 UMA
 
-IV.- Disco magnético o disco compacto, por cada uno 1.00 UMA
-
-V.- Disco versatil digital 2.00 UMA
+No se causará el costo de recuperación a que se refiere este artículo cuando las solicitudes de acceso a la información o, en su caso, las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición de datos personales, se realicen por personas con discapacidad. Para estos efectos, el solicitante deberá hacer constar tal circunstancia al momento de formular su petición.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### ARTICULO 85-B.
-
-Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura establecida en el artículo anterior.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-ARTÍCULO 85 C.- Para los fines de clasificación de los derechos por concepto de expedición de determinaciones sanitarias, renovaciones y autorizaciones temporales quedarán de la siguiente manera:
-
-Apartado A
-
-Determinaciones sanitarias y renovaciones
-
-I.- Los establecimientos con categoría A, son:
-
-Expendios de cerveza en envase cerrado, licorería, pizzería, restaurante, tienda de autoservicio Tipo A, sala de recepciones y salón de baile;
-
-II.- Los establecimientos con categoría B, son:
-
-Restaurantes de lujo, tienda de autoservicio Tipo B y cantinas;
-
-III.- Los establecimientos con categoría C, son:
-
-Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y;
-
-IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
-
-Apartado B
-
-Autorizaciones temporales
-
-I.- Las autorizaciones con categoría A, son para:
-
-Kermés, verbena popular y demás eventos con carácter similar a los anteriores;
-
-II.- Las autorizaciones con categoría B, son para:
-
-Eventos deportivos o espectáculos, fiestas y ferias tradicionales, puestos autorizados durante las fiestas de carnaval y demás eventos con carácter similar a los anteriores;
-
-III.- Las autorizaciones con categoría C, son para:
-
-Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
-
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 85 D.- Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO XX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE TRANSPORTE
 
 ### CAPÍTULO XXI. DERECHOS POR LOS SERVICIOS DE SUPERVISIÓN, VIGILANCIA Y REGISTRO DE MÁQUINAS DE JUEGOS Y APUESTAS
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 85-I.
+
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO XXII. DERECHOS POR LOS SERVICIOS DE INSPECCIÓN, CONTROL Y FISCALIZACIÓN QUE REALIZA LA SECRETARÍA DE LA CONTRALORÍA GENERAL
 
@@ -3652,12 +4250,6 @@ V. Por la ratificación de convenios de centros privados de mediación 4.70 UMA
 La recaudación de este derecho se destinará íntegramente al Poder Judicial del Estado.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 85-I.
-
-(DEROGADO, D.O. 31 DE DICIEMBRE DE 2018)
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO XXIV. DERECHOS POR LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
 
@@ -3835,13 +4427,31 @@ XXVI.- Validación de título profesional, de diploma de especialidad o de grado
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
+###### ARTÍCULO 85-R.
+
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 2 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 85-S.
+
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
+
+###### ARTÍCULO 85-T.
+
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
+
+###### ARTÍCULO 85-U.
+
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
 ### CAPÍTULO XXVI. DERECHOS POR LOS SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 85-X.
-
-Los servicios que presta el Instituto de Movilidad y Desarrollo Urbano Territorial, causarán derechos de conformidad con lo siguiente:
+ARTÍCULO 85 X.- Los servicios que presta el Instituto de Movilidad y Desarrollo Urbano Territorial, causarán derechos de conformidad con lo siguiente:
 
 I.- Reposición de la credencial inteligente de transporte urbano (CITUR) 0.53 UMA
 
@@ -3915,43 +4525,39 @@ XX.- Por el permiso anual para prestar el servicio particular de transporte de p
 
 XXI.- Por el permiso eventual para prestar el servicio particular de transporte de pasajeros 5.74 UMA
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XXII.- Emisión de la constancia tipo “Permiso en Modalidad de Servicio Público”, de 1 a 100 vehículos 220.00 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XXIII.- Emisión de la constancia tipo “Permiso en Modalidad de Servicio Público”, de 101 a 300 vehículos 500.00 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XXIV.- Emisión de la constancia tipo “Permiso en Modalidad de Servicio Público”, de 301 vehículos en adelante 710.00 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XXV.- Expedición del certificado vehicular de transporte alternativo 2.50 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XXVI.- Expedición del certificado de operador titular de transporte alternativo 1.25 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XXVII.- Expedición del certificado de operador adhesivo de transporte alternativo 1.00 UMA
+
 Los derechos por los servicios previstos en las fracciones X y XI de este artículo serán aplicables únicamente en caso de que el área a evaluar pertenezca a un municipio que no preste los referidos servicios o a solicitud de este.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO XXVII. DERECHOS POR LA INFRAESTRUCTURA TECNOLÓGICA EN MATERIA DE SEGURIDAD PÚBLICA
 
-###### ARTÍCULO 85-R.
-
-(DEROGADO, D.O. 2 DE MAYO DE 2016)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 2 DE MAYO DE 2016)</small>
-
-###### ARTÍCULO 85-S.
-
-(DEROGADO, D.O. 2 DE MAYO DE 2016)
-
-###### ARTÍCULO 85-T.
-
-(DEROGADO, D.O. 2 DE MAYO DE 2016)
-
-###### ARTÍCULO 85-U.
-
-(DEROGADO, D.O. 2 DE MAYO DE 2016)
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
 ### CAPÍTULO XXVIII. DERECHOS POR SERVICIOS QUE PRESTA EL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-### CAPÍTULO ÚNICO. APROVECHAMIENTOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 85-Y.
 
@@ -3973,7 +4579,7 @@ AB.- (DEROGADO, D.O. 7 DE ABRIL DE 2020)
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 85
 
@@ -3989,11 +4595,17 @@ IV. Por módulo de trabajo de investigación del Instituto de Investigaciones Le
 
 Las recaudaciones de estos derechos se destinarán íntegramente al Poder Legislativo del Estado de Yucatán.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 86.
 
@@ -4008,6 +4620,8 @@ III.- Venta de formas oficiales impresas.
 IV.- Cualquier otro producto no especificado en este título.
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 87.
 
@@ -4536,3 +5150,45 @@ Artículo segundo. Para efectos de lo dispuesto en la fracción XIII del párraf
 Aviso de modificación de prestadores de servicios
 
 Artículo tercero. Los intermediarios, contratistas, terceros o cualquiera que sea su denominación, que presten servicios especializados o de ejecución de obras especializadas, que a la fecha de entrada en vigor de este decreto, estén inscritos en el Registro Estatal de Contribuyentes deberán presentar el aviso de modificación de sus datos registrados, a que se refiere la fracción XIII del párrafo segundo del artículo 40 del Código Fiscal del Estado de Yucatán, a través de las formas oficiales que para tal efecto emita la Agencia de Administración Fiscal de Yucatán; y manifestar si la prestación deriva de servicios especializados o de la ejecución de obras especializadas, dentro del mes siguiente al día de la entrada en vigor de este decreto.
+
+D.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 442/2021 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el artículo 7, párrafo tercero, que lo hará el 1 de julio de 2022, y lo establecido en el artículo 27 J, que entrará en vigor el 1 de abril de 2022.
+
+Artículo segundo. Cuota por la emisión de unidades de contaminantes al agua
+
+Para efectos de la fracción II del artículo 47-AU de la Ley General de Hacienda del Estado de Yucatán, la cuota aplicable durante el ejercicio fiscal 2022 será de 0.10 UMA y la cuota aplicable para el ejercicio fiscal 2023 será de 0.15 UMA.
+
+Artículo tercero. Primer pago provisional
+
+Para los efectos de lo dispuesto en el artículo 47-AL de la Ley General de Hacienda del Estado de Yucatán, el primer pago provisional comprenderá los meses de enero, febrero, marzo y abril correspondientes al ejercicio fiscal 2022, y se realizará mediante declaración que se presentará a más tardar el 17 de mayo de 2022.
+
+Artículo cuarto. Presentación de la primera declaración mensual
+
+La declaración a que se refiere el artículo 47-AV de la Ley General de Hacienda del Estado de Yucatán, correspondiente a los meses de enero, febrero, marzo, abril y mayo de 2022, se presentará con la información acumulada al mes de mayo, a más tardar el 17 de junio de 2022.
+
+D.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 443/2021 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN, EN MATERIA DE AVALÚOS, COMO PARTE DEL PAQUETE FISCAL 2022".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2022, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el artículo 20-K de la Ley General de Hacienda del Estado de Yucatán, que lo hará el 1 de febrero de 2022 y de lo establecido en el penúltimo párrafo del artículo 20-I; el párrafo tercero del artículo 20 J; la fracción XIV del artículo 68; de la Ley General de Hacienda del Estado de Yucatán; los párrafos tercero y último del artículo 20-A; los artículos 20-B y 20-C; y el último párrafo del artículo 45, del Código Fiscal del Estado de Yucatán; la fracción XI del artículo 125; las fracciones II, III, VI, VIII y IX del artículo 175 quinquies; los artículos 175 septies y 175 octies; el párrafo segundo del artículo 175 nonies; 175 decies; el párrafo segundo del artículo 200; y las fracciones VII, VIII y IX del artículo 201 de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán que lo harán el 15 de febrero de 2022.
+
+Segundo. Obligación normativa
+
+El Gobernador del Estado emitirá el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
+
+En tanto se emite el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán, el Instituto de Seguridad Jurídica Patrimonial de Yucatán utilizará la NMX-R-081-SCFI-2015 denominada Servicios- (sic) Servicios de Valuación-Metodología, para la validación de los avalúos comerciales que le presenten los peritos valuadores en términos de este decreto.
+
+Tercero. Obligación de inscribirse en el padrón
+
+Las personas que se refiere el artículo 175 ter de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán tendrán la obligación de inscribirse en el Padrón de Peritos Valuadores del Estado de Yucatán para obtener la validación de sus avalúos en términos de este decreto a partir del 1 de enero de 2022, previa publicación de la convocatoria que, al efecto, emita el Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+Cuarta. Emisión de la convocatoria
+
+El Instituto de Seguridad Jurídica Patrimonial de Yucatán, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días, contado a partir de la entrada en vigor de este decreto.
