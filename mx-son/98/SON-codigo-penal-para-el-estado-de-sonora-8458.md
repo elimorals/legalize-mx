@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2021-05-14"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -4897,9 +4897,9 @@ ARTICULO 329 BIS.- En los casos de encubrimiento de delitos cometidos por direct
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2014)</small>
 
-### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO UNICO. DELITOS CONTRA EL AMBIENTE Y LA GESTIÓN AMBIENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO VIGESIMO SEGUNDO. DELITOS ELECTORALES
 
@@ -5013,37 +5013,127 @@ ARTICULO 336 BIS.- Se impondrá prisión de dos a seis años y multa de diez a d
 
 Se entenderá por violencia política de género a quien por cualquier medio impida, obstaculice o realice por sí o a través de terceros cualquier acción u omisión con el ánimo de causar daño físico, psicológico, sexual, económico o de otra índole, resultado de discriminación por razón de género en contra de una o más mujeres que tenga como propósito restringir, suspender o impedir el ejercicio de sus derechos político-electorales o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad o de la ley.
 
-## TITULO VIGESIMO TERCERO. DELITOS CONTRA LA ECOLOGIA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+## TITULO VIGESIMO TERCERO. DELITOS CONTRA EL AMBIENTE Y LA GESTIÓN AMBIENTAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 337.
 
-Se impondrán de tres meses a seis años de prisión y multa de cien a quinientas Unidades de Medida y Actualización, al que, sin contar con las autorizaciones respectivas o violando las disposiciones previstas en la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora, sus reglamentos, así como las normas técnicas ecológicas, realice, autorice u ordene la realización de actividades que se consideren riesgosas en los términos del artículo 113 del ordenamiento antes señalado, que no sean competencia de la federación y que ocasionen graves daños al ambiente o a los ecosistemas.
+Se impondrá de tres meses a seis años de prisión y multa de cien a quinientas Unidades de Medida y Actualización:
 
-Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, las sanciones que correspondan se aumentarán hasta en una tercera parte.
+I.- Al que, con el propósito de obtener una ventaja indebida, afirme hechos o datos falsos u omita los que le consten en el trámite de la autorización en materia de impacto ambiental, licencia ambiental integral y demás resoluciones, licencias o permisos de la competencia de las autoridades ambientales del Estado o del Municipio;
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+II.- Al que, en los procedimientos referidos en la fracción anterior, presente documentos falsos;
+
+III.- Al que, con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental estatal, asiente datos falsos en las solicitudes, registros, bitácoras o cualquier otro documento;
+
+IV.- Al que altere, oculte o destruya información, registros, reportes o cualquier otro documento que contenga información ambiental, cuando deba ser conservado en cumplimiento de la normatividad ambiental estatal o por resolución de la autoridad ambiental competente; y,
+
+V.- Al que incumpla o vulnere una medida correctiva, de prevención, mitigación, seguridad o de control impuesta por la autoridad ambiental o judicial competente propiciando directa o indirectamente desequilibrio en los ecosistemas, daño ambiental o contaminación.
+
+Cuando el incumplimiento a que se refiere la fracción V implique el abandono del sitio en que se realizó la obra o actividad, sin llevar a cabo las medidas de mitigación, remediación o corrección impuestas por la autoridad ambiental para recuperar el equilibrio ecológico, la pena se elevará hasta un año más de prisión y la multa hasta quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 338.
 
-Se impondrán de tres meses a cinco años de prisión y multa de cien a quinientas Unidades de Medida y Actualización, al que, sin autorización de la autoridad competente y en contravención de las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables, descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en suelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a los ecosistemas.
+Se impondrá de cinco años a quince años de prisión y multa de trescientas a seiscientas Unidades de Medida y Actualización, al servidor público que:
+
+I.- Conceda autorizaciones, licencias o permisos para cualquier obra o actividad de su competencia, cuando no se cumpla con alguno de los requisitos establecidos en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora, de sus reglamentos o demás ordenamientos normativos ambientales federales;
+
+II.- Silencie u oculte irregularidades o no reporte violaciones a las leyes ambientales estatales y a sus reglamentos, o a los permisos, licencias o autorizaciones que hayan sido concedidas por la autoridad ambiental competente;
+
+III.- Acceda sin autorización a la información contenida en las bases de datos de las autoridades ambientales con el propósito de extraerla, difundirla o de facilitarla a terceros para generarles algún beneficio;
+
+IV.- Omita asentar uno o más datos que proporcionen características o indicadores ambientales en las autorizaciones, licencias y permisos que emitan, con el propósito de simular el cumplimiento de las obligaciones derivadas de las disposiciones legales en la materia;
+
+V.- Reciba remuneración económica u objetos diversos por realizar sus funciones como servidores públicos, de parte de prestadores de servicios ambientales y personas físicas o morales que tengan o hayan tenido asuntos en trámite ante la instancia en la que ejercen sus funciones;
+
+VI.- Omita excusarse, abstenerse de intervenir, participar, solicitar o influir en la resolución de las autorizaciones, licencias y permisos emitidos por las autoridades ambientales, cuando se encuentre en alguno de los supuestos señalados por el artículo 26 de la Ley de Procedimiento Administrativo del Estado de Sonora como causales de impedimento, excusa o recusación; y
+
+VII.- Emita autorizaciones, licencias o permisos de forma irregular, brindando trato preferencial a personas físicas o morales, actualizando alguno de los supuestos del título séptimo de este código, relacionado con Delitos por Hechos de Corrupción.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 339.
 
-A quien dentro de los límites de los centros de población derribe total o parcialmente un árbol, sin el permiso de la autoridad competente, se le aplicará de diez a cien jornadas de trabajo en favor de la comunidad.
+Se impondrá pena de tres meses a seis años de prisión y multa de cien a quinientas Unidades de Medida y Actualización, así como la reparación del daño ocasionado al ambiente al que, sin contar con las autorizaciones respectivas o violando las disposiciones previstas en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora, sus reglamentos, así como las normas técnicas aplicables, o contraviniendo las autorizaciones, licencias o permisos que se le hayan concedido:
+
+I.- Realice, autorice u ordene la realización de actividades que se consideren riesgosas que no sean competencia de la federación, y las actividades que por su naturaleza generen daños al ambiente o desequilibrio a los ecosistemas;
+
+II.- Fabrique, transporte, comercie, distribuya, acopie, almacene, posea, use, reúse, recicle, recolecte, trate, deseche, descargue, disponga o, en general, realice actos con residuos de manejo especial o residuos no peligrosos u ordene la realización de cualquiera de estas actividades que ocasionen daños al ambiente o a los ecosistemas;
+
+III.- Realice, u ordene realizar, la descarga o liberación a la atmósfera, de gases, humos, polvos, partículas, vapores u olores que ocasionen daños al ambiente o a los ecosistemas, cuando dichas emisiones provengan de fuentes fijas de jurisdicción estatal o municipal;
+
+IV.- Realice, u ordene realizar, quemas a cielo abierto mediante la combustión de plásticos, llantas o cualquier otro material contaminante, que ocasione daños al ambiente o afecte el equilibrio de un ecosistema;
+
+V.- Realice, u ordene realizar, la quema de esquilmos o gavilla;
+
+VI.- Realice, u ordene realizar, la descarga, depósito o infiltración de aguas residuales, residuos de manejo especial, residuos no peligrosos, residuos sólidos urbanos o contaminantes en los suelos, vasos o demás cuerpos de agua que no sean de jurisdicción federal, que ocasionen daños al ambiente o a los ecosistemas;
+
+VII.- Dañe, deseque o rellene los terrenos de los cauces y los de los vasos de lagos, lagunas, humedales o esteros de jurisdicción estatal, u ordene la realización de cualquiera de estas actividades, ocasionando daños al ambiente o a los ecosistemas; y,
+
+VIII.- Genere, u ordene la realización de cualquiera (sic) actividad que genere emisiones de ruido, vibraciones, energía térmica o lumínica que ocasionen daños al ambiente o a los ecosistemas.
+
+Cuando las obras o actividades a que se refieren las fracciones anteriores se lleven a cabo en un centro de población, en un inmueble sujeto al régimen de protección estatal o municipal, en un área natural protegida o en una zona de conservación, la pena se elevará hasta un año más de prisión y la multa hasta quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+Cuando el daño ocasionado sea calificado como no grave por la autoridad ambiental competente, se aplicará de cien a doscientas jornadas de trabajo a favor de la comunidad, pero en todos los casos aquí previstos se aplicará multa y reparación del daño.
+
+El trabajo a favor de la comunidad, en este delito, consistirá en actividades relacionadas con la limpieza, protección, restauración, mejoramiento del ambiente y la conservación de los recursos naturales.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 340.
 
-Para los efectos de los artículos anteriores, cuando en la configuración del tipo penal se haga referencia a enunciados técnicos que tienen relación con la materia ecológica, se deberá estar a lo que previene para ello, la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
+Al que, haciendo violencia en las personas o en las cosas, o furtivamente, o empleando engaño, o amenazas o sin derecho, ocupe o haga uso de un inmueble sujeto al régimen de protección estatal o municipal como área natural protegida o como área de conservación en sus distintas modalidades, se le aplicará de seis meses a siete años de prisión y multa de cien a novecientas Unidades de Medida y Actualización, así como la reparación del daño ocasionado.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 341.
 
-Para proceder penalmente por los delitos previstos en este Capítulo, será necesario previamente que, en el ámbito estatal, la Secretaría de Infraestructura Urbana y Ecología, y en el ámbito municipal, los ayuntamientos, formulen la denuncia correspondiente.
+Cuando por cualquier medio se ordene causar o se cause daño, destrucción o deterioro a un inmueble sujeto al régimen de protección estatal o municipal, declarado como área natural protegida o área de conservación, en sus distintas modalidades, o en parques y reservas estatales, zonas de conservación ecológica de los centros de población, parques urbanos, jardines públicos o áreas verdes, se le aplicará de cincuenta a doscientas jornadas de trabajo a favor de la comunidad y de cincuenta a cien Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, B.O. 16 DE MARZO DE 2021)</small>
+El trabajo a favor de la comunidad, en este delito, consistirá en actividades relacionadas con la limpieza, protección, restauración, mejoramiento del ambiente y la conservación de los recursos naturales.
 
-ARTICULO 341 BIS.- A quien realice la quema de esquilmos o gavilla, sin autorización de la autoridad competente se impondrá una pena de prisión de dos a seis años y una multa de mil a dos mil quinientas Unidades de Medida y Actualización.
+Cuando el daño ocasionado sea calificado como grave por la autoridad ambiental competente, se aplicará de seis meses a siete años de prisión y multa de cien a novecientas Unidades de Medida y Actualización, así como la reparación del daño ocasionado al ambiente.
 
-La pena prevista en el párrafo anterior se aumentará hasta una tercera parte, cuando quien cometa el delito sea servidor público cuya obligación sea proteger el medio ambiente y que, teniendo conocimiento de este ilícito, omita realizar las funciones propias de su encargo para prevenir, solucionar y sancionar al responsable.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 341 BIS.- Se impondrá de cincuenta a doscientas jornadas de trabajo a favor de la comunidad y de cincuenta a cien Unidades de Medida y Actualización; así como la reparación del daño ocasionado al ambiente al que cause u ordene causar, incendio, inundación o explosión con daño o peligro en un inmueble o zona sujeta al régimen de protección estatal o municipal, ya sea un área natural protegida o área de conservación, en sus distintas modalidades o en parques y reservas estatales, zonas de conservación ecológica de los centros de población o parques urbanos, jardines públicos o áreas verdes de competencia municipal.
+
+El trabajo a favor de la comunidad, en este delito, consistirá en actividades relacionadas con la limpieza, protección, restauración, mejoramiento del ambiente y la conservación de los recursos naturales.
+
+Cuando el daño ocasionado sea calificado como grave por la autoridad ambiental competente, se aplicará de seis meses a siete años de prisión y multa de cien a novecientas Unidades de Medida y Actualización, así como la reparación del daño ocasionado al ambiente.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 341 BIS 1.- A quien dentro de los límites de los centros de población derribe u ordene derribar parcialmente un árbol, o realice u ordene realizar, la poda de más del 30% de su follaje, sin el permiso de la autoridad competente, se le aplicará de diez a cien jornadas de trabajo a favor de la comunidad y de cincuenta a cien Unidades de Medida y Actualización.
+
+Para los efectos de este artículo, se entiende por árbol la especie vegetal que tiene un tronco columnar de naturaleza leñosa de más de 1.5 metros de altura del cual parten ramas que constituyen su follaje o copa.
+
+El trabajo a favor de la comunidad, en este delito, consistirá en actividades relacionadas con la limpieza, protección, restauración, mejoramiento del ambiente y la conservación de los recursos naturales.
+
+Cuando el derribo del árbol sea total y éste tenga más de 1.5 metros de altura o más de dos años de vida, se le aplicará de 3 meses a 3 años de prisión y de 30 a cien Unidades de Medida y Actualización; así como la reparación del daño.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 341 BIS 2.- Cuando en los delitos previstos en este título participe algún servidor público del Estado o de los Municipios, las penas previstas se aumentarán de tres hasta cinco años de prisión y multa de quinientas hasta cinco mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente y, además, se impondrá destitución, en su caso, e inhabilitación de uno a diez años, para desempeñar otro empleo, cargo o comisión públicas.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 341 BIS 3.- Cuando las conductas a que se refiere este título se lleven a cabo o sean ordenadas o sugeridas por prestadores de servicios ambientales, la pena correspondiente se aumentará de dos hasta cuatro años de prisión y multa de quinientas hasta tres mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 341 BIS 4.- Para los efectos de los artículos anteriores, cuando en la configuración del delito se haga referencia a enunciados técnicos deberá estarse a lo que prevenga la legislación ambiental estatal y federal y sus reglamentos.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ARTICULO 341 BIS 5.- Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en este capítulo.
+
+En los casos en que las autoridades ambientales municipales o estatales, como resultado del ejercicio de sus atribuciones, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en este capítulo, formularán la denuncia correspondiente ante el Ministerio Público.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -5726,3 +5816,11 @@ B.O. 14 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
