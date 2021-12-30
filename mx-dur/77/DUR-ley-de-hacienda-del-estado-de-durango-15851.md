@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2021-01-03"
+last_updated: "2021-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO EL 3 DE ENERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -311,13 +309,11 @@ Son sujetos de este impuesto, las personas físicas y morales obligadas a contri
 
 La base gravable del impuesto es el monto total de las contribuciones establecidas en esta Ley excepto el impuesto establecido en este capítulo así como a las aportaciones especiales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 16.
 
-El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa del 40%.
+El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa que indique la Ley de Ingresos del Estado de Durango vigente en cada ejercicio.
 
 ###### ARTICULO 17.
 
@@ -1772,6 +1768,166 @@ c) Por la modificación de permiso: 25
 d) Por la revalidación anual: 60
 
 e) Por su cancelación: 5
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+XVIII.- Por los servicios que presta la Coordinación Estatal de Protección Civil del Estado, se causarán derechos conforme a lo siguiente:
+
+DERECHO UMA
+
+I. Dictamen de riesgo en materia de
+
+protección civil para la autorización y
+
+ejecución de una obra pública:
+
+a) De uno hasta 350 m2 10
+
+b) De 351 HASTA 1000 M2 50
+
+c) De 1001 en adelante 100
+
+II. Derechos por la verificación y validación del
+
+programa interno de protección civil se causarán:
+
+a) De 1 a 350 m2 10
+
+b) De 351 a 1000 m2 50
+
+c) De 1001 en adelante 100
+
+III. Por la expedición de registro para particulares
+
+y dependencias públicas que ejerzan actividades
+
+de asesoría, capacitación, evaluación, elaboración
+
+de programas internos de protección civil, continuidad
+
+de operaciones y estudios de vulnerabilidad y riesgo
+
+en materia de protección civil:
+
+a) Consultor nivel 1. Capacitación de
+
+personal en materia de Protección Civil 60
+
+b) Consultor nivel 2. Capacitación y
+
+elaboración de programas internos
+
+de protección civil de riesgo ordinario 110
+
+c) Consultor nivel 3. Capacitación de personal,
+
+elaboración de programas internos de
+
+riesgo ordinario y alto, elaboración de
+
+programas especiales, estudio de
+
+riesgo de vulnerabilidad y actividades
+
+específicas en la materia. 165
+
+IV. Por la revisión y aprobación del programa,
+
+salvamento y rescate acuático para aguas
+
+cerradas, abiertas o confinadas:
+
+a) De 1 hasta 350m2 10
+
+b) De 351 hasta 1000 m2 50
+
+c) c) (sic) De 1001 m2 en adelante 100
+
+V. Capacitación por hora hombre, por las funciones
+
+de la escuela estatal de Protección Civil:
+
+a) Para guarderías, estancias infantiles,
+
+primarias, secundarias y preparatorias
+
+del sector privado 1
+
+b) Para Institutos, universidades y organizaciones
+
+públicas y privadas 2
+
+c) Para pequeñas industrias hasta
+
+cincuenta trabajadores 2.5
+
+d) Para mediana industria hasta 100
+
+trabajadores 3
+
+e) Para gran industria, mayor a 100
+
+trabajadores 4
+
+f) Para industria minera 6
+
+g) Por la capacitación por hora hombre para
+
+cursos de especialización 9
+
+h) Por la capacitación por hora hombre
+
+para diplomados 80
+
+i) Análisis, detención y emisión de
+
+dictamen da necesidades de capacitación
+
+en protección civil. 50
+
+j) Capacitación por horas hombre en la
+
+constitución, integración y funcionamiento
+
+de las brigadas de emergencia 2.5
+
+k) Capacitación y entrenamiento de brigada contra
+
+incendios de acuerdo al grado de riesgo y de
+
+conformidad con la norma aplicable conforme
+
+a lo siguiente:
+
+k.1 Brigadas contra incendios en el nivel básico
+
+(fase incipiente) 2.5
+
+k.2 Brigadas contra incendios en el
+
+nivel intermedio (fase alertamiento) 4
+
+k.3 Brigadas contra incendios en nivel
+
+avanzados (fase de emergencia) 6
+
+l) Curso de capacitación por hora
+
+hombre de entrenamiento de psicología
+
+en la emergencia. 2
+
+VI. Revisión y aprobación para la detención de
+
+riesgos de incendios explosión o arson, cursos
+
+de capacitación por hora hombre de entrenamiento
+
+de psicología en la emergencia 50
+
+VII. Por la revisión y aprobación de sistemas fijos
+
+contra incendios 50
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -3838,3 +3994,9 @@ P.O. 31 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 086.- QUE CONTIENE REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
