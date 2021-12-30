@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2021-12-16"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO FISCAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -433,9 +433,13 @@ La prescripción del crédito fiscal produce la prescripción simultánea de los
 
 La obligación de las autoridades a devolver, prescribe en los mismos términos y condiciones que el crédito fiscal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 38.
 
-Las autoridades fiscales no declararán de oficio la prescripción, en todo caso, los sujetos pasivos podrán solicitar a la autoridad fiscal que declare que ha prescrito algún crédito fiscal a su cargo, debiendo resolver en este caso la autoridad en un plazo de treinta días a partir de que se presentó la solicitud. También podrán hacerla valer vía excepción, mediante el recurso de revocación establecido en este ordenamiento.
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad fiscal o a petición del contribuyente de acuerdo a la normatividad aplicable y de conformidad con los lineamientos que establezca el Secretario.
+
+Los sujetos pasivos podrán solicitar a la autoridad fiscal que declare que ha prescrito algún crédito fiscal a su cargo, debiendo resolver en este caso la autoridad en un plazo de treinta días a partir de que se presentó la solicitud. También podrán hacerla valer vía excepción, mediante el recurso de revocación establecido en este ordenamiento.
 
 ###### ARTICULO 39.
 
@@ -450,6 +454,18 @@ III. Por cualquier solicitud de devolución, por escrito, que los interesados pr
 De estos actos, gestiones o notificaciones, deberá existir una constancia por escrito.
 
 En estos casos, el plazo de la prescripción iniciará nuevamente a contarse a partir del día siguiente al de la fecha en que cese la interrupción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 152 de este Código, también se suspenderá el plazo de la prescripción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo
 
 ###### ARTICULO 40.
 
@@ -1307,7 +1323,9 @@ IV. Tratándose de la presentación de declaraciones o avisos cuando por diferen
 
 V. Cuando se omita el pago de una contribución que corresponda a los actos o contratos que se hagan constar en escritura pública, la sanción y accesorios se impondrán exclusivamente a los notarios, corredores o fedatarios y los otorgantes sólo quedarán obligados a pagar los (sic) contribuciones omitidas.
 
-VI. En el caso de que la multa se pague dentro de los quince días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VI. En el caso de que la multa se pague dentro de los treinta días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1789,9 +1807,27 @@ II. Prenda o hipoteca.
 
 III. Fianza otorgada por compañía autorizada la que no gozará de los beneficios de orden y exclusión.
 
-IV. Embargo en la vía administrativa.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+IV. Embargo en la vía administrativa de bienes muebles tangibles e inmuebles.
+
+En el caso de predios rústicos y negociaciones siempre y cuando demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de los supuestos contemplados en las fracciones de este Artículo.
 
 V. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+VI. Cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de los supuestos contemplados en las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría de Finanzas y de Administración.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI CON SUS NUMERALES, P.O. 30 DE DICIEMBRE DE 2021]</small>
+
+Para términos de esta fracción, el contribuyente deberá:
+
+1. Rendir un informe mensual dentro de los primeros cinco días hábiles del mes siguiente, de todos los movimientos que haya sufrido la cartera de clientes, suscrito por el depositario,
+
+2. Comprometerse, mediante escrito manifestando bajo protesta de decir verdad a mantener en inventario, un monto equivalente al que tenga al momento de otorgar la garantía,
+
+3. Que la relación de créditos indique, nombres de los deudores, datos personales, condiciones y términos de pago, así como los documentos que acrediten este derecho, mismo que no deberá incluir los créditos que sean incobrables.
 
 La garantía de un crédito fiscal, comprenderá, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
@@ -1853,13 +1889,19 @@ Las fianzas que las instituciones legalmente autorizadas otorguen a favor del Es
 
 La póliza en que se haga constar la fianza, deberá quedar en poder y guarda de la autoridad recaudadora que sea competente para cobrar el crédito fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 152.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse junto con sus accesorios, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse junto con sus accesorios, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días siguientes a la fecha en que surta efecto su notificación. Si a más tardar al vencimiento del citado plazo se acredita la impugnación que se hubiere intentado, se suspenderá el procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación, el plazo para garantizar el interés fiscal será de cinco meses siguientes a la fecha de interposición del recurso, debiendo el interesado acreditar ante la autoridad fiscal, que lo interpuso dentro de los cuarenta y cinco días siguientes a la fecha en que surtió efectos la notificación del acto, a fin de suspender el procedimiento administrativo de ejecución.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efecto su notificación. Si a más tardar al vencimiento del citado plazo se acredita la impugnación que se hubiere intentado, se suspenderá el procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Cuando el contribuyente, hubiere interpuesto en tiempo y forma el recurso de revocación, el plazo para garantizar el interés fiscal será de cinco meses siguientes a la fecha de interposición del recurso, debiendo el interesado acreditar ante la autoridad fiscal, que lo interpuso dentro de los treinta días siguientes a la fecha en que surtió efectos la notificación del acto, a fin de suspender el procedimiento administrativo de ejecución.
 
 Cuando con el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados actualizados con los recargos correspondientes.
 
@@ -2145,7 +2187,13 @@ XIII. Las servidumbres, cuando no se embargue también el fundo en cuyo favor es
 
 Cuando lo embargado sea dinero, se entregará inmediatamente a la Recaudación de Rentas, la que lo aplicará en ese momento para cubrir, hasta donde alcance, el crédito fiscal.
 
-Si los bienes embargados son alhajas, metales preciosos, objetos de arte, valores mobiliarios o bancarios, acciones, bonos o cualquier otro título de crédito, se depositarán previo inventario en la Recaudación de Rentas, a más tardar el día hábil siguiente al de la fecha del embargo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Si los bienes embargados son alhajas, metales preciosos, objetos de arte, valores mobiliarios o bancarios, acciones, bonos o cualquier otro título de crédito, se entregarán por el depositario previo inventario en la Recaudación de Rentas a más tardar el día hábil siguiente al de la fecha del embargo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de los demás bienes, el plazo será de cinco días contados a partir de aquel en que fue hecho el requerimiento para tal efecto.
 
 Los valores mobiliarios y bancarios, acciones y bonos se enviarán para su venta a la institución de crédito que designe el Secretario de Finanzas y de Administración, si éste lo estima conveniente.
 
@@ -2587,9 +2635,11 @@ Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria
 
 #### SECCIÓN SEGUNDA. DE LA INTERPOSICIÓN DEL RECURSO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTICULO 236.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad administrativa que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquel en que haya surtido efectos su notificación, con excepción de lo dispuesto en los artículos 194 y 235 de éste Código, casos en los cuales el escrito de interposición del recurso deberá presentarse dentro del plazo que en los mismos se señala.
+El escrito de interposición del recurso deberá presentarse ante la autoridad administrativa que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a aquel en que haya surtido efectos su notificación, con independencia de lo regulado en los artículos 194 y 235 de este Código, casos en los cuales el escrito de interposición del recurso deberá presentarse dentro del plazo que en los mismos se señala.
 
 Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado el escrito de interposición del recurso podrá presentarse en la Recaudación de Rentas más cercana a dicho domicilio o enviarlo a la autoridad que emitió o ejecutó acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo la del día en que se entregue a la Recaudación de Rentas o se deposite en la oficina de correos.
 
@@ -2830,3 +2880,11 @@ Primero. el presente decreto entrara en vigor al día siguiente de su publicaci�
 Segundo. No podrán ser objeto de los beneficios previstos en el presente Decreto los propietarios que hayan adquirido viviendas mediante contrato de compra venta posteriores a la entrada en vigor del presente.
 
 Tercero. Para dar cumplimiento al presente decreto, el Titular del Poder Ejecutivo deberá considerar dichos beneficios en la Ley de Ingresos del Estado para el Ejercicio Fiscal correspondiente.
+
+P.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 087.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO FISCAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El Secretario de Finanzas y de Administración, emitirá los lineamientos a que se refiere el artículo 38 del Código Fiscal del Estado de Durango, en el término de 180 días naturales, contados a partir de que entre en vigor el presente decreto.
