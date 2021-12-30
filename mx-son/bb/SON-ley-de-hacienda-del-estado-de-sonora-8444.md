@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2021-05-14"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -75,9 +75,9 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 Es objeto de este impuesto la prestación de servicios de hospedaje en el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-Asimismo, son objeto de este impuesto aquellos servicios de hospedaje, alojamiento y albergue temporal en casas habitación, departamentos, o en lugares distintos de hoteles, moteles y casas de huéspedes y demás servicios señalados en el párrafo anterior que se contraten con la intervención de diversas plataformas tecnológicas, digitales, aplicaciones informáticas y similares, que a través de internet interconectan a las personas para la contratación de dichos servicios, siempre que éstas reciban el pago por la prestación del servicio.
+De manera enunciativa mas no limitativa se considerarán servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por hoteles, moteles, tiempo compartido, administración por un tercero de los servicios de hospedaje prestados bajo cualquier modalidad, hostales, casas de huéspedes, villas, búngalos, campamentos, paraderos de casas rodantes, departamentos amueblados con fines de hospedaje para fines turísticos y otros establecimientos que brinden servicios de hospedaje de naturaleza turística o temporal.
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios o internados.
 
@@ -139,23 +139,27 @@ Los contribuyentes que dejen de causar este impuesto, presentarán ante la ofici
 
 El importe de los recursos recaudados por este Impuesto se destinará de la siguiente manera:
 
-Un 90% de los recursos recaudados serán aportados a los fideicomisos que operan las Oficinas de Convenciones y Visitantes de las distintas ciudades del Estado o, en caso de que alguna ciudad no cuente con una oficina de tal naturaleza, los recursos serán aportados a un Fideicomiso que para tal efecto se creará por el Ejecutivo Estatal, el cual deberá aplicar los recursos en los rubros de promoción y publicidad turística del Estado.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Un 90% de los recursos recaudados serán aportados al fideicomiso del Ejecutivo Estatal, el cual deberá aplicar los recursos en los rubros de promoción y publicidad turística del Estado.
 
 El 10% restante, será utilizado por el Estado en áreas de administración, cumplimiento de obligaciones y fiscalización del Impuesto.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 10 Bis.
 
-Las Oficinas de Convenciones y Visitantes están obligadas a informar a la Secretaría de Hacienda del Estado dentro de los 10 días naturales posteriores a cada trimestre, información detallada de los RFC de los establecimientos de hospedaje que correspondan a su circunscripción municipal.
+Las Oficinas de Convenciones y Visitantes están obligadas a informar a la Secretaría de Hacienda del Estado dentro de los 10 días naturales posteriores a cada trimestre, información detallada de los RFC de los establecimientos de hospedaje que correspondan a su circunscripción municipal. La falta del informe dará lugar a la suspensión de la entrega de las ministraciones siguientes, hasta en tanto no se subsane la omisión.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 El Fideicomiso presentará al Instituto Superior de Auditoría y Fiscalización y a la Secretaría de Hacienda del Estado de Sonora, a más tardar el tercer lunes del mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos aportados por el Gobierno del Estado durante el año inmediato anterior.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 11.
 
-Dentro de los 10 días naturales de cada mes, el Gobierno del Estado aportará el 90% del total de los recursos recaudados por este Impuesto en el mes inmediato anterior, al Fideicomiso que corresponda según lo dispuesto en el artículo anterior.
+Dentro de los 10 días naturales de cada mes, el Gobierno del Estado aportará el 90% del total de los recursos recaudados por este Impuesto en el mes inmediato anterior, al Fideicomiso del Ejecutivo Estatal según lo dispuesto en el artículo 10 del presente ordenamiento.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -163,7 +167,9 @@ Dentro de los 10 días naturales de cada mes, el Gobierno del Estado aportará e
 
 El Fideicomiso creado por el ejecutivo estatal tendrá como Fideicomitente y Fideicomisario al Gobierno del Estado y, como fiduciaria a la institución bancaria que mejores condiciones ofrezca.
 
-El Fideicomiso contará con un Comité Técnico que estará integrado por un Representante de la Secretaría de Hacienda, uno de la Secretaría de Economía, dos Representantes de la Comisión de Fomento al Turismo y, siete vocales del sector turístico privado del Estado.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+El Fideicomiso contará con un Comité Técnico que estará integrado por un Representante de la Secretaría de Hacienda, uno de la Secretaría de Economía, dos Representantes de la Secretaría de Turismo y, siete vocales del sector turístico privado del Estado.
 
 El Comité Técnico del Fideicomiso determinará y autorizará los importes, acciones y programas en los cuales deberá invertirse el patrimonio fideicomitido.
 
@@ -1979,7 +1985,9 @@ Es objeto de este impuesto las actividades de prestación de servicios consisten
 
 Quedan comprendidos en los juegos con apuestas, aquellos en los que solo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervengan directa e indirectamente el azar.
 
-Se considera dentro del concepto de premio a que se refiere el párrafo primero de este artículo, los premios que previo un tiempo de juego, provengan de máquinas tragamonedas, los cuales a cambio de una cantidad de dinero o ficha pagada o pre pagada, se otorgan por el prestatario del servicio en efectivo o por medio electrónico, como tarjeta de crédito o débito, monedero electrónico o trasferencia electrónica emitida desde cuentas bancarias o en vales canjeables por dinero en efectivo o bienes muebles.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Se considera dentro del concepto de premio a que se refiere el párrafo primero de este artículo, los premios que previo un tiempo de juego, provengan de máquinas autorizadas por la Secretaría de Gobernación, los cuales a cambio de una cantidad de dinero o ficha pagada o pre pagada, se otorgan por el prestatario del servicio en efectivo o por medio electrónico, como tarjeta de crédito o débito, monedero electrónico o trasferencia electrónica emitida desde cuentas bancarias o en vales canjeables por dinero en efectivo o bienes muebles.
 
 Las máquinas a que se refiere el párrafo anterior incluyen, de manera enunciativa más no limitativa, las siguientes:
 
@@ -2323,45 +2331,9 @@ XV.- El tiempo extraordinario dentro de los márgenes señalados en la Ley Feder
 
 Para que los conceptos mencionados en este artículo, se les excluya del objeto del Impuesto a que se refiere este Capítulo, deberán estar desglosados en la declaración mensual del Impuesto Sobre Remuneraciones al Trabajo Personal y debidamente identificados y registrados en la Contabilidad del Contribuyente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-###### Artículo 218 Bis 1.
-
-Se otorga un estímulo fiscal consistente en la deducibilidad en el pago del impuesto, a centros educativos privados por la inversión en becas para alumnos con alguna discapacidad dictaminada por la Secretaría de Educación y Cultura en los términos de la normatividad aplicable, no siendo consideradas para este efecto, las dos becas obligatorias a las que hace referencia la fracción III del artículo 47 de la Ley de Educación del Estado de Sonora.
-
-La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de que la respectiva escuela privada otorgue las becas, al rendir la declaración correspondiente.
-
-Los contribuyentes beneficiarios al estímulo previsto en este artículo deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto.
-
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución o compensación, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del Impuesto para el Sostenimiento de las Universidades de Sonora y de la Contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
-
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-###### Artículo 218
-
-BIS-2.- Se otorga un estímulo fiscal por contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a una Unidad de Medida y Actualización elevado al mes por cada trabajador hasta un máximo de 6 trabajadores. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere. En el caso en que los trabajadores laboren medio tiempo u horas sueltas, el cálculo de la Unidad de Medida y Actualización elevado al mes, deberá ser en proporción al tiempo laborado.
-
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El beneficio fiscal establecido en el presente artículo se aplicará única y exclusivamente si sus beneficiarios se encuentran al corriente en sus obligaciones fiscales, relativas al Impuesto Sobre Remuneraciones al Trabajo Personal, en el momento en que se aplique el estímulo. En caso de que existan obligaciones fiscales pendientes, los contribuyentes podrán expresar mediante escrito dirigido a la autoridad responsable las circunstancias que dificultaron el cumplimiento de las mismas y su interés por regularizarse fiscalmente, mismas que serán valoradas.
-
-El beneficio fiscal señalado en el presente artículo, no será acumulable con otras reducciones o estímulos relacionados con el Impuesto Sobre Remuneraciones al Trabajo Personal, ni dará derecho a devolución o compensación alguna.
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del Impuesto para el Sostenimiento de las Universidades de Sonora y de la Contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-###### Artículo 218
-
-BIS.- Se otorga un estímulo fiscal consistente en una reducción de ocho por ciento en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo, a instituciones de asistencia privada, autorizadas por la Secretaría de Hacienda y cuyo objeto, preponderantemente, sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen, gratuitamente, servicios de asistencia social a la población del Estado con niveles mayores de marginación económica y social. Dicho estímulo fiscal también deberá ser otorgado, reducido en un cincuenta por ciento, a personas físicas y morales por concepto de remuneración al trabajo personal prestado por adultos mayores.
+Artículo 218 BIS.- Se otorga un estímulo fiscal consistente en una reducción de ocho por ciento en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo, a instituciones de asistencia privada, asociaciones civiles, fundaciones u organizaciones de sociedad civil legalmente constituidas y autorizadas por la Secretaría de Hacienda y cuyo objeto, preponderantemente, sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen, gratuitamente, servicios de asistencia social a la población del Estado con niveles mayores de marginación económica y social. Dicho estímulo fiscal también deberá ser otorgado, reducido en un cincuenta por ciento, a personas físicas y morales por concepto de remuneración al trabajo personal prestado por adultos mayores.
 
 > <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
@@ -2448,6 +2420,40 @@ Para que los conceptos mencionados en este artículo, se les excluya del objeto 
 Los presentes beneficios serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 218 Bis 1.
+
+Se otorga un estímulo fiscal consistente en la deducibilidad en el pago del impuesto, a centros educativos privados por la inversión en becas para alumnos con alguna discapacidad dictaminada por la Secretaría de Educación y Cultura en los términos de la normatividad aplicable, no siendo consideradas para este efecto, las dos becas obligatorias a las que hace referencia la fracción III del artículo 47 de la Ley de Educación del Estado de Sonora.
+
+La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de que la respectiva escuela privada otorgue las becas, al rendir la declaración correspondiente.
+
+Los contribuyentes beneficiarios al estímulo previsto en este artículo deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución o compensación, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del Impuesto para el Sostenimiento de las Universidades de Sonora y de la Contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 218
+
+BIS-2.- Se otorga un estímulo fiscal por contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a una Unidad de Medida y Actualización elevado al mes por cada trabajador hasta un máximo de 6 trabajadores. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere. En el caso en que los trabajadores laboren medio tiempo u horas sueltas, el cálculo de la Unidad de Medida y Actualización elevado al mes, deberá ser en proporción al tiempo laborado.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El beneficio fiscal establecido en el presente artículo se aplicará única y exclusivamente si sus beneficiarios se encuentran al corriente en sus obligaciones fiscales, relativas al Impuesto Sobre Remuneraciones al Trabajo Personal, en el momento en que se aplique el estímulo. En caso de que existan obligaciones fiscales pendientes, los contribuyentes podrán expresar mediante escrito dirigido a la autoridad responsable las circunstancias que dificultaron el cumplimiento de las mismas y su interés por regularizarse fiscalmente, mismas que serán valoradas.
+
+El beneficio fiscal señalado en el presente artículo, no será acumulable con otras reducciones o estímulos relacionados con el Impuesto Sobre Remuneraciones al Trabajo Personal, ni dará derecho a devolución o compensación alguna.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+
+El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del Impuesto para el Sostenimiento de las Universidades de Sonora y de la Contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 218 Bis 3.
 
@@ -3075,7 +3081,9 @@ III.- Construcciones de carreteras;
 
 IV.- Para el Fomento y Defensa de la Ganadería;
 
-V.- Para las Juntas para el Progreso y Bienestar del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+V.- Para el Consejo Estatal de Concertación para la Obra Pública; y
 
 VI.- Las demás contribuciones que señale la Ley de Ingresos o las leyes especiales que al efecto se expidan.
 
@@ -3269,13 +3277,13 @@ II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones
 
 III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 292.
 
-Toda la recaudación que por concepto de ésta contribución se obtenga en cada municipio, será para beneficio exclusivo y único de la Junta de Progreso y Bienestar, donde se genere el gravamen.
+Toda la recaudación que por concepto de esta contribución se obtenga en cada municipio, será para beneficio único del Consejo Estatal de Concertación para la Obra Pública.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-Sin perjuicio de lo anterior, la recaudación efectiva de esta contribución que exceda a aquélla efectivamente pagada en el ejercicio fiscal 2019, con respecto al registro mensual ingresado de dicho ejercicio debidamente actualizado para fines comparativos por la inflación conforme a las proyecciones de la Secretaría de Hacienda y Crédito Público previstas en los Criterios Generales de Política Económica para el ejercicio fiscal de que se trate, será destinada a la modernización y rehabilitación de carreteras y caminos en el Estado de Sonora. Lo anterior conforme a los programas y proyectos de inversión que establezca la Secretaría de Infraestructura y Desarrollo Urbano.
+Sin perjuicio de lo anterior, la recaudación efectiva de esta contribución que exceda a aquélla efectivamente pagada en el ejercicio fiscal de que se trate, con respecto al registro mensual ingresado de dicho ejercicio debidamente actualizado para fines comparativos por la inflación conforme a las proyecciones de la Secretaría de Hacienda y Crédito Público previstas en los Criterios Generales de Política Económica para el ejercicio fiscal de que se trate, será destinada a la modernización y rehabilitación de carreteras y caminos en el Estado de Sonora. Lo anterior conforme a los programas y proyectos de inversión que establezca la Secretaría de Infraestructura y Desarrollo Urbano.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3357,13 +3365,19 @@ El patronato de la Cruz Roja en el Estado, deberá rendir un informe anual al Co
 
 6.- Para el fortalecimiento y sostenimiento de los cuerpos de bomberos, se causará una cuota adicional en cantidad de $50.00 pesos por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
 
-> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-Para los efectos del cobro de esta aportación voluntaria, únicamente habrá de incluirse en los servicios siguientes:
+Para los efectos del cobro de esta contribución, únicamente habrá de incluirse en los servicios siguientes:
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
 
 a).- Por expedición de placas de circulación;
 
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
+
 b).- Por revalidación de placas de circulación; y
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
 
 c).- Por expedición de licencias y permisos de conducir.
 
@@ -3827,6 +3841,10 @@ f).- Restaurante. $5,000.00
 
 f) (sic).- Restaurante con bar anexo o Cine VIP. $8,000.00
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+f bis).- Restaurante $7,845.00
+
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 g).- Tienda de autoservicio $36,247.00
@@ -3835,13 +3853,17 @@ g).- Tienda de autoservicio $36,247.00
 
 h).- Tienda departamental. $65,196.00
 
-i).- Tienda de abarrotes. $5,000.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+i).· Tienda de abarrotes $7,845.00
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 j). Centro nocturno. $56,333.00
 
-k).- Centro de eventos o salón de baile. $17,500.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+k).-Porteadora $5,882.00
 
 l).- Centro deportivo o recreativo. $10,000.00
 
@@ -3867,9 +3889,9 @@ p).- Establecimiento de prestación de
 
 servicios de juegos con apuestas. $68,069.00
 
-> <small>(ADICIONADO, B.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-q).- Fábrica de Cerveza Artesanal, de acuerdo a la siguiente tabla:
+q).- Fábrica de Cerveza Artesanal que se elabore por fabricantes sonorenses que tengan su principal establecimiento en el territorio del Estado de Sonora, de acuerdo a la siguiente tabla:
 
 Volumen Anual en Hectolitros Revalidación
 
@@ -3908,6 +3930,38 @@ w).- Porteadora por aplicación $1.200.00
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 x).- Centros de consumo $4,500.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+y).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,074.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+aa).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,074.00…
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+cc).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,074.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+dd).- Boutique de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ee).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,074.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ff).- Sala de degustación para la venta exclusiva de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3997,11 +4051,15 @@ licencia de alcoholes distinta al propietario. $1,000.00
 
 f).- Por cada omisión en el pago del derecho respecto al trámite de cambio de propietario de las licencias. $7,293.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-VII.- Durante el período correspondiente a los trámites administrativos relacionados con la obtención de la licencia de funcionamiento para la venta y consumo de bebidas con contenido alcohólico, a petición del solicitante y previa evaluación de los motivos que la justifiquen, la Secretaría de Hacienda podrá expedir permisos provisionales, previo pago de los derechos correspondientes, hasta por tres meses, renovable cuantas ocasiones se considere pertinente por el plazo solicitado inicialmente, sin que su expedición implique la autorización de la licencia definitiva.
+VII.- Durante el período correspondiente a los trámites administrativos relacionados con la obtención de la licencia de funcionamiento para la venta y consumo de bebidas con contenido alcohólico, a petición del solicitante y previa evaluación del expediente otorgado al ayuntamiento respectivo para obtener la anuencia municipal, así como carta correspondiente por parte del ayuntamiento con el estatus jurídico en que se encuentre el trámite, y demás motivos que la justifiquen, la Secretaría de Hacienda podrá expedir permisos provisionales, previo pago de los derechos correspondientes, hasta por tres meses renovable por el plazo solicitado inicialmente hasta por un año, tiempo máximo que contará el permisionario para regularizar su situación con el municipio y obtener la anuencia municipal para tramitar la licencia respectiva.
 
 La expedición de estos permisos provisionales causará derechos, a razón de un 12% por mes de la tarifa establecida en la fracción I del presente artículo, para el giro correspondiente a la licencia en trámite.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Después de cumplido el plazo de 1 año sin haber regularizado el trámite de la licencia, la expedición de los permisos provisionales causarán derechos a razón de un 50% por mes de la tarifa establecida en la fracción I del presente artículo, para el giro correspondiente a la licencia en trámite.
 
 > <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -4057,9 +4115,11 @@ q).- Establecimiento de prestación de
 
 servicios de juegos con apuestas. $68,569.00
 
-> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-r).- Fábrica de Cerveza Artesanal, de acuerdo a la siguiente tabla:
+r).- Fábrica de Cerveza Artesanal que se elabore por fabricantes sonorenses que tengan su principal establecimiento en el territorio del Estado de Sonora, de acuerdo a la siguiente tabla:
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 Volumen Anual en Canje
 
@@ -4100,6 +4160,38 @@ x).- Porteadora por aplicación $1,200.00
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 y).- Centros de consumo $4,500.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,574.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+aa).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,574.00…
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+cc).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+dd).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,574.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ee).- Boutique de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+ff).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $8,574.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+gg).- Sala de degustación para la venta exclusiva de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -4443,17 +4535,13 @@ a).- Copia simple $16.50
 
 b).- Copia certificada $56.00
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-4.- Por rendir informe sobre existencia o no de testamento, a la autoridad judicial, por cada autor de la sucesión: $233.00
+4.- Por rendir informe sobre la existencia o no de testamento en procedimiento sucesorio, por cada autor de la sucesión $262.00
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+a).- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
-a).- Si el informe se remite dentro de la Ciudad de Hermosillo, Sonora $244.00
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-b).- Si el informe se remite fuera de la Ciudad de Hermosillo, Sonora $294.00.
+b).- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -4939,9 +5027,9 @@ Para las licencias referidas en el presente artículo, la Secretaría de Haciend
 
 La contratación de la póliza referida en el párrafo anterior, queda condicionada al pago de un deducible hasta 60 Unidades de Medida y Actualización, que deberá cubrir el beneficiario de la referida póliza, y la suma asegurada o cobertura de dicho seguro por licencia de conducir vigente será hasta por un importe equivalente a 415 Unidades de Medida y Actualización, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda adquiera la póliza conforme lo previsto en este párrafo, debiendo contratarse con una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-Para contar con el beneficio mencionado en el párrafo anterior el titular de la licencia deberá cubrir un derecho adicional de 1.5 Unidades de Medida y Actualización Vigente por cada año de vigencia de la licencia.
+Para contar con el beneficio mencionado en el párrafo anterior el titular de la licencia deberá cubrir un derecho adicional de 1.5 Unidades de Medida y Actualización Vigente por cada año de vigencia de la licencia. El pago de los derechos señalados en el presente párrafo no causará el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2018, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE MAYO DE 2018.]</small>
 
@@ -5327,6 +5415,10 @@ b) Carga $180.00
 
 23.- Por autorización para fijar y/o permitir publicidad y/o propaganda en el vehículo autorizado para la explotación del servicio público de transporte a razón de $75.00 por metro cuadrado.
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+24.- Capacitación para licencia de operador $137.00
+
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 Las personas físicas o morales titulares de concesiones o permisos para operar algunas de las concesiones en cualquier modalidad contemplada en la Ley de Transporte para el Estado de Sonora, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes, en la oficina recaudadora que corresponda a su domicilio fiscal.
@@ -5507,6 +5599,10 @@ Se omitirá el pago de este derecho en caso de que el rechazo derive de una falt
 
 Se omitirá el pago de derechos de la primera devolución del trámite solicitado, siempre y cuando sea reingresado en un límite no mayor a 5 días hábiles, a partir de la suspensión.
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+No se aplicará lo dispuesto en el párrafo anterior, cuando se trate de cualquier tipo de error en la redacción, antecedentes y datos en el testimonio o los anexos o falta de firma o sello, que requiera deban ser corregidos o añadidos por parte del usuario interesado, causándose derechos a razón de un 50% por reingreso de trámite de la tarifa establecida en el presente numeral, exceptuándose de dicho pago únicamente a las autoridades judiciales y/o administrativas.
+
 2.- Por la devolución de documento público o privado, o solicitud de certificación, siempre y cuando el mismo no haya sido turnado para su tramitación se cobrará:
 
 $150.00
@@ -5539,9 +5635,9 @@ Para el caso, de que el documento no esté consultable en formato digital, su ve
 
 Para el caso del servicio previamente solicitado de Escritorio Notarial, por cada mil búsquedas en línea que obren en la base de datos de cada Oficina Registral, según la disponibilidad así como los términos y condiciones de servicio vigentes a la fecha en que se solicite se cobrará: $9,200.00
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud, derechos éstos que se destinarán el 60% como estímulo a todo el personal adscrito a la Dirección General de Servicios Registrales, así como a las áreas del Instituto Catastral y Registral del Estado de Sonora que colaboren directa e indirectamente en el proceso registral. Lo anterior será distribuido de acuerdo a los Lineamientos establecidos por ese Instituto, el 40% resultante se destinará como apoyo a la modernización de los servicios registrales.
+9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud, derechos éstos que se destinarán el 30% como estímulo a todo el personal adscrito a la Dirección General de Servicios Registrales, así como a las áreas del Instituto Catastral y Registral del Estado de Sonora que colaboren directa e indirectamente en el proceso registral. Lo anterior será distribuido de acuerdo a los Lineamientos establecidos por ese Instituto, 60% se destinará como apoyo a la modernización de los servicios registrales y el 10% resultante se destinará en la implementación de programas de digitalización de documentos del Gobierno del Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -5698,6 +5794,10 @@ Código Civil deban registrarse. $630.00
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 8.- Expedición de Actas Interestatales $280.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+9.- Reconocimiento de identidad de género Gratuito.
 
 > <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -6413,6 +6513,10 @@ estudios sin reconocimiento de validez oficial. N$150.00
 
 Los pagos por los servicios señalados en el presente numeral no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la Contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Para efectos de lo dispuesto en el primer párrafo de este apartado 11, las citadas instituciones particulares deberán acreditar mediante declaración presentada en el primer trimestre del año ante la Secretaría de Hacienda, y utilizando el formato que dicha dependencia autorice, el monto total recibido por colegiaturas en el ejercicio fiscal anterior, así como, el número de becas que pusieron a disposición de la Secretaría de Educación y Cultura del Estado, a través del Instituto de Becas y Crédito Educativo del Estado de Sonora para el inicio del ciclo escolar de que se trate y que fueron otorgadas, proporcionando la información y/o documentales que se consideren necesarias para acreditar si les corresponde o no pagar alguna diferencia por este concepto. El incumplimiento con la presentación de la declaración a que se refiere este párrafo, será considerado una infracción en términos del artículo 90 fracción XIV, del Código Fiscal del Estado de Sonora.
+
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 12.- Certificación de antecedentes académicos para
@@ -6503,9 +6607,9 @@ Grado Académico y Diploma de Especialidad $800.00
 
 33.- Expedición de duplicado de Equivalencia o Revalidación de estudios del tipo medio superior o superior $35.00
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-34.- Cambio de domicilio, modalidad o denominación en acuerdo de otorgamiento de Reconocimiento de Validez Oficial de Estudios del tipo medio superior, capacitación para el trabajo o tipo superior $4,200.00
+34.- Cambio de domicilio, modalidad o denominación por cada plan de estudios con Reconocimiento de Validez Oficial de Estudios del tipo medio superior, capacitación para el trabajo o tipo superior $4,200.00
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -6533,13 +6637,13 @@ $5,700.00
 
 40.- Autenticación de constancias de estudios y labor docente de educación media superior terminal $48.00
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-41.- Ampliación de domicilio de instituciones de educación superior con Reconocimiento de Validez Oficial de Estudios $1,500.00
+41.- Ampliación de domicilio de instituciones de educación superior con Reconocimiento de Validez Oficial de Estudios por cada plan de estudios. $1,500.00
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-42.- Aviso de cambio o actualización de denominación del plantel, denominación del programa de estudios y criterios para la evaluación de los programas de estudio de instituciones de educación superior con Reconocimiento de Validez Oficial de Estudios $1,500.00
+42.- Aviso de cambio o actualización de denominación del plantel, denominación del programa de estudios y criterios para la evaluación de los programas de estudio de instituciones de educación superior con Reconocimiento de Validez Oficial de Estudios por cada plan de estudios $1,500.00
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -6553,9 +6657,9 @@ $5,700.00
 
 45.- Registro de Título Profesional $400.00
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-46.- Revisión y registro de formatos que empleen las instituciones para expedir certificados, diplomas, títulos, grados y actas de examen $300.00
+46.- Revisión y registro de formatos que empleen las instituciones para expedir certificados, diplomas, títulos, grados y actas de examen por cada plan de estudios $300.00
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -6576,6 +6680,10 @@ $5,700.00
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 51.- Autenticación Electrónica de Documentos Académicos del tipo Superior $150.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+52.- Registro de constancia de cursos de Educación Continua y Certificación Profesional de los asociados a los Colegios de Profesionistas Registrados $19.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -7450,6 +7558,38 @@ c) Grande (21 o más jaulas, peceras y/o contenedores) ...... $20,000.00
 10.- Copia certificada de documentos que obran en los expedientes de la Procuraduría Ambiental del Estado de Sonora por hoja ..... $145.00
 
 11.- Copia simple de documentos que obran en los expedientes de la Procuraduría Ambiental por hoja ............................. $59.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+12.- Por el registro como prestador de servicios como Ente Auditor en materia de auditoría ambiental ante PROAES $12,500.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+13.- Por el registro como Auditor Líder en materia de Auditoría ambiental ante PROAES $5,500.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+14.- Por el registro como Auditor Especialista en materia de auditoría ambiental ante PROAES $4,000.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+15.- Por el registro de Procedimiento de Auditoria Ambiental ante PROAES $2,500.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+16.- Por la Certificación en materia ambiental $7,500.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+17.- Por la Recertificación en materia ambiental $5,000.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+18.- Por el registro de proceso Autorregulación Ambiental ante PROAES $6,150.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+19.- Por el certificado de Autorregulación Ambiental $ 7,500.00
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -8358,3 +8498,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Hacienda y los Ayuntamientos deberán realizar los ajustes correspondientes en sus estimaciones recaudatorias dentro de la Ley de Ingresos para el ejercicio fiscal aplicable.
+
+B.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 15, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES”.]
+
+Artículo Primero.- El presente decreto entrará en vigor en el Estado de Sonora a partir del 01 de enero de 2022, previa publicación en el Boletín Oficial del Estado de Sonora.
+
+Artículo Segundo.- Los juicios contenciosos administrativos que se hubieran interpuesto antes de la entrada en vigor de la Ley de Justicia Administrativa del Estado de Sonora, se tramitarán y resolverán de conformidad con lo establecido en el Título Sexto del Código Fiscal del Estado de Sonora vigente en el momento de la presentación de la demanda.
+
+Artículo Tercero.- Los juicios de nulidad que se hubieran interpuesto a partir de la entrada en vigor de la Ley de Justicia Administrativa para el Estado de Sonora, se tramitarán y resolverán de acuerdo con lo dispuesto en esa misma Ley, por lo que las leyes que remitan a los artículos comprendidos del 196 al 251, contenidos en el Título Sexto del Código Fiscal del Estado de Sonora que se deroga, se entenderán referidos a los correlativos de la Ley de Justicia Administrativa del Estado de Sonora.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
