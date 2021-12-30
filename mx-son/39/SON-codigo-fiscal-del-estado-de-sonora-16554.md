@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2020-12-24"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,33 +21,73 @@ state: "SON"
 ---
 # CODIGO FISCAL DEL ESTADO DE SONORA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-CÓDIGO FISCAL DEL ESTADO DE SONORA
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
-Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
+Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 
-EL C. ARMANDO LOPEZ NOGALES, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
+JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
 
-Que el H. Congreso del Estado, se ha servido dirigirme la siguiente LEY:
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación, lo siguiente:
 
-N U M E R O 267
+LA HONORABLE CUADRAGESIMA SEXTA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR LA FRACCION II DE LA CONSTITUCION POLITICA LOCAL, Y
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+CONSIDERANDO
 
-L E Y
+1.- Que tal y como lo consagra nuestra Carta Magna en su Artículo 3°. todo individuo tiene derecho a recibir educación, por lo que el Estado está obligado a impartir educación preescolar, primaria y secundaria; a promover y atender todos los tipos y modalidades educativos incluyendo la educación superior; a apoyar la investigación científica y tecnológica, y a alentar el fortalecimiento y difusión de nuestra cultura. La educación que imparta el Estado será invariablemente gratuita y laica, el criterio con que se debe orientar este servicio público en nuestro país se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además será democrática y nacionalista.
 
-QUE ABROGA POR UNA PARTE EL CÓDIGO FISCAL DEL ESTADO DE SONORA EXPEDIDO EL 25 DE ENERO DE 1977, Y POR OTRA, INSTITUYE UNA NUEVA LEGISLACIÓN EN LA MATERIA DENOMINADA:
+2.- Que el texto de esta garantía constitucional es el resultado de la voluntad popular y de sus ajustes sociales, por lo que al inicio de la presente década y reconociendo la importancia de la función que cumple la educación dentro del proceso de cambio social, así como su indiscutible carácter de factor de unidad nacional, y la necesidad de la participación de los particulares en la prestación del Servicio Público Educativo, el Gobierno de la República propuso al Constituyente Permanente la reforma del Artículo 3° Constitucional.
 
-CODIGO FISCAL DEL ESTADO DE SONORA
+Que publicada la reforma constitucional el 21 de enero de 1992, los gobernadores de los 31 Estados de la República suscribieron con la Secretaría de Educación Pública y el Sindicato Nacional de Trabajadores de la Educación, el 18 de mayo del mismo año, el Acuerdo Nacional para la Modernización de la Educación Básica, a fin de elevar la calidad de la educación pública y promover el mejoramiento de la calidad de la educación que con apego a las disposiciones vigentes, imparten los particulares.
 
-## TITULO PRIMERO
+Que gracias a la trascendencia de los actos anteriores, a los que se sumó la reforma constitucional del 5 de marzo de 1993, se abrogó la Ley Federal de Educación publicada en el Diario Oficial de la Federación de 29 de noviembre de 1973, con la respectiva aprobación de la Ley General de Educación, expedida por el Congreso de la Unión y publicada el 13 de julio del mismo año de la reforma constitucional antes citada. El contenido del ordenamiento vigente sustenta el principio de que la educación tenderá a desarrollar armónicamente todas las facultades del ser humano; fija las atribuciones que de manera exclusiva, corresponden al Ejecutivo Federal, por conducto de la Secretaría de Educación Pública y, cuya finalidad es garantizar el carácter nacional de la educación, evaluar el sistema educativo nacional y fijar los lineamientos para la planeación y la evaluación que el gobierno de cada entidad federativa deba realizar; reconoce a los educadores como promotores, coordinadores y agentes directos del proceso educativo; y propone destinar recursos presupuestarios crecientes para la educación pública.
 
-### CAPITULO UNICO. De las Disposiciones Generales
+3.- Que pese a las grandes transformaciones que la normatividad educativa ha sufrido en el ámbito nacional, en nuestra Entidad ha continuado vigente, sin grandes cambios ni adecuaciones, la Ley de Educación Pública del Estado de Morelos, publicada en el Periódico Oficial el día 6 de octubre de 1971.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+Que tal situación ha provocado y continuará provocando hasta en tanto no se corrijan severas incongruencias entre las nuevas exigencias sociales y las prohibiciones normativas de la Ley Estatal de Educación Pública, así como las graves contradicciones entre lo dispuesto por este ordenamiento y lo consignado en la legislación federal.
+
+4.- Que como es de suponer una Ley de Educación como la presente acorde con la normatividad federal, la participación social y ciudadana, así como por las nuevas expectativas educativas, exigió la participación de todos los sectores institucionales y particulares que tienen un interés especial en el desarrollo educativo del Estado, por lo que en nuestra Entidad se efectuaron diversos foros de consulta, discusión y análisis sobre el servicio educativo y sus repercusiones sociales.
+
+En este proceso de consulta coordinado de manera conjunta por los representantes de las tres fracciones parlamentarias que integran esta Soberanía, por la Secretaría de Bienestar Social, la Sección XIX del Sindicato Nacional de Trabajadores de la Educación, y en cuya organización, desarrollo, compilación, análisis e interpretación de resultados participaron de manera muy activa y asumieron responsabilidades directas los representantes de diversas instituciones, dependencias, asociaciones y organismos públicos y privados, entre los cuales, y solo enunciativamente, es justo destacar a los siguientes: Universidad Autónoma del Estado de Morelos, Consejo Coordinador Empresarial del Estado de Morelos, Unión Estatal de Padres de Familia, Casa Ciudadana, Asociación Estatal de Padres de Familia, Representación en Morelos del Consejo Nacional de Ciencia y Tecnología, Federación de Escuelas Particulares y Representación de la Secretaría de Educación Pública en el Estado de Morelos.
+
+5.- Que al interior del Congreso del Estado se efectuó un profundo análisis y una exhaustiva revisión al valioso material recopilado durante esa consulta y a las propuestas individuales de los Diputados que participaron en cada una de las reuniones que se efectuaron por las Comisiones de Trabajo, en donde con verdadera disposición al diálogo y tolerancia por parte de los representantes de las tres fracciones parlamentarias de este Congreso, se pudo elaborar el presente documento en forma por demás consensada, que recoge y expresa real y efectivamente las exigencias y expectativas de la sociedad; precisa las atribuciones de cada nivel educativo, define los altos fines de la educación, preservando las características sustantivas del Artículo 3° Constitucional de garantizar una educación nacionalista, popular y progresista; consolida la formación del educando dentro de un esquema integral de valores; concibe el proyecto educativo inserto en un contexto social, nacional, en donde se destaca la soberanía, la prevalencia y superación de la escuela pública, el respeto irrestricto a los símbolos patrios y la preservación de la identidad nacional; una educación más comprometida de solidaridad con los más necesitados, que esté vinculada estrechamente con el desarrollo productivo de la Entidad y participe en la resolución de su problemática social; establece las bases para abrir espacios para la investigación educativa y la capacitación, formación y superación del magisterio, para hacer del maestro un verdadero profesional de la enseñanza; asegura la aplicación de recursos suficientes para el sostenimiento del servicio público educativo; reconoce los derechos de los particulares a impartir educación y; garantiza el pleno derecho de los padres de familia para intervenir en el proceso de formación de sus hijos y en el mejoramiento de las condiciones en que tal proceso se desarrolla, mediante el ejercicio de todas aquellas acciones y aportaciones que no implican intervención en los ámbitos pedagógico y laboral.
+
+6.- Que la presente Ley es la síntesis de un esfuerzo parlamentario de profundo carácter participativo e integrador, representativo de las inquietudes educativas que hoy demanda la ciudadanía morelense hacía la integración de una población capaz de luchar por la paz, la armonía, la justicia social, y la defensa de sus valores humanos a través de la consolidación de una educación integral.
+
+7.- Que el contenido de la presente propuesta está integrado por seis Títulos divididos en varios Capítulos, cuyo articulado se resume en los lineamientos siguientes:
+
+En el Título Primero, Capítulo Primero referente al Sistema Educativo Estatal se desglosan las disposiciones generales que delimitan la materia y el ámbito de aplicación de la Ley; especifica cuáles son, en materia educativa, las funciones del Gobierno del Estado de Morelos; determina los tipos y fines de la educación, así como la necesaria coordinación que debe existir entre las Autoridades Estatales y las Municipales en Materia Educativa.
+
+En este Título se establecen los elementos fundamentales que componen el Sistema Educativo Estatal, es decir: los educandos, los educadores, personal de apoyo, autoridades, padres de familia, planes, programas, métodos, materiales educativos, consejos de participación social, instituciones y presupuestos.
+
+El Título Segundo, Capítulo Primero está destinado de manera muy concreta a la Educación que se imparta en el Estado, que comprende los tipos; inicial, básico, medio superior y superior, con sus respectivas modalidades.
+
+Los Capítulos Octavo y Noveno se refieren a la Educación Media Superior y Superior destacando entre sus normas las que facultan al Gobierno del Estado para crear los organismos que garanticen las condiciones que permitan el adecuado desarrollo de la Educación Media Superior, Superior y de la Investigación Tecnológica, Científica y Humanística en el Estado de Morelos, así como promover la participación de los particulares en la expansión de la oferta educativa y la de los Colegios y Asociaciones de Profesionales en la determinación de la orientación de la demanda educativa.
+
+En el Décimo Capítulo, se determinan las reglas generales que rigen la educación para los adultos y en el Capítulo Décimo Primero se hace referencia a la Educación Informal, destacando la importancia de los medios de comunicación y la necesidad de utilizar en el cumplimiento de la tarea educativa los medios que proporciona el avance tecnológico.
+
+En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá mejorar los contenidos y los programas educativos.
+
+El Título Cuarto está dedicado a la participación social en la educación y contiene las normas que especifican los derechos y obligaciones de los padres de familia y de quienes, en su caso, ejercen la patria potestad sobre los educandos y las relativas a la integración y funcionamiento de los Consejos de Participación Social que deben operar, tanto a nivel estatal como municipal y en el marco de cada una de las instituciones educativas, con el objeto de propiciar la mayor atención de la comunidad en el correcto funcionamiento de la escuela, sus instalaciones, su mobiliario, el material didáctico de que disponen los maestros y el cumplimiento de los planes y programas de estudio.
+
+Dentro de este Título, en el Capítulo Cuarto se establecen con precisión las normas relativas a los particulares como prestadores del servicio público educativo, que les garantiza en el ámbito estatal los derechos y obligaciones que les confiere la Constitución General de la República, regula la intervención de las autoridades educativas locales en los planteles particulares. Un ejemplo de los avances propuestos en este rubro es sin lugar a dudas la articulación de reglas generales sobre la obligación que éstos tienen de otorgar becas a alumnos destacados académicamente y de escasos recursos. Cabe destacar que producto de una inquietud compartida y requerida por las tres fracciones parlamentarias con representación en este Congreso se estableció un porcentaje mínimo de 5% sobre el total de la matrícula de la institución privada de que se trate, además de que se determinó la creación de una Comisión de Participación Institucional y Privada para su otorgamiento.
+
+El Título Quinto, se refiere a la validez oficial de estudios y de la certificación de conocimientos, considerando desde luego la concurrencia que con la federación se debe guardar al respecto. Finalmente en el Título Sexto se trata todo lo relativo a las infracciones, las sanciones y los recursos administrativos que resulten procedentes en contra de la aplicación de la presente Ley.
+
+Por lo anteriormente expuesto y fundado esta soberanía ha tenido a bien expedir la siguiente:
+
+LEY DE EDUCACION DEL ESTADO DE MORELOS.
+
+## TITULO PRIMERO. DEL SISTEMA EDUCATIVO ESTATAL
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 1.
+
+Las disposiciones de esta Ley son de orden público e interés social y de observancia general en todo el Estado de Morelos y tienen por objeto regular la educación que impartan el Gobierno del Estado y sus Municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General de Educación, los principios contenidos en la presente Ley, los Reglamentos y demás disposiciones que emanen de éstas, así como los convenios que sobre la materia concerte el Estado con la Federación, las Entidades Federativas, los Municipios y los de carácter internacional.
 
 ###### ARTÍCULO 1º.
 
@@ -59,31 +99,29 @@ Las personas que de conformidad con las leyes fiscales no están obligadas a pag
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 2°.
+###### ARTICULO 2.
 
-Las contribuciones se clasifican en impuestos, aportaciones de seguridad social, contribuciones especiales y derechos, las que se definen de la siguiente manera:
+La aplicación de las disposiciones de esta Ley corresponde a las autoridades educativas estatales y municipales, en los términos que la misma establece y en los que prevean sus reglamentos y por lo tanto obligan a:
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+I.- El Gobierno del Estado y Municipios, dentro de sus respectivas competencias y sus organismos descentralizados;
 
-I.- Impuestos son las contribuciones establecidas en Ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II, III y IV de este artículo:
+II.- Las personas, físicas o morales, particulares con autorización o reconocimiento de validez oficial; y
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+III.- Las instituciones a quienes esta Ley imponga deberes esenciales vinculados con la educación.
 
-II.- Contribuciones especiales son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras o servicios públicos:
+Las Universidades y demás Instituciones de Educación Superior, referidas en la fracción VII del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, regularán su función social educativa, por sus propios ordenamientos jurídicos y normas administrativas siempre y cuando no contravengan la presente Ley.
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+###### ARTICULO 3.
 
-III.- Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de bienes del dominio público del Estado de Sonora, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley; También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado; y,
+La educación que en cualquiera de los tipos establecidos por esta Ley, imparta el Gobierno del Estado, los Municipios y las Instituciones en la que el propio Gobierno del Estado descentralice acciones educativas y los particulares con autorización o reconocimiento de validez oficial de estudios deberá efectuarse en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General de Educación.
 
-> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+###### ARTICULO 4.
 
-IV.- Aportaciones de seguridad social son las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado.
+La educación tiene prioridad en el desarrollo integral del Estado y es un derecho de todos los habitantes de la Entidad; el Gobierno del Estado, los Municipios, y sus organismos descentralizados establecerán los mecanismos para que todos los individuos tengan las mismas oportunidades de acceso al Sistema Educativo Estatal, sin más limitaciones que los requisitos previstos por las normas aplicables.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, B.O. 24 DE DICIEMBRE DE 2018]</small>
+El Gobierno del Estado y los Municipales, destinarán presupuestos necesarios y complementarios, además de los que refiere el Artículo 25 de la Ley General de Educación, para el cumplimiento cabal del derecho de sus habitantes a la educación.
 
-Cuando sean organismos descentralizados los que proporcionen la seguridad social, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
-
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 27 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1º.
+Asimismo podrán convenir con la Federación, formas de financiamiento conjunto para la ampliación y mejoramiento de los servicios educativos que se prestan en el Estado.
 
 ###### ARTÍCULO 3º.
 
@@ -107,25 +145,25 @@ Los productos se regularán por lo que prevengan los contratos o concesiones res
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTÍCULO 5°.
+###### ARTICULO 5.
 
-Son créditos fiscales los que tenga derecho a percibir el Estado que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena. Las autoridades distintas de las fiscales que remitan créditos fiscales a la Secretaría de Hacienda para su cobro, deberán estar debidamente notificados en los términos de las leyes aplicables.
+Los Gobiernos Estatal y Municipal, en el ámbito de sus respectivas competencias y atribuciones y las instituciones en que el propio Estado descentralice funciones educativas, están obligados a prestar servicios educativos para que todos los habitantes del Estado puedan cursar la educación preescolar, la primaria y la secundaria; asimismo, están facultados para prestar servicios de educación normal y los de formación, actualización, capacitación y superación profesional para los maestros.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2005)</small>
 
-La recaudación, administración, determinación y cobranza provenientes de todos los ingresos que el Estado de Sonora tiene derecho a percibir, estarán a cargo del Ejecutivo del Estado quién ejercerá estas facultades por conducto de la Secretaría de Hacienda, a través de sus oficinas exactoras o autoridades fiscales coordinadas. También se podrán recaudar dichos ingresos en los cajeros automáticos de la Dependencia o en instituciones de crédito o tiendas comerciales, autorizadas para tal efecto.
+###### ARTICULO 6.
 
-> <small>(DEROGADO TERCER PÁRRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+Todos los habitantes del Estado deben cursar la educación preescolar, primaria y secundaria. Es obligación de los padres y tutores, lograr que sus hijos y pupilos, cursen tal instrucción.
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-Las autoridades fiscales del Estado de Sonora ejercerán su competencia en el territorio del Estado de Sonora, conforme lo precisa este Código, demás leyes, el Reglamento Interior de la Secretaría de Hacienda que expida el Gobernador del Estado y demás disposiciones jurídicas aplicables.
+###### ARTICULO 7.
 
-La Administración Pública Estatal, centralizada y paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, de conformidad con las disposiciones de este Código y las Leyes de Hacienda del Estado y Municipal. Igual obligación tendrán los Municipios del estado cuando realicen dichas contrataciones con cargo total o parcial a fondos estatales.
+La educación básica que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados, será gratuita, laica y obligatoria.
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+###### ARTICULO 8.
 
-Cuando las autoridades fiscales del Estado hayan celebrado convenio con los Municipios para la administración de contribuciones municipales, serán consideradas, en el ejercicio de las facultades a que se refieren los convenios o acuerdos respectivos, como autoridades fiscales municipales. En contra de los actos que realicen cuando actúen de conformidad con lo dispuesto en este párrafo, sólo procederán los recursos y medios de defensa que establezcan las leyes municipales.
+El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativas, incluidas la Educación Superior, la Investigación Científica y Tecnológica, y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
 ###### ARTÍCULO 6º.
 
@@ -151,947 +189,399 @@ En los plazos sobre vigencia y demás disposiciones a que este artículo se refi
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTÍCULO 9°.
+###### ARTICULO 9.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1° de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el 24 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1° y 5 de mayo; el 17 de julio; el 15 y 16 de septiembre; el 12 de octubre; el 2 y el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2011)
 
-Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
+###### ARTICULO 10.
 
-En los plazos establecidos por períodos y aquéllos en que se señale una fecha determinada para su extinción se computarán todos los días.
+La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, es un servicio público.
 
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició.
+El Gobierno del Estado creará los organismos descentralizados, desconcentrados y órganos de apoyo y consulta que se requieran para la mejor prestación del servicio educativo.
 
-En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+###### ARTICULO 11.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Las inversiones que en materia educativa realicen los Gobiernos Estatal y Municipal y sus Organismos Descentralizados son de interés social.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
 
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+###### ARTICULO 12.
 
-Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+La educación que imparta el Estado, los Municipios sus Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos, tendrá además de los fines establecidos en el segundo párrafo del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 7º de la Ley General de Educación, los siguientes:
 
-###### ARTÍCULO 10.
+I.- Fomentar el desarrollo integral y armónico del individuo, resaltando los valores éticos y espirituales de la persona, así como los de solidaridad y bien común para que ejerza en plenitud su capacidad humana;
 
-La práctica de diligencias por las autoridades fiscales deberán efectuarse en días y horas hábiles, que son las comprendidas entre las 8:00 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Tratándose de la verificación de bienes y de mercancías en transporte, se considerarán hábiles todos los días del año y las 24 horas del día.
+II.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, el respeto y amor a los símbolos patrios y a las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales, regionales del Estado, del País, y de la convivencia internacional, en el marco de la democracia, libertad, paz y autodeterminación de los pueblos;
 
-Las autoridades fiscales para la práctica de visitas domiciliarias, de verificación, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
+III.- Estimular el aprendizaje de conocimientos científicos y culturales, fomentando el interés por la investigación y el sentido crítico, así como el respeto de los principios de orden, justicia y libertad;
 
-###### ARTÍCULO 11.
+IV.- Proteger y acrecentar los bienes y valores que constituyen el acervo cultural del Estado y hacerlos accesibles a la colectividad;
 
-Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+V.- Promover el español mediante la enseñanza de la lengua nacional e idioma común para todos los mexicanos, sin menoscabo de proteger e impulsar el desarrollo de las lenguas indígenas; así como fomentar en la educación básica el estudio de una lengua extranjera;
 
-Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho estatal común cuando su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
+VI.- Promover las actividades de carácter científico y tecnológico que respondan a las necesidades del desarrollo municipal, estatal, regional y nacional;
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+VII.- Fomentar el conocimiento y el respeto de las Instituciones Estatales, Regionales y Nacionales;
 
-###### ARTÍCULO 12.
+VIII.- Considerar a la persona como principio y meta del proceso educativo y de toda organización social, dotada de dignidad, cuyas características son el ser creativo, reflexivo y crítico;
 
-Se entiende por escisión de sociedades y por asociación en participación, lo que para efectos fiscales establece el Código Fiscal de la Federación.
+IX.- Infundir el conocimiento y práctica de la democracia como la forma de gobierno y el sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general en la toma de decisiones que sirvan al mejoramiento de la sociedad;
 
-###### ARTÍCULO 13.
+X.- Promover el valor de la justicia, de la observancia de la Ley, de la igualdad de los individuos ante ésta, así como propiciar la práctica de los valores éticos, los derechos humanos y el respeto a los mismos;
 
-Son responsables solidarios con los contribuyentes:
+XI.- Impulsar actitudes que estimulen la investigación e innovación científica y tecnológica, procurando la vinculación con el sector productivo;
 
-I.- Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones;
+XII.- Impulsar la creación artística y propiciar el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural del Estado de Morelos y la Nación Mexicana;
 
-II.- Las personas que estén obligadas a efectuar pagos por cuenta del contribuyente, hasta por el monto de estos pagos;
+XIII.- Estimular y propiciar las condiciones indispensables para el impulso de la educación física y la práctica del deporte, la recreación artística y la difusión de la cultura;
 
-III.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
 
-No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación cumpla con las obligaciones de presentar avisos y de proporcionar informes a que se refiere este Código.
+XIV.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, el fomento de los valores, la prevención de las adicciones, la institución y planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad y los derechos humanos;
 
-IV.- La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la sociedad que dirigen, cuando dicha sociedad incurra en cualquiera de los siguientes supuestos:
+XV.- Crear conciencia sobre los valores morales, la sexualidad y prevenir sobre los perjuicios que causan al hombre y a la sociedad las conductas delictivas, e informar y orientar a los educandos sobre el daño que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, propiciando el rechazo a los vicios;
 
-a).- No solicite su inscripción en el Registro Estatal de Contribuyentes;
+XVI.- Fomentar y encauzar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la Entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio del medio ambiente, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento de la naturaleza; y
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+XVII.- Las demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
-b).- Cambie su domicilio sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiere quedado sin efectos;
+###### ARTICULO 13.
 
-c).- No lleve contabilidad, la oculte o la destruya;
+Los Gobiernos Estatal y Municipal deben en forma permanente, evaluar, adecuar, ampliar, mejorar y actualizar los servicios educativos que por disposición de esta Ley, queden bajo su responsabilidad y competencia.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+###### ARTICULO 14.
 
-d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos de este Código; y
+Corresponde a las autoridades educativas locales, además de las atribuciones que en materia educativa les confiere la Constitución Política de los Estados Unidos Mexicanos, las Leyes y reglamentos que de ellas se deriven, las siguientes:
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+I.- Prestar los servicios de educación inicial, básica, normal y demás para la formación, actualización, capacitación y superación de docentes, incluyendo la indígena y especial, y de manera concurrente los de media superior, superior y demás servicios educativos distintos a los anteriores de acuerdo a las necesidades del Estado en la forma y términos que señalen las leyes respectivas;
 
-e) Se hubieren efectuado requerimientos de pago del crédito de que se trate y éste no hubiera sido pagado o garantizado durante su gestión.
+II.- Estructurar el Sistema Educativo Estatal de tal manera que permita al educando integrarse a la vida económica y social de la Entidad, sin que suspenda su escolaridad;
 
-V.- Los adquirientes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma;
+III.- Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo Estatal, de conformidad con lo dispuesto por la Ley General de Educación. Pudiendo delegar esta función en sus organismos descentralizados, conforme a lo que determine esta Ley o la normatividad que al efecto se expida;
 
-VI.- Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de dichas contribuciones;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
 
-VII.- Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado;
+IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales y al magisterio estatal. Dentro de éstas propuestas podrá incluirse el tema de fomento a los valores y prevención de las adicciones;
 
-VIII.- Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieran causado en relación con los bienes legados o donados, hasta por el monto de éstos;
+V.- Establecer un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo del Estado;
 
-IX.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
+VI.- Vigilar que la educación que impartan los particulares en planteles incorporados al Sistema Educativo Estatal, se sujeten a las disposiciones de las leyes aplicables;
 
-X.- Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado;
+VII.- Vigilar que en los planteles educativos de la Entidad, se dé estricta observancia a la Ley sobre el Escudo, la Bandera y el Himno Nacional, sancionando de acuerdo con el reglamento respectivo a quienes infrinjan esta disposición;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
+VIII.- Promover los convenios de cooperación internacional o acuerdos interinstitucionales en materia educativa, científica, tecnológica, artística, humanística, cultural, de educación física y deporte, en términos de lo que establecen las disposiciones legales aplicables;
 
-XI.- Los socios, accionistas o asociados, respecto de las contribuciones que se hubieran causado por la sociedad o asociación cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizado con los bienes de la misma, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c), d) y e) de la fracción IV de este artículo, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el período o a la fecha de que se trate.
+IX.- Planificar, programar y promover la extensión y las modalidades de los tipos medio superior y superior que integran el Sistema Educativo Estatal;
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+X.- Celebrar convenios con la Federación y los Municipios en el marco de la concurrencia, para unificar y ampliar los servicios educativos;
 
-La responsabilidad solidaria a que se refiere el párrafo anterior se calculará multiplicando el porcentaje de participación que haya tenido el socio o accionista en el capital social suscrito al momento de la causación, por la contribución omitida, en la parte que no se logre cubrir con los bienes de la empresa.
+XI.- Fomentar y difundir las actividades científicas, técnicas, de educación física, recreativas y culturales en todas sus manifestaciones;
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+XII.- Promover la investigación pedagógica para que el Sistema Educativo sea permanentemente actualizado;
 
-La responsabilidad a que se refiere esta fracción únicamente será aplicable a los socios o accionistas que tengan o hayan tenido el control efectivo de la sociedad, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad.
+XIII.- Realizar actividades tendientes a que la población y en especial los de las zonas rurales y marginadas eleven su nivel cultural, social y económico;
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
+XIV.- Promover un sistema de becas con cargo al erario Estatal para apoyar en los planteles oficiales al educando de escasos recursos económicos y destacado desarrollo académico en todos los niveles y modalidades educativas que prevé la presente Ley;
 
-Se entenderá por control efectivo la capacidad de una persona o grupo de personas, de llevar a cabo cualquiera de los actos siguientes:
+XV.- Fomentar la formación para el trabajo a los campesinos y obreros;
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+XVI.- Expedir los lineamientos normativos para la organización y funcionamiento de las escuelas estatales, conforme a esta Ley;
 
-a) Imponer decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral.
+XVII.- Revalidar y otorgar equivalencias de estudios en todos los niveles educativos que atienda el Estado, de acuerdo a los lineamientos generales que expida la autoridad educativa federal;
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+XVIII.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones que ofrezcan nuevas opciones para el educando;
 
-b) Mantener la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital social de una persona moral.
+XIX.- Expedir constancias y certificados de estudios, otorgar diplomas, títulos y grados académicos del Sistema Educativo Estatal, con base en las disposiciones legales aplicables;
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-c) Dirigir la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
+XX.- Otorgar, negar y revocar la autorización a los particulares para impartir educación preescolar, primaria y secundaria, normal y demás para la formación de educación básica;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+XXI.- Promover la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica orientada al bien común y recomendar que sus contenidos coadyuven a los fines del proceso educativo;
 
-XII.- Los que se encuentren en posesión de un bien que se encuentre afecto al pago de un crédito fiscal insoluto;
+XXII.- Disponer del uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razones de siniestros naturales u otro tipo de contingencias sean requeridos;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+XXIII.- Aplicar las disposiciones que en materia de validez oficial de estudios instrumente la autoridad federal;
 
-XIII.- Las personas, sea cual fuere el nombre con que se les designe, con cuya intervención los sujetos pasivos no domiciliados en el Estado de Sonora realicen actividades de las que deriven créditos fiscales;
+XXIV.- Editar libros de texto preferentemente de geografía e historia del Estado de Morelos y producir otros materiales didácticos distintos a los señalados en la fracción III del Artículo 12 de la Ley General de Educación;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+XXV.- Elaborar el presupuesto general del ramo educativo, el cual no deberá ser inferior al ocho por ciento del presupuesto total anual del Ejecutivo del Estado;
 
-XIV.- Los asociantes y los asociados de una asociación en participación, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas mediante la asociación en participación, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la misma, siempre que la asociación en participación incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c), d) y e) de la fracción IV de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el período o a la fecha de que se trate.
+XXVI.- Aplicar los ordenamientos contenidos en esta Ley y vigilar su cumplimiento y el de las disposiciones reglamentarias;
 
-Para los efectos de esta fracción, se entenderá por asociación en participación al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un convenio y siempre que las mismas, por disposición legal o del convenio, participen de las utilidades o de las pérdidas derivadas de dicha actividad. La asociación en participación tendrá personalidad jurídica para los efectos del derecho fiscal cuando en el Estado realice actividades empresariales o, cuando tengan su domicilio en el territorio del propio Estado. Para estos efectos la asociación en participación se considera persona moral; y
+XXVII.- Establecer un sistema permanente de informática y estadística del Sistema Educativo Estatal;
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+XXVIII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen, y
 
-XV.- Los contadores públicos registrados para emitir los dictámenes previstos en el artículo 41 BIS de éste Código, respecto de las diferencias determinadas por las autoridades fiscales, cuando las mismas no hayan sido consignadas en el dictamen correspondiente y constituyan un crédito firme en favor del fisco estatal.
+XXIX.- Las que ésta u otra Ley le señalen.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
 
-La responsabilidad solidaria comprenderá, además de las contribuciones omitidas actualizadas, los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
+###### ARTICULO 15.
 
-###### ARTÍCULO 14.
+En materia de educación pública, el Ejecutivo del Estado podrá celebrar convenios de colaboración con los Municipios, cuyos Ayuntamientos tendrán para tal efecto las siguientes atribuciones:
 
-Se entenderá por actividades empresariales las siguientes:
+I.- Podrán establecer planteles educativos de acuerdo con los tipos, lineamientos y modalidades establecidos en esta Ley, y sostenerlos económicamente, considerando que dichos planteles funcionarán bajo el control técnico y administrativo de la autoridad educativa correspondiente;
 
-I.- Las comerciales que son las que de conformidad con las leyes federales tienen ese carácter y no están comprendidas en las fracciones siguientes;
+II.- Cuidar que no se establezcan o funcionen en su jurisdicción escuelas que no cumplan con los requisitos de esta Ley;
 
-II.- Las industriales entendidas como la extracción, conservación o transformación de materias primas, acabado de productos y la elaboración de satisfactores;
+III.- Promover permanentemente la investigación que sirva como base de la innovación educativa, así como impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica;
 
-III.- Las agrícolas que comprenden las actividades de siembra, cultivo, cosecha y la primera enajenación de los productos obtenidos, que no hayan sido objeto de transformación industrial;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-IV.- Las ganaderas que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial;
+IV.- Coadyuvar en la vigilancia de la asistencia de los educandos en edad escolar a las instituciones educativas.
 
-V.- Las de pesca que incluyen la cría, cultivo, fomento y cuidado de la reproducción de toda clase de especies marinas y de agua dulce, incluida la acuacultura, así como la captura y extracción de las mismas y la primera enajenación de esos productos, que no hayan sido objeto de transformación industrial; y,
+Para tal efecto las autoridades educativas correspondientes deberán entregar a los Ayuntamientos, al inicio de cada ciclo escolar un informe del total de alumnos inscritos en el nivel de educación básica en cada municipio, y bimestralmente de los casos de deserción escolar o ausencia por un periodo mayor a 15 días.
 
-VI.- Las silvícolas que son las de cultivo de los bosques o montes, así como la cría, conservación, restauración, fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
+V.- Otorgar becas a los alumnos de escasos recursos que destaquen académicamente;
 
-Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocios en el que se desarrollen, parcial o totalmente, las citadas actividades empresariales.
+VI.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal;
 
-###### ARTÍCULO 15.
+VII.- Fomentar y difundir las actividades artísticas, culturales, de educación vial, cívicas y deportivas en todas las modalidades; y
 
-Se considera domicilio fiscal:
+VIII.- Auxiliar a la autoridad educativa en el cumplimiento de esta Ley y los reglamentos que de ella emanen.
 
-I.- Tratándose de personas físicas:
+###### ARTICULO 16.
 
-a).- Cuando realizan actividades empresariales, el local en que se encuentre el principal asiento de sus negocios.
+El Ejecutivo del Estado, sin menoscabo de su propia obligación, promoverá la participación directa de cada ayuntamiento para dar mantenimiento y proveer de equipo básico a las escuelas públicas.
 
-b).- Cuando no realicen las actividades señaladas en el inciso anterior y presten servicios personales independientes, el local que utilicen como base fija para el desempeño de sus actividades.
+###### ARTICULO 17.
 
-c).- En los demás casos, el lugar donde tengan el asiento principal de sus actividades.
+Las autoridades educativas en sus respectivas competencias podrán reducir las cargas administrativas y las comisiones de los maestros, con el fin de alcanzar más horas efectivas de clases y lograr la prestación del servicio educativo con mayor eficiencia; en las actividades de supervisión, las autoridades educativas darán preferencia a los apoyos técnicos, didácticos y pedagógicos para el adecuado desempeño de la función docente, estando por encima de los aspectos administrativos.
 
-d).- A falta de los anteriores, su casa habitación.
+###### ARTICULO 18.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Las autoridades educativas en el Estado se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Sistema Educativo Estatal, formular recomendaciones y convenir acciones para apoyar la función social educativa, estas reuniones serán convocadas por la Autoridad Estatal o Municipal en su caso.
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+###### ARTICULO 19.
 
-Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas.
+Las autoridades educativas realizarán actividades que propicien mayor aprecio social por la labor desarrollada por el magisterio y otorgará reconocimientos, distinciones, estímulos e incentivos a los trabajadores de la educación que se destaquen en el ejercicio de su profesión, con la posibilidad de obtener mejores remuneraciones y prestaciones económicas, sociales y profesionales.
 
-II.- En el caso de personas morales:
+La autoridad educativa estatal otorgará becas a profesores que les permitan estudios de postgrado, promoverá la formación de investigadores mediante el establecimiento de un sistema de investigación educativa y establecerá cursos permanentes de capacitación a los trabajadores docentes de la educación, quienes deberán asistir a los mismos.
 
-a).- Cuando sean residentes en el Estado, el local en donde se encuentre la administración principal del negocio.
+###### ARTICULO 20.
 
-b).- En defecto del mencionado con antelación, el lugar en que se encuentre el principal establecimiento.
+La educación que imparta el Gobierno del Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización, en cualquier tipo y modalidad, conforman el Sistema Educativo Estatal.
 
-c).- A falta de los dos anteriores, el lugar en que se hubiere realizado el hecho generador del crédito fiscal.
+Los siguientes constituyen los elementos fundamentales del Sistema:
 
-Tratándose de personas físicas y morales, residentes o establecidas fuera de la entidad que realicen actividades gravadas en el Estado de Sonora a través de terceros, cualquiera que sea el nombre con el que se les designe, se considerará como su domicilio el de esas terceras personas.
+a).- Los educandos, los educadores y el personal de apoyo;
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+b).- Las autoridades educativas;
 
-Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que se realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio fiscal, indistintamente. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 22 de este Código.
+c).- Los padres de familia o tutores, así como las asociaciones que los representan;
 
-###### ARTÍCULO 16.
+d).- Los planes, programas, métodos y materiales educativos;
 
-Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran, o en caso, los contratos o concesiones.
+e).- Los consejos técnico-pedagógicos;
 
-Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+f).- Los consejos de participación social;
 
-Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las autoridades fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los 15 días siguientes a la fecha de su causación.
+g).- Las instituciones educativas del Estado, de los Municipios y sus Organismos Descentralizados en materia educativa;
 
-###### ARTÍCULO 17.
+h).- Las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios;
 
-Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas, dentro de los treinta días siguientes:
+i).- Las instituciones de educación media superior y superior establecidas en el Estado y las que tengan autonomía se regirán por las disposiciones legales correspondientes;
 
-I.- A la fecha de la notificación de la liquidación, si corresponde a la autoridad el formularla;
+j).- Los presupuestos, recursos humanos, materiales y financieros destinados a la educación, por parte del Gobierno del Estado; y
 
-II.- Al nacimiento de la prestación, si corresponde a los sujetos pasivos o responsables solidarios llevar a cabo su determinación en cantidad liquida;
+k).- Las instituciones de formación para el trabajo o las de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
 
-III.- A la fecha de la celebración u otorgamiento de contratos o concesiones que no señalen la época de pago de las obligaciones que de ellos se deriven;
+###### ARTICULO 21.
 
-En el caso de contribuciones que se deben pagar mediante retención, aún cuando quien deba efectuarla no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
+El Estado otorgará un salario profesional que sea digno y justo para que los educadores del Sistema Educativo Estatal alcancen un nivel de vida decoroso para su familia, así como para que dispongan del tiempo necesario para la preparación de clases que impartan y para su perfeccionamiento profesional.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+## TITULO SEGUNDO. DE LA EDUCACION QUE SE IMPARTA EN EL ESTADO
 
-Quien haga el pago de créditos fiscales deberá obtener de la oficina recaudadora, la forma oficial el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora. Tratándose de pagos realizados con cheques de cuentas personales de los contribuyentes dichos documentos se expedirán una vez que se haga efectivo el cheque.
+### CAPITULO II. DISTRIBUCION DE LA FUNCION SOCIAL EDUCATIVA
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
 
-Cuándo los pagos se efectúen en las oficinas de las instituciones de crédito, tiendas comerciales o cajeros automáticos, deberá recabarse previamente en la oficina recaudadora o en los medios electrónicos, el pase de caja que deberá contener la línea de captura para la receptora del pago. El comprobante, constancia o acuse de recibo, emitido por la receptora autorizada, deberá contener la impresión de la ráfaga electrónica del sistema y en su caso, sello y firma del cajero. Juntos ambos documentos tendrán validez de recibo oficial de pago.
+###### ARTICULO 22.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+El educador es promotor, coordinador y agente directo del proceso educativo; por ello las autoridades educativas y los particulares a que se refiere esta Ley, deberán proporcionarle los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante superación profesional.
 
-REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)
+Para ejercer la docencia en instituciones establecidas por el Gobierno del Estado, los Ayuntamientos, sus Organismos Descentralizados y por los particulares con autorización o reconocimiento de validez oficial de estudios, los docentes deberán reunir el perfil académico a que se refiera el reglamento de esta Ley y los requisitos que previamente sean señalados por la autoridad competente.
 
-La autoridad fiscal podrá enviar estados de cuenta de las contribuciones a cargo de los contribuyentes a su domicilio fiscal, los cuales tendrán el carácter de pase de caja para los efectos señalados en el párrafo anterior.
+###### ARTICULO 23.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+El Sistema Educativo Estatal comprende los tipos: inicial, básico, medio, medio superior, y superior con sus respectivas modalidades. Estos podrán adoptar las modalidades escolarizada, no escolarizada y mixta, en los términos siguientes:
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+I.- La educación inicial comprende la educación que se imparta en los centros de desarrollo infantil, en las guarderías y los análogos de particulares;
 
-Tratándose de pagos efectuados en medios electrónicos, el comprobante de pago que el propio sistema emita conjuntamente con la impresión del pase de caja correspondiente, tendrá validez de recibo oficial de pago.
+II.- El tipo básico comprende la educación preescolar, primaria y secundaria, incluyendo la educación física, artística, indígena y la educación especial:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+a).- La educación preescolar no es antecedente obligatorio de la primaria;
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+b).- La educación primaria incluye la educación regular, la de niños con necesidad de educación especial y la de adultos en su caso;
 
-Cuando las disposiciones fiscales establezcan opciones a los contribuyentes para el cumplimiento de las obligaciones a su cargo, la elegida por el contribuyente no podrá variarla respecto al mismo ejercicio.
+c).- La educación primaria es antecedente obligatorio de la educación secundaria;
 
-###### ARTÍCULO 18.
+d).- La educación secundaria incluye las escuelas generales, técnicas, y telesecundarias;
 
-Para determinar las contribuciones se considerarán inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
+e).- La educación primaria y secundaria es antecedente obligatorio del nivel medio superior;
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+f).- La autoridad educativa en el Estado promoverá programas y acciones que permitan lograr una alimentación balanceada en los niños, especialmente indígenas, que reciban educación durante el tipo básico.
 
-ARTÍCULO 18 BIS.- El monto de las contribuciones y aprovechamientos a cargo de los contribuyentes, así como de las devoluciones a cargo del fisco estatal por dichos conceptos, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización obtenido de acuerdo con el siguiente párrafo a las cantidades que se deban actualizar. Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
+III.- El tipo medio superior, comprende el nivel bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalencias. Para los efectos de esta Ley, tiene carácter informativo, formativo y terminal en su caso y comprende la educación media terminal el bachillerato técnico, la educación comercial y la preparatoria:
 
-El factor de actualización se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. El Índice Nacional de Precios al Consumidor, será el publicado en el Diario Oficial de la Federación, mismo que se calculará de conformidad con lo establecido en el artículo 20 Bis del Código Fiscal de la Federación.
+a).- La educación preparatoria o el bachillerato tecnológico son antecedente obligatorio de la educación superior, y
 
-Para la determinación del factor de actualización, el cálculo deberá realizarse hasta el diezmilésimo.
+b).- La educación comercial, técnica y de capacitación para el trabajo serán terminales.
 
-Las contribuciones, los aprovechamientos, así como las devoluciones, no se actualizarán por fracciones de mes.
+IV.- El tipo superior comprende la educación normal, la tecnológica y la universitaria e incluye estudios encaminados a obtener grados de licenciatura, maestría y doctorado así como cursos de actualización y especialización.
 
-En los casos en los que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período no haya sido publicado en el Diario Oficial de la Federación, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+###### ARTICULO 24.
 
-###### ARTÍCULO 19.
+La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social.
 
-Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal, a los accesorios en el siguiente orden:
+###### ARTICULO 25.
 
-I.- Gastos de ejecución;
+La educación preescolar atenderá por personal especializado a niños cuyas edades fluctúen entre los cuatro y los seis años y promoverá el desarrollo integral del niño, ofreciendo oportunidades de realización que le permitan identificarse como ser individual y miembro de un grupo social.
 
-II.- Recargos;
+###### ARTICULO 26.
 
-III.- Multas; y,
+La educación primaria contribuirá al desarrollo integral y armónico del niño, promoviendo en él una actitud de aprendizaje permanente, y es requisito para acceder al siguiente nivel de estudio.
 
-IV.- La indemnización a que se refiere el artículo 27 de este Código.
+###### ARTICULO 27.
 
-Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
+La educación primaria se impartirá por el Estado, Municipios y particulares con autorización expresa, a niños cuya edad se encuentre entre seis y catorce años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 28.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+La educación primaria tendrá las adecuaciones requeridas para responder a las características lingüísticas y culturales de los diversos grupos indígenas del Estado, así como de la población rural y grupos migrantes.
 
-###### ARTÍCULO 20.
+###### ARTICULO 29.
 
-Cuando en atención a la naturaleza y características de las operaciones que realizan los sujetos pasivos del impuesto de que se trate no sea posible, dentro de los procedimientos ordinarios, precisar con exactitud el monto del impuesto a pagar, la Secretaría de Hacienda podrá emitir bases especiales para la determinación de la prestación fiscal a cargo de ellos.
+Para atender a la población de quince años o más que no haya cursado o concluido la educación primaria, el Sistema Educativo Estatal ofrecerá educación para adultos.
 
-###### ARTÍCULO 21.
+###### ARTICULO 30.
 
-Cuando se perciba el ingreso en bienes o servicios, se considerará el valor de éstos en moneda nacional en la fecha de la percepción según las cotizaciones o valores en el mercado, o en defecto de ambos el de avalúo. Lo dispuesto en este párrafo no es aplicable tratándose de moneda extranjera.
+La educación secundaria tiene como propósito contribuir al proceso de madurez de la personalidad del adolescente, orientar sus opciones vocacionales y contribuir a la formación comunitaria.
 
-Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
+###### ARTICULO 31.
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
+La educación secundaria continuará y profundizará la formación científica, humanística, cívica, artística, física y tecnológica adquirida en los niveles precedentes. Asimismo sentará las bases necesarias para la incorporación de los alumnos a la vida productiva y permitirá el acceso al nivel medio superior.
 
-### CAPITULO UNICO
+###### ARTICULO 32.
 
-###### ARTÍCULO 22.
+La educación secundaria atenderá a los adolescentes, jóvenes y adultos que hayan acreditado el nivel de primaria. Tendrá carácter formativo y ajustará la enseñanza, a los intereses y aptitudes de los estudiantes, así como a las exigencias del desarrollo de la comunidad y del Estado.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
+###### ARTICULO 33.
 
-Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría de Finanzas, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse cumpliendo por lo menos los siguientes requisitos:
+La educación secundaria contribuirá al desarrollo integral del educando, favorecerá la capacidad de observación, análisis, reflexión crítica y el desarrollo de las facultades para adquirir conocimientos, habilidades y actitudes positivas.
 
-I.- Constar por escrito;
+###### ARTICULO 34.
 
-II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que le correspondió en dicho Registro;
+Las instituciones que ofrezcan este servicio podrán ser secundarias generales, técnicas y telesecundarias.
 
-III.- Señalar la autoridad a la que se dirige y el propósito de la promoción; y,
+###### ARTICULO 35.
 
-IV.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
+Las escuelas públicas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado de una terna de hombres ilustres o conceptos e instituciones coincidentes con los fines educativos, propuestas por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
 
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada; si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
+###### ARTICULO 36.
 
-Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al Registro Estatal de Contribuyentes a que se refiere el artículo 33 de este Código.
+La Educación física contribuirá al desarrollo armónico e integral del individuo en el proceso escolar y se promoverá en los niveles de educación inicial, primaria, secundaria, media superior, superior y en la modalidad de educación especial.
 
-###### ARTÍCULO 23.
+En el nivel superior, la educación física deberá tener el objetivo primordial de fomentar la práctica de un deporte o disciplina deportiva, o bien, el acondicionamiento físico permanente y cotidiano de los estudiantes.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública, mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público.
+###### ARTICULO 37.
 
-Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
+Las autoridades educativas serán las responsables de la expedición y aplicación de los programas y guías metodológicas oficiales de educación física, en los diferentes niveles educativos.
 
-Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
+###### ARTICULO 38.
 
-###### ARTÍCULO 24.
+La educación física que imparta el Gobierno del Estado y los Municipios, tendrá además de los propósitos establecidos los siguientes:
 
-Se considera sujeto pasivo de un crédito fiscal a la persona física o moral, mexicana o extranjera que de conformidad con las disposiciones fiscales, se encuentra obligada al pago de una prestación determinada al Fisco Estatal.
+I.- Estimular la disciplina del ejercicio físico y la práctica del deporte;
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+II.- Desarrollar actitudes responsables hacia la preservación de la salud, propiciar el rechazo a las adiciones (sic) y prevenir las conductas delictivas, y
 
-ARTÍCULO 24 BIS.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con las personas físicas o morales que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, salvo que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar.
+III.- Fomentar y difundir la cultura física en todas sus manifestaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+###### ARTICULO 39.
 
-###### ARTÍCULO 25.
+La educación artística tendrá como propósito, desarrollar las aptitudes creadoras, estimular e impulsar todas las expresiones del arte y la cultura regional, nacional y universal. Esta educación se impartirá dentro de las actividades de educación básica y normal.
 
-El pago de los créditos fiscales deberá hacerse en efectivo, mediante transferencias electrónicas, cheque certificado, tarjeta de crédito o débito, salvo que las disposiciones aplicables establezcan que se haga en especie.
+###### ARTICULO 40.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+La educación indígena contribuirá a la conservación y desarrollo de las lenguas, valores y costumbres de los grupos étnicos, al tiempo que facilitará al educando su integración y una mayor participación a la vida estatal y a la identidad nacional.
 
-Se aceptarán como medio de pago de las contribuciones y aprovechamientos en lugar del efectivo, los cheques del contribuyente del mismo Banco en que se efectúe el pago, cheques certificados, la transferencia electrónica a favor del Gobierno del Estado, las tarjetas de crédito y débito, los cheques de cuentas personales de los contribuyentes, los cuales se presumirán recibidos bajo la condición "salvo buen cobro" para los efectos de acreditar que se ha efectuado el pago, en éste caso, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original del sello de pagado y firma de cajero autorizado tendrán validez y una vez que se haya hecho efectivo en cheque personal en la cámara de compensación, momento en el que se entenderán como pagadas las contribuciones.
+###### ARTICULO 41.
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+La educación indígena promoverá en el educando actitudes encaminadas a la prevención y conservación de la salud, sin abandonar los conocimientos de la medicina tradicional.
 
-Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del Gobierno del Estado, se realiza por las instituciones de crédito, en forma electrónica.
+## TITULO TERCERO. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+### CAPITULO I. DE LA PLANEACION EDUCATIVA
 
-Tratándose de pago de contribuciones y aprovechamientos por cheque, el importe del mismo debe ser por la cantidad exacta a pagar.
+### CAPITULO III. DE LA ESTRUCTURA DEL SISTEMA EDUCATIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+###### ARTICULO 42.
 
-###### ARTÍCULO 26.
+La educación indígena se apoyará con servicios asistenciales y de extensión educativa que faciliten en forma continua y permanente el aprendizaje y aprovechamiento de los alumnos, respetando y resaltando su personalidad y su cultura.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe en los términos del artículo 18 BIS de este Código. Además, los contribuyentes que paguen fuera de los plazos fijados por las disposiciones fiscales deberán pagar recargos en concepto de indemnización al fisco estatal; dichos recargos se calcularán aplicando al monto de las contribuciones o los aprovechamientos, actualizados por el periodo a que se refiere este párrafo, la tasa que será del 50% mayor de la tasa que fije anualmente la Ley de Ingresos del Estado.
+###### ARTICULO 43.
 
-Los recargos se causarán hasta por cinco años, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el artículo 27 de este Código, los gastos de ejecución y las sanciones por infracción a disposiciones fiscales.
+La educación indígena deberá impartirse por docentes bilingües, de acuerdo a las necesidades étnicas de cada región.
 
-En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
+###### ARTICULO 44.
 
-Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+La educación especial tendrá como finalidad brindar apoyo psicopedagógico y físico a niños, niñas y adolescentes con discapacidades transitorias o definitivas así como aquellos como aquellos (sic) con capacidad y aptitudes sobresalientes.
 
-Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+La educación física especial procurará atender a los educandos de manera adecuada tomando en cuenta sus propias condiciones para que se integren al medio escolar regular, a la comunidad y al trabajo productivo.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+###### ARTICULO 45.
 
-Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente aplicando la prelación establecida en el artículo 19 de este Código.
+La educación especial se ofrecerá en planteles educativos estatales, municipales y particulares con autorización o reconocimiento de validez oficial de estudios.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2013)</small>
 
-Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece la Ley de Ingresos del Estado, por la parte diferida. No causarán recargos las multas no fiscales.
+Las Autoridades Educativas Locales, dentro de la planeación presupuestaria, incorporarán de manera obligatoria mayor presupuesto, para desarrollar acciones que propicien que en todas las instituciones de educación en las que se imparta la educación especial, incluyendo los Centros de Atención Psicopedagógica de Educación Preescolar, dispongan de infraestructura, mobiliario y medios tanto materiales como técnicos, acordes a las necesidades de los educandos, teniendo como principal finalidad lograr el máximo desarrollo personal de los mismos. Evitando en todo momento cualquier acto de discriminación que impida su desarrollo integral.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+###### ARTICULO 46.
 
-###### ARTÍCULO 27.
+En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, al igual que los pagos con tarjeta bancaria, sea de crédito o débito y con posterioridad se desconozca dicho pago solicitando al banco emisor el reembolso del importe pagado a las autoridades fiscales, dará lugar al cobro del monto del cheque, así como de la tarjeta bancaria y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad notificará al librador del cheque o al tarjetahabiente para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque o tarjeta bancaria, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
 
-###### ARTÍCULO 28.
+ARTICULO 46 BIS.- La educación física especial tendrá el carácter de obligatoria en los Centros de Necesidades Educativas Especiales, en los Centros de Atención Múltiple, así como en Unidades de Servicio de Apoyo a la Educación Regular, Servicios de Apoyo Emocional, Centros de Aptitudes Sobresalientes, la cual deberá ser impartida por maestros con Licenciatura en Educación Física, quienes deberán aportar sus conocimientos a efecto de lograr que los niños, niñas y adolescentes logren el desarrollo armónico del individuo mediante la práctica sistemática de la actividad corporal, asociadas a discapacidades, elementos y satisfacciones motrices, en relación con sus necesidades, intereses y capacidades que puedan ser manifestados, durante su participación en los diferentes ámbitos de la vida familiar, social y productiva.
 
-Las autoridades fiscales estatales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales, siempre y cuando el particular satisfaga los siguientes requisitos:
+### CAPITULO VIII. DE LA EDUCACION MEDIA SUPERIOR
 
-I.- Que el pago de lo indebido haya tenido su origen en una autodeterminación del sujeto pasivo;
+###### ARTICULO 47.
 
-II.- Que la reclamación del pago de lo indebido la efectúe el sujeto pasivo;
+La educación media superior continuará la formación integral del educando, que le permita el acceso tanto a la educación de su sociedad y de su tiempo, así como su posible incorporación al trabajo productivo.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+La educación media superior deberá propiciar en el educando:
 
-III.- Que el sujeto pasivo no haya repercutido, trasladado o retenido en forma expresa o incluido en el precio, el monto del crédito fiscal reclamado como pago de lo indebido;
+I.- El desarrollo de un sistema de valores sociales, a partir de principios universales y nacionales racionalmente compartidos;
 
-Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
+II.- La participación crítica en el desarrollo cultural de su tiempo;
 
-Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto queda insubsistente.
+III.- La adquisición de los instrumentos metodológicos necesarios para su formación y acceso al conocimiento científico;
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cincuenta días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que comprueben la procedencia de la petición.
+IV.- La consolidación de los distintos aspectos de su personalidad que le permitan desarrollar su capacidad de abstracción y el auto aprendizaje; y
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+V.- Su introducción a los aspectos aplicados de la ciencia y la tecnología, durante la formación para el trabajo.
 
-Las autoridades fiscales para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Cuando la autoridad requiera al contribuyente los datos, informes o documentos antes señalados, el periodo transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo que las autoridades fiscales tienen obligación de resolver las solicitudes de devolución de contribuciones. Las autoridades fiscales podrán devolver la cantidad que corresponda a la solicitada por los contribuyentes con motivo de la revisión efectuada a la documentación aportada. En este caso, la solicitud se considerará negada por la parte que no sea devuelta. En el caso de que las autoridades fiscales rechacen la solicitud de devolución a los contribuyentes, se considerará que ésta fue negada en su totalidad.
+###### ARTICULO 48.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+Las escuelas de educación media superior terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la entidad, con el fin de preparar personal calificado en la (sic) diferentes actividades de la industria, del comercio y del trabajo en general.
 
-Para tales efectos, las autoridades fiscales deberán fundar y motivar las causas que sustentan la negativa parcial o total de la devolución respectiva.
+###### ARTICULO 49.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+La educación media superior tendrá como antecedente la educación secundaria completa y comprenderá el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional de nivel medio superior que no requiere el antecedente de bachillerato o sus equivalentes; y se organizará y funcionará conforme a los lineamientos establecidos en esta Ley.
 
-No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere el párrafo anterior, pudiendo ejercerlas en cualquier momento.
+###### ARTICULO 50.
 
-Si la devolución no se efectuare dentro del plazo indicado en este artículo, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos por mora, en los términos del artículo 26 de este Código que se aplicará sobre el total del importe solicitado como devolución. Cuando el Fisco Estatal deba pagar intereses a los contribuyentes sobre las cantidades que les deba devolver, pagará dichos intereses conjuntamente con la cantidad principal objeto de la devolución.
+El bachillerato podrá ser propedéutico, terminal o bivalente:
 
-El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal la devolución de dichas cantidades. En lugar de solicitar la devolución a que se refiere este párrafo, el contribuyente podrá compensar las cantidades a su favor, contra cualquier contribución, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
+I.- Será propedéutico el que se oriente hacia la formación del educando para su incorporación específica a los estudios de educación superior;
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+II.- Será terminal el que ofrezca una preparación tecnológica que permita al egresado su integración al sector productivo; y
 
-Cuando el contribuyente presente una solicitud de devolución que sea negada y posteriormente sea concedida por la autoridad en cumplimiento de una resolución dictada en un recurso administrativo o de una sentencia emitida por un órgano jurisdiccional, el cálculo de los intereses se efectuará a partir de:
-
-a) Tratándose de saldos a favor o cuando el pago de lo indebido se hubiese determinado por el propio contribuyente, a partir de que se negó la autorización o de que venció el plazo de cuarenta o veinticinco días, para efectuar la devolución, según sea el caso.
-
-b) Cuando el pago de lo indebido se hubiese determinado por la autoridad, a partir de que se pagó dicho crédito.
-
-En ningún caso los intereses a cargo del Gobierno del Estado excederán de los que se causen en los últimos cinco años.
-
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-Tratándose de los impuestos retenidos o recaudados, la devolución por pago de lo indebido se efectuará a las personas que hubieran causado el impuesto, siempre que no lo hayan acreditado o deducido; por lo tanto, quien retuvo o recaudó el impuesto, ya sea en forma expresa o por separado o incluido en el precio, no tendrá derecho a solicitar la devolución.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 29.
-
-La obligación de devolver contribuciones pagadas en forma indebida prescribe en el término de cinco años, contados a partir de la fecha en que se realizó el pago. Dicho plazo se interrumpe por cualquier gestión del particular ante la autoridad fiscal tendiente a la determinación o cobro de dichas cantidades, o por cualquier acto de la autoridad en que se reconozca la existencia de las cantidades que se reclamen.
-
-###### ARTÍCULO 30.
-
-Para que proceda la devolución de cantidades pagadas indebidamente, será necesario:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2014)</small>
-
-I.- Que se dicte acuerdo de la Secretaría de Hacienda;
-
-II.- Que el derecho a reclamar la devolución no se haya extinguido;
-
-> <small>(REFORMADO PÁRRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-###### ARTÍCULO 31.
-
-Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor, contra las que estén obligadas a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución. Al efecto bastará que efectúen la compensación de dichas cantidades, debiendo presentar aviso de compensación dentro de los cinco días siguientes a aquel en que la misma se haya efectuado, acompañado de la documentación que al efecto se solicite en la forma oficial correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
-
-Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, gravamen, contrato o por la cual están obligados a efectuar el pago, la Secretaría de Hacienda, apreciara discrecionalmente la conveniencia de autorizar la compensación.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 28 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos hayan quedado firmes por cualquier causa. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 26 de este Código sobre las cantidades compensadas indebidamente y con su respectiva actualización, por el período transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
-
-No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
-
-Se entenderá que es una misma contribución si se trata del mismo impuesto, contrato, concesión, contribución especial o derecho.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-Los contribuyentes que hayan ejercido la opción a que se refiere el primer párrafo del presente artículo, que tuvieran remanente una vez efectuada la compensación, podrán continuar compensando el remanente del saldo a favor en pagos futuros o solicitar su devolución.
-
-###### ARTÍCULO 32.
-
-Se podrán compensar los créditos y deudas entre el Estado por una parte y la Federación y Municipios, por la otra. Tratándose de la compensación con Federación y Municipios se requerirá acuerdo previo con éstos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-###### ARTÍCULO 33.
-
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, así como, todas aquellas personas físicas o morales cuyas actividades sean reguladas por leyes administrativas en el Estado, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, así como su dirección de correo electrónico, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, mismas que podrán prellenar el formato de registro indicado en el portal electrónico de la Secretaría de Hacienda, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
-
-Quedan exceptuados de la obligación de inscribirse los sujetos a que alude el artículo 6 de este Código, sin menoscabo de la obligación de retener o de recaudar contribuciones en los casos que lo dispongan las leyes.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-La solicitud o los avisos a que se refiere el primer párrafo de este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados. Las autoridades fiscales podrán verificar la existencia y localización del domicilio fiscal manifestado por el contribuyente en el aviso respectivo.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Los avisos, declaraciones o manifestaciones se harán en las formas oficiales que al efecto se publiquen en el portal electrónico de la Secretaría de Hacienda, pudiendo reproducirse por cualquier interesado, salvo tratándose de formas valoradas, las cuales serán proporcionadas en las oficinas recaudadoras de acuerdo a las disposiciones administrativas de carácter general que establezca dicha Secretaría. A falta de forma publicada, se podrá utilizar formato libre.
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-Cuando en la solicitud de inscripción al Registro Estatal, o en los avisos correspondientes, se hubiese incurrido en errores u omisiones o empleado de manera equivocada las formas aprobadas, se darán a conocer los datos correctos a las oficinas exactoras respectivas utilizando para tal efecto, las formas oficiales pertinentes, e indicando en ellas que se presentan para “corrección de errores u omisiones”. Con el original de la reposición se devolverá la copia del documento erróneo.
-
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-Tratándose de personas físicas o morales cuyas actividades (sic) reguladas por leyes administrativas en el Estado y tengan la obligación de efectuar un pago anual, bianual o trianual por conceptos de Derechos en los términos de la Ley de Hacienda del Estado, deberán de solicitar su inscripción en el Registro Estatal de Contribuyentes en los 45 días siguientes al pago efectuado o presentar un aumento de obligaciones fiscales si ya están inscritos; cumplido el plazo la Secretaría de Hacienda podrá realizar su registro de contribuyente de conformidad con lo dispuesto en el artículo 34 de este Código.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 33 BIS.- Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, deberán presentar el aviso correspondiente, dentro de los diez días siguientes a la fecha de contratación, ante la oficina recaudadora que corresponda a su domicilio fiscal, debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de trabajadores que presten el trabajo, así como el nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate, así como los avisos que esta última debe presentar ante el Instituto Mexicano del Seguro Social.
-
-Las autoridades fiscales podrán requerir a las personas físicas o morales a que se refiere este artículo, la presentación de documentos o información adicional, a fin de que en un plazo máximo de diez días cumplan con lo solicitado. En este caso, no se considera que se inicie el ejercicio de facultades de comprobación.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 33 TER.- Las dependencias y entidades de la Administración Pública Estatal, Centralizada y Paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
-
-I.- Tengan a su cargo créditos fiscales firmes.
-
-II.- Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
-
-III.- No se encuentren inscritos en el Registro Estatal de Contribuyentes.
-
-IV.- Habiendo vencido el plazo para presentar alguna declaración u aviso y, con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
-
-La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y siempre que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
-
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-Las personas morales o como se le (sic) denomine en los términos de la Ley que las regula entre otros: sus socios, accionistas, asociados, la administración única de las sociedades mercantiles, los asociantes y los asociados de una asociación en participación podrán ser sujeto (sic) de este precepto a excepción de la fracción III cuando no sean objeto de alguna contribución estatal.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 33 QUATER.- Los subsidios o estímulos previstos en los ordenamientos aplicables solo podrán ser aplicados por los contribuyentes que se encuentren inscritos en el Registro Estatal de Contribuyentes y siempre que estén al corriente en el cumplimiento de sus obligaciones fiscales.
-
-Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones I a IV del artículo 33 TER, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
-
-Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II del artículo 33 TER, no se consideran comprendidos en dichos supuestos cuando previo a la aplicación del estímulo celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo.
-
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-###### ARTÍCULO 34.
-
-La Secretaría de Hacienda, llevará el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con el artículo 33 de este Código y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Hacienda sea parte.
-
-Así mismo, la Secretaría de Hacienda llevará el Registro Estatal de Contribuyentes, unificando de manera ordenada los registros de contribuciones locales, el Registro Estatal Vehicular; así como, los datos correspondientes a los ingresos federales coordinados.
-
-Para efectos de lo dispuesto en el párrafo anterior, la Secretaría de Hacienda deberá contemplar lo dispuesto en los ordenamientos jurídicos que regulan dichos registros, además de las reglamentaciones establecidas en este Código para el Registro Estatal de Contribuyentes, pudiendo obviar requisitos que se repitan entre un ordenamiento y otro, al momento de establecer los trámites de inscripción o modificaciones a los registros citados en el párrafo que antecede.
-
-Las personas que no lleven a cabo actividades de las señaladas en el artículo 33 de este Código, y que se den de alta en el Registro Estatal Vehicular de conformidad con la Ley de Control Vehicular para el Estado de Sonora, no tendrán la obligación de solicitar su inscripción al Registro Estatal de Contribuyentes, ni a presentar los avisos a que se refiere el mencionado artículo, pero serán incorporadas al Registro Estatal de Contribuyentes por la Secretaría de Hacienda, misma que al momento del trámite de alta al Registro Estatal Vehicular, les asignará la clave señalada en el primer párrafo de este artículo e integrará el Registro Estatal de Contribuyentes únicamente con la información que se deba proporcionar por dichas personas al Registro Estatal Vehicular, actualizando cada movimiento de forma automática conforme se vayan solicitando las modificaciones al citado Registro Estatal Vehicular en términos de las leyes de la materia.
-
-Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado Registro Estatal de Contribuyentes e inscribir de oficio a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con esta obligación, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
-
-No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo anterior, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes o en su caso, inscribirlos de oficio a dicho registro.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 35.
-
-Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión, escisión o de liquidación de personas morales, que comprueben dentro del mes siguiente a la firma, que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el Registro Estatal de Contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Hacienda, por conducto de sus oficinas exactoras dentro del mes siguiente a la autorización de la escritura. Asimismo, los fedatarios públicos deberán informar en el formato que al efecto expida la Secretaría de Hacienda, el nombre de los socios o accionistas de la sociedad o asociados de una asociación, el domicilio y el Registro Estatal de Contribuyentes de cada uno de ellos.
-
-El Administrador Único o Director General deberá informar a la Secretaría de Hacienda los cambios de socios o accionistas que se inscriban en el libro de socios o accionistas, mediante formato que al efecto expida la Secretaría de Hacienda.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-###### ARTÍCULO 36.
-
-Los sujetos pasivos y los responsables solidarios darán aviso a la Secretaría de Hacienda por conducto de las oficinas exactoras de su jurisdicción, dentro de los treinta días siguientes a aquel en que ocurran los siguientes cambios:
-
-I.- Del domicilio, excepción hecha de quienes solo causen impuestos que deban ser retenidos o recaudados;
-
-II.- De razón o denominación social, al que acompañarán copia de la escritura correspondiente;
-
-III.- De aumento o disminución de obligaciones, suspensión o reanudación de actividades;
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El aviso de reanudación de actividades no implica nueva inscripción al Registro Estatal de Contribuyentes.
-
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-IV - De traspaso de la negociación clausura definitiva, liquidación o apertura de sucesión;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-V.- De apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que se utilice para el desempeño de las actividades del contribuyente; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-VI.- Cancelación en el Registro Estatal de Contribuyentes.
-
-(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
-
-###### ARTÍCULO 37.
-
-Tratándose del aviso a que aluden las fracciones IV y VI del artículo anterior, se deberá informar sobre el lugar donde la contabilidad y demás documentación comprobatoria de sus operaciones, quedará a disposición de las autoridades fiscales, debiendo presentar aviso en el supuesto de que dicho domicilio con posterioridad sea cambiado.
-
-###### ARTÍCULO 38.
-
-Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberán observar las siguientes reglas:
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-I.- Llevarán los libros, sistemas y registros contables que señale este Código;
-
-II.- Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas;
-
-(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
-
-III.- Llevarán la contabilidad en su domicilio fiscal. Los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos fiscales, deberán conservarse en el domicilio fiscal del contribuyente por un plazo de cinco años; en el entendido de que la contabilidad podrá llevarse en lugar distinto al anterior, cuando obtengan autorización y siempre que dicho lugar se encuentre ubicado en la misma población en la que se encuentra su domicilio fiscal, además los contribuyentes podrán procesar a través de medios electrónicos, datos e información de su contabilidad en lugar distinto a su domicilio fiscal, sin que por ello se considere que se lleva la contabilidad fuera del domicilio mencionado.
-
-En caso de clausura, traspaso o liquidación, el plazo antes mencionado se contara a partir de la fecha de las mismas; y,
-
-IV.- Llevar los sistemas y registros contables en los términos de las leyes y reglamentos fiscales federales.
-
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos que establezca este Código y las disposiciones fiscales federales.
-
-Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los libros, sistemas y registros contables a que se refiere la fracción I de este artículo, por los papeles de trabajo, estados de cuenta, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales, la que acredite sus ingresos y deducciones, y la que obliguen otras leyes.
-
-###### ARTÍCULO 39.
-
-Las personas obligadas a llevar contabilidad deberán conservarla en el lugar a que se refiere la fracción III del artículo 38 de este Código a disposición de las autoridades fiscales.
-
-Las personas que no estén obligadas a llevar contabilidad de conformidad con los diversos regímenes tributarios previstos en las diversas disposiciones fiscales federales, deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
-
-(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
-
-La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante un plazo de cinco años, contado a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas. Tratándose de contabilidad y documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de referencia comenzará a computarse a partir del día en que se presente la declaración fiscal del último periodo en que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en que quede firme la resolución que les ponga fin.
-
-###### ARTÍCULO 40.
-
-Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; esta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
-
-###### ARTÍCULO 41.
-
-Las declaraciones que presenten los contribuyentes serán definitivas y sólo se podrán modificar por el propio contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
-
-En los siguientes casos no operará la anterior limitación:
-
-I.- Cuando sólo incrementen sus ingresos o el valor de sus actos o actividades;
-
-II.- Cuando sólo disminuyan las cantidades que hubieran compensado;
-
-III.- Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo; y,
-
-> <small>(REFORMADA EN PÁRRAFO PRIMERO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-IV.- Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de autoridad judicial o administrativa o por disposición expresa de la Ley.
-
-Lo dispuesto en este precepto no limita las facultades de comprobación de las autoridades fiscales.
-
-La modificación de las declaraciones a que se refiere este artículo, se efectuará mediante la presentación de declaración complementaria que modifique los datos de la original.
-
-Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 26 de este Código, a partir de la fecha en que se debió hacer el pago.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 BIS.- Podrán optar por dictaminar el cumplimiento de sus obligaciones fiscales, las personas físicas y morales que tengan su domicilio fiscal o realicen operaciones en el Estado y que se ubiquen en cualquiera de los siguientes supuestos:
-
-a) Que hayan tenido en el ejercicio inmediato anterior ingresos acumulables para los efectos del impuesto sobre la renta superiores a cuatro millones de pesos.
-
-b) Que tengan más de veinte trabajadores a su servicio.
-
-c) Que presten servicios profesionales de personal a contribuyentes dentro del Estado de Sonora.
-
-d) Que presten habitualmente servicios de juegos con apuestas y concursos.
-
-e) Sean establecimientos con licencia para venta de bebidas alcohólicas, cuyos ingresos para efectos del impuesto sobre la renta en el ejercicio inmediato anterior sean superiores a dos millones de pesos y que tengan más de diez empleados.
-
-Los contribuyentes que opten por dictaminar sus obligaciones fiscales, deberán presentar aviso informando a las autoridades fiscales tal situación a más tardar en el mes de marzo del año siguiente al ejercicio fiscal que se va a dictaminar.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 TER.- Quienes opten por dictaminar sus obligaciones fiscales conforme a este Código, lo deberán hacer respecto de las siguientes contribuciones:
-
-1.- Impuesto sobre Remuneración al Trabajo Personal.
-
-2.- Impuesto por la Prestación de Servicios de Hospedaje.
-
-3.- Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos.
-
-4.- Impuesto Predial.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 QUÁTER.- Los contribuyentes que opten por presentar el dictamen, deberán hacerlo ante las autoridades fiscales a más tardar en el último día hábil del mes de julio del ejercicio siguiente del que se dictamina, en los términos y con los datos e informes que al respecto se señale en las disposiciones administrativas que al efecto publique la Secretaría de Hacienda.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 QUINQUIES.- En el caso de que en el dictamen se determinen diferencias de impuestos a pagar, éstas deberán enterarse mediante declaración complementaria por dictamen dentro de los diez días posteriores a la presentación del dictamen; no se aplicarán multas cuando en el plazo citado el contribuyente entere las cantidades a su cargo, actualizadas y con los recargos correspondientes, para cuyo cálculo se aplicará una tasa de recargos equivalente al 60% de la que se establezca en la Ley de Ingresos del Estado de Sonora para el caso de mora en el ejercicio de que se trate.
-
-Cuando el contribuyente no entere las diferencias en el plazo citado en este artículo, se procederá a notificar el crédito para que éste sea cubierto o garantizado en un plazo máximo de diez días; transcurrido dicho plazo sin que el contribuyente pague o garantice se iniciará el procedimiento administrativo de ejecución.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 SEXIES.- La Secretaría de Hacienda contará con un registro único de contadores públicos autorizados para dictaminar impuestos estatales.
-
-La inscripción ante el registro único de contadores públicos de la Secretaría de Hacienda la podrán obtener las siguientes personas:
-
-a) Las personas de nacionalidad mexicana que tengan título de contador público registrado ante la Secretaría de Educación Pública y que sean miembros de un colegio profesional reconocido por la misma Secretaría, cuando menos en los tres años previos a la presentación de la solicitud de registro correspondiente.
-
-Las personas a que se refiere el párrafo anterior, adicionalmente deberán contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública, y sólo serán válidas las certificaciones que le sean expedidas a los contadores públicos por los organismos certificadores que obtengan el Reconocimiento de Idoneidad que otorgue la Secretaría de Educación Pública; además, deberán contar con experiencia mínima de tres años participando en la elaboración de dictámenes fiscales.
-
-b) Las personas que cuenten con registro para dictaminar estados financieros para efectos fiscales, emitido por las autoridades fiscales federales, siempre que el mismo se encuentre vigente
-
-Para obtener el registro, los solicitantes deberán encontrarse al corriente en el cumplimiento de sus obligaciones fiscales, para lo cual deberán exhibir documento vigente expedido por la Secretaría de Hacienda, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 SEPTIES.- El dictamen del cumplimiento de obligaciones fiscales deberá contener la documentación siguiente:
-
-a) Carta de presentación del dictamen;
-
-b) Cuestionario de autoevaluación fiscal:
-
-c) La verificación documental realizada;
-
-d) La revisión de bases, cálculo y entero de los impuestos correspondientes.
-
-e) La declaración, bajo protesta de decir verdad, del apego del dictamen a lo ordenado en las disposiciones fiscales, así como la opinión acerca del cumplimiento de las obligaciones fiscales del contribuyente, indicando, en su caso, las omisiones observadas, independientemente de su importancia relativa.
-
-f) La demás información y documentación que se establezca en las reglas generales administrativas que emita la Secretaría de Hacienda.
-
-Para los efectos del contenido del dictamen, su elaboración y presentación, se estará a lo dispuesto en las reglas generales administrativas que establezca la Secretaría de Hacienda.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 OCTIES.- Cuando al emitir el dictamen de obligaciones fiscales el contador público registrado no dé cumplimiento a las disposiciones referidas en este Código o en las demás leyes aplicables, la autoridad fiscal, previa audiencia, podrá amonestar al contador público registrado, o suspender hasta por dos años los efectos de su registro o cancelarlo, según proceda en los términos de éste Código. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, la autoridad fiscal procederá a la cancelación definitiva de dicho registro.
-
-En estos casos se dará aviso por escrito, inmediatamente, al colegio profesional a que pertenezca el contador público en cuestión.
-
-I.- Procede la amonestación cuando el contador público registrado:
-
-a) No proporcione o presente incompleta la información a que se refieren las leyes aplicables.
-
-La amonestación se aplicará por cada dictamen formulado en contravención a las disposiciones jurídicas aplicables, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán;
-
-b) No hubiera integrado en el dictamen la información que para efectos del proceso de envío se determine en las reglas generales administrativas que emita la Secretaría de Hacienda.
-
-En este caso, la amonestación se aplicará por cada dictamen en el que no se hubiera integrado la información que corresponda, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán, y
-
-II.- Procede la suspensión de la inscripción:
-
-a) De un año a tres años cuando el contador público inscrito:
-
-1.- Formule el dictamen en contravención a las disposiciones legales aplicables;
-
-2.- No aplique las normas de auditoría;
-
-3.- Formule dictamen estando impedido para hacerlo;
-
-4.- No exhiba, a requerimiento de la autoridad fiscal, los papeles de trabajo que le sean solicitados;
-
-5.- No informe el cambio de su domicilio fiscal;
-
-6.- No presente o lo haga de manera incompleta, la evidencia que demuestre la aplicación de los procedimientos de revisión de la situación fiscal del contribuyente;
-
-La sanción a que se refiere este inciso se aplicará por cada dictamen formulado en contravención a las disposiciones aplicables cuando no se hubiera presentado la información que corresponda, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán;
-
-b) De tres meses a un año, cuando el contador público inscrito acumule tres amonestaciones de las previstas en la fracción I de este artículo. En este caso la suspensión se aplicará una vez notificada la tercera amonestación;
-
-c) Durante el tiempo en que el contador público se encuentre sujeto a proceso penal, cuando se dicte en su contra auto de sujeción a proceso por la comisión de delitos de carácter fiscal. En este caso la suspensión no podrá exceder del término de tres años;
-
-d) No cumpla con el refrendo o recertificación de su registro para dictaminar, o no cubran los derechos que al efecto se establezcan en la Ley de Hacienda del Estado de Sonora. En este caso, la suspensión durará hasta que el contador cumpla con el refrendo, recertificación o cubra los derechos correspodientes (sic); y
-
-e) De seis meses a tres años, cuando el contador público no cumpla con el acreditamiento de la norma de educación continua o de actualización académica expedida por un colegio profesional o por una asociación de contadores públicos reconocida por la Secretaría de Educación Pública o la autoridad educativa del Estado de Sonora.
-
-Cuando la formulación de un dictamen se efectúe sin que se cumplan los requisitos de independencia por parte del contador público registrado, se procederá a la cancelación del registro del contador público, previa audiencia, conforme al procedimiento de este Código.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 41 NOVIES.- Procederá la cancelación definitiva de la inscripción a que se refiere el artículo 41 Octies, previa audiencia, en los siguientes supuestos:
-
-I.- Cuando el contador público acumule tres suspensiones de las previstas en la fracción II del artículo 41 Octies. La cancelación se aplicará una vez notificada la tercera suspensión, y
-
-II.- Cuando cause ejecutoria la sentencia definitiva que declare culpable al contador público que haya cometido un delito de carácter fiscal.
-
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-ARTÍCULO 41 DECIES.- Los establecimientos o prestadores de servicios de juegos con apuestas, sorteos o concursos, están obligados a dictaminar sus obligaciones fiscales respecto de los siguientes impuestos:
-
-I.- Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios;
-
-II.- Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos;
-
-III.- Impuesto a las Erogaciones en Juegos con Apuestas, Sorteos o Concursos.
-
-Dicho dictamen deberá ser presentado en los términos establecidos en el presente Código.
-
-## TITULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
-
-### CAPITULO UNICO
-
-###### ARTÍCULO 42.
-
-Las autoridades fiscales para el mejor cumplimiento de sus facultades, estarán a lo siguiente:
-
-I.- Proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
-
-a).- Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes;
-
-b).- Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones;
-
-c).- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia;
-
-d).- Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cuál es el documento cuya presentación se exige;
-
-e).- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales;
-
-f).- Efectuar en distintas partes del Estado reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales periodos de presentación de declaraciones; y,
-
-g).- Mandar publicar las resoluciones administrativas dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes.
-
-II.- Establecerán programas de prevención y resolución de problemas del contribuyente, a fin de que estos designen representantes ante las autoridades fiscales.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-Los representantes deberán reunir los siguientes requisitos:
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-a).- Ser licenciado en derecho, contador público o carrera afín.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-b).- Contar con reconocida experiencia y solvencia moral, así como con el tiempo necesario para participar con las autoridades fiscales en las acciones que contribuyan a prevenir y resolver los problemas de sus representados.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-c).- Prestar sus servicios en forma gratuita.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-III.- Realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover la actualización de sus datos en el Registro Estatal de Contribuyentes. Encontrándose facultada la autoridad en términos del artículo 34 de este Código, para inscribir de oficio a las personas físicas y morales que hubieran sido detectadas en dichos recorridos, en la omisión de inscribirse al Registro Estatal de Contribuyentes teniendo obligación de hacerlo.
-
-> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN III], B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en la fracción III de este artículo, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes o en su caso, inscribirlos de oficio a dicho registro.
-
-Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de confidenciales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Boletín Oficial del Estado de Sonora.
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-###### ARTÍCULO 43.
-
-Las autoridades fiscales sólo estarán obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente.
-
-La autoridad quedará obligada a aplicar los criterios contenidos en la contestación a la consulta de que se trate, siempre que se cumpla con lo siguiente:
-
-I. Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad se pueda pronunciar al respecto.
-
-II. Que los antecedentes y circunstancias que originen la consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
-
-III. Que la consulta se formule antes de que la autoridad ejerza sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
-
-La autoridad no quedará vinculada por la respuesta otorgada a las consultas realizadas por los contribuyentes cuando los términos de la consulta no coincidan con la realidad de los hechos o datos consultados o se modifique la legislación aplicable.
-
-Las respuestas recaídas a las consultas a que se refiere este artículo no serán obligatorias para los particulares, por lo cual éstos podrán impugnar, a través de los medios de defensa establecidos en las disposiciones aplicables, las resoluciones definitivas en las cuales la autoridad aplique los criterios contenidos en dichas respuestas.
-
-Las autoridades fiscales deberán contestar las consultas que formulen los particulares en un plazo de tres meses contados a partir de la fecha de presentación de la solicitud respectiva.
-
-###### ARTÍCULO 44.
-
-Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado, mediante juicio iniciado por las autoridades fiscales.
-
-Cuando la Secretaría de Finanzas modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
-
-Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
-
-Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicten autoridades fiscales al respecto no podrán ser impugnadas por los contribuyentes.
-
-###### ARTÍCULO 45.
-
-Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquel en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 51, 89, 90 fracciones I, II, VI, X, XVII y XXIV y 91 fracciones I, II, VI, y X de este Código, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente.
-
-Lo previsto en este artículo no constituye instancia, ni interrumpe, ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
-
-###### ARTÍCULO 46.
-
-Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos que otorguen una autorización, surtirán sus efectos en el ejercicio en el que se otorguen o en el ejercicio inmediato anterior, cuando se hubiera solicitado la resolución, y ésta se otorgue en los tres meses siguientes al cierre del mismo.
-
-Al concluir el ejercicio para el que se hubiere emitido una resolución de las que señala el párrafo anterior, los interesados podrán someter las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda.
-
-Este precepto no será aplicable a las autorizaciones relativas a prórrogas para el pago en parcialidades y de aceptación de garantías del interés fiscal.
-
-###### ARTÍCULO 47.
-
-Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de tres meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
-
-Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
-
-###### ARTÍCULO 48.
-
-Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-I.- Constar por escrito en documento impreso o digital.
-
-Tratándose de actos administrativos que consten en documentos digitales la notificación personal se hará por medios electrónicos y con la firma digital del funcionario competente.
-
-(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
-
-II.- Señalar lugar y fecha de emisión;
-
-(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
-
-III.- Señalar la autoridad que lo emite;
-
-(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
-
-IV.- Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
-
-(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
-
-V.- Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación;
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Para la emisión y regulación de los documentos digitales, de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría de Hacienda y, para la notificación por medios electrónicos serán aplicables las disposiciones previstas en las leyes de la materia.
-
-Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
-
-###### ARTÍCULO 49.
-
-Procederá la condonación total o parcial de créditos fiscales cuando se haya afectado o trate de impedirse se afecte la situación de alguna región de la entidad, o de alguna rama de las actividades económicas.
-
-El Gobernador del Estado, mediante disposiciones de carácter general determinará el monto de los créditos que se condonen, los sujetos que gozarán del beneficio; la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-###### ARTÍCULO 50.
-
-Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios o terceros relacionados con ellos, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades, observando estrictamente el siguiente orden:
-
-I.- Solicitar el auxilio de la fuerza pública;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-II.- Imponer la multa que corresponda en los términos de este Código;
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-III.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente; y/o
-
-> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-IV.- Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 50-A de este Código.
-
-Para efectos de este artículo, las autoridades judiciales estatales y los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que se utilice para el desempeño de las actividades de los contribuyentes, para estar en posibilidad de iniciar el acto de fiscalización o continuar el mismo; así como en brindar la seguridad necesaria a los visitadores.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-En los casos que se requiera de cuerpos de seguridad pública del Estado o de los municipios, el apoyo se solicitará en los términos de los ordenamientos que regulan la seguridad pública.
-
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
-
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+III.- Será bivalente el que atienda las dos finalidades señaladas en las dos fracciones anteriores.
 
 ###### ARTÍCULO 50-A.
 
@@ -1169,1433 +659,847 @@ Tratándose de los supuestos establecidos en el inciso b) de la fracción I de e
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 51.
+###### ARTICULO 51.
 
-Cuando las personas obligadas a presentar avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo de la siguiente manera:
+En la impartición de la educación media superior con preparación de conocimientos técnicos especializados y formación para el trabajo, las autoridades educativas locales podrán escuchar las opiniones del sector productivo para la elaboración de planes y programas de estudio que permitan a los educandos adquirir los conocimientos, habilidades y destrezas que faciliten su incorporación al desarrollo económico tanto estatal como nacional.
 
-I. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido, para que sea exhibido en un plazo de quince días para el primero y de seis días para los subsecuentes requerimientos. Si no se atiende el requerimiento se impondrá la multa correspondiente, que tratándose de declaraciones será una multa por cada obligación omitida. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión, pudiendo en este caso, si resulta procedente, formular querella en los términos del artículo 94 de este Código.
+### CAPITULO IX. DE LA EDUCACION SUPERIOR
 
-II. Tratándose de la omisión en la presentación de una declaración periódica que implique omisión en el pago de algunas contribuciones, una vez realizadas las acciones previstas en la fracción anterior, la autoridad fiscal podrá hacer efectiva al contribuyente que haya incurrido en la omisión o a los responsables solidarios, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones de la contribución de que se trate. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
+###### ARTICULO 52.
 
-Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la autoridad fiscal podrá hacer efectiva al contribuyente, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+La educación superior que esté a cargo del Gobierno del Estado tendrá como antecedente el bachillerato o su equivalente, e incluirá: educación tecnológica, educación normal, la que se imparta en la Universidad Pedagógica del Estado de Morelos, y demás para la formación de docentes de educación básica; así como opciones terminales posteriores al bachillerato o previas a la conclusión de la licenciatura.
 
-Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
+###### ARTICULO 53.
 
-La determinación del crédito fiscal que realice la autoridad con motivo del incumplimiento en la presentación de declaraciones en los términos del presente artículo, podrá hacerse efectiva a través del procedimiento administrativo de ejecución a partir del tercer día siguiente a aquél en el que sea notificado el adeudo respectivo.
+El Gobierno del Estado promoverá, en coordinación con las autoridades federales, la consolidación y el desarrollo de las instituciones públicas de educación superior, dentro del ámbito de su competencia y conforme a los lineamientos que fije la legislación aplicable.
 
-En caso del incumplimiento a tres o más requerimientos respecto de la misma obligación, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+La política estatal para la educación superior atenderá a su carácter estratégico, en la producción y orientación de conocimientos que incidan en el desarrollo económico, social y cultural del Estado, con la formación de los profesionistas que demanda la sociedad, atendiendo a las necesidades de las diversas regiones de la Entidad y conforme al Programa Estatal de Educación.
 
-En el caso de la fracción I de este artículo y agotados los actos señalados en el mismo, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+###### ARTICULO 54.
 
-Lo anterior, sin perjuicio de que las autoridades fiscales ejerzan sus facultades de comprobación.
+La autoridad educativa del Estado, por conducto del órgano técnico de planeación, hará las recomendaciones que estime pertinentes para mantener una comunicación efectiva entre las instituciones públicas y privadas en relación con el servicio educativo, su calidad y su evaluación, así como sobre el crecimiento y expansión curricular, evitando duplicidades y esfuerzos en la esfera educativa, en beneficio de la sociedad.
 
-###### ARTÍCULO 52.
+###### ARTICULO 55.
 
-Las autoridades fiscales podrán solicitar a los contribuyentes, responsables solidarios o terceros, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en sus declaraciones normales o complementarias, siempre que se soliciten en un plazo no mayor de treinta días siguientes a la presentación de las citadas declaraciones. Las personas antes mencionadas deberán proporcionar la información solicitada dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la solicitud correspondiente.
+La política estatal de educación en un marco de respeto y colaboración hacia las instituciones públicas de este tipo educativo, buscará en todo momento, coadyuvar al mejoramiento institucional, a mantener criterios confiables de evaluación, de ampliación de la cobertura y prever la configuración de fenómenos negativos que impacten la calidad del servicio educativo.
 
-Asimismo, aquellas personas que tengan o hayan tenido relaciones de negocios con sujetos pasivos o responsables solidarios, están obligados a exhibir ante las autoridades fiscales los asientos de su contabilidad, la documentación y la correspondencia que se refiera a las operaciones realizadas con aquellos, así como a proporcionar toda información que en relación con dichas personas se les solicite.
+###### ARTICULO 56.
 
-No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
+Las instituciones públicas de educación superior, contarán de una manera permanente con mecanismos eficaces de evaluación que les permitan orientar y optimizar la función pública educativa, manteniendo criterios de calidad, fomentando la idea de Nación y Patria, así como procurar la formación humana y un elevado compromiso social de sus estudiantes.
 
-###### ARTÍCULO 53.
+###### ARTICULO 57.
 
-Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
+El Gobierno del Estado, a través de la autoridad educativa, participará mediante gestiones ante las autoridades federales de educación, grupos sociales e instituciones para el financiamiento de la educación superior, a fin de obtener fondos y recursos que mejoren la educación pública superior. Particularmente para las instituciones que ofrecen el servicio educativo en regiones estratégicas para el desarrollo del Estado.
 
-I.- Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate;
+###### ARTICULO 58.
 
-II.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran;
+En el Estado de Morelos, se promoverá el desarrollo de la educación superior de carácter público y privado, apoyando para ello con mecanismos que simplifiquen los requisitos necesarios para ofrecer el servicio educativo, sin menoscabo de su calidad, oportunidad e infraestructura mínima que requiere en cada caso.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+###### ARTICULO 59.
 
-Para los efectos del párrafo anterior, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
+El Estado promoverá la celebración de convenios con los Colegios y Asociaciones de Profesionistas, así como con los centros o entidades de capacitación de las empresas, en el desarrollo y vinculación de las instituciones de educación superior. Para ello, se establecerán programas de educación y todas aquellas formas de enseñanza que permitan la mutua consolidación del conocimiento y sus aplicaciones.
 
-III.- Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
+###### ARTICULO 60.
 
-IV.- Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
+La educación superior que se imparta en los institutos tecnológicos tendrá las características siguientes:
 
-V.- Proceder a la verificación física de toda clase de bienes, incluso durante su transporte u ordenar se practique avalúo sobre los mismos;
+I.- Promoverá y afirmará en los estudiantes una formación acorde a los requerimientos del desarrollo socioeconómico del país y del Estado, poniendo énfasis en los conocimientos básicos y tecnológicos, vinculándolos con el sector productivo;
 
-VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
+II.- Dotará a los estudiantes de los conocimientos adecuados que les permitan el aprovechamiento de los avances científicos y tecnológicos, aplicables en el ejercicio de su profesión;
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
+III.- Infundirá a los estudiantes una actitud crítica, reflexiva e innovadora que les permita incorporarse al proceso de modernización, y
 
-VII.- Allegarse de las pruebas necesarias para formular la querella al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la Ley relativa concede a las actas de las policías estatales; y la Secretaría de Hacienda, a través de los abogados hacendarios que designe, será coadyuvante del ministerio público del fuero común, en los términos del Código Nacional de Procedimientos Penales;
+IV.- Fomentará en los estudiantes una clara conciencia de la responsabilidad ética y social que contraerán en el ejercicio de su profesión.
 
-> <small>(REFORMADA PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+###### ARTICULO 61.
 
-VIII.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la presentación de solicitudes o avisos del Registro Estatal de Contribuyentes.
+La educación que se imparta en las escuelas normales tendrá las siguientes características:
 
-ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)
+I.- Desarrollará y afirmará en los estudiantes la vocación magisterial;
 
-Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
+II.- Dedicará especial atención a la educación que imparta el Gobierno del Estado, de acuerdo con las bases establecidas por la presente Ley;
 
-Para los efectos de lo dispuesto en la fracción anterior, las visitas domiciliarias se realizarán conforme a lo siguiente:
+III.- Dotará a los estudiantes normalistas de una cultura general y pedagógica, con las bases teóricas y prácticas que los capaciten para realizar eficazmente el servicio educativo tanto en el medio rural como el urbano;
 
-a).- Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen mercancías.
+IV.- Infundirá en los estudiantes, un alto espíritu profesional, nacionalista y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, propugnando por el progreso, la armonía, la libertad y el bienestar social;
 
-b).- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección.
+V.- Formará en los educandos una sólida conciencia social para la interpretación y observancia de la Constitución Política de los Estados Unidos Mexicanos y la del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VI.- Proporcionará a los estudiantes un conocimiento amplio sobre los contenidos básicos de la ecología para que puedan orientar a las comunidades en el mejoramiento del medio ambiente;
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+VII.- Pugnará para que se comprendan e interpreten los principios de nuestras relaciones internacionales, fundamentadas en la independencia, soberanía y la solidaridad entre las naciones, bajo el principio de la no intervención y autodeterminación de los pueblos, incluida la idea de que las relaciones entre los pueblos son indispensables, por razones esencialmente humanísticas, independientemente de su régimen económico, político y social;
 
-c).- Los visitadores se deberán identificar mediante el documento oficial que los acredite como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
+VIII.- Promoverá y pugnará por la constante actualización y superación académica del Magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado;
 
-d).- En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código, o en su caso, las irregularidades detectadas durante la inspección.
+IX.- Desarrollará y formará en los educandos una sólida conciencia de valores morales necesarios para la convivencia social, respetuosa entre otras cosas de los derechos humanos y de todas las manifestaciones de la vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe; y
 
-e).- Si al cierre del acta de visita domiciliaria, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma, dándose por concluida la visita domiciliaria.
+X.- Fortalecerá la conciencia de la identidad y cultura nacional, como el principio fundamental de la independencia y soberanía del País.
 
-f).- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimiento a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Si se observa que el visitado no se encuentra inscrito en dicho registro, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
+###### ARTICULO 62.
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+La autoridad educativa competente regulará el establecimiento y la inscripción de las instituciones que impartan educación normal, conforme a la demanda de atención que requiera el Sistema Educativo Estatal.
 
-IX.- Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad o que sea obtenida a través de cualquier autoridad ya sea de carácter federal, estatal o municipal, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
+###### ARTICULO 63.
 
-Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+Los beneficiados directamente por los servicios educativos que hayan cursado estudios de nivel medio superior terminal o superior, deberán prestar servicio social en los casos y términos que señalen las disposiciones reglamentarias correspondientes, como requisito previo para obtener título o grado académico.
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+###### ARTICULO 64.
 
-Las autoridades fiscales que estén ejerciendo algunas de las facultades previstas en las fracciones II, III y IX de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquel, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial, del oficio de observaciones o de la resolución definitiva en el caso de revisiones electrónicas, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
+La Universidad Pedagógica del Estado de Morelos, a cargo de la autoridad educativa local, tendrá como finalidad prestar, desarrollar y orientar servicios educativos de tipo superior encaminados a la formación de profesionales de la educación, la investigación en materia educativa y la difusión cultural, de acuerdo a las necesidades del País, del Estado y la región.
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+###### ARTICULO 65.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad emitirá la última acta parcial, el oficio de observaciones o la resolución definitiva en el caso de revisiones electrónicas, señalando en estas actuaciones la asistencia o inasistencia de los interesados para ejercer su derecho a conocer el estado del procedimiento a que está siendo sujeto; previamente a ello, deberá levantarse un acta circunstanciada en la que se haga constar esta situación.
+El Sistema Educativo Estatal podrá impartir opciones terminales posteriores al bachillerato y previas a la conclusión de la licenciatura, de acuerdo a las características y necesidades de desarrollo económico de cada región.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+###### ARTICULO 66.
 
-###### ARTÍCULO 54.
+El Gobierno del Estado, promoverá el establecimiento de los organismos públicos o privados necesarios para garantizar las condiciones que permitan el desarrollo de la educación media superior y superior, la investigación científica, humanística y tecnológica, con objeto de cumplir, entre otras, con la (sic) siguientes finalidades:
 
-Las autoridades fiscales podrán solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización, sin que se cumpla con lo dispuesto por las fracciones IV a VIII del artículo 61 de este Código.
+I.- Fortalecer la infraestructura científica;
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+II.- Fomentar la vinculación entre las instituciones de investigación y los sectores productivos;
 
-Así mismo, las autoridades que tengan o hayan tenido relaciones con alguno o algunos de los sujetos pasivos o responsables solidarios, deberán auxiliar a la Secretaría de Hacienda suministrándole los informes y datos que solicite para la aplicación de las leyes fiscales.
+III.- Propiciar y fortalecer la participación de la comunidad académica en actividades de divulgación científica;
 
-> <small>(F. DE E., B.O. 12 DE FEBRERO DE 2007)</small>
+IV.- Fomentar la coordinación de proyectos entre las instituciones de investigación y los sectores productivos del Estado;
 
-No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
+V.- Realizar estudios para la transferencia de resultados de la investigación científica y tecnológica al entorno socio-económico;
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+VI.- Realizar acciones de enlace de la sociedad con las áreas de educación superior y de investigación para la solución científica de los problemas prioritarios del Estado;
 
-ARTICULO 54 BIS.- Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionado (sic) al Registro Estatal de Contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, o para constatar que los contribuyentes se encuentran inscritos al registro mencionado, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
+VII.- Proporcionar servicios de asesoría e información científica a la comunidad, y
 
-Cuando con motivo de las verificaciones citadas en el párrafo que antecede, la autoridad detecte inconsistencias en los datos proporcionados al Registro Estatal de Contribuyentes, proporcionará al contribuyente las formas oficiales pertinentes para que indique en ellas los datos correctos y se las devuelva en ese mismo acto a la autoridad, a fin de que actualice dicho registro. La autoridad cotejará con la documentación idónea, que sea correcta la información asentada por el contribuyente en dicha forma oficial.
+VIII.- Estimular el flujo de recursos financieros para la creación de empresas que propongan nuevos usos de la tecnología.
 
-Asimismo, cuando se constate que un contribuyente no se encuentra inscrito al Registro Estatal de Contribuyentes estando obligado a ello, la autoridad lo inscribirá de oficio, observando para ello lo dispuesto en el artículo 34 de este Código.
+### CAPITULO X. DE LA EDUCACION PARA LOS ADULTOS
 
-###### ARTÍCULO 55.
+###### ARTICULO 67.
 
-En la orden de visita, además de los requisitos a que se refiere el artículo 48 de este Código, se deberá indicar:
+La educación para los adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación básica y comprende, entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo. Esta educación se apoyará en la solidaridad social.
 
-I.- El lugar o lugares donde debe efectuarse la visita. El aumento de lugares a visitar deberá notificarse al visitado;
+###### ARTICULO 68.
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+El Gobierno del Estado, a través de la autoridad educativa local, impartirá educación abierta que ofrezca a los adultos servicios integrados desde la alfabetización hasta el nivel medio superior para que los ciudadanos tengan diferentes opciones para iniciar y en su caso, continuar su educación.
 
-II.- El nombre de la persona o personas que deban efectuar la visita las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado;
+Los estudios realizados por los adultos en el sistema abierto tendrán validez oficial y una duración de acuerdo a su capacidad y disponibilidad de tiempo. Los beneficiarios de esta educación podrán acreditar los conocimientos adquiridos mediante exámenes parciales o globales, conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+###### ARTICULO 69.
 
-III.- Las contribuciones de cuya verificación se trate y, en su caso, el período al que deberá limitarse la visita; y
+El Ejecutivo del Estado, podrá sin perjuicio de las disposiciones de las autoridades educativas federales y conforme a la Ley General de Educación, emitir lineamientos referidos a la formación para el trabajo en la Entidad, en atención a sus requerimientos particulares, con el objeto de definir aquellos conocimientos o destrezas susceptibles de certificación, así como los procedimientos de evaluación correspondientes.
 
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+###### ARTICULO 70.
 
-IV.- Tratándose de las visitas domiciliarias a que se refiere el artículo 56 de este Código, las órdenes de visita deberán contener impreso el nombre del visitado.
+La formación para el trabajo procurará la adquisición de conocimientos y el desarrollo de habilidades o destrezas, que permitan a quien la reciba, desempeñar una actividad productiva demandada en el mercado de trabajo, para obtener alguna ocupación o algún oficio calificados.
 
-Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+En la decisión sobre los servicios de formación para el trabajo ofertados por el Estado, se considerarán las necesidades, propuestas y opiniones de los diversos sectores productivos, a nivel municipal y Estatal.
 
-###### ARTÍCULO 56.
+Podrán celebrarse convenios para que la formación para el trabajo se imparta por los ayuntamientos, las instituciones privadas, las organizaciones sindicales, las empresas y demás particulares.
 
-En los casos de visita en el domicilio fiscal, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
+La formación para el trabajo que se imparta en términos del presente Artículo, será adicional y complementaría a la capacitación prevista en la fracción XIII del apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-I.- La visita se realizará en el lugar o lugares señalados en la orden de visita;
+###### ARTICULO 71.
 
-II.- Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado;
+La acreditación de los conocimientos a que se refiere este Capítulo, adquiridos por los adultos, se regirá por lo dispuesto en los artículos 68 y 110 de esta Ley.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+###### ARTICULO 72.
 
-Si el contribuyente presenta aviso de cambio de domicilio, después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que se levante, salvo que en el domicilio anterior se verifique alguno de los supuestos establecidos en el Artículo 15 de este Código, caso en el cual la visita se continuará en el domicilio anterior.
+La autoridad educativa local promoverá acciones tendientes a ampliar el alcance de la educación para adultos. Para ello, a través de las actividades que realicen sus dependencias, fomentará la difusión de la cultura, el funcionamiento de asociaciones culturales, el empleo productivo del tiempo libre de los individuos y el conocimiento para el mejoramiento de la vida familiar y social.
 
-Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+Se concertarán acciones y programas de educación para adultos que promueva la federación para reducir conjuntamente el rezago educativo, dando prioridad a la alfabetización y a la educación básica en los municipios más afectados por la marginación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+###### ARTICULO 73.
 
-III. Al iniciarse la visita en el domicilio fiscal los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos, si estos no son designados o los designados no aceptan ser ' { (sic) ir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita;
+Las escuelas que se establezcan en cumplimiento de la obligación prevista en la fracción XII del apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, quedarán bajo la dirección administrativa de la autoridad educativa estatal correspondiente y contarán con edificio propio, instalaciones y demás elementos necesarios para realizar su función, de conformidad con lo que señalen las disposiciones aplicables; el sostenimiento de estas instituciones educativas, comprende la obligación patronal de proporcionar los recursos económicos para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorguen las Autoridades Educativas Estatales en igualdad de circunstancias.
 
-Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+### CAPITULO XI. DE LA EDUCACION INFORMAL
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+###### ARTICULO 74.
 
-Si al cierre del acta que se levante, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la diligencia.
+En concordancia con el artículo anterior, las autoridades educativas estatales podrán celebrar convenios con los patrones para cumplir eficientemente con la función educativa.
 
-IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes para solicitarles practiquen otras visitas para comprobar hechos relacionados con las que estén practicando.
+###### ARTICULO 75.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+La educación informal es la que se adquiere en los espacios sociales diferentes al ámbito escolar e influye en el desarrollo personal y social de los individuos.
 
-###### ARTÍCULO 57.
+###### ARTICULO 76.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+Para propiciar el desarrollo de sus comunidades el Estado impulsará la educación informal a través de las siguientes acciones:
 
-Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio que autoricen las disposiciones fiscales federales, deberán poner a disposición de los visitadores estatales el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
+I.- Misiones culturales;
 
-Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que, previo cotejo con los originales, se certifiquen por los visitadores:
+II.- Programas de preservación y mejoramiento de la salud;
 
-I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden;
+III.- Programas de mejoramiento y preservación del medio ambiente;
 
-II.- Existan sistemas de contabilidad, registros o libros sociales, que no estén sellados, cuando deban estarlo conforme a las disposiciones fiscales;
+IV.- Fomento al desarrollo artístico y artesanal;
 
-III.- Existan dos o más sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados;
+V.- Procurar el conocimiento de la historia y geografía del Estado;
 
-IV.- Se lleven dos o más libros sociales similares con distinto contenido;
+VI.- Rescate y conservación del patrimonio cultural comunitario;
 
-V.- No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita;
+VII.- Fomento del servicio a la comunidad en una participación social comprometida, y
 
-VI.- Los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados o cuando los documentos que amparen los actos o actividades del visitado no aparezcan asentados en dicha contabilidad, dentro del plazo que señalen las disposiciones fiscales o cuando sean falsos o amparen operaciones inexistentes;
+VIII.- Las demás que tiendan al bienestar individual y social.
 
-VII.- Se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados;
+###### ARTICULO 77.
 
-VIII.- Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad sólo podrá recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores; y,
+Para impulsar la educación informal el Gobierno del Estado hará uso de los avances de la tecnología a su alcance.
 
-IX.- Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+###### ARTICULO 78.
 
-En los supuestos a que se refieren las fracciones anteriores, se entenderá que la contabilidad incluye, entre otros, los papeles, discos y cintas, así como cualquier otro medio procesable de almacenamiento de datos.
+El Gobierno del Estado utilizará los medios masivos de comunicación para impulsar el desarrollo social, cultural y educativo en la Entidad.
 
-En el caso de que los visitadores obtengan copias certificadas de la contabilidad por encontrarse el visitado en cualquiera de los supuestos previstos por el tercer párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 58 de este Código, con la que podrá terminar la visita domiciliaria en el domicilio o establecimientos del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación en el domicilio del visitado o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+###### ARTICULO 79.
 
-Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias de sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los que se obtuvieron copias, pudiéndose continuar la visita en el domicilio o establecimientos del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado, salvo lo dispuesto en la fracción VIII de este artículo.
+Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la investigación científica y tecnológica, el Gobierno del Estado, los Municipios y sus organismos descentralizados, fomentarán la producción y difusión de libros, revistas, folletos y demás formas de comunicación.
 
-###### ARTÍCULO 58.
+###### ARTICULO 80.
 
-La visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
+Corresponde al Gobierno del Estado la planeación, organización, administración y evaluación del Sistema Educativo Estatal a través de las autoridades educativas locales las cuales tendrán la estructura técnica y administrativa que les permita lograr la mayor eficiencia y productividad.
 
-I.- De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado;
+## TITULO CUARTO. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
-II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial cumpliendo al respecto con lo previsto en la fracción III del artículo 56 de este Código;
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 22 DE AGOSTO DE 2012)</small>
 
-III.- Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho aseguramiento no impida la realización de las actividades del visitado. Para efectos de esta fracción, se considera que no se impide la realización de actividades cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo;
+### CAPITULO I. DE LOS PADRES DE FAMILIA
 
-IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita;
+### CAPITULO I. DE LOS TIPOS Y MODALIDADES
 
-Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+###### ARTICULO 81.
 
-Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad.
+El Titular del Poder Ejecutivo, expedirá el Programa Estatal de Educación, tomando en cuenta la propuesta que le presente la autoridad educativa local.
 
-V.- Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
+El Programa Estatal de Educación se formulará en congruencia con el Plan Estatal de Desarrollo y con el Proyecto Educativo que formule la autoridad educativa estatal, quien deberá considerar la opinión de los diversos sectores involucrados en el ámbito de la educación para su elaboración.
 
-VI.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que este presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma;
+###### ARTICULO 82.
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+El Proyecto Educativo del Estado, es el instrumento que permite integrar los esfuerzos de las autoridades, organismos e instituciones educativas, públicas y privadas, orientadas al desarrollo educativo, debiendo contener por lo menos los siguientes elementos:
 
-VII.- Se entenderá que las actas parciales forman parte integrante del acta final de la visita aunque no se señale así expresamente;
+I.- Diagnóstico de la educación en el Estado;
 
-VIII.- Una vez notificada el acta final, sin que el contribuyente hubiere corregido su situación fiscal, la autoridad emitirá la resolución que determine los créditos fiscales correspondientes y la notificará al contribuyente conforme al artículo 127 de este Código.
+II.- Instrumentos de planeación y control;
 
-> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+III.- Instrumentos de evaluación permanente;
 
-IX.- Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento a partir de la violación formal cometida.
+IV.- Proyectos estratégicos;
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+V.- Líneas de acción, y
 
-Lo señalado en el párrafo anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+VI.- Participación directa de la sociedad.
 
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, solo se podrá efectuar la nueva revisión cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación, previstas en las disposiciones fiscales; a menos que en este último supuesto, la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado el incidente respectivo haya sido declarado improcedente.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+###### ARTICULO 83.
 
-###### ARTÍCULO 59.
+El Proyecto Educativo del Estado, estará encaminado a elevar la calidad de la educación que se imparta, así como promover la cultura, los valores, la prevención de las adicciones, el bienestar personal y el respeto a los derechos humanos.
 
-Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contado a partir de que se notifique a los contribuyentes el inicio de las facultades de comprobación.
+###### ARTICULO 84.
 
-El plazo para concluir las visitas domiciliarias o las revisiones de gabinete a que se refiere el párrafo anterior, se suspenderá en los siguientes casos:
+La Autoridad Educativa en el Estado dará a conocer a los trabajadores de la educación, sus organismos sindicales, alumnos, padres de familia y a la sociedad en general, los resultados y alcances del Proyecto Educativo.
 
-l.- Huelga, a partir de que se suspenda temporalmente el trabajo, y hasta que termine la huelga;
+### CAPITULO II. DE LA EVALUACION EDUCATIVA
 
-II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión;
+###### ARTICULO 85.
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+Las Autoridades Educativas Estatales y Municipales, evaluarán en forma sistemática y permanente al Sistema Educativo Estatal de manera coordinada y concurrente con las autoridades educativas federales.
 
-III.- Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se localice en el que haya señalado, hasta en tanto se localice;
+###### ARTICULO 86.
 
-IV.- Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+Se declara de interés público la evaluación del Sistema Educativo Estatal; los organismos e instituciones educativas pertenecientes al Sistema, tienen la obligación de contribuir a la evaluación y al derecho de conocer los resultados de la misma.
 
-> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+###### ARTICULO 87.
 
-V.- Tratándose de la fracción IX del artículo anterior, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
+Para la planeación y evaluación del desarrollo educativo del Estado, el Gobernador, a través de una Comisión Mixta de Evaluación del Sistema Educativo en el Estado, establecerá un sistema de evaluación de carácter permanente de participación y consulta con los sectores educativos y sociales, principalmente aquellos sectores involucrados en los aspectos educativos, sus organizaciones sindicales, las instituciones particulares de educación y sus organismos representativos, que se encargue de:
 
-Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento; y
+I.- Actuar como cuerpo especializado de consulta en la evaluación educativa, en todos sus niveles y tipos;
 
-> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+II.- Diseñar, desarrollar, establecer y aplicar los programas y demás disposiciones técnicas que se requieran para la evaluación del Sistema Educativo en el Estado;
 
-VI.- Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Boletín Oficial del Estado y en la página de internet de la Secretaría de Hacienda.
+III.- Proponer las medidas adecuadas y presentar estudios técnicos a las autoridades educativas en el Estado, para mejorar el servicio educativo;
 
-Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa en contra de los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+IV.- Verificar que las normas pedagógicas, contenidos, planes y programas de estudios, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje se cumplan en los planteles educativos.
 
-Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones o, en su caso, el de conclusión de la revisión dentro del plazo mencionado, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+El Titular del Poder Ejecutivo promoverá con las autoridades encargadas de los niveles medio superior y superior la celebración de convenios para que éstas se incorporen, en la medida que sus propias normatividades lo permitan, a los trabajos de esta Comisión, la que tendrá las atribuciones y la organización que le señale el reglamento correspondiente.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+###### ARTICULO 88.
 
-###### ARTÍCULO 60.
+Son derechos de quienes ejercen la patria potestad o tutela:
 
-Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente cuando el visitado se encuentre obligado a dictaminar sus estados financieros por contador público autorizado o cuando el contribuyente haya ofrecido la opción a que se refiere el párrafo quinto del artículo 32-A del Código Fiscal de la Federación. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en los términos del artículo 67 de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no se presente dentro de los plazos que establece el artículo 67-Bis de este ordenamiento, la información o documentación solicitada, ni cuando en el dictamen exista abstención de opinión negativa o salvedades, que tengan implicaciones fiscales.
+I.- Ser reconocidos como agente natural y primario de la educación, así como elegir para sus hijos o pupilos la instrucción educativa pública o particular que les convenga;
 
-En el caso de conclusión anticipada a que se refiere el párrafo anterior se deberá levantar acta en la que se señale la razón de tal hecho.
+II.- Obtener la inscripción en escuelas públicas o particulares para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación en los niveles, tipos y modalidades que imparta el Estado;
 
-###### ARTÍCULO 61.
+III.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
 
-Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+IV.- Votar y ser votado para formar parte de la Asociación de Padres de Familia de los establecimientos educativos en los que se encuentren inscritos sus hijos, o aquellos sobre quienes ejerzan la patria potestad o tutela, de la Asociación Estatal de Padres de Familia y Consejos de Participación Social.
 
-I.- La solicitud se notificará de conformidad con lo establecido en el artículo 127 de este Código, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde estas se encuentren. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal, lo esperen a hora determinada del día hábil siguiente para recibir la solicitud; si no lo hicieren, la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma;
+V.- Colaborar con las autoridades escolares para la superación de los educandos, así como coadyuvar en el mejoramiento de los planteles escolares;
 
-II.- En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los informes o documentos;
+VI.- Notificar por escrito a las autoridades escolares y educativas, las irregularidades que observen en la prestación del servicio educativo, y (sic)
 
-III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
+VII.- Opinar en relación con las contraprestaciones que las escuelas particulares fijen.
 
-IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario;
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados;
+VIII.- Quienes ejerzan la patria potestad o tutela, tienen derecho de asistir al Programa de Escuela de padres y tutores de las instituciones educativas en que estén inscritos sus hijos o pupilos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+###### ARTICULO 89.
 
-VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción. El contribuyente o responsable solidario contará con un plazo de veinte días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
+Son obligaciones de quienes ejercen la patria potestad o tutela:
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación preescolar, primaria y la secundaria;
 
-Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
+II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
-El plazo que se señala en el primer párrafo de esta fracción es independiente del que se establece en el artículo 59 de este Código.
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas y sociales que las mismas realicen, y (sic)
 
-VII.- Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción VI, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de declaraciones normales o complementarias que corrijan su situación fiscal, de la que proporcionará copia a la autoridad revisora; y,
+IV.- Coadyuvar en la medida de sus posibilidades con las autoridades educativas en la construcción, mantenimiento y mejoramiento de los planteles educativos.
 
-VIII.- Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+V.- Acudir al menos al 70 por ciento de las sesiones del Programa Escuela de padres y tutores de las instituciones educativas en que estén inscritos sus hijos o pupilos.
 
-Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 62.
+### CAPITULO II. DE LA ESCUELA DE PADRES Y TUTORES
 
-Las autoridades fiscales que al ejercer las facultades de comprobación a que se refiere el artículo 61, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución.
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
-Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere el artículo 61, le darán a conocer a éste el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro de los plazos a que se refiere la fracción VI del citado artículo 61.
+ARTICULO 89 BIS.- Las instituciones educativas públicas y privadas y las que cuenten con autorización o reconocimiento de validez oficial de estudios que impartan los tipos de educación básica, media y media superior; deberán contar con un programa de escuela de padres y tutores;
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+I.- La escuela de padres y tutores tiene por objeto, el desarrollo personal de los hijos o pupilos ofreciéndole a los padres o tutores la información y conocimientos básicos sobre diferentes temas con el objetivo de proporcionarles capacitación profesional para ejercer correctamente su función.
 
-ARTÍCULO 62 BIS.- Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 61 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo a que se refiere la fracción VI del artículo 61 de este Código.
+II.- La escuela de padres y tutores propiciará entre otros, facilitar recursos educativos y formativos a los padres o tutores, para promover en sus hijos o pupilos valores, actitudes, habilidades personales, hábitos y conductas sociales sanas que les permitan interactuar de mejor manera con su entorno y propiciar en ellos un mejor desarrollo educativo, comunitario y personal.
 
-El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 59 de este Código.
+III.- La duración de la escuela de padres y tutores en ningún caso, podrá ser menor a 10 sesiones por ciclo escolar, y cada sesión no podrá durar menos de 90 minutos efectivos en su desarrollo.
 
-Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa en el país o en el extranjero, contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+IV.- Los temas a desarrollar en la escuela de padres y tutores deberán ser incluidos en un manual didáctico en el Reglamento que para tal efecto expida el Titular del Ejecutivo del Estado.
 
-Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+Además de que sus contenidos deberán en todo momento respetar los derechos humanos de los individuos, su dignidad, origen étnico, condición social, condiciones de salud, preferencias sexuales, estado civil así como sus ideologías, creencias religiosas, costumbres, y deberán fomentar la tolerancia y el respeto en general a la dignidad humana como valores primordiales.
 
-En dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el recurso administrativo y en el juicio contencioso administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
+V.- Los comités de padres de familia en conjunto con los educadores elaboraran al inicio de cada ciclo escolar el cronograma de actividades en el que se incluyan los siguientes aspectos:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+a) Temporalidad, y calendario de las sesiones de la escuela de padres y tutores.
 
-Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados· por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, de conformidad con lo previsto en el último párrafo del artículo 58 de este Código.
+b) Temas a desarrollar y tipo de las sesiones.
 
-###### ARTÍCULO 63.
+### CAPITULO III. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
-En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente responsable solidario o tercero, se estará a lo siguiente:
+###### ARTICULO 90.
 
-I.- Se tendrán los siguientes plazos para su presentación:
+En cada establecimiento educativo habrá por lo menos una asociación integrada por padres de familia, tutores o por quienes ejerzan la patria potestad de los educandos por cada tipo de instrucción.
 
-a).- Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
+###### ARTICULO 91.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+Las asociaciones de padres de familia tendrán por objeto:
 
-b).- Seis días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
+I.- Representar los intereses que en materia educativa sean comunes a los asociados;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+II.- Colaborar en el mejoramiento de la comunidad escolar y proponer a las autoridades escolares y educativas las medidas que estimen conducentes, y coadyuvar en el mejoramiento de los planteles educativos;
 
-c).- Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
+III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar;
 
-Los plazos a que se refiere este inciso, se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+IV.- Propiciar el mejoramiento social y cultural de sus miembros;
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y
 
-ARTÍCULO 63 BIS.- Para los efectos de lo dispuesto en el artículo 53, fracción IX de este Código, las revisiones electrónicas se realizarán conforme a lo siguiente:
+VI.- La organización y el funcionamiento de las asociaciones de padres de familia en lo concerniente a sus relaciones con las autoridades escolares municipales y estatales se sujetarán a las disposiciones que la autoridad educativa federal señale.
 
-I.- Con base en la información obtenida en coordinación con otras autoridades federales, estatales o municipales, que obre en su poder, las autoridades fiscales darán a conocer los hechos que pudieran derivar en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional cuando los hechos consignados sugieran el pago de algún crédito fiscal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
 
-En caso de que el contribuyente acepte los hechos e irregularidades contenidos en la resolución provisional, podrá optar por corregir su situación fiscal dentro del plazo de quince días señalado en el párrafo que antecede, mediante el pago total de las contribuciones y aprovechamientos omitidos, junto con sus accesorios, en los términos contenidos en la resolución, en cuyo caso, gozará del beneficio de pagar una multa equivalente al 20% de las contribuciones omitidas.
+###### ARTICULO 92.
 
-La resolución provisional se considerará definitiva cuando el contribuyente acepte voluntariamente los hechos e irregularidades contenidos en la misma y entere el crédito fiscal propuesto, o bien, cuando ejerza el derecho a que se refiere la fracción II de este artículo o cuando ejerciéndolo, no logre desvirtuar los hechos o irregularidades contenidos en la resolución provisional. En todo momento la autoridad fiscal podrá ejercer sus facultades de comprobación y estar a lo dispuesto en el último párrafo del artículo 62 BIS de este Código;
+Son atribuciones de las asociaciones de Padres de Familia:
 
-II.- En la resolución provisional se le requerirá al contribuyente, responsable solidario o tercero, para que en un plazo de quince días siguientes a la notificación de la citada resolución, manifieste lo que a su derecho convenga y proporcione las pruebas, tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones o aprovechamientos consignados en la resolución provisional; y
+I.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos y de su funcionamiento;
 
-III.- Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
+II.- Reunir fondos con aportaciones voluntarias y/o actividades de sus miembros para los fines de la educación, los cuales serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante bienes o servicios;
 
-a) Efectuará un segundo requerimiento al contribuyente, dentro del plazo de los diez días siguientes a aquél en que la autoridad fiscal reciba las pruebas, el cual deberá ser atendido por el contribuyente dentro del plazo de diez días siguientes contados a partir de la notificación del segundo requerimiento
+III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos y del cumplimiento de los planes y programas educativos;
 
-b) Solicitará información y documentación de un tercero.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
 
-Una vez obtenida la información solicitada, la autoridad fiscal contará con un plazo máximo de treinta días para la emisión y notificación de la resolución, salvo tratándose de pruebas periciales, caso en el cual el plazo se computará a partir de su desahogo.
+IV.- Colaborar con las autoridades educativas en las actividades y campañas de fomento a los valores, beneficio social, cultural y prevención de las adicciones, sanitaria y ecológica que se efectúen en sus comunidades; y
 
-Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción IX del artículo 53 de este Código, se tendrá por perdido el derecho para realizarlo.
+V.- Informar por escrito a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
-Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se refiere este artículo, se notificarán y presentarán de conformidad con las formalidades establecidas en este Código.
+###### ARTICULO 93.
 
-###### ARTÍCULO 64.
+Las asociaciones de Padres de Familia se abstendrán de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
 
-Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes; en cualquier otro dictamen que tenga repercusión fiscal formulado por contador público o relación con el cumplimiento de las disposiciones fiscales; o bien en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, siempre que se reúnan los siguientes requisitos:
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+### CAPITULO II (SIC) BIS. DE LA ASOCIACION ESTATAL DE PADRES DE FAMILIA
 
-I.- Que el contador público que dictamine cuente para tal efecto con registro actualizado ante las autoridades fiscales federales o estatales, según corresponda; y,
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+ARTICULO 93 BIS.- En el estado habrá al menos una Asociación Estatal de Padres de Familia.
 
-II.- Que el dictamen se formule de acuerdo con las disposiciones del Código Fiscal de la Federación, de éste Código y demás disposiciones legales aplicables.
+I.- Los padres de familia o quienes ejerzan la patria potestad o tutela, tendrán derecho a votar y ser votados para formar parte de la Asociación Estatal de Padres de Familia.
 
-Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
+II.- La Asociación Estatal:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+a).- Representará a las Asociaciones de padres de familia, de las escuelas del Estado de Morelos.
 
-###### ARTÍCULO 65.
+b).- Desarrollará su programa de trabajo, estatutos y tratará los asuntos de las Asociaciones de Padres de Familia de las escuelas del Estado de Morelos, y los propios, con las autoridades educativas del Estado.
 
-Los contribuyentes que se encuentren obligados legalmente a dictaminar sus estados financieros o que hubieren optado por hacerlo, de conformidad con lo dispuesto por las disposiciones fiscales federales, deberán cumplir con las siguientes obligaciones ante la Dirección General de Auditoria Fiscal de la Secretaría de Hacienda:
+En el Estado se integrará un Consejo de 33 miembros propietarios y 33 suplentes, elegidos de entre los presidentes de la Asociación de Padres de Familia de las escuelas del Estado de Morelos, uno por cada municipio que integra el Estado, durando en su encargo dos años.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+III.- La Mesa Directiva de la Asociación Estatal de Padres de Familia estará conformada por un Presidente, un Vicepresidente, un Secretario General, un Tesorero y 10 Vocales, dos por la educación preescolar, dos por la educación primaria, dos por la educación secundaria, dos por el bachillerato o equivalente y dos por la educación superior y los representantes de los Consejos de Participación Social.
 
-I.- Presentar copia del dictamen fiscal enviado vía internet ante el Servicio de Administración Tributaria, dentro de los seis días siguientes al haberse exhibido ante dicha autoridad federal;
+IV.- La Mesa Directiva de la Asociación Estatal de Padres de Familia se elegirá cada dos años por el Consejo a que se refiere el inciso b) de la fracción II del presente artículo.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+El Consejo que para la elección de la Mesa Directiva de la Asociación Estatal de Padres de Familia se integre, estará conformado por los 33 miembros propietarios y suplentes a que se refiere el inciso b) de la fracción II de este artículo y se conformará sólo para la elección de la Mesa Directiva de la Asociación Estatal de Padres de Familia.
 
-II.- Anexar a la copia del dictamen fiscal a que hace referencia la fracción anterior, los documentos mediante los cuales se determine la base y tasa del Impuesto Sobre Remuneración al Trabajo Personal, causados en el periodo que el citado dictamen comprende; y
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+ARTICULO 93 TER.- Son derechos de los miembros de la Asociación Estatal de Padres de Familia:
 
-III.- Cualquier otra documentación o información que requiera la Secretaría de Hacienda personalmente o a través de las disposiciones administrativas de carácter general.
+I.- Tratar ante las autoridades educativas los intereses que en materia educativa sean comunes a los asociados;
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+II.- Colaborar con las Asociaciones de Padres de Familia de las escuelas del Estado, para una mejor integración de la comunidad escolar y el mejoramiento de los planteles educativos;
 
-###### ARTÍCULO 66.
+III.- Proponer las medidas que estimen pertinentes para alcanzar los objetivos señalados en las fracciones anteriores; (sic)
 
-La copia del dictamen y los demás documentos a que hace referencia el artículo anterior, presentados fuera de los plazos previstos, no surtirán efecto alguno, salvo que la Dirección General de Auditoria Fiscal de la Secretaría de Hacienda considere que existen razones para admitir tales documentos caso en el cual deberá comunicar tal hecho al contribuyente con copia al contador público, dentro de los tres meses siguientes a la fecha de su presentación.
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
 
-###### ARTÍCULO 67.
+ARTICULO 93 QUATER.- Son obligaciones de los miembros de la Asociación Estatal de Padres de Familia:
 
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación procedan a revisar el dictamen fiscal y demás información relacionada con las contribuciones estatales que fiscalizan, podrán requerir indistintamente:
+I.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto las Asociaciones de Padres de Familia de las Escuelas del Estado.
 
-I.- Al contador público que haya formulado el dictamen, lo siguiente:
+II.- Elaborar los estatutos internos que regirán la vida de la Asociación Estatal de Padres de Familia.
 
-a).- Cualquier información que conforme a lo establecido en la fracción II del artículo 65 de este Código debiera estar incluida en los estados financieros dictaminados para efectos fiscales;
+La Asociación Estatal de Padres de Familia se abstendrá de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
 
-b).- La exhibición de los papeles de trabajo elaborados con motivo de la auditoria practicada, los cuales, en todo caso, se entiende que son propiedad del contador público;
+### CAPITULO IV. DE LOS CONSEJOS DE PARTICIPACION SOCIAL
 
-c).- La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente;
+### CAPITULO II. DE LA EDUCACION INICIAL
 
-d).- La exhibición de los sistemas y registros contables y documentación original, en aquellos casos en que así se considere necesario;
+###### ARTICULO 94.
 
-Para estos efectos, si la información que proporciona el contador público conforme a lo que establecen los incisos a), b) y c) es suficiente, no se requerirá de la información a que se refiere el inciso d).
+Las autoridades educativas en el Estado promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, ampliar la cobertura de los servicios educativos y buscar la participación social coordinada de las autoridades educativas, de los trabajadores de la educación, de los educandos y de los sectores sociales vinculados con ésta, a través de un Sistema de Consejos de Participación Social conforme a las necesidades propias de cada región, debiendo garantizar:
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+I.- La democracia participativa de sus miembros;
 
-II.- Al contribuyente, la información y documentación a que se refieren los incisos c) y d) de la fracción anterior, dicho requerimiento se hará por escrito; y
+II.- La representatividad equitativa de los sectores sociales, y
 
-III.- A terceros relacionados con los contribuyentes o responsables solidarios, la información y documentación que consideren necesaria para verificar si son ciertos los datos consignados en el dictamen y demás documentos y anexos.
+III.- La autonomía en el ámbito de sus atribuciones.
 
-Lo dispuesto en este artículo es sin perjuicio de que al Contador Público que dictamina se le haya suspendido o cancelado su registro, o en su defecto, hubiese renunciado de conformidad con las disposiciones fiscales federales.
+###### ARTICULO 95.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+El Sistema de Consejos de Participación Social estará integrado por:
 
-ARTÍCULO 67 BIS.- Cuando las autoridades fiscales revisen el dictamen y demás información a que se refiere el artículo 67 de este Código, y solicite al contador público registrado que lo hubiera formulado información o documentación, la misma se deberá presentar en los siguientes plazos:
+I.- Un Consejo Estatal de Participación Social que como órgano de consulta, orientación y apoyo, funcione con la participación de los padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadoras de docentes, autoridades educativas estatales, municipales, así como de sectores sociales de la Entidad especialmente interesados en la educación;
 
-I.- Seis días, tratándose de papeles de trabajo elaborados con motivo del dictamen realizado. Cuando el contador público registrado tenga su domicilio fuera de la localidad en que se ubica la autoridad solicitante, el plazo será de quince días; y
+II.- En cada Municipio, un Consejo Municipal de Participación Social, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de las escuelas establecidas en el Municipio, representantes de la organización sindical de los maestros, representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación;
 
-II.- Quince días, tratándose de otra documentación o información relacionada con el dictamen, que esté en poder del contribuyente.
+III.- En cada escuela pública de educación básica, un Consejo Escolar de Participación Social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela. Consejos análogos podrán operar en las escuelas particulares de educación básica.
 
-###### ARTÍCULO 68.
+Cada Consejo se integrará con una estructura mínima formada por un Presidente, un Secretario, un Tesorero, y dos vocales, que lo serán quienes designe el propio Consejo de que se trate.
 
-Se considera que se inicia el ejercicio de las facultades de comprobación en relación con los contribuyentes que hayan presentado estados financieros dictaminados, cuando la autoridad fiscal competente lleva a cabo alguno de los actos señalados en las fracciones II y III del artículo anterior.
+###### ARTICULO 96.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+Los Consejos de Participación Social a que se refiere el artículo anterior tendrán las atribuciones y obligaciones que señalen los reglamentos respectivos que apruebe la autoridad educativa competente.
 
-###### ARTÍCULO 69.
+###### ARTICULO 97.
 
-Las autoridades fiscales podrán determinar presuntivamente los ingresos, las remuneraciones a que se refiere el artículo 213 de la Ley de Hacienda del Estado y las contribuciones omitidas, por los que deban pagar contribuciones, cuando:
+Los Consejos de Participación Social se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-I.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar declaraciones de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate;
+###### ARTICULO 98.
 
-II.- No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales;
+En el Estado de Morelos los medios de comunicación masiva en el desarrollo de sus actividades, contribuirán al logro de las finalidades de la educación previstas en la presente Ley, conforme a los criterios establecidos en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-III.- Se dé alguna de las siguientes irregularidades:
+### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
-a).- Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más de 3% sobre los declarados en el período objeto de revisión;
+###### ARTICULO 99.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades.
 
-b).- Registro de compras, gastos o servicios no realizados o no recibidos; y,
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2005)</small>
 
-c).- Omisión o alteración en el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% del costo de los inventarios.
+Por lo que concierne a la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros de educación básica deberán obtener previamente en cada caso la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
-IV.- Se adviertan otras irregularidades en su contabilidad que imposibiliten el conocimiento de sus operaciones;
+###### ARTICULO 100.
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+Para obtener o conservar la autorización o el reconocimiento de validez oficial de estudios, los particulares deberán cumplir con:
 
-V. Se detecten por las autoridades fiscales diferencias entre lo declarado por los contribuyentes respecto del impuesto sobre remuneraciones al trabajo personal y lo declarado ante cualquier otra entidad de la administración pública federal, estatal o municipal
+I.- Desarrollar sus actividades conforme a lo establecido por la presente Ley y demás disposiciones reglamentarias que deriven de ella;
 
-La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
+II.- Personal que acredite la preparación adecuada para impartir educación y reunir los requisitos previstos por la presente Ley;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+III.- Instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
 
-###### ARTÍCULO 70.
+IV.- Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta a la educación básica, la normal y demás para la formación de docentes de Educación Básica.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos, las remuneraciones a que se refiere el artículo 213 de la Ley de Hacienda del Estado y las contribuciones omitidas, para el período sujeto de revisión, indistintamente con cualquiera de los siguientes procedimientos:
+###### ARTICULO 101.
 
-I.- Utilizando los datos de la contabilidad del contribuyente;
+Las autoridades educativas publicarán anualmente, en el Periódico Oficial del Estado "Tierra y Libertad", una relación de las instituciones a las que se les haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán, oportunamente y en cada caso la inclusión así como la supresión, en dicha lista, de las instituciones a las que se otorguen, revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios.
 
-II.- Tomando como base los datos contenidos en las declaraciones del período objeto de revisión correspondiente a cualquier contribución, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación;
+Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique, su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
-III.- A partir de la información que proporcionen terceros a solicitud de las autoridades fiscales, cuando tengan relación de negocios con el contribuyente;
+###### ARTICULO 102.
 
-IV.- Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación; y,
+Los particulares que impartan educación en el Estado con autorización o reconocimiento de validez oficial de estudios deberán:
 
-V.- Utilizando medios indirectos de la investigación económica o de cualquier otra clase.
+I.- Cumplir con lo dispuesto en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política local, la presente Ley y con las disposiciones que de ella emanen;
 
-###### ARTÍCULO 71.
+II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-Las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido, cuando aparezca omisión en la retención y entero, por más del 3% sobre las retenciones enteradas.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 24 DE DICIEMBRE DE 2018)</small>
+III.- Proporcionar un mínimo de becas para alumnos de escasos recursos económicos destacados académicamente, en un porcentaje que será del cinco por ciento del total de la matricula de la institución educativa del ciclo escolar de que se trate, pudiendo incrementar ese porcentaje a criterio de las autoridades del plantel. Las becas a que se refiere esta fracción deberán ser otorgadas a través de una sub-comisión de becas integrado por la autoridad administrativa del plantel educativo respectivo, un representante de la asociación de los padres de familia de la escuela que se trate, un representante de la autoridad educativa estatal quién podrá ser el supervisor de la zona escolar;
 
-Asimismo, las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido y enterado por los establecimientos o prestadores de servicios de juegos con apuestas, sorteos o concursos, cuando estos no cumplan con lo dispuesto por el artículo 212-Y de la Ley de Hacienda del Estado de Sonora.
+La escuela para seleccionar a los becarios, deberá tomar en consideración exclusivamente y en orden de prioridad lo siguiente:
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 24 DE DICIEMBRE DE 2018)</small>
+a) Que el alumno justifique la necesidad económica para tener el beneficio de una beca.
 
-Para efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en las fracciones I a V del artículo 70 de este Código.
+b) Que el alumno sea destacado en el ámbito académico.
 
-###### ARTÍCULO 72.
+c) Que el alumno acredite con su conducta haber respetado el reglamento interno de la Institución educativa en donde solicita la beca.
 
-(DEROGADO, B.O. 18 DE DICIEMBRE DE 2003).
+Las escuelas particulares tendrán la obligación de remitir al inicio de cada ciclo escolar, el listado oficial de becarios de cada nivel a la Comisión Estatal de Becas, y ponerla a la vista y disposición de los padres de familia, tutores o representantes legales en la dirección de la escuela para su conocimiento.
 
-###### ARTÍCULO 73.
+El padre de familia, tutor o representante legal que detecte irregularidades en la selección de becarios, interpondrá su inconformidad con base en el Reglamento Artículo 102 de la Ley de Educación del Estado, ante la Comisión Estatal de Becas, para que de existir elementos, ésta modifique el dictamen correspondiente.
 
-Para la comprobación de los ingresos, así como de las contribuciones omitidas, las autoridades fiscales presumirán, salvo prueba en contrario:
+La Comisión Estatal de Becas estará integrado (sic) cuando menos por un representante del titular del Poder Ejecutivo, un representante de la Autoridad Auxiliar Educativa Estatal, el Diputado Presidente de la Comisión al Interior del Congreso del Estado que sea responsable de los problemas de carácter educativo, los representantes de las Asociaciones de Padres de Familia legalmente constituidas y los representantes de las Organizaciones de Escuelas Particulares legalmente constituidas y debidamente acreditadas ante la Comisión Estatal de Becas.
 
-I.- Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente;
+El reglamento respectivo determinará las atribuciones, organización y funcionamiento del Comité a que hace referencia esta fracción.
 
-II.- Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente;
+IV.- Rendir semestralmente a la Autoridad Educativa Estatal o Municipal, las estadísticas correspondientes a la organización, administración, escolaridad y aspectos técnicos de las Instituciones, y
 
-III.- Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad que esté obligado a llevar, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones;
+V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
 
-IV.- Que son ingresos y valor de actos o actividades de la empresa por los que deben pagar contribuciones, los depósitos hechos en cuenta de cheques personal de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa y ésta no los registre en contabilidad;
+###### ARTICULO 103.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
+En el caso de educación inicial y de preescolar deberán cumplir, además, con los requisitos que impone el segundo párrafo del artículo 59 de la Ley General de Educación y lo que al respecto determine la presente Ley.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+###### ARTICULO 104.
 
-Se presumirá que los depósitos efectuados por el empleador en cuentas de las personas físicas que le prestan servicios personales subordinados, son pagos que causan impuesto sobre remuneraciones al trabajo personal.
+Las autoridades educativas en el Estado deberán inspeccionar y vigilar los servicios educativos respecto de los cuales hayan concedido autorizaciones o reconocimientos de validez oficial de estudios para verificar el cumplimiento de lo dispuesto por la presente Ley, en el entendido que las visitas de inspección deberán realizarse cumpliendo con los requisitos siguientes:
 
-V.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos y valor de actos o actividades del último ejercicio que se revisa por los que se deban pagar contribuciones;
+a).- Para realizar una visita de inspección deberá mostrarse la orden correspondiente expedida por la autoridad educativa competente. La visita se realizará en el lugar, fecha y sobre los asuntos específicos señalados en dicha orden; el encargado de la visita deberá identificarse adecuadamente;
 
-> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+b).- Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido y por dos testigos. En su caso, se hará constar en dicha acta la negativa del visitado de suscribirla sin que esta negativa afecte su validez. Un ejemplar del acta se pondrá a disposición del visitado, y
 
-VI.- Que los cheques librados contra las cuentas del contribuyente a proveedores o prestadores de servicios al mismo, que no correspondan a operaciones registradas en su contabilidad son pagos por mercancías adquiridas o por servicios por los que el contribuyente obtuvo ingresos; y
+c).- Los particulares podrán presentar a las autoridades educativas documentación relacionada con la visita dentro de los cinco días hábiles siguientes a la fecha de la inspección.
 
-VII.- Que los inventarios de materias primas, productos semiterminados y terminados, los activos fijos, gastos y cargos diferidos que obren en poder del contribuyente, así como los terrenos donde desarrolle su actividad son de su propiedad. Los bienes a que se refiere este párrafo se valuarán a sus precios de mercado y en su defecto al de avalúo.
+###### ARTICULO 105.
 
-###### ARTÍCULO 74.
+La educación que no requiera autorización o no sea susceptible de reconocimiento de validez oficial de estudios, se regirá por la Ley General de Educación, esta Ley, y por el Reglamento que sobre la materia en su caso, expida la autoridad educativa competente.
 
-Cuando el contribuyente omita registrar adquisiciones en su contabilidad y éstas fueran determinadas por las autoridades fiscales, se presumirá que los bienes adquiridos y no registrados, fueron enajenados y que el importe de la enajenación fue el que resulta de las siguientes operaciones:
+###### ARTICULO 106.
 
-I.- El importe determinado de adquisición, incluyendo el precio pactado y las contribuciones, intereses normales o moratorios, penas convencionales y cualquier otro concepto que se hubiera pagado con motivo de la adquisición, se multiplica por el por ciento de utilidad bruta con que opera el contribuyente;
+Los estudios realizados dentro del Sistema Educativo Estatal, por formar éste parte del Sistema Educativo Nacional, tendrán validez en toda la República.
 
-II.- La cantidad resultante se sumará al importe determinado de adquisición y la suma será el valor de la enajenación;
+Las Instituciones del Sistema Educativo Estatal expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos de conformidad con los requisitos establecidos en los planes y programas de estudio correspondiente.
 
-El porciento de utilidad bruta se obtendrá de los datos contenidos en la contabilidad del contribuyente en el ejercicio de que se trate y se determinará dividiendo dicha utilidad bruta entre el costo que determine o se le determine al contribuyente. Para los efectos de lo previsto por esta fracción, el costo de determinará según los principios de contabilidad generalmente aceptados. En el caso de que el costo no se pueda determinar se entenderá que la utilidad bruta es de 50%.
+###### ARTICULO 107.
 
-La presunción establecida en este artículo no se aplicará cuando el contribuyente demuestre que la falta de registro de las adquisiciones fue motivada por caso fortuito o fuerza mayor.
+Los estudios realizados fuera del Sistema Educativo Estatal y Nacional, podrán adquirir validez oficial mediante su revalidación, siempre y cuando sean equiparables con los estudios correspondientes a dicho sistema.
 
-Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso, si no pudiera determinarse el monto de la adquisición se considerará el que corresponda a bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y en su defecto, el de mercado o el de avalúo.
+La revalidación podrá otorgarse por niveles educativos, por modalidades escolares o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
 
-###### ARTÍCULO 75.
+###### ARTICULO 108.
 
-Para comprobar las contribuciones omitidas, así como los ingresos o el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
+Los estudios realizados dentro del Sistema Educativo Nacional podrán, en su caso, declararse equivalentes con los realizados dentro del Sistema Estatal, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje según lo establezca la normatividad aplicable.
 
-I.- Se refieran al contribuyente designado por su nombre, denominación o razón social;
+###### ARTICULO 109.
 
-II.- Señalen como lugar para la entrega o recibo de bienes o prestación de servicios, relacionados con las actividades del contribuyente, cualquiera de sus establecimientos, aún cuando exprese el nombre, denominación o razón social de un tercero, real o ficticio;
+La autoridad educativa local aplicará las normas y criterios generales que determine la Secretaría de Educación Pública, a que se ajustarán la revalidación, así como la declaración de estudios equivalentes.
 
-III.- Señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio; y,
+La autoridad educativa local otorgará revalidaciones y equivalencias únicamente cuando estén referidas a planes y programas de estudio que se impartan en el Sistema Educativo Estatal.
 
-IV.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
+## TITULO QUINTO
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+### CAPITULO UNICO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
 
-###### ARTÍCULO 76.
-
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Hacienda o de cualquier otra autoridad competente en materia de contribuciones estatales y federales.
-
-Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
-
-Las mencionadas autoridades estarán a lo dispuesto en el primer párrafo de este artículo, sin perjuicio de su obligación de mantener la confidencialidad de la información proporcionada por terceros independientes que afecte su posición competitiva, a que se refiere el artículo 80 de este Código.
-
-Las copias o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
-
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-Las autoridades fiscales presumirán como cierta la información contenida en los comprobantes fiscales digitales por Internet y en las bases de datos que lleven o tengan en su poder o a las que tengan acceso.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 76 BIS.- Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación.
-
-###### ARTÍCULO 77.
-
-Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos, que la negativa implique la afirmación de otro hecho.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-###### ARTÍCULO 78.
-
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios así como de aquellos conceptos que las demás leyes administrativas definan como créditos fiscales, sin que dicho plazo exceda de treinta y seis meses, siempre y cuando los contribuyentes:
-
-I.- Paguen el 30% del monto total del crédito fiscal al momento de la autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se concluya la autorización.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-b) Las multas actualizadas que correspondan desde el mes en que se debieron pagar y hasta aquél en que se concluya la autorización.
-
-c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que se conceda la autorización.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-La actualización que corresponda al periodo mencionado se efectuará de conformidad a lo previsto por el artículo 18 Bis de este Código.
-
-La modalidad del pago a plazos elegida por el contribuyente podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo.
-
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-ARTÍCULO 78 BIS.- Para los efectos de la autorización a que se refiere el artículo anterior se estará a lo siguiente:
-
-I.- Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago correspondiente al 30 % señalado en la fracción I del artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
-
-El monto de cada una de las parcialidades deberá ser igual, expresadas en pesos y pagadas en forma mensual y sucesiva para lo cual se tomará como base el saldo del párrafo anterior, el plazo elegido por el contribuyente y la tasa mensual de recargos por prórroga de acuerdo a la Ley de Ingresos del Estado vigente en la fecha de la autorización de pago a plazos en parcialidades. Los recargos por prórroga deberán aplicarse sobre saldos insolutos para cada una de las parcialidades. Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
-
-II.- Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago correspondiente al 30% señalado en la fracción I del artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
-
-El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga de acuerdo a la Ley de Ingresos del Estado, vigente en la fecha de la autorización de pago a plazos de forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la autorización de pago a plazos de forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
-
-El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en la autorización de pago a plazos.
-
-III.- Simultáneamente a la autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en alguna de las formas previstas en el artículo 130 de este Código.
-
-IV.- Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
-
-a) Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
-
-b) El contribuyente se encuentre sometido a un procedimiento de concurso mercantil o sea declarado en quiebra.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-c) Tratándose del pago en parcialidades el contribuyente no cumpla en tiempo y monto con tres parcialidades sucesivas o, en su caso, con la última.
-
-d) Tratándose del pago diferido, se venza el plazo para realizar el pago y éste no se efectúe.
-
-En los supuestos señalados en los incisos anteriores las autoridades fiscales requerirán y harán exigible el saldo mediante el procedimiento administrativo de ejecución.
-
-El saldo no cubierto en el pago a plazos causará recargos, de conformidad con lo establecido en el artículo 26 de este Código, desde la fecha en que se haya efectuado el último pago o desde aquella en que debió haberse efectuado, conforme a la autorización respectiva.
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-V.- Los pagos efectuados durante la vigencia de la autorización se deberán aplicar al periodo más antiguo, en el siguiente orden:
-
-a) Recargos por prórroga.
-
-b) Recargos por mora.
-
-c) Accesorios en el siguiente orden:
-
-1.- Multas.
-
-2.- Gastos extraordinarios.
-
-3.- Gastos de ejecución.
-
-4.- Recargos.
-
-d) Monto de las contribuciones omitidas.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-El pago a plazos sólo procederá para el caso de que el contribuyente no tenga otros adeudos con la Secretaría de Hacienda y, en caso de tenerlos, deberá pagarlos o adicionarlos al monto respecto del cual solicita la autorización del pago a plazos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 79.
-
-Las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, señalar las bases de su liquidación o fijarlas en cantidad liquida, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contados a partir del día siguiente a aquel en que:
-
-I.- Se presentó la declaración o aviso, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos. No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquél en que se presentan, por lo que hace a los conceptos modificados en relación con la última declaración de esa misma contribución en el ejercicio;
-
-II.- Se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos;
-
-III.- Se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente;
-
-IV.- Se levante el acta de incumplimiento de la obligación garantizada, tratándose de la exigibilidad de fianzas a favor de la Secretaría de Finanzas constituidas para garantizar el interés fiscal, la cual será notificada a la afianzadora; y,
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código o no presente alguna declaración, avisos o informes, estando obligado a presentarlos; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquél en el que se debió haber presentado la declaración, aviso o informe señalados.
-
-En los casos de responsabilidad solidaria a que se refiere el artículo 13 fracción III de este Código, el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
-
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 53 de este Código o cuando se interponga algún recurso administrativo o juicio, o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiere desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos se reiniciará el computo del plazo de caducidad a partir de la fecha en que se localice al contribuyente.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal o cuando concluya el plazo que establece el artículo 62 Bis de este Código para emitirla. De no emitirse la resolución, se entenderá que no hubo suspensión.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio del (sic) las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años. Tratándose de visitas domiciliarias o de revisión de la contabilidad en las oficinas de las propias autoridades, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de seis años con seis meses.
-
-Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
-
-Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido o caducado las facultades de las autoridades fiscales.
-
-###### ARTÍCULO 80.
-
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 76 de este Código.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Solo por acuerdo expreso del Secretario de Hacienda, se podrán publicar los siguientes datos por grupos de contribuyentes: nombre, domicilio, actividad, ingreso total, utilidad fiscal o valor de sus actos o actividades y contribuciones pagadas.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-La reserva referida en el párrafo primero de este artículo tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de las autoridades federales, de conformidad con la Ley para Regular las Sociedades de Información Crediticia.
-
-## TITULO CUARTO. DE LAS INFRACCIONES Y DELITOS FISCALES
-
-### CAPITULO I. De las Infracciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 81.
-
-La imposición de las sanciones administrativas por infracción a las disposiciones fiscales compete a la Secretaría de Hacienda.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 18 BIS de este Código.
-
-La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
-
-Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el artículo 18 de este Código.
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
-
-Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
-
-###### ARTÍCULO 82.
-
-Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este Capítulo se consideran como tales así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquellas que lo hagan fuera de los plazos establecidos.
-
-Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se imponga.
-
-###### ARTÍCULO 83.
-
-Los funcionarios y empleados públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo comunicarán a la autoridad fiscal competente para no incurrir en responsabilidad, dentro de los diez días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
-
-Tratándose de funcionarios y empleados fiscales, la comunicación a que se refiere el párrafo anterior la harán en los plazos y forma establecidos en los procedimientos a que estén sujetas sus actuaciones.
-
-Se libera de la obligación establecida en este artículo a los siguientes funcionarios y empleados públicos:
-
-I.- Aquellos que de conformidad con otras leyes tengan obligaciones de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones; y,
-
-II.- Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
-
-###### ARTÍCULO 84.
-
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito. Se considerará que el cumplimiento no es espontáneo en el caso de que:
-
-I.- La omisión sea descubierta por las autoridades fiscales;
-
-II.- La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas contemplada en este Ordenamiento, tendientes a la comprobación del cumplimiento de disposiciones fiscales;
-
-Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán, a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 85.
-
-La Secretaría de Hacienda podrá condonar total o parcialmente las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso, así como los motivos que tuvo la autoridad que impuso la sanción.
-
-La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
-
-La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
-
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
-
-###### ARTÍCULO 86.
-
-Dentro de los límites fijados por este Código, las autoridades fiscales al imponer multas por la comisión de las infracciones señaladas en las leyes fiscales, deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
-
-I.- Se considerará como agravante el hecho de que el infractor sea reincidente. Se da la reincidencia cuando:
-
-a).- Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, incluyendo las retenidas, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia;
-
-b).- Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código;
-
-Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos cinco años.
-
-II.- También será agravante en la comisión de una infracción, cuando se dé cualquiera de los siguientes supuestos:
-
-a).- Que se haga uso de documentos falsos o en los que hagan constar operaciones inexistentes;
-
-b).- Que se lleven dos o más sistemas de contabilidad con distinto contenido;
-
-c).- Se lleven dos o más libros sociales similares con distinto contenido; y,
-
-d).- Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
-
-III.- Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido de los contribuyentes;
-
-IV.- Igualmente es agravante, el que la comisión de la infracción sea en forma continuada;
-
-V.- Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor;
-
-Tratándose de la presentación de las declaraciones o avisos cuando por diferentes contribuciones se deba presentar una misma forma oficial y se omita hacerlo por alguna de ellas, se aplicará una multa por cada contribución no declarada u obligación no cumplida.
-
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-VI.- En el caso de que la multa se pague dentro de los quince días siguientes a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 30% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución. Lo dispuesto en esta fracción no será aplicable cuando se den los supuestos previstos en los artículos 88 fracción II, inciso a) y 89 de este Código;
-
-VII.- En caso de infracciones continuas y de que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad, multa hasta del triple del máximo de la sanción que corresponda;
-
-VIII.- Cuando la infracción no haya tenido ni pueda haber tenido como consecuencia la evasión del pago de créditos fiscales, se impondrá el mínimo de la sanción, salvo el caso de reincidencia;
-
-IX.- Cuando las infracciones consistan en hechos, omisiones o falta de requisitos semejantes en documentos o libros, y siempre que no haya tenido como consecuencia la evasión del pago de créditos fiscales, se considerará el conjunto como una sola infracción y se impondrá solamente una multa que no excederá del máximo que fija este código para sancionar cada hecho, omisión o falta de requisitos;
-
-X.- Cuando se omita una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras publicas o minutas extendidas ante notario publico o corredor publico, la sanción se impondrá exclusivamente a los notarios y corredores, y los interesados solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción se aplicará entonces solamente a los mismos interesados;
-
-XI.- Cuando la liquidación de alguna prestación fiscal este encomendada a funcionarios o empleados del estado o sus municipios, estos serán responsables de las infracciones que se cometan y se les aplicaran las sanciones que correspondan, quedando únicamente obligados los sujetos pasivos a pagar la prestación fiscal omitida, excepto en los casos en que este código o alguna ley fiscal disponga que no se podrá exigir al sujeto pasivo dicho pago; y,
-
-XII.- La Secretaría de Finanzas se abstendrá de imponer sanciones cuando se haya incurrido en infracción por caso fortuito o fuerza mayor.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-###### ARTÍCULO 87.
-
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades, se aplicará una multa del 55% al 75% de las contribuciones omitidas.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-Cuando el infractor pague las contribuciones omitidas junto con sus accesorios después de que se inicie el eJercicio (sic) de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oncio (sic) de observaciones a que se refiere la fracción VI del artículo 61 de este Código, según sea el caso, se aplicará una multa del 20%.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-Si el infractor paga las contribuciones omitidas junto con sus accesorios, después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, pagará una multa del 30%.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos del segundo y tercer párrafos de este artículo, aplicarán el porcentaje que corresponda en los términos del primer párrafo de este artículo sobre el remanente no pagado de las contribuciones.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-El pago de las multas en los términos del segundo y tercer párrafos de este artículo, se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Hacienda y en el supuesto de no existir formas aprobadas acudiendo a las oficinas exactoras respectivas.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
-
-###### ARTÍCULO 88.
-
-En los casos a que se refiere el artículo 87 de este Código, las multas se aumentarán o disminuirán conforme a las siguientes reglas:
-
-I.- Se aumentarán:
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-a).- De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en la fracción IV del Artículo 86;
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-b).- De un 60% a un 90% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del Artículo 86 de este Código; y,
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-c).- De un 50% a un 75% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 86 de este Código.
-
-Tratándose de los casos comprendidos en las fracciones I y II del artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente; y,
-
-II.- Se disminuirán:
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-a).- De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del Artículo 87 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los treinta días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
-
-###### ARTÍCULO 89.
-
-Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 20% al 25% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-ARTÍCULO 89 BIS.- Tratándose de la omisión de los derechos vehiculares que a continuación se indican, se impondrán las multas siguientes:
-
-I.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 3.2685 a 6.0210 Unidades de Medida y Actualización si el pago correspondiente se efectúa dentro de los 1 a 90 días, posteriores al vencimiento de la obligación.
-
-II.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 6.5371 a 8.6014 Unidades de Medida y Actualización se efectúa de los 91 días en adelante, posteriores al vencimiento de la obligación.
-
-III.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 2.4428 a 4.3007 Unidades de Medida y Actualización si el pago correspondiente se efectúa durante el período de julio a septiembre del año que corresponda.
-
-IV.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 4. 9028 a 6.8811 Unidades de Medida y Actualización si el pago correspondiente se efectúa durante el período de octubre a diciembre del año que corresponda.
-
-En los supuestos a que se refiere este artículo no se aplicará la multa contenida en el artículo 90 fracción XVI, de este Código aplicable a los derechos.
-
-###### ARTÍCULO 90.
-
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos:
-
-I.- No solicitar la inscripción cuando se este obligado a ello o hacerlo extemporáneamente salvo cuando la solicitud se presente de manera espontánea;
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-Se excluye de responsabilidad por la comisión de esta infracción a las personas cuya solicitud de inscripción debe ser legalmente efectuada por otra, inclusive cuando dichas personas queden subsidiariamente obligadas a solicitar su inscripción.
-
-II.- No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se este obligado conforme a la ley;
-
-III.- Obtener o usar mas de un numero de registro o de empadronamiento para el cumplimiento de las obligaciones a su cargo;
-
-IV.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos correspondientes;
-
-V- No obtener oportunamente los permisos, placas, boletos de registro o cualquier otro documento exigido por las leyes fiscales o no tenerlos en el lugar que señalan dichas disposiciones;
-
-VI.- Producir, fabricar, transformar, almacenar o expender artículos gravados sin cumplir con las obligaciones que establezcan las leyes fiscales;
-
-VII.- Permitir sacar o mandar sacar de las fábricas, almacenes, bodegas o de las zonas señaladas por las leyes fiscales, artículos o productos, sin haberse cumplido previamente las obligaciones fiscales relativas;
-
-VIII.- Transportar o almacenar productos o efectos gravados por las leyes fiscales, sin haber cumplido con las disposiciones que para esos casos establezcan esas leyes;
-
-IX.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales; llevarlos en forma distinta a como estas disponen; no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos, o fuera de los plazos respectivos;
-
-X.- Hacer, mandar, o permitir en su contabilidad anotaciones, asientos, cuentas, nombres o cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras;
-
-XI.- No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales;
-
-XII.- Llevar doble juego de libros con anotaciones distintas a los libros autorizados;
-
-XIII.- No conservar los libros, documentos o correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas domiciliarias;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-XIV.- No presentar o no proporcionar, o hacerlo extemporáneamente los avisos, declaraciones, dictámenes, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-XV.- Presentar los avisos, dictámenes, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, falsificados, alterados, incompletos o con errores que traigan consigo la evasión de una prestación fiscal;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-XVI.- No pagar total o parcialmente los impuestos, las diferencias determinadas en el dictamen fiscal estatal, las contribuciones especiales o derechos, dentro de los plazos señalados por las leyes fiscales;
-
-XVII.- Eludir el pago de las contribuciones y aprovechamientos como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras;
-
-XVIII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquier otra dependencia, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita;
-
-XIX.- Alterar o destruir los sellos o marcas oficiales colocados con fines fiscales o impedir que se logre el propósito para el cual fueron colocados;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-XX.- Señalar como domicilio fiscal para efectos del Registro Estatal de Contribuyentes, un lugar distinto del que corresponda conforme al artículo 15;
-
-XXI.- No presentar copia del dictamen fiscal a que se refiere la fracción I del artículo 65 de este Código dentro del plazo establecido, así como los documentos a que alude la fracción II del citado precepto.
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-XXII.- No presentar el aviso por cambio de domicilio;
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-XXIII.- No expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales que señalen las disposiciones fiscales; y
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-XXIV.- No presentar el dictamen fiscal habiendo presentado el aviso a que se refiere el artículo 41 Bis del (sic) éste Código.
-
-###### ARTÍCULO 91.
-
-Son infracciones cuya responsabilidad recae sobre los responsables solidarios:
-
-I.- No solicitar la inscripción cuando se este obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-II.- No presentar, o hacerlo extemporáneamente, los avisos, declaraciones, los dictámenes, manifestaciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales, no comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-III.- Presentar los avisos, dictámenes, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, falsificados, alterados, incompletos o con errores que traigan consigo la evasión de una prestación fiscal;
-
-IV.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de prestaciones fiscales retenidas o que se debieron retener;
-
-V.- No cerciorarse, al transportar artículos regulados, del pago de los créditos fiscales que se hayan causado, cuando las disposiciones legales impongan esa obligación, o efectuar el transporte sin la documentación que exijan esas disposiciones;
-
-VI.- Tratándose de las personas que tengan fe pública, autorizar o asentar en el protocolo o en el libro de registro, escrituras, minutas, actos o contratos, sin cumplir o cerciorarse previamente de que se han cumplido las disposiciones fiscales o sin dar los avisos que prevengan las leyes;
-
-VII.- Extender a las personas a que se refiere la fracción anterior, constancia de haberse cumplido con las disposiciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento;
-
-VIII.- Oponerse o resistirse por cualquier medio a que se practique la visita en el domicilio fiscal o visitas de inspección. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; ni proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores, así como impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros;
-
-IX.- Alterar o destruir los sellos o marcas oficiales colocados con fines fiscales o impedir que se logre el propósito para el cual fueron colocados; y,
-
-X.- Señalar como domicilio fiscal para efectos del Registro Estatal de Contribuyentes, un lugar distinto del que corresponda conforme al artículo 15.
-
-###### ARTÍCULO 92.
-
-Son infracciones cuya responsabilidad recae sobre los terceros:
-
-I.- Consentir o tolerar que se inscriban a su nombre negociaciones ajenas;
-
-II.- Percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto traiga como consecuencia omisión de créditos fiscales;
-
-III.- No presentar o no exhibir los avisos, informes, datos, declaraciones o documentos, o no hacerlo dentro del plazo fijado por las disposiciones fiscales, o cuando las autoridades los exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten;
-
-IV.- Presentar los informes, datos y documentos a que se refiere la fracción anterior, incompletos, inexactos, alterados o falsificados;
-
-V.- Asesorar o aconsejar a los sujetos pasivos para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o expedir dictámenes de estados financieros para efectos fiscales que no reflejen la situación fiscal correcta del sujeto pasivo o responsable solidario;
-
-VI.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación en los casos en que la ley les imponga esa obligación;
-
-VII.- Adquirir, ocultar, conservar o enajenar, productos, mercancías o artículos a sabiendas de que no se cubrieron los créditos fiscales que en relación con los mismos se hubieran debido pagar;
-
-VIII.- Destruir los sellos oficiales colocados por los empleados y funcionarios públicos con fines fiscales o impidan por cualquier maniobra que se logre el propósito para el que fueron colocados;
-
-IX.- Poseer, enajenar, poner en circulación, o en su caso, adherir en objetos, para el pago de una prestación fiscal, calcomanías, formas numeradas, placas o tarjetones, a sabiendas de que fueron impresas o grabadas sin autorización de la Secretaría de Finanzas, o bien de que fueron alteradas en su valor, año de emisión, leyenda o clase;
-
-X.- Recibir o poseer documentos en las que no se haya cumplido con las disposiciones fiscales;
-
-XI.- Tratándose de funcionarios o empleados públicos del Estado o los municipios, dar curso a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales;
-
-Esta responsabilidad será exigible aun cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución, si les correspondía hacerlo por razón de su cargo.
-
-XII.- Las personas a que se refiere la fracción anterior que asienten falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección, o asentar hechos falsos en las actas relativas; no practicar las visitas de inspección cuando tengan obligación de hacerlo, alterar documentos que estén en su poder por razón de su cargo;
-
-XIII. Las mismas personas a que se alude en las dos fracciones precedentes, incurran en los siguientes hechos u omisiones:
-
-a).- Recibir el pago de una contribución y no enterar su importe dentro del plazo legal;
-
-b).- No exigir el pago total de las prestaciones fiscales cuando tengan la obligación de hacerlo;
-
-c).- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las disposiciones fiscales;
-
-d).- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos. Los representantes de contribuyentes que integren juntas calificadoras u órganos semejantes, se asimilan a los empleados o funcionarios públicos;
-
-e).- Exigir bajo el título de cooperación u otros semejantes cualquier prestación que no este expresamente prevista en la ley aun cuando se aplique a la realización de las funciones propias de su cargo;
-
-f).- Inscribir o registrar documentos, instrumentos o libros en los que no se hayan cumplido las disposiciones fiscales;
-
-g).- Extender actas, expedir certificados, legalizar firmas o autorizar libros o documentos sin exigir de los interesados el cumplimiento de las obligaciones fiscales; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
-
-h).- Eliminen obligaciones fiscales registradas a cargo de los contribuyentes, o concedan descuentos sobre conceptos de los cuales no se tenga facultad expresa.
-
-XIV.- Negarse a proporcionar los elementos que se requieran para comprobar el cumplimiento de las obligaciones fiscales, ya sea por resistirse a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales, o en cualquiera otra forma.
-
-> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
-
-XV.- Oponerse o resistirse por cualquier medio a que se practique la visita en el domicilio fiscal o visitas de inspección. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; ni proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores, así como impedir el acceso a los almacenes, depósitos, bodegas a cualquiera otra dependencia y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 93.
-
-Se impondrá multa por cada infracción de las previstas en los artículos 90, 91 y 92, las cuales serán aplicadas en Unidades de Medida y Actualización, como sigue:
-
-I.- De 8 a 20 Unidades de Medida y Actualización a las señaladas en el artículo 90 fracción XV y 91 fracción III;
-
-II.- La mayor que resulte entre 8 Unidades de Medida y Actualización o el 15% de las contribuciones no pagadas, sin que este porcentaje pueda exceder de 500 Unidades de Medida y Actualización, para las señaladas en el artículo 90, fracciones IV y XVII.
-
-III.- La mayor que resulte entre 5 Unidades de Medida y Actualización o el 20% de las contribuciones no pagadas, sin que este porcentaje pueda exceder de 1000 Unidades de Medida y Actualización, para las señaladas en los artículos 90 fracción XVI y 91 fracción IV;
-
-IV.- De 22 a 32 Unidades de Medida y Actualización, a las señaladas en los Artículos 90 fracción I y 91 fracción I;
-
-V.- De 25 a 35 Unidades de Medida y Actualización, a la señalada en el Artículo 90 fracción III;
-
-VI.- De 2.2 A 44 Unidades de Medida y Actualización, a la señalada en el artículo 90 fracción II;
-
-VII.- De 2.5 A 25 Unidades de Medida y Actualización, a las señaladas en los artículos 90 fracciones V, VI, VII, VIII, XI, XII, XX y XXI y 91 fracción V;
-
-VIII.- De 2.5 A 63 Unidades de Medida y Actualización, a las señaladas en el artículo 90, fracciones IX, X y XVII;
-
-IX.- De 12.5 A 125 Unidades de Medida y Actualización, a las señaladas en los artículos 91, fracción VII y 92 fracciones I, II, III, VI y VII;
-
-X.- De 12.5 a 502 Unidades de Medida y Actualización, a las señaladas en los artículos 90 fracción XIII y 91 fracción VI.
-
-XI.- De 25 a 1,000 Unidades de Medida y Actualización, a las señaladas en los artículos 90 fracción XIX, 91 fracción IX y 92 fracción VIII;
-
-XII.- De 25 a 250 Unidades de Medida y Actualización, a las señaladas en los artículos 90 fracción XVIII y 92 fracciones IV, V, IX, X, XI, XII, XIII y XIV.
-
-XIII.- De 150 a 300 Unidades de Medida y Actualización, a las señaladas en los artículos 90 fracción XIV, 91 fracciones II y VIII y 92 fracción XV
-
-XIV.- De 34 a 100 Unidades de Medida y Actualización, a las señaladas en el artículo 90 fracciones XXII, y XXIII; y
-
-XV.- De 400 a 700 Unidades de Medida y Actualización, a la señalada en el artículo 90, fracción XXIV.
-
-### CAPITULO II. De los Delitos Fiscales
-
-###### ARTÍCULO 94.
-
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Finanzas formule la querella respectiva, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
-
-Los procesos por los delitos fiscales se sobreseerán a petición de la Secretaría de Finanzas, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Fuero Común formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
-
-En los delitos fiscales en que el daño o el perjuicio sea cuantificable, la Secretaría de Finanzas hará la cuantificación correspondiente en la propia querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso, la suma de la cuantificación antes mencionada y las contribuciones adeudadas, incluyendo recargos, que hubiera determinado la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo, no sustituye a la garantía del interés fiscal.
-
-En caso de que el inculpado hubiera pagado o garantizado el interés fiscal a entera satisfacción de la Secretaría de Finanzas, la autoridad judicial, a solicitud del inculpado, podrá reducir hasta en un 50% el monto de la caución, siempre que existan motivos o razones que justifiquen dicha reducción.
-
-El monto de las cantidades establecidas en este capítulo, se actualizarán en el mes de enero de cada año con el factor de ajuste que se obtenga de dividir el índice nacional de precios al consumidor, emitido por el Banco de México de conformidad con las disposiciones fiscales federales, del mes de noviembre del año inmediato anterior a aquél por el que se efectué el cálculo entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior al de dicho cálculo.
-
-###### ARTÍCULO 95.
-
-Cuando en el ejercicio de sus facultades de comprobación la autoridad fiscal conozca de hechos presuntamente delictivos, procederá a la formulación de querella, sin perjuicio de que la propia autoridad fiscal pueda continuar ejerciendo dichas facultades, con base en las cuales podrán aportarse elementos adicionales.
-
-###### ARTÍCULO 96.
-
-En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
-
-###### ARTÍCULO 97.
-
-Son responsables de los delitos fiscales, quienes:
-
-I.- Concierten la realización del delito;
-
-II.- Realicen la conducta o el hecho descrito en la Ley;
-
-III.- Cometan conjuntamente el delito;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-IV.- Ayuden dolosamente a otro para su comisión;
-
-V.- Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-VI.- Se sirvan de otra persona como instrumento para ejecutarlo;
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-VII.- Induzcan dolosamente a otro a cometerlo;
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Tengan la calidad de garante derivada de una disposición jurídica, de un contrato o de los estatutos sociales, en los delitos de omisión con resultado material por tener la obligación de evitar el resultado típico; y
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
-
-IX.- Derivado de un contrato o convenio que implique desarrollo de la actividad independiente, propongan, establezcan o lleven a cabo por sí o por interpósita persona, actos, operaciones o prácticas, de cuya ejecución directamente derive la comisión de un delito fiscal.
-
-###### ARTÍCULO 98.
-
-Si un funcionario o empleado público comete o en cualquier forma participa en la comisión de un delito fiscal, la pena aplicable por el delito que resulte se aumentará de tres meses a tres años de prisión.
-
-###### ARTÍCULO 99.
-
-En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad más de la que resulte aplicable.
-
-Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-###### ARTÍCULO 100.
-
-El derecho a formular querella de la Secretaría de Hacienda precluye y, por lo tanto, se extingue la acción penal, en cinco años, que se computarán a partir de la comisión del delito. Este plazo será continuo y en ningún caso se interrumpirá.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-La acción penal en los delitos fiscales prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala este Código para el delito de que se trate, pero en ningún caso será menor de cinco años.
-
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-Con excepción de lo dispuesto por los artículos 100 y 101, del Código Penal del Estado de Sonora, la acción penal en los delitos fiscales prescribirá conforme a las reglas aplicables previstas por dicho Código.
-
-###### ARTÍCULO 101.
-
-Para que proceda la condena condicional, la sustitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, además de los requisitos señalados en el Código Penal aplicable en Materia de Fuero Común, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Finanzas.
-
-###### ARTÍCULO 102.
-
-Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco estatal.
-
-El delito de defraudación fiscal se sancionará con las penas siguientes:
-
-I.- Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $600,000.00;
-
-II.- Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $600,000.00, pero no de $900,000.00; y,
-
-III.- Con prisión de tres años a ocho años cuando el monto de lo defraudado fuere mayor de $900,000.00.
-
-Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
-
-El delito de defraudación fiscal será calificado cuando ésta se origine por:
-
-a).- Usar documentos falsos;
-
-b).- Manifestar datos falsos para obtener de la autoridad fiscal la devolución de contribuciones que no le correspondan; y,
-
-c).- No llevar los sistemas o registros contables a que se esté obligado conforme a las disposiciones fiscales o asentar datos falsos en dichos sistemas o registros.
-
-Cuando los delitos a que se refiere este artículo sean calificados, la pena que corresponda se aumentará en una mitad.
-
-No se formulará querella si quien hubiere omitido el pago total o parcial de alguna contribución u obtenido el beneficio indebido, lo entera espontáneamente con sus recargos, antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
-
-Para los fines de este artículo y del siguiente, se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
-
-###### ARTÍCULO 103.
-
-Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
-
-I.- Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido;
-
-II.- Se beneficie sin derecho de un subsidio o estímulo fiscal;
-
-III.- Simule uno o más actos o contratos obteniendo un beneficio indebido con perjuicio del fisco estatal; y,
-
-IV.- Sea responsable por omitir presentar, por más de doce meses, las declaraciones que exijan las leyes fiscales, dejando de pagar la contribución correspondiente.
-
-No se formulará querella, si quien encontrándose en los supuestos anteriores, entera espontáneamente, con sus recargos, el monto de la contribución omitida o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
-
-###### ARTÍCULO 104.
-
-Se impondrá sanción de tres meses a tres años de prisión, a quien:
-
-I.- Omita solicitar su inscripción en el Registro Estatal de Contribuyentes por más de un año contado a partir de la fecha en que debió hacerlo;
-
-II.- No rinda los datos, informes o avisos a que se encuentra obligado conforme a este Código o lo haga con falsedad;
-
-III.- Use intencionalmente más de una clave del Registro Estatal de Contribuyentes; y,
-
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-IV.- Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación de la orden de visita o del ejercicio de las facultades de comprobación en el domicilio de la autoridad, incluyéndose la revisión de dictámenes o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso.
-
-No se formulará querella si, quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que tenga manifestados al Registro Estatal de Contribuyentes en el caso de la fracción IV.
-
-###### ARTÍCULO 105.
-
-Se impondrá sanción de tres meses a tres años de prisión, a quien:
-
-I.- Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos; y,
-
-II.- Oculte, altere o destruya, total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar.
-
-No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
-
-###### ARTÍCULO 106.
-
-Se impondrá sanción de dos meses a ocho años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $78,000.00; cuando exceda, la sanción será de tres a nueve años de prisión.
-
-Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
-
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
-
-###### ARTÍCULO 107.
-
-Se impondrá sanción de tres meses a seis años de prisión al que dolosamente:
-
-l.- Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
-
-Il.- Altere o destruya las máquinas registradoras de comprobación fiscal.
-
-III.- Fabrique, falsifique, reproduzca, enajene gratuita u onerosamente, distribuya, comercialice, transfiera, transmita, obtenga, guarde, conserve, reciba en depósito, introduzca al territorio del Estado, sustraiga, use, oculte, destruya, modifique, altere, manipule o posea dispositivos de seguridad, sin haberlos adquirido legalmente.
-
-###### ARTÍCULO 108.
-
-Se impondrá sanción de uno a seis años de prisión, a los servidores públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
-
-###### ARTÍCULO 109.
-
-Se sancionará con prisión de uno a cinco años al servidor público que amenazare de cualquier modo a un contribuyente o a sus representantes o dependientes, con formular por sí o por medio de la dependencia de su adscripción, una denuncia, querella o declaratoria al ministerio público para que se ejercite acción penal por la posible comisión de delitos fiscales.
-
-## TITULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
-
-### CAPITULO I. Del Recurso Administrativo
+### CAPITULO III. DE LA EDUCACION PRIMARIA
 
 #### Sección I. Del Recurso de Revocación
 
-###### ARTÍCULO 110.
+###### ARTICULO 110.
 
-Contra los actos administrativos dictados en materia fiscal estatal, se podrá interponer el recurso de revocación.
+Las revalidaciones y equivalencias otorgadas en términos del artículo anterior tendrán validez en toda la República.
 
-###### ARTÍCULO 111.
+###### ARTICULO 111.
 
-El recurso de revocación procederá contra:
+La autoridad educativa local en el ámbito de su competencia aplicará los procedimientos establecidos por la Secretaría de Educación Pública para expedir certificados, constancias, diplomas o títulos a quienes acrediten conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
 
-I.- Las resoluciones definitivas dictadas por autoridades fiscales estatales que:
+###### ARTICULO 112.
 
-a).- Determinen contribuciones, accesorios o aprovechamientos;
+Son infracciones de los particulares que presten servicios educativos:
 
-b).- Nieguen la devolución de cantidades que procedan conforme a la Ley; y,
+I.- Incumplir cualesquiera de las obligaciones previstas en los artículos 99 párrafo segundo; 100, 101 párrafo segundo y 103 de esta Ley;
 
-c).- Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos 44 tercer párrafo, 45 y 85 de este Código;
+II.- Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
-II.- Los actos de autoridades fiscales estatales que:
+III.- Suspender clases en días y horas no autorizadas por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
-a).- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 27 de este Código;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-b).- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley;
+IV.- No utilizar los libros de texto que la secretaría de educación pública autorice y determine para la educación preescolar, primaria y secundaria;
 
-c).- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 119 de este Código; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+V.- Incumplir los lineamientos generales para el uso de material didáctico para la educación preescolar, primaria y secundaria;
 
-d).- Determinen el valor de los bienes embargados a que se refiere el artículo 167 de este Código.
+VI.- Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
 
-Para efectos de lo dispuesto en la fracción I de este artículo, por resolución definitiva deberá entenderse aquella que resolvió sobre la cuestión de fondo planteada por el contribuyente y que por lo mismo no puede volver a conocer la autoridad resolutora, habiendo concluido la instancia correspondiente.
+VII.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
 
-Así también deberá entenderse como resolución definitiva, aquella que sin resolver del fondo del asunto, exige al contribuyente requisitos cuyo incumplimiento resulta imposible.
+VIII.- Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo distinto de los alimentos, así como la comercialización de bienes o servicios notoriamente ajenos al proceso educativo;
 
-###### ARTÍCULO 112.
+IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo del Estado; dicha opción solo procederá antes de que el interesado acuda al citado Tribunal. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
 
-Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de lo Contencioso Administrativo del Estado, la impugnación del acto conexo deberá hacerse valer ante el mismo Tribunal que conozca del juicio respectivo.
+XI.- Oponerse a las actividades de evaluación, supervisión y vigilancia, así como no proporcionar información veraz y oportuna;
 
-Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
+XII.- Ostentarse como plantel incorporado sin estarlo;
 
-###### ARTÍCULO 113.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2005)</small>
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad competente en razón del domicilio del contribuyente o ante la que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación excepto lo dispuesto en los artículos 118 y 175 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en los mismos se señala.
+XIII.- Impartir la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
 
-El escrito de interposición del recurso podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina exactora o se deposite en la oficina de correos.
+XIV.- Incumplir con lo dispuesto por el artículo 102 de la presente Ley, y
 
-###### ARTÍCULO 114.
+XV.- Incumplir con lo dispuesto por el Artículo 3º Constitucional, por la Ley General de Educación y la presente, así como de las disposiciones expedidas con fundamento en ellas.
 
-El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 22 de este Código y señalar además:
+### CAPITULO II. DE LAS SANCIONES
 
-I.- La resolución o el acto que se impugna;
+###### ARTICULO 113.
 
-II.- Los agravios que le cause la resolución o el acto impugnado; y,
+Las infracciones enumeradas en el artículo anterior se sancionarán con:
 
-III.- Las pruebas y los hechos controvertidos de que se trate;
+I.- Amonestación por escrito;
 
-Cuando no se expresen los agravios, no se señale la resolución o el acto que se impugna, los hechos controvertidos o no se ofrezcan las pruebas a que se refieren las fracciones I, II y III, la autoridad fiscal requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
+II.- Multa económica hasta por el equivalente a cinco mil veces el salario mínimo general vigente en la Entidad y en la fecha en la que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, y
 
-Cuando no se gestione en nombre propio, la representación de las personas físicas y morales, deberá acreditarse en términos del artículo 23 de este Código.
+III.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente.
 
-###### ARTÍCULO 115.
+La imposición de las sanciones establecidas en las fracciones I y III anteriores no excluye la posibilidad de que sea impuesta alguna multa, sin perjuicio de las acciones legales que procedan.
 
-El promovente deberá acompañar al escrito en que se interponga el recurso:
+> <small>(F. DE E., P.O. 29 DE ENERO DE 1997)</small>
 
-I.- Los documentos que acrediten su personalidad cuando actúe a nombre de otro o de personas morales, o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada o que se cumple con los requisitos a que se refiere el primer párrafo del artículo 23 de este Código;
+###### ARTICULO 114.
 
-II.- El documento en que conste el acto impugnado;
+En los supuestos previstos por las fracciones XII, XIII y XIV del artículo 112 de esta Ley, además de aplicarse las sanciones señaladas en la fracción II del artículo anterior, podrá procederse a la clausura del plantel respectivo.
 
-III.- Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo; y,
+###### ARTICULO 115.
 
-IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
+Las disposiciones del artículo anterior no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas que existen para ellos.
 
-Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la autoridad tenga indicios de que no existen o son falsos, podrá exigir al contribuyente la presentación del original o copia certificada.
+###### ARTICULO 116.
 
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
 
-La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
+La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
 
-Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
+Para determinar la sanción se considerará las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socio-económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
-###### ARTÍCULO 116.
+###### ARTICULO 117.
 
-Es improcedente el recurso cuando se haga valer contra actos administrativos:
+La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trate.
 
-I.- Que no afecten el interés jurídico del recurrente;
+El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras la institución contaba con el reconocimiento, mantendrán su validez oficial.
 
-II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias;
+La autoridad que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
 
-III.- Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado;
+En el caso de autorizaciones cuando la revocación se dicte durante el ejercicio lectivo la institución podrá seguir funcionando a juicio y bajo la vigilancia de la autoridad, hasta que aquél concluya.
 
-IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
+### CAPITULO III. DEL RECURSO ADMINISTRATIVO
 
-V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
+> <small>(REFORMADO, 23 DE MAYO DE 2001)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTICULO 118.
 
-VI.- (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
+En contra de las resoluciones de las autoridades educativas dictadas con fundamento en disposiciones de esta Ley y las que de ella emanen, podrá interponerse el recurso de impugnación, en términos de lo previsto en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
-VII.- Si son revocados los actos por la autoridad.
+###### ARTICULO 119.
 
-###### ARTÍCULO 117.
-
-Procede el sobreseimiento en los casos siguientes:
-
-I.- Cuando el promovente se desista expresamente de su recurso;
-
-II.- Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 116 de este Código;
-
-III.- Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada; y,
-
-IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-###### ARTÍCULO 118.
-
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-###### ARTÍCULO 119.
-
-El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 #### Sección II. De la Impugnación de Notificaciones
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 120.
+###### ARTICULO 120.
 
-(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 #### Sección III. Del Trámite y Resolución del Recurso
 
-###### ARTÍCULO 121.
+###### ARTICULO 121.
 
-En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-Las pruebas supervinientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+###### ARTICULO 122.
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+###### ARTICULO 123.
 
-Las demás pruebas quedarán a la prudente apreciación de la autoridad.
+La interposición del procedimiento administrativo, suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
 
-Si por el enlace de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión solo se otorgará si concurren los requisitos siguientes:
 
-Para el trámite, desahogo y valoración de las pruebas ofrecidas y admitidas, será aplicable lo dispuesto en la Sección relativa a las pruebas establecida en el Título VI, relativo al Procedimiento Contencioso Administrativo previsto en este Código.
+I.- Que lo solicite el recurrente;
 
-###### ARTÍCULO 122.
+II.- Que el recurso haya sido admitido;
 
-La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso. Transcurrido dicho plazo sin que se notifique la resolución, se considerará que la autoridad ha confirmado el acto impugnado, y el interesado podrá impugnarla ante el Tribunal de lo Contencioso Administrativo del Estado, en cualquier tiempo mientras no se notifique la resolución respectiva, o bien esperar a que esta se dicte.
+III.- Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley, y
 
-###### ARTÍCULO 123.
+IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en términos de esta Ley o de las disposiciones que de ella emanen.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
+Cuando proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros, el promovente podrá otorgar, previa a la ejecución de aquélla, una garantía cuya cantidad será fijada por la autoridad educativa correspondiente.
 
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
+## TRANSITORIOS
 
-No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Morelos.
 
-La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
+SEGUNDO.- Se derogan las disposiciones contenidas en la Ley de Educación Pública, publicada en el Periódico Oficial número 2512, de fecha 6 de octubre de 1971. Quedando vigente únicamente su Capítulo Décimo Séptimo, hasta que estas disposiciones sean contenidas en el ordenamiento legal correspondiente.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- El Poder Ejecutivo del Estado por conducto de la Secretaría de Bienestar Social expedirá los reglamentos respectivos dentro de un término de ciento veinte días posteriores a la publicación de esta Ley, para la aplicación de la misma.
+
+QUINTO.- Las autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas de su organización sindical en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes al expedirse esta Ley.
+
+Recinto Legislativo a los 22 días del mes de agosto de 1996.
+
+ATENTAMENTE
+
+"SUFRAGIO EFECTIVO. NO REELECCION"
+
+LOS CC. MIEMBROS DE LA MESA DIRECTIVA EN TURNO
+
+PRESIDENTE
+
+DIP. DELFINO TOLEDANO ALFARO
+
+SECRETARIOS
+
+DIP. MARCOS GARCIA ALVAREZ
+
+DIP. TERESA DE JESUS ORTIZ MARTINEZ
+
+RUBRICAS
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintitrés días del mes de agosto de mil novecientos noventa y seis.
+
+SUFRAGIO EFECTIVO. NO REELECCION
+
+GOBERNADOR DEL ESTADO
+
+JORGE CARRILLO OLEA
+
+SECRETARIO GENERAL DE GOBIERNO
+
+GUILLERMO MALO VELASCO
+
+RUBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 28 DE JUNIO DE 2000.
+
+PRIMERO.- Aprobado que sea el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 23 DE MAYO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 4 DE JUNIO DE 2003.
+
+Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- Se concede al Titular del Poder ejecutivo un plazo de 60 días naturales para que expida y publique el reglamento respectivo.
+
+P.O. 4 DE MAYO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
+
+TERCERO. El gobierno del Estado celebrará con el gobierno Federal un convenio de colaboración que le permita cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en el artículo anterior.
+
+P.O. 13 DE JULIO DE 2011.
+
+ÚNICO.- Aprobado que sea el presente decreto, entrara en vigor al siguiente día de su publicación, remítase al Poder Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Aprobado el presente Decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente decreto, remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERO.- Las instituciones de educación superior que forman parte del Sistema Educativo Estatal, contarán con un periodo de doce meses contados a partir de la vigencia de este decreto para cumplir a cabalidad con la observancia de las nuevas disposiciones contenidas en el artículo 36 de la Ley de Educación del Estado de Morelos.
+
+P.O. 2 DE MAYO DE 2012.
+
+Primero.- Aprobado que sea el presente decreto túrnese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión el (sic) Gobierno del Estado de Morelos.
+
+Segundo.- El Poder Ejecutivo, deberá establecer conforme a los mecanismos correspondientes la ampliación presupuestal procedente a fin de que al inicio del ciclo escolar 2012 - 2013, se asigne a los profesionales en el área de educación física a los centros de atención a personas con discapacidades en la educación especial.
+
+Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 15 DE AGOSTO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- El Reglamento a que se refiere la fracción IV del artículo 89 Bis de la presente Ley, deberá ser expedido por el Titular del Ejecutivo del Estado en un término no mayor a 90 días a partir de la publicación del presente Decreto en el Periódico Oficial Tierra y Libertad.
+
+CUARTO.- Para los efectos del presente Decreto, las modificaciones propuestas, serán aplicables a partir del ciclo escolar 2012-2013.
+
+P.O. 5 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Aprobado que sea el presente decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano del Estado de Morelos, remítase al Poder Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial Tierra y Libertad.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- La autoridad educativa vigilará lo dispuesto en la fracción IV del artículo 93 bis a efecto de que se efectúe el cambio de la Mesa Directiva de la Asociación Estatal de Padres de Familia y la creación del Consejo a que se refiere el segundo párrafo inciso b) de la fracción II del mismo artículo 93 bis, en un término no mayor a 60 días naturales.
+
+P.O. 6 DE MARZO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado de Morelos.
 
 ###### ARTÍCULO 124.
 
@@ -2613,7 +1517,7 @@ V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el r
 
 Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses, contados a partir de la fecha en que dicha resolución se encuentre firme, aun cuando hayan transcurrido los plazos que señalan los artículos 59 y 79 de este Código.
 
-### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
+### CAPITULO IV. DE LA EDUCACION SECUNDARIA
 
 ###### ARTÍCULO 125.
 
@@ -2875,7 +1779,9 @@ Para los efectos del artículo anterior el contribuyente o el tercero que tenga 
 
 La cancelación de las garantías en las que con motivo de su otorgamiento se hubiera efectuado inscripción en registro público, se hará mediante oficio de la autoridad al registro público que corresponda.
 
-### CAPITULO III. Del Procedimiento Administrativo de Ejecución
+### CAPITULO V. DE LA EDUCACION FISICA Y ARTISTICA
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
 #### Sección I. Disposiciones Generales
 
@@ -3653,9 +2559,11 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando 
 
 II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
-## TITULO SEXTO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+## TITULO SEXTO. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO I. DE LAS INFRACCIONES
+
+### CAPITULO VI. DE LA EDUCACION INDIGENA
 
 ###### ARTÍCULO 196.
 
@@ -3685,7 +2593,9 @@ Las diligencias que deban practicarse fuera del local del Tribunal de lo Contenc
 
 Cuando deban practicarse en lugar distinto de la ciudad de Hermosillo, podrán encomendarse a los jueces de primera instancia del ramo civil de la jurisdicción, quienes estarán obligados a diligenciar los exhortos respectivos.
 
-### CAPITULO II. Del Procedimiento
+### CAPITULO VII. DE LA EDUCACION ESPECIAL
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
 #### Sección I. Disposiciones Preliminares
 
