@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-05-14"
+last_updated: "2021-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -681,7 +681,9 @@ V.- Dictamen favorable de protección civil, expedido por el departamento de bom
 
 VI.- Autorización sanitaria.
 
-Los interesados que realicen el trámite anterior, deberán proporcionar a la Secretaría, una copia de la solicitud de anuencia recibida por la autoridad municipal que corresponda, a fin de que realice, a su vez, un estudio previo de factibilidad de operación del giro que se pretende tramitar.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Los interesados que realicen el trámite anterior, deberán proporcionar a la Secretaría, una copia de la solicitud de anuencia recibida por la autoridad municipal que corresponda, una carta por parte del ayuntamiento donde especifique el estatus jurídico con que se encuentra el trámite correspondiente y una copia del expediente completo ingresado al ayuntamiento para obtener la anuencia municipal, a fin de que realice, a su vez, un estudio previo de factibilidad de operación del giro que se pretende tramitar.
 
 ###### Artículo 38.
 
@@ -1824,3 +1826,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Hacienda y los Ayuntamientos deberán realizar los ajustes correspondientes en sus estimaciones recaudatorias dentro de la Ley de Ingresos para el ejercicio fiscal aplicable.
+
+B.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 15, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES".]
+
+Artículo Primero.- El presente decreto entrará en vigor en el Estado de Sonora a partir del 01 de enero de 2022, previa publicación en el Boletín Oficial del Estado de Sonora.
+
+Artículo Segundo.- Los juicios contenciosos administrativos que se hubieran interpuesto antes de la entrada en vigor de la Ley de Justicia Administrativa del Estado de Sonora, se tramitarán y resolverán de conformidad con lo establecido en el Título Sexto del Código Fiscal del Estado de Sonora vigente en el momento de la presentación de la demanda.
+
+Artículo Tercero.- Los juicios de nulidad que se hubieran interpuesto a partir de la entrada en vigor de la Ley de Justicia Administrativa para el Estado de Sonora, se tramitarán y resolverán de acuerdo con lo dispuesto en esa misma Ley, por lo que las leyes que remitan a los artículos comprendidos del 196 al 251, contenidos en el Título Sexto del Código Fiscal del Estado de Sonora que se deroga, se entenderán referidos a los correlativos de la Ley de Justicia Administrativa del Estado de Sonora.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
