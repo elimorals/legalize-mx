@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2021-11-23"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -1136,6 +1136,10 @@ l) Operar y coordinar el Sistema de Radiocomunicaciones del Estado;
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ll) Vigilar el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+m) Expedir las licencias y permisos para conducir en el Estado y operar el registro estatal de licencias y de infracciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2440,3 +2444,13 @@ Para todos los efectos legales correspondientes, las referencias al Instituto de
 Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a las secretarías de Desarrollo Social y Humano; y de Infraestructura, Conectividad y Movilidad para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
 
 Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 56, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 31 FRACCIÓN I, CON UN INCISO M DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor en la misma fecha en que lo hagan las reformas a las leyes de Movilidad del Estado de Guanajuato y sus Municipios y del Sistema de Seguridad Pública del Estado de Guanajuato, respectivamente, que expida el Congreso del Estado por virtud de la reforma a que se refiere el presente Decreto, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Ejecutivo del Estado contará con un término de ciento ochenta días a partir de la entrada en vigor del presente Decreto para la adecuación de los Reglamentos respectivos.
+
+Artículo Tercero. La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
