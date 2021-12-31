@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-la-comision-estatal-del-sistema-penitenciario-1427
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-30"
-last_updated: "2020-04-30"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Número 58 del Periódico Oficial del Estado de Baja California, el jueves 30 de abril de 2020.
 
@@ -47,9 +47,15 @@ Esta Ley es de orden público e interés social y tiene por objeto regular la or
 
 Se crea la Comisión Estatal del Sistema Penitenciario de Baja California, como organismo público descentralizado de la Administración Pública del Estado, con personalidad jurídica, patrimonio propio y autonomía de gestión para el cumplimiento de sus fines.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+La Comisión Estatal del Sistema Penitenciario de Baja California estará sectorizada a la Secretaría de Seguridad Ciudadana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 3.
 
-para los efectos de esta ley, se entenderá por:
+Para los efectos de esta ley, se entenderá por:
 
 I. El Consejo: Consejo de Desarrollo Policial.
 
@@ -61,7 +67,9 @@ IV. Ley de Ley de (sic) Ejecución: Ley Nacional de Ejecución Penal.
 
 V. Ley de Justicia para Adolescentes: Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
-VI. Miembro: Elemento de la Policía Estatal de Seguridad y Custodia Penitenciaria.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VI. Miembro: Elemento de la Fuerza Estatal de Seguridad y Custodia Penitenciaria.
 
 VII. Unidades de Abastecimiento: Las Unidades de Abastecimiento de productos, servicios alimentarios y de higiene que se establezcan en los Centros de Reinserción Social.
 
@@ -177,7 +185,9 @@ IV. Las demás unidades administrativas que establezca su reglamento interior.
 
 La Junta de Gobierno es el órgano máximo de gobierno al interior de la Comisión, el cual estará integrado por los titulares de las siguientes dependencias:
 
-I. El Secretario General de Gobierno, quien la presidirá;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I. El Secretario de Seguridad Ciudadana, quien la presidirá;
 
 II. El Secretario de Educación;
 
@@ -385,6 +395,8 @@ C) Un Representante, que será un Miembro de la unidad operativa, ya sea de inve
 
 Los procedimientos que se aplicarán se establecerán en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 20.
 
 Son funciones del Consejo, las siguientes:
@@ -427,7 +439,9 @@ III. Proponer las reformas necesarias a los procedimientos jurídicos que regula
 
 IV. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia;
 
-V. Llevar y mantener actualizado el registro de datos de los Aspirantes, Cadetes y Miembros, así como supervisar su operatividad y confidencialidad, proporcionando la información a (sic) del Registro Nacional de Personal de Seguridad Pública y al Sistema Estatal de Información sobre Seguridad Pública, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V. Llevar y mantener actualizado el registro de datos de los Aspirantes, Cadetes y Miembros, así como supervisar su operatividad y confidencialidad, proporcionando la información al Registro Nacional de Personal de Seguridad Pública y al Sistema Estatal de Información sobre Seguridad Ciudadana, y
 
 VI. Las demás que señalen en la Ley, su Reglamento y demás disposiciones aplicables.
 
@@ -476,3 +490,13 @@ GOBERNADOR DEL ESTADO.
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor el primero de enero de 2022.
+
+SEGUNDO. Dentro de un plazo de treinta días contados a partir de la entrada en vigor de las presentes reformas, deberá emitirse el Acuerdo de Sectorización que determine como cabeza de sector de la Comisión Estatal del Sistema Penitenciario de Baja California, a la Secretaría de Seguridad Ciudadana.
