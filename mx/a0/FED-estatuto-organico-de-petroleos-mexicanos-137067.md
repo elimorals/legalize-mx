@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-137067"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2021-05-07"
+last_updated: "2021-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137067&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PETROLEOS MEXICANOS
 
-[N. DE E. INFORMACIÓN DE LAS MODIFICACIONES OBTENIDA EL 7 DE MAYO DE 2021 EN LAS DIRECCIONES ELECTRÓNICAS: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf; Y www.dof.gob.mx/2021/PEMEX/mod_eopmx_202104.pdf
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2021.
 
 Estatuto publicado en la Primera Sección al Número 22 del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -473,9 +473,13 @@ Los Directores Corporativos, el Director Jurídico y el Auditor Interno se auxil
 
 #### SECCIÓN SEGUNDA. DE LOS SUBDIRECTORES
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 16.
 
-Cada uno de los subdirectores tendrá, en el ámbito de su competencia, las funciones siguientes:
+Cada uno de los subdirectores y el titular de la Unidad de Control Interno Institucional tendrán, en el ámbito de su competencia, las funciones siguientes:
 
 I. Coordinar la integración de la información para el programa operativo y financiero anual de trabajo de Pemex y sus Empresas Productivas Subsidiarias e integrar la propuesta de los requerimientos presupuestales para dicho programa, así como informar del ejercicio de los recursos asignados;
 
@@ -499,7 +503,7 @@ La delegación de funciones y asignación de responsabilidades recaerá en los s
 
 X. Certificar y expedir constancias de los documentos que obren en los archivos de su área;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+[INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
 
@@ -511,13 +515,13 @@ XIII. Elaborar la documentación que se presente a consideración del Consejo de
 
 XIV. Participar en órganos colegiados o grupos de trabajo;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+[INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
 
 XV. Coordinar la ejecución de los acuerdos adoptados por el Comité Ejecutivo del MOBAP, así como participar en proyectos, toma de decisiones y ejecución de acciones de forma transversal en Pemex y sus Empresas Productivas Subsidiarias, en esta materia;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+[INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
 
@@ -527,7 +531,7 @@ XVII. Coordinar en sus áreas la alineación al MOBAP e instrumentar mejoras y c
 
 XVIII. Participar en la organización, clasificación, conservación y baja de la información, en cumplimiento a los ordenamientos en la materia;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+[INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
 
@@ -541,19 +545,19 @@ XXII. Llevar a cabo cualquier otro acto permitido por la legislación mercantil 
 
 XXIII. Supervisar el registro financiero de las operaciones generadas en sus áreas;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+[INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
 
 XXIV. Coordinar la participación en la implementación del Programa de Cumplimiento y fomentar la cultura de Cumplimiento, así como la atención de las recomendaciones del Comité de Ética de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+[INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
 
 XXV. Verificar la aplicación y cumplimiento de los criterios y opiniones emitidos por la Dirección Jurídica;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+[INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
 
@@ -563,9 +567,13 @@ XXVI. Las demás que sean necesarias para el ejercicio de su cargo, así como la
 
 Las funciones a que se refieren las fracciones I a V, IX, y XIII, del presente artículo son indelegables.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-Para la realización de sus actividades, los subdirectores se auxiliarán de las coordinaciones, unidad, gerencias y demás áreas adscritas a su subdirección.
+Para la realización de sus actividades, los subdirectores y el titular de la Unidad de Control Interno Institucional se auxiliarán de las coordinaciones, unidades, gerencias y demás áreas adscritas a su área.
 
 #### SECCIÓN TERCERA. DE LOS COORDINADORES
 
@@ -747,7 +755,11 @@ Tratándose de los delegados y gerentes de la Auditoría Interna, sus funciones 
 
 Serán indelegables las funciones de los delegados y gerentes de la Auditoría Interna a que se refieren las fracciones III y VIII, del presente artículo.
 
-Tratándose de los titulares de la Unidad de Control Interno Institucional de la Dirección General de Pemex y de las coordinaciones de la Dirección Corporativa de Planeación, Coordinación y Desempeño, resultan aplicables, en lo conducente, las funciones previstas para los gerentes en el presente artículo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de los titulares de las coordinaciones de la Dirección Corporativa de Planeación, Coordinación y Desempeño, resultan aplicables, en lo conducente, las funciones previstas para los gerentes en el presente artículo.
 
 ###### Artículo 20.
 
@@ -1060,6 +1072,24 @@ d) Gerencia Jurídica Contenciosa Penal
 8. Gerencia Jurídica Región Sureste
 
 VI. Unidad de Control Interno Institucional
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+1. Gerencia de Apoyo y Seguimiento al Control Interno Financiero
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+2. Gerencia de Apoyo y Seguimiento al Control Interno en Empresas Filiales y Normatividad
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+3. Gerencia de Apoyo y Seguimiento al Control Interno en Pemex y Empresas Productivas Subsidiarias
 
 VII. Auditoría Interna
 
@@ -7199,89 +7229,205 @@ IX. Las demás que determine el Director Jurídico.
 
 La Unidad de Control Interno Institucional tendrá las funciones siguientes:
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-I. Diseñar y proponer al Director General las acciones, metodologías y herramientas para la instrumentación, evaluación y mejora del Sistema de Control Interno en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+I. Dirigir el diseño y proponer al Director General las acciones, metodologías y herramientas para la instrumentación, evaluación y mejora del Sistema de Control Interno en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-II. Elaborar y proponer al Director General los lineamientos del Sistema de Control Interno para su presentación y aprobación por el Consejo de Administración, en coordinación con las áreas competentes;
+II. Dirigir la elaboración y proponer al Director General los lineamientos del Sistema de Control Interno para su presentación y aprobación por el Consejo de Administración, en coordinación con las áreas competentes;
 
-III. Difundir los lineamientos del Sistema de Control Interno, así como promover y dar seguimiento a su cumplimiento e instrumentación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
+III. Promover el cumplimiento e instrumentación de los lineamientos del Sistema de Control Interno;
 
-IV. Integrar, elaborar y proponer al Director General el informe anual sobre el estado que guarda el Sistema de Control Interno, en coordinación con las áreas competentes;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-V. (DEROGADA, D.O.F. 7 DE MAYO DE 2021)
+IV. Proponer al Director General el informe anual sobre el estado que guarda el Sistema de Control Interno, en coordinación con las áreas competentes;
 
-VI. Desarrollar, proponer y coordinar las acciones para la promoción de la cultura de control interno;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
+V. Coordinar y proponer las acciones para la promoción de la cultura de control interno;
 
-VII. Asesorar, en materia de control interno, en la atención y seguimiento de requerimientos e instrumentación de controles de las revisiones efectuadas por las instancias de fiscalización, a las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-VIII. (DEROGADA, D.O.F. 7 DE MAYO DE 2021)
+VI. Dirigir la asesoría, atención y seguimiento, en materia de control interno, de requerimientos e instrumentación de controles de las revisiones efectuadas por las instancias de fiscalización, a las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-IX. Diseñar e instrumentar el programa de capacitación y desarrollo de competencias en materia de control interno, en coordinación con la Gerencia de Capacitación y Desarrollo;
+VII. Dirigir el diseño e instrumentación del programa de capacitación y desarrollo de competencias en materia de control interno;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-X. Proponer e instrumentar las acciones y coordinar la atención y seguimiento de asuntos transversales de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales que determine el Director General;
+VIII. Dirigir la atención y seguimiento de los asuntos transversales de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales que determine el Director General;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-XI. Proponer e implementar acciones para la atención de asuntos asignados por el Director General, en materia de control interno;
+IX. Proponer y coordinar la implementación de acciones para la atención de asuntos asignados por el Director General, en materia de control interno;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-XII. Coordinar, asesorar y dar seguimiento al avance en la instrumentación de los programas de trabajo de control interno de las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como de las acciones de los asuntos transversales determinados por el Director General;
+X. Coordinar, asesorar y dar seguimiento al avance en la instrumentación de los programas de trabajo de control interno de las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como de las acciones de los asuntos transversales determinados por el Director General;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-XIII. Asesorar a las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales en la aplicación de los lineamientos, metodologías y herramientas para la instrumentación, evaluación y mejora del Sistema de Control Interno;
+XI. Dirigir la asesoría a las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales en la aplicación de los lineamientos, metodologías y herramientas para la instrumentación, evaluación y mejora del Sistema de Control Interno;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-XIV. Diseñar, proponer y coordinar el establecimiento de medidas y mecanismos para la atención de las debilidades de control interno de las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+XII. Coordinar y proponer el establecimiento de medidas y mecanismos para la atención de las debilidades de control interno de las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-XV. Identificar, evaluar y proponer medidas de control interno para mitigar los riesgos de proceso de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
+XIII. Coordinar las medidas de control interno para mitigar los riesgos de proceso de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
 
-[INFORMACIÓN OBTENIDA DE : https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-XVI. Diseñar actividades de control interno para la gestión de la seguridad sobre los sistemas de información.
+XIV. Coordinar las actividades de control interno para la gestión de la seguridad sobre los sistemas de información.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 156 Bis.
+
+La Gerencia de Apoyo y Seguimiento al Control Interno Financiero tendrá las funciones siguientes:
+
+I. Diseñar y proponer las acciones, metodologías y herramientas aplicables para la instrumentación, evaluación y mejora del Sistema de Control Interno en el proceso financiero;
+
+II. Dar seguimiento a las actualizaciones de los controles en el proceso financiero de Pemex y sus Empresas Productivas Subsidiarias;
+
+III. Coordinar el ejercicio de evaluación, así como dar seguimiento a la implementación del Sistema de Control Interno en el proceso financiero, a través de las metodologías y herramientas aplicables;
+
+IV. Proponer, al área competente en el proceso financiero, la implementación de nuevos controles y/o el reforzamiento de los existentes;
+
+V. Participar en la elaboración y proponer las modificaciones de los lineamientos del Sistema de Control Interno respecto del proceso financiero;
+
+VI. Elaborar la revelación y conclusión del control interno para reporte financiero;
+
+VII. Promover la cultura de control interno en el proceso financiero;
+
+VIII. Asesorar en la instrumentación y/o fortalecimiento de controles en atención a las auditorías realizadas por las instancias de fiscalización en el proceso financiero;
+
+IX. Diseñar e instrumentar el programa de capacitación y desarrollo de competencias en materia de control interno en el proceso financiero, en coordinación con la Gerencia de Apoyo y Seguimiento al Control Interno en Empresas Filiales y Normatividad;
+
+X. Atender y dar seguimiento a los asuntos transversales que le sean asignados;
+
+XI. Implementar acciones que atiendan los temas en materia de control interno que le sean asignados;
+
+XII. Proponer mecanismos para la atención de las debilidades de control, así como coordinar la elaboración y atención de los programas de trabajo de control interno, en el proceso financiero de Pemex y sus Empresas Productivas Subsidiarias;
+
+XIII. Asesorar al área competente en el proceso financiero en la aplicación de los lineamientos, metodologías y herramientas en materia de control interno, y
+
+XIV. Identificar y proponer las medidas de control, en la mitigación de los riesgos de proceso, su evaluación y seguimiento de su cumplimiento en el proceso financiero.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 156 Ter.
+
+La Gerencia de Apoyo y Seguimiento al Control Interno en Empresas Filiales y Normatividad tendrá las funciones siguientes:
+
+I. Diseñar y proponer las metodologías y herramientas aplicables para la implementación, evaluación y mejora del Sistema de Control Interno en las Empresas Filiales;
+
+II. Promover la incorporación de controles al interior de las Empresas Filiales;
+
+III. Coordinar con las áreas competentes la elaboración y actualización de la metodología para determinar el estado que guarda el Sistema de Control Interno en Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y Empresas Filiales, así como llevar a cabo su difusión;
+
+IV. Apoyar en el desarrollo de la planeación del ejercicio de validación y monitoreo del Sistema de Control Interno en las Empresas Filiales;
+
+V. Coordinar el ejercicio de validación y monitoreo en las Empresas Filiales, así como dar seguimiento a la implementación del Sistema de Control Interno a través de las metodologías y herramientas aplicables;
+
+VI. Proponer a las Empresas Filiales la implementación de nuevos controles y/o el reforzamiento de los existentes;
+
+VII. Coordinar, con las áreas competentes, la elaboración y actualización de los lineamientos del Sistema de Control Interno, así como llevar a cabo su difusión;
+
+VIII. Coordinar con las áreas competentes la elaboración del proyecto de informe de evaluación sobre el estado que guarda el Sistema de Control Interno en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+IX. Dar seguimiento a los programas de trabajo de control interno, así como asesorar en la instrumentación y/o fortalecimiento de controles atendiendo a las observaciones de instancias fiscalizadoras en las Empresas Filiales;
+
+X. Coordinar con las áreas competentes la elaboración del informe consolidado del estado que guarda el Sistema de Control Interno en las Empresas Filiales;
+
+XI. Promover la cultura de control interno en las Empresas Filiales;
+
+XII. Coordinar el diseño e instrumentación del programa de capacitación y desarrollo de competencias en materia de Control Interno, en coordinación con la Gerencia de Capacitación y Desarrollo;
+
+XIII. Atender y dar seguimiento a los asuntos transversales que le sean asignados;
+
+XIV. Implementar acciones que atiendan los temas en materia de control interno que le sean asignados;
+
+XV. Proponer mecanismos para la atención de las debilidades de control interno, así como coordinar la elaboración y atención de los programas de trabajo de control interno en Empresas Filiales;
+
+XVI. Asesorar en la aplicación de los lineamientos, metodologías y herramientas en materia de control interno de las Empresas Filiales, y
+
+XVII. Identificar y proponer las medidas de control, en la mitigación de los riesgos de proceso, su evaluación y seguimiento de su cumplimiento en las Empresas Filiales.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 31 DE DICIEMBRE DE 2021 EN: https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 156 Quáter.
+
+La Gerencia de Apoyo y Seguimiento al Control Interno en Pemex y Empresas Productivas Subsidiarias tendrá las funciones siguientes:
+
+I. Diseñar y proponer las acciones, metodologías y herramientas aplicables para la instrumentación, evaluación y mejora del Sistema de Control Interno en los procesos institucionales y áreas que le correspondan;
+
+II. Dar seguimiento a las actualizaciones de los controles en los procesos institucionales y áreas que le correspondan;
+
+III. Coordinar el ejercicio de evaluación, así como dar seguimiento a la implementación del Sistema de Control Interno en los procesos institucionales y áreas que le correspondan, a través de las metodologías y herramientas aplicables;
+
+IV. Proponer, en los procesos institucionales y áreas que le correspondan, la implementación de nuevos controles y/o el reforzamiento de los existentes;
+
+V. Participar en la elaboración y proponer las modificaciones de lineamientos del Sistema de Control Interno respecto de los procesos institucionales y áreas que le correspondan;
+
+VI. Promover la cultura de control interno en los procesos institucionales y áreas que correspondan;
+
+VII. Realizar el análisis de los informes de resultados y hallazgos de las auditorías realizadas por las instancias fiscalizadoras, en materia de control interno, y proponerlo a las áreas de la Unidad de Control Interno Institucional;
+
+VIII. Asesorar en la instrumentación y/o fortalecimiento de controles en atención a las auditorías realizadas por las instancias de fiscalización en los procesos institucionales y áreas que le correspondan;
+
+IX. Diseñar e instrumentar el programa de capacitación y desarrollo de competencias en materia de control interno en los procesos institucionales y áreas que le correspondan, en coordinación con la Gerencia de Apoyo y Seguimiento al Control Interno en Empresas Filiales y Normatividad;
+
+X. Atender y dar seguimiento a los asuntos transversales que le sean asignados;
+
+XI. Implementar acciones que atiendan los temas en materia de control interno que le sean asignados;
+
+XII. Proponer mecanismos para la atención de las debilidades de control interno, así como coordinar la elaboración y atención de los programas de trabajo de control interno, en los procesos institucionales y áreas que le correspondan;
+
+XIII. Asesorar a los procesos institucionales y áreas que le correspondan en la aplicación de los lineamientos, metodologías y herramientas en materia de control interno;
+
+XIV. Identificar y proponer las medidas de control, en la mitigación de los riesgos de proceso, su evaluación y seguimiento de su cumplimiento en los procesos institucionales y áreas que le correspondan, y
+
+XV. Implementar las actividades de control interno para la gestión de la seguridad sobre los sistemas de información.
 
 ## TÍTULO SEXTO. DE LA INSTANCIA COLEGIADA PARA RESOLVER EL RECURSO DE RECONSIDERACIÓN EN MATERIA DE CONTRATACIONES
 
@@ -7798,3 +7944,23 @@ https://www.pemex.com/Documents/dof/mod_eopmx_202104.pdf
 www.dof.gob.mx/2021/PEMEX/mod_eopmx_202104.pdf
 
 Ciudad de México, a 30 de abril de 2021.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
+
+D.O.F. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS”.]
+
+PRIMERO. La presente modificación al Estatuto Orgánico de Petróleos Mexicanos entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La modificación a la estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
+
+TERCERO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
+
+CUARTO. En los casos que sea necesario, las áreas correspondientes propondrán las modificaciones a la normatividad interna y demás disposiciones jurídicas y administrativas que correspondan.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS:
+
+https://www.pemex.com/Documents/dof/mod_eopmx_202112.pdf
+
+www.dof.gob.mx/2021/PEMEX/mod_eopmx_202112.pdf
