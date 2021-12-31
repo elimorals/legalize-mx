@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2021-11-23"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -329,7 +329,19 @@ VI. Proponer los términos de los convenios, acuerdos y demás actos jurídicos 
 
 VII. Ejecutar los acuerdos del titular del Poder Ejecutivo en todo lo que se refiere a seguridad pública y vigilancia del tránsito objeto de esta Ley y sus reglamentos; y
 
-VIII. Las demás contenidas en esta Ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VIII. Expedir las licencias y permisos para conducir en el Estado con apego a la Ley de Movilidad del Estado de Guanajuato y sus Municipios y su reglamento;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX. Operar el registro estatal de licencias y de Infracciones; y
+
+X. Las demás contenidas en esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+El ejercicio de las atribuciones señaladas en las fracciones VIII y IX le corresponderá a la unidad administrativa que determine el reglamento interior de la Secretaría.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -2187,11 +2199,69 @@ I. Registro de Personal de Seguridad Pública;
 
 II. Registro de Armamento y Equipo Policial;
 
-III. Registro Administrativo de Detenciones; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV. Los demás que las instancias competentes consideren necesarios para los fines de la presente Ley.
+III. Registro Administrativo de Detenciones;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV. Registro Estatal de Licencias y de Infracciones; y
+
+V. Los demás que las instancias competentes consideren necesarios para los fines de la presente Ley.
 
 La Secretaría, tendrá acceso a las bases de datos que contengan información sobre los vehículos automotores inscritos en el padrón vehicular estatal, así como a los datos de identificación y localización de los propietarios de dichos vehículos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Registro Estatal de Licencias y de Infracciones
+
+###### Artículo 127
+
+1. La Secretaría, a través de la unidad administrativa que señale su Reglamento Interior, administrará el registro estatal de licencias y de infracciones, el cual tiene por finalidad contar con información oportuna y suficiente para prevenir accidentes de tránsito, así como para detectar a los infractores reincidentes.
+
+El registro estatal de licencias y de infracciones deberá ser permanentemente actualizado con los datos que genere la propia unidad administrativa y los que le sean proporcionados por los municipios de la entidad.
+
+Este registro contendrá como mínimo:
+
+I. Los datos de las licencias para conducir expedidas;
+
+II. El registro individualizado de los infractores de la Ley de Movilidad del Estado de Guanajuato y sus Municipios, de su reglamento estatal y municipal, así como la o las causales que motivaron la infracción y las sanciones impuestas;
+
+III. Estadísticas de accidentes; y
+
+IV. La información estadística y en materia de seguridad vial, que permita generar medidas de prevención de accidentes e iniciar los procedimientos de suspensión y cancelación de la licencia de conducir.
+
+Las autoridades municipales en materia de tránsito, así como las de salud pública, deben remitir diariamente la información que generen en materia de accidentes e infracciones que permitan integrar el registro estatal correspondiente.
+
+La Secretaría y las unidades administrativas en materia de tránsito y transporte de cada municipio deben crear en conjunto una red informática intermunicipal que permita la consulta oportuna y el flujo de información a las autoridades estatales y municipales.
+
+Los procedimientos a seguir por la Secretaría, las autoridades de tránsito municipales y por los propios responsables e involucrados en los casos en que ocurra un accidente, se especificarán en los reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Lineamientos para la expedición de licencias y permisos para conducir
+
+###### Artículo 127
+
+2. Para la expedición de las licencias y permisos para conducir, la unidad administrativa de la Secretaría deberá considerar lo siguiente:
+
+I. Las licencias de conducir deberán contener los datos que indiquen si el titular a cuyo nombre se expide, manifestó o no su voluntad de donar sus órganos y tejidos en caso de fallecimiento;
+
+II. El tipo de licencia que le corresponde:
+
+a) Tipo «A». Que autoriza a su titular a manejar los vehículos clasificados como de transporte particular o mercantil, de pasajeros, que no excedan de diez asientos o de carga cuyo peso no exceda de tres y media toneladas;
+
+b) Tipo «B». Que autoriza a su titular a conducir, además de los vehículos autorizados en el tipo de licencia anterior, los dedicados a la prestación del servicio público y especial de transporte;
+
+c) Tipo «C». Que autoriza a su titular a conducir, además de las unidades contempladas en la licencia tipo «A» todas aquellas unidades que tengan más de dos ejes, así como tractores de semirremolque, camiones con remolque, equipos especiales movibles, vehículos con grúa y en general los de tipo pesado; y
+
+d) Tipo «D». Que autoriza a su titular a conducir motocicletas, motonetas y otros vehículos similares; este tipo no autoriza a conducir ningún vehículo de los considerados en los incisos anteriores.
+
+III Los permisos de conducir se podrán expedir a las personas mayores de quince años y menores de dieciocho, con las modalidades, requisitos y condiciones que señale la Secretaría; y
+
+IV. Las personas con discapacidad o movilidad reducida que cuenten con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos automotores de servicio particular, tendrán derecho a que se les expida la licencia o permiso para conducir correspondiente, satisfaciendo los requisitos y condiciones que señale la Secretaría.
+
+La Secretaría, mediante las disposiciones técnicas que emita su titular, normará las características, requisitos, condiciones y modalidades para el cumplimiento de las atribuciones contenidas en este artículo, que resulten necesarias conforme al interés público.
 
 Obligatoriedad de inscripción en el Registro de Personal de Seguridad Pública
 
@@ -2679,15 +2749,9 @@ Vigilancia
 
 Los ayuntamientos, a través de la unidad administrativa que para el efecto designen, deberán llevar a cabo la vigilancia del tránsito en las vías de comunicación terrestre de jurisdicción municipal.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
-
-Colaboración en materia de registro de antecedentes de tránsito
-
 ###### Artículo 193
 
-3. Con la finalidad de contar con información oportuna y suficiente para prevenir accidentes de tránsito, así como para detectar a los infractores reincidentes, la Secretaría y los municipios, se apoyarán en el registro estatal de licencias e infracciones.
-
-Los procedimientos a seguir por la Secretaría, las autoridades de tránsito municipales y por los propios responsables e involucrados en los casos en que ocurra un accidente, se especificarán en los reglamentos respectivos.
+3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 194.
 
@@ -3032,3 +3096,47 @@ P.O. 23 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para las adecuaciones reglamentarias
+
+Artículo Segundo. A partir de la entrada en vigencia del presente Decreto, el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para su cumplimiento, en un plazo que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales.
+
+Dentro del mismo plazo, la Secretaría de Seguridad Pública deberá expedir las disposiciones técnicas a las que se refiere el artículo 127-2 de la Ley del Sistema de Seguridad Pública del Estado de Guanajuato contenido en el presente Decreto.
+
+Proceso de entrega-recepción
+
+Artículo Tercero. El proceso de entrega-recepción extraordinaria de la Secretaría de Gobierno a la Secretaría de Seguridad Pública se normará a través de los Lineamientos Administrativos que emitan de manera conjunta las secretarías de Gobierno, de Seguridad Pública, de Finanzas, Inversión y Administración y de la Transparencia y Rendición de Cuentas.
+
+Los Lineamientos Administrativos antes referidos se emitirán dentro de los noventa días siguientes al inicio de la vigencia del presente Decreto.
+
+El proceso de entrega recepción deberá quedar concluido, con la suscripción de un dictamen por las dependencias que intervengan, dentro de los ciento ochenta días siguientes a la entrada en vigencia de las adecuaciones y la expedición de los reglamentos y demás disposiciones para el cumplimiento del presente Decreto.
+
+Periodo de transición
+
+Artículo Cuarto. A partir de la entrada en vigencia del presente Decreto, las secretarías de Gobierno, de Seguridad Pública, de Finanzas, Inversión y Administración y de la Transparencia y Rendición de Cuentas acordarán los mecanismos administrativos, presupuestales y jurídicos adecuados para asegurar la continuidad en la prestación de las funciones y servicios, en tanto concluye el proceso de entrega recepción a que se refiere el artículo anterior.
+
+Aviso a la población en general
+
+Artículo Quinto. La Secretaría de Seguridad Pública deberá publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, en los periódicos con circulación estatal y en su portal electrónico oficial, el aviso por el cual se hará del conocimiento de la población del estado, la fecha en la que iniciará a prestar las funciones y servicios que asume en los términos del presente Decreto, así como la ubicación de las oficinas en el estado y los horarios de atención al público.
+
+Sustitución jurídica
+
+Artículo Sexto. Para los efectos legales correspondientes, las referencias que en las leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en instrumentos consensuales, se realicen a la Secretaría de Gobierno y a las unidades administrativas adscritas a la Dirección General de Transporte, relacionadas con el ejercicio de las atribuciones y la prestación de los servicios y las funciones que se asignan a la Secretaría de Seguridad Pública, de conformidad con el presente Decreto, se entenderán efectuadas a esta última.
+
+En consecuencia, la Secretaría de Seguridad Pública sustituye a la Secretaría de Gobierno en sus derechos y obligaciones y asume los compromisos adquiridos por las unidades administrativas de la Dirección General de Transporte adscrita a la Secretaría de Gobierno.
+
+Acuerdos Interinstitucionales
+
+Artículo Séptimo. Las secretarías de Gobierno y de Seguridad Pública podrán celebrar acuerdos interinstitucionales para que la primera de las dependencias pueda tener acceso a las plataformas y sistemas electrónicos necesarios para la conformación, actualización, consulta y expedición de las constancias, dictámenes y demás procedimientos administrativos, que correspondan a la competencia en materia de transporte de la Secretaría de Gobierno.
+
+Asignación de recursos presupuestales
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a la Secretaría de Seguridad Pública, para la adecuada operación de las atribuciones, funciones y servicios que se le asignan en los términos del presente Decreto.
