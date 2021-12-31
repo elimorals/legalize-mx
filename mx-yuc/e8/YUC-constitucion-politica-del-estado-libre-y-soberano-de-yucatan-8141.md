@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2021-12-07"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -1601,7 +1601,7 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ## TITULO SEXTO. Del Poder Judicial
 
@@ -1613,7 +1613,7 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 ###### Artículo 64.
 
-El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con equidad, perspectiva de género y con apego a los principios de igualdad, autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica. El Poder Judicial deberá fomentar una capacitación continua a los juzgadores respecto a todo lo expresado en este artículo.
+El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia, en los Tribunales Laborales, y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial, impartirá justicia con equidad, con perspectiva de género y con apego en los principios de igualdad, autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica. El Poder Judicial deberá fomentar una capacitación continua en las juzgadoras y los juzgadores respecto a todo lo expresado en este artículo.
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
@@ -1670,6 +1670,22 @@ La administración, vigilancia y disciplina del Poder Judicial del Estado, con e
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto al del año anterior y se fijará anualmente, en la forma y términos que establezca la ley.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los Tribunales Laborales del Poder Judicial del Estado de Yucatán serán la autoridad jurisdiccional competente para conocer y resolver sobre las diferencias o los conflictos de trabajo del orden local que se susciten entre personas trabajadoras y personas empleadoras, solo entre aquellos o solo entre estos, derivados de las relaciones de trabajo o de hechos relacionados con ellas, de conformidad con el artículo 123, apartado A, fracción XX, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos y el artículo 604, párrafo primero, de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los Tribunales Laborales estarán a cargo, cada uno, de una jueza o un juez con capacidad y experiencia en materia laboral, cuya designación se realizará conforme con lo dispuesto en el artículo 116, fracción III, de la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones legales y normativas aplicables. Los requisitos y la duración del cargo de las juezas y los jueces titulares de los Tribunales Laborales serán los que establezca la Ley.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Las atribuciones así como las bases para la organización y el funcionamiento de los Tribunales Laborales serán las que la Ley les confiera. Sus sentencias serán definitivas y contra ellas únicamente procederá el juicio de amparo. Estas sentencias deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Antes de acudir a los Tribunales Laborales, las personas trabajadoras y las personas empleadoras deberán asistir a la instancia conciliatoria correspondiente, de acuerdo con el artículo 123, apartado A, fracción XX, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -2161,9 +2177,13 @@ Quinta.- El Ayuntamiento, es el órgano de gobierno por excelencia en el municip
 
 La administración pública municipal será encabezada por la Presidenta o Presidente Municipal, y se regirá por los principios de imparcialidad, profesionalismo, eficiencia y permanencia; y será centralizada o descentralizada.
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Sexta.- Las Presidentas y Presidentes Municipales rendirán ante el Ayuntamiento un informe anual sobre la administración municipal, el cual será realizado en forma pública y pormenorizada. Su incumplimiento será causa de responsabilidad.
+Sexta.- Las Presidentas y Presidentes Municipales, en el mes de agosto de cada año, rendirán ante el Ayuntamiento un informe anual cuyo objeto será dar a conocer a la ciudadanía el estado que guarda la administración pública municipal, el cual será realizado en forma pública, austera, pormenorizada y publicado en la gaceta municipal. Dicho informe deberá contener la información relativa a la cuenta pública del periodo de gestión que se informa. Su incumplimiento será causa de responsabilidad.
+
+Para los efectos del párrafo anterior, los integrantes del cabildo deberán llevar a cabo dicha sesión con carácter de solemne en el edificio que ocupe la sede del ayuntamiento, de manera presencial o mediante el uso de las tecnologías de la información y la comunicación en los términos que la ley señale.
+
+El informe de actividades al que se refiere el presente artículo deberá de ser enviado al Congreso del Estado, para los efectos legales correspondientes.
 
 > <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -2566,6 +2586,14 @@ XVI.- Establecer en el sistema educativo básico las condiciones y los procedimi
 ###### Artículo 88.
 
 El trabajo es un derecho que la sociedad otorga al individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado procurará resolver el problema de la desocupación y reprimirá con sanciones la vagancia y la mendicidad.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+La resolución de las diferencias o los conflictos que se presenten entre las personas trabajadoras y las personas empleadoras antes de acudir a los Tribunales Laborales del Poder Judicial del Estado, éstas deberán asistir al Centro de Conciliación Laboral del Estado de Yucatán, de conformidad con el artículo 123, apartado A, fracción XX, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+El Centro de Conciliación Laboral del Estado de Yucatán tendrá personalidad jurídica y patrimonio propios, y contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. En el ejercicio de sus atribuciones, se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. La Ley que lo regule establecerá su integración, organización y funcionamiento, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada y para que estos sean ejecutados.
 
 > <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
@@ -4880,3 +4908,49 @@ Artículo primero. Este decreto entrará en vigor al día siguiente al de su pub
 Cláusula derogatoria.
 
 Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 454/2021 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN DE INFORMES DE GOBIERNO EN EL ÁMBITO MUNICIPAL”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Derogación expresa
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 456/2021 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, EN MATERIA DE JUSTICIA LABORAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Nombramiento de la persona titular de la dirección general
+
+La persona titular del Poder Ejecutivo del estado nombrará a la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de ciento veinte días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo tercero. Instalación de la junta de gobierno
+
+La persona titular del Poder Ejecutivo del estado convocará a la sesión de instalación de la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de cinco días hábiles, contado a partir de la fecha de designación de la persona titular de la dirección general del centro.
+
+Artículo cuarto. Inicio de funciones del centro y los Tribunales
+
+El Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales del Poder Judicial del Estado, iniciarán funciones en la misma fecha, a más tardar el uno de mayo del año dos mil veintidós.
+
+Hasta en tanto el Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales entren en funciones, la Junta Local de Conciliación y Arbitraje, continuará conociendo de los procedimientos laborales que le competan en términos de la Ley Federal del Trabajo que estuviera vigente, previa a la reforma publicada en el Diario Oficial de la Federación el uno de mayo del año dos mil diecinueve.
+
+Artículo quinto. Servicio profesional de carrera
+
+El servicio profesional de carrera aplicable al Centro de Conciliación Laboral del Estado de Yucatán entrará en vigor cuando lo haga la norma jurídica que lo regule. Su implementación será gradual conforme a los lineamientos y manuales que presente la persona titular de la dirección general del centro y que apruebe la junta de gobierno. Durante el procedimiento de contratación, se actualizará y capacitará a todo el personal, con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional señalado.
+
+Artículo sexto. Carga presupuestaria
+
+Las obligaciones que se generen con motivo de la entrada en vigor de este decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+
+Artículo séptimo. Procedimientos y asuntos en trámite
+
+Los procedimientos y los asuntos que en materia laboral se encontrasen en trámite en la Junta Local de Conciliación y Arbitraje del estado a la entrada en vigor de este decreto, se substanciarán y resolverán por este órgano hasta su total conclusión, conforme a las disposiciones anteriores que les resultasen aplicables, independientemente de la instalación y puesta en marcha del Centro de Conciliación Laboral del Estado de Yucatán y de los Tribunales Laborales del Poder Judicial del Estado.
