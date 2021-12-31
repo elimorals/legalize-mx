@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-anticorrupcion-del-estado-de-chiapas-118280"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2020-04-01"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el sábado 31 de diciembre de 2016.
 
@@ -131,7 +131,7 @@ l. El Comité Coordinador.
 
 II. El Consejo de Participación Ciudadana.
 
-III. El Comité Rector del Sistema Estatal de Fiscalización.
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 IV. Los Municipios, quienes concurrirán a través de sus representantes.
 
@@ -193,11 +193,15 @@ II. El Auditor Superior del Órgano de Fiscalización Superior del Congreso del 
 
 III. El titular de la Fiscalía de Combate a la Corrupción.
 
-IV. El titular de la Secretaría de la Contraloría General.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV. El titular de la Secretaría de la Honestidad y Función Pública.
 
 V. Un representante del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas.
 
-VI. El Comisionado Presidente del Instituto de Acceso a la Información Pública del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VI. El Comisionado Presidente del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas.
 
 VII. El Presidente del Tribunal de Justicia Administrativa del Estado.
 
@@ -543,97 +547,59 @@ XI. Integrar los sistemas de información necesarios para que los resultados de 
 
 XII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva.
 
-## Título Cuarto. Del Sistema Estatal De Fiscalización
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+## Título Cuarto. Participación en el Sistema Nacional de Fiscalización
 
 ### Capítulo Único. De su integración y funcionamiento
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 35.
 
-El Sistema Estatal de Fiscalización tiene por objeto establecer acciones y mecanismos de coordinación entre los integrantes del mismo, en el ámbito de sus respectivas competencias, promoverán el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos.
+El Órgano de Fiscalización Superior del Congreso del Estado y la Secretaría de la Honestidad y Función Pública, en términos de la Ley General del Sistema Nacional Anticorrupción, deberán colaborar en su correcta organización, funcionamiento, fortalecimiento y cumplir con las obligaciones y directrices que la citada Ley señale.
 
-El Sistema Estatal de Fiscalización, estará integrado por:
-
-l. El Órgano de Fiscalización Superior del Congreso del Estado.
-
-II. La Secretaría de la Contraloría General.
-
-III. Los órganos encargados del control interno en los municipios.
+Cuando sean elegidos para formar parte del Comité Rector del Sistema Nacional de Fiscalización, el Órgano de Fiscalización Superior del Congreso del Estado y la Secretaría de la Honestidad y Función Pública, asumirán las funciones y atribuciones que la Ley General del Sistema Nacional Anticorrupción señale.
 
 ###### Artículo 36.
 
-Para el cumplimiento del objeto a que se refiere el artículo anterior los integrantes del Sistema Estatal de Fiscalización deberán:
-
-l. Crear un sistema electrónico en términos del Título Quinto de la presente Ley, que permita ampliar la cobertura e impacto de la fiscalización de los recursos públicos estatales y municipales.
-
-II. Informar al Comité Coordinador sobre los avances en la fiscalización de recursos estatales y municipales.
-
-Todos los Entes Públicos deberán apoyar en todo momento al Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización de los recursos públicos estatales y municipales.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 37.
 
-El Sistema Estatal de Fiscalización contará con un Comité Rector conformado por el Órgano de Fiscalización Superior del Congreso del Estado, la Secretaría de la Contraloría General y siete miembros rotatorios de los órganos encargados del control interno de los municipios, que serán elegidos por periodos de dos años, por consenso del propio Órgano de Fiscalización Superior del Congreso del Estado y de la Secretaría de la Contraloría General.
-
-El Comité Rector será presidido de manera dual por el Auditor Superior del Estado y el titular de la Secretaría de la Contraloría General, o por los representantes que de manera respectiva designen para estos efectos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 38.
 
-Para el ejercicio de las competencias del Sistema Estatal de Fiscalización en materia de fiscalización y control de los recursos públicos, el Comité Rector ejecutará las acciones siguientes:
-
-l. El diseño, aprobación y promoción de políticas integrales en la materia.
-
-II. La instrumentación de mecanismos de coordinación entre todos los integrantes del Sistema Estatal de Fiscalización.
-
-III. La integración e instrumentación de mecanismos de suministro, intercambio, sistematización y actualización de la información que en materia de fiscalización y control de recursos públicos generen las instituciones competentes en dichas materias.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 39.
 
-El Comité Rector podrá invitar a participar en actividades específicas del Sistema Estatal de Fiscalización a los órganos internos de control, así como a cualquier otra instancia que realice funciones de control, auditoría y fiscalización de recursos públicos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 40.
 
-Los integrantes del Sistema Estatal de Fiscalización deberán homologar los procesos, procedimientos, técnicas, criterios, estrategias, programas y normas profesionales en materia de auditoría y fiscalización.
-
-Asimismo, el Sistema Estatal de Fiscalización aprobará las normas profesionales homologadas aplicables a la actividad de fiscalización, las cuales serán obligatorias para todos los integrantes del mismo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 41.
 
-Conforme a los lineamientos que emita el Comité Rector para la mejora institucional en materia de fiscalización, así como derivado de las reglas específicas contenidas en los códigos de ética y demás lineamientos de conducta, los integrantes del Sistema Estatal de Fiscalización implementarán las medidas aprobadas por el mismo para el fortalecimiento y profesionalización del personal de los órganos de fiscalización.
-
-Para tal fin, el Sistema Estatal de Fiscalización fomentará el establecimiento de un programa de capacitación coordinado, que permita incrementar la calidad profesional del personal auditor y mejorar los resultados de la auditoría y fiscalización.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 42.
 
-El Sistema Estatal de Fiscalización propiciará el intercambio de información que coadyuve al desarrollo de sus respectivas funciones, conforme a lo dispuesto en el Título Sexto de la presente Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 43.
 
-Los integrantes del Sistema Estatal de Fiscalización en el ámbito de sus respectivas competencias tendrán las siguientes facultades y atribuciones:
-
-l. Identificarán áreas comunes de auditoría y fiscalización para que contribuyan a la definición de sus respectivos programas anuales de trabajo y el cumplimiento de los mismos de manera coordinada.
-
-II. Revisarán los ordenamientos legales que regulan su actuación para que, en su caso, realicen propuestas de mejora a los mismos que permitan un mayor impacto en el combate a la corrupción.
-
-III. Elaborarán y adoptarán un marco de referencia que contenga criterios generales para la prevención, detección y disuasión de actos de corrupción e incorporar las mejores prácticas para fomentar la transparencia y rendición de cuentas en la gestión gubernamental.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 44.
 
-Para el fortalecimiento del Sistema Estatal de Fiscalización, sus integrantes atenderán las siguientes directrices:
-
-l. La coordinación de trabajo efectiva.
-
-II. El fortalecimiento institucional.
-
-III. Evitar duplicidades y omisiones en el trabajo de los órganos de fiscalización, en un ambiente de profesionalismo y transparencia.
-
-IV. Mayor cobertura de la fiscalización de los recursos públicos.
-
-V. Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental, y a que el ciudadano común conozca cómo se gasta el dinero de sus impuestos, así como la máxima publicidad en los resultados de la fiscalización.
-
-Corresponderá al Comité Rector del Sistema Estatal de Fiscalización emitir las normas que regulen su funcionamiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 45.
 
-Los integrantes del Sistema Estatal de Fiscalización celebrarán reuniones ordinarias cada seis meses y extraordinarias cuantas veces sean necesarias, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteados en la presente Ley y demás disposiciones legales aplicables. Para ello, podrán valerse de los medios de presencia virtual que consideren pertinentes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ## Titulo Quinto. Del Sistema Electrónico Estatal
 
@@ -774,3 +740,11 @@ P.O. 1 DE ABRIL DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 104 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
