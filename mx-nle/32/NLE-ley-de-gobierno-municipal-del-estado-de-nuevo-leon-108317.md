@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2021-08-06"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -371,7 +371,9 @@ d) Establecer los criterios para la administración de la Hacienda Pública Muni
 
 e) Enviar cada trimestre al Congreso del Estado los Informes de Avance de Gestión Financiera de conformidad con la Ley;
 
-f) Someter anualmente para fiscalización y revisión, al Congreso del Estado, por conducto del Tesorero Municipal, durante los primeros tres meses de cada año, la cuenta pública municipal correspondiente al año anterior;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+f) Someter anualmente para fiscalización y revisión, al Congreso del Estado, por conducto del Tesorero Municipal, a más tardar el 31 de marzo del año siguiente, la cuenta pública municipal correspondiente al año anterior.
 
 g) Determinar la forma y los casos en que se deba caucionar el manejo de los fondos públicos;
 
@@ -2722,3 +2724,9 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 435. SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 70, DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 019. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO F), DE LA FRACCIÓN III DEL ARTÍCULO 33 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
