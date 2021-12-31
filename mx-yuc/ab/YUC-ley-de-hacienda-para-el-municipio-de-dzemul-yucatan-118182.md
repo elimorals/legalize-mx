@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzemul-yucatan-118182"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZEMUL, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -221,11 +221,23 @@ Las aportaciones son los recursos que la federación transfiere a las haciendas 
 
 INGRESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 20.
 
 Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueren aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley de Gobierno de los Municipios y en la Constitución Política, ambas del Estado de Yucatán.
 
-Los donativos también se considerarán ingresos extraordinarios.
+La hacienda pública del Municipio de Dzemul, podrá percibir ingresos extraordinarios por los siguientes conceptos:
+
+I.- Empréstitos aprobados por el Congreso.
+
+II.- Empréstitos aprobados por el cabildo.
+
+III.- Subsidios.
+
+IV.- Los que reciba de la federación o del Estado por conceptos diferentes a participaciones o aportaciones.
+
+V.- Los donativos también se considerarán ingresos extraordinarios.
 
 ### CAPÍTULO VII. De los Créditos Fiscales
 
@@ -516,6 +528,10 @@ Las bases del impuesto predial son:
 I.- El valor catastral del inmueble.
 
 II.- La contraprestación que produzcan los inmuebles, los terrenos o las construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario o el usufructuario, independientemente de que se pacte en efectivo, especie o servicios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III.- El Valor registrado de la Zona Federal Marítimo Terrestre.
 
 DE LA BASE: VALOR CATASTRAL
 
@@ -941,6 +957,14 @@ l) Licencia para efectuar excavaciones o para la construcción de pozos o alberc
 
 m) Licencia para construir bardas o colocar pisos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+n) Verificación de obra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+ñ) Renovación de licencia de obra.
+
 DE LAS BASES
 
 ###### Artículo 81.
@@ -1201,9 +1225,11 @@ Para que la Tesorería municipal esté en condiciones de revalidar, el peticiona
 
 La tarifa que se cobrará para el otorgamiento de licencias de apertura para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, se basará en lo estipulado en (sic) Ley Ingresos del Municipio de Dzemul.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 111.
 
-Todo establecimientos, negocio y/o empresas en general, sean estas comerciales, industriales, de servicios o cualquier otro giro, que no esté relacionados con la venta de bebidas alcohólicas, deberán:
+Todo establecimiento, negocio y/o empresas en general, sean estas comerciales, industriales, de servicios o cualquier otro giro como lugares de hospedajes, departamentos en renta, villas, casa habitación de descanso, veraniegas o similares, que se renten a través de plataforma digital, o cualquier otro medio, que no esté (sic) relacionados con la venta de bebidas alcohólicas, deberán:
 
 I.- Pagar por única vez el derecho para el otorgamiento de la correspondiente autorización del uso del suelo y funcionamiento, este deberá ser cubierto hasta 30 días posteriores al inicio de actividades.
 
@@ -1648,3 +1674,25 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
