@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-regula-las-casas-de-empeno-en-el-estado-de-yucatan-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2016-05-02"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE YUCATÁN
 
 > <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO TRANSITORIO PRIMERO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 01 DE JULIO DE 2016, PREVIA PUBLICACIÓN EN EL DIARIO OFICIAL DEL ESTADO.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -409,25 +409,31 @@ Autoridad sancionadora
 
 Cualquier infracción a las disposiciones de esta ley será sancionada por la agencia en los términos previstos por este ordenamiento y por la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
 Multas
 
-Se impondrá a la persona física o moral que resulta responsable de una casa de empeño, multas de cincuenta a quinientas unidades de medida y actualización por:
+Se impondrán a las personas físicas o morales que operen casas de empeño, por la realización de alguna de las conductas descritas a continuación, las siguientes multas:
 
-I. Instalar y hacer funcionar una casa de empeño sin contar con el permiso expedido por la agencia.
+I. Multa de cincuenta a quinientas unidades de medida y actualización por:
 
-II. Cancelar, con anticipación a la fecha de conclusión del período de vigencia, la póliza de seguro para garantizar los daños y perjuicios que pudieran ocasionarse a los pignorantes.
+a) Cancelar, antes de la fecha de conclusión del periodo de vigencia, la póliza de seguro para garantizar los daños y perjuicios que pudieran ocasionarse a los pignorantes.
 
-III. Abstenerse de denunciar los hechos delictivos que sean de su conocimiento.
+b) Abstenerse de denunciar los hechos delictivos que sean de su conocimiento.
 
-IV. Realizar contratos sin que el pignorante acredite su identidad.
+c) Suscribir contratos sin que el pignorante acredite su identidad.
 
-V. Oponerse a la práctica de una visita de inspección o verificación al establecimiento.
+d) Solicitar extemporáneamente la revalidación del permiso.
 
-VI. Solicitar extemporáneamente la revalidación del permiso.
+e) Incumplir con las disposiciones establecidas en esta ley, a excepción de las contenidas en la fracción II de este artículo o las que dispongan una sanción distinta.
 
-VII. Incumplir con las disposiciones establecidas en la presente ley.
+II. Multa de quinientas a mil unidades de medida y actualización por:
+
+a) Instalar u operar una casa de empeño sin contar con el permiso expedido por la agencia.
+
+b) Oponerse a la práctica de una visita de inspección o verificación al establecimiento.
 
 ###### Artículo 34.
 
@@ -500,3 +506,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 450/2021 POR EL QUE SE MODIFICA LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE YUCATÁN".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
