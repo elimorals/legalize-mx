@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2021-12-27"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -3511,19 +3511,29 @@ La Auditoría Superior del Estado, iniciará el proceso de fiscalización a part
 
 Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado está facultada para solicitar información del ejercicio en curso, respecto de procesos concluidos.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Art. 137.
 
-La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado, a través de la Auditoría Superior del Estado, a más tardar el 30 de marzo del año siguiente.
+La Cuenta Pública del ejercicio fiscal correspondiente será presentada ante el Congreso del Estado, en forma improrrogable a más tardar el 31 de marzo del año siguiente.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 La Auditaría (sic) Superior del Estado entregará el Informe del Resultado de la Revisión de la Cuenta Pública al Congreso del Estado o a la Diputación Permanente dentro de los ciento treinta días hábiles siguientes a los de su presentación, el cual se someterá a la consideración del Pleno y tendrá carácter público.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 El informe del Resultado de la Revisión de la Cuenta Pública deberá contener, como mínimo, una descripción de las auditorías practicadas, especificando su alcance; el dictamen resultado de la revisión relativa al manejo de recursos públicos por parte de los sujetos fiscalizados y de la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales; así como las observaciones que haya efectuado la Auditoría Superior del Estado que incluya las justificaciones y aclaraciones que las entidades hayan presentado al respecto. El dictamen deberá contener además un listado conciso de las observaciones no solventadas y las recomendaciones que estime conveniente.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 De manera previa a la presentación, se dará a conocer a los sujetos fiscalizados la parte que les corresponda de los resultados de su revisión, a efecto de que éstos en un plazo de treinta días naturales a partir de su notificación presenten las justificaciones y aclaraciones que correspondan, la Auditoria Superior del Estado comunicará para efecto informativo a los sujetos fiscalizados de aquellas justificaciones y aclaraciones que a juicio de esta resulten solventadas o no.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+
 Si de la Revisión practicada por la Auditoría Superior del Estado, aparecieren discrepancias entre los ingresos o egresos, o se advirtiere cualquier otra irregularidad, procederá directamente a emitir las recomendaciones que estime convenientes y a promover, en términos de las leyes correspondientes, las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales, y a los particulares.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 Anualmente, la Auditoría Superior del Estado deberá entregar al Congreso del Estado en el Informe del Resultado, la situación que guardan las observaciones, recomendaciones y acciones promovidas por ésta.
 
@@ -5622,3 +5632,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El H. Congreso del Estado de Nuevo León, dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las leyes correspondientes para regular la revocación de mandato y la consulta popular, en los términos del presente Decreto.
 
 TERCERO.-Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 019. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO F), DE LA FRACCIÓN III DEL ARTÍCULO 33 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
