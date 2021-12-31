@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fiscalizacion-superior-del-estado-de-nuevo-leon-82920"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-22"
-last_updated: "2013-07-04"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley Publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 22 de septiembre de 2011.
 
@@ -153,9 +153,11 @@ No se impondrán las multas a que se refiere este Artículo, cuando el incumplim
 
 ### Capítulo Único. De la Cuenta Pública y de su Presentación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 7.
 
-La Cuenta Pública del ejercicio fiscal correspondiente será presentada al Congreso, en forma improrrogable a más tardar el 31 de marzo del año siguiente.
+La Cuenta Pública del ejercicio fiscal correspondiente será presentada al Congreso del Estado en forma improrrogable a más tardar el 31 de marzo del año inmediato siguiente.
 
 La Comisión turnará los Informes de Cuenta Pública y los Informes de Avance de Gestión Financiera a la Auditoría Superior del Estado, dentro de los siguientes diez días hábiles a los de su presentación.
 
@@ -1374,3 +1376,9 @@ P.O. 4 DE JULIO DE 2013
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Las Instituciones de Educación que reciban recursos públicos, deberán rendir Cuenta Pública a partir del ejercicio fiscal 2014 respecto al ejercicio fiscal 2013.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 019. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO F), DE LA FRACCIÓN III DEL ARTÍCULO 33 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
