@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2021-12-09"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -37383,9 +37383,9 @@ En caso de que el ciudadano haga uso indebido de la firma electrónica avanzada 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2017)</small>
 
-### CAPÍTULO 39. DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO
+### CAPÍTULO 38 BIS. ESTANCIAS INFANTILES
 
-> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 2377.
 
@@ -37416,6 +37416,34 @@ IV. Sociedades Cooperativas, asociaciones, personas físicas, y
 V. Empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores, y
 
 VI. En general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios debidamente establecidas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO 39. DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO
+
+> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+###### Artículo 2379 Bis.
+
+Las Estancias Infantiles o Centros de Atención para la Prestación de Servicios, Cuidado y Desarrollo Integral Infantil en el Municipio de Puebla, son aquellos espacios, cualquiera que sea su denominación, modalidad y tipo, donde se prestan servicios para la atención, cuidado y desarrollo infantil en un marco de ejercicio pleno de los derechos humanos de niñas y niños desde los cuarenta y tres días de nacidos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 2379 Ter.
+
+Corresponde a la Secretaría de Bienestar y Participación Ciudadana y/o la Dependencia encargada del Desarrollo Social en el Municipio, y Protección Civil Municipal, observar el cumplimiento, en sus respectivos ámbitos de competencia, de conformidad con las Leyes Generales y normatividad jurídica aplicable en materia de prestación de servicios para la atención y desarrollo integral infantil.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 2379 Quater.
+
+Corresponde a la Secretaría de Bienestar y Participación Ciudadana y/o la Dependencia encargada del Desarrollo Social en el Municipio, impulsar Programas en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, en términos de las Reglas de Operación y Lineamientos que se aprueben para tal efecto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 2379 Quinquies.
+
+A efecto de llevar a cabo el logro de las acciones tendientes a favorecer la prestación de servicios para la atención, cuidado y desarrollo integral infantil, la Secretaría de Bienestar y Participación Ciudadana y/o la Dependencia encargada del Desarrollo Social en el Municipio, podrá celebrar convenios de colaboración en la materia con los diferentes órdenes de gobierno y convenios de concertación con los sectores privado y social, en los cuales se detallarán las acciones y compromisos de cada una de las partes.
 
 > <small>(ADICIONADO CON EL CAPÍTULO, TÍTULOS, ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
 
@@ -39758,5 +39786,13 @@ P.O. 9 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 22 DE SEPTIEMBRE DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS E IGUALDAD DE GÉNERO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, RESPECTO AL ARTÍCULO 2280 EN SUS FRACCIONES XIII, XIV, XV, XVI, Y SU ADICIÓN EN LA FRACCIÓN XIII, ASÍ COMO ADICIONA LOS ARTÍCULOS 2335 SEXDECIES AL 2335 UNIVICIES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. La reforma y adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE DICIEMBRE DE 2021, POR EL QUE ADICIONA EL CAPÍTULO 38 BIS DENOMINADO "ESTANCIAS INFANTILES", ASÍ COMO LOS ARTÍCULOS 2379 BIS, 2379 TER, 2379 QUATER Y 2379 QUINQUIES AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA; RELATIVO A LA IMPLEMENTACIÓN DE LOS CENTROS DE ATENCIÓN PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. Las adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
