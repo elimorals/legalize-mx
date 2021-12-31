@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-bienestar-149410"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-05-13"
-last_updated: "2021-05-13"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-05-07"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE BIENESTAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 13 de mayo de 2021.
 
@@ -111,13 +111,21 @@ c) Direcciones Generales:
 
 23. De Monitoreo y Evaluación para el Desarrollo;
 
-24. De Planeación y Análisis, y
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-25. De Padrones de Beneficiarios;
+24. De Planeación y Análisis;
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+25. De Padrones de Beneficiarios, y
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+26. Para el Bienestar y la Cohesión Social;
 
 II. Órganos Administrativos Desconcentrados:
 
-a) Instituto Nacional de Desarrollo Social, y
+a) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2021)
 
 b) Instituto Nacional de la Economía Social, y
 
@@ -943,6 +951,48 @@ XIV. Coordinar el control y supervisión de las políticas, planes de trabajo, p
 
 XV. Coordinar la mejora continua en la operación de los programas a cargo de la Subsecretaría de Inclusión Productiva y Desarrollo Rural.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 28 Bis.
+
+La Dirección General para el Bienestar y la Cohesión Social tiene las atribuciones siguientes:
+
+I. Promover, impulsar y coordinar acciones de capacitación, formación, asesoría, investigación e información, dirigidas a la vinculación y fortalecimiento de las capacidades institucionales de los gobiernos de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, así como de las organizaciones de la sociedad civil vinculadas a tareas de desarrollo social y disminución de la pobreza;
+
+II. Establecer y operar un sistema de educación a distancia en el ámbito nacional, para realizar acciones de capacitación, información, divulgación, enseñanza, preparación y adiestramiento, relativas a temas vinculados con la política social, el desarrollo institucional, y la cohesión social;
+
+III. Colaborar con los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, mediante acciones de vinculación, de consulta, asesoría, asistencia técnica y capacitación, que incidan en el desarrollo institucional en materia de política social y bienestar común;
+
+IV. Coadyuvar con la Unidad de Planeación y Evaluación de Programas para el Desarrollo, en la formulación de lineamientos para la organización y participación de los grupos sociales en la planeación, ejecución, seguimiento y supervisión de los programas de desarrollo social, desde una perspectiva de cultura de la paz y cohesión social, en el ámbito de su competencia;
+
+V. Promover la adecuación del marco jurídico para fomentar la participación social en los procesos de planeación, ejecución, control y evaluación de los programas y acciones de desarrollo social;
+
+VI. Promover la incorporación, en los programas de desarrollo social sectoriales, regionales y especiales, de las directrices que permitan una efectiva participación de los diferentes grupos sociales;
+
+VII. Fomentar la participación de grupos sociales vinculados a los programas y tareas de desarrollo social y de bienestar común, así como apoyar y consolidar su capacidad de gestión y respuesta, a través del diseño de acciones y estrategias de coordinación entre los tres órdenes de gobierno, especialmente en las regiones, zonas, municipios y comunidades del país con mayores rezagos y menor crecimiento, que requieran atención inmediata o prioritaria;
+
+VIII. Promover acciones de vinculación en materia de desarrollo social, bienestar común y cohesión social, entre las organizaciones de la sociedad civil y las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México e instituciones educativas, públicas y privadas;
+
+IX. Proporcionar asesoría, capacitación, orientación y asistencia técnica en materia de organización, participación, gestión comunitaria y cultura de paz a los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como a los sectores social y privado;
+
+X. Apoyar la intervención de las organizaciones de la sociedad civil en las tareas de desarrollo social y bienestar común, mediante la aplicación de fondos institucionales y la promoción y realización de acciones de gestión, capacitación y asesoría para el desarrollo de sus proyectos, así como fomentar su participación en el diseño, ejecución y evaluación de la política social, y su fortalecimiento organizativo e institucional;
+
+XI. Orientar los recursos y proyectos seleccionados por esta Dirección General, a las unidades administrativas competentes de la Secretaría, a las entidades paraestatales sectorizadas a esta o, en su caso, a otras dependencias o entidades de la Administración Pública Federal, a fin de fortalecer el impacto de los programas de desarrollo social, principalmente, de las zonas de atención prioritaria;
+
+XII. Promover e incentivar la participación social en la atención y apoyo a la población afectada en casos de emergencia por fenómenos y desastres naturales, en coordinación con las subsecretarías y otras dependencias o entidades de la Administración Pública Federal;
+
+XIII. Establecer, en coordinación con la Dirección General de Monitoreo y Evaluación para el Desarrollo, acciones y estrategias que permitan mejorar la participación ciudadana en la evaluación y seguimiento de los programas de desarrollo social;
+
+XIV. Fungir como Secretaría Técnica de la Comisión de Fomento a las Actividades de las Organizaciones de la Sociedad Civil, y coordinar las actividades que de ello se deriven en términos de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil y demás disposiciones jurídicas aplicables;
+
+XV. Promover, coordinar, realizar, publicar y difundir estudios, investigaciones, técnicas y métodos para fortalecer la operación de los programas de la Secretaría, en lo que respecta a los procesos de organización y participación social en las acciones de desarrollo y cohesión social;
+
+XVI. Formular e impulsar, con instituciones académicas, de educación superior y de investigación, así como con organizaciones de la sociedad civil, proyectos de investigación, información, asesoría, apoyo técnico, comunicación y difusión en materia de desarrollo, cohesión, participación y gestión social;
+
+XVII. Operar el Registro Federal de Organizaciones de la Sociedad Civil, y
+
+XVIII. Fomentar el desarrollo social desde la visión de la protección integral de los derechos humanos de las víctimas, y coadyuvar en su promoción.
+
 ###### Artículo 29.
 
 La Dirección General de Control y Seguimiento de Delegaciones y Módulos de Atención tiene las atribuciones siguientes:
@@ -1363,9 +1413,33 @@ XIII. Operar y mantener los bienes y servicios de tecnologías de la informació
 
 XIV. Formular, presentar y ratificar denuncias o querellas de carácter penal, respecto de aquellos hechos probablemente constitutivos de delitos cometidos en contra de los intereses de la Secretaría y de sus bienes y, en su caso, previo acuerdo por escrito de la persona titular de la Unidad del Abogado General y Comisionado para la Transparencia, así como desistirse y otorgar el perdón, cuando así proceda;
 
-XV. Coadyuvar para que los beneficiarios de los programas sociales tengan acceso y hagan uso de servicios financieros formales y reciban educación financiera, así como, en su caso, intervenir para obtener, rectificar o modificar su Clave Única de Registro de Población, en coordinación con las dependencias y entidades competentes de la Administración Pública Federal, y
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
 
-XVI. Las demás que le encomiende la persona titular de la Secretaría y la Coordinación General de Programas para el Desarrollo de la Oficina de la Presidencia de la República, así como las que le confieran otras disposiciones jurídicas.
+XV. Atender, dar seguimiento y comparecer, por conducto de su titular o del servidor público que este designe, en toda clase de juicios, procedimientos contencioso-administrativos y procedimientos administrativos de los que sean parte, por temas o asuntos de su competencia, debiendo intervenir en todas las etapas del procedimiento desde su inicio hasta su conclusión definitiva, quedando facultados para desahogar todo tipo de pruebas y requerimientos, y hacer valer los medios de impugnación que sean procedentes, incluso el juicio de amparo;
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+XVI. Celebrar acuerdos reparatorios, por conducto de su titular, o del servidor público que este designe, de conformidad con lo dispuesto en el Código Nacional de Procedimientos Penales y la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, debiendo acreditar la propiedad de los bienes siniestrados bajo su resguardo; tramitar ante la aseguradora el pago de la indemnización que corresponda y, en general, realizar todas las acciones legales necesarias para preservar los intereses de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+XVII. Resolver los recursos administrativos de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Expedir por conducto de su titular, o por el servidor público que este designe, los oficios o acuerdos de trámite, relacionados con los asuntos de su competencia, así como llevar a cabo las notificaciones que correspondan a estos;
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+XIX. Notificar, por conducto de su titular, las resoluciones o acuerdos de la autoridad superior cuando así se le ordene o delegue;
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2021)</small>
+
+XX. Expedir copias certificadas de los documentos y constancias que obren en sus archivos;
+
+XXI. Coadyuvar para que los beneficiarios de los programas sociales tengan acceso y hagan uso de servicios financieros formales y reciban educación financiera, así como, en su caso, intervenir para obtener, rectificar o modificar su Clave Única de Registro de Población, en coordinación con las dependencias y entidades competentes de la Administración Pública Federal, y
+
+XXII. Las demás que le encomiende la persona titular de la Secretaría y la Coordinación General de Programas para el Desarrollo de la Oficina de la Presidencia de la República, así como las que le confieran otras disposiciones jurídicas.
 
 ### CAPÍTULO VII. DE LA COMPETENCIA DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
@@ -1433,53 +1507,11 @@ XXVI. Las demás que le confieran otras disposiciones jurídicas, así como aque
 
 ###### Artículo 44.
 
-El Instituto Nacional de Desarrollo Social tiene, además de las atribuciones genéricas previstas en el artículo 43 del presente Reglamento, las siguientes:
-
-I. Promover, impulsar y coordinar acciones de capacitación, formación, asesoría, investigación e información, dirigidas a la vinculación y fortalecimiento de las capacidades institucionales de los gobiernos de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, así como de las organizaciones de la sociedad civil vinculadas a tareas de desarrollo social y disminución de la pobreza;
-
-II. Establecer y operar un sistema de educación a distancia en el ámbito nacional, para realizar acciones de capacitación, información, divulgación, enseñanza, preparación y adiestramiento, relativas a temas vinculados con la política social, el desarrollo institucional, y la cohesión social;
-
-III. Colaborar con los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, mediante acciones de vinculación, de consulta, asesoría, asistencia técnica, capacitación y financiamiento, que incidan en el desarrollo institucional en materia de política social y bienestar común;
-
-IV. Formular los lineamientos para la organización y participación de los grupos sociales en la planeación, financiamiento, ejecución, supervisión y control de los programas de desarrollo social en su ámbito de competencia;
-
-V. Promover la adecuación del marco jurídico para fomentar la participación social en los procesos de planeación, ejecución, control y evaluación de los programas y acciones de desarrollo social;
-
-VI. Promover la incorporación, en los programas de desarrollo social sectoriales, regionales y especiales, de las normas para una efectiva participación de los grupos sociales;
-
-VII. Fomentar la participación de las organizaciones sociales vinculadas a los programas y tareas de desarrollo social y de bienestar común, y apoyar y consolidar su capacidad de gestión y respuesta, a través del diseño de acciones y estrategias coordinadas entre la Administración Pública Federal y los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, especialmente en las regiones, zonas, municipios y comunidades del país con mayores rezagos y menor crecimiento, que requieran atención inmediata o prioritaria;
-
-VIII. Promover acciones de vinculación en materia de desarrollo social, bienestar común y cohesión social, entre las organizaciones de la sociedad civil y las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México e instituciones educativas, públicas y privadas;
-
-IX. Proporcionar asesoría, capacitación y orientación, en materia de organización y participación social, a los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como a los sectores social y privado;
-
-X. Apoyar la intervención de las organizaciones de la sociedad civil en las tareas de desarrollo social y bienestar común, mediante la aplicación de fondos institucionales y la promoción y realización de acciones de gestión, capacitación y asesoría para el desarrollo de sus proyectos, así como fomentar su participación en el diseño, ejecución y evaluación de la política social, y su fortalecimiento organizativo e institucional;
-
-XI. Orientar los recursos y proyectos seleccionados por el Instituto, a las unidades administrativas competentes de la Secretaría, a las entidades paraestatales sectorizadas a esta o, en su caso, a otras dependencias o entidades de la Administración Pública Federal;
-
-XII. Promover e incentivar la participación social en la atención y apoyo a la población afectada en casos de emergencia por fenómenos y desastres naturales, en coordinación con las subsecretarías de la Secretaría y con otras dependencias y entidades de la Administración Pública Federal;
-
-XIII. Establecer coordinación con la Dirección General de Monitoreo y Evaluación para el Desarrollo de la Secretaría, para promover acciones que permitan mejorar la participación social en la evaluación y seguimiento de los programas de desarrollo social;
-
-XIV. Atender, informar y orientar a las organizaciones sociales sobre los programas de desarrollo social, e integrar y operar un sistema de información y seguimiento de las organizaciones sociales que participen en los programas de desarrollo social;
-
-XV. Promover, coordinar, realizar, publicar y difundir estudios, investigaciones, técnicas y métodos para fortalecer la operación de los programas del Instituto y los procesos de organización y participación social en las acciones de desarrollo y cohesión social;
-
-XVI. Formular e impulsar, con instituciones académicas, de educación superior y de investigación, así como con organizaciones de la sociedad civil, proyectos de investigación, información, asesoría, apoyo técnico, comunicación y difusión en materia de desarrollo, cohesión, participación y gestión social;
-
-XVII. Impulsar la integración de la perspectiva de género de manera transversal en sus programas y cultura institucional;
-
-XVIII. Elaborar la acreditación de las actividades de desarrollo social que lleven a cabo las organizaciones de la sociedad civil;
-
-XIX. Diseñar y aplicar modelos y programas que permitan prevenir y combatir las causas estructurales que generan condiciones de mayor riesgo y vulnerabilidad, y que dan lugar a delitos en materia de violencia de género y trata de personas, con especial referencia a la pobreza, marginación y desigualdad social, y
-
-XX. Fomentar el desarrollo social desde la visión de la protección integral de los derechos humanos de las víctimas, y coadyuvar en su promoción.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 45.
 
-La persona titular del Instituto Nacional de Desarrollo Social será designada por la persona titular del Ejecutivo Federal, a propuesta de la persona titular de la Secretaría.
-
-La persona titular del Instituto Nacional de Desarrollo Social ejercerá sus facultades de acuerdo con las políticas que le señale la persona titular de la Secretaría, por sí o por conducto del titular de la Unidad de Administración y Finanzas.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 46.
 
@@ -1530,3 +1562,23 @@ OCTAVO.- Cuando, en términos del último párrafo del artículo 47 de este Regl
 NOVENO.- El Titular de la Unidad de Administración y Finanzas de la Secretaría de Bienestar emitirá, en un plazo no mayor a sesenta días hábiles contados a partir de la publicación del presente Reglamento, las disposiciones a que se refiere la fracción XXVIII del artículo 13 de este Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Bienestar, Javier May Rodríguez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE BIENESTAR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo mediante el cual se regula la organización y funcionamiento interno del órgano administrativo desconcentrado de la Secretaría de Desarrollo Social, denominado Instituto Nacional de Desarrollo Social, publicado el 26 de julio de 2005 en el Diario Oficial de la Federación.
+
+TERCERO.- Los recursos humanos, financieros, materiales, así como los archivos, documentación y acervos bibliográficos del Instituto Nacional de Desarrollo Social serán transferidos a la Dirección General para el Bienestar y la Cohesión Social, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, observando todas las disposiciones legales aplicables y con respeto a los derechos laborales de los trabajadores.
+
+CUARTO.- Los asuntos en trámite que son atendidos por el Instituto Nacional de Desarrollo Social, serán atendidos y resueltos por la Dirección General para el Bienestar y la Cohesión Social.
+
+QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas al Instituto Nacional de Desarrollo Social, se entenderán hechas o conferidas a la Dirección General para el Bienestar y la Cohesión Social.
+
+SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Bienestar en el Presupuesto de Egresos de la Federación, por lo que no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal, y cualquier modificación al mismo deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
