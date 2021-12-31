@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2021-11-18"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -2189,7 +2189,7 @@ III. Las demás que establezcan otras disposiciones legales y reglamentarias apl
 
 1. Los órganos auxiliares son:
 
-I. Agencia de Proyectos Estratégicos;
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 II. Las Comisiones Intersecretariales;
 
@@ -2213,9 +2213,7 @@ VI. Alto Consejo Asesor en materia de Género y Derechos Humanos.
 
 ###### Artículo 61.
 
-1. La Agencia de Proyectos Estratégicos, es el órgano encargado de la sistematización de los procesos de planeación, promoción, y gestión de proyectos estratégicos con relación a las dependencias.
-
-2. El Gobernador del Estado por sí o por conducto del Jefe de Gabinete, propondrá los proyectos estratégicos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 62.
 
@@ -3188,3 +3186,39 @@ QUINTO. La Agencia Estatal de Entretenimiento de Jalisco deberá expedir y gesti
 SEXTO. El Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
 
 SÉPTIMO. Las atribuciones encomendadas a la Dirección Filma en Jalisco en el presente decreto serán ejercidas por la estructura administrativa de la Agencia, conforme a su reglamento interno.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28500/LXII/21 QUE DEROGA LA FRACCIÓN I DEL ARTÍCULO 60 Y ARTÍCULO 61 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO QUE REGULAN LA AGENCIA DE PROYECTOS ESTRATÉGICOS; DEROGA LOS ARTÍCULOS 3, FRACCIÓN VI, 27 AL 47 Y 75 AL 97, Y REFORMA LOS DIVERSOS 2, 3 FRACCIÓN IX, 4, 5, 8, 9, 10, 12, 13, 14, 16, 17, 22, 26, 62, 63 Y 64 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO RELATIVOS AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL DE PROMOCIÓN ECONÓMICA; ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DE LOS CITADOS ENTES; CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA DE COINVERSIÓN PARA EL DESARROLLO SOSTENIBLE DE JALISCO (COINVIERTE), Y EXPIDE SU LEY ORGÁNICA”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las funciones del órgano auxiliar denominado Agencia de Proyectos Estratégicos y del organismo público descentralizado denominado Consejo Estatal de Promoción Económica serán asumidas por el organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+Los asuntos en trámite ante los entes que se extinguen, pasarán a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado, con excepción de aquéllos que se encuentren en litigio o controversia y el Consejo sea parte o hubiese sido señalado como autoridad responsable.
+
+El Poder Ejecutivo, a través de las Secretarías de Desarrollo Económico, de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptará las medidas jurídicas, administrativas, financieras, presupuestales y operativas necesarias para que los servicios y funciones de los entes que se extinguen se presten en forma ininterrumpida.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración designe liquidador de los entes que se extinguen, facultándolo para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+El liquidador que sea designado intervendrá de inmediato para tomar el control y disponer del patrimonio de dichos entes, sin perjuicio de que adopte las medidas jurídicas, administrativas, financieras y operativas para que los servicios y funciones se presten en forma ininterrumpida.
+
+CUARTO. Las facultades, derechos y obligaciones establecidos a cargo de los entes que se extinguen, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales o de las que se encuentren en litigio y/o controversia, serán asumidas por el organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+QUINTO. Los recursos económicos y materiales, así como los derechos, valores, fondos, bienes muebles, bienes inmuebles y obligaciones de los entes que se extinguen pasarán al organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, con excepción de los necesarios para garantizar el cumplimiento de las obligaciones contraídas previo al inicio del procedimiento de liquidación y los que se encuentren en litigio y/o controversia respecto de los cuales el liquidador tendrá representación jurídica de los mismos y una vez que exista sentencia firme o se encuentren libres de controversia pasarán al organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+SEXTO. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO TRANSITORIO del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1° de enero al 31 de diciembre del año 2021.
+
+SÉPTIMO. Las relaciones laborales que tengan los entes que se extinguen con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+OCTAVO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaria de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera (sic) adeudar los entes que se extinguen.
+
+NOVENO. La Contraloría del Estado deberá realizar una auditoría a los entes que se extinguen, y en caso de encontrar alguna probable responsabilidad, procederá conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+DÉCIMO. Todos aquellos convenios, contratos, trámites, autorizaciones y demás actos vigentes, iniciados con base en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco que regulaba a la Agencia de Proyectos Estratégicos, así como los artículos de la Ley para el Desarrollo Económico del Estado de Jalisco, que regulaba al Consejo Estatal de Promoción Económica, se sujetarán a lo previsto en los mismos y a las disposiciones conforme a las cuales se hayan celebrado.
+
+DÉCIMO PRIMERO. El organismo público descentralizado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, deberá emitir su reglamento dentro de los 30 días naturales siguientes a la entrada en vigor del presente decreto.
+
+DÉCIMO SEGUNDO. Las referencias que en cualquier otro ordenamiento se establezca en relación a los entes que se extinguen, se tendrán por hechas a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+DÉCIMO TERCERO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
