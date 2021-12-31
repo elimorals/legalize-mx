@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-turismo-del-estado-de-chiapas-117742"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-02"
-last_updated: "2016-11-02"
+last_updated: "2021-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE TURISMO DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL LA LEY DE TURISMO PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TURISMO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021 (ABROGADA).
 
 Ley publicada en la Segunda Sección al Número 264 del Periódico Oficial del Estado de Chiapas, el miércoles 2 de noviembre de 2016.
 
@@ -1292,3 +1294,27 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 28 días del mes de octubre del año dos mil dieciséis, con los refrendos de los CC. Secretario General de Gobierno y Secretario de Turismo.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Mario Uvence Rojas, Secretario de Turismo.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 105 LEY DE TURISMO PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley de Turismo del Estado de Chiapas publicada en el Periódico Oficial número 264, Segunda Sección, con fecha 2 de noviembre del año 2016, así como sus reformas y adiciones; asimismo se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto a la presente Ley.
+
+Artículo Tercero.- El titular de la Secretaría, en un término no mayor de ciento veinte días hábiles, contados a partir de la entrada en vigor de esta Ley, deberá someter a la consideración del Titular del Poder Ejecutivo del Estado, el proyecto de Reglamento de la misma, para efectos de su expedición y publicación correspondiente.
+
+Artículo Cuarto.- En caso de existir controversias o situaciones no previstas en Materia Turística, en tanto se expide el Reglamento, el titular de la Secretaría resolverá lo conducente.
+
+Artículo Quinto.- El titular de la Secretaría deberá realizar las gestiones necesarias a efecto de instalar el Comité Estatal, en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Sexto.- Los Presidentes Municipales de aquellos Ayuntamientos que no tengan constituido su Comité Municipal, deberán instalarlos en un plazo no mayor a sesenta días hábiles, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.- El Titular de la Secretaría, en el ámbito de sus atribuciones, deberá emitir los lineamientos para la integración, actualización y operación del Inventario Turístico Estatal, en un plazo no mayor a ciento veinte días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Octavo.- El Titular de la Secretaría, en el ámbito de sus atribuciones, deberá realizar las acciones necesarias, tendientes a la implementación de la Plataforma CIET, en un plazo no mayor a noventa días hábiles; de igual forma, deberá realizar las acciones relativas a la elaboración del Atlas Turístico, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Noveno.- Una vez implementada la Plataforma CIET, los Prestadores de Servicios Turísticos del Estado de Chiapas que se encuentren en funciones, contarán con un plazo de ciento ochenta días hábiles para la obtención de la CIET; transcurrido el plazo, se estará a lo dispuesto en la presente Ley.
