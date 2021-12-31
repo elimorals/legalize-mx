@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-cacalchen-yucatan-118181"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CACALCHÉN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento al Número 33262 del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -637,9 +637,17 @@ I.- Las licencias, permisos o autorizaciones para el funcionamiento de estableci
 
 II.- Las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios;
 
-III.- Las licencias para instalación de anuncios de toda índole, conforme a la reglamentación municipal correspondiente, y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV.- Los permisos y autorizaciones de tipo provisional señalados en los reglamentos municipales del Municipio de Cacalchén, Yucatán.
+III.- Las licencias para instalación de anuncios de toda índole, conforme a la reglamentación municipal correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV.- Licencia para la explotación o extracción de recursos naturales con fines comerciales, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V.- Los permisos y autorizaciones de tipo provisional señalados en los reglamentos municipales del Municipio de Cacalchén, Yucatán.
 
 ###### Artículo 62.
 
@@ -711,9 +719,23 @@ XI.- Constancia de unión y división de inmuebles;
 
 XII.- Licencia para efectuar excavaciones o para la construcción de pozos o albercas;
 
-XII.- Licencia para construir bardas o colocar pisos, y
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XII (SIC) ES SIMILAR A LA FRACCIÓN XIII.]</small>
 
-XIII.- Constancia de inspección de uso de suelo.
+XII (SIC).- Licencia para construir bardas o colocar pisos, y
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XIII ES SIMILAR A LA FRACCIÓN XII (SIC).]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIII.- Licencia para construir bardas o colocar pisos;
+
+> <small>(REFORMADA Y REUBICADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIV.- Constancia de inspección de uso de suelo, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XV.- Licencia de Uso de Suelo.
 
 ###### Artículo 70.
 
@@ -941,13 +963,25 @@ I.- La inhumación y exhumación;
 
 II.- La renta de bóvedas;
 
-III.- El derecho para usar a perpetuidad osarios o bóvedas, y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV.- Los permisos para construcción y mantenimiento en el interior del panteón.
+III.- El derecho para usar a perpetuidad osarios o bóvedas;
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV.- Los permisos para construcción y mantenimiento en el interior del panteón, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V.- El derecho para uso de la fosa común.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 105.
 
 Son sujetos del derecho a que se refiere la presente sección, las personas físicas o morales que soliciten los servicios de panteones prestados por el Ayuntamiento.
+
+Los servicios para la renta de bóvedas no podrán ser mayor a un año, vencida la misma deberá renovarse. Asimismo, tratándose del derecho para usar a perpetuidad osarios y bóvedas, los sujetos titulares de los mismos deberán actualizar la documentación requerida por el municipio al momento de que se le solicite.
 
 ###### Artículo 106.
 
@@ -989,25 +1023,63 @@ Los ingresos que se perciban por el derecho a que se refiere la presente secció
 
 #### Sección Décima Primera. Derechos por Servicios de la Unidad de Acceso a la Información
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 114.
 
-Es objeto del derecho por los servicios que presta la Unidad de Acceso a la Información Pública, la entrega de información a través de copias simples, copias certificadas, discos magnéticos, Discos Compactos o Discos DVD.
+El derecho por acceso a la información pública que proporciona la Unidad de Transparencia municipal será gratuita.
+
+La Unidad de Transparencia municipal únicamente podrá requerir pago por concepto de costo de recuperación cuando la información requerida sea entregada en documento impreso proporcionado por el Ayuntamiento y sea mayor a 20 hojas simples o certificadas, o cuando el solicitante no proporcione el medio físico, electrónico o magnético a través del cual se le haga llegar dicha información.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 115.
 
-Son sujetos del derecho a que se refiere la presente Sección, las personas que soliciten los servicios señalados en el artículo anterior.
+Son sujetos del pago por concepto de costos de recuperación, a que se refiere la presente Sección, las personas que soliciten el ejercicio del derecho señalado en el artículo anterior.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 116.
 
-Es base para el cálculo del derecho a que se refiere la presente Sección, el costo de cada uno de los insumos usados para la entrega de la información.
+El pago por concepto de costo de recuperación no podrá ser superior a la suma de:
+
+I.- El costo de los materiales utilizados en la reproducción de la información;
+
+II.- El costo de envío, en su caso, y
+
+III.- El pago de la certificación de los documentos, cuando proceda.
+
+El pago por concepto de costo de recuperación que deberá cubrir el solicitante por la modalidad de entrega de reproducción de la información a que se refiere esta Sección, deberá cubrirse de manera previa a la entrega y será determinado en la Ley de Ingresos del Municipio de Cacalchén, Yucatán.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 117.
 
-El pago de los derechos a que se refiere la presente Sección, se realizará al momento de realizar la solicitud respectiva.
+El pago por concepto de costo de recuperación que deberá cubrir el solicitante por la modalidad de entrega de reproducción de la información a que se refiere esta Sección, deberá cubrirse de manera previa a la entrega y será determinado en la Ley de Ingresos del Municipio conforme a la modalidad que corresponda.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 118.
 
-La cuota a pagar por los derechos a que se refiere la presente Sección, será determinada en la Ley de Ingresos del Municipio de Cacalchén, Yucatán.
+Las unidades de transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante y cuando los solicitantes sea personas con discapacidad.
+
+51) FERIAS, CIRCOS
+
+TIPO A 1.0 P/DIA
+
+TIPO B 2.0 P/DIA
+
+TIPO A: Para los establecimientos o giros comerciales de menor generación de residuos sólidos urbanos que son las personas físicas o morales que generen una cantidad igual o mayor de 500 kilogramos y menor a 5 toneladas de peso bruto total de residuos no peligrosos al año o su equivalente en otra unidad de medida.
+
+TIPO B: Para los establecimientos o giros comerciales de mayor generación de residuos sólidos urbanos que son las personas físicas o morales que genere una cantidad igual o superior a cinco toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida.
+
+Cuando por su denominación algún comercio, negocio, establecimiento, prestador de servicio o industria no se encuentre comprendido en la clasificación anterior, se ubicará en aquel en que por sus características le sea más semejante o en su defecto, quedara a discrecionalidad del Director de Tesorería, Finanzas, y Administración Municipal fijar la tarifa correspondiente.
+
+Para los establecimientos o giros comerciales cuya recolecta de residuos rebasen o excedan las 15 toneladas de peso bruto total o su equivalente en otra medida al año, se les aplicara una tarifa especial de 0.22 veces de la unidad de medida y actualización por cada tambo adicional que generen, lo cual equivale a una bolsa de 200 litros o 175 kilogramos
+
+Sin afectar lo mencionado anteriormente, los usuarios del servicio de recolección de basura que paguen en una sola exhibición el importe anual por este servicio, gozarán de un descuento de 2 meses de la tarifa que corresponda, siempre que dicho pago se realice durante los meses de enero, febrero y marzo de cada año.
+
+Si durante cualquiera de los meses de servicio de recolección que se haya pagado por anticipado el usuario del servicio de recolección excediera en un 20 por ciento el número de bolsas de 200 litros cada una o 175 Kg considerados para la determinación de la tarifa de consumo ordinario, éste deberá pagar la cuota correspondiente al número de bolsas de 200 litros cada una o 175 Kg que excedieron al número de bolsas considerados para la determinación de la tarifa de consumo ordinario.
 
 #### Sección Décimo Segunda. Derechos por Servicios de Agua Potable
 
@@ -1450,3 +1522,25 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
