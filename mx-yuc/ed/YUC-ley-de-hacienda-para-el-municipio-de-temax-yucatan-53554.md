@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-temax-yucatan-53554"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2020-12-26"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -458,7 +458,7 @@ Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dich
 
 Cuando la dirección de Catastro del Municipio de Temax, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula. Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a la fecha de la recepción de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 46.
 
@@ -468,259 +468,259 @@ TABLA DE VALORES DE TERRENO
 
 ÁREA CENTRO
 
-VALOR POR M2 $ 15.00
+VALOR POR M2 $ 175.00
 
-CALLE 24 entre 29 y 31 $ 15.00
+CALLE 24 entre 29 y 31 $ 175.00
 
-CALLE 24 entre 31 y 33 $ 15.00
+CALLE 24 entre 31 y 33 $ 175.00
 
-CALLE 24 entre 33 y 35 $ 15.00
+CALLE 24 entre 33 y 35 $ 15.00 (SIC)
 
-CALLE 26 entre 29 y 31 $ 15.00
+CALLE 26 entre 29 y 31 $ 175.00
 
-CALLE 26 entre 31 y 33 $ 15.00
+CALLE 26 entre 31 y 33 $ 175.00
 
-CALLE 26 entre 33 y 33-A $ 15.00
+CALLE 26 entre 33 y 33-A $ 175.00
 
-CALLE 26 entre 33-A y 35 $ 15.00
+CALLE 26 entre 33-A y 35 $ 175.00
 
-CALLE 28 entre 29 y 31 $ 15.00
+CALLE 28 entre 29 y 31 $ 175.00
 
-CALLE 28 entre 31 y 31-A $ 15.00
+CALLE 28 entre 31 y 31-A $ 175.00
 
-CALLE 28 entre 31-A y 33-A $ 15.00
+CALLE 28 entre 31-A y 33-A $ 175.00
 
-CALLE 28 entre 33-A y 35 $ 15.00
+CALLE 28 entre 33-A y 35 $ 175.00
 
-CALLE 30 entre 29 y 31 $ 15.00
+CALLE 30 entre 29 y 31 $ 175.00
 
-CALLE 30 entre 31 y 33 $ 15.00
+CALLE 30 entre 31 y 33 $ 175.00
 
-CALLE 30 entre 33 y 35 $ 15.00
+CALLE 30 entre 33 y 35 $ 175.00
 
-CALLE 32 entre 29 y 31 $ 15.00
+CALLE 32 entre 29 y 31 $ 175.00
 
-CALLE 32 entre 31 y 33 $ 15.00
+CALLE 32 entre 31 y 33 $ 175.00
 
-CALLE 32 entre 33 y 35 $ 15.00
+CALLE 32 entre 33 y 35 $ 175.00
 
-CALLE 29 entre 24 y 26 $ 15.00
+CALLE 29 entre 24 y 26 $ 175.00
 
-CALLE 29 entre 26 y 28 $ 15.00
+CALLE 29 entre 26 y 28 $ 175.00
 
-CALLE 29 entre 28 y 30 $ 15.00
+CALLE 29 entre 28 y 30 $ 175.00
 
-CALLE 29 entre 30 y 32 $ 15.00
+CALLE 29 entre 30 y 32 $ 175.00
 
-CALLE 31 entre 24 y 26 $ 15.00
+CALLE 31 entre 24 y 26 $ 175.00
 
-CALLE 31 entre 26 y 28 $ 15.00
+CALLE 31 entre 26 y 28 $ 175.00
 
-CALLE 31 entre 28 y 30 $ 15.00
+CALLE 31 entre 28 y 30 $ 175.00
 
-CALLE 31 entre 30 y 32 $ 15.00
+CALLE 31 entre 30 y 32 $ 175.00
 
-CALLE 33 entre 24 y 26 $ 15.00
+CALLE 33 entre 24 y 26 $ 175.00
 
-CALLE 33 entre 30 y 32 $ 15.00
+CALLE 33 entre 30 y 32 $ 175.00
 
-CALLE 33-A entre 26 y 28 $ 15.00
+CALLE 33-A entre 26 y 28 $ 175.00
 
-CALLE 33-A entre 28 y 30 $ 15.00
+CALLE 33-A entre 28 y 30 $ 175.00
 
-CALLE 35 entre 24 y 26 $ 15.00
+CALLE 35 entre 24 y 26 $ 175.00
 
-CALLE 35 entre 26 y 28 $ 15.00
+CALLE 35 entre 26 y 28 $ 175.00
 
-CALLE 35 entre 28 y 30 $ 15.00
+CALLE 35 entre 28 y 30 $ 175.00
 
-CALLE 35 entre 30 y 32 $ 15.00
+CALLE 35 entre 30 y 32 $ 175.00
 
 ÁREA MEDIA
 
-VALOR POR M2 $ 10.00
+VALOR POR M2 $ 100.00
 
-CALLE 20 entre 27 y 29 $ 10.00
+CALLE 20 entre 27 y 29 $ 100.00
 
-CALLE 20 entre 29 y 31 $ 10.00
+CALLE 20 entre 29 y 31 $ 100.00
 
-CALLE 20 entre 31 y 31-A $ 10.00
+CALLE 20 entre 31 y 31-A $ 100.00
 
-CALLE 20 entre 31-A y 33 $ 10.00
+CALLE 20 entre 31-A y 33 $ 100.00
 
-CALLE 20 entre 33 y 37 $ 10.00
+CALLE 20 entre 33 y 37 $ 100.00
 
-CALLE 22 entre 27 y 29 $ 10.00
+CALLE 22 entre 27 y 29 $ 100.00
 
-CALLE 22 entre 29 y 31 $ 10.00
+CALLE 22 entre 29 y 31 $ 100.00
 
-CALLE 22 entre 31 y 31-A $ 10.00
+CALLE 22 entre 31 y 31-A $ 100.00
 
-CALLE 22 entre 31-A y 33 $ 10.00
+CALLE 22 entre 31-A y 33 $ 100.00
 
-CALLE 22 entre 33 y 37 $ 10.00
+CALLE 22 entre 33 y 37 $ 100.00
 
-CALLE 22-A entre 31 y 33 $ 10.00
+CALLE 22-A entre 31 y 33 $ 100.00
 
-CALLE 24 entre 27 y 29 $ 10.00
+CALLE 24 entre 27 y 29 $ 100.00
 
-CALLE 24 entre 35 y 37 $ 10.00
+CALLE 24 entre 35 y 37 $ 100.00
 
-CALLE 24 entre 37 y 39 $ 10.00
+CALLE 24 entre 37 y 39 $ 100.00
 
-CALLE 26 entre 27 y 29 $ 10.00
+CALLE 26 entre 27 y 29 $ 100.00
 
-CALLE 26 entre 35 y 37 $ 10.00
+CALLE 26 entre 35 y 37 $ 100.00
 
-CALLE 26 entre 37 y 39 $ 10.00
+CALLE 26 entre 37 y 39 $ 100.00
 
-CALLE 28 entre 27 y 29 $ 10.00
+CALLE 28 entre 27 y 29 $ 100.00
 
-CALLE 28 entre 35 y 37 $ 10.00
+CALLE 28 entre 35 y 37 $ 100.00
 
-CALLE 28 entre 37 y 39 $ 10.00
+CALLE 28 entre 37 y 39 $ 100.00
 
-CALLE 30 entre 27 y 29 $ 10.00
+CALLE 30 entre 27 y 29 $ 100.00
 
-CALLE 30 entre 35 y 37 $ 10.00
+CALLE 30 entre 35 y 37 $ 100.00
 
-CALLE 30 entre 37 y 39 $ 10.00
+CALLE 30 entre 37 y 39 $ 100.00
 
-CALLE 32 entre 27 y 29 $ 10.00
+CALLE 32 entre 27 y 29 $ 100.00
 
-CALLE 32 entre 35 y 37 $ 10.00
+CALLE 32 entre 35 y 37 $ 100.00
 
-CALLE 32 entre 37 y 39 $ 10.00
+CALLE 32 entre 37 y 39 $ 100.00
 
-CALLE 34 entre 27 y 29 $ 10.00
+CALLE 34 entre 27 y 29 $ 100.00
 
-CALLE 34 entre 29 y 31 $ 10.00
+CALLE 34 entre 29 y 31 $ 100.00
 
-CALLE 34 entre 31 y 33 $ 10.00
+CALLE 34 entre 31 y 33 $ 100.00
 
-CALLE 34 entre 33 y 35 $ 10.00
+CALLE 34 entre 33 y 35 $ 100.00
 
-CALLE 34 entre 35 y 37 $ 10.00
+CALLE 34 entre 35 y 37 $ 100.00
 
-CALLE 34 entre 37 y 39 $ 10.00
+CALLE 34 entre 37 y 39 $ 100.00
 
-CALLE 36 entre 27 y 29-A $ 10.00
+CALLE 36 entre 27 y 29-A $ 100.00
 
-CALLE 36 entre 29-A y 29 $ 10.00
+CALLE 36 entre 29-A y 29 $ 100.00
 
-CALLE 36 entre 29 y 31 $ 10.00
+CALLE 36 entre 29 y 31 $ 100.00
 
-CALLE 36 entre 31 y 33 $ 10.00
+CALLE 36 entre 31 y 33 $ 100.00
 
-CALLE 36 entre 33 y 35 $ 10.00
+CALLE 36 entre 33 y 35 $ 100.00
 
-CALLE 36 entre 35 y 37-A $ 10.00
+CALLE 36 entre 35 y 37-A $ 100.00
 
-CALLE 36 entre 37-A y 39 $ 10.00
+CALLE 36 entre 37-A y 39 $ 100.00
 
-CALLE 27 entre 20 y 22 $ 10.00
+CALLE 27 entre 20 y 22 $ 100.00
 
-CALLE 27 entre 22 y 24 $ 10.00
+CALLE 27 entre 22 y 24 $ 100.00
 
-CALLE 27 entre 24 y 26 $ 10.00
+CALLE 27 entre 24 y 26 $ 100.00
 
-CALLE 27 entre 26 y 28 $ 10.00
+CALLE 27 entre 26 y 28 $ 100.00
 
-CALLE 27 entre 28 y 30 $ 10.00
+CALLE 27 entre 28 y 30 $ 100.00
 
-CALLE 27 entre 30 y 32 $ 10.00
+CALLE 27 entre 30 y 32 $ 100.00
 
-CALLE 27 entre 32 y 34 $ 10.00
+CALLE 27 entre 32 y 34 $ 100.00
 
-CALLE 27 entre 34 y 36 $ 10.00
+CALLE 27 entre 34 y 36 $ 100.00
 
-CALLE 29 entre 20 y 22 $ 10.00
+CALLE 29 entre 20 y 22 $ 100.00
 
-CALLE 29 entre 22 y 24 $ 10.00
+CALLE 29 entre 22 y 24 $ 100.00
 
-CALLE 29 entre 24 y 26 $ 10.00
+CALLE 29 entre 24 y 26 $ 100.00
 
-CALLE 29 entre 26 y 28 $ 10.00
+CALLE 29 entre 26 y 28 $ 100.00
 
-CALLE 29 entre 28 y 30 $ 10.00
+CALLE 29 entre 28 y 30 $ 100.00
 
-CALLE 29 entre 30 y 32 $ 10.00
+CALLE 29 entre 30 y 32 $ 100.00
 
-CALLE 29 entre 32 y 34 $ 10.00
+CALLE 29 entre 32 y 34 $ 100.00
 
-CALLE 29 entre 34 y 36 $ 10.00
+CALLE 29 entre 34 y 36 $ 100.00
 
-CALLE 31 entre 20 y 22 $ 10.00
+CALLE 31 entre 20 y 22 $ 100.00
 
-CALLE 31 entre 22 y 22-A $ 10.00
+CALLE 31 entre 22 y 22-A $ 100.00
 
-CALLE 31 entre 22-A y 24 $ 10.00
+CALLE 31 entre 22-A y 24 $ 100.00
 
-CALLE 31 entre 32 y 34 $ 10.00
+CALLE 31 entre 32 y 34 $ 100.00
 
-CALLE 31 entre 34 y 36 $ 10.00
+CALLE 31 entre 34 y 36 $ 100.00
 
-CALLE 31-A entre 30, 20 y 22 $ 10.00
+CALLE 31-A entre 30, 20 y 22 $ 100.00
 
-CALLE 33 entre 20 y 22 $ 10.00
+CALLE 33 entre 20 y 22 $ 100.00
 
-CALLE 33 entre 22 y 22-A $ 10.00
+CALLE 33 entre 22 y 22-A $ 100.00
 
-CALLE 33 entre 22-A y 24 $ 10.00
+CALLE 33 entre 22-A y 24 $ 100.00
 
-CALLE 33 entre 32 y 34 $ 10.00
+CALLE 33 entre 32 y 34 $ 100.00
 
-CALLE 33 entre 34 y 36 $ 10.00
+CALLE 33 entre 34 y 36 $ 100.00
 
-CALLE 35 entre 32 y 34 $ 10.00
+CALLE 35 entre 32 y 34 $ 100.00
 
-CALLE 35 entre 34 y 36 $ 10.00
+CALLE 35 entre 34 y 36 $ 100.00
 
-CALLE 37 entre 20 y 22 $ 10.00
+CALLE 37 entre 20 y 22 $ 100.00
 
-CALLE 37 entre 22 y 24 $ 10.00
+CALLE 37 entre 22 y 24 $ 100.00
 
-CALLE 37 entre 24 y 26 $ 10.00
+CALLE 37 entre 24 y 26 $ 100.00
 
-CALLE 37 entre 26 y 28 $ 10.00
+CALLE 37 entre 26 y 28 $ 100.00
 
-CALLE 37 entre 28 y 30 $ 10.00
+CALLE 37 entre 28 y 30 $ 100.00
 
-CALLE 37 entre 30 y 32 $ 10.00
+CALLE 37 entre 30 y 32 $ 100.00
 
-CALLE 37 entre 32 y 34 $ 10.00
+CALLE 37 entre 32 y 34 $ 100.00
 
-CALLE 37 entre 34 y 36 $ 10.00
+CALLE 37 entre 34 y 36 $ 100.00
 
-CALLE 39 entre 24 y 26 $ 10.00
+CALLE 39 entre 24 y 26 $ 100.00
 
-CALLE 39 entre 26 y 28 $ 10.00
+CALLE 39 entre 26 y 28 $ 100.00
 
-CALLE 39 entre 28 y 30 $ 10.00
+CALLE 39 entre 28 y 30 $ 100.00
 
-CALLE 39 entre 30 y 32 $ 10.00
+CALLE 39 entre 30 y 32 $ 100.00
 
-CALLE 39 entre 32 y 34 $ 10.00
+CALLE 39 entre 32 y 34 $ 100.00
 
-CALLE 39 entre 34 y 36 $ 10.00
+CALLE 39 entre 34 y 36 $ 100.00
 
 ÁREA PERIFERIA
 
 VALOR POR M2
 
-RESTO DEL ÁREA (PERIFERIA): $ 8.00
+RESTO DEL ÁREA (PERIFERIA): $ 50.00
 
-TODAS LAS COMISARIAS: $ 8.00
+TODAS LAS COMISARIAS: $ 50.00
 
 RÚSTICOS
 
 VALOR POR HA. O M2
 
-BRECHA. $ 0.05 centavos
+BRECHA $25,000 PESOS
 
-CAMINO BLANCO. $ 0.06 centavos
+CAMINO BLANCO $25,000 PESOS
 
-CARRETERA. $ 0.08 centavos
+CARRETERA $25,000 PESOS
 
 VALOR UNITARIO DE CONTRUCCIÓN (SIC) POR M2
 
@@ -728,13 +728,17 @@ TIPO DE
 
 CONSTRUCCIÓN ÁREA CENTRO ÁREA MEDIA PERIFERIA
 
-CONCRETO $ 150.00 $ 125.00 $ 100.00
+CONCRETO $ 2,916.00 $ 2,274.00 $ 1,680.00
 
-HIERRO Y ROLLIZOS $ 100.00 $ 80.00 $ 60.00
+HIERRO Y
 
-ZINC, ASBESTO O TEJA $ 80.00 $ 70.00 $ 60.00
+ROLLIZOS $ 2,334.00 $ 2,042.00 $ 1,324.00
 
-CARTON Y PAJA $ 60.00 $ 50.00 $ 40.00
+ZINC, ASBESTO
+
+O TEJA $ 1,752.00 $ 1,604.00 $ 1,060.00
+
+CARTON Y PAJA $ 1,144.00 $ 1,022.00 $ 664.00
 
 PARA COBRO DEL IMPUESTO PREDIAL
 
@@ -748,25 +752,37 @@ INFERIOR SUPERIOR FIJA
 
 ANUAL
 
-$ 1.00 $ 5,000.00 $ 50.00
+$ 1.00 $ 5,000.00 $ 50.00 .002
 
-$ 5,001.00 $ 10,000.00 $ 70.00
+$ 5,001.00 $ 10,000.00 $ 70.00 .002
 
-$ 10,001.00 $ 20,000.00 $ 80.00
+$ 10,001.00 $ 20,000.00 $ 80.00 .002
 
-$ 20,001.00 $ 30,000.00 $ 100.00
+$ 20,001.00 $ 30,000.00 $ 100.00 .002
 
-$ 30,001.00 $ 40,000.00 $ 120.00
+$ 30,001.00 $ 40,000.00 $ 120.00 .002
 
-$ 40,001.00 $ 50,000.00 $ 150.00
+$ 40,001.00 $ 50,000.00 $ 150.00 .002
 
-$ 50,001.00 $ 70,000.00 $ 170.00
+$ 50,001.00 $ 70,000.00 $ 170.00 .002
 
-$ 70,001.00 EN ADELANTE $ 200.00
+$ 70,001.00 EN ADELANTE $ 200.00 .002
 
-COMERCIOS $ 200.00
+COMERCIOS $ 200.00 .002
 
-PEQUEÑOS COMERCIOS $ 100.00
+PEQUEÑOS COMERCIOS $ 100.00 .002
+
+1.- Se determina el valor unitario del terreno correspondiente a su ubicación. (A)
+
+2.- Se clasifica el tipo de construcción de acuerdo a los materiales de las construcciones techadasen (sic) popular, económico, mediano, calidad y de lujo y se vincula a su estado actual en nuevo, bueno, regular o malo. (B)
+
+3.- Al sumarse ambos puntos anteriores se obtiene el valor catastral del inmueble
+
+o terreno.
+
+4.- La tarifa del impuesto predial (C) será el 10% del valor catastral actualizado.
+
+C=(A+B)(.10)/100.
 
 PARA COBRO DEL IMPUESTO PREDIAL
 
@@ -774,41 +790,47 @@ PREDIOS RÚSTICOS
 
 TARIFA FIJA POR HA O M2
 
-HECTÁREAS CUOTA FIJA ANUAL FACTOR
+HECTÁREAS CUOTA FIJA ANUAL
 
-1 HA. A 5 HAS. $ 100.00
+1 HA. A 5 HAS. $ 2,000
 
-6 HAS. A 10 HAS. $ 150.00
+6 HAS. A 10 HAS. $ 4,000
 
-11 HAS. A 20 HAS. $ 200.00
+11 HAS. A 20 HAS. $ 6,000
 
-21 HAS. A 35 HAS. $ 250.00
+21 HAS. A 35 HAS. $ 8,000
 
-36 HAS. A 50 HAS. $ 300.00
+36 HAS. A 50 HAS. $ 10,000
 
-51 HAS. A 90 HAS. $ 350.00
+51 HAS. A 90 HAS. $ 12,000
 
-91 HAS. A 150 HAS. $ 400.00
+91 HAS. A 150 HAS. $ 14,000
 
-151 HAS. A 200 HAS. $ 450.00
+151 HAS. A 200 HAS. $ 16,000
 
-201 HAS. EN ADELANTE $ 500.00
+201 HAS. EN ADELANTE $ 18,000
 
-EMPRESAS $ 300.00
+EMPRESAS $ 20,000
 
-GASOLINERAS $ 500.00
+GASOLINERAS $ 40,000
 
 RÚSTICOS
 
-ACCESO POR CARRETERA SE LE APLICA UN 10% SOBRE CUOTA
+ACCESO POR
 
-ASFALTADA FIJA
+CARRETERA $25,000 POR HECTAREA
 
-ACCESO POR CAMINO BLANCO SE LE APLICA UN 5% SOBRE CUOTA
+ASFALTADA
 
-O TERRACERÍA FIJA
+ACCESO POR
 
-ACCESO POR BRECHA
+CAMINO BLANCO $15,000 POR HECTAREA
+
+O TERRACERÍA
+
+ACCESO POR
+
+BRECHA $7,500 POR HECTAREA
 
 ###### Artículo 47.
 
@@ -842,17 +864,21 @@ Cuando de un inmueble formen parte dos o más departamentos y éstos se encontra
 
 Los fedatarios públicos ante quienes se otorgare, firmare o rectificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente, o usufructuario obtener una contraprestación, en los términos señalados en el artículo 50 de esta Ley, estarán obligados a entregar una copia simple del mismo a la Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 51.
 
 Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier otra contraprestación generada por el uso, goce o por permitir la ocupación de un inmueble por cualquier título, el impuesto se pagará mensualmente conforme a la siguiente tarifa:
 
 DESTINO FACTOR
 
-HABITACIONAL 0.50 % mensual sobre el monto de la contraprestación.
+HABITACIONAL 4 % mensual sobre el monto
 
-OTROS 0.70 % mensual sobre el monto de la contraprestación.
+de la contraprestación.
 
-El factor del valor catastral del inmueble en términos de lo dispuesto en el artículo 50 de este ordenamiento legal.
+OTROS 4 % mensual sobre el monto de
+
+la contraprestación.
 
 ###### Artículo 52.
 
@@ -984,9 +1010,11 @@ En la elaboración de los avalúos referidos así como para determinar el costo 
 
 Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles, tendrán una vigencia de seis meses a partir de la fecha de su expedición.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 60.
 
-El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2 % a la base señalada en el artículo 60 de esta Ley.
+El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2.5 % a la base señalada en el artículo 60 de esta Ley.
 
 ###### Artículo 61.
 
@@ -1164,89 +1192,63 @@ IX.- Restaurantes, hoteles y moteles.
 
 Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual y deberán revalidarse durante los meses de enero y febrero. Para que la Tesorería Municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 80.
 
 La tarifa que se cobrará para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, será la siguiente:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+I.- Vinaterías de $ 30, 000.00
 
-I.- Vinaterías $ 20,000.00
+II.- Expendio de cerveza de $ 30,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+III.- Departamento de licores en
 
-II.- Expendio de cerveza $ 20,000.00
+supermercados de $ 30,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+IV.- Mini súper de $ 40,000.00
 
-III.- Departamento de licores en supermercados $ 20,000.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-IV.- Mini súper $ 20,000.00
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 81.
 
-Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
+Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyosgiros (sic) sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+I.- Centros nocturnos y discotecas $ 40,000.00
 
-I.- Centros nocturnos y discotecas $ 25,000.00
+II.- Cantinas y bares $ 30,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+III.- Clubes sociales $ 30,000.00
 
-II.- Cantinas y bares $ 20,000.00
+IV.- Salones de baile $ 30,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+V.- Restaurantes, hoteles y moteles $ 40,000.00
 
-III.- Clubes sociales $ 20,000.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-IV.- Salones de baile $ 20,000.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-V.- Restaurantes, hoteles y moteles $ 25,000.00
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 82.
 
-Por el otorgamiento de la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en el artículo 79 de esta Ley, se pagará un derecho conforme a la siguiente tarifa:
+Por el otorgamiento de la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en el artículo 78 de esta Ley, se pagará un derecho conforme a la siguiente tarifa:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+I.- Vinaterías $ 5,000.00
 
-I.- Vinaterías $ 3,500.00
+II.- Expendio de cerveza $ 5,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+III.- Departamento de licores en
 
-II.- Expendio de cerveza $ 3,500.00
+supermercados $ 5,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+IV.- Mini súper $ 5,000.00
 
-III.- Departamento de licores en supermercados $ 3,500.00
+V.- Centros nocturnos y discotecas $ 5,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+VI.- Cantinas y bares $ 5,000.00
 
-IV.- Mini súper $ 3,500.00
+VII.- Clubes sociales $ 5,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+VIII.- Salones de baile $ 5,000.00
 
-V.- Centros nocturnos y discotecas $ 3,500.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-VI.- Cantinas y bares $ 3,500.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-VII.- Clubes sociales $ 3,500.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Salones de baile $ 3,500.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-IX.- Restaurantes, hoteles y moteles $ 3,500.00
+IX.- Restaurantes, hoteles y moteles $ 5,000.00
 
 ###### Artículo 83.
 
@@ -1312,11 +1314,13 @@ III.- Anuncios en carteleras mayores de 2 metros cuadrados por cada metro cuadra
 
 IV.- Anuncios en carteleras oficiales $13.00 por día
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)
 
 Artículo 86 A.- Todo establecimiento, negocio y/o empresa en general sean estas comerciales, industriales, de servicios o cualquier otro giro que no esté relacionado con la venta de bebidas alcohólicas, deberá pagar de acuerdo a la taza que se determina en el siguiente cuadro de categorización de los giros comerciales tazados en unidades de medida de actualización.
 
 > <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 21 A LA 23.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A TABLAS EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 61 A LA 62.]</small>
 
 ### CAPÍTULO III. De los Servicios que presta la Dirección de Desarrollo Urbano de los Sujetos
 
@@ -1386,37 +1390,441 @@ Clase 3: Con construcción desde 121.00 hasta 240.00 metros cuadrados.
 
 Clase 4: Con construcción desde 241.00 metros cuadrados en adelante.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 91.
 
 La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
 
-I.- Por cualquier permiso de construcción se pagará $10.00 por metro cuadrado.
+I.- Permisos de construcción de particulares
 
-II.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2018)
+a) Láminas de zinc y cartón
 
-III.- Por cada permiso de remodelación 2 días de salario mínimo vigente por M2
+Medidas UMA
 
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2020)</small>
+Por cada construcción de hasta 40 metros .14 por m2
 
-IV.- Por cada permiso de ampliación 2 días de salario mínimo vigente por M2
+Por cada construcción de 41 a 120 metros .16 por m2
 
-V.- Por cada permiso de demolición 2 días de salario mínimo vigente por M2
+Por cada construcción de hasta 121 a 240 metros .17 por m2
 
-VI.- Por cada permiso por ruptura de banqueta Empedrado o pavimento 2 días de salario mínimo vigente por M2
+Por cada construcción de 241 metros
 
-VII.- Por construcción de albercas 4 días de salario mínimo vigente por M3
+cuadrados en adelante .23 por m2
 
-VIII.- Por construcción de pozos $ 0.50 por metro lineal de profundidad
+b) de madera y paja o teja
 
-IX.- Por autorización para la construcción o demolición De bardas u obras lineales 2 días de salario mínimo vigente por metro lineal
+Medidas UMA
 
-X.- Licencia de uso del suelo 2 días de salario mínimo vigente
+Por cada permiso de construcción de
 
-XI.- Inspección para el otorgamiento del permiso que autorice romper o hacer cortes del pavimento, las banquetas y las guarniciones así como ocupar la vía pública para instalaciones provisionales 2 días de salario mínimo vigente
+hasta 40 metros cuadrados .14 por m2
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+Por cada permiso de construcción de
+
+41 a 120 metros cuadrados .16 por m2
+
+Por cada permiso de construcción 121 metros
+
+a 240 metros .17 por m2
+
+Por cada permiso de construcción de 241 metros
+
+cuadrados en adelante .23 por m2
+
+c) Vigueta y bovedilla
+
+Medidas UMA
+
+Por cada permiso de construcción de
+
+hasta 40m2 .22 por m2
+
+Por cada permiso de construcción de
+
+41 a 120m2 .26 por m2
+
+Por cada permiso de 121 a 240m2 .26 por m2
+
+Por cada permiso de 241m2 .36 por m2
+
+II.- Permiso de construcción de INFONAVIT, bodegas, industrias y comercios
+
+a) Láminas de zinc y cartón
+
+Medidas UMA
+
+Hasta 40 metros cuadrados .18 por m2
+
+De 41 a 120 metros cuadrados .18 por m2
+
+De 121 a 240 metros cuadrados .18 por m2
+
+De 241 metros cuadrados en adelante .18 por m2
+
+b) De madera y paja
+
+Medidas UMA
+
+De hasta 40 metros cuadrados .20 por m2
+
+De 41 a 120 metros cuadrados .20 por m2
+
+De 121 a 240 metros cuadrados .20 por m2
+
+De 241 metros cuadrados en adelante .20 por m2
+
+c) Vigueta y bovedilla
+
+Medidas UMA
+
+De hasta 40 metros cuadrados .21 por m2
+
+De 41 a 120 metros cuadrados .21 por m2
+
+De 121 a 240 metros cuadrados .21 por m2
+
+De 241 metros cuadrados en adelante .21 por m2
+
+III.- Permiso de construcción de hoteles, condominios, conjuntos habitacionales y fraccionamientos privados
+
+UMA
+
+65 unidad de medida y actualización por m2
+
+IV.- Por cada permiso de remodelación
+
+UMA
+
+.21 por m2
+
+V.- Por cada permiso de ampliación
+
+UMA
+
+.21 por m2
+
+VI.- Por cada permiso de demolición
+
+Medidas UMA
+
+Hasta 40 m2 .32 por m2
+
+Permisos de De 41 a 120 m2 .34 por m2
+
+Demolición
+
+De 121 a 240 m2 .39 por m2
+
+De 241 m2 en adelante .42 por m2
+
+VII.- Por cada permiso para la ruptura de banquetas, empedrados o pavimento
+
+Medidas UMA
+
+Hasta 40 m2 .32 por m2
+
+Permiso de De 41 a 120 m2 .34 por m2
+
+ruptura de
+
+banquetas De 121 a 240 m2 .39 por m2
+
+De 241 m2 en adelante .42 por m2
+
+VIII.- Por construcción de albercas
+
+Medidas UMA
+
+Hasta 40 m2 .35 por m3 de capacidad
+
+Construcción De 41 a 120 m2 .37 por m3 de capacidad
+
+de albercas
+
+De 121 a 240 m2 .42 por m3 de capacidad
+
+De 241 m2 en adelante .45 por m3 de capacidad
+
+IX.- Por construcción de pozos
+
+Medidas UMA
+
+Hasta 40 ml .35 por ml de profundidad
+
+Construcción De 41 a 120 ml .37 por cada ml de profundidad
+
+de pozos
+
+De 121 a 240 m .42 por cada ml de profundidad
+
+De 241 ml en
+
+adelante .45 por cada ml de profundidad
+
+X.- Por cada autorización para la construcción o demolición de bardas u obras
+
+Medidas UMA
+
+Autorización para Hasta 40 m2 .39 por m2
+
+construcción de
+
+bardas u obras De 41 a 120 m2 .43 por m2
+
+De 121 a 240 m2 .48 por m2
+
+De 241 m2 en
+
+adelante .50 por m2
+
+Autorización para Hasta 40 m2 .29 por m2
+
+la demolición de
+
+bardas u obras De 41 a 120 m2 .31 por m2
+
+De 121 a 240 m2 .36 por m2
+
+De 241 m2 en
+
+adelante .39 por m2
+
+XI.- Por inspección para el otorgamiento de la constancia de terminación de obra
+
+a) Lámina de zinc y cartón
+
+Medidas UMA
+
+Hasta 40 metros cuadrados .16 por m2
+
+De 41 a 120 metros cuadrados .17 por m2
+
+De 121 a 240 metros cuadrados .18 por m2
+
+De 241 metros cuadrados en adelante .20 por m2
+
+b) Madera y paja
+
+Medidas UMA
+
+Hasta 40 metros cuadrados .17 por m2
+
+De 41 a 120 metros cuadrados .18 por m2
+
+De 121 a 240 metros cuadrados .19 por m2
+
+De 241 metros cuadrados en adelante .21 por m2
+
+c) Vigueta y bovedilla
+
+Medidas UMA
+
+Hasta 40 metros cuadrados .19 por m2
+
+De 41 a 120 metros cuadrados .25 por m2
+
+De 121 a 240 metros cuadrados .27 por m2
+
+De 241 metros cuadrados en adelante .31 por m2
+
+XII.- Por inspección, revisión de planos y alineamientos del terreno para el otorgamiento de la licencia o permiso de construcción para vivienda tipo INFONAVIT o cuyo uso sea para bodegas, industrias, comercio, hoteles condominios, villas y grandes construcciones
+
+a) Lamina de zinc o cartón
+
+Medidas UMA
+
+Hasta 40 metros cuadrados .18 por m2
+
+De 41 a 120 metros cuadrados .21 por m2
+
+De 121 a 240 metros cuadrados .24 por m2
+
+De 241 metros cuadrados en adelante .29 por m2
+
+a) Madera y paja
+
+Medidas UMA
+
+Hasta 40 metros cuadrados .20 por m2
+
+De 41 a 120 metros cuadrados .23 por m2
+
+De 121 a 240 metros cuadrados .28 por m2
+
+De 241 metros cuadrados en adelante .32 por m2
+
+b) Vigueta y bovedilla
+
+Medidas UMA
+
+Hasta 40 metros cuadrados .29 por m2
+
+De 41 a 120 metros cuadrados .37 por m2
+
+De 121 a 240 metros cuadrados .48 por m2
+
+De 241 metros cuadrados en adelante .58 por m2
+
+XIII.- Por el derecho de inspección para el otorgamiento exclusivamente de la constancia de alineamiento de un predio
+
+Concepto UMA
+
+Derecho de inspección para el Hasta 40 m2 2.90
+
+otorgamiento exclusivamente de la
+
+constancia de alineamiento de un De 41 a 120 m2 2.90
+
+predio
+
+De 121 a 240 m2 2.90
+
+De 241 m2 en
+
+adelante 2.90
+
+XIV.- Certificado de cooperación
+
+UMA
+
+1.90
+
+XV.- Licencia de uso de suelo
+
+Concepto UMA
+
+Licencia de uso Hasta 40 m2 3.91
+
+de suelo
+
+De 41 a 120 m2 3.91
+
+De 121 a 240 m2 3.91
+
+De 241 m2 en adelante 3.91
+
+XVI.- Inspección para expedir licencia para efectuar excavaciones o zanjas en la vía pública
+
+UMA
+
+.33
+
+XVII.- Inspección para expedir licencia o permiso para el uso de andamios o tapiales
+
+UMA
+
+3.91
+
+XVIII.- Constancia de factibilidad de uso de suelo, apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles
+
+UMA
+
+3.91
+
+XIX.- Inspecciones para el otorgamiento de la licencia que autorice romper o hacer cortes a pavimento, las banquetas, y las guarniciones, así como ocupar la vía pública para instalaciones.
+
+UMA
+
+3.91
+
+XX.- Revisión de planos, supervisión y expedición de constancia para obras de urbanización.
+
+UMA
+
+3.91
+
+Quedarán exentos del pago de este derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
+
+Anuncios publicitarios
+
+Concepto UMA
+
+ANUNCIOS PUBLICITARIOS
+
+Anuncios murales por metro cuadrado o
+
+fracción, fijos o móviles 1.31
+
+Anuncios estructurales fijos por metro
+
+cuadrado o fracción 1.50
+
+Anuncios en carteleras mayores a dos
+
+metros cuadrados, por cada
+
+metro cuadrado o fracción 1.31
+
+Anuncios en carteles oficiales, por cada una 2.79
+
+Por instalación de anuncios de 1-5 días: .45
+
+propaganda o publicidad transitorios
+
+en inmuebles o muebles urbanos, 1-10 días: .56
+
+por metro cuadrado
+
+1-15 días: .67
+
+1-30 días: .95
+
+Publicidad fuera del negocio o exhibición
+
+en banqueta del negocio 2.57
+
+Servicio de inspección para expedir licencias para colocar pisos
+
+UMA
+
+3.91
+
+Constancia que sirve como requisito para la obtención de un título de concesión en Zona Federal- Marítima o Carta de congruencia de Uso de Suelo
+
+UMA
+
+3.91
+
+Sellado de planos
+
+UMA
+
+1.56
+
+Uso de suelo para construir y colocar en la vía pública o en propiedad privada su infraestructura de cableado, postes y antenas
+
+Concepto UMA
+
+por poste .28 mensuales por unidad
+
+por caseta telefónica .73 mensuales por unidad
+
+Por instalaciones lineales .17 mensuales por metro
+
+Expedición de constancias de reserva de crecimiento
+
+UMA
+
+2.01
+
+Expedición de licencia de uso de suelo para antenas de telecomunicación
+
+UMA
+
+60
+
+Inspección para expedir constancia de cumplimiento del reglamento de imagen urbana
+
+UMA
+
+2.06
+
+Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la autorización, constancia, licencia, o permiso correspondiente
+
+UMA
+
+29.99
 
 Quedaran exentos de pago de este derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
 
@@ -1514,105 +1922,171 @@ Son sujetos de estos derechos las personas físicas o morales, que soliciten los
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 101.
 
 La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con las siguientes tarifas:
 
-CERTIFICADO DE NO ADEUDO $50.00
+I.- Emisión de constancias.
 
-COPIA CERTIFICADA $50.00
+a) Constancia de historial de predio $ 214.00
 
-COPIA SIMPLE CARTA $20.00
+b) Constancia de valor catastral $ 214.00
 
-COPIA SIMPLE OFICIO $25.00
+c) Constancia de no propiedad $ 214.00
 
-CERTIFICADO DE NO PROPIEDAD $100.00
+d) Constancia de única propiedad $ 214.00
 
-CERTIFICADO DE SI PROPIEDAD $100.00
+e) Copia certificada $ 82.00
 
-CEDULA CATASTRAL $100.00
+f) Copia simple $ 30.00
 
-CONSTANCIA DE VALOR CATASTRAL $60.00
+g) Certificado de número oficial $ 214.00
 
-CONSTANCIA DE INSCRIPCIÓN (SI) O (NO) VIGENTE $60.00
+h) Elaboración de planos $ 323.00
 
-HISTORIAL DE PREDIOS $100.00
+II.- Por expedición de cedulas.
 
-OFICIO DE UNIÓN DE PREDIOS $100.00
+a) Cedula por traslación de dominio $ 377.00
 
-RECTIFICACIÓN DE UNIÓN DE PREDIOS $100.00
+b) Cedula de mejora $ 377.00
 
-OFICIO DE DIVISIÓN:
+c) Cedula de actualización o aplicación de valor $ 377.00
 
-EN 1 PARTE $50.00
+d) Cedula por corrección de superficie $ 377.00
 
-EN 2 PARTES $100.00
+e) Cedula por corrección de cruzamientos $ 377.00
 
-OFICIO DE RECTIFICACIÓN DE MEDIDAS $100.00
+f) Cedula definitiva de división $ 377.00
 
-NÚMERO OFICIAL DE PREDIO $100.00
+g) Cedula definitiva de unión $ 377.00
 
-INFORMACIÓN DE BIENES INMUEBLES $60.00
+h) Cedula definitiva de rectificación $ 377.00
 
-DILIGENCIA DE VERIFICACIÓN $250.00
+i) Cedula definitiva por urbanización $ 377.00
 
-OFICIO DE URBANIZACIÓN DE PREDIO $100.00
+j) Cedula por cambio de nomenclatura $ 377.00
 
-OFICIO DE CAMBIO DE NOMENCLATURA $100.00
+k) Cedula por constitución de régimen en condominio $ 377.00
 
-I.- Por elaboración de planos:
+l) Cedula por corrección de datos $ 377.00
 
-a) Catastrales a escala $ 150.00
+m) Cedula por inscripción de fondo legal $ 377.00
 
-b) Planos topográficos hasta 100 hectáreas. $ 258.00
+n) Cedula provisional por mandato judicial $ 377.00
 
-II.- Por reproducción de documentos microfilmados:
+ñ) Verificación de medidas $ 514.00
 
-a) Tamaño carta. $ 41.00
+III.- Por expedición de oficios de:
 
-b) Tamaño oficio. $ 52.00
+a) Oficio por verificación de medidas $ 130.00
 
-III.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
+b) Oficio de proyecto de división y por
 
-De 01-00-00 a 10-00-00 $ 565.00
+cada fracción resultante $ 130.00
 
-De 10-00-01 a 20-00-00 $ 1,133.00
+c) Oficio de proyecto de unión de predios $ 130.00
 
-De 20-00-01 a 30-00-00 $ 1,236.00
+d) Oficio de proyecto de rectificación de predios $ 130.00
 
-De 30-00-01 a 40-00-00 $ 2,369.00
+e) Oficio por cambio de nomenclatura $ 130.00
 
-De 40-00-01 a 50-00-00 $ 3,090.00
+f) Oficio de asignación de nomenclatura de fundo legal $ 130.00
 
-De 50-00-01 en adelante $ 515.00 por hectárea
+g) Oficio de factibilidad de división para el
 
-IV.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos:
+régimen en condominio $ 130.00
 
-De un valor de $ 1,000.00 a $ 4,000.00 $ 20.00
+h) Oficio de ubicación, deslinde y marcación $ 130.00
 
-De un valor de $ 4,001.00 a $ 10,000.00 $ 125.00
+i) Oficio por urbanización $ 130.00
 
-De un valor de $ 10,001.00 a $ 30,000.00 $ 150.00
+IV.- Por elaboración de planos:
 
-De un valor de $ 30,001.00 a $ 50,000.00 $ 180.00
+Catastrales a escala $ 500.00
 
-De un valor de $ 50,001.00 a $ 80,000.00 $ 250.00
+V.- Por revalidación de oficios de división, unión y
 
-De un valor de $ 80,001.00 en adelante $ 290.00
+rectificación de medidas $ 200.00
+
+VI.- Por reproducción de documentos microfilmados:
+
+a) Tamaño carta $ 100.00
+
+b) Tamaño oficio $ 100.00
+
+VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios
+
+a) Diligencias de verificación por urbanización $ 514.00
+
+b) Diligencias de verificación por división $ 514.00
+
+c) Diligencias de verificación por unión $ 514.00
+
+d) Diligencias de verificación por rectificación $ 514.00
+
+e) Diligencias de verificación por cambio de
+
+nomenclatura $ 514.00
+
+f) Diligencias de verificación por asignación
+
+de nomenclatura $ 514.00
+
+g) Diligencias por ubicación, deslinde y
+
+marcación del predio $ 514.00
+
+h) Diligencias de verificación por régimen
+
+en condominio $ 514.00
+
+i) Revisión técnica tipo habitación $ 106.00
+
+j) Revisión técnica tipo comercial $ 206.00
+
+VIII.- Con informe pericial $ 250.00
+
+IX. Costo por derecho de mejora
+
+a) De un valor de $1,000.00 a $4,000.00 no genera costo
+
+b) De un valor de $4,001.00 a $10,000.00 $ 395.00
+
+c) De un valor de $10,001.00 a $75,000.00 $ 979.00
+
+d) De un valor de $75,001.00 a $200,000.00 $ 1,390.00
+
+e) De un valor de $200,001.00 en adelante $ 2,088.00
+
+Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos:
+
+De un valor de $ 1,000.00 A $10,000.00 $ 200.00
+
+De un valor de $ 10,001.00 A $ 20,000.00 $ 250.00
+
+De un valor de $ 20,001.00 A $ 30,000.00 $ 300.00
+
+De un valor de $ 30,001.00 A $ 50,000.00 $ 350.00
+
+De un valor de $ 50,001.00 A $ 60,000.00 $ 400.00
+
+De un valor de $ 60,001.00 A En adelante $ 450.00
 
 ###### Artículo 102.
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 103.
 
 Los fraccionamientos causarán derechos de deslindes, a excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
 
-I.- Hasta 160,000 m2 $ 0.050 por m2
+I.- Hasta 160,000 m2 $ 0.10 por m2
 
-II.- Más de 160,000 m2 por metros excedentes $ 0.023 por m2
+II.- Más de 160,000 m2 por metros excedentes $ 0.50 por m2
 
 ###### Artículo 104.
 
@@ -1848,17 +2322,21 @@ Es objeto de derecho por los servicios que presta la Unidad de Acceso a la Infor
 
 Son sujetos obligados al pago de derechos por los servicios que presta la Unidad de Acceso a la Información Pública del Municipio de Temax, las personas físicas o morales que soliciten, cualesquiera de los servicios a que se refiere este capítulo.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 129.
 
-Los sujetos pagarán los derechos por los servicios que soliciten a la Unidad de Acceso a la Información Pública, de acuerdo a la siguiente tarifa:
+El pago por concepto de costo de recuperación no podrá ser superior a la suma de:
 
-I.- Por cada copia simple tamaño carta $ 1.00
+I.- El costo de los materiales utilizados en la reproducción de la información;
 
-II.- Por cada copia certificada tamaño carta $ 12.00
+II.- El costo de envío, en su caso, y
 
-III.- Por la información solicitada grabada en disco compacto $ 30.00
+III.- El pago de la certificación de los Documentos, cuando proceda.
 
-IV.- Por la información solicitada grabada en diskete $ 15.00
+El pago por concepto de costo de recuperación que deberá cubrir el solicitante por la modalidad de entrega de reproducción de la información a que se refiere esta Sección, deberá cubrirse de manera previa a la entrega y será determinado en la Ley de Ingresos del Municipio conforme a la modalidad que corresponda.
+
+Las unidades de transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante y cuando los solicitantes sea personas con discapacidad.
 
 ### CAPITULO XII. Derechos por Servicios de Agua Potable
 
@@ -2254,17 +2732,19 @@ f).- La ocupación de la vía pública, con el objeto de realizar alguna activid
 
 g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autoridad respectiva.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 175.
 
-Serán sancionadas con multa de 1 a 5 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan las infracciones contenidas en los incisos a), c), d) y e) del artículo 176 de esta Ley.
+Serán sancionadas con multa de 1 a 5 veces la UMA, las personas que cometan las infracciones contenidas en los incisos a), c), d) y e) del artículo 176 de esta Ley.
 
-Serán sancionadas con multas de 1 a 10 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso f) del artículo 178 de esta Ley
+Serán sancionadas con multas de 1 a 10 veces la UMA en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso f) del artículo 178 de esta Ley
 
-Serán sancionadas con multas de 1 a 50 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenida en el inciso b) del artículo 178 de esta Ley.
+Serán sancionadas con multas de 1 a 50 veces la UMA en el Estado de Yucatán, las personas que cometan la infracción, contenida en el inciso b) del artículo 178 de esta Ley.
 
-Serán sancionadas con multas de 1 a 15 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso g) del artículo 178 de esta Ley.
+Serán sancionadas con multas de 1 a 15 veces la UMA en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso g) del artículo 178 de esta Ley.
 
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario mínimo vigente de un día.
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal de un día.
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
@@ -2337,3 +2817,23 @@ D.O. 26 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 324/2020 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y VALLADOLID Y SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE TELCHAC PUEBLO Y PETO”.]
 
 Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
