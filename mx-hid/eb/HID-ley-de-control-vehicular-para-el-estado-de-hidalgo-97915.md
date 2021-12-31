@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -459,11 +459,11 @@ A) Códigos de clasificación de los vehículos y su respectiva interpretación,
 
 Las tarjetas de circulación deberán portarse en el vehículo al circular en las vialidades del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
-La Secretaría podrá expedir permisos temporales para circular, para vehículos nuevos y aquellos que estén registrados en el Registro Vehicular Estatal y que previamente hayan realizado el trámite de desincorporación correspondiente. Los permisos provisionales serán otorgados con una vigencia de 15 días naturales, contados a partir de la fecha de su expedición o, en su caso, de la desincorporación.
+La Secretaría podrá expedir permisos temporales para circular, para vehículos nuevos adquiridos en el territorio del Estado y aquellos que estén registrados en el Registro Vehicular Estatal y que previamente hayan realizado el trámite de desincorporación correspondiente, en un plazo no mayor al mes siguiente en que se haya realizado la desincorporación, siempre y cuando el plazo no rebase el ejercicio en curso. Los permisos provisionales serán otorgados por una única ocasión con una vigencia de 15 días naturales, contados a partir de la fecha de su expedición.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -657,9 +657,9 @@ La desincorporación que se realice tratándose de los casos de las fracciones I
 
 En los casos de robo o extravío de cualquier documento inherente al control vehicular, para acreditar tal situación ante la Secretaría, las personas presentarán:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I.- Acta formulada ante el Ministerio Público, tratándose del robo o extravío de placas metálicas. En estos casos, el acta precisará si se trata de placa delantera, trasera o ambas;
+I.- Acta o constancia de extravío formulada ante el Ministerio Público, tratándose del robo o extravío de placas metálicas. En estos casos, el documento precisará si se trata de placa delantera, trasera o ambas; y
 
 II.- Resolución definitiva emitida por tribunal competente, tratándose de documentos que acrediten la propiedad de los vehículos o documentos oficiales distintos a los mencionados en la fracción anterior, expedidos por autoridades o entes que a la fecha se encuentren extintas.
 
@@ -860,3 +860,15 @@ P.O. 31 DE DICIEMBRE DE 2020.
 PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2021, previa su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 12 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2022, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Para efectos del aviso a que se refiere el penúltimo y último párrafos del artículo 26 de la Ley de Hacienda del Estado de Hidalgo, las personas físicas o morales que con anterioridad a la fecha de entrada en vigor del presente Decreto hayan subcontratado servicios especializados o la ejecución de obras especializadas, deberán presentar el aviso de los contratos o las modificaciones que se realicen a los mismos dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Lo dispuesto en el artículo 27 QUATER entrará en vigor a partir del 02 de enero del 2023 para personas morales, y para las personas físicas el 03 de julio del mismo año.
