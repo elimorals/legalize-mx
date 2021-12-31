@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-132512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2020-12-23"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -1165,9 +1165,15 @@ B. Licencia de urbanización por servicios básicos
 
 Concepto UMA´s UNIDAD
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 a) Zona 1. Consolidación urbana 0.02 Metro cuadrado
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 b) Zona 2, Crecimiento urbano 0.04 Metro cuadrado
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 c). Autorización de instalación subterránea o
 
@@ -1226,6 +1232,40 @@ e). De 150,000 hasta 200,000 metros
 cuadrados 300 Autorización
 
 f). Más de 200,000 metros cuadrados 400 Autorización
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XVIII.- Tasa por Inspección y Verificación.
+
+Por los servicios destinados a verificar la conservación y el mantenimiento de cada estructura, soporte de antenas de telefonía, antenas de radiofrecuencia, radiodifusión y televisión y radiocomunicaciones y sus equipos complementarios.
+
+La tasa se abonará por cada antena y estructura de soporte autorizada.
+
+Son responsables de esta tasa y estarán obligados al pago, las personas físicas o jurídicas permisionarias de las instalaciones de antenas y sus estructuras de soporte como así también quienes usufructúen con la misma.
+
+El pago de la tasa por inspección se hará efectivo en el tiempo y forma, que a continuación se establece.
+
+- Por cada instalación de estructura de antenas de telefonía y sus equipos complementarios, por año con vencimiento en Marzo: 400 UMA
+
+- Por cada instalación de estructuras de tipo no convencional que no exceda los 15 metros, por año: 200 UMA
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIX.- Tasa por Factibilidad de Localización y Permiso de Instalación.
+
+Por el estudio y análisis de planos, documentación técnica, informes, inspección, así como también por los demás servicios administrativos, técnico o especiales que deban prestarse para el otorgamiento de la factibilidad de localización y permiso de instalación de antenas y estructuras de soporte de las mismas. Idéntico tratamiento se establece para el emplazamiento de los denominados “wicaps” consistente en radio bases compactas de telefonía de reducido tamaño.
+
+Están obligados al pago de la tasa a que se refiere el presente artículo, las personas físicas o jurídicas solicitantes de la factibilidad de localización y habilitación, los propietarios y/o administradores de las antenas y sus estructuras de soporte y/o los propietarios del predio donde se hallen instaladas las mismas, en forma solidaria como así también quienes usufructúen con la misma.
+
+El pago de la tasa por la factibilidad de localización y permiso de instalación, deberá efectuarse en forma previa al otorgamiento del permiso.
+
+Se deberá pagar el impuesto, por cada antena y/o estructura de soporte, por la que se requiera el otorgamiento de la factibilidad de localización y permiso de instalación, conforme lo establecido a continuación.
+
+Factibilidad de localización y permiso de instalación:
+
+- Por cada instalación de estructura de antenas de telefonía y sus equipos complementarios, por única vez: 325 UMA
+
+- Por cada instalación de estructuras de tipo no convencional que no exceda los 15 metros, por única vez: 173 UMA
 
 DE LAS EXENCIONES
 
@@ -1395,9 +1435,9 @@ d) Fotostáticas de planos mayores de 4 veces de tamaño oficio por cada una 6.2
 
 III.- Por expedición de oficios de:
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-a) División (por cada parte) 0.90
+a) División (por cada parte) 1.10 UMAS
 
 b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura 1.12
 
@@ -1419,7 +1459,11 @@ a) Tamaño carta 1.12
 
 b) Tamaño oficio 1.36
 
-VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios 4.34
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios 4.34 UMAS.
+
+Más 0.10 UMAS por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro Municipal, sin que el derecho establecido en este párrafo exceda de 5 UMAS.
 
 VIII. Por diligencia de medidas y Costo del
 
@@ -1739,47 +1783,189 @@ Esta sanción se aplicará sin perjuicio de que, la Tesorería proceda a la clau
 
 Lo establecido en el presente artículo no exime a los propietarios o empleados de dichos establecimientos de otras sanciones de las que puedan ser objeto de acuerdo a la legislación vigente.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 119.
 
-Por la promoción, propaganda o publicidad de los establecimientos comerciales de la ciudad, fijos o semifijos y ambulantes, se pagarán derechos de acuerdo con la siguiente tarifa basada en unidades de medida y actualización:
+Por concepto de publicidad y propaganda se estará a lo siguiente:
 
-I.- Anuncios luminosos mayores a 2 metros cuadrados 35 Anualmente
+a) Ámbito de aplicación.
 
-II.- Anuncios estructurales fijos por metro 5 Anualmente
+Por los conceptos que a continuación se enuncian, se abonarán los importes que al efecto se establezca:
 
-cuadrado o fracción
+1) La publicidad, propaganda escrita o gráfica, hecha en la vía pública o visible desde ésta, con fines lucrativos o comerciales;
 
-III.- Vehículos que comercien con propaganda 12 Anualmente
+2) La publicidad y propaganda que se hace en el interior de locales destinados al público, tales como, cines, teatros, comercios, galerías, centro (sic) comerciales, campos de deportes y demás sitios de acceso público;
 
-IV.- Vehículos dedicados al perifoneo de propaganda 10 Anualmente
+3) La publicidad o propaganda oral realizada en la vía pública o lugares públicos o que, por algún sistema o método de alcance a la población;
 
-V.- Anuncios en carteleras o mantas de hasta 6 1 mensualmente
+No comprende:
 
-metros cuadrados
+1) La publicidad o propaganda con fines sociales, recreativos, culturales, asistenciales y benéficos;
 
-VI.- Anuncios murales por metro cuadrado. 0.075 en forma única
+2) La exhibición de chapas de tamaño tipo donde constan solamente nombre y especialidad de profesionales con título universitario;
 
-VII.- Anuncios de adheribles de eventos 3 en forma única
+3) La publicidad que se refiere a mercaderías o actividades propias del establecimiento siempre que se realicen en el interior del mismo y que no incluya marcas.
 
-temporales, en General
+b) Base Imponible
 
-VIII.- Vehículos que promocionen propaganda eventual 0.20 diariamente
+Cuando la base imponible sea la superficie de la publicidad y propaganda, esta será determinada en función al trazado del rectángulo de base horizontal, cuyos lados pasen por las partes de máxima saliente del anuncio, incluyendo colores identificatorios, marco, revestimiento, fondo y todo otro adicional agregado al anuncio.
 
-IX.- Por realización de perifoneo o propaganda 0.50 diariamente
+c) Clases de Anuncios
 
-comercial exclusivamente
+Se entiende por anuncio publicitario a toda leyenda, inscripción, dibujo, colores identificatorios, imagen, emisión de sonidos, música y todo otro elemento similar, cuyo fin sea la difusión pública de marcas, productos, eventos, actividades, empresas o cualquier otro objeto de o (sic) con carácter esencialmente comercial o lucrativo.
 
-X.- Por realización de perifoneo o propaganda 1 diariamente
+A los efectos de la determinación se entenderá por letreros, a la propaganda propia del establecimiento donde la misma se realiza y aviso, a la propaganda ajena a la titularidad del lugar.
 
-comercial en el municipio cabecera, mediante
+d) Publicidad no tarifada.
 
-vehículo automotor.
+Cuando la publicidad o propaganda no estuviera expresamente contemplada, se abonará la tarifa general que al efecto será de 1.5 unidades de medida de actualización.
 
-XI.- Por realización de perifoneo o propaganda 0.50 diariamente
+e) Forma y término de pago.
 
-comercial en la cabecera y las comisarias,
+Los derechos se harán efectivos en forma anual, en cuyo caso se fija como vencimiento del derecho los días 30 de abril de cada año, de resultar día inhábil el vencimiento operará el primer día hábil inmediato posterior. Quedando la Dirección de Administración, Finanzas y Tesorería autorizada para prorrogar el plazo si así lo creyera conveniente.
 
-mediante vehículo de tracción humana o animal
+Se fija la fecha límite para presentar las declaraciones de los hechos imponibles el día 15 de enero de cada año y de resultar día inhábil, el primer día hábil inmediato posterior.
+
+f) Responsables del pago.
+
+Se considera contribuyente y/o responsable de anuncios publicitarios a la persona física o jurídica que con fines de promoción de su marca, comercio o industria, profesión, servicio o actividad, realiza, con o sin intermediarios de la actividad publicitaria, la difusión pública de los mismos.
+
+Serán solidariamente responsables del pago de los derechos, recargos y multas que correspondan, los anunciadores, anunciados, permisionarios, quienes cedan espacios con destino a la realización de actos de publicidad y propaganda y quien en forma directa o indirecta se beneficien con su realización.
+
+g) Autorización previa.
+
+Salvo casos especiales, para la realización de propaganda o publicidad deberá requerirse y obtener la autorización previa del Ayuntamiento y cuando corresponda, registrar la misma en el padrón respectivo, sin perjuicio de cumplimentar el procedimiento y requisitos que al efecto se establezca.
+
+h) Permiso municipal.
+
+Toda propaganda efectuada en forma de pantalla, afiche, volante y medios similares, deberán contener en el ángulo superior derecho el número de autorización municipal que los autoriza.
+
+i) Vigencia.
+
+Los letreros, anuncios, avisos y similares, abonarán el derecho anual no obstante su colocación temporaria.
+
+Toda publicidad que se vuelva a generar anunciando otro texto distinto a aquel por el cual se abonó el derecho, será considerado como nuevo y deberá pagar como tal.
+
+Toda deuda por Derechos de Publicidad y Propaganda no pagada en el término correspondiente, se liquidará al valor del gravamen vigente al momento del pago.
+
+j) Publicidad sin permiso.
+
+En los casos en que el anunció se efectuara sin permiso, modificándose lo aprobado o en lugar distinto al autorizado, sin perjuicio de las penalidades a que diere lugar, la Dirección de Administración, Finanzas y Tesorería podrá disponer la remoción o borrado del mismo con cargo a los responsables.
+
+k) Permisos renovables.
+
+Los permisos serán renovables con el sólo pago de los derechos respectivos, los derechos que no sean satisfechos dentro del plazo correspondiente, se considerarán desistidos de derecho; no obstante subsistirá la obligación de los responsables de contemplar el pago hasta que la publicidad o propaganda sea retirada o borrada y de satisfacer los recargos y multas que en cada caso correspondan.
+
+l) Restitución de elementos.
+
+No se dará curso a pedido de restitución de elementos retirados por la municipalidad, sin que acredite el pago de los derechos, sus accesorios y los gastos ocasionados por el retiro y depósito.
+
+m) Prohibición.
+
+Queda expresamente prohibido en todo el ámbito del Municipio toda publicidad o propaganda cuando medien las siguientes circunstancias:
+
+1. Cuando los elementos utilizados no sean previamente fiscalizados y aprobados por el Ayuntamiento;
+
+2. Cuando utilicen muros de edificios públicos o privado (sic), sin autorización de su propietario;
+
+3. Cuando los elementos utilizados para la publicidad o propaganda, obstruyan directa o indirectamente el señalamiento oficial.
+
+4. Cuando se pretenda utilizar árboles o similares para soportarla.
+
+n) Tarifa.
+
+Por la publicidad en la vía pública, o visible desde ésta, deberán tributar un importe mínimo anual, ya sea por año o fracción, de acuerdo a la siguiente escala:
+
+Anuncios valorizados en metros cuadrados o fracción y por faz:
+
+UMA
+
+a) Letreros simples (paredes, vidrieras y frontal) 1,30
+
+b) Avisos simples (paredes, vidrieras y frontal) 1,73
+
+d) Letreros salientes (marquesinas, toldos y
+
+anuncios salientes) 1,73
+
+d) Avisos salientes (marquesinas, toldos y
+
+anuncios salientes) 2,59
+
+e) Avisos en tótem 3,24
+
+f) Avisos en salas de espectáculos 0,19
+
+g) Avisos sobre rutas, caminos, terminales
+
+de medios de transporte, baldíos 2,16
+
+h) Avisos en pantallas led o similares 3,24
+
+Anuncios valorizados en otras magnitudes
+
+i) Murales, por cada 10 unidades de afiches 1,41
+
+j) Calcos de tarjetas de crédito, por unidad 0,22
+
+k) Publicidad en cabinas telefónicas, por unidad 8,65
+
+l) Avisos proyectados, por unidad 1,51
+
+m) Avisos en estadios o miniestadios en
+
+espectáculos deportivos televisados, por
+
+unidad y por función 1,62
+
+n) Banderas, estandartes y gallardetes, por unidad 0,97
+
+o) Avisos de remates u operaciones inmobiliarias,
+
+por cada 50 unidades 0,65
+
+p) Anuncios en sillas, mesas, sombrillas o
+
+parasoles, por unidad 1,08
+
+q) Publicidad móvil, por mes o fracción 0,54
+
+r) Publicidad móvil, por año 5,40
+
+s) Anuncios en folletos de cines, teatros y
+
+supermercado, por cada 500 unidades 0,97
+
+t) Publicidad oral, por unidad y por día 0,86
+
+u) Campañas publicitarias, por día y stand 3,24
+
+v) Volantes (entregado en mano), cada 1000 o fracción 1,73
+
+w) Por la distribución de revistas con avisos
+
+publicitarios u ofertas comerciales, se abonarán
+
+por millar o fracción de carillas útiles y por edición 1,08
+
+x) Por cada publicidad o propaganda
+
+no contemplada en los incisos anteriores,
+
+por unidad o metro cuadrado o fracción 1,73
+
+y) Publicidad en bolsas, paquetes o envoltorios
+
+de supermercado o en comercios en general
+
+o similares, se abonarán por millar o fracción 1,08
+
+Todo Derecho por Publicidad y Propaganda no pagada dentro del término correspondiente se liquidará al valor del gravamen al momento del pago.
+
+Cuando los anuncios precedentemente citados fueren iluminados o luminosos los derechos se incrementarán en un 50%, en caso de ser animados o con efectos de animación se incrementarán en un 20% más. Si la publicidad oral fuera realizada con aparatos de vuelo o similares se incrementará en un 100%.
+
+Toda publicidad referida a tabacos, cigarrillos y bebidas alcohólicas o energizantes de cualquier tipo o graduación tendrán un incremento en un 100% sobre todos los conceptos.
 
 ### CAPÍTULO IX. Derechos por Servicio de Panteones
 
@@ -2145,97 +2331,9 @@ Artículo 122 K.- Es objeto de los derechos que a continuación se describen, la
 
 ARTICULO 122 L.- Los servicios relacionados con la prestación de este servicio público, serán los siguientes, con las respectivas tarifas en UMAS, y son:
 
-CONCEPTO TARIFA DESDE 1 M3 TARIFA DE 21 M3 EN
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO II DEL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 60 A LA 61.]</small>
 
-HASTA 20 M3 ADELANTE
-
-I.- Servicio mensual de suministro de
-
-agua potable para uso doméstico en
-
-cabecera con medidor. 0.35 0.025 por M3
-
-II.- Servicio mensual de suministro de
-
-agua potable para uso doméstico en
-
-cabecera sin medidor. 0.37 No aplica
-
-III.- Servicio mensual de suministro de
-
-agua potable para uso comercial en
-
-cabecera con medidor para giros
-
-comerciales en la categoría de micro
-
-establecimiento y pequeño
-
-establecimiento de acuerdo a la
-
-fracción III del artículo 114 de la
-
-presente ley. 0.77 0.03 por M3
-
-IV.- Servicio mensual de suministro de
-
-agua potable para uso comercial en
-
-cabecera con medidor para giros
-
-contenidos en la categoría de
-
-mediano establecimiento,
-
-establecimiento grande, pequeña,
-
-mediana, gran y mega empresa
-
-comercial, industrial o de servicio de
-
-acuerdo a la fracción III del artículo
-
-114 de la presente ley. 10.44 0.07 por M3
-
-V.- Servicio mensual de suministro de
-
-agua potable para uso doméstico y
-
-comercial en comisarías. 0.25 No aplica
-
-CONCEPTO TARIFA
-
-VI.- Expedición de constancia de
-
-inexistencia del servicio, de no
-
-adeudo o de cambio de propietario. 0.62
-
-VII.- Contrato de instalación de toma
-
-nueva de agua para uso doméstico en
-
-cabecera. 14
-
-VIII.- Contrato de instalación de toma
-
-nueva de agua para uso comercial en
-
-cabecera. 23
-
-IX.- Contrato de instalación de toma
-
-nueva de agua para uso doméstico y
-
-comercial en comisarías. 7
-
-X.- Servicio de reconexión de toma de
-
-agua en la cabecera. 2.5
-
-XI.- Servicio de reconexión de toma de
-
-agua en comisarías. 1.25
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA D.O. DE 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 15 A LA 16; 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 45 A LA 49.]</small>
 
 En el caso del servicio de suministro de agua potable para uso domiciliario en comisarías, el sistema municipal de agua potable y alcantarillado de Motul en coordinación con la autoridad auxiliar, podrá modificar la tarifa expresada en la fracción III del presente artículo, ajustándose al consumo de energía eléctrica en los subsistemas de agua potable de cada localidad, sin exceder en ningún caso la tarifa expresada en la misma fracción.
 
@@ -2642,3 +2740,39 @@ D.O. 23 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 318/2020 POR EL QUE SE MODIFICA LA LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATÁN”.]
 
 Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID”.]
+
+TRANSITORIOS DEL ARTÍCULO SEXTO
+
+Primero.- En relación al artículo 119 de la Ley de Hacienda para el Municipio de Motul, Yucatán, se establece un beneficio fiscal del 100%, para aquellas personas físicas y morales que una vez que hubieran causado el impuesto relativo a publicidad y propaganda, acrediten su domicilio legal y/o fiscal en el municipio de Motul con su cédula de identificación fiscal emitida por la autoridad federal en la materia.
+
+Segundo.- Con el objetivo de impulsar la reactivación económica, el Ayuntamiento de Motul otorgará un beneficio fiscal del 50% sobre los derechos relacionados con el artículo 114 de esta ley, para aquellas personas que acreditando ser naturales y/o vecinos del municipio y menores de 36 años cumplidos, aperturen un nuevo negocio y soliciten una licencia de funcionamiento de micro o pequeño establecimiento.
+
+Cuando el solicitante pudiera acreditar ser parte de un grupo socialmente vulnerable, podrá adquirir un veinte por ciento de descuento adicional sobre el importe consignado.
+
+Los giros relacionados con la producción, venta y/o distribución de bebidas alcohólicas, no contarán con el beneficio consignado en este artículo transitorio.
+
+Este artículo tendrá vigencia durante el ejercicio fiscal 2022, del 1 de enero hasta el 31 de diciembre del mismo año.
+
+Tercero.- En relación al artículo 83 de la Ley de Hacienda para el Municipio de Motul, Yucatán, se establece un beneficio fiscal del 95%, para aquellas personas físicas y morales que cuenten con antenas de radiodifusión para la prestación de servicios de internet doméstico y que acrediten su domicilio legal y/o fiscal en el municipio de Motul con su cédula de identificación fiscal emitida por la autoridad federal en la materia.
+
+TRANSITORIOS DEL DECRETO 449/2021
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
