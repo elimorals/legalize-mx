@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2021-06-23"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -577,9 +577,9 @@ XXXII.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
 XXXIII.- Dirigir y coordinar a las procuradurías locales de la Defensa del Trabajo del Estado y de la Defensa de los Trabajadores al Servicio del Estado y Municipios, así como vigilar su correcto funcionamiento, y
 
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XXXIV.- Conducir las relaciones del Poder Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje del Estado de Yucatán, con miras a la eficacia en su funcionamiento, y proporcionarle el apoyo administrativo que requiera, sin perjuicio de su autonomía jurisdiccional.
+XXXIV.- Brindar el apoyo que requiera el Centro de Conciliación Laboral del Estado de Yucatán para su adecuado funcionamiento, y vigilar su desempeño.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -3460,3 +3460,37 @@ Los recursos humanos, materiales, financieros y presupuestales con que cuenta la
 Décimo noveno. Previsiones presupuestales
 
 El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 456/2021 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, EN MATERIA DE JUSTICIA LABORAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Nombramiento de la persona titular de la dirección general
+
+La persona titular del Poder Ejecutivo del estado nombrará a la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de ciento veinte días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo tercero. Instalación de la junta de gobierno
+
+La persona titular del Poder Ejecutivo del estado convocará a la sesión de instalación de la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de cinco días hábiles, contado a partir de la fecha de designación de la persona titular de la dirección general del centro.
+
+Artículo cuarto. Inicio de funciones del centro y los Tribunales
+
+El Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales del Poder Judicial del Estado, iniciarán funciones en la misma fecha, a más tardar el uno de mayo del año dos mil veintidós.
+
+Hasta en tanto el Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales entren en funciones, la Junta Local de Conciliación y Arbitraje, continuará conociendo de los procedimientos laborales que le competan en términos de la Ley Federal del Trabajo que estuviera vigente, previa a la reforma publicada en el Diario Oficial de la Federación el uno de mayo del año dos mil diecinueve.
+
+Artículo quinto. Servicio profesional de carrera
+
+El servicio profesional de carrera aplicable al Centro de Conciliación Laboral del Estado de Yucatán entrará en vigor cuando lo haga la norma jurídica que lo regule. Su implementación será gradual conforme a los lineamientos y manuales que presente la persona titular de la dirección general del centro y que apruebe la junta de gobierno. Durante el procedimiento de contratación, se actualizará y capacitará a todo el personal, con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional señalado.
+
+Artículo sexto. Carga presupuestaria
+
+Las obligaciones que se generen con motivo de la entrada en vigor de este decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+
+Artículo séptimo. Procedimientos y asuntos en trámite
+
+Los procedimientos y los asuntos que en materia laboral se encontrasen en trámite en la Junta Local de Conciliación y Arbitraje del estado a la entrada en vigor de este decreto, se substanciarán y resolverán por este órgano hasta su total conclusión, conforme a las disposiciones anteriores que les resultasen aplicables, independientemente de la instalación y puesta en marcha del Centro de Conciliación Laboral del Estado de Yucatán y de los Tribunales Laborales del Poder Judicial del Estado.
