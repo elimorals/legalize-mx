@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2020-12-28"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA -- ANTES LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA --
 
-LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -35,859 +35,1411 @@ DECRETO No. 189
 
 ÚNICO.- Se aprueba la creación de la Ley Seguridad Pública del Estado de Baja California, para quedar como sigue:
 
-LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ### CAPÍTULO I. OBJETO DE LA LEY
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de observancia general en todo el territorio de Baja California, y tiene por objeto cumplir con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y la Constitución Política del Estado Libre y Soberano de Baja California en materia de seguridad; asimismo, regular la función de seguridad pública y la prestación de los servicios inherentes a cargo del Ejecutivo Estatal, la Fiscalía General y los Municipios, así como regular la relación administrativa entre los Miembros de las Instituciones Policiales del Estado de Baja California y las Dependencias a las que pertenezca ya sea Estatal o Municipal, con motivo de la prestación de sus servicios, de conformidad con las bases de la Ley General del Sistema Nacional de Seguridad Pública.
+La presente Ley es de orden público, interés social y de observancia obligatoria, y tiene por objeto establecer las bases, mecanismos e instrumentos para garantizar la paz y la seguridad de las personas que habitan y transitan en el Estado de Baja California, con pleno respeto a los derechos humanos, a través del establecimiento de los siguientes elementos:
+
+I.- Las atribuciones y bases de coordinación que corresponden al Estado y Municipios conforme al Sistema Nacional de Seguridad Pública y a los convenios que en la materia se celebren;
+
+II. - Regular la integración, coordinación, organización y funcionamiento del Sistema Estatal de Seguridad Ciudadana;
+
+III.- Las atribuciones que en materia de seguridad ciudadana corresponden al Poder Ejecutivo y las que ejercerá a través de la Secretaría de Seguridad Ciudadana y la Comisión del Sistema Penitenciario;
+
+IV.- Las disposiciones que regulan la relación administrativa de los Miembros de las Instituciones Policiales y la Agencia Estatal de Investigación con el órgano público y las dependencias o entidades a las que pertenezcan ya sean estatales o municipales, con motivo de la prestación de sus servicios, de conformidad con las bases de la Ley General del Sistema Nacional de Seguridad Pública.
+
+Los municipios, atendiendo a su autonomía y conforme a su propia organización, podrán reglamentar las disposiciones de esta Ley en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 2.
 
-La aplicación de esta Ley corresponde al titular del Poder Ejecutivo, a la Fiscalía General y a los Ayuntamientos, en sus respectivos ámbitos de competencia.
+La seguridad ciudadana a cargo del Poder Ejecutivo se ejercerá por conducto de la Secretaría de Seguridad Ciudadana y la Comisión del Sistema Penitenciario en el ámbito de su respectiva competencia, con la colaboración y participación de la ciudadanía, comprendiendo los siguientes fines:
 
-Los Municipios, atendiendo a su autonomía y conforme a su propia organización, podrán reglamentar la presente Ley en las materias que les competa hacerlo, en los términos permitidos por la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley.
+I.-·Garantizar el goce y ejercicio de los derechos humanos;
+
+II.- Preservar las libertades, el orden y la paz públicos;
+
+III.- La prevención especial y general de los delitos;
+
+IV.- La prevención social de las violencias;
+
+V.- La protección a la dignidad, libertad, seguridad y demás derechos de las personas en riesgo de sufrir hechos violentos o como víctimas de los mismos, en los términos de esta Ley;
+
+VI.- La inteligencia preventiva de hechos violentos y delitos, y
+
+VII.- La reinserción social de sentenciados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 3.
 
-La Seguridad Pública es una función del Estado mediante la cual se protege la integridad física de los ciudadanos y sus bienes, cuya prestación, en el marco del respeto a los Derechos Humanos, corresponde otorgar en forma exclusiva al Estado por conducto del Poder Ejecutivo, Fiscalía General del Estado de Baja California y a los Municipios, y tiene como objetivos:
+Las Instituciones de Seguridad desarrollarán políticas en materia de prevención social de las violencias y del delito; sobre las causas estructurales de su origen, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, el respeto a la legalidad y la protección de las personas. El desarrollo de dichas políticas y programas debe incluir la colaboración y participación ciudadana.
 
-I. Mantener el orden y la tranquilidad pública en el Estado, conforme a los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos;
+Asimismo, realizarán acciones en materia de seguridad, promoviendo en el ámbito de su competencia acciones de coordinación con los sectores público, social y privado.
 
-II. Salvaguardar la integridad y derechos de las personas; preservar sus libertades, el orden y la paz pública, así como el respeto y protección a los derechos humanos;
+Estas acciones tendrán como eje central a las personas, asegurando en todo momento, sus libertades y derechos humanos, así como propiciar condiciones que permitan a los habitantes del Estado la convivencia y el fomento de una cultura de paz en democracia.
 
-III. Disminuir y contener la incidencia delictiva, identificando sus factores criminógenos;
+En los casos de desastres y emergencias en el Estado, las Instituciones de Seguridad se coordinarán con las de protección civil, para salvaguardar con mayor oportunidad los intereses de la colectividad.
 
-IV. Orientar e informar a las víctimas y ofendidos del delito, buscando además que reciban una atención adecuada y oportuna por parte de las instituciones correspondientes;
+Las Instituciones de Seguridad serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-V. Optimizar la labor de las instituciones policiales en el combate a la delincuencia, las conductas antisociales, la prevención y control del delito y de las infracciones administrativas, de tal forma que haga posible abatir la incidencia delictiva en el Estado;
-
-VI. Establecer los mecanismos de coordinación y colaboración en la investigación y persecución de los delitos y de los delincuentes, así como para el intercambio de información delictiva en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 4.
 
-Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+Además de los derechos que en materia de seguridad señalan otras disposiciones normativas aplicables, el Estado tiene la obligación de garantizar a las personas los siguientes:
+
+I.- Convivencia pacífica y solidaria;
+
+II.- Vivir libre de amenazas generadas por el ejercicio de las violencias y delitos;
+
+III.- No violencia interpersonal o social;
+
+IV.-· Integridad física;
+
+V.- Libertad personal;
+
+VI.- Uso pacífico de los bienes;
+
+VII.- Privacidad;
+
+VIII.- Libertad de expresión;
+
+IX.- Libertad de reunión y asociación;
+
+X.- Participar en el logro de los fines de la seguridad ciudadana, y
+
+XI.- Los demás que le señalen las leyes, reglamentos y disposiciones normativas aplicables.
+
+Las acciones para proteger los derechos en materia de seguridad deberán ejecutarse con enfoque diferencial y perspectiva de género frente a las violencias y el delito.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 5.
 
-Las autoridades competentes en el Estado y los Municipios alcanzarán los objetivos de la seguridad pública mediante la prevención del delito y la participación de la comunidad, la promoción y atención de la denuncia ciudadana y la denuncia anónima, la investigación, persecución y sanción de las infracciones y los delitos, así como la reinserción social del delincuente y el tratamiento de adolescentes en conflicto con la ley penal.
-
-## TÍTULO SEGUNDO. CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA
-
-### CAPÍTULO II. CONSEJO ESTATAL DE SEGURIDAD PÚBLICA Y DE PAZ
-
-###### ARTÍCULO 6.
-
-La función de seguridad se ejercerá en todo el territorio del Estado de Baja California por las autoridades y órganos que establece la Ley Orgánica de la Fiscalía General de Baja California, la presente ley y los demás ordenamientos jurídicos aplicables, en los sus (sic) diversos ámbitos de competencia por conducto de:
-
-I. El Poder Ejecutivo del Estado;
-
-II. La Fiscalía General del Estado;
-
-III. La Comisión Estatal del Sistema Penitenciario;
-
-IV. Los Ayuntamientos, y
-
-V. Las instituciones policiales.
-
-###### ARTÍCULO 7.
-
 Para efectos de esta Ley, además de los conceptos contenidos en la Ley General del Sistema Nacional de Seguridad Pública, se entenderá por:
 
-I. Ayuntamientos: Ayuntamientos del Estado de Baja California;
+I.- Comisión: La instancia colegiada de las Instituciones de Seguridad de orden estatal o municipal, y de la Fiscalía General, responsable de conocer y resolver los procedimientos de carrera policial y del régimen disciplinario de los Miembros de las Instituciones Policiales a su cargo;
 
-II. Carrera Policial: Servicio Profesional de Carrera Policial;
+II.- Comisión Estatal: La Comisión Estatal del Sistema Penitenciario de Baja California;
 
-III. Centro de Evaluación y Control de Confianza: Centro de Evaluación y Control de Confianza del Estado de Baja California;
+III.- Consejo Estatal: El Consejo Estatal de Seguridad Ciudadana;
 
-IV. Comisión: Instancia colegiada de las Instituciones de Seguridad Pública, responsable de conocer y resolver los procedimientos de carrera policial y del régimen disciplinario de los Miembros de las Instituciones Policiales;
+IV.- Consejo Ciudadano: El Consejo Ciudadano de Seguridad, la instancia colegiada de consulta y participación ciudadana en materia de seguridad ciudadana del Estado;
 
-V. Comisión Estatal: Comisión Estatal del Sistema Penitenciario;
+V.- Consejo Nacional: El Consejo Nacional de Seguridad Pública;
 
-VI. Consejo: Consejo Estatal de Seguridad Pública y de Paz;
+VI.- Contraloría Interna: El órgano de la Institución de Seguridad, Fiscalía o aquél que en los respectivos reglamentos se designe, encargado de la investigación administrativa, de solicitar a la Comisión el inicio del procedimiento de remoción del cargo o separación definitiva y demás facultades a que refiere la Ley y los reglamentos respectivos;
 
-VII. Consejo Ciudadano: Consejo Ciudadano de Seguridad Pública, es la instancia colegiada de consulta y participación ciudadana en materia de seguridad pública;
+VII.- Elementos de Apoyo: Los servidores públicos de las Instituciones de Seguridad que no pertenecen a la Carrera Policial, Ministerial o Pericial;
 
-VIII. Consejo Nacional: Consejo Nacional de Seguridad Pública;
+VIII.- Evaluación: El mecanismo para estimar los conocimientos, aptitudes y rendimiento de los Miembros, Agentes del Ministerio Público, Peritos, Elementos de apoyo de las Instituciones de Seguridad Ciudadana y de la Fiscalía General;
 
-IX. Contraloría Interna: Órgano de la Dependencia, Sindicatura Municipal o aquél que en los respectivos reglamentos se designe, encargado de la investigación administrativa, de solicitar a la Comisión el inicio del procedimiento de remoción del cargo o separación definitiva y demás facultades a que refiere la Ley y los reglamentos respectivos;
+IX.- Fiscalía General: La Fiscalía General del Estado de Baja California;
 
-X. Elementos de Apoyo: Todos los servidores públicos de las instituciones de seguridad pública que no pertenecen a la Carrera Policial, Ministerial o Pericial;
+X.- Formación: El proceso mediante el cual se desarrollan las capacidades, se amplían los conocimientos y las destrezas que el aspirante requiere para el ejercicio profesional en un área específica de las Instituciones de Seguridad;
 
-XI. Evaluación: El mecanismo para estimar los conocimientos, aptitudes y rendimiento de los Miembros, Agentes del Ministerio Público, Peritos, Elementos de apoyo de las Instituciones de Seguridad Pública;
+XI.- Instituto: El Instituto de Estudios de Prevención y Formación Interdisciplinaria;
 
-XII. Fiscalía General: Fiscalía General de Baja California;
+XII.- Instituciones de Seguridad: La Secretaría de Seguridad Ciudadana, la Fiscalía General, la Comisión Estatal del Sistema Penitenciario y las dependencias o unidades administrativas a cargo de la seguridad en los municipios, las Instituciones Policiales y la Agencia Estatal de Investigación;
 
-XIII . Formación: El proceso mediante el cual se desarrollan las capacidades, se amplían los conocimientos y las destrezas que el aspirante requiere para el ejercicio profesional en un área específica de las Instituciones de Seguridad Pública;
+XIII.- Institutos de Seguridad Social: El Instituto de Seguridad Social que preste los servicios de seguridad social reconocidos en esta Ley a favor de los Miembros y de quienes forman parte de la Agencia Estatal de Investigación.
 
-XIV. Instituciones de Seguridad Pública: Fiscalía General, Comisión Estatal del Sistema Penitenciario y las Dependencias y Unidades Administrativas de Seguridad Pública de los Ayuntamientos;
+XIV.- Ley: La Ley del Sistema Estatal de Seguridad Ciudadana del Estado de Baja California;
 
-XV. Institutos de Seguridad Social: Instituto de Seguridad Social que preste los servicios de seguridad social reconocidos en esta Ley a favor de los Miembros, previo convenio de coordinación con las Instituciones de Seguridad Pública correspondiente (sic);
+XV.- Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
-XVI. Instituto: Instituto Estatal de Investigación y Formación Interdisciplinaria;
+XVI.- Miembro: El o los elementos de las Instituciones Policiales que cuenten con nombramiento policial otorgado por autoridad competente;
 
-XVII. Ley: Ley de Seguridad Pública del Estado de Baja California;
+XVII.- Municipios: Los Municipios del Estado de Baja California;
 
-XVIII. Ley General: Ley General del Sistema Nacional de Seguridad Pública;
+XVIII.- Persona titular del Poder Ejecutivo del Estado: La Gobernadora o Gobernador Constitucional del Estado de Baja California;
 
-XIX. Miembro: Elemento de las Instituciones Policiales que cuenten con nombramiento policial otorgado por autoridad competente;
+XIX.- Programa: El Programa Estatal de Seguridad Ciudadana;
 
-XX. Programa: Programa de Seguridad Pública para el Estado de Baja California;
+XX.- Programa Rector: El conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales y de la Agencia Estatal de Investigación, respectivamente;
 
-XXI. Programa Rector: Conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales y de la Fiscalía respectivamente, y
+XXI.- Secretaría: La Secretaría de Seguridad Ciudadana del Estado de Baja California;
 
-XXII. Separación definitiva: La terminación de la relación administrativa entre los Miembros y las Instituciones de Seguridad Pública con motivo de la prestación de sus servicios por falta de requisitos de permanencia y por cualquiera otro de los casos previstos en esta ley.
+XXII.- Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana;
 
-###### ARTÍCULO 8.
+XXIII.- Sistema Estatal: El Sistema Estatal de Seguridad Ciudadana de Baja California;
 
-El Consejo es la instancia de coordinación estatal de los tres órdenes de gobierno que tiene por finalidad ejecutar la planeación e implementación del Sistema Nacional de Seguridad Pública en la Entidad, mediante el desarrollo de una efectiva ejecución de las líneas de acción que establezca el Consejo Nacional.
+XXIV.- Sistema Nacional: El Sistema Nacional de Seguridad Pública;
 
-El Consejo estará integrado por:
+XXV.- Sistema Estatal de Información: El Sistema Estatal de Información sobre Seguridad Ciudadana;
 
-I. El Titular del Ejecutivo del Estado de Baja California, quien lo presidirá;
+XXVI.- Separación definitiva: La terminación de la relación administrativa entre los Miembros y las Instituciones de Seguridad con motivo de la prestación de sus servicios por falta de requisitos de permanencia y por cualquiera otro de los casos previstos en esta Ley.
 
-II. El Fiscal General del Estado de Baja California, quien fungirá como Secretario Ejecutivo;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III. El Secretario General de Gobierno;
+## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA Y BASES DE COORDINACIÓN
 
-IV. El Comisionado de la Comisión Estatal del Sistema Penitenciario, y
-
-V. El Presidente Municipal del cada Ayuntamiento del Estado.
-
-A las sesiones del Consejo se podrá invitar a representantes del Gobierno Federal en materia de seguridad pública, fuerzas armadas y la Marina, cuando así se requiera para coordinar acciones entre el Estado y la Federación.
-
-El Presidente del Consejo será suplido en sus ausencias por el Secretario General de Gobierno.
-
-Los integrantes del Consejo podrán nombrar un suplente para el caso de no poder asistir a las sesiones, debiendo autorizarlo mediante oficio previo a la reunión debidamente convocada.
-
-###### ARTÍCULO 9.
-
-El Presidente del Consejo invitará a participar permanentemente en las sesiones al Presidente de la Comisión de Derechos Humanos del Estado de Baja California; al Presidente de la Comisión del Congreso relacionada con la seguridad pública y al Presidente del Consejo Ciudadano de Seguridad Pública, con derecho a voz pero sin voto.
-
-###### ARTÍCULO 10.
-
-El Fiscal General del Estado, en su calidad de Secretario Ejecutivo del Consejo, contará con un equipo técnico especializado y un presupuesto asignado en el Presupuesto de Egresos del Estado.
-
-Para mejor desempeño de sus funciones, el Secretario Ejecutivo del Consejo contará con el auxilio de un Secretario Técnico, que será designado y removido libremente por el propio Secretario Ejecutivo.
-
-### CAPÍTULO III. INSTITUCIONES POLICIALES Y SUS AUXILIARES
-
-###### ARTÍCULO 11.
-
-El Secretario Ejecutivo tendrá la obligación de promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo y estará facultado para celebrar los convenios y bases de colaboración que acuerde éste.
-
-###### ARTÍCULO 12.
-
-El Secretario Ejecutivo del Consejo tendrá a su cargo las siguientes funciones:
-
-I. Elaborar y certificar los acuerdos que se tomen en el Consejo, llevando su archivo y el de los instrumentos jurídicos que se generen en el seno del mismo;
-
-II. Realizar las acciones necesarias para la debida ejecución y seguimientos de los acuerdos del Consejo;
-
-III. Proponer al Consejo políticas, lineamientos y acciones en materia de Seguridad Pública Estatal;
-
-IV. Proponer el contenido del Programa para la Seguridad Pública Estatal;
-
-V. Elaborar los informes de actividades que ordené el Consejo;
-
-VI. Administrar y sistematizar los instrumentos y redes de información que se generen en el Consejo;
-
-VII. Promover la ejecución de las acciones conjuntas que se acuerden en el Consejo, de conformidad con las bases y reglas que emita el mismo y con respeto a las atribuciones de las instancias vinculadas;
-
-VIII. Realizar estudios especializados en materias relacionadas con la Seguridad Estatal por acuerdo del Consejo;
-
-IX. Solicitar información necesaria a las dependencias estatales y municipales para seguridad estatal que requiera explícitamente el Consejo;
-
-X. Presentar un informe mensual del estado que guarda la seguridad pública en el Estado, que deberá contener cuando menos, los índices delictivos, los resultados de las acciones de prevención, y del Programa Estatal de Seguridad Pública al Presidente del Consejo Estatal, y
-
-XI. Las demás que señalen las leyes y reglamentos, o que sean necesarias para cumplir las anteriores.
-
-###### ARTÍCULO 13.
-
-El Consejo conocerá de los asuntos siguientes:
-
-I. Proponer los objetivos y las metas estatales en materia de seguridad pública, así como las políticas, estrategias y acciones necesarias para su cumplimiento;
-
-II. Dar seguimiento y evaluar el cumplimiento de los objetivos y las metas estatales en materia de seguridad pública, así como de los acuerdos y las disposiciones emitidos por el Consejo Nacional de Seguridad Pública;
-
-III. Proponer al Consejo Nacional y a las Conferencias que integran el Sistema Nacional de Seguridad Pública acuerdos, programas específicos y convenios sobre las materias de coordinación que establece la Ley General del Sistema Nacional de Seguridad Pública, y esta Ley;
-
-IV. Sugerir la elaboración de instrumentos de planeación en materia de seguridad pública y la definición de sus objetivos, indicadores, metas, estrategias, líneas de acción y de cualquier otra información que deban contener;
-
-V. Emitir acuerdos para el mejoramiento de la organización y el funcionamiento del sistema estatal o el desempeño de la seguridad pública en el estado;
-
-VI. Impulsar la efectiva coordinación entre las autoridades estatales en materia de seguridad pública y justicia;
-
-VII. Conformar mediante acuerdos las comisiones de trabajo que estime necesarias para el debido cumplimiento de sus funciones, conforme a las disposiciones que en el mismo se establezcan;
-
-VIII. Fomentar la coordinación entre el sistema estatal y el sistema nacional, y efectuar propuestas de acuerdos o acciones específicas al Consejo Nacional de Seguridad Pública o las conferencias nacionales;
-
-IX. Efectuar, en términos del artículo 36 de la Ley General de Seguridad Pública, propuestas para la conformación, la organización y el funcionamiento de instancias regionales o intermunicipales de coordinación, así como para la vinculación del sistema estatal con otros sistemas locales de seguridad pública;
-
-X. Propiciar la participación ciudadana en el diseño, la implementación, el seguimiento y la evaluación de estrategias y acciones en materia de prevención del delito y de desempeño de las instituciones de seguridad pública
-
-XI. Conformar comisiones o grupos de trabajo que coadyuven al adecuado ejercicio de sus atribuciones;
-
-XII. Designar a los Presidentes Municipales que conformaran la Conferencia Nacional de Seguridad Pública Municipal, y
-
-XIII. Los demás que establezcan las disposiciones legales aplicables.
-
-### CAPÍTULO IV. COORDINACIÓN EN MATERIA DE SEGURIDAD PÚBLICA
-
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES DEL SERVICIO DE CARRERA POLICIAL
-
-###### ARTÍCULO 14.
-
-El Consejo sesionará, de forma ordinaria cuatro veces al año y, de forma extraordinaria cuantas veces se requiera, cuando el Presidente lo determine.
-
-Los acuerdos del Consejo se tomarán con la aprobación de la mayoría de los integrantes presentes en la sesión correspondiente.
-
-En caso de empate, el voto de calidad será otorgado por el Presidente del Consejo.
-
-###### ARTÍCULO 15.
-
-Las sesiones del Consejo serán válidas siempre que se cuente con la asistencia de la mitad más uno de los integrantes.
-
-###### ARTÍCULO 16.
-
-Corresponderá al Presidente del Consejo Estatal de Seguridad Pública y de Paz, además de la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento en materia de seguridad pública estatal, las siguientes funciones:
-
-I. Convocar y conducir las sesiones del Consejo Estatal;
-
-II. Proponer el orden del día de la sesión respectiva;
-
-III. Proponer la instalación de comisiones para evaluar políticas y acciones en materia de seguridad pública y designar a los responsables de las mismas;
-
-IV. Promover, suscribir y vigilar el cumplimiento de los acuerdos, convenios y demás resoluciones del Consejo Estatal;
-
-V. Coordinar acciones entre las policías estatales y municipales;
-
-VI. Las demás que le asignen las leyes o el propio Consejo Estatal, así como las que sean necesarias para promover en todo tiempo la efectiva coordinación y funcionamiento en materia de seguridad pública estatal.
-
-###### ARTÍCULO 17.
-
-Son Instituciones Policiales en el Estado, las siguientes:
-
-I. La Guardia Estatal de Seguridad;
-
-II. La Agencia Estatal de Investigación;
-
-III. La Policía Municipal;
-
-IV. La Policía Estatal de Seguridad y Custodia Penitenciaria;
-
-V. Las demás que se constituyan con estricto apego a la Ley.
-
-#### SECCIÓN SEGUNDA. SELECCIÓN
-
-#### SECCIÓN TERCERA. INGRESO Y PERMANENCIA
-
-### CAPÍTULO V. PROGRAMA
-
-###### ARTÍCULO 18.
-
-Son auxiliares de las Instituciones Policiales en la Entidad:
-
-I. Los Cuerpos Operativos de la Dirección de Protección Civil del Estado y los Órganos Municipales Encargados de la Materia de Protección Civil;
-
-II. Los Cuerpos de Bomberos y Rescate;
-
-III. Los prestadores de servicios de seguridad privada y de similar naturaleza que operen o se instalen en el Estado;
-
-IV. Los cuerpos de asistencia médica o de primeros auxilios, y
-
-V. Las demás que se constituyan con estricto apego a la Ley.
-
-###### ARTÍCULO 19.
-
-La coordinación a que se refiere esta Ley, comprende las acciones inherentes a la consecución de la Seguridad Pública, del desarrollo policial e integración de los registros de información de Seguridad Pública, y de la Evaluación y Control de Confianza, abarcando las materias siguientes:
-
-I. Suministro, intercambio y sistematización de todo tipo de información sobre seguridad pública;
-
-II. Coordinación en la planeación y ejecución de programas y estrategias contra la delincuencia y la realización de operativos policiales conjuntos;
-
-III. Coordinación y participación en la atención de incidentes de alto impacto derivados de actos delictivos, accidentes o desastres naturales, a través de las instancias y operatividad establecidas para tal efecto;
-
-IV. Verificar la debida aplicación de los lineamientos, procedimientos, protocolos y perfiles determinados por el Centro Nacional de Certificación y Acreditación, para los procedimientos de evaluación y control de confianza de los Miembros, Agentes del Ministerio Público, Peritos y elementos de apoyo;
-
-V. Intercambio académico y de experiencias para robustecer la formación profesional de los Miembros;
-
-VI. Procedimientos de formación, reglas de ingreso, permanencia, promoción y retiro;
-
-VII. Sistema disciplinario y de estímulos a los Miembros;
-
-VIII. Mecanismos y lineamientos conforme a los cuales las policías preventivas y prestadores de servicio de seguridad privada, actuarán bajo la autoridad y mando de la Fiscalía General, cuando intervengan como auxiliar del Ministerio Público en la investigación, la persecución de delitos o de conductas cometidas por adolescentes tipificadas como delito por las leyes;
-
-IX. Regulación, control y sanción de los prestadores de servicios de seguridad privada;
-
-X. Participación de las Instituciones Policiales en el Estado, así como los auxiliares de las instituciones policiales en la entidad, en la prestación del servicio de asistencia telefónica que prevé esta Ley y su Reglamento, a través del Centro de Control, Comando, Comunicación y Cómputo del Estado, sin perjuicio de lo que la Ley y su reglamento señalen adicionalmente;
-
-XI. Participación de las Instituciones Policiales, en la atención y seguimiento de las denuncias anónimas de la población;
-
-XII. Participación de la comunidad y fomento a la cultura de la prevención de infracciones, delitos y de conductas cometidas por adolescentes tipificadas como delito por las leyes; así como en la denuncia ciudadana y la denuncia anónima;
-
-XIII. Coordinación en la planeación y ejecución de programas en materia de prevención del delito, y
-
-XIV. Las demás que determinen las leyes y que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de seguridad pública.
-
-### CAPÍTULO ÚNICO
-
-###### ARTÍCULO 20.
-
-Las Instituciones de Seguridad Pública, dentro del ámbito de sus respectivas competencias, coordinarán operativa y administrativamente las materias y actividades señaladas en el artículo anterior, mediante convenios generales o específicos de coordinación.
-
-Cuando las acciones conjuntas sean para perseguir delitos y faltas administrativas, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales.
-
-Cuando las acciones conjuntas se refieran al intercambio de información en materia de seguridad pública, de la Fiscalía General hacia los Ayuntamientos, será en los términos de la presente Ley.
-
-###### ARTÍCULO 21.
-
-Las Instituciones Policiales en el Estado, deberán auxiliar sin restricción alguna a las autoridades penitenciarias o en materia de justicia para adolescentes, a solicitud de éstas en la vigilancia y seguridad de los Centros dependientes del Sistema Estatal Penitenciario, así como en los operativos destinados al traslado de internos y adolescentes.
-
-### CAPÍTULO ÚNICO
-
-###### ARTÍCULO 22.
-
-Las autoridades estatales y municipales están obligadas a coordinarse para planear y ejecutar en forma conjunta, cuando menos una vez al mes, los operativos policiales en materia de prevención, investigación y persecución de los delitos e infracciones, así como conductas cometidas por adolescentes tipificadas como delito por las leyes, promoviendo la participación de autoridades federales de seguridad pública.
-
-Los resultados de estas acciones conjuntas deberán ser revisados de manera permanente y en su caso, diseñarse nuevas directrices y acciones que permitan eficientizar las funciones desarrolladas.
-
-El incumplimiento en la obligación de coordinarse será sancionado en base a los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
-
-###### ARTÍCULO 23.
-
-El Programa es el documento que contiene las acciones que en forma planeada y coordinada deberán realizar las Instituciones de Seguridad Pública, así como aquellas Instituciones Públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad pública, en el corto, mediano y largo plazo. Este Programa tendrá carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestal anual, así como a las disposiciones y lineamientos que sobre el particular dicten los órganos competentes.
-
-El Programa se elaborará por el Ejecutivo del Estado, la Fiscalía General y los Ayuntamientos, en los términos previstos en el Plan Estatal de Desarrollo y a los Planes de Desarrollo Municipales, atendiendo a los objetivos y estrategias planteados en estos documentos. Para su elaboración, se contará con la intervención del Consejo Ciudadano de Seguridad Pública y de los Comités Ciudadanos Municipales de Seguridad Pública en los términos de esta Ley; dicho Programa se revisará anualmente respecto a sus resultados, tomando como base la disminución de la problemática que atienda, y su resumen se publicará en el Periódico Oficial del Estado.
-
-###### ARTÍCULO 24.
-
-Corresponde al Gobernador del Estado y a los Presidentes Municipales, así como a la Fiscalía General, en sus respectivos ámbitos de competencia, la ejecución y seguimiento del Programa.
-
-###### ARTÍCULO 25.
-
-El Programa deberá guardar congruencia con el Plan Nacional de Desarrollo y los Programas Nacionales en materia de Seguridad Pública, el Plan Estatal de Desarrollo y se sujetará a las previsiones contenidas en el mismo. En la formulación del Programa, el Ejecutivo del Estado, la Fiscalía General y los Municipios llevarán a cabo los foros de consulta previstos en la Ley de Planeación del Estado de Baja California, atenderán los lineamientos generales que establezcan los programas nacionales en materia de seguridad, procuración, prevención del delito y readaptación social.
-
-Al efecto, en la elaboración del Programa se deberá vincular con los programas sectoriales de salud, educación, desarrollo económico y social, así como con todas aquellas materias que atañen a la seguridad pública, para lograr armonía en las políticas públicas, tanto en el Ejecutivo Estatal como en los Municipios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 6.
+
+El Sistema Estatal tendrá como instrumento rector el Programa y se conformará además con las políticas públicas, bases de coordinación, planes, servicios, programas, acciones, tecnología, bases de datos y sistemas de información, así como las actividades de las instituciones públicas y privadas en materia de seguridad contempladas en la presente Ley, el cual formará parte del Sistema Nacional y se conducirá en coordinación y de conformidad con las instancias, instrumentos, políticas,
+
+acciones y servicios previstos en la Ley General.
+
+El desarrollo, ejecución o uso de los componentes del Sistema Estatal se realizará de manera conjunta, ordenada y sistémica, a través de las Instituciones de Seguridad, órganos de coordinación, municipios y ciudadanos en sus respectivos ámbitos de competencia y participación, responsables de articular y dar seguimiento a las estrategias para cumplir los alcances, fines y objetivos de la seguridad.
+
+El Consejo Estatal es el órgano colegiado rector del Sistema Estatal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 7.
+
+Son autoridades del Sistema Estatal:
+
+I.- El Poder Ejecutivo por conducto de la Secretaría de Seguridad Ciudadana y la Comisión Estatal del Sistema Penitenciario;
+
+II.- La Fiscalía General del Estado de Baja California;
+
+III. Los municipios;
+
+IV.- Las Instituciones Policiales del Estado y sus auxiliares, y
+
+V.- Las dependencias y entidades estatales y municipales, órganos autónomos y demás instituciones públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 8.
+
+El Sistema Estatal tiene por objeto:
+
+I.- Contribuir al desarrollo y ejecución del Programa y el desarrollo de políticas públicas de prevención que brinden protección y seguridad a la ciudadanía frente a riesgos y amenazas;
+
+II.- Dar seguimiento a la incidencia delictiva, y tomar decisiones respecto de las acciones preventivas y correctivas en materia de seguridad en el Estado;
+
+III.- Promover y elaborar acciones que fomenten la convivencia pacífica y solidaria, la cultura de la paz para la solución no violenta de conflictos;
+
+IV.- Proponer y desarrollar políticas de carácter integral en materia de prevención social de las violencias y el delito; las causas estructurales que generen la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad, valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas de hechos violentos y el delito, y
+
+V.- Aquellos que determine la Ley General y el Sistema Nacional.
+
+Las políticas en materia de prevención social del delito y las violencias delimitarán la participación organizada de la sociedad y sus niveles de actuación en la materia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 9.
+
+Las Instituciones de Seguridad se regirán, para la debida coordinación en la implementación de sus acciones, bajo las bases siguientes:
+
+I.- Establecer políticas, programas y acciones complementarias de los distintos órdenes de gobierno en la materia que corresponda, de acuerdo a su competencia, a efecto de eficientizar la aplicación, destino e impacto de los recursos públicos;
+
+II.- Articular acciones interinstitucionales con las autoridades y auxiliares del Sistema Estatal, a fin de ampliar la cobertura de servicios, de atención a la ciudadanía y la interconexión de los aspectos tecnológicos;
+
+III.- Propiciar la participación ciudadana;
+
+IV.- Garantizar el respeto a los derechos humanos y su protección con enfoque diferencial y perspectiva de género;
+
+V.- Salvaguardar y compartir la información sobre seguridad, que en el ámbito de su competencia o participación, deba formar parte del Sistema Estatal de Información, y
+
+VI.- Las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General y la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 10.
+
+La coordinación de las Instituciones de Seguridad a que se refiere esta Ley, comprende las acciones inherentes a la consecución de los fines de la seguridad, el desarrollo policial, la integración, uso y control de los registros del Sistema Estatal de Información, así como las relativas a la evaluación y control de confianza que correspondan al ámbito de sus atribuciones, las cuales abarcan lo siguiente:
+
+I.- Suministro, intercambio y sistematización de todo tipo de información sobre seguridad;
+
+II.- Coordinación en la planeación y ejecución de programas y estrategias contra la comisión de hechos violentos y la realización de operativos policiales conjuntos;
+
+III.- Realizar acciones y operativos conjuntos entre las Instituciones de Seguridad Pública estatales y municipales, así como de otras entidades federativas y sus municipios;
+
+IV.- Coordinación y participación en la atención de incidentes de alto impacto derivados de actos delictivos, accidentes o desastres naturales, a través de las instancias y operatividad establecidas para tal efecto;
+
+V.- Verificar la debida aplicación de los lineamientos, procedimientos, protocolos y perfiles determinados por el Centro Nacional de Certificación y Acreditación, para los procedimientos de evaluación y control de confianza de los Miembros, Agentes del Ministerio Público, Peritos y elementos de apoyo;
+
+VI.- Intercambio académico y de experiencias para robustecer la formación profesional de los Miembros;
+
+VII.- Procedimientos de formación, reglas de ingreso, permanencia, promoción y retiro de los miembros;
+
+VIII.- Sistema disciplinario y de estímulos a los Miembros;
+
+IX. - Mecanismos y lineamientos conforme a los cuales las Instituciones Policiales y prestadores de servicio de seguridad privada, actuarán en coadyuvancia con las Instituciones de Seguridad;
+
+X.- Regulación, control y sanción de los prestadores de servicios de seguridad privada;
+
+XI.- Participación de las Instituciones Policiales del Estado y sus auxiliares, en la prestación del servicio de asistencia telefónica y en la atención y seguimiento de las denuncias anónimas de la población que prevé esta Ley, a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y de Contacto Ciudadano del Estado, y del Centro de Denuncia Anónima sin perjuicio de lo que las leyes y reglamentos señalen adicionalmente;
+
+XII.- Participación de la comunidad y fomento a la cultura de la prevención de delitos y de conductas cometidas por adolescentes tipificadas como delito por las leyes;
+
+XIII.- Coordinación en la planeación y ejecución de programas en materia de prevención de las violencias y delitos, y
+
+XIV.- Las demás que determine el Consejo Estatal para lograr los fines de seguridad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. DEL PROGRAMA ESTATAL DE SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 11.
+
+El Programa constituye un instrumento del Sistema Estatal de Planeación que contiene las políticas y acciones que en forma planeada y coordinada deberán realizar las Instituciones de Seguridad, así como aquellas dependencias y entidades estatales y municipales, órganos autónomos y demás instituciones públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad, en el corto, mediano y largo plazo. Su contenido deberá ser congruente con los programas y estrategias nacionales conforme al Sistema Nacional y cumplir con los objetivos y estrategias planteados en el Plan Estatal de Desarrollo.
+
+El Programa tendrá carácter prioritario y su ejecución se ajustará a la disponibilidad presupuestal anual, así como a los lineamientos que sobre el particular dicte el Consejo Estatal.
+
+En su elaboración se deberá contar con la participación de las Instituciones de Seguridad, el Consejo Ciudadano y de los Comités Ciudadanos Municipales de Seguridad Ciudadana en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 12.
+
+La aprobación del Programa corresponde a la persona titular del Poder Ejecutivo del Estado. El Programa deberá comprender como mínimo, los siguientes aspectos:
+
+I.- Justificación;
+
+II.- Diagnóstico de la situación que presenta la seguridad ciudadana en el Estado y municipios, así como su relación con el contexto nacional;
+
+III.- Objetivos generales y específicos;
+
+IV.- Estrategias para el logro de sus objetivos;
+
+V.- Subprogramas específicos, así como las acciones y metas operativas correspondientes, incluyendo aquellas que sean objeto de coordinación con dependencias y organismos de la administración pública federal o con los gobiernos de otras entidades federativas y aquellas que requieran de concertación con los grupos sociales;
+
+VI.- Dependencias, órganos o unidades administrativas responsables de su ejecución;
+
+VII.- Metas;
+
+VIII.- Alineación con los instrumentos de planeación de la Entidad, así como con los establecidos por el Sistema Nacional;
+
+IX.- Los indicadores necesarios para el seguimiento y evaluación, y
+
+X.- Evaluación de acciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 13.
+
+El Programa se revisará anualmente respecto al logro de sus objetivos. En la evaluación del cumplimiento del Programa se considerará la situación que guarda la seguridad en los ámbitos estatal y municipal al momento de su emisión, respecto del avance en el cumplimiento del mismo. El resumen de la evaluación se publicará en el Periódico Oficial del Estado de Baja California.
+
+Las Instituciones de Seguridad darán amplia difusión al Programa destacando la manera en que la ciudadanía participará en el cumplimiento del mismo.
+
+El Poder Ejecutivo del Estado, la Fiscalía General y los municipios informarán anualmente al Congreso del Estado los resultados y avances del Programa, y por separado de cualquier otro informe que legalmente deban rendir, sin perjuicio de la atribución que le asiste de recabar información sobre casos o materias concretas en los términos de Ley. El Congreso del Estado evaluará los avances y remitirá sus observaciones a dichas autoridades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO III. DEL CONSEJO ESTATAL DE SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN PRIMERA. DEL PERSONAL, ARMAMENTO, VEHÍCULOS Y EQUIPOS DE COMUNICACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 14.
+
+El Consejo Estatal es la instancia para la coordinación de los tres órdenes de gobierno que tiene por finalidad principal la coordinación, planeación e implementación del Sistema Nacional en la Entidad, mediante la ejecución de las líneas de acción que establezca el Consejo Nacional.
+
+El Consejo Estatal se coordinará por la persona titular de la Secretaría y estará integrado por:
+
+I.- La persona titular del Poder Ejecutivo del Estado, quien lo presidirá;
+
+II.- La persona titular de la Secretaría de Seguridad Ciudadana;
+
+III.- La persona titular del Secretariado Ejecutivo, quien fungirá como Secretario Técnico del Consejo Estatal;
+
+IV.- La persona titular de la Secretaría General de Gobierno;
+
+V.- La persona titular de la Fiscalía General;
+
+VI. La persona titular de la Comisión Estatal del Sistema Penitenciario;
+
+VII.- La persona titular de la Presidencia Municipal de cada Municipio del Estado;
+
+VIII.- Una representación de la Secretaría de la Defensa Nacional;
+
+IX.- Una representación de la Secretaría de Marina;
+
+X.- Una representación de la Fiscalía General de la República, y
+
+XI.- Una representación de la Secretaría de Seguridad y Protección Ciudadana.
+
+La persona titular de la Presidencia del Consejo Estatal será suplida en sus ausencias por la persona titular de la Secretaría.
+
+Las personas integrantes del Consejo Estatal deberán nombrar un suplente en caso de no poder asistir a las sesiones, quien contará al menos con la jerarquía inmediata inferior al titular que corresponda, debiendo autorizarlo mediante oficio previo a la reunión convocada.
+
+La persona Titular de la Presidencia del Consejo Estatal invitará a participar permanentemente en las sesiones a las personas titulares de la Presidencia de la Comisión Estatal de los Derechos Humanos de Baja California; de la Presidencia de la Comisión del Congreso del Estado cuyas funciones se relacionen con la seguridad y de la Presidencia del Consejo Ciudadano, con derecho a voz pero sin voto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 15.
+
+El Consejo Estatal tendrá a su cargo los asuntos siguientes:
+
+I.- Proponer el contenido del Programa; los objetivos y las metas estatales en materia de seguridad, así como las políticas, estrategias y acciones necesarias para su cumplimiento;
+
+II.- Dar seguimiento y evaluar el cumplimiento de los objetivos y las metas estatales en materia de seguridad, así como de los acuerdos y las disposiciones emitidas por el Consejo Nacional;
+
+III. - Proponer al Consejo Nacional y a las Conferencias que integran el Sistema Nacional acuerdos, programas específicos y convenios sobre las materias de coordinación que establece la Ley General y esta ley;
+
+IV.- Sugerir la elaboración de instrumentos de planeación en materia de seguridad y la definición de sus objetivos, indicadores, metas, estrategias, líneas de acción y de cualquier otra información que deban contener;
+
+V.- Emitir acuerdos para el mejoramiento de la organización y el funcionamiento del Sistema Estatal o el desempeño de la seguridad en el Estado;
+
+VI.- Impulsar la efectiva coordinación entre las autoridades estatales en materia de seguridad y justicia;
+
+VII.- Conformar mediante acuerdos las comisiones de trabajo que estime necesarias para el debido cumplimiento de sus funciones, conforme a las disposiciones que en los mismos se establezcan;
+
+VIII.- Fomentar la coordinación entre el Sistema Nacional y el Sistema Estatal, y formular propuestas de acuerdos o acciones específicas al Consejo Nacional o las conferencias nacionales;
+
+IX.- Efectuar en términos de la Ley General, propuestas para la conformación, la organización y el funcionamiento de instancias regionales o intermunicipales de coordinación, así como para la vinculación del Sistema Estatal con otros sistemas locales de seguridad;
+
+X.- Propiciar la participación ciudadana en el diseño, la implementación, el seguimiento y la evaluación de estrategias y acciones en materia de prevención de las violencias y del delito, así como del desempeño de las Instituciones de Seguridad;
+
+XI.- Designar a los Presidentes Municipales que conformarán la Conferencia Nacional de Seguridad Pública Municipal de conformidad con lo previsto en la Ley General, y
+
+XII.- Los demás que le asignen las leyes, el Consejo Nacional y Consejo Estatal, así como las que sean necesarias para promover en todo tiempo la efectiva coordinación y funcionamiento en materia de seguridad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 16.
+
+El Consejo Estatal sesionará de forma ordinaria, cuando menos cada tres meses y de forma extraordinaria cuantas veces se requiera, cuando quien lo preside, así lo determine.
+
+Los acuerdos del Consejo Estatal se tomarán con la aprobación de la mayoría de los integrantes presentes en la sesión correspondiente.
+
+En caso de empate, el voto de calidad será otorgado por la persona titular de la Presidencia del Consejo Estatal.
+
+Las sesiones del Consejo Estatal serán válidas siempre que se cuente con la asistencia de la mitad más uno de los integrantes, y esté presente la persona titular del Poder Ejecutivo o su suplente.
+
+El Consejo Estatal operará y funcionará conforme al reglamento y las demás disposiciones normativas que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 17.
+
+Corresponderá a la persona titular de la Presidencia del Consejo Estatal, las siguientes funciones:
+
+I.- Convocar y conducir las sesiones del Consejo Estatal;
+
+II.- Proponer el orden del día de la sesión respectiva;
+
+III.- Proponer la instalación de comisiones para evaluar políticas y acciones en materia de seguridad y designar a los responsables de las mismas;
+
+IV.- Promover, suscribir y vigilar el cumplimiento de los acuerdos, convenios y demás resoluciones del Consejo Estatal;
+
+V.- Coordinar acciones entre las policías estatales y municipales, y
+
+VI.- Las demás que le asignen las leyes y reglamentos, así como las que sean necesarias para promover en todo tiempo la efectiva coordinación y funcionamiento en materia de seguridad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE DETENCIONES E INFORME POLICIAL HOMOLOGADO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN TERCERA. DEL REGISTRO E IDENTIFICACIÓN DE PERSONAS Y GENERADORES DE VIOLENCIA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO IV. DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 18.
+
+La Secretaría es la dependencia de la administración pública estatal encargada de la preservación de la seguridad y convivencia ciudadana, de los espacios destinados al uso y disfrute público, así como de la prevención de las violencias y delitos, con la participación activa de la ciudadanía, la cual se regirá por lo dispuesto en esta Ley y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 19.
+
+Además de las atribuciones previstas en la Constitución Política del Estado Libre y Soberano de Baja California y la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, en materia de seguridad ciudadana, corresponden a la Secretaría, las siguientes:
+
+I.- Garantizar que los fines de la seguridad ciudadana se cumplan;
+
+II.- Proponer al Consejo Estatal las medidas necesarias para garantizar el adecuado funcionamiento del Sistema Estatal;
+
+III.- Ejecutar y dar seguimiento a los acuerdos, resoluciones y bases de colaboración que en el ámbito de su competencia determinen el Consejo Estatal y la persona titular de la Presidencia del Consejo Estatal;
+
+IV.- Verificar que los programas, estrategias, acciones, políticas y servicios que se adopten por el Consejo Estatal, se coordinen entre sí, y que cumplan con los lineamientos y acuerdos generales que éste dicte;
+
+V.- Promover las acciones de coordinación, colaboración y concertación necesarias entre las Instituciones de Seguridad y los ciudadanos para el cumplimiento de los fines del Sistema Estatal;
+
+VI.- Presentar al Consejo Nacional los informes que den seguimiento a los acuerdos y resoluciones adoptados por dicho Consejo y sus Conferencias;
+
+VII.- Celebrar con la autorización de la persona titular del Poder Ejecutivo del Estado los convenios que resulten necesarios para el cumplimiento de sus atribuciones o fines del Sistema Estatal;
+
+VIII.- Informar periódicamente al Consejo Estatal y a la persona titular del Poder Ejecutivo del Estado de sus actividades;
+
+IX.- Publicar los informes de actividades del Consejo Estatal;
+
+X.- Conducir la operación policial de las Instituciones de Seguridad, respetando sus respectivos ámbitos de competencia, y de conformidad con las políticas y lineamientos del Consejo Estatal y el Programa;
+
+XI.- Desarrollar los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros, Elementos de Apoyo y personal operativo de los Prestadores de Servicios de Seguridad Privada a cargo de la Secretaría;
+
+XII.- Tramitar, administrar y controlar las acciones necesarias para la autorización y el correcto funcionamiento de la Licencia Oficial Colectiva respectiva para la portación de armas;
+
+XIII.- Implementar en caso de ser necesario y con independencia de que otras Instituciones de Seguridad desarrollen programas educativos para el cumplimiento de sus atribuciones, programas de nivel medio superior y superior en sus diferentes tipos y modalidades, ajustándose a lo dispuesto en la normatividad en la materia;
+
+XIV.- Gestionar ante las autoridades competentes, la ministración de los fondos de seguridad, de conformidad con los criterios aprobados por el Consejo Estatal y las demás disposiciones aplicables;
+
+XV.- Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos por las Instituciones de Seguridad;
+
+XVI.-· Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere el artículo 142 de la Ley General;
+
+XVII.- Dictar los lineamientos para la coordinación de las Instituciones de Seguridad y las dependencias y entidades estatales y municipales, órganos autónomos y demás instituciones públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad, a efecto de integrar el Sistema Estatal de Información;
+
+XVIII.- Disponer la ejecución de las medidas de seguridad necesarias a fin de proteger la vida de la población, sus bienes y el entorno, brindándoles oportuno y eficaz auxilio, en los casos previstos en la Ley General de Protección Civil y demás disposiciones aplicables, y
+
+XIX.- las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO V. DEL SECRETARÍADO EJECUTIVO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 20.
+
+El Secretariado Ejecutivo es un órgano desconcentrado dependiente de la Secretaria con autonomía técnica y de gestión, cuya función es el análisis de los fenómenos generadores de violencia, su comportamiento e incidencia, así como la proposición, seguimiento y evaluación de las estrategias a cargo de las Instituciones de Seguridad y sus resultados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 21.
+
+Corresponden al Secretariado Ejecutivo las siguientes atribuciones:
+
+I.- En materia de análisis y planeación:
+
+a.- Realizar estudios especializados sobre las materias de seguridad y formular recomendaciones a los órganos de coordinación, Instituciones de Seguridad, organismos privados y particulares, que forman parte del Sistema Estatal;
+
+b.-Analizar los fenómenos generadores de violencia, desde la perspectiva de su origen, comportamiento e incidencia y el riesgo o afectación que provocan a los derechos de las personas en materia de seguridad;
+
+c.- Impulsar mejoras para los instrumentos de información del Sistema Estatal de Información;
+
+d.- Formular propuestas para los contenidos del Programa y el Programa Rector;
+
+e.- Promover la ejecución de las acciones conjuntas que se acuerden en el Consejo Estatal, de conformidad con las bases y reglas que emita el mismo y con respeto a las atribuciones de las instancias vinculadas;
+
+f.- Auxiliar a la persona titular del Consejo Estatal en la conducción de las sesiones y ejercer las funciones de Secretario Técnico del Consejo Estatal;
+
+g.- Elaborar los informes de actividades del Consejo;
+
+h.- Compilar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
+
+i.- Verificar el cumplimiento de las disposiciones de esta Ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
+
+j.- Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las Instituciones de Seguridad;
+
+k.- Proponer los criterios de evaluación de las Instituciones de Seguridad en los términos de la Ley;
+
+l.- Preparar la evaluación del cumplimiento de las políticas, estrategias y acciones del Sistema Estatal en los términos de Ley;
+
+m.- Presentar un informe mensual del estado que guarda la seguridad en el Estado, que deberá contener cuando menos mapas de zonas de incidencia delictiva, los índices delictivos, los resultados de las acciones de prevención y del Programa a la persona Presidente del Consejo Estatal, y
+
+n.- Las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+
+II.- Como Secretario Técnico del Consejo Estatal:
+
+a.- Proponer las disposiciones normativas que resulten necesarias para la operación y funcionamiento del Consejo Estatal.
+
+b.- Elaborar y certificar los acuerdos que se tomen en el Consejo Estatal, llevando su archivo y el de los instrumentos jurídicos que se generen en el seno del mismo;
+
+c.- Realizar las acciones necesarias para la debida ejecución y seguimiento de los acuerdos del Consejo Estatal e informar de lo conducente a la Secretaría;
+
+d.- Elaborar los informes de actividades que ordene el Consejo Estatal;
+
+e.- Solicitar la información que requiera el Consejo Estatal a las dependencias estatales y municipales;
+
+f.- Promover en todo tiempo el efectivo desarrollo de las sesiones del Consejo Estatal,
+
+y
+
+g.- Las demás que le encomiende la persona titular de la Secretaría, de la Presidencia del Consejo Estatal y el propio Consejo Estatal, y que sean necesarias para cumplir las anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VI. DE LA OPERACIÓN POLICIAL, LAS INSTITUCIONES POLICIALES, LA AGENCIA ESTATAL DE INVESTIGACIÓN Y SUS AUXILIARES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 22.
+
+La operación policial es el conjunto de acciones coordinadas entre las Instituciones Policiales y la Agencia Estatal de Investigación para el cumplimiento de objetivos, programas y metas relacionados con los fines de la seguridad, con estricto apego a los derechos humanos, para preservar la libertad, el orden y la paz pública.
+
+La persona titular del Poder Ejecutivo del Estado podrá asumir el mando en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público.
+
+La operación policial de los miembros de las Instituciones Policiales y la Agencia Estatal de Investigación, atenderá a los principios establecidos en la Constitución Federal, la Ley General, esta Ley y demás disposiciones legales y reglamentarias correspondientes para cumplir con sus funciones de prevención de hechos violentos, investigación del delito, reacción o custodia, asegurando la protección de los ciudadanos y el servicio a la comunidad.
+
+Los miembros de las Instituciones Policiales y de la Agencia Estatal de Investigación están facultados para el uso legal de la fuerza en los términos previstos en la Ley Nacional Sobre el Uso de la Fuerza, conforme a los protocolos establecidos y el pleno respeto a los derechos humanos. Cualquier abuso será sancionado conforme a la legislación penal aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 23.
+
+Son Instituciones Policiales en el Estado, las siguientes:
+
+I.- La Fuerza Estatal de Seguridad Ciudadana;
+
+II.- La Fuerza Estatal de Seguridad y Custodia Penitenciaria;
+
+III.- La Policía Municipal; y,
+
+IV.- Las demás que se constituyan con estricto apego a la Ley.
+
+Las Instituciones Policiales estarán facultadas para desarrollar las funciones establecidas en el artículo 77 de la Ley General, en términos de lo previsto en su último párrafo.
+
+Las Instituciones Policiales, de acuerdo a su ámbito competencial, y para la consecución del orden, la paz y tranquilidad públicos; desplegarán acciones de proximidad, comunicación y participación directa con los ciudadanos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 24.
+
+Son auxiliares de las Instituciones Policiales y de la Agencia Estatal de Investigación en el Estado:
+
+I.- Los Cuerpos Operativos de la Dirección de Protección Civil del Estado y los Órganos Municipales Encargados de la Materia de Protección Civil;
+
+II-.·Los Cuerpos de Bomberos y Rescate;
+
+III.- Los prestadores de servicios de seguridad privada y de similar naturaleza que operen o se instalen en el Estado;
+
+IV.- Los cuerpos de asistencia médica o de primeros auxilios, y
+
+V.- Las demás que se constituyan con estricto apego a la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 25.
+
+La Agencia Estatal de Investigación es la Unidad Administrativa conducida por el Ministerio Público que ejerce funciones de policía de investigación, la cual se regirá de acuerdo a lo establecido en la Ley Orgánica de la Fiscalía General del Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VII. DE LA EVALUACIÓN Y CONTROL DE CONFIANZA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 26.
 
-El Ejecutivo del Estado, la Fiscalía General y los Ayuntamientos informarán anualmente al Congreso del Estado los resultados y avances del Programa, y por separado de cualquier otro informe que legalmente deban rendir, sin perjuicio del derecho que le asiste al Poder Legislativo de recabar información sobre casos o materias concretas en los términos de ley. El Congreso del Estado evaluará los avances y remitirá sus observaciones a dichas autoridades.
+Las evaluaciones en los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros de la Agencia Estatal de Investigación, Agentes del Ministerio Público, Peritos y Elementos de Apoyo, estará a cargo del Centro de Evaluación y Control de Confianza el cual se organizará y funcionará de conformidad con la Ley Orgánica de la Fiscalía General del Estado y el Reglamento que al efecto se expida.
+
+Tratándose de los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros de las Instituciones Policiales, Elementos de Apoyo y personal operativo de los Prestadores de Servicios de Seguridad Privada a cargo de la Secretaría, las evaluaciones de estos se llevarán a cabo por la Unidad Administrativa que esta dependencia determine, lo anterior sin perjuicio de que se celebren con la Fiscalía General del Estado convenios de colaboración para tales fines.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 27.
 
-Las instituciones de seguridad pública darán amplia difusión al Programa destacando la manera en que la población participará en el cumplimiento del mismo.
+Para la evaluación y control de confianza, se deberá observar lo siguiente:
 
-### CAPÍTULO II. INFORME POLICIAL HOMOLOGADO
+I.- Aplicar los procedimientos de evaluación y de control de confianza conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación. En la aplicación de estos procedimientos, se deberán respetar los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales;
+
+II.- Proponer lineamientos para la verificación y control de certificación;
+
+III.- Proponer los lineamientos para la aplicación de los exámenes médicos, toxicológicos, psicológicos, poligráficos, socioeconómicos y demás necesarios que se consideren de conformidad con la normatividad aplicable;
+
+IV.- Establecer un sistema de registro y control, que permita preservar la confidencialidad y resguardo de expedientes;
+
+V.- Verificar el cumplimiento de los perfiles médico, ético y de personalidad;
+
+VI.- Comprobar los niveles de escolaridad;
+
+VII.- Aplicar el procedimiento de certificación aprobado por el Centro Nacional de Certificación y Acreditación;
+
+VIII.- Expedir y actualizar los certificados conforme a los formatos autorizados por el Centro Nacional de Certificación y Acreditación;
+
+IX.- Informar a las autoridades competentes sobre los resultados de las evaluaciones que practiquen;
+
+X.- Solicitar que se efectúe el seguimiento individual de los evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
+
+XI.- Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
+
+XII.- Proporcionar a las Instituciones de Seguridad la asesoría y apoyo técnico que requieran sobre información de su competencia;
+
+XIII.- Proporcionar a las autoridades competentes la información contenida en los expedientes de los evaluados, que se requieran en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
+
+XIV.- Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes;
+
+XV.- Proponer la celebración de convenios con otras Instituciones de Seguridad, así como otras autoridades, cuyos fines se relacionen con el desarrollo de los procesos de evaluación y control de confianza de su personal, y
+
+XVI.- Las demás que en el ámbito de su función, disponga la Ley General y los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+
+El Estado y los municipios implementarán medidas de registro y seguimiento para quienes sean separados del servicio por no obtener el certificado referido en esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO VIII. DEL INSTITUTO DE ESTUDIOS DE PREVENCIÓN Y FORMACIÓN INTERDISCIPLINARIA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 28.
 
-El Centro de Evaluación y Control de Confianza es un órgano administrativo perteneciente a la Fiscalía General, estará a cargo de un Director que será designado y removido libremente por el Fiscal General. La Dirección General del Centro de Evaluación y Control de Confianza aplicará las evaluaciones en los procesos de selección de aspirantes, ingreso, permanencia, desarrollo y promoción de Agentes del Ministerio Público, Policías, Peritos, Elementos de Apoyo y personal operativo de los Prestadores de Servicios de Seguridad Privada, en términos de la Ley General y demás normas aplicables.
+El Instituto es una unidad administrativa de la Secretaría que tiene por objeto la formación de los aspirantes a miembros de Instituciones Policiales en el Estado y de la Agencia Estatal de Investigación, de conformidad con el Programa Rector que establece la Ley General y esta Ley.
 
-Para tal efecto, tendrá las siguientes facultades:
+Asimismo, promoverá, facilitará, desarrollará y coordinará la profesionalización de los miembros de las Instituciones Policiales a cargo de la Secretaría y de los demás servidores adscritos a la misma.
 
-I. Aplicar los procedimientos de evaluación y de control de confianza conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación. En la aplicación de estos procedimientos, se deberán respetar los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales;
-
-II. Proponer lineamientos para la verificación y control de certificación;
-
-III. Proponer los lineamientos para la aplicación de los exámenes médicos, toxicológicos, psicológicos, poligráficos, socioeconómicos y demás necesarios que se consideren de conformidad con la normatividad aplicable;
-
-IV. Establecer un sistema de registro y control, que permita preservar la confidencialidad y resguardo de expedientes;
-
-V. Verificar el cumplimiento de los perfiles médico, ético y de personalidad;
-
-VI. Comprobar los niveles de escolaridad;
-
-VII. Aplicar el procedimiento de certificación aprobado por el Centro Nacional de Certificación y Acreditación;
-
-VIII. Expedir y actualizar los Certificados conforme a los formatos autorizados por el Centro Nacional de Certificación y Acreditación;
-
-IX. Informar a las autoridades competentes, sobre los resultados de las evaluaciones que practiquen;
-
-X. Solicitar que se efectúe el seguimiento individual de los evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
-
-XI. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
-
-XII. Proporcionar a las Instituciones de Seguridad Pública la asesoría y el apoyo técnico que requieran sobre información de su competencia;
-
-XIII. Proporcionar a las autoridades competentes la información contenida en los expedientes de los evaluados, que se requieran en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
-
-XIV. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes, y
-
-XV. Las demás que establezcan las disposiciones legales aplicables.
-
-El Estado y los Municipios implementarán medidas de registro y seguimiento para quienes sean separados del servicio por no obtener el certificado referido en esta Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-El Centro de Evaluación y Control de Confianza se organizará y funcionará de conformidad con la Ley Orgánica de la Fiscalía General del Estado y el reglamento que al efecto expida la Fiscalía General de Baja California.
+El Instituto tendrá las funciones siguientes:
 
-### CAPÍTULO III. REGISTRO DE DETENCIONES
+I.- Aplicar los procedimientos homologados del Sistema Nacional impulsando una doctrina policial civil en la que la formación y el desempeño de los integrantes de las Instituciones Policiales y la Agencia Estatal de Investigación del Estado se rijan por el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior y, en lo conducente, a la perspectiva de género;
+
+II.- Capacitar en materia de investigación científica y técnica a los aspirantes y Miembros de las Instituciones Policiales de la Secretaría;
+
+III.- Actualizar a los servidores públicos de la Secretaría respecto de las leyes, reglamentos, bandos y la normatividad vigente a la que se deban sujetar en su desempeño;
+
+IV.- Proponer y desarrollar los programas de investigación académica en materia policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+V.- Proponer los tipos y modalidades de los niveles de escolaridad para la profesionalización de los Miembros, así como a todo servidor público de las instituciones policiales;
+
+VI.- Promover y prestar servicios educativos;
+
+VII.- Aplicar las estrategias para la profesionalización de los Miembros de las Instituciones Policiales del Estado y de los servidores públicos de la Secretaría;
+
+VIII.- Proponer y aplicar los contenidos de los planes y programas para la profesionalización de los servidores públicos de la Secretaría a que se refiere el Programa Rector;
+
+IX.- Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
+
+X.- Revalidar y otorgar equivalencias de estudios de Profesionalización;
+
+XI.- Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+
+XII.- Realizar los estudios para detectar las necesidades de capacitación para los miembros de las Instituciones Policiales del Estado y servidores públicos de la Secretaría, proponiendo los cursos correspondientes para su formación, capacitación y profesionalización;
+
+Dentro de los cursos se comprenderá la prestación de los primeros auxilios, para lo cual se deberá contar con el equipo necesario para tal efecto.
+
+XIII.- Emitir las convocatorias para el ingreso al servicio de los Miembros de las Instituciones Policiales del Estado y de la Agencia Estatal de Investigación;
+
+XIV.- Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
+
+XV.- Expedir documentos de las actividades para la profesionalización que impartan;
+
+XVI.· Proponer la celebración de convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia, y
+
+XVII.- Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO IX. DEL CENTRO ESTATAL DE INTELIGENCIA PREVENTIVA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 30.
 
-El Instituto Estatal de Investigación y Formación Interdisciplinaria es un órgano de la Fiscalía General que servirá para formar, promover, facilitar, desarrollar y coordinar la profesionalización de los aspirantes, Miembros de instituciones policiales en el Estado, así como Agentes del Ministerio Público, Peritos y demás servidores públicos adscritos a la misma institución.
+El Centro Estatal Inteligencia Preventiva es la unidad administrativa de la Secretaría encargada de llevar a cabo la inteligencia preventiva de las violencias y delitos, a través del análisis de la información contenida en el Sistema Estatal de Información.
 
-Estará a cargo de un Director que será designado y removido libremente por el Fiscal General.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 31.
 
-El Instituto será responsable de aplicar el Programa Rector de Profesionalización que establece la Ley General, tendrá las siguientes funciones:
+El Centro Estatal de Inteligencia Preventiva desarrollará las siguientes funciones:
 
-I. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública;
+I.- Administrar y vigilar la integración del Sistema Estatal de Información y la debida operación de la plataforma tecnológica;
 
-II. Capacitar en materia de investigación científica y técnica a los Miembros, Agentes del Ministerio Público y Peritos, así como a todo servidor público de las instituciones policiales y de la Fiscalía General, brindándoles actualización necesaria respecto de las leyes, reglamentos, bandos y en sí de toda normatividad vigente a la que se deban sujetar respectivamente;
+II.- Supervisar el cumplimiento de las obligaciones de los entes que conforman el Sistema Estatal de Información;
 
-III. Proponer y desarrollar los programas de investigación académica en materia policial, ministerial y pericial de conformidad con lo dispuesto en esta ley y demás disposiciones aplicables;
+III .- Garantizar que se cumplan las disposiciones de la Ley General en materia de integración del Sistema Estatal de Información con el Sistema Nacional;
 
-IV. Proponer los tipos y modalidades de los niveles de escolaridad para la profesionalización de los Miembros, Agentes del Ministerio Publico y Peritos, así como a todo servidor público de las instituciones policiales y de la Fiscalía General;
+IV.- Desarrollar acciones sistematizadas para planear, recopilar, analizar y aprovechar la información del Sistema Estatal de Información, para prevenir las violencias y delitos; sea directamente o mediante los sistemas de coordinación previstos en esta Ley y la Ley General;
 
-V. Implementar programas de nivel medio superior en sus diferentes tipos y modalidades, incluyendo el Bachillerato General;
+V.- Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la Red Pública de Internet sobre sitios web con el fin de prevenir conductas delictivas y hechos violentos;
 
-VI. Promover y prestar servicios educativos;
+VI.- Consolidar estrategias y mantener vínculos de inteligencia y cooperación en materia de información sobre seguridad ciudadana;
 
-VII. Aplicar las estrategias para la profesionalización de los aspirantes y Miembros, Agentes del Ministerio Publico y Peritos, así como a todo servidor público de las instituciones policiales y de la Fiscalía General;
+VII.- Coordinar y ejecutar análisis de información para generar inteligencia operacional, que permita identificar a personas, grupos delictivos, con el fin de prevenir la comisión de delitos y hechos violentos;
 
-VIII. Proponer y aplicar los contenidos de los planes y programas para la formación (sic) Miembros, Agentes del Ministerio Público y Peritos, así como a todo servidor público de las instituciones policiales y de la Fiscalía General, a que se refiere el Programa Rector;
+VIII.- Recabar información en lugares públicos para evitar el fenómeno delictivo o hechos de violencia, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarias con fines de inteligencia preventiva;
 
-IX. Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
+IX.- Realizar procesos técnicos, tácticos o estratégicos de la información obtenida para la generación de inteligencia preventiva;
 
-X. Revalidación y equivalencias de estudios de Profesionalización;
+X.- Efectuar la coordinación en los términos que señala el Sistema Nacional, con las autoridades de los tres órdenes de gobierno, para el intercambio de información contenida en documentos bases de datos o sistemas de información que sea útil al desempeño de sus funciones, sin menoscabo del cumplimiento de las limitaciones que establece el Código Nacional de Procedimientos Penales y las demás disposiciones aplicables, y
 
-XI. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+XI.- Las demás que en el ámbito de su función dispongan la Ley General y la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
 
-XII. Realizar los estudios para detectar las necesidades de capacitación de Miembros, Agentes del Ministerio Público y Peritos, así como a todo servidor público de las instituciones policiales y de la Fiscalía General, y proponer los cursos correspondientes de formación, capacitación y profesionalización que se impartan a los aspirantes y miembros de las instituciones policiales, Agentes del Ministerio Público y Peritos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Dentro de los cursos se debe comprender la prestación de los primeros auxilios a los Miembros, para lo cual se deberá contar con el equipo necesario para tal efecto;
+## TÍTULO TERCERO. DE LA INTELIGENCIA PREVENTIVA Y EL SISTEMA ESTATAL DE INFORMACIÓN PARA LA SEGURIDAD CIUDADANA
 
-XIII. Proponer las convocatorias para el ingreso a la Fiscalía General, en los cargos de Agentes del Ministerio Público, Peritos y Agentes de la Policía Ministerial;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XIV. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
+### CAPÍTULO I. DISPOSICION ES GENERALES
 
-XV. Expedir documentos de las actividades para la profesionalización que impartan;
-
-XVI. Proponer la celebración de convenios con Instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia;
-
-XVII. Supervisar que los aspirantes, Miembros de las Instituciones Policiales, Agentes del Ministerio Público y Peritos se sujeten a los programas de formación;
-
-XVIII. Las demás que establezcan las disposiciones legales aplicables.
-
-## TÍTULO TERCERO. INSTITUTO ESTATAL DE INVESTIGACIÓN Y FORMACIÓN INTERDISCIPLINARIA
-
-### CAPÍTULO IV. PERSONAL
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 32.
 
-La Fiscalía General y el Poder Ejecutivo, en sus respectivos ámbitos de competencia, integrará y administrará la Información Estatal sobre Seguridad Pública, conforme a las disposiciones del Sistema Nacional de Seguridad Pública, la Ley General, la presente Ley y demás normatividad aplicable; por lo que deberá de coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente.
+La inteligencia preventiva está encaminada a identificar y evitar la comisión de hechos violentos y delitos, a través de la recopilación, clasificación, registro, análisis, aprovechamiento y evaluación de datos e información del Sistema Estatal de Información.
 
-Los Ayuntamientos, los Prestadores de Servicios de Seguridad Privada, la Comisión Estatal del Sistema Penitenciario y las Instituciones Policiales de la Fiscalía General están obligados a proporcionar y mantener actualizada la información necesaria para integrar el Sistema Estatal de Información sobre Seguridad Publica.
+La información obtenida por el Centro Estatal de Inteligencia Preventiva derivada de su función de investigación para prevenir las violencias y delitos, será proporcionada al Sistema Estatal de Información mediante la plataforma tecnológica que al efecto se establezca.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-El Sistema Estatal de Información sobre Seguridad Pública se integrará por lo menos, con la siguiente información:
+El Sistema Estatal de Información se integra por los registros estatales previstos en esta Ley, así como por la información de actividades generadas por las Instituciones de Seguridad, dependencias y entidades estatales, municipales, órganos autónomos y demás instituciones públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad con el fin de prevenir conductas delictivas y cualquier forma de violencia.
 
-I. Del personal adscrito a las Instituciones de Seguridad Pública de los Ayuntamientos, dependencias del Poder Ejecutivo del Estado y de la Fiscalía General, independientemente de la función que se desempeñe, así como del personal a que se refiere el reglamento que regula la prestación de servicios de seguridad privada en el Estado;
+El Sistema Estatal de Información será dirigido por la Secretaría, a través del Centro Estatal de Inteligencia Preventiva, en coordinación con las disposiciones del Sistema Nacional, la Ley General, la presente Ley y demás normatividad aplicable; por lo que dicha unidad administrativa deberá coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente.
 
-II. De los imputados, acusados y sentenciados;
+Los Municipios, los Prestadores de Servicios de Seguridad Privada, las Instituciones de Seguridad, así como aquellas dependencias y entidades estatales y municipales, órganos autónomos y demás instituciones públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad, están obligados a proporcionar y mantener actualizada la información necesaria para integrar el Sistema Estatal de Información y el Sistema Nacional mediante los sistemas e instrumentos tecnológicos respectivos.
 
-III. Los Informes Policiales Homologados que generen las Instituciones Policiales;
+El incumplimiento a esta obligación por parte de las autoridades a que se refiere el párrafo anterior será sancionado conforme a la Ley de Responsabilidades Administrativas del Estado.
 
-IV. Los Registros Administrativos de las Detenciones;
-
-V. Del armamento y equipo de las Instituciones Policiales y prestadores de servicios de seguridad privada;
-
-VI. De mandamientos administrativos o judiciales, mismo que se integrará por órdenes de comparecencia, aprehensión, reaprehensión, presentación ejecutadas y pendientes de ejecutar, y órdenes de protección;
-
-VII. De vehículos robados, recuperados, asegurados y decomisados;
-
-VIII. Del padrón vehicular y de licencias de conducir;
-
-IX. De huellas dactilares;
-
-X. Del registro de voz de los Miembros, del personal que prevé el reglamento que regula la prestación de servicios de seguridad privada para el Estado, y de los imputados, acusados y sentenciados;
-
-XI. De tipo sanguíneo y de ácido desoxirribonucleico (ADN) del personal de las Instituciones de Seguridad Pública, así como de las personas probables responsables de delitos, imputadas, detenidas, acusadas, sentenciadas e identificadas administrativamente;
-
-XII. Del padrón de construcciones que se encuentre en estado de abandono que posibiliten ser utilizado por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones;
-
-XIII. De la Estadística;
-
-XIV. De los antecedentes penales de personas, y
-
-XV. Las demás que se constituyan.
-
-El reglamento establecerá la forma y términos en que se estructurará la información que forma parte de cada uno de los apartados descritos en el presente artículo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 34.
 
-La utilización del Sistema Estatal de Información sobre Seguridad Pública se hará bajo los más estrictos principios de confidencialidad, de reserva y sigilo.
+Para la debida operación de la plataforma tecnológica que sustenta el Sistema Estatal de Información, el Centro Estatal de Inteligencia Preventiva tendrá las siguientes funciones:
 
-La consulta se realizará única y exclusivamente en ejercicio de las funciones oficiales de Seguridad Pública; el público no tendrá acceso a la información que se contenga. El incumplimiento a esta disposición, así como el acceso a la información por parte de los particulares, será sancionado en base a los términos que dispone la presente Ley, sin perjuicio de responsabilidades de otra naturaleza en que se pudiera incurrir.
+l.- Establecer lineamientos para la funcionalidad, operación, respaldo, reconstrucción y seguridad de la información que integra el Sistema Estatal de Información;
 
-La información que ponga en riesgo la seguridad o atente contra las personas y su honra, será estrictamente resguardada y bajo ninguna circunstancia podrá ser hecha pública.
+II.- Proponer acciones y mecanismos de coordinación entre las Instituciones de Seguridad, para el desarrollo tecnológico y soporte técnico;
+
+III.- Realizar las acciones necesarias para garantizar a las Instituciones de Seguridad, las condiciones de acceso e interconexión al Sistema Estatal de Información;
+
+IV.- Proponer al Consejo Estatal los acuerdo (sic) relacionados con la planeación anual del desarrollo y modernización tecnológica, en los términos de la Ley General;
+
+V.- Diseñar, implementar y evaluar los programas de capacitación de los sistemas de la plataforma tecnológica;
+
+VI.- Evaluar la calidad del servicio de la plataforma tecnológica y emitir, en su caso, las recomendaciones pertinentes, y
+
+VII.- Las demás que en el ámbito de su función dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 35.
 
-La consulta de la Información del Sistema Estatal de Información sobre Seguridad Pública será obligatoria y previa al ingreso del particular a cualquier institución policial, estatal o municipal, incluyendo a las de formación policial y de prestación de servicios de seguridad privada, por lo que los Miembros y aspirantes deberán de presentarse ante la Fiscalía General para la consulta e identificación correspondiente. Con los resultados de dicha consulta, la autoridad procederá de conformidad con las normas conducentes.
+La Secretaría establecerá los lineamientos para que las Instituciones de Seguridad puedan tener acceso a la plataforma tecnológica de acuerdo a su perfil o competencia, así como certificar y reproducir cualquier información impresa o digital que se genere a partir de la base de datos con la que cuenta éste, vigilando siempre la confidencialidad, reserva de la información y demás disposiciones aplicables.
+
+Las Instituciones de Seguridad tendrán acceso ilimitado a la información que generen y requieran conforme a sus atribuciones. En el caso de que alguna requiera información diversa o adicional a su competencia, deberá solicitarlo a la Secretaría, a través del Centro Estatal de Inteligencia Preventiva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 36.
 
-Los Miembros están obligados a llenar un Informe Policial homologado, el cual contendrá la siguiente información:
+La utilización del Sistema Estatal de Información se regirá en términos de la Ley General de Transparencia y Acceso a la Información Pública y Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables leyes de la materia.
 
-I. El área que lo emite;
+La información de interés público o que ponga en riesgo la seguridad o los derechos de seguridad ciudadana de las personas, será clasificada como reservada.
 
-II. El usuario capturista;
+Sin perjuicio de lo anterior, el uso indebido del Sistema Estatal de Información será sancionado con base a lo dispuesto en la presente Ley, sin perjuicio de las responsabilidades de otra naturaleza en que se pudiera incurrir.
 
-III. Los Datos Generales de registro;
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV. Motivo, que se clasifica en:
+### CAPÍTULO II. DE LA RED ESTATAL DE COMUNICACIONES DE SEGURIDAD
 
-a. Tipo de evento
-
-b. Subtipo de evento
-
-V. La ubicación del evento y en su caso, los caminos;
-
-VI. La descripción de hechos, que deberá detallar modo, tiempo y lugar, entre otros datos;
-
-VII. Entrevistas realizadas, y
-
-VIII. En caso de detenciones:
-
-a. Señalar los motivos de la detención
-
-b. Descripción de la persona
-
-c. El nombre del detenido y apodo, en su caso
-
-d. Descripción de estado físico aparente
-
-e. Idioma que habla, y modo en que le fueron hechos saber los derechos constitucionales y legales que le asisten, en caso de no hablar español
-
-f. Objetos que le fueron encontrados
-
-g. Autoridad a la que fue puesto a disposición
-
-h. Lugar en el que fue puesto a disposición
-
-El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
-
-### CAPÍTULO V. ARMAMENTO, VEHÍCULOS Y EQUIPOS DE COMUNICACIÓN
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 37.
 
-Los Miembros que realicen detenciones deberán dar aviso administrativo de inmediato a la autoridad competente a través del Informe Policial Homologado a fin de conformar el Registro Administrativo de Detenciones, de conformidad con los procedimientos e instrumentos establecidos para tal efecto en la Ley Nacional del Registro de Detenciones.
+Los integrantes del Sistema Estatal conformarán la Red Estatal de Comunicaciones de Seguridad, como una herramienta de comunicación que les permita intercambiar, suministrar y sistematizar los datos que se generen diariamente en el ámbito de sus respectivas competencias, mediante los sistemas e instrumentos tecnológicos respectivos, cuyos registros comprenderán lo establecido por esta Ley y las disposiciones aplicables. Dicha Red Estatal de Comunicaciones tendrá como finalidad:
+
+I.- Realizar la comunicación efectiva entre las Instituciones de Seguridad;
+
+II.- Supervisar y garantizar la interconexión de los aspectos tecnológicos de la plataforma;
+
+III.- Generar la planeación y ejecución de estrategias preventivas;
+
+IV.- Profesionalizar la toma de decisiones en materia de seguridad;
+
+V.- Mejorar la capacidad de respuesta ante situaciones de riesgo;
+
+VI.- Generar indicadores confiables que apoyen el desarrollo de diagnósticos, la identificación de tendencias y la creación de escenarios para la planeación de las políticas de seguridad;
+
+VII.- Difundir de acuerdo a las condiciones y restricciones que establezcan las disposiciones jurídicas aplicables, las tendencias y resultados que arroje el propio Sistema Estatal de Información, a través de reportes y publicaciones oficiales que informen a la sociedad y hagan visible la gestión de los organismos públicos y privados relacionados con la seguridad;
+
+VIII.- Coadyuvar en la coordinación interinstitucional de las autoridades en materia de seguridad, y
+
+IX.- Auxiliar en la prevención de cualquier forma de violencia y conductas delictivas.
+
+La Secretaría adoptará las medidas pertinentes a efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y sofisticada que permita el procesamiento útil y ágil del suministro, intercambio y sistematización de la información a que se refiere este ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 38.
 
-El Registro Administrativo de la detención deberá contener los datos señalados en la Ley Nacional del Registro de Detenciones.
+EL Centro Estatal de Inteligencia Preventiva tendrá acceso a la Red Estatal de Comunicaciones de Seguridad, para el intercambio de la información que integra el Sistema Estatal de Información, al cual deberán estar enlazadas las Instituciones de Seguridad y aquellas con carácter de auxiliar previstos en la presente Ley, así como otras instituciones públicas o privadas que se consideren necesarias para el mejoramiento del servicio de asistencia telefónica y en general los servicios de seguridad en el Estado.
 
-Asimismo, señalará el modo en que se hizo del conocimiento de la persona detenida, los derechos constitucionales y legales que le asisten, en caso de no hablar español.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 39.
 
-Las Instituciones de Seguridad Pública y los Prestadores de Servicios de Seguridad Privada, proporcionarán a la Fiscalía General la información del personal que tengan adscrito independientemente de la función que desempeñen. Dicha información deberá contener por lo menos:
+La Secretaría, en coordinación con el Sistema Nacional, establecerá los criterios para la utilización en el Estado, de las frecuencias de radiocomunicación asignadas por la Comisión Federal de Telecomunicaciones para ser empleadas por las Instituciones Policiales en el Estado y la Agencia Estatal de Investigación.
 
-I. Las altas y bajas;
+Asimismo, la Secretaría en conjunto con la Federación, los municipios y las diversas Instituciones de Seguridad, realizará los trabajos necesarios con el fin de lograr la compatibilidad de los servicios de su red pública de telecomunicaciones local, con el Sistema Nacional de Información, en términos de lo previsto en la Ley General.
 
-II. Los datos generales que permitan identificar plenamente y localizar al servidor público o prestador del servicio;
+El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía, respectivamente. La Secretaría adoptará las medidas necesarias para la operación e interconexión de estos servicios con el Sistema Estatal de Información y el Sistema Nacional de Información.
 
-III. Las huellas digitales, fotografías de frente y perfiles, registro de voz y tipo sanguíneo;
-
-IV. Escolaridad y antecedentes laborales o administrativos;
-
-V. Trayectoria en los servicios desempeñados de seguridad pública o en la prestación de servicios de seguridad privada, las promociones, reconocimientos o sanciones a que se haya hecho acreedor el servidor público o prestador de servicios privados;
-
-VI. Descripción del equipo a su encargo, en su caso, casquillo y proyectil del arma de fuego que porte;
-
-VII. Cualquier cambio de adscripción, actividad o rango de servidor público, así como las razones que lo motivaron;
-
-VIII. Cuando a los Miembros o al personal operativo de los prestadores de servicios de seguridad privada se les dicte cualquier auto de procesamiento, sentencia, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, la autoridad que conozca del caso respectivo notificará inmediatamente a la Fiscalía General, y
-
-IX. Las órdenes de aprehensión, de reaprehensión, de comparecencia, de presentación o arresto administrativo, se notificarán cuando no se ponga en riesgo la investigación o la causa procesal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 40.
 
-Los titulares de las Instituciones Policiales y los Prestadores de Servicios de Seguridad Privada deberán registrar y mantener actualizados los datos relativos a sus integrantes, en los términos de la presente Ley y su Reglamento.
+La Red Estatal de Comunicaciones de Seguridad contará con un sistema de video vigilancia encaminado a auxiliar a las Instituciones de Seguridad en vialidades y puntos estratégicos, cuyo objetivo primordial es mejorar la vigilancia y seguridad apoyado en una red de cámaras que permitan identificar, detectar y reportar los eventos de emergencia, actos vandálicos o delincuencia en el instante de su comisión.
 
-### CAPÍTULO VI. IDENTIFICACIÓN
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO III. DE LOS REGISTROS ESTATALES DE INFORMACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 41.
 
-Las identificaciones de los Miembros, Agentes del Ministerio Público, Peritos, elementos de apoyo y el personal operativo de los prestadores de servicios de seguridad privada, deberán contener al menos nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad.
+El Sistema Estatal de Información contará con registros estatales que serán conformados por la información resultado de la gestión operativa y de trámite de las Instituciones de Seguridad, los cuales deberán ser utilizados exclusivamente para la consecución de los objetivos previstos esta Ley, integrándose por lo menos, con los siguientes registros:
 
-Todo servidor público tiene la obligación de identificarse salvo los casos de excepción que prevean los ordenamientos que se expidan al efecto a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
+I.- Del personal adscrito a las Instituciones de Seguridad, Fiscalía General, Instituciones de Seguridad de los municipios, así como el personal a que se refiere el Reglamento que regula la prestación de servicios de seguridad privada en el Estado;
 
-#### SECCIÓN CUARTA. CONDECORACIONES Y ESTÍMULOS
+II.- Del armamento, vehículos y equipo de las Instituciones de Seguridad, de la Fiscalía General y prestadores de servicios de seguridad privada;
+
+III.- Del padrón vehicular y de licencias de conducir;
+
+IV.- De los imputados, acusados y sentenciados;
+
+V.- De los Registros Administrativos de las Detenciones;
+
+VI.- De los Informes Policiales Homologados;
+
+VII .- De los mandamientos administrativos o judiciales, mismos que se integrarán por órdenes de comparecencia, aprehensión, reaprehensión, presentación ejecutadas y pendientes de ejecutar, y órdenes de protección;
+
+VIII.- Del registro de voz de los Miembros, del personal que prevé el Reglamento que regula la prestación de servicios de seguridad privada para el Estado, y de los imputados, acusados y sentenciados;
+
+IX.- Del tipo sanguíneo y de ácido desoxirribonucleico (ADN) del personal de las Instituciones de Seguridad, así como de personas se sentenciadas, detenidas e identificadas administrativamente;
+
+X.- De huellas dactilares;
+
+XI.- Del mapa de zonas de incidencia delictiva;
+
+XII.- Del padrón inmobiliario;
+
+XIII.- De vehículos robados, recuperados, asegurados y decomisados;
+
+XIV.- De la estadística;
+
+XV.- De los antecedentes penales;
+
+XVI.- De agentes generadores de violencia y condiciones criminógenas, reincidencia, o cualquier otra causa o factor que favorezca o genere violencia y delincuencia, en términos de la Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Baja California, y
+
+XVII.- Los demás registros que se constituyan en términos de la Ley General.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN CUARTA. DEL REGISTRO DE MEDIDAS JUDICIALES Y DE PERSONAS PRIVADAS DE LA LIBERTAD
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 42.
 
-Además de cumplir con lo dispuesto en otras leyes, las Instituciones de Seguridad Pública, así como los prestadores de servicios de seguridad privada y otros auxiliares, deberán manifestar a la Fiscalía General:
+Las Instituciones de Seguridad y los Prestadores de Servicios de Seguridad Privada, proporcionarán la información del personal que tengan adscrito, independientemente de la función que desempeñen. Dicha información deberá contener por lo menos:
 
-I. Los vehículos que tuvieren asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie, motor para el registro del vehículo;
+I.- Las altas y bajas;
 
-II. Las armas y municiones que les hayan sido autorizadas por las autoridades competentes, aportando el número de registro, la marca, modelo, calibre, matrícula, huella balística y demás elementos de identificación;
+II.- Los datos generales que permitan identificar plenamente y localizar al servidor público o prestador del servicio;
 
-III. Previo a la entrega de las armas a las Instituciones Policiales, la Fiscalía General tendrá la obligación de recabar por lo menos los datos generales del arma, fotografías y recolección de elementos testigo, y
+III.- Las huellas digitales, fotografías de frente y perfiles, registro de voz y tipo sanguíneo;
 
-IV. Los equipos de comunicación que les hayan sido autorizados por las autoridades competentes, aportando en su caso el número de registro, la marca, modelo, en su caso el nombre del funcionario o servidor público a quien se le hubiere asignado y demás elementos para su identificación.
+IV.-· Escolaridad y antecedentes laborales o administrativos;
+
+V.-· Trayectoria en los servicios desempeñados de seguridad o en la prestación de servicios de seguridad privada, las promociones, reconocimientos o sanciones a que se haya hecho acreedor el servidor público o prestador de servicios privados;
+
+VI.- Descripción del equipo a su encargo, en su caso, casquillo y proyectil del arma de fuego que porte;
+
+VII.- Cualquier cambio de adscripción, actividad o rango de servidor público, así como las razones que lo motivaron;
+
+VIII.- La información relativa a cualquier auto de procesamiento, sentencia, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, que se dicte respecto de Miembros, elementos de apoyo o servidores públicos de las Instituciones de Seguridad, o al personal de los prestadores de servicios de seguridad privada, la cual se notificará inmediatamente a la Institución de Seguridad según corresponda, y
+
+IX.-· Las órdenes de aprehensión, de reaprehensión, de comparecencia, de presentación o arresto administrativo, las cuales se notificarán cuando no se ponga en riesgo la investigación o la causa procesal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 43.
 
-Cualquier persona que ejerza funciones de seguridad, sólo podrá portar las armas de cargo que hayan sido autorizadas individualmente, o que hubiesen sido asignadas y registradas colectivamente para la Institución Policial a que pertenezcan, de conformidad con la ley de la materia.
+Los titulares de las Instituciones Policiales y los Prestadores de Servicios de Seguridad Privada deberán registrar y mantener actualizados los datos relativos a sus integrantes, en los términos de la presente Ley y su Reglamento.
 
-Las armas sólo podrán ser portadas de acuerdo con lo establecido en los ordenamientos de cada Institución Policial. El incumplimiento a la presente disposición, será sancionado conforme a las disposiciones legales aplicables.
+Para garantizar la efectividad en las actividades de seguridad, previo al ingreso a formar parte de las Instituciones de Seguridad y Prestadores de Servicios de Seguridad Privada, es obligación de sus titulares o responsables consultar el Sistema Estatal de Información. Las personas aspirantes deberán de presentarse ante la Secretaría para la consulta e identificación correspondiente. Con los resultados de dicha consulta, la autoridad o prestador de servicios procederá de conformidad con las normas aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 44.
 
-Las Instituciones de Seguridad Pública, en el caso de que aseguren armas, municiones o vehículos, lo comunicarán de inmediato a la Fiscalía General, señalando los datos de identificación de los mismos.
+Las identificaciones de los Miembros, Agentes del Ministerio Público, Peritos, elementos de apoyo y el personal operativo de los prestadores de servicios de seguridad privada, deberán contener al menos nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como las medidas de seguridad que garanticen su autenticidad.
+
+Todo servidor público tiene la obligación de identificarse salvo los casos de excepción que prevean los ordenamientos que se expidan al efecto, a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 45.
 
-Los Prestadores de servicios de seguridad privada y otros auxiliares, además de aportar los datos relativos del Sistema Estatal de Información sobre Seguridad Pública, deberán presentar en forma mensual a la Fiscalía General, un reporte detallado de la información a que se refiere el presente capítulo.
+Además de cumplir con lo dispuesto en otras leyes, las Instituciones de Seguridad, así como los prestadores de servicios de seguridad privada y otros auxiliares, deberán informar:
 
-El incumplimiento a esta disposición será sancionado conforme a los ordenamientos legales aplicables.
+I.- Los vehículos que tuvieren asignados con el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor;
+
+II.- Las armas y municiones que les hayan sido autorizadas por las autoridades competentes, aportando el número de registro, la marca, modelo, calibre, matrícula, huella balística y demás elementos de identificación;
+
+III.- Previo a la entrega de las armas a las Instituciones de Seguridad, la Secretaría tendrá la obligación de recabar por lo menos los datos generales del arma, fotografías y recolección de elementos testigo, y
+
+IV.- Los equipos de comunicación que les hayan sido autorizados por las autoridades competentes, aportando en su caso el número de registro, la marca, modelo, en su caso el nombre del funcionario o servidor público a quien se le hubiere asignado, y demás elementos para su identificación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 46.
 
-La Secretaría de Hacienda deberá proporcionar a la Fiscalía General y actualizar permanentemente los datos del Padrón Estatal Vehicular y de licencias de conducir a efecto de integrar el Sistema Estatal de Información Sobre Seguridad Pública.
+Cualquier persona que ejerza funciones de seguridad, sólo podrá portar las armas de cargo que hayan sido autorizadas individualmente, o que hubiesen sido asignadas y registradas colectivamente para la Institución de Seguridad Ciudadana a que pertenezcan y para la Fiscalía General, de conformidad con la Ley de la materia. Las armas sólo podrán ser portadas de acuerdo con lo establecido en los ordenamientos de cada Institución. El incumplimiento a la presente disposición, será sancionado conforme a las disposiciones legales aplicables.
+
+Las Instituciones de Seguridad, en el caso de que aseguren armas, municiones o vehículos, lo comunicarán de inmediato a la Secretaría, señalando los datos de identificación de los mismos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 47.
 
-En los términos de la Ley General se integrará la información estatal de datos al Sistema Único de Información Criminal, sobre personas probables responsables de delitos, indiciadas, imputadas, detenidas, procesadas, sentenciadas e identificadas administrativamente, y en su caso, el estado que guarda el proceso penal, de consulta obligatoria en las actividades de Seguridad Pública, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación.
+Los prestadores de servicios de seguridad privada y otros auxiliares, además de aportar los datos relativos del Sistema Estatal de Información, deberán presentar en forma mensual a la Secretaría, un reporte detallado de la información a que se refiere el presente capítulo. El incumplimiento a esta disposición será sancionado conforme a los ordenamientos legales aplicables.
 
-Esta base de datos se integrará dentro del Sistema Único de Información Criminal, la cual se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración, administración de justicia, reinserción social y en general, todas las instituciones que deban contribuir a la seguridad pública.
-
-Las Instituciones antes mencionadas son la (sic) que deberán de ingresar la información a que se refiere el párrafo anterior.
-
-Tales datos deberán ser capturados en los registros del Sistema Único de Información Criminal que para tal efecto establezca el Sistema Nacional de Seguridad Pública, debiendo de informarse de manera mensual a la Fiscalía General las actividades realizadas al respecto. El Sistema Estatal de Información, también contará con información Penitenciaria, la cual es la base de datos que, dentro del sistema único de información criminal, contiene, administra y controla los registros de la población penitenciaria del Estado, cumpliendo al efecto las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública y la Ley Nacional de Ejecución Penal.
-
-La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración de dicho sistema.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
-Los Ayuntamientos están obligados a conformar y a mantener actualizado un Padrón de Construcciones que se encuentren en estado de abandono que puedan ser utilizados por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones. Los Ayuntamientos deberán proporcionar la información de sus Padrones a la Fiscalía General a efecto de integrar el Sistema Estatal de Información Sobre Seguridad Pública.
+La Secretaría de Hacienda del Estado deberá proporcionar los datos actualizados de manera permanente del Padrón Estatal Vehicular y de licencias de conducir, para integrar el Sistema Estatal de Información.
 
-#### SECCIÓN QUINTA. PROMOCIÓN
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN QUINTA. DEL MAPA DE ZONAS DE INCIDENCIA DELICTIVA Y DEL PADRÓN INMOBILIARIO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 49.
 
-El Padrón de Construcciones contendrá cuando menos los datos siguientes:
+Los Miembros que realicen detenciones deberán dar aviso administrativo de inmediato a la autoridad competente a través del Informe Policial Homologado, a fin de conformar el Registro Administrativo de Detenciones, de conformidad con los procedimientos e instrumentos establecidos en la Ley Nacional del Registro de Detenciones.
 
-I. Dirección del inmueble;
+El Registro Administrativo de la Detención deberá contener los datos señalados en la Ley Nacional del Registro de Detenciones. Asimismo, señalará el modo en que se hizo del conocimiento de la persona detenida, los derechos constitucionales y legales que le asisten.
 
-II. Nombre del propietario o posesionario;
-
-III. Ilícitos en que es empleado el inmueble, y
-
-IV. Medidas y colindancias.
-
-ARTÍCULO 49 BIS.- La Secretaría estará obligada a conformar, administrar y mantener actualizado un Padrón de Arrendamientos en el Estado, con el objeto de contar con una base de datos, que sea de apoyo a las diversas autoridades en materia de investigación y procuración de justicia; así como a las autoridades judiciales. Las personas que deberán proporcionar la información en los términos de la presente Ley y el Reglamento correspondiente son:
-
-I.- El propietario del inmueble o quien se ostente como tal;
-
-II.- El poseedor debidamente reconocido, y
-
-III.- El apoderado legal con facultades para disponer del arrendamiento del bien inmueble.
-
-ARTÍCULO 49 TER.- El Padrón de Arrendamientos deberá contener por lo menos, la información siguiente:
-
-I.- Nombre del o los arrendadores;
-
-II.- Nombre del o los arrendatarios y en caso de intervenir, nombre del fiador, garante, deudor solidario;
-
-III.- Identificación oficial de los contratantes a que se refieren las fracciones anteriores;
-
-IV.- Copia del Contrato de Arrendamiento; y,
-
-V.- En su caso la información relativa a la localización y tipo de inmueble
-
-VI.- En su caso, copia del poder notarial del apoderado legal con facultades para disponer del arrendamiento del bien inmueble.
-
-La información respecto al padrón de arrendatarios, será para uso exclusivo de la Secretaría, debiéndose considerar como información clasificada como confidencial, en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 50.
 
-La Fiscalía General integrará una base de datos sobre vehículos robados y recuperados, la cual deberá actualizarse permanentemente, misma que será integrada al Sistema Estatal (sic) Información sobre Seguridad Pública. Conteniendo por lo menos los datos siguientes:
+Los Miembros están obligados a llenar un Informe Policial homologado, el cual contendrá la siguiente información:
 
-I. NUC o Averiguación previa;
+I.- El área que lo emite;
 
-II. Modalidad del robo;
+II.- El usuario capturista;
 
-III. Lugar del robo;
+III.- Los datos generales de registro;
 
-IV. Denunciante;
+IV.- Motivo, que se clasifica en:
 
-V. Datos del vehículo;
+a.- Tipo de evento, y
 
-VI. Características del vehículo;
+b.- Subtipo de evento.
 
-VII. Recuperación del vehículo;
+V.- La ubicación del evento y en su caso, los caminos;
 
-VIII. Lugar de recuperación;
+VI.- La descripción de hechos, que deberá detallar modo, tiempo y lugar, entre otros
 
-IX. Lugar de depósito;
+datos;
 
-X. Características de la recuperación y
+VII.- Entrevistas realizadas, y
 
-XI. La demás información que establezca el Sistema Nacional de Seguridad Pública.
+VIII.- En caso de detenciones:
 
-La base de datos se deberá actualizar de manera permanente, la cual le corresponderá tener disponible en el Centro de Control, Comando, Comunicación y Cómputo en el Estado, para su consulta.
+a.- Señalar los motivos de la detención;
 
-#### SECCIÓN SEXTA. ANTIGÜEDAD
+b.- Descripción de la persona;
+
+c.- El nombre del detenido y apodo, en su caso;
+
+d.- Descripción de estado físico aparente;
+
+e.- Idioma en el que habla, y modo en que le fueron hechos saber los derechos constitucionales y legales que le asisten;
+
+f.- Objetos que le fueron encontrados;
+
+g.- Autoridad a la que fue puesto a disposición;
+
+h.- Lugar en el que fue puesto a disposición.
+
+El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEXTA. DE LOS BIENES ROBADOS Y RECUPERADOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 51.
 
-La Fiscalía General, a través de las llamadas que se reciban por medio del Servicio de Asistencia Telefónica, en el Centro de Control, Comando, Comunicación y Cómputo en el Estado, con motivo del robo de un vehículo, formará de inmediato un reporte de incidente, mismo que servirá como alerta a las distintas Instituciones Policiales. Esta medida preliminar, no releva al afectado en su obligación de presentar su denuncia ante la autoridad competente.
+En los términos de la Ley General se integrará la información estatal de datos al Sistema Nacional de Información, sobre personas vinculadas con hechos violentos, probables responsables de delitos, indiciadas, imputadas, detenidas, procesadas, sentenciadas e identificadas administrativamente, y en su caso, el estado que guarda el proceso penal, de consulta obligatoria en las actividades de seguridad, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación.
 
-#### SECCIÓN SÉPTIMA. CERTIFICACIÓN
+Esta base de datos se integrará dentro del Sistema Nacional de Información, la cual se actualizará permanentemente y se conformará con la información que ingresen y aporten las Instituciones de Seguridad.
+
+Tales datos deberán ser capturados en los registros del Sistema Nacional de Información que para tal efecto establezca el Sistema Nacional debiendo informar de manera mensual a la Secretaría las actividades realizadas al respecto.
+
+El Sistema Estatal de Información también contará con información penitenciaria, la cual es la base de datos que contiene, administra y controla los registros de la población penitenciaria del Estado, cumpliendo al efecto las disposiciones de la Ley General y la Ley Nacional de Ejecución Penal.
+
+La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, evaluaciones de riesgo objetivo y razonable, datos de los procesos penales y demás información necesaria para la integración de dicho sistema.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA ESTADÍSTICA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 52.
 
-La Fiscalía General integrará una base de datos de mandamientos administrativos y judiciales, que contenga la información de las órdenes de aprehensión, reaprehensión, comparecencia, de presentaciones, y de protección giradas por la autoridad competente, misma que será integrada a (sic) Sistema Estatal (sic) Información sobre Seguridad Pública, y contendrá por lo menos:
+La Fiscalía General integrará una base de datos con las medidas relativas a mandamientos administrativos y judiciales, que contenga la información de las órdenes de aprehensión, reaprehensión, comparecencia, de presentaciones y de protección giradas por la autoridad competente, misma que será integrada al Sistema Estatal de Información y contendrá por lo menos:
 
-I. Datos de la instancia ejecutora;
+I.- Datos de la instancia ejecutora;
 
-II. Datos generales que permitan identificar a la persona;
+II.- Datos generales que permitan identificar a la persona;
 
-III. Datos del mandato;
+III.- Datos del mandato;
 
-IV. Datos de la autoridad que emite el mandamiento;
+IV.- Datos de la autoridad que emite el mandamiento;
 
-V. Datos del amparo, en su caso;
+V.- Datos del amparo, en su caso;
 
-VI. Datos del delito;
+VI.- Datos del delito;
 
-VII. Otros nombres del presunto responsable o responsables;
+VII.- Otros nombres del presunto responsable o responsables;
 
-VIII. Domicilio conocido;
+VIII.- Domicilio conocido;
 
-IX. Otro mandamiento relacionado o relacionados y
+IX.- Otro mandamiento relacionado o relacionados, y
 
-X. La demás información que establezca el Sistema Nacional de Seguridad Pública.
+X.- La demás información que establezca el Sistema Nacional.
 
-XI. Se deberá actualizar de manera permanente la información contemplada en este artículo, la cual le corresponderá tener disponible en el Centro de Control, Comando, Comunicación y Cómputo en el Estado, para su consulta.
+La información a que se refiere este artículo deberá actualizarse de manera permanente, y será obligación tenerla disponible para su consulta.
 
-#### SECCIÓN OCTAVA. PROFESIONALIZACIÓN
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES DEL SERVICIO DE CARRERA POLICIAL
 
 ###### ARTÍCULO 53.
 
-La Fiscalía General, integrará y administrará la información estatal sobre la incidencia criminológica, por lo que deberá de coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente.
+La Secretaría realizará mapas de zonas de incidencia delictiva con el propósito facilitar una base de información que favorezca la visualización y análisis de la violencia en el territorio del Estado, a efecto de contribuir a las políticas de prevención social de las violencias y las delincuencias.
 
-Las Instituciones de Seguridad Pública están obligadas a proporcionar y mantener actualizada la información sobre la incidencia criminológica, necesaria para integrar al Sistema Estatal de Información sobre Seguridad Pública.
+Los mapas de zonas de incidencia delictiva se representarán a través de mapas digitales e interactivos donde se muestren datos, cifras e indicadores que permitan describir el comportamiento delictivo y de cualquier forma violencia en un período de tiempo determinado, incluyendo su referencia espacial, temporal y su evolución.
+
+La Secretaría emitirá los lineamientos relativos a los instrumentos, criterios y procedimientos que permitan el acopio y procesamiento de datos con el propósito de obtener georreferencia de la incidencia criminal y de cualquier forma de violencia, su volumen, extensión e impacto social, y que permita comprender la problemática de seguridad pública en el Estado.
+
+Las Instituciones de Seguridad y demás instancias auxiliares, quedan obligadas a proporcionar la información obtenida de la zona donde realicen las funciones que les competan, necesaria para georreferenciar y comprender el fenómeno delictivo y sus consecuencias.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 54.
 
-El Ejecutivo del Estado por conducto de la Secretaria General de Gobierno, será la única autoridad facultada para expedir las cartas de no antecedentes penales solicitadas por particulares.
+Los mapas de zonas de incidencias delictivas tienen como propósito:
+
+I.- Identificar la ubicación geográfica de las conductas delictivas y de cualquier forma violencia, describiendo las horas, días y meses de ocurrencia de los mismos;
+
+II.- Analizar lugares de mayor concentración delincuencial, referidos tanto a la comisión del delito como a sus agentes;
+
+III.- Identificar zonas de alto riesgo;
+
+IV.- Diseñar estrategias para la intervención policial;
+
+V.- Asociar factores criminógenos detonantes de la problemática delictiva;
+
+VI.- Detectar los desplazamientos delincuenciales, referidos tanto a la comisión del delito como a sus agentes;
+
+VII.- Focalizar la aplicación de programas de prevención del delito y formas de violencia;
+
+VIII.- Evidenciar la estacionalidad del delito;
+
+IX.- Generar indicadores que faciliten la planeación estratégica y la toma de decisiones, y
+
+X.- Graficar la información que se genera con la realización de estudios o encuestas de victimización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 55.
 
-La estadística de Seguridad Pública, sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, reinserción social, sistemas de prisión preventiva, ejecución de sentencias y de adolescentes en conflicto con la ley, y los factores asociados a la problemática de Seguridad Pública.
+El padrón inmobiliario se conformará de la relación de arrendamientos y de construcciones que se encuentren en estado de abandono que puedan ser utilizados por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones en el Estado, en los términos siguientes:
 
-#### SECCIÓN PRIMERA. DERECHOS
+I.- La Secretaría estará obligada a conformar, administrar y mantener actualizado la relación de arrendamientos en el Estado, con el objeto de contar con una base de datos, que sea de apoyo a Instituciones de Seguridad; así como a las autoridades judiciales.
+
+Las personas que deberán proporcionar la información en los términos de la presente Ley, son el propietario del inmueble o quien se ostente como tal; el poseedor debidamente reconocido, y el apoderado legal con facultades para disponer del arrendamiento del bien inmueble.
+
+El padrón de arrendamientos deberá contener por lo menos:
+
+a.- Nombre del o los arrendadores;
+
+b.- Nombre del o los arrendatarios y en caso de intervenir, nombre del fiador, garante,
+
+deudor solidario;
+
+c.- Identificación oficial de los contratantes a que se refiere los incisos anteriores;
+
+d.- Copia del Contrato de Arrendamiento;
+
+e.- En su caso la información relativa a la localización y tipo de inmueble, y
+
+f.- En su caso copia del poder notarial del apoderado legal con facultades para disponer del arrendamiento del bien inmueble.
+
+II.- Los municipios están obligados a conformar y a mantener un inventario de construcciones que se encuentren en estado de abandono que puedan ser utilizados por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones.
+
+Los municipios deberán proporcionar la información de dicho inventario a la Secretaría a efecto de integrar el Sistema Estatal de Información.
+
+El inventario de construcciones tendrá cuando menos los datos siguientes:
+
+a.- Dirección del inmueble;
+
+b.- Nombre del propietario o posesionario;
+
+c.- Ilícitos en que es empleado el inmueble, y
+
+d.- Medidas y colindancias.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. SELECCIÓN
 
 ###### ARTÍCULO 56.
 
-Para efectos de la información relativa a mandamientos judiciales y administrativos, así como estadísticos, el Ministerio Público sólo podrá reservarse la información que proceda conforme a las disposiciones legales aplicables.
+La Fiscalía General establecerá una base de datos sobre bienes robados y recuperados, la cual deberá actualizarse permanentemente, misma que será integrada al Sistema Estatal Información y contendrá al menos lo siguiente:
 
-#### SECCIÓN SEGUNDA. OBLIGACIONES
+I.- NUC o Averiguación previa;
+
+II.- Modalidad del robo;
+
+III.- Lugar del robo;
+
+IV.- Denunciante;
+
+V.- Datos del bien;
+
+VI.- Características del bien;
+
+VII.- Recuperación del bien;
+
+VIII.- Lugar de depósito;
+
+IX.- La demás información que establezca el Sistema Nacional.
+
+El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano en el Estado contará con acceso a esta base de datos cuando se requiera.
+
+La Secretaría a través de las llamadas que se reciban por medio del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano en el Estado, con motivo del robo de un bien, formará de inmediato un reporte de incidente, mismo que servirá como alerta a las distintas Instituciones Policiales y a la Agencia Estatal de Investigación. Esta medida preliminar, no releva al afectado en su obligación de presentar su denuncia ante la autoridad competente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN TERCERA. INGRESO Y PERMANENCIA
 
 ###### ARTÍCULO 57.
 
-Todos los sistemas de información previstos en la presente ley deberán ser utilizados exclusivamente para la consecución de los objetivos previstos en la misma.
+La Secretaría integrará y administrará la información estatal sobre la incidencia criminológica, por lo que deberá de coordinarse con las Instituciones de Seguridad e instancias necesarias para su conformación, utilización y actualización permanente.
 
-### CAPÍTULO VII. UBICACIÓN DE CONSTRUCCIONES ABANDONADAS Y PADRON DE ARRENDAMIENTOS
+Las Instituciones de Seguridad están obligadas a proporcionar y mantener actualizada la información sobre la incidencia criminológica, necesaria para integrar al Sistema Estatal de Información.
 
-## TÍTULO CUARTO. INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
+La estadística de seguridad sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, reinserción social, sistemas de prisión preventiva, ejecución de sentencias y de adolescentes en conflicto con la Ley, y los factores asociados a la problemática de seguridad.
 
-### CAPÍTULO VIII. VEHÍCULOS ROBADOS Y RECUPERADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO ÚNICO. DE LA EJECUCIÓN DE PENAS, MEDIDAS DE SANCIÓN Y MEDIDAS JUDICIALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO CUARTO. DEL SISTEMA ESTATAL PENITENCIARIO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. DEL CENTRO DE CONTROL, COMANDO, COMUNICACIÓN, CÓMPUTO, CALIDAD Y CONTACTO CIUDADANO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 58.
 
-Las Instituciones de Seguridad Pública establecerán conjuntamente el Servicio de Asistencia Telefónica, para responder y orientar a la población en casos de emergencia, coordinar rápida y eficientemente a las Instituciones Policiales y auxiliares a que se refiere el artículo 18 de esta Ley, para que presten los primeros auxilios, atención médica y demás servicios a que se refiere esta Ley y las demás disposiciones legales aplicables.
+La ejecución material de las penas, medidas de seguridad y medidas de sanción previstas en las leyes penales, así como la administración y operación del Sistema Estatal Penitenciario, se desarrollará conforme a lo dispuesto en la Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia para Adolescentes, formarán parte de las políticas y estrategias del Estado en materia de seguridad ciudadana.
 
-El Servicio de Asistencia Telefónica deberá comprender, por lo menos, la recepción de reportes por delitos, infracciones, conductas cometidas por adolescentes tipificadas como delitos por las leyes, auxilio en la prestación de servicios médicos de urgencia y en la localización de personas, bienes y vehículos, recepción de quejas por faltas y actos delictivos de Miembros, reportes de emergencias y aquellos otros servicios que se establezcan en la presente Ley y los reglamentos aplicables.
+La administración y operación de los programas de reinserción social en los centros de reinserción social y de internamiento para Adolescentes en el Estado, buscarán fortalecer las capacidades de las personas sujetas a la ejecución de penas y medidas de seguridad, mediante el respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud, la cultura y el deporte, con el objeto de restituirles los derechos restringidos, procurando que no vuelvan a delinquir y fomentar en ellos una actitud de responsabilidad social.
 
-La Fiscalía General, coordinará la prestación del Servicio de Asistencia Telefónica a través del Centro de Control, Comando, Comunicación y Computo del Estado, y para su operación, contará por lo menos con la participación de la Guardia Estatal de Seguridad, la Agencia Estatal de Investigación, las dependencias y unidades administrativas de los Ayuntamientos encargados de la función de Seguridad Pública y los auxiliares de las Instituciones Policiales previstos en el artículo 18 fracciones II y IV de la Ley, quienes deberán designar de manera permanente el personal necesario para poder operar en forma eficaz en el centro de referencia que exista en cada municipio del Estado.
+El Sistema Penitenciario Estatal como parte integrante del Sistema Estatal se encaminará a asegurar oportunidades suficientes y adecuadas para la reinserción social a las personas privadas de su libertad y de los adolescentes, a través de los siguientes objetivos:
 
-La prestación del Servicio de Asistencia Telefónica tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
+I.- Proveer los servicios de reinserción social de las personas privadas de su libertad con el objeto de la restitución del pleno ejercicio de sus derechos tras el cumplimiento de una sanción o medida;
 
-Las Instituciones Policiales no podrán establecer centrales de mando alternas, relacionadas con la prestación del Servicio de Asistencia Telefónica que prevé esta Ley.
+II.- Promover un proceso de reintegración suficiente y adecuado para los adolescentes en conflicto con la ley;
 
-El servicio a que se refiere el presente Capítulo será brindado a través de una línea telefónica única, la cual será identificada con los números que integran los dígitos "911". La marcación de dicho número será gratuita para la población. El Centro de Control, Comando, Comunicación y Cómputo deberá de establecerse por lo menos uno por cada Municipio de la Entidad. En el Estado de Baja California, no podrán establecerse números telefónicos distintos al determinado por la autoridad competente para la prestación del Servicio de Asistencia Telefónica previsto en esta Ley.
+III.- Garantizar la gobernabilidad en los centros de reinserción social y de internamiento que favorezca la reinserción social.
 
-El personal que labore en el Centro a que se refiere el presente capítulo deberán, previo ingreso a los mismos, cumplir y aprobar los exámenes de evaluación de confianza que para tal efecto establezca la Fiscalía General.
+IV.- En materia de ejecución de penas y medidas de sanción:
 
-Las autoridades y auxiliares de la Seguridad Pública deberán atender los incidentes de las llamadas telefónicas que le sean canalizadas, de conformidad con los lineamientos que para ello establezca la Fiscalía General.
+a) La supervisión de la prisión preventiva y la ejecución material de las sanciones penales y medidas de seguridad; así como las medidas de sanción impuestas a adolescentes derivadas de una sentencia, de conformidad con las leyes respectivas a la materia;
 
-## TÍTULO QUINTO. CENTRO DE CONTROL, COMANDO, COMUNICACIÓN Y CÓMPUTO DEL ESTADO
+b) La supervisión y seguimiento a las personas sentenciadas que gozan de libertad
 
-### CAPÍTULO IX. MANDAMIENTOS JUDICIALES Y ADMINISTRATIVOS
+condicionada;
+
+c) Cumplir los mandamientos judiciales relacionados con las personas sentenciadas;
+
+d) Abrir un expediente de ejecución, así como establecer los requisitos necesarios con información precisa, actualizada e informatizada del cumplimiento de cada sanción o medida;
+
+e) Entregar a la persona titular del juzgado de ejecución la información necesaria para la realización del cómputo de penas y abono del tiempo de la prisión preventiva cumplido por la persona sentenciada;
+
+f) Dar aviso a la persona titular del juzgado de ejecución con la anticipación necesaria del cumplimiento de la pena, de la extinción de la pena o medida de seguridad, una vez transcurrido el plazo fijado en la sentencia ejecutoriada;
+
+g) Solicitar el otorgamiento de la medida de libertad anticipada de la persona sentenciada que cumpla con los requisitos previstos en la Ley Nacional de Ejecución Penal, y
+
+h) Supervisar, orientar y vigilar la conducta de sentenciado al que se le haya impuesto una medida de seguridad consistente en vigilancia personal o monitoreo.
+
+V. En materia del cumplimiento o vigilancia de medidas de protección y cautelares en los siguientes términos:
+
+a) Realizar los análisis de los perfiles de las personas imputadas con base en su entorno socioeconómico, antecedentes procesales y comportamiento a efecto de que se determine el riesgo que representa para la víctima, los testigos, la sociedad y para la continuación del proceso penal;
+
+b) Dar seguimiento y garantizar la efectividad de las medidas de protección dictadas por la autoridad competente en términos del Código Nacional de Procedimientos Penales;
+
+c) Evaluación y supervisión de las medidas cautelares distintas a la prisión preventiva y de la suspensión condicional del proceso, dictadas por la autoridad competente de conformidad con el Código Nacional de Procedimientos Penales;
+
+d) Llevar a cabo las obligaciones que como autoridad de supervisión le impone el Código Nacional de Procedimientos Penales;
+
+e) Dar cumplimiento a las órdenes de protección dictadas durante la investigación o de aquellas que, en el ámbito de su competencia, sean impuestas de conformidad con las leyes generales y locales en materia de prevención social de las violencias;
+
+f) Intervenir en los actos procesales de carácter penal en los que sea requerida su participación, y
+
+g) Llevar el registro, por cualquier medio fidedigno, de las actividades de supervisión que permita tener certeza del cumplimiento o incumplimiento de las medidas impuestas e integrarlo al Sistema Estatal de Información.
+
+El Sistema Estatal Penitenciario contará con una unidad administrativa que fungirá como autoridad de supervisión de los objetivos a que se refiere esta fracción, la cual para su debido funcionamiento y cumplimiento de sus fines tendrá adscrita un área especializada de la Fuerza Estatal de Seguridad Ciudadana que le auxiliará al cumplimiento de sus atribuciones y obligaciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO QUINTO. DEL CONTACTO Y ATENCIÓN A LA CIUDADANÍA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. DEL SERVICIO DE ASISTENCIA TELEFÓNICA A LA CIUDADANÍA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 59.
 
-El Servicio de Asistencia Telefónica funcionará de conformidad con el Reglamento respectivo que al efecto expida la Fiscalía General del Estado, el cual, por lo menos, establecerá la estructura, atribuciones y procedimientos del Centro de Control, Comando, Comunicación y Cómputo en el Estado.
+El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, es la unidad administrativa de la Secretaría que tiene por objeto la operación de los procedimientos para la prestación de los servicios de asistencia telefónica, así como de monitoreo y vídeo vigilancia, a efecto de favorecer la coordinación estratégica y operativa de las Instituciones de Seguridad, Instituciones Policiales en el Estado y Auxiliares, y la Agencia Estatal de Investigación responsables de proporcionar seguridad a la población del Estado de Baja California.
 
-Las Instituciones Policiales y sus auxiliares a que refiere el artículo 18, tendrán comunicación directa y permanente con el Servicio de Asistencia Telefónica a efecto de recibir, proporcionar y actualizar información de interés público, conforme a las reglas y lineamientos que se convengan.
+El personal que labore en el Centro a que se refiere el presente capítulo deberá, previo ingreso a los mismos, cumplir y aprobar los exámenes de evaluación de confianza que para tal efecto establezca la Secretaría.
 
-### CAPÍTULO X. ESTADÍSTICA
+El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, instrumentará la coordinación de las comunicaciones de seguridad para el intercambio de voz, datos e imágenes con las finalidades siguientes:
+
+I.- Despachar oportunamente la operación de los servicios de emergencia;
+
+II.- Facilitar el intercambio operativo de la información entre las diversas instituciones policiales del Estado, la Agencia Estatal de Investigación y de los municipios, incluyendo las dependencias de tránsito y vialidad, protección civil, bomberos, y de urgencias médicas y otros servicios públicos;
+
+III.- Atender y dar seguimiento a los llamados ciudadanos o en su caso denuncias anónimas, canalizándolas a las autoridades de seguridad ciudadana que sean competentes para su atención y, en su caso, resolución final;
+
+IV.- Proveer el uso de instrumentos de información operativa, táctica y estratégica para coordinar y facilitar el despliegue operativo policial, y
+
+V.- Establecer las bases para el funcionamiento del sistema de video vigilancia, así como los lineamientos o manuales de procedimiento a seguir para proporcionar la información obtenida por las videograbaciones, de conformidad con los acuerdos generales, convenios y demás disposiciones aplicables en la materia.
+
+REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO III. CENTRO DE DENUNCIA ANONIMA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 60.
 
-La coordinación operativa prevista en el presente Capítulo, entre las distintas Instituciones Policiales del Estado y aquellos con carácter de auxiliares previstos en el artículo 18 de la Ley, deberá llevarse a cabo únicamente a través del Centro de Control, Comando, Comunicación y Cómputo en la Entidad, en los cuales la Fiscalía General promoverá el uso de la información estratégica de Seguridad Pública, así como de la tecnología necesaria para la mejor prestación del servicio.
+Las Instituciones de Seguridad establecerán conjuntamente el Servicio de Asistencia Telefónica, para responder y orientar a la población en casos de emergencia, coordinar rápida y eficientemente a las Instituciones Policiales, la Agencia Estatal de Investigación y Auxiliares, para que presten los primeros auxilios, atención médica y demás servicios a que se refiere esta Ley y las demás disposiciones legales aplicables.
 
-La Fiscalía General deberá establecer la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del Servicio de Asistencia Telefónica.
+El Servicio de Asistencia Telefónica deberá comprender, por lo menos:
+
+I.- La recepción de reportes por delitos, infracciones y conductas cometidas por adolescentes tipificadas como delitos por las leyes;
+
+II .- Auxilio en la prestación de servicios médicos de urgencia;
+
+III.- Auxilio en la localización de personas, bienes y vehículos;
+
+IV.- Recepción de quejas por faltas y actos delictivos de Miembros;
+
+V.-· Reportes de emergencias, y
+
+VI.- Aquellos servicios que establezcan la presente Ley y los reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 61.
 
-La Fiscalía General establecerá y coordinará el servicio de denuncia anónima en el Estado, la cual será identificada con el número que integran los dígitos "089", mismo que se proporcionará a través del Centro de Control, Comando, Comunicación y Cómputo del Estado, para la recepción de las denuncias anónimas efectuadas por la población, con relación a la comisión de hechos ilícitos o infracciones que afecten la seguridad pública en la entidad.
+La Secretaría, coordinará la prestación del Servicio de Asistencia Telefónica a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, y para su operación contará por lo menos con la participación de la Fuerza Estatal de Seguridad Ciudadana, la Fiscalía General, la Agencia Estatal de Investigación, las dependencias y unidades administrativas de los municipios encargados de la función de seguridad y los auxiliares previstos en el artículo 24 fracciones I, II y IV, además del personal que se designe de forma permanente para operar en el centro de referencia que exista en cada municipio del Estado.
 
-La Fiscalía General recibirá, atenderá y canalizará a la autoridad correspondiente, las denuncias anónimas recibidas a través del servicio referido en el presente artículo, realizando el seguimiento de las mismas ante la autoridad que corresponda.
+La prestación del Servicio de Asistencia Telefónica tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
 
-Las autoridades Estatales y Municipales, deberán dar seguimiento a las denuncias que le sean canalizadas por la Fiscalía General, e informarán del resultado del mismo a dicha Fiscalía, en la forma y términos que se establezcan para dicho fin.
+Las Instituciones Policiales y la Agencia Estatal de Investigación no podrán establecer centrales de mando alternas, relacionadas con la prestación del Servicio de Asistencia Telefónica que prevé esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 62.
 
-La Fiscalía General, asegurará la confidencialidad de la información obtenida en la prestación del servicio de denuncia anónima, garantizando en todo momento el anonimato del denunciante.
+El servicio a que se refiere el presente Capítulo será brindado a través de una línea telefónica única, la cual será identificada con los números que integran los dígitos "911". La marcación de dicho número será gratuita para la población.
 
-La prestación del servicio de denuncia anónima "089", tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
+El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado deberá de establecerse por lo menos uno por cada Municipio. En el Estado de Baja California, no podrán establecerse números telefónicos distintos al determinado por la autoridad competente para la prestación del Servicio de Asistencia Telefónica previsto en esta Ley.
 
-La Fiscalía General deberá establecer la coordinación necesaria para la atención de las denuncias recibidas a través del servicio de denuncia anónima, que sean de su competencia.
+Las autoridades y auxiliares de la seguridad ciudadana deberán atender los incidentes de las llamadas telefónicas que le sean canalizadas, de conformidad con los lineamientos que para ello establezca la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 63.
 
-La Fiscalía General, a través del Centro de Control, Comando, Comunicación y Cómputo, prestará el servicio de monitoreo y operación de los sistemas de video vigilancia y de cámaras, así como de ubicación de unidades; dicho servicio se prestará de manera unificada con las Instituciones Policiales en el Estado y sus auxiliares previstos en la presente Ley. Los Ayuntamientos deberán integrar a estos Centros cualquier sistema de cámaras, video vigilancia o sistemas de ubicación geográfica de las unidades con que operen.
+El Servicio de Asistencia Telefónica funcionará de conformidad con el Reglamento respectivo que al efecto expida la Secretaría, el cual, por lo menos, establecerá la estructura, atribuciones y procedimientos del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado. Las Instituciones Policiales, la Agencia Estatal de Investigación y sus auxiliares, tendrán comunicación directa y permanente con el Servicio de Asistencia Telefónica a efecto de recibir, proporcionar y actualizar información de interés público, conforme a las reglas y lineamientos que se convengan.
 
-### CAPÍTULO XI. ANTECEDENTES PENALES
+La coordinación operativa prevista en el presente Capítulo, entre las distintas Instituciones Policiales del Estado, la Agencia Estatal de Investigación y sus auxiliares, deberá llevarse a cabo únicamente a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, en los cuales la Secretaría promoverá el uso de la información estratégica de seguridad ciudadana, así como de la tecnología necesaria para la mejor prestación del servicio.
+
+La Secretaría establecerá la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del Servicio de Asistencia Telefónica.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO] , P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 64.
 
-La Fiscalía General, a través del Centro de Control, Comando, Comunicación y Cómputo, administrará la Red Estatal De Telecomunicaciones de Seguridad Pública, para el intercambio de voz, datos e imágenes, a la cual deberán estar enlazadas las Instituciones Policiales y aquellos con carácter de auxiliar previstos en la presente Ley, así como otras instituciones públicas o privadas que se consideren necesarias para el mejoramiento del servicio de asistencia telefónica y en general los servicios de seguridad pública en el Estado.
+La Fiscalía General establecerá y coordinará el servicio de denuncia anónima en el Estado, el cual será identificado con el número que integran los dígitos "089", mismo que se proporcionará a través del Centro de Denuncia Anónima del Estado, para la recepción de las denuncias anónimas efectuadas por la población, con relación a la posible comisión de hechos delictivos o generadores de violencia que afecten la seguridad ciudadana en la entidad.
+
+El Centro de Denuncia Anónima recibirá y atenderá las denuncias anónimas recibidas y en su caso canalizando la información recibida a las autoridades competentes en materia de prevención o procuración de justicia que correspondan, realizando el seguimiento de las mismas.
+
+El Centro de Denuncia Anónima se organizará y funcionará de conformidad con las disposiciones normativas que al efecto expida la Fiscalía General de Baja California.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 65.
 
-La Fiscalía General, en coordinación con el Sistema Nacional de Seguridad Pública establecerá los criterios para la utilización en el Estado, de las frecuencias de radiocomunicación asignadas por la Comisión Federal de Telecomunicaciones para ser utilizadas por las Instituciones Policiales en el Estado.
+Las autoridades estatales y municipales, deberán dar seguimiento a las denuncias que le sean canalizadas por el Centro de Denuncia Anónima, e informarán del resultado de las mismas, en la forma y términos que se establezcan para dicho fin.
 
-## TÍTULO SEXTO. DELITOS CONTRA EL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
+En todo momento, se asegurará la confidencialidad de la información obtenida en la prestación del servicio de denuncia anónima, garantizando el anonimato del denunciante.
 
-### CAPÍTULO I. SERVICIO DE ASISTENCIA TELEFÓNICA
+La prestación del servicio de denuncia anónima "089", tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
+
+Las Instituciones de Seguridad deberán coordinarse para la atención de las denuncias recibidas por conducto del Centro, que sean de su competencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO SEXTO. DELITOS CONTRA EL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 66.
 
 Se sancionará con dos a ocho años de prisión y de quinientos a mil días multa, a quien:
 
-I. Ingrese dolosamente a las bases de datos del Sistema Estatal de Información sobre Seguridad Pública previsto en esta Ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I.- Ingrese dolosamente a las bases de datos del Sistema Estatal de Información previsto en esta Ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan;
 
 II. Divulgue de manera ilícita información clasificada de las bases de datos o sistemas informáticos a que se refiere esta Ley;
 
-III. Inscriba o registre, como Miembro, Agente del Ministerio Público, Perito, Elemento de Apoyo o personal operativo de los Prestadores de Servicios de Seguridad Privada a persona que no cuente con la certificación exigible conforme a la Ley, o a sabiendas de que la certificación es ilícita;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV. Al que ingrese a las instituciones policiales, aquellos aspirantes y miembros que no hayan cursado ni aprobado los programas de formación, capacitación y profesionalización; y
+III.- Inscriba o registre, como Miembro, o Agente Estatal de Investigación, Perito, Elemento de Apoyo o personal operativo de los Prestadores de Servicios de Seguridad Privada a persona que no cuente con la certificación exigible conforme a la Ley, o a sabiendas de que la certificación es ilícita;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV.- AI que ingrese a las Instituciones Policiales o a la Agencia Estatal de Investigación, a aquellos aspirantes y miembros que no hayan cursado ni aprobado los programas de formación, capacitación y profesionalización; y
 
 V. Asigne nombramiento de Policía, Agente del Ministerio Público, Perito, Elemento de Apoyo o personal operativo de los Prestadores de Servicios de Seguridad Privada a persona que no haya sido certificada y registrada en los términos de esta Ley.
 
@@ -895,13 +1447,17 @@ Si el responsable es o hubiera sido servidor de la Institución de Seguridad Pú
 
 ## TÍTULO SÉPTIMO. PRESTACIÓN DE SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPÍTULO II. SERVICIO DE DENUNCIA ANÓNIMA
+### CAPÍTULO I. PARTICIPACIÓN DE LA COMUNIDAD
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 67.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, las personas físicas o morales que pretendan prestar o presten los servicios de seguridad privada en el Estado, en cualquiera de las modalidades que prevé la presente Ley y el reglamento correspondiente, deberán obtener la autorización de la Fiscalía General, con la cual se integrará el Sistema Estatal de Información sobre Seguridad Pública.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, las personas físicas o morales que pretendan prestar o presten los servicios de seguridad privada en el Estado, en cualquiera de las modalidades que prevé la presente Ley y el reglamento correspondiente, deberán obtener la autorización de la Secretaría, con la cual se integrará el Sistema Estatal de Información.
 
-Ninguna persona física o moral, ni grupos o individuos podrá realizar dichas actividades, si no han obtenido autorización por parte de la Fiscalía General.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Ninguna persona física o moral, ni grupos o individuos podrá realizar dichas actividades, si no han obtenido autorización por parte de la Secretaría.
 
 Previo a la prestación de sus servicios en la entidad, los prestadores de servicios de seguridad privada que obtengan Autorización Federal para prestar sus servicios en el Estado, invariablemente deberán de cumplir con la presente Ley, el Reglamento de Seguridad Privada para el Estado de Baja California y demás normatividad aplicable.
 
@@ -933,13 +1489,17 @@ IX. En general, toda persona física o moral que realice actividades similares y
 
 Las obligaciones y prohibiciones que establezca el reglamento que regula los servicios de seguridad privada en el Estado, serán de observancia para las industrias; establecimientos fabriles o comerciales, que contraten a personal para realizar funciones de vigilancia interna, para la guarda o custodia de sus locales, bienes o valores, o para la transportación de estos últimos y que tengan una relación laboral de prestación de servicios con la unidad económica en la que desempeñen sus funciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 69.
 
-La Fiscalía General deberá publicar anualmente en el Periódico Oficial del Estado, y en uno de los de mayor circulación en la Entidad, los requisitos que deberán cumplir los prestadores de servicios de seguridad privada para obtener su registro. Sólo podrán prestar este servicio, las personas físicas o morales de nacionalidad mexicana.
+La Secretaría deberá publicar anualmente en el Periódico Oficial del Estado, y en uno de los de mayor circulación en la Entidad, los requisitos que deberán cumplir los prestadores de servicios de seguridad privada para obtener su registro. Sólo podrán prestar este servicio, las personas físicas o morales de nacionalidad mexicana.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 70.
 
-Previa a la autorización de servicios de seguridad privada, la Fiscalía General requerirá y dará vista para su opinión, a los Ayuntamientos, debiendo emitir la misma en un plazo de treinta días posteriores a su recepción.
+Previa a la autorización de servicios de seguridad privada, la Secretaría requerirá y dará vista para su opinión, a los municipios, debiendo emitir la misma en un plazo de treinta días posteriores a su recepción.
 
 ###### ARTÍCULO 71.
 
@@ -949,9 +1509,13 @@ Los sujetos a que se refiere el párrafo anterior, deberán someter a su persona
 
 La periodicidad para los procedimientos de evaluación y control de confianza, a que refiere el párrafo anterior, se determinará en el reglamento correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 72.
 
-La Fiscalía General expedirá a la persona física o moral que pretenda prestar los servicios de seguridad privada a que se refieren esta Ley y el reglamento respectivo, la autorización correspondiente en la que constará por lo menos, el número de ésta, el nombre completo y domicilio de la persona física o moral, la vigencia, la modalidad o modalidades autorizadas, y en su caso la clasificación y los límites territoriales de operación.
+La Secretaría expedirá a la persona física o moral que pretenda prestar los servicios de seguridad privada a que se refiere esta Ley y el reglamento respectivo, la autorización correspondiente en la que constará por lo menos, el número de ésta, el nombre completo y domicilio de la persona física o moral, la vigencia, la modalidad o modalidades autorizadas, y en su caso la clasificación y los límites territoriales de
+
+operación.
 
 También expedirá a los prestadores independientes a que se refiere esta Ley, la credencial que los identifique como autorizados para prestar los servicios de seguridad privada, tal credencial deberá contener los elementos y características a que se refiere el reglamento correspondiente.
 
@@ -961,31 +1525,49 @@ La autorización obtenida para la prestación de servicios de seguridad privada,
 
 La función del personal operativo de los sujetos a que se refiere esta Ley, cesará en cuanto hagan acto de presencia los Agentes del Ministerio Público o los Miembros de las Instituciones Policiales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 74.
 
-Las personas físicas o morales que presten este servicio, así como el personal que utilicen, se regirán en lo conducente por las normas que esta ley y demás ordenamientos aplicables establecen para ellos; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos y proporcionar la información y documentos para integrar el Sistema Estatal de Información sobre Seguridad Pública que le requiera la Fiscalía General.
+Las personas físicas o morales que presten este servicio, así como el personal que utilicen, se regirán en lo conducente por las normas que esta ley y demás ordenamientos aplicables establecen para ellos; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos y proporcionar la información y documentos para integrar el Sistema Estatal de Información que le requiera la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 75.
 
 Las personas físicas o morales que se dediquen a la prestación de servicios de seguridad privada en el Estado, deberán abstenerse de:
 
-I. Realizar funciones que constitucional o legalmente sean competencia exclusiva de las Instituciones Policiales en el Estado o del Gobierno Federal, y/o del Ejército, Armada o Fuerza Aérea Nacionales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II. Usar en su nombre, razón social o denominación, credenciales, identificaciones, papelería, documentación y demás bienes de éstos, las palabras "Policía", "agentes investigadores" o cualquier otra que derive de las anteriores o que pueda dar a entender una relación con las autoridades o las Instituciones Policiales en el Estado o del gobierno federal. El término “seguridad" solo podrá usarse precedente al adjetivo "privada".
+I.- Realizar funciones que constitucional o legalmente sean competencia exclusiva de las Instituciones Policiales en el Estado y de la Agencia Estatal de Investigación, del Gobierno Federal, y/o del Ejército, Armada o Fuerza Aérea Nacionales;
 
-III. Utilizar en sus gafetes, credenciales, identificaciones, documentación, insignias y demás bienes y artículos, de logotipos o nombres oficiales de las Instituciones Policiales en el Estado, del gobierno federal y/o del Ejército, Armada o Fuerza Aérea Nacionales, el escudo o colores nacionales, estatales o municipales, así como los escudos, o banderas oficiales de otros países;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV. Usar cualesquier tipo de placas o credenciales metálicas de identidad, óvalos metálicos de identificación, o cualquier otro medio similar a los de uso oficial de las Instituciones Policiales en el Estado o del gobierno federal, o de las del Ejército, Armada o Fuerza Aérea Nacionales;
+II.- Usar en su nombre, razón social o denominación, credenciales, identificaciones, papelería, documentación y demás bienes de éstos, las palabras “Policía”, “agentes investigadores” o cualquier otra que derive de las anteriores o que pueda dar a entender una relación con las autoridades o las Instituciones Policiales en el Estado, de la Agencia Estatal de Investigación o del Gobierno Federal. El término “seguridad” solo podrá usarse precedente al adjetivo “privada”.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III.- Utilizar en sus gafetes, credenciales, identificaciones, documentación, insignias y demás bienes y artículos, de logotipos o nombres oficiales de las Instituciones Policiales en el Estado, de la Agencia Estatal de Investigación, o del Gobierno Federal y/o del Ejército, Armada o Fuerza Aérea Nacionales, el escudo o colores nacionales, estatales o municipales, así como los escudos, o banderas oficiales de otros países;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV.- Usar cualquier tipo de placas o credenciales metálicas de identidad, óvalos metálicos de identificación, o cualquier otro medio similar a los de uso oficial de las Instituciones Policiales en el Estado y de la Agencia Estatal de Investigación, del Gobierno Federal, o de las del Ejército, Armada o Fuerza Aérea Nacionales;
 
 V. Utilizar vehículos cuya estancia en el país sea ilegal, sin placas de circulación o con placas que no le correspondan, sean robados o recuperados, o sin el consentimiento de su legítimo dueño;
 
-VI. Utilizar torretas que se confundan con las utilizadas por las Instituciones Policiales en el Estado o del Gobierno Federal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VI.- Utilizar torretas que se confundan con las utilizadas por las Instituciones Policiales en el Estado, la Agencia Estatal de Investigación o el Gobierno Federal;
 
 VII. Utilizar y/o instalar cualquier tipo de sirena en los vehículos que se utilicen para la prestación de los Servicios de Seguridad Privada;
 
-VIII. Utilizar uniformes, insignias, divisas, o armamento cuyo uso se encuentre reservado a las Instituciones Policiales en el Estado o del Gobierno Federal o al Ejército, Armada o Fuerza Aérea Nacionales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IX. Prestar servicios de cualquier carácter en cualquier Institución Policial en el Estado o del Gobierno Federal;
+VIII.- Utilizar uniformes, insignias, divisas, o armamento cuyo uso se encuentre reservado a las Instituciones Policiales en el Estado, a la Agencia Estatal de Investigación, o al Gobierno Federal o al Ejército, Armada o Fuerza Aérea Nacionales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX.- Prestar servicios de cualquier carácter en cualquier Institución Policial en el Estado, en la Agencia Estatal de Investigación, o en el Gobierno Federal;
 
 X. Realizar investigaciones, intervenir o interferir en asuntos que sean competencia del Ministerio Público, aún en los lugares o áreas de trabajo del personal operativo;
 
@@ -993,11 +1575,17 @@ XI. Realizar actividades de seguridad privada que no se encuentren previstas en 
 
 XII. Prestar los servicios de seguridad privada en una circunscripción distinta a la que se encuentren (sic) prevista en la autorización;
 
-XIII. Utilizar vehículos con emblemas o distintivos no autorizados; así como utilizar en sus vehículos, colores cuya combinación se asimile a los utilizados por las Instituciones Policiales en el estado, del Gobierno Federal, del Ejército, Armada y/o Fuerza Aérea Nacionales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XIV. Presentar a la Fiscalía General, documentación o información falsa o alterada;
+XIII.- Utilizar vehículos con emblemas o distintivos no autorizados; así como utilizar en sus vehículos, colores cuya combinación se asimile a los utilizados por las Instituciones Policiales en el Estado, por la Agencia Estatal de Investigación, y por el Gobierno Federal, Ejército, Armada y/o Fuerza Aérea Nacionales;
 
-XV. Realizar actos que pongan en peligro la integridad física, la vida o los bienes de particulares, mediante el uso de armas, artefactos, animales o cualquier otro objeto cuyo uso no se encuentre autorizado por la Fiscalía General;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIV.- Presentar a la Secretaría, documentación o información falsa o alterada;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XV.- Realizar actos que pongan en peligro la integridad física, la vida o los bienes de particulares, mediante el uso de armas, artefactos, animales o cualquier otro objeto cuyo uso no se encuentre autorizado por la Secretaría;
 
 XVI. Transferir o ceder la autorización;
 
@@ -1005,9 +1593,11 @@ XVII. Prestar los servicios de seguridad privada si el personal operativo no ha 
 
 XVIII. Las demás que establezcan las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 76.
 
-En materia de seguridad privada, corresponderá a la Fiscalía General:
+En materia de seguridad privada, corresponderá a la Secretaría:
 
 I. Regular, controlar y sancionar, por conducto de la unidad administrativa correspondiente la prestación de los servicios de seguridad privada en el Estado;
 
@@ -1023,13 +1613,17 @@ VI. En cuanto a los grupos de seguridad privada y grupos de seguridad que organi
 
 VII. Las demás previstas en esta Ley, el Reglamento correspondiente y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 77.
 
-En ningún caso los Miembros de las Instituciones Policiales en el Estado, podrán ser propietarios, socios, asociados, administradores, comisionistas, personal operativo o asesor, por sí o por interpósita persona, de una empresa o negociación que preste servicios de seguridad privada en el Estado.
+En ningún caso los Miembros de las Instituciones Policiales en el Estado o los Agentes de la Agencia Estatal de Investigación, podrán ser propietarios, socios, asociados, administradores, comisionistas, personal operativo o asesor, por sí o por interpósita persona, de una empresa o negociación que preste servicios de seguridad privada en el Estado.
 
 ###### ARTÍCULO 78.
 
 Los casos, condiciones, requisitos y lugares para la portación de armas de fuego, por parte del personal de los prestadores de servicios de seguridad privada a que se refiere el presente título, se ajustarán a lo dispuesto por la Ley Federal de Armas de Fuego y Explosivos, y su reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 79.
 
@@ -1041,7 +1635,9 @@ II. Multa por el equivalente de hasta cinco mil veces la Unidad de Medida y Actu
 
 III. Suspensión de la autorización hasta por noventa días naturales;
 
-IV. Cancelación de la autorización. En este caso, la Fiscalía General notificará la cancelación a las autoridades correspondientes, a efecto de que realicen, en los términos de sus competencias, los actos que legalmente procedan;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV.- Cancelación de la autorización. En este caso, la Secretaría notificará la cancelación a las autoridades correspondientes, a efecto de que realicen, en los términos de sus competencias, los actos que legalmente procedan;
 
 V. Clausura provisional, y
 
@@ -1049,43 +1645,55 @@ VI. Clausura definitiva del establecimiento.
 
 El Reglamento de Seguridad Privada para el Estado de Baja California, determinará los casos y condiciones en que se aplicarán las presentes sanciones.
 
-La Fiscalía General notificará la imposición de sanciones a la Secretaría de Hacienda, autoridad municipal correspondiente de la circunscripción territorial de los prestadores, a la Secretaría de Seguridad y Protección Ciudadana dependiente del Poder Ejecutivo Federal y a las demás autoridades que estime conveniente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-La Fiscalía General, independientemente de la sanción impuesta, apercibirá a los prestadores respecto de las consecuencias en caso de reincidencia.
+La Secretaría notificará la imposición de sanciones a la Secretaría de Hacienda, autoridad municipal correspondiente de la circunscripción territorial de los prestadores, a la Secretaría de Seguridad y Protección Ciudadana dependiente del Poder Ejecutivo Federal y a las demás autoridades que estime conveniente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+La Secretaría, independientemente de la sanción impuesta, apercibirá a los prestadores respecto de las consecuencias en caso de reincidencia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 80.
 
-La Fiscalía General podrá solicitar al Ayuntamiento que corresponda el auxilio para la supervisión del funcionamiento de las personas físicas o morales prestadoras de servicios de seguridad privada y de similar naturaleza.
+La Secretaría podrá solicitar al municipio que corresponda el auxilio para la supervisión del funcionamiento de las personas físicas o morales prestadoras de servicios de seguridad privada y de similar naturaleza.
 
 ## TÍTULO OCTAVO. PARTICIPACIÓN DE LA COMUNIDAD Y LA PREVENCIÓN DEL DELITO
 
-### CAPÍTULO III. MONITOREO Y VIDEO VIGILANCIA
+### CAPÍTULO II. PREVENCIÓN DEL DELITO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 81.
 
-En el Estado de Baja California, se establecerá y organizará un Consejo Ciudadano de Seguridad Pública como instancia colegiada de consulta y participación ciudadana. En cada uno de los municipios se deberá establecer un Comité Ciudadano de Seguridad Pública con la misma naturaleza.
+En el Estado de Baja California, se establecerá y organizará un Consejo Ciudadano de Seguridad como instancia colegiada de consulta y participación ciudadana. En cada uno de los municipios se deberá establecer un Comité Ciudadano de Seguridad con la misma naturaleza.
 
-Los Presidentes de los Comités, integrarán el Consejo Ciudadano de Seguridad Pública en calidad de Consejeros Ciudadanos, en representación de sus respectivos Municipios.
+Los Presidentes de los Comités, integrarán el Consejo Ciudadano de Seguridad en calidad de Consejeros Ciudadanos, en representación de sus respectivos Municipios.
 
-El Consejo Ciudadano de Seguridad Pública y Comités se integrarán mayoritariamente por ciudadanos y con la representación del Estado y el Ayuntamiento respectivo, que determine el reglamento correspondiente.
+El Consejo Ciudadano de Seguridad y Comités se integrarán mayoritariamente por ciudadanos y con la representación del Estado y el municipio respectivo, que determine el reglamento correspondiente.
 
-El Ejecutivo del Estado, elegirá por insaculación a tres consejeros ciudadanos que integrarán el Consejo Ciudadano de Seguridad Pública, de entre las propuestas que presenten las asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior. Dicha insaculación se realizará ante la presencia de la Comisión de Seguridad Pública del Congreso del Estado. Sólo podrán ser insaculados aquellos ciudadanos que cumplan con los requisitos que determine el reglamento.
+El Ejecutivo del Estado, elegirá por insaculación a tres consejeros ciudadanos que integrarán el Consejo Ciudadano de Seguridad, de entre las propuestas que presenten las asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior. Dicha insaculación se realizará ante la presencia de la Comisión del Congreso del Estado cuyas funciones se relacionen con la seguridad. Sólo podrán ser insaculados aquellos ciudadanos que cumplan con los requisitos que determine el reglamento.
 
-El Presidente del Consejo Ciudadano de Seguridad Pública será electo de entre los Consejeros Ciudadanos, con la aprobación de las dos terceras partes de éstos; en los mismos términos se elegirá al Presidente del Comité correspondiente.
+El Presidente del Consejo Ciudadano de Seguridad será electo de entre los Consejeros Ciudadanos, con la aprobación de las dos terceras partes de éstos; en los mismos términos se elegirá al Presidente del Comité correspondiente.
 
 El Reglamento determinará la organización, coordinación y funcionamiento del Consejo Ciudadano de Seguridad Pública.
 
-Los Ayuntamientos podrán establecer, la organización y coordinación de los Comités Ciudadanos de Seguridad Pública Municipales, que consideren pertinentes.
+Los municipios podrán establecer, la organización y coordinación de los Comités Ciudadanos de Seguridad municipales, que consideren pertinentes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 82.
 
-Los Ayuntamientos y demás dependencias de la Administración Pública Estatal, deberán de coordinarse con la Fiscalía General para la implementación y ejecución de los diversos planes, programas y acciones en materia de prevención del delito, bajo la conducción de esta última, privilegiando en todo momento la homologación en su ejecución.
+Los municipios y demás dependencias de la Administración Pública Estatal, deberán de coordinarse con la Secretaría la implementación y ejecución de los diversos planes, programas y acciones en materia de prevención del delito, bajo la conducción de esta última, privilegiando en todo momento la homologación en su ejecución.
 
-La Fiscalía General asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
+La Secretaría asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 83.
 
-Corresponde al Consejo Ciudadano de Seguridad Pública y a los Comités Ciudadanos Municipales de Seguridad Pública:
+Corresponde al Consejo Ciudadano de Seguridad y a los Comités Ciudadanos Municipales de Seguridad:
 
 I. Ser órganos de consulta, análisis y opinión en materia de seguridad pública;
 
@@ -1099,17 +1707,29 @@ V. Evaluar el cumplimiento del o los programas preventivos;
 
 VI. Promover programas a fin de arraigar y vincular al policía con la comunidad, que conlleve un sentido de integración y participación social;
 
-VII. Proponer anualmente a los Titulares y a quienes ejerzan el mando directo de las Instituciones Policiales, la entrega de la Condecoración al Mérito, al o a los Miembros que a su juicio hayan prestado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VIII. Turnar ante la Contraloría Interna de cualquier órgano que tenga a su cargo una Institución Policial correspondiente, aquellos casos en que a su juicio constituyan faltas graves a los principios de actuación previstos en la Ley, por parte de los Miembros;
+VII.- Proponer anualmente a los Titulares y a quienes ejerzan el mando directo de las Instituciones Policiales y de la Agencia Estatal de Investigación, la entrega de la Condecoración al Mérito, al o a los Miembros que a su juicio hayan prestado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos;
 
-IX. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formulen la ciudadanía contra abusos y actuaciones en que incurran los Miembros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-X. Proponer a las Instituciones Policiales, las acciones a emprender para prevenir la comisión de delitos y su impunidad;
+VIII.- Turnar ante la Contraloría Interna que tenga a su cargo una Institución Policial y la Agencia Estatal de Investigación, aquellos casos en que a su juicio constituyan faltas graves a los principios de actuación previstos en la Ley, por parte de los Miembros y los agentes de la Agencia Estatal de Investigación;
 
-XI. Fomentar la cooperación y participación de la comunidad en los siguientes aspectos:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-a) La difusión amplia del Programa de Seguridad Pública, con participación vecinal;
+IX.- Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formulen la ciudadanía contra abusos y actuaciones en que incurran los Miembros y los Agentes de la Agencia Estatal de Investigación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+X.- Proponer a las Instituciones Policiales y a la Agencia Estatal de Investigación, las acciones a emprender para prevenir la comisión de delitos y su impunidad;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XI.- Fomentar la cooperación y participación de la comunidad en los siguientes aspectos:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+a) La difusión amplia del Programa, con participación vecinal;
 
 b) La aportación de equipo complementario, el cual será destinado al servicio exclusivo de la demarcación correspondiente;
 
@@ -1119,7 +1739,9 @@ d) La difusión de programas de reclutamiento;
 
 XII. Realizar labores de seguimiento en el ejercicio de sus atribuciones;
 
-XIII. Proponer a las autoridades competentes, de conformidad con las facultades que le concede este capítulo, programas de participación de la comunidad en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIII.- Proponer a las autoridades competentes, de conformidad con las facultades que le concede este capítulo, programas de participación de la comunidad en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad ciudadana;
 
 XIV. Asistir, previa invitación, a las sesiones de los Comités Técnicos u órganos de administración, respecto de los Fideicomisos que se constituyan para el manejo de los recursos económicos que hayan de ejercerse en el Estado para el rubro de seguridad pública;
 
@@ -1131,29 +1753,37 @@ XVII. Difundir e impulsar políticas y acciones destinadas en materia de salud p
 
 XVIII. Las demás que establezca la Ley y los Reglamentos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 84.
 
-El Consejo Ciudadano y los Comités Ciudadanos Municipales de Seguridad Pública, tendrán derecho a recibir la información que les permita participar adecuadamente, en el ámbito de sus atribuciones; en la Seguridad Pública de su respectiva demarcación. Igualmente, tendrán derecho a recibir respuestas por escrito a sus peticiones o comentarios, por parte de la autoridad correspondiente, siempre y cuando no esté clasificada como reservada o confidencial por las disposiciones legales aplicables.
+El Consejo Ciudadano y los Comités Ciudadanos Municipales de Seguridad, tendrán derecho a recibir la información que les permita participar adecuadamente, en el ámbito de sus atribuciones; en la seguridad de su respectiva demarcación. Igualmente, tendrán derecho a recibir respuestas por escrito a sus peticiones o comentarios, por parte de la autoridad correspondiente, siempre y cuando no esté clasificada como reservada o como confidencial por las disposiciones legales aplicables.
 
-### CAPÍTULO IV. RED ESTATAL DE TELECOMUNICACIONES DE SEGURIDAD PÚBLICA
+### CAPÍTULO III. PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
 
 ###### ARTÍCULO 85.
 
-La Fiscalía General será la encargada de diseñar, difundir, dar seguimiento y evaluar periódicamente la política y programas en materia de prevención del delito en el Estado, tomando en consideración la estadística delictiva en la entidad, las conductas antisociales y para social (sic) que pudieran ser un factor en la comisión de delitos, así como la opinión de la comunidad y de los organismos de la sociedad civil.
+La Secretaría será la encargada de diseñar, difundir, dar seguimiento y evaluar periódicamente la política y programas en materia de prevención del delito en el Estado, tomando en consideración la estadística delictiva en la entidad, las conductas antisociales y para social que pudieran ser un factor en la comisión de delitos, así como la opinión de la comunidad y de los organismos de la sociedad civil.
 
 En la elaboración de la política y programas en materia de prevención del delito se deberá vincular con los programas sectoriales de salud, educación, desarrollo económico y social, así como con todas aquellas materias que atañen a la seguridad pública, para lograr armonía en las políticas públicas, tanto en el Ejecutivo Estatal como en los Municipios.
 
 En la prevención del delito se dará particular énfasis en el diseño de programas que involucren a niñas, niños y adolescentes, estudiantes y personas en estado de marginación social.
 
-Para la atención de la prevención del delito la Fiscalía General gestionará la asignación de recursos suficientes para su cumplimiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Para la atención de la prevención del delito la Secretaría gestionará la asignación de recursos suficientes para su cumplimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 86.
 
-Los Ayuntamientos y demás dependencias de la Administración Pública Estatal, deberán de coordinarse con la Fiscalía General para la implementación y ejecución de los diversos planes, programas y acciones en materia de prevención del delito, bajo la conducción de esta última, privilegiando en todo momento la homologación en su ejecución.
+Los municipios y demás dependencias de la Administración Pública Estatal, deberán de coordinarse con la Secretaría para la implementación y ejecución de los diversos planes, programas y acciones en materia de prevención del delito, bajo la conducción de esta última, privilegiando en todo momento la homologación en su ejecución.
 
-La Fiscalía General asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
+La Secretaría asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1187,9 +1817,11 @@ d) La participación ciudadana y comunitaria, a través de mecanismos que garant
 
 e) El fomento de las actividades de las organizaciones de la sociedad civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 89.
 
-Las Instituciones de Seguridad Pública, en el ámbito de sus atribuciones y en el marco del Sistema Nacional de Seguridad Pública, deberán:
+Las Instituciones de Seguridad, en el ámbito de sus atribuciones y en el marco del Sistema Nacional, deberán:
 
 I. Proporcionar información a las comunidades para enfrentar los problemas derivados de la delincuencia; siempre que no vulnere los principios confidencialidad y reserva;
 
@@ -1203,11 +1835,17 @@ Se entiende por participación ciudadana y comunitaria a la colaboración de dif
 
 ## TÍTULO NOVENO. DESARROLLO POLICIAL
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. COMISIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 91.
 
-El desarrollo policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Miembros de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, seguridad e igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio, y garantizar el cumplimiento de los principios constitucionales y de la presente Ley.
+El desarrollo policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Miembros de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, seguridad e igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio, y garantizar el cumplimiento de los principios constitucionales y de la Ley General.
+
+La Agencia Estatal de Investigación se sujetará a lo dispuesto en esta Ley para las Instituciones Policiales en materia de carrera policial.
+
+Las reglas y procesos en materia de carrera policial y régimen disciplinario de la Agencia Estatal de Investigación, serán aplicados, operados y supervisados por la Fiscalía General.
 
 ###### ARTÍCULO 92.
 
@@ -1215,17 +1853,23 @@ Cuando la titularidad, el ejercicio del mando directo o cargo inmediato inferior
 
 Las faltas administrativas en que incurran en el ejercicio de sus funciones se sujetarán a los procedimientos que dispongan las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 93.
 
 Para la aplicación de esta Ley, tendrán fe pública:
 
-I. El titular de la dependencia de que se trate, de la Fiscalía General, de la Comisión Estatal del Sistema Penitenciario y los que ejerzan el mando directo de las Instituciones Policiales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I.- El titular de la dependencia de que se trate, de la Fiscalía General, de la Secretaría, de la Comisión Estatal del Sistema Penitenciario y los que ejerzan el mando directo de las Instituciones Policiales;
 
 II. El titular de la Contraloría Interna,
 
 III. Las Comisiones; y
 
 IV. El personal encargado de auxiliar a las autoridades responsables en el procedimiento de la separación definitiva o sanción de los Miembros por infringir las disposiciones de esta Ley y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 94.
 
@@ -1237,37 +1881,49 @@ II. Aquellas personas que desempeñen el cargo inmediato inferior a quienes ejer
 
 III. El personal encargado de auxiliar a las autoridades responsables de la separación definitiva o sanción de los Miembros por infringir las disposiciones de esta Ley y sus reglamentos;
 
-IV. Tratándose de los Ayuntamientos, éstos determinarán en sus respectivos reglamentos, quienes, en su caso, serán excluidos de la aplicación de las disposiciones contenidas en esta Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV.- Tratándose de los municipios, éstos determinarán en sus respectivos reglamentos, quienes, en su caso, serán excluidos de la aplicación de las disposiciones contenidas en esta Ley.
 
 ###### ARTÍCULO 95.
 
 En lo no previsto por este título, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 96.
 
-Las Instituciones Policiales serán de carácter civil, disciplinado y profesional. Deberán fomentar la participación de la comunidad y rendir cuentas en términos de ley.
+Las Instituciones Policiales y la Agencia Estatal de Investigación serán de carácter civil, disciplinado y profesional. Deberán fomentar la participación de la comunidad y rendir cuentas en términos de ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 97.
 
 Las Instituciones Policiales, para el mejor cumplimiento de sus objetivos, establecerán, cuando menos, las siguientes áreas operativas:
 
-I. Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-La atribución de investigación sobre la comisión de los delitos corresponde al Ministerio Público, conforme al artículo 21 de la Ley Orgánica de la Fiscalía General del Estado de Baja California, por lo cual las instituciones policiales le auxiliarán y estarán bajo su mando.
+I.- Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información.
 
-II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II.- Prevención, que será la encargada de prevenir la comisión de hechos violentos, la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
 
 III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos;
 
 IV. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local y
 
-V. La atribución de la investigación para disuasión y prevención de los delitos corresponde a la Guardia Estatal de Seguridad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V.- La atribución de la investigación para disuasión y prevención de los delitos corresponde a la Fuerza Estatal de Seguridad Ciudadana.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 98.
 
 Las unidades de policía encargadas de la investigación científica de los delitos se ubicarán en la estructura orgánica de la Fiscalía General, en cuyo caso se coordinarán en los términos de esta Ley y demás disposiciones aplicables para el desempeño de dichas funciones.
 
-Los Miembros ubicados dentro de la estructura orgánica de la Fiscalía General, se sujetarán a lo dispuesto en la presente Ley, quedando a cargo de ésta, la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1280,6 +1936,8 @@ II. Inspectores;
 III. Oficiales, y
 
 IV. Escala Básica.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 En la Agencia Estatal de Investigación se establecerán al menos niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
 
@@ -1339,11 +1997,11 @@ I. Para las áreas operativas, de policía a Comisario General, y
 
 II. Para los servicios, de policía a Comisario Jefe.
 
-### CAPÍTULO I. PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO III. SERVICIO DE CARRERA POLICIAL Y PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 103.
 
-El Estado y los Municipios establecerán instancias colegiadas para conocer y resolver toda controversia que se suscite con relación a los procedimientos de la Carrera Policial y el Régimen Disciplinario de los Miembros de las Instituciones Policiales.
+La Secretaría, la Fiscalía General y los municipios establecerán instancias colegiadas para conocer y resolver toda controversia que se suscite con relación a los procedimientos de la Carrera Policial y el Régimen Disciplinario de los Miembros de las Instituciones Policiales.
 
 ###### ARTÍCULO 104.
 
@@ -1369,15 +2027,19 @@ La Comisión velará por la honorabilidad y reputación de las Instituciones Pol
 
 Para tal efecto gozará de la más amplia facultad para examinar los expedientes u hojas de servicio de los Miembros y practicar las diligencias que le permitan allegarse de elementos necesarios al dictar resolución en los procedimientos de separación definitiva por falta de requisitos de permanencia y demás casos previstos en esta ley o de remoción del cargo, por responsabilidad administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 107.
 
-La integración, organización y funcionamiento de la Comisión se establecerá en el reglamento que expida el Ejecutivo Estatal, la Fiscalía General y los Municipios, en sus respectivos ámbitos de competencia.
+· La integración, organización y funcionamiento de la Comisión se establecerá en el reglamento que expida el Ejecutivo Estatal, la Secretaría, la Fiscalía General y los municipios, en sus respectivos ámbitos de competencia.
 
 La Comisión deberá contemplar representantes de las unidades operativas de investigación, prevención, reacción de las Instituciones Policiales así como de los Órganos Internos de Control de las instituciones de seguridad pública previstas en la presente Ley.
 
-### CAPÍTULO II. PREVENCIÓN DEL DELITO
+### CAPÍTULO IV. CONDICIONES DEL SERVICIO
 
-#### SECCIÓN PRIMERA. PRINCIPIOS DE ACTUACIÓN
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN CUARTA. CONDECORACIONES Y ESTÍMULOS
 
 ###### ARTÍCULO 108.
 
@@ -1401,6 +2063,8 @@ La Carrera Policial es el sistema de carácter obligatorio y permanente, conform
 
 El servicio policial de carrera es el mecanismo institucional para garantizar la igualdad de oportunidades con base en el mérito y con el fin de impulsar el desarrollo de la función pública para beneficio de la sociedad, constituyéndose en un instrumento de profesionalización de la seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 111.
 
 La Carrera Policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las normas mínimas siguientes:
@@ -1411,7 +2075,9 @@ Constituye, asimismo, impedimento particular para el ingreso, contar con anteced
 
 II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirán los Centros de Control de Confianza del Estado;
 
-III. Ninguna persona podrá ingresar a las Instituciones Policiales si no ha sido debidamente certificado y registrado en el Sistema Nacional de Seguridad Publica;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III.· Ninguna persona podrá ingresar a las Instituciones Policiales si no ha sido debidamente certificado y registrado en el Sistema Nacional;
 
 IV. Sólo ingresarán y permanecerán en las Instituciones Policiales, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
 
@@ -1427,6 +2093,46 @@ VIII. Se determinará un régimen de estímulos y previsión social que correspo
 
 IX. Los Miembros podrán ser cambiados de adscripción, con base en las necesidades del servicio, en los términos que se prevean (sic) el reglamento de la presente ley y demás reglamentos respectivos;
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+El cambio de adscripción o funciones de los Miembros estará sujeto al cumplimiento de las condiciones y requisitos siguientes:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+a) Solicitud por escrito del superior jerárquico que requiere el cambio de adscripción o de funciones por necesidades del servicio;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+b) Observar en el cambio de adscripción las previsiones siguientes:
+
+La notificación por escrito a los Miembros del cambio de adscripción cuando:
+
+1. Sea a una distancia mayor de 80 kilómetros del centro de trabajo al que se encuentre adscrito y preste sus servicios, y
+
+2. Sea por más de 30 días o más o, en forma permanente.
+
+El oficio de notificación de cambio de adscripción deberá contener en todos los casos el tiempo de duración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+c) Se preferirá hacer el cambio de adscripción de los Miembros al centro de trabajo más cercano;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+d) Los supuestos y el procedimiento de revisión de Miembros para ser objeto de cambios de adscripción deberán establecerse en el reglamento de esta Ley, así como en los que expidan las autoridades competentes en esta materia, procurando en todos los casos afectar lo menos posible su entorno familiar;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+e) La ayudantía o apoyo económico para solventar los gastos que represente el cambio de adscripción por tiempo determinado, así como de traslado, hospedaje y alimentación cuando sea a más de 80 kilómetros del centro de trabajo donde se encuentre adscrito y preste sus servicios, y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+f) La petición de los Miembros de cambio de adscripción solo se podrá realizar por permuta o vacante, siempre y cuando sea a un mismo puesto y función que se desempeña.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Las disposiciones reglamentarias que emitan las demás autoridades en la materia deberán prever los requisitos y el procedimiento de cambio de adscripción a partir de las condiciones establecidas en esta Ley.
+
 X. El cambio de un Miembro de un área operativa a otra de distinta especialidad, requerirá autorización del titular de la Institución Policial, y
 
 La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en las Instituciones Policiales. En ningún caso habrá inamovilidad en los cargos administrativos y de dirección.
@@ -1437,7 +2143,7 @@ En términos de las disposiciones aplicables, los titulares de las Instituciones
 
 Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría o jerarquía inmediata superior y ser separado, en los términos y las condiciones que establecen la Ley General, esta Ley, y el Reglamento correspondiente.
 
-#### SECCIÓN SEGUNDA. SANCIONES
+#### SECCIÓN QUINTA. PROMOCIÓN
 
 ###### ARTÍCULO 113.
 
@@ -1445,7 +2151,7 @@ La selección es el proceso que consiste en elegir, de entre los aspirantes que 
 
 Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias correspondientes sobre los aspirantes aceptados.
 
-#### SECCIÓN TERCERA. INVESTIGACIÓN ADMINISTRATIVA
+#### SECCIÓN SEXTA. ANTIGÜEDAD
 
 ###### ARTÍCULO 114.
 
@@ -1458,6 +2164,8 @@ La permanencia es el resultado del cumplimiento constante de los requisitos esta
 ###### ARTÍCULO 116.
 
 Son requisitos de ingreso y permanencia en las Instituciones Policiales, los siguientes:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO -REPUBLICADO-], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 A. De Ingreso:
 
@@ -1503,13 +2211,17 @@ XVII. Cumplir con los deberes establecidos en esta Ley, y demás disposiciones q
 
 XVIII. Los demás que establezcan otras disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO -REPUBLICADO-], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 B. De Permanencia:
 
 I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
 
 II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-III. No tener antecedentes penales por delito doloso en el país o por aquellos que se consideren como tales en el extranjero;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021
+
+III. No tener antecedentes penales por delito doloso en el país o por aquellos que se consideren delitos en el extranjero;
 
 IV. Mantener actualizado su Certificado Único Policial;
 
@@ -1559,7 +2271,9 @@ XXII. Las demás que establezcan las disposiciones legales aplicables.
 
 Las instancias responsables del servicio de carrera policial fomentarán la vocación de servicio mediante la promoción y permanencia en las Instituciones Policiales para satisfacer las expectativas de desarrollo profesional de sus Miembros.
 
-#### SECCIÓN CUARTA. SUSPENSIÓN PREVENTIVA
+#### SECCIÓN SÉPTIMA. CERTIFICACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 118.
 
@@ -1603,7 +2317,7 @@ Las retribuciones económicas, se determinarán en el Reglamento y se otorgarán
 
 Los estímulos se ajustarán a lo establecido en el Decreto de Presupuesto de Egresos y se otorgarán a los Miembros que se hayan distinguido.
 
-#### SECCIÓN QUINTA. PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
+#### SECCIÓN OCTAVA. PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 124.
 
@@ -1663,17 +2377,21 @@ VIII. Cuando haya igualdad en las dos primeras, la antigüedad será las que se 
 
 La antigüedad para los elementos se contará desde la fecha en que hayan causado alta en forma ininterrumpida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 130.
 
 No se computará como tiempo de servicio:
 
 I. El de las licencias ordinarias y extraordinarias, cuando se concedieron para asuntos particulares;
 
-II. El de las comisiones fuera del servicio de la Policía y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II.- El de las comisiones fuera del servicio de la Institución Policial, y
 
 III. El de las suspensiones, en los casos en que éstas sean obstáculos para la concesión del ascenso.
 
-#### SECCIÓN SEXTA. NOTIFICACIONES
+#### SECCIÓN PRIMERA. DERECHOS
 
 ###### ARTÍCULO 131.
 
@@ -1685,11 +2403,11 @@ II. Antigüedad en el grado, a partir de la fecha señalada en la constancia de 
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
+#### SECCIÓN SEGUNDA. OBLIGACIONES
+
 ###### ARTÍCULO 132.
 
-La certificación es el proceso mediante el cual los Miembros de las Instituciones Policiales se someten a las evaluaciones periódicas establecidas por el Centro de Control y Confianza, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
-
-Las Instituciones Policiales contratarán únicamente al personal que cuente con el requisito de certificación expedido por el Centro de Control de Confianza.
+La certificación es el proceso mediante el cual los Miembros de las Instituciones Policiales se someten a las evaluaciones periódicas de control y confianza, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia. Las Instituciones Policiales contratarán únicamente al personal que cuente con el requisito de certificación expedido conforme a la Ley.
 
 ###### ARTÍCULO 133.
 
@@ -1711,13 +2429,19 @@ V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por
 
 VI. Cumplimiento de los deberes establecidos en esta Ley.
 
+#### SECCIÓN PRIMERA. PRINCIPIOS DE ACTUACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 134.
 
 La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los Miembros de las Instituciones Policiales.
 
-Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que apruebe el Sistema Nacional de Seguridad Pública.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO III. PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que apruebe el Sistema Nacional.
+
+### CAPÍTULO V. DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
 
 ###### ARTÍCULO 135.
 
@@ -1735,9 +2459,13 @@ IV. Licencias: El permiso concedido al Miembro para ausentarse temporalmente de 
 
 V. Seguridad Social: Comprende todas aquellas prerrogativas de salud y las demás que expresamente otorguen cada una de las Instituciones de Seguridad Pública a los Miembros, así como a sus familias y dependientes, en los términos del título décimo de la presente ley y demás disposiciones que resulten aplicable (sic).
 
-El titular del Poder Ejecutivo, la Fiscalía General y los Municipios, en sus respectivos ámbitos de competencias, reglamentarán las condiciones del servicio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+La persona titular del Poder Ejecutivo, la Secretaría, la Fiscalía General y los Municipios, en sus respectivos ámbitos de competencias, reglamentarán las condiciones del servicio.
+
+### CAPÍTULO VI. RÉGIMEN DISCIPLINARIO
+
+#### SECCIÓN SEGUNDA. SANCIONES
 
 ###### ARTÍCULO 136.
 
@@ -1770,6 +2498,8 @@ XI. Participar, a invitación de instituciones educativas públicas como instruc
 XII. Gozar de los apoyos necesarios para contar con una adecuada preparación académica y de facilidades para proseguir con sus estudios desde el nivel básico hasta el de carácter profesional;
 
 XIII. Los demás que les confieran las Leyes y reglamentos de la materia.
+
+#### SECCIÓN TERCERA. INVESTIGACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 137.
 
@@ -1809,7 +2539,9 @@ XVI. Dar aviso por escrito a la Institución Policial de cualquier cambio de dom
 
 XVII. Portar el uniforme e identificación oficial durante la prestación del servicio;
 
-XVIII. No portar ni utilizar teléfono celular, aparato de radiocomunicación o cualquier otro aparato de comunicación diverso al asignado oficialmente, durante la prestación del servicio, salvo autorización por escrito en contrario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XVIII. No portar ni utilizar aparatos de radiocomunicación o cualquier otro aparato de comunicación diverso al asignado oficialmente durante la prestación del servicio; la portación y uso de teléfono celular en la prestación del servicio solo estará permitido cuando sea para los efectos previstos en el artículo 17 de la Ley Nacional del Registro de Detenciones; los miembros que en la prestación del servicio hagan una utilización indebida podrán ser sujetos de responsabilidades ulteriores;
 
 XIX. Acreditar que conoce esta Ley, su reglamento y demás leyes aplicables y relativas al servicio de Seguridad Pública;
 
@@ -1885,11 +2617,13 @@ LIII. En los casos de flagrancia, detener al presunto responsable de los hechos 
 
 LIV. Las demás que establezcan las disposiciones legales aplicables.
 
-### CAPÍTULO II. COMISIÓN
+### CAPÍTULO VII. CONCLUSIÓN DEL SERVICIO E INDEMNIZACIÓN
+
+#### SECCIÓN CUARTA. SUSPENSIÓN PREVENTIVA
 
 ###### ARTÍCULO 138.
 
-La actuación de los Miembros de las Instituciones Policiales se regirá por los principios de los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos y 4 de la Ley.
+La actuación de los Miembros de las Instituciones Policiales se regirá por los principios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley General.
 
 La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
 
@@ -1897,11 +2631,15 @@ La disciplina es la base del funcionamiento y organización de las Instituciones
 
 La disciplina demanda respeto y consideración mutua entre quien ostente un mando y sus subordinados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 139.
 
 Las Instituciones Policiales ejercerán entre otras las siguientes atribuciones:
 
-I. Implementar acciones de prevención de delitos y faltas administrativas, manteniendo el orden y paz públicos, fomentando con su actuar la observancia de los principios establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberado de Baja California y los derechos humanos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I.- Implementar acciones de prevención de las violencias, faltas administrativas y delitos, manteniendo el orden y paz públicos, fomentando con su actuar la observancia de los principios establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California y los derechos humanos;
 
 II. Proteger en todo momento la integridad, propiedades, garantías individuales, derechos y libertades de las personas, así como respetar los derechos humanos;
 
@@ -1915,7 +2653,9 @@ VI. Realizar la investigación para la prevención y disuasión de infracciones 
 
 VII. Brindar apoyo y auxilio a la ciudadanía en labores de protección civil cuando así se requiera, así como brindar orientación a víctimas de delito;
 
-VIII. Dar cumplimiento a lo dispuesto en el Programa Estatal de Seguridad, observando las recomendaciones y sugerencias del Consejo de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Dar cumplimiento a lo dispuesto en el Programa, observando las recomendaciones y sugerencias del Consejo Estatal;
 
 IX. Llevar el registro y control estadístico de los delitos contenidos en las leyes;
 
@@ -1929,13 +2669,17 @@ XII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 Le corresponde a los Municipios expedir la reglamentación que contenga las disposiciones jerárquicas, de estructura normativa, operativas, administrativas, principios de organización y funcionamiento, de organización territorial, mandos administrativos y operativos, patrullaje, vigilancia, dirección y disciplina del régimen interno de la Policía Municipal, con sujeción a las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 141.
 
-Las Instituciones Policiales exigirán de sus Miembros el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad y los derechos de las personas, prevenir la comisión de delitos, y preservar las libertades, el orden y la paz públicos.
+Las Instituciones Policiales exigirán de sus Miembros el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad y los derechos de las personas, prevenir las violencias y la comisión de delitos, y preservar las libertades, el orden y la paz públicos.
 
 ###### ARTÍCULO 142.
 
 El régimen disciplinario se ajustará a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y los ordenamientos legales aplicables y comprenderá los deberes, las sanciones y los procedimientos para su aplicación.
+
+#### SECCIÓN QUINTA. PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTÍCULO 143.
 
@@ -2001,6 +2745,8 @@ V. Intencionalidad o negligencia; y
 
 VI. Los demás elementos, circunstancias, condiciones y consecuencias que afecten la debida prestación del servicio.
 
+#### SECCIÓN SEXTA. NOTIFICACIONES
+
 ###### ARTÍCULO 148.
 
 La Contraloría Interna, de manera previa a la substanciación del procedimiento de separación definitiva o de responsabilidad administrativa, deberá realizar fundada y motivadamente una investigación administrativa y suspender de manera preventiva al miembro cuando así lo considere conveniente, a efecto de realizar las diligencias para allegarse de elementos que le permitan, en su caso, solicitar a la Comisión, iniciar el procedimiento correspondiente.
@@ -2021,11 +2767,25 @@ La suspensión preventiva no prejuzga sobre la falta de algún requisito de perm
 
 La suspensión preventiva se levantará, cuando así lo resuelva la Contraloría Interna o la Comisión, según corresponda.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+La suspensión preventiva declarada por la Contraloría Interna será por el tiempo estrictamente para llevar a cabo investigación administrativa.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+La declarada por la Comisión no podrá extenderse más allá de la citación para la resolución que corresponda o hasta por un plazo de doce meses.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 153.
 
-La suspensión preventiva trae como consecuencia separar temporalmente al Miembro de su cargo, así como privarlo de los derechos establecidos en las fracciones I, IV, V, VI, VII, y VIII del artículo 136 de esta Ley.
+La suspensión preventiva trae como consecuencia separar temporalmente al Miembro de su cargo, así como privarlo de los derechos establecidos en las fracciones I, IV, VI y VIII del artículo 136 de esta Ley.
 
 La Contraloría Interna y la Comisión están obligadas a informar y notificar oportunamente a la autoridad encargada de hacer las remuneraciones y comisiones de servicio, de la suspensión preventiva para los efectos legales correspondientes; igual obligación subsiste cuando se determine levantar la suspensión decretada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+En todos los casos la imposición de la suspensión preventiva deberá garantizar a los Miembros el mínimo vital equivalente al 30 % (treinta por ciento) de su ingreso real, el cual no puede ser inferior al salario tabular más bajo que se cubra en la Institución Policial a la que se pertenezca.
 
 ###### ARTÍCULO 154.
 
@@ -2033,11 +2793,13 @@ En caso de que no se acredite la falta de un requisito de permanencia, o se incu
 
 No existirá el derecho del Miembro de percibir remuneración, cuando no preste sus servicios durante el tiempo en que haya sido privado de su libertad, con motivo de una investigación, averiguación previa o procedimiento penal de orden local, federal, u otro similar en el extranjero.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 155.
 
-Le corresponde a la Fiscalía General verificar que las sanciones descritas en los artículos anteriores y que sean impuestos a los servidores públicos sean debidamente integradas al registro del personal de Seguridad Pública, procurando que dicha información conste por escrito y sea actualizada permanentemente.
+Le corresponde a la Secretaría verificar que las sanciones descritas en los artículos anteriores y que sean impuestos a los miembros sean debidamente integradas al registro del personal de seguridad Pública, procurando que dicha información conste por escrito y sea actualizada permanentemente.
 
-Las autoridades que apliquen sanciones conforme a lo previsto en esta ley, deberán remitir la información al respecto, de manera inmediata, a la Fiscalía General.
+Las autoridades que apliquen sanciones conforme a lo previsto en esta ley, deberán remitir la información al respecto, de manera inmediata, a la Secretaría.
 
 ###### ARTÍCULO 156.
 
@@ -2071,9 +2833,11 @@ En el mismo acuerdo, decretar o ratificar en su caso, la suspensión preventiva 
 
 La falta de notificación en los términos indicados, obliga a la Comisión a señalar nuevo día y hora para la celebración de la audiencia, misma que deberá realizarse dentro de los quince días siguientes a la fecha que inicialmente se hubiere fijado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 161.
 
-En caso de que en el día de la celebración de la audiencia, el Miembro no pueda defenderse por sí o por persona de su confianza, se le asignará un Defensor de Oficio.
+En caso de que en el día de la celebración de la audiencia, el Miembro no pueda defenderse por sí o por persona de su confianza, se le asignará un Defensor Público.
 
 ###### ARTÍCULO 162.
 
@@ -2157,9 +2921,11 @@ Una vez desahogadas las pruebas, se pasará a la etapa de alegatos, que podrán 
 
 La resolución que emita la Comisión se notificará al órgano de control interno y al Miembro conforme a lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 176.
 
-La Comisión, una vez notificado el Miembro, está obligada a informar oportunamente la resolución a la Institución de Seguridad Pública que corresponda, así como al Sistema Estatal de Información sobre Seguridad Pública, para los efectos legales correspondientes.
+La Comisión, una vez notificado el Miembro, está obligada a informar oportunamente la resolución a la Institución de Seguridad Ciudadana que corresponda, así como al Sistema Estatal de Información, para los efectos legales correspondientes.
 
 ###### ARTÍCULO 177.
 
@@ -2223,7 +2989,7 @@ Si el Miembro no hubiere señalado domicilio para oír y recibir notificaciones 
 
 Las notificaciones surtirán sus efectos al día siguiente al que se practiquen.
 
-### CAPÍTULO III. SERVICIO DE CARRERA POLICIAL Y PROFESIONALIZACIÓN
+### CAPÍTULO VIII. PRESCRIPCIÓN
 
 ###### ARTÍCULO 185.
 
@@ -2251,7 +3017,11 @@ Al concluir el servicio el Miembro deberá entregar al funcionario designado par
 
 En ningún caso procederá la reincorporación, restitución o reinstalación en el servicio del Miembro, cualquiera que sea el resultado del juicio o medio de defensa que hubiera promovido.
 
-El Miembro que llegare a obtener resolución favorable en contra de la separación definitiva por falta de requisitos de permanencia y demás casos previstos en esta ley o remoción por responsabilidad administrativa, sólo recibirá el pago de la indemnización y de las condiciones del servicio que de manera proporcional le correspondan; sin que sea procedente el pago de percepción, retribución o remuneración alguna, que hubiere dejado de percibir por motivo de la separación definitiva o remoción del cargo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+El Miembro que llegare a obtener resolución que considere injustificada la separación remoción, baja o cualquier otra forma de terminación del servicio o separación definitiva por falta de requisitos de permanencia o por responsabilidad administrativa, recibirá el pago de la indemnización y de las condiciones del servicio que de manera proporcional le correspondan, lo que incluirá el pago de la remuneración diaria, beneficios, recompensas, estipendios, dietas, compensaciones o cualquier otro concepto que percibía el Miembro por la prestación de sus servicios, desde que se concretó su separación, remoción, baja o cualquier otra forma de terminación del servicio y hasta que se realice el pago correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 La indemnización consiste en la cantidad equivalente a tres meses de la remuneración que gozaba hasta antes de su separación definitiva o remoción del cargo.
 
@@ -2259,7 +3029,9 @@ La indemnización consiste en la cantidad equivalente a tres meses de la remuner
 
 En caso de separación voluntaria, los Miembros tendrán derecho a recibir las condiciones del servicio que se hubieran generado, en los términos de los reglamentos correspondientes.
 
-### CAPÍTULO IV. CONDICIONES DEL SERVICIO
+### CAPÍTULO IX. CERTIFICACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 188.
 
@@ -2279,11 +3051,13 @@ I. Con la celebración de la audiencia administrativa, y
 
 II. Con la interposición de algún juicio o medio de defensa en contra de la resolución que se hubiese emitido dentro del Procedimiento.
 
-### CAPÍTULO V. DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 191.
 
-El Centro de Control de Confianza emitirá el Certificado y registro correspondiente a los aspirantes, Agentes del Ministerio Público, Peritos y Elementos de apoyo de la Fiscalía General, así como al personal perteneciente a la Comisión Estatal del Sistema Penitenciario de conformidad con lo establecido por esta Ley.
+En los procesos de evaluación y control de confianza se deberá emitir el Certificado y registro correspondiente a los aspirantes, a los Miembros, Agentes del Ministerio Público, Peritos y Elementos de apoyo de la Fiscalía General, así como al personal perteneciente a la Comisión Estatal del Sistema Penitenciario, de conformidad con lo establecido por esta Ley.
 
 ###### ARTÍCULO 192.
 
@@ -2293,13 +3067,17 @@ Ninguna persona podrá ingresar o permanecer en la institución de seguridad pú
 
 El Certificado tendrá por objeto acreditar que los servidores públicos son aptos para ingresar o permanecer en cada institución, y que cuentan con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 194.
 
-El Certificado para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional de Personal de las Instituciones de Seguridad Pública y al Sistema Estatal de Información sobre Seguridad Pública. Dicha certificación y registro tendrán una vigencia de tres años.
+El Certificado para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional de Personal de las Instituciones de Seguridad Pública y al Sistema Estatal de Información. Dicha certificación y registro tendrán una vigencia de tres años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 195.
 
-Los Agentes del Ministerio Público, Peritos y Elementos de apoyo de la Fiscalía General, así como al personal perteneciente a la Comisión Estatal del Sistema Penitenciario deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen el Centro de Control de Confianza.
+Los Miembros, Agentes del Ministerio Público, Peritos y Elementos de apoyo de la Fiscalía General, así como al personal perteneciente a la Comisión Estatal del Sistema Penitenciario, deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos.
 
 La revalidación del certificado será requisito indispensable para la permanencia y deberá registrarse para los efectos a que se refiere el artículo anterior.
 
@@ -2309,9 +3087,11 @@ La Fiscalía General, para efectos de incorporar a la institución a personas qu
 
 En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional del Personal de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 197.
 
-La cancelación del certificado de los Agentes del Ministerio Público, Peritos y Elementos de apoyo, así como al personal perteneciente a la Comisión Estatal del Sistema Penitenciario procederá:
+La cancelación del certificado de los Miembros, Agentes del Ministerio Público, Peritos y Elementos de apoyo, así como al personal perteneciente a la Comisión Estatal del Sistema Penitenciario procederá:
 
 I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
 
@@ -2319,29 +3099,35 @@ II. Al ser removidos de su encargo;
 
 III. Por no obtener la revalidación de su Certificado, y
 
-IV. Por las demás causas que establezcan las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I a IV. (sic) Por las demás causas que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 198.
 
-Las instituciones de seguridad pública al recibir la notificación del Centro de Control de Confianza de la cancelación de algún certificado deberá hacer la anotación respectiva en el Registro Nacional correspondiente.
+Las Instituciones de Seguridad Pública al recibir la notificación de la cancelación de algún certificado deberán hacer la anotación respectiva en el Registro Nacional correspondiente.
 
 ## TÍTULO DÉCIMO. BASES GENERALES DE LOS SISTEMAS DE SEGURIDAD SOCIAL EN FAVOR DE LOS MIEMBROS
 
-### CAPÍTULO VI. RÉGIMEN DISCIPLINARIO
+### CAPÍTULO II. PRESTACIONES DE SEGURIDAD SOCIAL
 
 ###### ARTÍCULO 199.
 
-El Ejecutivo del Estado, la Fiscalía General y los Municipios generarán, de acuerdo con sus necesidades y con cargo a sus presupuestos, una normatividad de régimen de seguridad social, de acuerdo a lo previsto en el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, atendiendo las bases generales previstas en el presente título.
+La persona titular del Poder Ejecutivo, la Secretaría, la Fiscalía General y los Municipios generarán, de acuerdo a sus necesidades y con cargo a sus presupuestos, una normatividad de régimen de seguridad social, de acuerdo a lo previsto en el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, atendiendo las bases generales previstas en el presente título.
 
-Las Instituciones de Seguridad Pública deberán garantizar a los Miembros, al menos, las prestaciones previstas como mínimas para los trabajadores al servicio del Estado.
+Las Instituciones de Seguridad Pública deberán garantizar a los Miembros y a la Agencia Estatal de Investigación al menos, las prestaciones previstas como mínimas para los trabajadores al servicio del Estado.
 
 ###### ARTÍCULO 200.
 
 Las Instituciones de Seguridad Pública, conforme a lo dispuesto en esta Ley y la Ley General, realizarán y someterán a las autoridades que corresponda, los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores y las zonas en que éstos deberán regir.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 201.
 
-Sin perjuicio de que se establezcan otra clase de medidas dentro de sus respectivos ámbitos de competencia, los Ayuntamientos del Estado, el titular del Poder Ejecutivo y el Fiscal General del Estado, buscarán la coparticipación de recursos con la federación, con el fin de implementar y fortalecer el derecho a la seguridad social de los Miembros, sus familiares y dependientes económicos; con lo que se garantice la entrega de manera directa y oportuna, en los porcentajes o formas dispuestos en la normatividad aplicable, respecto a los plazos establecidos para el beneficio de los Miembros.
+Sin perjuicio de que se establezcan otra clase de medidas dentro de sus respectivos ámbitos de competencia, los municipios del Estado, la persona titular del Poder Ejecutivo, de la Secretaría y de la Fiscalía General del Estado, buscarán la coparticipación de recursos con la federación, con el fin de implementar y fortalecer el derecho a la seguridad social de los Miembros, sus familiares y dependientes económicos; con lo que se garantice la entrega de manera directa y oportuna, en los porcentajes o formas dispuestos en la normatividad aplicable, respecto a los plazos establecidos para el beneficio de los Miembros.
 
 ###### ARTÍCULO 202.
 
@@ -2351,9 +3137,11 @@ Las instituciones de Seguridad Pública podrán determinar vía convenio con la 
 
 El Ejecutivo del Estado podrá celebrar convenios con los Municipios y para subsidiar, en su caso, el pago de remuneraciones a los Miembros.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 204.
 
-El Ejecutivo Estatal, la Fiscalía General y los Municipios podrán celebrar convenios de coordinación con la finalidad de lograr la homologación en las remuneraciones entre los Miembros, considerando que deberá ser proporcional a sus responsabilidades.
+La persona titular del Poder Ejecutivo, la Secretaría, la Comisión del Sistema Estatal Penitenciario, Fiscalía General y los Municipios podrán celebrar convenios de coordinación con la finalidad de lograr la homologación en las remuneraciones entre los Miembros, considerando que deberá ser proporcional a sus responsabilidades.
 
 ###### ARTÍCULO 205.
 
@@ -2367,7 +3155,7 @@ III. De descuentos ordenados por la autoridad judicial competente que fueren exi
 
 IV. Del pago de impuestos consignados en las Leyes Fiscales, Federales y Estatales en atención a la remuneración a su trabajo, el monto total de los descuentos no podrá ser mayor del 30% de la remuneración total, excepto cuando se trate de abonos por créditos, obligaciones alimenticias o anticipos de remuneraciones concedidas por las autoridades públicas correspondientes. En cuyo caso se estará a lo ordenado por la autoridad judicial, tratándose de alimentos o a lo pactado en el acto jurídico respectivo, por el Miembro.
 
-### CAPÍTULO VII. CONCLUSIÓN DEL SERVICIO E INDEMNIZACIÓN
+### CAPÍTULO III. PENSIONES
 
 ###### ARTÍCULO 206.
 
@@ -2415,9 +3203,11 @@ XII. Remuneración anual que deberá pagarse en la primera quincena de diciembre
 
 Si con motivo del inicio de un procedimiento de separación definitiva o responsabilidad administrativa se ordena la suspensión preventiva del Miembro, éste, sus familiares y dependientes continuarán gozando de las prestaciones de seguridad social hasta en tanto no quede firme la correspondiente resolución conforme a las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 208.
 
-El Ejecutivo del Estado, la Fiscalía General y Municipios cubrirán al Instituto de Seguridad Social que corresponda, las aportaciones sobre la remuneración base de cotización, asimismo todo Miembro deberá aportar al Instituto de Seguridad Social que corresponda la cuota obligatoria de la remuneración base, dichas aportaciones se aplicarán en los rubros siguientes:
+La persona titular del Poder Ejecutivo, la Secretaría, la Fiscalía General y Municipios cubrirán al Instituto de Seguridad Social que corresponda, las aportaciones sobre la remuneración base de cotización, asimismo todo Miembro deberá aportar al Instituto de Seguridad Social que corresponda la cuota obligatoria de la remuneración base, dichas aportaciones se aplicarán en los rubros siguientes:
 
 I. Para cubrir seguros de enfermedades no profesionales y de Maternidad;
 
@@ -2431,9 +3221,7 @@ La remuneración que se tomará en cuenta para los efectos de esta Ley, será la
 
 La remuneración base de cotización no será menor a dos ni mayor a veinticinco veces del Salario Mínimo General vigente en la entidad, y se tomarán en cuenta para la determinación del monto de los Seguros, Pensiones y Préstamos que la misma establece.
 
-### CAPÍTULO III. PENSIONES
-
-### CAPÍTULO VIII. PRESCRIPCIÓN
+### CAPÍTULO IV. RESPONSABILIDAD Y OBLIGACIONES A CARGO DE LAS INSTITUCIONES POLICIALES
 
 ###### ARTÍCULO 210.
 
@@ -2495,9 +3283,7 @@ III. Para la viuda o viudo, si vuelve a contraer nupcias o viviera en concubinat
 
 IV. Para la concubina o concubino si contraen nupcias, viven en nuevo concubinato o por resolución judicial.
 
-### CAPÍTULO IV. RESPONSABILIDAD Y OBLIGACIONES A CARGO DE LAS INSTITUCIONES POLICIALES
-
-### CAPÍTULO IX. CERTIFICACIÓN
+### CAPÍTULO V. OTROS BENEFICIOS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
 
 ###### ARTÍCULO 218.
 
@@ -2535,9 +3321,11 @@ En todo tiempo, la Institución de Seguridad Pública proporcionará a la Oficin
 
 El incumplimiento de lo previsto en el presente artículo, será considerado causa de responsabilidad administrativa y se aplicarán las sanciones que al efecto señale la Ley de Responsabilidades Administrativas del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 220.
 
-Las Instituciones de Seguridad Pública contarán con un Comité de Género, que vigilará el respeto a los derechos de las mujeres policías y que las mujeres miembros de Instituciones de Seguridad Pública sujetas de la Ley, durante su embarazo, no realicen funciones que exijan un esfuerzo considerable e impliquen riesgo o peligro para su salud o la del producto de la concepción.
+Las Instituciones de Seguridad Pública contarán con un Comité de Género, que vigilará el respeto a los derechos de las mujeres policías y que las mujeres miembros de Instituciones de Seguridad Pública sujetas de la Ley, durante su embarazo, no realicen funciones que exijan un esfuerzo considerable e impliquen riesgo o peligro para su salud o la del producto de la concepción. Dicho Comité funcionará en los términos que dispongan las disposiciones reglamentarias correspondientes.
 
 Las mujeres embarazadas, disfrutarán de un periodo de incapacidad de noventa días naturales, contados a partir de la fecha de expedición del certificado médico de incapacidad; deberá procurarse que treinta días correspondan antes de la fecha aproximada fijada para el parto y sesenta después del mismo.
 
@@ -2549,9 +3337,7 @@ En ambos supuestos conservarán el pago íntegro de su remuneración, su cargo o
 
 Las madres policías durante los seis meses siguientes al vencimiento de la incapacidad por maternidad, disfrutarán de un periodo de lactancia de tres horas distribuidas a lo largo de su rol de servicio o jornada para alimentar a sus hijos.
 
-### CAPÍTULO V. OTROS BENEFICIOS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. CONTROVERSIAS EN LA APLICACIÓN DE LA LEY
 
 ###### ARTÍCULO 222.
 
@@ -2564,8 +3350,6 @@ Se podrá conferir a los miembros de Instituciones Policiales una compensación 
 ###### ARTÍCULO 224.
 
 Las Instituciones de Seguridad Pública podrán celebrar Convenios con personas del sector público, social y privado con el objeto de que los Miembros reciban pases de acceso gratuito o descuentos en actividades sociales, culturales y deportivas. En estos casos, las áreas de recursos humanos en las Instituciones Obligadas darán a conocer los beneficios respectivos, por lo menos cada seis meses.
-
-### CAPÍTULO VI. CONTROVERSIAS EN LA APLICACIÓN DE LA LEY
 
 ### CAPÍTULO II. PRESTACIONES DE SEGURIDAD SOCIAL
 
@@ -2640,3 +3424,23 @@ GOBERNADOR DEL ESTADO
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes deberán publicarse en el Periódico Oficial del Estado de Baja California, y entrarán en vigor el primero de enero de 2022.
+
+SEGUNDO.- Dentro de los noventa días siguientes a la entrada en vigor de las presentes reformas, el Poder Ejecutivo del Estado, la Fiscalía General y los Municipios en el ámbito de sus respectivas competencias deberán emitir o realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes, a fin de garantizar su cumplimiento.
+
+TERCERO.- La Licencia Oficial Colectiva que a la entrada en vigor del presente Decreto esté a cargo del Poder Ejecutivo del Estado, será administrada por la Secretaría.
+
+CUARTO.- En virtud del cambio de denominación de la Guardia Estatal de Seguridad y la Policía Estatal de Seguridad y Custodia Penitenciaria, las referencias hechas en actos o disposiciones legales y normativas a dicha Institución Policial o sus miembros, se entenderán aplicables en lo que no contravengan al presente decreto, a la Fuerza Estatal de Seguridad Ciudadana y Fuerza Estatal de Seguridad y Custodia Penitenciaria y sus miembros respectivamente.
+
+QUINTO.- Tratándose del Convenio de Coordinación celebrado entre el Secretaríado Ejecutivo del Sistema Nacional de Seguridad Pública y el Estado de Baja California, relativo al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (Ciudad de México) (FASP) 2021, una vez concluida su vigencia al 31 de diciembre de 2021, estará a cargo de la Fiscalía General del Estado el cumplimiento de las obligaciones derivadas del mismo, que trasciendan a su vigencia , así como las previstas en la fracción V de la CLÁUSULA TERCERA de dicho Convenio, en términos del artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+SEXTO.- El cumplimiento y pago de las obligaciones económicas o de cualquier índole derivadas de resoluciones judiciales y jurisdiccionales con motivos de procesos y procedimientos en los que sea o haya sido parte la Fiscalía General del Estado hasta el 31 de diciembre de 2021, quedará bajo su cargo y responsabilidad, así como la consecución de los procedimientos de ejecución que de las mismas deriven, hasta su total cumplimiento.
+
+SÉPTIMO.- El cumplimiento de las obligaciones que la Fiscalía General del Estado haya adquirido a través de créditos, préstamos y otros actos jurídicos que impliquen compromisos económicos hasta el 31 de diciembre de 2021, será asumido por este ente hasta su total terminación.
