@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-izamal-yucatan-48197"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2008-12-27"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE IZAMAL, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -60,6 +60,22 @@ I.- Establecer los conceptos por los que la Hacienda Pública del Municipio de I
 II.- Definir el objeto, sujeto, base y época de pago de las contribuciones, y
 
 III.- Señalar las obligaciones y derechos que en materia fiscal tendrán las autoridades y los sujetos a que la misma se refiere.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 1 Bis.
+
+Para los efectos de esta ley, se entenderá por:
+
+I.- Autoridad recaudadora: la unidad administrativa del ayuntamiento, encargada de las funciones de recaudación de los créditos fiscales del municipio.
+
+II.- Ayuntamiento: el Ayuntamiento del municipio de Izamal, Yucatán.
+
+III.- Tesorería municipal: la Tesorería Municipal como unidad administrativa del ayuntamiento, encargada de la administración de sus finanzas.
+
+IV.- Municipio: el municipio de Izamal, Yucatán.
+
+V.- UMA: el valor diario de la unidad de medida y actualización, que estuviera vigente al momento en que se determine la contribución o crédito fiscal, en los términos de la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
 
 ###### Artículo 2.
 
@@ -101,9 +117,33 @@ V.- Los Reglamentos Municipales y las demás leyes, que contengan disposiciones 
 
 La Ley de Ingresos del Municipio de lzamal para cada ejercicio fiscal, tendrá por objeto establecer los conceptos por los que la Hacienda Pública Municipal podrá percibir ingresos; señalar las tasas, cuotas y tarifas aplicables para el pago de las contribuciones; así como el cálculo de ingresos a percibir.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 4 Bis.
+
+Las disposiciones normativas y los convenios celebrados por las autoridades fiscales deberán sujetarse a las disposiciones legales y normativas a que se refiere el artículo 3 de esta ley. En consecuencia, serán nulas de pleno derecho todas las disposiciones normativas expedidas y los convenios celebrados que las contravengan.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 4 Ter.
+
+Las personas físicas y morales están obligadas a contribuir de forma proporcional y equitativa en los gastos públicos municipales, en los casos y términos previstos en esta ley, las leyes de ingresos del municipio y, en su caso, las demás leyes en materia fiscal aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 4 Quáter.
+
+Las disposiciones fiscales que establezcan cargas a los particulares, sus exenciones, las infracciones y las sanciones serán de aplicación estricta. Se entenderán por disposiciones fiscales que establecen cargas, las que regulan lo relativo al sujeto, objeto, base, tasa o tarifa de las contribuciones fiscales.
+
+Las disposiciones de esta ley distintas a las referidas al párrafo anterior podrán interpretarse aplicando cualquier método de interpretación jurídica.
+
+La ignorancia de las disposiciones fiscales de observancia general no se podrá argumentar como excusa ni aprovechará a persona alguna.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-A falta de norma fiscal municipal expresa, será de aplicación supletoria el Código Fiscal del Estado de-Yucatán.
+En materia fiscal, será de aplicación supletoria lo establecido en el Código Fiscal del Estado de Yucatán y en el Código Fiscal de la Federación.
 
 ### Capítulo III. De las Autoridades Fiscales
 
@@ -121,23 +161,75 @@ IV.- El Titular de la oficina recaudadora;
 
 V.- El Titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 6 Bis.
+
+La hacienda pública del municipio se administrará libremente por el ayuntamiento y el único órgano de la administración facultado para percibir los ingresos y realizar los egresos será la Tesorería Municipal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 6 Ter.
+
+El presidente municipal y el tesorero municipal son las autoridades competentes en el orden administrativo para:
+
+I.- Cumplir y hacer cumplir las disposiciones legales de naturaleza fiscal, aplicables en el municipio.
+
+II.- Dictar las disposiciones administrativas que se requieran para la mejor aplicación y observancia de esta ley.
+
+III.- Emitir o modificar, mediante disposiciones de carácter general, los sistemas o procedimientos administrativos, estableciendo las unidades administrativas recaudadoras, técnicas y administrativas necesarias o suficientes, señalándoles sus funciones y otorgándoles las facultades que considere convenientes, excepto las que le corresponden como autoridad fiscal y sean de carácter indelegable conforme a lo establecido en esta ley.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 6 Quáter.
+
+Corresponde a la Tesorería Municipal o a la unidad administrativa adscrita que establezca el Reglamento de la Administración Pública Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva.
+
+La Tesorería Municipal, directamente o por medio de sus unidades administrativas, contarán con interventores, visitadores, auditores, peritos, notificadores e inspectores, necesarios para verificar el cumplimiento de las obligaciones fiscales municipales, para llevar a cabo notificaciones, requerir documentación, practicar auditorias, visitas de inspección, visitas domiciliarias y practicar embargos.
+
+Las autoridades fiscales a que se refiere este artículo gozarán, en el ejercicio de las facultades de comprobación, de las facultades que el Código Fiscal del Estado de Yucatán otorga a la autoridad recaudadora estatal y las demás autoridades fiscales estatales.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 6 Quinquies.
+
+El titular de la unidad administrativa recaudadora tendrá facultades para suscribir:
+
+I.- Las licencias de funcionamiento municipales, cuya expedición apruebe la autoridad competente.
+
+II.- Los certificados de no adeudar contribuciones municipales.
+
+III.- Los acuerdos de notificación y mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales y requerimientos de pago.
+
+IV.- Las constancias de excepción de pago de las contribuciones previstas en esta ley.
+
+V.- Los oficios de comisión de los interventores de espectáculos y diversiones públicas.
+
+VI.- Los requerimientos adicionales para las licencias de funcionamiento, de documentación a contribuyentes y terceros relacionados.
+
 ### Capítulo IV. De los Contribuyentes y sus Obligaciones
 
 ###### Artículo 7.
 
 Las personas físicas o morales, mexicanas o extranjeras, domiciliadas dentro del Municipio de lzamal, Yucatán, o fuera de él, que tuvieren bienes o celebren actos dentro del territorio del mismo, están obligadas a contribuir para los gastos públicos del Municipio y a cumplir con las disposiciones administrativas y fiscales que se señalen en la presente ley, en la Ley de Ingresos Municipal, en el Código Fiscal del Estado de Yucatán, y en los Reglamentos Municipales.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 8.
 
-Para los efectos de esta ley, se entenderá por territorio municipal, el área geográfica que, para cada uno de los Municipios del Estado señala, la Ley Orgánica de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley Orgánica.
+Para los efectos de esta ley, se entenderá por territorio municipal, el área geográfica que, para cada uno de los municipios del estado señala, la Ley de Gobierno de los Municipios del Estado de Yucatán o, bien, el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ###### Artículo 9.
 
 Las personas a que se refiere el artículo 7 de esta ley, además de las obligaciones especiales contenidas en la presente Ley, deberán cumplir con las siguientes:
 
-I.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días naturales después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia Municipal de funcionamiento;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II.- Recabar de la Dirección de Desarrollo Urbano la carta de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el Plan Director de Desarrollo Urbano del Municipio y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio;
+I.- Empadronarse en la Tesorería Municipal, a más tardar treinta días naturales después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia Municipal de funcionamiento;
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II.- Recabar de la unidad administrativa del ayuntamiento encargada del desarrollo urbano, la licencia de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el programa de desarrollo urbano del municipio y los reglamentos municipales que rigen la materia.
 
 III.- Dar aviso por escrito, en un plazo de quince días, de cualquier modificación, aumento de giro, traspaso, cambio de domicilio, cambio de denominación, suspensión de actividades, clausura y baja;
 
@@ -149,9 +241,17 @@ VI.- Permitir las visitas de inspección, atender los requerimientos de document
 
 VII.- Exhibir los documentos públicos y privados que requiera la Tesorería Municipal, previo mandamiento por escrito que funde y motive esta medida;
 
-VIII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal, y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente Ley.
+VIII.- Proporcionar con veracidad los datos que le requiera la Tesorería Municipal y las demás unidades administrativas del ayuntamiento, previstas en el reglamento de la administración pública del ayuntamiento, ante las cuales tramite sus contribuciones fiscales;
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX.- Realizar los pagos y cumplir con las obligaciones fiscales, en la forma y términos que señale esta ley y los demás ordenamientos fiscales o hacendarios aplicables, y
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+X.- Acreditar, para la realización de trámites ante la Tesorería municipal, su inscripción en el Registro Federal de Contribuyentes emitido por el Servicio de Administración Tributaria.
 
 ###### Artículo 10.
 
@@ -163,11 +263,23 @@ Los avisos, declaraciones, solicitudes, memoriales o manifestaciones, que presen
 
 Son créditos fiscales los que el Ayuntamiento de lzamal y sus organismos descentralizados tengan derecho de percibir, que provengan de contribuciones, de aprovechamientos y de sus accesorios; incluyendo los que se deriven de responsabilidades que el Ayuntamiento tenga derecho a exigir de sus servidores públicos o de los particulares; así como aquellos a los que la ley otorgue ese carácter y el Municipio tenga derecho a percibir por cuenta ajena.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 11 Bis.
+
+Los recargos de los créditos fiscales, las multas, las indemnizaciones y los gastos de ejecución derivados de las contribuciones, son accesorios de éstas y participan de su naturaleza.
+
 ###### Artículo 12.
 
 Los créditos fiscales a favor del Municipio, serán exigibles a partir del día siguiente al del vencimiento fijado para su pago. Cuando no exista fecha o plazo para el pago de dichos créditos, éstos deberán cubrirse dentro de los quince días siguientes, contados desde el momento en que se realice el acto o se celebre el contrato que dio lugar a la causación del crédito fiscal, si el contribuyente tuviere establecimiento fijo; en caso contrario, y siempre que se trate de contribuciones que se originaron por actos o actividades eventuales, el pago deberá efectuarse al término de las operaciones de cada día, a más tardar el día hábil siguiente si la autoridad no designó interventor autorizado para el cobro.
 
 En los términos establecidos en el párrafo anterior, para el pago de los créditos fiscales municipales se computarán sólo los días hábiles, entendiéndose por éstos, aquellos que establezcan las leyes de la materia y en que se encuentren abiertas al público las oficinas recaudadoras. Si al término del vencimiento fuere día inhábil, el plazo se prorrogará al siguiente día hábil.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 12 Bis.
+
+No serán exigibles los impuestos y derechos a que se refiere esta ley cuando hayan sido derogados o suspendidos para cumplir con los requisitos establecidos en las leyes federales o estatales y los convenios suscritos entre la federación y el estado o municipio, a partir de la fecha de su vigencia.
 
 ###### Artículo 13.
 
@@ -177,7 +289,9 @@ I.- Las personas físicas y morales, que adquieran bienes o negociaciones ubicad
 
 II.- Los albaceas, copropietarios, fideicomitentes o fideicomisarios de un bien determinado, por cuya administración, copropiedad o derecho se cause una contribución a favor del Municipio.
 
-III.- Los retenedores de impuestos.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III.- Los retenedores de impuestos y otras contribuciones.
 
 IV.- Los funcionarios, fedatarios y demás personas que señala la presente ley y que en el ejercicio de sus funciones, no cumplan con las obligaciones que las leyes y disposiciones fiscales les imponen, de exigir, a quienes están obligados a hacerlo, que acrediten que están al corriente en el pago de sus contribuciones o créditos fiscales al Municipio.
 
@@ -219,6 +333,12 @@ Las autoridades fiscales municipales están obligadas a devolver las cantidades 
 
 Cuando no se cubran las contribuciones en la fecha o dentro de los plazos fijados en la presente ley, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta el mismo que se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco municipal por falta de pago oportuno.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 19 Bis.
+
+Cuando el contribuyente pague, en una sola exhibición, el total de las contribuciones o de los créditos fiscales omitidos debidamente actualizados, en forma espontánea, sin mediar notificación alguna por parte de las autoridades fiscales, los recargos no podrán exceder de un tanto igual, al importe de la contribución omitida actualizada.
+
 ###### Artículo 20.
 
 El monto de las contribuciones, aprovechamientos y los demás créditos fiscales, así como las devoluciones a cargo del fisco municipal, no pagados en las fechas o plazos fijados para ello en esta ley, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deben actualizar, desde el mes en que debió hacerse el pago y hasta el mes en que el mismo pago se efectúe. Dicho factor se obtendrá dividiendo el índice Nacional de Precios al Consumidor, que determina el Banco de México y se publica en el Diario Oficial de la Federación, del mes inmediato anterior al más reciente del período entre el citado índice correspondiente al mes inmediato anterior al más antiguo de dicho período. Las contribuciones, los aprovechamientos así como las devoluciones a cargo del fisco municipal no se actualizarán por fracciones de mes. Además de la actualización se pagarán recargos en concepto de indemnización al Municipio de Izamal, por la falta de pago oportuno.
@@ -226,6 +346,12 @@ El monto de las contribuciones, aprovechamientos y los demás créditos fiscales
 ###### Artículo 21.
 
 Para efectos de la determinación, cálculo y pago de los recargos a que se refiere el artículo anterior, se estará a lo dispuesto en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+Para determinar las contribuciones, los productos y los aprovechamientos se considerarán inclusive, las fracciones del peso. No obstante, para efectuar su pago, el monto se ajustará para que los que contengan cantidades que incluyan de 1 hasta 49 centavos, se ajusten a la unidad inmediata anterior y los que contengan cantidades de 50 a 99 centavos, se ajusten a la unidad inmediata superior.
 
 ### Capítulo VII. De las Licencias de Funcionamiento
 
@@ -621,7 +747,9 @@ El pago de los derechos deberá hacerse previamente a la prestación del servici
 
 Los derechos que establece esta ley se pagarán por los servicios que preste el Ayuntamiento de Izamal, Yucatán, en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del Municipio.
 
-Cuando de conformidad con la Ley Orgánica de los Municipios del Estado de Yucatán o cualesquiera otras- disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta se seguirán cobrando los derechos en los términos establecidos por esta ley.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta, se seguirán cobrando los derechos en los términos establecidos por esta ley.
 
 ###### Artículo 61
 
@@ -629,9 +757,15 @@ No serán exigibles los impuestos y derechos a que se refiere la presente Ley cu
 
 #### Sección Segunda. Derechos por Licencias y Permisos
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 62.
 
-Son objeto de estos derechos las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúen total o parcialmente con el público en general.
+Son objeto de estos derechos las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales para la ejecución de las actividades previstas en el capítulo II del título tercero de la Ley de Ingresos del Municipio de Izamal, o que realicen por cuenta propia o ajena las mismas actividades referidas y que dan motivo al pago de derechos.
+
+Los establecimientos o locales que no cuenten con la licencia de funcionamiento vigente podrán ser clausurados por la autoridad municipal.
+
+Serán responsables solidarios del pago de los derechos a que se refiere esta sección, los propietarios de los inmuebles donde funcionen los establecimientos o locales o donde se realicen las actividades temporales.
 
 ###### Artículo 63.
 
@@ -659,31 +793,45 @@ Son sujetos obligados al pago de derechos, por los servicios que presta la Direc
 
 Son obligados solidarios al pago de estos derechos, los propietarios, fideicomitentes, mientras el fiduciario no transmitiere la propiedad del inmueble; los fideicomisarios cuando estuvieren en posesión o uso del inmueble, los adquirentes de un inmueble por cualquier título, aún cuando no se hubiere otorgado a su favor la escritura definitiva de compraventa y los responsables de la obra.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 69.
 
 Los sujetos pagarán los derechos por los servicios que soliciten a la Dirección de Desarrollo Urbano y Obras Públicas, consistentes en:
 
-a) Licencia de construcción.
+I.- Licencias de uso de suelo.
 
-b) Constancia de terminación de obra.
+II.- Análisis de factibilidad de uso de suelo.
 
-c) Licencia para realizar una, demolición. d) Constancia de alineamiento.,
+III.- Constancia de alineamiento de bienes inmuebles.
 
-e) Sellado de planos.
+IV.- Licencia para construcción.
 
-f) Licencia para hacer cortes en banquetas, pavimento y guarniciones.
+V.- Licencia para construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para la colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente.
 
-g) Otorgamiento de constancia a que se refiere el inciso 1) del Artículo 2 de la Ley sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán.
+VI.- Licencia para construcción de bardas.
 
-h) Constancia para obras de urbanización.
+VII.- Licencia para demoliciones o desmantelamientos.
 
-i) Revisión de planos para la autorización de uso del suelo.
+VIII.- Licencia para demoliciones o desmantelamientos, distintos de la fracción VII.
 
-j) Constancia de unión y división de inmuebles,
+IX.- Licencia para hacer cortes o excavaciones en la vía pública.
 
-k) Licencia para efectuar excavaciones.
+X.- Licencia para hacer excavaciones en la vía pública, distintos de la fracción IX.
 
-l) Licencia para construir bardas o colocar pisos.
+XI.- Licencia para posterío o tendido de líneas.
+
+XII.- Constancia de terminación de obras, a que se refieren las fracciones IV a XI.
+
+XIII.- Licencias de urbanización.
+
+XIV.- Validación de planos.
+
+XV.- Visitas de inspección.
+
+XVI.- Revisiones previas de los proyectos.
+
+XVII.- Revisiones previas de lotificación de fraccionamientos.
 
 ###### Artículo 70.
 
@@ -795,13 +943,23 @@ El pago de los derechos a que se refiere esta Sección, se calculará y efectuar
 
 #### Sección Sexta. Derechos por Servicios de Rastro
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 85.
 
-Son sujetos obligados al pago de los derechos por matanza de ganado, las personas físicas o morales que utilicen los servicios del Rastro Público del Municipio de Izamal, Yucatán, para el sacrificio de animales.
+Son objeto de este derecho, la matanza, guarda en corrales, transporte, peso en básculas e inspección de animales realizados en el rastro municipal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 85 Bis.
+
+Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere esta sección.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 86.
 
-La base del presente derecho, será la cabeza de ganado vacuno o porcino que sea sacrificada en el Rastro Público del Municipio de Izamal, Yucatán.
+La base del presente derecho, será la cabeza de ganado vacuno, porcino, ovino o caprino.
 
 ###### Artículo 87.
 
@@ -1033,7 +1191,125 @@ El pago de los derechos a que se refiere la presente Sección, se realizará al 
 
 La cuota a pagar por los derechos a que se refiere la presente Sección, será determinada en la Ley de Ingresos del Municipio de Izamal.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### Sección Décima Cuarta. Derechos por anuncios
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Bis.
+
+Son objeto de estos derechos la expedición de permisos para anuncios y publicidad que otorgue el municipio, para la colocación de anuncios publicitarios visibles desde la vía pública, en forma temporal o permanente, o para la difusión de publicidad a través de una transmisión móvil en la vía pública.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Ter.
+
+Son sujetos de los derechos a que se refiere esta sección, las personas físicas o morales que soliciten y obtengan los permisos para instalar los anuncios.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Quáter.
+
+Son responsables solidarios del pago de los derechos a que se refiera esta sección, los propietarios de los bienes inmuebles o muebles donde se instalen los anuncios.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Quinquies.
+
+El pago de los derechos a que se refiere esta sección, se calculará y efectuará conforme a las tarifas establecidas en la Ley de Ingresos del Municipio de Izamal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Sexies.
+
+No se pagarán los derechos por los servicios previstos en esta sección, en los siguientes casos:
+
+I.- Anuncios y propaganda de carácter político, los cuales se regirán conforme a la legislación general y estatal en materia electoral; y los convenios correspondientes.
+
+II.- Periódicos en tableros sobre edificios que estén ocupados por su misma casa editora.
+
+III.- Programas o anuncios de espectáculos o diversiones públicas fijadas en tableros, cuya superficie en conjunto no exceda de dos metros cuadrados, adosados precisamente en los edificios, en que se presente el espectáculo.
+
+IV.- Anuncios referentes a cultos religiosos, cuando estén sobre tableros en las puertas de los templos o en lugares específicamente diseñados para este efecto.
+
+V.- Adornos navideños, anuncios y adornos para fiestas cívicas nacionales o para eventos oficiales.
+
+VI.- Anuncios de eventos culturales o educativos organizados por instituciones que no persigan propósitos de lucro.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### Sección Décima Quinta. Derechos por corralón y grúa
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Septies.
+
+Son objeto de estos derechos los servicios de arrastre de vehículos y el depósito de los mismos en corralones u otros lugares autorizados, que deban ser almacenados, a petición del interesado, por disposición legal o normativa o que la autoridad municipal correspondiente lo juzgue necesario o conveniente.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128. Octies.
+
+Son sujetos de estos derechos las personas físicas o morales e instituciones públicas o privadas que lo soliciten voluntariamente o cuando la autoridad municipal competente lo determine de conformidad con las disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Nonies.
+
+El pago de los derechos a que se refiere esta sección, se calculará y efectuará conforme a las tarifas establecidas en la Ley de Ingresos del Municipio de Izamal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 128 Decies.
+
+El pago de los derechos por servicio de corralón y grúa se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la ley y en los lugares autorizados por la Tesorería Municipal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### Sección Décima Sexta. Derechos por protección civil
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Undecies.- Son objeto de estos derechos los servicios que presta la Dirección de Protección Civil por conceptos de autorizaciones, registros de programas, asesorías en la elaboración de programas o emisión de los análisis de riesgos, en los términos de la Ley de Protección Civil del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Duodecies.- Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquiera de los servicios a que se refiere esta sección.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Terdecies.- El pago de los derechos a que se refiere esta sección, se calculará y efectuará conforme a las tarifas establecidas en la Ley de Ingresos del Municipio de Izamal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Quaterdecies.- El pago de los derechos se hará al momento de solicitar el servicio de protección civil en las oficinas de la Tesorería municipal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### Sección Décima Séptima. Derechos por Gaceta Municipal
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Quindecies.- Son objeto de este derecho los ejemplares y publicaciones en la gaceta municipal del Ayuntamiento.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Sexdecies.- Son sujetos de los derechos a que se refiere esta sección, las personas físicas o morales que soliciten la emisión de ejemplares de la Gaceta Municipal del Ayuntamiento o publicaciones en aquella.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Septendecies.- El pago de los derechos a que se refiere esta sección, se calculará y efectuará conforme a las tarifas establecidas en la Ley de Ingresos del Municipio de Izamal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Octodecies.- El pago de los derechos causados por los servicios relacionados con la emisión de los ejemplares y publicaciones de la Gaceta Municipal del Ayuntamiento, se realizará al momento de solicitar el servicio en las oficinas de la Tesorería municipal o donde se designe.
+
 ### Capítulo III. Contribuciones de Mejoras
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 128 Novodecies.- Las contribuciones de mejoras son las contribuciones que se establecen a cargo de quienes se beneficien específicamente con alguna obra o servicio público efectuado por el ayuntamiento, emprendidas para el beneficio común.
 
 ###### Artículo 129.
 
@@ -1068,6 +1344,12 @@ I.- Los predios exteriores, que colinden con la calle en la que se hubiese ejecu
 II.- Los predios interiores, cuyo acceso al exterior, fuera por la calle en donde se hubiesen ejecutado las obras.
 
 En el caso de edificios sujetos a régimen de propiedad en condominio, el importe de la contribución calculado en términos de este Capítulo, se dividirá a prorrata entre el número de locales.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 131 Bis.
+
+Las contribuciones de mejoras a que se refiere este capítulo se causarán independientemente de que la obra hubiera sido o no solicitada por los beneficiarios.
 
 ###### Artículo 132.
 
@@ -1125,25 +1407,57 @@ Transcurrido el plazo mencionado en el párrafo anterior, sin que se hubiere efe
 
 El Tesorero Municipal previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente, podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza, que dependan de él más de tres personas, y devengue un ingreso no mayor a dos salarios mínimos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Para efectos de lo establecido en el artículo anterior, las unidades administrativas a que se refiere el párrafo anterior realizarán la investigación socioeconómica de cada caso y remitirá, anexa a la solicitud, un dictamen aprobando o negando la necesidad de reducción, así como el porcentaje de disminución sugerida.
+
 ### Capítulo IV. Productos
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 137 Bis.
+
+Los productos son las contraprestaciones que recibe el ayuntamiento por los servicios que presta en sus funciones de derecho privado, incluyendo el uso, aprovechamiento o enajenación de bienes del dominio privado del patrimonio municipal, y en general cualquier ingreso derivado de los bienes muebles e inmuebles propiedad del municipio con un uso distinto a la prestación de un servicio público.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 138.
 
-Los productos que percibirá el Ayuntamiento de Izamal, Yucatán, a través de la Tesorería Municipal, serán:
+La hacienda pública del municipio podrá percibir productos por los siguientes conceptos:
 
-I.- Por arrendamiento, enajenación y explotación de bienes muebles e inmuebles, del dominio privado del patrimonio municipal;
+I.- Por arrendamiento, enajenación y explotación de bienes muebles e inmuebles, del dominio privado del patrimonio municipal.
 
-II.- Por los remates de bienes mostrencos, y
+II.- Por arrendamiento, enajenación y explotación de bienes que siendo del dominio público municipal, su uso ha sido restringido a determinada persona a través de un contrato de arrendamiento o de uso, regido por las disposiciones del derecho privado y por el cual no se exige el pago de una contribución fiscal.
 
-III.- Por los daños que sufrieren las vías públicas o los bienes del patrimonio municipal afectados a la prestación de un servicio público, causados por cualquier persona.
+III.- Por los remates de bienes mostrencos.
+
+IV.- Por inversiones financieras.
+
+V.- Por los daños que sufrieren las vías públicas o los bienes del patrimonio municipal afectados a la prestación de un servicio público, causados por cualquier persona.
+
+VI.- Por copias simples o impresas de documentos diversos o en medios magnéticos de información, por los cuales no se causen derechos conforme a lo establecido en esta ley.
+
+VII.- Por la enajenación de productos o subproductos que resulten del proceso de composta llevado a cabo por parte del municipio.
+
+VIII.- Por la enajenación y venta de bases para participar en procedimientos de licitación pública o de invitación.
+
+IX.- Por otros productos no especificados en las fracciones anteriores.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 139.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio, se llevarán a cabo, conforme a lo dispuesto en la Ley Orgánica de los Municipios del Estado.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del municipio se llevarán a cabo conforme a lo establecido en la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+El arrendamiento de bienes a que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el presidente municipal y el síndico, previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
+
+Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 140.
 
-Los bienes muebles e inmuebles propiedad el Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley Orgánica de los Municipios del Estado.
+Los bienes muebles e inmuebles propiedad del municipio solamente podrán ser explotados mediante concesión o contrato legalmente otorgado o celebrado, en los términos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ###### Artículo 141.
 
@@ -1157,11 +1471,27 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 El Municipio percibirá productos derivados de las inversiones financieras que realice transitoriamente, con motivo de la percepción de ingresos extraordinarios o periodos de alta recaudación. Dichos depósitos deberán hacerse eligiendo la alternativa de mayor rendimiento financiero siempre y cuando, no se limite la disponibilidad inmediata de los recursos conforme las fechas en que éstos serán requeridos por la administración.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Corresponde al Tesorero Municipal, realizar las inversiones financieras, previa aprobación del presidente municipal, en aquellos casos en que los depósitos se hagan por plazos mayores de tres meses.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los recursos que se obtengan por rendimiento de inversiones financieras en instituciones de crédito, por compra de acciones o título de empresas o por cualquier otra forma, invariablemente se ingresarán al erario municipal como productos financieros.
+
 ###### Artículo 144.
 
 El Municipio percibirá productos derivados de sus funciones de derecho privado, por el ejercicio de sus derechos sobre bienes ajenos y cualquier otro tipo de productos no comprendido en esta Sección.
 
 ### Capitulo V. Aprovechamientos
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 144 Bis.
+
+Los aprovechamientos son los ingresos que percibe el ayuntamiento por funciones de derecho público distintos de las contribuciones, participaciones, aportaciones federales que se reciban de acuerdo con las normas del Sistema Nacional de Coordinación Fiscal, de los ingresos derivados de financiamientos y de los que obtengan las entidades paramunicipales.
+
+Los recargos, las multas, las indemnizaciones y los gastos de ejecución derivados de los aprovechamientos son accesorios de estos y participan de su naturaleza.
 
 ###### Artículo 145.
 
@@ -1171,27 +1501,67 @@ De conformidad con lo establecido en la Ley de Coordinación Fiscal del Estado d
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando estas no fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 146 Bis.
+
+Los aprovechamientos que percibirá el ayuntamiento serán los siguientes:
+
+I.- Recargos.
+
+II.- Gastos de ejecución e indemnizaciones
+
+III.- Multas por infracciones a las leyes y reglamentos municipales y otros ordenamientos aplicables.
+
+IV.- Multas federales no fiscales.
+
+V.- Multas por infracciones previstas en el Reglamento de la Ley de Transporte del Estado de Yucatán.
+
+VI.- Honorarios por notificación.
+
+VII.- Aprovechamientos diversos.
+
 ### Capítulo VI. Participaciones y Aportaciones
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 147.
 
-Son Participaciones y Aportaciones, los ingresos provenientes de contribuciones y aprovechamientos federales o municipales que tienen derecho a percibir el Estado y sus Municipios, en virtud de su adhesión al Sistema Nacional de Coordinación Fiscal o de las leyes fiscales relativas y conforme a las normas que establezcan y regulen su distribución.
+Las participaciones son las cantidades que el municipio percibe de los ingresos federales o estatales, de acuerdo con lo dispuesto por la Ley de Coordinación Fiscal federal y estatal, en el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos; el Convenio de Colaboración Administrativa en Materia Fiscal o cualesquiera otros convenios que se suscribieran para tal efecto. También se considerarán participaciones, las que designe el Congreso del estado con tal carácter.
 
-La Hacienda Pública Municipal percibirá las participaciones estatales y federales determinadas en los convenios relativos y en la Ley de Coordinación Fiscal del Estado.
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 147 Bis.
+
+Las aportaciones son los recursos que la federación transfiere a las haciendas públicas de los estados y, en su caso, del municipio, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de recurso establece la Ley de Coordinación Fiscal federal.
 
 ### Capítulo VII. Ingresos Extraordinarios
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 148.
 
-La Hacienda Pública del Municipio de Izamal podrá percibir ingresos extraordinarios por los siguientes conceptos:
+Los ingresos extraordinarios son los recursos que percibe la hacienda pública municipal, distintos de los referidos en los capítulos anteriores. En todo caso, se considerarán ingresos extraordinarios, los recursos obtenidos por:
 
-I.- Empréstitos aprobados por el Congreso;
+I.- Financiamientos o empréstitos que se obtengan de acuerdo con lo establecido en la Constitución Política del Estado de Yucatán y las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
 
-II.- Empréstitos aprobados por el Cabildo;
+II.- Conceptos diferentes a participaciones, aportaciones, y a aquellos derivados de convenios de colaboración administrativa catalogados como aprovechamientos, que sean recibidos del estado y la federación.
 
-III.- Subsidios, y
+III.- Donativos.
 
-IV.- Los que reciba de la Federación o del Estado, por conceptos diferentes a Participaciones o Aportaciones.
+IV.- Cesiones.
+
+V.- Herencias.
+
+VI.- Legados.
+
+VII.- Adjudicaciones judiciales.
+
+VIII.- Adjudicaciones administrativas.
+
+IX.- Subsidios de organismos públicos y privados.
+
+X.- La recuperación de créditos otorgados o pagos realizados en ejercicios anteriores.
 
 ## TÍTULO TERCERO. INFRACCIONES Y MULTAS
 
@@ -1205,11 +1575,37 @@ La aplicación de las multas por infracciones a las disposiciones municipales y 
 
 Las multas por infracciones a las disposiciones municipales sean éstas de carácter administrativo o fiscal, serán cobradas mediante el procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 150 Bis.
+
+Las autoridades fiscales municipales para hacer cumplir sus determinaciones podrán aplicar, sin perjuicio de las sanciones que se señalan en las distintas disposiciones de esta ley y sus disposiciones reglamentarias municipales, los siguientes medios de apremio:
+
+I.- Apercibimiento.
+
+II.- Multa de una a diez veces la unidad de medida y actualización, excepto cuando las disposiciones de esta ley señalen otra cantidad.
+
+III.- Clausura.
+
+IV.- Auxilio de la fuerza pública.
+
 ### Capítulo II. Infracciones
 
 ###### Artículo 151.
 
 Son responsables de la comisión de las infracciones previstas en esta ley, las personas que realicen cualesquiera de los supuestos que en este Capítulo se consideran como tales, así como las que omitan el cumplimiento de las obligaciones previstas en esta propia ley, incluyendo a aquellas, que cumplan sus obligaciones fuera de las fechas o de los plazos establecidos.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 151 Bis.
+
+No se impondrán sanciones cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales.
+
+Se considerará que el cumplimiento no es espontáneo en el caso de que:
+
+I.- La omisión sea descubierta por las autoridades fiscales, o
+
+II.- La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieran notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por estas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
 
 ###### Artículo 152.
 
@@ -1219,7 +1615,9 @@ Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conoz
 
 Son infracciones:
 
-I.- La falta de presentación o la presentación extemporánea de los avisos o manifestaciones que exige esta ley.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I.- La falta de presentación de los avisos, declaraciones o manifestaciones que exigen las disposiciones fiscales; o la falta de cumplimiento de los requerimientos que realicen las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción o cumplir fuera de los plazos señalados.
 
 II.- La falta de cumplimiento de las obligaciones establecidas en esta ley, a los fedatarios públicos, las personas que tengan funciones notariales, los empleados y funcionarios del Registro Público de la Propiedad y del Comercio del Estado de Yucatán, a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento.
 
@@ -1234,6 +1632,14 @@ VI.- La ocupación de la vía pública, con el objeto de realizar alguna activid
 VII.- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autorización respectiva.
 
 VIII.- Mantener predios con maleza y sin cercar o con construcción, pero deshabitados y con maleza.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX.- La resistencia, por cualquier medio, a las visitas de inspección, a las intervenciones, al suministro los datos e informes que legalmente puedan exigir las autoridades fiscales y, en general, negarse a proporcionar los elementos que se requieran para el desarrollo de las visitas domiciliarias.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+X.- La entrega o manifestación de datos falsos a la autoridad fiscal, de conformidad con lo establecido en esta ley.
 
 ### Capítulo III. Multas
 
@@ -1267,17 +1673,51 @@ Cuando el 3% del importe del crédito omitido, fuere inferior al importe de un s
 
 Además de los gastos mencionados en el Artículo anterior, el contribuyente, queda obligado a pagar los gastos extraordinarios que se hubiesen erogado, por los siguientes conceptos:
 
-I.- Gastos de transporte de los bienes embargados;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II.- Gastos de impresión y publicación de convocatorias;
+I.- Gastos de transporte de los bienes embargados.
 
-III.- Gastos de inscripción o de cancelación de gravámenes, en el Registro Público de la Propiedad y de Comercio del Estado, y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II.- Gastos de impresión y publicación de convocatorias.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III.- Gastos de inscripción o de cancelación de gravámenes, en el Registro Público de la Propiedad y de Comercio del Estado.
 
 IV.- Gastos del certificado de libertad de gravamen.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V.- Gastos de avalúo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VI.- Gastos de investigaciones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VII.- Gastos por honorarios de los depositarios y peritos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Gastos devengados por concepto de escrituración.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX.- Los importes que se paguen para liberar de cualquier gravamen, bienes que sean objeto de remate o adjudicación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+X.- Gastos generados por la intervención para determinar y recaudar el impuesto sobre espectáculos y diversiones públicas.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 158.
 
-Los gastos de ejecución mencionados, no serán objeto de exención, disminución, condonación o convenio.
+Los gastos señalados en los artículos anteriores se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
+
+Los gastos de ejecución listados en el artículo anterior no serán objeto de exención, disminución, condonación o convenio.
 
 ### Capítulo III. Del Remate en Subasta Pública
 
@@ -1293,29 +1733,33 @@ En todo caso, se aplicarán a los remates las reglas que para tal efecto fije el
 
 ### Capítulo único. Disposiciones Generales
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 160.
 
-Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios o en el Código Fiscal, ambas del Estado de Yucatán.
+Contra las resoluciones que dicten las autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación. En este caso, los recursos que se promueven se tramitarán y resolverán en la forma prevista en dicho Código.
+Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación, de conformidad con lo dispuesto en el Código Fiscal de la Federación; o mediante juicio contencioso administrativo, de conformidad con lo dispuesto en la Ley Federal de Procedimiento Contencioso Administrativo. En este caso, los recursos que se promuevan se tramitarán y resolverán en la forma prevista en dicho código.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 161.
 
-Interpuesto en tiempo algún recurso, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán, del Código Fiscal de la Federación o de la Ley Federal de Procedimiento Contencioso Administrativo, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgare garantía suficiente a juicio de la autoridad.
 
-Las garantías que menciona este Artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios causados como los recargos y-las multas, así como los que se generen en los doce meses siguientes a su otorgamiento.
+Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios causados, así como los que se generen en los doce meses siguientes a su otorgamiento.
 
-Dichas garantías serán:
+Las garantías a que se refieren los párrafos anteriores podrán ser:
 
-a) Depósito de dinero, en efectivo o. en cheque certificado ante la propia autoridad o en una Institución Bancaria autorizada, entregando el correspondiente recibo o billete de depósito.
+I.- Depósito de dinero, en efectivo o en cheque certificado ante la propia autoridad o en una institución bancaria autorizada, entregando el correspondiente recibo o billete de depósito.
 
-b) Fianza, expedida por compañía debidamente autorizada para ello.
+II.- Fianza, expedida por compañía debidamente autorizada para ello, la que no gozará de los beneficios de orden y excusión.
 
-c) Hipoteca.
+III.- Hipoteca.
 
-d) Prenda.
+IV.- Prenda, la cual solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 UMA al momento de la determinación del crédito.
 
-Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos vigentes en el Estado, al momento de la determinación del crédito.
+V.- Embargo en la vía administrativa, en cuyo caso deberán pagarse los gastos de ejecución que se establecen en los artículos 156 y 157 de esta ley.
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen en el Código Fiscal de la Federación y el reglamento de dicho Código.
 
@@ -1358,3 +1802,23 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTICULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
