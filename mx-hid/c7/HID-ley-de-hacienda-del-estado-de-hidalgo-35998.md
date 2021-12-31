@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2021-07-28"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -37,7 +37,7 @@ QUE REFORMA, ADICIONA, DEROGA Y/O ABROGA DIVERSAS DISPOSICIONES FISCALES ESTATAL
 
 El Honorable Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II, de la Constitución Política del Estado Libre y Soberano de Hidalgo; DECRETA:
 
-...
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -167,9 +167,9 @@ La declaración y pago de este impuesto deberá realizarse, vía Internet o a tr
 
 El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las instituciones autorizadas por la Secretaría de Finanzas Públicas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet la declaración en ceros que corresponda.
+Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar la declaración correspondiente a través de los medios señalados en el primer párrafo de este artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -191,13 +191,13 @@ DE LAS OBLIGACIONES
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I. Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas en el Centro Regional de Atención al Contribuyente de su jurisdicción dentro del mes siguiente a la fecha del inicio de sus operaciones;
+I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas en las Oficinas Hidalgo Pagos de su jurisdicción dentro del mes siguiente a la fecha del inicio de sus operaciones;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II.- Dar aviso al Centro Regional de Atención al Contribuyente de su jurisdicción, en los casos de cambio de domicilio, actualización de actividades económicas y obligaciones, así como de suspensión de actividades, dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas;
+II.- Dar aviso a la Oficina Hidalgo Pagos de su jurisdicción, en los casos de cambio de domicilio, actualización de actividades económicas y obligaciones, así como de suspensión de actividades, dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas;
 
 III.- Presentar los avisos, documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este impuesto, dentro de los plazos y en los lugares que éstas señalen para tal efecto;
 
@@ -309,13 +309,13 @@ DE LAS OBLIGACIONES
 
 Para la recaudación de este impuesto, se observarán las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I. Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas Públicas, los datos y documentos relativos de las operaciones; y
+I. Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en la Oficina Hidalgo Pagos de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas Públicas, los datos y documentos relativos de las operaciones; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II. Los Centros Regionales de Atención al Contribuyente, se cerciorarán de que se haya efectuado el pago de este impuesto mediante la exhibición, por parte del contribuyente, del comprobante expedido por la institución bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas Públicas en la que conste el pago efectuado.
+II. Las Oficinas Hidalgo Pagos se cerciorarán de que se haya efectuado el pago de este impuesto mediante la exhibición, por parte del contribuyente, del comprobante expedido por la institución bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas Públicas en la que conste el pago efectuado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -395,9 +395,9 @@ DEL SUJETO
 
 Son sujetos del pago de este impuesto, las personas físicas y morales que realicen los pagos a que se refiere el Artículo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten por sí o por interpósita persona la prestación de servicios con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen trabajadores para el desarrollo de sus actividades, siempre que el servicio personal se preste en el Territorio del Estado.
+También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten por sí o por interpósita persona la prestación de servicios especializados o de ejecución de obras especializadas con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen trabajadores, siempre que el servicio se preste en el Territorio del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -441,7 +441,9 @@ El impuesto, se causará en el momento en que se realicen las erogaciones por el
 
 I.- Los contribuyentes que se encuentren en los supuestos establecidos en el artículo anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, de manera mensual, dentro del término que no rebase el día 17 del mes calendario siguiente al periodo de su causación.
 
-II.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción o vía Internet, la declaración en ceros que corresponda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar la declaración correspondiente a través de los medios señalados en la fracción anterior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -457,9 +459,11 @@ DE LAS OBLIGACIONES
 
 Los contribuyentes de este impuesto tienen las obligaciones siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas Públicas, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Atención al Contribuyente de su jurisdicción;
+I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas Públicas, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en la Oficina Hidalgo Pagos de su jurisdicción;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su Firma Electrónica, expedida por el Servicio de Administración Tributaria.
 
@@ -467,17 +471,23 @@ Para efectos de la inscripción a través de medios electrónicos, el contribuye
 
 II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del territorio del Estado, deberán presentar una sola declaración conforme a lo dispuesto por el Artículo 25 de esta Ley, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de sus negociaciones; así como deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentará la declaración que corresponda conforme a lo dispuesto en el Artículo 25 de esta Ley, en la que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
+III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso a la Oficina Hidalgo Pagos correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentará la declaración que corresponda conforme a lo dispuesto en el Artículo 25 de esta Ley, en la que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo.
+IV.- Presentar, vía internet o a través de las Oficinas Hidalgo Pagos mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+Así mismo, presentar ante cualquier Oficina Hidalgo Pagos, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas oficiales, con los requisitos y en los plazos que en las mismas se establezcan.
 
-Así mismo, presentar ante cualquier Centro Regional de Atención al Contribuyente, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas oficiales, con los requisitos y en los plazos que en las mismas se establezcan.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V.- Las personas físicas o morales que subcontraten servicios especializados o la ejecución de obras especializadas, deberán presentar ante la Secretaría de Finanzas Públicas un aviso dentro del mes siguiente a aquél en que se celebre el contrato o se realicen modificaciones al mismo, mismo que deberá señalar el número de trabajadores que presten los servicios correspondientes, la denominación o razón social, el Registro Federal de Contribuyentes y el domicilio del contratista, así como anexar copia certificada del contrato respectivo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 31 DE DICIEMBRE DE 2021.]</small>
+
+En el caso de que no se llegará a exhibir el aviso ante la Secretaría de Finanzas Públicas en el término señalado, las autoridades fiscales tienen la facultad de requerir la presentación del mismo, cuando así lo crean conveniente y concederán un plazo de 10 días hábiles para dar cumplimiento con lo solicitado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -643,9 +653,9 @@ I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Fin
 
 II.- Trasladar el impuesto en forma expresa y por separado, en los comprobantes que señale el Código Fiscal del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo;
+III.- Presentar, vía internet o a través de las Oficinas Hidalgo Pagos mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo;
 
 IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto por la prestación del servicio de hospedaje;
 
@@ -1163,9 +1173,9 @@ Quienes entreguen los premios a que se refiere este capítulo, además de efectu
 
 I. Solicitar su inscripción vía internet en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas Públicas en su carácter de retenedor, mediante las formas autorizadas por la misma Dependencia;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II.- Presentar declaraciones mensuales a más tardar el día 17 del mes siguiente a aquel al que corresponda el impuesto causado, en la forma establecida por el artículo 48 de este Capítulo;
+II.- Presentar declaraciones mensuales a más tardar el día 17 del mes siguiente a aquel al que corresponda el impuesto causado, en la forma establecida por el artículo 65 de este Capítulo;
 
 III.- Proporcionar, a las personas a quienes efectúen el pago por los conceptos a que se refiere este Capítulo, constancia de ingreso y retención del impuesto;
 
@@ -1173,9 +1183,9 @@ IV.- Conservar, de conformidad con lo previsto en el Código Fiscal del Estado, 
 
 V.- Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades, el valor de los premios aun cuando estos sean en especie; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VI. Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo.
+VI.- Presentar, vía internet o a través de las Oficinas Hidalgo Pagos, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 48], P.O. 31 DE DICIEMBRE DE 2011)
 
@@ -1782,3 +1792,15 @@ P.O. 28 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 727 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 12 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2022, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Para efectos del aviso a que se refiere el penúltimo y último párrafos del artículo 26 de la Ley de Hacienda del Estado de Hidalgo, las personas físicas o morales que con anterioridad a la fecha de entrada en vigor del presente Decreto hayan subcontratado servicios especializados o la ejecución de obras especializadas, deberán presentar el aviso de los contratos o las modificaciones que se realicen a los mismos dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Lo dispuesto en el artículo 27 QUATER entrará en vigor a partir del 02 de enero del 2023 para personas morales, y para las personas físicas el 03 de julio del mismo año.
