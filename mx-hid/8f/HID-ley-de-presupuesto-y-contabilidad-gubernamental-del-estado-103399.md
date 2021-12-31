@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2020-12-31"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -454,6 +454,10 @@ IV. Los medios de identificación electrónica que hagan constar la validez de l
 V. La forma en que los archivos electrónicos generados deberán conservarse, así como los requisitos para tener acceso a los mismos.
 
 El uso de los medios de identificación electrónica que se establezca conforme a lo previsto en este artículo, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos equivalentes con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio, para lo cual los ejecutores de gasto que opten por la utilización de estos medios, aceptarán en la forma que se establezca en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica Avanzada para el Estado de Hidalgo y en las disposiciones generales aplicables, las consecuencias y alcance probatorio de los medios de identificación electrónica.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+La Secretaría mediante disposiciones generales podrá autorizar el uso de otras firmas electrónicas.
 
 Los ejecutores de gasto, serán responsables de llevar un estricto control de los medios de identificación electrónica, así como de cuidar la seguridad y protección de los equipos y sistemas electrónicos y, en su caso, de la confidencialidad de la información en ellos contenida.
 
@@ -1205,9 +1209,9 @@ Una vez concluida la vigencia del Presupuesto de Egresos sólo procederá hacer 
 
 Sin perjuicio de lo anterior, los ingresos de libre disposición que al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido, deberán quedar devengados a más tardar el último día hábil del mes de marzo del ejercicio fiscal siguiente o bien de conformidad con el calendario de ejecución establecido en el convenio correspondiente. Una vez concluido este plazo, la Secretaria podrá reorientarlos a otros proyectos prioritarios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Los poderes Legislativo y Judicial, los entes autónomos, las dependencias, así como las entidades respecto de los subsidios o transferencias que reciban, que por cualquier motivo conserven recursos, incluyendo los rendimientos obtenidos, que no estén comprometidos al 31 de diciembre, deberán reintegrar el importe disponible a la Secretaría, dentro de los 15 días naturales siguientes al cierre del ejercicio.
+Los poderes Legislativo y Judicial, los entes autónomos, las dependencias, así como las entidades respecto de los subsidios o transferencias que reciban, que por cualquier motivo conserven recursos, que no estén comprometidos al 31 de diciembre, deberán reintegrar el importe disponible a la Secretaría, dentro de los 15 días naturales siguientes al cierre del ejercicio. Tratándose de diferencias que resulten entre los montos autorizados y los contratados que deriven de subsidios o transferencias de ingresos de libre disposición, así como los rendimientos financieros que se generen en las cuentas bancarias productivas específicas donde se reciban dichos recursos, deberán ser reintegrados a la Secretaría, a más tardar dentro de los 15 días naturales posteriores al cierre de cada trimestre.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1444,6 +1448,10 @@ Cuando algún servidor público fallezca y tuviere cuando menos una antigüedad 
 El Ejecutivo del Estado, por conducto de la Secretaría, autorizará la ministración y destino de los subsidios y las transferencias con cargo a los presupuestos de las dependencias y, en su caso de las entidades, se aprueben en el Presupuesto de Egresos. La Secretaría podrá reducir, suspender o terminar la ministración de subsidios y transferencias cuando las dependencias y entidades no cumplan lo establecido en esta Ley.
 
 Los titulares de las dependencias y entidades, con cargo a cuyos presupuestos se autorice la ministración de subsidios y transferencias, serán responsables, en el ámbito de sus competencias, de que éstos se otorguen y ejerzan conforme a las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los subsidios y transferencias de ingresos de libre disposición deberán ser administrados en cuentas bancarias productivas específicas, en las cuales se manejarán exclusivamente los recursos del ejercicio fiscal respectivo y sus rendimientos.
 
 La Secretaría podrán suspender las ministraciones de recursos a los órganos administrativos desconcentrados o a las entidades, cuando éstos no cumplan con las disposiciones generales aplicables.
 
@@ -1778,3 +1786,15 @@ P.O. 31 DE DICIEMBRE DE 2020.
 PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2021, previa su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 12 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2022, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Para efectos del aviso a que se refiere el penúltimo y último párrafos del artículo 26 de la Ley de Hacienda del Estado de Hidalgo, las personas físicas o morales que con anterioridad a la fecha de entrada en vigor del presente Decreto hayan subcontratado servicios especializados o la ejecución de obras especializadas, deberán presentar el aviso de los contratos o las modificaciones que se realicen a los mismos dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Lo dispuesto en el artículo 27 QUATER entrará en vigor a partir del 02 de enero del 2023 para personas morales, y para las personas físicas el 03 de julio del mismo año.
