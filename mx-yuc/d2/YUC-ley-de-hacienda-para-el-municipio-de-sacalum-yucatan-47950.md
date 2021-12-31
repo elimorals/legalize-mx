@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2020-12-26"
+last_updated: "2021-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -1319,19 +1319,19 @@ TARIFA
 
 La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el artículo 88 de esta Ley, serán los siguientes:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 I.- Por apertura para venta de bebidas
 
 alcohólicas $25,000.00
 
-(REPUBLICADA, D.O. 26 DE DICIEMBRE DE 2020)
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 II.- Por revalidación para venta de bebidas
 
 alcohólicas $6,000.00
 
-(REPUBLICADA, D.O. 26 DE DICIEMBRE DE 2020)
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 III.- Por permisos eventuales para venta de
 
@@ -1375,139 +1375,261 @@ COMERCIAL O DE
 
 SERVICIOS $ $
 
-I.- Farmacias, boticas y similares 300 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I.- Farmacias, boticas y similares 300.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 II.- Carnicerías, pollerías,
 
-pescaderías y fruterías 300 150
+pescaderías y fruterías 300.00 150.00
 
-III.- Panaderías y tortillerías 300 200
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV.- Expendio de refrescos 300 200
+III.- Panaderías y tortillerías 300.00 200.00
 
-V.- Fábrica de jugos embolsados 300 200
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VI.- Expendio de refrescos naturales 300 100
+IV.- Expendio de refrescos 300.00 200.00
 
-VII.- Compra/venta de oro y plata 1,000.00 500
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V.- Fábrica de jugos embolsados 300.00 200.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VI.- Expendio de refrescos naturales 300.00 100.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VII.- Compra/venta de oro y plata 1,000.00 500.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VIII.- Taquerías, loncherías,
 
-Restaurantes, fondas. 500 150
+Restaurantes, fondas 500.00 150.00
 
-IX.- Taller y/o expendio de alfarerías 200 100
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-X.- Talleres Zapatería o accesorios. 2,000.00 800
+IX.- Taller y/o expendio de alfarerías 200.00 100.00
 
-XI.- Tlapalerías 400 200
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+X.- Talleres Zapatería o accesorios. 2,000.00 800.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XI.- Tlapalerías 400.00 200.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XII.- Compra/venta de materiales de
 
-construcción 1,000.00 500
+construcción 1,000.00 500.00
 
-XIII.- Tiendas, tendejones y misceláneas 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XIV.- Bisutería y otros 400 150
+XIII.- Tiendas, tendejones y misceláneas 400.00 150.00
 
-XV.- Compra/venta de motos y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-refaccionarías 700 150
+XIV.- Bisutería y otros 400.00 150.00
 
-XVI.- Papelerías y centro de copiado 700 200
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XV.- Compra/venta de motos y refaccionarias 700.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XVI.- Papelerías y centro de copiado 700.00 200.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XVII.- Hoteles, hospedajes 10,000.00 1,500.00
 
-XVIII.- Peleterías compra/venta de
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-sintéticos 450 250
+XVIII.- Peleterías compra/venta
 
-XIX.- Terminales de taxis,
+de sintéticos 450.00 250.00
 
-autobuses y triciclos 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XX.- Ciber café y centros de cómputo 300 200
+XIX.- Terminales de taxis, autobuses
 
-XXI.- Estéticas unisex y peluquerías 300 150
+y triciclos 400.00 150.00
 
-XXII.- Talleres mecánicos 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XX.- Ciber café y centros de cómputo 300.00 200.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXI.- Estéticas unisex y peluquerías 300.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXII.- Talleres mecánicos 400.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XXIII.- Talleres de torno y herrería
 
-en general 400 200
+en general 400.00 200.00
 
-XXIV.- Restaurantes 500 300
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XXV.- Tiendas de ropa y almacenes 400 150
+XXIV.- Restaurantes 500.00 300.00
 
-XXVI.- Florerías y funerarias 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXV.- Tiendas de ropa y almacenes 400.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXVI.- Florerías y funerarias 400.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XXVII.- Bancos, casas de empeño
 
-y financieras 3,500.00 1000
+y financieras 5,000.00 2,000.00
 
-XXVIII.- Puestos de venta de revistas,
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-periódicos 300 100
+XXVIII.-Puestos de venta, de
 
-XXIX.- Videoclubs en general 300 150
+revistas, periódicos 300.00 100.00
 
-XXX.- Carpinterías 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XXXI.- Bodegas de refrescos 1,500.00 200
+XXIX.- Videoclubs en general 300.00 150.00
 
-XXXII.- Consultorios y clínicas 700 400
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XXXIII.- Peleterías y dulcerías 300 150
+XXX.- Carpinterías 400.00 150.00
 
-XXXIV.-Expendios de telefonía celular 300 200
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXXI.- Bodegas de refrescos 3,500.00 800.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXXII.- Consultorios y clínicas 700.00 400.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXXIII.-Peleterías y dulcerías 300.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXXIV.- Expendios da (sic) telefonía celular 300.00 200.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XXXV.- Cinema 2,000.00 1,000.00
 
-XXXVI.-Talleres de reparación y eléctrica 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XXXVII.- Escuelas particulares y academias 700 300
+XXXVI.- Talleres de reparación y eléctrica 400.00 150.00
 
-XXXVIII.- Salas de fiestas 3,000.00 1,000.00
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XXXIX.-Expendios de alimentos de
+XXXVII.- Escuelas particulares y academias 700.00 300.00
 
-animales 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXXVIII.- Salas da (sic) fiestas 3,000.00 1,000.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXXIX.- Expendios de alimentos de animales 400.00 150.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XL.- Gaseras 3,000.00 1,000.00
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 XLI.- Gasolineras 6,000.00 1,500.00
 
-XLII.- Mueblería 300 100
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XLIII.- Servicio de sistema de cablevisión 800 500
+XLII.- Mueblería 300.00 100.00
 
-XLIV.- Fábrica de hielo 400 150
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XLV.- Centros de foto estudios y grabación 400 150
+XLIII.- Servicio de sistema de cablevisión 800.00 500.00
 
-XLVI.- Despachos contables y jurídicos 1000 500
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XLVII.- Servicio de motos taxi 500 150
+XLIV.- Fábrica de hielo 400.00 150.00
 
-XLVIII.- Compra/venta de frutas y verduras 300 100
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XLV.- Centros de foto estudios y grabación 400.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XLVI.- Despachos contables y jurídicos 1,000.00 500.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XLVII.- Servicio de motos taxi 500.00 150.00
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XLVIII.- Compra/venta de frutas y verduras 300.00 100.00
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XLIX.- Empacadoras de alimentos 7,000.00 4,000.00
 
-LX (SIC).- La instalación y operación de
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+L.- La instalación y operación de
 
 plantas fotovoltaicas para la generación
 
-de energía renovable y no renovable 600,000.00 70,000.00
+de energía renovable y no renovable. 600,000.00 70,000.00
 
-LXI.- Granjas avícolas, porcícolas,
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-ganaderas de más
+LI.- Por la instalación de ductos,
 
-de 10 empleados. 20,000.00 15,000.00
+postes para energías renovables
 
-LXII.- Servicios de Sistemas de telefonía
+o no renovables 300,000.00 50,000.00
 
-celular 50,000.00 50,000.00
+(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXI (SIC)], D.O. 31 DE DICIEMBRE DE 2021)
+
+LII.- Granjas avícolas, porcícolas,
+
+ganaderas de más de 10 empleados. 20,000.00 5,000.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+LIII.- Granjas avícolas, porcícolas,
+
+ganaderas de menos de 10
+
+empleados 3,000.00 1,000.00
+
+(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LX (SIC)], D.O. 31 DE DICIEMBRE DE 2021)
+
+LIV.- Instalación y operación de
+
+parques eolíticos para la generación
+
+de energía renovable o no renovable 400,000.00 60,000.00
+
+(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXII (SIC)], D.O. 31 DE DICIEMBRE DE 2021)
+
+LV.- Servicios de Sistemas de celular
+
+o satelital. 50,000.00 10,000.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -2346,3 +2468,23 @@ Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente
 ## Transitorio
 
 Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
