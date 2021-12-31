@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-chochola-yucatan-27162"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2019-12-27"
+last_updated: "2021-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLÁ, YUCATÁN, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021 (DEROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -1858,3 +1860,17 @@ D.O. 27 DE DICIEMBRE DE 2019.
 Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLÁ, YUCATÁN".]
+
+Artículo Primero.- La presente ley y las contenidas en él, entrarán en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán. Asimismo, se deroga la Ley de Hacienda del Municipio de Chocholá, Yucatán y sus reformas que contravengan lo dispuesto en la presente ley.
+
+Artículo Segundo.- Los sujetos obligados por esta Ley deberán contar con licencia de funcionamiento y tramitar su obtención ante la Dirección de Finanzas y Tesorería Municipal en un plazo de cuatro meses contados a partir de la entrada en vigor del presente ordenamiento.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 452/2021 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CENOTILLO, CONKAL, CHEMAX, CHICHIMILÁ, CHOCHOLÁ, HOCABÁ, IXIL, KANASÍN, MOCOCHÁ, TETIZ, TZUCACAB, YAXCABÁ Y YAXKUKUL".]
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto, entrará en vigor el primero de enero del año 2022, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
