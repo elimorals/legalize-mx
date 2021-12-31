@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2021-08-03"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -39,13 +39,19 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 1.
 
-Objeto de la ley. La presente Ley es de orden público e interés social y de aplicación obligatoria en todo el territorio de Baja California y tiene por objeto establecer las disposiciones normativas sobre la organización, funcionamiento y ejercicio de las atribuciones de la Fiscalía General del Estado de Baja California, como órgano constitucional autónomo, con personalidad jurídica y patrimonio propios, con autonomía de gestión y presupuestaria, de reglamentación interna y decisión; que tendrá a su cargo las atribuciones conferidas al Ministerio Público en Baja California, así como aquellas en materia de Seguridad Pública previstas en la ley, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Baja California y las demás disposiciones legales aplicables.
+Objeto de la ley. La presente Ley es de orden público e interés social y de aplicación obligatoria en todo el territorio de Baja California y tiene por objeto establecer las disposiciones normativas sobre la organización, funcionamiento y ejercicio de las atribuciones de la Fiscalía General del Estado de Baja California, como órgano constitucional autónomo, con personalidad jurídica y patrimonio propios, con autonomía de gestión y presupuestaria, de reglamentación interna y decisión; que tendrá a su cargo las atribuciones conferidas al Ministerio Público, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Baja California y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-Fines institucionales. La Fiscalía General del Estado de Baja California tendrá como finalidad la investigación de los delitos y el esclarecimiento de los hechos, procurar justicia de manera eficaz, efectiva y apegada a derecho; combatir a la delincuencia, disminuirla, prevenir el delito, fortalecer el Estado de Derecho, así como promover, proteger y garantizar los derechos de reparación integral, de verdad y de no repetición para la sociedad en general. Asimismo, la Fiscalía General ejercerá atribuciones en materia de Seguridad Pública de conformidad con las leyes aplicables en la materia.
+Fines institucionales. La Fiscalía General del Estado de Baja California tendrá como finalidad la investigación de los delitos y el esclarecimiento de los hechos, procurar justicia de manera eficaz, efectiva y apegada a derecho; combatir a la delincuencia, disminuirla, prevenir el delito en el ámbito de su competencia, fortalecer el Estado de Derecho, así como promover, proteger y garantizar los derechos de reparación integral, de verdad y de no repetición para la sociedad en general.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 3.
 
@@ -53,45 +59,63 @@ Glosario. Para los efectos de esta Ley se entenderá por:
 
 I. Centro de Evaluación y Control de Confianza: Órgano de la Fiscalía General a cargo de los procesos de ingreso y permanencia del personal que la compone;
 
-II. Centro Estatal de Inteligencia: Órgano de coordinación en materia de seguridad pública de la Fiscalía General;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+II. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de Baja California;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV. Fiscalía General del Estado: La Fiscalía General del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 V. Fiscal General: El Fiscal General del Estado de Baja California;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 VI. Fiscal Central: Fiscal que tiene a su cargo la coordinación de los fiscales regionales en la entidad y demás áreas que componen su estructura;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VII. Fiscal Regional: El Fiscal encargado de las funciones del Ministerio Público en cada uno de los municipios de la entidad;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 VIII. Fiscal o agente: El que ejerce las facultades del Ministerio Público;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 IX. Fiscal Especial: El nombrado por acuerdo del Fiscal General para asuntos específicos y de carácter temporal;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 X. Fiscal Especializado: El Fiscal que ejerce las facultades del Ministerio Público en determinada materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XI. Fiscal Especializado en Combate a la Corrupción: El Fiscal que ejerce funciones de Ministerio Público en delitos relacionados con hechos de corrupción cometidos por servidores públicos y por particulares;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XII. Fiscal Especializado para la Atención de Delitos Electorales: El Fiscal que ejerce funciones de Ministerio Público en delitos electorales;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XIII. Guardia Estatal de Seguridad e Investigación: El órgano administrativo desconcentrado de la Fiscalía General, pero bajo su mando, con facultades de seguridad pública e investigación;
+XIII. Agencia Estatal de Investigación: El órgano administrativo desconcentrado de la Fiscalía General, pero bajo su mando directo, con facultades de investigación de los delitos.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XIV. Ministerio Público: La Institución del Ministerio Público;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XV. Oficialía Mayor: Entidad encargada de la administración de los recursos humanos, financieros y materiales de la Fiscalía General; y,
+XV. Oficialía Mayor de la Fiscalía General del Estado: órgano encargado de la administración de los recursos humanos, financieros y materiales de la Fiscalía General del Estado, y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XVI. Servicio de Carrera: El Servicio Profesional de Carrera de la Fiscalía General del Estado.
 
@@ -101,9 +125,15 @@ Principios Rectores. La Fiscalía General del Estado de Baja California regirá 
 
 En todos los casos deberán observarse los principios de equidad, igualdad sustantiva y no discriminación en razón de la condición étnica, migratoria, de género, edad, discapacidad, condición social, salud, religión, opiniones, preferencia, orientación o identidad sexual, estado civil o cualquier otra condición o motivo que atente contra la dignidad humana; o bien, tenga por objeto anular o menoscabar los derechos y libertades de las personas establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-Competencia. La Fiscalía General del Estado tendrá las competencias señaladas para la institución del Ministerio Público, así como en materia de Seguridad Pública, previstas en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Baja California y en las demás leyes de la materia.
+Competencia. La Fiscalía General del Estado tendrá las competencias señaladas para la institución del Ministerio Público previstas en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Baja California y en las demás leyes de la materia.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE IX A VIII FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINAS DE LA 81 A 82.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 6.
 
@@ -121,11 +151,13 @@ V. Intervenir en el proceso de ejecución penal;
 
 VI. Intervenir en las acciones de extradición activa y pasiva;
 
-VII. Intervenir en las acciones de inconstitucionalidad o controversias constitucionales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VIII. Ejercer sus funciones en materia de Seguridad Pública de conformidad con lo dispuesto en la legislación federal y estatal correspondiente, y
+VII. Intervenir en las acciones de inconstitucionalidad o controversias constitucionales, y
 
-IX. Las demás que señalen otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VIII. Las demás que señalen otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -138,6 +170,10 @@ Publicidad y transparencia. La Fiscalía General del Estado garantizará el acce
 Titularidad. El Ministerio Público en el Estado de Baja California se organizará a través de una Fiscalía General, quien ejercerá autoridad jerárquica sobre todos los servidores públicos que la conforman.
 
 La presente ley, su reglamento, acuerdos, circulares y demás normatividad fijarán la función, número, adscripción, obligaciones y atribuciones de los servidores públicos que integran la Fiscalía General.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XIV A XII FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINA 82.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 9.
 
@@ -203,47 +239,51 @@ p. Fiscalía Especializada en Delitos Contra la Tortura.
 
 II. Fiscalía de Contraloría y Visitaduría;
 
-III. Guardia Estatal de Seguridad e Investigación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III. Agencia Estatal de Investigación;
 
 IV. Oficialía Mayor;
 
 V. Dirección Estatal de Ciencias Forenses;
 
-VI. Centro Estatal de Inteligencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VII. Centro de Evaluación y Control de Confianza;
+VI. Centro de Evaluación y Control de Confianza;
 
-VIII. Dirección del Sistema Estatal de Justicia Alternativa Penal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IX. Dirección de Prevención Ciudadana del Delito y la Violencia;
+VII. Dirección del Sistema Estatal de Justicia Alternativa Penal;
 
-X. Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
+VIII. Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria;
 
-XI. Consejería Jurídica;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+IX. Dirección Jurídica;
 
-XII. Fiscalía Especializada para la Atención de Delitos Electorales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+X. Fiscalía Especializada para la Atención de Delitos Electorales;
 
-XIII. Fiscalía Especializada en Combate a la Corrupción; y,
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2021)</small>
+XI. Fiscalía Especializada en Combate a la Corrupción, y
 
-XIV. Los demás que establezcan las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XII. Los demás que establezcan las leyes y reglamentos.
 
 El Fiscal General podrá establecer con las distintas Fiscalías y Unidades, aquellos criterios necesarios para evitar la fragmentación de las investigaciones y, en su caso, la creación de unidades mixtas de investigación.
 
 La Fiscalía General del Estado contará con Fiscales del Ministerio Público, policía de investigación, analistas, auxiliares y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones legales aplicables. Asimismo, podrá apoyarse de personal especializado de otras dependencias gubernamentales cuando las necesidades del servicio, la ley y los convenios aplicables así lo requieran, estipulen o permitan.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 10.
 
-Responsabilidad Administrativa. La Fiscalía General contará con un Órgano Interno de Control denominado Fiscalía de Contraloría y Visitaduría, con facultades y competencia para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades Administrativas del Estado de Baja California. Además, contará con las facultades otorgadas a la Contraloría Interna en la Ley de Seguridad Pública del Estado de Baja California. En el procedimiento de responsabilidad administrativa, deberá (sic) observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
+Responsabilidad administrativa. La Fiscalía General del Estado contará con un Órgano Interno de Control denominado Fiscalía de Contraloría y Visitaduría, con facultades y competencia para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades Administrativas del Estado de Baja California. En el procedimiento de responsabilidad administrativa, deberá (sic) observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
 
 ###### Artículo 11.
 
@@ -279,49 +319,75 @@ VII. Presentar un programa integral de trabajo sobre Procuración de Justicia en
 
 VIII. Someterse a la evaluación de control de confianza correspondiente; y (sic)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XIX A XV FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINAS DE LA 83 A LA 85.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 14.
 
-Facultades del Fiscal General del Estado. El titular de la Fiscalía General del Estado de Baja California, intervendrá por sí o por conducto de los Fiscales del Ministerio Público y demás órganos de la Fiscalía, en el ejercicio de las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que México sea parte, la Constitución Política del Estado Libre y Soberano de Baja California, la presente Ley y las demás disposiciones aplicables.
+Facultades del Fiscal General del Estado. El titular de la Fiscalía General del Estado de Baja California, intervendrá por sí o por conducto de los Fiscales del Ministerio Público y demás órganos de la Fiscalía, en el ejercicio de las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Baja California, la presente Ley y las demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 El Fiscal General del Estado, de forma enunciativa más no limitativa, tendrá dentro de sus atribuciones, las siguientes:
 
 I. Determinar la política, criterios y prioridades institucionales, ejerciendo por sí o por conducto de las Fiscalías y demás órganos de la Fiscalía General, los fines institucionales previstos en la presente Ley;
 
-II. Emitir con apego a los preceptos constitucionales federales y estatales, los reglamentos, decretos, acuerdos, convenios, protocolos, instrumentos y acciones relativas a los asuntos que sean competencia de la Fiscalía General; así como proponer al Gobierno del Estado los anteproyectos de leyes relacionados con la seguridad pública, la prevención, investigación y persecución del delito;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III. Desarrollar las políticas de seguridad pública del Estado, así como proponer al Ejecutivo del Estado las acciones de gobierno, normatividad, instrumentos, programas y estrategias para le (sic) prevención de los delitos, combate a la delincuencia y otros factores que incidan en la misma;
+II. Emitir con apego a los preceptos constitucionales federales y estatales, los reglamentos, decretos, acuerdos, convenios, protocolos, instrumentos y acciones relativas a los asuntos que sean competencia de la Fiscalía General; así como proponer al Poder Ejecutivo del Gobierno del Estado los anteproyectos de leyes relacionados (sic) investigación y persecución del delito;
 
-IV. Designar y remover a los servidores públicos de la institución, con excepción de los casos que la ley establezca; así como ejercer la disciplina y administración de todo el personal de la Fiscalía General, resolviendo sobre su ingreso, adscripción, sustitución, promoción, renuncia, permiso, licencia, estímulos y sanciones, cuando sean procedentes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-V. Coordinar el Centro Estatal de Inteligencia, en los términos y mecanismos que señalen las leyes respectivas;
+III. Designar y remover a los servidores públicos de la Fiscalía General del Estado, con excepción de los casos que la ley establezca; así como ejercer la disciplina y administración de todo el personal de la Fiscalía General del Estado, resolviendo sobre su ingreso, adscripción, sustitución, promoción, renuncia, permiso, licencia, estímulos y sanciones, cuando sean procedentes;
 
-VI. Establecer coordinaciones, agencias, oficinas, departamentos; así como crear las fiscalías, unidades especializadas o direcciones, de acuerdo a las necesidades del servicio y margen presupuestal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VII. Emitir instrucciones de carácter particular, o general, al personal a su cargo, sobre el ejercicio de sus funciones, y delegar las atribuciones propias de su cargo a sus subordinados cuando sea procedente conforme a derecho y a las necesidades del servicio;
+IV. Establecer coordinaciones, agencias, oficinas, departamentos; así como crear las fiscalías, unidades especializadas o direcciones, de acuerdo a las necesidades del servicio y margen presupuestal;
 
-VIII. Celebrar contratos o convenios para el mejor desempeño de sus funciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IX. Proponer el proyecto de presupuesto anual de egresos de la Institución y someterlo a la consideración del Congreso del Estado;
+V. Emitir instrucciones de carácter particular, o general, al personal a su cargo, sobre el ejercicio de sus funciones, y delegar las atribuciones propias de su cargo a sus subordinados cuando sea procedente conforme a derecho y a las necesidades del servicio;
 
-X. Comparecer ante el Congreso del Estado para informar de los asuntos a su cargo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XI. Ejercer las facultades que el Código de Procedimientos Penales del Estado de Baja California y la normatividad aplicable, le confieren al Procurador General de Justicia del Estado en la tramitación de procedimientos penales, bajo el sistema tradicional inquisitivo mixto; y
+VI. Celebrar contratos o convenios para el mejor desempeño de las funciones de la Fiscalía General;
 
-XII. Ejercer las facultades que el Código Nacional de Procedimientos Penales le confieren al Procurador en la tramitación de los procedimientos penales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XIII. Ejercer las facultades y atribuciones que en materia de Seguridad Publica correspondan para el correcto despacho de sus asuntos;
+VII. Proponer el proyecto de presupuesto anual de egresos de la Fiscalía General del Estado y someterlo a la consideración del Congreso del Estado;
 
-XIV. Representar a la Fiscalía General del Estado en las relaciones institucionales con otras entidades u órganos de gobiernos locales, federales, nacionales e internacionales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XV. Participar en el Sistema Nacional de Seguridad Pública;
+VIII. Comparecer ante el Congreso del Estado cuando sea citado para informar de los asuntos a su cargo;
 
-XVI. Participar en la Conferencia Nacional de Procuración de Justicia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XVII. Participar en el sistema de atención a las víctimas y ofendidos por la comisión de delitos;
+IX. Ejercer las facultades que el Código Nacional de Procedimientos Penales del Estado de Baja California y la normatividad aplicable, le confieren al Procurador General de Justicia del Estado en la tramitación de procedimientos penales, bajo el sistema tradicional inquisitivo mixto;
 
-XVIII. Solicitar la colaboración de otras autoridades, así como auxiliar a las que lo soliciten, directamente o por conducto de la Fiscalía Central, en la persecución de los probables autores o partícipes del hecho delictivo, en los términos que dispongan las leyes, acuerdos, convenios, bases y demás instrumentos de colaboración celebrados para tal efecto, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XIX. Las demás que le confieren las leyes y reglamentos.
+X. Ejercer las facultades que el Código Nacional de Procedimientos Penales le confieren al Procurador en la tramitación de los procedimientos penales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XI. Representar a la Fiscalía General del Estado en las relaciones institucionales con otras entidades u órganos de gobiernos locales, federales, nacionales e internacionales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XII. Participar en la Conferencia Nacional de Procuración de Justicia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIII. Participar en el sistema de atención a las víctimas y ofendidos por la comisión de delitos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIV. Solicitar la colaboración de otras autoridades, así como auxiliar a las que lo soliciten, directamente o por conducto de la Fiscalía Central, en la persecución de los probables autores o partícipes del hecho delictivo, en los términos que dispongan las leyes, acuerdos, convenios, bases y demás instrumentos de colaboración celebrados para tal efecto, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XV. Las demás que le confieren las leyes y reglamentos.
 
 ###### Artículo 15.
 
@@ -625,61 +691,21 @@ V. Someterse a la evaluación de control de confianza correspondiente.
 
 Designación de Fiscales Especializados. Los titulares de las Fiscalías del Ministerio Público de la Fiscalía General del Estado, serán designados, y en su caso, ratificados o removidos libremente por el Fiscal General del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 28.
 
-Guardia Estatal de Seguridad e Investigación. La Fiscalía General del Estado, contará con un órgano administrativo desconcentrado, jerárquicamente subordinado a ella y con facultades específicas para resolver sobre seguridad e investigación, denominado Guardia Estatal de Seguridad e Investigación, la cual estará a cargo de un Comisionado Estatal quien, a su vez, contará con superioridad jerárquica sobre la siguiente estructura orgánica:
+Agencia Estatal de Investigación. La Fiscalía General del Estado contará con un órgano administrativo desconcentrado, jerárquicamente subordinado a ella y con facultades específicas para resolver sobre la investigación del delito, denominado Agencia Estatal de Investigación, la cual estará a cargo de un Comisionado Estatal quien, a su vez, contará con superioridad jerárquica sobre la siguiente estructura orgánica:
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
+I. Coordinación de la Agencia Estatal de Investigación, y
 
-I. Coordinación de la Guardia Estatal de Seguridad;
+II. Coordinación del Centro Estatal de Denuncia Anónima.
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
-
-II. Coordinación de la Agencia Estatal de Investigación;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
-
-III. Dirección de Control, Comando, Comunicación y Cómputo;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
-
-IV. Dirección de Servicios de Seguridad Privada;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
-
-V. Dirección del Sistema de Información de Seguridad; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
-
-VI. Coordinación del Centro Estatal de Denuncia Anónima.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE ABRIL DE 2021)</small>
-
-Las atribuciones, obligaciones, requisitos y características orgánicas de la Guardia Estatal de Seguridad e Investigación, estarán determinadas por la presente Ley y su reglamentación.
+Las atribuciones, obligaciones, requisitos y características orgánicas de la Agencia Estatal de Investigación, estarán determinadas por la presente Ley y su reglamentación.
 
 ###### Artículo 29.
 
-Guardia Estatal de Seguridad. La Coordinación de la Guardia Estatal de Seguridad, contará al menos con las siguientes áreas:
-
-a. Dirección General de Policía de Proximidad Social;
-
-b. Dirección General (sic) Protección Institucional y de Personas;
-
-c. Dirección del Grupo Especial de Operaciones;
-
-d. (DEROGADO, P.O. 30 DE ABRIL DE 2020)
-
-e. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
-
-f. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
-
-g. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
-
-h. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
-
-i. Coordinación de Licencia Oficial Colectiva, y
-
-j. Las demás que establezca la reglamentación del presente ordenamiento y demás normatividad aplicable.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 30.
 
@@ -697,9 +723,11 @@ e. Dirección de Operaciones Encubiertas, y
 
 f. Las demás que establezca la reglamentación del presente ordenamiento y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 31.
 
-Requisitos para ser Comisionado de la Guardia Estatal de Seguridad e Investigación. El titular de la Guardia Estatal de Seguridad e Investigación deberá cumplir, como mínimo, los siguientes requisitos:
+Requisitos para ser Comisionado de la Agencia Estatal de Investigación. El titular de la Agencia Estatal de Investigación deberá cumplir, como mínimo, los siguientes requisitos:
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos;
 
@@ -751,11 +779,13 @@ III. Las demás que el Fiscal determine de acuerdo a las necesidades del servici
 
 ###### Artículo 34.
 
-Centro Estatal de Inteligencia. La Fiscalía General del Estado, contará con un órgano de coordinación en materia de seguridad pública, denominado Centro Estatal de Inteligencia. Este Centro se integrará por la Fiscalía General, cuyo titular fungirá como coordinador del órgano, así como por las secretarías y/o direcciones de seguridad pública de los ayuntamientos de Baja California, cuyas atribuciones y responsabilidades quedarán establecidas en la legislación y normatividad correspondiente.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 35.
 
-Centro de Evaluación y Control de Confianza. La Dirección General del Centro de Evaluación y Control de Confianza, es un órgano de la Fiscalía General del Estado, que aplicará las evaluaciones en los procesos de selección de aspirantes, ingreso, permanencia, desarrollo y promoción de Agentes del Ministerio Público, Policías, Peritos y Auxiliares; asimismo, mediante convenios de colaboración, las que sean necesarias para la evaluación del personal operativo de Custodia Penitenciaria y de Policía de los Ayuntamientos, así como miembros y elementos de apoyo de las Instituciones de Seguridad Pública y personal operativo de los Prestadores de Servicios de Seguridad Privada, en términos de la Ley General del Sistema Nacional de Seguridad Pública y demás normas aplicables.
+Centro de Evaluación y Control de Confianza. La Dirección General del Centro de Evaluación y Control de Confianza, es un órgano de la Fiscalía General del Estado, que aplicará las evaluaciones en los procesos de selección de aspirantes, ingreso, permanencia, desarrollo y promoción de Agentes del Ministerio Público, Policías de la Agencia Estatal de Investigación, Peritos y Auxiliares; asimismo, mediante convenios de colaboración, las que sean necesarias para la evaluación de los miembros y elementos de apoyo de la Fuerza Estatal de Seguridad Ciudadana, Fuerza Estatal de Seguridad y Custodia Penitenciaria, y de la Policía de los Municipios, así como personal operativo de los Prestadores de Servicios de Seguridad Privada, en términos de la Ley General del Sistema Nacional de Seguridad Pública y demás normas aplicables.
 
 Para tal efecto, tendrá las siguientes facultades:
 
@@ -813,45 +843,69 @@ Cada Dirección de Zona contará a su vez con una Unidad de Atención y Orientac
 
 ###### Artículo 37.
 
-Dirección de Prevención Ciudadana del Delito y la Violencia. La Dirección de Prevención Ciudadana del Delito y la Violencia es un órgano de la Fiscalía General del Estado, que tendrá por objeto cumplir con los objetivos que marca la Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Baja California, así como diseñar e implementar políticas públicas, programas y acciones orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como a combatir las distintas causas y factores que la generan. Para el ejercicio de sus atribuciones, el Director tendrá bajo su mando la siguiente estructura orgánica:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-I. Subdirección de Política Criminal Preventiva y Difusión, y
-
-II. Subdirección de Vinculación Social y Participación Ciudadana.
-
-Las atribuciones, obligaciones, requisitos y características orgánicas específicas de la Dirección de Prevención Ciudadana del Delito y la Violencia, así como las subdirecciones que lo integran, estarán determinadas por el Reglamento de la presente Ley.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 38.
 
-Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria. El Instituto Estatal de Investigación y Formación Interdisciplinaria es un órgano de la Fiscalía General del Estado que servirá para formar, promover, facilitar, desarrollar y coordinar la profesionalización de los aspirantes y agentes del Ministerio Público, Policías, Peritos, y demás servidores públicos, implementando programas de estudio de educación media superior y superior, entre otros.
+Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria. El Instituto Estatal de Investigación y Formación Interdisciplinaria es un órgano de la Fiscalía General del Estado, que tendrá a su cargo la profesionalización de los miembros de la Agencia Estatal de Investigación, Agentes o fiscales del Ministerio Público y Peritos y demás servidores públicos adscritos a la misma, implementando programas de estudio de educación media superior y superior, entre otros.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2021)</small>
 
 Además, servirá para formar jóvenes en el nivel medio superior en sus diferentes tipos y modalidades, incluyendo el bachillerato general militarizado en coordinación con las autoridades educativas correspondientes, como estrategia para la prevención del delito.
 
-Para su funcionamiento, estará integrado por un director, que tendrá bajo su mando la siguiente estructura orgánica:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Para su funcionamiento, estará integrado por un Director, que tendrá bajo su mando la estructura orgánica siguiente:
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2021)</small>
 
 I. Subdirección Académica;
 
-II. Subdirección de Adiestramiento Policial, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II. Subdirección de Adiestramiento, y
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2021)</small>
 
 III. Subdirección del Bachillerato General Militarizado.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2021)</small>
+
 Las atribuciones, obligaciones, requisitos y características orgánicas de la Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria y de las subdirecciones que lo integran, estarán determinadas por el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 38 BIS. Patronato del Bachillerato Militarizado. Para el cumplimiento de la misión y fines del Bachillerato Militarizado se constituirá un Patronato, el cual estará integrado por un Presidente designado por el Fiscal General, el Director del Instituto Estatal de Investigación y Formación Interdisciplinaria, quien fungirá como Secretario y siete vocales designados por el Fiscal General del Estado, que deberán ser ciudadanos de reconocida solvencia moral, gozar de estimación general por la sociedad, y tener interés por las actividades educativas y la procuración de justicia, el cual contará con las siguientes atribuciones:
+
+I. Realizar actividades o gestiones orientadas a obtener ingresos para el financiamiento del Bachillerato Militarizado;
+
+II. Promover la concertación de acciones con instituciones públicas y privadas para incrementar los recursos económicos del Bachillerato Militarizado;
+
+III. Diseñar y proponer planes de becas para estudiantes de escasos recursos económicos;
+
+IV. Coadyuvar con la Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria, en el cumplimiento de las atribuciones de formación educativa, a cargo del Bachillerato Militarizado.
+
+V. Las demás (sic) señalen las disposiciones reglamentarias respectivas.
+
+El Patronato se organizará y funcionará de acuerdo al Reglamento Interno que expida el Fiscal General del Estado.
+
+Los miembros ciudadanos del Patronato durarán en su encargo el periodo correspondiente al del Fiscal General que los hubiere designado y desempeñarán su cargo con carácter honorifico.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 39.
 
-Consejería Jurídica. La Consejería Jurídica, es un órgano auxiliar de la Fiscalía General del Estado, a cargo de un Consejero Jurídico, a quien corresponderá el despacho de los asuntos legales de la institución, quien para el ejercicio de sus funciones tendrá la siguiente estructura orgánica:
+Dirección Jurídica. La Dirección Jurídica, es una unidad administrativa de la Fiscalía General del Estado, a cargo de un Director Jurídico, a quien corresponderá el despacho de los asuntos legales de la institución, quien para el ejercicio de sus funciones tendrá la estructura orgánica siguiente:
 
-I. Dirección Consultiva y Legislativa;
+I. Coordinación Consultiva y Legislativa;
 
-II. Dirección Jurídica de lo Contencioso;
+II. Coordinación Contenciosa, y
 
-III. Dirección Jurídica en Materia de Seguridad Pública, y
+III. Unidad de Transparencia.
 
-IV. Unidad de Transparencia.
-
-Las atribuciones, obligaciones, requisitos y características orgánicas de la Consejería Jurídica de la Fiscalía General del Estado y las áreas que la integran, estarán determinadas por el Reglamento de la presente Ley.
+Las atribuciones, obligaciones, requisitos y características orgánicas de la Dirección Jurídica y las áreas que la integran, estarán determinadas por el Reglamento de la presente Ley.
 
 ###### Artículo 40.
 
@@ -913,7 +967,17 @@ VII. A recibir estímulos, promociones y ascensos horizontales y verticales con 
 
 VIII. Las demás que señalen otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Artículo 42 BIS. La Fiscalía General del Estado tendrá a su cargo la aplicación operación y supervisión de las reglas y procesos en materia de carrera policial y régimen disciplinario de la Agencia Estatal de Investigación, para lo que se sujetará a lo dispuesto en la Ley del Sistema Estatal de Seguridad Ciudadana de Baja California para las Instituciones Policiales en materia de carrera policial, la Ley General del Sistema Nacional de Seguridad Pública y demás normas aplicables.
+
+El Servicio de Carrera a cargo de la Fiscalía, comprenderá lo relativo al Ministerio Público y a los peritos.
+
+Los servidores públicos que tengan bajo su mando a agentes del Ministerio Público o peritos no formarán parte del Servicio de Carrera por ese hecho; serán nombrados y removidos conforme a los ordenamientos legales aplicables; se considerarán trabajadores de confianza, y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
+
 ### Capítulo VI. Del Patrimonio y Presupuesto
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 43.
 
@@ -923,13 +987,11 @@ I. Los bienes muebles o inmuebles que la Fiscalía General del Estado adquiera;
 
 II. Los bienes muebles o inmuebles que el Gobierno de Baja California transfiera para el cumplimiento de las atribuciones de la Fiscalía General del Estado;
 
-III. Los bienes muebles o inmuebles que el Gobierno del Estado de Baja California determine que son de uso exclusivo de la Fiscalía General del Estado;
+III. Los recursos que anualmente determine el Congreso del Estado de Baja California en el Presupuesto de Egresos;
 
-IV. Los recursos que anualmente determine el Congreso del Estado de Baja California en el Presupuesto de Egresos;
+IV. Los recursos del Fondo Auxiliar de la Fiscalía General del Estado, y
 
-V. Los recursos del Fondo Auxiliar de la Fiscalía General del Estado, y
-
-VI. Los demás que establezcan las leyes.
+V. Los demás que establezcan las leyes.
 
 ###### Artículo 44.
 
@@ -1060,3 +1122,15 @@ P.O. 3 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto, se deberá gestionar el registro del Instituto Estatal de Investigación y Formación Interdisciplinaria, coma Institución Educativa de Nivel Media Superior, ante las autoridades correspondientes.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil veintidós.
+
+SEGUNDO. El Fiscal General del Estado dentro del plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas al Reglamento de la Ley Orgánica de la Fiscalía General del Estado o emitir las disposiciones normativas para el cumplimiento de las mismas.
+
+Los órganos o unidades administrativas de la Fiscal (sic) General del Estado cuya denominación o competencia se modifica en términos de este Decreto, ejercerán las funciones que les correspondan, por conducto de la estructura orgánica y en lo que resulte aplicable, de conformidad con las facultades y obligaciones vigentes en el Reglamento de la Ley Orgánica de la Fiscalía General del Estado, hasta la entrada en vigor de este Decreto y demás disposiciones reglamentarias.
+
+TERCERO. Para la instrumentación y cumplimiento de las presentes reformas, no será aplicable lo previsto en el Artículo 46 de (sic) Ley Orgánica de la Fiscalía General del Estado respecto de la prohibición de irreductibilidad presupuestal de la Fiscalía General del Estado, por lo que deberá observarse lo dispuesto en las reformas y régimen transitorio de la reforma a la Constitución Política del Estado de Baja California, a través de la cual se trasladan atribuciones de la Fiscalía General del Estado a la Secretaría de Seguridad Ciudadana, en materia de Seguridad Pública.
