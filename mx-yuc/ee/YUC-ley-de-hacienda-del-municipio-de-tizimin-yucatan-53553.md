@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tizimin-yucatan-53553"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2019-12-27"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATÁN
+LEY DE HACIENDA DEL MUNICIPIO DE TIZIMÍN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -42,7 +42,7 @@ D E C R E T A:
 
 Artículo Primero.- Se aprueban las Leyes de Hacienda de los Municipios de: Mayapán, que contiene 153 artículos; Temax, que contiene 176 artículos; Timucuy, que contiene 153 artículos; Tixméhuac, que contiene 137 artículos; Tizimín, que contiene 168 artículos; y Yaxcabá, que contiene 153 artículos; todos del Estado de Yucatán.
 
-...
+[...]
 
 V.- LEY DE HACIENDA DEL MUNICIPIO DE TIZIMÍN, YUCATÁN:
 
@@ -1222,6 +1222,22 @@ IV.- Aprobaciones y/o Dictámenes
 
 Es objeto del derecho por los servicios que presta por servicios de protección civil del municipio, la entrega de los resultados obtenidos de los estudios, dictámenes, que los particulares o dependencias públicas puedan ejercer la actividad de asesoría, capacitación, evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil, deberán contar con el registro expedido por la autoridad competente de protección civil.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### Sección Décima Quinta. De los derechos de saneamiento ambiental que realice el municipio
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 132 Quinquies.
+
+Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el municipio, en razón de la ocupación de hoteles, posadas o casas de huéspedes, hostales, moteles y prestador de servicio vía ferri.
+
+Son sujetos de este derecho los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales, moteles, ferri, mismo derecho que será retenido por los prestadores de servicios del ramo.
+
+El pago del derecho de saneamiento ambiental se causará en razón del 30% de la UMA por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del Registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
+
+Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a las habitaciones ocupadas por la prestación de ese servicio, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
 ### CAPÍTULO III. Contribuciones Especiales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -1705,3 +1721,23 @@ D.O. 27 DE DICIEMBRE DE 2019.
 Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
