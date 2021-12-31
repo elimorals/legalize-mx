@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -613,17 +613,13 @@ Los Derechos por la prestación de los servicios del Estado, a través de la Dir
 
 I.- Por el registro de actos del estado familiar. 1.3 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II.- Por la expedición de copia certificada de acta. 0.65 u.m.a.´s
+II.- Por la expedición de copia certificada de acta 1.3 u.m.a.’s
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
-III.- Por la expedición de copia certificada de acta interestatal. 0.65 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IV.- Por la expedición de copia certificada de acta urgente. 1.3 u.m.a.´s
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -639,9 +635,7 @@ VII.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2017)
 
 VIII.- Por inscripción de resolución administrativas (sic) 1.3 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IX.- Por la inscripción de capitulaciones patrimoniales. 0.65 u.m.a.´s;
+IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 X.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2017)
 
@@ -649,11 +643,11 @@ a) (DEROGADO, P.O. 23 DE OCTUBRE DE 2017)
 
 b) (DEROGADO, P.O. 23 DE OCTUBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XI.- Por inscripción de sentencia y/o instrumento público. 2.6 u.m.a.´s.
+XI.- Por inscripción de sentencia y/o instrumento público o privado 2.6 u.m.a.’s.
 
-La expedición a que se refiere la fracción IV del presente artículo se hará dentro de las 16 horas hábiles siguientes, sin perjuicio del principio de prelación que a otro acto corresponda.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2017)</small>
 
@@ -701,9 +695,11 @@ b) Urgentes
 
 2. Por cada hoja subsiguiente ordinario. 0.29 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-V.- Por la búsqueda de instrumentos notariales:
+V.- Por la búsqueda de instrumentos notariales y expedición de constancias de existencia o inexistencia:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 a) Ordinarios:
 
@@ -714,6 +710,8 @@ a) Ordinarios:
 3. Por quince años. 13.00 u.m.a.´s;
 
 4. Por veinte años en adelante. 19.5 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 b) Urgentes:
 
@@ -761,9 +759,7 @@ a) Ordinario. 7.8 u.m.a.´s;
 
 b) Urgentes. 10.4 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XI.- Por depósito de testamento ológrafo. 9.1 u.m.a.´s
+XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -791,6 +787,14 @@ f) Elaboración de Acuerdos. 13.00 u.m.a.´s;
 
 g) Por rexpedición (sic) de certificados digitales para acceso al Registro Nacional de Avisos de Poderes Notariales. 15.6 u.m.a.´s;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+h).- Por autorización especial para traslado de folios fuera del Distrito Judicial autorizado:
+
+1.- Ordinario 3.34 u.m.a’s;
+
+2.- Urgente 6.68 u.m.a.´s
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XV.- Por la expedición de cada 200 folios. 3.9 u.m.a.´s;
@@ -811,7 +815,9 @@ XVIII.- Por expedición de constancia de existencia o no de poder notarial en el
 
 XIX.- Por solicitud de correcciones en el Registro Nacional de Avisos de Testamento y en el Registro Nacional de Avisos de Poderes Notariales: 13.00 u.m.a.´s.
 
-Los actos que se cobren como urgentes con fundamento en los incisos b) de las fracciones IV, V, IX y X del presente artículo, deberán resolverse y entregarse al ciudadano en un plazo no mayor a 16 horas hábiles.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los actos que se cobren como urgentes con fundamento en los incisos b) de las fracciones IV, V, IX y X, así como el numeral 2, del inciso h) de la fracción XIV del presente artículo, deberán resolverse y entregarse al ciudadano en un plazo no mayor a 16 horas hábiles.
 
 #### SECCIÓN SEXTA. DEL PERIÓDICO OFICIAL DEL ESTADO
 
@@ -875,23 +881,71 @@ Los derechos por la prestación de los servicios del Estado, a través de la Sec
 
 I.- Por la expedición de licencias para conducir:
 
-a) Por la expedición de licencia de chofer. 6.5 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-b) Por la expedición de licencia de automovilista. 5.2 u.m.a.´s;
+a).- Por la expedición de licencia de chofer:
 
-c) Por la expedición de licencia de motociclista. 3.9 u.m.a.´s;
+1.- Con vigencia de 2 años 6.5 u.m.a.’s;
 
-d) Por el canje de licencia de chofer. 5.2 u.m.a.´s;
+2.- Con vigencia de 4 años 12.14 u.m.a.´s;
 
-e) Por el canje de licencia de automovilista. 3.9 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-f) Por el canje de licencia de motociclista. 2.6 u.m.a.´s;
+b).- Por la expedición de licencia de automovilista:
 
-g) Por la expedición de duplicado de Licencias de chofer, automovilista y motociclista. 2.6 u.m.a.´s;
+1.- Con vigencia de 2 años 5.2 u.m.a.’s;
 
-h) Por el cambio de licencia de automovilista a chofer. 2.6 u.m.a.´s;
+2.- Con vigencia de 4 años 10.2 u.m.a.´s;
 
-i) Por la Expedición de permiso provisional a menores de edad para conducir. 6.5 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+c).- Por la expedición de licencia de motociclista:
+
+1.- Con vigencia de 2 años 3.9 u.m.a.’s;
+
+2.- Con vigencia de 4 años 7.5 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+d).- Por el canje de licencia de chofer:
+
+1.- Con vigencia de 2 años 5.2 u.m.a.’s;
+
+2.- Con vigencia de 4 años 10.2 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+e).- Por el canje de licencia de automovilista:
+
+1.- Con vigencia de 2 años 3.9 u.m.a.’s;
+
+2.- Con vigencia de 4 años 7.5 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+f).- Por el canje de licencia de motociclista:
+
+1.- Con vigencia de 2 años 2.6 u.m.a.’s;
+
+2.- Con vigencia de 4 años 5.0 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+g).- Por la expedición de duplicado de Licencias de chofer, automovilista y motociclista:
+
+1.- Con vigencia de 2 años 2.6 u.m.a.’s;
+
+2.- Con vigencia de 4 años 5.0 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+h).- Por el cambio de licencia de automovilista a chofer:
+
+1.- Con vigencia de 2 años 2.6 u.m.a.’s;
+
+2.- Con vigencia de 4 años 5.0 u.m.a.´s;
+
+i).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -915,6 +969,10 @@ b) Por la expedición de permisos provisionales de carga:
 
 3. Los que realicen actividades eventuales, hasta por 72 horas. 1.3 u.m.a.´s;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+c).- Por la expedición de permiso provisional de conducir para menores de edad 6.5 u.m.a.’s
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DE LA UNIDAD DE REGISTRO Y SUPERVISIÓN DE SEGURIDAD PRIVADA
@@ -925,9 +983,9 @@ b) Por la expedición de permisos provisionales de carga:
 
 Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública, por conducto de la Unidad de Registro y Supervisión de Seguridad Privada, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I.- Por la autorización y revalidación anual a particulares que presten el servicio de seguridad privada dentro del Territorio del Estado de Hidalgo, conforme a lo previsto en la legislación de la materia vigente. 234.00 u.m.a.´s;
+I.- Por la autorización o revalidación anual a particulares que presten el servicio de seguridad privada dentro del Territorio del Estado de Hidalgo, por cada modalidad, conforme a lo previsto en la legislación de la materia vigente 234.00 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -937,9 +995,9 @@ II.- Por la modificación de la autorización, registro o revalidación. 13.00 u
 
 III.- Por la reposición de cédula de identificación del Personal que preste sus servicios a los particulares que otorguen servicios de seguridad privada. 0.65 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV.- Por la autorización estatal anual de los prestadores de servicios de seguridad privada con permiso federal. 97.5 u.m.a.´s;
+IV.- Por la autorización o revalidación estatal anual de los prestadores de servicios de seguridad privada con permiso federal, por cada modalidad, conforme a lo previsto en la legislación de la materia vigente 97.5 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -965,7 +1023,7 @@ I.- Tratándose de aeronaves, tanto en horario diurno como nocturno
 
 a) Por aterrizaje nacional por tonelada o fracción; 0.37 u.m.a.´s;
 
-b) Por aterrizaje internacional por tonelada o fracción. 0.74 u.m.a.´s;
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 c) Por estacionamiento en plataforma de permanencia prolongada o pernocta, por hora o fracción por tonelada. 0.026 u.m.a.´s
 
@@ -975,7 +1033,7 @@ II.- Tratándose de helicópteros, en horario diurno:
 
 a) Por aterrizaje nacional por tonelada o fracción; 0.18 u.m.a.´s;
 
-b) Por aterrizaje internacional por tonelada o fracción. 0.37 u.m.a.´s;
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 c) Por estacionamiento en plataforma de permanencia prolongada o pernocta, por hora o fracción por tonelada. 0.013 u.m.a.´s
 
@@ -985,7 +1043,7 @@ III.- Tratándose de helicópteros en horario nocturno:
 
 a) Por aterrizaje nacional por tonelada o fracción; 0.37 u.m.a.´s;
 
-b) Por aterrizaje internacional por tonelada o fracción. 0.74 u.m.a.´s; y
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 c) Por estacionamiento en plataforma de permanencia prolongada o pernocta, por hora o fracción por tonelada. 0.026 u.m.a.´s
 
@@ -1147,11 +1205,11 @@ IV.- Evaluación de Entorno Socioeconómico. 26.0 u.m.a.´s.
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE RECAUDACIÓN
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Finanzas Públicas, por conducto de la Dirección General de Recaudación y de los Centros Regionales de Atención al Contribuyente, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Finanzas Públicas, por conducto de la Dirección General de Recaudación y de las Oficinas Hidalgo Pagos, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1385,25 +1443,25 @@ I. Por la expedición de constancia de no inhabilitación o, en su caso, constan
 
 Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Obras Públicas y Ordenamiento Territorial, por conducto de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I.- Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales, incluyendo la supervisión de obra. 104.00 u.m.a.´s;
+I.- Por la autorización para la construcción de accesos para permitir la entrada o salida de vehículos, mediante carriles de aceleración y desaceleración, que afecten el derecho de vía en carreteras y puentes estatales, incluyendo la supervisión de obra 208.00 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II.- Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales, incluyendo la supervisión de obra. 15.6 u.m.a.´s;
+II.- Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales, incluyendo la supervisión de obra 104 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III.- Por la autorización para la realización de obras que impliquen el cruce de carreteras, caminos o vialidades estatales, incluyendo la supervisión de obra. 31.2 u.m.a.´s;
+III.- Por la autorización para la realización de obras que impliquen el cruce de carreteras, caminos o vialidades estatales, incluyendo la supervisión de obra 31.2 u.m.a.’s por cada cuerpo de la carretera;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV.- Por la autorización para la realización de obras marginales. 104.0 u.m.a.´s; y
+IV.- Por la autorización para la realización de obras marginal 20.8 u.m.a.’s por cada 100 metros de instalación marginal; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-V.- Por la autorización para el adosamiento en puentes. 15.6 u.m.a.’s
+V.- Por la autorización para el adosamiento en puentes 31.2 u.m.a.’s
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2356,3 +2414,15 @@ P.O. 31 DE DICIEMBRE DE 2020.
 PRIMERO. La presente Ley entrará en vigor el 01 de enero del 2021, previa su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 12 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2022, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Para efectos del aviso a que se refiere el penúltimo y último párrafos del artículo 26 de la Ley de Hacienda del Estado de Hidalgo, las personas físicas o morales que con anterioridad a la fecha de entrada en vigor del presente Decreto hayan subcontratado servicios especializados o la ejecución de obras especializadas, deberán presentar el aviso de los contratos o las modificaciones que se realicen a los mismos dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Lo dispuesto en el artículo 27 QUÁTER entrará en vigor a partir del 02 de enero del 2023 para personas morales, y para las personas físicas el 03 de julio del mismo año.
