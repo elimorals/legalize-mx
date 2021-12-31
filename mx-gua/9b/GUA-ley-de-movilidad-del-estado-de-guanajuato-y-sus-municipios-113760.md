@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2020-12-04"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -565,7 +565,7 @@ VI. En el ámbito de su competencia, promover servicios de transporte público d
 
 VII. Regular los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal;
 
-VIII. Expedir las licencias y permisos para conducir en el Estado con apego a lo que sobre el particular establece esta Ley y su reglamento;
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 IX. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionadas con el servicio público y especial de transporte;
 
@@ -593,9 +593,9 @@ Facultades de los jefes de oficina regional de movilidad
 
 Los jefes de oficina regional de movilidad tendrán las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I. Tramitar el otorgamiento de licencias y permisos para conducir de los operadores de vehículos automotores públicos y privados y de aquellos trámites que les sean encomendados derivado de los actos jurídicos que para el efecto celebre o emita la unidad administrativa de transporte;
+I. Efectuar los trámites que les sean encomendados derivado de los actos jurídicos que para el efecto celebre o emita la unidad administrativa de transporte;
 
 II. Calificar las infracciones a la Ley y su reglamento, en el ámbito de su competencia; y
 
@@ -1395,10 +1395,6 @@ Obligación de portar la licencia o permiso
 
 ### Capítulo II. Registro estatal de licencias y de infracciones
 
-Registro Estatal
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
 ###### Artículo 88.
 
 Las vías públicas, en lo referente a la movilidad y vialidad, se clasifican en:
@@ -1527,43 +1523,17 @@ Servicio especial de transporte escolar
 
 Toda persona que conduzca un vehículo de motor por las vías públicas dentro del territorio del Estado, deberá portar consigo la licencia o el permiso vigentes que corresponda al tipo de vehículo de que se trate y que haya sido expedida por la autoridad legalmente facultada para ello.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Facultad para expedir licencias y permisos
-
 ###### Artículo 101.
 
-La unidad administrativa de transporte expedirá las licencias y permisos para conducir en el Estado, de conformidad a esta Ley y su reglamento.
-
-Donador de órganos y tejidos
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 102.
 
-La licencia de conducir deberá contener el dato que indique si el titular a cuyo nombre se expide, manifestó o no su voluntad de donar sus órganos y tejidos en caso de fallecimiento.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Al efecto la unidad administrativa de transporte celebrará con las dependencias correspondientes, los convenios respectivos.
-
-Tipos de licencias
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 103.
 
-Para los efectos señalados en el presente título, la unidad administrativa de transporte, expedirá los siguientes tipos de licencia:
-
-I. Tipo «A». Que autoriza a su titular a manejar los vehículos clasificados como de transporte particular o mercantil, de pasajeros, que no excedan de diez asientos o de carga cuyo peso no exceda de tres y media toneladas;
-
-II. Tipo «B». Que autoriza a su titular a conducir, además de los vehículos autorizados en el tipo de licencia anterior, los dedicados a la prestación del servicio público y especial de transporte;
-
-III. Tipo «C». Que autoriza a su titular a conducir, además de las unidades contempladas en la licencia tipo «A» todas aquellas unidades que tengan más de dos ejes, así como tractores de semirremolque, camiones con remolque, equipos especiales movibles, vehículos con grúa y en general los de tipo pesado; y
-
-IV. Tipo «D». Que autoriza a su titular a conducir motocicletas, motonetas y otros vehículos similares; este tipo no autoriza a conducir ningún vehículo de los considerados en las fracciones anteriores.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-En el Reglamento de la Ley se podrán incorporar las subclasificaciones que resulten necesarias conforme al interés público, de los tipos de licencia referidas en este artículo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 Impedimentos para obtener licencias y permisos
 
@@ -1585,33 +1555,21 @@ Los interesados en obtener algún tipo de licencia, deben cumplir con los requis
 
 Las licencias de conducir, se otorgarán solo a personas mayores de edad, lo que se deberá acreditar en los términos que establezca el reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Cursos y exámenes
 
 ###### Artículo 106.
 
-La unidad administrativa de transporte dispondrá la impartición de cursos y la aplicación de exámenes psicométricos, teóricos y prácticos necesarios con objeto de corroborar que los interesados cuentan con los conocimientos y habilidades requeridas para el manejo de vehículos de motor. Auxiliándose para ello, en su caso, del equipo o mecanismos tecnológicos que resulten adecuados y de conformidad con lineamientos generales que se expidan para tal fin.
-
-Permisos de conducir
+La Secretaría de Seguridad Pública dispondrá la impartición de cursos y la aplicación de exámenes psicométricos, teóricos y prácticos necesarios con objeto de corroborar que los interesados cuentan con los conocimientos y habilidades requeridas para el manejo de vehículos de motor. Auxiliándose para ello, en su caso, del equipo o mecanismos tecnológicos que resulten adecuados y de conformidad con lineamientos generales que se expidan para tal fin.
 
 ###### Artículo 107.
 
-A las personas mayores de quince años y menores de dieciocho se les podrá expedir permisos de conducir únicamente del servicio particular de los tipos «A» y «D», previo consentimiento por escrito otorgado por el padre, madre o tutor del menor, además del cumplimiento de los requisitos que para tal efecto se establecen por la Ley y su reglamento.
-
-Este permiso tendrá vigencia hasta en tanto no cumpla la mayoría de edad, autorizando a los menores a conducir vehículos únicamente en el horario que comprende de las seis a las veintitrés horas.
-
-El padre, madre o tutor deberá de asumir de manera expresa el consentimiento de hacerse responsable de los daños o perjuicios que pudiera ocasionar el menor en caso de accidente.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Licencias y permisos para personas con discapacidad o con movilidad reducida
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 108.
 
-Las personas con discapacidad o movilidad reducida que la unidad administrativa de transporte y las autoridades facultadas para ello, constaten que cuentan con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos automotores de servicio particular, tendrán derecho a que se les expida la licencia o permiso para conducir correspondiente.
-
-Las personas con discapacidad o movilidad reducida que sólo pueden manejar un vehículo con características especiales, también tendrán derecho a que se les expida la licencia o permiso para manejar, para lo cual la unidad administrativa de transporte y las autoridades facultadas para ello, previamente a su expedición, verificarán que el vehículo para el que se solicita la licencia o permiso, reúne las condiciones, el equipo o las adaptaciones necesarias para su manejo por dichas personas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 Verificación de antecedentes
 
@@ -1635,13 +1593,13 @@ Cuando al obtener una licencia o permiso de conducir, el interesado haya proporc
 
 El servidor público que otorgue una licencia o permiso de conducir en contravención a lo dispuesto por esta Ley y su reglamento incurrirá en falta grave que será sancionada conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de las responsabilidades civiles o penales que se generen.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Escuelas de manejo
 
 ###### Artículo 112.
 
-La Secretaría de Gobierno podrá celebrar convenios con personas físicas o jurídico colectivas, así como con entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas, para reconocerlos en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta Ley y su reglamento.
+La Secretaría de Seguridad Pública podrá celebrar convenios con personas físicas o jurídico colectivas, así como con entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas, para reconocerlos en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta Ley y su reglamento.
 
 ### Capítulo IV. Concesiones
 
@@ -1649,23 +1607,7 @@ Explotación de la concesión
 
 ###### Artículo 113.
 
-La Secretaría de Gobierno a través de la unidad administrativa de transporte creará y administrará el registro estatal de licencias y de infracciones, el cual deberá ser permanentemente actualizado con los datos que genere la propia unidad y los que le sean proporcionados por los municipios de la entidad.
-
-Este registro contendrá como mínimo:
-
-I. Los datos de las licencias para conducir expedidas;
-
-II. El registro individualizado de los infractores de la presente Ley y su reglamento estatal y municipal, así como la o las causales que motivaron la infracción y las sanciones impuestas;
-
-III. Estadísticas de accidentes; y
-
-IV. La información estadística y en materia de seguridad vial, que permita generar medidas de prevención de accidentes e iniciar los procedimientos de suspensión y cancelación de la licencia de conducir.
-
-Las autoridades municipales en materia de tránsito, así como las de salud pública, deben remitir diariamente la información que generen en materia de accidentes e infracciones que permitan integrar el registro estatal correspondiente.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-La unidad administrativa de transporte y la unidad administrativa equivalente en cada municipio, deben crear en conjunto una red informática intermunicipal que permita la consulta oportuna y el flujo de información a las autoridades estatales y municipales.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ## TÍTULO SÉPTIMO. SERVICIOS PÚBLICO Y ESPECIAL DE TRANSPORTE
 
@@ -3327,13 +3269,13 @@ El apercibimiento es la comunicación escrita mediante la cual se señala al con
 
 Podrán retirarse de la vía pública y remitirse para su resguardo a un depósito autorizado los vehículos de los servicios público y especial de transporte que no reúnan los requisitos legales o aquellos cuya legal prestación requiera ser verificada por la unidad administrativa de transporte o la autoridad municipal respectiva y los demás en los casos establecidos en esta Ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
 Imposibilidad de efectuar trámites con adeudos de multas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 269.
 
-La Secretaría de Finanzas, Inversión y Administración y la unidad administrativa de transporte en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas en que haya incurrido.
+La Secretaría de Finanzas, Inversión y Administración y la Secretaría de Seguridad Pública en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas en que haya incurrido.
 
 Derecho a inconformarse
 
@@ -3608,3 +3550,47 @@ P.O. 4 DE DICIEMBRE DEL 2020.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El titular del Poder Ejecutivo y los ayuntamientos, deberán adecuar sus reglamentos en un plazo de 90 días, contados a partir de la publicación del presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para las adecuaciones reglamentarias
+
+Artículo Segundo. A partir de la entrada en vigencia del presente Decreto, el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para su cumplimiento, en un plazo que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales.
+
+Dentro del mismo plazo, la Secretaría de Seguridad Pública deberá expedir las disposiciones técnicas a las que se refiere el artículo 127-2 de la Ley del Sistema de Seguridad Pública del Estado de Guanajuato contenido en el presente Decreto.
+
+Proceso de entrega-recepción
+
+Artículo Tercero. El proceso de entrega-recepción extraordinaria de la Secretaría de Gobierno a la Secretaría de Seguridad Pública se normará a través de los Lineamientos Administrativos que emitan de manera conjunta las secretarías de Gobierno, de Seguridad Pública, de Finanzas, Inversión y Administración y de la Transparencia y Rendición de Cuentas.
+
+Los Lineamientos Administrativos antes referidos se emitirán dentro de los noventa días siguientes al inicio de la vigencia del presente Decreto.
+
+El proceso de entrega recepción deberá quedar concluido, con la suscripción de un dictamen por las dependencias que intervengan, dentro de los ciento ochenta días siguientes a la entrada en vigencia de las adecuaciones y la expedición de los reglamentos y demás disposiciones para el cumplimiento del presente Decreto.
+
+Periodo de transición
+
+Artículo Cuarto. A partir de la entrada en vigencia del presente Decreto, las secretarías de Gobierno, de Seguridad Pública, de Finanzas, Inversión y Administración y de la Transparencia y Rendición de Cuentas acordarán los mecanismos administrativos, presupuestales y jurídicos adecuados para asegurar la continuidad en la prestación de las funciones y servicios, en tanto concluye el proceso de entrega recepción a que se refiere el artículo anterior.
+
+Aviso a la población en general
+
+Artículo Quinto. La Secretaría de Seguridad Pública deberá publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, en los periódicos con circulación estatal y en su portal electrónico oficial, el aviso por el cual se hará del conocimiento de la población del estado, la fecha en la que iniciará a prestar las funciones y servicios que asume en los términos del presente Decreto, así como la ubicación de las oficinas en el estado y los horarios de atención al público.
+
+Sustitución jurídica
+
+Artículo Sexto. Para los efectos legales correspondientes, las referencias que en las leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en instrumentos consensuales, se realicen a la Secretaría de Gobierno y a las unidades administrativas adscritas a la Dirección General de Transporte, relacionadas con el ejercicio de las atribuciones y la prestación de los servicios y las funciones que se asignan a la Secretaría de Seguridad Pública, de conformidad con el presente Decreto, se entenderán efectuadas a esta última.
+
+En consecuencia, la Secretaría de Seguridad Pública sustituye a la Secretaría de Gobierno en sus derechos y obligaciones y asume los compromisos adquiridos por las unidades administrativas de la Dirección General de Transporte adscrita a la Secretaría de Gobierno.
+
+Acuerdos Interinstitucionales
+
+Artículo Séptimo. Las secretarías de Gobierno y de Seguridad Pública podrán celebrar acuerdos interinstitucionales para que la primera de las dependencias pueda tener acceso a las plataformas y sistemas electrónicos necesarios para la conformación, actualización, consulta y expedición de las constancias, dictámenes y demás procedimientos administrativos, que correspondan a la competencia en materia de transporte de la Secretaría de Gobierno.
+
+Asignación de recursos presupuestales
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a la Secretaría de Seguridad Pública, para la adecuada operación de las atribuciones, funciones y servicios que se le asignan en los términos del presente Decreto.
