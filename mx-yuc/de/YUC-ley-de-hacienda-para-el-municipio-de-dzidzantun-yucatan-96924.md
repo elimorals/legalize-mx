@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzidzantun-yucatan-96924"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2020-12-26"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZIDZANTÚN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -37,7 +37,9 @@ CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON F
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODAS DEL ESTADO DE YUCATÁN, EMITE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, HUNUCMÁ, PROGRESO, SINANCHÉ, TAHMEK, TEKAX, TELCHAC PUERTO y VALLADOLID, DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:…
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud y con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción IV inciso a) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -529,1051 +531,363 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 47.
 
-Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicaran las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinara aplicando la tasa del 0.10 % sobre el valor catastral de la sección 1 a la sección 4 previstos en este artículo. Y cuando no se pudiera determinar se cobrará la cuota fija considerando los siguientes importes:
+Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicarán las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinará aplicando la tasa del 0.1% sobre el valor catastral de la sección 1 a la sección 4 previstos en este artículo. Y cuando no se pudiera determinar se cobrará la cuota fija considerando los siguientes importes:
 
-Predio Urbano: $45 por m2
+Predio Urbano: $ 45 por m2
 
-En el caso de la Zona Costera, se cobrara en atención a la tabla respectiva.
+En el caso de la Zona Costera, se cobrará en atención a la tabla respectiva.
 
 Para los efectos de esta Ley el valor catastral de los predios se determinará como sigue:
 
 TABLA DE VALORES UNITARIOS DE TERRENO
 
-SECCION MANZANA $ POR M2
+SECCIÓN MANZANA $ POR M2
 
-001 001 $105.00
+001 001 $ 140.00
 
-001 002 $90.00
+001 002 $ 120.00
 
-001 003 $65.00
+001 003 $ 86.00
 
-001 004 $45.00
+001 004 $ 60.00
 
-001 005 $45.00
+001 005 $ 60.00
 
-001 006 $45.00
+001 006 $ 60.00
 
-001 007 $45.00
+001 007 $ 60.00
 
-001 011 $105.00
+001 011 $ 140.00
 
-001 012 $85.00
+001 012 $ 113.00
 
-001 013 $65.00
+001 013 $ 86.00
 
-001 014 $45.00
+001 014 $ 60.00
 
-001 015 $45.00
+001 015 $ 60.00
 
-001 016 $45.00
+001 016 $ 60.00
 
-001 021 $85.00
+001 021 $ 113.00
 
-001 022 $85.00
+001 022 $ 113.00
 
-001 023 $65.00
+001 023 $ 86.00
 
-001 024 $45.00
+001 024 $ 60.00
 
-001 025 $45.00
+001 025 $ 60.00
 
-001 026 $45.00
+001 026 $ 60.00
 
-001 027 $45.00
+001 027 $ 60.00
 
-001 028 $45.00
+001 028 $ 60.00
 
-001 029 $45.00
+001 029 $ 60.00
 
-001 030 $45.00
+001 030 $ 60.00
 
-001 031 $65.00
+001 031 $ 86.00
 
-001 032 $65.00
+001 032 $ 86.00
 
-001 033 $65.00
+001 033 $ 86.00
 
-001 034 $45.00
+001 034 $ 60.00
 
-001 035 $45.00
+001 035 $ 60.00
 
-001 036 $45.00
+001 036 $ 60.00
 
-001 037 $45.00
+001 037 $ 60.00
 
-001 041 $45.00
+001 041 $ 60.00
 
-001 042 $45.00
+001 042 $ 60.00
 
-001 043 $45.00
+001 043 $ 60.00
 
-001 044 $45.00
+001 044 $ 60.00
 
-001 045 $45.00
+001 045 $ 60.00
 
-001 046 $45.00
+001 046 $ 60.00
 
-001 051 $45.00
+001 051 $ 60.00
 
-001 052 $45.00
+001 052 $ 60.00
 
-001 053 $45.00
+001 053 $ 60.00
 
-001 054 $45.00
+001 054 $ 60.00
 
-001 061 $45.00
+001 061 $ 60.00
 
-001 062 $45.00
+001 062 $ 60.00
 
-001 063 $45.00
+001 063 $ 60.00
 
-001 064 $45.00
+001 064 $ 60.00
 
-001 065 $45.00
+001 065 $ 60.00
 
-001 071 $45.00
+001 071 $ 60.00
 
-001 072 $45.00
+001 072 $ 60.00
 
-001 073 $45.00
+001 073 $ 60.00
 
-001 074 $45.00
+001 074 $ 60.00
 
-001 075 $45.00
+001 075 $ 60.00
 
-001 076 $45.00
+001 076 $ 60.00
 
-001 077 $45.00
+001 077 $ 60.00
 
-002 001 $105.00
+002 001 $ 140.00
 
-002 002 $85.00
+002 002 $ 113.00
 
-002 003 $65.00
+002 003 $ 86.00
 
-002 004 $45.00
+002 004 $ 60.00
 
-002 005 $45.00
+002 005 $ 60.00
 
-002 006 $45.00
+002 006 $ 60.00
 
-002 007 $45.00
+002 007 $ 60.00
 
-002 008 $45.00
+002 008 $ 60.00
 
-002 009 $45.00
+002 009 $ 60.00
 
-002 010 $45.00
+002 010 $ 60.00
 
-002 011 $85.00
+002 011 $ 113.00
 
-002 012 $85.00
+002 012 $ 113.00
 
-002 013 $65.00
+002 013 $ 86.00
 
-002 014 $45.00
+002 014 $ 60.00
 
-002 015 $45.00
+002 015 $ 60.00
 
-002 016 $45.00
+002 016 $ 60.00
 
-002 017 $45.00
+002 017 $ 60.00
 
-002 018 $45.00
+002 018 $ 60.00
 
-002 019 $45.00
+002 019 $ 60.00
 
-002 020 $45.00
+002 020 $ 60.00
 
-002 021 $65.00
+002 021 $ 86.00
 
-002 022 $65.00
+002 022 $ 86.00
 
-002 023 $65.00
+002 023 $ 86.00
 
-002 024 $45.00
+002 024 $ 60.00
 
-002 025 $45.00
+002 025 $ 60.00
 
-002 026 $45.00
+002 026 $ 60.00
 
-002 027 $45.00
+002 027 $ 60.00
 
-002 031 $45.00
+002 031 $ 60.00
 
-002 032 $45.00
+002 032 $ 60.00
 
-002 033 $45.00
+002 033 $ 60.00
 
-002 041 $45.00
+002 041 $ 60.00
 
-002 042 $45.00
+002 042 $ 60.00
 
-002 043 $45.00
+002 043 $ 60.00
 
-002 044 $45.00
+002 044 $ 60.00
 
-002 045 $45.00
+002 045 $ 60.00
 
-002 046 $45.00
+002 046 $ 60.00
 
-002 047 $45.00
+002 047 $ 60.00
 
-002 048 $45.00
+002 048 $ 60.00
 
-002 049 $45.00
+002 049 $ 60.00
 
-002 050 $45.00
+002 050 $ 60.00
 
-002 051 $45.00
+002 051 $ 60.00
 
-002 052 $45.00
+002 052 $ 60.00
 
-002 053 $45.00
+002 053 $ 60.00
 
-002 054 $45.00
+002 054 $ 60.00
 
-003 001 $105.00
+003 001 $ 140.00
 
-003 002 $105.00
+003 002 $ 140.00
 
-003 003 $85.00
+003 003 $ 113.00
 
-003 004 $65.00
+003 004 $ 86.00
 
-003 005 $45.00
+003 005 $ 60.00
 
-003 006 $45.00
+003 006 $ 60.00
 
-003 007 $45.00
+003 007 $ 60.00
 
-003 011 $85.00
+003 011 $ 113.00
 
-003 012 $85.00
+003 012 $ 113.00
 
-003 013 $85.00
+003 013 $ 113.00
 
-003 014 $65.00
+003 014 $ 86.00
 
-003 015 $45.00
+003 015 $ 60.00
 
-003 021 $65.00
+003 021 $ 86.00
 
-003 022 $65.00
+003 022 $ 86.00
 
-003 023 $65.00
+003 023 $ 86.00
 
-003 024 $65.00
+003 024 $ 86.00
 
-003 025 $45.00
+003 025 $ 60.00
 
-003 026 $45.00
+003 026 $ 60.00
 
-003 027 $45.00
+003 027 $ 60.00
 
-003 031 $45.00
+003 031 $ 60.00
 
-003 032 $45.00
+003 032 $ 60.00
 
-003 033 $45.00
+003 033 $ 60.00
 
-003 034 $45.00
+003 034 $ 60.00
 
-004 001 $105.00
+004 001 $ 140.00
 
-004 002 $105.00
+004 002 $ 140.00
 
-004 003 $85.00
+004 003 $ 113.00
 
-004 004 $85.00
+004 004 $ 113.00
 
-004 005 $45.00
+004 005 $ 60.00
 
-004 006 $45.00
+004 006 $ 60.00
 
-004 011 $105.00
+004 011 $ 140.00
 
-004 012 $105.00
+004 012 $ 140.00
 
-004 013 $85.00
+004 013 $ 113.00
 
-004 014 $65.00
+004 014 $ 86.00
 
-004 015 $45.00
+004 015 $ 60.00
 
-004 016 $45.00
+004 016 $ 60.00
 
-004 021 $85.00
+004 021 $ 113.00
 
-004 022 $85.00
+004 022 $ 113.00
 
-004 023 $85.00
+004 023 $ 113.00
 
-004 024 $65.00
+004 024 $ 86.00
 
-004 025 $65.00
+004 025 $ 86.00
 
-004 026 $45.00
+004 026 $ 60.00
 
-004 031 $65.00
+004 031 $ 86.00
 
-004 032 $65.00
+004 032 $ 86.00
 
-004 033 $65.00
+004 033 $ 86.00
 
-004 034 $65.00
+004 034 $ 86.00
 
-004 041 $45.00
+004 041 $ 60.00
 
-004 042 $45.00
+004 042 $ 60.00
 
-004 043 $45.00
+004 043 $ 60.00
 
-004 051 $45.00
+004 051 $ 60.00
 
-004 052 $45.00
+004 052 $ 60.00
 
-004 061 $45.00
+004 061 $ 60.00
 
-004 062 $45.00
+004 062 $ 60.00
 
-004 063 $45.00
+004 063 $ 60.00
 
-004 064 $45.00
+004 064 $ 60.00
 
-Colonia San
+Colonia
 
-Francisco (ex-comisaria) $45.00
+San Francisco (ex-comisaría) $ 60.00
 
-VALORES DE CONSTRUCCION
+VALORES DE CONSTRUCCIÓN
 
-(CABECERA Y RESTO DEL MUNICIPIO CON EXCEPCION DE LA ZONA COSTERA)
+(CABECERA Y RESTO DEL MUNICIPIO CON EXCEPCIÓN DE LA ZONA COSTERA)
 
-> <small>[N. DE E. VÉASE VALORES DE CONSTRUCCIÓN EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 7.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 10.]</small>
 
-UNICAMENTE PARA LA ZONA COSTERA. Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicaran las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinara aplicando el factor de 0.01 sobre el valor catastral. La referencia son las unidades de gestión ambiental establecidas por la Secretaria de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado a través del Programa de Ordenamiento Ecológico y Territorial de la Costa Yucateca.
+ÚNICAMENTE PARA LA ZONA COSTERA. Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicarán las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinará aplicando el factor de 0.006 sobre el valor catastral. La referencia son las unidades de gestión ambiental establecidas por la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado a través del Programa de Ordenamiento Ecológico y Territorial de la Costa Yucateca.
 
 COORDENADAS UGA: DZD01-BAR-C3.-
 
-> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD01-BAR-C3 EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS 7 Y 8.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 10 A LA 11.]</small>
 
 COORDENADAS UGA: DZD02-BAR-URB.-
 
-> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD02-BAR-URB EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 11.]</small>
 
 COORDENADAS UGA: DZD03-BAR_C3.-
 
-> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD03-BAR_C3 EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS 8 Y 9.]</small>
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 11 A LA 16.]</small>
 
-REFERENCIA LIMITES POR M2
+SE PAGARÁ POR ZONA FEDERAL MARÍTIMA $600.00 POR M2 EN TODOS LOS PREDIOS COSTEROS QUE ESTEN EN LAS UGAS: DZD01-BAR-C3, DZD02_BAR-URB Y DZD03-BAR-C3.
 
-UGA: DZD01-
+VALORES DE CONSTRUCCIÓN ZONA COSTERA
 
-BAR-C3 Esta UGA se divide en dos zonas $900.0
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 16.]</small>
 
-para efectos del cálculo del Impuesto
-
-Predial, quedando como sigue:
-
-Los predios que se encuentran entre
-
-el Golfo de México y la carretera
-
-Estatal identificada como tramo
-
-Chabihua-Santa Clara;
-
-Los predios que se encuentran entre $150.00
-
-la carretera Estatal identificada como
-
-tramo Chabihua-Santa Clara y al sur
-
-con las UGA´s: DZD04-MAN_ANP
-
-y DZD05-LAG_ANP
-
-UGA: DZD02-
-
-BAR-URB Esta UGA se encuentra localizado (sic) $600.00
-
-el puerto de Santa Clara; el Puerto de
-
-Santa Clara se divide en Fraccionamiento
-
-Santa Clara y Puerto de Santa Clara;
-
-donde la primera a su vez está dividido
-
-en 13 manzanas, quedando como sigue:
-
-Manzana 1 que colinda al norte con el
-
-golfo de México y al oriente con
-
-la calle 2, al poniente con la manzana
-
-3, al sur con la calle 17 toda la
-
-manzana aplica Zona Federal;
-
-La manzana 2 al norte colinda con la $300.00
-
-calle 17, al oriente con la calle
-
-2 y al sur con la calle 19 Diagonal,
-
-esta manzana no aplica Zona Federal
-
-Marítima;
-
-Manzana 3, colinda al norte con el $600.00
-
-Golfo de México, al oriente con
-
-la manzana 1, al poniente con la
-
-calle 4 y al sur con la calle 17,
-
-esta manzana aplica zona federal
-
-marítima) (sic);
-
-La manzana 3A al norte colinda con $300.00
-
-la calle 17, al oriente con la calle 2A,
-
-al poniente con la calle 4 y al sur con
-
-la calle 19 diagonal, esta manzana no
-
-aplica zona federal;
-
-Manzana 4, esta manzana está $600.00
-
-dividida en dos partes; norte y
-
-sur; los predios que colinda (sic)
-
-al norte con el Golfo de México
-
-aplica zona federal, al oriente,
-
-con la calle 4, al poniente con la
-
-calle 6 y al sur con los predios
-
-de la misma manzana;
-
-Manzana 4, y la otra mitad de la $300.00
-
-manzana, parte sur, colindan con
-
-la calle 19 diagonal, al oriente
-
-con la calle 4 y al poniente con
-
-la calle 6, estos predios no aplican
-
-zona federal;
-
-Manzana 5, esta manzana está $600.00
-
-dividida en dos partes; norte y
-
-sur; los predios que colinda (sic)
-
-al norte con el Golfo de México
-
-aplica zona federal, al oriente,
-
-con la calle 6, al poniente con la
-
-calle 8 y al sur con los predios
-
-de la misma manzana;
-
-Manzana 5, la otra mitad de la $300.00
-
-manzana, parte sur, colindan con
-
-la calle 19 diagonal, al oriente
-
-con la calle 6 y al poniente con
-
-la calle 8, estos predios no
-
-aplican zona federal;
-
-Manzana 6, esta manzana está $600.00
-
-dividida en dos partes; norte y
-
-sur; los predios que colinda (sic)
-
-al norte con el Golfo de México
-
-aplica zona federal, al oriente,
-
-con la calle 8, al poniente con
-
-la manzana 7 y al sur con los
-
-predios de la misma manzana;
-
-Manzana 6 la mitad de la manzana, $300.00
-
-parte sur, colindan con la calle
-
-19 diagonal, al oriente con la
-
-calle 8 y al poniente con la calle
-
-8A estos predios no aplican zona
-
-federal;
-
-Manzana 7, colinda al norte con el $600.00
-
-Golfo de México aplica zona federal,
-
-al oriente, con la manzana 6, al
-
-poniente con la calle 10 y al sur
-
-con la calle 17;
-
-Manzana 8, esta manzana colinda al $150.00
-
-norte con la calle 17, al oriente
-
-con la calle 8A, al poniente con
-
-la calle 10 y al sur con la calle
-
-19 diagonal, esta manzana no aplica
-
-zona federal;
-
-Manzana 9, esta manzana colinda al $600.00
-
-norte con el Golfo de México aplica
-
-zona federal marítima, al oriente,
-
-con la calle 10, al poniente con la
-
-calle 12 y al sur con calle 17;
-
-Manzana 10, colinda al norte con $150.00
-
-la calle 17, no aplica zona federal
-
-marítima, al oriente, con la calle
-
-10, al poniente con la calle 12 y al
-
-sur con la calle 19 diagonal;
-
-Manzana 11, colinda al norte con $600.00
-
-el Golfo de México aplica zona
-
-federal, al oriente, con la calle
-
-12, al poniente con la calle 14 y
-
-al sur con la calle 17;
-
-Manzana 12, esta manzana colinda $150.00
-
-al norte con la calle 17, no
-
-aplica zona federal, al oriente,
-
-con la calle 12, al poniente con la
-
-calle 14 y al sur con la calle 19
-
-carretera costera, esta manzana no
-
-aplica zona federal marítima;
-
-Manzana 13, colinda al norte con el $600.00
-
-Golfo de México, aplica zona federal,
-
-al oriente, con la calle 14, al
-
-poniente con la calle 16 y al sur con
-
-la calle 17, esta manzana aplica zona
-
-federal marítima;
-
-Manzana 14, colinda al norte con $150.00
-
-la calle 17, al oriente, con la calle
-
-14, al poniente con la calle 16 y al
-
-sur con calle 17A no aplican zona
-
-federal (puerto de Santa Clara)
-
-Manzana 15, esta manzana colinda $150.00
-
-al norte con la calle 17A, al
-
-oriente, con la calle 14, al
-
-poniente con la calle 16 y al sur
-
-con la calle 19 carretera
-
-costera, no aplican zona federal
-
-(no forma parte del fraccionamiento).
-
-(puerto de Santa Clara)
-
-Manzana 16, colinda al norte con el $600.00
-
-Golfo de México y aplica zona federal
-
-marítima; al oriente con la calle 16;
-
-al poniente con la calle 18, al sur con
-
-la calle 17 del Puerto de Santa Clara,
-
-esta manzana está en el Puerto de Santa
-
-Clara;
-
-Manzana 17, colinda al norte con $150.00
-
-la calle 17, al oriente con la
-
-calle 16; al poniente con la calle
-
-18, al sur con la calle 17 A del
-
-Puerto de Santa Clara, esta manzana
-
-está en el Puerto de Santa Clara
-
-y no aplica Zona Federal Marítima;
-
-Manzana 18, colinda al norte con la $150.00
-
-calle 17 A, al oriente con la calle
-
-16; al poniente con la calle 18, al
-
-sur con la calle 19 carretera Estatal
-
-Costera del Puerto de Santa Clara,
-
-esta manzana está en el Puerto de
-
-Santa Clara y no aplica Zona Federal
-
-Marítima;
-
-Manzana 19, colinda al norte con $600.00
-
-el Golfo de México aplica zona
-
-federal marítima, al oriente con
-
-la calle 18; al poniente con la
-
-calle 20, al sur con la calle 17,
-
-esta manzana está en el Puerto de
-
-Santa Clara y aplica Zona Federal
-
-Marítima;
-
-Manzana 20, colinda al norte con la $150.00
-
-calle 17, al oriente con la calle
-
-18; al poniente con la calle 18 A,
-
-al sur con la calle 19 carretera
-
-Costera, esta manzana está en el
-
-Puerto de Santa Clara y no aplica
-
-Zona Federal Marítima;
-
-Manzana 21, colinda al norte con $150.00
-
-la calle 17, al oriente con la
-
-calle 18 A; al poniente con la
-
-calle 20, al sur con la calle
-
-19 carretera Costera, esta manzana
-
-está en el Puerto de Santa Clara
-
-y no aplica Zona Federal Marítima;
-
-Manzana 22, colinda al norte con $150.00
-
-la calle 19 diagonal, al oriente
-
-con la calle 10; al poniente con
-
-la calle 12, al sur con la calle
-
-19 carretera Costera, esta manzana
-
-está en el Puerto de Santa Clara
-
-y no aplica Zona Federal Marítima;
-
-Manzana 23, colinda al norte con $150.00
-
-la calle 19 diagonal, al oriente
-
-con la calle 8; al poniente con
-
-la calle 10, al sur con la calle
-
-19 carretera Costera, esta manzana
-
-está en el Puerto de Santa Clara y
-
-no aplica Zona Federal Marítima;
-
-Manzana 24, colinda al norte con $150.00
-
-la calle 19 diagonal, al oriente
-
-con la calle 6; al poniente con
-
-la calle 8, al sur con la calle
-
-19 carretera Costera, esta manzana
-
-está en el Puerto de Santa Clara
-
-y no aplica Zona Federal Marítima;
-
-Manzana 25, colinda al norte con $150.00
-
-la calle 19 diagonal, al oriente
-
-con la calle 4; al poniente con
-
-la calle 6, al sur con la calle
-
-19 carretera Costera, esta manzana
-
-está en el Puerto de Santa Clara
-
-y no aplica Zona Federal Marítima;
-
-Manzana 26, colinda al norte con $150.00
-
-la calle 19 diagonal, al oriente
-
-con la calle 2A; al poniente con
-
-la calle 4, al sur con la calle
-
-19 carretera Costera, esta manzana
-
-está en el Puerto de Santa Clara
-
-y no aplica Zona Federal Marítima;
-
-Manzana 27, colinda al norte con $150.00
-
-la calle 19 diagonal, al oriente
-
-con la calle 2; al poniente con
-
-la calle 2 A, al sur con la calle
-
-19 carretera Costera, esta manzana
-
-está en el Puerto de Santa Clara
-
-y no aplica Zona Federal Marítima;
-
-Manzana 28, colinda al norte con $100.00
-
-la calle 19 carretera costera, al
-
-poniente con la calle 4, al sur
-
-con la UGA: DZD04_MAN_ANP, esta
-
-manzana está en el Puerto de Santa
-
-Clara y aplica Zona Federal Marítima;
-
-Manzana 29, colinda al norte con $100.00
-
-la carretera estatal Costera calle
-
-19, al oriente con la calle 4; al
-
-poniente con la calle 6, al sur con
-
-la calle 21 esta manzana está en el
-
-Puerto de Santa Clara y no aplica
-
-Zona Federal Marítima;
-
-Manzana 30, colinda al norte con $100.00
-
-la calle 19 carretera Estatal
-
-Costera, al oriente con la calle 6;
-
-al poniente con la calle 8, al sur
-
-con la calle 21, esta manzana está
-
-en el Puerto de Santa Clara y no
-
-aplica Zona Federal Marítima;
-
-Manzana 31, colinda al norte con $100.00
-
-la calle 19 carretera Estatal
-
-Costera, al oriente con la calle 8;
-
-al poniente con la calle 10, al sur
-
-con la calle 21, esta manzana está
-
-en el Puerto de Santa Clara y no
-
-aplica Zona Federal Marítima;
-
-Manzana 32, colinda al norte con $100.00
-
-la calle 19 carretera Estatal
-
-Costera, al oriente con la calle 10;
-
-al poniente con la calle 12, al sur
-
-con la calle 21, esta manzana está
-
-en el Puerto de Santa Clara y no
-
-aplica Zona Federal Marítima;
-
-Manzana 33, colinda al norte con $100.00
-
-la calle 19 carretera Estatal
-
-Costera, al oriente con la calle 12;
-
-al poniente con la calle 14, al sur
-
-con la calle 21, esta manzana está
-
-en el Puerto de Santa Clara y no
-
-aplica Zona Federal Marítima;
-
-Manzana 34, colinda al norte con $100.00
-
-la calle 19 carretera Estatal
-
-Costera, al oriente con la calle 14;
-
-al poniente con la calle 16, al sur
-
-con la calle 21, esta manzana está
-
-en el Puerto de Santa Clara y no
-
-aplica Zona Federal Marítima;
-
-Manzana 35, colinda al norte con $100.00
-
-la calle 19 carretera Estatal
-
-Costera, al oriente con la calle 16;
-
-al poniente con la calle 18, al sur
-
-con la calle 21, esta manzana está
-
-en el Puerto de Santa Clara y no
-
-aplica Zona Federal Marítima;
-
-Manzana 36, colinda al norte con $100.00
-
-la calle 19 carretera Estatal
-
-Costera, al oriente con la calle
-
-18; al poniente calle 18 A y al sur
-
-Calle 21, esta manzana está en el
-
-Puerto de Santa Clara y no aplica
-
-Zona Federal Marítima;
-
-Todos los predios que se encuentren $100.00
-
-sobre la calle 21 dentro del UGA:
-
-DZD02_BAR-URB del puerto de Santa
-
-Clara que colinden con la Ciénega
-
-(UGA: DZD04-MAN_ANP).
-
-Todos los predios que se encuentren $100.00
-
-al sur de la carretera costera del
-
-puerto de Santa Clara dentro de la
-
-UGA: DZD02-URB.
-
-Todos los predios que se encuentren $600.00
-
-comprendidos en el inicio del área
-
-de la UGA DZD02-BAR-URB que están
-
-ubicado (sic) entre la UGA DZD01-
-
-BAR-C3 y el puerto de Santa Clara
-
-que forma parte de la UGA DZD02-
-
-BAR-URB y colinden al norte con el
-
-Golfo de México y al sur con los
-
-cuerpos de agua (charcos salineros)
-
-del puerto de Santa Clara.
-
-Todos los predios que se encuentren $600.00
-
-comprendidos en el lado oriente de
-
-la UGA DZD02-BAR_URB, que colinden
-
-al norte con el Golfo de México, al
-
-sur con la carretera Estatal Costera,
-
-al oriente con la UGA DZD03-BAR_C3,
-
-al poniente la calle 2 del
-
-Fraccionamiento Santa Clara, del
-
-Puerto de Santa Clara.
-
-UGA: DZD03-
-
-BAR_C3 Esta UGA se divide en dos zonas $900.00
-
-para efectos del cálculo del
-
-Impuesto Predial, quedando como
-
-sigue:
-
-Los predios que se encuentran entre
-
-el Golfo de México y la carretera
-
-Estatal identificada como tramo
-
-Chabihua-Santa Clara;
-
-Los predios que se encuentran entre $150.00
-
-la carretera Estatal identificada
-
-como tramo Chabihua-Santa Clara y
-
-al sur con la UGA: DZD04-MAN_ANP
-
-UGA: DZI01- Los predios que se encuentran $900.00
-
-BAR_C3 en este municipio y que forman
-
-parte de esta UGA que compartimos.
-
-SE PAGARÁ POR ZONA FEDERAL MARITIMA $300.00 POR M2 EN TODOS LOS PREDIOS COSTEROS QUE ESTEN EN LAS UGAS: DZD01-BAR-C3, DZD02_BAR-URB Y DZD03-BAR-C3.
-
-VALORES DE CONSTRUCCION ZONA COSTERA
-
-VALORES Dentro de los predios Los predios que se
-
-UNITARIOS DE que se encuentran entre encuentran entre la
-
-CONSTRUCCION el Golfo de México y la carretera Estatal
-
-carretera Estatal identificada como
-
-identificada como tramo tramo Chabihua-Santa
-
-Chabihua-Santa Clara; Clara y al sur con
-
-las UGA´s:
-
-DZD04-MAN_ANP y
-
-DZD05-LAG_ANP
-
-TIPO $ POR M2 $ POR M2
-
-DE LUJO $4,000.00 $2,000.00
-
-CONCRETO DE
-
-PRIMERA $2,500.00 $1,500.00
-
-ECONOMICO $2,000.00 $1,000.00
-
-VIVIENDA $300.00 $200.00
-
-ECONOMICA
-
-VALORES UNITARIOS DE CONSTRUCCION CONDOMINIOS, HOTELES, MOTELES, HOSTELES, VILLAS $ POR M2.
+VALORES UNITARIOS DE CONSTRUCCIÓN CONDOMINIOS, HOTELES, MOTELES, HOSTELES, VILLAS $ POR M2.
 
 TIPO $ POR M2
 
-CONCRETO $4,500.00
+CONCRETO $6,000.00
 
-PALAPAS DE PAJA
+PALAPAS DE PAJA TURÍSTICAS $5,000.00
 
-TURISTICAS $3,500.00
+HIERRO $4,000.00
 
-HIERRO $2,500.00
-
-Todo predio destinado a la producción agropecuaria $ 20.00 la hectárea, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
+Todo predio rústico destinado a la producción agropecuaria pagará en concepto de impuesto predial $20.00 la hectárea, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
 
 DEL PAGO
 
@@ -1793,11 +1107,11 @@ Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquis
 
 DE LA TASA
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 61.
 
-El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2.5 % a la base señalada en el artículo 59 de esta Ley.
+El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 3% a la base señalada en el artículo 59 de esta Ley.
 
 DEL MANIFIESTO A LA AUTORIDAD
 
@@ -2049,403 +1363,13 @@ Clase 4: Con construcción desde 241.00 metros cuadrados en adelante.
 
 DE LA TARIFA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 83.
 
 La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
 
-TARIFA PARA LICENCIAS DE USO DE SUELO Y LICENCIAS DE CONSTRUCCION
-
-CABECERA (UGAS 1 Y 3 )
-
-licencia de uso de suelo UMA
-
-superficie de hasta 250 metros cuadrados 100
-
-superficie de 250.01 hasta 500 metros cuadrados 125
-
-superficie de 500.01 hasta 750 metros cuadrados 150
-
-superficie de 750.01 hasta 1000 metros cuadrados 175
-
-superficie de 1000.01 hasta 1250 metros cuadrados 200
-
-superficie de 1250.01 hasta 1500 metros cuadrados 225
-
-superficie de 1500.01 hasta 1750 metros cuadrados 250
-
-superficie de 1750.01 hasta 2000 metros cuadrados 275
-
-superficie de 2000.01 hasta 2250 metros cuadrados 300
-
-superficie de 2250.01 hasta 2500 metros cuadrados 325
-
-superficie mayor de 2500.01 metros cuadrados 350
-
-CABECERA (UGAS 2 )
-
-licencia de uso de suelo UMA
-
-superficie de hasta 250 metros cuadrados 75
-
-superficie mayor de 250.01 metros cuadrados 100
-
-LIMITES SUPERFICIE UMA
-
-La manzana 2 al norte
-
-colinda con la calle 17,
-
-al oriente con la calle
-
-2 y al sur con la calle
-
-19 Diagonal, esta manzana Hasta 150.00 30
-
-no aplica Zona Federal metros cuadrados
-
-Marítima;
-
-Hasta 150.01 A 35
-
-La manzana 3A al norte 300 metros
-
-colinda con la calle 17, cuadrados
-
-al oriente con la calle
-
-2A, al poniente con la Hasta 300.01 40
-
-calle 4 y al sur con la metros
-
-calle 19 diagonal, esta cuadrados
-
-manzana no aplica zona en adelante
-
-federal;
-
-Manzana 4, y la otra
-
-mitad de la manzana,
-
-parte sur, colindan con
-
-la calle 19 diagonal,
-
-al oriente con la calle
-
-4 y al poniente con la
-
-calle 6, estos predios
-
-no aplican zona federal;
-
-Manzana 5, la otra mitad
-
-de la manzana, parte sur,
-
-colindan con la calle 19
-
-diagonal, al oriente con
-
-la calle 6 y al poniente
-
-con la calle 8, estos
-
-predios no aplican zona
-
-federal;
-
-Manzana 6 la mitad de la
-
-manzana, parte sur,
-
-colindan con la calle 19
-
-diagonal, al oriente con
-
-la calle 8 y al poniente
-
-con la calle 8A estos
-
-predios no aplican zona
-
-federal;
-
-Manzana 8, esta manzana SUPERFICIE 20
-
-colinda al norte con la DE HASTA
-
-calle 17, al oriente con 150 metros
-
-la calle 8A, al poniente cuadrados
-
-con la calle 10 y al sur
-
-con la calle 19 diagonal,
-
-esta manzana no aplica
-
-zona federal;
-
-Manzana 10, colinda al
-
-norte con la calle 17,
-
-no aplica zona federal
-
-maritima, al oriente,
-
-con la calle 10, al
-
-poniente con la calle
-
-12 y al sur con la calle
-
-19 diagonal;
-
-Manzana 12, esta manzana De 150.01 a 25
-
-colinda al norte con la 300 metros
-
-calle 17, no aplica cuadrados
-
-zona federal, al
-
-oriente, con la calle
-
-12, al poniente con la
-
-calle 14 y al sur con
-
-la calle 19 carretera
-
-costera, esta manzana
-
-no aplica zona federal
-
-maritima;
-
-Manzana 14, colinda
-
-al norte con la calle
-
-17, al oriente, con la
-
-calle 14, al poniente
-
-con la calle 16 y al
-
-sur con calle 17A no
-
-aplican zona federal
-
-(puerto de Santa Clara)
-
-Manzana 15, esta
-
-manzana colinda al
-
-norte con la calle
-
-17A, al oriente,
-
-con la calle 14,
-
-al poniente con la
-
-calle 16 y al sur
-
-con la calle 19
-
-carretera costera,
-
-no aplican zona
-
-federal
-
-(no forma parte del
-
-fraccionamiento).
-
-(puerto de Santa Clara)
-
-Manzana 17, colinda
-
-al norte con la calle
-
-17, al oriente con la
-
-calle 16; al poniente
-
-con la calle 18, al sur
-
-con la calle 17 A del
-
-Puerto de Santa Clara,
-
-esta manzana esta en
-
-el Puerto de Santa
-
-Clara y no aplica
-
-Zona Federal Maritima;
-
-Manzana 18, colinda
-
-al norte con la calle
-
-17 A, al oriente con
-
-la calle 16; al
-
-poniente con la
-
-calle 18, al sur
-
-con la calle 19
-
-carretera Estatal
-
-Costera del Puerto
-
-de Santa Clara, esta
-
-manzana esta en el
-
-Puerto de Santa Clara
-
-y no aplica Zona
-
-Federal Maritima;
-
-Manzana 19, colinda
-
-al norte con el
-
-Golfo de Mexico y
-
-aplica zona federal
-
-maritima, al oriente
-
-Superficie de 100
-
-hasta 250
-
-metros cuadrados
-
-Superficie de 125
-
-250.01 a 500
-
-metros cuadrados
-
-Todos los predios que Superficie de 150
-
-se encuentren 500.01 a 750
-
-comprendidos en el metros cuadrados
-
-inicio del área de la
-
-UGA DZD02-BAR-URB que
-
-están ubicado (sic) entre Superficie de 175
-
-la UGA DZD01-BAR-C3 y 700.01 a 1000
-
-el puerto de Santa Clara metros cuadrados
-
-que forma parte de la
-
-UGA DZD02-BAR-URB y Superficie de 200
-
-colinden al norte con 1000.01 a 1250.01
-
-el Golfo de México y al metros cuadrados
-
-sur con los cuerpos de
-
-agua (charcos salineros) Superficie de 225
-
-del puerto de Santa Clara. 1250.01 a 1500
-
-metros cuadrados
-
-Superficie de 250
-
-1500.01 a 1750
-
-metros cuadrados
-
-Superficie de 275
-
-1750.01 a 2000
-
-metros cuadrados
-
-Superficie de 300
-
-2000.01 a 2250
-
-metros cuadrados
-
-Superficie de 325
-
-2250.01 a 2500
-
-metros cuadrados
-
-Superficie de 350
-
-2500.01 en
-
-adelante
-
-CONSTANCIA DE TERMINACIÓN DE OBRA:
-
-Se causará un derecho por terminación de obra, equivalente al 25 por ciento del valor de la Licencia de Construcción.
-
-Licencia para realizar Constancia de régimen de
-
-demolición $ 3.00 por Condominio $40.00 por
-
-metro cuadrado. predio, departamento o
-
-local.
-
-Constancia de alineamiento Constancia para Obras de
-
-$ 4.00 por metro lineal de Urbanización $0.75
-
-frente o frentes del predio por metro cuadrado
-
-que den a la vía pública. de vía pública.
-
-Sellado de planos $ 45.00 Revisión de planos para
-
-por el servicio. trámites de uso del suelo
-
-$ 40.00 (fijo)
-
-Licencias para efectuar Licencia para hacer
-
-excavaciones $ 9.00 por cortes en banquetas,
-
-metro cúbico. pavimento (zanjas) y
-
-guarniciones $ 40.00 por
-
-metro lineal.
-
-Licencia para construir bardas o colocar pisos $ 3.00 por metro cuadrado.
-
-Permiso por construcción de fraccionamientos $ 30.00 por metro cuadrado.
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 16 A LA 21.]</small>
 
 DE LAS EXENCIONES
 
@@ -2605,7 +1529,9 @@ b) Unión, rectificación de medidas, urbanización 2 UMAS
 
 y cambio de nomenclatura
 
-c) Cédulas catastrales 2 UMAS
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+c) Cédulas catastrales 3 UMAS
 
 d) Constancias de no propiedad, única propiedad, 3 UMAS
 
@@ -2831,27 +1757,49 @@ La tarifa que se cobrará para el otorgamiento de licencias para el funcionamien
 
 Concepto Expedición Revalidación
 
-I.- Vinaterías o licorerías 600 UMAS 70 UMAS
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-II.- Expendios de cerveza 600 UMAS 70 UMAS
+I.- Vinaterías o licorerías 892.6 UMAS 80 UMAS
 
-III.- Supermercados con departamento
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-de licores 600 UMAS 70 UMAS
+II.- Expendios de cerveza 892.6 UMAS 80 UMAS
 
-IV.- Minisúper con venta de bebidas
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-alcohólicas 600 UMAS 35 UMAS
+III.- Supermercados con
 
-V.- Centros nocturnos y discotecas 600 UMAS 35 UMAS
+departamento de licores 892.6 UMAS 80 UMAS
 
-VI.- Cantinas y bares 600 UMAS 35 UMAS
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VII.- Clubes sociales 600 UMAS 35 UMAS
+IV.- Minisúper con venta
 
-VIII.- Salones de baile 600 UMAS 35 UMAS
+de bebidas alcohólicas 892.6 UMAS 40 UMAS
 
-IX.- Restaurantes, hoteles y moteles 600 UMAS 35 UMAS
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V.- Centros nocturnos
+
+y discotecas 892.6 UMAS 80 UMAS
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VI.- Cantinas y bares 892.6 UMAS 60 UMAS
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VII.- Clubes sociales 892.6 UMAS 60 UMAS
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VIII.- Salones de baile 892.6 UMAS 40 UMAS
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX.- Restaurantes, hoteles
+
+y moteles 892.6 UMAS 80 UMAS
 
 > <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -2873,15 +1821,19 @@ I.- Pagar por única vez el derecho para el otorgamiento de la correspondiente a
 
 II.- Pagar anualmente el derecho correspondiente a la renovación dentro de los primeros 60 días de cada año.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasada en Unidad de Medida y Actualización (UMA) para su cobro.
 
 > <small>[N. DE E. VÉANSE CUADROS EN EL D.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 12 A LA 14.]</small>
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>[N. DE E. VÉASE REFORMAS A LOS CUADROS, D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 22 A LA 23.]</small>
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 117.
 
-Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipos para proporcionar servicios de televisión por cable, pagando a la Tesorería del H. Ayuntamiento una cuota de 300 UMA´s.
+Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipos para proporcionar servicios de televisión por cable, pagando a la Tesorería del Ayuntamiento una cuota de 781 UMAS.
 
 ###### Artículo 118.
 
@@ -2905,17 +1857,13 @@ Esta sanción se aplicará sin perjuicio de que, la Tesorería proceda a la clau
 
 En todo caso, la Tesorería antes de aplicar las sanciones que establece este artículo requerirá por escrito al contribuyente para que realice el trámite correspondiente, otorgándole un plazo de tres días para tal efecto. Si la persona requerida hace caso omiso del requerimiento mencionado, la tesorería procederá a la clausura del establecimiento, sin perjuicio de aplicar la sanción pecuniaria procedente.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 121.
 
-Por el otorgamiento de licencias establecidas en el artículo 110 fracción II, de esta ley, se causarán y pagarán derechos de acuerdo con la siguiente tarifa basada en salarios mínimos.
+Por el otorgamiento de licencias establecidas en el artículo 110 fracción II, de esta ley, se causarán y pagarán derechos de manera mensual de acuerdo con la siguiente tabla:
 
-I.- Anuncios murales .075 S.M en forma única
-
-II.- Anuncios estructurales fijos por metro cuadrado o fracción 5 S.M anual
-
-III.- Anuncios en carteleras mayores de 2 metros
-
-cuadrados por cada metro cuadrado o fracción 1 S.M mensual
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 24.]</small>
 
 ### CAPÍTULO IX. Derechos por Servicio de Panteones
 
@@ -2965,25 +1913,33 @@ El pago de este derecho se hará al momento de solicitar el servicio.
 
 ### CAPÍTULO XI. Derechos por los Servicios de la Unidad de Acceso a la Información Pública
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 124.
 
-Son sujetos obligados al pago de derechos por los servicios que presta la Unidad de Acceso a la Información Pública del Municipio de Dzidzantún, las personas físicas o morales que soliciten, cualesquiera de los servicios a que se refiere este capítulo.
+El derecho por acceso a la información pública que proporciona la Unidad de Transparencia municipal será gratuita.
+
+La Unidad de Transparencia municipal únicamente podrá requerir pago por concepto de costo de recuperación cuando la información requerida sea entregada en documento impreso proporcionado por el Ayuntamiento y sea mayor a 20 hojas simples o certificadas, o cuando el solicitante no proporcione el medio físico, electrónico o magnético a través del cual se le haga llegar dicha información.
+
+Son sujetos del pago por concepto de costos de recuperación, a que se refiere la presente Sección, las personas que soliciten el ejercicio del derecho señalado en el artículo anterior.
 
 DE LA CLASIFICACIÓN
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 125.
 
-Los sujetos pagarán los derechos por los servicios que soliciten a la Unidad de Acceso a la Información Pública:
+El pago por concepto de costo de recuperación no podrá ser superior a la suma de:
 
-I.- Expedición de copias certificadas $ 3.00 x hoja
+I. El costo de los materiales utilizados en la reproducción de la información;
 
-II.- Emisión de copias simples $ 1.00 x hoja
+II. El costo de envío, en su caso, y
 
-III.- Información en disco magnético
+II. El pago de la certificación de los Documentos, cuando proceda.
 
-o compacto $ 150.00 x cada una
+El pago por concepto de costo de recuperación que deberá cubrir el solicitante por la modalidad de entrega de reproducción de la información a que se refiere este capítulo, deberá cubrirse de manera previa a la entrega y será determinado en la Ley de Ingresos del Municipio conforme a la modalidad que corresponda.
 
-IV.- Información en disco DVD $ 250.00 x cada una
+Las unidades de transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante y cuando los solicitantes sea (sic) personas con discapacidad.
 
 ### CAPÍTULO XII. Derechos por los Servicios de Agua Potable
 
@@ -4446,3 +3402,23 @@ D.O. 26 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 324/2020 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y VALLADOLID Y SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE TELCHAC PUEBLO Y PETO".]
 
 Artículo Único.- Este Decreto entrará en vigor el día primero de enero del año 2021, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
