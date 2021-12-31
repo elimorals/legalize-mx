@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2021-09-30"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -83,6 +83,10 @@ En materia civil, familiar y mercantil, los litigantes deberán estar asesorados
 
 En materia penal y de justicia de adolescentes, la defensa del imputado y del adolescente en conflicto con la ley penal, respectivamente, deberá ser realizada por abogado o licenciado en derecho, con título o cédula legalmente expedidos.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+En materia de justicia laboral, los abogados patronos o asesores legales de las partes, sean o no apoderados de éstas, deberán acreditar ser abogados o licenciados en derecho con cédula profesional o personas que cuenten con carta de pasante vigente, expedida por la autoridad competente para ejercer dicha profesión. Solo se podrá autorizar a otras personas para oír notificaciones y recibir documentos, pero éstas no podrán comparecer en las audiencias ni efectuar promoción alguna.
+
 > <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 Días hábiles
@@ -91,7 +95,9 @@ Días hábiles
 
 Los tribunales del estado laborarán durante todos los días hábiles del año, excepto los sábados y domingos, aquellos que estén declarados y los que en adelante se declaren inhábiles, por alguna ley federal o del estado, así como los días en que, por determinación del Pleno del Consejo de la Judicatura, se suspendan las labores, y con acuerdo del Pleno del Tribunal Superior de Justicia si la suspensión incluye a este órgano.
 
-En materia penal y de justicia para adolescentes, son hábiles las veinticuatro horas de todos los días del año, sin previa habilitación, en términos de la legislación de la materia.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+En materia penal, de justicia para adolescentes y de justicia laboral, específicamente, en cuanto al procedimiento especial de huelga, son hábiles las veinticuatro horas de todos los días del año, sin previa habilitación, en términos de la legislación de la materia.
 
 ### CAPÍTULO II. De las Garantías de la función judicial
 
@@ -167,11 +173,11 @@ Las sentencias ejecutoriadas de los tribunales del Estado deberán acatarse en s
 
 Integración general
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 15.
 
-El ejercicio de la función jurisdiccional del Poder Judicial del Estado se deposita en el Tribunal Constitucional, el Tribunal Superior de Justicia, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, los tribunales y juzgados de primera instancia y los juzgados de paz.
+El ejercicio de la función jurisdiccional del Poder Judicial del Estado se deposita en el Tribunal Constitucional, el Tribunal Superior de Justicia, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, los tribunales y juzgados de primera instancia, los Tribunales Laborales, y los juzgados de paz.
 
 > <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -503,13 +509,15 @@ Las Salas del Tribunal Superior de Justicia del Estado podrán ser Colegiadas o 
 
 Las salas colegiadas siempre estarán formadas por tres magistrados.
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Competencia de las Salas
 
 ###### Artículo 42.
 
-Las salas, según su materia y la legislación aplicable, conocerán de apelaciones, del recurso de casación, denegadas apelaciones, revisiones forzosas, excusas, recusaciones, incidentes de competencia y de acumulación, y de los demás asuntos que establezcan las leyes o que sean promovidos ante los juzgados de primera instancia.
+Las salas, según su materia y la legislación aplicable, conocerán de apelaciones, del recurso de casación, denegadas apelaciones, revisiones forzosas, excusas, recusaciones, incidentes de competencia y de acumulación, y de los demás asuntos que establezcan las leyes o que sean promovidos tribunales y juzgados de primera instancia.
+
+En la materia laboral, el Pleno determinará mediante acuerdos generales la sala o salas competentes para conocer de los conflictos competenciales y de las recusaciones que las partes promuevan contra los secretarios instructores o los titulares de los Tribunales Laborales conforme a la Ley Federal del Trabajo.
 
 Toma de decisiones en Sala Colegiada
 
@@ -893,7 +901,9 @@ La administración, vigilancia y disciplina en el Tribunal de los Trabajadores a
 
 El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, contará con un Secretario de Acuerdos, secretarios de estudio y cuenta, actuarios, oficiales de partes y demás funcionarios judiciales que sean necesarios acorde a las necesidades del trabajo y del presupuesto, según disponga la Comisión Especial del Consejo de la Judicatura.
 
-## TÍTULO QUINTO. DE LOS JUZGADOS Y TRIBUNALES DE PRIMERA INSTANCIA Y JUZGADOS DE PAZ
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO QUINTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA, TRIBUNALES LABORALES Y JUZGADOS DE PAZ
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
@@ -1079,7 +1089,9 @@ VI.- Gozar de buena reputación y no contar con amonestación administrativa alg
 
 VII.- Cumplir con los requisitos que establezca el Reglamento de Carrera Judicial.
 
-> <small>(DEROGADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+Requisitos adicionales de los jueces de ejecución de sentencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 94.
 
@@ -1131,7 +1143,7 @@ Competencia y adscripción
 
 La competencia y adscripción de los jueces de ejecución de sentencia se determinará en sus respectivos nombramientos y deberá atender a lo dispuesto en el artículo 24 de la Ley Nacional de Ejecución Penal.
 
-> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO I. De los juzgados de primera instancia del Estado
 
@@ -1139,11 +1151,61 @@ La competencia y adscripción de los jueces de ejecución de sentencia se determ
 
 Competencia en razón de materia
 
-### CAPÍTULO II. De los Juzgados de ejecución de sentencia en materia penal y de justicia para adolescentes
+###### Artículo 97 Bis.
 
-Requisitos adicionales de los jueces de ejecución de sentencia
+Los Tribunales Laborales serán competentes para conocer y resolver sobre las diferencias o los conflictos de trabajo del orden local que se susciten entre personas trabajadoras y personas empleadoras, solo entre aquellos o solo entre estos, derivados de las relaciones de trabajo o de hechos relacionados con ellas, de conformidad con el artículo 123, apartado A, fracción XX, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos y el artículo 604, párrafo primero, de la Ley Federal del Trabajo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Atribuciones
+
+###### Artículo 97 Ter.
+
+Las personas titulares de los Tribunales Laborales, las personas secretarias instructoras y sus auxiliares especializados en materia laboral, tendrán las facultades y obligaciones que les confieran la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Jurisdicción
+
+###### Artículo 97 Quater.
+
+La jurisdicción de los Tribunales Laborales será la que determine el Pleno del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Integración
+
+###### Artículo 97 Quinquies.
+
+Los Tribunales Laborales estarán a cargo, cada uno, de una jueza o un juez y contarán con las personas secretarias, funcionarias o empleadas que requieran para el cumplimiento de sus atribuciones, en términos del artículo 605 de la Ley Federal del Trabajo y de conformidad con las disposiciones reglamentarias aplicables.
+
+Para ser jueza o juez especializado en materia laboral, se deberá contar con capacidad y experiencia en materia laboral, y se deberán cubrir los requisitos a que se refiere el artículo 88 de esta Ley.
+
+Para ser secretaria o secretario instructor en materia laboral, se deberán cubrir los requisitos a que se refiere el artículo 93 de la esta Ley.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Fe pública de las personas secretarias instructoras
+
+###### Artículo 97 Sexies.
+
+Las personas secretarias instructoras tendrán fe pública en todo lo relativo al ejercicio de su cargo, de acuerdo con lo que disponga la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Disposiciones complementarias
+
+###### Artículo 97 Septies.
+
+Las disposiciones previstas en esta Ley para las juezas o los jueces de primera instancia serán aplicables para las juezas, jueces, secretarias, secretarios instructores y demás personal especializado en materia laboral, siempre que no contravengan las disposiciones de este Capítulo y de la Ley Federal del Trabajo.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO I BIS. De los Tribunales Laborales
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Competencia en razón de materia
 
 ###### Artículo 98.
 
@@ -2185,15 +2247,15 @@ Para efectos de la carrera judicial se tendrá en consideración el perfil ideal
 
 La exigencia de conocimiento y de capacitación permanente tiene como fundamento el derecho de los ciudadanos de obtener un servicio de calidad en la administración de justicia, para ello, todo funcionario o empleado del Poder Judicial del Estado ejercerá su cargo procurando que la justicia se imparta en condiciones de eficiencia, calidad, accesibilidad y transparencia, con prudencia y respeto a la dignidad de la persona.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Categorías
 
 ###### Artículo 176.
 
-La Carrera Judicial estará integrada por las categorías de juez de primera instancia, secretario general de acuerdos, secretario de acuerdos de sala, secretario de acuerdos, administrador de juzgado, secretario de estudio y cuenta, coordinador de causa, coordinador de sala, secretario auxiliar, facilitador o mediador, actuario, notificador, oficial de juzgado, oficial de mediación, técnico judicial, encargado de actas, asistente legal y las demás que establezca el Reglamento de Carrera Judicial.
+La Carrera Judicial estará integrada por las categorías de juez de primera instancia, secretario general de acuerdos, secretario de acuerdos de sala, secretario instructor, secretario de acuerdos, administrador de juzgado, secretario de estudio y cuenta, coordinador de causa, coordinador de sala, secretario auxiliar, facilitador o mediador, actuario, notificador, oficial de juzgado, oficial de mediación, técnico judicial, encargado de actas, asistente legal y las demás que establezca el Reglamento de Carrera Judicial.
 
-Las categorías de carrera judicial tendrán las funciones establecidas en esta ley y en las disposiciones normativas que emitan los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
+El Reglamento de Carrera Judicial determinará las categorías de la carrera judicial que surjan con motivo del nuevo sistema de justicia penal y del sistema de justicia laboral.
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2582,3 +2644,37 @@ Primero. El presente decreto entrará en vigor el día siguiente al de su public
 Derogación tácita
 
 Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 456/2021 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, EN MATERIA DE JUSTICIA LABORAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Nombramiento de la persona titular de la dirección general
+
+La persona titular del Poder Ejecutivo del estado nombrará a la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de ciento veinte días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo tercero. Instalación de la junta de gobierno
+
+La persona titular del Poder Ejecutivo del estado convocará a la sesión de instalación de la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de cinco días hábiles, contado a partir de la fecha de designación de la persona titular de la dirección general del centro.
+
+Artículo cuarto. Inicio de funciones del centro y los Tribunales
+
+El Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales del Poder Judicial del Estado, iniciarán funciones en la misma fecha, a más tardar el uno de mayo del año dos mil veintidós.
+
+Hasta en tanto el Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales entren en funciones, la Junta Local de Conciliación y Arbitraje, continuará conociendo de los procedimientos laborales que le competan en términos de la Ley Federal del Trabajo que estuviera vigente, previa a la reforma publicada en el Diario Oficial de la Federación el uno de mayo del año dos mil diecinueve.
+
+Artículo quinto. Servicio profesional de carrera
+
+El servicio profesional de carrera aplicable al Centro de Conciliación Laboral del Estado de Yucatán entrará en vigor cuando lo haga la norma jurídica que lo regule. Su implementación será gradual conforme a los lineamientos y manuales que presente la persona titular de la dirección general del centro y que apruebe la junta de gobierno. Durante el procedimiento de contratación, se actualizará y capacitará a todo el personal, con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional señalado.
+
+Artículo sexto. Carga presupuestaria
+
+Las obligaciones que se generen con motivo de la entrada en vigor de este decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+
+Artículo séptimo. Procedimientos y asuntos en trámite
+
+Los procedimientos y los asuntos que en materia laboral se encontrasen en trámite en la Junta Local de Conciliación y Arbitraje del estado a la entrada en vigor de este decreto, se substanciarán y resolverán por este órgano hasta su total conclusión, conforme a las disposiciones anteriores que les resultasen aplicables, independientemente de la instalación y puesta en marcha del Centro de Conciliación Laboral del Estado de Yucatán y de los Tribunales Laborales del Poder Judicial del Estado.
