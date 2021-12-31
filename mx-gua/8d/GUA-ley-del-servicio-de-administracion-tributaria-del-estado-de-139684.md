@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-servicio-de-administracion-tributaria-del-estado-de-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Novena Parte al Número 260 del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -101,13 +101,17 @@ El SATEG tendrá las atribuciones siguientes:
 
 I. Proporcionar asistencia y asesoría gratuita a los contribuyentes para el cumplimiento de sus obligaciones fiscales y el ejercicio de sus derechos;
 
-II. Determinar, liquidar y recaudar las contribuciones y aprovechamientos estatales, incluyendo sus accesorios, que resulten a cargo de los contribuyentes, responsables solidarios o terceros con ellos relacionados, que deriven del ejercicio de las facultades de comprobación; así como, ejercer los actos y facultades conforme a lo previsto en el Código Fiscal y demás normatividad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II. Determinar, liquidar y recaudar las contribuciones y aprovechamientos estatales, incluyendo sus accesorios, que resulten a cargo de los contribuyentes, responsables solidarios o terceros con ellos relacionados, que deriven del ejercicio de sus facultades; así como, ejercer los actos y facultades conforme a lo previsto en el Código Fiscal y demás normatividad aplicable;
 
 III. Determinar, liquidar y recaudar los ingresos federales coordinados, incluyendo sus accesorios, que resulten a cargo de los contribuyentes, responsables solidarios o terceros con ellos relacionados; así como, ejercer los actos y facultades conforme a lo previsto en los convenios de colaboración administrativa en materia fiscal federal;
 
 IV. Determinar, liquidar y recaudar los ingresos municipales coordinados, incluyendo sus accesorios que resulten a cargo de los contribuyentes, responsables solidarios o terceros con ellos relacionados; así como, ejercer los actos y facultades conforme a lo previsto en los convenios de colaboración administrativa en materia fiscal celebrados con los municipios;
 
-V. Verificar y vigilar el correcto y oportuno cumplimiento de las obligaciones fiscales federales y estatales a cargo de los contribuyentes, responsables solidarlos o terceros con ellos relacionados, mediante el ejercicio de las diversas facultades de comprobación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V. Verificar y vigilar el correcto y oportuno cumplimiento de las obligaciones fiscales estatales y, en su caso, federales y aduaneras, conforme a lo previsto en los convenios de colaboración administrativa en la materia, a cargo de los contribuyentes, responsables solidarios o terceros con ellos relacionados, mediante el ejercicio de sus facultades;
 
 VI. Proponer a la Secretaría la celebración de convenios de colaboración administrativa en materia fiscal, con las autoridades fiscales federales, estatales y municipales del Estado;
 
@@ -119,7 +123,9 @@ IX. Constituirse en acusador particular en los asuntos penales en que la Secreta
 
 X. Solicitar información de los Registros Públicos por la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y demás derechos reales sobre los bienes inmuebles; de los actos relativos a la constitución, modificación y extinción de las personas morales; y los demás actos, documentos, contratos, resoluciones y diligencias judiciales, que tengan o puedan tener implicaciones fiscales para los contribuyentes, responsables solidarios o terceros con ellos relacionados, de impuestos estatales o federales;
 
-XI. Generar y proporcionar a la Secretaría la información para el diseño y la evaluación de la política tributaria del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XI. Generar y proporcionar a la Secretaría la información para el diseño y la evaluación de la política tributaria del Estado, a través de los medios y plazos que esta determine;
 
 XII. Realizar análisis del entorno fiscal y económico, con el propósito de planear y diseñar estrategias dentro de sus atribuciones;
 
@@ -149,7 +155,9 @@ XXIV. Determinar, mediante resolución administrativa las contribuciones o aprov
 
 XXV. Determinar la responsabilidad solidaria respecto de créditos fiscales;
 
-XXVI. Tramitar y resolver las solicitudes de condonación de multas que se impongan en el ejercicio de sus facultades de comprobación, en materia de impuestos federales coordinados y de contribuciones estatales; así como, de solicitudes de condonación de recargos en el área de su competencia, en los términos de las disposiciones legales y lineamientos aprobados por la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XXVI. Tramitar y resolver las solicitudes de condonación de multas que se impongan en el ejercicio de sus facultades, por infracción a las disposiciones fiscales estatales, así como en materia de impuestos federales coordinados, en el área de su competencia, en los términos de las disposiciones legales y lineamientos aprobados por la Junta de Gobierno;
 
 XXVII. Tramitar y resolver las solicitudes de prescripción de créditos fiscales y la extinción de facultades de las autoridades fiscales;
 
@@ -295,9 +303,13 @@ II. Planear, programar, supervisar, dirigir, evaluar y coordinar el desarrollo d
 
 III. Presentar a la Junta de Gobierno para su consideración el anteproyecto de Reglamento Interior y sus modificaciones;
 
-IV. Expedir los manuales de organización general, de procedimientos, de servicio al público y demás disposiciones administrativas, para aplicar de manera eficaz y eficiente la legislación aduanera, comunicando de ello a la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-V. Informar a la Junta de Gobierno sobre las metas y el ejercicio del presupuesto de egresos del SATEG, de manera anual o cuando ésta se lo solicite;
+IV. Expedir los manuales de organización general, de procedimientos, de servicio al público y demás disposiciones administrativas, para aplicar de manera eficaz y eficiente la legislación fiscal y aduanera, comunicando de ello a la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V. Informar a la Junta de Gobierno sobre las metas del SATEG de manera anual o cuando esta se lo solicite;
 
 VI. Fungir como enlace ante las autoridades de los ámbitos federales, estatales y municipales en los asuntos vinculados con las atribuciones del SATEG;
 
@@ -307,7 +319,7 @@ VIII. Suscribir acuerdos interinstitucionales de cooperación técnica y adminis
 
 IX. Diseñar el Programa Anual de Trabajo para el cumplimiento de las atribuciones del SATEG, el cual dará a conocer a la Junta de Gobierno durante los primeros treinta días de cada ejercicio fiscal;
 
-X. Proponer el anteproyecto del presupuesto de egresos del SATEG;
+X. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 XI. Administrar los recursos que le sean asignados al SATEG;
 
@@ -464,3 +476,13 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 61, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
