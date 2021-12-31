@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-progreso-yucatan-96927"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2019-11-14"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE PROGRESO, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -405,11 +405,15 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales y administrativ
 
 La falta de cumplimiento de las obligaciones a que se refiere este artículo, será sancionada con una multa de uno a quince salarios mínimos, en atención a la gravedad de la infracción. En caso de reincidencia se aplicará la multa mayor.
 
+(REPUBLICADO, D.O. 31 DICIEMBRE 2021)
+
 ### CAPITULO II. De las Licencias de Funcionamiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DICIEMBRE 2021)</small>
 
 ###### Artículo 40.
 
-Las licencias de funcionamiento que expida la Dirección de Finanzas y Tesorería Municipal, tendrán una vigencia anual a partir de la fecha de autorización de la misma y estarán vigentes desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten.
+Las licencias de funcionamiento que expida la Dirección de Finanzas y Tesorería Municipal, tendrán una vigencia anual a partir de la fecha de autorización de esta y una vigencia desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten.
 
 No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias.
 
@@ -417,29 +421,49 @@ Los interesados deberán revalidar sus licencias durante los tres primeros meses
 
 En ningún caso y en el ejercicio del último año de administración municipal la vigencia de la licencia de funcionamiento excederá del periodo de la administración municipal que la expidió.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 31 DICIEMBRE 2021)</small>
+
 Las personas físicas o morales que deseen obtener la licencia municipal de funcionamiento, deberán presentar a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos:
 
-a) Certificado de no adeudar impuesto predial.
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
 
-b) Certificado de no adeudo del Agua Potable.
+a) Certificado de no adeudar impuesto predial con fecha no mayor a dos meses.
 
-c) Carta de uso de suelo
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
+
+b) Certificado de no adeudo del Agua Potable con fecha no mayor a dos meses.
+
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
+
+c) Carta de uso de suelo.
 
 d) Determinación sanitaria, en su caso.
 
 e) Determinación de la Secretaría de la Defensa Nacional cuando se trate de establecimientos que expenden juegos pirotécnicos.
 
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+f) Recibo de pago del servicio de recolección basura del mes en el que se solicita la licencia municipal.
+
 Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
 
 a) Licencia de funcionamiento anterior.
 
-b) Certificado de no adeudar impuesto predial.
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
 
-c) Certificado de no adeudo del Agua Potable.
+b) Certificado de no adeudar impuesto predial con fecha no mayor a dos meses.
+
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
+
+c) Certificado de no adeudo del Agua Potable con fecha no mayor a dos meses.
 
 d) Determinación sanitaria en los casos de establecimientos que venden bebidas alcohólicas.
 
 e) Determinación de la Secretaría de la Defensa Nacional cuando se trate de establecimientos que expenden juegos pirotécnicos.
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+f) Recibo de pago del servicio de recolección basura del mes en el que se solicita la licencia municipal.
 
 La revalidación de las licencias de funcionamiento estará vigente desde el día de su tramitación y hasta el día 31 de diciembre del año en que se tramiten.
 
@@ -1165,7 +1189,9 @@ Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios
 
 Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-### CAPÍTULO XIII. Derechos por Servicios de Vigilancia
+### CAPÍTULO XIII. Derechos por Servicios de Vigilancia y Vialidad
+
+(REPUBLICADA, D.O. 31 DICIEMBRE 2021)
 
 #### Sección Primera. De los Sujetos
 
@@ -1197,41 +1223,169 @@ Los derechos por los servicios que preste la Unidad Municipal de Acceso a la Inf
 
 El pago de este derecho será efectuado en una sola exhibición, en el momento de solicitar el servicio.
 
-### CAPÍTULO ÚNICO. Contribuciones Especiales por Mejoras
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DICIEMBRE 2021)</small>
+
+### CAPITULO XIV. Derechos por Servicios de Protección Civil Municipal
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
 
 #### Sección Primera. Del Objeto
 
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
+
 ###### Artículo 127.
 
-Es objeto del Derecho por Servicio de Vigilancia, el prestado por la policía municipal.
+Es objeto del Derecho por Servicio de Vigilancia y Vialidad el prestado por la policía municipal a través de sus elementos y unidades vehiculares, así como los servicios relativos a la vialidad que efectúa la dirección de servicios públicos para permitir el tránsito de vehículos con capacidades de carga mayores a 10 toneladas.
 
-#### Sección Segunda. De la Base
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Segunda. Del Sujeto
+
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
 
 ###### Artículo 128.
 
-Son sujetos de estos derechos las personas físicas o morales, instituciones públicas o privadas que soliciten al Ayuntamiento, el servicio especial de vigilancia.
+Son sujetos de estos derechos las personas físicas o morales, instituciones públicas o privadas que soliciten al Ayuntamiento, el servicio especial de vigilancia o de oficio cuando por disposición legal sea necesario que cuente con dicho servicio.
 
-#### Sección Segunda (sic). Del Pago
+> <small>(REFORMADA Y REUBICADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Tercera. De la Base
+
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
 
 ###### Artículo 129.
 
 Es base para el pago del derecho a que se refiere esta sección, el número de agentes solicitados, así como el número de horas que se destinen a la prestación del servicio.
 
+Por los servicios relativos a la vialidad que afectan el tránsito, derivado del paso de vehículos con capacidades de carga mayores a 10 toneladas, el pago del derecho se realizará por cada día de operación.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Cuarta. De la Cuota
+
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
+
 ###### Artículo 130.
-
-El pago de los derechos se hará por anticipado al solicitar el servicio, en las oficinas de la Tesorería Municipal.
-
-###### Artículo 131.
 
 Por los derechos a que se refiere este capítulo, se pagarán cuotas de acuerdo con la tarifa establecida en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
-### CAPÍTULO I. Productos Derivados de Bienes Inmuebles
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
 
-### CAPÍTULO II. Productos Derivados de Bienes Muebles
+#### Sección Quinta. Época de Pago
+
+> <small>(REFORMADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131.
+
+El pago de los derechos se hará por anticipado al solicitar el permiso, en las oficinas de la Tesorería Municipal o en lugar autorizado para ello.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DICIEMBRE 2021)</small>
+
+### CAPITULO XV. Otros Derechos por Servicios Prestados por el Ayuntamiento
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Primera. Del Objeto
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-A.
+
+Es objeto de los derechos establecidos en este capítulo los servicios prestados por el municipio en materia de protección civil.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Segunda. Del Sujeto
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-B.
+
+Son sujetos de estos derechos las personas físicas o morales, instituciones públicas o privadas que soliciten los servicios en materia de protección civil.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Tercera. De la Base
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-C.
+
+Servirá de base para el cobro de este derecho el tipo de servicio en materia de protección civil, el número de personal que conlleve realizar el servicio, así como el número de horas que se destinen a la prestación del servicio y que al efecto establezca la Ley de Ingresos del Municipio de Progreso, Yucatán.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Cuarta. De la Cuota
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-D.
+
+Por los derechos a que se refiere este capítulo, se pagarán cuotas de acuerdo con la tarifa establecida en la Ley de Ingresos del Municipio de Progreso, Yucatán.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Quinta. Época de Pago
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-E.
+
+El pago de los derechos se hará por anticipado al solicitar el servicio en las oficinas de la Tesorería Municipal o en lugar autorizado para ello.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DICIEMBRE 2021)</small>
+
+### CAPÍTULO ÚNICO. Contribuciones Especiales por Mejoras
+
+#### Sección Primera. Del Objeto y Del Sujeto
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-F.
+
+Las personas físicas que soliciten los servicios que a continuación se detallan estarán obligadas al pago del derecho correspondiente para poder recibir el servicio:
+
+I.- El servicio de examen clínico consistente en ultrasonido.
+
+II.- Por la inscripción y las mensualidades de los beneficiarios en los centros de atención infantil que opera el ayuntamiento.
+
+III.- Por el servicio de esterilización de animales de compañía domésticos.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Segunda. De la Base
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-G.
+
+Servirá de base para el cobro de este derecho en unos el servicio prestado a cada una de las personas físicas que lo solicita y en otros por cada uno de los beneficiarios de los servicios de estancia en los centros de atención infantil del ayuntamiento.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Tercera. De la Cuota
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-H.
+
+Por los derechos a que se refiere este capítulo, se pagarán cuotas de acuerdo con la tarifa establecida en la Ley de Ingresos del Municipio de Progreso, Yucatán.
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+
+#### Sección Cuarta. Época de Pago
+
+> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+
+###### Artículo 131-I.
+
+El pago de los derechos se hará por anticipado al solicitar el servicio en las oficinas de la Tesorería Municipal o en lugar autorizado para ello.
+
+En el caso de las inscripciones y las mensualidades de los beneficiarios de los centros de atención infantil del ayuntamiento deberán realizarse las primeras al inicio del ciclo anual y en el caso de las segundas al inicio de cada mes calendario que componen en ciclo anual.
 
 ## TITULO QUINTO. CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO III. Productos Financieros
+### CAPÍTULO I. Productos Derivados de Bienes Inmuebles
 
 ###### Artículo 132.
 
@@ -1325,7 +1479,7 @@ El Director de Finanzas y Tesorería Municipal previa solicitud por escrito del 
 
 ## TITULO SEXTO. PRODUCTOS
 
-### CAPÍTULO IV. Otros Productos
+### CAPÍTULO II. Productos Derivados de Bienes Muebles
 
 ###### Artículo 141.
 
@@ -1339,19 +1493,19 @@ II.- Por arrendamiento temporal o concesiones por el tiempo útil de locales ubi
 
 III.- Por Concesiones del uso del piso en la vía pública o en bienes destinados a un servicio público como mercados, unidades deportivas, plazas, y otros bienes de dominio público se cobrará de acuerdo a la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
-### CAPÍTULO I. Aprovechamientos derivados por sanciones municipales
+### CAPÍTULO III. Productos Financieros
 
 ###### Artículo 142.
 
 El Municipio, podrá percibir productos por concepto de la enajenación de sus bienes muebles, siempre y cuando éstos resulten innecesarios para la Administración Municipal, o bien que resulte incosteable su mantenimiento y conservación. Para ello se requerirá el voto de las dos terceras partes del Cabildo y siempre que el valor de los bienes no exceda de cien salarios mínimos; si excede de esa cantidad pero no de quinientos salarios mínimos, la venta se hará en la forma que previene el Código Civil del Estado de Yucatán, para los remates.
 
-### CAPITULO II. Aprovechamientos Derivados de Recursos Transferidos al Municipio
+### CAPÍTULO IV. Otros Productos
 
 ###### Artículo 143.
 
 El Municipio percibirá productos derivados de las inversiones financieras que realice transitoriamente, con motivo de la percepción de ingresos extraordinarios o períodos de alta recaudación. Dichos depósitos deberán hacerse eligiendo las alternativas de mayor rendimiento financiero siempre y cuando, no se limite la responsabilidad inmediata de los recursos conforme las fechas que estos serán requeridos por la administración.
 
-### CAPITULO III. Aprovechamientos Diversos
+### CAPÍTULO I. Aprovechamientos derivados por sanciones municipales
 
 ###### Artículo 144.
 
@@ -1359,7 +1513,7 @@ El Municipio percibirá productos derivados de sus funciones de derecho privado,
 
 ## TITULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPÍTULO ÚNICO. Participaciones Federales, Estatales y Aportaciones
+### CAPITULO II. Aprovechamientos Derivados de Recursos Transferidos al Municipio
 
 ###### Artículo 145.
 
@@ -1383,7 +1537,7 @@ III.- Sanciones por falta de pago oportuno de créditos fiscales:
 
 Por falta de pago oportuno de los créditos fiscales a que tiene derecho el Municipio por parte de los contribuyentes municipales, se causarán recargos en la forma establecida en el Código Fiscal del Estado de Yucatán.
 
-### CAPÍTULO ÚNICO. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
+### CAPITULO III. Aprovechamientos Diversos
 
 ###### Artículo 146.
 
@@ -1409,7 +1563,7 @@ IX.- Multas impuestas por autoridades administrativas federales no fiscales, y
 
 X.- Derechos por el otorgamiento de la concesión por el uso o goce de la Zona Federal Marítimo-Terrestre.
 
-### CAPITULO I. De los Gastos de Ejecución
+### CAPÍTULO ÚNICO. Participaciones Federales, Estatales y Aportaciones
 
 ###### Artículo 147.
 
@@ -1417,7 +1571,7 @@ El Municipio percibirá aprovechamientos derivados de otros conceptos no previst
 
 ## TITULO OCTAVO. PARTICIPACIONES Y APORTACIONES
 
-### CAPITULO II. De los Gastos Extraordinarios de Ejecución
+### CAPÍTULO ÚNICO. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
 
 ###### Artículo 148.
 
@@ -1427,7 +1581,7 @@ La Hacienda Pública Municipal percibirá las participaciones estatales y federa
 
 ## TÍTULO NOVENO. INGRESOS EXTRAORDINARIOS
 
-### CAPITULO I. De los Responsables
+### CAPITULO I. De los Gastos de Ejecución
 
 ###### Artículo 149.
 
@@ -1441,7 +1595,7 @@ Las autoridades fiscales exigirán el pago de las contribuciones y de los crédi
 
 En todo caso las autoridades fiscales municipales deberán señalar en los mandamientos escritos correspondientes el texto legal en el que se fundamenten.
 
-### CAPITULO II. De la Responsabilidad de los Funcionarios y Empleados
+### CAPITULO II. De los Gastos Extraordinarios de Ejecución
 
 ###### Artículo 151.
 
@@ -1455,7 +1609,7 @@ III.- Honorarios o enajenación fuera de remate
 
 Cuando el .02 del importe del crédito omitido, fuere inferior al importe de un salario mínimo vigente, se cobrará el monto de un salario mínimo vigente en lugar del mencionado .02 del crédito omitido.
 
-### CAPITULO III. De las Sanciones
+### CAPITULO I. De los Responsables
 
 ###### Artículo 152.
 
@@ -1475,9 +1629,13 @@ La aplicación de las multas por infracciones a las disposiciones municipales y 
 
 ## TÍTULO DÉCIMO PRIMERO. PRIMERO INFRACCIONES Y SANCIONES
 
+### CAPITULO II. De la Responsabilidad de los Funcionarios y Empleados
+
 ###### Artículo 154.
 
 Son responsables de la comisión de las infracciones previstas en esta Ley, las personas que omitan el cumplimiento de las obligaciones previstas en esta propia Ley.
+
+### CAPITULO III. De las Sanciones
 
 ###### Artículo 155.
 
@@ -1534,3 +1692,23 @@ D.O. 14 DE NOVIEMBRE DE 2019.
 Entrada en vigor
 
 Artículo Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DICIEMBRE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 449/2021 POR EL QUE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CACALCHÉN, DZIDZANTÚN, DZEMUL, IZAMAL, MOTUL, PROGRESO, SACALUM, TEMAX, TIXPÉUAL, TIZIMÍN Y VALLADOLID”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto entrará en vigor el 1 de enero del año 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
+
+###### ARTÍCULO TERCERO.
+
+En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
