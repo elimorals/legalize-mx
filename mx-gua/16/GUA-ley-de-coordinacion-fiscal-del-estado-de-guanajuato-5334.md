@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2020-12-24"
+last_updated: "2021-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -189,9 +189,9 @@ Para que un municipio sea considerado en las participaciones del párrafo que an
 
 Las participaciones a municipios provenientes del Fondo de Fiscalización y Recaudación, se distribuirán de acuerdo a los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I. 50% en razón directa al número de contribuyentes por Municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen de Incorporación Fiscal al cierre del ejercicio fiscal anterior al año de cálculo.
+I. 50% en razón directa al número de contribuyentes por Municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen Simplificado de Confianza al cierre del ejercicio fiscal anterior al año de cálculo.
 
 II. 50% en razón directa a la recaudación del impuesto predial y derechos por el suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
@@ -544,3 +544,19 @@ P.O. 24 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 301 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 5-A, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO”.]
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2021, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 60, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5-A, FRACCIÓN I DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Distribución del Fondo de Fiscalización y Recaudación para el ejercicio fiscal de 2022
+
+Artículo Segundo. Para el ejercicio fiscal de 2022, la distribución del Fondo de Fiscalización y Recaudación, contenido en el artículo 5°-A, fracción I de esta Ley, se realizará con el número de contribuyentes por municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen de Incorporación Fiscal al cierre del ejercicio fiscal de 2021.
+
+Contribuyentes que opten por seguir tributando en el Régimen de Incorporación Fiscal
+
+Artículo Tercero. En atención al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto Sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos, publicado en la edición vespertina del DiarioOficial (sic) de la Federación en fecha 12 de noviembre de 2021, en tanto los contribuyentes opten por seguirtributando (sic) en el Régimen de Incorporación Fiscal, se sumarán a la variable señalada en el artículo 5°-A, fracción I de la presente Ley, los contribuyentes por municipio que se tengan en el Registro Estatal de Contribuyentes, respecto del Régimen de Incorporación Fiscal.
