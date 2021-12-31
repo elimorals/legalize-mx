@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2021-07-29"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -59,11 +59,11 @@ De las Actividades del Desarrollo Económico.
 
 Esta ley es de orden público, de interés social y de observancia general en el estado de Jalisco. Tiene como objetivos principales fomentar el desarrollo económico, la productividad, la cooperación y mejorar la competitividad en el estado de Jalisco, procurando la generación de condiciones favorables para el desarrollo sustentable, equitativo y pacífico de todas las regiones y sectores económicos en la entidad, con el fin de, aumentar el ingreso de sus habitantes y mejorar su calidad de vida.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 2.
 
-La aplicación de esta ley le corresponde a la Secretaría de Desarrollo Económico del Gobierno del Estado, al Consejo Estatal de Promoción Económica, al Consejo Estatal para la Competitividad de Jalisco, al Instituto de Información Estadística y Geográfica del Estado de Jalisco y a las demás entidades públicas estatales y municipales en sus respectivos ámbitos de competencia y según sus atribuciones de ley.
+La aplicación de esta ley le corresponde a la Secretaría de Desarrollo Económico del Gobierno del Estado, al Consejo Estatal para la Competitividad de Jalisco, al Instituto de Información Estadística y Geográfica del Estado de Jalisco y a las demás entidades públicas estatales y municipales en sus respectivos ámbitos de competencia y según sus atribuciones de ley.
 
 ###### Artículo 3.
 
@@ -79,13 +79,15 @@ IV. Cadena productiva: conjunto de agentes y actividades económicas que intervi
 
 V. Competitividad: capacidad territorial, sectorial y de empresa, que como entidad federativa se tiene para mantener sistemáticamente ventajas competitivas, con respecto a otras entidades o regiones en competencia, que le permitan a los ciudadanos alcanzar, sostener y mejorar su nivel de vida, así como la capacidad de crear y retener inversiones y talento;
 
-VI. Consejo: el Consejo Estatal de Promoción Económica de Jalisco;
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 VII. Consejo de competitividad: el Consejo Estatal para la Competitividad de Jalisco;
 
 VIII. Desarrollo económico: es la creación de riqueza económica para todos los ciudadanos dentro de los diversos estratos de la sociedad, a fin de que puedan tener acceso a un potencial crecimiento en su calidad de vida;
 
-IX. Estado de emergencia económica: es la declaratoria emitida por el Titular del Ejecutivo Estatal de manera directa, a propuesta del Secretario de Desarrollo Económico y por recomendación de la Junta de Gobierno del Consejo, en los términos de la presente ley y su reglamento, y la cual podrá existir en caso de riesgo inminente de la caída de la producción estatal y del empleo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX. Estado de emergencia económica: es la declaratoria emitida por el Titular del Ejecutivo Estatal de manera directa, a propuesta del Secretario de Desarrollo Económico, en los términos de la presente ley y su reglamento, y la cual podrá existir en caso de riesgo inminente de la caída de la producción estatal y del empleo;
 
 X. Integración productiva: es la reorganización de las relaciones de intercambio y cooperación en una cadena productiva o sector, que mejore la calidad y cantidad de estas interacciones, aumente el valor agregado, fortalezca su modo de producción y lleve a una mayor especialización tanto de las empresas y organizaciones vinculadas, como de la cadena o sector en su conjunto;
 
@@ -119,7 +121,7 @@ I. El Titular del Poder Ejecutivo del Estado de Jalisco;
 
 II. La Secretaría;
 
-III. El Consejo;
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 IV. El Consejo de Competitividad;
 
@@ -131,9 +133,11 @@ VI. Las dependencias y organismos competentes y vinculantes de la administració
 
 VII. Las demás que establezca esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 5.
 
-El Gobierno del Estado, a través de la Secretaría y su Consejo, otorgará los apoyos y promociones a las personas físicas o jurídicas establecidas o por establecerse, que considere relevantes para el desarrollo de la actividad económica del Estado y el crecimiento de sus regiones.
+El Gobierno del Estado, a través de la Secretaría otorgará los apoyos y promociones a las personas físicas o jurídicas establecidas o por establecerse, que considere relevantes para el desarrollo de la actividad económica del Estado y el crecimiento de sus regiones.
 
 ###### Artículo 6.
 
@@ -225,13 +229,19 @@ VIII. Los demás que para tal efecto determine la Secretaría o se establezca en
 
 ###### Artículo 8.
 
-Dentro de las áreas señaladas en el artículo anterior, serán sujetos de promoción y apoyo por parte del Consejo, los proyectos productivos que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Dentro de las áreas señaladas en el artículo anterior, serán sujetos de promoción y apoyo, los proyectos productivos que:
 
 I. Con el establecimiento de sus inversiones, garanticen la generación de empleos permanentes y su conservación;
 
-II. De acuerdo a los estudios de factibilidad, puedan participar exitosamente en los mercados de exportación, conforme a los criterios que establezca el Consejo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III. Sean identificados dentro de los sectores, ramas productivas o regiones, de los que requieran cada dos años ser clasificados mediante acuerdo del Consejo como estratégicos obedeciendo a su potencial o por concentrar un alto porcentaje del empleo formal del estado o región específico, o bien aquellas necesitadas de apoyos especiales y temporales;
+II. De acuerdo a los estudios de factibilidad, puedan participar exitosamente en los mercados de exportación, conforme a los criterios que se establezcan;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III. Sean identificados dentro de los sectores, ramas productivas o regiones, de los que requieran cada dos años ser clasificados mediante acuerdo como estratégicos obedeciendo a su potencial o por concentrar un alto porcentaje del empleo formal del estado o región específico, o bien aquellas necesitadas de apoyos especiales y temporales;
 
 IV. Promuevan el establecimiento de infraestructura dentro de las áreas de desarrollo, conforme al Reglamento;
 
@@ -265,6 +275,8 @@ XIV. Que, en estado de emergencia económica, garanticen la creación o mantenim
 
 ###### Artículo 9.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 Los proyectos productivos establecidos o por establecerse en el Estado, podrán ser objeto de las promociones y apoyos previstos en la Ley, cuando para su otorgamiento:
 
 I. Demuestren fehacientemente el mantenimiento o refuerzo del vocacionamiento y/o encadenamiento productivo del municipio o región del Estado donde se establezcan;
@@ -273,21 +285,31 @@ I. Demuestren fehacientemente el mantenimiento o refuerzo del vocacionamiento y/
 
 II. Acrediten la generación de nuevas fuentes de empleo directo, la conservación y mejoramiento de los ya existentes o realicen inversiones en activos fijos en el área o zona geográfica donde se establezcan dentro del Estado, conforme a los rangos y cantidades que en forma general determine el Reglamento, además de acreditar el cumplimiento de las obligaciones que en específico les señale la legislación ambiental aplicable en el Estado;
 
-III. Se observe la entrega y cumplimiento previo de las documentales requeridas por el Consejo, en los términos, plazos y condiciones establecidas en el Reglamento de la Ley, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IV. Se realice el otorgamiento de la garantía previa a favor del Consejo, que para tales efectos señale el Reglamento.
+III. Se observe la entrega y cumplimiento previo de las documentales requeridas, en los términos, plazos y condiciones establecidas en el Reglamento de la Ley; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV. Se realice el otorgamiento de la garantía previa, que para tales efectos señale el Reglamento.
 
 El Consejo, previo acuerdo interno de la Junta de Gobierno, podrá eximir total o parcialmente a la persona física o jurídica que así lo solicite del cumplimiento de la garantía señalada en el párrafo anterior y bajo los términos que para tal efecto establezca el Reglamento.
 
 ###### Artículo 10.
 
-El Consejo podrá ampliar o modificar las actividades económicas sujetas a promoción y apoyos, de conformidad con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+La Secretaría podrá ampliar o modificar las actividades económicas sujetas a promoción y apoyos, de conformidad con:
 
 I. La revisión trianual de vocacionamientos municipales y regionales que realicen las autoridades municipales en coordinación y convenio expreso con el Gobierno estatal;
 
-II. La clasificación de sectores, ramas productivas o regiones estratégicas, que autorice cada dos años el Consejo en los términos que establezca el Reglamento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-III. La reclasificación extraordinaria de sector, rama productiva o región necesitada de un apoyo especial y urgente, que proponga el Consejo en los términos que establezca el Reglamento, y
+II. La clasificación de sectores, ramas productivas o regiones estratégicas, que se autoricen cada dos años en los términos que establezca el Reglamento;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III. La reclasificación extraordinaria de sector, rama productiva o región necesitada de un apoyo especial y urgente, que se proponga en los términos que establezca el Reglamento; y
 
 IV. La declaratoria de estado de emergencia económica que dicte el Ejecutivo estatal.
 
@@ -297,7 +319,9 @@ Los apoyos fiscales no podrán superar las tres anualidades consecutivas por un 
 
 Los apoyos de servicios podrán ser gratuitos o a costo de recuperación.
 
-Los apoyos económicos se aplicarán en los términos y cantidades que establece esta ley, pudiendo ser a través de créditos de inversión por plazos no mayores a diez años y/o a fondo perdido, según sea el caso. A (sic) salvo los casos de excepción establecidos en la presente ley, los apoyos a fondo perdido que autorice el Consejo, serán sólo para proyectos de beneficio común para uno o varios sectores o ramas de la economía o de impacto económico de una región específica del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los apoyos económicos se aplicarán en los términos y cantidades que establece esta ley, pudiendo ser a través de créditos de inversión por plazos no mayores a diez años y/o a fondo perdido, según sea el caso. A (sic) salvo los casos de excepción establecidos en la presente ley, los apoyos a fondo perdido que se autoricen, serán sólo para proyectos de beneficio común para uno o varios sectores o ramas de la economía o de impacto económico de una región específica del Estado.
 
 ###### Artículo 11.
 
@@ -309,11 +333,15 @@ La Secretaría promoverá que los municipios adquieran sus insumos, bienes y ser
 
 ###### Artículo 12.
 
-Para el otorgamiento de las promociones y los apoyos contemplados en esta ley, el Consejo deberá observar que los proyectos productivos estén orientados a fortalecer el potencial de los sectores y ramas económicas, los polos de desarrollo, los vocacionamientos territoriales autorizados y publicados por el Consejo, y los encadenamientos productivos que detonen el desarrollo económico de la entidad, tomando en consideración los siguientes criterios de orden y prelación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Para el otorgamiento de las promociones y los apoyos contemplados en esta ley, se deberá observar que los proyectos productivos estén orientados a fortalecer el potencial de los sectores y ramas económicas, los polos de desarrollo, los vocacionamientos territoriales autorizados y publicados, y los encadenamientos productivos que detonen el desarrollo económico de la entidad, tomando en consideración los siguientes criterios de orden y prelación:
 
 a. Prioridad uno: Sector, rama o actividad económica, que genere una mayor integración productiva y que incluya a ciudades medias o a un mayor número de municipios, en forma equitativa para todas las regiones del Estado;
 
-b. Prioridad dos: Sector, rama o actividad económica definida por la Junta de Gobierno del Consejo como estratégica para el desarrollo del Estado, en forma equitativa para todas las regiones del Estado, y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+b. Prioridad dos: Sector, rama o actividad económica definida como estratégica para el desarrollo del Estado, en forma equitativa para todas las regiones del Estado; y
 
 c. Prioridad tres: Sector, rama o actividad económica que genere una mayor cantidad de empleos permanentes, bien remunerados y consolide los ya existentes, en forma equitativa para todas las regiones.
 
@@ -321,23 +349,31 @@ c. Prioridad tres: Sector, rama o actividad económica que genere una mayor cant
 
 Se dará preferencia en el uso y destino de los recursos, a los proyectos colectivos, que generen entornos de paz, de agrupamientos o de encadenamientos productivos, por sobre las solicitudes que beneficien a personas o empresas en lo individual.
 
-En los casos en que el Ejecutivo estatal declare estado de emergencia Económica, el Consejo destinará los recursos que deberán ser prioritariamente aplicados al programa de mantenimiento y creación de empleo que para tal fin se establezca, en beneficio del empleo, su conservación y el mantenimiento de las unidades productivas en la entidad, especialmente de las micros, pequeñas y medianas empresas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+En los casos en que el Ejecutivo estatal declare estado de emergencia económica, se destinarán los recursos que deberán ser prioritariamente aplicados al programa de mantenimiento y creación de empleo que para tal fin se establezca, en beneficio del empleo, su conservación y el mantenimiento de las unidades productivas en la entidad, especialmente de las micros, pequeñas y medianas empresas.
 
 Para los efectos del párrafo anterior, el programa que se emita deberá contener una temporalidad definida. Una vez concluida la misma, se restablecerán los programas ordinariamente aprobados y su operación en la forma previa a la declaratoria de referencia.
 
-Para la definición de las zonas de prioridad contempladas en este artículo el Consejo deberá vincular sus criterios a los propósitos generales previamente establecidos en el Plan Estatal de Desarrollo, salvo que exista la imperiosa necesidad de realizar una declaratoria de estado de emergencia económica, para lo cual se deberá apegar a los criterios que para el caso contemplen esta Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Para la definición de las zonas de prioridad contempladas en este artículo se deberán vincular los criterios a los propósitos generales previamente establecidos en el Plan Estatal de Desarrollo, salvo que exista la imperiosa necesidad de realizar una declaratoria de estado de emergencia económica, para lo cual se deberá apegar a los criterios que para el caso contemplen esta Ley y su Reglamento.
 
 ###### Artículo 13.
 
-El Gobernador del Estado, por conducto del Titular de la Secretaría y a propuesta de la Junta de Gobierno del Consejo, determinará la clasificación de los sectores y actividades económicas estratégicas de la entidad, conforme a las prioridades señaladas en el artículo anterior.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Dicha clasificación deberá actualizarse cada cuatro años mediante propuesta de la Junta de Gobierno del Consejo, fundada y motivada en los términos que establezca el Reglamento.
+El Gobernador del Estado, por conducto del Titular de la Secretaría determinará la clasificación de los sectores y actividades económicas estratégicas de la entidad, conforme a las prioridades señaladas en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Dicha clasificación deberá actualizarse cada cuatro años, de manera fundada y motivada en los términos que establezca el Reglamento.
 
 La clasificación deberá realizarse mediante estudios objetivos y con criterios de elaboración científica, tanto cuantitativos como cualitativos, que garanticen el desarrollo económico equitativo y equilibrado de los sectores, actividades económicas y regiones de la entidad.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-El Instituto de Información coadyuvará con la Secretaría y el Consejo en la elaboración de los estudios mencionados en el párrafo anterior.
+El Instituto de Información coadyuvará con la Secretaría en la elaboración de los estudios mencionados en el párrafo anterior.
 
 ###### Artículo 14.
 
@@ -345,17 +381,25 @@ El Gobierno del Estado implementará cada tres años un programa de revisión al
 
 El programa de revisión mencionado en el párrafo anterior, deberá actualizarse durante el primer trimestre del primer año de los gobiernos municipales y tiene por objeto determinar el o los vocacionamientos reales y de visión estratégica a mediano y largo plazos de los municipios y regiones de la entidad, para los efectos de la determinación de las políticas públicas y el otorgamiento de las promociones y apoyos establecidos en esta ley, y de los replanteamientos que el Gobierno del Estado haga mediante otros programas para el desarrollo y la competitividad de la entidad en su conjunto.
 
-Los ayuntamientos de la entidad emitirán por acuerdo del cabildo, el o los vocacionamientos productivos territoriales que hayan considerado como viables para el municipio de referencia, los cuales deberán de ser entregados al Consejo para su evaluación, aprobación y publicación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-El Gobierno del Estado, por conducto del Consejo, tendrá hasta el primer semestre del año de revisión para emitir el documento general de vocacionamientos regionales y municipales.
+Los ayuntamientos de la entidad emitirán por acuerdo del cabildo, el o los vocacionamientos productivos territoriales que hayan considerado como viables para el municipio de referencia, los cuales deberán de ser entregados a la Secretaría para su evaluación, aprobación y publicación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+El Gobierno del Estado tendrá hasta el primer semestre del año de revisión para emitir el documento general de vocacionamientos regionales y municipales.
 
 El Gobierno del Estado implementará las acciones de asistencia, capacitación y asesoría, necesarias para garantizar que la actualización de los vocacionamientos municipales y regionales se realicen con criterios científicos, democráticos, objetivos y de funcionalidad municipal, regional y estatal.
 
 La clasificación a que se refiere el artículo anterior, tomará en cuenta el vocacionamiento considerado por cada municipio y región, para el establecimiento de las prioridades para la promoción y el apoyo del desarrollo económico, con criterios de equidad territorial y gradualidad sectorial que requiera la entidad.
 
-En la definición de los vocacionamientos contemplados en este artículo, el Consejo deberá considerar los criterios generales previamente establecidos en el Plan Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Para los efectos de lo señalado el artículo 13 de esta Ley, el Consejo deberá invitar al diputado Presidente de la Comisión Legislativa en materia de Desarrollo Económico del Congreso del Estado de Jalisco, o la propia de la materia, para que participe en la deliberación de las reuniones de trabajo ahí contempladas, para lo cual solamente contará con derecho a voz, pero sin voto.
+En la definición de los vocacionamientos contemplados en este artículo, se deberán considerar los criterios generales previamente establecidos en el Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Para los efectos de lo señalado (sic) el artículo 13 de esta Ley, se deberá invitar al diputado Presidente de la Comisión Legislativa en materia de Desarrollo Económico del Congreso del Estado de Jalisco, o la propia de la materia, para que participe en la deliberación de las reuniones de trabajo ahí contempladas, para lo cual solamente contará con derecho a voz, pero sin voto.
 
 ### Capítulo IV. De la Promoción para el Desarrollo Económico
 
@@ -381,7 +425,9 @@ Disposiciones Generales.
 
 ###### Artículo 16.
 
-Los apoyos para el desarrollo económico que otorgue el Consejo, a través de su Junta de Gobierno, tienen por objeto el impulso a mediano y largo plazo de las especialidades sectoriales, los vocacionamientos territoriales y los encadenamientos productivos, en equilibrio de todas las regiones del Estado, la innovación de los procesos productivos, la asociación productiva o tecnológica, y las demás áreas de refuerzo y desarrollo de sus actividades propias, a excepción de las contempladas para la promoción para el desarrollo económico.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los apoyos para el desarrollo económico que se otorguen tienen por objeto el impulso a mediano y largo plazo de las especialidades sectoriales, los vocacionamientos territoriales y los encadenamientos productivos, en equilibrio de todas las regiones del Estado, la innovación de los procesos productivos, la asociación productiva o tecnológica, y las demás áreas de refuerzo y desarrollo de sus actividades propias, a excepción de las contempladas para la promoción para el desarrollo económico.
 
 Los apoyos en materia de desarrollo económico podrán ser de carácter:
 
@@ -409,9 +455,9 @@ V. Cuando existan solicitudes de apoyo de la misma naturaleza, del mismo sector 
 
 VI. Tratándose de solicitudes de apoyo de la misma naturaleza, del mismo sector o actividad económica y tipo de empresa u organización, con beneficio directo a una cantidad similar de personas, se preferirá a quién haya presentado primero su solicitud completa.
 
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Los criterios para la determinación del tipo, monto, plazos y condiciones para el otorgamiento de los apoyos que determine el Reglamento, y que otorgue el Consejo, a través de su Junta de Gobierno, deberán observar en todo momento, los criterios de prioridad establecidos en el artículo 12 de esta Ley, dándose siempre prioridad a los proyectos productivos de carácter colectivo, por sobre los de tipo individual.
+Los criterios para la determinación del tipo, monto, plazos y condiciones para el otorgamiento de los apoyos que determine el Reglamento deberán observar en todo momento, los criterios de prioridad establecidos en el artículo 12 de esta Ley, dándose siempre prioridad a los proyectos productivos de carácter colectivo, por sobre los de tipo individual.
 
 ###### Artículo 18.
 
@@ -461,11 +507,11 @@ V. Los demás datos que señale el Reglamento o que determine la Secretaría.
 
 Los beneficiarios de promociones y apoyos deberán informar a la Secretaría sobre cualquier cambio de los datos e información de identificación personal dentro de los quince días hábiles siguientes al hecho que lo generó o del que se tenga conocimiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 22.
 
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-Los recursos presupuestales destinados para los apoyos para el desarrollo económico, solamente podrán utilizarse para dicho fin. Lo anterior, salvo los casos de emergencia económica señalados en esta Ley y conforme a los términos que establezca la Junta de Gobierno del Consejo, dentro del ámbito de su competencia.
+Los recursos presupuestales destinados para los apoyos para el desarrollo económico, solamente podrán utilizarse para dicho fin. Lo anterior, salvo los casos de emergencia económica señalados en esta Ley.
 
 #### Sección Segunda. De los Tipos de Apoyo
 
@@ -567,15 +613,7 @@ i. Promover la cooperación entre las empresas del Estado; y
 
 j. Las demás acciones que considere necesarias y convenientes para el desarrollo económico del estado;
 
-VI. Para los casos en que la Secretaría hubiese acudido como solicitante ante el Consejo:
-
-a. Suscribir los convenios y contratos de los apoyos autorizados por la Junta de Gobierno del Consejo y que haya solicitado la Secretaría;
-
-b. Salvo los casos de programas anuales de fomento, otorgar a los solicitantes que hubieran presentado su garantía, los apoyos solicitados por la Secretaría y aprobados por la Junta de Gobierno del Consejo, dentro de los treinta días hábiles siguientes a los de su aprobación y verificar la utilización y el cumplimiento de las obligaciones contraídas por los beneficiarios;
-
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-c. Suspender temporalmente los apoyos y presentar la solicitud de cancelación ante el Consejo, cuando derivado de una visita de verificación se evidencie el incumplimiento de las obligaciones contraídas que, en los términos del convenio o contrato respectivo, ameriten la suspensión y cancelación de los mismos;
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 VII. Gestionar y administrar cualquier otro fondo o partida presupuestal para el desarrollo económico que hubiese sido creado por el Congreso del Estado o el Gobierno federal, así como otorgar los recursos para los fines establecidos en los mismos, bajo las reglas de operación que la Secretaría establezca o aquellas que correspondan a dichos fondos o partidas presupuestales;
 
@@ -591,7 +629,9 @@ XII. Conocer y resolver los trámites y recursos administrativos de su competenc
 
 XIII. Asesorar a las autoridades estatales y municipales en materia de desarrollo económico;
 
-XIV. Proponer al Titular de (sic) Ejecutivo Estatal, previa recomendación de la Junta de Gobierno del Consejo, la Declaratoria de emergencia económica, así como el programa respectivo para el mantenimiento y subsistencia de las micro, pequeña y mediana empresas establecidas en la entidad, así como la generación de empleos, durante dicho periodo de emergencia.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIV. Proponer al Titular de (sic) Ejecutivo Estatal, la Declaratoria de emergencia económica, así como el programa respectivo para el mantenimiento y subsistencia de las micro, pequeña y mediana (sic) empresas establecidas en la entidad, así como la generación de empleos, durante dicho periodo de emergencia;
 
 XV. Gestionar ante instancias y organismos nacionales e internacionales el otorgamiento de apoyos, incentivos y beneficios para el desarrollo económico del Estado;
 
@@ -609,381 +649,97 @@ XXI. Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 ### Capítulo II. Del Consejo Estatal de Promoción Económica
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
-
 ###### Artículo 27.
 
-El Consejo Estatal de Promoción Económica de Jalisco, es un organismo público descentralizado del Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, sectorizado de la Secretaría de Desarrollo Económico, que tiene el carácter deliberativo y quien, en coordinación con la misma dependencia, será el responsable de impulsar el desarrollo económico de la micro, pequeña y mediana empresa, bajo criterios de equidad para todas las regiones del Estado y demás disposiciones contenidas en esta Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 28.
 
-El patrimonio del Consejo, lo constituyen:
-
-I. Sus propiedades, posesiones, derechos y obligaciones;
-
-II. Los recursos que se le asignen en el Presupuesto de Egresos del Gobierno del Estado de Jalisco;
-
-III. Las aportaciones en dinero, bienes o servicios que realicen en su favor las dependencias y entidades de la administración pública federal, estatal y municipal;
-
-IV. Los recursos que reciba a través de donaciones, herencias, legados, subsidios, asignaciones, concesiones, aportaciones y adjudicaciones efectuadas en su favor;
-
-V. Los recursos que se obtengan de la venta, arrendamiento, intereses, plusvalías, dividendos, rendimiento y demás utilidades que se obtengan sobre su patrimonio;
-
-VI. Los recursos que se obtengan con motivo de la comercialización y ejecución de sus programas;
-
-VII. Las aportaciones que por cualquier título reciba de personas físicas o jurídicas, nacionales o extranjeras;
-
-VIII. Los derechos de fideicomisos en donde se le señale como fideicomisario o beneficiario;
-
-IX. Las multas impuestas en ejercicio de las facultades establecidas en esta Ley, que sean efectivamente cobradas, y
-
-X. Los demás derechos y obligaciones no comprendidos en las fracciones anteriores, que adquiera por cualquier título legal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 29.
 
-El Consejo, a través de su Junta de Gobierno, tiene las siguientes atribuciones:
-
-I. Conocer, discutir y aprobar los sectores o actividades económica (sic) a considerar, bajo indicadores de competitividad e informes de coyuntura, dentro de las tres zonas de prioridad que señalan el artículo 12, de esta Ley;
-
-II. Participar en la planeación y programación de las acciones del Gobierno del Estado para el desarrollo económico;
-
-III. Elaborar y proponer a las autoridades correspondientes, las estrategias para impulsar el desarrollo económico, bajo criterios de equidad territorial y gradualidad sectorial;
-
-IV. Evaluar de forma permanente la aplicación de esta Ley y proponer al Gobernador del Estado las modificaciones necesarias a efecto de que, en su caso, se presente la iniciativa correspondiente;
-
-V. Registrar, evaluar, considerar y publicar los vocacionamientos municipales y regionales a que se refiere el Artículo 14 de esta Ley;
-
-VI. Elaborar y autorizar los criterios generales, fórmulas sobre montos, condiciones, plazos y garantías a aplicar en los apoyos considerados por esta Ley, así como a aquellos aplicables en estado de Emergencia Económica;
-
-VII. Suscribir los convenios, contratos e instrumentos legales que se requieran con los tres niveles de gobierno y organismos internacionales, de acuerdo a la normatividad de la materia, a efecto de potenciar los recursos en beneficio de las micro, pequeña y mediana empresa, así como de los apoyos autorizados por sí misma;
-
-VIII. Otorgar los Apoyos aprobados por la Junta de Gobierno del Consejo y verificar la utilización y el cumplimiento de las obligaciones contraídas por los beneficiarios, conforme al Reglamento;
-
-IX. Suspender temporalmente los Apoyos y, en su caso, acordar la cancelación ante la Junta de Gobierno del Consejo, cuando derivado de una visita de verificación se evidencie el incumplimiento de las obligaciones contraídas que, en los términos del convenio o contrato respectivo, ameriten la suspensión y cancelación de dichos apoyos, así como autorizar se apliquen las sanciones procedentes en los términos de la Ley y hacer efectivas las garantías otorgadas;
-
-X. Imponer sanciones administrativas a los beneficiarios de apoyos que incumplan con las obligaciones pactadas;
-
-XI. Elaborar, aprobar, modificar y aplicar su programa anual de actividades;
-
-XII. Elaborar, aprobar y proponer al Secretario la propuesta de presupuesto de egresos necesarios para su funcionamiento;
-
-XIII. Aprobar la contratación de servicios externos especializados de alta calidad técnica o profesional, cuando lo requiera el Consejo;
-
-XIV. Establecer permanente comunicación y coordinación con autoridades federales, estatales y municipales, a fin de garantizar y fortalecer los finales del impulso al desarrollo económico contemplados en esta Ley y demás legislación equivalente, así como suscribir los convenios necesarios con dichas dependencia (sic) para el cumplimiento de dicho fin;
-
-XV. Autorizar la creación o cancelación de las plazas laborales del propio organismo, en términos de la legislación aplicable;
-
-XVI. Recibir, estudiar y resolver las solicitudes de promoción y apoyos contemplados en esta ley, así como autorizar su otorgamiento;
-
-XVII. Verificar que los beneficios de las promociones o apoyos otorgados, cumplan con los fines y obligaciones de esta Ley y su convenio en particular;
-
-XVIII. Aplicar los mecanismos de infracción o sanción para quienes incurran en responsabilidad, en los términos de lo señalado en esta Ley o su Reglamento;
-
-XIX. Vigilar el funcionamiento de los instrumentos y mecanismos que administren los recursos para los apoyos económicos;
-
-XX. Tramitar y resolver los recursos administrativos de su competencia, en los términos de la legislación de la materia y el Reglamento;
-
-XXI. Elaborar, aprobar y aplicar indicadores de desempeño sobre el cumplimiento de la Ley y el funcionamiento del propio Consejo;
-
-XXII. Aprobar los acuerdos que requiera para el cumplimiento de sus atribuciones;
-
-XXIII. Administrar sus bienes y derechos, con facultades de gestión, representación y administración;
-
-XXIV. Solicitar a las dependencias y entidades federales, estatales y municipales la información pública que requiera para el ejercicio de sus atribuciones;
-
-XXV. Proponer al Gobernador del Estado la constitución de los fondos y fideicomisos mercantiles que estimen necesarios para cumplir con el objeto de la presente ley;
-
-XXVI. Proponer la Declaratoria de Emergencia Económica y emitir el programa aplicable para el caso;
-
-XXVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2013)
-
-XXVIII. Realizar recomendaciones a las entidades públicas y privadas relacionadas con la Libertad Económica, para la mejora continua de la misma;
-
-XXIX. Proponer al Gobernador del Estado iniciativas para enajenación de bienes inmuebles, propiedad del organismo, para actos de promoción e incentivo al desarrollo económico del Estado, en los términos de lo señalado en esta Ley y siempre y cuando así conste en los títulos de adquisición correspondientes.
-
-XXX. Fomentar la creación de nuevas fuentes de empleo y consolidar las existentes; planear, promover y ejecutar la creación, construcción y administración de parques, zonas, áreas y corredores industriales en el Estado, así como celebrar convenios con las entidades públicas de los tres órdenes de gobierno, y
-
-XXXI. Las demás que establezcan esta Ley y su Reglamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 30.
 
-Para el cumplimiento de sus funciones, el Consejo podrá recurrir en consulta a los organismos federales, estatales y municipales que tengan relación con la promoción y el fomento del desarrollo económico de la entidad.
-
-Tratándose de cuestiones que involucren a los municipios de la entidad, se solicitará la opinión de los ayuntamientos respectivos para que en un término de diez días contados a partir de la notificación que se les formule ratifiquen, en su caso, la resolución adoptada por el Consejo. En caso de no darse contestación por el gobierno municipal, se entenderá que otorga su consentimiento sobre la resolución correspondiente.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 31.
 
-En el Presupuesto de Egresos del Poder Ejecutivo del Estado se deberá establecer una partida para el cumplimiento de los fines del Consejo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-### Capítulo III. De la Junta de Gobierno del Consejo Estatal de Promoción Económica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### Capítulo III. De la Junta de Gobierno del Consejo Estatal de Promociór (sic) Económica
 
 ###### Artículo 32.
 
-El Consejo Estatal de Promoción Económica de Jalisco contará con una Junta de Gobierno, que será su máximo órgano de gobierno, la cual contará además con un Secretario Técnico, el cual será nombrado por el titular del Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 33.
 
-Corresponde a la Junta de Gobierno del Consejo, además de las contempladas en el artículo 29 de esta Ley, las siguientes atribuciones:
-
-I. Otorgar toda clase de mandatos a la persona que considere conveniente, sin perjuicio de lo establecidos (sic) en la presente Ley;
-
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-II. Aprobar la celebración y modificación, en su caso, de los convenios, contratos, acuerdos y en general, cualquier otro acto jurídico que el Consejo celebre para cumplimiento de sus objetivos;
-
-III. Aprobar la adquisición, administración y enajenación de bienes muebles e inmuebles que así lo requiera el cumplimiento del objeto de esta Ley;
-
-IV. Administrar la totalidad de bienes y derechos, con plenas facultades de gestión, representación y administración;
-
-V. Ordenar que se hagan exigibles las garantías otorgadas a favor del organismo por el incumplimiento de los beneficiarios;
-
-VI. Tramitar y resolver los recursos administrativos de su competencia;
-
-VII. Autorizar la creación o cancelación de las plazas laborales del propio organismo, en términos de legislación aplicable;
-
-VIII. Autorizar la condonación, reducción o conmutación de las sanciones impuestas por el Consejo;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-IX. Tramitar ante la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, la ejecución de fianzas, el cobro de garantías y créditos fiscales de que tenga conocimiento el Consejo; y
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-X. Las demás aplicables en los términos de esta ley y su reglamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 34.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2020)</small>
-
-La Junta de Gobierno del Consejo Estatal de Promoción Económica de Jalisco, quedará integrada por:
-
-I. El Gobernador del Estado o a quien él designe para sustituirlo, quien lo presidirá, quien contará con derecho a voz y voto;
-
-II. Un Secretario Técnico, solo con derecho a voz, que será el Director General del Consejo;
-
-III. Los titulares, o sus respectivos representantes debidamente acreditados, de cada una de las secretarias del Gobierno del Estado y ayuntamientos siguientes, quienes contarán con derecho a voz y voto:
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
-
-a. Secretaría de Desarrollo Económico;
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
-
-b. Secretaría de Planeación y Participación Ciudadana;
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
-
-c. Secretaría de Medio Ambiente y Desarrollo Territorial;
-
-d. Secretaría de Turismo;
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
-
-e. Secretaría de Agricultura y Desarrollo Rural;
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
-
-f. Secretaría del Sistema de Asistencia Social;
-
-g. Secretaría del Trabajo y Previsión Social;
-
-h. Ayuntamiento de Guadalajara;
-
-i. Ayuntamiento de Zapopan;
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
-
-j. Ayuntamiento de San Pedro Tlaquepaque;
-
-k. Ayuntamiento de Tonalá;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE ENERO DE 2017)</small>
-
-l. Ayuntamiento de Tlajomulco de Zúñiga;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE ENERO DE 2017)</small>
-
-m. Ayuntamiento de Lagos de Moreno;
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
-
-n). Ayuntamiento de El Salto.
-
-IV. Los titulares o su debido acreditado, de las siguientes representaciones del sector privado, quienes contarán con derecho a voz:
-
-a. Consejo de Cámaras Industriales de Jalisco;
-
-b. Cámara Nacional de Comercio Servicios y Turismo de Guadalajara;
-
-c. Consejo Agropecuario de Jalisco;
-
-d. Centro Empresarial de Jalisco;
-
-e. Consejo Mexicano de Comercio Exterior de Occidente, A. C., y
-
-V. Los titulares o sus debidos acreditados, de las siguientes representaciones del sector social, quienes contarán con derecho a voz:
-
-a. Confederación de Trabajadores de Jalisco;
-
-b. Federación Revolucionaria de Obreros y Campesinos del Estado de Jalisco;
-
-c. Federación Regional de Obreros y Campesinos del Estado de Jalisco, y
-
-d. Federación de Organizaciones Obreras y Campesinas CROM del Estado de Jalisco.
-
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-Cuando se trate de asuntos relacionados con el resto de los municipios de la entidad, se invitará al ayuntamiento del municipio respectivo para que acrediten un representante a la sesión correspondiente y participe con voz, en la discusión de los asuntos relacionados con éste.
-
-Tratándose de los procedimientos de vocacionamiento y priorización para el desarrollo económico contemplados en esta Ley, el Reglamento establecerá los criterios para invitar a las representaciones de los ayuntamientos del interior del Estado y de la comunidad académica, a fin de que participen con voz en las deliberaciones respectivas, procurando en todo momento una representación equilibrada y equitativa de las regiones y universidades.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 35.
 
-El Consejo podrá invitar al delegado en el Estado de la dependencia federal en materia económica, para que participe con voz en sus reuniones.
-
-El Consejo podrá invitar, de forma eventual y solo con derecho a voz, a quien considere necesario para el desahogo de asuntos concretos.
-
-En caso de que alguno o algunos de los organismos u organizaciones establecidos en las fracciones IV y V del artículo 34, ostensiblemente deje de representar al sector con el que fue acreditado, el Presidente del Consejo, con la autorización previa del cincuenta por ciento más uno de los miembros del Consejo, podrá invitar al organismo u organización de la sociedad que sustituya dicha representación, con derechos y obligaciones iguales a los del resto de los integrantes del sector del que se trate dentro del Consejo.
-
-El Consejo podrá tomar opinión del Consejo Económico y Social del Estado de Jalisco para el Desarrollo y la Competitividad, de aquellos asuntos que resulten de trascendental relevancia para el Estado, sin que sus recomendaciones resulten vinculantes para la determinación de su Junta de Gobierno.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 36.
 
-Por cada integrante del Consejo se designará un suplente que lo sustituya en sus ausencias.
-
-Los miembros de la Junta de Gobierno, una vez designados por las instituciones correspondientes, desempeñarán su cargo en forma personal, por lo que no podrán hacerse representar por terceros que no sean sus suplentes debidamente acreditados.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 37.
 
-Los integrantes permanentes del Consejo tienen los mismos derechos.
-
-Cualquier integrante podrá hacer propuestas relativas al ejercicio de las atribuciones del Consejo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 38.
 
-Los miembros de la Junta de Gobierno, así como los servidores públicos adscritos al Consejo, estarán obligados a manejar con estricta confidencialidad la información que conozcan como interlocutores del sector público, privado o social en desarrollo de sus atribuciones, de conformidad a la normatividad aplicable en materia de transparencia y acceso a la información pública.
-
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-De igual forma, será responsabilidad del Consejo clasificar al ingreso de las solicitudes de apoyos o promociones de proyectos productivos, la información en los términos de la normatividad que establezca en materia de transparencia y acceso a la información pública.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 39.
 
-La Junta de Gobierno sesionará cuando menos una vez al mes en sesiones ordinarias y cuantas veces se haga necesario, de forma extraordinaria. Para la validez de las sesiones se requiere la mitad más uno de sus integrantes.
-
-La convocatoria a sesiones ordinarias las realizará el Presidente de la Junta o su Secretario Técnico, con un plazo de al menos 72 horas de anticipación a la celebración de la reunión, en la que se agregará el orden del día de los temas a desarrollar y se establecerá lugar y hora para su celebración. Tratándose de sesiones extraordinarias, el plazo para la validez de la convocatoria será de 24 horas, en la que se deberá agregar igualmente en el orden del día los temas a desarrollar, así como el lugar y hora de celebración.
-
-Durante la primera sesión ordinaria del año se pondrá a consideración para su aprobación, el Calendario Anual de Sesiones Ordinarias de la Junta de Gobierno.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO Y ADICIONADAS SUS FRACCIONES], P.O. 29 DE JULIO DE 2021)</small>
-
-En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas que cumplan con lo siguiente:
-
-I. La identificación visual plena de los integrantes;
-
-II. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;
-
-III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;
-
-IV. Transmitirse en vivo para el público en general;
-
-V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
-
-VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
-
-VII. La asistencia será tomada nominalmente al igual que todas las votaciones;
-
-VIII. La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y
-
-IX. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 40.
 
-Es obligación del Secretario Técnico, levantar acta de todo lo acontecido y acordado durante las sesiones de la Junta de Gobierno, la cual se pondrá a consideración, para su aprobación a la misma, la sesión próxima inmediata de que se trate.
-
-Los acuerdos emitidos por la Junta de Gobierno son de interés público, por lo que estarán a disposición del público en general, para su consulta en cualquier momento, ya sea en archivos del Consejo y por internet, en los términos establecidos por la legislación de transparencia y acceso a la información que corresponda.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 41.
 
-Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá voto de calidad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 42.
 
-El Presidente de la Junta tendrá las siguientes atribuciones:
-
-I. Presidir y conducir las sesiones de la Junta de Gobierno y hacer cumplir sus acuerdos, en los términos que establezca el Reglamento de esta Ley;
-
-II. Poner a consideración de los miembros integrantes de la Junta, los asuntos a tratar durante el desarrollo de sus sesiones;
-
-III. Instruir al Secretario Técnico sobre el registro, ejecución y seguimiento de los acuerdos establecidos por el Consejo;
-
-IV. Las demás que le establezca esta Ley y su Reglamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 43.
 
-Son atribuciones del Secretario Técnico de la Junta de Gobierno las siguientes:
-
-I. Citar a las sesiones de la Junta y levantar el acta de las sesiones que celebre la Junta de Gobierno y recabar la firma de su presidente e integrantes que hayan asistido;
-
-II. Llevar el control del libro de actas, el registro de actos y acuerdos que emita la Junta, y
-
-III. Dar fe de las sesiones de la Junta;
-
-IV. Garantizar el cabal cumplimiento de los acuerdos tomados por la Junta de Gobierno, y
-
-V. Las demás que le asigne esta Ley y su Reglamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ### Capítulo IV. Del Director General del Consejo Estatal de Promoción Económica
 
 ###### Artículo 44.
 
-El Director General del Consejo Estatal de Promoción Económica de Jalisco cuenta con facultades de representación legal y administración general del organismo público descentralizado, representándolo ante toda clase de autoridades y terceros, sin perjuicio de los mandatos o poderes que emita la Junta de Gobierno, en favor de diversas personas, quien será nombrado por el Gobernador del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 45.
 
-El Director General del Consejo, tiene las siguientes atribuciones:
-
-I. Apoyar al presidente en la preparación y celebración de sesiones, así como en el registro, ejecución y seguimiento de los acuerdos del Consejo;
-
-II. Certificar las constancias y copias de los documentos que obren en el Consejo;
-
-III. Solicitar y proponer, en su caso, a la Secretaría la contratación o asignación del personal que requiera a su disposición y los recursos materiales y financieros para el cumplimiento de sus atribuciones y funcionamiento;
-
-IV. Solicitar a la Secretaría su autorización para realizar las visitas, verificación y revisión a los beneficiarios de los apoyos para verificar el cumplimiento de las obligaciones contraídas y la correcta utilización de las promociones y apoyos otorgados, en los términos que señale el Reglamento de esta Ley;
-
-V. Presentar las denuncias, quejas y demandas ante las autoridades correspondientes en cualquier tipo de responsabilidad de los beneficiarios de los apoyos, cuando incumplan con las obligaciones contraídas;
-
-VI. Ejecutar las resoluciones y estrategias de promoción y desarrollo económico autorizadas por la Junta de Gobierno;
-
-VII. Notificar las resoluciones de la Junta de Gobierno a los organismos gubernamentales correspondientes, en función de las promociones o apoyos otorgados, así como a los interesados;
-
-VIII. Elaborar y someter a la consideración de la Junta de Gobierno la propuesta de Presupuesto de Egresos necesarios para el correcto funcionamiento del Consejo;
-
-IX. Celebrar los convenios, contratos, acuerdos y actos jurídicos en general que apruebe la Junta de Gobierno, así como otorgar y suscribir títulos de crédito, previo acuerdo de la Junta de Gobierno y a nombre y en representación del Consejo.
-
-X. Elaborar y someter a la consideración de la Junta de Gobierno las bases para la contratación de empréstitos y suscribir los contratos, títulos de crédito y demás documentos que se requieran para este fin;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-XI. Gestionar ante la Secretaría de Planeación, Administración y Finanzas la autorización del Congreso para que el Estado se constituya en Garante de Terceros;
-
-XII. Integrar, en los términos de lo establecido por esta Ley y su Reglamento, el expediente que habrá de darle respaldo a las iniciativas de enajenación o traslado de dominio de bienes propiedad del organismo y que haya que ponerse a consideración de la Junta de Gobierno, y
-
-XIII. Las demás que señale esta Ley y su Reglamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ### Capítulo V. De la Administración del Consejo Estatal de Promoción Económica
 
 ###### Artículo 46.
 
-El Director General y los servidores públicos que determine la Junta de Gobierno, que manejen fondos y valores, deberán garantizar su caución y manejo a favor del propio organismo, por la cuantía que se acuerde por la misma Junta.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 47.
 
-Los sistemas y controles del patrimonio del Consejo deberán permitir que la Junta de Gobierno y el Director General verifiquen el cumplimiento de las disposiciones legales y administrativas, garantizando en todo momento la conservación, custodia y debida administración de sus recursos.
-
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-Para los actos traslativos de dominio, la determinación la realizará la Junta de Gobierno, de conformidad con lo establecido en esta Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ### Capítulo VI. Del Consejo Estatal para la Competitividad de Jalisco
 
@@ -1223,19 +979,23 @@ Los poderes del Estado y los ayuntamientos, en el ámbito de sus respectivas com
 
 El Gobierno del Estado, con la participación de la Secretaría, podrá celebrar convenios de coordinación con los gobiernos municipales para impulsar los diversos programas y planes de productividad contemplados en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 62.
 
-El Consejo tendrá como una de sus prioridades, apoyar e incentivar aquellos proyectos del sector privado que tiendan a mejorar los índices de productividad laboral y del aparato productivo en general. Para tal fin, el Consejo analizará, dictaminará y decidirá en forma prioritaria, respecto de los apoyos a fondo perdido o créditos a tasa preferencial, en los términos de lo establecido por el Reglamento, para la mejora de la productividad solicitados para proyectos sectoriales que tiendan a fortalecer los agrupamientos productivos, mejorar el diseño, la calidad, los procesos productivos, la tecnología, el potencial exportador y las capacidades humanas, especialmente para ramas específicas tradicionales de alto impacto en el empleo y el autoempleo, con enfoque al otorgamiento de servicios para las micro, pequeñas y medianas empresas de la entidad que les permitan mejorar los conceptos arriba señalados.
+La Secretaría tendrá como una de sus prioridades, apoyar e incentivar aquellos proyectos del sector privado que tiendan a mejorar los índices de productividad laboral y del aparato productivo en general. Para tal fin, la Secretaría analizará, dictaminará y decidirá en forma prioritaria, respecto de los apoyos a fondo perdido o créditos a tasa preferencial, en los términos de lo establecido por el Reglamento, para la mejora de la productividad solicitados para proyectos sectoriales que tiendan a fortalecer los agrupamientos productivos, mejorar el diseño, la calidad, los procesos productivos, la tecnología, el potencial exportador y las capacidades humanas, especialmente para ramas específicas tradicionales de alto impacto en el empleo y el autoempleo, con enfoque al otorgamiento de servicios para las micro, pequeñas y medianas empresas de la entidad que les permitan mejorar los conceptos arriba señalados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 63.
 
-A cada programa que sea autorizado por el Consejo, deberá llevarse un seguimiento puntual de sus indicadores de productividad, con el fin de medir el impacto que dicho proyecto haya obtenido.
+A cada programa que sea autorizado por la Secretaría, deberá llevarse un seguimiento puntual de sus indicadores de productividad, con el fin de medir el impacto que dicho proyecto haya obtenido.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 64.
 
-El Consejo deberá dar seguimiento puntual a los indicadores generales de productividad de Jalisco, tanto del sector privado como del sector público. Para tal fin, el Instituto de Información deberá prestar el apoyo estadístico, informático e informativo que para tal fin requiera el Consejo.
+La Secretaría deberá dar seguimiento puntual a los indicadores generales de productividad de Jalisco, tanto del sector privado como del sector público. Para tal fin, el Instituto de Información deberá prestar el apoyo estadístico, informático e informativo que para tal fin requiera la Secretaría.
 
 ###### Artículo 65.
 
@@ -1293,213 +1053,105 @@ Durante el mes de diciembre, cada uno de los poderes del Estado, así como los a
 
 ### Capítulo I. Disposiciones Generales
 
-Artículo 75
+###### Artículo 75.
 
-Los actos emanados de las disposiciones de este título, deberán de sujetarse a los principios de legalidad, seguridad jurídica, equidad, justicia, economía, celeridad, sencillez, eficacia, publicidad y audiencia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 76.
 
-El Consejo deberá establecer la coordinación necesaria, en los términos de las leyes correspondientes, con las demás dependencias y organismos de la administración pública federal, estatal y municipal, para el mejor desempeño de sus atribuciones, particularmente con la Secretaria, con quien mantendrá su sectorización.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ### Capítulo II. De la Verificación e Inspección
 
 ###### Artículo 77.
 
-El Consejo realizará, mediante el personal autorizado para ello, las visitas de verificación e inspección que se consideren necesarias para la revisión y comprobación del cumplimiento de las obligaciones contraídas por los particulares que hayan resultado beneficiados con alguna de las promociones o apoyos contemplados por esta Ley.
-
-Son objeto de verificación e inspección los documentos, bienes, lugares o establecimientos donde se desarrollen las actividades o servicios beneficiada por alguna promoción o apoyo del Consejo.
-
-Las visitas de verificación e inspección a este artículo, podrán realizarse a petición de parte o de oficio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 78.
 
-Cuando los actos, lugares o documentos sujetos de verificación e inspección, requieran la opinión de peritos o especialistas en alguna materia específica, el Consejo podrá autorizar la designación de personal externo autorizado de apoyo que garantice el correcto desahogo de la visita.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 79.
 
-Las visitas de verificación e inspección se sujetarán a las siguientes bases:
-
-I. Los actos de visita sólo se realizarán en el lugar o lugares indicados en la orden escrita expedida por el Director General del Consejo, cuyo objeto será el estipulado en la misma y no podrá ir más allá de la verificación del cumplimiento de las obligaciones sustraídas por persona física o jurídica con motivo de la promoción o apoyo del que hayan sido beneficiados, en los términos de esta Ley, su Reglamento y el propio convenio o contrato suscrito con el Consejo;
-
-II. Los actos de visita, inspección y vigilancia se atenderán con persona física o jurídica beneficiada de la promoción o apoyo para el desarrollo económico que se contemplan en esta Ley, o su representante legal. En caso de no encontrarse presentes en el lugar indicado para ello, se dejará citatorio escrito que especifique día, hora, lugar y persona con la que habrá de celebrarse la visita. En caso de inasistencia, se realizará el acto correspondiente con cualquier empleado que se encuentre presente en el lugar. Ante la oposición de la práctica de la diligencia, con el inspector o persona autorizada se levantará un acta circunstanciada de hechos, la cual se entregará al Director General, para los efectos legales correspondientes;
-
-III. El inspector o persona autorizada del Consejo, deberá identificarse mediante credencial oficial ante quien se actúa en la visita y presentarle la orden que la autoriza, haciéndolo constar para ello en el acta respectiva;
-
-IV. La persona física o jurídica sujeta de la visita de verificación e inspección o su representante legal, o con quien se entienda la misma, deberá permitir el acceso a los inspectores o personas autorizadas del Consejo, al lugar objeto de la diligencia, así como proporcionar los datos e informes requeridos, en términos de la presente Ley y su Reglamento;
-
-V. Para el desarrollo de la visita, el requerido designará dos testigos con identificación oficial para que acredite plena identificación, y a falta de estos, el inspector o persona autorizada lo hará en su rebeldía, haciendo constar tal situación en el acta respectiva;
-
-VI. El inspector o persona autorizada entregará una copia del acta levantada donde se asienten los hechos derivados de la actuación, con quien se entienda la diligencia;
-
-VII. La negativa de la persona física o jurídica, o su representante, de firmar el acta, no afectará la validez de lo actuado, lo que deberá hacerse constar en la misma. El acta será válida con la firma del inspector, inspectores o personas autorizadas y los testigos designados en los términos de la fracción V de este artículo;
-
-VIII. En el acto de la visita, los inspectores o personas autorizadas podrán formular las observaciones que consideren procedentes y aportar las pruebas necesarias; o dentro del término de cinco días hábiles siguientes a la fecha de la conclusión de la diligencia que corresponda, y
-
-IX. Las demás que establezca esta Ley y su Reglamento.
-
-En todo lo no previsto por este artículo, se aplicará supletoriamente lo previsto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 80.
 
-El acta que al efecto se levante deberá estar circunstanciada y para ello deberá contener:
-
-I. Nombre y cargo de quien emitió la orden de inspección, el número de oficio en la que se contiene y nombre y firma autógrafa del inspector o persona autorizada del Consejo que la ejecutó;
-
-II. El nombre, denominación o razón social del sujeto de la visita o, en su caso, con quien se entendió la misma;
-
-III. El lugar, hora, día, mes y año en que se haya realizado la visita;
-
-IV. Nombre y, en su caso, domicilio de las personas que hayan testificado los hechos de las actuaciones;
-
-V. El objeto de la visita;
-
-VI. Los hechos u omisiones que se hubieren conocido por los inspectores o personas autorizadas y pruebas que en su caso correspondan;
-
-VII. Las expresiones de la o las personas a que se refiere la fracción VII, del artículo anterior de esta Ley;
-
-VIII. Un apartado de lectura y cierre del acta en la que se haga constar el alcance y contenido de la misma a los sujetos de la visita, haciéndoseles saber también de las infracciones en que hubieren incurrido y del término de tres días hábiles con que cuentan para inconformarse ante el Consejo, a efecto de que manifiesten lo que a su derecho convenga, y
-
-IX. Las demás que determina el Reglamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 81.
 
-Los inspectores o personas autorizadas del Consejo, que por motivo del ejercicio de sus atribuciones tengan conocimiento de una infracción a las disposiciones de la presente Ley o su Reglamento, asentarán dichas circunstancias en el acta respectiva a fin de que se apliquen las sanciones establecidas en esta Ley y su Reglamento.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 82.
 
-Los inspectores o personas autorizadas del Consejo, tienen estrictamente prohibido recibir alguna gratificación o dádiva con el propósito de omitir o alterar la información de las actuaciones de las diligencias; en caso de comprobarse una situación de este tipo, quedarán sujetos a las disposiciones de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin menoscabo de las responsabilidades civiles o penales que conforme a derecho procedan.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ### Capítulo III. De las Infracciones y Sanciones a Beneficiarios del Consejo Estatal de Promoción Económica de Jalisco
 
 ###### Artículo 83.
 
-Son conductas susceptibles de sanción por parte de las personas físicas o jurídicas beneficiadas por promoción o apoyo del Consejo, o representantes legales y/o autorizadas, las siguientes:
-
-I. Aportar información falsa para tener acceso y obtener la promoción o apoyo contemplados en esta Ley;
-
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-II. No cumplir con los términos y condiciones del contrato o convenio contraídas con el Consejo, con motivo de la promoción o apoyo del que fue beneficiado, o con los que se desprenden de esta ley y su reglamento;
-
-III. Destinar las promociones o apoyos obtenidos, para fines distintos de los compromisos contraídos y señalados en la resolución que, en su oportunidad, haya emitido el Consejo;
-
-IV. Enajenar, transmitir, gravar y ceder derechos y obligaciones, y en general, realizar actos traslativos de dominio y, de uso o disfrute, diversos a las obligaciones contraídas por el particular a otra persona física o jurídica, sin autorización previa de la Junta de Gobierno del Consejo;
-
-V. Las demás señaladas por esta Ley, su Reglamento o contrato o convenio señalado con el Consejo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 84.
 
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-Les serán aplicables a quienes incurran en alguna de las infracciones señaladas en esta Ley, las siguientes sanciones:
-
-I. Amonestación con apercibimiento;
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-II. Multa por el equivalente de mil a diez mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, cuando se trate del supuesto señalado en la fracción II, del artículo anterior;
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-III. Multa por el equivalente de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en los casos señalados por las fracciones III y IV del artículo anterior;
-
-IV. Cancelación de la promoción o apoyo autorizado por el Consejo, y
-
-V. Restitución al Consejo del monto otorgado al particular beneficiado con una promoción o apoyo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 85.
 
-Para la imposición de las sanciones contenidas en el artículo anterior, se tomará en cuenta:
-
-I. La condición económica del infractor;
-
-II. El carácter intencional de la infracción;
-
-III. La reincidencia de la infracción;
-
-IV. La gravedad de la infracción, y
-
-V. El daño o perjuicio causado al patrimonio del Consejo o a la sociedad en general.
-
-Quien obtenga sanción definitiva por haber incurrido en alguna de las infracciones contempladas en las fracciones II, III o IV de esta Ley, perderá la oportunidad de volver a ser beneficiado por alguna promoción o apoyo de las que impulse el Consejo, en los términos que establece esta Ley y su Reglamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 86.
 
-Las infracciones y sanciones previstas en esta Ley y su Reglamento, podrán imponerse simultáneamente y deberá procederse en los términos del presente ordenamiento, sin perjuicio de las responsabilidades de tipo penal o civil a que den motivo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 87.
 
-Las sanciones por infracciones de esta Ley, serán impuestas indistintamente con base en:
-
-I. Los resultados e informes de los actos de verificación realizados por los inspectores del Consejo;
-
-II. En su caso, por las manifestaciones y elementos probatorios que aporte el presunto infractor;
-
-III. Los supuestos establecidos por el artículo anterior, y
-
-IV. Cualquier otra circunstancia que aporte elementos de convicción para aplicar la sanción.
-
-Las resoluciones que emita el Consejo deberán estar debidamente fundadas y motivadas conforme a derecho, considerando los aspectos establecidos en el presente ordenamiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 88.
 
-Con independencia de las sanciones establecidas en el artículo 84 de esta Ley, el Director General podrá proponer y solicitar a la Junta de Gobierno la suspensión o cancelación de la promoción o apoyos que se hubiesen acordado en beneficio del infractor.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 89.
 
-Las sanciones que haya impuesto el Consejo podrán ser condonadas, reducidas o conmutadas, a solicitud del interesado y por única ocasión, mediante acuerdo previo de la Junta de Gobierno, en las que se valoren las circunstancias del caso y las causas que motivaron su imposición y previo reintegro al erario público de la cantidad equivalente al cien por ciento de los apoyos fiscales y/o económicos que hubiere recibido.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ### Capítulo IV. De las Infracciones y Sanciones a Servidores Públicos
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
-
 ###### Artículo 90.
 
-La responsabilidad administrativa, las infracciones en que incurran los servidores públicos que laboren en el Consejo, se sancionarán conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin menoscabo de las sanciones administrativas, civiles y penales que correspondan, en su caso.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 91.
 
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-Los procedimientos administrativos relativos a las infracciones previstas en esta Ley se aplicarán supletoriamente (sic) lo previsto en la Ley del Procedimiento Administrativo del Estado de Jalisco.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ### Capítulo V. Del Recurso de Inconformidad
 
 ###### Artículo 92.
 
-El recurso de inconformidad procede en contra de las multas impuestas por el Consejo y tiene por objeto confirmar o modificar el monto de la multa impuesta al particular beneficiado por alguna de las promociones o apoyos contemplados en esta Ley.
-
-Será optativo para el particular agotar el recurso de inconformidad o el de revisión contemplados en esta Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 93.
 
-El particular deberá interponer el escrito de recurso de inconformidad ante el Director del Consejo, dentro de los tres días hábiles siguientes contados a partir de la fecha en que haya recibido la notificación de la multa.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 94.
 
-El recurso de inconformidad debe presentarse por escrito, con firma autógrafa del particular afectado o por su representante legal, debidamente autorizado, en los términos del artículo 89 de esta Ley.
-
-La interposición del recurso suspende el cobro de la multa impugnada, cuando lo solicite el interesado y no cause perjuicio al interés del Consejo, la sociedad o algún tercero.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 95.
 
-El recurso deberá admitirse, a más tardar, al tercer día hábil al de su presentación, debiendo señalarse día y hora para la celebración de la audiencia, ante la Junta de Gobierno del Consejo.
-
-En dicha audiencia se oirá en defensa al interesado y se desahogarán las pruebas ofrecidas. A solicitud del particular, la autoridad podrá desahogar la audiencia en ese mismo momento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 96.
 
-La Junta de Gobierno del Consejo tendrá un plazo de cinco días hábiles, a partir de la celebración de la audiencia, para dictar la resolución del recurso de inconformidad, debidamente fundada y motivada, la cual deberá ser notificada personalmente al interesado en los términos que establece la Ley.
-
-En contra de la resolución que resuelva el recurso de inconformidad, no procederá ningún otro recurso; sin perjuicio de que el particular ejercite las acciones y derechos que estima pertinentes ante los órganos jurisdiccionales competentes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 97.
 
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-Para todo lo no contemplado en los procedimientos administrativos señalados por esta Ley, se aplicará supletoriamente lo señalado por la Ley del Procedimiento Administrativo para el Estado de Jalisco.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 T R A N S I T O R I O S
 
@@ -1668,3 +1320,39 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 28427/LXIII21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28500/LXII/21 QUE DEROGA LA FRACCIÓN I DEL ARTÍCULO 60 Y ARTÍCULO 61 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO QUE REGULAN LA AGENCIA DE PROYECTOS ESTRATÉGICOS; DEROGA LOS ARTÍCULOS 3, FRACCIÓN VI, 27 AL 47 Y 75 AL 97, Y REFORMA LOS DIVERSOS 2, 3 FRACCIÓN IX, 4, 5, 8, 9, 10, 12, 13, 14, 16, 17, 22, 26, 62, 63 Y 64 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO RELATIVOS AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL DE PROMOCIÓN ECONÓMICA; ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DE LOS CITADOS ENTES; CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA DE COINVERSIÓN PARA EL DESARROLLO SOSTENIBLE DE JALISCO (COINVIERTE), Y EXPIDE SU LEY ORGÁNICA”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Las funciones del órgano auxiliar denominado Agencia de Proyectos Estratégicos y del organismo público descentralizado denominado Consejo Estatal de Promoción Económica serán asumidas por el organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+Los asuntos en trámite ante los entes que se extinguen, pasarán a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado, con excepción de aquéllos que se encuentren en litigio o controversia y el Consejo sea parte o hubiese sido señalado como autoridad responsable.
+
+El Poder Ejecutivo, a través de las Secretarías de Desarrollo Económico, de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptará las medidas jurídicas, administrativas, financieras, presupuestales y operativas necesarias para que los servicios y funciones de los entes que se extinguen se presten en forma ininterrumpida.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración designe liquidador de los entes que se extinguen, facultándolo para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+El liquidador que sea designado intervendrá de inmediato para tomar el control y disponer del patrimonio de dichos entes, sin perjuicio de que adopte las medidas jurídicas, administrativas, financieras y operativas para que los servicios y funciones se presten en forma ininterrumpida.
+
+CUARTO. Las facultades, derechos y obligaciones establecidos a cargo de los entes que se extinguen, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales o de las que se encuentren en litigio y/o controversia, serán asumidas por el organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+QUINTO. Los recursos económicos y materiales, así como los derechos, valores, fondos, bienes muebles, bienes inmuebles y obligaciones de los entes que se extinguen pasarán al organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, con excepción de los necesarios para garantizar el cumplimiento de las obligaciones contraídas previo al inicio del procedimiento de liquidación y los que se encuentren en litigio y/o controversia respecto de los cuales el liquidador tendrá representación jurídica de los mismos y una vez que exista sentencia firme o se encuentren libres de controversia pasarán al organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+SEXTO. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO TRANSITORIO del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1° de enero al 31 de diciembre del año 2021.
+
+SÉPTIMO. Las relaciones laborales que tengan los entes que se extinguen con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+OCTAVO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaria de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera (sic) adeudar los entes que se extinguen.
+
+NOVENO. La Contraloría del Estado deberá realizar una auditoría a los entes que se extinguen, y en caso de encontrar alguna probable responsabilidad, procederá conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+DÉCIMO. Todos aquellos convenios, contratos, trámites, autorizaciones y demás actos vigentes, iniciados con base en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco que regulaba a la Agencia de Proyectos Estratégicos, así como los artículos de la Ley para el Desarrollo Económico del Estado de Jalisco, que regulaba al Consejo Estatal de Promoción Económica, se sujetarán a lo previsto en los mismos y a las disposiciones conforme a las cuales se hayan celebrado.
+
+DÉCIMO PRIMERO. El organismo público descentralizado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, deberá emitir su reglamento dentro de los 30 días naturales siguientes a la entrada en vigor del presente decreto.
+
+DÉCIMO SEGUNDO. Las referencias que en cualquier otro ordenamiento se establezca en relación a los entes que se extinguen, se tendrán por hechas a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
+
+DÉCIMO TERCERO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
