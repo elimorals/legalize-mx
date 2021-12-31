@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2021-07-05"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "YUC"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATAN
 
-(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 385/2021 POR EL QUE SE MODIFICAN LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN Y LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN, EN MATERIA DE MEJORES CONDICIONES LABORALES Y SALVAGUARDA, PUBLICADO EN EL DIARIO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CINCO DE JULIO DE DOS MIL VEINTIUNO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE YUCATÁN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -71,9 +69,9 @@ I.- En el Poder Legislativo: el Secretario General del Poder Legislativo, el Aud
 
 II.- En el Poder Ejecutivo: los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán y el Fiscal General del Estado, los secretarios particular y privado del Gobernador del Estado y sus correspondientes auxiliares; los secretarios particulares y demás personal adscrito a las secretarías particulares de los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán; el del Fiscal General del Estado, los titulares de las unidades de asesoría, de apoyo técnico y administrativo, de coordinación, de control de gestión, de tecnología de información y de comunicación social, los ayudantes, operadores y todos aquellos que laboren bajo las órdenes inmediatas del gobernador; así como los titulares de las oficinas de representación del Gobierno del Estado fuera del propio territorio estatal.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Las personas que ocupen la titularidad de las subsecretarías, subconsejerías, direcciones y jefaturas de departamento de las dependencias del Gobierno del estado; vicefiscalías; presidencias y secretarías de la Junta de Conciliación y Arbitraje; así como los cargos de registradurías públicas de la propiedad; procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios así como el de sus procuradurías auxiliares; defensorías de oficio, asesorías jurídicas y mandatarias en términos del Código Civil; directivos de los hospitales oficiales; coordinaciones y jefaturas de las oficinas recaudadoras; auditorías de las secretarías de Administración y Finanzas, y de la Contraloría General; y el personal directivo de las instituciones educativas del sistema educativo estatal.
+Las personas que ocupen la titularidad de las subsecretarías, subconsejerías, direcciones y jefaturas de departamento de las dependencias del Gobierno del estado; vicefiscalías; la titularidad del Centro de Conciliación Laboral del Estado de Yucatán; así como los cargos de registradurías públicas de la propiedad; procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios así como el de sus procuradurías auxiliares; defensorías de oficio, asesorías jurídicas y mandatarias en términos del Código Civil; directivos de los hospitales oficiales; coordinaciones y jefaturas de las oficinas recaudadoras; auditorías de las secretarías de Administración y Finanzas, y de la Contraloría General; y el personal directivo de las instituciones educativas del sistema educativo estatal.
 
 III.- En el Poder Judicial: los Magistrados, los Consejeros de la Judicatura Estatal, los Jueces de Primera Instancia, los secretarios generales de acuerdos y los titulares de las Unidades del Tribunal Superior de Justicia, el Secretario Ejecutivo y los titulares de las Direcciones, Unidades y Órganos Técnicos y del Consejo de la Judicatura; los secretarios de la presidencia, los secretarios de acuerdos y los secretarios de estudio y cuenta, y demás personal que establece la Ley Orgánica del Poder Judicial del Estado, y
 
@@ -1071,11 +1069,11 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, es la autoridad encargada de conocer y resolver los conflictos que se susciten en la aplicación de esta Ley, con la integración, competencia y atribuciones que establece la Ley Orgánica del Poder Judicial del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 129.
 
-El personal jurisdiccional del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, será considerado como trabajador de confianza y formará parte de la carrera judicial. El personal administrativo del Tribunal es de base y estará sujeto a la presente Ley; pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por la Junta Local de Conciliación y Arbitraje del Estado de Yucatán.
+El personal jurisdiccional del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios será considerado como trabajadora o trabajador de confianza y formará parte de la carrera judicial. El personal administrativo del Tribunal será de base y estará sujeto a la presente Ley, pero de los conflictos laborales conocerá el Centro de Conciliación Laboral del Estado de Yucatán y, en su caso, los Tribunales Laborales del Poder Judicial del Estado, y serán aplicables los procedimientos señalados en la Ley Federal del Trabajo vigente.
 
 ###### ARTICULO 130.
 
@@ -1478,3 +1476,37 @@ Este decreto entrará en vigor el día siguiente de su publicación en el Diario
 Artículo Segundo.- Derogación tácita.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan a este decreto.
+
+D.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 456/2021 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, EN MATERIA DE JUSTICIA LABORAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Nombramiento de la persona titular de la dirección general
+
+La persona titular del Poder Ejecutivo del estado nombrará a la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de ciento veinte días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo tercero. Instalación de la junta de gobierno
+
+La persona titular del Poder Ejecutivo del estado convocará a la sesión de instalación de la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de cinco días hábiles, contado a partir de la fecha de designación de la persona titular de la dirección general del centro.
+
+Artículo cuarto. Inicio de funciones del centro y los Tribunales
+
+El Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales del Poder Judicial del Estado, iniciarán funciones en la misma fecha, a más tardar el uno de mayo del año dos mil veintidós.
+
+Hasta en tanto el Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales entren en funciones, la Junta Local de Conciliación y Arbitraje, continuará conociendo de los procedimientos laborales que le competan en términos de la Ley Federal del Trabajo que estuviera vigente, previa a la reforma publicada en el Diario Oficial de la Federación el uno de mayo del año dos mil diecinueve.
+
+Artículo quinto. Servicio profesional de carrera
+
+El servicio profesional de carrera aplicable al Centro de Conciliación Laboral del Estado de Yucatán entrará en vigor cuando lo haga la norma jurídica que lo regule. Su implementación será gradual conforme a los lineamientos y manuales que presente la persona titular de la dirección general del centro y que apruebe la junta de gobierno. Durante el procedimiento de contratación, se actualizará y capacitará a todo el personal, con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional señalado.
+
+Artículo sexto. Carga presupuestaria
+
+Las obligaciones que se generen con motivo de la entrada en vigor de este decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+
+Artículo séptimo. Procedimientos y asuntos en trámite
+
+Los procedimientos y los asuntos que en materia laboral se encontrasen en trámite en la Junta Local de Conciliación y Arbitraje del estado a la entrada en vigor de este decreto, se substanciarán y resolverán por este órgano hasta su total conclusión, conforme a las disposiciones anteriores que les resultasen aplicables, independientemente de la instalación y puesta en marcha del Centro de Conciliación Laboral del Estado de Yucatán y de los Tribunales Laborales del Poder Judicial del Estado.
