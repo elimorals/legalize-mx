@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2021-01-22"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -1585,157 +1585,387 @@ Tratándose de las contribuciones por concepto de Derechos a que se refiere este
 
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
-PRODUCTOS DE TIPO CORRIENTE
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-###### ARTÍCULO 187.
+PRODUCTOS
 
-Tendrán el carácter de Productos, los ingresos que se obtengan por la enajenación de bienes muebles o inmuebles que pertenezcan a los Municipios del Estado de Michoacán.
-
-###### ARTÍCULO 188.
-
-Los muebles e inmuebles pertenecientes a los Municipios, podrán ser enajenados cuando se tengan gastos elevados en su conservación y sostenimiento, previa autorización del Honorable Cabildo.
-
-###### ARTÍCULO 189.
-
-Son objeto de este Producto, la venta de los bienes abandonados y otros objetos o semovientes que, por cualquier circunstancia, pertenecen a los Municipios, la cual se realizará en subasta pública conforme al procedimiento y disposiciones correspondientes.
-
-###### ARTÍCULO 190.
-
-En ningún caso podrán enajenarse bienes de uso común, o destinados a un servicio público municipal, mientras tengan ese carácter o destino.
-
-### CAPÍTULO I. ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
-
-###### ARTÍCULO 191.
-
-El arrendamiento de piso, por la introducción de ganado a los rastros municipales, se cubrirá en la oficina correspondiente conforme a la cuota o tarifa que determinen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO 192.
-
-El arrendamiento de corrales y zahúrdas en los rastros municipales, se cubrirá en la Tesorería Municipal correspondiente u oficina respectiva, aplicando la cuota diaria por cabeza de ganado que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
-
-### CAPÍTULO II
-
-ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO.
-
-ARTÍCULO 190 (SIC). Tendrán el carácter de productos, los ingresos que se obtengan por concepto de arrendamiento de sus bienes muebles o inmuebles, mismos que se determinarán por medio de contratos que previamente se celebren con los usufructuarios, con sujeción a las bases que establezcan previamente los Ayuntamientos respectivos, representados por su Presidente Municipal.
-
-###### ARTÍCULO 193.
-
-Quedan comprendidos en este concepto los demás ingresos por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, tales como:
-
-I. Rendimiento o intereses de capital y valores del Estado:
-
-II. Venta de publicaciones oficiales que edite el Municipio respectivo;
-
-III. Recuperación de primas de seguro por siniestros de vehículos automotores terrestres, aéreos y de cualquier otro tipo; y,
-
-IV. Otros Productos, que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
-
-## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS
-
-APROVECHAMIENTOS DE TIPO CORRIENTE
-
-### CAPÍTULO III. OTROS PRODUCTOS
-
-###### ARTÍCULO 194.
-
-Constituyen los ingresos de este ramo, las multas impuestas por infracciones a las Leyes Fiscales Municipales y las provenientes de infracciones a los demás ordenamientos de carácter municipal.
-
-### CAPÍTULO I. MULTAS
-
-###### ARTÍCULO 195.
-
-El pago de un crédito fiscal enterado fuera de los plazos señalados, causará los recargos que establece el Código Fiscal Municipal, conforme a la tasa que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
-
-### CAPÍTULO II. RECARGOS
-
-###### ARTÍCULO 196.
-
-Son los que se originan al practicar el Procedimiento Administrativo de Ejecución, el cual se realiza para llevar a cabo la recuperación de un crédito fiscal, conforme a lo dispuesto por el Código Fiscal Municipal.
-
-### CAPÍTULO III. HONORARIOS Y GASTOS DE EJECUCIÓN
-
-###### ARTÍCULO 197.
-
-Son reintegros los que se hagan por responsabilidad de los empleados municipales que manejen fondos provenientes de la glosa y revisión, ya sea preventiva o definitiva que practique el Ayuntamiento o la Auditoría Superior del Estado.
-
-### CAPÍTULO IV. REINTEGROS
-
-###### ARTÍCULO 198.
-
-Se aplicarán a este ramo de Aprovechamientos, los donativos a favor del Municipio que haga la Federación y el Estado, así como los que otorguen los particulares, mediante disposición expresa al respecto.
-
-### CAPÍTULO V. DONATIVOS Y SUBSIDIOS A FAVOR DEL MUNICIPIO
-
-###### ARTÍCULO 199.
-
-Al ramo de aprovechamientos se aplicarán los ingresos no previstos en las denominaciones anteriores, que sean indemnizaciones por daños en bienes municipales.
-
-### CAPÍTULO VI. INDEMNIZACIONES POR DAÑOS A BIENES MUNICIPALES
-
-###### ARTÍCULO 200.
-
-Son aquellos que no se encuentran comprendidos en este Capítulo, como pueden ser entre otros:
-
-I. Fianzas efectivas a favor del erario municipal; y,
-
-II. Otros no especificados, así como los que se señalen en las Leyes de Ingresos de los Municipios del Estado de Michoacán.
-
-## TÍTULO SÉPTIMO. INGRESOS POR VENTA DE BIENES Y SERVICIOS, Y OTROS INGRESOS DE ORIGEN MUNICIPAL
-
-### CAPÍTULO VII. APROVECHAMIENTOS DIVERSOS
-
-###### ARTÍCULO 201.
-
-Son los que se obtienen por cualquier otro concepto distinto a los regulados en los demás Títulos de esta Ley.
-
-## TÍTULO OCTAVO. DE LAS PARTICIPACIONES; APORTACIONES, TRANSFERENCIAS POR CONVENIO Y OTRAS TRANSFERENCIAS
-
-### CAPÍTULO ÚNICO
-
-###### ARTÍCULO 202.
-
-Constituyen este ingreso las cantidades que perciban los Municipios del Estado, de conformidad con lo dispuesto por el Decreto de Presupuesto de Egresos de la Federación y del Estado, para el ejercicio fiscal correspondiente, así como a la distribución que al efecto señalan la Ley de Coordinación Fiscal y la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo.
-
-### CAPÍTULO I. PARTICIPACIONES EN INGRESOS FEDERALES Y ESTATALES
-
-###### ARTÍCULO 203.
-
-Constituyen este ingreso las cantidades que perciben los Municipios, provenientes de los Fondos de Aportaciones, para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, y para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, de conformidad con lo dispuesto por el Decreto de Presupuesto de Egresos de la Federación y del Estado, para el ejercicio fiscal correspondiente, así como a la distribución que al efecto señalan la Ley de Coordinación Fiscal y la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo.
-
-Conforme a lo dispuesto por la Ley de Coordinación Fiscal, el Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, podrá afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de obligaciones que contraigan con las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana.
-
-Así también, y conforme a lo dispuesto por la Ley de Coordinación Fiscal, el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrá afectarse como garantía del cumplimiento de sus obligaciones de pago, como son entre otros, los Derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, entre otros.
-
-### CAPÍTULO II. FONDOS DE APORTACIONES FEDERALES
-
-###### ARTÍCULO 204.
-
-Son los recursos que conforme a los convenios respectivos que se suscriban, se transfieran a los Municipios, derivados de reasignaciones de responsabilidades y recursos que señale el Presupuesto de Egresos de la Federación y del Estado para el ejercicio fiscal correspondiente, para financiar programas coordinados.
-
-### CAPÍTULO III. TRANSFERENCIAS FEDERALES Y ESTATALES POR CONVENIO
-
-###### ARTÍCULO 205.
-
-Son los apoyos extraordinarios que otorguen la Federación y el Estado, así como cualquier otro concepto distinto a los regulados en el presente Título.
-
-## TÍTULO NOVENO. INGRESOS DERIVADOS DE FINANCIAMIENTOS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 CAPÍTULO
 
 ÚNICO
 
-## TITULO DECIMO. De la Mayoría de Edad
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+###### ARTÍCULO 187.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+Tendrán el carácter de productos, las contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes del dominio privado, como son entre otros:
 
-### CAPÍTULO IV. OTRAS TRANSFERENCIAS FEDERALES Y ESTATALES
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I. Rendimiento o intereses de capital y valores del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II. Venta de publicaciones oficiales que edite el Municipio respectivo; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III .Otros Productos, que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo para el ejercicio fiscal respectivo.
+
+###### ARTÍCULO 188.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+###### ARTÍCULO 189.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+###### ARTÍCULO 190.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO II (SIC). ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+
+ARTÍCULO 190 (SIC). (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+###### ARTÍCULO 191.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+###### ARTÍCULO 192.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO III. OTROS PRODUCTOS
+
+###### ARTÍCULO 193.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO I. APROVECHAMIENTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 194.
+
+Son los ingresos que percibe el Municipio por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación municipal; multas e indemnizaciones no fiscales, reintegros, donativos y otros, así como por uso o enajenación de bienes muebles, inmuebles e intangibles, por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia, como son entre otros:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I. Por Venta de Bases de Licitación:
+
+A) Bases de invitación restringida; y,
+
+B) Bases de Licitación Pública.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II. Multas: Multas por infracciones a leyes, reglamentos y demás disposiciones normativas de carácter municipal, mismas que no se consideran fiscales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III. Donaciones de cualquier naturaleza, distintas a las que se establezcan en las disposiciones de Desarrollo Urbano del Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV. Donaciones a favor del Gobierno Municipal, en cumplimiento de la obligación establecida en los Artículos 297 y 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+V. Indemnizaciones por cheques no pagados por las instituciones bancarias, en los términos de lo dispuesto por el Código Fiscal municipal del Estado de Michoacán de Ocampo, y otras indemnizaciones a favor del Erario Municipal, independientemente de su origen;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VI. Recuperación de los costos por la realización de los procedimientos de adjudicación de contratos para la adquisición de bienes o servicios, o ejecución de obras públicas, ya sea por licitación pública o por invitación restringida, de conformidad con las leyes y demás disposiciones aplicables en cada materia, como sigue:
+
+A) Conforme al monto que determine la dependencia o entidad competente del Municipio que corresponda, que resulte suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la adquisición de bienes o servicios; y,
+
+B) Conforme al monto que determine la dependencia o entidad del Municipio de que se trate, que resulte suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la ejecución de obra pública.
+
+Independientemente de la dependencia o entidad del Municipio de que se trate, que realice la adjudicación de contratos a que se refieren los incisos anteriores, el importe que se cobre a los proveedores de bienes y servicios y contratistas de obra, deberá enterarse en la caja de la Tesorería Municipal o del organismo descentralizado municipal respectivo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VII. Herencias vacantes, inmuebles mostrencos y legados en favor del Municipio;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VIII. Fianzas que se hagan efectivas a favor del Gobierno Municipal, distintas a las que se otorguen en garantía de créditos fiscales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IX. Reintegros por responsabilidades de servidores públicos, de conformidad con la Ley de la Materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+X. Recuperación de Primas de Seguro por Siniestros de vehículos terrestres y aéreos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XI. Arrendamiento y explotación de Bienes Muebles e Inmuebles;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XII. Enajenación de Bienes Muebles e Inmuebles;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIII. Otros Aprovechamientos; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIV. Otros no especificados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 194 Bis.
+
+Los muebles e inmuebles pertenecientes a los Municipios, podrán ser enajenados cuando se tengan gastos elevados en su conservación y sostenimiento, previa autorización del Honorable Cabildo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 194 Ter.
+
+Son objeto de este Rubro de ingreso, la venta de los bienes abandonados y otros objetos o semovientes que, por cualquier circunstancia, pertenecen a los Municipios, la cual se realizará en subasta pública conforme al procedimiento y disposiciones correspondientes
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 194 Quater.
+
+En ningún caso podrán enajenarse bienes de uso común, o destinados a un servicio público municipal, mientras tengan ese carácter o destino.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 194 Quinquies.
+
+Tendrán el carácter de Aprovechamientos, los ingresos que se obtengan por concepto de arrendamiento de sus bienes muebles o inmuebles, mismos que se determinarán por medio de contratos que previamente se celebren con los usufructuarios, con sujeción a las bases que establezcan previamente los Ayuntamientos respectivos, representados por su Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 194 Sexies.
+
+El arrendamiento de piso, por la introducción de ganado a los rastros municipales, se cubrirá en la oficina correspondiente conforme a la cuota o tarifa que determinen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 194 Septies.
+
+El arrendamiento de corrales y zahúrdas en los rastros municipales, se cubrirá en la Tesorería Municipal correspondiente u oficina respectiva, aplicando la cuota diaria por cabeza de ganado que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. ACCESORIOS DE APROVECHAMIENTOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 195.
+
+Tratándose de aprovechamientos a que se refiere el presente Título, que no hayan sido cubiertos en la fecha o dentro del plazo fijado por la normatividad correspondiente, se causarán honorarios y gastos de ejecución, multas, actualización, indemnización y recargos, asociados a los aprovechamientos, mientras que los recargos se determinarán de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Municipio, correspondiente al ejercicio fiscal respectivo.
+
+### CAPÍTULO III. HONORARIOS Y GASTOS DE EJECUCIÓN
+
+###### ARTÍCULO 196.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO IV. REINTEGROS
+
+###### ARTÍCULO 197.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO V. DONATIVOS Y SUBSIDIOS A FAVOR DEL MUNICIPIO
+
+###### ARTÍCULO 198.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO VI. INDEMNIZACIONES POR DAÑOS A BIENES MUNICIPALES
+
+###### ARTÍCULO 199.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+### CAPÍTULO VII. APROVECHAMIENTOS DIVERSOS
+
+###### ARTÍCULO 200.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
+
+## TÍTULO SÉPTIMO. INGRESOS POR VENTA DE BIENES Y SERVICIOS, Y OTROS INGRESOS DE ORIGEN MUNICIPAL
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 201.
+
+Son los ingresos propios obtenidos por las Instituciones Públicas de Seguridad Social, las Empresas Productivas del Municipio, las entidades de la administración pública paraestatal municipal, por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 201 Bis.
+
+Ingresos por Venta de Bienes y Prestación de Servicios de Organismos Descentralizados: Son los ingresos propios obtenidos por los organismos descentralizados del Municipio, que se derivan de sus actividades de producción, comercialización o prestación de servicios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 201 Ter.
+
+Ingresos por Venta de Bienes y Prestación de Servicios de Empresas Productivas del Estado: Son los ingresos propios obtenidos por las Empresas Productivas del Estado por sus actividades de producción, comercialización o prestación de servicios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 201 Quater.
+
+Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales y Fideicomisos No Empresariales y No Financieros: Son los ingresos propios obtenidos por las Entidades Paraestatales y Fideicomisos No Empresariales y No Financieros por sus actividades de producción, comercialización o prestación de servicios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO OCTAVO. PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL Y FONDOS DISTINTOS DE APORTACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 201 Quinquies.
+
+Son los recursos que recibe el Estado y los Municipios por concepto de participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal y fondos distintos de aportaciones.
+
+### CAPÍTULO I. PARTICIPACIONES EN INGRESOS FEDERALES Y ESTATALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 202.
+
+Son los ingresos que recibe el Municipio que se derivan de la adhesión del Estado al Sistema Nacional de Coordinación Fiscal, así como las que correspondan a sistemas estatales de coordinación fiscal, determinados por las leyes correspondientes, como son los siguientes:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I. Participaciones e Incentivos en Ingresos Federales
+
+A) Fondo General;
+
+B) Fondo de Fomento Municipal.
+
+C) ISR Participable.
+
+D) Fondo de Compensación en la Exención del Impuesto sobre Automóviles Nuevos;
+
+E) Impuesto Especial sobre Producción y Servicios;
+
+F) Incentivo por la Administración del Impuesto sobre Automóviles Nuevos;
+
+G) Fondo de Fiscalización y Recaudación;
+
+H) Fondo de Compensación, derivado del Impuesto Especial sobre Producción y Servicios a la Venta Final de Gasolinas y Diésel;
+
+I) Impuesto Especial sobre Producción y Servicios a la Venta Final de Gasolinas y Diésel;
+
+J) Derechos de Peaje Puente La Piedad (Capufe);
+
+K) Incentivo por la Administración del Impuesto sobre la Renta por de (sic) los Ingresos por Enajenación de Bienes Inmuebles que establece el artículo 126 de la Ley del Impuesto sobre la Renta; y,
+
+L) Municipio de Lázaro Cárdenas, por contar con litoral por el que se realizan materialmente la entrada al país o la salida de él de los bienes que se importen o exporten, la Secretaría de Hacienda y Crédito Público, le ministra directamente por el concepto del 0.136% de la Recaudación Federal Participable. Los montos por este concepto, son adicionales a lo estimado de Participaciones e Incentivos en Ingresos Federales, señalados en la fracción I de este artículo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II. Participaciones en Ingresos Estatales:
+
+A) Impuesto sobre Loterías Rifas, Sorteos y Concursos; y,
+
+B) Impuesto a la Venta Final de Bebidas con Contenido Alcohólico.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO II. APORTACIONES FEDERALES Y ESTATALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 203.
+
+Son los ingresos que recibe el Municipio previstos en la Ley de Coordinación Fiscal, y la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo; cuyo gasto está condicionado a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la legislación aplicable en la materia, como son los siguientes:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I. Aportaciones Federales:
+
+A) Para la Infraestructura Social Municipal y las Demarcaciones Territoriales de la Ciudad de México; y,
+
+B) Para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales de la Ciudad de México.
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO PERTENECE AL ARTÍCULO], P.O. 31 DE DICIEMBRE DE 2021)
+
+Conforme a lo dispuesto por la Ley de Coordinación Fiscal, el Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, podrá afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de obligaciones que contraigan con las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana.
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO PERTENECE AL ARTÍCULO], P.O. 31 DE DICIEMBRE DE 2021)
+
+Así también, y conforme a lo dispuesto por la Ley de Coordinación Fiscal, el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrá afectarse como garantía del cumplimiento de sus obligaciones de pago, como son entre otros, los Derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, entre otros.
+
+> <small>(ADICIONADA [N. DE E. CON SU INCISO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II. Aportaciones Estatales:
+
+A) Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO III. CONVENIOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 204.
+
+Son los ingresos que recibe el Municipio derivados de convenios de coordinación, colaboración, reasignación o descentralización según corresponda, los cuales se acuerdan entre la Federación y/o el Estado con el municipio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO IV. FONDOS DISTINTOS DE APORTACIONES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 205.
+
+Son los apoyos extraordinarios que otorguen la Federación y el Estado, así como cualquier otro concepto distinto a los regulados en el presente Título.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+## TÍTULO NOVENO. TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES Y PENSIONES Y JUBILACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+###### ARTÍCULO 205 Bis.
+
+Son los recursos que reciben en forma directa o indirecta los entes públicos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
+
+(REPUBLICADO Y REFORMADO EN SU NUMERACIÓN [N. DE E. ANTES TÍTULO NOVENO], P.O. 31 DE DICIEMBRE DE 2021)
+
+## TÍTULO DÉCIMO. INGRESOS DERIVADOS DE FINANCIAMIENTOS
+
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO ÚNICO. FINANCIAMIENTO INTERNO
+
+> <small>(REFORMADO PRIMER PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 206.
 
-Se consideran ingresos derivados de financiamientos, los establecidos en la Ley de Deuda Pública del Estado de Michoacán de Ocampo.
+Se consideran ingresos derivados de financiamientos, los siguientes:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+I. Los de corto plazo, de conformidad con lo dispuesto por la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+II. Los de largo plazo, de conformidad con lo dispuesto por la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como el decreto Legislativo por el que se constituya el correspondiente empréstito; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III. En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente.
 
 T R A N S I T O R I O S
 
@@ -1835,13 +2065,15 @@ P.O. 22 DE ENERO DE 2021.
 
 ÚNICO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 951.- SE REFORMA EL ARTÍCULO 2319, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+P.O. 31 DE DICIEMBRE DE 2021.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 112 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 187; 194 PRIMER PÁRRAFO; 195; 201; 202 PRIMER PÁRRAFO; 203 PRIMER PÁRRAFO; 204; 205; Y 206 PRIMER PÁRRAFO; SE ADICIONAN A LOS ARTÍCULOS: 187 LAS FRACCIONES I, II Y III; AL 194 LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, Y XIV; LOS ARTÍCULOS 194 BIS; 194 TER; 194 QUATER; 194 QUINQUIES; 194 SEXIES; 194 SEPTIES; 201 BIS; 201 TER, 201 QUATER, 201 QUINQUIES; AL ARTÍCULO 202 LAS FRACCIONES I Y II; AL ARTÍCULO 203 LA FRACCIÓN I AL PRIMER PÁRRAFO Y AL TERCER PÁRRAFO LA FRACCIÓN II; EL ARTÍCULO 205 BIS; Y AL ARTÍCULO 206 LAS FRACCIONES I, II Y III; Y, SE DEROGAN LOS ARTÍCULOS 188; 189; 190; 190; (sic) 191; 192; 193; 196; 197; 198; 199; 200; TODOS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Primero. El presente Decreto entrará en vigor el día 1° de enero de 2022, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 7 DE JUNIO DE 2018.
+Segundo. Dese cuenta del presente Decreto a los 113 Municipios del Estado de Michoacán de Ocampo, para sus efectos conducentes.
+
+Tercero. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Auditoría Superior de Michoacán, para su conocimiento y efectos procedentes.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 971.- SE DEROGAN LOS ARTÍCULOS, 19.4, Y 19.5, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
