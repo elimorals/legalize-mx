@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-116191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2020-12-31"
+last_updated: "2021-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2016.
 
@@ -121,7 +121,9 @@ III. En los demás casos, en el momento que la persona solicite la prestación d
 
 IV. Cuando se disponga el nuevo canje total de placas, el periodo de pago será el que para tales efectos determine la Secretaría.
 
-Tratándose de vehículos del servicio público estatal, el plazo para el pago de los derechos por concepto de refrendo anual de permisos de ruta, zona y revalidación de permiso para la prestación del servicio de transporte especial, así como la expedición de constancia de verificación física, electromecánica y de uniforme de vehículos automotores destinados a la prestación de servicios públicos de transporte, en cualquier modalidad (revisión mecánica), previstos por el artículo 37 de esta Ley, será el plazo establecido en las fracciones I, III y IV de este artículo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Tratándose de vehículos del servicio público estatal, el plazo para el pago de los derechos por concepto de refrendo anual, renovación de constancias de autorización de ruta, zona y renovación de permiso para la prestación del servicio público de transporte, así como la expedición de constancia de verificación física, electromecánica y de uniforme de vehículos automotores destinados a la prestación de servicios públicos de transporte, en cualquier modalidad (revisión mecánica), previstos por los artículos 36 y 37 de esta Ley, será el plazo establecido en las fracciones I, III y IV del párrafo que antecede.
 
 ###### Artículo 7.
 
@@ -273,165 +275,147 @@ Quedan exceptuados del pago de derechos por publicaciones, las Dependencias y Ó
 
 #### Sección Segunda. Servicios que presta la Dirección de Registro Civil del Estado
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21 Bis.
 
 Por los servicios que presta la Dirección del Registro Civil del Estado, relativos a los actos del estado civil de las Personas, se causarán y pagarán por cada uno, los siguientes derechos:
 
-Servicios Tarifas
+Servicio Tarifa
 
 I. De los nacimientos, reconocimiento y adopción:
 
-a) Por el registro de nacimiento por adopción
+a) Por el registro de nacimiento por adopción plena o inscripción de
 
-plena o inscripción de sentencia. $190.00
+sentencia. $290.00
 
 b) Por el registro de reconocimiento de hijos. $220.00
 
 c) Por el registro de nacimiento a domicilio. $900.00
 
-d) Por los trámites administrativos para los registros
+d) Por los trámites administrativos para los registros extemporáneos
 
-extemporáneos de nacimiento mayores de 18 años;
+de nacimiento mayores de 18 años; los registros extemporáneos de
 
-los registros extemporáneos de defunción; y por la
-
-reposición de actas del estado civil. $370.00
+defunción; y por la reposición de actas del estado civil. $370.00
 
 II. De los matrimonios:
 
-a) Por el registro de matrimonio en la oficialía,
+a) Por el registro de matrimonio en la oficialía, en días y horas
 
-en días y horas hábiles. $1,300.00
+hábiles. $1,500.00
 
-b) Por el registro de matrimonio en la oficialía,
+b) Por el registro de matrimonio en la oficialía, en días y horas
 
-en días y horas inhábiles. $1,500.00
+inhábiles. $1,700.00
 
-c) Por el registro de matrimonio a domicilio,
+c) Por el registro de matrimonio a domicilio, en días y horas
 
-en días y horas hábiles. $2,000.00
+hábiles. $2,100.00
 
-d) Por el registro de matrimonio a domicilio,
+d) Por el registro de matrimonio a domicilio, en días y horas
 
-en días y horas inhábiles. $3,000.00
+inhábiles. $3,100.00
 
-e) Por el registro de matrimonio a domicilio,
+e) Por el registro de matrimonio a domicilio, fuera de la cabecera
 
-fuera de la cabecera municipal, en días y
+municipal, en días y horas hábiles. $3,300.00
 
-horas hábiles. $3,200.00
+f) Por el registro de matrimonio a domicilio, fuera de la cabecera
 
-f) Por el registro de matrimonio a domicilio,
+municipal, en días y horas inhábiles. $3,800.00
 
-fuera de la cabecera municipal, en días y horas
-
-inhábiles. $3,700.00
-
-g) Por el registro de matrimonios colectivos. $600.00
+g) Por el registro de matrimonios colectivos. $800.00
 
 III. De los divorcios:
 
-a) Por el registro de divorcio administrativo. $2,600.00
+a) Por el registro de divorcio administrativo. $3,500.00
 
-b) Por el registro de divorcio judicial. $370.00
+b) Por el registro de divorcio judicial. $470.00
 
 IV. De los otros servicios:
 
-a) Por el trámite de aclaración de actas del registro
+a) Por el trámite de aclaración de actas del registro del estado civil. $40.00
 
-del estado civil. $40.00
+b) Por la expedición de certificadas de actas y/o constancias de
 
-b) Por la expedición de (sic)certificadas de actas y/o
+inexistencia del estado civil, con datos concretos, mediante base
 
-constancias de inexistencia del estado civil, con
+de datos o búsqueda manual. $110.00
 
-datos concretos, mediante base de datos o
+c) Por la expedición de certificadas de actas y/o constancias de
 
-búsqueda manual. $110.00
+inexistencia del estado civil, sin datos concretos, período de
 
-c) Por la expedición de (sic) certificadas de actas y/o
+búsqueda manual hasta 5 años. $220.00
 
-constancias de inexistencia del estado civil, sin datos
+d) Por la expedición de certificadas de actas y/o constancias de
 
-concretos, período de búsqueda manual hasta 5 años. $220.00
+inexistencia del estado civil, sin datos concretos, período de
 
-d) Por la expedición de (sic) certificadas de actas y/o
+búsqueda manual de 5 hasta 15 años. $260.00
 
-constancias de inexistencia del estado civil, sin datos
+e) Por la expedición de certificadas de actas y/o constancias de
 
-concretos, período de búsqueda manual de 5 hasta
+inexistencia del estado civil sin datos concretos, período de
 
-15 años. $260.00
+búsqueda manual, de más de 15 años. $300.00
 
-e) Por la expedición de (sic) certificadas de actas y/o
+f) Por la expedición de copia certificada de nacimiento a través de
 
-constancias de inexistencia del estado civil sin datos
+brigadas. $75.00
 
-concretos, período de búsqueda manual, de más de
+g) Por la expedición de constancia de inexistencia de actas de
 
-15 años. $300.00
+nacimiento por brigadas, búsqueda hasta 15 años. $190.00
 
-f) Por la expedición de copia certificada de nacimiento
+h) Por la expedición de constancias de extemporaneidad. $110.00
 
-a través de brigadas. $75.00
+i) Por la expedición de fotocopia certificada de actas del estado civil
 
-g) Por la expedición de constancia de inexistencia de
+de libro original o duplicado. $110.00
 
-actas de nacimiento por brigadas, búsqueda hasta
+j) Por la certificación de fotocopias de resoluciones administrativas
 
-15 años. $190.00
+de aclaración de actas; por anotación marginal o en anexo, en
 
-h) Por la expedición de constancias de
+razón de cambio de régimen matrimonial; por rectificación o
 
-extemporaneidad. $110.00
+nulidad de actas; por certificación de documentos de apéndice de
 
-i) Por la expedición de fotocopia certificada de actas
+actas. $110.00
 
-del estado civil de libro original o duplicado. $110.00
+k) Por la inserción de actas del estado civil, adquirido por
 
-j) Por la certificación de fotocopias de resoluciones
+mexicanos en el extranjero. $550.00
 
-administrativas de aclaración de actas; por anotación
+l) Por la inscripción de sentencias ejecutorias que declaren la
 
-marginal o en anexo, en razón de cambio de régimen
+ausencia, presunción de muerte, pérdida o limitación de la
 
-matrimonial; por rectificación o nulidad de actas; por
+capacidad legal para administrar bienes y tutela; y otras
 
-certificación de documentos de apéndice de actas. $110.00
+sentencias judiciales. $470.00
 
-k) Por la inserción de actas del estado civil, adquirido
+m) Por la certificación de resoluciones de registros extemporáneos
 
-por mexicanos en el extranjero. $550.00
+del estado civil; reposición y expedición de constancia de trámite. $190.00
 
-l) Por la inscripción de sentencias ejecutorias que
+El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las oficialías y por el Departamento de Brigadas se otorgará gratuitamente, lo anterior, de conformidad a lo establecido en el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos. Así también, será gratuita la inserción de actas del estado civil adquirido por niñas, niños y adolescentes chiapanecos en el extranjero.
 
-declaren la ausencia, presunción de muerte, pérdida
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-o limitación de la capacidad legal para administrar
+#### Sección Tercera. Servicios que presta la Dirección del Registro Público de la Propiedad y del Comercio
 
-bienes y tutela; y otras sentencias judiciales. $370.00
-
-m) Por la certificación de resoluciones de registros
-
-extemporáneos del estado civil; reposición y
-
-expedición de constancia de trámite. $190.00
-
-El registro de nacimiento y la primera copia certificada del acta de registro de nacimiento que se realicen por las oficialías y por el Departamento de Brigadas se otorgarán gratuitamente, lo anterior, de conformidad a lo establecido en el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos. Así también, será gratuita la inserción de actas del estado civil adquirido por niñas, niños y adolescentes chiapanecos en el extranjero.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-#### Sección Tercera. Servicios que presta la Dirección del Registro Público de la Propiedad y de Comercio
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21 Ter.
 
-Por los servicios de inscripción, refrendo y cancelación que presta la Dirección del Registro Público de la Propiedad y de Comercio, se causarán y pagarán por cada uno, los siguientes derechos:
+Por los servicios de inscripción, refrendo y cancelación que presta la Dirección del Registro Público de la Propiedad y del Comercio, se causarán y pagarán por cada uno, los siguientes derechos:
 
 Servicios Tarifa
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 I. Por la inscripción de documentos por los que:
 
@@ -459,13 +443,15 @@ por la autoridad competente o por voluntad de las
 
 partes. $1,100.00
 
-d) Títulos de propiedad expedidos por el Registro
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Agrario Nacional (RAN) provenientes de terrenos
+d) Títulos de propiedad expedidos por el Registro Agrario Nacional
 
-ejidales y comunales. $500.00
+(RAN) provenientes de terrenos ejidales y comunales. $ 600.00
 
 e) Adjudicaciones por herencia, por cada inmueble. $1,200.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 II. Por la inscripción de:
 
@@ -476,6 +462,8 @@ o usufructos vitalicios. $650.00
 b) Por la cancelación de documentos por los que se
 
 constituyan servidumbres o usufructos vitalicios. $650.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Por la inscripción de:
 
@@ -513,49 +501,59 @@ cualquier otro objeto distinto a la adquisición de
 
 viviendas. $700.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IV. Por la inscripción de los convenios que
 
 modifiquen los contratos u operaciones de crédito
 
 o mutuo señalados en la fracción III de este artículo. $1,000.00
 
-V. Por el refrendo o la cancelación de gravámenes
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-derivados de los contratos u operaciones de crédito
+V. Por el refrendo o la cancelación de gravámenes derivados de los
 
-o mutuo o de los convenios mencionados en las
+contratos u operaciones de crédito o mutuo o de los convenios
 
-fracciones III y IV, de este artículo. $700.00
+mencionados en las fracciones III y IV, de este artículo. $800.00
 
-VI. Por la inscripción de contratos de fideicomiso
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-sobre bienes inmuebles. $2,300.00
+VI. Por la inscripción de contratos de fideicomiso sobre bienes
 
-VII. Por la inscripción de los convenios que
+inmuebles. $2,400.00
 
-modifiquen los contratos de fideicomiso mencionados
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-en la fracción VI, de este artículo. $1,000.00
+VII. Por la inscripción de los convenios que modifiquen los contratos
 
-VIII. Por la cancelación de las inscripciones
+de fideicomiso mencionados en la fracción VI, de este artículo. $1,200.00
 
-derivadas de los contratos de fideicomiso o
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-convenios mencionados en las fracciones VI y VII,
+VIII. Por la cancelación de las inscripciones derivadas de los contratos
 
-de este artículo. $700.00
+de fideicomiso o convenios mencionados en las fracciones VI y VII, de
+
+este artículo. $750.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 IX. Por la inscripción preventiva de embargos sobre
 
 Bienes inmuebles por cada bien inmueble a afectar. $1,200.00
 
-X. Por la inscripción de embargo derivado de juicio
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-de alimentos. $190.00
+X. Por la inscripción de embargo derivado de juicio de alimentos. $250.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XI. Por la inscripción o cancelación de cédulas
 
 hipotecarias. $1,500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XII. Por el refrendo o cancelación de gravámenes a que
 
@@ -575,11 +573,15 @@ primer gravamen y este dejará sin efecto la inscripción de los
 
 gravámenes subsecuentes.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XIII. Por la inscripción de documentos en que consten
 
 fianzas, contrafianzas u obligaciones solidarias con el
 
 fiador. $1,600.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XIV. Por la cancelación de inscripciones derivadas de
 
@@ -587,11 +589,15 @@ los contratos, actos u obligaciones mencionados en la
 
 fracción que antecede. $1,000.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XV. Por la inscripción de cada acto correspondiente al
 
 cumplimiento de la condición o cancelación de la reserva
 
 de dominio. $700.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XVI. Por la inscripción de escrituras:
 
@@ -603,15 +609,19 @@ sociedades mercantiles comprendidas en la Ley Federal
 
 para el Fomento de la Microindustria. $2,300.00
 
-b) Por las que se protocolicen actas de asambleas o de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-sesiones de los órganos de administración de sociedades
+b) Por las que se protocolicen actas de asambleas o de sesiones de
 
-mercantiles, con excepción de las sociedades
+los órganos de administración de sociedades mercantiles, con
 
-cooperativas y de las sociedades mercantiles comprendidas
+excepción de las sociedades cooperativas y de las sociedades
 
-en la Ley Federal para el Fomento de la Microindustria. $1,000.00
+mercantiles comprendidas en la Ley Federal para el Fomento de
+
+la Microindustria. $1,200.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XVII. Por la inscripción de documentos:
 
@@ -622,6 +632,8 @@ b) Por los que se protocolicen actas de asambleas o de
 sesiones de los órganos de administración de sociedades
 
 civiles. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XVIII. Por la inscripción de los documentos en que
 
@@ -642,6 +654,8 @@ d) Por los que se constituyan asociaciones civiles. $950.00
 e) Por los que se modifiquen los estatutos de las
 
 asociaciones civiles. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XIX. Por la inscripción de los documentos en que consten los
 
@@ -667,6 +681,8 @@ f) Inscripción del inicio del trámite de sucesiones
 
 testamentarias o intestamentarias ante Notario Público. $1,500.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XX. Por la inscripción de los documentos en que consten
 
 los actos que a continuación se señalan:
@@ -685,6 +701,8 @@ c) Constitución del régimen de propiedad en condominio,
 
 por cada unidad privativa. $600.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXI. Por la inscripción de documentos en que consten
 
 los actos que a continuación se relacionan:
@@ -699,6 +717,8 @@ que no incluyan inmuebles. $1,100.00
 
 c) Corresponsalía mercantil, por su registro o cancelación. $1,100.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXII. Por la inscripción de quiebras, secuestros,
 
 intervenciones o sentencias interlocutorias o definitivas,
@@ -707,9 +727,13 @@ que no resuelvan sobre la transmisión de dominio de un
 
 bien inmueble. $1,100.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXIII. Por la inscripción o cancelación de convenios de
 
 suplencia notarial. $1,500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXIV. Por cada bien inmueble sobre el cual se solicite
 
@@ -718,6 +742,8 @@ se asiente la anotación marginal relativa al primer aviso
 preventivo solicitado por el Notario Público o Autoridad
 
 competente. $500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXV. Por la anotación marginal de cada segundo aviso
 
@@ -729,6 +755,8 @@ involucrados, independientemente de que se trate de una
 
 misma operación. $500.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXVI. Por cada anotación marginal o su cancelación
 
 que se realice o se ordene, se pagará por cada
@@ -738,6 +766,8 @@ registro o folio real en el que se deba realizar dicha
 anotación o cancelación, independientemente que
 
 se ordene en un mismo documento. $500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXVII. Por la inscripción de documentos que modifiquen,
 
@@ -753,7 +783,11 @@ precio o monto consignados en estos y sin transferir
 
 derechos. $1,000.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXVIII. Por la inscripción de testamento. $500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXIX. Por la inscripción de:
 
@@ -777,11 +811,15 @@ de administración de las sociedades, asociaciones o
 
 personas morales señaladas en el inciso anterior. $500.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXX. Por la inscripción y cancelación de la Patente de
 
 Notario Público Titular, Adjunto, Sustituto y por cambio
 
 de Adscripción. $700.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXXI. Por la inscripción de actos de cesión onerosa de
 
@@ -791,13 +829,19 @@ a) Por la inscripción. $1,500.00
 
 b) Por su cancelación. $800.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXXII. Por el reconocimiento de adeudo de créditos
 
 previamente otorgados y por créditos no inscritos. $700.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXXIII. Por la cancelación del reconocimiento de
 
 adeudo descrito en la fracción XXXII. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXXIV. Por acto de división de hipotecas (aquellos casos
 
@@ -809,13 +853,19 @@ cada fracción de terreno se le asigna un valor para
 
 responder a la garantía hipotecaria total). $500.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXXV. Por la cancelación de cada acto de división de
 
 hipotecas descrita en la fracción XXXIV. $500.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXXVI. Por la corrección o cancelación de cada primer
 
 o segundo aviso preventivo. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXXVII. Por la consolidación que se derive de
 
@@ -845,11 +895,15 @@ en uno solo. El pago se realizará únicamente por cada
 
 inmueble que se consolide.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XXXVIII. Por la inscripción de documentos por los
 
 que se realicen la escisión de asociaciones y
 
 sociedades civiles. $950.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXXIX. Por la inscripción de documentos por los
 
@@ -857,9 +911,13 @@ que se realicen la fusión de asociaciones y sociedades
 
 civiles. $950.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XL. Por la inscripción de documentos por los que
 
 se realicen la reserva de usufructo vitalicio. $650.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XLI. Por la inscripción de documentos que se
 
@@ -871,11 +929,15 @@ religiosas y actas celebradas por las diferentes
 
 cámaras de la industria. $480.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XLII. Por la inscripción de documentos por los que
 
 se otorguen poderes generales o especiales que
 
 amparen concesiones de autotransporte. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XLIII. Por el registro de sellos de autorización de
 
@@ -883,9 +945,13 @@ los notarios públicos titulares, así como el registro
 
 de sus firmas y antefirmas. $480. 00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XLIV. Por la inscripción de documentos por los
 
 que se realicen la cesión de derechos inmobiliarios. $1,500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XLV. Por la inscripción de documentos por los
 
@@ -893,31 +959,37 @@ cuales se realicen convenios extrajudiciales
 
 dentro de los fideicomisos. $1,000.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XLVI. Por la inscripción de la Patente de Corredor
 
 Público. $650.00
 
-XLVII. Por el registro de fianza de Corredor Público. $480.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XLVII. Por el registro de fianza de Corredor Público. $500.00
 
-###### Artículo 21 Quater.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Por los servicios de certificación y expedición que preste la Dirección del Registro Público de la Propiedad y de Comercio, se causarán y pagarán, por cada uno, los siguientes derechos:
+###### Artículo 21 Quáter.
+
+Por los servicios de certificación y expedición que preste la Dirección del Registro Público de la Propiedad y del Comercio, se causarán y pagarán, por cada por cada uno, los siguientes derechos:
 
 Servicios Tarifa
 
-I. Por el certificado de libertad o existencias de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-gravámenes. $650.00
+I. Por el certificado de libertad o existencias de gravámenes. $680.00
 
-II. Por cada copia certificada de asientos o
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-documentos existentes en el archivo de la
+II. Por cada copia certificada de asientos o documentos existentes
 
-dependencia, hasta 20 hojas. $480.00
+en el archivo de la dependencia, hasta 20 hojas. $500.00
 
 Por hoja adicional se cobrará. $5.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Por cada copia simple de asientos o documentos
 
@@ -925,9 +997,13 @@ existentes en el archivo de la dependencia, hasta 20
 
 hojas. $190.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IV. Por la constancia de no propiedad registrada
 
 o de no inscripción de un bien inmueble. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 V. Por los informes o constancias solicitadas por
 
@@ -935,45 +1011,77 @@ autoridades de la Federación, de las Entidades
 
 Federativas, municipios u organismos de ellos. $480.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 VI. Por cada informe respecto al registro o depósito
 
 De testamentos que se rindan a solicitud de jueces
 
 o notarios. $550.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 VII. Por las constancias de no revocación de poderes. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VIII. Por la constancia conteniendo datos regístrales
 
 de una propiedad inmobiliaria. $750.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IX. Por la historias (sic) traslativas de dominio. $1,200.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 X. Por la verificación de datos regístrales por libro o
 
 Índice que realice el usuario en oficina. $150.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XI. Por la ratificación de firmas ante el registrador. $750.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XII. Por búsqueda de bienes a nombre de personas. $220.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIII. Servicio anual de alerta inmobiliaria por folio real. $500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XIV. Por servicio exprés, además de lo previsto en el presente artículo y el
+
+artículo 21 Ter de esta Ley, se causará el pago del derecho equivalente al
+
+50% sobre la tarifa establecida, siempre que el peticionario del servicio lo
+
+solicite, con el fin de que el servicio registral requerido le sea entregado
+
+dentro de un plazo no mayor a las 48 horas hábiles siguientes a la solicitud.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21 Quinquies.
 
-Tratándose de pago de derechos por trámites ante la Dirección del Registro Público de la Propiedad y de Comercio, relativos al traslado de dominio de bienes inmuebles, será obligación del interesado demostrar con el comprobante autorizado, que no tiene adeudos fiscales de impuestos inmobiliarios.
+Tratándose de pago de derechos por trámites ante la Dirección del Registro Público de la Propiedad y del Comercio, relativos al traslado de dominio de bienes inmuebles, será obligación del interesado demostrar con el comprobante autorizado, que no tiene adeudos fiscales de impuestos inmobiliarios.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### Sección Cuarta. Servicios que presta la Dirección de Archivo General y Notarías
+#### Sección Cuarta. Servicios que presta la Dirección de Notarías del Estado
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 21 Sexies.
 
-Por los servicios de certificación y expedición que preste la Dirección de Archivo General y Notarías, se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios de certificación y expedición que preste la Dirección de Notarías del Estado, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicios Tarifa
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 I. Por la expedición de:
 
@@ -985,9 +1093,13 @@ b) Nombramiento de notario adjunto, provisional
 
 y sustituto. $7,500.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 II. Por la expedición de patente de Notario Público
 
 del Estado. $22,000.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Por la expedición de copias certificadas de
 
@@ -997,13 +1109,19 @@ hojas. $480.00
 
 Por hoja adicional se cobrará. $5.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 IV. Por la certificación de firmas y/o sellos en
 
 Documentos notariales. $440.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 V. Por la expedición de testimonios de escrituras
 
 Notariales protocolizadas. $1,500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 VI. Por la autorización de libros de protocolo abierto
 
@@ -1011,17 +1129,23 @@ o cerrado en la modalidad de ordinarios, especiales
 
 y libro de registros de cotejos. $220.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 VII. Por el registro de Sello, Firma, Rúbrica de
 
 Notarios Públicos Titulares, Adjuntos, Provisionales
 
 o Sustitutos $440.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 VIII. Por la autorización de permisos especiales a
 
 los Notarios para salir fuera de su adscripción a dar
 
 fe de hechos. $300.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 IX. Por la expedición de copias certificadas de
 
@@ -1031,23 +1155,17 @@ contra de Notarios, hasta 20 hojas. $480.00
 
 Por hoja adicional se cobrará. $5.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 X. Por el registro de Convenio de Suplencia Notarial o
 
 Convenio de Asociación Notarial. $300.00
 
-XI. Por la búsqueda de documentos comprobatorios
+XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
-de Antigüedad Laboral que obren en el Archivo General
+XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
-del Estado. $150.00
-
-XII. Por la expedición de copias certificadas de
-
-Documentos que obren en el Archivo General del
-
-Estado, hasta 15 hojas. $480.00
-
-Por cada hoja adicional. $5.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XIII. Por la búsqueda de escrituras asentadas en
 
@@ -1055,9 +1173,13 @@ Protocolos notariales que están bajo resguardo del
 
 Archivo de Notarias. $550.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XIV. Por la expedición de copias certificadas de
 
 Testimonios por su inscripción registral. $480.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XV. Por la constancia de Prácticas Notariales de
 
@@ -1065,13 +1187,11 @@ vigencia en el ejercicio de la Función Notarial o de no
 
 haber sido cesado o suspendido de la misma. $800.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XVI. Por la constancias de disposiciones testamentarias $480.00
 
-XVII. Por la expedición de copias simples de
-
-documentos Del Archivo de Notarías, hasta 20 hojas. $190.00
-
-Por cada hoja adicional $5.00
+XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -1931,7 +2051,7 @@ I. Por la expedición de constancia de sueldos, se
 
 cobrará: $110.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 23 Bis.
 
@@ -1939,7 +2059,13 @@ Por los servicios que presta la Dirección de Gestión Administrativa y Educativ
 
 Servicio Tarifa
 
-I. La expedición de constancia de sueldo. $110.00
+I. Expedición de constancia de sueldos del personal
+
+administrativo y docente adscrito al sector educativo. $110.00
+
+ll. Expedición de copias certificadas de documentos que consten en el
+
+resguardo de la Dirección de Gestión Administrativa y Educativa. $190.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -1967,7 +2093,7 @@ masivo de CFDI, pagarán por timbre: $2.00
 
 #### Sección Tercera. Servicios que Presta la Dirección de Ingresos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 24.
 
@@ -1975,11 +2101,11 @@ Por los servicios que presta la Dirección de Ingresos, se causarán y pagarán,
 
 Servicio Tarifa
 
-I. Por la certificación de pagos de contribuciones realizadas
+I. Por la certificación de pagos de contribuciones realizadas en
 
-en las áreas de recaudación o vía Internet, por cada recibo
+las áreas de recaudación o vía Internet, por cada recibo oficial
 
-oficial o comprobante de pago. $480.00
+o comprobante de pago. $480.00
 
 II. Por la cancelación de:
 
@@ -1987,339 +2113,219 @@ a) Recibo oficial de pago por causas imputables al usuario. $75.00
 
 No se causará el derecho cuando el motivo de la cancelación
 
-obedezca a cuestiones ajenas a la voluntad de quien efectúa el
+obedezca a cuestiones ajenas a la voluntad de quien efectúa
 
-cobro del servicio. En este caso deberá constar dicha circunstancia
+el cobro del servicio. En este caso deberá constar dicha
 
-en acta de hechos levantada por el área de recaudación con
+circunstancia en acta de hechos levantada por el área de
 
-autorización del Titular de la Delegación de Hacienda.
+recaudación con autorización del Titular de la Delegación de
+
+Hacienda.
 
 b) Formas Oficiales Valoradas y Formas Oficiales de
 
-Reproducción Restringidas que utilicen las Dependencias
+Reproducción Restringidas que utilicen las Dependencias y
 
-y entidades de la Administración Pública del Estado y
+entidades de la Administración Pública del Estado y el Poder
 
-el Poder Judicial, cuya cancelación sea imputable al
+Judicial, cuya cancelación sea imputable al prestador del
 
-prestador del servicio o contribuyente por falta de
+servicio o contribuyente por falta de pericia, imprudencia,
 
-pericia, imprudencia, descuido o negligencia, por
+descuido o negligencia, por cada efecto valorado. $80.00
 
-cada efecto valorado. $80.00
+III. Por los trámites del permiso para la instalación y funcionamiento de establecimientos mutuantes:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+a) Por el estudio y análisis de la documentación presentada para
 
-III. Por los trámites del permiso para la instalación y funcionamiento
+la solicitud del permiso. $1,800.00
 
-de establecimientos mutuantes:
+b) Por la práctica de la visita de verificación. $1,800.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+c) Por la expedición del permiso. $43,000.00
 
-a) Por el estudio y análisis de la documentación presentada
+d) Por la revalidación del permiso. $32,000.00
 
-para la solicitud del permiso. $1,600.00
+El pago de derechos a que se refiere este inciso, se realizará
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+en dos exhibiciones, la primera a más tardar el 30 de mayo y
 
-b) Por la práctica de la visita de verificación. $1,600.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-c) Por la expedición del permiso. $41,000.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-d) Por la revalidación del permiso. $30,000.00
-
-El pago de derechos a que se refiere este inciso,
-
-se realizará en dos exhibiciones, la primera a más
-
-tardar el 30 de mayo y la segunda a más tardar el
-
-30 de septiembre de cada ejercicio
+la segunda a más tardar el 30 de septiembre de cada ejercicio
 
 fiscal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-e) Por la modificación del permiso. $2,700.00
+e) Por la modificación del permiso. $2,900.00
 
 IV. Por la verificación de datos de registros vehiculares:
 
-a) Por la verificación en base de datos E-room de
+a) Por la verificación en base de datos de la plataforma SAT
 
-Vehículos de procedencia extranjera. $250.00
+CLOUD de Vehículos de procedencia extranjera. $300.00
 
-b) Por la verificación de datos y documentos de
+b) Por la verificación de datos y documentos de vehículos de
 
-vehículos de procedencia extranjera ante
+procedencia extranjera ante dependencias u organismos de la
 
-dependencias u organismos de la Federación
+Federación y/o Entidades Federativas. $300.00
 
-y/o Entidades Federativas. $250.00
+c) Por la verificación y consultas en las bases de datos del
 
-c) Por la verificación y consultas en las bases
+Instituto para devolver al pueblo lo robado (INDEP), para
 
-de datos del Servicio de Administración y Enajenación
+vehículos nacionales y de procedencia extranjera. $300.00
 
-de Bienes (SAE), para vehículos nacionales y de
+d) Por la expedición de constancia de verificación de pagos por
 
-procedencia extranjera. $250.00
+concepto de contribuciones vehiculares, provenientes de otras
 
-V. Por la expedición o reexpedición de constancias
+entidades federativas. $500.00
 
-Que acreditan que los documentos de vehículos de
+e) Por la expedición de constancia del historial de pago por
 
-Procedencia extranjera, se encuentran en proceso
+concepto de contribuciones vehiculares, de vehículos inscritos
 
-de verificación. $150.00
+en el registro estatal de vehículos. $500.00
 
-VI. Por la expedición de la constancia de
+f) Por la expedición de constancia de no inscripción en el registro
 
-Funcionamiento del establecimiento que
+estatal de vehículos. $500.00
 
-tenga como actividad la venta de bebidas
+V. Por la expedición o reexpedición de constancias que acreditan
 
-alcohólicas en envase abierto, al copeo
+que los documentos de vehículos de procedencia extranjera,
 
-para giros eventuales o eventos públicos
+se encuentran en proceso de verificación. $200.00
 
-en una sola ocasión, salones de boxeo y
+VI. Por la expedición de la constancia de funcionamiento del
 
-lucha libre, espectáculos taurinos y ecuestres,
+establecimiento que tenga como actividad la venta de bebidas
 
-lienzo charro, eventos musicales, palenques
+alcohólicas en envase abierto, al copeo para giros eventuales
 
-de gallos, espectáculos deportivos y ferias
+o eventos públicos en una sola ocasión, salones de boxeo y
 
-regionales, por los días que dure el evento y para
+lucha libre, espectáculos taurinos y ecuestres, lienzo charro,
 
-uso exclusivo en el lugar para la cual fue solicitada. $19,000.00
+eventos musicales, palenques de gallos, espectáculos
 
-VII. Por la expedición de la constancia de inscripción
+deportivos y ferias regionales, por los días que dure el evento
 
-del establecimiento que tenga como actividad la venta de
+y para uso exclusivo en el lugar para la cual fue solicitada. $19,050.00
 
-bebidas alcohólicas:
+VII. Por la expedición de la constancia de inscripción del establecimiento que tenga como actividad la venta de bebidas alcohólicas:
 
 a) Envase cerrado en:
 
-1. Agencias de distribución, establecimientos de
+1. Agencias de distribución, establecimientos de almacenaje
 
-Almacenaje y venta de bebidas alcohólicas al
+y venta de bebidas alcohólicas al mayoreo y fabricante o
 
-mayoreo y fabricante o distribuidor mayoritario $24,000.00
+distribuidor mayoritario. $24,050.00
 
-2. Tiendas de abarrotes con venta de cerveza y/o
+2. Tiendas de abarrotes con venta de cerveza y/o vinos y
 
-vinos y licores. $3,800.00
+licores. $3,850.00
 
 3. Mini súper, depósitos de cerveza, vinos y licores,
 
 supermercados, tiendas de autoservicio y centros
 
-comerciales. $14,000.00
+comerciales. $14,050.00
 
 b) Envase abierto o al copeo en:
 
-1. Cantinas, bar diurno, bar nocturno, bar de centro
+1. Cantinas, bar diurno, bar nocturno, bar de centro de
 
-de apuestas remotas y similares, cervecerías, centro
+apuestas remotas y similares, cervecerías, centro
 
-botanero. $14,000.00
+botanero. $14,050.00
 
 2. Restaurantes con venta de cervezas, vinos y licores,
 
-billares y boleramas. $6,000.00
+billares y boleramas. $6,050.00
 
-3. Cabaret, centros nocturnos y discotecas. $20,500.00
+3. Cabaret, centros nocturnos y discotecas. $20,550.00
 
-4. Salones de baile y/o salones de fiesta. $3,700.00
+4. Salones de baile y/o salones de fiesta. $3,750.00
 
-5. Estadios. $20,500.00
+5. Estadios. $20,550.00
 
-Las constancias establecidas en la fracción VII de
+Las constancias establecidas en la presente fracción, tendrán vigencia semestral, el primer periodo comprenderá del primero de enero al treinta de junio y el segundo periodo será del primero de julio al treinta y uno de diciembre. El pago deberá realizarse dentro de los primeros cincuenta y cinco días naturales de cada semestre.
 
-este artículo, tendrán vigencia semestral, el primer
+Para los propietarios de establecimientos que inicien su actividad con venta de bebidas alcohólicas durante la segunda mitad de los periodos a que se refiere el segundo párrafo de este artículo, el derecho causado por dicho semestre se pagará en proporción del 60%.
 
-periodo comprenderá del primero de enero al treinta
+Cuando por su denominación algún establecimiento no se encuentre comprendido en la presente fracción, se ubicará en aquel que por sus características le sea más semejante. Para la expedición de la constancia de funcionamiento a que se refiere la fracción VI de este artículo y en horario extraordinario, deberán presentar el dictamen de aprobación de la autoridad sanitaria.
 
-de junio y el segundo periodo será del primero de julio
+VIII. Por la certificación del último pago de impuesto predial de
 
-al treinta y uno de diciembre. El pago deberá
+los municipios que administra el Estado; por la expedición de
 
-realizarse dentro de los primeros cincuenta y cinco
+constancias incluyendo la búsqueda de comprobantes de pagos
 
-días naturales de cada semestre.
+en materia de propiedad inmobiliaria. $160.00
 
-Para los propietarios de establecimientos que inicien su
+IX. Por el certificado de no adeudo predial en municipios que
 
-actividad con venta de bebidas alcohólicas durante la
+administra el Estado. $240.00
 
-segunda mitad de los periodos a que se refiere el segundo
+X. Por la certificación de declaraciones fiscales o de
 
-párrafo de este artículo, el derecho causado por dicho
-
-semestre se pagará en proporción del 60%.
-
-Cuando por su denominación algún establecimiento no se
-
-encuentre comprendido en la fracción VII de este artículo,
-
-se ubicará en aquel que por sus características le sea más
-
-semejante. Para la expedición de la constancia de
-
-funcionamiento a que se refiere la fracción VI de este
-
-artículo y en horario extraordinario, deberán presentar el
-
-dictamen de aprobación de la autoridad sanitaria.
-
-VIII. Por la certificación del último pago de impuesto
-
-predial de los municipios que administra el Estado;
-
-por la expedición de constancias incluyendo la
-
-búsqueda de comprobantes de pagos en materia de
-
-propiedad inmobiliaria. $110.00
-
-IX. Por el certificado de no adeudo predial en
-
-Municipios que administra el Estado. $190.00
-
-X. Por la certificación de declaraciones fiscales
-
-o de documentación oficial, incluyendo la búsqueda,
-
-hasta 20 hojas. $480.00
+documentación oficial, incluyendo la búsqueda, hasta 20 hojas. $530.00
 
 Por hoja adicional se cobrará. $25.00
 
-XI. Por la expedición de licencia de conducir a extranjeros
+XI. Por la expedición de licencia de conducir a extranjeros por el tiempo que acrediten su legal estancia en el país, se le cobrará hasta por un año:
 
-por el tiempo que acrediten su legal estancia en el país, se le
+a) Chofer. $750.00
 
-cobrará hasta por un año:
+b) Automovilista. $650.00
 
-a) Chofer. $700.00
+c) Motociclista. $450.00
 
-b) Automovilista. $600.00
+En caso de que el ciudadano extranjero cuente con residencia permanente podrá obtener licencia de conducir en cualquier modalidad y vigencia.
 
-c) Motociclista. $400.00
+XII. Por la expedición de licencias de conducir por 2 años, se cobrará de acuerdo a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+a) Chofer para servicio público. $1,200.00
 
-En caso de que el ciudadano extranjero cuente con residencia
+b) Chofer. $1,200.00
 
-permanente podrá obtener licencia de conducir en cualquier
+c) Automovilista. $1,000.00
 
-modalidad y vigencia.
-
-XII. Por la expedición de licencias de conducir por 2 años,
-
-se cobrará de acuerdo a lo siguiente:
-
-a) Chofer para servicio público. $1,150.00
-
-b) Chofer. $1,150.00
-
-c) Automovilista. $950.00
-
-d) Motociclista. $500.00
+d) Motociclista. $550.00
 
 XIII. Por la expedición de licencias de conducir por 3 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $1,550.00
+a) Chofer para servicio público. $1,600.00
 
-b) Chofer. $1,450.00
+b) Chofer. $1,500.00
 
-c) Automovilista. $1,000.00
+c) Automovilista. $1,050.00
 
-d) Motociclista. $ 600.00
+d) Motociclista. $650.00
 
 XIV. Por la expedición de licencias de conducir por 4 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $2,050.00
+a) Chofer para servicio público. $2,100.00
 
-b) Chofer. $1,950.00
+b) Chofer. $2,000.00
 
-c) Automovilista. $1,350.00
+c) Automovilista. $1,400.00
 
-d) Motociclista. $650.00
+d) Motociclista. $700.00
 
 XV. Por la expedición de licencias de conducir por 5 años, se cobrará de acuerdo a lo siguiente:
 
-a) Chofer para servicio público. $2,550.00
+a) Chofer para servicio público. $2,600.00
 
-b) Chofer. $2,450.00
+b) Chofer. $2,500.00
 
-c) Automovilista. $1,650.00
+c) Automovilista. $1,700.00
 
-d) Motociclista. $900.00
+d) Motociclista. $950.00
 
 XVI. Por la reexpedición de licencias de conducir por 2 años, se cobrará de acuerdo a lo siguiente:
-
-a) Chofer para servicio público. $900.00
-
-b) Chofer. $900.00
-
-c) Automovilista. $650.00
-
-d) Motociclista. $350.00
-
-XVII. Por la reexpedición de licencias de conducir por 3 años, se cobrará de acuerdo a lo siguiente:
-
-a) Chofer para servicio público. $1,000.00
-
-b) Chofer. $1,000.00
-
-c) Automovilista. $900.00
-
-d) Motociclista. $450.00
-
-XVIII. Por la reexpedición de licencias de conducir por 4 años, se cobrará de acuerdo a lo siguiente:
-
-a) Chofer para servicio público. $1,250.00
-
-b) Chofer. $1,250.00
-
-c) Automovilista. $1,000.00
-
-d) Motociclista. $600.00
-
-XIX. Por la reexpedición de licencias de conducir por 5 años, se cobrará de acuerdo a lo siguiente:
-
-a) Chofer para servicio público. $1,550.00
-
-b) Chofer. $1,550.00
-
-c) Automovilista. $1,350.00
-
-d) Motociclista. $650.00
-
-XX. Por la reposición de licencia de conducir por pérdida
-
-o extravío de las contempladas en las fracciones de la XI
-
-a la XIX, del presente artículo, se cobrará: $250.00
-
-XXI. Por la expedición de constancias de antigüedad de
-
-licencia de conducir, incluyendo su búsqueda, se cobrará $300.00
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-XXII. Por la expedición de reposición de licencia de conducir
-
-permanente, por pérdida o robo, se cobrará de acuerdo a lo
-
-siguiente:
 
 a) Chofer para servicio público. $950.00
 
@@ -2327,13 +2333,67 @@ b) Chofer. $950.00
 
 c) Automovilista. $700.00
 
+d) Motociclista. $400.00
+
+XVII. Por la reexpedición de licencias de conducir por 3 años, se cobrará de acuerdo a lo siguiente:
+
+a) Chofer para servicio público. $1,050.00
+
+b) Chofer. $1,050.00
+
+c) Automovilista. $950.00
+
 d) Motociclista. $500.00
+
+XVIII. Por la reexpedición de licencias de conducir por 4 años, se cobrará de acuerdo a lo siguiente:
+
+a) Chofer para servicio público. $1,300.00
+
+b) Chofer. $1,300.00
+
+c) Automovilista. $1,050.00
+
+d) Motociclista. $650.00
+
+XIX. Por la reexpedición de licencias de conducir por 5 años, se cobrará de acuerdo a lo siguiente:
+
+a) Chofer para servicio público. $1,600.00
+
+b) Chofer. $1,600.00
+
+c) Automovilista. $1,400.00
+
+d) Motociclista. $700.00
+
+XX. Por la reposición de licencia de conducir por pérdida o
+
+extravío de las contempladas en las fracciones de la XI a la XIX,
+
+del presente artículo, se cobrará: $300.00
+
+XXI. Por la expedición de constancias de antigüedad de licencia
+
+de conducir, incluyendo su búsqueda, se cobrará. $350.00
+
+XXII. Por la expedición de reposición de licencia de conducir permanente, por pérdida o robo, se cobrará de acuerdo a lo siguiente:
+
+a) Chofer para servicio público. $1,000.00
+
+b) Chofer. $1,000.00
+
+c) Automovilista. $750.00
+
+d) Motociclista. $550.00
+
+XXIII. Por localización de recibo oficial, sin datos concretos del
+
+pago en los sistemas electrónicos de recaudación. $100.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### Sección Cuarta. Servicios que presta por Control Vehicular
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 25.
 
@@ -2343,167 +2403,155 @@ Servicio Tarifa
 
 I. Servicio privado:
 
-a) Por la expedición de placas, calcomanía y
+a) Por la expedición de placas, calcomanía y tarjeta de circulación
 
-tarjeta de circulación para automóviles, camiones,
+para automóviles, camiones, autobuses, para personas con
 
-autobuses, para personas con discapacidad y remolques. $1,150.00
+discapacidad y remolques. $1,200.00
 
-b) Por la expedición de placas y tarjeta de circulación
+b) Por la expedición de placas y tarjeta de circulación para
 
-para motocicletas y vehículos similares con motor. $1,000.00
+motocicletas y vehículos similares con motor. $1,050.00
 
-c) Por el canje de placas, calcomanía y tarjeta de
+c) Por el canje de placas, calcomanía y tarjeta de circulación para
 
-circulación para automóviles, camiones, autobuses,
+automóviles, camiones, autobuses, para personas con
 
-para personas con discapacidad y remolques. $1,150.00
+discapacidad y remolques. $1,200.00
 
-d) Por el canje de placas, tarjeta de circulación para
+d) Por el canje de placas, tarjeta de circulación para motocicletas y
 
-motocicletas y vehículos similares con motor. $1,000.00
+vehículos similares con motor. $1,050.00
 
 II. Servicio Público:
 
-a) Por la expedición de placas, calcomanía y
+a) Por la expedición de placas, calcomanía y tarjeta de circulación
 
-tarjeta de circulación para automóviles, camiones
+para automóviles, camiones y autobuses. $2,350.00
 
-y autobuses. $2,300.00
+b) Por la expedición de placas y tarjeta de circulación para
 
-b) Por la expedición de placas y tarjeta de circulación
+motocicletas y vehículos similares con motor. $1,350.00
 
-para motocicletas y vehículos similares con motor. $1,300.00
+c) Por la expedición de placa de vehículos similares sin motor;
 
-c) Por la expedición de placa de vehículos similares
+exceptuándose las bicicletas. $550.00
 
-sin motor; exceptuándose las bicicletas. $500.00
+d) Por la expedición de placa de bicicleta de tres o cuatro ruedas. $1,350.00
 
-d) Por la expedición de placa de bicicleta de tres
+e) Por el canje de placas, calcomanía y tarjeta de circulación para
 
-o cuatro ruedas. $1,300.00
+automóviles, camiones y autobuses. $2,350.00
 
-e) Por el canje de placas, calcomanía y tarjeta de
+f) Por el canje de placas, tarjeta de circulación para motocicletas y
 
-circulación para automóviles, camiones y autobuses. $2,300.00
+vehículos similares con motor. $1,350.00
 
-f) Por el canje de placas, tarjeta de circulación para
+g) Por el canje de placas de vehículos similares sin motor;
 
-motocicletas y vehículos similares con motor. $1,300.00
+exceptuándose las bicicletas. $550.00
 
-g) Por el canje de placas de vehículos similares sin
+h) Por el canje de placas de bicicleta de tres o cuatro ruedas. $1,350.00
 
-motor; exceptuándose las bicicletas. $500.00
+i) Por inactivación del Registro Vehicular por cambio o sustitución
 
-h) Por el canje de placas de bicicleta de tres o
-
-cuatro ruedas. $1,300.00
+del vehículo. $200.00
 
 III. Baja de placas:
 
-a) Por Baja de placas. $200.00
+a) Por Baja de placas. $250.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+b) Tratándose de baja de placas provenientes de otros Estados
 
-b) Tratándose de baja de placas provenientes de
+sin que causen alta en forma simultánea en el Registro
 
-otros Estados sin que causen alta en forma
-
-simultánea en el Registro Estatal de Vehículos. $1,100.00
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2020)</small>
+Estatal de Vehículos. $1,150.00
 
 IV. Refrendo anual de tarjeta de circulación:
 
 a) Servicio privado:
 
-1. Para automóviles, camiones, autobuses,
+1. Para automóviles, camiones, autobuses, para
 
-para personas con discapacidad y remolques. $780.00
+personas con discapacidad y remolques. $830.00
 
-2. Motocicletas y vehículos similares con motor. $630.00
+2. Motocicletas y vehículos similares con motor. $680.00
 
 b) Servicio público:
 
-1. Para automóviles, camiones y autobuses. $1,280.00
+1. Para automóviles, camiones y autobuses. $1,330.00
 
-2. Motocicletas y vehículos similares con motor. $780.00
+2. Motocicletas y vehículos similares con motor. $830.00
 
 c) Otras modalidades:
 
-1. Para todo tipo de automóviles de Corporación
+1. Para todo tipo de automóviles de Corporación Policíaca,
 
-Policíaca, Protección Civil, Heroico Cuerpo de
+Protección Civil, Heroico Cuerpo de Bomberos y
 
-Bomberos y Ambulancias. $780.00
+Ambulancias. $830.00
 
-2. Para motocicletas de Corporación Policiaca. $630.00
+2. Para motocicletas de Corporación Policiaca. $680.00
 
 V. Reposición de tarjeta de circulación:
 
 a) Servicio privado:
 
-1. Para automóviles, camiones, autobuses, para
+1. Para automóviles, camiones, autobuses, para personas
 
-personas con discapacidad y remolques. $780.00
+con discapacidad y remolques. $830.00
 
-2. Motocicletas y vehículos similares con motor. $630.00
+2. Motocicletas y vehículos similares con motor. $680.00
 
 b) Servicio público:
 
-1. Para automóviles, camiones y autobuses. $1,280.00
+1. Para automóviles, camiones y autobuses. $1,330.00
 
-2. Motocicletas y vehículos similares con motor. $780.00
+2. Motocicletas y vehículos similares con motor. $830.00
 
 c) Otras modalidades:
 
-1. Para todo tipo de automóviles de Corporación
+1. Para todo tipo de automóviles de Corporación Policíaca,
 
-Policíaca, Protección Civil, Heroico Cuerpo de
+Protección Civil, Heroico Cuerpo de Bomberos y
 
-Bomberos y Ambulancias. $780.00
+Ambulancias. $830.00
 
-2. Para motocicletas de Corporación Policíaca. $630.00
+2. Para motocicletas de Corporación Policíaca. $680.00
 
-VI. Por la expedición de placas para vehículos de
+VI. Por la expedición de placas para vehículos de prueba o
 
-prueba o demostración. $2,100.00
+demostración. $2,150.00
 
-VII. Por el canje de placas para vehículos de prueba
+VII. Por el canje de placas para vehículos de prueba o
 
-o demostración. $2,350.00
+demostración. $2,400.00
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+VIII. Por la revalidación anual de placas para vehículos de prueba o
 
-VIII. Por la revalidación anual de placas para
-
-vehículos de prueba o demostración. $2,350.00
-
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 31 DE DICIEMBRE DE 2020)</small>
+demostración. $2,400.00
 
 IX. Otras Modalidades de Servicio:
 
-a) Por la expedición de placas, calcomanía y tarjeta
+a) Por la expedición de placas, calcomanía y tarjeta de circulación
 
-de circulación para todo tipo de automóviles de Corporación
+para todo tipo de automóviles de Corporación Policíaca,
 
-Policíaca, Protección Civil, Heroico Cuerpo de Bomberos y
-
-Ambulancias. $1,150.00
+Protección Civil, Heroico Cuerpo de Bomberos y Ambulancias. $1,200.00
 
 b) Por la expedición de placas y tarjeta de circulación para
 
-motocicletas de Corporación Policíaca. $1,000.00
+motocicletas de Corporación Policíaca. $1,050.00
 
-c) Por el canje de placas, calcomanía y tarjeta de circulación
+c) Por el canje de placas, calcomanía y tarjeta de circulación para
 
-para Automóviles de Corporación Policíaca, Protección
+Automóviles de Corporación Policíaca, Protección Civil, Heroico
 
-Civil, Heroico Cuerpo de Bomberos y Ambulancias. $1,150.00
+Cuerpo de Bomberos y Ambulancias. $1,200.00
 
-d) Por el canje de placas y tarjeta de circulación de
+d) Por el canje de placas y tarjeta de circulación de Motocicletas
 
-Motocicletas de Corporación Policíaca. $1,000.00
+de Corporación Policíaca. $1,050.00
 
 Para el otorgamiento de las placas de demostración y de placas especiales a vehículos destinados y adaptados a personas con discapacidad, los solicitantes deberán cumplir con los requisitos que mediante Reglas de Carácter General emita la Secretaría de Hacienda.
 
@@ -2541,9 +2589,9 @@ ejecución y no retirados oportunamente en términos del
 
 Código de la Hacienda Pública para el Estado de Chiapas, por día. $30.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-V. Por la expedición de constancia de No adeudos fiscales. $350.00
+V. Por la expedición de Constancia de No Adeudos Fiscales $500.00
 
 #### Sección Sexta. Servicios que presta la Dirección de Auditoría Fiscal
 
@@ -2571,59 +2619,13 @@ de esta Dirección y que obren en sus archivos. $110.00
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 #### Sección Séptima. Servicios que presta la Unidad de Archivo
 
-(NOTA: EL 7 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE OCTUBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
 ###### Artículo 28.
 
-Por los servicios que presta la Unidad de Archivo, se causarán y pagarán, por cada uno, los siguientes derechos:
-
-Servicios Tarifa
-
-I. Por la búsqueda de documentos que constan en los
-
-expedientes laborales que resguarda la Unidad de Archivo. $150.00
-
-II. Por la expedición de copias simples de
-
-documentos que constan en los expedientes laborales
-
-que resguarda la Unidad de Archivo, hasta 20 hojas. $190.00
-
-Por hoja adicional: $5.00
-
-III. Por la expedición de copias certificadas de
-
-documentos que constan en los expedientes laborales
-
-que resguarda la Unidad de Archivo, por documento;
-
-hoja única. $175.00
-
-IV. Por la expedición de copias certificadas de
-
-documentos que constan en los expedientes que
-
-resguarda la Unidad de Archivo, por documentos
-
-únicos compuestos hasta por 10 hojas. $240.00
-
-Por hoja adicional: $5.00
-
-V. Por la expedición de copias certificadas de documentos que
-
-constan en los expedientes que resguarda la Unidad de
-
-Archivo, por documentos únicos compuestos hasta por 20
-
-hojas. $480.00
-
-Por hoja adicional: $5.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2723,9 +2725,23 @@ propietarios o concesionarios que se dedican al acopio de
 
 animales o semovientes, unitario. $500.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VI. Por la realización de pruebas BR. $8.00
+VI. Por la expedición de registro o constancia de fierro, marcas, tatuajes
+
+o aretes, mediante sistema electrónico, por paquete:
+
+a) De 50 folios: $800.00
+
+b) De 100 folios: $1,000.00
+
+c) De 200 folios: $1,500.00
+
+d) De 300 folios: $1,800.00
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+VII. Por la emisión de folio de hoja de Resultados de Br. $8.00
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -2763,31 +2779,15 @@ Educación, Centros de Investigaciones Públicas y los Sistemas para el
 
 Desarrollo Integral de la Familia (DIF).
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 #### Sección Tercera. Servicios que presta la Dirección de Agricultura Protegida, Vinculación e Innovación
 
 Tecnológica
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
 ###### Artículo 29 Ter.
 
-Por los servicios que presta la Dirección de Agricultura Protegida, Vinculación e Innovación Tecnológica, a los Ayuntamientos, Personas físicas, Organizaciones y grupos de trabajo y productores deberán pagar, por cada uno, los siguientes derechos:
-
-Servicios Tarifa
-
-I. Para todo tipo de productores que tengan el interés de adquirir
-
-plantas genéticamente mejoradas para el cultivo de flores y
-
-plantaciones agroindustriales:
-
-a) Por planta de crisantemo. $1.00
-
-b) Por planta de agave. $5.00
-
-c) Por planta de piña. $5.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -2833,7 +2833,7 @@ hasta por 20 hojas. $70.00
 
 #### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 31.
 
@@ -3065,15 +3065,13 @@ Por los servicios que presta la Dirección de la Policía Estatal de Tránsito s
 
 Servicios Tarifa
 
-I. Por la utilización de servicios oficiales de depósito
+I. Por la utilización de servicios oficiales de depósito y custodia de
 
-y custodia de vehículos accidentados, infraccionados
+vehículos accidentados, infraccionados por orden judicial, por día. $25.00
 
-por orden judicial, por día. $25.00
+II. Por el arrastre de vehículos automotores en tramos carreteros de
 
-II. Por el arrastre de vehículos automotores en
-
-tramos carreteros de jurisdicción estatal en los casos de:
+jurisdicción estatal en los casos de:
 
 a) Automóviles; por kilómetro. $60.00
 
@@ -3081,51 +3079,41 @@ b) Camiones; por kilómetro. $75.00
 
 c) Camiones hasta de 8 toneladas; por kilómetro. $110.00
 
-III. Por la impartición de cursos de manejo
+III. Por la impartición de cursos de manejo por 30 horas. $1,500.00
 
-por 30 horas. $1,400.00
+IV. Por la expedición de constancia de no infracción para servicio
 
-IV. Por la expedición de constancia de no
+particular. $250.00
 
-infracción para servicio particular. $150.00
+V. Por la autorización o revalidación anual de permiso para prestar el
 
-V. Por la autorización o revalidación anual de
+servicio de escuela particular de manejo; de acuerdo a lo siguiente:
 
-permiso para prestar el servicio de escuela
+a) Por la autorización. $5,000.00
 
-particular de manejo; de acuerdo a lo siguiente:
+b) Por la revalidación anual. $2,500.00
 
-a) Por la autorización. $7,500.00
+VI. Por la capacitación a instructores de escuela particular de manejo; de
 
-b) Por la revalidación anual. $3,700.00
+acuerdo a lo siguiente:
 
-VI. Por la capacitación a instructores de escuela
+a) Por la expedición de constancia de haber llevado el curso para
 
-particular de manejo; de acuerdo a lo siguiente:
+instructores. $1,100.00
 
-a) Por la expedición de constancia de haber llevado
+VII. Por la expedición de constancia de revisión mecánica para vehículos
 
-el curso para instructores. $1,100.00
+particulares. $400.00
 
-VII. Por la expedición de constancia de revisión
+VIII. Por la expedición de constancias de no infracción para el servicio
 
-mecánica para vehículos particulares. $300.00
+público. $400.00
 
-VIII. Por la expedición de constancias de no
+IX. Por la expedición de permisos provisionales para circular sin placas ni
 
-infracción para el servicio público. $300.00
+tarjeta de circulación para vehículos por 30 días, se cobrará: $850.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-IX. Por la expedición de permisos provisionales para
-
-circular sin placas ni tarjeta de circulación para vehículos
-
-por 30 días, se cobrará: $850.00
-
-El permiso provisional solo podrá ser expedido hasta
-
-en dos ocasiones por vehículo.
+El permiso provisional solo podrá ser expedido hasta en dos ocasiones por vehículo.
 
 #### Sección Cuarta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
 
@@ -3155,13 +3143,13 @@ y Certificado Médico de No Impedimento Físico). $600.00
 
 II. Por curso de capacitación:
 
-a) Curso de Formación Inicial $1,500.00
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 b) Curso de Inducción para empresas de seguridad
 
 privada. $750.00
 
-c) Formación continua (Curso de actualización). $900.00
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 III. Por la expedición de constancias de:
 
@@ -3173,7 +3161,7 @@ c) Credencial de Estudiante. $40.00
 
 #### Sección Primera. Servicios que presta la Dirección de Concesiones y Autorizaciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 35.
 
@@ -3189,7 +3177,9 @@ socioeconómica. $500.00
 
 III. Por examen de control de confianza. $4,000.00
 
-IV. Por examen de portación de armas. $450.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+IV. Por examen de portación de arma de fuego. $450.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3197,199 +3187,195 @@ IV. Por examen de portación de armas. $450.00
 
 #### Sección Segunda. Servicios que presta la Dirección del Registro y Control del Transporte
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 36.
 
-Por los servicios de expedición de concesiones o permisos, copias de documentos, constancias simples, integración de expedientes para la solicitud de concesión o permiso para el transporte público, causará y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Dirección de Concesiones y Autorizaciones, se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicios Tarifa
 
-I. Por la expedición de copias simples de
+I. Por la expedición de copias simples de documentos que
 
-documentos que obren en archivo, excepto
-
-copia de concesiones, permisos o autorizaciones,
+obren en archivo, excepto de títulos de concesión o permiso,
 
 hasta 20 hojas. $250.00
 
 Por hoja adicional se pagará. $10.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+II. Por la expedición de constancias conforme a lo siguiente:
 
-II. Por la expedición de constancias de concesión
+a) De concesión o permiso. $500.00
 
-y/o permiso, número de expediente y estado que guarda. $500.00
+b) Del estado que guarda el expediente de solicitud de
 
-III. Por certificación de documentos excepto de
+concesión o permiso. $500.00
 
-concesiones o permisos hasta 20 hojas. $480.00
+III. Por certificación de documentos excepto títulos de concesión
+
+o permiso hasta 20 hojas. $480.00
 
 Por hoja adicional se pagará. $10.00
 
-IV. Por concesión para el servicio de transporte
+IV. Por concesión para el servicio público de transporte en la modalidad
 
-público de vehículos en la modalidad rural mixto
+rural mixto de carga y pasaje, conforme a lo siguiente:
 
-de carga y pasaje, conforme a lo siguiente:
+a) Otorgamiento de concesión, por vehículo. $10,000.00
 
-a) Otorgamiento de concesión, por unidad. $20,000.00
+b) Por expedición de título de concesión, por vehículo. $2,500.00
 
-b) Por la expedición de título de concesión,
+c) Por reposición de título de concesión, por vehículo. $2,500.00
 
-por unidad. $2,500.00
+V. Por concesión para el servicio público de transporte en la modalidad de
 
-c) Por la reposición de título de concesión,
+carga de materiales para la construcción a granel, conforme a lo
 
-por unidad. $2,500.00
+siguiente:
 
-V. Por concesión para el servicio de transporte
+a) Otorgamiento de concesión, por vehículo. $20,000.00
 
-público en las modalidades de carga tipo general
+b) Por expedición de título de concesión, por vehículo. $2,500.00
 
-bajo tonelaje y de materiales para la construcción
+c) Por reposición de título de concesión, por vehículo. $2,500.00
 
-a granel, conforme a lo siguiente:
+VI. Por permiso para el servicio público de transporte en la modalidad
 
-a) Otorgamiento de concesión, por unidad. $20,000.00
+especial, señalada en el artículo 83 fracciones I, II, IV, V, VII VIII y IX de la
 
-b) Por la expedición de título de concesión,
+Ley de Movilidad y Transporte del Estado de Chiapas, conforme a lo
 
-por unidad. $2,500.00
+siguiente:
 
-c) Por la reposición de título de concesión,
-
-por unidad. $2,500.00
-
-VI. Por permisos para vehículos en las modalidades
-
-de transporte de personal al campo y empresas, y
-
-de transporte especial, conforme a lo dispuesto en los
-
-artículos 38 fracciones I excepto grúa, II, IV,VI, y
-
-artículo 41 fracción VI, de la Ley de Transportes del
-
-Estado, conforme a lo siguiente:
-
-a) Por expedición de permiso, por unidad. $5,000.00
+a) Por expedición de permiso, por vehículo. $5,000.00
 
 b) Por reposición de permiso. $2,500.00
 
-c) Por revalidación de permiso, por unidad. $2,500.00
+c) Por renovación de permiso, por vehículo. $1,000.00
 
-VII. Por permisos para vehículos en la modalidad
+VII. Por permiso para el servicio público de transporte en la modalidad de
 
-de transporte especial tipo grúa, conforme a lo siguiente:
+transporte especial tipo grúa, conforme a lo siguiente:
 
-a) Por expedición de permiso, por unidad. $20,000.00
+a) Por expedición de permiso, por vehículo. $10,000.00
 
 b) Por reposición de permiso. $2,500.00
 
-c) Por revalidación de permiso, por unidad. $10,000.00
+c) Por renovación de permiso, por vehículo. $1,000.00
 
-VIII. Por la regularización del título de concesión,
+VIII. Por expedición del título de concesión derivado de regularización
 
-por cambio de modalidad, estatalización del servicio
+por cambio de modalidad o tipo, cambio de adscripción, corrección
 
-o cambio de adscripción en cualquier modalidad. $5,000.00
+de datos, ampliación del número de vehículos o disgregación,
 
-IX. Por concesión para el servicio de transporte
+por vehículo. $5,000.00
 
-público, en las modalidades de pasajeros, tipo urbano,
+IX. Por concesión para el servicio público de transporte, en la modalidad
 
-suburbano y foráneo, de alquiler o taxi, conforme a lo siguiente:
+de pasajeros, tipo colectivo urbano, suburbano, intermunicipal y foráneo y
 
-a) Otorgamiento de concesión, por unidad. $20,000.00
+tipo taxi, conforme a lo siguiente:
 
-b) Por la expedición de títulos de concesión, por unidad. $2,500.00
+a) Otorgamiento de concesión, por vehículo. $20,000.00
 
-c) Por la reposición de títulos de concesión por unidad. $2,500.00
+b) Por la expedición de título de concesión, por vehículo. $2,500.00
 
-X. Por concesión para el servicio de transporte público
+c) Por la reposición de título de concesión, por vehículo. $2,500.00
 
-en la modalidad de carga tipo general de alto tonelaje
+X. Por permiso para el servicio público de transporte en la modalidad de
 
-y especializada, conforme a lo siguiente:
+carga en general de bajo y alto tonelaje, paquetería y especializada,
 
-a) Otorgamiento de concesión, por unidad. $20,000.00
+conforme a lo siguiente:
 
-b) Por la expedición de títulos de concesión,
+a) Por expedición de permiso, por vehículo. $5,000.00
 
-por unidad. $2,500.00
+b) Por reposición de permiso. $2,500.00
 
-c) Por la reposición de títulos de concesión
+c) Por renovación de permiso, por vehículo. $1,000.00
 
-por unidad. $2,500.00
+XI. Por integración de expediente de regularización de concesión por
 
-XI. Por la integración de expedientes administrativos
+cesión de derechos entre particulares, transmisión de derechos por
 
-de regularización de concesiones en cualquier modalidad
+muerte o incapacidad física o mental permanente del titular, cambio de
 
-y tipo de unidad, por cesión de derechos entre particulares,
+modalidad o tipo, cambio de adscripción, corrección de datos, ampliación
 
-causa hereditaria e invalidez. $500.00
+del número de vehículos o disgregación. $500.00.
 
-XII. Por otorgamiento de concesión de cualquier
+XII. Por expedición de título, derivado de la regularización de la
 
-modalidad y tipo de unidad, por cesión de derechos,
+concesión, conforme a lo siguiente:
 
-conforme a lo siguiente.
+a) Cesión de derechos entre particulares, por vehículo. $20,000.00
 
-a) Entre particulares, por unidad. $20,000.00
+b) Transmisión de derechos por muerte o incapacidad física o mental
 
-b) Hereditario o invalidez, por unidad. $5,000.00
+permanente del Titular, por vehículo. $5,000.00
 
-XIII. Por la integración de expediente para solicitar
-
-una concesión y/o permiso, en cualquiera de sus
-
-modalidades. $1,000.00
-
-XIV. Por permisos para vehículos en la modalidad
-
-de Transporte Especial, siguientes:
-
-a) Turístico hasta 16 pasajeros por unidad, conforme a lo siguiente:
-
-1. Expedición de permiso. $10,000.00
-
-2. Por reposición de permiso. $2,500.00
-
-3. Por la revalidación de permiso. $5,000.00
-
-b) Ecotaxi por unidad, conforme a lo siguiente:
-
-1. Expedición de permiso. $4,400.00
-
-2. Por reposición de permiso. $2,000.00
-
-3. Por la revalidación de permiso. $2,000.00
-
-XV. Por la búsqueda de datos en los libros de
-
-registro de concesión, cuando proceda. $500.00
-
-XVI. Por realizar estudio socio económico, a los
-
-solicitantes de concesiones y/o permisos, en
+XIII. Por integración de expediente de solicitud de concesión o permiso en
 
 cualquier modalidad. $1,000.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+XIV. Por permiso para la prestación del servicio público de transporte en
 
-XVII. Por la expedición del permiso provisional por medio
+la modalidad especial, conforme a lo siguiente:
 
-del cual el titular de la Secretaría autoriza a un particular a
+a) Transporte turístico:
 
-prestar el servicio público de transporte en forma temporal
+1. Expedición de permiso, por vehículo. $20,000.00
 
-para satisfacer una necesidad de transporte eventual,
+2. Por reposición de permiso. $2,500.00
 
-emergente o extraordinaria, hasta por 30 días. $1,000.00
+3. Por renovación de permiso, por vehículo. $1,000.00
 
-Todos y cada uno de los conceptos y derechos establecidos en la presente Sección, se causarán por cada unidad de manera particular sin efectos genéricos.
+b) Ecotaxi:
+
+1. Expedición de permiso, por vehículo. $5,000.00
+
+2. Por reposición de permiso. $2,000.00
+
+3. Por renovación de permiso, por vehículo. $1,000.00
+
+c) Mototaxi:
+
+1. Expedición de permiso, por vehículo. $5,000.00
+
+2. Por reposición de permiso. $2,500.00
+
+3. Por renovación de permiso, por vehículo. $1,000.00
+
+d) Bicitaxi:
+
+1. Expedición de permiso, por vehículo. $800.00
+
+2. Por reposición de permiso. $600.00
+
+3. Por renovación de permiso, por vehículo. $500.00
+
+XV. Por la búsqueda de datos en los libros de registro de
+
+concesión. $500.00
+
+XVI. Por realizar estudio Socioeconómico a los solicitantes de concesión
+
+o permiso. $1,500.00
+
+XVII. Por expedición de permiso provisional con vigencia de
+
+30 días. $1,000.00
+
+XVIII. Por expedición de constancia de designación de
+
+beneficiario. $200.00
+
+XIX. Por trámite de la publicación en el Periódico Oficial del Estado,
+
+de la resolución que otorga concesión. $250.00
+
+Todos y cada uno de los conceptos y derechos establecidos en la presente Sección, se causarán por cada vehículo de manera particular sin efectos genéricos.
 
 #### Sección Tercera. Servicios que presta la Dirección de Proyectos Estratégicos y Capacitación Integral al Sector
 
@@ -3401,53 +3387,47 @@ Por los servicios que presta la Dirección de Registro y Control del Transporte,
 
 Servicios Tarifa
 
-I. Por la expedición de la constancia de autorización de
+I. Por la expedición de la constancia de autorización de ruta o
 
-ruta o zona para el servicio público de transporte para
+zona para el servicio público de transporte para las modalidades
 
-las modalidades de carga, de personal al campo y empresas
+de carga, rural mixto de carga y pasaje y especial. $1,500.00
 
-rural mixto de carga y pasaje y, especial. $1,500.00
+II. Por la renovación de la constancia de autorización de ruta o
 
-II. Por refrendo anual de la constancia de autorización
+zona para el servicio público de transporte para las modalidades
 
-de ruta o zona para el servicio público de transporte para
+de carga rural mixto de carga y pasaje y especial. $1,000.00
 
-las modalidades de carga, de personal al campo y empresas,
+III. Por la expedición del permiso temporal de vehículos automotores
 
-rural mixto de carga y pasaje y, especial. $1,000.00
+para prestar el servicio público de transporte con un vehículo distinto
 
-III. Por la expedición del permiso temporal de vehículos
+al registrado, en cualquier modalidad por vigencia de 30 días. $500.00
 
-automotores para prestar el servicio público de transporte
+IV. Por la expedición de la constancia de autorización de ruta o
 
-con una unidad distinta a la registrada, en cualquier modalidad
+zona para el servicio público de transporte en la modalidad
 
-por vigencia de 30 días. $1,000.00
+de pasajeros. $2,500.00
 
-IV. Por la expedición de la constancia de autorización
+V. Por renovación anual de la constancia de autorización de ruta o
 
-de ruta o zona para el servicio público de transporte
+zona para el servicio público de transporte en la modalidad
 
-en la modalidad de pasajeros. $2,500.00
+de pasajeros. $1,500.00
 
-V. Por refrendo anual de la constancia de autorización
+VI. Por la expedición del permiso de penetración para el servicio
 
-de ruta o zona para el servicio público de transporte
+público de transporte de pasajeros o de carga; previa presentación
 
-en la modalidad de pasajeros. $1,500.00
+del permiso federal vigente. $2,000.00
 
-VI. Por la expedición del permiso de penetración para
+VII. Por renovación anual del permiso de penetración para el servicio
 
-el servicio público de transporte de pasajeros o de carga;
+público de transporte de pasajeros o de carga; previa presentación
 
-previa presentación del permiso federal vigente. $2,000.00
-
-VII. Por refrendo anual del permiso de penetración para
-
-el servicio público de transporte de pasajeros o de carga;
-
-previa presentación del permiso federal vigente. $1,000.00
+del permiso federal vigente. $1,000.00
 
 VIII. Por la autorización de nueva asignación de placas, para la
 
@@ -3455,11 +3435,11 @@ prestación del servicio público de transporte, por robo o siniestro
 
 de vehículo con placas, robo o extravío de placas de circulación,
 
-a los concesionarios y permisionarios en cualquier modalidad.
+a los concesionarios y permisionarios en cualquier modalidad. Previa
 
-Previa presentación del documento expedido por la Fiscalía
+presentación del documento expedido por la Fiscalía General
 
-General del Estado. $2,000.00
+del Estado. $2,000.00
 
 IX. Por la autorización de reposición de tarjeta de circulación
 
@@ -3467,69 +3447,61 @@ para la prestación del servicio público de transporte en cualquier
 
 modalidad. $800.00
 
-X. Por la expedición de copias certificadas de documentos
+X. Por la expedición de copias certificadas de documentos originales
 
-originales que obren en los archivos de la Dirección de Registro
+que obren en los archivos de la Dirección de Registro y Control del
 
-y Control del Transporte, hasta por 20 hojas. $480.00
+Transporte, hasta por 20 hojas. $480.00
 
-Por hoja adicional se pagará $10.00
+Por hoja adicional se pagará: $10.00
 
-XI. Por expedición de constancia de verificación física,
+XI. Por expedición de constancia de verificación física, electromecánica
 
-electromecánica y de uniforme de vehículos automotores
+y de uniforme de vehículos automotores destinados a la prestación
 
-destinados a la prestación del servicio público de transporte,
+del servicio público de transporte, en cualquier modalidad. $500.00
 
-en cualquier modalidad. $500.00
+XII. Por la solicitud de elaboración de estudio técnico de factibilidad
 
-XII. Por la solicitud de elaboración de estudio técnico para
-
-el servicio público de transporte. $6,000.00
+para el servicio público de transporte. $6,000.00
 
 Este pago no garantiza que el resultado del estudio técnico de
 
 factibilidad sea positivo para el solicitante.
 
-XIII. Por la autorización anual del uso de publicidad por
+XIII. Por la autorización para portar publicidad y promoción visual,
 
-unidad, a los concesionarios y permisionarios de vehículos
+por vehículo. $800.00
 
-que prestan el servicio público de transporte en
+XIV. Por la autorización eventual de ruta o zona en los casos que
 
-cualquier modalidad. $1,500.00
+establece la Ley de Movilidad y Transporte del Estado de Chiapas
 
-XIV. Por la autorización eventual en los casos que
+y su Reglamento. $1,000.00
 
-establece el Reglamento de la Ley de Movilidad y
+XV. Por la expedición del permiso complementario de vehículos
 
-Transporte del Estado de Chiapas, y su Reglamento. $1,000.00
+automotores procedentes de otras Entidades Federativas para el
 
-XV. Por la expedición del permiso complementario
+servicio público de transporte de pasajeros o de carga; previa
 
-de vehículos automotores procedentes de otras Entidades
+presentación de la concesión o permiso estatal vigente. $500.00
 
-Federativas para el servicio público de transporte de
+XVI. Por la expedición de la constancia de autorización del uso
 
-pasajeros o de carga; previa presentación de la concesión
+de plataformas tecnológicas para el servicio público de transporte
 
-o permiso estatal vigente. $500.00
+con vehículos automotores concesionarios o permisionarios
 
-XVI. Por la expedición de la constancia de autorización del
+del Estado. $5,000.00
 
-uso de plataformas tecnológicas para el servicio público de
+XVII. Por renovación de la constancia de autorización del uso
 
-transporte con vehículos automotores concesionarios o
+de plataformas tecnológicas para el servicio público de transporte
 
-permisionarios del Estado. $5,000.00
+con vehículos automotores concesionarios o permisionarios
 
-XVII. Por refrendo anual de la constancia de autorización
-
-del uso de plataformas tecnológicas para el servicio público
-
-de transporte con vehículos automotores concesionarios o
-
-permisionarios del Estado. $3,000.00
+del Estado. $3,000.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -3549,9 +3521,11 @@ para operadores del servicio público de transporte
 
 de nuevo ingreso. $250.00
 
-II. Por expedición del certificado de aptitud para
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-operadores del transporte público:
+II. Por renovación del certificado de aptitud para operadores del
+
+transporte público:
 
 a) A un año. $300.00
 
@@ -4515,17 +4489,25 @@ b) Piedra caliza, arcilla, tezontle, pomacita, grava roja,
 
 entre otros, competencia del Estado. $11.00
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IX. Emisión de la autorización de licencia de
+IX. Por la evaluación y autorización de licencia de funcionamiento
 
-funcionamiento de fuentes fijas de emisiones a la atmósfera:
+de fuentes fijas de emisiones a la atmósfera:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 a) Gran empresa. $13,000.00
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 b) Mediana empresa. $12,000.00
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 c) Pequeña empresa. $11,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 d) Micro empresa. $10,000.00
 
@@ -4583,19 +4565,7 @@ b) Grandes generadores. $4,305.00
 
 XVII. Por la expedición de dictámenes técnicos. $8,500.00
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XVIII. Evaluación de la solicitud de licencia de
-
-funcionamiento de fuentes fijas de emisiones a la atmósfera:
-
-a) Gran empresa. $8,000.00
-
-b) Mediana empresa. $7,000.00
-
-c) Pequeña empresa. $6,000.00
-
-d) Micro empresa. $5,000.00
+XVIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 XIX. Por los trámites extemporáneos de
 
@@ -4675,11 +4645,7 @@ Por los servicios que presta el Instituto para la Gestión Integral de Riesgos d
 
 Servicio Tarifa
 
-I. Por la emisión de certificado de validación de la Unidad
-
-Interna de Protección Civil de empresas, instituciones,
-
-organismos y asociaciones privadas y del sector social. $605.00
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 II. Por curso sobre temas de prevención de desastres que se imparten en la Escuela de Protección Civil:
 
@@ -4769,53 +4735,11 @@ hasta 20 hojas. $441.00
 
 Por hoja adicional se cobrará. $5.25
 
-X. Por la expedición de:
+X. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
-a) Opinión técnica sobre predios de 0.01 a 1.00 hectáreas. $1,600.00
+XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
-b) Opinión técnica sobre predios de 1.01 a 5.00 hectáreas. $2,100.00
-
-c) Opinión técnica sobre predios de 5.01 a 10.00 hectáreas. $6,500.00
-
-d) Opinión técnica sobre predios de 10.01 a 20.00 hectáreas. $13,000.00
-
-e) Opinión técnica sobre predios de 20.01 a 50.00 hectáreas. $28,500.00
-
-f) Opinión técnica sobre predios de 50.01 a más hectáreas. $31,500.00
-
-g) Estudio de sondeo eléctrico vertical por cada 20 metros. $25,500.00
-
-h) Pruebas de ensaye de 4 cilindros de concreto hidráulico. $3,200.00
-
-i) Pruebas no destructivas por elemento estructural. $6,500.00
-
-j) Dictamen de riesgo químico. $26,500.00
-
-XI. Por la realización de visita de inspección a solicitud de la parte
-
-interesada. $500.00
-
-XII. Por la revisión y validación de los programas internos de protección civil y emisión de oficio de cumplimiento de aquellos inmuebles que impliquen concentración masiva de personas con fines de lucro, del sector social y de los tres órdenes de Gobierno:
-
-a) De 1 a 200 metros cuadrados. $550.00
-
-b) De 201 a 400 metros cuadrados. $800.00
-
-c) De 401 a 600 metros cuadrados. $1,400.00
-
-d) De 601 a 800 metros cuadrados. $1,500.00
-
-e) De 801 a 1,000 metros cuadrados. $1,600.00
-
-f) De 1,001 a 1,500 metros cuadrados. $1,800.00
-
-g) De 1,501 a 2,000 metros cuadrados. $2,100.00
-
-h) De 2,001 a 5,000 metros cuadrados. $3,600.00
-
-i) De 5,001 a 10,000 metros cuadrados. $7,000.00
-
-j) De 10,001 metros cuadrados en adelante. $21,000.00
+XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 XIII. Por servicio de educación a distancia que presta la Escuela
 
@@ -4833,57 +4757,29 @@ XVI. Por diplomado en la elaboración de dictámenes de riesgos de
 
 protección civil (costo por persona). $14,300.00
 
-XVII. Por el traslado urbano. $1,254.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+XVII. Por el traslado urbano. $1,330.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XVIII. Por la unidad especializada pre-hospitalaria para eventos
 
-socio-organizativos con fines de lucro (por hora de unidad). $2,394.00
+socio-organizativos con fines de lucro (por hora de unidad). $2,550.00
 
-XIX. Por la unidad especializada para rescate, combate y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-prevención de incendios para eventos socio-organizativos con
+XIX. Por la unidad especializada para rescate, combate y prevención
 
-fines de lucro (por hora de unidad). $2,394.00
+de incendios para eventos socio-organizativos con fines de lucro
 
-XX. Por el traslado pre-hospitalario foráneos por kilómetro. $81.00
+(por hora de unidad). $2,550.00
 
-XXI. Por la expedición de:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-a) Dictamen de riesgo en predios:
+XX. Por el traslado pre-hospitalario foráneos por kilómetro. $90.00
 
-1. De 0.01 a 1.00 hectáreas $4,200.00
-
-2. De 1.01 a 5.00 hectáreas $6,500.00
-
-3. De 5.01 a 10.00 hectáreas $11,500.00
-
-4. De 10.01 a 20.00 hectáreas $22,000.00
-
-5. De 20.01 a 50.00 hectáreas $52,500.00
-
-6. De 50.01 hectáreas en adelante $63,000.00
-
-b) Dictamen de riesgo en predios construidos:
-
-1. De 01 a 200 metros cuadrados $1,100.00
-
-2. De 201 a 400 metros cuadrados $1,200.00
-
-3. De 401 a 600 metros cuadrados $1,400.00
-
-4. De 601 a 800 metros cuadrados $1,500.00
-
-5. De 801 a 1,000 metros cuadrados $1,600.00
-
-6. De 1,001 a 1,500 metros cuadrados $1,800.00
-
-7. De 1,501 a 2,000 metros cuadrados $2,100.00
-
-8. De 2,001 a 5,000 metros cuadrados $3,600.00
-
-9. De 5,001 a 15,000 metros cuadrados $7,000.00
-
-10. De 15,001 metros cuadrados en adelante $21,000.00
+XXI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 XXII. Por el registro para asesoría y capacitación en materia de
 
@@ -5180,5 +5076,13 @@ P.O. 31 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 056 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintiuno.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 020 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintidós.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
