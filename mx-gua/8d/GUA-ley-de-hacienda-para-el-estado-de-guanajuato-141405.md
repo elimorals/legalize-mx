@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2020-12-24"
+last_updated: "2021-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -99,9 +99,25 @@ VIII. Secretaría: a la Secretaría de Finanzas, Inversión y Administración.
 
 Objeto del impuesto
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 6.
 
-Son objeto de este impuesto las erogaciones efectuadas en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé, prestado dentro del territorio del estado; los pagos en dinero o en especie realizados a administradores, directores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de cualquier especie o tipo de sociedades o asociaciones; y los pagos a personas físicas por concepto de honorarios, por la prestación de servicios personales independientes o por actividades empresariales, cuando no causen el Impuesto al Valor Agregado por estar asimilados a las remuneraciones por salarios, de conformidad con la Ley del Impuesto Sobre la Renta.
+Son objeto de este impuesto, los conceptos siguientes:
+
+I. Las erogaciones efectuadas en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé, prestado dentro del territorio del estado;
+
+II. Los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción, así como los anticipos que reciban los miembros de sociedades y asociaciones civiles;
+
+III. Los pagos en dinero o en especie realizados a administradores, directores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de cualquier especie o tipo de sociedades o asociaciones; y
+
+IV. Los pagos a personas físicas por concepto de honorarios, por la prestación de servicios personales independientes o por actividades empresariales, cuando no causen el Impuesto al Valor Agregado por estar asimilados a las remuneraciones por salarios, de conformidad con la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Remuneraciones al trabajo personal subordinado
+
+###### Artículo 6-A.
 
 Para efectos de este impuesto se consideran remuneraciones al trabajo personal subordinado, las siguientes:
 
@@ -149,7 +165,9 @@ Así como las personas físicas, morales o unidades económicas cuando por su co
 
 La Federación, el Estado, los Municipios, sus entidades paraestatales, paramunicipales, y los organismos autónomos, están obligados al pago de este impuesto.
 
-Están obligadas a retener y enterar este impuesto a más tardar el día veintidós del mes siguiente al que corresponda el impuesto, las personas físicas, morales y unidades económicas que reciban servicios de personas físicas o, morales o unidades económicas, cuyo domicilio esté ubicado fuera o dentro del territorio del estado, cuando pongan a disposición del contratante, personal que desempeñe sus funciones en las instalaciones del contratante o fuera de estas, estén o no bajo la dirección, supervisión, coordinación o dependencia del contratante, independientemente de la denominación que se le dé a la obligación contractual, siempre que el servicio se preste en el territorio de esta entidad federativa. El prestador de servicios determinará el impuesto a retener y lo desglosará en el Comprobante Fiscal Digital por Internet que para estos efectos expida.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Están obligadas a retener y enterar este impuesto a más tardar el día veintidós del mes siguiente al que corresponda el impuesto, las personas físicas, morales y unidades económicas que reciban servicios de personas físicas o morales o unidades económicas, cuyo domicilio esté ubicado fuera o dentro del territorio del estado, cuando pongan a disposición del contratante, personal que desempeñe sus funciones en las instalaciones del contratante o fuera de estas, estén o no bajo la dirección, supervisión, coordinación o dependencia del contratante, independientemente de la denominación que se le dé a la obligación contractual, siempre que el servicio se preste en el territorio de esta entidad federativa, en los términos del artículo 13 de la Ley Federal del Trabajo. El prestador de servicios determinará el impuesto a retener y lo desglosará en el Comprobante Fiscal Digital por Internet que para estos efectos expida.
 
 Cuando el prestador de servicios tenga su domicilio fiscal dentro del territorio del estado y se encuentre inscrito ante el Registro Estatal de Contribuyentes, las personas físicas, morales y unidades económicas que hayan contratado la prestación de servicios de estos contribuyentes, podrán no retener el impuesto previa solicitud por escrito del prestador de servicios en la que manifieste que enterará la contribución por cuenta propia; circunstancia que deberá informarse al SATEG.
 
@@ -323,19 +341,25 @@ II. En caso de que el contribuyente hubiere realizado pagos por el periodo o per
 
 Aplicabilidad del régimen simplificado del Impuesto sobre Nóminas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 17.
 
-Las personas que tributen en el Régimen de Incorporación Fiscal, al que hace referencia la Sección II, Capítulo II, Título IV de la Ley del Impuesto Sobre la Renta que efectúen pagos a los que se refiere el artículo 6 de esta Ley, podrán optar por pagar el Impuesto Sobre Nóminas conforme a lo siguiente:
+Las personas que tributen en el Régimen Simplificado de Confianza, previsto en la Sección IV Bis, Capítulo Segundo, Título Segundo de la presente Ley y que efectúen pagos a los que se refiere el artículo 6 de esta Ley, podrán optar por pagar el Impuesto Sobre Nóminas conforme a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRARRO], P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I. El impuesto se determinará por el producto del número total de las personas por las que el contribuyente realizó erogaciones, por el salario mínimo vigente, por sesenta días. A dicho resultado se le aplicará la tasa establecida en el artículo 10 de la presente Ley.
+I. El impuesto se determinará por el producto del número total de las personas por las que el contribuyente realizó erogaciones, por el salario mínimo vigente, por treinta días. A dicho resultado se le aplicará la tasa establecida en el artículo 10 de la presente Ley.
 
 Para la determinación de este impuesto, se considerará para el cómputo del número de personas que percibieron erogaciones aquellos que por lo menos hayan laborado treinta días con el sujeto obligado de este impuesto; y
 
-II. Los contribuyentes determinarán y enterarán el impuesto en forma bimestral, el cual tendrá el carácter de pago definitivo, a más tardar el día veintidós de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-Los sujetos obligados que opten por el procedimiento señalado en este artículo, quedarán exentos del cumplimiento de las obligaciones señaladas en las fracciones II, III y IV del artículo 12 de esta Ley.
+II. Los contribuyentes determinarán y enterarán el impuesto en forma mensual a más tardar el día veintidós del mes siguiente al que corresponda el impuesto, el cual tendrá el carácter de pago definitivo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los sujetos obligados que opten por el procedimiento señalado en este artículo quedarán exentos del cumplimiento de las obligaciones señaladas en las fracciones II y IV del artículo 12 de la presente Ley.
 
 #### Sección I. Disposiciones Generales
 
@@ -355,17 +379,33 @@ I. Por la prestación de servicios profesionales;
 
 II. Por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado;
 
-III. Por la realización de actividades empresariales:
+III. Por la realización de actividades empresariales.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-a) Del Régimen General, incluyendo los ingresos por la enajenación de bienes o la prestación de servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares;
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-b) Régimen de Incorporación Fiscal;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Asimismo, los contribuyentes que realicen las actividades a que hace referencia la presente fracción, por la enajenación de bienes o la prestación de servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares, enterarán el impuesto que corresponda de acuerdo con lo previsto en los artículos 37-A y 37-B de la presente Ley;
 
 IV. Por la enajenación de bienes inmuebles.
 
 También están obligadas al pago de estos impuestos, las personas físicas no residentes en el Estado, que realicen las actividades mencionadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Los contribuyentes comprendidos en las fracciones I, II y III de este artículo que tributen en los términos de la Sección IV, Capítulo II, Título IV, de la Ley del Impuesto sobre la Renta, enterarán el impuesto que corresponda en los términos establecidos en la Sección IV Bis, Capítulo Segundo, Título Segundo de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Inscripción y actualización ante el Registro Estatal de Contribuyentes
+
+###### Artículo 18-A.
+
+Los contribuyentes sujetos de los impuestos cedulares previstos en esta Ley, deberán inscribirse o actualizar sus obligaciones fiscales ante el Registro Estatal de Contribuyentes de conformidad con su régimen de tributación ante el Registro Federal de Contribuyentes.
+
+Para efectos del párrafo anterior y de conformidad a lo establecido en el artículo 50 del Código Fiscal para el Estado de Guanajuato, el SATEG podrá inscribir a los contribuyentes o actualizar sus obligaciones ante el Registro Estatal de Contribuyentes, cuando por cualquier medio o información a la que tenga acceso advierta que se encuentran tributando en un régimen fiscal distinto ante el Registro Federal de Contribuyentes, y no hubieran presentado el aviso respectivo ante el Registro Estatal de Contribuyentes.
 
 Procedimiento de discrepancia fiscal
 
@@ -551,9 +591,11 @@ V. Presentar declaraciones provisionales y anual; y
 
 VI. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código.
 
-#### Sección V. Impuesto Cedular por Enajenación de Bienes Inmuebles
+#### Sección IV Bis. Régimen Simplificado de Confianza
 
-Objeto y sujetos del impuesto
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Contribuyentes sujetos del Régimen
 
 ###### Artículo 32.
 
@@ -569,13 +611,15 @@ Cuando una persona física tenga establecimientos, sucursales o agencias, en dos
 
 Las personas físicas no residentes en el estado que tengan uno o varios establecimientos permanentes en el mismo pagarán el impuesto cedular en los términos de esta Sección por los ingresos atribuibles a los mismos, derivados de las actividades empresariales.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 Normatividad supletoria del impuesto
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 33.
 
-En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales, y Capítulo II, Secciones I, II y III, del Título IV de la Ley del Impuesto sobre la Renta.
+En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a las Disposiciones Generales, Capítulo II, Secciones I, III y IV, y Capítulo X del Título IV de la Ley del Impuesto sobre la Renta.
 
 Presentación de declaración y pago
 
@@ -599,39 +643,21 @@ Los contribuyentes deberán presentar sus declaraciones mensuales provisionales 
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido. A la utilidad fiscal que se obtenga se le aplicará la tasa prevista en el párrafo tercero del presente artículo. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, mediante las formas y medios que para tal efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
-
-Régimen de Incorporación Fiscal
-
 ###### Artículo 35.
 
-Los contribuyentes que realicen exclusivamente actividades empresariales, establecidas en el artículo 32, primer párrafo, de esta Ley, que enajenen bienes o presten servicios por los que no se requiera para su realización de título profesional, y cuyos ingresos obtenidos en el ejercicio inmediato anterior, no hubiesen excedido de $2'000,000.00, podrán aplicar las disposiciones de la Sección II, Capítulo II, Título IV de la Ley del Impuesto sobre la Renta, correspondiente al Régimen de Incorporación Fiscal, cumpliendo con las obligaciones de este impuesto cedular.
-
-Cálculo y Entero del Impuesto bajo el Régimen de Incorporación Fiscal
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 ###### Artículo 36.
 
-Los contribuyentes a que se refiere el artículo anterior, calcularán y enterarán el impuesto en forma bimestral, el cual tendrá el carácter de pago definitivo, a más tardar el día veintidós de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente. Para estos efectos la utilidad fiscal del bimestre de que se trate se determinará restando de la totalidad de los ingresos a que se refiere el artículo 35, obtenidos en dicho bimestre en efectivo, en bienes o en servicios, las deducciones autorizadas a que se refiere el artículo 33 de esta Ley, que sean estrictamente indispensables para la obtención de los ingresos a que se refiere esta sección, así como las erogaciones efectivamente realizadas en el mismo periodo para la adquisición de activos, gastos y cargos diferidos y la participación de los trabajadores en las utilidades de las empresas pagada (sic) en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Para determinar el impuesto, los contribuyentes a que se refiere el artículo anterior considerarán los ingresos cuando se cobren efectivamente y deducirán las erogaciones efectivamente realizadas en el ejercicio para la adquisición de activos fijos, gastos o cargos diferidos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
-
-A la utilidad fiscal que se obtenga conforme a este artículo se le aplicará la tasa prevista en el artículo 34, párrafo tercero de la presente Ley.
-
-El impuesto que se determine se podrá disminuir conforme a los porcentajes y de acuerdo al número de años que tengan tributando en el régimen previsto en el artículo 35, conforme a la tabla siguiente:
-
-Reducción del Impuesto Cedular en el Régimen de Incorporación Fiscal
-
-> <small>[N. DE E. VÉASE TABLA EN LA OCTAVA PARTE DEL P.O. DE 30 DE DICIEMBRE DE 2019, PÁGINA 190.]</small>
-
-Los contribuyentes que tributen en el Régimen de Incorporación Fiscal, sólo podrán permanecer en este régimen, durante un máximo de diez ejercicios fiscales consecutivos. Una vez concluido dicho periodo, deberán tributar conforme al régimen de personas físicas con actividades empresariales a que se refiere el artículo 32 de la presente Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
 Obligaciones de los Contribuyentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 37.
 
-Los contribuyentes a que se refieren los artículos 32 y 35 de esta Ley, además de las obligaciones establecidas en otros artículos de esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
+Los contribuyentes a que se refiere el artículo 32 de la presente Ley, además de las obligaciones establecidas en otros artículos de esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
 
 I. Inscribirse en el Registro Estatal de Contribuyentes, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal que corresponda a su domicilio, mediante aviso que será presentado en las formas autorizadas.
 
@@ -639,7 +665,11 @@ El aviso a que se refiere esta fracción deberá ser presentado por cada uno de 
 
 II. Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código.
 
-Tratándose de los contribuyentes a que se refiere el artículo 32 de esta Ley, deberán presentar sus declaraciones provisionales e informativa anual. Los contribuyentes que tributen conforme al artículo 35 deberán presentar sus declaraciones bimestrales.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+III. Presentar sus declaraciones provisionales y anual.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -702,6 +732,124 @@ V. Conservar como parte de su contabilidad la documentación que demuestre que e
 Las obligaciones establecidas en las fracciones III, IV y V de este artículo, deberán cumplirse de conformidad con las disposiciones de carácter general que para tal efecto emita el SATEG.
 
 El SATEG podrá incorporar al Registro Estatal de Contribuyentes, a los sujetos obligados en los términos de los artículos 37-A y el presente artículo, que tenga registrados el Servicio de Administración Tributaria, en términos de la colaboración en la materia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+#### Sección V. Impuesto Cedular por Enajenación de Bienes Inmuebles
+
+Objeto y sujetos del impuesto
+
+###### Artículo 37-C.
+
+Los contribuyentes personas físicas que tributen ante el Registro Federal de Contribuyentes en el régimen previsto en la Sección IV, Capítulo II, Título IV, de la Ley del Impuesto sobre la Renta, enterarán los impuestos cedulares por las actividades previstas en el artículo 18, fracciones I, II o III de la presente Ley, en términos de la presente Sección.
+
+Los contribuyentes que tributen en el Régimen Simplificado de Confianza contemplado en esta Sección y que realicen más de una de las actividades señaladas en el artículo 18 fracciones I, II y III de la presente Ley, deberán acumular la totalidad de los ingresos para el cálculo y entero correspondiente.
+
+Asimismo, los contribuyentes que realicen actividades agrícolas, ganaderas, silvícolas o pesqueras tributarán en términos de la presente Sección, cuando tributen ante el Registro Federal de Contribuyentes en el Régimen Simplificado de Confianza; en caso contrario, deberán tributar de acuerdo con lo previsto en la Sección IV de este Capítulo.
+
+Los contribuyentes a que hace mención el párrafo anterior, podrán aplicar el beneficio establecido en el penúltimo párrafo del artículo 113-E de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Determinación del impuesto
+
+###### Artículo 37-D.
+
+Los contribuyentes a que se refiere el artículo anterior calcularán y pagarán el impuesto en forma mensual a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago, para lo cual podrán optar por alguno de los siguientes esquemas:
+
+I. Determinar los pagos mensuales, considerando el total de los ingresos del mes de que se trate, que perciban por las actividades a que se refiere el primer párrafo del artículo 37-C de la presente Ley, efectivamente cobrados, sin incluir el Impuesto al Valor Agregado del periodo de que se trate, disminuyendo las deducciones correspondientes al mismo periodo y, en su caso, las pérdidas fiscales correspondientes a ejercicios anteriores que no se hubieran disminuido, generadas para este mismo régimen, hasta por el monto de la diferencia entre los ingresos y deducciones. Al resultado que se obtenga se le aplicará la tasa del 5 por ciento, acreditándose el impuesto que le hubieren retenido durante el periodo.
+
+Para efectos del párrafo anterior, se deberán aplicar las deducciones autorizadas conforme a los ingresos que perciban por las actividades que desarrollen, previstas en el Título IV, Capítulo II, Secciones I, III y X de la Ley del Impuesto sobre la Renta.
+
+II. Determinar los pagos mensuales considerando el total de los ingresos del mes de que se trate, que perciban por las actividades a que se refiere el primer párrafo del artículo 37-C de la presente Ley, efectivamente cobrados, sin incluir el Impuesto al Valor Agregado, aplicando la tasa que corresponda de acuerdo con la siguiente tabla:
+
+Monto de los ingresos efectivamente
+
+cobrados sin considerar el
+
+Impuesto al Valor Agregado Tasa aplicable
+
+Hasta $25,000.00 2.00 por ciento
+
+Hasta $50,000.00 2.10 por ciento
+
+Hasta $83.333,33 2.20 por ciento
+
+Hasta $208,333.33 2.30 por ciento
+
+Hasta $3,500.000.00 2.50 por ciento
+
+Al impuesto determinado se acreditará, en su caso, el impuesto retenido durante el periodo.
+
+Cuando los contribuyentes a que se refiere el artículo 37-C de la presente Ley, realicen actividades empresariales, profesionales u otorguen el uso o goce temporal de bienes inmuebles, a personas morales con domicilio fiscal en el Estado, estas últimas deberán retener el monto que resulte de aplicar la tasa del 2 por ciento sobre el monto de los pagos que les efectúen, sin considerar el Impuesto al Valor Agregado, debiendo proporcionar a los contribuyentes el Comprobante Fiscal Digital por Internet, en el que conste el monto del impuesto retenido, el cual deberá enterarse por dicha persona moral a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago.
+
+Los contribuyentes que tributen en términos de esta Sección permanecerán en el esquema de tributación por el que hayan optado, de acuerdo con las fracciones I y II del presente artículo, por todo el ejercicio fiscal. Con la posibilidad de cambiar de esquema en el ejercicio fiscal siguiente, de conformidad con las disposiciones de carácter general que al efecto emita el SATEG.
+
+Para efectos del segundo párrafo del artículo 18-A de la presente Ley, los contribuyentes a los cuales el SATEG inscriba o actualice en el Régimen previsto en la Sección IV Bis, Capítulo Segundo, Título Segundo de la presente Ley, serán incorporados al esquema señalado en la fracción l de este artículo, con la posibilidad de cambiar de esquema al momento de presentar su primera declaración del ejercicio, de conformidad con las disposiciones de carácter general que para tal efecto emita el SATEG.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Declaración anual
+
+###### Artículo 37-E.
+
+Los contribuyentes a que se refiere esta Sección están obligados a presentar declaración anual en el mes de abril del año siguiente al que corresponda la declaración, conforme al esquema de determinación del impuesto por el que se haya optado en términos del artículo 37-D, de acuerdo con lo siguiente:
+
+I. Para aquellos contribuyentes que hayan optado por determinar el impuesto mensual conforme a la fracción I del artículo 37-D de la presente Ley, considerarán el total de los ingresos que perciban en el ejercicio por las actividades a que se refiere el primer párrafo del artículo 37-C efectivamente cobrados, sin incluir el Impuesto al Valor Agregado, disminuyendo las deducciones autorizadas correspondientes al mismo periodo y, en su caso, las pérdidas fiscales correspondientes a ejercicios anteriores que no se hubieran disminuido, generadas para este mismo régimen, hasta por el monto de la diferencia entre los ingresos y deducciones, siempre que estas últimas sean menores. Al resultado que se obtenga se le aplicará la tasa del 5 por ciento, acreditando los pagos mensuales efectuados y el impuesto que le hubieran retenido durante el ejercicio.
+
+II. Para aquellos contribuyentes que hayan optado por determinar el impuesto mensual conforme a la fracción II del artículo 37-D de esta Ley, considerarán el total de los ingresos que perciban por las actividades a que se refiere el primer párrafo del artículo 37-C de esta Ley, efectivamente cobrados en el ejercicio, sin incluir el Impuesto al Valor Agregado, aplicando la tasa que corresponda de acuerdo con la siguiente tabla:
+
+Monto de los ingresos efectivamente
+
+cobrados sin considerar el
+
+Impuesto al Valor Agregado Tasa aplicable
+
+Hasta $300,000.00 2.00 por ciento
+
+Hasta $600,000.00 2.10 por ciento
+
+Hasta $1,000,000.00 2.20 por ciento
+
+Hasta $2,500,000.00 2.30 por ciento
+
+Hasta $3,500.000.00 2.50 por ciento
+
+Los contribuyentes podrán acreditar a la cantidad que resulte, el impuesto pagado en las declaraciones mensuales y en su caso, el impuesto retenido durante el ejercicio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Obligaciones de los contribuyentes
+
+###### Artículo 37-F.
+
+Los contribuyentes sujetos al régimen previsto en esta Sección tendrán las obligaciones siguientes:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal que corresponda a su domicilio, mediante aviso que será presentado en las formas autorizadas y mantenerlo actualizado;
+
+II. Expedir y conservar comprobantes que acrediten los ingresos que perciban, mismos que deberán reunir los requisitos establecidos en la legislación fiscal aplicable;
+
+III. Obtener y conservar Comprobantes Fiscales Digitales por Internet que amparen sus gastos e inversiones;
+
+IV. Expedir y entregar a sus clientes Comprobantes Fiscales Digitales por Internet por las operaciones que realicen con los mismos;
+
+V. Expedir y conservar comprobantes globales por las operaciones realizadas con el público en general en el supuesto de que los adquirentes de los bienes, de los servicios o del uso o goce temporal de bienes, no soliciten el Comprobante Fiscal Digital por Internet; y
+
+VI. Presentar declaraciones mensuales y anual.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Abandono del Régimen
+
+###### Artículo 37-G.
+
+Los contribuyentes dejarán de tributar en el Régimen Simplificado de Confianza previsto en esta Sección, cuando abandonen dicho régimen ante el Registro Federal de Contribuyentes.
+
+Para efectos de lo dispuesto en el párrafo que antecede, los contribuyentes que dejen de tributar en el Régimen Simplificado de Confianza deberán pagar el impuesto cedular que corresponda en términos de lo dispuesto en el Título Segundo, Capítulo Segundo, Secciones II, III y IV de la presente Ley, a partir del mes siguiente de la fecha en que abandonen el mismo.
+
+El SATEG podrá actualizar el régimen a los contribuyentes ante el Registro Estatal de Contribuyentes al que le corresponda, sin que medie solicitud de su parte, cuando éstos se encuentren registrados de manera distinta ante el Registro Federal de Contribuyentes.
+
+El SATEG podrá suspender ante el Registro Estatal de Contribuyentes a los contribuyentes de este régimen, cuando en el Registro Federal de Contribuyentes cuenten con el mismo estatus y no hayan presentado el aviso correspondiente ante el Registro Estatal de Contribuyentes. Sin perjuicio del ejercicio de las facultades de comprobación que lleve a cabo la autoridad, así como la imposición de sanciones.
 
 ###### Artículo 38.
 
@@ -1265,11 +1413,13 @@ Prestación del servicio público
 
 La dependencia o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, cuando el interesado presente el comprobante de pago que al efecto se expida en términos de lo dispuesto en el artículo anterior.
 
-Servicios en materia de alcoholes
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
+Servicios en materia de bebidas alcohólicas
 
 ###### Artículo 82.
 
-Para realizar los trámites y prestar los servicios previstos en la Ley de Alcoholes para el Estado de Guanajuato y sus Municipios y en los demás casos que así lo dispongan los ordenamientos jurídicos, los interesados deberán acreditar que se encuentran al corriente de sus obligaciones fiscales estatales.
+Para realizar los trámites y prestar los servicios previstos en la Ley de Bebidas Alcohólicas para el Estado de Guanajuato y sus Municipios, y en los demás casos que así lo dispongan los ordenamientos jurídicos, los interesados deberán acreditar que se encuentran al corriente de sus obligaciones fiscales estatales.
 
 Exención del pago de derechos
 
@@ -1758,3 +1908,23 @@ Artículo Segundo. Las tasas contenidas en el artículo 2 de la Ley de Ingresos 
 La tasa del Impuesto sobre Nóminas contenida en el artículo 10, entrará en vigor el 1 de enero de 2022. Durante el ejercicio fiscal de 2021 se aplicará la tasa del 2.3 por ciento.
 
 Artículo Tercero. Las disposiciones de los artículos 37-A y 37-B contenidas en el presente Decreto entrarán en vigor el 1 de abril de 2021, periodo en el cual el Servicio de Administración Tributaria del Estado de Guanajuato, SATEG deberá emitir las disposiciones de carácter general acorde a lo establecido en el artículo 37-B y realizar las adecuaciones de tipo operativo.
+
+P.O. 31 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 59, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del 01 de enero de 2022, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para aplicar acreditamientos, deducciones y compensaciones vigentes
+
+Artículo Segundo. Los contribuyentes personas físicas que hasta antes de la entrada en vigor de las disposiciones previstas en el Título Segundo, Capítulo Segundo, Sección IV Bis de la presente Ley venían tributando en términos del Título Segundo, Capítulo Segundo, Secciones II, III y IV de la presente Ley, y que tributen en términos de la citada Sección IV Bis, deberán aplicar en la declaración anual del ejercicio 2022, los acreditamientos y deducciones, así como solicitar en devolución los saldos a favor que tuvieran pendientes.
+
+Presentación de declaración provisional del Régimen Simplificado de Confianza
+
+Artículo Tercero. Los contribuyentes personas físicas que tributen en términos de lo previsto en el Título Segundo, Capítulo Primero, Sección II y Capítulo Segundo, Sección IV Bis de la presente Ley, así como las personas morales retenedoras del impuesto materia de esta última sección en cita, presentarán las declaraciones mensuales y, en su caso, el entero del impuesto que resulte a cargo, correspondientes a enero y febrero del ejercicio fiscal 2022, a partir del 01 y hasta el 22 de abril del mismo ejercicio. Dentro del periodo señalado, en caso de que resultara impuesto a cargo de los contribuyentes, éste no será objeto de actualización y causación de accesorios.
+
+Continuidad del Régimen de Incorporación Fiscal
+
+Artículo Cuarto. Los contribuyentes que previo a la entrada en vigor del presente Decreto, estuvieron tributando en términos de los artículos 17, 35 y 36 de la presente Ley, a partir del 1 de enero de 2022, podrán continuar pagando sus impuestos de conformidad con lo previsto en los artículos antes referidos vigentes hasta el 31 de diciembre de 2021, durante el plazo de permanencia a que se refiere el quinto párrafo del citado artículo 36; siempre que ante el Registro Federal de Contribuyentes continúen en el Régimen de Incorporación Fiscal, en términos del Artículo Segundo Transitorio, fracción IX de la Ley del Impuesto Sobre la Renta, dentro del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto Sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos, publicado en la edición vespertina del Diario Oficial de la Federación el 12 de noviembre de 2021.
