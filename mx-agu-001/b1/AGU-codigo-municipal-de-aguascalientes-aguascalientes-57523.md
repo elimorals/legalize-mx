@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-12-27"
+last_updated: "2022-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -987,15 +987,21 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPÍTULO IX. De las Comisiones
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2022)</small>
 
-###### ARTÍCULO 82.
+###### Artículo 82.
 
 El Cabildo nombrará las Comisiones permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE ENERO DE 2022)</small>
+
 A. REGIDORES:
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 I. Gobernación.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 II. Hacienda.
 
@@ -1003,13 +1009,23 @@ II. Hacienda.
 
 III. Seguridad Pública y Protección Civil.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 IV. Comisión de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 V. Desarrollo Económico, Turismo y Asuntos Internacionales.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 VI. Planeación Urbana, Rural y Asuntos Metropolitanos.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 VII. Agua Potable, Alcantarillado y Saneamiento.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 VIII. Obras Públicas.
 
@@ -1017,29 +1033,47 @@ VIII. Obras Públicas.
 
 IX. Control Reglamentario, Espectáculos, Mercados y Estacionamientos;
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 X. Alumbrado y Limpia.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 XI. Cultura;
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 XII. Ecología, Parques, Jardines y Panteones.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 XIII. Educación, Juventud y Deporte.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 XIV. Igualdad y Género.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 XV. Derechos Humanos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2022)</small>
 
-XVI. Salud.
+XVI. Comisión de Comunicación Social.
 
-[ADICIONADA [N. DE E. REUBICADA], P.O.27 DE DICIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ENERO DE 2022)</small>
 
 XVII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 B. SÍNDICOS:
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
+
 I. Procurador.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 II. De Hacienda.
 
@@ -8801,15 +8835,17 @@ La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco 
 
 ## TÍTULO QUINTO. Del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 619.
 
-El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, tendrá como finalidad mejorar la Seguridad en el Municipio de Aguascalientes, mediante un plan permanente, coordinado por un órgano central, responsable de orientar y supervisar el trabajo multidisciplinario y transversal entre las dependencias del Gobierno Municipal, contando también con la participación ciudadana a efecto de identificar los problemas de seguridad pública que afectan al Municipio y así prevenirlos y combatirlos de manera eficaz mediante el desarrollo e implementación de estrategias que atiendan los factores que generan la delincuencia, siempre en apego a las Leyes y Reglamentos que conforman el marco jurídico del Municipio y con base en los Protocolos, Reglamentos o Planes Permanentes que se aprueben. Para su funcionamiento, sesionará de manera trimestral de forma ordinaria, pudiendo hacerlo de manera extraordinaria en las ocasiones que el mismo Consejo lo determine.
+El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, tendrá como finalidad mejorar la Seguridad en Aguascalientes, mediante un plan permanente, y será responsable de orientar y supervisar el trabajo multidisciplinario y transversal entre las dependencias del Gobierno Municipal, contando también con la participación ciudadana a efecto de identificar los problemas de seguridad pública que afectan al Municipio y así prevenirlos y combatirlos de manera eficaz mediante el desarrollo e implementación de estrategias que atiendan los factores que generan la delincuencia, siempre en apego a las Leyes y Reglamentos que conforman el marco jurídico del Municipio y con base en los Protocolos, Reglamentos o Planes Permanentes que se aprueben. Para su funcionamiento, sesionará de manera trimestral de forma ordinaria, pudiendo hacerlo de manera extraordinaria en las ocasiones que el mismo Consejo lo determine.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE ENERO DE 2022)</small>
 
-El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; se conformará por los siguientes integrantes, quienes contaran con voz y voto:
+El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, se conformará por los siguientes integrantes, quienes contaran con voz y voto:
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 I.- Un Presidente, que será el Presidente Municipal. En todo momento podrá delegar la Presidencia en cualquier integrante del gabinete municipal y contará con voz y voto de calidad.
 
@@ -8817,87 +8853,139 @@ I.- Un Presidente, que será el Presidente Municipal. En todo momento podrá del
 
 II.- El Regidor Presidente de la Comisión Permanente de Seguridad Pública;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
 III.- El Secretario de Seguridad Pública Municipal.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 IV.- El Secretario del H. Ayuntamiento y Director General de Gobierno.
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
 V.- El Secretario de Desarrollo Social.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 VI.- El Jefe de la Oficina Ejecutiva del Presidente Municipal.
 
 VII.- (DEROGADA, P.O. 30 DE AGOSTO DE 2021)
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
 VIII.- El Director del Sistema de Desarrollo Integral de la Familia Municipal.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 IX.- El Secretario de Desarrollo Urbano.
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
 X.- El Secretario de Comunicación Social.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 XI.- El Titular del Instituto Municipal de Juventud de Aguascalientes.
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
 XII.- El Secretario de Servicios Públicos.
 
-XIII.- El Titular del Instituto Municipal de Planeación.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2022)</small>
+
+XIII.- El Titular del Instituto Municipal de Planeación y Evaluación de Aguascalientes.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 XIV.- El Titular del Instituto Municipal de la Mujer de Aguascalientes.
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
 XV.- El Titular del Instituto Municipal Aguascalentense para la Cultura.
 
-XVI.- Cinco ciudadanos elegidos por convocatoria pública, mayores de edad, que acrediten interés y conocimientos en áreas de seguridad pública, prevención de la delincuencia, prevención de las violencias, y prevención de adicciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ENERO DE 2022)</small>
 
-Los integrantes previstos en la fracción XVI, serán electos por el pleno del Cabildo previa (sic)
+XVI.- El Secretario de Economía Social y Turismo Municipal.
 
-Convocatoria Pública que emita la Comisión Permanente de Seguridad Pública del H. (sic)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ENERO DE 2022)</small>
 
-Ayuntamiento, al inicio de cada Administración Pública Municipal.
+XVII.- El Coordinador General de Delegaciones Urbanas y Rurales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ENERO DE 2022)</small>
 
-Para la coordinación y desarrollo de sus trabajos, el Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia tendrá un Secretario Técnico, quien únicamente contará con voz y el cual será electo por acuerdo de la mayoría de los integrantes de dicho Consejo a propuesta del Presidente.
+XVIII.- Un ciudadano integrante del Consejo de la Ciudad, mayor de edad que acredite interés en áreas de seguridad pública, prevención de la delincuencia, prevención de las violencias y prevención de las adicciones.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2022)</small>
+
+XIX.- Cinco ciudadanos elegidos por convocatoria pública, mayores de edad, que acrediten interés y conocimientos en áreas de seguridad pública, prevención del delito, prevención de las violencias, y prevención de adicciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE ENERO DE 2022)</small>
+
+El integrante previsto en la fracción XVIII será elegido de una terna propuesta por el Presidente del Consejo de la Ciudad ante el pleno del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+
+Los integrantes previstos en la fracción XIX, serán electos por el pleno del Cabildo previa Convocatoria Pública que emita la Comisión Permanente de Seguridad Pública del H. Ayuntamiento, al inicio de cada Administración Pública Municipal.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+
+Para la coordinación y desarrollo de sus trabajos, el Consejo, tendrá un Secretario, quién únicamente contará con voz que será electo por acuerdo de la mayoría de los integrantes del Consejo a propuesta de su Presidente.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
 
 ARTÍCULO 619 BIS.- El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, contará para trabajar y operativizar sus determinaciones, con un Comité Técnico, que sesionará en reuniones de trabajo trimestrales de manera ordinaria o en extraordinarias fuera de este caso. Este Comité rendirá informes al Consejo en las sesiones ordinarias de éste, pudiendo citar a integrantes de las diferentes áreas del Municipio para tratar temas relacionados con el funcionamiento transversal del Municipio en atención a sus atribuciones.
 
 El Comité Técnico se formará con los siguientes integrantes:
 
-I.- El Jefe de la Oficina Ejecutiva del Presidente Municipal quien lo presidirá.
+I.- El Jefe de la Oficina Ejecutiva del Presidente Municipal, quien lo presidirá.
 
-II.- El Coordinador Jurídico de la Secretaría de Seguridad Pública Municipal, quien fungirá como Secretario Técnico.
+II.- El Coordinador de Asuntos Jurídicos de la Secretaría de Seguridad Pública Municipal, quien fungirá como Secretario Técnico.
 
 III.- El Regidor Presidente de la Comisión Permanente de Seguridad Pública.
 
-IV.- El Titular del Estado Mayor.
+IV.- El Titular del Instituto Municipal de la Mujer de Aguascalientes.
 
-V.- El Titular de la Dirección de Prevención del Delito.
+V.- El Titular del Instituto Municipal Aguascalentense para la Cultura.
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2021)</small>
+VI.- El Titular del Instituto Municipal de Planeación y Evaluación de Aguascalientes.
 
-VI.- El Director de Juzgados Cívicos.
+VII.- El Titular de la Coordinación General de Delegaciones Urbanas y Rurales.
 
-VII.- El Titular de la Dirección de Parques y Jardines.
+VIII.- El Titular de la Dirección de Estado Mayor.
 
-VIII.- El Titular de la Dirección de Limpia.
+IX.- El Titular de la Dirección de Prevención de las Violencias y la Delincuencia.
 
-IX.- El Titular de la Dirección de Alumbrado.
+X.- El Titular de la Dirección de Justicia Cívica.
 
-X.- El Titular de la Dirección de Conservación y Mantenimiento.
+XI.- El Titular de la Dirección de Parques y Jardines.
 
-XI.- El Titular de la Dirección de Reglamentos.
+XII.- El Titular de la Dirección de Limpia y Aseo Público.
 
-XII.- El Titular del Instituto Municipal de la Mujer de Aguascalientes.
+XIII.- El Titular de la Dirección de Alumbrado Público.
 
-XIII.- El Titular del Instituto Municipal Aguascalentense para la Cultura.
+XIV.- El Titular de la Dirección de Conservación y Mantenimiento de Obra.
 
-XIV.- El Titular de la Dirección de Control Urbano.
+XV.- El Titular de la Dirección de Reglamentos.
 
-XV.- El Titular de la Dirección de Educación, Cultura Física y Deporte.
+XVI.- El Titular de la Dirección de Control Urbano.
 
-XVI.- El Titular de la Dirección de Programas Sociales.
+XVII.- El Titular de la Dirección de Activación Física, Recreación y Deporte.
 
-XVII.- Un representante del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia; y
+XVIII.- El Titular de la Dirección de Educación.
 
-XVIII.- Y quienes el Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia considere pertinentes.
+XIX.- El Titular de la Dirección de Programas Sociales.
+
+XX.- El Titular de la Dirección de Desarrollo Social.
+
+XXI.- El Titular de la Dirección de Programas Institucionales.
+
+XXII.- El Titular de la Dirección de Economía y Atracción de Inversiones.
+
+XXIV (SIC).- El Titular de la Dirección de Salud Pública Municipal.
+
+XXI (SIC). Y quienes el Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia considere pertinentes.
+
+El Comité Técnico podrá citar a integrantes de las diferentes áreas del Municipio para tratar temas relacionados con el funcionamiento transversal del Municipio en atención a sus atribuciones.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -24243,9 +24331,9 @@ SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el pr
 
 P.O. 22 DE NOVIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
-PRIMERO.– Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -24259,13 +24347,13 @@ QUINTO.- El personal adscrito a la Dirección de Salud Pública que sea trasferi
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.– La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+SEXTO.- La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
 
-SÉPTIMO.– La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
+SÉPTIMO.- La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
 
-OCTAVO.– La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+OCTAVO.- La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
-NOVENO.– Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+NOVENO.- Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
 DÉCIMO.- La Coordinación General de la Salud, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Coordinación, con el fin de que se encuentre conforme a la presente reforma.
 
@@ -24275,7 +24363,7 @@ DÉCIMO SEGUNDO.- Todos los trámites que hubiesen iniciado bajo la vigencia de 
 
 DÉCIMO TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Director de Salud Pública, se entenderán hechas o conferidas a la actual Coordinación General de Salud.
 
-DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado “De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes”, que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado “De la Coordinación General de Salud” que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
+DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado "De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes", que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado "De la Coordinación General de Salud" que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
 
 DÉCIMO QUINTO.- Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones.
 
@@ -24286,3 +24374,21 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. - Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal del Municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO. - Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O.3 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 82 DEL CÓDICO MUNICIPAL DE AGUSCALIENTES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Presidente Municipal tendrá un plazo de veinte días hábiles contados a partir de la entrada en vigor del presente Decreto para proponer a las y los integrantes de Cabildo que conformarán la Comisión de Comunicación Social.
+
+TERCERO.- Una vez que se definan los integrantes de la Comisión de Comunicación Social, tendrán un plazo no mayor de 10 días hábiles a partir de su nombramiento para poder instalar la Comisión.
+
+CUARTO.- La Comisión de Comunicación Social tendrá un plazo de 90 días hábiles después de su instalación para expedir el Reglamento de Comunicación Social del Municipio.
+
+P.O. 3 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA A LOS ARTÍCULOS 619 Y 619 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
