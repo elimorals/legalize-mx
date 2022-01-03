@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2021-08-02"
+last_updated: "2022-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2022.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -13641,7 +13641,9 @@ Si después de terminado el plazo por el que se celebró el arrendamiento, el ar
 
 El arrendador puede exigir la rescisión del contrato:
 
-I.- Por la falta de pago de la renta en los términos prevenidos en los artículos 2323 y 2325;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2022)</small>
+
+I.- Por falta de pago de la renta o de los servicios u obligaciones accesorias, en los términos prevenidos en los artículos 2323, 2325 y 2296 fracciones I y V;
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2296;
 
@@ -14659,13 +14661,17 @@ Los asociados sólo podrán ser excluidos de la sociedad por las causas que señ
 
 Los asociados que voluntariamente se separen o fueren excluídos, perderán todo derecho al haber social, salvo pacto en contrario que se consigne en los Estatutos respectivos.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+
 ###### Artículo 2557.
 
-Los socios tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de contabilidad y demás papeles de ésta.
+Los asociados tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de contabilidad y demás papeles de ésta.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
 
 ###### Artículo 2558.
 
-La calidad de socio es intransferible.
+La calidad de asociado es intransferible.
 
 ###### Artículo 2559.
 
@@ -16667,15 +16673,21 @@ Artículo 2890 BIS.- El principio de la prioridad o prelación, consiste en que 
 
 Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse, deberá solicitar del Registro Público de la Propiedad el certificado sobre la existencia o inexistencia de la inscripción a favor del titular registral, sobre las anotaciones preventivas y los gravámenes que reporte el inmueble o derecho, o la libertad de los mismos.
 
-En dicha solicitud, que surtirá efectos de primer aviso preventivo, deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con esta solicitud, y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales contados a partir de la fecha de su presentación.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+
+En dicha solicitud, que surtirá efectos de primer aviso preventivo, deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con esta solicitud y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de sesenta días naturales contados a partir de la fecha de su presentación.
 
 Derivado de la solicitud referida, se deberá expedir a costa del solicitante el certificado correspondiente, en el que se hagan constar las anotaciones a que se refiere el primer párrafo de este Artículo.
 
-Si mientras tanto se presentare al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los treinta días naturales posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+
+Si mientras tanto se presentare al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que, si dentro de los sesenta días naturales posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
 
 Una vez firmada una escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo primero, el Notario ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo segundo de este Artículo, la fecha de la escritura y la de su firma, el instrumento y volumen, de lo que se tomará razón. El Registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan. Una vez dado el segundo aviso preventivo el Registrador en los subsecuentes certificados que expida dejará constancia del mismo.
 
-En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de treinta días a que se refiere el párrafo segundo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+
+En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de sesenta días a que se refiere el párrafo segundo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
 
 Si el testimonio respectivo se presenta al Registro dentro del término a que se refiere el párrafo segundo de este Artículo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
 
@@ -17524,3 +17536,27 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 3 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 52.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2360 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 54.- SE REFORMAN LOS ARTÍCULOS 2557 Y 2558 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 55.- SE REFORMAN LOS PÁRRAFOS SEGUNDO, CUARTO Y SEXTO DEL ARTÍCULO 2891 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
