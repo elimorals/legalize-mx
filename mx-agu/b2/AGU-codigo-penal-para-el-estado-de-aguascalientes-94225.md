@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2021-05-31"
+last_updated: "2022-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1475,7 +1475,9 @@ Violencia familiar. La violencia familiar consiste en usar la fuerza física o m
 
 Se consideran autores de violencia familiar a los cónyuges, la concubina o el concubino, el pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el adoptante o el adoptado y el pariente por afinidad hasta el cuarto grado.
 
-Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión de 50 a 100 días de multa, así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+
+Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión de 50 a 100 días de multa, así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta y se le someterá a tratamiento psicológico para su reinserción, de conformidad con lo dispuesto por el artículo 73 A de este Código.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -1487,9 +1489,9 @@ Cuando la violencia se ejerza sobre personas menores de edad, personas de sesent
 
 Violencia a partir de una relación de pareja.- La violencia a partir de una relación de pareja consiste en la fuerza física o psicológica que ejerza una persona en contra de otra en una relación de pareja y que ello le cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
 
-Al responsable de violencia a partir de una relación de pareja se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad.
+Al responsable de violencia a partir de una relación de pareja se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 o mayor de 60 años de edad.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
 
@@ -3534,5 +3536,13 @@ P.O. 31 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 557.- SE DEROGA EL ARTÍCULO 75-A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 53.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 132 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 133 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
