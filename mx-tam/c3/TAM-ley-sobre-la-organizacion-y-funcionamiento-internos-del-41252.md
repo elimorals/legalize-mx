@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2021-12-14"
+last_updated: "2022-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -585,9 +585,9 @@ k) Desarrollo Urbano y Puertos;
 
 l) Desarrollo Sustentable;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2022)</small>
 
-m) Comunicaciones y Transportes;
+m) Comunicaciones, Transportes y Movilidad;
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
@@ -3570,3 +3570,11 @@ P.O. 14 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-93 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, PÁRRAFO 2, INCISO M) DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
