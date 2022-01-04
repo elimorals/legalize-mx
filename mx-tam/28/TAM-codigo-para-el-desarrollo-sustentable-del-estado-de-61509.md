@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2021-09-30"
+last_updated: "2022-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -623,7 +623,9 @@ II. Fomentar la incorporación de información confiable y suficiente sobre las 
 
 III. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, actuará para que quienes dañen el medio ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
 
-IV. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de las políticas ambiental y de desarrollo sustentable;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2022)</small>
+
+IV. Promover una mayor equidad social, con perspectiva intercultural y de género, en la distribución de costos y beneficios asociados a los objetivos de las políticas ambientales y de desarrollo sustentable;
 
 V. Impulsar la participación de los sectores social y privado en proyectos de preservación, conservación y aprovechamiento sustentable de los recursos naturales y medio ambiente de competencia estatal; y
 
@@ -5360,3 +5362,11 @@ Los municipios y/o quienes operen sitios de disposición final de residuos sóli
 ###### ARTÍCULO SEXTO.
 
 Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65 -109 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, FRACCIÓN IV, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
