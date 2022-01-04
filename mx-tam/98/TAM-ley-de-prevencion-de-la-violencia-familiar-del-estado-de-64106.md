@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2021-07-14"
+last_updated: "2022-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -134,6 +134,10 @@ X. Tratamiento integral: Son las acciones, programas o estrategias tendientes a 
 3. En el Poder Judicial del Estado, corresponde aplicar la presente ley por conducto de los juzgados civiles y la Sala de alzada.
 
 4. Las Secretarías y entidades referidas en el presente artículo, se coordinarán e implementarán los programas o acciones de prevención, atención y asistencia a víctimas de la violencia familiar. Al efecto, establecerán los mecanismos de coordinación institucional correspondientes que resulten necesarios para el cumplimiento del objeto y fines de esta ley, así como de las demás disposiciones de la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2022)</small>
+
+5. Todos los servidores públicos de las dependencias o entidades estatales que en el ejercicio de sus funciones tengan conocimiento de incidentes relacionados con la violencia familiar, deberán hacerlo del conocimiento del Consejo o de la autoridad competente.
 
 ###### Artículo 6.
 
@@ -387,9 +391,39 @@ IV. Las demás que le confieren las leyes correspondientes.
 
 Una vez que conozcan de juicios o procesos en donde se desprenda que existe violencia familiar, a través de sus titulares, los órganos jurisdiccionales deberán solicitar al Sistema para el Desarrollo Integral de la Familia del Estado o del municipio en que se ventile el proceso, o, en su caso, a las instituciones debidamente acreditadas ante el Consejo, la realización de los estudios e investigaciones correspondientes, las que remitirán los informes, dictámenes, procesos psicoterapéuticos de agresores y receptores de violencia familiar y, en general, todos aquellos que les sean de utilidad.
 
-### CAPITULO VI. DE LOS PROCEDIMIENTOS DE SOLUCION ALTERNATIVA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2022)</small>
 
-### CAPITULO VII. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO V BIS. DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2022)</small>
+
+###### Artículo 23 Bis.
+
+1. Siempre que un servidor público, intervenga en el uso de sus funciones, en cuestiones de violencia familiar, deberá:
+
+I. Informar a las personas de manera clara, sencilla y concreta sobre los servicios públicos o privados disponibles para la atención de violencia familiar;
+
+II. Remitir de inmediato al Ministerio Público aquellos casos donde prevea la existencia de un delito;
+
+III. Canalizarla de inmediato, dependiendo de su propia competencia, a alguna institución de salud, cuando acuda una persona que indique que ha sufrido golpes, heridas o cualquier daño físico aunque éste no sea visible, o de tipo emocional, que requiera intervención médica, sin perjuicio de que se le sea proporcionada la ayuda urgente
+
+necesaria, así como también si la persona sólo expresa razonable temor, de sufrir agresiones probablemente graves en su persona o familiares; y
+
+IV. Asistir a la capacitación, correspondiente que en materia de violencia familiar se imparta.
+
+2. La capacitación tendrá una estrategia que deberá estar dirigida a la prevención, sensibilización, atención y comprensión de la complejidad de este fenómeno social.
+
+###### Artículo 23 Ter.
+
+1. Las instituciones, organismos e instancias públicas o, privadas que conozcan o atiendan casos en los que sea presumible la existencia de violencia familiar, remitirán a la autoridad competente, reportes individualizados en los que, se haga una exposición general del problema que les fue planteado, así como las acciones que se tomaron de forma inmediata.
+
+2. En los informes también se podrá solicitar al Consejo apoyo para la solución del problema planteado, si este ha sido atendido.
+
+3. El apoyo podrá ser informativo, o de soporte técnico para la implementación de los modelos de atención aplicables al caso concreto.
+
+4. Lo anterior a fin de que se pueda dar seguimiento a todos los casos de maltrato familiar que se registren por las autoridades del Estado.
+
+### CAPITULO VI. DE LOS PROCEDIMIENTOS DE SOLUCION ALTERNATIVA
 
 ###### Artículo 24.
 
@@ -415,7 +449,7 @@ Una vez que conozcan de juicios o procesos en donde se desprenda que existe viol
 
 Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios que se elaboren en términos de los artículos anteriores, el interesado podrá acudir ante la autoridad jurisdiccional respectiva para exigir su cumplimiento, sin de mérito de que sea factible aplicar alguna sanción administrativa.
 
-### CAPITULO VIII. DE LOS MEDIOS DE IMPUGNACION
+### CAPITULO VII. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 27.
 
@@ -454,6 +488,8 @@ II. Arresto administrativo inconmutable hasta por 36 horas.
 ###### Artículo 30.
 
 Para la acreditación de las infracciones o de la reincidencia a que hacen mención los artículos anteriores, se citará nuevamente a las partes para que éstas manifiesten lo que a su derecho convenga, antes de que se sancione dicho incumplimiento.
+
+### CAPITULO VIII. DE LOS MEDIOS DE IMPUGNACION
 
 ###### Artículo 31.
 
@@ -530,3 +566,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No.65-92 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO 5 AL ARTÍCULO 5; UN CAPÍTULO V BIS DENOMINADO “DE LOS SERVIDORES PÚBLICOS” Y LOS ARTÍCULOS 23 BIS Y 23 TER, DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
