@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-de-la-ciudad-de-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-18"
-last_updated: "2021-05-04"
+last_updated: "2022-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122599&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-07-10"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ENERO DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 18 de julio de 2017.
 
@@ -41,6 +41,8 @@ REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 ###### Artículo 1.
 
 Las disposiciones del presente ordenamiento son de observancia general en el Tribunal Electoral de la Ciudad de México y tienen por objeto reglamentar su organización, funcionamiento y las atribuciones de sus respectivos órganos, de conformidad con lo dispuesto en la Constitución Política de la Ciudad de México y las leyes en materia electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
 
 ###### Artículo 2.
 
@@ -102,6 +104,8 @@ m) Unidad Especializada: Unidad Especializada de Procedimientos Sancionadores de
 
 n) Comisión de Controversias: La Comisión de Controversias Laborales y Administrativas del Tribunal Electoral de la Ciudad de México.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
+
 IV. En lo que se refiere a los conceptos:
 
 a) Gaceta: La Gaceta Oficial de la Ciudad de México;
@@ -118,11 +122,17 @@ e) Sesión(es): La sesión/es públicas que lleve a cabo el Pleno para conocer d
 
 f) Sentencia: La resolución aprobada por el Pleno del Tribunal Electoral de la Ciudad de México, en virtud de la cual se confirma, revoca o modifica el acto o resolución impugnada; se tiene por no presentado el juicio; o bien, se desecha o sobresee el medio de impugnación o procedimiento especial;
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE ENERO DE 2022)</small>
 
-g) Sistema de medios de impugnación: El conjunto de procedimientos contenciosos establecidos en la Ley Procesal Electoral para la Ciudad de México, que permiten garantizar la legalidad y definitividad de los actos y resoluciones electorales, así como la salvaguarda de los derechos político electorales de la ciudadanía, y
+g) Sistema de Justicia Digital Electoral: Es el conjunto de herramientas informáticas y soluciones digitales de comunicación e información que permite la tramitación y sustanciación de un proceso jurisdiccional ante el Tribunal como opción de acceso a la justicia para la ciudadanía.
 
-h) Titular(es) de área: La Magistrada o el Magistrado Presidente; las Magistradas y los Magistrados; la o el Secretario General; la o el Secretario Administrativo; la o el Director General Jurídico; la o el Contralor Interno; la o el Defensor Ciudadano; las y los Coordinadores de área (de Archivo, de Transparencia y Datos Personales; de Comunicación Social y Relaciones Públicas; de Difusión y Publicación, de Vinculación y Relaciones Internacionales; así como de Derechos Humanos y Género); las y los Directores del Instituto de Capacitación, de la Unidad de Servicios Informáticos, de la Unidad Especializada de Procedimientos Sancionadores y de la Unidad de Estadística y Jurisprudencia.
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 5 DE ENERO DE 2022)</small>
+
+h) Sistema de medios de impugnación: El conjunto de procedimientos contenciosos establecidos en la Ley Procesal Electoral para la Ciudad de México, que permiten garantizar la legalidad y definitividad de los actos y resoluciones electorales, así como la salvaguarda de los derechos político electorales de la ciudadanía, y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 5 DE ENERO DE 2022)</small>
+
+i) Titular(es) de área: La Magistrada o el Magistrado Presidente; las Magistradas y los Magistrados; la o el Secretario General; la o el Secretario Administrativo; la o el Director General Jurídico; la o el Contralor Interno; la o el Defensor Ciudadano; las y los Coordinadores de área (de Archivo, de Transparencia y Datos Personales; de Comunicación Social y Relaciones Públicas; de Difusión y Publicación, de Vinculación y Relaciones Internacionales; así como de Derechos Humanos y Género); las y los Directores del Instituto de Capacitación, de la Unidad de Servicios Informáticos, de la Unidad Especializada de Procedimientos Sancionadores y de la Unidad de Estadística y Jurisprudencia.
 
 ## TÍTULO SEGUNDO. DEL TRIBUNAL
 
@@ -276,9 +286,11 @@ e) Exigir el cumplimiento de todas sus resoluciones, así como resolver todas aq
 
 De conformidad con el principio de publicidad en materia electoral, el Pleno sesionará públicamente para la resolución de los asuntos, salvo cuando el propio órgano o la Magistrada o el Magistrado Presidente determinen que la sesión sea o deba continuar en privado, en términos de lo establecido en los artículos 182 y 184, fracción II del Código; así como 32 de la Ley Procesal Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 8.
 
-En las sesiones públicas para el conocimiento y resolución de los asuntos jurisdiccionales, se observará el procedimiento siguiente:
+En las sesiones públicas y en aquellas a distancia que así lo determine el Pleno por causas especiales, de emergencia o fortuitas, para el conocimiento y resolución de los asuntos jurisdiccionales, se observará el procedimiento siguiente:
 
 I. La o el Secretario General verificará el quórum legal para sesionar y dará lectura a la lista de asuntos que se analizarán y resolverán en la sesión. El orden de los asuntos listados podrá modificarse libremente por el Pleno, cuando así lo estime más conveniente;
 
@@ -320,9 +332,11 @@ El proyecto que no haya sido aprobado podrá agregarse a la sentencia como voto 
 
 b) Si el proyecto es rechazado por considerar que deben realizarse diligencias adicionales, el Pleno acordará que el expediente se returne a alguna Magistrada o Magistrado que integren la mayoría, para que continúe con su sustanciación y, en su oportunidad, presente a consideración del Pleno el proyecto de resolución correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 10.
 
-Las Reuniones se sujetarán a los lineamientos siguientes:
+Las Reuniones presenciales y a distancia se sujetarán a los lineamientos siguientes:
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -344,9 +358,11 @@ IV. Cualquier Magistrada o Magistrado, bajo su más estricta responsabilidad, po
 
 V. Las personas Titulares de los órganos o áreas podrán concurrir a las reuniones e intervenir en ellas, únicamente cuando sean requeridos para atender algún asunto de su competencia. Asimismo, en casos extraordinarios, podrán recibir directamente del Pleno las instrucciones, a fin de que éstas puedan atenderse oportunamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 11.
 
-En las Reuniones se observará el procedimiento siguiente:
+En las Reuniones presenciales o a distancia que así determine el Pleno por causas especiales, de emergencia o fortuitas, se observará el procedimiento siguiente:
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -476,6 +492,8 @@ No podrán otorgarse licencias a las Magistradas y los Magistrados durante los p
 
 Las Magistradas y los Magistrados a quienes se otorgue licencia, deberán avisar de su reincorporación mediante escrito dirigido a la o el Magistrado Presidente, a más tardar al día hábil siguiente a la conclusión de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 20.
 
 El Pleno calificará y resolverá de inmediato las excusas de sus integrantes, de conformidad con el siguiente procedimiento:
@@ -488,9 +506,9 @@ II. Recibido el escrito, la o el Magistrado Presidente, a la brevedad, convocar�
 
 III. En caso de que la excusa sea admitida, la Magistrada o Magistrado que se encuentre en el supuesto, no podrá estar presente ni intervenir en la calificación de la misma, ni en la discusión y resolución del asunto que la motivó;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 5 DE ENERO DE 2022)</small>
 
-IV. Tratándose de juicios competencia del Tribunal, si la excusa fuera admitida y el asunto hubiera sido turnado para su substanciación a la Magistrada o Magistrado impedido, la Presidencia volverá a turnar el expediente a la Magistrada o Magistrado que por orden corresponda, de conformidad con las reglas previstas en la Ley Procesal Electoral. El acuerdo plenario respectivo deberá obrar en el expediente principal y ser notificado personalmente a las partes;
+IV. Tratándose de juicios competencia del Tribunal, si la excusa fuera admitida y el asunto hubiera sido turnado para su substanciación a la Magistrada o Magistrado impedido, la Presidencia volverá a turnar el expediente a la Magistrada o Magistrado que por orden corresponda, de conformidad con las reglas previstas en la Ley Procesal Electoral. El acuerdo plenario respectivo deberá obrar en el expediente principal y ser notificado físicamente o de forma electrónica, de ser el caso, a las partes;
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -616,7 +634,7 @@ Las ausencias de la Secretaria o el Secretario General por motivos de salud, dis
 
 La vacante del titular de la Secretaría General será cubierta temporalmente por una persona encargada de despacho, que será designada por la Magistrada o el Magistrado Presidente, en términos del artículo 184, fracción XII del Código, hasta en tanto el Pleno determine lo conducente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
 
 ###### Artículo 26.
 
@@ -652,7 +670,17 @@ XI. (DEROGADA, G.O. 1 DE MARZO DE 2018)
 
 XII. Supervisar los archivos de la Secretaría General, y
 
-XIII. Las demás previstas en el Código o las que le encomiende el Pleno y/o la Magistrada o el Magistrado Presidente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE ENERO DE 2022)</small>
+
+XIII. Supervisar que se mantenga actualizado, en el ámbito de su competencia el Sistema de Justicia Digital Electoral para su consulta interna y externa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE ENERO DE 2022)</small>
+
+XIV. Vigilar que se realice la digitalización de la documentación y actuaciones que se requieran incorporar a un expediente electrónico, así como certificar las constancias de los expedientes electrónicos y las reproducciones en los medios electrónicos de dichas actuaciones, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 5 DE ENERO DE 2022)</small>
+
+XV. Las demás previstas en el Código o las que le encomiende el Pleno y/o la Magistrada o el Magistrado Presidente.
 
 ###### Artículo 27.
 
@@ -752,11 +780,11 @@ IX. Remitir al área correspondiente copia simple de todas las determinaciones p
 
 X. Aquellas encomendadas por la instancia superior jerárquica, relacionadas con sus atribuciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ENERO DE 2022)</small>
 
 ###### Artículo 31.
 
-En la Oficina de Actuaría, las personas servidoras públicas se encargan de realizar las notificaciones, actos de comunicación y ejecución a las personas justiciables, dentro o fuera del recinto del Tribunal, así como todas las diligencias que se ordenen por resolución jurisdiccional, por disposición expresa de la Ley Procesal Electoral y demás ordenamientos aplicables. Desempeñan, además, aquellas labores que les encomiende el Pleno, la Presidencia, la Magistrada o el Magistrado Instructor o la Secretaría General, para lo cual deberán atender a lo siguiente:
+En la Oficina de Actuaría, las personas servidoras públicas se encargan de realizar las notificaciones, incluidas aquellas que se hayan solicitado vía electrónica a través del Sistema de Justicia Digital Electoral, actos de comunicación y ejecución a las personas justiciables, dentro o fuera del recinto del Tribunal, así como todas las diligencias que se ordenen por resolución jurisdiccional, por disposición expresa de la Ley Procesal Electoral y demás ordenamientos aplicables. Desempeñan, además, aquellas labores que les encomiende el Pleno, la Presidencia, la Magistrada o el Magistrado Instructor o la Secretaría General, para lo cual deberán atender a lo siguiente:
 
 I. Practicar, en tiempo y forma, las diligencias jurisdiccionales y/o administrativas que para tal efecto fije la legislación aplicable al caso específico, asentando las circunstancias materiales y jurídicas, en la razón atinente. Hecho lo anterior, deberán remitirlas a la Ponencia o área que haya ordenado su desahogo, y recabar en la libreta correspondiente el acuse de recibido;
 
@@ -784,11 +812,15 @@ VII. Coadyuvar en las diversas actividades administrativas y/o jurisdiccionales 
 
 VIII. Las demás que le sean aplicables en materia de administración de documentos y archivos, y
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE ENERO DE 2022)</small>
 
-IX. Aquellas que se determinen en la normativa aplicable, así como las que la instancia jerárquicamente superior le encomiende en relación con su puesto.
+IX. Tratándose de las notificaciones electrónicas, éstas se realizarán a través del Sistema de Notificaciones Electrónicas de conformidad con el procedimiento establecido por el Pleno.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 5 DE ENERO DE 2022)</small>
+
+X. Aquellas que se determinen en la normativa aplicable, así como las que la instancia jerárquicamente superior le encomiende en relación con su puesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
 
 ###### Artículo 32.
 
@@ -810,7 +842,13 @@ Si a pesar de no haber hecho la notificación en la forma en que la Ley Procesal
 
 Tratándose de notificaciones que deban practicarse por oficio a las autoridades electorales o intrapartidistas, cuyas oficinas se encuentren cerradas, la actuaria o actuario levantará el acta circunstanciada atinente, la cual, hará las veces de citatorio, dejando copia de la misma en la puerta de acceso principal. En caso de que la autoridad o entidad partidaria persista en su conducta contumaz, la o el actuario levantará la respectiva acta circunstanciada, dejándole copia de la misma junto con la determinación procesal a notificar. En caso de actualizarse la presente hipótesis, se tendrá por practicada la notificación con todos sus efectos que ello conlleve. De todo lo anterior, se asentará la razón correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
+
 Cuando las autoridades electorales o los partidos políticos autoricen ser notificados mediante correo electrónico, la notificación se practicará en la dirección electrónica institucional que hayan proporcionado, entendiendo la diligencia con la persona autorizada, quien a su vez acusará recibo de la notificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE ENERO DE 2022)</small>
+
+Cuando las partes soliciten recibir notificaciones electrónicas éstas se realizarán de conformidad con lo dispuesto en el artículo 62 de la Ley Procesal Electoral, mediante el procedimiento que para tal efecto autorice el Pleno.
 
 Independientemente de la forma en que se ordene la notificación, la o el actuario tendrá la obligación de publicarlo en los estrados del Tribunal, a fin de cumplir a cabalidad con el principio de publicidad procesal previsto en el artículo 2, párrafo tercero del Código y 32 de la Ley Procesal Electoral. Se excepciona de lo anterior, cuando la ley disponga lo contrario o que, a juicio de la autoridad ordenadora, se considere que se violentan principios del orden público.
 
@@ -818,19 +856,25 @@ Independientemente de la forma en que se ordene la notificación, la o el actuar
 
 Las y los actuarios en el ejercicio de sus funciones observarán los principios de certeza, legalidad, independencia, imparcialidad, objetividad, equidad y transparencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 33.
 
 La persona titular de la Subdirección de Oficialía de Partes y Archivo Jurisdiccional tiene las atribuciones siguientes:
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 5 DE ENERO DE 2022)</small>
 
-I. Coadyuvar con la Secretaría General en el control de turno de los expedientes a las Magistradas y los Magistrados;
+I. Coadyuvar con la Secretaría General en el control de turno de los expedientes físicos y electrónicos a las Magistradas y los Magistrados;
 
-II. Llevar un libro de gobierno foliado y encuadernado en el que se registrará, por orden numérico progresivo, la documentación recibida. En los casos en que corresponda, se asentará la información relativa al tipo de juicio, demanda o documento; el nombre de quien promueve; la fecha y la hora de su recepción y el órgano del Instituto, autoridad o partido político que lo remita; el trámite que se le dio y cualquier otro dato que se considere indispensable, con relación a la naturaleza de las atribuciones encomendadas al Pleno o a las Magistradas y los Magistrados;
+> <small>(REFORMADA, G.O. 5 DE ENERO DE 2022)</small>
+
+II. Llevar un libro de gobierno foliado y encuadernado en el que se registrará, por orden numérico progresivo, la documentación recibida. En los casos en que corresponda, se asentará la información relativa al tipo de juicio, demanda o documento; el nombre de quien promueve; la fecha y la hora de su recepción y el órgano del Instituto, autoridad o partido político que lo remita; el trámite que se le dio y cualquier otro dato que se considere indispensable, con relación a la naturaleza de las atribuciones encomendadas al Pleno o a las Magistradas y los Magistrados; asimismo operará dicho supuesto para el caso de expedientes electrónicos;
 
 III. Verificar que las promociones y escritos que se reciban estén debidamente sellados y registrados, con la anotación de la fecha y hora de su presentación, así como el número que les corresponda;
 
-IV. Turnar la documentación conforme a las disposiciones contenidas en el procedimiento respectivo;
+> <small>(REFORMADA, G.O. 5 DE ENERO DE 2022)</small>
+
+IV. Turnar la documentación física que se reciba en la Oficialía de Partes o los documentos electrónicos recibidos en la Oficialía de Partes Virtual conforme a las disposiciones contenidas en el procedimiento respectivo;
 
 V. Llevar todos los registros que se consideren indispensables para el adecuado control de la documentación recibida;
 
@@ -840,7 +884,9 @@ VII. Elaborar los informes sobre la recepción de documentos relacionados con lo
 
 VIII. Inventariar y conservar los expedientes;
 
-IX. Encargarse del archivo jurisdiccional y los registros correspondientes, conforme al procedimiento respectivo;
+> <small>(REFORMADA, G.O. 5 DE ENERO DE 2022)</small>
+
+IX. Encargarse del archivo jurisdiccional físico y digital, así como de los registros correspondientes, conforme al procedimiento respectivo;
 
 X. Hacer del conocimiento de la Secretaría General cualquier defecto o irregularidad que advierta en los expedientes o documentos que reciba para su archivo, a fin de que, de ser material y técnicamente posible, se corrijan;
 
@@ -878,13 +924,19 @@ Hecho lo anterior, se turnará al Magistrado o Magistrada Instructora que primig
 
 En los casos en que sea necesario efectuar el returno de algún asunto previamente turnado a alguna de las Magistraturas Instructoras, se atenderá en principio a las reglas establecidas en el artículo 80, fracción I de la Ley Procesal, al equilibrio en las cargas de trabajo, o bien, a la determinación plenaria correspondiente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
 
 ###### Artículo 36.
 
 En las etapas de los procesos electorales y de participación ciudadana, la Oficialía de Partes y la Oficina de Actuaría funcionarán las veinticuatro horas del día, conforme al rol de guardias de su personal y atendiendo a las cargas de trabajo, únicamente para la atención de los asuntos vinculados a dichos procesos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
+
 Fuera de los procesos antes referidos, la Oficialía de Partes funcionará solamente los días hábiles, debiendo entenderse por tales, de lunes a viernes a excepción de los que determinen las leyes o el Pleno mediante acuerdo; en un horario ininterrumpido de las nueve a las diecinueve horas, excepto los días de término para la presentación de demandas de amparo y medios de impugnación en materia electoral de competencia federal, los cuales deberán entenderse de veinticuatro horas naturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE ENERO DE 2022)</small>
+
+Por lo que hace a la Oficialía de Partes Virtual, operará en un horario de veinticuatro horas. En este caso, la documentación recibida será tramitada y remitida a la Magistratura o área jurisdiccional respectiva, al día siguiente hábil conforme a lo señalado en el párrafo anterior.
 
 Asimismo, se entenderán de veinticuatro horas naturales aquellos días en los que esté señalado término para el desahogo de requerimientos o vistas ordenados por la Magistrada o Magistrado Instructor, siempre y cuando el vencimiento ocurra después de las diecinueve horas y se trate del último día.
 
@@ -892,13 +944,27 @@ Asimismo, se entenderán de veinticuatro horas naturales aquellos días en los q
 
 El horario de labores de la Oficialía de Partes para la recepción de documentos, de la Oficina de Actuaría, así como del personal adscrito a dicha área será el que determine la Secretaría General, previo acuerdo con el Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 37.
 
 Conforme a la disponibilidad presupuestal, se procederá a la microfilmación o digitalización de los expedientes concluidos, para facilitar su consulta por cualquier persona, observando en todo momento lo dispuesto por la ley en materia de datos personales y los lineamientos que al efecto emita el órgano competente en dicha materia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE ENERO DE 2022)</small>
+
+Los expedientes físicos que sean digitalizados deberán seguir el mismo procedimiento que se sigue para el expediente electrónico, y de conformidad con lo establecido en los respectivos lineamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 38.
 
-De conformidad con el principio de máxima publicidad en materia electoral a que se refiere el artículo 2, párrafo tercero del Código, así como 32 y 33 de la Ley Procesal Electoral, los expedientes de los juicios promovidos, podrán ser consultados por las partes o por quienes éstas autoricen para tal efecto, siempre que ello no obstaculice su pronta y expedita sustanciación y resolución; asimismo, las partes podrán solicitar copias simples o certificadas a su costa.
+De conformidad con el principio de máxima publicidad en materia electoral a que se refiere el artículo 2, párrafo tercero del Código, así como 32 y 33 de la Ley Procesal Electoral, los expedientes físicos y electrónicos de los juicios promovidos, podrán ser consultados por las partes o por quienes éstas autoricen para tal efecto, siempre que ello no obstaculice su pronta y expedita sustanciación y resolución; asimismo, las partes podrán solicitar copias simples o certificadas a su costa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE ENERO DE 2022)</small>
+
+Para el caso de los expedientes electrónicos, las partes podrán solicitar la reproducción simple o certificada de cualquier constancia que obre en los mismos, siempre y cuando se autorice mediante acuerdo de la Magistratura Instructora que corresponda.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
 
 Una vez que los expedientes hayan concluido en forma definitiva, cualquier persona podrá consultarlos, con las limitaciones que respecto de la protección de datos personales establezca la ley de la materia.
 
@@ -1990,6 +2056,8 @@ VII. Desarrollen el conocimiento profesional y técnico del personal para la rea
 
 La Magistrada o el Magistrado Presidente, propondrá al Pleno el nombramiento o remoción de las o los Directores de las Unidades. Para ocupar estos cargos, se deberán cumplir con los requisitos académicos y laborales previstos en el Manual de Organización y Funcionamiento del Tribunal, previo dictamen de la Secretaría Administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE ENERO DE 2022)</small>
+
 ###### Artículo 78.
 
 Además de las atribuciones conferidas en el Código, la persona titular de la Unidad de Servicios Informáticos tiene las siguientes:
@@ -2000,9 +2068,9 @@ I. Proveer los servicios de un administrador de contenidos para la capacitación
 
 II. Administrar la infraestructura de los sitios de Internet, Intranet y Transparencia del Tribunal y proporcionar a los diferentes órganos o áreas del Tribunal, los medios para la publicación de la información, de acuerdo a las leyes, reglamentos y normativa que el Tribunal debe cumplir;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 5 DE ENERO DE 2022)</small>
 
-III. Coordinar, con la Secretaría Administrativa, la sistematización de los procesos administrativos, así como la actualización y mantenimiento de los sistemas administrativos existentes;
+III. Coordinar, con la Secretaría Administrativa, la sistematización de los procesos administrativos, así como la actualización y mantenimiento de los sistemas administrativos e informáticos existentes;
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -2525,3 +2593,11 @@ G.O. 4 DE MAYO DE 2021.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en los estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
+
+G.O. 5 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO PARA IMPLEMENTAR EL SISTEMA DE JUSTICIA DIGITAL ELECTORAL".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en los estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
