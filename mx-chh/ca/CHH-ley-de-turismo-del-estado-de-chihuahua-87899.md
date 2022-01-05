@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2021-09-04"
+last_updated: "2022-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -213,9 +213,9 @@ I. La persona titular de la Secretaría, quien lo presidirá, pudiendo designar 
 
 II. El Titular de la Secretaría de Hacienda, o la persona que éste designe.
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2022)</small>
 
-III. La persona que presida la Comisión de Economía, Turismo y Servicios del H. Congreso del Estado.
+III. La persona que presida la Comisión de Turismo y Cultura del H. Congreso del Estado.
 
 IV. Los Presidentes de los Consejos Consultivos Regionales, mismos que participarán en función de su adscripción territorial atendiendo a la Agenda prevista por el Presidente del Consejo.
 
@@ -768,3 +768,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0098/2021 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7, FRACCIÓN III, DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
