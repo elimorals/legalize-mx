@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2020-05-06"
+last_updated: "2022-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE MAYO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NO. LXVI/RFLEY/0713/2020 PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -951,11 +949,11 @@ La sesión se sujetará a lo dispuesto por la Ley, se desahogará de conformidad
 
 Reunidos en el Recinto Oficial, en el día y la hora indicada para la celebración de la sesión, quien presida la Mesa Directiva hará sonar la campana y declarará su inicio formal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 92.
 
-Las y los diputados deberán registrar su asistencia a través del Sistema Electrónico y, de ser necesario, quien presida la Mesa Directiva solicitará a una de las Secretarías les tome lista de asistencia e informe su resultado. En la realización de sesiones mediante acceso remoto o virtual, el registro de asistencia se llevará por conducto de la Secretaría de la Mesa Directiva, en la modalidad que permita tener la certeza del resultado de la asistencia.
+Las y los diputados deberán registrar su asistencia a través del Sistema Electrónico, el cual se abrirá quince minutos antes de la hora prevista para el inicio de la sesión, a fin de contabilizar el quórum legal; de ser necesario, quien presida la Mesa Directiva solicitará a una de las Secretarías les tome lista de asistencia e informe su resultado. En la realización de sesiones mediante acceso remoto o virtual, el registro de asistencia se llevará por conducto de la Secretaría de la Mesa Directiva, en la modalidad que permita tener la certeza del resultado de la asistencia.
 
 Asimismo, dará cuenta de las inasistencias y justificaciones, en caso de haberlas.
 
@@ -1838,3 +1836,11 @@ P.O. 2 DE MAYO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFREG/0105/2021 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92, PÁRRAFO PRIMERO, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
