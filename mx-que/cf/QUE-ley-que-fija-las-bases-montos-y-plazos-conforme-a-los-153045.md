@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-fija-las-bases-montos-y-plazos-conforme-a-los-153045"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-23"
-last_updated: "2021-12-23"
+last_updated: "2022-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRAN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERETARO, PARA EL EJERCICIO FISCAL 2022
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2022 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2022
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE ENERO DE 2022.]</small>
 
 Ley publicada en el Número 109 del Periódico Oficial del Estado de Querétaro, el jueves 23 de diciembre de 2021.
 
@@ -281,9 +281,11 @@ En la ejecución de los planes y programas de inversión, los municipios impleme
 
 El Poder Ejecutivo del Estado, quince días hábiles después de que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como el monto estimado de las participaciones que el Estado reciba y de las que tiene obligación de participar a los municipios, deberá publicar en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, los datos referidos.
 
+> <small>(F. DE E., P.O. 7 DE ENERO DE 2022)</small>
+
 ###### Artículo 15.
 
-El Poder Ejecutivo del Estado de Querétaro publicará en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y en un periódico de mayor circulación en la Entidad, durante el mes de enero del ejercicio fiscal 2021, el monto de las participaciones a distribuir en el mismo y las que hubieren correspondido a cada uno de los municipios durante el ejercicio fiscal del año inmediato anterior. De igual manera, deberá publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal.
+El Poder Ejecutivo del Estado de Querétaro publicará en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y en un periódico de mayor circulación en la Entidad, durante el mes de enero del ejercicio fiscal 2022, el monto de las participaciones a distribuir en el mismo y las que hubieren correspondido a cada uno de los municipios durante el ejercicio fiscal del año inmediato anterior. De igual manera, deberá publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal.
 
 ###### Artículo 16.
 
