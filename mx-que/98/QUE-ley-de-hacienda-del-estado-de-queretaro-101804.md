@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2021-12-23"
+last_updated: "2022-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "QUE"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2022 EN EL P.O. DEL ESTADO DE QUERETARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE ENERO DE 2022.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -2423,7 +2423,9 @@ Copias certificadas del instrumento notarial del tomo del
 
 protocolo por cada 20 hojas. 5
 
-Autorización de cada folio. 1
+> <small>(F. DE E., P.O. 7 DE ENERO DE 2022)</small>
+
+Autorización de cada folio. 0.1
 
 Revisión de exactitud de la razón de cierre de tomo, por cada
 
@@ -3057,9 +3059,9 @@ III. Por la expedición del oficio o constancia de la información de un predio 
 
 No estarán obligadas al pago del derecho a que se refiere esta fracción, las autoridades federales, estatales o municipales, siempre que soliciten la prestación del servicio en ejercicio de sus funciones de derecho público;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021) (F. DE E., P.O. 7 DE ENERO DE 2022)
 
-IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 7 UMA y por cada foja excedente, el 1 UMA;
+IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 7 UMA y por cada foja excedente, 0.13 UMA;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
