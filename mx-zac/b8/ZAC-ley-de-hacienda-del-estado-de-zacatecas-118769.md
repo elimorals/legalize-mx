@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2021-12-29"
+last_updated: "2022-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "ZAC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ENERO DE 2022 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ENERO DE 2022.]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -2733,13 +2733,13 @@ Del ingreso percibido por concepto del pago de derechos por los servicios de cat
 
 ARTÍCULO 107 BIS. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-ARTÍCULO 107 TER. Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a: $914.00
+ARTÍCULO 107 TER. Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a: $948.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $ 229.00
+ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $238.00
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -3301,9 +3301,9 @@ I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. Costo por concepto de pago de bases para participar en los procedimientos de Licitación Pública:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-a) Adquisiciones y servicios. $ 2,000.00
+a) Adquisiciones, arrendamiento de bienes y prestación de servicios. $2,000.00
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3311,7 +3311,9 @@ b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 III. Costo por concepto de pago de bases para participar en los procedimientos de concurso por invitación:
 
-a) Adquisiciones y servicios. $ 1,600.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+a) Adquisiciones, arrendamientos de bienes y prestación de servicios $1,600.00
 
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3323,31 +3325,55 @@ Los servicios que presten por concepto de:
 
 I. Expedición de autorización, para prestar servicios de seguridad privada en el Estado en la modalidad:
 
-a) De vigilancia de inmuebles: $18,649.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-b) Protección y vigilancia de personas y bienes. $18,649.00
+a) De vigilancia de inmuebles: $21,447.00
 
-c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo: $22,379.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo: $11,191.00
+b) Protección y vigilancia de personas y bienes: $21,447.00
 
-e) Traslado y custodia de bienes, fondos y valores. $37,298.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo: $25,736.00
+
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo: $12,870.00
+
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+e) Traslado y custodia de bienes, fondos y valores: $42,893.00
 
 II. Expedición de revalidación, para prestar servicios de seguridad privada en el Estado en la modalidad:
 
-a) De vigilancia de inmuebles. $17,157.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-b) Protección y vigilancia de personas y bienes. $17,157.00
+a) De vigilancia de inmuebles: $19,731.00
 
-c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo. $20,887.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo. $9,698.00
+b) Protección y vigilancia de personas y bienes: $19,731.00
 
-e) Traslado y custodia de bienes, fondos y valores. $35,807.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-III. Modificación de la autorización para prestar servicios de seguridad privada que realizan los particulares en el Estado. $7,461.00, y
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo: $24,021.00
 
-IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada. $3,731.00
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo: $11,153.00
+
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+e) Traslado y custodia de bienes, fondos y valores: $41,179.00
+
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+III. Modificación de la autorización para prestar servicios de seguridad privada que realizan los particulares en el Estado: $8,581.00, y
+
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+
+IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada: $4,291.00
 
 La autorización y revalidación que refieren las fracciones I y II del presente artículo, serán vigentes por el ejercicio fiscal en que se expidan.
 
@@ -3537,77 +3563,77 @@ VIII. Evaluación y resolución de la solicitud de modificación de proyectos au
 
 Por la prestación de los siguientes servicios:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-I. Reproducción de material didáctico, ecológico y ambiental. $14.00 por foja
+I. Reproducción de material didáctico, ecológico y ambiental: $15.00 por foja
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro). $ 166.00 c/u;
+II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro): $176.00 c/u;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-III. Reproducción de material con información ecológico–ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros) $356.00 c/u;
+III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros): $377.00 c/u;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-IV. Información de Planos con información ecológico-ambiental. $1,543.00 c/u;
+IV. Información de Planos con información ecológico-ambiental: $1,634.00 c/u;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-V. Reproducción de planos con información ecológico-ambiental. $950.00 c/u;
+V. Reproducción de planos con información ecológico-ambiental $1,006.00 c/u;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora. $ 1,302.00;
+VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora: $1,379.00;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental. $ 2,137.00;
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental: $2,263.00;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-VIII. Reproducción en plotter. $1,009.00;
+VIII. Reproducción en plotter: $1,068.00;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-IX. Autorización por simulacro de Incendio. $ 1,009.00;
+IX. Autorización por simulacro de Incendio: $1,068.00;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-X. Registro de generadores de residuos de manejo especial. $ 3,637.00;
+X. Registro de generadores de residuos de manejo especial: $3,851.00;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-XI. Trámite de certificación ambiental $ 2,968.00;
+XI. Trámite de certificación ambiental: $3,143.00;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-XII. Renovación de Registro de Generadores de Residuos de Manejo Especial $ 2,968.00
+XII. Renovación de Registro de Generadores de Residuos de Manejo Especial: $3,143.00;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ARTÍCULO 121 BIS. Por uso o goce temporal de las salas audiovisuales del Ecoparque Centenario Toma de Zacatecas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-a) Sala de Centro de Educación Ambiental. $ 2,698.00
+a) Sala de Centro de Educación Ambiental $2,857.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-b) Sala de uso múltiple. $ 2,159.00
+b) Sala de uso múltiple $2,286.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-c) Sala de Juntas. $ 864.00
+c) Sala de Juntas $915.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-d) Plaza Cívica. $ 540.00
+d) Plaza Cívica $572.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
-e) Plaza del lago. $ 540.00
+e) Plaza del lago $572.00
 
 ###### ARTÍCULO 122.
 
