@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2020-02-06"
+last_updated: "2022-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -151,9 +151,15 @@ Los requisitos para ser Administrador son los siguientes:
 
 I. Contar con título y cédula profesional de licenciatura en Derecho, expedidos por autoridad competente, preferentemente con experiencia en administración;
 
-II. Tener experiencia profesional mínima de un año en administración en el Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LOS PERFILES REQUERIDOS PARA LAS ADMINISTRADORAS Y LOS ADMINISTRADORES DE LOS CENTROS, D.O.F. 10 DE ENERO DE 2022)</small>
 
-III. Obtener la certificación por parte del Instituto de la Judicatura, en lo que corresponde al ejercicio de la función que desempeñará como administrador;
+II. Tener experiencia profesional mínima de un año en un Centro de Justicia Penal Federal, en un Órgano Jurisdiccional o en administración en el Poder Judicial de la Federación.
+
+Por lo que respecta al tercer supuesto del párrafo anterior, la experiencia en administración podrá acreditarse tomando en consideración las funciones previstas en la cédula de descripción del puesto que ocupa o hubiere ocupado y que estén relacionadas o sean afines con las funciones del puesto de Administrador.
+
+La Unidad emitirá opinión técnica para analizar si las funciones o actividades desempeñadas por la persona candidata relativas a la experiencia en el Poder Judicial de la Federación son idóneas para el perfil de Administrador de Centro de Justicia; la cual será valorada por las instancias superiores correspondientes, a efecto de tener por cumplido ese requisito, buscando en todo momento el mayor beneficio Institucional;
+
+III. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LOS PERFILES REQUERIDOS PARA LAS ADMINISTRADORAS Y LOS ADMINISTRADORES DE LOS CENTROS, D.O.F. 10 DE ENERO DE 2022)
 
 IV. Ser de nacionalidad mexicana;
 
@@ -926,3 +932,11 @@ SEXTO. La Secretaría Ejecutiva de Administración, a través de las áreas admi
 SÉPTIMO. Cuando la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal concluya las funciones para las que fue creada, y se transforme en el Centro de Información e Innovación para la Justicia Penal, este asumirá las atribuciones determinadas en este Acuerdo para la Unidad.
 
 OCTAVO. Las áreas competentes realizarán las acciones necesarias que permitan la transición y funcionamiento del modelo actual al nuevo modelo, teniendo como límite el segundo semestre de 2020.
+
+D.O.F. 10 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LOS PERFILES REQUERIDOS PARA LAS ADMINISTRADORAS Y LOS ADMINISTRADORES DE LOS CENTROS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
