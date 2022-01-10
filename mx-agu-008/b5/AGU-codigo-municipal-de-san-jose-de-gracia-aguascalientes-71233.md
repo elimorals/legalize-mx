@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2021-10-25"
+last_updated: "2022-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -2172,6 +2172,64 @@ XXXI. Definir los mecanismos de elaboración, actualización, simplificación e 
 XXXII. Evaluar el impacto de las políticas en materia de informática y mejora regulatoria, presentando los respectivos informes; y,
 
 XXXIII. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2022)</small>
+
+ARTÍCULO 153 A.- Al frente de la Instancia de Vinculación y Capacitación habrá un servidor público, que se denominará Titular de la Instancia de Vinculación y Capacitación, servidor público que será nombrado por el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2022)</small>
+
+ARTÍCULO 153 B.- Para ser Titular de la Instancia de Vinculación y Capacitación de San José de Gracia, se deberán reunir los siguientes requisitos:
+
+I. Ser ciudadano en pleno uso de sus derechos políticos y civiles;
+
+II. Contar con título de licenciatura debidamente registrado;
+
+III. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad técnica para desempeñar dicho cargo, a juicio del Presidente;
+
+IV. No estar inhabilitado para desempeñar cargo, empleo o comisión pública;
+
+V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y,
+
+VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2022)</small>
+
+ARTÍCULO 153 C.- Corresponde al Titular de la Instancia de Vinculación y Capacitación el ejercicio de las siguientes facultades:
+
+I. Elaborar el programa de actividad para el cumplimiento de objetivos de la Instancia;
+
+II. Elaborar el programa anual para el funcionamiento del proyecto con base a los objetivos;
+
+III. Coordinar acciones con las tareas académicas, organismos públicos y privados que coadyuven al cumplimiento de los proyectos de la Instancia;
+
+IV. Promover convenios con el sector público y privado;
+
+V. Efectuar la vinculación con universidades, bachilleratos tanto del ámbito público como del privado;
+
+VI. Entregar al Presidente un informe trimestral de actividades realizadas;
+
+VII. Recabar información sobre perfiles profesionales que son necesarias para los proyectos de servicio social;
+
+VIII. Supervisar y participar en el desarrollo de los programas de estadía de alumnos y personal;
+
+IX. Entregar constancias de terminación de prácticas profesionales y servicio social;
+
+X. Elaborar un directorio de profesionistas del municipio, instancias gubernamental y no gubernamental;
+
+XI. Diseñar el presupuesto financiero;
+
+XII. Elaborar, supervisar y desarrollar la investigación, diagnostico social, proyectos y evaluación;
+
+XIII. Coordinar los cronogramas de trabajo;
+
+XIV. Supervisar las tareas asignadas al equipo de trabajo;
+
+XV. Liderar los procesos y el cumplimiento de los objetivos estratégicos de la institución;
+
+XVI. Evaluar el trabajo del personal; y
+
+XVII. Las demás que con le confieran otras disposiciones legales y reglamentarias o le otorgue el Presidente.
 
 #### SECCIÓN DÉCIMA. Dirección de Desarrollo Social
 
@@ -13722,3 +13780,9 @@ P.O. 25 DE OCTUBRE DE 2021.
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 10 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ADICIÓN DE LOS ARTÍCULOS 153 A, 153 B Y 153 C DEL PROPIO CÓDIGO MUNICIPAL”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
