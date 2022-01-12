@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-141362"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-02-17"
-last_updated: "2020-06-02"
+last_updated: "2022-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-01-08"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2022.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de febrero de 2020.
 
@@ -1145,7 +1145,9 @@ XXI. Analizar la procedencia de medios alternativos para la solución de controv
 
 XXII. Asistir y representar a las Unidades Administrativas, en los aspectos jurídicos de las relaciones laborales del Consejo, incluidas las de naturaleza colectiva, y gestionar las controversias que deriven de ellas. Así como, en todo lo que corresponda para salvaguardar los intereses y patrimonio del Consejo.
 
-XXIII. (DEROGADA, D.O.F. 2 DE JUNIO DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE ENERO DE 2022)</small>
+
+XXIII. Solicitar información sobre el cumplimiento de las obligaciones y derechos derivados de contratos o convenios celebrados con el Consejo, ya sea a las unidades administrativas o directamente a la contraparte y, en su caso, coordinar y ejecutar las acciones correspondientes para salvaguardar los intereses del Consejo.
 
 ###### Artículo 27.
 
@@ -1784,3 +1786,9 @@ D.O.F. 2 DE JUNIO DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. En cumplimiento a lo ordenado en el artículo 78 de la Ley General de Mejora Regulatoria, en un plazo de doce meses contados a partir de la publicación del presente Acuerdo en el Diario Oficial de la Federación, los costos de cumplimiento que en su caso genere el presente Acuerdo se compensarán con modificaciones en el Reglamento del Sistema Nacional de Investigadores.
+
+D.O.F. 12 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
+
+ÚNICO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
