@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2021-05-21"
+last_updated: "2022-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -903,13 +903,15 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 X. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2022)</small>
 
 ###### Artículo 40.
 
-Corresponde a la Secretaría de Economía y Trabajo:
+Corresponde a la Secretaría del Trabajo:
 
-I. Implementar los programas necesarios para promover el empleo de mujeres víctimas de violencia para favorecer la construcción de un nuevo proyecto para sus vidas;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2022)</small>
+
+I. Implementar los programas necesarios para promover el empleo y capacitación para emprendimientos productivos de mujeres víctimas de violencia para favorecer la construcción de un nuevo proyecto para sus vidas;
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2016)</small>
 
@@ -1688,3 +1690,9 @@ P.O. 21 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 496. SE REFORMA EL ARTÍCULO 8, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ÚNICO.- El presente Decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 043. SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 40, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
