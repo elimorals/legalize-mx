@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-mejora-regulatoria-y-la-simplificacion-118215"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-18"
-last_updated: "2020-06-08"
+last_updated: "2022-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 18 de enero de 2017.
 
@@ -819,9 +819,15 @@ Una vez finalizada la Consulta Pública, la Comisión publicará las acciones de
 
 #### SECCIÓN SEGUNDA. DE LA SIMPLIFICACIÓN DE TRÁMITES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2022)</small>
+
 ###### Artículo 57.
 
-Los titulares de los sujetos obligados podrán, mediante acuerdos generales publicados en la Gaceta Municipal o en el Periódico Oficial del Estado, establecer plazos de respuesta menores dentro de los máximos previstos en Leyes o reglamentos y no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía del propio gobierno la información correspondiente. Los titulares de los sujetos obligados a nivel municipal podrán, mediante acuerdos generales o actos de Ayuntamiento, publicados en el Periódico Oficial del Estado, establecer plazos de respuesta menores dentro de los máximos previstos en Leyes o reglamentos y no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía dentro del propio municipio o mediante acuerdos con (sic) gobierno del estado la información correspondiente.
+Los titulares de los sujetos obligados deberán, mediante acuerdos generales publicados en la Gaceta Municipal o en el Periódico Oficial del Estado, establecer plazos de respuesta menores dentro de los máximos previstos en Leyes o reglamentos y podrán no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía del propio gobierno la información correspondiente. Los titulares de los sujetos obligados a nivel municipal deberán, mediante acuerdos generales o actos de Ayuntamiento, publicados en el Periódico Oficial del Estado, establecer plazos de respuesta menores dentro de los máximos previstos en Leyes o reglamentos y podrán no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía dentro del propio municipio o mediante acuerdos con (sic) gobierno del estado la información correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2022)</small>
+
+Dichos plazos deberán estar colocados a la vista de los usuarios que acudan a realizar algún tipo de trámite.
 
 En los procedimientos administrativos, los sujetos obligados recibirán las promociones o solicitudes que, en términos de esta Ley, los particulares presenten por escrito, sin perjuicio de que dichos documentos puedan presentarse a través de medios de comunicación electrónica en las etapas que los propios sujetos obligados así lo determinen mediante reglas de carácter general publicadas en el Periódico Oficial del Estado. En estos últimos casos se emplearán, en sustitución de la firma autógrafa, medios de identificación electrónica previstos en la legislación correspondiente. El uso de dichos medios de comunicación electrónica será optativo para cualquier interesado.
 
@@ -1438,3 +1444,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El personal y los recursos materiales que estaban asignados a la Coordinación Ejecutiva de la Administración Pública del Estado, se transferirán a la Dependencia que asuma, en su caso, la o las funciones de ésta, conforme a los reglamentos interiores que expedirá el Ejecutivo del Estado.
 
 TERCERO.- Cuando en otras Leyes, Reglamentos y Acuerdos del Ejecutivo se haga mención del Jefe de la Oficina Ejecutiva del Gobernador, se entenderá al o la Titular de la Oficina Ejecutiva.
+
+P.O. 12 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 033. SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTÍCULO 57 Y SE LE ADICIONA UN NUEVO SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Gobierno del Estado y los 51 Municipios del Estado de Nuevo León, en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las reformas necesarias para ajustar sus Reglamentos a las disposiciones de este Decreto.
