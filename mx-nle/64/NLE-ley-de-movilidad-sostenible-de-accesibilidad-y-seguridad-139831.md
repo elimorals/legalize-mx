@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2021-12-11"
+last_updated: "2022-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -2995,6 +2995,12 @@ Décimo Octavo.- Las estrategias de movilidad en bicicleta, señaladas en el art
 
 Décimo Noveno.- Derivado de la situación mundial generada por la pandemia el virus SARS-COV2 (COVID-19), así como de los efectos económicos generados por las acciones preventivas determinadas por las autoridades en materia de salud del Gobierno Federal y Estatal, para evitar la propagación del virus entre la ciudadanía, el año 2020-dos mil veinte no será considerado para los efectos del cómputo de los años de antigüedad de los vehículos de los prestadores del servicio de transporte público y privado en sus diversas modalidades de conformidad con los artículos 77 fracción I, 81 y 105 fracción I de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, así como del resto de las modalidades que, en su caso, se establezcan de manera particular y específica en el Reglamento de la Ley, siempre y cuando cuenten con el visto bueno expedido por parte del Instituto de Movilidad y Accesibilidad de Nuevo León como resultado de la inspección documental y la revisión físico mecánica de las unidades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2022)</small>
+
+Para aquellos vehículos de los prestadores de servicio de transporte público y privado en sus diversas modalidades de conformidad con los artículos 77 fracción I, 81 y 105 fracción I de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, así como del resto de las modalidades que, en su caso, se establezcan de manera particular y específica en el Reglamento de la Ley y cuyos años de antigüedad limite se cumplan en el año 2021-dos mil veintiuno gozarán de un año adicional a lo establecido en la normativa para su revocación siempre y cuando cuenten con el visto bueno expedido por parte del Instituto de Movilidad y Accesibilidad de Nuevo León como resultado de la inspección documental y la revisión físico mecánica de las unidades.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE ENERO DE 2022)</small>
+
 En un plazo que no exceda de 30 días naturales posteriores a la entrada en vigor del presente decreto, el Instituto de Movilidad y Accesibilidad de Nuevo León emitirá las reglas a que se sujetará la expedición del visto bueno, así como las inspecciones documentales y las revisiones físico mecánicas señaladas en el párrafo anterior.
 
 Por lo tanto, envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
@@ -3074,3 +3080,9 @@ P.O. 11 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de la Publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- La autoridad correspondiente, contará con 60 días naturales, a partir de la entrada en vigor del presente Decreto para llevar a cabo las adecuaciones dentro del Reglamento de la Ley.
+
+P.O. 12 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 077. SE REFORMA EL ARTÍCULO DÉCIMO NOVENO TRANSITORIO DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN, POR MODIFICACIÓN DEL SEGUNDO PÁRRAFO Y ADICIÓN DE UN TERCER PÁRRAFO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
