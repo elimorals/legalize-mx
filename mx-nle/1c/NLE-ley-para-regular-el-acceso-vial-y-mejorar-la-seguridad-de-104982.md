@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-regular-el-acceso-vial-y-mejorar-la-seguridad-de-10498
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-29"
-last_updated: "2014-12-29"
+last_updated: "2022-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY PARA REGULAR EL ACCESO VIAL Y MEJORAR LA SEGURIDAD DE LOS VECINOS EN EL ESTADO DE NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR A LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 29 de diciembre de 2014.
 
@@ -51,7 +49,9 @@ El Ayuntamiento mediante acuerdo de sus integrantes, podrá autorizar conforme a
 
 La solicitud de restricción temporal del acceso a la vía pública deberá presentarse por escrito, incluyendo los siguientes requisitos:
 
-I. La anuencia de cuando menos el 85% de los propietarios y/o poseedores de los inmuebles ubicados en el área donde se solicita la restricción temporal;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2022)</small>
+
+I. La anuencia de cuando menos el 60% de los propietarios y/o poseedores de los inmuebles ubicados en el área donde se solicita la restricción temporal;
 
 II. Nombres, firmas autógrafas y copias de la identificación oficial, que se cotejarán con la original cuando se realice la ratificación de la solicitud;
 
@@ -91,9 +91,11 @@ II. Los estudios de impacto vial que realice la autoridad municipal demuestren s
 
 III. Se cuente con la opinión favorable y en su caso el cumplimiento de las medidas que sean determinadas por las autoridades de protección civil municipal mediante el estudio de riesgo correspondiente, garantizando la no afectación de las rutas de entrada y salida de los vehículos de auxilio y residentes en casos de siniestro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2022)</small>
+
 ###### Artículo 9.
 
-La restricción temporal de acceso a las vías públicas durará en tanto persistan las condiciones que motivaron la autorización y no podrá exceder de un plazo máximo improrrogable de cuatro años.
+La restricción temporal de acceso a las vías públicas durará en tanto persistan las condiciones que motivaron la autorización. Dicha restricción se revisará por la autoridad municipal cada cuatro años, para evaluar su renovación.
 
 Los solicitantes deberán realizar las adecuaciones correspondientes al término de la autorización, para realizar el retiro de los implementos utilizados para la restricción temporal del acceso a una vía pública.
 
@@ -125,9 +127,19 @@ II. No imponer, para el ingreso o salida por el mecanismo o control de acceso, c
 
 III. Permitir el paso a parques u otros bienes de dominio público ubicados en el área objeto de la autorización, a todas las personas que manifiesten su intención de acudir a dicho lugar, aún y cuando no sean propietarios o poseedores de los predios ubicados en dicha área. En este caso, los vecinos podrán tomar nota de las personas que acceden y, en su caso, las placas de los vehículos;
 
-IV. Permitir el acceso al personal y vehículos de servicios públicos, y cualquier otro que se identifique como autoridad municipal, estatal o federal, así como a personal y vehículos de seguridad pública y de emergencia; y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2022)</small>
+
+IV. Permitir el acceso al personal y vehículos de servicios públicos, y cualquier otro que se identifique como autoridad municipal, estatal o federal, así como a personal y vehículos de seguridad pública y de emergencia;
 
 V. Para el ingreso de invitados de propietarios o poseedores de los inmuebles ubicados en el área cuyo acceso sea restringido, deberán mostrar identificación oficial al personal o vecino encargado del mecanismo o control de acceso, sin que este acto derive en la retención de la misma.
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2022)</small>
+
+VI. En caso de contar con servicio de seguridad privada, se deberá celebrar un convenio de colaboración entre el Comité, la Junta de Vecinos o Mesas Directivas y el Ayuntamiento a fin de que el personal de seguridad privada coadyuve con la Secretaría de Seguridad Pública del Municipio; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2022)</small>
+
+VII. En caso de contar con equipo de monitoreo y grabación, se deberá anexar al convenio citado en la fracción anterior, la manifestación y el compromiso de que este sea monitoreado por la Secretaría de Seguridad Pública del Municipio.
 
 El incumplimiento a lo dispuesto en éste artículo será causa de que se ordene la revocación de la autorización y el retiro de los mecanismos o controles de acceso para la restricción temporal del acceso a la vía pública.
 
@@ -168,3 +180,11 @@ ALVARO IBARRA HINOJOSA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RODOLFO GÓMEZ ACOSTA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 080. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3; EL PÁRRAFO PRIMERO DEL ARTÍCULO 9, LA FRACCIÓN IV DEL ARTÍCULO 11; Y POR ADICIÓN LAS FRACCIONES VI Y VII AL ARTÍCULO 11, TODOS DE LA LEY PARA REGULAR EL ACCESO VIAL Y MEJORAR LA SEGURIDAD DE LOS VECINOS EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
