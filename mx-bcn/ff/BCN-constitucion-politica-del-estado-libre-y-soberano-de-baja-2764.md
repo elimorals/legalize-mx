@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2021-12-06"
+last_updated: "2022-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -2455,7 +2455,9 @@ I.- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de 
 
 II.- Tener cuando menos treinta y cinco años de edad al día de la designación;
 
-III.- Tener por lo menos diez años de ejercicio profesional, contados a partir de la expedición de la cédula profesional de licenciado en derecho;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2022)</small>
+
+III.- Haber realizado por lo menos durante cinco años anteriores a su designación una actividad profesional comprobable relacionada con la investigación de los delitos y el esclarecimiento de los hechos, en la procuración de justicia, combate de la delincuencia y prevención del delito; así como contar con título profesional de Licenciado en Derecho o Abogado.
 
 IV.- No estar sujeto o vinculado a proceso penal o haber sido condenado por delito doloso;
 
@@ -5542,3 +5544,13 @@ Los trámites, procedimientos y demás asuntos en materia de Seguridad Pública,
 OCTAVO. Las funciones, facultades, derechos y obligaciones a cargo de la Fiscalía General del Estado en materia de seguridad pública que se le otorguen o haya asumido en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado; o con dependencias y entidades de la Federación y de los Municipios, o con cualquier persona física o moral, serán asumidas, por la Secretaría de Seguridad Ciudadana, de conformidad con las atribuciones que determinen las leyes aplicables.
 
 NOVENO. A más tardar el 31 de diciembre de 2021 deberán aprobarse las modificaciones o abrogación de los ordenamientos legales que correspondan para dar cumplimiento al presente Decreto.
+
+P.O. 13 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 67 MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA REFORMA AL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+Artículo Primero.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Artículo Segundo.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+Artículo Tercero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
