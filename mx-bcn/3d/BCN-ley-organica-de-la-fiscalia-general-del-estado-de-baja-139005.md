@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2021-12-31"
+last_updated: "2022-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2022.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -307,7 +307,9 @@ I. Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de su
 
 II. Tener cuando menos treinta y cinco años de edad cumplidos el día de la designación;
 
-III. Tener por lo menos diez años de ejercicio profesional, contados a partir de la expedición de la cédula profesional de licenciado en Derecho;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2022)</small>
+
+III. Haber realizado por lo menos durante cinco años anteriores a su designación una actividad profesional comprobable relacionada con la investigación de los delitos y el esclarecimiento de los hechos, en la procuración de justicia, combate de la delincuencia y prevención del delito; así como contar con título profesional de Licenciado en Derecho o Abogado.
 
 IV. No estar sujeto o vinculado a proceso penal, o haber sido condenado por delito doloso;
 
@@ -317,7 +319,9 @@ VI. Haber residido en el Estado de forma continua e ininterrumpida durante los c
 
 VII. Presentar un programa integral de trabajo sobre Procuración de Justicia en Baja California, y
 
-VIII. Someterse a la evaluación de control de confianza correspondiente; y (sic)
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2022)</small>
+
+VIII. Someterse a la evaluación de control de confianza correspondiente.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XIX A XV FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINAS DE LA 83 A LA 85.]</small>
 
@@ -1134,3 +1138,9 @@ SEGUNDO. El Fiscal General del Estado dentro del plazo de noventa días naturale
 Los órganos o unidades administrativas de la Fiscal (sic) General del Estado cuya denominación o competencia se modifica en términos de este Decreto, ejercerán las funciones que les correspondan, por conducto de la estructura orgánica y en lo que resulte aplicable, de conformidad con las facultades y obligaciones vigentes en el Reglamento de la Ley Orgánica de la Fiscalía General del Estado, hasta la entrada en vigor de este Decreto y demás disposiciones reglamentarias.
 
 TERCERO. Para la instrumentación y cumplimiento de las presentes reformas, no será aplicable lo previsto en el Artículo 46 de (sic) Ley Orgánica de la Fiscalía General del Estado respecto de la prohibición de irreductibilidad presupuestal de la Fiscalía General del Estado, por lo que deberá observarse lo dispuesto en las reformas y régimen transitorio de la reforma a la Constitución Política del Estado de Baja California, a través de la cual se trasladan atribuciones de la Fiscalía General del Estado a la Secretaría de Seguridad Ciudadana, en materia de Seguridad Pública.
+
+P.O. 13 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 67 MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA REFORMA AL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
