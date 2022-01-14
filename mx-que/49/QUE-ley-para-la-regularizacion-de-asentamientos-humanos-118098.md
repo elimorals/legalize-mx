@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-regularizacion-de-asentamientos-humanos-118098"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2021-10-08"
+last_updated: "2022-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY PARA LA REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES, PREDIOS URBANOS, PREDIOS RÚSTICOS, PREDIOS FAMILIARES Y PREDIOS SOCIALES DEL ESTADO DE QUERÉTARO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el viernes 13 de enero de 2017.
 
@@ -979,7 +977,9 @@ Para el pago de los derechos por los servicios prestados por la Dirección de Ca
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
-Artículo Segundo. La vigencia de la presente Ley será de cinco años, contados a partir de su entrada en vigor.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2022)</small>
+
+Artículo Segundo. La presente Ley tendrá vigencia hasta el 31 de diciembre del año 2022.
 
 Artículo Tercero. Los procedimientos iniciados durante la vigencia de esta Ley, deberán ser concluidos por la autoridad encargada de la substanciación del procedimiento, con base en las disposiciones de dicho ordenamiento.
 
@@ -1134,3 +1134,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 14 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES, PREDIOS URBANOS, PREDIOS RÚSTICOS, PREDIOS FAMILIARES Y PREDIOS SOCIALES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor, el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se deroga cualquier disposición de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
