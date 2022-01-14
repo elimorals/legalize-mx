@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-12-15"
+last_updated: "2022-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -165,9 +165,9 @@ III. TERCER CIRCUITO:
 
 2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
 
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 8/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 27/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ENERO DE 2022)</small>
 
-3. Treinta y un juzgados de Distrito especializados: nueve de amparo en materia penal, cuatro con residencia en Zapopan y cinco con sede en Puente Grande; diecinueve en materias administrativa, civil y de trabajo, dieciocho con residencia en el municipio de Zapopan y uno con residencia en Guadalajara; y tres de procesos penales federales con residencia en Puente Grande.
+3. Treinta y un juzgados de Distrito especializados: nueve de amparo en materia penal, tres con residencia en Zapopan y seis con sede en Puente Grande; diecinueve en materias administrativa, civil y de trabajo, dieciocho con residencia en el municipio de Zapopan y uno con residencia en Guadalajara; y tres de procesos penales federales con residencia en Puente Grande.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -8712,3 +8712,17 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Décimo de Distrito en el Estado de Morelos, con residencia en Cuernavaca, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Décimo de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
+
+D.O.F. 14 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 27/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL JUZGADO CUARTO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación; con excepción del transitorio CUARTO, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande y la Oficina de Correspondencia Común que le presta servicio, deberán colocar avisos en lugares visibles con relación al cambio de residencia y domicilio de que se trata.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le están adscritas, deberá realizar las acciones necesarias para que el Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, inicie funciones en su nuevo domicilio el 17 de enero de 2022. Asimismo instrumente los mecanismos para el envío de asuntos y demás documentos de la Oficina de Correspondencia Común de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Zapopan, a la nueva residencia y domicilio del órgano jurisdiccional de que se trata.
+
+QUINTO. La Coordinación de Administración Regional apoyará para el traslado de los asuntos que corresponda conocer al Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande.
