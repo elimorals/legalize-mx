@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-fiscalia-general-del-estado-de-colima-130005
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-21"
-last_updated: "2021-12-16"
+last_updated: "2022-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2022.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 56 del Periódico Oficial del Estado de Colima, el martes 21 de agosto de 2018.
 
@@ -41,7 +41,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 A N T E C E D E N T E S
 
-[…]
+[...]
 
 Por lo antes expuesto se expide el siguiente:
 
@@ -207,11 +207,15 @@ VIII. Fiscalía Especializada en Combate a la Corrupción;
 
 IX. Fiscalía Especializada en delitos por razones de Género y Trata de Personas; y
 
-X. Visitaduría General (Órgano Interno de Control).
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2022)</small>
+
+X. Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y
+
+XI. Visitaduría General (Órgano Interno de Control).
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2021)</small>
 
-XII (SIC). Centro de Justicia para las Mujeres.
+XII. Centro de Justicia para las Mujeres.
 
 2. Adicionalmente, la Fiscalía General podrá contar con las direcciones, coordinaciones, departamentos, comités y, en general, con las unidades administrativas, órganos técnicos e instancias de apoyo, cualquiera que sea su denominación u organización, que se requieran para el buen despacho de los asuntos de su competencia, las cuales se determinarán en el Reglamento Interior, el cual fijará sus atribuciones o facultades, sin perjuicio de lo que establezca la presente Ley.
 
@@ -753,7 +757,55 @@ XII. Crear la base estadística local de violencia política contra las mujeres 
 
 XIII. Las demás que en su caso le confieran las leyes, reglamentos y demás disposiciones jurídicas aplicables.
 
-#### SECCIÓN PRIMERA. DEL NOMBRAMIENTO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE ENERO DE 2022)</small>
+
+#### SECCIÓN CUARTA. DE LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN DE DELITOS DE TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2022)</small>
+
+###### Artículo 34 Bis.
+
+Definición y competencia de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes
+
+1. De conformidad con lo ordenado por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Fiscalía General del Estado contará con la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dotada de autonomía técnica y operativa.
+
+2. Dicha Fiscalía Especializada, además de lo dispuesto en el Código Nacional, una vez que tenga conocimiento de la probable comisión del delito de tortura, deberá llevar a cabo las acciones establecidas en el artículo 35 de la Ley General citada en el párrafo anterior.
+
+3. Para ser integrante y permanecer en la Fiscalía Especializada en la investigación del delito de tortura, será necesario cumplir con los requisitos establecidos en el artículo 58 de la Ley General de la materia
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2022)</small>
+
+###### Artículo 34 Ter.
+
+Atribuciones de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+1. La Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes tendrá, en el ámbito de su competencia, las obligaciones y facultades siguientes:
+
+I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, a que se les brinde atención médica, psicológica y jurídica a las personas Víctimas de las conductas previstas en dicha Ley General;
+
+III. Requerir la participación de las autoridades en materia de atención a Víctimas, en términos de las disposiciones aplicables;
+
+IV. Ejecutar, supervisar y evaluar el Protocolo Homologado, así como los protocolos de actuación y para la investigación a que se refieren los artículos 60 y 61 de la Ley General de la materia;
+
+V. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos materia de su competencia;
+
+VI. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la legislación aplicable;
+
+VII. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en la Ley General, de conformidad con la legislación aplicable;
+
+VIII. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+IX. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General y participar en la actualización del Registro Nacional del Delito de Tortura;
+
+X. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional del Delito de Tortura y otra información disponible;
+
+XI. Ingresar a cualquiera de los lugares de privación de libertad en donde se presuma que se cometió el delito de tortura;
+
+XII. Proponer políticas para la prevención de las conductas previstas en la Ley General de la materia; y
+
+XIII. Las demás que dispongan la Ley General de la materia, esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO VIII. DE LA VISITADURÍA GENERAL
 
@@ -851,7 +903,7 @@ Disciplina financiera
 
 ### CAPÍTULO X. DEL PERSONAL
 
-#### SECCIÓN SEGUNDA. DE LAS SUPLENCIAS
+#### SECCIÓN PRIMERA. DEL NOMBRAMIENTO
 
 ###### Artículo 41.
 
@@ -891,7 +943,7 @@ Ejercicio provisional de funciones de Ministerio Público
 
 1. El Fiscal General, mediante acuerdo, podrá señalar provisionalmente funcionarios públicos de la institución, que sin tener el nombramiento de Agentes del Ministerio Público, pero que por la naturaleza de sus funciones deban ejercer dichas atribuciones, en los términos de esta Ley, el Código Nacional y la Ley del Servicio.
 
-#### SECCIÓN TERCERA. DE LAS EXCUSAS E INCOMPATIBILIDADES
+#### SECCIÓN SEGUNDA. DE LAS SUPLENCIAS
 
 ###### Artículo 45.
 
@@ -913,7 +965,7 @@ III. Las de los Agentes del Ministerio Público, por el personal que designe el 
 
 IV. En los lugares donde sólo haya un Agente del Ministerio Público, su ausencia será suplida por quien designe su superior. Cuando haya ausencia de un servidor público y no exista determinación expresa de quien deberá suplirla en los términos indicados, en tanto se emita esta determinación, será suplida por el inferior jerárquico inmediato.
 
-#### SECCIÓN PRIMERA. DE LOS MEDIOS DE APREMIO
+#### SECCIÓN TERCERA. DE LAS EXCUSAS E INCOMPATIBILIDADES
 
 ###### Artículo 47.
 
@@ -1695,7 +1747,7 @@ Solicitud e imposición de medidas cautelares, providencias precautorias o medid
 
 ### CAPÍTULO VII. DE LOS MEDIOS DE APREMIO Y DE IMPUGNACIÓN
 
-#### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO DE IMPUGNACIÓN
+#### SECCIÓN PRIMERA. DE LOS MEDIOS DE APREMIO
 
 ###### Artículo 74.
 
@@ -1716,6 +1768,8 @@ IV. Arresto hasta por treinta y seis horas.
 3. La imposición del arresto sólo será procedente cuando haya mediado apercibimiento del mismo y éste sea debidamente notificado a la parte afectada.
 
 4. En la imposición de cualquiera de los medios de apremio se deberá dejar constancia en los registros de la investigación, para que de resultar necesario se proceda por delito de desobediencia a un mandato legítimo de autoridad.
+
+#### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO DE IMPUGNACIÓN
 
 ###### Artículo 75.
 
@@ -1892,3 +1946,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se deja sin efectos el Decreto emitido el día 22 de mayo de 2012 por el Gobernador Constitucional del Estado, publicado en el Periódico Oficial “El Estado de Colima” en fecha 26 de mayo de 2012.
 
 TERCERO. Se instruye para que se emita el reglamento interno del Centro de Justicia para las Mujeres, dentro del término de 15 días hábiles posteriores a que haya sido publicada la presente reforma en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 15 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 14.- POR EL QUE SE ADICIONA LA FRACCIÓN X AL PUNTO 1 DEL ARTÍCULO 8, PASANDO A SER LA ACTUAL FRACCIÓN LA X, A LA FRACCIÓN XI, ASÍ COMO UNA SECCIÓN CUARTA AL CAPÍTULO VII DE LAS FISCALÍAS ESPECIALIZADAS CONFORMADA POR LOS ARTÍCULOS 34 BIS Y 34 TER, TODOS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor en el momento de su aprobación, por el Pleno del H. Congreso del Estado de Colima.
+
+SEGUNDO. La titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación, Finanzas y Administración, realizará los ajustes presupuestales necesarios para garantizar el inicio de funciones de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que se crean mediante el presente Decreto; además de realizar las previsiones conducentes para la presupuestación del gasto de la Fiscalía General del Estado en el proyecto de presupuesto para el ejercicio fiscal del 2022. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+TERCERO. En un plazo no mayor a ochenta días posteriores a la publicación del presente Decreto, el Fiscal General del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto.
