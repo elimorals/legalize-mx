@@ -4,7 +4,7 @@ identifier: "FED-ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-47158"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-23"
-last_updated: "2021-11-22"
+last_updated: "2022-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47158&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-16"
 
 LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
 
@@ -63,9 +63,11 @@ III. Dirección y Rectoría, la Dirección General de Educación Militar y Recto
 
 La Secretaría establecerá las directivas relacionadas con la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema Educativo Militar.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2022)</small>
+
 ###### Artículo 4.
 
-La Educación Militar tiene como finalidad formar militares para la práctica y el ejercicio del mando y la realización de actividades de docencia, difusión de la cultura e investigación para el Ejército y Fuerza Aérea Mexicanos, inculcándoles el amor a la patria, la lealtad institucional, la honestidad, la conciencia de servicio y superación y la responsabilidad de difundir a las nuevas generaciones los valores y conocimientos recibidos.
+La Educación Militar tiene como finalidad formar militares para la práctica y el ejercicio del mando y la realización de actividades de docencia, difusión de la cultura e investigación para el Ejército y Fuerza Aérea Mexicanos, inculcándoles el amor a la patria, la lealtad institucional, la honestidad, la conciencia de servicio y superación y la responsabilidad de difundir a las nuevas generaciones los valores y conocimientos recibidos, así como el respeto de los derechos humanos y el criterio intercultural en la educación.
 
 ###### Artículo 5.
 
@@ -87,7 +89,9 @@ VI. Fortalecer el conocimiento enfocado a la preservación de la salud y la prot
 
 La Universidad del Ejército y Fuerza Aérea tiene las finalidades siguientes:
 
-I. Impartir al personal militar los conocimientos científicos, técnicos y humanísticos a nivel de educación medio superior y superior para el cumplimiento de las misiones de las armas y servicios propios del Ejército y Fuerza Aérea Mexicanos;
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2022)</small>
+
+I. Impartir al personal militar los conocimientos científicos, técnicos, humanísticos, interculturales y de derechos humanos, a nivel de educación medio superior y superior para el cumplimiento de las misiones de las armas y servicios propios del Ejército y Fuerza Aérea Mexicanos;
 
 II. Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia y el arte militar;
 
@@ -129,7 +133,9 @@ V. Desarrollar y fortalecer el conocimiento mediante la práctica de los valores
 
 VI. Impulsar, organizar y normar las actividades de investigación sobre el arte y ciencia de la guerra, así como aspectos técnicos y científicos de los servicios del Ejército y Fuerza Aérea Mexicanos;
 
-VII. Elevar el nivel cultural y académico de los recursos humanos del Ejército y Fuerza Aérea Mexicanos, y
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2022)</small>
+
+VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército y Fuerza Aérea Mexicanos con base en el respeto de los derechos humanos y el criterio intercultural, y
 
 VIII. Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar.
 
@@ -396,3 +402,9 @@ D.O.F. 22 DE NOVIEMBRE DE 2021.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 17 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
