@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "2021-04-30"
+last_updated: "2022-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1940.
 
@@ -170,13 +170,7 @@ IV.- Satisfacer los requisitos que determine el Reglamento de esta Ley.
 
 ###### ARTICULO 25.
 
-Podrán obtener el anticipo de la incorporación en el activo, únicamente:
-
-I.- Quienes deseen salir del país en la época en que reglamentariamente les corresponde prestar servicios, si son mayores de 16 años al solicitar la incorporación.
-
-II.- Quienes por razón de sus estudios les sea menester hacerlo así.
-
-El número máximo de los individuos que puedan obtener el anticipo de su incorporación, será fijado cada año por la Secretaría de la Defensa Nacional.
+(DEROGADO, D.O.F. 17 DE ENERO DE 2022)
 
 ###### ARTICULO 26.
 
@@ -453,3 +447,11 @@ D.O.F. 30 DE ABRIL DE 2021.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Ejecutivo Federal tendrá 90 días naturales posteriores a la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias al Reglamento de la Ley del Servicio Militar.
+
+D.O.F. 17 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 25 DE LA LEY DEL SERVICIO MILITAR”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El reclutamiento voluntario solo podrá llevarse a cabo a partir de los dieciocho años, sin excepciones.
