@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2018-06-20"
+last_updated: "2022-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDLPI"
 
 LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -220,9 +220,9 @@ Los representantes de la Administración Pública Federal son los siguientes:
 
 5).- Un representante de la Secretaría de Educación Pública.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2022)</small>
 
-6).- Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+6).- Un representante del Instituto Nacional de los Pueblos Indígenas.
 
 7).- Un representante de la Secretaría de Relaciones Exteriores.
 
@@ -367,3 +367,9 @@ D.O.F. 20 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 16, NUMERAL 6) DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
