@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-10-29"
+last_updated: "2022-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -65,11 +65,11 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 21/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE ENERO DE 2022)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 16 de enero de 2022.
+Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 1° de mayo de 2022.
 
 ###### Artículo 2.
 
@@ -704,3 +704,13 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 TERCERO. Se mantiene el periodo de receso para la segunda quincena de diciembre de 2021, que comprende del 16 de diciembre de 2021 al 2 de enero de 2022.
 
 CUARTO. Se instruye a la Dirección General de Protección Civil y Salud en el Trabajo, para que continúe implementando las medidas de ventilación, limpieza y desinfección de oficinas y espacios de trabajo, así como áreas comunes, de conformidad con la Guía Técnica para el Retorno Seguro a las Actividades en los Órganos Jurisdiccionales y Áreas Administrativas del Consejo de la Judicatura Federal.
+
+D.O.F. 17 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 2/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 17 de enero de 2022.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se instruye a la Dirección General de Protección Civil y Salud en el Trabajo, para que continúe implementando las medidas de ventilación, limpieza y desinfección de oficinas y espacios de trabajo, así como áreas comunes, de conformidad con la Guía Técnica para el Retorno Seguro a las Actividades en los Órganos Jurisdiccionales y Áreas Administrativas del Consejo de la Judicatura Federal.
