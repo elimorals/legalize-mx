@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2020-03-14"
+last_updated: "2022-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -709,15 +709,21 @@ Los usuarios de los servicios públicos de agua potable, alcantarillado y saneam
 
 En los casos que las tomas tengan un diámetro mayor de 1/2”, los usuarios pagarán de conformidad con la determinación del consumo que realice la CAPDAM.
 
-###### ARTÍCULO 26.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2022)</small>
 
-Se concede un 8 por ciento de descuento en el pago de los derechos por los servicios públicos de agua potable, alcantarillado y saneamiento:
+###### ARTICULO 26.
 
-I.- A los usuarios de cuota mínima que sin tener adeudos de ejercicios anteriores, paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad adelantada durante los meses de enero y febrero;
+Se concede el 12, 10 y 8 por ciento de bonificación en el pago de los derechos por los servicios públicos de agua potable, alcantarillado y saneamiento que se clasifiquen en el artículo 3 de esta ley por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente y; un 8 por ciento de bonificación en el pago de los derechos por los servicios públicos de agua potable, alcantarillado y saneamiento que se clasifiquen en los artículo (sic) 4, 5 y 6 de esta ley por anualidad adelantada durante los meses de enero, febrero y marzo:
 
-II.- A los usuarios de servicio medido que sin tener adeudos de ejercicios anteriores, paguen el servicio de agua potable, alcantarillado y saneamiento estimado para el ejercicio actual por anualidad adelantada durante los meses de enero y febrero. El cálculo se hará con base en el promedio de los consumos del año anterior y se continuará tomando lectura de los consumos al usuario. En caso en que el consumo medido exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el recibo.
+I.- A los usuarios de servicio no medido que, sin tener adeudos de ejercicios anteriores, paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad adelantada;
 
-A los usuarios de cuota mínima que paguen por anualidad en los términos de la fracción I de este artículo y que posteriormente se les instale medidor, se les ajustará su facturación en los términos de la fracción anterior.
+II.- A los usuarios de servicio medido que, sin tener adeudos de ejercicios anteriores, paguen el servicio de agua potable, alcantarillado y saneamiento estimado para el ejercicio actual por anualidad adelantada durante los meses de enero, febrero y marzo. El cálculo se hará con base en el promedio de los consumos del año anterior y se continuará tomando lectura de los consumos al usuario. En caso en que el consumo medido exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el recibo.
+
+A los usuarios de servicio no medido que paguen por anualidad en los términos de la fracción I de este artículo y que posteriormente se les instale medidor, se les ajustará su facturación en los términos de la fracción anterior.
+
+A los usuarios del servicio que encuadren en la tarifa condominal que utilicen el servicio para abastecer las áreas sociales, comunes y/o jardines de los condominios, se les aplicara únicamente la bonificación del 8 por ciento en su pago anual anticipado durante los meses de enero, febrero y marzo.
+
+Los pagos anuales se estiman en metros cúbicos de consumo y su importe en el pago anual anticipado será calculado con la Unidad de Medida y Actualización vigente al momento del pago, considerándose que con este pago se ampara el volumen de consumo estimado aunque este sea facturado en un periodo de actualización de la Unidad de Medida y Actualización, en caso de existir consumos excedentes a los estimados para el pago anual realizado, estos serán determinados para pago con la Unidad de Medida y Actualización que corresponda al momento de facturarse.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -894,3 +900,11 @@ P.O. 14 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 53.- POR EL QUE SE AUTORIZA REFORMAR EL ARTÍCULO 26 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su aprobación previa publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para aquellos usuarios que durante el mes de enero en curso hayan cubierto el pago anualizado 2022, sobre la base de descuento vigente con anterioridad al presente Decreto, el organismo operador de agua potable de Manzanillo deberá aplicar la bonificación correspondiente en los subsecuentes períodos de facturación de consumo.
