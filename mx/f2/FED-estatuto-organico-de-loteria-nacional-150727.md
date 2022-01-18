@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-loteria-nacional-150727"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-12-30"
-last_updated: "2021-08-18"
+last_updated: "2022-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-11-20"
 ---
 # ESTATUTO ORGANICO DE LOTERIA NACIONAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL D.O.F. DE 18 DE ENERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2022 (ABROGADO).
 
 Estatuto publicado en el Número 33 del Diario Oficial de la Federación, el miércoles 30 de diciembre de 2020.
 
@@ -760,3 +762,21 @@ D.O.F. 18 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE MODIFICA EL TRANSITORIO QUINTO DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 30 DE DICIEMBRE DE 2020”.]
 
 Único.- La presente modificación al Estatuto Orgánico de Lotería Nacional entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Lotería Nacional publicado en el Diario Oficial de la Federación el 30 de diciembre de 2020 y se derogan todas aquellas disposiciones que contravengan el presente Estatuto.
+
+TERCERO.- Se ordena la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados.
+
+CUARTO.- Los asuntos que al momento de la entrada en vigor del presente Estatuto se encuentren en trámite por parte de una determinada Unidad Administrativa y que, conforme al mismo, en lo sucesivo, deban ser atendidos por otra distinta, deberán continuar con su desahogo y ser resueltos por aquella o aquellas que inicialmente conocieron de dichos asuntos; salvo que las Unidades Administrativas involucradas acuerden por escrito la transferencia de los asuntos entre ellas.
+
+QUINTO.- Los procesos, procedimientos, actos, actividades, asuntos, impugnaciones y recursos iniciados antes de la entrada en vigor del presente estatuto, por el Órgano Interno de Control en Lotería Nacional para la Asistencia Pública en proceso de desincorporación, por fusión, seguirán tramitándose hasta su conclusión por el Órgano Interno de Control en Lotería Nacional, como entidad fusionante, así mismo se continuará realizando todo lo inherente a la defensa jurídica ante las diversas instancias jurisdiccionales.
+
+SEXTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna, en congruencia con el presente Estatuto, en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente.
+
+SÉPTIMO.- Las unidades administrativas cuya denominación o adscripción sea modificada, o se extingan en virtud de la entrada en vigor del presente Estatuto, dispondrán de lo necesario para que todos los documentos de archivo e instrumentos de consulta y control archivístico sean clasificados y trasladados a los archivos que correspondan, con el apoyo del área coordinadora de archivos de la Entidad, de conformidad con la normatividad en materia archivística y demás disposiciones jurídicas aplicables.
