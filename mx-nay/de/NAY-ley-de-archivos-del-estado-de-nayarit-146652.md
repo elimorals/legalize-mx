@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-archivos-del-estado-de-nayarit-146652"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-25"
-last_updated: "2021-01-25"
+last_updated: "2022-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ABRIL DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2022.
 
 Ley publicada en la Sección Primera al Número 17 del Periódico Oficial del Estado de Nayarit, el lunes 25 de enero de 2021.
 
@@ -95,7 +97,9 @@ V. Archivo de trámite. Al integrado por documentos de archivo de uso cotidiano 
 
 VI. Archivo General. Al Archivo General de la Nación;
 
-VII. Archivo General del Estado de Nayarit. A la entidad Desconcentrada especializada en materia de archivos en el orden local, que tiene por objeto promover la administración homogénea de los archivos, preservar, incrementar y difundir el patrimonio documental en el Estado, con el fin de salvaguardar su memoria de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2022)</small>
+
+VII. Archivo General del Estado de Nayarit. Al Organismo Público Descentralizado especializado en materia de archivos en el orden local, que tiene por objeto promover la administración homogénea de los archivos, preservar, incrementar y difundir el patrimonio documental en el Estado, con el fin de salvaguardar su memoria de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas;
 
 VIII. Archivo histórico. Al integrado por documentos de conservación permanente y de relevancia para la memoria nacional, regional o local de carácter público;
 
@@ -159,11 +163,19 @@ XXXVII. Instrumentos de consulta. A los instrumentos que describen las series, e
 
 XXXVIII. Inventarios documentales. A los instrumentos de consulta que describen las series documentales y expedientes de un archivo y que permiten su localización (inventario general), para las transferencias (inventario de transferencia) o para la baja documental (inventario de baja documental);
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2022)</small>
+
+XXXVIII Bis. Junta de Gobierno. A la Junta de Gobierno del Archivo General del Estado de Nayarit;
+
 XXXIX. Ley General. A la Ley General de Archivos;
 
 XL. Metadatos. Al conjunto de datos que describen el contexto, contenido y estructura de los documentos de archivos y su administración, a través del tiempo, y que sirven para identificarlos, facilitar su búsqueda, administración y control de acceso;
 
 XLI. Organización. Al conjunto de operaciones intelectuales y mecánicas destinadas a la clasificación, ordenación y descripción de los distintos grupos documentales con el propósito de consultar y recuperar, eficaz y oportunamente, la información. Las operaciones intelectuales consisten en identificar y analizar los tipos de documentos, su procedencia, origen funcional y contenido, en tanto que las operaciones mecánicas son aquellas actividades que se desarrollan para la ubicación física de los expedientes;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2022)</small>
+
+XLI Bis. Órgano Interno de Control. El Órgano Interno de Control del Archivo General del Estado de Nayarit;
 
 XLII. Patrimonio documental. A los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los archivos de los órganos federales, entidades federativas, municipios, alcaldías de la Ciudad de México, casas cúrales o cualquier otra organización, sea religiosa o civil;
 
@@ -275,7 +287,9 @@ Los sujetos obligados deberán conservar y preservar los archivos relativos a vi
 
 Mantenimiento de documentos. Los sujetos obligados deberán mantener los documentos contenidos en sus archivos en el orden original en que fueron producidos, conforme a los procesos de gestión documental que incluyen la producción, organización, acceso, consulta, valoración documental, disposición documental y conservación, en los términos que establezcan el Consejo Nacional, el Consejo Estatal y las disposiciones jurídicas aplicables.
 
-La Secretaría de la Contraloría General del Estado, los órganos internos de control o sus homólogos de los sujetos obligados vigilarán el estricto cumplimiento de la presente Ley, de acuerdo con sus competencias e integrarán auditorías archivísticas en sus programas anuales de trabajo.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2022)</small>
+
+La Secretaría para la Honestidad y Buena Gobernanza del Estado, los órganos internos de control o sus homólogos de los sujetos obligados vigilaran el estricto cumplimiento de la presente Ley, de acuerdo con sus competencias e integrarán auditorías archivísticas en sus programas anuales de trabajo.
 
 ###### Artículo 12.
 
@@ -351,9 +365,11 @@ El convenio o instrumento que dé origen a la coordinación que se refiere en el
 
 Los sujetos obligados que cuenten con oficinas regionales podrán habilitar unidades de resguardo del archivo de concentración regional.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2022)</small>
+
 ###### Artículo 21.
 
-Catálogo de disposición documental. Los documentos de archivo deberán conservarse apegándose a los periodos de reserva y plazos de conservación que se establezcan en el catálogo de disposición documental. La documentación que se desprenda de los trabajos o funciones de los sujetos obligados, es propiedad del Ente Público que los genera no de la persona física.
+Catálogo de disposición documental. Los documentos de archivo deberán conservarse apegándose a los periodos de reserva y plazos de conservación que se establezcan en el catálogo de disposición documental. La documentación que se desprenda de los trabajos o funciones de los sujetos obligados, estará en posesión del Ente Público que los genera no de la persona física.
 
 ### Capítulo Quinto. De la Planeación en Materia Archivística
 
@@ -767,7 +783,9 @@ I. El titular del Archivo General del Estado, quién lo presidirá;
 
 II. El titular de la Secretaría General de Gobierno;
 
-III. El titular de la Secretaría de la Contraloría General;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2022)</small>
+
+III. El titular de la Secretaría para la Honestidad y Buena Gobernanza;
 
 IV. Un representante del Congreso del Estado de Nayarit;
 
@@ -889,15 +907,39 @@ Acciones de coordinación. Las autoridades estatales y municipales deberán coad
 
 Copia de documentos o archivos de interés público. En caso de que el Archivo General del Estado de Nayarit lo considere necesario por la importancia o relevancia que tenga el documento en el Estado, podrá solicitar al Archivo General una copia de la versión facsimilar o digital que obtenga de los archivos de interés público que se encuentren en posesión de particulares.
 
-### Capítulo Primero. De la Organización y Funcionamiento
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2022)</small>
+
+### Capítulo Cuarto Bis. Del Registro Estatal de Archivos
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 73 Bis.
+
+Objeto. El Sistema Estatal contará con el Registro Estatal de Archivos, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en sus archivos, el cual será administrado por el Archivo General del Estado, su organización y funcionamiento será conforme a las disposiciones que emita el propio Consejo Local.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Articulo 73 Ter.
+
+Obligación de registrar. La inscripción al Registro Estatal es obligatoria para los sujetos obligados quienes deberán actualizar anualmente la información requerida en dicho Registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Local y, en su caso, el Consejo Nacional, en términos de lo dispuesto por la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Articulo 73 Quater.
+
+Aplicación informática. Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, una aplicación informática que les permitirá registrar y mantener actualizada la información, la cual deberá prever la interoperabilidad con el Registro Nacional y considerar las disposiciones que para tal efecto emita el Consejo Nacional.
+
+La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
 
 ## Título Quinto. Del Archivo General del Estado de Nayarit
 
-### Capítulo Segundo. Del Consejo Técnico y Científico Archivístico del Estado de Nayarit
+### Capítulo Primero. De la Organización y Funcionamiento
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2022)</small>
 
 ###### Artículo 74.
 
-Del Archivo General del Estado de Nayarit. El Archivo General del Estado de Nayarit es un organismo desconcentrado sectorizado a la Secretaría General de Gobierno, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines.
+Del Archivo General del Estado de Nayarit. El Archivo General del Estado de Nayarit es un Organismo Público Descentralizado, no sectorizado, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines.
 
 ###### Artículo 75.
 
@@ -979,27 +1021,117 @@ XXXIV. Las demás establecidas en esta Ley y en otras disposiciones jurídicas a
 
 Requisitos para ser Director del Archivo General del Estado de Nayarit. El Director General será nombrado por Gobernador del Estado y deberá cubrir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2022)</small>
 
-II. Contar al día de la designación, preferentemente el grado académico de Licenciatura en Administración de Archivos y Gestión Documental, o bien, en Administración Pública, Derecho o Ciencias Sociales y Humanidades y poseer el título respectivo expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de tres años en materia archivística;
+I. Ser de ciudadanía mexicana;
 
-III. No haber sido condenado por la comisión de algún delito doloso;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2022)</small>
+
+II. Contar al día de la designación, preferentemente con el grado de maestría en ciencias sociales o humanidades, y poseer el título respectivo expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de cinco años en materia archivística;
+
+III. (DEROGADA, P.O. 19 DE ENERO DE 2022)
 
 IV. No haber sido inhabilitado para ejercer cargos públicos,
 
-V. Tener cuando menos treinta años de edad al día de la designación, y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2022)</small>
 
-VI. No haber sido gobernador, magistrado, juez, diputado, fiscal general, secretario de despacho o dirigente de algún partido o agrupación política durante el año previo al día de su nombramiento.
+V. Tener cuando menos treinta años de edad al día de la designación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2022)</small>
+
+VI. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros de la Junta de Gobierno, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 19 DE ENERO DE 2022)</small>
+
+VII. No haber sido gobernador, magistrado, juez, diputado, fiscal general, secretario de despacho o dirigente de algún partido o agrupación política durante el año previo al día de su nombramiento.
 
 Durante su gestión, el Director General del Archivo del Estado de Nayarit, no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 77 Bis.
+
+Facultades. El Director General del Archivo General del Estado, además de lo previsto en la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit, la Ley de la Administración Pública Paraestatal y las disposiciones reglamentarias correspondientes, tendrá las siguientes facultades:
+
+I. Supervisar que la actividad del Archivo General del Estado de Nayarit cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+
+II. Proponer a la Junta de Gobierno las medidas necesarias para el funcionamiento del Archivo General;
+
+III. Proponer a la Junta de Gobierno el proyecto de Reglamento Interior del Archivo General del Estado de Nayarit;
+
+IV. Nombrar y remover a los servidores públicos del Archivo General, cuyo nombramiento no corresponda a la Junta de Gobierno, y
+
+V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 77 Ter.
+
+Integración del Archivo General del Estado de Nayarit. Para el cumplimiento de su objeto, el Archivo General del Estado de Nayarit contará con los siguientes órganos:
+
+I. Junta de Gobierno;
+
+II. Dirección General;
+
+III. Órgano Interno de Control;
+
+IV. Consejo Técnico, y
+
+V. La estructura administrativa y órganos técnicos establecidos en su Reglamento Interior.
+
+El Consejo Técnico operará conforme a los lineamientos emitidos por la Junta de Gobierno para tal efecto.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 77 Quater.
+
+Órgano de vigilancia. El Archivo General del Estado de Nayarit contará con un Órgano Interno de Control, de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y las disposiciones reglamentarias correspondientes; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.
 
 ###### Artículo 78.
 
 Relaciones Laborales. Las relaciones laborales entre el Archivo General del Estado de Nayarit y sus trabajadores deben sujetarse a lo dispuesto a la Ley Laboral Burocrática del Estado de Nayarit y las demás disposiciones jurídicas aplicables.
 
-### Capítulo Primero. Del Patrimonio Documental del Estado
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2022)</small>
 
-### Capítulo Segundo. Del Patrimonio Documental del Estado en Posesión de Particulares
+### Capítulo Primero Bis. De la Junta de Gobierno
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 78 Bis.
+
+Objeto y atribuciones de la Junta de Gobierno. La Junta de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado de Nayarit que, además de lo previsto en la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y la Ley de la Administración Pública Paraestatal y las disposiciones reglamentarias, tendrá las atribuciones siguientes:
+
+I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General del Estado de Nayarit;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico, y
+
+III. Las demás previstas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 78 Ter.
+
+Integración de la Junta de Gobierno. La Junta de Gobierno estará integrada por un representante de las siguientes dependencias y entidades:
+
+I. La Secretaría General de Gobierno, quien lo presidirá;
+
+II. La Secretaria de Administración y Finanzas;
+
+III. La Secretaría de Educación;
+
+IV. La Secretaría para la Honestidad y Buena Gobernanza;
+
+V. Consejo de Ciencia y Tecnología del Estado de Nayarit, y
+
+VI. La autoridad encargada de la cultura en el Estado;
+
+El Director General participará en la Junta de Gobierno con el carácter de secretario técnico y tendrá derecho a voz pero no de voto.
+
+Los integrantes de la Junta de Gobierno deberán tener, por lo menos, nivel de Director o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de Director de Área o su equivalente.
+
+El presidente o a propuesta de alguno de los integrantes de la Junta de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz, pero sin voto. Los integrantes de la Junta de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
+
+### Capítulo Segundo. Del Consejo Técnico y Científico Archivístico del Estado de Nayarit
 
 ###### Artículo 79.
 
@@ -1011,7 +1143,7 @@ Los integrantes del Consejo Técnico no obtendrán remuneración, compensación 
 
 ## Título Sexto. Del Patrimonio Documental del Estado de Nayarit y la Cultura Archivística
 
-### Capítulo Tercero. De la Capacitación y Cultura Archivística
+### Capítulo Primero. Del Patrimonio Documental del Estado
 
 ###### Artículo 80.
 
@@ -1055,7 +1187,7 @@ Protección Archivística en Zonas de Riesgo. El Archivo General del Estado de N
 
 Acciones coordinadas para protección del patrimonio documental del Estado. Los sujetos obligados deberán coadyuvar con el Archivo General del Estado de Nayarit, en un marco de respeto de sus atribuciones, para promover acciones coordinadas que tengan como finalidad la protección del patrimonio documental del Estado.
 
-### Capítulo Único. De las Infracciones Administrativas
+### Capítulo Segundo. Del Patrimonio Documental del Estado en Posesión de Particulares
 
 ###### Artículo 88.
 
@@ -1068,6 +1200,8 @@ Recuperación de posesión del documento de archivo cuando se ponga en riesgo su
 ###### Artículo 90.
 
 Visitas de verificación. Para vigilar el cumplimiento de lo establecido en el presente capítulo, el Archivo General del Estado de Nayarit, podrá efectuar visitas de verificación, en los términos establecidos en las disposiciones jurídicas aplicables.
+
+### Capítulo Tercero. De la Capacitación y Cultura Archivística
 
 ###### Artículo 91.
 
@@ -1082,6 +1216,10 @@ Capacitación. Los sujetos obligados podrán celebrar acuerdos interinstituciona
 Responsabilidad de los usuarios. Los usuarios de los archivos deberán respetar las disposiciones aplicables para la consulta y conservación de los documentos de archivo.
 
 ## Título Séptimo. De las Infracciones Administrativas y Delitos en Materia de Archivos
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 19 DE ENERO DE 2022)</small>
+
+### Capítulo Primero. De las Infracciones Administrativas
 
 ###### Artículo 94.
 
@@ -1127,6 +1265,44 @@ Se considera grave el incumplimiento a las fracciones I, II, III, IV y V del art
 
 Responsabilidad civil o penal. Las sanciones administrativas señaladas en esta Ley son aplicables sin perjuicio de la responsabilidad civil o penal de quienes incurran en ellas. En caso de que existan hechos que pudieran ser constitutivos de algún delito, las autoridades estarán obligadas a realizar la denuncia ante el Ministerio Público correspondiente, coadyuvando en la investigación y aportando todos los elementos probatorios con los que cuente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2022)</small>
+
+### Capítulo Segundo. De los Delitos Contra los Archivos
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 98.
+
+Delitos. Será sancionado con pena de tres a diez años de prisión y multa de tres mil a cinco mil veces la unidad de medida y actualización a la persona que:
+
+I. Sustraiga, oculte, altere, mutile, destruya o inutilice, total o parcialmente, información y documentos de los archivos que se encuentren bajo su resguardo, salvo en los casos que no exista responsabilidad determinada en esta Ley;
+
+II. Transfiera la propiedad o posesión, transporte o reproduzca, sin el permiso correspondiente, un documento considerado patrimonio documental del Estado;
+
+III. Traslade fuera del territorio del estado documentos considerados patrimonio documental del Estado, sin autorización del Archivo General del Estado de Nayarit;
+
+IV. Mantenga, injustificadamente, fuera del territorio estatal documentos considerados patrimonio documental del Estado, una vez fenecido el plazo por el que el Archivo General del Estado de Nayarit le autorizó la salida del Estado, y
+
+V. Destruya documentos considerados patrimonio documental del Estado.
+
+La facultad para perseguir dichos delitos prescribirá en los términos previstos en la legislación penal aplicable.
+
+Tratándose del supuesto previsto en la fracción III, la multa será hasta por el valor del daño causado.
+
+Será sancionado con pena de tres a diez años de prisión y multa de tres mil veces la unidad de medida y actualización hasta el valor del daño causado, a la persona que destruya documentos relacionados con violaciones graves a derechos humanos, alojados en algún archivo, que así hayan sido declarados previamente por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 99.
+
+Sanciones. Las sanciones contempladas en esta Ley se aplicarán sin perjuicio de las previstas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+
+###### Artículo 100.
+
+Competencia. Los Tribunales Estatales serán los competentes para sancionar los delitos establecidos en esta Ley.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
@@ -1139,7 +1315,7 @@ Ley, en los lineamientos emitidos por el Consejo Nacional.
 
 CUARTO. Los sujetos obligados aprobarán las disposiciones normativas internas y adoptarán las medidas financieras y presupuestales, de infraestructura y de recursos humanos para el funcionamiento del Sistema Institucional de Archivos.
 
-QUINTO. El Consejo Local, se integrará y deberá empezar a sesionar dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+QUINTO. (DEROGADO, P.O. 19 DE ENERO DE 2022)
 
 SEXTO. Aquellos documentos que se encuentren en los archivos de trámite o de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar los procesos técnicos archivísticos previstos en la presente Ley, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
 
@@ -1155,14 +1331,36 @@ OCTAVO. En un plazo de un año, contado a partir de la entrada en vigor de la pr
 
 En el caso de los Sujetos Obligados del Poder Ejecutivo, el programa de capacitación en materia de gestión documental y administración de archivos a que hace referencia el párrafo anterior, estará a cargo del Archivo General del Estado de Nayarit, quien podrá coordinarse para tal efecto, con el órgano garante local.
 
-NOVENO. La Secretaría General de Gobierno, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General del Estado de Nayarit para el cumplimiento de la presente Ley.
+NOVENO. DEROGADO, P.O. 19 DE ENERO DE 2022)
 
 DÉCIMO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y subsecuentes.
 
-DÉCIMO PRIMERO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Poder Ejecutivo en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+DÉCIMO PRIMERO. DEROGADO, P.O. 19 DE ENERO DE 2022)
 
 Dado en Sesión Pública Virtual del Recinto Oficial de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los diecisiete días del mes de diciembre del año dos mil veinte.
 
 Dip. Heriberto Castañeda Ulloa, Presidente.- Rúbrica.- Dip. Margarita Morán Flores, Secretaria.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veinticinco días del mes de enero de dos mil veintiuno.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En un plazo que no deberá exceder de 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Poder Ejecutivo emitirá el Reglamento Interior del organismo público descentralizado denominado Archivo General del Estado de Nayarit y el Reglamento de la Ley de Archivos del Estado de Nayarit, así como, se deberán armonizar todas las disposiciones normativas relacionadas con el presente Decreto.
+
+Una vez cumplimentado lo señalado en el párrafo anterior, el titular del Poder Ejecutivo designará al titular del Archivo General del Estado de Nayarit en apego a los requisitos de elegibilidad y al periodo del cargo que señala la presente Ley.
+
+TERCERO. La Junta de Gobierno del Archivo General del Estado deberá instalarse en un plazo que no exceda de treinta días naturales posteriores a la designación del titular del Archivo General del Estado de Nayarit. En sesión de instalación, la Junta de Gobierno emitirá su reglamento de sesiones y las demás disposiciones que estime conducentes para el cumplimiento de los objetivos y metas del Archivo General del Estado de Nayarit.
+
+CUARTO. El titular del Archivo General del Estado de Nayarit realizará las gestiones y actividades necesarias para la instalación del Consejo Local, el cual se integrará y deberá empezar a sesionar dentro de los seis meses posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría General de Gobierno en coordinación con la Secretaría de Administración y Finanzas del Gobierno del Estado, gestionarán y realizarán las acciones necesarias para proveer de los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General del Estado de Nayarit para el inicio de sus funciones en cumplimiento de la presente Ley.
+
+SEXTO. Las personas que actualmente laboran en la Dirección General del Archivo General del Estado de Nayarit, unidad administrativa adscrita a la Secretaría General de Gobierno, deberán ser consideradas para formar parte de la plantilla de personal sustantivo del organismo público descentralizado denominado Archivo General del Estado de Nayarit. En ese sentido, los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de la Dirección General del Archivo General del Estado al Organismo Público Descentralizado denominado Archivo General del Estado de Nayarit, se respetarán, conforme a la ley. El presente Decreto garantizará y respetará los derechos de los trabajadores conforme a la Ley.
+
+SÉPTIMO. El titular del Poder Ejecutivo, en términos de los artículos 82 y 83 de la Ley General de Archivos y de conformidad con la disponibilidad presupuestaria, podrá prever la creación y administración de un Fondo de Apoyo Económico para el Archivo General del Estado de Nayarit.
