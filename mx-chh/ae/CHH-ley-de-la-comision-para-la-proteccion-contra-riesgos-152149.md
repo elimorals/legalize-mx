@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-comision-para-la-proteccion-contra-riesgos-152149"
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-23"
-last_updated: "2021-10-23"
+last_updated: "2022-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE LA COMISION PARA LA PROTECCION CONTRA RIESGOS SANITARIOS DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2022.
 
 Ley publicada en el Número 85 del Periódico Oficial del Estado de Chihuahua, el sábado 23 de octubre del 2021.
 
@@ -1183,9 +1185,11 @@ En su caso, las personas titulares de las Unidades Administrativas de la COPRIS-
 
 T R A N S I T O R I O S
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor, a los noventa días posteriores a su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día primero de febrero del año 2023.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1232,3 +1236,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de septiembre del año dos mil veintiuno.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. CÉSAR GUSTAVO JÁUREGUI MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFDEC/0184/2022 I P.E., POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO N° LXVI/EXLEY/1064/2021 XIV P.E., PUBLICADO EL 23 DE OCTUBRE DE 2021 EN EL PERIÓDICO OFICIAL DEL ESTADO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE LA COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
