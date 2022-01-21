@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2021-09-10"
+last_updated: "2022-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -334,6 +334,16 @@ La Legislatura, a petición de una o más comisiones, podrá acordar que se soli
 ###### Artículo 37.
 
 La Legislatura podrá realizar foros de consulta y audiencias con el propósito de recabar opiniones, puntos de vista y aportaciones de los diversos sectores de la sociedad, en relación con iniciativas de ley o decreto, previa determinación del procedimiento en la convocatoria respectiva.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2022)</small>
+
+Además, podrá comunicarse con otros Órganos de Gobierno Locales o Federales, autoridades o poderes de otras entidades federativas.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2022)</small>
+
+###### Artículo 37 Bis.
+
+La Legislatura impulsará la coordinación con otros Congresos Locales, en especial, con aquellos de las entidades de la Zona Metropolitana del Valle de México, a fin de promover la conformación del Parlamento Metropolitano, con apego y respeto a la soberanía de las entidades, como un mecanismo no vinculante de análisis y discusión, que servirá para enriquecer los trabajos legislativos en los respectivos congresos locales, bajo una visión metropolitana.
 
 ###### Artículo 38.
 
@@ -2430,3 +2440,15 @@ Se derogan las disposiciones de igual o menor rango que se opongan al presente r
 ###### ARTÍCULO CUARTO.
 
 Los órganos de dirección del Instituto de Estudios Legislativos, continuarán funcionando con las denominaciones correspondientes, en todo lo que no contravengan a este reglamento.
+
+G.G. 21 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 14.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 Y EL ARTÍCULO 37 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
