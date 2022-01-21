@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2020-10-02"
+last_updated: "2022-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,27 +20,99 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+ESTATUTO ORGÁNICO DE PEMEX-REFINACIÓN
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 28 de marzo de 2013
 
-Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
+Al margen un logotipo, que dice: Pemex.- Pemex-Refinación.
 
-GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
+EL CONSEJO DE ADMINISTRACION DE PEMEX-REFINACION, con fundamento en el artículo Décimo Tercero, fracción XI, del Decreto que tiene por objeto establecer la estructura, el funcionamiento y el control de los organismos subsidiarios de Petróleos Mexicanos, aprobó el
 
-Que el Congreso del mismo ha decretado lo siguiente:
+ESTATUTO ORGANICO DE PEMEX-REFINACION
 
-El XXIII Congreso Constitucional y Constituyente del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, en ejercicio de los poderes que el Pueblo le ha conferido, decreta la siguiente Constitución Política Reformada, del Estado de Coahuila de Zaragoza:
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-## TITULO PRIMERO.
+### CAPITULO UNICO
 
-Del Estado y sus Habitantes.
+###### Artículo 1.
 
-### CAPITULO I.
+El presente Estatuto Orgánico tiene por objeto establecer la estructura básica, bases de organización, facultades y funciones de las unidades administrativas que integran Pemex-Refinación, así como las funciones, organización y funcionamiento de su Consejo de Administración.
 
-De la Independencia, Soberanía, forma de Gobierno y Territorio del Estado.
+###### Artículo 2.
+
+Pemex-Refinación es un organismo público descentralizado con fines productivos, de carácter técnico, industrial y comercial, con personalidad jurídica y patrimonio propios, subsidiario de PEMEX, de conformidad con el artículo Primero del Decreto de los Organismos Subsidiarios.
+
+###### Artículo 3.
+
+El objeto de Pemex-Refinación consiste en los procesos industriales de la refinación; elaboración de productos petrolíferos y de derivados del petróleo que sean susceptibles de servir como materias primas industriales básicas; almacenamiento, transporte, distribución y comercialización de los productos y derivados mencionados.
+
+###### Artículo 4.
+
+Para los efectos del presente Estatuto, se entenderá por:
+
+I. Adquisiciones, Arrendamientos, Obras y Servicios: Todas aquellas adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas independientemente del régimen jurídico por el que se contraten;
+
+II. Consejo de Administración o Consejo: El Organo de Gobierno de Pemex-Refinación;
+
+III. Decreto de los Organismos Subsidiarios: El Decreto que tiene por objeto establecer la estructura, el funcionamiento y el control de los organismos subsidiarios de Petróleos Mexicanos, publicado en el Diario Oficial de la Federación el 21 de marzo de 2012 y, en su caso, sus modificaciones;
+
+IV. Director General: El Director General de Pemex- Refinación;
+
+V. Estatuto: El presente ordenamiento, aprobado y, en su caso, modificado, por el Consejo de Administración;
+
+VI. Ley: La Ley de Petróleos Mexicanos;
+
+VII. Marcas PEMEX: Todo signo visible que distingue productos o servicios, registrado ante las autoridades marcarias de México o de otros países, en favor de PEMEX, de Pemex-Refinación o licenciadas para uso de este último;
+
+VIII. Organismos Subsidiarios: Pemex-Exploración y Producción, Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica, y los que se constituyan en términos de la Ley;
+
+IX. Pemex-Refinación: El Organismo, previsto en los artículos Primero y Segundo, fracción II, del Decreto de los Organismos Subsidiarios;
+
+X. PEMEX: Petróleos Mexicanos, organismo descentralizado creado por decreto publicado el 7 de junio de 1938;
+
+XI. Plan de Negocios: Aquél a que se refieren los artículos 19, fracción III; 24; 26, fracción I; 31, fracción III; octavo transitorio, último párrafo; noveno transitorio, penúltimo párrafo, y décimo tercero transitorio de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XI-A. Procura y Abastecimiento: Actividades encaminadas a cubrir las necesidades de contratación de bienes, servicios, arrendamientos y obras, considerando calidad, cantidad, tiempo, precio y ubicación para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XII. Reglamento: Reglamento de la Ley de Petróleos Mexicanos, y
+
+XIII. Sistema Nacional de Refinación: El conjunto de instalaciones industriales localizadas en el territorio nacional dedicadas a la refinación del petróleo crudo, así como para la distribución, almacenamiento, reparto y venta de productos petrolíferos, relacionadas entre sí para contribuir a atender la demanda de consumo de la nación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+###### Artículo 5.
+
+De conformidad con el modelo institucional establecido en la Ley y su Reglamento, así como en el Decreto de los Organismos Subsidiarios; las unidades administrativas de Pemex-Refinación deberán ejercer sus competencias, responsabilidades y funciones, en congruencia con las atribuciones y funciones de las direcciones y subdirecciones corporativas de PEMEX, así como de las unidades administrativas competentes en materia de Procura y Abastecimiento; de control interno, y de responsabilidad y desarrollo social, de este último Organismo que, en ejercicio de la conducción central y dirección estratégica, les confiere el Estatuto Orgánico de PEMEX.
+
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+En estos términos, corresponde a las unidades administrativas de Pemex-Refinación, participar, en su caso, en el diseño y elaboración, así como ejecutar, implementar, aplicar, cumplir, y dar seguimiento a las propuestas, estrategias, programas, planes, proyectos, sistemas, directrices, criterios, acuerdos, mecanismos, iniciativas y demás disposiciones e instrumentos institucionales que determinen las direcciones y subdirecciones corporativas de PEMEX, así como las unidades administrativas competentes en materia de control interno, y de responsabilidad y desarrollo social, de este último, en términos de las funciones que les confiere el Estatuto Orgánico de PEMEX y demás disposiciones aplicables.
+
+De igual forma, las unidades administrativas de Pemex-Refinación, deberán:
+
+I. Realizar las acciones que resulten necesarias para el cumplimiento de los objetivos, metas de operación, resultados e indicadores de desempeño establecidos en el Plan de Negocios;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+II. Proporcionar la información operativa, técnica y administrativa que les sea requerida por las direcciones y subdirecciones corporativas de PEMEX, así como por las unidades administrativas competentes en materia de control interno, y de responsabilidad y desarrollo social de dicho Organismo, en la forma y términos solicitados por estas últimas; así como la información sobre los avances y resultados, y presentar medidas de mejora;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, con independencia de lo que corresponda al Consejo de Administración de PEMEX o a otras instancias;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+IV. Presentar al Director General de PEMEX para su resolución las diferencias de criterios entre Pemex-Refinación y los Organismos Subsidiarios o sus unidades administrativas, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V. Informar a la Gerencia de Responsabilidad y Desarrollo Social de PEMEX, respecto de aquellos bienes muebles e inmuebles no útiles susceptibles de donación, conforme a los mecanismos que se establezcan para tal efecto.
+
+Sin perjuicio de lo anterior, las funciones de administración, programación, presupuesto, contabilidad y finanzas que lleven a cabo las unidades administrativas de Pemex-Refinación, conforme al presente Estatuto, se sujetarán funcionalmente a las unidades administrativas competentes de PEMEX.
 
 ###### Artículo 1º.
 
@@ -100,189 +172,71 @@ Para el cumplimiento de sus funciones, el Estado se dividirá en Distritos, cual
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2012)</small>
 
-### CAPITULO II.
+### CAPITULO PRIMERO. DE LAS FUNCIONES DEL CONSEJO
 
-Derechos Humanos y sus Garantías.
+###### Artículo 6.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+En adición a lo establecido en el artículo Décimo Tercero del Decreto de los Organismos Subsidiarios, el Consejo de Administración tendrá las funciones siguientes:
 
-###### Artículo 7°.
+I. Aprobar la normatividad interna, relativa a las directrices, prioridades y políticas del Organismo, de carácter técnico, industrial y comercial, o sus modificaciones, requerida para el cumplimiento de su objeto, así como aquélla que, conforme a sus funciones le correspondan, de acuerdo con lo dispuesto en el Decreto de los Organismos Subsidiarios, el presente Estatuto y las demás disposiciones aplicables, así como la que expresamente señale mediante acuerdo, el Consejo de Administración de PEMEX; que no corresponda a la conducción central y dirección estratégica de la industria petrolera a cargo de PEMEX;
 
-Dentro del territorio del Estado, toda persona gozará de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que el Estado Mexicano sea parte. El ejercicio de estos derechos no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones que establece la Constitución Federal.
+II. Autorizar la creación de comités técnicos especializados y comités institucionales, así como otorgarles las funciones que por su naturaleza deban ejercer;
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+III. Definir las políticas para que el Organismo pueda responder solidariamente u otorgar garantías corporativas o financieras para respaldar obligaciones contraídas por sus filiales, por los Organismos Subsidiarios o por PEMEX, en congruencia con las disposiciones que sobre dicha materia emita el Consejo de Administración de PEMEX, así como constituir el Comité correspondiente;
 
-Los derechos humanos son inalienables, imprescriptibles, irrenunciables, irrevocables y exigibles. En la aplicación e interpretación de las normas de derechos humanos prevalecerá el principio por persona.
+IV. Conocer el informe de acciones y resultados que presente el Director General en cada sesión ordinaria, que deberá contener como mínimo, lo establecido en las fracciones I a VI del artículo 87 del Reglamento, en lo que resulte aplicable al Organismo, y
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 285/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 739 POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)
+V. Aprobar los programas correspondientes al Organismo, así como sus modificaciones, salvo los que se encuentren regulados en otras disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2020)</small>
+###### Artículo 7.
 
-EL ESTADO RECONOCE A TODOS LOS PUEBLOS INDÍGENAS QUE SE HAN ASENTADO EN NUESTRO TERRITORIO, SIN IMPORTAR SU ORIGEN O LA ÉPOCA EN QUE INICIARON SU RESIDENCIA, Y A LOS TRIBALES QUE DESCIENDEN DE POBLACIONES AFROMEXICANAS, A ESTAS COMUNIDADES SE LES BRINDARÁN TODOS LOS APOYOS NECESARIOS PARA LA CONSERVACIÓN DE SU CULTURA, LENGUA, COSTUMBRES Y FORMAS DE SUBSISTENCIA, ADEMÁS DE GARANTIZARLES TODOS LOS DERECHOS QUE LOS TRATADOS INTERNACIONALES Y LAS LEYES NACIONALES CONFIEREN A LAS ETNIAS MEXICANAS. LOS PUEBLOS MASCOGO Y KICKAPOO GOZAN DEL RECONOCIMIENTO COMO COMUNIDADES INDÍGENAS Y AFROMEXICANAS DEL ESTADO DE COAHUILA DE ZARAGOZA PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES.
+Corresponden al Presidente del Consejo de Administración las funciones siguientes:
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 285/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 739 POR EL QUE SE ADICIONA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)
+I. Someter a consideración de los miembros del Consejo el orden del día correspondiente y, en su caso, el acta de la sesión anterior para su aprobación;
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2020)</small>
+II. Instalar, presidir y conducir las sesiones del Consejo de Administración;
 
-ESTA CONSTITUCIÓN RECONOCE Y GARANTIZA EL DERECHO DE LOS PUEBLOS, LAS COMUNIDADES INDÍGENAS Y AFROMEXICANAS A LA LIBRE DETERMINACIÓN Y, EN CONSECUENCIA, A LA AUTONOMÍA, ASEGURANDO LA UNIDAD ESTATAL, PARA:
+III. Acordar la celebración de sesiones extraordinarias;
 
-A) DECIDIR SUS FORMAS INTERNAS DE CONVIVENCIA Y ORGANIZACIÓN SOCIAL, ECONÓMICA, POLÍTICA Y CULTURAL.
+IV. Invitar a las personas que puedan coadyuvar al desarrollo de las actividades del Consejo;
 
-B) APLICAR SUS PROPIOS SISTEMAS NORMATIVOS EN LA REGULACIÓN Y SOLUCIÓN DE SUS CONFLICTOS INTERNOS, SUJETÁNDOSE A LOS PRINCIPIOS GENERALES QUE SE ESTABLECEN EN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RESPETANDO LAS GARANTÍAS INDIVIDUALES, LOS DERECHOS HUMANOS Y, DE MANERA RELEVANTE, LA DIGNIDAD E INTEGRIDAD DE LAS MUJERES. LA LEY ESTABLECERÁ LOS CASOS Y PROCEDIMIENTOS DE VALIDACIÓN POR LOS JUECES O TRIBUNALES CORRESPONDIENTES.
+V. Diferir la celebración de las sesiones, y decretar, en su caso, los recesos de las mismas, y
 
-C) ELEGIR DE ACUERDO CON SUS NORMAS, USOS Y COSTUMBRES, PROCEDIMIENTOS Y PRÁCTICAS TRADICIONALES, A LAS AUTORIDADES O REPRESENTANTES PARA EL EJERCICIO DE SUS FORMAS PROPIAS DE GOBIERNO INTERNO, GARANTIZANDO LA PARTICIPACIÓN DE LAS MUJERES EN CONDICIONES DE EQUIDAD FRENTE A LOS VARONES, EN UN MARCO QUE RESPETE EL PACTÓ FEDERAL Y LA SOBERANÍA DEL ESTADO.
+VI. Las demás que le señalen las disposiciones aplicables.
 
-D) PRESERVAR Y ENRIQUECER SUS LENGUAS, CONOCIMIENTOS Y TODOS LOS ELEMENTOS QUE CONSTITUYAN SU CULTURA E IDENTIDAD.
+###### Artículo 8.
 
-E) CONSERVAR Y MEJORAR EL HÁBITAT Y SUS RECURSOS NATURALES Y PRESERVAR LA INTEGRIDAD DE SUS TIERRAS, EN LOS TÉRMINOS ESTABLECIDOS EN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y LAS LEYES RESPECTIVAS.
+El Secretario y el Prosecretario del Consejo de Administración serán servidores públicos de PEMEX y tendrán voz pero no voto en las sesiones de dicho Consejo.
 
-F) ACCEDER, CON RESPETO A LAS FORMAS Y MODALIDADES DE PROPIEDAD Y TENENCIA DE LA TIERRA ESTABLECIDAS EN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y A LAS LEYES DE LA MATERIA, ASÍ COMO A LOS DERECHOS ADQUIRIDOS POR TERCEROS O POR INTEGRANTES DE LA COMUNIDAD, AL USO Y DISFRUTE PREFERENTE DE LOS RECURSOS NATURALES DE LOS LUGARES QUE HABITAN Y OCUPAN LAS COMUNIDADES, SALVO AQUELLOS QUE CORRESPONDEN A LAS ÁREAS ESTRATÉGICAS, EN TÉRMINOS DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS. PARA ESTOS EFECTOS, LAS COMUNIDADES PODRÁN ASOCIARSE EN TÉRMINOS DE LEY.
+###### Artículo 9.
 
-G) ELEGIR, EN LOS MUNICIPIOS CON POBLACIÓN INDÍGENA, REPRESENTANTES ANTE LOS AYUNTAMIENTOS, OBSERVANDO EL PRINCIPIO DE PARIDAD DE GÉNERO, EN LOS TÉRMINOS DISPUESTOS EN LA LEY, A ESTOS REPRESENTANTES SE LES DENOMINARÁ REGIDOR O REGIDORA ÉTNICO O AFROMEXICANO.
+El Secretario del Consejo tendrá las funciones siguientes:
 
-H) ACCEDER PLENAMENTE A LA JURISDICCIÓN DEL ESTADO. PARA GARANTIZAR ESE DERECHO, EN TODOS LOS JUICIOS Y PROCEDIMIENTOS EN QUE SEAN PARTE, INDIVIDUAL O COLECTIVAMENTE, SE DEBERÁN TOMAR EN CUENTA SUS COSTUMBRES Y ESPECIFICIDADES CULTURALES, RESPETANDO LOS PRECEPTOS DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ESTA CONSTITUCIÓN Y LAS LEYES RESPECTIVAS. LOS INDÍGENAS TIENEN, EN TODO TIEMPO, EL DERECHO A SER ASISTIDOS POR INTÉRPRETES Y DEFENSORES QUE TENGAN CONOCIMIENTO DE SU LENGUA Y CULTURA.
+I. Convocar, por indicaciones del Presidente del Consejo, a sesiones ordinarias y extraordinarias;
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 285/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 739 POR EL QUE SE ADICIONA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)
+II. Asistir a las sesiones del Consejo;
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2020)</small>
+III. Elaborar la lista de asistencia y verificar que se cuenta con el quórum para instalar las sesiones, así como para realizar las votaciones;
 
-EL ESTADO Y LOS MUNICIPIOS, PARA PROMOVER LA IGUALDAD DE OPORTUNIDADES DE LOS INDÍGENAS Y ELIMINAR CUALQUIER PRÁCTICA DISCRIMINATORIA, ESTABLECERÁN LAS INSTITUCIONES Y DETERMINARÁN LAS POLÍTICAS NECESARIAS PARA GARANTIZAR LA VIGENCIA DE LOS DERECHOS DE LOS INDÍGENAS Y EL DESARROLLO INTEGRAL DE SUS PUEBLOS Y COMUNIDADES, LAS CUALES DEBERÁN SER DISEÑADAS Y OPERADAS CONJUNTAMENTE CON ELLOS. PARA ABATIR LAS CARENCIAS Y REZAGOS QUE AFECTAN A LOS PUEBLOS Y COMUNIDADES INDÍGENAS, DICHAS AUTORIDADES, TIENEN LA OBLIGACIÓN DE:
+IV. Levantar las actas de las sesiones del Consejo, las cuales deberán contener de manera sucinta los asuntos tratados y asentarse en las mismas los acuerdos adoptados, así como los votos razonados de los consejeros y, una vez aprobadas y debidamente firmadas por el Presidente, el Secretario y el Prosecretario, asentarlas en los libros de registro respectivos;
 
-A) IMPULSAR EL DESARROLLO REGIONAL DE LAS ZONAS INDÍGENAS CON EL PROPÓSITO DE FORTALECER LAS ECONOMÍAS LOCALES Y MEJORAR LAS CONDICIONES DE VIDA DE SUS PUEBLOS, MEDIANTE ACCIONES COORDINADAS ENTRE LOS DIFERENTES ÓRDENES DE GOBIERNO, CON LA PARTICIPACIÓN DE LAS COMUNIDADES. LAS AUTORIDADES MUNICIPALES DETERMINARÁN, EQUITATIVAMENTE, LAS ASIGNACIONES PRESUPUESTALES QUE LAS COMUNIDADES ADMINISTRARÁN DIRECTAMENTE PARA FINES ESPECÍFICOS.
+V. Suscribir y llevar el registro de los acuerdos del Consejo, hacerlos del conocimiento del Presidente, de los consejeros y del Director General, y presentar periódicamente al Consejo el reporte de seguimiento de acuerdos que elabore el Organismo;
 
-B) GARANTIZAR E INCREMENTAR LOS NIVELES DE ESCOLARIDAD, FAVORECIENDO LA EDUCACIÓN BILINGÜE E INTERCULTURAL, LA ALFABETIZACIÓN, LA CONCLUSIÓN DE LA EDUCACIÓN BÁSICA, LA CAPACITACIÓN PRODUCTIVA Y LA EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR; ESTABLECER UN SISTEMA DE BECAS PARA LOS ESTUDIANTES INDÍGENAS EN TODOS LOS NIVELES; DEFINIR Y DESARROLLAR PROGRAMAS EDUCATIVOS DE CONTENIDO REGIONAL QUE RECONOZCAN LA HERENCIA CULTURAL DE SUS PUEBLOS, DE ACUERDO CON LAS LEYES DE LA MATERIA Y EN CONSULTA CON LAS COMUNIDADES INDÍGENAS, E IMPULSAR EL RESPETO Y CONOCIMIENTO DE LAS DIVERSAS CULTURAS EXISTENTES EN EL ESTADO.
+VI. Resguardar, actualizar y digitalizar los libros de actas, así como administrar el archivo del Consejo;
 
-C) ASEGURAR EL ACCESO EFECTIVO A LOS SERVICIOS DE SALUD, APROVECHANDO DEBIDAMENTE LA MEDICINA TRADICIONAL, ASÍ COMO APOYAR LA NUTRICIÓN DE LOS INDÍGENAS MEDIANTE PROGRAMAS DE ALIMENTACIÓN, EN ESPECIAL PARA LA POBLACIÓN INFANTIL.
+VII. Ordenar la protocolización ante Notario Público de las actas y acuerdos que, en su caso, lo requieran;
 
-D) MEJORAR LAS CONDICIONES DE LAS COMUNIDADES INDÍGENAS Y DE SUS ESPACIOS PARA LA CONVIVENCIA Y RECREACIÓN, MEDIANTE ACCIONES QUE FACILITEN EL ACCESO AL FINANCIAMIENTO PÚBLICO Y PRIVADO PARA LA CONSTRUCCIÓN Y MEJORAMIENTO DE VIVIENDA, ASÍ COMO AMPLIAR LA COBERTURA DE LOS SERVICIOS SOCIALES BÁSICOS.
+VIII. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo;
 
-E) PROPICIAR LA INCORPORACIÓN DE LAS MUJERES INDÍGENAS AL DESARROLLO, MEDIANTE EL APOYO A LAS ACTIVIDADES PRODUCTIVAS, LA PROTECCIÓN DE SU SALUD, EL OTORGAMIENTO DE ESTÍMULOS PARA FAVORECER SU EDUCACIÓN Y SU PARTICIPACIÓN EN LA TOMA DE DECISIONES RELACIONADAS CON LA VIDA COMUNITARIA.
+IX. Clasificar los documentos del archivo del Consejo de Administración, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, previa consulta con el Organismo;
 
-F) EXTENDER LA RED DE COMUNICACIONES QUE PERMITA LA INTEGRACIÓN DE LAS COMUNIDADES, MEDIANTE LA CONSTRUCCIÓN Y AMPLIACIÓN DE VÍAS DE COMUNICACIÓN.
+X. Integrar los materiales, documentos e información necesarios para el desahogo del orden del día de las sesiones, y
 
-G) APOYAR LAS ACTIVIDADES PRODUCTIVAS Y EL DESARROLLO SUSTENTABLE DE LAS COMUNIDADES INDÍGENAS MEDIANTE ACCIONES QUE PERMITAN ALCANZAR LA SUFICIENCIA DE SUS INGRESOS ECONÓMICOS, LA APLICACIÓN DE ESTÍMULOS PARA LAS INVERSIONES PÚBLICAS Y PRIVADAS QUE PROPICIEN LA CREACIÓN DE EMPLEOS, LA INCORPORACIÓN DE TECNOLOGÍAS PARA INCREMENTAR SU PROPIA CAPACIDAD PRODUCTIVA, ASÍ COMO PARA ASEGURAR EL ACCESO EQUITATIVO A LOS SISTEMAS DE ABASTO Y COMERCIALIZACIÓN.
+XI. Las demás que, en su caso, expresamente el Consejo o su Presidente le señalen, así como aquéllas que se requieran para el adecuado desarrollo de las sesiones, y las que sean necesarias para el ejercicio de las funciones anteriores.
 
-H) ESTABLECER POLÍTICAS SOCIALES PARA PROTEGER A LOS MIGRANTES DE LOS PUEBLOS INDÍGENAS, TANTO EN EL TERRITORIO ESTATAL COMO EN EL EXTRANJERO, MEDIANTE ACCIONES PARA GARANTIZAR LOS DERECHOS LABORALES DE LOS JORNALEROS AGRÍCOLAS; MEJORAR LAS CONDICIONES DE SALUD DE LAS MUJERES; APOYAR CON PROGRAMAS ESPECIALES DE EDUCACIÓN Y NUTRICIÓN A NIÑOS Y JÓVENES DE FAMILIAS MIGRANTES; VELAR POR EL RESPETO DE SUS DERECHOS HUMANOS Y PROMOVER LA DIFUSIÓN DE SUS CULTURAS.
+#### SECCION PRIMERA. DE LOS SUBDIRECTORES
 
-I) CONSULTAR A LOS PUEBLOS INDÍGENAS EN LA ELABORACIÓN DE LOS PLANES ESTATAL Y MUNICIPALES DE DESARROLLO Y, EN SU CASO, INCORPORAR LAS RECOMENDACIONES Y PROPUESTAS QUE REALICEN.
-
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 285/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 739 POR EL QUE SE ADICIONA EL SEXTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2020)</small>
-
-PARA GARANTIZAR EL CUMPLIMIENTO DE LAS OBLIGACIONES SEÑALADAS EN EL PÁRRAFO QUE ANTECEDE, EL ESTADO Y LOS AYUNTAMIENTOS, EN EL ÁMBITO DE SUS RESPECTIVAS COMPETENCIAS, ESTABLECERÁN LAS PARTIDAS ESPECÍFICAS DESTINADAS AL CUMPLIMIENTO DE ESTAS OBLIGACIONES EN LOS PRESUPUESTOS DE EGRESOS QUE APRUEBEN, ASÍ COMO LAS FORMAS Y PROCEDIMIENTOS PARA QUE LAS COMUNIDADES PARTICIPEN EN EL EJERCICIO Y VIGILANCIA DE LAS MISMAS.
-
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
-
-Las normas relativas a los derechos humanos y a las libertades reconocidas por la Constitución de los Estados Unidos Mexicanos y esta Constitución, se interpretaran de conformidad con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
-
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
-
-Ninguna disposición legal puede ser interpretada en el sentido de:
-
-a) Permitir a la autoridad suprimir el goce y ejercicio de los derechos y libertades reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los Tratados internacionales suscritos por México.
-
-b) Limitar el goce y ejercicio de cualquier derecho o libertad que puedan estar reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los Tratados internacionales suscritos por México.
-
-c) Excluir otros derechos y garantías que sean inherentes al ser humano o que se deriven de la forma democrática y representativa de gobierno.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
-
-Todas las autoridades estatales y municipales, en el ámbito de su competencia, tendrán la obligación de promover, respetar, proteger y establecer los mecanismos que garanticen los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad, progresividad y no regresividad. El Estado deberá de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que determine la ley.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
-
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos humanos y libertades de las personas. La ley establecerá mecanismos a favor de las personas, para que el goce de sus derechos de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivos y equitativos dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
-
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
-
-Toda persona tiene derecho a la identidad y a ser registrada de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
-
-Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2012)</small>
-
-Toda persona tiene derecho a la información pública. La garantía de acceso a la información pública, es un derecho fundamental que comprende difundir, investigar y recabar información pública, y se definirá a partir de los principios siguientes:
-
-I. Su fundamento reside en el estado humanista, social y democrático de derecho que establece esta Constitución.
-
-II. El acceso libre, gratuito, sencillo, antiformal, eficaz, pronto y expedito a la información.
-
-III. La interpretación constitucional más favorable del principio de publicidad, salvo las excepciones que por razones de interés público establezca la ley en sentido estricto.
-
-IV. La protección de los datos personales.
-
-V. La obligación de transparencia del Poder Público o cualquier otra entidad que utilice, reciba o disponga de recursos públicos, en los términos de la ley.
-
-VI. La administración, conservación y preservación de la documentación pública a través de mecanismos confiables, eficientes y eficaces.
-
-VII. La constitución de un organismo público autónomo conforme a las bases previstas en esta Constitución y las siguientes:
-
-1. Será autoridad constitucional en la materia, independiente en sus funciones y decisiones, y profesional en su desempeño.
-
-2. Contará con autonomía política, jurídica, administrativa presupuestal, patrimonial y financiera, en los términos que establezca la ley.
-
-3. Tendrá a su cargo la rectoría de las siguientes materias:
-
-a) El acceso a la información pública.
-
-b) La cultura de transparencia informativa.
-
-c) Los datos personales.
-
-d) (DEROGADO, P.O. 27 DE MARZO DE 2007)
-
-e) La realización de estadísticas, sondeos, encuestas o cualquier instrumento de opinión pública.
-
-f) Las demás atribuciones que establezca la ley.
-
-4. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
-
-5. Sus integrantes serán designados por el voto de cuando menos las dos terceras partes del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
-
-Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2006)</small>
-
-Las Cartas de los Derechos Fundamentales y esta Constitución, determinan los principios mínimos en los que se sustenta el ejercicio de los Derechos Humanos. Serán ley suprema en el régimen interior del Estado.
-
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
-
-Ninguna persona será sometida a desaparición, sea ésta cometida por agentes del Estado o por personas o grupos de personas que actúen sin la autorización, el apoyo o el consentimiento del Estado.
-
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
-
-El Estado tiene la obligación de adoptar todas las medidas apropiadas para proteger a las personas contra las desapariciones.
-
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
-
-Las personas desaparecidas y quienes hayan sufrido un perjuicio directo como consecuencia de una desaparición, tienen derecho a una búsqueda inmediata y efectiva, a la localización de la persona desaparecida, a conocer la verdad, a la justicia, a la protección judicial efectiva y a la reparación integral del daño y a las garantías de no repetición. El Estado garantizará estos derechos.
-
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
-
-Las personas desaparecidas tienen derecho a continuar con su personalidad jurídica con el fin de garantizar el ejercicio de todos sus derechos. El Estado adoptará las medidas apropiadas en relación con la situación legal de las personas desaparecidas cuyo paradero no haya sido esclarecido. La ley establecerá el procedimiento para la declaración de ausencia por desaparición de personas.
-
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
-
-Ninguna persona será sometida a cualquier forma de esclavitud, servidumbre, o a ejecutar un trabajo forzoso.
-
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
-
-Las personas migrantes o desplazadas que ingresen, transiten o residan temporalmente en el territorio del Estado, así como sus familiares, con independencia de su situación jurídica, tendrán la protección de la ley y no serán criminalizados por su condición de migrantes o desplazados. Tratándose de menores de edad se privilegiará el interés superior de la niñez. Las autoridades de todos los niveles, en la esfera de su competencia, adoptarán las medidas necesarias para la protección efectiva de sus derechos, de conformidad a lo dispuesto en el segundo párrafo del presente artículo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
-
-#### Sección Primera. De la Seguridad Pública
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
-
-#### Sección Segunda. De la Procuración de Justicia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+#### SECCION SEGUNDA. DE LOS GERENTES
 
 ###### Artículo 8º.
 
@@ -320,11 +274,7 @@ En el Estado de Coahuila de Zaragoza se protegerá y garantizará el ejercicio d
 
 El acceso a internet y a la banda ancha son derechos reconocidos a todas las personas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables en la materia.
 
-### CAPITULO III.
-
-Clasificación Política de los Habitantes del Estado.
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
+### CAPITULO SEGUNDO. DE LAS FUNCIONES DEL PRESIDENTE, DEL SECRETARIO Y PROSECRETARIO DEL CONSEJO DE ADMINISTRACION
 
 ###### Artículo 9º.
 
@@ -334,667 +284,919 @@ Las personas que de alguna manera se hallen en territorio del Estado, se conside
 
 ###### Artículo 10.
 
-Es Coahuilense todo aquel que vive y trabaja en Coahuila y que quiere serlo, además de:
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-I.- Las personas nacidas en el territorio del Estado.
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
-
-II. Los hijos de coahuilenses sea cual fuere el lugar de su nacimiento.
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-III.- Los mexicanos por nacimiento o por naturalización, que teniendo tres años de vecindad continua en el Estado, ejerzan algún arte, oficio, industria, trabajo, profesión o modo honesto de vivir.
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-IV.- Todo aquél que viva o trabaje en Coahuila y que quiere serlo, además de los que obtengan del Congreso del Estado la calidad de coahuilenses, en los términos de los ordenamientos jurídicos aplicables.
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-La solicitud al Congreso del Estado para estos fines, se formulará de conformidad con la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
+Le corresponderá al Prosecretario del Consejo de Administración apoyar al Presidente y Secretario en el desarrollo de las sesiones y en el ejercicio de las funciones señaladas en el artículo anterior. El Prosecretario suplirá al Secretario en sus ausencias. Asimismo, por acuerdo expreso, deberá realizar las funciones que el Secretario le encomiende en el ámbito de su competencia.
 
 ###### Artículo 11.
 
-Son ciudadanos coahuilenses:
+El Consejo de Administración sesionará trimestralmente de forma ordinaria, conforme al calendario de sesiones que se acuerde, previa convocatoria del Secretario del Consejo. También podrá sesionar de forma extraordinaria, cuando sea necesario. Las sesiones se celebrarán en el domicilio legal del Organismo, o en cualquier otro, a consideración de su Presidente. En la celebración de las sesiones podrá emplearse cualquier sistema de telecomunicación o teleconferencia.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1970)</small>
-
-I. Los varones y las mujeres nacidos en el Estado de Coahuila que hayan cumplido 18 años y tengan un modo honesto de vivir.
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-II. Los mexicanos por nacimiento que reúnan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de tres años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-III.- Los que obtengan del Congreso del Estado Carta de Ciudadanía Coahuilense, de acuerdo con lo establecido en los ordenamientos jurídicos aplicables.
-
-La solicitud al Congreso del Estado para estos fines, se formulará de conformidad con la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+El calendario de sesiones deberá ser aprobado por el Consejo de Administración en la primera sesión ordinaria de cada año y deberá atender a lo previsto por el artículo Décimo Segundo del Decreto de los Organismos Subsidiarios.
 
 ###### Artículo 12.
 
-Los coahuilenses serán preferidos, en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno del Estado.
+Los miembros del Consejo de Administración o el Director General podrán solicitar al Presidente, al Secretario o, en su caso, al Prosecretario, 48 horas antes de la fecha establecida, para la celebración de las sesiones ordinarias, y 24 horas antes para las extraordinarias, la inclusión en el orden del día de los asuntos que, conforme a su juicio y a las facultades que tiene el Consejo de Administración, deban ser tratados, así como los proyectos de acuerdos sobre el particular.
+
+Para que los miembros del Consejo de Administración cuenten con la información necesaria para la toma de decisiones, será responsabilidad de la Dirección General, en el ejercicio de sus funciones, atender las solicitudes que para tal efecto formulen los consejeros, así como conocer las propuestas que, en su caso, requieran presentar.
+
+Cuando la urgencia, importancia o pronta resolución de algún asunto lo requiera, su Presidente, por propia iniciativa o a petición del Director General o cuando menos de dos miembros del Consejo de Administración, instruirá al Secretario para que convoque a sesión extraordinaria.
 
 ###### Artículo 13.
 
-Son vecinos, los mexicanos que tengan seis meses de residencia continua en el Estado.
+La convocatoria para las sesiones ordinarias del Consejo será enviada con siete días hábiles de anticipación y contendrá el lugar, fecha y hora para llevar a cabo la sesión, así como:
+
+I. El orden del día;
+
+II. El acta de la sesión anterior para su revisión y, en su caso, aprobación;
+
+III. La documentación e información de los asuntos incorporados en el orden del día, debidamente suscritos por el Subdirector competente o, en su ausencia, por el Gerente que corresponda en términos de este Estatuto y por los responsables de su contenido y elaboración.
+
+En caso de que exista información superveniente de los asuntos incorporados en el orden del día, la misma se podrá hacer llegar a los consejeros con una anticipación no menor de 48 horas previos a la sesión, tratándose de sesiones ordinarias, y de 24 horas tratándose de sesiones extraordinarias, siempre y cuando se indiquen las razones por las cuales dicha información amerite ser tomada en consideración.
+
+La presentación de los asuntos en las sesiones del Consejo compete a los consejeros y al Director General del Organismo. Cuando se trate de asuntos presentados por este último para autorización o aprobación del Consejo de Administración, deberán contar con el dictamen de competencia del Consejo y legalidad del proyecto de acuerdo propuesto, emitido por el Director Jurídico de PEMEX;
+
+IV. El informe del Director General, correspondiente al trimestre de que se trate.
+
+En caso de que se genere información adicional o actualizada del informe del Director General que amerite ser presentada al Consejo, la misma deberá ser enviada a los consejeros con una anticipación no menor de dos días hábiles a la fecha de la celebración de la sesión, y
+
+V. Las propuestas de acuerdo para cada asunto del orden del día.
+
+Tratándose de convocatoria a sesión extraordinaria, ésta deberá enviarse por lo menos con dos días hábiles de anticipación y se acompañará cuando menos de los documentos mencionados en las fracciones I, III y V que anteceden.
+
+En el caso de que, por cualquier causa, una sesión convocada no pudiera llevarse a cabo en la fecha programada o sea suspendida, ésta podrá celebrarse o reanudarse en cualquier momento, sin que para ello tenga que mediar nueva convocatoria y bastará con el aviso que se dé a los consejeros por escrito y a través del portal electrónico con al menos una anticipación de 12 horas previas a la celebración de la sesión.
+
+Las convocatorias y material para sesiones ordinarias y extraordinarias, podrán ser enviadas por medios impresos, electrónicos o a través del portal electrónico que al efecto se establezca, siempre que se aseguren los mecanismos de su recepción.
 
 ###### Artículo 14.
 
-Las personas que se encuentren accidentalmente en el Estado sin ser ciudadanos de éste o coahuilenses, se considerarán como transeúntes.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+En las sesiones del Consejo se tratarán los asuntos que hayan sido incluidos en el orden del día y, sólo en casos urgentes o trascendentes, a petición del Presidente, de algún consejero o del Director General, el Consejo podrá autorizar la inclusión de un asunto para que se someta a su consideración el mismo día de la sesión, en el capítulo que corresponda según su naturaleza.
 
 ###### Artículo 15.
 
-Son extranjeros los que no reúnan la calidad de mexicanos de conformidad con el artículo 30 de la Constitución General de la República y gozarán de los derechos humanos y garantías que reconoce la presente Constitución.
+Cada acta será sometida a la consideración del Consejo en la sesión ordinaria siguiente y, una vez aprobada, será firmada por el Presidente, el Secretario y el Prosecretario que hayan actuado con tal carácter en la sesión, en un plazo máximo de 15 días hábiles. Las actas se harán del conocimiento de los consejeros por los medios electrónicos que para tales efectos se establezcan.
 
-### CAPITULO IV.
-
-De las Obligaciones y Derechos de los Habitantes del Estado.
+### CAPITULO TERCERO. DEL FUNCIONAMIENTO DEL CONSEJO
 
 ###### Artículo 16.
 
-Son deberes de los habitantes del Estado:
+Los acuerdos del Consejo serán suscritos y comunicados por el Secretario al Presidente del Consejo y al Director General, dentro de los diez días hábiles siguientes a la sesión correspondiente.
 
-I. Someterse a las leyes vigentes y respetar las autoridades legítimamente constituídas, cooperando al buen nombre y prestigio de ellas.
-
-II. Inscribirse en el padrón de su respectivo Municipio, manifestando la propiedad que tengan o industria, profesión o trabajo de que subsistan.
-
-III. Contribuir a los gastos públicos del Municipio, del Estado y de la Federación en la forma proporcional y equitativa que dispongan las leyes correspondientes.
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
-
-IV. Adquirir la educación preescolar, primaria y secundaria, así como la educación media y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
-
-V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y particular del Estado.
+Las constancias de los acuerdos y de las actas de las sesiones del Consejo de Administración, sólo serán reconocidas y válidas, cuando consten en documentos originales, y contengan firma autógrafa del Secretario o del Prosecretario.
 
 ###### Artículo 17.
 
-Los habitantes del Estado tienen, además de los derechos concedidos en el Capítulo I de la Constitución General de la República, los siguientes:
+El Director General podrá asistirse en las sesiones de servidores públicos de Pemex-Refinación, de PEMEX, de los Organismos Subsidiarios y, en su caso, de filiales cuando la exposición de algún asunto así lo requiera.
 
-I. A ser amparados y protegidos por las leyes que serán aplicadas con igualdad a todas las personas, siempre que se encuentren colocadas en la misma situación jurídica.
+Para el caso de que el consejero propietario o el suplente estén imposibilitados para asistir a la sesión, se deberá informar a la Secretaría del Consejo de Administración antes del inicio de la misma. En ningún caso podrá asistir persona distinta al consejero propietario o al suplente.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1938)</small>
-
-II. A ser educados en los establecimientos de enseñanza sostenidos con los fondos públicos cumpliendo con las obligaciones que establezcan las leyes respectivas.
-
-III. A ejercer el derecho de petición ante las autoridades del Estado debiendo éstas contestar dentro de un plazo máximo de 15 días, contados desde la fecha en que se recibe la petición, siempre que se hagan conforme a la ley y cuando ésta no marque término.
-
-IV. A rehusar el pago de todo préstamo o contribución que no esté decretado legalmente.
+Sólo podrán asistir a las sesiones las personas autorizadas por el Presidente del Consejo de Administración.
 
 ###### Artículo 18.
 
-Son deberes del ciudadano coahuilense:
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
-
-I. Inscribirse en el padrón del Municipio de su residencia.
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
-
-II. Votar en las elecciones populares en los términos que prescriban las leyes.
-
-III. Desempeñar los cargos de elección popular y el de jurado en asuntos judiciales, en la forma que establezca la ley.
-
-IV. Alistarse en la Guardia Nacional y servir en ella en los términos que designe la ley respectiva.
+El Director General y el Comisario del Organismo participarán en las sesiones del Consejo, con voz pero sin voto.
 
 ###### Artículo 19.
 
-Son derechos de los ciudadanos coahuilenses:
-
-I. Votar y ser electos para los empleos y cargos públicos en la forma y términos que prescriban las leyes.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-El derecho de solicitar el registro de candidatos a cargos de elección popular ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine tanto esta Constitución, como la legislación electoral del Estado.
-
-(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 19 DE FEBRERO DE 2016)
-
-Las candidaturas independientes se sujetarán a los requisitos, condiciones y términos que determine esta Constitución y la legislación electoral del Estado, en especial para garantizar la transparencia, legalidad y fiscalización en el origen y ejercicio de los recursos. En todo caso, las disposiciones relativas a los partidos políticos, en los procesos electorales, serán aplicables a las candidaturas independientes con las modalidades específicas que la ley señale.
-
-(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 19 DE FEBRERO DE 2016)
-
-Los coahuilenses podrán ejercer su derecho a votar, aún estando en territorio extranjero, acorde a las disposiciones legales en la materia.
-
-II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejercer en ellos los derechos que las leyes les conceden.
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-III. Fomentar, promover y ejercer los instrumentos de participación ciudadana y comunitaria conforme lo establezca la ley.
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-IV. Los demás que establezca esta Constitución u otras disposiciones aplicables.
+Los comités sesionarán válidamente cuando asistan, por lo menos, la mitad más uno de sus miembros y sus resoluciones se tomarán por mayoría simple de los miembros presentes.
 
 ###### Artículo 20.
 
-El ejercicio de los derechos de ciudadanos coahuilense (sic) se suspenden:
+Cada comité elaborará sus reglas de operación, en las que se establecerán las políticas, procedimientos y lineamientos que resulten convenientes para la mejor realización de sus objetivos y funciones, así como para convocar y llevar a cabo sus sesiones. En dichas reglas se preverán los mecanismos para asegurar que los miembros cuenten oportunamente con la información y documentación necesaria para desahogar los temas a tratar en cada sesión.
 
-I. Por sentencia ejecutoria que condene a la suspensión de esos derechos, por el tiempo que ella fije.
-
-II. Por sentencia ejecutoria que condene a pena corporal durante el término de ésta.
-
-III. Por incapacidad natural, durante el término que dure la privación de la inteligencia.
-
-IV. Por ser ebrio o tahur consuetudinario.
-
-V. Por no cumplir con las prevenciones de las leyes del Registro Civil.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-VI. Por negarse a servir los cargos de elección popular sin causa justificada y calificada por quien corresponda. En este caso, la suspensión será por el tiempo que deba durar el cargo de que se trate y el remiso sufrirá, además, una sanción económica que fijará la ley de la materia.
+Asimismo, dichas reglas de operación deberán señalar como mínimo las funciones del Presidente, Secretario y vocales del comité correspondiente.
 
 ###### Artículo 21.
 
-La calidad de ciudadano coahuilense se pierde:
-
-I. Por las causas que motivan la pérdida de los derechos de ciudadano mexicano, en la forma prescrita en la Constitución General de la República.
-
-II. Por sentencia Ejecutoria en los delitos por los cuales deba imponerse como pena, la pérdida de la ciudadanía.
+Para la ejecución de los objetivos, metas y programas de acción que les encomienda la Ley y el Decreto de los Organismos Subsidiarios, los comités, por conducto de la Secretaría del Consejo de Administración, solicitarán la información, así como el apoyo técnico y operativo que requieran del Organismo para la adecuada realización de sus funciones.
 
 ###### Artículo 22.
 
-La calidad de ciudadano se recobra por haber cesado la causa que dió motivo a la suspensión. Sólo el Poder Legislativo puede rehabilitar en los derechos de ciudadano al que los haya perdido. La rehabilitación se hará de conformidad con los preceptos de la ley respectiva.
+Los comités tendrán facultades de apoyo al Consejo de Administración, salvo disposición expresa en contrario, y ejercerán las funciones que les confieren la Ley, su Reglamento, el Decreto de los Organismos Subsidiarios y aquéllas que les otorgue el Consejo de Administración, y no podrán intervenir en la operación de las unidades administrativas del Organismo.
+
+En caso de presentarse una modificación en la conformación del Consejo, que impacte la integración de los comités, las respectivas sesiones se validarán con la asistencia de la mayoría de los miembros cuyo carácter de consejero se encuentre vigente, siempre y cuando la integración de los comités cumpla con el mínimo establecido en los artículos 22 y 27 de la Ley, o en su acuerdo de creación.
 
 ###### Artículo 23.
 
-La vecindad se pierde por dejar de residir en el territorio del Estado durante un año continuo.
+Los comités del Consejo serán apoyados por un Secretario, nombrado a propuesta del Presidente del Comité, que realizará las funciones que se establezcan en sus reglas de operación. En las sesiones de los comités, el Secretario tendrá voz pero no voto.
+
+Cada comité informará al Consejo de Administración respecto de su programa anual de trabajo y los recursos que, en su caso, requiera para el cumplimiento de sus funciones.
 
 ###### Artículo 24.
 
-La vecindad no se pierde:
+En adición a lo establecido en el artículo Décimo Octavo del Decreto de los Organismos Subsidiarios, el Director General tendrá las atribuciones y funciones siguientes:
 
-I. Por ausencia en virtud de comisión del servicio público del Estado o de la Federación.
+I. Resolver los conflictos entre las subdirecciones del Organismo y las demás unidades administrativas que tenga adscritas directamente;
 
-II. Por ausencia en el desempeño de cargos de elección popular.
+II. Participar en los grupos directivos de los sistemas de Gestión por Procesos y de Desarrollo de Proyectos de PEMEX, así como ejecutar los acuerdos adoptados en los mismos;
 
-III. Por ausencia con ocasión de estudios científicos o artísticos.
+III. Establecer la integración, funciones, organización y funcionamiento de las comisiones asesoras de Pemex-Refinación, así como designar a los servidores públicos del Organismo que participen en las comisiones asesoras de PEMEX;
+
+IV. Establecer rangos en los montos de los contratos que los servidores públicos del Organismo, según su nivel, puedan celebrar, independientemente del régimen jurídico por el que se contraten;
+
+V. Emitir y suscribir convocatorias, fallos, convenios y contratos y, en su caso, iniciar, notificar, sustanciar y resolver el procedimiento de suspensión, terminación anticipada o rescisión administrativa de los mismos, y los actos jurídicos que se requieran;
+
+VI. Disponer, de conformidad con las disposiciones aplicables, de los activos fijos del Organismo que no sean útiles o que no correspondan a las operaciones propias de su objeto;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+VII. Recibir las solicitudes y autorizar los apoyos que otorgue el Organismo en materia de responsabilidad y desarrollo social, relacionados con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo bajo la coordinación de la Gerencia de Responsabilidad y Desarrollo Social de PEMEX, en términos de la normatividad que al efecto expida el Consejo de Administración de PEMEX;
+
+VIII. Emitir la normatividad interna, técnica o administrativa que, en el ámbito de su competencia, le corresponda;
+
+IX. Asignar responsabilidades y delegar funciones en los servidores públicos del Organismo, en el ámbito de las funciones de estos últimos, salvo aquéllas que sean indelegables;
+
+X. Opinar sobre la representación, y designación de enlaces del Organismo ante instituciones del sector público y privado que realicen los directores corporativos de PEMEX;
+
+XI. Definir, con los Directores Corporativos de PEMEX, los objetivos, indicadores y metas que permitan evaluar el desempeño de los servidores públicos del Organismo, en términos de la normatividad que al efecto emita el Consejo de Administración de PEMEX;
+
+XII. Definir con el Director Corporativo de PEMEX que corresponda, los mecanismos de coordinación, control, entrega de información y resultados que se definan en materia de la conducción central y dirección estratégica de la industria;
+
+XIII. Representar y, en su caso, designar a los servidores públicos y mandatarios que representarán los intereses o participación accionaria del Organismo ante las asambleas de accionistas o equivalentes en sociedades mercantiles nacionales o extranjeras consideradas filiales, en aquéllas sobre las que el Organismo tenga influencia significativa o tenga alguna participación accionaria;
+
+XIV. Llevar, con apoyo de la Dirección Jurídica de PEMEX, un registro del otorgamiento y revocación de poderes generales y especiales que otorgue a personas ajenas al Organismo, y hacerlo del conocimiento del Consejo de Administración, y
+
+XV. Las demás que sean necesarias para el cumplimiento de sus funciones, las señaladas en el presente Estatuto y en otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 25.
 
-Los extranjeros que residen en el Estado, tienen las garantías que otorga esta Constitución y la General de la República y las obligaciones de contribuir para los gastos públicos, de respetar las instituciones y autoridades del Estado de sujetarse a los fallos y sentencias de los tribunales, sin poder intentar otros recursos que los que les conceden a los mexicanos.
+Son indelegables las atribuciones del Director General señaladas en las fracciones I, II, III, IV, VIII, IX y XIII del artículo 24 anterior.
 
-## TITULO SEGUNDO.
+## TITULO SEGUNDO. DEL CONSEJO DE ADMINISTRACION DE PEMEX-REFINACION
 
-De los Poderes Públicos.
-
-### CAPITULO I.
-
-Del Origen y División del Poder.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+### CAPITULO CUARTO. DE LOS COMITES Y CONSEJEROS PROFESIONALES DEL CONSEJO
 
 ###### Artículo 26.
 
-El Poder Público del Estado como expresión constitutiva, concreta y dinámica de la soberanía, emana del pueblo y se instituye para su beneficio en un marco de respeto a la dignidad, igualdad y libre desarrollo del ser humano, sus derechos fundamentales y sus garantías constitucionales y legales.
-
-El pueblo, en quien reside esencial y originariamente la soberanía que deposita formalmente en esta Constitución, tendrá siempre el derecho de elegir o nombrar, conforme a las leyes, a sus representantes en los poderes públicos del estado y de los municipios y de los organismos públicos autónomos, los cuales ejercerán sus funciones de acuerdo a los principios que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2010)</small>
+El Director General se auxiliará de las unidades administrativas adscritas a la oficina de la Dirección General y, en el ámbito de sus respectivas funciones, en las subdirecciones, gerencias y demás unidades administrativas del Organismo, así como en el personal adscrito a éstas.
 
 ###### Artículo 27.
 
-La renovación de los poderes Ejecutivo y Legislativo del Estado, así como de los ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-1. Las elecciones ordinarias se celebrarán el primer domingo de junio del año que corresponda.
-
-2. Toda propaganda gubernamental deberá suspenderse durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la jornada electoral. Se exceptúa de lo anterior la difusión de campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
-
-3. Los partidos políticos son entidades de interés público y se regirán por lo siguiente:
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-a) La ley determinará las normas y requisitos para su registro legal, o para la inscripción del mismo ante la autoridad electoral estatal, las formas específicas de su intervención en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden;
-
-b) Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la ley;
-
-c) La ley garantizará que los partidos políticos cuenten de manera equitativa con el financiamiento público para llevar a cabo sus actividades ordinarias y de campaña, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado;
-
-d) La ley fijará los criterios para determinar los límites a las erogaciones que realicen los partidos políticos durante sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones, en dinero o en especie, de sus militantes y simpatizantes y los procedimientos para el control y la vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, establecerá las sanciones que deban imponerse por la comisión de infracciones en estas materias;
-
-e) De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos con registro estatal que lo pierdan y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado;
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-f) Los partidos políticos tendrán derecho al uso permanente de los medios de comunicación social; su acceso a radio y televisión, durante los procesos electorales, se realizará en los términos establecidos por el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las Leyes Generales en la materia.
-
-g) En la propaganda política o electoral que difundan, los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-h) La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y campañas electorales;
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-i) En la postulación y registro de candidatos a diputados del Congreso del Estado, los partidos garantizarán la paridad. Las autoridades electorales realizarán las acciones a efecto (sic) procurar la paridad en la integración del Congreso al realizar la asignación de los diputados de representación proporcional.
-
-En la postulación y registro de los candidatos a integrar los ayuntamientos, los partidos políticos garantizarán la paridad horizontal y vertical, para el registro de candidatos de mayoría y representación proporcional. Las autoridades electorales realizarán las acciones a efecto de salvaguardar la paridad en la integración del Ayuntamiento al realizar la asignación de representación proporcional.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-j) Los Partidos Políticos tienen derecho a participar en las elecciones estatales y municipales. Los Partidos Políticos Locales que no alcancen el 3 % del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo y Legislativo les será cancelado su registro.
-
-4. (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2015)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-5. La organización de las elecciones, plebiscitos y referendos, es una función estatal encomendada a un Organismo público Local Electoral denominado Instituto Electoral de Coahuila dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los partidos políticos y los ciudadanos. El Instituto se regirá por las siguientes normas y lo que establezca la ley;
-
-a) Será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; tendrá autonomía presupuestal;
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-b) La certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores de su desempeño;
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
-
-c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por un Consejero Presidente y seis Consejeros Electorales; concurrirán con voz y sin voto los Representantes de los Partidos Políticos y el Secretario Ejecutivo. El Secretario Ejecutivo será propuesto por la o el Consejero Presidente y aprobado por al menos el voto de cinco Consejeros Electorales del Órgano Superior de Dirección del Organismo Público Local Electoral, durará en su encargo seis años y podrá ser ratificado por una sola vez en los términos que disponga la ley; tendrá un Contralor interno con autonomía de gestión; designado por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo seis años y podrá ser ratificado por una sola vez.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-d) Tendrá a su cargo, de manera integral y directa, todas las actividades relativas a la organización y desarrollo de los procesos electorales locales, de los plebiscitos y referendos; los cómputos, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y ayuntamientos; la fiscalización de los recursos de los partidos políticos, cuando el Instituto Nacional le delegue esta función, el seguimiento de los compromisos de campaña de los candidatos mediante la emisión de informes anuales con fines meramente informativos y sin efecto vinculatorio alguno, y las demás que señale la ley;
-
-e) (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2015)
-
-f) La vigilancia y fiscalización de los recursos de los partidos políticos estará a cargo del Instituto, a través de una unidad técnica cuyo titular será nombrado por el Consejo General, a propuesta de su presidente, por dos terceras partes de los consejeros con derecho a voto. La unidad contará con autonomía de gestión y desarrollará sus actividades conforme a la ley, y
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-g) El Instituto Electoral de Coahuila contará con una oficialía electoral investida de fe pública, para actos de naturaleza electoral cuyas atribuciones y funciones serán reguladas por las leyes generales en la materia y las demás disposiciones aplicables. El Instituto contará para su funcionamiento permanente con un servicio profesional electoral. El Instituto Nacional Electoral regulará la organización y funcionamiento de este Servicio, el cual comprende la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, de los servidores públicos de los órganos ejecutivos y técnicos del Instituto.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-6. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y los relativos a plebiscitos y referendos, la ley establecerá un sistema de medios de impugnación del que conocerá el Tribunal Electoral del Estado de Coahuila de Zaragoza. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto reclamado. El Tribunal Electoral será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral. Se integrará por tres Magistrados, que durarán en su encargo 7 años y cuya designación se realizará de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y las Leyes en la Materia.
-
-7. La ley determinará las infracciones y responsabilidades en materia electoral; igualmente establecerá las conductas tipificadas como delitos electorales, así como las sanciones que deban imponerse en ambos casos.
+En el ejercicio de sus atribuciones y en el desempeño de sus funciones, el Director General buscará en todo momento la creación de valor económico, en beneficio de la sociedad mexicana, tomando en cuenta los demás objetivos previstos en el artículo Octavo del Decreto de los Organismos Subsidiarios, manteniendo la alineación a la conducción central del Consejo de Administración de PEMEX.
 
 ###### Artículo 28.
 
-El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial, sin que puedan reunirse estos Poderes, ni dos de ellos, en una persona o corporación.
+Cada uno de los subdirectores tendrá, en el ámbito de sus respectivas unidades administrativas, las funciones siguientes:
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+I. Planear, programar, dirigir, supervisar, y evaluar el funcionamiento y la resolución de los asuntos de su competencia, así como de sus unidades administrativas;
 
-El Poder Público del Municipio Libre que emana del pueblo, se deposita para su ejercicio en el Ayuntamiento o, en su caso, en el Concejo Municipal. El Ayuntamiento o el Concejo Municipal se constituirá, dentro del régimen interior del Estado, en un orden constitucional de gobierno municipal, libre, democrático, republicano, representativo y popular.
+II. Integrar y someter a la consideración del Director General las propuestas de programa operativo anual y de presupuesto, así como los requerimientos de programación y presupuestación de la Subdirección y de las unidades administrativas adscritas a ésta;
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+III. Expedir la normatividad interna, técnica o administrativa, de aplicación obligatoria para su Subdirección o, en su caso, para el Organismo, así como modificarla o dejarla sin efectos, cuando ello no implique la intervención de otras instancias;
 
-Para garantizar la paridad de género, las listas de candidatos a integrantes de los ayuntamientos que presenten los Partidos Políticos, se registrarán en segmentos conformados por los municipios en los términos que señale la ley. La lista alternará los candidatos de distinto género, hasta agotar la lista correspondiente iniciando en el candidato o candidata a presidente municipal.
+IV. Interpretar la normatividad interna, técnica o administrativa que emitan, en el ámbito de sus funciones;
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V. Emitir y suscribir, en su carácter de área usuaria, evaluaciones técnicas, dictámenes técnicos, contratos y convenios, así como celebrar los actos jurídicos en materia de Procura y Abastecimiento que se requieran ante situaciones de emergencia;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V-A. Participar en la implantación del modelo de negocio de Procura y Abastecimiento en el Organismo y coadyuvar con la Dirección Corporativa de Procura y Abastecimiento en su aplicación y operación frente a terceros;
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V-B. Atender, en el ámbito de su competencia, los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de Adquisiciones, Arrendamientos, Obras y Servicios del Organismo Subsidiario;
+
+VI. Expedir constancias, para efectos administrativos, de los documentos que obren en los archivos de su unidad administrativa;
+
+VII. Ejercer los derechos corporativos en las sociedades mercantiles nacionales o extranjeras consideradas filiales y en aquellas sociedades en las que el Organismo ejerza una influencia significativa o tenga alguna participación accionaria; o designar al servidor público que deberá ejercerlos para el caso de las filiales que no se consideren entidades paraestatales;
+
+VIII. Participar en las actividades o administración de las sociedades mercantiles consideradas filiales y sociedades en las que el Organismo ejerza una influencia significativa o tenga alguna participación accionaria, cuando se les haya designado para tal efecto;
+
+IX. Representar legalmente al Organismo en los asuntos relacionados con su Subdirección, así como en aquellas responsabilidades o funciones que le asigne o delegue expresamente el Director General para lo cual, contará con las facultades para actos de dominio, administración, pleitos y cobranzas, incluso las que requieran poder o cláusula especial en términos de las disposiciones aplicables; para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; otorgar perdón; para ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; así como para comprometerse en árbitros y transigir; en términos de lo previsto en el artículo 5o. de la Ley;
+
+X. Asignar responsabilidades y delegar funciones en los servidores públicos de las unidades administrativas de su adscripción, en el ámbito de las funciones de estos últimos, salvo aquéllas que sean indelegables;
+
+XI. Elaborar y suscribir los documentos que contengan la información que se someterá a la consideración del Consejo de Administración, por conducto del Director General, así como atender los requerimientos de información de dicho Organo de Gobierno y sus comités, formulados por conducto del Director General;
+
+XII. Propiciar un ambiente laboral sano, armónico y de cooperación entre el personal a su cargo;
+
+XIII. Participar en los procedimientos de selección y evaluación del desempeño de los gerentes del Organismo, con base en las políticas y lineamientos de recursos humanos que apruebe el Consejo de Administración de PEMEX;
+
+XIV. Representar, designar enlaces, fungir como enlace o, en su caso, someter a consideración del Director General a los representantes o enlaces del Organismo, ante cualquier órgano colegiado, institución pública o privada, nacional, extranjera o internacional;
+
+XV. Coordinar o establecer mecanismos de coordinación o colaboración para las diversas unidades administrativas del Organismo y, en su caso, entre este último y las unidades administrativas de PEMEX;
+
+XVI. Coordinar la atención y cumplimiento de los acuerdos del Consejo de Administración y demás decisiones de los grupos directivos de los sistemas institucionales de Gestión por Procesos y de Desarrollo de Proyectos, así como participar y ejercer los derechos y obligaciones que correspondan en los cuerpos colegiados de su competencia;
+
+XVII. Resolver los asuntos que las disposiciones aplicables atribuyan al Organismo, siempre y cuando no sean facultades indelegables del Consejo de Administración, de sus comités o del Director General;
+
+XVIII. Promover la implementación, mantenimiento y mejora de los sistemas informáticos inherentes a sus funciones;
+
+XIX. Participar en la integración de la estrategia tecnológica institucional y promover su implantación;
+
+XX. Gestionar la aprobación y ejecución de los proyectos a su cargo, así como coordinar la participación de sus unidades administrativas adscritas en la definición, seguimiento y evaluación de iniciativas, programas y proyectos de inversión;
+
+XXI. Coordinar la participación, promoción e implementación de acciones de prevención, mejores prácticas y mejora continua a los procesos de negocio institucionales en el Organismo;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XXII. Coordinar la implementación de las estrategias y directrices institucionales establecidas por PEMEX en materia de planeación estratégica y operativa, presupuesto, seguridad industrial, salud en el trabajo y protección ambiental, disciplina operativa, confiabilidad operacional y gestión de mantenimiento, integridad de infraestructura, mejora del desempeño operativo, Procura y Abastecimiento, medición y aseguramiento de balances, proyectos, contenido nacional y grado de integración nacional;
+
+XXIII. Implementar los mecanismos de coordinación, control, entrega de información y resultados que, en materia de conducción central y dirección estratégica, definan las unidades administrativas competentes de PEMEX, así como instrumentar las acciones de mejora que se determinen;
+
+XXIV. Las que le asigne o delegue expresamente el Director General, y
+
+XXV. Las demás señaladas en el presente Estatuto y en otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 29.
 
-Los cargos públicos son un mandato que el pueblo confiere, para que sean desempeñados por los ciudadanos que merezcan su confianza. Ningún servidor público será inamovible en el desempeño de su encargo, excepción hecha de lo que la Constitución dispone para los miembros del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+Las funciones a que se refieren las fracciones I a XIII y XXIV del artículo 28 anterior, son indelegables.
 
 ###### Artículo 30.
 
-El Gobernador del Estado, cuyo origen sea la elección popular ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
-
-Nunca podrán ser electos para el período inmediato, el Gobernador substituto o el designado para concluir el período en caso de falta absoluta del constitucional, independientemente de la denominación que se le dé; así como el Gobernador interino, el provisional o el ciudadano que bajo cualquiera denominación, sea nombrado para cubrir faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Los Diputados del Congreso del Estado, podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, así como las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé o las que integren un Concejo Municipal, podrán ser electas para el período inmediato.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+Para la realización de sus actividades, los subdirectores se auxiliarán de las unidades administrativas adscritas a su subdirección.
 
 ###### Artículo 31.
 
-La condición de servidor público del Estado o del Municipio, independientemente de la categoría, es incompatible con el desempeño de cualquier otro cargo de la Federación, del Estado o de los Municipios. Para desempeñar un cargo diferente, el servidor público del Estado o del Municipio deberá separarse previamente del mismo en los términos que establezca esta Constitución y las demás leyes aplicables.
+Cada uno de los gerentes tendrá, en el ámbito de su respectiva gerencia, las funciones siguientes:
 
-Cualquier otro régimen de incompatibilidad de los servidores públicos y sus excepciones podrán establecerse en la legislación correspondiente.
+I. Elaborar y someter a consideración del superior jerárquico inmediato las propuestas de programa operativo anual y de presupuesto así como los requerimientos de programación y presupuestación de su gerencia y de las áreas adscritas a ésta;
 
-## TITULO TERCERO.
+II. Elaborar, en el ámbito de sus funciones, los proyectos de normatividad interna, técnica o administrativa, sus modificaciones; proponerla y, en su caso, someterla a la autorización de las instancias competentes;
 
-Del Poder Legislativo.
+III. Representar legalmente al Organismo, en los asuntos relacionados con su gerencia, así como en aquéllos que le asigne o delegue expresamente el Director General o el subdirector para lo cual contará con las facultades previstas en los poderes que para tales efectos se les otorguen;
 
-### CAPITULO I.
+IV. Elaborar los documentos que contengan la información que corresponda a su ámbito de actuación, que se someterá a la consideración del Consejo de Administración, así como atender los requerimientos de información de dicho Organo de Gobierno y sus comités, formulados por conducto del Director General;
 
-Elección e Instalación.
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V. Emitir y suscribir, en su carácter de área usuaria, evaluaciones técnicas, dictámenes técnicos, contratos y convenios, así como celebrar los actos jurídicos en materia de Procura y Abastecimiento que se requieran ante situaciones de emergencia;
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+V-A. Atender, en el ámbito de su competencia, los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de Adquisiciones, Arrendamientos, Obras y Servicios del Organismo Subsidiario;
+
+VI. Expedir constancias, para efectos administrativos, de los documentos que obren en los archivos de su unidad administrativa;
+
+VII. Participar en las actividades o administración de las filiales y en aquellas sociedades en las que el Organismo ejerza una influencia significativa o tenga alguna participación accionaria, cuando se les haya designado para tal efecto y, en su caso, ejercer los derechos corporativos en las mismas cuando se les haya designado para tal efecto;
+
+VIII. Asignar responsabilidades y delegar funciones, en los servidores públicos de las unidades administrativas de su adscripción, en el ámbito de las funciones de estos últimos, salvo aquéllas que sean indelegables;
+
+IX. Apoyar en la ejecución de los acuerdos del Consejo y demás decisiones de los grupos directivos de los sistemas institucionales de Gestión por Procesos y de Desarrollo de Proyectos, así como participar y ejercer los derechos y obligaciones que correspondan en los cuerpos colegiados de su competencia;
+
+X. Formular requerimientos para el desarrollo, mantenimiento y mejora de los sistemas informáticos inherentes a sus funciones, y ejecutar las acciones necesarias para su implementación;
+
+XI. Nombrar y remover, previo visto bueno del superior jerárquico inmediato, al personal de su adscripción;
+
+XII. Participar en la elaboración, definición, seguimiento y evaluación de las iniciativas, programas y proyectos de inversión a su cargo, así como coordinar su ejecución;
+
+XIII. Propiciar un ambiente laboral sano, armónico y de cooperación entre el personal a su cargo;
+
+XIV. Participar, promover e implementar acciones de prevención, mejores prácticas y mejora continua a los procesos de negocio institucionales en el Organismo;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+XV. Implementar las estrategias y directrices institucionales establecidas por PEMEX en materia de planeación estratégica y operativa, presupuesto, seguridad industrial, salud en el trabajo y protección ambiental, integridad de infraestructura, disciplina operativa, confiabilidad operacional y gestión de mantenimiento, mejora del desempeño operativo, Procura y Abastecimiento, medición y aseguramiento de balances, proyectos, contenido nacional y grado de integración nacional;
+
+XVI. Proponer e implementar los planes y programas de capacitación;
+
+XVII. Identificar y proponer necesidades de innovación y desarrollo tecnológico;
+
+XVIII. Las que le asigne o delegue expresamente el Director General o el subdirector que corresponda, y
+
+XIX. Las demás señaladas en el presente Estatuto y en otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+Las funciones señaladas en las fracciones I a IX, XI y XVIII del presente artículo, son indelegables.
+
+## TITULO TERCERO. DEL DIRECTOR GENERAL DE PEMEX-REFINACION
+
+### CAPITULO UNICO
 
 ###### Artículo 32.
 
-Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)</small>
+Para la realización de sus funciones, los gerentes se auxiliarán de las áreas y servidores públicos adscritos a su gerencia.
 
 ###### Artículo 33.
 
-El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve diputados electos por el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley entre aquellos partidos políticos que obtengan cuando menos el 2% de la votación válida emitida en el Estado para la elección de Diputados.
+El personal del Organismo, distinto al señalado en los capítulos precedentes de este título, y que integran la plantilla de personal de confianza de Pemex-Refinación, tendrá a su cargo las funciones previstas en el manual de organización y en la normatividad interna aplicable, así como aquéllas que, en los términos del presente Estatuto, les sean delegadas de manera expresa, por sus superiores jerárquicos.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Por cada diputado propietario, deberá elegirse un suplente en los términos que establezca la ley. Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un Propietario y un Suplente ambos del mismo género. La Lista de Representación Proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente, deberá estar integrada por el mismo género.
-
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+En caso de que las actividades que deban desarrollar requieran la representación del Organismo ante terceros, los titulares de las unidades administrativas deberán gestionar, en su caso, ante la Dirección Jurídica de PEMEX el otorgamiento de los poderes respectivos.
 
 ###### Artículo 34.
 
-La demarcación territorial de los dieciséis distritos electorales se determinará por la ley de la materia.
+La estructura orgánica básica de Pemex-Refinación tendrá las unidades administrativas siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)</small>
+I. Dirección General
+
+1. Gerencia de Control de Gestión
+
+II. Subdirección de Producción
+
+1. Gerencia de Control de Producción
+
+2. Gerencia de Ingeniería de Procesos
+
+3. Gerencia de Mantenimiento de Refinerías
+
+4. Gerencias de Refinerías Cadereyta, Madero, Minatitlán, Salamanca, Salina Cruz y Tula
+
+III. Subdirección de Distribución
+
+1. Gerencia de Sistemas de Medición
+
+2. Gerencia de Coordinación de Operaciones
+
+3. Gerencia de Coordinación de Mantenimiento
+
+4. Gerencia de Transporte Terrestre
+
+5. Gerencia de Operación Marítima y Portuaria
+
+6. Gerencia de Transporte por Ducto
+
+IV. Subdirección de Almacenamiento y Reparto
+
+1. Gerencia de Operación y Mantenimiento de Terminales
+
+2. Gerencia de Reparto, Medición y Servicios
+
+3. Gerencias de Almacenamiento y Reparto Norte, Pacífico, Centro y Golfo
+
+V. Subdirección Comercial
+
+1. Gerencia de Coordinación Comercial
+
+2. Gerencia de Ventas al Mayoreo
+
+3. Gerencia de Ventas a Estaciones de Servicio
+
+4. Gerencia de Políticas y Desarrollo Comercial
+
+5. Gerencia de Desarrollo de Negocios y Mercadotecnia
+
+VI. Subdirección de Proyectos
+
+1. Coordinación de Proyectos de Modernización y Ampliación de Capacidad
+
+2. Coordinación de Proyectos de Impacto Social y Alta Rentabilidad
+
+3. Gerencia de Planeación, Seguimiento y Control
+
+4. Gerencia de Proyectos de Modernización
+
+5. Gerencia de Proyectos de Ampliación de Capacidad
+
+6. Gerencia de Proyectos Ambientales
+
+7. Gerencia de Proyectos de Alta Rentabilidad de Refinerías
+
+8. Gerencia de Proyectos de Alta Rentabilidad de Almacenamiento, Reparto y Distribución
+
+VII. Subdirección de Administración y Finanzas
+
+1. Gerencia de Recursos Financieros
+
+2. Gerencia de Administración Patrimonial y Servicios
+
+3. (DEROGADO, D.O.F. 25 DE FEBRERO DE 2014)
+
+4. (DEROGADO, D.O.F. 25 DE FEBRERO DE 2014)
+
+5. Gerencia de Presupuestos
+
+VIII. Subdirección de Planeación, Coordinación y Evaluación
+
+1. Gerencia de Análisis de Inversiones y Gasto Operativo
+
+2. Gerencia de Evaluación al Desempeño
+
+3. Gerencia de Planeación Estratégica
+
+4. Gerencia de Programación y Coordinación Operativa
+
+IX. Subdirección de Auditoría de Seguridad Industrial y Protección Ambiental
+
+1. Gerencia de Seguridad Industrial y Salud en el Trabajo
+
+2. Gerencia de Protección Ambiental
+
+3. Gerencia de Control Técnico y Operativo de Manejo de Combustibles
+
+X. Organo Interno de Control
 
 ###### Artículo 35.
 
-Para tener derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos deberán satisfacer los requisitos que establezca la ley. Cubiertos los requisitos legales, las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la ley de la materia.
+La Gerencia de Control de Gestión tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+I. Coordinar, promover y asesorar normativamente la atención de auditorías y de observaciones de las mismas, así como de revisiones de control y recomendaciones, formuladas por los órganos fiscalizadores, interviniendo como enlace con dichos órganos;
 
-En todo caso, la elección de los diputados de representación proporcional se sujetará a los principios y bases siguientes:
+II. Promover y supervisar al interior del Organismo el desarrollo, instrumentación y mantenimiento de controles para el cumplimiento de la normatividad;
 
-I. El pluralismo político como equilibrio de representación democrática en los términos que disponga esta Constitución y las leyes.
+III. Asesorar a las unidades administrativas del Organismo, en la atención de los asuntos que le sean requeridos y en aquéllos en donde intervengan dos o más subdirecciones;
 
-II. Se constituirá una circunscripción electoral cuya demarcación será el Estado.
+IV. Administrar la información de las auditorías y tener el resguardo de la misma;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
+V. Coordinar y supervisar las acciones de las unidades administrativas del Organismo en materia de transparencia y acceso a la información pública gubernamental;
 
-III. El partido deberá registrar candidatos a diputados por mayoría relativa, en el número de distritos electorales que la ley señale.
+VI. Fungir como enlace entre las unidades administrativas del Organismo y las unidades de enlace de PEMEX y Organismos Subsidiarios, así como a las distintas instancias internas y externas, en materia de transparencia y acceso a la información pública gubernamental;
 
-IV. La ley establecerá las fórmulas, reglas, porcentajes específicos, rondas de asignación, requisitos y demás procedimientos para la asignación de los diputados de representación proporcional.
+VII. Coordinar la atención y ejecución de acciones derivadas de los programas gubernamentales que requiera PEMEX, y
 
-V. El orden de asignación de los candidatos que aparezcan en las listas o fórmulas de representación proporcional.
-
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
-
-VI. El tope máximo de Diputados que puede alcanzar un partido por ambos principios, no excederá de dieciséis Diputados en los términos que disponga la ley.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 1994)</small>
+VIII. Supervisar el cumplimiento oportuno de entrega de información competencia del Organismo, para la integración de los informes que PEMEX está obligado a presentar, a dependencias y entidades de la Administración Pública Federal y al Consejo de Administración de PEMEX.
 
 ###### Artículo 36.
 
-Para ser diputado propietario o suplente se requiere:
+La Subdirección de Producción tendrá las funciones siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
+I. Supervisar el mejoramiento de la confiabilidad de las plantas de proceso y servicios principales que conforman el Sistema Nacional de Refinación;
 
-I. Ser ciudadano coahuilense o estar avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
+II. Aprobar y coordinar los programas de proceso de crudo y de producción de petrolíferos;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+III. Aprobar los proyectos de expansión, modernización y automatización de la planta industrial del Sistema Nacional de Refinación;
 
-II. Tener 21 años cumplidos el día de la elección.
+IV. Aprobar el programa de auditorías de la Subdirección;
 
-III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
+V. Vigilar y coordinar con las demás subdirecciones del Organismo, la producción de los productos petrolíferos y sus derivados elaborados por el Sistema Nacional de Refinación y demandados por el mercado nacional;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+VI. Vigilar el desarrollo e implantación de las mejores prácticas operativas, así como del uso eficiente de la energía;
 
-IV. No ser Secretario de la Administración Pública Estatal, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, Fiscal General del Estado, Magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral de Coahuila, ni Magistrado o Secretario del Tribunal Electoral del Estado de Coahuila de Zaragoza, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+VII. Aprobar los estudios propuestos por las gerencias de la Subdirección para elevar la cantidad, calidad y el valor agregado de sus productos petrolíferos y sus derivados, y
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+VIII. Coordinar la elaboración de los programas de reparaciones de plantas de proceso y servicios principales, así como de proceso y producción acordando con sus unidades administrativas la implementación de la misma.
 
 ###### Artículo 37.
 
-El cargo de Diputado es incompatible con cualquier otro empleo, cargo o comisión de la Federación, del Estado o del Municipio, por el que se perciba sueldo o emolumentos del erario público excepto los cargos de carácter docente y honoríficos.
+La Gerencia de Control de Producción tendrá las funciones siguientes:
+
+I. Elaborar los programas de reparaciones de plantas de proceso y servicios principales, así como de proceso y producción acordando con las diversas unidades administrativas de la Subdirección la implementación de la misma;
+
+II. Vigilar el cumplimiento de los programas de proceso y productos petrolíferos y sus derivados elaborados por el Sistema Nacional de Refinación;
+
+III. Participar en la elaboración y actualización de las especificaciones de calidad de los productos petrolíferos finales;
+
+IV. Elaborar programas de adquisición de insumos y transferencias de productos intermedios y coordinar la distribución de los mismos, en coordinación con las subdirecciones competentes;
+
+V. Proponer y supervisar las acciones de mejora en la operación de las plantas de proceso y servicios principales del Sistema Nacional de Refinación, y
+
+VI. Participar en la elaboración de los programas anuales de inspección técnica, contraincendio y mantenimiento de las instalaciones de proceso, tanques y de servicios principales en los centros de trabajo.
 
 ###### Artículo 38.
 
-Las faltas temporales o absolutas de los Diputados Propietarios se cubrirán por los Suplentes respectivos.
+La Gerencia de Ingeniería de Procesos tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+I. Proponer y asesorar respecto del uso de simuladores de proceso;
+
+II. Asesorar a las refinerías en el desarrollo y elaboración de bases de usuarios;
+
+III. Coordinar el desarrollo de proyectos y servicios de ingeniería en el Sistema Nacional de Refinación;
+
+IV. Proponer y evaluar las alternativas de mejora de desempeño operativo, en los procesos del Sistema Nacional de Refinación;
+
+V. Desarrollar o seleccionar estándares y metodologías para efectuar estudios de optimización de las unidades de proceso del Sistema Nacional de Refinación;
+
+VI. Supervisar el desarrollo de bases de datos e integrar bibliotecas de los estudios realizados;
+
+VII. Integrar, proponer y evaluar las alternativas de mejora en los procesos de fuerza y servicios principales, y
+
+VIII. Proponer alternativas para modificar los procesos y/o utilizar nuevas tecnologías.
 
 ###### Artículo 39.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos ni procesados por ellas en ningún tiempo, ni por ninguna Autoridad.
+La Gerencia de Mantenimiento de Refinerías tendrá las funciones siguientes:
 
-El Presidente del Congreso velará por la inviolabilidad del recinto donde se reúnan a sesionar.
+I. Coordinar y vigilar la implementación y seguimiento de las acciones de procedimientos institucionales en materia de mantenimiento;
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+II. Participar, evaluar y promover en la concertación de asesorías, estudios, investigación y/o adquisición para la incorporación de nuevas tecnologías relacionadas con los programas de mantenimiento;
+
+III. Coordinar la aplicación y seguimiento de las políticas en materia de normalización y estandarización, de la inspección y mantenimiento;
+
+IV. Evaluar el cumplimiento de los programas de calibración de las válvulas y dispositivos de seguridad y de los espesores de las instalaciones de proceso;
+
+V. Coordinar y evaluar el desarrollo de sistemas y procedimientos de inspección técnica, contraincendio y mantenimiento programado del Sistema Nacional de Refinación;
+
+VI. Coordinar, con la participación de la Gerencia de Control de Producción, la elaboración de los programas de inspección técnica, contraincendio y mantenimiento de las instalaciones de proceso, tanques y de servicios principales en los centros de trabajo;
+
+VII. Coordinar y apoyar a las diferentes especialidades de inspección técnica, contraincendio y mantenimiento de las refinerías en la solución de problemas técnicos relevantes, y
+
+VIII. Dar seguimiento al comportamiento del mantenimiento correctivo y realizar el análisis técnico de las fallas repetitivas y supervisar la implementación de las medidas correctivas.
 
 ###### Artículo 40.
 
-Para proceder contra los Diputados que incurran en responsabilidad política, penal y administrativa, se observará lo dispuesto en el Título Sexto de esta Constitución.
+Las gerencias de Refinería Cadereyta, Madero, Minatitlán, Salamanca, Salina Cruz y Tula, tendrán las funciones siguientes:
+
+I. Ejecutar los programas de proceso de crudo y producción de petrolíferos del centro de trabajo;
+
+II. Ejecutar los programas y acciones que emanen del seguimiento, control y cumplimiento de las recomendaciones derivadas de revisiones de auditorías practicadas al centro de trabajo, por los órganos fiscalizadores;
+
+III. Desarrollar los programas de generación de la energía y los servicios principales que requiera el proceso productivo;
+
+IV. Implantar programas de inspección y de mantenimiento preventivo y correctivo de las instalaciones del centro de trabajo;
+
+V. Desarrollar los programas de prevención de incendios, dirigir y coordinar las acciones en situaciones de siniestros y emergencia en las instalaciones del centro de trabajo;
+
+VI. Gestionar y aprobar las medidas necesarias para optimizar la operación del proceso productivo;
+
+VII. Implantar los sistemas de administración interna de tipo institucional y desarrollar los requeridos por el centro de trabajo;
+
+VIII. Aplicar las acciones derivadas de las recomendaciones que emanen de las instancias competentes en materia de seguridad industrial y protección del ambiente;
+
+IX. Gestionar los programas anuales para reparaciones y modificaciones de las instalaciones del centro de trabajo, así como coordinar, controlar y evaluar el desarrollo de los mismos, y
+
+X. Aplicar los programas generales de seguridad, salud ocupacional, protección ambiental y calidad y los objetivos y metas del centro de trabajo.
 
 ###### Artículo 41.
 
-Nadie puede excusarse de servir el cargo de Diputado sino por causa bastante, a juicio del Congreso.
+La Subdirección de Distribución tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+I. Administrar el transporte de productos petrolíferos y sus derivados por ductos, buques-tanque, autotanques y carros-tanque;
+
+II. Coordinar la estrategia de transporte de petrolíferos y sus derivados;
+
+III. Coordinar la operación y mantenimiento de todos los activos destinados al transporte, la medición y la entrega de productos petrolíferos y sus derivados;
+
+IV. Supervisar que los planes, programas y acciones en materia de transporte de productos petrolíferos y sus derivados, se encuentre acorde con los requerimientos de producción, comerciales y de demanda del mercado nacional;
+
+V. Revisar la aplicación del Sistema de Seguridad, Salud en el Trabajo y Protección Ambiental, así como de confiabilidad operacional y de autogestión en seguridad y salud en el trabajo en las áreas adscritas a la Subdirección;
+
+VI. Autorizar estudios de factibilidad para el uso de nuevas tecnologías que estimulen el mejoramiento del desempeño operativo de la cadena de valor de transporte;
+
+VII. Verificar la continuidad en la prestación del servicio de transporte de productos petrolíferos y sus derivados, y
+
+VIII. Participar o, en su caso, atender las consultas, así como los reclamos, controversias y conciliaciones derivados de aspectos técnicos y administrativos relacionados con la ejecución de los contratos de los proyectos de inversión.
 
 ###### Artículo 42.
 
-Los Diputados recibirán una remuneración por el desempeño de su cargo, la cual se determinará conforme a lo dispuesto en el Título Octavo de esta misma Constitución.
+La Gerencia de Sistemas de Medición tendrá las funciones siguientes:
+
+I. Coordinar y supervisar la operación del sistema de medición en los puntos de transferencia de custodia de productos petrolíferos y sus derivados, entre las subdirecciones de Producción, y de Almacenamiento y Reparto, así como de los Organismos Subsidiarios y terceros;
+
+II. Realizar acciones preventivas y correctivas en los sistemas automatizados y de medición en el transporte por ductos y terminales marítimas;
+
+III. Actualizar los sistemas automatizados y de medición para transferencia de custodia en el transporte por ductos y terminales marítimas y de almacenamiento y reparto y refinerías;
+
+IV. Analizar los balances y estadísticas de las mediciones en el transporte por ductos y buque-tanque;
+
+V. Elaborar los programas de mantenimiento y calibración de instrumentos de medición, automatización, así como evaluar su ejecución;
+
+VI. Ejecutar la automatización de la infraestructura de medición asociada a los sistemas de transporte por ducto de productos petrolíferos y sus derivados, y
+
+VII. Elaborar los análisis de costo-beneficio de los proyectos de rehabilitación, crecimiento y modernización de los sistemas automatizados y de medición asociados a los sistemas de transporte por ducto.
 
 ###### Artículo 43.
 
-Los Diputados, en funciones, sólo desempeñarán cargos de la Federación, del Estado o del Municipio, con licencia de la Legislatura o de la Diputación Permanente, pero entonces cesarán en su cargo, mientras dure la nueva comisión.
+La Gerencia de Coordinación de Operaciones tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+I. Coordinar el transporte de petrolíferos y sus derivados, por ductos, buques-tanque, autotanques y carros-tanque;
+
+II. Programar el suministro alterno en la producción, importación y ventas de productos petrolíferos y sus derivados;
+
+III. Coordinar la ejecución de los programas de transporte de productos petrolíferos y sus derivados, y
+
+IV. Optimizar la cadena de valor del transporte de petrolíferos y sus derivados, elaborar los estudios técnicos y proyectos de ingeniería y proponer las acciones de mejora.
 
 ###### Artículo 44.
 
-Para que los diputados se consideren legalmente electos, al declararse válidas las elecciones, deberán recibir del Instituto Electoral de Coahuila, el documento oficial que los acredite con esa calidad.
+La Gerencia de Coordinación de Mantenimiento tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+I. Coordinar y determinar los planes y programas de administración de integridad y confiabilidad, administrando los proyectos estratégicos de infraestructura de la Subdirección de Distribución;
+
+II. Planear y desarrollar los análisis técnico-económicos de los proyectos de rehabilitación, crecimiento y modernización, así como optimización y eficiencia de la infraestructura de la Subdirección de Distribución, en coordinación con las áreas correspondientes;
+
+III. Coordinar el control y seguimiento del ejercicio presupuestal de la Subdirección de Distribución, así como evaluar su cumplimiento, y
+
+IV. Coordinar la gestión de proyectos de rehabilitación, crecimiento y modernización de la infraestructura de la Subdirección de Distribución.
 
 ###### Artículo 45.
 
-El Congreso del Estado expedirá la Ley que regulará su estructura y funcionamiento internos. La Ley determinará las formas y procedimientos para la agrupación de los Diputados.
+La Gerencia de Transporte Terrestre tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+I. Transportar productos petrolíferos y sus derivados, por medio del sistema de transporte terrestre;
 
-Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia. Los Diputados tendrán la facultad exclusiva de aprobar, reformar y adicionar este ordenamiento.
+II. Administrar los contratos de servicio de transporte terrestre por autotanque de productos petrolíferos y sus derivados;
 
-### CAPITULO II.
+III. Analizar y calcular, en coordinación con la Subdirección de Planeación, Coordinación y Evaluación, las tarifas de transporte terrestre de productos petrolíferos y sus derivados, por tipo de producto y modalidad de transporte, y
 
-De las Sesiones del Congreso.
+IV. Analizar nuevas tecnologías, elaborar estudios técnicos, desarrollar proyectos de ingeniería y proyectar nueva infraestructura para la operación y mantenimiento del sistema de transporte terrestre.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+### CAPITULO PRIMERO. DE LAS SUBDIRECCIONES Y GERENCIAS
 
 ###### Artículo 46.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el primer día hábil de marzo y terminará a más tardar el 30 de junio. El segundo iniciará el primer día hábil de septiembre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
+La Gerencia de Operación Marítima y Portuaria tendrá las funciones siguientes:
 
-El Congreso también podrá celebrar períodos extraordinarios de sesiones, conforme a lo establecido en los Artículos 47, 48 y demás aplicables de esta Constitución y a lo dispuesto en la Ley Orgánica del propio Congreso del Estado. En los períodos extraordinarios se celebrarán las sesiones que sean necesarias para la atención de los asuntos que deban desahogarse durante los mismos.
+I. Recibir, transportar y descargar productos petrolíferos y sus derivados, por medio del sistema de transporte marítimo;
 
-Al renovarse el Congreso del Estado, los diputados electos concurrirán a la sede oficial del Poder Legislativo, el día primero de enero del año inmediato posterior al de la elección, para proceder a la instalación de la Legislatura correspondiente.
+II. Administrar los procesos de integridad y confiabilidad operativa del sistema de transporte marítimo;
 
-Para este efecto, se celebrará un período de instalación que tendrá una duración de hasta quince días y en el cual se atenderán los asuntos y trabajos relacionados con la organización y funcionamiento de la nueva Legislatura, que señale la Ley Orgánica del Congreso del Estado del Estado (sic).
+III. Definir los requerimientos de materiales, equipos, obras y servicios necesarios para mantener y operar el sistema de transporte marítimo;
+
+IV. Elaborar estudios de pre inversión y factibilidad de proyectos de rehabilitación, crecimiento, adquisición, modernización de elementos del sistema de transporte marítimo;
+
+V. Calcular, en coordinación con la Subdirección de Planeación, Coordinación y Evaluación, las tarifas de transporte marítimo, de servicios portuarios, de guarda, manejo, renta y otros servicios de terminal para productos petrolíferos y sus derivados, y
+
+VI. Evaluar nuevas tecnologías y realizar estudios técnicos y de ingeniería para la infraestructura del sistema de transporte marítimo.
 
 ###### Artículo 47.
 
-El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convocado por el Ejecutivo o por la Diputación Permanente, y durante ellas se ocupará exclusivamente de los asuntos comprendidos en la convocatoria y de los que se califiquen de urgentes, por el voto de las dos terceras partes de los Diputados presentes.
+La Gerencia de Transporte por Ducto tendrá las funciones siguientes:
+
+I. Transportar productos petrolíferos y sus derivados, a través del sistema de transporte por ductos;
+
+II. Administrar los procesos de integridad y confiabilidad operativa del sistema de transporte por ducto;
+
+III. Analizar nuevas tecnologías, elaborar estudios técnicos, desarrollar proyectos de ingeniería y proyectar nueva infraestructura del sistema de transporte por ductos, y
+
+IV. Calcular, en coordinación con la Subdirección de Planeación, Coordinación y Evaluación, las tarifas de transporte por ducto de productos petrolíferos y sus derivados.
 
 ###### Artículo 48.
 
-Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
+La Subdirección de Almacenamiento y Reparto tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
+I. Definir los procesos de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados;
+
+II. Coordinar la definición de la planeación estratégica de los activos y programas destinados al recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados en las terminales de almacenamiento y reparto, así como su seguimiento y evaluación;
+
+III. Administrar y supervisar las actividades del mantenimiento de la infraestructura de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados;
+
+IV. Coordinar los proyectos de desarrollo de infraestructura con las unidades administrativas de la Subdirección;
+
+V. Dirigir el proceso integral de la coordinación operativa en las terminales de almacenamiento y reparto para la determinación de la logística de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados; en función de la disponibilidad de los mismos, la infraestructura existente y la demanda nacional de productos;
+
+VI. Coordinar los servicios de reparto local y foráneo, así como el almacenamiento, la guarda y manejo de productos petrolíferos y sus derivados;
+
+VII. Planear las necesidades estructurales para la implantación, modernización y crecimiento de los sistemas de medición, en los procesos de recibo, almacenamiento y despacho;
+
+VIII. Establecer las acciones estratégicas en las terminales de almacenamiento y reparto, para que los productos petrolíferos se suministren;
+
+IX. Autorizar el esquema de auto-abasto para entrega de productos petrolíferos y sus derivados a estaciones de servicio, y
+
+X. Participar o, en su caso, atender las consultas, así como los reclamos, controversias y conciliaciones derivados de aspectos técnicos y administrativos relacionados con la ejecución de los contratos de los proyectos de inversión.
 
 ###### Artículo 49.
 
-El Gobernador del Estado asistirá el 30 de noviembre de cada año al Congreso, a informar sobre el estado general que guarda la administración pública estatal.
+La Gerencia de Operación y Mantenimiento de Terminales tendrá las funciones siguientes:
 
-Tratándose del último año de su gestión, el Gobernador podrá, de acuerdo con el Congreso, rendir el informe a que se refiere el párrafo anterior dentro de los primeros quince días del mes de noviembre del año que corresponda.
+I. Implantar los procesos de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados;
+
+II. Programar, con las demás unidades administrativas de la Subdirección de Almacenamiento y Reparto, el almacenamiento de productos petrolíferos y sus derivados en las terminales de almacenamiento y reparto;
+
+III. Verificar que en las terminales de almacenamiento y reparto se mantengan niveles de inventarios óptimos;
+
+IV. Coordinar la elaboración, atención y evaluación de los programas de mantenimiento de la infraestructura de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados;
+
+V. Realizar análisis de negocios y evaluación de proyectos de inversión para el desarrollo de infraestructura;
+
+VI. Administrar proyectos sustantivos en materia de crecimiento, modernización y construcción de infraestructura de recibo, almacenamiento, despacho y reparto, y
+
+VII. Participar, con las diferentes unidades administrativas del Organismo, en el proceso integral de la coordinación operativa para la determinación de la logística de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados.
 
 ###### Artículo 50.
 
-La clausura de las sesiones tendrá lugar por un acuerdo que se comunicará al Ejecutivo y demás Poderes de la República.
+La Gerencia de Reparto, Medición y Servicios tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
+I. Controlar y evaluar los servicios de almacenamiento y reparto relacionados con las ventas de primera mano en el transporte y la guarda y manejo de productos petrolíferos y sus derivados;
+
+II. Evaluar la ejecución de los servicios proporcionados por las terminales de almacenamiento y reparto para la atención a clientes de ventas de primera mano en transporte y guarda y manejo de productos petrolíferos y sus derivados;
+
+III. Coordinar y evaluar la atención de los programas de entrega de productos petrolíferos y sus derivados a clientes de las terminales de almacenamiento y reparto;
+
+IV. Administrar los registros de autotanques propiedad del Organismo, o contratados por éste y de terceros, relacionados con el transporte en la entrega de productos petrolíferos y sus derivados a clientes de venta de primera mano, así como de sus operadores;
+
+V. Evaluar el desempeño de los operadores de autotanques;
+
+VI. Verificar la operación y certificación de los laboratorios de control de calidad en las terminales de almacenamiento y reparto;
+
+VII. Supervisar que los instrumentos de medición instalados en cada terminal de almacenamiento y reparto, estén calibrados de conformidad con las normas oficiales mexicanas aplicables;
+
+VIII. Supervisar y coordinar la consolidación de los balances en las terminales de almacenamiento y reparto;
+
+IX. Supervisar la determinación de la modalidad de suministro de petrolíferos a estaciones de servicio;
+
+X. Implantar los requerimientos estructurales para la modernización y crecimiento de los sistemas de medición, en los procesos de recibo, almacenamiento y despacho, y
+
+XI. Implantar las acciones necesarias en las terminales de almacenamiento y reparto para que los productos petrolíferos y sus derivados que se suministren cumplan con la normatividad y especificaciones de calidad.
 
 ###### Artículo 51.
 
-El Congreso no puede abrir sus Períodos de Sesiones ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
+Las gerencias de Almacenamiento y Reparto Norte, Pacífico, Centro y Golfo, tendrán las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+I. Coordinar y verificar las acciones para establecer los procesos de recibo, almacenamiento y reparto de productos petrolíferos y sus derivados;
 
-Los diputados electos que concurran a la instalación del Congreso del Estado, exhortarán a los ausentes para que en un plazo de tres días se presenten, con la advertencia de que, si no lo hiciesen sin causa justificada, se entenderá por ese sólo hecho que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual y si tampoco lo hiciesen, se declarará vacante el cargo. En este último caso, el Instituto Electoral de Coahuila convocará a nuevas elecciones, cuando así proceda.
+II. Supervisar el cumplimiento de los programas de mantenimiento de la infraestructura de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados, así como de inspección y confiabilidad técnica y operacional de la infraestructura y equipos; así como coordinar su ejecución en las terminales de almacenamiento y reparto;
 
-Se entiende también que los Diputados que falten a tres Sesiones consecutivas, sin causa justificada o sin previa licencia del Presidente del Congreso, con la cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
+III. Verificar el aprovechamiento de la capacidad de las instalaciones de almacenamiento e infraestructura;
 
-Incurrirá en responsabilidad y se hará acreedor a las sanciones que la Ley señale, quien habiendo sido electo Diputado no se presente, sin causa justificada a juicio del Congreso, a desempeñar el cargo o a ejercer la función.
+IV. Supervisar la ejecución de proyectos de inversión crecimiento, modernización y construcción de infraestructura;
+
+V. Coordinar las operaciones de recepción, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados, con las terminales de almacenamiento y reparto;
+
+VI. Supervisar la ejecución de los servicios de recibo, almacenamiento y reparto relacionados con las ventas de primera mano en el transporte y la guarda y manejo de productos petrolíferos y sus derivados;
+
+VII. Administrar la flotilla de autotanques propiedad del Organismo;
+
+VIII. Mantener vigentes los certificados de los laboratorios y acreditación por terceros en las terminales de almacenamiento y reparto;
+
+IX. Verificar que los instrumentos de medición instalados en cada Terminal de Almacenamiento y Reparto, estén calibrados de conformidad con las normas oficiales mexicanas aplicables;
+
+X. Verificar la determinación de la modalidad de suministro de petrolíferos a estaciones de servicio, y
+
+XI. Elaborar e implantar las directrices para la optimización del reparto de productos petrolíferos y sus derivados en las terminales de almacenamiento y reparto.
 
 ###### Artículo 52.
 
-Para que una disposición del Congreso se tenga como legítima es necesario que sea aprobada por mayoría de votos de los Diputados presentes, excepto en aquellos casos en que esta Constitución exija mayor número.
+La Subdirección Comercial tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
+I. Coordinar el proceso comercial del Organismo;
+
+II. Dirigir y coordinar las políticas, programas y proyectos del proceso comercial del Organismo;
+
+III. Coordinar el proceso de definición de estrategias del Proceso Comercial de Pemex-Refinación, de conformidad con el Plan de Negocios y el Programa de Ejecución de la Estrategia del Organismo, autorizarlas y promover su aplicación;
+
+IV. Proponer esquemas de coordinación operativa comercial para el abasto de productos petrolíferos y sus derivados con las subdirecciones del Organismo, los Organismos Subsidiarios y filiales, y
+
+V. Canalizar los planteamientos elaborados por los clientes y el público en general en el ámbito comercial para su análisis y atención correspondiente.
 
 ###### Artículo 53.
 
-Al discutirse los dictámenes sobre iniciativas de leyes concernientes a la Administración de Justicia y Codificación, podrán asistir a las sesiones el Magistrado o Magistrados que el Supremo Tribunal designe y a quienes se les concederá el uso de la palabra para que opinen o informen sobre dichos dictámenes.
+La Gerencia de Coordinación Comercial tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+I. Consolidar los requerimientos de productos petrolíferos, sus derivados y petroquímicos del mercado nacional;
 
-El Congreso del Estado, podrá solicitar del gobernador la comparecencia de los secretarios del ramo, así como la de quienes dirijan entidades paraestatales, para que informen cuando se discuta una Ley, o se estudie un asunto concerniente a sus respectivos ramos o actividades.
+II. Consolidar la información recibida de las diferentes áreas de la Subdirección Comercial para la determinación del pronóstico de la demanda de productos petrolíferos, sus derivados y petroquímicos, así como su análisis con el resto de las Subdirecciones del Organismo;
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+III. Participar en las operaciones de suministro, asistencia técnica, calidad, importación y exportación de productos petrolíferos, sus derivados y petroquímicos que demanda el mercado nacional y el Sistema Nacional de Refinación;
+
+IV. Participar en el proceso de integración operativa para la determinación de la logística de importación, recibo, almacenamiento y entrega de productos petrolíferos, sus derivados y petroquímicos, así como de las exportaciones que el Organismo requiera;
+
+V. Coordinar el seguimiento al programa de importaciones y exportaciones de productos petrolíferos, sus derivados y petroquímicos que comercializa el Organismo, así como los componentes para el propio Organismo;
+
+VI. Formalizar las fórmulas de transferencia para la importación y exportación de productos petrolíferos, sus derivados, petroquímicos y componentes para el Sistema Nacional de Refinación;
+
+VII. Proporcionar asesoría técnica a las gerencias de Ventas a Estaciones de Servicio y de Ventas al Mayoreo para la atención de sus clientes y a las diferentes instancias que lo requieran;
+
+VIII. Coordinar y evaluar la ejecución de los trabajos realizados por terceros especializados para la supervisión técnica de mantenimiento a estaciones de servicio franquiciadas en operación y otros canales de comercialización, con base en los requerimientos de las gerencias de la Subdirección Comercial;
+
+IX. Participar en el desarrollo de nuevos productos petrolíferos;
+
+X. Elaborar y actualizar, en coordinación con otras unidades administrativas competentes, así como emitir y difundir, las especificaciones de calidad de los productos petrolíferos y sus derivados de línea que comercializa el Organismo;
+
+XI. Coordinar y orientar las acciones de las áreas que integran la Subdirección Comercial en la aplicación de las estrategias comerciales instruidas para el abasto y comercialización de productos petrolíferos, sus derivados y petroquímicos, con el resto de las subdirecciones del Organismo y los Organismos Subsidiarios, y
+
+XII. Realizar la gestión comercial para la compraventa de insumos para el Sistema Nacional de Refinación.
 
 ###### Artículo 54.
 
-Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserva, las habrá secretas, de conformidad con lo que establezca la Ley Orgánica del Congreso Estatal.
+La Gerencia de Ventas al Mayoreo tendrá las funciones siguientes:
+
+I. Realizar la venta de productos petrolíferos y sus derivados y petroquímicos ofertados por el Organismo, excepto a estaciones de servicio;
+
+II. Administrar la cartera de clientes industriales, distribuidores, interorganismos y Gobierno;
+
+III. Administrar, en coordinación con la Gerencia de Ventas a Estaciones de Servicio, el crédito, facturación y cobranza de los clientes de la Subdirección Comercial;
+
+IV. Proporcionar a la Gerencia de Coordinación Comercial el pronóstico de la demanda de productos petrolíferos y sus derivados requeridos por los clientes de mayoreo y gestionar su programación y atención por cada centro de embarque;
+
+V. Participar en el desarrollo de nuevos productos petrolíferos y sus derivados y modelos de negocio acordes;
+
+VI. Participar, con las diferentes unidades administrativas del Organismo, en el proceso integral de coordinación operativa para la determinación de la logística de recibo, almacenamiento, despacho y reparto de productos petrolíferos y sus derivados, y
+
+VII. Autorizar los programas de entrega de producto a clientes diferentes a las estaciones de servicio.
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
+La Gerencia de Ventas a Estaciones de Servicio tendrá las funciones siguientes:
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+I. Realizar la venta de productos petrolíferos a las estaciones de servicio;
 
-De manera excepcional, en caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, las sesiones se podrán realizar de forma virtual, por medios electrónicos, para desahogar los asuntos concretos acordados.
+II. Coordinar la relación comercial con los franquiciatarios de las estaciones de servicio;
+
+III. Impulsar estrategias, proyectos y programas para la modernización del proceso comercial de la Franquicia PEMEX;
+
+IV. Establecer los términos y condiciones que deben contener los programas de supervisión y control de la Franquicia PEMEX, que ejecute la Gerencia de Coordinación Comercial, así como instrumentar las acciones para la aplicación de dichos programas;
+
+V. Proporcionar a la Gerencia de Coordinación Comercial el pronóstico de la demanda de productos petrolíferos y sus derivados requeridos por las estaciones de servicio y gestionar su programación y atención por cada centro de embarque;
+
+VI. Analizar el desempeño del proceso comercial de la Franquicia PEMEX y de las estaciones de servicio propiedad o en posesión del Organismo, y proponer esquemas para la incorporación de mejores prácticas y mejora continua;
+
+VII. Promover y mantener la comunicación con los franquiciatarios y sus organizaciones en materia del fortalecimiento de la relación comercial del posicionamiento de la Franquicia PEMEX en el mercado;
+
+VIII. Coordinar y evaluar la atención de los programas de entrega de producto a las estaciones de servicio;
+
+IX. Coordinar con la Gerencia de Ventas al Mayoreo, el crédito, facturación y cobranza de los clientes de la Subdirección Comercial, y
+
+X. Apoyar el desarrollo de negocios nuevos o complementarios para las estaciones de servicio, que proponga la Gerencia de Desarrollo de Negocios y Mercadotecnia.
 
 ###### Artículo 56.
 
-El Congreso en calidad de Jurado, no tendrá receso.
+La Gerencia de Políticas y Desarrollo Comercial tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+I. Revisar, diseñar y actualizar los mecanismos de precios de los productos que vende el Organismo en el territorio nacional, para someterlos a la aprobación de la autoridad competente;
+
+II. Calcular, actualizar y difundir los precios de los productos que vende el Organismo en el territorio nacional;
+
+III. Analizar, actualizar, calcular y proponer para autorización de la autoridad competente, los márgenes comerciales que se otorgan a los clientes del Organismo;
+
+IV. Presentar para aprobación de la autoridad competente, las propuestas de mecanismos de precios, cuotas o tarifas, diferentes a la de los productos que se venden en el territorio nacional, de las gerencias de la Subdirección Comercial, según corresponda;
+
+V. Consolidar periódicamente las cifras de las ventas nacionales al público de los productos comercializados por el Organismo;
+
+VI. Analizar y evaluar las condiciones del mercado de hidrocarburos para formular las directrices de la actividad comercial con los clientes diferentes a los adheridos a la Franquicia PEMEX;
+
+VII. Elaborar los criterios aplicables a las áreas de ventas encargadas de llevar a cabo la comercialización de productos del Organismo para los clientes diferentes a los adheridos a la Franquicia PEMEX, y
+
+VIII. Coordinar con las unidades administrativas de la Subdirección Comercial el análisis de las condiciones crediticias prevalecientes en el mercado.
 
 ###### Artículo 57.
 
-El Congreso en todo lo que concierne a su régimen interior, se sujetará a las prevenciones de su Ley, en lo que no se oponga a los preceptos constitucionales.
+La Gerencia de Desarrollo de Negocios y Mercadotecnia tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+I. Coordinar la elaboración de estudios de mercado relacionados con la comercialización de productos petrolíferos;
+
+II. Coordinar la elaboración de estudios de evaluación de estándares de calidad sobre el servicio al cliente;
+
+III. Mantener actualizada la imagen y las Marcas PEMEX de los productos y servicios comercializados por el Organismo;
+
+IV. Realizar el seguimiento del uso de las Marcas PEMEX en los medios en los que éstas se utilicen;
+
+V. Elaborar las propuestas de las cuotas de publicidad de terceros por uso de imagen dentro de la Franquicia PEMEX;
+
+VI. Proponer, en coordinación con las gerencias de Comunicación Social de PEMEX y de Ventas a Estaciones de Servicio de Pemex-Refinación, los programas de publicidad, comunicación y promoción comercial que posicionan las Marcas PEMEX y los canales de comercialización del Organismo;
+
+VII. Administrar el uso de las marcas licenciadas al Organismo y, en coordinación con las gerencias de Ventas a Estaciones de Servicio y Ventas al Mayoreo, determinar su uso por terceros;
+
+VIII. Analizar y proponer el desarrollo de negocios nuevos o complementarios para los canales de comercialización de los productos del Organismo, y
+
+IX. Instrumentar y mantener, en coordinación con las gerencias de Ventas a Estaciones de Servicios y de Ventas al Mayoreo, los medios de comunicación con los franquiciatarios, clientes y consumidores finales.
 
 ###### Artículo 58.
 
-La Ley Orgánica del Congreso del Estado señalará las formalidades con que deban celebrarse las sesiones de apertura y de clausura.
+La Subdirección de Proyectos tendrá las funciones siguientes:
 
-### CAPITULO III.
+I. Dirigir, coordinar y planear la ejecución de proyectos de infraestructura del Organismo;
 
-De la Iniciativa y Formación de las Leyes.
+II. Dirigir el diseño y construcción de los proyectos requeridos por el Organismo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
+III. Aprobar mecanismos de supervisión, evaluación y control de los proyectos asignados a la Subdirección;
+
+IV. Coordinar, con las unidades administrativas del Organismo, lo relativo a la instalación de la nueva infraestructura y proyectos necesarios en los centros de trabajo, y
+
+V. Participar o, en su caso, atender las consultas, así como los reclamos, controversias y conciliaciones derivados de aspectos técnicos y administrativos relacionados con la ejecución de los contratos de los proyectos de inversión.
+
+### CAPITULO SEGUNDO. DEL PERSONAL DE PEMEX-REFINACION
 
 ###### Artículo 59.
 
-El derecho de iniciar leyes o decretos compete:
+La Coordinación de Proyectos de Modernización y Ampliación de Capacidad tendrá las funciones siguientes:
 
-I. A los Diputados.
+I. Analizar y verificar el desarrollo y la ejecución de los proyectos de modernización y ampliación de capacidad del Organismo y darles seguimiento;
 
-II. Al Gobernador del Estado.
+II. Coordinar la elaboración y verificar la aplicación de mecanismos de supervisión, evaluación y control para el desarrollo y la ejecución de los proyectos de modernización y ampliación de capacidad;
 
-III. Al Tribunal Superior, en materia de Administración de Justicia y Codificación.
+III. Supervisar que los proyectos de modernización y ampliación de capacidad asignados se desarrollen eficazmente;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+IV. Estimar y programar los recursos presupuestales requeridos en las diferentes etapas de los proyectos de modernización y ampliación de capacidad de las instalaciones del Organismo, y
 
-IV. A los Ayuntamientos del Estado, en todo lo concerniente a su competencia municipal. En este caso, la iniciativa se presentará por conducto del presidente municipal, previo acuerdo de la mayoría de los miembros presentes de los Ayuntamientos.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-V. A los organismos públicos autónomos, en todo lo concerniente a su competencia. En este caso, la iniciativa se presentará por conducto del Presidente del organismo previo acuerdo del Consejo General, por el Magistrado Presidente del Tribunal de Justicia Administrativa de Coahuila de Zaragoza o el Fiscal General del Estado, según corresponda.
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2008)</small>
-
-VI. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residido en el Estado por más de tres años. Este derecho se ejercerá en los términos que establezca la ley.
-
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
-
-VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo concerniente a su competencia. La iniciativa se presentará por conducto del Comisionado Presidente, previo acuerdo del Consejo General.
-
-VIII. (DEROGADA, P.O. 14 DE JULIO DE 2017)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2016)</small>
+V. Gestionar los trámites necesarios para la obtención de los permisos requeridos para el desarrollo de los proyectos de modernización y ampliación de capacidad.
 
 ###### Artículo 60.
 
-Las Iniciativas presentadas por el Ejecutivo, Tribunal Superior, Organismos Públicos Autónomos, la Procuraduría General de Justicia del Estado o Ayuntamientos pasarán desde luego, a Comisión. Las de los Diputados, se sujetarán al trámite que disponga la Ley Orgánica del Congreso.
+La Coordinación de Proyectos de Impacto Social y Alta Rentabilidad tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
+I. Analizar y verificar el desarrollo y la ejecución de los proyectos de impacto social y alta rentabilidad del Organismo y darles seguimiento;
 
-Las iniciativas presentadas por los sujetos a que se refiere la fracción VI del artículo anterior, se sujetarán al trámite que establezcan las disposiciones legales aplicables.
+II. Coordinar la elaboración y verificar la aplicación de mecanismos de supervisión, evaluación y control para el desarrollo y la ejecución de los proyectos de impacto social y alta rentabilidad;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+III. Supervisar que los proyectos de impacto social y alta rentabilidad asignados se desarrollen eficazmente;
 
-Cuando se trate de una iniciativa de ley o decreto en materia municipal, el Presidente del Congreso inmediatamente la enviará al Ayuntamiento o Ayuntamientos respectivos para oír su opinión, que deberán emitir y entregar al Congreso del Estado dentro de los siete días naturales siguientes a la fecha en que la reciban, sin perjuicio de realizar el turno que corresponda. Vencido el plazo señalado, con o sin opinión de los Ayuntamientos, se continuará con el trámite legislativo.
+IV. Estimar y programar los recursos presupuestales requeridos en las diferentes etapas de los proyectos de impacto social y alta rentabilidad de las instalaciones del Organismo, y
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
-
-En este caso, el envío será a todos los Ayuntamientos cuando se trate de una ley o decreto que tenga aplicación en todos los municipios, pero cuando se trate de una ley o decreto que sólo tenga aplicación en algún o algunos municipios, el envío únicamente se realizará al Ayuntamiento o Ayuntamientos involucrados. Será innecesario el envío de la ley o decreto al Ayuntamiento que inicio el proceso legislativo.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
-
-Cuando un Ayuntamiento presente una ley o decreto en materia municipal, el Congreso del Estado podrá pedir la opinión del Ejecutivo del Estado, antes de elaborar el dictamen.
-
-(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001) (REPUBLICADO, P.O. 2 DE DICIEMBRE DE 2016)
-
-Por ley o decreto en materia municipal se entenderá sólo aquella norma o normas secundarias a que se refieren los incisos del a) al e) de la fracción IX del artículo 67 de esta Constitución. No serán leyes o decretos en materia municipal aquellas normas fiscales o presupuestales que deban ser aprobadas para el ejercicio fiscal del año siguiente.
+V. Gestionar los trámites necesarios para la obtención de los permisos requeridos para el desarrollo de los proyectos de impacto social y alta rentabilidad.
 
 ###### Artículo 61.
 
-Todo proyecto de ley que fuere desechado, no podrá volverse a presentar en el mismo período de sesiones.
+La Gerencia de Planeación, Seguimiento y Control tendrá las funciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1984)</small>
+I. Participar en la integración y análisis de la cartera de proyectos de inversión del Organismo;
+
+II. Consolidar y suministrar información del avance físico y financiero de los proyectos asignados a la Subdirección de Proyectos;
+
+III. Integrar los requerimientos presupuestales de los proyectos de inversión a cargo de la Subdirección de Proyectos;
+
+IV. Analizar e informar la disponibilidad presupuestal para cualquier iniciativa de gasto que afecte los proyectos a cargo de la Subdirección de Proyectos, y
+
+V. Planear y proyectar los recursos asociados a los proyectos nuevos y en ejecución, requeridos por las instancias correspondientes.
 
 ###### Artículo 62.
 
-Toda iniciativa de ley o decreto deberá sujetarse a los trámites siguientes:
+La Gerencia de Proyectos de Modernización tendrá las funciones siguientes:
 
-I. Dictamen de Comisión.
+I. Elaborar y dar seguimiento al programa del plan de ejecución de los proyectos de modernización a su cargo;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+II. Realizar los análisis de riesgo y actualizar los programas de ejecución de los proyectos de modernización;
 
-II. Una, o dos discusiones en el supuesto que expresa la fracción V de este artículo.
+III. Estimar los recursos humanos, materiales y financieros requeridos para el desarrollo de los proyectos de modernización asignados;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
+IV. Emitir y suscribir la documentación soporte para realizar los estudios y las ingenierías, realizar las acciones, actividades y gestiones administrativas inherentes, así como elaborar los instrumentos requeridos durante el desarrollo de los proyectos de modernización;
 
-III. La discusión se verificará el día que designe el Presidente del Congreso, conforme a lo dispuesto en la Ley Orgánica.
+V. Elaborar el catálogo de conceptos que se ejecutarán a precios unitarios y, en su caso, apoyar en el análisis y autorización de los precios unitarios extraordinarios que sean requeridos durante la ejecución de los trabajos;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+VI. Administrar, supervisar y controlar el desarrollo de los trabajos relativos a los proyectos de modernización, y
 
-IV. Terminada esta discusión, se votará la ley o decreto, y aprobado que sea, se pasará al Ejecutivo para su promulgación, publicación y observancia.
-
-V. Si el Ejecutivo devolviere la ley o decreto con observaciones, volverá a la Comisión respectiva para que presente nuevo dictamen.
-
-VI. El nuevo dictamen se volverá a discutir y a esta segunda discusión podrá asistir y tomar parte en ella el Gobernador del Estado o el orador que nombre al efecto.
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
-
-VII. Si el proyecto devuelto con observaciones por el Ejecutivo, fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto y se enviará de nuevo al Ejecutivo, para en el término de 10 días naturales siguientes ordene su promulgación y publicación; en caso de no hacerlo, transcurrido dicho plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2014)</small>
+VII. Coordinar, con las unidades administrativas que correspondan, las actividades de puesta en marcha y pruebas de comportamiento de las instalaciones contempladas en los proyectos de modernización asignados y realizar la entrega recepción de dichas instalaciones.
 
 ###### Artículo 62 Bis.
 
@@ -1026,395 +1228,273 @@ II. Las demás previstas en esta Constitución.
 
 ###### Artículo 63.
 
-En el caso de urgencia notoria calificada por la mayoría de los Diputados presentes, el Congreso puede dispensar los trámites; pero en ningún caso podrá reducir a menos de tres días el plazo concedido al Ejecutivo para presentar observaciones.
+La Gerencia de Proyectos de Ampliación de Capacidad tendrá las funciones siguientes:
+
+I. Elaborar y dar seguimiento al programa del plan de ejecución de los proyectos de ampliación de capacidad a su cargo;
+
+II. Realizar los análisis de riesgo y actualizar los programas de ejecución de los proyectos de ampliación de capacidad;
+
+III. Estimar los recursos humanos, materiales y financieros requeridos para el desarrollo de los proyectos de ampliación de capacidad asignados;
+
+IV. Emitir y suscribir la documentación soporte para realizar los estudios y las ingenierías; realizar las acciones, actividades y gestiones administrativas inherentes, así como elaborar los instrumentos requeridos durante el desarrollo de los proyectos de ampliación de capacidad;
+
+V. Elaborar el catálogo de conceptos que se ejecutarán a precios unitarios y, en su caso, apoyar en el análisis y autorización de los precios unitarios extraordinarios que sean requeridos durante la ejecución de los trabajos;
+
+VI. Administrar, supervisar y controlar el desarrollo de los trabajos relativos a los proyectos de ampliación de capacidad, y
+
+VII. Coordinar, con las unidades administrativas que correspondan, las actividades de puesta en marcha y pruebas de comportamiento de las instalaciones contempladas en los proyectos de ampliación de capacidad asignados y realizar la entrega recepción de dichas instalaciones.
 
 ###### Artículo 64.
 
-Las resoluciones del Congreso no tendrán otro carácter que el de ley, decreto o acuerdo.
+La Gerencia de Proyectos Ambientales tendrá las funciones siguientes:
 
-Es materia de ley toda resolución que otorgue derechos o imponga obligaciones, a alguna generalidad de personas.
+I. Elaborar y dar seguimiento al programa del plan de ejecución de los proyectos ambientales a su cargo;
 
-Es materia de decreto, toda resolución que otorgue derechos o imponga obligaciones, a determinadas personas individuales o morales.
+II. Realizar los análisis de riesgo y actualizar los programas de ejecución de los proyectos ambientales;
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+III. Estimar los recursos humanos, materiales y financieros requeridos para el desarrollo de los proyectos ambientales asignados;
 
-Son materia de acuerdo, todas las demás resoluciones que emita el Congreso y que no tengan el carácter de ley o decreto.
+IV. Emitir y suscribir la documentación soporte para realizar los estudios y las ingenierías; realizar las acciones, actividades y gestiones administrativas inherentes, así como elaborar los instrumentos requeridos durante el desarrollo de los proyectos ambientales;
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+V. Elaborar el catálogo de conceptos que se ejecutarán a precios unitarios y, en su caso, apoyar en el análisis y autorización de los precios unitarios extraordinarios que sean requeridos durante la ejecución de los trabajos;
 
-Las leyes y decretos se comunicarán al Ejecutivo, firmados por el Presidente y dos Secretarios, para su promulgación, publicación y observancia. Los acuerdos, sólo se firmarán por los dos Secretarios y se comunicarán también al Ejecutivo, para su conocimiento, y, en su caso, para su publicación y observancia.
+VI. Administrar, supervisar y controlar el desarrollo de los trabajos relativos a los proyectos ambientales, y
+
+VII. Coordinar, con las unidades administrativas que correspondan, las actividades de puesta en marcha y pruebas de comportamiento de las instalaciones contempladas en los proyectos ambientales asignados y realizar la entrega recepción de dichas instalaciones.
 
 ###### Artículo 65.
 
-La derogación o reformas de las leyes, se hará con los mismos requisitos y formalidades prescritos para su formación.
+La Gerencia de Proyectos de Alta Rentabilidad de Refinerías tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+I. Elaborar el programa del plan de ejecución de los proyectos de alta rentabilidad de refinerías a su cargo;
+
+II. Realizar los análisis de riesgo y actualizar los programas de ejecución de los proyectos de alta rentabilidad de refinerías;
+
+III. Estimar los recursos humanos, materiales y financieros requeridos para el desarrollo de los proyectos de alta rentabilidad de refinerías;
+
+IV. Emitir y suscribir la documentación soporte para realizar los estudios y las ingenierías; realizar las acciones, actividades y gestiones administrativas inherentes, así como elaborar los instrumentos requeridos durante el desarrollo de los proyectos alta rentabilidad de refinerías;
+
+V. Elaborar el catálogo de conceptos que se ejecutarán a precios unitarios y, en su caso, apoyar en el análisis y autorización de los precios unitarios extraordinarios que sean requeridos durante la ejecución de los trabajos;
+
+VI. Administrar, supervisar y controlar el desarrollo de los trabajos relativos a los proyectos de alta rentabilidad de refinerías, y
+
+VII. Coordinar con las unidades administrativas que correspondan las actividades de puesta en marcha y pruebas de comportamiento de las instalaciones contempladas en los proyectos de alta rentabilidad de refinerías asignados y realizar la entrega recepción de dichas instalaciones.
 
 ###### Artículo 66.
 
-La promulgación de las Leyes o Decretos, se hará bajo la siguiente fórmula:
+La Gerencia de Proyectos de Alta Rentabilidad de Almacenamiento, Reparto y Distribución tendrá las funciones siguientes:
 
-"N.N. Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes sabed:
+I. Elaborar y dar seguimiento al programa del plan de ejecución de los proyectos de alta rentabilidad de almacenamiento, reparto y distribución a su cargo, definiendo las estrategias financiera, de ejecución, de contratación y plan de recursos humanos;
 
-Que el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, Decreta:
+II. Realizar los análisis de riesgo y actualizar los programas de ejecución de los proyectos de alta rentabilidad de almacenamiento, reparto y distribución;
 
-(AQUI EL TEXTO)
+III. Estimar los recursos humanos, materiales y financieros requeridos para el desarrollo de los proyectos de alta rentabilidad de almacenamiento, reparto y distribución asignados;
 
-Dado en el Salón de Sesiones del Congreso del Estado.
+IV. Emitir y suscribir la documentación soporte para realizar los estudios y las ingenierías; realizar las acciones, actividades y gestiones administrativas inherentes, así como elaborar los instrumentos requeridos durante el desarrollo de los proyectos de alta rentabilidad de almacenamiento, reparto y distribución;
 
-(lugar, fecha y firmas del Presidente y Secretarios).
+V. Elaborar el catálogo de conceptos que se ejecutarán a precios unitarios y, en su caso, apoyar en el análisis y autorización de los precios unitarios extraordinarios que sean requeridos durante la ejecución de los trabajos;
 
-IMPRIMASE, COMUNIQUESE Y OBSERVESE.
+VI. Administrar, supervisar y controlar el desarrollo de los trabajos relativos a los proyectos de alta rentabilidad de almacenamiento, reparto y distribución, y
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
+VII. Coordinar con las unidades administrativas que correspondan las actividades de puesta en marcha y pruebas de comportamiento de las instalaciones contempladas en los proyectos de alta rentabilidad de almacenamiento, reparto y distribución asignados y realizar la entrega recepción de dichas instalaciones.
 
-(Lugar, fecha y firmas del Gobernador y del Secretario de Gobierno)."
-
-### CAPITULO IV.
-
-Facultades del Poder Legislativo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+### CAPITULO PRIMERO. DE LA ESTRUCTURA BASICA
 
 ###### Artículo 67.
 
-Son atribuciones del Poder Legislativo:
+La Subdirección de Administración y Finanzas tendrá las funciones siguientes:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+I. Dirigir las actividades en las materias de presupuesto, contabilidad, recursos financieros, tesorería y fiscal del Organismo, bajo los modelos de operación, la conducción normativa y funcional de la Dirección Corporativa de Finanzas;
 
-I. Expedir, reformar, derogar y abrogar leyes y decretos, en todo lo concerniente al Poder Público del Estado.
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
 
-II. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la reforma o derogación de unas y otros; y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de los otros Estados.
+II. Dirigir las actividades en las materias de bienes patrimoniales y de servicios de apoyo del Organismo, con la participación que corresponda a las unidades administrativas de PEMEX;
 
-III. Reclamar ante el Congreso de la Unión cuando alguna ley general constituya un ataque a la Soberanía o Independencia del Estado o a la Constitución Federal.
+III. Proponer al área competente de la Dirección Corporativa de Finanzas para su validación y, en su caso, sometimiento a las instancias correspondientes estrategias de administración de riesgos financieros de las posiciones del Organismo de acuerdo con las disposiciones aplicables en la materia;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+IV. Participar, con la Dirección Corporativa de Finanzas, en la elaboración del programa integral de aseguramiento del Organismo;
 
-IV. Adicionar y reformar esta Constitución en los términos que la misma prescribe.
+V. Coordinar la gestión de reclamaciones de seguros del Organismo;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+VI. Coordinar la atención de las recomendaciones derivadas del programa de prevención de pérdidas del Organismo;
 
-V. Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7° de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
+VII. Dirigir la aplicación de los mecanismos de coordinación y operación emitidos por las unidades administrativas correspondientes de PEMEX, así como establecer los correspondientes al Organismo;
 
-VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
+VIII. Conducir y dar seguimiento al proceso de integración y consolidación del anteproyecto de presupuesto de ingresos y egresos de operación, inversión, de operaciones constitutivas de deuda pública y otros rubros del Organismo, así como sus adecuaciones, bajo la conducción normativa y funcional de la Dirección Corporativa de Finanzas;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+IX. Integrar cualquier información en materia presupuestaria que deba presentar el Organismo, incluida la relacionada con la Cuenta Pública, bajo la conducción normativa y funcional de la Dirección Corporativa de Finanzas;
 
-VII. Ratificar o no, la erección de nuevos Estados dentro de los límites de los existentes, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
+X. Dirigir y coordinar la integración de la información financiera del Organismo, así como la atención de solicitudes que, en esta materia, realicen las unidades administrativas competentes;
 
-VIII. Dictar leyes conducentes a combatir en el Estado, el alcoholismo, la vagancia y el juego.
+XI. Participar, en coordinación con las unidades administrativas competentes del Organismo, en la elaboración del Programa Operativo y Financiero Anual de Trabajo y el escenario indicativo de metas de balance financiero del Organismo, así como en los diferentes escenarios de planeación financiera que determine la Dirección Corporativa de Finanzas;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+XII. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2014)
 
-IX. Expedir, reformar, derogar y abrogar leyes y decretos en materia municipal, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, con sujeción a los cuales los Ayuntamientos deberán aprobar los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+XIII. Coordinar el proceso de adquisición, administración, desincorporación y enajenación de los bienes del Organismo;
 
-El objeto de las leyes o decretos a que se refiere el párrafo anterior será establecer:
+XIV. Conducir y dar seguimiento al cumplimiento de las obligaciones fiscales derivadas de las operaciones y cumplimiento del objeto del Organismo y, en su caso, filiales, así como participar con las unidades administrativas de PEMEX que corresponda, en su caso, bajo las directrices de la Dirección Corporativa de Finanzas;
 
-a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de imparcialidad, igualdad, publicidad, inmediatez, gratuidad, audiencia y legalidad;
+XV. Participar en los escenarios financieros y económicos del Plan de Negocios;
 
-b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
+XVI. Participar en la coordinación de las acciones de evaluación económica financiera y de la gestión del Organismo;
 
-c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, como el segundo párrafo de la fracción VII del artículo 116 de esa Constitución;
+XVII. Coordinar la formulación e integración de los estados financieros del Organismo y su remisión a la Dirección Corporativa de Finanzas;
 
-d) El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+XVIII. Emitir los criterios específicos en materia de operación de almacenes y de inventarios, así como dirigir su administración;
 
-e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
+XIX. Dirigir la administración y evaluación de los servicios generales y de mantenimiento de los bienes muebles e inmuebles del Organismo;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
 
-X. Conceder amnistías por delitos cuyo conocimiento corresponda a los Tribunales del Estado.
+XX. Coordinar, conjuntamente con la Gerencia de Responsabilidad y Desarrollo Social de PEMEX, la gestión de las solicitudes en materia de responsabilidad y desarrollo social, relacionadas con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo y, en su caso, atender las reclamaciones que se realicen a este último derivadas de su operación o de las contingencias que se le presenten;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+XXI. Coordinar, integrar y dar seguimiento a cualquier operación que pudiera considerarse constitutiva de deuda pública, así como recopilar y proporcionar la información necesaria a la Dirección Corporativa de Finanzas para la obtención de las autorizaciones correspondientes previo a su contratación;
 
-XI. Suspender ayuntamientos; declarar que estos han desaparecido; suspender o revocar el mandato a alguno de sus miembros; designar concejos municipales en aquellos casos en que proceda y a quienes deban suplir las ausencias temporales o absolutas de alguno de los miembros del Ayuntamiento, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los demás ordenamientos aplicables.
+XXII. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2014)
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
 
-XII. Fijar el territorio que corresponda a los Municipios; arreglar sus límites y, por el voto de las dos terceras partes de sus miembros, modificar la extensión de los mismos, suprimirlos y crear otros, cuando así lo exija el buen servicio público; asimismo otorgar su aprobación para la celebración de convenios de coordinación o asociación de los Municipios del Estado con los Municipios de otros Estados de la República, para la más eficaz prestación de los servicios públicos municipales o el mejor ejercicio de las funciones que les corresponden.
+XXIII. Establecer e implementar estrategias de contratación que permitan incrementar el grado de integración nacional en adquisiciones y servicios, en términos de la Ley, y
 
-XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la misma mayoría que exije (sic) la fracción anterior, en los términos de esta Constitución.
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XIV. Establecer, mediante una ley, las bases conforme a las cuales el Estado, los Municipios y las entidades paraestatales y paramunicipales, podrán contraer obligaciones y empréstitos, así como autorizar los conceptos y montos de los mismos, con observancia de lo dispuesto en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-XV. Recibir para su conocimiento las declaratorias de validez de las elecciones de gobernador, diputados y miembros de los Ayuntamientos, que emita el Instituto Electoral de Coahuila.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos de los artículos 78 y 79 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
-
-Igualmente, integrar la lista de candidatos a Fiscal General de la (sic) Estado; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo del Estado, en los términos y conforme al procedimiento establecido en esta Constitución y leyes aplicables.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XVIII. Conocer de las renuncias y de las licencias de los diputados, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, así como de los miembros de los Ayuntamientos y Concejos Municipales.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XIX. Otorgar licencia para separarse temporalmente de sus cargos, a los servidores públicos a que se refiere la fracción anterior.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XX. Nombrar comisiones permanentes y especiales, para el estudio de los proyectos de leyes y decretos, así como para atender asuntos de su competencia y de interés público Estatal y Municipal.
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
-
-XXI. Conceder o negar permiso a los diputados para desempeñar algún empleo, cargo o comisión federal, estatal y municipal, de conformidad con el artículo 43 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XXII. Recibir la protesta de Ley a los Diputados, al Fiscal General del Estado, al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 1992)</small>
-
-XXIII. Designar al Presidente y Consejeros de la Comisión de los Derechos Humanos del Estado de Coahuila; en la forma que determine la ley.
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
-
-XXIV. Elaborar y aprobar su propio presupuesto de egresos, así como rendir su cuenta pública en los términos de ley.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XXV. Conceder carta de ciudadanía y la calidad de Coahuilenses, a quienes fueren merecedores de ello; otorgar premios y recompensas a los que hayan prestado servicios de importancia a la humanidad, al País o al Estado; y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
-
-XXVI. Rehabilitar, con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia.
-
-XXVII. Declarar suspenso a un ciudadano en el ejercicio de sus derechos políticos, por resistirse a servir los cargos de elección popular sin causa justificada.
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
-
-XXVIII. Expedir la ley que organice al Ministerio Público y sus auxiliares.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XXIX. Erigirse en Jurado de Sentencia para conocer un juicio político de aquellas faltas u omisiones que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, imputadas a los servidores públicos a que se refiere el artículo 163 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XXX. Expedir las normas para la organización y funcionamiento del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, en los términos que establece esta Constitución y las leyes.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-XXXI. A petición de más de la mitad de sus miembros, integrar comisiones para investigar el funcionamiento de los Municipios, los organismos descentralizados y empresas de participación estatal mayoritaria. Los resultados de las investigaciones se harán del conocimiento del Gobernador.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-XXXII. Expedir las Leyes que establezcan la concurrencia del Gobierno del Estado y los Municipios, en materia de protección al ambiente, preservación y restauración del equilibrio ecológico.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2015)</small>
-
-XXXIII. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, los cuales deben estar armonizados con la Ley General de Contabilidad Gubernamental, discutiendo primero los ingresos que deben decretarse para cubrir el ejercicio presupuestal, tomando en cuenta, entre otros elementos, los informes de la entidad de fiscalización superior.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
-
-El Congreso deberá aprobar en el Presupuesto de Egresos del Estado, las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderos en dicho ejercicio:
-
-a) Que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y:
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
-
-b) Que se deriven de contratos para asociaciones público privadas aprobados por el Congreso conforme a las leyes aplicables.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
-
-Asimismo, examinar, discutir y aprobar anualmente las leyes de ingresos de los Municipios, tomando en cuenta, entre otros elementos, los informes de la entidad de fiscalización superior, así como determinar, también anualmente, las bases, montos y plazos que habrán de observarse conforme a los principios que establece el artículo 158-T de esta Constitución, para que los Municipios reciban de inmediato y sin demora las participaciones y aportaciones federales o estatales que les correspondan.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
-
-En el caso de no aprobarse la Ley de Ingresos o el Presupuesto de Egresos del Estado, continuarán en vigor las del año inmediato anterior, con las actualizaciones que sean pertinentes de acuerdo al índice de precios al consumidor.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
-
-Las leyes garantizarán la gratuidad de la información pública bajo el principio de disponibilidad presupuestal, sin perjuicio de los derechos o cuotas proporcionales, equitativas y mínimas por la reproducción, gastos de envío, servicio o trámite público, conforme a las leyes fiscales.
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2014)</small>
-
-XXXIV. Revisar, por conducto de la entidad de fiscalización superior denominada Auditoría Superior del Estado, en los términos previstos en las leyes, la gestión financiera y las cuentas públicas de los Poderes del Estado, Municipios, organismos públicos autónomos, entidades paraestatales, paramunicipales, mandatos, fondos, fideicomisos y de cualquier entidad, persona física o moral, pública o privada que gestione recursos públicos, con objeto de conocer sus resultados y comprobar si se han ajustado a la ley de ingresos o presupuesto de ingresos, según corresponda y a su presupuesto de egresos y el cumplimiento de los objetivos contenidos en los planes y programas.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
-
-Las cuentas públicas serán entregadas al Congreso a más tardar el treinta de abril del año siguiente al ejercicio correspondiente. Solo se podrá ampliar el plazo de presentación cuando medie solicitud del titular del Ejecutivo del Estado, suficientemente justificada a juicio de la legislatura local.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
-
-El Congreso concluirá la revisión de las cuentas públicas en un periodo máximo de 60 días naturales contados a partir de la fecha en que reciba el Informe Anual de Resultados por parte de la Auditoría Superior del Estado, emitiendo el dictamen correspondiente con base en el análisis de su contenido, en las conclusiones técnicas del mismo y, en su caso, en la glosa, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, seguirá su curso en términos de lo dispuesto en la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
-
-Si del examen que realice la Auditoría Superior del Estado aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En caso de la revisión en cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos en los términos de la Ley.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
-
-El Congreso del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
-
-XXXV. Autorizar a la Diputación Permanente para que resuelva aquellos asuntos que se presenten durante su funcionamiento y que no requieran la intervención directa del Congreso.
-
-XXXVI. Formar un Reglamento Interior y acordar las providencias para hacer concurrir a los diputados ausentes.
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
-
-XXXVII. Nombrar y remover a los servidores públicos de la Oficialía Mayor y la Tesorería.
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2014)</small>
-
-XXXVIII. Expedir leyes en materia de fiscalización superior y rendición de cuentas.
-
-XXXIX. Velar por la observancia de la Constitución y las leyes.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
-
-Con este propósito, emitirá la ley reglamentaria que regule la justicia constitucional local a que se refiere el artículo 158 de esta Constitución.
-
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XL. Solicitar informes al Ejecutivo del Estado y al Supremo Tribunal de Justicia sobre asuntos de su competencia, cuando lo estime conveniente para el mejor ejercicio de sus funciones.
-
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XLI. Expedir leyes sobre planeación del desarrollo económico y social del Estado, así como para el fomento de las actividades económicas.
-
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XLII. Autorizar que se constituyan en el Estado, bajo su vigilancia y amparo, asociaciones de trabajadores formadas para proteger sus propios intereses y asociaciones o sociedades cooperativas de productores, que en defensa de sus intereses o del interés general, se propongan vender directamente en mercados extranjeros, productos que sean la principal fuente de riqueza de la región, o que no sean artículos de primera necesidad.
-
-Asimismo, por sí o a propuesta del Ejecutivo y cuando así lo exijan las necesidades públicas, derogar las autorizaciones concedidas para la formación de dichas asociaciones.
-
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XLIII. Determinar los servicios públicos que, además de los expresamente consignados en la Constitución Política de los Estados Unidos Mexicanos y de acuerdo con sus condiciones territoriales y socioeconómicas y su capacidad administrativa y financiera, podrán tener a su cargo los Municipios de la Entidad.
-
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XLIV. Expedir, con base en lo dispuesto en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, Leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XLV. Expedir la ley sobre el Sistema Estatal Anticorrupción para el Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos y leyes generales aplicables.
-
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
-
-XLVI. Solicitar la protección de los Poderes de la Unión, en los casos y términos establecidos por la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 1988)</small>
-
-XLVII. Expedir las Leyes y Acuerdos indispensables para hacer efectivas las facultades que anteceden y todas las demás que le confieran esta Constitución y la General de la República.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2007)</small>
-
-XLVIII. Designar al Auditor Superior del Estado, y
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-XLIX. Ordenar la comparecencia en los términos que la ley señale, de las autoridades o servidores públicos que hayan desestimado las recomendaciones de la Comisión de los Derechos Humanos del Estado de Coahuila a fin de que funden y motiven su rechazo; y
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-L. Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-LI. Ratificar, a los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, que designe el Gobernador del Estado, por el voto de las dos terceras partes de los miembros presentes.
-
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
-
-LII. Ratificar el nombramiento del titular de la Secretaría responsable del control interno del Ejecutivo del Estado y entidades estatales y designar con el voto de las dos terceras partes de los miembros presentes a los de Organismos Públicos Autónomos.
-
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
-
-LIII. Nombrar al Titular de la Fiscalía Especializada en Delitos por Hechos de Corrupción en los términos de esta Constitución.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2017)</small>
-
-LIV. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos legales.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-De conformidad a lo que disponga su ley orgánica, el Congreso del Estado, tratándose de expedición, abrogación o reformas de leyes o decretos en materia municipal, deberá notificarlo a los Ayuntamientos.
+XXIV. Participar con PEMEX, a través de la Gerencia de Responsabilidad y Desarrollo Social, en el diseño e instrumentación de los programas institucionales de desarrollo comunitario sustentables y sostenibles, incorporando en los mismos, los apoyos que pueda otorgar Pemex-Refinación en materia de responsabilidad y desarrollo social, relacionados con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo.
 
 ###### Artículo 68.
 
-En los casos de grave perturbación de la paz pública, o cualesquiera otros que pongan a la sociedad en peligro, el Congreso, si se hallare reunido, concederá las autorizaciones que juzgue necesarias para que el Ejecutivo haga frente a la situación. Las facultades extraordinarias solo podrán concederse en los casos a que se contrae este artículo, con arreglo a las prescripciones siguientes:
+La Gerencia de Recursos Financieros tendrá las funciones siguientes:
 
-I. Se concederán por tiempo limitado.
+I. Planear, programar, controlar, ejecutar y evaluar el funcionamiento y la resolución de asuntos en materia contable, fiscal y de tesorería en el Organismo y, en su caso, filiales;
 
-II. En el decreto que con tal motivo se expida, se expresarán con claridad y precisión todas y cada una de la facultades que se concedan al Ejecutivo.
+II. Participar en la definición, establecimiento y ejecución de las estrategias y políticas financieras, así como en la planeación financiera del Organismo;
+
+III. Coordinar y supervisar los trabajos destinados a la obtención y determinación de costos de operación del Organismo;
+
+IV. Realizar las actividades para la obtención, procesamiento, análisis, presentación y evaluación de la información contable, fiscal, de tesorería y financiera, así como formular e integrar los estados financieros del Organismo y remitirlos a la Dirección Corporativa de Finanzas;
+
+V. Planear, programar, controlar ejecutar y evaluar el funcionamiento y la resolución de las actividades de tesorería en materia de cobranza, captación, dispersión, pagos y concentración de fondos;
+
+VI. Llevar a cabo las acciones para la consolidación y cumplimiento de las obligaciones fiscales derivadas de las operaciones y objeto del Organismo y, en su caso filiales, así como participar con las unidades administrativas de PEMEX que corresponda, en su caso;
+
+VII. Atender los requerimientos de información financiera de las instancias internas y externas;
+
+VIII. Implementar las acciones para el fortalecimiento del control interno en los procesos operativos, administrativos y financieros del Organismo;
+
+IX. Proponer mecanismos para administrar y explotar la información financiera del Organismo;
+
+X. Formular e integrar la información contable y tributaria de la Cuenta Pública del Organismo;
+
+XI. Coordinar el desarrollo y evaluar la operación del sistema de facturación electrónica del Organismo;
+
+XII. Dar seguimiento al proceso de la administración de riesgos financieros de las posiciones del Organismo de acuerdo con las disposiciones aplicables en la materia;
+
+XIII. Integrar y dar seguimiento a cualquier operación que pudiera ser constitutiva de deuda pública, así como coadyuvar en la recopilación de la información necesaria para su remisión a la Subdirección de Administración y Finanzas, y
+
+XIV. Participar en la coordinación e integración de la información financiera del Organismo, incluida la relacionada con el Informe de Avance de Gestión Financiera del Organismo; así como participar en la atención de solicitudes que, en esta materia, realicen las unidades administrativas competentes.
 
 ###### Artículo 69.
 
-En el caso de que el Congrero (sic) del Estado se halle en receso, la Diputación Permanente, unida a los Diputados que se hallen en la Capital, si pudieren concurrir, y en caso contrario por sí sola, concederá o no las facultades extraordinarias a que se refiere el artículo que antecede, dando cuenta del asunto en todo caso, al Congreso cuando se reuna.
+La Gerencia de Administración Patrimonial y Servicios tendrá las funciones siguientes:
 
-### CAPITULO V.
+I. Participar en el establecimiento de mecanismos de planeación, ejecución, seguimiento y evaluación de los programas de administración patrimonial en materia de bienes muebles e inmuebles, archivos y servicios del Organismo;
 
-De la Diputación Permanente.
+II. Colaborar con la Dirección Corporativa de Finanzas en la elaboración del programa integral de aseguramiento del Organismo;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+III. Gestionar las reclamaciones de seguros y fianzas aplicables del Organismo;
+
+IV. Colaborar en la atención y seguimiento de las recomendaciones derivadas del programa de prevención de pérdidas del Organismo;
+
+V. Administrar los programas de conservación y mantenimiento de los bienes muebles e inmuebles del Organismo;
+
+VI. Participar en la elaboración de los planes y programas en materia inmobiliaria y de derechos de vía del Organismo, así como ejecutarlos y darles seguimiento;
+
+VII. Administrar el registro de los bienes inmuebles del Organismo;
+
+VIII. Ejecutar los procedimientos de administración, desincorporación adquisición y enajenación de los bienes inmuebles del Organismo;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+IX. Analizar, evaluar y emitir opinión respecto de las solicitudes en materia de responsabilidad y desarrollo social, relacionadas con donaciones en especie, obras de beneficio mutuo y participación, así como el otorgamiento de becas en las comunidades donde opera el Organismo, presentadas por terceros;
+
+X. Participar en la atención de los requerimientos de las comunidades afectadas por la operación de las instalaciones del Organismo;
+
+XI. Administrar, conservar y custodiar los documentos que integran el archivo histórico de concentración del Organismo;
+
+XII. Administrar los servicios de administración patrimonial y generales del Organismo, y
+
+XIII. Atender los requerimientos de información de las instancias internas y externas.
+
+### CAPITULO SEGUNDO. DE LA GERENCIA DE CONTROL DE GESTION
 
 ###### Artículo 70.
 
-Cuando el Congreso no esté en período ordinario de sesiones, estará en funciones una Diputación Permanente integrada por once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos Secretarios y siete Vocales, que serán electos el día de la clausura del período de instalación y de los períodos ordinarios de sesiones, en la forma que determine la Ley. Por cada uno de los diputados electos como propietarios se designará respectivamente un suplente.
-
-La Diputación Permanente tendrá dos períodos de funciones al año. El primero se desarrollará durante los meses de enero y febrero y el segundo en los meses de julio y agosto de cada año; y concluirán al iniciarse los períodos ordinarios de sesiones según corresponda.
+(DEROGADO, D.O.F. 25 DE FEBRERO DE 2014)
 
 ###### Artículo 71.
 
-(DEROGADO, P.O. 27 DE FEBRERO DE 2004)
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+(DEROGADO, D.O.F. 25 DE FEBRERO DE 2014)
 
 ###### Artículo 72.
 
-Si durante el receso del Congreso fuere éste convocado a sesiones extraordinarias, la Diputación Permanente no suspenderá sus trabajos, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario.
+La Gerencia de Presupuestos tendrá las funciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+I. Planear, programar controlar, ejecutar y evaluar el funcionamiento y la resolución de asuntos en materia presupuestaria en el Organismo;
+
+II. Participar en la formulación, integración y consolidación del anteproyecto de presupuesto de ingresos y egresos de operación, inversión, de operaciones constitutivas de deuda pública y otros rubros del Organismo, así como de sus adecuaciones y gestionar su autorización;
+
+III. Participar, con las unidades administrativas del Organismo, en la elaboración del Programa Operativo y Financiero Anual de Trabajo, así como en el escenario indicativo de metas de balance financiero del Organismo y en los diferentes escenarios de planeación financiera;
+
+IV. Realizar las acciones para establecer mecanismos de planeación, gestión, seguimiento y evaluación para el aprovechamiento de los recursos presupuestales del Organismo;
+
+V. Formular e integrar cualquier información en materia presupuestaria del Organismo, incluida la relacionada con la Cuenta Pública;
+
+VI. Proponer y dar seguimiento a indicadores sobre el desempeño en materia presupuestaria, así como administrar y explotar la información en dicha materia;
+
+VII. Analizar, validar, integrar y gestionar las solicitudes de autorización de erogaciones plurianuales de operación e inversión del Organismo, y
+
+VIII. Analizar, consolidar y evaluar el ejercicio presupuestal de los ingresos y egresos de operación e inversión, así como de otros ingresos y egresos del Organismo.
 
 ###### Artículo 73.
 
-Son atribuciones de la Diputación Permanente:
+La Subdirección de Planeación, Coordinación y Evaluación tendrá las funciones siguientes:
 
-I. Llevar la correspondencia con los Poderes de la Federación y con los de los Estados.
+I. Dirigir la participación del Organismo en las actividades de planeación estratégica y operativa institucional;
 
-II. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
+II. Dirigir la participación del Organismo en la elaboración del Plan de Negocios;
 
-III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatura a sesiones extraordinarias
+III. Conducir la elaboración del programa de ejecución de la estrategia del Organismo y coordinar su implementación;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+IV. Conducir la integración y el seguimiento de los programas operativos y, en su caso, de las metas de desempeño, así como coordinar su ejecución;
 
-IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refieren los artículos 78 y 79 de esta Constitución.
+V. Coordinar la definición y evaluación económica de los programas, proyectos e iniciativas del Organismo, así como gestionar su autorización cuando así se requiera;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+VI. Conducir la participación del Organismo en la integración de la estrategia tecnológica institucional;
 
-V. Otorgar o negar su aprobación a los nombramientos de magistrados del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
+VII. Analizar y proponer alternativas tecnológicas de vanguardia en el Organismo con base en las metodologías que establezca PEMEX para tal efecto;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+VIII. Coordinar la integración y administración de la Base de Datos del Organismo;
 
-VI. Conceder licencias a los servidores públicos a que se refiere la fracción XVIII del artículo 67; así como conocer y resolver, en los términos de esta Constitución y demás ordenamientos aplicables, sobre las renuncias que individualmente y sin tratarse de la mayoría, presenten los miembros de los Ayuntamientos y de los Concejos Municipales.
+IX. Evaluar de manera integral el desempeño operativo, económico y financiero del Organismo, y
 
-Cuando se trate de solicitudes de licencia o de renuncias presentadas por la totalidad o la mayoría de los miembros de un Ayuntamiento o de un Concejo Municipal, la Diputación Permanente recibirá dichas solicitudes o renuncias y convocará al Congreso, para que conozca y resuelva sobre las mismas, conforme a lo dispuesto en esta Constitución y demás ordenamientos aplicables.
-
-VII. Dictaminar en los asuntos que quedaron pendientes de resolución y dar cuenta con ellos en el siguiente período de sesiones.
-
-VIII. Resolver los asuntos para que fuere autorizada por el Congreso, según la fracción XXXV, del artículo 67.
+X. Coordinar la integración y la jerarquización del portafolio de programas, proyectos de inversión y de otras iniciativas que impliquen el uso de recursos de operación, de acuerdo a los objetivos del Plan de Negocios.
 
 ###### Artículo 74.
 
-En los casos de invación (sic) y perturbación de la paz pública, la Diputación Permanente podrá conceder, con carácter de provisional, facultades extraordinarias al Ejecutivo para que haga frente a la situación; pero tan luego como se otorgue esta concesión, deberá convocar al Congreso a sesiones extraordinarias para que confirme, modifique o revoque el acuerdo relativo.
+La Gerencia de Análisis de Inversiones y Gasto Operativo tendrá las funciones siguientes:
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+I. Apoyar a las unidades administrativas en la definición y evaluación económica de los programas, proyectos e iniciativas del Organismo;
 
-### CAPITULO VI.
+II. Integrar, jerarquizar y registrar el portafolio de programas y proyectos de inversión y otras iniciativas que impliquen el uso de recursos de operación;
 
-De la Auditoría Superior del Estado.
+III. Revisar los entregables, en el ámbito de competencia de la Subdirección de Planeación, Coordinación y Evaluación, para la acreditación de los proyectos;
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+IV. Evaluar la ejecución de los proyectos prioritarios señalando el cumplimiento de las metas asociadas;
+
+V. Consolidar y fortalecer el proceso de desarrollo de proyectos de acuerdo con el Sistema Institucional de Desarrollo de Proyectos de PEMEX, y
+
+VI. Informar a las instancias competentes sobre los avances en la planeación y ejecución de los programas, proyectos e iniciativas del Organismo, y su problemática.
+
+### CAPITULO TERCERO. DE LA SUBDIRECCION DE PRODUCCION
 
 ###### Artículo 74-A.
 
@@ -1476,417 +1556,203 @@ La Auditoría Superior del Estado entregará el Informe Anual de Resultados de l
 
 El Auditor Superior del Estado será designado por el voto de las dos terceras partes de los diputados presentes del Pleno del Congreso; será inamovible y su remoción sólo podrá realizarse por las causas establecidas en las leyes y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución; durará en su encargo ocho años y podrá ser ratificado para un segundo período.
 
-## TITULO CUARTO.
+## TITULO CUARTO. DE LOS SUBDIRECTORES Y PERSONAL DE PEMEX-REFINACION
 
-### CAPITULO I.
-
-Del Poder Ejecutivo.
+### CAPITULO CUARTO. DE LA SUBDIRECCION DE DISTRIBUCION
 
 ###### Artículo 75.
 
-El Poder Ejecutivo del Estado se deposita en una sola persona que se denominará Gobernador del Estado de Coahuila de Zaragoza.
+La Gerencia de Evaluación al Desempeño tendrá las funciones siguientes:
+
+I. Evaluar los resultados operativos, financieros y económicos del Organismo;
+
+II. Consolidar y fortalecer el proceso de evaluación basado en la generación de valor económico;
+
+III. Diseñar indicadores de medición del desempeño operativo, financiero y económico del Organismo;
+
+IV. Dar seguimiento y evaluar, en conjunto con la Gerencia de Planeación Estratégica, el cumplimiento de las metas de desempeño del Plan de Negocios y del Programa de Ejecución de la Estrategia, así como proponer acciones de mejora;
+
+V. Integrar y administrar la Base de Datos del Organismo, y
+
+VI. Elaborar informes relacionados con la evaluación operativa, económica y financiera del Organismo.
 
 ###### Artículo 76.
 
-Para ser Gobernador se requiere:
+La Gerencia de Planeación Estratégica tendrá las funciones siguientes:
 
-I. Ser ciudadano mexicano por nacimiento.
+I. Coordinar la participación del Organismo en las actividades de la planeación estratégica de Pemex-Refinación;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+II. Coordinar la participación del Organismo en la elaboración de Plan de Negocios;
 
-II. Haber cumplido 30 años de edad para el día de la elección.
+III. Coordinar la elaboración de la estrategia de corto, mediano y largo plazo, en cuanto al suministro de productos petrolíferos y sus derivados a nivel nacional;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+IV. Realizar estudios de maximización de valor que permitan evaluar oportunidades de crecimiento y alternativas de mejora operativa;
 
-III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección.
+V. Elaborar, en coordinación con las unidades administrativas del Organismo, el programa de ejecución de la estrategia, así como gestionar su implementación;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+VI. Participar en la optimización de programas de operación y proponer mejoras al proceso de gestión operativa y estratégica;
 
-IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.
+VII. Desarrollar y administrar modelos y herramientas de análisis para la programación, optimización y evaluación operativa;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+VIII. Elaborar los balances volumétricos multianuales e integrar los requerimientos de gasto de operación e inversión asociados, así como participar en la elaboración de los escenarios de demanda de los productos que comercializa el Organismo;
 
-V. No ser secretario de la administración pública estatal, magistrado del Poder Judicial, presidente municipal, síndico o regidor, consejero o integrante del órgano de dirección de los organismos públicos autónomos, magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, Fiscal General del Estado, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+IX. Participar en la evaluación económica de los proyectos de inversión;
 
-VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
+X. Integrar las necesidades del Organismo relacionadas con la estrategia tecnológica institucional, y
 
-VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, falsificación u otro delito infamante.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+XI. Dar seguimiento y evaluar, en conjunto con la Gerencia de Evaluación del Desempeño, el cumplimiento de las metas de desempeño del Plan de Negocios y del Programa de Ejecución de la Estrategia, así como proponer acciones de mejora.
 
 ###### Artículo 77.
 
-La elección de Gobernador será directa y en los términos que señale la Ley de la materia. El Gobernador del Estado tomará posesión el día primero de diciembre posterior a la elección, y no podrá durar en el cargo más de seis años.
+La Gerencia de Programación y Coordinación Operativa tendrá las funciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+I. Integrar y optimizar los programas de operación de producción, almacenamiento, distribución y comercialización alineados al programa de ejecución de la estrategia;
+
+II. Revisar, diseñar y actualizar los mecanismos de precios interorganismos de los productos que comercializa Pemex-Refinación con los Organismos Subsidiarios, para someterlos a la aprobación de la autoridad competente;
+
+III. Integrar los programas operativos y, en su caso, las metas de desempeño;
+
+IV. Estimar la demanda nacional de productos elaborados en el Organismo, y
+
+V. Realizar el seguimiento y coordinación operativa integral de la ejecución de los programas operativos del Organismo, así como coordinar la ejecución de acciones de mejora.
 
 ###### Artículo 78.
 
-En caso de falta absoluta del Gobernador del Estado, que ocurra durante los tres primeros años del período constitucional correspondiente, el Congreso del Estado se constituirá inmediatamente en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del total de sus miembros nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino. El Instituto Electoral de Coahuila, dentro de los noventa días siguientes al de la designación del Gobernador Interino, expedirá la convocatoria para la elección del Gobernador que deba concluir el período, debiendo precisar en la misma, la fecha en que habrá de celebrarse dicha elección.
+La Subdirección de Auditoría de Seguridad Industrial y Protección Ambiental tendrá las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+I. Coordinar, con las unidades administrativas, las actividades que prevengan los riesgos de afectación a la seguridad industrial, salud en el trabajo y protección ambiental;
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe al Gobernador Interino. El Instituto Electoral de Coahuila deberá convocar a elecciones en los términos del párrafo anterior.
+II. Coordinar, en colaboración con las unidades administrativas, la atención de emergencias, contingencias y siniestros que ocurran en el Organismo;
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+III. Coordinar, con la Subdirección de Recursos Humanos y Relaciones Laborales de PEMEX, los cursos de capacitación y programas en materia de seguridad industrial, protección ambiental, salud en el trabajo, calidad en la producción y uso eficiente y racional de la energía;
 
-Cuando la falta absoluta del Gobernador del Estado, ocurriere en los tres últimos años del período constitucional respectivo, el Congreso del Estado designará un Gobernador Substituto, en los términos que se establecen en el primer párrafo, quien se encargará de concluir el período. Si el Congreso no estuviese reunido, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la elección del Gobernador Substituto.
+IV. Participar en la definición de las estrategias institucionales en materia de desarrollo sustentable;
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+V. Participar, en coordinación con la Subdirección de Planeación, Coordinación y Evaluación, en el diagnóstico operativo, así como en el análisis de tendencias de la industria en el Organismo, y proponer mecanismos para su captura;
+
+VI. Participar en la elaboración de costos ambientales e impacto ambiental y supervisar su incorporación a los nuevos proyectos de inversión desde su planeación;
+
+VII. Desarrollar y ejecutar planes y programas de auditorías al Sistema Institucional de Seguridad Industrial, Salud en el Trabajo y Protección Ambiental en el Organismo, así como atender las observaciones de auditorías que se le formulen;
+
+VIII. Implementar las estrategias institucionales en materia de emergencias y protección civil en el Organismo, y
+
+IX. Fomentar la cultura de seguridad industrial, salud en el trabajo, protección ambiental y desarrollo sustentable en el Organismo.
 
 ###### Artículo 79.
 
-Si el Gobernador del Estado, solicita licencia para separarse del cargo hasta por treinta días, el Congreso del Estado o la Diputación Permanente, en su caso, designará un Gobernador Interino, que se encargará del Poder Ejecutivo, durante el tiempo que dure dicha falta.
+La Gerencia de Seguridad Industrial y Salud en el Trabajo tendrá las funciones siguientes:
 
-Cuando la solicitud de licencia del Gobernador del Estado, sea para separarse del cargo por más de treinta días, el Congreso del Estado resolverá sobre dicha licencia y nombrará, en su caso, un Gobernador Interino. Si el Congreso del Estado no estuviera reunido, la Diputación Permanente designará un Gobernador Provisional y convocará a sesiones extraordinarias del Congreso, para el efecto antes señalado.
+I. Ejecutar, conjuntamente con las unidades administrativas de los centros de trabajo, la implantación del Sistema de Seguridad, Salud y Protección Ambiental;
 
-En caso de que el Gobernador del Estado se viere imposibilitado para desempeñar el cargo, por una causa grave que le impida solicitar licencia y que, a juicio del Congreso, obligue a su separación del mismo, se considerará que existe falta temporal, y, atendiendo a las circunstancias del caso, se procederá conforme a lo previsto en los párrafos anteriores.
+II. Consolidar acciones, planes y programas relativos a la seguridad industrial y salud en el trabajo;
 
-Si por cualquier motivo, la elección de Gobernador del Estado no estuviere hecha y declarada el primero de diciembre del año en que debe renovarse el Poder Ejecutivo, o el Gobernador Electo no se presentare a tomar posesión del cargo en esa fecha, cesará, sin embargo, el Gobernador saliente y se encargará del Poder Ejecutivo un Gobernador Interino, que será designado por el Congreso del Estado, y si éste no estuviere reunido, la Diputación Permanente designará un Gobernador Provisional, procediéndose luego, conforme a lo dispuesto en el artículo anterior.
+III. Coordinar la atención de emergencias o siniestros que ocurran en el Organismo;
 
-Si el Congreso del Estado, con base en una causa grave y justificada, determina que la ausencia del Gobernador electo, debe considerarse como falta temporal, el Gobernador Interino designado en los términos del párrafo anterior, se hará cargo del Poder Ejecutivo, por el tiempo que dure dicha ausencia.
+IV. Establecer los programas, proyectos y actividades de Salud en el Trabajo, y
 
-Cuando las faltas temporales se conviertan en absolutas, se observará lo dispuesto en el artículo anterior.
+V. Analizar y dar seguimiento a los planes y programas institucionales en materia de Salud en el Trabajo.
 
 ###### Artículo 80.
 
-El cargo de Gobernador sólo es renunciable por causa grave, calificada por el Congreso, ante quien se presentará la renuncia.
+La Gerencia de Protección Ambiental tendrá las funciones siguientes:
+
+I. Consolidar la implantación del Sistema de Seguridad, Salud y Protección Ambiental;
+
+II. Proporcionar la asesoría necesaria para la realización de sus actividades en materia de protección ambiental y desarrollo sustentable;
+
+III. Compilar la información sobre actividades y resultados en materia de protección ambiental y ahorro de energía;
+
+IV. Proporcionar la asesoría y coordinación en la atención de emergencias mayores en materia de protección ambiental;
+
+V. Consolidar el desarrollo de programas de conservación de recursos naturales en áreas de interés del Organismo;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2014)</small>
+
+VI. Operar, en coordinación con la Gerencia de Responsabilidad y Desarrollo Social de PEMEX, en la concertación de programas de responsabilidad y desarrollo social en las comunidades aledañas a los centros operativos del Organismo;
+
+VII. Programar y ejecutar la evaluación de riesgo a la salud y remediación de sitios contaminados, derivado de las actividades del Organismo, y
+
+VIII. Consolidar la implantación del Subsistema de Administración Ambiental.
 
 ###### Artículo 81.
 
-El Gobernador, al tomar posesión de su cargo, hará la protesta de ley ante el Congreso o a la Diputación Permanente, si aquél estubiera (sic) en receso.
+La Gerencia de Control Técnico y Operativo de Manejo de Combustibles tendrá las funciones siguientes:
 
-### CAPITULO II.
+I. Coadyuvar con la estrategia institucional que determine la Dirección Corporativa de Operaciones en el diagnóstico, identificación y análisis en materia de aseguramiento de balances volumétricos en la cadena de producción, transporte y comercialización, y
 
-Facultades y obligaciones del Gobernador del Estado.
+II. Realizar evaluaciones técnico operativas de los procedimientos operativos en el Organismo y dar seguimiento a la atención de las observaciones derivadas de dichas evaluaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 1936)</small>
+### CAPITULO QUINTO. DE LA SUBDIRECCION DE ALMACENAMIENTO Y REPARTO
 
 ###### Artículo 82.
 
-Son facultades del Gobernador:
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-I. Iniciar ante el Congreso del Estado las leyes, decretos y acuerdos que juzgue convenientes, y solicitar al mismo, que inicie ante el Congreso de la Unión los que sean de competencia federal.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-II. Dirigirse al Gobierno Federal, siempre que lo estime necesario, para obtener las resoluciones que reclamen el bien público y los intereses del Estado.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
-
-Asimismo, cuando el Congreso del Estado no estuviere reunido, solicitar la protección de los Poderes de la Unión, en los casos a que se refiere el primer párrafo del artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
-
-III. Celebrar convenios con los Gobernadores de los Estados limítrofes para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado, y recíprocamente.
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
-
-IV. Nombrar, suspender y remover libremente a los secretarios del ramo, a los subsecretarios, a los directores de los diferentes ramos, a los Oficiales del Registro Civil y a todos los demás servidores públicos del Poder Ejecutivo, cuyo nombramiento, suspensión o remoción no estén determinados de otro modo en esta Constitución y las leyes.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-V. Celebrar, con el carácter de Representante del Estado y con observancia de lo dispuesto en los ordenamientos legales aplicables, convenios y contratos que fueren favorables o necesarios en los diversos ramos de la Administración Pública, tanto con los Gobiernos Federal, Estatales y Municipales, como con entidades paraestatales y paramunicipales y personas físicas o morales de carácter público o privado.
-
-Cuando se contraten obligaciones o empréstitos, deberá asegurarse, asimismo, que estos estén destinados a inversiones públicas productivas y que los contratos correspondientes se celebren conforme a las bases legales que establezca el Congreso del Estado, así como por los conceptos y hasta por los montos que la propia Legislatura local autorice.
-
-Conforme a esta facultad, el Gobernador del Estado, podrá convenir con la Federación:
-
-1. La ejecución de acciones coordinadas, en relación con el Sistema Nacional de Planeación Democrática, el Plan Nacional de Desarrollo y los programas que de ellos se deriven.
-
-2. La asunción, por parte del Estado, del ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que competan al Gobierno Federal, cuando el desarrollo económico y social de la Entidad lo haga necesario.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
-
-Asimismo, el Ejecutivo del Estado podrá convenir con los municipios:
-
-1. El concurso del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo temporalmente de uno o varios servicios o funciones municipales, cuando a juicio del Ayuntamiento fuera necesario; o bien se presten o ejerzan coordinadamente por el Estado y por el Municipio.
-
-2. La intervención del Estado para que se haga cargo de alguna o algunas de las funciones relacionadas con la administración de las contribuciones que integran la hacienda municipal, a solicitud del Ayuntamiento respectivo.
-
-3. La ejecución, prestación y atención, por parte de los Municipios, de programas, obras, servicios y funciones que competan directamente al Estado, cuando éste lo haya convenido con aquellos.
-
-4. La participación de los Municipios, para la ejecución de las acciones coordinadas que se convengan entre el Estado y la Federación, en relación con el Sistema Nacional de Planeación Democrática, el Plan Nacional de Desarrollo, los programas que de ellos se deriven, los propios del Presupuesto de Egresos de la Federación y los Programas Emergentes del Gobierno Federal.
-
-5. La realización y prestación, también por parte de los Municipios, de programas, obras, funciones y servicios de competencia federal, que el Estado hubiera asumido, en virtud de convenios celebrados con la Federación.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-VI. Celebrar arreglos sobre los límites del territorio del Estado y someterlos para su aprobación al Congreso Local, antes de remitirlos al Congreso de la Unión para su ratificación.
-
-VII. Nombrar, cuando lo crea conveniente, personas de su confianza para que informen si en los pueblos del Estado se observan la Constitución y las leyes.
-
-VIII. Pedir a la Diputación Permanente expida convocatoria a sesiones extraordinarias del Congreso.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2017)</small>
-
-IX. Someter al Congreso del Estado para su ratificación, los nombramientos de los Magistrados del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-X. Concurrir personalmente al Congreso del Estado o enviar al Secretario del Ramo que corresponda, cuando se discuta un proyecto de Ley o Decreto, cuya iniciativa haya sometido a su aprobación.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XI. Remitir al Congreso los antecedentes relativos a actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, imputados a los servidores públicos a que se refiere el artículo 163 de esta Constitución; así como los relativos a delitos imputados a los servidores públicos a que se refiere el artículo 165 de esta Constitución.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2017)</small>
-
-XII. Intervenir en la designación del Fiscal General del Estado, en términos de lo dispuesto en esta Constitución.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XIII. Ejercitar, en el ámbito de su competencia, las facultades que señala el artículo 27 de la Constitución General.
-
-XIV. Hacer observaciones por una sola vez a las leyes o decretos del Congreso con la obligación de mandarlos publicar y ejecutar si fueren reproducidos.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XV. Declarar expropiaciones por causa de utilidad pública en la forma que determine esta Constitución y su Ley Reglamentaria.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XVI. Conceder los estímulos que considere convenientes a las industrias y explotaciones agrícolas y ganaderas que se establezcan en el Estado, de conformidad con lo que dispongan las leyes.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XVII. Solicitar a las dependencias y a los servidores públicos, los informes que necesite para el desempeño de sus funciones.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XVIII. Expedir los reglamentos que fueren necesarios para la mejor aplicación y observancia de las leyes, sin contrariar sus preceptos ni variar el espíritu de éstas; así como dictar los decretos, acuerdos, circulares, órdenes y disposiciones necesarios para la buena marcha de la Administración Pública Estatal.
-
-XIX. Organizar y disciplinar la Guardia Nacional y demás fuerzas del Estado y ejercer, respecto de unas y otras, las atribuciones que determinen las leyes y reglamentos respectivos.
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
-
-XX. Ser el Jefe de las Fuerzas de Seguridad Pública del Estado y asumir, con tal carácter, cuando las circunstancias lo requieran y por el tiempo que estime necesario, el mando directo e inmediato de todas las corporaciones de seguridad pública, en la totalidad o parte del territorio estatal.
-
-La Policía Preventiva Municipal estará al mando del presidente municipal en los términos del reglamento respectivo. No obstante, deberá acatar las órdenes que el Gobernador del Estado le transmita, en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
-
-En los casos en que el titular del Ejecutivo Federal resida habitual o transitoriamente en el territorio del Estado, tendrá el mando de la fuerza pública del Estado y de los Municipios durante el tiempo que dure su residencia.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XXI. Sancionar con conocimiento de causa a los que infrinjan los reglamentos gubernativos y las órdenes que expida en el ejercicio de sus atribuciones en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XXII. Nombrar apoderados para asuntos administrativos y judiciales que se tramiten dentro o fuera del Estado.
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
-
-XXIII. Someter al Congreso del Estado, en los términos de esta Constitución y demás disposiciones aplicables, los nombramientos de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje.
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
-
-XXIV. Otorgar indultos de las penas impuestas por sentencia ejecutoria, previo las formalidades que la ley establezca y en los casos en que la misma determine.
-
-XXV. Ejercer la superior inspección en todos los ramos de la Administración Pública y de la Beneficencia Privada.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XXVI. Otorgar autorizaciones, concesiones, licencias y permisos en los términos que establezcan las leyes.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-XXVII. Desconcentrar las funciones administrativas cuando por razones de interés general lo estime conveniente.
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
-
-XXVIII. Auxiliar y colaborar estrechamente con el Gobierno Municipal, para el mejor desarrollo político, económico, cultural y social del Estado.
-
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
-
-XXVIII. A. Promover ante el Pleno del Tribunal Superior de Justicia, las controversias constitucionales o acciones de inconstitucionalidad locales que estime procedentes, de conformidad con el artículo 158 de esta Constitución; y,
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2015)</small>
-
-XXIX. Emitir lineamientos y normatividad aplicable a la contabilidad gubernamental.
-
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2015)</small>
-
-XXX. Las demás que expresamente le concedan las Leyes.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
+La representación legal de Pemex-Refinación estará a cargo de su Director General y demás apoderados del Organismo conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 83.
 
-El Ejecutivo tiene derecho de hacer observaciones a las leyes o decretos aprobados por el Congreso. Si quisiera hacer uso de esta facultad, en el término de treinta días naturales lo devolverá con sus observaciones, vencido este término sin realizar las observaciones, el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto, transcurrido este segundo plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución.
+Los subdirectores y gerentes jurídicos de la Dirección Jurídica de PEMEX, podrán ser representantes legales de Pemex-Refinación, con base en los poderes que, en los términos de las disposiciones aplicables, el Organismo les otorgue en el ámbito de sus respectivas funciones.
+
+La Gerencia Jurídica de lo Contencioso, la Gerencia Jurídica de Refinación y las gerencias jurídicas de los Organismos Subsidiarios de la Dirección Jurídica de PEMEX, tendrán la naturaleza de unidades administrativas encargadas de la defensa jurídica a que hace referencia el artículo 5o., tercer párrafo, de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables.
 
 ###### Artículo 84.
 
-Son deberes del Gobernador:
+En caso de poderes a personas ajenas al Organismo, deberán informar y justificar ante el Consejo de Administración en su sesión ordinaria inmediata siguiente.
 
-I. Llevar las relaciones entre el Estado y los Gobiernos General y de los Estados.
+El Director General llevará, con apoyo de la Dirección Jurídica de PEMEX, un registro del otorgamiento y revocación de los poderes generales y especiales otorgados a personas ajenas al Organismo. Este registro deberá hacerse del conocimiento de los miembros del Consejo de Administración.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-II. Promover por los medios que estime convenientes, el mejoramiento de las condiciones económicas y de bienestar de la colectividad, fomentando el aumento y la justa distribución de la riqueza pública en el Estado, dando impulso a la explotación adecuada de todas las fuentes de producción, así como otorgando facilidades y estímulos para la inversión de capitales en actividades que permitan la creación de nuevos centros de trabajo.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-III. Cuidar de la observancia de la Constitución Política de los Estados Unidos Mexicanos y de la particular del Estado, así como promulgar, publicar y hacer cumplir las leyes y decretos que expida el Congreso Estatal.
-
-Asimismo, será deber del Gobernador del Estado, publicar y hacer cumplir las leyes y decretos federales.
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
-
-IV. Asistir e informar al Congreso, el 30 de noviembre de cada año o bien, dentro de los primeros quince días del mes de noviembre del año que corresponda tratándose del último año de su gestión, sobre el estado general que guarda la administración pública estatal.
-
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2012)</small>
-
-V. Cuando salga del país en viajes oficiales, informar a su regreso, al Congreso o a la Diputación Permanente, sobre los resultados obtenidos en las gestiones realizadas, lo cual podrá hacer por escrito o por comparecencia.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-VI. Rendir los informes que le solicite el Congreso del Estado en los términos de la fracción XL del artículo 67.
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
-
-VII. Presentar al Congreso la cuenta pública, dentro del término que disponga la Ley.
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
-
-VIII. Presentar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, correspondientes a cada ejercicio fiscal.
-
-IX. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
-
-X. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad pública en todo el Estado, haciendo respetar las garantías individuales.
-
-XI. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere.
-
-XII. Procurar la conservación de la salubridad e higiene públicas.
-
-XIII. Proveer el buen estado y seguridad de los caminos.
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)</small>
-
-XIV. Exigir mensualmente a la Secretaría de Finanzas del Estado, la cuenta de ingresos y egresos, y remitirla al Congreso o a la Diputación Permanente.
-
-XV. Cuidar de los fondos públicos que en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a las leyes.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XVI. Dictar las medidas necesarias para la seguridad de los fondos del Estado, en caso de suspensión de algunos de los servidores públicos que los manejen.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-XVII. Visitar periódicamente los Municipios para atender sus necesidades y buscar soluciones en forma conjunta.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-XVIII. Solicitar información de los órganos electorales, en relación a las elecciones que se verifiquen en el Estado.
-
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XIX. Promover y vigilar el culto a los símbolos patrios.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-XX. Los demás deberes que le impongan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y otros ordenamientos legales.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+Los poderes que, en su caso, el Director General del Organismo, otorgue a personas ajenas al mismo, en términos del párrafo cuarto del artículo 5o. de la Ley, se entenderán perfeccionados desde el momento de su otorgamiento; sin que su vigencia o validez se sujeten a la información o justificación que deberá presentarse ante el Consejo de Administración, por lo que no será necesario hacer mención en los poderes de dicha circunstancia.
 
 ###### Artículo 85.
 
-La Administración Pública del Estado será centralizada y paraestatal y el Gobernador del Estado, en su carácter de titular del Poder Ejecutivo, será el Jefe de la misma, en los términos que establezcan esta Constitución y los demás ordenamientos legales aplicables.
+Cuando sea necesario, los subdirectores, gerentes y demás personal del Organismo acreditarán al interior del propio Organismo, el ejercicio de las funciones que, de conformidad con el presente Estatuto, les corresponden, con el nombramiento respectivo.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
-
-El Congreso Local definirá en la Ley, las bases generales para la creación de las entidades paraestatales y la intervención que corresponde al Ejecutivo del Estado en su operación; así como las relaciones entre dichas entidades y el titular y las dependencias del Poder Ejecutivo Estatal.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
-
-Para asegurar la buena marcha de la Administración Pública Estatal, el Gobernador del Estado, sin más limitación que las prohibiciones consignadas en los ordenamientos antes señalados, podrá dictar los decretos, acuerdos y demás disposiciones de orden administrativo que estime necesarios; así como establecer nuevas dependencias y separar, unir o transformar las existentes, en atención al volumen de trabajo y trascendencia de los asuntos públicos.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
-
-El Poder Ejecutivo contará con un Centro de Conciliación como organismo público descentralizado, especializado e imparcial, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con funciones de instancia conciliatoria en conflictos o diferencias entre trabajadores y patrones, antes de acudir a los órganos jurisdiccionales en materia laboral a que se refiere el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Su integración, facultades y funcionamiento se determinarán en las leyes y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
-
-El Centro de Conciliación se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
-
-### CAPITULO III.
-
-Del Despacho de Gobierno.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+### CAPITULO SEXTO. DE LA SUBDIRECCION COMERCIAL
 
 ###### Artículo 86.
 
-Para el desempeño de los asuntos que la presente Constitución encomienda al Ejecutivo, habrán las Secretarías del Ramo, las dependencias y organismos que señale la Ley Orgánica de la Administración Pública Estatal.
+En sus ausencias, el Director General será suplido por el Subdirector de Planeación, Coordinación y Evaluación; por el Subdirector de Producción; por el Subdirector de Distribución; por el Subdirector de Almacenamiento y Reparto; por el Subdirector de Auditoría de Seguridad Industrial y Protección Ambiental; por el Subdirector de Administración y Finanzas; por el Subdirector de Proyectos, y por el Subdirector Comercial, en ese orden.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 1988)</small>
+En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será suplido por el Director Jurídico de PEMEX o, en su defecto, por el Gerente Jurídico de Refinación de PEMEX.
 
 ###### Artículo 87.
 
-Para ser Secretario del Ramo, se requiere:
+El Director General designará a los servidores públicos que suplirán a los subdirectores en los casos de ausencias, mediante la expedición del acuerdo u oficio de encargo de despacho correspondiente.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+Los gerentes serán suplidos en sus ausencias por los servidores públicos de jerarquía igual o inmediata inferior del Organismo, mediante la expedición del oficio de encargo de despacho que emita el subdirector correspondiente.
 
-I. Ser ciudadano mexicano por nacimiento.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-II. Haber cumplido 25 años de edad para el día de la designación.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-III. Estar en pleno ejercicio de sus derechos; y
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
+En los casos en que la suplencia de un subdirector o gerente tenga una duración mayor a tres meses, deberá hacerse del conocimiento del Consejo de Administración, en la siguiente sesión ordinaria.
 
 ###### Artículo 88.
 
-Los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, serán refrendados por los Secretarios del Ramo a que el asunto corresponda.
-
-Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Secretario de Gobierno.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+Los suplentes encargados del despacho en términos de las disposiciones de este capítulo y de las que de ellas emanen, contarán con las facultades del servidor público al que suplen. En caso de requerirse, se les otorgarán los poderes correspondientes.
 
 ###### Artículo 89.
 
-Los Secretarios del Ramo y los Directores Generales o sus equivalentes de las entidades paraestatales, previa anuencia del Gobernador, así como los titulares de los organismos públicos autónomos concurrirán a las sesiones del Congreso, para que informen cuando se discuta una Ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+Los encargados de despacho por suplencia sólo tendrán efectos para el trámite y resolución de los asuntos que correspondan, y no representarán un nuevo nombramiento ni tendrán implicación alguna en el tabulador de personal.
 
 ###### Artículo 90.
 
-Los Secretarios del Ramo y los demás titulares de las dependencias centralizadas, así como los del sector paraestatal, durante el ejercicio de sus funciones, no podrán desempeñar cualquier otro empleo dependiente de la Federación, Municipios, organismos auxiliares, o bien de otra Entidad Federativa o de algún particular, excepto los cargos de carácter docente y los honoríficos.
-
-También están impedidos para ejercer la abogacía, salvo en causa propia.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+En caso de no designarse suplente, los respectivos titulares de las unidades administrativas adscritas a la del servidor público en ausencia, continuarán desarrollando las funciones que les corresponden.
 
 ###### Artículo 91.
 
-Las faltas temporales de los Secretarios del Ramo, serán suplidas por el funcionario que determine el reglamento interior respectivo.
+Pemex-Refinación contará con un Organo de Vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias del Consejo de Administración y ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+Los Comisarios Públicos, en ejercicio de sus funciones, atenderán lo previsto en los lineamientos que en materia de control interno y evaluación del desempeño emita el Consejo de Administración de PEMEX.
 
 ###### Artículo 92.
 
-Los reglamentos interiores de cada una de las secretarías del ramo serán expedidos por el Gobernador del Estado y en ellos se determinarán las atribuciones de sus unidades administrativas.
+Pemex-Refinación contará con un Organo Interno de Control, al frente del cual habrá un Titular que será designado por el Ejecutivo Federal por conducto de la Secretaría de la Función Pública, en términos de los artículos 35 de la Ley y 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y se auxiliará en el ejercicio de sus facultades por los titulares de las áreas de auditoría, quejas y responsabilidades, designados de conformidad con este último ordenamiento.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley, en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el Reglamento Interior de la Secretaría de la Función Pública y en los demás ordenamientos aplicables.
+
+Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 93.
 
-El refrendo actualiza en el Secretario de Gobierno y los demás Secretarios del Ramo, la responsabilidad que pueda resultar del mismo.
+Los Comisarios Públicos y el Organo Interno de Control de Pemex-Refinación, en el ámbito de sus respectivas competencias, se coordinarán con el Comité de Auditoría y Evaluación del Desempeño de PEMEX y proporcionarán a éste la información que requiera para el ejercicio de sus funciones, de conformidad con las disposiciones aplicables.
 
-### CAPITULO IV.
-
-De la Hacienda Pública del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1984)</small>
+### CAPITULO SEPTIMO. DE LA SUBDIRECCION DE PROYECTOS
 
 ###### Artículo 94.
 
@@ -2014,11 +1880,7 @@ El Ejecutivo vigilará su aplicación y evaluará los resultados de ésta.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2009)</small>
 
-### CAPITULO V.
-
-De la Seguridad Pública y la Procuración de Justicia.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+### CAPITULO OCTAVO. DE LA SUBDIRECCION DE ADMINISTRACION Y FINANZAS
 
 #### SECCION I.
 
@@ -2236,11 +2098,7 @@ Bases Generales.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO VI.
-
-De la Instrucción Pública.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+### CAPITULO NOVENO. DE LA SUBDIRECCION DE PLANEACION, COORDINACION Y EVALUACION
 
 ###### Artículo 116.
 
@@ -2318,7 +2176,7 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO VII.. Del Gobierno y Administración Interior del Estado
+### CAPITULO DECIMO. DE LA SUBDIRECCION DE AUDITORIA DE SEGURIDAD INDUSTRIAL Y PROTECCION AMBIENTAL
 
 ###### Artículo 122.
 
@@ -2374,15 +2232,9 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2001)</small>
 
-## TITULO QUINTO.. El Poder Judicial
+## TITULO QUINTO. DE LA ESTRUCTURA ORGANICA DE PEMEX-REFINACION
 
-> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
-
-### CAPITULO I.
-
-De la Organización y Atribuciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+### CAPITULO PRIMERO. REPRESENTACION Y NOMBRAMIENTOS
 
 ###### Artículo 135.
 
@@ -2608,9 +2460,7 @@ Los Magistrados Distritales, los Jueces de Primera Instancia, cualquiera que sea
 
 (REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO II.. De las Garantías de la Función Jurisdiccional
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+### CAPITULO SEGUNDO. DE LOS ENCARGADOS DE DESPACHO POR SUPLENCIAS
 
 ###### Artículo 148.
 
@@ -2676,11 +2526,7 @@ Esta remuneración les será cubierta en los términos que establezcan las leyes
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
 
-### CAPITULO III.
-
-De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
+### CAPITULO PRIMERO. DEL COMISARIO
 
 ###### Artículo 154.
 
@@ -2910,11 +2756,7 @@ La imposición de las penas, su modificación y duración son propias y exclusiv
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO IV.
-
-La Justicia Constitucional Local.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+### CAPITULO SEGUNDO. DEL ORGANO INTERNO DE CONTROL
 
 ###### Artículo 158.
 
@@ -3028,11 +2870,7 @@ La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo l
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-## TITULO SEXTO.
-
-El Municipio Libre.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+## TITULO SEXTO. DE LA REPRESENTACION Y SUPLENCIAS
 
 ### CAPITULO I.
 
@@ -3558,9 +3396,7 @@ IV. En todo caso, la resolución se basará en el interés público de garantiza
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JULIO DE 2017)</small>
 
-## TITULO SEPTIMO.
-
-> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 14 DE JULIO DE 2017)</small>
+## TITULO SEPTIMO. DE LA VIGILANCIA DE PEMEX-REFINACION
 
 ### CAPITULO I.
 
@@ -4166,165 +4002,53 @@ En estricta observancia a los principios de progresividad y no regresividad, los
 
 ## TRANSITORIOS
 
-1º- Se deroga la Constitución del Estado de 21 de Febrero de 1882.
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-2º- Se derogan todas las leyes y disposiciones expedidas por los Gobiernos provisionales, durante el fenecido período preconstitucional, que estén en oposición con la presente Constitución y la General de la República.
+SEGUNDO. La normatividad emitida con anterioridad a la entrada en vigor del presente Estatuto, continuará siendo aplicable en lo que no se oponga a la Ley, al Decreto de los Organismos Subsidiarios y al presente Estatuto, en tanto el Consejo o la instancia que la emitió, no determine su modificación o que se deje sin efectos.
 
-3º- A partir del 1º de Enero de 1919 los Ayuntamientos durarán en funciones dos años, de acuerdo con el Artículo 124 de la presente Constitución.
+En los casos en que sea necesario, las unidades administrativas competentes propondrán las modificaciones que se requieran a la normatividad que corresponda.
 
-4º- Los funcionarios públicos actualmente en ejercicio continuarán en el desempeño de sus cargos, hasta terminar el período para el cual fueron electos.
+TERCERO. Los acuerdos emitidos por el Director General o cualquier servidor público del Organismo, con anterioridad a la entrada en vigor del presente Estatuto, continuarán vigentes siempre y cuando no contravengan sus disposiciones, hasta en tanto se dejen expresamente sin efectos. Los acuerdos que no se ajusten a lo previsto en el Estatuto perderán vigencia y deberán emitirse nuevamente ajustándose al mismo. A los acuerdos referentes a la suplencia de Subdirectores y Gerentes, les resultará aplicable el informe a que se refiere el último párrafo del artículo 87 del Estatuto, contándose el término de tres meses a partir de la entrada en vigor del mismo.
 
-5º- Los juicios pendientes para los cuales se haya solicitado el recurso de casación, continuarán tramitándose, conforme a las leyes establecidas.
+CUARTO. Las obligaciones asumidas por Pemex-Refinación al amparo de los convenios de responsabilidad solidaria suscritos por dicho Organismo, para garantizar las obligaciones constitutivas de deuda pública contratadas por PEMEX y, en su caso, otros Organismos Subsidiarios, así como las operaciones donde Pemex-Refinación ha comparecido directamente para tales efectos, continuarán vigentes hasta su conclusión, por lo que no les será aplicable lo dispuesto por el artículo 6, fracción III, del presente Estatuto.
 
-6º- En el presente período, el Congreso podrá hacer el nombramiento de los Magistrados que falten para integrar el Superior Tribunal de Justicia, sin previa proposición de los Ayuntamientos.
+QUINTO. Las políticas a que se refiere el artículo 6, fracción III, del presente Estatuto, deberán ser definidas por el Consejo de Administración dentro de los seis meses siguientes a la entrada en vigor del mismo.
 
-7º- Esta Constitución será promulgada solemnemente el DIEZ Y NUEVE de Febrero del corriente año.
+SEXTO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura no contendrá ningún incremento al presupuesto regularizable de servicios personales.
 
-Dado en la Ciudad de Saltillo, a los cinco días del mes de Febrero de mil novecientos diez y ocho, en el Salón de Sesiones del Poder Legislativo.
+El presente Estatuto Orgánico de Pemex-Refinación, fue aprobado por el Consejo de Administración de Pemex-Refinación, con fundamento en el artículo Décimo Tercero, fracción XI, del Decreto que tiene por objeto establecer la estructura, el funcionamiento y el control de los organismos subsidiarios de Petróleos Mexicanos, en sesión extraordinaria 150 celebrada el día 16 de octubre de 2012, mediante acuerdo número CAPR-070/2012.
 
-F. L. Treviño,
+Ciudad de México, D.F., a 21 de marzo de 2013.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
 
-Presidente.- Diputado por el 15º. Distrito Electoral.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS QUE REFORMAN EL PRESENTE ORDENAMIENTO.</small>
 
-Francisco Paz,
+D.O.F. 25 DE FEBRERO DE 2014.
 
-Vice-Presidente.- Diputado por el 8º Distrito Electoral.
+PRIMERO. Las modificaciones al Estatuto Orgánico de Pemex-Refinación, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los transitorios siguientes.
 
-E. Meade Fierro,
+SEGUNDO. Las unidades administrativas del Organismo que se transferirán a la Dirección Corporativa de Procura y Abastecimiento, permanecerán adscritas al primero, hasta que Petróleos Mexicanos y el Organismo realicen las acciones necesarias para que se verifique el cambio de adscripción correspondiente, que deberá llevarse a cabo de acuerdo a lo que establezcan, en conjunto, el Director Corporativo de Procura y Abastecimiento, el Director Corporativo de Administración, el Director Corporativo de Finanzas y el Director General del Organismo.
 
-Diputado por el 1er. Distrito Electoral.
+Sin perjuicio de lo anterior, en tanto que se formaliza el cambio de adscripción a que se refiere el párrafo anterior, las unidades administrativas del Organismo contarán con las mismas funciones que tenían antes de la entrada en vigor de las presentes modificaciones, debiéndose coordinar con la Dirección Corporativa de Procura y Abastecimiento, para ejecutar conjuntamente las acciones necesarias sin afectar la operación y funcionamiento del Organismo.
 
-A. Barragán,
+TERCERO. En tanto se expiden los acuerdos y demás disposiciones administrativas que deriven de las presentes modificaciones continuarán siendo aplicables, en lo conducente, aquéllos expedidos con anterioridad a la entrada en vigor de dichas modificaciones, en lo que no se opongan a las mismas.
 
-Diputado por el 2º. Distrito Electoral.
+CUARTO. Se deberán realizar todas las gestiones administrativas y mantener la coordinación necesaria para definir la transferencia de los recursos humanos y materiales, así como los recursos financieros asociados a las funciones que se transfieren, incluyendo la información y documentación, derivadas de la transferencia de funciones a la Dirección Corporativa de Procura y Abastecimiento, de acuerdo a lo que establezcan, en conjunto, el Director Corporativo de Procura y Abastecimiento, el Director Corporativo de Administración, el Director Corporativo de Finanzas y el Director General del Organismo.
 
-J. C. Valdés,
+QUINTO. Las unidades administrativas cuyas funciones se transfieren a la Dirección Corporativa de Procura y Abastecimiento en virtud de las presentes modificaciones al Estatuto Orgánico, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documentos, incluyendo actas de entrega-recepción, que sean necesarios para los traspasos, transferencias, sustituciones y demás que correspondan, de acuerdo con las funciones y estructura de la Dirección Corporativa de Procura y Abastecimiento referida.
 
-Diputado por el 4º. Distrito Electoral.
+SEXTO. Los convenios y contratos en ejecución, así como los procedimientos de contratación en trámite, deberán formar parte de las actas de entrega-recepción, a fin de no afectar la operación y el ejercicio de las funciones de las unidades administrativas del Organismo Subsidiario.
 
-Prof. J. C. Montes,
+SÉPTIMO. Se deberán realizar todas las gestiones necesarias ante la Dirección Jurídica, para que se otorguen y revoquen todos los poderes que resulten necesarios para el cumplimiento de las funciones que se transfieren a la Dirección Corporativa de Procura y Abastecimiento en virtud de las presentes modificaciones.
 
-Diputado por el 5º. Distrito Electoral.
+OCTAVO. Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones al Estatuto Orgánico de Pemex-Refinación, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que corresponda conforme a las presentes modificaciones.
 
-Prof. J. R. Castro,
+NOVENO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas del Organismo Subsidiario.
 
-Diputado por el 6º. Distrito Electoral.
+DÉCIMO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
 
-A. Aldana,
+DÉCIMO PRIMERO. El Organismo Subsidiario seguirá realizando las funciones para dirigir, supervisar, coordinar y ejecutar los procedimientos de contratación en materia de adquisiciones, arrendamientos, servicios y obra, en el ámbito de su respectiva competencia, hasta en tanto se realice lo necesario para la total transferencia de las funciones referidas y recursos relacionados con las mismas.
 
-Diputado por el 7º. Distrito Electoral.
-
-C. Ugartechea,
-
-Diputado por el 9º. Distrito Electoral.
-
-Prof. José Rodríguez González,
-
-Diputado por el 11º. Distrito Electoral.
-
-Indalecio Treviño Chapa,
-
-Diputado por el 13º. Distrito Electoral.
-
-Enrique Dávila,
-
-Secretario-Diputado por el 3º. Distrito Electoral.
-
-Prof. J. Martínez M,
-
-Secretario-Diputado por el 12º. Distrito Electoral.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 19 DE OCTUBRE DE 1918.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 5 DE NOVIEMBRE DE 1919.
-
-Quedan derogadas las disposiciones legales que se opongan a la presente ley.
-
-P.O. 14 DE MAYO DE 1921.
-
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 5 DE MAYO DE 1926.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 24 DE JULIO DE 1926.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 31 DE AGOSTO DE 1927.
-
-UNICO.- Por esta sola vez y teniendo en cuenta que el período para que han sido electos los Magistrados actualmente en ejercicio, ha comenzado ya, el Congreso hará la designación del Magistrado que deba encargarse del despacho de la Cuarta Sala, sin pedir terna a los Ayuntamientos, tan luego como entren en vigor estas reformas, que será la fecha de su promulgación en el Periódico Oficial del Estado.
-
-P.O. 28 DE DICIEMBRE DE 1927.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 16 DE FEBRERO DE 1929.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 21 DE AGOSTO DE 1929.
-
-UNICO.- El presente decreto entrará en vigor desde el día quince de noviembre del año en curso.
-
-P.O. 10 DE JUNIO DE 1936.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 12 DE ENERO DE 1938.
-
-Artículo Transitorio.- Desde la promulgación del presente Decreto desaparecerá la Cuarta Sala del Supremo Tribunal de Justicia del Estado, cuyos asuntos serán encomendados a las tres Salas restantes.
-
-P.O. 26 DE MARZO DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 20 DE ABRIL DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 15 DE JUNIO DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 23 DE DICIEMBRE DE 1939.
-
-UNICO.- A partir de la vigencia de la presente reforma, el Tribunal Superior de Justicia del Estado procederá a hacer los nombramientos de Jueces Locales Letrados que establezcan las Leyes, de manera que el período del funcionamiento de estos Jueces coincida con el de los de Primera Instancia, aunque por esta vez sea necesario para tal efecto, que se designe un período menor para los Jueces Locales Letrados.
-
-P.O. 18 DE ENERO DE 1941.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 17 DE SEPTIEMBRE DE 1941.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 11 DE FEBRERO DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 4 DE MARZO DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 16 DE SEPTIEMBRE DE 1942.
-
-TRANSITORIOS:- Los Ayuntamientos que se elijan el primero de noviembre próximo, durarán en funciones el término de tres años, de conformidad con la reforma al Artículo 124 de la Constitución Política Local, hecha en este Decreto.
-
-P.O. 27 DE FEBRERO DE 1943.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 27 DE MARZO DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
-
-P.O. 14 DE OCTUBRE DE 1950.
+DÉCIMO SEGUNDO. Las transferencias a que se refiere el artículo cuarto transitorio deberán quedar formalizadas en un plazo no mayor a un año, a partir de la publicación de las presentes modificaciones en el Diario Oficial de la Federación.
 
 ###### Artículo 1o.
 
