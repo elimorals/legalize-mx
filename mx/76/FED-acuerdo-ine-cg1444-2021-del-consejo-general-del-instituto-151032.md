@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1444-2021-del-consejo-general-del-instituto-15103
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-09-09"
-last_updated: "2022-01-05"
+last_updated: "2022-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151032&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2021-08-27"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL CUAL SE APRUEBA (SIC) LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 5 DE ENERO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES A LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO Y SU ANEXO TÉCNICO, VÉASE PAGINAS DE LA 92 A LA 111 PUBLICADAS EN EL D.O.F. DE 21 DE ENERO DE 2022.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2022.
 
 Acuerdo publicado en el Número 7 del Diario Oficial de la Federación, el jueves 9 de septiembre de 2021.
 
@@ -214,3 +214,31 @@ https://www.ine.mx/sesion-extraordinaria-del-consejo-general-30-de-septiembre-de
 Página DOF
 
 www.dof.gob.mx/2021/INE/CGext202109_30_ap_14.pdf
+
+D.O.F. 21 DE ENERO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-415/2021 Y SUS ACUMULADOS SE MODIFICAN LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO Y SU ANEXO TÉCNICO.]</small>
+
+PRIMERO. Se aprueban las modificaciones a los Lineamientos del Instituto Nacional Electoral para la organización de la revocación del mandato y su anexo que son parte integrante del mismo, aprobados por este Consejo General mediante Acuerdo INE/CG1566/2021 el 30 de septiembre de 2021, en términos de lo establecido en el Considerando Tercero del presente Acuerdo. Lo anterior en acatamiento a la sentencia de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación dictada en el expediente SUP-RAP-415/2021 y acumulados.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo, para que, en caso de que las Direcciones Ejecutivas y/o Unidades Técnicas del Instituto requieran de la creación o modificación de proyectos específicos para la mejor concreción de la revocación de mandato, sea por conducto de la Dirección Ejecutiva de Administración y conforme a la disponibilidad presupuestaria (sic) que se realicen las gestiones administrativas y movimientos presupuestales correspondientes, a efecto de dar cumplimiento al presente Acuerdo.
+
+TERCERO. Se instruye a la Comisión del Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero, una vez que concluya el proceso de revocación de mandato en curso, apruebe un Plan de Trabajo para la realización de los estudios técnicos y financieros que se necesitarían para garantizar la votación de las personas mexicanas residentes en el extranjero en futuros procesos de revocación de mandato o la implementación de un programa piloto, considerando, además de la modalidad electrónica, las otras modalidades de votación establecidas en la LGIPE. Los resultados deberán ser presentados ante el Consejo General en los ocho meses siguientes a que concluya el proceso de revocación de mandato.
+
+CUARTO. Se instruye a las Direcciones Ejecutivas y Unidad Técnicas del Instituto involucradas en la organización del proceso de revocación de mandato, realizar las actividades necesarias para el cumplimiento de las modificaciones aprobadas, sobre lo cual la Secretaría Ejecutiva presentará un informe a este Consejo General.
+
+QUINTO. Se instruye a las Direcciones Ejecutivas y Unidad (sic) Técnicas del Instituto involucradas en la organización del proceso de revocación de mandato, que conforme a la metodología de seguimiento del Plan Integral y Calendario del Proceso de Revocación de Mandato del Presidente de la República 2021-2022, realicen las gestiones necesarias para que lleven a cabo los ajustes que consideren necesarios.
+
+SEXTO. Se instruye a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, para que, en el ámbito de sus atribuciones elaboré la Adenda del PIMDCyCE de RM. Precisiones operativas derivadas del acatamiento a la sentencia SUP-RAP-415/2021 y acumulados del TEPJF. La cual deberá de ser presentada ante la Comisión competente y aprobada por este Consejo General en el mes de diciembre de 2021. Misma que deberá contener los ajustes, medidas y modificaciones necesarias para el cumplimiento de las actividades establecidas en el PIMDCyCE de RM, derivadas de ajustar diversos plazos para el cumplimiento a la sentencia, en los términos en que se propone en el presente Acuerdo.
+
+SÉPTIMO. Se instruye a las áreas técnicas a integrar las modificaciones aprobadas a los Lineamientos y publicitar esa versión integral.
+
+OCTAVO. Notifíquese el presente Acuerdo a las y los Vocales Ejecutivos de las Juntas Locales y Distritales ejecutivas del INE, para su conocimiento y debido cumplimiento.
+
+NOVENO. Se instruye a las y los Vocales Ejecutivos de las Juntas Locales y Distritales ejecutivas del INE, para que instrumenten lo conducente a fin de que, las y los integrantes de sus respectivas Juntas Locales y Distritales ejecutivas y de los Consejos Locales y Distritales tengan pleno conocimiento de este Acuerdo y las modificaciones aprobadas a los Lineamientos.
+
+DÉCIMO. El presente Acuerdo, así como las modificaciones aprobadas a los Lineamientos y su anexo, entraran en vigor a partir del momento de su aprobación por el Consejo General.
+
+DÉCIMO PRIMERO. Se instruye a la Dirección Jurídica de este Instituto, informar el presente Acuerdo a la Sala Superior una vez que sea aprobado por este Consejo General, en cumplimiento a la sentencia SUP-RAP-415/2021 y sus acumulados.
+
+DÉCIMO SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, la Gaceta Electoral, en NormaINE, en el portal de internet del Instituto Nacional Electoral y en el micrositio de Revocación de Mandato.
