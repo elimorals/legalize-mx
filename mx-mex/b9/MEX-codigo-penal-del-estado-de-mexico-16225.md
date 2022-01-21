@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2021-08-27"
+last_updated: "2022-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2795,9 +2795,21 @@ Se impondrá la pena señalada en el párrafo primero, al que organice o realice
 
 II. A formar parte de una asociación delictuosa o pandilla, se le impondrá pena de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
-III. A realizar a través de cualquier medio y sin fines de lucro actos eróticos o sexuales, así como exhibiciones corporales, lascivas o sexuales, públicas o privadas, será castigado con pena de prisión de tres a cinco años de prisión y de doscientos a quinientos días multa.
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2022)</small>
 
-A quien emplee, aún gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho o de resistirlo, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas o sustancias tóxicas para su consumo inmediato o en lugares que por su naturaleza sean nocivos para el libre desarrollo de su personalidad o para su salud, se le aplicará prisión de seis meses a dos años y de mil a dos mil días multa así como el cierre definitivo del establecimiento.
+Si la finalidad de la asociación delictuosa o la pandilla es cometer delitos graves, se incrementará la pena en una tercera parte.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE ENERO DE 2022)</small>
+
+III. A fabricar, portar, usar o traficar armas prohibidas sin un fin licito, se le impondrá la pena de cinco a diez años de prisión y de trescientos a mil quinientos días multa.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 21 DE ENERO DE 2022)</small>
+
+IV. A realizar a través de cualquier medio y sin fines de lucro actos eróticos o sexuales, así como exhibiciones corporales, lascivas o sexuales, públicas o privadas, será castigado con pena de prisión de cinco a diez años de prisión y de mil a cuatro mil días multa.
+
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2022)</small>
+
+A quien emplee, aun gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho o de resistirlo, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas o sustancias tóxicas para su consumo inmediato o en lugares que por su naturaleza sean nocivos para el libre desarrollo de su personalidad o para su salud, se le aplicará prisión de dos a cuatro años y de mil a cinco mil días multa así como el cierre definitivo del establecimiento.
 
 A quien permita directa o indirectamente el acceso a personas menores de edad a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, incluyendo la información generada o comunicada por medios electrónicos o cualquier otra tecnología se le aplicará prisión de seis meses a dos años y multa de cincuenta a trescientos días multa.
 
@@ -7430,6 +7442,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.G. 27 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 307.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 21 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 15.- POR EL QUE SE REFORMA LA FRACCIÓN III, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II Y UNA FRACCIÓN IV AL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
