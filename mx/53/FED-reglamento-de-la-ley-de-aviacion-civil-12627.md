@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aviacion-civil-12627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-07"
-last_updated: "2020-06-29"
+last_updated: "2022-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-04"
 
 REGLAMENTO DE LA LEY DE AVIACIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2022.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 7 de diciembre de 1998.
 
@@ -41,33 +41,37 @@ El presente ordenamiento tiene por objeto reglamentar la Ley de Aviación Civil,
 
 El Transporte Aéreo Internacional, se sujetará a lo que, en su caso, establezcan los tratados internacionales de los que los Estados Unidos Mexicanos sean parte, y en aquellos casos en que no exista regulación internacional especial, a lo dispuesto en la Ley y el presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 2.
 
 En adición a lo establecido por el artículo 2 de la Ley de Aviación Civil, para los efectos de este Reglamento se entenderá por:
 
-I. Reciprocidad real y efectiva: principio que el Gobierno de los Estados Unidos Mexicanos emplea en las negociaciones internacionales, que permite establecer y asegurar un intercambio igualitario y equivalente en cuanto a las condiciones de operación de los servicios de transporte aéreo con otro Estado;
-
-II. Comercialización: acto mediante el cual el concesionario o permisionario ofrece al público usuario la posibilidad de contratar un servicio de transporte aéreo de pasajeros, carga o correo, a cambio de una contraprestación;
-
-III. Cabotaje: el transporte aéreo mediante remuneración o cualquier otro tipo de contraprestación onerosa, de pasajeros, carga, correo o una combinación de éstos, entre dos o más puntos en territorio nacional;
-
-IV. Ley: la Ley de Aviación Civil;
-
-V. Secretaría: la Secretaría de Comunicaciones y Transportes;
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 29 DE JUNIO DE 2020)</small>
-
-V Bis. Animales domésticos: el animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de éste para su subsistencia y que no se trate de animales silvestres. Para efectos de este Reglamento, los animales domésticos se clasifican en:
+I. Animales domésticos: el animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de éste para su subsistencia y que no se trate de animales silvestres. Para efectos de este Reglamento, los animales domésticos se clasifican en:
 
 a) Animales de servicio: los que, previo adiestramiento acreditado, pueden llevar a cabo actividades de apoyo a personas con discapacidad, obedecer instrucciones o estar condicionados para lograr fines específicos;
 
-b) Animales de apoyo emocional: aquéllos que, como parte de un plan de tratamiento médico proporcionan compañía, alivian la soledad y a veces ayudan con la depresión, la ansiedad, y ciertas fobias, pero no tienen entrenamiento especial para llevar a cabo tareas que ayudan a personas con discapacidades, y
+b) Animales de apoyo emocional: aquéllos que, como parte de un plan de tratamiento médico proporcionan compañía, alivian la soledad y a veces ayudan con la depresión, la ansiedad, y ciertas fobias, pero no tienen entrenamiento especial para llevar a cabo tareas que ayudan a personas con discapacidad, y
 
 c) Especies braquicéfalas: aquéllas que poseen un hocico y cráneo muy acortados;
 
-VI. Operador aéreo: el propietario o poseedor de una aeronave de Estado, de las comprendidas en el artículo 5., fracción II, inciso a) de la Ley, así como de transporte aéreo privado no comercial, mexicana o extranjera, y
+II. Condición de aeronavegabilidad: estado de una aeronave, motor, hélice o pieza que se ajusta al diseño aprobado correspondiente y se encuentra en condiciones de operar de modo seguro;
 
-VII. Reglas de tránsito aéreo: aquellas disposiciones emitidas por la Secretaría para establecer las condiciones de funcionamiento y operación de la navegación aérea, así como las reglas del aire.
+III. Comercializar o Comercialización: acto mediante el cual el concesionario o permisionario ofrece al público usuario la posibilidad de contratar un servicio de transporte aéreo de pasajeros, carga o correo, a cambio de una contraprestación;
+
+IV. Ley: la Ley de Aviación Civil;
+
+V. Manual del programa estatal de seguridad operacional: documento que emita la Secretaría, que contiene las políticas, objetivos, procesos, procedimientos y responsabilidades del Estado para desarrollar las actividades en materia de seguridad operacional;
+
+VI. Nivel aceptable de rendimiento en materia de seguridad operacional: nivel mínimo de rendimiento en materia de seguridad operacional establecido por la Secretaría, expresado en términos de objetivos, metas e indicadores de rendimiento;
+
+VII. Operador aéreo: el propietario o poseedor de una aeronave de Estado, de las comprendidas en el artículo 5, fracción II, inciso a) de la Ley, así como de transporte aéreo privado no comercial, mexicana o extranjera;
+
+VIII. Operador de Sistema de Aeronave Pilotada a Distancia: persona física o moral que es propietario o poseedor de un sistema de aeronave pilotada a distancia;
+
+IX. Reglas de tránsito aéreo: aquellas disposiciones emitidas por la Secretaría para establecer las condiciones de funcionamiento y operación de la navegación aérea, así como las reglas del aire, y
+
+X. Secretaría: la Secretaría de Infraestructura, Comunicaciones y Transportes.
 
 ## Título Segundo. Del transporte aéreo
 
@@ -235,7 +239,9 @@ II. En relación con la capacidad financiera, un estudio que contenga:
 
 a) La documentación que acredite su solvencia económica y la disponibilidad de recursos financieros o fuentes de financiamiento, y
 
-b) Un programa de inversión, de conformidad con las características del servicio que pretende prestar y su proyección a un plazo no menor a tres años;
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+b) Un programa de inversión congruente con las características del servicio que pretende prestar y proyecciones financieras de estado de resultados, flujo de efectivo y balance general a un plazo no menor a tres años;
 
 III. En lo que respecta a la capacidad jurídica:
 
@@ -1191,47 +1197,89 @@ IV. Que conoce en vuelo o por medios simulados, los procedimientos de aproximaci
 
 Todos los miembros de la tripulación de vuelo deben conservar y mantener al día su bitácora de vuelo aprobada por la Secretaría, conforme a las normas oficiales mexicanas correspondientes y de acuerdo con la licencia de la que sean titulares.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 82.
 
-Los miembros de la tripulación de vuelo no pueden volar más de noventa horas durante treinta días consecutivos, ni más de un mil horas al año. Asimismo, no pueden volar más de treinta horas durante siete días consecutivos; si son operadas las treinta horas en este período o en uno menor, deben ser relevados de toda actividad aeronáutica en las siguientes veinticuatro horas y se reiniciará el período de siete días consecutivos.
+Los miembros de la tripulación de vuelo y de la tripulación de sobrecargos no pueden volar más de noventa horas durante un período de treinta días naturales consecutivos, ni más de un mil horas durante un período de trescientos sesenta y cinco días naturales consecutivos. Asimismo, no pueden volar más de treinta horas durante un período de siete días naturales consecutivos; si son operadas las treinta horas en este período o en uno menor, deben ser relevados de toda actividad aeronáutica en las siguientes veinticuatro horas y se reiniciará el período de siete días naturales consecutivos.
 
-Cuando los miembros de la tripulación de vuelo hayan volado más de ocho horas treinta minutos durante las últimas veinticuatro horas, deben recibir veinticuatro horas de descanso antes de que se les asigne otro servicio.
+Los recesos o descansos efectuados por el tripulante dentro de estos períodos establecidos de días naturales consecutivos, no podrán ser tomados en cuenta para el reinicio de dichos períodos, prevaleciendo el concepto de días naturales consecutivos.
 
-Sólo para vuelos de largo alcance y como medida excepcional, los miembros de la tripulación de vuelo deben volar el excedente en tiempo necesario para completar el vuelo. No obstante lo anterior, los tiempos globales de vuelo y de descanso deben ajustarse a lo dispuesto en este artículo.
+Cuando los miembros de la tripulación de vuelo o de la tripulación de sobrecargos hayan volado más de ocho horas y treinta minutos durante un período de veinticuatro horas, deben recibir veinticuatro horas de descanso antes de que se les asigne otro servicio.
 
-La Secretaría podrá autorizar variaciones a los límites de horas a que se refiere este artículo conforme a las normas oficiales mexicanas correspondientes, sin afectar las cuestiones de seguridad, tomando en consideración las características del servicio, tipo de aeronave o cuando el desarrollo tecnológico lo requiera.
+Sólo para vuelos de largo alcance y como medida excepcional, los miembros de la tripulación de vuelo y los miembros de la tripulación de sobrecargos deben volar el excedente en tiempo necesario para completar el vuelo. No obstante lo anterior, los tiempos globales de vuelo y de descanso deben ajustarse a lo dispuesto en este artículo.
+
+La autoridad aeronáutica podrá autorizar variaciones a los límites de horas a que se refiere este artículo conforme a las normas oficiales mexicanas correspondientes y, en lo no previsto por éstas, de conformidad con las disposiciones técnico administrativas que emita para tal efecto, sin afectar las cuestiones de seguridad, tomando en consideración las características del servicio, tipo de aeronave o cuando el desarrollo tecnológico lo requiera.
 
 ###### ARTÍCULO 83.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 84.
 
-Todo concesionario o permisionario debe establecer y mantener un programa autorizado por la Secretaría, en el cual se capacite y adiestre anualmente a la tripulación de vuelo, como mínimo en lo siguiente:
+Todo concesionario o permisionario debe establecer y mantener un programa de adiestramiento en tierra y en vuelo autorizado por la autoridad aeronáutica, en el que se asegure que todos los miembros de la tripulación de vuelo reciban la instrucción correspondiente para ejecutar las funciones que les han sido asignadas.
 
-I. Ejecutar aquellas obligaciones y funciones que se requieran en caso de una emergencia o evacuación de la aeronave;
+El programa de adiestramiento debe considerar:
 
-II. El manejo del equipo de emergencia y salvamento de la aeronave;
+I. Los medios adecuados para la instrucción en tierra y en vuelo;
 
-III. El conocimiento sobre los efectos de la falta de oxígeno y fenómenos fisiológicos inherentes a una pérdida de presión en la aeronave;
+II. Instructores debidamente calificados y autorizados por la autoridad aeronáutica;
 
-IV. El conocimiento de las asignaciones y funciones de los otros miembros de la tripulación de vuelo;
+III. El adiestramiento en tierra y en vuelo, en el tipo o tipos de aeronave en que preste servicio el tripulante;
 
-V. La aplicación de las normas oficiales mexicanas correspondientes para el transporte de materiales, sustancias y objetos peligrosos;
+IV. La coordinación adecuada de la tripulación de vuelo, así como adiestramiento en todos los tipos de situaciones o procedimientos de emergencia y anormales, en el que se contemplen, como mínimo, los causados por mal funcionamiento del motor, del fuselaje, de los sistemas, incendio u otras anomalías;
 
-VI. Las recomendaciones aplicables al trato de pasajeros discapacitados, pasajeras embarazadas, personas de edad avanzada y pasajeros que requieran primeros auxilios, y
+V. La instrucción para la prevención y recuperación de la pérdida de control;
 
-VII. Para que en los casos de emergencia pueda coordinar y dirigir la aeronave de manera eficaz y segura.
+VI. La capacitación para impartir conocimientos y aptitudes sobre procedimientos de vuelo visual y por instrumentos para el área pretendida de operación, representación cartográfica, la actuación humana incluyendo la gestión de amenazas y errores, así como el transporte de mercancías peligrosas;
+
+VII. Que todos los miembros de la tripulación de vuelo conozcan las funciones de las cuales son responsables y la relación de dichas funciones con las de otros miembros de la tripulación, particularmente con respecto a los procedimientos anormales o de emergencia, y
+
+VIII. La instrucción de las funciones que deben ejecutar en caso de una situación que requiera evacuación de emergencia, sobre el uso de todo el equipo de emergencia y de salvamento que deba llevarse a bordo, de igual manera, los simulacros de evacuación de emergencia del avión.
+
+El programa de adiestramiento se repetirá anualmente, ajustándose, en su duración y contenido, de conformidad con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica, e incluirá una evaluación de competencia.
 
 ###### ARTÍCULO 85.
 
 La tripulación de sobrecargos tiene como principal función auxiliar al comandante o al piloto al mando de la aeronave en el cumplimiento de las disposiciones en materia de seguridad y emergencia en la cabina de pasajeros de la aeronave durante la operación del vuelo. Asimismo tiene a su cargo la atención a los pasajeros y las demás funciones que le asigne el concesionario o permisionario. La actuación de los sobrecargos será siempre bajo las órdenes del comandante de la aeronave.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 86.
 
-El concesionario o permisionario, sobre la base del número de pasajeros, debe establecer el número mínimo de sobrecargos requeridos para cada modelo de aeronave con el fin de auxiliar a la tripulación de vuelo, de conformidad con los procedimientos de seguridad y emergencia establecidos en el manual general de operaciones y tomando en cuenta que, para aeronaves de veinte a cincuenta pasajeros, se debe designar un sobrecargo; para aeronaves de cincuenta y uno a cien pasajeros, se deben designar dos sobrecargos, y para aeronaves de más de cien pasajeros, se debe designar un sobrecargo más por cada cincuenta pasajeros adicionales.
+El concesionario o permisionario, sobre la base del número de pasajeros, debe establecer el número mínimo de sobrecargos requeridos para cada modelo de aeronave con el fin de auxiliar a la tripulación de vuelo, de conformidad con los procedimientos de seguridad y emergencia establecidos en el manual general de operaciones.
+
+Para efectos del párrafo anterior, el concesionario o permisionario, deberá considerar lo siguiente:
+
+I. Para aeronaves de veinte a cincuenta pasajeros, se debe designar un sobrecargo;
+
+II. Para aeronaves de cincuenta y uno a cien pasajeros, se deben designar dos sobrecargos, y
+
+III. Para aeronaves de más de cien pasajeros, se debe designar un sobrecargo más, de los indicados en la fracción II anterior, por cada cincuenta pasajeros adicionales.
+
+El concesionario o permisionario no podrá operar una aeronave con un número de sobrecargos menor al determinado en el certificado tipo de la misma; de igual forma, no podrá modificar los requisitos mínimos relativos a la tripulación de sobrecargos, sin contar con una previa autorización de la autoridad aeronáutica, de conformidad con las disposiciones técnico administrativas que emita para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 86 Bis.
+
+El permisionario o concesionario deberá establecer y mantener un programa de adiestramiento, aprobado por la autoridad aeronáutica, que debe ser completado por todas las personas antes de ser designadas como miembros de la tripulación de sobrecargos. Los miembros de la tripulación de sobrecargos deberán completar un programa periódico de adiestramiento anual. Estos programas de adiestramiento garantizarán que cada sobrecargo:
+
+I. Sea competente para ejecutar aquellas obligaciones y funciones de seguridad que se le asignen en caso de una emergencia o en una situación que requiera evacuación de emergencia;
+
+II. Esté adiestrado y sea capaz de usar chalecos salvavidas, balsas salvavidas, deslizadores de evacuación, salidas de emergencia, extintores de incendio portátiles, equipo de oxígeno, botiquines de primeros auxilios, neceseres de precaución universal, desfibriladores externos automáticos y demás equipo de emergencia y salvamento;
+
+III. Cuando preste servicio en aviones que vuelen por encima de 3000 metros, posea conocimientos respecto al efecto de la falta de oxígeno en el caso de aviones con cabina presurizada, con relación a los fenómenos fisiológicos inherentes a una pérdida de presión;
+
+IV. Conozca las asignaciones y funciones de los otros miembros de la tripulación en caso de una emergencia, en la medida necesaria para desempeñar sus propias obligaciones como miembro de la tripulación de sobrecargos;
+
+V. Conozca los tipos de mercancías peligrosas que pueden o no transportarse en la cabina de pasajeros, y
+
+VI. Tenga conocimiento sobre factores humanos con relación a las funciones de seguridad en la cabina de la aeronave, incluyendo la coordinación entre la tripulación de vuelo y la tripulación de sobrecargos.
+
+La duración y contenido de cada programa de adiestramiento será de acuerdo con lo que se especifique de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica.
 
 #### Sección tercera. Del personal de tierra
 
@@ -1259,15 +1307,71 @@ El controlador de tránsito aéreo tiene como función principal y bajo su respo
 
 El personal técnico adscrito a los servicios de meteorología aeronáutica tiene las funciones de efectuar observaciones de los fenómenos meteorológicos, recopilar datos sobre los fenómenos meteorológicos, realizar pronósticos y, en su caso, proporcionar la información respectiva a las tripulaciones de las aeronaves.
 
-#### Sección primera. Del mantenimiento de las aeronaves
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+#### Sección Cuarta. De los Sistemas de Aeronave Pilotada a Distancia
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 92 Bis.
+
+El operador de un sistema de aeronave pilotada a distancia es responsable de la operación de la misma. Las autorizaciones o licencias para piloto de sistema de aeronave pilotada a distancia se clasificarán de acuerdo al peso máximo de despegue del sistema, en términos de lo establecido en el Reglamento correspondiente, en las normas oficiales mexicanas y, en lo no previsto por éstas, en las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 92 Ter.
+
+El operador de un sistema de aeronave pilotada a distancia en el espacio aéreo mexicano debe cumplir con las obligaciones, responsabilidades, requisitos y limitaciones establecidas en el presente Reglamento, las normas oficiales mexicanas correspondientes y en las disposiciones técnico administrativas emitidas por la autoridad aeronáutica que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 92 Quater.
+
+La autoridad aeronáutica expedirá, a través del Registro Aeronáutico Mexicano, un folio de registro para los sistemas de aeronaves pilotadas a distancia, respecto a las solicitudes realizadas por personas físicas o morales, de nacionalidad mexicana; así como por las solicitudes realizadas por la autoridad competente, tratándose de los sistemas de aeronaves pilotadas a distancia, ubicadas en la clasificación de aeronaves mexicanas de Estado, con excepción de las militares previstas en el inciso a) de la fracción II del artículo 5 de la Ley.
+
+El folio de registro que otorgue el Registro Aeronáutico Mexicano tendrá una vigencia de tres años y se compondrá de un grupo de caracteres alfanuméricos de los que se advierta la clasificación de las aeronaves, fecha de registro, vigencia, entre otros datos que permitan la identificación del sistema de aeronave pilotada a distancia, de conformidad con las normas oficiales mexicanas y, en lo no previsto en éstas, con lo señalado en las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+Los sistemas de aeronaves pilotadas a distancia que cuenten con folio de registro, para poder operar en el espacio aéreo mexicano, deberán contar con las autorizaciones emitidas por las autoridades competentes que, en su caso, procedan atendiendo a su clasificación y de acuerdo con lo especificado en las normas oficiales mexicanas correspondientes y, en lo no previsto por éstas, en lo señalado en las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+Los sistemas de aeronaves pilotadas a distancia mayores a veinticinco kilogramos, para obtener el certificado de matrícula y el correspondiente folio de registro, deberán solicitar también la asignación de marcas de nacionalidad y de matrícula previstas en el artículo 44 de la Ley, para lo cual, se debe cumplir con lo establecido en el Capítulo I del Título Cuarto del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 92 Quinquies.
+
+Las personas extranjeras podrán registrar derechos de propiedad o posesión de sistemas de aeronaves pilotadas a distancia, para su uso en el espacio aéreo mexicano, cumpliendo con los requisitos siguientes:
+
+I. El uso que se dé al sistema de aeronave pilotada a distancia sea únicamente con fines recreativos;
+
+II. El sistema de aeronave pilotada a distancia tenga hasta un peso máximo de despegue de 2 kilogramos;
+
+III. Acredite ante la autoridad aeronáutica su estancia regular en el país, a través del documento expedido por la autoridad competente en la materia, y
+
+IV. Con los demás requisitos previstos en la Ley, este Reglamento, las normas oficiales mexicanas y las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 92 Sexies.
+
+Los operadores de sistemas de aeronaves pilotadas a distancia que pretendan operar en espacio aéreo mexicano deben cumplir con los requisitos y limitaciones establecidos en la norma oficial mexicana correspondiente, con las condiciones y limitaciones que establezca la autorización de operación que para cada caso otorgue la autoridad aeronáutica, y con las restricciones operacionales establecidas en la publicación de información aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 92 Septies.
+
+El propietario o poseedor de una aeronave autónoma o de un globo libre no tripulado, para operarlos en el espacio aéreo mexicano requieren contar con autorización de la autoridad aeronáutica y cumplir los requerimientos y limitaciones establecidos en las normas oficiales mexicanas correspondientes y, en lo no previsto por éstas, con las disposiciones técnico administrativas que emita la autoridad aeronáutica.
 
 ### Capítulo II. De los centros de formación o de capacitación y adiestramiento
 
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 93.
 
-La formación, capacitación y adiestramiento del personal técnico aeronáutico se debe realizar en los centros de formación, de capacitación y adiestramiento o una combinación de éstos, que tengan permiso vigente, otorgado por la Secretaría.
+La formación, capacitación y adiestramiento del personal técnico aeronáutico se debe realizar en los centros de formación, de capacitación y adiestramiento o una combinación de éstos, que tengan permiso vigente, otorgado por la autoridad aeronáutica.
 
-La Secretaría puede otorgar un permiso para el empleo de técnicos extranjeros como asesores o instructores del personal técnico aeronáutico con la finalidad de mejorar el servicio o para utilizar nuevos equipos, siempre y cuando los extranjeros cuenten con la certificación de la autoridad aeronáutica de su país. Este permiso tiene una vigencia máxima de seis meses y es renovable por una vez.
+La autoridad aeronáutica puede otorgar un permiso para el empleo de técnicos extranjeros como asesores o instructores del personal técnico aeronáutico con la finalidad de mejorar el servicio o para utilizar nuevos equipos, siempre y cuando esos técnicos estén acreditados por la autoridad de aviación civil de su país, y ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional.
+
+El permiso a que se refiere el párrafo anterior tendrá una vigencia máxima de seis meses y podrá ser renovable por una sola vez por un periodo igual.
 
 ###### ARTÍCULO 94.
 
@@ -1377,33 +1481,59 @@ La Secretaría debe expedir, en su caso, el permiso en un plazo que no exceda de
 
 En los vuelos de entrenamiento o de prueba está prohibido que a bordo de la aeronave permanezca personal distinto al instructor, asesor, verificador y el personal de vuelo que recibe la instrucción.
 
-## Título Cuarto. De las aeronaves civiles, de sus operaciones y de los talleres aeronáuticos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+## Título Cuarto. De las aeronaves civiles, de la certificación de producción, de sus operaciones y de los talleres aeronáuticos
 
 ### Capítulo I. De la nacionalidad y matrícula de las aeronaves civiles
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 98.
 
-La Secretaría al asignar las marcas de nacionalidad y matrícula que identifican a las aeronaves debe cuidar que la combinación de las letras no ocasione confusión con otras señales conocidas y reservadas a la solicitud de socorro, indicación de peligro o similares. La marca de nacionalidad que asigne la Secretaría se compone de dos letras y debe ir seguida de un guión y de la marca de matrícula, la cual se compone de tres letras.
+La autoridad aeronáutica al asignar las marcas de nacionalidad y matrícula que identifican a las aeronaves debe cuidar que la combinación de las letras no ocasione confusión con otras señales conocidas y reservadas a la solicitud de socorro, indicación de peligro o similares.
 
-Las marcas se deben fijar en la aeronave en la forma y con las características que determinen las normas oficiales mexicanas correspondientes.
+Asimismo, no deberán confundirse con los grupos de cinco letras usados en la segunda parte del Código Internacional de Señales, ni con las del código Q que comiencen con dicha letra.
+
+La marca de nacionalidad que asigne la autoridad aeronáutica se compone de dos letras y debe ir seguida de un guion y de la marca de matrícula, la cual se compone de tres letras.
+
+Las marcas se deben fijar en la aeronave en la forma y con las características que determinen las normas oficiales mexicanas correspondientes y, en lo no previsto por éstas, aplicará lo señalado en las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
 
 Ninguna aeronave puede tener simultáneamente más de una matrícula.
 
+No se llevará a cabo ninguna asignación de marcas de nacionalidad y matrícula a aeronaves provenientes del extranjero, si la autoridad de aviación civil competente del país extranjero no emite la notificación de cancelación o de no registro en aquel Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 99.
 
-La Secretaría puede otorgar marcas de nacionalidad y matrícula provisionales en los siguientes casos:
+La autoridad aeronáutica puede otorgar marcas de nacionalidad y matrícula provisionales en los siguientes casos:
 
 I. Para pintarlas en la aeronave con el propósito de contratar la póliza de seguro;
 
 II. Para el traslado e internación de la aeronave a territorio nacional con el propósito de matricularse en los Estados Unidos Mexicanos;
 
-III. Para mantener la aeronave en condiciones de aeronavegabilidad cuando no cuente con matrícula definitiva, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-IV. Para conservación y mantenimiento de aeronaves, bajo resguardo de autoridad competente.
+III. Para mantener la aeronave en condiciones de aeronavegabilidad cuando no cuente con matrícula definitiva, por única ocasión, salvo causa justificada, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+IV. Para conservación y mantenimiento de aeronaves, bajo resguardo de autoridad competente;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+V. Para la certificación de tipo de la aeronave, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+VI. Para la realización de vuelos de prueba en aeronaves recién fabricadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 100.
 
-El certificado de matrícula que emita la Secretaría debe contener, entre otros, los siguientes datos:
+El certificado de matrícula que emita la autoridad aeronáutica debe contener, entre otros, los siguientes datos:
 
 I. El lugar, fecha de expedición y el número que se asigna al certificado;
 
@@ -1415,7 +1545,7 @@ IV. El nombre del fabricante;
 
 V. El número de serie del fuselaje;
 
-VI. El año de fabricación;
+VI. (DEROGADA, D.O.F. 21 DE ENERO DE 2022)
 
 VII. El nombre y domicilio del propietario, así como los datos del título de propiedad;
 
@@ -1447,17 +1577,65 @@ La declaratoria de abandono de aeronave efectuada en términos de lo dispuesto p
 
 En la declaratoria de abandono, la Secretaría indicará en qué casos Aeropuertos y Servicios Auxiliares procederá a la enajenación de la aeronave en subasta pública ante fedatario público, con la participación de las autoridades correspondientes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+### Capítulo I Bis
+
+De la certificación y producción de aeronaves, motores de aeronaves, hélices, simuladores de vuelo, entrenadores, componentes, accesorios y artículos relacionados con las mismas
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 102 Bis.
+
+Toda persona física o moral mexicana o extranjera, que en territorio nacional pretenda producir en serie aeronaves, o motores de aeronaves, o hélices, o la producción combinada de estos productos, deberá obtener un certificado de producción de acuerdo con lo establecido en las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 102 Ter.
+
+Toda persona física o moral mexicana o extranjera, que en territorio nacional pretenda producir los artículos referidos en el artículo anterior, deberá obtener una aprobación de producción, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 102 Quater.
+
+La autoridad aeronáutica emitirá, en materia de certificación de aeronaves y su producción, las disposiciones técnico administrativas sobre los estándares de diseño o de aquellos estándares que se adoptarán para la certificación de aeronaves, motores, hélices y sus componentes, así como para la producción de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 102 Quinquies.
+
+La autoridad aeronáutica emitirá o convalidará los Certificados de Tipo y Certificados de Tipo Suplementarios en materia de certificación de aeronaves, con base en los estándares de diseño o de aquellos que se adoptarán para la certificación de aeronaves, motores, hélices y sus componentes, así como para la producción de los mismos.
+
+Los Certificados de Tipo y Certificados de Tipo Suplementarios previstos en el párrafo anterior, son los mismos que se definen en la parte I "Definiciones" del Anexo 8 al Convenio sobre Aviación Civil Internacional.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 102 Sexies.
+
+La autoridad aeronáutica emitirá y, en su caso, convalidará los Certificados de Simuladores de vuelo y entrenadores conforme a las disposiciones técnico administrativas emitidas para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 102 Septies.
+
+La autoridad aeronáutica emitirá o, en su caso, convalidará los Certificados de equipos y sistemas de apoyo visuales en tierra, así como aquellos sistemas de tierra utilizados por las aeronaves para la navegación, la aproximación y el aterrizaje conforme a las disposiciones técnico administrativas emitidas para tal efecto.
+
+Se requerirá la verificación en tierra o en vuelo, o en vuelo y tierra, de estos sistemas cuando se instalen en los aeropuertos, helipuertos y aeródromos civiles, conforme a las disposiciones técnico administrativas emitidas para tal efecto.
+
 ### Capítulo II. De las disposiciones generales para la operación
 
-### Capítulo III. De las operaciones de vuelo
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 103.
 
-Todo concesionario y permisionario es responsable ante la Secretaría de que:
+Todo concesionario y permisionario es responsable ante la autoridad aeronáutica de que:
 
 I. Su personal técnico aeronáutico conozca la normatividad de aviación civil nacional e internacional del lugar en donde opere y que resulte aplicable en el ejercicio de sus funciones respectivas;
 
-II. La tripulación de vuelo conozca los reglamentos y procedimientos prescritos para las zonas que sobrevuele, así como de los aeródromos civiles que utilice, al igual que los servicios e instalaciones de los mismos, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+II. La tripulación de vuelo conozca y cumpla con los reglamentos y procedimientos prescritos para las zonas que sobrevuele, así como de los aeródromos civiles que utilice, al igual que los servicios e instalaciones de los mismos, y
 
 III. La tripulación de sobrecargos conozca los reglamentos y procedimientos que se apliquen a sus funciones.
 
@@ -1535,41 +1713,57 @@ II. Presentar en original y copia, la carta responsiva por los posibles daños o
 
 El concesionario, permisionario u operador aéreo tiene la obligación de dar aviso a la Secretaría, en forma inmediata, de cualquier anormalidad que afecte la seguridad de las operaciones y las condiciones de aeronavegabilidad, así como proporcionar toda la información relativa a la misma que sea de su conocimiento.
 
-### Capítulo IV. De las limitaciones del rendimiento de la aeronave
+### Capítulo III. De las operaciones de vuelo
 
 ###### ARTÍCULO 109.
 
 Todo concesionario y permisionario debe:
 
-I. Notificar a la Secretaría dentro de las veinticuatro horas siguientes a la que observe cualquier deficiencia de las instalaciones y servicios en el curso de sus operaciones;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-II. Formular y modificar su manual general de operaciones, con base en lo establecido en las normas oficiales mexicanas correspondientes, el cual debe estar autorizado por la Secretaría;
+I. Notificar a la autoridad aeronáutica cualquier deficiencia que observe de las instalaciones y servicios en el curso de sus operaciones, dentro de las veinticuatro horas siguientes, contadas a partir de que observe dicha deficiencia;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+II. Formular y modificar su manual general de operaciones, con base en lo establecido en las normas oficiales mexicanas correspondientes, el cual debe estar autorizado por la autoridad aeronáutica;
 
 III. Establecer y mantener un sistema de vigilancia de operaciones de vuelo, el cual debe estar contenido en el manual general de operaciones;
 
-IV. Suministrar para uso y guía del personal correspondiente, el manual de vuelo autorizado por la Secretaría y elaborado conforme a las normas oficiales mexicanas correspondientes;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+IV. Suministrar para uso y guía del personal correspondiente, el manual de vuelo autorizado por la autoridad aeronáutica y elaborado conforme a las normas oficiales mexicanas correspondientes;
 
 V. Encargarse de que todo el personal técnico aeronáutico esté debidamente instruido en sus respectivas obligaciones y responsabilidades, así como de la relación que existe entre sus funciones y las del resto del personal;
 
 VI. Abstenerse de ordenar al comandante o piloto al mando de la aeronave realizar simulación de situaciones de emergencia, cuando se transporten pasajeros;
 
-VII. Contar con la lista de comprobación que deben seguir las tripulaciones de vuelo, antes, durante y después de todas las fases de las operaciones. Esta lista debe estar incluida en el manual de vuelo de la aeronave y, en su caso, en el manual general de operaciones del concesionario o permisionario;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-VIII. Contar con un programa de seguridad aérea contenido en un manual autorizado por la Secretaría y elaborado conforme a las normas oficiales mexicanas correspondientes, y
+VII. Contar con las listas de verificación que deben seguir las tripulaciones de vuelo antes, durante y después de todas las fases de las operaciones y en los casos de emergencia, a fin de asegurar que se cumplen los procedimientos operacionales contenidos en el manual de la tripulación de vuelo para la operación de la aeronave y en el manual de vuelo de la aeronave o en otros documentos relacionados con el certificado de aeronavegabilidad y, en su caso, en el manual general de operaciones. En el diseño y utilización de las listas de verificación se observarán los principios relativos a factores humanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2014)</small>
+VII Bis. Asegurarse de que cuando a bordo de una aeronave se utilicen maletines de vuelo electrónicos (EFB) portátiles, no se afecte la actuación de los sistemas y equipo del avión o a la capacidad de operar el mismo. Las funciones y requisitos para su aprobación operacional se establecerán las disposiciones técnico administrativas emitidas por la autoridad aeronáutica;
 
-IX. Contar con un programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la Secretaría, que se elaborará de conformidad con las normas oficiales mexicanas correspondientes.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-Los operadores aéreos deben cumplir con lo dispuesto por las fracciones I, IV, VI y VII del presente artículo.
+VIII. Contar con un programa de seguridad aérea en un manual autorizado por la autoridad aeronáutica y elaborado conforme a las disposiciones técnico administrativas emitidas para tal efecto, y
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+IX. Contar con un programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la autoridad aeronáutica, que se elaborará de conformidad a las disposiciones técnico administrativas emitidas para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+Los operadores aéreos deben cumplir con lo dispuesto por las fracciones I, II, IV, VI, VII, VIII y IX del presente artículo.
 
 ###### ARTÍCULO 110.
 
 Todo concesionario, permisionario u operador aéreo es responsable de:
 
-I. Que sus aeronaves cuenten con los libros de bitácora aprobados por la Secretaría y elaborados conforme a las normas oficiales mexicanas correspondientes;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+I. Que sus aeronaves cuenten con los libros de bitácora aprobados por la autoridad aeronáutica y elaborados conforme a las disposiciones técnico administrativas emitidas para tal efecto;
 
 II. Llevar un registro de las cargas de combustibles firmado por el comandante o piloto al mando de la aeronave, por el copiloto o por la persona designada por aquéllos. El concesionario, permisionario u operador aéreo conservará estos registros durante un período de tres meses y debe cerciorarse que el combustible y los aceites empleados sean los especificados en los manuales del fabricante de la aeronave;
 
@@ -1579,9 +1773,21 @@ IV. Contar con el equipo que permita medir e indicar continuamente la dosificaci
 
 V. Conservar los formularios que se utilicen para la preparación del vuelo durante los tres meses siguientes a la fecha de su elaboración, a menos que en el caso de una investigación se requiera un plazo mayor;
 
-VI. Cuando sus aeronaves estén provistas con una puerta en la cabina de la tripulación de vuelo, deben cerciorarse que ésta pueda asegurarse desde el interior del compartimento. Dicha puerta debe permanecer cerrada durante todo el tiempo de vuelo, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-VII. Asegurarse de que el personal técnico aeronáutico bajo su servicio cuente con todos los elementos necesarios para cumplir con las disposiciones que para la operación de los servicios establece la Ley, este Reglamento y demás disposiciones que resulten aplicables, así como cerciorarse de su efectivo cumplimiento.
+VI. Cuando sus aeronaves estén provistas de una puerta en la cabina de la tripulación de vuelo, esta puerta debe poder asegurarse desde el interior de la cabina, la cual debe permanecer cerrada y asegurada durante todo el tiempo de vuelo y se deberán proporcionar los medios para que la tripulación de sobrecargos pueda notificar discretamente a la tripulación de vuelo en caso de actividad sospechosa o violaciones de seguridad en la cabina;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+VII. Asegurarse de que el personal técnico aeronáutico bajo su servicio cuente con todos los elementos necesarios para cumplir con las disposiciones que para la operación de los servicios establece la Ley, este Reglamento y demás disposiciones que resulten aplicables, así como cerciorarse de su efectivo cumplimiento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE ENERO DE 2022)</small>
+
+VIII. Cuando la aeronave se halle implicada en un accidente o incidente, de asegurarse, de que se conserven todas las grabaciones relacionadas con los registradores de vuelo y, de ser necesario, los registradores de vuelo correspondientes, así como de mantener su custodia mientras se determina lo que ha de hacerse con ellos de conformidad con las disposiciones técnico administrativas emitidas por la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+La puerta en la cabina, a la que se refiere la fracción VI de este artículo, debe estar diseñada y aprobada para resistir la penetración de disparos de armas cortas y metrallas de granadas y las intrusiones a la fuerza por personas no autorizadas de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica.
 
 ###### ARTÍCULO 111.
 
@@ -1599,15 +1805,25 @@ II. Los chalecos salvavidas, o bien, dispositivos equivalentes de flotación ind
 
 III. El equipo de oxígeno, si se prescribe el suministro de oxígeno para uso de los pasajeros;
 
-IV. Las salidas de emergencia de la aeronave, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-V. Los procedimientos para la evacuación de la aeronave en tierra o acuatizaje de emergencia.
+IV. Las salidas de emergencia de la aeronave;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+V. Los procedimientos para la evacuación de la aeronave en tierra o acuatizaje de emergencia, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+VI. Otro equipo de emergencia suministrado para uso individual, inclusive tarjetas de instrucciones de emergencia para los pasajeros.
 
 ###### ARTÍCULO 113.
 
 El personal de vuelo debe permanecer asegurado a su asiento durante las fases de despegue, aterrizaje y por cualquier otra circunstancia que así lo amerite, atendiendo a todas las medidas de seguridad que correspondan y, en las mismas circunstancias antes señaladas, se deben asegurar que todos los pasajeros estén sujetos a sus asientos por medio del cinturón de seguridad.
 
-Toda aeronave dedicada al transporte de pasajeros debe tener instalado un arnés de seguridad para uso de cada integrante del personal de vuelo y estar equipada con asientos orientados hacia adelante o hacia atrás dentro de los quince grados del eje longitudinal de la aeronave para la tripulación de sobrecargos.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+Toda aeronave debe tener instalado un arnés de seguridad para uso de cada integrante del personal de vuelo y estar equipada con asientos orientados hacia adelante o hacia atrás dentro de los quince grados del eje longitudinal de la aeronave para la tripulación de sobrecargos, en su caso.
 
 ###### ARTÍCULO 114.
 
@@ -1623,17 +1839,25 @@ Antes de iniciar el vuelo, el comandante o piloto al mando de la aeronave debe a
 
 I. La aeronave reúne las condiciones de aeronavegabilidad;
 
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+I. Bis. La aeronave cuente con certificado de matrícula y certificado de aeronavegabilidad vigentes o, en su caso, el documento que acredite la asignación de marcas de nacionalidad y matrícula;
+
 II. La aeronave cuente con la liberación del área de mantenimiento;
 
 III. Los instrumentos y equipos necesarios para la operación que vaya a efectuarse estén instalados y sean suficientes para realizar el vuelo correspondiente, de acuerdo con la lista de equipo mínimo;
 
-IV. El peso de la aeronave permita realizar el vuelo con seguridad, teniendo en cuenta las condiciones de vuelo previstas;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+IV. El peso de la aeronave y el lugar del centro de gravedad permitan realizar el vuelo con seguridad, teniendo en cuenta las condiciones de vuelo previstas;
 
 V. La carga transportada esté debidamente sujeta y distribuida;
 
 VI. La aeronave con cabina a presión tenga a disposición de la tripulación de vuelo, en el puesto en que desempeñen sus funciones de vuelo, una máscara del tipo de colocación rápida en condiciones de suministrar oxígeno a voluntad o a presión, cuando tenga que volar a una altitud en la cual la presión atmosférica sea inferior de 376 hectopascales o superior a 25,000 pies;
 
-VII. Se cuente con la tripulación de vuelo adiestrada y calificada para ello;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+VII. Cada miembro de la tripulación de vuelo cuente con licencia vigente y con el certificado de capacidad respectivo y, en su caso, tener la capacidad de hablar y comprender el idioma utilizado para las comunicaciones de radiotelefonía;
 
 VIII. Se tenga aprobado el plan de vuelo y formulado el plan operacional de vuelo, conforme a las normas oficiales mexicanas correspondientes;
 
@@ -1641,15 +1865,43 @@ VIII. Se tenga aprobado el plan de vuelo y formulado el plan operacional de vuel
 
 IX. Se especifique un aeródromo civil alterno en el plan operacional de vuelo y en el plan de vuelo cuando haya de efectuarse un vuelo por instrumentos, de acuerdo con las reglas previstas en las normas oficiales mexicanas;
 
-X. Se recabe y examine cuidadosamente toda la información meteorológica requerida y disponible según el tipo de vuelo, de acuerdo a las reglas de vuelo visual o vuelo por instrumentos, siendo responsable de cumplir estrictamente con los mínimos meteorológicos en la ruta, aeródromo de origen, destino o alterno señalados en las reglas de tránsito aéreo y en la publicación de información aeronáutica correspondiente del país o países que opere, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-XI. Las instalaciones y servicios terrestres o marítimos sean los adecuados para el vuelo que va a realizarse.
+X. Se recabe y examine cuidadosamente toda la información meteorológica requerida y disponible según el tipo de vuelo, de acuerdo a las reglas de vuelo visual o vuelo por instrumentos, siendo responsable de cumplir estrictamente con los mínimos meteorológicos en la ruta, aeródromo de origen, destino o alterno señalados en las reglas de tránsito aéreo y en la publicación de información aeronáutica correspondiente del país o países que opere;
 
-> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-###### Artículo 116-A.
+XI. Las instalaciones y servicios terrestres o marítimos sean los adecuados para el vuelo que va a realizarse;
 
-Para obtener la aprobación del plan de vuelo a que se refiere la fracción VIII del artículo anterior, se debe presentar solicitud por escrito, en el formato que al efecto autorice la Secretaría, conforme a las normas oficiales mexicanas correspondientes.
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XII. Se pueda llevar a cabo el vuelo correspondiente sin peligro, conforme a los procedimientos técnicos establecidos para la investigación de accidentes e incidentes de aviación;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XIII. Se lleva suficiente cantidad de oxígeno respirable, para suministrar a miembros de la tripulación y a pasajeros;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XIV. La tripulación de sobrecargos haya verificado que todo equipaje de mano embarcado en el avión e introducido en la cabina de pasajeros quede bien asegurado, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XV. La aeronave cumple con las demás condiciones de aeronavegabilidad y de seguridad que le señale la Ley, este Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 116-A.
+
+Para obtener la aprobación del plan de vuelo a que se refiere la fracción VIII del artículo anterior, se debe presentar solicitud por escrito o transmitirse por vía telefónica, interfono, frecuencia de radiocomunicación aeronáutica establecida o cualquier otro medio electrónico, en el formato que al efecto autorice la autoridad aeronáutica, conforme a las disposiciones técnico administrativas emitidas para tal efecto.
+
+La autoridad aeronáutica, en cualquier momento podrá requerir al operador aéreo o a la tripulación de vuelo, la presentación física de la documentación que respalde la solicitud del plan de vuelo a efecto de verificar que se cumple con lo previsto en las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 116-B.
+
+El comandante o piloto al mando debe evitar una aproximación para el aterrizaje por debajo de 300 metros sobre la elevación del aeródromo, excepto cuando constate que, de acuerdo con la información disponible sobre el estado de la pista y la información relativa a la performance del avión, pueda realizarse un aterrizaje seguro.
 
 ###### ARTÍCULO 117.
 
@@ -1671,7 +1923,9 @@ El comandante o piloto al mando de la aeronave, tan pronto como le sea posible, 
 
 Todo comandante o piloto al mando de la aeronave, por razones de seguridad, después del vuelo debe realizar las siguientes funciones técnicas:
 
-I. Notificar al comandante del aeródromo más próximo cualquier incidente o accidente en relación con la aeronave, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+I. Notificar al comandante del aeródromo más próximo cualquier incidente o accidente con relación a la aeronave, y
 
 II. Notificar al concesionario, permisionario u operador aéreo de todas las fallas o anormalidades que note o que presuma que existan en la aeronave y asentarlas en el libro de bitácora correspondiente.
 
@@ -1693,7 +1947,7 @@ Ninguna aeronave puede ser operada en condiciones simuladas de vuelo por instrum
 
 El concesionario, permisionario u operador aéreo de helicópteros debe cumplir con todos los aspectos relativos a la certificación, supervisión y operación respecto a zonas, instrumentos, equipos y documentos, así como limitaciones, de conformidad con las normas oficiales mexicanas correspondientes.
 
-### Capítulo V. De los instrumentos, equipo y documentos de vuelo
+### Capítulo IV. De las limitaciones del rendimiento de la aeronave
 
 ###### ARTÍCULO 123.
 
@@ -1715,29 +1969,31 @@ I. Máximo de despegue especificado en el manual de vuelo, en relación con la t
 
 II. Con el que, en caso de falla de un motor en cualquier punto del despegue, el piloto pueda interrumpirlo y parar dentro de la distancia disponible de aceleración-parada, o continuar el despegue y salvar con un margen adecuado todos los obstáculos situados a lo largo de toda la trayectoria de vuelo;
 
-III. En el despegue, con el que en caso de que un motor quede fuera de operación durante el vuelo en ruta, pueda continuar hasta un aeródromo civil sin que tenga que volar en ningún punto a una altitud inferior a la mínima de vuelo, teniendo en cuenta las reducciones de peso previstas conforme progresa el vuelo; asimismo, la descarga de combustible que pudiera hacerse en vuelo, de acuerdo al procedimiento establecido en las normas oficiales mexicanas correspondientes. En el caso de aeronaves de tres o más motores, se considera también la restricción del peso anterior en previsión de falla de dos de los motores en ruta;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-IV. En el despegue, con el que en caso de que un motor quede fuera de operación, pueda aterrizar, después de haber salvado, con margen seguro, todos los obstáculos situados en la trayectoria de aproximación, con la seguridad de que puede detenerse dentro de la distancia disponible de aterrizaje, teniendo en cuenta las reducciones de peso previstas conforme progresa el vuelo y la descarga de combustible que pudiera hacerse en vuelo, de acuerdo a las normas oficiales mexicanas correspondientes;
+III. Con el que, en caso de que un motor quede fuera de operación durante el vuelo en ruta, pueda continuar hasta un aeródromo civil sin que tenga que volar en ningún punto a una altitud inferior a la mínima de vuelo, teniendo en cuenta las reducciones de peso previstas conforme progresa el vuelo; asimismo, la descarga de combustible que pudiera hacerse en vuelo, de acuerdo al procedimiento establecido en las disposiciones técnico administrativas que emita la autoridad aeronáutica. En el caso de aeronaves de tres o más motores, se considera también la restricción del peso anterior en previsión de falla de dos de los motores en ruta;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+IV. Con el que, en caso de que un motor quede fuera de operación, pueda aterrizar después de haber salvado, con margen seguro, todos los obstáculos situados en la trayectoria de aproximación, con la seguridad de que puede detenerse dentro de la distancia disponible de aterrizaje, teniendo en cuenta las reducciones de peso previstas conforme progresa el vuelo y la descarga de combustible que pudiera hacerse en vuelo, de conformidad con las normas oficiales mexicanas correspondientes o, a falta de éstas, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica;
 
 V. Máximo de aterrizaje especificado en el manual de vuelo para la altitud presión apropiada a la elevación en el aeródromo civil de destino y en cualquier otro alterno, considerando además las condiciones de la superficie de la pista a utilizar, y
 
-VI. Para el despegue o aterrizaje, de los máximos permitidos a efecto de que no rebase el nivel efectivo de ruido en decibeles que señale la autoridad competente y la Secretaría en las normas oficiales mexicanas correspondientes.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-### Capítulo VI. Del equipo de comunicaciones y navegación a bordo
+VI. Para el despegue o aterrizaje, de los máximos permitidos a efecto de que no rebase el nivel efectivo de ruido en decibeles que señale la autoridad competente y la autoridad aeronáutica en las normas oficiales mexicanas correspondientes.
+
+### Capítulo V. De los instrumentos, equipo y documentos de vuelo
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 127.
 
-Para que la Secretaría otorgue el certificado de aeronavegabilidad a las aeronaves matriculadas en territorio nacional, éstas deben cumplir con los requisitos de mantenimiento de la aeronavegabilidad y el certificado tipo que convalide o emita la Secretaría y que como resultado de la verificación obtengan la certificación a la condición de aeronavegabilidad y además contar los instrumentos, equipo y documentos que señale el presente Reglamento y las normas oficiales mexicanas correspondientes.
+Para que la autoridad aeronáutica otorgue el certificado de aeronavegabilidad a las aeronaves matriculadas en territorio nacional, éstas deben cumplir con los requisitos de mantenimiento de la aeronavegabilidad y el certificado tipo que convalide o emita la autoridad aeronáutica y que como resultado de la verificación obtengan la certificación a la condición de aeronavegabilidad y además contar los instrumentos, equipo y documentos que señale el presente Reglamento y las disposiciones técnico administrativas que emita para tal efecto.
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+El certificado de aeronavegabilidad tendrá una vigencia de dos años. El otorgamiento y revalidación de la vigencia se concederá siempre y cuando se demuestre la condición de aeronavegabilidad y se cumplan con las condiciones y requisitos que señalen las disposiciones técnico administrativas que emita la autoridad aeronáutica.
 
-El certificado de aeronavegabilidad tendrá una vigencia de un año. El otorgamiento y revalidación de la vigencia se concederá siempre y cuando se cumplan con las condiciones y requisitos que señalen las normas oficiales mexicanas correspondientes.
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-Para resolver sobre el otorgamiento o revalidación del certificado de aeronavegabilidad, la Secretaría tiene un plazo de dos días hábiles, cuando la aeronave se ponga a disposición de la autoridad en territorio mexicano para su inspección, y de tres días hábiles, cuando la aeronave se ponga a disposición de la autoridad aeronáutica en el extranjero.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+Para resolver sobre el otorgamiento o revalidación del certificado de aeronavegabilidad, la autoridad aeronáutica tiene un plazo de dos días hábiles, cuando la aeronave se ponga a disposición de la autoridad en territorio mexicano para su inspección, y de tres días hábiles, cuando la aeronave se ponga a disposición de la autoridad aeronáutica en el extranjero.
 
 ###### ARTÍCULO 128.
 
@@ -1751,7 +2007,9 @@ I. Los suministros médicos, situados en un lugar accesible, de acuerdo a lo se�
 
 II. Los extintores portátiles, en número, ubicación y con las características que establezcan las normas oficiales mexicanas correspondientes;
 
-III. El asiento o litera para cada persona mayor de dos años de edad, equipado cada uno con cinturón de seguridad y suministro de oxígeno, si el modelo de la aeronave así lo requiere;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+III. El asiento o litera para cada persona mayor de dos años de edad, equipado cada uno con cinturón de seguridad y suministro de oxígeno, si el modelo de la aeronave así lo requiere, de conformidad con las normas oficiales mexicanas correspondientes o, a falta de éstas, con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica;
 
 IV. El arnés de seguridad para cada asiento de los miembros de la tripulación, el cual debe incluir un dispositivo que sujete el torso del ocupante;
 
@@ -1761,13 +2019,61 @@ VI. Los fusibles eléctricos de repuesto para cada uno de los amperajes utilizad
 
 VII. El equipo transmisor localizador de emergencia de conformidad con las normas oficiales mexicanas correspondientes;
 
-VIII. El equipo necesario para hacer señales de socorro de conformidad con las normas oficiales mexicanas correspondientes, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-IX. Los medios para el sustento de la vida apropiados al área sobre la que se vaya a volar.
+VIII. El equipo necesario para hacer señales de socorro, de conformidad con las normas oficiales mexicanas correspondientes o, a falta de éstas, con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+IX. Los medios para el sustento de la vida, apropiados al área sobre la que se vaya a volar;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+X. El sistema de advertencia de la proximidad del terreno de conformidad con las normas oficiales mexicanas o, a falta de éstas, con las disposiciones técnico administrativas que emita la autoridad aeronáutica;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XI. Los registradores de vuelo de conformidad con las normas oficiales mexicanas o, a falta de éstas, con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XII. Las luces en número, ubicación y con las características que establezcan las normas oficiales mexicanas o, a falta de éstas, las disposiciones técnico administrativas emitidas por la autoridad aeronáutica;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XIII. El sistema anticolisión de a bordo de conformidad con las normas oficiales mexicanas o, a falta de éstas, con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XIV. Los demás que le señale la Ley, este Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+Los operadores aéreos únicamente deben cumplir lo dispuesto en las fracciones I, II, III, IV, VI, VII, VIII, IX, X, XI, XII, XIII y XIV anteriormente señaladas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 129 Bis.
+
+Toda aeronave que realice operaciones bajo las reglas de vuelo visual debe contar como mínimo con:
+
+I. El equipo con medios que le permita medir y exhibir:
+
+a) El rumbo magnético;
+
+b) La altitud de presión barométrica, y
+
+c) La velocidad indicada;
+
+II. El equipo con medios que le permita medir y exhibir el tiempo en horas, minutos y segundos, y
+
+III. Los demás que le señale la Ley, este Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO , D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 130.
 
-Todas las aeronaves que operen sobre agua, incluyendo los hidroaviones y las anfibias, deben llevar a bordo, como mínimo, además de lo establecido en el artículo anterior, lo siguiente:
+Todas las aeronaves que operen sobre agua, incluyendo los hidroaviones y las anfibias, deben llevar a bordo, como mínimo, además de lo establecido en los artículos 129 y 129 Bis, lo siguiente:
 
 I. Un chaleco salvavidas o dispositivo de flotación individual equivalente, para cada persona que vaya a bordo, así como las balsas salvavidas en número suficiente para alojar a todas las personas que se encuentren a bordo, en términos de lo dispuesto por las normas oficiales mexicanas correspondientes;
 
@@ -1805,23 +2111,35 @@ XII. La lista de comprobación a que se refiere la fracción VII del artículo 1
 
 XIII. El manual general de operaciones;
 
-XIV. El plan operacional de vuelo, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-XV. En su caso, los que la Secretaría determine en las normas oficiales mexicanas correspondientes, de conformidad con el desarrollo tecnológico.
+XIV. El plan operacional de vuelo;
 
-Los operadores aéreos únicamente deben cumplir lo dispuesto en las fracciones I, II, III, IV, VI, VII, VIII, X, XI y XII, anteriormente señaladas.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-### Capítulo VII. Del mantenimiento de las aeronaves y de los talleres aeronáuticos
+XV. Cualquier aprobación específica para la operación u operaciones que se realizarán, salvo que por caso fortuito o fuerza mayor sea imposible llevar a bordo dicha documentación;
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XVI. Los procedimientos para la tripulación de vuelo al mando de aeronaves interceptadas, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+XVII. Los demás que, en su caso, se determine en las normas oficiales mexicanas y, en lo no previsto en éstas, en las disposiciones técnico administrativas, con base en el avance en el desarrollo tecnológico.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+Los operadores aéreos únicamente deben cumplir lo dispuesto en las fracciones I, II, III, IV, VI, VII, VIII, IX, X, XI, XII, XV, XVI y XVII, señaladas en el párrafo anterior.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+### Capítulo VI. Del equipo de comunicaciones, navegación y vigilancia de a bordo
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 132.
 
-Toda aeronave que opere de conformidad con las reglas de vuelo por instrumentos, o bien, con sujeción a las reglas de vuelo visual, cuando opere en el espacio aéreo controlado debe contar con el equipo de comunicación de conformidad con las normas oficiales mexicanas correspondientes que permita:
-
-I. Abarcar las frecuencias de comunicación asignadas a la aviación civil;
-
-II. La comunicación en ambos sentidos con las estaciones aeronáuticas y en las frecuencias que determine la Secretaría, y
-
-III. La comunicación en la frecuencia aeronáutica de emergencia que establezca la Secretaría.
+Las aeronaves que operen de conformidad con las reglas de vuelo por instrumentos, o bien, bajo las reglas de vuelo visual, áreas oceánicas o vuelos nocturnos, deben contar con el equipo que permita mantener la comunicación de conformidad con las normas oficiales mexicanas o, a falta de éstas, conforme a lo señalado en las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
 
 ###### ARTÍCULO 133.
 
@@ -1833,13 +2151,57 @@ I. Proporcione indicaciones continuas a la tripulación de vuelo sobre la ruta, 
 
 II. Haya sido autorizado por la Secretaría para las operaciones de rendimiento mínimas de navegación.
 
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 133 Bis.
+
+Toda aeronave debe contar con el equipo de vigilancia apropiado para la ruta y aeródromo que pretenda utilizar y asegurar que, en el caso de falla de un elemento del equipo en cualquier fase del vuelo, el equipo restante sea suficiente para permitirle cumplir con su plan operacional de vuelo y de conformidad con los requisitos de los servicios de tránsito aéreo.
+
 ###### ARTÍCULO 134.
 
 En la instalación del equipo de comunicaciones o de navegación en cualquier aeronave se debe considerar que, en caso de falla de cualquiera de estas unidades, no se afecte el funcionamiento de otra unidad indispensable en la misma.
 
-### Capítulo VIII. De la protección al ambiente
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
-#### Sección segunda. De los talleres aeronáuticos
+###### ARTÍCULO 134 Bis.
+
+Las aeronaves deben contar con los equipos y sistemas que señalen las normas oficiales mexicanas o, a falta de éstas, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica, relativos a:
+
+I. Grabación de la voz en la cabina de la tripulación de vuelo, grabación de datos de vuelo y registradores de vuelo, o el uso combinado de éstos;
+
+II. Sistema que permita dar una advertencia y alerta del impacto contra el terreno;
+
+III. Sistema que permita alertar al piloto la presencia de un tráfico y prevención de la colisión;
+
+IV. Visualizador (HUD) “Proyector visual frontal” o equivalentes, sistemas de visión mejorada (EVS), sistemas de visión sintética (SVS) o sistemas de visión combinados (CVS), sólo para aeronaves que cuenten con sistemas de aterrizaje automático;
+
+V. Maletines de vuelo electrónicos (EFB);
+
+VI. Sistema de vigilancia dependiente automática, de difusión o de contrato;
+
+VII. Equipo que permita la localización de una aeronave que se haya accidentado;
+
+VIII. Sistemas de posicionamiento global satelital;
+
+IX. Instrumentos, equipos y sistemas para la navegación basada en el desempeño;
+
+X. Sistemas y equipos para operaciones en espacio aéreo con separación vertical mínima reducida;
+
+XI. Sistema para la provisión y uso de oxígeno;
+
+XII. Sistema de radar meteorológico;
+
+XIII. Sistema de predicción y advertencia de la cizalladura del viento;
+
+XIV. Sistema para el aterrizaje por instrumentos en condiciones meteorológicas adversas, y
+
+XV. Sistema de energía auxiliar en caso de falla del sistema principal.
+
+Los equipos y sistemas señalados en este artículo que utilicen bases de datos para su operación deben estar actualizados y validados para su uso previo a la realización del vuelo.
+
+### Capítulo VII. Del mantenimiento de las aeronaves y de los talleres aeronáuticos
+
+#### Sección primera. Del mantenimiento de las aeronaves
 
 ###### ARTÍCULO 135.
 
@@ -1853,19 +2215,25 @@ III. Elaborar y mantener actualizado, para uso y guía de su personal, el manual
 
 IV. Contar con la autorización previa de la Secretaría para realizar trabajos de mantenimiento, inspección y reparación de sus aeronaves, motores, hélices y sus componentes, en los talleres autorizados por la autoridad aeronáutica del país donde esté ubicado el taller aeronáutico de conformidad con las normas oficiales mexicanas correspondientes.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 136.
 
-El personal técnico aeronáutico de tierra responsable del mantenimiento y reparación de aeronaves y equipo debe contar con la licencia correspondiente en la cual se debe indicar su especialidad y categoría de conformidad con el artículo 87, fracciones I y II de este Reglamento. El personal de mantenimiento, reparación e inspección debe haber tomado previamente los cursos específicos de las aeronaves y equipos a su cargo.
+El personal técnico aeronáutico de tierra responsable del mantenimiento y reparación de aeronaves y equipo debe contar con la licencia correspondiente en la cual se debe indicar su especialidad y categoría, además de su capacidad, de conformidad con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica. El personal de mantenimiento, reparación e inspección debe haber tomado previamente los cursos específicos de las aeronaves y equipos a su cargo.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 137.
 
-Todo concesionario, permisionario u operador aéreo es responsable de llevar los siguientes registros, además del control de boletines de servicio y directivas de aeronavegabilidad:
+Todo concesionario, permisionario u operador aéreo, así como el operador de un sistema de aeronave pilotada a distancia con certificado de tipo, es responsable, de conformidad con las normas oficiales mexicanas correspondientes y, en lo no previsto por éstas, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica, de llevar y conservar, además del control de boletines de servicio y directivas de aeronavegabilidad, los registros siguientes:
 
 I. Respecto a toda la aeronave:
 
-a) El tiempo total del funcionamiento, y
+a) El tiempo total del funcionamiento;
 
-b) Fechas y tiempos de aplicación de servicios;
+b) Fechas y tiempos de aplicación de servicios, y
+
+c) Registros detallados de los trabajos de mantenimiento que demuestren que se ha cumplido con todos los requisitos necesarios para la firma de la conformidad de mantenimiento;
 
 II. Respecto a los componentes controlados de la aeronave, especificados en el manual del fabricante:
 
@@ -1873,19 +2241,37 @@ a) Tiempo total de funcionamiento;
 
 b) Fecha de la última reparación mayor, y
 
-c) Detalles pertinentes de las modificaciones y reparaciones, y
+c) Detalles pertinentes de las modificaciones y reparaciones;
 
 III. Respecto a aquellos instrumentos y equipo cuyas condiciones de servicio y durabilidad se determinan según el tiempo de funcionamiento:
 
 a) Los registros del tiempo de funcionamiento necesarios para determinar las condiciones de servicio y calcular su durabilidad, y
 
-b) La fecha del último servicio.
+b) La fecha del último servicio, y
 
-Las personas a que se refiere este artículo deben cerciorarse de que los registros y controles antes indicados se conserven durante sesenta días hábiles después de haber terminado la vida útil de la aeronave y de los componentes. En caso de que se transfiera la propiedad de las aeronaves, dichos registros les deben ser entregados al nuevo propietario.
+IV. Respecto a toda estación de control de un sistema de aeronave pilotada a distancia con certificado de tipo:
+
+a) El tiempo total del funcionamiento, y
+
+b) Fechas y tiempos de aplicación de servicios;
+
+Las personas a que se refiere este artículo deben cerciorarse de que los registros y controles antes indicados se conserven durante noventa días naturales después de haber terminado la vida útil de la aeronave y de los componentes. En caso de que se transfiera la propiedad de las aeronaves, dichos registros les deben ser entregados al nuevo propietario.
+
+Las responsabilidades de los pilotos de un sistema de aeronave pilotada a distancia serán previstas de conformidad con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 138.
 
-Todo concesionario, permisionario u operador aéreo debe conservar durante un año todos los documentos relacionados con la aplicación y liberación de mantenimiento de las aeronaves. Cada uno de los relativos a los trabajos ejecutados llevará la firma y número de la licencia del mecánico que lo realizó, así como el número asignado al taller por la Secretaría, conforme a las normas oficiales mexicanas correspondientes.
+Todo concesionario, permisionario u operador aéreo, así como el operador de un sistema de aeronave pilotada a distancia con certificado de tipo, deben conservar durante un año todos los documentos relacionados con la aplicación y liberación de mantenimiento de las aeronaves. Cada uno de los relativos a los trabajos ejecutados llevará la firma y número de la licencia del mecánico que lo realizó, así como el número asignado al taller por la autoridad aeronáutica, conforme a las normas oficiales mexicanas correspondientes y, en lo no previsto por éstas, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 138 Bis.
+
+El operador de un sistema de aeronave pilotada a distancia sin certificado de tipo es el responsable de dar mantenimiento al sistema, conforme a lo indicado en las normas oficiales mexicanas correspondientes y, en lo no previsto por éstas, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica.
+
+#### Sección segunda. De los talleres aeronáuticos
 
 ###### ARTÍCULO 139.
 
@@ -1951,9 +2337,13 @@ El responsable del taller aeronáutico, de conformidad con las normas oficiales 
 
 I. Ejercer las funciones y obligaciones señaladas en el manual de procedimientos del taller;
 
-II. Dar aviso a la Secretaría sobre los defectos graves encontrados al momento de efectuar un trabajo en una aeronave o sus componentes, que puedan constituir un peligro para la operación de la misma, así como del inicio de trabajos de reparación en una aeronave o equipo accidentado;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
 
-III. Asegurarse que el trabajo efectuado se lleve a cabo conforme a los manuales del fabricante y a los programas de mantenimiento e inspección, ambos aprobados por la Secretaría, a los boletines de servicio del fabricante, a las directivas de aeronavegabilidad y al manual de procedimientos del taller;
+II. Dar aviso a la autoridad aeronáutica sobre las fallas y los defectos graves encontrados al momento de efectuar un trabajo en una aeronave o sus componentes, que puedan constituir un peligro para la operación de la misma, así como del inicio de trabajos de reparación en una aeronave o equipo accidentado;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+III. Asegurarse que el trabajo efectuado se lleve a cabo conforme a los manuales del fabricante y a los programas de mantenimiento e inspección, ambos aprobados por la autoridad aeronáutica, a los boletines de servicio del fabricante, a las directivas de aeronavegabilidad y al manual de procedimientos del taller;
 
 IV. Extender la liberación de mantenimiento, inspección o reparación de la aeronave o el componente, y
 
@@ -1975,7 +2365,7 @@ Toda modificación que afecte el diseño original de una aeronave o sus caracter
 
 El permisionario y el responsable del taller debe utilizar sólo los componentes aprobados por el fabricante o por la Secretaría conforme a las normas oficiales mexicanas correspondientes.
 
-### Capítulo I. Disposiciones comunes
+### Capítulo VIII. De la protección al ambiente
 
 ###### ARTÍCULO 147.
 
@@ -2007,11 +2397,35 @@ Todo concesionario, permisionario u operador aéreo debe sujetarse a las normas 
 
 Todo concesionario, permisionario u operador aéreo deberá reportar a la autoridad aeronáutica, de manera anual y mediante escrito libre, de las emisiones de gases efecto invernadero y sus variables, producidas por las aeronaves que opere, así como de las medidas operativas, técnicas, y económicas requeridas por la legislación nacional y tratados internacionales suscritos por México en materia de protección al medio ambiente, de conformidad con el artículo 76 de la Ley.
 
-### Capítulo II. De los servicios a la navegación aérea
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTERGRAN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+### Capítulo IX. De las aeronaves no tripuladas
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 151 Ter.
+
+Las aeronaves no tripuladas se clasifican en:
+
+I. Aeromodelos;
+
+II. Aeronaves Autónomas;
+
+III. Globos Libres No Tripulados;
+
+IV. Sistemas de Aeronaves Pilotadas a Distancia, y
+
+V. Aeronaves No Tripuladas que por su desarrollo tecnológico no se encuentren en las clasificaciones anteriores.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 151 Quater.
+
+Los fabricantes y armadores nacionales y extranjeros de sistemas de aeronaves pilotadas a distancia, que pretendan ser operados en el espacio aéreo mexicano, deben cumplir los requerimientos establecidos para su aprobación de tipo de acuerdo con la norma oficial mexicana y, en lo no previsto por ésta, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica y de conformidad con los tratados.
 
 ## Título Quinto. De los servicios a la navegación aérea y de las reglas del aire
 
-### Capítulo III. De las reglas del aire
+### Capítulo I. Disposiciones comunes
 
 ###### ARTÍCULO 152.
 
@@ -2057,7 +2471,7 @@ El prestador de servicios a la navegación aérea puede suspender la prestación
 
 El prestador de servicios a la navegación aérea debe contar con la infraestructura necesaria y el personal requerido para suministrar los servicios a la navegación aérea, de conformidad con lo dispuesto en las reglas de tránsito aéreo.
 
-### Capítulo único. De la búsqueda, salvamento e investigación de accidentes
+### Capítulo II. De los servicios a la navegación aérea
 
 ###### ARTÍCULO 157.
 
@@ -2075,9 +2489,19 @@ Todo comandante o piloto al mando de la aeronave tiene el mismo derecho de uso d
 
 El comandante o piloto al mando de la aeronave debe:
 
-I. Abrir y cerrar su plan de vuelo conforme a la norma oficial mexicana correspondiente, y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2022)</small>
+
+I. Abrir y cerrar su plan de vuelo conforme a las disposiciones técnico administrativas que emita la autoridad aeronáutica, y
 
 II. Durante el vuelo notificar su posición y rendir los informes apropiados al personal que preste los servicios de tránsito aéreo, conforme a lo descrito en las reglas de tránsito aéreo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+El cierre del plan de vuelo, referido en la fracción I del párrafo anterior, se considerará efectuado al momento del aterrizaje de la aeronave en la estación, y por estación, para estos efectos, se entenderá el aeropuerto, aeródromo civil o punto de destino, previsto en el plan de vuelo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+La autoridad aeronáutica, en cualquier momento podrá requerir al operador aéreo o a la tripulación de vuelo, la presentación física del cierre del plan de vuelo, a efecto de verificar que se cumple con lo previsto en las disposiciones aplicables.
 
 ###### ARTÍCULO 161.
 
@@ -2111,7 +2535,7 @@ La Secretaría establecerá en la publicación de información aeronáutica la h
 
 Todo concesionario o permisionario de transporte aéreo, así como las personas morales que autorice la Secretaría y que presten los servicios de despacho, o bien, de despacho y control de vuelos, además de lo señalado en el artículo anterior, es responsable de elaborar el plan operacional de vuelo, el manifiesto de carga y balance, así como de realizar la vigilancia de vuelos y de la operación de aeronaves de conformidad con las normas oficiales mexicanas correspondientes.
 
-### Capítulo I. De la verificación
+### Capítulo III. De las reglas del aire
 
 ###### ARTÍCULO 168.
 
@@ -2171,37 +2595,53 @@ El comandante o piloto al mando de la aeronave debe hacer lo posible por notific
 
 ## Título Sexto. De la búsqueda, salvamento e investigación de accidentes
 
-### Capítulo II. De la elaboración de reglas de tránsito aéreo
+### Capítulo único. De la búsqueda, salvamento e investigación de accidentes
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 175.
 
-Los procedimientos y el plan de búsqueda y salvamento de aeronaves accidentadas se deben dar a conocer mediante las normas oficiales mexicanas correspondientes.
+Los planes de operaciones de búsqueda y salvamento de aeronaves extraviadas o accidentadas deberán integrarse en los planes de emergencia de los aeródromos.
 
-Cuando resulten personas heridas a consecuencia de un accidente sufrido por una aeronave, el concesionario, permisionario u operador aéreo de la misma debe tomar inmediatamente las medidas conducentes para la rápida prestación de asistencia médica adecuada.
+Su aplicación y eficacia será vigilada por la Secretaría, actuando de conformidad con las disposiciones técnico administrativas que ésta emita para tal efecto.
 
-Las brigadas voluntarias del grupo de búsqueda y salvamento deben ser coordinadas por la Secretaría, de conformidad con las normas oficiales mexicanas correspondientes.
+Todas las acciones de búsqueda y salvamento realizadas hasta la localización o no de la aeronave y el rescate de sus ocupantes, deberán quedar debidamente documentados en un acta, ya que son de interés público. La clasificación, desclasificación y acceso a la información que genere o custodie la Secretaría en materia de búsqueda y salvamento, deberá ajustarse a lo previsto en artículo 81 Ter de la Ley.
+
+Las brigadas de búsqueda y salvamento podrán estar conformadas por autoridades civiles o militares o por ambas, en el ámbito de sus atribuciones; así como por organizaciones privadas que se encuentren debidamente ubicadas y equipadas para llevar a cabo operaciones de búsqueda y salvamento, estas últimas estarán coordinadas por la Secretaría, de conformidad con los planes de operación de búsqueda y salvamento de cada terminal aérea.
+
+Cuando resulten personas heridas a consecuencia de un accidente de aviación, el propietario, concesionario, permisionario u operador aéreo debe tomar las medidas conducentes, de conformidad con lo establecido en los protocolos de asistencia a las víctimas fallecidas en el accidente; garantizando la inmediata asistencia médica a los supervivientes y asistiendo a sus familiares.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 176.
 
 La búsqueda y salvamento comprende:
 
-I. La localización de aeronaves accidentadas, el rescate y salvamento de los sobrevivientes, la recuperación de cadáveres y restos humanos y el aseguramiento de carga, valores y correo, transportados en la aeronave;
+I. La coordinación de las comunicaciones de socorro, búsqueda y salvamento;
 
-II. La coordinación de las comunicaciones de socorro, búsqueda y salvamento;
+II. La coordinación de las maniobras de las aeronaves que participen en la búsqueda y salvamento;
 
-III. La coordinación de las maniobras de las aeronaves que participen en la búsqueda y salvamento;
+III. La coordinación de las maniobras de auxilio, y la movilización oportuna de los grupos de búsqueda y salvamento, y
 
-IV. La coordinación de las maniobras de auxilio, y
+IV. La localización de aeronaves extraviadas o accidentadas, el rescate y salvamento de los sobrevivientes, la recuperación de cadáveres y restos humanos y el aseguramiento de carga, valores y correo transportados en la aeronave.
 
-V. La movilización oportuna de los grupos de búsqueda y salvamento.
+El servicio de búsqueda y salvamento estará bajo control y dirección de la Secretaría, la cual podrá auxiliarse con las Comandancias Regionales y Comandancias de Aeropuerto, respectivamente, quienes coadyuvarán en la organización de las brigadas de salvamento y centros de alerta, conforme a las disposiciones técnico administrativas que para tal efecto emita la Secretaría.
+
+La Secretaría, dentro de su ámbito de competencia y, con base en los planes de operación de búsqueda y salvamento, coordinará con otras instituciones gubernamentales, propietarios, poseedores, concesionarios, permisionarios, servicios de tránsito aéreo, clubes, entre otros, lo necesario para establecer y prestar de manera inmediata en el territorio nacional, incluyendo la jurisdicción de las aguas marinas mexicanas, islas y espacios aéreos correspondientes el servicio de búsqueda y salvamento, el cual estará disponible durante las veinticuatro horas del día.
 
 ###### ARTÍCULO 177.
 
 Los concesionarios, permisionarios, operadores aéreos, así como los miembros de la tripulación de vuelo se deben coordinar con el comandante del aeródromo en donde se encuentren o hacia donde se dirija la aeronave, para la realización de operaciones de vuelos de búsqueda y salvamento o para atender necesidades propias, así como para proporcionar asistencia civil en caso de emergencias.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 178.
 
-Todo concesionario, permisionario u operador aéreo, a solicitud de la Secretaría, deben prestar ayuda con sus aeronaves, sin excepción, en la búsqueda, localización y salvamento de cualquier otra aeronave que se encuentre en peligro o necesite ser socorrida.
+Todo concesionario, permisionario u operador aéreo, a solicitud de la Secretaría, deben prestar ayuda con sus aeronaves, sin excepción, en la búsqueda y salvamento de cualquier otra aeronave que se encuentre en peligro o necesite ser socorrida.
+
+Toda aeronave de búsqueda y salvamento deberá contar con el equipo necesario para comunicarse en la frecuencia aeronáutica de socorro, en la frecuencia utilizada en el lugar del suceso, así como en las frecuencias que puedan prescribirse. Asimismo, deberá contar con un localizador de emergencia, de conformidad con la norma oficial mexicana y, en lo no previsto por ésta, conforme a las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+La Secretaría se cerciorará que en los planes de operación de búsqueda y salvamento se establezcan los procedimientos para la prestación de los servicios aeroportuarios y de abastecimiento de combustible para las aeronaves que proporcionen el servicio de búsqueda y salvamento, así como los procedimientos de coordinación con la comandancia de aeropuerto para tales efectos.
 
 ###### ARTÍCULO 179.
 
@@ -2209,15 +2649,43 @@ Los centros de control de área se constituirán en centros de alerta para las c
 
 Las torres de control de los aeródromos son las encargadas de coordinar con el comandante del aeródromo cualquier caso de aeronaves en emergencia en las cercanías o en el perímetro del aeródromo civil involucrado.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 180.
 
-Toda persona que tenga noticia cierta de que ha ocurrido un accidente aéreo debe dar cuenta de ello, por cualquier medio, al representante más cercano de las autoridades competentes, las que tienen la obligación de comunicarlo al comandante del aeródromo o al representante de la Secretaría que se encuentre más próximo.
+Toda persona que tenga noticia cierta de que ha ocurrido un accidente aéreo debe dar cuenta de ello, por cualquier medio, a la autoridad más cercana de cualquiera de los tres niveles de gobierno, y ésta tiene la obligación de comunicarlo al comandante del aeródromo o al representante de la Secretaría.
+
+La Secretaría se encargará de implementar las normas y métodos recomendados en materia de investigación de accidentes e incidentes de aviación, que emita la Organización de Aviación Civil Internacional, como Estado del suceso, en una investigación en territorio mexicano. Además, será el representante Acreditado del Estado de Matrícula o del Operador cuando en un accidente o incidente en el extranjero se vea involucrada una aeronave con marcas de nacionalidad y matrícula mexicanas.
+
+Todo accidente o incidente de aviación suscitado dentro de territorio nacional, así como aquellos que involucran a una aeronave con marcas de nacionalidad y matrícula mexicana ocurridos fuera de territorio nacional, deberán ser notificados a la Secretaría, a través de la unidad administrativa encargada de la investigación de accidentes e incidentes de aviación, de acuerdo con el plan de operación de búsqueda y salvamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### Artículo 180 Bis.
+
+Las personas que están obligadas a notificar, en términos de las disposiciones técnico administrativas emitidas por la Secretaría, respecto a cualquier accidente o incidente de aviación, son las siguientes:
+
+I. Los concesionarios, permisionarios, operadores aéreos nacional o extranjero; así como los propietarios de una aeronave;
+
+II. La tripulación de la cabina de mando de la aeronave;
+
+III. El personal que haya firmado el certificado de liberación de mantenimiento de una aeronave accidentada o incidentada, así como quien haya efectuado la instalación, mantenimiento, modificación, reparación, revisión o vuelo de prueba de dicha aeronave;
+
+IV. El administrador y personal de operaciones del aeródromo donde se presentaron los hechos;
+
+V. Quienes desempeñen funciones relacionadas con la operación de una aeronave en tierra, incluidas las operaciones de carga de combustible, preparación de la hoja de embarque, carga y balance, y remolque dentro de un aeródromo, y
+
+VI. El personal de los servicios de tránsito aéreo.
+
+Asimismo, la Secretaría establecerá los formatos disponibles para que el personal técnico aeronáutico realice los reportes voluntarios y obligatorios de incidentes de aviación, en las disposiciones técnico administrativas que emita para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 181.
 
-Las autoridades competentes federales, estatales o municipales, que se presenten al lugar en que haya ocurrido un accidente aéreo, deben ejercer sus funciones coadyuvando y cooperando con el comandante del aeródromo y a los representantes de la Secretaría.
+La Secretaría, la Secretaría de la Defensa Nacional, la Secretaría de Marina, así como las demás autoridades competentes federales, estatales o municipales, que se presenten al lugar en que haya ocurrido un accidente aéreo, se coordinarán en el ámbito de sus respectivas atribuciones para la búsqueda y salvamento relacionado con accidentes e incidentes de aeronaves civiles. Tales autoridades tendrán que coadyuvar y cooperar con la comandancia del aeródromo y los investigadores de la Secretaría.
 
-Una vez acordonado el sitio donde se encuentren restos de la aeronave accidentada, las autoridades competentes encargadas de la custodia deben permitir el acceso inmediato a los grupos de búsqueda y salvamento y mantener una estrecha vigilancia hasta que lleguen los investigadores técnicos y demás personal autorizado por la Secretaría, asimismo deben brindarles las facilidades necesarias para la investigación.
+Una vez acordonado el sitio donde se encuentren rastros de la aeronave accidentada, las autoridades competentes encargadas de la custodia permitirán el acceso inmediato a los grupos de búsqueda y salvamento, en términos de los métodos y normas recomendadas por la Organización de Aviación Civil Internacional, y mantendrán una estrecha vigilancia hasta que lleguen los investigadores técnicos y demás personal autorizado por la Secretaría, asimismo deben brindarles las facilidades necesarias para la investigación.
 
 ###### ARTÍCULO 182.
 
@@ -2243,13 +2711,19 @@ La embarcación o buque a que se refiere el presente artículo debe seguir a la 
 
 El comandante o piloto al mando de la aeronave debe llevar la lista o carta que contenga las instalaciones aeronáuticas y en su caso, las estaciones costeras del servicio marítimo, con las frecuencias existentes para las comunicaciones de peligro y socorro durante el tiempo de vuelo.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 185.
 
-La Secretaría debe integrar una comisión, formada por expertos técnicos en la materia, investigadores y dictaminadores de accidentes aéreos, para que efectúe la investigación de los accidentes de las aeronaves civiles ocurridos en el espacio aéreo bajo la jurisdicción mexicana.
+La Secretaría integrará, en términos del artículo 81 de la Ley, a la Comisión Investigadora y Dictaminadora de Accidentes Aéreos, para lo cual la conformará con expertos técnicos en materia aeronáutica e investigadores de accidentes e incidentes aéreos del Estado de matrícula y del fabricante de la aeronave, procurando que sean especializados en el tipo de equipo accidentado o incidentado, para que coadyuven en la investigación que efectúe dicha Comisión.
 
-La Secretaría debe determinar los procedimientos para la investigación de accidentes e incidentes aéreos en las normas oficiales mexicanas correspondientes.
+La Secretaría determinará los procedimientos para realizar la investigación de accidentes e incidentes aéreos y los mantendrá actualizados con base a las normas y métodos recomendados por la Organización de Aviación Civil Internacional.
 
-La comisión investigadora y dictaminadora de accidentes aéreos tiene como objeto identificar la causa probable del accidente, elaborar y presentar los informes preliminar y final a la Secretaría y hacer recomendaciones de carácter preventivo a todo concesionario, permisionario, operador aéreo y al personal técnico aeronáutico.
+La Comisión Investigadora y Dictaminadora de Accidentes Aéreos que se constituya tendrá como propósito identificar la causa probable del accidente, elaborar el informe de hechos o preliminar y el informe final, así como hacer recomendaciones de seguridad operacional de carácter preventivo a los sujetos involucrados en un accidente o incidente en cualquier fase de la investigación.
+
+La publicación de los informes referidos en el párrafo anterior se tratará en los términos que establece el artículo 81 Ter de la Ley y demás disposiciones jurídicas aplicables.
+
+Los sujetos involucrados en un accidente o incidente, obligados a implementar las recomendaciones de seguridad operacional emitidas por la Comisión Investigadora y Dictaminadora de Accidentes Aéreos, deberán dar seguimiento a las mismas, notificando a ésta el plazo que requieren para implementar las recomendaciones, así como reportar las acciones de implementación tomadas y ejecutadas o, en su caso, pronunciarse respecto de los impedimentos que tengan para cumplir con la implementación de las recomendaciones.
 
 ###### ARTÍCULO 186.
 
@@ -2257,9 +2731,15 @@ Los integrantes de la tripulación de vuelo de una aeronave accidentada no puede
 
 La comisión investigadora y dictaminadora con base en su dictamen y después de requerir que le sea presentado un certificado médico de conformidad con el artículo 76 del presente Reglamento, puede emitir opinión para que la Secretaría otorgue una autorización provisional a los integrantes de la tripulación de vuelo condicionada al resultado final de la investigación, cuando se presuma que no existe responsabilidad de alguno de los integrantes.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 187.
 
-El comandante del aeródromo responsable de iniciar la investigación, antes de remover toda o parte de una aeronave accidentada, debe reunir en el lugar del accidente los elementos que puedan servir para determinar la causa probable del mismo y los debe relacionar en un acta, cuyos requisitos serán determinados en las normas oficiales mexicanas correspondientes.
+El comandante de aeropuerto está obligado a coadyuvar con la Secretaría en el inicio de la investigación de campo y debe reunir en el lugar del accidente los elementos que puedan servir a la Comisión Investigadora y Dictaminadora de Accidentes Aéreos, para que ésta determine la causa probable del mismo, para lo cual, deberá relacionarlos en un acta y entregarlos a los investigadores de la Secretaría, apoyándose en el Manual de Investigación y las disposiciones técnico administrativas expedidas por la Secretaría.
+
+La Secretaría, antes de remover una aeronave accidentada o parte de ella, coordinará las acciones necesarias con todas las autoridades y los sujetos involucrados para proteger las pruebas y mantener la custodia eficaz de la aeronave y su contenido, durante el período requerido para la investigación.
+
+El operador, permisionario o propietario de una aeronave involucrada en un accidente o incidente, es responsable de preservar, en la medida de lo posible, los restos de la aeronave, la carga y el correo a bordo de la aeronave, los registros relacionados con la operación y mantenimiento de la aeronave; el registro del personal técnico aeronáutico involucrado en el suceso, así como los registradores de memoria no volátil, de datos de vuelo, de voz, o similares; hasta que la Secretaría tome la custodia de la misma u otorgue la liberación de los restos de la investigación, de conformidad con las disposiciones técnico administrativas emitidas por la Secretaría.
 
 ###### ARTÍCULO 188.
 
@@ -2275,33 +2755,29 @@ IV. La aeronave constituya un riesgo u obstrucción del tránsito aéreo, o
 
 V. Sea necesario obtener elementos o datos para iniciar la investigación y los mismos pudieran perderse por las condiciones meteorológicas, el estado físico del área o por el paso del tiempo.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 189.
 
-Todos los documentos y datos relacionados con una aeronave accidentada que se encuentren en poder del concesionario, permisionario u operador aéreo, deben ser puestos a disposición de la Secretaría para coadyuvar en la investigación.
+El propietario, concesionario, permisionario u operador aéreo, incluyendo los operadores de un sistema de aeronave pilotada a distancia, tienen la obligación de entregar a la Secretaría, todos los documentos y datos que posean relacionados con la tripulación de una aeronave accidentada o incidentada, para coadyuvar en la investigación que lleve a cabo la Comisión Investigadora y Dictaminadora de Accidentes Aéreos, asimismo deberán proporcionarle los videos y certificaciones relativas al aeródromo; las imágenes de video radar, audios y sus transcripciones, entre otros, de los servicios de tránsito aéreo y de los prestadores de servicios, que posean con relación con la operación de la aeronave; de conformidad las disposiciones técnico administrativas emitidas por la Secretaría.
 
-La Secretaría debe en materia de prevención de accidentes de aviación, determinar en las normas oficiales mexicanas correspondientes, los reportes voluntarios y obligatorios de incidentes, los cuales deben ser llenados por el personal técnico aeronáutico que tenga información sobre ellos.
+La Secretaría en materia de prevención de accidentes de aviación deberá publicar en su sitio web, lo antes posible, dentro de un plazo de doce meses, el informe final o, en su caso, el informe de hechos o preliminar cuando se trate de un accidente mayor, indicando el estatus de la investigación.
 
-La Secretaría, después de la investigación de un accidente o incidente de una aeronave, puede dictar las medidas preventivas que considere necesarias o urgentes y ordenar su incorporación a los programas de seguridad que formen parte del manual de seguridad aérea.
+La Secretaría podrá reabrir una investigación cuando obtenga pruebas que no hubiesen sido valoradas en la investigación inicial, siempre y cuando la Comisión Investigadora y Dictaminadora de Accidentes Aéreos determine que dicha prueba cumple con valores de autenticidad e impacto en el factor causal y contribuyente del accidente o incidente.
+
+La Secretaría, después de la investigación de un accidente o incidente de una aeronave, puede dictar las medidas preventivas que considere necesarias o urgentes y ordenar su modificación o incorporación a los programas de seguridad o manuales que apliquen en materia aeronáutica.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 190.
 
-La Secretaría debe tomar las medidas pertinentes para que se establezca y mantenga un banco de datos que contenga los informes correspondientes a los accidentes o incidentes de aeronaves en el espacio aéreo bajo jurisdicción mexicana, el cual debe incluir:
+La Secretaría debe tomar las medidas pertinentes para que se establezca y mantenga un banco de datos de accidentes e incidentes, provenientes de las notificaciones de éstos, que facilite el análisis eficaz de la información sobre deficiencias de seguridad operacional reales o posibles, para que la dependencia determine las medidas preventivas necesarias.
 
-I. Todos los datos de los responsables de la operación;
-
-II. Los informes preliminar y final de los accidentes investigados;
-
-III. El dictamen de la causa probable, y
-
-IV. Las medidas preventivas que se adopten en cada caso.
-
-Es aplicable lo dispuesto en el párrafo anterior cuando los accidentes e incidentes ocurran fuera del territorio nacional respecto de aquellas aeronaves que ostenten matrícula mexicana o de las que ostenten matrícula extranjera y sean operadas por concesionarios, permisionarios u operadores aéreos.
+La información contenida en la base de datos será utilizada únicamente para mejorar la seguridad de la aviación civil.
 
 ## Título Séptimo. De la verificación, elaboración de reglas de tránsito aéreo, y sanciones
 
-### Capítulo III. De las sanciones
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+### Capítulo I. De la verificación
 
 ###### ARTÍCULO 191.
 
@@ -2313,17 +2789,21 @@ La Secretaría, por sí o a través de terceros, puede realizar en cualquier mom
 
 Los servicios a la navegación aérea están sujetos a verificación periódica.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 192.
 
-La visita de verificación no debe impedir el desarrollo normal de las actividades del concesionario, permisionario u operador aéreo, ni interrumpir total o parcialmente la prestación de los servicios.
+La visita de verificación, referida en el artículo anterior, no debe impedir el desarrollo normal de las actividades del concesionario, permisionario u operador aéreo, así como del operador de un sistema de aeronave pilotada a distancia, con certificado de tipo, ni interrumpir total o parcialmente la prestación de los servicios.
 
-Para efectos de la Ley Federal de Derechos, se considerará como verificación mayor aquélla que se realice de manera integral a los concesionarios y permisionarios, y cubra aspectos técnicos, financieros, jurídicos y administrativos, entre otros, y como verificación menor aquélla que se practique a los centros de formación capacitación y adiestramiento, a los servicios aéreos especializados bajo la modalidad de fumigador aéreo, a los operadores aéreos, y sobre aspectos específicos a concesionarios o permisionarios, en especial a las aeronaves, sus partes o refacciones.
+Una verificación mayor, para los efectos de la Ley Federal de Derechos, es aquélla que se realice de manera integral a los concesionarios y permisionarios, y cubra aspectos técnicos, financieros, jurídicos y administrativos, entre otros, y la verificación menor, para los mismos efectos, es aquélla que se practique a los centros de formación, capacitación y adiestramiento, a los servicios aéreos especializados bajo la modalidad de fumigador aéreo, a los operadores aéreos, así como a los operadores de sistemas de aeronaves pilotadas a distancia con certificado de tipo, y sobre aspectos específicos a concesionarios o permisionarios, en especial a las aeronaves, sus partes o refacciones.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 193.
 
-El titular de una concesión, permiso o autorización y todo operador aéreo, debe rendir los informes que le solicite la Secretaría en materia técnica-operativa, financiera, legal o administrativa, así como de las actividades relacionadas con las mismas, en particular de los programas de mantenimiento y seguridad operacional de aeronaves.
+El titular de una concesión, permiso o autorización y todo operador aéreo u operador de un sistema de aeronave pilotada a distancia debe rendir los informes que le solicite la autoridad aeronáutica en materia técnica-operativa, financiera, legal o administrativa, así como de las actividades relacionadas con las mismas, en particular de los programas de mantenimiento y seguridad operacional de aeronaves.
 
-Si de la información presentada y de las verificaciones que, en su caso, se realicen, se resuelve que el concesionario o permisionario no cumple con las disposiciones aplicables, la Secretaría debe proceder a imponer las sanciones y, en su caso, establecer las medidas de seguridad correspondientes.
+Si de la información presentada y de las verificaciones que, en su caso, se realicen, se resuelve que el concesionario o permisionario no cumple con las disposiciones aplicables, la autoridad aeronáutica debe proceder a imponer las sanciones y, en su caso, establecer las medidas de seguridad correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
 
@@ -2335,19 +2815,27 @@ La Secretaría, para los efectos del artículo 84, último párrafo de la Ley, e
 
 Los trámites que no cuenten con plazo específico para su resolución deben resolverse dentro de los sesenta días naturales siguientes, contados a partir de aquél en que se hubiere presentado la solicitud. Las solicitudes que no se resuelvan dentro del plazo que para cada caso se establece, se entenderán denegadas.
 
+### Capítulo II. De la elaboración de reglas de tránsito aéreo
+
 ###### ARTÍCULO 195.
 
 Es facultad de la Secretaría la elaboración, modificación o cancelación de reglas de tránsito aéreo; para tales efectos integrará un comité técnico con el objeto de escuchar los comentarios y sugerencias de los técnicos de los concesionarios, permisionarios y operadores aéreos destinatarios de las reglas, así como de colegios y asociaciones que se considere pertinente consultar.
 
 Concluido el proyecto, la Secretaría aprobará la versión definitiva y ordenará su publicación en el Diario Oficial de la Federación.
 
+### Capítulo III. De las sanciones
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### ARTÍCULO 196.
 
 La Secretaría podrá cancelar licencias y certificados de capacidad, así como la autorización a que se refiere el artículo 60 de este Reglamento y el permiso previsto en el artículo 95, cuando el personal técnico aeronáutico o el titular de la autorización o permiso, respectivamente, incumplan lo establecido en la Ley, este Reglamento, normas oficiales mexicanas, reglas de tránsito aéreo y demás disposiciones que les resulten aplicables. El proceso de cancelación se sujetará a lo establecido en la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 197.
 
-La Secretaría procederá a la suspensión de los servicios aéreos, operaciones, licencias y certificados de capacidad, según corresponda, cuando:
+La autoridad aeronáutica procederá a la suspensión de los servicios aéreos, operaciones, licencias y certificados de capacidad, según corresponda, cuando:
 
 I. Una aeronave no cumpla los requisitos y condiciones de aeronavegabilidad;
 
@@ -2365,15 +2853,241 @@ VII. El permisionario no cumpla con lo establecido en el artículo 27 de este Re
 
 La suspensión ordenada subsistirá hasta en tanto persistan las condiciones que la motivaron.
 
-La Secretaría establecerá las medidas que considere convenientes para el restablecimiento de las condiciones de seguridad requeridas, de acuerdo con lo dispuesto en la Ley, este Reglamento y las demás disposiciones que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+La autoridad aeronáutica establecerá las medidas que considere convenientes para el restablecimiento de las condiciones de seguridad requeridas, de acuerdo con lo dispuesto en la Ley, este Reglamento y las demás disposiciones técnico administrativas que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+ARTÍCULO 197 BIS. A la Secretaría le corresponde imponer las sanciones que la Ley prevé en:
+
+I. Artículo 15, respecto de la revocación de las concesiones;
+
+II. Artículo 86, fracciones I, inciso j), V, y VII;
+
+III. Artículo 86 Bis, sólo cuando se trate de los supuestos comprendidos en la fracción inmediata anterior;
+
+IV. Artículo 87, fracción XI;
+
+V. Artículo 88, fracciones XI, XVI y XX;
+
+VI. Artículo 89, y
+
+VII. En los demás artículos que expresamente señala la Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+ARTÍCULO 197 TER. A la autoridad aeronáutica le corresponde imponer las sanciones que la Ley prevé en:
+
+I. Artículo 15, respecto de la revocación de los permisos;
+
+II. Artículo 86; con excepción de los supuestos referidos en la fracción I del artículo anterior de este Reglamento;
+
+III. Artículo 86 Bis, sólo cuando se trate de los supuestos comprendidos en la fracción inmediata anterior;
+
+IV. Artículo 87;
+
+V. Artículo 88 fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XIII, XIV, XV, XVII, XVIII, XIX y XX;
+
+VI. Artículo 88 Bis;
+
+VII. Artículo 88 Bis 1;
+
+VIII. Artículo 88 Ter;
+
+IX. Artículo 88 Quater, y
+
+X. En los demás artículos que expresamente señala la Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+ARTÍCULO 197 QUATER. La autoridad aeronáutica revocará la autorización o licencia de piloto de un sistema de aeronave pilotada a distancia, civiles o de Estado, excepto las militares, por ser infracciones graves para la seguridad de las operaciones aéreas, de conformidad con lo establecido en el artículo 88 Bis 1, párrafo tercero de la Ley, cuando se trate de las conductas siguientes:
+
+I. Operar la aeronave en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes;
+
+II. Permitir por actos u omisiones, siendo responsable de la aeronave, que otra persona opere en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes, y
+
+III. Realizar actos u omisiones que constituyan uno o algunos de los delitos previstos en los artículos 84, 84 bis y 86, fracción II de la Ley Federal de Armas de Fuego y Explosivos; 461 de la Ley General de Salud, y 139, 139 ter, 140, 170, 172 bis, párrafo segundo, 194, fracción I, 289, 290, a 293 y 302 del Código Penal Federal.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+ARTÍCULO 197 QUINQUIES. La autoridad aeronáutica revocará la autorización, aprobación o certificación otorgada a los fabricantes, armadores o poseedores de aeronaves no tripuladas, civiles o de Estado, excepto las militares, de conformidad con el artículo 88 Bis 1, párrafo tercero, cuando transgredan o incumplan las especificaciones o limitaciones previstas en sus respectivas autorizaciones, y la autoridad aeronáutica determine que dicho incumplimiento es grave para la seguridad de las operaciones aéreas o se haya vulnerado la integridad física de terceros y de sus bienes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 198.
 
-En los casos de denegación del embarque porque se hayan expedido boletos en exceso a la capacidad disponible de la aeronave o se cancele el vuelo por causas imputables al concesionario o permisionario, la Secretaría sancionará en términos de lo dispuesto por el artículo 87, fracción VII, de la Ley por negarse a prestar el servicio, sin perjuicio de que se imponga una sanción en términos de lo dispuesto por el artículo 89 del mismo ordenamiento, cuando el concesionario o permisionario no proporcione al pasajero cualquiera de las opciones o la indemnización que se señalan en el artículo 52 de la Ley.
+En los casos de denegación del embarque porque se hayan expedido boletos en exceso a la capacidad disponible de la aeronave o se cancele el vuelo por causas imputables al concesionario o permisionario, la autoridad aeronáutica sancionará en términos de lo dispuesto por el artículo 87, fracción VII, de la Ley por negarse a prestar el servicio, sin perjuicio de que se imponga una sanción en términos de lo dispuesto por el artículo 89 del mismo ordenamiento, cuando el concesionario o permisionario no proporcione al pasajero cualquiera de las opciones o la indemnización que se señalan en el artículo 52 de la Ley.
 
 > <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
 
 Lo anterior, sin perjuicio de las atribuciones que se le otorgan a la Procuraduría Federal del Consumidor en términos de la Ley Federal de Protección al Consumidor, conforme a lo previsto en los artículos 42 Bis y 47 Bis 3 de la Ley.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+## Título Octavo. De los Sistemas de Seguridad Operacional
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+### Capítulo I. Del Programa estatal de seguridad operacional
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 199.
+
+La autoridad aeronáutica expedirá y publicará el Programa estatal de seguridad operacional (SSP), el cual contendrá los elementos previstos en la Ley de la materia, el cual se publicará en el sitio web de la autoridad aeronáutica.
+
+Las políticas, objetivos y procedimientos de la seguridad operacional en la Aviación Civil se documentarán en el Manual del programa estatal de seguridad operacional, en congruencia con los tratados, normas oficiales mexicanas y las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+El Manual del programa estatal de seguridad operacional contendrá los principios, organización, responsabilidades y procedimientos a seguir para la salvaguarda de la seguridad operacional. En el mismo se involucrarán de manera integral a todos los participantes que intervienen en la seguridad operacional.
+
+El Sistema de gestión de la seguridad operacional (SMS) involucra las acciones encaminadas a la identificación de peligros, análisis, evaluación, control y reducción de los riesgos en la prestación del servicio de transporte aéreo, considerándolos por su origen multifactorial y en un proceso permanente de mejora continua en el que deberán participar las autoridades competentes, así como los proveedores de servicio a que refiere la Ley de la materia.
+
+La autoridad aeronáutica, para los efectos de este artículo y del artículo 200 de este Reglamento, se apoyará en una herramienta informática que facilite la recopilación y procesamiento de datos sobre seguridad operacional para los fines previstos en la Ley de la materia.
+
+Los proveedores de servicio, el explotador aéreo, el proveedor de servicios aeronáuticos o el fabricante de equipo aeronáutico, proporcionarán a la autoridad aeronáutica la información que necesite para integrar el Sistema de gestión de la seguridad operacional (SMS), asimismo permitirán que ésta la procese, analice, compile, utilice y difunda; lo anterior conforme a los acuerdos que se concierten en términos del artículo 78 Bis 9 de la Ley.
+
+La autoridad aeronáutica, en los casos no previstos en el párrafo anterior, podrá concertar los acuerdos en materia de seguridad operacional necesarios para recopilar, analizar, compartir, utilizar y difundir la información que integrará el Sistema de gestión de la seguridad operacional (SMS).
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 200.
+
+La autoridad aeronáutica a través de la herramienta informática referida en el artículo anterior establecerá y mantendrá una base de datos sobre seguridad operacional bajo los estándares internacionales de seguridad en la protección de la información. El Sistema de gestión de la seguridad operacional (SMS), permitirá el intercambio de información con los proveedores de servicio y con otros países, para facilitar el análisis eficaz de la información obtenida sobre deficiencias de seguridad operacional reales o posibles, incluida la procedente de sus sistemas de notificación de accidentes e incidentes, a fin de determinar las medidas necesarias que permitan mejorar la seguridad operacional.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 201.
+
+La autoridad aeronáutica tendrá acceso a la información de los Sistemas de gestión de la seguridad operacional de los proveedores de servicio a través de visitas de vigilancia, en cumplimiento a sus atribuciones en materia de seguridad operacional.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 202.
+
+La autoridad aeronáutica establecerá en el Manual del programa estatal de seguridad operacional, los requisitos mínimos con relación a las competencias requeridas del personal designado para llevar a cabo las funciones de administración y vigilancia de seguridad operacional y tomará las medidas necesarias para proporcionar instrucción inicial y recurrente que resulte apropiada para mantener y mejorar las competencias de dicho personal de la Secretaría al nivel requerido.
+
+La vigilancia de seguridad operacional, para los efectos de este artículo, se entiende como las acciones establecidas por la autoridad aeronáutica en el Manual referido en el párrafo anterior, con la finalidad de asegurar que se cumpla con los niveles aceptables de seguridad operacional de los proveedores de servicio.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 203.
+
+La autoridad aeronáutica definirá los indicadores para medir el sistema de aviación del país, así como el nivel aceptable de rendimiento en materia de seguridad operacional, o por debajo del mismo del rendimiento en materia de seguridad operacional de cada uno de los indicadores que determine necesarios, y establecerá las medidas preventivas o correctivas a realizarse para la disminución del riesgo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 204.
+
+La autoridad aeronáutica establecerá un Comité de Seguridad operacional que se integrará en los términos que establezca el Manual del programa estatal de seguridad operacional.
+
+Dicho Comité de Seguridad Operacional tendrá por objeto implementar y dar seguimiento al cumplimiento de los objetivos del Programa estatal de seguridad operacional (SSP), e identificar, definir y mejorar los requisitos y las responsabilidades relativas a la creación y el mantenimiento del mismo.
+
+El Comité podrá convocar a representantes de los proveedores de servicio de la industria, para la atención de los asuntos relativos a temas de seguridad operacional a nivel sistema de aviación de México.
+
+Los integrantes del Comité de Seguridad Operacional y sus reglas de operación estarán definidos en el Manual de Seguridad Operacional del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 21 DE ENERO DE 2022)</small>
+
+### Capítulo II. De los Sistemas de Gestión de la Seguridad Operacional de los Proveedores de Servicio
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 205.
+
+Los proveedores de servicio deberán implementar y mantener un Sistema de gestión de seguridad operacional (SMS), como parte del Programa estatal de seguridad operacional (SSP). Cuando requieran contratar a un tercero, para la prestación de un servicio, serán responsables de garantizar el cumplimiento de las medidas de seguridad operacional que establezca su Sistema de gestión de la seguridad operacional (SMS), de conformidad con las normas oficiales mexicanas y, en lo no previsto por éstas, de conformidad con las disposiciones técnico administrativas que emita la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 206.
+
+La autoridad aeronáutica tendrá la facultad de requerir, en cualquier momento, a los proveedores de servicio, modificar su Sistema de gestión de la seguridad operacional (SMS), en caso de que éste no sea acorde al tamaño o dimensión de la organización, la naturaleza y/o complejidad de las operaciones o actividades aéreas que realicen.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 207.
+
+Los proveedores de servicio deberán elaborar e implementar un programa de capacitación y adiestramiento en materia de seguridad operacional, el cual debe ser apropiado respecto al nivel, funciones e involucramiento del personal con la aplicación del Sistema de gestión de la seguridad operacional (SMS); conforme a los lineamientos que emita la autoridad aeronáutica, de conformidad con las Normas Oficiales Mexicanas o, a falta de éstas, conforme a las Disposiciones Técnico Administrativas emitidas por la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 208.
+
+La autoridad aeronáutica vigilará el cumplimiento de cada una de las fases de implementación del Sistema de gestión de la seguridad operacional (SMS), de los proveedores de servicio, de acuerdo a su plan de implementación, de conformidad con la norma oficial mexicana y, en lo no previsto por ésta, conforme a las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+Una vez aprobadas las cuatro fases de implementación del Sistema de gestión de seguridad operacional (SMS), el proveedor de servicio deberá solicitar a la autoridad aeronáutica, la expedición del Certificado de Aprobación del Sistema de gestión de la seguridad operacional.
+
+La autoridad aeronáutica podrá revocar o suspender el Certificado de Aprobación del Sistema de gestión de la seguridad operacional (SMS), cuando los proveedores de servicio incumplan con las condiciones establecidas en el propio sistema y las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 209.
+
+La autoridad aeronáutica podrá convalidar los documentos equivalentes que acrediten la aprobación del Sistema de gestión de seguridad operacional (SMS), expedidos por instituciones de gobierno o particulares extranjeros, que cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional o una Asociación Internacional de Transporte Aéreo reconocida.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 210.
+
+La autoridad aeronáutica vigilará que los sistemas de gestión de la seguridad operacional de los proveedores de servicio que cuenten con el Certificado de Aprobación del Sistema de gestión de la seguridad operacional (SMS), mantengan las condiciones que la motivaron, asegurándose de su cumplimiento y eficiencia.
+
+La autoridad aeronáutica podrá revocar o suspender el Certificado de Aprobación del Sistema de gestión de la seguridad operacional (SMS), cuando los proveedores de servicio incumplan con las condiciones establecidas en el Certificado, en el propio sistema y en las disposiciones jurídicas aplicables.
+
+La autoridad aeronáutica, en caso de revocar o suspender el Certificado de Aprobación del Sistema de gestión de la seguridad operacional (SMS), establecerá las medidas que considere convenientes para el restablecimiento de las condiciones de seguridad operacional requeridas, de acuerdo con lo dispuesto en la Ley, el presente Reglamento y las demás disposiciones jurídicas que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 211.
+
+Si la autoridad aeronáutica, al analizar la información contenida en el sistema de recopilación y procesamiento de datos sobre seguridad operacional, identifica asuntos relacionados con la seguridad operacional considerados de interés para otros Estados, se facilitará dicha información sobre seguridad operacional lo antes posible, de conformidad con lo establecido en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 212.
+
+La autoridad aeronáutica promoverá el establecimiento de las redes informáticas para compartir o intercambiar información sobre seguridad operacional entre los proveedores de servicio del sector aeronáutico y la autoridad aeronáutica, para facilitar la compartición y el intercambio de información sobre seguridad operacional.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 213.
+
+La autoridad aeronáutica, con el fin de promover la seguridad operacional, tiene la facultad de examinar el nivel aceptable de rendimiento en materia de seguridad operacional de cada proveedor de servicios, por medio de visitas de vigilancia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 214.
+
+El solicitante, como parte del proceso de certificación, deberá presentar para su aprobación, un manual que contenga toda la información correspondiente a un Sistema de gestión de la seguridad operacional (SMS), previo al otorgamiento del certificado de aeródromo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 215.
+
+Cuando un proveedor de servicios contrata a una organización no sujeta a un Sistema de gestión de la seguridad operacional (SMS), los peligros y riesgos de seguridad operacional que podrían introducirse por el contratista serán tratados por el proveedor de servicios.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 216.
+
+Cualquier cambio significativo del sistema de servicio de tránsito aéreo relacionado con la seguridad operacional, incluidos los cambios en los procedimientos, solamente entrarán en vigor, después de que una evaluación de la seguridad operacional haya demostrado que satisface un nivel aceptable de rendimiento en materia de seguridad operacional y se haya consultado a los proveedores de servicio de tránsito aéreo, de conformidad con las disposiciones técnico administrativas emitidas por la autoridad aeronáutica.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 217.
+
+La autoridad aeronáutica propondrá y, en su caso, establecerá un grupo de coordinación, conformado con la representación de dicha autoridad, con autoridades de investigación de accidentes y con autoridades de aviación militar; con el objeto de establecer los procedimientos para la atención de los problemas relacionados con la seguridad operacional y temas relacionados con las responsabilidades derivadas de la implementación y mantenimiento del Programa estatal de seguridad operacional (SSP).
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 218.
+
+Los proveedores de servicio se asegurarán dentro de su organización, de que todos los titulares de licencias reguladas en la Ley, que incurran en los supuestos previstos en la fracción I del artículo 90 de la Ley, sean identificados y retirados de cualquier función en que se ponga en riesgo la seguridad operacional.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2022)</small>
+
+###### ARTÍCULO 219.
+
+La autoridad aeronáutica será quien dicte las disposiciones de seguridad operacional que deben de seguir y cumplir todas las demás dependencias o entidades de la Administración Pública Federal, Estatal y Municipal que estén relacionadas con la seguridad operacional de la aviación.
 
 ## TRANSITORIOS
 
@@ -2448,3 +3162,17 @@ D.O.F. 29 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE AVIACIÓN CIVIL”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA
+
+LEY DE AVIACIÓN CIVIL”].
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción del artículo 200, el cual entrará en vigor a los dieciocho meses posteriores.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los trámites iniciados con anterioridad a la entrada en vigor del presente Decreto, se llevarán a cabo de conformidad con la normatividad vigente al momento de su presentación hasta su conclusión.
+
+CUARTO. Dentro de los dieciocho meses posteriores a la entrada en vigor del presente Decreto, la autoridad aeronáutica deberá contar con la herramienta a que hace referencia el artículo 200.
