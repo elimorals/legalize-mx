@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-01-03"
+last_updated: "2022-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -645,13 +645,15 @@ IX. Declaratoria de clausura.
 
 Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas conforme a la Ley que en materia municipal expida el Poder Legislativo del Estado; todas tendrán el carácter de públicas excepto las que señale el presente Código como Secretas y serán transmitidas en vivo vía internet por parte de la Secretaría de Comunicación Social y deberán permanecer publicadas en la página oficial o a través de los medios electrónicos con los que cuenta el Municipio de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 26.
 
 Las Sesiones Ordinarias se celebrarán dentro de los primeros diez días hábiles de cada mes, los Regidores y Síndicos deberán ser citados al menos con tres días naturales de anticipación, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
 
-Las citaciones a los Regidores y Síndicos a fin de que concurran a cualquier tipo de Sesión serán realizadas por el Presidente Municipal, a través del Secretario del Honorable Ayuntamiento y Director General de Gobierno.
+Las citaciones a los Regidores y Síndicos a fin de que concurran a cualquier tipo de Sesión, serán realizadas por el Presidente Municipal, a través del Secretario del Honorable Ayuntamiento y Director General de Gobierno.
+
+Las Sesiones se llevarán a cabo de manera presencial o de manera virtual, a petición del Presidente Municipal.
 
 En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten los asuntos correspondientes, deberán ser enviados por correo electrónico el citatorio, el proyecto de orden del día, los dictámenes, acuerdos o proposiciones que se pretendan desahogar, así como sus respectivos documentos base o soporte.
 
@@ -659,7 +661,7 @@ Dicha documentación, se remitirá a las direcciones de correo electrónico que 
 
 La notificación de la celebración de la sesión, así como de la documentación respectiva, se tendrá por realizada el día y hora que obre en la cuenta de correo electrónico remitente, que para el efecto haya autorizado el Secretario del Honorable Ayuntamiento y Director General de Gobierno.
 
-A los miembros del Cabildo que incumplan su obligación de señalar dirección de correo electrónico en términos del párrafo segundo de este artículo, la documentación correspondiente les será enviada al correo electrónico institucional creado por la Dirección de Tecnologías de la información y comunicación del Municipio de Aguascalientes al personal que labora en el Municipio, así mismo les será entregada en la oficina que ocupen en el Palacio Municipal, a más tardar el día hábil siguiente al envío del correo y antes de que inicie la sesión respectiva, situación que no invalidará la notificación, la cual se tendrá por realizada en términos del párrafo anterior. En estos casos, la documentación podrá ser recibida por el personal adscrito a la oficina del Regidor o Síndico de que se trate.
+A los miembros del Cabildo que incumplan su obligación de señalar dirección de correo electrónico en términos del párrafo segundo de este artículo, la documentación correspondiente les será enviada al correo electrónico institucional creado por la Dirección de Tecnologías de la información y comunicación del Municipio de Aguascalientes al personal que labora en el Municipio, así mismo les será entregada en la oficina que ocupen en el Palacio Municipal, a más tardar el día hábil siguiente al envió del correo y antes de que inicie la sesión respectiva, situación que no invalidará la notificación la cual se tendrá por realizada en términos del párrafo anterior. En estos casos, la documentación podrá ser recibida por el personal adscrito a la oficina del Regidor o Síndico de que se trate.
 
 El Secretario del Honorable Ayuntamiento y Director General de Gobierno, atendiendo a la cantidad de la documentación, podrá determinar otros mecanismos para realizar la notificación respectiva, por medios digitales o impresos.
 
@@ -667,7 +669,7 @@ En todo caso, la documentación a tratar en la sesión quedará a disposición p
 
 Para que exista quórum legal se requiere la presencia de la mayoría de los miembros del Ayuntamiento, salvo en las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
 
-Si a la hora señalada para el inicio de la sesión no existe quórum legal, se esperará a los ausentes hasta por treinta minutos, transcurrido dicho tiempo sin que se logre el quórum, se podrá esperar el tiempo que acuerde la mayoría de los presentes, y transcurrido éste, la sesión podrá diferirse pudiéndose señalar en ese momento el día y hora para su desahogo, en cuyo caso los presentes se tendrán por notificados y a los ausentes se les comunicará mediante correo electrónico ajustándose al procedimiento de citación previsto en este artículo.
+Si a la hora señalada para el inicio de la sesión no existe quórum legal, se esperará a los ausentes hasta por treinta minutos, transcurrido dicho tiempo sin que se logre el quórum, se podrá esperar el tiempo que acuerde la mayoría de los presentes, y transcurrido este, la sesión podrá diferirse pudiéndose señalar en ese momento el día y hora para su desahogo, en cuyo caso los presentes se tendrán por notificados y a los ausentes se les comunicará mediante correo electrónico ajustándose al procedimiento de citación previsto en este artículo.
 
 Los casos suscitados durante las sesiones y que no estén previstos en el presente Código, serán resueltos por quien presida, y con la aprobación de la mayoría simple del Cabildo.
 
@@ -773,9 +775,13 @@ Dichos servidores públicos rendirán los informes solicitados y se les podrá c
 
 El Secretario del H. Ayuntamiento deberá estar presente durante la celebración de las Sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en las mismas, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas. Las faltas temporales del Secretario del H. Ayuntamiento serán suplidas por el Director de Asuntos Jurídicos del H. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 39.
 
-Las Sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, pudiendo efectuarse en lugar distinto, siempre que se declare, previamente, recinto oficial por el Cabildo.
+Las Sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, así mismo a petición del presiente (sic), se podrán llevar a cabo de manera virtual en la plataforma idónea.
+
+Las sesiones (sic) podrán efectuar en lugar distinto, siempre que se declare, previamente, recinto oficial por el Cabildo.
 
 ###### ARTÍCULO 40.
 
@@ -24392,3 +24398,11 @@ P.O. 3 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA A LOS ARTÍCULOS 619 Y 619 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “REFORMA A LOS ARTÍCULOS 26 Y 39 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal del Municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+
+SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
