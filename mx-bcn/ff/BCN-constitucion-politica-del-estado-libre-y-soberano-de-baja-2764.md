@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2022-01-13"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -4261,9 +4261,9 @@ QUINTO.- Las reformas contenidas en el inciso b) del artículo 58 de la Constitu
 
 SEXTO.- La limitante prevista en el articulo 60 fracción VIII de estas reformas en relación a que para ser Magistrado se requiere no haber sido Consejero de la Judicatura durante el año previo a la fecha en que deba ser nombrado, no será aplicable al Juez que actualmente integra el Consejo de la Judicatura.
 
-SEPTIMO.- Los Jueces en funciones durarán en su cargo el término para el que fueron designados, previa evaluación podrán ser ratificados en los términos del artículo 62 de estas reformas, pudiendo ejercer el cargo hasta por quince años previas las ratificaciones respectivas, pero en ningún caso podrán ejercer su cargo por mas de quince años, los cuales se computarán a partir de la entrada en vigor de estas reformas.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
 
-En su caso, el último periodo para el que sean ratificados deberá ajustarse al término máximo permitido para ocupar el cargo, por lo que dicho periodo podrá ser menor a cinco años.
+SÉPTIMO. La reforma contenida en el artículo 62 de la Constitución Política del Estado Libre y Soberano de Baja California, solo serán aplicables a los jueces que con posterioridad al día 2 de febrero de 2007 hayan sido nombrados.
 
 (NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ARTÍCULO OCTAVO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -5554,3 +5554,13 @@ Artículo Primero.- Aprobadas que sean las presentes reformas, túrnese a los Ay
 Artículo Segundo.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 Artículo Tercero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 70 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO 274, PUBLICADO EL 2 DE FEBRERO DE 2007, EN EL PERIÓDICO OFICIAL DEL ESTADO”.]
+
+PRIMERO. Una vez aprobada la presente reforma, túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
+
+TERCERO. La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
