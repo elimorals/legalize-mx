@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2021-10-28"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2015-01-06"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ORGANOS JURISDICCIONALES
 
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTICULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
+[NOTA 1: PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTICULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -95,13 +95,25 @@ III. Comisiones: Las señaladas en el Acuerdo General del Pleno del Consejo de l
 
 IV. Consejo: Consejo de la Judicatura Federal;
 
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+IV. Bis. Constancias: Acuses de recibo o documentos que acrediten la recepción de los oficios por parte de las autoridades;
+
 V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+V. Bis. Coordinación de Asesores: Coordinación de Asesores de la Presidencia;
 
 VI. Exhorto: Comunicación oficial de un órgano jurisdiccional a otro de igual jerarquía;
 
 VII. Exhorto Internacional o Carta Rogatoria: Comunicación oficial que se remita al extranjero o que se reciba de él;
 
 VIII. Despacho: Comunicación oficial de un órgano jurisdiccional a otro inferior;
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+VIII. Bis. Jefa o Jefe de la UNC: Jefa o Jefe de la Unidad de Notificadores Común;
 
 IX. Ley de Amparo: Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -113,9 +125,13 @@ XI. Libros de control: Los Libros de Gobierno que deberán llevar los órganos j
 
 XII. Órganos Jurisdiccionales: Tribunales de Circuito, juzgados de Distrito y Tribunales Laborales Federales;
 
-> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
-XII. Bis. Tribunal Laboral Federal: órgano jurisdiccional compuesto por Juezas y Jueces de Distrito Especializados en Materia de Trabajo;
+XII. Bis. SIRCA: Sistema de Control de Asistencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+XII. Ter. Tribunal Laboral Federal: Órgano jurisdiccional compuesto por Juezas y Jueces de Distrito Especializados en Materia de Trabajo;
 
 XIII. Pleno: Pleno del Consejo;
 
@@ -129,9 +145,13 @@ XVI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJ
 
 XVII. SISE: Sistema Integral de Seguimiento de Expedientes;
 
-> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
-XVII. BIS. SIGE: Sistema Integral de Gestión de Expedientes; y
+XVII. Bis. SIGE: Sistema Integral de Gestión de Expedientes;
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+XVII Ter. UNC: Unidades de Notificadores Comunes; y
 
 XVIII. Unidades Administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
 
@@ -313,7 +333,9 @@ Lo no previsto en este Capítulo será resuelto por la Comisión de Carrera Judi
 
 ### CAPÍTULO QUINTO. OFICINAS DE CORRESPONDENCIA COMÚN
 
-### CAPÍTULO SEXTO. CREACIÓN, FUNCIONAMIENTO Y SUPERVISIÓN DE LAS UNIDADES DE NOTIFICADORES COMUNES
+### CAPÍTULO SEXTO. UNIDADES DE NOTIFICADORES COMUNES
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 17.
 
@@ -1091,71 +1113,321 @@ Las disposiciones contenidas en este capítulo resultan aplicables tanto para la
 
 El personal de las oficialías de partes de los tribunales laborales federales que conozcan de asuntos individuales, entregarán a la persona que presente su escrito inicial, entendido éste como la demanda, contestación o comparecencia de terceros, el cuestionario generado con la intención de conocer diversos aspectos personales de las partes para estar en posibilidad de implementar los ajustes razonables ante una eventual situación de vulnerabilidad, así como para generar los indicadores que permitirán medir el desempeño del sistema de justicia laboral.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-#### SECCIÓN PRIMERA. LIBRO UNO DE JUICIOS DE AMPARO
+#### SECCIÓN PRIMERA. CREACIÓN, NATURALEZA Y FUNCIONAMIENTO
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 83.
 
-Los magistrados de Circuito o jueces de Distrito, por sí o a través de los coordinadores, podrán solicitar a la Comisión de Administración, la creación de las unidades de notificadores que consideren necesarias en el circuito o entidad federativa de que se trate, la que determinará si procede o no su establecimiento, previa la realización de los estudios que se estimen pertinentes y conforme a las disponibilidades presupuestales.
+Las UNC son unidades administrativas encargadas de la recepción, concentración, clasificación, entrega y devolución de las notificaciones por oficio a las autoridades en los juicios en que los órganos jurisdiccionales son competentes, incluidas a éstas cuando actúan como partes en los procedimientos ordinarios.
 
-La creación de una Unidad de Notificadores Común se hará mediante acuerdo de la Comisión de Administración, la que informará al Pleno de su determinación.
+Las UNC no podrán realizar notificaciones de diversa naturaleza a las señaladas en el párrafo que antecede.
+
+Los magistrados y magistradas de Circuito o jueces y juezas de Distrito, por sí o a través de las y los coordinadores, podrán solicitar a la Dirección General de Gestión Judicial, la creación de las UNC que consideren necesarias en el Circuito o entidad federativa.
+
+Dicha Dirección General, con visto bueno de la Coordinación de Asesores, y en atención a los estudios señalados en el artículo 84, someterá a consideración de la Comisión de Administración la propuesta para su aprobación.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 84.
 
-Las unidades de notificadores comunes se encargarán de la concentración, clasificación, entrega inmediata y devolución de las notificaciones por oficio, generadas por los órganos jurisdiccionales, en el circuito o entidad federativa que corresponda.
+Las UNC dependen administrativamente de la Dirección General de Gestión Judicial. Para su creación se deberá considerar:
+
+I. Las cargas de trabajo, para lo cual se revisará especialmente el número de oficios y el número de autoridades a notificar; y
+
+II. De forma enunciativa más no limitativa, las circunstancias siguientes:
+
+a) Ubicación de los órganos jurisdiccionales;
+
+b) Características territoriales;
+
+c) Distancia entre éstos y las autoridades;
+
+d) Condiciones de movilidad u otros elementos que incorporen información para la toma de decisiones; y
+
+e) Que se cuente con disponibilidad presupuestal.
+
+La estructura de las UNC se integrará por una Jefa o Jefe de (sic) UNC, el número de personas notificadoras que sean necesarias para cubrir la demanda de servicio y, en su caso, el personal operativo para su adecuado funcionamiento. Todo el personal de las UNC será considerado de confianza.
+
+A partir de los criterios antes expuestos, la citada Dirección General podrá proponer también cambios a su estructura con base en el seguimiento a su operación, así como a la evolución de las cargas de trabajo.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 85.
 
-Las unidades de notificadores comunes de nueva creación contarán con los servidores públicos y los medios materiales necesarios para cumplir sus funciones eficientemente, de conformidad con lo que disponga la Comisión de Administración, tomando en consideración las cargas de trabajo y las posibilidades presupuestales.
+La Jefa o Jefe de la UNC tiene las siguientes atribuciones:
+
+I. Coordinar y supervisar las actividades de recepción, registro, entrega de oficios a las autoridades y devolución de constancias a los órganos jurisdiccionales a los que brinda servicio;
+
+II. Utilizar los sistemas de gestión y seguimiento para el registro de sus actividades;
+
+III. Verificar que los registros en los sistemas se realicen adecuadamente y de manera oportuna;
+
+IV. Integrar y revisar el registro digital de los domicilios de las autoridades donde se acude a notificar;
+
+V. Revisar y validar las justificaciones o constancias que comuniquen a los órganos jurisdiccionales la imposibilidad para realizar una notificación;
+
+VI. Resguardar la información recibida por parte de los órganos jurisdiccionales con motivo de las funciones de la UNC;
+
+VII. Generar los reportes mensuales sobre los oficios recibidos para notificar, las notificaciones realizadas y las incidencias presentadas;
+
+VIII. Cumplir y vigilar que el personal a su cargo cumpla con las obligaciones encomendadas conforme al Manual General de Puestos del Consejo de la Judicatura Federal y el Manual Específico de Organización y de Puestos de la Dirección General de Gestión Judicial;
+
+IX. Informar oportunamente a la Dirección General de Gestión Judicial, de las ausencias del personal a su cargo, con el fin de que ésta adopte las acciones necesarias para cubrir las necesidades del servicio;
+
+X. De ser necesario, cubrir las ausencias del personal a su cargo;
+
+XI. Conservar el soporte documental en materia administrativa;
+
+XII. Informar a la Dirección General de Gestión Judicial de las solicitudes de licencias y sustituciones por maternidad, paternidad o enfermedad presentadas por las y los notificadores;
+
+XIII. Remitir la información solicitada por la Dirección General de Gestión Judicial;
+
+XIV. Informar a la Dirección General de Gestión Judicial de las conductas de las notificadoras y los notificadores, cuando advierta el incumplimiento de sus atribuciones, mediante escrito en el que, de manera fundada y motivada, acompañando las pruebas conducentes, señale las razones particulares del caso, para que, la citada Dirección, lo haga del conocimiento de la Contraloría del Consejo de la Judicatura Federal, para los efectos conducentes; y
+
+XV. Las demás que establezca la Dirección General de Gestión Judicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 85 Bis.
+
+Para ocupar el puesto de Jefa o Jefe de (sic) UNC se requiere:
+
+I. Contar con título y cédula profesional de licenciatura en Derecho;
+
+II. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
+
+III. Acreditar experiencia profesional mínima de un año en actividades relacionadas con la profesión;
+
+IV. Acreditar los exámenes de conocimientos y psicométricos;
+
+V. No haber sido condenada o condenado por delito doloso con sanción privativa de libertad mayor de un año; y
+
+VI. No estar inhabilitada o inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 86.
 
-Las unidades de notificadores operarán con un Jefe de la Unidad de Notificadores y con tantos auxiliares de actuario como sean necesarios, quienes tendrán la categoría y percepciones que se fijen en el presupuesto para esos cargos y que determine la Comisión de Administración.
+Las y los notificadores de las UNC contarán con las siguientes atribuciones:
+
+I. Auxiliar en las labores de la Jefa o Jefe de (sic) UNC dentro de su ámbito de competencia;
+
+II. Verificar que los oficios entregados por los órganos jurisdiccionales cuenten con firma y, en su caso, sello del órgano jurisdiccional, así como los anexos correspondientes;
+
+III. Apoyar en la recepción y revisión de documentos entregados por los órganos jurisdiccionales a la UNC;
+
+IV. Registrar, revisar y clasificar los datos de los oficios entregados por parte de los órganos jurisdiccionales en el sistema de gestión;
+
+V. Registrar la entrega de oficios a la autoridad en los sistemas de gestión que operen para tal efecto;
+
+VI. Alimentar y actualizar el registro digital de los domicilios de las autoridades a notificar;
+
+VII. Entregar los oficios a las autoridades, recibir los acuses de recepción y realizar su devolución a los órganos jurisdiccionales que la UNC presta servicio, de conformidad con el procedimiento establecido para tal efecto;
+
+VIII. Registrar o revisar los datos de la constancia en el sistema de gestión;
+
+IX. Elaborar las justificaciones que comuniquen a los órganos jurisdiccionales la imposibilidad para realizar una notificación;
+
+X. Cumplir con las obligaciones encomendadas conforme al Manual General de Puestos del Consejo de la Judicatura Federal y el Manual Específico de Organización y de Puestos de la Dirección General de Gestión Judicial; y
+
+XI. Las demás que establezca la Jefa o el Jefe de la UNC.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 86 Bis.
+
+Para ocupar el puesto de persona notificadora de (sic) UNC se requiere:
+
+I. Comprobar estudios de la licenciatura en derecho con 80% de créditos académicos;
+
+II. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
+
+III. Acreditar los exámenes de conocimientos y psicométricos;
+
+IV. No haber sido condenada o condenado por delito doloso con sanción privativa de libertad mayor de un año; y
+
+V. No estar inhabilitada o inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 87.
 
-El Jefe de la Unidad de Notificadores deberá proponer a la Comisión de Administración, los candidatos para ocupar las plazas vacantes de las unidades de notificadores.
+Las UNC además de los días de descanso señalados en el Capítulo Segundo, del Título Segundo de este Acuerdo, tampoco laborarán cuando la totalidad de los órganos jurisdiccionales a los que presta servicio suspendan sus labores. En este último supuesto la Jefa o Jefe de la UNC lo informará de inmediato a la Dirección General de Gestión Judicial.
 
-Es facultad de la Comisión de Administración determinar la remoción de los servidores públicos adscritos a dichas unidades, así como decidir sobre la prórroga de los nombramientos respectivos. El Jefe de la Unidad de Notificadores o el Coordinador de magistrados de Circuito o jueces de Distrito, indistintamente, podrán solicitar la remoción de alguno de los empleados o auxiliares de actuario, mediante escrito dirigido a la Comisión de Administración en el que de manera fundada y motivada, acompañando las pruebas conducentes, señalen las razones particulares del caso.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 88.
 
-El Jefe de la Unidad de Notificadores será responsable de establecer los mecanismos de clasificación de la correspondencia y división del circuito o entidad federativa por zonas geográficas, de tal manera que se agilice la entrega y devolución a los órganos jurisdiccionales de las constancias relativas a las notificaciones por oficio, sin exceder los plazos legales; de todo lo cual, dará cuenta al Coordinador de magistrados de Circuito o de jueces de Distrito, según corresponda.
+En el caso de que un órgano jurisdiccional suspenda sus actividades, la UNC no realizará la entrega de los oficios de dicho órgano en tanto no se reanuden términos.
+
+El órgano jurisdiccional deberá informar de manera oportuna dicha suspensión a la Jefa o Jefe de la UNC.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 89.
 
-Corresponde a la Comisión de Administración el nombramiento del Jefe de la Unidad de Notificadores mediante la formación de una terna, para lo cual se tomará la opinión del Coordinador de magistrados de Circuito o de jueces de Distrito, según se trate.
+El horario de las UNC será de las siete a las dieciséis horas, considerando una hora para el consumo de alimentos. La Dirección General de Gestión Judicial podrá ajustar este horario por necesidades del servicio o a propuesta de la Jefa o Jefe de (sic) UNC, cuando justifique las razones para ello, sin que implique exceder un horario prudente y que, en ningún caso, deberá generar una práctica reiterada.
 
-El nombramiento inicial de Jefe de la Unidad de Notificadores no podrá exceder del término de seis meses ni ser menor de tres meses, según lo determine la Comisión de Administración.
+Todas las personas integrantes de las UNC, deberán registrar su horario de entrada y salida en el SIRCA o en los sistemas electrónicos respectivos, con excepción de los supuestos previstos en los acuerdos generales o por las áreas competentes.
 
-Antes del vencimiento del nombramiento temporal, la Dirección General de Recursos Humanos pondrá a consideración de la Comisión de Administración, la prórroga por tiempo indefinido del Jefe de la Unidad de Notificadores.
+En el caso de que las o los notificadores finalicen la entrega de oficios fuera de su horario de salida o bien, treinta minutos antes de la finalización de éste, podrá omitir su registro en el SIRCA y justificar su salida a través del sistema de gestión, siempre y cuando cuente con el visto bueno, en el propio sistema, de la Jefa o Jefe de la UNC.
 
-La terminación anticipada del nombramiento, por cualquier causa, será resuelta por la Comisión de Administración.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 90.
 
-La creación de una unidad de notificadores no impide que los titulares de los órganos jurisdiccionales puedan ordenar la entrega directa, por conducto de los servidores públicos a su cargo, de los oficios dirigidos a las autoridades responsables; las que tengan el carácter de tercero interesado y al Ministerio Público de la Federación, en caso de que lo consideren conveniente.
+Las UNC auxiliarán a cada uno de los órganos jurisdiccionales a los que prestan servicio, en la entrega física de oficios a las autoridades en los juicios del conocimiento de los órganos jurisdiccionales que administra el Consejo.
+
+Las UNC sólo podrán realizar notificaciones en los domicilios de las autoridades a notificar, conforme a la legislación aplicable.
+
+El apoyo se limitará a la recepción de oficios, clasificación, entrega física a las autoridades y la devolución de las constancias al órgano jurisdiccional correspondiente, a través del personal asignado.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 91.
 
-Corresponde a la Visitaduría Judicial inspeccionar, de manera integral, el funcionamiento de las unidades de notificadores y supervisar las conductas de los integrantes de éstas, para lo cual realizarán, al menos una vez al año, una revisión del funcionamiento de la unidad recabando para ello, la información que pueda proporcionar el Coordinador de magistrados de Circuito o jueces de Distrito, según el caso. La inspección se realizará para el efecto de determinar la prórroga del servidor público en el cargo.
+La función de las UNC no limita que las y los titulares de los órganos jurisdiccionales puedan ordenar la entrega directa de oficios, por conducto de las personas servidoras públicas a su cargo, cuando así lo estimen pertinente para agilizar la substanciación de los procedimientos de su competencia.
 
-El Pleno o la Comisión de Administración podrán en cualquier momento ordenar la práctica de visitas extraordinarias a las unidades de notificadores, por parte de la Visitaduría Judicial.
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
-#### SECCIÓN SEGUNDA. LIBRO DOS DE CAUSAS PENALES
+#### SECCIÓN SEGUNDA. OPERACIÓN DE LAS UNC
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 92.
 
-Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión de Administración, la que de estimarlo conveniente podrá someter el asunto a la consideración del Pleno.
+Las UNC realizarán sus actividades de conformidad con lo siguiente:
 
-#### SECCIÓN TERCERA. LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES
+I. Operarán con los sistemas de gestión necesarios para facilitar la entrega de oficios, en los cuales se registrará:
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+a) La fecha de recepción de oficios;
 
-#### SECCIÓN CUARTA. LIBRO CUATRO DE REGISTRO DE COMUNICACIONES OFICIALES ENVIADAS
+b) El órgano jurisdiccional que lo emite;
 
-#### SECCIÓN QUINTA. LIBRO CINCO DE COMUNICACIONES OFICIALES RECIBIDAS
+c) El nombre o denominación de la autoridad;
+
+d) La fecha de entrega;
+
+e) La fecha de devolución de las constancias al órgano emisor;
+
+f) Las incidencias presentadas; y
+
+g) La demás información estratégica para el seguimiento de las actividades;
+
+II. Mantendrán los registros actualizados en los sistemas de gestión que operen en las UNC, bajo supervisión de la Jefa o Jefe respectivo;
+
+III. Recibirán los oficios a ser diligenciados mediante los sistemas de gestión establecidos para el registro respectivo por parte de los órganos jurisdiccionales auxiliados.
+
+Al respecto, se notificarán durante el día de su recepción aquellos oficios que se registren en los sistemas correspondientes hasta antes de las ocho horas.
+
+Los oficios registrados a partir de las ocho horas con un minuto serán notificados al día hábil siguiente.
+
+Tratándose de oficios expedidos en juicios de amparo en materia penal, los órganos jurisdiccionales deberán entregarlos a la UNC, a más tardar, el día siguiente del en que se dicte la resolución, antes de las ocho horas, a fin de notificarlos el mismo día, para cumplir lo establecido en el artículo 24, primer párrafo, de la Ley de Amparo;
+
+IV. La notificación de los oficios a las autoridades sólo se realizará en los horarios de funcionamiento de la UNC;
+
+V. Sólo de manera excepcional y por causas ajenas a la operación de la UNC, se podrá posponer un día hábil la notificación de oficios. Cuando ello ocurra, deberá registrarse la causa del diferimiento en el sistema de gestión;
+
+VI. Al recibir los oficios y anexos registrados por los órganos jurisdiccionales, las y los notificadores de las UNC deberán revisar que:
+
+a) Los documentos sean legibles y se encuentren en buen estado físico. En caso de que estén notoriamente dañados, mutilados o con cualquier otra anomalía física que pueda dar motivo a su rechazo por la autoridad, se asentará lo correspondiente en el sistema de gestión, antes de devolverlo al órgano jurisdiccional respectivo;
+
+b) Los oficios estén firmados y sellados por los órganos jurisdiccionales para ser notificados. El incumplimiento de este requisito se asentará en el sistema de gestión, tras lo cual se devolverá al órgano jurisdiccional en conjunto con las constancias de los oficios entregados;
+
+c) Una vez que el órgano jurisdiccional subsane la omisión o corrija la deficiencia, podrá entregar nuevamente el oficio a la UNC, registrando la fecha de entrega en el sistema de gestión; y
+
+d) Los órganos jurisdiccionales, bajo ninguna circunstancia, podrán entregar a las UNC documentos de valor, tales como billetes de depósito, pólizas, numerario, testimonios notariales, o cualquier otro documento que requiera la fe de una actuaria o actuario judicial;
+
+VII. La UNC integrará un registro digital de domicilios actualizados donde se realicen las entregas de los oficios, para lo cual podrá apoyarse de los órganos jurisdiccionales. En cada registro podrán señalarse datos adicionales que faciliten la entrega, como referencias y señalizaciones específicas;
+
+VIII. En los casos en que los domicilios de las autoridades a notificar estén a una distancia de la UNC que implique la afectación en el funcionamiento óptimo de dicha unidad administrativa, previa consulta a la Dirección General de Gestión Judicial, la UNC correspondiente dará aviso a los órganos jurisdiccionales, quienes deberán privilegiar la entrega de los oficios a través de servicio de mensajería;
+
+IX. En caso de que se tenga registro o evidencia de que el domicilio con el que se cuenta no corresponde a la autoridad, a quien se le deba realizar la entrega o bien éste sea inexistente, la UNC deberá devolver los oficios al órgano jurisdiccional, a efecto de que adopte las medidas necesarias para evitar dilaciones. Esta circunstancia deberá informarla a todos los órganos jurisdiccionales a los que presta servicio para evitar el desaprovechamiento de recursos y realizará el registro correspondiente en los sistemas de gestión;
+
+X. Las UNC contarán con un sistema automatizado de gestión que genere rutas, que se asignarán de forma aleatoria y eficiente, de acuerdo con el número de personas notificadoras, autoridades y los domicilios de dichas autoridades. Este sistema permitirá el seguimiento a la ruta generada y facilitará la gestión de las notificaciones. Además, permitirá registrar el número de oficios entregados y la salida de la dependencia, a fin de dar seguimiento puntual al desempeño de sus actividades;
+
+XI. Las y los notificadores registrarán en el sistema la finalización de la ruta correspondiente, así como las notificaciones realizadas en dichas jornadas, las incidencias presentadas y el registro de información de aquellos oficios que no pudieron notificarse;
+
+XII. La devolución de las constancias y de los oficios que no pudieron ser notificados, se hará en los horarios de funcionamiento de la UNC, a más tardar al día hábil siguiente de su notificación o de aquel en que haya quedado registrada la imposibilidad de su entrega, y deberán entregarse directamente al personal que el órgano jurisdiccional designe para tal efecto;
+
+XIII. Las notificaciones electrónicas serán realizadas directamente por los órganos jurisdiccionales, ya sea a través del Portal de Servicios del Poder Judicial de la Federación, de la interconexión de sistemas de gestión con otras instituciones con las que se haya suscrito el correspondiente convenio o aquellas enviadas por correo electrónico; y
+
+XIV. El sistema de gestión generará dentro de los primeros cinco días hábiles de cada mes un reporte sobre la cantidad de oficios recibidos por cada uno de los órganos jurisdiccionales a los que brindan servicio, el número, la denominación de las autoridades notificadas en el mes inmediato anterior, y el motivo de aquellos oficios que no pudieron entregarse y demás incidencias. Lo anterior tendrá como finalidad dar seguimiento a la labor de las UNC.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+#### SECCIÓN TERCERA. CONVOCATORIAS
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 92 Bis.
+
+La Dirección General de Gestión Judicial con apoyo de la Escuela Federal de Formación Judicial, emitirá convocatorias públicas abiertas, dirigidas a personas profesionales y estudiantes de derecho con 80% de créditos académicos, a fin de promover las posibilidades de participación y empleo que se ofrecen en las UNC en los diversos circuitos y residencias.
+
+I. Las convocatorias se acompañarán de campañas de difusión nacional o regional en escuelas y universidades que impartan la licenciatura en derecho, asociaciones profesionales de abogados y bolsas de trabajo, con el fin de que quien cubra el perfil y requisitos del puesto, se encuentre en aptitud de incorporarse a las UNC en los lugares en que se requiera;
+
+II. La Dirección General de Comunicación Social y Vocería colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. La Coordinación de Administración Regional, así como la Escuela Federal de Formación Judicial y sus extensiones regionales apoyarán a la Dirección General de Gestión Judicial en la logística y trámites para su implementación en los diversos circuitos y regiones;
+
+III. Las personas aspirantes que cubran el perfil requerido y obtengan un resultado satisfactorio en el proceso de evaluación, se incorporarán a un listado de candidaturas para ingresar a alguna de las UNC, de acuerdo con el número de vacantes disponibles;
+
+IV. La Dirección General de Gestión Judicial tramitará ante la Dirección General de Recursos Humanos previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia, la expedición de nombramientos de las y los candidatos para ocupar las plazas vacantes de las UNC; así como determinar la prórroga de los nombramientos respectivos; y la remoción del personal adscrito a dichas unidades;
+
+V. En caso de que exista un mayor número de personas con resultados satisfactorios, la Dirección General de Gestión Judicial será responsable de mantener un registro de personas aspirantes para proponer como candidatas en caso de que posteriormente se tenga una vacante disponible, siempre y cuando la vigencia de su evaluación no exceda el plazo de un año y cumpla con los requisitos del puesto previstos en el Manual General de Puestos del Consejo de la Judicatura Federal;
+
+VI. Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a las y los aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el protocolo que al efecto expida la Dirección General de Gestión Judicial; y
+
+VII. En todo momento se procurará la integración paritaria de las UNC.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 92 Ter.
+
+La Dirección General de Gestión Judicial solicitará a su homóloga de Recursos Humanos, a las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, según corresponda, la aplicación de los exámenes de conocimientos y psicométricos a las y los candidatos a ocupar las plazas en las UNC, así como su evaluación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+#### SECCIÓN CUARTA. OTORGAMIENTO DE LICENCIAS Y PERIODOS VACACIONALES
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 92 Quater.
+
+La Dirección General de Gestión Judicial, previo visto bueno de la Coordinación de Asesores, autorizará las licencias del personal de las UNC, conforme a lo dispuesto por la Ley Orgánica.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 92 Quinquies.
+
+De acuerdo con lo establecido por la Ley Orgánica, el personal de las UNC disfrutará de dos períodos vacacionales al año entre los períodos de sesiones del Consejo. Los períodos vacacionales de las mencionadas personas servidoras públicas podrán ser modificados por necesidades del servicio y serán autorizados por la Dirección General de Gestión Judicial, siempre y cuando existan causas justificadas para ello.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+#### SECCION QUINTA. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 92 Sexies.
+
+La Dirección General de Gestión Judicial si con motivo de la supervisión al funcionamiento de las UNC, detectara, por parte del personal adscrito a dichas UNC, un probable incumplimiento de sus obligaciones o la posible comisión de alguna irregularidad que pudiera actualizar alguna causa de responsabilidad administrativa presentará la denuncia correspondiente ante la Contraloría del Consejo de la Judicatura Federal.
+
+Lo anterior, con independencia de las responsabilidades que en materia penal, civil y laboral pudieran configurarse.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 92 Septies.
+
+La remoción de las servidoras y los servidores públicos de las UNC corresponde a la Comisión de Administración, previo dictamen que para el efecto presente la Dirección General de Gestión Judicial, por conducto de la Coordinación de Asesores, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+
+###### Artículo 92 Octies.
+
+Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión de Administración, la que, de estimarlo conveniente, podrá someter el asunto a la consideración del Pleno.”
 
 ### CAPÍTULO SEGUNDO. LIBROS PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES
 
@@ -1323,9 +1595,7 @@ Los juzgados de Distrito especializados en ejecución de penas, deberán llevar 
 
 Los tribunales laborales federales, deberán llevar únicamente los libros que en el artículo anterior se encuentran señalados como libros tres, cuatro, cinco, ocho y nueve.
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
+#### SECCIÓN PRIMERA. LIBRO UNO DE JUICIOS DE AMPARO
 
 ###### Artículo 104.
 
@@ -1401,7 +1671,7 @@ Finalmente, también podrán anotarse los datos relativos al supuesto en que la 
 
 Este libro se llevará conforme a la tabla número uno del anexo de este Acuerdo.
 
-#### SECCIÓN SÉPTIMA. LIBRO SIETE DE PROCEDIMIENTOS DE EXTRADICIÓN
+#### SECCIÓN SEGUNDA. LIBRO DOS DE CAUSAS PENALES
 
 ###### Artículo 108.
 
@@ -1469,7 +1739,9 @@ Cuando se trate de averiguaciones con dos o más inculpados, las columnas previs
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-#### SECCIÓN OCTAVA. LIBRO OCHO DE CERTIFICADOS DE DEPÓSITO
+#### SECCIÓN TERCERA. LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 111.
 
@@ -1525,7 +1797,7 @@ También podrán anotarse los datos relativos al amparo directo que se llegase a
 
 Este libro se llevará conforme a la tabla número tres del anexo de este Acuerdo.
 
-#### SECCIÓN NOVENA. LIBRO NUEVE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
+#### SECCIÓN CUARTA. LIBRO CUATRO DE REGISTRO DE COMUNICACIONES OFICIALES ENVIADAS
 
 ###### Artículo 113.
 
@@ -1565,7 +1837,7 @@ También se podrá anotar cualquier dato que sin estar contenido en los apartado
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA. LIBRO DIEZ DE OBJETOS QUE PUEDEN SER PRODUCTO, INSTRUMENTO U OBJETO DE DELITOS
+#### SECCIÓN QUINTA. LIBRO CINCO DE COMUNICACIONES OFICIALES RECIBIDAS
 
 ###### Artículo 115.
 
@@ -1575,7 +1847,9 @@ Este libro se llevará conforme a la tabla número cuatro del anexo de este Acue
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE ARMAS DE FUEGO
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 116.
 
@@ -1619,7 +1893,7 @@ TABLA 5.
 
 > <small>[N. DE E. VÉASE TABLA 5 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, PÁGINA 90.]</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE NARCÓTICOS
+#### SECCIÓN SÉPTIMA. LIBRO SIETE DE PROCEDIMIENTOS DE EXTRADICIÓN
 
 ###### Artículo 117.
 
@@ -1649,7 +1923,7 @@ XI. Observaciones: podrán anotarse todos aquellos datos que sin estar comprendi
 
 Este libro se llevará conforme a la tabla número seis del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA TERCERA. LIBRO TRECE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN
+#### SECCIÓN OCTAVA. LIBRO OCHO DE CERTIFICADOS DE DEPÓSITO
 
 ###### Artículo 118.
 
@@ -1697,7 +1971,7 @@ También podrá anotarse la fecha en que la autoridad exactora acuse el recibo d
 
 Este libro se llevará conforme a la tabla número siete del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA CUARTA. LIBRO CATORCE DE AUDIENCIAS DE INFORMACIÓN A LAS PARTES SOBRE PUNTOS DEL PROCEDIMIENTO
+#### SECCIÓN NOVENA. LIBRO NUEVE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
 
 ###### Artículo 120.
 
@@ -1729,7 +2003,7 @@ También podrá anotarse la fecha en que la autoridad exactora acuse el recibo d
 
 Este libro se llevará conforme a la tabla número ocho del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA QUINTA. LIBRO QUINCE DE SOLICITUDES RELACIONADAS CON LA EJECUCIÓN DE LA PENA Y REPARACIÓN DEL DAÑO
+#### SECCIÓN DÉCIMA. LIBRO DIEZ DE OBJETOS QUE PUEDEN SER PRODUCTO, INSTRUMENTO U OBJETO DE DELITOS
 
 ###### Artículo 121.
 
@@ -1781,7 +2055,7 @@ VII. Observaciones: se asentarán aquellos datos que sin estar comprendidos en l
 
 Este libro se llevará conforme a la tabla número nueve del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA SEXTA. LIBRO DIECISÉIS DE ASUNTOS EN REVISIÓN
+#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE ARMAS DE FUEGO
 
 ###### Artículo 123.
 
@@ -1813,7 +2087,7 @@ VIII. Observaciones: se anotarán aquellos datos que sin estar comprendidos en l
 
 Este libro se llevará conforme a la tabla número diez del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA SÉPTIMA. LIBRO DIECISIETE DE FIRMAS DE SENTENCIADOS QUE DISFRUTAN DE ALGÚN BENEFICIO O SUSTITUTIVO DE LA PENA
+#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE NARCÓTICOS
 
 ###### Artículo 125.
 
@@ -1851,7 +2125,7 @@ XII. Observaciones: se podrá asentar el número de oficio y su fecha por el que
 
 Este libro se llevará conforme a la tabla número once del anexo de este Acuerdo.
 
-#### SECCIÓN PRIMERA. LIBRO UNO DE APELACIONES PENALES
+#### SECCIÓN DÉCIMA TERCERA. LIBRO TRECE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN
 
 ###### Artículo 127.
 
@@ -1889,7 +2163,7 @@ También se podrán anotar los datos relativos al supuesto en que se conceda alg
 
 Este libro se llevará conforme a la tabla número doce del anexo de este Acuerdo.
 
-#### SECCIÓN SEGUNDA. LIBRO DOS DE APELACIONES CIVILES Y ADMINISTRATIVAS
+#### SECCIÓN DÉCIMA CUARTA. LIBRO CATORCE DE AUDIENCIAS DE INFORMACIÓN A LAS PARTES SOBRE PUNTOS DEL PROCEDIMIENTO
 
 ###### Artículo 129.
 
@@ -1907,7 +2181,7 @@ V. Observaciones: en su caso, se anotará algún dato que se juzgue conveniente.
 
 Este libro se llevará conforme a la tabla número trece del anexo de este Acuerdo.
 
-#### SECCIÓN TERCERA. LIBRO TRES DE DENEGADAS APELACIONES
+#### SECCIÓN DÉCIMA QUINTA. LIBRO QUINCE DE SOLICITUDES RELACIONADAS CON LA EJECUCIÓN DE LA PENA Y REPARACIÓN DEL DAÑO
 
 ###### Artículo 130.
 
@@ -1949,7 +2223,7 @@ IX. Observaciones: deberá anotarse cualquier dato que se juzgue conveniente que
 
 Este libro se llevará conforme a la tabla número catorce del anexo de este Acuerdo.
 
-#### SECCIÓN CUARTA. LIBRO CUATRO DE QUEJAS
+#### SECCIÓN DÉCIMA SEXTA. LIBRO DIECISÉIS DE ASUNTOS EN REVISIÓN
 
 ###### Artículo 131.
 
@@ -1987,7 +2261,7 @@ IV. Observaciones: se podrán anotar todos los datos que sin estar contenidos en
 
 Este libro se llevará conforme a la tabla número quince del anexo de este Acuerdo.
 
-#### SECCIÓN QUINTA. LIBRO CINCO DE JUICIOS DE AMPARO INDIRECTO
+#### SECCIÓN DÉCIMA SÉPTIMA. LIBRO DIECISIETE DE FIRMAS DE SENTENCIADOS QUE DISFRUTAN DE ALGÚN BENEFICIO O SUSTITUTIVO DE LA PENA
 
 ###### Artículo 132.
 
@@ -2053,7 +2327,7 @@ XI. Libro once: de pólizas de fianza y garantías diversas; y
 
 XII. Libro doce: de firmas de procesados en libertad provisional bajo caución, concedida en segunda instancia.
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE COMUNICACIONES OFICIALES ENVIADAS
+#### SECCIÓN PRIMERA. LIBRO UNO DE APELACIONES PENALES
 
 ###### Artículo 135.
 
@@ -2101,7 +2375,7 @@ V. Observaciones: se podrán anotar todos los datos que sin estar contenidos en 
 
 Este libro se llevará conforme a la tabla número diecisiete del anexo de este Acuerdo.
 
-#### SECCIÓN SÉPTIMA. LIBRO SIETE DE COMUNICACIONES OFICIALES RECIBIDAS
+#### SECCIÓN SEGUNDA. LIBRO DOS DE APELACIONES CIVILES Y ADMINISTRATIVAS
 
 ###### Artículo 136.
 
@@ -2151,7 +2425,7 @@ V. Observaciones: se podrán anotar todos los datos que sin estar contenidos en 
 
 Este libro se llevará conforme a la tabla número dieciocho del anexo de este Acuerdo.
 
-#### SECCIÓN OCTAVA. LIBRO OCHO DE EXCUSAS Y RECUSACIONES
+#### SECCIÓN TERCERA. LIBRO TRES DE DENEGADAS APELACIONES
 
 ###### Artículo 137.
 
@@ -2193,7 +2467,7 @@ XI. Observaciones: se podrá anotar cualquier otro dato que sin estar contenido 
 
 Este libro se llevará conforme a la tabla número diecinueve del anexo de este Acuerdo.
 
-#### SECCIÓN NOVENA. LIBRO NUEVE DE CONFLICTOS COMPETENCIALES
+#### SECCIÓN CUARTA. LIBRO CUATRO DE QUEJAS
 
 ###### Artículo 138.
 
@@ -2223,7 +2497,7 @@ También podrá anotarse cualquier otro dato que, sin estar contenido en los apa
 
 Este libro se llevará conforme a la tabla número veinte del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA. LIBRO DIEZ DE CERTIFICADOS DE DEPÓSITO
+#### SECCIÓN QUINTA. LIBRO CINCO DE JUICIOS DE AMPARO INDIRECTO
 
 ###### Artículo 139.
 
@@ -2231,7 +2505,7 @@ El libro de juicios de amparo indirecto constará exactamente del mismo número 
 
 Este libro se llevará conforme a la tabla número uno del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
+#### SECCIÓN SEXTA. LIBRO SEIS DE COMUNICACIONES OFICIALES ENVIADAS
 
 ###### Artículo 140.
 
@@ -2239,7 +2513,7 @@ El libro de comunicaciones oficiales enviadas se integrará del mismo número de
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN CONCEDIDA EN SEGUNDA INSTANCIA
+#### SECCIÓN SÉPTIMA. LIBRO SIETE DE COMUNICACIONES OFICIALES RECIBIDAS
 
 ###### Artículo 141.
 
@@ -2247,7 +2521,7 @@ El libro de comunicaciones oficiales recibidas se integrará con el mismo númer
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN PRIMERA. LIBRO UNO DE AMPARO DIRECTO
+#### SECCIÓN OCTAVA. LIBRO OCHO DE EXCUSAS Y RECUSACIONES
 
 ###### Artículo 142.
 
@@ -2289,7 +2563,7 @@ IX. Observaciones: se anotará cualquier otro dato que, sin estar contenido en l
 
 Este libro se llevará conforme a la tabla número veintiuno del anexo de este Acuerdo.
 
-#### SECCIÓN SEGUNDA. LIBRO DOS DE ASUNTOS EN REVISIÓN
+#### SECCIÓN NOVENA. LIBRO NUEVE DE CONFLICTOS COMPETENCIALES
 
 ###### Artículo 144.
 
@@ -2323,7 +2597,7 @@ También se podrá asentar cualquier otro dato que, sin estar contenido en los a
 
 Este libro se llevará conforme a la tabla número veintidós del anexo de este Acuerdo.
 
-#### SECCIÓN TERCERA. LIBRO TRES DE RECURSOS DE QUEJA
+#### SECCIÓN DÉCIMA. LIBRO DIEZ DE CERTIFICADOS DE DEPÓSITO
 
 ###### Artículo 146.
 
@@ -2331,7 +2605,7 @@ El libro de certificados de depósito constará exactamente del mismo número de
 
 Este libro se llevará conforme a la tabla número siete del anexo de este Acuerdo.
 
-#### SECCIÓN CUARTA. LIBRO CUATRO DE COMUNICACIONES OFICIALES ENVIADAS
+#### SECCIÓN DÉCIMA PRIMERA. LIBRO ONCE DE PÓLIZAS DE FIANZA Y GARANTÍAS DIVERSAS
 
 ###### Artículo 147.
 
@@ -2339,7 +2613,7 @@ El libro de pólizas de fianza y garantías diversas constará exactamente del m
 
 Este libro se llevará conforme a la tabla número ocho del anexo de este Acuerdo.
 
-#### SECCIÓN QUINTA. LIBRO CINCO DE COMUNICACIONES OFICIALES RECIBIDAS
+#### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN CONCEDIDA EN SEGUNDA INSTANCIA
 
 ###### Artículo 148.
 
@@ -2379,7 +2653,7 @@ X. Libro diez: de recursos de revisión contencioso-administrativa. En el supues
 
 Los tribunales Colegiados especializados en las materias penal, civil y laboral, llevarán todos los libros que se mencionan en el artículo anterior, excepto el nueve y diez; además los tribunales especializados en materia administrativa deberán llevar también los libros nueve y diez.
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE RECURSOS DE RECLAMACIÓN
+#### SECCIÓN PRIMERA. LIBRO UNO DE AMPARO DIRECTO
 
 ###### Artículo 151.
 
@@ -2437,7 +2711,7 @@ De igual manera podrán anotarse las cuestiones relativas a la cumplimentación 
 
 Este libro se llevará conforme a la tabla número veintitrés del anexo de este Acuerdo.
 
-#### SECCIÓN SÉPTIMA. LIBRO SIETE DE EXCUSAS Y RECUSACIONES
+#### SECCIÓN SEGUNDA. LIBRO DOS DE ASUNTOS EN REVISIÓN
 
 ###### Artículo 153.
 
@@ -2477,7 +2751,7 @@ También podrán anotarse la letra o el número con el que se identifique intern
 
 Este libro se llevará conforme a la tabla número veinticuatro del anexo de este Acuerdo.
 
-#### SECCIÓN OCTAVA. LIBRO OCHO DE CONFLICTOS COMPETENCIALES
+#### SECCIÓN TERCERA. LIBRO TRES DE RECURSOS DE QUEJA
 
 ###### Artículo 155.
 
@@ -2519,7 +2793,7 @@ También se podrán anotar la letra o el número con el que se identifique inter
 
 Este libro se llevará conforme a la tabla número veinticinco del anexo de este Acuerdo.
 
-#### SECCIÓN NOVENA. LIBRO NUEVE DE RECURSOS DE REVISIÓN FISCAL
+#### SECCIÓN CUARTA. LIBRO CUATRO DE COMUNICACIONES OFICIALES ENVIADAS
 
 ###### Artículo 157.
 
@@ -2527,7 +2801,7 @@ El libro de comunicaciones oficiales enviadas constará del mismo número de col
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN DÉCIMA. LIBRO DIEZ DE RECURSO DE REVISIÓN CONTENCIOSO-ADMINISTRATIVA
+#### SECCIÓN QUINTA. LIBRO CINCO DE COMUNICACIONES OFICIALES RECIBIDAS
 
 ###### Artículo 158.
 
@@ -2535,7 +2809,7 @@ El libro de comunicaciones oficiales recibidas se integrará con el mismo númer
 
 Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
 
-#### SECCIÓN PRIMERA. INDICADORES DE INFORMACIÓN ESTADÍSTICA
+#### SECCIÓN SEXTA. LIBRO SEIS DE RECURSOS DE RECLAMACIÓN
 
 ###### Artículo 159.
 
@@ -2571,7 +2845,7 @@ También se podrá anotar la letra o el número con el que se identifique intern
 
 Este libro se llevará conforme a la tabla número veintiséis del anexo de este Acuerdo.
 
-#### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
+#### SECCIÓN SÉPTIMA. LIBRO SIETE DE EXCUSAS Y RECUSACIONES
 
 ###### Artículo 161.
 
@@ -2607,7 +2881,7 @@ También podrá anotarse cualquier otro dato que, sin estar contenido en los apa
 
 Este libro se llevará conforme a la tabla número veintisiete del anexo de este Acuerdo.
 
-#### SECCIÓN TERCERA. PROCESAMIENTO DE INFORMACIÓN
+#### SECCIÓN OCTAVA. LIBRO OCHO DE CONFLICTOS COMPETENCIALES
 
 ###### Artículo 163.
 
@@ -2619,7 +2893,7 @@ El libro de registro de conflictos competenciales constará exactamente del mism
 
 Este libro se llevará conforme a la tabla número veintidós del anexo de este Acuerdo.
 
-#### SECCIÓN CUARTA. PRESENTACIÓN DE RESULTADOS
+#### SECCIÓN NOVENA. LIBRO NUEVE DE RECURSOS DE REVISIÓN FISCAL
 
 ###### Artículo 165.
 
@@ -2657,7 +2931,7 @@ También podrán anotarse la letra o el número con el que se identifique intern
 
 Este libro se llevará conforme a la tabla número veintiocho del anexo de este Acuerdo.
 
-#### SECCIÓN QUINTA. DISPOSICIONES FINALES
+#### SECCIÓN DÉCIMA. LIBRO DIEZ DE RECURSO DE REVISIÓN CONTENCIOSO-ADMINISTRATIVA
 
 ###### Artículo 167.
 
@@ -2729,7 +3003,11 @@ En los casos relacionados con la aplicación del artículo 170 de este Acuerdo, 
 
 ### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+#### SECCIÓN PRIMERA. INDICADORES DE INFORMACIÓN ESTADÍSTICA
+
+#### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
+
+#### SECCIÓN TERCERA. PROCESAMIENTO DE INFORMACIÓN
 
 ## TÍTULO CUARTO. SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES
 
@@ -3071,6 +3349,8 @@ III. Presentación de resultados bajo esquemas específicos de contenidos en pro
 
 La Dirección General de Estadística Judicial colaborará y se coordinará con otras áreas administrativas en las actividades relacionadas con la fase previa.
 
+#### SECCIÓN CUARTA. PRESENTACIÓN DE RESULTADOS
+
 ###### Artículo 220.
 
 El Consejo contará con indicadores que estén siempre al acceso del público en general, presentando los datos relacionados con las estadísticas judiciales, los perfiles de los titulares de los órganos jurisdiccionales, la percepción de los usuarios, como referentes objetivos que faciliten el conocimiento, la evaluación y, en su caso, las propuestas y mejoras para una más eficiente impartición de justicia.
@@ -3115,6 +3395,8 @@ La Dirección General de Estadística Judicial deberá establecer un control num
 
 La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales resolverá cualquier cuestión que pudiera suscitarse con motivo de la aplicación de esta Sección, sin perjuicio de someterla al Pleno, si así lo considera.
 
+#### SECCIÓN QUINTA. DISPOSICIONES FINALES
+
 ###### Artículo 230.
 
 Consiste en la recolección de datos judiciales, entendidos como los valores o características de los movimientos de los juicios, recursos o procedimientos jurisdiccionales que se tramitan en los órganos jurisdiccionales.
@@ -3128,6 +3410,8 @@ La captación de la información judicial se realiza en cada uno de los órganos
 ###### Artículo 232.
 
 La Dirección General de Estadística Judicial brindará el apoyo necesario a los servidores públicos de los órganos jurisdiccionales, en la captación de la información judicial y verificará que la misma sea capturada de forma correcta y oportuna.
+
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
 
 ###### Artículo 233.
 
@@ -3778,3 +4062,25 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
 
 CUARTO. Los Tribunales Laborales Federales llevarán obligatoriamente los libros de control interno de manera física, hasta en tanto se determine su seguimiento únicamente por medios electrónicos.
+
+D.O.F. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSCIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Dirección General de Gestión Judicial en coordinación con sus homólogas de Tecnologías de la Información; y de Estrategia y Transformación Digital, deberán realizar el desarrollo, implementación e inicio de operación de los sistemas de gestión que operarán en las Unidades de Notificadores Comunes, en un plazo de seis meses, contados a partir de la entrada en vigor del presente Acuerdo.
+
+CUARTO. Hasta en tanto la Dirección General de Gestión Judicial en coordinación con sus homólogas de Tecnologías de la Información; y de Estrategia y Transformación Digital completen el desarrollo, implementación e inicio de operación de los sistemas de gestión relacionados con la inspección a las Unidades de Notificadores Comunes, la Visitaduría Judicial continuará realizando las visitas ordinarias a dichas Unidades de conformidad con el Programa Anual de Visitas en los términos que las lleva a cabo actualmente.
+
+QUINTO. Las y los servidores públicos que ocupan el puesto de Jefa o Jefe de la Unidad de Notificadores Comunes, cuya plaza corresponda a la categoría de Actuario o Actuaria Judicial, quedarán comisionadas a la unidad administrativa de su actual adscripción hasta en tanto causen baja, en cuyo caso se transformarán en Jefa o Jefe de Unidades de Notificadores Comunes.
+
+Por cuanto hace a las y los servidores públicos que ocupan el puesto de Auxiliar de actuario, quedarán comisionados a la unidad administrativa de su actual adscripción hasta el momento de su baja. Estas plazas se transformarán en las de notificadora o notificador de (sic) Unidad de Notificadores Comunes.
+
+SEXTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo, dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, elaborará la propuesta de la nueva estructura orgánica de la Dirección General de Gestión Judicial, así como de los documentos administrativos relacionados con la implementación de este Acuerdo, y la instalación del mobiliario y equipo técnico suficiente, a fin de que las Unidades de Notificadores Comunes cuenten con los elementos necesarios para desempeñar sus funciones, así como las acciones conducentes para hacer efectiva la implementación de las presentes disposiciones.
+
+SÉPTIMO. Los derechos laborales de las personas servidoras públicas de base, comisionadas o adscritas actualmente a las Unidades de Notificadores Comunes, serán respetados. La implementación administrativa de este Acuerdo no implicará, en ninguna circunstancia, la afectación a estos derechos.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
