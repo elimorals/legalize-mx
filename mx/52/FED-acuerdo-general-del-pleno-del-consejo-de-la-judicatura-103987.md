@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2021-10-25"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2022.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -402,6 +402,10 @@ XCIX. Medios electrónicos: La herramienta tecnológica relacionada con el proce
 C. Mensaje de datos: La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
 
 CI. Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL PERIODO DE LACTANCIA, D.O.F. 25 DE ENERO DE 2022)</small>
+
+CI. Bis. Mujeres o Personas Lactantes. Personas que tengan la responsabilidad de alimentar con leche materna vía natural o inducida a su hija o hijo recién nacido, incluso, hasta los dos años de edad, con independencia de su orientación sexual, preferencia sexual y/o expresión o identidad de género;
 
 CII. Observador: Persona física que, a título individual, o en representación de las cámaras, asociaciones empresariales, organizaciones no gubernamentales o instituciones educativas, asiste a los actos públicos de los procedimientos de contratación, sin voz ni voto;
 
@@ -2373,9 +2377,11 @@ No se entregará el infante a persona alguna que no presente su credencial o cua
 
 Cuando el infante no sea recogido dentro de los diez minutos posteriores al horario establecido en el CENDI, se agotarán las instancias de localización del servidor público o personas autorizadas y, en su caso, se procederá conforme a la última parte del párrafo anterior.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL PERIODO DE LACTANCIA, D.O.F. 25 DE ENERO DE 2022)</small>
+
 ###### Artículo 209.
 
-El servidor público sólo podrá pasar al interior del CENDI previa autorización de Director del CENDI. Las madres de los infantes, menores de seis meses de edad, tendrán acceso a la sección de lactantes para amamantar a sus hijos, atendiendo las medidas de seguridad e higiene correspondientes.
+La persona servidora pública sólo podrá ingresar al interior del CENDI previa autorización de la Dirección del CENDI. Las mujeres y personas lactantes que amamanten a sus infantes, tendrán acceso a la sección de lactantes para alimentar a sus hijas e hijos hasta los dos años de edad, atendiendo las medidas de seguridad e higiene correspondientes.
 
 ###### Artículo 210.
 
@@ -2929,11 +2935,21 @@ Las licencias que otorgue el Consejo por maternidad, con independencia de su ori
 
 Cuando resulte aplicable, el aviso antes descrito deberá incluir el trámite de licencia de maternidad ante el ISSSTE, con el fin de que se tomen en consideración las fechas que ese instituto determine para la licencia.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL PERIODO DE LACTANCIA, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 236.
 
-Todas las madres biológicas, adoptivas, o por gestación subrogada, tendrán derecho al período de lactancia, hasta que la o el recién nacido cumpla los seis meses de edad, en los términos de lo señalado por la Ley Federal de los Trabajadores al Servicio del Estado; es decir, dos períodos durante el día, de media hora cada uno. Las madres podrán decidir cómo aplicar su derecho de una hora de lactancia diaria, pudiendo optar por entrar una hora más tarde, salir una hora más temprano o ampliar su horario de comida. Esta decisión deberá ser informada por escrito, tanto a su superior jerárquico como al área administrativa que corresponda.
+Todas las mujeres o personas lactantes tendrán derecho a gozar de descansos para lactar hasta que la o el recién nacida/o cumpla los seis meses de edad, y podrán optar por solicitar la continuidad del permiso de lactancia como alimentación complementaria en caso de que así lo requieran hasta los dos años de edad de sus hijas e hijos.
+
+El tiempo de descanso para ejercer la lactancia será otorgado en los términos de lo señalado por la Ley Federal de los Trabajadores al Servicio del Estado; es decir, dos períodos durante el día, de media hora cada uno. Las mujeres o personas lactantes podrán decidir cómo aplicar su derecho, sea en dos períodos de media hora o bien de una hora durante la jornada laboral, pudiendo optar por entrar una hora más tarde, salir una hora más temprano o ampliar su horario de comida. Esta decisión deberá ser informada por escrito, a la persona titular de su área administrativa u órgano jurisdiccional.
+
+Las mujeres o personas lactantes que deseen continuar con la lactancia después de que su hija o hijo haya cumplido los seis meses, podrán notificarlo por escrito a la persona titular del área administrativa u órgano jurisdiccional de su adscripción, dirigiendo escrito bajo protesta de decir verdad, en el que:
+
+I. Comuniquen la necesidad de continuar el periodo para ejercer su derecho a la lactancia y que lo hará mientras lo requiera, hasta los dos años de edad de sus hijas e hijos;
+
+II. Especifiquen si harán uso de dos periodos de media hora o uno de una hora, así como el momento del día en que los tomarán; y
+
+III. Declaren que, una vez concluida la lactancia como alimentación complementaria, lo harán del conocimiento a la persona titular de su adscripción y se reintegrará a sus labores en el horario habitual.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
 
@@ -14020,5 +14036,13 @@ D.O.F. 25 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA RECONTRATACIÓN DE PRESTADORES DE SERVICIOS”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL PERIODO DE LACTANCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
