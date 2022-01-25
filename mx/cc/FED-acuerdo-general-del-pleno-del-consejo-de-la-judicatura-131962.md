@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2021-08-24"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -2211,9 +2211,7 @@ IV. En los Centros de Justicia Penal Federal, dos días para la Administración 
 
 V. Dos días para la revisión de aspectos administrativos y uno más por cada juez que integren los Tribunales Laborales Federales; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
-
-VI. Dos días para las unidades de notificadores comunes.
+VI. (DEROGADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)
 
 El Visitador General podrá autorizar la modificación de los plazos y horario señalados, siempre que exista causa justificada.
 
@@ -3220,3 +3218,25 @@ D.O.F. 24 DE AGOSTO DE 2021.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Dirección General de Gestión Judicial en coordinación con sus homólogas de Tecnologías de la Información; y de Estrategia y Transformación Digital, deberán realizar el desarrollo, implementación e inicio de operación de los sistemas de gestión que operarán en las Unidades de Notificadores Comunes, en un plazo de seis meses, contados a partir de la entrada en vigor del presente Acuerdo.
+
+CUARTO. Hasta en tanto la Dirección General de Gestión Judicial en coordinación con sus homólogas de Tecnologías de la Información; y de Estrategia y Transformación Digital completen el desarrollo, implementación e inicio de operación de los sistemas de gestión relacionados con la inspección a las Unidades de Notificadores Comunes, la Visitaduría Judicial continuará realizando las visitas ordinarias a dichas Unidades de conformidad con el Programa Anual de Visitas en los términos que las lleva a cabo actualmente.
+
+QUINTO. Las y los servidores públicos que ocupan el puesto de Jefa o Jefe de la Unidad de Notificadores Comunes, cuya plaza corresponda a la categoría de Actuario o Actuaria Judicial, quedarán comisionadas a la unidad administrativa de su actual adscripción hasta en tanto causen baja, en cuyo caso se transformarán en Jefa o Jefe de Unidades de Notificadores Comunes.
+
+Por cuanto hace a las y los servidores públicos que ocupan el puesto de Auxiliar de actuario, quedarán comisionados a la unidad administrativa de su actual adscripción hasta el momento de su baja. Estas plazas se transformarán en las de notificadora o notificador de Unidad de Notificadores Comunes.
+
+SEXTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo, dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, elaborará la propuesta de la nueva estructura orgánica de la Dirección General de Gestión Judicial, así como de los documentos administrativos relacionados con la implementación de este Acuerdo, y la instalación del mobiliario y equipo técnico suficiente, a fin de que las Unidades de Notificadores Comunes cuenten con los elementos necesarios para desempeñar sus funciones, así como las acciones conducentes para hacer efectiva la implementación de las presentes disposiciones.
+
+SÉPTIMO. Los derechos laborales de las personas servidoras públicas de base, comisionadas o adscritas actualmente a las Unidades de Notificadores Comunes, serán respetados. La implementación administrativa de este Acuerdo no implicará, en ninguna circunstancia, la afectación a estos derechos.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
