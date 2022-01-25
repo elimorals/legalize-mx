@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2022-01-21"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -63,11 +63,11 @@ El ejercicio del Poder Legislativo se deposita en una asamblea denominada Legisl
 
 A la Legislatura se le denominará agregando previamente el número romano que le corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 6.
 
-Durante su ejercicio constitucional, la Legislatura tendrá tres períodos de sesiones ordinarias cada año, el primer periodo iniciará el 5 de septiembre y concluirá, a más tardar el 18 de diciembre; el segundo iniciará el 1º de marzo y no podrá prolongarse más allá del 30 de abril; y el tercero iniciará el 20 de julio, sin que pueda prolongarse más allá del 15 de agosto, pudiendo ser convocada a períodos de sesiones extraordinarias en los términos previstos por la Constitución y la ley.
+Durante su ejercicio constitucional, la Legislatura tendrá dos períodos de sesiones ordinarias cada año, el primer periodo iniciará el 5 de septiembre y concluirá, a más tardar el 18 de diciembre; el segundo iniciará el 31 de enero y no podrá prolongarse más allá del 15 de mayo, pudiendo ser convocada a períodos de sesiones extraordinarias en los términos previstos por la Constitución y la ley.
 
 > <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -2452,3 +2452,23 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 16.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente del inicio de vigencia de la reforma constitucional en la materia.
+
+###### ARTÍCULO TERCERO.
+
+Las reformas de este Decreto son aplicables a la “LXI” Legislatura y forman parte, en lo conducente, de su Primer Año de Ejercicio Constitucional.
+
+###### ARTÍCULO CUARTO.
+
+Se abrogan y/o derogan las disposiciones normativas de igual o menor jerarquía que se opongan a este Decreto.
