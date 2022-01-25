@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-muro-en-honor-a-las-mujeres-destacadas-en-el-estado-911
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2015-12-11"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91103&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL MURO EN HONOR A LAS MUJERES DESTACADAS EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2022.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Baja California, el viernes 28 de diciembre de 2012.
 
@@ -47,17 +47,19 @@ LEY DEL MURO EN HONOR A LAS MUJERES DESTACADAS EN EL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público e interés social que tiene por objeto establecer las bases por las cuales el Poder Legislativo del Estado de Baja California, creará un Muro en Honor a las mujeres, cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico y sociopolítico de la entidad.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 2.
 
-El Muro en Honor; se instalará dentro del edificio del Poder Legislativo del Estado de Baja California, en la ubicación de la Sala de Usos Múltiples "Mujeres de Baja California, Forjadoras de la Patria", el cual contendrá la fotografía y semblanza de la mujer finada, que hayan (sic) sido seleccionada por la Comisión para la Igualdad entre Mujeres y Hombres del Congreso del Estado, de acuerdo a las bases y requisitos establecidos en la presente Ley.
+El Muro en Honor; se instalará dentro del edificio del Poder Legislativo del Estado de Baja California, en la ubicación de la Sala de Usos Múltiples "Mujeres de Baja California, Forjadoras de la Patria", el cual contendrá la fotografía y semblanza de la mujer finada, que hayan (sic) sido seleccionada por la Comisión de Igualdad de Género y Juventudes del Congreso del Estado, de acuerdo a las bases y requisitos establecidos en la presente Ley.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 3.
 
-El Congreso del Estado para la selección de la mujer cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, sociopolítico de la entidad; emitirá por medio de la Comisión para la Igualdad entre Mujeres y Hombres en el transcurso del mes de Enero del año de ejercicio constitucional correspondiente, convocatoria a fin de que los ciudadanos, las instituciones educativas, culturales, artísticas, sociales, y organizaciones representativas de los sectores sociales, económicos y políticos del Estado de Baja California, presenten su propuesta por escrito.
+El Congreso del Estado para la selección de la mujer cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, sociopolítico de la entidad; emitirá por medio de la Comisión de igualdad de Género y Juventudes en el transcurso del mes de Enero del año de ejercicio constitucional correspondiente, convocatoria a fin de que los ciudadanos, las instituciones educativas, culturales, artísticas, sociales, y organizaciones representativas de los sectores sociales, económicos y políticos del Estado de Baja California, presenten su propuesta por escrito.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 La propuesta deberá contener:
 
@@ -73,31 +75,39 @@ V. Una fotografía en blanco y negro.
 
 VI. Demás documentos probatorios originales o con copias certificadas ante notario público que se consideren necesarios para comprobar el logro o materia en que se haya destacado la mujer propuesta.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2022)</small>
 
-### CAPÍTULO SEGUNDO. DE LA COMISIÓN PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE IGUALDAD DE GÉNERO Y JUVENTUDES
 
 ###### ARTÍCULO 4.
 
 (REFORMADO [N. DE E. DEROGADO], P.O. 11 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 5.
 
-Para el buen cumplimiento de sus fines a efecto de designar a las mejores propuestas la Comisión para la Igualdad entre Mujeres y Hombres, si así lo considera necesario podrá invitar a representantes de las siguientes instituciones a que formen parte de los trabajos de selección, con derecho a voz pero sin voto; siendo las siguientes:
-
-A).-Un representante del Instituto de la Mujer;
-
-B).- Un representante del Colegio de la Frontera Norte,
-
-C).- Un representante de la Universidad Autónoma de Baja California.
+Para el buen cumplimiento de sus fines a efecto de designar a las mejores propuestas la Comisión de Igualdad de Género y Juventudes, si así lo considera necesario podrá invitar a representantes de las siguientes instituciones a que formen parte de los trabajos de selección, con derecho a voz pero sin voto; siendo las siguientes:
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
+A).-Un representante del Instituto de la Mujer;
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+B).- Un representante del Colegio de la Frontera Norte,
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+C).- Un representante de la Universidad Autónoma de Baja California.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 6.
 
-La Comisión para la Igualdad entre Mujeres y Hombres sólo podrá sesionar con la asistencia de más de la mitad del número total de sus integrantes.
+La Comisión de Igualdad de Género y Juventudes sólo podrá sesionar con la asistencia de más de la mitad del número total de sus integrantes.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 Tomarán sus decisiones por mayoría simple; la o el Presidente tendrá el voto de calidad en caso de empate.
 
@@ -105,19 +115,19 @@ Tomarán sus decisiones por mayoría simple; la o el Presidente tendrá el voto 
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE SELECCIÓN
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 7.
 
-Durante la segunda quincena del mes de Enero y durante el mes de Febrero del Tercer Año del ejercicio constitucional de cada Legislatura, la Comisión para la Igualdad entre Mujeres y Hombres, procederá en cumplimiento a la convocatoria emitida durante el mes de Enero a recibir las propuestas presentadas por los ciudadanos y por las asociaciones e instituciones, a efecto de proceder a su registro, análisis, estudio e investigación de las mujeres propuestas valorando su trayectoria, servicio y aportación a la nación o al estado.
+Durante la segunda quincena del mes de Enero y durante el mes de Febrero del Tercer Año del ejercicio constitucional de cada Legislatura, la Comisión de Igualdad de Género y Juventudes, procederá en cumplimiento a la convocatoria emitida durante el mes de Enero a recibir las propuestas presentadas por los ciudadanos y por las asociaciones e instituciones, a efecto de proceder a su registro, análisis, estudio e investigación de las mujeres propuestas valorando su trayectoria, servicio y aportación a la nación o al estado.
 
-En el caso de que alguna propuesta tenga la necesidad de ser subsanada para su valorización, la Comisión para la Igualdad entre Mujeres y Hombres así lo hará saber al ciudadano, institución u organización participante durante el plazo de registro de las mismas.
+En el caso de que alguna propuesta tenga la necesidad de ser subsanada para su valorización, la Comisión de Igualdad de Género y Juventudes así lo hará saber al ciudadano, institución u organización participante durante el plazo de registro de las mismas.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 8.
 
-En la primera semana de Marzo del tercer año de ejercicio constitucional de cada Legislatura, en sesión de la Comisión para la Igualdad entre Mujeres y Hombres, se aprobará por mayoría simple de sus integrantes la propuesta de la Mujer que se haya hecho acreedora por sus méritos a formar parte del Muro en Honor a las mujeres cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, sociopolítico de la entidad.
+En la primera semana de marzo del tercer año de ejercicio constitucional de cada Legislatura, en sesión de la Comisión para la Igualdad de Género y Juventudes, se aprobará por mayoría simple de sus integrantes la propuesta de la Mujer que se haya hecho acreedora por sus méritos a formar parte del Muro en Honor a las mujeres cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, sociopolítico de la entidad.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -160,3 +170,9 @@ P.O. 11 DE DICIEMBRE DE 2015.
 PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Por única ocasión la XXI Legislatura del Congreso del Estado, designará a la mujer que integre el Muro referido en la presente Ley, a través de una Proposición de Acuerdo Económico que apruebe el Pleno del Congreso, en los términos del procedimiento parlamentario previsto en su Ley Orgánica.
+
+P.O. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 68 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 56 Y 60 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO REFORMA A LOS ARTÍCULOS 2, 3, 5, 6, 7 Y 8 DE LA LEY DEL MURO DE HONOR A LAS MUJERES DESTACADAS EN EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA MODIFICACIÓN AL CAPÍTULO SEGUNDO DEL MISMO ORDENAMIENTO”:]
+
+UNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
