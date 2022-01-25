@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2021-10-11"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2022.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1113,11 +1113,11 @@ Las elecciones de diputadas y diputados por el principio de mayoría relativa se
 
 El cómputo y la declaración de validez de las elecciones de diputadas y diputados de representación proporcional, así como la asignación de éstos, será hecha por el Instituto Electoral del Estado de México encargado de la organización, desarrollo y vigilancia de las elecciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 46.
 
-La Legislatura del Estado de México se reunirá en sesiones ordinarias tres veces al año, iniciando el primer periodo el 5 de septiembre y concluyendo, a más tardar el 18 de diciembre; el segundo iniciará el 1º de marzo y no podrá prolongarse más allá del 30 de abril; y el tercero iniciará el 20 de julio, sin que pueda prolongarse más allá del 15 de agosto.
+La Legislatura del Estado de México se reunirá en sesiones ordinarias dos veces al año, iniciando el primer periodo el 5 de septiembre y concluyendo, a más tardar el 18 de diciembre; el segundo iniciará el 31 de enero y no podrá prolongarse más allá del 15 de mayo.
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
 
@@ -5130,3 +5130,17 @@ G.G. 11 DE OCTUBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 17.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese en presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Poder Legislativo del Estado de México contará con un plazo de 30 días para realizar las adecuaciones administrativas y reglamentarias para cumplir con el contenido de la presente reforma, a partir de su entrada en vigor. Las adecuaciones administrativas deberán ajustarse al presupuesto autorizado para el ejercicio correspondiente.
+
+CUARTO. Las reformas de este Decreto son aplicables a la “LXI” Legislatura y forman parte, en lo conducente, de su Primer Año de Ejercicio Constitucional.
+
+QUINTO. Se abrogan y/o derogan las disposiciones normativas de igual o menor jerarquía que se opongan a este Decreto.
