@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2021-07-09"
+last_updated: "2022-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 9 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 25 DE ENERO DE 2022.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -933,9 +933,9 @@ XII.- De Energía y Recursos Hidráulicos;
 
 XIII.- De Asuntos Fronterizos y Migratorios;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2022)</small>
 
-XIV.- De Igualdad entre Mujeres, Hombres y Juventud, y
+XIV.- De Igualdad de Género y Juventudes;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -949,7 +949,9 @@ Las comisiones de dictamen legislativo tienen las atribuciones siguientes:
 
 2. Revisar, evaluar y emitir opinión, en lo que corresponde, el informe sobre el estado que guarda la Administración Pública Estatal que presenta el gobernador del estado, así como los que remiten los titulares de las dependencias y entidades estatales, los órganos autónomos y cualquier otro ente público obligado. En el cumplimiento de sus atribuciones, las comisiones se sujetan a los procedimientos establecidos en la Constitución del estado, de esta Ley, del Reglamento y demás disposiciones aplicables.
 
-La comisión que requiere información de otra, la solicita directamente a través de su Presidente. Igualmente atiende las peticiones de otras comisiones o de diputados relacionadas con asuntos de su competencia. En ambos casos se considera el estado que guardan los asuntos de que se trata. Las comisiones pueden resolver por sí mismas los asuntos cuya naturaleza y trascendencia así lo requieran, sin que contravengan los ordenamientos relativos.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
+
+La comisión que requiere información de otra, la solicita directamente a través de su Presidencia. Igualmente atiende las peticiones de otras comisiones o de diputados relacionadas con asuntos de su competencia. En ambos casos se considera el estado que guardan los asuntos de que se trata. Las comisiones pueden resolver por sí mismas los asuntos cuya naturaleza y trascendencia así lo requieran, sin que contravengan los ordenamientos relativos.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
@@ -1045,7 +1047,11 @@ i. Comisión de Energía y Recursos Hidráulicos: es responsable del análisis, 
 
 j. Comisión de Asuntos Fronterizos y Migratorios: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a los compromisos del Estado en su relación con la región fronteriza, la federación y la comunidad internacional; promoverá el estrechamiento de vínculos sociales, políticos, económicos y culturales; así como promover las gestiones para la atención de necesidades en materia de asuntos migratorios.
 
-k. Comisión para la Igualdad entre Mujeres, Hombres y Juventud: es responsable del análisis, dictamen y proposición de iniciativas de ley en materia de igualdad. Corresponderá también la revisión y actualización permanente de la legislación estatal con el fin de asegurar y garantizar que se mantengan condiciones de pleno respeto e igualdad de trato y oportunidades entre mujeres, hombres y jóvenes dentro del sistema normativo local.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
+
+k. Comisión de Igualdad de Género y Juventudes: es responsable del análisis, dictamen y proposición de iniciativas de ley en materia de igualdad entre distintos géneros.
+
+Corresponderá también la revisión y actualización permanente de la legislación estatal con el fin de asegurar y garantizar que se mantengan condiciones de pleno respeto e igualdad de trato y oportunidades entre mujeres, hombres y jóvenes dentro del sistema normativo local.
 
 l. Comisión de Fortalecimiento Municipal: es responsable del análisis, dictamen y proposición de iniciativas en materia de fortalecimiento a los municipios, así como promover el estrechamiento de vínculos políticos, sociales, económicos y culturales entre los municipios de la entidad.
 
@@ -3124,3 +3130,17 @@ P.O. 9 DE JULIO DE 2021.
 PRIMERO.- Toda vez que las presentes reformas solo implican modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por la mayoría calificada del Pleno de este Honorable Congreso del Estado, las cuales se publicarán en la Gaceta Parlamentaria del Poder Legislativo y se remitirán al Poder Ejecutivo solo para su publicación.
 
 SEGUNDO.- Con la finalidad de no generar afectaciones presupuestales y en salvaguarda de derechos laborales, las coordinaciones instruidas en el artículo 77 QUINQUIES serán asignadas por la Presidencia de la Mesa Directiva a los trabajadores que actualmente ejercen dichas funciones.
+
+P.O. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 68 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 56 Y 60 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO REFORMAS A LOS ARTÍCULOS 2, 3, 5, 6, 7 Y 8 DE LA LEY DEL MURO DE HONOR A LAS MUJERES DESTACADAS EN EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO MODIFICACIÓN AL CAPÍTULO SEGUNDO DEL MISMO ORDENAMIENTO”.]
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO. Todas las referencias que se hagan a la Comisión de Igualdad entre Mujeres, Hombres y Juventud del Congreso del Estado, en la normatividad interna del Poder Legislativo y en la legislación estatal, se entenderán hecha (sic) a la Comisión de Igualdad de Género y Juventud.
+
+TERCERO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos conducentes.
+
+CUARTO. Todos los asuntos turnados a la actual Comisión de Dictamen legislativo de Igualdad entre Mujeres, Hombres y Juventud del Congreso del Estado de Baja California, se entenderán remitidos a la Comisión de igualdad de género y juventudes para que continúe con su trámite legislativo correspondiente ante la Consultoría legislativa, Oficialía de Partes, Presidencia y demás áreas competentes.
+
+Asimismo, las contrataciones de servicios, prestadores de servicios, personal, así como las compras y pagos de productos y servicios en trámites ejercidos con autorización de la Dirección de Administración del Congreso, así como cualquier otro trámite administrativo y compromiso de pago solicitado por la Comisión de Igualdad entre Mujeres, Hombres y Juventud a dicha dirección, serán asumidos y con cargo a la Comisión de Igualdad de Género y Juventudes.
