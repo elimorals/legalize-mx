@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-01-12"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -119,13 +119,17 @@ XIV. Banco Estatal de Datos e información sobre Casos y Delitos de Violencia Co
 
 XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológico y psicológico, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente, y
+XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológico y psicológico, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XVII. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
+XVII. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XVIII. Servicio Reeducativo: El servicio reeducativo para personas agresoras, es el proceso mediante el cual se trabaja individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades, como son los estereotipos de supremacía masculina, los patrones machistas y cualquier otra forma que implique opresión y subordinación; a través de servicios integrales, especializados, gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres y que, en su caso, busque la reinserción social de la persona agresora.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -297,7 +301,11 @@ I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida y log
 
 II. Proporcionar atención médica, asesoría y asistencia jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su desarrollo integral y reparen el daño causado por dicha violencia, en los términos de las leyes aplicables;
 
-III. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor, para erradicar las conductas violentas a través de una educación que elimine las causas que las generaron;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+III. Brindar y promover el servicio reeducativo para agresores, el cual deberá estar basado y orientado en la prevención, así como garantizar la no repetición eliminando las causas que lo generan, al igual que la erradicación de la violencia contra las mujeres;
+
+Dicho servicio reeducativo deberá ser incluido como parte de las medidas de prevención, órdenes de protección y sanciones a determinar, por la autoridad competente.
 
 IV. Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
@@ -334,6 +342,16 @@ IV. En ningún caso se hará público el nombre de la víctima para evitar nueva
 V. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores que sean sobre el mismo agresor, guardando públicamente el anonimato de la o las quejosas; e
 
 VI. Implementar sanciones administrativas para los superiores jerárquicos del agresor, cuando sean omisos en recibir o dar curso a una queja, denuncia o reporte.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 16 Bis.
+
+Para efectos de la violencia institucional todas las instancias del Estado y los municipios buscarán los mecanismos para prevenir, atender, investigar, sancionar y reparar el daño que les inflige, garantizando el derecho de las mujeres a una vida libre de violencia, mediante:
+
+I. El acceso a la justicia de las víctimas de violencia institucional; y
+
+II. El debido proceso para la determinación de la responsabilidad de las personas que hayan ejercido violencia institucional en los ámbitos de competencia involucrados.
 
 ###### Artículo 17.
 
@@ -391,7 +409,9 @@ V. Entrega inmediata de objetos de uso personal y documentos de identidad de la 
 
 VI. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio; y
 
-VII. Brindar al agresor servicios reeducativos integrales, especializados, gratuitos y con perspectiva de género, en instituciones debidamente acreditadas.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+VII. Brindar a la persona agresora el servicio reeducativo, mismo que será integral, especializado, gratuito y con perspectiva de género, con el objeto de evitar la reincidencia de la persona.
 
 ###### Artículo 22.
 
@@ -517,7 +537,9 @@ III. Educar y capacitar en materia de derechos humanos de las mujeres, al person
 
 IV. Fomentar la eliminación de la discriminación y violencia contra las mujeres por razón de sus preferencias sexuales;
 
-V. Brindar servicios especializados y gratuitos para la atención y protección a las víctimas de delitos, por medio de las autoridades y las instituciones públicas, privadas o sociales;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+V. Brindar servicios especializados y gratuitos para la atención y protección a las víctimas de delitos, y para el servicio reeducativo por medio de las autoridades y las instituciones públicas, privadas o sociales;
 
 VI. Fomentar y apoyar programas de educación pública y privada, destinados a concienciar a la sociedad sobre las causas y consecuencias de la violencia contra las mujeres;
 
@@ -531,9 +553,17 @@ X. Publicar trimestralmente la información general y estadística sobre los cas
 
 XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones, para garantizar su seguridad y su integridad; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanos de las mujeres, mismo que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones, para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XIII. Diseñar un modelo integral de atención a los derechos humanos y de ciudadanía de las mujeres, mismos que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas, y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XIV. Diseñar y actualizar las bases que deberán instrumentar las instituciones u organizaciones que ofrezcan el servicio reeducativo.
 
 ###### Artículo 29.
 
@@ -577,7 +607,9 @@ XII. Promover programas de información a la población en la materia;
 
 XIII. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
-XIV. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para el agresor;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XIV. Coordinar el diseño, creación, implementación, evaluación y mejora del servicio reeducativo, así como el programa de reinserción social con perspectiva de género en los términos señalados en esta ley;
 
 XV. Dirigir una adecuada coordinación entre el Estado y los Municipios que lo integran con la finalidad de erradicar la violencia contra las mujeres;
 
@@ -629,9 +661,17 @@ IX. Realizar un diagnóstico estatal y otros estudios complementarios, de manera
 
 X. Difundir a través de los diversos medios, los resultados del Sistema y del Programa a los que se refiere esta Ley;
 
-XI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XII. Las demás previstas para el cumplimento de la presente Ley.
+XI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XII. Establecer las bases, acciones y medidas que se deberán llevar a cabo para el diseño, creación, implementación, evaluación y mejora del servicio reeducativo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XIII. Las demás previstas para el cumplimento de la presente Ley.
 
 ###### Artículo 33.
 
@@ -711,7 +751,9 @@ I. Capacitar al personal de las diferentes instancias policiales en materia de d
 
 II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
-III. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+III. Coadyuvar con la Secretaria General de Gobierno en el diseño, creación, implementación, evaluación y mejora del servicio reeducativo, en las políticas, programas y acciones en materia de seguridad pública y reinserción social conforme a los términos señalados en esta Ley;
 
 IV. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
@@ -921,13 +963,17 @@ II. Implementar acciones de difusión y capacitación permanentes con el persona
 
 III. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-IV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+IV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
 
-V. Las demás previstas para el cumplimiento de la presente Ley.
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres víctimas de este tipo de violencia, en los términos señalados en esta ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+
+VI. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 41.
 
@@ -945,7 +991,9 @@ V. Impulsar la formación de promotoras y promotores comunitarios para la ejecuc
 
 VI. Celebrar convenios de cooperación, coordinación y concertación en la materia,
 
-VII. Impulsar procesos de capacitación sobre la violencia contra las mujeres para sus servidoras y servidores públicos; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+VII. Impulsar procesos de capacitación sobre la violencia contra las mujeres y nuevas masculinidades para sus servidoras y servidores públicos; y
 
 VIII. Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -1007,7 +1055,9 @@ V. Promover, en coordinación con las dependencias y entidades competentes de la
 
 VI. Ejecutar las acciones necesarias para el cumplimiento del Programa Integral y el Programa dentro su municipio;
 
-VII. Apoyar la creación de programas de reeducación integral para los agresores;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+VII. Impulsar servicio de trabajo reeducativo en coordinación con el Gobierno del Estado.
 
 VIII. Promover programas educativos para eliminar la violencia contra las mujeres;
 
@@ -1696,3 +1746,11 @@ P.O. 12 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 043. SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 40, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 042. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades señaladas en el presente Decreto deberán realizar las adecuaciones normativas, administrativas, técnicas y presupuestales necesarias a fin de dar cumplimiento a éste Decreto.
