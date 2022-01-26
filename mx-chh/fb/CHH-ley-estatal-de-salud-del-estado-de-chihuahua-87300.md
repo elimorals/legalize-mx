@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2021-05-12"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -377,43 +377,117 @@ Corresponde al Consejo Estatal de Salud coadyuvar con la Secretaría, con el obj
 
 El Consejo estará integrado por:
 
-I.- Un Presidente, que será el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-II.- Un Secretario Ejecutivo, que será el Secretario de Salud.
+I. Una Presidencia, a cargo de la persona titular del Poder Ejecutivo del Estado.
 
-III.- Un Secretario Técnico, que será designado por el Secretario de Salud.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2019)</small>
+II. Una Secretaría Ejecutiva, a cargo de la persona titular de la Secretaría de Salud.
 
-IV.- El Secretario de Educación y Deporte.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-V.- El Secretario de Hacienda.
+III. Una Secretaría Técnica, a cargo de quien designe la persona titular de la Secretaría de Salud.
 
-VI.- El Secretario del Trabajo y Previsión Social.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-VII.- El Director General del Instituto Chihuahuense de Salud.
+IV. La persona titular de la Secretaría de Educación y Deporte.
 
-VIII.- El Director General de los Servicios de Salud de Chihuahua.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-IX.- Un representante de los colegios médicos y profesionales de la salud.
+V. La persona titular de la Secretaría de Hacienda.
 
-X.- El Rector de la Universidad Autónoma de Chihuahua.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XI.- El Rector de la Universidad Autónoma de Ciudad Juárez.
+VI. La persona titular de la Secretaría del Trabajo y Previsión Social.
 
-XII.- El Director del organismo público descentralizado Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XIII.- Un representante de clínicas y hospitales privados.
+VII. La persona titular de la Dirección Médica del Instituto Chihuahuense de Salud.
 
-XIV.- Un representante de las Asociaciones de Servicio Social en el Estado.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XV.- Un representante de los Comités Técnicos a que se refiere esta Ley.
+VIII. La persona titular de la Dirección Médica de los Servicios de Salud de Chihuahua.
 
-> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XVI.- Un Diputado integrante de la Comisión de Salud del Honorable Congreso del Estado.
+IX. Una persona representante del Colegio de Médicos Generales.
 
-A las sesiones serán invitados, de manera permanente, un representante del Instituto Mexicano del Seguro Social, y uno del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+X. La persona titular de la Rectoría de la Universidad Autónoma de Chihuahua.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XI. La persona titular de la Rectoría de la Universidad Autónoma de Ciudad Juárez.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XII. La persona titular de la Dirección General del organismo público descentralizado Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XIII. Una persona representante de clínicas y hospitales privados.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XIV. Una persona representante de la Red Chihuahuense de los Municipios por la Salud.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XV. Una persona representante de los Comités Técnicos a que se refiere esta Ley.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XVI. Una Diputada o un Diputado integrante de la Comisión de Salud del Honorable Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XVII. Una persona representante del Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XVIII. Una persona representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XIX. La persona titular de la Secretaría General de Gobierno.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XX. La persona titular de la Secretaría de Innovación y Desarrollo Económico.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXI. La persona titular de la Secretaría de Seguridad Pública.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ENERO DE 2022)</small>
+
+A las sesiones será invitada, de manera permanente, una persona representante de cada una de las siguientes instituciones:
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+I. Secretaría de la Defensa Nacional.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+II. Representación del Ejecutivo del Estado en Ciudad Juárez.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+III. Cámara Nacional de la Industria de la Transformación, quien será elegida por el sector de la industria en Chihuahua y Juárez.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+IV. Cámara Nacional de Comercio, Servicios y Turismo, quien será elegida por el sector de comercio, servicios y turismo en Chihuahua.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+V. Desarrollo Económico de Ciudad Juárez, A.C.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+VI. Desarrollo Económico del Estado de Chihuahua, A.C.
 
 ###### Artículo 27.
 
@@ -3894,3 +3968,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0189/2022 I P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido del presente instrumento.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, se deberán efectuar las adecuaciones respectivas al Reglamento Interior del Consejo Estatal de Salud.
