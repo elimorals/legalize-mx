@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2021-11-30"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -465,7 +465,9 @@ El Estado instrumentará incentivos fiscales a las empresas que apoyen el equipa
 
 El Estado instrumentará convenios entre la Secretaría del Trabajo y las empresas que planteen los perfiles de los puestos disponibles para el desarrollo de estrategias de formación en el trabajo, y para desarrollar acciones tendientes a la capacitación y actualización continua para y en el trabajo de personas con discapacidades.
 
-Así mismo, las autoridades estatales y municipales competentes convocarán a las organizaciones no gubernamentales, a los empresarios y sus representantes, los sindicatos, el sector social y el Sistema para el Desarrollo Integral de la Familia del Estado, para que creen e impulsen acciones de capacitación e inclusión laboral para personas con discapacidad, que por alguna razón no tuvieran otra opción para integrarse o capacitarse para el trabajo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+Así mismo, las autoridades estatales y municipales competentes convocarán a las organizaciones no gubernamentales, a los empresarios y sus representantes, los sindicatos, el sector social y el Sistema para el Desarrollo Integral de la Familia del Estado, para que creen e impulsen acciones de capacitación e inclusión laboral para personas con discapacidad, que por alguna razón no tuvieran otra opción para integrarse o capacitarse para el trabajo. De igual forma se buscará convocarlos para capacitar a las personas con discapacidad interesadas, para el desarrollo de actividades productivas para lograr su autonomía económica.
 
 ### CAPÍTULO VI. DE LA EDUCACIÓN
 
@@ -1102,5 +1104,11 @@ P.O. 20 DE DICIEMBRE DE 2019.
 P.O. 30 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 018. SE ADICIONA UNA FRACCIÓN XIII BIS, AL ARTÍCULO 2 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 047. SE REFORMAN LAS FRACCIONES I Y V DEL ARTÍCULO 15, LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 21 Y LA FRACCIÓN IV DEL ARTÍCULO 27 BIS 1; Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 21, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
