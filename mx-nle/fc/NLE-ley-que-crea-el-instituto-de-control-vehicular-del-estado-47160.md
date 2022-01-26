@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2021-12-23"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -493,6 +493,36 @@ Los avisos que refiere este artículo deberán recabarse dentro de los cinco dí
 
 Las personas físicas residentes en la Entidad, para conducir vehículos de los que señala esta Ley, quedarán inscritos ante el Instituto una vez autorizada la expedición de su licencia para conducir, acreditando el cumplimiento de los requisitos que resulten aplicables; corresponderá al Instituto regular y verificar el cumplimiento de estos requisitos.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 27 Bis.
+
+Son requisitos para la expedición de la licencia para conducir.
+
+I. Presentar ante el Instituto identificación oficial y Clave Única de Registro de Población CURP;
+
+II. Presentar ante el Instituto comprobante de domicilio o carta de residencia vigentes;
+
+III. Presentar comprobante de pago de derechos municipales;
+
+IV. Acreditar curso para conducir; y
+
+V. Las demás que establezca la Ley de la materia, según corresponda.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 27 Bis 1.
+
+Los Municipios o las instituciones autorizadas por ellos, serán los responsables de impartir el curso de manejo, el cual tiene por objeto, además de lo señalado en la Ley en la materia lo siguiente:
+
+I. Información sobre el marco jurídico e instituciones responsables en materia de tránsito y vialidad;
+
+II. Cultura vial y de movilidad sostenible basada en principios y estándares internacionales;
+
+III. Normativa y lineamientos de respeto al peatón; y
+
+IV. Normativa y lineamientos de respeto al ciclista.
+
 ###### Artículo 28.
 
 Los datos que deberá contener el registro respecto de los conductores y sus licencias serán al menos los siguientes:
@@ -830,3 +860,15 @@ P.O. 23 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 01 de enero del año 2022.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 078. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 27 BIS Y 27 BIS 1 A LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorga un plazo de 90 días naturales a partir de la entrada en vigor del Presente Decreto para que los Municipios lleven a cabo las adecuaciones a sus respectivos reglamentos.
