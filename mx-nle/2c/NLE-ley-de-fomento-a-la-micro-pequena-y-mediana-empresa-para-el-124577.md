@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2020-11-02"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -323,7 +323,9 @@ La Secretaría informará al Consejo sobre las acciones a que se refiere el pres
 
 La Secretaría está obligada a considerar y a razonar las decisiones de los apoyos en base a los siguientes criterios:
 
-I. Promover una mayor participación de las mujeres y jóvenes en el desarrollo económico del Estado;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+I. Promover una mayor participación de las mujeres, jóvenes y personas con discapacidad en el desarrollo económico del Estado;
 
 II. Contribuir a la creación, fortalecimiento, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las micro, pequeñas y medianas empresas a través de la mejora de sus procesos;
 
@@ -331,9 +333,9 @@ III. Promover, capacitar y difundir los programas, instrumentos, productos, herr
 
 IV. Fomentar el acceso al financiamiento de las MIPYMES;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-V. Facilitar y fomentar la constitución de incubadoras de empresas, empresas emergentes ó startups y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia y jóvenes;
+V. Facilitar y fomentar la constitución de incubadoras de empresas, empresas Emergentes o startups y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia, jóvenes y personas con discapacidad;
 
 VI. Facilitar y fomentar la integración de las MIPYMES a las cadenas globales de valor;
 
@@ -441,13 +443,17 @@ XI. Emitir la convocatoria y nombrar al jurado para la entrega del Premio Estata
 
 XII. Emitir opinión vinculante respecto a la propuesta de política integral de apoyo a las MIPYMES que elabore la Secretaría, para ser ejecutadas por el Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XIII. Dar seguimiento a los resultados de los programas y acciones de fomento establecidos por la Secretaría y la política integral de apoyo a las MIPYMES; y
+XIII. Dar seguimiento a los resultados de los programas y acciones de fomento establecidos por la Secretaría y la política integral de apoyo a las MIPYMES;
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XIV. Formar grupos de trabajo, en coordinación con el Secretario Técnico, con el personal operativo de la Secretaría, Dependencias Gubernamentales y otros interesados para el seguimiento a (sic) acuerdos de las sesiones del Consejo.
+XIV. Formar grupos de trabajo, en coordinación con el Secretario Técnico, con el personal operativo de la Secretaría, Dependencias Gubernamentales y otros interesados para el seguimiento a acuerdos de las sesiones del Consejo; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XV. Proponer medidas de apoyo mediante incentivos para las personas con discapacidad con la finalidad de lograr un emprendimiento.
 
 ###### Artículo 22.
 
@@ -511,7 +517,9 @@ II. Fecha de entrega, la cual deberá ser durante el mes de Diciembre;
 
 III. Plazos para entrega de documentación;
 
-IV. Categorías de participación en las que se incluyan como mínimo: “Mujer Emprendedora”, “Idea Innovadora”, “De Trayectoria Emprendedora”, “De Emprendimiento de Alto Impacto”;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+IV. Categorías de participación en las que se incluyan como mínimo: "Mujer Emprendedora", "Idea innovadora", "De Trayectoria Emprendedora", "De Emprendimiento de Alto impacto", "Emprendimiento destacado de personas con discapacidad";
 
 V. Beneficios que obtendrá el ganador, lo (sic) cuales deberán incluir el monto de premiación, el reconocimiento y una medalla alusiva;
 
@@ -672,5 +680,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 2 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 370. SE REFORMA EL ARTÍCULO 14 Y SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 047. SE REFORMAN LAS FRACCIONES I Y V DEL ARTÍCULO 15, LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 21 Y LA FRACCIÓN IV DEL ARTÍCULO 27 BIS 1; Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 21, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
