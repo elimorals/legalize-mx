@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2021-12-20"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -183,6 +183,10 @@ XLV Bis. Sesión vía remota: Es la reunión donde convergen las Diputadas y los
 XLVI. Sistema Electrónico: El Sistema de registro de asistencia, votación y audio automatizado del Congreso;
 
 XLVII. Suplencia: Es el mecanismo para ocupar el cargo de Diputada o Diputado que se presenta cuando la o el propietario fallece, está imposibilitado física o jurídicamente, o bien, manifiesta a través de actos u omisiones su decisión de no aceptar el cargo o de obtener licencia;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+XLVII Bis. Sugerencia: Documento emitido y presentado ante el Congreso por las dependencias, órganos o entidades de la Administración Pública de la Ciudad de México que cuentan con la facultad prevista en (sic) Ley para hacerlo;
 
 XLVIII. Turno: Es el trámite que dicta la o el Presidente de la Mesa Directiva durante las sesiones para remitir los asuntos que se presentan ante el Pleno, la Comisión Permanente o las instancias respectivas, con el fin de darles el curso legal que corresponda dentro del procedimiento legislativo;
 
@@ -522,6 +526,10 @@ CXVII. Realizar investigaciones y estudios referentes a la situación de las muj
 
 CXVIII. Designar por mayoría calificada de las dos terceras partes de los integrantes presentes en la sesión respectiva, a dos integrantes del Consejo de la Judicatura de la Ciudad de México, en los términos previstos por el artículo 35, apartado E de la Constitución de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+CXVIII Bis. Recibir las sugerencias que presenten las dependencias, órganos o entidades de la Administración Pública de la Ciudad de México que cuenten con la facultad prevista en (sic) ley para hacerlo, así como considerarlas en los procedimientos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia que se esté discutiendo en el Congreso. Lo anterior, con el objeto de coadyuvar, promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas vigentes;
+
 > <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2019)</small>
 
 CXIX. Las demás que establezcan la Constitución Política, la Constitución Local y las Leyes.
@@ -834,7 +842,13 @@ XVII. Recibir, durante los recesos, las iniciativas de ley dirigidas al Congreso
 
 XVIII. Representar jurídicamente al Congreso, a través de su Presidenta o Presidente en todos los procedimientos jurisdiccionales en que éste sea parte, y ejercer de manera enunciativa más no limitativa, todas las acciones, defensas y recursos necesarios en los juicios: civiles, penales, administrativos, mercantiles o electorales, así como los relativos a los medios de control de constitucionalidad en todas sus etapas procesales. La Mesa Directiva podrá delegar dicha representación de forma general o especial, sin perjuicio de la que recaiga en diversos servidores públicos por ministerio de ley;
 
-XIX. Verificar que las iniciativas, dictámenes, acuerdos, propuestas, mociones y demás escritos que se presenten en la sesión, cumplan con los requisitos de formulación y presentación, y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+XIX. Verificar que las iniciativas, dictámenes, acuerdos, propuestas, mociones y demás escritos que se presenten en la sesión, cumplan con los requisitos de formulación y presentación;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+XIX Bis. Recibir las sugerencias que presenten las dependencias, órganos o entidades de la Administración Pública de la Ciudad de México que cuenten con la facultad prevista en (sic) Ley para hacerlo, con el objeto de remitirlas a su Presidencia para que sean turnadas a la o las comisiones competentes; y
 
 XX. Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acuerdos del Congreso.
 
@@ -930,21 +944,37 @@ XXIX. Tener la representación legal del Congreso y delegarla en la persona o pe
 
 XXX. Turnar a las Comisiones o Comités respectivos los asuntos de su competencia a efecto de que presenten en tiempo y forma los dictámenes procedentes o den el trámite legislativo que corresponda, turnando a un máximo de dos Comisiones, en razón de su competencia y conforme a su denominación. La rectificación del turno se hará con base en la solicitud por escrito que haga la o el Presidente de la Comisión, fundando y motivando el mismo con base en los antecedentes que haya para la rectificación;
 
-XXXI. Tramitar reglamentariamente los asuntos inscritos en el orden del día y fijar los procesos que deben seguirse para el cumplimiento de los acuerdos tomados por el Pleno, y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+XXXI. Tramitar reglamentariamente los asuntos inscritos en el orden del día y fijar los procesos que deben seguirse para el cumplimiento de los acuerdos tomados por el Pleno;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+XXXI Bis. Turnar a la o las comisiones respectivas las sugerencias presentadas a la Mesa Directiva por las dependencias, órganos o entidades de la Administración Pública de la Ciudad de México que cuenten con la facultad prevista en (sic) Ley para hacerlo, con el objeto de que se conozcan, estudien, analicen y, en su caso, sean consideradas en los procedimientos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia que se esté discutiendo en el Congreso. Lo anterior, con el objeto de coadyuvar, promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas vigentes, y
 
 XXXII. Las demás que le atribuyan la Constitución Política, la Constitución Local, esta ley y el reglamento.
 
 En el caso de iniciativas preferentes tendrá las siguientes atribuciones:
 
-I. Turnar inmediatamente la iniciativa a la o las Comisiones correspondientes para su análisis y dictamen;
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN I], G.O. 26 DE ENERO DE 2022)</small>
 
-II. Cuando se trate del señalamiento por parte de la o el Jefe de Gobierno de una iniciativa que se hubiere presentado en periodos anteriores y este pendiente de dictamen y la haya elegido como preferente, notificará a la Comisión o Comisiones que conozcan de la misma que ha adquirido dicho carácter;
+a) Turnar inmediatamente la iniciativa a la o las Comisiones correspondientes para su análisis y dictamen;
 
-III. Solicitar a la Junta que constituya e integre de manera anticipada la Comisión o Comisiones que dictaminarán la iniciativa con carácter de preferente;
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN II], G.O. 26 DE ENERO DE 2022)</small>
 
-IV. Prevenir a la Comisión o Comisiones, siete días naturales antes de que venza el plazo para dictaminar la iniciativa con carácter de preferente a través de una comunicación que deberá publicarse en la Gaceta Parlamentaria, y
+b) Cuando se trate del señalamiento por parte de la o el Jefe de Gobierno de una iniciativa que se hubiere presentado en periodos anteriores y esté pendiente de dictamen y la haya elegido como preferente, notificará a la Comisión o Comisiones que conozcan de la misma que ha adquirido dicho carácter;
 
-V. Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la Comisión o Comisiones para dictaminar.
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN III], G.O. 26 DE ENERO DE 2022)</small>
+
+c) Solicitar a la Junta que constituya e integre de manera anticipada la Comisión o Comisiones que dictaminarán la iniciativa con carácter de preferente;
+
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN IV], G.O. 26 DE ENERO DE 2022)</small>
+
+d) Prevenir a la Comisión o Comisiones, siete días naturales antes de que venza el plazo para dictaminar la iniciativa con carácter de preferente a través de una comunicación que deberá publicarse en la Gaceta Parlamentaria, y
+
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN V], G.O. 26 DE ENERO DE 2022)</small>
+
+e) Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la Comisión o Comisiones para dictaminar.
 
 ### CAPÍTULO IV. De las y los Vicepresidentes, Secretarios y Prosecretarios
 
@@ -2831,3 +2861,13 @@ G.O. 20 DE DICIEMBRE DE 2021.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XLVII BIS AL ARTÍCULO 4, ASÍ COMO LA CXVIII BIS AL ARTÍCULO 13; SE ADICIONA LA FRACCIÓN XIX BIS, Y SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 29; SE ADICIONA LA FRACCIÓN XXXI BIS AL PÁRRAFO PRIMERO Y SE REFORMAN LAS FRACCIONES XXXI DEL PÁRRAFO PRIMERO, ASÍ COMO LAS FRACCIONES I, II, III, IV Y V DEL PÁRRAFO SEGUNDO QUEDANDO COMO INCISOS A), B) C) D) Y E) RESPECTIVAMENTE, DEL ARTÍCULO 32; TODOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 180 días naturales siguientes a la entrada en vigor de la presente reforma, se publicarán las modificaciones al Reglamento del Congreso de la Ciudad de México, a efecto de armonizar su contenido al presente Decreto.
