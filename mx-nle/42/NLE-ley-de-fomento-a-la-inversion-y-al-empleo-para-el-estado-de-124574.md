@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2021-09-15"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -245,9 +245,17 @@ II. Seguimiento y evaluación de los programas de atracción a la Inversión;
 
 III. El balance del Fideicomiso y su aplicación;
 
-IV. Seguimiento y evaluación a los incentivos fiscales, económicos y/o no económicos otorgados y su efectividad empleada; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-V. Propuestas para atracción de nueva inversión, así como aquéllas que pretendan fortalecer a la inversión ya establecida en el Estado.
+IV. Seguimiento y evaluación a los incentivos fiscales, económicos y/o no económicos otorgados y su efectividad empleada;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+V. Propuestas para atracción de nueva inversión, así como aquéllas que pretendan fortalecer a la inversión ya establecida en el Estado, y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+VI. En caso de declaratoria de emergencia sanitaria emitida por la autoridad correspondiente, y en el ámbito de sus atribuciones establecidas en el artículo 11 de la presente Ley, el Consejo abordará los mecanismos y estrategias de reactivación económica implementados, así como la evaluación y los resultados de estos.
 
 ###### Artículo 17.
 
@@ -689,6 +697,12 @@ VII. Difundir los casos de éxito de la industria o sector para aprovecharlos en
 
 VIII. Promover, en coordinación con el Consejo a nivel nacional e internacional la difusión de sus proyectos, programas, iniciativas y resultados.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 50.
+
+Los agrupamientos empresariales estratégicos deberán presentar ante el Consejo un informe anual que contenga los resultados obtenidos a partir de la aplicación de los objetivos enunciados en el artículo anterior, así como las propuestas de mejora, colaboración y coordinación con la Secretaría.
+
 T R A N S I T O R I O S
 
 Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
@@ -762,3 +776,23 @@ P.O. 15 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 528. SE REFORMA EL ARTÍCULO 21 BIS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 044. SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 16, Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 16, TODOS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 045. SE ADICIONA EL ARTÍCULO 50, A LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto en el presente Decreto.. (sic)
