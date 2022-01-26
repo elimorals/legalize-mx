@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2021-12-31"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -3643,8 +3643,6 @@ II. En el caso de la fracción II del artículo 252 de este Código, este impues
 
 ### Capítulo VI. Impuesto Cedular a los Ingresos por Arrendamiento y en General por Otorgar el Uso o Goce Temporal de Bienes Inmuebles
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
 ###### Artículo 256.
 
 Es objeto de este impuesto las servidumbres legales de paso y de uso minero, derivadas de una concesión o asignación minera, que se realicen dentro del territorio del Estado.
@@ -3677,7 +3675,7 @@ Presentar los avisos, documentos, datos e informes que le sean solicitados por l
 
 Permitir la práctica de visitas de inspección y auditoria, así como proporcionar a las personas designadas para ello, todos los elementos necesarios para el desempeño de sus funciones.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 2022)</small>
 
 ### Capítulo Primero. Contribución para la Atención de Salvamentos y Servicio Médicos
 
@@ -3687,81 +3685,21 @@ Permitir la práctica de visitas de inspección y auditoria, así como proporcio
 
 ###### Artículo 260.
 
-Es objeto de este impuesto los ingresos por otorgar el uso o goce temporal de bienes inmuebles, ubicados en territorio del Estado, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
+(DEROGADO, P.O. 26 DE ENERO DE 2022)
 
-Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
+Artículo 260 A.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
 
-I. Los provenientes del arrendamiento o subarrendamiento y, en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma.
+Artículo 260 B.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
 
-II. Los rendimientos de certificados de participación inmobiliaria no amortizables.
+Artículo 260 C.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
 
-Para estos efectos, se consideran ingresos los percibidos en efectivo, bienes, servicios y crédito.
+Artículo 260 D.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
 
-Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el bimestre de calendario en el que sean cobrados.
+Artículo 260 E.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+Artículo 260 F.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
 
-Artículo 260 A.- Son sujetos de este impuesto las personas físicas que perciban ingresos por otorgar el uso o goce temporal de bienes inmuebles, ubicados en territorio del Estado, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-Artículo 260 B.- Es base de este impuesto el monto que resulte de restar a la totalidad de los ingresos obtenidos las deducciones establecidas en el artículo 260 E.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-Artículo 260 C.- Los contribuyentes que obtengan ingresos de los señalados en este capítulo, aplicarán a la base señalada en el artículo que antecede, la tasa del 5%.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-Artículo 260 D.- El pago de este impuesto se efectuará mediante declaración bimestral, que tendrá el carácter de definitiva, dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
-
-Se presentará la declaración anual, que tendrá el carácter de informativa, del período del primero de enero al treinta de abril de cada año.
-
-Para realizar los pagos referidos se utilizarán las formas y medios autorizados por la Secretaría.
-
-Los contribuyentes del presente impuesto, deberán formular declaraciones aun cuando no hubieran obtenido los ingresos a que se refiere este capítulo, en el bimestre de que se trate, hasta en tanto no presente el aviso de baja o de suspensión de actividades.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-Artículo 260 E.- Las personas que obtengan ingresos por los conceptos a que se refiere este capítulo, podrán efectuar las deducciones establecidas en el apartado correspondiente a Disposiciones Generales y a los Capítulos III y X, ambos del Título IV y al Título VII de la Ley del Impuesto Sobre la Renta.
-
-Los contribuyentes podrán optar por deducir el 35% de los ingresos a que se refiere este Impuesto, en substitución de las deducciones señaladas en el párrafo que antecede. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del Impuesto Predial de dichos inmuebles correspondientes al año de calendario, o al período durante el cual obtuvieron los ingresos en el año calendario según corresponda.
-
-Los contribuyentes que opten por efectuar la deducción a que se refiere el párrafo que antecede, lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a más tardar en la fecha en la que se presente la primera declaración que corresponda al año de calendario de que se trate, y una vez ejercida no podrá variarse en los pagos de dicho año, pudiendo cambiarse la opción al presentar la primera declaración del año siguiente.
-
-Tratándose de subarrendamiento, solo se deducirá el importe de las rentas que pague el arrendatario al arrendador. Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo, u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y contribuciones especiales que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente.
-
-En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
-
-La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita, en relación con el total de metros cuadrados de construcción del bien inmueble.
-
-Cuando las deducciones no se efectúen dentro del período al que corresponden, se podrán efectuar en los siguientes períodos del mismo año calendario.
-
-Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del período, la cuarta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate. En el caso de que los ingresos percibidos sean inferiores a las deducciones del período, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los períodos siguientes, siempre y cuando dichas deducciones correspondan al mismo año calendario.
-
-Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia de este impuesto.
-
-Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones se aplicarán únicamente cuando correspondan al período por el cual se otorgó el uso o goce temporal del bien inmueble, o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-Artículo 260 F.- En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble.
-
-La institución fiduciaria efectuará los pagos de este impuesto por cuenta de aquel a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración bimestral que presentará conforme al artículo 260 D.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-Artículo 260 G.- Los contribuyentes que obtengan ingresos de los señalados en este capítulo, además de efectuar los pagos del impuesto, tendrán las siguientes obligaciones:
-
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes.
-
-II. Llevar contabilidad, conforme a las disposiciones de este Código.
-
-III. Expedir comprobantes por las contraprestaciones recibidas.
-
-IV. Presentar declaraciones en los términos del artículo 260 D.
-
-Cuando los ingresos a que se refiere este capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
+Artículo 260 G.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -7254,5 +7192,13 @@ P.O. 31 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 021 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintidós.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 110 DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
