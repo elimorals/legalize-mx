@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2021-12-20"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -818,9 +818,19 @@ I. De las Mujeres;
 
 II. De las Niñas y los Niños;
 
-III. De las Personas con Discapacidad, y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+III. De las Personas con Discapacidad;
 
 IV. De las Personas Jóvenes;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+V. De Pueblos y Barrios Originarios y Comunidades Indígenas Residentes, y
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+VI. De Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades y expresiones de género y características sexuales no normativas.
 
 ###### Artículo 59.
 
@@ -828,11 +838,23 @@ Las Comisiones responsables de la elaboración y desarrollo de todas y cada una 
 
 I. Para la Igualdad de Género, el Parlamento de las Mujeres;
 
-II. Para el Desarrollo de la Niñez en coordinación con la Secretaría de Educación y el Instituto Electoral ambos de la Ciudad de México, el Parlamento de las Niñas y los Niños,; (sic)
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
 
-III. Derechos Humanos y Grupos Prioritarios, el Parlamento de las Personas con Discapacidad, y
+II. De Atención al Desarrollo de la Niñez en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación y el Instituto Electoral ambos de la Ciudad de México, el Parlamento de las Niñas y los Niños;
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+III. Derechos Humanos e Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales, el Parlamento de las Personas con Discapacidad;
 
 IV. De Juventud y Deporte, el Parlamento de las Personas Jóvenes;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+V. De Pueblos, Barrios Originarios y Comunidades Indígenas Residentes, para el Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas, y
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2022)</small>
+
+VI. De Igualdad de Género y de Derechos Humanos, el Parlamento de Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades expresiones de género y características sexuales no normativas.
 
 ###### Artículo 60.
 
@@ -1670,7 +1692,9 @@ I. Orden;
 
 II. Apego al tema;
 
-III. Pregunta a la o el orador;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+III. Pregunta a la persona oradora;
 
 IV. Ilustración al Pleno;
 
@@ -1684,7 +1708,9 @@ VIII. Discusión y votación por conjunto de artículos, o
 
 IX. Suspensión de la discusión o moción suspensiva en la discusión de dictámenes.
 
-Las intervenciones en el desahogo de las mociones serán de hasta dos minutos, desde su curul, excepto las alusiones personales y la rectificación de hechos que estarán a consideración de la o el Presidente.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
+
+Las intervenciones en el desahogo de las mociones serán de hasta dos minutos, desde su curul, excepto las alusiones personales y la rectificación de hechos que estarán a consideración de la persona titular de la Presidencia de la Mesa Directiva.
 
 Las mociones a que se refieren las fracciones III, IV, VI, VII, VIII y IX, sólo procederán en la discusión de un asunto ante el Pleno.
 
@@ -1710,11 +1736,13 @@ La o el Diputado solicitante formulará la moción desde su curul, cuando la o e
 
 La o el orador señalará cuando haya concluido la respuesta y reanudará su intervención. No se computará el tiempo que el orador emplee para responder la moción.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 145.
 
-La moción de ilustración al Pleno, es la petición que se hace a la o el Presidente para que se tome en cuenta, se lea o se atienda a algún dato o hecho que resulte relevante para la discusión de algún asunto.
+La moción de ilustración al Pleno, es la petición que se hace a la o el Presidente para que se tome en cuenta, se lea o se atienda a algún dato, hecho o fundamento que resulte relevante para la discusión de algún asunto.
 
-La o el Diputado que desee ilustrar la discusión, lo solicitará a la o el Presidente, de ser autorizada, la lectura del documento deberá hacerse por uno de las o los Secretarios, continuando después en el uso de la palabra la o el orador.
+La o el Diputado que desee ilustrar la discusión, lo solicitará a la o el Presidente. De ser autorizada la moción, la lectura del documento podrá hacerse por uno de las o los Secretarios, o por la Diputada o Diputado que haya hecho la petición, continuando después en el uso de la palabra la o el orador.
 
 ###### Artículo 146.
 
@@ -1722,9 +1750,15 @@ La moción de rectificación de trámite procede para que alguna o algún Diputa
 
 La o el Diputado que desee hacer la moción deberá solicitar la palabra, desde su curul, para señalarla brevemente; si la o el Presidente la acepta, rectificará el turno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 147.
 
-La moción para alusiones personales procede cuando, en el curso de la discusión, la o el Diputado hubiera sido mencionado explícitamente por la o el orador. El aludido podrá hacer uso de la palabra inmediatamente después de la o el orador hasta por cinco minutos.
+La moción para alusiones personales procede cuando, en el curso de la discusión, la persona oradora haga mención implícita o explícitamente de alguna Diputada o Diputado. La persona aludida podrá hacer uso de la palabra inmediatamente después de la persona oradora hasta por cinco minutos.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2022)</small>
+
+En ningún caso procederán las alusiones sobre alusiones; las alusiones entre diputadas y diputados del mismo Grupo o Asociación Parlamentaria, solo se permitirán en una ocasión por cada Grupo o Asociación.
 
 ###### Artículo 148.
 
@@ -1840,11 +1874,15 @@ Por acuerdo de la o las Comisiones podrán intervenir las y los Diputados que no
 
 El Pleno podrá solicitar información a las y los servidores públicos, mediante pregunta parlamentaria por escrito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 162.
 
-Para la formulación de la pregunta parlamentaria en el Pleno, las y los Diputados formularán sus propuestas ante sus respectivos Grupos.
+Para la formulación de la pregunta parlamentaria en el Pleno, las Diputadas y Diputados formularán sus propuestas ante sus respectivos Grupos o Asociaciones Parlamentarias.
 
-El mismo derecho de formulación la pregunta parlamentaria la tendrán las y los Diputados sin partido.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
+
+El mismo derecho de formulación de pregunta parlamentaria lo tendrán las Diputadas y Diputados sin partido.
 
 Las áreas temáticas de referencia de las preguntas serán política interior, política social y política económica.
 
@@ -1852,31 +1890,43 @@ La redacción de la propuesta de pregunta deberá ser concisa y referirse a un s
 
 Las propuestas que sean de interés personal de quien las formula y las preguntas múltiples, no serán admitidas.
 
-La Junta recibirá las propuestas de los Grupos Parlamentarios y las realizadas por las y los Diputados sin partido, revisará que reúnan los elementos establecidos en este precepto y en un lapso no mayor a diez días, hará la propuesta misma que deberá establecer:
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
+
+La Junta recibirá las propuestas de los Grupos o Asociaciones Parlamentarias y las realizadas por las Diputadas y Diputados sin partido, revisará que reúnan los elementos establecidos en este precepto y en un lapso no mayor a diez días naturales hará la propuesta, misma que deberá establecer:
 
 I. Número total de preguntas,
 
-II. Número de preguntas que corresponde a cada Grupo atendiendo al criterio de proporcionalidad, y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+II. Número de preguntas que corresponde a cada Grupo o Asociación Parlamentaria, atendiendo al criterio de proporcionalidad, y
 
 III. Texto de las preguntas admitidas.
 
 La Junta remitirá el acuerdo a la Mesa Directiva para que se incluya en el orden del día de la sesión más próxima para su aprobación.
 
-Aprobado el acuerdo, la o el Presidente hará llegar a la o el funcionario las preguntas.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
 
-Las y los funcionarios cuestionados deberán responder en un lapso de quince días, contados a partir de la recepción de las preguntas.
+Aprobado el acuerdo, la Presidencia de la Mesa Directiva hará llegar a la persona servidora pública las preguntas para que responda en un lapso de treinta días naturales, contados a partir de la recepción de las preguntas.
+
+> <small>(DEROGADO OCTAVO PÁRRAFO, G.O. 26 DE ENERO DE 2022)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2022)</small>
 
 ###### Artículo 163.
 
-Las respuestas que las y los funcionarios del Poder Ejecutivo Local envíen a la Mesa Directiva se harán del conocimiento del Pleno, se publicarán en la Gaceta y en la página de Internet.
+Las respuestas que el Poder Ejecutivo, alcaldías, órganos, dependencias y entidades, envíen a la Mesa Directiva se harán del conocimiento del Pleno, se publicarán en la Gaceta Parlamentaria y en la página de Internet del Congreso.
 
-La o el Presidente turnará a las Comisiones relacionadas con la materia, las respuestas para su correspondiente análisis, valoración y, en su caso, recomendaciones.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
 
-La o las Comisiones a las que se haya turnado las respuestas de las y los funcionarios, tendrán un plazo de quince días, contados a partir de la recepción del turno por parte de la Mesa Directiva, para formular conclusiones y, en su caso, recomendaciones.
+La Presidencia de la Mesa Directiva turnará a la Comisión o Comisiones relacionadas con la materia, las respuestas para que en un plazo de treinta días hábiles realice el análisis, valoración y, en su caso, cite a comparecer a las personas servidoras públicas, por lo que se deberá enviar a la Junta para su conocimiento y a la Mesa Directiva para que dé cuenta al Pleno.
 
-Las conclusiones o recomendaciones de la o las Comisiones, derivadas del análisis y valoraciones de las respuestas de las y los funcionarios se enviarán a la Junta para su conocimiento y a la Mesa Directiva para que dé cuenta al Pleno.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
 
-La o el Presidente enviará a la o el Titular del Poder Ejecutivo Local, las conclusiones o recomendaciones de la o las Comisiones una vez que haya dado cuenta al Pleno.
+La Presidencia de la Mesa Directiva enviará al Poder Ejecutivo, alcaldías, órganos, dependencias y entidades, las conclusiones o en su caso informará de la persona servidora pública que deberá comparecer al Pleno o Comisiones para su atención y seguimiento.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 26 DE ENERO DE 2022)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 26 DE ENERO DE 2022)</small>
 
 ### CAPÍTULO VI. De las Peticiones
 
@@ -3256,13 +3306,17 @@ Para efectos del desahogo del informe sobre la situación que guarda la administ
 
 #### Sección Séptima. De la Pregunta Parlamentaria en Comisiones
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 287.
 
-Las Comisiones podrán solicitar información a las y los servidores públicos, mediante pregunta parlamentaria por escrito.
+Las Comisiones podrán solicitar información a las personas servidoras públicas, mediante pregunta parlamentaria por escrito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2022)</small>
 
 ###### Artículo 288.
 
-Para la formulación de la pregunta parlamentaria en Comisiones, las y los Diputados formularán sus propuestas ante la Junta Directiva.
+Para la formulación de la pregunta parlamentaria en Comisiones, las Diputadas y Diputados formularán sus propuestas ante la Junta Directiva.
 
 La redacción de la propuesta de pregunta deberá ser concisa y referirse a un solo tema de interés general para permitir una respuesta directa.
 
@@ -3270,13 +3324,21 @@ Las propuestas que sean de interés personal de quien las formula y las pregunta
 
 La Junta Directiva recibirá las propuestas, revisará que reúnan los elementos establecidos en este precepto y hará la propuesta de acuerdo en donde establezca:
 
-I. Número de preguntas que corresponde a cada representación de Grupo atendiendo al criterio de proporcionalidad;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+I. Número de preguntas que corresponde a cada representación de Grupo o Asociación Parlamentaria atendiendo al criterio de proporcionalidad;
 
 II. Texto de las preguntas admitidas;
 
 III. La Junta Directiva presentará el acuerdo al Pleno de la Comisión para su aprobación, y
 
-IV. Aprobado el acuerdo la Junta Directiva hará llegar a la Mesa Directiva las preguntas para que se presenten a consideración del Pleno y, en su caso, sean remitidas por el (sic) La o el Presidente al servidor público correspondiente, para que éste responda dentro de un lapso de quince días, contados a partir de la recepción de las preguntas.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2022)</small>
+
+IV. Aprobado el acuerdo la Junta Directiva hará llegar a la Mesa Directiva las preguntas para que se presenten a consideración del Pleno y, en su caso, sean remitidas por la Presidencia de la Mesa Directiva a la persona servidora pública correspondiente, para que ésta responda dentro de un lapso de treinta días naturales contados a partir de la recepción de las preguntas.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2022)</small>
+
+La persona servidora pública que emita la información correspondiente deberá apegarse a lo establecido en el artículo 163 del presente reglamento.
 
 ### CAPÍTULO IV. De las Comisiones de Investigación
 
@@ -6201,3 +6263,37 @@ G.O. 20 DE DICIEMBRE DE 2021.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO, SEXTO Y SU FRACCIÓN II, Y SÉPTIMO, DEROGÁNDOSE EL PÁRRAFO OCTAVO DEL ARTÍCULO 162; SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, DEROGÁNDOSE LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 163; SE REFORMA EL ARTÍCULO 287; SE REFORMA EL PÁRRAFO PRIMERO, ASÍ COMO LAS FRACCIONES I Y IV, Y SE ADICIONA UN PÁRRAFO QUINTO DEL ARTÍCULO 288, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 58;·Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 59, AMBOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 141; SE REFORMA EL ARTÍCULO 145; Y SE REFORMA Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 147, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III, ADICIONÁNDOSE LA FRACCIÓN V DEL ARTÍCULO 58; Y SE REFORMAN LAS FRACCIONES II Y III, ADICIONÁNDOSE LA FRACCIÓN V DEL ARTÍCULO 59, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La convocatoria al Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes se emitirá una vez que se haya constituido el Sistema de Registro y Documentación de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes previsto en los artículos 59, apartado L, numeral 3 de la Constitución Política de la Ciudad de México y 9 de la Ley de Derechos de los Pueblos y Barrios Originarios y Comunidades Indígenas Residentes en la Ciudad de México.
