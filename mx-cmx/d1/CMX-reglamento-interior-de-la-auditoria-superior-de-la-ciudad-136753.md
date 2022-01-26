@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-13675
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-14"
-last_updated: "2021-12-29"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136753&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-06-04"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2022 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 26 DE ENERO DE 2022.]</small>
 
 Reglamento publicado en el Número 113 de la Gaceta Oficial de la Ciudad de México, el viernes 14 de junio de 2019.
 
@@ -120,7 +120,9 @@ c) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
 d) Coordinación de Vinculación Institucional; y
 
-e) Unidad de Transparencia.
+> <small>(F. DE E., G.O. 26 DE ENERO DE 2022)</small>
+
+e) Unidad de Transparencia y Gestión Documental.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -404,7 +406,9 @@ XXV. Participar, de manera directa o a través de un representante, como integra
 
 XXVI. Proponer a la persona titular de la Auditoría Superior los mecanismos para la mejora continua, simplificación e innovación de los procesos internos, con la intención de elevar los niveles de eficacia, desempeño y profesionalismo;
 
-XXVII. Participar, en el ámbito de su competencia, en los trabajos que se requieran para dar cumplimiento a las disposiciones legales en materia de transparencia, acceso a la información pública, protección de datos personales y archivos, vigentes en la Ciudad de México, en cuanto a la atención de los requerimientos de información y organización, clasificación, conservación, guarda y custodia de sus archivos; y
+> <small>(F. DE E., G.O. 26 DE ENERO DE 2022)</small>
+
+XXVII. Participar, en el ámbito de su competencia, en los trabajos que se requieran para dar cumplimiento a las disposiciones legales en materia de transparencia, acceso a la información pública, protección de datos personales y archivos, vigentes en la Ciudad de México, en cuanto a la atención de los requerimientos de información y organización, clasificación, conservación, guarda y custodia de sus archivos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -854,7 +858,9 @@ VII. Coordinar la realización de investigaciones en materia de fiscalización, 
 
 VIII. Analizar la viabilidad de las propuestas de mejora en la gestión pública que propongan las instituciones, organismos, asociaciones nacionales e internacionales y eventos que tengan relación directa o indirecta con la fiscalización superior;
 
-IX. Dar seguimiento a los acuerdos y actividades generados con los organismos de fiscalización nacionales e internaciones, así como con la Auditoría Superior de la Federación y las Entidades de Fiscalización Superior Locales;
+> <small>(F. DE E., G.O. 26 DE ENERO DE 2022)</small>
+
+IX. Dar seguimiento a los acuerdos y actividades generados con los organismos de fiscalización nacionales e internacionales, así como con la Auditoría Superior de la Federación y las Entidades de Fiscalización Superior Locales;
 
 X. Fungir como enlace y coordinar el seguimiento de los acuerdos, disposiciones o criterios tomados en reuniones y eventos de los Sistemas de Fiscalización y Anticorrupción a nivel local y federal;
 
@@ -1068,11 +1074,13 @@ XXI. Proporcionar los servicios de apoyo administrativo que requieran las unidad
 
 XXII. Establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones e información de la Auditoría Superior, de acuerdo a las normas aprobadas para su operación, desarrollo y vigilancia;
 
-XXIII. Coordinar la operación y desarrollo del Servicio Profesional Fiscalizador de Carrera; y
+> <small>(F. DE E., G.O. 26 DE ENERO DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2021)</small>
+XXIII. Coordinar la operación y desarrollo del Servicio Profesional Fiscalizador de Carrera;
 
-XXIV. Dirigir, planear e instrumentar, acciones, políticas y programas que permitan la promoción y fortalecimiento de la Igualdad Sustantiva dentro de la Auditoría Superior;
+(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2021) (F. DE E., G.O. 26 DE ENERO DE 2022)
+
+XXIV. Dirigir, planear e instrumentar, acciones, políticas y programas que permitan la promoción y fortalecimiento de la Igualdad Sustantiva dentro de la Auditoría Superior, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -1106,11 +1114,11 @@ Las personas servidoras públicas de la Auditoría Superior y participantes debe
 
 La Dirección General de Administración será el área encargada de actualizar el Estatuto del Servicio Profesional Fiscalizador de Carrera y presentarlo al Comité para su validación y posterior aprobación y expedición de la persona titular de la Auditoría Superior. Dicho documento, tendrá por objeto establecer las normas y procedimientos del funcionamiento del Servicio Profesional Fiscalizador de Carrera, así como los derechos y obligaciones de sus integrantes y lo relativo a la integración y atribuciones del Comité del Servicio Profesional Fiscalizador de Carrera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2021)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2021) (F. DE E., G.O. 26 DE ENERO DE 2022)
 
 ###### Artículo 29.
 
-La Auditoría Superior contará con un Comité del Servicio Profesional Fiscalizador de Carrera que será presidido por la personan (sic) titular de la Auditoría Superior y se integrará de la siguiente manera:
+La Auditoría Superior contará con un Comité del Servicio Profesional Fiscalizador de Carrera que será presidido por su titular y se integrará de la siguiente manera:
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -1251,3 +1259,11 @@ TERCERO.- Los asuntos competencia de las Unidades Administrativas y áreas que s
 CUARTO.- Los recursos humanos, materiales, informáticos y financieros de las Unidades Administrativas y áreas que se extinguen en virtud de este Acuerdo, se transferirán a aquellas que asuman sus atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables y la Dirección General de Administración.
 
 QUINTO.- La normatividad interna de la Auditoría Superior, deberá actualizarse conforme a las necesidades de las Unidades Administrativas y las áreas adscritas a ésta Institución, por lo tanto, continuará vigente en todo aquello que no se oponga al contenido del presente Acuerdo.
+
+G.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "NOTA ACLARATORIA AL ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese la presente Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Esta Nota Aclaratoria entrará en vigor el día de su publicación.
