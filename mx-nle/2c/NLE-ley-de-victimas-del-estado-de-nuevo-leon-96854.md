@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-victimas-del-estado-de-nuevo-leon-96854"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2021-05-21"
+last_updated: "2022-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de diciembre de 2013.
 
@@ -79,7 +79,9 @@ II. Asesoría Jurídica. Orientación jurídica que se brinda a las víctimas en
 
 III. Asesor Victimológico. El profesional encargado de brindar atención especializada en forma directa y personalizada a la víctima;
 
-IV. Asistencia. El conjunto de medidas y políticas públicas de orden jurídico, social, entre otros, que en el ámbito de sus respectivas competencias y alcances, desarrollan en favor de las víctimas las autoridades encargadas de la aplicación de esta Ley, orientadas a restablecer la vigencia de los derechos de éstas, así como a brindarles condiciones para llevar una vida digna y promover su incorporación a la vida social y económica;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+IV. Asistencia. El conjunto de medidas y políticas públicas de orden jurídico, social, entre otros, que, en el ámbito de sus respectivas competencias y alcances, desarrollan en favor de las víctimas las autoridades encargadas de la aplicación de esta Ley en favor de las víctimas. Estando estas medidas y políticas, orientadas a restablecer la vigencia de los derechos de las víctimas, así como a brindarles condiciones para llevar una vida digna y promover su incorporación a la vida social y económica;
 
 V. Atención. La acción de dar información, orientación y canalización médica, jurídica y psicosocial a la víctima, con el objeto de facilitar el ejercicio de sus derechos a la verdad, justicia y reparación integral;
 
@@ -91,49 +93,97 @@ VIII. Comisión. La Comisión Ejecutiva Estatal de Atención a Víctimas;
 
 IX. Comité. El Comité de Atención, Asistencia y Protección a las Víctimas;
 
-X. Compensación. Erogación económica a que la víctima tenga derecho en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XI. Daño: Muerte o lesiones corporales, daños o perjuicios morales y materiales, salvo a los bienes de propiedad de la persona responsable de los daños; pérdidas de ingresos directamente derivadas de un interés económico; pérdidas de ingresos directamente derivadas del uso del medio ambiente incurridas como resultado de un deterioro significativo del medio ambiente, teniendo en cuenta los ahorros y los costos; costo de las medidas de restablecimiento, limitado al costo de las medidas efectivamente adoptadas o que vayan a adoptarse; y costo de las medidas preventivas, incluidas cualesquiera pérdidas o daños causados por esas medidas, en la medida en que los daños deriven o resulten;
+X. Comité Interdisciplinario Evaluador. La unidad administrativa a cargo de la Comisión Ejecutiva Estatal de Atención a Víctimas, que entre otros aspectos podrá, llevar a cabo el análisis, integración, valoración de información y documentación para emitir, cuando corresponda conforme a esta Ley, los dictámenes de reparación integral, medidas de ayuda inmediata o cualquier otro contemplado en la legislación y que responda a la Naturaleza del Comité Interdisciplinario Evaluador;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XII. Declaración de Ausencia por Desaparición: La sentencia que declara dicha situación jurídica de las personas que de manera involuntaria y con motivo de un hecho violento se les haya privado de su libertad y no se tenga noticias de su paradero, ni se haya confirmado su muerte, conforme al procedimiento y en los términos precisados en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León;
+XI. Compensación. Erogación económica a que la víctima tenga derecho en los términos de esta Ley;
 
-XIII. Fondo. El Fondo de Atención, Auxilio y Protección a las Víctimas del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XIV. Hecho victimizante. Acto u omisión que daña, menoscaba o pone en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Éstos pueden estar tipificados como delito en la legislación estatal o constituir una violación a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Nuevo León o en los Tratados Internacionales de los que México forma parte;
+XII. Daño. Muerte o lesiones corporales, daños o perjuicios morales y materiales, salvo a los bienes de propiedad de la persona responsable de los daños; pérdidas de ingresos directamente derivadas de un interés económico; pérdidas de ingresos directamente derivadas del uso del medio ambiente incurridas como resultado de un deterioro significativo del medio ambiente, teniendo en cuenta los ahorros y los costos; costo de las medidas de restablecimiento, limitado al costo de las medidas efectivamente adoptadas o que vayan a adoptarse; y costo de las medidas preventivas, incluidas cualesquiera pérdidas o daños causados por esas medidas, en la medida en que los daños deriven o resulten;
 
-XV. Ley. La Ley de Víctimas del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XVI. Mínimo existencial: Constituye una garantía fundada en la dignidad humana consistente en la obligación del Estado de proporcionar a la víctima y su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a los seres humanos en cada momento de su existencia;
+XIII. Declaración de Ausencia por Desaparición: La sentencia que declara dicha situación jurídica de las personas que de manera involuntaria y con motivo de un hecho violento se les haya privado de su libertad y no se tenga noticias de su paradero, ni se haya confirmado su muerte, conforme al procedimiento y en los términos precisados en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León;
 
-XVII. Procuraduría. La Procuraduría General de Justicia del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XVIII. Protección. El auxilio y apoyo que se brinde, para garantizar la seguridad de la víctima por parte de las autoridades obligadas de acuerdo al marco jurídico aplicable;
+XIV. Fiscalía. La Fiscalía General de Justicia del Estado de Nuevo León;
 
-XIX. Proyecto de Vida. La expectativa razonable y accesible de realización y desarrollo personal, familiar y profesional;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XX. Recuperación. Comprende desde el momento en que se presenta la denuncia o querella, hasta que se determine que a la víctima se le han asegurado las condiciones establecidas en esta Ley;
+XV. Fondo. El Fondo de Atención, Auxilio y Protección a las Víctimas del Estado de Nuevo León;
 
-XXI. Registro. El Registro Estatal de Víctimas de Nuevo León;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XXII. Reglamento. El Reglamento de la presente Ley;
+XVI. Hecho victimizante. Acto u omisión que daña, menoscaba o pone en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Éstos pueden estar tipificados como delito en la legislación estatal o constituir una violación a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Nuevo León o en los Tratados Internacionales de los que México forma parte;
 
-XXIII. Reparación Integral. La reparación del daño a la víctima que deberá ser adecuada, efectiva, rápida y proporcional a las violaciones o daños sufridos. Comprende, según el caso, la restitución, compensación, la rehabilitación, la satisfacción y las medidas de no repetición;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XXIV. Sistema Estatal. El Sistema Estatal de Atención a las Víctimas;
+XVII. Ley. La Ley de Víctimas del Estado de Nuevo León;
 
-XXV. Víctima. Persona física que directa o indirectamente ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XXVI. Víctimas directas. Las personas físicas que hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquier lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado Nuevo León o en los Tratados Internacionales de los que el Estado mexicano sea parte;
+XVIII. Medidas de Atención, Asistencia y Protección: Aquellas medidas a las que tienen derecho las víctimas y que deberán brindarse de acuerdo con lo dispuesto en esta Ley y de forma inmediata desde la comisión del hecho victimizante, hasta que la víctima haya superado dicha situación. Comprenden de forma enunciativa y no limitada todas las medidas que establece esta ley;
 
-XXVII. Víctimas indirectas. Son víctimas indirectas los familiares y aquellas personas físicas que, teniendo una relación inmediata con la víctima directa, hubieran sufrido cualquier especie de daño como consecuencia del hecho victimizante;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XXVIII. Víctimas potenciales. Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito;
+XIX. Perspectiva de género. Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
-XXIX. Victimización. Fenómeno por el cual una persona o grupo se convierte en víctima; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XXX. Violación de derechos humanos. Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado Nuevo León o en los Tratados Internacionales de los que el Estado mexicano sea parte, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con anuencia o colaboración de éste.
+XX. Protección. El auxilio y apoyo que se brinde, para garantizar la seguridad de la víctima por parte de las autoridades obligadas de acuerdo al marco jurídico aplicable;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXI. Proyecto de Vida. La expectativa razonable y accesible de realización y desarrollo personal, familiar y profesional;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXII. Recuperación. Comprende desde el momento en que se presenta la denuncia o querella, hasta que se determine que a la víctima se le han asegurado las condiciones establecidas en esta Ley;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXIII. Registro. El Registro Estatal de Víctimas de Nuevo León;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXIV. Reglamento. El Reglamento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXV. Reparación Integral. La reparación del daño a la víctima que deberá ser adecuada, efectiva, rápida y proporcional a las violaciones o daños sufridos. Comprende, según el caso, la restitución, compensación, la rehabilitación, la satisfacción y las medidas de no repetición;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXVI. Sistema Estatal. El Sistema Estatal de Atención a las Víctimas;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXVII. Víctima. Persona física que directa o indirectamente ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXVIII. Víctimas directas. Las personas físicas que hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquier lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado Nuevo León o en los Tratados Internacionales de los que el Estado mexicano sea parte;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXIX. Víctimas indirectas. Son víctimas indirectas los familiares y aquellas personas físicas que, teniendo una relación inmediata con la víctima directa, hubieran sufrido cualquier especie de daño como consecuencia del hecho victimizante;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXX. Víctimas potenciales. Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXXI. Victimización. Fenómeno por el cual una persona o grupo se convierte en víctima; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XXXII. Violación de derechos humanos. Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado Nuevo León o en los Tratados Internacionales de los que el Estado mexicano sea parte, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con anuencia o colaboración de éste.
 
 ### CAPÍTULO III. COMPETENCIAS, ATRIBUCIONES Y OBLIGACIONES
 
@@ -225,35 +275,65 @@ VIII. Factibilidad. Las políticas públicas y estrategias operativas de las aut
 
 IX. Gratuidad. Todas las acciones, procedimientos, y cualquier otro trámite que implique el derecho de acceso a la justicia y demás derechos reconocidos en esta Ley serán gratuitos para la víctima;
 
-X. Integralidad de atención a la víctima. Los servicios que se presten a las víctimas se realizarán de forma multidisciplinaria y especializada a fin de garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a que tienen derecho;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XI. No criminalización. Las autoridades se abstendrán de agravar el sufrimiento de la víctima, así como de tratarla como presunta responsable de la comisión de los hechos que denuncie.
+X. Igualdad de género. Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familia;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XI. Integralidad de atención a la víctima. Los servicios que se presten a las víctimas se realizarán de forma multidisciplinaria y especializada a fin de garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a que tienen derecho;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XII. No criminalización. Las autoridades se abstendrán de agravar el sufrimiento de la víctima, así como de tratarla como presunta responsable de la comisión de los hechos que denuncie.
 
 Ninguna autoridad o particular podrá especular públicamente sobre la pertenencia de las víctimas a la delincuencia o su vinculación con alguna actividad delictiva. La estigmatización, el prejuicio y las consideraciones de tipo subjetivo deberán evitarse;
 
-XII. Máxima protección. Toda autoridad de los órdenes de gobierno debe velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los derechos humanos;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XIII. Mínimo existencial. Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia;
+XIII. Máxima protección. Toda autoridad de los órdenes de gobierno debe velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los derechos humanos;
 
-XIV. No discriminación. Los servidores públicos que laboren en las instituciones sujetas a esta Ley deberán abstenerse de incurrir en tratos discriminatorios, motivados por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, preferencias sexuales, estado civil, opiniones políticas, ideológicas o de cualquier otro tipo, que tengan por objeto impedir o anular el reconocimiento o el ejercicio de los derechos de las víctimas;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XV. No revictimización. Las autoridades a que se refiere esta Ley deberán evitar la desatención y el trato inadecuado a las víctimas, tampoco podrán exigir de la víctima acciones o sujeción de ésta a procedimientos que agraven injustificadamente su condición de víctima, ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos y el cumplimiento de sus deberes;
+XIV. Mínimo existencial. Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia;
 
-XVI. Participación conjunta. Con objeto de contribuir a superar la vulnerabilidad de las víctimas, las autoridades responsables de la aplicación de esta Ley deberán implementar medidas de atención, asistencia, protección y reparación integral, con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XV. No discriminación. Los servidores públicos que laboren en las instituciones sujetas a esta Ley deberán abstenerse de incurrir en tratos discriminatorios, motivados por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, preferencias sexuales, estado civil, opiniones políticas, ideológicas o de cualquier otro tipo, que tengan por objeto impedir o anular el reconocimiento o el ejercicio de los derechos de las víctimas;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XVI. No revictimización. Las autoridades a que se refiere esta Ley deberán evitar la desatención y el trato inadecuado a las víctimas, tampoco podrán exigir de la víctima acciones o sujeción de ésta a procedimientos que agraven injustificadamente su condición de víctima, ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos y el cumplimiento de sus deberes;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XVII. Participación conjunta. Con objeto de contribuir a superar la vulnerabilidad de las víctimas, las autoridades responsables de la aplicación de esta Ley deberán implementar medidas de atención, asistencia, protección y reparación integral, con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas.
 
 Las víctimas tienen derecho a colaborar con las investigaciones y las medidas para lograr superar su condición de vulnerabilidad, atendiendo al contexto, siempre y cuando las medidas no impliquen un detrimento a sus derechos;
 
-XVII. Progresividad y no regresividad. Las autoridades a que se refiere esta Ley, tienen la obligación de realizar las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar aquellos a niveles o estándares más reducidos de los alcanzados;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XVIII. Publicidad. Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que ello no vulnere o contravenga los derechos de las víctimas, las disposiciones relativas del proceso penal, la confidencialidad de los datos personales y demás disposiciones legales aplicables.
+XVIII. Progresividad y no regresividad. Las autoridades a que se refiere esta Ley, tienen la obligación de realizar las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar aquellos a niveles o estándares más reducidos de los alcanzados;
 
-Las instituciones públicas responsables de la aplicación de esta Ley, en el ámbito de sus respectivas competencias, deberán implementar mecanismos de difusión eficaces, a fin de brindar información y orientación a las víctimas acerca de los derechos, servicios, mecanismos, procedimientos y recursos a los que pueden acceder;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XIX. Rendición de cuentas. Las autoridades y funcionarios encargados de la implementación de la Ley, así como de los planes y programas que esta Ley regula, estarán sujetos a mecanismos efectivos de rendición de cuentas y de evaluación que contemplen la participación de la sociedad civil, particularmente de víctimas y colectivos de víctimas;
+XIX. Publicidad. Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que ello no vulnere o contravenga los derechos de las víctimas, las disposiciones relativas del proceso penal, la confidencialidad de los datos personales y demás disposiciones legales aplicables.
 
-XX. Transparencia y acceso a la información. Los servicios, procedimientos y acciones relacionados con las víctimas, deberán instrumentarse de manera que garanticen la transparencia de la gestión pública y el acceso a la información pública gubernamental, observando los límites fijados por las disposiciones jurídicas en la materia; así como, a la confidencialidad de la información y datos obtenidos, proporcionados o generados que integren el expediente de la víctima; y
+Las instituciones públicas responsables de la aplicación de esta Ley, en el ámbito de sus respectivas competencias, deberán implementar mecanismos de difusión eficaces, a fin de brindar información y orientación a las víctimas acerca de los derechos, servicios, mecanismos, procedimientos y recursos a los que pueden
 
-XXI. Trato Deferente. El personal de las instituciones sujetas al presente ordenamiento, deberán ofrecer a las víctimas un trato con empatía, tacto, paciencia y amabilidad.
+acceder;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XX. Rendición de cuentas. Las autoridades y funcionarios encargados de la implementación de la Ley, así como de los planes y programas que esta Ley regula, estarán sujetos a mecanismos efectivos de rendición de cuentas y de evaluación que contemplen la participación de la sociedad civil, particularmente de víctimas y colectivos de víctimas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XXI. Transparencia y acceso a la información. Los servicios, procedimientos y acciones relacionados con las víctimas, deberán instrumentarse de manera que garanticen la transparencia de la gestión pública y el acceso a la información pública gubernamental, observando los límites fijados por las disposiciones jurídicas en la materia; así como, a la confidencialidad de la información y datos obtenidos, proporcionados o generados que integren el expediente de la víctima; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XXII. Trato Deferente. El personal de las instituciones sujetas al presente ordenamiento, deberán ofrecer a las víctimas un trato con empatía, tacto, paciencia y amabilidad.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS VÍCTIMAS
 
@@ -335,9 +415,11 @@ Las víctimas recibirán atención, asistencia y protección oportunas o de urge
 
 Todas las medidas de atención, asistencia y protección contempladas en la presente Ley, son de carácter enunciativo y no limitativo. Se brindarán garantizando un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 10.
 
-Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán atención médica y psicológica de emergencia en los términos de la presente Ley.
+Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, así como de desplazamiento interno, recibirán atención médica y psicológica de emergencia en los términos de la presente Ley.
 
 ###### Artículo 11.
 
@@ -351,6 +433,22 @@ Solo ante la imposibilidad de que la atención, asistencia y protección no pued
 
 Asimismo, siempre que sea posible, tratándose de atención médica, se procurará canalizar a la víctima a las instituciones de salud obligadas a prestarle servicios por su carácter de derechohabiente, asegurado, pensionado o cualesquier otra calidad.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+Las víctimas podrán requerir que las medidas materia de esta Ley le sean proporcionadas por una institución distinta a aquella o aquellas que hayan estado involucradas en el hecho victimizante, ya sea de carácter público o privado, a fin de evitar un nuevo proceso de victimización.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+El Comité, deberá otorgar, con cargo al presupuesto autorizado al Fondo, las Medidas de Atención, Asistencia y Protección que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación directa con el hecho victimizante.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, el Comité, a través de la Comisión, podrá autorizar que la víctima acuda a una institución de carácter privado con cargo al Fondo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+El Comité, deberá otorgar, con cargo al presupuesto autorizado del Fondo, los recursos de que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho victimizante. La Comisión requerirá a la víctima en un plazo de treinta días, los comprobantes de los gastos que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación establecidos en el reglamento de la ley.
+
 #### SECCIÓN I. MEDIDAS DE ATENCIÓN INMEDIATAS
 
 ###### Artículo 13.
@@ -361,11 +459,15 @@ La gravedad del daño sufrido por las víctimas será el eje que determinará la
 
 Las medidas de atención, asistencia y protección que se proporcione a las víctimas estarán libres de prejuicios motivados por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las víctimas y estarán regidas bajo el principio de igualdad.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 15.
 
-Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, adultos mayores y población indígena.
+Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, personas adultas mayores, personas con discapacidad, personas en situación de migración, personas indígenas, personas defensoras de derechos humanos, periodistas, personas en situación de desplazamiento interno, entre otros. Las medidas previstas en el presente Capítulo podrán cubrirse con cargo al Fondo, cuando corresponda en coordinación con las autoridades correspondientes en el ámbito de su competencia.
 
-#### SECCIÓN II. MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+#### SECCIÓN I BIS. MEDIDAS DE ATENCIÓN EN MATERIA DE SALUD
 
 ###### Artículo 16.
 
@@ -399,7 +501,9 @@ En caso de que la unidad médica a la que acude o es enviada la víctima no cuen
 
 En materia de asistencia y atención médica, psicológica, psiquiátrica y odontológica, la víctima tendrá todos los derechos establecidos por la Ley General de Salud, para los usuarios de los servicios de salud y tendrá los siguientes derechos adicionales:
 
-I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de las unidades médicas públicas estatales y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los Derechos Humanos sufridos por cada víctima. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de ayuda que se establecen en la presente Ley, las cuales, si así lo determina el profesionista, se continuarán brindando hasta el final del tratamiento;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de las unidades médicas públicas estatales y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los Derechos Humanos sufridos por cada víctima. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de atención, asistencia y protección que se establecen en la presente Ley, las cuales, si así lo determina el profesionista, se continuarán brindando hasta el final del tratamiento.
 
 II. El Estado, a través de sus organismos, dependencias y entidades de Salud Pública, así como aquellos Municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán otorgar citas médicas, en el menor tiempo posible y no mayor al contemplado en la Ley General de Víctimas, previa solicitud, salvo que sean casos de atención de urgencia en salud, en cuyo caso la atención será inmediata;
 
@@ -419,7 +523,7 @@ A toda víctima de violación o cualquier otra conducta que afecte su integridad
 
 En caso de que la institución médica a la que acude o es enviada la víctima no cumpla con lo señalado en los artículos anteriores y sus costos hayan sido cubiertos por la víctima, el Fondo creado en esta Ley se los reembolsará de manera completa y rápida.
 
-#### SECCIÓN III. MEDIDAS EN MATERIA DE TRANSPORTE
+#### SECCIÓN II. MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
 
 ###### Artículo 21.
 
@@ -427,15 +531,33 @@ El Sistema para el Desarrollo Integral de la Familia del Estado, los Sistemas Mu
 
 Se podrán establecer convenios de coordinación o de colaboración con instituciones públicas o privadas para la prestación de estos servicios.
 
-#### SECCIÓN IV. MEDIDAS EN MATERIA DE PROTECCIÓN
+#### SECCIÓN III. MEDIDAS EN MATERIA DE TRANSPORTE
 
 ###### Artículo 22.
 
 Cuando la víctima se encuentre en un lugar distinto a su lugar de residencia y desee regresar, el Estado, o en su caso el Municipio que corresponda, cubrirá los gastos correspondientes, garantizando, en todos los casos, que el medio de transporte usado por la víctima para su regreso sea el más seguro y el que le cause menos molestia de acuerdo con sus condiciones.
 
-En el Reglamento de esta Ley se establecerán los procedimientos necesarios que permitan garantizar que dicho retorno sea de carácter voluntario, seguro y digno.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ENERO DE 2022)</small>
 
-#### SECCIÓN V. MEDIDAS EN MATERIA DE ASESORÍA JURÍDICA
+El Estado o los municipios en donde se haya cometido el hecho victimizante, a través de la Comisión, con cargo al Fondo y de conformidad a las normas reglamentarias correspondientes a los recursos de ayuda del Fondo, apoyarán a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa, en todos los casos en los cuales la muerte sobrevenga como resultado del hecho victimizante.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. En todos los casos, el medio de transporte usado por la víctima para su traslado deberá ser el más seguro, digno y el que le cause menos molestia de acuerdo con sus condiciones.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+La Comisión requerirá a la víctima en un plazo de treinta días, los comprobantes de los gastos que se hayan erogado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación establecidos en el Reglamento de la ley
+
+(REUBICADO [N. DE E. ANTES SEGUNDO PÁRRAFO], P.O. 26 DE ENERO DE 2022)
+
+En el Reglamento correspondiente se establecerán los procedimientos necesarios que permitan garantizar que dicho retorno sea de carácter voluntario, seguro y digno.
+
+#### SECCIÓN IV. MEDIDAS EN MATERIA DE PROTECCIÓN
 
 ###### Artículo 23.
 
@@ -457,7 +579,7 @@ Serán sancionados administrativa, civil o penalmente, de conformidad con las le
 
 Las medidas de protección podrán extenderse al núcleo familiar, siempre que ello sea necesario, según el nivel de riesgo evaluado para cada caso particular y exista amenaza contra los derechos fundamentales a la vida, la integridad física, la libertad y la seguridad personal de los miembros del mismo. El estudio técnico de nivel de riesgo gozará de carácter reservado y confidencial.
 
-#### SECCIÓN VI. MEDIDAS EN MATERIA DE PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
+#### SECCIÓN V. MEDIDAS EN MATERIA DE ASESORÍA JURÍDICA
 
 ###### Artículo 25.
 
@@ -467,7 +589,7 @@ Las autoridades Estatales y Municipales brindarán de inmediato a las víctimas 
 
 La información y asesoría deberán brindarse en forma gratuita y por profesionales conocedores de los derechos de las víctimas, garantizándoles siempre un trato respetuoso de su dignidad y el acceso efectivo al ejercicio pleno y tranquilo de todos sus derechos.
 
-#### SECCIÓN I. DE LA RESTITUCIÓN
+#### SECCIÓN VI. MEDIDAS EN MATERIA DE PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 27.
 
@@ -537,6 +659,14 @@ XV. A que se les notifique toda resolución que pueda afectar sus derechos y a i
 
 XVI. En los casos que impliquen graves violaciones a los derechos humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+La Comisión podrá cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo. Solo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia, de conformidad a lo establecido en el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+En el Reglamento de Administración y Operación del Fondo de Atención, Auxilio y Protección a las Victimas del Estado de Nuevo León, se establecerán los procedimientos al respecto.
+
 Los derechos de la víctima que se vinculen con el procedimiento penal se ejercerán y harán efectivos en los términos que se contengan en la legislación procesal penal aplicable, según el caso.
 
 ###### Artículo 31.
@@ -563,7 +693,9 @@ Las víctimas tendrán derecho a optar por la solución de conflictos conforme a
 
 No podrá llevarse la conciliación ni la mediación, a menos de que quede acreditado a través de los medios idóneos, que la víctima está en condiciones de tomar esa decisión.
 
-El Ministerio Público y la Procuraduría llevarán un registro sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+El Ministerio Público y la Fiscalía llevarán un registro sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos.
 
 Se sancionará a los servidores públicos que conduzcan a las víctimas a tomar estas decisiones sin que éstas estén conscientes de las consecuencias que ello conlleva.
 
@@ -579,15 +711,23 @@ El Estado, y en su caso los Municipios, a través de sus Instituciones, de ofici
 
 Toda víctima de desaparición tiene derecho a que las autoridades desplieguen las acciones pertinentes para su protección con el objetivo de preservar, al máximo posible, su vida y su integridad física y psicológica. Esto incluye la instrumentación de protocolos de búsqueda conforme a la legislación aplicable y los Tratados Internacionales de los que (sic) Estado Mexicano sea parte.
 
-Esta obligación incluye la realización de las exhumaciones de cementerios, fosas clandestinas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cuerpos u osamentas de las víctimas. Las exhumaciones deberán realizarse con la debida diligencia y competencia y conforme a las normas y protocolos internacionales sobre la materia, buscando la correcta ubicación, recuperación y posterior identificación de los cuerpos u osamentas bajo estándares científicos reconocidos internacionalmente.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+Esta obligación, incluye la realización de las exhumaciones de cementerios, fosas clandestinas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cuerpos u osamentas de las víctimas. Las exhumaciones deberán realizarse con la debida diligencia y competencia y conforme a las normas y protocolos internacionales sobre la materia, buscando garantizar siempre la correcta ubicación, recuperación y posterior identificación de los cuerpos u osamentas bajo estándares científicos reconocidos internacionalmente. Los costos de los exámenes referidos con anterioridad se podrán cubrir con cargo al Fondo. Solo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia, de conformidad a lo establecido en el Reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
 
 Los familiares de las víctimas tienen el derecho a estar presentes en las exhumaciones, por sí o a través de sus asesores jurídicos o representantes; a ser informadas sobre los protocolos y procedimientos que serán aplicados y a designar peritos independientes, acreditados ante organismo nacional o internacional de protección a los Derechos Humanos o expertos en el mismo campo, que contribuyan al mejor desarrollo de las mismas.
 
-Una vez identificados plenamente y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley y en la codificación penal adjetiva, la entrega de los cuerpos u osamentas de las víctimas a sus familiares deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar, en su caso, los restos de las víctimas ya identificados, de conformidad con lo que establezcan las leyes de la materia.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+Una vez identificados plenamente y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley, en la codificación penal adjetiva y la legislación aplicable, la entrega de los cuerpos u osamentas de las víctimas a sus familiares deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar, en su caso, los restos de las víctimas ya identificados, de conformidad con lo que establezcan las leyes de la materia.
 
 A efectos de garantizar las investigaciones, la autoridad competente deberá informar a los familiares acerca de la imposibilidad de cremación de los restos hasta en tanto no exista una resolución emitida por autoridad judicial competente debidamente ejecutoriada. En caso de reclamación por parte de un gobierno extranjero para la cremación de cadáveres identificados o sin identificar, la autoridad estatal dará curso a la petición de conformidad con lo dispuesto en las leyes aplicables.
 
-Con independencia de los derechos previstos en esta Ley, el reconocimiento de la personalidad jurídica de las víctimas de desaparición de personas y el procedimiento para conocer y resolver de las acciones judiciales de declaración de ausencia, se sujetarán a lo que dispongan las leyes aplicables, a fin de que las víctimas indirectas ejerzan de manera expedita los derechos patrimoniales y familiares del ausente para salvaguardar los intereses esenciales del núcleo familiar.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ENERO DE 2022)</small>
+
+Con independencia de los derechos previstos en esta Ley, el reconocimiento de la personalidad jurídica de las víctimas de desaparición de personas y el procedimiento para conocer y resolver de las acciones judiciales de declaración de ausencia, se sujetarán a lo que dispongan las leyes aplicables en la materia, a fin de que las víctimas indirectas ejerzan de manera expedita los derechos patrimoniales y familiares del ausente para salvaguardar los intereses esenciales del núcleo familiar.
 
 ###### Artículo 38.
 
@@ -641,7 +781,7 @@ IV. La satisfacción. Busca reconocer y restablecer la dignidad de las víctimas
 
 V. Las medidas de no repetición. Buscan que el delito o la violación de derechos sufrida por la víctima no vuelva a ocurrir.
 
-#### SECCIÓN II. DE LA COMPENSACIÓN
+#### SECCIÓN I. DE LA RESTITUCIÓN
 
 ###### Artículo 44.
 
@@ -665,7 +805,7 @@ VIII. La devolución de todos los bienes o valores de su propiedad que hayan sid
 
 En los casos en que una autoridad judicial competente revoque una sentencia condenatoria, se eliminarán los registros de los respectivos antecedentes penales.
 
-#### SECCIÓN III. DE LA REHABILITACIÓN
+#### SECCIÓN II. DE LA COMPENSACIÓN
 
 ###### Artículo 45.
 
@@ -705,15 +845,15 @@ IV. Un organismo internacional de protección de los derechos humanos reconocido
 
 Lo anterior sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme lo dispuesto por la presente Ley.
 
-En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en el artículo 48 de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+En los casos de víctimas de delitos, el Comité podrá determinar la aplicación de un monto atendiendo a los en términos del artículo 48, así como del Capítulo II, Título Quinto de esta Ley, su Reglamento y el Reglamento de Administración y Operación del Fondo de Atención, Auxilio y Protección a las Víctimas.
 
-Cuando no exista la determinación de un monto de compensación fijado por las autoridades y organismos señalados, corresponderá a la Comisión Ejecutiva Estatal de Atención a Víctimas el fijar dicho monto, atendiendo a lo dispuesto por los estándares internacionales que contemplan los tratados en materia de Derechos Humanos y la jurisprudencia que emita la Corte Interamericana de Derechos Humanos, siempre que nuestro país sea suscriptor ratificado de éstas.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE ENERO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
 
-Los montos a los que se refiere el párrafo anterior jamás serán fijados bajo criterios limitativos, sino se atenderá en todo momento a la interpretación más favorable a la víctima de violaciones a derechos humanos por parte de agentes del Estado; ello atendiendo a la interpretación pro persona que debe hacerse en todos los asuntos de la materia.
+Los montos a los que se refiere este artículo jamás serán fijados bajo criterios limitativos, sino se atenderá en todo momento a la interpretación más favorable a la víctima de violaciones a derechos humanos por parte de agentes del Estado; ello atendiendo a la interpretación pro persona que debe hacerse en todos los asuntos de la materia, observando lo dispuesto por los estándares internacionales que contemplan los tratados en materia de Derechos Humanos y la jurisprudencia que emita la Corte Interamericana de Derechos Humanos, siempre que hayan sido ratificadas por el Estado mexicano.
 
 ###### Artículo 47.
 
@@ -721,17 +861,23 @@ Cuando se trate de resoluciones judiciales que determinen la compensación a la 
 
 Sólo en caso de que no se actualicen los supuestos descritos en el párrafo anterior, se estará a lo dispuesto en el artículo 50 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 48.
 
-La Comisión determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo en los términos de la presente Ley y su Reglamento, tomando en cuenta:
+Se podrá determinar el monto del pago de una compensación subsidiaria, cuando esta se encuentre dentro de los supuestos establecidos para acceder al fondo, en los términos de la presente Ley y su Reglamento, tomando en cuenta:
 
 I. La determinación del Ministerio Público cuando el responsable se haya sustraído de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad; y
 
 II. La resolución firme emitida por la autoridad judicial;
 
-La determinación de la Comisión deberá dictarse dentro del plazo de 90-noventa días contados a partir de emitida la resolución correspondiente.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
 
-El monto de la compensación subsidiaria a la que el Estado podrá obligarse, será hasta de quinientas veces el salario mínimo mensual vigente en la capital del Estado.
+La determinación del Comité Interdisciplinario Evaluador deberá dictarse dentro del plazo de 90-noventa días hábiles contados a partir de emitida cualquier de las resoluciones que contemplan las fracciones I y II anteriores.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+El monto de la compensación subsidiaria a la que el Estado podrá obligarse, será hasta de quinientas veces la Unidad de Medida y Actualización.
 
 La compensación otorgada en los términos de este Artículo, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
 
@@ -739,9 +885,13 @@ La compensación otorgada en los términos de este Artículo, ha de ser proporci
 
 De conformidad con lo dispuesto en la presente Ley, la Comisión compensará de forma subsidiaria el daño causado a la víctima en los siguientes casos:
 
-I. En los delitos considerados como graves en la legislación estatal penal sustantiva o adjetiva;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-II. Cuando la víctima haya sufrido daño o menoscabo a su libertad; o,
+I. En los delitos que ameriten prisión preventiva oficiosa conforme a la legislación sustantiva o adjetiva aplicable;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+II. Cuando la víctima haya sufrido daño o menoscabo a su libertad o al libre desarrollo de su personalidad o,
 
 III. Cuando la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental como consecuencia del delito.
 
@@ -767,7 +917,7 @@ El Estado tendrá el derecho a exigir que el sentenciado restituya al Fondo los 
 
 La obtención de la compensación subsidiaria no extingue el derecho de la víctima a exigir reparación de cualquier otra naturaleza, exceptuándose la indemnización por daños y perjuicios ocasionados con motivo de la actividad administrativa pública irregular, tanto del Estado como de los Municipios, los cuales deberán ser reclamados conforme a las bases, límites y procedimientos establecidos en la Ley de Responsabilidad Patrimonial para el Estado y Municipios de Nuevo León.
 
-#### SECCIÓN IV. DE LAS MEDIDAS DE SATISFACCIÓN
+#### SECCIÓN III. DE LA REHABILITACIÓN
 
 ###### Artículo 54.
 
@@ -775,7 +925,9 @@ Las medidas de rehabilitación incluyen, entre otras y según proceda, las sigui
 
 I. Atención médica y psicológica;
 
-II. Asesoría jurídica tendiente a facilitar el ejercicio de los derechos de las (sic); y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+II. Asesoría jurídica tendiente a facilitar el ejercicio de los derechos de las víctimas; y
 
 III. Todas aquellas tendentes a reintegrar a la víctima a la sociedad, incluido su grupo o comunidad.
 
@@ -787,7 +939,7 @@ Las medidas de rehabilitación tenderán a garantizar a la víctima su plena rei
 
 Al dictarse las medidas de rehabilitación, deberá privilegiarse que las mismas se brinden por las instituciones de salud o seguridad social públicas en las que la víctima sea derechohabiente o en las instituciones de asistencia social públicas.
 
-#### SECCIÓN V. DE LAS MEDIDAS DE NO REPETICIÓN
+#### SECCIÓN IV. DE LAS MEDIDAS DE SATISFACCIÓN
 
 ###### Artículo 57.
 
@@ -808,6 +960,8 @@ VI. La realización de actos que conmemoren a las víctimas de hechos victimizan
 ###### Artículo 58.
 
 Para la adopción de cualquiera de las medidas señaladas en el artículo anterior, deberá contarse con la anuencia, aceptación y, en su caso, participación de la víctima.
+
+#### SECCIÓN V. DE LAS MEDIDAS DE NO REPETICIÓN
 
 ###### Artículo 59.
 
@@ -849,7 +1003,9 @@ a) El Gobernador del Estado, quien lo presidirá;
 
 b) El Secretario General de Gobierno;
 
-c) El Procurador General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+c) La persona titular de la Comisión Local de Búsqueda.
 
 d) El Secretario de Finanzas y Tesorería General del Estado;
 
@@ -857,9 +1013,15 @@ e) El Secretario de Salud del Estado;
 
 f) El Secretario de Seguridad Pública;
 
-g) El Secretario de Desarrollo Social; y
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+g) La persona titular de la Secretaría de Igualdad e Inclusión.
 
 h) El Secretario de Educación.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+i) La persona titular de la Secretaría de las Mujeres.
 
 II. Poder Legislativo:
 
@@ -881,6 +1043,10 @@ c) El Presidente de la Comisión Estatal de Derechos Humanos; y
 
 d) El Presidente del Consejo Ciudadano de Seguridad Pública del Estado.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+e) La persona titular de la Fiscalía General de Justicia del Estado;
+
 V. Titular de la Comisión Ejecutiva Estatal de Atención a Víctimas; y
 
 VI. Seis Representantes permanentes, de la sociedad civil, de los cuales tres serán designados previa convocatoria pública por el Presidente del Sistema, y tres serán designados por el Congreso del Estado mediante convocatoria pública.
@@ -892,6 +1058,10 @@ Los representantes designados por el Presidente del Sistema durarán en su encar
 Los representantes designados por el Congreso, serán nombrados con la aprobación de las dos terceras partes de los integrantes del Poder Legislativo, durarán en su encargo cuatro años con la posibilidad de ser reelectos por un período más, previa ratificación del Congreso.
 
 Las dependencias y entidades de la administración pública estatal, en el ámbito de sus atribuciones, coadyuvarán al cumplimiento de las funciones del Sistema Estatal y de los objetivos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+La Secretaría Técnica del Sistema Estatal estará a cargo de la persona titular de la Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 ###### Artículo 63.
 
@@ -953,11 +1123,15 @@ Para la operación del Sistema Estatal y el cumplimiento de sus atribuciones, el
 
 La Comisión será la responsable de la ejecución de los instrumentos, políticas, servicios y acciones estatales en materia de ayuda, asistencia, atención y reparación a las víctimas, por lo cual estará a cargo del Registro Estatal de Víctimas, del Fondo, la Asesoría jurídica y victimológica, así como de la coordinación y asesoría técnica y operativa, para los mismos fines, con el Sistema Estatal de Víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 71.
 
-Con el fin de cumplir el objetivo de esta Ley y hacer plenamente accesibles los servicios brindados por la Comisión, ésta podrá contar con uno o más Centros de Atención a Víctimas, en puntos geográficos estratégicos que permitan la rápida, fácil y diligente proximidad con quienes requieran su atención en cualquier momento. Estos centros contarán con los recursos, la infraestructura y los Asesores Jurídicos y Victimológicos capacitados para atender a víctimas en el ámbito de sus respectivas competencias, conforme a esta Ley, así como derivar a las instituciones competentes a las víctimas para que reciban la atención, asistencia y protección apropiada y especializada.
+Con el fin de cumplir el objetivo de esta Ley y hacer plenamente accesibles los servicios brindados por la Comisión, ésta podrá contar con uno o más Centros de Atención a Víctimas, en puntos geográficos estratégicos que permitan la rápida, fácil y diligente proximidad con quienes requieran su atención en cualquier momento. Estos centros contarán con los recursos, la infraestructura y los Asesores Jurídicos y Victimológicos capacitados con enfoque de derechos humanos y perspectiva de género, para atender a víctimas en el ámbito de sus respectivas competencias, conforme a esta Ley, así como derivar a las instituciones competentes a las víctimas para que reciban la atención, asistencia y protección apropiada y especializada.
 
-En ningún caso la Comisión podrá enviar a víctimas de violaciones a derechos humanos para su atención al Centro de Orientación, Protección y Apoyo a Víctimas del Delito de la Procuraduría del Estado, pero si podrán enviar a víctimas del delito.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+En ningún caso la Comisión podrá enviar a víctimas de violaciones a derechos humanos para su atención a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos de la Fiscalía del Estado, pero si podrán enviar a víctimas del delito.
 
 Para estos fines la Comisión debe establecer rutas de atención y coordinación entre instituciones estatales y municipales, las cuales deberán constar en el Programa Anual de Atención a Víctimas del Estado.
 
@@ -1015,7 +1189,9 @@ VII. Desarrollar las medidas previstas en esta Ley para la protección inmediata
 
 VIII. Coordinar a las instituciones competentes para la atención de una problemática específica, en conjunto con el Sistema Estatal de Víctimas, de acuerdo con los principios establecidos en esta Ley, así como los de coordinación, concurrencia y subsidiariedad;
 
-IX. Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, de conformidad con lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+IX. Establecer mecanismos para la capacitación, formación, actualización y especialización de servidores públicos o dependientes de las instituciones, poniendo especial énfasis en temas de derechos humanos, derechos de las víctimas, perspectiva de género y enfoque diferenciado, de conformidad con lo dispuesto en esta Ley;
 
 X. Realizar las acciones necesarias para la adecuada operación del Registro Estatal de Víctimas;
 
@@ -1047,13 +1223,35 @@ XXIII. Suscribir convenios de colaboración con las organizaciones de la socieda
 
 XXIV. Celebrar bases, convenios o acuerdos con municipios y con otros órganos y dependencias del Estado que sean necesarios para cumplir con su objeto;
 
-XV. Implementar los mecanismos de control que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas, los cuales deberán ser permanentes; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XXVI. Las demás que se deriven del reglamento de esta Ley y demás normatividad aplicable.
+XXV. Implementar los mecanismos de control que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas, los cuales deberán ser permanentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XXVI. Suscribir convenios de colaboración con organizaciones de la sociedad civil, instituciones académicas públicas o privadas, ya sean internacionales, nacionales o estatales, que dentro de sus objetivos cuenten con alguno concerniente con investigaciones académicas o capacitación de servidores públicos estatales, de acuerdo con los principios establecidos en esta Ley y para su cumplimiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XXVII. Las demás que se deriven del reglamento de esta Ley y demás normatividad aplicable.
 
 ###### Artículo 76.
 
 A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, se contará con un Fondo, una asesoría victimológica y un registro de víctimas, el cual dependerá de la Comisión, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+Artículo 76 bis.- La Comisión contará con un Comité Interdisciplinario Evaluador, el cual estará integrado a cargo de un titular y personal especializado, que será designado por la titular de la Comisión, el cual tendrá las siguientes facultades:
+
+I. Elaborar dictámenes sobre el ingreso de las víctimas al Registro;
+
+II. Elaborar los proyectos de dictamen de acceso a los recursos del Fondo para su aprobación por el Comité;
+
+III. Elaborar propuestas o los proyectos de dictamen de reparación integral que contemplen las medidas establecidas en el capítulo V, Título Segundo de esta Ley, incluyendo la compensación si fuera procedente;
+
+IV. En casos de recomendaciones emitidas por la Comisión Estatal de los Derechos Humanos, cuando éstas hayan sido aceptadas por la autoridad responsable, el Comité Interdisciplinario Evaluador podrá elaborar los planes de reparación integral observando lo dispuesto en el Capítulo V, Título Segundo de esta Ley, mismos que deberán ser comunicados a la autoridad responsable; y
+
+V. Las demás establecidas en el Reglamento de esta Ley y en el de Administración y Operación del Fondo de Atención, Auxilio y Protección a las Víctimas.
 
 ### CAPÍTULO III
 
@@ -1119,7 +1317,9 @@ En principio, la presentación de las solicitudes de ingreso al Registro está a
 
 La información que acompaña la incorporación de datos a un registro se consignará en un formato único de declaración y su utilización será obligatoria por parte de las autoridades responsables de acuerdo con esta Ley. El formato único de declaración será sencillo de completar y recogerá la información necesaria para efectos de esta Ley.
 
-El registro de la víctima no implica de oficio el acceso a la compensación, pero accederá, de manera automática, a las medidas de ayuda, asistencia, apoyo y reparación integral, que requerirá de la valoración respectiva que haga la autoridad competente, en términos de lo que dispone esta Ley.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+El registro de la víctima no implica de oficio el acceso a la compensación, pero accederá, de manera automática, a las medidas de atención, asistencia y protección que requerirá de la valoración respectiva que haga la autoridad competente, en términos de lo que dispone esta Ley.
 
 ###### Artículo 83.
 
@@ -1175,7 +1375,9 @@ Presentada la solicitud, deberá ingresarse la misma al Registro y se procederá
 
 Para llevar a cabo la valoración, la Comisión podrá solicitar la información que considere necesaria a cualquiera de los entes del Estado del orden local y municipal, las que estarán en el deber de suministrarla en un plazo que no supere los diez días naturales. El servidor público que sea omiso a la recopilación y entrega de la información se hará acreedor da (sic) las responsabilidades que correspondan.
 
-La realización del proceso de valoración al que se hace referencia en los párrafos anteriores no suspende, en ningún caso, las medidas de ayuda de emergencia a las que tiene derecho la víctima.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
+La realización del proceso de valoración al que se hace referencia en los párrafos anteriores no suspende, en ningún caso, las medidas de atención, asistencia y protección a las que tiene derecho la víctima.
 
 No se requerirá la valoración de los hechos de la declaración cuando:
 
@@ -1211,7 +1413,9 @@ IV. La identificación de la víctima o víctimas del hecho victimizante;
 
 V. La identificación de la entidad, del servidor público o de la persona o entidad que solicitó el registro de la víctima, cuando no sea ella quien lo solicite directamente;
 
-VI. La identificación y descripción detallada de las medidas de ayuda y de atención que efectivamente hayan sido otorgadas a la víctima;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+VI. La identificación y descripción detallada de las medidas de atención, asistencia y protección que efectivamente hayan sido otorgadas a la víctima.
 
 VII. La identificación y descripción detallada de las medidas de reparación que, en su caso, hayan sido otorgadas a la víctima;
 
@@ -1297,7 +1501,9 @@ El Fondo tiene por objeto brindar los recursos necesarios para la ayuda, asisten
 
 El Fondo se integrará con lo siguiente:
 
-I. Los recursos previstos por el Congreso del Estado en el Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+I. Los recursos previstos por el Congreso del Estado en el Presupuesto de Egresos, el cual deberá ser aprobado de acuerdo con los principios constitucionales aplicables.
 
 II. Los recursos obtenidos por la enajenación, por sentencia ejecutoriada, de bienes decomisados dentro de los procesos penales;
 
@@ -1317,9 +1523,21 @@ IX. El monto total de la reparación integral del daño cuando el beneficiario r
 
 X. Las subastas públicas respecto a los objetos o valores que se encuentren a disposición de autoridades investigadoras, siempre y cuando no hayan sido reclamados por quien tenga derecho a ello, en términos de la Ley;
 
-XI. Los bienes y derechos provenientes de Juicios de Extinción de Dominio que ejerza el Ministerio Público a cargo de la Procuraduría; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-XII. Los demás ingresos que surgieren para este fin.
+XI. Los bienes y derechos provenientes de Juicios de Extinción de Dominio que ejerza el Ministerio Público a cargo de la Fiscalía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XII. Lo dispuesto por el Código Nacional de Procedimientos Penales y otras legislaciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+XIII. Lo dispuesto en los artículos 157 Bis, 157 Ter, 157 Quinquies y demás aplicables de la Ley General de Víctimas, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+
+XIV. Los demás ingresos que surgieren para este fin.
 
 ###### Artículo 98.
 
@@ -1335,15 +1553,29 @@ I. El Titular de la Comisión;
 
 II. El Presidente de la Comisión Estatal de Derechos Humanos;
 
-III. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+
+III. El Fiscal General de Justicia del Estado;
 
 IV. El Secretario de Finanzas y Tesorero General del Estado;
 
 V. El Director General del Sistema para el Desarrollo Integral de la Familia en el Estado;
 
-VI. El Secretario de Desarrollo Social del Estado; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
 
-VII. El Titular de la Contraloría y Transparencia Gubernamental.
+VI. La persona titular de la Secretaría de Igualdad e Inclusión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
+
+VII. La persona Titular de la Secretaría de Seguridad;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+
+VIII. La persona Titular de la Secretaría de Salud; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+
+IX. La persona Titular de la Contraloría y Transparencia Gubernamental.
 
 Por cada miembro titular del Comité se nombrará un suplente, que será la única persona facultada para representarlo cuando el titular no asista a las sesiones que se celebren.
 
@@ -1353,9 +1585,11 @@ La organización y funciones del Comité, serán establecidas en el Reglamento d
 
 El Comité aprobará el Reglamento de Administración y Operación del Fondo, mismo que se publicará en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 101.
 
-La aplicación del Fondo será autorizada por el Comité siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad.
+La aplicación del Fondo será autorizada por el Comité siguiendo criterios de transparencia, oportunidad, eficiencia, rendición de cuentas y racionalidad.
 
 ###### Artículo 102.
 
@@ -1377,9 +1611,11 @@ IV. Presentar periódicamente informes y rendición de cuentas ante el Sistema E
 
 Los recursos del Fondo se aplicarán para el auxilio, asistencia, protección y reparación integral de las víctimas en los términos de esta Ley y su respectivo Reglamento.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 105.
 
-Para que la víctima acceda a los recursos del Fondo, además de los requisitos que al efecto establezca esta Ley y su Reglamento, deberán estar inscritas en el Registro a efecto de que la Comisión realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de ayuda, asistencia, protección, auxilio y reparación integral y, en su caso, la compensación.
+Para que la víctima acceda a los recursos del Fondo, además de los requisitos que al efecto establezca esta Ley y su Reglamento, deberán estar inscritas en el Registro a efecto de que la Comisión realice una evaluación integral de su entorno familiar y social con el objeto de contar con los elementos suficientes para determinar las medidas de atención, asistencia y protección, así como a la reparación integral, incluyendo de ser procedente la compensación.
 
 ###### Artículo 106.
 
@@ -1417,15 +1653,19 @@ Todo servidor público, en cumplimiento de sus responsabilidades de atención a 
 
 Los servidores públicos, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para preservar la vida e integridad de las víctimas, como principal objetivo en sus actuaciones.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 111.
 
-Los propios servidores, en el cumplimiento de sus responsabilidades, deberán contar con la debida capacitación y profesionalización para el desempeño de sus actuaciones.
+Los propios servidores, en el cumplimiento de sus responsabilidades, deberán contar con la debida capacitación y profesionalización para el desempeño de sus actuaciones, la cual deberá ser con enfoque de derechos humanos y perspectiva de género.
 
 ### CAPÍTULO II. SANCIONES POR INCUMPLIMIENTO DE LOS SERVIDORES PÚBLICOS FRENTE A LAS VÍCTIMAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2022)</small>
+
 ###### Artículo 112.
 
-Independientemente de las sanciones que se apliquen conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, se impondrá multa de quinientos a mil días de salario mínimo vigente en el estado, sin perjuicio de las demás responsabilidades en que incurren conforme a otras leyes, a los servidores públicos encargados de la atención a las víctimas regulados por esta Ley cuando:
+Independientemente de las sanciones que se apliquen conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, se impondrá multa de quinientas a mil veces la Unidad de Medida y Actualización, sin perjuicio de las demás responsabilidades en que incurren conforme a otras leyes, a los servidores públicos encargados de la atención a las víctimas regulados por esta Ley cuando:
 
 I. Contra la voluntad de la víctima, le hayan practicado cualquier tipo de exploración física o realicen cualquier acto de intimidación;
 
@@ -1442,6 +1682,132 @@ Se aplicará la misma sanción al Juez o Tribunal, que en la sentencia que ponga
 ###### Artículo 114.
 
 Las autoridades competentes verificarán bajo su estricta responsabilidad el cumplimiento de lo ordenado en este Título, principalmente la correcta aplicación de las sanciones.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 2022)</small>
+
+## TITULO SÉPTIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 2022)</small>
+
+### CAPITULO UNICO. DIRECCIÓN DE LA ASESORIA JURIDICA ESTATAL
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 115.
+
+La Comisión Ejecutiva Estatal de Atención a Víctimas del Estado, contará con la Dirección de la Asesoría Jurídica Estatal para la atención a víctimas del delito y de violaciones de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 116.
+
+La· Dirección de la Asesoría Jurídica Estatal contará con todo el personal que requiera para el ejercicio de sus funciones. Entre ellos, por asesores jurídicos de atención a víctimas, peritos y profesionales técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 117.
+
+La Dirección de la Asesoría Jurídica Estatal tendrá las siguientes funciones:
+
+I. Coordinar el servicio de Asesoría Jurídica para Víctimas en asuntos del fuero estatal, a fin de garantizar los derechos de las víctimas contenidos en esta Ley, en tratados internacionales y demás disposiciones aplicables;
+
+II. Coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, civil, laboral, familiar, administrativa y de derechos humanos del fuero local, a fin de garantizar el acceso a la justicia, a la verdad y la reparación integral;
+
+III. Seleccionar y capacitar a los servidores públicos adscritos a la Dirección de la Asesoría Jurídica Estatal;
+
+IV. Designar por cada unidad investigadora de la Fiscalía General de Justicia del Estado; Tribunal o Juzgado de competencia estatal que conozca de materia penal, y por cada Visitaduría General de la Comisión Estatal de Derechos Humanos, cuando menos a una persona asesora jurídica de las víctimas y al personal de auxilio necesario;
+
+V. Proponer a la titular de la Comisión la celebración de convenios de coordinación con todos aquellos que puedan coadyuvar en la defensa de los derechos de las víctimas; y
+
+VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 118.
+
+Las víctimas tendrán el derecho a un Asesor Jurídico gratuito en términos del artículo 168 de la Ley General de Víctimas, así como del artículo 17 del Código Nacional de Procedimientos Penales.
+
+El Asesor Jurídico será asignado inmediatamente por la Comisión Ejecutiva, sin más requisitos que la solicitud formulada por la víctima o a petición de alguna institución, organismo de derechos humanos u organización de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 119.
+
+Los Asesores Jurídicos que pertenezcan a la Dirección de la Asesoría Jurídica Estatal, tendrán las siguientes funciones:
+
+I. Asistir y asesorar a la víctima desde el primer momento en que tenga contacto con la autoridad;
+
+II. Representar a la víctima de manera integral en todos los procedimientos y juicios en los que sea parte, para lo cual deberá realizar todas las acciones legales tendientes a su defensa, incluyendo las que correspondan en materia de derechos humanos tanto en el ámbito nacional como internacional;
+
+III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral y administrativa;
+
+IV. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda, asistencia, atención y reparación integral, y en su caso, tramitarlas ante las autoridades judiciales y administrativas;
+
+V. Dar el seguimiento a todos los trámites de medidas de protección, ayuda, asistencia y atención, que sean necesarias para garantizar la integridad física y psíquica de las víctimas, así como su plena recuperación;
+
+VI. Informar y asesorar a los familiares de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en esta Ley, en los Tratados Internacionales y demás leyes aplicables;
+
+VII. Llevar un registro puntual de las acciones realizadas y formar un expediente del caso;
+
+VIII. Tramitar y entregar copias de su expediente a la víctima, en caso de que ésta las requiera;
+
+IX. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando el Asesor Jurídico Estatal de las Víctimas considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público; y
+
+X. Las demás que se requieran para la defensa integral de los derechos de las víctimas
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 120.
+
+Para ingresar y permanecer como Asesor Jurídico requerirá lo siguiente:
+
+I. Contar con nacionalidad mexicana, o caso de ser extranjera contar con la calidad migratoria de Residente Permanente en ejercicio de sus derechos políticos y civiles
+
+II. Contar con licenciatura en derecho, con cédula profesional expedida por la autoridad competente;
+
+III. En su caso, aprobar los exámenes de ingreso; y
+
+IV. No haber enfrentado una condena por algún delito doloso con sanción privativa de libertad mayor de un año.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 121.
+
+La persona que encabece la Dirección de la Asesoría Jurídica Estatal deberá ser nombrada por la persona titular de la Comisión Ejecutiva Estatal de Atención a Víctimas, quien deberá de reunir los requisitos siguientes:
+
+I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos;
+
+II. Acreditar experiencia de cinco años en el ejercicio de la abogacía, relacionada especialmente, con las materias afines a sus funciones; y poseer, al día de la designación, título y cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años computada al día de su designación, y
+
+III. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año. Empero, si se tratare de ilícitos como el robo, fraude, falsificación, abuso de confianza u otro que lesione seriamente la reputación de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo cualquiera que haya sido la penalidad impuesta.
+
+La Comisión procurará preferir, en igualdad de circunstancias, a quien se haya desempeñado dentro de la dirección de asesoría jurídica Estatal.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
+
+###### Artículo 122.
+
+La persona titular de la Dirección de la Asesoría Jurídica Estatal tendrá, las siguientes atribuciones:
+
+I. Organizar, dirigir, evaluar y controlar los servicios que la Dirección de la Asesoría Jurídica Estatal presten a las víctimas;
+
+II. Conocer de las quejas que se presenten contra los Asesores Jurídicos de atención a víctimas y, en su caso, investigar la probable responsabilidad de los empleados de la Dirección de la Asesoría Jurídica Estatal;
+
+III. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los Asesores Jurídicos; determinando, si han incurrido en alguna causal de responsabilidad por parte de éstos o de los empleados de la Dirección de la Asesoría Jurídica Estatal;
+
+IV. Proponer las políticas que estime convenientes para la mayor eficacia de la defensa de los derechos e intereses de las víctimas;
+
+V. Proponer a la Comisión, las sanciones y correcciones disciplinarias que se deban imponer a los Asesores Jurídicos cuando corresponda;
+
+VI. Promover y fortalecer las relaciones de la Dirección de la Asesoría Jurídica Estatal con las instituciones públicas, sociales y privadas que, por la naturaleza de sus funciones, puedan colaborar al cumplimiento de sus atribuciones y de manera preponderante con las Asesorías Jurídica Federal;
+
+VII. Proponer el proyecto de Plan Anual de Capacitación y Estímulos de la Dirección de la Asesoría Jurídica Estatal, así como un programa de difusión de sus servicios;
+
+VIII. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los Asesores Jurídicos que pertenezcan a la Dirección de la Asesoría Jurídica Estatal, el cual deberá ser publicado;
+
+IX. Elaborar la propuesta de anteproyecto de presupuesto que vaya a ser necesario para cubrir las funciones de la Dirección de la Asesoría Jurídica Estatal y presentarla al área de la Comisión que corresponda; y
+
+X. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
 T R A N S I T O R I O S
 
@@ -1532,3 +1898,15 @@ P.O. 21 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 502. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 079. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La operación del Comité Interdisciplinario Evaluador y de la Asesoría Jurídica Estatal deberá realizarse con los recursos humanos, materiales y financieros con los que cuente la Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+TERCERO.- Las personas titulares del Comité Interdisciplinario Evaluador y de la Asesoría Jurídica Estatal deberán ser nombradas o ratificadas en términos de la Ley de Víctimas del estado de Nuevo León por la titular de la Comisión Ejecutiva Estatal de Atención a Víctimas en un término de 30 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Comisión deberá realizar las adecuaciones a sus Reglamentos correspondientes a más tardar a los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
