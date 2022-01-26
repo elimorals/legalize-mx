@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-municipio-de-meoqui-para-el-ejercicio-15476
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-29"
-last_updated: "2021-12-29"
+last_updated: "2022-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MEOQUI PARA EL EJERCICIO FISCAL DE 2022, CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2022.
 
 Ley publicada en el Folleto Anexo del Número 104 del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2021.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMA DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 TARIFA
 
@@ -39,13 +39,17 @@ II. DERECHOS
 
 […]
 
-(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2022, DECLARÓ LA INVALIDEZ DEL APARTADO II.13 DE LA TARIFA ANEXA SALVO SU PÁRRAFO ÚLTIMO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ENERO DE 2022
 
-II.13.- SERVICIO DE ALUMBRADO PÚBLICO
+II.13.- SERVICIO DE ALUMBRADO PÚBLICO. (VALORES EXPRESADOS EN PESOS)
 
-El municipio percibirá ingresos mensual o bimestralmente por el Derecho de Alumbrado Público (dap), en los términos de los artículos 175 y 176 del Código Municipal para el Estado de Chihuahua, por la prestación del servicio de alumbrado público, que el Municipio otorga en calles, plazas, jardines y demás lugares de uso común.
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DEL APARTADO II.13 DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-La tarifa correspondiente al derecho de alumbrado público será pagada por todos los sujetos de este derecho conforme a la siguiente tabla:
+EL MUNICIPIO PERCIBIRÁ INGRESOS MENSUAL O BIMESTRALMENTE POR EL DERECHO DE ALUMBRADO PÚBLICO (DAP), EN LOS TÉRMINOS DE LOS ARTÍCULOS 175 Y 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, POR LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO, QUE EL MUNICIPIO OTORGA EN CALLES, PLAZAS, JARDINES Y DEMÁS LUGARES DE USO COMÚN.
+
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DEL APARTADO II.13 DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+LA TARIFA CORRESPONDIENTE AL DERECHO DE ALUMBRADO PÚBLICO SERÁ PAGADA POR TODOS LOS SUJETOS DE ESTE DERECHO CONFORME A LA SIGUIENTE TABLA:
 
 TIPO DE PREDIO CUOTA DAP MENSUAL CUOTA DAP
 
@@ -57,21 +61,29 @@ COMERCIAL $160.00 $320.00
 
 INDUSTRIAL $1,300.00 $2,600.00
 
-La recaudación del pago de derechos por el servicio de alumbrado público se realizara cuando los beneficiarios sean propietarios o poseedores de inmuebles dentro del territorio del municipio, conforme a los siguiente:
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DEL APARTADO II.13 DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I. La tarifa a pagar por los beneficiarios del servicio público se podrá pagar directamente a la tesorería del municipio o se podrá incluir en el recibo de luz del organismo suministrador de energía eléctrica con la que el municipio haya celebrado convenio para tal efecto.
+LA RECAUDACIÓN DEL PAGO DE DERECHOS POR EL SERVICIO DE ALUMBRADO PÚBLICO SE REALIZARA CUANDO LOS BENEFICIARIOS SEAN PROPIETARIOS O POSEEDORES DE INMUEBLES DENTRO DEL TERRITORIO DEL MUNICIPIO, CONFORME A LOS SIGUIENTE:
 
-II. El pago será mensual, o bimestral si la recaudación la hace la empresa u organismo suministrador de energía eléctrica.
+I. LA TARIFA A PAGAR POR LOS BENEFICIARIOS DEL SERVICIO PÚBLICO SE PODRÁ PAGAR DIRECTAMENTE A LA TESORERÍA DEL MUNICIPIO O SE PODRÁ INCLUIR EN EL RECIBO DE LUZ DEL ORGANISMO SUMINISTRADOR DE ENERGÍA ELÉCTRICA CON LA QUE EL MUNICIPIO HAYA CELEBRADO CONVENIO PARA TAL EFECTO.
 
-III. El pago será bimestral o anual si se hace por conducto de la tesorería del municipio.
+II. EL PAGO SERÁ MENSUAL, O BIMESTRAL SI LA RECAUDACIÓN LA HACE LA EMPRESA U ORGANISMO SUMINISTRADOR DE ENERGÍA ELÉCTRICA.
 
-Para efectos del cobro de este servicio, el Municipio podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el Municipio.
+III. EL PAGO SERÁ BIMESTRAL O ANUAL SI SE HACE POR CONDUCTO DE LA TESORERÍA DEL MUNICIPIO.
 
-Si la empresa suministradora de energía eléctrica lleva a cabo la recaudación del derecho de alumbrado público, esta lo aplicará a la facturación mensual o bimestral por alumbrado público, y si existieran remanentes y/o excedentes, el saldo deberá reintegrarse a la tesorería del Ayuntamiento.
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DEL APARTADO II.13 DE LA TARIFA ANEXA INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+PARA EFECTOS DEL COBRO DE ESTE SERVICIO, EL MUNICIPIO PODRÁ CELEBRAR CONVENIOS CON LA COMPAÑÍA O EMPRESA SUMINISTRADORA DEL SERVICIO DE ENERGÍA ELÉCTRICA EN EL MUNICIPIO.
+
+(REFORMADO, P.O. 26 DE ENERO DE 2022
+
+Se esta blecerá una cuota anual de $200.00 a lotes baldíos urbanos dentro de la cabecera Municipal, los cuales serán cobrados simultáneo al pago del Impuesto Predial, así también se les esta blecerá una cuota anual de $180.00 a lotes baldíos en las colonias que no estén en el polígono urbano de la cabecera municipal, esta misma cuota se aplicará para los seccionales de Lázaro Cá rdenas y Gua d alupe Victoria, los cuales lo aplicarán en las localidades de su jurisdicción .
 
 Se establecerá un descuento del 55% a lotes baldíos urbanos dentro de la cabecera Municipal, los cuales serán cobrados simultáneo al pago del Impuesto Predial, así también se les establecerá un descuento del 70% a lotes baldíos en las colonias que no estén en el polígono urbano de la cabecera municipal, esta misma cuota se aplicará para los seccionales de Lázaro Cárdenas y Guadalupe Victoria, los cuales lo aplicarán en las localidades de su jurisdicción.
 
-II.16.- POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE GOBERNACIÓN
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ENERO DE 2022
+
+II.16.- POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE GOBERNACIÓN. (VALORES EXPRESADOS EN PESOS)
 
 […]
 
