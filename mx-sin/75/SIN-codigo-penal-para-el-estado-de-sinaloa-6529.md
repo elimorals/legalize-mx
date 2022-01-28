@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2021-09-24"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3915,9 +3915,9 @@ Se entenderá simulado, salvo prueba en contrario, el juicio que se siga en cont
 
 También se entenderá simulado, salvo prueba en contrario, el que se siga contra cualquier otra persona, si con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los tres días siguientes.
 
-### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS, SILVESTRES O FERALES
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTICULO 335.
 
@@ -4039,9 +4039,9 @@ Al defensor de oficio que cometa alguno de los delitos a que se refiere el artí
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2007)</small>
 
-## TÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+## TÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS, SILVESTRES O FERALES
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTICULO 354.
 
@@ -4273,11 +4273,11 @@ Se impondrán de cien a doscientos días multa y prisión de dos a seis años al
 
 Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar a favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
 
-> <small>(ADICIONADA CON EL TÍTULO, CAPÍTULO Y ARTÍCULO QUE LA INTEGRAN, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2022)</small>
 
-#### SECCIÓN QUINTA. DELITOS EN CONTRA DE ANIMALES DOMÉSTICOS
+#### SECCIÓN QUINTA. DELITOS EN CONTRA DE ANIMALES DOMÉSTICOS, SILVESTRES O FERALES
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2022)</small>
 
 ## TÍTULO ÚNICO. DELITOS CONTRA EL MEDIO AMBIENTE
 
@@ -4285,13 +4285,31 @@ Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en
 
 ###### ARTICULO 364.
 
-Al que dolosamente cometa actos de maltrato o crueldad en contra de cualquier animal doméstico causándole lesiones se le impondrá de tres meses a un año de prisión y de cincuenta a cien días multa.
+Al que dolosamente cometa actos de maltrato o crueldad en contra de cualquier animal doméstico, silvestre o feral causándole lesiones se le impondrá de seis meses a dos años de prisión y de cien a doscientos días multa.
 
-Si las lesiones ponen en peligro la vida del animal, se aumentará en una mitad la pena señalada en el párrafo anterior.
+Si las lesiones ponen en peligro la vida del animal doméstico, silvestre o feral, se aumentará en una mitad la pena señalada en el párrafo anterior.
 
-Si las lesiones causan la muerte del animal, se le impondrá de seis meses a dos años de prisión y de cien a doscientos días multa.
+Si las lesiones causan la muerte del animal doméstico, silvestre o feral, se le impondrá de dos a tres años de prisión y de doscientos a cuatrocientos días multas.
 
-Para efectos del presente Capítulo, se entenderá por actos de maltrato o crueldad aquellos que provoquen un grave sufrimiento, la muerte no inmediata o prolonguen la agonía del animal, ya sea por las lesiones ocasionadas o el detrimento de su salud.
+Se entenderá por animales domésticos, silvestres o ferales lo establecido para cada uno de ellos en el artículo 3, fracciones VI, VIII y X, respectivamente, de la Ley de Protección a los Animales para el Estado de Sinaloa.
+
+Se entenderá por crueldad animal la voluntad de causar un dolor o sufrimiento y, en algunas circunstancias, de obtener beneficio o placer relacionado con el logro del hecho cruel de la violencia ejercida en contra de los animales domésticos, silvestres o ferales y que ponga en peligro la vida de éstos, o bien, el hecho de causarles la muerte por métodos no previstos en las leyes vigentes, incluyéndose el envenenamiento.
+
+Se entenderá por maltrato animal todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento, que afecte el bienestar, ponga en peligro la vida del animal doméstico, silvestre o feral o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin, incluyendo la venta y explotación de animales vivos en la vía pública y en general en establecimientos que no cuenten con licencia específica para la explotación del giro comercial, los actos de zoofilia, tauromaquia y el abandono en la vía pública o en lugar ajeno a su hábitat natural.
+
+No se considerará para efectos del presente Capítulo como actos de crueldad o maltrato animal, el sacrificio de animales de abasto, la charrería y peleas de gallos, siempre y cuando se realicen en términos de las leyes, reglamentos y demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTICULO 364 BIS.- Se impondrán de 2 a 4 años de prisión y de quinientos a seiscientos días multa así como el decomiso de los objetos, instrumentos y productos del delito, la clausura del establecimiento y la cancelación del permiso o licencia, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, todo acto cuyo objeto sea la pelea de perros, ya sea en un espectáculo público o privado.
+
+Las mismas penas se impondrán a quien ayude a procurar la desaparición o alteración de los rastros, pruebas o instrumentos utilizados para organización o de las actividades previstas en este artículo.
+
+Procederá inmediatamente al aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, de conformidad con lo dispuesto en el presente código.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTICULO 364 BIS A.- Los delitos previstos en este Capítulo se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 
 > <small>(ADICIONADA CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE AGOSTO DE 2020)</small>
 
@@ -4988,3 +5006,19 @@ P.O. 24 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se deroga cualquier disposición que se oponga a lo establecido en el presente Decreto.
+
+P.O. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 581 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES, LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE Y DEL CÓDIGO PENAL, TODOS PARA EL ESTADO DE SINALOA, EN MATERIA DE PREOTECCIÓN A LOS ANIMALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Titular del Ejecutivo del Estado contará con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones reglamentarias derivadas del mismo.
+
+CUARTO. Los Municipios del Estado, por conducto de sus Ayuntamientos, en el ámbito de sus respectivas competencias contarán con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones reglamentarias derivadas del mismo.
+
+QUINTO. La Secretaría de Desarrollo Sustentable deberá integrar en un plazo de 180 días posteriores al inicio de vigencia del presente Decreto los Padrones a que se refieren la fracción VI del artículo 8 de la Ley de Protección a los Animales para el Estado de Sinaloa.
+
+SEXTO. Una vez integrado el Consejo Técnico del Fondo para la Protección de los Animales contará con un plazo de 90 días naturales para expedir el Reglamento a que se refiere el presente Decreto.
