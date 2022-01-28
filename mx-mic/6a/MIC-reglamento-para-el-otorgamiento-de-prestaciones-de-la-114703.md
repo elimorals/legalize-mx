@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-el-otorgamiento-de-prestaciones-de-la-114703"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-04-19"
-last_updated: "2019-04-03"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 19 de abril de 2016.
 
@@ -279,19 +279,19 @@ El servidor público podrá, en cualquier tiempo efectuar pagos anticipados a cu
 
 En caso de que el servidor público, pensionado o jubilado cuente con un adeudo anterior de algún tipo de préstamo otorgado por la Dirección de Pensiones, al momento de tramitar un nuevo préstamo se descontará la cantidad adeudada del monto otorgado.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
 ###### Artículo 28.
 
-El servidor público, pensionado o jubilado podrá solicitar por escrito un nuevo préstamo a la par de un tipo de préstamo vigente distinto al solicitado. Si la suma de ambos descuentos superan el 50% del salario base de cotización deberá comprobar ingresos adicionales permanentes al salario base de cotización previo apoyo de su representación sindical cuando esto proceda.
+El servidor público, pensionado o jubilado podrá solicitar por escrito un nuevo préstamo a la par de un tipo de préstamo vigente distinto al solicitado; excepto entre las modalidades de corto plazo y de consumo. Si la suma de ambos descuentos superan el 50% del salario base de cotización deberá comprobar ingresos adicionales permanentes al salario base de cotización previo apoyo de su representación sindical cuando esto proceda.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria, se otorgarán cuando uno de ellos sea de liquidez y que su destino sea para la adquisición de vivienda y/o terreno; la suma total del monto de ambos préstamos no superará la cantidad de $850,000.00 (Ochocientos cincuenta mil pesos 00/100 M.N.).
 
-Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria, se otorgarán cuando uno de ellos sea de liquidez y que su destino sea para la adquisición de vivienda y/o terreno; la suma total del monto de ambos préstamos no superará la cantidad de $600,000.00 salvo acuerdo de la Junta Directiva.
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### Artículo 29.
 
-Los préstamos de corto plazo otorgados por la Dirección de Pensiones a los servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo sin necesidad de autorización de la Junta Directiva; para los préstamos hipotecarios en sus diferentes modalidades, la renovación podrá realizarse cuando se haya pagado el 50% cincuenta por ciento del monto del capital prestado, siempre y cuando haya sido cubierto mediante descuentos vía nómina o pagos por quincenas vencidas. Para el caso de que se cuenten con dos modalidades de préstamos hipotecarios, se podrá renovar para liquidar ambos, teniendo en uno de ellos cubierto el 50% del capital prestado, sin recibir monto alguno.
+Los préstamos de corto plazo e hipotecarios en sus diferentes modalidades otorgados por la Dirección de Pensiones a los servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte y para los préstamos al consumo la renovación podrá realizarse a la octava parte, del plazo por el que fueron concedidos o se encuentren cubiertos los abonos correspondientes a dicho periodo, siempre y cuando hayan sido pagados mediante descuentos vía nómina o pagos por quincenas vencidas. Para el caso de que se cuenten con dos modalidades de préstamos hipotecarios, se podrá renovar para liquidar ambos, teniendo en uno de ellos cubierto la cuarta parte del plazo o del capital prestado.
 
 ###### Artículo 30.
 
@@ -377,17 +377,15 @@ Salvo en el caso de disfrute del plazo de espera, si se incumple con la obligaci
 
 La Dirección de Pensiones de conformidad con lo que disponen los artículos 37, 38, 39, 40, 41, 42, 43, 44 y 45 de la Ley, otorgará a los trabajadores activos cotizantes al fondo de pensiones, préstamos con garantía hipotecaria en las modalidades de: compra, construcción, mejoramiento de vivienda o terreno, liberación de gravamen y de liquidez, por los siguientes montos.
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-I. Monto de hasta $450,000.00 (Cuatrocientos cincuenta mil pesos 00/100 M.N.) para compra de vivienda y liberación de gravamen, siempre que esté vinculado a la adquisición de ésta, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
+I. Monto de hasta $450,000.00 (Cuatrocientos cincuenta mil pesos 00/100 M.N.), para compra de vivienda o terreno, liberación de gravamen, construcción y mejoramiento de vivienda; con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+II. (DEROGADA, P.O. 28 DE ENERO DE 2022)
 
-II. Monto de hasta $350,000.00 (Trescientos cincuenta mil pesos 00/100 M.N.) para compra de terreno, construcción, mejoramiento de vivienda y liberación de gravamen, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años; y,
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
-
-III. Monto de hasta $300,000.00 (Trescientos mil pesos 00/100 M.N.) para liquidez, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
+III. Monto de hasta $400,000.00 (Cuatrocientos mil pesos 00/100 M.N.), para liquidez, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
 
@@ -397,7 +395,9 @@ Para jubilados y pensionados se estará a lo dispuesto en el artículo 43 segund
 
 La Dirección de Pensiones podrá otorgar préstamos hipotecarios a los servidores públicos contribuyentes al fondo de pensiones, cuando hayan cotizado por lo menos un año como mínimo y que no cuenten con más de 70 años de edad, sujetos a los criterios para el otorgamiento de préstamos para pensionados o jubilados.
 
-Para los jubilados o pensionados por vejez o invalidez que no cuenten con más de 65 años de edad al presentar la solicitud de préstamo hipotecario, el monto a otorgar será de hasta $80,000.00 ochenta mil pesos 00/100 M.N
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Para los jubilados o pensionados por vejez o invalidez, que no cuenten con más de 70 años de edad al presentar la solicitud de préstamo hipotecario, el monto a otorgar será por la cantidad de hasta $150,000.00 (Ciento cincuenta mil pesos 00/100 M.N.).
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
@@ -633,9 +633,37 @@ El plazo para devolución no será mayor de 24 meses y el pago del préstamo se 
 
 Los préstamos a corto plazo causarán un interés mínimo del 12% anual global; el que podrá ser revisado anualmente y modificado por acuerdo de la Junta Directiva, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares, más un 1% para servidores públicos y el 0.50% para jubilados y pensionados, ambos sobre el capital del préstamo otorgado, para la constitución del fondo de seguro para este tipo de préstamos, de conformidad con lo dispuesto por el artículo 44 de la Ley.
 
-#### SECCIÓN PRIMERA. PENSIÓN POR VIUDEZ
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE ENERO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
+#### SECCIÓN CUARTA. DEL PRÉSTAMO A CORTO PLAZO EN LA MODALIDAD DE CONSUMO
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Artículo 67 BIS. Los préstamos a corto plazo en la modalidad de consumo se otorgarán conforme a las disposiciones siguientes:
+
+I. Se otorgarán a los jubilados y pensionados por vejez o invalidez, así como a los trabajadores cotizantes al fondo de pensiones;
+
+II. Para los jubilados y pensionados se dará hasta por el importe de 5 meses;
+
+III. Se ofrecerá a los derechohabientes de manera opcional al préstamo de corto plazo existente actualmente, sin que los mismos puedan otorgarse a la par entre estas modalidades;
+
+IV. El plazo para cubrir el presente préstamo será de hasta 96 quincenas (cuatro años);
+
+V. Se podrá otorgar a la par de cualquier adeudo que tenga vigente el interesado derivado solamente de una modalidad de un préstamo hipotecario, siempre y cuando se demuestre que tiene liquidez en su talón de cheque y acreditar que se
+
+tienen ingresos adicionales;
+
+VI. Se podrá solicitar desde la primera quincena aportada al fondo de pensiones por el servidor público.
+
+VII. Para el caso de los servidores públicos, el préstamo podrá otorgarse hasta con dos avales quienes lo garantizarán con su fondo de pensiones;
+
+VIII. Este préstamo podrá renovarse una vez cubierta la octava parte del plazo fijado inicialmente;
+
+IX. Los descuentos por este concepto podrán sobrepasar el 50% cincuenta por ciento del sueldo base de cotización o pensión, acreditando contar con ingresos adicionales permanentes al salario, solamente en aquellos casos que cuenten con un préstamo hipotecario a la par, y previo apoyo de su representación sindical cuando esto proceda.
+
+X. El monto del seguro será del 2% dos por ciento sobre el capital del préstamo otorgado, el cual se constituirá de conformidad con el artículo 43 de la Ley; con una tasa anual de interés ordinaria del 13% trece por ciento anual global.
+
+XI. Se otorgará con la misma documentación que señala el artículo 64 del presente Reglamento.
 
 ### CAPÍTULO QUINTO. DE LA CONSTITUCIÓN DE LOS FONDOS DE SEGURO
 
@@ -649,11 +677,21 @@ La Dirección de Pensiones constituye un fondo especial de seguro con la finalid
 
 Para los efectos de la constitución del fondo de seguro en sus diversas modalidades los servidores públicos, pensionados o jubilados aportarán el siguiente porcentaje sobre el capital del préstamo otorgado:
 
-Hipotecario Corto Plazo
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-Servidores Públicos 2% 1%
+Hipotecario Corto plazo Corto
 
-Pensionistas y Jubilados 2% 0.50%
+plazo en
+
+la modalidad
+
+de
+
+consumo
+
+Servidores Públicos 2% 1% 2%
+
+Pensionistas y Jubilados 2% 0.50% 2%
 
 ###### Artículo 70.
 
@@ -895,7 +933,9 @@ Los familiares derechohabientes que gocen del pago de una pensión por fallecimi
 
 Los familiares derechohabientes que gocen del pago de una pensión por fallecimiento, tendrán la obligación de informar a la Dirección de Pensiones, cuando se encuentren en alguno de los supuestos que marca el presente Reglamento, para la revocación de dicha pensión, contando con un plazo no mayor de 15 días hábiles para tal efecto, y de inmediato deberán reintegrar las cantidades actualizadas percibidas indebidamente.
 
-#### SECCIÓN SEGUNDA. PENSIÓN POR ORFANDAD
+#### SECCIÓN PRIMERA. PENSIÓN POR VIUDEZ
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2019)</small>
 
 ###### Artículo 94.
 
@@ -957,7 +997,7 @@ I. Si la pensión a que se refiere este artículo es derivada del fallecimiento 
 
 II. Si el fallecimiento del servidor público es producido por causa distinta a un riesgo de trabajo; para el pago de la referida pensión, se aplicará la tabla porcentual que establece el artículo 57 de la Ley al sueldo base considerando lo señalado en el artículo 77 del presente Reglamento, y a la cantidad resultante se aplicará el porcentaje señalado en el artículo 98 del presente Reglamento.
 
-#### SECCIÓN TERCERA. PENSIÓN POR ASCENDENCIA
+#### SECCIÓN SEGUNDA. PENSIÓN POR ORFANDAD
 
 ###### Artículo 100.
 
@@ -1026,6 +1066,8 @@ II. Si el fallecimiento del servidor público es producido por causa distinta a 
 ###### Artículo 106.
 
 Cuando el beneficiario fuere huérfano de ambos padres servidores públicos, pensionados o jubilados, el monto de la pensión se elevará hasta el 20 % de la que pudiera corresponder al padre o madre fallecido con mayor sueldo, en los términos de los artículos anteriores del presente Reglamento.
+
+#### SECCIÓN TERCERA. PENSIÓN POR ASCENDENCIA
 
 ###### Artículo 107.
 
@@ -1312,6 +1354,18 @@ La Dirección de Pensiones procederá a realizar las modificaciones administrati
 P.O. 3 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
+
+P.O. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN“.]
 
 ###### ARTÍCULO PRIMERO.
 
