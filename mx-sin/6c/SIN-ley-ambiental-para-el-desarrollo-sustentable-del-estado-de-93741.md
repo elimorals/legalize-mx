@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2020-08-14"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -339,7 +339,13 @@ XX. Formular, ejecutar y evaluar el Programa Estatal de Protección al Ambiente;
 
 XXI. La emisión de recomendaciones a las autoridades competentes en materia ambiental en el Estado, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-XXII. Atender coordinadamente con la Federación, los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas, cuando así lo considere conveniente; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XXII. Atender coordinadamente con la Federación, los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas, cuando así lo considere conveniente;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XXII Bis. Aplicar dentro de la esfera de su competencia, las disposiciones de la Ley de Protección a los Animales para el Estado de Sinaloa; y
 
 XXIII. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente prevé esta Ley, y demás disposiciones legales aplicables.
 
@@ -397,7 +403,17 @@ XIV. Participar en la evaluación del impacto ambiental de obras o actividades d
 
 XV. La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
 
-XVI. Formulación y ejecución de acciones de mitigación y adaptación al cambio climático; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XVI. Formulación y ejecución de acciones de mitigación y adaptación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XVI Bis. Coadyuvar con la Secretaría de Desarrollo Sustentable en la operación del Padrón de las Asociaciones Protectoras de Animales e individuos dedicados al mismo objeto, que permita conocer su número y actividades que realicen, así como para que participen en la realización de las tareas definidas en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XVI Bis A. Coadyuvar con la Secretaría de Desarrollo Sustentable y las Asociaciones Protectoras de Animales e individuos dedicados al mismo objeto a expedir los protocolos de adopción; y
 
 XVII. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les concede esta Ley y otros ordenamientos aplicables.
 
@@ -3416,3 +3432,19 @@ P.O. 14 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Los trámites y/o denuncias de cualquier tipo relacionados con las materias de la Ley Ambiental para el Desarrollo Sustentable del Estado de Sinaloa, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento, y las demás disposiciones aplicables en la materia de que se trate.
+
+P.O. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 581 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES, LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE Y DEL CÓDIGO PENAL, TODOS PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Titular del Ejecutivo del Estado contará con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones reglamentarias derivadas del mismo.
+
+CUARTO. Los Municipios del Estado, por conducto de sus Ayuntamientos, en el ámbito de sus respectivas competencias contarán con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones reglamentarias derivadas del mismo.
+
+QUINTO. La Secretaría de Desarrollo Sustentable deberá integrar en un plazo de 180 días posteriores al inicio de vigencia del presente Decreto los Padrones a que se refieren (sic) la fracción VI del artículo 8 de la Ley de Protección a los Animales para el Estado de Sinaloa.
+
+SEXTO. Una vez integrado el Consejo Técnico del Fondo para la Protección de los Animales contará con un plazo de 90 días naturales para expedir el Reglamento a que se refiere el presente Decreto.
