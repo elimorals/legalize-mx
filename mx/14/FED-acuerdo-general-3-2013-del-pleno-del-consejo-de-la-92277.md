@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-01-14"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ENERO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -895,9 +895,9 @@ Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ci
 
 XXXI. TRIGESIMO PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 50/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 28/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ENERO DE 2022)</small>
 
-Los juzgados de Distrito en el Estado de Campeche, con residencia en San Francisco de Campeche, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Calakmul, Calkiní, Campeche, Champotón, Escárcega, Hecelchakán, Hopelchén y Tenabo, en la propia entidad federativa.
+Los juzgados de Distrito en el Estado de Campeche, con residencia en San Francisco de Campeche, ejercerán jurisdicción territorial en el Distrito Judicial conformado por los municipios de Calakmul, Calkiní, Campeche, Champotón, Dzitbalché, Escárcega, Hecelchakán, Hopelchén, Seybaplaya y Tenabo, en la propia entidad federativa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 50/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -8726,3 +8726,13 @@ TERCERO. El Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado d
 CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le están adscritas, deberá realizar las acciones necesarias para que el Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, inicie funciones en su nuevo domicilio el 17 de enero de 2022. Asimismo instrumente los mecanismos para el envío de asuntos y demás documentos de la Oficina de Correspondencia Común de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Zapopan, a la nueva residencia y domicilio del órgano jurisdiccional de que se trata.
 
 QUINTO. La Coordinación de Administración Regional apoyará para el traslado de los asuntos que corresponda conocer al Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande.
+
+D.O.F. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 28/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN CIUDAD DEL CARMEN, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO INDICADO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Juzgado Tercero de Distrito en el Estado de Campeche, con residencia en Ciudad del Carmen, de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
