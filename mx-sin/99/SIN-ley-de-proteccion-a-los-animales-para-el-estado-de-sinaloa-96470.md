@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-a-los-animales-para-el-estado-de-sinaloa-9647
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-04"
-last_updated: "2018-06-25"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 4 de noviembre de 2013.
 
@@ -101,7 +101,9 @@ II. Alojamiento temporal: Lugares de mantenimiento provisional;
 
 III. Animal (es): Ser orgánico no humano, vivo, sensible que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie domestica o silvestre;
 
-IV. Animal abandonado: Aquellos animales que queden sin el cuidado y protección de sus propietarios o poseedores dentro de los bienes del dominio privado o vía pública;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+IV. Animal abandonado: Aquellos animales que queden sin el cuidado y protección como consecuencia de la acción u omisión de sus propietarios, poseedores o encargados, dentro de los bienes del dominio privado o vía pública;
 
 V. Animal deportivo: Los animales utilizados en la práctica de algún deporte;
 
@@ -125,7 +127,9 @@ XIV. Animal para abasto: Animales cuyo destino final es el sacrificio para el co
 
 XV. Animal para la investigación científica: Animal que es utilizado por instituciones científicas y de enseñanza superior para la generación de nuevos conocimientos;
 
-XVI. Asociaciones protectoras de animales: Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, que dediquen sus actividades a la protección a los animales;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XVI. Asociaciones protectoras de animales: Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, que dediquen sus actividades a la protección y cuidado de los animales;
 
 XVII. Aves de presa: Aves carnívoras con alas, picos y garras adaptadas para cazar y que se adiestran para fines lícitos;
 
@@ -135,7 +139,9 @@ XIX. Campañas: Acción pública realizada de manera periódica por la autoridad
 
 XX. Cautiverio: El alojamiento temporal o permanente de fauna en áreas o instalaciones distintas a su entorno natural, que no implique maltrato al mismo;
 
-XXI. Centros de Salud y Bienestar Animal: Los centros públicos destinados para el cuidado y atención veterinaria; pudiendo ofrecer los servicios de esterilización, orientación y clínica a los animales de la ciudadanía que así lo requiera, centros antirrábicos y demás que realicen acciones análogas;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XXI. Centros de Salud y Bienestar Animal: Los centros públicos destinados para el cuidado digno y respetuoso y atención veterinaria; pudiendo ofrecer los servicios de esterilización, orientación, clínica a los animales de la ciudadanía que así lo requiera, y demás que realicen acciones análogas, observando siempre la normatividad aplicable en los procedimientos de sacrificio humanitario en los términos previstos en el artículo 26 de esta Ley, a fin de evitar en todo momento los actos de maltrato o crueldad;
 
 XXII. Condiciones adecuadas: Las condiciones de trato digno y respetuoso, así como las referencias que al respecto determinan las Normas Oficiales Mexicanas;
 
@@ -175,9 +181,17 @@ XXXVII. Sufrimiento: La carencia de bienestar animal causada por diversos motivo
 
 XXXVIII. Trato humanitario: Las medidas para evitar dolor innecesario o angustia a los animales durante su crianza, traslado, exhibición, comercialización, adiestramiento, cuarentena y sacrificio;
 
-XXXIX. Vivisección: Abrir vivo a un animal para fines educativos o científicos, y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-XL. Zoonosis: La transmisión de enfermedades de los animales a los seres humanos.
+XXXIX. Vivisección: Abrir vivo a un animal para fines educativos o científicos;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XL. Zoonosis: La transmisión de enfermedades de los animales a los seres humanos; y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XLI. Zoofilia: Acto sexual de personas con animales, ya sea a través del miembro viril o cualquier otro objeto distinto a éste.
 
 ###### ARTÍCULO 4.
 
@@ -207,13 +221,23 @@ I. Formular y conducir la política estatal sobre conservación y aprovechamient
 
 II. Expedir los Reglamentos y demás disposiciones necesarias para el cumplimiento de esta Ley;
 
-III. Celebrar convenios de coordinación con las autoridades federales o municipales; así como, con las organizaciones civiles legalmente establecidas, y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-IV. Propiciar las condiciones adecuadas para el desarrollo de programas de educación, difusión y campañas en la materia objeto de la presente Ley.
+III. Celebrar convenios de coordinación con las autoridades federales o municipales; así como, con las organizaciones civiles legalmente establecidas;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+IV. Propiciar las condiciones adecuadas para el desarrollo de programas de educación, difusión y campañas en la materia objeto de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+V. Incluir en la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, para el Ejercicio Fiscal del año correspondiente, una partida presupuestal para el cumplimiento de las obligaciones previstas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 8.
 
-Corresponde a la Secretaría de Desarrollo Social y Humano, en coordinación con la Secretaría, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría de Desarrollo Sustentable, en coordinación con la Secretaría, el ejercicio de las siguientes atribuciones:
 
 I. Promover en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado;
 
@@ -225,9 +249,25 @@ III. Fomentar el respeto y el libre acceso de los perros guía o animales de ser
 
 IV. Impulsar la elaboración e instrumentación de programas de educación en materia de protección y trato digno a los animales, en coordinación con las autoridades educativas y de salud, y en su caso con la participación de las asociaciones y organizaciones no gubernamentales legalmente constituidas, cuyo objeto tenga relación con los preceptos de la presente Ley;
 
-V. Fomentar la creación de sociedades, asociaciones o grupos de protección de animales, y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-VI. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
+V. Fomentar la creación de sociedades, asociaciones o grupos de protección de animales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 2022)</small>
+
+VI. Crear y operar en coordinación con los Ayuntamientos los siguientes Padrones:
+
+a) Asociaciones Protectoras de Animales e individuos dedicados al mismo objeto, que permita conocer su estatus, número y posibilitar su involucramiento en la instrumentación de las políticas públicas y tareas definidas en la presente Ley; y
+
+b) De establecimientos fijos o móviles donde se realice la cría, atención veterinaria, venta, servicios de cuidado y hospedaje, así como adiestramiento de animales, o a cualquier otro donde se utilicen o aprovechen animales para cualquier fin lícito;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+VII. Expedir los protocolos de adopción en coordinación con los Ayuntamientos y las Asociaciones Protectoras de Animales e individuos dedicados al mismo objeto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ENERO DE 2022)</small>
+
+VIII. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -235,7 +275,9 @@ Corresponde a la Secretaría, el ejercicio de las siguientes atribuciones:
 
 I. Vigilar que el manejo de animales se realice en condiciones que no afecten a la salud de las personas, tomando las medidas que señala la legislación aplicable;
 
-II. Expedir la licencia sanitaria a los establecimientos donde se realice la cría, atención veterinaria, venta y adiestramiento de animales, o a cualquier otro donde se utilicen o aprovechen animales para cualquier fin lícito;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+II. Expedir la licencia sanitaria a los establecimientos fijos o móviles donde se realice la cría, atención veterinaria, venta, servicios de cuidado y hospedaje, así como adiestramiento de animales, o a cualquier otro donde se utilicen o aprovechen animales para cualquier fin lícito;
 
 III. Crear y administrar el Padrón Estatal de Mascotas;
 
@@ -246,6 +288,34 @@ V. La inspección sanitaria en los establecimientos de venta y adiestramiento de
 VI. Celebrar convenios de coordinación con las autoridades federales y municipales para la observancia y en su caso aplicación de las leyes y Normas Oficiales Mexicanas relacionadas con la materia de la presente Ley, y
 
 VII. Las demás que esta Ley y demás ordenamientos jurídicos aplicables le confieran.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 9 BIS. Corresponde a la Secretaría de Seguridad Pública, en el ámbito de su competencia, el ejercicio de las siguientes facultades:
+
+I. Apoyar a la Secretaría y a la Secretaría de Desarrollo Sustentable en la promoción, información y difusión de la presente Ley para generar una cultura cívica de protección, responsabilidad y respecto digno de los animales;
+
+II. Integrar, equipar y operar brigadas de vigilancia animal, para responder a las necesidades de protección y rescate de animales en situación de riesgo, estableciendo una coordinación interinstitucional para implantar operativos en esta materia y coadyuvar con las Asociaciones protectoras de animales en la protección y canalización de animales a Centros de Salud y Bienestar Animal, albergues temporales y definitivos o refugios de animales.
+
+Las brigadas de vigilancia animal tendrán como funciones:
+
+a). Rescatar animales que deambulen en la vía pública;
+
+b). Brindar protección a los animales que se encuentren en abandono y que sean maltratados;
+
+c). Responder a situaciones de peligro por agresión animal;
+
+d). Retirar animales que participen en protestas, marchas, plantones o en cualquier otro acto análogo;
+
+e). Impedir y remitir ante la autoridad competente a los infractores que celebren y promuevan peleas de perros; y
+
+f). Realizar operativos en los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de animales, a fin de detectar posibles anomalías.
+
+III. Coadyuvar en el cumplimiento de las disposiciones de esta Ley;
+
+IV. Promover la participación ciudadana, a fin de difundir la cultura y la protección a los animales; y
+
+V. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -273,7 +343,13 @@ IX. Inspeccionar los establecimientos mercantiles que exploten giros relacionado
 
 X. Promover el libre acceso de los perros guía o animales de servicio a los espacios en general, independientemente de su carácter público o privado;
 
-XI. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XI. Coadyuvar con la Secretaría de Desarrollo Sustentable en la operación del Padrón de las Asociaciones Protectoras de Animales e individuos dedicados al mismo objeto, que permita conocer su número y actividades que realicen, así como para que participen en la realización de las tareas definidas en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XI Bis. Incluir en el Presupuesto de Egresos, los recursos económicos necesarios para el cumplimiento de las obligaciones previstas en esta Ley; y
 
 XII. Las demás que por disposición legal le correspondan.
 
@@ -297,21 +373,57 @@ Las autoridades competentes, promoverán y participarán en la capacitación y a
 
 Toda persona que sea propietaria, posea o esté encargada de un animal, tendrá las obligaciones siguientes:
 
-I. Proveerles comida y agua en la cantidad suficiente según su especie, raza y hábitos, debiendo ser la necesaria para satisfacer las necesidades instintivas, metabólicas y fisiológicas de su cuerpo;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-II. Facilitar un espacio adecuado en dimensiones para su alojamiento o resguardo de acuerdo a la especie, raza y tamaño, que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que le pudiese ocasionar daño o sufrimiento;
+I. Proveerle comida y agua en la cantidad suficiente según su especie, raza y hábitos, debiendo ser la necesaria para satisfacer las necesidades instintivas, metabólicas y fisiológicas; a efecto de mantenerlo sano y con una nutrición adecuada;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+II. Facilitar un espacio adecuado para su descanso, movimiento y estancia, en dimensiones para su alojamiento o resguardo de acuerdo a la especie, raza y tamaño, que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que le pudiese ocasionar daño o sufrimiento;
 
 III. Proporcionar un área de esparcimiento adecuada en dimensiones, de acuerdo al tamaño, especie y raza, que le permita tener movimiento libre para ejercitar adecuadamente todas las partes de su cuerpo, en todas direcciones de acuerdo a su instinto y a su hábitat, en donde no se ponga en riesgo la integridad física y se altere su desarrollo natural;
 
-IV. Suministrar los tratamientos veterinarios necesarios para que desarrolle una condición saludable y no represente un reservorio de parásitos que contamine otros animales o que cause una zoonosis; la tenencia de cualquier animal obliga a la inmunización correspondiente contra toda enfermedad transmisible, y debe avisarse de forma inmediata la existencia de alguna enfermedad o comportamiento anormal del animal, al veterinario o autoridades sanitarias más cercanas;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-V. Procurar la higiene necesaria en cuerpo y área de estancia, debiendo recoger las descargas de excremento, pelo o plumas y depositarlos en los recipientes de basura del servicio de recolección; las aguas residuales que se generen en el área de estancia deberán de conducirse a la red de drenaje sanitario; se prohíbe arrojar las descargas y las aguas residuales de limpieza a la vía pública o lotes baldíos, y
+IV. Suministrar atención médica preventiva y en caso de enfermedad brindarle tratamiento médico expedito avalado por un médico veterinario; así como los tratamientos veterinarios necesarios para que desarrollen una condición saludable y no representen un reservorio de parásitos que contaminen a otros animales o que causen una zoonosis; la tenencia de cualquier animal obliga a la inmunización correspondiente contra toda enfermedad transmisible, y debe avisarse de forma inmediata la existencia de alguna enfermedad o comportamiento anormal del animal, al veterinario o autoridades sanitarias más cercanas;
 
-VI. Proporcionar la compañía y el paseo necesario para ejercitarse, según su especie o raza, así como tomar las medidas de seguridad necesarias para no poner en riesgo a las personas.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+V. Procurar la higiene necesaria en cuerpo y área de estancia, debiendo recoger las descargas de excremento, pelo o plumas y depositarlos en los recipientes de basura del servicio de recolección; y las aguas residuales que se generen en el área de estancia deberán de conducirse a la red de drenaje sanitario. Se prohíbe arrojar las descargas y las aguas residuales de limpieza a la vía pública o lotes baldíos;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+VI. Proporcionar la compañía y el paseo necesario para ejercitarse, según su especie o raza, tomando las medidas de seguridad necesarias para no poner en riesgo a las personas;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+VII. Permitir a los animales la expresión de su comportamiento natural;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+VIII. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie; y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+IX. Contribuir voluntaria y directamente con su cuidado mediante acciones que promuevan un ejemplo social de cuidado y trato digno hacia los animales, y participar en las instancias de carácter social y vecinal que cuiden, asistan y protejan a los animales.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Se considera persona propietaria de un animal, aquella que cuente con inscripción de la mascota en el Padrón Estatal de Mascotas o que el animal tenga placa de identidad que establezca el nombre y domicilio de su dueño, o que tiene derecho de disposición sobre el animal, lo que implica la disposición, oponible a terceros.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Poseedora, aquella persona que ejerza sobre un animal un poder de hecho. Posee y tiene dicho derecho sin ser propietario.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Encargada, aquella persona que tiene a su cargo un animal en representación del dueño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 15.
 
-Para los efectos de la presente Ley, serán consideradas como infracciones las acciones siguientes:
+Para los efectos de la presente Ley se prohíben y serán consideradas como infracciones, las acciones siguientes:
 
 I. Todo hecho, acto u omisión que pueda ocasionar dolor, sufrimiento o que ponga en peligro la vida o afecte el bienestar del animal;
 
@@ -323,7 +435,9 @@ IV. Azuzar a los animales para que se ataquen entre ellos o a las personas;
 
 V. Adiestrar a los animales con prácticas que puedan poner en peligro a las personas que vivan en su entorno;
 
-VI. Abandonar a los animales en la vía pública o comprometer su bienestar al desatenderlos por periodos prolongados;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+VI. Abandonar a los animales en la vía pública o en lugar lejano de su hábitat natural, así como comprometer su bienestar al desatenderlos por periodos prolongados;
 
 VII. Utilizar animales en protestas, marchas, plantones o en cualquier otro acto análogo, salvo que se trate de los utilizados por los cuerpos de Seguridad Pública;
 
@@ -333,15 +447,31 @@ IX. La venta y explotación de animales en la vía pública o en vehículos;
 
 X. Vender animales en establecimientos que no cuenten con licencia específica para la explotación del giro comercial;
 
-XI. Vender o adiestrar animales en áreas comunes o en áreas en las que se atente contra la integridad física de las personas;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-XII. Hacer ingerir al animal bebidas alcohólicas o suministrar drogas sin fines terapéuticos o de investigación científica;
+XI. Vender o adiestrar animales en áreas comunes en las que se atente contra la integridad física de las personas o en aquellos establecimientos que no cuenten con las instalaciones adecuadas para hacerlo;
 
-XIII. Ofrecer cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte, y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XII. Hacer ingerir al animal bebidas alcohólicas o suministrar drogas no prescritas por médico veterinario;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XIII. Ofrecer cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XIII Bis. La práctica de actos de zoofilia, los espectáculos de tauromaquia y organizar, inducir o provocar peleas de perros;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2022)</small>
+
+XIII Bis A. El sacrificio de animales como método para controlar la sobrepoblación animal en situación de calle, con la salvedad establecida en el artículo 26 de esta Ley; y
 
 XIV. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
 
-Los espectáculos de tauromaquia, charrería y peleas de gallos, no se considerarán como infracciones para la presente Ley, siempre y cuando se realicen conforme a los reglamentos y autorizaciones que al efecto emitan las autoridades correspondientes.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Los espectáculos de charrería y peleas de gallos no se considerarán como infracciones a la presente Ley, siempre y cuando se realicen conforme a los reglamentos y autorizaciones que al efecto emitan las autoridades correspondientes.
 
 La práctica de actividades deportivas, como la caza y pesca en el Estado se realizarán de acuerdo a la Ley General de Vida Silvestre y la Ley General de Pesca.
 
@@ -377,9 +507,15 @@ Las indemnizaciones correspondientes serán exigidas mediante el procedimiento q
 
 Las instalaciones para animales utilizados en actividades deportivas y pensiones para mascotas, deberán ser adecuadas conforme a las características propias de cada especie.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 22.
 
-Las instalaciones de las asociaciones protectoras de animales, Centros de Salud y Bienestar Animal, escuelas de adiestramiento creadas para alojar temporal o permanentemente a los animales deben contar con veterinario responsable y demás personal capacitado.
+Las instalaciones de las asociaciones protectoras de animales, Centros de Salud y Bienestar Animal, escuelas de adiestramiento y lugares de estancia y hospedajes creados para alojar temporal o permanentemente a los animales deben contar con veterinario responsable y demás personal capacitado.
+
+En el caso de que en dichos lugares se generen residuos biológicos infecciosos, se deberá contar con un manejo de residuos peligrosos conforme a la legislación federal aplicable.
+
+Asimismo, se prohíbe tirar en la vía pública o tiraderos municipales desechos de animales enfermos, así como los materiales usados para su curación de acuerdo con las Leyes ambientales y de salud.
 
 ###### ARTÍCULO 23.
 
@@ -431,9 +567,15 @@ A los animales domésticos, cuya naturaleza o comportamiento constituya un pelig
 
 Esta Ley considera animales de trabajo, todos aquellos cuadrúpedos que auxilien o compartan actividades con el hombre.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+La vida laboral de los animales de tiro y carga no será mayor a 15 años, considerando en dicho cómputo su edad fisiológica, siempre y cuando gocen de buena salud para el desempeño de dichas actividades.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 32.
 
-Los animales de trabajo, deberán contar con una limitación razonable del tiempo e intensidad del trabajo, asimismo, se les deberá proporcionar espacios adecuados para su alojamiento, una alimentación reparadora y el reposo necesario para su sano desarrollo.
+Los animales de trabajo además de lo establecido en el artículo 14, deberán contar con una limitación razonable del tiempo e intensidad del trabajo, asimismo, se les deberá proporcionar espacios adecuados para su alojamiento, una alimentación reparadora y el reposo necesario para su sano desarrollo, así como recibir agua por lo menos tres veces al día.
 
 ###### ARTÍCULO 33.
 
@@ -448,6 +590,14 @@ III. Evitar que el espoleado y fustigamiento, les cause daño;
 IV. El arreo de animales deberá hacerse, evitando la utilización de medios de crueldad, y
 
 V. Los vehículos de tracción animal, no deberán ser cargados con un peso desproporcionado a las condiciones físicas de los animales que se utilicen.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 33 BIS. Los animales, en condiciones fisiológicas no aptas como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas ó laceraciones que les produzcan sufrimiento, no podrán ser utilizados para tiro, carga o monta.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 33 BIS A. Los animales utilizados para carga, tiro o monta que se utilicen en las zonas conurbadas o recreativas con calles empedradas o asfaltadas, deberán ser necesariamente herrados con los accesorios adecuados que eviten que el animal resbale o se le dificulte el movimiento para su traslado.
 
 ### CAPÍTULO VII. DE LOS ANIMALES SILVESTRES EN CAUTIVERIO
 
@@ -511,13 +661,23 @@ El dueño podrá reclamar a su mascota que haya sido remitida a cualquier centro
 
 En todo caso, la entrega del animal se hará contra el pago de los gastos que se hubieren generado.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 46.
 
-En caso de que no sea reclamado el animal a tiempo, las autoridades podrán entregarlos en adopción a asociaciones protectoras de animales que se comprometan a su cuidado y protección.
+En caso de que no sea reclamado el animal las autoridades podrán entregarlo a alguna Asociación Protectora de Animales, misma que podrán entregarlos en adopción de conformidad con las disposiciones de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 2022)</small>
+
+### CAPÍTULO IX BIS. DE LA ORGANIZACIÓN DE EVENTOS PARA PROMOVER LA ADOPCIÓN DE ANIMALES
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 46 BIS. Las personas físicas o Asociaciones Protectoras de Animales podrán organizar eventos en espacios abiertos o cerrados, públicos o privados, para promover la adopción de animales abandonados, previa obtención del permiso de la autoridad municipal correspondiente para lo cual contarán con el apoyo del ayuntamiento en la medida de sus posibilidades, especialmente en la difusión de dichos eventos.
+
+Las personas físicas y Asociaciones Protectoras de Animales que organicen eventos para otorgar animales en adopción, deberán entregarlos estando vacunados, desparasitados y esterilizados, haciendo además el seguimiento de éstos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes el manual de cuidados.
 
 ### CAPÍTULO X. DE LOS CENTROS DE SALUD Y BIENESTAR ANIMAL
-
-### CAPÍTULO XI. DE LA PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 47.
 
@@ -553,9 +713,35 @@ X. Las demás que sean afines a los objetivos de esta Ley.
 
 Los Centros de Salud y Bienestar Animal estarán bajo la dirección de un veterinario con título legalmente registrado y con experiencia acreditada en el manejo de animales en cautiverio.
 
-### CAPÍTULO XII. DE LA DENUNCIA POPULAR
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ENERO DE 2022)</small>
 
-### CAPÍTULO XIII. DE LA INSPECCIÓN
+### CAPÍTULO X BIS. DE LA ESTANCIA, HOSPEDAJE Y OTROS SERVICIOS PARA ANIMALES
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 49 BIS. Para efectos de esta Ley se considera estancia y hospedaje el servicio que se brinda para el cuidado de animales por determinado tiempo.
+
+Las personas físicas, morales y Asociaciones Protectoras de Animales que brindan estos servicios son responsables durante el tiempo que estén a cargo de la atención de los animales en los términos de esta Ley y las normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 49 BIS A. Los lugares denominados, guarderías, hoteles, pensiones, albergues temporales, refugios o santuarios de animales, deben de tener las instalaciones adecuadas considerando el número y las especies alojadas, así como asegurando que las mismas no queden expuestos a las inclemencias del clima y otros factores, además del área de estancia y paseo.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 49 BIS B. Por ningún motivo las guarderías, pensiones, albergues temporales o refugios pondrán distintas especies en la misma área de socialización o en la misma zona de áreas de descanso.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 49 BIS C. Las personas físicas, morales y Asociaciones Protectoras de Animales que presten servicios de pensión, guarderías o albergue temporal y adiestramiento de animales con hospedaje o similares, deberán contar con un Certificado de Salud de cada uno de los animales, expedido por un Médico Veterinario Zootecnista del establecimiento o de donde provienen, o bien, del obligatorio que deben tener, conforme al artículo 22 de la presente Ley.
+
+Estará prohibido alojar en estos lugares animales con enfermedades infectocontagiosas.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 49 BIS D. Las personas físicas, morales y Asociaciones Protectoras de Animales cuya actividad involucre el manejo de animales estarán obligadas a fijar y mantener avisos visibles del riesgo de contagio de enfermedades zoonóticas, así como capacitar a su personal sobre el manejo seguro de animales para evitar los contagios, y contar con un plan de manejo de riesgos asociados con su giro.
+
+### CAPÍTULO XI. DE LA PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 50.
 
@@ -565,17 +751,39 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Los particulares promoverán el otorgamiento de reconocimientos a los esfuerzos más destacados de la sociedad dedicados a la conservación, preservación y aprovechamiento sustentable de la fauna en general, en cualquiera de los medios o ámbitos en que se desarrollen.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
 ###### ARTÍCULO 52.
 
-Los Ayuntamientos formarán el Padrón de Asociaciones Protectoras de Animales y Organizaciones Sociales dedicadas al mismo fin, como un instrumento que permita conocer su estatus y posibilitar su involucramiento en la instrumentación de las políticas públicas y tareas definidas en la presente Ley.
+Los Ayuntamientos coadyuvarán con la Secretaría de Desarrollo Sustentable en la operación de los padrones a que se refiere el artículo 8, fracción VI, incisos a) y b).
 
 ###### ARTÍCULO 53.
 
-Las asociaciones protectoras de animales que cuenten con la infraestructura adecuada para el alojamiento y cuidado de los mismos, podrán admitir, previo convenio suscrito con el Ayuntamiento, a los animales que le sean remitidos por parte de este.
+(DEROGADO, P.O. 28 DE ENERO DE 2022)
 
-### CAPÍTULO XIV. DE LAS MEDIDAS DE SEGURIDAD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ENERO DE 2022)</small>
 
-### CAPÍTULO XV. DE LAS INFRACCIONES
+### CAPÍTULO XI BIS. DE LAS ASOCIACIONES PROTECTORAS DE ANIMALES
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 53 BIS. Las Asociaciones Protectoras de Animales podrán colaborar con la Secretaría, la Secretaría de Desarrollo Sustentable, los Centros de Salud y Bienestar Animal, y demás autoridades estatales y municipales para promover la participación de la sociedad en la aplicación de medidas para una educación ambiental, tenencia responsable, adopción, campañas de vacunación, desparasitación y esterilización, conservación de su hábitat, protección, búsqueda del bienestar y desarrollo y aprovechamiento sustentable de los animales.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 53 BIS A. Las Asociaciones Protectoras de Animales legalmente constituidas e inscritas ante la Secretaría de Desarrollo Sustentable, tendrán las siguientes facultades:
+
+I. Colaborar con las autoridades estatales y municipales competentes en el marco de los convenios que con ellas se celebren para la realización de campañas de vacunación, desparasitación, esterilización, sacrificio humanitario en los terminos previstos en el artículo 26 de esta Ley, promoción de cultura de tenencia responsable, respeto a los animales y demás acciones que se implementen para el desarrollo de las políticas en materia de esta Ley;
+
+II. Proporcionar albergue y custodia temporal a los animales asegurados con motivo de la aplicación de la presente Ley y en caso de contar con la infraestructura adecuada funcionar como albergues para animales; y
+
+III. Participar en coordinación con la Secretaría de Desarrollo Sustentable y los Ayuntamientos en la expedición de los protocolos de adopción.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 53 BIS B. Todos los animales rescatados de la calle por parte de los Centros de Salud y Bienestar Animal, que sean entregados en custodia temporal o definitiva por una autoridad, o que sean dados en tutela por un particular por su incapacidad para cuidarlo, y por cualquier otra situación similar donde un animal no cuente con un hogar y propietario definitivo, podrán entregarse a las Asociaciones Protectoras de Animales que así lo soliciten y que cuenten con un convenio suscrito para tal efecto con la Secretaría en coordinación con los Ayuntamientos.
+
+### CAPÍTULO XII. DE LA DENUNCIA POPULAR
 
 ###### ARTÍCULO 54.
 
@@ -629,7 +837,7 @@ III. Cuando no existan contravenciones a la presente Ley y demás normatividad a
 
 IV. Por desistimiento expreso del denunciante.
 
-### CAPÍTULO XVI. DEL RECURSO ADMINISTRATIVO
+### CAPÍTULO XIII. DE LA INSPECCIÓN
 
 ###### ARTÍCULO 61.
 
@@ -699,6 +907,8 @@ Las autoridades competentes verificarán el cumplimiento de las medidas ordenada
 
 En el caso de ubicar lugares donde se encuentren animales protegidos por autoridades federales, la Secretaría o los Ayuntamientos involucrados, se coordinarán con dichas autoridades para realizar las actividades de inspección y vigilancia que correspondan.
 
+### CAPÍTULO XIV. DE LAS MEDIDAS DE SEGURIDAD
+
 ###### ARTÍCULO 72.
 
 Cuando los animales estuvieren en condiciones de peligro para su salud, las autoridades competentes, fundando y motivando su resolución, podrán ordenar cualquiera de las siguientes medidas:
@@ -751,6 +961,64 @@ Si el aseguramiento no fuere posible por tratarse de animales abandonados en una
 
 Las autoridades municipales, asistidas de un veterinario, deberán ordenar la vacunación, atención médica o en su caso, el sacrificio humanitario de animales que representen una amenaza de salud pública específicamente de la enfermedad de la rabia, previamente diagnosticada por médico certificado.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Todo Médico Veterinario Zootecnista que tenga conocimiento de que algún animal padezca una enfermedad contagiosa procederá a la notificación obligatoria a las autoridades competentes, en términos de lo dispuesto por la Ley Federal de Sanidad Animal y las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ENERO DE 2022)</small>
+
+### CAPÍTULO XIV BIS. DEL FONDO PARA LA PROTECCIÓN DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 76 BIS. Se crea el Fondo para la Protección de los Animales, el cual será administrado por la Secretaría, para ser destinado a las siguientes acciones:
+
+I. El fomento de programas de educación, capacitación y difusión para mejorar los mecanismos para la protección a los animales y especies de fauna silvestre;
+
+II. La ejecución de campañas de esterilización gratuitas permanentes;
+
+III. El desarrollo de las acciones establecidas en los convenios que la Secretaría establezca con los sectores social, privado, académico y de investigación en las materias de la presente Ley; y
+
+IV. Las demás que esta Ley, su reglamento y que otros ordenamientos jurídicos establezcan.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 76 BIS A. Para el ejercicio y vigilancia del uso y destino de los recursos del Fondo se integrará un Consejo Técnico, el cual deberá estar integrado de la siguiente manera:
+
+I. El Titular de la Secretaría, quien lo presidirá;
+
+II. El Titular de la Secretaría de Desarrollo Sustentable;
+
+III. El Titular de la Secretaría de Seguridad Pública;
+
+IV. El Titular de la Secretaría de Educación Pública y Cultura;
+
+V. Tres representantes de las Asociaciones Protectoras de Animales legalmente establecidas; y
+
+VI. Dos investigadores de universidades o centros de investigación expertos en la materia de protección a los animales.
+
+Para la designación de los integrantes señalados en las fracciones V y VI, la Secretaria emitirá convocatoria pública en la cual establecerá las bases y requisitos que deberán reunir los aspirantes a dichos cargos. La designación será por un periodo de tres años, sin posibilidad de reelección y su cargo será honorífico.
+
+Los Titulares de las Secretarías a que se refiere en el presente artículo podrán designar a sus suplentes para que asistan a las reuniones cuando lo requieran. Los suplentes cuando asistan a las reuniones en sustitución de los titulares tendrán los mismos derechos y obligaciones de aquellos.
+
+El funcionamiento del Consejo Técnico se regirá por el Reglamento que se expida para tal efecto.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTÍCULO 76 BIS B. El Fondo se compondrá de la siguiente manera:
+
+I. La aportación que, de manera específica, se determine en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal correspondiente;
+
+II. Las aportaciones y donaciones que realicen las personas físicas u organismos privados, públicos y sociales;
+
+III. Los intereses que generen los depósitos;
+
+IV. Los ingresos que se obtengan por las multas por infracciones a lo dispuesto en esta Ley; y
+
+V. Los demás ingresos que por Ley le sean asignados.
+
+### CAPÍTULO XV. DE LAS INFRACCIONES
+
 ###### ARTÍCULO 77.
 
 Se considera infracción todo acto u omisión, sancionado por esta Ley y demás ordenamientos jurídicos aplicables, ya sea que el responsable haya actuado intencionalmente, o por imprudencia, por sí mismo, o provocando, ordenando, o permitiendo que otra persona o personas bajo su mando, tutela, encargo o responsabilidad lo hagan.
@@ -761,9 +1029,9 @@ Las infracciones a la Ley motivarán la aplicación de una o varias de las sigui
 
 I. Apercibimiento escrito de la autoridad;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
 
-II. Multa de 100 a 300 veces el valor diario de la Unidad de Medida y Actualización, las cuales serán determinadas por los Ayuntamientos en sus disposiciones reglamentarias atendiendo a la gravedad de la infracción y a las condiciones del infractor, y
+II. Multa de 100 a 400 veces el valor diario de la Unidad de Medida y Actualización, las cuales serán determinadas por los Ayuntamientos en sus disposiciones reglamentarias atendiendo a la gravedad de la infracción y a las condiciones del infractor; y
 
 III. Clausura Definitiva de los establecimientos o instalaciones a que se refiere esta Ley; en este caso y si las condiciones así lo requieren se dará cuenta a la autoridad federal correspondiente, en términos de la normatividad aplicable.
 
@@ -798,6 +1066,8 @@ Los animales decomisados que puedan ser reintegrados a su hábitat, a un espacio
 ###### ARTÍCULO 83.
 
 Los ingresos que se obtengan por las multas por infracciones a lo dispuesto en esta Ley, se destinarán a la integración de fondos para desarrollar programas y actividades vinculados con la protección y cuidado de los animales.
+
+### CAPÍTULO XVI. DEL RECURSO ADMINISTRATIVO
 
 ###### ARTÍCULO 84.
 
@@ -882,3 +1152,19 @@ P.O. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 562 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN A LOS ARTÍCULOS 3, LA FRACCIÓN XXXII BIS; 8, LA FRACCIÓN III, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; Y 10, LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, SE DEROGA AL ARTÍCULO 3, LA FRACCIÓN IX TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 581 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES, LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE Y DEL CÓDIGO PENAL, TODOS PARA EL ESTADO DE SINALOA, EN MATERIA DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Titular del Ejecutivo del Estado contará con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones reglamentarias derivadas del mismo.
+
+CUARTO. Los Municipios del Estado, por conducto de sus Ayuntamientos, en el ámbito de sus respectivas competencias contarán con un plazo de 90 días posteriores al inicio de vigencia del presente Decreto para realizar las modificaciones reglamentarias derivadas del mismo.
+
+QUINTO. La Secretaría de Desarrollo Sustentable deberá integrar en un plazo de 180 días posteriores al inicio de vigencia del presente Decreto los Padrones a que se refieren la fracción VI del artículo 8 de la Ley de Protección a los Animales para el Estado de Sinaloa.
+
+SEXTO. Una vez integrado el Consejo Técnico del Fondo para la Protección de los Animales contará con un plazo de 90 días naturales para expedir el Reglamento a que se refiere el presente Decreto.
