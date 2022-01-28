@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-01-26"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -305,11 +305,11 @@ El Consejo Consultivo Ciudadano de la Secretaría que se establezca en los térm
 
 Adicionalmente a lo dispuesto por los tratados internacionales, ley de inversión extranjera, leyes fiscales estatales y municipales, así como en el Plan Estatal de Desarrollo, el Consejo en los términos de la presente Ley, podrá aprobar el otorgamiento de incentivos a la inversión nacional y extranjera, para la creación de nuevas empresas y fomentar el empleo para fortalecer e incrementar la capacidad de operación de las empresas ya existentes en el Estado, con el fin de seguir creando nuevas fuentes de empleo.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### Artículo 21 Bis.
 
-Para el otorgamiento de los incentivos contemplados en el Artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas empresa emergente o "Startups", y a aquellas empresas que dentro de su plantilla laboral tengan a trabajadores de primer empleo y a personas adultas mayores.
+Para el otorgamiento de los incentivos contemplados en el artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas empresa emergente o "Startups", y a aquellas empresas que dentro de su plantilla laboral tengan trabajadores de primer empleo, a personas adultas mayores, mujeres en situación de vulnerabilidad y a aquellas que tengan instaladas guarderías en sus empresas.
 
 ###### Artículo 22.
 
@@ -410,6 +410,10 @@ I. El impacto económico, entendiéndose por éste un análisis del gasto de la 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
 II. La generación de empleos para los habitantes del estado de Nuevo León, entendiéndose esta como la cifra absoluta de población del Estado ocupada que desempeña una actividad formal y remunerada con base en la legislación aplicable;
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Para los efectos de la presente fracción, la Secretaría de Finanzas y Tesorería General del Estado podrá priorizar la generación y otorgamiento de empleos en favor de mujeres en situación de vulnerabilidad y a personas adultas mayores;
 
 III. La ubicación geográfica del proyecto, entendiéndose por esta la Región Centro, Región Citrícola, Región Norte, Región Periférica y Sur;
 
@@ -803,7 +807,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 
 SEGUNDO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto en el presente Decreto.. (sic)
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-183 DECRETO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS".]
+P.O. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 046. SE REFORMA EL ARTÍCULO 21 BIS, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 31, TODOS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DE “DECRETO NO. 65-423 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
 
