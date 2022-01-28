@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2017-12-22"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -507,19 +507,27 @@ Para efectos del valor de la producción anual comercializada en tratándose de 
 
 b).- Los demás, en los términos establecidos por la fracción I de este precepto; incluyendo aquéllos que estando destinados a las actividades a que se refiere el inciso anterior que por algún motivo no obtengan producción en un año determinado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTICULO 35.
 
-El Impuesto Predial se causará, mediante la aplicación de la siguiente tarifa y tasas anuales:
+El Impuesto Predial se causará y pagará de acuerdo a lo que resulte de aplicar a la base gravable, la tarifa y tasas auales a que se refiere este capítulo y demás disposiciones establecidas en la presente Ley; debiendo aplicar en los supuestos que correspondan, las siguientes tasas:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 I.- Predios o fincas urbanas:
 
 (VÉASE TABLA ANEXA)
 
-Para la aplicación de la tarifa a que se refiere esta fracción, se considera predio urbano sin construcción, aquellos que no tengan edificación y que estén ubicados en lugares que cuenten con servicio de agua potable y drenaje, en poblaciones con más de 5,000 habitantes.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+
+A los predios urbanos sin construcción que no tengan edificación, y con la finalidad de preservar los derechos humanos de la población, contenidos en los artículos 25 y tercer párrafo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; el principio de política pública de Derecho a la Ciudad previsto en los artículos 4 fracción I de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y artículo 2 fracción I de la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Sinaloa y alcanzar el adecuado mejoramiento de las condiciones de vida de la población urbana, evitando la retención de suelo sin aprovechamiento en zonas con infraestructura, la especulación con la tierra vacante, el desperdicio urbano, es decir el desaprovechamiento de la inversión pública en infraestructura, equipamiento y sus respectivos mantenimientos, y otros servicios públicos que otorga el Municipio, se les aplicará la tarifa prevista anteriormente, considerándose por tanto como predio urbano sin construcción aquellos que no tengan edificación y que estén ubicados en lugares que cuenten con servicio de agua potable y drenaje, en poblaciones con más de 5,000 habitantes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 Asimismo se equipara a los predios sin construcción:
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 a) Los que teniéndola sea inhabitable por abandono o ruina.
 
@@ -527,7 +535,15 @@ a) Los que teniéndola sea inhabitable por abandono o ruina.
 
 b) Los que estando ubicados dentro del área urbana, tengan construcciones permanentes en un área inferior al 25% de la superficie total del predio y que al practicar avalúo de las edificaciones, resulten con valor inferior al 50% del valor del terreno. Se exceptúa de dicha clasificación, aquellos predios que aún cuando cumplan las especificaciones técnicas mencionadas, sus titulares lo acrediten como única propiedad inmobiliaria en la municipalidad y se encuentre habitada al momento de la determinación de la contribución.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
 Las tasas para predios sin construcción no serán aplicables a aquellos que se encuentren ubicados en condominios horizontales, así como los que las empresas fraccionadoras o urbanizadoras legalmente autorizadas destinen a la venta, por un lapso de 5 años a partir de la fecha en que de hecho o de derecho se inicie la venta de lotes, pudiendo realizarse ésta por etapas, previa autorización de la Presidencia Municipal, debiendo el fraccionador conservarlos limpios.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+Para el cálculo de este impuesto, a la base gravable se le disminuirá el límite inferior que corresponda y a la diferencia de excedente de límite inferior se le aplicará la tarifa sobre el excedente del límite inferior, al resultado se le sumará la cuota fija que corresponda, misma que se dividirá entre cuatro, y el importe de dicha operación será el Impuesto Predial a pagar por cada trimestre.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 II.- De los predios rústicos destinados a:
 
@@ -547,23 +563,109 @@ Para la aplicación de la tarifa a que se refiere este precepto, donde la base g
 
 Lo que se recaude por los conceptos a que se refiere esta fracción, serán destinados única y exclusivamente para la realización de inversiones públicas en el medio rural del municipio correspondiente, para lo cual se llevará una cuenta especial de contabilidad que verifique el escrupuloso manejo de estos fondos, dándose la participación que corresponda a los Comités de Planeación Municipal. Por inversión pública debe entenderse, la destinada a obras públicas y la adquisición de bienes para la prestación de los servicios públicos de la comunidad; no pudiendo destinarse a rubros tales como combustibles, lubricantes, salarios de personal administrativo u operativo del Ayuntamiento, bonos, gratificaciones o compensaciones.
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
 III.- En los demás casos de predios rurales, se aplicará la tarifa contenida en la fracción I de este artículo.
 
-> <small>(ADICIONADA, P. O. 9 DE AGOSTO DE 2013)</small>
+IV.- (DEROGADA, P.O. 28 DE ENERO DE 2022)
 
-IV.- Tratándose de predios en los que se encuentren ubicados campos de golf, se pagará en los siguientes términos:
-
-a) Cuando el campo de golf tenga un área menor de 80 hectáreas y 18 hoyos, se deberá pagar a valor terreno la cantidad de $130.00 por metro cuadrado como zona especial, aplicando la tasa 2.5 al millar; y
-
-b) Cuando el campo sea mayor de 80 hectáreas pero no cuente con más de 18 hoyos, se aplicará un factor de demérito a la superficie restante de acuerdo al Instructivo de Valuación del Instituto Catastral del Estado de Sinaloa.
-
-En el caso de los desarrolladores que tengan dos o más campos de golf no se aplicará este demérito.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTICULO 36.
 
-Para la aplicación de la tarifa que se establece en el artículo que antecede, los límites inferior y superior de los rangos contenidos en la misma y las cuotas fijas, se actualizarán aplicando el factor que resulte de dividir el Índice Nacional de Precios al Consumidor publicado por el Banco de México en el Diario Oficial de la Federación del penúltimo mes del año de calendario que se actualiza, entre el citado Índice correspondiente al penúltimo mes del año de calendario anterior al de esa fecha. La actualización se publicará por el Instituto Catastral de Sinaloa en el Periódico Oficial "El Estado de Sinaloa".
+La tarifa a la que se aplique el factor de actualización, será la que estuvo vigente en el año inmediato anterior la cual tiene su base en lo previsto en el numeral que antecede, tal aplicación se hará consecutivamente, los límites inferior y superior de los rangos contenidos en la misma y las cuotas fijas, se actualizarán aplicando el factor que resulte de dividir el Índice Nacional de Precios al Consumidor publicado por el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación del penúltimo mes del año de calendario que se actualiza, entre el citado Índice correspondiente al penúltimo mes del año de calendario anterior al de esa fecha. La actualización se publicará por el Instituto Catastral del Estado de Sinaloa en el Periódico Oficial "El Estado de Sinaloa".
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2022)</small>
+
+ARTICULO 36 BIS.- El ente catastral facultado para realizar las valuaciones catastrales deberá realizar las mismas de conformidad a lo dispuesto en el Instructivo de Valuación de terrenos y de construcciones.
+
+Para la valuación de las construcciones, estas se clasifican por sus elementos constructivos y por sus tipos, de conformidad con lo siguiente:
+
+I. Según sus elementos constructivos se clasifican en:
+
+a) Antiguas: aquellas que, por su edad, diseño, instalaciones y materiales, han llegado a ser completamente inadecuadas para la época actual, comprende en sus varias calidades de construcción los palacios, residencias, viviendas y vecindades, edificaciones hechas a principios del siglo XIX;
+
+b) Modernas: aquellas que aparte de ser recientes, emplean junto con los materiales tradicionales como las piedras y el ladrillo, el tabique rojo y el concreto armado, ya sea como refuerzo simple las dalas, castillos, o similares; y, como estructura o revestimiento de estructuras de acero los cimientos, contratrabes, columnas, techos, paredes, o similares; y,
+
+c) Especiales: aquellas que por sus características son usadas para comercios, industrias y/o prestación de servicios;
+
+II. Según su tipo las construcciones se clasifican en:
+
+a) Antigua 1 "A1";
+
+b) Antigua 2 "A2";
+
+c) Moderna 1 "M1";
+
+d) Moderna 2 "M2";
+
+e) Moderna 3 "M3";
+
+f) Moderna 4 "M4";
+
+g) Moderna 5 "M5";
+
+h) Moderna 6 "M6";
+
+i) Moderna 7 "M7";
+
+j) Especial 1 "E1";
+
+k) Especial 2 "E2";
+
+l) Especial 3 "E3";
+
+m) Especial 4 "E4";
+
+n) Especial 5 "E5";
+
+o) Alberca 1 "ALB 1"; y,
+
+p) Alberca 2 "ALB 2".
+
+Los elementos de construcción a considerar son: estructura integrada por los cimientos, muros y techos; recubrimientos pudiendo ser aplanados, pisos y lambrines; instalaciones siendo eléctrica, hidráulica y sanitaria; complementos de carpintería, herrería, vidriería y cerrajería; acabados de pintura y motivos decorativos; y del proyecto, la fachada y la distribución de espacios.
+
+Las especificaciones para cada tipo de construcción son las siguientes:
+
+a) Antigua 1 (A1).- construcción en la que sus cimientos son de mampostería de piedra o ladrillo; sus muros y estructura son de adobe, ladrillo doble, postes o columnas de piedra o madera dura, trabes de acero o madera dura; el techo es de tejas y/o ladrillo sobre vigas de madera; recubrimiento de aplanados de mortero cal y arena o sin enjarre; pisos de ladrillo, cemento o sin piso; lambrines de pasta de cemento, pintura de aceite o sin ellos; instalación eléctrica visible, centros y apagadores; instalación hidráulica y sanitaria de albañales, bajadas, tuberías de fierro galvanizado o cobre; fachada generalmente de dos aguas o inclinadas, algunas con porche y columnas; carpintería de madera de cedro y/o pino o madera dura; herrería de canceles de fierro forjado o estructural; no tiene vidriería; cerrajería de segunda clase; acabados sin pintura o con pintura de cal; y, motivos decorativos con maceteros;
+
+b) Antigua 2 (A2).- construcción en la que los cimientos son de mampostería de piedra cantera o piedra bola del río con mortero de cal y cemento; muros y estructura de adobe, ladrillo doble, cerramientos de piedra o ladrillo, postes o columnas de piedra o madera dura, trabes de acero o madera dura; techo de ladrillos sobre vigas de madera dura, concreto sobre viga de fierro, concreto con vigas de fierro y ladrillo especial, bóveda escarzana sobre vigas de fierro y ladrillo común; recubrimientos aplanados interiores y exteriores de cal y arena o de yeso a regla y plomo; pisos de mosaico fino u otro material especial; lambrines de azulejo de segunda; instalación eléctrica semi oculta, centros y contactos; instalación hidráulica y sanitaria de tubo de cemento, pvc, o tubería de cobre; fachada con altura de 3 a 5 metros, ladrillo aparente o cantera labrada; carpintería de madera fina; herrería de fierro estructural forjado en rejas, barandales, pasamanos y ventanería; vidriería de sencillo doble; cerrajería de primera; pintura de vinílica en muros y plafones, de aceite en herrería; y, motivos decorativos con cornisas en fachadas sobre puertas y ventanas, jardinerías, ventanales amplios y/o pasillos con arcos;
+
+c) Moderna 1 (M1).- construcción con cimientos de mampostería de piedra, ladrillo o block; muros y estructuras de ladrillo, block u otro material, cerramientos y castillos de concreto armado; techo de ladrillos con vigas y polines de madera, ladrillo con venas de concreto, láminas de cartón o zinc; recubrimientos aplanado de interiores y exteriores de mezcla de cal-arena-cemento, a veces sin enjarres; pisos de ladrillo punteado, firme de concreto, acabado pulido o rayado; sin lambrines o si tienen son de tipo económico; instalación visible con salidas mínimas; instalación hidráulica y sanitaria .de albañales de tubería pvc o sin drenaje, tubo de cobre visible; fachada sencilla y plana de características de colonias populares de reciente creación; carpintería de madera económica; herrería de fierro estructural; vidriería sencilla, transparente o goteada; cerrajería de línea económica; y, pintura escasa, si existe es de tipo económica;
+
+d) Moderna 2 (M2).- construcción con cimientos de zapatas corridas o aisladas; muros y estructuras de block o tabique, dalas, y castillos de concreto armado; techo de losa sólida o aligerada de concreto armado con espesores de 10 a 20 centímetros; recubrimientos aplanados de interiores y exteriores, mezcla de cal, cemento, arena planeados; piso de pasta de cemento pulido y rayado, mosaico, de cerámica económico; lambrines de azulejo economico; instalación eléctrica oculta en tubo de poliducto, un centro de carga, contactos y apagadores de línea económica; instalación hidráuilica y sanitaria oculta de tubería de cobre para agua y gas, pvc en drenajes; fachada sencilla y plana sin resaltes, con marquesina, algunas con molduras, características de colonias populares consolidadas; carpintería de madera económica, triplay o panel de fibra; vidriería sencilla; cerrajería de línea económica; pintura vinílica económica en muros y techos, esmalte común en . herrería; y motivos decorativos de molduras en marquesinas, puertas y ventanas;
+
+e) Moderna 3 (M3).- construcción con cimientos de zapatas de concreto armado, losas de cimentación coladas en el lugar o prefabricadas; muros y estructuras de tabique, block, concreto armado tipo mecano o tridipanel, dalas y castillos de concreto armado; techo de losa sólida, aligerada o prefabricado con espesores de hasta 20 centímetros con pendientes naturales o a dos aguas; recubrimientos aplanados de mezcla de cal y arena planeados o de yeso al talochazo, en algunos casos sin ellos; pisos de mosaico fino, vitropiso económico; lambrines de azulejo económico mínimo en cocina y baño; instalación eléctrica oculta en tubo de poliducto, un centro de carga, contactos y apagadores de línea económica; instalación hidráulica y sanitaria con drenaje de tubería pvc, agua y gas de tubería de cobre, muebles de baño económico, fregadero sencillo de fierro esmaltado o acero inoxidable; fachada sencilla de trazos rectos, mínimas molduras y resaltes, características en fraccionamiento de interés social bajo; carpintería escasa o de madera económica; herrería de fierro estructural y aluminio sencillo en ventanas; vidriería de cristal semidoble económico; cerrajería de línea económica; pintura vinílica económica en muros, aceite en herrería; y como motivos decorativos jardín en algunos casos con césped al frente, teja decorativa en porches o marquesinas, y/o molduras sencillas en fachadas;
+
+f) Moderna 4 (M4).- construcción con cimientos de zapatas corridas o aisladas de concreto armado; muros y estructuras con muros de tabique o block, dalas y castillos de concreto armado; techo de losa aligerada con concreto armado de más de 20 centímetros de espesor; recubrimientos de aplanados de mortero de cemento, cal y arena afinados, yeso de calidad o texturizado; pisos de vitropiso de cerámica de buena calidad, granito o terrazo; lambrines de vitromuro y azulejo de mediana calidad; instalación eléctrica oculta, apagadores y contactos de buena calidad, suficientes salidas; instalación hidráulica y sanitaria con tubería de pvc para drenaje, tubería de cobre o pvc para agua y gas, muebles de baño de buena calidad; fachada recta o curva con claros grandes, cochera para más de un automóvil, características en fraccionamientos de nivel medio alto; carpintería de madera fina; herrería de aluminio de buena calidad o fierro estructural; vidriería de cristal semidoble de más de 4 milímetros; cerrajería de buena calidad; pintura vinílica de buena calidad, esmalte en herrería; motivos decorativos como alguna terraza, balcones, jardín, ventanales amplios, teja y molduras en marquesinas y resaltes;
+
+g) Moderna 5 (M5).- construcción con estructura de cimientos de zapatas corridas o aisladas de concreto armado; muros y estructura con muros de block o tabique común, dalas, castillos y trabes de concreto armado; techos de losa aligerada de casetón o bovedilla con concreto armado de más de 20 centímetros de espesor; recubrimiento de aplanados de mortero cemento-cal- arena en exteriores, yeso de buena calidad en interiores; fachada recta o curva, de una o dos aguas o combinadas; pisos de vitropiso de buena calidad o terrazo; lambrines de azulejo de buena calidad en baños y cocina, vitromuro en exteriores; instalación eléctrica oculta en tubo poliducto de centro de carga de más de 4 interruptores, contacto y apagadores de buena calidad; instalación hidráulica y sanitaria de tubería de cobre para conducción de aguas y gas, tubería de pvc para albañales y bajadas pluviales, muebles de baño de buena calidad; carpintería de madera fina; herrería de fierro estructural, aluminio de mediana calidad; vidriería semidoble en general de más de 4 milímetros; cerrajería con chapas y pasadores de buena calidad; pintura de vinílica en muros y plafones, esmalte en herrería de buena calidad; motivos decorativos con molduras en algunos casos y figuras moldeadas con acabados finos, teja decorativa, terrazas, balcones y jardineras de claros grandes; y, buen proyecto en fraccionamientos o sectores residenciales del nivel medio alto, de uno a dos niveles con espacios suficientes de más de 3 recamaras y cocheras para tres o más autos;
+
+h) Moderna 6 (M6).- construcción con estructura de cimientos de zapatas corridas o aisladas de concreto armado; muros y estructuras con muros de block o tabique común, dalas, castillos y trabes de concreto armado; techos de losa aligerada de casetón o bovedilla con concreto armado de más de 30 centímetros de espesor; recubrimientos de aplanados con mortero cemento-cal-arena, en exteriores, yeso de buena calidad en interiores; fachadas rectas o curvas, de una o dos aguas o combinadas; pisos de vitropiso de muy buena calidad, terrazo o mármol; lambrines de azulejo, marmoleta y/o vitromuro de muy buena calidad; instalación eléctrica oculta en tubo de poliducto, centro de carga de más de 4 interrruptores, contactos y apagadores de muy buena calidad; instalación hidráulica y sanitaria con tubería de cobre para conducción de agua y gas, tuberías de pvc para albañales y bajadas pluviales, muebles de baño de muy buena calidad; carpintería todo en madera fina; herrería de fierro forjado o fierro estructural, aluminio de buena calidad en ventanas; vidriería semidoble en general de más de 4 milímetros y canceles de baño de buena calidad; cerrajería con chapas y pasadores de muy buena calidad; pintura vinílica en muros y plafones, esmalte en herrería de muy buena calidad; motivos decorativos como con algunas molduras y figuras moldeadas con acabados finos, teja decorativa, terrazas, balcones y jaridneras de claros grandes; y, muy buen proyecto en fraccionamientos o sectores residenciales de nivel alto, con espacios amplios de 4 o más recámaras y cochera para 4 o más autos;
+
+i) Moderna 7 (M7).- construcción con cimientos de zapatas corridas o aisladas de concreto armado o cimentación especial; muros y estructuras con muros de block o tabique común, dalas, castillos y trabes de concreto armado; techos de losa aligerada de casetón o bovedilla con concreto armado de más de 40 centímetros de espesor; recubrimientos aplanados de mortero cemento-cal-arena, en exteriores, yeso de buena calidad en interiores con recubrimientos especiales; fachas rectas o curvas, de una o dos aguas o combinadas; pisos de vitropiso de excelente calidad rectificado, terrazo o mármol; lambrines de azulejo, mármol, vitromuro o en algún otro recubrimiento especial de excelente calidad; instalación eléctrica oculta en tubo de poliducto, centro de carga de más de 4 interruptores, contactos y apagadores de excelente calidad; instalación hidráulica y sanitaria con tubería de cobre para conducción de agua y gas, tuberías de pvc para albañales y bajadas pluviales, muebles de baño de excelente calidad; carpintería de madera fina; herrería de fierro forjado o fierro estructural, aluminio de excelente calidad; vidriería doble en general de más de 4 milímettros, canceles de baño de excelente calidad; cerrajería de chapas y pasadores de excelente calidad; pintura vinílica en muros y plafones, esmalte en herrería de excelente calidad; motivos decorativos con algunas molduras y figuras moldeadas con acabados finos, teja decorativa, terrazas, balcones y jardineras de claros grandes; y, excelente proyecto en fraccionamientos o sectores exclusivos de nivel alto con sobrados espacios amplios, de 4 o más recámaras y cochera para 4 o más autos;
+
+j) Especial 1 (E1).- construcción con cimientos de desechos de mampostería, ladrillo, piedra braza o concreto ciclópeo; muros y estructuras de ladrillo, block, lámina y algunas columnas de concreto o fierro estructural; techos de lámina de cartón, asbesto, zinc u otro tipo, vigas de madera y ladrillo, vigas de acero; recubrimientos aplanados escasos, de mezcla cal-arena; pisos de ladrillo punteado, firme de concreto en ocasiones pulido; instalación eléctrica visible con centros y contactos mínimos; instalación hidráulica y sanitaria de tubería de concreto pvc y cobre; fachada a dos aguas o inclinadas, características de talleres y naves industriales con espacios abiertos; carpintería escasa de pino y ocote; herrería de rejas o canceles estructurales, alambradas en divisiones; sin vidriería; cerrajería tipo económico, regularmente candados; y, pintura de aceite económica;
+
+k) Especial 2 (E2).- construcción con estructura de cimientos de concreto ciclópeo, zapatas aisladas o corridas de concreto armado; muros y estructuras de ladrillo, block, lámina de acero o madera tratada, columnas de concreto armado o fierro estructural; techos de concreto en todos los tipos, lámina de aluminio o de otro tipo especial; recubrimientos aplanados de mezcla de cal, planeado de yeso al talochazo o de cemento pulido; pisos firmes de concreto pulido, cemento o mosaico; lambrines de azulejo económico; instalación eléctrica visible oculta en tuvo conduit, varias salidas; instalación hidráulica y sanitaria de tubería de concreto, pvc o cobre; fachada a dos aguas o tipo bóveda, de doble altura o normal, características de bodegas cerradas con espacios amplios; carpintería de madera económica; herrería de fierro estructural y/o alambrados; vidriería sencilla o semidoble; cerrajería de línea económica; y, pintura vinílica y esmalte tipo comercial de mediana calidad;
+
+l) Especial 3 (E3).- construcción de estructura con cimientos de zapatas aisladas o corridas de concreto armado; muros y estructuras de tabique o block, castillos, dalas, columnas y trabes de concreto armado o fierro estructural; techos de losas sólidas o aligeradas de concreto armado o tipo cascarón, armaduras con viguetas de acero y lámina especial, falsos plafones; recubrimientos aplanados de mortero de cemento, cal y arena, o yeso de primera; fachada moderna típica de centros comerciales, acabados de buena calidad, con algunos resaltes y recubrimientos especiales; pisos firmes especiales de concreto, mosaico linóleum o vitropisos de mediana calidad; lambrines de azulejo de mediana calidad, algunos casos madera fina o algún recubrimiento especial; instalación eléctrica oculta, en algunos casos con sonido interior, reflectores, apagadores y contactos de buena calidad; instalación hidráulica y sanitaria de tuberías pvc en albañales y bajadas de cobre para conducción de agua, muebles de buena calidad en baños, aire acondicionado integral; carpintería escasa, de existir es de madera fina; herrería de aluminio de mediana calidad, fierro estructural; vidriería de doble en claros grandes de más de 4 milímetros; cerrajería de mediana calidad; pintura vinílica en muros y plafones y esmalte en herrería de mediana calidad; motivos decorativos en algunos casos moldura, figuras especiales, jardineras, maceteras, cascadas o fuentes; y, proyecto adecuado para centros comerciales o salones de eventos de uno a dos niveles, doble altura, mesanines y escaleras amplias;
+
+m) Especial 4 (E4).- construcción con estructura de cimientos de zapatas aisladas o corridas de concreto armado o cimentación especial para claro grandes; muros de tabique, block o material especial, castillos, dalas, columnas y trabes de concreto armado o fierro estructural; techos de losas especiales para claros grandes de concreto armado tipo bovedilla reticular, armaduras con viguetas de acero y lámina especia (sic), falsos plafones; recubrimientos aplanados de mortero cemento-cal-arena, o yeso de primera; fachada moderna, típica de grandes centros comerciales, acabados de muy buena calidad, con grandes pretiles y resaltes; pisos firmes especiales de concreto, mosaico fino, vitropiso de muy buena calidad, terrazo, o mármol; lambrines de azulejo y/o vitromuro de muy buena calidad, madera fina o algún recubrimiento especial; instalación eléctrica semioculta en plafones, con sonido interior, centros de carga e interruptores especiales para centros comerciales de muy buena calidad; instalación hidráulica y sanitaria de tuberías pvc en albañales y bajadas, de cobre o especial para conducción de agua, muebles de muy buena calidad en baños, para usuarios y privados, aire acondicionado integral; carpintería de madera fina en algunos acabados; aluminio de muy buena calidad y fierro estructural; vidriería doble en claros grandes de mínimo 6 milímetros de espesor; cerrajería de muy buena calidad en ocasiones puertas automatizadas en accesos principales; pintura vinílica en muros y plafones y esmalte en herrería de muy buena calidad; motivos decorativos con molduras figuras especiales, jardineras, maceteras, con espacios de descanso, cascadas o fuentes; y, proyecto muy bueno, adecuado para centros comerciales o salones de eventos, con doble altura, mesanines, escaleras amplias y/o eléctricas;
+
+n) Especial 5 (E5).- construcción con estructura de cimientos de zapatas aisladas o corridas de concreto armado o cimentación especial profunda para claros excesivamente grandes; muros y estructuras con muros de tabique, block o material especial, castillos, dalas, columnas y trabes de concreto armado o fierro estructural; techos de losas especiales para claros excesivamente grandes de concreto armado tipo bovedilla reticular, armaduras con viguetas de acero y lámina especial, falsos plafones decorados o con resaltes; recubrimientos aplanados con mortero cemento-cal- arena, o yeso de primera; fachada moderna, típica de centros comerciales, excesivamente grande, acabados de excelente calidad, con grandes pretiles y resalte; pisos firmes especiales de concreto, mosaico fino, mármol, enduelados de madera fina u otro material especial; lambrines de azulejo y/o vitromuro de excelente calidad, madera y/o alfombra fina, algún otro recubrimiento especial; lambrines de azulejo y/o vitromuro de excelente calidad, madera y/o alfombra fina, algún otro recubrimiento especial; instalación eléctrica oculta en plafones, con sonido interior, centros de carga e interruptores especiales de excelente calidad; instalación hidráulica y sanitaria con instalaciones especiales con tuberías de pvc en albañales y bajadas, de cobre o especial para conducción de agua, aire acondicionado integral; carpintería de madera fina en algunos acabados; herrería de aluminio de excelente calidad y fierro estructural; vidriería de doble de más de 6 milímetros en claros grandes; cerrajería de excelente calidad del país o importada, puertas automatizadas en accesos; pintura vinílica en muros y plafones y esmaltes en herrería de excelente calidad; motivos decorativos como molduras figuras especiales, jardinerías, maceteras, con espacios de descanso, cascadas o fuentes; y, proyecto excelente adecuado para grandes centros comerciales o salones de eventos de dos niveles o más, con doble altura, grandes mesanines, escaleras amplias y/o eléctricas, y/o elevador;
+
+o) Alberca 1 (ALB1).- construcción con estructura de cimientos con capa de materia inerte en desplante y plantilla de 5 centímetros de espesor; muros y estructuras de concreto armado, tabique con estructura de concreto; recubrimientos aplanados con mortero pulido de cemento-arena; pisos de losa de concreto armado simple de 10 centímetros de espesor; lambrines de pasta de color o azulejo económico; instalación eléctrica oculta con focos y/o reflectores; instalación hidráulica y sanitaria con rebosadero forjado de concreto armado con alambrón, desagüe por gravedad o bombas; acabados con pintura vinílica de primera calidad en muros; sin motivos decorativos; y,
+
+p) Alberca 2 (ALB2).- construcción con estructura de cimientos de capa de material inerte en desplante y plantilla de 5 centímetros; muros y estructuras de concreto armado; recubrimientos aplanados con mortero de cemento-arena; pisos de losa de concreto armado con varilla de 1/2 a 1 pulgada de espesor; lambrines de azulejo de buena calidad y algún otro recubrimiento especial; instalación eléctrica oculta con reflectores especiales; instalación hidráulica y sanitaria con desagüe por gravedad o bombas, boquillas de retorno y de vacío, desnatadores, rebosadero forjado; acabados de pintura ahulada especial; motivos decorativos con algunas figuras especiales, puentes, toboganes y cascadas.
+
+Para la determinación del valor unitario por metro cuadrado de construcción, el Instituto Catastral del Estado de Sinaloa, elaborará presupuestos de cada una de las clasificaciones existentes, tomando en cuenta la cantidad, calidad y valor de los materiales utilizados en su estructura, acabados y la mano de obra aplicada en ellos.
+
+Los deméritos que se aplicarán a las construcciones estarán sujetos a la edad, estado de conservación y obra sin terminar. Edad, es el tiempo transcurrido en años que tiene edificado el bien, independientemente de que esté siendo usado o no; estado de conservación, es la condición observada que guarda el bien durante la inspección física del inmueble y que se describe a continuación: excelente, construcciones nuevas totalmente terminadas o que la conservación haya sido constante y estén en perfectas condiciones; buena, construcciones con detalles mínimos que pueden detectarse en algunos o todos sus elementos, como pintura, enjarres, cristalería, pisos techos, muros y baños; regular, construcciones con detalles notables respecto a algunos o todos sus elementos como pintura deteriorada, enjarres maltratados, vidriería faltante algunos quebrados, pisos levantado o dañado en partes, techos con salitre o humedad en algunas partes, muros con fisuras, humedad o salitre en algunas partes, baños mal conservados y susceptibles de reparación; y, mala, construcciones con problemas graves respecto a algunos o todos sus elementos que requieren atención inmediata para seguir prestando servicio, sin llegar a las construcciones ruinosas que requieren de urgente reposición de la mayoría o todos sus elementos para poder habitarlas.
+
+Tratándose de la valuación del terrreno se deberá considerar el lote tipo, lote regular e irregular y los deméritos e incrementos a que se hagan merecedores. Se entiende por lote tipo a aquel que se determina por sus dimensiones según lo previsto en la Ley de Ordenamiento Territorial y Desarrollo del Estado de Sinaloa y el Instructivo de Valuación para la aplicación de incrementos y/o deméritos a terrenos y construcciones previsto en la Ley de Catastro del Estado de Sinaloa, en la relación a que se aproxime entre uno de frente por tres de fondo.
+
+Los terrenos están sujetos a deméritos en su valor, que serán aplicados según sus características especiales y la aplicación más correcta de su lote tipo; se dividen en predios que se demetirarán en el resultado de la aplicación más correcta de su lote tipo, siendo por exceso de fondo, por formas de terreno, por polígono interior y por frente menor; y por sus características especiales en virtud de predios por su topografía, predios en triángulos, predios interiores y predios por su situación. Se entiende como predios por su topografía del terrreno su nivelación tanto positiva como negativa, siempre relacionado con la calle o camino de acceso al terrreno, que será el nivel, dentro de esta clasificación serán comprendidos los terrenos con excavación y desnivel; son predios en triángulo, lo que específica para estos casos la geometría plana; son predios interiores los que no tienen frente a calle alguna o si tienen servidumbre de paso establecida legalmente o si se valen de otros predios para tener acceso a la vía pública, es decir, que se encuentren en el interior de una manzana; son predios con demérito por situación aquellos que están bajo circunstancias negativas especiales, por factores distintos a los que afecten la superficie propiamente dicha, los cuales pueden ser: agua estancada, pasos a desnivel, vías de ferrocarril, arroyos, obstáculos en la vía pública, estado de la vía pública, restricciones por pao de ductos y líneas eléctricas.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -609,11 +711,11 @@ III.- Para aquellos contribuyentes que se ubican en el caso del inciso b) de la 
 
 Están exentos del pago de este impuesto, los bienes inmuebles del dominio público de la Federación, del Estado de Sinaloa y sus Municipios, excepto sus organismos descentralizados y las empresas paraestatales. En tratándose de edificios sociales sede de los sindicatos obreros y campesinos, se deducirá a la base gravable 16,500 el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
 ###### ARTICULO 39.
 
-Para los fines fiscales de este impuesto, el valor de los inmuebles a que se refiere el artículo 34 de esta Ley, determinado con base en tablas de valores catastrales, surtirá todos sus efectos con la simple publicación de dichas tablas en el Periódico Oficial del Estado.
+Para los fines fiscales de este impuesto, el valor de los inmuebles a que se refiere el artículo 34 de esta Ley, determinado con base en los valores unitarios del suelo y de las construcciones de los Municipios, surtirá todos sus efectos, incluido el de notificaciones, con la simple publicación de dichas tablas en el Periódico Oficial "El Estado de Sinaloa".
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3190,3 +3292,9 @@ P.O. 22 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 337 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 69 DE LA LEY DE HACIENDA Y ADICIONA UN CAPÍTULO XVI AL TÍTULO TERCERO, CON EL ARTÍCULO 90-H A LA LEY DE HACIENDA MUNICIPAL, AMBAS DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 530 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
