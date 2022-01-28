@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2021-08-04"
+last_updated: "2022-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -633,23 +633,21 @@ El Poder Legislativo del Estado de Sinaloa se deposita en una asamblea que se de
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años, denominados Diputadas y Diputados, y para su elección se observará el principio de paridad de género. Por cada Diputada y Diputado se elegirán suplentes del mismo género.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2017)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 72 PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2022, SE DEJAN SIN EFECTOS LAS REFORMAS APROBADAS A LOS PÁRRAFOS PRIMERO, TERCERO, CUARTO Y SÉPTIMO DEL PRESENTE ARTÍCULO, PUBLICADAS EN EL DECRETO NÚMERO 105 DE 4 DE MAYO DE 2017.]</small>
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
 ###### Art. 24.
 
-El Congreso del Estado se integrará con 30 Diputados, 18 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 12 Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
+El Congreso del Estado se integrará con 40 Diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 La demarcación territorial de los distritos electorales uninominales locales será realizada por el Instituto Nacional Electoral con base en el último censo general de población y los criterios generales determinados por su Consejo General.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+Para la elección de los 16 Diputados según el principio de representación proporcional y el sistema de listas de candidatos, el territorio del Estado se podrá dividir de una a tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-Para la elección de los 12 Diputados según el principio de representación proporcional y el sistema de listas de candidatos, el territorio del Estado se conformará en una circunscripción plurinominal. La Ley determinará la forma de establecer la demarcación territorial de esta circunscripción.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
-
-Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos 10 distritos uninominales.
+Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos, en su caso, mínimamente tres deberán estar en cada circunscripción plurinominal.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -659,9 +657,7 @@ Todo partido político que alcance el tres por ciento de la votación estatal em
 
 El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en la lista o listas correspondientes.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
-
-En ningún caso un partido político podrá contar con más de 18 diputados por ambos principios.
+En ningún caso un partido político podrá contar con más de 24 diputados por ambos principios.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -4371,15 +4367,13 @@ P.O. 4 DE MAYO DE 2017.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE ENERO DE 2022)</small>
 
-La reforma del artículo 24 relativa a la integración del Congreso del Estado, entrará en vigor el primero de febrero de 2023, para ser aplicable al proceso electoral local 2023-2024.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+SEGUNDO. El Congreso del Estado en un plazo de 60 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral secundaria, conforme al artículo 112 de la Constitución Política del Estado de Sinaloa.
 
-SEGUNDO. El Congreso del Estado en un plazo de 60 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral secundaria, conforme al artículo 112 de la Constitución Política del Estado de Sinaloa. De igual manera, para los efectos del artículo 24 del mismo ordenamiento, antes del día primero de febrero de 2023, deberá realizar las modificaciones a la misma legislación electoral y a la Ley Orgánica del Congreso del Estado de Sinaloa, con relación a la reducción del número de Diputados por la Fórmula de Mayoría Relativa y de Representación Proporcional, para su aplicación como consecuencia en el proceso electoral a que refiere el artículo anterior y para la integración de la legislatura que en esas fechas corresponda.
-
-TERCERO. Comuníquese al Instituto Nacional Electoral el presente Decreto a efecto de que conforme a sus atribuciones constitucionales y legales, realice la demarcación territorial de los distritos electorales uninominales correspondientes al Estado de Sinaloa, que atiendan a la conformación del Congreso del Estado.
+TERCERO. (DEROGADO, P.O. 28 DE ENERO DE 2022)
 
 P.O. 12 DE JUNIO DE 2017.
 
@@ -4588,3 +4582,11 @@ Las adecuaciones reglamentarias que se deriven del presente Decreto deberán rea
 ###### ARTÍCULO CUARTO.
 
 Por esta sola ocasión la persona Titular del Poder Ejecutivo saliente, presentará el informe de conformidad con el texto vigente hasta antes de la entrada en vigor del Presente Decreto.
+
+P.O. 28 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 72 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE DECLARA REFORMADA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA, EN LOS TÉRMINOS EXPRESADOS POR EL DECRETO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
