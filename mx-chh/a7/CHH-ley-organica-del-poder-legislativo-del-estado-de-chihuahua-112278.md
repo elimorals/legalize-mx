@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2021-12-04"
+last_updated: "2022-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -186,6 +186,10 @@ ARTÍCULO 15 BIS.- El Congreso del Estado promoverá la implementación de un Pa
 En el ejercicio de su función, las y los Diputados deberán generar una apertura institucional para que la ciudadanía pueda involucrarse, de manera pacífica y organizada, en los trabajos legislativos.
 
 El Congreso del Estado impulsará la implementación de mejores prácticas de transparencia para alcanzar los principios contemplados en el presente artículo, y promoverá una agenda de parlamento y gobierno abierto en los ámbitos estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2022)</small>
+
+Como mecanismo de participación ciudadana, se incorporará un espacio permanente en el portal de Internet del H. Congreso del Estado, por medio del cual se reciban las opiniones de la ciudadanía en torno a las iniciativas de ley presentadas, con las salvedades que establezca el Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA
 
@@ -1156,6 +1160,10 @@ En este caso, presidirá los trabajos de la subcomisión la o el diputado nombra
 ###### ARTÍCULO 105.
 
 Para el estudio y análisis de los asuntos turnados podrán realizarse mesas técnicas, reuniones informativas, reuniones de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2022)</small>
+
+Las Comisiones de dictamen analizarán las opiniones que se hayan recibido, en los plazos y términos del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo, a través del Buzón Legislativo Ciudadano.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
@@ -2331,11 +2339,11 @@ VI.- Al Gobernador electo, una vez que adquiera oficialmente ese carácter y hay
 
 VII. A la ciudadanía chihuahuense, mediante iniciativa signada, cuando menos por el cero punto uno por ciento de las personas inscritas en el listado nominal.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2022)</small>
 
 ###### ARTÍCULO 168.
 
-Las iniciativas y proposiciones que presenten las diputadas y diputados, deberán constar en original y en archivo electrónico, y entregarse en la Secretaría de Asuntos Legislativos y Jurídicos, el día de la sesión.
+Las iniciativas y proposiciones que presenten las diputadas y diputados podrán ser de viva voz ante el Pleno o la Diputación Permanente; en Oficialía de Partes; a través de Oficialía de Partes Digital; o por medio de la Secretaría de Asuntos Legislativos y Jurídicos, en los términos del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
 ###### ARTÍCULO 169.
 
@@ -3296,3 +3304,11 @@ P.O. 4 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0190/2022 I P. E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los 90 días después de su publicación en el Periódico Oficial del Estado.
