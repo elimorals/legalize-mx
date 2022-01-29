@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2022-01-05"
+last_updated: "2022-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -767,11 +767,33 @@ La convocatoria y el programa que se seguirá para el desarrollo de la consulta,
 
 Para la instalación, clausura y demás actividades que se lleven durante la consulta, se estará a lo previsto en el Título Quinto del presente Reglamento.
 
-### CAPÍTULO I. DE LAS INICIATIVAS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE ENERO DE 2022)</small>
+
+### CAPÍTULO III. DEL BUZÓN LEGISLATIVO CIUDADANO
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2022)</small>
+
+ARTÍCULO 74 BIS. El Buzón Legislativo Ciudadano es un mecanismo de consulta permanente con el uso de las tecnologías de la información y comunicación, para el cumplimiento de lo dispuesto en el artículo 15 Bis de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, atendiendo a lo siguiente:
+
+I. En el portal de internet del Congreso se dispondrá de un espacio digital donde se podrá opinar sobre cualquier iniciativa de Ley, en los términos del artículo 58 de la Constitución Política del Estado.
+
+II. No serán motivo de consulta por medio del Buzón Legislativo Ciudadano, las que se refieran a las materias fiscal y presupuestaria, además de las que ameriten su resolución temporal inmediata, por acuerdo de la o las Comisiones de dictamen.
+
+III. Las opiniones se recibirán en cualquier momento, hasta antes de que la o las Comisiones dictaminen.
+
+IV. Los dictámenes que emitan las Comisiones se referirán, en general, a las opiniones vertidas a través del Buzón Legislativo Ciudadano, mencionando por qué resultaron o no atendibles o, en su caso, mencionarán si no se recibieron.
+
+V. Para emitir el dictamen no se considerará impedimento el que el período de disposición a consulta de la iniciativa de ley por medio del Buzón Legislativo Ciudadano haya sido breve, por lo que las Comisiones podrán dictaminar en cualquier momento según los acuerdos parlamentarios.
+
+VI. En el diseño del sitio que ocupe el Buzón Legislativo Ciudadano en el portal del Congreso se utilizará el lenguaje incluyente, y será de fácil acceso y comprensión para la ciudadanía a efecto de mejorar su utilidad.
+
+VII. Las opiniones vertidas por la ciudadanía respecto de las iniciativas podrán ser consultadas por terceros. En todo tiempo se cuidará la protección de los datos personales tanto de quien propone como de quien consulte.
+
+En los términos anteriores, el Congreso del Estado contará con un Buzón Físico en sus instalaciones con el fin de que la ciudadanía que así lo prefiera pueda emitir sus opiniones respecto de las iniciativas referidas.
 
 ## TÍTULO QUINTO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPÍTULO II. DE LOS DICTÁMENES
+### CAPÍTULO I. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 75.
 
@@ -817,13 +839,17 @@ I.- De viva voz en el Pleno o la Diputación Permanente, entregando el documento
 
 II.- Por escrito y en formato electrónico, en la Oficialía de Partes del Congreso.
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2022)</small>
 
-III.- Por escrito y en formato electrónico en la Secretaría de Asuntos Legislativos y Jurídicos, cuando así lo acuerde la Presidencia de la Mesa Directiva.
+III. En formato electrónico, a través de Oficialía de Partes Digital.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2022)</small>
 
-Tratándose de las iniciativas que se presenten en los términos de las fracciones II y III deberán hacerse del conocimiento de las y los Diputados a más tardar al día siguiente hábil al de su recepción.
+IV. Por escrito y en formato electrónico en la Secretaría de Asuntos Legislativos y Jurídicos.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2022)</small>
+
+Tratándose de las iniciativas que se presenten en los términos de las fracciones II, III y IV deberán hacerse del conocimiento de las y los Diputados a más tardar al día siguiente hábil al de su recepción.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
 
@@ -845,7 +871,7 @@ IV.- De no existir unanimidad en la petición, únicamente aparecerán como inic
 
 En caso de presentarse una iniciativa que ya ha sido resuelta en sentido negativo y no haya cumplido con el plazo previsto en el artículo 179 de la Ley, se considerará notoriamente improcedente, por tanto, la Presidencia la desechará de plano haciendo del conocimiento de la Asamblea.
 
-### CAPÍTULO III. DE LAS CONVOCATORIAS
+### CAPÍTULO II. DE LOS DICTÁMENES
 
 ###### ARTÍCULO 80.
 
@@ -883,7 +909,7 @@ La lectura del voto particular se hará inmediatamente después de la presentaci
 
 Los votos particulares no serán sometidos a votación.
 
-### CAPÍTULO IV. DE LAS SESIONES
+### CAPÍTULO III. DE LAS CONVOCATORIAS
 
 ###### ARTÍCULO 83.
 
@@ -939,7 +965,7 @@ IV.- El Decreto deberá publicarse en el Periódico Oficial del Estado, requisit
 
 Las convocatorias a sesiones Solemnes se ajustarán a las formalidades previstas para las convocatorias a sesiones de los periodos ordinarios o extraordinarios en que se celebren.
 
-### CAPÍTULO V. DE LAS DISCUSIONES
+### CAPÍTULO IV. DE LAS SESIONES
 
 ###### ARTÍCULO 90.
 
@@ -1129,7 +1155,7 @@ En todo caso, los comentarios deberán hacerse exclusivamente sobre el contenido
 
 Las convocatorias, listas de asistencia, actas, diarios de los debates y demás información inherente a las sesiones, serán publicados en el portal de internet del Congreso.
 
-### CAPÍTULO VI. PREVENCIONES GENERALES Y MOCIONES
+### CAPÍTULO V. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 112.
 
@@ -1245,9 +1271,7 @@ II.- Dichas intervenciones tendrán una duración de 10 minutos cada una.
 
 III.- Cuando la naturaleza del asunto lo demande, la discusión y votación tanto en lo general como en lo particular se llevará en su conjunto.
 
-### CAPÍTULO VII. DE LAS VOTACIONES
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2020)</small>
+### CAPÍTULO VI. PREVENCIONES GENERALES Y MOCIONES
 
 ###### ARTÍCULO 119.
 
@@ -1309,9 +1333,9 @@ Quienes perturben el orden de manera reiterada, serán expulsados del salón de 
 
 Si los medios indicados no bastan para restablecer el orden, quien presida podrá suspender la sesión hasta que las circunstancias lo permitan.
 
-### CAPÍTULO VIII. DEL REGISTRO DE ASUNTOS, LEYES, DECRETOS Y ACUERDOS
+### CAPÍTULO VII. DE LAS VOTACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 131.
 
@@ -1383,7 +1407,9 @@ Tratándose de ternas de candidatos que no alcanzaron la votación señalada en 
 
 La nueva terna deberá estar integrada, por lo menos, con dos candidatos diferentes a los que integraban la terna anterior.
 
-### CAPÍTULO PRIMERO. DEL SISTEMA DE INFORMACIÓN LEGISLATIVA
+### CAPÍTULO VIII. DEL REGISTRO DE ASUNTOS, LEYES, DECRETOS Y ACUERDOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 138.
 
@@ -1417,9 +1443,7 @@ Esta nomenclatura se plasmará en el margen superior izquierdo de la primer pág
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE JULIO DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
-
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
+### CAPÍTULO PRIMERO. DEL SISTEMA DE INFORMACIÓN LEGISLATIVA
 
 ###### ARTÍCULO 140.
 
@@ -1541,9 +1565,9 @@ d) Guía simple de archivos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JULIO DE 2017)</small>
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 143.
 
@@ -1624,6 +1648,10 @@ Las Gacetas Parlamentarias que se generen durante la Legislatura deberán conser
 ## TÍTULO SÉPTIMO. DE LA ELECCIÓN DE PERSONAS SERVIDORAS PÚBLICAS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2019)</small>
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 150.
 
@@ -1844,3 +1872,11 @@ P.O. 5 DE ENERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0190/2022 I P. E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los 90 días después de su publicación en el Periódico Oficial del Estado.
