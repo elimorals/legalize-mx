@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2018-12-31"
+last_updated: "2022-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -837,15 +837,17 @@ El monto diario mínimo de las pensiones del sistema solidario de reparto, no po
 
 La base para el cálculo de las pensiones, será la misma que se utilizó para el cálculo de cuotas y aportaciones del sistema solidario, sin considerar los ingresos que excedan del tope máximo, ni los conceptos exentos.
 
-> <small>(F. DE E., P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2022)</small>
 
-###### ARTICULO 70.
+###### ARTÍCULO 70.
 
-El monto de las pensiones del sistema solidario a que se refiere esta ley, se incrementará en la misma proporción, en que el Gobierno del Estado, otorgue incrementos generales a los sueldos sujetos de cotización a sus servidores públicos en activo.
+El monto de las pensiones del sistema solidario de reparto a que se refiere esta ley, se actualizará anualmente conforme al Índice Nacional de Precios al Consumidor que publique el Instituto Nacional de Estadística y Geografía.
 
-En los casos de que exista diferenciales en tiempo y monto de los aumentos generales antes descritos, el Director General presentará propuesta anual de modificación al Consejo Directivo, el cual aprobará el incremento de la cuota diaria de las pensiones. Dicho incremento sufrirá efecto en la fecha que señale el Consejo Directivo y será valido para todos los pensionados, a excepción de los marcados en el párrafo siguiente, independientemente de la naturaleza y lugar en que el pensionado haya cotizado en su etapa activa.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 31 DE ENERO DE 2022)</small>
 
-Cuando la pensión sea equivalente al salario mínimo, se privilegiará el incremento que sea mayor entre el porcentaje que conceda el Gobierno del Estado o el que se establezca para el salario mínimo. En ninguna situación se podrá rebasar el tope máximo señalado en el artículo 87.
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2022)</small>
+
+En ningún caso se podrá rebasar el tope máximo señalado en el artículo 87 de esta ley.
 
 ###### ARTICULO 71.
 
@@ -1379,9 +1381,11 @@ En caso de no existir esa designación, se estará a lo dispuesto en el artícul
 
 Cuando no existan familiares o dependientes económicos con derecho a recibir este seguro, el Instituto cubrirá los gastos de defunción a quien compruebe haberlos realizado, hasta por el monto total del seguro respectivo.
 
-###### ARTICULO 133.
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2022)</small>
 
-El monto del seguro por fallecimiento será fijado anualmente por el Consejo Directivo en el presupuesto de la Institución y nunca será menor a 500 salarios mínimos.
+###### ARTÍCULO 133.
+
+El monto del seguro por fallecimiento será fijado anualmente por el Consejo Directivo en el presupuesto de la Institución y nunca será menor a 790.56 Unidades de Medida y Actualización diarias.
 
 ### CAPITULO V. DE LOS CREDITOS A CORTO, MEDIANO Y LARGO PLAZO
 
@@ -2020,3 +2024,13 @@ TERCERO. Se mantiene en vigor la Ley de Seguridad Social para los Servidores Pú
 CUARTO. Los actos que, en su caso, se hayan realizado con base en el Decreto número 317 de expedición de la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, publicada en la “Gaceta del Gobierno” el día 10 de agosto de 2018, quedarán sin efectos.
 
 QUINTO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado Libre y Soberano de México.
+
+G.G. 31 DE ENERO DE 2022.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚMERO 21.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS; ASÍ COMO LA AUTORIZACIÓN PARA REFINANCIAR Y/O REESTRUCTURAR EL CRÉDITO ASOCIADO A LOS RECURSOS DEL FONREC, DE REESTRUCTURA Y/O REFINANCIAMIENTO DE CERTIFICADOS BURSÁTILES DE IFREM, DE OBTENCIÓN DE FINANCIAMIENTO GARANTIZADO POR RECURSOS FAFEF; LA AUTORIZACIÓN PARA AMPLIAR EL PLAZO DE LA CONCESIÓN, ASÍ COMO REESTRUCUTURAR LA LÍNEA DE CRÉDITO ONTINGENTE DE LAS PLANTAS TRTADORAS DE AGUASS RESIDUALES TOLUCA NORTE, TOLUCA ORIENTE Y PARA LA SUSCRIPCIÓN DE CONVENIOS DE REESTRUCTURA POR CONVENIOS DE REESTRUCUTRA POR CONCEPTO DE ADEUDOS CON EL ISSEMYM”.]</small>
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de febrero de 2022.
+
+TERCERO.- Los impuestos previstos en las Secciones Séptima y Octava adicionadas al Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor a partir del 1º de abril de 2022.
