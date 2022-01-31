@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2021-12-28"
+last_updated: "2022-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6439,9 +6439,13 @@ a) El destino para transporte de pasajeros de uso propio no considerado en las f
 
 b) De carga particular, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo, y que no preste servicios a terceros.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, G.G. 31 DE ENERO DE 2022)</small>
 
-V. El destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, tales como de seguridad pública, tránsito estatal y municipal, protección civil, rescate, bomberos, policía ministerial, servicio médico forense, traslado de valores, ambulancias, servicios funerarios, de traslado de residuos y materiales peligrosos, pipas para agua potable, recolección y traslado de residuos líquidos y sólidos, mantenimiento de redes hidráulicas y eléctricas, y de particulares sobre servicios similares; y que no esté considerado en las fracciones anteriores.
+c) El destinado para prestar servicios a la población, tales como el de seguridad privada, traslado de valores, servicios funerarios, pipas para agua potable, traslado de residuos y materiales peligrosos, recolección y traslado de residuos líquidos y sólidos, mantenimiento de redes hidráulicas y eléctricas y demás vehículos que no sean de servicio público.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 31 DE ENERO DE 2022)</small>
+
+V. El destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, tales como de seguridad pública, tránsito estatal y municipal, protección civil, rescate, bomberos, policía ministerial, servicio médico forense, traslado de valores, ambulancias, servicios funerarios, de traslado de residuos y materiales peligrosos, pipas para agua potable, recolección y traslado de residuos líquidos y sólidos, mantenimiento de redes hidráulicas y eléctricas.
 
 > <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN V, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -18280,3 +18284,13 @@ G.G. 28 DE DICIEMBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 21.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS; ASí COMO LA AUTORIZACIÓN PARA REFINANCIAR Y/O REESTRUCTURAR EL CRÉDITO ASOCIADO A LOS RECURSOS DEL FONREC, DE REESTRUCTURA Y/O REFINANCIAMIENTO DE CERTIFICADOS BURSÁTILES DE IFREM, DE OBTENCIÓN DE FINANCIAMIENTO GARANTIZADO POR RECURSOS FAFEF; LA AUTORIZACIÓN PARA AMPLIAR EL PLAZO DE LA CONCESIÓN, ASÍ COMO REESTRUCTURAR LA LÍNEA DE CRÉDITO CONTINGENTE DE LAS PLANTAS TRATADORAS DE AGUAS RESIDUALES TOLUCA NORTE, TOLUCA ORIENTE Y PARA LA SUSCRIPCIÓN DE CONVENIOS DE REESTRUCTURA POR CONCEPTO DE ADEUDOS CON EL ISSEMYM”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de febrero de 2022.
+
+TERCERO.- Los impuestos previstos en las Secciones Séptima y Octava adicionadas al Capitulo Primero del Titulo Tercero del Código Financiero del Estado de México y Municipios, entrarán en vigor a partir del 1° de abril de 2022.
