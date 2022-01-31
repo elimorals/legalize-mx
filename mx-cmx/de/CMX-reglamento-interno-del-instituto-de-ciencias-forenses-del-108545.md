@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-instituto-de-ciencias-forenses-del-10854
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-06-11"
-last_updated: "2015-07-13"
+last_updated: "2022-01-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108545&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2015-04-21"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS PERICIALES Y CIENCIAS FORENSES, PUBLICADO EN LA G.O. DE 31 DE ENERO DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS, http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T04-2021/Reglamentointeriordelinstitutodeserviciospericiales.pdf]</small>
+
 REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2022 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 11 de junio de 2015.
 
@@ -745,3 +745,51 @@ EL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. ALFREDO ÁLVAREZ CÁRDENAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE ENERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LA CIRCULAR CJCDMX- 47/2021 QUE SE RELACIONA CON EL ORDENAMIENTO.]</small>
+
+P O D E R J U D I C I A L
+
+CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+CIRCULAR CJCDMX- 47/2021
+
+EN RELACIÓN CON EL “REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS PERICIALES Y CIENCIAS FORENSES”
+
+De conformidad con el artículo 217 de la Ley Orgánica del Poder Judicial de la Ciudad de México, se hace de su conocimiento que, el Pleno del Consejo de la Judicatura del Poder Judicial de la Ciudad de México, mediante Acuerdo General 48-49/2021, emitido en fecha ocho de diciembre del año dos mil veintiuno, en términos del numeral 218, fracción I, de la Ley Orgánica del Poder Judicial de la Ciudad de México, así como el diverso 10, fracción I, del Reglamento Interior del Consejo de la Judicatura de la Ciudad de México, determinó APROBAR la publicación del acuerdo que se indica a continuación:
+
+-Acuerdo General 48-49/2021, de fecha ocho de diciembre de dos mil veintiuno.
+
+Se aprobó el documento denominado: “Reglamento Interno del Instituto de Servicios Periciales y Ciencias Forenses”
+
+CIRCULAR CJCDMX-47/2021, de fecha quince de diciembre de dos mil veintiuno.
+
+La cual puede ser consultada en la siguiente liga:
+
+http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T04-2021/Reglamentointeriordelinstitutodeserviciospericiales.pdf
+
+En caso de no poder acceder al enlace electrónico, comunicarse con la persona servidora pública responsable:
+
+Lic. Minerva Mas Mendoza.
+
+Líder Coordinador de Proyectos “C”, adscrita a la Dirección Ejecutiva de Gestión Tecnológica del Consejo de la Judicatura de la Ciudad de México.
+
+Número telefónico: 5591564997 ext. 511055.
+
+Correo electrónico: minerva.mas@tsjcdmx.gob.mx
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T04-2021/Reglamentointeriordelinstitutodeserviciospericiales.pdf]</small>
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS PERICIALES Y CIENCIAS FORENSES”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente a su publicación en el Boletín Judicial y, para su mayor difusión, será publicado en el Portal de Internet, ambos del Poder Judicial de la Ciudad de México; y en la Gaceta Oficial de la Ciudad de México, a través del link electrónico correspondiente.
+
+SEGUNDO.- Queda sin efectos el Reglamento del Instituto de Ciencias Forenses del Tribunal Superior de Justicia del Distrito Federal, autorizado por el Consejo de la Judicatura de la Ciudad de México, mediante Acuerdo General 14-18/2015, de fecha veintiuno de abril de dos mil quince, así como todas aquellas disposiciones que contravengan las disposiciones del presente Reglamento.
+
+TERCERO.- La estructura prevista en el artículo 252 de la Ley Orgánica del Poder Judicial de la Ciudad de México, se irá formalizando de manera paulatina, conforme a la disponibilidad presupuestal que exista en el Poder Judicial de la Ciudad de México y a la emisión del Dictamen de Reestructura Orgánica correspondiente, que en su momento apruebe el Consejo de la Judicatura de la Ciudad de México.
+
+CUARTO.- Las referencias hechas al “Servicio Médico Forense y/o Instituto de Ciencias Forenses, Indistintamente” en otras leyes o disposiciones normativas, se entenderán hechas al “Instituto de Servicios Periciales y Ciencias Forenses del Poder Judicial de la Ciudad de México”.
