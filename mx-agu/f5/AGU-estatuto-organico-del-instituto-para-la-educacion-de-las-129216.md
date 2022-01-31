@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-para-la-educacion-de-las-129216
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-06-11"
-last_updated: "2021-03-01"
+last_updated: "2022-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2022.
 
 Estatuto publicado en la Quinta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de junio de 2018.
 
@@ -987,31 +987,43 @@ El Órgano Interno de Control dirigirá sus funciones conforme a los lineamiento
 
 La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
 
-I. Elaborar y ejecutar, con aprobación del Director General, el programa anual de auditorías a las diversas áreas que conforman el Instituto;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+I. Elaborar, someter a consideración de la Junta y ejecutar el programa anual de auditorías a las diversas áreas que conforman el Instituto;
 
 II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del Instituto;
 
 III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman el Instituto;
 
-IV. Coordinar las acciones a fin de verificar que las áreas que conforman el Instituto cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
 
-V. Asistir y participar en el Comité de Adquisiciones y Enajenaciones y en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman el Instituto cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la Contraloría del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la Ley de la materia;
 
 VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de (sic) Instituto sobre el correcto ejercicio del gasto público;
 
 VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
 
-VIII. Rendir informe trimestral a la Junta, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+VIII. Rendir informe trimestral ante la Junta sobre el estado que guardan los asuntos de su competencia;
 
 IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
 
-X. Asesorar a los servidores públicos y Unidades Administrativas del Instituto en los asuntos de su competencia;
+X. (DEROGADA, P.O. 31 DE ENERO DE 2022)
 
-XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
 
-XII. Participar en los actos de entrega recepción de las Unidades Administrativas; y
+XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 
-XIII. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
+XII. (DEROGADA, P.O. 31 DE ENERO DE 2022)
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+XIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
 ###### ARTÍCULO 42.
 
@@ -1023,7 +1035,9 @@ II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del 
 
 III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
 
-IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+IV. En la investigación, podrá solicitar información o documentación a cualquier autoridad, persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
 
 V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos del Instituto o bien, referidas a faltas de particulares en relación con el Instituto;
 
@@ -1047,9 +1061,13 @@ XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la 
 
 XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
 
-XVI. Rendir informe trimestral a la Junta, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
 
-XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas;
+XVI. Rendir informe trimestral ante la Junta sobre el estado que guardan los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 
 XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
 
@@ -1077,15 +1095,33 @@ V. Llevar a cabo todos los actos procesales respectivos en carácter de Autorida
 
 VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
 
-VII. Rendir informe trimestral a la Junta, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
 
-VIII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades;
+VII. Rendir informe trimestral ante la Junta sobre el estado que guardan los asuntos de su competencia;
 
-IX. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
 
-X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
+VIII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 
-XI. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+IX. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2022)</small>
+
+X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2022)</small>
+
+XI. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2022)</small>
+
+XII. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 31 DE ENERO DE 2022)</small>
+
+XIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
 ### CAPÍTULO VI. De la Designación, Remoción y Ausencias
 
@@ -1198,3 +1234,19 @@ Con la entrada en vigor de las presentes reformas al Estatuto Orgánico del Inst
 ###### ARTÍCULO TERCERO.
 
 Se ordena inscribir las presentes Reformas al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
+
+P.O. 31 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS, DEROGACIONES Y ADICIONES A LOS ARTÍCULOS 41, 42 Y 43 DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas, derogaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de las presentes reformas, derogaciones y adiciones, quedan sin efecto las disposiciones legales y regulatorias que se opongan a las mismas.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena inscribir las presentes reformas, derogaciones y adiciones al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
