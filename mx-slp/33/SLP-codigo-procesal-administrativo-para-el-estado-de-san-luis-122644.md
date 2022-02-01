@@ -4,7 +4,7 @@ identifier: "SLP-codigo-procesal-administrativo-para-el-estado-de-san-luis-12264
 country: "mx"
 rank: "codigo"
 publication_date: "2017-07-18"
-last_updated: "2021-09-13"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de julio de 2017.
 
@@ -35,7 +35,7 @@ La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 De esta manera se consolidan y homologan en un solo cuerpo legal todas las reglas y principios del procedimiento administrativo, actualmente dispersas y en algunos casos contradictorias.
 
@@ -322,6 +322,10 @@ Respecto a las resoluciones o acuerdos de los actos administrativos deberán ser
 ###### ARTÍCULO 28.
 
 Con excepción de las autoridades demandadas, las partes en el procedimiento contencioso o sus representantes legales, podrán autorizar a abogados o licenciados en derecho, con cédula profesional debidamente registrada ante el Tribunal, para que en su nombre y representación reciban notificaciones, presenten promociones de trámite, ofrezcan o rindan pruebas, formulen preguntas o repreguntas a los testigos o peritos, aleguen en la audiencia, tramiten incidentes, presenten alegatos e interpongan recursos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2022)</small>
+
+Las partes podrán designar personas solamente para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere el párrafo anterior.
 
 Tratándose del procedimiento administrativo la representación podrá recaer en cualquier persona con capacidad jurídica, pero tratándose de personas morales, la representación legal deberá acreditarse mediante poder que se haya otorgado al efecto.
 
@@ -2572,6 +2576,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 13 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1260.- SE REFORMA EL ARTÍCULO 54, DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0261.- SE ADICIONA PÁRRAFO AL ARTÍCULO 28, DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
