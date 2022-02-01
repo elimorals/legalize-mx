@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2021-12-30"
+last_updated: "2022-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -111,11 +111,23 @@ La negativa por parte de la Secretaría o de algún municipio a proporcionar opo
 
 ### CAPÍTULO II. De las participaciones
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 7.
 
-De las participaciones que le correspondan anualmente a la entidad de acuerdo con la Ley de Coordinación Fiscal, cuando menos el 20% corresponderá a los municipios que la integran.
+De las participaciones que le correspondan anualmente a la entidad de conformidad con la Ley de Coordinación Fiscal, cuando menos el 20% corresponderá a los municipios que la integran.
 
-Las participaciones federales que el Estado reciba y deba hacer efectivas a los municipios, se repartirán de acuerdo a lo establecido en la Ley de Coordinación Fiscal, en esta Ley y en las demás disposiciones aplicables.
+Las participaciones federales que el Estado reciba y deba hacer efectivas a los municipios, se repartirán de acuerdo a lo establecido en la Ley de Coordinación Fiscal, en esta Ley y en las demás disposiciones aplicables. Previamente al inicio del proceso de cálculo de la distribución de las participaciones se deberá utilizar la información estadística más reciente publicada por el Instituto Nacional de Estadística y Geografía.
+
+En la distribución de las participaciones federales la Legislatura del Estado deberá precisar y actualizar las variables, fuentes de información, los valores y el método de cálculo mediante los cuales se determinan los coeficientes para su distribución a los municipios.
+
+Para la distribución conjunta de las participaciones federales correspondientes a todos los municipios, con excepción de las establecidas en el Artículo 4o.-A de la Ley de Coordinación Fiscal, se tendrá como referencia, en el orden establecido a continuación, lo siguiente:
+
+I. El monto nominal recibido en el ejercicio fiscal 2019 (año base), y
+
+II. La aplicación de la fórmula de distribución de la presente ley, se realizará de manera exclusiva, al monto excedente de fondos participables que sea recibido durante el ejercicio fiscal correspondiente.
+
+Lo anterior, en el caso de que el excedente referido en el párrafo precedente sea mayor a cero. En caso contrario, la distribución de los recursos se realizará conforme al coeficiente publicado en el "Acuerdo por el que se da a conocer el calendario de entrega, porcentaje, formulas y variables utilizadas, así como los montos estimados que recibirá cada municipio del Estado de Veracruz de Ignacio de la Llave, por concepto del Fondo General de Participaciones, del Fondo de Fomento Municipal, de los Incentivos por el Impuesto sobre Automóviles Nuevos, del Impuesto Especial sobre Producción y Servicios, del Fondo de Fiscalización y Recaudación, de los ingresos derivados de la aplicación del Artículo 4o.-A de la Ley de Coordinación Fiscal, del Fondo de Compensación del Impuesto sobre Automóviles Nuevos y del Fondo de Extracción de Hidrocarburos, para el ejercicio fiscal de 2019".
 
 ###### Artículo 8.
 
@@ -1910,3 +1922,11 @@ G.O. 30 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 228 QUE REFORMA EL ARTÍCULO 7 DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
