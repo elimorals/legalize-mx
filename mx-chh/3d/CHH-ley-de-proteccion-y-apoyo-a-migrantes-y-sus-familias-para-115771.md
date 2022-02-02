@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-y-apoyo-a-migrantes-y-sus-familias-para-11577
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-23"
-last_updated: "2021-05-22"
+last_updated: "2022-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de julio de 2016.
 
@@ -59,7 +59,9 @@ Son objetivos de esta Ley:
 
 I.- Definir las atribuciones y obligaciones de las autoridades estatales y municipales en materia de atención y apoyo a migrantes.
 
-II.- Establecer políticas públicas en materia de atención y apoyo a migrantes, con especial énfasis en niños y niñas migrantes.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2022)</small>
+
+II.- Establecer políticas públicas en materia de atención y apoyo a migrantes, con especial atención en las personas o grupos en situación de vulnerabilidad.
 
 III.- Promover el respeto de los derechos humanos de los migrantes, sin distinción de sexo, raza, color, idioma, religión, ideología, condición social, lugar de origen, nacionalidad, edad, estado civil o cualquier otra condición.
 
@@ -78,6 +80,10 @@ IV.- Presentar denuncias y quejas, ante las instancias correspondientes, por el 
 V.- Proporcionar la información que les sea requerida por las autoridades.
 
 VI.- Mantenerse al margen de cualquier condicionamiento de tipo político partidista, para la obtención de los beneficios de los programas de atención a migrantes.
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2022)</small>
+
+VII. En el caso de niñas, niños y adolescentes migrantes, se velará y cumplirá con el principio superior de la niñez, garantizando de manera plena sus derechos, atendiendo al contenido de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua, incluyendo el de la no privación de la libertad por motivos migratorios.
 
 ###### Artículo 4.
 
@@ -179,13 +185,17 @@ Dichos incentivos y facilidades podrán también beneficiar a aquellas personas 
 
 Los entes públicos deberán incluir previsiones presupuestales para la implementación de programas de atención a migrantes.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 15.
 
-Independientemente de su situación migratoria, los migrantes tendrán derecho a la procuración e impartición de justicia, respetando en todo momento el derecho al debido proceso, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones aplicables.
+Las personas, independientemente de su situación migratoria, tendrán derecho a la procuración e impartición de justicia, respetando en todo momento el derecho al debido proceso, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenios internacionales en los que el Estado Mexicano sea parte, la Constitución Política del Estado de Chihuahua y demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 16.
 
-En los procedimientos aplicables a niñas, niños y adolescentes migrantes, se tendrá en cuenta su edad y se privilegiará el interés superior de los mismos.
+En los procedimientos aplicables a niñas, niños y adolescentes migrantes, en tanto el Instituto Nacional de Migración determina su condición migratoria, el DIF Estatal en coordinación con el Sistema Nacional DIF, deberá brindar la protección que prevé la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua y demás disposiciones aplicables, a fin de que, bajo el principio de interés superior de la niñez, garanticen la pronta adopción de medidas y su mayor protección.
 
 ### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE PROTECCIÓN Y ATENCIÓN A MIGRANTES
 
@@ -340,3 +350,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo deberá reunirse dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, para realizar las adecuaciones que corresponda (sic).
+
+P.O. 2 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0097/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA; Y SE ADICIONA EL ARTÍCULO 104 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
