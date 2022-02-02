@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-09-04"
+last_updated: "2022-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2022.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1206,6 +1206,12 @@ Cualquier decisión sobre la devolución de una niña, niño o adolescente al pa
 En caso del DIF Estatal, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección especial.
 
 El DIF Estatal y los Municipales, en coordinación con las instituciones competentes, deberán identificar a niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2022)</small>
+
+###### Artículo 104 Bis.
+
+El DIF Estatal, a través de la Procuraduría de Protección, coadyuvará con las personas defensoras de derechos humanos, la Comisión Nacional de los Derechos Humanos y la Comisión Estatal de los Derechos Humanos, para garantizar la protección integral de los derechos de niñas, niños y adolescentes migrantes.
 
 ###### Artículo 105.
 
@@ -2620,3 +2626,11 @@ P.O. 4 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El . presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0097/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA; Y SE ADICIONA EL ARTÍCULO 104 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
