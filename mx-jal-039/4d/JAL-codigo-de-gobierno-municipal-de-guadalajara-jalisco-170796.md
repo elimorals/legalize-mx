@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2021-10-01"
+last_updated: "2022-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 1 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 3 DE FEBRERO DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1149,13 +1149,13 @@ I. Asuntos de la Niñez;
 
 II. Asuntos y Coordinación Metropolitana;
 
-> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 3 DE FEBRERO DE 2022)</small>
 
-III. Centro y Barrios Tradicionales;
+III. Centro, Barrios Tradicionales y Monumentos;
 
-> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 3 DE FEBRERO DE 2022)</small>
 
-IV. Cultura, Espectáculos y Festividades Públicas;
+IV. Cultura, Espectáculos, Festividades y Conmemoraciones Cívicas;
 
 V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
@@ -1271,19 +1271,21 @@ f) Trabajar en conjunto con los consejos ciudadanos representantes del Municipio
 
 g) Participar en el proceso de selección de consejeras y consejeros ciudadanos ante los diversos organismos de coordinación metropolitana.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.M. 3 DE FEBRERO DE 2022)</small>
 
-III. Centro y Barrios Tradicionales:
+III. Centro, Barrios Tradicionales y Monumentos:
 
-> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+a) Proponer y dictaminar en conjunto con las Comisiones Edilicias de Servicios Públicos Municipales y de Obras Públicas, Planeación del Desarrollo Urbano y Movilidad, lo correspondiente a la instalación y mejoramiento del alumbrado público y ornamental en todo el Centro Histórico y en particular, plazas públicas, parques y jardines;
 
-a) Proponer y dictaminar en conjunto con las Comisiones Edilicias de Servicios Públicos Municipales y de Obras Públicas, Planeación del Desarrollo Urbano y Movilidad, lo correspondiente a la instalación y mejoramiento del alumbrado público y ornamental en todo el Centro Histórico y en particular, plazas públicas, parques y jardines; y
+b) Proponer acciones concretas en asuntos y temas relativos al repoblamiento de la zona centro de la ciudad;
 
-b) Proponer acciones concretas en asuntos y temas relativos al repoblamiento de la zona centro de la ciudad.
+c) Proponer, analizar, estudiar y dictaminar las iniciativas tendientes a rescatar, mejorar, desarrollar o renovar la situación del centro histórico en los siguientes rubros: plazas públicas, monumentos, calles, mobiliario urbano, parques, jardines y fuentes, así como de los barrios tradicionales de Guadalajara; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 1 DE OCTUBRE DE 2021)</small>
+d) Dictaminar respecto de las propuestas de creación, instalación y traslado de monumentos.
 
-IV. Cultura, Espectáculos y Festividades Públicas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 3 DE FEBRERO DE 2022)</small>
+
+IV. Cultura, Espectáculos, Festividades y Conmemoraciones Cívicas:
 
 a) Procurar la coordinación con otras instancias, para la promoción cultural;
 
@@ -5435,9 +5437,9 @@ VIII. Promover que los programas y proyectos municipales incorporen el principio
 
 La Coordinación General de Desarrollo Económico, tiene por objeto impulsar el desarrollo de oportunidades para todas las personas que deseen acceder a un empleo digno o emprender un negocio, para garantizar un crecimiento equitativo y sustentable para la población municipal. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, G.M. 3 DE FEBRERO DE 2022)</small>
 
-Para el despacho de los asuntos de su competencia, cuenta con las áreas de Emprendimiento, Padrón y Licencias, Promoción a la Inversión y al Empleo, Turismo, Relaciones Internacionales y Atención al Migrante, Mercados, Tianguis y Comercio en Espacios Abiertos, y Corresponsabilidad Social.
+Para el despacho de los asuntos de su competencia, cuenta con las áreas de Emprendimiento, Padrón y Licencias, Promoción a la Inversión y al Empleo, Turismo, Relaciones Internacionales y Atención al Migrante, Mercados, y Tianguis y Comercio en Espacios Abiertos.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -5729,25 +5731,15 @@ X. Establecer un programa operativo para el desarrollo del comercio en días con
 
 XI. Diseñar e implementar en conjunto con otras dependencias del Municipio soluciones en materia de fisonomía de los corredores de comercio de la ciudad.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 3 DE FEBRERO DE 2022)</small>
 
 Subsección XIII
 
 Dirección de Corresponsabilidad Social
 
-> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+###### Artículo 235 Quinquies.
 
-Artículo 235 Qinquies. Son atribuciones de la Dirección de Corresponsabilidad Social:
-
-I. Implementar políticas públicas y estrategias de operación que contribuyan a mejorar la prestación de servicios públicos municipales, en coordinación con las diversas áreas que integran la coordinación;
-
-II. Proponer las acciones, obras y servicios públicos requeridos por la comunidad;
-
-III. En vinculación con la Gerencia Municipal, implementar y ejecutar campañas encaminadas a sanear espacios públicos abiertos, fuentes, glorietas, monumentos y áreas públicas;
-
-IV. Colaborar en el enlace, coordinación, aplicación y supervisión de los proyectos que realice y en los que participe la Coordinación vinculados al tema de la corresponsabilidad social; y
-
-V. Coadyuvar con las dependencias que forman parte de la administración pública municipal en la prestación de los servicios públicos y ampliar su capacidad de respuesta.
+(DEROGADO, G.M. 3 DE FEBRERO DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -6445,7 +6437,9 @@ XIX. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y
 
 La Coordinación General de Servicios Públicos Municipales, tiene por objeto promover el desarrollo de la prestación de los servicios públicos del Municipio, a través de la coordinación, supervisión y auxilio en la ejecución de las políticas diseñadas por las Direcciones y Unidades dependientes de ella. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-Para el despacho de los asuntos de su competencia, la Coordinación cuenta con las Direcciones de Alumbrado Público, Aseo Público, Cementerios, Mantenimiento Urbano, Parques y Jardines, Pavimentos, Proyectos y Concesiones, Rastro Municipal y, de Control y Calidad.
+> <small>(REFORMADO, G.M. 3 DE FEBRERO DE 2022)</small>
+
+Para el despacho de los asuntos de su competencia, la Coordinación cuenta con las Direcciones de Alumbrado Público, Aseo Público, Cementerios, Mantenimiento Urbano, Parques y Jardines, Pavimentos, Proyectos y Concesiones, Rastro Municipal, Control y Calidad, y de Corresponsabilidad Social.
 
 Subsección I
 
@@ -6563,13 +6557,17 @@ Dirección de Corresponsabilidad Social
 
 (DEROGADO, G.M. 1 DE OCTUBRE DE 2021)
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 3 DE FEBRERO DE 2022)</small>
+
 Subsección V
 
-Dirección de Mantenimiento Urbano
+Dirección de Mejoramiento Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 3 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 248.
 
-Son atribuciones de la Dirección de Mantenimiento Urbano:
+Son atribuciones de la Dirección de Mejoramiento Urbano:
 
 I. Planear, operar, ejecutar, supervisar y dirigir con calidad y eficiencia, la rehabilitación y el mantenimiento del equipamiento urbano del Municipio en los términos del Programa de Gobierno Municipal;
 
@@ -6577,7 +6575,9 @@ II. Analizar, responder y dar seguimiento a las solicitudes y requerimientos de 
 
 III. Supervisar el saneamiento de lotes baldíos con cargo a las personas propietarias o poseedoras, así como de la limpia de vasos reguladores, canales y pasos a desnivel del Municipio;
 
-IV. Planear y programar los proyectos de mantenimiento urbano en el área del Centro Histórico de Guadalajara, en coordinación con las dependencias correspondientes;
+> <small>(REFORMADA, G.M. 3 DE FEBRERO DE 2022)</small>
+
+IV. Planear y programar los proyectos de mejoramiento urbano en el área del Centro Histórico de Guadalajara, en coordinación con las dependencias correspondientes;
 
 V. Ejecutar el fondeo y pintura de bardas, postes, machuelos, glorietas y plazas, y el retiro de propaganda existente en el mobiliario urbano e inmuebles municipales; así como, dar mantenimiento general a los mismos;
 
@@ -6589,7 +6589,7 @@ VIII. Recolectar animales muertos depositados en lotes baldíos o en vía públi
 
 IX. Elaborar y ejecutar reparaciones menores en las banquetas conforme al modelo de políticas públicas de funcionalidad de imagen urbana, de gestión ambiental y de riqueza cultural de la ciudad.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021) (REPUBLICADO, G.M. 3 DE FEBRERO DE 2022)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -6788,6 +6788,28 @@ VI. Definir, dirigir y supervisar la correcta aplicación de las políticas de c
 VII. Desarrollar una cultura de calidad en el servicio, basada en principios éticos y sociales, así como la promoción e implementación de la mejora continua en trámites y servicios, métodos y procesos; y
 
 VIII. Promover al interior de las dependencias de la administración pública municipal los principios de gestión de calidad y optimización de procesos para la disminución de los trámites y tiempos de respuesta de atención al ciudadano, asegurando una estructura organizacional acorde con ello.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 3 DE FEBRERO DE 2022)</small>
+
+Subsección XIII
+
+Dirección de Corresponsabilidad Social
+
+> <small>(ADICIONADO, G.M. 3 DE FEBRERO DE 2022)</small>
+
+###### Artículo 254 Ter.
+
+Son atribuciones de la Dirección de Corresponsabilidad Social:
+
+I. Implementar políticas públicas y estrategias de operación que contribuyan a mejorar la prestación de servicios públicos municipales, en coordinación con las diversas áreas que integran la coordinación;
+
+II. Proponer las acciones, obras y servicios públicos requeridos por la comunidad;
+
+III. Implementar y ejecutar campañas encaminadas a sanear espacios públicos abiertos, fuentes, glorietas, monumentos y áreas públicas;
+
+IV. Colaborar en el enlace, coordinación, aplicación y supervisión de los proyectos que realice y en los que participe la Coordinación vinculados al tema de la corresponsabilidad social; y
+
+V. Coadyuvar con las dependencias que forman parte de la administración pública municipal en la prestación de los servicios públicos y ampliar su capacidad de respuesta.
 
 ### Capítulo IX. Órganos Desconcentrados
 
@@ -7660,3 +7682,31 @@ Décimo Sexto. Notifíquese el presente ordenamiento a los titulares de la Tesor
 Décimo Séptimo. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal de Guadalajara.
 
 Décimo Octavo. Se adjunta como Anexo Único al presente ordenamiento, el organigrama que deriva de la nueva estructura administrativa autorizada.
+
+G.M. 3 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara en términos de lo dispuesto en el artículo 42 fracciones IV y V de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Segundo. El presente ordenamiento entrará en vigor el día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se derogan todas las disposiciones legales y administrativas que contravengan el presente ordenamiento.
+
+Cuarto. Las referencias o menciones contenidas en otros reglamentos y en cualquier disposición municipal, respecto de la Dirección de Mantenimiento Urbano, la cual cambia de denominación, así como de la adscripción de la Dirección de Corresponsabilidad Social, por virtud de las reformas que se aprueban al Código de Gobierno Municipal de Guadalajara, se entenderán referidas a las que respectivamente se indican en el mismo.
+
+Quinto. La Dirección de Corresponsabilidad Social, seguirá conservando sus recursos humanos y materiales, así como los documentos, archivo y, en general todos los bienes muebles que la dependencia se encuentre utilizando y estén bajo su resguardo para la atención de los asuntos a su cargo.
+
+Sexto. Se instruye a la Dirección de Corresponsabilidad Social y a la Dirección de Mejoramiento Urbano para que en un plazo no mayor a 40 días naturales contados a partir de la publicación del presente ordenamiento, actualicen la documentación y formatos respectivos mediante los cuales ejercen sus atribuciones.
+
+Séptimo. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal de Guadalajara.
+
+G.M. 3 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en las fracciones VI y VII del artículo 42, de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
