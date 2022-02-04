@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2022-01-25"
+last_updated: "2022-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 25 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 4 DE FEBRERO DE 2022.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -937,9 +937,13 @@ XIII.- De Asuntos Fronterizos y Migratorios;
 
 XIV.- De Igualdad de Género y Juventudes;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2022)</small>
 
-XV.- De Fortalecimiento Municipal.
+XV.- De Fortalecimiento Municipal; y,
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2022)</small>
+
+XVI.- Comisión de Asuntos Indígenas y Bienestar Social.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -1054,6 +1058,10 @@ k. Comisión de Igualdad de Género y Juventudes: es responsable del análisis, 
 Corresponderá también la revisión y actualización permanente de la legislación estatal con el fin de asegurar y garantizar que se mantengan condiciones de pleno respeto e igualdad de trato y oportunidades entre mujeres, hombres y jóvenes dentro del sistema normativo local.
 
 l. Comisión de Fortalecimiento Municipal: es responsable del análisis, dictamen y proposición de iniciativas en materia de fortalecimiento a los municipios, así como promover el estrechamiento de vínculos políticos, sociales, económicos y culturales entre los municipios de la entidad.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2022)</small>
+
+m. Comisión de Asuntos Indígenas y Bienestar Social: corresponde el análisis, dictaminación y proposición de iniciativas en materia de bienestar social y comunidades indígenas, proponiendo acciones legislativas para el mejor desarrollo y bienestar de la comunidad en general y los pueblos indígenas.
 
 A todas estas comisiones les corresponderá, además de las facultades y atribuciones que se señalan, el desahogo de los demás asuntos que le sean remitidos por la Mesa Directiva.
 
@@ -3144,3 +3152,13 @@ TERCERO. Publíquese la presente reforma en el Periódico Oficial del Estado, pa
 CUARTO. Todos los asuntos turnados a la actual Comisión de Dictamen legislativo de Igualdad entre Mujeres, Hombres y Juventud del Congreso del Estado de Baja California, se entenderán remitidos a la Comisión de igualdad de género y juventudes para que continúe con su trámite legislativo correspondiente ante la Consultoría legislativa, Oficialía de Partes, Presidencia y demás áreas competentes.
 
 Asimismo, las contrataciones de servicios, prestadores de servicios, personal, así como las compras y pagos de productos y servicios en trámites ejercidos con autorización de la Dirección de Administración del Congreso, así como cualquier otro trámite administrativo y compromiso de pago solicitado por la Comisión de Igualdad entre Mujeres, Hombres y Juventud a dicha dirección, serán asumidos y con cargo a la Comisión de Igualdad de Género y Juventudes.
+
+P.O. 4 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 69 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN XVI AL ARTÍCULO 56, COMO TAMBIÉN LA ADICIÓN DEL INCISO M, AL ARTÍCULO 60, AMBOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO. Todas las referencias que se hagan a la Comisión de Desarrollo Social y Asuntos Indígenas, en su normatividad interna del Poder Legislativo y en la legislación estatal, se entenderán hecha a la Comisión de Asuntos Indígenas y Bienestar Social.
+
+TERCERO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos legales conducentes.
