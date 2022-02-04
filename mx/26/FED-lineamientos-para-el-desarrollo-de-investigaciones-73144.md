@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-el-desarrollo-de-investigaciones-73144"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-02-24"
-last_updated: "2014-11-05"
+last_updated: "2022-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73144&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-02-08"
 ---
 # LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LOS LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES, ASÍ COMO PARA LA INTEGRACIÓN, EDICIÓN, PUBLICACIÓN Y CONTROL DE LAS OBRAS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADOS EN EL D.O.F. DE 4 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2022 (ABROGADO).
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el miércoles 24 de febrero de 2010.
 
@@ -458,3 +460,17 @@ CUARTO. Las investigaciones que se encuentren en proceso al momento de entrar en
 ANEXO 1
 
 > <small>N. DE E. VÉASE ANEXO 1 EN LA PRIMERA SECCIÓN DEL D.O.F. DEL 5 DE NOVIEMBRE DE 2014, PÁGINA 76.</small>
+
+D.O.F. 4 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LOS “LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES, ASÍ COMO PARA LA INTEGRACIÓN, EDICIÓN, PUBLICACIÓN Y CONTROL DE LAS OBRAS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. Los “Lineamientos para el desarrollo de investigaciones, así como para la integración, edición, publicación y control de las obras del Tribunal Electoral del Poder Judicial de la Federación” entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los “Lineamientos generales para la edición, distribución, venta y control de las publicaciones elaboradas por el Tribunal Electoral del Poder Judicial de la Federación”, aprobados por la Comisión de Administración mediante acuerdo 71/S3(18-III-2009), emitido en la Tercera Segunda Sesión Ordinaria de 2009.
+
+TERCERO. Se abrogan los “Lineamientos para el desarrollo de investigaciones”, aprobados por la Comisión de Administración mediante acuerdo 14/S1(27-I-2010), emitido en la Primera Sesión Ordinaria de 2010.
+
+CUARTO. Los trabajos u obras que se hayan iniciado durante la vigencia de los lineamientos señalados en los artículos transitorios segundo y tercero se regirán conforme a lo dispuesto en los mismos hasta que se concluya la siguiente etapa identificable de los procesos respectivos.
+
+QUINTO. Para su mayor difusión, publíquense los presentes lineamientos en las páginas de intranet e internet del Tribunal Electoral del Poder Judicial de la Federación.
