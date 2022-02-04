@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2021-09-14"
+last_updated: "2022-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2022.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1085,23 +1085,21 @@ I.- Cuando se solicite variar algún nombre u otra circunstancia, sea esencial o
 
 II.- Cuando en las actas del Registro Civil existan errores mecanográficos, ortográficos, de letras, de palabras concernientes a la real identificación de la persona, o de otra índole;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
 
 III.- Cuando se trate de omisión de un dato que deba constar en el acta respectiva, de acuerdo con este Código;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE ABRIL DE 2015)</small>
 
 IV.- Cuando se trate de errores mecanográficos o de impresión que se desprendan del contenido del acta o de los documentos que integran el Apéndice; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ABRIL DE 2015)</small>
+V.- Cuando haya que variarse la fecha, el nombre o apellido del registrado en las actas de nacimiento, para adecuarlo a la realidad social sin que se altere la filiación o parentesco del registrado, demostrando través de documentos fehacientes que siempre se ha ostentado con un nombre distinto del que aparece en el registro de nacimiento o bien, que ha sufrido daño por el mismo. En este último supuesto, será necesario que se presente un estudio psicológico emitido por un psicólogo autorizado por el Poder Judicial o Institución Pública, del cual se desprenda el daño referido. En tratándose de otros medios probatorios deberá promoverse en la vía jurisdiccional.
 
-V.- Cuando haya que variarse la fecha o el nombre del registrado en las actas de nacimiento, para adecuarlo a la realidad social sin que se altere la filiación o parentesco del registrado, demostrando (sic) través de documentos fehacientes que siempre se ha ostentado con un nombre distinto del que aparece en el registro de nacimiento o bien, que ha sufrido daño por el mismo. En este último supuesto, será necesario que se presente un estudio psicológico emitido por un psicólogo autorizado por el Poder Judicial o Institución Pública, del cual se desprenda el daño referido. En tratándose de otros medios probatorios deberá promoverse en la vía jurisdiccional.
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 4 DE FEBRERO DE 2022.]</small>
+
+Se entiende que no se altera la filiación o parentesco del registrado, cuando permanecen salvaguardados el resto de los datos que permiten establecerla, como sería el nombre de la madre, el padre, hijo o cónyuge.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -16822,3 +16820,9 @@ P.O. 14 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 253 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 143, 145, 161, 169, 174, 176, 177, 179, 181, 182, 184, 186, 205, 208, 213, 214, 215, 216, 217, 218, 220, 224, 266, 291; Y SE DEROGA EL ARTÍCULO 144, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 38 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 132 AL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.”]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de la publicación en el Periódico Oficial del Estado.
