@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2021-07-15"
+last_updated: "2022-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -825,7 +825,9 @@ Son derechos de los ciudadanos y ciudadanas duranguenses los que para todo mexic
 
 I. Solicitar su registro de candidatura de manera independiente ante la autoridad electoral, cumpliendo con los requisitos, condiciones y términos que determine la ley.
 
-II. Participar en los procesos de plebiscito, referéndum, consulta popular, e iniciativa ciudadana:
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2022)</small>
+
+II. Participar en los procesos de plebiscito, referéndum, consulta popular, iniciativa ciudadana y revocación de mandato.
 
 III. Conformar partidos y agrupaciones políticas, afiliarse o desafiliarse libremente de ellos y participar en todas las decisiones que adopten.
 
@@ -878,6 +880,12 @@ II. Referéndum, a la consulta ciudadana para que manifiesten su aprobación o r
 III. Consulta popular, a la convocatoria expedida para que la ciudadanía opine acerca de asuntos relacionados con las decisiones del gobierno estatal, municipal y del Congreso del Estado, con excepción de aquellas que restrinjan los derechos humanos consagrados en la presente Constitución.
 
 IV. Iniciativa Popular, al instrumento por medio del cual los ciudadanos duranguenses podrán presentar al Congreso del Estado, al Titular del Poder Ejecutivo o a los ayuntamientos, iniciativas de leyes, decretos, reglamentos o acuerdos sobre los asuntos que atañen a la comunidad o para el mejor funcionamiento de la administración pública.
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2022)</small>
+
+V. Revocación de mandato: es el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada en el desempeño del cargo de Gobernadora o Gobernador del Estado a partir de la pérdida de la confianza.
+
+La solicitud deberá plantearse durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional, por un número equivalente, al menos, al diez por ciento de la lista nominal de electores del Estado, en la mitad más uno de los municipios o alcaldías de la entidad; podrá llevarse a cabo en una sola ocasión durante el periodo constitucional, mediante votación libre, directa y secreta; será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta. La jornada de votación se efectuará en fecha posterior y no coincidente con procesos electorales o de participación ciudadana locales o federales y quien asuma el mandato del ejecutivo revocado concluirá el periodo constitucional.
 
 Los actos o leyes sujetos a consulta seguirán en vigor, en tanto se llevan a cabo el plebiscito y el referéndum, excepto en los casos expresamente contemplados en la ley. Se podrán convocar varias consultas de manera simultánea.
 
@@ -2237,9 +2245,9 @@ La inobservancia a las disposiciones en materia de acceso a la información púb
 
 ###### Artículo 138.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2022)</small>
 
-El Instituto Electoral y de Participación Ciudadana es la autoridad que tiene a su cargo la organización de las elecciones, de conformidad con las atribuciones conferidas en la Constitución Política de los Estados Unidos Mexicanos y las leyes; así como de los procedimientos de plebiscito, referéndum y, en su caso, de consulta popular; goza de autonomía en su funcionamiento e independencia en sus decisiones.
+El Instituto Electoral y de Participación Ciudadana es la autoridad que tiene a su cargo la organización de las elecciones, de conformidad con las atribuciones conferidas en la Constitución Política de los Estados Unidos Mexicanos y las leyes; así como de los procedimientos de revocación de mandato, plebiscito, referéndum y, en su caso, de consulta popular; goza de autonomía en su funcionamiento e independencia en sus decisiones.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -4206,3 +4214,19 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado, en un término que no exceda de 90 días a partir de la entrada en vigor del presente decreto, deberá emitir la legislación correspondiente a fin de dar cumplimiento al presente decreto.
+
+P.O. 6 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 566.- QUE CONTIENE REFORMAS A LA CONSTITUCIÓN POLÍTICA LOCAL EN MATERIA DE REVOCACIÓN DE MANDATO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá realizar los ajustes legales correspondientes para dar cumplimiento al presente decreto en un plazo que no exceda de 180 días a partir de la entrada en vigor del mismo.
