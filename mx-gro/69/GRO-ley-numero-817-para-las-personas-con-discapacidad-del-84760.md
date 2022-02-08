@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-817-para-las-personas-con-discapacidad-del-84760"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-20"
-last_updated: "2021-10-05"
+last_updated: "2022-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 2011.
 
@@ -167,7 +167,9 @@ l. El Gobernador Constitucional del Estado, quien lo presidirá;
 
 II. El Presidente del H. Tribunal Superior de Justicia;
 
-III. El Presidente de la Mesa Directiva del H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2022)</small>
+
+III. Quien presida la Comisión para la Atención de las Personas con Discapacidad del Congreso del Estado;
 
 IV. El Secretario de Desarrollo Social;
 
@@ -1146,3 +1148,19 @@ P.O. 5 DE OCTUBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y para su publicación en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 8 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 162 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 10 DE LA LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a la Maestra Evelyn Cecia Salgado Pineda, Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la Gaceta Parlamentaria para conocimiento general.
