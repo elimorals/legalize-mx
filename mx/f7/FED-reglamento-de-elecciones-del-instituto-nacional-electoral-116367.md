@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2021-03-11"
+last_updated: "2022-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 11 DE MARZO DE 2021, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 8 DE FEBRERO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2022.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -33,7 +33,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 REGLAMENTO DE ELECCIONES
 
@@ -187,7 +187,11 @@ ff) SNR: Sistema Nacional de Registro de precandidato y Candidatos, así como de
 
 gg) Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación;
 
-hh) UNICOM: Unidad Técnica de Servicios de Informática;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+hh) UTSI/UNICOM: Unidad Técnica de Servicios de Informática;
 
 ii) UTF: Unidad Técnica de Fiscalización;
 
@@ -5783,11 +5787,15 @@ e) Podrán acompañar y vigilar, por sus propios medios, el recorrido del mecani
 
 ###### Artículo 337.
 
-1. El resultado de la votación emitida en el extranjero será incluido en el Prep conforme a la normativa aplicable en el ámbito federal, y en el ámbito local, en aquellos casos en que la Constitución de la entidad federativa lo contemple.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
 
-2. Para la inclusión de los resultados de la votación emitida por los mexicanos residentes en el extranjero en el Programa de Resultados Electorales Preliminares, se estará al procedimiento determinado por el Consejo General, con base en la modalidad de emisión del voto de que se trate.
+1. El resultado de la votación emitida en el extranjero será incluido en el PREP conforme a la normativa aplicable en el ámbito federal y en el ámbito local; esto último, en aquellos casos en que la Constitución de la entidad federativa lo contemple.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+2. (DEROGADO, D.O.F. 8 DE FEBRERO DE 2022)
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5863,13 +5871,19 @@ IV. Otras elecciones que por disposición legal o por mandato de autoridad, corr
 
 ###### Artículo 339.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+
 1. El Consejo General y los Órganos Superiores de Dirección, en el ámbito de sus respectivas competencias, y considerando la elección de que se trate, deberán acordar al menos, lo siguiente:
 
 a) Designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, cuando menos nueve meses antes del día de la jornada electoral.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-b) La integración del COTAPREP, al menos siete meses antes del día de la Jornada Electoral, en el que se determinen, por lo menos, los siguientes aspectos: la vigencia del Comité, las personas que lo integran y su Secretario Técnico, una síntesis curricular que demuestre su experiencia, las funciones, atribuciones y cualquier otro supuesto que el presente Reglamento norme al respecto.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+b) La integración del COTAPREP, al menos siete meses antes del día de la Jornada Electoral, en el que se determinen, por lo menos, los siguientes aspectos: la vigencia del Comité, las personas que lo integran y su Secretaría Técnica, una síntesis curricular que demuestre su experiencia, las funciones, atribuciones y cualquier otro supuesto que el presente Reglamento norme al respecto.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -5909,13 +5923,17 @@ j) Fecha y hora de publicación de la última actualización de datos, imágenes
 
 1. El Instituto y cada OPL deberán integrar, en el ámbito de su competencia, a más tardar siete meses antes de la fecha de la Jornada Electoral respectiva, un Comité Técnico Asesor que brinde asesoría técnica en materia del PREP, cuyos integrantes serán designados por el Consejo General o el Órgano Superior de Dirección, según corresponda. En aquellos casos en los que el Instituto sea el responsable de implementar dos o más PREP, podrá integrar un solo COTAPREP.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-2. El COTAPREP que sea integrado por el OPL se conformará por un mínimo de tres y un máximo de cinco integrantes; el que integre el Instituto estará conformado con un mínimo de tres y un máximo de siete personas, y en ambos casos, serán auxiliados por el titular de la instancia interna responsable de coordinar la implementación y operación del PREP, quien fungirá como Secretaría Técnica.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+2. El COTAPREP que sea integrado por el OPL se conformará por un mínimo de tres y un máximo de cinco integrantes; el que integre el Instituto estará conformado con un mínimo de tres y un máximo de siete personas, y en ambos casos, serán auxiliados por la o el titular de la instancia interna responsable de coordinar la implementación y operación del PREP, quien fungirá como Secretaría Técnica.
 
 ###### Artículo 341.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 1. Para ser integrante del COTAPREP, las personas aspirantes deberán cumplir, como mínimo, los requisitos siguientes:
 
@@ -5927,9 +5945,11 @@ a) Tener la ciudadanía mexicana y tener el pleno ejercicio de sus derechos civi
 
 b) Contar con título y/o cédula profesional, y con al menos cinco años de experiencia en materias como: estadística y/o ciencia de datos; tecnologías de la información y comunicaciones; investigación de operaciones o ciencia política, preferentemente con conocimientos en materia electoral;
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-c) No haber sido candidato a cargo de elección popular en los últimos tres años;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+c) No haber sido candidata o candidato a cargo de elección popular en los últimos tres años;
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5943,25 +5963,33 @@ e) No haber sido designada consejera o consejero electoral del Consejo General o
 
 f) No haberse desempeñado como miembro de dirigencias nacionales, estatales o municipales de partido político alguno en los últimos tres años;
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-g) Su participación no debe implicar un conflicto de interés con los involucrados en la implementación y operación del PREP; en caso de presentarse, debe hacerlo del conocimiento del Instituto u OPL según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya un impedimento para ser integrante del COTAPREP;
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+g) Su participación no debe implicar un conflicto de interés con las personas involucradas en la implementación y operación del PREP; en caso de presentarse, debe hacerlo del conocimiento del Instituto u OPL según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya un impedimento para ser integrante del COTAPREP.
 
-h) No prestar sus servicios profesionales o formar parte del ente designado como auditor.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+h) Su participación no debe implicar un conflicto de interés con las personas involucradas en la ejecución de la auditoría; en caso de presentarse, debe hacerlo del conocimiento del Instituto u OPL, según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya un impedimento para ser integrante del COTAPREP.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 i) No prestar sus servicios profesionales o formar parte del tercero encargado de la implementación del PREP, en aquellos casos en los que el Instituto o los OPL, determinen auxiliarse de un tercero para la implementación y operación del PREP y;
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-j) No formar parte de algún otro comité o comisión creados por el Instituto o el OPL, según corresponda.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+j) No formar parte de algún otro comité o comisión creados por el Instituto o por los OPL, que interfiera en el ejercicio de sus atribuciones. Bajo ninguna circunstancia podrá ser integrante de algún Comité Técnico Asesor de los Conteos Rápidos.
 
-2. La instancia interna responsable de coordinar el desarrollo de las actividades del PREP será la encargada de validar el cumplimiento de los requisitos de los integrantes del COTAPREP.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+2. La instancia interna responsable de coordinar el desarrollo de las actividades del PREP será la encargada de validar el cumplimiento de los requisitos de las y los integrantes del COTAPREP.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5979,7 +6007,11 @@ j) No formar parte de algún otro comité o comisión creados por el Instituto o
 
 ###### Artículo 342.
 
-1. El COTAPREP deberá entrar en funciones con una anticipación mínima de siete meses al día de la jornada electoral correspondiente, y tendrá las atribuciones siguientes:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+1. El COTAPREP deberá entrar en funciones con una anticipación mínima de siete meses al día de la Jornada Electoral correspondiente, y tendrá las atribuciones siguientes:
 
 a) Realizar análisis, estudios y propuestas, en el desarrollo y optimización del Prep, con la finalidad que éste cumpla con los objetivos y metas planteadas;
 
@@ -5989,7 +6021,11 @@ b) Asesorar los trabajos propios del PREP en materia de tecnologías de la infor
 
 c) Asesorar y dar seguimiento a la implementación y operación de los mecanismos para llevar a cabo el Prep;
 
-d) Dar seguimiento a la coordinación y supervisión de la instalación y operación de los equipos de digitalización y captura, así como a la capacitación del personal o de los prestadores de servicios, en su caso, encargado del acopio y transmisión de los datos de los resultados electorales preliminares;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+d) Dar seguimiento a la coordinación y supervisión de la instalación y operación de los equipos de digitalización y captura, así como a la capacitación del personal o de las y los prestadores de servicios, en su caso, encargado del acopio y transmisión de los datos de los resultados electorales preliminares;
 
 e) Asesorar y dar seguimiento en el diseño y aplicación del sistema de digitalización, captura y verificación, del procedimiento de transmisión y recepción, así como de las medidas de seguridad y protección, consolidación, procesamiento y publicación de la información;
 
@@ -6005,7 +6041,11 @@ h) Realizar reuniones de trabajo con representantes de los partidos políticos y
 
 i) Elaborar un informe de actividades, al menos cada dos meses, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda;
 
-j) Presenciar la ejecución de todos los simulacros del PREP, debiendo asistir a algún recinto donde se lleven a cabo, al menos alguna de las fases del proceso técnico operativo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+j) Presenciar la ejecución de la o las pruebas para verificar el correcto funcionamiento del sistema informático, todos los simulacros y la operación del PREP, debiendo asistir a algún recinto donde se lleven a cabo, al menos alguna de las fases del proceso técnico operativo;
 
 k) Elaborar un informe final de las actividades desempeñadas durante la vigencia del COTAPREP, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda, dentro del mes del día de la jornada electoral, y
 
@@ -6025,7 +6065,9 @@ l) Las demás que sean necesarias para el cumplimiento de sus atribuciones, siem
 
 ###### Artículo 343.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 1. En las sesiones y reuniones de trabajo de los COTAPREP, serán atribuciones:
 
@@ -6053,21 +6095,39 @@ V. Emitir su voto, y
 
 VI. Solicitar a la Secretaría Técnica someter a consideración la realización de alguna sesión extraordinaria.
 
-> <small>(REFORMADO [ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 b) De la Secretaría Técnica:
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 8 DE FEBRERO DE 2022)</small>
+
 I. Moderar el desarrollo de las sesiones;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 II. Asistir con derecho a voz a las sesiones;
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-III. Preparar el orden del día y la documentación de las sesiones y someterlo a consideración de los integrantes del Comité;
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+III. Preparar el orden del día y la documentación de las sesiones y someterlo a consideración de las y los integrantes de Comité;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 IV. Convocar a las sesiones; y
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 V. Fungir como enlace del Comité ante la Secretaría Ejecutiva o su homólogo en los OPL.
 
@@ -6159,13 +6219,23 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 1. El Instituto y los OPL, conforme a sus respectivas competencias, deberán realizar ejercicios y simulacros obligatorios para verificar que cada una de las fases de la operación del Prep funcione adecuadamente, y prever riesgos o contingencias posibles durante el desarrollo de las mismas.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-2. Los ejercicios tendrán como objetivo que el personal o los prestadores de servicios del PREP lleven a cabo la repetición de las actividades necesarias para la operación del programa, a fin de adiestrarse en su ejecución.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+2. Los ejercicios tendrán como objetivo que el personal o las y los prestadores de servicios del PREP lleven a cabo la repetición de las actividades necesarias para la operación del programa, a fin de adiestrarse en su ejecución.
 
-3. El objeto de los simulacros es replicar la operación del PREP, desarrollando cada una de las fases del proceso técnico operativo en el orden establecido. Se deberán realizar como mínimo, tres simulacros durante los tres domingos previos al de la Jornada Electoral.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+3. El objeto de los simulacros es replicar la operación del PREP, desarrollando cada una de las fases del proceso técnico operativo en el orden establecido incluyendo, el mecanismo de digitalización de actas desde las casillas. Se deberán realizar como mínimo, tres simulacros durante los tres domingos previos al de la Jornada Electoral en los cuales la publicación deberá iniciar a más tardar a las 12:00 horas (hora local).
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+4. El diseño de las bases de datos que servirán para el llenado de las Actas de Escrutinio y Cómputo que se utilizarán durante la ejecución de los simulacros, deberá considerar que el resultado total de votos que obtenga cada Partido Político en lo individual, así como el resultado total que obtengan todas las Candidaturas Independientes agrupadas como una sola, sea un empate; es decir, la suma de los votos de todas las Candidaturas Independientes deberá ser igual a los votos de cada Partido Político en lo individual.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6193,9 +6263,15 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 ###### Artículo 351.
 
-1. El Instituto y los OPL, en el ámbito de sus competencias, deberán establecer procesos de reclutamiento y selección de los recursos humanos necesarios para implementar y operar el Prep, y proporcionarán capacitación a todo el personal o prestadores de servicios involucrados en el proceso técnico operativo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+1. El Instituto y los OPL, en el ámbito de sus competencias, deberán establecer procesos de reclutamiento y selección de los recursos humanos necesarios para implementar y operar el PREP, y proporcionarán capacitación a todo el personal o las prestadoras y los prestadores de servicios involucrados en el proceso técnico operativo.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 2. Las personas interesadas en desempeñar las actividades establecidas en el proceso técnico operativo para la implementación y operación del PREP, deberán cumplir al menos, los requisitos siguientes:
 
@@ -6205,11 +6281,23 @@ a) Tener la ciudadanía mexicana y tener el pleno ejercicio de sus derechos civi
 
 b) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
 
-c) No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+c) No haber sido registrado como candidata o candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 8 DE FEBRERO DE 2022)</small>
 
 d) No ser ni haber sido miembro de dirigencias nacionales, estatales o municipales de partido político alguno en los últimos cuatro años, y
 
-e) No ser consejero propietario o suplente, de algún consejo electoral local, distrital, estatal o municipal.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+e) No ser consejera o consejero propietario o suplente, de algún consejo electoral local, distrital, estatal o municipal.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -6219,7 +6307,11 @@ e) No ser consejero propietario o suplente, de algún consejo electoral local, d
 
 ###### Artículo 352.
 
-1. Todo el personal y prestadores de servicios involucrados en el proceso técnico operativo para la implementación y operación del PREP, deberá recibir capacitación en los siguientes temas:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+1. Todo el personal, prestadoras y prestadores de servicios involucrados en el proceso técnico operativo para la implementación y operación del PREP, deberá recibir capacitación en los siguientes temas:
 
 a) Inducción al Instituto u OPL, según corresponda;
 
@@ -6301,9 +6393,11 @@ b) Elecciones locales: los OPL deberán determinar la hora de inicio de su publi
 
 ###### Artículo 354.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
-1. El Instituto dará seguimiento puntual y sistemático a los trabajos de implementación y operación del PREP que lleven a cabo los OPL. Asimismo, podrá asistir a las sesiones y reuniones de trabajo con derecho a voz de los COTAPREP, acompañar durante la ejecución de los simulacros y la operación del PREP, tanto de manera presencial como remota. Para garantizar lo anterior, los OPL deberán brindar las facilidades necesarias y atender los requerimientos de información que, en su caso, formule el Instituto.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+
+1. El Instituto dará seguimiento puntual y sistemático a los trabajos de implementación y operación del PREP que lleven a cabo los OPL. Asimismo, podrá asistir a las sesiones y reuniones de trabajo con derecho a voz de los COTAPREP, acompañar durante la ejecución de la o las pruebas para verificar el correcto funcionamiento del sistema informático, los simulacros y la operación del PREP, tanto de manera presencial como remota. Para garantizar lo anterior, los OPL deberán brindar las facilidades necesarias y atender los requerimientos de información que, en su caso, formule el Instituto.
 
 2. Los OPL deberán informar al Instituto, a través de la Utvopl, sobre el avance en la implementación y operación del Prep.
 
@@ -7829,11 +7923,15 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 13 LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES (PREP), EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 90 A LA 101.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA AL ANEXO 13 LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES (PREP), D.O.F. DE 8 DE FEBRERO DE 2022 [N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf], PÁGINAS DE LA 15 A LA 34.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 14 CRITERIOS PARA LA RECEPCIÓN DE LOS PAQUETES ELECTORALES EN LAS SEDES DE LOS ÓRGANOS COMPETENTES DEL INSTITUTO NACIONAL ELECTORAL (INSTITUTO) Y DE LOS ORGANISMOS PÚBLICOS LOCALES (OPL), AL TÉRMINO DE LA JORNADA ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 102 A LA 104.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 15 LINEAMIENTOS PARA EL DISEÑO DE LAS TABLAS DE RESULTADOS ELECTORALES DE LOS OPL ELECTORALES PARA SU INCORPORACIÓN AL SISTEMA DE CONSULTA DE LA ESTADÍSTICA ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 105 A LA 125.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 16 PROCEDIMIENTO PARA LA DESTRUCCIÓN DE DOCUMENTACIÓN ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 125 A LA 128.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA AL ANEXO 18.5 ESTRUCTURA DE LOS ARCHIVOS CSV PARA EL TRATAMIENTO DE LA BASE DE DATOS RELATIVA AL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES, D.O.F. DE 8 DE FEBRERO DE 2022 [N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf], PÁGINAS DE LA 35 A LA 93.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 19.3 PROCEDIMIENTO Y PROTOCOLO DE SEGURIDAD PARA LA GENERACIÓN, IMPRESIÓN, ENTREGA, DEVOLUCIÓN Y DESTRUCCIÓN DE LAS LISTAS NOMINALES DE ELECTORES PARA SU USO EN LAS JORNADAS ELECTORALES, EN EL D.O.F. DE 23 DE OCTUBRE DE 2020, PÁGINA 441.]</small>
 
@@ -9156,5 +9254,41 @@ QUINTO. El presente Acuerdo entrará en vigor a partir del día de su aprobació
 SEXTO. Publíquese el presente Acuerdo en la Gaceta Electoral y en el Diario Oficial de la Federación, así como en el portal electrónico del Instituto Nacional Electoral.
 
 SÉPTIMO. Publíquese la actualización del Anexo 19.3 en el compilado de anexos del Reglamento de Elecciones del Instituto Nacional Electoral que se encuentra en NormaINE.
+
+D.O.F. 8 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO INE/CG1690/2021 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES, EN MATERIA DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES, AL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, ASÍ COMO A SU ANEXO 13 RELATIVO A LOS LINEAMIENTOS DEL PREP Y EL ANEXO 18.5 REFERENTE A LA ESTRUCTURA DE LOS ARCHIVOS CSV PARA EL TRATAMIENTO DE LA BASE DE DATOS RELATIVA AL PREP.", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+A C U E R D O
+
+PRIMERO. Se aprueban las modificaciones a los artículos 5, 337, 339, 340, 341, 342, 343, 349, 351, 352 y 354 del Reglamento de Elecciones del Instituto Nacional Electoral, para quedar como se muestra en los siguientes términos:
+
+(...)
+
+SEGUNDO. Se aprueban las modificaciones de los siguientes Anexos que forman parte integral del Reglamento de Elecciones del Instituto Nacional Electoral, las cuales se precisan en el Anexo 1 del presente Acuerdo:
+
+Anexo Título del anexo
+
+Anexo 13 Lineamientos del Programa de Resultados Electorales
+
+Preliminares
+
+Anexo 18.5 Estructura de los archivos CSV para el tratamiento de la base
+
+de datos relativa al Sistema de Programa de Resultados
+
+Electorales Preliminares
+
+TERCERO. El presente Acuerdo y las modificaciones al Reglamento de Elecciones del Instituto Nacional Electoral, al Anexo 13 relativo a los Lineamientos del Programa de Resultados Electorales Preliminares y al Anexo 18.5 correspondiente a la estructura de los archivos CSV para el tratamiento de la base de datos relativa al Programa de Resultados Electorales Preliminares que forman parte integral del Reglamento, entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+(...)
+
+El Acuerdo completo, así como su Anexo se encuentra disponible para su consulta en la dirección electrónica:
+
+Página INE: https://www.ine.mx/sesion-ordinaria-del-consejo-general-17-de-noviembre-de-2021/
+
+Página DOF: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf
+
+Ciudad de México, 22 de noviembre de 2021.- El Coordinador General de la Unidad Técnica de Servicios de Informática, Ing. Jorge Humberto Torres Antuñano.- Rúbrica.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
