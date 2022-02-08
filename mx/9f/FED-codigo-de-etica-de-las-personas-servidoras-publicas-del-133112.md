@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-las-personas-servidoras-publicas-del-133112"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-05"
-last_updated: "2020-03-11"
+last_updated: "2022-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-02-01"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL GOBIERNO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2022 (ABROGADO).
 
 Código publicado en el Diario Oficial de la Federación, el martes 5 de febrero de 2019.
 
@@ -280,3 +282,23 @@ D.O.F. 11 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO FEDERAL”.]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo por el que se emite el Código de Ética de las personas servidoras públicas del Gobierno Federal, y el Acuerdo por el que se reforma y adiciona el Código de Ética de las personas servidoras públicas del Gobierno Federal, publicados en el Diario Oficial de la Federación el 5 de febrero de 2019 y 11 de marzo de 2020, respectivamente; así como cualquier disposición de índole administrativo que se contraponga al presente Código.
+
+TERCERO. Se abrogan las Reglas de Integridad para el ejercicio de la función pública, contenidas en el Acuerdo publicado en el Diario Oficial de la Federación de 20 de agosto de 2015; y el artículo Único del Acuerdo de modificación publicado en el mismo Diario Oficial de la Federación el 02 de septiembre de 2016.
+
+CUARTO. Las dependencias y entidades tendrán hasta el mes de julio de 2023 para actualizar sus Códigos de Conducta en términos del presente Código de Ética y de la Guía para su elaboración que al efecto emita la Secretaría.
+
+QUINTO. Las dependencias y entidades que a la entrada en vigor del presente Código de Ética hayan implementado acciones efectivas para que la totalidad de las personas servidoras públicas suscribieran la Carta Compromiso conforme al Código de Ética de las personas servidoras pública del Gobierno Federal que se abroga, no estarán obligadas a implementarlas nuevamente, salvo aquellos casos en que no se hubiere concretado la suscripción de dicho documento, o tratándose de personas de nuevo ingreso.
+
+SEXTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+SÉPTIMO. La normativa que rige a los Comités de Ética, así como los mecanismos de coordinación y evaluación permanecerán vigentes, salvo disposición en contrario.
+
+OCTAVO. A partir de la entrada en vigor del presente Código de Ética, toda referencia a la abrogada “Regla de integridad 13” o “Regla de Integridad de Comportamiento Digno”, publicada en el Diario Oficial de la Federación, el 02 de septiembre de 2016, que se encuentre mencionada en cualquier disposición o documento, deberá entenderse en términos del artículo 5, fracción IV del presente Código de Ética.
