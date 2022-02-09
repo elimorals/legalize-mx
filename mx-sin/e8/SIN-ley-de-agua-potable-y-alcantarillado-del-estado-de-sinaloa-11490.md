@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2018-09-26"
+last_updated: "2022-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -729,13 +729,23 @@ Para los efectos de la presente Ley, se considerarán como usuarios a los propie
 
 Los propietarios o poseedores de los predios en que se encuentren giros o establecimientos que reciban los servicios, serán solidariamente responsables con los propietarios o poseedores de dichos giros o establecimientos, del pago de cualquier adeudo por concepto de las tarifas y cuotas, recargos y sanciones o cualquier otro concepto que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 50.
 
 Queda prohibido el otorgamiento de exenciones por cuanto al pago de las tarifas y cuotas por los servicios que prestan las Juntas, ya se trate de particulares, dependencias federales, estatales o municipales, paraestatales o paramunicipales, instituciones educativas o de asistencia pública o privadas.
 
-Tratándose de pensionados o jubilados, que acrediten tal situación, usuarios del servicio doméstico y cuyo consumo bimestral sea de hasta cincuenta metros cúbicos, con el acuerdo del Consejo Directivo, se les aplicarán tarifas y cuotas del 50% por los servicios que prestan las Juntas.
+(NOTA: EL 9 DE JULIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+TRATÁNDOSE DE PENSIONADOS O JUBILADOS, ASÍ COMO PERSONAS ADULTAS MAYORES O PERSONAS CON DISCAPACIDAD, QUE ACREDITEN TAL SITUACIÓN Y SEAN USUARIOS DEL SERVICIO DOMÉSTICO CON UN CONSUMO BIMESTRAL DE HASTA CINCUENTA METROS CÚBICOS, SE LES APLICARÁN TARIFAS Y CUOTAS ESPECIALES O DIFERENCIADAS DEL 50% POR LOS SERVICIOS QUE PRESTAN LAS JUNTAS.
+
+(NOTA: EL 9 DE JULIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+PARA LA ACREDITACIÓN DEL DERECHO AL PAGO DE LAS TARIFAS Y CUOTAS ESPECIALES O DIFERENCIADAS PLANTEADAS EN EL PÁRRAFO ANTERIOR LOS AYUNTAMIENTOS DEFINIRÁN LOS REQUISITOS NECESARIOS, MISMOS QUE NO DEBERÁN SER ONEROSOS O DILATORIOS PARA LAS PERSONAS QUE LO SOLICITEN.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
@@ -1444,3 +1454,23 @@ P.O. 26 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. La obra pública programada y autorizada a la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa para el ejercicio fiscal del año 2018 que no se hubiere licitado o adjudicado, podrá ser administrada en forma directa por la Comisión, lo que informará a la Secretaría de Administración y Finanzas para la asignación de los recursos correspondientes.
+
+P.O. 9 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 74 QUE REFORMA EL ARTÍCULO 50 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+(NOTA: EL 9 DE JULIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2022, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+SEGUNDO. PARA EFECTOS DE CUMPLIR CON LO DISPUESTO EN EL PRESENTE DECRETO LOS AYUNTAMIENTOS DEBERÁN DENTRO DE LOS 60 DÍAS POSTERIORES AL INICIO DE SU VIGENCIA EN TÉRMINOS DEL ARTÍCULO 59 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA, PROPONER SUS INICIATIVAS RESPECTIVAS ANTE ESTE H. CONGRESO DEL ESTADO DONDE SE CONTENGAN LAS TARIFAS Y CUOTAS ESPECIALES QUE SE APRUEBAN MEDIANTE EL PRESENTE DECRETO.
+
+EN TANTO LOS AYUNTAMIENTOS NO COMPAREZCAN A ESTE CONGRESO A PROPONER LAS TARIFAS Y CUOTAS ESPECIALES PARA PERSONAS CON DISCAPACIDAD Y ADULTOS MAYORES, LAS TARIFAS Y CUOTAS PARA LOS JUBILADOS Y PENSIONADOS SE APLICARÁN EN LOS TÉRMINOS VIGENTES.
+
+(NOTA: EL 9 DE JULIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2022, DECLARÓ LA INVALIDEZ DEL TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+TERCERO. EN LOS AYUNTAMIENTOS QUE NO DEFINAN LOS REQUISITOS PARA LA ACREDITACIÓN DEL DERECHO AL PAGO DE LAS TARIFAS Y CUOTAS ESPECIALES O DIFERENCIADAS, SE SEGUIRÁN APLICANDO LOS MISMOS QUE ACTUALMENTE HAN DETERMINADO PARA PERSONAS JUBILADAS Y PENSIONADAS LAS JUNTAS MUNICIPALES POR CONDUCTO DE SUS ÓRGANOS COMPETENTES.
