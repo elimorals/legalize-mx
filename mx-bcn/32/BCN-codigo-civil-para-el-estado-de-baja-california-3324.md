@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2022-02-04"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -233,11 +233,13 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 35.
 
-En el Estado de Baja California, la coordinación del Registro Civil estará a cargo del Director del Registro Civil. Los Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, y defunción de los mexicanos y extranjeros residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Estado de Baja California, la coordinación del Registro Civil estará a cargo del Director del Registro Civil. Los Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia, de las personas mexicanas y extranjeras residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+
+La expedición de nuevas actas de nacimiento para el reconocimiento de identidad de género, únicamente podrán ser tramitadas por los ciudadanos mexicanos residentes dentro del perímetro de la población en donde los Oficiales del Registro Civil ejerzan su encargo.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
@@ -1101,6 +1103,10 @@ V.- Cuando haya que variarse la fecha, el nombre o apellido del registrado en la
 
 Se entiende que no se altera la filiación o parentesco del registrado, cuando permanecen salvaguardados el resto de los datos que permiten establecerla, como sería el nombre de la madre, el padre, hijo o cónyuge.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+VI.- Cuando se solicite modificar el género para el reconocimiento de la identidad de género, previa la anotación correspondiente en el acta de nacimiento primigenia, sin que se altere la filiación o parentesco del registrado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 133.
@@ -1110,6 +1116,26 @@ Pueden pedir la rectificación de un acta del Registro Civil, las personas a qui
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 Tratándose de personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, podrá pedir la rectificación quien ejerza la patria potestad o el tutor.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+ARTICULO 133 BIS.- Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+
+La expedición de la nueva acta de nacimiento para el reconocimiento de identidad de género, no alterará de modo alguno la filiación de la persona que solicite este trámite administrativo.
+
+Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
+
+Los efectos de la nueva acta de nacimiento para el reconocimiento de la identidad de género realizados, serán oponibles a terceros desde de (sic) su levantamiento.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+Las personas a quienes se les otorgue una nueva acta de nacimiento para el reconocimiento de identidad de género, deberán realizar las gestiones pertinentes para la modificación de los documentos relacionados a su identidad personal y electoral, reconocimiento de nivel educativo, obligaciones fiscales y documentación migratoria en su caso, así como todos los necesarios para el ejercicio de sus derechos y obligaciones jurídicas.
+
+El reconocimiento respectivo se llevará a cabo ante las instancias y autoridades correspondientes del Registro Civil cumpliendo todas las formalidades que exigen el Código Civil y la Ley Orgánica del Registro Civil del Estado de Baja California.
+
+El acta de nacimiento primigenia quedará resguardada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial, petición ministerial o por el interesado.
+
+Al proceder la rectificación en razón de cambio en la identidad de género, se tendrá por entendido para efectos legales que se trata de la misma persona, lo que se hará constar en el documento que para tal efecto se expida.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -1130,6 +1156,32 @@ A).- Copia de la solicitud que quedará en la Oficialía del Registro Civil;
 B).- Copia certificada del acta de que se trate, expedida por el Oficial del Registro Civil correspondiente;
 
 C).- Copia certificada de las actas relacionadas con aquella cuya rectificación se solicite y de los documentos justificativos de la rectificación.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+ARTICULO 134 BIS.- Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+III. Original y copia fotostática de su identificación oficial; y
+
+IV. Comprobante de domicilio.
+
+Además de lo señalado en las fracciones anteriores, para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
+
+a) Ser de nacionalidad mexicana;
+
+(NOTA: EL 19 DE JUNIO 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 43/2022 Y SU ACUMULADA 47/2022, DECLARÓ LA INVALIDEZ DEL INCISO b) DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A PARTIR DE LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+b) TENER AL MENOS 18 AÑOS DE EDAD CUMPLIDOS.
+
+Así como manifestar lo siguiente:
+
+c) El género solicitado y, en su caso, el nuevo nombre con motivo del nuevo género. El levantamiento se realizará ante la Oficina del Registro Civil del Estado en que se encuentre el acta de nacimiento primigenia, con la comparecencia de la persona interesada, donde se procederá a hacer la anotación y la reserva correspondiente. El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial. Una vez cumplido el trámite, la Dirección del Registro del Estado, enviará los oficios con la información en calidad de reservada, a las autoridades estatales y federales que estime pertinentes, así como a los organismos autónomos en materia electoral y de acceso a la información pública para los efectos legales procedentes.
+
+El levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, se hará en un plazo no mayor de diez días hábiles.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2012)</small>
 
@@ -16826,3 +16878,9 @@ P.O. 4 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 38 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 132 AL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.”]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de la publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N°. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
