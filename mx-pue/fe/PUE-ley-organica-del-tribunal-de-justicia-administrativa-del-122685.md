@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-tribunal-de-justicia-administrativa-del-122685
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-18"
-last_updated: "2021-11-08"
+last_updated: "2022-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el martes 18 de julio de 2017.
 
@@ -61,7 +61,9 @@ La presente Ley es de orden público e interés general y tiene por objeto estab
 
 El Tribunal de Justicia Administrativa del Estado de Puebla es un órgano jurisdiccional con autonomía para emitir sus fallos y hacer cumplir sus determinaciones en el territorio del Estado.
 
-Formará parte del Sistema Estatal Anticorrupción y estará sujeto a las bases establecidas en el artículo 125 de la Constitución Política del Estado Libre y Soberano de Puebla, la Ley del Sistema Anticorrupción del Estado de Puebla, la legislación aplicable en el Estado en materia de responsabilidades administrativas, la presente Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Formará parte del Sistema Estatal Anticorrupción y estará sujeto a las bases establecidas en el artículo 125 de la Constitución Política del Estado Libre y Soberano de Puebla, la Ley del Sistema Anticorrupción del Estado de Puebla, la Ley General de Responsabilidades Administrativas y la legislación aplicable en el Estado en materia de responsabilidades administrativas, la presente Ley y demás disposiciones aplicables.
 
 Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
 
@@ -85,9 +87,17 @@ VII. Procedimiento: Procedimiento Contencioso Administrativo;
 
 VIII. Reglamento Interior: Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Puebla;
 
-IX. Salas: Salas que integran al Tribunal de Justicia Administrativa del Estado de Puebla, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-X. Tribunal: Tribunal de Justicia Administrativa del Estado de Puebla.
+IX. Sala Especializada: Sala Especializada en materia de responsabilidades administrativas;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+X. Salas: Salas que determine el Pleno del Tribunal de Justicia Administrativa del Estado de Puebla, y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XI. Tribunal: Tribunal de Justicia Administrativa del Estado de Puebla.
 
 ###### ARTÍCULO 4.
 
@@ -225,13 +235,27 @@ XVI. Las demás que establezca la presente Ley y las disposiciones aplicables.
 
 El Tribunal se integra por los órganos siguientes:
 
-I. La Junta de Gobierno y Administración, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-II. Las Salas.
+I. El Pleno;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+II. La Junta de Gobierno y Administración;
+
+(ADICONADA, P.O. 11 DE FEBRERO DE 2022)
+
+III. La Sala Especializada, y
+
+(ADICONADA, P.O. 11 DE FEBRERO DE 2022)
+
+IV. Las Salas.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 10.
 
-El Tribunal se integrará por los Magistrados designados en los términos de la Constitución Política del Estado Libre y Soberano de Puebla y funcionará en Pleno y en Salas.
+El Tribunal se integrará por los Magistrados designados en los términos de la Constitución Política del Estado Libre y Soberano de Puebla y funcionará en Pleno, en la Sala Especializada y en las Salas que establezca el propio Pleno en los términos de la ley.
 
 ###### ARTÍCULO 11.
 
@@ -250,6 +274,10 @@ En los acuerdos tomados por el Pleno, en caso de empate, el Presidente del Tribu
 Las resoluciones se tomarán por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal; en caso de empate, se citará a una nueva sesión para su discusión y si persiste éste se retirará el proyecto y se formulará nuevo proyecto, tomando en cuenta los pronunciamientos vertidos. Si con este nuevo proyecto persistiera el empate, el Presidente tendrá voto de calidad.
 
 Si un Magistrado disintiere de la mayoría podrá formular voto particular, dentro de los cinco días siguientes a la fecha de sesión, el cual se insertará al final de la resolución respectiva.
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+Los Magistrados que integren la Sala Especializada, por la naturaleza de su especialización, no integrarán el Pleno del Tribunal, ni podrán ser designados como integrantes de la Junta de Gobierno y Administración.
 
 ###### ARTÍCULO 13.
 
@@ -281,7 +309,7 @@ VIII. Imponer medidas de apremio, disciplinarias, cautelares, conforme a la legi
 
 IX. Emitir opinión jurídica de iniciativas y proyectos sobre ordenamientos administrativos, a petición del Titular del Ejecutivo del Estado o del Congreso;
 
-X. Presentar cada cinco años el diagnóstico cualitativo y cuantitativo sobre el trabajo del Tribunal, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, por conducto de su Secretariado Ejecutivo, a efecto de que el citado Comité emita recomendaciones sobre la creación de Salas;
+X. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
 XI Resolver los recursos contra las resoluciones que se dicten y que sean de su competencia;
 
@@ -291,7 +319,7 @@ XIII. Resolver las excitativas de justicia que promuevan las partes, designando 
 
 XIV. Decidir en definitiva sobre los criterios discrepantes sostenidos por los Magistrados, determinando cuál de ellos debe prevalecer;
 
-XV. Ejercer su facultad de atracción, para resolver los procedimientos administrativos sancionadores por faltas graves, cuya competencia primigenia corresponda a los Magistrados, siempre que los mismos revistan los requisitos de importancia y trascendencia; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante en materia de responsabilidades administrativas; y, por lo segundo, que sea necesario sentar un criterio que trascienda a la resolución del caso, y en los demás casos que así lo solicite alguno de los Magistrados;
+XV. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
 XVI. Resolver las contradicciones de criterios sustentados por los Magistrados, según sea el caso, determinando cuál de ellos debe prevalecer;
 
@@ -305,9 +333,17 @@ XX. La ejecución de la sanción a Magistrados;
 
 XXI. Ordenar que se reabra la instrucción y la consecuente devolución de los autos que integran el expediente, cuando se advierta una violación substancial al procedimiento o cuando considere que se realice algún trámite en la instrucción;
 
-XXII. Podrá ejercer de oficio la facultad de atracción para la resolución de los recursos de reclamación y revisión, en casos de trascendencia que así considere o para fijar tesis o precedentes, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-XXIII. Las demás que establezca la presente Ley y las disposiciones aplicables.
+XXII. Podrá ejercer de oficio la facultad de atracción para la resolución de los recursos de reclamación y revisión, en casos de trascendencia que así considere o para fijar tesis o precedentes;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXIII. Resolver los recursos que interpongan las partes en contra de las resoluciones definitivas dictadas por la Sala Especializada; y
+
+(ADICONADA, P.O. 11 DE FEBRERO DE 2022)
+
+XXIV. Las demás que establezca la presente Ley y las disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. DEL PRESIDENTE
 
@@ -321,7 +357,7 @@ Son atribuciones del Presidente del Tribunal:
 
 I. Representar legalmente al Tribunal y a la Junta de Gobierno y Administración, ante toda clase de autoridades y personas y delegar el ejercicio de esta función en servidores públicos subalternos sin perjuicio de su ejercicio directo, así como atender los recursos de reclamación de responsabilidad patrimonial en contra de las actuaciones atribuidas al propio Tribunal;
 
-II. Formar parte del Comité Coordinador del Sistema Estatal Anticorrupción en términos de lo dispuesto por el artículo 125 de la Constitución Política del Estado Libre y Soberano de Puebla;
+II. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
 III. Despachar la correspondencia del Tribunal y de la Junta de Gobierno y Administración;
 
@@ -355,9 +391,109 @@ XVII. Formular, en coordinación con la Unidad Administrativa correspondiente, e
 
 XVIII. Las demás que establezca la presente Ley y las disposiciones aplicables.
 
-### CAPÍTULO CUARTO. DE LAS SALAS
+(ADICONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2022)
 
-### CAPÍTULO QUINTO. DE LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN
+### CAPÍTULO CUARTO BIS. DE LA SALA ESPECIALIZADA
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+ARTÍCULO 16 BIS. La Sala Especializada ejercerá la competencia en materia de faltas administrativas graves y de las responsabilidades que se deriven de los daños y perjuicios en contra de las haciendas públicas estatal o municipales, así como sobre el patrimonio de los entes públicos de conformidad con la legislación correspondiente.
+
+La Sala Especializada se integrará por tres Magistrados, así como el personal necesario para el ejercicio de sus funciones. Será presidida por uno de los magistrados, nombrado por mayoría simple de los mismos.
+
+Para la validez de las sesiones de la Sala Especializada, será indispensable la presencia de la totalidad de sus integrantes por sí o a través de quienes legalmente los suplan temporalmente, en términos de la presente Ley.
+
+Las resoluciones se tomarán por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
+
+Si un Magistrado disintiere de la mayoría podrá formular voto particular, dentro de los cinco días siguientes a la fecha de sesión, el cual se insertará al final de la resolución respectiva.
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+ARTÍCULO 16 TER. Las sesiones ordinarias de la Sala Especializada se celebrarán en los días y horas que así lo determine.
+
+Las sesiones extraordinarias se celebrarán a solicitud de cualquiera de sus Magistrados, la que deberá ser presentada al Magistrado presidente a fin de que emita la convocatoria correspondiente.
+
+Las sesiones serán públicas y podrán ser privadas sólo cuando el asunto así lo requiera o cuando así lo determine la mayoría de los Magistrados presentes, sin embargo, de éstas se harán versiones públicas para la consulta ciudadana que, en su caso, sean requeridas.
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+ARTÍCULO 16 QUÁTER. Son atribuciones de la Sala Especializada:
+
+I. Elegir de entre los Magistrados que la integran a su presidente;
+
+II. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia;
+
+III. A petición de su Magistrado presidente, solicitar al Pleno del Tribunal que, por conducto de la Junta de Gobierno, se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la Sala Especializada, ejercer con normalidad y autonomía sus atribuciones;
+
+IV. Imponer medidas de apremio, disciplinarias, cautelares, conforme a la legislación aplicable;
+
+V. Presentar cada cinco años el diagnóstico cualitativo y cuantitativo sobre el trabajo de la Sala Especializada, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, por conducto de su Secretariado Ejecutivo, a efecto de que el citado Comité emita recomendaciones sobre el funcionamiento de la Sala Especializada;
+
+VI. Calificar y resolver sobre las excusas, recusaciones e impedimentos de los Magistrados de la Sala Especializada, y en su caso, designar al que deba conocer del asunto; asimismo, de las excusas por impedimento del Secretario General de Acuerdos;
+
+VII. Conocer del recurso para impugnar la resolución por la que se califica como no grave la falta administrativa que se investiga contra un servidor público;
+
+VIII. Conocer de los procedimientos y resoluciones referidos en el artículo 4, apartado B, fracción II de la presente Ley;
+
+IX. Resolver respecto de las faltas administrativas graves, investigadas y substanciadas por la Secretaría de la Función Pública del Estado, las Contralorías Municipales, la Auditoría Superior del Estado y los Órganos Internos de Control y demás autoridades;
+
+X. Imponer las sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades;
+
+XI. Fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios ocasionados a la Hacienda Pública Estatal y Municipal o al patrimonio de los Entes Públicos;
+
+XII. Conocer de las resoluciones que se dicten en el recurso de revocación, vía juicio contencioso administrativo, por la comisión de faltas administrativas no graves;
+
+XIII. Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia, y el desvío de recursos obtenidos de manera ilegal;
+
+XIV. Conocer y resolver de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades Administrativas y de la legislación estatal aplicable en materia de responsabilidades administrativas y demás disposiciones aplicables, así como contra las que decidan los recursos administrativos previstos en la misma;
+
+XV. Conocer y resolver de las resoluciones dictadas en los juicios promovidos por los Secretarios de Acuerdos, Actuarios y demás personal del Tribunal, en contra de sanciones derivadas de actos u omisiones que constituyan faltas administrativas no graves, impuestas por la Junta de Gobierno y Administración o por el Órgano Interno de Control;
+
+XVI. Resolver los recursos de reclamación en los términos de la Ley General de Responsabilidades Administrativas y los recursos que procedan conforme la legislación aplicable del Estado, sin perjuicio de los recursos que le competan al Pleno;
+
+XVII. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, las sanciones que correspondan de acuerdo con lo establecido en la normatividad aplicable;
+
+XVIII. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los Entes Públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva, y
+
+XIX. Las demás que establezca la presente Ley y las disposiciones aplicables.
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+ARTÍCULO 16 QUINQUIES. El Magistrado presidente de la Sala Especializada será electo por los integrantes de la primera sesión del año siguiente a aquél en que concluya el periodo del Magistrado presidente en funciones, y durará en su cargo un periodo improrrogable de cuatro años.
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+ARTÍCULO 16 SEXIES. Son atribuciones del Magistrado presidente de la Sala Especializada:
+
+I. Formar parte del Comité Coordinador del Sistema Estatal Anticorrupción en términos de los (sic) dispuesto por el artículo 125 de la Constitución Política del Estado Libre y Soberano de Puebla;
+
+II. Atender la correspondencia de la Sala Especializada, autorizándola con su firma;
+
+III. Rendir los informes previos y justificados cuando los actos reclamados en los juicios de amparo sean imputados a la Sala Especializada, así como informar del cumplimiento dado a las ejecutorias o resoluciones en dichos juicios;
+
+IV. Dictar las medidas que exijan el orden, buen funcionamiento y la disciplina de la Sala Especializada, exigir que se guarde el respeto y consideración debidos e imponer las correspondientes correcciones disciplinarias;
+
+V. Realizar los actos jurídicos o administrativos de la Sala que no requieran la intervención de los otros dos Magistrados que la integran;
+
+VI. Proporcionar oportunamente a la Junta de Gobierno y Administración del Tribunal los informes sobre el funcionamiento de la Sala;
+
+VII. Dirigir la oficialía de partes y los archivos de la Sala;
+
+VIII. Tramitar, turnar, y en su caso, someter al conocimiento de la Sala Especializada los asuntos de la competencia de la misma, así como aquéllos que considere necesarios;
+
+IX. Presentar cada cinco años el diagnóstico cualitativo y cuantitativo sobre el trabajo de la Sala Especializada, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, por conducto de su Secretariado Ejecutivo, a efecto de que el citado Comité emita recomendaciones sobre el funcionamiento de la Sala Especializada;
+
+X. Comunicar, a través del Presidente del Tribunal, al Gobernador del Estado las ausencias absolutas de los Magistrados de la Sala Especializada, para que se proceda en términos de la Constitución Política del Estado Libre y Soberano de Puebla;
+
+XI. Imponer medidas de apremio, disciplinarias, cautelares, conforme a la legislación aplicable, para hacer cumplir las determinaciones de la Sala Especializada, y
+
+XII. Las demás que establezca la presente Ley y las disposiciones aplicables.
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+ARTÍCULO 16 SEPTIES. Los Magistrados de la Sala Especializada en materia de responsabilidades administrativas, contarán con las mismas atribuciones que les corresponden a los Magistrados de la (sic) Salas, previstas en el artículo 21 de esta Ley, así como con la atribución de dictar las medidas precautorias y cautelares que les soliciten en términos de la legislación aplicable en materia de responsabilidades administrativas y demás disposiciones aplicables.
+
+### CAPÍTULO CUARTO. DE LAS SALAS
 
 ###### ARTÍCULO 17.
 
@@ -371,7 +507,7 @@ Los asuntos cuya competencia corresponda a las Salas, serán asignados por razó
 
 Además de los asuntos a que se refiere el artículo 4, las Salas conocerán de aquellos que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos que se indican a continuación:
 
-I. Las dictadas en materia de responsabilidad administrativa, así como en los recursos previstos en los términos de la legislación aplicable;
+I. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
 II. Los actos administrativos y fiscales estatales y municipales que impliquen una negativa ficta, en términos de las disposiciones aplicables;
 
@@ -387,7 +523,7 @@ VII. Las que nieguen la indemnización, o que por su monto no satisfagan al recl
 
 VIII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, respecto de los supuestos descritos en las dos fracciones anteriores de este artículo;
 
-IX. Las dictadas en los juicios promovidos por los Secretarios de Acuerdos, Actuarios y demás personal del Tribunal, en contra de sanciones derivadas de actos u omisiones que constituyan faltas administrativas no graves, impuestas por la Junta de Gobierno y Administración o por el Órgano Interno de Control;
+IX. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
 X. Las que requieran el pago de garantías a favor del Estado o Municipios, salvo que sea competencia de otra instancia;
 
@@ -399,23 +535,7 @@ XIII. Las demás que señale la presente Ley y las disposiciones aplicables.
 
 ###### ARTÍCULO 20.
 
-En materia de responsabilidades administrativas, las Salas conocerán de:
-
-A. Los procedimientos y resoluciones a que se refiere el artículo 4, apartado B fracción II, de la presente Ley, con las siguientes facultades:
-
-I. Resolverán respecto de las faltas administrativas graves, investigadas y substanciadas por la Secretaría de la Contraloría del Estado, las Contralorías Municipales, la Auditoría Superior del Estado y los Órganos Internos de Control y demás autoridades;
-
-II. Impondrán las sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios ocasionados a la Hacienda Pública Estatal y Municipal o al patrimonio de los Entes Públicos;
-
-III. Dictarán las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia, y el desvío de recursos obtenidos de manera ilegal, y
-
-IV. Las demás que establezca la presente Ley y las disposiciones aplicables.
-
-B. Los procedimientos, resoluciones definitivas o actos administrativos, siguientes:
-
-I. De las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable en el Estado en materia de responsabilidades administrativas y demás disposiciones aplicables, así como contra las que decidan los recursos administrativos previstos en la misma, y
-
-II. Las demás que establezca la presente Ley y las disposiciones aplicables.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2022).
 
 ###### ARTÍCULO 21.
 
@@ -437,13 +557,13 @@ VII. Rendir los informes en los juicios de amparo que se promuevan en contra de 
 
 VIII. Rendir ante la Junta de Gobierno y Administración los informes sobre el funcionamiento administrativo de la Sala;
 
-IX. Imponer las medidas precautorias y cautelares que les soliciten en términos de la legislación aplicable en materia de responsabilidades administrativas y demás disposiciones aplicables;
+IX. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
-X. Fincar a los servidores públicos y particulares responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los Entes Públicos;
+X. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
-XI. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, las sanciones que correspondan de acuerdo a lo que establece la normatividad aplicable;
+XI. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
-XII. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los Entes Públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
+XII. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
 XIII. Solicitar a la Junta de Gobierno y Administración, a petición del Presidente, se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de las Salas, ejercer con normalidad y autonomía sus atribuciones;
 
@@ -457,13 +577,15 @@ XVII. Resolver los recursos contra las resoluciones que se dicten y que sean de 
 
 XVIII. Las demás que señale la presente Ley y las disposiciones aplicables.
 
-### CAPÍTULO SEXTO. DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO QUINTO. DE LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN
 
 ###### ARTÍCULO 22.
 
 La Junta de Gobierno y Administración es el Órgano del Tribunal que tiene por objeto la administración, vigilancia, disciplina y capacitación, y cuenta con autonomía técnica y de gestión para el adecuado cumplimiento de sus funciones.
 
-Se integra por el Presidente del Tribunal y los Magistrados de las Salas.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Se integra por el Presidente del Tribunal y los Magistrados de las Salas, excepto por los Magistrados de la Sala Especializada.
 
 Será presidida por el Presidente del Tribunal y contará además con un Secretario Ejecutivo, quien podrá ser el Secretario General de Acuerdos del Tribunal.
 
@@ -535,7 +657,7 @@ Para la validez de las sesiones de la Junta de Gobierno y Administración bastar
 
 Las resoluciones de la Junta de Gobierno y Administración se tomarán por mayoría de votos de los Magistrados presentes, quienes no podrán abstenerse de votar. En caso de empate, el Presidente tendrá voto de calidad.
 
-### CAPÍTULO SÉPTIMO. DEL PERSONAL DEL TRIBUNAL
+### CAPÍTULO SEXTO. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### ARTÍCULO 25.
 
@@ -559,13 +681,15 @@ VI. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativ
 
 VII. Las demás que establezca la presente Ley y las disposiciones aplicables.
 
-### CAPÍTULO OCTAVO. DE LA DIRECCIÓN ADMINISTRATIVA
+### CAPÍTULO SÉPTIMO. DEL PERSONAL DEL TRIBUNAL
 
 ###### ARTÍCULO 27.
 
 El Tribunal contará con los servidores públicos siguientes:
 
-I. Magistrados de Sala;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+I. Magistrados de Sala, incluidos los de la Sala Especializada;
 
 II. Secretario General de Acuerdos del Tribunal;
 
@@ -591,15 +715,25 @@ El Tribunal contará además con el personal profesional, administrativo y técn
 
 Para ser Magistrado del Tribunal, se requiere:
 
-I. Ser mexicano por nacimiento, en ejercicio pleno de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-II. Tener al menos treinta años de edad a la fecha del nombramiento;
+I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
-III. Ser licenciado en derecho con título y cédula profesional debidamente expedido por la autoridad competente;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-IV. Gozar de buena reputación, y
+II. Tener cuando menos treinta y cinco años cumplidos el día de su designación;
 
-V. No haber sido condenado por delito doloso en sentencia firme.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+III. Ser licenciado en derecho o abogado con título y cédula profesional debidamente expedido por la autoridad competente, con una antigüedad mínima de diez años previos a la designación;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+V. Haber residido en el país durante los dos años anteriores al día de su designación.
 
 Los Magistrados del Tribunal, una vez ratificados por el Congreso, protestarán su cargo ante la Legislatura en funciones, y en sus recesos ante la Comisión Permanente.
 
@@ -723,13 +857,49 @@ IX. Realizar los engroses de las resoluciones de la Sala;
 
 X. Efectuar las diligencias que le encomiende el Magistrado, cuando éstas deban practicarse fuera del local del Tribunal;
 
-XI. Elaborar el proyecto de devolución de las acciones de responsabilidad, cuando de su análisis determine que la conducta no está prevista como falta administrativa grave;
+XI. (DEROGADA, P.O. 11 DE FEBRERO DE 2022).
 
 XII. Llevar los libros de gobierno, de registro de documentos y los demás que sean necesarios;
 
 XIII. Turnar los asuntos para notificación al Actuario correspondiente;
 
 XIV. Suplir las faltas temporales del Secretario General de Acuerdos, en el orden que establezca el Presidente;
+
+XV. Revisar la recopilación de decretos, reglamentos y acuerdos administrativos publicados en el Periódico Oficial del Estado, y
+
+XVI. Desempeñar las demás atribuciones que las disposiciones aplicables les confieran.
+
+(ADICONADO, P.O. 11 DE FEBRERO DE 2022)
+
+ARTÍCULO 34 BIS. Corresponde a los Secretarios de la Sala Especializada:
+
+I. Dar cuenta, dentro de los términos legales, con los escritos, promociones y diligencias sobre los que deba recaer trámite o resolución;
+
+II. Autorizar las actuaciones en que intervenga;
+
+III. Redactar las actas de las diligencias que se practiquen y los acuerdos que se pronuncien;
+
+IV. Dar fe de las actuaciones y resoluciones en las que intervenga y expedir las certificaciones de las constancias que obren en los expedientes a su cargo;
+
+V. Expedir las certificaciones de las constancias que obren en los expedientes a su cargo;
+
+VI. Dar cuenta al Magistrado de las promociones presentadas por las partes;
+
+VII. Redactar y autorizar las actas y resoluciones que recaigan en relación a las promociones presentadas en los expedientes cuyo trámite se les encomiende;
+
+VIII. Elaborar los autos, acuerdos y resoluciones que procedan en términos de las disposiciones legales aplicables, y en su caso, suscribirlos;
+
+IX. Realizar los engroses de las resoluciones de la Sala;
+
+X. Efectuar las diligencias que le encomiende el Magistrado, cuando éstas deban practicarse fuera del local del Tribunal;
+
+XI. Elaborar el proyecto de devolución de las acciones de responsabilidad, cuando de su análisis determine que la conducta no está prevista como falta administrativa grave;
+
+XII. Llevar los libros de gobierno, de registro de documentos y los demás que sean necesarios;
+
+XIII. Turnar los asuntos para notificación al Actuario correspondiente;
+
+XIV. Suplir las faltas temporales del Secretario General de Acuerdos, en el orden que establezca el Magistrado presidente de la Sala Especializada;
 
 XV. Revisar la recopilación de decretos, reglamentos y acuerdos administrativos publicados en el Periódico Oficial del Estado, y
 
@@ -779,7 +949,7 @@ VI. Cuando durante el ejercicio del empleo, cargo o comisión se admita otro cua
 
 VII. En el caso previsto por el artículo 49 de la presente Ley.
 
-### CAPÍTULO NOVENO. DE LAS LICENCIAS Y AUSENCIAS
+### CAPÍTULO OCTAVO. DE LA DIRECCIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 40.
 
@@ -813,7 +983,7 @@ XIII. Elaborar y proponer la Junta de Gobierno y Administración los convenios c
 
 XIV. Las demás que establezca la presente Ley y demás disposiciones aplicables.
 
-### CAPÍTULO DÉCIMO. DE LAS VACACIONES Y GUARDIAS
+### CAPÍTULO NOVENO. DE LAS LICENCIAS Y AUSENCIAS
 
 ###### ARTÍCULO 41.
 
@@ -875,6 +1045,8 @@ Las licencias de los Magistrados que no excedan de treinta días, serán concedi
 
 En caso de ausencias absolutas de los Magistrados, se comunicará de inmediato al Gobernador del Estado para que proceda en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla.
 
+### CAPÍTULO DÉCIMO. DE LAS VACACIONES Y GUARDIAS
+
 ###### ARTÍCULO 53.
 
 El personal del Tribunal tendrá cada año dos periodos de vacaciones de diez días hábiles cada uno, en las fechas señaladas en el calendario que para tal efecto apruebe la Junta de Gobierno y Administración.
@@ -912,3 +1084,35 @@ P.O. 8 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA; LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL, Y LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO. El Congreso emitirá la declaratoria de inicio de funciones de la Unidad Técnica. Dicha declaratoria tendrá como efecto que los asuntos que se encuentren en trámite ante el Órgano Interno de Control de la Auditoría Superior, se remitan para su atención, desahogo y resolución a la Unidad Técnica.
+
+TERCERO. En un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Comisión ejercerá la facultad a que se refiere el artículo 114 BIS del presente ordenamiento, con respecto al Informe General de la Cuenta Pública del ejercicio fiscal de 2019, remitido por la Auditoría Superior del Estado.
+
+Para el Informe General de la Cuenta Pública del ejercicio fiscal de 2020, se procederá conforme al plazo previsto en el artículo 114 BIS.
+
+CUARTO. El nombramiento de los Magistrados integrantes de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla, se realizará conforme al escalonamiento siguiente:
+
+I. Un integrante para un periodo de nueve años;
+
+II. Un integrante para un periodo de doce años; y
+
+III. Un integrante para un periodo de quince años.
+
+El Gobernador fijará el periodo de encargo en el nombramiento respectivo.
+
+QUINTO. La designación del personal adscrito a la Unidad Técnica se realizará conforme a las normas y procedimientos aplicables para los servidores públicos del Congreso del Estado.
+
+SEXTO. Los procedimientos administrativos y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Auditoría Superior del Estado, o en los que ésta sea parte, continuarán sustanciándose por esta última, hasta su total conclusión, conforme a las disposiciones que se encontraban vigentes al momento de la publicación del presente Decreto.
+
+SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Unidad Técnica, en un plazo de hasta noventa días posterior a la entrada en vigor del presente Decreto.
+
+OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
