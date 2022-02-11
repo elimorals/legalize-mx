@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-etica-de-los-servidores-publicos-de-la-122065"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-09"
-last_updated: "2017-06-09"
+last_updated: "2022-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 11 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Baja California, el viernes 9 de junio de 2017.
 
@@ -134,3 +136,21 @@ SECRETARIO GENERAL DE GOBIERNO
 BLADIMIRO HERNÁNDEZ DÍAZ
 
 CONTRALOR GENERAL DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINITRACIÓN PÚBLICA DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente Código de Ética entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Ética de los Servidores Públicos de la Administración Pública del Estado de Baja California y Reglas de Integridad para el Ejercicio de la Función Pública, publicado en el Periódico Oficial del Estado de Baja California el 09 de junio de 2017.
+
+TERCERO. Los procedimientos y trámites administrativos que tuvieran relación con lo dispuesto en el presente Código de Ética iniciados con anterioridad a su entrada en vigor, se sujetarán a las disposiciones vigentes al momento de haber iniciado.
+
+CUARTO. La Secretaría de la Honestidad y la Función Pública a través de la Dirección de Transparencia y Acceso a la Información para un Gobierno Abierto contarán con un plazo no mayor de cuarenta días hábiles para la emisión de los lineamientos por los cuales se constituirán los Comités.
+
+QUINTO. Las Dependencias y Entidades Paraestatales de la Administración Pública Estatal deberán constituir los Comités a que se refiere este Código de Ética para las Personas Servidoras Públicas de la Administración Pública de Baja California, en un plazo de sesenta días hábiles contados a partir de la entrada en vigor de los Lineamientos que se mencionan en el artículo anterior.
+
+SEXTO. Las Dependencias y Entidades Paraestatales de la Administración Pública Estatal a través de sus Comités deberán emitir sus códigos de conducta en un plazo no mayor a los noventa días naturales siguientes a la emisión de la Guía para la Elaboración y Actualización del Código de Conducta de las Dependencias y Entidades de la Administración Pública Estatal.
