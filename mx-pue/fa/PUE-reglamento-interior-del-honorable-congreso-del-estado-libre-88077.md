@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2021-08-13"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -571,17 +571,17 @@ c) Fortalecer el marco jurídico que garantice la participación de los Pueblos 
 
 d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE FEBRERO DE 2022)</small>
 
-XV.- INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO:
+XV.- CONTROL, VIGILANCIA Y EVALUACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO:
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
-a) Supervisar y evaluar a la Auditoría Superior del Estado de Puebla, sin perjuicio de la autonomía que le confiere la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
+a) Controlar, vigilar y evaluar a la Auditoría Superior del Estado de Puebla, sin perjuicio de la autonomía que le confiere la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla y demás normatividad aplicable en la materia;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
-b) Ser el conducto de comunicación y coordinación entre el Congreso del Estado y la Auditoría Superior del Estado de Puebla;
+b) Ser el conducto de comunicación y coordinación entre el Congreso del Estado, la Unidad Técnica y la Auditoría Superior del Estado de Puebla;
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
@@ -2857,15 +2857,17 @@ VII.- Las previstas, en lo conducente, en el artículo 50 de la Ley de Responsab
 
 VIII.- Las demás que determine esté Reglamento o las leyes que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 223.
 
-La Comisión de Gobernación y Puntos Constitucionales conocerá de las quejas o denuncias en contra del Secretario General del Congreso, el Contralor Interno y del Auditor Superior de la Auditoría Superior del Estado de Puebla; en el caso de los servidores públicos nombrados por la Junta de Gobierno y Coordinación Política, será ésta la que conozca del asunto, observándose en ambos supuestos, en lo conducente, lo establecido en los artículos anteriores y en los ordenamientos aplicables.
+La Comisión de Gobernación y Puntos Constitucionales conocerá de las quejas o denuncias en contra de las personas Titulares de la Secretaría General y del Órgano Interno de Control del Congreso; en el caso de los servidores públicos nombrados por la Junta de Gobierno y Coordinación Política, será ésta la que conozca del asunto, observándose en ambos supuestos, en lo conducente, lo establecido en los artículos anteriores y en los ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 224.
 
-Las sanciones a servidores públicos del Congreso por responsabilidad administrativa, serán las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
+Las sanciones a servidores públicos del Congreso por responsabilidad administrativa, serán las establecidas en la Ley General de Responsabilidades Administrativas y demás legislación local aplicable en la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -3087,17 +3089,17 @@ En casos excepcionales y debidamente justificados, el servidor público podrá h
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 241.
 
-La Auditoría Superior del Estado de Puebla, depende directamente del Congreso del Estado, está bajo la supervisión de la Comisión Inspectora de la Auditoría Superior del Estado y contará, en función del presupuesto aprobado al Congreso del Estado, con las instalaciones adecuadas para su funcionamiento.
+La Auditoría Superior del Estado de Puebla, es un órgano especializado del Congreso del Estado, el cual depende directamente de este, y se encuentra bajo la supervisión de la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado y contará, en función del presupuesto aprobado al Congreso del Estado, con las instalaciones adecuadas para su funcionamiento.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 242.
 
-Para lo relativo a las obligaciones, atribuciones y labores de la Auditoría Superior del Estado de Puebla y de sus servidores públicos, se observará lo prescrito en la Constitución Política del Estado Libre y Soberano de Puebla, en la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, en el Reglamento Interior de la Auditoría Superior del Estado de Puebla y demás ordenamientos aplicables.
+Para lo relativo a las obligaciones, atribuciones y labores de la Auditoría Superior del Estado de Puebla y de sus servidores públicos, se observará lo prescrito en la Constitución Política del Estado Libre y Soberano de Puebla, en la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla, la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, en el Reglamento Interior de la Auditoría Superior del Estado de Puebla y demás ordenamientos aplicables.
 
 ## TÍTULO DÉCIMO TERCERO. DE LOS PROCEDIMIENTOS ESPECIALES
 
@@ -3113,7 +3115,9 @@ Son Procedimientos Especiales los siguientes:
 
 I.- La Substanciación de acusaciones en contra de funcionarios que gozan de fuero Constitucional;
 
-II.- La Substanciación de Procedimientos por responsabilidad administrativa, suspensión o revocación de mandato de Presidentes Municipales, Regidores o Síndicos, diferentes a los contemplados en el artículo 45 fracción II de la Ley de Fiscalización Superior y rendición de Cuentas para el Estado de Puebla;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+II.- La Substanciación de Procedimientos por responsabilidad administrativa, suspensión o revocación de mandato de Presidentes Municipales, Regidores o Síndicos, diferentes a los contemplados en la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla;
 
 III.- La elección o ratificación de Servidores Públicos competencia del Congreso del Estado;
 
@@ -3131,7 +3135,9 @@ IX.- Controversias Territoriales;
 
 X.- La elevación de los Centros de Población a las categorías de Ciudad, Villa o Pueblo; y
 
-XI.- Los demás previsto por la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento, las leyes especiales que los contemplen y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XI.- Los demás previstos por la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento, las leyes especiales que los contemplen y demás disposiciones aplicables.
 
 ###### ARTÍCULO 245.
 
@@ -3382,3 +3388,19 @@ P.O. 13 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE DE LA FRACCIÓN XV Y SUS INCISOS A) Y B), DEL ARTÍCULO 48, EL ARTÍCULO 223, EL ARTÍCULO 224, EL ARTÍCULO 241, EL ARTÍCULO 242, Y LAS FRACCIONES II Y XI DEL ARTÍCULO 244 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado estará conformada por los mismos integrantes de la Comisión Inspectora de la Auditoria Superior del Estado, de conformidad con la modificación a la denominación materia del presente Decreto.
+
+CUARTO. Los asuntos presentados, turnados o que se encuentran en trámite en la Comisión Inspectora de la Auditoria Superior del Estado, pasarán para su análisis, estudio y resolución procedente a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
+
+QUINTO. Todos los actos legales o administrativos suscritos por la Comisión Inspectora de la Auditoria Superior del Estado y por su Presidente a la entrada en vigor del presente Decreto, así como sus efectos, se entenderán referidos a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
+
+SEXTO. Las referencias que cualquier ordenamiento haga a la Comisión Inspectora de la Auditoria Superior del Estado, se entenderán aplicables a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
