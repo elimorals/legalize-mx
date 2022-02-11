@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-atencion-de-personas-con-discapacidad-en-164
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-18"
-last_updated: "2019-04-05"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de febrero de 2000.
 
@@ -391,7 +391,13 @@ Presidirá el Consejo el Presidente Municipal o la persona que éste designe qui
 
 V.- Cinco representantes de Organizaciones de la Sociedad Civil cuyo objeto sea la atención de personas con discapacidad, los cuales tienen que ser representantes de las distintas discapacidades que la ley estatal reconoce, y serán elegidos mediante votación de acuerdo a la convocatoria que la Dirección de Desarrollo Social Municipal expida para tal efecto, cuyo cargo tendrá una duración de tres años con la posibilidad de ser ratificados por otro periodo igual.
 
-VI.- El Director o representante del DIF Municipal o bien, la Coordinadora de Atención a Personas con Discapacidad del XX Ayuntamiento de Mexicali.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VI.- El Director o representante del DIF Municipal; y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VII.- La persona titular de la Coordinación de Derechos Humanos y Grupos en Situación de Vulnerabilidad del Ayuntamiento de Mexicali.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -486,3 +492,9 @@ P.O. 5 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
 
 Único: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 32 FRACCIÓN VII Y 38 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA; ASIMISMO SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
