@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-anticorrupcion-del-estado-de-puebla-120383"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2021-04-09"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE FEBRERO DE 2022.
 
 Ley publicada en la Trigésima Tercera Sección al Número 19 del Periódico Oficial del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -199,13 +199,17 @@ II. El titular de la Auditoría Superior del Estado de Puebla;
 
 III. El titular de la Fiscalía Especializada de Combate a la Corrupción del Estado de Puebla;
 
-IV. El titular de la Secretaría de la Contraloría del Estado de Puebla;
+> <small>(REFORMADA, P.O.11 DE FEBRERO DE 2022)</small>
+
+IV. La persona Titular de la Secretaría de la Función Pública del Estado de Puebla;
 
 V. Un representante del Consejo de la Judicatura;
 
 VI. El Presidente del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla; y
 
-VII. El Presidente del Tribunal de Justicia Administrativa.
+> <small>(REFORMADA, P.O.11 DE FEBRERO DE 2022)</small>
+
+VII. El Presidente de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa.
 
 ###### ARTÍCULO 11.
 
@@ -421,7 +425,9 @@ IV. Responsabilidades administrativas de servidores públicos; y
 
 V. Transparencia y acceso a la información pública, conforme a la Ley de la materia.
 
-La Secretaría de la Contraloría y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Puebla, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
+> <small>(REFORMADO, P.O.11 DE FEBRERO DE 2022)</small>
+
+La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Puebla, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
 ###### ARTÍCULO 28.
 
@@ -569,9 +575,11 @@ V. El Sistema Estatal rendirá un informe público a los titulares de los podere
 
 ### CAPÍTULO ÚNICO. GENERALIDADES
 
+> <small>(REFORMADO, P.O.11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 37.
 
-La Auditoría Superior del Estado de Puebla y la Secretaría de la Contraloría, como integrantes del Sistema Nacional de Fiscalización, participarán coordinadamente en este último, en el ámbito de sus respectivas competencias.
+La Auditoría Superior del Estado de Puebla y la Secretaría de la Función Pública, como integrantes del Sistema Nacional de Fiscalización, participarán coordinadamente en este último, en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 38.
 
@@ -643,11 +651,11 @@ Las autoridades del Estado de Puebla, integrantes del Sistema Nacional de Fiscal
 
 ### CAPÍTULO ÚNICO. DE LA PLATAFORMA DIGITAL ESTATAL
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O.11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 48.
 
-La Plataforma Digital Estatal es la herramienta tecnológica que integra y conecta los sistemas de información de diversos entes públicos, cuyo contenido se considere de utilidad para prevenir y combatir a la corrupción.
+El Comité Coordinador Estatal emitirá las bases para el funcionamiento de la Plataforma Digital Estatal que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la Ley General, la presente Ley y la Ley General de Responsabilidades Administrativas, atendiendo a las necesidades de accesibilidad de los usuarios, dando cumplimiento a las bases y lineamientos que emita, en su caso, el Comité Coordinador.
 
 El Comité Coordinador Estatal emitirá las bases para el funcionamiento de la Plataforma Digital Estatal que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la Ley General, la presente Ley y la Ley de Responsabilidades Administrativas del Estado de Puebla, atendiendo a las necesidades de accesibilidad de los usuarios, dando cumplimiento a las bases y lineamientos que emita, en su caso, el Comité Coordinador.
 
@@ -683,19 +691,25 @@ Los integrantes del Sistema Estatal promoverán la publicación de la informaci�
 
 El Sistema Nacional establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la plataforma, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas electrónicos por parte de los usuarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O.11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 51.
 
-Los sistemas de evolución patrimonial y de declaración de intereses, así como de los Servidores Públicos que intervengan en procedimientos de contrataciones públicas, operarán en los términos de la Ley de Responsabilidades Administrativas del Estado de Puebla.
+Los sistemas de evolución patrimonial y de declaración de intereses, así como de los Servidores Públicos que intervengan en procedimientos de contrataciones públicas, operarán en los términos de la Ley General de Responsabilidades Administrativas.
 
 El Sistema de Información Pública de Contrataciones contará con la información pública que remitan las autoridades competentes al Comité Coordinador Estatal a solicitud de éste, para el ejercicio de sus funciones y los objetivos de esta Ley.
 
+> <small>(REFORMADO, P.O.11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 52.
 
-El sistema estatal de servidores públicos y particulares sancionados tiene como finalidad que las sanciones impuestas a servidores públicos y particulares por la comisión de faltas administrativas en términos de la Ley de Responsabilidades Administrativas del Estado de Puebla y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
+El sistema estatal de servidores públicos y particulares sancionados tiene como finalidad que las sanciones impuestas a servidores públicos y particulares por la comisión de faltas administrativas en términos de la Ley General de Responsabilidades Administrativas y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O.11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 53.
 
-Las sanciones impuestas por faltas administrativas graves serán del conocimiento público cuando éstas contengan impedimentos o inhabilitaciones para ser contratados como servidores públicos o como prestadores de servicios o contratistas del sector público, en términos de la Ley de Responsabilidades Administrativas del Estado de Puebla.
+Las sanciones impuestas por faltas administrativas graves serán del conocimiento público cuando éstas contengan impedimentos o inhabilitaciones para ser contratados como servidores públicos o como prestadores de servicios o contratistas del sector público, en términos de la Ley General de Responsabilidades Administrativas.
 
 Los registros de las sanciones relativas a responsabilidades administrativas no graves, quedarán registradas para efectos de eventual reincidencia, pero no serán públicas.
 
@@ -798,3 +812,35 @@ P.O. 9 DE ABRIL DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O.11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA; LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL, Y LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO. El Congreso emitirá la declaratoria de inicio de funciones de la Unidad Técnica. Dicha declaratoria tendrá como efecto que los asuntos que se encuentren en trámite ante el Órgano Interno de Control de la Auditoría Superior, se remitan para su atención, desahogo y resolución a la Unidad Técnica.
+
+TERCERO. En un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Comisión ejercerá la facultad a que se refiere el artículo 114 BIS del presente ordenamiento, con respecto al Informe General de la Cuenta Pública del ejercicio fiscal de 2019, remitido por la Auditoría Superior del Estado.
+
+Para el Informe General de la Cuenta Pública del ejercicio fiscal de 2020, se procederá conforme al plazo previsto en el artículo 114 BIS.
+
+CUARTO. El nombramiento de los Magistrados integrantes de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla, se realizará conforme al escalonamiento siguiente:
+
+I. Un integrante para un periodo de nueve años;
+
+II. Un integrante para un periodo de doce años; y
+
+III. Un integrante para un periodo de quince años.
+
+El Gobernador fijará el periodo de encargo en el nombramiento respectivo.
+
+QUINTO. La designación del personal adscrito a la Unidad Técnica se realizará conforme a las normas y procedimientos aplicables para los servidores públicos del Congreso del Estado.
+
+SEXTO. Los procedimientos administrativos y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Auditoría Superior del Estado, o en los que ésta sea parte, continuarán sustanciándose por esta última, hasta su total conclusión, conforme a las disposiciones que se encontraban vigentes al momento de la publicación del presente Decreto.
+
+SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Unidad Técnica, en un plazo de hasta noventa días posterior a la entrada en vigor del presente Decreto.
+
+OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
