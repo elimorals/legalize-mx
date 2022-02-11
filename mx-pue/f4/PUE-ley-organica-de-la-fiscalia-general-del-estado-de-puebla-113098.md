@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2021-11-04"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -977,11 +977,11 @@ La cancelación del certificado deberá registrarse en los términos del Sistema
 
 Los servidores públicos de la Fiscalía General estarán sujetos al contenido de esta Ley, y en lo que no se apongan a ésta, por lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 40.
 
-El Órgano Interno de Control es un órgano, que tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía General del Estado y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Puebla; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Asuntos Internos.
+El Órgano Interno de Control es un órgano, que tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía General del Estado y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada de Asuntos Internos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2020)</small>
 
@@ -1850,3 +1850,35 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Fiscal General del Estado, a partir de la entrada en vigor del presente Decreto, contará con un término de 90 días naturales, para que, en caso de que cuente con personas que desempeñen el cargo de oficial subalterno, les solicite que concluyan sus diligencias y funciones.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA; LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA FISCA~ÍA GENERAL DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL, Y LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO. El Congreso emitirá la declaratoria de inicio de funciones de la Unidad Técnica. Dicha declaratoria tendrá como efecto que los asuntos que se encuentren en trámite ante el Órgano Interno de Control de la Auditoría Superior, se remitan para su atención, desahogo y resolución a la Unidad Técnica.
+
+TERCERO. En un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Comisión ejercerá la facultad a que se refiere el artículo 114 BIS del presente ordenamiento, con respecto al Informe General de la Cuenta Pública del ejercicio fiscal de 2019, remitido por la Auditoría Superior del Estado.
+
+Para el Informe General de la Cuenta Pública del ejercicio fiscal de 2020, se procederá conforme al plazo previsto en el artículo 114 BIS.
+
+CUARTO. El nombramiento de los Magistrados integrantes de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla, se realizará conforme al escalonamiento siguiente:
+
+I. Un integrante para un periodo de nueve años;
+
+II. Un integrante para un periodo de doce años; y
+
+III. Un integrante para un periodo de quince años.
+
+El Gobernador fijará el periodo de encargo en el nombramiento respectivo.
+
+QUINTO. La designación del personal adscrito a la Unidad Técnica se realizará conforme a las normas y procedimientos aplicables para los servidores públicos del Congreso del Estado.
+
+SEXTO. Los procedimientos administrativos y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Auditoría Superior del Estado, o en los que ésta sea parte, continuarán sustanciándose por esta última, hasta su total conclusión, conforme a las disposiciones que se encontraban vigentes al momento de la publicación del presente Decreto.
+
+SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Unidad Técnica, en un plazo de hasta noventa días posterior a la entrada en vigor del presente Decreto.
+
+OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
