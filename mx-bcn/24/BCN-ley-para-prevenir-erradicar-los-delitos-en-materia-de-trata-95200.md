@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-19"
-last_updated: "2021-07-02"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 19 de julio de 2013.
 
@@ -95,7 +95,9 @@ I. Se apliquen las reglas de competencia previstas en la Ley Orgánica del Poder
 
 II. El delito se inicie, prepare o cometa en el extranjero, siempre y cuando produzca o se pretenda que produzca efecto en el territorio nacional, o cuando se inicie, prepare o cometa en el territorio nacional, siempre y cuando produzca o se pretenda que tengan efectos en el extranjero, en términos de los artículos 2o, 3o, 4o, 5o y 6o del Código Penal Federal;
 
-III. Lo previsto en el artículo 10 del Código Federal de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+III. Lo previsto en el artículo 20 del Código Nacional de Procedimientos Penales;
 
 IV. El Ministerio Público de la Federación solicite a la autoridad competente de una entidad federativa la atracción del asunto, atendiendo a las características propias del hecho, así como las circunstancias de ejecución o a la relevancia social del mismo.
 
@@ -387,9 +389,11 @@ La Comisión promoverá que se imparta a la población, capacitación en la prev
 
 Los delitos en materia de trata de personas y sus sanciones serán los que establece la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a la (sic) Víctimas de estos Delitos.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 30.
 
-En materia de investigación, procedimientos y sanciones, comprendidas en esta Ley la reparación del daño de los delitos en materia de trata de personas se aplicarán las disposiciones de la Ley General, y en lo no previsto en ésta se aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal Contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública.
+En materia de investigación, procedimientos y sanciones, comprendidas en esta Ley la reparación del daño de los delitos en materia de trata de personas se aplicarán las disposiciones de la Ley General, y en lo no previsto en ésta se aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal Contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública.
 
 ### CAPÍTULO II. DE LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS, OFENDIDOS Y EL FONDO
 
@@ -498,3 +502,9 @@ P.O. 2 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 240 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 18 DE LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 71 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 30 DE LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
