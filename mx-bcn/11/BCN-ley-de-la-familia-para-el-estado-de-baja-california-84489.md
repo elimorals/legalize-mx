@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-familia-para-el-estado-de-baja-california-84489"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-30"
-last_updated: "2021-03-19"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de diciembre de 2011.
 
@@ -47,33 +47,49 @@ Las disposiciones contenidas por esta Ley son de orden público, de interés soc
 
 I. Garantizar los derechos que esta Ley reconoce a la familia como primera institución social y civil en el Estado de Baja California;
 
-II. Precisar sus principales derechos y las responsabilidades que derivan de la familia, así como los elementos coadyuvantes para su desarrollo y consolidación;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-III. Definir los principios e instrumentos para su protección, promoción y desarrollo integral en los ámbitos público, social y privado; y
+II. Precisar sus principales derechos y la corresponsabilidad que derivan de la familia, así como los elementos coadyuvantes para su desarrollo y consolidación;
 
-IV.- Establecer los lineamientos generales para el diseño y la implementación de programas y políticas públicas que fortalezcan y que promuevan a la familia como institución básica de la sociedad.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+III. Definir los principios e instrumentos para su protección, promoción y desarrollo integral en los ámbitos público, social y privado;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+IV. Establecer los lineamientos generales para el diseño y la implementación de programas y políticas públicas que fortalezcan y que promuevan a la familia como institución básica de la sociedad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+V. Promover el derecho a la igualdad entre mujeres y hombres en el reparto equilibrado de las responsabilidades familiares, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+VI. Asegurarse que de (sic) las niñas, niños adolescentes se desarrollen en una ambiente seguro y respetuoso de sus derechos humanos.
 
 ###### ARTÍCULO 2.
 
 La familia es una institución social y civil con perspectiva permanente, integrada por personas vinculadas por lazos derivados del matrimonio, consanguineidad, afinidad o por algunas de las relaciones de parentesco en los términos del Código Civil del Estado de Baja California.
 
-La familia se caracteriza por la relación íntima, duradera y solidaria de sus integrantes, quienes comparten en común usos, costumbres, tradiciones, principios y valores.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+La familia se caracteriza por la relación íntima, duradera, solidaria y respetuosa de sus integrantes, quienes comparten en común usos, costumbres, tradiciones, principios y valores.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 3.
 
-Los padres o quienes legalmente encabecen y constituyan la familia, son responsables de que en ésta prevalezca un ambiente de respeto recíproco, de armonía y cooperación subsidiaria, que permita a los hijos y a los integrantes del núcleo familiar desarrollarse en condiciones propicias para el desenvolvimiento de sus aptitudes, vocaciones y capacidades.
+La madre, el padre o ambos, que constituyan la familia, son responsables de que en ésta prevalezca un ambiente de respeto recíproco, de armonía y cooperación subsidiaria entre la pareja y que permita a las y los hijos, y a los integrantes del núcleo familiar desarrollarse en condiciones propicias para el desenvolvimiento de sus aptitudes, preferencias, vocaciones y capacidades.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+Asimismo, es su deber respetar el interés superior de la niñez en la toma de decisiones sobre su educación y crianza, con el fin de lograr la protección reforzada en los derechos e intereses de las niñas, niños y adolescentes, tutelando a la niñez para que de verdad se logre generar las condiciones apropiadas para favorecer en la mayor medida posible su desarrollo integral, además de fomentar en las y los hijos, que se encuentren bajo su custodia, el respeto, que deberán recibir de manera recíproca, a sus semejantes, a su medio ambiente, a las autoridades y a las instituciones, así como a las costumbres y tradiciones regionales.
 
-Asimismo, es su deber respetar el interés superior de la niñez en la toma de decisiones sobre su educación y crianza con el fin de lograr la protección reforzada en los derechos e intereses de los menores, tutelando a la niñez para que de verdad se logre generar las condiciones apropiadas para favorecer en la mayor medida posible su desarrollo integral, además de fomentar en los hijos o menores que se encuentren bajo su custodia y el respeto a sus semejantes, a su medio ambiente, a las autoridades y a las instituciones, así como a las costumbres y tradiciones regionales.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
-
-Para efectos de esta ley se entenderá por hijos y menores de edad, las Niñas, Niños y Adolescentes.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 4.
 
-Los miembros de la familia deben contribuir responsable y solidariamente a la convivencia estable e integrada de sus integrantes, así como al cuidado y la protección de sus miembros por medio de la permanencia y estabilidad de sus relaciones.
+Los miembros de la familia deben contribuir responsable y solidariamente a la convivencia respetuosa y ajena a estereotipos de género, estable e integrada de cada uno (sic) sus integrantes, así como al cuidado y la protección de sus miembros por medio de la permanencia y estabilidad de sus relaciones.
+
+Previendo además que se promueva la corresponsabilidad en el desarrollo de las actividades propias del hogar, promoviendo el reparto igualitario del trabajo doméstico.
 
 ###### ARTÍCULO 5.
 
@@ -83,21 +99,27 @@ El ser humano es el fundamento de la sociedad así como de sus instituciones y a
 
 El Estado protegerá la integración y desarrollo de la familia con medidas de carácter político, económico, social y jurídico que contribuyan a consolidar la unidad y la estabilidad, a fin de que pueda cumplir su función específica de enseñanza y transmisión de los valores culturales, éticos, sociales e intelectuales esenciales para el desarrollo y bienestar de sus propios integrantes y de la sociedad.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 7.
 
-El Estado implementará políticas públicas adecuadas para la promoción y generación de condiciones que permitan la integración, la protección, el fortalecimiento y el desarrollo de la familia. Las políticas públicas deberán observar una perspectiva de familia, a fin de contribuir y expandir de manera transversal en los ámbitos jurídico, social, cultural, educativo y económico dicha perspectiva.
+El Estado implementará políticas públicas adecuadas para la promoción y generación de condiciones que permitan la integración, la protección, el fortalecimiento y el desarrollo de la familia y de cada uno de sus miembros. Las políticas públicas deberán observar una perspectiva de familia, a fin de contribuir y expandir de manera transversal en los ámbitos jurídico, social, cultural, educativo y económico dicha perspectiva.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 2021)</small>
+Corresponde a las autoridades judiciales en el ámbito de su competencia, asegurar a las niñas, niños y adolescentes, la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar respetando el interés superior de la niñez, debiendo obligarse a propiciar el crecimiento saludable y armonioso, tanto en el ámbito físico, como en el psicoemocional de la o el menor.
 
-Corresponde a las autoridades judiciales en el ámbito de su competencia, asegurar a las niñas, niños y adolescentes, la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar respetando el interés superior de la niñez, debiendo obligarse a propiciar el crecimiento saludable y armonioso, tanto en el ámbito físico, como en el psicoemocional del menor.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 8.
 
-La familia y el Estado son corresponsables solidarios en la defensa y promoción del bien común y del bien de cada persona que los integra. El Estado deberá promover el conocimiento, comprensión y concientización sobre las responsabilidades del matrimonio y de la familia.
+La familia y el Estado son corresponsables solidarios en la defensa y promoción del bien común y del bien de cada persona que los integra. El Estado deberá promover el conocimiento, comprensión y concientización sobre las responsabilidades compartidas del matrimonio y de la familia; alentando la participación del hombre y la mujer en igualdad de condiciones en cuanto a las responsabilidades domésticas, incluidas la crianza de las y los hijos.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 9.
 
-La familia educará, impulsará y apoyará particularmente a los niños, adolescentes y jóvenes proveyéndoles las bases para que alcancen una plena madurez, así como su independencia y autonomía, a fin de que obtengan los elementos básicos para ser ciudadanos productivos y responsables que aporten el bien a la sociedad.
+La familia educará, impulsará y apoyará particularmente a las niñas, niños, adolescentes y jóvenes proveyéndoles las bases para que alcancen una plena madurez, así como su independencia y autonomía, a fin de que obtengan los elementos básicos para ser ciudadanos productivos y responsables que aporten el bien a la sociedad.
+
+Esta educación deberá estar desprovista de estereotipos de género o cualquier forma de discriminación por el sexo, identidad de género, preferencia sexual, edad, condición de discapacidad, condición social o cultural de las niñas, niños y adolescentes a su cargo.
 
 ###### ARTÍCULO 10.
 
@@ -105,9 +127,11 @@ A falta de disposiciones de esta Ley, se aplicarán supletoriamente las normas e
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LA FAMILIA
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 11.
 
-El Estado y la sociedad respetarán y promoverán la dignidad, la justa independencia, la intimidad, la estabilidad, la integridad, la solidaridad, la seguridad y la autonomía de cada familia.
+El Estado y la sociedad respetarán y promoverán la dignidad, la justa independencia, la intimidad, la estabilidad, la integridad, la solidaridad, la seguridad y la autonomía de cada uno de los integrantes de la familia.
 
 ###### ARTÍCULO 12.
 
@@ -139,13 +163,19 @@ El Estado y los Municipios atenderán y resolverán las solicitudes y necesidade
 
 Los integrantes de la familia deberán tener acceso a medidas de seguridad social acordes a sus necesidades, especialmente en caso de separación de los cónyuges, de muerte prematura de uno o ambos padres, en caso de accidente, enfermedad, discapacidad o cualquier caso en que la familia tenga que asumir cargas extraordinarias.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 19.
 
-Toda persona tiene derecho en la elección de su estado de vida; a conocer el alcance de los derechos y las obligaciones inherentes al matrimonio, que permita al hombre y a la mujer asumirlas con pleno conocimiento, con madurez y responsabilidad. El Estado y los Municipios deberán implementar políticas públicas permanentes que permitan a las personas sensibilizarse respecto a los derechos, deberes y responsabilidades derivadas del matrimonio.
+Toda persona tiene derecho en la elección de su estado de vida; a conocer el alcance de los derechos y las obligaciones inherentes al matrimonio, que permita a los hombres o a las mujeres, asumirlas con pleno conocimiento, con madurez y responsabilidad.
+
+El Estado y los Municipios deberán implementar políticas públicas permanentes que permitan a las personas sensibilizarse respecto a los derechos, deberes y responsabilidades igualitarias derivadas del matrimonio.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 20.
 
-El Estado, a través de las autoridades competentes, establecerá campañas permanentes de información y sensibilización dirigidas a las familias sobre planificación familiar, así como el conocimiento de los métodos naturales de reconocimiento de la fertilidad; los cónyuges decidirán de manera conjunta sobre los mismos.
+El Estado, a través de las autoridades competentes, establecerá campañas permanentes de información y sensibilización dirigidas a las familias sobre salud sexual y reproductiva, así como planificación familiar; las parejas decidirán libremente y de manera conjunta sobre los mismos.
 
 ### CAPÍTULO III
 
@@ -159,11 +189,13 @@ Los padres tienen el derecho originario, primario e inalienable a decidir el tip
 
 El derecho de los padres a educar a sus hijos debe ser tenido en cuenta en todas las formas de colaboración entre padres, maestros y autoridades escolares, y particularmente en las actividades de participación encaminadas a dar a los ciudadanos colaboración efectiva en el funcionamiento de las escuelas y en la formulación y aplicación de la política educativa.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 22.
 
-Los padres tienen el derecho de educar a sus hijos conforme a sus convicciones, teniendo presentes las tradiciones culturales de la familia que favorezcan el bien y la dignidad del hijo; deben recibir también del Estado y la sociedad la ayuda y asistencia necesarias para realizar de modo adecuado su función formadora de ciudadanos.
+Los padres tienen el derecho de educar a sus hijos conforme a sus convicciones, teniendo presentes las tradiciones culturales de la familia que favorezcan el bien y la dignidad de las y los hijos; deben recibir también del Estado y la sociedad la ayuda y asistencia necesarias para realizar de modo adecuado su función formadora de ciudadanos.
 
-La educación sexual debe ser impartida bajo la supervisión de los padres, tanto en el hogar como en la escuela, y debe formar e informar sobre el ejercicio responsable, sano y consciente de la sexualidad.
+La educación sexual debe ser impartida bajo la supervisión de los padres, tanto en el hogar como en la escuela, y debe formar e informar sobre el ejercicio responsable, sano y consciente de la sexualidad. Esta deberá ser impartida libre de cualquier prejuicio o discriminación sobre las preferencias u orientación sexual.
 
 ###### ARTÍCULO 23.
 
@@ -271,11 +303,13 @@ VIII.- Fomentar la realización de eventos académicos y programas educativos co
 
 IX.- Diseñar, proponer y promover a la sociedad, a los Municipios y a las dependencias de (sic) Administración Pública Estatal, programas que, desde una perspectiva de familia, contribuyan a:
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
-a) La Educación y la formación integral de los hijos para que se promuevan y fomenten los valores y principios fundamentales de la familia;
+a) La Educación y la formación integral de los hijos, libre de estereotipos y cualquier tipo de discriminación, que promueva y fomente los valores y principios fundamentales de la familia;
 
-b) La formación de los padres de familia para la educación de sus hijos;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+b) La formación de las madres y los padres de familia para la educación de sus hijos;
 
 c) Propiciar las condiciones de salud de la familia que impulsen el sano desarrollo físico, afectivo, mental y social;
 
@@ -285,13 +319,17 @@ e) Impulsar programas para promover el desarrollo y protección integral de la m
 
 f) Incentivar acciones y programas para promover la conciliación entre la vida familiar y laboral;
 
-g) Propiciar la igualdad de derechos y oportunidades para mujeres y hombres dentro y fuera de la familia;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+g) Propiciar la igualdad de derechos, oportunidades y responsabilidades para mujeres y hombres dentro y fuera de la familia;
 
 h) Integrar a los adultos mayores y a las personas con discapacidad a su familia y a la sociedad;
 
 i) Prevenir y erradicar conductas delictivas y adictivas en el ámbito familiar;
 
-j) Promover los medios alternos de resolución de conflictos familiares, para propiciar la familia como base de la sociedad.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+j) Promover los medios alternos de resolución de conflictos familiares, para propiciar la familia como base de la sociedad, con excepción de los relacionados con violencia familiar;
 
 k) Dar a conocer la responsabilidad y alcances del matrimonio;
 
@@ -323,21 +361,41 @@ XVIII.- Formular y aprobar el reglamento de esta Ley.
 
 El Instituto Estatal de la Familia se integrará por:
 
-I.- El Gobernador del Estado.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-II.- Los integrantes del Patronato del DIF Estatal.
+I.- La persona titular de la Gubernatura del Estado.
 
-III.- El Director del DIF Estatal.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+II.- Las personas integrantes del Patronato del DIF Estatal.
 
-IV.- El Procurador de Protección de Niñas, Niños y Adolescentes del Estado.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-V.- Un representante por cada uno de los Ayuntamientos del Estado.
+III.- La persona a cargo del DIF Estatal.
 
-VI.- Los representantes de las asociaciones u organizaciones ciudadanas constituidas, cuyo objetivo sea la promoción y defensa de la familia y sus valores característicos, determinadas conforme al Reglamento de esta Ley; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-VII.- Las demás que determine el reglamento de esta Ley.
+IV.- La persona a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+V.- La persona que ocupe el Instituto Estatal de la Mujer.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+VI.- La persona titular del Instituto de la Juventud.
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VII.- Una persona representante por cada uno de los Ayuntamientos del Estado.
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VIII.- Las personas representantes de las asociaciones u organizaciones ciudadanas constituidas, cuyo objetivo sea la promoción y defensa de la familia y sus valores característicos, determinadas conforme al Reglamento de esta Ley, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+IX.- Las demás que determine el reglamento de esta Ley.
 
 ###### ARTÍCULO 37.
 
@@ -398,3 +456,9 @@ P.O. 19 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 204 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 7, 21, 31 Y 36 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
