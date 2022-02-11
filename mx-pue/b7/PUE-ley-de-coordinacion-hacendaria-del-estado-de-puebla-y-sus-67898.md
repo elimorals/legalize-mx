@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-coordinacion-hacendaria-del-estado-de-puebla-y-sus-67898
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2020-12-11"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 20 de marzo de 2009.
 
@@ -1219,9 +1219,11 @@ Los programas regionales y subregionales que instrumente el Estado como resultad
 
 El control, supervisión y fiscalización de la administración y ejercicio de las aportaciones federales y demás recursos de naturaleza federal, una vez recibidos por el Estado y los Municipios y hasta su total erogación, se realizará por la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública o la Contraloría Municipal, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 145.
 
-La revisión y fiscalización de las Cuentas Públicas del Estado y de los Municipios será efectuada por el H. Congreso Local a través del Órgano de Fiscalización Superior del Estado, a fin de verificar que las instancias estatales y municipales, aplicaron los recursos de los fondos de aportaciones a los fines previstos en esta Ley.
+La revisión y fiscalización de las Cuentas Públicas del Estado y de los Municipios será efectuada por el H. Congreso Local a través de la Auditoría Superior del Estado, a fin de verificar que las instancias estatales y municipales, aplicaron los recursos de los fondos de aportaciones a los fines previstos en esta Ley.
 
 La instancia fiscalizadora a que se refiere el párrafo anterior, en términos de las disposiciones legales aplicables y los convenios correspondientes, realizará las mismas acciones respecto de los demás recursos federales que hubieren sido transferidos a ambos niveles de gobierno local.
 
@@ -1314,3 +1316,35 @@ P.O. 11 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA; LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL, Y LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO. El Congreso emitirá la declaratoria de inicio de funciones de la Unidad Técnica. Dicha declaratoria tendrá como efecto que los asuntos que se encuentren en trámite ante el Órgano Interno de Control de la Auditoría Superior, se remitan para su atención, desahogo y resolución a la Unidad Técnica.
+
+TERCERO. En un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Comisión ejercerá la facultad a que se refiere el artículo 114 BIS del presente ordenamiento, con respecto al Informe General de la Cuenta Pública del ejercicio fiscal de 2019, remitido por la Auditoría Superior del Estado.
+
+Para el Informe General de la Cuenta Pública del ejercicio fiscal de 2020, se procederá conforme al plazo previsto en el artículo 114 BIS.
+
+CUARTO. El nombramiento de los Magistrados integrantes de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla, se realizará conforme al escalonamiento siguiente:
+
+I. Un integrante para un periodo de nueve años;
+
+II. Un integrante para un periodo de doce años; y
+
+III. Un integrante para un periodo de quince años.
+
+El Gobernador fijará el periodo de encargo en el nombramiento respectivo.
+
+QUINTO. La designación del personal adscrito a la Unidad Técnica se realizará conforme a las normas y procedimientos aplicables para los servidores públicos del Congreso del Estado.
+
+SEXTO. Los procedimientos administrativos y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Auditoría Superior del Estado, o en los que ésta sea parte, continuarán sustanciándose por esta última, hasta su total conclusión, conforme a las disposiciones que se encontraban vigentes al momento de la publicación del presente Decreto.
+
+SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Unidad Técnica, en un plazo de hasta noventa días posterior a la entrada en vigor del presente Decreto.
+
+OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
