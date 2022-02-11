@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2021-08-06"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -556,6 +556,14 @@ e) Los obstáculos para impedir el paso de vehículos deberán estar separados p
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 El área destinada al uso de estacionamiento, no podrá ser reducida en superficie menor al mínimo requerido conforme al reglamento Municipal vigente; así mismo no se permitirá el establecimiento de usos distintos, que disminuyan el área de estacionamiento o que afecten de alguna forma las normas mínimas de seguridad, ubicación de accesos y circulación de vehículos o peatones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2022)</small>
+
+Queda prohibido permitir la entrada a un número mayor de vehículos al establecido por la autoridad correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2022)</small>
+
+El propietario de un estacionamiento cuyo acceso exija al usuario una retribución, debe formular declaración expresa de hacerse responsable de los daños que sufran los vehículos estacionados y bajo su guarda. Para este efecto, el propietario deberá contar con las garantías necesarias y contratar los seguros correspondientes.
 
 ###### ARTICULO 23.
 
@@ -1594,3 +1602,13 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 259 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22, 23 Y 25 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 72 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Ayuntamientos del Estado contaran con un plazo de 120 días naturales a partir de la publicación del Presente Decreto, para realizar las modificaciones a sus reglamentos.
+
+TERCERO. Una vez publicada la presente reforma y modificados que sean los reglamentos correspondientes en cada Municipio, los propietarios de estacionamientos contarán con un plazo de 180 días para realizar los contratos de seguros, así como para la declaración expresa de responsabilidad, ya sea en su boletaje, contrato o anuncio visible dentro del lugar.
