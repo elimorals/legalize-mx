@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-89548"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2015-11-20"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 31 de agosto de 2012.
 
@@ -55,13 +55,17 @@ Corresponde al Estado promover las condiciones para que la libertad y la igualda
 
 Es obligación de todas las autoridades del Estado, en colaboración con los demás entes públicos, garantizar que todas las personas gocen, sin discriminación alguna, de todos los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales firmados y ratificados por los Estados Unidos Mexicanos, en la presente y demás leyes y en general los derechos fundamentales del ser humano.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 5.
 
-Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, orientación sexual, identidad y expresiones de género, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 6.
 
-Para los efectos de esta ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
+Para los efectos de esta ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias, orientación sexual, identidad y expresiones de género, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
 
 Se considera discriminatoria toda ley o acto que, siendo de aplicación idéntica para todas las personas, produzca consecuencias perjudiciales para las personas en situación de vulnerabilidad.
 
@@ -119,7 +123,9 @@ i) Transparencia y acceso a la información.
 
 Corresponde la aplicación de esta ley:
 
-a) Al Gobernador del Estado;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+a) A la persona titular del Poder Ejecutivo;
 
 b) Al Poder Legislativo del Estado;
 
@@ -129,13 +135,15 @@ d) A la Secretaría General de Gobierno;
 
 e) A las Secretarías del Ejecutivo estatal;
 
-f) A la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+f) A la Fiscalía General del Estado;
 
 g) A los Ayuntamientos del Estado;
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
-h) A la Comisión Estatal de los Derechos Humanos; y
+h) A la Comisión Estatal de los Derechos Humanos, y
 
 i) A los Organismos Constitucionalmente Autónomos.
 
@@ -343,9 +351,11 @@ a) Coartar la libertad de profesar la religión que se elija;
 
 b) Limitar el acceso y permanencia en cualquier nivel educativo;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 21.
 
-Ninguna autoridad estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su preferencia ni efectuar, entre otras, las conductas siguientes:
+Ninguna autoridad estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su preferencia, orientación sexual, identidad y expresiones de género, ni efectuar, entre otras, las conductas siguientes:
 
 a) Incitar al odio o a la violencia, al rechazo, a la burla, a la difamación, a la injuria, a la persecución o a la exclusión;
 
@@ -527,31 +537,31 @@ I. Revisar y en su caso corregir las prácticas de las y los funcionados (sic) p
 
 II. Diseñar, implementar y evaluar tanto el programa como las campañas de difusión para la prevención y atención relacionadas con la trata de personas y la explotación sexual que sufran las personas migrantes;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2022)</small>
 
-### CAPÍTULO QUINTO. DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
+### CAPÍTULO QUINTO. DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Comisión Estatal de los Derechos Humanos prevenir toda forma de discriminación e intolerancia y promover las políticas públicas para la igualdad de oportunidades y de trato a favor de todas las personas.
+Corresponde a la Comisión Estatal de los Derechos Humanos de Baja California, prevenir toda forma de discriminación e intolerancia y promover las políticas públicas para la igualdad de oportunidades y de trato a favor de todas las personas.
 
-Los procedimientos para el cumplimiento de la presente ley se ceñirán a los establecidos para la actuación de la Comisión Estatal de los Derechos Humanos, en el ordenamiento que la rige.
+Los procedimientos para el cumplimiento de la presente ley se ceñirán a los establecidos para la actuación de la Comisión Estatal de los Derechos Humanos de Baja California, en el ordenamiento que la rige.
 
-Compete a la Comisión Estatal de los Derechos Humanos integrar y resolver los expedientes de queja o denuncias sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además, la asesoría necesaria y suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
+Compete a la Comisión Estatal de los Derechos Humanos de Baja California, integrar y resolver los expedientes de queja o denuncias sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además, la asesoría necesaria y suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
 
-En caso de que las conductas o prácticas discriminatorias sean imputables a los particulares, personas físicas o morales, la Comisión desplegará su procedimiento de investigación y atención de quejas, con el señalamiento de que el presente ordenamiento es obligatorio para toda persona y no sólo para los órganos públicos, autoridades o servidores públicos. Al efecto, la Comisión podrá concluir el procedimiento con la formulación de la recomendación procedente.
+En caso de que las conductas o prácticas discriminatorias sean imputables a los particulares, personas físicas o morales, la Comisión Estatal de los Derechos Humanos, desplegará su procedimiento de investigación y atención de quejas, con el señalamiento de que el presente ordenamiento es obligatorio para toda persona y no sólo para los órganos públicos, autoridades o servidores públicos. Al efecto, la Comisión Estatal de los Derechos Humanos de Baja California, podrá concluir el procedimiento con la formulación de la recomendación procedente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 31.
 
-La Comisión Estatal de los Derechos Humanos, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y eliminación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre los fenómenos, prácticas y actos discriminatorios.
+La Comisión Estatal de los Derechos Humanos de Baja California, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y eliminación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre los fenómenos, prácticas y actos discriminatorios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE FEBRERO DE 2022)</small>
 
-En particular la Comisión tendrá las siguientes atribuciones en la materia:
+En particular la Comisión Estatal de los Derechos Humanos, tendrá las siguientes atribuciones en la materia:
 
 a) Elaborar, fomentar y difundir estudios sobre prácticas discriminatorias;
 
@@ -565,29 +575,25 @@ e) Tutelar los derechos de las personas o grupos que sufran discriminación, bri
 
 f) Solicitar a cualquier institución pública o a los particulares, la información necesaria para verificar el cumplimiento de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 32.
 
 La Comisión Estatal de los Derechos Humanos proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer.
 
-> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
-
 Siempre que las partes en conflicto manifiesten su conformidad, se procurará la conciliación de intereses.
 
 La conciliación no estará sujeta a formalidad alguna, pudiéndose celebrar mediante convenio.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
-
-En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley de la Comisión Estatal de los Derechos Humanos.
+En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley de la Comisión Estatal de los Derechos Humanos de Baja California.
 
 ### CAPÍTULO SEXTO. DE LAS MEDIDAS ADMINISTRATIVAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 33.
 
-La Comisión Estatal de los Derechos Humanos dispondrá la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
+La Comisión Estatal de los Derechos Humanos de Baja California, dispondrá la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
 
 a) La impartición, a las personas o a las instituciones que sean objeto de una recomendación, de cursos o seminarios que promuevan la igualdad de oportunidades;
 
@@ -617,11 +623,11 @@ c) La reincidencia.
 
 Se entiende que existe reincidencia cuando la misma persona incurra en dos o más violaciones en el transcurso de un año a la prohibición de discriminar. El plazo se contará a partir del día de la publicación de la recomendación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 35.
 
-La Comisión Estatal de los Derechos Humanos podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
+La Comisión Estatal de los Derechos Humanos de Baja California, podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
 
 El reconocimiento será otorgado previa solicitud de la organización o la institución interesada.
 
@@ -660,3 +666,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
