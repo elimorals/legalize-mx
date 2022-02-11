@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2021-08-13"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -57,43 +55,45 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 La presente Ley es de orden e interés público y tiene por objeto regular la organización, atribuciones y funcionamiento del Poder Legislativo del Estado, de conformidad con lo establecido por la Constitución Política del Estado Libre y Soberano de Puebla.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 2.
 
-Para efectos de la presente Ley se entenderá como:
+Para los efectos de la presente Ley se entenderá como:
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+I.- Año Legislativo: Se computa del quince de septiembre al catorce de septiembre del año siguiente;
 
-I.- Año Legislativo: El periodo comprendido entre el quince de septiembre y el catorce de septiembre del año siguiente;
+II.- Auditoría Superior del Estado de Puebla: Órgano especializado del Congreso del Estado encargado de la función de fiscalización, con autonomía técnica y de gestión en el ejercicio de sus atribuciones;
 
-II.- Comisión: El Órgano Colegiado integrado por los Diputados que el Pleno designe que contribuye a que el Congreso cumpla con sus atribuciones constitucionales y legales, a través de la elaboración de dictámenes, informes y resoluciones;
+III.- Comisión: El Órgano Colegiado integrado por los Diputados que el Pleno designe que contribuye a que el Congreso cumpla con sus atribuciones constitucionales y legales, a través de la elaboración de dictámenes, informes y resoluciones;
 
-III.- Comité: El Órgano colegiado auxiliar del Congreso distinto de las Comisiones, constituido para realizar tareas específicas y de apoyo a los Órganos Legislativos;
+IV.- Comité: El Órgano colegiado auxiliar del Congreso distinto de las Comisiones, constituido para realizar tareas específicas y de apoyo a los Órganos Legislativos;
 
-IV.- Convocatoria: El acto por virtud del cual se cita por escrito o medio electrónico por los Órganos facultados del Congreso del Estado, con el objeto de realizar una sesión o reunión;
+V.- Convocatoria: El acto por virtud del cual se cita por escrito o medio electrónico por los Órganos facultados del Congreso del Estado, con el objeto de realizar una sesión o reunión;
 
-V.- Dieta: La remuneración económica e irrenunciable por el desempeño de las funciones del cargo de Diputado;
+VI.- Dieta: La remuneración económica e irrenunciable por el desempeño de las funciones del cargo de Diputado;
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+VII.- Gaceta Legislativa: La publicación a través de la cual se difunden las resoluciones, comunicaciones, actividades y demás documentos que guardan relación con el Congreso;
 
-VI.- Gaceta Legislativa: La publicación a través de la cual se difunden las resoluciones, comunicaciones, actividades y demás documentos que guardan relación con el Congreso;
+VIII.- IILFS "Gilberto Bosques Saldívar": Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas "Gilberto Bosques Saldívar";
 
-VII.- Iniciativa: El acto jurídico por el cual da inicio el proceso legislativo;
+IX.- Iniciativa: El acto jurídico por el cual da inicio el proceso legislativo;
 
-VIII.- Legislatura: El periodo constitucional durante el cual funciona el Congreso contados a partir de su instalación;
+X.- Legislatura: El periodo constitucional durante el cual funciona el Congreso contados a partir de su instalación;
 
-IX.- Licencia: La autorización concedida por el Congreso del Estado, a la solicitud presentada por un Diputado para separarse del ejercicio de su cargo;
+XI.- Licencia: La autorización concedida por el Congreso del Estado, a la solicitud presentada por un Diputado para separarse del ejercicio de su cargo;
 
-X.- Mayoría absoluta: El resultado de la suma de votos que representa, cuando menos, la mitad más uno de los presentes;
+XII.- Mayoría absoluta: El resultado de la suma de votos que representa, cuando menos, la mitad más uno de los presentes;
 
-XI.- Mayoría calificada: El resultado de la suma de votos que representa, cuando menos, las dos terceras partes de los presentes;
+XIII.- Mayoría calificada: El resultado de la suma de votos que representa, cuando menos, las dos terceras partes de los presentes;
 
-XII.- Mayoría relativa: El resultado de la suma de Diputados o votos que representa cuando menos la cantidad superior frente a cualquier otra;
+XIV.- Mayoría relativa: El resultado de la suma de Diputados o votos que representa cuando menos la cantidad superior frente a cualquier otra;
 
-XIII.- Minuta: La resolución que contiene una Ley o Decreto que es enviado por una Comisión para su discusión y en su caso aprobación por el Pleno;
+XV.- Minuta: La resolución que contiene una Ley o Decreto que es enviado por una Comisión para su discusión y en su caso aprobación por el Pleno;
 
-XIV.- Orden del Día: El listado de asuntos que presentan los Órganos Legislativos, para ser tratados en una sesión o reunión;
+XVI.- Orden del Día: El listado de asuntos que presentan los Órganos Legislativos, para ser tratados en una sesión o reunión;
 
-XV.- Órganos del Congreso:
+XVII.- Órganos del Congreso:
 
 a) Órgano de Representación: Los Grupos y Representaciones Legislativas conformados de acuerdo a la presente Ley.
 
@@ -101,53 +101,27 @@ b) Órgano Legislativo: El Cuerpo Colegiado conformado por Legisladores, designa
 
 c) Órgano Técnico Administrativo: El área del Congreso que cumple funciones de carácter específico y de dirección administrativa, dependiente de los Órganos Legislativos.
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+XVIII.- Paridad de Género: Principio Constitucional que tiene como finalidad la igualdad sustantiva entre mujeres y hombres, que supone que los derechos de las Diputadas y los Diputados se ejerzan en condiciones de igualdad, libres de discriminación y violencia;
 
-XVI.- Auditoría Superior del Estado de Puebla: Unidad de Fiscalización, Control y Evaluación a que se refiere el artículo 113 de la Constitución Política del Estado Libre y Soberano de Puebla y 112 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
+XIX.- Permiso: La autorización de un Órgano Legislativo del Congreso del Estado para que alguno de sus integrantes pueda retirarse de una sesión o reunión;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+XX.- Pleno: Es la Asamblea de Diputados y máxima autoridad del Poder Legislativo;
 
-XVII.- Paridad de Género: Principio Constitucional que tiene como finalidad la igualdad sustantiva entre mujeres y hombres, que supone que los derechos de las Diputadas y los Diputados se ejerzan en condiciones de igualdad, libres de discriminación y violencia.
+XXI.- Punto de Acuerdo: La determinación institucional que el Congreso asume respecto a un asunto que no sean Leyes o Decretos;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+XXII.- Quórum: El número de Diputados requerido para que los Órganos Legislativos puedan iniciar y desarrollar sus sesiones;
 
-XVIII.- Permiso: La autorización de un Órgano Legislativo del Congreso del Estado para que alguno de sus integrantes pueda retirarse de una sesión o reunión;
+XXIII.- Sesión: La reunión formal presencial o virtual, a través del uso de las tecnologías de la información y la comunicación, del Pleno o de los Órganos Legislativos, para desahogar el orden del día;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+XXIV.- Suplencia: El mecanismo para poder ejercer a las funciones del cargo de Diputado;
 
-XIX.- Pleno: Es la Asamblea de Diputados y máxima autoridad del Poder Legislativo;
+XXV.- Turno: La determinación que dicta la Presidencia de la Mesa Directiva o de la Comisión Permanente, durante la sesión, para enviar los asuntos a la instancia respectiva, con el fin de darles el curso legal correspondiente;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+XXVI.- Unidad Técnica: Unidad de apoyo de la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado encargada de apoyar en el control, vigilancia y evaluación del desempeño de la Auditoría Superior del Estado;
 
-XX.- Punto de Acuerdo: La determinación institucional que el Congreso asume respecto a un asunto que no sean Leyes o Decretos;
+XXVII.- Vacante: La declaración hecha por el Congreso sobre la situación de ausencia definitiva en el ejercicio del cargo de Diputado propietario y/o suplente; y
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
-
-XXI.- Quórum: El número de Diputados requerido para que los Órganos Legislativos puedan iniciar y desarrollar sus sesiones;
-
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2020)</small>
-
-XXII.- Sesión: La reunión formal presencial o virtual, a través del uso de las tecnologías de la información y la comunicación, del Pleno o de los Órganos Legislativos, para desahogar el orden del día;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
-
-XXIII.- Suplencia: El mecanismo para poder ejercer a las funciones del cargo de Diputado;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
-
-XXIV.- Turno: La determinación que dicta el Presidente de la Mesa Directiva o de la Comisión Permanente, durante la sesión, para enviar los asuntos a la instancia respectiva, con el fin de darles el curso legal correspondiente;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
-
-XXV.- Vacante: La declaración hecha por el Congreso sobre la situación de ausencia definitiva en el ejercicio del cargo de Diputado propietario y/o suplente;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
-
-XXVI.- Voto Particular: Es un punto de vista que disiente del dictamen en lo general, o de uno o varios artículos en lo particular. Puede presentarse por uno o más integrantes de la Comisión correspondiente; y
-
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2019)</small>
-
-XXVII.- IILFS "Gilberto Bosques Saldívar": Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas "Gilberto Bosques Saldívar".
+XXVIII.- Voto Particular: Es un punto de vista que disiente del dictamen en lo general, o de uno o varios artículos en lo particular. Puede presentarse por uno o más integrantes de la Comisión correspondiente.
 
 ###### ARTÍCULO 3.
 
@@ -1155,13 +1129,15 @@ VIII.- Coordinar las tareas políticas y administrativas de la Legislatura, que 
 
 IX.- Establecer las políticas, lineamientos y estrategias de comunicación social del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-X.- Someter a consideración y acuerdo del Pleno, los nombramientos o remociones de los Titulares de la Secretaría General del Congreso del Estado, de la Auditoría Superior del Estado de Puebla, del Órgano Interno de Control, así como del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, otorgándoles para el efecto el nombramiento respectivo; las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables.
+X.- Someter a consideración y acuerdo del Pleno, los nombramientos o remociones de los Titulares de la Secretaría General del Congreso del Estado, de la persona Titular de la Auditoría Superior del Estado de Puebla, del Órgano Interno de Control, así como del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, otorgándoles para el efecto el nombramiento respectivo; las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+En caso de que se someta a consideración y acuerdo del Pleno la remoción de la persona Titular de la Auditoría Superior del Estado de Puebla, se deberá seguir el procedimiento especial previsto en esta Ley de conformidad con la Constitución Política del Estado Libre y Soberano del Estado de Puebla;
 
-XI.- Nombrar y remover a los Directores Generales dependientes de la Secretaría General del Congreso, quienes otorgarán la protesta de Ley ante la propia Junta de Gobierno y Coordinación Política, y cuyos nombramientos serán expedidos por el Presidente de la misma; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, así como a los de las Unidades, correspondientes, tomando en cuenta para ello lo dispuesto por la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XI.- Nombrar y remover a las personas Titulares de las Direcciones Generales dependientes de la Secretaría General del Congreso, quienes otorgarán la protesta de Ley ante la propia Junta de Gobierno y Coordinación Política, y cuyos nombramientos serán expedidos por el Presidente de la misma; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, así como a los de las Unidades, correspondientes, tomando en cuenta para ello lo dispuesto por la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
 
 XII.- Proponer para su aprobación en el Pleno, el Proyecto de Presupuesto Anual del Congreso, conforme lo dispone la ley de la materia;
 
@@ -1435,9 +1411,9 @@ XIII.- Igualdad de Género;
 
 XIV.- Pueblos Indígenas;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-XV.- Inspectora de la Auditoría Superior del Estado;
+XV.- Control, Vigilancia y Evaluación de la Auditoría Superior del Estado;
 
 XVI.- Seguridad Pública;
 
@@ -2099,21 +2075,25 @@ El Congreso del Estado podrá celebrar convenios de coordinación o colaboració
 
 ### CAPÍTULO II. DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 199.
 
-La Auditoría Superior del Estado de Puebla, es la unidad de fiscalización, control y evaluación gubernamental dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en términos de la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla y demás disposiciones aplicables.
+La Auditoría Superior del Estado de Puebla es el órgano especializado del Congreso del Estado encargado de la función de fiscalización, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en términos de la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla y demás disposiciones aplicables.
 
-El Congreso del Estado, a través de la Comisión Inspectora de la Auditoría Superior del Estado, llevará a cabo la supervisión, coordinación y evaluación de la Auditoría Superior del Estado de Puebla.
+El Congreso del Estado, a través de la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado, llevará a cabo la supervisión, coordinación, control, disciplina, vigilancia y evaluación del desempeño de la Auditoría Superior del Estado de Puebla. Para el ejercicio de su función, dicha Comisión contará con el apoyo de su Unidad Técnica.
 
-El Auditor Superior del Estado de Puebla, será nombrado conforme al procedimiento establecido por la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla.
+La persona Titular de la Auditoría Superior del Estado de Puebla, será nombrada conforme al procedimiento establecido por la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+Sin perjuicio de lo dispuesto en el Título Noveno de la Constitución Política del Estado Libre y Soberano de Puebla, la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior dictaminará sobre la existencia de los motivos de la remoción de la persona Titular de la Auditoría Superior del Estado por las causas graves establecidas en la Constitución Política del Estado Libre y Soberano de Puebla, y deberá dar derecho de audiencia al mismo. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.
+
+La remoción causará efectos inmediatos y se deberá proceder en los mismos términos al nombramiento de la persona Titular de la Auditor (sic) Superior para un nuevo período.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 200.
 
-La Auditoría Superior del Estado de Puebla, tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, el Reglamento Interior de la misma Auditoría Superior del Estado y demás disposiciones aplicables.
+La Auditoría Superior del Estado de Puebla, tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Puebla, el Reglamento Interior de la misma Auditoría Superior del Estado y demás disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2019)</small>
 
@@ -2159,7 +2139,9 @@ VIII.- Recibir y dar seguimiento a las quejas y denuncias por presuntas Faltas A
 
 IX.- Iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa, cuando se traten de actos u omisiones calificados como Faltas Administrativas no Graves;
 
-X.- Iniciar, substanciar y remitir al Tribunal de Justicia Administrativa del Estado, los autos originales del expediente para la continuación del procedimiento y su resolución por dicho Tribunal, cuando se traten de Faltas Administrativas Graves de servidores públicos adscritos a los órganos técnicos administrativos o de Particulares por conductas sancionables en términos de la Ley estatal y general de en (sic) la materia;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+X.- Iniciar, substanciar y remitir a la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado, los autos originales del expediente para la continuación del procedimiento y su resolución por dicho Tribunal, cuando se traten de Faltas Administrativas Graves de servidores públicos adscritos a los órganos técnicos administrativos o de Particulares por conductas sancionables en términos de la Ley estatal y general de la materia;
 
 XI.- Recibir y vigilar la entrega de las declaraciones patrimoniales de los Diputados y demás servidores públicos del Congreso del Estado, conforme a la Ley de la materia y en su caso, requerir información adicional, dar seguimiento a su evolución y turnar para la práctica de las investigaciones correspondientes que permitan identificar la existencia o no de presuntas infracciones;
 
@@ -2417,15 +2399,15 @@ La Unidad para la Igualdad de Género será supervisada en el cumplimiento de su
 
 ### CAPÍTULO I. DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 217.
 
-La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, de los Ayuntamientos y de los demás sujetos obligados, establecidos en la fracción XXIII del artículo 2 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, es facultad del Congreso del Estado, la cual ejecuta a través de la Auditoría Superior del Estado de Puebla.
+La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, de los Ayuntamientos y de los demás sujetos obligados, establecidos en la fracción XXI del artículo 4 de la Ley de Rendición de Cuentas y Fiscalización para el Estado de Puebla, es facultad del Congreso del Estado, la cual ejecuta a través de la Auditoría Superior del Estado de Puebla.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE FEBRERO DE 2022)</small>
 
-La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, se realiza de acuerdo con lo establecido en la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla y de conformidad con lo siguiente:
+La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, se realiza de acuerdo con lo establecido en la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Rendición de Cuentas y Fiscalización para el Estado de Puebla y de conformidad con lo siguiente:
 
 I.- El Congreso del Estado en el segundo periodo de sesiones, examinará, revisará, calificará y en su caso, aprobará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por los Titulares del Ejecutivo y del Legislativo ante el Congreso del Estado antes del inicio de este periodo.
 
@@ -2994,3 +2976,19 @@ P.O. 13 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 2, LAS FRACCIONES X Y XI DEL 100, LA FRACCIÓN XV DEL 123, EL 199, EL 200, LA FRACCIÓN X DEL 202, Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL 217, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado estará conformada por los mismos integrantes de la Comisión Inspectora de la Auditoria Superior del Estado, de conformidad con la modificación a la denominación materia del presente Decreto.
+
+CUARTO. Los asuntos presentados, turnados o que se encuentran en trámite en la Comisión Inspectora de la Auditoria Superior del Estado, pasarán para su análisis, estudio y resolución procedente a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
+
+QUINTO. Todos los actos legales o administrativos suscritos por la Comisión Inspectora de la Auditoria Superior del Estado y por su Presidente a la entrada en vigor del presente Decreto, así como sus efectos, se entenderán referidos a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
+
+SEXTO. Las referencias que cualquier ordenamiento haga a la Comisión Inspectora de la Auditoria Superior del Estado, se entenderán aplicables a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
