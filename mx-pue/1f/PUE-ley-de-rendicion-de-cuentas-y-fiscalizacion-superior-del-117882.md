@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-117882
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2020-10-02"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Trigésima Primera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -51,41 +51,43 @@ LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. DE LAS GENERALIDADES
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, de interés social, reglamentaria de los artículos 113 y 114 de la Constitución Política del Estado Libre y Soberano de Puebla, y tiene por objeto normar:
+La presente Ley es de orden público y tiene por objeto reglamentar los artículos 113 y 114 de la Constitución Política del Estado Libre y Soberano de Puebla en materia de fiscalización superior y revisión de:
 
-I. La fiscalización superior y revisión de:
+I. La Cuenta Pública del Estado y la correspondiente a cada Municipio;
 
-a) La Cuenta Pública del Estado y la correspondiente a cada Municipio;
+II. Las situaciones irregulares que se denuncien en términos de esta Ley, respecto al ejercicio fiscal en curso o a ejercicios anteriores distintos al de la Cuenta Pública en revisión; sin perjuicio de las revisiones preventivas que conforme a esta Ley procedan;
 
-b) Las situaciones irregulares que se denuncien en términos de esta Ley, respecto al ejercicio fiscal en curso o a ejercicios anteriores distintos al de la Cuenta Pública en revisión; sin perjuicio de las revisiones preventivas que conforme a esta Ley procedan;
+III. El destino y ejercicio de los recursos provenientes de financiamientos contratados por el Estado y los Municipios;
 
-c) El destino y ejercicio de los recursos provenientes de financiamientos contratados por el Estado y los Municipios;
+IV. La documentación comprobatoria y justificativa, así como cualquier información relacionada con la captación, recaudación, manejo, administración, resguardo, custodia, ejercicio y aplicación de recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, así como los demás que sean de su competencia; y
 
-d) La documentación comprobatoria y justificativa, así como cualquier información relacionada con la captación, recaudación, manejo, administración, resguardo, custodia, ejercicio y aplicación de recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, así como los demás que sean de su competencia; y
+V. El grado de cumplimiento de los objetivos y metas establecidos en los planes, programas y subprogramas.
 
-e) El grado de cumplimiento de los objetivos y metas establecidos en los planes, programas y subprogramas.
+Para efectos de este artículo, la Auditoría Superior del Estado podrá fiscalizar las operaciones que involucren recursos de la hacienda pública estatal o municipal a través de contrataciones, subsidios, transferencias, donativos, fideicomisos, fondos, mandatos, asociaciones público privadas o cualquier otra figura jurídica y el otorgamiento de garantías sobre empréstitos del Estado y los Municipios, entre otras operaciones.
 
-Para efectos de esta fracción, la Auditoría Superior del Estado podrá fiscalizar las operaciones que involucren recursos de la hacienda pública estatal o municipal a través de contrataciones, subsidios, transferencias, donativos, fideicomisos, fondos, mandatos, asociaciones público privadas o cualquier otra figura jurídica y el otorgamiento de garantías sobre empréstitos del Estado y los Municipios, entre otras operaciones; y
-
-II. La organización de la Auditoría Superior del Estado, sus atribuciones, incluyendo aquéllas para conocer, investigar y substanciar la comisión de faltas administrativas que detecte en sus funciones de fiscalización, en términos de esta Ley y de la legislación aplicable en el Estado en materia de responsabilidades administrativas.
+Adicionalmente, la presente Ley establece la organización de la Auditoría Superior del Estado, sus atribuciones, incluyendo aquéllas para conocer, investigar y substanciar la comisión de faltas administrativas que detecte en sus funciones de fiscalización, en términos de esta Ley, de las leyes federales y de la legislación aplicable en el Estado en materia de responsabilidades administrativas, así como su evaluación, control y vigilancia por parte del Congreso del Estado de Puebla.
 
 ###### ARTÍCULO 2.
 
 La fiscalización Superior de las Cuentas Públicas comprende:
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-I. La fiscalización de la gestión financiera de las Entidades Fiscalizadas para comprobar el cumplimiento de las disposiciones que regulan los ingresos, gastos públicos, así como la deuda pública, incluyendo la revisión del manejo, la custodia y la aplicación de recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, y demás información financiera, contable, patrimonial, presupuestaria y programática que la (sic) Entidades Fiscalizadas deban incluir en la Cuenta Pública conforme a las disposiciones aplicables; y, en su caso, la revisión de hechos y evidencias que permitan detectar e investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas.
+I. La fiscalización de la Gestión Financiera de las Entidades Fiscalizadas para comprobar el cumplimiento de las disposiciones que regulan los ingresos, gastos públicos, así como la deuda pública, incluyendo la revisión del manejo, la custodia y la aplicación de recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, y demás información financiera, contable, patrimonial, presupuestaria y programática que la (sic) Entidades Fiscalizadas deban incluir en las Cuentas Públicas conforme a las disposiciones aplicables; y, en su caso, la revisión de hechos y evidencias que permitan detectar e investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas;
 
 II. La práctica de auditorías o evaluaciones sobre el desempeño, para verificar el grado de cumplimiento de los objetivos y metas de los planes, programas y subprogramas estatales y municipales, y
 
 III. Las demás revisiones que establece esta Ley.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 3.
 
-La función de fiscalización superior, se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+La función de fiscalización superior se llevará a cabo conforme a los principios de legalidad, definitividad, imparcialidad, profesionalidad, honradez y confiabilidad.
 
 ###### ARTÍCULO 4.
 
@@ -95,23 +97,33 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Auditoria: proceso sistemático en el que de manera objetiva se obtiene y se evalúan hechos y evidencias para determinar si las acciones llevadas a cabo por las Entidades Fiscalizadas se realizaron de conformidad con la normatividad establecida y con base en principios que aseguren una gestión pública adecuada; y en su caso, detectar o investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas;
 
-II. Auditoría Superior: la unidad de fiscalización, control y evaluación dependiente del Congreso del Estado, a que se refiere el artículo 113, de la Constitución Política del Estado Libre y Soberano de Puebla, denominada Auditoría Superior del Estado de Puebla;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+II. Auditoría Superior: el órgano especializado del Congreso del Estado encargado de la función de fiscalización, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, a que se refiere el artículo 113, de la Constitución Política del Estado Libre y Soberano de Puebla;
 
 III. Auditores Externos: los profesionales autorizados por la Auditoría Superior para auxiliar a la misma en las funciones que le competen en términos de esta Ley y conforme a los lineamientos respectivos;
 
-IV. Autonomía de Gestión: la facultad de la Auditoría Superior para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales, financieros y demás que formen parte de su patrimonio, que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución Política del Estado Libre y Soberano de Puebla y en esta Ley;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+IV. Autonomía de Gestión: la facultad de la Auditoría Superior para decidir sobre su organización interna, estructura, funcionamiento y emitir sus resoluciones, así como la administración de sus recursos humanos, materiales, financieros y demás que formen parte de su patrimonio, que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución Política del Estado Libre y Soberano de Puebla y en esta Ley;
 
 V. Autonomía Técnica: la facultad de la Auditoría Superior para decidir sobre la planeación, programación, ejecución, informes y seguimiento en el proceso de la fiscalización superior;
 
-VI. Comisión: la Comisión General del Congreso del Estado que, conforme a la materia de su competencia, le corresponda la coordinación y evaluación de la Auditoría Superior;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VI. Comisión: la Comisión General del Congreso del Estado que, conforme a la materia de su competencia, le corresponda la coordinación, control, vigilancia y evaluación de la Auditoría Superior;
 
 VII. Cuenta Pública: documento que, conforme a la Constitución Política del Estado Libre y Soberano de Puebla, deben presentar el Estado y los Municipios, en términos de lo dispuesto en la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables en la materia;
 
 VIII. Entidades Fiscalizadas: los Sujetos de Revisión a que se refiere esta Ley;
 
-IX. Faltas administrativas graves: las así señaladas en la legislación aplicable en el Estado en materia de responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-X. Faltas administrativas no graves: las así señaladas en la legislación aplicable en el Estado en materia de responsabilidades administrativas;
+IX. Faltas administrativas graves: las así señaladas en la Ley General de Responsabilidades Administrativas y en la legislación aplicable en el Estado en materia de responsabilidades administrativas;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+X. Faltas administrativas no graves: las así señaladas en la Ley General de Responsabilidades Administrativas y en la legislación aplicable en el Estado en materia de responsabilidades administrativas;
 
 XI. Fiscalía Especializada: la Fiscalía Especializada de Combate a la Corrupción de la Fiscalía General del Estado;
 
@@ -127,7 +139,9 @@ XVI. Informe General: el Informe del Resultado a que se refiere el artículo 114
 
 XVII. Informe Individual: el Informe del Resultado a que se refiere el artículo 114 de la Constitución Política del Estado Libre y Soberano de Puebla, correspondiente a las revisiones, auditorías y evaluaciones practicadas a cada una de las Entidades Fiscalizadas, con motivo de la fiscalización superior de la Cuenta Pública respectiva, que deba presentar la Auditoría Superior al Congreso del Estado, por conducto de la Comisión, en términos de esta Ley;
 
-XVIII. Órganos Internos de Control: las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en las Entidades Fiscalizadas, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que les competan en los términos previstos en la legislación aplicable en materia de responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVIII. Órganos Internos de Control: las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en las Entidades Fiscalizadas, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que les competan en los términos previstos en la Ley General de Responsabilidades Administrativas y en la legislación estatal aplicable en materia de responsabilidades administrativas;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -137,23 +151,39 @@ XIX. Revisión preventiva: aquella que se lleva a cabo durante el ejercicio fisc
 
 XX. Servidores Públicos: los señalados en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Puebla y en la legislación aplicable en materia de responsabilidades administrativas;
 
-XXI. Sujetos de Revisión: los Poderes Legislativo, Ejecutivo y Judicial del Estado, los Ayuntamientos, los organismos constitucionalmente autónomos, las entidades paraestatales y paramunicipales, los organismos públicos desconcentrados, los fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o el Municipio, cualquier fideicomiso privado cuando haya recibido por cualquier título, recursos públicos estatales, municipales y demás que competa fiscalizar o revisar a la Auditoría Superior, no obstante que sean o no considerados entidad paraestatal o paramunicipal por la legislación de la materia y aun cuando pertenezca al sector privado o social; y, en general, cualquier entidad, persona física o jurídica, pública o privada, mandato, fondo u otra figura jurídica análoga y demás que haya captado, recaudado, manejado, administrado, controlado, resguardado, custodiado, ejercido o aplicado recursos, fondos, bienes o valores públicos estatales, municipales, y cualquier otro que competa fiscalizar o revisar a la Auditoría Superior, tanto en el país como en el extranjero, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXI. Sujetos de Revisión: los Poderes Legislativo, Ejecutivo y Judicial del Estado, los Ayuntamientos, los organismos constitucionalmente autónomos, las entidades paraestatales y paramunicipales, los organismos públicos desconcentrados, los fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o el Municipio, cualquier fideicomiso privado cuando haya recibido por cualquier título, recursos públicos estatales, municipales y demás que competa fiscalizar o revisar a la Auditoría Superior, no obstante que sean o no considerados entidad paraestatal o paramunicipal por la legislación de la materia y aun cuando pertenezca al sector privado o social; y, en general, cualquier entidad, persona física o jurídica, pública o privada, mandato, fondo u otra figura jurídica análoga y demás que haya captado, recaudado, manejado, administrado, controlado, resguardado, custodiado, ejercido o aplicado recursos, fondos, bienes o valores públicos estatales, municipales, y cualquier otro que competa fiscalizar o revisar a la Auditoría Superior, tanto en el país como en el extranjero;
 
 XXII. Tribunal: el Tribunal de Justicia Administrativa del Estado.
 
-Las definiciones previstas en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en la Ley de Presupuesto y Gasto Público del Estado de Puebla, serán aplicables a la presente Ley.
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXIII. Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos, para determinar la cuantía del pago de las obligaciones y los supuestos previstos en las leyes;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXIV. Unidad Técnica: la unidad de la Comisión, responsable de apoyar en el control, vigilancia y evaluación del desempeño de la Auditoría Superior.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Las definiciones previstas en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en la Ley de Presupuesto y Gasto Público Responsable del Estado de Puebla, serán aplicables a la presente Ley.
 
 ###### ARTÍCULO 5.
 
 Los Informes a que se refieren las fracciones XV, XVI y XVII del artículo anterior, serán publicados en la página de internet de la Auditoría Superior, en formatos abiertos conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública y la correspondiente del Estado, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 6.
 
-La fiscalización superior de la Cuenta Pública se lleva a cabo de manera posterior al término de cada ejercicio fiscal; tiene carácter externo y, por tanto, se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control y sin perjuicio de las facultades de revisión preventiva de la Auditoría Superior establecidas en la Constitución Política del Estado Libre y Soberano de Puebla y en esta Ley.
+La fiscalización superior de la Cuenta Pública se lleva a cabo de manera posterior al término de cada ejercicio fiscal; tiene carácter externo y, por tanto, se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control y sin perjuicio de las facultades de Revisión preventiva de la Auditoría Superior establecidas en la Constitución Política del Estado Libre y Soberano de Puebla y en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 7.
 
-A falta de disposición expresa o insuficiente en esta Ley, se aplicará en forma supletoria y en lo conducente, la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Coordinación Fiscal; Ley de Presupuesto y Gasto Público del Estado de Puebla; la Ley del Sistema Anticorrupción del Estado de Puebla; el ordenamiento aplicable en el Estado en materia de responsabilidades administrativas; el ordenamiento aplicable en el Estado en materia de justicia administrativa; las Leyes de Ingresos y de Egresos del Estado del ejercicio fiscal que corresponda a los recursos en revisión; las Leyes de Ingresos y Presupuestos de Egresos de los Municipios del ejercicio fiscal que corresponda a los recursos en revisión; el Código Fiscal del Estado de Puebla, las disposiciones del derecho común sustantivo y procesal del Estado.
+A falta de disposición expresa o insuficiente en esta Ley, se aplicará en forma supletoria y en lo conducente, la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Coordinación Fiscal; la Ley de Presupuesto y Gasto Público Responsable del Estado de Puebla; la Ley del Sistema Anticorrupción del Estado de Puebla; el ordenamiento aplicable en el Estado en materia de responsabilidades administrativas; el ordenamiento aplicable en el Estado en materia de justicia administrativa; las Leyes de Ingresos y de Egresos del Estado del ejercicio fiscal que corresponda a los recursos en revisión; las Leyes de Ingresos y Presupuestos de Egresos de los Municipios del ejercicio fiscal que corresponda a los recursos en revisión; el Código Fiscal del Estado de Puebla, las disposiciones del derecho común sustantivo y procesal del Estado.
 
 La Auditoría Superior será la instancia facultada para interpretar las disposiciones de esta Ley, en el ámbito administrativo.
 
@@ -187,7 +217,9 @@ Cuando la Auditoría Superior, además de imponer la medida de apremio respectiv
 
 Las multas establecidas en esta Ley se fijarán en cantidad líquida por la Auditoría Superior y deberán pagarse dentro de los diez días hábiles siguientes a que surta efectos su notificación, mediante depósito o transferencia a la cuenta bancaria correspondiente a nombre de la Auditoría Superior y en ningún caso deberán ser cubiertas con recursos públicos.
 
-En caso de que las multas no sean pagadas dentro del plazo señalado en el párrafo anterior, una vez que sean definitivas y queden firmes, tendrán el carácter de créditos fiscales y su cobro se realizará por conducto de la Secretaría de Finanzas y Administración del Estado, en términos del Código Fiscal del Estado y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+En caso de que las multas no sean pagadas dentro del plazo señalado en el párrafo anterior, una vez que sean definitivas y queden firmes, tendrán el carácter de créditos fiscales y su cobro se realizará por conducto de la Secretaría de Planeación y Finanzas del Estado, en términos del Código Fiscal del Estado y demás disposiciones aplicables.
 
 Para imponer la multa que corresponda, la Auditoría Superior debe tener en cuenta las condiciones económicas del infractor, la gravedad del incumplimiento y en su caso, elementos atenuantes, el nivel jerárquico, la reincidencia y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
 
@@ -355,11 +387,17 @@ La Fiscalización Superior se realizará por el Congreso del Estado a través de
 
 La Fiscalización Superior tiene por objeto:
 
-I. Revisar la Cuenta Pública del Estado y la correspondiente a cada Municipio para determinar los resultados de la gestión financiera, verificar si se ajustaron a los criterios señalados en los presupuestos, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de las metas y objetivos contenidos en los planes, programas y subprogramas;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-II. Evaluar los resultados de la gestión financiera:
+I. Revisar la Cuenta Pública del Estado y la correspondiente a cada Municipio para determinar los resultados de la Gestión Financiera, verificar si se ajustaron a los criterios señalados en los presupuestos, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de las metas y objetivos contenidos en los planes, programas y subprogramas;
 
-a) La ejecución de las Leyes de Ingresos y de egresos, así como el ejercicio de los presupuestos de egresos para verificar la forma y términos en que los ingresos fueron recaudados, obtenidos, captados y administrados; constatar que los recursos provenientes de financiamientos y otras obligaciones y empréstitos se contrataron, recibieron y aplicaron de conformidad con lo aprobado; y revisar que los egresos se ejercieron en los conceptos y partidas autorizados, incluidos, entre otros aspectos, la contratación de servicios y obra pública, las adquisiciones, arrendamientos, subsidios, aportaciones, donativos, transferencias, aportaciones a fondos, fideicomisos y demás instrumentos financieros, así como cualquier esquema o instrumento de pago;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE FEBRERO DE 2022)</small>
+
+II. Evaluar los resultados de la Gestión Financiera:
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+a) La ejecución de las Leyes de Ingresos y de Egresos, así como el ejercicio de los presupuestos de egresos para verificar la forma y términos en que los ingresos fueron recaudados, obtenidos, captados y administrados; constatar que los recursos provenientes de financiamientos y otras obligaciones y empréstitos se contrataron, recibieron y aplicaron de conformidad con lo aprobado; y revisar que los egresos se ejercieron en los conceptos y partidas autorizados, incluidos, entre otros aspectos, la contratación de servicios y obra pública, las adquisiciones, arrendamientos, subsidios, aportaciones, donativos, transferencias, aportaciones a fondos, fideicomisos y demás instrumentos financieros, así como cualquier esquema o instrumento de pago;
 
 b) Si se cumplieron las disposiciones jurídicas y administrativas aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos; recursos materiales, y demás normatividad aplicable al ejercicio del gasto público;
 
@@ -375,7 +413,9 @@ d) Verificar, respecto de las Leyes de Ingresos y de Egresos del Estado, así co
 
 III. Verificar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas para comprobar:
 
-a) Que en la administración de recursos públicos se haya atendido a los principios de eficacia, eficiencia, economía, transparencia y honradez;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+a) Que en la administración de recursos públicos se haya atendido a los principios de legalidad, imparcialidad, profesionalismo, eficacia, eficiencia, economía, transparencia y honradez;
 
 b) Que se alcanzaron las metas de los indicadores aprobados y si dicho cumplimiento tiene relación con el Plan de Desarrollo correspondiente;
 
@@ -383,7 +423,9 @@ c) Que se cumplieron los objetivos de los programas y las metas de gasto. Y aque
 
 d) La existencia de mecanismos de control interno;
 
-IV. Promover las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus revisiones, auditorías e investigaciones, así como dar vista a las autoridades competentes cuando detecte la comisión de faltas administrativas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+IV. Promover las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus revisiones, auditorías e investigaciones, ante la Sala Especializada en materia de responsabilidades administrativas y la Fiscalía Especializada de Combate a la Corrupción, así como dar vista a las autoridades competentes cuando detecte la comisión de faltas administrativas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan, y
 
 V. Realizar las demás revisiones, auditorías y verificaciones, que conforme a las disposiciones aplicables correspondan a la Auditoría Superior.
 
@@ -417,7 +459,9 @@ VIII. Proponer a las instancias correspondientes, modificaciones a los principio
 
 IX. Practicar auditorías y evaluaciones sobre el desempeño que permitan verificar el cumplimiento de los objetivos y metas contenidos en los planes, programas, subprogramas y presupuestos estatales, municipales, y demás que le competan, considerando los indicadores en ellos establecidos, y en su caso, los que para la Fiscalización Superior establezca la Auditoría Superior;
 
-X. Verificar si la gestión financiera de las Entidades Fiscalizadas, se efectuó conforme a las disposiciones aplicables en materia de sistema de registro y contabilidad gubernamental, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, inventarios, demás activos, pasivos y hacienda pública o patrimonio;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+X. Verificar si la Gestión Financiera de las Entidades Fiscalizadas, se efectuó conforme a las disposiciones aplicables en materia de sistema de registro y contabilidad gubernamental, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, inventarios, demás activos, pasivos y hacienda pública o patrimonio;
 
 XI. Verificar que las Entidades Fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
@@ -431,7 +475,9 @@ XV. Requerir a los Auditores Externos que presenten originales y copias de sus p
 
 XVI. Requerir a terceros que hubieran contratado con las Entidades Fiscalizadas obras e inversiones públicas, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratadas por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos a efecto de realizar las compulsas correspondientes;
 
-XVII. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVII. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos, que a juicio de la Auditoría Superior sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
 a) Las Entidades Fiscalizadas;
 
@@ -443,7 +489,9 @@ d) Instituciones de crédito, fideicomisos u otras figuras del sector financiero
 
 e) Autoridades hacendarias locales y, en su caso, federales.
 
-La Auditoría Superior tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos y demás recursos que formen parte de la Hacienda Pública estatal o municipal, así como la deuda pública de las Entidades Fiscalizadas, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, por el Titular de la Auditoría Superior y los Auditores Especiales de la misma.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+La Auditoría Superior tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos y demás recursos que formen parte de la Hacienda Pública estatal o municipal, así como la deuda pública de las Entidades Fiscalizadas, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, por la persona Titular de la Auditoría Superior y los auditores especiales de la misma.
 
 Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior información de carácter reservado o confidencial en términos de Ley, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
@@ -455,17 +503,23 @@ XIX. Fiscalizar los recursos públicos estatales, municipales y demás que compe
 
 XX. Fiscalizar los subsidios, transferencias, ayudas, donativos y apoyos que las Entidades Fiscalizadas hayan otorgado con cargo a su presupuesto a particulares y en general, a cualquier entidad pública o privada, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
-XXI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad, ilícito, o comisión de faltas administrativas, en los términos establecidos en esta Ley y la aplicable en materia de responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad, ilícito, o comisión de faltas administrativas, en los términos establecidos en esta Ley, la Ley General de Responsabilidades Administrativas y en la legislación estatal aplicable en materia de responsabilidades administrativas;
 
 XXII. Efectuar visitas domiciliarias, para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos necesarios para la realización de sus investigaciones y compulsas, sujetándose al procedimiento previsto en esta Ley y a las formalidades prescritas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las Entidades Fiscalizadas, necesarias para conocer directamente del ejercicio de sus funciones;
 
 XXIII. Formular y emitir recomendaciones, solicitudes de aclaración, pliegos de observaciones, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, informes de presunta responsabilidad administrativa, denuncias de hechos y de juicio político ante las autoridades competentes;
 
-XXIV. Promover las responsabilidades administrativas, para lo cual la unidad administrativa a cargo de las investigaciones de la Auditoría Superior tratándose de faltas administrativas graves, presentará el informe de presunta responsabilidad administrativa correspondiente, ante la unidad substanciadora de la misma Auditoría Superior, para que ésta, de considerarlo procedente, turne y presente el expediente, ante el Tribunal o, en el caso de las no graves, dará vista al órgano interno de control competente para que continúe la investigación respectiva y, en su caso, promueva la imposición de las sanciones que procedan;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXIV. Promover las responsabilidades administrativas, para lo cual la unidad administrativa a cargo de las investigaciones de la Auditoría Superior tratándose de faltas administrativas graves, presentará el informe de presunta responsabilidad administrativa correspondiente, ante la unidad substanciadora de la misma Auditoría Superior, para que ésta, de considerarlo procedente, turne y presente el expediente, ante la Sala Especializada en materia de responsabilidades administrativas del Tribunal o, en el caso de las no graves, dará vista al órgano interno de control competente para que continúe la investigación respectiva y, en su caso, promueva la imposición de las sanciones que procedan;
 
 XXV. Presentar denuncias y querellas penales ante las autoridades competentes para la imposición de sanciones a servidores públicos estatales y municipales, así como a los particulares a que se refiere el artículo 125 de la Constitución Política del Estado Libre y Soberano de Puebla, y dar seguimiento a las mismas;
 
-XXVI. Recurrir, a través de la unidad administrativa competente de la Auditoría Superior, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXVI. Recurrir, a través de la unidad administrativa competente de la Auditoría Superior, las determinaciones de la Sala Especializada en materia de responsabilidades administrativas del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
 
 XXVII. Conocer y resolver sobre las solicitudes para cancelar o dejar sin efectos las multas impuestas como medidas de apremio en términos de esta Ley;
 
@@ -611,15 +665,19 @@ Una vez que la Auditoría Superior valore las justificaciones, aclaraciones y de
 
 En caso de que la Auditoría Superior considere que las Entidades Fiscalizadas no aportaron elementos suficientes para atender las observaciones preliminares correspondientes, deberá incluir en el apartado específico de los informes individuales o de los Específicos, una síntesis de las justificaciones, aclaraciones y demás información presentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 42.
 
-La Auditoría Superior podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales, municipales y demás de su competencia en términos de las disposiciones aplicables. Las observaciones y recomendaciones que la Auditoría Superior emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+La Auditoría Superior podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la revisión de la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto de egresos fiscalizado comprenda diversos ejercicios fiscales para su ejecución o pago o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales, municipales y demás de su competencia en términos de las disposiciones aplicables. Las observaciones y recomendaciones que, respectivamente, emita la Auditoría Superior, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
 Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la unidad administrativa competente de la Auditoría Superior para que, en su caso, se proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 43.
 
-La Auditoría Superior tendrá acceso a contratos, convenios, documentos, datos, libros, archivos y documentación justificativa y comprobatoria relativa al ingreso, gasto público y cumplimiento de los objetivos de los programas de los entes públicos, así como a la demás información que resulte necesaria para la revisión y Fiscalización Superior.
+La Auditoría Superior tendrá acceso a contratos, convenios, documentos, datos, libros, archivos y documentación justificativa y comprobatoria relativa al ingreso, gasto público y cumplimiento de los objetivos de los programas de los entes públicos, así como a la demás información que resulte necesaria para la revisión y Fiscalización Superior, en términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -755,7 +813,9 @@ V. Entregar en los términos y plazos que dispongan los Lineamientos que emita l
 
 VI. Apegarse y cumplir con su programa de auditoría;
 
-VII. Verificar que las Entidades Fiscalizadas cumplan con las disposiciones legales, reglamentarias y administrativas aplicables; y observen principios de eficiencia, eficacia, economía, transparencia y honradez en todas sus operaciones, así como en sus registros contables y presupuestales para el logro de sus objetivos;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VII. Verificar que las Entidades Fiscalizadas cumplan con las disposiciones legales, reglamentarias y administrativas aplicables; y observen principios de eficiencia, eficacia, economía, transparencia, legalidad, imparcialidad, profesionalismo y honradez en todas sus operaciones, así como en sus registros contables y presupuestales para el logro de sus objetivos;
 
 VIII. Dar vista al Órgano Interno de Control de la Entidad Fiscalizada de las probables irregularidades detectadas en el ejercicio de sus funciones, para que procedan conforme a las disposiciones legales aplicables, debiendo informar a la Auditoría Superior del cumplimiento de esta obligación;
 
@@ -853,15 +913,21 @@ II. Tratándose de los pliegos de observaciones, determinará en cantidad líqui
 
 III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
 
-IV. Con base en el informe de presunta responsabilidad administrativa, la Auditoría Superior promoverá la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-En caso de que la Auditoría Superior determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública estatal o municipal o al patrimonio de las Entidades Fiscalizadas, que deriven de faltas administrativas no graves, procederá en los términos de la legislación aplicable en materia de responsabilidades administrativas;
+IV. Con base en el informe de presunta responsabilidad administrativa, la Auditoría Superior promoverá ante la Sala Especializada en materia de responsabilidades administrativas del Tribunal la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
 
-V. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la legislación aplicable en materia de responsabilidades administrativas;
+En caso de que la Auditoría Superior determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública estatal o municipal o al patrimonio de las Entidades Fiscalizadas, que deriven de faltas administrativas no graves, procederá en los términos de la Ley General de Responsabilidades Administrativas y la legislación estatal aplicable en materia de responsabilidades administrativas;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+V. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley General de Responsabilidades Administrativas y la legislación estatal aplicable en materia de responsabilidades administrativas;
 
 VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos, y
 
-VII. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso del Estado la presunción de actos u omisiones de los servidores públicos a que se refieren los artículos 125, fracción II, 126 y 127 de la Constitución Política del Estado Libre y Soberano de Puebla, a efecto de que se substancie el procedimiento y resuelva lo conducente.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VII. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso del Estado la presunción de actos u omisiones de los servidores públicos a que se refieren los artículos 125, fracción II y 126 de la Constitución Política del Estado Libre y Soberano de Puebla, a efecto de que se substancie el procedimiento y resuelva lo conducente.
 
 ###### ARTÍCULO 64.
 
@@ -875,9 +941,11 @@ La información, documentación o consideraciones aportadas por las Entidades Fi
 
 Dentro de los 30 días hábiles siguientes a la conclusión del plazo a que se refiere el artículo que antecede, la Auditoría Superior enviará al Congreso del Estado un reporte final sobre las recomendaciones correspondientes a la Cuenta Pública respectiva, detallando la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 66.
 
-La Auditoría Superior, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal, así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante el Congreso del Estado, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente, en los términos de esta Ley.
+La Auditoría Superior, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante la Sala Especializada en materia de responsabilidades administrativas del Tribunal, así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante el Congreso del Estado, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente, en los términos de esta Ley.
 
 ### CAPÍTULO VIII. DE LA CONCLUSIÓN DE LA FISCALIZACIÓN DE LA CUENTA PÚBLICA
 
@@ -885,9 +953,11 @@ La Auditoría Superior, podrá promover, en cualquier momento en que cuente con 
 
 El Congreso del Estado por conducto de la Comisión, realizará un análisis de los Informes Individuales, en su caso, de los Informes Específicos, y del Informe General correspondiente, con el propósito de aportar las sugerencias que juzgue convenientes y las que haya hecho la Auditoría Superior, para modificar disposiciones legales que tengan por objeto mejorar la gestión financiera y el desempeño de las Entidades Fiscalizadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 68.
 
-En aquellos casos en que la Comisión considere necesario aclarar o profundizar el contenido del Informe General correspondiente, podrá solicitar a la Auditoría Superior las explicaciones pertinentes, sin que ello implique la reapertura del Informe General.
+En aquellos casos en que la Comisión, o la Unidad Técnica a través de ésta, considere necesario aclarar o profundizar el contenido del Informe General correspondiente, podrá solicitar a la Auditoría Superior las explicaciones pertinentes, sin que ello implique la reapertura del Informe General.
 
 La Comisión someterá al Pleno del Congreso del Estado el dictamen del Informe correspondiente dentro de los ocho meses siguientes a la presentación del mismo.
 
@@ -917,7 +987,9 @@ Sin perjuicio de lo dispuesto en el artículo anterior, la Auditoría Superior p
 
 Cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación, custodia irregular o desvío de recursos públicos estatales o municipales y demás que competa fiscalizar a la Auditoría Superior, en los supuestos previstos en esta Ley.
 
-En estos casos, la Auditoría Superior, previa autorización de su Titular, podrá revisar la gestión financiera de las Entidades Fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales anteriores al de la Cuenta Pública en revisión.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+En estos casos, la Auditoría Superior, previa autorización de su Titular, podrá revisar la Gestión Financiera de las Entidades Fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales anteriores al de la Cuenta Pública en revisión, en los términos de esta Ley.
 
 Las denuncias podrán presentarse al Congreso del Estado, a la Comisión o directamente a la Auditoría Superior.
 
@@ -961,7 +1033,9 @@ Tratándose de la conclusión de la gestión de los periodos previstos en la Con
 
 En el supuesto señalado en el párrafo anterior, la Auditoría Superior podrá realizar revisiones preventivas, en cuyo caso emitirá un Informe Específico que entregará al Congreso del Estado, por conducto de la Comisión.
 
-Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley, la Ley General de Responsabilidades Administrativas y demás legislación estatal aplicable.
 
 ###### ARTÍCULO 77.
 
@@ -975,9 +1049,11 @@ Para la realización de las auditorías y revisiones a que se refiere este Capí
 
 Los Informes Específicos tendrán el carácter de públicos, y se mantendrán en la página de internet de la Auditoría Superior, en formatos abiertos conforme a lo establecido en la legislación aplicable en materia de transparencia y acceso a la información pública.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 80.
 
-Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la legislación aplicable en materia de responsabilidades administrativas procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
+Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la Ley General de Responsabilidades Administrativas y la legislación estatal aplicable en materia de responsabilidades administrativas procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
 
 ## TÍTULO QUINTO. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS Y DE LA PROMOCIÓN PARA EL FINCAMIENTO DE RESPONSABILIDADES
 
@@ -987,11 +1063,15 @@ Lo dispuesto en el presente Capítulo, no excluye la imposición de las sancione
 
 Si de la fiscalización, revisión o investigaciones realizadas, se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, la Auditoría Superior procederá a:
 
-I. Promover ante el Tribunal, la imposición de sanciones a los servidores públicos por las faltas administrativas graves en que incurran, así como a los particulares vinculados con dichas faltas;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+I. Promover ante la Sala Especializada en materia de responsabilidades administrativas del Tribunal, la imposición de sanciones a los servidores públicos por las faltas administrativas graves en que incurran, así como a los particulares vinculados con dichas faltas;
 
 II. Dar vista a los órganos internos de control competentes, cuando detecte posibles responsabilidades administrativas no graves.
 
-En caso de que la Auditoría Superior determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública estatal o municipal o al patrimonio de las Entidades Fiscalizadas, que deriven de faltas administrativas no graves, procederá en los términos de la legislación aplicable en materia de responsabilidades administrativas;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+En caso de que la Auditoría Superior determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública estatal o municipal o al patrimonio de las Entidades Fiscalizadas, que deriven de faltas administrativas no graves, procederá en los términos de la Ley General de Responsabilidades Administrativas y la legislación estatal aplicable en materia de responsabilidades administrativas;
 
 III. Presentar las denuncias y querellas penales, que correspondan ante la Fiscalía Especializada, por los probables delitos que se detecten derivado de sus auditorías, revisiones o investigaciones;
 
@@ -1005,15 +1085,21 @@ V. Presentar ante el Congreso del Estado las denuncias de juicio político que, 
 
 Las denuncias penales de hechos presuntamente ilícitos y las denuncias de juicio político, deberán presentarse por la Auditoría Superior cuando se cuente con los elementos que establezcan las leyes en dichas materias.
 
-Las resoluciones del Tribunal podrán ser recurridas por la Auditoría Superior, cuando lo considere pertinente, en términos de lo dispuesto por la legislación aplicable.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Las resoluciones de la Sala Especializada en materia de responsabilidades administrativas del Tribunal podrán ser recurridas por la Auditoría Superior, en términos de lo dispuesto por la legislación aplicable.
 
 ###### ARTÍCULO 82.
 
 La promoción del procedimiento a que se refiere la fracción I del artículo anterior, tienen por objeto resarcir el monto de los daños y perjuicios estimables en dinero que se hayan causado a la Hacienda Pública estatal y municipal o, en su caso, al patrimonio de las Entidades Fiscalizadas.
 
-Lo anterior, sin perjuicio de las demás sanciones administrativas que, en su caso, el Tribunal imponga a los responsables.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
-Las sanciones que imponga el Tribunal se fincarán independientemente de las demás sanciones a que se refiere el artículo anterior que, en su caso, impongan las autoridades competentes.
+Lo anterior, sin perjuicio de las demás sanciones administrativas que, en su caso, la Sala Especializada en materia de responsabilidades administrativas del Tribunal imponga a los responsables.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Las sanciones que imponga la Sala Especializada en materia de responsabilidades administrativas del Tribunal se fincarán independientemente de las demás sanciones a que se refiere el artículo anterior que, en su caso, impongan las autoridades competentes.
 
 ###### ARTÍCULO 83.
 
@@ -1029,13 +1115,17 @@ La unidad administrativa a cargo de las investigaciones de la Auditoría Superio
 
 Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
 
-El procedimiento para promover el informe de presunta responsabilidad administrativa y la imposición de sanciones por parte del Tribunal, se regirá por lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+El procedimiento para promover el informe de presunta responsabilidad administrativa y la imposición de sanciones por parte de la Sala Especializada en materia de responsabilidades administrativas del Tribunal, se regirá por lo dispuesto en la Ley General de Responsabilidades Administrativas y en la legislación estatal aplicable en materia de responsabilidades administrativas.
 
 ###### ARTÍCULO 86.
 
 La unidad administrativa de la Auditoría Superior a la que se le encomiende la substanciación, deberá ser distinta de la que se encargue de las labores de investigación.
 
-Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior de la Auditoría Superior, deberá prever como parte de su estructura orgánica, a la unidad administrativa a cargo de las investigaciones que será la encargada de ejercer las facultades que en materia de responsabilidades administrativas le confiere la legislación aplicable a las autoridades investigadoras; así como a la unidad que ejercerá las atribuciones que la citada legislación otorga a las autoridades substanciadoras.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior de la Auditoría Superior, deberá prever como parte de su estructura orgánica, a la unidad administrativa a cargo de las investigaciones que será la encargada de ejercer las facultades que en materia de responsabilidades administrativas le confiere la Ley General de Responsabilidades Administrativas y la legislación estatal aplicable a las autoridades investigadoras; así como a la unidad que ejercerá las atribuciones que la citada legislación otorga a las autoridades substanciadoras.
 
 ###### ARTÍCULO 87.
 
@@ -1343,9 +1433,11 @@ Las responsabilidades distintas a las mencionadas en el artículo anterior, que 
 
 ### CAPÍTULO ÚNICO. DE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 114.
 
-El Congreso del Estado ejercerá la coordinación y evaluación de la Auditoría Superior a través de la Comisión, la que tendrá las atribuciones siguientes:
+El Congreso del Estado ejercerá la coordinación, control, vigilancia y evaluación del desempeño de la Auditoría Superior a través de la Comisión y de su Unidad Técnica. La Comisión tendrá las atribuciones siguientes:
 
 I. Ser el conducto de comunicación y coordinación entre el Congreso del Estado y la Auditoría Superior;
 
@@ -1371,17 +1463,55 @@ X. Contar con los servicios de apoyo técnico o asesoría que solicite y apruebe
 
 XI. Invitar a la sociedad civil organizada a que participe como observadores o testigos sociales en las sesiones ordinarias de la Comisión;
 
-XII. Promover la realización de ejercicios de contraloría social en los que se articule a la población con los entes fiscalizados, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-XIII. Las demás que deriven de esta Ley, el Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, y demás disposiciones aplicables.
+XII. Promover la realización de ejercicios de contraloría social en los que se articule a la población con los entes fiscalizados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XIII. Ejercer el control, evaluación y vigilancia del desempeño de la Auditoría Superior respecto al cumplimiento de su mandato, atribuciones y ejecución de las auditorías.
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XIV. Proponer al Pleno del Congreso del Estado al Titular de la Unidad Técnica y los recursos materiales, humanos y presupuestarios con los que debe contar la misma;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XV. Proponer al Pleno del Congreso del Estado el reglamento interior de la Unidad Técnica;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVI. Aprobar el programa de actividades de la Unidad Técnica y requerirle todo tipo de información relativa a sus funciones; de igual forma, aprobar políticas, lineamientos y manuales que la Unidad Técnica requiera para el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVII. Ordenar a la Unidad Técnica la práctica de auditorías a la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVIII. Aprobar los indicadores que utilizará la Unidad Técnica para el control, evaluación y vigilancia del desempeño de la Auditoría Superior y, en su caso, los elementos metodológicos que sean necesarios para dicho efecto y los indicadores de la Unidad Técnica;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XIX. Conocer el Reglamento Interior de la Auditoría Superior; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XX. Las demás que deriven de esta Ley, el Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 114 BIS. La Comisión presentará directamente a la Auditoría Superior un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el 30 de mayo del año en que presente el Informe General. La Auditoría Superior dará cuenta de su atención al presentar el Informe General del ejercicio siguiente.
 
 ## TÍTULO SÉPTIMO. DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN Y ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 115.
 
-Al frente de la Auditoría Superior habrá un Titular denominado Auditor Superior del Estado que será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que se derive de la convocatoria que emita para tal efecto, el Órgano de Gobierno del propio Congreso.
+Al frente de la Auditoría Superior habrá una persona Titular de la Auditoría Superior del Estado que será electa por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que se derive de la convocatoria que emita para tal efecto, el Órgano de Gobierno del propio Congreso, debiendo contar los aspirantes con experiencia comprobable de, al menos, cinco años en materia de fiscalización, auditoría, responsabilidades, control interno, evaluación del desempeño u otros equivalentes.
 
 ###### ARTÍCULO 116.
 
@@ -1401,13 +1531,17 @@ V. El Pleno del Congreso del Estado elegirá, de entre los integrantes de la ter
 
 En caso de que ningún candidato de la terna propuesta para ocupar el cargo de Titular de la Auditoría Superior, haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso del Estado, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato de la terna propuesta que hubiere sido rechazada por el Pleno del Congreso del Estado podrá participar de nueva cuenta en el proceso de selección.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 118.
 
-El Auditor Superior será nombrado por un periodo de siete años; pudiendo ser ratificado en términos de lo dispuesto en la presente Ley.
+La persona Titular de la Auditoría Superior será nombrada por un periodo de siete años. Podrá ser ratificada por una sola vez para un periodo igual en términos de lo dispuesto en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 119.
 
-El Auditor Superior podrá ser ratificado por una sola vez para un periodo igual, sin necesidad de emitir convocatoria.
+En caso de que la persona Titular de la Auditoría Superior sea ratificada por el Órgano de Gobierno del Congreso del Estado, no será necesario emitir convocatoria.
 
 Para este caso, tres meses antes de concluir el primer periodo del Auditor Superior, el Órgano de Gobierno del Congreso del Estado, analizará su ratificación y someterá a consideración del Pleno del Congreso el acuerdo respectivo, a efecto de que éste resuelva por el voto de las dos terceras partes de sus miembros presentes, sobre la procedencia de la ratificación.
 
@@ -1425,15 +1559,21 @@ Si la falta definitiva del Auditor Superior sucede durante alguno de los recesos
 
 Para ser Titular de la Auditoría Superior, se requiere cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos, originario del Estado de Puebla, o tener la calidad de poblano, o contar con residencia mínima de cinco años anteriores a la fecha de su nombramiento;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años cumplidos al día de su elección;
 
 III. Gozar de buena reputación y no haber sido condenado por delito intencional o inhabilitado en cualquiera de las esferas de gobierno. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro delito que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-IV. No haber sido, durante los tres años anteriores a su nombramiento, Gobernador del Estado, titular de dependencias o entidades del Poder Ejecutivo Federal o del Estado, Senador, Diputado Federal o Local, Ministro, Magistrado o Juez del Poder Judicial Federal o del Estado, Presidente Municipal o dirigente de partido político alguno, ni haber sido postulado para cargo de elección popular durante el año previo al día de su nombramiento;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-V. Contar al momento de su nombramiento con experiencia de al menos cinco años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria, evaluación del gasto público, del desempeño y de políticas públicas, administración financiera, o manejo de recursos o responsabilidades administrativas;
+IV. No haber sido, durante los tres años anteriores a su nombramiento, Gobernador del Estado, titular de alguna dependencia o entidad del gobierno federal o local, con excepción de los órganos responsables del control interno, Senador, Diputado Federal o Local, Ministro, Magistrado o Juez del Poder Judicial Federal o del Estado, Presidente Municipal o dirigente de partido político alguno, ni haber sido postulado para cualquier cargo de elección popular durante el año previo al día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+V. Contar al momento de su nombramiento con experiencia comprobable de, al menos, cinco años en actividades o funciones en materia de fiscalización, auditoría, responsabilidades, control interno, evaluación del desempeño u otros equivalentes;
 
 VI. Poseer al día de su elección, título con antigüedad mínima de cinco años y cédula profesional como contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización expedidos por autoridad o institución legalmente facultada para ello; y
 
@@ -1505,7 +1645,9 @@ d) Marco metodológico; y
 
 e) Marco de actuación, integrado por ejes, objetivos y estrategias.
 
-XXVI. Recurrir cuando lo estime procedente, los actos y resoluciones que emita el Tribunal, así como las determinaciones de la Fiscalía Especializada, de conformidad con lo establecido en las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XXVI. Recurrir cuando lo estime procedente, los actos y resoluciones que emita la Sala Especializada en materia de responsabilidades administrativas del Tribunal, así como las determinaciones de la Fiscalía Especializada, de conformidad con lo establecido en las disposiciones aplicables;
 
 XXVII. Dar seguimiento a las denuncias, quejas, solicitudes, y opiniones recibidas de los particulares o la sociedad civil organizada, salvaguardando en todo momento las obligaciones de transparencia y reserva que deba cumplir;
 
@@ -1547,17 +1689,25 @@ El Titular de la Auditoría Superior podrá adscribir orgánicamente las unidade
 
 Los acuerdos en los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 124.
 
-El Titular de la Auditoría Superior durante el ejercicio de su cargo, tendrá prohibido:
+La persona Titular de la Auditoría Superior durante el ejercicio de su cargo, tendrá prohibido:
 
 I. Formar parte de partido político alguno; y
 
-II. Desempeñar otro empleo, cargo o comisión en los sectores público, privado o social, salvo los no remunerados en asociaciones científicas, profesionales, docentes, artísticas, de beneficencia, así como en Colegios de Profesionales y aquéllos que no le representen conflicto de intereses, en términos de las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+II. Desempeñar otro empleo, cargo o comisión; salvo las no remuneradas, docentes, artísticas, de beneficencia y en asociaciones científicas, en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 125.
 
-El Auditor Superior, podrá ser removido exclusivamente, por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado Libre y Soberano de Puebla.
+La persona Titular de la Auditoría Superior podrá ser removida, exclusivamente, por causa grave, con la misma votación requerida para su nombramiento y a través del procedimiento especial que prevea la Ley del Congreso, así como en términos de lo previsto por el Título Noveno de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+La remoción causará efectos inmediatos y se deberá proceder en los mismos términos al nombramiento del nuevo Auditor Superior para un nuevo período.
 
 ###### ARTÍCULO 126.
 
@@ -1617,25 +1767,117 @@ VII. Las demás que deriven de la Constitución Política del Estado Libre y Sob
 
 Para todos los efectos, la relación jurídica de trabajo, se entiende establecida entre la Auditoría Superior, a través de su Titular y los trabajadores al servicio de la misma.
 
-### CAPÍTULO II. DEL CONTROL INTERNO Y LA INTEGRIDAD EN LA AUDITORÍA SUPERIOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2022)</small>
+
+### CAPÍTULO II. DE LA VIGILANCIA DE LA AUDITORÍA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 132.
 
-La Auditoría Superior contará con un órgano interno de control dentro de su estructura administrativa.
+La Comisión, con apoyo de la Unidad Técnica, vigilará que la persona Titular de la Auditoría Superior y demás servidores públicos de la Auditoría Superior del Estado en el desempeño de sus funciones, se sujeten a lo establecido en la Ley General de Responsabilidades Administrativas y a las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 133.
 
-El órgano interno de control tendrá las atribuciones que para tal efecto se establezcan en el Reglamento Interior de la Auditoría Superior y las que le correspondan en términos de la legislación aplicable en el Estado en materia de responsabilidades administrativas.
+Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones existirá la Unidad Técnica, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos de la Auditoría Superior, la cual formará parte de la estructura de la Comisión.
+
+La Unidad Técnica, en el caso de los servidores públicos de la Auditoría Superior, podrá imponer las sanciones administrativas no graves previstas en la Ley General de Responsabilidades Administrativas, tratándose de faltas graves en términos de dicha ley, promover la imposición de sanciones ante la Sala Especializada en materia de responsabilidades administrativas, por lo que contará con todas las facultades que dicha Ley otorga a las autoridades investigadoras y substanciadoras.
+
+Se deberá garantizar la estricta separación de las unidades administrativas adscritas a la Unidad Técnica, encargadas de investigar y substanciar los procedimientos administrativos sancionadores en términos de la Ley General de Responsabilidades Administrativas. Asimismo, podrá proporcionar apoyo técnico a la Comisión en la evaluación del desempeño de la Auditoría Superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 134.
 
-El órgano interno de control, en el caso de los servidores públicos de la Auditoría Superior, podrá imponer sanciones por faltas administrativas no graves previstas en la Ley de la materia; tratándose de faltas administrativas graves, promoverá la imposición de sanciones ante el Tribunal correspondiente, por lo que contará con todas las facultades que la misma Ley otorga a las autoridades investigadoras y substanciadoras.
+La Unidad Técnica tendrá las siguientes atribuciones:
+
+I. Vigilar que los servidores públicos de la Auditoría Superior se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
+
+II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior, así como la debida aplicación de los recursos a cargo de ésta, con base en el programa anual de trabajo que aprueba la Comisión;
+
+III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del Auditor Superior y demás servidores públicos de la Auditoría Superior, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley General de Responsabilidades Administrativas;
+
+IV. Conocer, tramitar y resolver el recurso que interpongan los servidores públicos sancionados por faltas no graves conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas;
+
+V. Realizar la defensa jurídica de las resoluciones que se emitan ante las diversas instancias jurisdiccionales e interponer los medios de defensa que procedan en contra de las resoluciones emitidas por la Sala Especializada, cuando la Unidad Técnica sea parte en esos procedimientos;
+
+VI. Participar en los actos de entrega recepción de los servidores públicos de mando superior de la Auditoría Superior;
+
+VII. A instancia de la Comisión, presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría Superior;
+
+VIII. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos a la Auditoría Superior;
+
+IX. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe General, los informes individuales y demás documentos que le envíe la Auditoría Superior;
+
+X. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad Técnica y los que utilice para evaluar a la Auditoría Superior, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad Técnica como la Comisión;
+
+XI. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones;
+
+XII. Atender prioritariamente las denuncias de responsabilidad administrativa;
+
+XIII. Participar en las sesiones de la Comisión para brindar apoyo técnico y especializado;
+
+XIV. Emitir opinión a la Comisión respecto del proyecto de lineamientos y directrices que deberán observar las entidades locales para la fiscalización de las participaciones federales propuesto por el Auditor Superior, y
+
+XV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+Las Entidades Fiscalizadas tendrán la facultad de formular queja ante la Unidad Técnica sobre los actos u omisiones del Titular de la Auditoría Superior que pudieran contravenir las disposiciones de esta Ley, en cuyo caso la Unidad Técnica sustanciará la investigación preliminar por vía especial, para determinar si ha lugar a iniciar el procedimiento de remoción especial previsto en la Constitución Política del Estado Libre y Soberano de Puebla, previa aprobación de la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 135.
 
-La Auditoría Superior establecerá una política de integridad que tenga por objeto promover el actuar honesto, ético y profesional en el ejercicio de las atribuciones de los servidores públicos adscritos a la misma.
+La persona Titular de la Unidad Técnica deberá cumplir con los requisitos que esta Ley establece para el Titular de la Auditoría Superior y será designado por el Congreso, mediante votación de dos terceras partes de los miembros presentes en la sesión respectiva. Lo anterior, se realizará conforme a los procedimientos y en los plazos que fije el Congreso.
+
+La persona Titular de la Unidad Técnica durará en su encargo cuatro años y podrá desempeñar nuevamente el cargo por un mismo período.
+
+El titular de la Unidad Técnica será removido libremente por el Congreso, mediante votación de dos terceras partes de los miembros presentes en la sesión respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 136.
+
+La persona Titular de la Unidad Técnica será responsable administrativamente ante la Comisión y el propio Congreso, al cual deberá rendir un informe anual de su gestión, con independencia de que pueda ser citado extraordinariamente por éste, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+###### ARTÍCULO 137.
+
+Son atribuciones de la persona Titular de la Unidad:
+
+I. Planear y programar auditorías a las diversas áreas que integran la Auditoría Superior;
+
+II. Requerir a las unidades administrativas de la Auditoría Superior la información necesaria para cumplir con sus atribuciones;
+
+III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad Técnica, así como representar a la misma, y
+
+IV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+###### ARTÍCULO 138.
+
+Para el ejercicio de las atribuciones que tiene conferidas la Unidad Técnica, contará con los servidores públicos, las unidades administrativas y los recursos económicos que a propuesta de la Comisión apruebe el Congreso y se determinen en el presupuesto de la misma.
+
+El reglamento de la Unidad Técnica que expida el Congreso establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+###### ARTÍCULO 139.
+
+Los servidores públicos de la Unidad Técnica serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 11 DE FEBRERO DE 2022)</small>
+
+###### ARTÍCULO 140.
+
+La Auditoría Superior establecerá una política de integridad que tenga por objeto promover el actuar honesto, ético y profesional en el ejercicio de las atribuciones de los servidores públicos adscritos a la misma.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 11 DE FEBRERO DE 2022)</small>
+
+###### ARTÍCULO 141.
 
 Los servidores públicos de la Auditoría Superior que lleven a cabo funciones de auditoría, suscribirán de manera individual al inicio de cada ejercicio fiscal, una declaración de no conflicto de intereses para el ejercicio de sus funciones y atribuciones.
 
@@ -1694,3 +1936,35 @@ PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil ve
 SEGUNDO. La Auditoría Superior del Estado, en ejercicio de la autonomía técnica y de gestión que la Constitución Política del Estado Libre y Soberano de Puebla le reconoce, deberá realizar las modificaciones reglamentarias necesarias, normando las facultades, funciones y atribuciones; así como diseñando los procedimientos institucionales de la unidad administrativa cuya encomienda dé cumplimiento al presente Decreto. Por tanto, la Auditoría Superior del Estado deberá asignar los recursos humanos, materiales y financieros suficientes, sin perjuicio al principio de austeridad, para dichos efectos.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA; LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA; LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL, Y LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO. El Congreso emitirá la declaratoria de inicio de funciones de la Unidad Técnica. Dicha declaratoria tendrá como efecto que los asuntos que se encuentren en trámite ante el Órgano Interno de Control de la Auditoría Superior, se remitan para su atención, desahogo y resolución a la Unidad Técnica.
+
+TERCERO. En un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Comisión ejercerá la facultad a que se refiere el artículo 114 BIS del presente ordenamiento, con respecto al Informe General de la Cuenta Pública del ejercicio fiscal de 2019, remitido por la Auditoría Superior del Estado.
+
+Para el Informe General de la Cuenta Pública del ejercicio fiscal de 2020, se procederá conforme al plazo previsto en el artículo 114 BIS.
+
+CUARTO. El nombramiento de los Magistrados integrantes de la Sala Especializada en materia de responsabilidades administrativas del Tribunal de Justicia Administrativa del Estado de Puebla, se realizará conforme al escalonamiento siguiente:
+
+I. Un integrante para un periodo de nueve años;
+
+II. Un integrante para un periodo de doce años; y
+
+III. Un integrante para un periodo de quince años.
+
+El Gobernador fijará el periodo de encargo en el nombramiento respectivo.
+
+QUINTO. La designación del personal adscrito a la Unidad Técnica se realizará conforme a las normas y procedimientos aplicables para los servidores públicos del Congreso del Estado.
+
+SEXTO. Los procedimientos administrativos y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Auditoría Superior del Estado, o en los que ésta sea parte, continuarán sustanciándose por esta última, hasta su total conclusión, conforme a las disposiciones que se encontraban vigentes al momento de la publicación del presente Decreto.
+
+SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Unidad Técnica, en un plazo de hasta noventa días posterior a la entrada en vigor del presente Decreto.
+
+OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
