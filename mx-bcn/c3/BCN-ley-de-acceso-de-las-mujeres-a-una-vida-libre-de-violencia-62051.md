@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2021-08-13"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -453,9 +453,17 @@ I. Desocupación por el agresor, del domicilio conyugal o donde habite la vícti
 
 II. Prohibición al probable agresor de acercarse al domicilio, lugar de trabajo o de estudios, al domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
-III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier otro integrante de la familia.
+III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier otro integrante de la familia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+V. Arresto administrativo al agresor, hasta por 36 horas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -485,7 +493,9 @@ I. La suspensión temporal del régimen de visitas y convivencia entre el agreso
 
 II. Prohibición de enajenar o hipotecar bienes propiedad del agresor, cuando se trate del domicilio conyugal y de los bienes de la sociedad conyugal;
 
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio, independientemente de la acreditación de propiedad o posesión del inmueble, aún en casos de arrendamiento;
 
 IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimentarias, y
 
@@ -769,11 +779,11 @@ Corresponderá a la Secretaría del Trabajo y Previsión Social el formular y ej
 
 Corresponderá a la Secretaría de Salud el implementar en la política de salud del estado, los principios de equidad y no discriminación entre mujeres y hombres, favoreciendo la prevención de la violencia de género, garantizando que en todas sus dependencias, cuando se trate de la atención a las víctimas, se aplique la NOM 190-SSA1-1999: Prestación de servicios de salud; Criterios para la atención médica de violencia familiar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 42.
 
-Corresponde a la Fiscalía General del Estado:
+Corresponderá a la Fiscalía General del Estado:
 
 I. Diseñar la política en materia de procuración de justicia para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -1178,3 +1188,9 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo del Estado dentro de los noventa días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias correspondientes.
 
 TERCERO. Dentro de los ciento veinte días naturales contados a partir de la entrada en vigor de la presente reforma el Ejecutivo del Estado, realizará las acciones administración y de coordinación necesarias para que inicie en operación el Registro Público de las Personas Agresoras Sexuales del Estado de Baja California.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
