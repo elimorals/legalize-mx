@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2021-08-06"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -609,11 +609,11 @@ II. Impulsar liderazgos igualitarios, y
 
 III. Establecer fondos para la promoción de la igualdad de género en el trabajo y los procesos productivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 40.
 
-Para los efectos de lo previsto en el artículo anterior, la Secretaría de Desarrollo Económico y la Secretaría del Trabajo y Previsión Social del Estado; así como los Municipios, el sector académico y social en sus diversos ámbitos de competencia, desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, la Secretaría de Economía e Innovación y la Secretaría del Trabajo y Previsión Social del Estado; así como los Municipios, el sector académico y social en sus diversos ámbitos de competencia, desarrollarán las siguientes acciones:
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
@@ -705,9 +705,11 @@ I. Mejorar el conocimiento y la aplicación de la legislación existente en el �
 
 II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 44.
 
-Para los efectos de lo previsto en el artículo anterior, la Secretaría de Desarrollo Social del estado, así como las autoridades competentes de los Municipios desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, la Secretaría de Bienestar del Estado, así como las autoridades competentes de los Municipios desarrollarán las siguientes acciones:
 
 I. Garantizar el seguimiento y la evaluación de la aplicación en los tres órdenes de gobierno, de la legislación existente;
 
@@ -862,3 +864,9 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 262 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA DENOMINACIÓN DE LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO, PARA QUEDAR COMO "LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA”, ASÍ COMO DIVERSAS REFORMAS DE LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO”.]
 
 ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
