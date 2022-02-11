@@ -4,7 +4,7 @@ identifier: "CAM-acuerdo-del-ejecutivo-del-estado-por-el-que-se-crea-el-154730"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-12-23"
-last_updated: "2021-12-23"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DENOMINADO “AUTORIDAD DEL PATRIMONIO CULTURAL DEL ESTADO DE CAMPECHE.”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Número 1586 del Periódico Oficial del Estado de Campeche, el jueves 23 de diciembre de 2021.
 
@@ -77,9 +77,13 @@ III. Junta de Gobierno: A la Junta de Gobierno de la Autoridad del Patrimonio Cu
 
 IV. La o el Director: A la o el Director General de la Autoridad del Patrimonio Cultural del Estado de Campeche;
 
-V. Patrimonio Cultural: El patrimonio cultural o bien cultural constituido por los elementos y manifestaciones materiales, inmateriales y naturales que expresan valores que identifican y caracterizan al Estado de Campeche o a sus Municipios, que hayan recibido una Declaratoria de Inscripción al Patrimonio Cultural, y aquellas que sean reconocidas como tal por la autoridad en la materia y la legislación aplicable; y por su carácter, alineados con la normatividad local, nacional e internacional aplicable, y atendiendo a sus cualidades, significado o contenido conforme a criterios de valor histórico, artístico o tradicional, forman parte del Patrimonio Cultural:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE FEBRERO DE 2022)</small>
 
-A.- El Patrimonio Cultural Inmueble, que incluye sitios arqueológicos, edificios, fachadas, monumentos históricos, zonas territoriales y similares;
+V. Patrimonio Cultural: Los elementos y manifestaciones materiales, intangibles y naturales que expresan valores que identifican y caracterizan al Estado de Campeche o a sus Municipios y aquéllos que cuentan con la Declaratoria de Inscripción al Patrimonio Cultural del Estado correspondiente conforme a la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+A.- El Patrimonio Cultural Inmueble, que incluye inmuebles como edificios, fachadas, zonas territoriales y similares;
 
 B.- El Patrimonio Cultural Mueble, que incluye pintura de caballete, pintura mural, escultura, cerámica, textiles, metal, material etnográfico y similares;
 
@@ -99,9 +103,13 @@ I. Elaborar y mantener actualizado el Registro del Patrimonio Cultural del Estad
 
 II. Conocer y asesorar a las Dependencias y Entidades de las administraciones Federal, Estatal y Municipal, así como a las y los particulares, en lo referente a proyectos de obras que pretendan ejecutarse en bienes culturales.
 
-III. Llevar a cabo las medidas preventivas y correctivas necesarias para proteger y conservar los bienes culturales catalogados protegidos o incluidos en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-IV. Llevar a cabo la identificación, registro, catalogación, preservación, conservación, restauración, rehabilitación y protección de los bienes que componen el patrimonio cultural del Estado, de acuerdo a la normatividad aplicable; así como salvaguardar la información de sus resultados y establecer los mecanismos de coordinación necesarios con las instancias competentes para proteger y conservar tal acervo;
+III. Llevar a cabo las medidas necesarias para proteger y conservar los bienes declarados Patrimonio Cultural del Estado, de conformidad con la legislación aplicable en la materia;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+IV. Por sí o en coordinación con las autoridades federales, estatales y municipales competentes, llevar a cabo la identificación, registro, catalogación, preservación, rehabilitación y, en su caso, restauración, protección y conservación, de los bienes que componen el patrimonio cultural del Estado, esto en estricto respeto al marco jurídico general, federal y estatal aplicable; así como salvaguardar la información de sus resultados;
 
 V. Promover, difundir y proteger los bienes del Estado declarados Patrimonio Cultural de la Nación y de la Humanidad;
 
@@ -131,7 +139,13 @@ XVII. Gestionar la obtención de recursos económicos necesarios, ante organismo
 
 XVIII. Coordinarse con organizaciones de la sociedad civil, universidades e instituciones académicas, nacionales e internacionales, en materia de educación y promoción del patrimonio cultural del Estado; y
 
-XIX. Las demás que deriven del presente Acuerdo y de otras disposiciones aplicables del marco jurídico general y estatal en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XIX. Suscribir con autoridades federales, estatales y municipales instrumentos de colaboración y de coordinación que permitan dar cumplimiento a sus atribuciones, y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XX. Las demás que deriven del presente Acuerdo y de otras disposiciones aplicables del marco jurídico general y estatal en la materia.
 
 ###### Artículo 5.
 
@@ -326,3 +340,13 @@ SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o m
 Dado en la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, a los diecisiete días del mes de diciembre de dos mil veintiuno.
 
 LICDA. LAYDA ELENA SANSORES SAN ROMÁN, GOBERNADORA CONSTITUCIONAL DEL ESTADO DE CAMPECHE.- PROF. ANÍBAL OSTOA ORTEGA, SECRETARIO GENERAL DE GOBIERNO.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE MODIFICA LA FRACCIÓN V DEL ARTÍCULO 3, LAS FRACCIONES III, IV Y XIX DEL ARTÍCULO 4 Y SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 4, TODOS DEL ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DENOMINADO “AUTORIDAD DEL PATRIMONIO CULTURAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones y (sic) reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente Acuerdo.
