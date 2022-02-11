@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12304
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-11"
-last_updated: "2021-05-07"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección I al Número 37 del Periódico Oficial del Estado de Baja California, el viernes 11 de agosto de 2017.
 
@@ -945,19 +945,29 @@ I. Ser el conducto de comunicación entre el Congreso, y la Auditoría Superior 
 
 II. Recibir de la Mesa Directiva del Congreso, los Informes de Avance de Gestión Financiera y las Cuentas Públicas de los Entes Públicos y turnarla a la Auditoría Superior del Estado para su revisión y fiscalización;
 
-III. Presentar al Pleno del Congreso, el análisis de los Informes Individuales, y en su caso, los correspondientes de los Informes Específicos y del Informe General, y sus conclusiones tomando en cuenta las probables opiniones, que en su caso pudieran hacer las otras comisiones del Congreso;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+III. Presentar al Pleno del Congreso, el análisis de los Informes Individuales, con base a los criterios vigentes para dictaminar las cuentas públicas de las entidades fiscalizadas y en su caso, los correspondientes de los Informes Específicos y del Informe General, y sus conclusiones tomando en cuenta las probables opiniones, que en su caso pudieran hacer las otras comisiones del Congreso;
 
 IV. Analizar el programa anual de auditorías de la Cuenta Pública y conocer el programa estratégico y Programa Operativo Anual de actividades que para el debido cumplimiento de sus funciones y atribuciones, elabore la Auditoría Superior del Estado, así como sus modificaciones, y evaluar su cumplimiento.
 
 Con respecto a los procedimientos, alcances, métodos, lineamientos y resoluciones de procedimientos de fiscalización podrá formular observaciones cuando dichos Programas omitan áreas relevantes de la Cuenta Pública;
 
-V. Citar por conducto de la Comisión, al Titular de la Auditoría Superior del Estado, para conocer en lo específico de los Informes Individuales, y del Informe General;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+V. Citar por conducto de su presidente, al Titular de la Auditoría Superior del Estado, para conocer en lo específico de los Informes Individuales, y del Informe General;
 
 VI. Conocer y opinar sobre el proyecto de presupuesto anual de la Auditoría Superior del Estado y turnarlo a la Junta de Coordinación Política del Congreso para su inclusión en el Proyecto de Presupuesto de Egresos del Poder Legislativo para el siguiente ejercicio fiscal, así como sus modificaciones presupuestales y analizar el informe anual de su ejercicio;
 
 VII. Evaluar el desempeño de la Auditoría Superior del Estado respecto al cumplimiento de su mandato, atribuciones y ejecución de las auditorías; proveer lo necesario para garantizar su autonomía técnica y de gestión, y requerir informes sobre la evolución de los trabajos de fiscalización.
 
-La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los Entes Públicos, en los resultados de los Programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+La evaluación del desempeño tendrá por objeto conocer y valorar de forma objetiva si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los Entes Públicos, en los resultados de los Programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2022)</small>
+
+De dicha evaluación, la Comisión podrá proponer las políticas de organización y funcionamiento que deban regular a dicho Órgano en los términos establecidos en la normatividad estatal vigente;
 
 VIII. Proponer las bases y requisitos que deberá contener la convocatoria pública para la designación del titular de la Auditoría Superior del Estado;
 
@@ -965,7 +975,9 @@ IX. Coadyuvar en su caso en la presentación al Congreso de las propuestas de lo
 
 X. Presentar al Congreso la solicitud de remoción del titular de la Auditoría Superior del Estado, en términos del artículo 37 de la Constitución;
 
-XI. Conocer el Reglamento Interior de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+XI. Conocer el Reglamento Interior de la Auditoría Superior del Estado y validar los proyectos de reforma, propuestos por su Titular, en los términos del artículo 66 de la Ley Orgánica del Poder Legislativo del Estado de Baja California;
 
 XII. Analizar la información, en materia de fiscalización superior del Estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos vinculados con los resultados de la fiscalización;
 
@@ -973,9 +985,21 @@ XIII. Invitar a la sociedad civil organizada a que participe como observadores o
 
 XIV. Promover la realización de ejercicios de contraloría social en los que se articule a la población con las Entidades Fiscalizadas;
 
-XV. Citar a los titulares de los Órganos Internos de Control para conocer de los avances de las acciones en relación con las observaciones de los dictámenes de cuenta pública; y,
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-XVI. Las demás que establezcan esta Ley y demás disposiciones legales aplicables.
+XV. Citar a los titulares de los Órganos Internos de Control para conocer de los avances de las acciones en relación con las observaciones de los dictámenes de cuenta pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVI. Generar, modificar y ratificar los criterios para dictaminar las cuentas públicas de las entidades fiscalizadas, dentro de los primeros treinta días naturales siguientes a la instalación de la Comisión, con base a los principios de legalidad, definitividad, imparcialidad y confiabilidad; una vez aprobados se deberá gestionar su difusión y publicación en la Gaceta Parlamentaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVII. Solicitar a la Unidad de Contraloría Interna del Congreso, el inicio de revisiones especiales a las áreas de la Auditoría Superior del Estado, para efectos de vigilancia y evaluación del desempeño; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE FEBRERO DE 2022)</small>
+
+XVIII. Las demás que establezcan esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 87.
 
@@ -1249,15 +1273,21 @@ La Unidad de Contraloría Interna del Congreso, en el caso de los servidores pú
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 108.
 
-La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes correspondientes. Dichas propuestas, solicitudes y denuncias también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley General del Sistema Nacional Anticorrupción y su correlativa en el Estado, debiendo el Auditor Superior del Estado informar a la Comisión, sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
+La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas en los informes individuales y, en su caso, en el Informe General. Dichas propuestas, solicitudes y denuncias también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley General del Sistema Nacional Anticorrupción y su correlativa en el Estado, debiendo el Auditor Superior del Estado informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 109.
 
-La Unidad de Contraloría Interna del Congreso recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado a efecto de participar, aportar y contribuir a mejorar el funcionamiento de sus funciones de fiscalización.
+La Unidad de Contraloría Interna del Congreso recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado a efecto de participar, aportar y contribuir a mejorar la función de fiscalización.
 
-Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido ante la Contraloría, misma que pondrá a disposición de los particulares los formatos correspondientes.
+Las Unidad de Contraloría Interna del Congreso, informará en tiempo y forma a la Comisión, con respecto a la recepción de dichas opiniones, solicitudes y denuncias, en apego a la normatividad vigente.
+
+Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido ante la Unidad de Contraloría Interna del Congreso, misma que pondrá a disposición de los particulares los formatos correspondientes.
 
 ## TÍTULO NOVENO. Del Archivo de la documentación interna de la Auditoría Superior del Estado
 
@@ -1352,3 +1382,9 @@ P.O. 7 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 224 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A LOS ARTÍCULOS 11, 19 Y 94 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
 
 ÚNICO: El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 73 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 86, 108 Y 109 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
