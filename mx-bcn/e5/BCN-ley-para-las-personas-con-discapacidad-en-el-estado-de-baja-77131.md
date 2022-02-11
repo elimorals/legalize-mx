@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2019-02-01"
+last_updated: "2022-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -349,15 +349,23 @@ I. El Ejecutivo del Estado, a través de las dependencias y entidades siguientes
 
 a) Secretaría de Salud;
 
-b) Secretaría de Educación y Bienestar Social;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+b) Secretaría de Educación;
 
 c) Secretaría del Trabajo y Previsión Social;
 
-d) Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
-e) Secretaría de Infraestructura y Desarrollo Urbano;
+d) Secretaría de Economía e Innovación;
 
-f) Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+e) Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+f) Secretaría de Bienestar;
 
 g) Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -371,9 +379,13 @@ j) El Instituto Estatal de Planeación;
 
 k) El Comité de Planeación del Estado;
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>[N. DE E. EL CONTENIDO DEL INCISO L) ES IDÉNTICO AL INCISO M).]</small>
 
-l) Procuraduría de Justicia del Estado; y
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+l) Defensoría Pública del Gobierno del Estado.
+
+> <small>[N. DE E. EL CONTENIDO DEL INCISO M) ES IDÉNTICO AL INCISO L).]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -487,7 +499,7 @@ VI. Promover que en las políticas, programas o acciones, se impulse la toma de 
 
 VII. Prestar servicios de atención a las personas con discapacidad con fundamento en los principios establecidos en la presente Ley.
 
-### CAPÍTULO III. DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL
+### CAPÍTULO III. DE LA SECRETARÍA DE EDUCACIÓN
 
 ###### ARTÍCULO 9.
 
@@ -549,6 +561,8 @@ XIII. Las demás que sean necesarias para el cumplimiento de la presente ley.
 
 Los procesos de prevención, habilitación y rehabilitación de las personas con discapacidad serán en los términos previstos por la Ley de Salud Pública para el Estado de Baja California del y los programas que sean creados para tal efecto.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ### CAPÍTULO IV. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
 ###### ARTÍCULO 11.
@@ -565,7 +579,9 @@ Tratándose de menores de edad con discapacidad, esta educación propiciará su 
 
 Los alumnos que deseen ingresar a instituciones educativas que impartan educación especial, deberán cubrir el perfil de ingreso, el cual debe contar con una evaluación diagnóstica pertinente, estar apegado a los ordenamientos legales correspondientes y que no violente los derechos o discrimine a personas con discapacidad.
 
-Para el fin señalado, la Secretaria de Educación y Bienestar Social deberá otorgar criterios para establecer las condiciones básicas que deben de cumplir las instituciones educativas públicas, ordinarias y especiales para impartir la educación especial. De igual manera debe de otorgar los elementos necesarios para realizar los ajustes razonables en las instalaciones y espacios de dichas instituciones, de acuerdo al diseño universal de accesibilidad así como dotar a su personal de la capacitación y de las herramientas necesarias para atender a los alumnos con requerimientos especiales.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+
+Para el fin señalado, la Secretaría de Educación deberá otorgar criterios para establecer las condiciones básicas que deben de cumplir las instituciones educativas públicas, ordinarias y especiales para impartir la educación especial. De igual manera debe de otorgar los elementos necesarios para realizar los ajustes razonables en las instalaciones y espacios de dichas instituciones, de acuerdo al diseño universal de accesibilidad así como dotar a su personal de la capacitación y de las herramientas necesarias para atender a los alumnos con requerimientos especiales.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -587,15 +603,21 @@ I.- Otorgara estímulos y apoyos a las organizaciones de la sociedad civil debid
 
 II.- Promoverá de conformidad con los lineamientos que establezca la autoridad educativa estatal la participación de la sociedad civil en actividades que tengan por objeto fortalecer y elevar la calidad de la educación así como ampliar la cobertura de los servicios educativos.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 15.
 
-La Secretaría de Educación y Bienestar Social promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, bibliotecas, guarderías o por parte del personal docente o administrativo del Sistema Educativo Estatal. Así mismo difundirá entre la comunidad académica el respeto a la diversidad.
+La Secretaría de Educación promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, bibliotecas, guarderías o por parte del personal docente o administrativo del Sistema Educativo Estatal. Así mismo difundirá entre la comunidad académica el respeto a la diversidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ENERO DE 2012)</small>
 
 Para tales efectos, llevara a cabo entre otras acciones:
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
 I.- Elaborar, establecer y fortalecer las evaluaciones psicopedagógicas para la elaboración de las adecuaciones curriculares a los planes y programas para la educación inclusiva de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
 II.- Realizar los ajustes razonables para la incorporación y oportuna canalización de las personas con discapacidad en todos los niveles del Sistema Educativo Estatal; así como verificar el cumplimiento de las normas para su integración educativa en apego a lo establecido a la Ley General de Inclusión para las Personas con Discapacidad;
 
@@ -697,9 +719,9 @@ La educación especial deberá contar con personal técnicamente capacitado y ca
 
 Se garantizará que quienes participen en la elaboración de los programas de educación especial para la atención de las personas con discapacidad cuenten con título profesional, especialización, experiencia y aptitudes en la materia.
 
-### CAPÍTULO V. DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO, Y DE LOS AYUNTAMIENTOS EN MATERIA DE DESARROLLO URBANO
+### CAPÍTULO V. DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL, Y DE LOS AYUNTAMIENTOS EN MATERIA DE DESARROLLO URBANO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 19.
 
@@ -727,13 +749,15 @@ VII.- Impulso en coordinación con las autoridades educativas estatales y federa
 
 VIII.- Las demás que sean necesarias para el cumplimiento de esta Ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2022)</small>
+
 ### CAPÍTULO VI. DE LOS SISTEMAS ESTATAL Y MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
-La Secretaría de Infraestructura y Desarrollo Urbano y los Ayuntamientos en el ámbito de sus competencias, serán las autoridades responsables que vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad, desarrollo urbano y vivienda se establecen en la normatividad vigente, así como de las acciones que en materia urbana se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes:
+La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y los Ayuntamientos en el ámbito de sus competencias, serán las autoridades responsables que vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad, desarrollo urbano y vivienda se establecen en la normatividad vigente, así como de las acciones que en materia urbana se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes:
 
 I.- Impulsar la construcción de infraestructura urbana de carácter público que suprima las barreras físicas y sean planeadas con Diseño Universal, observando lo establecido en el Manual Estatal De Libre Acceso, que será creado por el Consejo Consultivo;
 
@@ -1067,21 +1091,31 @@ XVI. Expedir en tiempo y forma su Reglamento Interno.
 
 El Consejo estará integrado por los titulares de las siguientes dependencias:
 
-I. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-II. Secretaría de Desarrollo Económico;
+I. Secretaría (sic) Bienestar;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+II. Secretaría de Economía e Innovación;
 
 III. Sistema Estatal para el Desarrollo Integral de la Familia;
 
 IV. Secretaría de Salud;
 
-V. Secretaría de Educación y Bienestar Social;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+V. Secretaría de Educación;
 
 VI. Secretaría del Trabajo y Previsión Social;
 
-VII. Secretaría de Infraestructura y Desarrollo Urbano, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
-VIII. Procuraduría General de Justicia del Estado.
+VII. Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, y
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+
+VIII. Fiscalía General del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
@@ -1301,11 +1335,11 @@ Los servidores públicos de las Dependencias y Entidades mencionados en el artí
 
 De igual forma las dependencias y entidades a que se refiere el párrafo anterior y que proporcionen servicios al público, destinarán una ventanilla de atención preferente para las personas con discapacidad.
 
-> <small>[N. DE E. ANTES ARTÍCULO 55, P.O. 15 DE JULIO DE 2016.]</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 64.
 
-El incumplimiento a lo establecido en el artículo que antecede, la Persona con discapacidad podrá acudir a la Dirección y Evaluación Gubernamental a interponer el procedimiento Disciplinario Administrativo, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+El incumplimiento a lo establecido en el artículo que antecede, la Persona con discapacidad podrá acudir a la Secretaría de la Honestidad y la Función Pública, a interponer el procedimiento Disciplinario Administrativo, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ## TRANSITORIOS
 
@@ -1424,3 +1458,9 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las disposiciones contenidas en los artículos 3 y 15 de la presente reforma, surtirán efectos a partir de la publicación en el Periódico Oficial del Estado, del Decreto 161 aprobado en fecha 23 de noviembre del año 2017, así como del Decreto 190 aprobado en fecha 25 de enero de 2018.
 
 TERCERO.- El Ejecutivo del Estado dará cumplimiento al presente Decreto, de conformidad con la viabilidad financiera aprobada en cada ejercicio fiscal correspondiente.
+
+P.O. 11 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
