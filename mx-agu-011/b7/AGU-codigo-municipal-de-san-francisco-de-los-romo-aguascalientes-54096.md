@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2021-08-30"
+last_updated: "2022-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,1041 +23,1569 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES
 
-CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
+LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
-EXPOSICION DE MOTIVOS
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
-[...]
+EL C. LIC. FERNANDO DE JESUS CANALES CLARIOND, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Por las consideraciones que anteceden, las que se encuentran debidamente fundamentadas y motivadas, se publica el presente:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
+D E C R E T O
+
+NÚM. 384
+
+LEY DE EDUCACIÓN DEL ESTADO
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
 ## TITULO PRIMERO. DEL MUNICIPIO
 
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 1°.
+###### Artículo 1.
 
-Las disposiciones del presente Código Municipal son de orden público e interés social y reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 68 de la Constitución Política del Estado de Aguascalientes, 1° , 2°, 3° , 4° y 36 fracción I de la Ley Municipal para el Estado de Aguascalientes, los cuales otorgan al H. Ayuntamiento del Municipio de San Francisco de los Romo, Estado de Aguascalientes, las facultades para aprobar, de acuerdo con las leyes en materia municipal expedidas por el Congreso del Estado, las disposiciones administrativas de observancia general dentro de su jurisdicción, que organicen la administración pública, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+Esta Ley regula la educación que se imparte en el Estado en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado, la Ley General, las demás Leyes y disposiciones federales y locales aplicables, así como los convenios que sobre la materia suscriba el Estado.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+Es de observancia general en todo el Estado de Nuevo León y las disposiciones que contiene son de orden público y de interés social.
 
-Las presentes disposiciones tienen por objeto regular la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre mujeres y hombres, así como la integridad moral del individuo y de la familia regulando además los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, movilidad y transporte locales.
+La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las Leyes que rigen a dichas instituciones.
 
-Quedan obligados al cumplimiento y observancia del presente Código, sin distinción todas y todos los habitantes' que conformen la población del Municipio.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 2°.
+###### Artículo 2.
 
-El Municipio de San Francisco de los Romo, es la institución jurídica, política y social de carácter público, con personalidad jurídica, patrimonio propio y libre administración de su hacienda pública, sujeto a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes en materia municipal y este Código, cuya finalidad consiste en organizar a una comunidad en la gestión de sus intereses, proteger y fomentar los valores de la convivencia local y prestar los servicios básicos que ésta requiera.
+Todo individuo tiene derecho a recibir educación de calidad y, por lo tanto, todos los habitantes del Estado de Nuevo León, tienen las mismas oportunidades de acceso, tránsito y permanencia al sistema educativo estatal, con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables, debiendo garantizar el acceso a la educación básica y media superior aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
 
-El Municipio es libre en su régimen interior y será gobernado por un H. Ayuntamiento de elección popular directa, que ejercerá sus atribuciones de manera exclusiva, estarán dotados de competencia, en los términos que le ha sido otorgada por los ordenamientos jurídicos invocados.
+La autoridad educativa brindará las facilidades necesarias para la obtención de documentación requeridas para cursar la educación básica y media superior, para la ubicación por grado, ciclo escolar o nivel educativo que corresponda conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y en su caso, saber previa evaluación de los educandos.
 
-### CAPITULO II. División Territorial
+La autoridad educativa promoverá acciones similares para el caso de la educación superior.
 
-###### ARTICULO 3°.
+La educación que se imparta en la entidad, tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
-Las localidades o centros de población establecidos dentro del territorio del Municipio de San Francisco de los Romo, está conformado por Ciudades, Comunidades, Rancherías, Fraccionamientos y los Parques Industriales, que se ubican dentro de su territorio, se organizan políticamente en Delegaciones y Comisarías. Considerándose como tales las siguientes:
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la trasformación de la sociedad, y es factor determinante para la adquisición de conocimientos para formar a los hombres y mujeres de manera que tengan sentido de solidaridad social.
 
-CIUDAD
+En el sistema educativo estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social privilegiando la participación de los educandos, padres de familia, autoridades educativas y docentes para alcanzar los fines y objetivos a que se refiere el Artículo 7 de esta Ley.
 
-San Francisco de los Romo
+### CAPÍTULO II. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EDUCATIVA
 
-DELEGACION
+###### Artículo 3.
 
-Puertecito de la Virgen.
+La aplicación y la vigilancia de las disposiciones de esta Ley corresponde a las autoridades educativas federales, estatales, municipales y escolares en el ámbito de su competencia, en los términos que la misma establece y en los que prevean sus reglamentos.
 
-COMUNIDADES
+Para los efectos de la presente Ley, se entenderá por:
 
-Macario J. Gómez
+I.- Autoridad educativa federal: La Secretaría de Educación Pública del Gobierno Federal;
 
-La Concepción
+II.- Autoridad educativa estatal: Al Ejecutivo del Estado de Nuevo León, así como las entidades que en su caso, establezcan para el ejercicio de la función social educativa;
 
-La Escondida
+III.- Autoridad educativa municipal: El Ayuntamiento de cada Municipio;
 
-Borrotes
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-La Guayana
+IV.- Autoridad educativa escolar: La que ejerce la supervisión o inspección y la dirección escolar en sus respectivos ámbitos de competencia;
 
-Loretito
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-Amapolas del Río
+V.- Ley General: A la Ley General de Educación; y
 
-Tepetate
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-Ojo de agua del mezquite
+VI.- Secretaría: Secretaría de Educación Estatal.
 
-Chicalote
+###### Artículo 4.
 
-La Providencia
+Los conceptos que a continuación se mencionan tendrán los alcances siguientes:
 
-Viñedos Ribier
+I.- Escuela pública: La que ofrece servicios de educación gratuitos y es administrada por el Estado;
 
-La Casita
+II.- Escuela particular: La escuela administrada por particulares y sostenida con recursos, colegiaturas o aportaciones privadas;
 
-Rancho Nuevo (San Agustín)
+III.- Tipos y modalidades de educación: La inicial, la básica, la indígena, para adultos, la especial, la media superior, la superior y la formación para el trabajo, definiéndose cada una como sigue:
 
-RANCHERIAS
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-Viñedos Don Polo, Los Arellano del Tepetate, El Barranco, La Biznaga, Viñedos San José, Viñedos Los Zapata, Viñedos Aurora, El Mezquite, La Paz, El Refugio, Los Sabinos, San Cristóbal, San Juan Bautista, San Pedro Victoria, San Román, Santa Teresa; El Tirón, La Tuza, La Trinidad, La Unión, Los Valdez, La Providencia, Medio Kilo, Las Margaritas, María Elena, La Lomita, Hacienda La Escondida, Granja La Esperanza, El Gigante, Franco 1, Fe en Dios, La Estación Garabato, El Espíritu, Esperanza, Enriqueta, Douglas, El Chamizal, Los Corrales Blancos, Las Carmelitas, Buenavista, Granja El Zacatenco, Granja La Guadalupana, Granja la Liliana, Granja Mari, Granja Santa Elena, San Miguel, El Chaparral, El Que se Fue, Granja Aurora, Granja El Nilo, Granja María, Rancho La Escondida, Rancho Xoconoxtle, San José de Buenavista I y 11, Rancho Don Antonio, Rancho Plan de los Romo, Rancho San Cristóbal, Rancho El Recodo, Granja Los Prado, Tres Hermanos, Rancho las Cuchillas, Granja Jesy, Granja Montserrat, San Angel, San Ramón, Colonia 28 de Abril.
+a) Educación inicial: La educación que se imparte a niñas y niños menores de cuatro años;
 
-FRACCIONAMIENTOS
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
-Ex viñedos Guadalupe, Villas de San Felipe, Valle de Aguascalientes, Paseos de la Providencia, El Xoconoxtle, Santa Bárbara, Rancho Santa Fe, El Cardonal, San Pablo y Cerrada San Francisco.
+b) Educación básica: Abarca los niveles educativos de preescolar, primaria y secundaria; siendo obligatorios los tres niveles;
 
-PARQUES INDUSTRIALES
+c) Educación indígena: Es la que se ofrece a los grupos indígenas del Estado, para responder a sus características lingüísticas y culturales;
 
-Valle de Aguascalientes
+d) Educación para adultos: La que se ofrece a los individuos de quince años o más que no hayan cursado o concluido la educación básica;
 
-San Francisco de los Romo
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
-###### ARTICULO 4°.
+e) Educación especial: Está destinada a individuos con necesidades educativas especiales, con discapacidades transitorias o definitivas, así como a aquellos superdotados o con talento extraordinario, en donde debemos entender por:
 
-A los centros de población que en el futuro le sean declaradas sus categorías político-administrativas por el Congreso del Estado, será solicitud del H. Ayuntamiento, y se les tendrá por incluidas en el presente Código.
+Superdotado: Es la niña, niño o adolescente que posea un coeficiente intelectual superior a 130.
 
-### CAPITULO III. Nombre y Escudo
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 5°.
+Talento Extraordinario: Es la cualidad de toda niña, niño o adolescente que muestre un desempeño extraordinario en una determinada área o tema dentro del ámbito educativo que necesita de programa educativo especial para que alcance y favorezca su máximo desarrollo profesional.
 
-Los símbolos representativos del Municipio son su Nombre y su Escudo.
+f) Educación media superior: Comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes;
 
-###### ARTICULO 6°.
+g) Educación superior: Comprende los niveles de estudios terminales previos a la licenciatura, la licenciatura, la especialidad, la maestría y el doctorado; así mismo, la educación normal en todos sus niveles y especialidades; y
 
-El Municipio conservará su nombre actual y sólo podrá ser modificado o cambiado con las formalidades de Ley. Toda solicitud o modificación de cambio de nombre del Municipio, deberá ser sancionada por el H. Ayuntamiento y autorizada por el Congreso del Estado.
+h) Formación para el trabajo: Procurará la adquisición de conocimientos, habilidades o destrezas que permitan a quien la recibe desarrollar una actividad productiva;
 
-###### ARTICULO 7°.
+IV.- Escuelas de educación normal y demás instituciones formadoras de maestros: las escuelas normales, formadoras de maestros con niveles de licenciatura y demás instituciones de educación superior y actualización de maestros de educación básica;
 
-El Escudo del Municipio se describe de la siguiente manera: Encuartelada en cruz, lleva en "Escusón" (situado en el centro) en campo de azur, el emblema de los franciscanos menores en un círculo de oro dos brazos cruzados, uno de ellos desnudo y el otro con el hábito de los franciscanos, abajo de ellos una nube y en el fondo una cruz. El primer cuartel un campo de oro, una cruz floreada de sinople y cinco veneras de gules, cuatro en cada uno de los espacios y una en el centro de la cruz. El segundo cuartel en campo de azur un brazo armado moviente con una espada de plata en la mano y tres puntas de lanza de plata, alineadas de los extremos y apuntadas para abajo.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-El tercer cuartel en campo de azur, un plano que muestra el sitio de ganado mayor, que fue conocido como Bajío de la Cruz o también San José de Buena Vista, en él se observa el río San Pedro y el camino real a Zacatecas, asentado a una terraza de color café que representa la tierra, al costado izquierdo un mezquite y al derecho una planta de maíz. El cuarto cuartel en campo de gules un caldero en oro, con brazo abajo. La bordura en oro lleva en la parte superior las fechas 1829-1992. La bordura lleva también un lema en latín que dice: "LABOR EST NOBIS COPIA.- SPLENDOR GENTIS DONUM" cuyo significado es TRABAJO NUESTRA RIQUEZA - NOBLEZA NUESTRO DON. Bajo el Escudo se asentará la leyenda: "H. Ayuntamiento ... seguido del período constitucional".
+V.- Modalidades educativas: Por la forma de acceder al proceso educativo: la escolar, la no escolarizada y la mixta; y por las adecuaciones curriculares que se realizan para diferente población: la indígena, la especial, la educación para adultos y la migrante;
 
-###### ARTICULO 8°.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-El Nombre y el Escudo del Municipio, deberán estar impresos en toda la papelería que utilicen las oficinas de Gobierno Municipal, será potestativo de la autoridad adicionar otro logotipo que distinga a determinada administración pública municipal.
+VI.- Incorporación: El proceso por el cual una institución educativa se integra oficialmente al sistema educativo estatal otorgándosele la autorización o reconocimiento de validez oficial de estudios; y
 
-###### ARTICULO 9°.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-La utilización por particulares del Escudo o Nombre del Municipio para fines publicitarios y de identificación de negocios o empresas privadas que tengan por objeto designarlo o referirse al lugar de procedencia de la mercancía, deberá realizarse, previo permiso y pago de derechos al H. Ayuntamiento.
+VII.- Alerta Temprana: A la detección oportuna de vulneración de los derechos de Niñas, Niños y Adolescentes.
 
-### CAPITULO IV. Fines del Municipio
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+### CAPÍTULO III. DEL SISTEMA EDUCATIVO ESTATAL
 
-###### ARTICULO 10.
+###### Artículo 5.
 
-El Municipio se propone como fines que permitan el logro de un desarrollo armónico y equilibrado para un mejor bienestar colectivo:
+Es obligación del Estado de Nuevo León, prestar servicios educativos de calidad que garanticen el máximo logro de aprendizaje para que toda la población pueda cursar la educación preescolar, la primaria, secundaria, y la media superior. Podrá ofrecer también educación inicial.
 
-I. Promover el desarrollo institucional para servir a la ciudadanía de manera eficiente y eficaz.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-II. Formular acciones con el objeto de que la Administración Pública Municipal destine los servicios y recursos requeridos para cumplir con sus fines.
+Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General de Educación, así como en la presente Ley, respetando y favoreciendo el desarrollo de la población de la entidad.
 
-III. Establecer planes y programas que permitan fortalecer los aspectos económicos, sociales y culturales para el mejor desarrollo integral de la población;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2013)</small>
 
-IV. Garantizar y preservar la tranquilidad, seguridad y bienes de las personas sin trato diferenciado por razones de género o cualquier otra;
+Toda Educación que imparta el Estado será:
 
-V. Coordinarse con los gobiernos federal y estatal, para realizar las acciones necesarias que garanticen la seguridad;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-VI. Proveer los medios para la aplicación y acceso a la justicia en el marco de su competencia;
+I.- Gratuita. Las donaciones o cuotas voluntarias destinadas a dicha educación de calidad, en ningún caso se entenderán como contraprestaciones por el servicio educativo. La autoridad educativa en el ámbito de su competencia, establecerá los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias;
 
-VII. Promover un desarrollo social incluyente para proteger los intereses sociales como son entre otros la salud y la protección a grupos vulnerables;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-VIII. Proteger y fomentar la moral y el orden público;
+II.- Laica. Se mantendrá ajena a cualquier doctrina religiosa; y
 
-IX. Impulsar y preservar la educación y la cultura entre sus habitantes;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-X. Fomentar la cultura cívico (sic) entre sus habitantes;
+III.- Se prohíbe a todo el personal de las escuelas públicas, donde se imparta la educación preescolar, primaria, secundaria y media superior, imponer a los padres, madres de familia o tutores de los educandos, el pago de cualquier contraprestación o cuota obligatoria que impida o condicione la prestación del servicio educativo a los educandos. En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos, o que afecte en cualquier sentido la igualdad en el trato a los educandos, al pago de contraprestación alguna.
 
-XI. Organizar y promover la participación ciudadana en todos los ámbitos que se requiera a fin de cumplir con los planes y programas municipales;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-XII. Promover la sustentabilidad del medio ambiente, estableciendo las medidas, instrumentos y programas que permitan mejores condiciones ambientales;
+###### Artículo 6.
 
-XIII. Prestar adecuadamente los servicios públicos municipales;
+Todos los habitantes del Estado de Nuevo León deben cursar la educación preescolar, primaria, secundaria, y la media superior.
 
-XIV. Promover y fomentar el desarrollo económico sostenible, agropecuario y turístico, estableciendo programas y acciones que conlleven a la generación de más oportunidades de empleo en la industria, el campo, el comercio y los servicios;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-XV. Impulsar la capacidad creativa y emprendedora entre sus habitantes para la generación de nuevas empresas y el autoempleo;
+Es obligación de los habitantes del Estado de Nuevo León hacer que sus hijas e hijos cursen la educación preescolar, primaria, secundaria y media superior.
 
-XVI. Promover la libre competencia económica en el Municipio de conformidad a las leyes federales en la materia;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
-XVII. Promover la política de mejora regulatoria municipal que permita transparentar la elaboración, revisión y aplicación del marco jurídico y sus mecanismos de verificación, para prevenir, aplicar y vigilar que se cumplan las normas vigentes de su competencia y garantizar su calidad, eficiencia y eficacia, reduciendo costos e incrementando sus beneficios;
+###### Artículo 7.
 
-XVIII. Ampliar y diversificar la participación ciudadana, como un mecanismo de consulta pública que aporte análisis y transparencia de la aplicación de las políticas públicas;
+La educación que impartan el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-XIX. Promover la transparencia y la rendición de cuentas que garanticen el buen ejercicio de la Administración Pública Municipal;
+I.- Contribuir al desarrollo integral del individuo para que ejerza plenamente sus capacidades;
 
-XX. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres residentes en el municipio; y
+II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión crítica;
 
-XXI. Todo aquello que redunde en beneficio de los ciudadanos del Municipio, basado en los principios rectores de la equidad, la solidaridad y subsidiariedad.
+III.- Fortalecer la conciencia de la nacionalidad y la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales; sus tradiciones, el patrimonio de la cultura del Estado de Nuevo León conquistado por las generaciones pasadas, su riqueza artística y el papel que la entidad federativa ha representado en la configuración y desarrollo de la identidad de la nación mexicana;
 
-### CAPITULO V. De la Población
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 11.
+IV.- Promover, mediante la enseñanza de la lengua nacional -el Español- un idioma común para todos los mexicanos, sin menoscabo de proteger, promover y respetar el desarrollo de las lenguas indígenas;
 
-Son habitantes del Municipio de San Francisco de los Romo, las personas que residan habitual o transitoriamente dentro de su territorio, tendrán las prerrogativas, derechos y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la legislación municipal.
+V.- Fomentar la cultura democrática en todos los niveles educativos, dando a conocer los principios fundamentales del Estado de Derecho, e impulsar a los educandos a participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-ARTICULO 11 A.- Toda mujer que se encuentre en el municipio de San Francisco de los Romo, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros a los siguientes:
+VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los Derechos Humanos y el respeto a los mismos;
 
-I. El derecho a que se respete la vida;
+VII.- Respetar y difundir los Derechos de las niñas y de los niños;
 
-II. El derecho a que se respete su integridad física, psíquica y moral;
+VIII.- Promover la educación para la paz, la tolerancia y el respeto a la diversidad humana;
 
-III. El derecho a la libertad y la seguridad personales;
+IX.- Fomentar el interés por la ciencia, la tecnología y las actitudes que estimulen la investigación y la innovación científica y tecnológica;
 
-IV. El derecho a no ser sometida a torturas;
+X.- Impulsar la creación artística, la adquisición, enriquecimiento y difusión de los bienes y valores universales, en especial de aquéllos que constituyen el patrimonio cultural de la Nación, y particularmente, de Nuevo León;
 
-V. El derecho a igualdad de protección ante y de la ley;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-VI. El derecho a que se respete la dignidad inherente a su persona y que se proteja a su familia;
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales y en particular, desarrollar una cultura del agua;
 
-VII. El derecho a un recurso sencillo y rápido ante los tribunales competentes, que la ampare contra actos que violen sus derechos;
+(NOTA: EL 22 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 238/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VIII. El derecho a libertad de asociación;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-IX. El derecho a la libertad de profesar la religión y las creencias propias dentro de la ley; y
+XII.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre el respeto a la vida, DESDE LA CONCEPCIÓN HASTA LA MUERTE NATURAL y la integridad física y psicológica de todas las personas, así como sobre su formación para la vida adulta, incluyendo la planeación familiar, la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
-X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
+XIII.- Contribuir a la construcción de una cultura de la salud promoviendo la educación física, la práctica del deporte, los hábitos de higiene y sana alimentación, así como la educación sexual, la prevención de adicciones y la erradicación de la violencia familiar;
 
-###### ARTICULO 12.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-Se consideran vecinos del Municipio:
+XIV.- Fomentar los valores de: respeto, libertad, justicia, democracia, transparencia en el ejercicio de la función pública, igualdad, solidaridad, tolerancia, equidad y las características que han identificado a la población del Estado de Nuevo León: el trabajo, el ahorro, la capacidad emprendedora, la responsabilidad, la creatividad, la honestidad, la voluntad para enfrentar retos y adversidades y una visión del futuro de sí mismo y de la sociedad;
 
-I. las personas nacidas en el Municipio y que radiquen en su territorio; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-II. las personas con más de dos años cuando menos con domicilio establecido dentro del Municipio y con residencia efectiva por ese lapso.
+XV.- Establecer la mejora continua en la calidad de los procesos académicos y administrativos del sistema educativo, de conformidad con la Ley General del Servicio Profesional Docente y demás normativa aplicable;
 
-###### ARTICULO 13.
+XVI.- Desarrollar armónicamente la formación humanista, científica y tecnológica del educando;
 
-El carácter de vecino se pierde por:
+(REFORMADA, P.O. 20 DE JUNIO DE 2008) (F. DE E., P.O. 2 DE JULIO DE 2008)
 
-I. Por ausencia o presunción de muerte legalmente declarada por autoridad judicial;
+XVII.- Preparar para la vida acorde a las necesidades actuales y futuras, impulsando y facilitando la adquisición de la cultura informática y las variadas formas de los lenguajes matemático, simbólico y artístico, incluyendo los idiomas extranjeros más usuales que demanda el entorno social, cultural y laboral de la entidad;
 
-II. Desempeñar cargos de elección popular de carácter municipal en otro municipio distinto al de su vecindad;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
-III. Por manifestación expresa de residir en otro lugar; y
+XVIII.- Promover además del conocimiento acerca de la Entidad y el País, la adquisición de una visión global del mundo;
 
-IV. Por ausencia de más de dos años del territorio municipal.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-La declaración de pérdida de vecindad será competencia del H. Ayuntamiento.
+XIX.- Contribuir a la información, prevención, combate y erradicación sobre los efectos nocivos del tabaquismo, drogadicción, alcoholismo y otras enfermedades y adicciones de impacto sociocultural; a fin de que tomen conciencia de los daños que causan a la salud, al bienestar social, moral y económico de las personas;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos para el nivel de Educación Básica;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+XXI.- Promover en forma permanente el hábito a la lectura y del libro;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas y la inclusión mediante el desarrollo de programas especiales de fomento y capacitación para el empleo de personas con algún tipo de discapacidad;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
+
+XXIII.- Implementar programas de orientación vocacional y promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas profesionales que permitan a los alumnos adquirir aptitudes, capacidades y experiencia de calidad, reforzar el aprendizaje del aula, identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2019)</small>
+
+XXIV.- Fomentar en todos los niveles educativos la cultura tributaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
+
+###### Artículo 8.
+
+El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico, artístico, tecnológico y humanístico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres y, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno. Además:
+
+I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+II.- Será nacional, en cuanto a que -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, a la conservación y aprovechamiento racional de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y la continuidad y acrecentamiento de nuestra cultura;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+III.- Contribuirá a la mejor convivencia humana, aportando elementos para robustecer en los educandos el aprecio a la dignidad de la persona, la integridad de la familia, la solución no violenta de conflictos, la convicción del interés general de la sociedad, sustentando los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, religión, grupo, sexo, o de individuos; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+IV.- Será de calidad, entendiéndose por ésta, la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia, equidad e inclusiva.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 9.
+
+En las instituciones integrantes del sistema educativo estatal, deberá difundirse la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nuevo León, fomentando en quienes integran la comunidad escolar, la solidaridad y una firme conciencia cívica, promoviendo además que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas, se incluyan contenidos y referencias a los derechos tutelados en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+### CAPÍTULO IV. DEL PROCESO EDUCATIVO
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 10.
+
+Además de impartir la educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica, el Estado de Nuevo León promoverá y atenderá, directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio- todos los tipos y modalidades educativos, incluida la educación inicial, especial y superior, necesarios para el desarrollo de la entidad, apoyará la investigación científica y tecnológica y alentará el fortalecimiento y la difusión de la cultura regional, nacional y universal.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+### CAPÍTULO V. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
+
+###### Artículo 11.
+
+La autoridad educativa estatal deberá planear, operar y evaluar los servicios educativos, con el fin de lograr la satisfacción de las necesidades individuales y sociales, así como, un nivel de competencia internacional, a partir de un proceso de mejora continua orientado a la calidad, invirtiendo los recursos necesarios para tal fin, de conformidad con las disposiciones que emita el Instituto Nacional para la Evaluación de la Educación, y demás normativa aplicable.
+
+###### Artículo 12.
+
+El Gobierno Estatal y los Ayuntamientos podrán celebrar convenios entre ellos o con el Gobierno Federal, para coordinar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo, respetando las prioridades educativas de acuerdo a las necesidades locales y regionales.
+
+###### Artículo 13.
+
+Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, así como, a los beneficios del desarrollo.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas, los niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+Cuando el ausentismo sea de cinco días consecutivos o siete acumulados en un mes, sin la justificación por escrito del padre, madre o tutor, las escuelas públicas y privadas de nivel básico a través de sus directores deberán informar a la Secretaría, la cual emitirá una Alerta Temprana, que será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes a fin de que en uso de sus atribuciones realicen las evaluaciones pertinentes y restituyan los derechos vulnerados de los menores de edad.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 # LIBRO SEGUNDO. DE LA ORGANIZACION ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO
 
 ## TITULO PRIMERO. GENERALIDADES
 
-### CAPITULO I. De las Autoridades del H. Ayuntamiento
+### CAPÍTULO VI. DE LA EDUCACIÓN QUE IMPARTAN LOS PARTICULARES
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+###### Artículo 14.
 
-###### ARTICULO 14.
+Para garantizar el acceso, tránsito y la permanencia de los individuos en los servicios educativos, las medidas señaladas en el Artículo anterior estarán dirigidas, de manera preferente, a quienes pertenezcan a los grupos y regiones con mayor rezago educativo disperso o que enfrenten situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o situación migratoria, considerando también las características particulares de los grupos y regiones, en términos de lo dispuesto por los Artículos 7 y 8 de esta Ley.
 
-El H. Ayuntamiento de San Francisco de los Romo, es el Órgano Colegiado de Gobierno y de la Administración Pública Municipal, tiene competencia plena y exclusiva sobre su territorio, población, organización política y administrativa, en los términos que fijen las leyes respectivas, posee en consecuencia personalidad jurídica y patrimonio propios.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
 
-En la medida de lo posible las comisiones y servidores públicos que integren la administración pública municipal, establecerán el mismo número de mujeres y hombres, respetándose la equidad de género.
+###### Artículo 15.
 
-###### ARTICULO 15.
+El servicio educativo se ofrecerá en igualdad de condiciones y circunstancias a los hombres y a las mujeres sin discriminación alguna por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-El H. Ayuntamiento del Municipio de San Francisco de los Romo residirá en la ciudad cabecera municipal o donde transitoriamente decida hacerlo y será encargado de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios municipales y velar por los intereses del Municipio.
+###### Artículo 16.
 
-###### ARTICULO 16.
+Para garantizar el cumplimiento de lo dispuesto en esta sección las autoridades educativas, en el ámbito de sus respectivas competencias, llevarán a cabo las actividades siguientes:
 
-Son Autoridades del Gobierno Municipal, en orden jerárquico, las siguientes:
+I.- Realizarán programas educativos para erradicar el analfabetismo, así como, para elevar los niveles culturales, sociales y de bienestar de la población de la entidad;
 
-I. El H. Ayuntamiento;
+II.- Atenderán de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos de dichas localidades;
 
-II. El Presidente Municipal;
+III.- Desarrollarán programas de apoyo a los maestros que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
-III. El Secretario del H. Ayuntamiento y Director General de Gobierno;
+IV.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable, el aprendizaje del educando;
 
-IV. Los Directores Generales;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-V. Los Directores de Área;
+V.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior; otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
 
-VI. Los Delegados Municipales; y
+VI.- Otorgarán apoyos pedagógicos a grupos sociales con requerimientos educativos específicos, a través de programas encaminados a superar los retrasos o las deficiencias en el aprovechamiento escolar;
 
-VII. Los Comisarios Municipales.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-Los Organismos Auxiliares serán honorarios y ejercerán las atribuciones que les confieran las Autoridades Municipales, siendo de carácter enunciativo más no limitativo los siguientes:
+VII.- Establecerán y fortalecerán los sistemas de educación a distancia, que determine la autoridad educativa federal;
 
-I. Consejo de Desarrollo Municipal;
+VIII.- Desarrollarán programas para otorgar becas y demás apoyos económicos a los educandos;
 
-II. Consejo Municipal de Participación Social en la Educación;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-III. Consejo Municipal de Seguridad Pública;
+IX.- Impulsarán programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros; para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
-IV. Consejo Municipal de Protección Civil;
+X.- Otorgarán estímulos a las asociaciones civiles y cooperativas de maestros que se dediquen a la enseñanza;
 
-V. Consejo Municipal de Salud;
+XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere esta sección;
 
-VI. Consejo de Mejora Regulatoria, Simplificación, Transparencia e Innovación;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
-VII. Consejo Municipal de Desarrollo Rural Sustentable;
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en los Artículos 13 y 14 de la presente Ley;
 
-VIII. Consejo Municipal para el Desarrollo Cultural;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-IX. Comité de Adquisiciones;
+XIII.- Implementarán acciones encaminadas a la detección de educandos con necesidades educativas especiales;
 
-X. Comisión de Prevención de las Adicciones;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XI. Comisión para la Prevención del Delito;
+XIV. Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en los Artículos 13 y 14 de la presente Ley;
 
-XII. Comisión del Combate al Narcomenudeo;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XIII. Los Comités de Obras;
+XV.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres, madres de familia o tutores respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus docentes;
 
-XIV. Comité de Desarrollo Urbano, Rural y Ecología;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XV. Comité de Participación Ciudadana;
+XVI.- Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
 
-XVI. Comisión Mixta de Seguridad e Higiene;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XVII. Comisión de Seguridad Escolar;
+XVII.- Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-XVIII. Las Juntas Vecinales de Colaboración Municipal; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
 
-XIX. Los demás Organismos que sean creados por el H. Ayuntamiento.
+XVIII.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para los educandos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
-Estas autoridades están bajo el mando inmediato del Presidente Municipal, quien está facultado para delegar y suprimir las cuestiones que estime convenientes.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPITULO II. De las Funciones de los Miembros del H. Ayuntamiento
+XIX.- Aplicar los programas compensatorios implementados por la autoridad educativa federal, a través de los recursos específicos asignados, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se establezcan las proporciones de financiamiento y las acciones específicas que la autoridad educativa estatal deba realizar para reducir y superar dichos rezagos; y
 
-###### ARTICULO 17.
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2019)</small>
 
-El H. Ayuntamiento del Municipio de San Francisco de los Romo, se integra por el Presidente Municipal, siete Regidores y un Síndico de elección popular, durarán en su encargo tres años, entrando en funciones el 31 de diciembre del año de la elección.
+XX.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la capacitación hacia los maestros y personal educativos en la atención a las niñas, niños y adolescentes con discapacidad.
 
-###### ARTICULO 18.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
-El Presidente Municipal presidirá el H. Ayuntamiento y representará a éste y al Municipio política y administrativamente; es el ejecutor de las determinaciones del H. Ayuntamiento, de conformidad con las atribuciones que expresamente le confiere la Constitución Política del Estado.
+El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
-###### ARTICULO 19.
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-Los Regidores son los encargados de vigilar la buena marcha de los ramos de la Administración Municipal así como de la prestación de los servicios públicos, conforme a las comisiones que le sean asignadas por el H. Ayuntamiento, debiendo dar cuenta a éste de las deficiencias detectadas así como las propuestas para mejorar los servicios de las comisiones que les correspondan y supervisar la aplicación de éstas.
+###### Artículo 16 Bis.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+La autoridad educativa estatal, dotará a los planteles educativos con instalaciones, personal y equipo necesarios y de calidad para atender satisfactoriamente la demanda educativa, especialmente para la atención de niñas, niños y adolescentes con alguna discapacidad, conforme a su disponibilidad presupuestal.
 
-###### ARTICULO 20.
+### CAPÍTULO VII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
-El Síndico tendrá la procuración, defensa, promoción y la representación jurídica de los intereses municipales del H. Ayuntamiento, en los litigios en que éste fuere parte y en la gestión de los negocios de la Hacienda Municipal, esta última conjuntamente con el Regidor de la Comisión de Hacienda.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-El Síndico podrá citar a cualquier habitante del municipio de San Francisco de los Romo, Aguascalientes a fin de conciliar los conflictos entre éstos siempre y cuando no interfiera en la función de otra autoridad y no se traten de casos donde exista violencia de género, en especial familiar, en cuyos casos está contraindicada cualquier práctica de mediación, negociación o conciliación, para cumplir con los fines plasmados en el Articulo 10 fracciones IV, VI y XX del presente Código.
+###### Artículo 17.
 
-###### ARTICULO 21.
+Para cumplir el objeto de esta Ley, la calidad en la educación implica un proceso de mejora continua del sistema educativo, a través de las acciones corresponsables de las autoridades educativas, maestros, maestras y su organización sindical respectiva, alumnos y alumnas, padres y madres de familia y de los diferentes sectores de la sociedad, con fundamento en el interés superior de la niñez, de conformidad con los artículos 1º, 3º y 4º de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Secretario del H. Ayuntamiento tendrá en las sesiones de Cabildo las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-I. Emitir los citatorios para la celebración de las sesiones de Cabildo;
+###### Artículo 18.
 
-II. Asistir a las sesiones del H. Ayuntamiento, dar fe de lo actuado en las mismas, levantar las actas correspondientes y certificar el quórum legal de las sesiones;
+La autoridad educativa estatal, orientará el sistema educativo para establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos, mediante estrategias y acciones, considerando entre otras, la equidad, pertinencia, relevancia y eficiencia, de conformidad con las disposiciones legales aplicables.
 
-III. Leer el Acta de la sesión anterior;
+###### Artículo 19.
 
-IV. Recabar la votación de los asuntos tratados en las sesiones;
+La autoridad educativa estatal, promoverá en las escuelas una cultura de la calidad que tenga como finalidad el crecimiento y desarrollo de los individuos y el mejoramiento, en consecuencia, de su nivel de vida. Dichas medidas estarán dirigidas de manera preferente a los grupos sociales más desprotegidos.
 
-V. Llevar y conservar el Libro de Actas de las sesiones de Cabildo, obteniendo las firmas de los asistentes a las mismas, dar seguimiento a los acuerdos turnados e informar al H. Cabildo de su cumplimiento, así como la presentación del Diario de Debates anualmente;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-VI. Publicar las Actas de Cabildo, dando cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y el presente Código; y
+La autoridad educativa estatal, debe garantizar que la inversión dirigida a los recursos humanos impacte en una mejor condición de vida para el trabajador y su familia, en el aprovechamiento escolar, la preparación académica del magisterio y la formación continua del magisterio, así como en la eficiencia de la gestión escolar.
 
-VII. Las demás que le otorgue la Ley Municipal para el Estado de Aguascalientes y el presente Código.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 22.
+La autoridad educativa estatal proporcionará al personal docente los medios necesarios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
-Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar las Dependencias y Entidades a cargo de sus comisiones, permanente o especiales que se les asignen, pudiendo en todo momento requerir al titular de aquellas, la información necesaria para el debido cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-### CAPITULO III. De la Instalación del H. Ayuntamiento
+###### Artículo 20.
 
-###### ARTICULO 23.
+La autoridad educativa estatal apoyará a las instituciones educativas públicas que desarrollen programas y proyectos de innovación para mejorar la calidad educativa; y brindará asesoría técnico-pedagógica a las instituciones educativas particulares para el mismo fin.
 
-El H. Ayuntamiento del Municipio de San Francisco de los Romo, residirá en la Cabecera Municipal.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE JUNIO DE 2008)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2019)</small>
+###### Artículo 21.
 
-###### ARTICULO 24.
+Corresponde de manera exclusiva a la autoridad educativa estatal las siguientes atribuciones:
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal los Regidores y Síndico tanto del H. Ayuntamiento en funciones como el electo, se reunirán dentro de las setenta y dos horas anteriores al inicio del período constitucional, en el lugar y la hora que determine el H. Ayuntamiento en funciones, en sesión solemne se desarrollará conforme al siguiente procedimiento.
+I.- Prestar en la entidad los servicios de educación inicial, básica -incluyendo la indígena- especial, así como la normal y demás para la formación de maestros de educación básica;
 
-I. El Secretario del H. Ayuntamiento saliente, dará lectura a la lista de los integrantes del H. Ayuntamiento, que hayan resultado electos y comprobando que se tiene la asistencia que establecen la Constitución Política del Estado de Aguascalientes, la Ley Municipal para del Estado de Aguascalientes y el presente Código, dará la palabra al Presidente Municipal electo;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
 
-II. El Presidente Municipal electo solicitará a los Regidores y Síndicos electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos: "Yo protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patriótica mente (sic) el cargo de Presidente Municipal del Municipio de San Francisco de los Romo, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande";
+II.- Proponer a la autoridad educativa federal los contenidos regionales, que incluirán lo relativo a la geografía y la historia locales, y aquellos que posibiliten al educando, un desempeño más adecuado en el entorno social y cultural de la entidad, para su incorporación en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
-III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios respectivamente del Municipio de San Francisco de los Romo que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio "…" Sí Protesto". Contestan los Regidores y Síndicos;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
 
-IV. Dirá entonces el Presidente Municipal: "Si así no lo hicieren que el Municipio se los demande";
+III.- Ajustar en su caso, el calendario escolar para cada ciclo lectivo de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
 
-V. Los Regidores y Síndico que no hubieren asistido a esta Sesión deberán rendir la protesta en la primera sesión a que convoque el H. Cabildo;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-VI. Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
+IV.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con lo dispuesto por la Ley General del Servicio Profesional Docente;
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-a) “El H. Ayuntamiento del Municipio de San Francisco de los Romo, se declara constituido para el Período Constitucional del 15 de Octubre de… (Deberá citar el año en que se está tomando protesta) al 14 de Octubre de… (Deberá citar el año en el que termina el periodo constitucional)”; y
+V.- Revalidar y otorgar equivalencias de estudio de la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida; de igual forma, promover la simplificación de dichos procedimientos atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad.
 
-A esta sesión asistirá el Gobernador del Estado o su representante, el representante del Congreso del Estado, y el Presidente del Supremo Tribunal de Justicia del Estado o en su caso su representante.
+Asimismo, podrán autorizar o delegar, según sea el caso, que las instituciones particulares con validez oficial de estudios, y las públicas que no cuenten con autorización expresa en su normativa, otorguen revalidaciones y equivalencias parciales respecto de los planes y programas de estudios que imparten, siempre que estén de acuerdo a los lineamientos y criterios que la secretaria expida en términos del artículo 115 de esta Ley. Las autorizaciones que otorgue la autoridad educativa podrán ser revocadas cuando existe algún incumplimiento a los lineamientos que señale la autoridad educativa. Lo anterior con independencia de las infracciones que pudieran configurarse, en término de lo previsto en el capítulo VIII de esta Ley.
 
-La toma de protesta surtirá efectos a partir de la primera hora del día quince de octubre del año en que resultaron electos.
+Las constancias de revalidación que otorguen deberán ser registradas ante el Sistema de Información y Gestión Educativa bajo el procedimiento y formato que determine la autoridad educativa.
 
-VII. Por último el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal.
+VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica;
+
+VII.- Coordinar sus actividades con otras entidades federativas con el propósito de cumplir con las finalidades del sistema educativo nacional, cuando la calidad de los servicios o la naturaleza de las necesidades requieran el desarrollo de proyectos regionales;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VIII.- Evaluar y planear el sistema estatal de manera sistemática y periódica, a fin de identificar las necesidades del servicio educativo, acorde a los lineamientos generales de evaluación determinados por el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VIII Bis.- Evaluar sobre el tránsito de alumnos de un grado, nivel o tipo educativos a otro, certificación de egresados, asignación de estímulos y las decisiones respecto de personas o instituciones en lo particular, basadas en los resultados de los procesos de evaluación para el reconocimiento; así como la evaluación de los resultados de calidad de los programas compensatorios, de conformidad con los lineamientos que para tal efecto expida el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+IX.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y escuelas; un registro estatal de emisión, validación e inscripción de documentos académicos en coordinación del marco del sistema de información y gestión educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables; establecer y mantener actualizado un sistema estatal de información y gestión educativa mismo que deberá proporcionar información para satisfacer las necesidades de operación del sistema educativo estatal; así mismo, participará en la actualización e integración permanente del sistema de información y gestión educativa;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2018)</small>
+
+X.- Crear en coordinación con las instituciones educativas a que se refiere el artículo 55 de la presente Ley, lineamientos para elaborar un tabulador general que regule el cobro del título profesional; que en ningún caso excederá de un tanto más del importe de los derechos que se pagan por el servicio establecido en el artículo 185 fracción IV de la Ley Federal de Derechos;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+
+XI.- Ofrecer, en coordinación con la Secretaría Estatal de Salud, orientación y capacitación a los alumnos, padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los centros educativos con el objeto de promover la cultura de una alimentación sana y nutritiva;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XII.- Instrumentar las acciones necesarias mediante disposiciones de carácter general para la aplicación de los lineamientos a que deberán sujetarse el expendio y distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela, que expida la Secretaría de Educación Pública;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XIII.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica que establezca esta Ley y otras disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XIV.- Reglamentar las diversas conductas que constituyen una falta a la sana convivencia escolar, su gravedad y las sanciones correspondientes, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XV.- Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y la diversidad educativa;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XVI.- Participar con la Secretaría de Educación Pública en la operación de los mecanismos de administración escolar;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+XVII.- Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XVIII.- Disponer que en los planteles de educación básica el número de alumnos en cada grupo de clase no exceda de 30, con excepción de los grupos de educación especial;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+
+XIX.- Participar con la Secretaria de Educación en el cumplimiento de la fracción VIII Bis del artículo 12 de la Ley General de Educación referente a las normas de control escolar como facilitadoras del proceso de inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XX.- Ofrecer en coordinación con las autoridades competentes la orientación y capacitación a los padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los planteles educativos del Estado, con el objeto de contar con las condiciones necesarias para la atención de las niñas, niños y adolescentes con discapacidad;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2020)</small>
+
+XXI.- Establecer mecanismos tendientes a promover las actividades extracurriculares que fomenten el aprendizaje del estudiante de nivel básico, preferentemente en el ámbito socioemocional, colaborativo y de responsabilidad social. Dichas actividades podrán llevarse a cabo en alguna de las instituciones federales, estatales o municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2020)</small>
+
+XXII.- Implementar en coordinación con la autoridad competente y la Secretaría de Salud las medidas de protección para los alumnos ante la declaratoria de alerta de contingencia atmosférica de acuerdo a los lineamientos del Programa de Respuesta a Contingencias Atmosféricas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2020)</small>
+
+XXIII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22.
+
+Adicionalmente a las atribuciones exclusivas a que se refiere el artículo anterior de esta Ley, a la autoridad educativa estatal y de manera concurrente con la autoridad educativa federal, le corresponde el ejercicio de las siguientes atribuciones:
+
+I.- Determinar y formular planes y programas de estudio distintos a los de la educación básica obligatoria y a los de la formación de maestros de educación básica, además promover y prestar servicios educativos distintos de los previstos en las fracciones I y IV del Artículo 22, de acuerdo con las necesidades nacionales, regionales y estatales;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+I Bis.- Participar en las actividades tendientes a realizar evaluaciones para el ingreso, la promoción, el reconocimiento y la permanencia en el Servicio Profesional Docente, de conformidad con lo dispuesto en la Ley General del Servicio Profesional Docente;
+
+II.- Revalidar y otorgar equivalencias de estudios distintos a los de educación básica obligatoria, y a los de formación de maestros de educación básica, de acuerdo con los lineamientos que expida la autoridad educativa federal;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+II Bis.- Ejecutar programas para la inducción, actualización, capacitación y superación de maestros de educación media superior, los que deberán sujetarse, en lo conducente, a lo dispuesto por la Ley General del Servicio Profesional Docente;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+III.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica que impartan los particulares, a través de las modalidades escolarizadas, no escolarizadas y mixtas;
+
+IV.- Editar libros y producir otros materiales didácticos que apoyen y complementen a los libros de texto gratuitos;
+
+V.- Prestar servicios de consulta a través de bibliotecas públicas y medios electrónicos de acceso a la información, con el fin de apoyar al sistema educativo estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística;
+
+VI.- Promover permanentemente la investigación de tal manera que sirva como base a la innovación educativa;
+
+VII.- Impulsar el desarrollo de la enseñanza y la investigación científica y tecnológica vinculándolo con el sector productivo y social;
+
+VIII.- Fomentar y difundir las actividades artísticas, culturales y deportivas en todas sus manifestaciones;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+
+IX.- Ofrecer orientación y apoyo a los padres y madres de familia, tutores o quienes ejerzan la patria potestad, en los procesos de integración y desarrollo familiar que impacten en el trabajo escolar;
+
+X.- Fomentar las relaciones internacionales en materia de intercambio, investigación, cooperación educativa, científica, tecnológica, artística, cultural, educación física y deportiva;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XI.- Promover mecanismos de prevención, detección y atención de casos de violencia y abuso escolar en cualquiera de sus manifestaciones, en los términos de la Ley para Prevenir, Atender y Erradicar el Acoso y la Violencia Escolar del Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+XIII.- Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores hacia aquéllos corresponda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León; los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a las niñas, niños y adolescentes, y jóvenes;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XIV.- Diseñar y aplicar los instrumentos de evaluación que consideren necesarios para garantizar la calidad educativa en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XV.- Coordinar y operar un sistema de asesoría estatal y acompañamiento en las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los supervisores escolares;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XVI.- Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XVII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo del estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XVIII.- Diseñar y aplicar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas, acorde a los lineamientos que expida la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIX.- Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento a través de los planes y programas de estudio;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XX.- Suscribir con las autoridades correspondientes los acuerdos y convenios que faciliten la inscripción, reinscripción, y el transito nacional e internacional de estudiantes en nuestra entidad; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
+
+XXI.- Las demás que con tal carácter establezca esta Ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+
+El Gobierno Estatal celebrará convenios con el Ejecutivo Federal, para coordinar o unificar las actividades educativas a las que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, le confiere el Artículo 13 de la Ley General.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
+
+En el ejercicio de las atribuciones relativas a la educación inicial, básica -incluyendo la indígena- y especial que señalan los artículos 3, 21 y 22, se deberá observar lo dispuesto por la Ley General del Servicio Profesional Docente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2008)</small>
+
+### CAPÍTULO VIII. DE LAS INFRACCIONES, SANCIONES Y EL RECURSO ADMINISTRATIVO
+
+#### SECCIÓN 1. DE LAS INFRACCIONES Y SANCIONES
+
+###### Artículo 23.
+
+Cada Ayuntamiento deberá, sin perjuicio de la concurrencia de las autoridades educativas federales y estatales, desarrollar las siguientes actividades:
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+I.- Promover y prestar servicios educativos de cualquier tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones IV a VII del Artículo 22. Para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente;
+
+II.- Proporcionar preferentemente áreas para la construcción de centros educativos y espacios para las prácticas agrícolas y deportivas de los educandos;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+III.- Promover las estrategias necesarias para evitar la deserción e inasistencia del educando en edad escolar de las instituciones educativas y orientar a los padres, madres de familia o tutores para que cumplan los preceptos legales que hacen obligatoria la educación preescolar, primaria, secundaria, y la media superior;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Coordinar y promover con las autoridades competentes la realización de programas y acciones de educación para la salud y mejoramiento del ambiente, así como campañas para velar por la seguridad del educando en los planteles educativos; para prevenir, combatir, y erradicar la drogadicción, el alcoholismo, el tabaquismo y otras enfermedades de impacto sociocultural; así como la violencia o abuso escolar;
+
+V.- Crear y apoyar programas de servicio social que tiendan a beneficiar a la comunidad en general;
+
+VI.- Auxiliar al Ejecutivo del Estado en el cumplimiento de esta Ley;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+VII.- Prohibir el establecimiento de cantinas, billares, prostíbulos u otros establecimientos que perjudiquen la formación de los educandos, en un radio no menor de 200 metros de las escuelas;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+VIII.- Coadyuvar con las instancias del Sistema Educativo Estatal en las actividades a que se refiere la fracción XXIII del Artículo 7 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+IX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+
+El Gobierno Estatal promoverá la participación directa del Municipio para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales, así como coadyuvar en la vigilancia de los edificios escolares.
+
+El Gobierno Estatal y los Municipios, podrán celebrar convenios para coordinar o unificar sus actividades educativas, entre otras: las científicas, tecnológicas, artísticas, culturales, de educación física y deportes para cumplir de mejor manera las responsabilidades a su cargo.
+
+###### Artículo 24.
+
+Las autoridades educativas, federal y estatal, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del sistema educativo nacional, formular recomendaciones y convenir acciones para apoyar la función social educativa. Estas reuniones serán presididas por la Secretaría de Educación Pública.
 
 ### CAPITULO IV. De las Sesiones del H. Cabildo
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
 
-###### ARTICULO 25.
+###### Artículo 25.
 
-Se denomina H. Cabildo al H. Ayuntamiento en sesión. Las Sesiones del H. Ayuntamiento serán: ordinarias, extraordinarias y solemnes, conforme a la Ley Municipal para el Estado de Aguascalientes.
+El Sistema Educativo Estatal es parte del Sistema Educativo Nacional, comprende los tipos, niveles y modalidades mencionados en el Artículo 4° de esta Ley.
 
-###### ARTICULO 26.
+###### Artículo 26.
 
-El H. Ayuntamiento celebrará Sesiones Ordinarias dentro de los 10 primeros días de cada mes, los Regidores y Síndico deberán ser citados con tres días naturales de anticipación como mínimo por el Presidente Municipal a través del Secretario del H. Ayuntamiento, a efecto de estar en la posibilidad de que en la Sesión se traten todos y cada uno de los asuntos correspondientes, anexándose en los respectivos citatorios el orden del día, así como copias de dictámenes o proyectos de reglamentos para su análisis y aprobación en su caso.
+La autoridad educativa estatal realizará las gestiones necesarias para vincular los diferentes tipos, niveles y modalidades de la educación con el objeto de cumplir con los fines establecidos en el Artículo 7° de esta Ley.
 
-###### ARTICULO 27.
+###### Artículo 27.
 
-El Secretario certificará pasados quince minutos de la hora señalada para el inicio de la sesión, de no existir quórum legal, se suspenderá la misma, señalándose como fecha para nueva sesión los tres días hábiles posteriores. En caso de que no se integre nuevamente el quórum legal, la sesión se pospondrá para la siguiente Sesión Ordinaria.
+La educación que se imparta en el Estado es un servicio público y de interés social.
 
-Para que exista quórum legal, se requiere la presencia de al menos el cincuenta por ciento más uno de los miembros del H. Ayuntamiento.
+Constituyen el sistema educativo estatal:
 
-###### ARTICULO 28.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-Serán Sesiones Extraordinarias las que se celebren entre los periodos de las ordinarias, a petición del Presidente Municipal, de uno de sus integrantes Regidores o Síndico y se tratará exclusivamente el o los asuntos para él que fue convocado el H. Ayuntamiento y serán citados por el Presidente Municipal a través del Secretario del H. Ayuntamiento.
+I.- Los educandos, maestros, maestras y padres de familia;
 
-###### ARTICULO 29.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-Serán Sesiones Solemnes aquellas que el H. Ayuntamiento les de ese carácter por la importancia que revistan y deben ser públicas. Siempre tendrán el carácter de Solemnes:
+II.- El servicio profesional docente;
 
-I. A las que asista el C, Presidente de los Esta dos Unidos Mexicanos o su representante;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-II. A las que asista el C. Gobernador Constitucional del Estado;
+III.- Las autoridades Educativas estatal y municipal;
 
-III. En las que se rinda la Protesta Constitucional de los miembros del H. Ayuntamiento;
+IV.- Los planes, programas, métodos y materiales educativos;
 
-IV. En las que el C. Presidente Municipal rinda su Informe Anual de Actividades, ante la ciudadanía; y
+V.- Las instituciones educativas del Estado y de sus organismos descentralizados;
 
-V. El 15 de Septiembre de cada año.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 30.
+VI.- Las instituciones particulares con autorización o reconocimiento de validez oficial de estudios;
 
-(DEROGADO, P.O. 24 DE MAYO DE 2021)
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 31.
+VII.- Las instituciones de educación superior a los que la Ley otorga autonomía;
 
-En las Sesiones Ordinarias podrá el H. Ayuntamiento utilizar la facultad potestativa de oír al auditorio en sus opiniones sobre el asunto a tratar en el orden del día, previa solicitud que se haga por escrito. Por ningún motivo se permitirá la intervención del público, sin haberse satisfecho este requisito; por lo que deberán hacerlo saber previamente al Secretario del H. Ayuntamiento, antes de iniciarse la sesión para su acuerdo y de haberse aprobado, deberán hablar sobre los temas para los cuales se les concede la intervención.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 32.
+VIII.- La evaluación educativa;
 
-En este tipo de Sesiones, el H. Ayuntamiento escuchará la opinión del público que participe en la sesión y podrá tomarla en cuenta al dictar las resoluciones.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+IX.- El sistema de información y gestión educativa; y
 
-###### ARTICULO 33.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-En las Sesiones con intervención al público, el Secretario del H. Ayuntamiento con la aprobación del Presidente Municipal, podrá suspender en el uso de la palabra al orador y ordenar desalojar el recinto parcial o totalmente en los siguientes casos:
+X.- La infraestructura educativa.
 
-I. Cuando la persona en el uso de la palabra desvirtúe el tema que se esté tratando;
+Las instituciones del sistema educativo estatal impartirán educación de manera que permita al educando incorporarse a la sociedad y en su oportunidad, desarrollar una actividad productiva y que permita, así mismo, al trabajador estudiar.
 
-II. Cuando se profieran injurias, palabras obscenas, amenazas o serias acusaciones en contra de personas determinadas;
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
-III. Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndico;
+Para los efectos de esta Ley y las demás disposiciones que regulan al sistema educativo estatal, se entenderán como sinónimos los conceptos de educador, docente, profesor y maestro.
 
-IV. Cuando en el auditorio se observen faltas de respeto para algún miembro del H. Ayuntamiento, o para alguno de los servidores públicos; y
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-V. Se proliferen aseveraciones que impliquen sumisión de un género hacia otro, o impliquen la realización de roles sexuales tradicionales y discriminatorios.
+###### Artículo 28.
 
-###### ARTICULO 34.
+El establecimiento de instituciones educativas que realice el Ejecutivo Estatal, así como la formulación de planes y programas de estudio para dichas instituciones distintos a los de educación preescolar, primaria, la secundaria, la media superior, la normal y demás para la formación de maestros de educación básica, se efectuará de acuerdo a la normatividad establecida por las autoridades educativas federal y estatal. Dichas dependencias expedirán constancias, certificados, diplomas y títulos que tendrán la validez correspondiente a los estudios realizados.
 
-Para las Sesiones Ordinarias, los Regidores y Síndico, deberán ser citados con tres días naturales de anticipación como mínimo, a excepción de las Extraordinarias a las cuales se citará de manera inmediata, por el Secretario del H. Ayuntamiento, a efecto de estar en posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, anexándose el orden del día y copias de los dictámenes o proyectos de reglamentos que se presentarán para su discusión y aprobación, El Secretario certificará, pasados quince minutos de la hora señalada para la Sesión, que no existe el quórum legal para los efectos de suspensión de la misma.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
-Para que exista quórum legal se requiere la presencia de al menos el cincuenta por ciento más uno de los miembros del H. Ayuntamiento, hecha excepción de las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndico que asistan.
+###### Artículo 29.
 
-###### ARTICULO 35.
+Las negociaciones o empresas a que se refiere la fracción XII del apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, están obligadas a establecer y sostener escuelas cuando el número de estudiantes que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa estatal. Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificios, instalaciones y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables, se regirán acorde a lo previsto en la presente Ley y demás disposiciones aplicables.
 
-El H. Ayuntamiento podrá ordenar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de su competencia, siempre que así lo requiera la mayoría de los integrantes.
+El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las Leyes y reglamentos que no serán inferiores a las que otorgue la autoridad educativa estatal en igualdad de circunstancias.
 
-Dichos servidores públicos rendirán los informes solicitados y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
+La autoridad educativa estatal podrá celebrar con los patrones convenios para el cumplimiento de las obligaciones que señala el presente Artículo.
 
-###### ARTICULO 36.
+###### Artículo 30.
 
-El Secretario del H. Ayuntamiento deberá estar presente durante la celebración de las Sesiones de Cabildo para dar fe y refrendar los acuerdos tomados en la Sesión, pudiendo expedir certificaciones de los acuerdos asentados en el Libro de Actas. Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el funcionario que determine el H. Cabildo.
+La planeación del desarrollo del sistema estatal de educación se orientará a proporcionar un servicio educativo, equitativo y de calidad, teniendo como fundamento la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, el Programa Sectorial de la Federación, el Programa Estatal de Educación, el Programa Anual de Actividades, la Ley General del Servicio Profesional Docente y las demás disposiciones legales relativas al tema.
 
-###### ARTICULO 37.
+###### Artículo 31.
 
-Las Sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, pudiendo efectuarse en lugar distinto, siempre que el Cuerpo Colegiado en sesión así lo declare, previamente, recinto oficial.
+La autoridad educativa estatal coordinará la elaboración y operación de un Programa Estatal de Educación de acuerdo a las disposiciones federales vigentes que tome en cuenta todos los tipos, niveles y modalidades educativos. Considerará la legislación educativa vigente, los aspectos cuantitativos como los cualitativos de las actividades educativas presentes y futuras.
 
-###### ARTICULO 38.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Es obligación de los integrantes del H. Ayuntamiento, concurrir a las Sesiones de Cabildo a que sean convocados. El Regidor o Síndico que falte sin causa justificada a tres o más Sesiones será sancionado de acuerdo a lo que señala la Ley Municipal para el Estado de Aguascalientes y el presente Código.
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 31 Bis.
+
+El Programa Estatal de Educación, establecerá que en las escuelas oficiales de nivel básico, los grupos de clase no podrán exceder de 30 alumnos. Esta disposición no será aplicable a los grupos de educación especial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
+
+###### Artículo 32.
+
+El Programa Sectorial de Educación, deberá:
+
+I.- Desarrollar los fines y propósitos señalados en esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+II.- Apoyarse en los planes nacional y estatal de desarrollo;
+
+III.- Tomar en cuenta las propuestas de los diversos sectores involucrados en la educación así como la de los Consejos de participación social, para mejorar la calidad de la educación;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+IV.- Formularse con visión a largo plazo, contemplando el período de transición de los alumnos y alumnas desde educación inicial hasta la educación superior;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+V.- Incluir en su estructura, entre otros, los siguientes elementos: Diagnóstico del sistema educativo estatal, estrategias de acción y mecanismos de seguimiento y evaluación;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VI.- Establecer mecanismos efectivos para identificar, valorar, apoyar e integrar oportunamente y de manera productiva en la sociedad a los alumnos de educación especial;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VII.- Realizar la planeación y la programación global del Sistema Educativo Estatal atendiendo las directrices emitidas por el Instituto Nacional para la Evaluación de la Educación; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VIII.- Los demás requisitos que señale la Ley de Planeación Estratégica del Estado de Nuevo León.
+
+Podrá ser modificado en el transcurso de su aplicación con la participación de los organismos, instituciones y demás instancias que contribuyeron en su elaboración, cuando las necesidades del entorno social y educativo así lo requieran.
+
+Deberá ser publicado en el Periódico Oficial del Estado y será de cumplimiento obligatorio para todo el sistema educativo estatal.
+
+###### Artículo 33.
+
+La autoridad educativa estatal dará a conocer previamente, al inicio del ciclo lectivo, el programa anual de actividades en la entidad.
+
+###### Artículo 34.
+
+Las autoridades educativas, en sus respectivas competencias, revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los maestros, de alcanzar más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia y de manera más eficiente.
+
+En las actividades de supervisión e inspección las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente.
+
+###### Artículo 35.
+
+La autoridad educativa estatal integrará un sistema de información que contenga una base de datos actualizada y los indicadores necesarios para la planeación educativa.
+
+###### Artículo 36.
+
+El Estado en concurrencia con el Ejecutivo Federal, así como los gobiernos municipales, de conformidad con lo establecido en sus respectivas Leyes de Ingresos, Presupuestos de Egresos, y demás normatividad aplicable, concurrirán en el financiamiento educativo e invertirán recursos económicos que propicien el funcionamiento adecuado de los servicios educativos públicos para la educación básica y media superior en la Entidad.
+
+Los recursos federales recibidos para este fin por la entidad federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia entidad.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+El Estado otorgará las facilidades necesarias para que el Ejecutivo Federal verifique la correcta aplicación de dichos recursos, así como el funcionamiento y evaluación de las escuelas e instituciones para hacer efectiva la rendición de cuentas a la sociedad, respecto de las políticas, acciones y el uso del presupuesto asignado al sector educativo.
+
+En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
+
+La autoridad educativa estatal deberá incluir en el proyecto de presupuesto que remita a la Secretaría de Finanzas y Tesorería General del Estado, para que posteriormente se someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en el artículo 22 fracción XVIII de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+En lo que se refiere a la Universidad Autónoma de Nuevo León y a las Universidades Tecnológicas del Estado, en su solicitud de proyecto de presupuesto deberá tener al menos una ampliación igual al porcentaje de incremento de la matrícula que tenga la institución en el año en curso.
+
+###### Artículo 37.
+
+El Gobierno Estatal, de conformidad con las disposiciones aplicables, proveerá lo conducente para que cada Municipio reciba recursos para el cumplimiento de las responsabilidades que en términos del Artículo 23 de la presente Ley estén a cargo de la autoridad municipal.
+
+###### Artículo 38.
+
+En el cumplimiento de lo dispuesto en los Artículos anteriores de esta sección, el Ejecutivo Federal y el Gobierno del Estado, tomarán en cuenta el carácter prioritario de la educación pública para los fines del desarrollo estatal y nacional.
+
+En todo tiempo procurarán fortalecer las fuentes del financiamiento a la tarea educativa y destinar recursos presupuestarios crecientes, en términos reales, para la educación pública.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
 ### CAPITULO V. Del Debate en las Sesiones
 
-###### ARTICULO 39.
+###### Artículo 39.
 
-El Presidente Municipal presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del H. Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndico que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas.
+La inversión dirigida al costo de los recursos humanos deberá impactar en forma tangible, en elevar el nivel de vida de los trabajadores de la educación y sus familias, la calidad de la educación, la actualización y capacitación y la formación continua del magisterio, la investigación y la eficiencia de la gestión escolar.
 
-###### ARTICULO 40.
+###### Artículo 40.
 
-El Presidente Municipal, los Regidores y Síndico podrán proponer, opinar, informar y discutir en forma razonada y respetuosa sobre los asuntos que conozca el H. Ayuntamiento.
+El Ejecutivo Estatal podrá gestionar en beneficio de la educación, la obtención de fondos financieros alternos, procedentes de organismos locales, nacionales e internacionales, con el objeto de apoyar programas de desarrollo educativo e investigación.
 
-###### ARTICULO 41.
+###### Artículo 41.
 
-Sólo se concederá el uso de la palabra a los Regidores o Síndico hasta dos veces, con excepción de quienes proponen el Dictamen, los cuales podrán intervenir cuantas veces lo estimen necesario, siempre y cuando no se haya declarado el asunto totalmente discutido. Si la mayoría lo aprueba, podrá concederse por más veces el uso de la palabra a cualquier miembro del H. Ayuntamiento.
+Son de interés social las inversiones que en materia educativa realicen el Estado -Federación, Entidad federativa y Municipios-, sus organismos descentralizados y los particulares.
 
-###### ARTICULO 42.
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
-Las opiniones y propuestas que hagan los comisionados sobre asuntos de su ramo, se discutirán y aquellas que hagan sobre asuntos que no fueren de sus comisiones se pasarán a la comisión correspondiente para dictamen o que el H. Ayuntamiento por el voto del cincuenta por ciento más uno de los miembros del Cabildo, se acordará poner el asunto a discusión y en su caso a su aprobación.
+###### Artículo 41 Bis.
 
-###### ARTICULO 43.
+La autoridad educativa estatal y la autoridad educativa municipal, en el ámbito de sus atribuciones, deberán ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas. En las escuelas de educación los programas se efectuarán de conformidad con los lineamientos que expida la autoridad educativa federal.
 
-Las opiniones o propuestas que se realicen en el punto de asuntos generales establecido en el orden del día de la Sesión, no serán sometidas a votación inmediata, se turnarán a la comisión correspondiente. De estimarse por el H. Cabildo que ameritan análisis, serán incluidos en el orden del día de la siguiente Sesión Ordinaria.
+Los programas de gestión escolar, tendrán como objetivos:
 
-###### ARTICULO 44.
+I.- Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar;
 
-Durante las discusiones, el Presidente Municipal, los Regidores y Síndico guardarán compostura. Las intervenciones serán en todo caso claras y precisas, las que deberán referirse al asunto en análisis; cuando se suscite alguna desviación el Secretario del H. Ayuntamiento, pedirá al expositor que se conduzca exclusivamente al tema en análisis.
+II.- Desarrollar una planeación anual de actividades, con metas verificables y puestas en conocimiento de la autoridad y la comunidad escolar; y
 
-###### ARTICULO 45.
+III.- Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo el liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
 
-Al ponerse a discusión todo asunto, deberán exponerse las razones y fundamentos que los motiven. Si al término de dicha exposición nadie solicitare el uso de la palabra o bien cuando se considere suficientemente discutido se someterá a votación.
+La autoridad educativa estatal deberá incluir en el proyecto de presupuesto que someta para aprobación, los recursos suficientes para fortalecer la autonomía de la gestión escolar.
 
-###### ARTICULO 46.
+Las escuelas públicas tendrán autonomía de gestión entendida como el conjunto de acciones que permite a estas tomar decisiones para su mejor funcionamiento, conforme a las disposiciones legales aplicables; y deberán administrar en forma transparente y eficiente los recursos que reciban, con base en su planeación anual de actividades.
 
-Cuando un dictamen o propuesta constare de más de un Artículo, se discutirá en lo general y si se declara someter a votación, podrá discutirse y resolverse en lo particular. Siempre que el Presidente Municipal, un Regidor o Síndico lo pida, podrá el H. Cabildo acordar por mayoría de votos, que se divida en las partes que sea necesario para facilitar la discusión.
+La autonomía de gestión no implica la privatización de las escuelas públicas ni de elemento alguno del sistema educativo estatal.
 
-Si se propusieran enmiendas a un Artículo, el autor o autores de la propuesta, dictamen o promoción que se discuta, manifestarán si están conformes con aquéllas. En este caso se discutirá el Artículo enmendado, de lo contrario se discutirá tal como se propuso al principio. Sólo en caso de que el Artículo fuere desechado, se discutirá la enmienda.
+###### Artículo 42.
 
-###### ARTICULO 47.
+La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social, así como promover la cultura de una alimentación sana y nutritiva de los menores de cuatro años de edad. Se orientará de acuerdo al plan y programas de estudio establecidos por las autoridades educativas federal y estatal de manera concurrente, incluye la orientación a padres, madres de familia o tutores para la educación de sus hijos e hijas o pupilos.
 
-Si se propusieran adiciones y las aceptara el autor de la proposición, opinión o dictamen se discutirán conjuntamente; en caso contrario, se discutirán las adiciones en la siguiente Sesión.
+###### Artículo 43.
 
-###### ARTICULO 48.
+La educación de tipo básico está compuesta por el nivel de preescolar, el de primaria y el de secundaria. Tiene como propósito el desarrollo integral y armónico de todas las facultades de los educandos, para que adquieran los valores cívicos y éticos, actitudes, conocimientos, aptitudes, habilidades y destrezas que se requieran para su vida presente, su desempeño futuro y el desarrollo de la sociedad.
 
-Si el dictamen fuere desechado, cualquier integrante del Cabildo podrá proponer los términos en que deba resolverse el asunto, y entonces se pondrá a discusión la nueva propuesta. Si ninguno quisiera hacer la proposición, volverá el dictamen a la Comisión para que lo presente reformado.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
-###### ARTICULO 49.
+###### Artículo 44.
 
-No podrá efectuarse ninguna discusión, ni resolverse ningún asunto, cuando el Regidor o el Síndico del ramo estén ausentes, por causa justificada, excepto cuando la persona aludida hubiere expresado su consentimiento por escrito. Cuando la Comisión esté integrada por dos o más Regidores bastará la presencia de uno de ellos.
+La educación preescolar, es aquella que se ofrece a partir de los tres años de edad cumplidos al 31 de Diciembre del ciclo escolar vigente. Se orientará de acuerdo al plan y programas de estudio establecidos por las autoridades educativas federal y estatal de manera concurrente a los fines y criterios establecidos en los Artículos 7° y 8° de esta Ley. Constituye requisito previo a la educación primaria.
 
-###### ARTICULO 50.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
-En materia de discusiones, sólo se concederá el uso de la palabra hasta en tres ocasiones a un mismo Regidor o Síndico por un lapso máximo de cinco minutos cada una de ellas, a excepción del o los autores del dictamen o proposición y los comisionados del ramo, quienes podrán intervenir cuando lo deseen, mientras no se declare por el pleno que el asunto está suficientemente discutido. Se exceptúan de lo anterior, aquellos casos en que por la importancia del tema, el H. Cabildo al inicio de la Sesión apruebe que no haya limitación en el tiempo y número de participaciones.
+###### Artículo 45.
 
-###### ARTICULO 51.
+Para la inscripción al nivel de educación primaria, es necesario haber cursado y aprobado el nivel preescolar de conformidad con los planes y programas establecidos por la autoridad educativa federal, así como tener seis años de edad cumplidos al 31 de Diciembre del año de inicio del ciclo escolar. La educación primaria comprende seis años de escolaridad y se orienta de acuerdo al plan y programas de estudio establecidos también por la autoridad educativa federal. La primaria constituye antecedente obligatorio de la secundaria.
 
-Cuando los integrantes del H. Cabildo fueran objeto de alusiones personales dentro de la Sesión, podrán contestarlas si lo desean, haciendo uso de la voz, hasta por cinco minutos.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 52.
+###### Artículo 46.
 
-Ninguna discusión podrá suspenderse si no ha concluido, al menos que la mayoría de los integrantes del H. Cabildo así lo dispongan.
+En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, de salud integral, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
 
-###### ARTICULO 53.
+Los programas de Salud integral que se mencionan en el párrafo que antecede, deberán desarrollarse en apoyo con las autoridades estatales en materia de salud, así como con instituciones privadas, los cuales tendrán como principales objetivos los siguientes:
 
-Iniciada la discusión de un asunto, sólo podrá suspenderse:
+I.- Inculcar en el colectivo escolar, una mejor cultura de la salud basada en la acción comunitaria, con una visión amplia de causas y riesgos mediante análisis y acción comprometida para el control adecuado de enfermedades y prevención de las mismas.
 
-I. Por desórdenes graves en el recinto; y
+II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud integral de alta calidad y cobertura estatal.
 
-II. Por moción suspensiva a propuesta de uno de los miembros del H. Cabildo, y que sea aprobado por mayoría del mismo.
+III.- Establecer en las escuelas entornos saludables y seguros que garanticen la calidad en la salud.
 
-###### ARTICULO 54.
+IV.- Crear un paquete común garantizado de acciones concretas y medibles para la prevención de enfermedades y promoción de la salud.
 
-En las discusiones generales de los asuntos, terminada la intervención de los oradores, el Presidente Municipal preguntará a los miembros del H. Cabildo si consideran que están suficientemente discutidos, y si así fuere, declarará agotados tales asuntos, sometiéndolos a votación.
+###### Artículo 47.
 
-###### ARTICULO 55.
+La educación secundaria comprende tres grados educativos. Se orienta por el plan y programas de estudio establecidos por la autoridad educativa federal y los fines y criterios establecidos en los Artículos 7° y 8° de esta Ley.
 
-Cuando sea desechado un proyecto o dictamen en lo general, el Presidente Municipal cuestionará a los miembros del H. Cabildo, si se devuelve a la Comisión respectiva para un nuevo estudio o si se desecha en forma definitiva; esta resolución se tomará en votación nominal.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 56.
+###### Artículo 48.
 
-La discusión del asunto sólo podrá suspenderse por una sola vez, la discusión deberá continuarse el día y la hora fijada por quien presida la Sesión.
+La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las necesidades de la población rural dispersa y a las características lingüísticas y culturales de cada uno de los grupos indígenas y migratorios que habitan en el Estado. Para tal efecto, se promoverá entre estos últimos la educación bilingüe e intercultural, con libros y materiales didácticos, además del español en su lengua materna.
 
-###### ARTICULO 57.
+Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, las autoridades educativas promoverán acciones similares.
 
-En ningún caso las Comisiones tendrán facultades de ejecución, sólo el H. Ayuntamiento podrá ejecutarlos por el conducto establecido.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
-###### ARTICULO 58.
+###### Artículo 49.
 
-Los comisionados deberán, concretarse a vigilar y a observar las actividades que correspondan a sus ramos, comunicando al H. Ayuntamiento las irregularidades detectadas y proponer en su caso las medidas de solución conducentes.
+La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje con equidad inclusiva, en un contexto educativo incluyente, basándose en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de niñas, niños y adolescentes con discapacidad propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos; para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales, la capacitación promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención la cual estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a las disposiciones legales que resulten aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Los planteles educativos, en donde se imparta la educación especial, deberán ser accesibles y contar al menos con un titular y un suplente facultados para la atención de las niñas, niños y adolescentes con alguna discapacidad, cuando así se requiera.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+La educación especial proporcionará orientación a los padres, madres de familia o tutores, maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+
+Para apoyar el desarrollo pleno de los alumnos con necesidades educativas especiales deberán establecerse programas educativos adecuados a su edad, madurez y potencial cognoscitivo, encaminados a aprovechar toda su capacidad, proporcionando el Estado los medios materiales, técnicos y económicos necesarios para su máximo desarrollo personal y profesional, ampliando las oportunidades para su formación integral, evitando cualquier acto de discriminación que impida su desarrollo, de conformidad con los conocimientos interdisciplinarios más avanzados que se hayan desarrollado a este respecto.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+En el caso de personas con discapacidad, la educación deberá atender lo dispuesto en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
+
+###### Artículo 50.
+
+Para cumplir con los fines de la educación especial, la autoridad educativa estatal deberá ampliar gradualmente este servicio a todos los niveles de educación básica, asignando a cada escuela donde exista la necesidad, un equipo interdisciplinario conformado entre otros por maestros y maestras especialistas, psicólogos y psicólogas, así como, trabajadores y trabajadoras sociales que apoyen el proceso de integración escolar de los alumnos y alumnas con necesidades educativas especiales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
+
+###### Artículo 51.
+
+Los niños, niñas y adolescentes con necesidades educativas especiales deberán ser atendidos de manera adecuada a sus propias condiciones con equidad social inclusiva y con perspectiva de género con el fin de promover la satisfacción de sus necesidades de aprendizaje. Además, se establecerán mecanismos que favorezcan su movilidad escolar con base en los lineamientos para la evaluación diagnosticada, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como la media superior y superior en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+Para la identificación, evaluación, atención educativa, acreditación y certificación, de alumnos con capacidades y aptitudes sobresalientes, las instituciones que integran el sistema educativo estatal se sujetarán a los lineamientos establecidos por la autoridad educativa federal en la materia, con base en la disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
+
+###### Artículo 52.
+
+La educación media superior comprende el bachillerato, los demás estudios equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes. Se organizará a través del sistema nacional de educación media superior que establece el marco curricular común a nivel nacional y la revalidación y reconocimiento de estudios entre las opciones que ofrece este tipo educativo.
+
+###### Artículo 53.
+
+La educación media superior tendrá como propósito ofrecer al alumnado la formación que le permita desarrollar competencias generales para continuar su escolaridad y, específicas, para su inserción en el sector laboral. Estas competencias se refieren a la adquisición y desarrollo de valores, conocimientos, habilidades y actitudes cuya formación se inicia en la educación básica.
+
+###### Artículo 54.
+
+La educación media superior podrá ser propedéutica, terminal o bivalente.
+
+I.- Será propedéutica la que se oriente hacia la formación del alumnado para continuar con estudios de educación superior;
+
+II.- Será terminal la que ofrezca una preparación que permita a quienes egresen su integración al sector productivo; y
+
+III.- Será bivalente la que atienda al carácter terminal sin dejar de ser propedéutica.
+
+###### Artículo 55.
+
+La educación superior es la que se imparte después del bachillerato o de sus equivalentes. Está compuesta por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades. Debe constituirse como una aportación efectiva a la formación integral de la persona y contribuir al desarrollo social, cultural, político y económico de la población.
+
+La educación superior se impartirá por las siguientes instituciones:
+
+I.- La Universidad Autónoma de Nuevo León, las instituciones particulares de educación superior que se rigen por su propio estatuto constitutivo autorizado por las Autoridades Educativas, y aquéllas que cuenten con reconocimiento de validez oficial de estudios;
+
+II.- Las escuelas normales, así como las demás instituciones públicas y particulares que ofrezcan estudios para la formación de maestros, en todos sus niveles y especialidades;
+
+III.- Las instituciones superiores de educación tecnológica; y
+
+IV.- Las instituciones que ofrezcan educación que requiera como antecedente el bachillerato o su equivalente.
+
+###### Artículo 56.
+
+Las instituciones de educación superior, respetando su autonomía, se vincularán académicamente con los distintos tipos y niveles que conforman el sistema educativo estatal, así como con el entorno social y productivo en sus ámbitos local, nacional e internacional.
+
+###### Artículo 57.
+
+En los términos del Artículo anterior, la autoridad educativa estatal integrará y coordinará un consejo que coadyuve a la planeación, desarrollo, evaluación y supervisión de la educación media superior y superior en la entidad. Este organismo estará conformado de manera plural, incluyendo como invitados a representantes de la sociedad y tendrá las siguientes funciones:
+
+I.- Proponer alternativas para el desarrollo de la educación media superior y superior de acuerdo a las necesidades económicas y socioculturales de la entidad;
+
+II.- Proponer políticas y estrategias para el desarrollo de la educación media superior y superior y emitir recomendaciones respecto a la creación de nuevas carreras e instituciones en el Estado, de acuerdo a las posibilidades económicas y socioculturales de la entidad;
+
+III.- Conocer sobre la supervisión en la aplicación de planes y programas de estudios que ofrezcan las instituciones de educación superior;
+
+IV.- Promover la comunicación y acuerdos interinstitucionales;
+
+V.- Emitir recomendaciones académicas ante las solicitudes de reconocimiento de validez oficial de estudios de las instituciones particulares de educación media superior y superior;
+
+VI.- Definir estándares educativos para las instituciones de educación media superior y superior; y
+
+VII.- Acreditar a las instituciones de educación superior que cumplan con los estándares de calidad educativa.
+
+###### Artículo 58.
+
+Los estudiantes del nivel de licenciatura deberán prestar servicio social en los casos y términos señalados en la Ley y demás disposiciones reglamentarias correspondientes. En éstas, se preverá la prestación del servicio social como requisito previo para obtener el título profesional.
+
+El servicio social se efectuará en actividades relacionadas con la formación profesional del estudiantado y con una orientación de beneficio social.
 
 ### CAPITULO VI. De las Votaciones de las Sesiones
 
-###### ARTICULO 59.
+###### Artículo 59.
 
-Las votaciones serán de tres clases:
+La educación para adultos que se imparta en el Estado, está destinada a los hombres y mujeres de quince años o más que no hayan cursado o concluido la educación básica y comprende, entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, se ofrecerá con las particularidades más adecuadas, preferentemente en las escuelas primarias, secundarias generales, técnicas y nocturnas, además brindará apoyos especiales a aquellas personas que encontrándose en esta modalidad presenten alguna discapacidad o necesidad educativa especial. Esta educación se apoyará en los principios de equidad y de solidaridad social.
 
-I. Económicas: Que consiste en levantar la mano los que aprueben la resolución correspondiente y no hacerlo, los que voten en contra;
+###### Artículo 60.
 
-II. Nominales: Consiste en preguntar personalmente a los integrantes del H. Cabildo si aprueba o desaprueba o se abstiene, debiendo contestar en que sentido emite su voto; y
+Tratándose de la educación para adultos, la autoridad educativa estatal en coordinación con la autoridad educativa federal, podrá prestar servicios que conforme a la presente Ley corresponda.
 
-III. Secretas: Consiste en emitir el voto a través de cédulas diseñadas para tal fin y en forma impersonal.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 60.
+Los beneficiarios de esta educación podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos establecidos por la autoridad educativa federal.
 
-En caso de empate por cualquiera de los medios de votación el asunto se resolverá por el voto de calidad de quien presida la Sesión.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 61.
+El Estado organizará servicios permanentes de promoción y asesoría de educación para adultos y darán las facilidades necesarias a sus trabajadores y familiares para estudiar y acreditar la educación primaria, la secundaria, y la media superior.
 
-La votación económica será para la aprobación del Orden del Día y el Acta de la Sesión anterior; la votación nominal será para la aprobación de dictámenes y reglamentos y la votación secreta, cuando el caso lo amerite, será acordada por el Pleno al inicio de la Sesión.
+Quienes participen voluntariamente en tareas relativas a esta educación, tendrán derecho en su caso, a que se les acredite como servicio social.
 
-###### ARTICULO 62.
+###### Artículo 61.
 
-Se abstendrán de votar y de discernir los integrantes del H. Cabildo que tuvieran interés personal en el asunto a discusión, los que son apoderados de la persona interesada o parientes de la misma, dentro del tercer grado de consanguinidad o segunda de afinidad.
+La formación para el trabajo procurará la adquisición de conocimientos, habilidades, destrezas y valores universales que permitan, a quien la recibe, desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación u oficio calificado.
 
-###### ARTICULO 63.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-Mientras la votación se verifica, ningún integrante del H. Cabildo podrá salir del Recinto de Sesiones, salvo permiso previo de quien preside la misma, en caso contrario se le aplicarán las sanciones que previene la ley Municipal para el Estado de Aguascalientes y el presente Código.
+###### Artículo 62.
 
-###### ARTICULO 64.
+La educación para adultos y la formación para el trabajo se orientarán hacia la educación permanente, entendida como un proceso que busca mejorar la formación de las personas mediante diversas modalidades educativas. Se caracteriza por ser continua, integral, de calidad y por reconocer los conocimientos y habilidades adquiridos fuera del sistema escolar.
 
-El Presidente Municipal será el responsable de dar cumplimiento a los acuerdos tomados por los integrantes del H. Cabildo, debiendo informar de los resultados en las Sesiones posteriores.
+###### Artículo 63.
+
+La autoridad educativa estatal en su respectivo ámbito de competencia acorde a las disposiciones que establece la Ley General del Servicio Profesional Docente, y demás normatividad aplicable desarrollará en la Entidad el proceso de formación, actualización, capacitación y superación profesional para docentes que tendrá las finalidades siguientes:
+
+I.- Formación de maestros y maestras de educación inicial, básica, indígena, especial y de educación física, con nivel de licenciatura;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+II.- La formación continua, la actualización de conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior. El cumplimiento de estas finalidades se sujetará, en lo conducente, a los lineamientos, medidas y demás acciones que resulten de la aplicación de la Ley General del Servicio Profesional Docente;
+
+III.- La realización de programas de especialización, maestría y doctorado adecuados a las necesidades y recursos educativos de la entidad; y
+
+IV.- El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+La autoridad educativa estatal podrá coordinarse para llevar a cabo actividades relativas a las finalidades previstas en este Artículo, cuando la calidad de los servicios o la naturaleza de las necesidades hagan recomendable proyectos regionales. Asimismo, podrá suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.
+
+###### Artículo 64.
+
+Los candidatos a ingresar como alumnos a las escuelas normales públicas y particulares, estarán sujetos a un proceso de evaluación diagnóstica, vocacional y académica de conformidad con la normatividad federal existente y con derecho a revisión a petición de la parte.
 
 ### CAPITULO VII. De la Revocación de Acuerdos
 
-###### ARTICULO 65.
+###### Artículo 65.
 
-los acuerdos del H. Cabildo no podrán revocarse sino en una Sesión a la que concurran el cincuenta por ciento más uno de los integrantes del H. Ayuntamiento.
+Las escuelas de educación básica deberán colaborar con las instituciones formadoras de docentes de educación básica -preescolar, primaria y secundaria- en el desarrollo de proyectos educativos que incidan en la formación profesional de los futuros docentes.
 
-###### ARTICULO 66.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-No podrán en la misma Sesión revocarse las proposiciones o dictámenes en que se consultare la revocación de un acuerdo, sino que se resolverá en la ordinaria o extraordinaria siguiente, expresándose en la cédula citatoria el acuerdo que se trate de revocar.
+###### Artículo 66.
 
-###### ARTICULO 67.
+La autoridad educativa estatal prestará los servicios de actualización, capacitación y superación profesional para maestros y maestras del sistema educativo estatal, así como el fortalecimiento de los conocimientos y capacidades del personal educativo para la efectividad del derecho de todos los educandos a una educación de calidad, con equidad e inclusión. La asistencia a éstos será de carácter voluntario si es fuera de horario de trabajo y se ajustará a las disposiciones que establece la legislación laboral vigente.
 
-El Presidente Municipal, los Regidores y Síndico que con causa justificada no pudieran asistir a la Sesión en que deba tratarse la revocación de acuerdos, podrán remitir por escrito su voto enviándolo en sobre cerrado, que abrirá el Secretario del H. Ayuntamiento en el momento de la votación, y que será posteriormente ratificada por el Regidor o Síndico y deberá constar en el acta correspondiente.
+###### Artículo 67.
+
+El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren relaciones armónicas, de respeto e igualdad entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres, madres de familia e instituciones públicas y privadas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
+
+###### Artículo 67 Bis.
+
+En la impartición de educación para niñas, niños y adolescentes se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
+
+Se brindarán cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
 
 ### CAPITULO VIII. De las Comisiones
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-###### ARTICULO 68.
+###### Artículo 68.
 
-El H. Ayuntamiento nombrará las Comisiones a efecto de cumplir con las atribuciones y obligaciones que la Ley le confiere al H. Ayuntamiento, se integran Comisiones Permanentes y serán las siguientes:
+Las alumnas y los alumnos son la razón de ser del proceso educativo.
 
-I.- Gobierno y Hacienda Pública;
+En consecuencia tienen derecho a:
 
-II.- Servicios Públicos, Ecología y Juventud;
+I.- Recibir una educación de calidad;
 
-III.- Educación, Cultura, Deporte y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-IV.- Desarrollo Social, Obras Públicas y Asuntos Metropolitanos;
+II.- Estudiar en un ambiente de tolerancia, armonía y de respeto mutuo, con la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-V.- Salud, Derechos Humanos y Servicios Pre-hospitalarios;
+En caso de que las y los educandos; así como las autoridades educativas, tengan conocimiento de casos de violencia, de abuso en cualquiera de sus manifestaciones, o de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad competente;
 
-VI.- Agua Potable, drenaje y alcantarillado;
+III.- Desarrollar su autoestima y a ser tratado con respeto y tolerancia a sus diferencias individuales;
 
-VII.- D.I.F. Municipal, Equidad y Género;
+IV.- No interrumpir su proceso educativo sin que medie causa legal alguna, ni aún en caso de embarazo; e
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-VIII.- Seguridad Pública y Movilidad Municipal, y Protección Civil
+V.- Integrar sociedades de alumnos y alumnas para fortalecer la cultura de la transparencia y de la participación democrática.
 
-Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+###### Artículo 69.
 
-###### ARTICULO 69.
+El alumnado del sistema educativo estatal deberá, en relación con su edad y nivel educativo, cumplir con las disposiciones que para ellos sean señaladas en la normatividad emitida por las autoridades educativas correspondientes.
 
-las Comisiones serán integradas a propuesta del Presidente Municipal, a más tardar en la segunda Sesión Ordinaria del H. Cabildo y podrán ser modificadas previo acuerdo del mismo y durarán todo el periodo constitucional, asumiendo las facultades y obligaciones contempladas en la ley Municipal para el Estado de Aguascalientes, así como en el presente Código y demás reglamentos que al efecto se expidan.
+###### Artículo 70.
 
-###### ARTICULO 70.
+El educador es promotor, coordinador y agente directo del proceso educativo. Deben proporcionársele los medios necesarios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
-Podrá haber Comisiones Colegiadas integradas por dos o más Regidores y en las cuales el Regidor que la presida será el responsable del buen funcionamiento de la Comisión y de rendir los informes de las actividades al H. Cabildo.
+El Estado otorgará un salario profesional digno que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso para ellos y para su familia a fin de que puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
 
-###### ARTICULO 71.
+Las autoridades educativas de conformidad con lo que establece la Ley General del Servicio Profesional Docente, establecerán mecanismos que propicien la permanencia de los maestros frente al grupo, con la posibilidad para éstos de ir obteniendo mejores condiciones y mayor reconocimiento social.
 
-Podrá haber Comisiones Transitorias para el estudio y dictamen de algún asunto específico que no recaiga dentro de las atribuciones de las Comisiones Permanentes.
+La autoridades educativas otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Además, establecerán mecanismos de estímulo a la labor docente con base en la evaluación.
 
-###### ARTICULO 72.
+El otorgamiento de los reconocimientos, distinciones, estímulos y recompensas que se otorguen al personal docente en instituciones establecidas por el Estado en educación básica y media superior, se realizará conforme a lo dispuesto en la Ley General del Servicio Profesional Docente.
 
-los titulares de las Comisiones deberán entregar al Secretario del H. Ayuntamiento a más tardar al inicio de la Sesión Ordinaria mensual el informe por escrito de su Comisión a efecto de que pueda ser discutido en la propia Sesión. El titular o cualquiera de los miembros de la Comisión podrán leer el informe o una síntesis del mismo, no debiendo excederse de más de tres minutos para dicha lectura.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-###### ARTICULO 73.
+###### Artículo 71.
 
-los integrantes de una Comisión tendrán como obligación el sostener al menos una reunión mensual con los responsables de las áreas a cargo de la Comisión, a efecto de estar enterados debidamente del funcionamiento de la Administración. las Comisiones Colegiadas deberán tener además al menos una reunión interna semanal en la que se traten los asuntos competencia de la Comisión, las cuales deberán ser citadas por el titular y en la cual se levantará minuta donde se asentará una síntesis del tema tratado, de las propuestas, conclusiones y en general de todas las incidencias de la reunión.
+En la Educación Básica y Media Superior el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del estado y sus organismos descentralizados, así como de los ayuntamientos, se efectuara con pleno respeto a los derechos constitucionales de los trabajadores de la educación, y se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento.
 
-###### ARTICULO 74.
+Para garantizar la calidad de la educación obligatoria brindada por los particulares, las autoridades educativas, en el ámbito de sus atribuciones, evaluaran el desempeño de los maestros que prestan sus servicios en estas instituciones. Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño, derivadas de los procedimientos análogos a los determinados por los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación, para evaluar el desempeño de los docentes en educación básica y media superior en instituciones públicas. La autoridad educativa otorgara la certificación correspondiente a los maestros que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las instituciones particulares otorgarán las facilidades necesarias a su personal.
 
-las Comisiones Especiales deberán rendir sus dictámenes en la siguiente Sesión Ordinaria a la fecha en que se turnen los asuntos de su competencia, debiendo cumplirse con lo relativo al informe escrito y su lectura en la Sesión.
+En el caso de los maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa y certificar su bilingüismo en la lengua indígena que corresponda y el español; asimismo conocer la cultura del pueblo o comunidad indígena en el que se desempeñen.
 
-###### ARTICULO 75.
+###### Artículo 72.
 
-las Comisiones Permanentes o Transitorias en ningún caso tendrán facultades ejecutivas y sólo el H. Ayuntamiento podrá ejercerlas por los conductos establecidos.
+Para apoyar el trabajo del personal docente, la autoridad educativa estatal:
 
-###### ARTICULO 76.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-los Regidores y el Síndico con Comisión Permanente, deberán concretarse a vigilar las actividades que correspondan a sus ramos, informando al H. Ayuntamiento de las irregularidades detectadas.
+I.- Promoverá y otorgará reconocimientos a favor de los maestros, maestras y directivos que se distingan en el desempeño de su labor, conforme a lo dispuesto en la Ley General del Servicio Profesional Docente;
+
+II.- Realizará acciones tendientes a reconocer socialmente la labor del magisterio;
+
+III.- Promoverá y desarrollará programas de apoyo a los maestros y maestras que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en las comunidades donde trabajan;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+IV.- Diseñará y operará un programa de becas, procurando destinar recursos presupuéstales crecientes, para que los trabajadores y las trabajadoras de la educación al servicio del estado realicen estudios de especialización y postgrado en áreas prioritarias para el sistema educativo, acorde a lo dispuesto en la Ley General del Servicio Profesional Docente, y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+V.- Propiciará en el magisterio la producción y difusión de obras científicas, artísticas y pedagógicas;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VI.- Establecerá estrategias en conjunto con la autoridad educativa federal para que los docentes puedan llevar a buen término sus responsabilidades en la conducción del proceso educativo para la formación, actualización y evaluación integral y permanente de los educadores;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VII.- Ofrecerá al personal docente y al personal con funciones de dirección y supervisión, programas de desarrollo de capacidades para la evaluación y el buen funcionamiento del Consejo Técnico Escolar, a cargo de especialistas en la materia con experiencia comprobada, externos al centro escolar, con la finalidad de fortalecer las habilidades del personal y lograr un desempeño eficiente y resultados satisfactorios;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VIII.- Ofrecerá oportunidades permanentes para el perfeccionamiento y la superación profesional de los docentes en servicio, que incluyan diversas modalidades de cobertura;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+IX.- Actualizará y consolidará los conocimientos científicos y humanísticos, así como las competencias didácticas de los docentes en servicio;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+X.- Ofrecerá programas formativos de dirección, administración y gestión pedagógica para el personal de dirección y supervisión escolar;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XI.- Procurará la distribución de materiales de trabajo a los docentes que se inscriban en los cursos a los que convoque;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XII.- Celebrará convenios con Instituciones de educación superior, las escuelas normales, la Universidad Pedagógica Nacional, y demás instancias que participen en la formación y actualización de docentes;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XIII.- Celebrará convenios con organismos públicos o privados, así como de carácter interinstitucional, que ofrezcan a docentes formación en distintas áreas como salud, sexualidad, prevención de adicciones, arte y cultura, preservación y cuidado del medio ambiente, deporte, seguridad y otras afines a los intereses de la educación;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XIV.- Difundirá entre los docentes las contribuciones de la cultura pedagógica regional, nacional y universal, y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XV.- Desarrollará investigación pedagógica y promover innovaciones educativas basadas en ella, en función de las necesidades del Sistema Educativo Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
+
+###### Artículo 73.
+
+Para cumplir con responsabilidad en la conducción del proceso educativo, los docentes procurarán la actualización de los conocimientos que impartan, la atención al desarrollo personal e integral de sus educandos y su derecho a recibir una educación de calidad, de conformidad a lo establecido en la Ley General del Servicio Profesional Docente, y demás disposiciones aplicables.
+
+Así mismo:
+
+I.- Adecuarán el proceso de enseñanza a las diferencias individuales del alumnado manteniendo una actitud abierta y respetuosa a la diversidad;
+
+II.- Fomentarán una mayor socialización con los alumnos para reforzar la labor formativa de la familia; y
+
+III.- Desarrollarán actividades que propicien su integración con la comunidad.
+
+###### Artículo 74.
+
+Los directores y las directoras son líderes del cambio y de la mejora continua en sus centros escolares y sus funciones serán definidas de acuerdo con la normatividad aplicable.
+
+###### Artículo 75.
+
+Las funciones de supervisión e inspección son coadyuvantes del proceso educativo y sus actividades tendrán preponderantemente carácter técnico pedagógico.
+
+###### Artículo 76.
+
+Las autoridades educativas escolares, en sus respectivos ámbitos de competencia, organizarán al personal, de manera colegiada, con el propósito de coordinar los esfuerzos académicos y responder así a las necesidades educativas específicas, elaborando para ello, al inicio del año escolar, el programa anual de actividades denominado proyecto escolar, que será dado a conocer a la comunidad educativa, para que cada uno de sus integrantes conozca las directrices y ubique el papel que tiene su función para dirigir sus actividades hacia los objetivos planeados y la medición de sus logros.
 
 ### CAPITULO IX. Del Protocolo
 
-###### ARTICULO 77.
+###### Artículo 77.
 
-En las Sesiones del H. Cabildo, el Presidente Municipal ocupará su lugar al centro, el Secretario del H. Ayuntamiento a su derecha, los Regidores y Síndico ocuparán sus lugares alternativamente.
+La autoridad educativa estatal fomentará las condiciones de liderazgo en el aula, en la dirección, supervisión e inspección escolar, y será el responsable directo de la mejora continua en el sistema educativo, satisfaciendo las necesidades básicas del aprendizaje.
 
-###### ARTICULO 78.
+###### Artículo 78.
 
-Cuando se trate de la asistencia del C. Gobernador Constitucional del Estado a alguna Sesión del H. Ayuntamiento, el Presidente Municipal nombrará dos Comisiones para que la primera lo acompañe al lugar donde se encuentra el recinto de Sesiones y la otra, lo acompañe cuando se retire.
+La educación preescolar, primaria, secundaria, educación normal y demás para la formación de maestros y maestras de educación básica se guiará por los planes y programas de estudio determinados por la autoridad educativa federal.
 
-###### ARTICULO 79.
+###### Artículo 79.
 
-Al ingresar al recinto el C. Presidente Constitucional de los Estado Unidos Mexicanos, el C. Gobernador Constitucional del Estado o sus representantes, los presentes se pondrán de pie y cuando lo abandonen se hará lo mismo.
+La autoridad educativa, en concurrencia con la autoridad educativa federal, determinarán y formularán los planes y programas de estudio distintos a los señalados en el Artículo anterior. Éstos deberán tener articulación con los planes y programas de la educación básica -primaria y secundaria-.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
 ### CAPITULO X. De las Facultades y Obligaciones del H. Ayuntamiento
 
-###### ARTICULO 80.
+###### Artículo 80.
 
-El H. Ayuntamiento del Municipio de San Francisco de los Romo tiene como función general el Gobierno del Municipio y como atribuciones y facultades las siguientes:
-
-I. Aprobar y expedir el Código Municipal, Bando Municipal, bandos, reglamentos, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la moralidad y salubridad públicas y la participación ciudadana y vecinal, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
-
-II. Señalar en sus reglamentos y bandos, las sanciones a que se sujetarán los infractores, cuidando que las mismas se ejecuten;
-
-III. Presentar ante el Congreso del Estado las iniciativas de ley, en asuntos de su competencia, en los términos de la Constitución Política del Estado;
-
-IV. Proponer anualmente al Congreso del Estado, a más tardar el día 30 de Octubre de cada año, el proyecto de ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios del Municipio, para el ejercicio fiscal inmediato, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al H. Ayuntamiento para que subsane su omisión;
-
-V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles;
-
-VI. Vigilar la administración de su respectiva hacienda, cuidando que se observe puntualmente lo que disponen las leyes de ingresos y los presupuestos de egresos y practicar mensualmente, por conducto de su Comisión de Hacienda, el arqueo de sus fondos.
-
-VII. Proporcionar al Congreso del Estado toda la información y documentación que éste requiera, a fin de que se practique una adecuada supervisión y fiscalización de las cuentas públicas municipales;
-
-VIII. Nombrar al Tesorero o al funcionario que deberá ejercer esa función, estableciendo la forma en que deberá caucionar su manejo, de conformidad con el reglamento correspondiente;
-
-IX. Nombrar al Secretario del H. Ayuntamiento, así como a los servidores públicos que en auxilio del Síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte, de conformidad con el presente Código;
-
-X. Coordinarse y asociarse con otros Ayuntamientos, para la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que le corresponden;
-
-XI. Celebrar los convenios necesarios para el ejercicio de sus funciones, en los términos que marque la ley Municipal;
-
-XII. Fomentar e impulsar la industria, agricultura, comercio, turismo y demás actividades que fomenten el desarrollo económico del Municipio;
-
-XIII. Fomentar la capacidad emprendedora de los habitantes del Municipio otorgando las mayores facilidades para la instalación, apertura y operación de las empresas;
-
-XIV. Promover la mayor eficiencia en las funciones administrativas y reducir la carga administrativa, a través de implementar mecanismos de simplificación, desarrollo tecnológico e innovación, para ofrecer mejor atención a la ciudadanía y a los particulares;
-
-XV. Implementar los mecanismos necesarios para dar cumplimiento a la transparencia, al acceso a la información y a la rendición de cuentas, de conformidad a la ley en la materia y al presente Código;
-
-XVI. Tomar las medidas necesarias para dar cumplimiento a lo dispuesto en el Artículo 4° de la Constitución local;
-
-XVII. Promover por todos los medios posibles, la asistencia a las escuelas de nivel preescolar, primarias y secundarias del Municipio;
-
-XVIII. Cuidar el aseo de las poblaciones y hacer que se observe en el ramo de higiene todo lo que consideren conveniente de acuerdo con las autoridades en Salud Pública;
-
-XIX. Vigilar el buen estado y promover el aumento de jardines y parques recreativos, disponiendo sanciones para quienes atenten en su contra;
-
-XX. Promover la apertura y mejoras de caminos vecinales y la construcción de puentes, avenidas y toda obra que se considere útil para el Municipio y sus habitantes;
-
-XXI. Promover la exhibición de espectáculos sanos, educativos y vigilar el orden y la moralidad, reglamentando lo concerniente al buen orden que deba observarse en los teatros, cines, circos, plazas de toros, palenques, auditorios, estadios y demás lugares donde se exhiban espectáculos al público;
-
-XXII. Combatir el alcoholismo y prohibir la venta de bebidas embriagantes, sin excepción, en fábricas, estaciones de ferrocarril y autobuses, así como en cualquier centro escolar, de trabajo y a menores de edad;
-
-XXIII. Ejercer en materia de cultos religiosos, las facultades que le concede el Artículo 130 de la Constitución Federal e intervenir igualmente para la aplicación de las disposiciones prohibitivas contenidas en la misma Constitución;
-
-XXIV. Vigilar que el Presidente Municipal publique los decretos, reglamentos y cualquier disposición de observancia general para los habitantes del Municipio, emanados del propio H. Ayuntamiento;
-
-XXV. Resolver los recursos interpuestos en contra de los acuerdos dictados por el Presidente Municipal, de conformidad con lo establecido en la Ley del Procedimiento Administrativo del Estado de Aguascalientes;
-
-XXVI. Informar por escrito semanalmente a través del Presidente Municipal, al Titular del Ejecutivo del Estado sobre las novedades ocurridas en el Municipio, por lo que respecta al orden y seguridad pública, teniendo cuidado de hacerlo a la brevedad posible en caso grave;
-
-XXVII. Acordar las medidas tendientes a la conservación, establecimiento y la administración de los centros de reclusión municipal, así como la alimentación de los detenidos o arrestados conforme a las leyes respectivas;
-
-XXVIII. Auxiliar a las autoridades policíacas del fuero común y a las administrativas, en el ámbito de sus atribuciones, en aquello que les sea solicitado;
-
-XXIX. Reglamentar los mercados e impedir toda clase de alimentos y bebidas nocivas a la salud, consultando siempre la opinión de las autoridades de salud pública en el Estado;
-
-XXX. Servir de consejero del Presidente Municipal, en los casos graves que se presenten en el ejercicio de sus facultades;
-
-XXXI. Integrar una Junta de Festejos Patrióticos y disponer lo necesario para que las fiestas cívicas se celebren con la mayor dignidad;
-
-XXXII. Aceptar o repudiar herencias, legados y donaciones que se hagan al Municipio, por conducto de cualesquiera de sus ramos, siempre que no sean onerosas;
-
-XXXIII. Desempeñar las atribuciones que en materia electoral les confieren las leyes respectivas;
-
-XXXIV. Cuidar y exigir del Presidente Municipal, Regidores, Síndico, Secretario del H. Ayuntamiento, Tesorero y demás funcionarios municipales, el cumplimiento estricto de sus obligaciones;
-
-XXXV. Considerar los informes que rindan los Regidores, autoridades subalternas y empleados, así como resolver acerca de los puntos a que los mismos hagan referencia;
-
-XXXVI. Revisar la cuenta pública que mensualmente presente el Comisionado de Hacienda, para su remisión al Congreso del Estado;
-
-XXXVII. Procurar que las poblaciones cuyo censo sea mayor de 500 habitantes, sean provistas de agua potable, panteones, alumbrado público, policía, mercado, centros de educación primaria y secundaria, lugares de recreo y para la práctica de los deportes;
-
-XXXVIII. Imponer medidas disciplinarias a sus integrantes y funcionarios municipales, por faltas que cometan en el cumplimiento de sus obligaciones;
-
-XXXIX. Autorizar la nomenclatura de las calles y parques en los términos del presente Código, así como la numeración de manzanas y lotes;
-
-XL. Vigilar el debido desempeño de las autoridades auxiliares correspondientes;
-
-XLI. Tener a su cargo los servicios y funciones públicas siguientes:
-
-a) Agua potable, drenaje, alcantarillado, trata miento y disposición de sus aguas residuales;
-
-b) Alumbrado público;
-
-c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
-
-d) Mercados y centrales de abasto;
-
-e) Panteones;
-
-f) Rastro;
-
-g) Calles, parques, jardines y su equipamiento;
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
-
-h) Seguridad Pública y Movilidad en los términos del Artículo 21 de la Constitución Federal; y
-
-i) Unidades deportivas y de promoción cultural de su competencia.
-
-XLII. Organizar la Administración Pública Municipal mediante la reglamentación correspondiente, planear su desarrollo y las demás necesarias para cumplir con las funciones y servicios que al ámbito municipal atribuye la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y demás ordenamientos legales aplicables;
-
-XLIII. Otorgar concesiones y autorizaciones para que el sector privado pueda participar en la prestación de servicios públicos no estratégicos que son de su competencia y revocarlas en los términos que señalen la Constitución del Estado y demás disposiciones legales aplicables;
-
-XLIV. Autorizar la relotificación, fusión y subdivisión de terrenos en el ámbito de su competencia;
-
-XLV. Expedir la autorización de fraccionamiento de predios y la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código Urbano para el Estado de Aguascalientes, las Leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado;
-
-XLVI. Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los senectos y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
-
-XLVII. Dividir el territorio municipal en los términos establecidos en la ley de la materia para una mejor prestación de los servicios públicos;
-
-XLVIII. Formular, aprobar y administrar la zonificación, planes y programas de desarrollo urbano y rural municipal;
-
-XLIX. Participar en la creación y administración de sus reservas territoriales;
-
-L. Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional, deberá participar el Municipio;
-
-LI. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en su jurisdicción territorial;
-
-LII. Intervenir en la regularización de la tenencia de la tierra urbana;
-
-LIII. Otorgar licencias y permisos para construcciones;
-
-LIV. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
-
-LV. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial;
-
-LVI. Celebrar convenios para la administración y custodia de las zonas federales;
-
-LVII. Formular y aprobar los planes y programas conducentes al desarrollo municipal de acuerdo con lo dispuesto en la Ley Municipal del Estado de Aguascalientes;
-
-LVIII. Solicitar en términos de la ley aplicable la expropiación de bienes por causas de utilidad pública, en la forma que determine la ley en la materia, con la aprobación de las dos terceras partes de los integrantes del H. Ayuntamiento;
-
-LIX. El Municipio podrá coordinarse con otros municipios entre sí, con municipios de otros estados o bien con el Gobierno del Estado, para la solución de problemas comunes. Esta coordinación se llevará a cabo por medio de los convenios respectivos que se celebren de conformidad con lo dispuesto en la Ley Municipal;
-
-LX. Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-LXI. Nombrar al Titular de Seguridad Pública y Movilidad Municipal; y
-
-LXII. Las demás que le confieran el presente Código, la ley en la materia, y otras disposiciones legales.
+La autoridad educativa estatal propondrá para su consideración y, en su caso, autorización de la autoridad educativa federal, contenidos regionales acorde al marco de educación de calidad, que -sin mengua del carácter nacional de los planes y programas citados en el Artículo 78 de esta Ley- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones y demás aspectos propios de la entidad y municipios respectivos.
 
 ### CAPITULO XI. Facultades y Obligaciones del Presidente Municipal
 
-###### ARTICULO 81.
+###### Artículo 81.
 
-El Presidente Municipal ejecutará los acuerdos tomados por el H. Ayuntamiento y para el cumplimiento de sus funciones tendrá las siguientes facultades y obligaciones:
+Para lograr los fines y objetivos de la educación, se promoverá la utilización de metodologías de la enseñanza y el aprendizaje centradas en la participación activa del alumnado, la interacción social y el respeto a sus necesidades educativas.
 
-I. Promulgar y publicar el Código Municipal, Bandos y los reglamentos municipales;
+###### Artículo 82.
 
-II. Dar publicidad a las normas de carácter general aprobadas por el H. Ayuntamiento;
+Corresponde al Instituto Nacional para la Evaluación de la Educación, la evaluación del sistema educativo nacional en la educación preescolar, primaria secundaria y media superior, sin perjuicio de la que la autoridad educativa estatal tenga de conformidad con los lineamientos que expida el mencionado Instituto y con la Ley del Instituto Nacional para la Evaluación de la Educación.
 
-III. Dentro de su competencia, cumplir y hacer cumplir las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar en su caso, a los infractores de estas últimas, las sanciones correspondientes;
+Las evaluaciones que en el ámbito de su competencia lleve a cabo la autoridad educativa local serán sistemáticas, integrales, obligatorias y periódicas. Estas evaluaciones deberán considerar los contextos demográfico, social y económico de los agentes del sistema educativo nacional, los recursos o insumos humanos, materiales y financieros destinados a éste y demás condiciones que intervengan en el proceso de enseñanza-aprendizaje. Sus resultados serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes.
 
-IV. Tomar la Protesta de Ley a los Regidores y Síndico, funcionarios y empleados del Municipio;
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+###### Artículo 82 Bis.
 
-V. Proponer al H. Ayuntamiento los nombramientos del Secretario del H. Ayuntamiento, del titular de Seguridad Pública y Movilidad Municipal, del Director General de Finanzas y Administración y de recaudadores de fondos de la Hacienda Municipal, así como nombrar a los demás funcionarios públicos municipales;
+La Autoridad Educativa Estatal en el ámbito de sus atribuciones, realizará la evaluación del Sistema Educativo Estatal acorde al marco del Sistema Nacional de Evaluación Educativa, de conformidad con la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación, y el presente ordenamiento.
 
-VI. Presidir y dirigir las Sesiones que deba celebrar el H. Ayuntamiento;
+Las evaluaciones en materia del servicio profesional docente se regirán tanto por la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley General del Servicio Profesional Docente, y el presente ordenamiento, al efecto corresponden a la Autoridad Educativa Estatal el ejercicio de las atribuciones que para tal efecto se establecen en los ordenamientos legales antes citados. Por lo que de conformidad con la Ley General del Servicio Profesional Docente, entre otras atribuciones le corresponde a la Autoridad Educativa Estatal efectuar la convocatoria y celebración de los concursos de oposición para el ingreso a la función docente y la promoción a cargos con funciones de dirección o de supervisión, la selección de aplicadores, la selección y capacitación de los evaluadores y participar en los procesos de evaluación de conformidad con los lineamientos aplicables.
 
-VII. Convocar a los Regidores y Síndico a la celebración de Sesiones Extraordinarias, comunicándoles los asuntos a tratar;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-VIII. Vigilar que la recaudación de la Hacienda Municipal en todas sus ramas, se haga con apego a lo dispuesto por las leyes respectivas;
+###### Artículo 83.
 
-IX. Vigilar que el manejo y la inversión de los fondos municipales, se realice con estricto apego al Presupuesto de Egresos;
+Las instituciones educativas establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, así como las autoridades escolares otorgarán a las autoridades educativas y al Instituto Nacional para la Evaluación de la Educación todas las facilidades y colaboración para la evaluación que en la presente sección y en la fracción VIII del Artículo 21 de la presente Ley se refieren.
 
-X. Dar trámite y seguimiento a los asuntos que competan a la Secretaría del H. Ayuntamiento, en forma puntual y oportuna;
+Para ello proporcionarán oportunamente toda la información que se les requiera, tomarán las medidas que permitan la colaboración efectiva de alumnos y alumnas, maestros y maestras, directivos y demás participantes en los procesos educativos, facilitarán que el Instituto Nacional para la Evaluación de la Educación, las autoridades educativas, los evaluadores certificados y los aplicadores autorizados realicen las actividades que les corresponden conforme a la normativa aplicable.
 
-XI. Legalizar conjuntamente con el Secretario del H. Ayuntamiento toda correspondencia, actas y disposiciones emanadas del H. Ayuntamiento;
+Sin menoscabo de lo señalado en los párrafos anteriores, las instituciones a que se refiere este artículo están obligadas a generar indicadores sobre su avance en la aplicación de métodos para prevenir y eliminar cualquier forma de discriminación y de violencia, con la finalidad de que sean sujetas a evaluación sobre la materia. Tales indicadores serán de dominio público y se difundirán por los medios disponibles.
 
-XII. Vigilar e inspeccionar a las Dependencias y Entidades Municipales, y demás Unidades Administrativas que el H. Ayuntamiento determine, cerciorándose que se desempeñen correctamente y tomar las medidas que estime necesarias, para el mejor funcionamiento de las mismas, e informar sobre su estado al H. Ayuntamiento;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-XIII. Promover y vigilar la aplicación de las políticas públicas de buen gobierno, como la mejora regulatoria, la simplificación administrativa, la transparencia y el acceso a la información, la rendición de cuentas, la innovación y uso de las tecnologías de información en el Municipio;
+###### Artículo 84.
 
-XIV. Conceder licencia para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección General de Finanzas y Administración;
+El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas darán a conocer a los maestros y maestras, alumnos y alumnas, madres, padres de familia y a la sociedad en general, los resultados de las evaluaciones que realicen, así como la demás información global que permita medir el desarrollo y los avances de la educación en la entidad, conforme a los lineamientos del Instituto Nacional para la Evaluación de la Educación.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+###### Artículo 85.
 
-XV. Tener bajo su mando los cuerpos de Seguridad Pública y Movilidad, nombrándolos y removiéndolos de sus cargos mediante los Procedimientos establecidos en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de San Francisco de los Romo.
+La evaluación de los educandos comprenderá la medición en lo individual de los conocimientos, las habilidades, las destrezas y, en general, del logro de los propósitos establecidos en los planes y programas de estudio.
 
-XVI. Ordenar y en su caso vigilar las visitas domiciliarias que realice la Administración Pública Municipal, cumplan con lo dispuesto por el Artículo 16 de la Constitución Federal y en el presente Código;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-XVII. Imponer las sanciones administrativas por las faltas al presente Código, reglamentos municipales y demás disposiciones jurídicas, de conformidad con lo previsto en la Ley Municipal para el Estado de Aguascalientes y demás normatividad relativa y aplicable;
-
-XVIII. Celebrar a nombre del Municipio y por acuerdo del H. Ayuntamiento, todos los actos y contratos necesarios, conducentes al desempeño de los negocios administrativos y a la eficaz prestación de los servicios públicos municipales;
-
-XIX. Expedir a la Dirección General de Finanzas y Administración las órdenes de pago que sean conforme al presupuesto aprobado, firmado en unión del Regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios, si autorizasen algún gasto no previsto en dicho presupuesto;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2019)</small>
-
-XX. Informar anualmente al H. Ayuntamiento, del estado que guarda la Administración Pública Municipal y de las actividades realizadas, en Sesión Solemne de Cabildo a celebrarse dentro de los primeros quince días hábiles del mes de noviembre de cada año, a excepción del año en que termina el periodo constitucional, éste deberá ser a más tardar el día 30 de septiembre del mismo año;
-
-XXI. Abstenerse de intervenir en cualquier forma de atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio económico para sí, sus parientes consanguíneos o por afinidad hasta el cuarto grado o por adopción o para terceros con los que tenga relaciones laborales o de negocios o para socios o sociedades de las que el Presidente Municipal o las personas antes referidas, formen o hayan formado parte;
-
-XXII. Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener para sí o para las personas a que se refiere la fracción anterior, beneficios adicionales a las contraprestaciones comprobadas, que el Municipio le otorga por el desempeño de su función;
-
-XXIII. Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes mencionados en la fracción XXI;
-
-XXIV. Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar, o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate, tenga en el mercado ordinario o cualquier donación, empleo, cargo o comisión para sí o para las personas a que se refiere la fracción XXI y que procedan de cualquier persona física o moral, cuyas actividades profesionales o comerciales o industriales, se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión; y
-
-XXV. Las demás que le confieran las leyes, reglamentos o demás disposiciones en la materia.
-
-###### ARTICULO 82.
-
-Para el cumplimiento de sus funciones, el Presidente Municipal puede auxiliarse de los integrantes del H. Ayuntamiento, siempre de acuerdo con la Comisión que se les haya asignado.
-
-###### ARTICULO 83.
-
-El Presidente Municipal no podrá asumir carácter de representante jurídico del Municipio, salvo en los siguientes casos:
-
-Cuando el Síndico se encuentre legalmente impedido para el caso; y
-
-Cuando el Síndico se niegue a cumplir su función; en este caso, el Presidente Municipal deberá recabar la autorización del H. Ayuntamiento.
-
-###### ARTICULO 84.
-
-Son facultades y obligaciones de los Regidores:
-
-I. Asistir a las Sesiones del H. Ayuntamiento y a los actos oficiales a que sean citados y permanecer en ellas todo el tiempo que duren;
-
-III. Deliberar y votar sobre los asuntos que se traten en las Sesiones;
-
-III. Desempeñar con eficacia las Comisiones que les sean asignadas;
-
-IV. Rendir informes de su gestión respecto a las Comisiones de carácter Permanente o Especiales que se les asignen y, previa minuciosa investigación, presentar dictamen fundado sobre los asuntos que les turnen para su consulta, formulando conclusiones claras y precisas, para la resolución que corresponda;
-
-V. Proponer ante el H. Ayuntamiento todo lo que crean conveniente para el mejoramiento de los servicios públicos;
-
-VI. Cumplir y hacer cumplir en la parte que les corresponda, el presente Código Municipal, Bandos y Reglamentos Municipales relativos y aplicables, informando al Presidente Municipal de las infracciones que se cometan;
-
-VII. Proponer al H. Ayuntamiento los reglamentos y tarifas correspondientes al ramo que les están especialmente encomendados, así como las reformas o enmiendas que estimen pertinentes; y
-
-VIII. Las demás que les otorguen este Código y demás disposiciones relativas y aplicables.
-
-###### ARTICULO 85.
-
-Son facultades y obligaciones del Síndico del H. Ayuntamiento:
-
-I. Asistir a las Sesiones del H. Ayuntamiento y a los actos oficiales a que sean citados y permanecer en ellas todo el tiempo que éstas duren;
-
-II. Deliberar y votar sobre los asuntos que se traten en las Sesiones;
-
-III. La procuración, defensa, promoción y la re presentación jurídica de los intereses municipales;
-
-IV. La representación jurídica del H. Ayuntamiento en los litigios en que éstos fuere parte y en la gestión de los negocios de la Hacienda Municipal;
-
-V. Asistir a los remates públicos en los que tenga interés el Municipio;
-
-VI. Revisar y firmar los cortes de caja que hágala Dirección General de Finanzas y Administración;
-
-VII. Cuidar que la aplicación de los gastos se haga cubriendo todos los requisitos legales y conforme al Presupuesto de Egresos;
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-VIII. Vigilar que las multas impuestas por las autoridades municipales ingresen a la Dirección General de Finanzas y Administración, mediante la expedición del comprobante respectivo.
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-El Síndico Municipal, tomando en consideración la situación económica del infractor, podrá recomendar un descuento de hasta un 50%, según sea el caso, de las multas o infracciones generadas por el incumplimiento a la Ley de Movilidad del Estado de Aguascalientes y/o al Código Municipal de San Francisco de los Romo, Ags., mediante formato oficial en donde conste la firma de éste, a fin de que la Autoridad Administrativa facultada pueda reconsiderar y aplicar el descuento sugerido, siempre y cuando no medie ningún otro descuento previamente otorgado al infractor, de aquellos descritos en la Ley de Ingresos del Municipio, ni contravenga los supuestos establecidos en el "CAPÍTULO TERCERO, de Las Infracciones en Materia de Vialidad, Artículo 313, fracción IV. Muy graves" de la Ley de Movilidad del Estado de Aguascalientes.
-
-IX. Cerciorarse de que el Director General de Finanzas y Administración haya otorgado caución de manejo de fondos;
-
-X. Intervenir en la formulación del inventario general de bienes muebles e inmuebles, propiedad del Municipio;
-
-XI. Vigilar que el inventario a que se refiere la fracción anterior, esté siempre al corriente y que se hagan constar las altas y bajas tan luego como ocurran;
-
-XII. En los lugares donde no existan agencias del Ministerio Público, practicar las primeras diligencias de la averiguación previa y remitirlas, dentro de las 24 horas siguientes, al Procurador General de Justicia en el Estado;
-
-XIII. Procurar la regularización de la propiedad de los bienes del Municipio;
-
-XIV. Asociarse a las Comisiones, cuando se trate de dictámenes o resoluciones que afecten al Municipio;
-
-XV. Verificar que los funcionarios y empleados municipales cumplan con las declaraciones de situación patrimonial que correspondan, en los términos de la ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes; y
-
-XVI. Las demás que le confieran o impónganlas leyes, los reglamentos o el H. Ayuntamiento.
+Las instituciones educativas deberán informar periódicamente a los educandos y, en su caso, a los padres y madres de familia o tutores, los resultados y calificaciones de los exámenes parciales y finales, así como, de haberlas, aquéllas observaciones sobre el desempeño académico de los propios educandos que permitan lograr mejores aprovechamientos.
 
 ### CAPITULO XII. De las Licencias y Suplencias de los Miembros del H. Ayuntamiento
 
-###### ARTICULO 86.
+###### Artículo 86.
 
-los miembros del H. Ayuntamiento para separarse temporal o definitivamente del ejercicio de sus funciones, requieren licencia aprobada por el H. Cabildo.
+El calendario escolar establecido por la autoridad educativa federal, aplicable para cada ciclo lectivo de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, deberá contener doscientos días de clase para el alumnado. En él se señalarán las actividades y eventos principales a realizar en el ciclo escolar.
 
-Las licencias que autorice el H. Cabildo, serán definitivas, indefinidas o por tiempo determinado, tomando en cuenta la solicitud del miembro del H. Ayuntamiento y la justificación respectiva.
+La autoridad educativa estatal podrá ajustar el calendario escolar, cuando ello resulte necesario en atención a los requerimientos de la entidad.
 
-###### ARTICULO 87.
+Los maestros y maestras serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos que los citados en el presente Artículo.
 
-las faltas de los integrantes del H. Ayuntamiento podrán ser temporales o definitivas, siendo las primeras aquéllas que no exceden de quince días, o que excediendo este plazo, sean debido a causa justificada. En el caso de las faltas definitivas se estará a lo previsto en la ley Municipal y Código Estatal Electoral.
+###### Artículo 87.
+
+En días escolares, las horas de labor escolar se dedicarán a la práctica docente y a las actividades educativas con los educandos, conforme a lo previsto en los planes y programas de estudio aplicables.
+
+Las actividades no previstas en los planes y programas de estudio, o bien la suspensión de clases, sólo podrán ser autorizadas por quien haya establecido o ajustado el correspondiente calendario escolar.
+
+Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas ni, en su caso, del calendario escolar autorizado.
+
+De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos.
 
 ### CAPITULO XIII. De las Sanciones
 
-###### ARTICULO 88.
+###### Artículo 88.
 
-Cuando un miembro del H. Ayuntamiento infrinja las disposiciones contenidas en la ley Municipal para el Estado de Aguascalientes o el presente Código, se hará acreedor a las siguientes sanciones, atendiendo a la gravedad de la falta:
-
-I. Amonestación por parte del Presidente Municipal, apercibiéndolo al cumplimiento de sus obligaciones;
-
-II. Suspensión en el pago de sus salarios, en caso de reincidencia; y
-
-III. Las sanciones y responsabilidades que resulten aplicables en los términos de la ley Municipal para el Estado de Aguascalientes y la ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+El calendario escolar aplicable en la entidad deberá ser publicado en el Periódico Oficial y en un periódico de amplia circulación en el Estado; además será difundido entre la comunidad educativa.
 
 ### CAPITULO XIV. Del Procedimiento Reglamentario Municipal
 
-###### ARTICULO 89.
+###### Artículo 89.
 
-Tienen facultad para presentar iniciativas de Reglamentos Municipales, reformas al presente Código, así como emitir acuerdos, circulares y demás disposiciones administrativas de observancia general necesarios para organizar y administrar el Municipio y el funcionamiento de sus servicios y establecimientos y en especial las disposiciones generales que marque la ley Municipal para el Estado de Aguascalientes:
+El calendario escolar para los servicios educativos no previstos por la autoridad educativa federal, será establecido por la autoridad educativa estatal, teniendo en cuenta la normatividad aplicable.
 
-I. El Presidente Municipal, los Regidores y Síndico;
+###### Artículo 90.
 
-II. Las Comisiones de Cabildo de manera colegiada o individual.
+Es obligación de la autoridad educativa estatal:
 
-###### ARTICULO 90.
+I.- Realizar una distribución oportuna, completa, amplia y eficiente de los libros de texto gratuitos y demás materiales educativos complementarios que la autoridad educativa federal proporcione;
 
-los acuerdos, circulares y demás disposiciones administrativas de observancia general serán expedidas por el H. Ayuntamiento de manera excepcional y complementarias al presente Código.
+II.- Conservar e incrementar, en colaboración con los Municipios, el mobiliario y equipo necesarios para el buen funcionamiento de las escuelas públicas dependientes del gobierno estatal;
 
-###### ARTICULO 91.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-Las iniciativas correspondientes al Presupuesto de Egresos e Ingresos y sus reformas, sólo podrán presentarse por el Presidente Municipal, Regidores y Síndico.
+III.- Promover el uso y construcción de edificios escolares con diseño arquitectónico que contemple los requerimientos para el tipo y nivel de servicio educativo, condición climática y materiales de construcción de las regiones de la entidad, así como a lo establecido en las Leyes en materia de atención a personas con discapacidad;
 
-###### ARTICULO 92.
+IV.- Proveer los espacios que reúnan los requisitos de higiene, seguridad y ubicación para la construcción de escuelas públicas;
 
-En las deliberaciones para la aprobación de las normas y reglamentos municipales únicamente participarán el Presidente Municipal, los Regidores y Síndico, el Secretario del H. Ayuntamiento sólo participa con voz.
+V.- Conservar e incrementar los recursos informáticos utilizados en las escuelas públicas;
 
-###### ARTICULO 93.
+VI.- Definir y preservar el uso de los inmuebles escolares administrados por la autoridad educativa estatal, con base en la demanda educativa y en beneficio de la educación pública;
 
-Cuando se rechace por el H. Cabildo la iniciativa de una norma municipal no podrá presentarse de nueva cuenta para su estudio, en un término menor de tres meses.
+VII.- Orientar e informar con oportunidad al alumnado, personal docente, directivos escolares y comunidad, sobre las acciones, criterios y requerimientos propios del sistema educativo estatal; y
 
-###### ARTICULO 94.
+VIII.- Emitir la reglamentación sobre la nomenclatura escolar en coordinación con el Comité Estatal de Nomenclatura Escolar.
 
-Para que un proyecto de norma municipal se entienda aprobado, es preciso el voto en sentido afirmativo, tanto en lo general como en lo particular de la mayoría del Cuerpo Colegiado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
-###### ARTICULO 95.
+###### Artículo 90 Bis.
 
-Aprobado por el Cabildo, en los términos del Artículo que antecede, el proyecto, pasará al Presidente Municipal para su promulgación.
+Es también obligación de la autoridad educativa estatal, el permitir que los espacios físicos de los edificios y áreas de los planteles educativos, sean utilizados fuera de los horarios escolares por las niñas, niños y adolescentes para desarrollar actividades educativas y de esparcimiento, tales como deportivas, artísticas, cívicas o culturales.
 
-###### ARTICULO 96.
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2007)</small>
 
-Para ser obligatoria toda norma expedida por el H. Ayuntamiento, deberá ser publicada en el Periódico Oficial del Estado y por estrados, en lugares visibles de las oficinas de la Presidencia Municipal, en la Cabecera Municipal, Delegaciones y Comisarías Municipales, lo cual será certificado por el Secretario del H. Ayuntamiento.
+Lo anterior podrán solicitarlo las asociaciones de padres de familia del plantel educativo, a fin de que se desarrollen bajo un programa establecido con costo a los beneficiarios y bajo la autorización y supervisión de los directores y de la asociación de padres de familia de los planteles educativos en común acuerdo.
 
-###### ARTICULO 97.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-los reglamentos emanados del H. Ayuntamiento podrán modificarse en cualquier tiempo, siempre que cumplan los requisitos de elaboración, revisión, aprobación, expedición y promulgación.
+###### Artículo 91.
 
-###### ARTICULO 98.
+El equipo y mobiliario que se adquiera en las escuelas públicas a través de donaciones u cuotas escolares con aportaciones de los padres y madres de familia, donaciones o mediante fondos provenientes de los ingresos propios de la escuela, pasarán a formar parte del patrimonio del Gobierno del Estado en el momento en que se reciban en el plantel y deberán registrarse formalmente en el inventario escolar en un plazo máximo de 30 días.
 
-En todo lo no previsto en el presente Código, se recurrirá a las disposiciones de la ley Municipal para el Estado de Aguascalientes y a las demás leyes vigentes, relativas y aplicables al Municipio.
+###### Artículo 92.
+
+Son derechos de quienes ejercen la patria potestad o la tutela:
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+I.- Obtener inscripción en las escuelas públicas para que sus hijos e hijas o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, secundaria, y la media superior;
+
+II.- Colaborar con las autoridades escolares en las actividades que realicen en beneficio de la educación de sus hijos e hijas o pupilos y de los establecimientos educativos;
+
+III.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capítulo;
+
+IV.- Recibir calidad en el servicio educativo;
+
+V.- Conocer periódicamente los resultados de las evaluaciones de sus hijos e hijas;
+
+VI.- Conocer y opinar acerca de los programas educativos del grado que cursan sus hijos e hijas o pupilos;
+
+VII.- Recibir orientación y apoyo en los procesos de integración y desarrollo familiar que impacten en el trabajo escolar;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+VIII.- Opinar en los casos de la educación que imparten los particulares, en relación con las contraprestaciones que las escuelas fijen;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+IX.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos e hijas o pupilos, cualquier problema relacionado con la educación de estos a fin de que aquéllas se aboquen a su solución;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+X.- Conocer la capacidad profesional de la planta docente, así como el resultado de las evaluaciones realizadas;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XI.- Conocer la relación oficial del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijos o pupilos, misma que será proporcionada por la autoridad escolar;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XII.- Ser observadores en las evaluaciones de docentes y directivos, para lo cual deberán cumplir con los lineamientos que al efecto emita el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XIII.- Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijos o pupilos;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XIV.- Opinar a través de los consejos escolares de participación social con respecto a las actualizaciones y revisiones de los planes y programas de estudio;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+
+XV.- Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución; y
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+XVI.- Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el artículo 22, fracción XVII, sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus niñas, niños y adolescentes, y sobre las condiciones de la escuela a la que asisten.
+
+###### Artículo 93.
+
+Son obligaciones de quienes ejercen la patria potestad o la tutela:
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+I.- Hacer que las niñas, niños y adolescentes asistan puntualmente a la escuela para cursar la educación preescolar, primaria, secundaria y media superior;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+II.- Apoyar el proceso educativo de sus hijas, hijos, pupilas o pupilos;
+
+III.- Respetar las disposiciones normativas aplicables a los planteles educativos;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+IV.- Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos, pupilas o pupilos, en las actividades que dichas instituciones realicen;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+V.- Colaborar con el personal docente en el diagnóstico y atención de las dificultades escolares de sus hijas, hijos, pupilas o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física y psicológica;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI.- Asegurar que sus hijas, hijos, pupilas o pupilos cumplan con las tareas y compromisos escolares, así como de las actividades extraescolares que realicen;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
+VII.- Asistir a las juntas de información convocadas por la escuela, así como participar en los programas encaminados a la mejor atención y apoyo a los educandos; y
+
+VIII.- Abstenerse, por cualquier medio, de interrumpir o impedir el servicio educativo en los planteles.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2008)</small>
+
+###### Artículo 93 Bis.
+
+En caso de incumplimiento de las obligaciones a que se refiere el artículo anterior, la dirección de la escuela del alumno, hará una evaluación de las causas de la no asistencia, invitando a quienes ejerzan la patria potestad o la tutela, para que participen en las pláticas de orientación y apoyo.
+
+###### Artículo 94.
+
+En cada institución de educación básica deberá constituirse una asociación de padres de familia que se acreditará ante las autoridades educativas.
+
+###### Artículo 95.
+
+Las asociaciones de padres de familia deberán constituirse exclusivamente por padres y madres de familia y tutores que cuenten con hijos e hijas o pupilos inscritos en el plantel y tendrán por objeto:
+
+I.- Representar ante las autoridades escolares y educativas los intereses que en materia educativa sean comunes a los asociados;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+II.- Colaborar de manera voluntaria, para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por el artículo 5 de esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo;
+
+IV.- Colaborar con las autoridades escolares y educativas en las actividades y campañas de beneficio social, cultural, sanitarias, de educación ambiental y cultura de la salud que se efectúen en sus escuelas;
+
+V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos establecidos en las fracciones anteriores;
+
+VI.- Informar a las autoridades educativas estatales y escolares sobre cualquier irregularidad de que sea objeto el alumnado; y
+
+VII.- Las asociaciones de padres de familia, se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
+
+Las incidencias que surjan respecto al funcionamiento de las asociaciones de padres de familia serán resueltas por las disposiciones que establezca la autoridad educativa correspondiente.
+
+###### Artículo 96.
+
+La organización y funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetará a las disposiciones que la autoridad educativa señale.
+
+###### Artículo 97.
+
+La autoridad educativa estatal promoverá la participación social en el proceso educativo, por lo que apoyará la integración de los consejos que estarán sujetos a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+###### Artículo 98.
+
+Será responsabilidad de la autoridad de cada escuela pública de educación básica vincular a ésta, activa y constantemente, con la comunidad. El Municipio y la autoridad educativa estatal, darán toda su colaboración para tales efectos. La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, integrado con madres, padres de familia o tutores y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+
+Este consejo, tendrá las siguientes funciones:
+
+I.- Conocer el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+
+II.- Conocer y dar seguimiento de las acciones que realicen los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 67 BIS de la presente Ley;
+
+III.- Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicarlos;
+
+IV.- Procurar sensibilizar a la comunidad educativa, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos, así como de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+
+V.- Tomar nota de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+VI.- Propiciar la colaboración de maestros y padres de familia para salvaguardar la integridad y educación plena de los educandos;
+
+VII.- Proponer estímulos y reconocimientos de carácter social a alumnos, docentes, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente, y demás programas que al efecto determine la Secretaría de Educación Pública y la autoridad educativa estatal;
+
+VIII.- Conocer los nombres de los educadores señalados en el tercer párrafo del artículo 108 de la presente Ley;
+
+IX.- Promover y apoyar actividades extraescolares para complementar la formación de los educandos;
+
+X.- Llevar a cabo acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar;
+
+XI.- Alentar el interés familiar y comunitario por el desempeño del educando;
+
+XII.- Opinar en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de los educandos;
+
+XIII.- Contribuir a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares;
+
+XIV.- Respaldar las labores cotidianas de la escuela; y
+
+XV.- Realizar actividades en beneficio de la propia escuela.
+
+Consejos análogos deberán operar en las escuelas particulares de educación básica.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
 ## TITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, DE SUS FUNCIONES Y ATRIBUCIONES
 
@@ -1067,1803 +1595,359 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO EN SUS UNIDADES ADMINISTRATIVAS, P.O. 30 DE AGOSTO DE 2021)</small>
 
-###### ARTICULO 99.
+###### Artículo 99.
 
-Para el despacho de los asuntos de la Administración Pública Municipal, el Presidente Municipal se auxiliará de las siguientes Dependencias y Unidades Administrativas:
+En cada municipio operará un consejo municipal de participación social en la educación, integrado por las autoridades municipales, padres, madres de familia o tutores y representantes de sus asociaciones, maestras y maestros distinguidos, directivos de escuelas, representantes de la organización sindical del magisterio, así como representantes de organizaciones sociales cuyo objeto social sea la educación y demás interesados en el mejoramiento de la educación.
 
-Secretaría Particular;
+Este consejo tendrá las siguientes funciones:
 
-Coordinación Municipal de Gabinete;
+I.- Propiciar el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
 
-Coordinación de Asesores;
+II.- Conocer de los resultados de las evaluaciones que realicen las autoridades educativas;
 
-Comité Municipal para el Desarrollo Integral de la Familia;
+III.- Llevar a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
 
-Coordinación de Comunicación Social;
+IV.- Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
 
-Coordinación de Relaciones Públicas;
+V.- Establecer la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Nuevo León;
 
-Coordinación de Gestión Social;
+VI.- Efectuar aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
 
-Delegación La Escondida;
+VII.- Opinar en asuntos pedagógicos;
 
-Instancia Municipal de la Mujer;
+VIII.- Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar;
 
-Instancia Municipal de la Juventud;
+IX.- Promover la superación educativa en el ámbito municipal mediante certámenes interescolares;
 
-Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+X.- Promover actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
 
-Dirección de Planeación y Evaluación;
+XI.- Proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
 
-Dirección de Finanzas y Administración;
+XII.- Procurar la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública; y
 
-Dirección de Contraloría Municipal;
+XIII.- Realizar actividades para apoyar y fortalecer la educación en el municipio.
 
-Dirección de Obras Públicas;
+Será responsabilidad del Ayuntamiento que en el consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
-Dirección de Desarrollo Social, Económico y Agropecuario;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-Dirección de Desarrollo Urbano;
+###### Artículo 100.
 
-Dirección de Servicios Públicos y Ecología;
-
-Dirección de Asuntos Jurídicos;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Dirección de Seguridad Pública y Movilidad Municipal;
-
-De las Unidades Administrativas con que contará la Presidencia Municipal se desprenderá la estructura siguiente:
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-I.- PRESIDENCIA MUNICIPAL:
-
-Secretaría Particular;
-
-Coordinación Municipal de Gabinete;
-
-Coordinación de Asesores;
-
-Coordinación de Relaciones Públicas;
-
-Coordinación de Gestión Social;
-
-Instancia Municipal de la Mujer;
-
-Instancia Municipal de la Juventud.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-II.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF)
-
-Presidente del Comité Municipal para el DIF;
-
-Dirección del Comité Municipal para el DIF;
-
-Subdirección Administrativa;
-
-Coordinación Operativa;
-
-Departamento de Asistencia Social Alimentaria;
-
-Departamento de Rehabilitación Física;
-
-Departamento de Atención a Personas Adultas Mayores;
-
-Departamento de Habilidades, Capacitación y Desarrollo Integral;
-
-Departamento de Vinculación con la Sociedad Civil.
-
-Departamento de Procuraduría Municipal de la Defensa de los Derechos de las niñas, niños y adolescentes;
-
-Departamento Jurídico;
-
-Departamento de Unidad de Trabajo Social y Canalización;
-
-Departamento de Psicología;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-III.- COORDINACIÓN DE COMUNICACIÓN SOCIAL
-
-Coordinador de Comunicación Social;
-
-Departamento de Comunicación e Información.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-IV.- DELEGACIÓN PUERTECITO DE LA VIRGEN.
-
-Delegado;
-
-Subdelegado.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-V.- DELEGACIÓN LA ESCONDIDA.
-
-Delegado;
-
-Subdelegado.
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-VI.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
-
-Secretaría del H. Ayuntamiento y Director General de Gobierno;
-
-Subdirección General de Gobierno;
-
-Coordinación Jurídica;
-
-Coordinación de Fomento Deportivo;
-
-Coordinación de Acción Cívica y Cultural;
-
-Coordinación de Desarrollo Turístico;
-
-Departamento de Reglamentos y Mercados;
-
-Departamento de Control Sanitario y Rastros;
-
-Departamento de Protección Civil;
-
-Departamento de Logística;
-
-Unidad Municipal de Paramédicos
-
-Unidad del Archivo Municipal.
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-VII.- DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN.
-
-Director de Finanzas y Administración;
-
-Subdirector de Finanzas, Administración y Control Presupuestal;
-
-Coordinador del Área de Ingresos;
-
-Departamento de Presupuesto;
-
-Departamento de Ingresos y Recaudación Municipal;
-
-Departamento de Egresos;
-
-Departamento de Fondos Federales;
-
-Departamento de Compras y Suministros;
-
-Departamento de Mantenimiento Vehicular y Servicios Generales;
-
-Departamento de Recursos Humanos;
-
-Departamento de Control Patrimonial.
-
-Departamento de Informática, Tecnologías de la Información y Comunicación (TIC's)
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-VIII.- DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
-
-Director de Planeación y Evaluación;
-
-Subdirector de Planeación;
-
-Departamento de Información y Soluciones Informáticas;
-
-Departamento de Monitoreo y Evaluación;
-
-Departamento de Programación;
-
-Departamento de Seguimiento a la Obra Pública.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-IX.- DIRECCIÓN DE CONTRALORÍA MUNICIPAL.
-
-Contralor Municipal;
-
-Departamento de Auditoría;
-
-Departamento de Unidad Investigadora;
-
-Departamento de Unidad de Transparencia;
-
-Departamento Jurídico y Responsabilidades Administrativas;
-
-Departamento de Coordinación de Mejora Regulatoria, Simplificación Administrativa E Innovación.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-X.- DIRECCIÓN DE OBRAS PÚBLICAS.
-
-Director de Obras Públicas;
-
-Subdirector de Obras Públicas;
-
-Departamento de Costos y Licitaciones;
-
-Departamento de Proyectos;
-
-Departamento de Supervisión.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-XI.- DIRECCIÓN DE DESARROLLO SOCIAL, ECONÓMICO Y AGROPECUARIO.
-
-Director de Desarrollo Social, Económico y Agropecuario;
-
-Subdirector de Desarrollo Social, Económico y Agropecuario;
-
-Departamento de Concertación Social;
-
-Departamento de Desarrollo Económico;
-
-Departamento de Desarrollo Agropecuario.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-XII.- DIRECCIÓN DE DESARROLLO URBANO.
-
-Director de Desarrollo Urbano;
-
-Subdirector de Desarrollo Urbano;
-
-Departamento de Planes y Proyectos;
-
-Departamento de Uso de Suelo;
-
-Departamento de Cartografía;
-
-Departamento de Fraccionamientos y Regularización;
-
-Departamento de Supervisión e Imagen Urbana.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-XIII.- DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA.
-
-Director de Servicios Públicos y Ecología;
-
-Subdirector de Servicios Públicos y Ecología;
-
-Departamento de Panteones;
-
-Departamento de Limpia y Aseo Público;
-
-Departamento de Alumbrado Público;
-
-Departamento de Parques y Jardines;
-
-Departamento de Ecología;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
-
-XIV.- DIRECCIÓN DE ASUNTOS JURÍDICOS.
-
-Director de Asuntos Jurídicos;
-
-Subdirector de Asuntos Jurídicos;
-
-Departamento de Gestión Jurídica;
-
-Departamento de Jueces Calificadores.
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-FRACCIÓN XV.- DIRECCIÓN DE SEGURIDAD PÚBLICA Y MOVILIDAD MUNICIPAL.
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Director de Seguridad Pública y Movilidad Municipal;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Subdirector Operativo de Seguridad Pública y Movilidad Municipal.
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Subdirector de Asuntos Internos y Jurídico de Seguridad Pública y Movilidad Municipal.
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2021)</small>
-
-Escala Básica:
-
-a) Policía Primero;
-
-b) Policía Segundo;
-
-c) Policía Tercero, y
-
-d) Policía.
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Servicio Médico;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Prevención del Delito;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Trabajo Social;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Unidad de Análisis;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Unidad de Inteligencia;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Profesionalización;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Operadores de Cámaras;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Administración; y
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Departamento de Armería.
-
-###### ARTICULO 100.
-
-Para la más eficaz atención y despacho de los asuntos de la competencia de la Presidencia Municipal, ésta contará con los Órganos Administrativos desconcentrados y descentralizados, que resulten necesarios, los que tendrán las facultades y obligaciones que se establezcan en el presente Código y demás normatividad aplicable.
-
-ENTIDADES
-
-ORGANISMO OPERADOR DE AGUA
-
-Dirección General;
-
-Dirección Técnica; y
-
-Dirección Administrativa.
+En la entidad funcionará un consejo estatal de participación social en la educación como órgano de consulta, orientación, apoyo e información, en el que se encuentren representados madres y padres de familia, representantes de sus asociaciones, docentes y representantes de su organización sindical, instituciones formadoras de maestras y maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la entidad especialmente interesados en la educación. Este consejo promoverá y apoyará entidades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar; sistematizará los elementos y aportaciones relativos a las particularidades de la entidad federativa que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio; podrá opinar en asuntos pedagógicos; conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo; conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
 ### CAPITULO II. De las Funciones y Atribuciones de los Servidores Públicos Municipales
 
-###### ARTICULO 101.
+###### Artículo 101.
 
-El trámite y resolución de los asuntos competencia de la Presidencia Municipal, corresponde originalmente al Presidente, quien para su mejor realización podrá delegar sus facultades en cualquiera de los servidores públicos de la Presidencia, sin perder por ello su ejercicio directo y responsabilidad.
+Los consejos de participación a que se refiere esta sección, se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-Los titulares de cada una de las Dependencia y Entidades de la Administración Pública Municipal, acordarán directamente con el Presidente Municipal o con quien éste determine y deberán cumplir los requisitos señalados en la Ley Municipal para el Estado de Aguascalientes.
+###### Artículo 102.
 
-APARTADO PRIMERO
+El Ejecutivo Estatal, a través de los convenios de coordinación, colaboración y consenso, promoverá con los medios, la difusión de los fines y criterios de la educación para inducir la participación corresponsable de la sociedad.
 
-De las Direcciones Generales
+###### Artículo 103.
 
-###### ARTICULO 102.
+Las instituciones del Sistema Educativo Estatal podrán realizar actividades escolares y extra-escolares, con la finalidad de orientar en las personas una actitud reflexiva y analítica, en relación con los mensajes que difundan los medios de comunicación.
 
-Corresponde a las Direcciones Generales, por conducto de sus titulares, lo siguiente:
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-I. Acordar con el Presidente Municipal el despacho de los asuntos que les corresponden;
+###### Artículo 104.
 
-II. Cuando sea requerido para ello rendir informe de las funciones desempeñadas al H. Cabildo, al Presidente Municipal a la Comisión del Ramo del H. Ayuntamiento o a la Contraloría Municipal;
+Los medios de comunicación social del Gobierno del Estado y de los Municipios proporcionarán tiempo y espacios para difundir y promover actividades educativas, culturales y las relacionadas con la promoción de la cultura de la transparencia.
 
-III. Cumplir estrictamente con las disposiciones legales y administrativas que rigen su organización y funcionamiento;
+###### Artículo 105.
 
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas;
+Para impartir educación a distancia, quienes soliciten la autorización o reconocimiento de validez oficial de estudios, deberán cumplir previamente los requisitos establecidos para el tipo educativo que impartan, así como sujetar el servicio que presten a lo dispuesto en las Leyes y reglamentos relativos al medio de comunicación que utilicen.
 
-V. Formular y proponer al Presidente, los proyectos de planes y programas que les correspondan;
+###### Artículo 106.
 
-VI. Proporcionar información y cooperación técnica a las Dependencias y Entidades de la Administración Pública Municipal;
+Los particulares podrán impartir educación en cualquiera de sus tipos y modalidades.
 
-VII. Realizar las acciones derivadas del Programa Municipal de Mejora Regulatoria, Simplificación, Transparencia e Innovación de conformidad a lo establecido en el Libro Cuarto del presente Código y colaborar con las demás unidades y direcciones de la Administración Pública Municipal para su cabal cumplimiento, a fin de contribuir a la mejora regulatoria, simplificar los trámites administrativos, implementar la transparencia y ofrecer el acceso a la información pública, así como participar en la innovación y el uso de las tecnologías de información.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
-VIII. Observar las normas de Reglamentos y leyes aplicables respecto a la discreción que deben guardar con relación a los asuntos de su competencia y contar con la autorización oficial para su comunicación;
+Por lo que concierne a la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la dependencia que indique la Ley General. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
-IX. Asistir a las reuniones a que sea citado por las Comisiones del H. Ayuntamiento, las cuales se celebrarán de acuerdo a la regularidad requerida, y mantener una comunicación constante con los Regidores y Síndico;
+La autorización y el reconocimiento serán específicos para cada plan de estudios. Para impartir nuevos estudios se requerirá, según el caso, la autorización o el reconocimiento respectivos.
 
-X. Emitir, modificar, actualizar o ratificar las normas, políticas y lineamientos que organicen y regulen la Administración Pública Municipal en el ámbito de su competencia, las que deberán ser difundidas para su debida aplicación;
+La autorización y el reconocimiento incorporan a las instituciones que los obtengan, respecto de los estudios a que la propia autorización o dicho reconocimiento se refiere, al sistema educativo nacional.
 
-XI. Informar por escrito a la Contraloría Municipal sobre la emisión, modificación, actualización, ratificación y difusión de las disposiciones a que se refiere la fracción anterior;
+###### Artículo 107.
 
-XII. Proporcionar en tiempo y forma requerido por la Contraloría Municipal, todos los documentos, datos e informes que les sean solicitados; y
+Las autorizaciones y los reconocimientos de validez oficial de estudios se otorgarán cuando los solicitantes cuenten:
 
-XIII. las demás que les confiera la legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
+I.- Con personal que acredite la preparación adecuada para impartir educación y, en su caso, satisfaga los demás requisitos a que se refiere el Artículo 21 de la Ley General;
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+II.- Con instalaciones, infraestructura y equipamiento que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento; y
 
-ARTICULO 102 (BIS). Corresponde a la Coordinación Municipal de Gabinete:
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
 
-I. Coordinar y supervisar el desempeño de la gestión municipal;
+III.- Con planes y programas de estudio que la autoridad educativa considere procedentes, en el caso de educación distinta de la educación preescolar, primaria, secundaria, la normal y demás para la formación de docentes de educación básica.
 
-II. Vincular los mecanismos que faciliten la coordinación entre las Dependencias Gubernamentales de otras instancias Municipales, Estatales y Federales, así como de Entes Privados;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-III. Brindar el apoyo y canalizar a la ciudadanía a las Áreas correspondientes en ausencia del presidente municipal; y
+###### Artículo 108.
 
-APARTADO SEGUNDO
+La autoridad educativa estatal publicará en el mes de enero de cada año en el órgano informativo oficial correspondiente y en sus portales electrónicos, una relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios durante el año anterior a la publicación, así como de aquellas a las que hayan autorizado a revalidar o equiparar estudios. Asimismo, publicará oportunamente y en cada caso, la inclusión o la supresión del acuerdo por el que se otorguen, nieguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
-De la Secretaría Particular
+Los particulares que impartan estudios con autorización o con reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
-###### ARTICULO 103.
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
-Corresponde a la Secretaría Particular, lo siguiente:
+De igual manera indicarán en dicha publicación, los nombres de los educadores que obtengan resultados suficientes, una vez que apliquen las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables, les correspondan.
 
-I. Elaborar y mantener actualizada la agenda del Presidente Municipal;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-II. Llevar un seguimiento de los acuerdos tomados en las diferentes reuniones que presida el Presidente con los miembros del H. Ayuntamiento, funcionarios y demás personas que realicen entrevistas con él;
+Las autoridades educativas deberán entregar a las escuelas particulares un reporte de los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes.
 
-III. Organizar, programar y dar seguimiento a las giras y eventos del Presidente Municipal y a los acuerdos que se deriven de las mismas, canalizando las solicitudes a las áreas correspondientes;
+###### Artículo 109.
 
-IV. Organizar el protocolo de las giras y eventos del Presidente Municipal, de acuerdo con su naturaleza:
+Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios deberán:
 
-V. Encargarse de la política de relaciones públicas de la Presidencia Municipal;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-VI. las demás que el Presidente Municipal le encomiende.
+I.- Cumplir con lo dispuesto en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Nuevo León, en la Ley General, en la presente Ley y en las demás disposiciones aplicables;
 
-APARTADO TERCERO
+II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-Del Comité Municipal para el Desarrollo Integral de la Familia
+III.- Utilizar los libros de texto gratuitos y demás materiales didácticos que la autoridad educativa determine para la educación básica obligatoria;
 
-###### ARTICULO 104.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
-El Comité Municipal para el Desarrollo Integral de la Familia y Voluntariado, promoverá el bienestar social para lograr el desarrollo integral de la familia y otorgará asistencia social, con las atribuciones siguientes:
+IV.- Proporcionar un mínimo del cinco por ciento de becas del total de la matrícula del período escolar correspondiente, a los alumnos que cursen la educación básica y especial.
 
-I. Fortalecer y promover la estabilidad del núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general;
+Esta disposición se aplicará también a las escuelas e institutos técnicos que cuenten con reconocimiento oficial por parte de la Secretaría de Educación Estatal.
 
-II. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de los senectos, de las personas con capacidades diferentes y proponer soluciones adecuadas;
+La Secretaría de Educación Estatal, por conducto de la autoridad competente, vigilará la asignación del número de becas a que se refiere esta fracción, en los términos del Reglamento correspondiente;
 
-III. Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con capacidades diferentes, sin recursos y a senectos desamparados;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2018)</small>
 
-IV. Fomentar la educación para la integración social, a través de la enseñanza preescolar y extraescolar;
+V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que la autoridad educativa estatal o escolar realice u ordene. En lo relativo a las preparatorias abiertas, la autoridad educativa estatal será la que realice la evaluación;
 
-V. Fomentar y en su caso, proporcionar servicios de rehabilitación, a los menores infractores, senectos, a las personas con capacidades diferentes y fármaco dependientes;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2018)</small>
 
-VI. Apoyar y fomentar la nutrición y las acciones de medicina preventiva, dirigidas a los lactantes, las madres gestantes y población socialmente desprotegida;
+VI.- Cumplir con los requisitos previstos en el Artículo 107 de esta Ley y sujetarse a los acuerdos y demás disposiciones que dicte la autoridad educativa estatal para los planteles escolares en la entidad, y
 
-VII. Promover el desarrollo de la comunidad, en el territorio del municipio;
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2018)</small>
 
-VIII. Prestar servicios de asistencia jurídica y de orientación social a los menores, senectos y a las personas con capacidades diferentes sin recursos;
+VII.- Respetar el monto establecido para el pago del título profesional, de acuerdo con el tabulador general.
 
-IX. Intervenir en el ejercicio de la tutela de menores, que corresponda al Municipio en los términos de la ley, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten de acuerdo a la ley Municipal;
+###### Artículo 110.
 
-X. Fomentar el sano crecimiento físico y mental de la niñez, la orientación crítica de la población hacia una conciencia cívica y propiciar la recreación, el deporte y la cultura;
+La autoridad educativa estatal establecerá un período anual de recepción de solicitudes para la autorización o reconocimiento oficial de estudios y deberá resolver las mismas en un plazo no mayor de 60 días hábiles para la autorización y reconocimiento. Dichos términos empezarán a contar una vez que se cumplan todos los requisitos solicitados.
 
-XI. Procurar permanentemente la adecuación de los objetivos y programas del sistema municipal o los que lleve a cabo el Sistema Estatal a través de acuerdos o convenios, encaminados a la orientación del bienestar social;
+###### Artículo 111.
 
-XII. Procurar y promover la coordinación con otras instituciones afines, cuyo objetivo sea la obtención del bienestar social; y
+Ninguna institución educativa está autorizada para exhibir en su propaganda o documentación leyendas alusivas al registro en trámite de autorización o reconocimiento de validez oficial de estudios.
 
-XIII. Las demás que le encomienden las leyes. El cargo de Presidente del Comité Municipal para el Desarrollo Integral de la Familia es de carácter honorario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+###### Artículo 112.
 
-XIV. Representar y proteger el interés superior del menor en situación de vulnerabilidad por conflictos familiares y/o sociales a través de la orientación jurídica, coadyuvando así para que sus derechos sean respetados en busca de una justicia social.
+Las autoridades que otorguen autorizaciones y reconocimientos de validez oficial de estudios deberán de inspeccionar y vigilar los servicios educativos de los cuales concedieron dichas autorizaciones o reconocimientos. Las autoridades procurarán llevar a cabo una visita de inspección por lo menos una vez al año. La persona encargada de la visita deberá identificarse adecuadamente.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+Para realizar una visita de inspección, la persona encargada deberá identificarse y mostrar la orden correspondiente expedida por la autoridad competente. La visita se realizará en el lugar y fecha indicada y versará sobre los asuntos específicos señalados en dicha orden.
 
-XV. Recibir reportes de menores en situación de riesgo, canalizando los casos conforme a la necesidad de atención requerida con la autoridad correspondiente.
+Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido y por dos testigos, mismos que serán nombrados por el visitado. En su caso se hará constar en dicha acta la negativa del visitado de suscribirla sin que esa negativa afecte a su validez. Un ejemplar del acta se pondrá a disposición del visitado.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+Los particulares podrán presentar a las autoridades educativas, documentación relacionada con la visita dentro de los cinco días hábiles siguientes a la fecha de inspección.
 
-XVI. Establecer convenios de colaboración entre el Comité Municipal y las empresas que residan en el municipio, a fin de establecer medios de gestión hacia la ciudadanía.
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+De la información contenida en el acta correspondiente así como la documentación relacionada, que en su caso presenten los particulares, las autoridades educativas podrán formular medidas correctivas, mismas que harán del conocimiento de los particulares.
 
-XVII. Los demás que el Presidente Municipal confiera y designe.
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+Las autoridades educativas emitirán la normativa correspondiente para realizar las tareas de inspección y vigilancia.
 
-ARTICULO 104 BIS. Corresponde a la Procuraduría Municipal de la Defensa de los Derechos de las niñas, niños y adolescentes las siguientes atribuciones:
+###### Artículo 113.
 
-I. Procurar la protección integral de niñas, niña y adolescente (sic) previstas en las disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
+Los particulares que impartan estudios en diferentes tipos, niveles y modalidades, sin autorización o sin reconocimiento de validez oficial, deberán mencionar esta circunstancia en su correspondiente publicidad y documentación la cual deberá aceptar expresamente el educando o sus padres o tutores, al ingresar a la institución educativa y deberán además registrarse en la Secretaría de Educación, sin que esta circunstancia implique derechos a su favor o la incorporación al sistema educativo estatal.
 
-a. Atención médica y psicológica;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-b. Seguimiento a las actividades académicas y entorno social y cultural, y
+Además, deberán contar con personal que acredite la preparación adecuada para impartir educación y con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine. En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 71 de la presente Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del sistema nacional de evaluación educativa, y tomar las medidas a que se refiere el artículo 67 BIS, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
-c. La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
+###### Artículo 114.
 
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+Los estudios realizados en el sistema educativo estatal tendrán validez en toda la Republica con fundamento en lo establecido en la Ley General.
 
-III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de Niñas, Niños y Adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
+Las instituciones del sistema educativo estatal, conforme a los lineamientos que establezcan las autoridades educativas, expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos, estos deberán registrarse en el Sistema de Información y Gestión Educativa y entregárseles a las personas que hayan concluido estudios de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes.
 
-IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La mediación no procederá en casos de violencia;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+###### Artículo 115.
 
-VI. Solicitar ante la autoridad competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes,
+Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con estudios realizados dentro de dicho sistema.
 
-VII. Solicitar apoyo a las dependencias de Seguridad Publica en caso de incumplimiento de medidas urgentes de protección.
+La revalidación podrá otorgarse por niveles educativos, por grados escolares, ciclos o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva, la cual deberá facilitar el tránsito de educandos en el sistema Educativo Nacional.
 
-VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+###### Artículo 116.
 
-IX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+Los estudios realizados dentro del sistema educativo nacional podrán, en su caso, declararse equivalentes entre sí con los del sistema educativo estatal, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
 
-X. Coadyuvar en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
+###### Artículo 117.
 
-XI. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+La autoridad educativa estatal otorgará revalidaciones y equivalencias únicamente cuando estén referidas a planes y programas de estudio que se impartan en su respectiva competencia.
 
-XII. Supervisar el debido funcionamiento de los centros de asistencia social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos (sic) Ley General de los Derechos de Niñas, Niños y Adolescentes que establece la presente Ley y demás disposiciones aplicables;
+###### Artículo 118.
 
-XIII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+La autoridad educativa estatal no reconocerá los documentos expedidos por instituciones que carezcan de reconocimiento de validez oficial de estudio.
 
-XIV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
+###### Artículo 119.
 
-XV. Las demás que les confieran otras disposiciones aplicables.
+La autoridad educativa estatal, en concordancia con la autoridad educativa federal por acuerdo de su titular, establecerá procedimientos por medio de los cuales se puedan expedir certificados, constancias, diplomas o títulos a quienes acrediten conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
 
-XVI. Los (sic) demás que el Comité Municipal para el Desarrollo Integral de la Familia, encomiende.
+###### Artículo 120.
 
-APARTADO CUARTO
+Son infracciones de quienes prestan servicios educativos:
 
-De la Difusión Institucional
+I.- Incumplir cualesquiera de las obligaciones previstas en el Artículo 109 de esta Ley;
 
-###### ARTICULO 105.
+II.- Suspender el servicio educativo en días y horas no autorizados por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
-Corresponde a Difusión Institucional:
+III.- Realizar o permitir la publicidad o comercialización de bienes o servicios no autorizados dentro del plantel escolar, notoriamente ajenos al proceso educativo;
 
-I. Coordinar el establecimiento de programas de información por los canales de comunicación adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Dependencias y Entidades;
+IV.- Ocultar a los padres, madres o tutores las conductas del alumnado que deben ser de su conocimiento;
 
-II. Recopilar, procesar y analizar de diversas fuentes, aquella información que resulte de utilidad, tanto para las Autoridades Municipales como para la comunidad;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
 
-III. Mantener informado al H. Ayuntamiento, al Presidente Municipal y a las Dependencias o Unidades Administrativas de la Presidencia, sobre aquellas manifestaciones de expresión pública y social relativa a su actuación;
+V.- No utilizar los libros de texto y materiales educativos que la autoridad educativa autorice y determine para la educación preescolar, primaria y secundaria;
 
-IV. Mostrar una imagen veraz y adecuada, del H. Ayuntamiento y Administración Municipal ante la sociedad;
+VI.- Dar a conocer antes de su aplicación los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación a quienes habrán de presentarlos;
 
-V. Emitir la normatividad en materia de difusión institucional a que deberán sujetarse las Dependencias y Entidades del Gobierno Municipal;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
-VI. Garantizar que la información proveniente del Gobierno Municipal se difunda a toda la población;
+VII.- Incurrir en conductas que pongan en riesgo la salud, la seguridad del alumnado e incumplir con lo establecido en la Sección 3 denominado "de la Seguridad en las Escuelas” del Capítulo I de esta Ley;
 
-VII. Realizar campañas publicitarias para dar a conocer a la ciudadanía los planes de trabajo y acciones emprendidas por el Gobierno Municipal;
+VIII.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna;
 
-VIII. Organizar las conferencias que a los medios de comunicación ofrezcan el H. Ayuntamiento, el Presidente Municipal y funcionarios de la Administración;
+IX.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
 
-IX. Presentar al Presidente Municipal los planes de trabajo, presupuesto y evaluaciones relativos a sus funciones; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
 
-X. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
+X.- Incumplir con los lineamientos generales para el uso de material educativo en la educación preescolar, primaria y secundaria;
 
-APARTADO QUINTO
+XI.- Ostentarse como plantel incorporado sin contar con la autorización o reconocimiento de validez oficial de estudios;
 
-De la Instancia Municipal de la Mujer
+XII.- Incumplir con lo dispuesto en el Artículo 113 de esta Ley;
 
-###### ARTICULO 106.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
-Para el debido cumplimiento de su objeto, la Instancia Municipal de la Mujer tendrá las siguientes atribuciones:
+XIII.- Impartir la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, sin contar con la autorización correspondiente;
 
-I. Promover, impulsar y estimular la formulación y aplicación de políticas y acciones públicas que tiendan a alcanzar la equidad entre los hombres y las mujeres y eliminar la discriminación de género;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-II. Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la equidad entre hombres y mujeres, mediante la coordinación con las Dependencias y Entidades Municipales y coadyuvar con el Instituto de las Mujeres del Estado para el logro de los objetivos planteados en el ámbito de sus respectivas competencias;
+XIV.- Permitir la venta de alimentos de bajo o nulo valor nutricional, en las escuelas de nivel básico;
 
-III. Promover la adecuada y eficiente implementación de las acciones a favor de las mujeres, desarrollando mecanismos que propicien la generación de información y estadística diferenciada; asegurando la disponibilidad de datos confiables y oportunos para el diseño e implementación de actividades orientadas a beneficiar a la mujer, además de evaluar su impacto en este sector de la sociedad, así como en la familia;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-IV. Promover la prestación de servicios de apoyo a las madres y padres que trabajan, que sean suficientes, eficientes, adecuados y de calidad, con horarios flexibles y que consideren las necesidades de ambos sexos, en relación con su vida familiar y la crianza de los hijos;
+XV.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones reglamentarias que de ella se deriven;
 
-V. Fungir como enlace y representante permanente ante los Institutos Nacional y Estatal de las Mujeres, en los asuntos de su competencia;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-VI. Diseñar y efectuar campañas, en coordinación con el Instituto Estatal de las Mujeres en su caso, para difundir las convenciones y tratados celebrados y ratificados por el Gobierno Mexicano, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
+XVI.- Contravenir las disposiciones contempladas en el artículo 7, en el segundo párrafo de la fracción II del artículo 68, 71, y en el artículo 108 tercer párrafo, por lo que corresponde a las autoridades educativas;
 
-VII. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-VIII. Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Municipio, en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
+XVII.- Administrar a los educandos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-IX. Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o racial, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como promover el debido cumplimiento de las normas vigentes;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-X. Proponer e impulsar reformas legislativas que promuevan la participación de los hombres en la vida familiar, así como que apoyen a las mujeres madres trabajadoras para la atención y el cuidado de sus hijos;
+XVIII.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XI. Promover el acceso de las mujeres a servicios integrales de atención a la salud, en condiciones de calidad y tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XII. Impulsar, en coordinación con los órganos de gobierno y sociales, la conformación y consolidación del Sistema de Centros Integrales de Apoyo a la Mujer, dar seguimiento y evaluar sus programas, proyectos y acciones, emitir opiniones al respecto, así como promover la profesionalización y formación permanente de su personal;
+XIX.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres, madres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos; e
 
-XIII. Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas sus modalidades, priorizando su prevención, promoviendo la defensa y la protección de los derechos humanos de la mujer, en todas las etapas de su vida y ámbito de desarrollo;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XIV. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordinación o concertación, con las Dependencias de las administraciones públicas federal, estatal y municipal y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto, actuar como órgano de consulta, capacitación y asesoría de estas entidades, públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
+XX.- Incumplir con las medidas correctivas derivadas de las visitas de inspección.
 
-XV. Impulsar, a través de los medios de comunicación y en el sistema educativo, una cultura de equidad y respeto a la dignidad humana, mediante imágenes o mensajes publicitarios no discriminatorios, que favorezcan la eliminación de imágenes nocivas y estereotipadas sobre las mujeres y los hombres;
+###### Artículo 121.
 
-XVI. Elaborar el Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del Presidente Municipal, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
+Las infracciones a la presente Ley, cometidas por particulares que presten un servicio educativo serán sancionadas por la autoridad educativa competente en la forma siguiente:
 
-XVII. Rendir informes al Presidente Municipal de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres;
+I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en la región del Estado donde se encuentra ubicada la institución educativa y en la fecha en la que se cometa la infracción;
 
-XVIII. Promover e incentivar investigaciones y estudios que contribuyan a profundizar en el conocimiento de la problemática de la mujer en los diversos campos de la realidad social, así como la adecuada recopilación, sistematización y difusión de la información;
+II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
 
-XIX. Emitir los lineamientos normativos que orienten su quehacer; y
+La imposición de la sanción establecida en esta fracción, no excluye la posibilidad de que sea impuesta alguna multa; y
 
-XX. Las demás que le señale éste y otros ordenamientos legales.
+III.- Clausura de los establecimientos educativos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+###### Artículo 122.
 
-APARTADO QUINTO BIS
+Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, se llevará a cabo el siguiente procedimiento:
 
-De la Instancia Municipal de la Juventud
+I.- Se le notificará por escrito, debidamente fundado y motivado, al presunto infractor o infractora, la conducta atribuida para que dentro de un término de quince días hábiles, manifieste por escrito lo que a su derecho convenga, por sí o por medio de su representante legal, y proporcione los datos y documentos que le sean requeridos; y
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+II.- La autoridad, una vez transcurrido el plazo señalado en la fracción anterior, dictará la resolución que corresponda dentro de los quince días hábiles siguientes, con base en los datos aportados por el presunto infractor o infractora y las demás constancias que obren en el expediente, según la existencia de las infracciones y en su caso se impondrán al infractor las sanciones correspondientes.
 
-ARTICULO 106 A. El objeto de la Instancia Municipal de la Juventud es implementar y operar programas integrales para organizar y brindar atención a los jóvenes que habiten en el Municipio de San Francisco de los Romo de edades comprendidas entre los 13 y 35 años, procurando su integración y participación en las distintas áreas del desarrollo humano en materias laboral, política, de expresión cultural, deportivas, artísticas, educativas, científica, tecnológicas, recreativas, de integración social y en especial aquéllas encaminadas a fortalecer el núcleo familiar, proporcionando alternativas reales que contribuyan a su pleno desarrollo.
+Para determinar la sanción económica se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse al alumnado, la gravedad de la infracción, las condiciones socioeconómicas del infractor o infractora, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
-De las Atribuciones de la Instancia Municipal de la Juventud
+###### Artículo 123.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trate.
 
-ARTICULO 106 B.- Para el cumplimiento de su objeto, la Instancia Municipal de la Juventud tendrá como atribuciones las siguientes:
+El retiro de reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras la institución contaba con el reconocimiento mantendrán su validez oficial.
 
-I.- Proponer e impulsar una política municipal de juventud que permita incorporar plenamente a los jóvenes al desarrollo del Municipio;
+La autoridad educativa que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios al alumnado.
 
-II.- Asesorar al Presidente Municipal en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo con el Plan Municipal de Desarrollo;
+En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la autoridad educativa, hasta que aquél concluya.
 
-III.- Concertar acuerdos y convenios con las autoridades federales, estatales y municipales para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al desarrollo integral de la juventud;
+###### Artículo 124.
 
-IV.- Proporcionar información, y gestionar apoyos ante diversas instancias públicas y privadas a favor de la juventud;
+Las sanciones del orden económico que sean impuestas conforme a esta sección, adquirirán la naturaleza de crédito fiscal, la autoridad fiscal estatal será la encargada de hacerlas efectivas conforme a la normatividad aplicable.
 
-V.- Elaborar en coordinación con dependencias federales, estatales y municipales programas y cursos de capacitación y desarrollo destinados a la juventud;
+#### SECCIÓN 2. DEL RECURSO ADMINISTRATIVO
 
-VI.- Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles;
+###### Artículo 125.
 
-VII.- Auxiliar a las dependencias y entidades de la Administración Pública Estatal y Municipal, en la promoción y difusión de los beneficios que presten a la juventud que así lo requieran;
+En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y demás derivadas de ésta, podrá interponerse recurso de revisión dentro de los quince días hábiles siguientes a la fecha de su notificación; a excepción hecha de la relativa a la imposición de multas, mismas que se rigen por las Leyes fiscales aplicables.
 
-VIII.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes que habitan en el Municipio de San Francisco de los Romo, en distintos ámbitos del acontecer municipal;
+Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga recurso, la resolución tendrá el carácter de definitiva.
 
-IX.- Promover, coordinadamente con las dependencias y entidades de la Administración Pública Municipal, las acciones destinadas a mejorar el nivel de vida de la juventud del Municipio de San Francisco de los Romo, así como sus expectativas familiares, sociales, culturales y derechos;
+Asimismo, podrá interponerse dicho recurso cuando la autoridad no dé respuesta en un plazo de 60 días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios.
 
-X.- Recibir y canalizar propuestas, sugerencias e inquietudes de la juventud, ante las autoridades competentes y organizaciones encargadas de estos asuntos;
+###### Artículo 126.
 
-XI.- Fomentar actividades formativas y de capacitación para el empleo, dirigidas a la población juvenil, particularmente en la micro y pequeña empresa, así como ampliar la información sobre el mercado de trabajo disponible;
+El recurso se interpondrá por escrito ante la autoridad inmediata superior a la que emitió el acto recurrido u omitió resolver la solicitud correspondiente.
 
-XII.- Fomentar la cooperación de los sectores público, social y privado, en la realización de acciones de bienestar social en las que participen jóvenes;
+La autoridad receptora deberá sellarlo y firmarlo de recibido; anotará la fecha y hora en que se presente, así como el número de anexos que lo acompañan. En el mismo acto devolverá, al interesado, copia debidamente sellada y firmada por el interesado.
 
-XIII.- Desarrollar actividades que estimulen el quehacer artístico, cultural y la expresión creativa de la juventud;
+###### Artículo 127.
 
-XIV.- Operar e implementar programas integrales que vayan dirigidos a disminuir la drogadicción juvenil y la integración familiar;
+En el recurso deberán expresarse el nombre y domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del promovente.
 
-XV.- Analizar, y en su caso aprobar, los apoyos a jóvenes que demuestren tener facultades extraordinarias en la práctica de una disciplina artística, deportiva o científica;
+En el caso de incumplimiento de los requisitos antes señalados, la autoridad educativa podrá señalar improcedente el recurso.
 
-XVI.- Coadyuvar en la evaluación de las políticas públicas en relación con su efectiva incidencia en la vida y desarrollo de los jóvenes del Municipio de San Francisco de los Romo;
+###### Artículo 128.
 
-XVII.- Apoyar los sistemas de información de la juventud y promover la evaluación de los servicios que inciden en la atención de la juventud; y
+Al interponerse el recurso podrá ofrecerse toda clase de pruebas excepto la confesional y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieran desahogo, se abrirá un plazo no menor de cinco ni mayor de treinta días hábiles para tales efectos. La autoridad educativa que esté conociendo del recurso, podrá allegarse los elementos de convicción adicionales que considere necesarios.
 
-XVIII.- Las demás que le señale el presente Código, y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+###### Artículo 129.
 
-APARTADO SEXTO
+La autoridad educativa dictará resolución dentro de los treinta días hábiles siguientes, a partir de la fecha:
 
-De la Delegación
+I.- Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo; y
 
-###### ARTICULO 107.
+II.- De la conclusión del desahogo de las pruebas o, en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado.
 
-Corresponde a la Delegación por conducto de su titular:
+La resolución del recurso se notificará a las partes interesadas, o a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
 
-I. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
+###### Artículo 130.
 
-II. Cuando sea requerido para ello rendir informe de las funciones desempeñadas al Presidente Municipal, al Regidor del Ramo y Síndico;
+La interposición del recurso suspenderá la ejecución de la resolución impugnada si concurren los requisitos siguientes:
 
-III. Vigilar que se cumpla estrictamente con las disposiciones legales y administrativas en todos los asuntos asignados; y
+I.- Que lo solicite el recurrente;
 
-IV. Formular y proponer al Presidente Municipal los proyectos de planes y programas que le correspondan.
+II.- Que el recurso haya sido admitido;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+III.- Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley; y
 
-APARTADO SEPTIMO
+IV.- Que no ocasionen daños o perjuicios a los educandos o a terceros en los términos de esta Ley.
 
-Contraloría y Desarrollo Administrativo Municipal
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-###### ARTICULO 108.
-
-Corresponde a la Dirección de Contraloría Municipal, el despacho de las siguientes funciones:
-
-I. Planear, establecer, organizar y coordinar el Sistema de Control, Evaluación y Fiscalización del Gobierno Municipal;
-
-II. Informar al Presidente Municipal sobre el resultado de la Evaluación respecto de la Gestión de las Dependencias y Entidades de la Administración Pública Municipal;
-
-III. Verificar que los Programas Operativos Anuales que se elaboren por las dependencias municipales estén acordes en la ejecución del Plan de Desarrollo del Municipio;
-
-IV. Analizar, evaluar y actualizar los sistemas y procedimientos administrativos de control interno que se requieran en cada una de las Direcciones municipales, sus áreas y organismos paramunicipales;
-
-V. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas, paramunicipales, fideicomisos y organismos paramunicipales;
-
-VI. Integrar con la Dirección de Planeación y Evaluación, así como con las dependencias de la administración municipal el Sistema de Evaluación del Desempeño, mediante acciones y programas que propicien la legalidad, la honestidad y la transparencia en la gestión pública, así como la debida rendición de cuentas y el acceso a la información pública, con el objetivo de identificar el avance en la ejecución y resultados de los programas presupuestarios, en el que se incluyan indicadores estratégicos y de gestión;
-
-VII. El Titular de la Dirección de Contraloría, vigilará y garantizará en coordinación con los Titulares de las Dependencias y de las Unidades Administrativas, el adecuado manejo de la información, transparencia y rendición de cuentas que le impongan las disposiciones jurídicas y administrativas aplicables;
-
-VIII. Vigilar y supervisar que en el Gobierno Municipal se cumpla con las normas y disposiciones en materia de contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles del patrimonio municipal por medio de los respectivos comités;
-
-IX. Designar al personal que practicará las auditorías, visitas de inspección y verificación a las diversas dependencias que conforman la Administración Municipal, asimismo ejercerá estas mismas facultades tratándose de programas de obra que realice el Municipio, bajo las diversas modalidades que establece la ley en la materia;
-
-X. Presentar al Presidente Municipal y a la Dirección de Planeación y Evaluación, el Programa Anual de Auditorías, que se realizarán a las dependencias y organismos paramunicipales que conforman la Administración Municipal, así como supervisar su cumplimiento;
-
-XI. Informar a los titulares de las dependencias y organismos paramunicipales que conforman la Administración Municipal, sobre los resultados de las auditorías y visitas de inspección de carácter preventivo y correctivo, dictando las observaciones y recomendaciones que se deriven, a efecto que se tomen medidas para el cumplimiento de sus atribuciones, por lo que la Dirección de Contraloría deberá darte el seguimiento correspondiente;
-
-XII. Informar al Presidente Municipal, sobre el resultado de las auditorías y las acciones que, en su caso, se hayan tomado relativas a las faltas administrativas o ilícitas que se desprendan;
-
-XIII. Proponer en el ámbito de su competencia, proyectos de iniciativa de reglamentos, manuales, acuerdos y convenios en coordinación con el Director de Asuntos Jurídicos;
-
-XIV. Revisar que se cumpla en tiempo y forma con lo establecido en la Ley General de Contabilidad Gubernamental;
-
-XV. Elaborar de manera trimestral su informe de actividades y presentarlo al Presidente Municipal, en el que se incluirán los resultados de la implementación del Sistema de Evaluación del Desempeño, bajo los principios de verificación del grado de cumplimiento de metas y objetivos;
-
-XVI. Formar parte de los Comités y Comisiones que para el efecto establezca el presente Código y que sean necesarias para el buen funcionamiento del Gobierno Municipal, así como designar a los integrantes de las mismas;
-
-XVII. Atender, dar seguimiento y resolver las quejas y denuncias recibidas en contra de los servidores públicos que puedan constituir responsabilidades administrativas y aplicar las sanciones que correspondan en los términos de ley, así como en su caso turnar al Síndico Municipal los asuntos en los que se determinen faltas administrativas graves o ilícitas a fin de que se presenten las denuncias correspondientes ante la Fiscalía General del Estado de Aguascalientes, prestándose para tal efecto la colaboración que le fuere requerida;
-
-XVIII. El titular de la Dirección de Contraloría, en ningún caso podrá ejercer las funciones de Autoridad Investigadora y Autoridad Substanciadora en un mismo asunto, de acuerdo a lo previsto en la Ley de la materia;
-
-XIX. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención;
-
-XX. Fungir como unidad de transparencia del municipio ante el organismo garante en materia de transparencia;
-
-XXI. Establecer las bases mínimas para garantizar el derecho de acceso a la información en la forma y términos que establece la ley en la materia, sin más limitaciones que las expresamente previstas en la ley;
-
-XXII. Verificar el cumplimiento por parte de las dependencias y organismos paramunicipales respecto al cumplimiento de las obligaciones de transparencia comunes y específicas conforme a lo establecido en la ley de la materia;
-
-XXIII. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público;
-
-XXIV. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan;
-
-XXV. Coordinar los trabajos de clasificación de la información de las dependencias y organismos paramunicipales respecto a lo establecido en la ley de la materia;
-
-XXVI. Coordinar los trabajos con las dependencias y organismos paramunicipales respecto a la simplificación continúa de la normatividad interna que estos aplican con la finalidad de establecer acciones y estrategias que permitan a los ciudadanos el acceso a trámites y servicios que otorga el Gobierno Municipal de manera más ágil y oportuna;
-
-XXVII. Implementar en coordinación con las dependencias y organismos paramunicipales los mecanismos necesarios para analizar los procedimientos y/o procesos establecidos en el Gobierno Municipal y buscar la mejora de los mismos con la finalidad de otorgar a la ciudadanía servicios de calidad;
-
-XXVIII. Organizar los trabajos del proceso de entrega-recepción del Gobierno Municipal de acuerdo a la normatividad vigente, así como diseñar, establecer y autorizar los anexos para la presentación de la información;
-
-XXIX. Conocer de las acciones de entrega-recepción de todos los servidores públicos que causen baja, mediante acta administrativa y anexos en los que se detallen los asuntos y recursos asignados para garantizar la continuidad y operación de las mismas;
-
-XXX. Las demás que las leyes aplicables en la materia designen.
-
-XXXI. Las demás que encomiende el Presidente Municipal.
-
-XXXII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXVII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XL. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLVII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-L. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-APARTADO OCTAVO
-
-De la Dirección de Planeación y Evaluación
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-###### ARTICULO 109.
-
-Corresponde a la Dirección de Planeación y Evaluación, las siguientes funciones:
-
-I. Acopiar, organizar y sistematizar la información estadística del municipio que sustente la elaboración de planes, programas, proyectos y líneas de acción a fin de establecer el universo, la cobertura, los objetivos, las estrategias, las metas y los resultados que se obtienen por cada una de las dependencias de la Administración Municipal en cada ejercicio anual;
-
-II. Propiciar y organizar la participación ciudadana a través de consultas, proyectos de investigación, encuestas, buzones de sugerencias y quejas, audiencias públicas y entrevistas; con el propósito de conocer y sistematizar las necesidades sentidas de la población;
-
-III. Elaborar, conjuntamente con las dependencias de la Administración Municipal, el Plan de Desarrollo Municipal con la Metodología de Marco Lógico estableciendo:
-
-a. Los problemas centrales que limitan el desarrollo de los grupos poblacionales y geográficos;
-
-b. Cuáles son las causas que los generan;
-
-c. Cuáles son sus efectos;
-
-d. Cuáles sus alternativas de solución;
-
-e. Las estrategias adecuadas para su gestión;
-
-f. Mediante qué programas y líneas de acción los podemos solucionar; y
-
-g. Las metas que nos vamos a fijar por cada ejercicio presupuestal;
-
-IV. Presentar al H. Ayuntamiento Constitucional de San Francisco de los Romo el Plan de Desarrollo Municipal para su aprobación y remisión al Congreso del Estado;
-
-V. Elaborar, en coordinación con las dependencias de la Administración Municipal el Programa Operativo Anual (POA) con la metodología de la Gestión para Resultados (GpR);
-
-VI. Alinear el Plan de Desarrollo Municipal con el Plan Nacional de Desarrollo, con los Objetivos para el Desarrollo Sostenible de la Organización de las Naciones Unidas y con el Plan Estatal de Desarrollo, a fin de conocer la aportación de San Francisco de los Romo al desarrollo global;
-
-VII. Turnar a la Dirección de Finanzas y Administración el Plan de Desarrollo Municipal y sus Anexos, así como el POA, para la elaboración del Presupuesto Anual basado en Resultados (PbR);
-
-VIII. Establecer el Padrón de Beneficiarios de los programas sociales de la Administración Municipal y gestionar el acceso a la información del Sistema Integral de Información de Padrones de Programas Gubernamentales (SIIPP-G) a fin de focalizar los grupos y áreas con prioridad de atención;
-
-IX. Conjuntamente con las dependencias de la Administración Municipal, ajustar acciones y metas y, calendarizar su ejecución de acuerdo a los techos presupuestales establecidos en el PbR por la Dirección de Finanzas y Administración y autorizados por el H. Ayuntamiento;
-
-X. Desarrollar con la participación de la Dirección de Contraloría y las dependencias, el Sistema de Indicadores para el Desarrollo que son parte integrante de los POAs, como suministro indispensable para el monitoreo y evaluación de cada una de las metas establecidas;
-
-XI. Diseñar y operar el Programa Anual de Monitoreo, Seguimiento y Evaluación individual a los programas y proyectos durante su ciclo de vida;
-
-XII. Elaborar y operar en coordinación con la Dirección de Finanzas y Administración y la Dirección de Contraloría el Sistema de Evaluación del Desempeño con base en el Modelo Sintético de Evaluación del Desempeño (MSD);
-
-XIII. Atender los Aspectos Susceptibles de Mejora (ASP) producto de las evaluaciones externas;
-
-XIV. Informar semestralmente a la Presidencia Municipal y al H. Ayuntamiento de los resultados del Sistema de Evaluación del Desempeño;
-
-XV. Publicar en el sitio web oficial del Municipio el Plan de Desarrollo Municipal, los Programa (sic) Operativos Anuales y los resultados a fin de cada ejercicio anual del Sistema de Evaluación del Desempeño;
-
-XVI. Establecer la Comisión Municipal de Planeación (COMUPLA) como organismo colegiado de la Administración Municipal para la sanción de la toma de decisiones en materia de planeación y enlace con el organismo de planeación estatal;
-
-XVII. Acopiar, organizar y sistematizar toda la información posible del Municipio como sustento de la planificación, como apoyo para la Administración y como consulta para la población;
-
-XVIII. Diseñar el sistema interior de información y comunicación, conectando todas las dependencias de la Administración Municipal entre sí;
-
-XIX. Tener contacto permanente con el/la Presidente Municipal, a fin de tratar todos los asuntos relevantes para el Municipio en materia de planeación y evaluación de los esfuerzos municipales para lograr objetivos trascendentes para la población;
-
-XX. Crear y mantener un proceso de información recíproca con los/las titulares de las dependencias de la Administración Municipal que redunde en una gestión de calidad de los asuntos municipales;
-
-XXI. Representar a la Presidencia Municipal en la Comisión de la Zona Metropolitana y presentar ante ella los proyectos prioritarios para el municipio;
-
-XXII. Establecer convenios de colaboración con las entidades generadoras de información relevante para el Municipio en aspectos poblacionales, económicos, sociales y culturales;
-
-XXIII. Solicitar a los y las titulares de las dependencias de la Administración Municipal el nombramiento de una persona como enlace con la Dirección de Planeación;
-
-XXIV. Diseñar y organizar talleres de capacitación para funcionarios y enlaces en temas como:
-
-a. Sistema de Marco Lógico (MIR);
-
-b. Presupuesto basado en Resultados;
-
-c. Gestión para Resultados;
-
-d. Diseño de Indicadores;
-
-e. Diseño, elaboración y gestión del POA; y
-
-f. Sistema de Evaluación del desempeño;
-
-XXV. Diseñar un mecanismo de información permanente a la población de los resultados de la gestión;
-
-XXVI. Concentrar, organizar y redactar la información sobre logros obtenidos para el Informe Anual de Resultados del Municipio;
-
-XXVII. Coordinar la actualización permanente del diseño y contenidos de la página web oficial del municipio;
-
-XXVIII. Coordinar la instalación el (sic) Coordinación Municipal de Planeación, COMUPLA;
-
-XXIX. Presidir el (sic) Coordinación Municipal de Planeación COMUPLA;
-
-XXX. Coordinar la integración de la Comisión de Planeación para el Desarrollo del Municipio COPLADEMUN, así como coordinar los trabajos de esta;
-
-XXXI. Participar en la representación del Municipio de San Francisco de los Romo en acciones de planeación en la Zona Metropolitana;
-
-XXXII. Las demás que la Ley de Planeación del Estado de Aguascalientes; así como las leyes aplicables en la materia encomienden;
-
-XXXIII. Las que encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-
-APARTADO NOVENO
-
-De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-###### ARTICULO 110.
-
-Corresponde a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, las siguientes atribuciones:
-
-I. Fungir como Secretario del H. Ayuntamiento;
-
-II. Ejercer las funciones que le señala la Ley Municipal para el Estado de Aguascalientes;
-
-III. Ejercer las funciones que le confiera el presente Código y demás disposiciones;
-
-IV. Mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites normales que señalan el presente Código cuidando de observar el respeto a la vida privada, a la paz social del Municipio y a las buenas costumbres;
-
-V. Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento;
-
-VI. Coordinar a las Delegaciones y Comisarías Municipales;
-
-VII. Expedir, por acuerdo del C. Presidente Municipal, los nombramientos de los servidores públicos municipales y llevar un registro de mismos, así como de sus respectivas firmas;
-
-VIII. Ejercer las funciones que expresamente le delegue el Presidente Municipal;
-
-IX. Otorgar, expedir, negar, condicionar o revocar las licencias de funcionamiento reglamentadas y especiales solicitadas por los particulares para las actividades comerciales, industriales y de prestación de servicios según lo señalando por el presente Código, la Ley de Hacienda del Municipio de San Francisco de los Romo y las demás disposiciones legales aplicables;
-
-X. Vigilar el adecuado funcionamiento del Archivo General del H. Ayuntamiento;
-
-XI. Expedir las Constancias de Residencia que soliciten los habitantes del Municipio, así como las certificaciones y demás documentos públicos que legalmente proceden, o los que acuerde el H. Ayuntamiento;
-
-XII. Validar con su firma los documentos oficiales emanados del H. Ayuntamiento o de cualquiera de sus Miembros, sin este requisito los acuerdos no serán válidos;
-
-XIII. Solicitar la publicación de leyes, decretos, bandos y reglamentos y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la Administración Pública Municipal;
-
-XIV. Elaborar con intervención del Síndico el inventario general de los bienes muebles e inmuebles propiedad del Municipio, de los destinados a un servicio público y los de uso común, expresando en el mismo todas las características de identificación;
-
-XV. Integrar un Sistema de Información que contenga datos de los aspectos socio-económicos básicos del Municipio; y
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVI. Fomentar el óptimo y ordenado desarrollo de la cultura física y deporte en todas sus manifestaciones y expresiones;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVII. Elevar, por medio de la cultura física y deporte, el nivel de vida social y cultural de los habitantes en el Estado;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVIII. Fomentar el desarrollo de la cultura física y deporte, como medio importante en la prevención del delito y como medida de desarrollo integral de las personas;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XIX. Garantizar a todas las personas, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XX. Conservar y acrecentar el patrimonio cultural del Municipio con sus valores como patrimonio e identidad y testimonio histórico universal;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXI. Promover el desarrollo de la cultura y la educación cívica en el Municipio;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXII. Promover, fortalecer y apoyar las acciones en materia de salubridad local y regulación sanitaria, ejerciendo las atribuciones que correspondan al Municipio y en base a los acuerdos y políticas estatales y federales;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXIII. Vigilar de acuerdo a su competencia, el cumplimiento de la Ley Estatal de Salud y las disposiciones legales que correspondan, coordinándose con las autoridades estatales y federales en materia de salud, a efecto de instrumentar y desarrollar programas que mejoren los niveles de salud en el Municipio;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXIV. Ejercer las atribuciones que le corresponde al Municipio de la Regulación Sanitaria en materia de salud local, a través del Director de Servicios Públicos, con base en los acuerdos de descentralización que se hayan celebrado con el Ejecutivo Estatal;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXV. Auxiliar a la población en casos de siniestros y desastres;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-XXVI. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de mercados y rastro municipal;
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-XXVII. Vigilar que los servicios que proporciona el rastro a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio y transportación de los productos cárnicos;
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-XXIX (SIC). Regular la introducción y salida de ganado y el abastecimiento de carne para el consumo humano;
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-XXX. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales;
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-XXXI. Determinar el destino de las carnes no apropiadas para el consumo humano de la población de acuerdo a la Ley General de Salud;
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-XXXII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales; y
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXIII. Prestar servicios logísticos a las Dependencias de la administración Municipal.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXIV. Coordinar la programación de eventos y giras por realizarse.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXV. Desarrollar acciones de conservación y restauración requerida para el mantenimiento de los archivos físicos que integran el Archivo Municipal.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXVI. Conservar, mantener, acopiar y resguardar los documentos de carácter histórico para el Municipio.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXVII. Fomentar la consulta de los archivos históricos del Municipio de San Francisco de los Romo hacia la ciudadanía.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXVIII. Las demás que designe el Presidente Municipal.
-
-XXXIX. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2020)
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-ARTICULO 110 BIS.- El Secretario del H. Ayuntamiento y Director General de Gobierno podrá auxiliarse en lo general, para el cumplimiento de sus funciones y en caso de ausencia, del Subdirector General de Gobierno, con excepción de las atribuciones conferidas en las fracciones I, VII, XI, XII, XIII, del artículo 110 de este ordenamiento.
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-ARTICULO 110 TER.- Con la finalidad de optimizar los procedimientos de la Secretaria del H. Ayuntamiento y Dirección General de Gobierno, el Coordinador Jurídico tendrá las siguientes atribuciones:
-
-a) Deberá revisar y/o modificar los documentos técnico jurídicos que le sean turnados por el Secretario del H. Ayuntamiento y el Subdirector General de Gobierno;
-
-b) Controlar el ejercicio de toda actividad comercial que se desarrolla en el Municipio;
-
-c) Brindar atención a la ciudadanía en general, especialmente a trámites referentes a la expedición o renovación de licencias de funcionamiento, placas, permisos temporales y permisos de uso de suelo a puestos fijos, semifijos y ambulantes así también a establecimientos comerciales, de servicios e industriales y espectáculos públicos.
-
-d) Realizar proyecto de credencialización para el comercio de los tianguis del día sábado y domingo, mismo que será una herramienta de control para la dirección.
-
-e) Regular los establecimientos con venta de bebidas alcohólicas que no cuenten con licencia de funcionamiento.
-
-f) Supervisar que el horario de funcionamiento correspondiente al giro de venta y consumo de bebidas alcohólicas, considerados que por su naturaleza afecten a terceros, cumplan con el horario que establecido para Establecimientos de Venta y Consumo de Bebidas Alcohólicas del Municipio;
-
-g) Supervisar que todos los eventos públicos cuenten con su permiso correspondiente para la realización del evento, así como el permiso para el consumo de bebidas alcohólicas según sea el caso, considerando lo establecido en los lineamientos para los Establecimientos de Venta y Consumo de Bebidas Alcohólicas;
-
-h) Revisar que todas las exposiciones y eventos que se realicen en plaza principal o jardín municipal hayan dado previo aviso a esta dirección.
-
-i) Realizar visitas de inspección de manera aleatoria a los giros que por su naturaleza afecten a terceros, con el fin de supervisar su correcto funcionamiento conforme a lo que marca la normatividad;
-
-j) Elaborar propuesta para la reubicación de comerciantes ambulantes y semifijos;
-
-k) Regular, verificar, reubicar y coordinar la actividad comercial que se desarrolla en fechas de relevancia en el Municipio, como fiestas patrias, aniversarios y en general aquellas actividades culturales que, por su naturaleza, se desarrollen en espacios públicos.
-
-###### ARTICULO 111.
-
-Corresponde a la Dirección de Asuntos Jurídicos:
-
-I. Plantear al Presidente Municipal y al Secretario del H. Ayuntamiento y Director General de Gobierno las diversas alternativas de solución jurídica en cada caso, tomando la decisión del actuar jurídico, procurando lo que menos dañe a las partes;
-
-II. Informar al Presidente Municipal y al Secretario del H. Ayuntamiento y Director General de Gobierno de los avances de los juicios, recursos, incidentes, y en general, cualesquier procedimiento legal en los que el Municipio sea parte;
-
-III. Informar al Presidente Municipal y al Secretario del H. Ayuntamiento y Director General de Gobierno la actuación jurídica del Municipio, con los datos estadísticos correlativos y reporte de resultados;
-
-IV. Elaborar por escrito las respuestas a las consultas que le formule el Presidente Municipal y el Secretario del H. Ayuntamiento y Director General de Gobierno sobre el funcionamiento jurídico que las áreas del Municipio requieran, ello, sin perjuicio de que de manera directa les presente asesoría jurídico administrativa correspondiente;
-
-V. Determinar, clasificar y proveer para su difusión criterios de interpretación y observancia de la legislación en toda materia que el Municipio aplique con motivo de sus funciones y que por su importancia considere de utilidad para el personal del propio Municipio o público en general;
-
-VI. Coordinar a los Jueces Calificadores y sus funciones;
-
-VII. Estudiar el marco jurídico general en materia municipal, pudiendo proponer reformas y/o adiciones a las normas jurídicas que considere pertinentes en relación a una mejor organización y funcionamiento de cualquier área del Municipio;
-
-VIII. Redactar todo documento que precise fundamento, motivación y apoyo jurídico;
-
-IX. Archivar y mantener actualizado el acervo de leyes, tesis jurisprudenciales, doctrina y material de utilidad para el Municipio, informando al respecto, a las áreas correspondientes, lo que pudiera ser de su interés o utilidad;
-
-X. Las demás facultades y actividades que sean afines a las aquí descritas y que le encomiende el Presidente Municipal y las demás disposiciones legales aplicables;
-
-XI. Cualquier relación jurídica que involucre al Municipio y particularmente, a su patrimonio e intereses, deberá ser consultada y sancionada por la opinión de la Dirección de Asuntos Jurídicos;
-
-XII. Apoyar al Comité Municipal para el Desarrollo Integral de la Familia DIF los servicios de asistencia jurídica y de orientación social a menores, ancianos y a las personas con capacidades diferentes y sin recursos;
-
-XIII. Coadyuvar con las autoridades relacionadas con la verificación de las actividades comerciales, industriales y de servicios en la imposición de las sanciones administrativas por las faltas al Código, reglamentos Municipales y demás disposiciones jurídicas, aprobadas por el H. Ayuntamiento y de conformidad con lo previsto en la normatividad aplicable;
-
-XIV. Acordar con el Presidente Municipal y con el Secretario del H. Ayuntamiento y Director General de Gobierno, los asuntos inherentes a la Dirección de Asuntos Jurídicos, siempre y cuando esté involucrado el Municipio y sólo otorgar informes por escrito cada quince días de la calidad y cantidad de trabajo desempeñado a favor de la ciudadanía;
-
-XV. Compilar leyes, decretos reglamentos, periódicos oficiales del Estado, circulares y órdenes relativas a los distintos sectores de la Administración Pública Municipal; y
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2015)</small>
-
-XVI. Auxiliar al Síndico Municipal, en la Gestión Jurídica de la población, mediante asesorías, elaboración de documentos, canalización a Instancias especializadas y en la Conciliación entre particulares, siempre y cuando exista la voluntad expresa de los ciudadanos involucrados; apegándose en todo momento a lo establecido en el artículo 20, párrafo segundo del presente Código.
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XVII. El Subdirector de Asuntos Jurídicos apoyara al Director en la representacion legal del Ayuntamiento y a sus unidades administrativas, ante los tribunales estatales y federales, órganos jurisdiccionales, contenciosos administrativos y autoridades administrativas, en los procesos o procedimientos de toda índole; así como en establecer los mecanismos de comunicación y coordinación con las unidades administrativas del Ayuntamiento a fin de apoyarlas en el cumplimiento de las resoluciones judiciales o extrajudiciales o de carácter administrativo y en caso de ausencia del Director de Asuntos Jurídicos, el Subdirector de Asuntos Jurídicos podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-APARTADO DECIMO
-
-De la Dirección de Finanzas y Administración
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 112.
-
-Corresponde a la Dirección de Finanzas y Administración entre otras funciones las siguientes:
-
-I. Ejercer las funciones de recaudación de los ingresos municipales, realizar las erogaciones que haga el H. Ayuntamiento y demás que le señala la Ley Municipal para el Estado de Aguascalientes, la Ley de Hacienda del Municipio de San Francisco de los Romo, el presente Código y las demás disposiciones legales municipales aplicables;
-
-II. Ejercer las funciones que expresamente le delegue el H. Ayuntamiento y el Presidente Municipal;
-
-III. Proponer la Ley de Ingresos y Egresos por cada uno de los ejercicios fiscales y presentarlo para su análisis y aprobación ante el H. Ayuntamiento en los tiempos que marca el presente Código.
-
-IV. Vigilar y promover la recaudación suficiente para solventar los gastos e inversiones del Municipio mediante la recaudación de impuestos y derechos de conformidad a lo establecido en la normatividad vigente;
-
-V. Aplicar el procedimiento administrativo de ejecución que previene el Código Fiscal del Estado;
-
-VI. Planear, programar, coordinar y dirigir las actividades que tienen por objeto el reclutamiento, la contratación, las remociones, las renuncias, las licencias, las jubilaciones, la capacitación, el desarrollo y el control del personal de la Presidencia Municipal;
-
-VII. Adquirir, administrar y abastecer los recursos materiales necesarios para el desarrollo de sus funciones, a las Dependencias o Unidades Administrativas de la Presidencia;
-
-VIII. Dirigir las acciones que tiendan a proporcionar a las Dependencias de la Presidencia Municipal, los elementos de trabajo necesarios para el desarrollo de sus funciones;
-
-IX. Presidir el Comité Municipal de Adquisiciones;
-
-X. Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
-
-XI. Encargarse del resguardo de los documentos de la administración municipal, a través de la organización y Dirección del Archivo General Municipal;
-
-XII. Implementar políticas, lineamientos y desarrollar programas para el mejor aprovechamiento de edificios e instalaciones, vehículos, combustibles y todo lo relacionado con su uso, control y mantenimiento;
-
-XIII. Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Órganos Descentralizados;
-
-XIV. Intervenir en la elaboración de presupuestos de las Dependencias Municipales y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
-
-XV. Desarrollar y establecer los planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo;
-
-XVI. Establecer, en coordinación con la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, las normas, criterios y procedimientos que deberán observar las Dependencias de la Administración Municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejorar el servicio al público;
-
-XVII. Analizar, diseñar y adecuar la estructura orgánica municipal garantizando el correcto funcionamiento y administración de las diferentes Dependencias de la Presidencia;
-
-XVIII. Definir y establecer los mecanismos de planeación, coordinación, programación, información, control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las Dependencias y Entidades de la Administración Pública Municipal;
-
-XIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XX. Apoyar y participar en los proyectos de reorganización que formulen las Dependencias y Entidades de la Administración Pública Municipal;
-
-XXI. Definir y establecer mecanismos y/o metodología que fomenten en el servidor público una cultura de mejoramiento continuo; y
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXII. Registrar en el sistema contable, el presupuesto asignado a la dependencia a efecto de llevar un control adecuando (sic) del mismo.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXIII. Actualizar el presupuesto de egresos e ingresos derivado de las modificaciones propuestas por las áreas, y autorizadas por el Cabildo.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXIV. Asignar y Controlar el importe del presupuesto que le fue otorgado en el ejercicio a cada Dependencia Municipal.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXV. Registrar y autorizar las solicitudes de redistribuciones financieras con cargo al presupuesto.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXVI. Dar seguimiento a los planes financieros de presupuestos apoyados en el sistema de contabilidad.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXVII. Coadyuvar con las Dependencias Municipales los esfuerzos y estrategias para obtener recursos Federales.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXVIII. Verificar que la documentación soporte de los programas o reglas de operación se mantengan actualizados y cumpla con las normas y disposiciones que apliquen en cada programa.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXIX. Coordinar la entrega y facilitación de la información a los diversos entes Fiscalizadores.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXX. Dar cumplimiento a las leyes, convenios de coordinación fiscal y demás que en materia hacendaría celebre el Municipio con el Estado.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXI. Diseñar y publicar las formas oficiales de las manifestaciones, avisos y declaraciones, así como los demás documentos fiscales.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXII. Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias de su competencia, que le sean solicitadas por las Dependencias Municipales.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXIII. Elaborar la propuesta de zonificación catastral y valores unitarios de suelo y construcción, que sirvan como base para el cálculo de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingresos.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXIV. Expedir comprobantes fiscales objeto de la recaudación municipal.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXV. Actualizar la información catastral mediante la depuración de las bases de datos para disponer de la cartografía y un padrón catastral confiable, según lo determine el Instituto Catastral del Estado.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXVI. Tramitar los traslados de domino emitidos por el Notariado, para el pago del impuesto sobre adquisición de bienes inmuebles y su actualización en las bases de datos, con el objetivo de registrar los movimientos realizados sobre las propiedades.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXXVII. Fomentar el pago de impuestos, mediante el otorgamiento de estímulos fiscales, con el fin de crear una cultura de pronto pago de contribuciones al Municipio.
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-XXXVIII. Llevar a cabo el control de cada uno de los vehículos utilitarios propiedad y/o al servicio de la Administración Municipal a fin de conocer del estado físico y mecánico que guarda cada uno de ellos.
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-XXXIX. Programar y brindar el mantenimiento preventivo de los vehículos utilitarios o al servicio de la Administración Municipal, a fin de extender la vida útil de estos.
-
-XL. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2020)
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XLI. Brindar servicios generales de mantenimiento correctivos y preventivos a las instalaciones Municipales.
-
-XLII. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2020)
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-XLIII. Definir y establecer las políticas y lineamientos en materia de informática que deberán respetar las dependencias de la administración pública municipal, en apego al Plan Municipal de Desarrollo;
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-ARTICULO 112 BIS.- El Director de Finanzas y Administración podrá auxiliarse en lo general, para el cumplimiento de sus funciones y en caso de ausencia, del Subdirector de Finanzas y Administración quien podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-ARTICULO 112 TER.- Con la finalidad de optimizar los procedimientos recaudatorios, el Director de Finanzas y Administración se apoyará en el Coordinador del Área de Ingresos, el cual tendrá la facultad de instituir los mecanismos de programación necesarios, información, control, y mejoramiento de la recaudación de los ingresos municipales y en general coadyuvar con aquellas actividades que sean inherentes con el propósito de puesto.
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
-
-ARTICULO 112 QUATER.- El Titular del Departamento de Informática y Tecnologías de la Información y Comunicación, tendrá a su cargo las siguientes tareas:
-
-a) Establecer los espacios y medios necesarios a fin de diagnosticar y evaluar riesgos oportunamente, garantizando que las Tecnologías de la Información y Comunicación (TIC's) trabajen de manera oportuna, en cada una de las unidades administrativas de la administración municipal;
-
-b) Brindar asesoría y soporte técnico que en materia de informática y simplificación administrativa soliciten las dependencias de la administración pública municipal.
-
-c) Efectuar mantenimiento preventivo y correctivo de los equipos de cómputo, comunicación, servidores y aquellos inherentes, a fin de que la funcionalidad de estos sea oportuna; y
-
-d) Las análogas que encomiende la Dirección de Finanzas y Administración.
-
-APARTADO DECIMO PRIMERO
-
-De la Dirección de Desarrollo Social, Económico y Agropecuario
-
-###### ARTICULO 113.
-
-Corresponde a la Dirección de Desarrollo Social, Económico y Agropecuario lo siguiente:
-
-I. Promover la concertación de acuerdos de carácter social, político y económico entre el Municipio y los diversos grupos sociales;
-
-II. Fomentar la participación social para la concertación de intereses, esfuerzos y voluntades para llegar al desarrollo integral de la comunidad;
-
-III. Promover y apoyar la participación ciudadana, para lograr un mejoramiento de las condiciones de vida a través de las obras y servicios públicos que proporciona el Municipio;
-
-IV. Captar y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales;
-
-V. Elaborar, supervisar, evaluar y actualizar los planes y programas de Desarrollo Social, Económico y Agropecuario del Municipio;
-
-VI. Diseñar y aplicar procedimientos técnico administrativos en la realización de los programas de inversión municipales que tengan por fundamento el presupuesto por programas y observar lo dispuesto en los programas de transferencias de recursos federales y estatales;
-
-VII. Participar en el Comité de Planeación para el Desarrollo Municipal como Secretario Técnico;
-
-VIII. Fomentar la asociación de campesinos y productores de empresas rurales, así como conservar y mejorar las ya existentes;
-
-IX. Elaborar mecanismos de enlace y comercialización entre campesinos, productores, grupos introductores o comercializadores de los productos de la Región y consumidores;
-
-X. Fomentar el cultivo de especies que utilicen poca agua;
-
-XI. El fomento al empleo e impulso a la actividad económica en la industria, el comercio y los servicios, para el logro del bienestar social, del Municipio, que permita la participación de la juventud, de las mujeres y las personas con capacidades diferentes;
-
-XII. Fortalecer la competitividad de las empresas establecidas en el Municipio, a través de programas de desarrollo y fomento económico.
-
-XIII. Coordinar la Gestión Empresarial en el Municipio para ofrecer al sector empresarial la atención de calidad y eficiencia para la orientación y solución de problemáticas que se presenten en los mismos ante cualquier instancia gubernamental;
-
-XIV. Colaborar con la Ventanilla de Gestión Empresarial en el Centro de Atención Integral, conjuntamente con la Dirección de Mejora Regulatoria;
-
-XV. Detectar la problemática que presenten los sectores económicos, social y agropecuario en su actividad, en materia regulatoria y de trámites para presentar sus propuestas a la Dirección de Mejora Regulatoria;
-
-XVI. Coadyuvar a la promoción de una cultura de competencia económica, conjuntamente con las instancias responsables a nivel federal;
-
-XVII. Promover el empleo y autoempleo incentivando la capacidad emprendedora de los ciudadanos, a través de programas, ferias, exposiciones y mecanismos que puedan ser exitosos;
-
-XVIII. Establecer programas de apoyo para incrementar e incentivar la competitividad de la micro, pequeña y mediana empresa establecida en el Municipio para lograr su fortalecimiento;
-
-XIX. Contribuir con las empresas a través de la Bolsa de Trabajo y de las Ferias de Empleo para detectar personal capacitado que se integre a su fuerza laboral;
-
-XX. Coordinar con la colaboración del Gobierno del Estado la promoción a la inversión y al comercio exterior en el Municipio;
-
-XXI. Promover proyectos productivos en el área rural;
-
-XXII. Impulsar la comercialización directa de productos y servicios en las zonas urbanas y rurales más desprotegidas;
-
-XXIII. Formular, evaluar e implementar proyectos de unidades generadoras de ingresos para los habitantes del Municipio de San Francisco de los Romo;
-
-XXIV. Establecer una coordinación con el ramo empresarial en los sectores del comercio y los servicios;
-
-XXV. Aprovechar la infraestructura comercial subutilizada, con el propósito de fomentar el empleo, el abasto para el logro de la economía familiar;
-
-XXVI. Fomentar la generación y promoción de programas tendientes a la creación de fuentes de trabajo y mantenimiento de las ya existente;
-
-XXVII. Coordinar, organizar y promover las acciones necesarias para lograr un mejor aprovechamiento de los recursos federales, estatales y municipales;
-
-XXVIII. Ampliar los convenios en los términos de las leyes con el Estado y la Federación;
-
-XXIX. Promover la vinculación con las instituciones de educación superior para el fortalecimiento de la actividad económica del Municipio;
-
-XXX. Promover la infraestructura, así como la creación de nuevas empresas en las zonas rurales;
-
-XXXI. Fortalecer la relación con la Dirección de Servicios Públicos, en materia de mercados;
-
-XXXII. Brindar consultas y capacitación en materia empresarial;
-
-XXXIII. Promover y difundir las actividades artesanales, maquilas de mano de obra, así como la comercialización de productos propios del Municipio;
-
-XXXIV. Organizar, participar y patrocinar exposiciones, eventos y ferias, que coadyuven al desarrollo empresarial, comercial y al fomento del empleo;
-
-XXXV. Fomentar la capacitación y asistencia técnica integral en las micro y pequeñas empresas;
-
-XXXVI. Apoyar a las micro y pequeñas empresas en las gestiones para la obtención de servicios, insumos, financiamientos y demás elementos necesarios para el desarrollo de sus actividades;
-
-XXXVII. Fomentar e impulsar las actividades turísticas en el Municipio de conformidad con las Leyes Federales y Estatales en la materia;
-
-XXXVIII. Promover el establecimiento y operación de los prestadores de servicios turísticos que propicien la generación de empleos;
-
-XXXIX. Difundir en los distintos medios masivos de comunicación los atractivos naturales, histórico-monumentales o culturales existentes en el Municipio;
-
-XL. Fomentar con las instancias que se requiera, la creación, conservación, mejoramiento y habilitación de los recursos naturales de zonas turísticas, obras y objetos artísticos, históricos o culturales, zonas de descanso, así como los atractivos turísticos del Municipio, de acuerdo a las disposiciones legales aplicables;
-
-XLI. Estimular la participación de los sectores social y privado con capitales locales, nacionales y extranjeros, para el desarrollo y habilitación de áreas y centros turísticos;
-
-XLII. Coordinar, apoyar y supervisar conjuntamente con la Coordinación Estatal las zonas naturales y destinos turísticos locales;
-
-XLIII. Apoyar y gestionar ante las diferentes instancias al acceso oportuno y eficaz del turista a los servicios colaterales de Seguridad Pública, Transportación, Sanidad y Salud, entre otros;
-
-XLIV. Participar en el Consejo Consultivo de Turismo en el Estado, para alentar el turismo en el Municipio;
-
-XLV. Apoyar la promoción y difusión del turismo del Municipio;
-
-XLVI. Elaborar, recopilar, actualizar y registrar la información estadística de los servicios y centros turísticos locales;
-
-XLVII. Promover el sector turismo en el Municipio incentivando el desarrollo de esta actividad, a través de planes y programas que establezcan las políticas de turismo y los lineamientos sobre la actividad turística, así como las estrategias generales para el logro de sus objetivos y que contemplen la creación de zonas turísticas, la promoción al ecoturismo, al turismo social y cultural, que permita la afluencia de turismo, resaltando las ventajas competitivas del Municipio;
-
-XLVIII. Estudiar la viabilidad de los proyectos de inversión específicos para el desarrollo de transporte, servicios y atractivos turísticos en centros y zonas naturales turísticas.
-
-XLIX. Promover e impulsar la infraestructura básica y de servicios urbanos en áreas de interés turístico, con las Dependencias y Entidades Municipales, los Gobiernos Federal y Estatal;
-
-L. Promover y fomentar la calidad en la prestación de servicios turísticos, impulsando la creación o mejoramiento de hoteles, restaurantes, balnearios, centros deportivos y recreativos, entre otros; y
-
-LI. Las demás que señalen las leyes o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-APARTADO DECIMO SEGUNDO
-
-De la Dirección de Desarrollo Urbano
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-###### ARTICULO 114.
-
-Corresponde a la Dirección de Desarrollo Urbano,
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de planeación, de construcciones, de ordenamiento territorial y de protección al ambiente;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-II. Diseñar, crear y aplicar los programas de desarrollo urbano, mediante los cuales se regirá la planeación municipal;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-III. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de condominios y de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-V. Controlar y regular la ocupación de las reservas de crecimiento de los ejidos que integran el Municipio;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Administrar y verificar el control urbano con el otorgamiento de las siguientes autorizaciones:
-
-a) Alineamiento y Compatibilidad Urbanística;
-
-b) Anuncios;
-
-c) Fusión de Predios;
-
-d) Subdivisión de predios Relotificación de Predios;
-
-e) Licencias para la construcción, reparación, remodelación y demolición de fincas;
-
-f) Realización de obras, instalaciones y reparaciones en la vía pública;
-
-g) Números oficiales para las fincas; y
-
-h) Prevenir y manejar los asentamientos humanos irregulares.
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Supervisar y regular los parques industriales del Municipio y evaluar, autorizar o negar, y supervisar los nuevos proyectos de ocupación en los mismos
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Determinar el tipo de construcciones que se puedan edificar en el municipio;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-X. Coordinar la Comisión de Admisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé éste Código;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Inspeccionar obras, edificios y construcción e infraestructura en general;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XII. Verificar el uso que se está dando a un predio, edificio o construcción y que éste se ajuste a las características previamente registradas;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XIII. Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XIV. Ordenar la suspensión temporal o la clausura de obras en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XV. Aplicar medidas de seguridad en inmuebles, en los casos previstos en este Código;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVI. Ordenar y/o ejecutar demoliciones en inmuebles en los casos previstos por este Código;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVII. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Código, o en caso contrario negarla;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVIII. Imponer sanciones a las que se hagan acreedores los infractores de conformidad al presente Código;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XIX. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XX. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXI. Determinar los requisitos y procedimientos para la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XXII. Participar en el ordenamiento territorial de su competencia; y
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXIII. Actualizar la Cartografía del Municipio de San Francisco de los Romo.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXIV. Georreferenciar las obras y acciones de la iniciativa pública y privada en materia de Desarrollo Urbano.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXV. Coadyuvar para otorgar a la ciudadanía certeza jurídica con respecto a sus predios y propiedades.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXVI. Llevar a cabo el control y supervisión de la imagen urbana que se encuentre asentada en el Municipio.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXVII. Otorgar licencias para la construcción, reparación, remodelación y demolición de las fincas.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXVIII. Supervisar el estado que guardan las construcciones en situación de restructuración (sic) y que tenga relación con la licencia de construcción otorgada.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXIX. Otorgar y supervisar la subdivisión de relotificación de predios.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXX. Las demás que las leyes aplicables en la materia y el Presidente Municipal designen.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-APARTADO DECIMO SEGUNDO BIS
-
-De la Dirección de Obras Públicas
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 114 A .Corresponde a la Dirección de Obras Públicas:
-
-I. Ejecutar el Programa Municipal de Obras Públicas, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
-
-II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes
-
-III. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas municipales;
-
-IV. Asesorar técnicamente los Comités de trabajo comunitario o comités de obra comunitarios, que lo requieran, en lo concerniente a la realización de obras públicas municipales;
-
-V. Presentar al C. Presidente Municipal los informes de labores que soliciten, con la periodicidad que le señale;
-
-VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y
-
-VII. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-APARTADO DECIMO SEGUNDO TER
-
-De la Dirección de Servicios Públicos
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-ARTICULO 114 B. Corresponde a la Dirección de Servicios Públicos y Ecología:
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-I. Inspeccionar los trabajos de mantenimiento y conservación de los servicios públicos municipales;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-II. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de limpia y aseo público, tratamiento y disposición final de residuos sólidos no peligrosos, panteones, parques y jardines, alumbrado público; control de rabia y de población canina. En cuanto al control de rabia y de población canina, el servicio no puede concesionarse y deberá coordinarse con el área de Control Sanitario de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
-
-III. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
-
-IV. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
-
-V. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
-
-VI. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
-
-VII. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Formular, conducir y evaluar la política ambiental en su jurisdicción territorial, en el ámbito de su competencia;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-X. Ejercer las funciones que le transfieran la Federación y el Estado en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Aplicar, en coordinación con el Organismo Operador del Agua, las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas, que funcionen como establecimientos mercantiles y de servicios y quemas dentro de la zona de competencia municipal:
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XIII. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas y olores perjudiciales para el ambiente, provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XIV. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por el manejo de los residuos municipales e industriales que no estén considerados como peligrosos de conformidad con lo dispuestos por los demás ordenamientos aplicables;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XV. Participar en la atención de los asuntos que afecten el ambiente de dos o más municipios y que generen efectos ambientales adversos en su circunscripción territorial, entre otras;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVI. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVII. Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
-XVIII. Participar en la creación y administración de reservas ecológicas;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XIX. Mantener en buen estado y funcionamiento del (sic) Panteón Municipal.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XX. Regular el establecimiento, operación, funcionamiento y vigilancia de las inhumaciones, exhumaciones, traslados y cremaciones que realice el Panteón Municipal.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXI. Las demás que designen las leyes aplicables en la materia y las que encomiende el Presidente MunicipalMunicipal (sic).
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XXII. En caso de ausencia del Director de Servicios Públicos y Ecología, el Subdirector de Servicios Públicos y ecología podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
-
-> <small>(REFORMADA SU DENOMINACIÓN P.O. 30 DE AGOSTO DE 2021)</small>
-
-APARTADO DECIMO TERCERO
-
-De la Dirección de Seguridad Pública y Movilidad Municipal
-
-###### ARTICULO 115.
-
-Compete al H. Ayuntamiento mantener el orden y la seguridad pública en el Municipio, así como prevenir la comisión de delitos y proteger a las personas en sus bienes y derechos.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
-
-Dicha función será ejecutada a través de la Dirección de Seguridad Pública y Movilidad Municipal, la cual tiene las facultades que le confiere el presente Código siendo las siguientes:
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-I. Efectuar exámenes de selección a los aspirantes a formar parte de la policía municipal y movilidad;
-
-II. (DEROGADA, P.O. 30 DE AGOSTO DE 2021)
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2021)</small>
-
-III. Llevar libro del registro de los detenidos donde se asiente el día y hora en que fueron detenidos, los motivos de la detención, el día y hora de su salida, así como el monto de la multa pagada en su caso. Dicho registro podrá ser en forma escrita o en forma magnética;
-
-IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2021)
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-V. Ejercitar de oficio las funciones conciliatorias cuando los infractores a la Ley de Movilidad del Estado de Aguascalientes deseen celebrar un convenio de no intervención derivado de daños materiales, siempre y cuando no contravengan disposiciones contenidas en otras leyes o códigos;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-VI. Expedir constancias de no antecedentes policiales;
-
-VII. Ejecutar las sanciones de arresto que sean impuestas por autoridad competente;
-
-VIII. Vigilar que en el Municipio se cumpla con las disposiciones de este Código;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-IX. Imponer multas e infracciones a las disposiciones relativas a seguridad pública y movilidad municipal respectivamente y recibir el pago de las mismas, en caso de tratarse de horas o días en que no laboran las cajas de la Dirección General de Finanzas y Administración, la Dirección de Seguridad Publica y Movilidad Municipal, recibirá el importe de las multas expidiendo el recibo correspondiente;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
-
-X. En materia de vialidad serán aplicables las disposiciones establecidas en la Ley de Movilidad Estado de Aguascalientes;
-
-XI. Deberán apoyar en sus funciones a las autoridades municipales y efectuar una permanente vigilancia dentro de la jurisdicción del Municipio; y aquéllas otras que establezcan otras o leyes o le atribuya el H. Ayuntamiento y el Presidente Municipal.
-
-APARTADO DECIMO CUARTO
-
-Del Comité de Adquisiciones
-
-###### ARTICULO 116.
-
-El Comité de Adquisiciones, regirá las adquisiciones de bienes muebles y servicios, cuyo monto sea superior a tres mil veces el salario mínimo general diario vigente del área geográfica correspondiente, buscando la racionalización y transparencia en el gasto público.
-
-Las adquisiciones de bienes muebles y servicios cuyo monto sea inferior a tres mil veces el salario mínimo general diario vigente del área geográfica correspondiente, se realizarán por la Dirección General de Finanzas y Administración Municipal, a través del procedimiento de compra directa, cuyas políticas y lineamientos se establecen en el Sistema de Compras correspondiente, el cual ha de ser analizado, evaluado y autorizado en primera instancia por el Comité, y posteriormente por el H. Ayuntamiento.
-
-Lo dispuesto en el presente Título, no será aplicable a los contratos que se celebren con otras dependencias de gobierno incluyendo los organismos descentralizados y desconcentrados, municipales, estatales y federales.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
-
-###### ARTICULO 117.
-
-El Comité de Adquisiciones será integrado de la siguiente manera:
-
-I. El Presidente; Que será el Director General de Finanzas y Administración, quien presidirá el comité.
-
-II. Un Secretario Ejecutivo; Que será designado por el Sujeto de la Ley Contratante
-
-III. Tres vocales que serán; El Regidor de Hacienda, El Síndico y un representante de la Secretaria o Tesorería del Municipio o un representante de la Coordinación Estatal de Planeación y Proyectos, o su similar del Municipio.
-
-IV. Un representante de la Contraloría del Estado o del Órgano Interno de Control de la Entidad o Municipios según corresponda.
-
-V. Un representante de la Cámara o Asociación del ramo, mismos que serán designados por el Titular de la entidad del ejecutivo o del Municipio.
-
-Cada uno de los integrantes nombrará a un suplente a excepción del Síndico.
-
-Todos los integrantes del Comité tendrán voz y voto en las decisiones del mismo, a excepción del Contralor Municipal quien únicamente tendrá voz.
-
-###### ARTICULO 118.
-
-Dentro de los 60 días de iniciada cada Administración Municipal, el Presidente Municipal, proveerá a la integración de este Comité.
-
-###### ARTICULO 119.
-
-El Comité funcionará bajo la dirección del Secretario Ejecutivo y para sesionar se requiere la presencia de la mayoría de los integrantes del mismo.
-
-###### ARTICULO 120.
-
-Todos los integrantes del Comité tendrán voz y voto en las decisiones del mismo, a excepción del Contralor Municipal quien únicamente tendrá voz.
-
-###### ARTICULO 121.
-
-El Comité de Adquisiciones, sesionará cuantas veces sea necesario, previa convocatoria por escrito, con anticipación de 24 horas, que formule el Secretario Ejecutivo del mismo, debiéndose señalar el Orden del Día a que se sujetará la sesión.
-
-###### ARTICULO 122.
-
-Para que tengan validez las decisiones del Comité, será necesario el voto favorable de la mayoría de los integrantes del mismo; en caso de empate, el Presidente Municipal tendrá voto de calidad.
-
-###### ARTICULO 123.
-
-Las sesiones del Comité se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar un acta por el Secretario del mismo, a la que se agregarán los documentos relacionados con las decisiones tomadas.
-
-###### ARTICULO 124.
-
-En la primera sesión del Comité de Adquisiciones, se darán a conocer los nombres de las personas que fungirán como titulares y los suplentes designados por éstos.
-
-###### ARTICULO 125.
-
-Son facultades del Comité de Adquisiciones, las siguientes:
-
-I. Seleccionar al proveedor de los bienes y servicios de cada adquisición, hecha a través del procedimiento de invitación o licitación pública;
-
-II. Aplicar políticas, sistemas, procedimientos y normas que regulen las adquisiciones, las cuales deberán plasmarse, analizarse y aprobarse por todos los miembros del Comité;
-
-III. Elaborar y aprobar el manual de integración y funcionamiento del Comité;
-
-IV. Elaborar programas de adquisiciones, de acuerdo a los planes y programas municipales;
-
-V. Solicitar a las Dependencias usuarias, durante los primeros dos meses de cada año, el programa anual de adquisiciones con el fin de planear, organizar, dirigir, implementar, controlar y evaluar las adquisiciones consolidadas municipales, y así procurar obtener economías a escala;
-
-VI. Integrar y conservar actualizado el padrón de proveedores;
-
-VII. Expedir las convocatorias, de acuerdo a lo establecido en el presente Código, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación; y
-
-VIII. Las demás que le asigne el H. Ayuntamiento y el Presidente Municipal.
-
-###### ARTICULO 126.
-
-Son obligaciones del Secretario Ejecutivo del Comité, las siguientes:
-
-I. Convocar a sesiones a los integrantes del Comité;
-
-II. Presidir el desarrollo de las sesiones del Comité;
-
-III. Autorizar, conjuntamente con el Presidente Municipal, las adquisiciones urgentes;
-
-IV. Rendir informe trimestral al H. Ayuntamiento, respecto a la conclusión de los casos dictaminados, así como los resultados generales de las adquisiciones, arrendamientos y servicios; y
-
-V. Las demás que le sean asignadas por el H. Ayuntamiento, por el Presidente Municipal o por el Comité.
-
-###### ARTICULO 127.
-
-Las adquisiciones de bienes y servicios, a que se refiere este Código, podrán ser ordinarias y urgentes.
-
-###### ARTICULO 128.
-
-Son adquisiciones ordinarias las que en forma regular y periódica, se puedan proveer para las diversas Dependencias, de acuerdo a los programas previamente establecidos.
-
-###### ARTICULO 129.
-
-Son adquisiciones urgentes, aquéllas que no reúnan los requisitos señalados en el Artículo anterior y que al no hacerlas con rapidez se corra en riesgo la suspensión de un servicio público o se demerite la calidad de este.
-
-###### ARTICULO 130.
-
-Para que una cotización pueda ser discutida y en su caso aprobada por el Comité, debe cubrir los siguientes requisitos:
-
-I. Que no sea una compra efectuada fuera del procedimiento, esto es, que el usuario realice de mutuo propio y en forma directa la adquisición, y posteriormente solicite ante la Dirección General de Finanzas y Administración sólo el trámite administrativo para pago;
-
-II. Que la solicitud de adquisición se formalice a través de una requisición de compras, y que esta sea registrada exclusivamente ante la Dirección General de Finanzas y Administración;
-
-III. Que sea cotizada por la Dirección General de Finanzas y Administración, en apego al sistema de compras establecido y autorizado;
-
-IV. Que la Dirección General de Finanzas y Administración entregue la documentación correspondiente al Secretario Ejecutivo del Comité, con anticipación a la sesión en la que se vaya a discutir;
-
-V. Que el Secretario Ejecutivo del Comité, entregue un estado comparativo que ampare por lo menos tres cotizaciones, salvo el caso en el que no exista en la entidad igual número de proveedores, o se trate de Artículos con precio controlado; y
-
-VI. Que las cotizaciones provengan de proveedores inscritos previamente en el Padrón Municipal, a excepción hecha de proveedores únicos o que la compra se requiera de inmediato, o cuando exista ventaja competitiva significativa en el precio o servicio.
+T R A N S I T O R I O S
 
 ###### ARTICULO 131.
 
@@ -16993,6 +16077,10 @@ En lo referente a los usos del suelo en la Zona Centro de la Ciudad de San Franc
 
 ### CAPITULO VII. Disposiciones Particulares de los Usos del Suelo
 
+#### SECCIÓN 1. DE LA EQUIDAD EN LA EDUCACIÓN
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 1508.
 
 De los condominios:
@@ -17025,9 +16113,77 @@ Ningún condómino tendrá derecho o facultad para bardear, enmallar, cercar o c
 
 ### CAPITULO VIII. De las Infracciones y Sanciones
 
+#### SECCIÓN 2. DE LA CALIDAD EN LA EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+#### SECCIÓN 3. DE LA SEGURIDAD EN LAS ESCUELAS
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+
+###### Artículo 20 Bis.
+
+La autoridad educativa estatal deberá coordinarse con las autoridades municipales, estatales y federales competentes para:
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+I.- Salvaguardar la integridad física de los educandos en las escuelas, especialmente en los casos de educación inicial, básica y media superior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+II.- Vigilar que en el interior y en los alrededores de los planteles educativos se garantice la integridad física y moral de la comunidad educativa, en materia de protección civil y señalamientos viales con la finalidad de que exista un entorno seguro para quienes acuden a los centros escolares.
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
+III.- Resguardar y proteger las instalaciones fuera del horario escolar o cuando se encuentren sin personal administrativo o alumnado, y cuando el plantel educativo sea objeto de robo o daño en sus instalaciones, deberá acudir a las autoridades correspondientes a denunciar cualquier hecho en ese sentido, a efecto de que sea seguido el procedimiento legal correspondiente;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
+IV.- Vigilar que en el interior o en los alrededores de los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2017)</small>
+
+V.- Desarrollar y aplicar programas y acciones para la prevención de conductas violentas o antisociales que impidan la convivencia sana y pacífica y/o que ponga en riesgo la integridad personal o colectiva de la comunidad educativa; así como la detección, atención y canalización a instituciones especializadas, en caso de requerirse, de aquellos alumnos que presten indicadores de riesgo sobre dichas conductas.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+Artículo 20 Bis I. Las autoridades educativas, deberán implementar programas permanentes de prevención y detección de conductas que impliquen violencia física o psicológica entre el alumnado, conforme lo dispone la Ley para Prevenir, Atender y Erradicar el Acoso y la Violencia Escolar en el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2019)</small>
+
+Artículo 20 Bis II. La Secretaría, en conjunto con la Secretaría de Salud del Estado deberán realizar programas entre los cuales establezcan un protocolo de prevención, detección y actuación ante conductas suicidas entre los estudiantes.
+
+Dicho protocolo deberá ser difundido para su conocimiento y uso por los diferentes integrantes de la comunidad educativa, tanto de profesores, estudiantes, familiares y personal administrativo para que actúen ante un posible caso de comportamiento suicida.
+
+#### SECCIÓN 1. DE LA ORGANIZACIÓN Y ESTRUCTURA
+
 ### CAPITULO IX. Denuncia Popular
 
+#### SECCIÓN 2. DE LA PLANEACIÓN DE LA EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+#### SECCIÓN 3. DEL FINANCIAMIENTO DE LA EDUCACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
+
+#### SECCIÓN 4. DE LA EDUCACIÓN INICIAL, LA BÁSICA Y LA ESPECIAL
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
+#### SECCIÓN 5. DE LA EDUCACIÓN MEDIA SUPERIOR
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+#### SECCIÓN 6. DE LA EDUCACIÓN SUPERIOR
+
+#### SECCIÓN 7. DE LA EDUCACIÓN PARA ADULTOS Y LA FORMACIÓN PARA EL TRABAJO
+
 ### CAPITULO I. Disposiciones Generales
+
+#### SECCIÓN 8. DE LA FORMACIÓN, ACTUALIZACIÓN Y SUPERACIÓN DE DOCENTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
 ### CAPITULO II. De los Trámites Administrativos y Registros
 
@@ -18295,7 +17451,37 @@ El desahogo de este procedimiento, no excederá de quince días hábiles desde l
 
 ### CAPITULO VII. De la Participación Social y la Coordinación Gubernamental
 
+#### SECCIÓN 1. DEL ALUMNADO
+
+#### SECCIÓN 2. DEL PERSONAL DOCENTE
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+#### SECCIÓN 3. DE LA GESTIÓN ESCOLAR
+
+#### SECCIÓN 4. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+
+#### SECCIÓN 5. DE LA EVALUACIÓN
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
 ### CAPITULO VIII. De la Denuncia Popular
+
+#### SECCIÓN 6. DEL CALENDARIO ESCOLAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2008)</small>
+
+#### SECCIÓN 7. DE LOS EDIFICIOS Y MATERIALES EDUCATIVOS
+
+#### SECCIÓN 1. DE LOS PADRES Y MADRES DE FAMILIA
+
+#### SECCIÓN 2. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+
+#### SECCIÓN 3. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+
+#### SECCIÓN 4. DE LOS MEDIOS DE COMUNICACIÓN
 
 # LIBRO NOVENO. DEL AMBIENTE Y LOS RECURSOS NATURALES
 
@@ -21917,45 +21103,191 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS E
 
 P.O. 6 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 169. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL, LA LEY DE SEÑALAMIENTOS VIALES, LA LEY DE DESARROLLO URBANO Y LA LEY DE EDUCACIÓN TODAS DEL ESTADO DE NUEVO LEÓN".]
 
-ÚNICO.- La presente reforma al Código Municipal de San Francisco de los Romo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 13 DE NOVIEMBRE DE 2017.
+Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
-> <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]</small>
+Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
 
-> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
+Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
 
-P.O. 26 DE FEBRERO DE 2018.
+P.O. 28 DE JUNIO DE 2017.
 
-> <small>[N. DE E. LA "MODIFICACIÓN AL ARTÍCULO 163 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, EN EL CAPÍTULO V DEL SALARIO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 275. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES XVIII Y XIX Y SE ADICIONA UNA FRACCIÓN XX DEL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO."
 
-P.O. 16 DE SEPTIEMBRE DE 2019.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 24, PÁRRAFO PRIMERO, FRACCIÓN IV, INCISO A Y 81, FRACCIÓN XX DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+P.O. 8 DE NOVIEMBRE DE 2017.
 
 ###### ARTÍCULO PRIMERO.
 
-La presente reforma iniciará su vigencia al día de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a lo dispuesto en la presente reforma.
+Se abrogan la Ley de Educación para el Estado de Nuevo León publicada en el Periódico Oficial del Estado el 29 de agosto de 1984 y la Ley de Funcionamiento de Sociedades de Padres de Familia y Maestros en el Estado de Nuevo León de diciembre de 1950.
 
 ###### ARTÍCULO TERCERO.
 
-Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de San Francisco de los Romo, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
+Las disposiciones normativas derivadas de las Leyes mencionadas en el Artículo anterior se seguirán aplicando, en lo que no se opongan a la presente Ley, hasta en tanto se expida la normatividad a que se refiere esta Ley.
 
-P.O. 4 DE NOVIEMBRE DE 2019.
+###### ARTÍCULO CUARTO.
 
-## [N. DE E. TRANSITORIO DE “REFORMAS AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+El Programa Estatal de Educación mencionado en esta Ley se expedirá en un plazo no mayor a noventa días hábiles contados a partir de la fecha de la entrada en vigor de esta Ley.
 
-ÚNICO. - La presente reforma al Código Municipal de San Francisco de los Romo entrará en vigor al (sic) día 16 de octubre de 2019 y para su posterior publicación en el Periódico Oficial del Estado de Aguascalientes.
+###### ARTÍCULO QUINTO.
 
-P.O. 28 DE SEPTIEMBRE DE 2020.
+Los servicios para la formación de maestros y maestras a cargo de la autoridad educativa estatal tendrán, además de las finalidades previstas en la presente Ley, la de regularizar, con nivel de licenciatura, a maestros y maestras en servicio que por cualquier circunstancia tengan un nivel de estudios distinto del anteriormente mencionado.
 
-## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.".]
+###### ARTÍCULO SEXTO.
+
+Los procedimientos en trámite antes de la entrada en vigor de esta Ley se continuarán desahogando conforme a las disposiciones legales que se abrogan, hasta el término de dicho proceso.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas de su organización sindical en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes al expedir esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios, que después de la fecha de la expedición de dicha autorización o reconocimiento, hayan abierto otros planteles educativos sin sujetarse a los requisitos que establece el Artículo 55 fracción II de la Ley General tendrán un plazo no mayor a noventa días naturales, contados a partir de la fecha de entrada en vigor de esta Ley, para obtener la autorización a que se refiere el Artículo 109 de este mismo ordenamiento.
+
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los veintinueve días del mes de septiembre del año dos mil.- PRESIDENTE: DIP. HERMENEGILDO ESTRADA RODRÍGUEZ; DIP. SECRETARIO: GUSTAVO RUBÉN GARCÍA DOMÍNGUEZ; DIP. SECRETARIO: GILBERTO GARZA GARZA.- Rúbricas.-
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los doce días del mes de octubre del año dos mil.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. FERNANDO DE JESUS CANALES CLARIOND
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+LIC. JOSE LUIS COINDREAU GARCIA
+
+EL C. SECRETARIO DE EDUCACION
+
+LIC. JOSE MARTINEZ GONZALEZ
+
+EL C. SECRETARIO DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
+
+LIC. FERNANDO ELIZONDO BARRAGAN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 11 DE ENERO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Centros o los Programas Educativos Especializados señalados en el Artículo 49, deberán iniciar operaciones a partir del inicio del ciclo escolar 2009 - 2010, o sujeto a la disponibilidad presupuestal conforme a la Ley de Egresos de ese año.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Secretaría de Educación en coordinación con la Secretaría de Salud del Estado de Nuevo León, y de ser necesario con el sector privado, desarrollarán un Programa Estatal de Salud Integral en las Escuelas para cumplimentar lo establecido en el presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 22 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2014)</small>
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto, debiendo acatarse en lo conducente, lo dispuesto en los artículos transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Educación, publicado en el Diario Oficial de la Federación el 11 de septiembre de 2013, así como del Decreto por el que se expide la Ley General del Servicio Profesional Docente, publicado en el Diario Oficial de la Federación el 11 de septiembre de 2013.
+
+Tercero.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Cuarto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Quinto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Sexto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Séptimo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Octavo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Noveno.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Décimo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Décimo Primero.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Décimo Segundo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Décimo Tercero.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+Décimo Cuarto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
+
+P.O. 1 DE MAYO DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 010, POR EL QUE SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO, POR MODIFICACIÓN DE LA FRACCIÓN XVI, XVII Y XVIII AL ARTÍCULO 21; Y POR ADICIÓN DEL ARTÍCULO 31 BIS.
+
+Primero.- El presente Decreto entrará en vigor a partir del 15 de agosto del 2016, previo al inicio Ciclo Escolar 2016-2017.
+
+Segundo.- El Titular del Ejecutivo Estatal de manera gradual desde la entrada en vigor del presente Decreto hasta el año 2020, deberá prever en su Presupuesto de Egresos del Estado, las partidas presupuestales necesarias, para dar cumplimiento a lo dispuesto en el mismo, a fin de que en el Ciclo Escolar 2020-2021, estén cubiertas todas las necesidades de infraestructura escolar.
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 012, POR EL QUE SE ADICIONA UN PÁRRAFO SEXTO AL ARTICULO 36, DE LA LEY DE EDUCACIÓN DEL ESTADO.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 307. SE REFORMAN LAS FRACCIONES III Y IV; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 20 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 308. "SE REFORMA POR MODIFICACIÓN LOS ARTÍCULOS 2; 13 PRIMER PÁRRAFO; 14; 21 FRACCIÓN V; 22 PRIMER PÁRRAFO, ASÍ COMO SU FRACCIÓN XVII; 48; 108 PRIMER PÁRRAFO; 114 Y 115; SE ADICIONA UNA FRACCIÓN XVII PASANDO LA ACTUAL A SER XIX DEL ARTÍCULO 21 Y SE ADICIONA UNA FRACCIÓN XX RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 22, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrara en vigor el día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan cualquier disposición que se contraponga al presente Decreto.
+
+Tercero.- Dentro de los 180 días naturales al inicio de la vigencia del presente Decreto, la Secretaria de Educación del Estado, llevará a cabo la modificación a su normativa interna para el cumplimiento de este Decreto.
+
+P.O. 8 DE ENERO DE 2018.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -21963,28 +21295,108 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 24 DE MAYO DE 2021.
 
-## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 25, ASÍ COMO LA DEROGACIÓN O SUPRESIÓN DE LOS ARTÍCULOS 30 Y 367 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO EN LA ORGANIZACIÓN ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 317. POR EL QUE SE REFORMAN DIVERSAS LEYES DEL ESTADO DE NUEVO LEÓN".]
 
-PRIMERO.- La corrección del Artículo 25 al Código Municipal de San Francisco de los Romo es para su aplicación a partir de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- La DEROGACION a los Artículos 30 y 367 al Código Municipal de San Francisco de los Romo es para su aplicación a partir de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Segundo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley
 
-P.O. 24 DE MAYO DE 2021.
+Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la normatividad con la que se promovieron.
 
-## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 117 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO EN LA ORGANIZACIÓN ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO”.]
+Cuarto.- Los Municipios del Estado de Nuevo León, tendrán en un plazo de 120 días a partir de la entrada en vigor de la presente Ley para modificar sus reglamentos municipales.
 
-UNICO.- La corrección del Artículo 117 al Código Municipal de San Francisco de los Romo es para su aplicación a partir de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Quinto.- Las reglas de operación para el Fondo Municipal señalado en el Artículo 136 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León, contenido en el Artículo Octavo de este Decreto, se ejercerá de manera anual de conformidad a las siguientes bases:
 
-P.O. 30 DE AGOSTO DE 2021.
+El fondo se integrará con recursos estatales con una aportación que realizará el Ejecutivo del Estado, en doce mensualidades iguales, cuyo monto total anual equivaldrá a la cantidad que resulte de multiplicar el número de habitantes menores de dieciocho años de edad que residen en el Estado, por la cantidad que para estos efectos se establezca en la Ley de Egresos correspondiente.
 
-## [N. DE E. TRANSITORIO DE LA “CORRECCIÓN DEL ARTÍCULO 117 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO EN LA ORGANIZACIÓN ADMINISTRATIVA Y FUNCIONAMIENTO DEL H. AYUNTAMIENTO”.]
+Dicho fondo se distribuirá entre los 51 municipios del Estado, para lo cual cada Municipio recibirá por año el equivalente al monto que resulte de multiplicar la cantidad establecida anualmente en la Ley de Egresos del Estado conforme al párrafo que antecede.
 
-ÚNICO.- La corrección del Artículo 117 al Código Municipal de San Francisco de los Romo es para su aplicación y publicación en el Periódico Oficial del Estado de Aguascalientes.
+En caso de que los recursos aportados al fondo no sean suficientes para garantizar que cada municipio reciba los montos señalados en los párrafos anteriores, el Ejecutivo del Estado, dispondrá lo conducente para ampliar las partidas presupuestales necesarias y aportará los recursos adicionales que se requieran para el debido cumplimiento de lo dispuesto en el presente Artículo.
 
-P.O. 30 DE AGOSTO DE 2021.
+Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
-## [N. DE E. TRANSITORIO DE “REFORMA, ADICIÓN Y/O MODIFICACIÓN DE DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 369. SE REFORMA POR ADICIÓN DE UNA FRACCIÓN X RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 21; MODIFICACIÓN DE LAS FRACCIONES V, VI Y ADICIÓN DE UNA FRACCIÓN VII AL ARTÍCULO 109 DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor a los 120 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Autoridad Educativa Estatal, deberá presentar dentro de un término de 90 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, los lineamientos para elaborar el tabulador en términos del Artículo 21 fracción X de la presente ley.
+
+P.O. 19 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 022. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES IV Y V DEL ARTÍCULO 3, DE LAS FRACCIONES V Y VI DEL ARTÍCULO 4 Y AL ARTÍCULO 13 EL SEGUNDO PÁRRAFO; ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN VI DEL ARTÍCULO 3 Y UNA FRACCIÓN VII DEL ARTÍCULO 4, Y UN TERCER PÁRRAFO DEL ARTÍCULO 13, TODAS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En caso de que el Municipio no cuente con la Defensoría Municipal para la Protección de Niñas, Niños y Adolescentes, la Alerta Temprana será remitida al Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda, a fin de que pueda realizar las evaluaciones pertinentes y restituyan los derechos vulnerados de los menores de edad.
+
+P.O. 16 DE ENERO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 070. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 16 Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 21; Y POR ADICIÓN DE UNA FRACCIÓN XX DEL ARTÍCULO 16 Y UNA FRACCIÓN XXI DEL ARTÍCULO 21, TODAS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2019.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 126. SE REFORMA POR ADICIÓN UN ARTÍCULO 20 BIS II A LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La autoridad educativa tendrá 180 días a partir de la entrada en vigor del presente Decreto para realizar y dar a conocer el protocolo de prevención y actuación ante conductas suicidas a las escuelas y padres de familia, las cuales se publicarán en el portal oficial de internet de la Secretaría de Educación, así como también se entregarán en los planteles educativos para la distribución con los padres de familia.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 131. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN I DEL ARTÍCULO 7, LAS FRACCIONES V Y VI DEL ARTÍCULO 12 Y EL ARTÍCULO 13, ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN VII DEL ARTÍCULO 12 TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XXII Y XXIII Y POR ADICIÓN DE LA FRACCIÓN XXIV TODOS (SIC) DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 172. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 174. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XX Y XXI Y POR ADICIÓN DE UNA FRACCIÓN XXII TODAS DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La presente reforma será aplicada a partir del ciclo escolar 2020-2021, para lo cual la Secretaría de Educación del Estado, tendrá un plazo de hasta 90 días, a partir de la entrada en vigor del presente Decreto, para emitir las reglas que permitan dar cumplimiento a la presente reforma.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 201. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 16 BIS Y POR MODIFICACIÓN AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA POR ADICIÓN DE UN ARTÍCULO 27 BIS A LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 278. SE REFORMA EL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 311. SE REFORMA LAS FRACCIONES XII Y XXII DEL ARTÍCULO 7 Y EL PRIMER PÁRRAFO DE LOS ARTÍCULOS 49 Y 51 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 282. SE ADICIONA LA FRACCIÓN V BIS DEL ARTÍCULO 3 Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 126 BIS 13, TODOS DE LA LEY DE (SIC) AMBIENTAL DEL ESTADO; ASÍ TAMBIÉN SE REFORMAN LAS FRACCIONES XXI Y XXII, Y POR ADICIÓN DE LA FRACCIÓN XXIII DEL ARTÍCULO 21 TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 361. SE REFORMAN LOS ARTÍCULOS 66, LA FRACCIÓN VI DEL ARTÍCULO 93, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
