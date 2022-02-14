@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2021-02-12"
+last_updated: "2022-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2022.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -770,6 +770,10 @@ La Comisión Permanente de Trabajo y Previsión Social implementará la semana d
 > <small>(ADICIONADO, G.O. 19 DE AGOSTO DE 2019)</small>
 
 La Comisión Permanente de Turismo implementará en las regiones turísticas en las que se divide el Estado, en la última semana del mes de septiembre de cada año, “La Semana del Turismo”, realizando eventos, conferencias, seminarios, presentaciones académicas, foros de consulta, entre otras actividades, amparada bajo el lema que la Organización Mundial de (sic) Turismo anticipadamente haya declarado para la conmemoración del Día Mundial del Turismo en ese mismo año.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2022)</small>
+
+La Comisión Permanente de Transporte, Tránsito y Vialidad realizará en la tercera semana del mes de mayo de cada año, la "Semana de Movilidad y Seguridad Vial" realizando campañas, conferencias, seminarios, foros consultivos, cursos, entre otras actividades, que estarán avaladas bajo el lema que emita anticipadamente la Organización de las Naciones Unidas para conmemorar la "Semana Mundial de las Naciones Unidas para la Seguridad Vial" en el año de que se trate.
 
 ###### Artículo 62.
 
@@ -1960,3 +1964,11 @@ G.O. 12 DE FEBRERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230 QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 61 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
