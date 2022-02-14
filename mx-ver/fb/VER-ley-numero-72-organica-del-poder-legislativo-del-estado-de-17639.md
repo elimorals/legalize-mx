@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2020-12-02"
+last_updated: "2022-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -885,7 +885,9 @@ I. Administración y Presupuesto;
 
 II. Agua Potable y Saneamiento;
 
-III. Asuntos Indígenas;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2022)</small>
+
+III. Asuntos Indígenas y de las Comunidades Afrodescendientes;
 
 IV. Atención y Protección de Periodistas;
 
@@ -2028,3 +2030,11 @@ SEGUNDO.- Todos los asuntos turnados a la actual Comisión Permanente de Desarro
 TERCERO.- Las competencias de la actual Comisión Permanente de Desarrollo Social, Humano y Regional del Congreso de Estado de Veracruz, recaerán a la Comisión Permanente de Bienestar y Desarrollo Social.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 229 QUE REFORMA EL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
