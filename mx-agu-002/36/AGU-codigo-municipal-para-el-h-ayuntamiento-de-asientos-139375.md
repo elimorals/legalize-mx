@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2021-09-28"
+last_updated: "2022-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2022.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -2465,7 +2465,7 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan de Desarrollo Municipal para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 224°.
 
@@ -2479,7 +2479,11 @@ b) Secretaria;
 
 c) Sindicatura Municipal;
 
-d) Coordinador de Asesores.
+a) Departamento de Resguardo de Píe Mostrenco;
+
+d) Coordinador de Asesores y Asesores.
+
+e) Coordinación de Gestión
 
 II. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
@@ -2495,15 +2499,17 @@ e) Jueces Calificadores;
 
 f) Coordinación de Delegaciones;
 
-g) Delegados y Comisarios;
+g) Coordinación de Casas Ciencia;
 
-h) Coordinación de Casas Ciencia;
+h) Coordinación Municipal de Protección Civil;
 
-i) Coordinación Municipal de Protección Civil;
+i) Coordinación de Planeación;
 
-j) Coordinación de Planeación.
+j) Departamento de Educación;
 
-k) Departamento de Educación.
+k) Delegados, Comisarios y Jefe de Pueblo;
+
+l) Comités Comunitarios de Planeación, Gestión y Participación Comunitaria.
 
 1. Delegaciones:
 
@@ -2513,9 +2519,11 @@ b) Pilotos;
 
 c) Adolfo López Mateos;
 
-d) Guadalupe de Atlas, y
+d) Guadalupe de Atlas,
 
-e) Ciénega Grande.
+e) Ciénega Grande, y
+
+f) Jefe de Pueblo
 
 2. Comisarias Municipales por Delegaciones:
 
@@ -2597,7 +2605,7 @@ c) Delegación Adolfo López Mateos
 
 d) Delegación Guadalupe de Atlas
 
-1. Bimbaletes Atlas
+1. Bimbaletes, Atlas
 
 2. Bimbaletes El Álamo
 
@@ -2635,7 +2643,7 @@ d) Departamento de Psicología;
 
 e) Trabajadora Social;
 
-f) Coordinadora de Grupos de Atención a Adultos Mayores;
+f) Coordinación de Grupos de Atención a Adultos Mayores;
 
 g) Departamento de Atención a Grupos Vulnerables, Niñas, Niños y Personas con Capacidades Diferentes;
 
@@ -2655,7 +2663,7 @@ d) Órgano de Control Interno.
 
 V. Tesorería Municipal:
 
-a) Contador General;
+a) Coordinador de Contabilidad y Finanzas
 
 b) Departamento Contable de Egresos;
 
@@ -2663,29 +2671,39 @@ c) Departamento de Recaudación e Ingresos;
 
 d) Departamento de Catastro;
 
-e) Asesor de Tesorería.
+e) Asesores de Tesorería.
 
 VI. Dirección de Servicios Públicos Municipales:
 
 a) Departamento de Atención al Público y Calidad de los Servicios;
 
-b) Departamento de Parques y Jardines;
+b) Departamento de Parques, Jardines;
 
 c) Departamento de Alumbrado público;
 
-e (sic)) Departamento de Limpia y Maquinaria;
+d) Departamento de Limpia y Maquinaria;
 
-f) Departamento de Rastros;
+e) Departamento de Rastros;
 
-g) Departamento de Resguardo de Píe Mostrenco.
+f) Departamento de Panteones;
 
-VII. Dirección de Desarrollo Social y Rural:
+g) Departamento de Mantenimiento General.
 
-a) Departamento (sic) Desarrollo Social;
+VII. Dirección de Desarrollo Social
 
-b) Departamento de Desarrollo Rural.
+a) Subdirección de Desarrollo Social
 
-VIII. Dirección de Recursos Humanos y Materiales:
+b) Departamento de Promotores Sociales
+
+VIII. Dirección de Desarrollo Rural
+
+a) Subdirección de Desarrollo Rural
+
+IX. Dirección de Desarrollo Económico
+
+a) Subdirección de Desarrollo Económico
+
+X. Dirección de Recursos Humanos y Materiales:
 
 a) Departamento de Recursos Humanos;
 
@@ -2693,9 +2711,9 @@ b) Departamento de Recursos Materiales;
 
 c) Departamento de Sistemas;
 
-e) Departamento de Parque Vehicular.
+d) Departamento de Parque Vehicular.
 
-IX. Dirección de Planeación y Obras Públicas:
+XI. Dirección de Planeación y Obras Públicas:
 
 a) Subdirección de Planeación y Obras Públicas;
 
@@ -2705,7 +2723,7 @@ c) Departamento de Proyectos y Supervisión de Obras;
 
 d) Asesor de Planeación y Obras Públicas.
 
-X. Dirección de Agua Potable, Alcantarillado y Ecología:
+XII . Dirección de Agua Potable, Alcantarillado y Ecología:
 
 a) Subdirector de Agua Potable, Alcantarillado y Ecología;
 
@@ -2715,7 +2733,7 @@ c) Departamento de Ecología;
 
 d) Departamento de Cultura del Agua.
 
-XI. Dirección de Seguridad Pública y Movilidad:
+XIII . Dirección de Seguridad Pública y Movilidad:
 
 a) Subdirección de Seguridad Pública;
 
@@ -2723,7 +2741,7 @@ b) Departamento de Tránsito y Movilidad;
 
 c) Departamento de Prevención al Delito.
 
-XII. Dirección de Salud:
+XIV. Dirección de Salud:
 
 a) Departamento de Regulación Sanitaria;
 
@@ -2731,19 +2749,23 @@ b) Departamento de Salud;
 
 c) Coordinación de Paramédicos.
 
-XIII. Dirección de la Juventud y el Deporte:
+XV. Dirección de la Juventud y el Deporte:
 
 a) Departamento de la Juventud;
 
 b) Departamento del Deporte.
 
-XIV. Dirección de Turismo, Cultura y Desarrollo Económico:
+XVI. Dirección de Turismo
 
-a) Departamento de Turismo;
+a) Subdirección de Turismo
 
-b) Departamento de Cultura;
+XVII. Dirección de Cultura
 
-c) Departamento de Desarrollo Económico.
+a) Subdirección de Cultura
+
+XVIII. Dirección de la Familia
+
+a) Subdirección de la Familia
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -14587,6 +14609,8 @@ El presente decreto entrara en vigor a partir del día siguiente de su publicaci
 
 En Asientos, Aguascalientes, a 02 de agosto de 2021.”
 
+P.O. 14 DE FEBRERO DE 2022.
+
 ###### ARTÍCULO 1567°.
 
 El afectado podrá impugnar las notificaciones de los actos administrativos recurribles que no hayan sido notificados o no se hubieren apegado a lo dispuesto en esta ley, conforme a las siguientes reglas:
@@ -14764,3 +14788,9 @@ P.O. 28 DE SEPTIEMBRE DE 2021.
 PRIMERO: Se derogan las disposiciones contenidas en el Capítulo V, artículos 111 y 112, quedando de la siguiente manera:
 
 ### CAPÍTULO III. De la Impugnación de las Notificaciones
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 224 DEL CÓDIGO MUNICIPAL PARA ASIENTOS”.]
+
+Primero.- Se instruye a la Secretario (sic) del H. Ayuntamiento y Directora General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal para Asientos, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional de Asientos, la presente reforma.
+
+Segundo.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
