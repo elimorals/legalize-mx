@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2021-08-30"
+last_updated: "2022-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -2755,25 +2755,33 @@ Las adquisiciones de bienes muebles y servicios cuyo monto sea inferior a tres m
 
 Lo dispuesto en el presente Título, no será aplicable a los contratos que se celebren con otras dependencias de gobierno incluyendo los organismos descentralizados y desconcentrados, municipales, estatales y federales.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 117.
 
-El Comité de Adquisiciones será integrado de la siguiente manera:
+El Comité de Adquisiciones, Arrendamientos y Servicios del Municipio estará integrado de la siguiente manera:
 
-I. El Presidente; Que será el Director General de Finanzas y Administración, quien presidirá el comité.
+I.- El Presidente; Que será el Director General de Finanzas y Administración.
 
-II. Un Secretario Ejecutivo; Que será designado por el Sujeto de la Ley Contratante
+II.- Un Secretario Ejecutivo; Que será el Jefe de departamento de Compras y Suministros.
 
-III. Tres vocales que serán; El Regidor de Hacienda, El Síndico y un representante de la Secretaria o Tesorería del Municipio o un representante de la Coordinación Estatal de Planeación y Proyectos, o su similar del Municipio.
+III.- Tres vocales que serán;
 
-IV. Un representante de la Contraloría del Estado o del Órgano Interno de Control de la Entidad o Municipios según corresponda.
+a).- Primer Regidor de la Comisión de Gobierno y Hacienda Pública;
 
-V. Un representante de la Cámara o Asociación del ramo, mismos que serán designados por el Titular de la entidad del ejecutivo o del Municipio.
+b).- Síndico Municipal;
 
-Cada uno de los integrantes nombrará a un suplente a excepción del Síndico.
+c).- Director de Planeación y Evaluación.
 
-Todos los integrantes del Comité tendrán voz y voto en las decisiones del mismo, a excepción del Contralor Municipal quien únicamente tendrá voz.
+IV.- Un representante del Órgano Interno de Control del Municipio o su equivalente;
+
+V.- Un representante de la Dirección de Desarrollo Social, Económico y Agropecuario.
+
+Cada uno de los integrantes nombrará a un suplente a excepción del Regidor de la Comisión de Gobierno y Hacienda Pública y el Síndico Municipal.
+
+Todos los integrantes del Comité tendrán voz y voto en las decisiones del mismo, a excepción del representante de la Contraloría Municipal u Órgano Interno de Control quien únicamente tendrá voz.
+
+Es importante mencionar que formara parte del Comité de Adquisiciones la figura de Testigo Social, misma que participa en las licitaciones públicas cuyo monto rebase el equivalente a quinientas mil veces de la Unidad de Medida y Actualización en la Ciudad de México.
 
 ###### ARTICULO 118.
 
@@ -21988,3 +21996,11 @@ P.O. 30 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES”.]
+
+PRIMERO.- Queda sin efectos la publicación realizada a este mismo artículo en el Periódico Oficial del Estado de Aguascalientes en fecha 30 de agosto de 2021.
+
+SEGUNDO.- La reforma al artículo 117 del Código Municipal de San Francisco de los Romo entra en vigor al día siguiente de su publicación.
