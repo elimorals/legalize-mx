@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-01-28"
+last_updated: "2022-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -129,9 +129,9 @@ I. PRIMER CIRCUITO:
 
 2. Diez tribunales unitarios especializados: seis en materia penal y cuatro en materias Civil, Administrativa y Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 34/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ENERO DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 3/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2022)</small>
 
-3. Sesenta y cinco juzgados de Distrito en la Ciudad de México especializados: nueve de Procesos Penales Federales, dieciséis de amparo en materia penal, diecisiete en materia administrativa, catorce en materia civil y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
+3. Sesenta y dos juzgados de Distrito en la Ciudad de México especializados: seis de procesos penales federales, dieciséis de amparo en materia penal, diecisiete en materia administrativa, catorce en materia civil y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
 > <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -8736,3 +8736,17 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Juzgado Tercero de Distrito en el Estado de Campeche, con residencia en Ciudad del Carmen, de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+D.O.F. 14 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 3/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS TERCERO, NOVENO Y DECIMOSEGUNDO DE DISTRITO DE PROCESOS PENALES FEDERALES EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS NORTE, SUR Y ORIENTE RESPECTIVAMENTE; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA MATERIA Y SEDES INDICADAS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; ASÍ COMO EL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos Órganos y la Dirección General de Gestión Judicial llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficinas de Correspondencia Común que dan servicio a los órganos que concluyen funciones fijarán en un lugar visible un aviso que contenga el origen y destino de los asuntos reasignados, para consulta de las personas interesadas.
