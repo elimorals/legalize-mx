@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-adquisiciones-arrendamientos-servicios-y-obra-855
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-27"
-last_updated: "2020-03-20"
+last_updated: "2022-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE FEBRERO DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de enero de 2012.
 
@@ -365,13 +365,23 @@ V Bis. Las que se encuentren en la situación de operaciones presuntamente inexi
 
 VI. Las que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores o que alguna resolución judicial las haya condenado por delito o incumplimiento de contrato;
 
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2022)</small>
+
+VI. Bis. Aquellas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos de Yucatán.
+
+No obstante lo anterior, el deudor alimentario moroso podrá presentar propuestas o celebrar contratos o convenios regulados por este Reglamento, así como formar parte del Padrón de Proveedores del Tribunal, siempre y cuando aquel informe al presentar la propuesta o al celebrar el instrumento legal, bajo formal protesta de decir verdad, (sic) estar en proceso de cumplimiento de sus obligaciones en materia alimentaria ante la instancia correspondiente, lo que deberá ser cumplido a más tardar dentro de los 30 días naturales siguientes a la adjudicación de la obra, adquisición o servicio de que se trate. En caso de incumplimiento se deberá rescindir el contrato.
+
+La Unidad de Administración informará a la instancia ante la cual el deudor alimentario se encuentre en proceso de cumplimiento de sus obligaciones alimentarias, respecto de la adjudicación otorgada a su favor, para los efectos judiciales o administrativos a los que haya lugar.
+
+En caso de reincidencia, el deudor alimentario no podrá acceder a la excepción señalada en los dos párrafos anteriores.
+
 VII. Aquellas que por sí mismas ó a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte, y
 
 VIII. Las que celebren contratos sin estar facultadas para hacer uso de derechos de propiedad intelectual.
 
-> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2022)</small>
 
-La verificación de los supuestos anteriores correrá a cargo de la Unidad de Administración a través de la revisión de las bases de datos y archivos con que cuente el Tribunal, de los sistemas específicos de la Plataforma Digital Nacional a que se refiere la Ley General del Sistema Nacional Anticorrupción, la página electrónica del Servicio de Administración Tributaria y demás fuentes de acceso público que pudieran contener la información de que se trate, para lo cual se levantará la constancia de verificación correspondiente.
+La verificación de los supuestos anteriores correrá a cargo de la Unidad de Administración a través de la revisión de las bases de datos y archivos con que cuente el Tribunal, de los sistemas específicos de la Plataforma Digital Nacional a que se refiere la Ley General del Sistema Nacional Anticorrupción, la página electrónica del Servicio de Administración Tributaria, del Registro de Deudores Alimentarios Morosos de Yucatán y demás fuentes de acceso público que pudieran contener la información de que se trate, para lo cual se levantará la constancia de verificación correspondiente, independientemente de las declaraciones bajo formal protesta de decir verdad que, en su caso, se le soliciten al proveedor.
 
 Suficiencia presupuestal
 
@@ -973,11 +983,23 @@ III. Cuando se determine la nulidad de los actos que dieron origen al contrato, 
 
 En estos supuestos el Tribunal rembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
 
-Rescisión y cancelación
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2022)</small>
+
+Rescisión de los contratos
 
 ###### ARTÍCULO 54.
 
 Procederá la rescisión de los contratos cuando se incumplan las obligaciones derivadas de sus estipulaciones o de las disposiciones de este Reglamento, en las bases establecidas por parte del Comité de Adquisiciones y en el contrato correspondiente, en su caso.
+
+Si previamente a la determinación de dar por rescindido el contrato, se hiciere entrega de los bienes o se prestaren los servicios, el Comité de Adquisiciones podrá dejar sin efectos el procedimiento iniciado, previa dictaminación de la Unidad de Administración de que continúa vigente la necesidad de los mismos, aplicando, en su caso, las penas convencionales correspondientes.
+
+El Comité de Adquisiciones podrá determinar no dar por rescindido el contrato, cuando durante el procedimiento advierta que su rescisión pudiera ocasionar algún daño o afectación a las funciones que tiene encomendadas el Tribunal. En este supuesto, la Unidad de Administración deberá elaborar un dictamen en el cual justifique que los impactos económicos o de operación que se ocasionarían con la rescisión del contrato resultarían más inconvenientes.
+
+Al no dar por rescindido el contrato, el Tribunal establecerá con el proveedor otro plazo que le permita subsanar el incumplimiento que hubiere motivado el inicio del procedimiento. El convenio modificatorio que al efecto se celebre deberá formalizarse por escrito y los instrumentos legales respectivos serán suscritos por la persona servidora pública que lo haya hecho en el contrato o quien lo sustituya o esté facultado para ello.
+
+El Comité de Adquisiciones se abstendrá de autorizar modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
+
+Cuando por motivo del atraso en la entrega de los bienes o la prestación de los servicios, o el procedimiento de rescisión se ubique en un ejercicio fiscal diferente a aquél en que hubiere sido adjudicado el contrato, el Tribunal podrá recibir los bienes o servicios, previa verificación de que continúa vigente la necesidad de los mismos y se cuenta con partida y disponibilidad presupuestaria del ejercicio fiscal vigente, debiendo modificarse la vigencia del contrato con los precios originalmente pactados. Cualquier pacto en contrario a lo dispuesto en este artículo se considerará nulo.
 
 Finiquito
 
@@ -1186,3 +1208,15 @@ Artículo primero. El presente Acuerdo General entrará en vigor al día siguien
 Derogación tácita
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Acuerdo General.
+
+D.O. 15 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NÚMERO OR22-211214-10 DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO POR EL QUE SE MODIFICA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN, EN MATERIA DE CONTRATACIONES CON PERSONAS DEUDORAS ALIMENTARIAS MOROSAS".]
+
+Entrada en vigor
+
+Artículo primero. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Aplicación de criterio de abstención
+
+Artículo segundo. Sin perjuicio de lo anterior, el criterio de abstención a que se refiere el artículo 16, fracción VI Bis, de este acuerdo general, será aplicable una vez que la Fiscalía General del Estado de Yucatán ponga en funcionamiento el Registro de Deudores Alimentarios Morosos de Yucatán.
