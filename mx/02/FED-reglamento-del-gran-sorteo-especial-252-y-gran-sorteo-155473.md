@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-gran-sorteo-especial-252-y-gran-sorteo-155473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-10-29"
-last_updated: "2021-10-29"
+last_updated: "2022-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155473&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-09-03"
 ---
 # REGLAMENTO DEL GRAN SORTEO ESPECIAL 252 Y GRAN SORTEO ESPECIAL 256, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL GRAN SORTEO ESPECIAL 256, CON PREMIOS EN ESPECIE Y EN EFECTIVO, PUBLICADO EN EL D.O.F. DE 15 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 REGLAMENTO DEL GRAN SORTEO ESPECIAL 252 Y GRAN SORTEO ESPECIAL 256, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2022 (SIN EFECTOS).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 29 de octubre de 2021.
 
@@ -302,3 +304,13 @@ Secretario del Consejo Directivo
 Lic. Sergio Eduardo Huacuja Betancourt
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL GRAN SORTEO ESPECIAL 256, CON PREMIOS EN ESPECIE Y EN EFECTIVO”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El presente Reglamento deja sin efectos las disposiciones reglamentarias del Gran Sorteo Especial 256, contenidas en el “Reglamento del Gran Sorteo Especial 252 y Gran Sorteo Especial 256, con Premios en Especie y en Efectivo”, publicado en el Diario Oficial de la Federación el 29 de octubre de 2021.
