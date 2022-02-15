@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-intersecretarial-para-97754"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-01-24"
-last_updated: "2014-01-24"
+last_updated: "2022-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97754&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-01-21"
 ---
 # REGLAMENTO INTERNO DE LA COMISION INTERSECRETARIAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PUBLICADO EN EL D.O.F. DE 15 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de enero de 2014.
 
@@ -394,3 +396,13 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Se abroga el Reglamento Interno de la Comisión Intersecretarial para Prevenir y Sancionar la Trata de Personas, publicado en el Diario Oficial de la Federación el día 15 de febrero de 2010.
 
 México, D.F., a 21 de enero de 2014.- La Directora General de Estrategias para la Atención de Derechos Humanos y Secretaria Técnica de la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, Mercedes Peláez Ferrusca.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS”.]
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, publicado en el Diario Oficial de la Federación el día 24 de enero de 2014.
