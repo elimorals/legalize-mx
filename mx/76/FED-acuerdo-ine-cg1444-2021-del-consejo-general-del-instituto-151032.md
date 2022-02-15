@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1444-2021-del-consejo-general-del-instituto-15103
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-09-09"
-last_updated: "2022-01-21"
+last_updated: "2022-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151032&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2021-08-27"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL CUAL SE APRUEBA (SIC) LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES A LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO Y SU ANEXO TÉCNICO, VÉASE PAGINAS DE LA 92 A LA 111 PUBLICADAS EN EL D.O.F. DE 21 DE ENERO DE 2022.]</small>
+> <small>[N. DE E. PARA CONSULTAR LA MODIFICACIÓN A LOS LINEAMIENTOS DEL INSTITUTO NACIONAL ELECTORAL PARA LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO EN CUMPLIMIENTO AL ACUERDO INE/CG13/2022, Y DERIVADO DE LA NEGATIVA DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO A LA SOLICITUD DE OTORGAR DE MANERA EXCEPCIONAL RECURSOS ADICIONALES PARA EL PROCESO DE REVOCACIÓN DE MANDATO PUBLICADA EN EL D.O.F. DE 15 DE FEBRERO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2022.
 
 Acuerdo publicado en el Número 7 del Diario Oficial de la Federación, el jueves 9 de septiembre de 2021.
 
@@ -242,3 +242,25 @@ DÉCIMO. El presente Acuerdo, así como las modificaciones aprobadas a los Linea
 DÉCIMO PRIMERO. Se instruye a la Dirección Jurídica de este Instituto, informar el presente Acuerdo a la Sala Superior una vez que sea aprobado por este Consejo General, en cumplimiento a la sentencia SUP-RAP-415/2021 y sus acumulados.
 
 DÉCIMO SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, la Gaceta Electoral, en NormaINE, en el portal de internet del Instituto Nacional Electoral y en el micrositio de Revocación de Mandato.
+
+D.O.F. 15 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN A LOS LINEAMIENTOS DEL INSTITUTO NACIONAL ELECTORAL PARA LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO EN CUMPLIMIENTO AL ACUERDO INE/CG13/2022, Y DERIVADO DE LA NEGATIVA DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO A LA SOLICITUD DE OTORGAR DE MANERA EXCEPCIONAL RECURSOS ADICIONALES PARA EL PROCESO DE REVOCACIÓN DE MANDATO.]</small>
+
+PRIMERO. Se aprueba la modificación a los Lineamientos, en cumplimiento al punto Quinto del Acuerdo INE/CG13/2022, en los términos de las consideraciones precedentes.
+
+SEGUNDO. Se instruye a la JGE para que a propuesta de las Unidades Responsables realice la modificación de la CIP reflejando la adecuación presupuestal y el ajuste de costos determinado en el Acuerdo INE/CG13/2022, así como la modificación de los Lineamientos acordada en el punto Primero del presente Acuerdo y demás normativa aplicable.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva coordine a las Direcciones Ejecutivas y Unidades Técnicas del Instituto para que, en su caso, se presenten ante las Comisiones competentes, las propuestas de reforma a los documentos que sufran algún impacto, derivado de la modificación a los Lineamientos y los ajustes a los costos de la RM aprobados por este órgano en el diverso Acuerdo INE/CG13/2022.
+
+CUARTO. Se instruye a la Comisión de Fiscalización para que armonice los Lineamientos Generales para la Fiscalización de la Revocación de Mandato del Presidente de la República electo para el periodo constitucional 2018-2024, con las adecuaciones materia del presente Acuerdo.
+
+QUINTO. Notifíquese el presente Acuerdo a las Vocalías Ejecutivas de las Juntas Locales y Distritales Ejecutivas del INE, para su conocimiento y debido cumplimiento.
+
+SEXTO. Se instruye a las y los Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas del INE, para que instrumenten lo conducente, a fin de que las y los integrantes de sus respectivas Juntas Locales y Distritales Ejecutivas y de los Consejos correspondientes tengan pleno conocimiento de este Acuerdo y realicen lo que corresponde en el ámbito de sus competencias.
+
+SÉPTIMO. Comuníquese el presente Acuerdo a la SCJN y a la Sala Superior del TEPJF, para los efectos a que haya lugar.
+
+OCTAVO. El presente Acuerdo y las modificaciones aprobados a los Lineamientos, entrará en vigor al momento de su aprobación y, cualquier disposición contraria a lo acordado en el presente quedará sin efectos.
+
+NOVENO. Publíquese de inmediato el presente Acuerdo en el Diario Oficial de la Federación, la Gaceta Electoral, en el portal de internet del Instituto Nacional Electoral, en NormaINE y en el micrositio de difusión para la RM.
