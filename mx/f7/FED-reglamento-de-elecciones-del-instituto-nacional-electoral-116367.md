@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2022-02-08"
+last_updated: "2022-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 8 DE FEBRERO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 16 DE FEBRERO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2022.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -7879,6 +7879,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 7 SOLICITUD DE ACREDITACIÓN COMO VISITANTE EXTRANJERO, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 1.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 7 EN EL D.O.F. DE 16 DE FEBRERO DE 2022, PÁGINA 96.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 8.1 MANUAL DE UBICACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE CASILLAS ELECTORALES, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 2 A LA 51.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 8.2 CAUSAS POR LAS QUE UN ELECTOR EN TRÁNSITO NO PUEDE VOTAR, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 52.]</small>
@@ -9290,5 +9292,39 @@ Página INE: https://www.ine.mx/sesion-ordinaria-del-consejo-general-17-de-novie
 Página DOF: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf
 
 Ciudad de México, 22 de noviembre de 2021.- El Coordinador General de la Unidad Técnica de Servicios de Informática, Ing. Jorge Humberto Torres Antuñano.- Rúbrica.
+
+D.O.F. 16 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITE LA CONVOCATORIA DIRIGIDA A LA COMUNIDAD INTERNACIONAL INTERESADA EN PRESENCIAR Y ACOMPAÑAR EL DESARROLLO DEL PROCESO DE REVOCACIÓN DE MANDATO DEL PRESIDENTE DE LA REPÚBLICA ELECTO PARA EL PERIODO CONSTITUCIONAL 2018-2024, QUE TENDRÁ LUGAR EL 10 DE ABRIL DE 2022 EN MÉXICO, Y SE APRUEBA LA MODIFICACIÓN DEL ANEXO 7 DEL REGLAMENTO DE ELECCIONES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueba la Convocatoria y la solicitud de acreditación para las y los visitantes extranjeros que acudan a presenciar y acompañar el desarrollo del proceso de Revocación de Mandato del Presidente de la República, que tendrá lugar el 10 de abril de 2022 en México, mismos que se incluyen como anexos del presente Acuerdo y forman parte integral del mismo.
+
+SEGUNDO.- Se instruye a la Coordinación de Asuntos Internacionales difundir la Convocatoria anexa entre audiencias potencialmente interesadas.
+
+TERCERO.- La Coordinación de Asuntos Internacionales deberá presentar a este Consejo General informes mensuales, preferentemente, respecto de las actividades desarrolladas para la atención de las personas interesadas en acreditarse como visitantes extranjeras y visitantes extranjeros en el proceso de Revocación de Mandato del Presidente de la República, que tendrá lugar el 10 de abril de 2022; considerando que, por cuestiones presupuestales, estos apoyos se ofrecerán por medios virtuales.
+
+CUARTO.- El presente acuerdo, incluyendo sus documentos anexos, entrarán en vigor al día siguiente de su aprobación por parte del Consejo General del Instituto Nacional Electoral.
+
+QUINTO.- Se instruye a la Dirección Jurídica incluir el anexo 7 en el compilado de anexos del RE, en los términos en que se adjunta al presente acuerdo, para su publicación en NormaINE.
+
+SEXTO.- Publíquese el presente acuerdo en la Gaceta Electoral y en el portal de internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+SÉPTIMO.- Publíquese el presente Acuerdo y el anexo 7 del Reglamento de Elecciones en NormaINE.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 4 de febrero de 2022, por votación unánime de las y los Consejeros Electorales, Maestra Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-04-de-febrero-de-2022/
+
+Página DOF
+
+www.dof.gob.mx/2022/INE/CGext202202_04_ap_4.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
