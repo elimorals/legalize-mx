@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-concurso-de-oposicion-para-la-designacion-de-131
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-10-25"
-last_updated: "2018-10-25"
+last_updated: "2022-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,15 @@ issue_date: "2018-10-11"
 ---
 # REGLAMENTO DEL CONCURSO DE OPOSICION PARA LA DESIGNACION DE JUEZAS Y JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN ACTUALIZADA DE LA GACETA OFICIAL NÚMERO 792 DE FECHA 17 DE FEBRERO DE 2022.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 438 DE FECHA 25 DE OCTUBRE DE 2018.]</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T03-2019/reglamentoconcursodeoposicion.pdf]</small>
 
 REGLAMENTO DEL CONCURSO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUEZAS Y JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 25 de octubre de 2018.
+Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 25 de octubre de 2018. (REPUBLICADO EN LA G.O.17 DE FEBRERO DE 2022).
 
 TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO,
 
@@ -35,6 +37,8 @@ AVISO POR EL CUAL SE DA A CONOCER EL NUEVO REGLAMENTO Y LINEAMIENTOS DEL CONCURS
 El Licenciado Oscar Fernando Rangel Gadea, Oficial Mayor del Tribunal Superior de Justicia de la Ciudad de México, con fundamento en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y conforme a lo dispuesto en los artículos 27 Fracción I inciso a), 39 del Acuerdo General 36-36/2012 emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México (antes Distrito Federal) y Artículo 182 de la Ley Orgánica del Tribunal Superior del Distrito Federal (hoy Ciudad de México), el Tribunal Superior de Justicia de la Ciudad de México, Hace del conocimiento de los Magistrados, Jueces y Servidores Públicos del Tribunal Superior de Justicia de la Ciudad de México, litigantes, postulantes y público en general que el Consejo de la Judicatura de la Ciudad de México autorizó, mediante el Acuerdo V-32/2018 emitido en sesión de fecha primero de junio de dos mil dieciocho, la publicación del Nuevo Reglamento y Lineamientos del Concurso de Oposición para la designación de Juezas y Jueces del Tribunal Superior de Justicia de la Ciudad de México, en los siguientes términos:
 
 El Consejo de la Judicatura de la Ciudad de México expide, con fundamento en los artículos 122, apartado A, Base IV, de la Constitución Política de los Estados Unidos Mexicanos (aplicable en términos de lo dispuesto en los artículos Segundo y Décimo transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México, publicada en el Diario Oficial de la Federación el 29 de enero de 2016); 77 del Estatuto de Gobierno del Distrito Federal; 17, fracción VIII, 77, 190, 193 y 201, fracciones I y III, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal:
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ARTÍCULO 1° Objeto
 
@@ -98,7 +102,7 @@ XVI. Reglamento del Consejo: Reglamento Interior del Consejo de la Judicatura de
 
 XVII. Tribunal: Tribunal Superior de Justicia de la Ciudad de México.
 
-## TÍTULO SEGUNDO (SIC). ÓRGANOS QUE INTERVIENEN
+## TÍTULO SEGUNDO. ÓRGANOS QUE INTERVIENEN
 
 ARTÍCULO 4° Consejo
 
@@ -174,7 +178,9 @@ X. Conservar en todo momento la secrecía de toda la información relacionada co
 
 XI. Las demás que se le confieren en este Reglamento.
 
-ARTÍCULO 7° Instituto El Instituto tendrá a su cargo el desarrollo de la etapa de evaluación, con las siguientes funciones atributivas:
+ARTÍCULO 7° Instituto
+
+El Instituto tendrá a su cargo el desarrollo de la etapa de evaluación, con las siguientes funciones atributivas:
 
 I. Presentar al Consejo la estrategia de evaluación para su aprobación previamente a cada Concurso de Oposición;
 
@@ -230,8 +236,6 @@ XI. El material de apoyo que podrán consultar las y los concursantes en las dis
 
 XII. El formato de Conocimiento y Aceptación de las Bases y Lineamientos del Concurso de Oposición, en donde el solicitante manifiesta conocer los requisitos exigidos para la inscripción, los parámetros que regulan el Concurso y su conformidad con ellos.
 
-## TÍTULO CUARTO. DERECHOS Y OBLIGACIONES DE LOS PARTICIPANTES
-
 ###### ARTÍCULO 9.
 
 Causas de eliminación y descalificación
@@ -260,7 +264,7 @@ Lista de aspirantes
 
 El Instituto notificará al Jurado el número de aspirantes inscritos que reunieron los requisitos de la Convocatoria.
 
-## TÍTULO QUINTO. ETAPAS
+## TÍTULO CUARTO. DERECHOS Y OBLIGACIONES DE LOS PARTICIPANTES
 
 ###### ARTÍCULO 11.
 
@@ -276,7 +280,7 @@ III. Estar debidamente informados durante todas las etapas del Concurso respecto
 
 IV. Contar con el lugar, equipo y tiempo necesarios para la presentación de los exámenes;
 
-V. los resultados de las tres primeras fases de evaluación eliminatoria a través de su publicación en el Boletín Judicial del Tribunal y en la página web del Instituto; y
+V. Conocer los resultados de las tres primeras fases de evaluación eliminatoria a través de su publicación en el Boletín Judicial del Tribunal y en la página web del Instituto; y
 
 VI. Solicitar por escrito los resultados de su examen psicométrico al Consejo, dentro de los 60 días hábiles posteriores a la culminación del Concurso en que participó.
 
@@ -299,6 +303,8 @@ VII. Realizar los exámenes con el equipo y material que el Instituto le proporc
 VIII. Abstenerse de participar en dos o más convocatorias simultáneamente; y
 
 IX. En caso de no ser finalista, contará con 60 días hábiles posteriores a la culminación del Concurso para recoger sus documentos de registro; por lo que será indispensable presentar el formato que se le entregó al realizar su inscripción. Posterior a esa fecha, los documentos se enviarán al Archivo Judicial para su resguardo y posterior destrucción.
+
+## TÍTULO QUINTO. ETAPAS
 
 ###### ARTÍCULO 12.
 
@@ -389,3 +395,51 @@ OFICIAL MAYOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
 (Firma)
 
 LICENCIADO OSCAR FERNANDO RANGEL GADEA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 24-44/2021, emitido por el Consejo de la Judicatura del Poder Judicial de la Ciudad de México, en fecha nueve de noviembre dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación de los hipervínculos y/o ligas electrónicas, correspondientes a los Manuales de Organización y Procedimientos, así como Lineamientos y Reglamentos, autorizados por el Pleno del Consejo de la Judicatura del Poder Judicial de esta Ciudad, que se indican a continuación:
+
+MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
+
+[…]
+
+DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+[...]
+
+Reglamento del Concurso de Oposición para la designación de Juezas y Jueces del Tribunal Superior de Justicia de la Ciudad de México
+
+Reglamento V-32/2018 http://www.poderjudicialcdmx.gob.mx
+
+Fecha 1-06-2018 /otros/descarga.php?arv=121/DEP
+
+/T03-2019/
+
+reglamentoconcursodeoposicion.pdf
+
+[...]
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento y sus Lineamientos entrarán en vigor al día siguiente de su publicación en el Boletín Judicial. Para su mayor difusión, publíquese en la Gaceta Oficial de la Ciudad de México por una sola vez.
+
+###### ARTÍCULO SEGUNDO.
+
+Derivado de la autorización del presente reglamento, queda sin efectos el Acuerdo Plenario 19-43/2013 emitido en sesión de fecha veinticuatro de septiembre de dos mil trece, por el Pleno del Consejo de la Judicatura del Distrito Federal (hoy Ciudad de México), en el que se autorizaron los documentos denominados "Reglamento de Concurso de Oposición para la designación de Jueces del Tribunal Superior de Justicia del Distrito Federal" y "Lineamientos relativos a la etapa de evaluación establecidos en el Reglamento de Concurso de Oposición para la designación de Jueces del Tribunal Superior de Justicia del Distrito Federal".
+
+###### ARTÍCULO TERCERO.
+
+Los Concursos de Oposición del Tribunal Superior de Justicia de la Ciudad de México que hayan iniciado antes de la entrada en vigor del presente Reglamento, seguirán siendo regulados por la normatividad vigente al momento de su inicio, salvaguardándose todos los derechos de las y los concursantes.
