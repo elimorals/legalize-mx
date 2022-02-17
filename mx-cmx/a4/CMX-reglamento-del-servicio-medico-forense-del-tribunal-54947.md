@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-medico-forense-del-tribunal-54947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2015-06-11"
+last_updated: "2022-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54947&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,15 @@ issue_date: "2007-03-21"
 ---
 # REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 792 DE FECHA 17 DE FEBRERO DE 2022.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 109 DE FECHA 11 DE JUNIO DE 2015.]</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T03-2019/reglamentoincifo.pdf]</small>
 
 REGLAMENTO DEL SERVICIO MÉDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 11 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2015 (DEROGADO).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2015 (DEROGADO). (REPUBLICADA SU DEROGACIÓN, G.O. 17 DE FEBRERO DE 2022)
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 4 de abril de 2007.
 
@@ -397,3 +399,47 @@ CUARTO: Las referencias hechas al "Servicio Médico Forense" en otras leyes o di
 QUINTO: El Consejo de la Judicatura del Distrito Federal determinará, conforme a la normatividad nacional que en materia de Ejecución de Sanciones sea publicada en el Diario Oficial de la Federación, la vigencia del apartado XIV del presente Reglamento, por lo que corresponde a la Unidad de Atención Integral.
 
 SEXTO: Por considerarse que este acuerdo es de interés general, publíquese por una sola vez en la Gaceta Oficial del Distrito Federal e instrúyase al Oficial Mayor para que con cargo a la partida que corresponde, realice el pago de la publicación en dicha Gaceta."
+
+G.O. 17 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 24-44/2021, emitido por el Consejo de la Judicatura del Poder Judicial de la Ciudad de México, en fecha nueve de noviembre dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación de los hipervínculos y/o ligas electrónicas, correspondientes a los Manuales de Organización y Procedimientos, así como Lineamientos y Reglamentos, autorizados por el Pleno del Consejo de la Judicatura del Poder Judicial de esta Ciudad, que se indican a continuación:
+
+MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
+
+[...]
+
+DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+[...]
+
+Reglamento del Instituto de Ciencias Forenses
+
+Reglamento 14-18/2015
+
+fecha 21-04-2015
+
+http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T03-2019/reglamentoincifo.pdf
+
+[...]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente a su publicación en el Boletín Judicial del Tribunal.
+
+SEGUNDO.- Se deroga el Acuerdo General 6-13/2007 emitido por el Pleno del Consejo de la Judicatura del Distrito Federal en sesión de fecha 21 de marzo de 2007, mediante el cual se aprobó el Reglamento del Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal, así como todas aquellas disposiciones que contravengan al presente Reglamento.
+
+TERCERO.- La estructura prevista en el Artículo 108 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, se irá formalizando de manera paulatina, conforme a la disponibilidad presupuestal que exista en el Tribunal Superior de Justicia del Distrito Federal y a la emisión del Dictamen de Reestructura Orgánica correspondiente que en su momento apruebe el Consejo de la Judicatura del Distrito Federal.
+
+CUARTO.- Las referencias hechas al “Servicio Médico Forense” en otras leyes o disposiciones normativas vigentes, al 27 de julio de 2012, se entenderán hechas al “Instituto de Ciencias Forenses”.
+
+QUINTO.- El Consejo de la Judicatura del Distrito Federal determinará, conforme a la normatividad nacional que en materia de Ejecución de Sanciones sea publicada en el Diario Oficial de la Federación, la vigencia del apartado XIV del presente Reglamento, por lo que corresponde a la Unidad de Atención Integral.
+
+SEXTO.- Por considerarse que este acuerdo es de interés general, publíquese por una sola vez en la Gaceta Oficial del Distrito Federal e instrúyase al Oficial Mayor para que con cargo a la partida que corresponde, realice el pago de la publicación en dicha Gaceta.”
