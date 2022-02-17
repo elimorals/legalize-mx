@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-organismo-publico-descentralizado-135326"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-04-09"
-last_updated: "2019-04-09"
+last_updated: "2022-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección VII al Número 28 del Periódico Oficial del Estado de Jalisco, el martes 9 de abril de 2019.
 
@@ -197,7 +197,31 @@ La Junta de Gobierno requiere de la asistencia de más de la mitad de sus integr
 
 Las reglas de votación y suplencias se establecerán en el Reglamento Interno de la Agencia.
 
-Los miembros de la Junta de Gobierno elegirán al Organismo de la Sociedad Civil, que se integrará a la misma; para ello deberán considerar que cuente con mínimo 5 años de experiencia probada en políticas públicas en la calidad el (sic) aire, que esté debidamente constituida y que no tenga conflicto de interés con las decisiones o acuerdos que se tomen en la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2022)</small>
+
+Los miembros de la Junta de Gobierno elegirán al Organismo de la Sociedad Civil, que se integrará a la misma; para ello deberán considerar que cuente con mínimo 5 años de experiencia probada en políticas públicas en la calidad del aire, que esté debidamente constituida y que no tenga conflicto de interés con las decisiones o acuerdos que se tomen en la Junta de Gobierno.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE FEBRERO DE 2022)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 10.
 
@@ -366,3 +390,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28731/LXIII QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 9 DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) DENOMINADO "AGENCIA INTEGRAL DE REGULACIÓN DE EMISIONES".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
