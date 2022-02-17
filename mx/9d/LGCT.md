@@ -4,7 +4,7 @@ identifier: "LGCT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-05-30"
-last_updated: "2021-05-20"
+last_updated: "2022-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61148&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCT"
 
 LEY GENERAL PARA EL CONTROL DEL TABACO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE FEBRERO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de mayo de 2008.
 
@@ -76,7 +76,9 @@ La presente Ley tiene las siguientes finalidades:
 
 I. Proteger la salud de la población de los efectos nocivos del tabaco;
 
-II. Proteger los derechos de los no fumadores a vivir y convivir en espacios 100% libres de humo de tabaco;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
+II. Proteger los derechos de los no fumadores a vivir y convivir en espacios 100 por ciento libres de humo de tabaco y emisiones;
 
 III. Establecer las bases para la protección contra el humo de tabaco;
 
@@ -114,7 +116,21 @@ VIII. Emisión: Es la sustancia producida y liberada cuando un producto del taba
 
 IX. Empaquetado y etiquetado externos: Expresión que se aplica a todo envasado y etiquetado utilizados en la venta al por menor del producto de tabaco;
 
-X. Espacio 100% libre de humo de tabaco: Aquélla área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
+X. Espacio 100 por ciento libre de humo de tabaco y emisiones: Aquella área física con acceso al público, todo lugar de trabajo, de transporte público o espacio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de nicotina;
+
+> <small>(ADICIONADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
+X Bis. Espacio de concurrencia colectiva: Todo espacio destinado al acceso público para el desarrollo de actividades deportivas, artísticas, culturales y de entretenimiento, tanto del ámbito público como privado, independientemente si está cubierto por un techo y confinado por paredes o que la estructura sea permanente o temporal;
+
+> <small>(ADICIONADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
+X Ter. Lugar de trabajo: Son todos los lugares utilizados por las personas durante su trabajo. Incluye no sólo aquellos donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo así como los vehículos que se utilizan mientras se realiza el trabajo;
+
+> <small>(ADICIONADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
+X Quáter. Transporte público: Aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, que regularmente se obtiene una remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;
 
 XI. Humo de Tabaco: Se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
 
@@ -208,9 +224,13 @@ V. Emitir las autorizaciones correspondientes para la producción, fabricación 
 
 VI. Emitir las disposiciones para la colocación y contenido de los letreros que se ubicarán en lugares donde haya venta de productos del tabaco;
 
-VII. Formular las disposiciones relativas a los espacios 100% libres de humo de tabaco;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
 
-VIII. Promover espacios 100% libres de humo de tabaco y programas de educación para un medio ambiente libre de humo de tabaco;
+VII. Formular las disposiciones relativas a los espacios 100 por ciento libres de humo de tabaco y emisiones;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
+VIII. Promover espacios 100 por ciento libres de humo de tabaco y emisiones y programas de educación para un medio ambiente libre de humo de tabaco;
 
 IX. Determinar a través de disposiciones de carácter general los requisitos o lineamientos para la importación de productos del tabaco;
 
@@ -318,13 +338,11 @@ Este requisito será aplicable para la comercialización dentro del territorio n
 
 ### Capítulo II. Publicidad, Promoción y Patrocinio
 
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 23.
 
-Queda prohibido realizar toda forma de patrocinio, como medio para posicionar los elementos de la marca de cualquier producto del tabaco o que fomente la compra y el consumo de productos del tabaco por parte de la población.
-
-La publicidad y promoción de productos del tabaco únicamente será dirigida a mayores de edad a través de revistas para adultos, comunicación personal por correo o dentro de establecimientos de acceso exclusivo para aquéllos.
-
-La industria, los propietarios y/o administradores de establecimientos donde se realice publicidad o promoción de estos productos deberán demostrar la mayoría de edad de los destinatarios de la misma.
+Queda prohibido realizar toda forma de publicidad, promoción y patrocinio de los productos elaborados con tabaco, en forma directa o indirecta, a través de cualquier medio de difusión o comunicación que pretenda posicionar los elementos de la marca de éstos, que fomente la compra, el consumo o preferencia por parte de la población.
 
 ###### Artículo 24.
 
@@ -336,29 +354,31 @@ Las publicaciones de comunicaciones internas para la distribución entre los emp
 
 ### Capítulo III. Consumo y Protección contra la Exposición al Humo de Tabaco
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 26.
 
-Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco, así como en las escuelas públicas y privadas de educación básica y media superior.
+Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco y nicotina en los espacios 100 por ciento libres de humo de tabaco y emisiones, en los espacios cerrados, los lugares de trabajo, el transporte público, espacios de concurrencia colectiva, las escuelas públicas y privadas en todos los niveles educativos y en cualquier otro lugar con acceso al público que en forma expresa lo establezca la Secretaría.
 
 En dichos lugares se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 27.
 
-En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, podrán existir zonas exclusivamente para fumar, las cuales deberán de conformidad con las disposiciones reglamentarias:
+En lugares con acceso al público en forma libre o restringida, lugares de trabajo con o sin atención al público, públicos o privados, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse solamente en espacios al aire libre de conformidad con las disposiciones que establezca la Secretaría.
 
-I. Ubicarse en espacios al aire libre, o
-
-II. En espacios interiores aislados que dispongan de mecanismos que eviten el traslado de partículas hacia los espacios 100% libres de humo de tabaco y que no sea paso obligado para los no fumadores.
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 28.
 
-El propietario, administrador o responsable de un espacio 100% libre de humo de tabaco, estará obligado a hacer respetar los ambientes libres de humo de tabaco establecidos en los artículos anteriores.
+El propietario, administrador o responsable de un espacio 100 por ciento libre de humo de tabaco y emisiones, estará obligado a hacer respetar los ambientes libres de humo de tabaco establecidos en los artículos anteriores.
+
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 29.
 
-En todos los espacios 100% libres de humo de tabaco y en las zonas exclusivamente para fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza, debiéndose incluir un número telefónico para la denuncia por incumplimiento a esta Ley, sus reglamentos y demás disposiciones aplicables.
+En todos los espacios 100 por ciento libres de humo de tabaco y emisiones, y en las zonas exclusivamente para fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza, debiéndose incluir un número telefónico para la denuncia por incumplimiento a esta Ley, sus reglamentos y demás disposiciones aplicables.
 
 ## Título Cuarto. Medidas para Combatir la Producción Ilegal y el Comercio Ilícito de Productos del Tabaco
 
@@ -400,7 +420,9 @@ La Secretaría participará en las acciones que se realicen a fin de prevenir el
 
 La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:
 
-I. Promoción de los espacios 100% libres de humo de tabaco;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
+I. Promoción de los espacios 100 por ciento libres de humo de tabaco y emisiones;
 
 II. Promoción de la salud comunitaria;
 
@@ -464,9 +486,11 @@ Cualquier persona podrá presentar ante la autoridad correspondiente una denunci
 
 La autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
 
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 44.
 
-La Secretaría pondrá en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
+La Secretaría pondrá en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100 por ciento libres de humo de tabaco y emisiones así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
 
 ## Título Séptimo. De las Sanciones
 
@@ -673,3 +697,13 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 17 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA EL CONTROL DEL TABACO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En términos de lo dispuesto por los artículos 26 y 27 del presente Decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar las zonas exclusivas para fumar en espacios no interiores al aire libre en un plazo no mayor a 60 días posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero. Los gobiernos de las Entidades Federativas y de los municipios, deberán adecuar sus leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con lo dispuesto en el presente Decreto.
