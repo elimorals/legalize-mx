@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-organismo-publico-descentralizado-128836"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-06-02"
-last_updated: "2018-06-02"
+last_updated: "2022-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 2 de junio de 2018.
 
@@ -159,7 +159,9 @@ I. El Titular de la Dependencia que determine el Gobernador del Estado, quien la
 
 II. Un representante de la Secretaría General de Gobierno;
 
-III. Un representante de la de la (sic) Dependencia del Poder Ejecutivo responsable de la Seguridad Pública;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2022)</small>
+
+III. Un representante de la Dependencia del Poder Ejecutivo responsable de la Seguridad Pública;
 
 IV. Un representante de la instancia responsable de la procuración de justicia;
 
@@ -188,6 +190,28 @@ Las decisiones y acuerdos se tomarán por mayoría de votos y, en caso de empate
 Cada miembro deberá designar a un suplente que acreditará ante la Junta de Gobierno, quien tendrá las mismas facultades del titular a quien representan.
 
 La Junta de Gobierno sesionará de manera ordinaria trimestralmente, previa convocatoria emitida por el Director General por lo menos con siete días de anticipación y, de manera extraordinaria; cuantas veces resulte necesario por solicitud de cualquiera de sus miembros, previa convocatoria del Director General emitida con la mayor anticipación posible.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2022)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 9.
 
@@ -886,3 +910,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28730/LXIII QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
