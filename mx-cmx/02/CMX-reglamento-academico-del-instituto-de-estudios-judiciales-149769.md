@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-academico-del-instituto-de-estudios-judiciales-14976
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-09"
-last_updated: "2021-06-09"
+last_updated: "2022-02-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,15 @@ issue_date: "2021-05-02"
 ---
 # REGLAMENTO ACADEMICO DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 614 DE FECHA 9 DE JUNIO DE 2021.]</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T01-2021/Reglamentoacademicodelinstitutodeestudiosjudiciales.pdf]</small>
+
 REGLAMENTO ACADÉMICO DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
+Reglamento publicado en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
 
 AVISO
 
@@ -658,7 +662,7 @@ VIII. Análisis del proceso de toma de decisiones y la decisión judicial a nive
 
 ###### Artículo 59.
 
-Los proyectos de investigación serán de carácter preferentemente aplicado, institucional y multidisciplinario. El tema, las caracteristicas y la pertinencia de los proyectos de investigación propuestos por el Instituto deberán someterse a consideración del Consejo Académico y a la autorización del Pleno.
+Los proyectos de investigación serán de carácter preferentemente aplicado, institucional y multidisciplinario. El tema, las características y la pertinencia de los proyectos de investigación propuestos por el Instituto deberán someterse a consideración del Consejo Académico y a la autorización del Pleno.
 
 ###### Artículo 60.
 
@@ -697,3 +701,35 @@ MAESTRA ZAIRA LILIANA JIMÉNEZ SEADE
 SECRETARIA GENERAL DEL CONSEJO DE
 
 LA JUDICATURA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 24-44/2021, emitido por el Consejo de la Judicatura del Poder Judicial de la Ciudad de México, en fecha nueve de noviembre dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación de los hipervínculos y/o ligas electrónicas, correspondientes a los Manuales de Organización y Procedimientos, así como Lineamientos y Reglamentos, autorizados por el Pleno del Consejo de la Judicatura del Poder Judicial de esta Ciudad, que se indican a continuación:
+
+MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
+
+[…]
+
+DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+[...]
+
+Reglamento Académico del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México
+
+Reglamento 11-18/2021
+
+fecha 27-04-2021
+
+http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T01-2021/Reglamentoacademicodelinstitutodeestudiosjudiciales.pdf
+
+[...]
