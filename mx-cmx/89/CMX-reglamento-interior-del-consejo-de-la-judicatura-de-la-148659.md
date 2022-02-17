@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-de-la-148659"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-03-24"
-last_updated: "2021-03-24"
+last_updated: "2022-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148659&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,17 +20,15 @@ issue_date: "2021-03-12"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 792 DE FECHA 17 DE FEBRERO DE 2022.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 561 DE FECHA 24 DE MARZO DE 2021.]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Reglamento_Interior_CJCDMX.pdf]</small>
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Reglamento_Interior_CJCDMX.pdf]</small>
+[N. DE E. INFORMACIÓN OBTENIDA DE https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Reglamento_Interior_CJCDMX.pdf
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Número 561 de la Gaceta Oficial de la Ciudad de México, el miércoles 24 de marzo de 2021.
+Reglamento publicado en el Número 561 de la Gaceta Oficial de la Ciudad de México, el miércoles 24 de marzo de 2021. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
 
 P O D E R J U D I C I A L
 
@@ -1953,3 +1951,57 @@ Ciudad de México, a 17 de febrero de 2021
 LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
 MAESTRA ZAIRA LILIANA JIMÉNEZ SEADE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 24-44/2021, emitido por el Consejo de la Judicatura del Poder Judicial de la Ciudad de México, en fecha nueve de noviembre dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación de los hipervínculos y/o ligas electrónicas, correspondientes a los Manuales de Organización y Procedimientos, así como Lineamientos y Reglamentos, autorizados por el Pleno del Consejo de la Judicatura del Poder Judicial de esta Ciudad, que se indican a continuación:
+
+MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
+
+[…]
+
+DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Documento Acuerdo Liga
+
+[...]
+
+Reglamento Interior del Consejo de la Judicatura de la Ciudad de México
+
+Reglamento 07-07/2021 http://www.poderjudicialcdmx.
+
+fecha 2-02-2021 gob.mx/otros/descarga.php?
+
+arv=121/DEP/T01
+
+-2021/Reglamentointeriordel
+
+consejo de la judicatura.pdf
+
+[...]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México y para su mayor difusión, será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México y en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Consejo de la Judicatura del Distrito Federal, aprobado por Acuerdo General 34-49/2007 emitido por el Consejo de la Judicatura del Distrito Federal, en sesión ordinaria de fecha 28 de noviembre del año dos mil siete, así como todas aquellas disposiciones administrativas que contravengan lo establecido en el presente Reglamento.
+
+TERCERO.- Todos los documentos normativos, reglamentos, lineamientos, dictámenes, guías, manuales de organización y procedimientos, así como las demás disposiciones administrativas al interior del Poder Judicial de la Ciudad de México que se deriven de este Reglamento, deberán ser elaboradas y/o actualizadas por las Áreas de Apoyo Judicial y Administrativas del Poder Judicial de la Ciudad de México, acorde con el presente Reglamento, con el apoyo técnico de la Dirección Ejecutiva de Planeación, en un plazo no mayor a los seis meses posteriores a la entrada en vigor del presente Reglamento.
+
+CUARTO.- Las referencias hechas al "INSTITUTO DE CIENCIAS FORENSES" en otras leyes o disposiciones normativas vigentes, al 1° de junio de 2019, se entenderán hechas al "Instituto de Servicios Periciales y Ciencias Forenses".
+
+QUINTO.- La estructura orgánica del Instituto de Servicios Periciales y Ciencias Forenses prevista en el Artículo 252 de la Ley Orgánica del Poder Judicial de la Ciudad de México, estará supeditada a la autorización que determine el Consejo de la Judicatura de la Ciudad de México, la cual quedará sujeta a la disponibilidad presupuestal que exista.
+
+SEXTO.- La disposición contenida en el último párrafo del Artículo 118 del presente Reglamento, entrará en vigor hasta en tanto el Pleno del Consejo de la Judicatura de la Ciudad de México, determine mediante Acuerdo Plenario, las reglas y aspectos necesarios de operación, conforme al Artículo 303 de la Ley Orgánica del Poder Judicial de la Ciudad de México.
+
+SÉPTIMO.- Los actos, omisiones y procedimientos administrativos, iniciados por el Consejo de la Judicatura de la Ciudad de México antes de la entrada en vigor del presente Reglamento y que se encuentren en proceso a la fecha de publicación de éste, se regirán hasta su conclusión por el Reglamento Interior del Consejo de la Judicatura del Distrito Federal, así como por las disposiciones aplicables vigentes a su inicio.
+
+OCTAVO.- Para las etapas de investigación, substanciación y emisión de resoluciones, que, con motivo de actos, hechos u omisiones, se hayan iniciado conforme al Reglamento Interior del Consejo de la Judicatura del Distrito Federal, serán aplicables en lo conducente, las presentes disposiciones reglamentarias. Si la conducta se ejecutó antes de la entrada en vigor de la Ley de Responsabilidades Administrativas de la Ciudad de México, pero la investigación y el procedimiento, inició con posterioridad, deberá seguirse conforme a lo establecido en la Ley Orgánica del Poder Judicial de la Ciudad de México y de manera supletoria, a la Ley de Responsabilidades Administrativas de la Ciudad de México."
