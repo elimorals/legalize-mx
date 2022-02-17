@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-transparencia-acceso-a-la-113650"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-03-22"
-last_updated: "2016-03-22"
+last_updated: "2022-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113650&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-01-26"
 ---
 # REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES, PARA EL PODER JUDICIAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 40-45/2018 EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESIÓN DE FECHA SIETE DE NOVIEMBRE DE DOS MIL DIECIOCHO, POR EL QUE SE ESTABLECE EL REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS PARA EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 17 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, PARA EL PODER JUDICIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE FEBRERO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 22 de marzo de 2016.
 
@@ -838,10 +840,6 @@ Las Dependencias, Órganos Jurisdiccionales, Áreas Administrativas y de Apoyo J
 
 Cuando la Ley de Transparencia, o bien, la Ley de Datos Personales, sea reformada por la Asamblea Legislativa del Distrito Federal, el Comité, analizará la procedencia, y en su caso, realizará la propuesta de modificación al presente Reglamento, para lo cual, trabajará en sesiones conjuntas el proyecto para ser presentado al Consejo.
 
-###### Artículo 103.
-
-Cuando la Ley de Transparencia, o bien, la Ley de Datos Personales, sea reformada por la Asamblea Legislativa del Distrito Federal, el Comité, analizará la procedencia, y en su caso, realizará la propuesta de modificación al presente Reglamento, para lo cual, trabajará en sesiones conjuntas el proyecto para ser presentado al Consejo.
-
 ## TÍTULO OCTAVO
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES
@@ -873,3 +871,15 @@ C E R T I F I C A
 QUE LAS PRESENTES FOJAS (DIEZ), CONCUERDAN CON LA PARTE CONDUCENTE DEL ACUERDO 07-06/2016, EMITIDO POR EL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESION PLENARIA DE FECHA VEINTISÉIS DE ENERO DE DOS MIL DIECISÉIS, PARA SU PUBLICACIÓN EN LA GACETA DEL DISTRITO FEDERAL, EN CUMPLIMIENTO AL ACUERDO DE MERITO. SE EXPIDE LA PRESENTE COPIA, PARA LOS EFECTOS PROCEDENTES, A LOS DOCE DÍAS DEL MES DE FEBRERO DE DOS MIL DIECISÉIS.- DOY FE.
 
 (Firma)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 40-45/2018 EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESIÓN DE FECHA SIETE DE NOVIEMBRE DE DOS MIL DIECIOCHO, POR EL QUE SE ESTABLECE EL REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS PARA EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al siguiente día hábil de su publicación en el Boletín Judicial de la Ciudad de México y para su mayor difusión será publicado en la Gaceta Oficial de la Ciudad de México y el Portal de Internet del Poder Judicial de la Ciudad de México.
+
+SEGUNDO.- Se deroga el Reglamento en Materia de Transparencia, Acceso a la información Pública y Protección de Datos Personales, para el Poder Judicial del Distrito Federal, aprobado por el Consejo de la Judicatura de la Ciudad de México mediante Acuerdo General número 7-06/2016, de fecha 26 de enero de 2016, así como todas aquellas disposiciones administrativas internas que se opongan al presente Reglamento.
+
+TERCERO.- A partir del día siguiente de la entrada en vigor del presente Reglamento, el Comité en coordinación con las Unidades de Transparencia del Tribunal y el Consejo, así como el apoyo técnico de la Dirección Ejecutiva de Planeación deberán actualizar los Manuales de Organización y Procedimientos correspondientes.
