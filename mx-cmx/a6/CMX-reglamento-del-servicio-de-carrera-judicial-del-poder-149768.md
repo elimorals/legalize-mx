@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-de-carrera-judicial-del-poder-149768"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-09"
-last_updated: "2021-06-09"
+last_updated: "2022-02-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149768&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,15 @@ issue_date: "2021-05-12"
 ---
 # REGLAMENTO DEL SERVICIO DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 792 DE FECHA 17 DE FEBRERO DE 2022.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 614 DE FECHA 9 DE JUNIO DE 2021.]</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/desc’arga.php?arv=121/DEP/T01-2021/Reglamentodelserviciodecarrerajudicial.pdf]</small>
 
 REGLAMENTO DEL SERVICIO DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
+Reglamento publicado en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
 
 CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
@@ -68,7 +70,7 @@ A V I S O
 
 De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 11-18/2021, emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México, en sesión ordinaria celebrada el día veintisiete de abril del año dos mil veintiuno, con toda atención se hace del conocimiento de las y los servidores públicos de esta Casa de Justicia, así como a los litigantes y público en general que, de conformidad con lo dispuesto en el artículo 218, fracción I, de la Ley Orgánica del Poder Judicial de la Ciudad de México, así como el diverso 10, fracción I, del Reglamento Interior del Consejo de la Judicatura de la Ciudad de México, este órgano colegiado determinó autorizar el documento denominado: “Reglamento del Servicio de Carrera Judicial del Poder Judicial de la Ciudad de México”, al tenor siguiente:
 
-“ACUERDO 11-18/2021, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESIÓN DE FECHA VEINTISIETE DE ABRIL DEL AÑO DOS MIL VEINTIUNO, POR LO QUE SE ESTABLECE EL REGLAMENTO DEL SERVICIO DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+“ACUERDO 11-18/2021, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESIÓN DE FECHA VEINTISIETE DE ABRIL DEL AÑO DOS MIL VEINTIUNO, POR EL QUE SE ESTABLECE EL REGLAMENTO DEL SERVICIO DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
 ÍNDICE
 
@@ -140,7 +142,7 @@ V. Reglamento Interior del Instituto de Estudios Judiciales del Consejo de la Ju
 
 VI. Reglamento Académico del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México.
 
-VII. Los Acuerdos Generales y demás instrumentos normativos que expide el Consejo de la Judicatura de la Ciudad de México relativos a este tema.
+VII. Los Acuerdos Generales y demás instrumentos normativos que expida el Consejo de la Judicatura de la Ciudad de México relativos a este tema.
 
 ###### Artículo 5.
 
@@ -150,9 +152,9 @@ I. Boletín Judicial: Boletín Judicial del Poder Judicial de la Ciudad de Méxi
 
 II. Caso: Narrativa de hechos que contiene uno o varios conflictos de tipo jurídico y que puede incluir una argumentación legal o la resolución judicial de los mismos.
 
-III. Claustro: Se integra por las personas que se desempeñan como docentes e investigadores(as) en el Instituto de Estudios Judiciales, que facilitan los procesos de aprendizaje-enseñanza en los Eventos Académicos del Instituto, aprobado por el Consejo Académico, también denominado como cuerpo docente de conformidad con la Ley Orgánica del Poder Judicial de la Ciudad de México.
+III. Claustro: Se integra por las personas que se desempeñan como docentes o investigadores(as) en el Instituto de Estudios Judiciales, que facilitan los procesos de aprendizaje-enseñanza en los Eventos Académicos del Instituto, aprobado por el Consejo Académico, también denominado como cuerpo docente de conformidad con la Ley Orgánica del Poder Judicial de la Ciudad de México.
 
-IV. Comité Evaluador: Cuerpo colegiado integrado de conformidad con el artículo 281 de la Ley Orgánica del Poder Judicial de la Ciudad de México para elaborar exámenes de aptitud previos a las designaciones por promoción de las personas integrantes de la Carrera Judicial.
+IV. Comité Evaluador: Cuerpo colegiado integrado de conformidad con el artículo 281 de la Ley Orgánica del Poder Judicial de la Ciudad de México para elaborar los exámenes de aptitud previos a las designaciones por promoción de las personas integrantes de la Carrera Judicial.
 
 V. Concurso de Oposición: Concurso interno de Oposición o de Oposición libre al que se refiere el artículo 276 de la Ley Orgánica del Poder Judicial de la Ciudad de México.
 
@@ -188,7 +190,7 @@ XX. Pleno del Consejo: Pleno del Consejo de la Judicatura de la Ciudad de Méxic
 
 XXI. Poder Judicial: Poder Judicial de la Ciudad de México, integrado por el Tribunal Superior de Justicia y el Consejo de la Judicatura, ambos de la Ciudad de México.
 
-XXII. Promoción de la Carrera Judicial: Proceso mediante el cual una persona que ya forma parte de la Carrera Judicial del Poder Judicial de la Ciudad de México aspira a ocupar una plaza vacante diversa en un Rango superior dentro de la misma previo a la categoría de Jueza o Juez.
+XXII. Promoción en la Carrera Judicial: Proceso mediante el cual una persona que ya forma parte de la Carrera Judicial del Poder Judicial de la Ciudad de México aspira a ocupar una plaza vacante diversa en un Rango superior dentro de la misma previo a la categoría de Jueza o Juez.
 
 XXIII. Rango de Carrera Judicial: Son los Rangos de Carrera Judicial que para propósitos de formación continua y evaluación equivalen a los Cargos judiciales que señala el Artículo 277 de la Ley Orgánica del Poder Judicial de la Ciudad de México.
 
@@ -282,7 +284,7 @@ Las disposiciones de este Título regulan los Concursos de Oposición para el In
 
 Los concursos de oposición podrán ser:
 
-I. Concursos Internos de Oposición: En los que únicamente podrán participar las personas servidores públicas del Poder Judicial de la Ciudad de México que cumplan con los requisitos de la convocatoria.
+I. Concursos Internos de Oposición: En los que únicamente podrán participar las personas servidoras públicas del Poder Judicial de la Ciudad de México que cumplan con los requisitos de la convocatoria.
 
 II. Concursos de Oposición Libres: En los que podrán participar las personas servidoras públicas del Poder Judicial de la Ciudad de México, litigantes, postulantes y público en general que cumplan con los requisitos de la convocatoria.
 
@@ -1007,3 +1009,45 @@ Ciudad de México, a 05 de mayo de 2021
 MAESTRA ZAIRA LILIANA JIMÉNEZ SEADE
 
 SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 24-44/2021, emitido por el Consejo de la Judicatura del Poder Judicial de la Ciudad de México, en fecha nueve de noviembre dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación de los hipervínculos y/o ligas electrónicas, correspondientes a los Manuales de Organización y Procedimientos, así como Lineamientos y Reglamentos, autorizados por el Pleno del Consejo de la Judicatura del Poder Judicial de esta Ciudad, que se indican a continuación:
+
+MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
+
+[…]
+
+DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+[...]
+
+Reglamento del Servicio de Carrera Judicial del Poder Judicial de la Ciudad de México
+
+Reglamento 11-18/2021 http://www.poderjudicialcdmx.
+
+fecha 27-04-2021 gob.mx/otros/descarga.php?
+
+arv=121/DEP/T01
+
+-2021/Reglamentodelservicio
+
+decarrerajudicial.pdf
+
+[...]
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México y para su mayor difusión será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México y en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se deja sin efectos cualquier disposición administrativa que se oponga al presente Reglamento.
