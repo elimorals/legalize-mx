@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-jalisciense-de-radio-y-television-9685
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-07"
-last_updated: "2021-04-03"
+last_updated: "2022-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 2013.
 
@@ -178,6 +178,28 @@ Los cargos como integrantes de la Junta de Gobierno son honoríficos y, por tant
 ###### Artículo 9°.
 
 La Junta de Gobierno celebrará sesiones ordinarias por lo menos dos veces por año y extraordinarias las veces que sea necesario a juicio del Presidente.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE FEBRERO DE 2022)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 10.
 
@@ -352,6 +374,28 @@ Para garantizar la pluralidad en el Consejo Ciudadano, la participación será a
 ###### Artículo 21.
 
 El desarrollo de las sesiones y demás aspectos inherentes a las funciones del Consejo Ciudadano serán normadas en el reglamento interno del Organismo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE FEBRERO DE 2022)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo Ciudadano en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2021)</small>
 
@@ -558,3 +602,9 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. La persona titular de la Dirección General del Sistema Jalisciense de Radio y Televisión contará con un plazo de hasta 120 días a partir de la publicación del presente decreto para remitir al titular del Poder Ejecutivo, de conformidad con las disposiciones aplicables, los proyectos de reformas y adiciones necesarias a la reglamentación, a fin de adecuar la normatividad a lo dispuesto en este decreto.
 
 TERCERO. La persona titular de la Dirección General del Sistema Jalisciense de Radio y Televisión deberá emitir dentro de los 120 días naturales, contados a partir de la entrada en vigor del presente decreto, convocatoria pública para la elección de Consejeros Ciudadanos.
+
+P.O. 17 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28732/LXIII QUE REFORMAN LOS ARTÍCULOS 9 Y 12 DE LA LEY ORGÁNICA DEL SISTEMA JALICIENSE DE RADIO Y TELEVISIÓN, ADICIONANDO UN SEGUNDO ARTÍCULO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
