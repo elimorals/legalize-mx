@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-estudios-judiciales-149770
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-09"
-last_updated: "2021-06-09"
+last_updated: "2022-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149770&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,49 @@ issue_date: "2021-05-12"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 792 DE FECHA 17 DE FEBRERO DE 2022.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 614 DE FECHA 9 DE JUNIO DE 2021.]</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T01-2021/Reglamentointeriordelconsejodelajudicatura.pdf]</small>
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio 2021.
+Reglamento publicado en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio 2021. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
+
+AVISO
+
+AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS AVISOS EMITIDOS POR EL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 11-18/2021, emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México, en sesión ordinaria celebrada el día veintisiete de abril del año dos mil veintiuno, se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la expedición del:
+
+-“Reglamento del Servicio de Carrera Judicial del Poder Judicial de la Ciudad de México"
+
+Aviso publicado en el Boletín Judicial número 48, del Poder Judicial de la Ciudad de México, de fecha jueves seis de mayo de dos mil veintiuno, y que pueden (sic) ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Aviso_11_18_2021_Reglamento_Servicio_CJPJCDMX.pdf
+
+-"Reglamento Interior del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México"
+
+Aviso publicado en el Boletín Judicial número 48, del Poder Judicial de la Ciudad de México, de fecha jueves seis de mayo de dos mil veintiuno, y que pueden (sic) ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Aviso_Acuerdo_11_18_2021_Reglamento_Interior_IEJCJCDMX.pdf
+
+-"Reglamento Académico del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México”.
+
+Aviso publicado en el Boletín Judicial número 48, del Poder Judicial de la Ciudad de México, de fecha jueves seis de mayo de dos mil veintiuno, y que pueden (sic) ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Acuerdo_11_18_2021_Reglamento_Academico_IEJ_CJCDMX.pdf
+
+En caso de no poder acceder al enlace electrónico, comunicarse con la persona servidora pública responsable:
+
+Lic. Minerva Mas Mendoza.
+
+Líder Coordinador de Proyectos “C”, adscrita a la Dirección Ejecutiva de Gestión Tecnológica del Consejo de la Judicatura de la Ciudad de México.
+
+Número telefónico: 5591564997 ext. 511055.
+
+Correo electrónico: minerva.mas@tsjcdmx.gob.mx
 
 CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 62 FRACCIÓN V, DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, LA MAESTRA ZAIRA LILIANA JIMÉNEZ SEADE, SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO.
 
@@ -361,3 +397,47 @@ Ciudad de México, a 05 de mayo de 2021
 MAESTRA ZAIRA LILIANA JIMÉNEZ SEADE
 
 SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 24-44/2021, emitido por el Consejo de la Judicatura del Poder Judicial de la Ciudad de México, en fecha nueve de noviembre dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación de los hipervínculos y/o ligas electrónicas, correspondientes a los Manuales de Organización y Procedimientos, así como Lineamientos y Reglamentos, autorizados por el Pleno del Consejo de la Judicatura del Poder Judicial de esta Ciudad, que se indican a continuación:
+
+MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
+
+[…]
+
+DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+[...]
+
+Reglamento Interior del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México
+
+Reglamento 11-18/2021 http://www.poderjudicialcdmx.
+
+fecha 27-04-2021 gob.mx/otros/descarga.php?
+
+arv=121/DEP/T01
+
+-2021/Reglamentointeriordel
+
+Institutodeestudiosjudiciales
+
+.pdf
+
+[...]
+
+## TRANSITORIOS
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial y, para su mayor difusión, será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México.
+
+Segundo.- Se deroga el Reglamento Interior del Instituto de Estudios Judiciales del Tribunal Superior de Justicia de la Ciudad de México, aprobado por el Consejo de la Judicatura de la Ciudad de México, mediante Acuerdo General 34-27/2018 de fecha 21 de junio de 2018; así como todas aquellas disposiciones administrativas internas que se opongan al presente Acuerdo.”
