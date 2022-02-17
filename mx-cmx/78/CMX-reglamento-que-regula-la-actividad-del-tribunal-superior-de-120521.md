@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-regula-la-actividad-del-tribunal-superior-de-120
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-03-28"
-last_updated: "2017-03-28"
+last_updated: "2022-02-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120521&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,15 @@ issue_date: "2017-03-07"
 ---
 # REGLAMENTO QUE REGULA LA ACTIVIDAD DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MEXICO, COMO AUXILIAR DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DE LA CIUDAD DE MEXICO EN LA RECAUDACION DE MULTAS JUDICIALES IMPUESTAS POR SUS ORGANOS JURISDICCIONALES
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 792 DE FECHA 17 DE FEBRERO DE 2022.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA PUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 36 DE FECHA 28 DE MARZO DE 2017.]</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T03-2019/reglamentotsjcdmxauxiliartesoreria.pdf]</small>
 
 REGLAMENTO QUE REGULA LA ACTIVIDAD DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO COMO AUXILIAR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DE LA CIUDAD DE MÉXICO, EN LA RECAUDACIÓN DE MULTAS JUDICIALES IMPUESTAS POR SUS ÓRGANOS JURISDICCIONALES
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 28 de marzo de 2017.
+Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 28 de marzo de 2017. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
 
 CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
@@ -104,7 +106,7 @@ C.2. Jefatura de Unidad Departamental de Control de Multas.
 
 El Oficial Mayor será suplido en sus ausencias por el Director Ejecutivo de Recursos Financieros y por el Director de Administración Financiera, en el orden indicado y sólo respecto de los actos relativos a los servicios de tesorería y la instrumentación del procedimiento administrativo de ejecución, así como para representarlo en los juicios de amparo o juicios contencioso administrativos en los que dicho servidor público sea señalado como autoridad responsable o demandada.
 
-El Director Ejecutivo de Recursos Financieros, será suplido en sus ausencias por el Director de Administración Financiera y el Subdirector de Control y Ejecución de Multas, en ese orden, únicamente para la instrumentación del procedimiento administrativo de ejecución, así cómo para representarlo en los juicios de amparo o juicios contencioso administrativos en los que dicho servidor público sea señalado como autoridad responsable o demandada.
+El Director Ejecutivo de Recursos Financieros, será suplido en sus ausencias por el Director de Administración Financiera y el Subdirector de Control y Ejecución de Multas, en ese orden, únicamente para la instrumentación del procedimiento administrativo de ejecución, así como para representarlo en los juicios de amparo o juicios contencioso administrativos en los que dicho servidor público sea señalado como autoridad responsable o demandada.
 
 El Director de Administración Financiera, será suplido en sus ausencias por el Subdirector de Control y Ejecución de Multas, y por los JUD de Cobranza Coactiva y de Control de Multas, en ese orden estricto y únicamente para efectos de la instrumentación del procedimiento económico coactivo y la representación en los juicios de amparo y contencioso administrativos en los que dicho Director sea parte.
 
@@ -116,7 +118,7 @@ Finalmente, el Subdirector de Control y Ejecución de Multas será suplido por l
 
 ###### Artículo 6.
 
-Corresponde a la Oficialía Mayor, fungir como auxiliar de la Secretaría, para la recepción, custodia, concentración de fondos y valores propiedad o al cuidado de la Ciudad de México, respecto de las multas impuestas por los órganos jurisdiccionales del Tribunal, así como los aprovechamientos y accesorios relacionados con la prestación de un servicio público, en términos de los artículos 10, 248, fracción XVII, incisos a) y b), y 333 de l (sic) Código, así como la tramitación del procedimiento administrativo de ejecución.
+Corresponde a la Oficialía Mayor, fungir como auxiliar de la Secretaría, para la recepción, custodia, concentración de fondos y valores propiedad o al cuidado de la Ciudad de México, respecto de las multas impuestas por los órganos jurisdiccionales del Tribunal, así como los aprovechamientos y accesorios relacionados con la prestación de un servicio público, en términos de los artículos 10, 248, fracción XVII, incisos a) y b), y 333 del Código, así como la tramitación del procedimiento administrativo de ejecución.
 
 ###### Artículo 7.
 
@@ -128,7 +130,7 @@ II. Coordinar las acciones tendientes a la programación, instrumentación y con
 
 III. Efectuar a través del personal previamente autorizado, las notificaciones de los actos administrativos, de conformidad con lo establecido en el Capítulo III, Título Segundo, del Libro tercero del Código.
 
-VI (SIC). Instrumentar el procedimiento administrativo de ejecución en los términos señalados en el Capítulo I, Titulo Primero del Libro Tercero, del Código, a través del personal previamente autorizado.
+IV. Instrumentar el procedimiento administrativo de ejecución en los términos señalados en el Capítulo I, Titulo Primero del Libro Tercero, del Código, a través del personal previamente autorizado.
 
 V. Emitir, en el ámbito de su competencia, los actos administrativos inherentes al procedimiento administrativo de ejecución.
 
@@ -172,7 +174,7 @@ II. Establecer, los procesos operativos, de diagnóstico, evaluación y actualiz
 
 III. Coordinar e instruir permanentemente a la Dirección de Administración Financiera, para optimizar la recaudación de las multas que impongan los órganos jurisdiccionales del Tribunal.
 
-XIV (SIC). Instruir a la Dirección de Administración Financiera para que a través de la Subdirección de Ingresos:
+IV. Instruir a la Dirección de Administración Financiera para que a través de la Subdirección de Ingresos:
 
 a) Capte y concentre el ingreso proporcionado por la Subdirección de Control y Ejecución de Multas.
 
@@ -186,7 +188,7 @@ V. Suplir al Oficial Mayor en sus ausencias, así como representarlo en los juic
 
 VI. Las demás que al efecto establezca la legislación fiscal o administrativa aplicable, así como las que determine el Consejo y el Oficial Mayor, en el ámbito de su competencia.
 
-### Capítulo IV. De las facultades (sic) Dirección de Administración Financiera en materia de servicios de tesorería
+### Capítulo IV. De las facultades Dirección de Administración Financiera en materia de servicios de tesorería
 
 #### Sección I. De la Dirección de Administración Financiera
 
@@ -316,7 +318,7 @@ XVI. Las demás que al efecto establezca la legislación fiscal o administrativa
 
 ###### Artículo 15.
 
-La interpretación para efectos administrativos y de aplicación en el procedimiento administrativo previsto en (sic) Capítulo III, Título Segundo, del Libro Tercero del Código, será competencia del titular de la Dirección Ejecutiva de Recursos Financieros
+La interpretación para efectos administrativos y de aplicación en el procedimiento administrativo previsto en Capítulo III, Título Segundo, del Libro Tercero del Código, será competencia del titular de la Dirección Ejecutiva de Recursos Financieros
 
 ###### Artículo 16.
 
@@ -324,7 +326,7 @@ La interpretación para efectos administrativos y fiscales, de la Resolución, p
 
 ###### Artículo 17.
 
-En lo no previsto sobre aspectos de control documental y registro, expedición de formatos y comprobantes y sobre las disposiciones relativas al control y registro de la obtención de recursos con motivo del ejercicio de las facultades de cobro coactivo establecidas en este reglamento, se estará a l as (sic) disposiciones legales aplicables del Código y a las disposiciones administrativas que al efecto emita la Secretaría.
+En lo no previsto sobre aspectos de control documental y registro, expedición de formatos y comprobantes y sobre las disposiciones relativas al control y registro de la obtención de recursos con motivo del ejercicio de las facultades de cobro coactivo establecidas en este reglamento, se estará a las disposiciones legales aplicables del Código y a las disposiciones administrativas que al efecto emita la Secretaría.
 
 T R A N S I T O R I O S
 
@@ -339,3 +341,47 @@ CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 66, FRACCIÓN V, DEL REGLAMENTO 
 C E R T I F I C A
 
 QUE LAS PRESENTES FOJAS (OCHO), CONCUERDA CON LA PARTE CONDUCENTE DEL ACUERDO 23-10/2017, EMITIDO POR EL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESION PLENARIA DE FECHA VEINTIOCHO DE FEBRERO DE DOS MIL DIECISIETE, PARA SU PUBLICACIÓN EN LA GACETA DE LA CIUDAD DE MÉXICO, EN CUMPLIMIENTO AL ACUERDO DE MERITO. SE EXPIDE LA PRESENTE, PARA LOS EFECTOS PROCEDENTES, A LOS SIETE DÍAS DEL MES DE MARZO DE DOS MIL DIECISIETE.- DOY FE. (Firma)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo 24-44/2021, emitido por el Consejo de la Judicatura del Poder Judicial de la Ciudad de México, en fecha nueve de noviembre dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la publicación de los hipervínculos y/o ligas electrónicas, correspondientes a los Manuales de Organización y Procedimientos, así como Lineamientos y Reglamentos, autorizados por el Pleno del Consejo de la Judicatura del Poder Judicial de esta Ciudad, que se indican a continuación:
+
+MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
+
+[…]
+
+DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+Tipo de Manual Acuerdo Liga
+
+[...]
+
+Reglamento que regula la actividad del Tribunal Superior de Justicia de la Ciudad de México, como auxiliar de la Secretaría de Finanzas del Gobierno de la Ciudad de México en la recaudación de multas judiciales impuestas por sus órganos jurisdiccionales
+
+Reglamento 23-10/2017 http://www.poderjudicialcdmx.
+
+fecha 28-02-2017 gob.mx/otros/descarga.php?
+
+arv=121/DEP/T03
+
+-2019/reglamentotsjcdmxauxiliar
+
+Tesoreria.pdf
+
+[...]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia de la Ciudad de México y para su mayor difusión, será publicado en la Gaceta Oficial de la Ciudad de México y en el portal web del Poder Judicial de la Ciudad de México.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 5-24/2010 y 27-42/2010, del Pleno del Consejo de la Judicatura de la Ciudad de México, mediante los cuales se creó la Dirección para el Cobro de Multas Judiciales y por el que se establecen las atribuciones y facultades generales de dicha dirección.
+
+TERCERO.- Quedan sin efecto todas las disposiciones administrativas o reglamentarias internas que se opongan al presente Reglamento.”
