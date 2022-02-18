@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-cultural-para-el-estado-de-michoacan-de-57071
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-26"
-last_updated: "2016-03-18"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 26 de septiembre de 2007.
 
@@ -73,33 +73,37 @@ IV. Fondo: El fideicomiso denominado Fondo Estatal para la Promoción Cultural;
 
 V. Interculturalidad: La presencia e interacción equitativa de las culturas y la posibilidad de generar expresiones culturales compartidas, adquiridas por medio del diálogo horizontal y de una actitud de respeto mutuo;
 
-VI. Plan de Manejo: El conjunto organizado y sistematizado de diagnósticos, índices de medida, lineamientos, estrategias, proyectos y acciones que tienen como finalidad alcanzar el aprovechamiento sustentable de un bien cultural;
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-VII. Políticas y acciones culturales: Los lineamientos estratégicos y programas que dan sentido y dirección a la intervención estatal en distintos campos culturales, así como a las acciones institucionales relativas al fomento y promoción del desarrollo cultural;
+VI. Patrimonio Natural: Los monumentos o zonas naturales constituidos por formaciones físicas, biológicas, geológicas y fisiográficas, que tengan un valor universal excepcional desde el punto de vista estético o científico, de acuerdo con la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural, de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, reconocidos ante la Secretaría del Medio Ambiente y Recursos Naturales y la Comisión Nacional de Áreas Naturales Protegidas;
 
-VIII. Programa: El Programa Estatal de Cultura;
+VII. Plan de Manejo: El conjunto organizado y sistematizado de diagnósticos, índices de medida, lineamientos, estrategias, proyectos y acciones que tienen como finalidad alcanzar el aprovechamiento sustentable de un bien cultural;
 
-IX. Promotores y gestores culturales: Las personas expertas, técnicas, profesionales o especialistas en la promoción, gestión, administración, producción y difusión de actividades, bienes y servicios culturales y del patrimonio cultural;
+VIII. Políticas y acciones culturales: Los lineamientos estratégicos y programas que dan sentido y dirección a la intervención estatal en distintos campos culturales, así como a las acciones institucionales relativas al fomento y promoción del desarrollo cultural;
 
-X. Secretaría: La Secretaría de Cultura;
+IX. Programa: El Programa Estatal de Cultura;
 
-XI. Sistema: El Sistema Estatal de Educación Artística;
+X. Promotores y gestores culturales: Las personas expertas, técnicas, profesionales o especialistas en la promoción, gestión, administración, producción y difusión de actividades, bienes y servicios culturales y del patrimonio cultural;
 
-XII. Ley: Ley de Desarrollo Cultural del Estado de Michoacán de Ocampo;
+XI. Secretaría: La Secretaría de Cultura;
 
-XIII. Consejo: Consejo Consultivo Estatal de Planeación Cultural;
+XII. Sistema: El Sistema Estatal de Educación Artística;
 
-XIV. Desarrollo cultural: El proceso de despliegue de las potencialidades de creación y expresión de un pueblo esencialmente diversas y multifacéticas, forjadas en su historia y transformadas en el acontecer de su vida cotidiana;
+XIII. Ley: Ley de Desarrollo Cultural del Estado de Michoacán de Ocampo;
 
-XV. Lenguas maternas: Las que practican las etnias que habitan en el Estado y que componen la diversidad lingüística;
+XIV. Consejo: Consejo Consultivo Estatal de Planeación Cultural;
 
-XVI. Identidad cultural: El proceso de construcción de símbolos y concepciones que el ser humano integra y desarrolla a lo largo de su vida y que se manifiesta a través de instituciones, lenguas, saberes y cualesquiera formas de expresión. En este proceso, los valores éticos y la capacidad reflexiva, actúan como referentes para preservar y transformar el orden de la sociedad;
+XV. Desarrollo cultural: El proceso de despliegue de las potencialidades de creación y expresión de un pueblo esencialmente diversas y multifacéticas, forjadas en su historia y transformadas en el acontecer de su vida cotidiana;
 
-XVII. Regiones: La regionalización para la planeación y desarrollo del Estado;
+XVI. Lenguas maternas: Las que practican las etnias que habitan en el Estado y que componen la diversidad lingüística;
 
-XVIII. Observatorio: El Observatorio de Desarrollo Cultural; y,
+XVII. Identidad cultural: El proceso de construcción de símbolos y concepciones que el ser humano integra y desarrolla a lo largo de su vida y que se manifiesta a través de instituciones, lenguas, saberes y cualesquiera formas de expresión. En este proceso, los valores éticos y la capacidad reflexiva, actúan como referentes para preservar y transformar el orden de la sociedad;
 
-XIX. Ayuntamiento: Los municipios del Estado.
+XVIII. Regiones: La regionalización para la planeación y desarrollo del Estado;
+
+XIX. Observatorio: El Observatorio de Desarrollo Cultural; y,
+
+XX. Ayuntamiento: Los municipios del Estado.
 
 ###### Artículo 3.
 
@@ -149,7 +153,9 @@ XIII. Fomentar la creación, ampliación y adecuación de la infraestructura cul
 
 XIV. Al elaborar la política cultural, tendrá en cuenta tanto al creador, como al promotor, al gestor y al receptor de la cultura y garantizará el acceso de los michoacanos a las manifestaciones, bienes y servicios culturales en igualdad de oportunidades, concediendo especial atención a personas con discapacidad, así como a los sectores sociales más necesitados;
 
-XV. Garantizar a los niños y niñas el derecho de acceder a todas aquellas manifestaciones culturales que sean apropiadas para el desarrollo de sus valores éticos, estéticos, culturales y ecológicos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XV. Garantizar a los niños y niñas el derecho de acceder a todas aquellas manifestaciones culturales que sean apropiadas para el desarrollo de sus valores éticos, estéticos, culturales y ambientales;
 
 XVI. Crear incentivos y estímulos fiscales y crediticios para personas e instituciones que desarrollen e impulsen la cultura, en sus diversas manifestaciones; y,
 
@@ -233,7 +239,9 @@ Corresponde a la Secretaría de Turismo:
 
 I. Promover conjuntamente con la Secretaría, el desarrollo de actividades culturales y eventos tradicionales del Estado;
 
-II. Impulsar y fomentar el conocimiento de las diferentes riquezas naturales, arquitectónicas, arqueológicas, artesanales y artísticas del Estado, a través de los diferentes medios de que dispone;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+II. Impulsar y fomentar el conocimiento de las diferentes riquezas arquitectónicas, arqueológicas, artesanales y artísticas del Estado, así como el patrimonio natural en coordinación con la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, a través de los diferentes medios de que dispone;
 
 III. Promover la cooperación del Instituto Nacional de Antropología e Historia, para que brinden facilidades a los grupos indígenas en la utilización de sus respectivos centros ceremoniales; y,
 
@@ -378,6 +386,10 @@ Las dependencias y entidades de la administración pública estatal y municipal,
 ###### Artículo 22.
 
 La Secretaría asesorará a los ayuntamientos en la realización de estudios de impacto cultural y planes de manejo para que el diseño, operación o aplicación de una política pública, no afecte negativamente el desarrollo cultural de una comunidad o cause afectaciones a su patrimonio cultural.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+Asimismo, la Secretaría en colaboración con la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, Secretaría de Turismo y las autoridades municipales, para conservar y manejar sustentablemente su patrimonio natural, fomentando las buenas prácticas de manejo ambiental de las comunidades, acorde a sus prácticas culturales. Por lo que las dependencias y entidades trabajarán para impulsar la cultura y la conservación del medio ambiente mediante la conectividad del territorio, fortaleciendo el Corredor Biológico Cultural en términos de lo dispuesto en la Ley de Conservación y Sustentabilidad Ambiental del Estado de Michoacán.
 
 ###### Artículo 23.
 
@@ -664,3 +676,11 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE VIOLENCIA FAMILIAR EN EL ESTADO DE MECHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 08.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 1, 3; 6; 8 FRACCIÓN I; 9; 21; 31 FRACCIÓN V; 40 FRACCIÓN XII; SE ADICIONAN LOS INCISOS A), B), C), D), E), F), G), H), I), J) Y K) AL ARTÍCULO 1; EL ARTÍCULO 22 BIS; 31 FRACCIÓN VI Y 31 BIS; 40 FRACCIÓN XIII RECORRIÉNDOSE LA SIGUIENTE FRACCIÓN EN EL ORDEN SUBSECUENTE; 42 BIS; 42 TER Y 42 QUÁTER DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN XV Y 7 FRACCIÓN II; Y, SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 2 RECORRIÉNDOSE LAS DEMÁS EN EL ORDEN SUBSECUENTE; Y, UN SEGUNDO PÁRRAFO AL ARTÍCULO 22 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN EL ARTÍCULO 2° Y SU FRACCIÓN XII Y EL ARTÍCULO 8; Y, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 1 RECORRIÉNDOSE EN SU ORDEN EL SIGUIENTE, DE LA LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO CUARTO.- SE REFORMA EL ARTÍCULO 1°, LAS FRACCIONES IX Y X DEL ARTÍCULO 15, Y EL ARTÍCULO 58; SE ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 3°; LA FRACCIÓN XIV AL ARTÍCULO 13; EL ARTÍCULO 14 BIS; LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 15; Y, LAS FRACCIONES I, II Y III AL ARTÍCULO 58, DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 5, EL ARTÍCULO 7; LA FRACCIÓN X DEL ARTÍCULO 10; LA FRACCIÓN IX DEL ARTÍCULO 29, LOS ARTÍCULOS 40, 42, 102, 103, 120 Y 126; Y, LAS FRACCIONES X, XI, XII Y XV DEL ARTÍCULO 160; SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 5; LA FRACCIÓN III AL ARTÍCULO 7 RECORRIENDO LAS SIGUIENTES FRACCIONES EN EL ORDEN SUBSECUENTE; LA FRACCIÓN X RECORRIÉNDOSE LA SIGUIENTE EN EL ORDEN SUBSECUENTE AL ARTÍCULO 29; UN TERCER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 158; UN SEGUNDO PÁRRAFO AL ARTÍCULO 161; Y, SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 45; DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
