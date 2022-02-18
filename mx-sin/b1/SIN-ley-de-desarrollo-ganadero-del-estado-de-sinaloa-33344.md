@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-ganadero-del-estado-de-sinaloa-33344"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2021-05-07"
+last_updated: "2022-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO GANADERO DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 18 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2003.
 
@@ -2004,3 +2006,29 @@ La agricultura protegida en invernaderos plásticos y casasombras cubiertas de m
 SÉPTIMO. El Titular del Ejecutivo dictará los lineamientos que correspondan en cuanto al uso, adquisición, distribución, promoción e importación de los agroquímicos referidos en el presente Decreto e instruirá a las Secretarías de Agricultura y Ganadería, y de Desarrollo Sustentable a implementar y promover alternativas sostenibles y ambientalmente amigables con productos de baja toxicidad, biológicos u orgánicos y con prácticas agroecológicas que resulten seguras para la salud humana, la diversidad biocultural y el ambiente.
 
 OCTAVO. El Programa de manejo integrado para el control de plagas, deberá ser elaborado y publicado a más tardar el 30 de abril de 2022, para lo cual el Titular del Ejecutivo convocará a las instituciones de educación superior, centros de investigación, productores apícolas, agrícolas, a la industria de agroquímicos, a las asociaciones de usuarios de agroquímicos y a las organizaciones de productores de bioinsumos e insumos agrícolas orgánicos.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO NÚMERO: 689 QUE EXPIDE LA LEY DE DESARROLLO GANADERO DEL ESTADO DE SINALOA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Ganadero, expedida mediante Decreto No. 329, de fecha 17 de julio de 2003 y publicada en el Periódico Oficial “El Estado de Sinaloa”, No. 091, el 30 de julio de 2003.
+
+TERCERO. La Comisión Estatal de Desarrollo Ganadero que se crea mediante la presente Ley deberá ser conformada atendiendo los parámetros establecidos en la misma, dentro de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+CUARTO. La Comisión Estatal de la Carne deberá ser constituida e integrada dentro de los 90 días posteriores al inicio de vigencia de la presente Ley.
+
+QUINTO. La Comisión Estatal de la Leche que se crea mediante la presente Ley deberá ser conformada atendiendo los parámetros establecidos en la misma, dentro de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+SEXTO. El Titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias que deriven del presente Decreto, dentro de los 90 días posteriores al inicio de vigencia del mismo.
+
+SÉPTIMO Los trámites y asuntos que se encuentren en curso al momento de la entrada en vigor de la presente Ley, se desahogarán y concluirán de conformidad con las disposiciones vigentes al momento del inicio del trámite o asunto correspondiente.
+
+OCTAVO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+NOVENO. Se abroga la Ley que Crea el Comité Estatal de Sanidad Animal en el Estado de Sinaloa, Publicada en el Periódico Oficial “El Estado de Sinaloa” número 36 de fecha 24 de marzo de 1970, transfiriendo sus facultades, patrimonio y personal a la Comisión Estatal de Desarrollo Ganadero, garantizado en todo momento los derechos laborales, conforme derecho correspondan.
+
+DÉCIMO. La Ley de Hacienda del Estado de Sinaloa será adicionada con los derechos por servicios en materia de ganadería, previstos en este Decreto, durante el primer periodo ordinario de la LXIV legislatura.
+
+DÉCIMO PRIMERO. El Ejecutivo del Estado, a más tardar el 31 de diciembre de 2021, concluirá su reingeniería administrativa, para efectos del artículo anterior. En tanto, los servicios referidos en el mismo, continuarán conforme las disposiciones vigentes.
