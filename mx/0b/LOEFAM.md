@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2021-11-22"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -126,9 +126,9 @@ Son facultades del Mando Supremo:
 
 I. Nombrar al Secretario de la Defensa Nacional;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
-II. Nombrar al Subsecretario; al Oficial Mayor; al Inspector y Contralor General del Ejército y Fuerza Aérea; al Jefe del Estado Mayor de la Defensa Nacional; al Fiscal General de Justicia Militar y al Presidente así como a los Magistrados del Tribunal Superior Militar;
+II. Nombrar al Subsecretario; al Oficial Mayor; al Inspector y Contralor General del Ejército y Fuerza Aérea; al Jefe del Estado Mayor Conjunto de la Defensa Nacional; al Fiscal General de Justicia Militar y al Presidente así como a los Magistrados del Tribunal Superior Militar;
 
 III. Nombrar al Jefe del Estado Mayor Presidencial;
 
@@ -186,7 +186,9 @@ Para el cumplimiento de las funciones del Alto Mando, la Secretaría de la Defen
 
 El Alto Mando, para el cumplimiento de sus funciones, contará con los siguientes órganos:
 
-I. Estado Mayor de la Defensa Nacional;
+> <small>(REFORMADA, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+I. Estado Mayor Conjunto de la Defensa Nacional;
 
 II. Inspección y Contraloría General del Ejército y Fuerza Aérea;
 
@@ -194,15 +196,21 @@ III. Organos del Fuero de Guerra; y
 
 IV. Direcciones Generales de la Secretaría de la Defensa Nacional.
 
-ESTADO MAYOR DE LA DEFENSA NACIONAL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+ESTADO MAYOR CONJUNTO DE LA DEFENSA NACIONAL
+
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 22.
 
-El Estado Mayor de la Defensa Nacional es el órgano técnico operativo, colaborador inmediato del Alto Mando, a quien auxilia en la Planeación y coordinación de los asuntos relacionados con la Defensa Nacional y con la organización, adiestramiento, operación y desarrollo de las Fuerzas Armadas de tierra y aire y transforma las decisiones en directivas, instrucciones y órdenes, verificando su cumplimiento.
+El Estado Mayor Conjunto de la Defensa Nacional es el órgano técnico operativo, colaborador inmediato del Alto Mando, a quien auxilia en la Planeación y coordinación de los asuntos relacionados con la Defensa Nacional y con la organización, adiestramiento, operación y desarrollo de las Fuerzas Armadas de tierra y aire y transforma las decisiones en directivas, instrucciones y órdenes, verificando su cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 23.
 
-El Estado Mayor de la Defensa Nacional estará formado por personal Diplomado de Estado Mayor perteneciente al Ejército y Fuerza Aérea y por aquel otro que sea necesario.
+El Estado Mayor Conjunto de la Defensa Nacional estará formado por personal Diplomado de Estado Mayor perteneciente al Ejército y Fuerza Aérea y por aquel otro que sea necesario.
 
 INSPECCION Y CONTRALORIA GENERAL DEL EJERCITO Y FUERZA AEREA
 
@@ -256,9 +264,11 @@ Los Consejos de Honor y los Superiores Jerárquicos y de cargo conocen de las fa
 
 DIRECCIONES GENERALES DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 32.
 
-Las Direcciones Generales de las Armas, de los servicios y de otras funciones administrativas de la Secretaría de la Defensa Nacional, tendrán a su cargo las actividades relacionadas con el asesoramiento al Alto Mando y la dirección, manejo y verificación de todos los asuntos militares no incluidos en los de carácter táctico o estratégico, que tiendan a la satisfacción de la moral militar y de las necesidades sociales y materiales del Ejército y Fuerza Aérea; de acuerdo con el Reglamento Interior de la Secretaría de la Defensa Nacional u ordenamiento que haga sus veces.
+Las Direcciones Generales de las Armas, de los servicios y de otras funciones administrativas de la Secretaría de la Defensa Nacional, tendrán a su cargo las actividades relacionadas con el asesoramiento al Alto Mando y a los Comandantes del Ejército y de la Fuerza Aérea, así como la dirección, manejo y verificación de todos los asuntos militares no incluidos en los de carácter táctico o estratégico, que tiendan a la satisfacción de la moral militar y de las necesidades sociales y materiales del Ejército y Fuerza Aérea; de acuerdo con el Reglamento Interior de la Secretaría de la Defensa Nacional u ordenamiento que haga sus veces.
 
 ### CAPITULO IV. MANDOS SUPERIORES
 
@@ -268,25 +278,31 @@ Los Mandos Superiores, según su función, se dividen en Operativos y de Servici
 
 #### SECCION PRIMERA
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 34.
 
 Los Mandos Superiores Operativos recaerán en:
 
-I. El Comandante de la Fuerza Aérea;
+I. El Comandante del Ejército;
 
-II. En los Comandantes de Regiones Militares;
+II. El Comandante de la Fuerza Aérea;
 
-III. En los Comandantes de Zonas Militares;
+III. Los Comandantes de Regiones Militares o Aéreas;
 
-IV. En los Comandantes de las Grandes Unidades Terrestres o Aéreas;
+IV. Los Comandantes de Zonas Militares;
 
-V. En los Comandantes de las Unidades conjuntas o combinadas; y
+V. Los Comandantes de las Grandes Unidades Terrestres o Aéreas;
 
-VI. En los Comandantes de las Unidades Circunstanciales que el Alto Mando determine implementar.
+VI. Los Comandantes de las Unidades conjuntas o combinadas, y
+
+VII. Los Comandantes de las Unidades Circunstanciales que el Alto Mando determine implementar.
+
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 35.
 
-El Secretario de la Defensa Nacional ejercerá el Mando de las Fuerzas a través del Comandante de la Fuerza Aérea, de los Comandantes de las Regiones Militares, de las Zonas Militares y de los Comandantes de Unidades, sin perjuicio de ejercerlo directamente, cuando así sea requerido por motivos del Servicio.
+El Secretario de la Defensa Nacional ejercerá el Mando de las Fuerzas a través del Comandante del Ejército, del Comandante de la Fuerza Aérea, de los Comandantes de las Regiones Militares y Aéreas, de las Zonas Militares y de los Comandantes de Unidades, sin perjuicio de ejercerlo directamente, cuando así sea requerido por motivos del Servicio.
 
 ###### ARTICULO 36.
 
@@ -318,9 +334,11 @@ En caso de que dos o más Unidades Administrativas tipo Batallón o Superior, de
 
 Cuando se requiera reunir Unidades de Armas y Servicios, con la finalidad de auxiliar a la Población Civil, realizar actividades cívicas y obras sociales o en casos de emergencias y desastres, las tropas asignadas a cada misión, estarán al mando de un militar de la clase de Arma.
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 43.
 
-El Comandante de la Fuerza Aérea y los Comandantes de Regiones Militares; Zonas Militares y Grandes Unidades, dispondrán de un Cuartel General, según sus planillas, conforme a su nivel jerárquico; los Estados Mayores que formen parte de estos Cuarteles Generales estarán subordinados técnicamente a los Estados Mayores de la Defensa Nacional y Aéreo, según corresponda.
+El Comandante del Ejército, el de la Fuerza Aérea y los Comandantes de Regiones Militares y Aéreas; Zonas Militares y Grandes Unidades, dispondrán de un Cuartel General, según sus planillas, conforme a su nivel jerárquico; los Estados Mayores que formen parte de estos Cuarteles Generales estarán subordinados técnicamente a los Estados Mayores de la Defensa Nacional, del Ejército y Aéreo, según corresponda.
 
 #### SECCION SEGUNDA
 
@@ -386,9 +404,31 @@ Está compuesta por: Unidades de Combate, Unidades de los Servicios, Cuerpos Esp
 
 ### CAPITULO II. COMPOSICION DEL EJERCITO MEXICANO
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 54.
 
-El Ejército Mexicano se compone de Unidades organizadas y adiestradas para las operaciones militares terrestres y está constituido por Armas y Servicios.
+El Ejército Mexicano se compone de Unidades organizadas y adiestradas para las operaciones militares terrestres y está constituido por:
+
+I. Comandancia del Ejército;
+
+II. Estado Mayor del Ejército;
+
+III. Unidades de Armas, y
+
+IV. Unidades de Servicios.
+
+> <small>(ADICIONADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+ARTICULO 54 BIS. El mando del Ejército recae en un General de División del Ejército, al que se denominará Comandante del Ejército, quien será responsable de la operación y administración del mismo, así como del empleo de sus Unidades, de conformidad con las directivas, instrucciones, órdenes y demás disposiciones del Alto Mando.
+
+> <small>(ADICIONADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+ARTICULO 54 TER. El Estado Mayor del Ejército es el órgano técnico operativo, colaborador inmediato del Comandante del Ejército, a quien auxilia en la planeación y coordinación de los asuntos de su competencia y de las misiones que le sean conferidas y transforma las decisiones en órdenes, directivas e instrucciones, verificando su cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+ARTICULO 54 QUATER. El Estado Mayor del Ejército, estará formado por personal Diplomado de Estado Mayor perteneciente al Ejército, así como de aquel otro personal que le sea necesario.
 
 ###### ARTICULO 55.
 
@@ -552,9 +592,11 @@ Los órganos de ejecución de los servicios, tienen por misión llevar a cabo la
 
 Los servicios podrán organizarse en equipos, escuadras, pelotones, secciones, compañías y batallones, exceptuando al de justicia que adoptará su organización de acuerdo con sus necesidades.
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 75.
 
-Las direcciones generales, direcciones y departamentos, previa autorización del Secretario de la Defensa Nacional, mantendrán estrecha colaboración con órganos afines, oficiales y particulares, a efecto de obtener los datos necesarios que sirvan de fundamento a sus informes y opiniones de carácter técnico, para controlar las obras, instalaciones y organizaciones de la misma naturaleza, cuya importancia lo amerite desde el punto de vista militar y para llevar a cabo investigaciones en los campos científico y tecnológico, relativas a sus respectivos servicios.
+Las direcciones generales, direcciones y jefaturas, previa autorización del Secretario de la Defensa Nacional y del Comandante del Ejército o de la Fuerza Aérea, según corresponda, mantendrán estrecha colaboración con órganos afines, oficiales y particulares, a efecto de obtener los datos necesarios que sirvan de fundamento a sus informes y opiniones de carácter técnico, para controlar las obras, instalaciones y organizaciones de la misma naturaleza, cuya importancia lo amerite desde el punto de vista militar y para llevar a cabo investigaciones en los campos científico y tecnológico, relativas a sus respectivos servicios.
 
 Servicio de Ingenieros
 
@@ -2169,3 +2211,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 
 Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+D.O.F. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Tercero.- Todas las referencias que en esta Ley y demás ordenamientos se hagan al Estado Mayor de la Defensa Nacional, se entenderán hechas al Estado Mayor Conjunto de la Defensa Nacional.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
