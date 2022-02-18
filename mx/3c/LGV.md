@@ -4,7 +4,7 @@ identifier: "LGV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-01-09"
-last_updated: "2021-05-20"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGV"
 
 LEY GENERAL DE VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de enero de 2013.
 
@@ -3040,11 +3040,11 @@ Las entidades federativas deberán crear en el ámbito de sus respectivas compet
 
 Las Asesorías Jurídicas de Atención a Víctimas de las entidades federativas serán, del mismo modo, órganos dependientes de la unidad análoga a la Comisión Ejecutiva que exista en la entidad, gozarán de independencia técnica y operativa y tendrán las mismas funciones, en el ámbito de sus competencias.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 166.
 
-La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
+La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos, intérpretes o traductores lingüísticos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -3070,15 +3070,15 @@ VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
 
 La Asesoría Jurídica de las entidades federativas tendrán las mismas funciones en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 168.
 
-La víctima tendrá derecho a solicitar a la Comisión Ejecutiva o a las Comisiones de víctimas, según corresponda, que le proporcione un Asesor Jurídico en caso de que no quiera o no pueda contratar un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro. En este caso, la Comisión Ejecutiva del Sistema Nacional de Víctimas deberá nombrarle uno a través de la Asesoría Jurídica Federal.
+La víctima tendrá derecho a solicitar a la Comisión Ejecutiva o a las Comisiones de víctimas, según corresponda, que le proporcione un Asesor Jurídico en caso de que no quiera o no pueda contratar un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro. En este caso, la Comisión Ejecutiva del Sistema Nacional de Víctimas deberá nombrarle uno a través de la Asesoría Jurídica Federal, así como un intérprete o traductor lingüístico cuando la víctima no comprenda el idioma español o tenga discapacidad auditiva, verbal o visual.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
-La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida.
+La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida, y de contar con un intérprete o traductor de su lengua, cuando así se requiera.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -3120,11 +3120,11 @@ IX. Vigilar la efectiva protección y goce de los derechos de las víctimas en l
 
 X. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 170.
 
-Las entidades federativas contarán con Asesores Jurídicos de Atención a Víctimas adscritos a su respectiva unidad de Asesoría Jurídica de Atención a Víctimas, los cuales tendrán las funciones enunciadas en el artículo anterior, en su ámbito de competencia.
+Las entidades federativas contarán con Asesores Jurídicos de Atención a Víctimas adscritos a su respectiva unidad de Asesoría Jurídica de Atención a Víctimas, los cuales tendrán las funciones enunciadas en el artículo anterior, en su ámbito de competencia. También contarán con intérpretes o traductores lingüísticos que darán atención a las víctimas que no comprendan el idioma español o tengan discapacidad auditiva, verbal o visual.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -3491,3 +3491,13 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 166, 168 Y 170 DE LA LEY GENERAL DE VÍCTIMAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 120 días para armonizar su respectiva legislación conforme a lo establecido en este Decreto.
+
+Tercero. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
