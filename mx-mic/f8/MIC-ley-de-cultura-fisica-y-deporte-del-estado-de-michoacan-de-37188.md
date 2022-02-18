@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2019-08-28"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -45,43 +45,65 @@ LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 La presente Ley es de orden e interés público y observancia general en todo el Estado, correspondiendo su aplicación en el ámbito administrativo al Ejecutivo Estatal, por conducto de la Comisión Estatal de Cultura Física y Deporte.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 1° Bis.
 
-El ejercicio y desarrollo del derecho a la cultura física y al deporte tienen como base los siguientes principios:
+El ejercicio y desarrollo del derecho humano fundamental a la cultura física y al deporte tiene como base los siguientes principios:
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-I. Es un derecho para todos; su difusión práctica, debe hacerse sin distinción, exclusión o restricción, que pueda dar origen a la discriminación por origen étnico, sexo, edad, discapacidad, condición social y económica, condición de salud, lengua, opiniones, preferencia sexual, estado civil, ideología o creencia religiosa;
+I. Es un derecho humano fundamental para todas y todos, su difusión práctica, debe hacerse sin distinción, exclusión o restricción que pueda dar inicio a la discriminación por origen étnico, sexo, edad, discapacidad, condición social y económica, condición de salud, lengua, opiniones, preferencia sexual, estado civil, ideología o creencia religiosa;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 II. Constituye una parte esencial de la educación;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
 III. Es un estímulo para el desarrollo del autocuidado físico, intelectual y social de todos, además de ser un factor de cuidado de la salud y autorrealización;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 IV. Los programas y acciones deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
 V. La enseñanza y capacitación, en materia de cultura física, así como la gestión, administración y desarrollo de instalaciones deportivas deben confiarse a un personal calificado;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 VI. Para su desarrollo es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas dirigidas a tal fin;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
 VII. Desarrollar investigación y generar información en torno a la cultura física y al deporte;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 VIII. Las instituciones deportivas públicas y privadas del Estado deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
 IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+
 XI. Proteger la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 XII. La existencia de una adecuada cooperación a nivel Estatal y municipal es necesaria para el desarrollo equilibrado y universal de la cultura física y el deporte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
 
-###### Artículo 2º.
+###### Artículo 2°.
 
-Esta Ley y su Reglamento tiene como finalidad regular el deporte social, estudiantil, de alto rendimiento así como el deporte profesional en su modalidad de espectáculo público; además, de establecer la obligación del Ejecutivo del Estado de fomentar, promover, organizar y conducir la política estatal en la materia, de conformidad con el Programa Operativo Estatal. Asimismo, servir como instrumento para promover y organizar la participación de la población del Estado en las actividades deportivas.
+Esta ley y su reglamento tienen como finalidad regular el derecho humano fundamental al deporte social, estudiantil y escolar, de alto rendimiento, así como el deporte profesional en su modalidad de espectáculo público; además, de establecer la obligación del Ejecutivo del Estado de fomentar, promover, organizar y conducir la política estatal en la materia, de conformidad con el Programa Operativo Estatal. Asimismo, servir como instrumento para promover y organizar la participación de la población del Estado en las actividades deportivas.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -187,6 +209,14 @@ VI. Deporte de alto rendimiento: Actividad física reglamentada por una federaci
 
 VII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
 
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+VII Bis. Deporte Estudiantil y Escolar: El deporte que se practica en los diferentes niveles del sistema educativo, su propósito consiste en contribuir a la formación y desarrollo integral de las y los estudiantes, así como la identificación de los talentos deportivos;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+VII Ter. Deporte para Adultos Mayores: El deporte y actividad física que consiste en actividades recreativas o de ocio, desplazamientos o ejercicios programados, que practican aquellas personas que por su edad tienen diversidad funcional en sus facultades físicas, auxiliándose en ocasiones de los instrumentos apropiados;
+
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 VIII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
@@ -195,13 +225,21 @@ VIII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas l
 
 IX. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos; y,
+X. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XI. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
+XI. Evento Deportivo con fines de Espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XII. Financiamiento: El apoyo económico en especie, becas o estímulos, otorgados para cubrir los gastos y necesidades de las y los deportistas, que requieran para su entrenamiento y participación en competencias municipales, estatales, nacionales o internacionales, incluyendo a sus entrenadores y equipo; y,
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XIII. Talentos Deportivos: Se les considera a aquellas personas que por sus cualidades resaltan entre los demás deportistas y pueden llegar a ser considerados de alto rendimiento, por sus condiciones y habilidades para la disciplina deportiva que practican.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -277,9 +315,9 @@ I. Definir y ejecutar las políticas para fomentar, promover y estimular el desa
 
 II. Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del SIECFIDE;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, de manera equitativa, de tal forma que queden plenamente integradas las personas con discapacidad;
+III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, de manera equitativa, de tal forma que queden plenamente integradas las personas con discapacidad, así como adultos mayores;
 
 IV. Promover mecanismos de integración interinstitucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y el deporte; y,
 
@@ -423,9 +461,9 @@ XXX. Ejercer las facultades que la Ley Orgánica de la Administración Pública 
 
 XXXI. Aprobar a propuesta del director general el nombramiento de los funcionarios que integren la estructura básica administrativa de la CECUFID.
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XXXII. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad; y,
+XXXII. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad y adultos mayores; y,
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -543,9 +581,13 @@ VII. Coordinar acciones con las Dependencias y Entidades de la Administración P
 
 VIII. Promover y fomentar ante las instancias correspondientes el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y el deporte;
 
-IX. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, apoyando la inducción de la cultura física y el deporte en los planes y programas educativos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
+IX. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, apoyando la inducción de la cultura física y el deporte en los planes y programas educativos, así como implementar e impulsar programas que permitan detectar a talentos deportivos;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte; lo anterior se hará tanto en espacios públicos como en escuelas públicas;
 
 XI. Contribuir en la integración y actualización del Registro Nacional y Estatal de Cultura Física y Deporte;
 
@@ -567,9 +609,9 @@ XVIII. Promover, con las previsiones presupuestales existentes, los fondos y fid
 
 XIX. Impulsar la práctica de actividades de cultura físico-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XX. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+XX. Formular programas para promover la cultura física y deporte entre las personas con discapacidad y adultos mayores
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -615,17 +657,17 @@ XXX. Promover e incrementar con las previsiones presupuestales existentes, los f
 
 XXXI. Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XXXII. Formular programas para promover la cultura física y el deporte entre las personas con discapacidad;
+XXXII. Formular programas para promover la cultura física y el deporte entre las personas con discapacidad, y adultos mayores;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
 XXXIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XXXIII Bis. Elaborar el padrón estatal de deportistas de alto rendimiento y de deporte adaptado; y,
+XXXIII Bis. Elaborar el padrón estatal de deportistas de alto rendimiento y de deporte adaptado y adultos mayores; y,
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -1155,9 +1197,9 @@ La CECUFID promoverá y gestionará la constitución de fideicomisos destinados 
 
 La CECUFID, regirá los criterios y bases para el otorgamiento y monto de la beca a que se harán acreedores los beneficiados por los fideicomisos creados para reconocimiento a medallistas olímpicos y paralímpicos.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
 
-La CECUFID gestionará y establecerá los mecanismos necesarios para que los deportistas con discapacidad, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el Gobierno Estatal a los deportistas convencionales.
+La CECUFID gestionará y establecerá los mecanismos necesarios para que los deportistas con discapacidad, así como las y los adultos mayores, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el Gobierno Estatal a los deportistas convencionales.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
 
@@ -1195,9 +1237,9 @@ VII. Promover con CONDE, Universidades y demás instituciones educativas la part
 
 VIII. Promover con las Universidades la participación en los programas deportivos universitarios y cooperar con éstas para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-IX. Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo de la actividad física y del deporte para las personas con discapacidad; y,
+IX. Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo de la actividad física y del deporte para las personas con discapacidad y adultos mayores; y,
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -1706,3 +1748,9 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 18 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 23 POR EL QUE “SE REFORMAN: EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 1° BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 2°, LAS FRACCIONES X Y XI Y SE ADICIONAN LAS FRACCIONES VII BIS, VII TER, XII Y XIII AL ARTÍCULO 4º; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 13, LA FRACCIÓN XXXII DEL ARTÍCULO 19, LAS FRACCIONES IX, X, XX, XXXII Y XXXIII BIS DEL ARTÍCULO 22, EL CUARTO PÁRRAFO DEL ARTÍCULO 81; Y, LA FRACCIÓN IX DEL ARTÍCULO 82, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
