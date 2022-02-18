@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-refugiados-proteccion-complementaria-y-asilo-78790"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2020-11-11"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78790&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-01-26"
 
 LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de enero de 2011.
 
@@ -81,11 +81,27 @@ XI. Solicitante de Asilo Político: El extranjero que solicita a la Secretaría 
 
 XII. Solicitante de la Condición de Refugiado: El extranjero que solicita a la Secretaría el reconocimiento de la condición de refugiado, independientemente de su situación migratoria.
 
-> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2014)</small>
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+XIII. Interculturalidad. El principio de política que asegura la inclusión igualitaria en sociedades culturalmente diversas en un plano de equidad real y dignidad humana, basado en la salvaguarda, respeto y ejercicio de las libertades y derechos humanos. Fomenta la interacción e interrelación entre personas de diferentes orígenes e identidades, personales y culturales.
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+XIV. Movilidad Humana. La movilización de personas de un lugar a otro en función de su interés por residir en un lugar distinto al de su origen de manera temporal, permanente o circular, o bien que se encuentren en tránsito en algún lugar previo a su destino, motivado por razones multifactoriales de manera voluntaria, obligatoria o forzada, ya sea interna o internacional, regular o irregular.
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+XV. Perspectiva Intercultural. La consideración y análisis de la Interculturalidad mediante la aplicación de políticas, programas y acciones públicas con criterios de igualdad, ventaja de la diversidad e interacción basada en la salvaguarda, respeto y ejercicio de las libertades y derechos humanos para construir una identidad colectiva en la búsqueda de la inclusión y la seguridad humana.
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+XVI. Interseccionalidad. Los procesos a través de los cuales las identidades sociales múltiples convergen y en definitiva conforman las experiencias individuales y sociales, que permite establecer relaciones entre múltiples posiciones y categorías en la construcción de la identidad, escapando de la atención a una única categoría identitaria.
+
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 3.
 
-La presente Ley tiene por objeto regular el otorgamiento de asilo político, el reconocimiento de la condición de refugiado y el otorgamiento de protección complementaria, así como establecer las bases para la atención a los solicitantes y asistencia a los asilados y refugiados que se encuentran en territorio nacional, con la finalidad de garantizar el pleno respeto a sus derechos humanos.
+La presente Ley tiene por objeto regular el otorgamiento de asilo político, el reconocimiento de la condición de refugiado y el otorgamiento de protección complementaria, así como establecer las bases para la atención a los solicitantes y asistencia a los asilos y refugiados que se encuentran en territorio nacional, con la finalidad de garantizar el pleno respeto a sus derechos humanos y propiciar la interculturalidad.
 
 ###### Artículo 4.
 
@@ -221,7 +237,9 @@ IV. Llevar un registro actualizado de los solicitantes y refugiados;
 
 V. Orientar a los solicitantes y refugiados que se encuentren en territorio nacional sobre sus derechos y obligaciones;
 
-VI. Formular, coordinar, dar seguimiento y evaluar los programas sobre refugiados;
+> <small>(REFORMADA, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
+VI. Formular, coordinar, dar seguimiento y evaluar los programas sobre refugiados con Perspectiva Intercultural;
 
 VII. Establecer y difundir criterios que deban considerarse en la atención a solicitantes y refugiados;
 
@@ -579,9 +597,11 @@ Cuando una solicitud de reconocimiento de la condición de refugiado se encuentr
 
 ### CAPÍTULO IV. DE LA ASISTENCIA INSTITUCIONAL
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 54.
 
-La Secretaría, en el ámbito de sus atribuciones, adoptará las medidas necesarias para brindar asistencia institucional a los refugiados, así como auxiliarlos con el objeto de facilitar su integración al país, tomando en consideración el contexto social y cultural de donde provengan, así como si son niñas, niños y adolescentes, personas adultas mayores, con discapacidad, mujeres embarazadas, enfermos crónicos, víctimas de tortura u otros tratos o penas crueles, inhumanos o degradantes, de abuso sexual y violencia de género, de trata de personas o a cualquier otra persona que pudiese encontrarse en estado de vulnerabilidad.
+La Secretaría, en el ámbito de sus atribuciones, adoptará las medidas necesarias para brindar asistencia institucional a los refugiados, así como auxiliarlos con el objeto de facilitar su inclusión al país desde una Perspectiva Intercultural e Interseccional, tomando en consideración el contexto social y cultural de donde provengan, así como si son niñas, niños y adolescentes, personas adultas mayores, con discapacidad, mujeres embarazadas, enfermos crónicos, víctimas de tortura u otros tratos o penas crueles, inhumanos o degradantes, de abuso sexual y violencia de género, de trata de personas o a cualquier otra persona que pudiese encontrarse en estado de vulnerabilidad.
 
 ###### Artículo 55.
 
@@ -800,3 +820,9 @@ Primero. El presente Decreto entrará en vigor a los 60 días de su publicación
 Segundo. El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
 
 Tercero. El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
+
+D.O.F. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
