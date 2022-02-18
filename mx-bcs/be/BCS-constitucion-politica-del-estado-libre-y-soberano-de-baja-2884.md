@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2021-12-27"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -2241,9 +2241,9 @@ Los Jueces protestarán ante el Consejo de la Judicatura; los demás funcionario
 
 Las Magistradas y Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
-95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre las Magistradas y Magistrados al que será Presidenta o Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo. La presidencia deberá ser rotatoria y encabezada alternadamente entre hombres y mujeres en cada periodo.
+95.- El Tribunal Superior de Justicia funcionará en los términos que determine su Ley Orgánica. Quien presida el Tribunal Superior lo hará por un periodo de dos años. Su elección será alternada entre géneros, durante la primera sesión que se celebre en el mes de abril del año que corresponda. Quien ocupe la presidencia no podrá ser objeto de reelección.
 
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 
@@ -4646,3 +4646,17 @@ b).- Ley Orgánica de la Administración Pública del Estado de Baja California 
 c).- Ley Orgánica de la Defensoría Pública del Estado de Baja California Sur.
 
 Décimo Tercero.- El H. Congreso del Estado de Baja California Sur, emitirá la Declaratoria de entrada en funciones del Centro de Conciliación Laboral del Estado de Baja California Sur, y de los Tribunales Laborales y a más tardar el día 30 de abril de 2022. Dicha Declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2816 SE REFORMAN, DEROGAN Y ADICIONAN DISPOSICIONES DE DIVERSAS LEYES DEL MARCO NORMATIVO DE BAJA CALIFORNIA SUR, PARA EL FORTALECIMIENTO DE LA FUNCIÓN JURISDICCIONAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Juzgados Laborales, atendiendo al contenido y términos del Artículo Tercero transitorio de la reforma a la Constitución Política para el Estado Libre y Soberano de Baja California Sur, que consta en el Decreto 2805, aprobado por el Honorable Congreso del Estado el día 14 de diciembre de 2021, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el día 27 de diciembre del mismo año 2021, iniciaran sus funciones a más tardar el 1° de mayo de 2022.
+
+TERCERO.- Los artículos relativos a la creación y facultades de la Coordinación Estatal de Gestión, los Coordinadores de Gestión Jurídico Administrativa de Juzgado y la reorganización administrativa de los Juzgados Penales del Sistema Acusatorio, entrarán en vigor a los 45 días naturales contados a partir de la publicación del Presente Decreto.
+
+CUARTO.- Dentro de los 45 días naturales contados a partir de la publicación del presente Decreto, el Pleno del Consejo de la Judicatura en el Estado de Baja California Sur, deberá emitir mediante Acuerdo General, los lineamientos relativos a la reorganización Administrativa de los Juzgados Penales del Sistema Acusatorio.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
