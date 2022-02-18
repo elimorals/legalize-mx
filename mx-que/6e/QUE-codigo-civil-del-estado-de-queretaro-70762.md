@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2020-06-01"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -11959,6 +11959,10 @@ Si excede de éste, la donación se otorgará en escritura pública.
 
 La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+Si la persona donante es mayor de sesenta años y el bien inmueble donado es único en su patrimonio, tendrá respecto de este, el derecho al usufructo vitalicio, siendo un derecho real que será intransferible.
+
 ###### Artículo 2231.
 
 La aceptación de las donaciones se hará en la misma forma en que éstas deban hacerse, pero no surtirá efecto si no se hiciere en vida del donante.
@@ -16096,3 +16100,13 @@ Artículo Segundo. Las disposiciones aplicables a la firma electrónica de los s
 Artículo Tercero. Las disposiciones aplicables a la la (sic) firma electrónica notarial, así como las relacionadas con el apéndice electrónico, folio electrónico, protocolo electrónico, registro de cotejos electrónico y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Archivo General de Notarías, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
 
 Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 2230 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
