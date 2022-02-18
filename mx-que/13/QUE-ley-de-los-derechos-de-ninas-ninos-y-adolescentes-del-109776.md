@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109776"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2021-10-08"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -1459,9 +1457,23 @@ II. Impulsar la cooperación y coordinación de las autoridades en los diferente
 
 III. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez y la adolescencia;
 
-IV. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes; especialmente con aquellos que sufren algún tipo de discapacidad; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-V. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+IV. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes; especialmente con aquellos que sufren algún tipo de discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+V. Elaborar y aprobar los protocolos de atención integral a niñas, niños y adolescentes que sean necesarios para garantizar la protección de sus derechos, los cuales contendrán las directrices mínimas que deberán respetar todas las autoridades estatales y municipales, en materia de asistencia integral y protección, así como para asegurar una atención adecuada, oportuna y eficaz a niñas, niños y adolescentes.
+
+Los protocolos de atención integral podrán expedirse sobre temas generales de derechos humanos de niñas, niños y adolescentes o, en caso de ser necesario, podrán regular su atención adecuada en alguna situación de vulnerabilidad o de desigualdad.
+
+Estos protocolos deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez, para la implementación de las acciones de asistencia y protección respectivas.
+
+Para la elaboración de estos protocolos el Sistema Estatal DIF podrá auxiliarse de las autoridades, organizaciones y personas académicas y expertas que se estime (sic) necesarias, pudiendo, para tal efecto, convocar mecanismos de participación interinstitucional y social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### Capítulo Segundo. De la Procuraduría de Protección Estatal
 
@@ -1567,9 +1579,17 @@ XXI. Girar citatorios, oficios y realizar las gestiones necesarias para cumplir 
 
 XXII. Emitir, a solicitud de autoridad competente o petición ciudadana, dictámenes, informes y opiniones con el fin de salvaguardar la integridad y seguridad de niñas, niños y adolescentes víctimas de violencia familiar para la protección y restitución de sus derechos vulnerados;
 
-XXIII. Aquellas que se estimen necesarias a determinar por parte de la de Protección Estatal en la determinación de medidas de protección especial y restitución integral; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
 
-XXIV. Las demás que les confieran otras disposiciones jurídicas aplicables.
+XXIII. Coadyuvar en la elaboración de protocolos de atención a niñas, niños y adolescentes, para garantizar, restituir y proteger sus derechos;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIV. Aquéllas que se estimen necesarias a determinar por parte de la Procuraduría de Protección Estatal en el establecimiento de medidas de protección especial y restitución integral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXV. Las demás que les confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 115.
 
@@ -2116,3 +2136,15 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente Ley.
+
+Artículo Tercero. El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro y la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, para el cumplimiento de lo establecido en la presente Ley, atenderán a la suficiencia presupuestal.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
