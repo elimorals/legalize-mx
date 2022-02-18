@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2021-07-02"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -3879,17 +3879,15 @@ I. Desmonte o destruya la vegetación natural;
 
 II. Corte, arranque, derribe o tale algún o algunos árboles;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA ], P.O. 18 DE FEBRERO DE 2022)</small>
 
 III. Cambie el uso del suelo forestal; o,
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-IV. Construya o lleve a cabo cualquier tipo de obra en áreas forestales o preferentemente forestales, sin los estudios y las autorizaciones correspondientes en materia ambiental.
+IV. Ponga en riesgo el abastecimiento hídrico de la población y los cauces naturales.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
-
-La pena se aumentará hasta en una mitad si el lugar donde se comete el delito es área natural protegida.
+La pena de prisión deberá aumentarse hasta en tres años más y la pena económica hasta en mil días de multa, para el caso en el que las conductas referidas en las fracciones del primer párrafo del presente artículo afecten alguna área de conservación del Sistema Estatal de Áreas para la Conservación del Patrimonio Natural.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2020)</small>
 
@@ -4394,6 +4392,14 @@ QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 546.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 181 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 08.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 1, 3; 6; 8 FRACCIÓN I; 9; 21; 31 FRACCIÓN V; 40 FRACCIÓN XII; SE ADICIONAN LOS INCISOS A), B), C), D), E), F), G), H), I), J) Y K) AL ARTÍCULO 1; EL ARTÍCULO 22 BIS; 31 FRACCIÓN VI Y 31 BIS; 40 FRACCIÓN XIII RECORRIÉNDOSE LA SIGUIENTE FRACCIÓN EN EL ORDEN SUBSECUENTE; 42 BIS; 42 TER Y 42 QUÁTER DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN XV Y 7 FRACCIÓN II; Y, SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 2 RECORRIÉNDOSE LAS DEMÁS EN EL ORDEN SUBSECUENTE; Y, UN SEGUNDO PÁRRAFO AL ARTÍCULO 22 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN EL ARTÍCULO 2° Y SU FRACCIÓN XII Y EL ARTÍCULO 8; Y, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 1 RECORRIÉNDOSE EN SU ORDEN EL SIGUIENTE, DE LA LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO CUARTO.- SE REFORMA EL ARTÍCULO 1°, LAS FRACCIONES IX Y X DEL ARTÍCULO 15, Y EL ARTÍCULO 58; SE ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 3°; LA FRACCIÓN XIV AL ARTÍCULO 13; EL ARTÍCULO 14 BIS; LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 15; Y, LAS FRACCIONES I, II Y III AL ARTÍCULO 58, DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 5, EL ARTÍCULO 7; LA FRACCIÓN X DEL ARTÍCULO 10; LA FRACCIÓN IX DEL ARTÍCULO 29, LOS ARTÍCULOS 40, 42, 102, 103, 120 Y 126; Y, LAS FRACCIONES X, XI, XII Y XV DEL ARTÍCULO 160; SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 5; LA FRACCIÓN III AL ARTÍCULO 7 RECORRIENDO LAS SIGUIENTES FRACCIONES EN EL ORDEN SUBSECUENTE; LA FRACCIÓN X RECORRIÉNDOSE LA SIGUIENTE EN EL ORDEN SUBSECUENTE AL ARTÍCULO 29; UN TERCER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 158; UN SEGUNDO PÁRRAFO AL ARTÍCULO 161; Y, SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 45; DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ###### ARTÍCULO ÚNICO.
 
