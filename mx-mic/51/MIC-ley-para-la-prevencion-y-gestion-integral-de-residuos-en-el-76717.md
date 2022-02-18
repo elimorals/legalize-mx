@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prevencion-y-gestion-integral-de-residuos-en-el-767
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-15"
-last_updated: "2016-12-29"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 15 de Septiembre de 2010.
 
@@ -47,17 +47,43 @@ LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOAC�
 
 ### CAPÍTULO ÚNICO. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto garantizar el derecho de toda persona a un medio ambiente adecuado y saludable, al propiciar el desarrollo sustentable; así como prevenir y remediar la contaminación de sitios con residuos urbanos y de manejo especial, a través de la prevención, generación, valorización y gestión integral de dichos residuos.
+La presente Ley es de orden público e interés social y tiene por objeto garantizar el derecho de toda persona a un medio ambiente adecuado y saludable, al propiciar el desarrollo sustentable; así como prevenir y remediar la contaminación de sitios con residuos urbanos y de manejo especial, a través de la prevención, generación, valorización y gestión integral de dichos residuos. Se observarán los siguientes principios:
+
+a) El que contamina paga y restaura: El generador de un residuo es responsable de éste, así como de internalizar los costos y las externalidades negativas asociados a su manejo;
+
+b) Gradualismo: Las obligaciones para prevenir la generación de residuos y fomentar su reutilización, reciclaje y otro tipo de valorización serán establecidas o exigidas de manera progresiva, atendiendo a la cantidad y peligrosidad de los residuos, las tecnologías disponibles, el impacto económico y social y la situación geográfica, entre otros;
+
+c) Inclusión: Conjunto de mecanismos e instrumentos de capacitación, financiación y formalización orientados a posibilitar la integración plena de los recicladores de base en la gestión de los residuos, incluidos los sistemas de gestión en el marco de la responsabilidad extendida del productor;
+
+d) Participativo: La educación, opinión y el involucramiento de la comunidad son necesarios para prevenir la generación de residuos y fomentar su reutilización, reciclaje y otro tipo de valorización;
+
+e) Precautorio: La falta de certeza científica no podrá invocarse para dejar de implementar las medidas necesarias para disminuir el riesgo de daños para el medio ambiente y la salud humana derivado del manejo de residuos;
+
+f) Preventivo: Conjunto de acciones o medidas que se reflejan en cambios en los hábitos en el uso de insumos y materias primas utilizadas en procesos productivos, diseño o en modificaciones en dichos procesos, así como en el consumo, destinadas a evitar la generación de residuos, la reducción en cantidad o la peligrosidad de los mismos;
+
+g) Responsabilidad social ambiental: que es una serie de acciones y esfuerzos que llevan a cabo las empresas para compatibilizar sus actividades comerciales y corporativas con la preservación del medioambiente y de los entornos en los que operan, de acuerdo a las normas en la materia;
+
+h) Responsabilidad del generador de un residuo: El generador de un residuo es responsable de éste, desde su generación hasta su valorización o eliminación, en conformidad con esta ley;
+
+i) Sustentabilidad: Es el resultado de una acción concertada por los diversos actores y factores sociales para impulsar un modelo de desarrollo económico compatible con la conservación del medio ambiente y con la equidad social;
+
+j) Transparencia y publicidad: La gestión de residuos se efectuará con transparencia, de manera que la comunidad pueda acceder a la información relevante sobre la materia, especialmente su trazabilidad; y,
+
+k) Trazabilidad: Conjunto de procedimientos preestablecidos y autosuficientes que permiten conocer las cantidades, ubicación y trayectoria de un residuo o lote de residuos a lo largo de la cadena de manejo.
 
 ###### ARTÍCULO 2.
 
 Para lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, la Ley Ambiental y de Protección del Patrimonio Natural del Estado de Michoacán de Ocampo, así como en sus respectivos reglamentos.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 3.
 
-Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, la Ley Ambiental y de Protección del Patrimonio Natural del Estado de Michoacán de Ocampo, así como las siguientes:
+Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, la Ley para la Conservación y Sustentabilidad Ambiental del Estado de Michoacán de Ocampo, así como las siguientes:
 
 I. Almacenamiento: Es el depósito temporal de residuos en un lugar físico, en condiciones controladas que eviten o reduzcan los impactos al ambiente y los riesgos a la salud humana derivados de los residuos almacenados;
 
@@ -65,65 +91,89 @@ II. Biometanización: Proceso biológico controlado mediado por bacterias, que a
 
 III. Capacitación: Conjunto de actividades orientadas al aprendizaje básico, actualización, perfeccionamiento y aplicación de los conocimientos sobre la prevención y gestión integral de residuos, que contribuyan al mejoramiento del medio ambiente y la salud;
 
-IV. Composta: Producto generado del tratamiento de los residuos sólidos orgánicos que, mediante procesos de biodegradación, mejoran sus propiedades físicas, químicas y biológicas para ser aprovechados como fertilizantes y recuperadores de suelos degradados;
+IV. Comercializador obligado: Toda persona física o moral, distinta del productor, que vende un producto prioritario al consumidor;
 
-V. Contenedor: Depósito móvil destinado al almacenamiento de residuos, de acuerdo a su clasificación que se encuentra comprendida en la presente Ley;
+V. Composta: Producto generado del tratamiento de los residuos sólidos orgánicos que, mediante procesos de biodegradación, mejoran sus propiedades físicas, químicas y biológicas para ser aprovechados como fertilizantes y recuperadores de suelos degradados;
 
-VI. Contingencia Ambiental: Situación de riesgo derivada del manejo inadecuado de residuos, que ponga en peligro la integridad de uno o varios ecosistemas y la salud;
+VI. Consumidor obligado: todo generador de un residuo de producto prioritario;
 
-VII. Cultura Ambiental: Conocimientos, hábitos y actitudes de una sociedad tendientes a proteger el ambiente y a desarrollarse en equilibrio con él;
+VII. Consumidor industrial obligado: todo establecimiento industrial, que genere residuos de un producto prioritario;
 
-VIII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+VIII. Contenedor: Depósito móvil destinado al almacenamiento de residuos, de acuerdo a su clasificación que se encuentra comprendida en la presente Ley;
 
-IX. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el extraescolar, para facilitar la percepción integrada del ambiente, a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+IX. Contingencia Ambiental: Situación de riesgo derivada del manejo inadecuado de residuos, que ponga en peligro la integridad de uno o varios ecosistemas y la salud;
 
-X. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo mediante una forma de tratamiento que reduzca su volumen, lo transforme en un material inerte o promueva su disposición final en celdas de confinamiento permanente;
+X. Cultura Ambiental: Conocimientos, hábitos y actitudes de una sociedad tendientes a proteger el ambiente y a desarrollarse en equilibrio con él;
 
-XI. Generador: Persona física o moral que produce residuos a través del desarrollo de procesos productivos o de consumo;
+XI. Distribuidor Obligado: Toda persona física o moral, distinta del productor, que comercializa un producto prioritario antes de su venta al consumidor. En el caso de envases y embalajes, el distribuidor es aquel que comercializa el bien de consumo envasado o embalado antes de su venta al consumidor.
 
-XII. Gestión Integral de Residuos: Conjunto interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, en respuesta a las necesidades y circunstancias de cada localidad o región;
+XII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XIII. Gran Generador: Persona física o moral que genera una cantidad igual o superior a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XIII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el extraescolar, para facilitar la percepción integrada del ambiente, a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-XIV. Ley Ambiental Estatal: Ley Ambiental y de Protección del Patrimonio Natural del Estado de Michoacán de Ocampo;
+XIV. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo mediante una forma de tratamiento que reduzca su volumen, lo transforme en un material inerte o promueva su disposición final en celdas de confinamiento permanente;
 
-XV. Ley Ambiental General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XV. Generador: Persona física o moral que produce residuos a través del desarrollo de procesos productivos o de consumo;
 
-XVI. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos;
+XVI. Gestión Integral de Residuos: Conjunto interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, en respuesta a las necesidades y circunstancias de cada localidad o región;
 
-XVII. Ley de Salud: Ley de Salud del Estado de Michoacán;
+XVII. Gran Generador: Persona física o moral que genera una cantidad igual o superior a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
-XVIII. Microgenerador: Persona física o moral que genera una cantidad de hasta cuatrocientos kilogramos de residuos al año o su equivalente en otra unidad de medida;
+XVIII. Ley Ambiental Estatal: Ley para la Conservación y Sustentabilidad Ambiental del Estado de Michoacán de Ocampo;
 
-XIX. Normas Oficiales Mexicanas: La regulación técnica de observancia obligatoria expedida por las dependencias competentes, conforme a las finalidades establecidas en el Artículo 40 de la Ley Federal sobre Metrología y Normalización, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación; así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
+XIX. Ley Ambiental General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XX. Normas Ambientales Estatales: La regulación técnica de observancia obligatoria en el Estado, expedida por la Secretaría, conforme a lo dispuesto en la presente Ley y su Reglamento, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación;
+XX. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XXI. Peligro inminente al medio ambiente o a la salud: Situación, condición o circunstancia que amenaza con causar un daño directo al medio ambiente y a la salud;
+XXI. Ley de Salud: Ley de Salud del Estado de Michoacán;
 
-XXII. Pepena: Recolección selectiva no autorizada de residuos urbanos y de manejo especial en tiraderos a cielo abierto, rellenos sanitarios o sitios de disposición final;
+XXII. Mejores prácticas ambientales: La aplicación de la combinación más exigente y pertinente de medidas y estrategias de control ambiental.
 
-XXIII. Pequeño generador: Persona física o moral que genera una cantidad mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XXIII. Microgenerador: Persona física o moral que genera una cantidad de hasta cuatrocientos kilogramos de residuos al año o su equivalente en otra unidad de medida;
 
-XXIV. Relleno sanitario: Instalación en la cual se depositan de manera permanente los residuos urbanos, en sitios y en condiciones apropiadas para prevenir o reducir la liberación de contaminantes al ambiente, los procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+XXIV. Normas Oficiales Mexicanas: La regulación técnica de observancia obligatoria expedida por las dependencias competentes, conforme a las finalidades establecidas en el Artículo 40 de la Ley Federal sobre Metrología y Normalización, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación; así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
 
-XXV. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido, semisólido, líquido o gaseoso contenido en recipientes o depósitos y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+XXV. Normas Ambientales Estatales: La regulación técnica de observancia obligatoria en el Estado, expedida por la Secretaría, conforme a lo dispuesto en la presente Ley y su Reglamento, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación;
 
-XXVI. Residuos de Manejo Especial: Son aquellos que se generan en los procesos productivos, que no reúnen las características para ser considerados como residuos urbanos o como residuos peligrosos, o que son producidos por grandes generadores de residuos;
+XXVI. Peligro inminente al medio ambiente o a la salud: Situación, condición o circunstancia que amenaza con causar un daño directo al medio ambiente y a la salud;
 
-XXVII. Residuos Peligrosos: Son aquellos que posean algunas de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados, cuando estos se transfieran a otro sitio;
+XXVII. Pepena: Recolección selectiva no autorizada de residuos urbanos y de manejo especial en tiraderos a cielo abierto, rellenos sanitarios o sitios de disposición final;
 
-XXVIII. Residuos Urbanos: Son aquellos que se generan en las casas habitación, en los establecimientos comerciales o en la vía pública, que de conformidad con lo que se establece en esta Ley no sean considerados como residuos de manejo especial ni como residuos peligrosos;
+XXVIII. Pequeño generador: Persona física o moral que genera una cantidad mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
-XXIX. Secretaría: Secretaría de Urbanismo y Medio Ambiente del Estado de Michoacán;
+XXIX. Producto prioritario: Sustancia u objeto que una vez transformado en residuo, por su volumen, peligrosidad o presencia de recursos aprovechables, queda sujeto a las obligaciones en conformidad a esta ley y que aplicará a las categorías o subcategorías definidas para los siguientes productos:
 
-XXX. Sectores corresponsables: Los productores, importadores, exportadores, distribuidores, comercializadores, usuarios de subproductos, consumidores, prestadores de servicios en la gestión integral de residuos, según corresponda, así como las autoridades de los tres ámbitos de Gobierno;
+a) Aceites lubricantes;
 
-XXXI. Sistema de Prevención y Gestión Integral de Residuos: Conjunto de acciones cuyo objeto sea garantizar el derecho de toda persona al medio ambiente adecuado y saludable, propiciando el desarrollo sustentable; así como prevenir y remediar la contaminación de sitios con residuos urbanos y de manejo especial, a través de la recolección, acopio, almacenamiento, transporte, tratamiento, reutilización, reciclaje y disposición final de los residuos;
+b) Aparatos eléctricos y electrónicos;
 
-XXXII. Sitios: Área geográfica autorizada, destinada para la disposición final de residuos; y,
+c) Baterías;
 
-XXXIII. Suelo contaminado: Aquél cuyas características físicas, químicas y biológicas han sido alteradas por la presencia de materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para el ambiente, la salud y para el aprovechamiento de los bienes o propiedades de las personas.
+d) Envases y embalajes;
+
+e) Neumáticos; y,
+
+f) Pilas.
+
+XXX. Relleno sanitario: Instalación en la cual se depositan de manera permanente los residuos urbanos, en sitios y en condiciones apropiadas para prevenir o reducir la liberación de contaminantes al ambiente, los procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+
+XXXI. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido, semisólido, líquido o gaseoso contenido en recipientes o depósitos y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+
+XXXII. Residuos de Manejo Especial: Son aquellos que se generan en los procesos productivos, que no reúnen las características para ser considerados como residuos urbanos o como residuos peligrosos, o que son producidos por grandes generadores de residuos;
+
+XXXIII. Residuos Peligrosos: Son aquellos que posean algunas de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados, cuando estos se transfieran a otro sitio;
+
+XXXIV. Residuos Urbanos: Son aquellos que se generan en las casas habitación, en los establecimientos comerciales o en la vía pública, que de conformidad con lo que se establece en esta Ley no sean considerados como residuos de manejo especial ni como residuos peligrosos;
+
+XXXV. Secretaría: Secretaría de Medio Ambiente;
+
+XXXVI. Sectores corresponsables: Los productores, importadores, exportadores, distribuidores, comercializadores, usuarios de subproductos, consumidores, prestadores de servicios en la gestión integral de residuos, según corresponda, así como las autoridades de los tres ámbitos de Gobierno;
+
+XXXVII. Sistema de Prevención y Gestión Integral de Residuos: Conjunto de acciones cuyo objeto sea garantizar el derecho de toda persona al medio ambiente adecuado y saludable, propiciando el desarrollo sustentable; así como prevenir y remediar la contaminación de sitios con residuos urbanos y de manejo especial, a través de la recolección, acopio, almacenamiento, transporte, tratamiento, reutilización, reciclaje y disposición final de los residuos;
+
+XXXVIII. Sitios: Área geográfica autorizada, destinada para la disposición final de residuos; y,
+
+XXXIX. Suelo contaminado: Aquél cuyas características físicas, químicas y biológicas han sido alteradas por la presencia de materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para el ambiente, la salud y para el aprovechamiento de los bienes o propiedades de las personas.
 
 ## TÍTULO SEGUNDO. DE LA COMPETENCIA Y COORDINACIÓN
 
@@ -207,7 +257,11 @@ XVIII. Promover en coordinación con el Gobierno Federal y las autoridades munic
 
 XIX. Regular, vigilar y aplicar las medidas o restricciones relacionadas al manejo de los residuos peligrosos producto de la celebración de convenios con la Federación;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
 XX. Atender los asuntos en materia de residuos urbanos y de manejo especial que se generen entre dos o más municipios, y cuando se trate de casos relacionados con la prestación del servicio de limpia, hacerlo en coordinación con las autoridades municipales competentes en la materia. Tratándose de asuntos que involucren al Estado con una o más entidades federativas, atenderlos en coordinación con la Federación; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE FEBRERO DE 2022)</small>
 
 XXI. Las demás que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
 
@@ -239,7 +293,9 @@ X. Las demás que conforme a esta Ley y otras disposiciones legales aplicables l
 
 Son atribuciones de la Procuraduría de Protección al Ambiente del Estado:
 
-I. Inspeccionar y vigilar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+I. Inspeccionar y vigilar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial, así como entregar el distintivo otorgado por el Gobierno del Estado de Michoacán a través de la Procuraduría de Protección al Ambiente a las empresas que cumplieron lo establecido para el logro de las Buenas Prácticas Ambientales;
 
 II. Aplicar las sanciones y medidas de seguridad que procedan, de acuerdo con la normatividad aplicable y las que se establezcan en los convenios en que el Estado sea parte; y,
 
@@ -305,9 +361,25 @@ XXVII. Ejecutar las medidas de inspección, vigilancia y sanción que de conform
 
 XXVIII. Coordinarse con otros municipios, el Estado y la Federación, a fin de reducir los costos de la prevención y gestión integral de residuos urbanos;
 
-XXIX. De conformidad con las atribuciones que le confieren las leyes de la materia, interponer la denuncia o querella correspondiente por daños al ambiente; y,
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XXX. Las demás que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
+XXIX. De conformidad con las atribuciones que le confieren las leyes de la materia, interponer la denuncia o querella correspondiente por daños al ambiente;
+
+> <small>(REFORMADA [N. DE. E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXX. Tener de manera obligatoria un área específica encargada en el manejo de residuos sólidos;
+
+> <small>(REFORMADA [N. DE. E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXI. Prestar, por sí o concesionar mediante licitación pública, los servicios de limpia, recolección, traslado y tratamiento de residuos urbanos; así como la recogida selectiva de los productos prioritarios usados o generados en domicilios particulares, comercios, oficinas o servicios, u otros lugares asimilables a éstos, y su transporte desde los puntos de recogida selectiva hasta los centros de almacenamiento temporal, antes de su entrega a las plantas de tratamiento y reciclaje;
+
+> <small>(REFORMADA [N. DE. E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXII. Implementar, conservar y dar mantenimiento al equipamiento e infraestructura urbana, destinada a la prevención y gestión integral de residuos urbanos; habilitando puntos de recogida selectiva ubicados en los establecimientos de los distribuidores y comercializadores, de manera que estarán obligados a aceptar el retorno de los productos prioritarios usados sin cargo alguno para sus poseedores o usuarios finales y tampoco podrán exigir a éstos la compra o adquisición de productos nuevos; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXIII. Las demás que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN
 
@@ -425,9 +497,11 @@ Los sujetos obligados a presentar un plan de manejo podrán incorporarse a los p
 
 Los planes de manejo podrán ser individuales o colectivos. El plan de manejo individual, es aquél en el cual el sujeto obligado lo formula y ejecuta respecto de sus propios residuos. El plan de manejo colectivo, es aquél que determina el manejo integral que se dará a uno o más residuos específicos y para lo cual podrá elaborarse o aplicarse por varios sujetos obligados.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 21.
 
-El generador es responsable del adecuado manejo de los residuos que genere mientras se encuentren en su posesión, así como de entregarlos al servicio de recolección autorizado o a la siguiente etapa del plan de manejo, de conformidad con los requisitos que el mismo plan establezca; o bien depositarlos en los contenedores o sitios autorizados, que para tal efecto designe la autoridad competente.
+El generador es responsable del adecuado manejo de los residuos que genere mientras se encuentren en su posesión, así como de entregarlos al servicio de recolección autorizado o a la siguiente etapa del plan de manejo, de conformidad con los requisitos que el mismo plan establezca; o bien depositarlos en los contenedores o sitios autorizados, que para tal efecto designe la autoridad competente, conforme el plan de manejo correspondiente elaborado por la misma, teniendo que señalar el destino final y dando prioridad a centros de reciclaje.
 
 ###### ARTÍCULO 22.
 
@@ -446,6 +520,16 @@ V. Un cronograma que contenga las principales actividades y sus fechas de implem
 VI. Los responsables de la implantación y seguimiento de los planes de manejo correspondientes; y,
 
 VII. Los indicadores para evaluar el desempeño del plan de manejo.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 22 BIS. Los desechos plásticos no considerados como de un sólo uso deberán sujetarse a un plan de manejo presentado por sus generadores ante la Secretaría.
+
+Estarán obligados a presentar el plan de manejo por residuos plásticos los generadores de agroplásticos, hoteles, almacenes de alimentos, aeropuertos, aerolíneas, líneas de autobús y todos aquellos establecimientos que produzcan desechos plásticos y que operen en territorio michoacano.
+
+Los hospitales y centros médicos deberán clasificar y separar sus residuos de acuerdo a lo establecido en las leyes y normas oficiales vigentes.
+
+Para el manejo de los residuos, deberán presentar su plan de manejo ante la Secretaría.
 
 ###### ARTÍCULO 23.
 
@@ -515,9 +599,31 @@ III. Cumplir con las disposiciones específicas, criterios, normas y recomendaci
 
 IV. Almacenar los residuos con sujeción a las normas sanitarias y ambientales para evitar daño a terceros y facilitar la recolección;
 
-V. Poner en conocimiento de las autoridades competentes, las infracciones que se estime se hubieran cometido contra la normatividad de los residuos; y,
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-VI. Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
+V. Poner en conocimiento de las autoridades competentes, las infracciones que se estime se hubieran cometido contra la normatividad de los residuos;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. Todo consumidor estará obligado a entregar el residuo de un producto prioritario al respectivo sistema de gestión integral, bajo las condiciones básicas establecidas por éstos e informadas a todos los involucrados.
+
+Sin perjuicio de lo anterior, los consumidores industriales podrán valorizar, por sí mismos o a través de gestores autorizados, los residuos de productos prioritarios que generen. En este caso, deberán informar al encargado del Programa Municipal para la Prevención y Gestión Integral de Residuos Urbanos sobre la valorización efectuada; y,
+
+(REUBICADA, P.O. 18 DE FEBRERO DE 2022)
+
+VII. Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 31 BIS. Los planes de manejo y otras obligaciones asociadas deberán disponer que los distribuidores o comercializadores de productos prioritarios, estén obligados a:
+
+I. Convenir con el sistema municipal de prevención y gestión integral de residuos el establecimiento y operación de una instalación de recepción y almacenamiento, de acuerdo a lo dispuesto en la presente Ley. La operación de dicha instalación estará a cargo del Programa Municipal para la Prevención y Gestión Integral de Residuos Urbanos;
+
+II. Aceptar sin costo la entrega de los residuos de productos prioritarios que comercialice de parte de los consumidores. La obligación de aceptar la entrega no podrá supeditarse a la venta de un nuevo producto; y,
+
+III. Entregar a título gratuito, al respectivo plan de manejo, todos aquellos residuos recibidos de los consumidores.
+
+Las instalaciones de recepción y almacenamiento destinadas a tal efecto no requerirán de una autorización sanitaria adicional a la del mismo establecimiento.
 
 ###### ARTÍCULO 32.
 
@@ -635,9 +741,15 @@ X. Los de laboratorios industriales, químicos, biológicos, de producción o de
 
 XI. Los residuos de tiendas departamentales, centros comerciales, mercados, centrales de abasto y tianguis, generados en grandes volúmenes;
 
-XII. Residuos Industriales no peligrosos generados en instalaciones o por procesos industriales que no presentan características de peligrosidad, conforme a la normatividad ambiental; y,
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XIII. Los demás que determinen las disposiciones jurídicas aplicables.
+XII. Residuos Industriales no peligrosos generados en instalaciones o por procesos industriales que no presentan características de peligrosidad, conforme a la normatividad ambiental;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XIII. Las pilas y baterías que contengan litio, níquel, mercurio, venus, cadmio, manganeso, plomo, zinc o cualquier otro elemento que permita la generación de energía en las mismas, en los niveles que no sean considerados como residuos peligrosos en la Norma Mexicana correspondiente; y,
+
+XIV. Los demás que determinen las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 41.
 
@@ -654,6 +766,18 @@ Todo generador de residuos debe separarlos dentro de sus domicilios, empresas, e
 Estos residuos, deben depositarse en el contenedor correspondiente, para su recolección por el servicio público de limpia, con el fin de facilitar su aprovechamiento, tratamiento y disposición final, o bien, llevar aquellos residuos valorizables directamente a los establecimientos de reutilización y reciclaje.
 
 El Reglamento definirá la subclasificación que deberá aplicar para la separación obligatoria de residuos, con base a las disposiciones del presente artículo para cada una de las clasificaciones establecidas, así como para los distintos tipos de generadores.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 42 BIS. Para que puedan operar los establecimientos que se dediquen a la venta de neumáticos, deberán presentar su plan de manejo, el cual debe incluir un esquema de canje e incentivos a cambio de los neumáticos usados.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 42 TER. Los Ayuntamientos, en coordinación con la Secretaría, deberán impulsar campañas de recopilación de pilas y baterías. Todos los Ayuntamientos deberán instalar un centro de acopio de pilas y baterías, quienes se coordinarán con la Secretaría para su disposición final.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 42 QUÁTER. Toda persona física o moral que en sus actividades genere la valorización de los residuos o que su actividad económica esté relacionada con el manejo integral de los mismos, deberá tramitar ante la Secretaría su plan de manejo, incluyendo a los pequeños generadores.
 
 ###### ARTÍCULO 43.
 
@@ -1174,3 +1298,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 08.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 1, 3; 6; 8 FRACCIÓN I; 9; 21; 31 FRACCIÓN V; 40 FRACCIÓN XII; SE ADICIONAN LOS INCISOS A), B), C), D), E), F), G), H), I), J) Y K) AL ARTÍCULO 1; EL ARTÍCULO 22 BIS; 31 FRACCIÓN VI Y 31 BIS; 40 FRACCIÓN XIII RECORRIÉNDOSE LA SIGUIENTE FRACCIÓN EN EL ORDEN SUBSECUENTE; 42 BIS; 42 TER Y 42 QUÁTER DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN XV Y 7 FRACCIÓN II; Y, SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 2 RECORRIÉNDOSE LAS DEMÁS EN EL ORDEN SUBSECUENTE; Y, UN SEGUNDO PÁRRAFO AL ARTÍCULO 22 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN EL ARTÍCULO 2° Y SU FRACCIÓN XII Y EL ARTÍCULO 8; Y, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 1 RECORRIÉNDOSE EN SU ORDEN EL SIGUIENTE, DE LA LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO CUARTO.- SE REFORMA EL ARTÍCULO 1°, LAS FRACCIONES IX Y X DEL ARTÍCULO 15, Y EL ARTÍCULO 58; SE ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 3°; LA FRACCIÓN XIV AL ARTÍCULO 13; EL ARTÍCULO 14 BIS; LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 15; Y, LAS FRACCIONES I, II Y III AL ARTÍCULO 58, DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 5, EL ARTÍCULO 7; LA FRACCIÓN X DEL ARTÍCULO 10; LA FRACCIÓN IX DEL ARTÍCULO 29, LOS ARTÍCULOS 40, 42, 102, 103, 120 Y 126; Y, LAS FRACCIONES X, XI, XII Y XV DEL ARTÍCULO 160; SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 5; LA FRACCIÓN III AL ARTÍCULO 7 RECORRIENDO LAS SIGUIENTES FRACCIONES EN EL ORDEN SUBSECUENTE; LA FRACCIÓN X RECORRIÉNDOSE LA SIGUIENTE EN EL ORDEN SUBSECUENTE AL ARTÍCULO 29; UN TERCER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 158; UN SEGUNDO PÁRRAFO AL ARTÍCULO 161; Y, SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 45; DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
