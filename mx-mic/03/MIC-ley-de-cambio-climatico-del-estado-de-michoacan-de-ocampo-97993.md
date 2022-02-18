@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cambio-climatico-del-estado-de-michoacan-de-ocampo-97993
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2017-11-07"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -45,9 +45,11 @@ LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 1°.
 
-La presente Leyes de orden público, interés social y de observancia en todo el territorio del Estado de Michoacán de Ocampo y establece disposiciones para enfrentar los efectos adversos del cambio climático, en materia de protección al ambiente, desarrollo sustentable, preservación y restauración del equilibrio ecológico.
+La presente Ley es de orden público y de observancia en todo el territorio del Estado de Michoacán de Ocampo, tiene por objeto general garantizar un medio ambiente sano y saludable, para lo cual establece disposiciones para enfrentar, mitigar y resolver los problemas adversos del cambio climático en materia de protección al ambiente, desarrollo sustentable, preservación y restauración del equilibrio ecológico.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -98,6 +100,10 @@ VIII. Inventario Estatal: Inventario de emisiones de gases y compuestos de efect
 IX. Ley Ambiental: Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo;
 
 X. Ley: Ley de Cambio Climático del Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+X Bis. Modificación Artificial de Patrones Hidrometeorológicos: Cualquier técnica, mecanismo, implemento, procedimiento o actividad que tienda a lograr la modificación del régimen de lluvias, granizo, agua nieve o cualquier otro fenómeno hidrometeorológico, relacionado con el agua atmosférica;
 
 XI. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
@@ -409,11 +415,95 @@ XII. Los programas de prevención de enfermedades derivadas de los efectos del c
 
 XIII. La infraestructura estratégica en materia de abasto de agua, servicios de salud, producción y almacenamiento de alimentos, así como producción y abasto de energéticos alternativos.
 
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XIV. La Infraestructura estratégica en materia de cosecha de agua de lluvia y su limpieza para fines de uso doméstico en todos los municipios del Estado.
+
 ###### ARTÍCULO 14.
 
 La política estatal de mitigación debe incluir, a través de los instrumentos de planeación, política, control y los instrumentos económicos previstos en la presente Ley, un diagnóstico, planificación, medición, monitoreo, reporte, verificación y evaluación de las emisiones estatales.
 
 Esta política deberá establecer planes, programas, acciones, instrumentos económicos, de política, regulatorios y de inspección y vigilancia para el logro gradual de metas de reducción de emisiones específicas, por sectores y actividades tomando como referencia los escenarios de línea base y líneas de base por sector que se establezcan en los instrumentos previstos por la presente Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 14 BIS. Para la Mitigación de los Compuestos y Gases de Efecto Invernadero de acuerdo con las metas nacionales establecidas para alcanzar sus compromisos internacionales, se observará lo siguiente:
+
+I. Reducción de omisiones en la generación y uso de energía:
+
+a) Fomentar prácticas de eficiencia energética y promover el uso de fuentes renovables de energía, así como la transferencia de tecnología de bajas emisiones de carbono;
+
+b) Diseñar e implementar incentivos para la instalación y uso de sistemas de generación eléctrica que aprovechen los recursos energéticos renovables disponibles en el Estado (eólica, fotovoltaica, biomasa, minihidroeléctrica, y de oleaje) en el marco de sus atribuciones para servicios públicos, empresas privadas y viviendas; y
+
+c) Expedir disposiciones jurídicas y elaborar políticas para la construcción de edificaciones sustentables, incluyendo el uso de materiales ecológicos y la eficiencia y sustentabilidad energética.
+
+II. Reducción de emisiones en el Sector Transporte:
+
+a) Promover la inversión en la construcción de ciclo vías o infraestructura de transporte no motorizado, así como la implementación de reglamentos de tránsito que promuevan el uso de la bicicleta;
+
+b) Diseñar e implementar sistemas de transporte público integrales, y programas de movilidad sustentable en las zonas urbanas o conurbadas para disminuir los tiempos de traslado, el uso de automóviles particulares, los costos de transporte, el consumo energético, la incidencia de enfermedades respiratorias y aumentar la competitividad de la economía regional;
+
+c) Rediseñar las políticas públicas y la normatividad de tránsito, transporte e infraestructura del Estado, usando criterios de eficiencia energética para el diseño, ubicación o reubicación de terminales, revisión, organización y rediseño de rutas de transporte público donde se establecen los lineamientos para la nueva infraestructura, la modernización de la actual, y la promoción de la movilidad sustentable, teniendo preferencia las modalidades de servicio público de transporte masivo, articulado, metro bus, tren ligero o cualesquiera con mayor capacidad de pasajeros que considere ecotecnología para su funcionamiento;
+
+d) Elaborar e instrumentar planes y programas de desarrollo urbano que comprendan criterios de eficiencia energética y mitigación de emisiones directas e indirectas, generadas por los desplazamientos y servicios requeridos por la población, evitando la dispersión de los asentamientos humanos y procurando aprovechar los espacios urbanos vacantes en las ciudades;
+
+e) Crear mecanismos que permitan mitigar emisiones directas e indirectas relacionadas con la prestación de servicios públicos, planeación de viviendas, construcción y operación de edificios públicos y privados, comercios e industrias;
+
+f) Desarrollar instrumentos económicos para que las empresas otorguen el servicio de transporte colectivo a sus trabajadores hacia los centros de trabajo, a fin de reducir el uso del automóvil; y
+
+g) Fomentar la producción diversificada de biocombustibles como bioetanol, biodiesel de aceite residual doméstico, de algas, de plantas oleaginosas y de aprovechamiento de subproductos de dendroenergía, producidos de acuerdo con criterios de sustentabilidad y fomentando su uso en transporte particular y público.
+
+III. Reducción de emisiones y capturas de carbono en el sector de agricultura, bosques y otros usos del suelo y preservación de los ecosistemas y la biodiversidad:
+
+a) Mantener e incrementar los sumideros de carbono;
+
+b) Disminuir la tasa de deforestación y degradación de los ecosistemas forestales y ampliar las áreas de cobertura vegetal y el contenido de carbono orgánico en los suelos, aplicando prácticas de manejo sustentable en terrenos ganaderos y cultivos agrícolas;
+
+c) Reconvertir las tierras agropecuarias degradadas a productivas, mediante prácticas de agricultura sustentable, sistemas agroforestales de manejo sustentable y sistemas agrosilvopastoriles o bien, destinarlas para zonas de conservación ecológica y recarga de acuíferos;
+
+d) Fortalecer los esquemas de manejo sustentable y la restauración de bosques, selvas, humedales y ecosistemas costero-marinos, en particular los manglares;
+
+e) Incorporar gradualmente más ecosistemas a esquemas de conservación, entre otros; pago por servicios ambientales, áreas de conservación, unidades de manejo forestal sustentable, y de Reducción de las Emisiones Derivadas de la Deforestación y la Degradación de los Bosques (REDD+);
+
+f) Fortalecer el combate de incendios forestales y promover e incentivar la reducción gradual de la quema de caña de azúcar y de prácticas de roza, tumba y quema;
+
+g) Fomentar sinergias entre programas y subsidios para actividades ambientales y agropecuarias que contribuyan a fortalecer el combate a incendios forestales;
+
+h) Fomento de cercos vivos agrosilvopastoreo y manejo de acahual en terrenos agrícolas y ganaderos;
+
+i) Implementar instrumentos económicos para incentivar la conservación y restauración de los ecosistemas forestales, y un manejo sustentable en el sector agrícola y ganadero, con la participación de la Comisión Intersecretarial y el Consejo Consultivo;
+
+j) Fomentar el manejo y aprovechamiento sustentable de los productos forestales maderables y no maderables a través de esquemas de planeación, ordenamiento y certificación que permitan mantener el equilibrio ecológico; y
+
+k) Prohibir aquellas obras que puedan causar desequilibrios ecológicos o produzcan impactos ambientales significativos en el medio ambiente, los recursos naturales, o en su caso puedan modificar artificialmente los patrones hidrometeorológicos, ya se utilizando cualquier técnica, mecanismo, implemento, procedimiento o actividad que tienda a cambios de fenómenos hidrometeorológicos relacionados con el agua atmosférica, el régimen de lluvias, granizo, agua nieve; entre ellos la instalación y operación de sistemas antigranizo que emiten ondas ionizantes u ondas sonoras a la atmósfera y que se pretendan instalar en zonas agrícolas, forestales o preferentemente forestales, rurales, urbana y periurbana.
+
+IV. Reducción de Emisiones en el Sector de Residuos:
+
+a) Desarrollar acciones, promover el desarrollo y la instalación de infraestructura para minimizar y valorizar los residuos, así como para reducir y evitar las emisiones de metano provenientes de los residuos sólidos urbanos;
+
+b) Incrementar el número de plantas de tratamiento de aguas en el Estado, favoreciendo el establecimiento de nuevas plantas anaeróbicas de tratamiento de agua y diagnosticar los problemas operacionales en las plantas de tratamiento ya existentes para proponer soluciones para la mejora de éstos; y
+
+c) Fomentar la implementación de sistemas de recolección, separación, reciclaje, disposición final adecuada y aprovechamiento de residuos sólidos orgánicos e inorgánicos adecuados y apropiados a las necesidades de los municipios.
+
+V. Reducción de Emisiones en el Sector de Procesos Industriales;
+
+a) Desarrollar programas para incentivar la eficiencia energética en las actividades de los procesos industriales;
+
+b) Desarrollar mecanismos y programas que incentiven la implementación de tecnologías limpias en los procesos industrias, que reduzcan el consumo energético y la emisión de Gases y Compuestos de Efecto Invernadero; o
+
+c) Incentivar, promover y desarrollar el uso de combustibles alternativos que reduzcan la generación de bióxido de carbono.
+
+VI. Educación y cambio de patrones de conducta, consumo y producción:
+
+a) Instrumentar programas para crear conciencia del impacto que tiene la generación de emisiones de Compuestos y Gases de Efecto Invernadero en patrones de producción y consumo;
+
+b) Desarrollar programas que promuevan patrones de producción y consumo sustentables en los sectores público, social y privado a través de incentivos económicos, fundamentalmente en áreas como la generación y consumo de energía, el transporte y la gestión integral de los residuos;
+
+c) Incentivar y reconocer las empresas e instituciones que propicien que sus trabajadores y empleados tengan domicilio cercano a los centros de trabajo, consumo, educación y entretenimiento, así como el establecimiento de jornadas de trabajo continuas; y
+
+d) Desarrollar políticas e instrumentos para promover la mitigación de emisiones directas e indirectas relacionadas con la prestación de servicios públicos, planeación y construcción de viviendas, construcción y operación de edificios públicos y privados, comercios e industrias.
+
+VII. Se monitorearán, reportarán, y verificarán las acciones de mitigación emprendidas.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2017)</small>
 
@@ -441,13 +531,29 @@ VII. Promover como objetivo alcanzar una tasa cero de deforestación entre los i
 
 VIII. Promover la participación de los sectores social, público y privado en el diseño, la elaboración, la instrumentación y la evaluación de las políticas y acciones estatales de mitigación;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-IX. Promover programas para resarcir los daños de incendios forestales, dando prioridad a las zonas naturales protegidas; y,
+IX. Promover programas para resarcir los daños de incendios forestales, dando prioridad a las zonas naturales protegidas;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Impulsar programas y políticas públicas para reducir el cambio de uso de suelo en zonas forestales.
+X. Impulsar programas y políticas públicas para prohibir el cambio de uso de suelo de forestal a (sic) agrícola o pecuario;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Promover el aprovechamiento del potencial energético contenido en los residuos sólidos urbanos;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XII. Promover el incremento del transporte público, masivo y con altos estándares de eficiencia, privilegiando la sustitución de combustibles fósiles y el desarrollo de sistemas de transporte sustentable urbano y suburbano, público y privado;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XIII. Desarrollar incentivos económicos y fiscales para impulsar el desarrollo y consolidación de industrias y empresas socialmente responsables con el medio ambiente; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XIV. Impulsar la investigación científica y tecnológica, a fin de generar los mecanismos de desarrollo y capacidades de adaptación para hacer frente al cambio climático.
 
 ###### ARTÍCULO 16.
 
@@ -871,9 +977,23 @@ Los municipios podrán constituir sus fondos municipales de cambio climático, c
 
 Se integrará un Sistema Estatal de Información sobre el Cambio Climático a cargo la Secretaría, con objeto de llevar el control, registro, monitoreo, resultados, evaluación y seguimiento de los procesos y los escenarios del cambio climático futuro proyectado a escala estatal; regional y municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 58.
 
-Con base en el Sistema Estatal de Información sobre el Cambio Climático, la Secretaría deberá elaborar, publicar y difundir informes de manera periódica de los resultados de las acciones sobre adaptación y mitigación del cambio climático y sus repercusiones, considerando la articulación de éstos con el Programa Estatal.
+Con base al Sistema Estatal de Información sobre el Cambio Climático, la Secretaría deberá elaborar, publicar y difundir informes de manera periódica con los resultados de las acciones sobre adaptación y mitigación del cambio climático y sus repercusiones en el medio ambiente estatal, considerando la articulación de éstos con el Programa Estatal, que contenga:
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+I. información técnica sobre cambio climático y su impacto en suelos, agua, bosques, selvas, atmósfera; proporcionada por laboratorios con tecnología satelital especializada, y/o científicos calificados por instituciones educativas registrados ante la Dirección General de Profesiones dependientes de la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+II. Información que exponga posibles riesgos para el ambiente y que permita evaluar posibles alteraciones de riesgos para la población; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+III. Información sobre innovación, desarrollo y transferencia de tecnologías en materia de fuentes alternativas de energías renovables que coadyuven en la mitigación de los efectos nocivos del cambio climático global.
 
 ###### ARTÍCULO 59.
 
@@ -1198,3 +1318,11 @@ P.O. 7 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 08 POR EL QUE “SE REFORMA EL ARTÍCULO 1°, LAS FRACCIONES IX Y X DEL ARTÍCULO 15, Y EL ARTÍCULO 58; SE ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 3°; LA FRACCIÓN XIV AL ARTÍCULO 13; EL ARTÍCULO 14 BIS, LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 15; Y LAS FRACCIONES I, II Y III AL ARTÍCULO 58 DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
