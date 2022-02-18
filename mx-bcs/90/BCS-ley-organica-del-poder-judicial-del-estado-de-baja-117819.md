@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2021-12-14"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -229,7 +229,9 @@ VI. Acordar sobre la sustitución del Presidente del Tribunal, de las ausencias 
 
 VII. Conocer de los impedimentos, excusas y recusaciones de los Magistrados. En caso de su procedencia, designar a los que deban intervenir en el conocimiento del asunto que se trate;
 
-VIII. Imponer a los Magistrados y Consejeros, las correcciones disciplinarias que procedan, conforme a las leyes aplicables;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VIII. Imponer a los Magistrados, las correcciones disciplinarias que procedan, conforme a las leyes aplicables;
 
 IX. Ordenar, por conducto del Presidente del Tribunal, que se haga la denuncia que corresponda ante el ministerio público en los casos de la posible comisión de delitos durante su encargo o con motivo del mismo, imputables a magistrados o servidores públicos adscritos al Tribunal Superior de Justicia, que deban ser sancionados por las autoridades competentes;
 
@@ -253,9 +255,9 @@ XVII. Determinar los casos de retiro de los Magistrados del Tribunal Superior de
 
 XVIII. Resolver sobre las licencias de Magistrados, con o sin goce de sueldo, siempre que no sea mayor a treinta días;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] , B.O. 18 DE FEBRERO DE 2022)</small>
 
-XIX. Sustanciar y resolver el procedimiento de responsabilidad administrativa de los Magistrados del Tribunal Superior de Justicia, en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
+XIX. Sustanciar y resolver el procedimiento de responsabilidad administrativa de los Magistrados del Tribunal Superior de Justicia, en los términos previstos en esta Ley y en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -283,7 +285,13 @@ XXIX. Resolver sobre la responsabilidad administrativa de los consejeros de la J
 
 XXX. Instrumentar estímulos a la productividad del personal adscrito al Tribunal Superior de Justicia del Estado, atenta la disponibilidad presupuestal; y
 
-XXXI. Las demás facultades que le confieren las Leyes y Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXI. Conocer de las recusaciones interpuestas en contra de los jueces y secretarios instructores adscritos a los Tribunales Laborales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXII. Las demás facultades que le confieren las Leyes y Reglamentos.
 
 ###### Artículo 15.
 
@@ -329,9 +337,11 @@ Las actas que se levanten de los acuerdos y resoluciones del Pleno, deberán fir
 
 ### CAPÍTULO TERCERO. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 18.
 
-El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en la primera sesión plenaria celebrada durante el mes de abril de cada tres años y estará presidida por el Magistrado de más edad, pudiendo ser reelecto para el periodo inmediato. El Presidente no integrará Sala.
+El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en la primera sesión plenaria celebrada durante el mes de abril de cada dos años, que estará presidida por el Magistrado de más edad. El Presidente no integrará Sala.
 
 El resultado de la elección de Presidente del Tribunal Superior de Justicia se publicará en el Boletín Oficial del Gobierno del Estado.
 
@@ -405,7 +415,9 @@ El Presidente del Tribunal Superior de Justicia contará con el auxilio de un Se
 
 El Tribunal Superior de Justicia funcionará en Salas Unitarias. Para distinguirlas serán designadas por número ordinal. Cada Magistrado integrará una Sala, con excepción del Presidente del Tribunal Superior de Justicia.
 
-En caso de ausencia, recusación o excusa de un Magistrado, integrará Sala un Magistrado de otra Sala que designe el Pleno. Lo mismo ocurrirá cuando las Salas Penales hubieran intervenido en un mismo asunto en apelación durante la etapa de investigación e intermedia, y se interpusiera la apelación contra resoluciones emitidas por el Tribunal de Enjuiciamiento.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+En caso de ausencia, recusación o excusa de un Magistrado, integrará Sala un Magistrado de otra Sala que designe el Pleno.
 
 En el supuesto de que la totalidad de los Magistrados de las Salas Unitarias estuvieren impedidos para conocer de un asunto, integrará Sala Especial un Juez de Primera Instancia designado por el Pleno del Tribunal, sin perjuicio de las labores o funciones propias de su cargo.
 
@@ -451,7 +463,9 @@ III. Conocer de las excusas y recusaciones de los Jueces y demás servidores pú
 
 IV. Conocer de las contiendas de acumulación que se susciten en materia penal entre las autoridades del fuero común;
 
-V. Dirimir las cuestiones de competencia que se susciten entre los jueces penales del Estado, a excepción de los jueces menores y de paz. En el caso de que haya varios jueces de primera instancia, de control o de ejecución de sanciones penales en un mismo partido judicial que puedan ser declarados competentes, el Magistrado remitirá el asunto al que corresponda según el turno que lleve la Presidencia o la Coordinación Administrativa de Juzgados en su caso;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+V. Dirimir las cuestiones de competencia que se susciten entre los jueces penales del Estado, a excepción de los jueces menores y de paz. En el caso de que haya varios jueces de primera instancia, de control o de ejecución de sanciones penales en un mismo partido judicial que puedan ser declarados competentes, el Magistrado remitirá el asunto al que corresponda, según el turno que lleve la Coordinación Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio en su caso;
 
 VI. Conocer de las solicitudes de radicación de procesos penales en diversos partidos judiciales al que originalmente le compete, formuladas por la parte interesada o por la propia autoridad judicial, atendiendo a razones de competencia por razón de seguridad;
 
@@ -565,7 +579,7 @@ XVI. Llevar los siguientes libros de registro: de tocas penales, de tocas civile
 
 XVII. Autenticar y desempeñar las demás funciones y servicios que le confieran las Leyes, el Reglamento y las demás que por la naturaleza de sus funciones le encomiende el Pleno del Tribunal o su Presidente;
 
-XVIII. Iniciar, diligenciar y sustanciar hasta el estado de resolución el procedimiento de responsabilidad administrativa en los casos en que se presente queja o denuncia en contra de Magistrados o Consejeros, en términos de lo establecido por esta Ley y su Reglamento; y
+XVIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
 XIX. Las demás que establezca el Reglamento de la presente Ley, y las que le encomienden el Pleno del Tribunal o su Presidente.
 
@@ -641,15 +655,23 @@ Los Actuarios de las Salas lo serán también del Pleno y la Presidencia del Tri
 
 Los servidores públicos del Poder Judicial deberán ser mexicanos, mayores de edad, de notoria buena conducta y capacitados para el empleo que sean nombrados.
 
-## TÍTULO CUARTO. DE LOS JUZGADOS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE FEBRERO DE 2022)</small>
 
-### CAPÍTULO PRIMERO. DE LOS JUZGADOS DE PRIMERA INSTANCIA
+## TÍTULO CUARTO. DE LOS JUZGADOS Y TRIBUNALES LABORALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE FEBRERO DE 2022)</small>
+
+### CAPÍTULO PRIMERO. DE LOS JUZGADOS DE PRIMERA INSTANCIA Y TRIBUNALES LABORALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 40.
 
-En cada Partido Judicial habrá el número necesario de Juzgados de Primera Instancia que determine el Pleno del Consejo, los cuales serán integrados por los Jueces de la materia que les corresponda.
+En cada Partido Judicial habrá el número necesario de Juzgados de Primera Instancia los cuales serán integrados por los Jueces de la materia que les corresponda; así como de Tribunales Laborales los cuales funcionarán con el número de jueces y salas de oralidad que determine el Pleno del Consejo.
 
-Previo acuerdo del Pleno del Consejo, se fijará la jurisdicción y la competencia en las materias penal, civil, familiar, mercantil y mixta de dichos órganos jurisdiccionales.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Previo acuerdo del Pleno del Consejo, se fijará la competencia en las materias penal, civil, familiar, mercantil y mixta de dichos órganos jurisdiccionales. En el caso de los Tribunales Laborales, como instancias jurisdiccionales especializadas, conocerán solamente de los conflictos surgidos de las relaciones de trabajo comprendidas en el artículo 123, Apartado "A", de la Constitución Política de los Estados Unidos Mexicanos, que no sean competencia de los órganos jurisdiccionales federales.
 
 ###### Artículo 41.
 
@@ -715,7 +737,13 @@ En materia mercantil los Jueces de Primera Instancia conocerán de los asuntos q
 
 Asimismo conocerán de los asuntos de la competencia del Juez de Primera Instancia en materia civil del mismo partido judicial en los casos de excusa o recusación del mismo, siempre que no exista otro juez civil que pueda conocer del asunto o cuando los que existan se encuentren impedidos.
 
-El Poder Judicial contará con Jueces de Primera Instancia en materia mercantil especializados en juicios orales, en términos del Código de Comercio.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+El Poder Judicial contará con Jueces de Primera Instancia en materia mercantil y serán competentes para conocer y resolver los asuntos de jurisdicción concurrente que, de acuerdo con el Código de Comercio y demás leyes de la materia, deban tramitarse conforme al procedimiento oral.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Dichos juzgados serán determinados en número y competencia territorial por el Consejo de la Judicatura del Estado.
 
 ###### Artículo 45.
 
@@ -783,7 +811,7 @@ XXIII. Visitar periódicamente los centros penitenciarios para conocer de las pe
 
 XXIV. Expedir constancias y certificaciones previa resolución judicial.
 
-XXV. Ejercer aquellas atribuciones previstas para los jueces de control en el artículo 55, fracciones II, XXII, XXIII y XXIV de esta Ley; y
+XXV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
 XXVI. Las demás que otros ordenamientos y los Acuerdos Generales le confieran.
 
@@ -831,6 +859,40 @@ XI. Mantener actualizado el Sistema de Gestión Judicial; y
 
 XII. Las demás controversias del orden familiar.
 
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+###### Artículo 48 Bis.
+
+Los Jueces de los Tribunales Laborales, conocerán sobre:
+
+I. La aplicación de las normas del trabajo establecidas en el artículo 123 apartado “A” de la Constitución Política de los Estados Unidos Mexicanos en el ámbito de su competencia, el conocimiento y la resolución de los conflictos de trabajo que se susciten entre trabajadores y patrones, sólo entre aquéllos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionados con ellas, en todas las ramas y actividades que no sean de competencia federal;
+
+II. La tramitación de los conflictos individuales y colectivos, que sean de su competencia;
+
+III. Los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley Federal del Trabajo, a fin de que la impartición de justicia del trabajo sea expedita;
+
+IV. La nulidad, cumplimiento o la ejecución de los convenios celebrados por las partes ante el Centro de Conciliación Laboral en el Estado; y
+
+V. Las demás que la Ley Federal del Trabajo y otros ordenamientos les confieran.
+
+Los Tribunales Laborales tendrán la competencia territorial que mediante Acuerdos Generales establezca el Pleno del Consejo. Sus jueces serán designados observando lo dispuesto en el último párrafo del numeral 89 de la Constitución Política del Estado Libre y Soberano de Baja California Sur y esta Ley. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca el Consejo de la Judicatura.
+
+Para la ratificación de los Jueces en materia Laboral, el Consejo de la Judicatura, tomará en consideración los siguientes elementos:
+
+a) El desempeño que haya tenido el Juez de que se trate en el desempeño de su función;
+
+b) Los resultados de las visitas de inspección;
+
+c) El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditadas de manera fehaciente;
+
+d) No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativo; y
+
+e) Las demás que se estimen pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de inicio del proceso de ratificación.
+
+Los Jueces en materia laboral tendrán la competencia material y formal conforme a la Ley Federal del Trabajo y las facultades y obligaciones que establece la presente Ley.
+
+Los Jueces en materia laboral deberán observar en sus sentencias y resoluciones los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
 ###### Artículo 49.
 
 Corresponde a los Jueces de Primera Instancia:
@@ -839,11 +901,15 @@ I. Cumplir y hacer cumplir con estricto apego a la Ley, las determinaciones que 
 
 II. Actuar con Secretarios de Acuerdos o testigos de asistencia, a excepción de los jueces de control, del tribunal de enjuiciamiento, y de ejecución de sanciones penales en el sistema penal acusatorio;
 
-III. Remitir al Presidente del Consejo de la Judicatura, dentro de los primeros cinco días hábiles de cada mes, la estadística de los asuntos que se hayan ventilado en el Juzgado a su cargo durante el mes inmediato anterior. En caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+III. Remitir al Presidente del Consejo de la Judicatura, dentro de los primeros cinco días hábiles de cada mes, la estadística de los asuntos que se hayan ventilado en el Juzgado a su cargo durante el mes inmediato anterior. En caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Administrador de Gestión Jurídico Administrativa de Juzgado;
 
 IV. En materia penal practicar mensualmente una visita de inspección al Centro de Reinserción Social de su residencia, para cerciorarse del estado del mismo y del trato que reciben los internos sujetos a proceso, debiendo dar aviso de inmediato al Tribunal Superior de Justicia de los abusos o deficiencias que advirtiere;
 
-V. Rendir a las autoridades Federales, Estatales y Municipales los datos e informes estadísticos que le soliciten conforme a la Ley, en caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+V. Rendir a las autoridades Federales, Estatales y Municipales los datos e informes estadísticos que le soliciten conforme a la Ley, en caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Administrador de Gestión Jurídico Administrativa de Juzgado;
 
 VI. Promover los mecanismos alternativos de justicia entre las partes, a fin de cumplir con los principios de mínima intervención y subsidiariedad y en su caso, decretar la suspensión del procedimiento por arreglo conciliatorio, en los casos que la Ley lo permita;
 
@@ -871,33 +937,49 @@ j) Las demás que mediante Acuerdos Generales determine el Consejo de la Judicat
 
 Se podrán omitir algunos o todos los registros en los libros a que se refiere la presente fracción, cuando a consideración del Pleno del Consejo y por acuerdo notificado al Juez correspondiente, se cumpla con el registro y control mediante el sistema de gestión electrónico que se lleve en el juzgado respectivo.
 
-En caso de los juzgados penales del sistema acusatorio, la obligación a que se refiere esta fracción recaerá en el Coordinador Administrativo de Juzgado;
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
-VIII. Calificar las excusas y recusaciones de sus Secretarios y actuarios;
+En caso de los juzgados penales del sistema acusatorio, la obligación a que se refiere esta fracción recaerá en el Administrador de Gestión Jurídico Administrativa de Juzgado;
 
-IX. Corregir las faltas de sus Secretarios y demás servidores públicos conforme al Título Octavo de esta Ley, siempre que no sean de trascendencia tal que ameriten dar inicio a la denuncia por responsabilidad administrativa. En caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Conceder licencias a los servidores públicos de su adscripción hasta por tres días, en caso de los Juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+VIII. Calificar las excusas y recusaciones de sus Secretarios y actuarios. En caso de los juzgados penales del sistema acusatorio, tratándose del personal administrativo, la obligación a que se refiere esta fracción recaerá en el Administrador de Gestión Jurídico Administrativa de Juzgado;
 
-XI. Vigilar la buena conducta así como la disciplina del personal a su cargo;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+IX. Corregir las faltas de sus Secretarios y demás servidores públicos conforme al Título Octavo de esta Ley, siempre que no sean de trascendencia tal que ameriten dar inicio a la denuncia por responsabilidad administrativa. En caso de los juzgados penales del sistema acusatorio, tratándose del personal administrativo, dicha obligación recaerá en el Administrador de Gestión Jurídico Administrativa de Juzgado;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Conceder licencias a los servidores públicos de su adscripción hasta por tres días, en caso de los Juzgados penales del sistema acusatorio, tratándose del personal administrativo, dicha obligación recaerá en el Administrador de Gestión Jurídico Administrativa de Juzgado;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Vigilar la buena conducta, así como la disciplina del personal a su cargo. En caso de los Juzgados penales del sistema acusatorio, dicha obligación recaerá en tratándose del personal administrativo en el Administrador de Gestión Jurídico Administrativa de Juzgado;
 
 XII. Mantener actualizado el Sistema informático de Gestión Judicial.
 
-XIII. Vigilar que se remitan oportunamente al Archivo Judicial, los expedientes que ordene esta Ley; en caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIII. Vigilar que se remitan oportunamente al Archivo Judicial, los expedientes que ordene esta Ley; en caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Administrador de Gestión Jurídico Administrativa de Juzgado;
 
 XIV. Hacer uso de los sistemas de reproducción a distancia vía videoconferencia, para recabar los testimonios o realizar diligencias en las que deban intervenir personas que se encuentren o residan fuera de la circunscripción territorial del Juzgado; debiendo conservar en el expediente el registro escrito o audiovisual de la diligencia, según corresponda; y
 
 XV. Las demás atribuciones y obligaciones que les señalen las Leyes y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 50.
 
-En materia mercantil, penal acusatoria y oral, en materia de justicia para adolescentes, y en materia de ejecución de sanciones penales, tendrán validez y eficacia los documentos públicos originales de registro, los archivos de documentos, mensajes, imágenes, banco de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+En las materias mercantil, penal acusatoria y oral, en materia de justicia para adolescentes, de ejecución de sanciones penales y laboral, tendrán validez y eficacia los documentos públicos originales de registro, los archivos de documentos, mensajes, imágenes, banco de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
 
 Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
 
 Cuando un juez de las referidas materias utilice los medios indicados en el primer párrafo de este artículo para hacer constar sus actos o resoluciones, los medios de protección del sistema resultarán suficientes para acreditar su autenticidad.
 
-Las autoridades judiciales de la materia penal en el sistema acusatorio, así como las especializadas en justicia para adolescentes y de ejecución de sanciones penales, podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos ante los tribunales, salvo que su presentación deba ser por escrito conforme a la ley.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Las autoridades judiciales podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes también podrán utilizar esos medios para presentar sus solicitudes y recursos ante los Tribunales, salvo que su presentación deba ser por escrito conforme a la ley.
 
 El Pleno del Consejo expedirá el Reglamento o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios de comunicación, para garantizar su seguridad y conservación, así como para determinar el acceso del público o de las partes a la información contenida en las bases de datos conforme a la ley.
 
@@ -909,9 +991,11 @@ En caso de impedimento legal de un Juez de Primera Instancia en los Partidos Jud
 
 Los Jueces de Primera Instancia actuarán con funciones de Juez Menor y de Paz dentro de su Partido Judicial, en todos aquellos lugares en donde no existan éstos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ### CAPÍTULO SEGUNDO
 
-DE LOS JUZGADOS PENALES DEL SISTEMA ACUSATORIO, LOS JUZGADOS ESPECIALIZADOS EN EL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, LOS JUZGADOS DE EJECUCIÓN Y LA COORDINACIÓN ADMINISTRATIVA DE JUZGADOS
+DE LOS JUZGADOS PENALES DEL SISTEMA ACUSATORIO, LOS JUZGADOS ESPECIALIZADOS EN EL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, LOS JUZGADOS DE EJECUCIÓN, LA COORDINACIÓN ESTATAL DE GESTIÓN Y LOS ADMINISTRADORES DE GESTIÓN JURÍDICO ADMINISTRATIVA DE JUZGADO
 
 #### SECCIÓN I. DE LOS JUZGADOS PENALES DEL SISTEMA ACUSATORIO
 
@@ -919,7 +1003,9 @@ DE LOS JUZGADOS PENALES DEL SISTEMA ACUSATORIO, LOS JUZGADOS ESPECIALIZADOS EN E
 
 Los Juzgados penales del sistema acusatorio se integrarán por Jueces de Control; así como por el personal administrativo y auxiliar que cada uno de éstos requiera; los Tribunales de Enjuiciamiento serán integrados por Jueces diversos a los que hayan conocido de las causas penales en etapas previas a la de juicio.
 
-Los Tribunales de Enjuiciamiento serán colegiados e integrados por tres Jueces de Control, en aquellas causas penales que tengan como materia del Juicio los delitos de homicidio doloso y violación, en todas las modalidades previstas en el Código Penal Para el Estado, así como cuando se trate de los delitos de secuestro y trata de personas, previstos en las Leyes Generales de esas materias; también será colegiado el Tribunal de Enjuiciamiento, cuando en una misma causa sean tres o más acusados o sean materia del juicio tres o más delitos; en los demás casos, el Tribunal de Enjuiciamiento será unipersonal y estará conformado por un Juez de Enjuiciamiento que no haya conocido de las etapas previas al Juicio de que se trate.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Por regla general los Tribunales de Enjuiciamiento serán unipersonales y estarán conformados por un Juez de enjuiciamiento que no haya conocido de las etapas previas al Juicio de que se trate; el pleno del Consejo de la Judicatura emitirá mediante Acuerdo General, los supuestos en que excepcionalmente podrán integrarse de manera colegiada dicho Tribunales.
 
 Los Jueces de Control deberán residir en su respectivo Partido Judicial, y no podrán ausentarse de su circunscripción territorial sin licencia previa del Presidente del Consejo de la Judicatura, a excepción de aquellos Jueces de Control que sean comisionados para integrar (sic) Tribunal de Enjuiciamiento, o cuando se requiera la realización de un acto procesal que amerite su traslado fuera de su circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica; en el primer supuesto podrán hacerlo previa comisión otorgada por la Presidencia del Consejo de la Judicatura para ese efecto; y en el segundo previo aviso fundado y motivado al mencionado órgano.
 
@@ -927,93 +1013,127 @@ Los Jueces de Control deberán residir en su respectivo Partido Judicial, y no p
 
 En el proceso penal acusatorio, los Jueces de Control tendrán facultad para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video o se transcriban.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 55.
 
-Corresponde a los Jueces de Control, dentro de las etapas previas a la de juicio:
+Los Jueces de Control tendrán las siguientes facultades:
 
-I. Respetar, proteger y garantizar que se respeten los derechos humanos del imputado y de la víctima u ofendido, así como la salvaguarda de todos los que intervienen en el procedimiento;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-II. Resolver los asuntos sometidos a su consideración con la debida diligencia, dentro de los términos previstos en la ley y con sujeción a los principios que deben regir el ejercicio de la función jurisdiccional;
+I. Tramitar y resolver los asuntos de su competencia;
 
-III. Informar a la embajada o consulado correspondiente, la detención de un imputado extranjero que sea puesto a su disposición;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-IV. Notificar a la embajada o consulado correspondiente, en caso de que la víctima u ofendido sea extranjera (sic);
+II. Ordenar y verificar que se integren las actuaciones en el sistema informático de gestión;
 
-V. Garantizar a las partes el acceso a intérpretes y traductores en los casos necesarios;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-VI. Ordenar a favor de la víctima u ofendido la restitución de bienes, objetos, instrumentos o productos del delito, o bien la reposición de las cosas al estado en que se encontraban antes del hecho delictivo;
+III. Solicitar a la Administración de Gestión Jurídico Administrativa, les proporcione fecha y hora para la continuación de la audiencia, cuando esta sea suspendida, diferida o deba continuar en otro momento;
 
-VII. Resolver de manera inmediata y por cualquier medio, sobre la solicitud de orden de cateo, aprehensión, detención, presentación, o comparecencia que solicite el ministerio público; así como de la realización de aquellos actos de investigación de la autoridad que requieran autorización judicial previa, garantizando los derechos de los imputados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre Jueces y ministerio público, y demás autoridades competentes;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-VIII. Realizar el control de la legalidad de la detención en los casos de flagrancia, caso urgente o cumplimiento de orden de aprehensión;
+IV. Fungir como Juez Coordinador, cuando así sea designado por el Consejo de la Judicatura;
 
-IX. Dirigir la audiencia inicial, la audiencia intermedia y emitir las decisiones que en ellas corresponda, así como celebrar cualquier otra audiencia que legalmente le sea solicitada y asumir las decisiones atinentes al caso;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Resolver sobre el desahogo de la prueba anticipada;
+V. Las demás que le confiera el Condigo Nacional de Procedimientos Penales, las leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
 
-XI. Resolver sobre la imposición, modificación, sustitución, cancelación o revocación de las medidas cautelares y providencias precautorias de carácter real o personal que les sean solicitados por quien esté legitimado para ello y que resulten indispensables para el desarrollo del procedimiento;
+VI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XII. Conocer sobre las soluciones alternas del procedimiento en los términos que la ley señale;
+VII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XIII. Aprobar los acuerdos reparatorios asumidos como solución alterna del procedimiento o cuando el proceso ya se haya iniciado, o independientemente de esto, que sean de cumplimiento diferido;
+VIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XIV. Conocer del procedimiento abreviado y dictar la resolución correspondiente;
+IX. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XV. Resolver las impugnaciones que haga la víctima u ofendido sobre las omisiones del ministerio público en la investigación de los delitos, así como en torno a las resoluciones que emita respecto de la abstención de investigar, el archivo temporal, la aplicación de algún criterio de oportunidad o el no ejercicio de la acción penal;
+X. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XVI. Dar vista al Procurador sobre el ocultamiento en que incurra el ministerio público sobre prueba favorable a la defensa, y de la cual aquel haya tenido conocimiento;
+XI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XVII. Abstenerse de presentar en público al imputado como culpable;
+XII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XVIII. Autorizar dentro del auto de apertura a juicio oral, el auxilio judicial a las partes, cuando éstas así lo soliciten;
+XIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XIX. Resolver el recurso de revocación que interpongan las partes;
+XIV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XX. Resolver sobre la declaración de abandono de bienes asegurados o la devolución de los mismos;
+XV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XXI. Conocer del procedimiento de la acción penal privada;
+XVI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XXII. Garantizar que se mantenga el orden en las salas de audiencias, así como restringir el acceso a las audiencias a las personas, en los casos que sea procedente;
+XVII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XXIII. Rendir los informes previos y justificados solicitados por las autoridades judiciales federales, a través del Coordinador Administrativo del Juzgado;
+XVIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XXIV. Rendir en el plazo de veinticuatro horas, los informes requeridos por el Pleno del Consejo en torno a las quejas que fueren planteadas por las partes;
+XIX. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XXV. Expedir constancias y certificaciones previa resolución respectiva; y
+XX. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XXVI. Las demás que establezca el Código Nacional de Procedimientos Penales, las leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
+XXI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-Los Jueces de Control y el Tribunal de Enjuiciamiento ejercerán su jurisdicción en todo el territorio del Estado, con independencia de la circunscripción territorial del Juzgado y Partido Judicial al que estén adscritos los primeros o bien del lugar donde se encuentre radicada la causa penal que motive el Juicio en el caso del segundo, cuando se requiera la realización de un acto procesal que amerite su traslado fuera de esa circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica, o bien al ordenar una citación o solicitud de informe.
+XXII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-El traslado de Los Jueces de Control y del Tribunal de Enjuiciamiento fuera de la circunscripción territorial de los primeros o del lugar donde se encuentre radicada la causa penal que motive el Juicio, en el caso del segundo se llevará a cabo sólo ante la imposibilidad de practicar vía videoconferencia en tiempo real el acto procesal de que se trate, garantizando la identidad e intervención de las partes y el cumplimiento del principio de inmediación, así como el debido registro de la audiencia.
+XXIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+XXIV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+XXV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+XXVI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE FEBRERO DE 2022)</small>
+
+El cargo de Juez Coordinador será honorifico, quien lo desempeñe fungirá como un enlace para la centralización de las peticiones y requerimientos que los jueces realicen al Administrador de Gestión Jurídico Administrativa del juzgado de su adscripción, a la Coordinación Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, y al Consejo de la Judicatura o a otros operadores del sistema penal, según corresponda y tendrá las facultades que se establezcan en el Reglamento y en los Acuerdos Generales que emita el Pleno del Consejo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], B.O. 18 DE FEBRERO DE 2022)</small>
+
+Los Jueces de Control ejercerán su jurisdicción en todo el territorio del Estado, con independencia de la circunscripción territorial del Juzgado y Partido Judicial al que estén adscritos, cuando se requiera la realización de un acto procesal que amerite su traslado fuera de esa circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica, o bien al ordenar una citación o solicitud de informe.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 18 DE FEBRERO DE 2022)</small>
+
+El traslado de los Jueces de Control fuera de su circunscripción territorial se llevará a cabo sólo ante la imposibilidad de practicar vía videoconferencia en tiempo real el acto procesal de que se trate, garantizando la identidad e intervención de las partes y el cumplimiento del principio de inmediación, así como el debido registro de la audiencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 56.
 
-El Tribunal de Enjuiciamiento estará investido de fe pública para constancia y certificación de los actos que dicho órgano realice.
+El Tribunal de Enjuiciamiento estará investido de fe pública para constancia y certificación de los actos que dicho órgano realice; y tendrá las siguientes facultades y obligaciones:
 
-El Tribunal de Enjuiciamiento tendrá las siguientes atribuciones:
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-I. Actuar en forma unitaria o colegiada al momento de emitir sus resoluciones y cuando alguna de las partes interponga la revocación respecto de una decisión emitida en audiencia;
+I. Tramitar y resolver los asuntos de su competencia;
 
-II. Dirigir la audiencia de juicio oral desde el momento en que se declare legalmente instalado el Tribunal hasta aquél en que declare cerrado el debate y se proceda a la fase de deliberación para concluir con la lectura y explicación de sentencia, en los términos previstos por la legislación procesal;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-III. Deliberar unitaria o colegiadamente para determinar si se considera o no probada la responsabilidad del acusado y en su caso, la fijación de la sanción aplicable;
+II. Solicitar a la Administración de Gestión Jurídico Administrativa, les proporcione fecha y hora para la continuación de la audiencia de juicio, cuando esta sea suspendida o deba continuar en otro momento;
 
-IV. Dirigir la audiencia de lectura y explicación de sentencia;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-V. Aclarar, de oficio o a petición de parte la sentencia que emita, cuando ésta sea oscura, ambigua o contradictoria, siempre que ello no modifique o altere el sentido de la resolución;
+III. Ordenar y verificar que se integren las actuaciones en el sistema informático de gestión;
 
-VI. Remitir la sentencia cuando ésta sea de carácter condenatorio y haya causado ejecutoria, al juez de ejecución de sanciones penales;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-VII. Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a ellos y a los demás intervinientes de la audiencia, así como restringir el acceso a las audiencias a las personas, en los casos que sea procedente;
+IV. Las demás que le confiera el Código Nacional de Procedimientos Penales, las leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
 
-VIII. Representar al Tribunal de Enjuiciamiento en el trámite de juicio de amparo, cuando se interponga en la etapa de juicio oral o posterior a ella cuando aquel sea señalado como autoridad responsable;
+V. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-IX. Ejercer aquellas atribuciones previstas para los jueces de control en el artículo 55, establecidas en las fracciones I, II, V, XIX, XXI, XXII, XXIII, XXIV, y XXV de esta Ley; y
+VI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-X. Las demás que establezca el Código Nacional de Procedimientos Penales, las leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
+VII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-Tratándose de Tribunales de Enjuiciamiento Colegiados; las atribuciones a que se refieren las fracciones II, IV, VII y VIII del presente artículo, las llevará a cabo específicamente quien funja como Presidente.
+VIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+IX. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+X. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+El Tribunal de Enjuiciamiento ejercerá su jurisdicción en todo el territorio del Estado, con independencia del lugar donde se encuentre radicada la causa penal que motive el Juicio, cuando se requiera la realización de un acto procesal que amerite su traslado fuera de esa circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica, o bien al ordenar una citación o solicitud de informe.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+El traslado del Tribunal de Enjuiciamiento fuera del lugar donde se encuentre radicada la causa penal que motive el Juicio, se llevará a cabo sólo ante la imposibilidad de practicar vía videoconferencia en tiempo real el acto procesal de que se trate, garantizando la identidad e intervención de las partes y el cumplimiento del principio de inmediación, así como el debido registro de la audiencia.
 
 #### SECCIÓN II. DE LOS JUZGADOS ESPECIALIZADOS EN EL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES
 
@@ -1033,89 +1153,241 @@ Los Juzgados Especializados en Ejecución Penal, tendrán la competencia territo
 
 Los Jueces Especializados en Ejecución Penal tendrán la competencia material, facultades y obligaciones que establece la Ley Nacional de Ejecución Penal y las Leyes de aplicación supletorias en la materia.
 
-#### SECCIÓN IV. DE LA COORDINACIÓN ADMINISTRATIVA DE JUZGADOS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE FEBRERO DE 2022)</small>
+
+#### SECCIÓN IV. DE LA COORDINACIÓN ESTATAL DE GESTIÓN PARA LOS JUZGADOS DEL SISTEMA PENAL ACUSATORIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 59.
 
-La Coordinación Administrativa es una instancia auxiliar en la operación de los Juzgados que comprende el presente Capítulo y tiene como objetivo general brindar el apoyo necesario, para la preparación, programación y celebración de audiencias, contando con las siguientes atribuciones:
+La Coordinación Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, es una instancia de supervisión, evaluación, planeación y coordinación de la gestión jurídica administrativa de los Juzgados que comprende el presente Capítulo.
 
-I. Dirigir las labores administrativas de los Juzgados Penales del Sistema Acusatorio, de los Juzgados Especializados en el Sistema Integral de Justicia Penal Para Adolescentes, y los Juzgados de Ejecución;
+I. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-II. Vigilar y controlar el buen desempeño de los servidores públicos a su cargo en el ejercicio de las funciones encomendadas, conforme a lo dispuesto por las leyes;
+II. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de Audiencias a su cargo y, en general, todas las medidas necesarias para la buena marcha de los Juzgados o Salas;
+III. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-IV. Remitir a la Presidencia del Consejo de la Judicatura, dentro de los primeros cinco días hábiles de cada mes, un informe estadístico, sobre los trámites realizados en los juzgados Penales del Sistema Acusatorio y las Salas Penales, durante el mes inmediato anterior;
+IV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-V. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados, debiendo poner en inmediato conocimiento al área correspondiente sobre cualquier deterioro que sufran;
+V. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-VI. Custodiar los bienes y valores que se encuentren a disposición de los Juzgados o Tribunales con motivo de la tramitación de los asuntos;
+VI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-VII. Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos fracciones anteriores, cuando se requiera;
+VII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-VIII. Distribuir los asuntos entre los jueces del sistema acusatorio por turno riguroso, respetando la agenda previamente establecida;
+VIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-IX. Establecer los modelos de gestión para el funcionamiento de los Juzgados y salas Penales del sistema acusatorio;
+IX. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-X. Establecer y mantener actualizados, en coordinación con el Director de la Escuela Judicial, los programas de capacitación al personal administrativo de los Juzgados y salas Penales del sistema acusatorio.
+X. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XI. Presentar al Pleno del Consejo, para su aprobación, los manuales de operación de la Coordinación Administrativa;
+XI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XII. Expedir constancias, previo el acuerdo respectivo;
+XII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XIII. Determinar la conformación del Tribunal de Enjuiciamiento y en caso de que este se deba integrar colegiadamente, designar a los Jueces de Control que fungirán respectivamente como Presidente y Relator.
+XIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-En aquellos casos en que no sea posible conformar el Tribunal de Enjuiciamiento en virtud de que los Jueces de Control adscritos al Partido Judicial del lugar del Juicio, se encuentren impedidos en virtud de excusa, impedimento legal o por haber conocido de las etapas previas a la de juicio, el Coordinador Administrativo deberá solicitar con la debida oportunidad al Presidente del Consejo de la Judicatura, proceda a Comisionar a los Jueces de Control necesarios para constituir el Tribunal de Enjuiciamiento, a fin de que estos puedan actuar con tal carácter en un partido judicial diverso al de su adscripción; debiendo precisar en su solicitud los nombres de los Jueces de Control que hayan conocido de las etapas del procedimiento previas a la de Juicio o bien de los que se encuentren legalmente impedidos;
+XIV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XIV. Prestar a las partes, el auxilio judicial establecido dentro del auto de apertura a juicio oral;
+XV. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XV. Entregar los oficios y citaciones remitidos por los Jueces de Control o Tribunales de Enjuiciamiento en los casos previstos en el antepenúltimo párrafo del artículo 55 de la presente Ley, así como cuando dichos oficios y citaciones sean emitidos por los mencionados órganos jurisdiccionales adscritos o actuando en la misma sede de la Coordinación Administrativa;
+XVI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XVI. Dar contestación mediante oficio administrativo, a las solicitudes de información o requerimientos dirigidos al Juez de Control o Tribunal de Enjuiciamiento, cuya respuesta no implique un acto de carácter jurisdiccional;
+XVII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XVII. Delegar atribuciones en las Jefaturas de las Unidades de Sala y Causa, en aquellas sedes en las que no exista un Coordinador Administrativo y cuando así lo ameriten las necesidades del servicio; y
+XVIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-XVIII. Las demás que señalen las Leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
-#### SECCIÓN V. DISPOSICIONES COMUNES
+El titular de la Coordinación tendrá las facultades que se establezcan en el Reglamento y en los Acuerdos Generales que emita el Pleno del Consejo y para su nombramiento deberá reunir los mismos requisitos establecidos por la presente Ley para ser Juez de Primera Instancia.
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+#### SECCIÓN IV BIS. DE LOS ADMINISTRADORES DE GESTIÓN JURÍDICO ADMINISTRATIVA DE JUZGADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 60.
 
-El Poder Judicial contará con las Coordinaciones Regionales que permita el presupuesto, así como con los jefes de unidad, encargados de área y demás servidores públicos que sean necesarios para el buen funcionamiento de los órganos jurisdiccionales previstos en el presente Capítulo y el Tribunal de Alzada.
+Para la preparación, programación y celebración de audiencias, así como para ejecutar las instrucciones que en ejercicio de la función jurisdiccional emitan los juzgadores, en cada Juzgado Penal Acusatorio existirá uno o más Administradores de Gestión Jurídico Administrativa, que tendrán bajo su mando y supervisión al siguiente personal:
 
-Asimismo las Coordinaciones Administrativas contarán con notificadores dotados de fe pública, para la práctica de las notificaciones y citaciones que ordenen los órganos jurisdiccionales comprendidos en el presente Capítulo, así como los Magistrados de las Salas Penales y de la Sala Especializada en el Sistema Integral de Justicia Penal Para Adolescentes.
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+I. Auxiliares de causa y sala;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+II. Notificadores;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+III. Oficial de atención al público;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+IV. Oficial de audio y video; y
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+V. El demás personal de apoyo que determine el Consejo de la Judicatura, de acuerdo a las necesidades del servicio y la disponibilidad presupuestal.
+
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Para ocupar el cargo de Administrador de Gestión Jurídico Administrativa, Auxiliar de causa o sala, se deberán cumplir los mismos requisitos establecidos en la presente Ley, para ser Secretario de Acuerdos de un Juzgado de Primera Instancia, con excepción de los años de ejercicio profesional que para estos últimos se establecen.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Para ocupar el cargo de Oficial de audio y video, se deberá poseer título y cédula de licenciatura o ingeniería en ciencias de la computación.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Los notificadores estarán dotados de fe pública, para la práctica de las notificaciones y citaciones que ordenen los órganos jurisdiccionales comprendidos en el presente Capítulo, así como los Magistrados de las Salas Penales y para su nombramiento deberán cubrir los mismos requisitos establecidos en la presente Ley, para ser Actuario de un Juzgado de Primera Instancia.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Para ser Oficial de atención al público, deberán cubrir los mismos requisitos establecidos en la presente Ley, para ser Actuario de un Juzgado de Primera Instancia.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Las atribuciones del personal a que se refieren las fracciones I, II, III y IV del presente artículo, se establecerán en los Acuerdos que emita el Pleno del Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 61.
 
-Para ser Coordinador Administrativo de Juzgado se requiere:
+El Administrador de Gestión Jurídico Administrativa tendrá fe pública y las facultades siguientes:
 
-I. Ser ciudadana o ciudadano Sudcaliforniano, en pleno ejercicio y goce de sus derechos;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-II. Tener veintiocho años cumplidos al día de su designación;
+I. Dirigir las labores jurídico administrativas del juzgado de su adscripción, acordando con el Coordinador de jueces aquellos aspectos donde se requieran acciones conjuntas;
 
-III. Ser Licenciado en Derecho o Administración, o carrera afín, con cédula y Título Profesional emitidos por institución legalmente facultada para ello;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-IV. Acreditar, cuando menos, cinco años de ejercicio profesional o tres años dentro del Poder Judicial que se contarán a partir de la fecha de la expedición del Título Profesional y cédula;
+II. Informar a la Coordinación Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, las incidencias relevantes que se presenten con motivo de la interacción con personal de otras instituciones operadoras o bien entre los jueces y el personal a su cargo.
 
-V. Tener reconocida honradez, probidad y buena conducta;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-VI. No ser ministro de culto alguno;
+III. Certificar las actuaciones procesales que le soliciten las partes o autoridades competentes;
 
-VII. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo; y
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-VIII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento ni estar sujeto al mismo por responsabilidad administrativa.
+IV. Rendir los informes previos y justificados que soliciten las Autoridades Judiciales Federales en los juicios de amparo, en los que los Jueces de Control o el Tribunal de Enjuiciamiento sean señalados como autoridad responsable, pudiendo acreditar delegados para que actúen en los mismos conforme a lo que dispone el artículo 9 de la Ley de Amparo;
 
-Para ser Jefe de Unidad de los Juzgados y Salas del Sistema Acusatorio, se deberán cumplir los mismos requisitos establecidos en la presente Ley, para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia, con excepción de los años de ejercicio profesional que para estos últimos se establecen. Para ocupar la Jefatura de la Unidad de Informática, se deberá poseer título y cedula de licenciatura o ingeniería en ciencias de la computación.
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-Para ser encargado de Área de los Juzgados y Salas del Sistema Acusatorio, deberán cubrir los mismos requisitos establecidos en la presente Ley, para ser Actuario de un Juzgado de Primera Instancia. Para el caso de los Encargados de Área de la Unidad de Informática, se deberá poseer título y cedula de licenciatura o ingeniería en ciencias de la computación.
+V. Establecer la programación de las audiencias, de manera transparente y equitativa, sin injerencia del personal jurisdiccional; ejerciendo esta facultad en acuerdo con la Coordinación Estatal de Gestión, cuando deba intervenir un juez adscrito a un juzgado o partido judicial, distinto de aquél en el que deba actuar;
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE RECURSOS HUMANOS
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VII. Recibir, inventariar, custodiar y entregar los bienes y valores que se encuentren a disposición de los juzgados;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VIII. Designar el Tribunal de Enjuiciamiento; ejerciendo esta facultad en acuerdo con la Coordinación Estatal de Gestión, cuando deba integrar dicho órgano un juez adscrito a un juzgado o partido judicial, distinto de aquél en el que deba actuar;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+IX. Supervisar la captura veraz y oportuna en los programas o sistemas informáticos implementados por la Dirección de informática, de los indicadores estadísticos mensuales aprobados por el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Remitir al Consejo de la Judicatura y a la Coordinación Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, durante los primeros cinco días hábiles de cada mes un informe de los indicadores estadísticos mensuales;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Contribuir a la integración de las actuaciones en el sistema electrónico de gestión o de control de los órganos y dependencias del Poder Judicial, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XII. Remitir dentro del improrrogable plazo de veinticuatro horas, las cantidades que le sean depositadas, a la Dirección del Fondo Auxiliar;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIII. Instrumentar y revisar físicamente los expedientes digitalizados de las causas;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIV. Controlar el manejo de registros de los asuntos tramitados ante el Juez;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XV. Supervisar el cotejo de las actuaciones con sus reproducciones, para fidelidad de estos documentos;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XVI. Dar cuenta de la correspondencia al Juez de despacho;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XVII. Tramitar la correspondencia administrativa del Juez;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XVIII. Supervisar el desempeño de los servidores públicos a su cargo;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIX. Auxiliar para el desahogo de las audiencias;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XX. Verificar la funcionalidad del sistema informático para la correcta operatividad del juzgado;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXI. Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXII. Dar cuenta al Juez respectivo de los medios de impugnación que se hagan valer;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIII. Atender los requerimientos que formule la Unidad de Transparencia del Poder Judicial;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIV. Tener a su cargo el archivo del juzgado;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXV. Remitir al Archivo Judicial los asuntos que se encuentren concluidos;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXVI. Supervisar que las audiencias queden registradas en los medios instrumentados para tal efecto;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXVII. Cumplir con las instrucciones que emita el Juez durante las audiencias;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXVIII. Dar cumplimiento con las órdenes del Juez emitidas en audiencia o por escrito para la citación de personas o notificaciones; y
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIX. Las demás que de acuerdo a la naturaleza del cargo le encomiende el Coordinador Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, así como las que determine el Consejo de la Judicatura, esta Ley y otras disposiciones aplicables.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+#### SECCIÓN V. DISPOSICIONES COMUNES
 
 ###### Artículo 62.
 
 Los Jueces de Control y de Enjuiciamiento, el Tribunal de Enjuiciamiento de los Juzgados Penales del Sistema Acusatorio, así como los Jueces de Control, el Tribunal Unitario de Enjuiciamiento y los Jueces de Ejecución Especializados en el Sistema Integral de Justicia Penal Para Adolescentes, y los Jueces de Ejecución Penal, que actúen bajo el régimen del sistema acusatorio en términos de las Leyes Nacionales aplicables, gozarán de fe pública en sus funciones, por lo cual no requerirán la asistencia de los Secretarios de Acuerdos.
 
-### CAPÍTULO TERCERO. DE LOS SECRETARIOS DE ACUERDOS Y DEMÁS SERVIDORES PÚBLICOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE FEBRERO DE 2022)</small>
+
+### CAPÍTULO TERCERO. DE LOS SECRETARIOS DE ACUERDOS, SECRETARIOS INSTRUCTORES Y DEMAS SERVIDORES PÚBLICOS DE LOS JUZGADOS DE PRIMERA INSTANCIA Y TRIBUNALES LABORALES
 
 ###### Artículo 63.
 
@@ -1135,7 +1407,15 @@ VI. No ser ministro de culto alguno;
 
 VII. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo; y
 
-VIII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento ni estar sujeto al mismo por responsabilidad administrativa.
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VIII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento de responsabilidad administrativa por falta grave ni estar sujeto al mismo.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+###### Artículo 63 Bis.
+
+Para ser Secretario Instructor deberán cumplirse los mismos requisitos que ésta Ley establece para ser Secretario de Estudios y Proyectos o Secretario de Acuerdos de Sala.
 
 ###### Artículo 64.
 
@@ -1177,6 +1457,12 @@ XVII. Suplir la ausencias eventuales de los Jueces de Primera Instancia, con fac
 
 XVIII. Las demás que las Leyes y demás ordenamientos le atribuyan, o las autoridades superiores ordenen dentro de sus funciones.
 
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+###### Artículo 64 Bis.
+
+Los Secretarios Instructores de los Tribunales Laborales tendrán las atribuciones señaladas en la Ley Federal del Trabajo, las establecidas en la presente ley para los secretarios de acuerdos en lo que resulten aplicables y en las normas o acuerdos que determine el Pleno del Consejo.
+
 ###### Artículo 65.
 
 Corresponde a los Secretarios de Estudios y Proyectos de Primera Instancia:
@@ -1191,9 +1477,11 @@ IV. Suplir la (sic) ausencias eventuales de los Secretarios de Acuerdos de los J
 
 V. Las demás funciones que les encomiende el Juez, esta Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 66.
 
-Para ser Actuario de un Juzgado de Primera Instancia se requiere:
+Para ser Actuario de un Juzgado de Primera Instancia o de un Tribunal Laboral se requiere:
 
 I. Ser ciudadana o ciudadano sudcaliforniano, en pleno ejercicio y goce de sus derechos civiles y políticos;
 
@@ -1207,17 +1495,27 @@ V. No ser ministro de culto alguno;
 
 VI. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo; y
 
-VII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento ni estar sujeto al mismo por responsabilidad administrativa.
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento de responsabilidad administrativa por falta grave ni estar sujeto al mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 67.
 
-Corresponde a los Actuarios adscritos a los Juzgados de Primera Instancia:
+Corresponde a los Actuarios adscritos a los Juzgados de Primera Instancia o Tribunales Laborales:
 
-I. Permanecer en el Juzgado dentro del horario que al efecto establezca el titular, para hacer las notificaciones a las partes personalmente, cuando aquéllas deban efectuarse en tal forma, sólo en el caso de que los interesados concurran al Juzgado;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-II. Recibir de los Secretarios los expedientes de notificaciones personales o de diligencias que deban llevarse a cabo fuera de la oficina del propio Juzgado, firmando el libro respectivo; y
+I. Permanecer en el Juzgado o Tribunal dentro del horario que al efecto establezca el titular, para hacer las notificaciones a las partes personalmente, cuando aquéllas deban efectuarse en tal forma, sólo en el caso de que los interesados concurran al Juzgado o Tribunal;
 
-III. Las demás que les fijen las Leyes, el Reglamento de la presente Ley y las que las autoridades superiores les ordenen dentro de sus atribuciones legales.
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+II. Recibir del Secretario o Secretario Instructor los expedientes de notificaciones personales o de diligencias que deban llevarse a cabo fuera de la oficina del propio Juzgado o Tribunal, firmando el libro respectivo; y
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+III. Las demás que les fijen las leyes aplicables y las normas o acuerdos que determine el Pleno del Consejo.
 
 ###### Artículo 68.
 
@@ -1615,9 +1913,13 @@ IV. Resolver respecto de los procedimientos en contra del personal adscrito a lo
 
 En el caso de los miembros del Consejo de la Judicatura, tendrá atribuciones para sustanciar y resolver el procedimiento de responsabilidad administrativa de los Consejeros, en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur. En estos casos el Consejero imputado deberá excusarse de conocer, tramitar o participar en las sesiones sobre la sustanciación o resolución del procedimiento
 
-Asimismo, resolver los procedimientos de queja administrativa en contra de los auxiliares de la administración de justicia en términos de esta Ley y del Reglamento de Auxiliares de la Administración de Justicia.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
-V. Ordenar, por conducto del Presidente del Pleno del Consejo, que se haga la denuncia que corresponda ante el ministerio público en los casos de la posible comisión de delitos oficiales imputables a los servidores públicos subordinados al Consejo y que deban ser sancionados por las autoridades competentes;
+Asimismo, resolver los procedimientos de queja administrativa presentadas en contra de los auxiliares de la administración de justicia, cuya calidad como tal requiera de la autorización, aprobación o determinación del Consejo de la Judicatura, así como de los especialistas públicos y privados a que se refiere la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+V. Resolver el recurso de reclamación en contra de las resoluciones del Visitador General dentro de los procedimientos por queja administrativa presentadas contra especialistas privados a que se refiere la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
 
 VI. Resolver sobre las renuncias que presenten a sus cargos los servidores públicos del Poder Judicial; con excepción de las que presenten los Magistrados;
 
@@ -1671,7 +1973,9 @@ XXVIII. Autorizar, de manera conjunta con el Pleno del Tribunal, durante el mes 
 
 XXIX. Crear las áreas, direcciones, unidades u órganos técnicos necesarios para la realización de sus atribuciones y de acuerdo al presupuesto;
 
-XXX. Supervisar directamente o a través de las Comisiones o de los órganos de control interno, el funcionamiento de las direcciones, unidades y de los órganos técnicos, desconcentrados y descentralizados del Poder Judicial;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXX. Supervisar directamente, o a través de las Comisiones, o de los órganos de control interno, el funcionamiento de los órganos jurisdiccionales, las direcciones, unidades y de los órganos técnicos, desconcentrados y descentralizados del Poder Judicial;
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1713,7 +2017,9 @@ III. Tener a su cargo a los Juzgados Penales del Sistema Acusatorio, y autorizar
 
 IV. Llamar a su presencia a los Jueces para tratar asuntos relacionados con la buena marcha de la Administración de Justicia y requerir en cualquier tiempo, copia de diligencias o actuaciones, o los expedientes originales que se tramiten en los Juzgados, cuidando de no interrumpir los términos previstos en la Ley y el regular procedimiento;
 
-V. Llamar a su presencia a los Coordinadores Administrativos de los Juzgados Penales del Sistema Acusatorio para asuntos relacionados con la buena marcha de la Administración de los mismos y requerir en cualquier tiempo, informe del desempeño de los funcionarios y empleados a su cargo, en ejercicio de las funciones encomendadas;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+V. Llamar a su presencia al Coordinador Estatal de Gestión y a los Administradores de Gestión Jurídico Administrativa de los Juzgados Penales del Sistema Acusatorio para asuntos relacionados con la buena marcha de la Administración de los mismos y requerir en cualquier tiempo, informe del desempeño de los funcionarios y empleados a su cargo, en ejercicio de las funciones encomendadas;
 
 VI. Vigilar el debido cumplimiento de los acuerdos del Pleno del Consejo y de los que él mismo dictare;
 
@@ -1731,7 +2037,9 @@ XII. Recibir la protesta de los servidores públicos a su cargo, y requerir a é
 
 XIII. Poner en conocimiento del Pleno del Consejo las solicitudes de licencia por más de quince y hasta por treinta días de los Jueces y demás servidores públicos del Poder Judicial;
 
-XIV. Poner en conocimiento del Pleno del Consejo las faltas absolutas y temporales de los Jueces, Coordinadores Administrativos de Juzgados, Secretarios y demás servidores públicos del Poder Judicial, para efectos de nombrar los sustitutos;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIV. Poner en conocimiento del Pleno del Consejo las faltas absolutas y temporales de los Jueces, del Coordinador Estatal de Gestión y de los Administradores de Gestión Jurídico Administrativa de Juzgados, Secretarios y demás servidores públicos del Poder Judicial, para efectos de nombrar los sustitutos;
 
 XV. Tener bajo su cargo a las dependencias del Poder Judicial;
 
@@ -1765,7 +2073,13 @@ XXVIII. Celebrar convenios de colaboración con el Poder Judicial de la Federaci
 
 XXIX. Designar al servidor público que deberá suplir al Secretario Ejecutivo en sus ausencias eventuales, temporales y absolutas; y
 
-XXX. Conocer de los demás asuntos que le encomienden las Leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXX. Ser integrante del Comité Coordinador del Sistema Estatal Anticorrupción.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXI. Conocer de los demás asuntos que le encomienden las Leyes.
 
 ### CAPITULO QUINTO. DEL SECRETARIO EJECUTIVO
 
@@ -1793,9 +2107,11 @@ El Reglamento de la materia establecerá las categorías que integran la Carrera
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 120.
 
-Los Magistrados, Consejeros de la Judicatura, Jueces, Secretarios, así como Jefes de Unidad, Encargados de Área, Actuarios y Notificadores deberán excusarse cuando estén impedidos para conocer de los asuntos por las causas a que aluden las Leyes de la materia respectiva.
+Los Magistrados, Consejeros de la Judicatura, Jueces, Secretarios, así como los Administradores de Gestión Jurídico Administrativa de Juzgado, Actuarios, Notificadores y en general los servidores públicos obligados, deberán excusarse cuando estén impedidos para conocer de los asuntos por las causas a que aluden las Leyes de la materia respectiva.
 
 Las personas que hayan ocupado el cargo de Magistrado, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial, excepto cuando se trate de sus propios derechos, de los de su cónyuge, concubinario, de los de sus ascendientes, descendientes o de los correspondientes a las personas que estén bajo su patria potestad.
 
@@ -1805,9 +2121,15 @@ No podrán reunirse en el Tribunal o en el Consejo dos o más Magistrados o Cons
 
 Tampoco podrán desempeñar sus funciones en un mismo órgano o dependencia, dos o más servidores públicos que tengan entre sí la relación o el parentesco a que se refiere el párrafo que antecede.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 122.
 
-Los servidores públicos del Poder Judicial no podrán actuar como árbitros, y están impedidos para el ejercicio de la abogacía y la procuración, excepto cuando se trate de sus propios derechos, de los de su cónyuge, concubinario, de los de sus ascendientes, descendientes o de los correspondientes a las personas que estén bajo su patria potestad.
+Los servidores públicos del Poder Judicial no podrán actuar como árbitros. Están impedidos para el ejercicio de la abogacía y la procuración, así como ejercer como apoderado legal o judicial, curador o albacea, excepto cuando se trate de sus propios derechos, de los de su cónyuge, concubinario, de sus ascendientes, descendientes o parientes hasta el cuarto grado.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+El incumplimiento de esta disposición será considerado una falta administrativa grave.
 
 ###### Artículo 123.
 
@@ -1835,15 +2157,19 @@ VI. Los síndicos, interventores, albaceas, tutores, curadores, depositarios y l
 
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VII.- El Director General de Ejecución Prevención y Reinserción Social;
+VII. El Director General de Ejecución Prevención y Reinserción Social;
 
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Los servidores públicos de quienes los órganos jurisdiccionales o el Consejo de la Judicatura requieran su cooperación o auxilio para cumplir con sus atribuciones legales; y
+VIII. Los servidores públicos de quienes los órganos jurisdiccionales o el Consejo de la Judicatura requieran su cooperación o auxilio para cumplir con sus atribuciones legales; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
 
-IX.- Todos los demás a quienes las Leyes les confieran ese carácter.
+IX. Los especialistas públicos y privados a que se refiere la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Todos los demás a quienes las Leyes les confieran ese carácter.
 
 ###### Artículo 125.
 
@@ -1912,6 +2238,10 @@ En los asuntos del orden penal, cuando no estuvieren designados especialmente po
 ###### Artículo 133.
 
 En los asuntos civiles, mercantiles, familiares, penales, de justicia administrativa o fiscal, las partes interesadas podrán nombrar libremente los peritos que les convengan. Los peritos nombrados por las partes o en su rebeldía por el Juez, serán remunerados por aquéllas en los términos del convenio o contrato respectivo y, a falta de convenio o contrato, conforme al arancel previsto en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+En los asuntos laborales la designación de peritos se realizará conforme lo señala la Ley Federal del Trabajo, corriendo a cargo de la parte oferente de la prueba pericial la remuneración de los honorarios que correspondan o en su caso, el arancel previsto en la presente Ley.
 
 ###### Artículo 134.
 
@@ -2003,7 +2333,9 @@ f) Electricidad;
 
 g) Cerrajería;
 
-h) Traductor e intérprete de idiomas;
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+h) Traductor, intérprete de idiomas, lenguas indígenas o lenguaje de señas;
 
 i) Traducción e intérprete auditivo – oral;
 
@@ -2215,7 +2547,7 @@ XIII. Instrumentar y operar el Programa Interno de Protección Civil, de conform
 
 XIV. Las demás que señale el Reglamento interno, así como las que por la naturaleza de sus funciones le confieran el Pleno del Consejo o su Presidente.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE NÓMINA
+#### SECCIÓN I. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ###### Artículo 146.
 
@@ -2239,7 +2571,7 @@ V. Hacer entrega en cualquier momento al órgano de control interno, la informac
 
 VI. Las demás que señale el Reglamento interno, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo, su presidente, o el Oficial Mayor.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE ADQUISICIONES
+#### SECCIÓN II. DE LA DIRECCIÓN DE NÓMINA
 
 ###### Artículo 148.
 
@@ -2271,7 +2603,7 @@ VIII. Hacer entrega en cualquier momento al órgano de control interno, la infor
 
 IX. Las atribuciones que le sean designadas por disposiciones legales y las que confieran el Pleno del Consejo, su presidente, o el Oficial Mayor de acuerdo a la naturaleza de sus funciones.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PLANEACIÓN
+#### SECCIÓN III. DE LA DIRECCIÓN DE ADQUISICIONES
 
 ###### Artículo 150.
 
@@ -2301,7 +2633,7 @@ VII. Tener a su cargo la organización y el cumplimiento de las actividades del 
 
 VIII. Las demás que señalen las leyes, reglamentos, acuerdos generales o cualquier cuerpo normativo que con motivo del servicio público desempeñado le sea aplicable, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo, su Presidente o el Oficial Mayor.
 
-#### SECCIÓN V. DEL COMITÉ DE ADQUISICIONES
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PLANEACIÓN
 
 ###### Artículo 152.
 
@@ -2327,7 +2659,7 @@ VII. Coordinar la elaboración, de manuales de organización y de procedimientos
 
 VIII. Las demás que el Pleno del Consejo, su presidente, o el Oficial Mayor le asignen en uso de sus facultades.
 
-#### SECCIÓN I. DE LAS COSTAS
+#### SECCIÓN V. DEL COMITÉ DE ADQUISICIONES
 
 ###### Artículo 153.
 
@@ -2421,7 +2753,9 @@ El Fondo Auxiliar para la Administración de Justicia se integrará por recursos
 
 Los recursos propios estarán integrados por multas, cauciones hechas efectivas por parte de la autoridad jurisdiccional, intereses devengados, producto de decomisos y de bienes declarados abandonados, en los términos establecidos por el Código Nacional de Procedimientos Penales, así como el cobro de derechos que establezcan las leyes o reglamentos, ingresos de entidades productivas y recursos institucionales provenientes del subsidio estatal.
 
-Los recursos ajenos se integrarán por depósitos de pensiones alimentarias, depósitos en efectivo o en valores que por concepto de garantías, reparación de daño, consignaciones de pago a terceros, así como aquellos de que con arreglo a la ley por cualquier causa se realicen ante los órganos jurisdiccionales y se encuentre (sic) sujetos a procedimiento. Estos recursos serán inembargables por constituir prenda o garantías de víctimas, acreedores o justiciables.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Los recursos ajenos se integrarán por depósitos de pensiones alimentarias, depósitos en efectivo o en valores que, por concepto de garantías, fianzas, remates, pagos en efectivo o de valores de ejecuciones de sentencia o remates, las posturas legales, consignaciones por convenios celebrados durante el juicio o en ejecución cuando estos fueron celebrados ante el Centro de Conciliación Laboral del Estado, por allanamiento al pliego petitorio del contrato colectivo, depósitos de finiquitos, reparación de daño, consignaciones de pago a terceros, así como aquellos de que con arreglo a la ley por cualquier causa se realicen ante los órganos jurisdiccionales y se encuentre (sic) sujetos a procedimiento. Estos recursos serán inembargables por constituir prenda o garantías de víctimas, acreedoras o justiciables.
 
 ###### Artículo 160.
 
@@ -2433,21 +2767,45 @@ II. Vigilar que los órganos del Poder Judicial envíen en tiempo y forma la doc
 
 III. Coordinar el trámite para la devolución de garantías a través de los órganos jurisdiccionales del Poder Judicial;
 
-IV. Llevar la contabilidad de los recursos que integran el fondo auxiliar;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
 
-V. Emitir mensualmente informe de estados financieros al Presidente del Consejo de la Judicatura;
+IV. Representar al Fondo Auxiliar para la Administración de Justicia con todas las facultades inherentes al contrato de mandato.
 
-VI. Proponer al Pleno del Consejo, las inversiones a realizar, para obtener un mejor rendimiento, quedando estrictamente prohibidas las que pongan en riesgo el patrimonio del Fondo Auxiliar;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
 
-VII. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+V. Actuar como auxiliar de la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, para todos los asuntos relacionados a la requisición de pago a las Instituciones Afianzadoras, cuando la Autoridad Judicial haya ordenado hacer efectivas las fianzas o cualquier otro tipo de garantía o depósito.
 
-VIII. Las demás que señale el Reglamento de la presente Ley, así como las que por la naturaleza de sus funciones le confieran el Pleno del Consejo o su Presidente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. Actuar como órgano ejecutor, auxiliar de la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, dentro del procedimiento de ejecución de multas de naturaleza jurisdiccional, de conformidad a los ordenamientos aplicables.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+VII. Llevar la contabilidad de los recursos que integran el fondo auxiliar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+VIII. Emitir mensualmente informe de estados financieros al Presidente del Consejo de la Judicatura;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+IX. Proponer al Pleno del Consejo, las inversiones a realizar, para obtener un mejor rendimiento, quedando estrictamente prohibidas las que pongan en riesgo el patrimonio del Fondo Auxiliar;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Las demás que señale el Reglamento de la presente Ley, así como las que por la naturaleza de sus funciones le confieran el Pleno del Consejo o su Presidente.
 
 ###### Artículo 161.
 
 El Fondo Auxiliar para la Administración de Justicia será administrado por el Pleno del Consejo y se integrará con:
 
-I. Los intereses de los depósitos en dinero o en valores que por cualquier concepto se efectúen ante los órganos y dependencias del Poder Judicial, además de las multas, sanciones, garantías que se hagan efectivas, así como derechos y aprovechamientos que permita la legislación aplicable;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+I. Los intereses de los depósitos en dinero o en valores que por cualquier concepto se efectúen ante los órganos y dependencias del Poder Judicial, además de las multas, sanciones o garantías, impuestas por los órganos jurisdiccionales, que se hagan efectivas, así como derechos, productos o aprovechamientos que permita la presente Ley;
 
 II. Con el producto de los objetos o instrumentos materia del delito cuando no sean reclamados por su propietario o por quien tenga derecho a ellos, dentro de los términos establecidos en el Código Nacional de Procedimientos Penales;
 
@@ -2461,9 +2819,35 @@ V. La caución exhibida por el inculpado para garantizar su buena conducta proce
 
 VI. Con las donaciones, aportaciones y recursos institucionales a favor del Fondo Auxiliar.
 
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VII. La venta de las bases de licitación que se publiquen por parte del Consejo de la Judicatura, para participar en cualquier concurso de licitación pública donde sea parte el Poder Judicial;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VIII. Cualquier otra cantidad de dinero que, por resolución judicial, se determine deba destinarse al mejoramiento de la administración de justicia;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+IX. Los aprovechamientos generados por el otorgamiento de permisos administrativos;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Los ingresos derivados del Servicio de Fotocopiado, el refrendo de peritos y los que pudiere determinar el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Las cuotas de recuperación o cualquier otro ingreso que se generen por la Escuela Judicial, serán administradas por el Fondo Auxiliar; y
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XII. Las demás que le confieran las Leyes y Reglamentos, así como los Acuerdos del Pleno del Consejo de la Judicatura;
+
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 162.
 
-Los depósitos que se hagan en efectivo mediante transferencia bancaria, en título, documentos o billetes de depósito, ante los órganos y dependencias del Poder Judicial deberán hacerse a nombre del “Consejo de la Judicatura del Estado de Baja California Sur”.
+Los depósitos que se hagan en efectivo mediante transferencia bancaria, en título, documentos o billetes de depósito, pólizas de fianzas o garantías y posturas legales, ante los órganos y dependencias del Poder Judicial deberán hacerse a nombre del Consejo de la Judicatura en el Estado de Baja California Sur.
 
 ###### Artículo 163.
 
@@ -2474,6 +2858,10 @@ Todo depósito mediante transferencia bancaria, título, documento, billete de d
 ###### Artículo 164.
 
 Las cantidades por reintegrar que reciba la Dirección del Fondo Auxiliar, serán reintegradas al beneficiario o depositante, pudiendo ser utilizadas por éstos para el pago de sanciones pecuniarias, beneficios o reparación del daño, según proceda, mediante orden por escrito del titular del órgano correspondiente únicamente.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+En materia laboral, la Dirección del Fondo Auxiliar deberá, una vez cubierto el crédito a la parte actora y a los demás acreedores si los hubiere, reintegrar al demandado los remanentes derivados de los remates de los bienes embargados de su propiedad por ejecución de sentencia o de convenio celebrado ante el Centro de Conciliación del Estado.
 
 ###### Artículo 165.
 
@@ -2560,6 +2948,100 @@ El Director del Centro Estatal de Justicia Alternativa tendrá las atribuciones 
 ###### Artículo 174.
 
 El Director del Centro Estatal de Justicia Alternativa deberá asegurarse de que los convenios en que aquel intervenga, sean redactados de forma clara y en términos que hagan materialmente posible su ejecución, y no tengan vicios del consentimiento, o estipulaciones contrarias al derecho, la moral o las buenas costumbres; las mismas previsiones deberá observar para la aprobación y registro de los convenios celebrados por Especialistas Privados.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+###### Artículo 174 Bis.
+
+La responsabilidad administrativa de los especialistas públicos se determinará de conformidad con las normas aplicables a los servidores públicos del Poder Judicial del Estado de Baja California Sur.
+
+El procedimiento para sancionar a los especialistas privados por infracciones a la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur y, o, su Reglamento, se sustanciará con las normas adjetivas de dicho Reglamento y de conformidad con las siguientes bases normativas:
+
+I. El procedimiento para sancionar las infracciones de los especialistas privados podrá iniciar por quejas, denuncias de particulares y, o, con motivo de los reportes de visita de supervisión y monitoreo que realice el Centro Estatal de Justicia Alternativa;
+
+Las denuncias podrán ser anónimas. En su caso, las autoridades investigadoras mantendrán con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
+
+La autoridad sustanciadora del procedimiento será el Visitador General y la que resuelva el fondo del asunto o el recurso de reclamación, señalado en el presente artículo, será el Pleno del Consejo de la Judicatura del Estado de Baja California Sur.
+
+II. La facultad del Pleno del Consejo de la Judicatura del Estado de Baja California Sur, para imponer las sanciones correspondientes prescribirán en cinco años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
+
+Los plazos a los que se refiere la presente fracción se computarán en días naturales.
+
+III. El escrito de queja o denuncia, excepto en el caso de denuncia anónima, deberán cumplir con los requisitos formales y presentarse con los anexos establecidos en el Reglamento de la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
+
+Cuando el quejoso o denunciante no anónimo, según lo establecido en el párrafo anterior, omita señalar en su escrito su nombre y apellidos, firma autógrafa o huella dactilar, de ser el caso, el Visitador General desechará por improcedente la queja administrativa interpuesta.
+
+Cuando se omita cualquier otro requisito formal en el escrito de queja o denuncia o se omita el señalamiento de las pruebas que ofrezca, el Visitador General requerirá al quejoso para que los señale dentro del plazo de cinco días hábiles, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la queja administrativa o por no ofrecidas las pruebas, según corresponda.
+
+IV. Dentro del plazo de cinco días hábiles, contados a partir del siguiente a aquel en que hubiere recibido el escrito de queja, el Visitador General la prevendrá, la admitirá o la desechará, según sea el caso.
+
+V. Se desechará la queja administrativa en los casos siguientes:
+
+a) Si la queja se presenta contra actos u omisiones que hayan sido consentidos expresa o tácitamente, entendiéndose por éstos, aquellos contra los que no se promovió la queja administrativa antes de actualizarse el plazo de prescripción;
+
+b) Cuando se presente queja administrativa, por la vía que regula el presente artículo, contra Especialistas Públicos u otros servidores públicos del Poder Judicial del Estado de Baja California Sur, contra servidores públicos de otros poderes locales o federales o servidores públicos de órganos con autonomía constitucional;
+
+c) Contra actos u omisiones que hayan sido materia de resolución de otra queja administrativa;
+
+d) Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto u omisión materia de la queja;
+
+e) Cuando los actos u omisiones atribuidos en la queja no devengan del ejercicio de la función de Especialista Privado;
+
+f) Cuando hayan cesado los efectos del acto u omisión atribuidos en la queja o éstos no puedan surtir efecto legal o material alguno;
+
+g) Cuando la queja administrativa devenga en improcedente con motivo de alguna disposición legal; y
+
+h) Si la queja fuere obscura o irregular, y habiéndose prevenido al quejoso para subsanarla, este no lo hiciere en el plazo de cinco días hábiles.
+
+Aquellas quejas notoriamente frívolas e improcedentes se desecharán de plano, fundando y motivando la resolución de trámite que al efecto proceda.
+
+VI. Admitida la queja se correrá traslado de ella y sus anexos al o los Especialistas Privados a quienes se atribuyan actos u omisiones irregulares, para que sea contestada mediante informe, dentro de los quince días hábiles siguientes a aquél en que se practique su notificación.
+
+Si no se produce la contestación en tiempo y forma, o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el quejoso impute de manera precisa al Especialista Privado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
+
+VII. El informe a que se refiere la fracción que antecede deberá cumplir con los requisitos formales y presentarse con los anexos establecidos en el Reglamento de la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
+
+VIII. Una vez presentado el informe del Especialista Privado, el Visitador General dictará dentro de los cinco días hábiles siguientes el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo, fijándose fecha, hora y lugar para la celebración de la audiencia respectiva.
+
+Concluida la audiencia de desahogo de pruebas, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, el órgano sustanciador declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para la parte quejosa y el Especialista Privado.
+
+IX. Una vez trascurrido el periodo de alegatos, el Visitador General, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda.
+
+El Visitador General turnará el expediente respectivo con un proyecto de resolución al Pleno del Consejo de la Judicatura del Estado. La resolución definitiva deberá dictarse en un plazo no mayor a treinta días hábiles, siguientes a la fecha de cierre de instrucción, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera debiendo expresar los motivos para ello.
+
+Contra la resolución definitiva que emita el Pleno del Consejo no procederá recurso alguno.
+
+X. El Pleno del Consejo de la Judicatura fundará y motivará su Resolución tomando en cuenta los siguientes elementos:
+
+a) Los daños y perjuicios causados al patrimonio del Poder Judicial del Estado de Baja California Sur por los actos u omisiones, si fuere el caso;
+
+b) Los antecedentes del infractor, entre ellos la antigüedad como especialista;
+
+c) Las circunstancias socioeconómicas del infractor;
+
+d) Las condiciones exteriores y los medios de ejecución;
+
+e) La reincidencia en el incumplimiento de la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur y, o, su Reglamento, y
+
+f) El monto del beneficio derivado de la infracción que haya obtenido el responsable, si fuere el caso.
+
+XI. Las sanciones que imponga el Consejo de la Judicatura del Estado a los Especialistas Privados, derivado de los procedimientos por la infracción a la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur y, o, su Reglamento, consistirán en:
+
+a) Amonestación pública o privada;
+
+b) Multa de 20 hasta 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+c) Suspensión temporal de la certificación otorgada por el Centro Estatal de Justicia Alternativa de Baja California Sur; y
+
+d) Revocación de la certificación otorgada por el Centro Estatal de Justicia Alternativa de Baja California Sur.
+
+XII. Contra las resoluciones del Visitador General que admitan, desechen o tengan por no presentadas la queja administrativa, el informe del Especialista Privado o alguna prueba procederá el recurso de reclamación, el cual será resuelto por el Pleno del Consejo de la Judicatura en los términos señalados en el Reglamento de la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
+
+Contra la resolución al recurso de reclamación que emita el Pleno del Consejo de la Judicatura no se admitirá recurso alguno.
+
+XIII. Si resuelta la queja administrativa, la autoridad resolutora determinase que, en la misma, el quejoso alegó con dolo hechos falsos u ofreció y se desahogaron como pruebas documentos o testigos falsos, se formularán las denuncias penales a que haya lugar.
+
+En sentido análogo, si resuelta la queja administrativa, la autoridad resolutora determinase que, en la misma, el especialista privado alegó con dolo hechos falsos u ofreció y se desahogaron como pruebas documentos o testigos falsos, se formularán las denuncias penales a que haya lugar.
 
 ### CAPÍTULO SEXTO. DE LA ESCUELA JUDICIAL
 
@@ -2653,9 +3135,11 @@ XIII. Las demás que señale el Reglamento, así como las que por la naturaleza 
 
 ### CAPÍTULO OCTAVO. DE LA VISITADURÍA JUDICIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 182.
 
-La Visitaduría Judicial es una dependencia auxiliar del Pleno del Consejo y de su Presidente, competente para inspeccionar el funcionamiento de las Salas, los juzgados del Poder Judicial, la Central de Actuarios, Oficialías de Partes, Centro Estatal de Justicia Alternativa y sus unidades, las Coordinaciones Administrativas de Juzgados y demás órganos relacionados con la administración de justicia, así como para supervisar el desempeño profesional de sus integrantes en el ejercicio de sus funciones.
+La Visitaduría Judicial es una dependencia auxiliar del Pleno del Consejo y de su Presidente, competente para inspeccionar el funcionamiento de las Salas, los juzgados del Poder Judicial, la Central de Actuarios, Oficialías de Partes, Centro Estatal de Justicia Alternativa y sus unidades, las Administraciones de Gestión Jurídico Administrativa de Juzgado y demás órganos relacionados con la administración de justicia, así como para supervisar el desempeño profesional de sus integrantes en el ejercicio de sus funciones.
 
 La Visitaduría Judicial estará integrada por el Visitador General, visitadores auxiliares y el personal administrativo que determine el Pleno del Consejo con base al presupuesto del Poder Judicial.
 
@@ -2677,9 +3161,13 @@ El Visitador General tendrá las siguientes atribuciones:
 
 I. Practicar visitas ordinarias y extraordinarias a los diversos órganos del Poder Judicial para verificar el cumplimiento de las disposiciones legales y las emitidas por el pleno del Consejo o por su presidente;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE FEBRERO DE 2022)</small>
 
-II. Fungir como autoridad investigadora en los términos establecidos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a los órganos jurisdiccionales del Poder Judicial, con excepción de los Magistrados, Visitador General y Visitadores Auxiliares;
+II. Fungir como autoridad investigadora en los términos establecidos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a los órganos jurisdiccionales del Poder Judicial, así como de los Especialistas Públicos a los que se refiere la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Se exceptuará la facultad de investigación tratándose de los Magistrados, Consejeros, Visitador General y Visitadores Auxiliares.
 
 III. Examinar los expedientes formados por motivo de las causas radicadas en los juzgados, así como los expedientes formados con motivo de los tocas de las Salas, que se estime conveniente a fin de verificar que se lleven con arreglo a la ley, si las resoluciones o acuerdos han sido dictados y cumplidos oportunamente, si las notificaciones y diligencias se efectuaron en los plazos legales, si se han respetado los términos constitucionales y derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales suscritos por el Estado Mexicano, y la Constitución Política del Estado Libre y Soberano de Baja California Sur;
 
@@ -2701,11 +3189,15 @@ XI. Instrumentar en la esfera de su competencia y bajo los lineamientos, la dire
 
 XII. Delegar sus atribuciones a los visitadores auxiliares, para el cumplimiento de las funciones de la Visitaduría; y
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
 
-XIII. Las demás que señalen las Leyes y Reglamentos, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo o su Presidente.
+XIII. Sustanciar hasta el estado de resolución las quejas administrativas que los mediados, a que se refiere la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur, presenten contra los Especialistas Privados;
 
-Contra las actuaciones, acuerdos o resoluciones emitidas por la Visitaduría Judicial no procederá recurso ordinario alguno.
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIV. Las demás que señalen las Leyes y Reglamentos, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo o su Presidente.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 185.
 
@@ -2945,9 +3437,11 @@ IX. Las demás que determine el Reglamento, el Pleno del Consejo y su Presidente
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LAS OFICIALÍAS DE PARTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 200.
 
-La Oficialía de Partes es una dependencia de apoyo judicial, subordinada a la Presidencia del Consejo de la Judicatura, y tiene por objeto recibir los escritos, oficios y correspondencia dirigidos al Pleno, la Presidencia y las Salas del Tribunal Superior de Justicia, así como Juzgados de Primera Instancia del Poder Judicial.
+La Oficialía de Partes es una dependencia de apoyo judicial, subordinada a la Presidencia del Consejo de la Judicatura, y tiene por objeto recibir los escritos, oficios y correspondencia dirigidos al Pleno, la Presidencia y las Salas del Tribunal Superior de Justicia, así como Juzgados de Primera Instancia y Tribunales Laborales del Poder Judicial.
 
 Las Oficialías de Partes Comunes podrán contar con un Coordinador que dependerá de la Presidencia del Consejo de la Judicatura, y contará con el personal administrativo que determine el Pleno del mismo, de acuerdo con el presupuesto del Poder Judicial.
 
@@ -3211,25 +3705,29 @@ III. El particular, sea persona física o moral, señalado como presunto respons
 
 IV. Los terceros, que son todos aquellos a quienes pueda afectar la resolución que se dicte en el procedimiento de responsabilidad administrativa, incluido el denunciante.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 233.
 
-Los Magistrados, Consejeros de la Judicatura, Jueces, Coordinadores Administrativos y Jefes de Unidad de los Juzgados del Sistema Penal Acusatorio, Secretario General de Acuerdos del Pleno y la Presidencia, Secretario Ejecutivo del Consejo de la Judicatura, Secretario Particular, Secretarios Auxiliares, Secretarios de Acuerdos y Secretarios de Estudios y Proyectos de Primera y Segunda Instancia, Actuarios y Notificadores; así como los Titulares y Jefes de Departamento de las dependencias administrativas del Poder Judicial, y demás servidores públicos que determine la Ley, estarán obligados a presentar declaraciones de situación patrimonial, de intereses y fiscal, ante la instancia competente en términos de las Leyes Generales y las que en el ámbito estatal normen el Sistema Estatal Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos, debiendo entregar copia a la Contraloría del Poder Judicial.
+Los Magistrados, Consejeros de la Judicatura, Jueces, Coordinador Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, Administradores de Gestión Jurídico Administrativa de Juzgado y el personal a su cargo, Secretario General de Acuerdos del Pleno y la Presidencia, Secretario Ejecutivo del Consejo de la Judicatura, Secretario Particular, Secretarios Auxiliares, Secretarios de Acuerdos y Secretarios de Estudios y Proyectos de Primera y Segunda Instancia, Secretarios Instructores de los Tribunales Laborales, Actuarios y Notificadores; así como los Titulares y Jefes de Departamento de las dependencias administrativas del Poder Judicial, y demás servidores públicos que determine la Ley, estarán obligados a presentar declaraciones de situación patrimonial, de intereses y fiscal, ante la instancia competente en términos de las Leyes Generales y las que en el ámbito estatal normen el Sistema Estatal Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 234.
 
-Todo servidor público del Poder Judicial, será sujeto de responsabilidad de conformidad a lo establecido por la Constitución Política del Estado y la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, teniendo la obligación de salvaguardar los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público y cuyo incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan.
+Todo servidor público del Poder Judicial, será sujeto de responsabilidad de conformidad a lo establecido por la Constitución Política del Estado, la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y la presente Ley, teniendo la obligación de salvaguardar los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público y cuyo incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 235.
 
-Son causas de responsabilidad para los servidores públicos del Poder Judicial:
+Además de las faltas administrativas establecidas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, son causas de responsabilidad para los servidores públicos del Poder Judicial:
 
 I. Ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó, o de haber sido cesado por cualquier otra causa, en el ejercicio de sus funciones;
 
-II. Disponer o autorizar a un subordinado para inasistir sin causa justificada a sus labores, así como otorgar indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio no lo requiera;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+II. Otorgar indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo y otras percepciones;
 
 III. Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la Ley prohíba, con excepción de la docencia;
 
@@ -3247,33 +3745,49 @@ IX. Impedir en los procedimientos judiciales que las partes ejerzan los derechos
 
 X. Omitir informar al Presidente del Tribunal o del Consejo de la Judicatura, según corresponda, cualquier acto tendiente a vulnerar la independencia de la función judicial;
 
-XI. Dejar de preservar la ética, dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-XII. Ausentarse durante su jornada de trabajo, de la residencia del órgano al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo, sin la autorización correspondiente;
+XI. Dejar de preservar la ética, dignidad, imparcialidad o profesionalismo propios de la función judicial en el desempeño de sus labores;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-XIII. El incumplimiento de las obligaciones o abstenciones específicas o generales preceptuadas en leyes, ordenamientos procesales, reglamentos, acuerdos generales o cualquier cuerpo normativo obligatorio para el empleo, cargo o comisión desempeñado, así como las previstas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
+XII. Ausentarse durante su jornada de trabajo del órgano jurisdiccional o dependencia al que esté adscrito sin la autorización correspondiente, o dejar de desempeñar las funciones o las labores que tenga a su cargo, sin causa justificada;
 
-XIV. Concurrir a sus labores en estado de ebriedad o bajo el influjo de cualquier droga;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-XV. Consumir drogas;
+XIII. Dejar de dar cuenta al superior jerárquico, de los actos u omisiones que se hubiere percatado, cometidos por particulares, que causen algún daño al patrimonio del Poder Judicial o a cualquier documento de carácter administrativo o jurisdiccional.
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIV. Concurrir a sus labores bajo el influjo de bebidas alcohólicas o de narcóticos o substancias psicotrópicas definidas y enumeradas en la Ley General de Salud, salvo prescripción médica;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XV. Consumir en el centro de trabajo bebidas alcohólicas o narcóticos o substancias psicotrópicas definidas y enumeradas en la Ley General de Salud, salvo prescripción médica;
 
 XVI. Dar uso inadecuado al equipo de cómputo, electrónico o de cualquier otro tipo que se le haya facilitado para el desarrollo de sus labores, o el que exista en su área de adscripción;
 
-XVII. Revelar información de los asuntos que conozca con motivo del ejercicio de su función;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XVII. Revelar información de los asuntos que conozca con motivo del ejercicio de su función o de aquella que obtenga de manera indebida;
 
 XVIII. Destruir, mutilar, ocultar o alterar expedientes, registros, documentos o dispositivos de almacenamiento de datos de cualquier órgano o dependencia del Poder Judicial;
 
-XIX. Obstaculizar el normal desarrollo de la práctica de las visitas programadas por las autoridades del Poder Judicial;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XIX. Obstaculizar el normal desarrollo de la práctica de las visitas autorizadas a los diversos órganos jurisdiccionales o dependencias del Poder Judicial;
 
 XX. Asignar a los servidores públicos a su cargo, labores ajenas a sus funciones;
 
 XXI. Tratar a los litigantes, abogados y público en general, así como a los demás integrantes del Poder Judicial, con desatención o despotismo;
 
-XXII. Recibir gratificaciones de las partes con motivo de las diligencias en que participe por razón de su encargo;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-XXIII. Inobservar el debido respeto hacia sus superiores jerárquicos, inmediatos o mediatos;
+XXII. Recibir gratificaciones indebidas con motivo del ejercicio de sus funciones;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIII. Inobservar el debido respeto hacia los servidores públicos del Poder Judicial;
 
 XXIV. Incumplir las disposiciones que sus superiores jerárquicos dicten en el cumplimiento de sus atribuciones, o bien realizarlos con falta de diligencia;
 
@@ -3281,23 +3795,51 @@ XXV. Participar en actos de comercio dentro del horario de trabajo, en las insta
 
 XXVI. Inasistir o asistir impuntualmente de manera reiterada a los actos oficiales del Poder Judicial a que sea convocado, o a los cursos de capacitación que se le indiquen;
 
-XXVII. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores o de gestión;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-XXVIII. Incurrir en alguna de las conductas previstas por el Título Décimo Sexto del Código Penal para el Estado Libre y Soberano de Baja California Sur;
+XXVII. Incumplir, durante el tiempo que comprendan las campañas electorales y hasta su conclusión, las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las establecidas en la Ley Electoral del Estado de Baja California Sur, en materia de propaganda gubernamental y de informes de labores o de gestión;
 
-XXIX. Incumplir los requerimientos que en ejercicio de sus atribuciones les formulen los órganos de control interno del Poder Judicial;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXVIII. Incurrir en alguna de las conductas previstas como delitos por hechos de corrupción de servidores públicos, establecidos en el Código Penal para el Estado Libre y Soberano de Baja California Sur, que no se encuentren señaladas en la presente Ley o en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIX. Incumplir, sin causa justificada, los requerimientos que en ejercicio de sus atribuciones les formulen los órganos de control interno del Poder Judicial;
 
 XXX. Omitir o abstenerse de dictar, sin causa justificada, las resoluciones que deban recaer legalmente a las promociones de las partes o las que procedan en los asuntos de su conocimiento y competencia, dentro de los plazos señalados por la Ley;
 
 XXXI. Omitir presentar ante la Contraloría del Poder Judicial las copias de sus declaraciones de situación patrimonial, de intereses y fiscal, estando obligado a ello en términos de las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos; y
 
-XXXII. Las demás que determinen esta Ley u otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXII. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXIII. Realizar nombramientos, promociones o ratificaciones incumpliendo los requisitos que para el empleo, cargo o comisión exija la normatividad aplicable;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXIV. Llevar a cabo una o más conductas de hostigamiento o acoso sexual, o de hostigamiento o acoso laboral en términos de las definiciones establecidas en el Protocolo para prevenir, atender, sancionar y erradicar el hostigamiento o acoso sexual, así como el hostigamiento o acoso laboral en el Poder Judicial del Estado de Baja California Sur; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXV. Las demás que determinen esta Ley u otros ordenamientos.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Serán consideradas graves las faltas descritas en las fracciones I, VI, VII, VIII, IX, X, XI, XIV, XV, XVII, XVIII, XXII, XXVIII, XXXII, XXXIII y XXXIV del presente artículo.
 
 ###### Artículo 236.
 
 Se consideran faltas administrativas del Presidente del Tribunal Superior de Justicia o del Presidente del Consejo de la Judicatura, así como de los Magistrados y Consejeros, según corresponda, además de las señaladas en el artículo que antecede, las siguientes conductas:
 
-I. Dejar de asistir, sin causa justificada, a los actos o diligencias que requieran su presencia;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+I. Dejar de asistir, sin causa justificada, a las diligencias que requieran su presencia.
+
+En su caso, dejar de asistir sin causa justificada a los actos oficiales que, en representación de algún órgano o autoridad del Poder Judicial del Estado, le sean encomendados.
 
 II. Dictar resoluciones o trámites infundados o notoriamente innecesarios que tiendan a dilatar el proceso sometido a su competencia;
 
@@ -3307,7 +3849,9 @@ IV. Ejercer influencia para que el nombramiento del personal de las Salas o Juzg
 
 V. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento, o emitir opiniones anticipadas sobre los acuerdos y resoluciones de asuntos de su conocimiento a los contendientes o sus abogados;
 
-VI. Asesorar a las partes en asuntos de los que conozca, o del conocimiento de otras autoridades judiciales;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. Asesorar a las partes en asuntos de los que conozca, intervenga, o sean del conocimiento de otras autoridades judiciales;
 
 VII. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legamente les correspondan;
 
@@ -3315,9 +3859,15 @@ VIII. Hacer uso, en perjuicio de las partes, de los medios de apremio sin causa 
 
 IX. Omitir la preservación de la dignidad, imparcialidad y profesionalismo propios de la función jurisdiccional en el desempeño de sus labores;
 
-X. Admitir fianza o contrafianzas en los casos que prescriben las Leyes, de personas que no acrediten suficientemente su solvencia y la libertad de gravámenes de los bienes que sirvan para ello; y
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Admitir garantías o contragarantías en los casos que prescriben las Leyes, de personas que no acrediten suficientemente su solvencia y la libertad de gravámenes de los bienes que sirvan para ello; y
 
 XI. Todas aquellas conductas similares a las contempladas en las fracciones anteriores que se aparten de la rectitud y puedan causar el desprestigio al buen nombre de la administración de justicia.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Serán consideradas graves las faltas descritas en las fracciones I, párrafo primero, II, III, IV, V, VI, VII, IX y X del presente artículo.
 
 ###### Artículo 237.
 
@@ -3327,15 +3877,27 @@ I. Dejar de presentarse, sin causa justificada, dentro de los tres días hábile
 
 II. Hacer declaraciones de rebeldía en perjuicio de alguna de las partes, sin que las notificaciones o citaciones anteriores hayan sido hechas en forma legal o antes de que transcurra el plazo previsto en la Ley;
 
-III. Abandonar, sin la autorización correspondiente, la residencia del juzgado al que esté adscrito, o dejar de desempeñar las funciones o labores que tenga a su cargo;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+III. Abandonar, sin la autorización correspondiente o, en su caso, sin causa justificada, la residencia del juzgado al que esté adscrito, o dejar de desempeñar las funciones o labores que tenga a su cargo;
 
 IV. Omitir llevar a cabo el registro de actividades y actualización del Sistema de Gestión Judicial; y
 
 V. Omitir la remisión oportuna de los informes estadísticos a la superioridad sin causa justificada.
 
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Además de las señaladas en el artículo 235 de la presente Ley, serán faltas administrativas de los Jueces las previstas por las fracciones I, II, III, V, VI, VII, VIII y X del artículo 236 de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Serán consideradas graves las faltas descritas en las fracciones I y III del presente artículo y, en su caso, las así señaladas en los artículos 235 y 236 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 238.
 
-Son faltas administrativas de los Secretarios de Acuerdos del Pleno, las Salas y los Juzgados las siguientes conductas:
+Son faltas administrativas de los Secretarios de Acuerdos del Pleno, las Salas y los Juzgados, así como de los Secretarios Técnicos y de los Secretarios Instructores de los Tribunales Laborales, las siguientes conductas:
 
 I. Omitir dar cuenta a su titular, dentro del término de la Ley, con los oficios, escritos y promociones de las partes;
 
@@ -3345,13 +3907,19 @@ III. Dejar de diligenciar, dentro de las veinticuatro horas siguientes a aquella
 
 IV. Dejar de dar cuenta al Presidente, Magistrado o Juez de su adscripción, de las faltas u omisiones que personalmente hubieren notado en los servidores públicos subalternos del área, o que se le denuncien por el público verbalmente o por escrito;
 
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Asimismo, dejar de dar cuenta al Presidente, Magistrado o Juez de su adscripción de las faltas que denuncien los particulares por escrito.
+
 V. Dejar de formular el proyecto de resolución que se les hubiera encomendado, en el plazo fijado para tal efecto;
 
 VI. Omitir la remisión al archivo, de los expedientes conforme a la Ley;
 
 VII. Dejar de entregar oportunamente a la Central de Actuarios o a los Actuarios de su adscripción, en sus respectivos casos, los expedientes de notificación personal o pendientes de diligencia cuando deban hacerse fuera del Juzgado;
 
-VIII. Omitir hacer dentro del término de ley la notificación personal que proceda a las partes cuando concurran al recinto jurisdiccional de su adscripción;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VIII. Negarse a practicar, dentro del término legal, la notificación personal que proceda a las partes y concurran al recinto jurisdiccional de su adscripción en los casos que la ley lo prevea;
 
 IX. No permitir la consulta, sin causa justificada, de los expedientes a las partes cuando lo soliciten, salvo los casos en que deba guardarse la reserva de ley;
 
@@ -3360,6 +3928,10 @@ X. Omitir acatar las órdenes que conforme a sus atribuciones les impartan sus s
 XI. Dejar de presentarse, sin causa justificada, dentro de los tres días hábiles siguientes a la notificación de su designación, a tomar posesión de su cargo en el lugar de adscripción que se le haya designado; y
 
 XII. Además de las señaladas en el artículo 235 de la presente Ley, serán faltas administrativas de los Secretarios de Acuerdos las previstas por las fracciones I, III, V, VII, VIII y X del artículo 236 de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Serán consideradas graves las faltas descritas en las fracciones IV, X y XI del presente artículo.
 
 ###### Artículo 239.
 
@@ -3375,13 +3947,21 @@ IV. Practicar notificaciones, citaciones o emplazamientos a las partes, por céd
 
 V. Practicar embargos, aseguramientos, retención de bienes o lanzamientos, a personas físicas o jurídicas que no sean las designadas en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del Juzgado, se demuestre fehacientemente que esos bienes no pertenecen al ejecutado y para comprobar tal situación, en todo caso deberá agregar a los autos la documentación que se le presente a efecto de dar cuenta a quien hubiere ordenado la diligencia;
 
-VI. Omitir levantar el acta relativa a la diligencia que practique, en el lugar y momento en que ésta se efectúe;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. Omitir levantar el acta relativa a la diligencia que practique, en el lugar y momento en que ésta se efectúe, salvo caso fortuito, fuerza mayor o peligro en la integridad física de quienes participen en la diligencia;
 
 VII. Dejar de presentarse sin causa justificada dentro de los tres días hábiles siguientes a la notificación de su designación, a tomar posesión de su cargo en el lugar de adscripción que le corresponda;
 
 VIII. Dar fe de hechos falsos; y
 
-IX. Además de las señaladas en el artículo 235 que antecede, serán faltas de los actuarios las previstas por las fracciones II, VIII, XI y XII del artículo 236 de esta Ley.
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+IX. Además de las señaladas en el artículo 235 que antecede, será falta de los actuarios y notificadores la prevista en la fracción VI del artículo 236 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Serán consideradas graves las faltas descritas en las fracciones II, III y VIII del presente artículo y aquellas aplicables que tengan dicho carácter de los artículos 235 y 236 de esta Ley.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -3401,9 +3981,9 @@ La omisión a lo anterior, dará lugar a responsabilidad administrativa.
 
 Las autoridades competentes para resolver acerca de las responsabilidades de los servidores públicos del Poder Judicial por faltas administrativas, así como para imponer las sanciones a que se refiere la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, serán:
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-I. El Pleno del Consejo, tratándose de faltas cometidas por Consejeros, Jueces, Coordinadores Administrativos, Jefes de Unidad de los Juzgados del Sistema Penal Acusatorio, Secretario General de Acuerdos del Pleno y la Presidencia y funcionarios de la Presidencia del Tribunal Superior de Justicia o del Consejo de la Judicatura, Secretario Ejecutivo del Consejo de la Judicatura, Secretarios de Acuerdos, Secretarios de Estudios y Proyectos, Actuarios y Notificadores, así como los Titulares y Jefes de Departamento de las dependencias del Consejo de la Judicatura;
+I. El Pleno del Consejo, tratándose de faltas cometidas por Consejeros, Jueces, Coordinador Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, Administradores de Gestión Jurídico Administrativa de Juzgado y el personal a su cargo, Secretario General de Acuerdos del Pleno y la Presidencia y funcionarios de la Presidencia del Tribunal Superior de Justicia o del Consejo de la Judicatura, Secretario Ejecutivo del Consejo de la Judicatura, Secretarios de Acuerdos, Secretarios Instructores, Secretarios Técnicos, Secretarios de Estudios y Proyectos, Actuarios y Notificadores, Titulares y Jefes de Departamento de las dependencias del Consejo de la Judicatura, Coordinadores, así como los Especialistas Públicos y Privados a que se refiere la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur;
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -3593,6 +4173,10 @@ Procede la excitativa de justicia a petición de cualquiera de las partes, si tr
 
 La excitativa de justicia se presentará por escrito ante la Presidencia del Tribunal Superior de Justicia y conocerá el Pleno del Tribunal cuando se interponga en contra de algún Magistrado, y la Sala de la materia respectiva cuando se trate de un Juez.
 
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Tratándose de las excitativas de justicia contra un juez laboral, estás serán resueltas por las salas unitarias civiles.
+
 ###### Artículo 256.
 
 Recibida la excitativa de Justicia el Pleno del Tribunal o la Sala, solicitará informe al funcionario contra quien se promueve, por conducto del actuario adscrito, para lo cual se mandará entregar o remitir la copia simple del escrito de excitativa.
@@ -3655,9 +4239,17 @@ En los casos de la vacante en la Sala respectiva que deje el Magistrado, al ser 
 
 Las ausencias temporales de los Jueces serán suplidas por los Secretarios de Acuerdos que designe el Presidente del Consejo de la Judicatura, cuando no excedan de quince días y cuando faltaren éstos o excediere dicho término, serán suplidos por quien designe el Pleno del mismo; las ausencias eventuales de los Jueces de (sic) serán suplidas por Ministerio de Ley por los Secretarios de Acuerdos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE FEBRERO DE 2022)</small>
+
+Tratándose de las ausencias de los jueces de los Tribunales Laborales serán sustituidos por el secretario instructor o en su caso de secretario de mayor antigüedad en el cargo que se encuentre adscrito al órgano jurisdiccional; cuando sus ausencias sean mayores a un mes, el Pleno del Consejo designará un juez interino que se haga cargo del órgano jurisdiccional hasta en tanto regrese el titular o se realice la designación definitiva. En estos casos, la persona designada como juez interino deberá reunir los requisitos que señala la Constitución Política del Estado Libre y Soberano de Baja California Sur y esta Ley, para ser juez en materia laboral.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], B.O. 18 DE FEBRERO DE 2022)</small>
+
 Las ausencias eventuales y temporales de Magistrados, serán suplidas por el Magistrado que designe el Pleno del Tribunal.
 
-Las ausencias temporales de los Coordinadores Administrativos de Juzgado serán suplidas por el servidor público que designe el Pleno del Consejo; las ausencias eventuales serán suplidas por los Jefes de las Unidades de Sala y Causa; en ese orden.
+> <small>(REFORMADO Y REUBICADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Las ausencias temporales de los Administradores de Gestión Jurídico Administrativa de Juzgado serán suplidas por el servidor público que designe el Pleno del Consejo; las ausencias eventuales serán suplidas por los Auxiliares de Causa y Sala.
 
 ###### Artículo 267.
 
@@ -3666,6 +4258,10 @@ Los Secretarios de Acuerdos o Encargados del Despacho de los Juzgados, conforme 
 ###### Artículo 268.
 
 Las ausencias temporales de Secretarios de Acuerdos que no excedan de quince días, serán cubiertas por otro Secretario de Acuerdos, un Secretario Proyectista de Primera Instancia o, en su defecto, por el actuario o testigos de asistencia. Si excediere el término aludido, será el Pleno del Consejo, quien haga la designación.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Las ausencias temporales de los Secretarios Instructores que no excedan de quince días serán cubiertas por otro Secretario Instructor que designe el Presidente del Consejo o en su caso, por el servidor público que reúna los requisitos para ocupar dicho cargo y que al efecto se habilite; si excediere dicho término, será el Pleno del Consejo quien lo designe. El Secretario Instructor sustituto quedara investido de fe pública.
 
 Las ausencias eventuales de Secretarios de Acuerdos serán cubiertas en el orden establecido en este artículo, mediante la designación que al efecto haga el superior jerárquico; en caso de que la designación recaiga en un Secretario Proyectista, este quedará investido de fe pública.
 
@@ -3827,7 +4423,7 @@ c) Informe de obras.
 
 ### CAPÍTULO ÚNICO
 
-#### SECCIÓN II. DE LOS ARANCELES DE LOS INTERVENTORES Y ALBACEAS JUDICIALES
+#### SECCIÓN I. DE LAS COSTAS
 
 ###### Artículo 286.
 
@@ -3895,13 +4491,13 @@ Si en un juicio civil o mercantil hubiere condenación en costas y los escritos 
 
 Los abogados que intervengan en juicios civiles o mercantiles por derecho propio, cobrarán las costas que fija el presente arancel, aun cuando no sean patrocinados por otro abogado.
 
-#### SECCIÓN III. DE LOS DEPOSITARIOS
+#### SECCIÓN II. DE LOS ARANCELES DE LOS INTERVENTORES Y ALBACEAS JUDICIALES
 
 ###### Artículo 292.
 
 En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil veces el valor diario de la unidad de medida y actualización vigente, si exceden de esta suma, pero no del equivalente a veinticuatro mil veces el valor diario de la unidad de medida y actualización vigente, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil veces el valor diario de la unidad de medida y actualización vigente, cobrará además el 1% sobre la cantidad excedente.
 
-#### SECCIÓN IV. DE LOS INTÉRPRETES Y TRADUCTORES
+#### SECCIÓN III. DE LOS DEPOSITARIOS
 
 ###### Artículo 293.
 
@@ -3927,7 +4523,7 @@ Los depositarios de fincas rústicas percibirán como honorarios los que señala
 
 Cuando la disposición recaiga sobre créditos, el depositario, además de los honorarios a que se refiere el artículo 293 de la presente Ley, cobrará el 5% sobre el importe de los réditos o pensiones que recaude.
 
-#### SECCIÓN V. DE LOS PERITOS
+#### SECCIÓN IV. DE LOS INTÉRPRETES Y TRADUCTORES
 
 ###### Artículo 299.
 
@@ -3937,7 +4533,7 @@ I. Por asistencia ante las autoridades judiciales para traducir declaraciones en
 
 II. Por traducción de cualquier documento, por hoja, el equivalente a dos veces el valor diario de la unidad de medida y actualización vigente.
 
-#### SECCIÓN VI. DE LOS ÁRBITROS
+#### SECCIÓN V. DE LOS PERITOS
 
 ###### Artículo 300.
 
@@ -3948,6 +4544,8 @@ I. En asuntos relacionados con valuación, el 2.5 al millar del valor de los bie
 II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, veinte veces el valor diario de la unidad de medida y actualización vigente, y
 
 III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientas cuarenta veces el valor diario de la unidad de medida y actualización vigente, cantidad que se determinará por el juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del Artículo anterior.
+
+#### SECCIÓN VI. DE LOS ÁRBITROS
 
 ###### Artículo 301.
 
@@ -4106,3 +4704,17 @@ B.O. 14 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+B.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2816 SE REFORMAN, DEROGAN Y ADICIONAN DISPOSICIONES DE DIVERSAS LEYES DEL MARCO NORMATIVO DE BAJA CALIFORNIA SUR, PARA EL FORTALECIMIENTO DE LA FUNCIÓN JURISDICCIONAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Juzgados Laborales, atendiendo al contenido y términos del Artículo Tercero transitorio de la reforma a la Constitución Política para el Estado Libre y Soberano de Baja California Sur, que consta en el Decreto 2805, aprobado por el Honorable Congreso del Estado el día 14 de diciembre de 2021, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el día 27 de diciembre del mismo año 2021, iniciaran sus funciones a más tardar el 1º de mayo de 2022.
+
+TERCERO.- Los artículos relativos a la creación y facultades de la Coordinación Estatal de Gestión, los Coordinadores de Gestión Jurídico Administrativa de Juzgado y la reorganización administrativa de los Juzgados Penales del Sistema Acusatorio, entrarán en vigor a los 45 días naturales contados a partir de la publicación del Presente Decreto.
+
+CUARTO.- Dentro de los 45 días naturales contados a partir de la publicación del presente Decreto, el Pleno del Consejo de la Judicatura en el Estado de Baja California Sur, deberá emitir mediante Acuerdo General, los lineamientos relativos a la reorganización Administrativa de los Juzgados Penales del Sistema Acusatorio.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
