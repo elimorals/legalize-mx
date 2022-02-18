@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-mecanismos-alternativos-de-solucion-de-controversias-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-31"
-last_updated: "2016-07-31"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 31 de julio de 2016.
 
@@ -433,11 +433,39 @@ p) Las demás que esta Ley y su Reglamento les impongan.
 
 Sin perjuicio de las responsabilidades legales en que pudiera incurrir el Especialista en el ejercicio de su función, comete infracción el Especialista que incumpla las obligaciones previstas en el artículo anterior.
 
-El Pleno o el órgano administrativo correspondiente, de acuerdo a sus atribuciones, conocerá de las quejas de los mediados por probables infracciones del Especialista público o privado, así como de los reportes de visita de supervisión y monitoreo que realice al Centro, cuando se haya detectado la posible comisión de una infracción.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+El órgano administrativo correspondiente, de acuerdo a sus atribuciones, investigará, substanciará y resolverá sobre las quejas de los mediados por probables infracciones del Especialista público o privado, así como de los reportes de visita de supervisión y monitoreo que realice al Centro, cuando se haya detectado la posible comisión de una infracción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 24.
 
-Las sanciones administrativas aplicables a los Especialistas público o privados serán impuestas por el Pleno o el órgano administrativo correspondiente, de acuerdo a sus atribuciones, órgano que fundará y motivará su Resolución tomando en cuenta la gravedad de la infracción; la calidad de reincidente del infractor, entendiendo por reincidencia, que el infractor haya sido sancionado por violaciones a las disposiciones de esta Ley y de las disposiciones reglamentarias respectivas dentro del periodo de vigencia de la certificación.
+Las sanciones administrativas aplicables a los Especialistas públicos o privados serán impuestas por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Baja California Sur, de acuerdo a sus atribuciones, órgano que fundará y motivará su resolución tomando en cuenta los siguientes elementos:
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+I.- Los daños y perjuicios patrimoniales causados por los actos u omisiones, si fuere el caso;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+II.- El nivel jerárquico, de ser el caso, y los antecedentes del infractor, entre ellos la antigüedad como especialista;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+III.- Las circunstancias socioeconómicas del infractor;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+IV.- Las condiciones exteriores y los medios de ejecución;
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+V.- La reincidencia en el incumplimiento de esta Ley o su Reglamento; y
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. El monto del beneficio derivado de la infracción que haya obtenido el responsable.
 
 ###### Artículo 25.
 
@@ -639,13 +667,17 @@ La negativa del órgano jurisdiccional para su ejecución será causa de respons
 
 ### CAPÍTULO OCTAVO. DE LAS SANCIONES A LOS ESPECIALISTAS PRIVADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 38.
 
-Las sanciones administrativas aplicables a los Especialistas privados por el incumplimiento a la presente Ley serán impuestas por el Pleno o el órgano administrativo correspondiente, de acuerdo a sus atribuciones, de conformidad con el procedimiento previsto en el Reglamento de la presente Ley.
+Las sanciones administrativas aplicables a los Especialistas privados por el incumplimiento a la presente Ley o su Reglamento serán impuestas por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Baja California Sur, de acuerdo a sus atribuciones, de conformidad con el procedimiento previsto en la Ley Orgánica del Poder Judicial del Estado de Baja California Sur y el Reglamento de la presente Ley.
 
-Las sanciones a que se refiere este artículo consistirán en apercibimiento, suspensión de la certificación otorgada por el Centro o revocación de la misma.
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
-Para determinar la sanción correspondiente, el Pleno o el órgano administrativo correspondiente, de acuerdo a sus atribuciones, tomará en cuenta la gravedad de la infracción y la calidad reincidente del infractor.
+Las sanciones a que se refiere este artículo consistirán en amonestación pública o privada, multa de 20 hasta 100 veces el valor diario de la Unidad de Medida y Actualización, suspensión temporal de la certificación otorgada por el Centro Estatal de Justicia Alternativa de Baja California Sur o revocación de la misma, y sanción económica, en el caso de que los actos u omisiones hubieren causado daños y, o, perjuicios al patrimonio del Poder Judicial del Estado de Baja California Sur.
+
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ### CAPÍTULO NOVENO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL CENTRO
 
@@ -700,3 +732,19 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2816 SE REFORMAN, DEROGAN Y ADICIONAN DISPOSICIONES DE DIVERSAS LEYES DEL MARCO NORMATIVO DE BAJA CALIFORNIA SUR, PARA EL FORTALECIMIENTO DE LA FUNCIÓN JURISDICCIONAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Juzgados Laborales, atendiendo al contenido y términos del Artículo Tercero transitorio de la reforma a la Constitución Política para el Estado Libre y Soberano de Baja California Sur, que consta en el Decreto 2805, aprobado por el Honorable Congreso del Estado el día 14 de diciembre de 2021, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el día 27 de diciembre del mismo año 2021, iniciaran sus funciones a más tardar el 1° de mayo de 2022.
+
+TERCERO.- Los artículos relativos a la creación y facultades de la Coordinación Estatal de Gestión, los Coordinadores de Gestión Jurídico Administrativa de Juzgado y la reorganización administrativa de los Juzgados Penales del Sistema Acusatorio, entrarán en vigor a los 45 días naturales contados a partir de la publicación del Presente Decreto.
+
+CUARTO.- Dentro de los 45 días naturales contados a partir de la publicación del presente Decreto, el Pleno del Consejo de la Judicatura en el Estado de Baja California Sur, deberá emitir mediante Acuerdo General, los lineamientos relativos a la reorganización Administrativa de los Juzgados Penales del Sistema Acusatorio.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
