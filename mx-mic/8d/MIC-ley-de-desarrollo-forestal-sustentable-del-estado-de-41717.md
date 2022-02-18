@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-forestal-sustentable-del-estado-de-41717"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-22"
-last_updated: "2018-08-14"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 22 de noviembre de 2004.
 
@@ -169,9 +169,17 @@ XXXIII. Restauración: El conjunto de actividades tendientes a la rehabilitació
 
 XXXIV. SECTOR PÚBLICO FORESTAL: Las dependencias y entidades del sector público que actúan en el ámbito forestal;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
 XXXV. SELVA: Asociación de vegetación forestal constituida principalmente por árboles, arbustos, vegetación herbácea, hongos, líquenes, bejucos, lianas, manglares, humedales y otra vegetación natural, de climas cálido húmedos y subcálidos, vinculado a las características físicas, químicas y biológicas del suelo y agua, que además constituye el hábitat de la fauna silvestre y conforma los paisajes naturales; y,
 
-XXXVI. VEDA FORESTAL: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada, mediante decreto que expida el Titular del Ejecutivo Federal.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXVI. VEDA FORESTAL: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada, mediante decreto que expida el Titular del Ejecutivo Federal; y,
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXVII. BITÁCORA AMBIENTAL: Es el registro público de los avances del proceso de ordenamiento ecológico.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA FORESTAL
 
@@ -185,45 +193,49 @@ I. Al Titular del Poder Ejecutivo del Estado, a través del Organismo Público D
 
 II. A los ayuntamientos del Estado, en la esfera de competencia que establece la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 7.
 
-Corresponde al Titular del Poder Ejecutivo de conformidad con lo dispuesto en la Ley General y retomando las que se transfieren de la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo, las siguientes atribuciones y obligaciones:
+Corresponde al Titular del Poder Ejecutivo de conformidad con lo dispuesto en la Ley General y la Ley para la Conservación y Sustentabilidad Ambiental del Estado de Michoacán de Ocampo, las siguientes atribuciones y obligaciones:
 
 I. Diseñar, formular y aplicar la política forestal en el Estado;
 
 II. Diseñar, organizar y establecer el Servicio Estatal Forestal;
 
-III. Impulsar en el ámbito de su competencia el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector, con la participación de los ayuntamientos;
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-IV. Constituir el Consejo Estatal Forestal y los Consejos Regionales Forestales para facilitar el análisis de la problemática forestal y fortalecer la toma de decisiones;
+III. La autorización de cambio de uso de suelo en terrenos forestales, por excepción, previa opinión técnica de los miembros del Consejo Estatal Forestal y con base en los estudios técnicos justificativos cuyo contenido se establecerá en el Reglamento, los cuales demuestren que la biodiversidad de los ecosistemas que se verán afectados se mantenga, y que la erosión de los suelos, el deterioro de la calidad del agua o la disminución en su captación se mitiguen en las áreas afectadas por la remoción de la vegetación forestal, y mediando depósito de compensación ambiental para que se lleven a cabo acciones de restauración de los ecosistemas que se afecten, en los términos y condiciones que establezca el Reglamento. Esta facultad será exclusiva del Titular del Poder Ejecutivo Estatal sin que pueda delegarla a organismo alguno;
 
-V. Elaborar, coordinar y aplicar los programas relativos al Sector Forestal de la Entidad, teniendo en cuenta las consideraciones y proyecciones de corto, mediano y largo plazos que se hagan y vinculándolos con los programas nacionales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
+IV. Impulsar en el ámbito de su competencia el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector, con la participación de los ayuntamientos;
 
-VI. Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
+V. Constituir el Consejo Estatal Forestal y los Consejos Regionales Forestales para facilitar el análisis de la problemática forestal y fortalecer la toma de decisiones;
 
-VII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
+VI. Elaborar, coordinar y aplicar los programas relativos al Sector Forestal de la Entidad, teniendo en cuenta las consideraciones y proyecciones de corto, mediano y largo plazos que se hagan y vinculándolos con los programas nacionales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
 
-VIII. Compilar y procesar la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema de Información Estatal Forestal;
+VII. Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
 
-IX. Promover los bienes y servicios ambientales de los ecosistemas forestales;
+VIII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
 
-X. Regular el uso del fuego en las actividades relacionadas con las acciones agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
+IX. Compilar y procesar la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema de Información Estatal Forestal;
 
-XI. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio;
+X. Promover los bienes y servicios ambientales de los ecosistemas forestales;
 
-XII. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
+XI. Regular el uso del fuego en las actividades relacionadas con las acciones agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
 
-XIII. Elaborar y aplicar programas de reforestación y forestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas y forestadas;
+XII. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio;
 
-XIV. Diseñar, formular y aplicar instrumentos económicos para el desarrollo forestal en el Estado;
+XIII. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
 
-XV. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales propiciando la integración de cadenas productivas y los sistemas-producto del sector;
+XIV. Elaborar y aplicar programas de reforestación y forestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas y forestadas;
 
-XVI. Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales del Estado; y,
+XV. Diseñar, formular y aplicar instrumentos económicos para el desarrollo forestal en el Estado;
 
-XVII. Las demás que conforme a la presente Ley y otras disposiciones le correspondan.
+XVI. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales propiciando la integración de cadenas productivas y los sistemas-producto del sector;
+
+XVII. Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales del Estado; y,
+
+XVIII. Las demás que conforme a la presente Ley y otras disposiciones le correspondan.
 
 ###### Artículo 8.
 
@@ -291,9 +303,9 @@ VIII. Estimular la participación activa y ordenada de los propietarios y poseed
 
 IX. Fomentar la cultura, educación, capacitación e investigación en materia forestal, en coordinación con las autoridades competentes, instituciones públicas y privadas y organizaciones sociales, con el objeto de satisfacer las necesidades de recursos humanos y de tecnología que se requiera para el desarrollo del sector;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Promover con la participación de la Secretaría de Medio Ambiente Recursos Naturales y Cambio Climático, y otras dependencias y entidades competentes, en terrenos forestales y de aptitud preferentemente forestal, el establecimiento de centros de reproducción de especies y de ranchos cinegéticos, donde los usuarios puedan realizar actividades de caza, pesca y ecoturismo.
+X. Promover con la participación de la Secretaría de Medio Ambiente y otras dependencias y entidades competentes, en terrenos forestales y de aptitud preferentemente forestal, el establecimiento de centros de reproducción de especies y de ranchos cinegéticos, donde los usuarios puedan realizar actividades de caza, pesca y ecoturismo;
 
 XI. Emitir la autorización, por conducto de su Director General, de solicitudes y programas de manejo para los aprovechamientos de recursos forestales en el Estado, de conformidad con lo establecido en el convenio de descentralización celebrado con la autoridad competente;
 
@@ -335,7 +347,7 @@ V. Otorgar los permisos y avisos para el combate y control de plagas y enfermeda
 
 VI. Recibir y autorizar las solicitudes de aprovechamiento de los recursos forestales maderables, y recibir los avisos de aprovechamiento de los recursos forestales no maderables, de forestación, y los de plantaciones forestales comerciales;
 
-VII. Autorizar el cambio de uso de suelo de los terrenos forestales;
+VII. (DEROGADA, P.O. 18 DE FEBRERO DE 2022)
 
 VIII. Dictaminar, autorizar y evaluar los programas de manejo forestal, así como evaluar y supervisar a los servicios técnicos forestales; y,
 
@@ -557,9 +569,15 @@ VII. La información económica de la actividad forestal;
 
 VIII. Sobre investigaciones y desarrollo tecnológico;
 
-IX. Sobre organizaciones e instituciones de los sectores social y privado, así como de organismos públicos relacionados con este sector; y,
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Las demás que se consideren estratégicas para la planeación del desarrollo forestal.
+IX. Sobre organizaciones e instituciones de los sectores social y privado, así como de organismos públicos relacionados con este sector;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+X. La bitácora ambiental; y,
+
+XI. Las demás que se consideren estratégicas para la planeación del desarrollo forestal.
 
 #### SECCIÓN 3. DEL INVENTARIO ESTATAL FORESTAL Y DE SUELOS
 
@@ -639,19 +657,21 @@ La Comisión integrará y operará el Padrón Forestal del Estado.
 
 El Padrón tiene por objeto el control y actualización permanente de la información y estadística del sector forestal en la Entidad, con la finalidad de apoyar las políticas, medidas, programas e instrumentos de regulación, planeación y fomento forestal.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 40.
 
-El contenido y la determinación del funcionamiento del Padrón, se establecerán en las disposiciones que para tal efecto emita la Comisión.
-
-Será obligatoria la inscripción en el Padrón Forestal del Estado de los centros de transformación y almacenamiento forestales, de los prestadores de servicios técnicos, los programas de manejo y otros actos señalados en la presente Ley.
+El contenido y la determinación del funcionamiento del Padrón, se establecerán en las disposiciones que para tal efecto emita la Comisión. Será obligatoria la inscripción en el Padrón Forestal del Estado de los centros de transformación y almacenamiento forestales, de los prestadores de servicios técnicos, los programas de manejo, de los viveros que utilicen tierra de monte y de hoja, y otros actos señalados en la presente Ley.
 
 ###### Artículo 41.
 
 La Comisión recabará entre las personas físicas o morales vinculadas al sector forestal del Estado, los datos, estadística y otros elementos complementarios a los que obren en los archivos de las dependencias y entidades para integrarlos al Padrón Forestal del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 42.
 
-La Comisión, por conducto de su Director General, en base al Padrón Forestal del Estado, podrá expedir y revalidar certificados de inscripción, autorizaciones y revalidaciones de libros de registro de centros de almacenamiento y transformación de materias primas forestales, que de acuerdo a la presente Ley y su Reglamento se tengan que realizar, así como de constancias de datos que tengan en sus archivos, previa solicitud por escrito de los interesados y del pago de cuotas de recuperación de gastos, de conformidad con lo que se establezca en el Reglamento de la presente Ley. Las personas físicas o morales, dueños o encargados de estos centros, deberán tener dicha documentación en lugares visibles y disponibles en todo tiempo.
+La Comisión, por conducto de su Director General, en base al Padrón Forestal del Estado, podrá expedir y revalidar certificados de inscripción, autorizaciones y revalidaciones de libros de registro de centros de almacenamiento y transformación de materias primas forestales y de los viveros que utilicen tierra de monte y de hoja, que de acuerdo a la presente Ley y su Reglamento se tengan que realizar, así como de constancias de datos que tengan en sus archivos, previa solicitud por escrito de los interesados y del pago de cuotas de recuperación de gastos, de conformidad con lo que se establezca en el Reglamento de la presente Ley. Las personas físicas o morales, dueños o encargados de estos centros, deberán tener dicha documentación en lugares visibles y disponibles en todo tiempo.
 
 ### CAPÍTULO III. DEL SISTEMA DE VENTANILLA ÚNICA
 
@@ -671,7 +691,7 @@ Por medio del sistema de ventanilla única, la autoridad estatal y municipal bri
 
 La Comisión, por conducto de su titular, en los términos de los mecanismos de coordinación establecidos con la Federación a través de la Secretaría de Medio Ambiente y Recursos Naturales podrá otorgar las siguientes autorizaciones:
 
-I. Cambio de uso de suelo en terrenos forestales por excepción;
+I. (DEROGADA, P.O. 18 DE FEBRERO DE 2022)
 
 II. Aprovechamiento de recursos forestales maderables y no maderables en terrenos forestales y preferentemente forestales;
 
@@ -1113,13 +1133,17 @@ El funcionamiento de las Unidades de Manejo Forestal será sustentado económica
 
 #### SECCIÓN 5. DE LAS AUDITORIAS TECNICAS FORESTALES
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 102.
 
-En el marco de la coordinación Institucional, el Ejecutivo por conducto de la Comisión y con el auxilio en su caso del Ayuntamiento, podrán realizar auditorias técnicas forestales de carácter preventivo que tendrán por objeto la promoción e inducción al cumplimiento de las disposiciones legales en materia forestal de los programas de manejo forestal respectivos.
+En el marco de la coordinación institucional, el ejecutivo por conducto de la Comisión y con el auxilio en su caso del Ayuntamiento, deberán realizar auditorías técnicas forestales y/o ambientales de carácter obligatorio que tendrán por objeto auditar el cumplimiento de las disposiciones legales en materia ambiental y forestal de las actividades productivas que en su proceso pudieran generar impactos negativos al ambiente.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 103.
 
-Conforme a los resultados de las auditorías, la Comisión podrá emitir un certificado que haga constar el correcto cumplimiento del programa de manejo.
+Conforme a los resultados de las auditorias, la Comisión podrá emitir un certificado que haga constar el correcto cumplimiento de la normatividad ambiental y forestal.
 
 ###### Artículo 104.
 
@@ -1207,9 +1231,11 @@ En todas las áreas forestales afectadas por incendios en las que resulte arbola
 
 Si al vencimiento de la vigencia de la notificación, no se han realizado los trabajos mencionados, la Comisión en acuerdo con los dueños o poseedores de los terrenos, tendrá la facultad de realizar la extracción y comercialización del arbolado muerto, comprometiéndose el producto de esto último, a la protección y restauración del área siniestrada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 120.
 
-Los propietarios, poseedores legales y usufructuarios de terrenos de uso forestal están obligados a llevar a cabo, en caso de incendio, la restauración de la superficie afectada en el plazo máximo de dos años, debiendo ser restaurada la cubierta vegetal afectada hasta su total restablecimiento, mediante la reforestación, cuando la regeneración natural no sea posible, poniendo especial atención en la prevención, control y combate de plagas y enfermedades, así como en las prácticas de conservación y restauración de suelos.
+Los propietarios, poseedores legales y usufructuarios de terrenos de uso forestal están obligados a llevar a cabo la reforestación en caso de incendio en un plazo máximo de 1 año y la restauración del área dañada en un máximo de 2 años, debiendo ser restaurada la cubierta vegetal afectada hasta su total restablecimiento, mediante la reforestación y restauración, poniendo especial atención en la prevención control y combate ecológico de plagas y enfermedades, así como en las prácticas de conservación y control de suelos.
 
 Cuando los dueños o poseedores legales de los predios dañados demuestren su imposibilidad para cumplirlo directamente, podrán solicitar fundadamente a las autoridades municipales, estatales o federales, el apoyo para realizar dichos trabajos.
 
@@ -1245,9 +1271,11 @@ La reforestación que se realice con propósitos de conservación y restauració
 
 La Comisión así como los ayuntamientos en ámbito de su competencia, promoverán programas tendentes a la forestación y reforestación de los terrenos forestales y preferentemente forestales. Para tal efecto la Comisión, así como los ayuntamientos podrán celebrar convenios y contratos con instituciones públicas y privadas, Unidades de Manejo Forestal, así como las Dependencias y Entidades Federales.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 126.
 
-Será obligatorio tanto para el Ejecutivo como para los ayuntamientos, incluir en sus Planes de Desarrollo respectivos, programas tendentes a la reforestación y forestación.
+Será obligatorio tanto para el Ejecutivo como para los ayuntamientos, incluir en sus Planes de Desarrollo respectivos, programas tendientes a la reforestación y forestación. Tomando en consideración la compensación ambiental en la cual, por cada hectárea reconvertida a cultivos comerciales, deberá reforestarse un equivalente al veinte por ciento con especies forestales nativas.
 
 ###### Artículo 127.
 
@@ -1519,6 +1547,10 @@ En la resolución administrativa correspondiente, se señalarán o, en su caso s
 
 Dentro de los cinco días hábiles que sigan al vencimiento otorgado al infractor para subsanar las deficiencias o irregularidades observadas, este deberá comunicar por escrito y en forma detalla a la Comisión, sobre el cumplimiento de las medidas ordenadas en los términos del requerimiento respectivo.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+Durante el procedimiento y antes de que se dicte resolución, el interesado y la autoridad, a petición del primero, podrán convenir la realización de acciones de restauración o compensación de daños necesarios para la corrección de las irregularidades observadas.
+
 La Comisión a efecto de hacer cumplir lo ordenado, aplicará los medios de apremio previstos por el Código de Procedimientos Civiles del Estado de Michoacán sin perjuicio de la aplicación de lo establecido por el artículo 161 de la presente Ley.
 
 En los casos en que proceda, la autoridad correspondiente hará del conocimiento del Ministerio Público competente la realización y omisión de hechos que pudieran configurar uno o más delitos.
@@ -1559,17 +1591,25 @@ VIII. Degradar o eliminar parcial o totalmente áreas forestales y preferentemen
 
 IX. Degradar o eliminar parcial o totalmente zonas de reserva ecológica o sujetas a protección especial;
 
-X. No contar los centros de almacenamiento o transformación de materias primas forestales con el Certificado de inscripción en el Padrón Forestal del Estado y sus respectivas revalidaciones;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XI. Cambiar de domicilio o de giro los centros de almacenamiento, transformación o depósitos de productos forestales, modificar o adicionar maquinaria, modificar o cambiar las fuentes de abastecimiento, sin autorización de la Comisión;
+X. No contar, los centros de almacenamiento o transformación de materias primas forestales o los viveros que se abastecen de tierra de monte y de hoja, con el Certificado de inscripción en el Padrón Forestal del Estado y sus respectivas revalidaciones;
 
-XII. Carecer los centros de almacenamiento o transformación de materias primas forestales del libro de registro de entradas y salidas debidamente validado por la Comisión; con sus respectivas revalidaciones en tiempo y forma de acuerdo al Reglamento de la presente Ley, así como de las anotaciones de entrada de materia prima y salida de productos forestales;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Cambiar de domicilio o de giro los centros de almacenamiento, transformación, depósitos de productos y viveros forestales, modificar o adicionar maquinaria, modificar o cambiar las fuentes de abastecimiento de productos forestales maderables y no maderables, sin autorización de la Comisión;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XII. Carecer los centros de almacenamiento o transformación de materias primas forestales y los viveros que se abastecen de tierra de monte y de hoja, del libro de registro de entradas y salidas debidamente validado por la Comisión; con sus respectivas revalidaciones en tiempo y forma de acuerdo al Reglamento de la presente Ley, así como de las anotaciones de entrada de materia prima y salida de productos forestales, maderables y no maderables;
 
 XIII. No acreditar la legal salida de materia prima o de producto forestal, de los centros de almacenamiento o transformación por los medios de control establecidos;
 
 XIV. Realizar actividades agropecuarias sin acatar las disposiciones de esta Ley, en materia de conservación, protección, restauración, recuperación y cambio de uso de suelo;
 
-XV. Omitir realizar guardarrayas o brechas de protección contra el fuego en terrenos forestales y preferentemente forestales, de acuerdo a lo previsto en la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
+
+XV. Omitir realizar guardarrayas o brechas de protección contra el fuego o provocar intencionalmente o por imprudencia, incendios en terrenos forestales o preferentemente forestales, de acuerdo a lo previsto en la presente Ley;
 
 XVI. Cambiar el uso de suelo forestal a cualquier otro, sin la autorización correspondiente;
 
@@ -1582,6 +1622,10 @@ XIX. Las demás acciones u omisiones que contravengan las disposiciones de esta 
 ###### Artículo 161.
 
 La Comisión intervendrá ante quien suministre servicios públicos, tales como energía eléctrica, agua u otros que requieran para su funcionamiento, los establecimientos que no satisfagan las disposiciones que les impone esta Ley y su Reglamento, previamente o durante su funcionamiento cuando se detecte alguna irregularidad o incumplimiento, sin menoscabo de las sanciones a que haya lugar, solicitarán, en su caso, la clausura definitiva o temporal, según la gravedad de la o las infracciones en que incurran.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+De igual manera, la Comisión en tratándose de las zonas forestales que se afectaron con incendios accidentales o intencionales, y que sean declarados como de difícil recuperación natural, dará aviso a la Dirección del Registro Público de la Propiedad, con la finalidad de que dichos predios queden inscritos como región ecológica prioritaria y, en consecuencia, no podrán ser sujetos de autorizaciones para el cambio de uso del suelo, por un periodo de 20 años.
 
 ###### Artículo 162.
 
@@ -1802,3 +1846,11 @@ P.O. 14 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 613.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 302, 304, 306; Y SE ADICIONA EL ARTÍCULO 304 BIS AL CÓDIGO PENAL PARA ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE REFORMA LOS ARTÍCULOS 162, 165 Y 166 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 08 POR EL QUE “SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 5, EL ARTÍCULO 7; LA FRACCIÓN X DEL ARTÍCULO 10; LA FRACCIÓN IX DEL ARTÍCULO 29, LOS ARTÍCULOS 40, 42, 102, 103, 120 Y 126; Y, LAS FRACCIONES X, XI, XII Y XV DEL ARTÍCULO 160; SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 5; LA FRACCIÓN III AL ARTÍCULO 7 RECORRIENDO LAS SIGUIENTES FRACCIONES EN EL ORDEN SUBSECUENTE; LA FRACCIÓN X RECORRIÉNDOSE LA SIGUIENTE EN EL ORDEN SUBSECUENTE AL ARTÍCULO 29; UN TERCER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 158; UN SEGUNDO PÁRRAFO AL ARTÍCULO 161; Y, SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 45; DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
