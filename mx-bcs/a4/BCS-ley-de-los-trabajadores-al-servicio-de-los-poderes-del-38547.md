@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2019-12-31"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -1413,9 +1413,11 @@ Los servidores públicos federales que, con motivo de procesos de descentralizac
 
 T R A N S I T O R I O S :
 
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO PRIMERO.
 
-En lo referente a los trabajadores de las instituciones descentralizadas de índole estatal y municipal, su relación contractual será regulada por las Condiciones Generales de Trabajo establecidas entre el Sindicato, los Poderes Legislativo, Ejecutivo, Judicial y Municipios del Estado de Baja California Sur, y sus controversias laborales se ventilarán en la Junta Local de Conciliación y Arbitraje como lo establece el apartado A del artículo 123 constitucional, la Ley Federal del Trabajo, la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, el uso y la costumbre y demás preceptos constitucionales que en la materia apruebe el Honorable Congreso de la Unión. Debiendo ser representados y tutelados invariablemente por el Sindicato Único de Trabajadores al Servicio de los Poderes del Estado y Municipios del Estado de Baja California Sur.
+En lo referente a los trabajadores de las instituciones descentralizadas de índole estatal y municipal, su relación contractual será regulada por las Condiciones Generales de Trabajo establecidas entre el Sindicato, los Poderes Legislativo, Ejecutivo, Judicial y Municipios del Estado de Baja California Sur, debiendo ser representados y tutelados invariablemente por el Sindicato Único de Trabajadores al Servicio de los Poderes del Estado y Municipios del Estado de Baja California Sur.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1457,9 +1459,11 @@ B.O. 1 DE DICIEMBRE DE 2007.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-En lo referente a los trabajadores de los organismos públicos descentralizados de índole estatal y municipal, su relación contractual será regulada por sus propias Condiciones Generales de Trabajo establecidas entre el Sindicato, los Poderes Legislativo, Ejecutivo, Judicial y Municipios del Estado de Baja California Sur, y sus controversias laborales se ventilarán en la Junta Local de Conciliación y Arbitraje como lo establece el apartado A del artículo 123 constitucional, la Ley Federal del Trabajo, el uso y la costumbre y demás preceptos constitucionales que en la materia apruebe el Honorable Congreso de la Unión. Debiendo ser representados y tutelados invariablemente por el Sindicato al que se encuentren agremiados.
+En lo referente a los trabajadores de los organismos públicos descentralizados de índole estatal y municipal, su relación contractual será regulada por sus propias Condiciones Generales de Trabajo establecidas entre el Sindicato, los Poderes Legislativo, Ejecutivo, Judicial y Municipios del Estado de Baja California Sur, debiendo ser representados y tutelados invariablemente por el Sindicato al que se encuentren agremiados.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1546,3 +1550,35 @@ El presente Decreto entrara en vigor el día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se Derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2818 SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el mismo día que inicien sus funciones los Juzgados Laborales y el Centro de Conciliación laboral del Estado de Baja California Sur, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+En cumplimiento al Quinto Transitorio del Decreto 2805, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 27 de diciembre de 2021, que reforma a la Constitución Política del Estado Libre y Soberano de Baja California Sur, al titular de la Secretaría del Trabajo, Bienestar y Desarrollo Social le corresponde en caso de ser necesario la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje, en tanto estas continúan su operación, para que las citadas instancias puedan concluir sus funciones; asimismo la Junta Local de Conciliación y Arbitraje del Estado de Baja California Sur y sus Juntas Especiales, continuaran sus funciones en los términos establecidos en el mismo Quinto Transitorio y Decimo Primero del Decreto 2805.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a su reglamentación interna respectiva para ajustarlos a la presente reforma de Ley, en un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las partidas presupuestales, recursos humanos, materiales y bienes patrimoniales que se encuentren asignados actualmente a la Junta Local de Conciliación y Arbitraje del Estado de Baja California Sur y sus Juntas Especiales, permanecerán para su funcionamiento conforme al Quinto Transitorio y Decimo Primero del Decreto 2805, mismas que una vez que concluyan con el último asunto en trámite, conforme al plan de trabajo, se procederá a su extinción expidiendo el decreto respectivo, quedando dicho presupuesto y recursos a cargo de la Secretaría del Trabajo, Bienestar y Desarrollo Social.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se expiden los reglamentos a que refiere el artículo transitorio tercero, continuarán vigentes los actuales en lo que no se opongan al presente decreto, confiriendo al Titular del Poder Ejecutivo la facultad para resolver las cuestiones que surjan en tanto se expidan las modificaciones a los reglamentos respectivos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
