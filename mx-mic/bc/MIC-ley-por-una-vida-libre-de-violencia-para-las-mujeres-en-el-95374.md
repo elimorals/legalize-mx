@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2021-12-21"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -205,9 +205,17 @@ VII. Violencia simbólica y/o mediática: La que, a través de patrones estereot
 
 VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y a su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas; y,
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN X.]</small>
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2020)</small>
 
 IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN IX.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
 
@@ -227,6 +235,8 @@ VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, informa
 
 VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 10.
 
 La violencia familiar también incluye:
@@ -237,11 +247,25 @@ II. La asignación exclusiva, motivada por discriminación, de actividades domé
 
 III. La prohibición para iniciar o continuar con actividades escolares, laborales o sociales;
 
-IV. La imposición vocacional;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
 
-V. El favorecimiento de un estado de riesgo contra las mujeres; y,
+IV. La prohibición para recibir atención médica;
 
-VI. Las conductas que señala el Código Familiar para el Estado de Michoacán de Ocampo.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+V. La imposición vocacional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+VI. El favorecimiento de un estado de riesgo contra las mujeres; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+
+VII. Las conductas que señala el Código Familiar para el Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE FEBRERO DE 2022)</small>
+
+Será considerada violencia contra la salud, la ejercida por un familiar, ya sea ascendente o descendente, o por persona con la que tenga una relación por matrimonio, concubinato, o similar a las anteriores, y que le prohíban recibir la atención médica necesaria.
 
 ###### ARTÍCULO 11.
 
@@ -1172,3 +1196,9 @@ P.O. 21 DE DICIEMBRE DE 2021.
 PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para su conocimiento y debida publicación.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 62 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN X Y 10 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entraraì (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
