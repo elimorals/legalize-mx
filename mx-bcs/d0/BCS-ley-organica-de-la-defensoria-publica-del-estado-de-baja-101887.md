@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-defensoria-publica-del-estado-de-baja-101887
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-31"
-last_updated: "2017-06-27"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de julio de 2014.
 
@@ -41,21 +41,21 @@ LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de la presente ley son de orden público y de interés social, y tienen por objeto regular la prestación del servicio de la defensoría pública gratuita a fin de garantizar el derecho a una defensa técnica, adecuada y de calidad para la población en los términos que señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado Libre y Soberano de Baja California Sur, los tratados internacionales ratificados por el Estado mexicano, el Código Nacional de Procedimientos Penales y demás leyes aplicables; así como la estructura, funcionamiento y atribuciones del órgano especializado en materias penal, civil y familiar.
+Las disposiciones de la presente ley son de orden público y de interés social, y tienen por objeto regular la prestación del servicio de la defensoría pública gratuita a fin de garantizar el derecho a una defensa técnica, adecuada y de calidad para la población en los términos que señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado Libre y Soberano de Baja California Sur, los tratados internacionales ratificados por el Estado mexicano, el Código Nacional de Procedimientos Penales y demás leyes aplicables; así como la estructura, funcionamiento y atribuciones del órgano especializado en materias laboral, penal, civil y familiar.
 
 ###### Artículo 2.
 
 Las disposiciones de la presente ley son de aplicación en el territorio del Estado de Baja California Sur.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 3.
 
-La defensoría pública tendrá a su cargo la aplicación de las disposiciones de la presente ley, para proporcionar obligatoria y gratuitamente los servicios jurídicos para una defensa adecuada y de calidad, en el procedimiento penal, así como a la sociedad en general en asuntos civiles y familiares.
+La defensoría pública tendrá a su cargo la aplicación de las disposiciones de la presente ley, para proporcionar obligatoria y gratuitamente los servicios jurídicos para una defensa adecuada y de calidad, en el procedimiento penal, así como a la sociedad en general en asuntos laborales, civiles y familiares.
 
 ###### Artículo 4.
 
@@ -113,11 +113,15 @@ III. Director General: El Director General de la Defensoría Pública;
 
 IV. Reglamento: El Reglamento de la presente ley;
 
-V. Defensor público: Encargado de representar al imputado en un procedimiento penal, así como a las (sic) usuarios en un procedimiento civil o familiar cuando proceda;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+V. Defensor público: Encargado de representar al imputado en un procedimiento penal, así como a los usuarios en un procedimiento laboral, civil o familiar cuando proceda;
 
 VI. (DEROGADA, B.O. 27 DE JUNIO DE 2017)
 
-VII. Usuario: Es el particular que requiera los servicios de la defensoría pública, ya sea por designación tratándose de causas penales, o por solicitud en materia civil y familiar cuando ésta proceda.
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+VII. Usuario: Es el particular que requiera los servicios de la defensoría pública, ya sea por designación tratándose de causas penales, o por solicitud en materia laboral, civil y familiar cuando ésta proceda.
 
 ###### Artículo 7.
 
@@ -171,9 +175,17 @@ XX. Velar por la igualdad ante la ley, por el debido proceso y actuar con profun
 
 XXI. Celebración de convenios con Instituciones Públicas y Educativas para el servicio de peritajes en materia penal cuando sea necesario;
 
-XXII. Privilegiar la gestión de mecanismos alternativos en la solución de controversias; y
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-XXIII. Las demás que las leyes señalen.
+XXII. Privilegiar la gestión de mecanismos alternativos en la solución de controversias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIII. Asesorar y en su caso representar a los usuarios en materia laboral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXIV. Las demás que las leyes señalen.
 
 > <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
 
@@ -215,7 +227,13 @@ IX. (DEROGADA, B.O. 27 DE JUNIO DE 2017)
 
 X. Trabajo social; y
 
-XI. Las demás unidades administrativas que se establezcan en el reglamento y requieran las necesidades del servicio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Defensor público especializado en materia de (sic) laboral;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
+
+XII. Las demás unidades administrativas que se establezcan en el reglamento y requieran las necesidades del servicio.
 
 Las unidades contarán con el personal que requieran las necesidades del servicio y permita el presupuesto.
 
@@ -269,9 +287,9 @@ V. Determinar con el Coordinador que corresponda, la adscripción de los servido
 
 VI. Coordinar y vigilar el desempeño que en el ejercicio de sus funciones lleven a cabo los coordinadores regionales, así como el demás personal a su cargo;
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-VII. Dirigir y supervisar a los defensores públicos para que presten el servicio jurídico gratuito en materia civil o familiar, o de defensa jurídica en materia penal, a todo usuario sin distinción alguna, cuando el interesado así lo solicite o le sea asignado por autoridad ministerial o jurisdiccional;
+VII. Dirigir y supervisar a los defensores públicos para que presten el servicio jurídico gratuito en materia laboral, civil o familiar, o de defensa jurídica en materia penal, a todo usuario sin distinción alguna, cuando el interesado así lo solicite o le sea asignado por autoridad ministerial o jurisdiccional;
 
 > <small>(REFORMADA, B.O. 27 DE JUNIO DE 2017)</small>
 
@@ -329,7 +347,9 @@ XXX. Implementar los planes, programas y estrategias en materia de desarrollo or
 
 XXXI. Proponer y elaborar programas y estrategias para la difusión de los servicios que presta la defensoría pública;
 
-XXXII. Determinar, previa evaluación de la Unidad de Trabajo Social, la viabilidad o pertinencia de la representación de los usuarios que soliciten el servicio de representación jurídica en materia civil y familiar;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XXXII. Determinar, previa evaluación de la Unidad de Trabajo Social, la viabilidad o pertinencia de la representación de los usuarios que soliciten el servicio de representación jurídica en materia laboral, civil y familiar;
 
 XXXIII. (DEROGADA, B.O. 27 DE JUNIO DE 2017)
 
@@ -363,7 +383,9 @@ VII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que prod
 
 Las Coordinaciones Regionales de Defensores Públicos en base a la circunscripción territorial que determine el Director General de la Defensoría Pública tendrán las siguientes atribuciones:
 
-I. Dirigir y supervisar a los defensores públicos para que presten el servicio jurídico gratuito en materia civil o familiar, o de defensa en materia penal, a todo individuo sin distinción alguna, cuando el interesado así lo solicite o le sea asignado por autoridad ministerial o jurisdiccional;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+I. Dirigir y supervisar a los defensores públicos para que presten el servicio jurídico gratuito en materia laboral, civil o familiar, o de defensa en materia penal, a todo individuo sin distinción alguna, cuando el interesado así lo solicite o le sea asignado por autoridad ministerial o jurisdiccional;
 
 II. Brindar orientación jurídica al público y desempeñar la función de defensor público cuando el servicio así lo requiera;
 
@@ -447,9 +469,13 @@ XXVII. Desempeñar sus funciones en la adscripción donde sean asignados atendie
 
 XXVIII. Las demás que señalen la legislación nacional procesal penal, el reglamento y las demás disposiciones aplicables.
 
-B. En materia civil y familiar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE FEBRERO DE 2022)</small>
 
-I. Asumir el patrocinio de los asuntos del orden civil y familiar que les sean asignados;
+B. En materia laboral, civil y familiar:
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+I. Asumir el patrocinio de los asuntos del orden laboral, civil y familiar que les sean asignados;
 
 II. Promover en todas las etapas procedimentales las pruebas necesarias, atendiendo a su desahogo, así como la interposición de los recursos e incidentes que procedan y, en su caso, el juicio de amparo;
 
@@ -481,19 +507,23 @@ XII. Las demás que señalen el reglamento y las demás disposiciones aplicables
 
 (DEROGADO, B.O. 27 DE JUNIO DE 2017)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 23.
 
-Para gozar de la asistencia de la defensoría pública en materia civil y familiar, se llenará solicitud en los formatos que para tal efecto elabore la Dirección General, la cual se turnará a la Unidad de Trabajo Social para su evaluación socioeconómica, y se deberán cumplir con los requisitos previstos en el reglamento de la presente ley.
+Para gozar de la asistencia de la defensoría pública en materia laboral, civil y familiar, se llenará solicitud en los formatos que para tal efecto elabore la Dirección General, la cual se turnará a la Unidad de Trabajo Social para su evaluación socioeconómica, y se deberán cumplir con los requisitos previstos en el reglamento de la presente ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
-Los servicios de defensoría pública en materia civil y familiar se prestarán, preferentemente a:
+Los servicios de defensoría pública en materia laboral, civil y familiar se prestarán, preferentemente a:
 
 I. Las personas que estén desempleadas y no perciban ingresos;
 
 II. Los trabajadores jubilados o pensionados, así como sus cónyuges o concubinarios;
 
-III. Los trabajadores eventuales o subempleados;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+III. Aquellas personas desempleadas o despedidas de su empleo, trabajadores eventuales y aquellos que reciban, bajo cualquier concepto, ingresos brutos en un mes hasta por el monto equivalente a 116 veces el salarlo mínimo general vigente en esta Entidad Federativa, siempre a favor del usuario.
 
 IV. Los integrantes de las comunidades indígenas;
 
@@ -502,6 +532,14 @@ V. A los demandados en los procedimientos de extinción de dominio;
 VI. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios;
 
 VII. A las personas menores de edad.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+Se requerirá de un estudio socioeconómico elaborado por una trabajadora social, para determinar si el solicitante del servicio de defensa pública en materia laboral, civil o familiar, reúne los requisitos establecidos.
+
+> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
+En los casos de urgencia establecidos en el Reglamento, el servicio de defensa pública deberá prestarse de manera inmediata y por única ocasión, sin esperar los resultados del estudio socioeconómico.
 
 ###### Artículo 24.
 
@@ -565,13 +603,17 @@ IX. Los demás requisitos que establezcan las leyes respectivas.
 
 ### Capítulo V. Unidad de Trabajo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 27.
 
-La defensoría pública tendrá una Unidad de Trabajo Social, que será la encargada de evaluar, canalizar, limitar o excluir a las personas que solicitan el servicio de la defensoría pública en materia civil y familiar. Esta Unidad tiene las siguientes atribuciones:
+La defensoría pública tendrá una Unidad de Trabajo Social, que será la encargada de evaluar, canalizar, limitar o excluir a las personas que solicitan el servicio de la defensoría pública en materia laboral, civil y familiar. Esta Unidad tiene las siguientes atribuciones:
 
 I. Realizar estudios socioeconómicos a las personas que reciben el servicio de la defensoría;
 
-II. Evaluar la pertinencia y viabilidad de la representación jurídica en asuntos civiles o familiares;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+II. Evaluar la pertinencia y viabilidad de la representación jurídica en asuntos laborales, civiles o familiares;
 
 III. Supervisar el cumplimiento de las condiciones para acceder al servicio de defensoría;
 
@@ -683,9 +725,11 @@ Cuando el defensor público incumpla o viole lo dispuesto por la presente ley o 
 
 ### Capítulo VIII. Impedimentos y Excusas de los Defensores Públicos
 
+> <small>(REFORMADO PRIMER PÁARAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 38.
 
-Los defensores públicos no podrán intervenir en la defensa de los intereses de una persona imputada o sentenciada, o en una causa civil o familiar si se encuentran comprendidos en los siguientes casos de impedimento:
+Los defensores públicos no podrán intervenir en la defensa de los intereses de una persona imputada o sentenciada, o en una causa laboral, civil o familiar si se encuentran comprendidos en los siguientes casos de impedimento:
 
 I. Cuando realicen amenazas, o manifiesten de algún modo su odio por quienes los designen, o hayan sido sujetos de esas conductas;
 
@@ -703,9 +747,17 @@ VII. Cuando haya sido representante, mandatario judicial o apoderado de la víct
 
 VIII. Cuando siendo varias las personas acusadas y exista un interés contrario entre las mismas, sea designado para representarlos;
 
-IX. Cuando sea tutor o curador de la persona ofendida; y
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-X. Cuando estén en una situación análoga o más grave de las mencionadas, que pueda afectar su ánimo de tal manera que se traduzca en un perjuicio de los intereses del representado.
+IX. Cuando sea tutor o curador de la persona ofendida;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+X. Cuando estén en una situación análoga o más grave de las mencionadas, que pueda afectar su ánimo de tal manera que se traduzca en un perjuicio de los intereses del representado; y
+
+> <small>(ADICIONADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XI. Cuando él, su cónyuge, concubinario o concubina o con quien tenga una relación de hecho, sus parientes consanguíneos en línea recta sin limitación de grado, los colaterales dentro del cuarto grado y los afines dentro del segundo, tengan un proceso en materia laboral como parte actora o demandada contra la persona representada.
 
 ###### Artículo 39.
 
@@ -862,3 +914,23 @@ B.O. 27 DE JUNIO DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+B.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2819 SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. El Titular del Poder Ejecutivo del Estado, a través de sus dependencias en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para la implementación de la estructura orgánica y funcional de las reformas a la Defensoría Pública del Estado, en plena observancia a las disposiciones aplicables, debiendo la Secretaría de Finanzas y Administración, prever en el presupuesto de egresos, la suficiencia presupuestaría necesaria que otorgará a la Defensoría Pública del Estado de Baja California Sur.
+
+Artículo Tercero. La Secretaria de Finanzas y Administración del Poder Ejecutivo, en ejercicio de sus atribuciones, deberá crear las plazas laborales para el número de Defensores Públicos en materia laboral que sean necesarias para el cumplimiento de ésta Ley.
+
+Artículo Cuarto. Para la selección y designación de Defensores Especialistas en materia laboral que se integrarán a la Defensoría Pública del Estado de Baja California Sur, que se adicionan por el presente Decreto; se realizará mediante convocatoria pública y para garantizar el principio de máxima publicidad, deberá ser publicada en el periódico de mayor circulación en el Estado, y simultáneamente en el Boletín Oficial de Gobierno del Estado de Baja California Sur, así como en la página web oficial de Gobierno del Estado de Baja California Sur, la convocatoria garantizara el derecho de participar en igualdad de oportunidades a los abogados postulantes.
+
+La convocatoria a que hace referencia el párrafo anterior, deberá ser emitida por la Subsecretaria de la Consejería Jurídica del Estado de Baja California Sur, dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Quinto. Los defensores especialistas en materia laboral entraran en actividades una vez que los Tribunales Laborales del Poder Judicial del Estado de Baja California Sur, entren en vigor.
+
+Artículo Sexto. El Titular del Poder Ejecutivo del Estado dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, deberá establecer los mecanismos o lineamientos de coordinación entre la Procuraduría de la Defensa del Trabajo y de la Defensoría Publica ambas del Estado de Baja California Sur para la prestación de los servicios de asesoría ante el Centro de Conciliación Laboral del Estado de Baja California, así como los servicios de representación ante los Tribunales Laborales del Poder Judicial del Estado, aquellas personas que soliciten la prestación de dichos servicios.
+
+Artículo Séptimo. Se derogan las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en la presente Ley.
