@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2021-05-28"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. D
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -751,15 +751,17 @@ IV. Mantener, dentro y fuera del territorio del Estado, actitudes que dignifique
 
 El Programa Estatal para el Desarrollo Integral de la Juventud Queretana, se constituye por el conjunto de acciones y políticas públicas que deberán seguir todas las autoridades, entidades y dependencias de la administración pública estatal involucradas en la materia, con el objeto de impulsar el desarrollo integral de los jóvenes, prevenir factores de riesgo y alteraciones del desarrollo y atender a los jóvenes que se encuentren en estado de vulnerabilidad.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 53.
 
-El Programa tendrá una duración de tres años y no podrá contravenir al Plan Estatal de Desarrollo. Debe contemplar todas las acciones, programas y estrategias tendientes a la protección de los derechos de la juventud queretana, así como a propiciar las vías necesarias para mejorar las condiciones en todos los ámbitos posibles de ésta, encaminados a su desarrollo integral.
+El Programa debe contemplar todas las acciones, programas y estrategias tendientes a la protección de los derechos de la juventud queretana, así como a propiciar las vías necesarias para mejorar las condiciones en todos los ámbitos posibles de ésta, encaminados a su desarrollo integral.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 54.
 
-El titular de la Secretaría de la Juventud, elaborará, presentará, supervisará el Programa, para lo cual podrá atender, en su caso, las observaciones del CCIJEQ.
+El titular de la Secretaría de la Juventud elaborará, presentará, supervisará el Programa, para lo cual podrá atender, en su caso, las observaciones del CCIJEQ, el cual deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en un plazo no mayor de un año contado a partir de la fecha de la publicación del Plan Estatal de Desarrollo de la Administración Estatal en turno. El Programa no podrá contravenir el Plan Estatal de Desarrollo del ejercicio gubernamental de que se trate, ni exceder su vigencia.
 
 ###### Artículo 55.
 
@@ -1540,3 +1542,15 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 Artículo Tercero. La Secretaría de la Juventud del Poder Ejecutivo del Estado de Querétaro, contará con un plazo de 60 días hábiles posteriores a la entrada en vigor de la presente Ley, a efecto de emitir el Estatuto Orgánico del Consejo Ciudadano Juvenil del Estado de Querétaro a que se refiere la presente Ley. En los Ayuntamientos se contará con un plazo igual al señalado, a efecto de que se emitan las disposiciones normativas correspondientes.
 
 Artículo Cuarto. Las acciones previstas en la presente reforma, y que impliquen aplicación de recursos, se llevarán a cabo atendiendo a la disponibilidad presupuestaria del ejercicio fiscal correspondiente.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 53 Y 54 DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que (sic) opongan a lo establecido por la presente Ley.
+
+Artículo Tercero. El Programa Estatal para el Desarrollo Integral de la Juventud Queretana 2021 - 2024, será vigente hasta la publicación del Plan Estatal de Desarrollo del ejercicio constitucional que corresponda.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
