@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2021-12-27"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -757,55 +757,95 @@ XIV. Vigilar el buen uso y manejo de los créditos agrícolas, y
 
 XV. Las demás que le señalen las leyes aplicables.
 
-> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 29.
 
-A la Secretaría del Trabajo y Desarrollo Social le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría del Trabajo, Bienestar y Desarrollo Social le corresponde el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 I. Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos; así como la debida aplicación de los reglamentos, decretos, acuerdos y órdenes del Gobernador del Estado, en materia de trabajo y previsión social;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 II. Coadyuvar con la Subsecretaría de la Consejería Jurídica en la representación del Gobernador del Estado en los juicios de amparo, juicios de nulidad o cualquier controversia jurídica que se suscite por motivo de la observancia y aplicación de los diversos ordenamientos laborales, reglamentos o decretos expedidos en materia de trabajo y previsión social;
 
-III. Conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos de la entidad, privilegiando en todo momento, la conciliación de los factores de la producción, así como proponer al Gobernador del Estado, la remoción, designación, y coordinación de los organismos de justicia laboral;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
-IV. Establecer mecanismos, normas, políticas y lineamientos que permitan, la estrecha colaboración y vinculación permanente con las diversas instancias, órganos y organismos de la administración pública federal, tendientes a la celebración de acuerdos, convenios de coordinación, y bases de colaboración, así como los demás actos jurídicos necesarios a través de los cuales se logre debidamente el seguimiento y debido cumplimiento a los programas establecidos y coordinados por el Gobierno Federal, y que sean aplicables en materia de trabajo, y previsión social e impartición y procuración de justicia laboral;
+III. Conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos de la entidad, privilegiando en todo momento, la conciliación de los factores de la producción;
+
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+IV. Establecer mecanismos, normas, políticas y lineamientos que permitan, la estrecha colaboración y vinculación permanente con las diversas instancias, órganos y organismos de la administración pública federal, tendientes a la celebración de acuerdos, convenios de coordinación, y bases de colaboración, así como los demás actos jurídicos necesarios a través de los cuales se logre debidamente el seguimiento y debido cumplimiento a los programas establecidos y coordinados por el Gobierno Federal, y que sean aplicables en materia de trabajo, previsión social y procuración de justicia laboral;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 V. Coordinar la participación de la Secretaría con las demás dependencias y entidades de la administración pública federal y los sectores productivos, en la aplicación y formulación de programas y proyectos en materia de productividad, de capacitación y adiestramiento de los trabajadores, así como la implementación de políticas, programas y operación del Servicio Nacional de Empleo;
 
-VI. Coordinar el establecimiento y la integración de la Junta Local de Conciliación y Arbitraje del Estado, así como las especiales que se instalen o se encuentren en el territorio estatal, así como proponer a dicha instancia laboral en apego a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la impartición de la justicia laboral en el Estado; así como vigilar su funcionamiento;
+VI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-VII. Intervenir conciliatoriamente en los conflictos que se deriven de la aplicación y administración de los contratos colectivos de trabajo, recomendando el cumplimiento y la observancia de las disposiciones legales, reglamentarias y condiciones de trabajo pactadas; procurando el equilibrio entre los factores de la producción, y en todo momento, con estricto respeto a los principios de bilateralidad, legalidad, diálogo y transparencia;
+VII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-VIII. Procurar permanentemente la solución de los conflictos laborales colectivos o individuales, a través de la conciliación con el objeto de que las partes resuelvan sus diferencias mediante la celebración de convenios, privilegiando en primera instancia, la previsión de conflictos, y posteriormente la conciliación, como medios alternos y fundamentales de solución en controversias laborales;
+VIII. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 IX. Vigilar que se proporcionen los servicios de asesoría, conciliación y en su caso representación jurídica gratuita en materia laboral a los sindicatos y trabajadores cuando estos así lo soliciten, por conducto de la Procuraduría de la Defensa del Trabajo;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 X. Actualizar, a partir de su registro, la estadística de los sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales y profesionales, así como los demás datos que se consideren necesarios, información que será pública en términos de la Ley de la materia;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XI. Participar en la planeación y coordinación de la capacitación y adiestramiento de los trabajadores ya sean del sector público o privado, a través del Instituto de Capacitación para los Trabajadores del Estado de Baja California Sur; y expedir constancias de habilidades laborales, en coordinación con las diversas autoridades educativas
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XII. Programar, ordenar y realizar por conducto de los inspectores del trabajo las inspecciones ordinarias y extraordinarias en los centros de trabajo sujetos a la jurisdicción y competencia estatal para efectos de verificar el debido cumplimiento de la normatividad laboral y en su caso aplicar las sanciones correspondientes;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XIII. Vigilar la instalación y funcionamiento de las comisiones obrero- patronales que ordene la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XIV. Establecer mecanismos de operación y seguimiento de políticas, programas y acciones que propicien la igualdad de oportunidades y la no discriminación en materia de trabajo y previsión social, buscando y tutelando permanentemente la integración laboral de personas pertenecientes a grupos vulnerables, así como de aquellas recluidas en los centros de readaptación social del Estado;
 
-XV. Llevar las estadísticas estatales correspondientes a las materias de trabajo y previsión social, así como las inherentes a impartición y procuración de justicia laboral, de conformidad y en términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
+
+XV. Llevar las estadísticas estatales correspondientes a las materias de trabajo y previsión social, así como las inherentes a la conciliación y procuración de justicia laboral, de conformidad y en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XVI. Coordinar los diversos programas de desarrollo social en el ámbito estatal;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XVII. Promover y facilitar la inversión social en proyectos de desarrollo;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XVIII. Coordinar y supervisar los programas sociales del Gobierno Federal que se desarrollen en el Estado;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XIX. Llevar un registro de los beneficiarios de los programas sociales que ejecuten las diferentes dependencias y entidades de la administración pública del Estado;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XX. Proponer políticas y lineamientos encaminados a la planeación, financiamiento, ejecución, supervisión y control de los programas de desarrollo social, regional y de combate a la pobreza y desigualdad que realicen las dependencias y entidades de la administración pública estatal;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XXI. Proponer e impulsar la ejecución de programas de emergencia social, destinados a zonas indígenas, rurales y urbanas marginadas;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XXII. Establecer contacto con organismos no gubernamentales interesados en la inversión social para proyectos de desarrollo social dentro del Estado;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XXIII. Coordinarse con las áreas de desarrollo social de los municipios del Estado;
 
@@ -821,9 +861,15 @@ XXIV. Fomentar la participación de instituciones académicas, de investigación
 
 XXV. Impulsar las políticas públicas y el seguimiento de las mismas, para dar apoyo a la inclusión y participación de los jóvenes en vida social y productiva;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XXVI. Concertar programas y, apoyar las actividades de bienestar y desarrollo social de los particulares, grupos intermedios y organismos no gubernamentales que actúan en el estado;
 
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 XXVII. Crear y operar un sistema de vinculación formal para incluir y cohesionar a los grupos vulnerables a las oportunidades de participación y desarrollo social, y
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 XXVIII. Las demás que le señalen las leyes aplicables.
 
@@ -1169,9 +1215,11 @@ Los órganos de gobierno o administración de las entidades paraestatales deber�
 
 ### CAPÍTULO ÚNICO. NATURALEZA JURÍDICA DE LOS TRIBUNALES ADMINISTRATIVOS
 
+> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 60.
 
-Para el trámite y resolución de los conflictos que se presenten entre el Estado y sus trabajadores, se contará con un Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios; para las controversias entre patrones y trabajadores funcionará la Junta Local de Conciliación y Arbitraje del Estado, y para la resolución de conflictos por actos administrativos de las autoridades estatales y municipales frente a los particulares, existirá la autoridad jurisdiccional competente en la materia.
+Para el trámite y resolución de los conflictos que se presenten entre el Estado y sus trabajadores, se contará con un Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios; y para la resolución de conflictos por actos administrativos de las autoridades estatales y municipales frente a los particulares, existirá la autoridad jurisdiccional competente en la materia.
 
 ###### ARTÍCULO 61.
 
@@ -1408,3 +1456,35 @@ Se instruye a la Secretaría de Finanzas y Administración a realizar los trámi
 ###### ARTÍCULO NOVENO.
 
 Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+B.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2818 SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el mismo día que inicien sus funciones los Juzgados Laborales y el Centro de Conciliación laboral del Estado de Baja California Sur, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+En cumplimiento al Quinto Transitorio del Decreto 2805, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 27 de diciembre de 2021, que reforma a la Constitución Política del Estado Libre y Soberano de Baja California Sur, al titular de la Secretaría del Trabajo, Bienestar y Desarrollo Social le corresponde en caso de ser necesario la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje, en tanto estas continúan su operación, para que las citadas instancias puedan concluir sus funciones; asimismo la Junta Local de Conciliación y Arbitraje del Estado de Baja California Sur y sus Juntas Especiales, continuaran sus funciones en los términos establecidos en el mismo Quinto Transitorio y Decimo Primero del Decreto 2805.
+
+###### ARTÍCULO TERCERO.
+
+Las dependencias del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a su reglamentación interna respectiva para ajustarlos (sic) a la presente reforma de Ley, en un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las partidas presupuestales, recursos humanos, materiales y bienes patrimoniales que se encuentren asignados actualmente a la Junta Local de Conciliación y Arbitraje del Estado de Baja California Sur y sus Juntas Especiales, permanecerán para su funcionamiento conforme al Quinto Transitorio y Decimo Primero del Decreto 2805, mismas que una vez que concluyan con el último asunto en trámite, conforme al plan de trabajo, se procederá a su extinción expidiendo el decreto respectivo, quedando dicho presupuesto y recursos a cargo de la Secretaría del Trabajo, Bienestar y Desarrollo Social.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se expiden los reglamentos a que refiere el artículo transitorio tercero, continuarán vigentes los actuales en lo que no se opongan al presente decreto, confiriendo al Titular del Poder Ejecutivo la facultad para resolver las cuestiones que surjan en tanto se expidan las modificaciones a los reglamentos respectivos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
