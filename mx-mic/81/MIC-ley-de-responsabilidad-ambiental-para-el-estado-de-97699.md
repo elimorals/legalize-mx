@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidad-ambiental-para-el-estado-de-97699"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-10"
-last_updated: "2019-08-28"
+last_updated: "2022-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 10 de enero de 2014.
 
@@ -49,15 +49,17 @@ La presente Ley es de orden público e interés social y tiene por objeto establ
 
 El régimen de responsabilidad ambiental reconoce que el daño ocasionado al ambiente es independiente del daño patrimonial sufrido por los propietarios de los elementos y recursos naturales.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
+En materia ambiental el Estado deberá promover, generar y propiciar el uso de energías renovables y energías limpias por todos los medios posibles, así como crear políticas publicas encaminadas al cuidado y protección del medio ambiente y la procuración del desarrollo energético sostenible en todo el territorio estatal mediante el uso de energías verdes y amigables con el medio ambiente, garantizando un crecimiento exponencial en su utilización y mediante una planeación ordenada que permita el desarrollo de las regiones, estableciendo metas y objetivos específicos en el rubro.
+
 Los procesos jurisdiccionales previstos en el presente Capítulo se dirigirán a determinar la responsabilidad ambiental, sin menoscabo de los procesos para determinar otras formas de responsabilidad que procedan en términos patrimoniales, administrativos o penales.
 
-> <small>[N. DE E. AL PRESENTE PÁRRAFO SE LE INCORPORA EL ANTERIOR PÁRRAFO SEGUNDO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 2.
 
-Para los efectos de esta Ley se estará a las siguientes definiciones, así como aquellas previstas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo, las leyes ambientales y los tratados internacionales de los que México sea parte. Se entiende por:
+Para los efectos de esta Ley se estará a las siguientes definiciones, así como aquellas previstas en la Ley para la Conservación y Sustentabilidad Ambiental del Estado de Michoacán de Ocampo, las leyes ambientales y los tratados internacionales de los que México sea parte.
 
 I. Cadena causal: La secuencia de influencias de causa y efecto de un fenómeno que se representa por eslabones relacionados;
 
@@ -81,9 +83,9 @@ X. Mecanismos alternativos: Los mecanismos alternativos de solución de controve
 
 XI. Sanción económica: El pago que imponga el órgano jurisdiccional para penalizar una conducta ilícita y dolosa, con la finalidad de lograr una prevención general y especial e inhibir en el futuro comportamientos prohibidos;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2022)</small>
 
-XII. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
+XII. Secretaría: La Secretaría de Medio Ambiente del Estado de Michoacán de Ocampo:
 
 XIII. Servicios ambientales: Las funciones que desempeña un elemento o recurso natural en beneficio de otro elemento o recurso natural, los hábitat, ecosistema o sociedad; y,
 
@@ -129,11 +131,13 @@ La falta de expedición de las normas referidas en el párrafo anterior, no repr
 
 Las personas y las organizaciones sociales y empresariales interesadas, podrán presentar a la Secretaría propuestas de las normas ambientales estatales a las que hace referencia el presente artículo, en términos del procedimiento previsto por las leyes ambientales.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 8.
 
-Las garantías financieras que hayan sido obtenidas de conformidad a lo previsto por las leyes ambientales previo al momento de producirse un daño al ambiente, con el objeto de hacer frente a la responsabilidad ambiental, serán consideradas como una atenuante de la sanción económica por el órgano jurisdiccional al dictar sentencia.
+El seguro de responsabilidad civil por daños ambientales o garantía de responsabilidad civil o de daños al ambiente que hayan sido obtenidos de conformidad a lo previsto por las leyes ambientales previo al momento de producirse un daño al ambiente, con el objeto de hacer frente a la responsabilidad ambiental, serán considerados como una atenuante de la sanción económica por el órgano jurisdiccional al dictar sentencia.
 
-El monto de las garantías financieras a que hace referencia el párrafo anterior, deberá estar destinado específica y exclusivamente a cubrir las responsabilidades ambientales que se deriven de su actividad económica, productiva o profesional. Las garantías deberán quedar constituidas desde la fecha en que surta efectos la autorización necesaria para realizar la actividad, y mantenerse vigentes durante todo el periodo de desarrollo de la misma.
+El monto del seguro a que hace referencia el párrafo anterior deberá estar destinado específica y exclusivamente a cubrir las responsabilidades ambientales que se deriven de su actividad económica, productiva o profesional. Las garantías deberán quedar constituidas desde la fecha en que surta efectos la autorización necesaria para realizar la actividad y mantenerse vigentes durante todo el periodo de desarrollo de la misma.
 
 ###### ARTÍCULO 9.
 
@@ -520,3 +524,11 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO DÉCIMO SÉPTIMO. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 31 DE LA LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 08 POR EL QUE "SE REFORMAN EL ARTÍCULO 2° Y SU FRACCIÓN XII Y EL ARTÍCULO 8; Y, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 1 RECORRIÉNDOSE EN SU ORDEN EL SIGUIENTE, DE LA LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
