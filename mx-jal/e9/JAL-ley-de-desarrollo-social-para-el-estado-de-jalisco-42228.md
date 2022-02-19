@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2021-10-30"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -1149,15 +1149,21 @@ i) Grado de accesibilidad a carretera pavimentada; y
 
 j) Grado de accesibilidad a las tecnologías de comunicación y de la información;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE FEBRERO DE 2022)</small>
 
-IV. La retroalimentación y las propuestas de las contralorías sociales o consultas públicas en relación con los programas de desarrollo social;
+IV. Los índices de medición del abandono o deserción escolar;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE FEBRERO DE 2022)</small>
 
-V. Los resultados de las evaluaciones que se realicen de los programas de desarrollo social en los que participe el Gobierno del Estado o los Municipios; y
+V. La retroalimentación y las propuestas de las contralorías sociales o consultas públicas en relación con los programas de desarrollo social;
 
-VI. Estudios e investigaciones sobre el desarrollo social en el Estado.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
+
+VI. Los resultados de las evaluaciones que se realicen de los programas de desarrollo social en los que participe el Gobierno del Estado o los municipios; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE FEBRERO DE 2022)</small>
+
+VII. Estudios e investigaciones sobre el desarrollo social en el Estado.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1382,5 +1388,11 @@ P.O. 29 DE JULIO DE 2021.
 P.O. 30 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 24482/LXII/21 QUE MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 7 Y EL ARTÍCULO 30 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28737/LXIII/22 QUE REFORMA EL ARTÍCULO 58 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
