@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-operacion-de-albergues-del-estado-de-jalisco-107917
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2021-09-04"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de mayo de 2015.
 
@@ -135,9 +135,19 @@ IX. Dictar la política estatal para la operación de albergues; y
 
 X. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 7°.
 
-(DEROGADO, P.O. 29 DE AGOSTO DE 2019)
+Corresponde a la Secretaría de Educación, en materia de albergues para niñas, niños y adolescentes, el ejercicio de las siguientes atribuciones:
+
+I. Coadyuvar a que los albergues que presten servicios educativos cuenten con programas y sistemas que permitan contribuir al aprendizaje de las y los residentes;
+
+II. Apoyar a los albergues con el objeto de lograr la igualdad de acceso, permanencia y resultados satisfactorios en la educación;
+
+III. Proporcionar, dentro de la educación que se brinde a las niñas, niños y adolescentes residentes, educación para el trabajo, de conformidad con lo que establece la Ley General de Educación, la Ley de Educación del Estado Libre y Soberano de Jalisco, así como los lineamientos aplicables en la materia; y
+
+IV. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
 
@@ -1060,5 +1070,11 @@ P.O. 21 DE ABRIL DE 2020.
 P.O. 4 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28430/LXII/21 SE REFORMA EL ARTÍCULO 33 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28734/LXIII/22 QUE REFORMA EL ARTÍCULO 7 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
