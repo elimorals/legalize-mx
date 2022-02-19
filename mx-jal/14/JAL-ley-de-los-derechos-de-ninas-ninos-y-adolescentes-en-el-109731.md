@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2021-07-06"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -927,9 +927,11 @@ XI. Las demás que establezca la legislación aplicable.
 
 El Sistema Estatal DIF y el Sistema Municipal DIF que corresponda, deberán brindar la protección a las niñas, niños y adolescentes en condición de migración, conforme a lo previsto en la Ley General y esta Ley, y organizar y habilitar los espacios o albergues para recibir a niñas, niños y adolescentes migrantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 68.
 
-Las autoridades, en el ámbito de su competencia, deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento y demás disposiciones jurídicas aplicables.
+Las autoridades, en el ámbito de su competencia, deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
 
 Cuando niñas, niños y adolescentes se encuentren en situación migratoria irregular, en ningún caso preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por ese hecho.
 
@@ -1958,5 +1960,11 @@ TERCERO. A partir de la aprobación de la ley, se establece el periodo de un añ
 P.O. 6 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28407/LXII/21 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28735/LXIII/22 QUE FORMA (SIC) EL ARTÍCULO 2 BIS DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO; Y EL ARTÍCULO 68 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
