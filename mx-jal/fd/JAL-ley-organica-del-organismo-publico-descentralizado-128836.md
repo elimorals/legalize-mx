@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-organismo-publico-descentralizado-128836"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-06-02"
-last_updated: "2022-02-17"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 2 de junio de 2018.
 
@@ -159,13 +159,15 @@ I. El Titular de la Dependencia que determine el Gobernador del Estado, quien la
 
 II. Un representante de la Secretaría General de Gobierno;
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE FEBRERO DE 2022)</small>
 
 III. Un representante de la Dependencia del Poder Ejecutivo responsable de la Seguridad Pública;
 
 IV. Un representante de la instancia responsable de la procuración de justicia;
 
-V. Un representante de la Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
+
+V. Un representante de la Secretaría de Administración;
 
 VI. Un representante de la Secretaría de Innovación, Ciencia y Tecnología;
 
@@ -279,7 +281,9 @@ VII. Nombrar y remover al personal adscrito a las unidades administrativas y ope
 
 VIII. Recabar información y aportarlas a las áreas competentes para la seguridad pública y la procuración de justicia;
 
-IX. Auxiliar al personal de la Fiscalía General del Estado, de la Secretaría de Movilidad, de las instituciones de seguridad pública y de protección civil en el Estado, que realicen actividades relacionadas con procesos de obtención, clasificación, análisis, custodia y remisión de información necesaria para la prevención, investigación y persecución de los delitos; prevención y sanción de infracciones administrativas, procedimientos de reacción inmediata y aquellas señaladas en las leyes respectivas;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
+
+IX. Auxiliar al personal de la Fiscalía Estatal, de la Secretaría del Transporte, de las instituciones de seguridad pública y de protección civil en el Estado, que realicen actividades relacionadas con procesos de obtención, clasificación, análisis, custodia y remisión de información necesario (sic) para la prevención, investigación y persecución de delitos; prevención y sanción de infracciones administrativas, procedimientos de reacción inmediata y aquellas señaladas en las leyes respectivas;
 
 X. Expedir y verificar el cumplimiento de los lineamientos del uso de tecnologías de la información y redes de comunicación para la seguridad pública de acuerdo a Norma Técnica para Estandarizar las Características Técnicas y de Inter operatividad de los Sistema de Video vigilancia para la Seguridad Públicas (sic);
 
@@ -791,7 +795,9 @@ II. Establecer el mecanismo de supervisión necesario para que las instancias y 
 
 III. Establecer comunicación directa con las instancias internas y externas que participen en los procesos de vigilancia, control y evaluación gubernamental;
 
-IV. Cuando proceda, atender la relación cotidiana del “Escudo Urbano C5” con el personal de la Dirección General de Auditoría Interna de (sic) Secretaría de Planeación, Administración y Finanzas, de la Contraloría del Estado, de la Auditoría Superior del Estado y en su caso, con la Auditoría Superior de la Federación;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
+
+IV. Cuando proceda, atender la relación cotidiana del "Escudo Urbano C5 con el personal de la Dirección General de Auditoría Interna de la Secretaría de la Hacienda Pública, de la Contraloría del Estado, de la Auditoria Superior del Estado y en su caso, con la Auditoria Superior de la Federación;
 
 V. Establecer los mecanismos administrativos correspondientes y responder a las quejas y denuncias que formule el personal del “Escudo Urbano C5” y la ciudadanía en general;
 
@@ -801,9 +807,13 @@ VII. Elaborar y proponer al Director General; previa autorización de la Junta d
 
 VIII. Llevar los procedimientos administrativos por responsabilidades no graves, en contra de los servidores públicos y personal comisionado del “Escudo Urbano C5”, por conductas previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Política y Administrativas del Estado;
 
-IX. Presentar las denuncias en contra de servidores públicos y personal comisionado del “Escudo Urbano C5”, por responsabilidades graves previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Política y Administrativas del Estado;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
 
-IX (SIC). Las demás que le señalen otras disposiciones legales y reglamentarias aplicables.
+IX. Presentar las denuncias en contra de servidores públicos y personal comisionado del "Escudo Urbano C5" por responsabilidades graves previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Política y Administrativas del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
+
+X. Las demás que le señalen otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 32.
 
@@ -918,3 +928,9 @@ P.O. 17 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28730/LXIII QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28733/LXIII/22 QUE REFORMAN LOS ARTÍCULOS 8, 10, Y 31, TODOS DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
