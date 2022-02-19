@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-atencion-de-los-migrantes-en-el-estado-1172
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-17"
-last_updated: "2019-12-28"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección II al Número 4 del Periódico Oficial del Estado de Jalisco, el jueves 17 de noviembre de 2016.
 
@@ -56,6 +56,10 @@ La aplicación de las disposiciones de la presente Ley, corresponden al Titular 
 ###### Artículo 2 Bis.
 
 El gobierno del Estado de Jalisco y los Municipios procurarán, con el apoyo del Gobierno Federal y mediante la cooperación internacional, especialmente económica y técnica, que todas las personas extranjeras sin importar su estatus migratorio, residentes o en tránsito en su territorio, gocen de las garantías consagradas en el artículo 4 de la Constitución Política del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2022)</small>
+
+En el caso de niñas, niños y adolescentes migrantes se garantizará, de manera adicional a lo establecido en el párrafo anterior, los derechos y principios establecidos en la Ley de Migración, Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco, y sus reglamentos.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LOS MIGRANTES
 
@@ -254,3 +258,9 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27772/LXII/19 QUE REFORMA EL ARTÍCULO 4° DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28735/LXIII/22 QUE FORMA EL ARTÍCULO 2 BIS DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO; Y EL ARTÍCULO 68 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
