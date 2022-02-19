@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-mental-para-el-estado-de-jalisco-97049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-04"
-last_updated: "2020-12-29"
+last_updated: "2022-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 4 de enero de 2014.
 
@@ -67,9 +67,11 @@ IV. Las demás que le señalen otras leyes y disposiciones aplicables.
 
 La salud mental se define como el bienestar en el cual el individuo es consciente de sus propias capacidades, le permite afrontar las tensiones normales de la vida, puede trabajar de forma productiva y fructífera y es capaz de hacer una contribución a su comunidad
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 4.
 
-El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de las personas con trastornos mentales, corresponde a la Secretaría de Salud, al Consejo Estatal de Salud Mental del Estado de Jalisco y al Instituto Jalisciense de Salud Mental proporcionar a las personas que integren el núcleo familiar, debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para tal fin.
+El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de las personas con trastornos mentales, corresponde a la Secretaría de Salud, al Consejo Estatal de Salud Mental del Estado de Jalisco y al Instituto Jalisciense de Salud Mental proporcionar a las personas que integren el núcleo familiar, debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para tal fin, con énfasis en la atención de niñas, niños y adolescentes.
 
 ###### Artículo 5.
 
@@ -157,9 +159,9 @@ II. Implementar programas en materia de salud mental, en conjunto con el Institu
 
 III. Fijar los lineamientos de coordinación para que los municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental e incentiven la participación social;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
 
-IV. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que en cada uno de los municipios del Estado, se cuente, mínimamente con un Módulo Comunitario de Atención en Salud Mental; y
+IV. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que en cada uno de los municipios del Estado se cuente, mínimamente, con un Módulo Comunitario de Atención en Salud Mental;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE OCTUBRE DE 2019)</small>
 
@@ -173,13 +175,17 @@ VI. Implementar la guía práctica y el protocolo de intervención para los serv
 
 VII. Dar aviso de manera inmediata a la autoridad competente cuando se tenga conocimiento de una conducta suicida, a efecto de que se otorguen las medidas de protección integral de los derechos que correspondan;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
 
-VIII. Mantener la confidencialidad de la información en toda asistencia y/o tratamiento de un paciente con conductas suicidas bajo irrestricto apego a los protocolos de actuación; y
+VIII. Mantener la confidencialidad de la información en toda asistencia y/o tratamiento de un paciente con conductas suicidas bajo irrestricto apego a los protocolos de actuación;
 
-(REUBICADA, P.O. 8 DE OCTUBRE DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE FEBRERO DE 2022)</small>
 
-IX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+IX. Promover programas de atención que consideren, entre otros, los hospitales de día, servicios de consulta externa, centros de día, casas de medio camino y talleres protegidos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE FEBRERO DE 2022)</small>
+
+X. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2020)</small>
 
@@ -223,11 +229,13 @@ En las unidades médicas de los Centros de Atención Integral Juvenil se realiza
 
 Se implementarán programas para aprovechar los recursos disponibles en los reclusorios preventivos, como son el centro escolar y los diferentes talleres donde la persona usuaria de los servicios de salud mental se encuentre bajo custodia, con la finalidad de que pueda realizar actividades encaminadas a su rehabilitación.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 13 Bis.
 
-El internamiento de personas con padecimientos mentales se debe ajustar a principios éticos, sociales, científicos y legales; así como a criterios contemplados en la Ley General de Salud, la presente Ley, la Norma Oficial Mexicana para la Prestación de Servicios de Salud en Unidades de Atención Integral Hospitalaria Médico-Psiquiátrica y demás normatividad aplicable.
+El internamiento de personas con padecimientos mentales se debe ajustar a principios éticos, sociales, científicos, legales, de respeto a los derechos humanos, así como a criterios contemplados en la Ley General de Salud, la presente Ley, la Norma Oficial Mexicana para la Prestación de Servicios de Salud en Unidades de Atención Integral Hospitalaria Médico-Psiquiátrica y demás normatividad aplicable.
+
+En el caso de niñas, niños y adolescentes cuyo diagnóstico confirme la existencia de un padecimiento mental que requiera su internamiento, éste deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual forma, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.
 
 ### Capítulo III. Instituto de Salud Mental
 
@@ -478,5 +486,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28271/LXII/20 QUE REFORMA LOS ARTÍCULOS 8, 9 Y 15 DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28738/LXIII/22 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
