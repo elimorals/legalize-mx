@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2021-12-16"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -2401,15 +2401,33 @@ II. Para la votación de los asuntos a tratar en las sesiones a distancia se con
 
 a) La validez del voto de las diputadas y los diputados estará exenta del requisito previsto por el artículo 180 de la presente Ley;
 
-b) Todas las votaciones de las sesiones a distancia, serán de carácter nominal, conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2022)</small>
+
+b) Todas las votaciones de las sesiones a distancia, serán de carácter nominal, ya sea mediante el sistema de votación tradicional o a través de un sistema de votación electrónica;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 19 DE FEBRERO DE 2022)</small>
+
+c) El sistema de votación tradicional se hará conforme a lo siguiente:
+
+(REUBICADO, P.O. 19 DE FEBRERO DE 2022)
 
 1) El Secretario General menciona los nombres y apellidos de las diputadas y los diputados, quienes, al escucharlos, expresan el sentido de su voto;
 
+(REUBICADO, P.O. 19 DE FEBRERO DE 2022)
+
 2) El proceso anterior se desarrollará por orden alfabético;
+
+(REUBICADO, P.O. 19 DE FEBRERO DE 2022)
 
 3) El Secretario de la Mesa Directiva anota los votos, al final da a conocer al Presidente el resultado de la votación, para que éste haga la declaratoria correspondiente; y
 
+(REUBICADO, P.O. 19 DE FEBRERO DE 2022)
+
 4) En la votación nominal, cualquier diputada o diputado puede solicitar al Presidente de la Mesa Directiva instruya al Secretario lea en voz alta los nombres de los que votaron en uno u otro sentido, para que los interesados hagan las aclaraciones que correspondan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2022)</small>
+
+d) El sistema de votación electrónica se hará a través de una plataforma que garantice la legalidad y certeza jurídica del voto de las diputadas y los diputados, y que permita identificar y registrar el voto individual de cada diputada y diputado, respecto de las cuales, se deberá levantar una constancia de la votación nominal firmada por el Secretario de la Mesa Directiva que se designe. Cualquier diputada o diputado puede pedir que se rectifique el sentido de su voto, previo a la declaración del resultado de la votación por la Mesa Directiva.
 
 2. Las votaciones de reformas a la Constitución Política del Estado; la designación, elección, ratificación o insaculación de funcionarios públicos; la resolución de juicios políticos; la suspensión de munícipes; no se pueden desahogar mediante una sesión a distancia.
 
@@ -4018,3 +4036,9 @@ P.O. 16 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28728/LXIII/21 QUE REFORMA LOS ARTÍCULOS 31, 33, 34, 37, 40 Y 45; Y ADICIONA LOS ARTÍCULOS 30 BIS, 30 BIS 1, 30 BIS 2, 30 BIS 3, 30 BIS 4, 30 BIS 5, 30 BIS 6, 30 BIS 7, 30 BIS 8, 30 BIS 9, 30 BIS 10, 30 BIS 11, 30 BIS 12, 30 BIS 13 Y 30 BIS 14, Y SE CAMBIA LA DENOMINACIÓN DEL TÍTULO SEGUNDO, TODOS DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIAS (SIC) DEL ESTADO DE JALISCO; Y REFORMA AL ARTÍCULO 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO, Y REFORMA EL ARTÍCULO 97 FRACCIÓN III DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28739/LXIII/22 QUE REFORMA EL ARTÍCULO 132 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
