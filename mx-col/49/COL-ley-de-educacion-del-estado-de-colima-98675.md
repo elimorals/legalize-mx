@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2020-11-25"
+last_updated: "2022-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2020 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -184,6 +184,10 @@ IX. Fomentar programas y acciones que tengan por objeto promover la educación f
 X. Crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 XI. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. Proporcionar los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2022)</small>
+
+Así como fomentar programas y acciones de capacitación que tengan por objeto promover entre los educandos la implementación de huertos familiares, traspatio y parcelas escolares, empleando técnicas sustentables con el medio ambiente como la agricultura orgánica y la agroecología que tienda a coadyuvar con el mejoramiento de la economía familiar, y a una alimentación saludable, en armonía con el respeto al medio ambiente.
 
 XII. Podrán coordinar con las diversas Autoridades de la Entidad, programas permanentes de educación en materia de primeros auxilios, simulacros y prevención de accidentes;
 
@@ -2096,3 +2100,9 @@ Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 Sexto. El sistema integral de formación, capacitación y actualización del Estado de Colima, previsto en el artículo 91 de este Decreto, deberá implementarse antes del 31 de diciembre de 2020.
 
 Séptimo. El Programa Educativo Estatal previsto en el artículo 108 de este Decreto se presentará en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del mismo. Dicho Programa se actualizará en el caso de cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en el citado artículo 108 de la presente Ley.
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 57.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XI DEL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
