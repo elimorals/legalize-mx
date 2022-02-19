@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2022-01-17"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -43,7 +43,7 @@ D E C R E T O
 
 HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
-...
+[...]
 
 D E C R E T O No. 321
 
@@ -725,11 +725,11 @@ A los usuarios del servicio que encuadren en la tarifa condominal que utilicen e
 
 Los pagos anuales se estiman en metros cúbicos de consumo y su importe en el pago anual anticipado será calculado con la Unidad de Medida y Actualización vigente al momento del pago, considerándose que con este pago se ampara el volumen de consumo estimado aunque este sea facturado en un periodo de actualización de la Unidad de Medida y Actualización, en caso de existir consumos excedentes a los estimados para el pago anual realizado, estos serán determinados para pago con la Unidad de Medida y Actualización que corresponda al momento de facturarse.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 27.
 
-Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, adultos mayores y personas con discapacidad en los términos de la Ley de la materia, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan y que comprueben ser propietarios, debiendo exhibir los siguientes documentos:
+Los usuarios que acrediten ser de nacionalidad mexicana y tener la calidad de pensionados o jubilados, adultos mayores y personas con discapacidad en los términos de la ley de la materia, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan y que comprueben ser propietarios, debiendo exhibir los siguientes documentos:
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -741,9 +741,59 @@ Este beneficio se otorgará respecto a un solo inmueble.
 
 En caso de que el usuario sujeto al beneficio establecido en este artículo realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 28.
 
-El Director General de la CAPDAM, bajo su responsabilidad, estará facultado para realizar ajustes a la facturación por lecturas incorrectamente tomadas, por fugas no imputables al usuario, problemas de presión, tarifas incorrectamente aplicadas y medidores descalibrados.
+La persona titular de la Dirección General de la CAPDAM, bajo su responsabilidad, estará facultado para realizar ajustes a la facturación por lecturas incorrectamente tomadas, por fugas no imputables al usuario, problemas de presión, tarifas incorrectamente aplicadas y medidores descalibrados.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2022)</small>
+
+###### ARTICULO 29.
+
+La CAPDAM a través de su Titular y previo conocimiento y pronunciamiento del Consejo de Administración, conferirá el goce al mínimo vital de agua potable, a los usuarios que, por su edad, enfermedad, situación de salud o discapacidad, demuestren encontrarse en un estado de vulnerabilidad y cumplan los requisitos previstos en esta Ley.
+
+El derecho al mínimo vital exceptúa del pago de los derechos a que se refiere esta Ley, siempre y cuando el consumo bimestral no exceda de doce metros cúbicos. Los consumos excedentes se cobrarán conforme la mecánica dispuesta en la propia Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2022)</small>
+
+###### ARTICULO 30.
+
+El goce al mínimo vital de agua potable, precisa de los siguientes requisitos por parte de la persona usuaria:
+
+En caso de adultos mayores se deberá cumplir con los siguientes:
+
+I. Además de cumplir con los requisitos establecidos por el artículo 27 de esta Ley, el usuario deberá tener 60 años de edad debidamente acreditados;
+
+II. Disponer de servicio medido;
+
+III. El servicio contratado, ante el organismo operador, sea de tarifa Doméstico “A” o Doméstico en Zona Rural;
+
+IV. Demostrar el estatus de vulnerabilidad o de necesidad económica, previo estudio socioeconómico que practique la dependencia pública municipal correspondiente;
+
+V. Que la persona a beneficiar, sea titular de un solo servicio en el Municipio; y
+
+VI. Que el expediente sea expuesto y autorizado por el Consejo de Administración de la CAPDAM.
+
+En caso de enfermedad, situación de salud o discapacidad se deberá cumplir con los siguientes:
+
+I. Cumplir con los requisitos establecidos por el artículo 27 de esta Ley;
+
+II. Que su enfermedad sea crónico-degenerativa o su discapacidad sea permanente, les impida trabajar y esté debidamente acreditado por una Institución de Salud Pública;
+
+III. Disponer de servicio medido;
+
+IV. El servicio contratado, ante el organismo operador, sea de tarifa Doméstico “A” o Doméstico en Zona Rural;
+
+V. Demostrar el estatus de vulnerabilidad o de necesidad económica, previo estudio socioeconómico que practique la dependencia pública municipal correspondiente;
+
+VI. Que la persona a beneficiar, sea titular de un solo servicio en el Municipio; y
+
+VII. Que el expediente sea expuesto y autorizado por el Consejo de Administración de la CAPDAM.
+
+El Registro de Usuarios con Beneficio al Mínimo Vital en materia de Agua Potable, se actualizarán durante los meses de abril y octubre de cada ejercicio fiscal, por lo cual el derecho se refrendará cada año y las personas beneficiarias están vinculadas a demostrar que continúan cumpliendo los requisitos antes señalados y que subsiste el estado de vulnerabilidad.
+
+El órgano interno de control de la CAPDAM realizará las auditorías respectivas a efecto de evitar se haga uso indebido del derecho al mínimo vital y sancionará en términos de la Ley General de responsabilidades administrativas, cualquier irregularidad que detecte.
 
 T R A N S I T O R I O S:
 
@@ -908,3 +958,23 @@ P.O. 17 DE ENERO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor a partir de su aprobación previa publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para aquellos usuarios que durante el mes de enero en curso hayan cubierto el pago anualizado 2022, sobre la base de descuento vigente con anterioridad al presente Decreto, el organismo operador de agua potable de Manzanillo deberá aplicar la bonificación correspondiente en los subsecuentes períodos de facturación de consumo.
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 56.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 27 Y 28, Y SE ADICIONAN LOS ARTÍCULOS 29 Y 30 A LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Lo (sic) beneficios previstos en el presente Decreto, se aplicarán una vez que se hayan cumplido lo (sic) siguiente términos:
+
+I. Se encuentre concluido y aprobado el censo y padrón de usuarios registrados;
+
+II. Se tenga el registro de personas en estado de vulnerabilidad, para que se les considere la condonación o pagos parciales de sus adeudos; y
+
+III. Se cuente con el informe de instalación de medidores que se coloquen de acuerdo al padrón de usuarios con beneficio del mínimo vital.
+
+TERCERO. La persona titular de la Presidencia Municipal verificará sea ampliamente difundido el contenido del presente Decreto en el territorio del Municipio de Manzanillo, Colima, así también, que la unidad competente en materia de Desarrollo Social Municipal defina los lineamientos del censo para el Registro de Usuarios con Beneficio al Mínimo Vital en materia de Agua Potable, dentro del término de 60 días naturales posteriores al inicio de vigencia del mismo.
+
+CUARTO. Dentro de los quince días posteriores de que se haga entrega del Registro indicado en el punto Transitorio Segundo, la persona titular de la Dirección General de la CAPDAM pondrá a consideración del Consejo de Administración, los casos y estados de adeudo de esos usuarios, para que este determine por votación de sus integrantes la pertinencia y procedencia de la condonación total o parcial de los adeudos de quienes comprobaron encontrarse en un estado de vulnerabilidad.
+
+QUINTO. Los instrumentos de medición que se coloquen con motivo del Registro de Usuarios con Beneficio al Mínimo Vital en materia de Agua Potable, serán absorbidos con cargo al presupuesto de egresos del organismo operador.
