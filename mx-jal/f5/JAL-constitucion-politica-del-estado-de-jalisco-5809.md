@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2021-12-14"
+last_updated: "2022-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -2179,7 +2179,9 @@ Las evaluaciones de control de confianza, serán aplicables cada cuatro años a 
 
 Al Supremo Tribunal de Justicia le corresponden las siguientes atribuciones:
 
-I. Conocer de todas las controversias jurisdiccionales del orden penal, civil, de lo familiar y mercantil, de conformidad con lo que establezcan las leyes estatales y federales;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
+
+I. Conocer de todas las controversias jurisdiccionales del orden penal, civil, laboral, de lo familiar y mercantil, de conformidad con lo que establezcan las leyes estatales y federales;
 
 II. Resolver los conflictos de competencia que se susciten entre los órganos jurisdiccionales integrantes del Poder Judicial del Estado;
 
@@ -4280,3 +4282,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para efectos de la reforma constitucional envíese a los municipios del estado de Jalisco para su aprobación constitucional de conformidad al artículo 117 del mismo ordenamiento.
 
 TERCERO. Se otorga un plazo de 365 días hábiles para que se realicen las reformas, modificaciones y armonizaciones necesarias para el debido cumplimiento del presente dictamen de decreto.
+
+P.O. 19 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28504/LXII/21 QUE REFORMA LA FRACIÓN (SIC) I DEL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. Envíese lo conducente del presente decreto, junto con los debates que hubiere provocado a los ayuntamientos del Estado para los efectos del artículo 117 de nuestra constitución local.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
