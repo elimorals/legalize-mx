@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2021-09-02"
+last_updated: "2022-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE FEBRERO DE 2022.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -1138,7 +1138,13 @@ XVII. Contar con el equipamiento adecuado para el ejercicio de sus funciones, si
 
 XVIII. Recibir su pensión en términos de la seguridad social de la que gocen o la que corresponda por los años de servicio prestados;
 
-XIX. Recibir oportuna atención médica y psicológica sin costo, cuando por el ejercicio de sus funciones la requieran,
+> <small>(REFORMADA, G.O. 21 DE FEBRERO DE 2022)</small>
+
+XIX. Recibir oportuna atención médica y psicológica de calidad, sin costo y de manera periódica, cuando por el ejercicio de sus funciones la requieran;
+
+> <small>(ADICIONADA, G.O. 21 DE FEBRERO DE 2022)</small>
+
+XIX Bis. Recibir a través de la Unidad de Atención y Referencia Psicológica (UARP) de la Secretaría de Seguridad Ciudadana, la atención del bienestar mental y emocional, cuyo objetivo es el cuidado de la salud a través de la atención médica y del tratamiento de prevención, diagnóstico, referencia y fomento de la salud mental. Dicha atención también se le brindará a sus familiares;
 
 XX. Contar con un sistema confidencial para la presentación de quejas y denuncias internas, conforme a las disposiciones y procedimientos que para el efecto se establezcan, y
 
@@ -2451,3 +2457,11 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 CUARTO. A efecto de dar cumplimiento al presente Decreto, la persona titular de la Secretaría de Seguridad Ciudadana de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para expedir los Lineamientos correspondientes en materia de diseño, especificaciones y demás elementos relacionados con el balizamiento de los vehículos oficiales de los Cuerpos Policiales, destinados a realizar funciones operativas en todo el territorio de la Ciudad de México.
 
 QUINTO. Se concede un plazo que no podrá exceder de 30 días hábiles posteriores a la publicación de los Lineamientos correspondientes en materia de diseño, especificaciones y demás elementos relacionados con el balizamiento de los vehículos oficiales de los Cuerpos Policiales, para que las Dependencias, Órganos Desconcentrados, Entidades del Gobierno de la Ciudad de México y Alcaldías que tengan a su cargo vehículos oficiales destinados a funciones de seguridad ciudadana, lleven a cabo la homologación del balizamiento correspondiente conforme a lo autorizado por la Secretaría.
+
+G.O. 21 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XIX Y SE ADICIONA LA FRACCIÓN XIX BIS, DEL ARTÍCULO 60 DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
