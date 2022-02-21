@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2018-07-03"
+last_updated: "2022-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -819,7 +819,9 @@ La prevención y vigilancia forestal estará en el ámbito de su competencia, a 
 
 El gobierno del Estado, en coordinación con la federación y municipios, y con la colaboración de los propietarios forestales organizados, comunidades indígenas y otras instituciones públicas, formulará, operará y evaluará programas integrales de prevención y combate a la tala clandestina, especialmente en las zonas críticas diagnosticadas previamente, para enfrentarla con diversas acciones, así como para prevenir actos indebidos de cambio de uso de suelo, tráfico de especies y recursos forestales, extracción del suelo forestal, o bien, transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.
 
-Los procedimientos de inspección y vigilancia en materia forestal, así como el establecimiento de sanciones y medidas de seguridad, se sujetarán a los previstos en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, así como los contemplados en la Ley Ambiental del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2022)</small>
+
+Los procedimientos de inspección y vigilancia en materia forestal, así como el establecimiento de sanciones y medidas de seguridad, se sujetarán a lo previstos (sic) en el Código Procesal Administrativo para el Estado de San Luis Potosí, así como los contemplados en la Ley Ambiental del Estado de San Luis Potosí.
 
 ### CAPITULO II. De la Denuncia Popular
 
@@ -969,9 +971,11 @@ Para los efectos de esta Ley se considera reincidente, al infractor que incurra 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 89.
 
-En contra de los actos y resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley o su Reglamento, se estará a lo dispuesto por la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, en la forma y términos que al efecto establezca dicho ordenamiento legal.
+En contra de los actos y resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley o su Reglamento, se estará a lo dispuesto por el Código Procesal Administrativo para el Estado de San Luis Potosí, en la forma y términos que al efecto establezca dicho ordenamiento legal.
 
 ## TRANSITORIOS
 
@@ -1064,3 +1068,11 @@ P.O. 3 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- SE REFORMAN LOS ARTÍCULOS 79 EN SU PÁRRAFO TERCERO Y 89, DE LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
