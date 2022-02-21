@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2021-12-27"
+last_updated: "2022-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -595,7 +595,9 @@ Las denuncias podrán presentarse al Congreso del Estado, a la Comisión o direc
 
 Las denuncias que se presenten deberán estar fundadas con evidencias, mediante las cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos establecidos en esta Ley.
 
-El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2022)</small>
+
+El escrito de denuncia podrá presentarse de forma presencial o a través de medios electrónicos y deberá contar, como mínimo, con los siguientes elementos:
 
 I. El ejercicio en que se presentan los presuntos hechos irregulares, y
 
@@ -1400,3 +1402,11 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0266.- SE REFORMA EL ARTÍCULO 48 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
