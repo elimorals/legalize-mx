@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2021-09-13"
+last_updated: "2022-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -2279,9 +2279,21 @@ II. Retardar indebida o maliciosamente las notificaciones, emplazamientos, embar
 
 III. Dar preferencia a alguno o algunos de los litigantes con perjuicio de otros, por cualquier causa, en la diligencia de sus asuntos en general;
 
-IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos, o sin cerciorarse cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia, y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2022)</small>
 
-V. Practicar embargos, aseguramiento o retención de bienes, o lanzamiento de personas o corporación que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del juzgado, se le demuestre que esos bienes son ajenos; para comprobar tal hecho, en todo caso, deberán agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
+IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos, o sin cerciorarse cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2022)</small>
+
+V. Practicar embargos, aseguramiento o retención de bienes, o lanzamiento de personas o corporación que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del juzgado, se le demuestre que esos bienes son ajenos; para comprobar tal hecho, en todo caso, deberán agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2022)</small>
+
+VI. Utilizar su fe pública para simular notificaciones o cualquier actuación a las partes, en perjuicio de éstas, y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2022)</small>
+
+VII. Asentar hechos falsos en las actuaciones o alterarlas.
 
 ### CAPITULO III. De las Sanciones Administrativas
 
@@ -2770,3 +2782,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0265.- SE REFORMA EL ARTÍCULO 180 EN SUS FRACCIONES IV Y V; Y ADICIONAN AL MISMO ARTÍCULO 180 LAS FRACCIONES VI Y VII, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
