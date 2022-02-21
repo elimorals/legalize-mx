@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-01-24"
+last_updated: "2022-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1247,9 +1247,17 @@ q) Secretaría del Medio Ambiente y Desarrollo Sustentable;
 
 r) Secretaría de Economía Social y Turismo Municipal;
 
-s) Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes; y
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2022)</small>
 
-t) Coordinación General de Salud.
+s) Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2022)</small>
+
+t) Coordinación General de Salud; y
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2022)</small>
+
+u) Instituto Municipal de Salud Mental.
 
 I.- PRESIDENCIA MUNICIPAL
 
@@ -1343,35 +1351,59 @@ Presidencia del Sistema D.I.F. Municipal.
 
 Coordinación Operativa General de Voluntariado.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
+
 Departamento Jurídico.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Comunicación Social.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
+
 Departamento de Trabajo Social y Atención a personas con discapacidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Dirección Administrativa.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
+
 Departamento de Recursos Materiales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Recursos Humanos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
+
 Dirección de Programas Institucionales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Servicios Médicos.
 
-Departamento de Salud Mental.
+> <small>(DEROGADO, P.O. 21 DE FEBRERO DE 2022)</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Dirección de Desarrollo Familiar Comunitario.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Atención a Adultos Mayores.
 
 > <small>(DEROGADO, P.O. 17 DE JULIO DE 2017)</small>
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
+
 Departamento de Desarrollo Infantil.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Coordinación de CEDECOS.
 
@@ -2044,6 +2076,18 @@ Departamento de Regulación Sanitaria.
 Departamento de Rastro.
 
 Departamento de Salud y Bienestar Animal.
+
+> <small>(ADICIONADA [N. DE E. CON SUS PÁRRAFOS], P.O. 21 DE FEBRERO DE 2022)</small>
+
+XXII.- Instituto Municipal de Salud Mental.
+
+Dirección General
+
+Coordinación Administrativa
+
+Jefatura de Área Clínica
+
+Jefatura de Enseñanza y Capacitación
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE JULIO DE 2018)</small>
 
@@ -2927,13 +2971,21 @@ XV.- Nombrar un enlace de género para la debida coordinación de acciones con e
 
 XVI.- Formar parte de los Sistemas Municipales, de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y de Igualdad Sustantiva entre Mujeres y Hombres;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2022)</small>
 
-XVII.- Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XVII. Recibir aportaciones, donaciones, legados y demás liberalidades de partes de personas físicas o morales, para destinarse como apoyos o beneficios a la población a través de los programas sociales, servicios o actividades que se brindan a la ciudadanía.
 
-XVIII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
+Para efectos del párrafo anterior, una vez que se reciban las aportaciones, donaciones o legados, se deberá notificar a la Dirección Jurídica del H. Ayuntamiento;
 
-XIX. (DEROGADA, P.O. 20 DE MARZO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE FEBRERO DE 2022)</small>
+
+XVIII. La operación y ejecución de los programas sociales, que contribuyan para contrarrestar las carencia (sic) sociales, favoreciendo el desarrollo integral y social de los habitantes del municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE FEBRERO DE 2022)</small>
+
+XIX. Celebrar y suscribir convenios de colaboración con autoridades federales y estatales, así como con diversas instituciones públicas o privadas, en materia de bienestar y desarrollo social.
+
+Para efectos del párrafo anterior, una vez que se celebren o suscriban convenios de colaboración, se deberá notificar a la Dirección Jurídica del H. Ayuntamiento;
 
 XX. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
@@ -3358,6 +3410,24 @@ IX. Vigilar en la esfera de su competencia el cumplimiento de la Ley de Salud de
 X. Coordinarse con las autoridades estatales y federales en materia de salud a efecto de instrumentar y desarrollar programas para el mejoramiento de los niveles de salud y bienestar en el Municipio; y
 
 XI. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2022)</small>
+
+APARTADO VIGÉSIMO
+
+Del Instituto Municipal de Salud Mental
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 114 SEXIES.- Corresponde al Instituto Municipal de Salud Mental:
+
+I. Promover la atención a la Salud Mental entre los habitantes del Municipio de Aguascalientes, derecho consagrado en la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Promover las acciones tendientes a prevenir y atender los trastornos de la Salud Mental independientemente de su causa;
+
+III. Promover, evaluar, elaborar, apoyar e impulsar la aplicación de políticas públicas, estrategias y acciones dirigidas al sostenimiento y promoción de la Salud Mental en todos los grupos sociales independientemente de la edad, género, nivel educativo y socioeconómico; y
+
+IV. Las demás funciones que se desprendan de la normatividad aplicable, así como las que le confiera el Ayuntamiento o el Presidente Municipal.
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -24406,3 +24476,37 @@ P.O. 24 DE ENERO DE 2022.
 PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal del Municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE CONTIENE LA INICIATIVA DE REFORMA AL ARTÍCULO 98, PÁRRAFO CUARTO EN SUS INCISOS S) Y T), ADICIONÁNDOSE UN INCISO U), REFORMÁNDOSE SU FRACCIÓN VI, Y ADICIONÁNDOSE UNA FRACCIÓN XXII; ASIMISMO, SE ADICIONA UN APARTADO VIGÉSIMO DENOMINADO "DEL INSTITUTO MUNICIPAL DE SALUD MENTAL", QUE CONTENDRÁ EL ARTÍCULO 114 SEXIES, AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- Las presentes reformas y adiciones, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Presidente Municipal deberá designar al o la Directora del Instituto Municipal de Salud Mental, dentro de los siguientes treinta días hábiles contado (sic) a partir de que inicien su vigencia las presentes reformas y adiciones.
+
+Una vez designado el o la Directora General del Instituto Municipal de Salud Mental, se deberán realizar los trámites respectivos para transferir a dicho Instituto, los recurso (sic) humanos, financieros y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia.
+
+No obstante, al iniciar su vigencia las presentes reformas y adiciones, todos los asuntos en trámite (sic) legales o administrativos de los que estuviera conociendo el Departamento de Salud Mental de referencia, serán competencia y deberán ser atendidos por el Instituto Municipal de Salud Mental.
+
+TERCERO.- El Instituto Municipal de Salud Mental, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno del Instituto, así como cualquier otro instrumento normativo o reforma, con el fin de que se encuentre conforme a la presente modificación.
+
+CUARTO.- Se faculta al o la titular de la (sic) del Instituto Municipal de Salud Mental, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la sustanciación de los procedimientos con antelación a la vigencia de la presente reforma.
+
+QUINTO.- El personal adscrito al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, que sea trasferido al Instituto Municipal de Salud Mental, conservará los derechos laborales que haya adquirido con anterioridad.
+
+La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
+
+SEXTO.- En el momento que inicie la vigencia legal del Reglamento y la estructura orgánica del Instituto Municipal de Salud Mental de Aguascalientes, todos los asuntos en trámite de tipo legal o administrativo, así como los recursos humanos, presupuestales y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia, serán competencia y pasarán a formar parte del patrimonio del citado Instituto en los términos del presente Acuerdo.
+
+SEPTIMO.- La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias y dentro de los 60 días hábiles siguientes a que inicien su vigencia las presentes reformas y adiciones, deberán impulsar las adecuaciones presupuestales y administrativas que en su caso sean necesarias para el funcionamiento del Instituto Municipal de Salud Mental.
+
+OCTAVO.- Las referencias hechas al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental.
+
+P.O. 21 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA A LAS FRACCIONES XVII, XVIII Y XIX DEL ARTÍCULO 111 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se Derogan las demás disposiciones que se opongan al presente Decreto.
