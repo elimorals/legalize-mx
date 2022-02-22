@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-12-01"
+last_updated: "2022-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1039,7 +1039,9 @@ h) Las aportaciones de seguridad social;
 
 i) El ahorro, cuando se integre por un depósito de cantidad igual del trabajador y del patrón, y las cantidades otorgadas por el patrón para fines sociales y sindicales; siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta;
 
-j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo; y
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo;
 
 (REFORMADO, P.O. 19 DE DICIEMBRE DE 2012) (F. DE E., P.O. 17 DE ENERO DE 2013)
 
@@ -1655,9 +1657,9 @@ DEL OBJETO
 
 Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos conforme a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, protocolización de informaciones ad-perpetuam, resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada;
+I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, protocolización de informaciones ad-perpetuam, resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -1671,17 +1673,19 @@ El registrador deberá realizar en su primera calificación la revisión exhaust
 
 Por la solicitud de rectificación que realice el Fedatario Público a los Certificados de Reserva de Prioridad y Avisos Preventivos en virtud de haber omitido un acto y/o nombre de algún interviniente, sin modificar los ya establecidos en su primer solicitud; además por haber señalado en su petición algún dato escrito de manera diferente a la realidad jurídica; cubrirá el monto de cinco veces el valor diario de la Unidad de Medida y Actualización; para su tramitación realizará una petición dirigida al Director o su similar, en la que funde, exponga y peticione la rectificación correspondiente agregando al mismo, el certificado original previamente expedido y la nueva solicitud de Certificado de Reserva y/o Aviso Preventivo;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-III. La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, si no se consigna el monto del capital social con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
+III. La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, si no se consigna el monto del capital social con el importe de diez veces el valor diario de la Unidad de Medida y Actualización; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 IV. Por la inscripción, revocación o renuncia de los poderes en materia inmobiliaria, por cada apoderado se cobrará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE FEBRERO DE 2022)</small>
 
-V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, cuatro al millar. La inscripción de cédulas hipotecarias, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización. La inscripción de sujeción a litigio, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización por anotación.
+V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, cuatro al millar; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización. La inscripción de cédulas hipotecarias, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización. La inscripción de sujeción a litigio, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización por anotación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 En el caso de ampliación de embargo previamente registrado y tratándose de diversos inmuebles, con el importe de siete veces el valor diario de la Unidad de Medida y Actualización, por cada inmueble.
 
@@ -1689,9 +1693,9 @@ En el caso de ampliación de embargo previamente registrado y tratándose de div
 
 VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-En ningún caso la cantidad a pagar será mayor a un mil cien veces el valor diario de la Unidad de Medida y Actualización;
+En ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 VII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2020)
 
@@ -1749,15 +1753,31 @@ Expedición de copia simples, una vez el valor diario de la Unidad de Medida y A
 
 Certificados Informativos, de no propiedad, de única propiedad, el importe de seis veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Certificados informativos para crédito hipotecario de adquisición de vivienda ante dependencias estatales, municipales y federales, además de instituciones bancarias; siempre y cuando acompañen documento oficial con sello y firma autógrafa, expedido por la dependencia o institución bancaria requirente. En el cual se acredite el inicio del trámite para obtener un crédito hipotecario, el importe de tres veces el valor diario de la Unidad de Medida y Actualización.
+
 Solicitud de búsqueda de antecedentes registrales de propiedad que correspondan a personas físicas y/o morales, si del resultado de la misma no se obtienen datos o encontrándose de uno a cinco datos de registro y/o números de finca, se cobrará únicamente el importe de seis veces el valor diario de la Unidad de Medida y Actualización; ahora bien, cuando del resultado de la búsqueda arroje la obtención de más de seis datos de registro y/o números de finca, se cobrará el importe de tres veces el valor diario de la Unidad de Medida y Actualización, por dato de registro y/o números de finca proporcionado.
 
 Búsqueda de antecedentes registrales de personas morales se cobrará el importe de seis veces el valor diario de la Unidad de Medida y Actualización; y adicionalmente tres veces el valor diario de la Unidad de Medida y Actualización por cada modificación y/o actas de Asamblea que arroje como resultado;
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Consulta del historial registral de la finca e inscripciones generadas a partir de 2008, desde el Portal de Servicios Telemáticos del Instituto Registral y Catastral de Tamaulipas, el importe de tres veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Por la búsqueda de antecedentes registrales de propiedad por nombre del titular que correspondan a personas físicas y/o morales (civiles) realizadas desde el Portal de Servicios Telemáticos del Instituto Registral y Catastral de Tamaulipas, el importe de tres veces el valor diario de la Unidad de Medida y Actualización.
 
 XVI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XVII. Por la expedición de Certificados con Reserva de Prioridad y/o avisos preventivos en los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión total o parcial de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, el importe de diez veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad;
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Por el servicio urgente para la expedición de certificados con reserva de prioridad y avisos preventivos, en el cual la solicitud cuente con número de finca, el importe de quince veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad; el cual será entregado al día siguiente;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1777,9 +1797,9 @@ XXI. Por la inscripción de los títulos expedidos por el Registro Agrario Nacio
 
 XXII. Por la inscripción de contratos de arrendamiento, 4 al millar;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XXIII. Por la inscripción de Contratos de Comodato, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización; y
+XXIII. Por la inscripción de Contratos de Comodato, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1833,9 +1853,21 @@ g).- De veintiún a veinticinco fincas, se pagará el importe de treinta y siete
 
 h).- De más de veintiséis fincas, se pagará el importe de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XXVIII. Por la impresión de asientos registrales, se pagará el importe de tres veces el valor diario de la Unidad de Medida y Actualización.
+XXVIII. Por la impresión de asientos registrales, se pagará el importe de tres veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XXIX. La adquisición de hojas de papel seguridad mediante paquetes de 25 hojas por un pago de recuperación, tres veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XXX. Por la revisión previa de cualquier tipo de documentos que en lo subsecuente se solicite su inscripción, el importe de diez veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXX, P.O. 22 DE FEBRERO DE 2022.]</small>
+
+Salvo aquellos documentos que contengan más de veinte y no excedan de cien datos de registro o números de finca, el importe de veinte veces el valor diario de la Unidad de Medida y Actualización; y los casos en que el documento cuente con más de cien datos de registro o números de finca, el importe de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 65.
 
@@ -1881,9 +1913,9 @@ I. Por la inscripción de las escrituras, de terrenos que no excedan de 250 metr
 
 Para que se otorgue el beneficio señalado, el contribuyente debe acreditar no ser propietario de otro bien inmueble con constancia expedida por el Instituto Registral y Catastral del Estado.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-II. Por la parte que exceda al importe de 3 veces el valor diario de la Unidad de Medida y Actualización, a los causados por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando la adquisición consista en terrenos que se destinen a la construcción de casas habitación, así como adquisición de vivienda, siempre y cuando la superficie de terreno no exceda de 250 metros cuadrados y la construcción no tenga una superficie mayor a los 100 Metros cuadrados y se contraten a través de los programas de apoyo a la vivienda que se instrumenten por los Gobiernos Federal, del Estado y sus Municipios, así como sus organismos descentralizados; así como las adquiridas con créditos otorgados por instituciones financieras o concedido por los patrones a sus trabajadores. Dicha exención será aplicable sólo a aquellas personas físicas que no posean otra propiedad, lo cual acreditarán con constancia expedida por el Instituto Registral y Catastral del Estado de Tamaulipas;
+II. Por la parte que exceda cuando el monto de la operación sea de doscientos mil pesos hasta setecientos mil pesos; pagara por derechos de registro el monto de tres veces el valor diario de la Unidad de Medida y Actualización por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando la operación se destine a la construcción de casa habitación o a la adquisición de vivienda, el adquirente sea persona física; y contrate a través de los programas de apoyo a la vivienda que se instrumenten por el Gobierno Federal, Estatal y Municipal, así como sus organismos públicos descentralizados; además de las adquisiciones que realicen las personas físicas a través de créditos otorgados por instituciones financieras o concedido por los patrones a sus trabajadores;
 
 III. Por la inscripción de la cancelación de reserva de dominio solicitada por los organismos citados en la fracción anterior;
 
@@ -1923,7 +1955,9 @@ I. El examen de todo documento, sea público o privado, que se presente al Regis
 
 II. La inscripción de documentos cuyo tenor y autenticidad deban hacerse notorios en los términos que lo dispone el artículo 16 fracción II del Código de Comercio, con el importe de cien veces el valor diario de la Unidad de Medida y Actualización;
 
-III. La inscripción de las escrituras constitutivas de Sociedades Mercantiles, o de las relativas a aumento de su capital social, se cobrarán sobre el monto del capital social o de los aumentos del mismo 8 al millar;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+III. La inscripción de las escrituras constitutivas de Sociedades Mercantiles, o de las relativas a aumento de su capital social, se cobrarán sobre el monto del capital social o de los aumentos del mismo 8 al millar; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1955,19 +1989,19 @@ XI. La inscripción de poderes mercantiles y sustitución de los mismos, otorgad
 
 Por la revocación o renuncia de los poderes, por cada una se cobrará diez veces el valor diario de la Unidad de Medida y Actualización. No se causarán los derechos previstos en esta fracción cuando los poderes que se otorguen a los administradores o gerentes de sociedades mercantiles, consten en las escrituras constitutivas o modificatorias de dichas sociedades.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-XII. Por la inscripción y revocación de poderes diferentes a los anteriores, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización;
+XII. (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
 
 XIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
-XIV. La inscripción de contratos mercantiles de cualquier clase, derivados de los actos enumerados en el artículo 75 del Código de Comercio, sobre el valor 8 al millar;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XV. Por inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, otorgados por instituciones de crédito, de seguros, de fianzas, sobre el importe de la operación 4 al millar;
+XIV. La inscripción de contratos mercantiles de cualquier clase, derivados de los actos enumerados en el artículo 75 del Código de Comercio, sobre el valor 8 al millar; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-En ningún caso la cantidad a pagar será mayor a un mil cien veces el valor diario de la Unidad de Medida y Actualización.
+XV. Por inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, otorgados por instituciones de crédito, de seguros, de fianzas, sobre el importe de la operación 4 al millar.
+
+En ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1985,17 +2019,21 @@ XVIII. Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el 
 
 XIX. Por el registro del sello y firma que deben efectuar los corredores públicos en los términos de la Ley Federal de Correduría Pública, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XX. Por la aclaración de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas ocho veces el valor diario de la Unidad de Medida y Actualización; y
+XX. Por la aclaración de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XXI. Por la cancelación de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas cinco veces el valor diario de la Unidad de Medida y Actualización.
+XXI. Por la cancelación de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-El importe de los derechos señalados en las fracciones III, VII, XIII y XIV, de esta ley, en ningún caso será inferior al equivalente a diez veces el valor diario de la Unidad de Medida y Actualización.
+XXII. Por la revisión de instrumentos previo a la calificación a su inscripción de, actas constitutivas, poderes adicionales a persona diversa del administrador, asamblea de aumento de capital parte fija o parte variable, transmisión de acciones, otorgamiento de poderes, sesiones de consejo y poderes, el importe de diez veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+El importe de los derechos señalados en las fracciones III, VII, XIII y XIV, de este artículo, en ningún caso será inferior al equivalente a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 69.
 
@@ -2521,17 +2559,17 @@ b).- Documentación enviada a municipio distinto al de registro dentro del Estad
 
 XIX. Búsqueda de registro vehicular en otras entidades federativas, tres veces el valor diario de la Unidad de Medida y Actualización, por cada búsqueda;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecánica, tres veces el valor diario de la Unidad de Medida y Actualización; y
+XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecánica, tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro veces el valor diario de la Unidad de Medida y Actualización.
+XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XXII. Por la expedición del engomado a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, que efectúe la Secretaría de Finanzas, quince veces el valor diario de la Unidad de Medida y Actualización; la vigencia del documento referido comprenderá de la fecha de su expedición al 31 de diciembre del año calendario de que se trate.
+XXII. Por la expedición del engomado a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, que efectúe la Secretaría de Finanzas, quince veces el valor diario de la Unidad de Medida y Actualización; la vigencia del documento referido comprenderá de la fecha de su expedición al 31 de diciembre del año calendario de que se trate; y
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -2721,9 +2759,9 @@ V. Por el uso de áreas destinadas a campismo, dentro de las áreas naturales pr
 
 VI. Por la concesión de servicios en áreas ecológicas protegidas, hasta cuatrocientas quince veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-VII. Por la emisión de dictamen de conveniencia, el veinte por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hectárea;
+VII. Por la emisión de dictamen de conveniencia, el cincuenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hectárea;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2837,9 +2875,13 @@ XVI. Por la recepción, evaluación y resolución de los permisos de operación 
 
 XVII. Por la actualización o modificación en el permiso de operación de fuentes fijas y estacionarias emisoras de contaminantes de competencia estatal, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE FEBRERO DE 2022)</small>
 
-XVIII. Por la recepción, evaluación y resolución de la autorización para un almacenamiento temporal o para un centro de acopio de residuos de manejo de residuos de manejo especial, veinte veces el valor diario de la Unidad de Medida y Actualización; y
+XVIII. Por los servicios de la autorización para un almacenamiento temporal o para un centro de acopio de residuos de manejo especial:
+
+a).- Por la recepción, evaluación y en su caso la emisión de la resolución de la autorización, veinte veces el valor diario de la Unidad de Medida y Actualización; y
+
+b).- Por la recepción, evaluación y en su caso la emisión de la prórroga de la resolución de la autorización, veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 XIX. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2020)
 
@@ -3113,9 +3155,9 @@ V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diar
 
 ### CAPITULO XI. DE LOS DERECHOS POR LOS SERVICIOS DE ADMINISTRACIÓN Y CONTROL EN MATERIA AGROPECUARIA
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-Artículo 100 BIS. Para efecto de los servicios prestados por la Dirección de Fomento Pecuario, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
+Artículo 100 BIS. Para efecto de los servicios prestados por la Subsecretaría de Desarrollo Pecuario y Forestal, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3127,11 +3169,11 @@ b).- Registro entre 51 a 200 unidades animal se pagará el importe equivalente a
 
 c).- Registro entre 201 o más unidades animal se pagará el importe equivalente a treinta y dos veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-II.- Por obtener el registro de corrales de acopio para exportación de ganado bovino y de fierro limpio se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización.
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
 
 III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 IV.- Por el registro ante la Secretaría de Desarrollo Rural, pagarán el importe equivalente a:
 
@@ -3143,11 +3185,15 @@ a) Sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualizació
 
 b) Treinta veces el valor diario de la Unidad de Medida y Actualización, las empresas dedicadas al comercio de productos y subproductos cárnicos, lácteos y pieles;
 
-c) Doscientos sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualización, los mayoristas y tiendas departamentales de autoservicio.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+c) Registro entre 201 o más unidades animal (sic) se pagará el importe equivalente a treinta y dos veces el valor diario de la Unidad de Medida y Actualización; y
 
-V.- Por la expedición de las autorizaciones de inspección de ganado en tránsito, sus productos y subproductos en los términos de la ley y demás aplicables, se pagará el importe equivalente a cero punto cincuenta y seis veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+d) Cien veces el valor diario de la Unidad de Medida y Actualización, a corrales de acopio para exportación de ganado bovino y de fierro limpio.
+
+V.- (DEROGADA, P.O. 22 DE FEBRERO DE 2022)
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3163,13 +3209,7 @@ d).- Vehículos de más de 10 toneladas, catorce veces el valor diario de la Uni
 
 VII.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-Artículo 100 TER. Para efecto de los servicios prestados por la Dirección de Agricultura, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
-
-I.- Por expedir el registro de las empresas almacenadoras, industrializadoras, compradores y prestadores de servicios para especies vegetales, sus productos y subproductos, se pagará punto cero cero quince veces el Valor Diario de la Unidad de Medida y Actualización, por cada tonelada del producto de que se trate.
-
-II.- Por el acopio de los productos de las empresas almacenadoras industrializadoras, compradores y prestadores de servicios para especies vegetales, se pagará el 3 al millar, por cada tonelada del producto de que se trate.
+Artículo 100 TER. (DEROGADO, P.O. 22 DE FEBRERO DE 2022)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
@@ -3303,29 +3343,47 @@ I. Por la prestación de servicios por la elaboración de estudios y/o manifesta
 
 2.- Análisis de riesgo ambiental, treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE FEBRERO DE 2022)</small>
 
-II. Por la emisión de dictámenes y/o resoluciones de análisis de riesgo, de treinta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
+II. Por la emisión de dictámenes y/o resoluciones de análisis de riesgo:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+a).- Evaluación del análisis de vulnerabilidad y riesgo de inmuebles, así como la incorporación de información cualitativa del subsistema afectable identificado en el atlas estatal de riesgos, de treinta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Por la certificación de los programas de seguridad de los establecimientos en que se reúnan personas que puedan correr riesgos por eventos de emergencia, de cincuenta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
+b).- Revisión y validación de planos arquitectónicos para edificaciones habitacionales, industriales, comerciales y de servicios, de treinta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+c).- Revisión de empresas que se dediquen a la fabricación, transporte, almacenamiento, consumo y venta de material explosivo y/o sustancias peligrosas, de treinta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Capacitación a empresas privadas, de cincuenta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+III. Por la certificación de los programas internos de protección civil, programas especiales y/o específicos y las inspecciones en la materia, que se lleven a cabo en los establecimientos o instalaciones en que se reúnan personas que puedan correr riesgos en eventos por emergencia, de treinta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia, se pagarán, diariamente por cada elemento, el importe equivalente a seis veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+IV. Capacitación en materia de protección civil a empresas e instituciones públicas, privadas o sociales, de treinta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+V. Por la evaluación, certificación y/o renovación de la capacidad técnica y práctica de personas físicas o morales prestadoras de servicios de consultoría o capacitación en materia de protección civil, de treinta hasta trescientas veces el valor diario de la (sic) Medida y Actualización;
 
-VII. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de cuarenta veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2022)</small>
+
+VI. Multas y sanciones a establecimientos por incumplimiento a la Ley de Protección Civil para el Estado de Tamaulipas, de veinte hasta dos mil veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2022)</small>
+
+VII. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia, se pagarán, diariamente por cada elemento, el importe equivalente a seis veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2022)</small>
+
+VIII. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2022)</small>
+
+IX. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de cuarenta veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Artículo 85 BIS. Por los servicios de evaluación que presta el Centro Estatal de Evaluación y Control de Confianza, para las evaluaciones a que se refiere la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, se cobrará lo equivalente a noventa veces el valor diario de la Unidad de Medida y Actualización, por evaluación.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3433,9 +3491,9 @@ I.- Por la expedición de certificado sobre pozo de agua para abastecimiento pri
 
 II.- Por la revalidación de certificado privado sobre pozo de agua, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-III.- Por la autorización de cada una de los libros para el registro de medicamento controlado, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+III.- Por la solicitud de libros para el registro de medicamento controlado, ante la gestión del permiso de libros de control de estupefacientes y psicotrópicos, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
@@ -3569,9 +3627,9 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 31.- Por agencia funeraria con embalsamamiento, se pagará diez veces el valor diario de la Unidad de Medida y Actualización; y diez veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-32.- Por anfiteatro anatómico en escuelas de ciencia para la salud, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
+32.- Por anfiteatro anatómico en escuelas de ciencia para la salud, se pagará ocho veces el valor diario de la unidad de medida y actualización; y ocho veces el valor diario de la unidad de medida y actualización por la autorización de responsable sanitario;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3637,13 +3695,13 @@ XVII.- Por la autorización de cada uno de los libros de control para bancos de 
 
 XVIII.- Por concepto de desinfección, desinsectación, desratización en embarcaciones y demás actividades que establezca el Reglamento Sanitario Internacional, y los tratados o convenciones internacionales, se pagarán ciento diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XIX.- Por la autorización de cada uno de los libros para el registro de control de antibióticos, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+XIX.- Por la solicitud de libros para el registro de antibióticos, ante la gestión del permiso de libros para el control de antibióticos, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XX.- Por la expedición de permiso para utilizar los recetarios especiales con códigos de barras para la prescripción de estupefacientes, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y cinco veces el valor diario de la Unidad de Medida y Actualización por la expedición del aviso de previsiones para farmacias;
+XX.- Por la expedición del aviso de previsiones de compra-venta de estupefacientes para farmacias, droguerías y boticas, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -3653,9 +3711,9 @@ XXI.- Se pagarán multas, actualizaciones y recargos, según sea el caso, por el
 
 XXII.- Por las cuotas de recuperación por servicio médico proporcionado por los centros hospitalarios del Estado, conforme el tabulador vigente que se publique en el Periódico Oficial del Estado;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XXIII.- Por la certificación y/o expedición de certificado de salud para manejadores de alimentos, se pagará tres veces el valor diario de la Unidad de Medida y Actualización; y
+XXIII.- Por la certificación y/o expedición de certificado de salud para manejadores de alimentos, se pagará tres veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -4204,3 +4262,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-104 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2022, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
