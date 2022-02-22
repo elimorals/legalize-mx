@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2022-01-04"
+last_updated: "2022-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -689,7 +689,9 @@ d) De Estudios Legislativos, a cargo de contribuir con el análisis, estudio y d
 
 e) De Vigilancia de la Auditoría Superior del Estado, a cargo de las tareas que derivan de la Constitución Política del Estado y de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas en torno a dicho órgano técnico.
 
-f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción de postulaciones a esa presea y de proponer al Pleno quien deba recibirla anualmente, de acuerdo con el Decreto de creación de dicho reconocimiento.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepción de postulaciones a esa presea y de proponer al Pleno, mediante dictamen aprobado y suscrito por una mayoría de 5 integrantes de la Comisión, una terna de personas seleccionadas para que, de entre ellas, el Pleno decida quien deba recibirla anualmente, conforme a la legislación aplicable.
 
 ###### ARTICULO 37.
 
@@ -821,7 +823,9 @@ g) Realizar las actividades que se deriven de la Constitución Política del Est
 
 ###### ARTICULO 46.
 
-1. Para que haya dictamen de comisión, éste deberá estar suscrito por la mayoría de sus integrantes.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+1. Para que haya dictamen de comisión, éste deberá estar suscrito por la mayoría de sus integrantes, o por la mayoría que exija esta ley.
 
 2. El diputado o diputados que disientan de la opinión de la mayoría, podrán formular y presentar por escrito su voto particular.
 
@@ -2553,7 +2557,9 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 ###### ARTICULO 143.
 
-1. La Medalla al Mérito "Luis García de Arellano" se otorgará previo dictamen de la Comisión de la materia y mediante acuerdo adoptado por mayoría de votos de los diputados presentes en la sesión de que se trate.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+1. La Medalla al Mérito "Luís García de Arellano" se otorgará a la persona que determine el Pleno, dentro de la terna propuesta por la Comisión de la materia, y mediante acuerdo adoptado por la mayoría de votos de los diputados presentes en la sesión de que se trate. La votación será por cédula en los términos del artículo 114 de esta ley.
 
 2. Para la presentación, discusión y votación del dictamen sobre el otorgamiento de la Medalla al Mérito "Luis García de Arellano", se aplicarán en lo conducente las previsiones de esta ley sobre esos rubros dentro del procedimiento legislativo ordinario.
 
@@ -3578,3 +3584,11 @@ P.O. 4 DE ENERO DE 2022.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-137 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 36, INCISO F), 46, PÁRRAFO 1, Y 143, PÁRRAFO 1 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse de manera inmediata en el Periódico Oficial del Estado.
