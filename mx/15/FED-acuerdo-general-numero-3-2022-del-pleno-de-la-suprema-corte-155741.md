@@ -1,0 +1,58 @@
+---
+title: "ACUERDO GENERAL NUMERO 3/2022, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO PRIMERO Y SEGUNDO EN MATERIA ADMINISTRATIVA, ESPECIALIZADOS EN COMPETENCIA ECONOMICA, RADIODIFUSION Y TELECOMUNICACIONES, CON RESIDENCIA EN LA CIUDAD DE MEXICO Y JURISDICCION EN TODA LA REPUBLICA, O RADICADOS EN CUALQUIER OTRO TRIBUNAL COLEGIADO DE CIRCUITO, EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INDUSTRIA ELECTRICA, PUBLICADO EL NUEVE DE MARZO DE DOS MIL VEINTIUNO]"
+identifier: "FED-acuerdo-general-numero-3-2022-del-pleno-de-la-suprema-corte-155741"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2022-02-22"
+last_updated: "2022-02-22"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155741&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "155741"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "18"
+reform_count: "0"
+scjn_last_update: "2022-02-22"
+issue_date: "2022-02-17"
+---
+# ACUERDO GENERAL NUMERO 3/2022, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO PRIMERO Y SEGUNDO EN MATERIA ADMINISTRATIVA, ESPECIALIZADOS EN COMPETENCIA ECONOMICA, RADIODIFUSION Y TELECOMUNICACIONES, CON RESIDENCIA EN LA CIUDAD DE MEXICO Y JURISDICCION EN TODA LA REPUBLICA, O RADICADOS EN CUALQUIER OTRO TRIBUNAL COLEGIADO DE CIRCUITO, EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INDUSTRIA ELECTRICA, PUBLICADO EL NUEVE DE MARZO DE DOS MIL VEINTIUNO]
+
+ACUERDO GENERAL NÚMERO 3/2022, DE DIECISIETE DE FEBRERO DE DOS MIL VEINTIDÓS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LOS AMPAROS EN REVISIÓN DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO PRIMERO Y SEGUNDO EN MATERIA ADMINISTRATIVA, ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y JURISDICCIÓN EN TODA LA REPÚBLICA, O RADICADOS EN CUALQUIER OTRO TRIBUNAL COLEGIADO DE CIRCUITO, EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INDUSTRIA ELÉCTRICA, PUBLICADO EL NUEVE DE MARZO DE DOS MIL VEINTIUNO
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en el Diario Oficial de la Federación, el martes 22 de febrero de 2022.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.
+
+ACUERDO GENERAL NÚMERO 3/2022, DE DIECISIETE DE FEBRERO DE DOS MIL VEINTIDÓS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LOS AMPAROS EN REVISIÓN DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO PRIMERO Y SEGUNDO EN MATERIA ADMINISTRATIVA, ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y JURISDICCIÓN EN TODA LA REPÚBLICA, O RADICADOS EN CUALQUIER OTRO TRIBUNAL COLEGIADO DE CIRCUITO, EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INDUSTRIA ELÉCTRICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL NUEVE DE MARZO DE DOS MIL VEINTIUNO.
+
+CONSIDERANDO:
+
+PRIMERO. En términos de lo previsto en los artículos 94, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, así como 11, fracción XIV, de la Ley Orgánica del Poder Judicial de la Federación, la competencia de este Alto Tribunal se rige por lo que disponen las leyes, y el Tribunal Pleno es competente para emitir acuerdos generales en las materias de su competencia;
+
+SEGUNDO. En el Pleno de esta Suprema Corte de Justicia de la Nación están pendientes de resolverse las controversias constitucionales 44/2021 y 45/2021, así como la acción de inconstitucionalidad 64/2021, promovidas, respectivamente, por la Comisión Federal de Competencia Económica, por el Poder Ejecutivo del Estado de Colima, y por diversos integrantes de la Cámara de Senadores del Congreso de la Unión, asuntos en los que se impugna el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de la Industria Eléctrica, publicado en el Diario Oficial de la Federación el nueve de marzo de dos mil veintiuno;
+
+TERCERO. Este Alto Tribunal tiene conocimiento de que actualmente se encuentran radicados, por una parte, en el Primer Tribunal Colegiado de Circuito en Materia Administrativa, Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República, los amparos en revisión 459/2021, 462/2021, 496/2021, 434/2021, 482/2021, 497/2021, 522/2021, 452/2021, 457/2021, 437/2021, 495/2021, 519/2021, 496/2021 y 521/2021, todos de su índice y, por la otra, en el Segundo Tribunal Colegiado de Circuito en Materia Administrativa, Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República, los diversos amparos en revisión 292/2021, 22/2022 y 32/2022, de su índice, todos relacionados con el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de la Industria Eléctrica, publicado en el Diario Oficial de la Federación el nueve de marzo de dos mil veintiuno;
+
+CUARTO. Conforme a lo dispuesto en el artículo 37 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, el Pleno de la Suprema Corte de Justicia de la Nación puede aplazar mediante acuerdos generales la resolución de juicios de amparo pendientes de resolver, por lo que resulta aplicable supletoriamente a la Ley de Amparo, en términos de lo señalado en el párrafo segundo de su artículo 2o., lo previsto en el diverso 366 del Código Federal de Procedimientos Civiles, en cuanto a la atribución para decretar la suspensión del proceso cuando la decisión no pueda pronunciarse hasta que se dicte resolución en otro negocio, supuesto que se actualiza cuando existen juicios de amparo o recursos interpuestos dentro de éstos, pendientes de resolver en este Alto Tribunal o en los Tribunales Colegiados de Circuito, en los que se plantean cuestiones que serán definidas por la Suprema Corte de Justicia de la Nación, y
+
+QUINTO. Con el fin de preservar el derecho a la seguridad jurídica de los gobernados reconocido en los artículos 14 y 16 constitucionales, considerando además que la institución del aplazamiento o suspensión del dictado de la resolución está prevista en el artículo 366 antes invocado, por aplicación supletoria de éste, se estima conveniente acordar el aplazamiento en el dictado de la resolución de los amparos en revisión del conocimiento de los Tribunales Colegiados de Circuito Primero y Segundo en Materia Administrativa, Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República, en los que subsista el problema de constitucionalidad del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de la Industria Eléctrica, publicado en el Diario Oficial de la Federación del nueve de marzo de dos mil veintiuno.
+
+En consecuencia, con fundamento en lo antes mencionado, el Pleno de la Suprema Corte de Justicia de la Nación expide el siguiente:
+
+ACUERDO:
+
+ÚNICO. En tanto el Pleno de esta Suprema Corte de Justicia de la Nación resuelve las controversias constitucionales y la acción de inconstitucionalidad referidas en el Considerando Segundo de este instrumento normativo, establece el o los criterios respectivos, y se emite el Acuerdo General Plenario que corresponda, en los amparos en revisión del conocimiento de los Tribunales Colegiados de Circuito Primero y Segundo en Materia Administrativa, Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República, o radicados en cualquier otro Tribunal Colegiado de Circuito, en los que subsista el problema de constitucionalidad del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de la Industria Eléctrica, publicado en el Diario Oficial de la Federación del nueve de marzo de dos mil veintiuno, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta; sin menoscabo de que en términos de lo previsto en el Punto Cuarto, fracción I, inciso A), del Acuerdo General Plenario 5/2013, se resuelvan aquéllos en los que no resulte necesario abordar el referido problema de constitucionalidad.
+
+TRANSITORIOS:
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
+
+El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Secretario General de Acuerdos. Lic. Rafael Coello Cetina.- Rúbrica.
+
+El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 3/2022, DE DIECISIETE DE FEBRERO DE DOS MIL VEINTIDÓS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCIÓN DE LOS AMPAROS EN REVISIÓN DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO PRIMERO Y SEGUNDO EN MATERIA ADMINISTRATIVA, ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y JURISDICCIÓN EN TODA LA REPÚBLICA, O RADICADOS EN CUALQUIER OTRO TRIBUNAL COLEGIADO DE CIRCUITO, EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INDUSTRIA ELÉCTRICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL NUEVE DE MARZO DE DOS MIL VEINTIUNO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de las señoras Ministras y de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Juan Luis González Alcántara Carrancá, Loretta Ortiz Ahlf (a distancia, mediante el uso de herramientas informáticas), Luis María Aguilar Morales, Jorge Mario Pardo Rebolledo, Norma Lucía Piña Hernández, Ana Margarita Ríos Farjat, Javier Laynez Potisek y Presidente Arturo Zaldívar Lelo de Larrea. La señora Ministra Yasmín Esquivel Mossa y el señor Ministro Alberto Pérez Dayán estuvieron ausentes con motivo del desempeño de una comisión oficial.- Ciudad de México, a diecisiete de febrero de dos mil veintidós.- Rúbrica.
