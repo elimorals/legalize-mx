@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2020-12-17"
+last_updated: "2022-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -63,15 +63,21 @@ A falta de disposición expresa en esta ley, se aplicará supletoriamente el Có
 
 Para los efectos de esta ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo, deberá contar con un área de servicio no menor de 50 metros cuadrados y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo;
+I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo, deberá contar con un área de servicio no menor de 50 metros cuadrados y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Se exceptúa el requisito de cincuenta metros cuadrados para trámite de licencia nueva, únicamente a aquellos establecimientos que previamente hayan contado con licencia de alcoholes durante un periodo de cinco años o más de antigüedad y a su vez sea una solicitud del mismo giro. En este supuesto el área de servicio podrá ser de por lo menos treinta y cinco metros cuadrados;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 II.- Agencia o subagencia: Establecimiento dedicado al expendio y distribución de cerveza al mayoreo. Sus instalaciones e infraestructura deberán ser acordes con su objeto, debiendo contar con vehículos o camiones debidamente identificados mediante los cuales distribuyan su producto a los establecimientos respectivos;
 
-III.- Almacén: Lugar donde se guardan o custodian bebidas alcohólicas en los negocios autorizados;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+III.- Almacén: Lugar donde se guardan y/o custodian bebidas alcohólicas para su posterior distribución a las sucursales y/o establecimientos de un mismo contribuyente, deberá contar con las instalaciones e infraestructura acorde a su actividad;
 
 IV.- Asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, altruistas, recreativas o de cualquiera otra naturaleza: Son aquellos lugares en los cuales podrán contar con salón de baile y servicio de cantina y cocina, que solo funcionarán en el transcurso de los eventos, con consumo y, en su caso, enajenación de bebidas alcohólicas;
 
@@ -157,7 +163,9 @@ XXXV.- Fonda: Fonda, lonchería, taquería, cenaduría, comedor y similares: Lug
 
 XXXVI.- Licencia: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que consta la autorización, los términos y las condiciones en que se puede enajenar, distribuir o permitir el consumo de bebidas alcohólicas, ya sea en envase cerrado o abierto;
 
-XXXVII.- Licorería: Establecimiento cuya actividad predominante sea la enajenación de bebidas alcohólicas en envase cerrado y al menudeo;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XXXVII.- Licorería: Establecimiento cuya actividad predominante sea la enajenación de bebidas alcohólicas en envase cerrado y al menudeo, el valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, deberá ser de un 80% de vinos y licores y un 20% de cerveza, y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores;
 
 XXXVIII.- Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización y venta;
 
@@ -165,9 +173,17 @@ XXXVIII.- Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, a
 
 XXXIX.- Microcervecería: Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XXXIX BIS.- Micromezcalería: Establecimiento independiente donde se produce y almacena para su distribución y venta, mezcal, de producción propia, así como un diverso productor de mezcal, dicho establecimiento solo podrá enajenar producto en envase cerrado para llevar, debiendo contar con una superficie menor a los 250 metros cuadrados;
+
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 XL.- Minisúper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto, deberá contar con un área de servicio no menor de 50 metros cuadrados y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Se exceptúa el requisito de cincuenta metros cuadrados para trámite de licencia nueva, únicamente a aquellos establecimientos que previamente hayan contado con licencia de alcoholes durante un periodo de cinco años o más de antigüedad y a su vez sea una solicitud del mismo giro. En este supuesto el área de servicio podrá ser de por lo menos treinta y cinco metros cuadrados;
 
 XLI.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
 
@@ -307,6 +323,10 @@ XXII.- Licorería;
 
 XXIII.- Microcervecería;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XXIII BIS. - Micromezcalería;
+
 XXIV.- Minisuper;
 
 XXV.- Restaurante;
@@ -397,7 +417,9 @@ V.- Impedir escándalos en los establecimientos, recurriendo, para evitarlos, a 
 
 VI.- Enajenar únicamente bebidas alcohólicas nacionales o extranjeras, siempre y cuando estas últimas hayan cumplido con el pago de los impuestos de importación, así como con las disposiciones y restricciones no arancelarias, que no estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos, conservando en los establecimientos, y poniéndolos a disposición de la autoridad, los comprobantes del origen de las bebidas alcohólicas que enajenan;
 
-VII.- Observar los requisitos de funcionamiento de salubridad e higiene que establezcan las leyes y reglamentos respectivos;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+VII.- Observar los requisitos de funcionamiento de salubridad e higiene que establezcan las leyes y reglamentos respectivos, así como las medidas sanitarias decretadas por las autoridades competentes, en caso de epidemia, pandemia o cualquier contingencia sanitaria;
 
 VIII.- Destinar el establecimiento al giro autorizado, exclusivamente;
 
@@ -419,7 +441,9 @@ XV.- Informar a la Secretaría la suspensión de las actividades señaladas en l
 
 XVI.- Pagar los derechos correspondientes a la licencia dentro del plazo que fijen las leyes. Los comprobantes de pago deberán conservarse en el establecimiento en el que se opere para que los visitadores puedan verificarlos;
 
-XVII.- Presentar en el mes de febrero de cada año, en el caso de agencias, subagencias, envasadoras, distribuidoras y otros establecimientos que vendan al mayoreo, una declaración de ventas de bebidas alcohólicas por cliente correspondiente al año de calendario anterior, en los formatos aprobados por la Secretaría; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XVII.- Presentar en el mes de febrero de cada año, en el caso de agencias, subagencias, envasadoras, distribuidoras y otros establecimientos que vendan at (sic) mayoreo, una declaración de ventas de bebidas alcohólicas por cliente correspondiente al año de calendario anterior, dicha declaración deberá presentarla únicamente a través del portal de internet de la Secretaría de Finanzas; y
 
 XVIII.- Las agencias, subagencias, envasadoras, distribuidoras y otros establecimientos que vendan al mayoreo, se abstendrán de enajenar bebidas alcohólicas a establecimientos no autorizados en los términos de esta ley.
 
@@ -537,6 +561,10 @@ El otorgamiento de la licencia o permiso constituye un acto de la autoridad que 
 
 Las licencias o permisos para microcervecerías, salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, se otorgarán a precio preferencial a fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal en el Estado.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+De igual manera las licencias o permisos para micromezcalería, se otorgarán a precio preferencial a fin de impulsar el desarrollo económico generado por el sector productor de mezcal en el Estado.
+
 ###### ARTICULO 25.
 
 Para obtener licencia o permiso con el objeto de operar establecimientos destinados al almacenamiento, distribución enajenación y consumo de bebidas alcohólicas, el interesado deberá reunir los requisitos siguientes:
@@ -581,11 +609,17 @@ XIII.- Cubrir el pago de los derechos correspondientes que señala la Ley de Hac
 
 XIV.- Copia de la solicitud de inscripción en el Registro Federal de Contribuyentes o del aviso de apertura del establecimiento;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-XV.- Original para cotejo del comprobante de pago del predial del domicilio del establecimiento o en su caso contrato de arrendamiento celebrado y/o ratificado ante notario público a fin de determinar la responsabilidad solidaria del arrendador con el arrendatario que solicita la licencia, de conformidad con lo establecido en el artículo 72 de la Ley Reglamentaria para Establecimientos de Bebidas Alcohólicas; y
+XV.- Original para cotejo del comprobante de pago del predial del domicilio del establecimiento o en su caso contrato de arrendamiento;
 
-XVI.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2022)</small>
+
+XVI.- Presentar el escrito celebrado y/o ratificado ante notario público mediante el cual se manifieste la voluntad de responsabilidad solidaria en las formas que establezca la Secretaría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2022)</small>
+
+XVII.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -879,6 +913,10 @@ n).- Cuando no se fijen letreros señalando que se impide la entrada a menores d
 
 o).- (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2018)
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+p).- Cuando no se cumplan las medidas y/o protocolos de sanidad dictados por la autoridad competente en caso de contingencia sanitaria.
+
 II.- Procede la clausura definitiva:
 
 a).- Cuando se permita el acceso a menores de edad o a personas que no estén en pleno goce de sus facultades mentales en los establecimientos de bares, cabaret o centros nocturnos, cantinas o tabernas, o cervecerías;
@@ -1125,13 +1163,17 @@ VII.- Con multa de trescientas treinta a quinientas cincuenta veces el valor dia
 
 VIII.- Con arresto administrativo hasta por treinta y seis horas, multa de quinientas cincuenta y dos a mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura definitiva, a los propietarios de los establecimientos que expendan o suministren las bebidas alcohólicas, sin contar con licencia o permiso correspondiente, siendo solidariamente responsables los distribuidores que surtan a dichos establecimientos;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-IX.- Con multa de once mil a veintidós mil veces el valor diario de la Unidad de Medida y Actualización, a quienes no presenten la declaración a que se refiere el artículo 16 fracción XVII de esta Ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado; y
+IX.- Con multa de once mil a veintidós mil veces el valor diario de la Unidad de Medida y Actualización, a quienes no presenten la declaración a que se refiere el artículo 16 fracción XVII de esta Ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
 
-X.- Con multa de quinientas cincuenta a mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando se enajenen al mayoreo bebidas alcohólicas a establecimientos que no estén autorizados en los términos de esta Ley.
+X.- Con multa de quinientas cincuenta a mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando se enajenen al mayoreo bebidas alcohólicas a establecimientos que no estén autorizados en los términos de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XI.- Con multa de trescientas treinta a quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por treinta días, cuando se deje de observar lo establecido en la fracción VII del artículo 16 de la presente ley.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1153,7 +1195,9 @@ La imposición de las sanciones administrativas establecidas en esta ley, se apl
 
 Son responsables de las infracciones que se cometan a la presente ley, los propietarios de los establecimientos y sus administradores, así como los representantes legales de las personas morales.
 
-Tienen responsabilidad solidaria para el pago de las sanciones económicas los propietarios de los inmuebles que permitan el uso o goce de los mismos, para la enajenación de bebidas alcohólicas sin la licencia o permiso respectivo.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Tienen responsabilidad solidaria para el pago de las sanciones económicas las personas establecidas en la fracción XVI del artículo 25 de la presente ley, para la enajenación de bebidas alcohólicas sin la licencia o permiso respectivo.
 
 ###### ARTICULO 73.
 
@@ -1454,3 +1498,15 @@ La Secretaría podrá, mediante reglas de carácter general, establecer facilida
 ###### ARTÍCULO CUARTO.
 
 En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un (sic) numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
+
+P.O. 22 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-104 DECRETO MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2022, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
