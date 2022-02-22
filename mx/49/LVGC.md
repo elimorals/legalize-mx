@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "2021-02-19"
+last_updated: "2022-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY DE VÍAS GENERALES DE COMUNICACIÓN
 
 > <small>N. DE E. SE DEJAN SIN EFECTOS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN LO QUE SE OPONGAN A LO DISPUESTO EN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDEN LA CITADA LEY, LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, Y QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2014; ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2022.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -3134,11 +3134,11 @@ Si además, se alterase el nombre de la persona a quien originariamente se hubie
 
 El empleado que sin autorización de la empresa expidiere algún pase, será castigado con prisión de un mes a un año y multa de cincuenta a quinientos pesos. Igual sanción se aplicará al que enajene un pase o lo use indebidamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 533.
 
-A quien dañe, perjudique o destruya las vías generales de comunicación, o los medios de transporte, o interrumpa la construcción de dichas vías, o total o parcialmente interrumpa o deteriore los servicios que operen en las vías generales de comunicación o los medios de transporte, se le sancionará con pena de dos a nueve años y multa de doscientas a mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito.
+A quienes dañen, perjudiquen o destruyan las vías generales de comunicación, o los medios de transporte, o interrumpan la construcción de dichas vías, o para obtener un lucro interrumpan el tránsito de los medios de transporte y la operación de los servicios de peaje, o total o parcialmente interrumpan o deterioren los demás servicios que operen en las vías generales de comunicación o los medios de transporte, se impondrá sanción de tres meses a siete años de prisión y multa de 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
@@ -4207,3 +4207,11 @@ A las personas que hayan cometido un delito de los contemplados en el presente D
 Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 
 Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 22 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 533 DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN."]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
