@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2020-12-17"
+last_updated: "2022-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -253,17 +253,17 @@ Donde:
 
 CE = Coeficiente de participación del Municipio "i" en el año para el que se efectúa el cálculo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-Atl= Monto de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos obtenida en el Municipio "i" conforme al domicilio declarado por los contribuyentes al efectuar el pago de este Impuesto.
+Ati = Monto de la recaudación de los Derechos por Servicios para el Control Vehicular obtenida en el Municipio “i” conforme al domicilio declarado por los contribuyentes al efectuar el pago de este Derecho.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-TAt= Suma de la recaudación que por el Impuesto sobre Tenencia o Uso de Vehículos, haya obtenido el Estado en todos los Municipios,
+TAt = Suma de la recaudación que por los Derechos por Servicios para el Control Vehicular, haya obtenido el Estado en todos los Municipios.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
-Para los efectos de la fórmula anterior se entiende por recaudación del Impuesto sobre Tenencia o Uso de Vehículos el monto cobrado durante el ejercicio de que se trate así como las cantidades subsidiadas por concepto de dicho Impuesto, sin incluir accesorios.
+Para los efectos de la fórmula anterior se entiende por recaudación de los Derechos por Servicios para el Control Vehicular el monto cobrado durante el ejercicio de que se trate, sin incluir accesorios.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1056,3 +1056,15 @@ La Secretaría podrá, mediante reglas de carácter general, establecer facilida
 ###### ARTÍCULO CUARTO.
 
 En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
+
+P.O. 22 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-104 DECRETO MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2022, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
