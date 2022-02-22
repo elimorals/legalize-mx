@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2020-12-17"
+last_updated: "2022-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -3171,11 +3171,11 @@ La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y
 
 En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el valor anual de la Unidad de Medida y Actualización, la convocatoria se publicará en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación, dos veces, con intervalo de siete días. La última publicación será cuando menos diez días antes del remate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 171.
 
-Los acreedores que aparezcan del certificado de gravámenes correspondientes a los últimos 10 años, el cual deberá obtenerse oportunamente, serán citados para el acto de remate y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la fracción IV del artículo 133 de este Código, se tendrá, como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá, expresarse el nombre de dichos acreedores.
+Los acreedores que aparezcan del certificado de gravámenes correspondientes a los últimos diez años, el cual deberá obtenerse oportunamente, deberán ser citados para el acto de remate dentro de los 3 días siguientes a la publicación de la convocatoria y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la fracción IV del artículo 133 de este Código, se tendrá, como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de dichos acreedores.
 
 Los acreedores a que alude el párrafo anterior podrán concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
 
@@ -3628,3 +3628,15 @@ La Secretaría podrá, mediante reglas de carácter general, establecer facilida
 ###### ARTÍCULO CUARTO.
 
 En materia de derechos referente a los servicios proporcionados con relación a la protección contra riesgos sanitarios, comprendidos en la adición al artículo 93, fracción VIII de un numeral 40 de la Ley de Hacienda para el Estado de Tamaulipas, se determina que solamente el cobro estipulado en la referida adición entrará en vigor una vez concluida la emergencia sanitaria provocada por el virus COVID-19, ya que es fundamental se cumplan las condiciones sanitarias adecuadas reuniendo todos los requisitos inherentes al tema sobre el traslado de cadáveres o sus partes.
+
+P.O. 22 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-104 DECRETO MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2022, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
