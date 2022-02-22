@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2021-12-21"
+last_updated: "2022-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -105,6 +105,10 @@ IV. Aguas Nacionales: Aquellas que reúnan las características de aguas de prop
 
 V. Aguas Pluviales: Aquellas que provienen de lluvia, incluyendo las generadas por granizo y nieve.
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+V Bis. Aguas Pluviales cosechadas: Volúmenes de agua de lluvia, nieve o granizo captados mediante las obras, infraestructura, equipos e instrumentos adecuados en el suelo urbano y en el suelo de conservación por los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y en los hogares de las y los habitantes del Estado de Tamaulipas;
+
 VI. Aguas Residuales: Las aguas de composición variada provenientes de las descargas sanitarias después de haber sido utilizadas por los usuarios públicos, domésticos, comerciales y de servicios e industriales.
 
 VII. Aguas residuales tratadas: Las aguas residuales después de haber recibido el tratamiento de saneamiento.
@@ -124,6 +128,14 @@ XII. Catastro Técnico: Mapa digitalizado y base de datos del área de factibili
 XIII. Consejo de Administración: El órgano de gobierno de los organismos públicos descentralizados del Estado y los municipios, responsable de la toma de decisiones para orientar los recursos disponibles hacia el cumplimiento (sic) su objeto.
 
 XIV. Contratistas: Las personas físicas o morales que celebren contratos con la Comisión y organismos operadores.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XIV Bis. Cosecha de Agua: Práctica orientada, a través de métodos diversos, a la captación, almacenamiento, infiltración del agua de lluvia y aprovechamiento sustentable del recurso hídrico;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+XIV Ter. Cosechador (a) de Agua de Lluvia: Dependencias, Entidades, Organismos, Instituciones, Organizaciones y Entes Públicos, privados y sociales, los Ejidos comunidades, barrios y pueblos, así como las y los habitantes del Estado, que conscientes de la fundamental importancia de construir colectivamente una nueva cultura del uso, ahorro y reúso del agua potable realicen las acciones individuales o colectivas que puedan contribuir con el Estado a promover, organizar e incentivar la cosecha de aguade (sic) lluvia;
 
 XV. Cuota por Uso de Infraestructura: El importe que las personas físicas o morales del sector público o privado deben pagar al prestador de los servicios para hacer uso de la infraestructura existente con la finalidad de suministrar los servicios públicos en un predio específico.
 
@@ -2553,17 +2565,35 @@ V. Las demás que prevean las disposiciones legales.
 
 ## TITULO OCTAVO. DE LA CULTURA DEL AGUA
 
-### CAPITULO I. DEL USO EFICIENTE Y CUIDADO DEL AGUA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 2022)</small>
+
+### CAPITULO I. DE LA COSECHA, USO EFICIENTE Y CUIDADO DEL AGUA
 
 ###### Artículo 167.
 
-Las autoridades en materia de agua promoverán una cultura para el uso eficiente y cuidado del recurso, a través de la realización de acciones y campañas tendientes a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2022)</small>
+
+Las autoridades en materia de agua promoverán una cultura para el uso eficiente y cuidado del recurso, a través de acciones, actividades y obras tendientes a:
 
 I. Generar conciencia en la población que el elemento agua es un recurso vital, escaso y finito que debe aprovecharse con racionalidad y eficiencia;
 
 II. Promover la utilización de aparatos ahorradores de agua;
 
 III. Propiciar la prevención y control de la contaminación;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2022)</small>
+
+III Bis. Promover y desarrollar estrategias de cosecha de agua a través de:
+
+a) Microcaptación en áreas verdes y suelos municipales sujetos a conservación;
+
+b) Techos de vivienda y otras estructuras impermeables;
+
+c) Captaciones de agua subterráneas y freáticas;
+
+d) Captación de agua atmosférica; y
+
+e) Otras orientadas al desarrollo de sistemas de siembra, recolección e infiltración de agua.
 
 IV. Promover el saneamiento de las aguas; y
 
@@ -3162,6 +3192,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 21 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-89 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS; DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, Y DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-116 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
