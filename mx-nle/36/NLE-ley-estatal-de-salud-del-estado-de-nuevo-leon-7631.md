@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2021-12-24"
+last_updated: "2022-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -1204,6 +1204,10 @@ A LOS ESTABLECIMIENTOS QUE VENDAN O UTILICEN SUBSTANCIAS INHALANTES CON EFECTOS 
 ###### ARTICULO 72.
 
 EN NINGÚN CASO Y EN NINGUNA FORMA SE PODRÁN EXPENDER O SUMINISTRAR BEBIDAS ALCOHÓLICAS, TABACO O CUALQUIER OTRA SUBSTANCIA O PRODUCTO INHALANTE CON EFECTOS PSICOTRÓPICOS A MENORES DE EDAD.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2022)</small>
+
+DEL MISMO MODO, QUEDA PROHIBIDO EL EXPENDIO O SUMINISTRO POR MEDIO DE MÁQUINAS EXPENDEDORAS DE DISPOSITIVOS INHALANTES QUE CONTIENEN NICOTINA Y OTROS EFECTOS PSICOTRÓPICOS.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2672,3 +2676,9 @@ P.O. 24 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 026. SE REFORMA LA FRACCIÓN III DEL ATR. (SIC) 44 Y LAS FRACCIONES I, III Y IV DEL ARTÍCULO 44 BIS, DE LA LEY ESTATAL DE SALUD”.]
 
 Único: El presente Decreto estará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 091. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 72 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
