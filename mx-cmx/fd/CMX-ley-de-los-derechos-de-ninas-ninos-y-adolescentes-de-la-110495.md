@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2021-06-11"
+last_updated: "2022-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE FEBRERO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -173,6 +173,14 @@ XII. Atención integral: Conjunto de acciones que deben realizar autoridades o s
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
 XIII. Autoridades: Las autoridades y servidores públicos de los órganos ejecutivo, legislativo y judicial de la Ciudad de México, así como de los órganos autónomos;
+
+> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 2022)</small>
+
+XIII Bis. Castigo corporal o físico: Es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve;
+
+> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 2022)</small>
+
+XIII Ter. Castigo humillante: Es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -1120,6 +1128,10 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Garantizando su seguridad sexual, para los efectos de que no sean víctimas o potenciales víctimas de cualquier delito vinculado con diversas conductas de violencia sexual.
 
+> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 2022)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 44.
@@ -1148,7 +1160,13 @@ IX. El trabajo en adolescentes mayores de quince años que pueda perjudicar su s
 
 Se entiende por las peores formas de trabajo infantil a las relativas a: la esclavitud, trata infantil, servidumbre por deudas, la condición de siervo, trabajo forzoso, explotación sexual y la participación en actividades ilícitas;
 
-X. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 2022)</small>
+
+X. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 2022)</small>
+
+XI. El castigo corporal y/o humillante.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -1490,7 +1508,7 @@ En poblaciones predominantemente indígenas, las autoridades a que se refiere es
 
 Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con la accesibilidad para ejercer su derecho a la libertad de expresión, acceso a la información y expresión de su voluntad.
 
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO,ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
 
@@ -1934,9 +1952,13 @@ VI. Coordinarse con las instancias de los sectores público, social y privado qu
 
 VII. Realizar las actividades de asistencia social así como fomentar y promover la estabilidad y el bienestar familiar;
 
-> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 2022)</small>
 
-VIII. Habilitar albergues o espacios de alojamiento para recibir a niñas, niños y adolescentes migrantes; observando en todo momento lo dispuesto por esta Ley, la Ley General, la Ley de Migración y demás disposiciones jurídicas aplicables; y,
+VIII. Habilitar albergues o espacios de alojamiento para recibir a niñas, niños y adolescentes migrantes; observando en todo momento lo dispuesto por esta Ley, la Ley General, la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 2022)</small>
+
+VIII Bis. Promover y difundir medidas de disciplina adecuadas, positivas y no violentas, elaboradas con la participación de niñas, niños y adolescentes, a efecto de garantizar sus derechos; y
 
 IX. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
@@ -2713,3 +2735,11 @@ G.O. 11 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, FRACCIÓN IX 47, PRIMER PÁRRAFO Y, SE ADICIONAN LAS FRACCIONES XXI Y XXII AL ARTÍCULO 58, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIII BIS Y XIII TER AL ARTÍCULO 4; ASÍ COMO UN TERCER PÁRRAFO AL ARTÍCULO 43; SE MODIFICA LA FRACCIÓN X Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 44; SE MODIFICA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 102 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
