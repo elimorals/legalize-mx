@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-austeridad-para-el-estado-de-nayarit-153902"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-28"
-last_updated: "2021-12-28"
+last_updated: "2022-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE AUSTERIDAD PARA EL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE FEBRERO DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE AUSTERIDAD PARA EL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 24 DE FEBRERO DE 2022.]</small>
 
 Ley publicada en el Número 121 del Periódico Oficial del Estado de Nayarit, el martes 28 de diciembre de 2021.
 
@@ -305,13 +305,17 @@ V. Tienen prohibido utilizar las atribuciones, facultades o influencia que tenga
 
 La Contraloría emitirá un Código de Conducta afín a los principios y valores establecidos en la presente ley, y la cual deberá ser observada de manera obligatoria por todos los servidores públicos de las Entidades Públicas. Los órganos internos de control de los demás Entes Públicos, procurarán la emisión del código respectivo, para su implementación en el ámbito de su competencia.
 
+> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 22.
 
-Queda prohibido contratar con recursos públicos cualquier tipo de jubilaciones, pensiones y regímenes especiales de retiro, de separación individualizada o colectiva, así como seguros de vida o de pensiones que se otorguen en contravención a lo dispuesto en un decreto o alguna disposición general, condiciones generales de trabajo o contratos colectivos de trabajo.
+Queda prohibido contratar con recursos públicos cualquier tipo de jubilaciones, pensiones y regímenes especiales de retiro, de separación individualizada o colectiva, así como seguros de vida o de pensiones que se otorguen en contravención a lo dispuesto en un decreto o alguna disposición general, condiciones generales de trabajo o contratos colectivos de trabajo. En el caso de los seguros de vida, se exceptúan a los servidores públicos del Poder Judicial.
 
 Por ningún motivo se autorizarán pensiones de retiro al titular del Ejecutivo Estatal adicionales a la prevista en la ley de la materia.
 
-Se exceptúan de lo anterior los servidores públicos se (sic) seguridad pública y procuración de justicia.
+> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2022)</small>
+
+Se exceptúan de lo anterior los servidores públicos de seguridad pública y procuración de justicia.
 
 ###### Artículo 23.
 
