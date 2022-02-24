@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2022-02-22"
+last_updated: "2022-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -281,7 +281,9 @@ h) Las demás que le atribuyen esta ley, los ordenamientos relativos a la activi
 
 2. La Mesa Directiva adoptará sus decisiones por consenso y, en caso de no lograrse el mismo, por la mayoría absoluta de sus integrantes. En caso de empate, el Presidente de la Mesa contará con el voto decisorio.
 
-3. A las reuniones de la Mesa Directiva asistirá el secretario general, quien tendrá voz y preparará los documentos necesarios para el desarrollo de las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+3. A las reuniones de la Mesa Directiva asistirá el Secretario General, quien tendrá voz y preparará los documentos necesarios para el desarrollo de las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten, el titular de la Unidad de Servicios Parlamentarios y personal de servicios parlamentarios, para la revisión del contenido en los apartados del Orden del Día de la sesión.
 
 ###### ARTICULO 21.
 
@@ -311,11 +313,13 @@ d) Disponer lo conducente para que los diputados se conduzcan conforme a las nor
 
 e) Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere razón para ello;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
-f) Dar curso a los asuntos y negocios del Congreso en términos de la normatividad aplicable y determinar los turnos conforme a las competencias, o lo que corresponda respecto de los trámites que deban recaer sobre las cuestiones con que se dé cuenta al Pleno;
+f) Dar curso a los asuntos y negocios del Congreso en términos de la normatividad aplicable y determinar los turnos conforme a las competencias, o lo que corresponda respecto de los trámites que deban recaer sobre las cuestiones con que se dé cuenta al Pleno; enviar la publicación en el Periódico Oficial del Estado, cuando no requieran de la sanción y promulgación del Ejecutivo;
 
-g) Firmar, junto con los secretarios de la Mesa Directiva, las leyes, decretos y acuerdos que expida el Congreso, así como suscribir cualquier otra resolución del Pleno;
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+g) Firmar, en el Salón de Sesiones, junto con los secretarios de la Mesa Directiva, las leyes, decretos y acuerdos que expida el Congreso, así como suscribir cualquier otra resolución del Pleno, al término de la sesión, en que se hubieren aprobado;
 
 h) Convocar a las reuniones de la Mesa Directiva del Congreso y cumplir con las resoluciones que le correspondan;
 
@@ -351,7 +355,9 @@ d) Dar lectura a los documentos con que se dé cuenta en el Pleno, a no ser que 
 
 e) Supervisar los servicios parlamentarios relacionados con la celebración de las sesiones del Pleno, con objeto de que los diputados tengan acceso oportuno a las iniciativas y dictámenes; se elabore el acta de las sesiones; se lleve el registro de las actas en el libro correspondiente; se conformen y mantengan actualizados los expedientes de los asuntos competencia del Pleno; se asienten y firmen los trámites correspondientes en dichos expedientes; se integren los libros de los registros cronológico y textual de las leyes, decretos y acuerdos que expida el Congreso, y se elabore y distribuya el Diario de los Debates;
 
-f) Firmar junto con el presidente, las leyes, decretos y acuerdos expedidos por el Congreso, así como las demás resoluciones del Pleno;
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+f) Firmar, en el Salón de Sesiones, junto con quien presida la Mesa Directiva o cuando este se niegue hacerlo o retarde los trámites de lo aprobado, las leyes, decretos y acuerdos que expida el Congreso, así como suscribir cualquier otra resolución del Pleno, al término de la sesión, en que se hubieren aprobado;
 
 g) Suscribir la correspondencia que acuerde el presidente de la Mesa Directiva;
 
@@ -360,6 +366,28 @@ h) Expedir las certificaciones que disponga el presidente de la Mesa Directiva s
 i) Las demás que les atribuyan la Constitución Política del Estado, esta ley y los ordenamientos relativos a la actividad parlamentaria, o que le sean conferidas por el presidente de la Mesa Directiva.
 
 2. La Mesa Directiva acordará el orden de actuación y desempeño de los secretarios en las sesiones del Pleno.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+ARTICULO 23 BIS.
+
+1. Son causas de remoción de los integrantes de la Mesa Directiva:
+
+a) Cuando, a juicio del Pleno legislativo incurran en causas graves que afecten las funciones legislativas;
+
+b) Si transgreden en forma grave o reiterada las disposiciones de la Constitución General de la República, la Constitución Política del Estado de Tamaulipas, o las de esta ley;
+
+c) Si incumplen los acuerdos del Pleno, de la Junta de Coordinación Política o cuando se afecten las atribuciones constitucionales y legales del Congreso del Estado; y
+
+d) Si dejan de asistir sin causa justificada, a tres o más sesiones del Congreso o al mismo número de reuniones de trabajo de la Mesa Directiva.
+
+Los integrantes de la Mesa Directiva sólo podrán ser removidos con el voto de la mayoría simple de los Diputados y Diputadas presentes del Congreso, y no podrán ser electos durante toda la Legislatura.
+
+Para los efectos del párrafo anterior se requerirá presentar solicitud por escrito, que acompañe los elementos probatorios que se estimen suficientes, y una vez hecha del conocimiento del Pleno; su posible deliberación se someterá a votación por cédula, requiriendo ésta ser aprobada por mayoría simple.
+
+2. En caso de ser aprobada su deliberación, ésta será sometida a discusión, en la que podrán hacer uso de la palabra hasta dos Diputadas o Diputados en contra y dos a favor en forma alternada, comenzando por el primero que solicitó la palabra en contra. Posteriormente se procederá a la votación de la remoción, la cual se someterá a votación nominal, requiriendo ésta ser aprobada por mayoría simple.
+
+3. En caso de que sea aprobada la moción para el caso del Presidente, el suplente tomará el cargo para conducir el período para el cual fue elegido el Diputado o Diputada removido, nombrándose nuevo suplente, a falta de él o ella, se elegirá al nuevo Diputado o Diputada que presidirá la Mesa Directiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -487,9 +515,9 @@ d) Proponer al Pleno la designación de delegaciones para atender reuniones parl
 
 e) Presentar al Pleno el anteproyecto de presupuesto anual del Congreso;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
-f) Establecer la integración básica del orden del día de las sesiones, así como proponer las formas que seguirán los debates, discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar al Presidente de la Mesa Directiva a participar en la reunión de la Junta;
+f) Establecer la integración del orden del día de las sesiones, así como proponer las formas que seguirán los debates, discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar al Presidente de la Mesa Directiva a participar en la reunión de la Junta;
 
 g) Impulsar el trabajo de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos;
 
@@ -747,11 +775,13 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 ###### ARTICULO 41.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
-1. Los Presidentes de las Comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, al Instituto Electoral de Tamaulipas, al Tribunal Electoral del Estado, a la Comisión de Derechos Humanos del Estado, al Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
+1. Los Presidentes de las Comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, los órganos constitucionalmente autónomos y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
 
-2. El ente público está obligado a proporcionar la información en un plazo razonable y si la misma no fuere remitida, la comisión lo planteará al presidente de la Mesa Directiva para que éste refrende la solicitud. Si ante este requerimiento la información no fuere remitida, se procederá en términos del título de responsabilidades de los servidores públicos previsto en la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+2. El ente público está obligado a proporcionar la información en un plazo de 15 días naturales y si la misma no fuere remitida, la comisión lo planteará al presidente de la Mesa Directiva para que éste refrende la solicitud. Si ante este requerimiento la información no fuere remitida, se procederá en términos del título de responsabilidades de los servidores públicos previsto en la Constitución Política del Estado.
 
 3. Si la información solicitada tiene carácter reservado conforme a las disposiciones legales aplicables, el ente público requerido deberá manifestarlo debidamente motivado y fundado.
 
@@ -783,13 +813,19 @@ c) Mantener actualizado el registro de los asuntos que les sean turnados, con el
 
 d) Sesionar, cuando menos, una vez cada dos meses;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
-e) Atender y, en su caso, dictaminar los asuntos que le sean turnados por el presidente de la Mesa Directiva;
+e) Atender y, en su caso, dictaminar con apoyo de los Auxiliares de Dictaminadores de la Sección que le corresponda, los asuntos que le sean turnados por quien presida la Mesa Directiva;
 
 f) (DEROGADO, P.O. 30 DE MAYO DE 2017)
 
-g) Realizar las actividades que se deriven de la Constitución Política del Estado, de esta ley y de los demás ordenamientos de la actividad parlamentaria, así como de los acuerdos tomados por el Pleno del Congreso con relación a las materias de su competencia.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+g) Realizar las actividades que se deriven de la Constitución Política del Estado, de esta ley y de los demás ordenamientos de la actividad parlamentaria, así como de los acuerdos tomados por el Pleno del Congreso con relación a las materias de su competencia; y
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+h) Dar seguimiento de los asuntos dictaminados y aprobados por el Pleno, e informar de las acciones realizadas.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -843,11 +879,13 @@ g) Realizar las actividades que se deriven de la Constitución Política del Est
 
 3. Los servidores públicos que asistan a las reuniones de las comisiones para brindar información sobre las tareas a su cargo, están obligados a guardar a los legisladores las atenciones y consideraciones inherentes a la representación de que se encuentran investidos. Asimismo, lo harán bajo protesta de decir verdad.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 48.
 
-Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y especiales a las cuales no pertenezca, así como hacer uso de la palabra en ellas para exponer libremente sus consideraciones sobre el asunto en estudio, pero no tendrá voto en las decisiones de esas comisiones. Sin demérito de lo anterior, los legisladores están obligados a permitir la libre discusión y decisión parlamentaria en las referidas reuniones.
+1. Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y especiales a las cuales no pertenezca, así como hacer uso de la palabra en ellas para exponer libremente sus consideraciones sobre el asunto en estudio, pero no tendrá voto en las decisiones de esas comisiones. Sin demérito de lo anterior, los legisladores están obligados a permitir la libre discusión y decisión parlamentaria en las referidas reuniones.
+
+2. El personal de servicios parlamentarios y administrativo del Congreso se limitará a dar la opinión técnica-parlamentaria y jurídica de los asuntos de la Comisión y/o Comisiones en estudio.
 
 ###### ARTICULO 49.
 
@@ -860,6 +898,10 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
 
 1. Las reuniones de las comisiones tendrán carácter de públicas, salvo determinación expresa de sus miembros, pudiendo asistir a ellas los servidores públicos del Congreso que deban proporcionar servicios parlamentarios o administrativos.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+Los asesores de las diversas formas de agrupación por afiliación partidista no podrán intervenir ni interrumpir el desarrollo de la reunión de Comisión y/o Comisiones.
 
 2. Las comisiones podrán celebrar reuniones públicas de información y audiencia cuando lo consideren pertinente. Al efecto podrá invitarse a representantes de grupos de interés, expertos y, en general, cualquier persona que pueda aportar información sobre determinado asunto que tengan a su cargo analizar o dictaminar.
 
@@ -1481,9 +1523,9 @@ n) Retirar cualquier material o artículos ilustrativos que haya utilizado para 
 
 ñ) Abstenerse de hacer uso de la palabra durante las sesiones, si el Presidente no se la ha concedido; y
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
-o) Tratar con respeto y profesionalismo al personal que preste sus servicios en el Congreso.
+o) Las y los Diputados integrantes de la Legislatura, dentro y fuera del Recinto Legislativo, así como en las distintas plataformas digitales y redes sociales, se abstendrán de difamar y menoscabar la dignidad del personal administrativo y de servicios parlamentarios que laboran en el Congreso del Estado. Asimismo deberán tratar con respeto y profesionalismo al personal que preste sus servicios en el Poder Legislativo.
 
 2. Los diputados cumplirán con los deberes que deriven de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de las leyes que de ellas emanen.
 
@@ -1625,21 +1667,29 @@ e) Sobrevenga la muerte del representante popular.
 
 6. Las sesiones serán permanentes si se celebran con ese carácter por acuerdo expreso de la mayoría de los miembros del Congreso, con objeto de abordar un asunto previamente determinado y hasta la conclusión de los procedimientos parlamentarios requeridos para su tratamiento.
 
-7. Las sesiones serán solemnes cuando así se disponga por esta ley o lo acuerde el Pleno con objeto de realizar alguna conmemoración o recibir la presencia de algún invitado especial. El orden del día de estas sesiones se establecerá conforme a las previsiones que proponga la Junta de Coordinación Política.
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
-8. Durante el desarrollo de las sesiones del Congreso, podrán ingresar al Salón de Sesiones y permanecer en él los miembros de los servicios parlamentarios y administrativos que se requieran.
+7. Las sesiones serán semipresenciales cuando así se disponga por esta ley o lo acuerde la Junta de Coordinación Política, con carácter excepcional por la situación de emergencia y contingencia de salud pública en el Estado. El orden del día de estas sesiones se establecerá conforme a las previsiones que proponga la Junta de Coordinación Política.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE FEBRERO DE 2022)</small>
+
+8. Las sesiones serán solemnes cuando así se disponga por esta ley o lo acuerde el Pleno con objeto de realizar alguna conmemoración o recibir la presencia de algún invitado especial. El orden del día de estas sesiones se establecerá conforme a las previsiones que proponga la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+9. Durante el desarrollo de las sesiones del Congreso, podrán ingresar al Salón de Sesiones y permanecer en él los miembros de los servicios parlamentarios y administrativos que se requieran. Los asesores de las diversas formas de agrupación por afiliación partidista no podrán acercarse a la Mesa Directiva ni interrumpir el desarrollo de las sesiones.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
 
-9. A fin de garantizar el derecho humano de acceso a la información de las personas con discapacidad auditiva, el Congreso contará con intérprete de Lengua de Señas Mexicana que comunique el contenido del trabajo realizado durante las sesiones en vivo transmitidas por este Poder Legislativo.
+10. A fin de garantizar el derecho humano de acceso a la información de las personas con discapacidad auditiva, el Congreso contará con intérprete de Lengua de Señas Mexicana que comunique el contenido del trabajo realizado durante las sesiones en vivo transmitidas por este Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 78.
 
-1. El Congreso del Estado celebrará cuantas sesiones requiera para el oportuno despacho de los asuntos de su competencia, pero normalmente lo hará los miércoles de cada semana durante el período ordinario de sesiones.
+1. El Congreso del Estado celebrará cuantas sesiones requiera para el oportuno despacho de los asuntos de su competencia, pero normalmente lo hará los martes de cada semana durante el período ordinario de sesiones.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
-
-2. Las sesiones ordinarias y extraordinarias iniciarán normalmente a las once horas, salvo disposición específica del presidente de la Mesa Directiva, en cuyo caso se hará previamente del conocimiento de los integrantes del Pleno por conducto de los servicios técnicos correspondientes. Se procurará que su duración no sea mayor de cinco horas, pero el presidente de la Mesa Directiva, con base en la propuesta de la Junta de Coordinación Política, podrá prorrogarlas hasta concluir la discusión en curso o los asuntos contenidos en el orden del día.
+2. Las sesiones ordinarias y extraordinarias iniciarán normalmente a las doce horas, salvo disposición específica del presidente de la Mesa Directiva, en cuyo caso se hará previamente del conocimiento de los integrantes del Pleno por conducto de los servicios técnicos correspondientes. Se procurará que su duración no sea mayor de cinco horas, pero el presidente de la Mesa Directiva, con base en la propuesta de la Junta de Coordinación Política, podrá prorrogarlas hasta concluir la discusión en curso o los asuntos contenidos en el orden del día.
 
 ###### ARTICULO 79.
 
@@ -1741,9 +1791,11 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 5. El orden del día de la última sesión de cada periodo contendrá, después del apartado correspondiente a la lectura del acta de la sesión anterior, un punto relativo, para la elección de la Diputación Permanente.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
-6. El acta de la sesión anterior contendrá una relación sucinta de lo acontecido en ella, realizándose inserciones textuales cuando así lo solicite expresamente un diputado. Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se lleven. Podrá dispensarse su lectura y votación, para efectuarse en sesión posterior cuando la sesión a la que corresponde dicho documento se haya celebrado 48 horas o menos antes de la sesión en la que hubiere de discutirse y votarse, además de que su contenido sea considerablemente extenso, circunstancias por las que haya sido materialmente imposible su elaboración y entrega en los términos que establece este ordenamiento y los acuerdos parlamentarios adoptados al efecto.
+6. El acta de la sesión anterior contendrá una relación sucinta de lo acontecido en ella, realizándose inserciones textuales cuando así lo solicite expresamente un diputado. Se podrán hacer las precisiones, observaciones y en su caso correcciones pertinentes cuando un integrante del Pleno lo solicite y se apruebe por la mayoría de los presentes, de ser aceptadas deberán incorporarse al Acta para su aprobación.
+
+Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se lleven. Podrá dispensarse su lectura y votación, para efectuarse en sesión posterior cuando la sesión a la que corresponde dicho documento se haya celebrado 48 horas o menos antes de la sesión en la que hubiere de discutirse y votarse, además de que su contenido sea considerablemente extenso, circunstancias por las que haya sido materialmente imposible su elaboración y entrega en los términos que establece este ordenamiento y los acuerdos parlamentarios adoptados al efecto.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
@@ -1959,7 +2011,9 @@ Las discusiones son las expresiones argumentativas de los integrantes del Pleno 
 
 3. En la deliberación de una propuesta susceptible de ser votada, los integrantes del Pleno harán uso de la palabra desde el lugar reservado especialmente para ello en el Salón de Sesiones.
 
-4. Las intervenciones en contra o en pro de los oradores inscritos se referirán al asunto a debates y no podrán exceder de quince minutos, salvo autorización expresa del Pleno.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+4. Las intervenciones en contra o en pro de los oradores inscritos se referirán al asunto a debates y no podrán exceder de diez minutos, salvo autorización expresa del Pleno.
 
 5. Los legisladores inscritos en el debate podrán hacer uso de la palabra hasta en dos ocasiones.
 
@@ -1981,7 +2035,9 @@ Las discusiones son las expresiones argumentativas de los integrantes del Pleno 
 
 2. Estas intervenciones solo se producirán cuando haya concluido el orador que motivó la solicitud de uso de la palabra, quedando a criterio del presidente de la Mesa Directiva el otorgamiento del uso de la palabra entre los oradores inscritos o al final de que éstos se hubieren expresado.
 
-3. Para estas intervenciones, la participación del orador no podrá exceder de cinco minutos.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+3. Para estas intervenciones, la participación del orador no podrá exceder de tres minutos.
 
 ###### ARTICULO 104.
 
@@ -2062,6 +2118,18 @@ DE LAS VOTACIONES
 2. Las votaciones son económicas, nominales o por cédula.
 
 3. Todas las votaciones requerirán de la expresión de la mayoría absoluta de los miembros del Pleno que se encuentren presentes en la sesión al momento de votarse, salvo que la Constitución Política del Estado, esta ley o los ordenamientos relativos a la actividad parlamentaria exijan una mayoría calificada.
+
+> <small>(ADICIONADO CON SUS INCISOS, P.O. 24 DE FEBRERO DE 2022)</small>
+
+4. Para efectos de la votación se entenderá por:
+
+a) Mayoría simple de votos, la emitida por la mitad más uno de los Diputados presentes;
+
+b) Mayoría relativa de votos, la emitida por la mitad más uno de los Diputados que integran la Legislatura;
+
+c) Mayoría absoluta de votos, la emitida por las dos terceras partes de los Diputados presentes; y
+
+d) Mayoría calificada de votos, la emitida por las dos terceras partes de los Diputados que integran la Legislatura.
 
 ###### ARTICULO 110.
 
@@ -2183,6 +2251,10 @@ DE LAS OBSERVACIONES DEL EJECUTIVO
 
 2. Las observaciones podrán formularse en todo o en parte sobre la ley o decreto aprobado. En cualquier caso deberán formularse por escrito y con el señalamiento de las razones que motivan su formulación.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+3. Cuando las observaciones se presenten en todo o en parte sobre una ley o decreto, deberán realizarse de manera estructurada, motivada y fundada, especificando de forma clara, definida y precisa, así como el proyecto resolutivo de todo aquello que se haya observado.
+
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 ###### ARTICULO 121.
@@ -2217,11 +2289,15 @@ DE LAS OBSERVACIONES DEL EJECUTIVO
 
 6. (DEROGADO, P.O. 12 DE FEBRERO DE 2019)
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 123.
 
-Cuando se formulen observaciones en parte a las disposiciones aprobadas por el Congreso para una ley o decreto, en tanto éstas se encuentran dentro del plazo previsto para la nueva discusión, el Presidente de la Mesa Directiva o de la Diputación Permanente podrá plantear al Ejecutivo del Estado su promulgación, publicación y circulación en todo aquello que no fuese observado, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
+1. Cuando se formulen observaciones en parte a las disposiciones aprobadas por el Congreso para una ley o decreto, en tanto éstas se encuentran dentro del plazo previsto para la nueva discusión, el Presidente de la Mesa Directiva o de la Diputación Permanente podrá plantear al Ejecutivo del Estado su promulgación, publicación y circulación en todo aquello que no fuese observado, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
+
+2. Se entenderá aprobado por el Ejecutivo todo proyecto no devuelto con observaciones dentro de los treinta días naturales siguientes a su recepción. Vencido ese plazo, el Ejecutivo dispondrá de diez días naturales para promulgar, publicar y circular la ley o decreto. En caso de que el Ejecutivo no proceda en estos términos, la ley o decreto será considerado promulgado y el Presidente de la Mesa Directiva o de la Diputación Permanente ordenará, dentro de los diez días naturales siguientes, su publicación y circulación, sin que se requiera refrendo.
+
+3. Al concluir el plazo que tiene el Presidente de la Mesa Directiva o de la Diputación Permanente para ordenar la publicación y circulación, si no lo hiciera, lo remitirán los Secretarios de la Mesa Directiva, y se dará cuenta al Pleno que no fue suscrito ni enviado por quien preside la Mesa Directiva en función.
 
 #### SECCION QUINTA. DEL PROCEDIMIENTO PRESUPUESTARIO
 
@@ -2337,7 +2413,9 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; Magistrados del Tribunal de Justicia Administrativa; de los titulares de los órganos internos de control de los órganos constitucionalmente autónomos; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas; del Fiscal General de Justicia del Estado; y del Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
-2. En tratándose de otros nombramientos cuyo perfeccionamiento requiera del concurso de la mayoría del Pleno del Congreso, sólo se requerirá la formulación y aprobación del dictamen correspondiente.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+2. En tratándose de otros nombramientos cuyo perfeccionamiento requiera del concurso de la mayoría de los presentes del Pleno del Congreso, sólo se requerirá la formulación y aprobación del dictamen correspondiente.
 
 3. Para los nombramientos del personal del Congreso que deban ser aprobados por el Pleno, se estará a lo dispuesto por las normas de organización del Congreso previstas en esta ley.
 
@@ -2749,9 +2827,13 @@ El Congreso podrá ordenar el acceso del público a las galerías mediante tarje
 
 2. Dichos libros serán autorizados por los secretarios de la Mesa Directiva.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 164.
 
-El acta que se levante de cada sesión deberá contener una relación sucinta del desarrollo de la misma, complementada con la grabación magnetofónica.
+1. El acta que se levante de cada sesión deberá contener una relación sucinta del desarrollo de la misma, complementada con la grabación magnetofónica.
+
+2. Así como las precisiones, observaciones y en su caso correcciones pertinentes cuando un integrante del Pleno lo solicite y se apruebe por la mayoría de los presentes, de ser aceptadas deberán incorporarse al Acta para su aprobación.
 
 ###### ARTICULO 165.
 
@@ -3592,3 +3674,11 @@ P.O. 22 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse de manera inmediata en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-134 DECRETO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado en el Periódico Oficial del Estado.
