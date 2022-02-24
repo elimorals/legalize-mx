@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2021-08-05"
+last_updated: "2022-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -229,6 +229,10 @@ XXXI. Impulsar programas y campañas de difusión tendientes a inhibir en los al
 
 XXXII. Impulsar a través de campañas de difusión la cultura de la paz en las instituciones educativas del Estado.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2022)</small>
+
+XXXIII.- Promover el emprendimiento, el fomento de la cultura del ahorro y la educación financiera.
+
 ### CAPITULO III. AMBITO DE APLICACION
 
 ###### Artículo 12.
@@ -349,7 +353,9 @@ XI.- Colaborar con la Secretaría de Educación Pública del Gobierno Federal, c
 
 XII.- Colaborar con la Secretaría de Educación Pública del Gobierno Federal, cuando así le sea solicitado, en las tareas de armonización del desarrollo educativo entre entidades federativas y el ejercicio de las funciones compensatorias que desarrollen en materia educativa a nivel nacional, de conformidad con los ordenamientos legales vigentes;
 
-XIII. (DEROGADA, P.O. 10 DE MARZO DE 2014)
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2022)</small>
+
+XIII.- Impulsar en conjunto con la Secretaría de Salud, programas de educación sobre salud bucodental, así como la práctica de hábitos de higiene dental entre las niñas y niños de educación preescolar y primaria de la Entidad.
 
 XIV.- Distribuir oportuna, completa y eficazmente los libros de texto gratuito y materiales educativos complementarios que el Ejecutivo Federal le proporcione para hacerlos llegar a maestros y escuelas de la entidad;
 
@@ -1440,3 +1446,13 @@ P.O. 5 DE AGOSTO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 24 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 42 POR EL QUE “SE ADICIONA UNA FRACCIÓN XXXIII AL ARTÍCULO 11 Y SE REPONE CON NUEVO TEXTO LA FRACCIÓN XIII DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Por cuanto a las Secretarías de Educación y de Salud, en lo que respecta a los efectos de este decreto, adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que éstas se realicen con sus previsiones presupuestales asignadas.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
