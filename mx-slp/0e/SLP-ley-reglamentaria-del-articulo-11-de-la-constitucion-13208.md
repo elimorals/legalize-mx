@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-11-de-la-constitucion-13208"
 country: "mx"
 rank: "ley"
 publication_date: "1949-12-22"
-last_updated: "2012-09-15"
+last_updated: "2022-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 11 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI -ANTES LEY ORGANICA DEL ARTICULO 100 DE LA CONSTITUCION POLITICA DEL ESTADO DE SAN LUIS POTOSI-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 24 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY REGLAMENTARIA DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 22 de diciembre de 1949.
 
@@ -142,3 +144,15 @@ P.O. 15 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0267.- SE EXPIDE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE SAN LUIS POTOSÍ".]
+
+PRIMERO. La Ley que se expide con este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley Reglamentaria del Artículo 11 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, publicada en el Periódico Oficial del Estado el veintidós de diciembre de mil novecientos cuarenta y nueve, como Decreto Legislativo número 53.
+
+TERCERO. La rectoría de la Universidad Autónoma de San Luis Potosí deberá expedir el Estatuto Orgánico, en un lapso de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
