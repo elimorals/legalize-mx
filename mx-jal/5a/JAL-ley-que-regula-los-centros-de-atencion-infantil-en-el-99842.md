@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-los-centros-de-atencion-infantil-en-el-99842"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2021-09-04"
+last_updated: "2022-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el 25 de marzo de 2014.
 
@@ -95,9 +95,11 @@ XV. Reglamento: Reglamento de la presente Ley; y
 
 XVI. Secretaría: Secretaría de Salud.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 5.
 
-El Gobierno del Estado por conducto de sus dependencias, entidades y los municipios garantizarán, en el ámbito de sus competencias, la prestación de servicios con calidad, igualdad, seguridad y protección adecuada que promueva el ejercicio pleno de sus derechos, por parte de personal apto, suficiente y capacitado desde un enfoque de los derechos de la niñez.
+El Gobierno del Estado por conducto de sus dependencias, entidades y los municipios garantizarán, en el ámbito de sus competencias, la prestación de servicios con calidad, calidez, igualdad, seguridad y protección adecuada que promueva el ejercicio pleno de sus derechos, por parte de personal apto, suficiente y capacitado, garantizando en todo momento el interés superior de la niñez.
 
 ###### Artículo 6.
 
@@ -139,13 +141,25 @@ VI. La Alimentación sana y suficiente para la nutrición de los menores;
 
 VII. El Fomento a la comprensión y ejercicio de los derechos de niñas y niños;
 
-VIII. Al Descanso, esparcimiento, juego y actividades recreativas propias de su edad;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2022)</small>
 
-IX. Al Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo;
+VIII. El descanso, esparcimiento, juego y actividades recreativas propias de su edad;
 
-X. El (sic) Enseñanza del lenguaje y comunicación; e
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2022)</small>
 
-XI. Información y apoyo a los padres, tutores o quienes ejerzan la patria potestad o custodia y en su caso la responsabilidad del cuidado o crianza del menor, para fortalecer la comprensión de sus funciones en la educación de niñas y niños.
+IX. El apoyo al desarrollo biológico, cognoscitivo, psicomotriz y socio-afectivo;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2022)</small>
+
+X. La enseñanza del lenguaje y comunicación;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2022)</small>
+
+XI. Brindar información y apoyo a los padres, tutores o quienes ejerzan la patria potestad o custodia y en su caso la responsabilidad del cuidado o crianza del menor, para fortalecer la compresión de sus funciones en la educación de niñas y niños; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2022)</small>
+
+XII. La implementación de mecanismos de participación de los padres, tutores o de quienes ejerzan la patria potestad o custodia de niñas y niños, respecto de su educación y atención.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -271,9 +285,17 @@ IV. Contribuir con el mejoramiento progresivo y el fortalecimiento de los servic
 
 V. Establecer e impulsar modelos adecuados de convivencia familiar y comunitaria, cimentados principalmente en el respeto;
 
-VI. Difundir y fomentar desde edades tempranas la equidad de género; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2022)</small>
 
-VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con los objetivos y prioridades que establezca el Consejo, y las necesidades específicas de los diferentes modelos de atención.
+VI. Difundir y fomentar desde edades tempranas la equidad de género;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2022)</small>
+
+VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con los objetivos y prioridades que establezca el Consejo, y las necesidades específicas de los diferentes modelos de atención; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2022)</small>
+
+VIII. Implementar mecanismos de participación de los padres, tutores o de quienes ejerzan la patria potestad o custodia de niñas y niños, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención.
 
 ###### Artículo 14.
 
@@ -543,25 +565,27 @@ Las zonas de paso, patios y zonas de recreo no se podrán utilizar en ningún ca
 
 El mobiliario y materiales que se utilicen en el inmueble deben mantenerse en buenas condiciones de uso, retirándose aquellos que puedan ser susceptibles de causar daños o lesiones debido a su mal estado. Los acabados interiores de los inmuebles serán adecuados a la edad de niñas y niños.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 42.
 
-El Inmueble deberá, como mínimo para su funcionamiento, a fin de prevenir y proteger de cualquier situación de riesgo o emergencia:
+El inmueble deberá, como mínimo para su funcionamiento, a fin de prevenir y proteger de cualquier situación de riesgo o emergencia:
 
-I. Contar con salidas de emergencia, rutas de evacuación, alarmas, pasillos de circulación, equipo contra incendios, mecanismos de alerta, señalizaciones y sistema de iluminación de emergencia;
+I. Contar con salidas de emergencia, rutas de evacuación, alarmas, pasillos de circulación, equipos contra incendios, mecanismos de alerta, señalizaciones y sistemas de iluminación de emergencia;
 
-II. Tener suficientes extintores y detectores de humo, estos deberán establecerse en lugares despejados de obstáculos que impidan o dificulten su uso y ser correctamente señalizados para permitir su rápida localización, el Reglamento definirá la cantidad y calidad atendiendo a su modalidad y tipo correspondiente;
+II. Tener sufrientes (sic) extintores y detectores de humo, estos deberán establecerse en lugares despejados de obstáculos que impidan o dificulten su uso y ser correctamente señalizados para permitir su rápida localización, el Reglamento definirá la cantidad y calidad atendiendo a su modalidad y tipo correspondiente;
 
 III. Verificar las condiciones de ventilación de las áreas donde se almacenan o utilizan productos que desprendan gases o vapores inflamables;
 
 IV. Controlar y eliminar fuentes de ignición como instalaciones eléctricas, chimeneas y conductos de humo, descargas eléctricas atmosféricas, radiación solar, ventilación, calentadores, flamas abiertas, cigarrillos, entre otros;
 
-V. Evitar que las instalaciones eléctricas estén al alcance de niñas y niños. Si se cuenta con plantas de luz o transformadores, estarán aislados mediante un cerco perimetral, el cual debe estar en buen estado. Su acometida no deberá atravesar el terreno del inmueble en el que se preste el servicio y en caso de deterioro, deberá notificarse de inmediato al responsable del suministro de electricidad, para proceder a su inmediata reparación;
+V. Evitar que las instalaciones eléctricas estén al alcance de niñas y niños. Si se cuenta con plantas de luz o transformadores estarán aislados mediante un cerco perimetral, el cual debe estar en buen estado. Su acometida no deberá atravesar el terreno del inmueble en el que se preste el servicio y en caso de deterioro, deberá notificarse de inmediato al responsable del suministro de electricidad, para proceder a su inmediata reparación;
 
 VI. Identificar y colocar las sustancias inflamables empleadas en el Centro de Atención en recipientes herméticos, cerrados, etiquetados y guardados lejos del alcance de niñas y niños;
 
 VII. Realizar una inspección interna de las medidas de seguridad al menos una vez al mes;
 
-VIII. Revisar al menos una vez al año las paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas;
+VIII. Revisar al menos una vez al año la paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas;
 
 IX. Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
 
@@ -569,9 +593,17 @@ X. Contar con la debida protección en todos los mecanismos eléctricos;
 
 XI. No manipular ni tratar de reparar nunca objetos, aparatos o instalaciones relacionados con la electricidad, cables y elementos que no estén aislados;
 
-XII. En caso de aparatos de calefacción, éstos deberán estar fijos; y
+XII. En caso de aparatos de calefacción, estos deberán estar fijos;
 
-XIII. Las demás que ordene el Reglamento de la Ley que emita el Ejecutivo Estatal, las disposiciones correspondientes a la Ley Federal sobre Metrología y Normalización y las Normas Oficiales Mexicanas aplicables.
+XIII. Operar por razones de prevención y seguridad, de acuerdo a sus posibilidades y condiciones, circuito cerrado de grabación; y
+
+XIV. Las demás que ordene el Reglamento de la Ley que emita el Ejecutivo Estatal, las disposiciones correspondientes a la Ley Federal sobre Metrología y Normalización y las Normas Oficiales Mexicanas aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
+###### Artículo 42 Bis.
+
+Los Centros de Atención podrán hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los menores en términos de las disposiciones legales aplicables.
 
 ### CAPÍTULO IX. De las Autorizaciones
 
@@ -882,3 +914,9 @@ P.O. 4 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28431/LXII/21 SE ADICIONA EL ARTÍCULO 7 BIS A LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 24 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28740/LXIII/22 QUE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
