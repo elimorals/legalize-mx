@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2020-08-06"
+last_updated: "2022-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -1079,9 +1079,11 @@ Concluido el desahogo de pruebas, o el término indicado en el artículo 73 de e
 
 Como medida de protección, razonadamente, se podrá separar preventivamente a la persona adulta mayor de su hogar, cuando a criterio de la Procuraduría Social existan motivos fundados que hagan presumir un peligro inmediato e inminente a su salud o seguridad.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 77.
 
-Para los efectos del artículo anterior, el Consejo de Familia podrá tener la custodia de los adultos mayores en los establecimientos de asistencia social a que se hace referencia en esta ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público y al Agente de la Procuraduría Social, para su intervención legal.
+Para los efectos del artículo anterior, el Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco podrá tener la custodia de los adultos mayores en los establecimientos de asistencia social a que se hace referencia en esta ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público y al Agente de la Procuraduría Social, para su intervención legal.
 
 ###### Artículo 78.
 
@@ -1284,3 +1286,9 @@ P.O. 6 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27929/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 24 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28741/LXIII/22 QUE REFORMA EL ARTÍCULO 77 DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
