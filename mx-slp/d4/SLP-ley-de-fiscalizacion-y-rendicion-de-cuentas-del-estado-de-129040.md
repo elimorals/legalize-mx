@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2022-02-21"
+last_updated: "2022-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -215,6 +215,10 @@ Las Cuentas Públicas serán presentadas en el plazo previsto en el artículo 53
 
 Deberán presentarse en original y copia certificada, así como en correspondiente respaldo digital. El respaldo digital deberá presentarse en formato legible y deberá contener las firmas de validación de las autoridades encargadas de presentar la cuenta pública. El documento original deberá ser remitido a la Auditoría Superior del Estado, así como el respaldo digital, en tanto que la copia certificada quedará en posesión del Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2022)</small>
+
+Las cuentas públicas igualmente podrán presentarse a través de medios digitales o electrónicos, mediante el uso de la firma electrónica avanzada, en los términos establecidos en la ley de la materia.
+
 En caso de que algún ente auditable no presentara su cuenta pública en los plazos establecidos, se hará acreedor a lo establecido en el artículo 323 fracción VIII del Código Penal del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 13.
@@ -341,11 +345,25 @@ XXVI. Fiscalizar el financiamiento público en los términos establecidos en est
 
 XXVII. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los entes públicos están obligados a operar con el propósito de consultar la información contenida en los mismos;
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2022)</small>
 
-XXVIII. En caso de epidemia o peligro de invasión en el país o en el Estado, así como por caso fortuito o fuerza mayor que impida o limite el cumplimiento de su función fiscalizadora, llevar a cabo sus actuaciones mediante el uso de herramientas tecnológicas bajo la modalidad no presencial, esto es, a distancia, a través de medios virtuales que permitan la comunicación simultánea con transmisión en tiempo real entre la Auditoría Superior del Estado y los entes auditables, y
+XXVIII. En caso de epidemia o peligro de invasión en el país o en el Estado, así como por caso fortuito o fuerza mayor que impida o limite el cumplimiento de su función fiscalizadora, llevar a cabo sus actuaciones mediante el uso de herramientas tecnológicas bajo la modalidad no presencial, esto es, a distancia, a través de medios virtuales que permitan la comunicación simultánea con transmisión en tiempo real entre la Auditoría Superior del Estado y los entes auditables;
 
-XXIX. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de las Cuentas Públicas.
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2022)</small>
+
+XXIX. Llevar a cabo sus actuaciones a través de medios digitales o electrónicos, mediante el uso de la firma electrónica avanzada, en los términos establecidos en la ley de la materia, y
+
+XXX. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de las Cuentas Públicas.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 16 BIS. Todos los actos previstos en esta Ley y en las demás disposiciones aplicables para la fiscalización de las cuentas públicas, podrá realizarlos la Auditoría Superior del Estado a través de medios digitales o electrónicos, mediante el uso de la firma electrónica avanzada, en los términos establecidos en la ley de la materia.
+
+Las disposiciones legales relativas a los actos de fiscalización que se realizan en forma presencial o física, serán aplicables en lo conducente a los que se realicen a través de medios digitales o electrónicos mediante el uso de la firma electrónica avanzada.
+
+La Auditoría Superior del Estado facilitará a los sujetos de fiscalización o particulares que deban intervenir en los actos de fiscalización, el acceso a los mecanismos o herramientas digitales o electrónicas referidos en este artículo.
+
+Los actos de fiscalización realizados en los términos de este artículo, deberán conservarse en archivo electrónico.
 
 ###### ARTÍCULO 17.
 
@@ -1408,5 +1426,13 @@ P.O. 21 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0266.- SE REFORMA EL ARTÍCULO 48 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0271.- SE REFORMA EL ARTÍCULO 16 EN SU FRACCIÓN XXVIII; Y ADICIONA A LOS ARTÍCULOS 12 UN PÁRRAFO Y 16 UNA FRACCIÓN, ÉSTA COMO XXIX Y EL ARTÍCULO 16 BIS, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
