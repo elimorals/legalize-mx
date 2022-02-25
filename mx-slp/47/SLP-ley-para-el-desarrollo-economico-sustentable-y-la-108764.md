@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2021-12-02"
+last_updated: "2022-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -234,6 +234,12 @@ VI. Fomentar la participación y organización de foros y eventos de innovación
 VII. Fomentar la difusión y promoción de las MIPYMES, a través de las herramientas digitales y tecnologías de la información, y
 
 VIII. Las demás que correspondan al Consejo Potosino de Ciencia y Tecnología, que se orienten a impulsar el desarrollo económico y elevar la competitividad del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 13 BIS. Los municipios, de manera gradual y en acuerdo a la medida de sus capacidades presupuestarias, proveerán conexión de internet gratuita en las plazas públicas de su demarcación. La infraestructura utilizada para dicho acceso, se deberá usar también para favorecer el uso de internet por parte de micro, pequeñas y medianas empresas.
+
+La provisión del servicio de internet gratuito, también se podrá realizar por medio de acuerdos y convenios específicos conforme a lo establecido en la Ley de Asociaciones Público-Privadas para la prestación de Servicios del Estado y Municipio de San Luis Potosí.
 
 ### CAPÍTULO IV. Del Consejo para el Desarrollo Económico Sustentable, y la Competitividad
 
@@ -889,9 +895,11 @@ El beneficiario que haya sido sancionado no tendrá derecho, en lo sucesivo, a p
 
 ### CAPÍTULO XV. Del Recurso de Revisión
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 81.
 
-Contra los actos o resoluciones de la Secretaría procederá el recurso de revisión, en los términos establecidos en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Contra los actos o resoluciones de la Secretaría procederá el recurso de revisión, en los términos establecidos en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 82.
 
@@ -1036,5 +1044,21 @@ P.O. 2 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0134.- SE REFORMA EL ARTÍCULO 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0273.- SE ADICIONA EL ARTÍCULO 13 BIS, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0274.- SE REFORMA EL ARTÍCULO 81, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
