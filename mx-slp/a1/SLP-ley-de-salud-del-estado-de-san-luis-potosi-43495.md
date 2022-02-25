@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-12-27"
+last_updated: "2022-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -3397,9 +3397,11 @@ ARTICULO 304 TER (SIC). La Secretaría de Salud deberá brindar capacitación a 
 
 ARTICULO 304 QUÁTER. La Secretaría de Salud deberá llevar a cabo un registro de dichos establecimientos, el cual deberá estar al alcance de la población en general.
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2022)</small>
 
-ARTICULO 304 QUINQUE. Queda prohibido realizar tatuajes y/o perforaciones a personas menores de 18 años de edad, así como aquellas que no se encuentren en pleno goce de sus facultades mentales. Sólo podrá exceptuarse lo anterior cuando los mayores de 16 años estén acompañados de alguno de sus padres o tutores.
+ARTICULO 304 QUINQUE. Queda prohibido realizar tatuajes, micropigmentaciones, escarificaciones y/o perforaciones a personas menores de 18 años de edad, así como aquellas que no se encuentren en pleno goce de sus facultades mentales. Sólo podrá exceptuarse lo anterior cuando los mayores de 16 años estén acompañados de alguno de sus padres o tutores, previa acreditación de tal carácter.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
 La violación de esta disposición se sancionará en los términos previstos en el artículo 382 de esta Ley, y conllevará a la revocación definitiva de la autorización respectiva.
 
@@ -4720,3 +4722,11 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0272.- SE REFORMA EL ARTÍCULO 304 QUINQUE EN SU PÁRRAFO PRIMERO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
