@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2021-12-16"
+last_updated: "2022-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2022 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE FEBRERO DE 2022.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -2783,7 +2783,7 @@ VIII. El procedimiento y los tiempos para que la Secretaría de Finanzas remita 
 
 Por servicios que proporcionan las instituciones de salud pública se causarán y pagarán los derechos establecidos en el siguiente tabulador:
 
-> <small>[N. DE E. VÉASE TABULADOR DE CUOTAS DE RECUPERACIÓN EN EL P.O. 16 DE DICIEMBRE DE 2021, PÁGINAS DE LA 3 A LA 149.]</small>
+> <small>[N. DE E. VÉASE TABULADOR DE CUOTAS DE RECUPERACIÓN EN EL P.O. 16 DE DICIEMBRE DE 2021, PÁGINAS DE LA 3 A LA 149 Y F. DE E., P.O. 25 DE FEBRERO DE 2022, PÁGINAS DE LA 2 A LA 3.]</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
