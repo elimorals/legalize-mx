@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2022-01-25"
+last_updated: "2022-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -445,9 +445,9 @@ El Presidente de la Directiva, lo será también de la Legislatura.
 
 Los integrantes de la Directiva que presidirán la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera sesión.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2022)</small>
 
-Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión los Vicepresidentes y los Secretarios, para lo cual deberán ser elegidos dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir.
+Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión los Vicepresidentes y los Secretarios, para lo cual deberán ser elegidos dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir. En el caso del Segundo Período Ordinario de Sesiones, cuando el mes que corresponda no tenga treinta y un días, serán electos dentro de los siete días anteriores al primer día del mes siguiente o bien ese día; e iniciarán sus funciones el primer día del mes.
 
 ###### Artículo 44.
 
@@ -2472,3 +2472,15 @@ Las reformas de este Decreto son aplicables a la “LXI” Legislatura y forman 
 ###### ARTÍCULO CUARTO.
 
 Se abrogan y/o derogan las disposiciones normativas de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 29.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO AL ARTÍCULO 43 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
