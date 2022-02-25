@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2022-02-21"
+last_updated: "2022-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -1429,23 +1429,27 @@ XXXIX. Emitir, mediante acuerdos generales, las bases para que las adquisiciones
 
 XL. Establecer los acuerdos generales para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los servicios al público;
 
-XLI. Fijar los acuerdos generales para establecer bases y directrices de la política informática, y de información estadística, que permitan conocer y planear el desarrollo del Poder Judicial del Estado;
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2022)</small>
 
-XLII. Establecer el reglamento necesario para el ingreso, estímulos, reconocimientos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo del Supremo Tribunal de Justicia, y de los juzgados de primera instancia y menores;
+XLI. Expedir, a propuesta del Supremo Tribunal de Justicia, y a través de quien lo preside, acuerdos que contengan las medidas que permitan la instrumentalización de expedientes en forma electrónica, mediante el empleo de tecnologías de la información que utilicen la firma electrónica, con la implementación de métodos modernos para la expedita y eficaz impartición de justicia en el Estado, en sustento de lo previsto en las fracciones, IX, y XI, del artículo 91, de la Constitución Política del Estado de San Luis Potosí;
 
-XLIII. Dictar los acuerdos generales para regular el turno de los asuntos de la competencia de los juzgados de Primera Instancia o de los juzgados menores, cuando en un mismo lugar haya varios de ellos;
+XLII. Fijar los acuerdos generales para establecer bases y directrices de la política informática, y de información estadística, que permitan conocer y planear el desarrollo del Poder Judicial del Estado;
+
+XLIII. Establecer el reglamento necesario para el ingreso, estímulos, reconocimientos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo del Supremo Tribunal de Justicia, y de los juzgados de primera instancia y menores;
+
+XLIV. Dictar los acuerdos generales para regular el turno de los asuntos de la competencia de los juzgados de Primera Instancia o de los juzgados menores, cuando en un mismo lugar haya varios de ellos;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XLIV. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
+XLV. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XLV. Determinar, por necesidades de la función jurisdiccional, los distritos o regiones geográficas en que deban ejercer sus funciones, y
+XLVI. Determinar, por necesidades de la función jurisdiccional, los distritos o regiones geográficas en que deban ejercer sus funciones, y
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-XLVI. Las demás que le confiera la ley.
+XLVII. Las demás que le confiera la ley.
 
 ###### ARTICULO 95.
 
@@ -2786,6 +2790,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE FEBRERO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0265.- SE REFORMA EL ARTÍCULO 180 EN SUS FRACCIONES IV Y V; Y ADICIONAN AL MISMO ARTÍCULO 180 LAS FRACCIONES VI Y VII, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0268.- SE ADICIONA AL ARTÍCULO 94 UNA FRACCIÓN, ÉSTA COMO XLI, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
