@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-del-tribunal-de-justicia-administrativa-de-1074
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-30"
-last_updated: "2015-03-30"
+last_updated: "2022-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE ETICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMNISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 25 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022 (ABROGADO).
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el lunes 30 de marzo de 2015.
 
@@ -292,3 +294,17 @@ SECRETARIA GENERAL DE ACUERDOS
 (Firmado)
 
 LA SECRETARIA GENERAL DE ACUERDOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO, LICENCIADA SILVIA BERENICE NAVARRETE HORTA, HACE CONSTAR Y CERTIFICA QUE EL PRESENTE CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO, FUE APROBADO POR EL PLENO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO, EN SESIÓN ADMINISTRATIVA DEL DÍA 17 DIECISIETE DE MARZO DE 2015 DOS MIL QUINCE, POR UNANIMIDAD DE VOTOS DE LOS MAGISTRADOS MARÍA DEL CARMEN GONZÁLEZ VÉLEZ ALDANA, SERGIO FLORES NAVARRO Y ARTURO BUCIO IBARRA, MORELIA, MICHOACÁN A 17 DIECISIETE DE MARZO DE 2015 DOS MIL QUINCE. CONSTE. (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMNISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Código de Ética fue emitido por el Órgano Interno de Control, previa conformidad del Pleno del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, manifestada en sesión del día nueve de febrero de dos mil veintidós. Lo anterior, con fundamento en el artículo 14, de la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, así como en los Lineamientos para la Emisión de los Códigos de Ética aprobados y expedidos por el Comité Coordinador del Sistema Estatal Anticorrupción el día 21 de septiembre del 2020.
+
+SEGUNDO. El presente Código de Ética, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO.-·A partir de la entrada en vigor del presente documento, se abroga el Código de Ética del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo aprobado por el Pleno del Tribunal, en sesión del día 17 de marzo del 2015 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el día 30 de marzo del 2015.
+
+CUARTO.- Notifíquese el presente Código de Ética, a todo el personal del Tribunal para su conocimiento, difusión y cumplimiento en el ejercicio de sus atribuciones.
