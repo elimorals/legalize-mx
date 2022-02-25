@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2021-11-12"
+last_updated: "2022-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -291,9 +291,9 @@ El Sistema Estatal de Salud, con la intervención que corresponda al Comité de 
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2022)</small>
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, o signifiquen riesgos para la misma, con especial interés en la implementación e impulso de las acciones de atención integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
+I.- Proporcionar servicios de salud a toda la población del Estado, adoptando todas las medidas necesarias, hasta el máximo de los recursos que disponga para lograr progresivamente su plena efectividad y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, o signifiquen riesgos para la misma, con especial interés en la implementación e impulso de las acciones de atención integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
 
 II.- Contribuir al adecuado desarrollo demográfico del Estado;
 
@@ -3752,3 +3752,9 @@ P.O. 12 DE NOVIEMBRE DE 2021.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El Ejecutivo del Estado, deberá expedir o realizar las modificaciones reglamentarias necesarias para la correcta implementación de este Decreto, en un término no mayor a 90 días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 79 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
