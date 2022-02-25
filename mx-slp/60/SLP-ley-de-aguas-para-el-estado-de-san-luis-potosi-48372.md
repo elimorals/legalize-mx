@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2020-11-21"
+last_updated: "2022-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -801,11 +801,13 @@ VIII. Colaborar con la Comisión a efecto de promover modificaciones a la ley, r
 
 Cuando así lo considere conveniente el Consejo Hídrico Estatal, podrá invitar a sus sesiones a las dependencias y entidades de la administración pública que estén involucradas en materia de agua y protección al ambiente.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2022)</small>
 
 ###### ARTICULO 33.
 
-Para la elección y designación de las personas que integrarán el Consejo Hídrico Estatal, el Congreso del Estado, a través de la Comisión del Agua, emitirá convocatoria pública dentro de los primeros treinta días naturales del mes de julio de cada tres años.
+Para la elección y designación de las personas que integrarán el Consejo Hídrico Estatal, el Congreso del Estado, a través de la Comisión del Agua, emitirá convocatoria pública en el primer periodo ordinario en que se instale cada legislatura.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
 
 La convocatoria deberá exhortar a las organizaciones, asociaciones, instituciones y público en general, involucrados en el tema hídrico, a participar en el procedimiento de elección; dicha convocatoria deberá reflejar de forma clara y precisa los requisitos necesarios a cumplir por quien aspire a integrar el Consejo. La Comisión Legislativa del Agua elaborará el dictamen correspondiente con elementos que justifiquen de forma clara y precisa, bajo los principios de legalidad y transparencia, la elección de los aspirantes a fin de presentar ante el Pleno a las personas señaladas, para, en su caso, integrarse el Consejo Hídrico Estatal.
 
@@ -1328,6 +1330,10 @@ El ayuntamiento podrá constituir organismos auxiliares con la denominación de 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
 
 Así mismo, deberá expedir el reglamento que determine la integración y funcionamiento de los comités de agua (sic) rurales constituidos en el municipio, mismos que no podrán sobrepasar al período constitucional de la administración que los promovió.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2022)</small>
+
+En la integración de los comités de agua rurales se deberá procurar la paridad de género entre hombres y mujeres, estableciendo en el reglamento que refiere el párrafo anterior de este artículo, los mecanismos y lineamientos para su aplicación.
 
 ###### ARTICULO 82.
 
@@ -3269,9 +3275,11 @@ Transcurrido dicho plazo, la autoridad competente dictará la resolución que co
 
 ### CAPITULO V. De los Recursos Administrativos
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2022)</small>
+
 ###### ARTICULO 241.
 
-Contra los actos y resoluciones dictados por los ayuntamientos, los organismos operadores descentralizados, los concesionarios y, en su caso, la Comisión, procederán los medios de defensa previstos en la Ley de Procedimientos Administrativos para el Estado y municipios de San Luis Potosí.
+Contra los actos y resoluciones dictados por los ayuntamientos, los organismos operadores descentralizados, los concesionarios y, en su caso, la Comisión, procederán los medios de defensa previstos en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 242.
 
@@ -3646,3 +3654,13 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0269.- SE REFORMAN LOS ARTÍCULOS 33 EN SU PÁRRAFO PRIMERO Y 241; Y ADICIONA AL ARTÍCULO 81 EL PÁRRAFO TERCERO, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para la convocatoria y elección del Consejo Hídrico Estatal que se integrará para el periodo que comprende del 31 de julio de 2022 al primer periodo ordinario de instalación de la LXIV Legislatura, por excepción a lo previsto en el párrafo primero del artículo 33 de esta Ley, este proceso se llevará a cabo dentro de los treinta días naturales de julio de 2022.
