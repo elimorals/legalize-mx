@@ -4,7 +4,7 @@ identifier: "LGPP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2020-04-13"
+last_updated: "2022-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100930&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPP"
 
 LEY GENERAL DE PARTIDOS POLÍTICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2022.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -414,6 +414,22 @@ d) Acceder a las prerrogativas y recibir el financiamiento público en los térm
 
 En las entidades federativas donde exista financiamiento local para los partidos políticos nacionales que participen en las elecciones locales de la entidad, las leyes locales no podrán establecer limitaciones a dicho financiamiento, ni reducirlo por el financiamiento que reciban de sus dirigencias nacionales;
 
+(NOTA: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DEL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2022)</small>
+
+Los partidos políticos podrán renunciar parcialmente y, en su caso reintegrar, en cualquier tiempo, su financiamiento para actividades ordinarias permanentes, siempre que no se vea afectado el cumplimiento de dichas actividades y prevalezcan en su financiamiento los recursos públicos sobre los de origen privado, en el caso de catástrofes sufridas en territorio nacional por cualquier desastre o fenómeno contemplado en la Ley General de Protección Civil o cualquier otro que ponga a la sociedad en grave peligro. EL REINTEGRO DE RECURSOS CORRESPONDIENTES A FINANCIAMIENTO PARA ACTIVIDADES ORDINARIAS PERMANENTES DE LOS PARTIDOS POLÍTICOS TAMBIÉN SERÁ APLICABLE TRATÁNDOSE DE REMANENTES DEL EJERCICIO RESPECTO DE ESTE TIPO DE FINANCIAMIENTO.
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2022)</small>
+
+Los recursos a que se refiere el párrafo anterior deberán reintegrarse a la Tesorería de la Federación por acuerdo del Consejo General de la autoridad electoral, cuando no hayan sido entregados a los partidos políticos y a solicitud del Comité Ejecutivo Nacional o instancia equivalente que ostente la representación legal del partido.
+
+(NOTA: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO QUINTO DEL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2022)</small>
+
+En el caso de recursos que ya se hubieran entregado a los partidos políticos O DE REMANENTE DEL EJERCICIO, por concepto de financiamiento para actividades ordinarias permanentes, el Comité Ejecutivo Nacional o instancia equivalente que ostente la representación legal del partido tramitará su reintegro ante la Tesorería de la Federación e informará al Consejo General de la autoridad electoral la decisión correspondiente. EL REINTEGRO DE LOS REMANENTES DEL EJERCICIO SE PODRÁ REALIZAR HASTA EN TANTO NO SEA PRESENTADO A LA UNIDAD TÉCNICA, EL INFORME ANUAL PREVISTO EN EL ARTÍCULO 78, NUMERAL 1, INCISO B), DE LA PRESENTE LEY.
+
 > <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
 e) Organizar procesos internos para seleccionar y postular candidaturas en las elecciones garantizando la participación de mujeres y hombres en igualdad de condiciones, en los términos de esta Ley y las leyes federales o locales aplicables;
@@ -511,6 +527,10 @@ w) Garantizar la no discriminación por razón de género en la programación y 
 x) Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone, y
 
 y) Las demás que establezcan las leyes federales o locales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2022)</small>
+
+No constituirá una falta al inciso n) del presente numeral la renuncia o reintegro del financiamiento público que en su caso realicen los partidos políticos en los términos del inciso d) del numeral 1, del artículo 23 de esta Ley.
 
 ###### Artículo 26.
 
@@ -1783,3 +1803,9 @@ D.O.F. 13 DE ABRIL DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 27 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 23 Y 25 DE LA LEY GENERAL DE PARTIDOS POLÍTICOS Y UN ARTÍCULO 19 TER A LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
