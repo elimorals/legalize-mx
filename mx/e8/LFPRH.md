@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2021-05-20"
+last_updated: "2022-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -573,6 +573,14 @@ I. Cuando menos el setenta por ciento a la amortización de la deuda pública de
 II. El monto restante, a fortalecer el Fondo de Estabilización de los Ingresos Presupuestarios o al incremento de activos que fortalezcan la posición financiera del Gobierno Federal.
 
 La Secretaría deberá dar a conocer la aplicación específica de los recursos del remanente de operación que, en su caso, hubiese recibido del Banco de México, así como la reducción que ésta hubiere generado en el Saldo Histórico de los Requerimientos Financieros del Sector Público, en el último informe trimestral del ejercicio fiscal de que se trate.
+
+(NOTA: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2022)</small>
+
+###### Artículo 19 Ter.
+
+Los ingresos, por concepto de aprovechamientos, que correspondan a las disponibilidades O REMANENTES DE RECURSOS que los partidos políticos enteren a la Tesorería de la Federación en términos del artículo 23, numeral 1, inciso d), cuarto párrafo, de la Ley General de Partidos Políticos, podrán ser destinados por la Secretaría PREFERENTEMENTE para atender los efectos de cualquier desastre o fenómeno contemplado en la Ley General de Protección Civil o cualquier otro que ponga a la sociedad en grave peligro.
 
 ###### Artículo 20.
 
@@ -2815,3 +2823,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 27 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 23 Y 25 DE LA LEY GENERAL DE PARTIDOS POLÍTICOS Y UN ARTÍCULO 19 TER A LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
