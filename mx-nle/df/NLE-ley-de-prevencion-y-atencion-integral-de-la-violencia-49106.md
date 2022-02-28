@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-prevencion-y-atencion-integral-de-la-violencia-49106"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2010-12-24"
+last_updated: "2022-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE PREVENCION Y ATENCION INTEGRAL DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE NUEVO LEON
 
-LEY DE PREVENCION Y ATENCION INTEGRAL DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE NUEVO LEON
+LEY DE PREVENCIÓN Y ATENCIÓN INTEGRAL DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de febrero de 2006.
 
@@ -101,37 +101,37 @@ h) Por Omisión: Abuso de poder mediante supresión o privación de alimento, ma
 
 Corresponde al Gobernador, a las dependencias y entidades que integran la administración pública estatal, la aplicación de esta Ley, así como la coordinación y vinculación con los municipios y los organismos de los sectores privado y social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O, 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
-###### Artículo 4º.
+###### Artículo 4°.
 
-El Consejo Estatal para la Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, es un órgano que tendrá por objeto coordinar las acciones derivadas de los programas a cargo de las dependencias y entidades de la administración pública estatal, tendientes (sic) prevenir y atender la violencia familiar, en colaboración con los otros Poderes del Estado, las instituciones y organismos de los sectores público, privado y social. Estará presidido en forma honoraria por el Titular del Ejecutivo del Estado e integrado por los titulares de las siguientes dependencias y entidades:
+El Consejo Estatal para la Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, es un órgano que tendrá por objeto coordinar las acciones derivadas de los programas a cargo de las dependencias y entidades de la administración pública estatal, tendientes a prevenir y atender la violencia familiar, en colaboración con los otros Poderes del Estado, las instituciones y organismos de los sectores público, privado y social.
 
-La Secretaría General de Gobierno;
+El Poder Ejecutivo Estatal, tendrá la obligación de informar al Poder Legislativo del Estado, respecto de la instalación y entrega de informes cuatrimestrales sobre las acciones que realiza a fin de disminuir la violencia familiar. Estará presidido en forma honoraria por el Titular del Ejecutivo del Estado e integrado por los titulares de las siguientes dependencias y entidades:
 
-La Secretaría de Seguridad Pública;
+I. La Secretaría General de Gobierno;
 
-La Secretaría de Salud;
+II. La Secretaría de Seguridad Pública;
 
-La Secretaría de Educación;
+III. La Secretaría de Salud;
 
-La Procuraduría General de Justicia;
+IV. La Secretaría de Educación;
 
-La Secretaría de Desarrollo Social;
+V. La Fiscalía General de Justicia del Estado;
 
-El Instituto Estatal de las Mujeres;
+VI. La Secretaría de Desarrollo Social;
 
-El Instituto Estatal de la Juventud; y
+VII. El Instituto Estatal de las Mujeres;
 
-El Sistema para el Desarrollo Integral de la Familia.
+VIII. El Instituto Estatal de la Juventud; y
 
-Se integrará también por un representante de tres organizaciones sociales que por un mínimo de cinco años hayan realizado trabajo e investigación en la materia en el Estado, los cuales serán invitados por el Titular del Poder Ejecutivo. Todos ellos serán designados Consejeros con derecho a voz y voto.
+IX. El Sistema para el Desarrollo Integral de la Familia.
 
-El Titular del Poder Ejecutivo del Estado podrá invitar a los Poderes Legislativo y Judicial, que tendrán derecho de voz, pero no de voto, para que participen en los trabajos que serán responsabilidad del Consejo, y para que designen, en su caso, a sus respectivos representantes.
+Se integrará también por tres representantes de organizaciones sociales de reconocido trabajo e investigación en la materia, dentro del Estado de Nuevo León, durante los últimos 5 años, los cuales serán propuestos por el Poder Legislativo, por medio de una convocatoria abierta y elegidos por las dos terceras partes delPleno (sic) del H. Congreso del Estado de Nuevo León, siendo designados como consejeros con derecho a voz y voto. De igual manera por un representante del Poder Legislativo con derecho a voz y voto.
 
-Los integrantes del Consejo podrán nombrar en forma oficial y por escrito a su respectivo suplente.
+El Titular del Poder Ejecutivo del Estado podrá invitar a un funcionario del Poder Judicial del Estado, que tendrá derecho a voz, pero no de voto, para que participe en los trabajos que serán responsabilidad del Consejo.
 
-El Consejo contará con un Presidente Ejecutivo y un Secretario Técnico, cuyos titulares serán el Secretario de Salud y la Titular del Instituto Estatal de las Mujeres, respectivamente.
+El Consejo contará con un Presidente Ejecutivo y un Secretario Técnico, cuyos titulares serán el Secretario de Salud y la persona titular del Sistema para el Desarrollo Integral de la Familia del Estado.
 
 ###### Artículo 5º.
 
@@ -141,9 +141,11 @@ Los integrantes del Consejo no percibirán remuneración alguna por el ejercicio
 
 El Consejo podrá invitar a representantes de otras instancias locales, federales e internacionales, así como a académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la prevención y atención integral de la violencia familiar a participar en temas específicos, solamente con derecho a voz.
 
-###### Artículo 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2022)</small>
 
-El Consejo tendrá las siguientes atribuciones:
+###### Artículo 7°.
+
+El Consejo Tendrá las siguientes atribuciones:
 
 I. Coordinar las acciones orientadas a formular el diagnóstico de la violencia familiar en el Estado, que sirva de base para el diseño, ejecución, seguimiento y evaluación del Programa Estatal para la Prevención y Atención Integral de la Violencia Familiar;
 
@@ -161,7 +163,9 @@ VII. Fomentar la realización de campañas encaminadas a sensibilizar y concient
 
 VIII. Promover la constitución de una base de datos sobre estadísticas de casos de violencia familiar;
 
-IX. Promover la creación de un Observatorio Estatal de la Violencia hacia las Mujeres, al cual le corresponderá el asesoramiento, evaluación, elaboración de informes, estudios e investigaciones en materia de violencia familiar, así como análisis estadísticos y la elaboración de evaluaciones de indicadores sobre violencia familiar, con objeto de impulsar las políticas públicas estatales;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2022)</small>
+
+IX. Promover la creación de un Observador Estatal de la Violencia hacia las Mujeres y la familia, al cual le corresponderá el asesoramiento, evaluación, elaboración de informes, estudios e investigaciones en materia de violencia familiar, así como análisis estadísticos y la elaboración de evaluaciones de indicadores sobre violencia familiar, con objeto de impulsar las políticas públicas estatales;
 
 X. Promover la creación de instituciones privadas, fundaciones y asociaciones civiles para la atención y prevención de la violencia familiar, así como la instalación de albergues para las víctimas; y
 
@@ -175,7 +179,9 @@ I. Definir las políticas públicas necesarias para la formulación del Programa
 
 II. Gestionar y promover por sí o por conducto de las dependencias y entidades competentes, la colaboración y coordinación con instituciones, organismos, y los distintos órdenes de gobierno, para la ejecución de programas conjuntos o la obtención de fondos para el financiamiento de los programas locales en la materia;
 
-III. Evaluar la ejecución y resultados del Programa Estatal para la Prevención y Atención Integral de la Violencia Familiar e instruir las acciones correctivas que sean necesarias para su observancia y cumplimiento; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2022)</small>
+
+III. Evaluar la ejecución y resultados del Programa Estatal para la Prevención y Atención Integral de la Violencia Familiar e instruir las acciones correctivas que sean necesarias para su observancia y cumplimiento, así como entregar informes cuatrimestrales al Poder Legislativo; y
 
 IV. Las que le confieran las demás disposiciones legales vigentes en el Estado.
 
@@ -341,25 +347,27 @@ Las personas físicas o morales que brinden servicios en materia de violencia fa
 
 La prevención y atención integral de la violencia deberá incluir el registro de casos, el seguimiento de éstos, la evaluación de los servicios prestados y la investigación de la problemática materia de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 20.
 
 Corresponde a las instancias que integran el Consejo Estatal de Prevención y Atención Integral de la Violencia Familiar del Estado de Nuevo León, además de las funciones que tienen asignadas, las siguientes:
 
-Desarrollar el Programa Estatal de Prevención y Atención Integral de la Violencia Familiar;
+I. Desarrollar el Programa Estatal de Prevención y Atención Integral de la Violencia Familiar;
 
-Crear y fortalecer los espacios que permitan la implementación del Programa Estatal de Prevención y Atención Integral a la Violencia Familiar;
+II. Crear y fortalecer los espacios que permitan la implementación del Programa Estatal de Prevención y Atención Integral a la Violencia Familiar;
 
-Sumar esfuerzos y recursos para llevar el Programa Estatal de Prevención y Atención Integral de la Violencia Familiar al mayor número de población;
+III. Sumar esfuerzos y recursos para llevar el Programa Estatal de Prevención y Atención Integral de la Violencia Familiar al mayor número de población;
 
-Coordinar acciones para la optimización de recursos y evitar la duplicidad de las mismas intra e intersectorialmente;
+IV. Coordinar acciones para la optimización de recursos y evitar la duplicidad de las mismas intra e intersectorialmente;
 
-Integrar a sus servicios, personal especializado en el tema;
+V. Integrar a sus servicios, personal especializado en el tema;
 
-Sensibilizar y capacitar al personal de los diferentes espacios públicos y privados que conozcan o atiendan el problema de la violencia familiar;
+VI. Sensibilizar y capacitar al personal de los diferentes espacios públicos y privados que conozcan o atiendan el problema de la violencia familiar;
 
-Impulsar la formación de promotores y promotoras comunitarias para la identificación, orientación y canalización de casos; y
+VII. Impulsar la formación de promotores y promotoras comunitarias para la identificación, orientación y canalización de casos; y
 
-Establecer la coordinación intra e intersectorial adecuada de las rutas de atención, referencia y seguimiento requeridas.
+VIII. Establecer la coordinación intra e intersectorial adecuada de las rutas de atención, referencia y seguimiento requeridas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -435,13 +443,41 @@ Las dependencias del sector público serán aquellas instancias de gobierno que 
 
 Los participantes del sector privado serán aquellas organizaciones, universidades, colegios de profesionistas o instituciones que, legalmente constituidas y continuamente acreditadas, desarrollen actividades relacionadas con el tema de violencia familiar.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE FEBRERO DE 2022)</small>
+
+### CAPÍTULO VII BIS
+
+DE LAS ATRIBUCIONES Y OBLIGACIONES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+###### Artículo 20 Bis 7.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado tendrá a su cargo la coordinación de la ejecución por parte de las distintas dependencias y entidades del Ejecutivo, el Programa Estatal para la Prevención y Atención Integral de la Violencia Familiar.
+
+Así mismo será la dependencia encargada de coordinar la formulación de políticas públicas para la prevención de la violencia familiar en el Estado y ejecutar mediante las unidades administrativas de la misma, la atención a las víctimas de violencia familiar.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+###### Artículo 20 Bis 8.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado para la ejecución del Programa Estatal para la Prevención y Atención Integral de la Violencia Familiar, también se coordinará con los Sistemas para el Desarrollo de la Familia de los Municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+###### Artículo 20 Bis 9.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia del Estado, coordinará la participación y coadyuvancia con las autoridades del Estado, de las diversas organizaciones de la sociedad civil, cuyo objeto sea el combate a la violencia familiar, en cualquiera de sus manifestaciones.
+
 > <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO V], P.O. 7 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### Artículo 21.
 
-El incumplimiento de esta Ley por parte de los servidores públicos, se sancionará conforme a las disposiciones que señale la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León. Las acciones de las organizaciones públicas, privadas o sociales y de las personas físicas que presten servicios en materia de violencia familiar en contra de esta Ley, se sancionarán en los términos de la legislación común.
+El incumplimiento de esta Ley por parte de los servidores públicos, se sancionará conforme a las disposiciones que señale la Ley de Responsabilidades Administrativas del Estado de Nuevo León. Las acciones de las organizaciones públicas, privadas o sociales y de las personas físicas que presten servicios en materia de violencia familiar en contra de esta Ley, se sancionarán en los términos de la legislación común.
 
 T R A N S I T O R I O S
 
@@ -498,3 +534,13 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 092. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NO. 445 DE FECHA 16 DE FEBRERO (SIC) 2021 DE LA LXXV LEGISLATURA, POR EL QUE SE REFORMA LA LEY DE PREVENCIÓN Y ATENCIÓN INTEGRAL DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, de acuerdo a su capacidad financiera destinará en el ejercicio fiscal siguiente al que entre en vigor el presente Decreto una partida presupuestal que permita al Sistema para el Desarrollo Integral de la Familia del Estado, contar con los recursos suficientes para la coordinación de la ejecución del Programa Estatal para la Prevención y Atención Integral de la Violencia Familiar.
+
+Para el caso del ejercicio fiscal del año en que entre en vigor el presente Decreto el Sistema para el Desarrollo Integral de la Familia del Estado, realizara las funciones de coordinación de la ejecución del programa con los recursos humanos y materiales con los que cuente.
