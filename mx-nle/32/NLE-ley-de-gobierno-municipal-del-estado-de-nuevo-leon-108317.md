@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2021-12-31"
+last_updated: "2022-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -1153,13 +1153,17 @@ IV. Un área encargada de Seguridad Pública Municipal;
 
 V. Un área encargada de la Protección al Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2022)</small>
 
-VI. Un área encargada de la Protección al Adulto Mayor; y
+VI. Un área encargada de la Protección al Adulto Mayor;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2022)</small>
 
-VII. Un área encargada del cuidado y protección de parques y jardines municipales.
+VII. Un área encargada del cuidado y protección de parques y jardines municipales; y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2022)</small>
+
+VIII. Un área encargada de la Promoción y Protección de la Mujer.
 
 ###### ARTÍCULO 93.
 
@@ -1505,11 +1509,53 @@ ARTÍCULO 110 BIS V.- El área encargada del cuidado y protección de parques y 
 
 EN LOS MUNICIPIOS CON MÁS DE CIEN MIL HABITANTES, EL ÁREA TENDRÁ EL NIVEL DE SECRETARÍA O DE DIRECCIÓN GENERAL. EN LOS DEMÁS MUNICIPIOS DICHA ÁREA TENDRÁ EL NIVEL DE ACUERDO CON SUS POSIBILIDADES PRESUPUESTALES.
 
-#### SECCIÓN I. DE LOS ORGANISMOS DESCENTRALIZADOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE FEBRERO DE 2022)</small>
 
-(NOTA: EL 19 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 168/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+#### SECCIÓN VIII. DE LA PROMOCIÓN Y PROTECCIÓN DE LA MUJER
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 110 BIS VI.- El área encargada de la Promoción y Protección de la Mujer es la unidad administrativa cuyo objeto será la de promover y fomentar las condiciones que posibiliten el desarrollo integral de las mujeres fomentando la no discriminación, la equidad, la igualdad de oportunidades y de trato entre mujeres y hombres, de la toma de decisiones y del ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en la vida política, económica y social del Municipio.
+
+En los Municipios con más de veinte mil habitantes, el área respectiva podrá tener el nivel de Dirección o Secretaría. En los demás Municipios dicha área tendrá el nivel de acuerdo a su posibilidad presupuestal.
+
+Los Municipios que así lo estimen podrán constituir dicha área como un organismo descentralizado.
+
+El titular del área será designado por el Ayuntamiento a propuesta del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 110 BIS VII.- Son atribuciones del área de la Promoción y Protección de la Mujer:
+
+I. Elaborar, actualizar, coordinar e instrumentar con perspectiva de igualdad sustantiva entre mujeres y hombres y de derechos humanos, previo diagnóstico de las necesidades y requerimientos sobre la materia en el Municipio, programas municipales en materia de atención y participación de las mujeres, con apego a las políticas nacional y estatal en la materia, y proponerlos al Ayuntamiento para su inclusión en los instrumentos de planeación municipal;
+
+II. Implementar políticas, programas, lineamientos, estrategias y criterios para la ejecución, seguimiento, supervisión y evaluación del cumplimiento de los programas municipales en materia de atención y participación de las mujeres y de igualdad sustantiva entre mujeres y hombres;
+
+III. Establecer vínculos de coordinación o colaboración, a fin de conformar un sistema municipal para la igualdad sustantiva entre mujeres y hombres, con las dependencias o entidades públicas, federales, estatales o municipales, o con el sector social o privado para promover, fomentar y ejecutar las políticas, programas y acciones contenidos en los programas municipales; así como para promover, proteger y garantizar el respeto y ejercicio pleno de los derechos humanos de las mujeres reconocidos en el marco jurídico que regula la materia;
+
+IV. Ejecutar los convenios o cualquier acto jurídico que el Ayuntamiento haya celebrado con instituciones públicas o privadas, nacionales e internacionales, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento del objeto del área;
+
+V. Diseñar y evaluar políticas públicas con perspectiva de igualdad sustantiva entre mujeres y hombres;
+
+VI. Impulsar la incorporación de la perspectiva de igualdad sustantiva entre mujeres y hombres, los derechos humanos de las mujeres, así como la no discriminación (sic) contra de las mujeres en la planeación municipal del desarrollo, programación y presupuestación de los egresos del Municipio;
+
+VII. Promover y realizar capacitaciones y campañas para la difusión, concientización y sensibilización acerca de la igualdad sustantiva entre mujeres y hombres, derechos humanos de las mujeres y el desarrollo e integridad de las mismas, dirigidos al personal que atienda víctimas de violencia tanto en el ámbito público como privado, a integrantes del servicio público y a la ciudadanía en general;
+
+VIII. Actuar como órgano de consulta, capacitación o asesoría de las dependencias y entidades de la administración pública municipal, así como de las autoridades que así lo requieran y de los sectores social y privado, en materia de políticas públicas de igualdad sustantiva entre mujeres y hombres, derechos humanos de las mujeres, inclusión social y desarrollo para las mujeres, cuando así lo soliciten;
+
+IX. Coordinarse con las autoridades responsables de la procuración e impartición de justicia y de la seguridad pública de la Federación, del Estado y del Municipio, para proponer medidas de prevención del delito, atención y sanción contra cualquier forma de violación de los derechos de las mujeres; protocolos, mecanismos, programas y estrategias en el municipio para prevenir, atender, sancionar y erradicar cualquier tipo de violencia contra las mujeres, sujetándose para ello a los ordenamientos jurídicos internacionales, federales o estatales aplicables en la materia;
+
+X. Formular e impulsar la integración y participación plena y efectiva de las mujeres en la vida económica, laboral, política, cultural, científica y social del Municipio, en condiciones de igualdad con los hombres;
+
+XI. Coordinarse con las dependencias y entidades de la administración pública municipal, para evitar que las campañas de información institucionales incurran en estereotipos de género, lenguaje discriminatorio o violación a los derechos humanos de las mujeres;
+
+XII. Asesorar y orientar en aspectos jurídicos, psicológicos y de capacitación para el empleo a las mujeres que lo soliciten, o bien, canalizar sus peticiones a las instituciones competentes;
+
+XIII. Promover, coordinar, impulsar, efectuar y difundir estudios, investigaciones y publicaciones, acerca de las condiciones de las mujeres en los diversos ámbitos de la sociedad;
+
+XIV. Proponer al Ayuntamiento las reformas a la legislación estatal o a la reglamentación municipal en materia de atención a las mujeres y de igualdad de género, con el fin de apegarse a lo establecido en el marco legal que regule los derechos humanos de las mujeres; y
+
+XV. Las demás previstas en otras leyes y reglamentos.
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
@@ -1521,7 +1567,11 @@ El Ayuntamiento, con objeto de llevar a cabo una oportuna toma de decisiones y l
 
 Para los efectos de esta Ley, los organismos descentralizados, cualquiera que sea la forma o estructura que adopten, serán los que se constituyan total o mayoritariamente con fondos del Municipio.
 
-#### SECCIÓN II. DE LOS FIDEICOMISOS PÚBLICOS MUNICIPALES
+#### SECCIÓN I. DE LOS ORGANISMOS DESCENTRALIZADOS
+
+(NOTA: EL 19 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 168/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 ###### ARTÍCULO 113.
 
@@ -1548,6 +1598,8 @@ El Ayuntamiento designará un Comisario para cada uno de los organismos descentr
 La Administración de los Organismos Descentralizados estará a cargo de un Órgano de Gobierno, que será un Consejo Directivo o su equivalente, con un Director General, nombrado por el Ayuntamiento en los términos del reglamento respectivo.
 
 Para la extinción de organismos descentralizados deberá fungir como órgano liquidador la Contraloría Municipal en su caso. La extinción se formulará mediante acuerdo del Ayuntamiento, misma que deberá ser publicada en el Periódico Oficial del Estado.
+
+#### SECCIÓN II. DE LOS FIDEICOMISOS PÚBLICOS MUNICIPALES
 
 ###### ARTÍCULO 116.
 
@@ -2730,3 +2782,11 @@ P.O. 31 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 019. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO F), DE LA FRACCIÓN III DEL ARTÍCULO 33 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 096. SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 92; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 92 Y UNA SECCIÓN VIII AL CAPÍTULO II DEL TÍTULO CUARTO, DENOMINADA “DE LA PROMOCIÓN Y PROTECCIÓN DE LA MUJER” CON LOS ARTÍCULOS 110 BIS VI Y 110 BIS VII, DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos de los Municipios tendrán un plazo de noventa días hábiles contados a partir de la vigencia del presente Decreto para adecuar sus Reglamentos conforme a lo establecido en el mismo.
