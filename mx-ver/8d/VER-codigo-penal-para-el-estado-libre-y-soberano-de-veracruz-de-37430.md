@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2021-11-15"
+last_updated: "2022-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2022.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3969,7 +3969,7 @@ II. Realice una conducta ilícita u omita una lícita que lesione los intereses 
 
 ### CAPÍTULO XIII. ULTRAJES A LA AUTORIDAD
 
-(NOTA: EL 1 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2021 Y SU ACUMULADA 66/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 1 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2021 Y SU ACUMULADA 66/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
@@ -4025,17 +4025,23 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta d�
 
 ###### Artículo 331.
 
-Se impondrán de seis meses a dos años de prisión y multa de diez a cuarenta veces el valor de la unidad de medida y actualización diaria, a quien amenace o agreda a un servidor público en el momento de ejercer sus funciones o con motivo de ellas.
+SE IMPONDRÁN DE SEIS MESES A DOS AÑOS DE PRISIÓN Y MULTA DE DIEZ A CUARENTA VECES EL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN DIARIA, A QUIEN AMENACE O AGREDA A UN SERVIDOR PÚBLICO EN EL MOMENTO DE EJERCER SUS FUNCIONES O CON MOTIVO DE ELLAS.
 
-Se le aplicará al responsable de este delito, además de las sanciones anteriores, de cinco a siete años de prisión, cuando se actualicen cualquiera de los supuestos siguientes:
+(NOTA: EL 1 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2021 Y SU ACUMULADA 66/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I. Se realice por una o más personas armadas o portando instrumentos peligrosos;
+SE LE APLICARÁ AL RESPONSABLE DE ESTE DELITO, ADEMÁS DE LAS SANCIONES ANTERIORES, DE CINCO A SIETE AÑOS DE PRISIÓN, CUANDO SE ACTUALICEN CUALQUIERA DE LOS SUPUESTOS SIGUIENTES:
 
-II. Se realice por medio de cualquier tipo de violencia contra la víctima;
+(NOTA: EL 1 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2021 Y SU ACUMULADA 66/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-III. Que el sujeto activo manifieste ser miembro de una pandilla, asociación delictuosa o de la delincuencia organizada, real o ficticia o que por cualquier medio manifieste la intervención de estos grupos en la comisión del delito; o
+I. SE REALICE POR UNA O MÁS PERSONAS ARMADAS O PORTANDO INSTRUMENTOS PELIGROSOS;
 
-IV. Que se realice a través de cualquier otra circunstancia que disminuya las posibilidades de defensa o protección del sujeto pasivo o lo ponga en condiciones de riesgo o desventaja.
+II. (DEROGADA, G.O. 28 DE FEBRERO DE 2022)
+
+(NOTA: EL 1 DE MARZO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2021 Y SU ACUMULADA 66/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 848, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. QUE EL SUJETO ACTIVO MANIFIESTE SER MIEMBRO DE UNA PANDILLA, ASOCIACIÓN DELICTUOSA O DE LA DELINCUENCIA ORGANIZADA, REAL O FICTICIA O QUE POR CUALQUIER MEDIO MANIFIESTE LA INTERVENCIÓN DE ESTOS GRUPOS EN LA COMISIÓN DEL DELITO; O
+
+IV. (DEROGADA, G.O. 28 DE FEBRERO DE 2022)
 
 > <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
 
@@ -5471,19 +5477,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UN PÁRRAFO QUINTO AL ARTÍCULO 4o. Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 5o., DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PROTECCIÓN A LA SALUD”.]
+G.O. 28 DE FEBRERO DE 2022.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 233 QUE DEROGA LAS FRACCIONES II Y IV DEL ARTÍCULO 331 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al contenido, previstas en leyes secundarias, reglamentos, acuerdos y cualquier otro ordenamiento normativo de carácter administrativo.
+Primero. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- El Congreso de la Unión, en un plazo de 180 días, contados a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes en las materias con el contenido del presente Decreto.
-
-Cuarto.- Las legislaturas de las entidades federativas deben realizar las adecuaciones normativas necesarias para cumplir con lo previsto en el presente Decreto, dentro de los 365 días naturales siguientes a la publicación de este ordenamiento.
-
-Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
-
-D.O.F. 17 DE MARZO DE 2025.
+Segundo. En la aplicación del presente Decreto se tendrá presente el principio de sucesión de normas sustantivas penales.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 4o. Y 27 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE CONSERVACIÓN Y PROTECCIÓN DE LOS MAÍCES NATIVOS”.]
 
