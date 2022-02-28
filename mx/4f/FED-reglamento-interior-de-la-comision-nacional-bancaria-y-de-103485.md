@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-bancaria-y-de-10348
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-12"
-last_updated: "2014-11-12"
+last_updated: "2022-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-11-06"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, PUBLICADO EN EL D.O.F. DE 28 DE FEBRERO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE FEBRERO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 12 de noviembre de 2014.
 
@@ -1566,3 +1568,21 @@ El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo 
 CUARTO.- Las referencias que se hagan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas de la Comisión Nacional Bancaria y de Valores que cambien de denominación por virtud del presente Reglamento, se entenderán hechas a las unidades administrativas que resulten competentes conforme al mismo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de noviembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Nacional Bancaria y de Valores publicado en el Diario Oficial de la Federación el 12 de noviembre de 2014.
+
+TERCERO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de este Reglamento y que, conforme al mismo, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones que se abrogan, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Reglamento, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
+
+CUARTO.- Las referencias y atribuciones que se hagan y se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas de la Comisión Nacional Bancaria y de Valores que cambien de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme a este ordenamiento.
+
+QUINTO.- Cuando, en términos del último párrafo del artículo 57 de este Reglamento, el auxilio que proporcione la Comisión Nacional Bancaria y de Valores al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
