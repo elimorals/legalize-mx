@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2021-11-22"
+last_updated: "2022-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2022.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2627,9 +2627,9 @@ e). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
 f). Departamento de Enlace con Relaciones Exteriores,
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
-g). Departamento de Archivo General de Gobierno; y
+g). Coordinación de Archivo de trámite, concentración e histórico municipal; y
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -25034,3 +25034,19 @@ Artículo Cuarto.- Administrativamente el presente acuerdo surte sus efectos de 
 Artículo Quinto.- Se ordena su publicación en el Periódico Oficial del Estado.
 
 Artículo Sexto.- Cúmplase.
+
+P.O. 28 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE SE RELACIONAN CON LA "REFORMA AL CÓDIGO MUNICIPAL DE CALVLLLO, AGS".]</small>
+
+Artículo Primero. Se reforma el Código Municipal de Calvillo, Ags., en los siguientes términos:
+
+[...]
+
+Artículo Segundo.- Todos los artículos del Código Municipal de Calvillo, Ags., y demás reglamentación municipal que mencionan Archivo General Municipal se refieren a la Coordinación de archivo de trámite, concentración e histórico municipal, lo anterior para todos los efectos legales a los que haya lugar.
+
+Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Cuarto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Quinto.- Cúmplase.
