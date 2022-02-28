@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2022-01-10"
+last_updated: "2022-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -905,15 +905,21 @@ IV. Cuando en el auditorio se observe alguna falta de respeto para alguno de los
 
 V. Cuando se pretenda discutir asuntos de interés particular.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE FEBRERO DE 2022)</small>
 
 ARTÍCULO 61 BIS.- Durante el desarrollo de las sesiones de Cabildo, se autoriza el acceso al público en general siempre y cuando mantengan un adecuado comportamiento y se abstengan de realizar lo siguiente:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE FEBRERO DE 2022)</small>
+
 I. Alterar por cualquier medio el desarrollo de la sesión;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE FEBRERO DE 2022)</small>
 
 II. Realizar gesticulaciones o cualquier señal a manera de desaprobación o insulto;
 
-III. Grabar o videograbar por cualquier medio el desarrollo de la sesión; y
+III. (DEROGADA, P.O. 28 DE FEBRERO DE 2022)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE FEBRERO DE 2022)</small>
 
 IV. Realizar cualquier acto que provoque molestia o incomodidad en los miembros del Cabildo.
 
@@ -921,7 +927,9 @@ IV. Realizar cualquier acto que provoque molestia o incomodidad en los miembros 
 
 La Secretaría del H. Ayuntamiento deberá presentar en los meses de junio y diciembre un informe ante el Cabildo acerca de las solicitudes, asuntos dictaminados y asuntos pendientes de resolución clasificados por materia.
 
-De igual manera, la Contraloría deberá presentar al Cabildo un informe semestral sobre los asuntos de que hubiere tenido conocimiento. Una vez concluido y antes de su presentación en sesión solemne de Cabildo, los integrantes del H. Ayuntamiento deberán conocer por anticipado el contenido del Informe Anual de Gobierno.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+De igual manera, el Titular del Órgano Interno de Control deberá presentar al Cabildo un informe semestral sobre los asuntos de que hubiere tenido conocimiento. Una vez concluido y antes de su presentación en sesión solemne de Cabildo, los integrantes del H. Ayuntamiento deberán conocer por anticipado el contenido del Informe Anual de Gobierno.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
 
@@ -1377,25 +1385,37 @@ VI. No haber sido condenado en proceso penal por delito intencional; y,
 
 VII. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 134.
 
-Al frente de la Contraloría Municipal, habrá un profesionista, que se denominará Contralor Municipal, servidor público que será nombrado por el Presidente Municipal.
+Al frente del Órgano Interno de Control, habrá un profesionista, que se denominará Titular del Órgano Interno de Control, servidor público que será nombrado por el Presidente Municipal.
+
+Para el adecuado desempeño de las funciones del Órgano Interno de Control, el estudio, la gestión, planeación, despacho y resolución de los asuntos de competencia, el Titular del Órgano Interno de Control deberá contar con el siguiente personal:
+
+I. Titular de la Unidad Investigadora;
+
+II. Titular de la Unidad Substanciadora; y
+
+III. Titular de la Unidad Resolutora.
+
+Estas autoridades serán nombradas por el Presidente Municipal, designando a la persona que resulte más idónea para el desempeño del cargo.
+
+> <small>(REFORMADO P.O. 28 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 135.
 
-Para ser Contralor Municipal se deberán reunir los requisitos siguientes:
+Para ser Titular del Órgano Interno de Control, así como para ser Titular de las Unidades Investigadora, Substanciadora y Resolutoria, se deberán reunir los requisitos siguientes:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos y (sic) políticos;
 
-II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
+II. Contar el día de su designación, con título de antigüedad mínima de cinco años y cédula profesional a nivel licenciatura en áreas afines a derecho, contabilidad, finanzas o administración, expedidos por autoridad o institución legalmente facultada para ello;
 
-III. Poseer título expedido en alguna carrera profesional de las ciencias económicas, administrativas o contables;
+III. No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor público ni estar sujeto a procedimiento de responsabilidad administrativa federal, estatal o municipal en términos de la normatividad aplicable;
 
-IV. Tener experiencia mínima de un año en procesos de auditoría contable, fiscal o de procesos internos;
+IV. No haber sido condenado por sentencia ejecutoriada como responsable por delito doloso ni estar sujeto a procedimiento penal por la comisión de algún delito doloso calificado como grave por la legislación de la materia;
 
-V. No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el 4º grado, del Presidente Municipal; y,
-
-VI. No presentar antecedentes criminales, ni policiales relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a dos años de prisión por delito doloso diverso.
+V. Acreditar ante el Presidente Municipal tener conocimientos suficientes para poder desempeñar el cargo y contar con una experiencia mínima de tres años en cualquiera de las materias jurídica, contable, financiera o administrativa.
 
 ###### ARTÍCULO 136.
 
@@ -1459,6 +1479,8 @@ En el caso de las faltas temporales de los encargados de las Dependencias Públi
 
 ## TÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 141.
 
 Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes dependencias administrativas:
@@ -1475,13 +1497,17 @@ SECRETARIA PARTICULAR
 
 COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+JEFATURA DE GABINETE.
+
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
 SECRETARIA DEL H. AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
-CONTRALORIA MUNICIPAL
+ÓRGANO INTERNO DE CONTROL.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
@@ -1527,6 +1553,8 @@ DIRECCION DE ACCION CIVICA, CULTURA Y DEPORTE
 
 DIRECCION DE DESARROLLO URBANO, PLANEACION Y PROYECTOS
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 28 DE FEBRERO DE 2022)</small>
+
 De las Unidades Administrativas enunciadas dependerá la estructura siguiente:
 
 I. PRESIDENCIA MUNICIPAL
@@ -1543,39 +1571,41 @@ II. COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 A. Estará integrado por la Presidenta del Sistema D.I.F. Municipal, ocupándolo quien tenga el carácter de cónyuge. del Presidente Municipal, o en su defecto quién éste designe, y por las personas que se consideren necesarias y se nombren al momento de integrar el propio Comité para el desempeño de sus funciones, todo los cargos serán honoríficos y no podrán ser ocupados por funcionarios públicos de la administración municipal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE FEBRERO DE 2022)</small>
 
-III. SECRETARIA DEL H. AYUNTAMIENTO
+III. SECRETARÍA (SIC)
 
-A. Delegados y Comisarios
+(SIC) DEL H. AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+A. Jefatura de Gabinete;
 
-B. Dirección de Asuntos Jurídicos
+B. Delegados y Comisarios;
 
-C. Departamento de Reglamentos y Licencias
+C. Dirección de Asuntos Jurídicos;
 
-D. Departamento de Comunicación Social
+D. Departamento de Reglamentos y Licencias;
 
-E. Área de Servicios Médicos y Trabajo Social
+E. Departamento de Comunicación Social;
 
-F. Área de Jueces Calificadores
+F. Área de Servicios Médicos y Trabajo Social;
 
-G. (DEROGADO, P.O. 30 DE OCTUBRE DE 2019)
+G. Área de Jueces Calificadores;
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+H. Coordinación Municipal de Protección Civil;
 
-H. Coordinación Municipal de Protección Civil
+I. Unidad Médica Prehospitalaria; y
 
-I. Unidad Médica Prehospitalaria
+J. Departamento de Atención Ciudadana.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE FEBRERO DE 2022)</small>
 
-J. Departamento de Atención Ciudadana
+IV. ÓRGANO INTERNO DE CONTROL
 
-IV. CONTRALORIA MUNICIPAL
+A. Titular de la Unidad Investigadora;
 
-A. Unidad de Enlace de Transparencia
+B. Titular de la Unidad Substanciadora;
+
+C. Titular de la Unidad Resolutora.
 
 V. DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -2841,6 +2871,28 @@ El Comité de Planeación para el Desarrollo Municipal es el órgano de la admin
 
 El Comité de Planeación para el Desarrollo Municipal se integrará por los órganos, dependencias o servidores públicos que determine el Ayuntamiento en sesión de cabildo y deberá ser integrado dentro de los primeros quince días de inicio de la Administración Municipal, acuerdo en el cual se deberá establecer su instalación, los integrantes y el funcionamiento del mismo a efectos de que pueda cumplir con sus funciones.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+ARTÍCULO 200 BIS.- El Comité de Planeación para del Desarrollo Municipal en conjunto con el Órgano Interno de Control, tendrá las siguientes atribuciones:
+
+I. Diseñar, coordinar y operar el sistema de evaluación del desempeño;
+
+II. Emitir los lineamientos para la operación para el sistema de evaluación del desempeño;
+
+III. Emitir los lineamientos relativos a la participación de los evaluadores externos en el marco del sistema de evaluación del desempeño;
+
+IV. Formular un plan anual de evaluación del desempeño de los programas presupuestarios;
+
+V. Revisar los indicadores de desempeño, tomando en cuenta la autoevaluación respecto a la medición del grado de cumplimiento de dichos indicadores que realicen las dependencias o entidades del Municipio, o bien la efectuada por los evaluadores externos según corresponda;
+
+VI. Emitir recomendaciones a las dependencias o entidades del Municipio con base a los resultados de las evaluaciones de desempeño;
+
+VII. Dar seguimiento al cumplimiento sobre las recomendaciones del presente artículo;
+
+VIII. Elaborar un informe anual que contenga los resultados de las evaluaciones realizadas en el año precedente; y
+
+IX. Impartir a petición de parte, las capacitaciones en materia de evaluaciones de desempeño.
+
 ###### ARTÍCULO 201.
 
 El Comité de Planeación Municipal debe tomar en consideración, para la elaboración del proyecto del Plan Municipal de Desarrollo, toda la serie de evaluaciones que de la administración pública municipal realizan las comisiones edilicias.
@@ -3051,9 +3103,11 @@ La Entrega-Recepción de la Administración Municipal, es el proceso a través d
 
 La Entrega-Recepción de los asuntos y recursos que se encuentran a cargo de los servidores públicos salientes, constituyen un procedimiento legal-administrativo de orden informativo, de cumplimiento obligatorio y formal.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 242.
 
-Los sujetos al proceso de Entrega-Recepción serán el H. Ayuntamiento, el Presidente Municipal, el Secretario del H. Ayuntamiento, los Secretarios, los Directores, los Delegados Municipales, los Comisarios Municipales, los que ocupen cargos hasta el nivel de Jefes de Departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea solicitado por el titular de la Dependencia, Unidad Administrativa o Entidad y/o por la Contraloría Municipal.
+Los sujetos al proceso de Entrega-Recepción serán el H. Ayuntamiento, el Presidente Municipal, el Secretario del H. Ayuntamiento, los Secretarios, los Directores, los Delegados Municipales, los Comisarios Municipales, los que ocupen cargos hasta el nivel de Jefes de Departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea solicitado por el titular de la Dependencia, Unidad Administrativa o Entidad y/o por el Órgano Interno de Control.
 
 ###### ARTÍCULO 243.
 
@@ -3063,27 +3117,25 @@ I. Al término del periodo constitucional de la Administración Pública Municip
 
 II. Por cualquier otra causa distinta al término del periodo constitucional que implique separación temporal o definitiva del cargo y cese de las funciones de los servidores públicos señalados en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 244.
 
 Para efectos de la entrega-recepción se deberá integrar el documento que contenga, al menos, lo siguiente:
 
 I. Acta Administrativa;
 
-II. La estructura orgánica de la dependencia hasta el nivel jerárquico de departamento;
+II. La estructura orgánica de la dependencia hasta el nivel jerárquico de departamento; I (sic)
 
 III. Una relación que señale el marco jurídico de actuación de la dependencia o entidad; y,
 
-IV. Los formatos y/o anexos que la contraloría municipal determine como oficiales para dicho proceso.
+IV. Los formatos y/o anexos que el Órgano Interno de Control determine como oficiales para dicho proceso.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 245.
 
-Para efectos del Artículo anterior, la Entrega-Recepción se formalizará mediante el Acta Administrativa, la cual se acompañará de un informe escrito del servidor público saliente, autorizado bajo su firma, con una descripción de las actividades principales realizadas por la Oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El acta será firmada por el servidor público saliente y el entrante, ante la presencia de dos testigos y la representación de la Contraloría Municipal.
-
-Cuando así proceda, los servidores públicos salientes harán constar en el Acta la renuncia, la causa o motivo de separación del empleo, cargo o comisión.
-
-El servidor público que entrega la Oficina a su cargo deberá elaborar, requisitar y suscribir el Acta Administrativa.
-
-Los servidores públicos encargados de la recepción tendrán el derecho de que en el mismo acto de Entrega se anoten al final del acta las observaciones que estimen pertinentes.
+Para efectos del Artículo anterior, la Entrega-Recepción se formalizará mediante el Acta Administrativa, la cual se acompañará de un informe escrito del servidor público saliente, autorizado bajo su firma, con una descripción de las actividades principales realizadas por la Oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El acta será firmada por el servidor público saliente y el entrante, ante la presencia de dos testigos y la representación del Órgano Interno de Control.
 
 ###### ARTÍCULO 246.
 
@@ -3097,27 +3149,35 @@ En la entrega de los Organismos Públicos Descentralizados de la Administración
 
 Al término del período constitucional de la Administración Pública Municipal de San José de Gracia, los Organismos Públicos Descentralizados elaborarán, requisitarán y suscribirán el Acta Administrativa de su situación actual y de los recursos humanos, financieros y materiales que tienen asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones que para la Entrega-Recepción establece este Código, dicha Acta tendrá sólo carácter informativo.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 248.
 
-Cuando el servidor público saliente no efectúe la entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de cinco días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+Cuando el servidor público saliente no efectúe la entrega que señala este ordenamiento, será requerido por el Órgano Interno de Control, para que, en un término de cinco días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
 
-En este supuesto, el servidor público entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la Dependencia, Unidad Administrativa o Entidad y de la Contraloría Municipal para efecto de que inicie el Procedimiento Administrativo de Responsabilidad.
+En este supuesto, el servidor público entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la Dependencia, Unidad Administrativa o Entidad y del Órgano Interno de Control, para efecto de que inicie el Procedimiento Administrativo de Responsabilidad.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 249.
 
-En el caso en que el servidor público que deba recibir aún no haya sido designado o nombrado, el Presidente Municipal en funciones o el electo, en su caso, o el titular de la Dependencia, Unidad Administrativa o Entidad de su adscripción, designará al que recibirá la oficina, comunicando a la Contraloría Municipal tal designación.
+En el caso en que el servidor público que deba recibir aún no haya sido designado o nombrado, el Presidente Municipal en funciones o el electo, en su caso, o el titular de la Dependencia, Unidad Administrativa o Entidad de su adscripción, designará al que recibirá la oficina, comunicando al Órgano Interno de Control tal designación
 
 ###### ARTÍCULO 250.
 
 A partir de la fecha en que el servidor público saliente proporcione la información y documentación correspondiente, se tendrá por formalmente realizada la entrega, aún y cuando el ciudadano habilitado para recibir, se rehúse a hacerlo, quedando el saliente relevado por ello de responsabilidad por lo que se refiere al acto de Entrega.
 
-En este caso, el servidor público saliente deberá entregar los asuntos y recursos a su cargo, al titular de su área de adscripción o a quien, en su caso, designe éste o el Presidente Municipal.
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2022, SE ADVIERTE QUE SE REFORMAN Y FUSIONAN EL SEGUNDO Y TERCER PÁRRAFO.]</small>
 
-Tal situación, el servidor público saliente la asentara en el Acta correspondiente y la hará del conocimiento de la Contraloría Municipal, a fin, de que ésta registre el hecho para los efectos legales procedentes.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+En este caso, el servidor público saliente deberá entregar los asuntos y recursos a su cargo, al titular de su área de adscripción o a quien, en su caso, designe éste o el Presidente Municipal. Tal situación, el servidor público saliente la asentara en el Acta correspondiente y la hará del conocimiento el Órgano Interno de Control a fin, de que ésta registre el hecho para los efectos legales procedentes.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 251.
 
-Las observaciones que surjan de la revisión al Acta y sus anexos, deberán formularse por escrito ante la Contraloría Municipal por los servidores públicos entrantes, dentro de los treinta días hábiles contados a partir de la fecha de Entrega-Recepción; para tal efecto, la Contraloría Municipal requerirá de inmediato la presencia, dentro de los tres días hábiles siguientes, del servidor público saliente, el que estará obligado a realizar las aclaraciones que le sean requeridas en el tiempo señalado por la Contraloría, la que deberá levantar el Acta correspondiente.
+Las observaciones que surjan de la revisión al Acta y sus anexos, deberán formularse por escrito ante el Órgano Interno de Control por los servidores públicos entrantes, dentro de los treinta días hábiles contados a partir de la fecha de Entrega-Recepción; para tal efecto, la Contraloría Municipal requerirá de inmediato la presencia, dentro de los tres días hábiles siguientes, del servidor público saliente, el que estará obligado a realizar las aclaraciones que le sean requeridas en el tiempo señalado por la Contraloría, la que deberá levantar el Acta correspondiente.
 
 ###### ARTÍCULO 252.
 
@@ -3131,9 +3191,11 @@ Con motivo de la Entrega, el servidor público saliente no queda eximido de las 
 
 El incumplimiento de las disposiciones del presente Título, o de las que deriven del mismo, será sancionado en los términos de la ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de cualquier otra responsabilidad en la que pudieran incurrir los servidores públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 255.
 
-La Contraloría Municipal, en el ámbito de su competencia, queda facultada para:
+El Órgano Interno de Control, en el ámbito de su competencia, queda facultada para:
 
 I.- Dictar las disposiciones que se requieran para la adecuada aplicación y cumplimiento de este Título; y,
 
@@ -3431,9 +3493,11 @@ La reparación del daño de bienes muebles se realizará mediante el acta corres
 
 Esta prohibido el intercambio o sustitución de piezas que formen parte de un bien mueble, salvo lo dispuesto por el Artículo 289, así como el intercambiar o retiro de la etiqueta de registro patrimonial. Quien incurra en dicha práctica será sancionado. En caso de detectar que la etiqueta patrimonial se encuentra en malas condiciones, será responsabilidad del resguardante dar aviso a la Dirección Administrativa.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 292.
 
-Corresponde a la Contraloría Municipal formular las normas relativas al registro, bajas, destino final y desincorporación de los bienes muebles que figuren en los respectivos inventarios de las secretarías, direcciones, dependencias y entidades, que por su uso, aprovechamiento, estado físico o cualidades técnicas no sean ya adecuados, útiles o funcionales para el servicio, resulte inconveniente seguirlos utilizando, o bien cuando se hubieren extraviado, accidentado o destruido.
+Corresponde al Órgano Interno de Control formular las normas relativas al registro, bajas, destino final y desincorporación de los bienes muebles que figuren en los respectivos inventarios de las secretarías, direcciones, dependencias y entidades, que por su uso, aprovechamiento, estado físico o cualidades técnicas no sean ya adecuados, útiles o funcionales para el servicio, resulte inconveniente seguirlos utilizando, o bien cuando se hubieren extraviado, accidentado o destruido.
 
 ###### ARTÍCULO 293.
 
@@ -3655,6 +3719,8 @@ Il. El Director Administrativo expedirá el permiso correspondiente, por el hora
 
 ### CAPÍTULO IV. De las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 316.
 
 Cuando el resguardante o usuario infrinja alguna de las disposiciones contenidas en el presente Título, la Dirección Administrativa podrá determinar y aplicar las sanciones siguientes:
@@ -3667,7 +3733,9 @@ III. REPOSICIÓN DE BIENES MUEBLES IGUALES O DE SIMILARES CARACTERÍSTICAS Y OPE
 
 IV. DESCUENTOS VIA NOMINA EN SU SALARIO PARA CUBRIR EL IMPORTE DEL VALOR DE REPOSICIÓN DE BIENES MUEBLES cuando éstos no hayan sido repuestos en los términos del inciso anterior y para el pago de multas a que se refiere el artículo 297 Fracción VIII y IX; así como para el pago de las reparaciones que se señalan en los Artículos 279 y 307 segundo párrafo, siempre que el responsable se niegue a cubrir voluntariamente el importe señalado;
 
-V. TURNO DEL CASO A LA CONTRALORÍA MUNICIPAL, para el fincamiento de responsabilidades administrativas y/o económicas, por violación a lo dispuesto en los artículos 269, 284 Fracción III.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2022)</small>
+
+V. TURNO DEL CASO AL ÓRGANO INTERNO DE CONTROL, para el fincamiento de responsabilidades administrativas y/o económicas, por violación a lo dispuesto en los artículos 269, 284 Fracción III.
 
 ### CAPÍTULO V. De la Enajenación de los Bienes Municipales
 
@@ -3723,13 +3791,17 @@ IV. Cuando se hubiere rescindido el contrato respectivo, en estos casos, a trav�
 
 Se exceptuarán como postores en los remates a los servidores públicos del Municipio, sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado o civiles, o de terceros con quienes los servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y nulas de pleno derecho.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 323.
 
-Cuando por razones de operatividad, obsolescencia, daños, desperfectos o terminación de la vida útil, deban de ser dados de baja los bienes muebles de desecho, obsoletos o consumibles, los mismos se pondrán a disposición de la Dirección Administrativa, mediante la elaboración y llenado del formato correspondiente, a efecto de que este a su vez informe a la Contraloría Municipal para que valide la decisión sobre el destino final de los mismos.
+Cuando por razones de operatividad, obsolescencia, daños, desperfectos o terminación de la vida útil, deban de ser dados de baja los bienes muebles de desecho, obsoletos o consumibles, los mismos se pondrán a disposición de la Dirección Administrativa, mediante la elaboración y llenado del formato correspondiente, a efecto de que este a su vez informe al Órgano Interno de Control para que valide la decisión sobre el destino final de los mismos.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 324.
 
-La solicitud de baja deberá ser suscrita por el resguardante y por el Director del área, o de la Unidad Administrativa que se trate y será responsabilidad exclusiva de estas hacer entrega de los bienes muebles sujetos a baja en la Dirección Administrativa o en el domicilio que señale para tal efecto y considerando las características, peso, volumen de los bienes muebles de desecho, obsoletos o consumibles, la Dirección Administrativa determinará su ubicación hasta que la contraloría valide sobre su destino final.
+La solicitud de baja deberá ser suscrita por el resguardante y por el Director del área, o de la Unidad Administrativa que se trate y será responsabilidad exclusiva de estas hacer entrega de los bienes muebles sujetos a baja en la Dirección Administrativa o en el domicilio que señale para tal efecto y considerando las características, peso, volumen de los bienes muebles de desecho, obsoletos o consumibles, la Dirección Administrativa determinará su ubicación hasta que el Órgano Interno de Control valide sobre su destino final.
 
 ###### ARTÍCULO 325.
 
@@ -3743,13 +3815,17 @@ III. Solicitud de baja; y,
 
 IV. Fotografías del Estado de uso y conservación en el que se encuentra el bien mueble.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 326.
 
-Una vez integrado el expediente, y con el visto bueno de la Contraloría Municipal, se remitirá si se considera conveniente al H. Cabildo para efectos de la autorización correspondiente de la enajenación y/o donación de los bienes.
+Una vez integrado el expediente, y con el visto bueno del Órgano Interno de Control, se remitirá si se considera conveniente al H. Cabildo para efectos de la autorización correspondiente de la enajenación y/o donación de los bienes.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 327.
 
-Una vez autorizada la enajenación por el H. Cabildo, la Dirección Administrativa y/o en su caso el Comité de Adquisiciones y Enajenaciones, procederán a llevarla a cabo en los términos que se dicten en la autorización y se operará, a través de la Contraloría Municipal, la baja definitiva de los bienes muebles enajenados a efectos (sic) de que ya no formen parte del patrimonio Municipal.
+Una vez autorizada la enajenación por el H. Cabildo, la Dirección Administrativa y/o en su caso el Comité de Adquisiciones y Enajenaciones, procederán a llevarla a cabo en los términos que se dicten en la autorización y se operará, a través del Órgano Interno de Control, la baja definitiva de los bienes muebles enajenados a efecto de que ya no formen parte del Patrimonio Municipal.
 
 ### CAPÍTULO VI. Del Comité de Adquisiciones y Enajenaciones
 
@@ -3757,13 +3833,15 @@ Una vez autorizada la enajenación por el H. Cabildo, la Dirección Administrati
 
 El Comité de Adquisiciones y Enajenaciones es un órgano colegiado de consulta, asesoría, análisis y orientación en materia de adquisiciones y enajenaciones, cuyo objetivo es intervenir como instancia administrativa en los procedimientos de las adquisiciones, arrendamientos, contratación de servicios y enajenaciones de bienes muebles e inmuebles requeridos por las dependencias de la administración pública municipal, cuando el valor de las adquisiciones o enajenaciones corresponda al procedimiento de licitación pública o invitación restringida, en términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 329.
 
 El Comité de Adquisiciones y Enajenaciones estará integrado de la siguiente manera:
 
 I. PRESIDENTE: Director Administrativo;
 
-II. SECRETARIO EJECUTIVO: Encargado del Área de Proveeduría;
+II. SECRETARIO EJECUTIVO: Titular del Área de Proveeduría;
 
 III. VOCALES CON VOZ Y VOTO:
 
@@ -3775,7 +3853,7 @@ C). Director de Finanzas
 
 IV. VOCALES CON VOZ, PERO SIN VOTO:
 
-A). Contralor Municipal
+A). Titular del Órgano Interno de Control;
 
 B). Representante del área requisitante, en cada caso.
 
@@ -6895,7 +6973,9 @@ La información señalada en el artículo anterior servirá para tomar acciones 
 
 Los elementos operativos, al terminar su turno, entregarán a sus superiores reporte escrito en las formas apropiadas y debidamente foliadas de los hechos de tránsito en que hayan intervenido, así como las copias de las actas de infracción que hayan levantado y cualquier otra información relativa a su servicio.
 
-Agregarán a su reporte el nombre de cualquier servidor público o persona que haya hecho alarde de influencias para evitar la sanción correspondiente, marcándole copia al Contralor Interno del Municipio para que sea sancionado.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
+Agregarán a su reporte el nombre de cualquier servidor público o persona que haya hecho alarde de influencias para evitar la sanción correspondiente, marcándole copia al Titular del Órgano Interno de Control para que sea sancionado.
 
 ### CAPÍTULO VI. De la Detención de los Vehículos
 
@@ -12063,9 +12143,11 @@ V. Las demás que le indique el propio Patronato y/o el Presidente.
 
 El Patronato deberá informar al Ayuntamiento acerca de los resultados de la feria, dentro de los treinta días posteriores a esta, debiendo presentar un informe de las actividades realizadas durante el periodo ferial, incluyendo la situación financiera del evento, es decir, un panorama de los ingresos generados y de los egresos realizados con motivo de la feria.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
+
 ###### ARTÍCULO 1285.
 
-La Contraloría Municipal podrá realizar revisiones a la actuación del patronato, revisando la eficiencia con que se ejerzan los desembolsos, pudiendo solicitar para ello la información que requiera, quedando obligados todos los integrantes a proporcionar la información que se les solicite en cualquier tiempo, hasta en tanto se aprueben las cuentas públicas por el Congreso del Estado.
+El Órgano Interno de Control podrá realizar revisiones a la actuación del patronato, revisando la eficiencia con que se ejerzan los desembolsos, pudiendo solicitar para ello la información que requiera, quedando obligados todos los integrantes a proporcionar la información que se les solicite en cualquier tiempo, hasta en tanto se aprueben las cuentas públicas por el Congreso del Estado
 
 ### CAPÍTULO II. De los Expositores y Feriantes
 
@@ -13784,5 +13866,11 @@ SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que so
 P.O. 10 DE ENERO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “ADICIÓN DE LOS ARTÍCULOS 153 A, 153 B Y 153 C DEL PROPIO CÓDIGO MUNICIPAL”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE APRUEBA DIVERSAS REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGS”.]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
