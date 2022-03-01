@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2020-12-29"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -69,7 +69,33 @@ El Año Legislativo inicia el quince de septiembre y concluye el catorce de sept
 
 El Pleno del Congreso dentro del año legislativo sesionará en dos periodos ordinarios de sesiones conforme a la presente Ley. El resto del año las comisiones y los demás órganos del Congreso, trabajarán regularmente.
 
-#### SECCIÓN I. DE LAS COMISIONES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE MARZO DE 2022)</small>
+
+#### SECCIÓN I. DE LOS AJUSTES RAZONABLES PARA LA INCLUSIÓN
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2022)</small>
+
+ARTÍCULO 2 bis. El Congreso del Estado, a través de la Presidencia de la Mesa Directiva, los Órganos del Congreso y de los órganos técnicos y administrativos, deberán aplicar los ajustes razonables y ayudas técnicas, cuando una diputada o diputado sea una persona con discapacidad, para garantizar el adecuado desempeño de sus funciones.
+
+Para la accesibilidad de las diputadas o los diputados con discapacidad, se aplicarán los ajustes razonables, siguientes:
+
+I. Dotar de los recursos humanos y materiales para desempeñar adecuadamente sus funciones, cuando derivado de una discapacidad requieran de ajustes razonables para dicho fin;
+
+II. Prever ayudas técnicas, para garantizar las intervenciones en sesiones de Pleno, comisiones y comités;
+
+III. Cuando una diputada o diputado con discapacidad requiera de la implementación de ajustes razonables y ayudas técnicas, en términos de la Ley para la Inclusión de las Personas con Discapacidad en el Estado de Michoacán de Ocampo, podrá ser asistido por una persona acreditada por él mismo ante la Presidencia de la Mesa Directiva, para facilitarle el desempeño adecuado de sus funciones;
+
+IV. En aquellos casos en los que la diputada o el diputado con discapacidad esté imposibilitado de exponer verbalmente los motivos de su iniciativa, propuesta de acuerdo, posicionamiento o reserva de artículos, el Presidente de la Mesa Directiva instruirá a un secretario de la mesa para dar la lectura correspondiente, para que de manera simultánea la diputada o diputado proponente pueda realizar dicha exposición en lengua de señas mexicana.
+
+Para el caso de la participación por alusiones personales, rectificación de hechos y mociones, la diputada o diputado con discapacidad podrá auxiliarse del intérprete para realizar su participación;
+
+V. En las votaciones que así se requiera, la diputada o el diputado con discapacidad, podrá auxiliarse de un intérprete o medio digital, electrónico o impreso, que permita dar certeza de la manifestación e intención de su voto;
+
+VI. Para los fines de los diarios de debates y videos, se tomará la participación de la diputada o diputado, que se exprese a través del intérprete, medio digital, electrónico o impreso;
+
+VII. Las sesiones contarán con los intérpretes necesarios en la lengua de señas mexicana, para que, en lugar visible, se realice la interpretación en tiempo real; la cual, será transmitida en la página de internet y en las diferentes plataformas oficiales electrónicas del Congreso; y,
+
+VIII. En las reuniones de comisiones, comités y demás órganos del Congreso, de manera análoga, desde su convocatoria, desarrollo y en la resolución de sus determinaciones, previa opinión de las diputadas o diputados con discapacidad, se aplicarán los ajustes razonables, que permitan garantizar las funciones de las diputadas y diputados con alguna discapacidad.
 
 ### CAPÍTULO SEGUNDO. DE LA OBLIGATORIEDAD DE LA LEY
 
@@ -191,7 +217,9 @@ I. Rendir protesta para asumir el cargo;
 
 II. Presentar iniciativas de ley, decretos, posicionamientos o propuesta de acuerdo;
 
-III. Participar en las sesiones del Pleno, comisiones y comités de los que formen parte;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2022)</small>
+
+III. Participar en las sesiones del Pleno, comisiones y comités de los que formen parte de manera presencial o, previo aviso motivado a la presidencia respectiva, de manera virtual; cuando se trate de sesiones del Pleno, se requerirá además la autorización de la Junta de Coordinación Política. En caso de que cuente con alguna discapacidad será asistido por personal adecuado para ejercer su derecho de participación;
 
 IV. Gestionar en nombre de sus representados ante cualquier instancia;
 
@@ -209,9 +237,17 @@ X. Asistir a los trabajos de cualquier Comisión o Comité del que no sea integr
 
 XI. Recibir, bajo su responsabilidad, la información que soliciten de las diversas comisiones, comités y órganos administrativos del Congreso sobre asuntos de su interés, cuando así lo solicite;
 
-XII. Tener acceso a información actualizada, asesoría y capacitación; y,
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2022)</small>
 
-XIII. Los demás que señale la Constitución, esta Ley y los ordenamientos que de ella deriven.
+XII. Tener acceso a la información actualizada, asesoría y capacitación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2022)</small>
+
+XIII. Contar con los recursos humanos y materiales para desempeñar adecuadamente sus funciones, cuando derivado de una discapacidad requieran de ajustes razonables y ayudas técnicas, para dicho fin; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2022)</small>
+
+XIV. Los demás que señale la Constitución, esta Ley y los ordenamientos que de ella deriven.
 
 ###### ARTÍCULO 9.
 
@@ -727,9 +763,7 @@ V. Las demás que le confieran esta Ley, las disposiciones reglamentarias y los 
 
 ### CAPÍTULO QUINTO. DE LAS COMISIONES Y COMITÉS
 
-#### SECCIÓN II. DE LOS COMITÉS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+#### SECCIÓN I. DE LAS COMISIONES
 
 ###### ARTÍCULO 52.
 
@@ -1717,7 +1751,9 @@ Las Comisiones Especiales pueden ser de investigación o para la atención de as
 
 Las Comisiones de Protocolo solamente se integrarán temporalmente para atender a personas que lo ameriten por su relevancia, cargo o asistencia al Congreso en los casos previstos en las leyes.
 
-#### SECCIÓN I. DE LA INTEGRACIÓN DEL SERVICIO PARLAMENTARIO DE CARRERA
+#### SECCIÓN II. DE LOS COMITÉS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 97.
 
@@ -2379,7 +2415,7 @@ Los investigadores en general estarán sujetos a un programa individual anual de
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN II. DERECHOS Y OBLIGACIONES DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
+#### SECCIÓN I. DE LA INTEGRACIÓN DEL SERVICIO PARLAMENTARIO DE CARRERA
 
 ###### ARTÍCULO 138.
 
@@ -2419,7 +2455,7 @@ Los investigadores en general estarán sujetos a un programa individual anual de
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN III. DE LA ESTRUCTURA DEL SERVICIO PARLAMENTARIO DE CARRERA
+#### SECCIÓN II. DERECHOS Y OBLIGACIONES DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 ###### ARTÍCULO 147.
 
@@ -2431,7 +2467,7 @@ Los investigadores en general estarán sujetos a un programa individual anual de
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN IV. DEL SUBSISTEMA DE PLANEACIÓN DE LOS RECURSOS HUMANOS
+#### SECCIÓN III. DE LA ESTRUCTURA DEL SERVICIO PARLAMENTARIO DE CARRERA
 
 ###### ARTÍCULO 149.
 
@@ -2439,7 +2475,7 @@ Los investigadores en general estarán sujetos a un programa individual anual de
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN V. DEL SUBSISTEMA DE INGRESO
+#### SECCIÓN IV. DEL SUBSISTEMA DE PLANEACIÓN DE LOS RECURSOS HUMANOS
 
 ###### ARTÍCULO 150.
 
@@ -2467,7 +2503,7 @@ DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN VI. DEL SUBSISTEMA DE DESARROLLO PROFESIONAL
+#### SECCIÓN V. DEL SUBSISTEMA DE INGRESO
 
 ###### ARTÍCULO 155.
 
@@ -2503,7 +2539,7 @@ DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN VII. DEL SUBSISTEMA DE FORMACIÓN
+#### SECCIÓN VI. DEL SUBSISTEMA DE DESARROLLO PROFESIONAL
 
 ###### ARTÍCULO 163.
 
@@ -2579,7 +2615,7 @@ DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN VIII. DEL SUBSISTEMA DE EVALUACIÓN DEL DESEMPEÑO
+#### SECCIÓN VII. DEL SUBSISTEMA DE FORMACIÓN
 
 ###### ARTÍCULO 181.
 
@@ -2595,7 +2631,7 @@ DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN IX. DEL SUBSISTEMA DE SEPARACIÓN
+#### SECCIÓN VIII. DEL SUBSISTEMA DE EVALUACIÓN DEL DESEMPEÑO
 
 ###### ARTÍCULO 184.
 
@@ -2615,7 +2651,7 @@ DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN X. DEL SUBSISTEMA DE CONTROL Y EVALUACIÓN
+#### SECCIÓN IX. DEL SUBSISTEMA DE SEPARACIÓN
 
 ###### ARTÍCULO 188.
 
@@ -2639,7 +2675,7 @@ DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN XI. DE LA ESTRUCTURA ORGÁNICA DEL SERVICIO DEL SECRETARIO PERMANENTE
+#### SECCIÓN X. DEL SUBSISTEMA DE CONTROL Y EVALUACIÓN
 
 ###### ARTÍCULO 193.
 
@@ -2651,7 +2687,7 @@ DEL REGISTRO ÚNICO DE LOS SERVIDORES PARLAMENTARIOS DE CARRERA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN XII. DEL RECURSO DE REVOCACIÓN
+#### SECCIÓN XI. DE LA ESTRUCTURA ORGÁNICA DEL SERVICIO DEL SECRETARIO PERMANENTE
 
 ###### ARTÍCULO 195.
 
@@ -2699,7 +2735,7 @@ DE LOS COMITÉS TÉCNICOS
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
-#### SECCIÓN XIII. DE LAS COMPETENCIAS
+#### SECCIÓN XII. DEL RECURSO DE REVOCACIÓN
 
 ###### ARTÍCULO 204.
 
@@ -2714,6 +2750,8 @@ DE LOS COMITÉS TÉCNICOS
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCIÓN XIII. DE LAS COMPETENCIAS
 
 ###### ARTÍCULO 207.
 
@@ -3023,9 +3061,9 @@ Las iniciativas de Ley o de Decreto deben ser dirigidas al Presidente del Congre
 
 Las iniciativas deben presentarse por escrito con firma autógrafa de su promovente y estar acompañada de una versión digital en medio magnético para su reproducción gráfica.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2022)</small>
 
-La exposición de motivos de las iniciativas, deberán ser presentadas ante el Pleno por un Diputado ponente hasta por diez minutos. En el caso de iniciativas con carácter de Dictamen, podrán ser leídas indistintamente por un miembro de la Comisión o un Secretario de la Mesa. Las que no provengan de un miembro de la Legislatura, serán leídas por un Secretario de la Mesa.
+La exposición de motivos de las iniciativas, deberán ser presentadas ante el Pleno por un Diputado ponente hasta por diez minutos, cuando sea necesario, se aplicarán los ajustes razonables, de conformidad con la presente ley. En el caso de iniciativas con carácter de Dictamen, podrán ser leídas indistintamente por un miembro de la Comisión o un Secretario de la Mesa. Las que no provengan de un miembro de la Legislatura, serán leídas por un Secretario de la Mesa.
 
 Tratándose de iniciativas, el articulado de Ley o de Decreto propuesto, se remitirá sin lectura para su estudio, análisis y dictamen a Comisión.
 
@@ -3041,9 +3079,9 @@ La Propuesta de Acuerdo es aquella que por su naturaleza no tiene el carácter d
 
 I. Deberá presentarse por escrito firmada por su autor, dirigida al Presidente del Congreso y contener exposición de motivos y proyecto de acuerdo;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2022)</small>
 
-II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta, que no excederá de siete minutos. En caso de que el o los presentadores no deseen hacer la exposición de su propuesta, el Presidente del Congreso instruirá a un Secretario de la Mesa Directiva dar lectura al texto del proyecto de acuerdo; y,
+II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta, que no excederá de siete minutos, de ser necesario se aplicarán los ajustes razonables, de conformidad con la presente ley. En caso de que el o los presentadores no deseen hacer la exposición de su propuesta, el Presidente del Congreso instruirá a un Secretario de la Mesa Directiva dar lectura al texto del proyecto de acuerdo; y,
 
 III. El Presidente del Congreso, turnará la propuesta de acuerdo a las comisiones, comités u órganos del Congreso competentes para su análisis y dictamen.
 
@@ -3105,9 +3143,9 @@ Aquellas iniciativas que no fueren dictaminadas durante el ejercicio de la Legis
 
 El posicionamiento es toda aquella participación en tribuna de los diputados para establecer una postura personal o de grupo parlamentario relacionado con algún acontecimiento social, político o histórico, y se sujeta a los trámites siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2022)</small>
 
-I. Deberá presentarse por escrito firmado por su autor, dirigido al Presidente del Congreso y será expuesto en Pleno por un máximo de cinco minutos; y,
+I. Deberá presentarse por escrito firmado por su autor, dirigido al Presidente del Congreso y será expuesto en Pleno por un máximo de cinco minutos; cuando sea necesario, se aplicarán los ajustes razonables, de conformidad con la presente ley; y,
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
 
@@ -3209,15 +3247,21 @@ a) La exposición de motivos de la propuesta; y,
 
 b) La propuesta concreta de acuerdo que se somete al Pleno.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 249.
 
-El Presidente abre el debate con una ronda de hasta tres oradores en pro y tres en contra, para lo cual se podrá auxiliar del Sistema Electrónico. Dará el uso de la palabra de manera alternada, hasta por cinco minutos, llamándolos por orden y comenzando por el primer orador en contra. Los oradores podrán, en una ocasión, hacer uso del derecho de réplica y ningún Diputado podrá hacer uso de la voz, sin que el Presidente lo autorice.
+El Presidente abre el debate con una ronda de hasta tres oradores en pro y tres en contra, para lo cual se podrá auxiliar del Sistema Electrónico y aplicar los ajustes razonables. Dará el uso de la palabra de manera alternada, hasta por cinco minutos, llamándolos por orden y comenzando por el primer orador en contra. Los oradores podrán, en una ocasión, hacer uso del derecho de réplica y ningún Diputado podrá hacer uso de la voz, sin que el Presidente lo autorice.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
 
 Concluida la intervención de los oradores, el Presidente someterá en votación económica si es de considerarse la suficiencia de la discusión, de aprobarse se procederá a la votación del Dictamen; si se desecha, se continuará con el debate, abriéndose una segunda ronda de discusión y así consecutivamente hasta que se apruebe la suficiencia.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
+
 En el caso de que se inscriban oradores únicamente para argumentar en un solo sentido, ya sea a favor o en contra, se admitirán hasta seis oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2019)</small>
 
 En caso de que se agotaran cinco rondas de participaciones sin aprobar la suficiencia de la discusión, el Presidente por sí o por moción de cualquier Diputado, podrá suspenderla y continuarla en la siguiente Sesión.
 
@@ -3253,9 +3297,11 @@ De los artículos reservados que se hayan aprobado, el Tercer Secretario elabora
 
 Si en el desarrollo de la discusión, un Diputado desea interpelar al orador, solicitará al Presidente de la Mesa que pregunte al orador si acepta la interpelación o no. Las interpelaciones serán siempre claras, concretas, respetuosas y relacionadas con el tema a discusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 253.
 
-Los diputados pueden pedir la palabra para rectificar hechos o contestar alusiones personales cuando haya concluido el orador para lo cual se podrá auxiliar del Sistema Electrónico. En cuyo caso harán uso de la palabra hasta por cinco minutos.
+Los diputados pueden pedir la palabra para rectificar hechos o contestar alusiones personales cuando haya concluido el orador para lo cual se podrá auxiliar del Sistema Electrónico y de los ajustes razonables, de conformidad con la presente ley. Las intervenciones serán hasta por cinco minutos.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -3265,9 +3311,11 @@ En ningún caso, se podrá intervenir con otro propósito o tratar otro asunto q
 
 Durante los debates del Pleno, el uso de la tribuna del Congreso del Estado corresponde exclusivamente a los diputados y a los titulares del Poder Ejecutivo, Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 255.
 
-Las mociones son derechos de los diputados para interrumpir trámites por aprobar, debates o decisiones de la Mesa Directiva. Las mociones deben expresarse en forma breve y concreta.
+Las mociones son derechos de los diputados para interrumpir trámites por aprobar, debates o decisiones de la Mesa Directiva. Las mociones deben expresarse en forma breve y concreta, y en su caso, a través de los ajustes razonables, de conformidad con la presente ley.
 
 ###### ARTÍCULO 256.
 
@@ -3331,9 +3379,11 @@ Los servidores públicos también podrán solicitar reuniones de trabajo con las
 
 ### CAPÍTULO OCTAVO. DE LAS VOTACIONES
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 264.
 
-Cuando llegue el momento de votar, el Presidente del Congreso ordenará que los diputados que se hallen fuera del salón concurran a votar, y ninguno de aquellos podrá salir de éste mientras la votación se desahogue, exhortando previamente a los comparecientes, en su caso, a retirarse del salón.
+Cuando llegue el momento de votar, el Presidente del Congreso, ordenará que los diputados que se hallen fuera del salón concurran a votar, y ninguno de aquellos podrá salir de éste mientras la votación se desahogue, exhortando previamente a los comparecientes, en su caso, a retirarse del salón. Asimismo, el Presidente aplicará los ajustes razonables y ayudas técnicas, para la recepción de la votación de los diputados cuando sea necesario.
 
 ###### ARTÍCULO 265.
 
@@ -4242,3 +4292,11 @@ El presente Decreto entrará en vigor al día de su aprobación por el Pleno del
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Gobernador del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 137 POR EL QUE “SE ADICIONA LA SECCIÓN I CON LA DENOMINACIÓN: DE LOS AJUSTES RAZONABLES PARA LA INCLUSIÓN, Y EL ARTÍCULO 2 BIS, AL CAPÍTULO PRIMERO DEL TÍTULO PRIMERO DEL PRIMER LIBRO, Y LA FRACCIÓN XIV AL ARTÍCULO 8; ASIMISMO SE REFORMAN LOS ARTÍCULOS 8 FRACCIONES III, XII Y XIII, 235 TERCER PÁRRAFO; 236 FRACCIÓN II; 241 FRACCIÓN I; 249, 253, 255 Y 264, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación. La Junta de Coordinación Política de este Congreso del Estado, a través de las áreas correspondientes, pondrá a disposición de las presidencias respectivas los programas y herramientas de comunicación necesarias para hacer posible la participación virtual de las diputadas y diputados en sesiones de Pleno, comisiones o comités, convocadas como presenciales.
+
+Segundo. Dése cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
