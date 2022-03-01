@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2021-12-17"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE MARZO DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 1 DE MARZO DE 2022.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -1525,7 +1523,9 @@ XVI. Coadyuvar con las autoridades federales en la aplicación y vigilancia de l
 
 XVII. Coadyuvar en el funcionamiento del organismo público descentralizado denominado Centro de Conciliación Laboral del Estado de Nayarit de conformidad con lo establecido en su Ley Orgánica y las demás disposiciones aplicables;
 
-XVIII. Coordinar y vigilar el debido funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
+> <small>(F. DE E., P.O. 1 DE MARZO DE 2022)</small>
+
+XVIII. Coordinar y vigilar el debido funcionamiento de la Procuraduría de la Defensa del Trabajo;
 
 XIX. Coordinar y vigilar el debido funcionamiento del área administrativa del Trabajo y Previsión Social y ejercer las funciones correspondientes dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia;
 
