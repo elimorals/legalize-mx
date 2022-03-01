@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2021-04-30"
+last_updated: "2022-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -261,13 +261,17 @@ XXI.- Combatir las causas de discriminación y violencia en las diferentes regio
 
 XXII.- Incorporar el desarrollo personal y social de los estudiantes como parte integral del currículo, con especial énfasis en el desarrollo y fortalecimiento de las habilidades socioemocionales del educando que les permitan ser felices, tener determinación, ser perseverantes y resilientes, es decir, que puedan lidiar y adaptarse a nuevas situaciones, y ser creativos, reconocer sus propias emociones y para expresarlas, autorregularlas y saber cómo influyen en sus relaciones y su proceso educativo;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2022)</small>
 
-XXIII.- Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones, y
+XXIII.- Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2022)</small>
 
-XXIV.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Federal, la Ley General, la presente Ley y demás ordenamientos legales que resulten aplicables.
+XXIV.- La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE MARZO DE 2022)</small>
+
+XXV.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Federal, la Ley General y la presente Ley y demás ordenamientos legales que resulten aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -483,11 +487,17 @@ Para la elaboración de los protocolos de prevención, detección y actuación a
 
 Las autoridades competentes seleccionarán los medios pertinentes para la publicación y difusión de los protocolos.
 
-La elaboración, programación y publicación de la información generada por dichos protocolos de prevención, detección y actuación ante una conducta suicida se realizarán en un marco de respeto a los derechos humanos, a los derechos de niñas, niños y adolescentes, considerando valores éticos y morales, así como garantizando el adecuado tratamiento de la información de conformidad con las normas en materia de transparencia y protección de datos personales, y
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 30 DE ABRIL DE 2021)</small>
+La elaboración, programación y publicación de la información generada por dichos protocolos de prevención , detección y actuación ante una conducta suicida se realizarán en un marco de respeto a los derechos humanos, a los derechos de niñas, niños y adolescentes, considerando valores éticos y morales, así como garantizando el adecuado tratamiento de la información de conformidad con las normas en materia de transparencia y protección de datos personales;
 
-XLIII.- Las demás que fijen las leyes o normas aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2022)</small>
+
+XLIII.- Promover y fortalecer en el ámbito de sus competencias la educación financiera a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos, principios, elementos y procesos de emprendimiento, el ahorro y la inversión, que propicien el desarrollo económico y la calidad de vida de los habitantes del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2022)</small>
+
+XLIV.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1830,3 +1840,9 @@ SEGUNDO.- La autoridad educativa estatal en colaboración con los Servicios de S
 TERCERO.- Una vez publicados los protocolos señalados en el transitorio que antecede, la autoridad educativa estatal en colaboración con los Servicios de Salud de Nayarit, capacitarán a las personas involucradas en la implementación de los mismos, considerando como parte de la capacitación, el respeto a los derechos humanos, a los derechos de niñas, niños y adolescentes y la protección de datos personales, en atención a las disposiciones legales aplicables.
 
 CUARTO.- Comuníquese el presente Decreto a la Secretaría de Educación del Estado, para los efectos legales conducentes.
+
+P.O. 1 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE PROMOCIÓN DEL EMPRENDIMIENTO, EL FOMENTO DE LA CULTURA DEL AHORRO Y LA EDUCACIÓN FINANCIERA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
