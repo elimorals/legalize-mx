@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2021-07-14"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -839,9 +839,21 @@ II.- Vigilancia y cuidados de la madre y el producto de la gestación, desde la 
 
 III.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
 
-IV.- Atención integral del adolescente, con énfasis en la prevención y control de riesgos, daños a su salud y desarrollo de estilos de vida saludable; y
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2022)</small>
 
-V.- Promoción de la integración y del bienestar familiar, sustentado en la participación y compromiso de todos sus miembros.
+IV.- Atención integral del adolescente, con énfasis en la prevención y control de riesgos, daños a su salud y desarrollo de estilos de vida saludable;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2022)</small>
+
+V.- Promoción de la integración y del bienestar familiar, sustentado en la participación y compromiso de todos sus miembros;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2022)</small>
+
+VI.- Promoción de la aplicación de las pruebas de tamiz a los recién nacidos con el fin de detectar desordenes metabólicos que atendiéndose oportunamente pueden corregirse para evitar algún tipo de discapacidad; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2022)</small>
+
+VII.- La atención y acompañamiento psicológico a la mujer antes, durante y después del parto, así como cuando acontezca una muerte fetal o neonatal.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -3760,3 +3772,19 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-120 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V, Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 29 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-128 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 29 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
