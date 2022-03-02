@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2021-09-30"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1037,9 +1037,13 @@ XV.- De Desarrollo Económico
 
 XVI.- De Grupos Vulnerables.
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2022)</small>
+
+XVII.- De Derechos Humanos.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
 
-XVII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+XVIII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -6494,6 +6498,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-831 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 138, Y SE ADICIONA UN PÁRRAFO SEGUNDO, AL INCISO A), DE LA FRACCIÓN XIV, DEL ARTÍCULO 51 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-127 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE LA ACTUAL PARA SER XVIII AL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
