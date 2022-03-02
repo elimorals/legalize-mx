@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2021-10-23"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3515,6 +3515,12 @@ I. Indebidamente niegue o retarde a los particulares la protección, el auxilio 
 
 II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste el auxilio, se niegue indebidamente a proporcionarlo.
 
+> <small>(ADICIONADO, P.O. 2 MARZO DE 2022)</small>
+
+###### Artículo 264 Bis.
+
+Se impondrá prisión de uno a seis años, al servidor público que, durante la investigación de un delito cometido en contra de una mujer por su condición de género, indebidamente niegue o retarde la aplicación de alguna medida de protección.
+
 ### CAPÍTULO X. COHECHO
 
 ###### Artículo 265.
@@ -3816,6 +3822,10 @@ VII. Se abstenga de iniciar investigación cuando sea puesto a su disposición u
 VIII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley; o
 
 IX. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2022)</small>
+
+X. Dé a conocer a quien no tenga derecho, documentos, constancias o información que obre en una investigación o proceso penal y que por disposición de la ley sean reservados o confidenciales.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
@@ -5666,3 +5676,11 @@ P.O. 23 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/1069/2021 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0198/2022 II P.E., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 264 BIS; Y AL ARTÍCULO 288, LA FRACCIÓN X, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
