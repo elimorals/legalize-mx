@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-02-22"
+last_updated: "2022-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1217,7 +1217,7 @@ II.- POR TABACOS LABRADOS, SE ENTIENDE LO SIGUIENTE:
 
 4) PRODUCTO DEL TABACO: ES CUALQUIER SUSTANCIA O BIEN MANUFACTURADO PREPARADO TOTAL O EN PARTE UTILIZANDO COMO MATERIA PRIMA HOJAS DE TABACO Y DESTINADO A SER FUMADO, CHUPADO, MASCADO O UTILIZADO COMO RAPÉ.
 
-5) TABACO: LA PLANTA “NICOTINA TABACUM” Y SUS SUCEDÁNEOS, EN SU FORMA NATURAL O MODIFICADA, EN LAS DIFERENTES PRESENTACIONES, QUE SE UTILICEN PARA SER FUMADO, CHUPADO, MASCADO O UTILIZADO COMO RAPÉ.
+5) TABACO: LA PLANTA "NICOTINA TABACUM" Y SUS SUCEDÁNEOS, EN SU FORMA NATURAL O MODIFICADA, EN LAS DIFERENTES PRESENTACIONES, QUE SE UTILICEN PARA SER FUMADO, CHUPADO, MASCADO O UTILIZADO COMO RAPÉ.
 
 III.- Venta final. La que realice cualquiera persona física o moral de los bienes a que se refiere éste artículo, el último adquirente, para su consumo o posterior comercialización.
 
@@ -2585,7 +2585,9 @@ Se exime del pago de los derechos previstos en el artículo anterior, en los sig
 
 I. De un 50 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado;
 
-II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado; y
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2022)</small>
+
+II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2609,9 +2611,13 @@ b).- En el caso de personas morales:
 
 Asimismo, se podrá otorgar placas con identificación de "discapacidad" sin aplicar la exención a que se refiere esta fracción, siendo efectivo su pago normal, en los casos en que la persona propietaria del vehículo no sea la persona discapacitada, así como a vehículos a nombre de sociedad o asociación que cuente con adaptaciones para el traslado de su personal laboral con discapacidad motora y neuromotora permanente y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis, y cumplan con la normatividad que para ese efecto establece el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2022)</small>
 
-En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de "discapacidad" siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
+En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de "discapacidad" siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2022)</small>
+
+IV. De un 50 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos eléctricos o híbridos adquiridos en el Estado, cuyos propietarios estén domiciliados en la entidad.
 
 ### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
 
@@ -4274,3 +4280,11 @@ El presente Decreto entrará en vigor el primero de enero de 2022, previa public
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 2 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-126 DECRETO MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III, INCISO B), NUMERAL 3, ÚLTIMO PÁRRAFO; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 74 A LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
