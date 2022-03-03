@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-registro-civil-del-estado-de-yucatan-92396"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-19"
-last_updated: "2021-06-23"
+last_updated: "2022-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE MARZO DE 2022.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 19 de febrero de 2013.
 
@@ -265,7 +265,9 @@ I.- El día, hora y lugar de nacimiento;
 
 II.- El sexo del presentado, así como el nombre y apellidos que habrá de llevar;
 
-III.- El nombre, apellidos, domicilio y nacionalidad de los progenitores y abuelos tanto paternos como maternos, y
+> <small>(REFORMADA, D.O. 3 DE MARZO DE 2022)</small>
+
+III.- El nombre, apellidos, domicilio y nacionalidad de los ascendientes en primer y segundo grado, y
 
 IV.- La huella digital del presentado.
 
@@ -307,7 +309,9 @@ Personas obligadas a dar el aviso del nacimiento
 
 El aviso de nacimiento deberá hacerse ante el Oficial correspondiente dentro de los 45 días de ocurrido. Están obligadas a dar el aviso de nacimiento las personas siguientes:
 
-I.- El padre o la madre;
+> <small>(REFORMADA, D.O. 3 DE MARZO DE 2022)</small>
+
+I.- Cualquiera de los progenitores;
 
 II.- Los médicos o cualesquiera otras personas que hubiesen asistido al parto; y
 
@@ -653,7 +657,9 @@ Anotación en las actas de nacimiento de los contrayentes
 
 El Oficial, al elaborar el acta de matrimonio, deberá anotar respectivamente en las actas de nacimiento de ambos contrayentes lo siguiente:
 
-I.- El nombre de la persona con la que el registrado contrajo matrimonio;
+> <small>(REFORMADA, D.O. 3 DE MARZO DE 2022)</small>
+
+I.- El nombre de la persona con la que el registrado o la registrada contrajo matrimonio;
 
 II.- El número de acta de matrimonio;
 
@@ -1666,3 +1672,15 @@ Los recursos humanos, materiales, financieros y presupuestales con que cuenta la
 Décimo noveno. Previsiones presupuestales
 
 El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+D.O. 3 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 475/2022 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, EN MATERIA DE NUEVOS ESTADOS DE FAMILIA”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación tácita
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
