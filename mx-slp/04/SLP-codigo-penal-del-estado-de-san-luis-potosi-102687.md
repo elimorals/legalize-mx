@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2021-09-13"
+last_updated: "2022-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -4031,13 +4031,21 @@ Cuando en la comisión de un delito previsto en los capítulos I a III de este T
 
 Comete el delito de maltrato animal, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos y/o silvestres, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte; así como quien realice actos sádicos o zoofílicos, o de exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin, contra cualquier animal doméstico y/o silvestre, ya sea por acción directa, omisión o negligencia. Este delito se sancionará con las siguientes penas:
 
-I. Cuando el maltrato implique lesiones mínimas, que no produzca un menoscabo físico permanente, se impondrá pena de cuatro a nueve meses de prisión, y sanción pecuniaria de veinte a cien días del valor de la unidad de medida de actualización vigente; e inhabilitación hasta por un año para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2022)</small>
 
-II. Cuando el maltrato implique lesiones que produzcan un menoscabo físico permanente, se impondrá pena de nueve a dieciocho meses de prisión, y sanción pecuniaria de ciento cincuenta a trescientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por dos años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
+I. Cuando el maltrato implique lesiones mínimas, que no produzca un menoscabo físico permanente, se impondrá pena de cinco a doce meses de prisión, y sanción pecuniaria de treinta a ciento treinta días del valor de la unidad de medida de actualización vigente; e inhabilitación hasta por un año para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
 
-III. Cuando el maltrato produzca la muerte, se impondrá pena de dieciocho meses a tres años de prisión, y sanción pecuniaria de doscientos cincuenta a quinientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales, y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2022)</small>
 
-IV. Cuando el maltrato consista en actos sádicos o zoofílicos, o de exposición a condiciones de sobreexplotación de su capacidad física, se impondrá pena de dos a cuatro años de prisión, y sanción pecuniaria de trescientos a quinientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por cinco años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales.
+II. Cuando el maltrato implique lesiones que produzcan un menoscabo físico permanente, se impondrá pena de doce a veinticuatro meses de prisión, y sanción pecuniaria de doscientos a cuatrocientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por dos años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2022)</small>
+
+III. Cuando el maltrato produzca la muerte, se impondrá pena de veinticuatro meses a cinco años de prisión, y sanción pecuniaria de trescientos a seiscientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de los animales, y
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2022)</small>
+
+IV. Cuando el maltrato consista en actos sádicos o zoofílicos, o de exposición a condiciones de sobreexplotación de su capacidad física, se impondrá pena de tres a cinco años de prisión, y sanción pecuniaria de cuatrocientos a seiscientos cincuenta días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por cinco años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales.
 
 Para los efectos de este artículo se entiende por animal doméstico, a aquél que se ha adaptado a vivir y convivir con las personas.
 
@@ -5724,5 +5732,13 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1262.- SE REFORMA EL ARTÍCULO 218 EN SUS FRACCIONES XVI Y XVII; Y ADICIONA AL MISMO ARTÍCULO 218 LA FRACCIÓN XVIII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0275.- SE REFORMA EL ARTÍCULO 317 EN SUS FRACCIONES I A IV, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
