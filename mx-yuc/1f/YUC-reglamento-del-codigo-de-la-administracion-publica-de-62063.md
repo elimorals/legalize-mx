@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2021-10-22"
+last_updated: "2022-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE MARZO DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1029,21 +1029,15 @@ f) Dirección del Centro de Reinserción Social Femenil, y
 
 g) Dirección de Servicios Postpenales.
 
-II. Subsecretaría de Gobierno y Desarrollo Político:
+> <small>(REFORMADA, D.O. 3 DE MARZO DE 2022)</small>
 
-a) (DEROGADO, D.O. 12 DE FEBRERO DE 2019)
+II. Subsecretaría de Gobierno y Desarrollo Político.
 
-b) (DEROGADO, D.O. 12 DE FEBRERO DE 2019)
+> <small>(ADICIONADA, D.O. 3 DE MARZO DE 2022)</small>
 
-c) (DEROGADO, D.O. 12 DE FEBRERO DE 2019)
+III. Subsecretaría de Asuntos Agrarios.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
-
-d) Dirección de Asuntos Agrarios.
-
-e) (DEROGADO, D.O. 1 DE ENERO DE 2013)
-
-III. Subsecretaría de Desarrollo Social y Asuntos Religiosos:
+IV. Subsecretaría de Desarrollo Social y Asuntos Religiosos:
 
 > <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -1063,13 +1057,13 @@ d) Dirección de Fomento y Desarrollo Político.
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
-IV. Dirección de Administración;
+V. Dirección de Administración;
 
-V. (DEROGADA, D.O. 12 DE FEBRERO DE 2019)
+VI. (DEROGADA, D.O. 12 DE FEBRERO DE 2019)
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 12 DE FEBRERO DE 2019)</small>
 
-VI. Dirección General Jurídica y de Gobierno:
+VII. Dirección General Jurídica y de Gobierno:
 
 a) Dirección de Enlace Institucional;
 
@@ -1303,9 +1297,7 @@ VI. Auxiliar al Secretario General de Gobierno en la coordinación de los esfuer
 
 VII. Fungir como vínculo entre la Secretaría General y las organizaciones civiles dedicadas a la promoción y defensa de los derechos humanos, así como atender y, en su caso, remitir a las instancias competentes, las peticiones que éstas le formulen;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VIII. Formular planes y programas, en materia agraria, competencia de la Secretaría General y establecer contacto permanente con ejidatarios, campesinos, comuneros y cooperativistas, a fin de conocer sus problemas y, en su caso, proponer soluciones a los mismos en vía administrativa;
+VIII. (DEROGADA, D.O. 3 DE MARZO DE 2022)
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -1333,23 +1325,7 @@ XI. Las demás que le encomienden otras disposiciones normativas aplicables.
 
 ###### Artículo 50.
 
-Al Director de Asuntos Agrarios le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-I. Formular y ejecutar programas y proyectos en materia agraria que sean competencia de la Secretaría General, en coordinación con las instancias del sector agrario;
-
-II. Establecer contacto permanente con los núcleos agrarios, tanto con los sujetos al régimen ejidal como con los del régimen comunal, y con los integrantes de las sociedades rurales y cooperativas con fines agropecuarios;
-
-III. Proponer soluciones por la vía administrativa a los problemas que se presenten entre ejidos, comunidades, ejidatarios, comuneros, avecindados, posesionarios, pequeños propietarios y jornaleros agrícolas;
-
-IV. Proporcionar asesoría jurídica en la materia a los integrantes de los núcleos agrarios ejidales, comunales, pequeños propietarios, avecindados, jornaleros agrícolas y productores rurales;
-
-V. Apoyar a las personas mencionadas en las fracciones anteriores y, en su caso, representarlas ante las autoridades agrarias u órganos jurisdiccionales;
-
-VI. Proporcionar asesoría técnica en materia de topografía a los núcleos agrarios y sujetos a que se refieren las fracciones anteriores, y
-
-VII. Las demás que le confieran las leyes agrarias y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 3 DE MARZO DE 2022)
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1362,6 +1338,28 @@ El Instituto de Desarrollo Regional y Municipal tendrá las atribuciones que le 
 ###### Artículo 51 Bis.
 
 La Representación del Gobierno del Estado de Yucatán en la Ciudad de México tendrá las atribuciones que le confieren su decreto de regulación y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 3 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Ter.
+
+Al Subsecretario de Asuntos Agrarios le corresponde el despacho de los siguientes asuntos:
+
+I. Presentar, para la aprobación del Secretario General de Gobierno, y ejecutar, en su caso, y en coordinación con las instancias del sector agrario competentes, programas y proyectos en materia agraria para el beneficio de los ejidos de Yucatán;
+
+II. Establecer contacto permanente con los núcleos agrarios, tanto con los sujetos al régimen ejidal como con los sujetos al régimen comunal, y con los integrantes de las sociedades rurales y cooperativas con fines agropecuarios;
+
+III. Asesorar a los núcleos agrarios para el acceso a fuentes de financiamiento nacionales e internacionales, públicas o privadas, que permitan la implementación de proyectos que incentiven la economía de los ejidos del estado;
+
+IV. Proponer medidas administrativas para atender los problemas que se presenten entre ejidos, ejidatarios, comunidades, comuneros, avecindados, posesionarios, pequeños propietarios y jornaleros agrícolas;
+
+V. Proporcionar asesoría jurídica en materia agraria a los integrantes de los núcleos agrarios ejidales y comunales, así como a avecindados, posesionarios, productores rurales, pequeños propietarios y jornaleros agrícolas;
+
+VI. Brindar apoyo y, en su caso, representación ante las autoridades agrarias o los órganos jurisdiccionales competentes a los núcleos agrarios, los grupos y las personas a que se refieren las fracciones anteriores de este artículo;
+
+VII. Otorgar asesoría técnica en materia de topografía a los núcleos agrarios, los grupos y las personas a que se refieren las fracciones anteriores de este artículo, y
+
+VIII. Las demás que le confieran las leyes agrarias y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 52.
 
@@ -14936,3 +14934,15 @@ Segundo. Adecuaciones presupuestales y administrativas
 La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales necesarias para formalizar las modificaciones orgánicas efectuadas en las dependencias de la Administración Pública estatal como resultado de este decreto.
 
 Por su parte, estas dependencias contarán con un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto, para iniciar ante las autoridades competentes los trámites administrativos que sean necesarios para formalizar las modificaciones orgánicas efectuadas en virtud de este decreto.
+
+D.O. 3 DE MARZO DE 2022.
+
+> <small>[N. DE E. TRANSITOROS DEL "DECRETO 476/2022 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA GENERAL DE GOBIERNO".]</small>
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas en la Secretaría General de Gobierno como resultado de este decreto.
