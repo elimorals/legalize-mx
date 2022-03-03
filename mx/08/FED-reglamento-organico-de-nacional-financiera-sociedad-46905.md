@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-nacional-financiera-sociedad-46905"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2021-02-18"
+last_updated: "2022-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,11 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2022.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
-
-> <small>N. DE E. EL ACUERDO NÚMERO 15/2015 MEDIANTE EL CUAL SE MODIFICA INTEGRALMENTE EL REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, PUBLICADO EN EL D.O.F. DE 25 DE AGOSTO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 REGLAMENTO ORGANICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
 
@@ -101,15 +99,15 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPÍTULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 7o.
 
-El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $3,000'000,000.00 (TRES MIL MILLONES DE PESOS 00/100 M.N.).
+El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $4,500’000,000.00 (CUATRO MIL QUINIENTOS MILLONES DE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2022)</small>
 
-Dicho capital social estará representado por 39'600,000 (TREINTA Y NUEVE MILLONES SEISCIENTOS MIL) certificados de aportación patrimonial de la serie "A" con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno y por 20'400,000 (VEINTE MILLONES CUATROCIENTOS MIL) certificados de aportación patrimonial de la serie "B", con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno.
+Dicho capital social estará representado por 59,400,000 (CINCUENTA Y NUEVE MILLONES CUATROCIENTOS MIL) certificados de aportación patrimonial de la serie "A" con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno y por 30,600,000 (TREINTA MILLONES SEISCIENTOS MIL) certificados de aportación patrimonial de la serie "B", con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -574,6 +572,26 @@ El presente Acuerdo entra en vigor el día siguiente de su publicación en el Di
 ###### ARTÍCULO SEGUNDO.
 
 El capital social pagado de la institución a la vigencia del presente Acuerdo ascenderá a la suma de $2,626’483,250.00 (dos mil seiscientos veintiséis millones cuatrocientos ochenta y tres mil doscientos cincuenta pesos 00/100 M.N.), el cual estará representado por 52,529,665 certificados de aportación patrimonial (CAPs) a su valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
+
+###### ARTÍCULO TERCERO.
+
+Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
+
+D.O.F. 3 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO 31 /2022 POR EL CUAL SE MODIFICA EL ARTÍCULO 7O., PÁRRAFOS PRIMERO Y SEGUNDO DEL REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, A EFECTO DE AUMENTAR EL CAPITAL SOCIAL DE LA MISMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entra en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El capital social pagado de la institución a la vigencia del presente Acuerdo ascenderá a la suma de $3,108,161,000.00 (tres mil ciento ocho millones ciento sesenta y un mil pesos 00/100 M.N.), el cual estará representado por 62,163,220 certificados de aportación patrimonial (CAPs) a su valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno, de los cuales corresponden 41,027,725 CAPs de la serie “A” (66%), con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno, y 21,135,495 CAPs de la serie “B” (34%), con un valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
 
 ###### ARTÍCULO TERCERO.
 
