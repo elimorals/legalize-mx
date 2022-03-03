@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2021-09-30"
+last_updated: "2022-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE MARZO DE 2022.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -35,7 +35,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:.
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 Por todo lo expuesto y fundado, los integrantes de esta Comisión Permanente de Justicia y Seguridad Pública, consideramos viable aprobar el Código de Familia para el Estado de Yucatán, por todos los razonamientos expuestos y vertidos en este dictamen. En tal virtud con fundamento en el artículo 30 fracción V de la Constitución Política; 18 y 43 fracción III de la Ley de Gobierno del Poder Legislativo, y 71 fracción I, 74, 82 fracción VII, y 88 del Reglamento de la Ley de Gobierno del Poder legislativo, todas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -135,11 +137,13 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 
 Los jueces deben dar vista a la Procuraduría de los asuntos en que pudieren verse afectados los derechos de las niñas, niños o adolescentes o de personas incapaces, para que la Procuraduría, en caso de estimarlo necesario, las represente.
 
-Derecho a la igualdad entre hombre y mujer
+> <small>(REFORMADO, D.O. 3 DE MARZO DE 2022)</small>
+
+Derecho a la Igualdad entre las Personas
 
 ###### Artículo 10.
 
-El hombre y la mujer son iguales ante la ley, por lo que de común acuerdo decidirán todo lo relativo a la integración de una familia y a la administración de sus bienes.
+Las personas son iguales ante la ley, por lo que de común acuerdo decidirán todo lo relativo a la integración de una familia y a la administración de sus bienes.
 
 Derecho a la igualdad de los hijos o hijas
 
@@ -449,11 +453,13 @@ III. No se haya declarado la exclusión de la paternidad.
 
 ### CAPÍTULO I. Disposiciones Generales
 
-Naturaleza del matrimonio
+> <small>(REFORMADO, D.O. 3 DE MARZO DE 2022)</small>
+
+Naturaleza del Matrimonio
 
 ###### Artículo 49.
 
-El matrimonio es una institución por medio de la cual se establece la unión voluntaria y jurídica de un hombre y una mujer, con igualdad de derechos, deberes y obligaciones, con la posibilidad de generar la reproducción humana de manera libre, responsable e informada.
+El matrimonio es una institución jurídica por medio de la cual se establece la unión libre y voluntaria de dos personas, con igualdad de derechos, deberes y obligaciones, para realizar la comunidad de vida, en donde ambos se procuran respeto y ayuda mutua.
 
 Solemnidad del matrimonio
 
@@ -1737,11 +1743,13 @@ En la resolución se deben fijar las bases para actualizar la pensión y las gar
 
 ### CAPÍTULO I. Disposiciones Generales
 
-Concepto de concubinato
+> <small>(REFORMADO, D.O. 3 DE MARZO DE 2022)</small>
+
+Concepto de Concubinato
 
 ###### Artículo 201.
 
-El concubinato es la unión de un hombre y una mujer quienes, libres de matrimonio, hacen vida en común de manera notoria, permanente, han procreado hijos o hijas o han vivido públicamente como marido y mujer durante dos años continuos o más.
+El concubinato es la unión de dos personas quienes, libres de matrimonio, hacen vida en común de manera notoria, permanente, hayan o no procreado hijos o hijas o han vivido públicamente como cónyuges durante dos años continuos o más.
 
 Nacimiento jurídico del concubinato
 
@@ -7670,3 +7678,15 @@ D.O. 30 DE SEPTIEMBRE DE 2021.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 3 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 475/2022 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, EN MATERIA DE NUEVOS ESTADOS DE FAMILIA”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación tácita
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
