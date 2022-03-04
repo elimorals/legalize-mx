@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2020-04-30"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1025,7 +1025,9 @@ Cuando en los servicios de hospedaje, se incluyan servicios accesorios tales com
 
 Este impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa que al efecto señale la Ley de Ingresos del Estado.
 
-Este impuesto será destinado para la promoción y difusión de la actividad turística del Estado, en la forma y términos que se establezca anualmente en la Ley de Ingresos del Estado, y será determinado por el Ejecutivo Estatal, a través de la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Este impuesto será destinado en la forma y términos que se establezca (sic) en la Ley de Ingresos del Estado vigente, y será determinado por el Ejecutivo Estatal, a través de la Secretaría de Hacienda.
 
 Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de intermediarios, con agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo, incluyendo promotores y facilitadores, con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
 
@@ -1467,19 +1469,13 @@ Si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentr
 
 15.- Son sujetos del impuesto las personas físicas y morales que se encuentran domiciliadas en el Estado, o tengan en éste agencias, sucursales o representación y realicen los pagos por remuneración al trabajo personal prestado bajo la dirección y dependencia de un tercero. Así como las personas que no se encuentren domiciliados en el Estado, ni tengan en éste agencias, sucursales o representación y realicen pagos por remuneraciones al trabajo a personas que presten sus servicios de carácter personal en el Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 151
 
-16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los períodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo período obtengan fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
+16.- Este impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los periodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo periodo obtengan fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
 
-De los ingresos totales que se obtengan por concepto de recaudación de este Impuesto se destinará el 5% al fideicomiso empresarial del Estado, el cual tendrá como objetivos:
-
-a) Apoyar la Seguridad Pública en el Estado;
-
-b) Fomentar la Participación Social en la Educación; y
-
-c) Fortalecer las Comisiones y Consejos de Desarrollo Económico.
+La cantidad destinada por concepto de recaudación de este impuesto, así como los objetivos del mismo, se regularán por las disposiciones que al efecto señala la Ley de Ingresos del Estado de Baja California vigente.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
@@ -2587,6 +2583,58 @@ II. Entregar una copia del acta o documento constitutivo, así como los datos de
 
 III. Conservar la documentación relacionada con las cantidades calculadas de las tarifas efectivamente cobradas de este impuesto, por un plazo no menor a cinco años.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2022)</small>
+
+### CAPITULO XXIV. IMPUESTO AMBIENTAL SOBRE LA EXTRACCIÓN Y APROVECHAMIENTO DE MATERIALES PETREOS
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### ARTICULO 156
+
+55.- Es objeto de este impuesto, la extracción y aprovechamiento de Material pétreo que se realice en el Estado, incluyendo en (sic) el régimen de propiedad privada o ejidal.
+
+Para efectos de este impuesto se considerarán materiales pétreos, los minerales o sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, como pueden ser la arena, arcilla, limos, materiales en greña, grava, las rocas o demás productos de su descomposición.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### ARTICULO 156
+
+56.- Son sujetos de este impuesto las personas físicas o morales, que con fines de lucro, realicen las actividades señaladas en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### ARTICULO 156
+
+57.- La base del impuesto será el volumen mensual determinado en metros cúbicos, de extracción y aprovechamiento de material pétreo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### ARTICULO 156
+
+58.- La cuota a enterar por concepto del presente impuesto será la que se establezca para tal efecto en la Ley de Ingresos del Estado de Baja California vigente.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### ARTICULO 156
+
+59.- El impuesto se pagará mensualmente ante las oficinas de la Recaudación de Rentas del Estado, mediante las formas aprobadas por la Secretaría de Hacienda, dentro de los cinco primeros días del mes siguiente al de la extracción y aprovechamiento.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### ARTICULO 156
+
+60.-Son obligaciones a cargo de los sujetos de este impuesto, además de las señaladas en los ordenamientos fiscales estatales, las siguientes:
+
+a) Registrarse como sujeto de este impuesto ante la Recaudación de Rentas del Estado cuya jurisdicción corresponda a su domicilio fiscal.
+
+b) Contar con la autorización en materia de impacto ambiental otorgada por la Secretaría de Medio Ambiente y Desarrollo Sustentable, para la explotación y aprovechamiento de materiales pétreos, en términos de las disposiciones legales aplicables.
+
+Para efectos del presente capítulo, se presume que la persona física o moral que cuenta con la autorización referida en este inciso es quien realiza la extracción y aprovechamiento de materiales pétreos.
+
+c) Llevar un registro diario de los volúmenes extraídos en el formato que para tal efecto autorice y expida la Secretaría de Medio Ambiente y Desarrollo Sustentable, el cual deberá conservarse en los términos que ésta determine mediante disposiciones de carácter general.
+
+d) Presentar declaración mensual de pago en los términos del presente artículo anexando para tal efecto, el registro a que se refiere el inciso c).
+
 ## TITULO III. DERECHOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
@@ -3634,3 +3682,11 @@ P.O. 30 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 84 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 130 Y 151-16; SE ADICIONAN UN CAPÍTULO XXIV EN EL TÍTULO SEGUNDO, DENOMINADO IMPUESTO AMBIENTAL SOBRE LA EXTRACCIÓN Y APROVECHAMIENTO DE MATERIALES PÉTREOS, ASÍ COMO LOS ARTÍCULOS 156-55, 155-56 (SIC), 156-57, 156-58, 156-59 Y 156-60, DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Secretaría de Hacienda realizará las acciones administrativas pertinentes para efecto de elaborar los formatos institucionales a través de los cuales los sujetos obligados enterarán los impuestos previstos en la presente reforma.
