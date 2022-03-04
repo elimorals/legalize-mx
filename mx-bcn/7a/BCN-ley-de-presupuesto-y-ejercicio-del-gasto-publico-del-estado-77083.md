@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2021-11-02"
+last_updated: "2022-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -1065,7 +1065,9 @@ b. Programas y proyectos de inversión; e
 
 c. Indicadores de resultados.
 
-La información correspondiente al cuarto trimestre del ejercicio de que se trate, deberá enviarse junto con la Cuenta Pública, a más tardar el último día hábil del mes de marzo del año posterior al que corresponda la Cuenta Publica Anual.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+La información concerniente al cuarto trimestre del ejercicio de que se trate, deberá enviarse junto con la Cuenta Pública, a más tardar el treinta de abril del año siguiente del ejercicio fiscal correspondiente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
@@ -1476,3 +1478,9 @@ P.O. 2 DE NOVIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 85 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 82 FRACCIÓN I, ÚLTIMO PÁRRAFO, DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
