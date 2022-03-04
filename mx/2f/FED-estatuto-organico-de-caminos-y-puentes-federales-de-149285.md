@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-149285"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-04-30"
-last_updated: "2021-04-30"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149285&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-04-19"
 
 ESTATUTO ORGÁNICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2022.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 30 de abril de 2021.
 
@@ -357,9 +357,11 @@ XLIII. Disponer de los activos fijos del Organismo que no sean útiles o necesar
 
 XLIV. Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
 
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 23.
 
-Son indelegables las atribuciones y facultades de la Dirección General señaladas en las fracciones VI, VIII, XXIII, XXV, XXVII, XXVIII, XLIII y XLIV, del artículo anterior.
+Son indelegables las atribuciones y facultades de la Dirección General señaladas en las fracciones VI, VIII, XXIII, XXV, XXVII, XXIX y XLIII, del artículo anterior.
 
 ## TÍTULO CUARTO. DE ÓRGANOS DE DIRECCIÓN Y PERSONAL DE MANDO
 
@@ -547,6 +549,8 @@ En caso de que las actividades que deban desarrollar requieran la representació
 
 ### Capítulo Primero. De la Estructura Básica
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
+
 ###### Artículo 32.
 
 La estructura orgánica básica de CAPUFE tendrá las unidades administrativas siguientes:
@@ -555,11 +559,15 @@ I. Dirección General.
 
 II. Dirección de Operación:
 
-II.1. Subdirección de Operación y Supervisión
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+II.1. Subdirección de Operación, Supervisión y Conservación
 
 II.2. Subdirección de Servicios al Usuario
 
-II.3 Subdirección de Conservación de Plazas de Cobro
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+II.3 Subdirección de Sistemas Electrónicos de Peaje
 
 III. Dirección Técnica
 
@@ -571,6 +579,8 @@ III.3. Subdirección de Estudios y Proyectos
 
 III.4. Subdirección de Derecho de Vía y Patrimonio
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE MARZO DE 2022)
+
 IV. Dirección Jurídica:
 
 IV.1. Subdirección Jurídica Consultiva
@@ -581,7 +591,9 @@ V. Dirección de Administración y Finanzas:
 
 V.1. Subdirección de Recursos Materiales y Servicios Generales
 
-V.2. Subdirección de Recursos Humanos y Desarrollo Organizacional
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+V.2. Subdirección de Capital Humano y Desarrollo Organizacional
 
 V.3. Subdirección de Finanzas
 
@@ -605,6 +617,8 @@ Adicionalmente se apoyará con los Comités, Subcomités Técnicos Especializado
 
 Caminos y Puentes Federales de Ingresos y Servicios Conexos contará con un Órgano Interno de Control, que se regirá conforme al artículo 70 de este Estatuto.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
+
 ###### Artículo 33.
 
 La Dirección de Operación, además de las facultades comunes a que se refiere el artículo 27 y las específicas del artículo 29, tendrá asignadas las siguientes funciones:
@@ -623,7 +637,9 @@ VI. Definir mecanismos para la supervisión de la operación, por parte de las U
 
 VII. Asegurar el adecuado funcionamiento, operación y mantenimiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia, asistencia médica prehospitalaria, medios de contacto con las personas usuarias, atención a residentes y pago por recorrido;
 
-VIII. Asegurar la aplicación de las tarifas autorizadas para el cruce en las plazas de cobro;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+VIII. Asegurar la aplicación de las tarifas autorizadas para el cruce en las plazas de cobro en todas las modalidades de pago;
 
 IX. Informar a las áreas correspondientes del Organismo sobre el aforo e ingreso en las plazas de cobro;
 
@@ -636,6 +652,10 @@ XII. Establecer mecanismos de comunicación con las personas usuarias de la Red 
 XIII. Coordinar la capacitación para la operación de las plazas de cobro y la prestación de servicios al usuario con el propósito de desarrollar conocimientos, habilidades y aptitudes en el personal de la Dirección de Operación; y
 
 XIV. Validar y remitir a la Dirección Jurídica, la información necesaria relacionada con actos delictivos u otros de naturaleza similar, acontecidos en las plazas de cobro, con la finalidad de realizar las acciones legales necesarias para la defensa jurídica del Organismo.
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XV. Implementar y administrar los sistemas electrónicos de pago, con el objeto de disminuir el uso de dinero en efectivo en las plazas de cobro.
 
 ###### Artículo 34.
 
@@ -679,11 +699,15 @@ XVIII. Establecer mecanismos para la conservación del medio ambiente y protecci
 
 XIX. Evaluar técnicamente las obras de conservación, construcción y reconstrucción de los inmuebles que forman parte de la infraestructura carretera incluyendo el derecho de vía y patrimonial.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
+
 ###### Artículo 35.
 
 La Dirección Jurídica, además de las facultades comunes a que se refiere el artículo 27 y específicas del artículo 29, tendrá asignadas las siguientes funciones:
 
-I. Representar legalmente al Organismo en los asuntos contenciosos en que sea parte, intervenir en toda clase de procedimientos judiciales, contenciosos administrativos y agrarios en el ámbito de competencia del mismo, ante cualquier autoridad jurisdiccional o administrativa, y disponer lo conducente para que los servidores públicos y unidades administrativas del Organismo, cumplan con las resoluciones legales correspondientes;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+I. Representar legalmente al Organismo en los asuntos contenciosos en que sea parte, intervenir en toda clase de procedimientos administrativos, judiciales, contenciosos administrativos y agrarios en el ámbito de competencia del mismo, ante cualquier autoridad jurisdiccional o administrativa, y disponer lo conducente para que los servidores públicos y Unidades Administrativas del Organismo, cumplan con las resoluciones legales correspondientes;
 
 II. Representar a la Dirección General en los diversos juicios, atendiendo a las excitativas de naturaleza jurídica que se trate;
 
@@ -736,6 +760,8 @@ XXV. Asesorar en materia de patrimonio inmobiliario de la Red Operada del Organi
 XXVI. Rendir los informes a los requerimientos de órganos autónomos de derechos humanos y no gubernamentales; y
 
 XXVII. Revisar las solicitudes de publicación en el Diario Oficial de la Federación de las Unidades Administrativas del Organismo; una vez aprobadas, gestionar su publicación, previa autorización presupuestal de la Dirección de Administración y Finanzas, que emita dentro del ámbito de su competencia.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
 
 ###### Artículo 36.
 
@@ -793,7 +819,9 @@ XXV. Integrar y administrar el padrón de contratistas y proveedores;
 
 XXVI. Establecer políticas en materia del uso responsable y ahorro de recursos, fomentando la sostenibilidad;
 
-XXVII. Implementar y administrar los sistemas electrónicos de pago, con el objeto de disminuir el uso de dinero en efectivo en las plazas de cobro;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXVII. Coordinar el desarrollo, soporte y mantenimiento de aplicaciones y sistemas para procesos sustantivos del Organismo;
 
 XXVIII. Presentar a la Dirección General para su autorización, las normas, y procedimientos específicos relacionados con las adquisiciones, arrendamientos y servicios;
 
@@ -849,25 +877,69 @@ XVI. Asesorar, en coordinación con la Secretaría Técnica, en la formulación 
 
 XVII. Coordinar con la Secretaría Técnica, y previa instrucción de la Dirección General, el desarrollo de mecanismos de seguimiento y evaluación de los programas de trabajo de las Unidades Regionales.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
+
 ###### Artículo 38.
 
 La Secretaría Técnica además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
 
-I. Dirigir el seguimiento de compromisos institucionales, proyectos, actividades y funciones competencia del Organismo, para la atención y apoyo en la toma de decisiones de la Dirección General;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-II. Vigilar el cumplimiento de los acuerdos celebrados por las áreas del Organismo, así como con instituciones y autoridades, con la Dirección General;
+I. Coordinar y dirigir el seguimiento de compromisos institucionales, proyectos, actividades y funciones competencia del Organismo, para la atención y apoyo en la toma de decisiones de la Dirección General;
+
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+II. Coordinar y vigilar el cumplimiento de los acuerdos celebrados por las áreas del Organismo, así como con instituciones y autoridades, con la Dirección General;
 
 III. Supervisar la atención de las solicitudes a las áreas del Organismo sobre requerimientos y proyectos estratégicos de la Dirección General;
 
-IV. Coordinar el seguimiento de los mecanismos de vinculación y cooperación del Organismo y sus Unidades Regionales con representantes o instituciones de gobierno, con base en los lineamientos de la Dirección General;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-V. Supervisar el desempeño integral de las actividades, funciones y servicios a cargo de las Unidades Regionales;
+IV. Supervisar el desempeño integral de las actividades, funciones y servicios a cargo de las Unidades Regionales a fin de cumplir con los objetivos y metas establecidos por la Dirección General;
 
-VI. Coordinar la integración de los programas de trabajo de cada una de las Unidades Regionales, con el objetivo de asegurar su cumplimiento y alineación con el programa institucional y los objetivos y estrategias planteadas por la Dirección General;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-VII. Dirigir el sistema de control de gestión de la Dirección General, así como supervisar los sistemas de seguimiento de asuntos turnados a las áreas; y
+V. Coordinar a las Unidades Regionales, con el propósito de que sus solicitudes, necesidades o requerimientos se canalicen y atiendan oportunamente;
 
-VIII. Coordinar los procesos de incorporación y desincorporación de caminos y puentes de cuota;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+VI. Apoyar en la formulación e integración de los anteproyectos de presupuesto de las Unidades Regionales, de conformidad con las disposiciones de austeridad y disciplina presupuestaria, acorde con los criterios establecidos por la Dirección de Administración y Finanzas;
+
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+VII. Determinar los asuntos legales de relevancia de las Unidades Regionales, cuya atención y defensa esté a cargo de las mismas, y requieran intervención de la Dirección General a fin de evitar daños al Organismo;
+
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+VIII. Proponer conjuntamente con las unidades administrativas centrales, esquemas que impacten en la mejora de los trámites y servicios que prestan las Unidades Regionales, a fin de brindar calidad al usuario, previa autorización de la Dirección General;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+IX. Generar insumos para la Dirección General, que permitan evaluar el desempeño de las Unidades Regionales, con el objeto de dar cabal cumplimiento a las metas establecidas por el Organismo;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+X. Proponer a la Dirección General modificaciones al ámbito territorial y nuevos esquemas de funcionamiento de las Unidades Regionales, derivados de la incorporación y/o desincorporación de tramos carreteros;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XI. Estandarizar la aplicación de la normatividad y criterios referentes a la operación y aspectos técnicos de las Unidades Regionales, en coordinación con las Unidades Administrativas centrales para contribuir a su óptimo funcionamiento;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XII. Asesorar a las Unidades Regionales para que se tomen las medidas preventivas necesarias, a fin de resolver situaciones adversas identificadas en el análisis de su funcionamiento;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XIII. Proponer a la Dirección General, vínculos de cooperación con representantes o instituciones de los órdenes de gobierno federal, estatal y municipal, a fin de asegurar y salvaguardar la integridad de los usuarios en los tramos carreteros;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XIV. Coordinar, por instrucciones de la Dirección General, la elaboración de estudios y proyectos que permitan dar seguimiento a las acciones realizadas por las Unidades Regionales, en el ámbito operativo, técnico, jurídico y administrativo, a fin de optimizar los recursos asignados; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XV. Establecer vinculación entre las Dirección General y las Unidades Regionales referentes a los programas a corto, mediano y largo plazo, a fin de dar cumplimiento a las directrices y metas.
 
 ###### Artículo 39.
 
@@ -893,9 +965,11 @@ IX. Coordinar la realización de estudios para medir el nivel de satisfacción d
 
 X. Establecer mecanismos de comunicación interna con el fin de difundir información relevante del Organismo al personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 40.
 
-La Subdirección de Operación y Supervisión, además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
+La Subdirección de Operación, Supervisión y Conservación además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
 
 I. Proponer procedimientos para la operación de las Plazas de Cobro, Centros de Control y Centros de Liquidación Regional;
 
@@ -941,6 +1015,46 @@ XXI. Elaborar e implementar el programa de protección civil en las Plazas de Co
 
 XXII. Definir las necesidades de capacitación en materia de protección civil y seguridad.
 
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXIII. Proponer procedimientos para la conservación de Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, de servicios de auxilio vial, emergencia y asistencia médica pre hospitalaria de la Red Operada por el Organismo;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXIV. Implementar las estrategias que permitan verificar el cumplimiento de la normatividad en relación con la conservación de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica pre hospitalaria del Organismo;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXV. Coordinar el programa de supervisión para vigilar el cumplimiento de la normatividad en relación con la conservación de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica pre hospitalaria;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXVI. Desarrollar los proyectos de conservación de los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica pre hospitalaria;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXVII. Realizar los trabajos de conservación en los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica pre hospitalaria para mantenerlos en buen estado y conforme a su imagen institucional para su operación;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXVIII. Supervisar los trabajos de conservación en los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica pre hospitalaria;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXIX. Supervisar la administración y operación de la Póliza de Seguro de Obra Civil Terminada;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXX. Verificar la actualización de los permisos necesarios para la conservación, operación y funcionamiento de los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXXI. Identificar las necesidades y requerimientos de conservación de Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios médicos y auxilio vial y, elaborar el programa anual de adquisiciones y el programa anual de conservación, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXXII. Definir las necesidades de capacitación en materia conservación de Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios médicos y auxilio vial.
+
 ###### Artículo 41.
 
 La Subdirección de Servicios al Usuario además de las facultades comunes a que se refiere el artículo 28 tendrá asignadas las siguientes funciones específicas:
@@ -967,29 +1081,41 @@ X. Implementar mecanismos para la atención y seguimiento de expresiones ciudada
 
 XI. Definir las necesidades específicas de capacitación para proporcionar los servicios de atención a las personas usuarias usuario (sic).
 
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 42.
 
-La Subdirección de Conservación de Plazas de Cobro, además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
+La Subdirección de Sistemas Electrónicos de Peaje, además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
 
-I. Proponer procedimientos para la conservación de Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria de la Red Operada por el Organismo;
+I. Supervisar la correcta operación de los medios electrónicos de peaje en plazas de cobro, en coordinación con la Subdirección de Tecnologías de la Información;
 
-II. Implementar las estrategias que permitan verificar el cumplimiento de la normatividad en relación con la conservación de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria del Organismo;
+II. Monitorear la infraestructura que soporta el servicio de medios electrónicos de peaje;
 
-III. Coordinar el programa de supervisión para vigilar el cumplimiento de la normatividad en relación con la conservación de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria;
+III. Reportar a las áreas correspondientes, los daños en la infraestructura ocasionados por accidentes o desastres naturales;
 
-IV. Desarrollar los proyectos de conservación de los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria;
+IV. Proponer la modernización y ampliación de los medios electrónicos de peaje;
 
-V. Realizar los trabajos de conservación en los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria para mantenerlos en buen estado y conforme a su imagen institucional para su operación;
+V. Diseñar y proponer, las normas, reglamentos, políticas y procedimientos, para la implementación de equipos de control de tránsito y de medios electrónicos de peaje;
 
-VI. Supervisar los trabajos de conservación en los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria;
+VI. Establecer mecanismos de vinculación y colaboración con los diferentes concesionarios y operadores carreteros con el propósito de optimizar la operación de los medios electrónicos de peaje;
 
-VII. Supervisar la administración y operación de la Póliza de Seguro de Obra Civil Terminada;
+VII. Supervisar el cumplimiento de las reglas establecidas en la Interoperabilidad con otros operadores;
 
-VIII. Verificar la actualización de los permisos necesarios para la conservación, operación y funcionamiento de los inmuebles, instalaciones y equipamiento de las Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios de auxilio vial, emergencia y asistencia médica prehospitalaria;
+VIII. Proporcionar la información para conciliar con los interoperadores el aforo y el ingreso a fin de determinar los saldos correspondientes;
 
-IX. Identificar las necesidades y requerimientos de conservación de Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios médicos y auxilio vial y, elaborar el programa anual de adquisiciones y el programa anual de conservación, y
+IX. Establecer políticas y criterios para realizar las conciliaciones de medios electrónicos de peaje;
 
-X. Definir las necesidades de capacitación en materia (sic) conservación de Plazas de Cobro, Centros de Control, Centros de Liquidación Regional, servicios médicos y auxilio vial.
+X. Supervisar la dictaminación o conciliación aforo - ingreso de los medios electrónicos de peaje, según se establezca en los Modelos de Operación Vigentes;
+
+XI. Generar los proyectos para la adquisición y mantenimiento de los sistemas y equipos de peaje y telepeaje;
+
+XII. Coordinar con la Subdirección de Tecnologías de la Información la implementación de proyectos en materia de equipos de control de tránsito y medios electrónicos de peaje;
+
+XIII. Supervisar que los esquemas tarifarios, en sus distintas modalidades de cobro, sean aplicados en los equipos de peaje y telepeaje;
+
+XIV. Brindar atención a los clientes IAVE; y
+
+XV. Implementar la estrategia de comercialización de la tarjeta IAVE.
 
 ###### Artículo 43.
 
@@ -1247,9 +1373,11 @@ XXII. Coordinar la integración de la información relativa a los contratos de a
 
 XXIII. Administrar el acervo patrimonial propiedad del Organismo, distintos a los de la Red Operada del mismo para dar cumplimiento a lo que establece la normatividad vigente;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 50.
 
-La Subdirección de Recursos Humanos y Desarrollo Organizacional, además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
+La Subdirección de Capital Humano y Desarrollo Organizacional, además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
 
 I. Coordinar y supervisar la integración del Anteproyecto de Presupuesto del Capítulo de Servicios personales y someterlo a la autorización de la Dirección de Administración y Finanzas, registrarlo en las plataformas establecidas para tal efecto y vigilar su correcta ejecución;
 
@@ -1299,6 +1427,10 @@ XXIII. Plantear ante la Comisión Nacional de Mejora Regulatoria las propuestas 
 
 XXIV. Coordinar las acciones que permitan el funcionamiento del Comité de Mejora Regulatoria Interna del Organismo.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. DE 4 DE MARZO DE 2022, PÁGINAS DE LA 701 A LA 702.]</small>
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
+
 ###### Artículo 51.
 
 La Subdirección de Finanzas, además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
@@ -1327,7 +1459,9 @@ XI. Coordinar las actividades relativas a la radicación de recursos financieros
 
 XII. Coordinar la integración de la información que será presentada ante la Coordinadora de Sector para formular el Informe de la Cuenta de la Hacienda Pública Federal, con el fin de dar cumplimiento a las disposiciones normativas establecidas;
 
-XIII. Proporcionar la información y documentación necesaria para la elaboración de los Dictámenes Financieros, Fiscales, Presupuestales y de Obligaciones Local, emitidos por el Despacho de Auditoría Externa designado por la Secretaría de la Función Pública, con el fin de cumplir con las disposiciones normativas aplicables;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XIII. Proporcionar la información y documentación necesaria para la elaboración de los Dictámenes Financieros, Fiscales, Presupuestales y de Obligaciones Locales, emitidos por el Despacho de Auditoría Externa designado por la Secretaría de la Función Pública, con el fin de cumplir con las disposiciones normativas aplicables;
 
 XIV. Coordinar el funcionamiento de los Comités de Pagos, de Inversión, de Cancelación de Adeudos, con el fin de presentar sus acuerdos y avances obtenidos a la Alta Dirección;
 
@@ -1345,23 +1479,29 @@ XX. Desarrollar estrategias para la inversión de los recursos financieros exced
 
 XXI. Supervisar que se realicen las acciones de cobranza de ingresos de telepeaje, con la finalidad de que se gestione la recuperación de los adeudos a favor de CAPUFE;
 
-XXII. Coordinar y supervisar las acciones de conciliación de ingresos y depósitos bancarios por concepto de peajes en efectivo, telepeaje, contraprestaciones, productos financieros e ingresos diversos, a efecto de garantizar el control eficiente de los recursos;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-XXIII. Coordinar la emisión de los comprobantes fiscales digitales y su envío a los usuarios del sistema de telepeaje, con el fin de que se realice el cobro correspondiente;
+XXII. Coordinar la emisión de los comprobantes fiscales digitales y su envío a los usuarios del sistema de telepeaje, con el fin de que se realice el cobro correspondiente;
 
-XXIV. Gestionar la recuperación de las diferencias de ingresos a favor del Organismo y/o la elaboración de notas de crédito derivado de las conciliaciones aforo-tarifa de los sistemas de peaje electrónicos, con los Operadores de Telepeaje Interoperables;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-XXV. Realizar las conciliaciones de ingresos y depósitos bancarios por concepto de peajes, ingresos diversos y Sistema de Telepeaje y Medios Electrónicos de Pago, basándose en las conciliaciones aforo-tarifa;
+XXIII. Gestionar la recuperación de las diferencias de ingresos a favor del Organismo y/o la elaboración de notas de crédito derivado de las conciliaciones aforo-tarifa de los sistemas de peaje electrónicos, con los Operadores de Telepeaje Interoperables;
 
-XXVI. Brindar la atención de clientes IAVE, relacionados con el manejo de su cuenta, sobre aclaración de saldos, facturas, pagos, etc.;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-XXVII. Proponer las reglas de negocio de la interoperabilidad, en materia de contraprestaciones, comisiones bancarias y comisiones por transacción, para la actualización del Convenio Marco de Interoperabilidad;
+XXIV. Proponer las reglas de negocio de la interoperabilidad, en materia de contraprestaciones, comisiones bancarias y comisiones por transacción, a fin de obtener los mejores beneficios para el Organismo;
 
-XXVIII. Gestionar la recuperación del fondo revolvente de los recursos financieros de la Red FNI, relativos a los programas de conservación y mantenimiento mayor, menor y de inmuebles de los tramos carreteros;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-XXIX. Coordinar la elaboración y el seguimiento a los informes financieros con las unidades administrativas, Delegaciones Regionales, Gerencias de Tramo, para su presentación ante el concesionario de la Red FNI;
+XXV. Gestionar la recuperación del fondo revolvente de los recursos financieros de la Red FNI, relativos a los programas de conservación y mantenimiento mayor, menor y de inmuebles de los tramos carreteros; y
 
-XXX. Implementar la estrategia de comercialización de la tarjeta IAVE.
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XXVI. Coordinar la elaboración y el seguimiento a los informes financieros con las unidades administrativas y Unidades Regionales, para su presentación ante el concesionario de la Red FNI.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN el D.O.F. DE 4 DE MARZO DE 2022, PÁGINA 702.]</small>
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
 
 ###### Artículo 52.
 
@@ -1393,31 +1533,23 @@ XII. Representar a CAPUFE ante diversas instancias públicas y privadas para el 
 
 XIII. Administrar el sistema digital de video vigilancia en Oficinas Centrales del Organismo para supervisión del parque informático;
 
-XIV. Coordinar y supervisar la infraestructura de Tecnologías de Información que soportan el servicio de telepeaje;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XIV. Supervisar y garantizar la disponibilidad de la infraestructura de Tecnologías de Información que soporta los procesos y servicios sustantivos del Organismo;
 
 XV. Coordinar actividades y mecanismos necesarios para la digitalización, resguardo, consulta y préstamo de expedientes, con base en la normatividad aplicable en materia de archivos, a fin de asegurar la preservación de la información;
 
 XVI. Coordinar el desarrollo, implementación y operación de los sistemas de gestión documental y administración de archivos para reducir el uso del papel en el Organismo;
 
-XVII. Modernizar y ampliar los medios electrónicos de pago por concepto de telepeaje;
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-XVIII. Diseñar y proponer, las normas, reglamentos, políticas y procedimientos, de medios electrónicos de pago, en materia de tecnologías de información;
+XVII. Proponer en materia de tecnologías de información la actualización del Convenio Marco de Interoperabilidad, para su presentación y gestión ante la Secretaría de Comunicaciones y Transportes; y
 
-XIX. Diseñar y proponer, las normas, reglamentos, políticas y procedimientos, para la estructura de equipamiento de control de tránsito y medios electrónicos de pago;
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
 
-XX. Proponer en materia de tecnologías de información la actualización del Convenio Marco de Interoperabilidad, para su presentación y gestión ante la Secretaría de Comunicaciones y Transportes;
+XVIII. Supervisar e implantar medidas técnicas preventivas y correctivas en los equipos de telepeaje y en los equipos de control de tránsito, para evitar desvíos en el cobro de peaje.
 
-XXI. Proporcionar la información para conciliar con los interoperadores el aforo y el ingreso a fin de determinar los saldos correspondientes;
-
-XXII. Supervisar e implantar medidas técnicas preventivas y correctivas en los equipos de telepeaje y en los equipos de control de tránsito, para evitar desvíos en el cobro de peaje;
-
-XXIII. Supervisar la dictaminación o conciliación aforo-ingreso de los sistemas de telepeaje, según se establezca en los Modelos de Operación Vigentes;
-
-XXIV. Coordinar la atención de los daños a los equipos de telepeaje ocasionados por accidentes o desastres naturales y dar seguimiento para la recuperación de seguros;
-
-XXV. En coordinación con la Dirección de Operación supervisar la correcta operación de los sistemas de Telepeaje en plazas de cobro; y
-
-XXVI. Brindar soporte técnico a clientes IAVE, relacionados con su dispositivo de Telepeaje.
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
 
 ###### Artículo 53.
 
@@ -1429,7 +1561,9 @@ II. Asesorar a las unidades administrativas en la definición de estrategias, ac
 
 III. Asesorar a las unidades Regionales en la definición de estrategias, acciones, procedimientos y metas de sus programas de trabajo, con el fin de asegurar su vinculación con el Programa Anual de Trabajo Institucional y el Programa Institucional;
 
-IV. Coordinar la entrega de avances de las acciones comprometidas en los programas gubernamentales correspondientes a cada unidad administrativa del Organismo;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+IV. Revisar la estrategia de implementación de acciones en materia de programas gubernamentales y transversales, de las Unidades Administrativas del Organismo, con el fin de asegurar su alineación con el Programa Institucional y el Programa de Trabajo Institucional;
 
 V. Coordinar con las unidades administrativas la entrega de información estadística sobre el desempeño institucional, que sirvan de base para el mejoramiento de los planes, programas o proyectos del Organismo;
 
@@ -1473,6 +1607,8 @@ X. Coordinar los estudios y determinación de la tarifa por la prestación de se
 
 XI. Coordinar y apoyar a las unidades administrativas en la evaluación económica de la cartera de proyectos estratégicos para elevar el nivel de servicio de la infraestructura a cargo del Organismo.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 4 DE MARZO DE 2022)
+
 ###### Artículo 55.
 
 La Subdirección de Transparencia y Control Institucional, en su ámbito de competencia, además de las facultades comunes a que se refiere el artículo 28, tendrá asignadas las siguientes funciones específicas:
@@ -1502,6 +1638,10 @@ XI. Dar seguimiento a las observaciones emitidas por los diversos entes fiscaliz
 XII. Coordinar la formulación de programas bienales de mejora regulatoria en materia de trámites y servicios en términos de lo dispuesto en la Ley de la materia; y
 
 XIII. Coordinar los programas de trabajo establecidos con el Comisario Público y las áreas involucradas en la mejora de trámites, servicios, programas y procesos.
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2022)</small>
+
+XIV. Coordinar y dar seguimiento a las acciones implementadas por las Unidades Administrativas del Organismo, para el cumplimiento de los programas gubernamentales y transversales.
 
 ###### Artículo 56.
 
@@ -1684,3 +1824,17 @@ SÉPTIMO. El presente Estatuto Orgánico, así como las reformas y adiciones al 
 El presente Estatuto fue aprobado por unanimidad del Consejo de Administración de CAPUFE, con fundamento en el artículo 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, en la primera (245) sesión ordinaria de 2021, celebrada el 8 de abril de 2021, mediante acuerdo número 245.17.
 
 Dado en la Ciudad de Cuernavaca, Morelos, el día diecinueve de abril de dos mil veintiuno.- La Directora General de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Mtra. Elsa Julita Veites Arévalo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES Y ADICIONES AL ESTATUTO ORGÁNICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS”.]
+
+PRIMERO. Que las presentes modificaciones y adiciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones emitidas al interior de CAPUFE que se opongan al presente Estatuto.
+
+En tanto no se emita el Manual General de Organización y los correspondientes de Procedimientos se seguirán aplicando los vigentes al momento de entrar en vigor el presente Estatuto.
+
+TERCERO. El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
