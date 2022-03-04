@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-para-el-estado-de-nuevo-leon-101738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-08"
-last_updated: "2021-12-27"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 8 de julio de 2014.
 
@@ -71,7 +71,9 @@ En su régimen interior, el Estado tiene una forma de gobierno republicana, demo
 
 El Estado a través de los organismos electorales y demás autoridades competentes, los partidos políticos y los ciudadanos, son corresponsables de la preparación, desarrollo y vigilancia de los procesos electorales, en los términos de esta Ley.
 
-La equidad, independencia, imparcialidad, legalidad, objetividad y certeza, definitividad, máxima publicidad y transparencia son los principios rectores de la función electoral. Las autoridades del Estado, están obligadas a garantizar la efectividad del sufragio.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+La equidad, independencia, imparcialidad, legalidad, objetividad y certeza, definitividad, paridad de género, máxima publicidad y transparencia son los principios rectores de la función electoral. Las autoridades del Estado, están obligadas a garantizar la efectividad del sufragio.
 
 ### CAPITULO SEGUNDO. DEL VOTO ACTIVO Y PASIVO
 
@@ -95,9 +97,23 @@ I. Estar inscrito en el padrón electoral y en la lista nominal, así como obten
 
 II. Interponer los recursos que prevé esta Ley;
 
-III. Participar como observadores electorales; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-IV. Los demás establecidos en la Ley General de la materia y esta Ley.
+III. Participar como observadores electorales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2022)</small>
+
+IV. Los derechos político-electorales; los cuales se ejercerán en igualdad, libres de violencia política contra las mujeres y sin discriminación por género, origen étnico o nacional, edad, situación de discapacidad, condición social, condiciones de salud, religión, opiniones, orientación sexual, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anularo (sic) menoscabar los derechos y libertades de las personas.
+
+La violencia política contra las mujeres por razón de género consiste en toda omisión o acción, incluyendo la tolerancia a esas conductas, cometida por una persona o grupo de personas, o bien, por instituciones públicas oprivadas (sic), de forma directa o a través de terceras personas, en contra de una o varias mujeres que aspiran a una candidatura, que son precandidatas o candidatas a cargos de elección popular o por designación, o que están en ejercicio de sus funciones en un cargo público o en algún puesto de decisión en partidos políticos u organizaciones políticas, así como en contra de sus familiares o afines; teniendo como objeto o resultado la restricción, la anulación, la limitación o el menoscabo del libre acceso o ejercicio de sus funciones o de sus derechos políticos.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por el hecho de serlo, que le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y puedeser (sic) perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, afiliados, simpatizantes, precandidatos o candidatos postulados por los partidos políticos o representantes de los mismos, organizaciones sindicales, medios de comunicación y sus integrantes, por un particular o por un grupo de particulares.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
+
+V. Los demás establecidos en la Ley General de la materia y esta Ley.
 
 ###### Artículo 7.
 
@@ -135,29 +151,25 @@ VI. Estar prófugo de la justicia, desde que se dicte la orden de aprehensión h
 
 VII. Estar condenado por sentencia que haya causado ejecutoria, a la suspensión o pérdida de los derechos políticos, en tanto no exista rehabilitación.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 9.
 
-Son elegibles para los cargos de Diputados, Gobernador y para ser miembro de un Ayuntamiento los ciudadanos que reúnan los requisitos contenidos en los artículos 47, 82 y 122 y que no se encuentren contemplados en los supuestos de los artículos 48, 84 y 124 párrafo segundo de la Constitución Política del Estado de Nuevo León.
+Son elegibles para los cargos de Diputados, Gobernador y para ser miembro de un Ayuntamiento los ciudadanos que reúnan los requisitos contenidos en los artículos 47, 82 y 122 y que no se encuentren contemplados en los supuestos de los artículos 48, 84 y 124 párrafo segundo de la Constitución Política del Estado de Nuevo León, así como que no hayan (sic) sido sentenciado por el delito de violencia política contra las mujeres en razón de género, de violencia familiar, delitos sexuales y por delitos que atenten contra la obligación alimentaria, en los términos del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 097 PUBLICADO EN LA P.O. DE 4 DE MARZO DE 2022, PÁGINAS DE LA 16 A LA 17.]</small>
 
 ###### Artículo 10.
 
 Para formar parte de la planilla propuesta para integrar un Ayuntamiento, se deberán cumplir, al momento del registro, los requisitos que establezca la Constitución Política del Estado para ser miembro de dicho cuerpo colegiado.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+Para el caso de los aspirantes a integrar un Ayuntamiento, quienes ocupen un cargo público de mando medio o superior o que hayan sido electos para ocupar un cargo de elección popular, deberán contar con licencia sin goce de sueldo al momento del registro de la candidatura correspondiente, absteniéndose de desempeñar tal cargo durante el tiempo que medie entre el registro y el día de la Jornada electoral. Quedan exceptuados de la necesidad de contar con licencia quienes se dediquen a la instrucción pública o realicen labores de beneficencia, así como quienes ejerciten su derecho previsto en el artículo 124 párrafo primero de la Constitución Política del Estado de Nuevo León.
 
-Para el caso de los aspirantes a integrar un Ayuntamiento, quienes ocupen un cargo público o que hayan sido electos para ocupar un cargo de elección popular, deberán contar con licencia sin goce de sueldo al momento del registro de la candidatura correspondiente, absteniéndose de desempeñar tal cargo durante el tiempo que medie entre el registro y la toma de posesión del nuevo cargo. Quedan exceptuados de la necesidad de contar con licencia quienes se dediquen a la instrucción pública o realicen labores de beneficencia, así como los REGIDORES Y SÍNDICOS que ejerciten su derecho previsto en el artículo 124 párrafo primero de la Constitución Política del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-PARA EL CASO DE LOS PRESIDENTES MUNICIPALES QUE EJERCITEN SU DERECHO PREVISTO EN EL ARTÍCULO 124 PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN DEBERÁN SEPARASE UN DÍA ANTES DEL INICIO DE LA CAMPAÑA Y PODRÁN VOLVER A DESEMPEÑAR SU CARGO DESDE EL DÍA SIGUIENTE DE LA DECLARATORIA DE VALIDEZ Y ENTREGA DE LA CONSTANCIA DE MAYORÍA.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-Los municipios son la base de la división territorial y de la organización política de los Estados gobernado cada una (sic) por un ayuntamiento de elección popular y directa a través de planillas integradas por un Presidente Municipal y el número de regidores y síndicos que establezca la Ley. Cada municipio ejerce de forma libre su gobierno a través de ayuntamientos que son autónomos entre sí, por lo que las elecciones de cada Ayuntamiento están desvinculadas entre sí y las candidaturas registradas en uno no pueden afectar a las candidaturas registradas en otro.
+Los municipios son la base de la división territorial y de la organización política de los Estados gobernado (sic) cada una por un ayuntamiento de elección popular y directa a través de planillas integradas por un Presidente Municipal y el número de regidores y síndicos que establezca la Ley. Cada municipio ejerce de forma libre (sic) su gobierno a través de ayuntamientos que son autónomos entre sí, por lo que las elecciones de cada Ayuntamiento están desvinculadas entre sí y las candidaturas registradas en uno no pueden afectar a las candidaturas registradas en otro.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -369,6 +381,10 @@ Los partidos políticos nacionales y locales con registro gozan de los derechos 
 
 Para la constitución, registro, pérdida de registro de los partidos políticos locales, organización y fiscalización de los partidos políticos se estará a lo dispuesto en la Ley General de Partidos Políticos y la Ley General de Instituciones y Procedimientos Electorales.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Los partidos políticos promoverán los valores cívicos, y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria en la integración de sus órganos, así como en la postulación de candidaturas.
+
 ###### Artículo 32.
 
 La declaratoria de pérdida de registro de un partido político o asociación política local deberá ser emitida por el Consejo General de la Comisión Estatal Electoral, fundando y motivando las causas de la misma y será publicada en el Periódico Oficial del Estado.
@@ -419,7 +435,9 @@ III. Gozar de facultades para regular su vida interna y determinar su organizaci
 
 IV. Acceder a las prerrogativas y recibir el financiamiento público en los términos de la Constitución Política del Estado Libre y Soberano de Nuevo León, la Ley General de Partidos Políticos y demás leyes federales o locales aplicables;
 
-V. Organizar procesos internos para seleccionar y postular candidatos en las elecciones, en los términos de la Ley General de Partidos Políticos y las leyes federales o locales aplicables;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+V. Organizar procesos internos para seleccionar y postular candidaturas en las elecciones garantizando la paridad de género en la participación política, postulación, acceso y desempeño de cargos públicos, así como el respeto a los derechos humanos de las mujeres en el ámbito político y electoral, como criterio fundamental de la democracia;
 
 VI. Formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección local que establezca el Estatuto de cada uno de los partidos, en los términos de la Ley General de Partidos Políticos y las leyes federales o locales aplicables;
 
@@ -565,9 +583,37 @@ XIX. Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
 XX. Garantizar la paridad entre los géneros en la postulación de candidatos a cargos de elección popular, en los términos establecidos en esta Ley;
 
-XXI. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la Ley General de Partidos Políticos; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-XXII. Todas las demás que establezcan las leyes generales o locales aplicables.
+XXI. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la Ley General de Partidos Políticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2022)</small>
+
+XXII. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios (sic) de toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XXIII. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XXIV. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XXV. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la presente Ley, dentro de los cuales deberán informar trimestralmente de manera pormenorizada y justificada sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XXVI. Garantizar la no discriminación por razón de género en la programación y distribución de tiempos del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XXVII. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
+
+XXVIII. Todas las demás que establezcan las leyes generales o locales aplicables.
 
 ###### Artículo 41.
 
@@ -599,11 +645,19 @@ Los partidos políticos contarán con el financiamiento necesario para la realiz
 
 El financiamiento público a los partidos políticos con registro nacional o local se otorgará mediante la asignación presupuestal que determine el Congreso del Estado, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Partidos Políticos, y demás leyes aplicables conforme a lo siguiente:
 
-I. La Comisión Estatal Electoral presupuestará para el financiamiento público de los partidos políticos una cantidad mínima resultante del sesenta y cinco por ciento del salario mínimo diario vigente en Monterrey por el número de electores inscritos en el padrón electoral del Estado, para actividades ordinarias permanentes de los partidos, la que se distribuirá de acuerdo al orden siguiente:
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-a. El treinta por ciento de la cantidad total aprobada por el Congreso del Estado para el financiamiento público, deberá entregarse, conforme al calendario presupuestal que para el efecto determine la Comisión Estatal Electoral, en ministraciones conformadas en forma igualitaria a los partidos políticos con representación en el mismo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MARZO DE 2022)</small>
 
-b. El setenta por ciento restante se distribuirá en proporción al porcentaje de votos que cada uno de los partidos políticos con representación en el Congreso del Estado hubiese obtenido en la anterior elección de diputados locales.
+I. El Consejo General de la Comisión Estatal Electoral presupuestará para el financiamiento público de los partidos políticos una cantidad mínima resultante del sesenta y cinco por ciento del SALARIO MÍNIMO DIARIO VIGENTE EN MONTERREY por el número de electores inscritos en el padrón electoral del Estado, para actividades ordinarias permanentes de los partidos, la que se distribuirá de acuerdo al orden siguiente:
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+a. El treinta por ciento de la cantidad total aprobada por el Congreso del Estado para el financiamiento público, deberá entregarse, conforme al calendario presupuestal que para el efecto determine la Comisión Estatal Electoral, en ministraciones conformadas en forma igualitaria a los partidos políticos que hayan obtenido el tres por ciento de la votación válida emitida en la anterior elección de diputados locales.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+b. El setenta por ciento restante se distribuirá en proporción al porcentaje de votos que cada uno de los partidos políticos señalados en el inciso anterior hubiese obtenido en la anterior elección de diputados locales.
 
 Dichas cantidades se indexarán trimestralmente conforme al Índice Nacional de Precios al Consumidor y serán entregadas en ministraciones mensuales, conforme al calendario presupuestal que apruebe la Comisión Estatal Electoral.
 
@@ -1059,33 +1113,25 @@ VII. Las demás que establezca esta Ley.
 
 ### CAPITULO TERCERO. DE LAS COALICIONES, CANDIDATURAS COMUNES, LOS FRENTES Y LAS FUSIONES
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 73.
 
 En los procesos electorales, los partidos tendrán derecho a postular candidatos, fórmulas o planillas en coalición con otros partidos en los términos establecidos en la Ley General de Partidos Políticos y en esta Ley.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEXTO EN VÍA DE CONSECUENCIA, DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-LOS PARTIDOS POLÍTICOS TAMBIÉN TENDRÁN DERECHO A POSTULAR CANDIDATOS A GOBERNADOR O PLANILLAS PARA AYUNTAMIENTOS EN CANDIDATURA COMÚN CON OTROS PARTIDOS EN LOS TÉRMINOS ESTABLECIDOS EN ESTA LEY.
-
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-LOS PARTIDOS POLÍTICOS PODRÁN CONSTITUIR FRENTES, PARA ALCANZAR OBJETIVOS POLÍTICOS Y SOCIALES COMPARTIDOS DE ÍNDOLE NO ELECTORAL, MEDIANTE ACCIONES Y ESTRATEGIAS ESPECÍFICAS Y COMUNES.
-
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-DOS O MÁS PARTIDOS POLÍTICOS PODRÁN FUSIONARSE PARA CONSTITUIR UN NUEVO PARTIDO O PARA INCORPORARSE EN UNO DE ELLOS.
-
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-SE PRESUMIRÁ LA VALIDEZ DEL CONVENIO DE COALICIÓN, DEL ACTO DE ASOCIACIÓN O PARTICIPACIÓN, SIEMPRE Y CUANDO SE HUBIESE REALIZADO EN LOS TÉRMINOS ESTABLECIDOS EN SUS ESTATUTOS Y APROBADOS POR LOS ÓRGANOS COMPETENTES, SALVO PRUEBA EN CONTRARIO.
+Los partidos políticos también tendrán derecho a postular candidato a Gobernador o planillas para Ayuntamientos en candidatura común con otros partidos en los términos establecidos en esta Ley.
 
 ###### Artículo 74.
 
 En términos de lo establecido por la Ley General de Partidos Políticos, los partidos políticos nacionales y locales podrán formar coaliciones a fin de postular candidatos en las elecciones estatales y municipales.
 
-Se entiende por coalición la unión o alianza transitoria de dos o más partidos políticos, con el propósito de postular candidatos a los cargos de representación popular en una elección. Los partidos políticos que se coaliguen, para participar en las elecciones, deberán celebrar y registrar el convenio correspondiente en los términos de este capítulo. En ausencia de convenio de coalición, no podrán postularse candidatos comunes por los partidos políticos.
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+SE ENTIENDE POR COALICIÓN LA UNIÓN O ALIANZA TRANSITORIA DE DOS O MÁS PARTIDOS POLÍTICOS, CON EL PROPÓSITO DE POSTULAR CANDIDATURAS A LOS CARGOS DE REPRESENTACIÓN POPULAR EN UNA ELECCIÓN. LOS PARTIDOS POLÍTICOS QUE SE COALIGUEN, PARA PARTICIPAR EN LAS ELECCIONES, DEBERÁN CELEBRAR Y REGISTRAR EL CONVENIO CORRESPONDIENTE EN LOS TÉRMINOS DE ESTE CAPÍTULO.
 
 Los partidos políticos no podrán postular candidatos propios donde ya hubiere candidatos de la coalición de la que ellos formen parte.
 
@@ -1163,13 +1209,19 @@ V. Para el caso de la interposición de medios de impugnación previstos en la L
 
 VI. Manifestar que los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como sí se tratara de un solo partido político. De la misma manera deberá señalarse el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes;
 
-VII. La forma para ejercer en común las demás prerrogativas que a los partidos políticos otorga esta Ley; y
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+VII. LA FORMA PARA EJERCER EN COMÚN LAS DEMÁS PRERROGATIVAS QUE A LOS PARTIDOS POLÍTICOS OTORGAN LAS DISPOSICIONES EN LA MATERIA; Y
 
 VIII. La determinación del responsable financiero.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Para el caso de la elección de Diputados Locales y Ayuntamientos, contendrá además el señalamiento del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del grupo legislativo o partido político a que pertenecerán en el caso de resultar electos.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+PARA EL CASO DE LA ELECCIÓN DE DIPUTACIONES Y AYUNTAMIENTOS, CONTENDRÁ ADEMÁS EL SEÑALAMIENTO DEL PARTIDO POLÍTICO AL QUE PERTENECE ORIGINALMENTE CADA UNO DE LOS CANDIDATOS REGISTRADOS POR LA COALICIÓN Y EL SEÑALAMIENTO DEL GRUPO LEGISLATIVO O PARTIDO POLÍTICO A QUE PERTENECERÁN EN EL CASO DE RESULTAR ELECTOS. NINGÚN PARTIDO POLÍTICO INTEGRANTE DE LA COALICIÓN PODRÁ POSTULAR COMO PROPIOS, EN LAS CANDIDATURAS QUE LE CORRESPONDEN DENTRO DE ESTA, A CANDIDATOS QUE SEAN MILITANTES DE CUALQUIERA DE LOS DEMÁS PARTIDOS POLÍTICOS QUE INTEGREN LA COALICIÓN.
 
 ###### Artículo 80.
 
@@ -1183,91 +1235,61 @@ En lo relativo a la revisión y aprobación de los gastos efectuados en las prec
 
 Los partidos políticos locales que formen parte de una coalición, conservarán su registro en los términos que establece la Ley General de Partidos Políticos y demás disposiciones legales.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-ADICIONADO, P.O. 10 DE JULIO DE 2017)
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-###### Artículo 81 Bis.
+Artículo 81 bis. Los partidos de nuevo registro no podrán convenir coaliciones o candidaturas comunes con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro según corresponda.
 
-Los partidos de nuevo registro no podrán convenir FRENTES, coaliciones, CANDIDATURAS COMUNES O FUSIONES con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro según corresponda.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2022)</small>
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Artículo 81 bis 1. La candidatura común es la unión de dos o más partidos políticos, sin mediar coalición, para postular al mismo candidato a Gobernador, o planillas para (sic) Ayuntamiento, cumpliendo los requisitos de esta Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2022)</small>
 
-###### Artículo 81 Bis 1.
+Artículo 81 bis 2. Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de Gobernador o para planillas de Ayuntamientos, para lo cual deberán suscribir un convenio firmado por sus representantes y dirigentes, mismo que presentarán para su registro ante el Presidente de la Comisión Estatal Electoral, a más tardar treinta días antes del inicio del periodo de precampaña de la elección de que se trate.
 
-La candidatura común es la unión de dos o más partidos políticos, sin mediar coalición, para postular al mismo candidato a Gobernador, o planillas para Ayuntamiento, cumpliendo los requisitos de esta Ley.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-###### Artículo 81 Bis 2.
-
-Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de Gobernador o para planillas de Ayuntamientos, para lo cual deberán suscribir un convenio firmado por sus representantes y dirigentes, mismo que presentarán para su registro ante el Presidente de la Comisión Estatal Electoral, a más tardar treinta días antes del inicio del periodo de precampaña de la elección de que se trate.
-
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-###### Artículo 81 Bis 3.
-
-El convenio de candidatura común deberá contener:
+Artículo 81 bis 3. El convenio de candidatura común deberá contener:
 
 I. Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
 
-II. La manifestación por escrito de proporcionar a la Comisión Estatal Electoral, una vez concluido sus procesos internos, el nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar del candidato o los candidatos, según corresponda;
+II. La manifestación por escrito de proporcionar a la Comisión Estatal Electoral, una vez concluidos sus procesos internos, el nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar del candidato o los candidatos, según corresponda;
 
-III. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
+III. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes de la candidatura común;
 
-IV. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión, y a los topes de gastos de campaña determinados por el Consejo General; y
+IV. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión, y a los topes de gastosde (sic) campaña determinados por el Consejo General; y
 
-V. Para las elecciones de los Ayuntamientos, determinar el partido político al que pertenecerán los candidatos en caso de resultar electos.
+V. Para las elecciones de los Ayuntamientos, determinar el partido político alque (sic) pertenecerán las candidaturas en caso de resultar electas.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+Artículo 81 bis 4. Al convenio de candidatura común se acompañará lo siguiente:
 
-###### Artículo 81 Bis 4.
-
-Al convenio de candidatura común se acompañará lo siguiente:
-
-I. El compromiso por escrito de que los partidos políticos postulantes del candidato común entregaran en tiempo y forma al Consejo General su plataforma electoral por cada uno de ellos; y
+I. El compromiso por escrito de que los partidos políticos postulantes de la candidatura común entregarán en tiempo y forma al Consejo General su plataforma electoral por cada una de ellas; y
 
 II. Las actas que acrediten que los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+Artículo 81 bis 5. La Comisión Estatal Electoral, dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo y publicará su acuerdo en el Periódico Oficial del Estado.
 
-###### Artículo 81 Bis 5.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-La Comisión Estatal Electoral, dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo y publicará su acuerdo en el Periódico Oficial del Estado.
-
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-###### Artículo 81 Bis 6.
-
-Los partidos políticos que postulen candidatos comunes no podrán postular candidatos propios ni de otros partidos políticos para la elección que convinieron la candidatura común.
+Artículo 81 bis 6. Los partidos políticos que postulen candidaturas comunesno (sic) podrán postular candidatos propios ni de otros partidos políticos para la elección que convinieron la candidatura común.
 
 Los partidos políticos que postulen candidaturas comunes deberán sujetarse en materia de prerrogativas, obligaciones, financiamiento, gastos de campaña, representación, y asignación de tiempo en radio y televisión a las reglas generales de coaliciones establecidas en esta ley y en las leyes generales en materia electoral.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+R(REFORMADO, P.O. 4 DE MARZO DE 2022)
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+Artículo 81 bis 7. Para los efectos de la representación ante los órganos electorales, del financiamiento, asignación de tiempos de radio y televisión y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidaturas comunes mantendrán su autonomía y serán responsables de sus actos.
 
-###### Artículo 81 Bis 7.
+Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos que postulen candidaturas comunes, los votos se sumarán para la candidatura común y contarán para cada uno de los Partidos Políticos para todos los efectos establecidos en la Ley.
 
-Para los efectos de la representación ante los órganos electorales, del financiamiento, asignación de tiempos de radio y televisión y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
+Los votos en los que se hubiese marcado más de una opción de los partidos postulantes de la candidatura común, serán considerados válidos para el candidato postulado y contarán como un solo voto.
 
-Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos que postulen candidaturas comunes, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate. Los votos se sumarán para el candidato común y contarán para cada uno de los Partidos Políticos para todos los efectos establecidos en la Ley.
-
-Los votos en los que se hubiesen marcados más de una opción de los partidos postulantes de la candidatura común, serán considerados válidos para el candidato postulado y contarán como un solo voto.
-
-En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos que postulen candidatos en común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma de tales votos se distribuirá igualitariamente entre los partidos que hayan postulado la candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos que postulen candidaturas en común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma de tales votos se distribuirá igualitariamente entre los partidos que hayan postulado la candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 ###### Artículo 82.
 
@@ -1603,7 +1625,9 @@ VIII. Preparar los proyectos de documentación electoral y ejecutar los acuerdos
 
 IX. Llevar el archivo de la Comisión Estatal Electoral;
 
-X. Llevar el libro de registro de los partidos políticos, el de las asociaciones políticas, el de las coaliciones, y el de los respectivos candidatos de los partidos políticos y coaliciones, así como expedir copias certificadas de estos registros;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+X. Llevar el libro de registro de los partidos políticos, el de las asociaciones políticas,el (sic) de las coaliciones, candidaturas comunes, y el de los respectivos candidatos de los partidos políticos, coaliciones y aquellos postulados por candidaturas comunes, así como expedir copias certificadas de estos registros;
 
 XI. Organizar el funcionamiento de los Centros de Capacitación Electoral, así como preparar las jornadas de divulgación y capacitación;
 
@@ -1919,9 +1943,11 @@ Los integrantes de las Mesas Directivas de Casilla deberán rendir ante la autor
 
 En los casos de elecciones extraordinarias, para la integración, ubicación y designación de las Mesas Directivas de Casilla se estará a lo previsto para las elecciones ordinarias conforme a la legislación aplicable y las disposiciones normativas que al efecto establezcan el Instituto Nacional Electoral y la Comisión Estatal Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 128.
 
-Cada partido político podrá acreditar dos representantes propietarios y un suplente común ante las Mesas Directivas de las Casillas, quienes tendrán a su cargo la función de vigilar el desarrollo de la jornada electoral desde la instalación de la casilla hasta el escrutinio y cómputo, así como del levantamiento de las actas correspondientes, teniendo además derecho a firmar y a recibir un ejemplar legible de las mismas para el partido y para cada uno de los candidatos o fórmulas de candidatos correspondientes. En caso de coaliciones cada partido conservará su propia representación ante las Mesas Directivas de Casilla.
+Cada partido político podrá acreditar dos representantes propietarios y un suplente común ante las Mesas Directivas de las Casillas, quienes tendrán a su cargo la función de vigilar el desarrollo de la jornada electoral desde la instalación de la casilla hasta el escrutinio y cómputo, así como del levantamiento de las actas correspondientes, teniendo además derecho a firmar y a recibir un ejemplar legiblede (sic) las mismas para el partido y para cada uno de los candidatos o fórmulas de candidatos correspondientes. En caso de coaliciones y candidaturas comunes cada partido conservará su propia representación ante las Mesas Directivas de Casilla.
 
 La acreditación de los nombramientos de los representantes de los partidos políticos ante las Mesas Directivas de las Casillas se hará a más tardar diez días antes de la elección mediante la entrega, a la Comisión Municipal Electoral, de una copia del nombramiento respectivo y recabando el sello de dicho organismo en el original.
 
@@ -2009,13 +2035,15 @@ Los procesos internos para la selección de candidatos a cargos de elección pop
 
 Al menos treinta días antes del inicio formal de los procesos internos, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada a la Comisión Estatal Electoral dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral nacional, estatal, distrital o, en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
 
-I. Durante los procesos electorales en los que se renueven el Gobernador, el Congreso del Estado y Ayuntamientos, las precampañas iniciarán a partir del diez de enero del año de la elección y terminarán el último día del mes de febrero; en ningún caso podrán durar más de las dos terceras partes de la duración de la respectiva campaña electoral;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+I. Durante los procesos electorales, las precampañas iniciarán a partir del diez de enero del año de la elección y en ningún caso podrán durar más de las dos terceras partes de la duración de la respectiva campaña electoral;
 
-II. Durante los procesos electorales en los que se renueven el Congreso del Estado y Ayuntamientos, las precampañas iniciarán a partir del quince de febrero del año de la elección y terminarán el último día del mes de marzo; en ningún caso podrán durar más de las dos terceras partes de la duración de la respectiva campaña electoral; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-III. Los precandidatos podrán iniciar sus precampañas el día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
+II. Los precandidatos podrán iniciar sus precampañas el día siguiente de que se apruebe su registro interno. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas y deberá realizarse a más tardar el primer domingo posterior al periodo establecido para las precampañas.
+
+III. (DEROGADA, P.O. 4 DE MARZO DE 2022)
 
 ###### Artículo 133.
 
@@ -2045,7 +2073,17 @@ Precandidato es el ciudadano debidamente registrado que pretende ser postulado p
 
 Aspirante es el ciudadano que realiza actividades de proselitismo o difusión de propaganda antes de la fecha del inicio de las precampañas, o expresa públicamente su intención en contender por un cargo de elección popular.
 
-Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Ningún ciudadano podrá participar en dos o más procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Ningún militante de un partido político podrá participar en un proceso de selección interna de candidatos a cargos de elección popular de un partido distinto, ni ser postulado a cualquier cargo de elección popular por un partido distinto, salvo que haya renunciado a su militancia cuando menos seis meses antes del inicio del proceso electoral.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
 
 ###### Artículo 137.
 
@@ -2089,45 +2127,43 @@ La Comisión Estatal Electoral observará los demás reglamentos y acuerdos que 
 
 ### CAPITULO SEGUNDO. DEL REGISTRO DE CANDIDATOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 143.
 
-El derecho de solicitar el registro de candidatos a cargos de elección popular corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro como candidatos independientes en los términos de la presente Ley. Ningún ciudadano podrá registrarse para diferentes cargos de elección popular en un mismo proceso.
+El derecho de solicitar el registro de candidaturas a cargos de elección popular corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro como candidatos independientes en los términos de la presente Ley. Ningún ciudadano podrá registrarse para diferentes cargos de elección popular en un mismo proceso.
 
-El periodo de registro de candidatos a los cargos de elección popular dará inicio quince días antes de la campaña correspondiente y tendrá una duración de veinticinco días. El cómputo de estos plazos es de momento a momento, por lo que todos los días son hábiles y de veinticuatro horas.
+El periodo de registro de candidatos a los cargos de elección popular dará inicio el día primero de marzo y tendrá una duración de veinte días. El cómputo de estos plazos es de momento a momento, por lo que todos los días son hábiles y de veinticuatro horas.
 
-En todo caso, cuando concurran las elecciones de Gobernador, Diputados y Ayuntamientos, las campañas darán inicio noventa y tres días antes de la jornada electoral; y cuando sólo se elijan Diputados y Ayuntamientos, las campañas darán inicio sesenta y tres días antes de la jornada electoral.
+Las campañas darán inicio sesenta y tres días antes de la jornada electoral.
 
-Las campañas concluirán tres días antes del día de la jornada electoral y solamente podrán realizarlas los candidatos que cuenten con el registro debidamente aprobado por la Comisión Estatal Electoral, y se encuentren dentro de los plazos de campaña.
+La conclusión de las campañas será tres días antes del día de la jornada electoral y solamente podrán realizarlas los candidatos que cuenten con el registro debidamente aprobado por la Comisión Estatal Electoral, y se encuentren dentro de los plazos de campaña.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
 
-Para garantizar la paridad entre géneros en el caso de la postulación de candidatos a los cargos de elección popular para la integración del Congreso del Estado, no podrá haber más del cincuenta por ciento de candidatos de un mismo género.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-Se deberán generar dos bloques de trece distritos cada uno conforme a los porcentajes de votación y postular al menos seis fórmulas de un género distinto en cada bloque.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-Para definir los porcentajes de votación que dará la prelación de los distritos para formar los bloques, se usará optativamente por cada partido político o coalición los resultados del último proceso electoral, de los últimos dos o hasta tres procesos en la elección de Diputado local.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
-
-Para los partidos políticos que participan por primera vez en la elección de Diputado Local, la Comisión Estatal Electoral definirá de manera aleatoria la distribución del genero entre las candidaturas para la integración del Congreso del Estado para garantizar que no haya más del cincuenta por ciento de candidatos de un mismo género.
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+Artículo 143 bis. Los partidos políticos promoverán y garantizarán la paridad entre los géneros en la postulación de candidaturas a los cargos de elección popular para la integración del Congreso del Estado y de los Ayuntamientos, en los términos establecidos en la presente Ley.
 
 La Comisión Estatal Electoral, en el ámbito de sus competencias, tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+Artículo 143 bis 1. Para garantizar la paridad entre géneros en el caso de la postulación de candidaturas a los cargos de elección popular para la integración del Congreso del Estado, no podrá haber más del cincuenta por ciento de candidaturas de un mismo género.
+
+Cada partido político o coalición deberá generar dos bloques, el primero con los trece distritos con porcentajes de votación alta, y el segundo con los trece distritos restantes y postular al menos seis fórmulas de un género distinto en cada bloque.
+
+Para definir los porcentajes de votación que dará la prelación de los distritos para formar los bloques, se usará optativamente por cada partido político o coalición los resultados del último proceso electoral, de los últimos dos o hasta tres procesos en la elección de diputaciones. En el caso de las coaliciones, se considerará la votación del partido que presente el mayor número de candidaturas en la elección de diputaciones para dicha coalición.
+
+Para los partidos políticos que participan por primera vez en la elección de diputaciones, la Comisión Estatal Electoral definirá de manera aleatoria la distribución del género entre las candidaturas para la integración del Congreso del Estado para garantizar que no haya más del cincuenta por ciento de candidatos de un mismo género.
+
+Para el caso de las diputaciones plurinominales, los partidos políticos postularán las fórmulas de manera paritaria, compuestas cada una por personas propietarias y suplentes del mismo género. En caso de coaliciones, los partidos políticos coaligados postularán de manera independiente a las candidaturas a las diputaciones plurinominales.
+
+Las coaliciones deberán observar las mismas reglas de paridad de género que los partidos políticos, aún cuando se trate de coaliciones parciales o flexibles, en cuyo caso, las candidaturas que registren individualmente como partido no serán acumulables a las de la coalición y consecuentemente, las que registren como coalición, no serán acumulables a las que registren individualmente como partido político para cumplir con el principio de paridad.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 144.
 
-La solicitud de registro de candidaturas deberá señalar el partido político, coalición O CANDIDATURA COMÚN que las postulen y los siguientes datos de los candidatos:
+La solicitud de registro de candidaturas deberá señalar el partido político, coalición o candidatura común que las postulen y (sic) los siguientes datos de los candidatos:
 
 I. Apellido paterno, apellido materno y nombre completo;
 
@@ -2135,29 +2171,25 @@ II. Lugar y fecha de nacimiento;
 
 III. Domicilio y tiempo de residencia en el mismo;
 
-IV. Ocupación;
+IV. Clave única de Registro de Población;
 
-V. Folio de la Credencial para Votar con Fotografía;
+V. Clave de Elector;
 
 VI. Cargo para el que se les postule; y
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+VII. Los candidatos a Diputados e integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán especificar los periodos para los que ha sido electo en ese cargo y manifestar que está cumpliendo los límites establecidos por la Constitución en materia de reelección. Los candidatos a Diputados locales que ejerzan su derecho previsto en el artículo 49 de la Constitución Política del Estado Libre y Soberado de Nuevo León, no estarán obligados a separarse de sus cargos para su registro ni durante la campaña electoral.
 
-VII. Los candidatos a Diputados e integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que ha sido electo en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección. Los candidatos a Diputados locales que ejerzan su derecho previsto en el artículo 49 de la Constitución Política del Estado Libre y Soberado (sic) de Nuevo León, no estarán obligados a separarse de sus cargos para su registro ni durante la campaña electoral.
+La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar con fotografía.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+De igual manera las personas que sean postuladas deberán manifestar bajo protesta de decir verdad que no han sido condenadas o sancionadas por cometer violencia política, de género, familiar, doméstica o sexual, así como tampoco por ser deudor alimentario o moroso en sus obligaciones alimentarias.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+El partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicita fueron seleccionados de conformidad con las normas estatutarias del propio partido político, así como registrar la plataforma electoral correspondiente a cada elección.
 
-La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar con fotografía así como, la constancia de residencia de propietarios y suplentes.
+La Comisión Estatal Electoral podrá contar con herramientas tecnológicas que permitan agilizar y eficientar el proceso de registro de las candidaturas, procurando evitar el uso de papel, y asegurando contar con un archivo con toda la información y documentación de las candidaturas registradas.
 
-En caso de que la autoridad administrativa municipal se niegue a emitir la constancia de residencia al solicitante, la Comisión Estatal Electoral deberá ordenar a dicha autoridad a que se pronuncie en un plazo que no exceda de veinticuatro horas. En caso de negativa infundada o de que no se emita el pronunciamiento correspondiente, la Comisión Estatal Electoral mediante pruebas idóneas podrá tener por acreditada la residencia.
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-De igual manera, el partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicita fueron seleccionados de conformidad con las normas estatutarias del propio partido político, así como registrar la plataforma electoral correspondiente a cada elección.
-
-Tratándose de coaliciones, a la solicitud de registro se deberá acompañar el convenio respectivo.
-
-La Comisión Estatal Electoral llevará un archivo con todos los datos de las candidaturas registradas.
+EN EL ESTADO SÓLO SERÁN VÁLIDAS LAS ACCIONES AFIRMATIVAS QUE SE ESTABLECEN EN ESTA LEY.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -2170,6 +2202,44 @@ Los partidos políticos y coaliciones deberán postular por lo menos una candida
 Las personas interesadas deberán cumplir con los requisitos establecidos en el artículo 47 de la Constitución Política del Estado Libre y Soberano de Nuevo León y encontrarse en pleno ejercicio de sus derechos.
 
 Las entidades políticas deberán presentar ante la Comisión Estatal Electoral, los medios de prueba idóneos que demuestren que las personas postuladas cuenten con alguna discapacidad conforme a la Ley para la Protección de los Derechos de las Personas con Discapacidad vigente en la entidad.
+
+En caso de que la postulación de las candidaturas a las que refiere este artículo se realice a través de una coalición, se tendrá por cumplida la obligación para los partidos políticos integrantes de dicha coalición.
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Artículo 144 bis 1. Cada partido político, y coalición deberá postular cuando menos una fórmula de candidaturas a Diputaciones al Congreso del Estado de Nuevo León, integrada por personas propietaria y suplente que se autoadscriban como indígenas.
+
+Los partidos políticos, coaliciones y candidaturas independientes deberán postular en los municipios cuya población autoadscrita como indígena represente un porcentaje suficiente en relación con la integración total de la planilla del Ayuntamiento en cuestión, al menos en un número entero del total de la integración. Por cada entero, corresponderá una fórmula adicional.
+
+Lo anterior se obtendrá del resultado de multiplicar el porcentaje de población indígena por el número de integrantes del ayuntamiento; cuyo resultado se dividirá entre cien, a fin de obtener un porcentaje de representación objetivo.
+
+La Comisión Estatal Electoral deberá realizar el cálculo que refiere este artículo a más tardar en el mes de septiembre del año en el que inicia el proceso electoral
+
+Los partidos políticos y en su caso, candidaturas independientes, deberán demostrar mediante medios de prueba idóneos, el vínculo de la persona postulada con la comunidad indígena asentada en el estado de Nuevo León a la que pertenece.
+
+Los partidos políticos y en su caso, candidaturas independientes, deberán cumplir con la paridad de género en la postulación de candidaturas indígenas acorde a lo previsto en esta ley.
+
+En caso de que la postulación de las candidaturas a las que refiere este artículo se realice a través de una coalición, se tendrá por cumplida la obligación para los partidos políticos integrantes de dicha coalición.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Artículo 144 bis 2. Los partidos políticos y coaliciones deberán postular cuando menos el veinte por ciento del total de sus candidaturas para las elecciones de Diputaciones Locales y Ayuntamientos a personas que tengan entre veintiuno a treinta y cinco años.
+
+Las candidaturas independientes deberán garantizar la postulación de por lo menos el veinte por ciento del total de sus candidaturas a los Ayuntamientos, a personas que tengan entre veintiuno a treinta y cinco años.
+
+Estas candidaturas podrán realizarse en fórmula o individualmente un integrante de una fórmula en la cual la otra persona no sea considerada joven.
+
+En todo caso, en el conjunto de postulaciones realizadas por un partido político o coalición, tanto en candidaturas propietarias y suplentes, en cada una de ellas se debe postular al menos veinte por ciento de personas que tengan entre veintiuno a treinta y cinco años cumplidos a más tardar el día de la elección.
+
+Para el caso de los partidos políticos que participan en coalición podrán ser acumulables las postulaciones de candidaturas que realicen a través de la coalición y las que realicen en lo individual.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Artículo 144 bis 3. Los partidos políticos y coaliciones deberán postular cuando menos una fórmula de candidatos propietario y suplente a Diputados al Congreso del Estado, integrada por personas que se autoadscriban como integrantes de la comunidad LGBTTTIQ+.
+
+Los partidos políticos y coaliciones deberán postular por lo menos siete candidaturas de personas que se autoadscriban como integrantes de la comunidad LGBTTTIQ+ de entre la totalidad de candidaturas que postule en planillas para la elección de ayuntamientos del Estado. Estas candidaturas podrán ser aplicables al cargo de la Presidencia Municipal o, en su caso, a la fórmula de candidatos a una regiduría o sindicatura.
 
 En caso de que la postulación de las candidaturas a las que refiere este artículo se realice a través de una coalición, se tendrá por cumplida la obligación para los partidos políticos integrantes de dicha coalición.
 
@@ -2195,17 +2265,45 @@ No se considerará que ejercen su derecho de reelección previsto en el artícul
 
 Las candidaturas para la renovación de Ayuntamientos se registrarán por planillas ordenadas, completas e integradas por los nombres de los candidatos a Presidente Municipal, Regidores y Síndicos, con los respectivos suplentes de éstos dos últimos, en el número que dispone la Ley de Gobierno Municipal del Estado de Nuevo León y observando lo que establece el artículo 10 de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-En ningún caso la postulación de candidatos a Regidores y Síndicos para la renovación de Ayuntamientos debe contener más del cincuenta por ciento de candidatos propietarios de un mismo género. Cuando el resultado de la suma de Regidores y Síndicos sea impar, el género mayoritario será diferente al del candidato a Presidente Municipal.
+Los partidos políticos y coaliciones deberán cumplir con la paridad de forma vertical, horizontal y transversal en la postulación de candidaturas a los ayuntamientos del estado en los términos de esta Ley. Los aspirantes a una candidatura independiente deberán cumplir con la paridad vertical en los mismos términos.
 
-(NOTA: EL 26 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 83/2017 Y SUS ACUMULADAS 88/2017, 89/2017, 91/2017, 92/2017, 96/2017 Y 98/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+Artículo 146 bis. La paridad vertical en la postulación de candidaturas para los ayuntamientos del estado consiste en que en ningún caso la postulación de candidaturas a regidurías y sindicaturas para la renovación de un ayuntamiento deberá contener más del cincuenta por ciento de personas candidatas propietarias de un mismo género, con excepción del supuesto en que cuando el resultado de la suma de regidurías y sindicaturas sea impar, el género mayoritario será diferente al de la candidatura a la Presidencia Municipal.
+
+Los suplentes deberán ser del mismo género de quien detente la candidatura propietaria.
+
+Las listas de candidaturas de las planillas para Ayuntamientos se integrarán por personas de género distinto en forma alternada hasta agotar la lista, iniciando por el cargo de la presidencia municipal, regidurías y concluyendo con las sindicaturas.
+
+Para el caso de aquellos municipios a los que les correspondan dos sindicaturas, la postulación podrá realizarse sin seguir la alternancia que se determinó desde las regidurías, pero respetando en estas el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Artículo 146 bis 1. La paridad horizontal en la postulación de candidaturas para los ayuntamientos del estado consiste en que los partidos políticos deberán registrar un cincuenta por ciento de la totalidad de postulaciones que realicen de candidaturas a las presidencias municipales con géneros distintos; con la salvedad de que cuando sea un número impar, la candidatura excedente será para el género femenino.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Artículo 146 bis 2. La paridad transversal en la postulación de candidaturas para los ayuntamientos del estado consiste en que en ningún caso será admitido que, en la postulación de candidaturas a presidencias municipales, tenga como resultado que ni al género femenino, ni masculino le sean asignados exclusivamente aquellos municipios en los que el partido haya obtenido los porcentajes de votación más bajos.
+
+Para garantizar la regla establecida en el párrafo anterior, los partidos políticos y coaliciones deberán observar las reglas siguientes:
+
+I. Cada partido político, coalición o candidatura común deberá generar dos bloques, el primero con los veinticinco municipios con porcentajes de votación alta, y el segundo con los veintiséis municipios restantes, y postular en un cincuenta por ciento para cada género las candidaturas a las presidencias municipales en cada bloque; con la salvedad de que en el primer bloque la candidatura excedente será para el género femenino.
+
+II. Para definir los porcentajes de votación que dará la prelación de los municipios para formar los bloques, se usará optativamente por cada partido político o coalición los resultados del último proceso electoral, de los últimos dos o hasta tres procesos en la elección de Ayuntamientos.
+
+En el caso de las coaliciones, se considerará la votación del partido que presente el mayor número de candidaturas a presidencias municipales en la elección de ayuntamientos para dicha coalición.
+
+III. Para los partidos políticos que participan por primera vez en la elección de Ayuntamientos, la Comisión Estatal Electoral definirá la modalidad en la que deberá postular sus candidaturas para garantizar que no haya más del cincuenta por ciento de candidatos de un mismo género.
+
+Las coaliciones deberán observar las mismas reglas de paridad de género que los partidos políticos, aun cuando se trate de coaliciones parciales o flexibles, en cuyo caso, las candidaturas que registren individualmente como partido no serán acumulables a las de la coalición y consecuentemente, las que registren como coalición, no serán acumulables a las que registren individualmente como partido político para cumplir con el principio de paridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 147.
 
-La Comisión Estatal Electoral recibirá de los partidos políticos, de las coaliciones, CANDIDATURAS COMUNES y de los candidatos independientes las listas de los candidatos con su documentación correspondiente, devolviendo sellado y fechado el duplicado de las listas. Dentro de los cinco días siguientes, revisará la documentación de los candidatos y si éstos cumplen con los requisitos previstos por esta Ley, registrará su postulación. Si la solicitud de registro de la candidatura no es acompañada por la documentación correspondiente para acreditar el cumplimiento de los requisitos previstos por la Constitución Política del Estado Libre y Soberano de Nuevo León y la presente Ley, se prevendrá a la entidad política postulante y al ciudadano cuyo registro se solicita, a fin de que en un término que no exceda de setenta y dos horas, presenten ante la Comisión Estatal Electoral la documentación faltante, en la inteligencia que de no atenderse tal prevención, se tendrá por no presentado el registro correspondiente.
+La Comisión Estatal Electoral recibirá de los partidos políticos, de las coaliciones, candidaturas comunes y de los candidatos independientes las listas de los candidatos con su documentación correspondiente, devolviendo sellado y fechado el duplicado de las listas.
 
 En caso que del análisis de la documentación presentada por el partido político o coalición postulante se desprenda que el ciudadano es inelegible para el cargo de elección popular que pretende ocupar, la Comisión Estatal Electoral rechazará el registro del candidato, fundando y motivando las causas que motivaron ese acuerdo.
 
@@ -2301,11 +2399,11 @@ La propaganda de los candidatos, partidos políticos o coaliciones en los medios
 
 Los partidos políticos, las coaliciones y los candidatos que realicen propaganda electoral deberán evitar que en ella se infiera ofensa, difamación o calumnia que denigre a los candidatos, partidos políticos, coaliciones, instituciones o terceros.
 
-(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2014 Y SUS ACUMULADAS 91/2014, 92/2014 Y 93/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 162.
 
-La propaganda que en el curso de una campaña difundan por medios gráficos o impresos los partidos políticos, las coaliciones y sus candidatos deberán de abstenerse de expresiones QUE DENIGREN A LAS INSTITUCIONES, A LOS PROPIOS PARTIDOS O que calumnien a las personas. La comisión estatal electoral está facultada para solicitar al órgano competente federal la suspensión inmediata de los mensajes en radio y televisión contrarios a esta disposición, así como el retiro de cualquier otra propaganda por dichos medios.
+La propaganda que en el curso de una campaña difundan por medios gráficos o impresos los partidos políticos, las coaliciones y sus candidatos deberánde (sic) abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y demás aplicables. La Comisión Estatal Electoral está facultada para solicitar al órgano competente federal la suspensión inmediata de los mensajes en radio y televisión contrarios a esta disposición, así como el retiro de cualquier otra propaganda por dichos medios.
 
 Las quejas motivadas por la propaganda impresa de los partidos políticos y candidatos serán presentadas a la Comisión Estatal Electoral, en la que se presentará el hecho que motiva la queja. La autoridad electoral competente ordenará la verificación de los hechos, integrará el expediente y dictará la resolución, conforme al procedimiento de fincamiento de responsabilidad.
 
@@ -2527,7 +2625,9 @@ I. Fecha de la elección;
 
 II. Nombre y apellido de los candidatos;
 
-III. Emblemas a color que los partidos tengan registrados, los cuales aparecerán en igual tamaño y en el orden que les corresponda de acuerdo a la antigüedad de su registro vigente. En caso de coaliciones, los emblemas de los partidos coaligados y los nombres de los candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquellos que se destinen en la boleta a los partidos que participan por sí mismos. Cada partido político coaligado aparecerá con su propio emblema en la boleta electoral.
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MARZO DE 2022)</small>
+
+III. Emblemas a color que los partidos tengan registrados, los cuales aparecerán en igual tamaño y en el orden que les corresponda de acuerdo a la antigüedad de su registro vigente. En caso de coaliciones y candidaturas comunes, los emblemas de los partidos coaligados o que postulen una candidatura común y los nombresde (sic) sus candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquellos que se destinen en la boleta a los partidos que participan por sí mismos. Cada partido político coaligado o que postule una candidatura común aparecerá con su propio emblema en la boleta electoral, según la elección de que se trata.
 
 Los emblemas de los candidatos independientes aparecerán después de los de los partidos políticos en el orden en que hubieren sido registrados. En la boleta no se incluirá ni la fotografía ni la silueta del candidato.
 
@@ -2687,11 +2787,11 @@ La Comisión Estatal Electoral aprobará el formato de la cédula de respaldo ci
 
 El formato de la cédula de respaldo ciudadano será entregado a los aspirantes a candidato independiente el día previo al inicio de la etapa de obtención de dicho respaldo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 204.
 
-Para Gobernador, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al dos por ciento de la lista nominal del Estado, con corte al treinta de septiembre del año previo al de la elección, y dicho respaldo deberá estar conformado por electores de por lo menos veintiséis Municipios del Estado, que representen al menos el uno por ciento de ciudadanos que figuren en la lista nominal de cada uno de ellos.
+Para Gobernador, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al uno punto cinco por ciento de la lista nominal del Estado, con corte al treinta de septiembre del año previo al de la elección, y dicho respaldo deberá estar conformado por electores de por lo menos veintiséis Municipios del Estado, que representen al menos el uno por ciento de ciudadanos que figuren en la lista nominal de cada uno de ellos.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -2721,9 +2821,9 @@ IV. El cuatro por ciento de la lista nominal del Municipio cuando ésta comprend
 
 V. El tres por ciento de la lista nominal del Municipio cuando ésta comprenda más de cien mil uno electores pero no exceda de trescientos mil; y
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-VI. El uno punto cinco por ciento de la lista nominal del Municipio cuando ésta comprenda más de trescientos mil uno electores.
+VI. El uno por ciento de la lista nominal del Municipio cuando ésta comprenda más de trescientos mil uno electores.
 
 En los casos de los incisos (sic) anteriores, se utilizará la lista nominal respectiva con corte al treinta de septiembre del año previo al de la elección, y el respaldo señalado deberá estar conformado por ciudadanos de por lo menos la mitad de las secciones electorales del Municipio que corresponda, que representen al menos el dos por ciento de ciudadanos que figuren en la lista nominal de cada una de ellas.
 
@@ -2763,7 +2863,11 @@ I. Conducirse con irrestricto respeto a lo dispuesto en la Constitución Políti
 
 II. Abstenerse de solicitar el voto del electorado;
 
-III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros aspirantes, precandidatos, partidos políticos, instituciones públicas o privadas y terceros, incitar al desorden o utilizar símbolos, signos o motivos religiosos o discriminatorios;
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+III. Abstenerse de ejercer violencia política contra las mujeres en razón de género, así como recurrir a expresiones o utilizar en su propaganda cualquier alusión A LA VIDA PRIVADA, OFENSAS, DIFAMACIÓN o calumnia QUE DENIGRE a otros aspirantes, precandidatos, PARTIDOS POLÍTICOS, INSTITUCIONES PÚBLICAS O PRIVADAS y terceros, incitar al desorden o utilizar símbolos, signos o motivos religiosos o discriminatorios;
 
 IV. Insertar en su propaganda de manera visible la leyenda: "aspirante a candidato independiente";
 
@@ -2947,9 +3051,11 @@ IX. Abstenerse de recibir apoyo del extranjero, de partidos políticos o coalici
 
 X. Abstenerse de utilizar símbolos o expresiones de carácter religioso o discriminatorio en su propaganda electoral;
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XI. Abstenerse de utilizar en su propaganda electoral cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros candidatos, partidos políticos, instituciones públicas o privadas, y terceros;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XI. Abstenerse de ejercer violencia política contra las mujeres en razón de género, así como recurrir a expresiones o utilizar en su propaganda electoral cualquier ALUSIÓN A LA VIDA PRIVADA, OFENSAS, DIFAMACIÓN O calumnia QUE DENIGRE a otros candidatos, PARTIDOS POLÍTICOS, INSTITUCIONES PÚBLICAS O PRIVADAS, y terceros;
 
 XII. Insertar en su propaganda electoral de manera visible la leyenda: "candidato independiente";
 
@@ -3051,6 +3157,10 @@ Ninguna persona física o moral, sea a título propio o por cuenta de terceros, 
 
 La autoridad competente podrá ordenar la suspensión inmediata de cualquier propaganda política o electoral en radio o televisión que resulte violatoria de la legislación de la materia, lo anterior, sin prejuicio de las demás sanciones que deban aplicarse a los infractores.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Cuando se acredite violencia política contra las mujeres en razón de género, en uso de las prerrogativas señaladas en el presente capítulo, la autoridad competente ordenará de manera inmediata suspender su difusión, y asignará tiempos de radio y televisión con cargo a las prerrogativas del ciudadano o ciudadana infractora, quien deberá ofrecer disculpa pública, con la finalidad de reparar el daño.
+
 ###### Artículo 231.
 
 Para la transmisión de mensajes de los candidatos independientes en cada estación de radio y canal de televisión, se estará a lo establecido por las disposiciones legales y reglamentarias de la materia.
@@ -3147,7 +3257,9 @@ Habiendo cumplido el votante con los requisitos para acreditar su calidad de ele
 
 I. Se entregarán al elector las boletas correspondientes previamente autentificadas de acuerdo a esta Ley;
 
-II. El elector se ubicará detrás de la mampara de votación y de manera secreta, marcará con una cruz o cualesquier señal como un círculo o sombreado que identifique de manera inequívoca la intención de su voto en el círculo o recuadro que contenga el emblema del partido por el que vota y doblará la boleta ocultando el sentido de su voto;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+II. El elector se ubicará detrás de la mampara de votación y de manera secreta, marcará con cualesquier (sic) señal como un círculo o sombreado que identifique de manera inequívoca la intención de su voto en el circulo o recuadro que contenga el emblema del partido por el que vota y doblará la boleta ocultando el sentido de su voto;
 
 III. Depositará el elector sus boletas debidamente dobladas en las urnas respectivas situadas frente a la mesa; y
 
@@ -3421,6 +3533,18 @@ IV. Conforme al segundo párrafo del artículo 46 de la Constitución Política 
 
 Entre los partidos con derecho a Diputaciones de representación proporcional se asignarán hasta dieciséis representantes de ese carácter en el Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+En caso de que, con motivo de la asignación de las diputaciones por mayoría relativa, no se haya logrado la paridad en la integración del Congreso del Estado, la Comisión Estatal Electoral deberá continuar la conformación del Poder Legislativo con el ajuste al género menos favorecido, empezando con las diputaciones plurinominales.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+De no haberse logrado la paridad en la integración, deberá continuarse con el ajuste al género menos favorecido con las curules por cociente electoral y luego por las de resto mayor. En este caso, al quedar diputaciones plurinominales aún pendientes por asignar a los partidos que hayan alcanzado derecho por cociente, la primera diputación para cada partido corresponde a aquella fórmula plurinominal, que no hubiere sido asignada por porcentaje mínimo, con independencia de su género.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+En cada etapa de asignación, plurinominal, porcentajes mínimos, cociente electoral y resto mayor, la Comisión Estatal Electoral deberá verificar la paridad entre géneros y los parámetros de sub o sobre representación, revisando al concluir cada elemento la diferencia de géneros para realizar dicho ajuste. Una vez que se alcance la paridad deberá continuarse con la distribución con alternancia de género en cada asignación, considerando la prelación de las etapas para ajustar la paridad.
+
 ###### Artículo 265.
 
 Para asignar las Diputaciones se considerarán los siguientes elementos:
@@ -3443,7 +3567,9 @@ Por Resto Mayor se entiende el remanente más alto después de haber participado
 
 Los elementos de asignación del artículo anterior se aplicarán de la siguiente manera:
 
-I. Mediante el porcentaje mínimo, se distribuirán la primera y segunda curules a todo aquel partido cuya votación contenga una o dos veces dicho porcentaje;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+I.- Mediante el porcentaje mínimo, se distribuirá la primera curul a todo aquel partido cuya votación contenga una vez dicho porcentaje;
 
 II. Para las curules que queden por distribuir se empleará el Cociente Electoral. En esta forma se asignarán tantas curules como número de veces contenga su votación restante al Cociente Electoral; y
 
@@ -3576,6 +3702,18 @@ III. Si después de aplicar el Cociente Electoral quedaran Regidurías por aplic
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 Exclusivamente a las planillas que no obtengan la mayoría ni la primera minoría se les asignará una Regiduría más, si hubieren obtenido más de dos veces el porcentaje mínimo, siempre y cuando la cantidad total de Regidores de representación proporcional no sea superior a los de mayoría, ni que la planilla que haya obtenido la primera minoría resulte con igual o menor número de Regidores de representación proporcional que otra planilla.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Artículo 271 bis. Una vez concluido el ejercicio de distribución de regidurías de representación proporcional, habiendo asignado los géneros en el orden de las listas, la Comisión Municipal Electoral verificará si existiera alguna desigualdad en el número de hombres y mujeres en la integración total del Ayuntamiento por ambos principios, mayoría relativa y representación proporcional.
+
+En cada etapa de asignación, por porcentajes mínimos, cociente electoral y resto mayor, la Comisión Municipal Electoral deberá verificar la paridad entregéneros (sic) y los parámetros de sub o sobre representación, revisando al concluir cada elemento la diferencia de géneros para realizar dicho ajuste. Una vez que se alcance la paridad deberá continuarse con la distribución con alternancia de género en cada asignación, considerando la prelación de las etapas para ajustar la paridad.
+
+De existir un desequilibrio entre los géneros en detrimento de las mujeres, se procederá a hacer los ajustes correspondientes en las asignaciones de representación proporcional, a partir de la última asignación y tomando en cuenta las fases del procedimiento, a efecto de garantizar la Paridad de Género en la integración del Ayuntamiento. El ajuste deberá de realizarse empezando con el Partido con la menor votación recibida.
+
+En caso de empate entre varias opciones políticas susceptibles de ajuste dentro de las fases de cociente electoral y resto mayor, la modificación deberá recaer en la planilla del partido que hubiera obtenido la menor votación en la elección; en tanto que en la fase de porcentaje mínimo o asignación directa, el ajuste atenderá a la menor votación recibida.
+
+La única excepción para que no se efectué el ajuste por género a que se refiere el presente artículo, es el caso en que la postulación derive de un convenio de coalición en el que el partido político de que se trate sólo haya postulado una candidatura en la lista de regidurías de la planilla, y no cuente con alguna otra de género distinto con la que pueda efectuarse la compensación correspondiente.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -3779,9 +3917,13 @@ En ningún caso la interposición del medio de impugnación electoral suspender�
 
 En la resolución de los medios de impugnación previstos en esta Ley, la interpretación de las disposiciones sustantivas y adjetivas de esta Ley se hará conforme a los criterios gramatical, analógico, lógico, sistemático, causal, teleológico o funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2014 Y SUS ACUMULADAS 91/2014, 92/2014 Y 93/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-A falta de disposición expresa, se aplicarán supletoriamente Y EN ESTE ORDEN, LAS TESIS JURISPRUDENCIALES QUE EN MATERIA ELECTORAL HAYAN SIDO EMITIDAS POR EL PODER JUDICIAL DE LA FEDERACIÓN, ASÍ COMO la legislación procesal civil del Estado.
+A falta de disposición expresa, se aplicará supletoriamente la legislación procesal civil del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Cuando se trate de derechos político-electorales de las mujeres, se deberá tener una interpretación progresiva y maximizadora, en la que se protejan de la violencia política por razones de género a las mujeres que participan en la vida pública y desempeñan un papel fundamental para el orden democrático.
 
 ### CAPITULO SEGUNDO. DE LA COMPETENCIA
 
@@ -4213,6 +4355,48 @@ Bajo pena de nulidad de la elección a su favor, ningún ministro de culto o sec
 
 La contravención a los imperativos de la presente Ley por cualquier persona, partidos políticos, miembros de éstos, coaliciones y miembros de éstas observadores electorales, asociaciones políticas o miembros de éstas, funcionarios electorales, aspirantes, precandidatos o candidatos, son infracciones a la misma y serán sancionadas conforme se preceptúa en sus disposiciones.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en el artículo 333 Bis, así como en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y Ley General de Acceso de las Mujeres a una Vida Libre de Violencia será sancionado en los términos de lo dispuesto en el artículo 348 Bis según corresponda.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### Artículo 333 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo 333 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Restringir o anular el derecho al voto libre de las mujeres;
+
+b) Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+c) Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+d) Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+e) Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+f) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad;
+
+g) Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual una persona ha sido nombrada o elegida;
+
+h) Impedir o restringir su reincorporación al cargo o función posterior en loscasos (sic) de licencia o permiso conforme a las disposiciones aplicables;
+
+i) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género;
+
+j) Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estéreotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+k) Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con base en estereotipos de género, con el objetivo de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades en el desempeño de su participación política o el ejercicio de sus funciones;
+
+l) Amenazar o intimidar en cualquier forma a una o varias mujeres, a sus familiares o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+m) Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios que sean violatorios de los derechos humanos;
+
+n) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+o) Cualquiera otra acción, conducta u omisión que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales, o esté considerada en el artículo 11 BIS de la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+
+Dentro del proceso electoral o fuera de este, las quejas o denuncias por violencia política hacia las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador, conforme a lo establecido en los artículos 370 a 376 de esta Ley.
+
 ###### Artículo 334.
 
 La Comisión Estatal Electoral conocerá de las infracciones a las disposiciones de esta Ley que, independientemente de ser constitutivas de delito, cometan las personas precisadas en el artículo anterior, procediendo a la aplicación de su correspondiente sanción, previa instauración del procedimiento respectivo por oficio, denuncia o queja.
@@ -4385,9 +4569,13 @@ Los aspirantes, precandidatos o candidatos que sean sancionados con la negativa 
 
 En caso de pérdida de la candidatura, los partidos conservaran el derecho de realizar las sustituciones que procedan.
 
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 348.
 
-En los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, el superior jerárquico correspondiente impondrá multa de quinientos a mil quinientos días de salario mínimo general vigente para la ciudad de Monterrey, al servidor público que:
+En los términos de la Ley de Responsabilidades Administrativas del Estado de Nuevo León, el superior jerárquico, Contraloría u órgano interno de control correspondiente impondrá multa de quinientos a mil quinientos días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY, al servidor público que:
 
 I. Obligue a sus subordinados, haciendo uso de su autoridad o jerarquía, a emitir o no su voto en favor de un candidato, partido político o coalición;
 
@@ -4407,7 +4595,99 @@ c. Celebrar reuniones públicas de precampaña o campaña, en los términos que 
 
 d. Colocar, fijar o instalar propaganda encaminada a la difusión en cualquier tiempo de los principios, programas o precandidaturas o candidaturas o la propaganda electoral establecida en la Ley.
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+VI. Menoscabe, limite o impida el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+VII. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia.
+
 El superior jerárquico a que se refiere este artículo, deberá comunicar a la Comisión Estatal Electoral las medidas que haya adoptado en el caso, así como la sanción que de encontrar responsabilidad se haya aplicado.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### Artículo 348 Bis.
+
+A quien cometa violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, será sancionado según corresponda conforme a lo siguiente:
+
+a) Respecto a los partidos políticos:
+
+I. Con amonestación pública.
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL INCISO a) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. Con multa de hasta diez mil días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
+
+III. Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
+
+IV. La cancelación de su registro como partido político, en los casos graves y reiterados de incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
+
+b) Respecto a las agrupaciones políticas:
+
+I. Con amonestación pública.
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL INCISO b) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. Con multa de hasta diez mil días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY, según la gravedad de la falta, y
+
+III. Con la suspensión o cancelación de su registro, que en primer caso no podrá ser menor a seis meses. Según la gravedad de la falta se podrá restringir agrupación política.
+
+c) Respecto de los aspirantes, precandidatos o candidatos a cargos deelección (sic) popular:
+
+I. Con amonestación Pública;
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL INCISO c) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. Con multa de hasta cinco mil días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY, y
+
+III. Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
+
+d) Respecto de los Candidatos Independientes:
+
+I. Con amonestación pública;
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL INCISO d) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. Con multa de hasta cinco mil días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY;
+
+III. Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo, no podrá ser registrado en las dos elecciones subsecuentes;
+
+e) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquier persona física o moral:
+
+I. Con amonestación pública;
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL INCISO e) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. Con multa de hasta quinientos días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY;
+
+f) Respecto de observadores electorales u organizaciones de observadores electorales:
+
+I. Con amonestación pública;
+
+II. Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales;
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DEL INCISO f) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. Con multa de hasta doscientos días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
+
+g) Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
+
+I. Con amonestación pública;
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL INCISO g) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. Con multa de hasta cinco mil días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY, según la gravedad de la falta, y
+
+III. Con la cancelación del procedimiento tendiente a obtener el registro como partido político nacional, y
+
+h) Respecto de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos:
+
+I. Con amonestación pública, y
+
+(NOTA: EL 17 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2022 Y SUS ACUMULADAS 54/2022, 55/2022 Y 56/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL INCISO h) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. Con multa de hasta cinco mil días de SALARIO MÍNIMO GENERAL VIGENTE PARA LA CIUDAD DE MONTERREY, según la gravedad de la falta.
 
 ###### Artículo 349.
 
@@ -4459,9 +4739,17 @@ VI. Sobrepasen durante una campaña electoral los topes a los gastos señalados 
 
 VII. Destinen a un uso distinto al señalado por esta Ley, los recursos que se les hayan entregado en virtud del financiamiento público que les corresponde;
 
-VIII. Reciban donativos o aportaciones económicas provenientes de la delincuencia organizada o de personas sancionadas por delitos contra la salud; o
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-IX. Incurran en cualquier violación a lo establecido en la presente Ley.
+VIII. Reciban donativos o aportaciones económicas provenientes de la delincuencia organizada o de personas sancionadas por delitos contra la salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2022)</small>
+
+IX. Incumplan con las obligaciones para prevenir, erradicar la violencia política contra las mujeres en género; o
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
+
+X. Incurran en cualquier violación a lo establecido en la presente Ley.
 
 ###### Artículo 353.
 
@@ -4489,17 +4777,15 @@ Las multas que fije la Comisión Estatal Electoral a los partidos políticos ten
 
 Son órganos competentes para la tramitación y resolución del procedimiento sancionador por la comisión de faltas administrativas que establece esta Ley:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
 
-I. La Comisión Estatal Electoral para la resolución definitiva del procedimiento ordinario sancionador;
+I. El Tribunal Estatal Electoral para la resolución definitiva del procedimiento ordinario sancionador, y
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
 
-II. El Tribunal Estatal Electoral para la resolución definitiva del procedimiento especial sancionador; y
+II. La Dirección Jurídica de la Comisión Estatal Electoral para la sustanciación del procedimiento.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2017)</small>
-
-III. La Dirección Jurídica de la Comisión Estatal Electoral para la sustanciación del procedimiento.
+III. (DEROGADA, P.O. 4 DE MARZO DE 2022)
 
 ###### Artículo 359.
 
@@ -4727,15 +5013,15 @@ El Secretario Ejecutivo de la Comisión Estatal Electoral podrá solicitar a las
 
 Las diligencias que se realicen en el curso de la investigación deberán ser efectuadas por la Dirección Jurídica, a través del servidor público o por el apoderado legal que éste designe, quienes serán responsables del debido ejercicio de la función indagatoria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO], P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 369.
 
-Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Dirección Jurídica pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido este plazo, la Dirección Jurídica remitirá el expediente al Pleno de la Comisión Estatal Electoral para que en un término no mayor a diez días contados a partir del desahogo de la última vista emita resolución.
+Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Dirección Jurídica pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido este plazo, la Dirección Jurídica remitirá el expediente al Tribunal Electoral para que en un término no mayor a diez días contados a partir del desahogo de la última vista emita resolución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MARZO DE 2022)</small>
 
-El Pleno de la Comisión Estatal Electoral al conocer del asunto determinará:
+El Tribunal al conocer del asunto determinará:
 
 I. Aprobarlo en los términos en que se le presente;
 
@@ -4743,13 +5029,13 @@ II. Aprobarlo, ordenando realizar el engrose de la resolución en el sentido de 
 
 III. Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del dictamen;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-IV. Rechazarlo y elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría de los Consejeros.
+IV. Rechazarlo y elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría de los Magistrados.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-El Consejero Electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo.
+El Magistrado Electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo.
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
@@ -4759,9 +5045,17 @@ Dentro de los procesos electorales, la Dirección Jurídica de la Comisión Esta
 
 I. Violen lo establecido en el octavo párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Contravengan las normas sobre propaganda política o electoral; o
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-III. Constituyan actos anticipados de precampaña o campaña.
+II. Contravengan las normas sobre propaganda política o electoral;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+III. Constituyan actos anticipados de precampaña o campaña.; o
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+IV. Se consideren como violencia política contra las mujeres en razón de género de conformidad a (sic) esta Ley y las demás aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -4774,6 +5068,10 @@ Cuando la Dirección Jurídica de la Comisión Estatal Electoral admita la denun
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
 Si la Dirección Jurídica de la Comisión Estatal Electoral considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión Estatal Electoral dentro del mismo plazo de cuarenta y ocho horas. La Comisión Estatal Electoral notificará de manera inmediata a las partes la resolución en la que fije la adopción de medidas cautelares. La decisión de adoptar o negar medidas cautelares podrá ser impugnada ante (sic) Tribunal Estatal Electoral, la cual deberá ser resuelta en un plazo máximo de 48 horas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+La Dirección Jurídica de la Comisión Estatal Electoral instruirá el procedimiento especial establecido en este capítulo, en cualquier momento, cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
 
 ###### Artículo 371.
 
@@ -4837,6 +5135,42 @@ II. La Dirección Jurídica ejercerá, en lo conducente, las facultades señalad
 
 III. Celebrada la audiencia, la Dirección Jurídica deberá turnar al Tribunal Electoral de forma inmediata el expediente completo, exponiendo las diligencias que se hayan llevado a cabo así como un informe circunstanciado en términos de lo dispuesto en esta Ley.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### Artículo 374 Bis.
+
+En los procedimientos relacionadas con violencia política contra las mujeres en razón de género, la Dirección Jurídica de la Comisión Estatal Electoral, ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Comisión Estatal Electoral dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+Cuando la conducta infractora sea del conocimiento de las autoridades electorales, de inmediato la remitirán, a la Dirección Jurídica de la Comisión Estatal Electoral para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Dirección Jurídica de la Comisión Estatal Electoral dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
+
+La denuncia deberá contener lo siguiente:
+
+a) Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+b) Domicilio para oír y recibir notificaciones;
+
+c) Narración expresa de los hechos en que se basa la denuncia;
+
+d) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionarlas que habrán de requerirse, por no tener posibilidad de recabarlas, y
+
+e) En su caso, las medidas cautelares y de protección que se soliciten.
+
+La Dirección Jurídica de la Comisión Estatal Electoral, deberá admitir odesechar (sic) la denuncia en un plazo no mayor a veinticuatro horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Estatal Electoral, para su conocimiento.
+
+La Dirección Jurídica de la Comisión Estatal Electoral desechará la denuncia cuando:
+
+a) No se aporten u ofrezcan pruebas.
+
+b) Sea notoriamente frívola o improcedente.
+
+Cuando la Dirección Jurídica de la Comisión Estatal Electoral admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, qué tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Electoral se desarrollarán conforme lo dispuesto en el artículo 372 y el artículo 373.
+
+Las denuncias presentadas ante la Comisión Estatal Electoral, así como procedimientos iniciados de oficio, deberán ser sustanciados en lo conducente, de acuerdo al procedimiento establecido en este artículo.
+
 ###### Artículo 375.
 
 Será competente para resolver sobre el procedimiento especial sancionador referido en el artículo anterior, el Tribunal Estatal Electoral.
@@ -4858,6 +5192,36 @@ Las resoluciones que resuelvan el procedimiento especial sancionador podrán ten
 I. Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto; o
 
 II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### Artículo 377.
+
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón degénero (sic), son las siguientes:
+
+a) Realizar análisis de riesgos y un plan de seguridad:
+
+b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones:
+
+c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de prerrogativas asignadas a la persona agresora:
+
+d) Ordenar la suspensión del cargo partidista, de la persona agresora, y
+
+e) Cualquier otra requerida para la protección de la mujer víctima, o a quien ella solicite.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### Artículo 378.
+
+En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral quecorrespondan (sic) considerando al menos las siguientes:
+
+a) indemnización de la víctima:
+
+b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+c) Disculpa pública, y
+
+d) Medidas de no repetición.
 
 T R A N S I T O R I O S
 
@@ -4980,3 +5344,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 TERCERO.- La Comisión Estatal Electoral contará con un plazo de ciento veinte días naturales para adecuar su marco normativo conforme a lo establecido en el presente Decreto
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 097. SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 36, 41, EL PRIMER PÁRRAFO Y EL DIECISEISAVO PÁRRAFO DEL ARTÍCULO 42, PRIMER PÁRRAFO DEL ARTÍCULO 43, PRIMER Y TERCER PÁRRAFO DEL 44, FRACCIONES VI, VII Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 48, LA FRACCIÓN IV DEL ARTÍCULO 122, Y SE ADICIONA UNA FRACCIÓN VIII EN EL ARTÍCULO 48, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, ADEMÁS SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3, FRACCIONES III Y IV DEL ARTÍCULO 6,9,10, LA FRACCIÓN V DEL ARTÍCULO 35, LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 40, PRIMER PÁRRAFO DE LA FRACCIÓN I, INCISO A Y B DE LA FRACCIÓN I DEL ARTÍCULO 44, 73, SEGUNDO PÁRRAFO DEL ARTÍCULO 74, FRACCIÓN VII Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 79, 81 BIS, 81 BIS 1, 81 BIS 2, 81 BIS 3, 81 BIS 4, 81 BIS 5, 81 BIS 6, 81 BIS 7, LA FRACCIÓN X DEL ARTÍCULO 103, EL PRIMERO (SIC) PÁRRAFO DEL ARTÍCULO 128, LAS FRACCIONES I Y II DEL ARTÍCULO 132, EL SEXTO PÁRRAFO DEL ARTÍCULO 136, 143, 144, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 146, EL PRIMER PÁRRAFO DEL ARTÍCULO 147, EL PRIMER PÁRRAFO DEL ARTÍCULO 162, EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 188, EL PRIMER PÁRRAFO Y FRACCIÓN VI DEL ARTÍCULO 204, LA FRACCIÓN III DEL ARTÍCULO 207, LA FRACCIÓN XI DEL ARTÍCULO 218, LA FRACCIÓN II DEL ARTÍCULO 239, LA FRACCIÓN PRIMERA DEL ARTÍCULO 266, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 288, EL PRIMER PÁRRAFO DEL ARTÍCULO 348, LAS FRACCIONES VIII Y IX DEL 352, LA FRACCIÓN I Y II DEL ARTÍCULO 358, LAS FRACCIONES II Y III DEL ARTÍCULO 370; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 6, UN QUINTO PÁRRAFO DEL ARTÍCULO 31, LAS FRACCIONES XXIII, XXIV, XXV, XXVI, XXVII, XXVIII AL ARTÍCULO 40, SÉPTIMO Y OCTAVO PÁRRAFO AL ARTÍCULO 136, ARTÍCULO 143 BIS, 143 BIS 1, 144 BIS 1, 144 BIS 2, 144 BIS 3, 146 BIS, 146 BIS 1, 146 BIS 2, ÚLTIMO PÁRRAFO AL ARTÍCULO 230, SEGUNDO, TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 264, 271 BIS, TERCER PÁRRAFO DEL ARTÍCULO 288, SEGUNDO PÁRRAFO AL ARTÍCULO 333, 333 BIS, FRACCIONES VI Y VII AL ARTÍCULO 348, 348 BIS, FRACCIÓN X AL ARTÍCULO 352,LA FRACCIÓN I Y II DEL ARTÍCULO 358, EL PRIMER PÁRRAFO DEL ARTÍCULO 369 FRACCIÓN IV Y ÚLTIMO PÁRRAFO AL ARTÍCULO 370, 374 BIS, 377 Y 378; SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 132, LA FRACCIÓN III DEL ARTÍCULO 358, TODOS DE LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
