@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2020-03-20"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -255,9 +255,17 @@ Los Diputados que no acaten esta disposición, serán sancionados con el equival
 
 Los recursos que se obtengan por este concepto serán destinados al objeto que determine la Comisión de Coordinación y Régimen Interno.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2022)</small>
+
 ###### Artículo 19.
 
-(DEROGADO, P.O. 20 DE ENERO DE 2020)
+La Oficialía Mayor será el único órgano responsable para emitir identificaciones oficiales de los Diputados.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### Artículo 19 Bis.
+
+Los Diputados no podrán hacer uso de su identificación oficial para la obtención de beneficios o privilegios de carácter personal.
 
 ## TITULO SEGUNDO. ORGANOS DE DIRECCION
 
@@ -1467,13 +1475,19 @@ XXIV.- Coordinar el Curso de Inducción a la Función Legislativa que se ofrezca
 
 XXV.- Organizar y dar trámite respectivo a la correspondencia del Congreso;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-XXVI.- Operar la Plataforma Digital Legislativa como un sistema de comunicación electrónica de carácter oficial del Congreso con los Poderes Ejecutivo y Judicial, los Municipios, Organismos Constitucionalmente Autónomos y demás entes públicos del Estado. Para el acceso y uso de la misma, se deberán expedir los lineamientos de operación correspondiente; y
+XXVI.- Operar la Plataforma Digital Legislativa como un sistema de comunicación electrónica de carácter oficial del Congreso con los Poderes Ejecutivo y Judicial, los Municipios, Organismos Constitucionalmente Autónomos y demás entes públicos del Estado.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2020)</small>
+Para el acceso y uso de la misma, se deberán expedir los lineamientos de operación correspondiente;
 
-XXVII.- Vigilar la conservación física del recinto Oficial del Congreso.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XXVII.- Vigilar la conservación física del recinto Oficial del Congreso; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XXVIII.- Propiciar que durante la atención y orientación que se realice al público por parte del Congreso del Estado, se brinde el apoyo de un intérprete de Lenguaje de Señas Mexicanas cuando sea necesario para la plena atención a la ciudadanía con discapacidad.
 
 El Calendario de Actividades del Congreso señalará las fechas en que la legislación establece la obligación para que los Órganos del Congreso realicen alguna actividad específica importante de carácter legislativo, solemne, administrativo o laboral. Dicho Calendario se presentará para su aprobación a la Comisión de Coordinación y Régimen Interno en la sesión ordinaria del mes de enero de cada año.
 
@@ -2944,3 +2958,15 @@ P.O. 20 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 281. SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 39; SE ADICIONAN LOS INCISOS H) E I) A LA FRACCIÓN V; Y SE DEROGA EL INCISO D) DE LA FRACCIÓN XIII, DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 094. SE REFORMA EL ARTÍCULO 19 Y SE ADICIONA EL ARTÍCULO 19 BIS AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 095. SE ADICIONA EL “TITULO NOVENO DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD CAPÍTULO ÚNICO DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS” Y EL ARTÍCULO 95, A LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN, ASÍ COMO TAMBIÉN SE REFORMAN LAS FRACCIONES XXVI, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 65 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de la Publicación en el Periódico Oficial del Estado.
