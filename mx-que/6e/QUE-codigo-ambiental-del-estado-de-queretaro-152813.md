@@ -4,7 +4,7 @@ identifier: "QUE-codigo-ambiental-del-estado-de-queretaro-152813"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-03"
-last_updated: "2021-12-03"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO AMBIENTAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 3 de diciembre de 2021.
 
@@ -5455,7 +5455,9 @@ Artículo Décimo Primero. Las guías de impacto ambiental; de estudio de riesgo
 
 Artículo Décimo Segundo. La Secretaría de Desarrollo Sustentable deberá implementar la plataforma electrónica referida en el artículo 115, en un plazo de 180 días.
 
-Artículo Décimo Tercero. A partir de la entrada en vigor del presente Código, la Secretaría de Desarrollo Sustentable y la Secretaría de Desarrollo Agropecuario, ambas del Poder Ejecutivo del Estado de Querétaro, tendrán un plazo de 90 días naturales para llevar a cabo el traslado programado de los recursos humanos, financieros y materiales, así como de la estructura orgánica, que actualmente atiende los asuntos y trámites en materia forestal, respetando los derechos laborales de los servidores públicos.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Artículo Décimo Tercero. La Secretaría de Desarrollo Sustentable y la Secretaría de Desarrollo Agropecuario, ambas del Poder Ejecutivo del Estado de Querétaro, tendrán hasta el 31 de octubre de 2022, para llevar a cabo el traslado programado de los recursos humanos, financieros y materiales, así como de la estructura orgánica, que actualmente atiende los asuntos y trámites en materia forestal, respetando los derechos laborales de los servidores públicos.
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE. DADO EN EL SALÓN DE SESIONES “CONSTITUYENTES 1916-1917” RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTIDÓS DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL VEINTIUNO.
 
@@ -5492,3 +5494,21 @@ María Guadalupe Murguía Gutiérrez
 Secretaria de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO TERCERO DEL CÓDIGO AMBIENTAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
