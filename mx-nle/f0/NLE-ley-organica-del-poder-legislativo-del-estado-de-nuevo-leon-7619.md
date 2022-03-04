@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2020-03-20"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -1485,295 +1485,19 @@ X. Las observaciones del Gobernador del Estado a los Decretos aprobados por el P
 
 XI. Los demás documentos oficiales que en su momento el Pleno del Congresos (sic) determine su difusión.
 
-## TÍTULO OCTAVO. DE LA INFORMACIÓN Y VERIFICACIÓN
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2022)</small>
 
-###### ARTÍCULO 95.
+## TITULO NOVENO. DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD
 
-Los derechos por la expedición de las constancias que a continuación se especifican se cobrarán de acuerdo a las siguientes cuotas:
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2022)</small>
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+### CAPITULO ÚNICO. DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS
 
-I. CERTIFICACIONES O CONSTANCIAS SOBRE DOCUMENTOS ACTAS,
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
 
-DATOS Y ANOTACIONES POR LEGAJO DE 1 A 10 HOJAS $33.00
+###### Artículo 95.
 
-POR CADA HOJA ADICIONAL 6.00
-
-MÁS DE 100 HOJAS POR HOJA ADICIONAL 4.00
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-II. COPIAS CERTIFICADAS QUE SE EXPIDAN DE LOS DOCUMENTOS
-
-EXISTENTES EN EL ARCHIVO POR LEGAJO 1 A 10 HOJAS 33.00
-
-POR CADA HOJA ADICIONAL 6.00
-
-MÁS DE 100 HOJAS POR HOJA ADICIONAL 4.00
-
-III. Certificaciones de planos ejecutivos existentes
-
-en el archivo del Municipio 66.00
-
-IV. Expedición de copia simple de plano ejecutivo en papel bond 27.00
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-V. EXPEDICIÓN DE COPIAS SIMPLES POR LEGAJO
-
-DE HASTA 20 HOJAS 27.00
-
-POR HOJA ADICIONAL 5.00
-
-VI. Constancia sobre el nombre de vías públicas y ratificación
-
-de número oficial 130.00
-
-VII. Constancia de inscripción en el registro de peritos 138.00
-
-VIII. Expedición de copias simples de constancia de
-
-habitabilidad o terminación de obra. 27.00
-
-IX. Constancia de habitabilidad o terminación de obra por
-
-vivienda de hasta 300 m2 de construcción 138.00
-
-Constancia de habitabilidad o terminación de obra por
-
-vivienda de 301 m2 de construcción hasta 600 m2
-
-de construcción. 138.00
-
-Constancia de habitabilidad o terminación de obra por
-
-vivienda de más de 601 m2 de construcción hasta 900 m2
-
-de construcción. 340.00
-
-Constancia de habitabilidad o terminación de obra por
-
-vivienda de más de 900 m2. 500.00
-
-Constancia de habitabilidad o terminación de obra para
-
-uso comercial de hasta 100 m2 230.00
-
-Constancia de habitabilidad o terminación de obra para
-
-uso comercial de más de 100 m2 hasta 599 m2 258.00
-
-Constancia de habitabilidad o terminación de obra para
-
-uso comercial de más de 600 m2 y hasta 800 m2
-
-de construcción 308.00
-
-Constancia de habitabilidad o terminación de obra para
-
-uso comercial o de servicios de más de 800 m2
-
-de construcción 0.54 x mts2
-
-Constancia de habitabilidad o terminación de obra para
-
-uso industrial de hasta 800 m2 de construcción 288.00
-
-Constancia de habitabilidad o terminación de obra para
-
-uso industrial de más de 800 m2 de construcción 0.33 x mts2
-
-X. Constancia de terminación de obra para toma o
-
-acometida de más de 2,000 ml 245.00
-
-Constancia de terminación de obra para toma o
-
-acometida de más de 2,000 ml 0.15 x ml.
-
-Constancia de terminación de obra para permisos
-
-especiales de más de $ 1500 pesos respecto del
-
-presupuesto de obra 138.00
-
-Constancia de terminación de obra para permisos 7.5% de valor
-
-especiales de más de $ 1500 pesos respecto del de la licencia
-
-presupuesto de obra de
-
-construcción
-
-XI. Reimpresión de constancia de habitabilidad o
-
-terminación de obra 68.00
-
-Todas las solicitudes de constancias de habitabilidad o terminación
-
-de obra deberán ser acompañadas de la documentación completa,
-
-y ser atendidas en los horarios y fechas previamente acordados para
-
-la verificación física de la obra, de no cumplirse con lo anterior serán
-
-dictaminados como negativas y deberá volver a iniciar el trámite y
-
-pagar los derechos correspondientes.
-
-XII. Por avalúo de bienes inmuebles:
-
-a) Por avalúo que realice la Secretaría de Desarrollo
-
-Urbano, como un servicio social a personas de escasos
-
-recursos, se cobrará el 1 al millar sobre el valor del inmueble
-
-establecido en el propio avalúo.
-
-Cuota Mínima: 981.00
-
-b) Por avalúo que se elabore por la Secretaría de Finanzas
-
-Públicas como base para el cálculo del Impuesto Sobre
-
-Adquisición de Bienes Inmuebles, en términos del artículo 64,
-
-inciso a) de la Ley de Hacienda del Municipio de Aguascalientes,
-
-se cobrará el 1 al millar sobre el valor del inmueble establecido
-
-en el propio avalúo.
-
-Cuota Mínima: 1,639.00
-
-En caso de diferencia entre la cuota mínima y el 1 al millar
-
-sobre el valor del bien, dicha diferencia deberá ser cubierta
-
-al momento de la entrega del avalúo
-
-XIII. Ratificaciones de la constitución de sociedades
-
-Cooperativas 432.00
-
-XIV. Legalizaciones de firmas, por cada documento en
-
-que se contengan 126.00
-
-XV. Constancia de residencia 134.00
-
-XVI. Expedición de carta de antecedentes policiales 130.00
-
-XVII. Constancia de notorio arraigo 134.00
-
-XVIII. Cargo por uso de materiales y sustancias en eventos,
-
-imputables a la población atendida, la cuota dependerá de la
-
-cantidad de materiales y costo de los mismos.
-
-XIX. Constancia de registro al padrón de proveedores 310.00
-
-XX. Certificado de no adeudo al Municipio por concepto del
-
-Impuesto a la Propiedad Raíz 126.00
-
-Los certificados de no adeudo del impuesto a la propiedad raíz
-
-que se expidan respecto de inmuebles clasificados como de
-
-interés social, estarán exentos de pago siempre y cuando sea
-
-la única propiedad registrada a nombre del contribuyente
-
-XXI. Constancia de no adeudo al Municipio por concepto de
-
-infracciones de tránsito y no retención de licencias de conducir
-
-con motivo de infracciones de tránsito 45.00
-
-XXII. Las constancias expedidas por regulación sanitaria se
-
-cobrarán de acuerdo a lo establecido en el apartado denominado
-
-"Por los servicios prestados en materia de Regulación sanitaria".
-
-XXIII. Registro de fierros para ganado, refrendo y expedición
-
-de constancia 201.00
-
-XXIV. Para dar cumplimiento al Artículo 74 de la Ley de
-
-Transparencia y Acceso a la Información Pública del Estado
-
-de Aguascalientes y sus Municipios, se cobrará de la siguiente manera:
-
-1. Medios impresos:
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DEL INCISO a) DEL NUMERAL 1 DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-a) COPIAS SIMPLES (CADA PÁGINA) 5.00
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DEL INCISO b) DEL NUMERAL 1 DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-b) COPIAS CERTIFICADAS DE ACTAS, DATOS, ACUERDOS,
-
-ANOTACIONES O CUALQUIER DOCUMENTO EXPEDIDO POR EL
-
-MUNICIPIO POR LEGAJO DE 1 A 10 HOJAS 33.00
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DEL INCISO c) DEL NUMERAL 1 DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-c) POR CADA HOJA CERTIFICADA ADICIONAL 6.00
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DEL INCISO d) DEL NUMERAL 1 DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-d) MÁS DE 100 HOJAS CERTIFICADAS POR HOJA ADICIONAL 4.00
-
-2. Medios electrónicos o digitales:
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DEL INCISO a) DEL NUMERAL 2 DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-a) DISCO COMPACTO (CADA UNO) 58.00
-
-Las anteriores cuotas se cobrarán tanto por las unidades
-
-administrativas centralizadas del Municipio como por las
-
-entidades paramunicipales
-
-XXV. Expedición de registros de proveedores de equipos y
-
-materiales de prevención y emergencia 594.00
-
-XXVI. Expedición de permisos y/o constancias de eventos
-
-autorizados por la Dirección de Reglamentación 37.00
-
-XXVII. Constancias de arraigo domiciliario o notorio arraigo
-
-expedidas a las asociaciones religiosas 1,714.00
-
-XXVIII. Por el permiso que se otorgue a los particulares para
-
-el uso y/o explotación comercial del Escudo de Armas
-
-del Municipio de Aguascalientes 742.00
-
-XXIX. Por otros servicios similares 123.00
-
-XXX. Impresión en papel Bond de 90 x 60 mts por unidad: 89.00
-
-XXXI. Impresión en papel Bond de 90 x 120 mts por unidad: 134.00
-
-XXXII. Copias simples e impresión de textos e imágenes, en las Bibliotecas Públicas Municipales:
-
-a) Copia simple e impresión de texto 3.00
-
-b) Impresión imagen 4.00
-
-XXXIII. Constancia de antecedentes administrativos. 104.00
+Durante las sesiones de pleno, diputación permanente y mesas de trabajo deberá haber un intérprete traductor de lenguaje de señas mexicanas, debidamente certificado, con el fin de traducir a la ciudadanía con alguna discapacidad los puntos tratados en las mismas.
 
 ## TÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -2120,3 +1844,9 @@ P.O. 20 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 281. SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 39; SE ADICIONAN LOS INCISOS H) E I) A LA FRACCIÓN V; Y SE DEROGA EL INCISO D) DE LA FRACCIÓN XIII, DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 095. SE ADICIONA EL “TITULO NOVENO DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD CAPÍTULO ÚNICO DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS” Y EL ARTÍCULO 95, A LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN, ASÍ COMO TAMBIÉN SE REFORMAN LAS FRACCIONES XXVI, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 65 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de la Publicación en el Periódico Oficial del Estado.
