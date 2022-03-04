@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2021-10-27"
+last_updated: "2022-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -695,11 +695,13 @@ Si las partes así lo desean, se dará por concluida la sesión, levantándose c
 
 En el supuesto de lo previsto en este artículo, así como en el anterior, el especialista deberá notificar de ello al Juzgador o a la persona que remitió el caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 37.
 
-(REFORMADO [N. DE E. DEROGADO], P.O. 13 DE NOVIEMBRE DE 2009)
+Tratándose de asuntos de naturaleza civil, familiar o mercantil, de así requerirse por el Centro o por las partes, los medios alternativos podrán desarrollarse a través de medios electrónicos o cualquier otra tecnología de comunicación idónea, siguiendo las reglas generales y principios establecidos en la presente Ley.
+
+La firma del Convenio al que en su caso arriben las partes, deberá llevarse a cabo de forma presencial en las oficinas del Centro.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1004,3 +1006,9 @@ P.O. 27 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 21 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 39 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 37 DE LA LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
