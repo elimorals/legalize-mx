@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2022-02-11"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -157,89 +157,93 @@ XVII.- Educación No Escolar o Informal: Aquella que permite adquirir y acumular
 
 XVIII.- Educación Mixta: Toda actividad educativa, organizada y sistemática realizada fuera del marco del ámbito oficial, para facilitar determinadas clases de aprendizaje a subgrupos particulares de la población;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XIX.- Equiparación de Oportunidades: Al proceso de adecuaciones, mejoras y ajustes necesarios en el entorno jurídico, social, cultural, de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
+XIX.- Empresa incluyente: Fuente de trabajo que adopta la cultura y el compromiso social de incluir en su planta laboral a personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XX.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o dialogo oral de manera simultánea a su desenvolvimiento y, así como proyectar el texto resultante por medios electrónicos visuales;
+XX.- Equiparación de Oportunidades: Al proceso de adecuaciones, mejoras y ajustes necesarios en el entorno jurídico, social, cultural, de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXI.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+XXI.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o dialogo oral de manera simultánea a su desenvolvimiento y, así como proyectar el texto resultante por medios electrónicos visuales;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXII.- Familia cuidadora: Al conjunto de personas, que dedican una importante actividad diaria al cuidado de sujetos con dependencias o discapacidades;
+XXII.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXIII.- Habilitación: Al proceso mediante el cual se dota por primera vez a la persona, de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar asistencia multidisciplinaria y especializada, a la persona que sufre deficiencia congénita o desde temprana edad;
+XXIII.- Familia cuidadora: Al conjunto de personas, que dedican una importante actividad diaria al cuidado de sujetos con dependencias o discapacidades;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXIV.- Lengua de Señas: A la Lengua que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística;
+XXIV.- Habilitación: Al proceso mediante el cual se dota por primera vez a la persona, de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar asistencia multidisciplinaria y especializada, a la persona que sufre deficiencia congénita o desde temprana edad;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXV.- Lengua de Señas Mexicanas: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+XXV.- Lengua de Señas: A la Lengua que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXVI.- Ley: A la Ley para las Personas con Discapacidad en el Estado de Baja California;
+XXVI.- Lengua de Señas Mexicanas: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXVII.- Ley General: La Ley General para la Inclusión de las Personas con Discapacidad;
+XXVII.- Ley: A la Ley para las Personas con Discapacidad en el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXVIII.- Maestra sombra: Es una extensión del profesor, proporcionando atención a aquellos que lo necesitan más;
+XXVIII.- Ley General: La Ley General para la Inclusión de las Personas con Discapacidad;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXIX.- Organizaciones: A las organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+XXIX.- Maestra sombra: Es una extensión del profesor, proporcionando atención a aquellos que lo necesitan más;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXX.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XXX.- Organizaciones: A las organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXXI.- Persona cuidadora: Son las personas o instituciones que se hacen cargo de las personas con algún nivel de dependencia. Son por tanto padres, madres, hijos/as, familiares, personal contratado o voluntario;
+XXXI.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXXII.- Persona dependiente: un estado en que se encuentran las personas que, por razones ligadas a la falta o a la pérdida de autonomía física, psíquica o intelectual tienen necesidad de asistencia o de ayudas importantes para realizar actos corrientes de la vida ordinaria;
+XXXII.- Persona cuidadora: Son las personas o instituciones que se hacen cargo de las personas con algún nivel de dependencia. Son por tanto padres, madres, hijos/as, familiares, personal contratado o voluntario;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXXIII.- Perro de asistencia: Los perros educados y adiestrados en centros especializados y oficialmente reconocidos, para prestar asistencia y auxilio a personas con alguna discapacidad;
+XXXIII.- Persona dependiente: un estado en que se encuentran las personas que, por razones ligadas a la falta o a la pérdida de autonomía física, psíquica o intelectual tienen necesidad de asistencia o de ayudas importantes para realizar actos corrientes de la vida ordinaria;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXXIV.- Política Pública. Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+XXXIV.- Perro de asistencia: Los perros educados y adiestrados en centros especializados y oficialmente reconocidos, para prestar asistencia y auxilio a personas con alguna discapacidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-XXXV.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XXXV.- Política Pública: Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXXVI.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+XXXVI.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXXVII.- Subcomité Especial: Subcomité Especial de Asistencia Social a Personas con Discapacidad, órgano integrante del Comité de Planeación para el Desarrollo del Estado creado mediante acuerdo publicado en el Periódico Oficial del Estado de fecha 25 de agosto de 1995;
+XXXVII.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2022)</small>
 
-XXXVIII.- Terapia conductual: Consiste en enseñar al paciente a emitir respuestas adaptativas ante los estímulos que les provocan respuestas inadaptadas, bien sea con un desaprendizaje o extinción de la conducta inadecuada, bien sea aprendiendo un comportamiento más adecuado; y
+XXXVIII.- Subcomité Especial: Subcomité Especial de Asistencia Social a Personas con Discapacidad, órgano integrante del Comité de Planeación para el Desarrollo del Estado creado mediante acuerdo publicado en el Periódico Oficial del Estado de fecha 25 de agosto de 1995;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-XXXIX.- Transversalidad. Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXXIX.- Terapia conductual: Consiste en enseñar al paciente a emitir respuestas adaptativas ante los estímulos que les provocan respuestas inadaptadas, bien sea con un desaprendizaje o extinción de la conducta inadecuada, bien sea aprendiendo un comportamiento más adecuado; y,
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+XL.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ### CAPÍTULO II. DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -735,7 +739,9 @@ I.- Impulsar su integración en el sistema ordinario de trabajo o en su caso, en
 
 II.- Impulso entre los sectores público, social y privado para la creación y desarrollo de bolsas de trabajo, programas de capacitación y becas de empleo dirigidos a las personas con discapacidad así como la persona o familia cuidadora;
 
-III.- Promoción del otorgamiento de estímulos fiscales para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de dichas contrataciones realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+
+III.- Promoción del otorgamiento de estímulos fiscales para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de dichas contrataciones realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo; pudiendo otorgarles la denominación de "Empresa Incluyente";
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -1464,3 +1470,9 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 81 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 3 Y 19 DE LA LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
