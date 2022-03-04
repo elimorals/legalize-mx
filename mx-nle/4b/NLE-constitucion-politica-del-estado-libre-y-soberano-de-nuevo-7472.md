@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2021-12-31"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -127,9 +127,9 @@ Los derechos de los ciudadanos mexicanos residentes en el Estado son:
 
 I.- Votar en las elecciones populares.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante cualquier autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+II.- Poder ser votado en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidaturas ante cualquier autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 III.- Hacer peticiones, reclamaciones o protestas en asuntos políticos e iniciar leyes ante el Congreso.
 
@@ -509,17 +509,17 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 Del Proceso Electoral.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Art. 41.
 
-El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado se realizará en elecciones libres, auténticas y periódicas, a través de la emisión del sufragio universal, igual, libre, secreto y directo. La Jornada Electoral se llevará a cabo el primer domingo de junio del año de la elección.
+El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado se realizará en condiciones de paridad para todos los cargos populares por medio de elecciones libres, auténticas y periódicas, a través de la emisión del sufragio universal, igual, libre, secreto y directo. La Jornada Electoral se llevará a cabo el primer domingo de junio del año de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Art. 42.
 
-Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida democrática y permitir el acceso de éstos a la integración de los órganos de representación popular, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre géneros en candidaturas para Diputados al Congreso. Los partidos políticos nacionales o con registro en el estado gozarán para todos los efectos legales de personalidad jurídica y patrimonio propio, mismo que administrarán libremente; teniendo el derecho para solicitar el registro de candidatos a participar en los procesos electorales para elegir al Gobernador, a los Diputados al Congreso y a los integrantes de los Ayuntamientos del Estado, en los términos que prevea la Ley Electoral.
+Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida democrática y permitir el acceso de éstos a la integración de los órganos de representación popular, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre géneros, la inclusión de personas jóvenes, personas con discapacidad, personas integrantes de las comunidades indígenas y personas integrantes de la comunidad de la diversidad sexual en candidaturas para Diputados al Congreso e integrantes de los Ayuntamientos. Las acciones afirmativas en materia electoral se establecerán en la ley. Los partidos políticos nacionales o con registro en el estado gozarán para todos los efectos legales de personalidad jurídica y patrimonio propio, mismo que administrarán libremente; teniendo el derecho para solicitar el registro de candidatos, fórmulas, planillas y listas, por sí mismos, en coalición, o en candidatura común con otros partidos, a fin de participar en los procesos electorales, en los términos que prevea la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
@@ -601,19 +601,19 @@ IV. Los términos y condiciones, en que en las elecciones de Gobernador, Diputad
 
 V. Las reglas y plazos para la realización de los procesos de precampañas y campañas electorales.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de Gobernador, y de treinta a sesenta días cuando sólo se elijan Diputados al Congreso y Ayuntamientos del Estado; en ningún caso la duración de las precampañas podrá exceder de las dos terceras partes del tiempo de las respectivas campañas electorales.
+En todo caso, la duración de las campañas será de sesenta días para las elecciones de Gobernador, Diputados al Congreso y Ayuntamientos del Estado; en ningún caso la duración de las precampañas podrá exceder de las dos terceras partes del tiempo de las respectivas campañas electorales.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 La violación a estas disposiciones por los partidos políticos, candidatos o cualquier persona física o moral, será sancionada conforme a la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Art. 43.
 
-La organización de las elecciones es una función estatal que se ejerce bajo los principios rectores de legalidad, imparcialidad, objetividad, certeza, máxima publicidad e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios; con competencia para organizar y realizar los procesos de consulta popular y de revocación de mandato. La Ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado que serán designados conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
+La organización de las elecciones es una función estatal que se ejerce bajo los principios rectores de legalidad, imparcialidad, objetividad, certeza, máxima publicidad e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios, que se denominará Comisión Estatal Electoral. La Ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado que serán designados conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -643,19 +643,19 @@ La propaganda bajo cualquier modalidad de comunicación social que difundan como
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los tres párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Art. 44.
 
-Para conocer y resolver las impugnaciones y controversias que se susciten dentro de los procesos electorales de la competencia estatal o con motivo de la impugnación de los resultados de los mismos, se establecerá en el estado un órgano jurisdiccional independiente con autonomía funcional y presupuestal, que tendrá a su cargo el desahogo de los recursos y la resolución de las controversias que se planteen en la materia con plenitud de jurisdicción en sus resoluciones. La ley establecerá sus atribuciones, forma de organización y funcionamiento del mismo.
+Para conocer y resolver las impugnaciones y controversias que se susciten dentro de los procesos electorales de la competencia estatal o con motivo de la impugnación de los resultados de los mismos, se establecerá en el estado un órgano jurisdiccional independiente con autonomía funcional y presupuestal, que se denominará Tribunal Electoral del Estado, y que tendrá a su cargo el desahogo de los recursos y la resolución de las controversias que se planteen en la materia con plenitud de jurisdicción en sus resoluciones. La ley establecerá sus atribuciones, forma de organización y funcionamiento del mismo.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1999)</small>
 
 En una partida del presupuesto de egresos, el Congreso del Estado, considerará la asignación de los recursos financieros que serán destinados al órgano jurisdiccional electoral.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
 
-La autoridad jurisdiccional electoral se integrará por tres Magistrados, quienes serán electos conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y en los términos que determine la Ley.
+El Tribunal Electoral del Estado se integrará por tres Magistrados, quienes serán electos conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y en los términos que determine la Ley.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
@@ -819,17 +819,21 @@ IV.- El Secretario de Finanzas y Tesorero General del Estado.
 
 V.- Los funcionarios y empleados federales en el Estado.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-VI.- Los Presidentes Municipales, por los Distritos en donde ejercen autoridad; y
+VI.- Los Presidentes Municipales,
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-VII.- Los Jefes Militares con mando de fuerza, sea federal o del Estado.
+VII.- Los Jefes Militares con mando de fuerza, sea federal o del Estado y,
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
 
-Los servidores públicos antes enunciados, con excepción del Gobernador, podrán ser electos como Diputados al Congreso del Estado si se separan de sus respectivos cargos cuando menos cien días naturales antes de la fecha en que deba celebrarse la elección de que se trate.
+VIII.- Los Diputados y Senadores del Congreso de la Unión.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
+
+Los servidores públicos antes enunciados, con excepción del Gobernador, podrán ser electos como Diputados al Congreso del Estado si se separan de sus respectivos cargos a más tardar un día antes del inicio de las campañas electorales correspondientes.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -3287,9 +3291,9 @@ II.- Ser mayor de veintiún años;
 
 III.- Tener residencia de no menos de un año, para el día de la elección en el Municipio en que ésta se verifique;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
 
-IV.- No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya dependan de éste, del Estado o de la Federación, exceptuándose los casos previstos en el artículo 124 de esta Constitución, así como los puestos de Instrucción y Beneficencia.
+IV.- No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya dependan de éste, del Estado o de la Federación, exceptuándose los casos previstos en el artículo 124 de esta Constitución, así como los puestos de Instrucción y Beneficencia, y los demás que establezca la ley.
 
 V.- Tener un modo honesto de vivir; y
 
@@ -5638,3 +5642,9 @@ P.O. 31 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 019. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO F), DE LA FRACCIÓN III DEL ARTÍCULO 33 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 097. SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 36, 41, EL PRIMER PÁRRAFO Y EL DIECISEISAVO PÁRRAFO DEL ARTÍCULO 42, PRIMER PÁRRAFO DEL ARTÍCULO 43, PRIMER Y TERCER PÁRRAFO DEL 44, FRACCIONES VI, VII Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 48, LA FRACCIÓN IV DEL ARTÍCULO 122, Y SE ADICIONA UNA FRACCIÓN VIII EN EL ARTÍCULO 48, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, ADEMÁS SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3, FRACCIONES III Y IV DEL ARTÍCULO 6, 9, 10, LA FRACCIÓN V DEL ARTÍCULO 35, LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 40, PRIMER PÁRRAFO DE LA FRACCIÓN I, INCISO A Y B DE LA FRACCIÓN I DEL ARTÍCULO 44, 73, SEGUNDO PÁRRAFO DEL ARTÍCULO 74, FRACCIÓN VII Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 79, 81 BIS, 81 BIS 1, 81 BIS 2, 81 BIS 3, 81 BIS 4, 81 BIS 5, 81 BIS 6, 81 BIS 7, LA FRACCIÓN X DEL ARTÍCULO 103, EL PRIMERO PÁRRAFO DEL ARTÍCULO 128, LAS FRACCIONES I Y II DEL ARTÍCULO 132, EL SEXTO PÁRRAFO DEL ARTÍCULO 136, 143, 144, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 146, EL PRIMER PÁRRAFO DEL ARTÍCULO 147, EL PRIMER PÁRRAFO DEL ARTÍCULO 162, EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 188, EL PRIMER PÁRRAFO Y FRACCIÓN VI DEL ARTÍCULO 204, LA FRACCIÓN III DEL ARTÍCULO 207, LA FRACCIÓN XI DEL ARTÍCULO 218, LA FRACCIÓN II DEL ARTÍCULO 239, LA FRACCIÓN PRIMERA DEL ARTÍCULO 266, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 288, EL PRIMER PÁRRAFO DEL ARTÍCULO 348, LAS FRACCIONES VIII Y IX DEL 352, LA FRACCIÓN I Y II DEL ARTÍCULO 358, LAS FRACCIONES II Y III DEL ARTÍCULO 370; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 6, UN QUINTO PÁRRAFO DEL ARTÍCULO 31, LAS FRACCIONES XXIII, XXIV, XXV, XXVI, XXVII, XXVIII AL ARTÍCULO 40, SÉPTIMO Y OCTAVO PÁRRAFO AL ARTÍCULO 136, ARTÍCULO 143 BIS, 143 BIS 1, 144 BIS 1, 144 BIS 2, 144 BIS 3, 146 BIS, 146 BIS 1, 146 BIS 2, ÚLTIMO PÁRRAFO AL ARTÍCULO 230, SEGUNDO, TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 264, 271 BIS, TERCER PÁRRAFO DEL ARTÍCULO 288, SEGUNDO PÁRRAFO AL ARTÍCULO 333, 333 BIS, FRACCIONES VI Y VII AL ARTÍCULO 348, 348 BIS, FRACCIÓN X AL ARTÍCULO 352, LA FRACCIÓN I Y II DEL ARTÍCULO 358, EL PRIMER PÁRRAFO DEL ARTÍCULO 369 FRACCIÓN IV Y ÚLTIMO PÁRRAFO AL ARTÍCULO 370, 374 BIS, 377 Y 378; SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 132, LA FRACCIÓN III DEL ARTÍCULO 358, TODOS DE LA LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
