@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2020-03-20"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -1363,6 +1363,20 @@ X. Las observaciones del Gobernador del Estado a los Decretos aprobados por el P
 
 XI. Los demás documentos oficiales que en su momento el Pleno del Congresos (sic) determine su difusión.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2022)</small>
+
+## TITULO NOVENO. DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2022)</small>
+
+### CAPITULO ÚNICO. DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
+
+###### Artículo 95.
+
+Durante las sesiones de pleno, diputación permanente y mesas de trabajo deberá haber un intérprete traductor de lenguaje de señas mexicanas, debidamente certificado, con el fin de traducir a la ciudadanía con alguna discapacidad los puntos tratados en las mismas.
+
 ## TRANSITORIOS
 
 PRIMERO:- Se abroga la Ley Orgánica del Poder Legislativo del Estado de Nuevo León, publicada en el Periódico Oficial del Gobierno del Estado el día 12 de Julio de 1958.
@@ -1650,3 +1664,9 @@ P.O. 20 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 281. SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 39; SE ADICIONAN LOS INCISOS H) E I) A LA FRACCIÓN V; Y SE DEROGA EL INCISO D) DE LA FRACCIÓN XIII, DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 095. SE ADICIONA EL “TITULO NOVENO DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD CAPÍTULO ÚNICO DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS” Y EL ARTÍCULO 95, A LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN, ASÍ COMO TAMBIÉN SE REFORMAN LAS FRACCIONES XXVI, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 65 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de la Publicación en el Periódico Oficial del Estado.
