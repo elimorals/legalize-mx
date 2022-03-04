@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-02-14"
+last_updated: "2022-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -142,6 +142,10 @@ I. PRIMER CIRCUITO:
 > <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 33/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
 6. Seis Juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
+
+> <small>(ADICIONADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 4/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2022)</small>
+
+7. Dos Juzgados de Distrito en Materia de Concursos Mercantiles.
 
 II. SEGUNDO CIRCUITO:
 
@@ -681,9 +685,9 @@ CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente
 
 I. PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 4/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2022)</small>
 
-Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas y los Juzgados de Distrito en Materia de Concursos Mercantiles, que ejercerán jurisdicción territorial en toda la República Mexicana.
 
 > <small>(DEROGADO TERCER PÁRRAFO POR EL TRANSITORIO DÉCIMO PRIMERO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -8750,3 +8754,21 @@ TERCERO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos Ó
 CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
 
 QUINTO. Las Oficinas de Correspondencia Común que dan servicio a los órganos que concluyen funciones fijarán en un lugar visible un aviso que contenga el origen y destino de los asuntos reasignados, para consulta de las personas interesadas.
+
+D.O.F. 4 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 4/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN MATERIA DE CONCURSOS MERCANTILES, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS; A LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los Juzgados Primero y Segundo de Distrito en Materia de Concursos Mercantiles de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos de la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia de Concursos Mercantiles.
+
+QUINTO. A partir del inicio de funciones de los Juzgados de Distrito en Materia de Concursos Mercantiles, con residencia en la Ciudad de México, cesará la competencia de los juzgados de Distrito mixtos, semiespecializados y especializados de todo el país para conocer de nuevos concursos mercantiles y demandas de amparo indirecto que se presenten en contra de resoluciones emitidas dentro de éstos.
+
+Los juzgados de Distrito mixtos, semiespecializados y especializados de todo el país mantendrán la competencia necesaria para seguir actuando, hasta su conclusión y archivo definitivo, en los concursos mercantiles y amparos indirectos relacionados con ellos que, a la fecha de inicio de funciones de los nuevos órganos en materia de concursos mercantiles, se encuentren en trámite y deban conservar, en términos del presente Acuerdo.
+
+SEXTO. La Visitaduría Judicial, en coordinación con la Dirección General de Estadística Judicial, elaborará e implementará modelos específicos de informes y actas de visita para la práctica de las inspecciones a los Juzgados de Distrito en Materia de Concursos Mercantiles, a fin de evaluar en forma adecuada su desempeño.
