@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2021-04-03"
+last_updated: "2022-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -2445,13 +2445,13 @@ I. Para ceder o traspasar sus derechos, el concesionario deberá obtener autoriz
 
 II. El adquirente deberá reunir los requisitos que se establezcan en el Reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2022)</small>
 
 ###### Artículo 126.
 
-Los vehículos afectos a las concesiones del servicio público de transporte masivo y colectivo de pasajeros, que sean otorgadas por el Ejecutivo del Estado, además de acreditar el cumplimiento de la norma general de carácter técnico aplicable, contarán con cámaras de seguridad que registren el ascenso de pasajeros y la conducción del operador, la operación a lo largo del pasillo de la unidad y el descenso de los usuarios; así como, escalones retractiles o diverso mecanismo que facilite el ascenso y descenso de la unidad.
+Los vehículos afectos a las concesiones del servicio público de transporte masivo y colectivo de pasajeros, que sean otorgadas por el Ejecutivo del Estado, además de acreditar el cumplimiento de las normas generales de carácter técnico aplicable, contarán con cámaras de seguridad que registren el ascenso de pasajeros y la conducción del operador, la operación a lo largo del pasillo de la unidad y el descenso de los usuarios; así como los dispositivos que garantizan una accesibilidad universal tales como rampas o elevadores, dispositivos auditivos y táctiles al interior y exterior del vehículo, asientos especiales, racks para bicicleta y los diversos mecanismos que faciliten el ascenso y descenso de la unidad, de conformidad con las características, requisitos y condiciones que se establezcan en la normatividad, reglamentos y demás disposiciones legales aplicables
 
-Las rutas deberán contar con por lo menos un diez por ciento de vehículos con rampa o diverso mecanismo que permita la accesibilidad de personas con discapacidad. Si de la aplicación del porcentaje resulta un número menor a dos, se habilitarán dos unidades por ruta para este servicio.
+La totalidad de los vehículos de las rutas de transporte público deberán de contar en funcionamiento con los mecanismos y dispositivos necesarios para brindar un servicio que permita la accesibilidad universal de las personas.
 
 ###### Artículo 127.
 
@@ -4660,3 +4660,13 @@ I. La reforma al artículo 83 Sexies fracciones II, III y IV, entrará en vigor 
 II. La reforma al artículo 83 Sexies fracción XIX, entrará en vigor a los 51 días naturales posteriores a su publicación.
 
 III. El resto de la reforma entrará en vigor al día siguiente de su publicación.
+
+P.O. 5 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28268/LXII/20 QUE REFORMA EL ARTÍCULO 126 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo a través de la Secretaría del Transporte deberá de realizar los ajustes necesarios para el cumplimiento de la accesibilidad universal en la renovación de los vehículos una vez entrada (sic) en vigor el presente decreto, considerando la renovación del parque vehicular de la etapa 2 del Reordenamiento, Reestructuración e Implementación del Sistema de Transporte Público, Mi Transporte, así como de las renovaciones que se realicen en lo consecutivo de acuerdo al dictamen correspondiente.
+
+TERCERO. El Gobernador Constitucional del Estado de Jalisco dispondrá de noventa días naturales a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco, para el cumplimiento del presente decreto.
