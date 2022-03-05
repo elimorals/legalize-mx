@@ -4,7 +4,7 @@ identifier: "COL-ley-de-las-entidades-paraestatales-del-estado-de-colima-151622"
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-09"
-last_updated: "2021-10-09"
+last_updated: "2022-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA DEL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
 
 Ley publicada en el Suplemento Número 3 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -507,9 +507,13 @@ PRIMERO. La ley contenida en este decreto entrará en vigor el día 1o de noviem
 
 SEGUNDO. Se derogan en lo conducente las disposiciones jurídicas que se opongan a lo establecido en el presente decreto.
 
-TERCERO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto, la Legislatura Estatal y el Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones a las leyes o decretos que crean entidades paraestatales de conformidad con lo previsto en este decreto y, en su caso, determinarán la fusión o extinción de las entidades paraestatales que se considere conveniente.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2022)</small>
 
-CUARTO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado adecuará los reglamentos interiores de las dependencias de la Administración Pública Centralizada en cuanto a la fijación de las entidades paraestatales que deban tener sectorizadas y en congruencia con tales reglamentos expedirá el acuerdo general de sectorización de las entidades paraestatales, el cual deberá publicarse en el periódico oficial del Estado.
+TERCERO. Dentro de los doscientos setenta días naturales siguientes a la entrada en vigor del presente decreto, la Legislatura Estatal y el Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones a las leyes o decretos que crean entidades paraestatales de conformidad con lo previsto en este decreto y, en su caso, determinarán la fusión o extinción de las entidades paraestatales que se considere conveniente.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2022)</small>
+
+CUARTO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado adecuará los reglamentos interiores de las dependencias de la Administración Pública Centralizada en cuanto a la fijación de las entidades paraestatales que deban tener sectorizadas y en congruencia con tales reglamentos expedirá el acuerdo general de sectorización de las entidades paraestatales, el cual deberá publicarse en el Periódico Oficial del Estado.
 
 QUINTO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación, Finanzas y Administración, deberá constituir el registro público de entidades paraestatales que prevé la ley contenida en el presente decreto.
 
@@ -562,3 +566,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 64.- POR EL QUE SE REFORMA EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN LOS ARTÍCULOS TERCERO Y CUARTO DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
