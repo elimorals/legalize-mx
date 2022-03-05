@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2020-12-26"
+last_updated: "2022-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -3179,11 +3179,7 @@ ACTUALIZACIÓN
 
 I.- Reposición de credencial de alumno 0.330
 
-II.- Expedición de duplicado de certificados escolares en los
-
-niveles de Educación Básica: Preescolar, Primaria y
-
-Secundaria 0.470
+II.- (DEROGADA, P.O. 5 DE MARZO DE 2022)
 
 III.- Informe de Calificaciones de Estudios Parciales de
 
@@ -6632,3 +6628,15 @@ P.O. 26 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día 01 del mes de enero del año 2021, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 5 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 61.- POR EL QUE SE DEROGA LA FRACCIÓN II, DEL ARTÍCULO 59 BIS, DE LA LEY DE HACIENDA PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Los duplicados de certificados de educación preescolar, primaria y secundaria que hubieran sido expedidos entre el 20 de marzo de 2020 y hasta la fecha en que entre en vigor el presente Decreto, como una medida de apoyo a las familias colimenses, quedan exentos del pago de derechos correspondientes.
