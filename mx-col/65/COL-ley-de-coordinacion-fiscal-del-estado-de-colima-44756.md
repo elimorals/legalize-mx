@@ -4,7 +4,7 @@ identifier: "COL-ley-de-coordinacion-fiscal-del-estado-de-colima-44756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-23"
-last_updated: "2020-11-07"
+last_updated: "2022-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de abril de 2005.
 
@@ -168,6 +168,16 @@ Además de los conceptos de participaciones enumerados en el artículo anterior,
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ARTÍCULO 7° BIS.- Además de las participaciones establecidas en los artículos 6º y 7º que anteceden, el Estado participará a los municipios el 100 por ciento de la recaudación del Impuesto sobre la Renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el municipio de que se trate, así como en sus respectivos organismos autónomos y entidades paramunicipales, de conformidad con lo establecido en el artículo 3-B, de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2022)</small>
+
+ARTÍCULO 7° TER.- Además de las participaciones establecidas en los artículos que anteceden, también se participará a los municipios del 22 por ciento del importe que al Estado corresponde por el incentivo, producto de la recaudación que se obtenga del Impuesto sobre la Renta por la enajenación de bienes inmuebles, y que por dichas operaciones se cause impuesto a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta.
+
+El coeficiente de distribución se determinará en proporción directa al monto de la recaudación del ejercicio fiscal inmediato anterior, del Impuesto Sobre Transmisiones Patrimoniales del municipio, entre el importe total de la recaudación acumulada anual que respecto de dicho impuesto recauden los municipios del Estado de Colima.
+
+Con este coeficiente se multiplica por el monto de distribución del incentivo del Impuesto Sobre la Renta por la enajenación de bienes inmuebles de todos los municipios del Estado de Colima, dando como resultado el monto a distribuir para el municipio de que se trate, cuya entrega deberá ser de forma mensual.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 5 DE MARZO DE 2022, PÁGINAS DE LA 19 A LA 20.]</small>
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -1092,3 +1102,11 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 5 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 62.- POR EL QUE SE ADICIONA EL ARTÍCULO 7° TER, A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
