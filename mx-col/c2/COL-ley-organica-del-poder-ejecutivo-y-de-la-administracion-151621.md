@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-ejecutivo-y-de-la-administracion-151621"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2021-10-09"
+last_updated: "2022-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
 
 Ley publicada en el Suplemento Número 2 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -1365,7 +1365,9 @@ QUINTO. Las personas trabajadoras que con motivo de la aplicación de la Ley con
 
 SEXTO. Los asuntos en trámite que por motivo de esta ley deban pasar de una Dependencia o Secretaría a otra, permanecerán en el estado en que se encuentren hasta que las unidades administrativas que los deban recibir tomen conocimiento de ellos a excepción de los asuntos sujetos a plazos improrrogables.
 
-SÉPTIMO. La persona titular del Poder Ejecutivo dentro de los noventa días siguientes a la entrada en vigor del presente decreto expedirá los reglamentos interiores correspondientes a las Dependencias y Secretarías que se crearon o reestructuraron.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2022)</small>
+
+SÉPTIMO. La persona titular del Poder Ejecutivo dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto expedirá los reglamentos interiores correspondientes a las Dependencias y Secretarías que se crearon o reestructuraron. En tanto, seguirán surtiendo efectos, en lo conducente, los reglamentos interiores emitidos al amparo de la abrogada Ley Orgánica de la Administración Pública del Estado de Colima, en lo que no se opongan a la presente Ley.
 
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
@@ -1408,3 +1410,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 64.- POR EL QUE SE REFORMA EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN LOS ARTÍCULOS TERCERO Y CUARTO DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
