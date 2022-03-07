@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2020-10-21"
+last_updated: "2022-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -37,7 +35,7 @@ DECRETO NÚMERO 232
 
 LA SEXAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO DECRETA:
 
-...
+[...]
 
 ###### ARTÍCULO QUINTO.
 
@@ -782,6 +780,10 @@ VI. Ofrecer a las personas receptoras y generadoras de violencia el acceso a pro
 VII. Evaluar el cumplimiento de las metas y objetivos propuestos; y
 
 VIII. Destinar presupuesto para garantizar el cumplimiento de los objetivos del Sistema Estatal y del Programa Estatal previstos en la Ley.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2022)</small>
+
+IX. Impulsar programas sobre crianza positiva, para garantizar los derechos de niñas, niños y adolescentes en el seno de la familia y potenciar el sano desarrollo de estos, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
 ## Título Séptimo. De la Prevención, la Atención y la Cultura de Paz
 
@@ -1578,3 +1580,9 @@ Artículo Décimo Cuarto. La Secretaría de Finanzas, Inversión y Administraci�
 Plazo para actualización de reglamentación municipal
 
 Artículo Décimo Quinto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor del mismo.
+
+P.O. 7 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 65 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 48 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
