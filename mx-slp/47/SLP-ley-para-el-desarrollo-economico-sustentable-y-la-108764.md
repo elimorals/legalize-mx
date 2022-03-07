@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2022-02-25"
+last_updated: "2022-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -229,11 +229,15 @@ V. Emprender la capacitación y consultoría para el diagnóstico, diseño e imp
 
 VI. Fomentar la participación y organización de foros y eventos de innovación y desarrollo científico y tecnológico;
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2022)</small>
 
-VII. Fomentar la difusión y promoción de las MIPYMES, a través de las herramientas digitales y tecnologías de la información, y
+VII. Fomentar la difusión y promoción de las MIPYMES, a través de las herramientas digitales y tecnologías de la información;
 
-VIII. Las demás que correspondan al Consejo Potosino de Ciencia y Tecnología, que se orienten a impulsar el desarrollo económico y elevar la competitividad del Estado.
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2022)</small>
+
+VIII. Fomentar el apoyo económico para el emprendimiento e impulso de negocios para las mujeres, y
+
+IX. Las demás que correspondan al Consejo Potosino de Ciencia y Tecnología, que se orienten a impulsar el desarrollo económico y elevar la competitividad del Estado.
 
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2022)</small>
 
@@ -491,7 +495,9 @@ III. Desarrollen infraestructura en las zonas prioritarias del Estado;
 
 IV. Realicen inversiones para solucionar problemas de la contaminación ambiental en materia de reciclaje, tratamiento y confinamiento de residuos domésticos e industria; así como la inversión en energías alternativas.
 
-V. Sustituyan importaciones mediante el control de insumos, componentes, servicios o productos de origen nacional y local;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2022)</small>
+
+V. Sustituir importaciones mediante la adquisición y la fabricación de insumos, componentes, servicios o productos de origen nacional y local;
 
 VI. Generen nuevas fuentes de empleos bien remunerados;
 
@@ -513,9 +519,9 @@ XIV. Den empleo a adultos mayores;
 
 XV. Fomenten la integración de cadenas productivas;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2022)</small>
 
-XVI. Sustituyan importaciones mediante la adquisición de insumos, componentes, servicios o productos que se generen en el Estado;
+XVI. Ser micro, pequeñas o medianas empresas a las necesidades de demanda del mercado local;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
@@ -779,11 +785,15 @@ XV. Promover la diferenciación y la explotación de nichos de mercado por parte
 
 XVI. Realizar acciones como eventos, programas y asesoría específica para apoyar a las pequeñas y medianas empresas en la adquisición de conocimientos y destrezas, en lo referente al desarrollo de proveedores;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2022)</small>
 
-XVII. Impulsar la educación financiera entre los emprendedores de las MIPYMES, y
+XVII. Impulsar la educación financiera entre los emprendedores de las MIPYMES;
 
-XVIII. Las demás que emanen de las atribuciones del Consejo y el reglamento.
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2022)</small>
+
+XVIII. Impulsar las acciones necesarias para el desarrollo de MIPyMES para mujeres, a través de programas productivos con perspectiva de género, y
+
+XIX. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
 ###### ARTÍCULO 65.
 
@@ -815,9 +825,17 @@ II. Contribuir a la creación, fortalecimiento, desarrollo, consolidación, viab
 
 III. Promover, capacitar y difundir los programas, instrumentos, productos, herramientas y acciones para elevar la competitividad de las micro, pequeñas y medianas empresas;
 
-IV. Fomentar el acceso al financiamiento de las MIPYMES, y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2022)</small>
 
-V. Impulsar la constitución de incubadoras de empresas y formación de emprendedores.
+IV. Fomentar el acceso al financiamiento de las MIPYMES;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2022)</small>
+
+V. Impulsar la constitución de incubadoras de empresas y formación de emprendedores, y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2022)</small>
+
+VI. Impulsar incubadoras de empresas y formación para las mujeres emprendedoras.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1058,6 +1076,22 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 25 DE FEBRERO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0274.- SE REFORMA EL ARTÍCULO 81, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0278.- SE REFORMA EL ARTÍCULO 33, EN SUS FRACCIONES V Y XVI, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0279.- SE REFORMAN LOS ARTÍCULOS 13, EN SU FRACCIÓN VII, 64 EN SU FRACCIÓN XVII Y 70 EN SUS FRACCIONES IV Y V; Y ADICIONA A LOS ARTÍCULOS 13 UNA FRACCIÓN, ÉSTA COMO VIII, 64 UNA FRACCIÓN ÉSTA COMO XVIII Y 70 LA FRACCIÓN VI, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
