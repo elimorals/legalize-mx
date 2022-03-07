@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-08-10"
+last_updated: "2022-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -683,7 +683,9 @@ II. A los particulares que se encuentren en situación especial conforme al pres
 
 Para el caso de faltas administrativas no graves, las facultades de las contralorías o de los órganos internos de control para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubiere cesado el acto u omisión de que se trate si fue de carácter continuo.
 
-Cuando se trate de faltas administrativas graves, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2022)</small>
+
+Cuando se trate de faltas administrativas graves o faltas de particulares, el plazo de prescripcion sera de siete años, contados en los mismos terminos del parrafo anterior.
 
 La prescripción se interrumpirá en los términos a que se refiere el artículo 115 de esta Ley.
 
@@ -1916,6 +1918,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 10 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1228 BIS.- SE REFORMA (SIC) LOS ARTÍCULOS 3° Y 207 Y DEROGA DEL ARTÍCULO 3° EN SU FRACCIÓN IV EL INCISO C), DEL ARTÍCULO 207 EN SU FRACCIÓN XI EL AHORA PÁRRAFO SEGUNDO, Y EN EL TÍTULO SEGUNDO DEL LIBRO SEGUNDO EL CAPÍTULO IV Y ARTÍCULO 209, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ."]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0277.- SE REFORMA EL ARTÍCULO 73, EN SU PÁRRAFO SEGUNDO, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
