@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2020-10-24"
+last_updated: "2022-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -213,11 +213,17 @@ b) Los objetivos y metas del Plan Estatal de Desarrollo, o de los Planes Municip
 
 c) Los objetivos y metas del Programa Estatal de Infraestructura, en su caso;
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2022)</small>
 
-d) Los objetivos y metas de los diversos programas que conforme a la Ley Estatal de Planeación del Estado y Municipios de San Luis Potosí, deriven del Plan Estatal de Desarrollo o de los Planes Municipales de Desarrollo, en su caso; y
+d) Los objetivos y metas de los diversos programas que conforme a la Ley Estatal de Planeación del Estado y Municipios de San Luis Potosí, deriven del Plan Estatal de Desarrollo o de los Planes Municipales de Desarrollo, en su caso;
 
-e) Los objetivos, metas y previsiones de recursos establecidos en sus respectivos presupuestos de egresos.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2022)</small>
+
+e) Los objetivos, metas y previsiones de recursos establecidos en sus respectivos presupuestos de egresos, y
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2022)</small>
+
+f) Los objetivos de desarrollo sostenible.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
@@ -1442,5 +1448,13 @@ P.O. 24 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0786.- SE REFORMA ARTICULO 71 EN SUS INCISOS B) Y C); Y ADICIONA AL MISMO ARTÍCULO 71, TRES PÁRRAFOS, ESTOS COMO, INCISOS: D), Y E), Y PÁRRAFO SÉPTIMO, DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0280.- SE REFORMA EL ARTÍCULO 11, EN SUS INCISOS D) Y E); Y ADICIONA AL MISMO ARTÍCULO 11 EL INCISO F), DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
