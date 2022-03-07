@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2021-09-13"
+last_updated: "2022-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -544,9 +544,11 @@ Las dependencias y entidades deberán remitir a la Secretaría sus respectivos a
 
 La Secretaría queda facultada para formular el anteproyecto de presupuesto de las dependencias y entidades, cuando las mismas no lo presenten en los plazos establecidos, o no cumplan con las disposiciones a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 29.
 
-Los poderes, Legislativo; y Judicial, y los entes autónomos, enviarán a la Secretaría sus proyectos de presupuesto a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar treinta días naturales antes de la fecha de presentación del mismo.
+Los poderes, Legislativo; y Judicial, y los entes autónomos, enviarán a la Secretaría sus proyectos de presupuesto a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar el quince de octubre del año que se trate.
 
 En la programación y presupuestación de sus respectivos proyectos, los ejecutores del gasto a que se refiere el párrafo anterior, deberán sujetarse a lo dispuesto en esta Ley, y observar que su propuesta sea compatible con los criterios generales emitidos por la Secretaría.
 
@@ -1473,3 +1475,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0276.- SE REFORMA EL ARTÍCULO 29, EN SU PÁRRAFO PRIMERO, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
