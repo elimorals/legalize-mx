@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-tribunal-electoral-del-poder-judicial-de-la-155235"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-02-04"
-last_updated: "2022-02-04"
+last_updated: "2022-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2022-01-24"
 ---
 # ACUERDO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [POR EL QUE SE AUTORIZA LA CREACION DEL COMITE DE EVALUACION Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD, ASI COMO DE LAS REGLAS DE SU INTEGRACION Y FUNCIONAMIENTO]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2022 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO POR EL QUE SE AUTORIZA LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD, ASÍ COMO DE LAS REGLAS DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 7 DE MARZO DE 2022.]</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 4 de febrero de 2022.
 
@@ -67,7 +67,9 @@ Las disposiciones contenidas en este Acuerdo de creación son de observancia gen
 
 Para los efectos de este Acuerdo se entenderá por:
 
-I. Acuerdo: Acuerdo General de Comité Coordinador para Homologar Criterios;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2022)</small>
+
+I. Acuerdo: Acuerdo General del Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación (PJF), que establece las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del Poder Judicial de la Federación para el ejercicio fiscal correspondiente;
 
 II. Áreas Gestoras del Gasto: Son las unidades administrativas del Tribunal Electoral que cuentan con presupuesto asignado y proyectos a ejecutar en el ejercicio fiscal que corresponda;
 
