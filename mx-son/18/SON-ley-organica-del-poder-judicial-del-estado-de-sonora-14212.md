@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2021-03-11"
+last_updated: "2022-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MARZO DE 2022.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -59,9 +59,9 @@ III.- Los Juzgados de Primera Instancia;
 
 IV.- Los Juzgados Locales; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 8 DE MARZO DE 2022)</small>
 
-V.- (DEROGADA, B.O. 11 DE DICIEMBRE DE 2015)
+V.- Tribunales Laborales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -125,17 +125,15 @@ Los acuerdos y resoluciones del Pleno del Supremo Tribunal de Justicia deberán 
 
 El Supremo Tribunal de Justicia tendrá, funcionando en Pleno, en el ámbito jurisdiccional, las siguientes atribuciones:
 
-> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-I.- Conocer de las cuestiones de competencia que se susciten entre los Tribunales Regionales de Circuito, entre Jueces de Primera Instancia o entre Jueces Locales pertenecientes a distintos Distritos Judiciales del Estado;
+I.- Conocer de las cuestiones de competencia que se susciten entre los Tribunales Regionales de Circuito, entre Jueces de Primera Instancia, Jueces Laborales o entre Jueces Locales pertenecientes a distintos Distritos Judiciales del Estado;
 
 II.- Calificar y resolver las causas de recusación o excusa de los Magistrados del Supremo Tribunal de Justicia y de los Magistrados de los Tribunales Regionales de Circuito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
-
-III.- Resolver, en los asuntos cuyo conocimiento le competa, de las recusaciones de los Jueces de Primera Instancia, ordenando la remisión del expediente a quien corresponda;
+III.- Resolver, en los asuntos cuyo conocimiento le competa, de las recusaciones de los Jueces de Primera Instancia y Jueces Laborales, ordenando la remisión del expediente a quien corresponda;
 
 IV.- Conocer y resolver de las solicitudes de indulto necesario o reconocimiento de inocencia;
 
@@ -193,27 +191,37 @@ Asimismo nombrar, a propuesta de su Presidente, a los titulares de los órganos 
 
 IX.- Nombrar al Magistrado o Magistrados que deban proveer los trámites de carácter urgente, durante los períodos de receso o vacacionales del Supremo Tribunal de Justicia;
 
-X.- Conocer y aceptar las renuncias que presenten los Magistrados Regionales de Circuito y los Jueces de Primera Instancia y nombrar, provisionalmente, a las personas que deberán sustituirlos en dichos cargos hasta en tanto se realiza la designación definitiva, con base en lo que establece la presente ley respecto de la carrera judicial;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-XI.- Determinar provisionalmente el cambio de adscripción de los Magistrados Regionales de Circuito y de los Jueces de Primera Instancia, lo que deberá comunicar al Consejo del Poder Judicial del Estado de Sonora para el ejercicio de las atribuciones de éste;
+X.- Conocer y aceptar las renuncias que presenten los Magistrados Regionales de Circuito y los Jueces de Primera Instancia, Jueces Laborales y nombrar, provisionalmente, a las personas que deberán sustituirlos en dichos cargos hasta en tanto se realiza la designación definitiva, con base en lo que establece la presente ley respecto de la carrera judicial;
+
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+XI.- Determinar provisionalmente el cambio de adscripción de los Magistrados Regionales de Circuito, de los Jueces de Primera Instancia, y Jueces Laborales, lo que deberá comunicar al Consejo del Poder Judicial del Estado de Sonora para el ejercicio de las atribuciones de este;
 
 XII.- Determinar el número y los distritos judiciales que comprenderán cada uno de los circuitos en que se divide el territorio del Estado;
 
 XIII.- Determinar el número de los Tribunales Regionales de Circuito que existirán en cada uno de los circuitos;
 
-XIV.- Determinar el número y, en su caso, la especialización por materia de los Juzgados de Primera Instancia que existirán en cada uno de los distritos judiciales;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-XV.- Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia, cuando en un mismo lugar haya varios de ellos;
+XIV.- Determinar el número y, en su caso, la especialización por materia de los Juzgados de Primera Instancia y de los Tribunales Laborales, que existirán en cada uno de los distritos judiciales;
 
-> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-XVI.- Nombrar, con carácter provisional y con sujeción al principio de paridad de género, Magistrados Regionales de Circuito y Jueces de Primera Instancia cuando, en los casos previstos en esta Ley, se declaren desiertos los concursos;
+XV.- Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los Tribunales Regionales de Circuito, de los Juzgados de Primera Instancia y los Tribunales Laborales cuando en un mismo lugar haya varios de ellos;
+
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+XVI.- Nombrar, con carácter provisional y con sujeción al principio de paridad de género, Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces de los Tribunales Laborales cuando, en los casos previstos en esta Ley, se declaren desiertos los concursos;
 
 XVII.- Ordenar, cuando se considere conveniente por necesidades del servicio, la instalación de Juzgados de Primera Instancia Supernumerarios, y señalar el período de su funcionamiento, así como los asuntos de los que deban conocer;
 
 XVIII.- Evaluar periódicamente el funcionamiento de los órganos del Supremo Tribunal de Justicia y adoptar las medidas pertinentes para mejorarlo;
 
-XIX.- Ordenar la realización de visitas extraordinarias a los Tribunales Regionales de Circuito y a los Juzgados de Primera Instancia y Locales cuando estime que se ha cometido una falta grave, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial y Contraloría;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+XIX.- Ordenar la realización de visitas extraordinarias a los Tribunales Regionales de Circuito, Tribunales Laborales, Juzgados de Primera Instancia y Locales cuando estime que se ha cometido una falta grave, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial y Contraloría;
 
 XX.- Rendirles al Congreso del Estado y al Ejecutivo Estatal, por conducto de su Presidente, los informes que le soliciten sobre el ramo judicial;
 
@@ -241,7 +249,9 @@ XXVII.- Establecer la normatividad y los criterios para modernizar las estructur
 
 XXVIII.- Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado;
 
-XXIX.- Emitir las disposiciones que resulten necesarias a efecto de normar, a través de la implementación de Libros de Gobierno, un efectivo sistema de registro que refleje la actuación de los Juzgados de Primera Instancia, así como los trámites relativos a la substanciación de los diversos medios de impugnación en los Tribunales Regionales de Circuito;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+XXIX.- Emitir las disposiciones que resulten necesarias a efecto de normar, a través de la implementación de Libros de Gobierno, un efectivo sistema de registro que refleje la actuación de los Juzgados de Primera Instancia y de los Tribunales Laborales, así como los trámites relativos a la substanciación de los diversos medios de impugnación en los Tribunales Regionales de Circuito;
 
 XXX.- Administrar los bienes muebles e inmuebles del Poder Judicial del Estado, cuidando de su mantenimiento, conservación y acondicionamiento;
 
@@ -341,7 +351,9 @@ XII.- Someter, anualmente, a la aprobación del Pleno del Supremo Tribunal de Ju
 
 XIII.- Celebrar convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal del Poder Judicial del Estado, que sea necesario para garantizar que las personas con discapacidad o personas en situación de discapacidad reciban un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte;
 
-XIV.- Solicitar informes a las Salas del Supremo Tribunal de Justicia, a los Tribunales Regionales de Circuito, a los Juzgados de Primera Instancia y a cualquier otro órgano del Poder Judicial;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+XIV.- Solicitar informes a las Salas del Supremo Tribunal de Justicia, a Tribunales Regionales de Circuito, a Juzgados de Primera Instancia, a Tribunales Laborales y a cualquier otro órgano del Poder Judicial;
 
 XV.- Conceder licencias en los términos establecidos en la presente ley;
 
@@ -425,7 +437,9 @@ b).- De los recursos de apelación interpuestos en controversias sobre acciones 
 
 c).- De los recursos de queja interpuestos en asuntos de los comprendidos en los dos incisos anteriores; y
 
-d).- De los demás asuntos que expresamente señalen las leyes, así como de los juicios de responsabilidad civil en única instancia, en contra de los jueces de primera instancia y locales.
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
+d) De los demás asuntos que expresamente señalen las leyes, así como de los juicios de responsabilidad civil en única instancia, en contra de los jueces de primera instancia, Jueces Laborales y locales.
 
 > <small>(ADICIONADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -763,7 +777,9 @@ Las faltas temporales que no excedan de tres meses así como los casos de impedi
 
 Los Secretarios de Acuerdos tendrán, en el ámbito de competencia de los Tribunales Regionales de Circuito, las obligaciones y facultades señaladas en el artículo 37, fracciones I, III, VI y IX de la presente ley, así como las de autorizar con su firma los acuerdos y resoluciones de la Presidencia de los Tribunales Colegiados Regionales de Circuito y del Magistrado de los Tribunales Unitarios Regionales de Circuito, concernientes al trámite de los recursos que conozcan, así como las resoluciones y sentencias que recaigan a tales recursos en ambos tribunales regionales; dar cuenta, dentro de las veinticuatro horas siguientes a su presentación ante la Oficialía de Partes de los Tribunales, de los escritos, oficios y promociones que se reciban y con los autos de expedientes que, conforme a la ley, ameriten acuerdo o resolución; vigilar que los libros, registros, y demás medidas de control de los Tribunales Regionales de Circuito se lleven correcta y oportunamente; presentar a la Presidencia de los Tribunales Colegiados Regionales de Circuito y a los Magistrados de los Tribunales Unitarios Regionales de Circuito, una noticia de los negocios despachados durante el mes anterior, consignando los que quedan pendientes, con expresión del último trámite y su fecha; tener bajo su dependencia inmediata al demás personal de la Secretaría de Acuerdos y ejercer vigilancia sobre él para el correcto desempeño de sus labores.
 
-## TITULO CUARTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 8 DE MARZO DE 2022)</small>
+
+## TITULO CUARTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA Y TRIBUNALES LABORALES
 
 ### CAPITULO PRIMERO. DE LOS DISTRITOS JUDICIALES
 
@@ -881,9 +897,7 @@ VIII. Los Juzgados Mixtos;
 
 IX. Los Juzgados de Ejecución Penal; y
 
-> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2020)</small>
-
-X. Los Juzgados Laborales.
+X. (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
 > <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -995,13 +1009,19 @@ II. Ser profesionista titulado, con experiencia en la Administración Pública; 
 
 III. No haber sido condenado por la comisión de algún delito doloso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+ARTICULO 57 QUATER.- La función jurisdiccional en materia laboral se ejerce por los Tribunales Laborales.
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
+
+ARTICULO 57 QUINQUIES.- Los Tribunales Laborales, se compondrán del número de Jueces y demás personal que determine el Pleno para su óptimo funcionamiento, en función de la demanda del servicio y atendiendo al presupuesto en cada Distrito Judicial, quienes podrán compartir la plantilla de personal a su cargo, tales como Secretarios Instructores, Actuarios y demás Servidores Públicos
+
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 58.
 
-Los Jueces de Primera Instancia deberán residir en las cabeceras de sus respectivos Distritos Judiciales, y no podrán abandonar su residencia sin permiso previo otorgado por el Presidente del Supremo Tribunal de Justicia o bien, por el funcionario que determine el Pleno de éste mediante acuerdo general.
+Los Jueces de Primera Instancia y Jueces Laborales deberán residir en las cabeceras de sus respectivos Distritos Judiciales, y no podrán abandonar su residencia sin permiso previo otorgado por el Presidente del Supremo Tribunal de Justicia o bien, por el funcionario que determine el Pleno de este mediante acuerdo general.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1019,15 +1039,17 @@ III. Coordinar la redacción de acuerdos las sesiones de trabajo; y
 
 IV. Las que determine mediante acuerdo general el Pleno del Supremo Tribunal de Justicia en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
+
+ARTICULO 58 TER.- En los Distritos Judiciales habrá el número necesario de Juzgados de Primera Instancia, Tribunales Laborales, Jueces de Control y Tribunales de Enjuiciamiento, Juzgados Especializados en Justicia para Adolescentes y Juzgados de Ejecución Penal que determine el Supremo Tribunal de Justicia.
 
 > <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 58 TER.- En los Distritos Judiciales habrá el número necesario de Juzgados de Primera Instancia, Jueces de control y Tribunales de Enjuiciamiento, Juzgados Especializados en Justicia para adolescentes y Juzgados de Ejecución Penal que determine el Supremo Tribunal de Justicia.
-
 El Supremo Tribunal de Justicia tendrá la facultad de fijar la competencia territorial de dichos Órganos Jurisdiccionales.
 
-### CAPITULO TERCERO. DE LAS ATRIBUCIONES DE LOS JUECES DE PRIMERA INSTANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 8 DE MARZO DE 2022)</small>
+
+### CAPITULO TERCERO. DE LAS ATRIBUCIONES DE LOS JUECES DE PRIMERA INSTANCIA Y DE LOS JUECES LABORALES
 
 ###### ARTICULO 59.
 
@@ -1157,9 +1179,17 @@ ARTICULO 63 BIS.- Los Juzgados Especializados en Justicia para Adolescentes cono
 
 Los Juzgados Especializados en Justicia para Adolescentes podrán ejercer jurisdicción en uno o más distritos judiciales, según lo determine el Pleno del Supremo Tribunal de Justicia en el Acuerdo de su creación.
 
-> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-ARTICULO 63 TER.- Los Juzgados Laborales conocerán de los conflictos laborales, cuando se actualice el supuesto previsto en el artículo 123, apartado A, fracción XX de la Constitución Política de los Estados Unidos Mexicanos.
+ARTICULO 63 TER.- Corresponde a los Tribunales Laborales:
+
+I.- Conocer de las diferencias o conflictos de la materia laboral, que se susciten dentro de su jurisdicción y que no sean de competencia federal, en los términos de las fracciones XX y XXXI del apartado A, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y artículo 604 de la Ley Federal del Trabajo.
+
+II.- Distribuir los asuntos entre los jueces en forma equitativa y, en su caso, conforme a los lineamientos que establezca el Pleno del Supremo Tribunal de Justicia del Estado.
+
+III.- Conocer y tramitar los exhortos y despachos relacionados con el derecho laboral;
+
+IV.- Ejercer las demás atribuciones que esta ley y otros ordenamientos jurídicos les otorguen.
 
 ###### ARTICULO 64.
 
@@ -1199,27 +1229,47 @@ X.- Las demás que les señalen otras disposiciones legales o les confieran el P
 
 Cuando existan varios Juzgados de Primera Instancia en un mismo Distrito Judicial, la facultad, señalada en la fracción III de este artículo, será ejercida por el Juez de lo Civil y, en caso de que en el Distrito Judicial respectivo hubiere más de uno, por el primero en su orden numérico.
 
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
+
+ARTICULO 64 BIS.- Corresponde a los Jueces de los Tribunales Laborales, además de las atribuciones indicadas en las leyes laborales, el ejercicio de las siguientes facultades:
+
+I.- Nombrar y remover a sus Secretarios Instructores, Actuarios y demás personal del Tribunal Laboral, así como conocer y aceptar las renuncias de los mismos a sus puestos.
+
+Para el nombramiento de los Secretarios Instructores y Actuarios se deberá observar lo que establece esta ley en materia de carrera judicial y demás leyes aplicables;
+
+II.- Practicar las diligencias que le sean encomendadas por el Supremo Tribunal de Justicia o por otras autoridades judiciales;
+
+III.- Integrar y mantener permanentemente actualizados, para los efectos de la carrera judicial, los expedientes personales de sus Secretarios Instructores y Actuarios, así como los correspondientes al resto de su personal, para los efectos del escalafón;
+
+IV.- Remitir al Centro de Información Estadística del Poder Judicial del Estado de Sonora, en la forma y periodos que se determinen, los datos que, derivados del ejercicio de sus atribuciones, les sean requeridos por dicho Centro;
+
+V.- Determinar el sistema de distribución de los asuntos que deban conocer el personal a su cargo, sin perjuicio de la observancia de las disposiciones que, para el caso, emita el Pleno del Supremo Tribunal de Justicia;
+
+VI.- Evaluar periódicamente el funcionamiento de los Tribunales Laborales de los cuales sean titulares, y en su caso, adoptar las medidas pertinentes para mejorarlo;
+
+VII.- Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas de los Tribunales Laborales a su cargo; y
+
+VIII.- Las demás que les señalen otras disposiciones legales o les confieran el Pleno del Supremo Tribunal de Justicia o su Presidente.
+
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 65.
 
-En los lugares en que no resida Juez de Distrito o cuando éste servidor no hubiere sido suplido en los términos que establece la Ley Orgánica del Poder Judicial de la Federación, los Jueces de Primera Instancia practicarán las diligencias que les encomienden las leyes en auxilio de la Justicia Federal.
+En los lugares en que no resida Juez de Distrito o cuando este servidor no hubiere sido suplido en los términos que establece la Ley Orgánica del Poder Judicial de la Federación, los Jueces de Primera Instancia y Jueces Laborales practicarán las diligencias que les encomienden las leyes en auxilio de la Justicia Federal.
 
 ### CAPITULO CUARTO. DE LA RESIDENCIA, ESPECIALIDAD, JURISDICCION Y TURNOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 66.
 
-El Pleno del Supremo Tribunal de Justicia, mediante Acuerdos Generales que deberán publicarse en el Boletín Oficial del Gobierno del Estado, determinará el número, la residencia, la especialidad por materia, la jurisdicción territorial y el conocimiento por turnos de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
+El Pleno del Supremo Tribunal de Justicia, mediante Acuerdos Generales que deberán publicarse en el Boletín Oficial del Gobierno del Estado, determinará el número, la residencia, en su caso, la especialidad por materia, la jurisdicción territorial y el conocimiento por turnos de los Tribunales Regionales de Circuito, de los Tribunales Laborales y de los Juzgados de Primera Instancia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 67.
 
-El número de Juzgados en cada Distrito Judicial será determinado mediante acuerdo del Consejo del Poder Judicial del Estado de Sonora.
+El número de Juzgados y Tribunales Laborales en cada Distrito Judicial será determinado mediante acuerdo del Consejo del Poder Judicial del Estado de Sonora.
 
 ### CAPITULO QUINTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA SUPERNUMERARIOS
 
@@ -1284,6 +1334,10 @@ XI.- Resguardar los sellos del Juzgado;
 XII.- Ejercer, bajo su responsabilidad, por sí mismos o por conducto de los servidores públicos de la administración de justicia subalternos, la vigilancia que sea necesaria en la oficina, para evitar la pérdida o extravío de expedientes; y
 
 XIII.- Las demás que les señalen esta ley u otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
+
+ARTICULO 70 BIS.- Los Secretarios Instructores de los Tribunales Laborales, además de las facultades y obligaciones que tienen los Secretarios de Acuerdos establecidas en esta Ley, tendrán las que señala la Ley Federal del Trabajo, y demás disposiciones legales aplicables.
 
 ### CAPITULO SEPTIMO. DEL SISTEMA DE SUPLENCIAS EN LOS JUZGADOS DE PRIMERA INSTANCIA
 
@@ -1393,7 +1447,9 @@ Los suplentes de los Jueces Locales entrarán en funciones a falta o por impedim
 
 El Consejo del Poder Judicial del Estado de Sonora es un órgano permanente de la administración de justicia, y tendrá las siguientes atribuciones:
 
-I.- Nombrar y adscribir a los Magistrados de los Tribunales Regionales de Circuito y a los Jueces de Primera Instancia, así como resolver sobre la ratificación y cambios de adscripción de los mismos, con base en lo que establece esta ley respecto de la carrera judicial;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+I.- Nombrar y adscribir a los Magistrados de los Tribunales Regionales de Circuito, a los Jueces de Primera Instancia, Jueces Laborales, así como resolver sobre la ratificación y cambios de adscripción de los mismos con base en lo que establece esta ley respecto de la carrera judicial;
 
 II.- Coordinar a la Dirección General de Formación, Capacitación y Especialización Judiciales respecto a la planeación y ejecución sobre los programas docentes de formación, capacitación, actualización y especialización que diseñen conjuntamente;
 
@@ -1861,11 +1917,11 @@ XI.- Las demás que le confiera el Pleno del Supremo Tribunal de Justicia.
 
 ### CAPITULO CUARTO. DE LA VISITADURIA JUDICIAL Y CONTRALORIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 107.
 
-A la Visitaduría Judicial y Contraloría le corresponde inspeccionar el funcionamiento de los Tribunales Regionales de Circuito, de los Juzgados, de las Centrales de Actuarios, Oficialías de Partes Comunes y de los Centros de Mediación para supervisar las conductas de quienes laboran en dichos órganos, así como controlar y verificar el cumplimiento de las normas de funcionamiento administrativo que los rijan; para tales efectos, tendrá las siguientes atribuciones:
+A la Visitaduría Judicial y Contraloría le corresponde inspeccionar el funcionamiento de los Tribunales Regionales de Circuito, de los Juzgados, de los Tribunales Laborales, de las Centrales de Actuarios, Oficialías de Partes Comunes y de los Centros de Mediación para supervisar las conductas de quienes laboran en dichos órganos, así como controlar y verificar el cumplimiento de las normas de funcionamiento administrativo que los rijan; para tales efectos, tendrá las siguientes atribuciones:
 
 I.- En el ámbito de visitaduría judicial:
 
@@ -1877,9 +1933,9 @@ c).- Comprobar el cumplimiento de las disposiciones que regulan lo relativo al a
 
 d).- Hacer constar el número de asuntos que hayan ingresado al órgano visitado durante el tiempo que comprende la visita, y determinar, en los juzgados de lo penal y mixtos, si los procesados que disfruten de libertad provisional bajo caución han cumplido con la obligación de presentarse en los plazos fijados;
 
-> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-e).- Examinar los expedientes que se estimen convenientes, formados con motivo de las causas penales, civiles y las instruidas a adolescentes por conductas tipificadas como delitos por las leyes penales, a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y requisitorias han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los procesados, así como los que la propia Constitución y la Ley que establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, prevén para los mismos adolescentes. En cada uno de los expedientes revisados, se pondrá la constancia respectiva; y
+e) Examinar los expedientes que se estimen convenientes, formados con motivo de las causas penales, civiles, laborales y las instruidas a los adolescentes por conductas tipificadas como delitos por las leyes penales, a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y requisitorias han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los procesados, así como los que la propia Constitución y la Ley que establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, prevén para los mismos adolescentes. En cada uno de los expedientes revisados, se pondrá la constancia respectiva; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1915,11 +1971,9 @@ e).- Las demás que en esta materia determinen las leyes, el reglamento y el Ple
 
 Las funciones que en esta ley se confieren a la Visitaduría Judicial y Contraloría serán ejercidas por los visitadores adscritos a la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
-
-Los visitadores, de acuerdo con los sorteos periódicos que realice el Pleno del Supremo Tribunal de Justicia, o bien, cuando éste lo determine discrecionalmente, deberán inspeccionar de manera ordinaria los Tribunales Regionales de Circuito y los Juzgados, cuando menos dos veces por año.
+Los Visitadores, de acuerdo con los sorteos periódicos que realice el Pleno del Supremo Tribunal de Justicia, o bien, cuando este lo determine discrecionalmente, deberán inspeccionar de manera ordinaria los Tribunales Regionales de Circuito, los Tribunales Laborales y los Juzgados, cuando menos dos veces por año.
 
 > <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1963,17 +2017,17 @@ Este archivo, en los términos de la Ley que Regula la Administración de Docume
 
 Se depositarán en el Archivo General del Poder Judicial del Estado todos los expedientes que se hubieren tramitado en los tribunales del Estado, una vez transcurridos los periodos que después de concluidos determine el Pleno del Supremo Tribunal de Justicia, así como los documentos que señalen esta ley, su reglamento y el propio Pleno del Supremo Tribunal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 113.
 
-Los Tribunales Regionales de Circuito y los Juzgados, al remitir los expedientes al Archivo General, harán constar en libro exprofeso lo que contenga cada remisión, comunicándolo por oficio al encargado del Archivo y al Presidente del Supremo Tribunal de Justicia.
+Los Tribunales Regionales de Circuito, los Tribunales Laborales y los Juzgados, al remitir los expedientes al Archivo General, harán constar en libro exprofeso lo que contenga cada remisión, comunicándolo por oficio al encargado del Archivo y al Presidente del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 114.
 
-Los expedientes y documentos recibidos en el Archivo serán anotados en un libro de entradas para cada Tribunal Regional de Circuito, Juzgado o dependencia judicial y, arreglados convenientemente, se colocarán en el lugar que les corresponda, evitando que sufran cualquier deterioro.
+Los expedientes y documentos recibidos en el Archivo serán anotados en un libro de entradas para cada Tribunal Regional de Circuito, Tribunales Laborales, Juzgado o dependencia judicial y, arreglados convenientemente, se colocarán en el lugar que les corresponda, evitando que sufran cualquier deterioro.
 
 ###### ARTICULO 115.
 
@@ -2043,13 +2097,19 @@ Los Jueces de Primera Instancia durarán cinco años en el ejercicio de su encar
 
 Sin perjuicio de lo dispuesto en el presente artículo, los Jueces de Primera Instancia podrán ser privados de sus cargos en cualquier momento por las causas que señala esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
+
+ARTICULO 122 BIS.- Para ser Juez Laboral, además de los requisitos señalados en el artículo anterior deberán contar con capacidad y experiencia en materia laboral.
+
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 123.
 
-Los Secretarios de Acuerdos de los Juzgados de Primera Instancia deberán contar con una experiencia profesional de al menos un año y satisfacer los mismos requisitos que para ser Juez.
+Los Secretarios de Acuerdos de los Juzgados de Primera Instancia, deberán contar con una experiencia profesional de al menos un año y satisfacer los mismos requisitos que para ser Juez.
 
-Los Actuarios del Supremo Tribunal de Justicia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, con título de Licenciado en Derecho expedido legalmente, gozar de buena reputación y no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año.
+Los Secretarios Instructores de los Tribunales Laborales, además de contar con los requisitos anteriores deberán tener capacidad y experiencia en materia laboral.
+
+Los Actuarios del Supremo Tribunal de Justicia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, con título de Licenciado en Derecho expedido legalmente, gozar de buena reputación y no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año. Los Actuarios de los Tribunales Laborales, además de contar con los requisitos anteriores deberán tener capacidad y experiencia en materia laboral.
 
 Los servidores públicos de carácter jurisdiccional a que se refiere el presente artículo serán nombrados y removidos de conformidad con las disposiciones que en materia de carrera judicial y responsabilidades establece esta ley.
 
@@ -2063,6 +2123,10 @@ II.- Secretario General de Acuerdos del Supremo Tribunal de Justicia;
 
 III.- Juez de Primera Instancia;
 
+> <small>(ADICIONADA, B.O. 8 DE MARZO DE 2022)</small>
+
+III BIS.- Juez Laboral
+
 IV.- Secretario Proyectista del Supremo Tribunal de Justicia;
 
 V.- Secretario Proyectista de Tribunal Regional de Circuito;
@@ -2072,6 +2136,10 @@ VI.- Secretario de Acuerdos de Tribunal Regional de Circuito;
 VII.- Secretario Auxiliar de Acuerdos del Supremo Tribunal de Justicia y de Tribunal Regional de Circuito;
 
 VIII.- Secretario de Acuerdos de Juzgado de Primera Instancia;
+
+> <small>(ADICIONADA, B.O. 8 DE MARZO DE 2022)</small>
+
+VIII BIS.- Secretario Instructor del Tribunal Laboral.
 
 IX.- Actuario Ejecutor; y
 
@@ -2095,27 +2163,27 @@ ARTICULO 125 BIS.- La carrera judicial tiene por objeto, con base en el sistema 
 
 #### SECCION PRIMERA. DE LOS CONCURSOS DE OPOSICION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 126.
 
-El ingreso y promoción para las categorías de Magistrado Regional de Circuito y Juez de Primera Instancia se sujetará al principio de paridad de género, a través de:
+El ingreso y promoción para las categorías de Magistrado Regional de Circuito, Juez de Primera Instancia y Juez Laboral se sujetarán al principio de paridad de género, a través de:
 
-I.- Concurso interno de oposición; y
+I. Concurso interno de oposición; y
 
-II.- Concurso de oposición libre.
+II. Concurso de oposición libre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 127.
 
-El Pleno del Supremo Tribunal de Justicia del Estado, a propuesta de la Comisión de Carrera Judicial, determinará qué plazas de Magistrados Regionales de Circuito y de Jueces de Primera Instancia deberán ser cubiertas mediante concurso interno de oposición, y cuáles a través de concurso de oposición libre.
+El Pleno del Supremo Tribunal de Justicia del Estado, a propuesta de la Comisión de Carrera Judicial, determinará que plazas de Magistrados Regionales de Circuito, de Jueces de Primera Instancia y Jueces Laborales deberán ser cubiertas mediante concurso interno de oposición, y cuáles a través de concurso de oposición libre.
+
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 128.
 
-En los concursos internos de oposición para las plazas de Magistrado Regional de Circuito, únicamente podrán participar los Jueces de Primera Instancia. Asimismo, en los concursos internos de oposición para las plazas de Juez de Primera Instancia, exclusivamente podrán participar quienes se encuentren en las categorías señaladas en las fracciones IV a VIII del artículo 124 de esta ley.
+En los concursos internos de oposición para las plazas de Magistrado Regional de Circuito, únicamente podrán participar los Jueces de Primera Instancia y Jueces Laborales. Asimismo, en los concursos internos de oposición para las plazas de Juez de Primera Instancia y Jueces Laborales exclusivamente podrán participar quienes se encuentren en las categorías señaladas en las fracciones IV a VIII bis del artículo 124 de esta ley.
 
 ###### ARTICULO 129.
 
@@ -2135,7 +2203,9 @@ II.- Los aspirantes inscritos deberán resolver, por escrito, un cuestionario cu
 
 De entre el número total de aspirantes sólo tendrán derecho a pasar a la siguiente etapa las personas que por cada una de las vacantes sujetas a concurso hayan obtenido las más altas calificaciones.
 
-III.- Los aspirantes seleccionados en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas sentencias. Posteriormente se procederá a la realización del examen oral, que podrá ser público o privado, el cual se practicará por el jurado a que se refiere el artículo 132 de esta ley, mediante preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de Magistrado Regional de Circuito o Juez de Primera Instancia, según corresponda.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 8 DE MARZO DE 2022)</small>
+
+III.- Los aspirantes seleccionados en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas sentencias. Posteriormente se procederá a la realización del examen oral, que podrá ser público o privado, el cual se practicará por el jurado a que se refiere el artículo 132 de esta ley, mediante preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de Magistrado Regional de Circuito, Juez de Primera Instancia o Juez Laboral según corresponda.
 
 La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
 
@@ -2187,17 +2257,21 @@ La Comisión de Carrera Judicial determinará el tiempo máximo que las personas
 
 ### CAPITULO TERCERO. DE LA ADSCRIPCION Y RATIFICACION
 
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 135.
 
-Corresponde al Consejo del Poder Judicial del Estado de Sonora, determinar la adscripción en que deban ejercer sus funciones los Magistrados Regionales de Circuito y los Jueces de Primera Instancia.
+Corresponde al Consejo del Poder Judicial del Estado de Sonora, determinar la adscripción en que deban ejercer sus funciones los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y Jueces Laborales.
 
-Asimismo, le corresponde, de conformidad con los criterios establecidos en el presente Capítulo, readscribir a los Magistrados Regionales de Circuito y a los Jueces de Primera Instancia a una competencia territorial distinta, siempre que las necesidades del servicio así lo requieran y haya causa fundada y suficiente para la readscripción.
+Asimismo, le corresponde, de conformidad con los criterios establecidos en el presente capítulo, readscribir a los Magistrados Regionales de Circuito, a los Jueces de Primera Instancia y a los Jueces Laborales a una competencia territorial distinta, siempre que las necesidades del servicio así lo requieran y haya causa fundada y suficiente para la readscripción.
 
 Siempre que ello fuere posible, y en términos de lo dispuesto en este capítulo, el Consejo del Poder Judicial del Estado de Sonora establecerá las bases para que los Magistrados y los Jueces puedan elegir la plaza de su adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 136.
 
-En aquellos casos en que para la primera adscripción de Magistrados Regionales de Circuito o Jueces de Primera Instancia haya varias plazas vacantes, el Consejo del Poder Judicial tomará en consideración los siguientes elementos:
+En aquellos casos en que, para la primera adscripción de Magistrados Regionales de Circuito, Jueces de Primera Instancia y los Jueces Laborales haya varias plazas vacantes, el Consejo del Poder Judicial tomará en consideración los siguientes elementos:
 
 I.- La calificación obtenida en el concurso de oposición;
 
@@ -2207,9 +2281,11 @@ III.- El desempeño en el Poder Judicial del Estado, en su caso; y
 
 IV.- El grado académico, que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 137.
 
-Tratándose de cambios de adscripción de Magistrados Regionales de Circuito y de Jueces de Primera Instancia, se considerarán los siguientes elementos:
+Tratándose de cambios de adscripción de Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces Laborales, se considerarán los siguientes elementos:
 
 I.- La antigüedad en el Poder Judicial del Estado;
 
@@ -2219,9 +2295,11 @@ III.- Los resultados de las visitas de inspección; y
 
 IV.- La disciplina y el desarrollo profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 138.
 
-Para la ratificación de Magistrados Regionales de Circuito y Jueces de Primera Instancia, el Consejo del Poder Judicial tomará en consideración los siguientes elementos:
+Para la ratificación de Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces Laborales el Consejo del Poder Judicial tomará en consideración los siguientes elementos:
 
 I.- El desempeño que se haya tenido en el ejercicio de su función;
 
@@ -2231,13 +2309,11 @@ III.- El grado académico, que comprende el nivel de estudios con que cuente el 
 
 IV.- Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 139.
 
-El Presidente de la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, para la ratificación y readscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, remitirá al Presidente del Consejo del Poder Judicial del Estado los expedientes de los servidores públicos relativos, debiendo sujetarse este órgano, para las ratificaciones y readscripciones del caso, en lo conducente, al procedimiento establecido en el artículo 130 de esta Ley.
+El Presidente de la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, para la ratificación y readscripción de Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces Laborales remitirá al Presidente del Consejo del Poder Judicial del Estado los expedientes de los servidores públicos relativos, debiendo sujetarse este órgano, para las ratificaciones y readscripciones del caso, en lo conducente, al procedimiento establecido en el artículo 130 de esta ley.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2373,7 +2449,9 @@ V.- No preservar, en el desempeño de sus labores, la dignidad, imparcialidad y 
 
 VI.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-VII.- Abandonar, sin las autorizaciones del caso, la residencia del Tribunal Regional de Circuito o Juzgado de Primera Instancia al que estén adscritos, o dejar de desempeñar las funciones o las labores que tenga a su cargo;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+VII.- Abandonar, sin las autorizaciones del caso, la residencia del Tribunal Regional de Circuito, Juzgado de Primera Instancia, o Tribunal Laboral al que estén adscritos, o dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
 VIII.- Las previstas en el artículo 63 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional; y
 
@@ -2409,11 +2487,9 @@ Serán competentes para conocer de las responsabilidades de los servidores públ
 
 I.- El Supremo Tribunal de Justicia, funcionando en Pleno, tratándose de faltas de sus Magistrados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, B.O. 11 DE DICIEMBRE DE 2015)</small>
-
-II.- La Comisión de Disciplina del Supremo Tribunal de Justicia, tratándose de faltas del Secretario General de Acuerdos de éste, de los Magistrados Regionales de Circuito, de los Jueces de Primera Instancia y de los titulares de los órganos auxiliares administrativos del Supremo Tribunal de Justicia del Estado;
+II.- La Comisión de Disciplina del Supremo Tribunal de Justicia, tratándose de faltas del Secretario General de Acuerdos de éste, de los Magistrados Regionales de Circuito, de los Jueces de Primera Instancia, de los Jueces Laborales y de los Titulares de los Órganos Auxiliares Administrativos del Supremo Tribunal de Justicia del Estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2485,9 +2561,11 @@ Las faltas serán valoradas y, en su caso, sancionadas, de conformidad con los c
 
 Tratándose de los Magistrados del Supremo Tribunal de Justicia la destitución sólo procederá en los casos a que se refiere el Título Sexto de la Constitución Política del Estado de Sonora, así como en los de las fracciones XVI, XVIII y XX a XXII del artículo 63 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 151.
 
-Tratándose de Magistrados Regionales de Circuito y Jueces de Primera Instancia, la destitución sólo procederá en los siguientes casos:
+Tratándose de Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces Laborales, la destitución sólo procederá en los siguientes casos:
 
 I.- Cuando incurran en una falta grave en el desempeño de sus cargos; y
 
@@ -2505,9 +2583,11 @@ Con independencia de si el motivo de la queja da o no lugar a responsabilidad, e
 
 Si se determina que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte Unidades de Medida y Actualización, al momento de interponerse la queja o denuncia.
 
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 154.
 
-Las resoluciones por las que se impongan sanciones administrativas consistentes en la destitución del cargo de Magistrados Regionales de Circuito y de Jueces de Primera Instancia, podrán ser impugnadas por el servidor público ante el Pleno del Supremo Tribunal de Justicia, mediante el recurso de revisión que establece esta ley.
+Las resoluciones por las que se impongan sanciones administrativas consistentes en la destitución del cargo de Magistrados Regionales de Circuito, de Jueces de Primera Instancia y Jueces Laborales podrán ser impugnadas por el servidor público ante el Pleno del Supremo Tribunal de Justicia, mediante el recurso de revisión que establece esta ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2519,13 +2599,11 @@ Las resoluciones que impongan sanciones a los Magistrados Regionales de Circuito
 
 ### CAPITULO SEGUNDO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 156.
 
-Tienen obligación de presentar declaración anual de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos: los Magistrados del Supremo Tribunal de Justicia; el Secretario General de Acuerdos de éste; los Magistrados de los Tribunales Regionales de Circuito; los Jueces de Primera Instancia; los Secretarios Proyectistas; los Secretarios de Acuerdos de los Tribunales Regionales de Circuito; los Secretarios Auxiliares de Acuerdos del Supremo Tribunal de Justicia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia; los actuarios; el Director del Centro de Justicia Alternativa; los titulares de los órganos auxiliares administrativos del Supremo Tribunal de Justicia y los titulares de las dependencias adscritas a dichos órganos auxiliares, así como todos aquellos servidores públicos que determine el Pleno del Supremo Tribunal de Justicia mediante disposiciones de observancia general.
+Tienen obligación de presentar declaración anual de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos: los Magistrados del Supremo Tribunal de Justicia; el Secretario General de Acuerdos de éste; los Magistrados de los Tribunales Regionales de Circuito; los Jueces de Primera Instancia; los Jueces Laborales; los Secretarios Proyectistas; los Secretarios de Acuerdos de los Tribunales Regionales de Circuito; los Secretarios Auxiliares de Acuerdos del Supremo Tribunal de Justicia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia; los Secretarios Instructores; los Actuarios; el Director del Centro de Justicia Alternativa; los Titulares de los Órganos Auxiliares Administrativos del Supremo Tribunal de Justicia y los titulares de las dependencias adscritas a dichos Órganos Auxiliares, así como todos aquellos servidores públicos que determine el Pleno del Supremo Tribunal de Justicia mediante disposiciones de observancia general.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2593,13 +2671,11 @@ La interposición de la revisión no suspenderá, en ningún caso, los efectos d
 
 ### CAPITULO PRIMERO. DE LA PROTESTA CONSTITUCIONAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 166.
 
-Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia del Estado rendirán su protesta ante el Congreso del Estado o ante la Diputación Permanente; los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Locales lo harán ante el Pleno del Supremo Tribunal.
+Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia del Estado rendirán su protesta ante el Congreso del Estado o ante la Diputación Permanente; los Magistrados Regionales de Circuito, los Jueces de Primera Instancia, los Jueces Laborales y los Jueces Locales lo harán ante el Pleno del Supremo Tribunal.
 
 Los demás empleados y funcionarios del Poder Judicial del Estado de Sonora rendirán su protesta ante aquéllos de quienes dependan jerárquicamente.
 
@@ -2611,9 +2687,11 @@ La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer gu
 
 ### CAPITULO SEGUNDO. DE LAS VACACIONES Y DIAS INHABILES
 
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 168.
 
-Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y Locales, así como los demás empleados de confianza del Poder Judicial del Estado de Sonora gozarán, anualmente, de dos períodos vacacionales de diez días hábiles cada uno; para disfrutar de los señalados períodos vacacionales se requerirá tener, en todos los casos, más de seis meses consecutivos de servicios.
+Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia, los Jueces Laborales y Locales, así como los demás empleados de confianza del Poder Judicial del Estado de Sonora gozarán, anualmente, de dos períodos vacacionales de diez días hábiles cada uno; para disfrutar de los señalados períodos vacacionales se requerirá tener, en todos los casos, más de seis meses consecutivos de servicios.
 
 > <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2621,7 +2699,9 @@ Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de 
 
 El Pleno del Supremo Tribunal de Justicia nombrará al Magistrado o Magistrados que deban proveer los trámites de carácter urgente durante los periodos vacacionales de este órgano. Los Tribunales Regionales de Circuito designarán de entre sus integrantes al Magistrado o Magistrados que realizarán la tramitación de los asuntos urgentes de su competencia durante los periodos vacacionales.
 
-Los Magistrados de Tribunales Unitarios Regionales de Circuito y los Jueces de Primera Instancia designarán al Secretario que se encargue del despacho durante los periodos vacacionales correspondientes.
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
+Los Magistrados de Tribunales Unitarios Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Laborales designarán al Secretario que se encargue del despacho durante los periodos vacacionales correspondientes.
 
 ###### ARTICULO 170.
 
@@ -2691,13 +2771,11 @@ Las licencias que no excedan de treinta días de los Secretarios de Acuerdos, Se
 
 Las licencias que no excedan de treinta días de los Secretarios de Acuerdos, Secretarios Proyectistas, Secretarios Auxiliares, Actuarios y demás personal de los Tribunales Unitarios Regionales de Circuito, podrán ser concedidas por el Titular de los mismos. Las que excedan de ese tiempo, podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 180.
 
-Las licencias de los Secretarios de Acuerdos, Actuarios y demás personal de los Juzgados de Primera Instancia, menores de un (sic) treinta días, podrán ser otorgadas por los titulares de dichos órganos y, las que excedan de ese plazo, por el Pleno del Supremo Tribunal de Justicia del Estado.
+Las licencias de los Secretarios de Acuerdos, Secretarios Instructores, Actuarios y demás personal de los Juzgados de Primera Instancia y los Tribunales Laborales, menores de un (sic) treinta días, podrán ser otorgadas por los titulares de dichos órganos y, las que excedan de ese plazo, por el Pleno del Supremo Tribunal de Justicia del Estado.
 
 ###### ARTICULO 181.
 
@@ -2751,9 +2829,11 @@ El Instituto de la Judicatura determinará los mecanismos para el registro, cont
 
 La prestación del servicio social de pasantes será gratuita. No obstante lo anterior, los prestadores de dicho servicio podrán recibir una compensación por las labores que desarrollen, según la disponibilidad de recursos presupuestales.
 
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 187.
 
-Los Jueces de Primera Instancia podrán autorizar a los pasantes de Derecho que presten su servicio social en sus respectivos juzgados, para que practiquen notificaciones personales, a excepción del emplazamiento.
+Los Jueces de Primera Instancia y los Jueces Laborales podrán autorizar a los pasantes de Derecho que presten su servicio social en sus respectivos Juzgados y Tribunales Laborales para que practiquen notificaciones personales, a excepción del emplazamiento.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2956,3 +3036,9 @@ B.O. 11 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 8 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 23, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día que para tal efecto establezca la Legislatura, en la declaratoria de inicio de funciones de los Tribunales Laborales y Centros de Conciliación, todos del Estado de Sonora, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
