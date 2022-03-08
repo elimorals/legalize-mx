@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2018-06-25"
+last_updated: "2022-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MARZO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -130,9 +130,11 @@ II. Con el certificado parcelario o de derechos comunes; o
 
 III. Con la sentencia o resolución relativa del tribunal agrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MARZO DE 2022)</small>
+
 ###### Artículo 17.
 
-El ejidatario tiene la facultad de designar a quien deba sucederle en sus derechos sobre la parcela y en los demás inherentes a su calidad de ejidatario, para lo cual bastará que el ejidatario formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento. Para ello podrá designar al cónyuge, a la concubina o concubinario en su caso, a uno de los hijos, a uno de los ascendientes o a cualquier otra persona.
+El ejidatario tiene la facultad de designar a quien deba sucederle en sus derechos sobre la parcela y en los demás inherentes a su calidad de ejidatario, para lo cual bastará que el ejidatario formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento. Para ello podrá designar al cónyuge, a la concubina o concubinario, en su caso, a una de las hijas o uno de los hijos, a uno de los ascendientes o a cualquier otra persona.
 
 La lista de sucesión deberá ser depositada en el Registro Agrario Nacional o formalizada ante fedatario público. Con las mismas formalidades podrá ser modificada por el propio ejidatario, en cuyo caso será válida la de fecha posterior.
 
@@ -144,7 +146,9 @@ I. Al cónyuge;
 
 II. A la concubina o concubinario;
 
-III. A uno de los hijos del ejidatario;
+> <small>(REFORMADA, D.O.F. 8 DE MARZO DE 2022)</small>
+
+III. A una de las hijas o uno de los hijos del ejidatario;
 
 IV. A uno de sus ascendientes; y
 
@@ -1683,3 +1687,9 @@ D.O.F. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 95 DE LA LEY AGRARIA”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 17 Y 18 DE LA LEY AGRARIA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
