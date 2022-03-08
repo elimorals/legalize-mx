@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2021-12-23"
+last_updated: "2022-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MARZO DE 2022.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -59,9 +59,9 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden admi
 
 Integran la administración pública directa las Secretarías. Se observará el principio de paridad de género en los nombramientos de las personas titulares de las Secretarías.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-Componen la administración pública paraestatal las siguientes entidades: organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas en los términos de la presente Ley y fideicomisos públicos.
+Componen la administración pública paraestatal las siguientes entidades: organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas en los términos de la presente Ley y fideicomisos públicos, mismos que se ajustarán a los indicadores relevantes de temas de carácter económico, social y político para el análisis estudio e investigación de proyectos estratégicos cuyo objetivo sea el desarrollo sostenible establecidos en la legislación aplicable.
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -77,9 +77,17 @@ I. Secretaría Particular;
 
 II. La Oficina del Ejecutivo del Estado;
 
-III. (DEROGADA, B.O. 17 DE FEBRERO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 8 DE MARZO DE 2022)</small>
 
-IV. Coordinación Ejecutiva de Administración;
+III. Secretaría Técnica de la Mesa de Seguridad.
+
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+IV. Coordinación General del Sistema Estatal de Comunicación Social, y
+
+> <small>(ADICIONADA, B.O. 8 DE MARZO DE 2022)</small>
+
+V. Coordinación General de Asesores.
 
 Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos.
 
@@ -109,9 +117,13 @@ IX. Establecer los mecanismos de control, para garantizar la asistencia oportuna
 
 X. Diseñar e instrumentar, en conjunto con la Secretaría de Gobierno, el protocolo que deberá observar durante los actos, eventos y giras de trabajo el Titular del Ejecutivo del Estado;
 
-XI. (DEROGADA, B.O. 17 DE FEBRERO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 8 DE MARZO DE 2022)</small>
 
-XII. (DEROGADA, B.O. 17 DE FEBRERO DE 2017)
+XI. Planear, programar, organizar y coordinar las giras y eventos de trabajo que realice el Titular del Ejecutivo del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 8 DE MARZO DE 2022)</small>
+
+XII. Administrar y coordinar los recursos humanos y materiales para que se lleven a cabo de manera puntual las giras, eventos, ceremonias y demás actos que efectúe el Titular del Poder Ejecutivo Estatal;
 
 XIII. Someter a consideración del Titular del Ejecutivo del Estado, las propuestas de funcionarios que lo representarán en actos o eventos, y comunicar las designaciones respectivas;
 
@@ -207,13 +219,17 @@ XVI. Coordinar las oficinas de las comisiones Sonora Arizona y Sonora Nuevo Méx
 
 XVII. Someter a consideración del Titular del Ejecutivo del Estado la información de mejoras que contribuyan al adecuado funcionamiento de la administración pública del Estado;
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-XVIII. Coordinar el diseño y ejecución de proyectos de modernización administrativa que incidan en la simplificación y mejora continua de los procesos de trabajo y la calidad de los servicios administrativos sustantivos de las unidades administrativas; y
+XVIII. Planear, organizar y controlar el aprovechamiento de los recursos humanos, materiales, financieros y técnicos, necesarios para el funcionamiento de las unidades adscritas al Titular del Ejecutivo del Estado, así como programar, tramitar y ejecutar las acciones y procedimientos para realizar la adquisición o arrendamiento de bienes muebles e inmuebles y en general la contratación de servicios de cualquier naturaleza que requiera la gubernatura y sus unidades administrativas;
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 8 DE MARZO DE 2022)</small>
 
-XIX. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+XIX. Gestionar las peticiones ciudadanas recibidas en distintas modalidades, con las dependencias y entidades de la administración pública estatal competentes, a fin de asegurar su atención, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 8 DE MARZO DE 2022)</small>
+
+XX. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
 
 > <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2018)</small>
 
@@ -225,43 +241,87 @@ ARTICULO 4 BIS 4.- (DEROGADO, B.O. 17 DE FEBRERO DE 2017)
 
 ARTICULO 4 BIS 5.- (DEROGADO, B.O. 17 DE FEBRERO DE 2017)
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-ARTICULO 4 BIS 6.- La Coordinación Ejecutiva de Administración tendrá como función planear, organizar y controlar el aprovechamiento de los recursos humanos, materiales, financieros y técnicos, necesarios para el funcionamiento de las unidades adscritas al Titular del Ejecutivo del Estado, así como programar, tramitar y ejecutar las acciones y procedimientos para realizar la adquisición o arrendamiento de bienes muebles e inmuebles y en general la contratación de servicios de cualquier naturaleza que requiera la gubernatura y sus unidades administrativas, teniendo las siguientes facultades:
+ARTICULO 4 BIS 6.- La Coordinación General de Asesores tendrá las atribuciones siguientes:
 
-I. Programar, controlar y supervisar los servicios de mantenimiento preventivo, correctivo, de vigilancia, de fotocopiado, de telefonía, de luz y otros servicios generales a los bienes muebles de las unidades adscritas al Titular del Ejecutivo del Estado para el desarrollo de sus actividades;
+I. Asesorar y apoyar al Titular del Poder Ejecutivo en los asuntos que le encomiende, así como formular los estudios, análisis, opiniones y recomendaciones que resulten procedentes;
 
-II. Coordinar la elaboración, previa difusión de las normas y procedimientos para la integración del anteproyecto de presupuesto anual de las unidades adscritas al Titular del Ejecutivo del Estado, a fin de remitirlo a las instancias correspondientes para su aprobación;
+II. Solicitar a las dependencias y entidades de la administración pública estatal la información y datos que resulten necesarios para el cumplimiento de sus funciones;
 
-III. Validar la elaboración del Programa Anual de Adquisiciones de las unidades adscritas al Titular del Ejecutivo del Estado;
+III. Establecer mecanismos de coordinación con las demás unidades de apoyo técnico, para el cumplimiento de sus funciones;
 
-IV. Coordinar la elaboración y ejecución del presupuesto autorizado de las unidades adscritas al Titular del Ejecutivo del Estado.
+IV. Asistir a las reuniones de Gabinete a las que sea convocado por el Titular del Poder Ejecutivo, y
 
-V. Supervisar los procesos de adquisición y contratación de bienes y servicios de conformidad con las disposiciones aplicables en la materia;
+V. Las demás que le confieran otros ordenamientos aplicables y aquellas funciones que le encomiende el Titular del Poder Ejecutivo.
 
-VI. Supervisar la administración y el control de los recursos humanos, materiales, financieros y técnicos de las unidades adscritas al Titular del Ejecutivo del Estado, así como gestionar los requerimientos de los mismos a las unidades administrativas que la conforman;
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-VII. Supervisar la administración de los bienes muebles e inmuebles destinados al funcionamiento de las unidades administrativas de las unidades adscritas al Titular del Ejecutivo del Estado;
+ARTICULO 4 BIS 7.- Son atribuciones de la Secretaría Técnica de la Mesa de Seguridad del Estado:
 
-VIII. Gestionar los requerimientos de altas, bajas, cambios, permisos y licencias del personal, así como controlar la contratación del personal por tiempo y obra determinada y servicios profesionales de las unidades adscritas al Titular del Ejecutivo del Estado, de acuerdo a la normatividad establecida;
+I. Coordinar bajo la conducción del Gobernador los trabajos del Gabinete de Seguridad del Estado de Sonora, que es el espacio de toma de decisiones y seguimiento de acuerdos de las distintas dependencias del Poder Ejecutivo Estatal en materia de seguridad;
 
-IX. Coordinar las actividades de los enlaces administrativos de las unidades adscritas a la Titular del Ejecutivo del Estado;
+II. Llevar el seguimiento y cumplimiento de los acuerdos que se alcancen en las sesiones de la Mesa de Seguridad, que es el espacio de articulación, análisis, construcción de acuerdos y seguimiento en el que confluyen las distintas instituciones de justicia y seguridad, de los distintos órdenes de gobierno;
 
-X. Contar con personalidad jurídica suficiente para la celebración de contratos y convenios necesarios para el debido cumplimiento de sus facultades; y
+III. Facilitar la comunicación y operación entre las instituciones participantes en la Mesa de Seguridad;
 
-XI. Las demás que le señalen las disposiciones legales aplicables y las que le confiera la Titular del Poder Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+IV. Preparar con el auxilio de las áreas correspondientes el orden del día y la agenda de riesgos a desahogar en las sesiones de la Mesa de Seguridad;
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+V. Coordinar las acciones de los grupos de trabajo que deriven de la Mesa de Seguridad en los que participen las diferentes autoridades responsables de generar productos de inteligencia, y/o realicen tareas de investigación del delito;
 
-ARTICULO 4 BIS 7.- La Coordinación Ejecutiva de Administración contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+VI. Encabezar los trabajos encaminados al fortalecimiento de los mecanismos de coordinación interinstitucionales, a través de los grupos de trabajo, que al efecto sea necesario integrar;
 
-> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
+VII. Impulsar criterios de actuación entre las policías y los agentes del ministerio público, dirigidos a evitar la impunidad y la violación de los derechos humanos, así como impulsar y dar seguimiento a la implementación de la política criminal que dicte el Titular del Ejecutivo;
 
-Para el debido cumplimiento de las facultades encomendadas la Coordinación Ejecutiva de Administración podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
+VIII. Dar seguimiento a las investigaciones y procesos judiciales de los objetivos estratégicos que conozca la Mesa de Seguridad;
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+IX. Promover la creación de mecanismos de trabajo y/o procedimientos sistemáticos de operación, encaminados a realizar con eficiencia la ejecución de operaciones coordinadas; la investigación especializada de asuntos de alto impacto con la participación de las diferentes instituciones que participan en la Mesa de Seguridad; el desarrollo de estrategias de inteligencia y el intercambio de información oportuno (sic) y confiable que eleven las capacidades institucionales de todos los participantes en la Mesa de Seguridad;
 
-ARTICULO 4 BIS 8.- Las atribuciones y funciones de las áreas que integren a las unidades adscritas directamente al ejecutivo se establecerán en las leyes, reglamentos, manuales y demás ordenamientos legales correspondientes que para tal efecto se emitan.
+X. Revisar e informar al Gobernador de los resultados que presenten las diferentes instituciones que participen en la Mesa de Seguridad;
+
+XI. Transmitir en su caso, a las diferentes instituciones que participen en la Mesa de Seguridad, los asuntos que dicte el Gobernador;
+
+XII. Dar seguimiento al cumplimiento del Plan Estatal de Desarrollo, así como a los diferentes programas sectoriales, regionales, institucionales y especiales en materia de su competencia;
+
+XIII. Interactuar de manera transversal con todas las áreas involucradas en la seguridad para el desarrollo económico del Estado;
+
+XIV. Revisar e informar al Gobernador sobre las estrategias que presenten las diferentes áreas en materia de seguridad y prevención del delito;
+
+XV. Requerir la información que sea necesaria para el debido desahogo de las funciones asignadas, y
+
+XVI. Las demás que le sean encomendadas por el Gobernador.
+
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+
+ARTICULO 4 BIS 8.- La Coordinación General del Sistema Estatal de Comunicación Social tendrá como función coordinar la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
+
+I. Desarrollar las políticas públicas y estrategias de comunicación social del Gobierno del Estado que permitan transmitir los programas y acciones que desarrolle el Gobierno del Estado;
+
+II. Diseñar y proponer las políticas de comunicación e imagen para establecer una identidad institucional del Gobierno del Estado;
+
+III. Establecer lineamientos y programas para promover la realización de campañas de comunicación gubernamental dirigidas al Desarrollo Sostenible;
+
+IV. Promover la coordinación y colaboración de los medios de comunicación con el Gobierno del Estado;
+
+V. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental, para el bienestar de la población;
+
+VI. Coordinar el Sistema Estatal de Comunicación Social, mismo que estará integrado por la Coordinación General del Sistema Estatal de Comunicación Social, Televisora de Hermosillo, S.A. de C.V. (Telemax), Radio Sonora y demás medios de comunicación impresos, digitales o de cualquier índole, propiedad del Gobierno del Estado;
+
+VII. Verificar, gestionar y programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Gobierno del Estado, de las dependencias, entidades paraestatales y los fideicomisos de la administración pública del Estado; así como solicitar cada uno de los servicios para la difusión de los programas y acciones del Gobierno del Estado;
+
+VIII. Realizar las tareas inherentes al análisis y monitoreo a medios de comunicación en general;
+
+IX. Preparar el diseño gráfico de la imagen institucional;
+
+X. Elaborar, diseñar y ejecutar nuevos instrumentos de comunicación electrónicos y digitales;
+
+XI. Definir los lineamientos de actuación, así como coordinar a los titulares de las distintas áreas de comunicación en las dependencias y entidades paraestatales de la administración pública estatal, y
+
+XII. Las demás que señalen las disposiciones legales aplicables y las que confiera el Titular del Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
+
+ARTICULO 4 BIS 9.- Las atribuciones y funciones de las áreas que integren a las unidades adscritas directamente al ejecutivo se establecerán en las leyes, reglamentos, manuales y demás ordenamientos legales correspondientes que para tal efecto se emitan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
@@ -455,9 +515,9 @@ X.- Secretaría del Trabajo;
 
 XI.- Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-XII.- Secretaría Técnica;
+XII.- Oficialía Mayor;
 
 > <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
 
@@ -487,9 +547,9 @@ II. Conducir por delegación del Ejecutivo los asuntos que por la naturaleza y r
 
 III. Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial, así como con los Ayuntamientos del Estado, autoridades de otras entidades federativas, los órganos constitucionales autónomos, partidos, agrupaciones políticas nacionales o estatales y con las organizaciones sociales;
 
-IV. Planear, programar, organizar y coordinar las giras y eventos de trabajo que realice el Titular del Ejecutivo del Estado;
+IV. (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-V. Administrar y coordinar los recursos humanos, materiales y económicos para que se lleven a cabo de manera puntual las giras, eventos, ceremonias y demás actos que efectúe el Titular del Poder Ejecutivo Estatal;
+V. (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
 VI. Coadyuvar en el ámbito de su competencia, con los poderes Legislativo y Judicial y con los ayuntamientos del Estado en el cumplimiento de sus atribuciones;
 
@@ -577,6 +637,14 @@ II. Representar legalmente al Titular del Ejecutivo del Estado y a la administra
 
 Para el caso de delegar a terceros la representación del Titular del Ejecutivo del Estado, de la administración pública estatal y paraestatal, ésta podrá efectuarse mediante el otorgamiento de poder ante notario público;
 
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
+
+En caso de requerir la contratación de asesoría o representación jurídica especializada externa a la administración pública estatal, las secretarías y demás dependencias del Ejecutivo del Estado deberán solicitar la opinión a la Secretaría.
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2022)</small>
+
+Los asesores externos que sean contratados, así como los titulares de las distintas áreas jurídicas de las dependencias están obligados en todo momento, a informar a la Secretaría de la Consejería Jurídica sobre la situación procesal o el trámite que se les haya dado a los asuntos a su cargo, así como a cumplir los requerimientos respecto a dichos asuntos. El incumplimiento de esta disposición será objeto de responsabilidades de conformidad con la legislación aplicable.
+
 > <small>(REFORMADA, B.O. 4 DE JULIO DE 2016)</small>
 
 III. Coordinar a las áreas jurídicas de las dependencias de la administración pública estatal, paraestatales, entidades, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la administración pública estatal, con excepción de la materia fiscal;
@@ -585,7 +653,11 @@ IV. Someter a consideración del Titular del Ejecutivo Estado, para que éste ej
 
 V. Someter a consideración del Titular del Ejecutivo Estado, para que éste ejerza con mayores elementos de convicción la facultad prevista en el artículo 79, fracción XI de la Constitución Política de Sonora, la remoción de los titulares de las Unidades Jurídicas de las dependencias, paraestatales, entidades, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal que se señalan en los artículos 17, 22, 45, 46 y 47 de esta Ley;
 
-VI. Requerir a las áreas jurídicas de las dependencias, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+VI. Requerir a las áreas jurídicas de las dependencias, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan, mismos que tendrán un plazo no mayor a cinco días hábiles para responder.
+
+El incumplimiento de esta disposición será objeto de responsabilidades ante la autoridad competente.
 
 VII. En caso de ser un asunto de interés público del Ejecutivo del Estado la Consejería Jurídica podrá otorgar asesoría jurídica a los Ayuntamientos;
 
@@ -609,7 +681,15 @@ XVI. Intervenir en los procedimientos de expropiación por causa de utilidad pú
 
 XVII. Coordinar la elaboración, revisión y sanción de los convenios, contratos y demás instrumentos jurídicos y administrativos que guarden relación con la administración pública federal, con los gobiernos estatales o cualquier organismo u organización no gubernamental;
 
-XVIII. Emitir opinión jurídica del contenido de los contratos que, sobre cualquier materia, celebren las distintas dependencias, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal respecto a servicios, arrendamientos, obra pública, adquisiciones, adjudicaciones, donaciones, comodatos y en general cualquier otra actividad regulada por los instrumentos legales que resulten aplicables;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+XVIII. Emitir opinión jurídica del contenido de los contratos sobre cualquier materia que celebren las distintas dependencias, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal respecto a servicios, arrendamientos, obra pública, adquisiciones, adjudicaciones, donaciones, comodatos y en general cualquier otra actividad regulada por los instrumentos legales que resulten aplicables.
+
+Así como emitir opinión jurídica para la procedencia, en su caso, de los acuerdos y/o convenios que tengan como objeto concluir, dirimir o resolver un conflicto jurídico y/o administrativo, donde se involucren, afecten o comprometan recursos del Estado.
+
+> <small>(ADICIONADA, B.O. 8 DE MARZO DE 2022)</small>
+
+XVIII BIS. Dar seguimiento y en su caso tramitar hasta su terminación, los asuntos laborales, civiles, administrativos o de cualquier naturaleza, en los que el Gobernador, las Secretarías, dependencias, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la administración pública estatal sean parte;
 
 XIX. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
@@ -621,9 +701,9 @@ XXII. Delegar la facultad de certificación en aquellos Titulares Jurídicos de 
 
 XXIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Titular del Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
 
-ARTICULO 23 BIS 1.- La Secretaría de la Consejería Jurídica estará integrada por cuando menos cuatro Subsecretarías, por la Defensoría Pública y por las demás unidades y el personal necesarios para el debido cumplimiento de sus facultades.
+ARTICULO 23 BIS 1.- La Secretaría de la Consejería Jurídica estará integrada por cuando menos tres subsecretarías, por la Defensoría Pública y por las demás unidades y el personal necesarios (sic) para el debido cumplimiento de sus facultades.
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -633,91 +713,65 @@ Las atribuciones y funciones Subsecretarías y demás áreas que integren la Con
 
 La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-ARTICULO 23 BIS 2.- La Secretaría Técnica será la responsable de desarrollar los estudios y proyectos estratégicos del Gobierno del Estado, además de dirigir y coordinar la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
+ARTICULO 23 BIS 2.- A la Oficialía Mayor le corresponde la planeación y administración de los recursos humanos y del servicio civil de carrera, de los procedimientos de contratación de bienes, servicios generales y materiales, tecnológicos y de comunicaciones de la administración pública del Estado.
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+Los organismos públicos descentralizados y entidades paraestatales podrán celebrar los instrumentos de coordinación o adhesión a los procesos administrativos que emita la Oficialía Mayor.
 
-I. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que se le encomienden y formular los estudios y análisis correspondientes;
+Para el cumplimiento de su objeto contará con las siguientes atribuciones:
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+I. Proponer al Titular del Ejecutivo, las políticas y medidas para modernizar la organización y funcionamiento de la administración pública del gobierno de Sonora;
 
-II. Realizar los análisis, estudios e investigación que le permitan diseñar proyectos estratégicos sobre creación o mejoras de planes y programas de políticas públicas a implementar por el Titular del Ejecutivo del Estado;
+II. Diseñar, normar y conducir la implementación de las políticas y criterios para el desarrollo, simplificación e innovación que en materia de administración debe observar la administración pública;
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+III. Dirigir la administración del personal, considerando:
 
-III. Efectuar los estudios y análisis sobre situaciones de orden económico, social y político en la entidad;
+a) Diseñar e implementar el Servicio Civil de Carrera;
 
-IV. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+b) La expedición de lineamientos generales para la selección, evaluación, ingreso, remoción, certificación y promoción de los servidores públicos, de conformidad con las disposiciones jurídicas aplicables; y
 
-V. (DEROGADA, B.O. 22 DE JUNIO DE 2020).
+c) La emisión de nombramientos.
 
-VI. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+IV. Definir, en el marco del servicio público de carrera, las políticas de evaluación del desempeño, así como establecer y supervisar los mecanismos relativos a las promociones, estímulos y gratificaciones para los servidores públicos de carrera;
 
-VII. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+V. Proponer al Titular del Poder Ejecutivo la política de sueldos y salarios, así como los tabuladores para el pago de los servidores públicos y remitir a la Secretaría de Hacienda dicha política para su programación y presupuestación correspondiente;
 
-VIII. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+VI. Determinar las políticas, normas y lineamientos administrativos respecto a la contratación de la prestación de servicios profesionales;
 
-IX. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+VII. Establecer la normatividad y las políticas de capacitación del personal, en el marco del servicio civil de carrera y de las disposiciones jurídicas aplicables;
 
-X. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+VIII. Conducir el proceso de planeación de recursos materiales, servicios generales, de tecnologías de la información y comunicaciones y realizar su programación en coordinación con la Secretaría de Hacienda;
 
-XI. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+IX. Establecer lineamientos en materia de arrendamientos y adquisiciones de los servicios que le sean prestados, a la administración pública;
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+X. Conducir a las distintas dependencias y órganos desconcentrados, en materia de adquisiciones y arrendamientos, prestación de servicios, compras consolidadas, contratos marco y cualquier otro esquema que permita obtener las mejores condiciones para el Estado;
 
-XII. Establecer las políticas y estrategias de comunicación gubernamental que permitan captar las demandas y necesidades de la sociedad;
+XI. Instrumentar los procedimientos de contratación de compras consolidadas y contratos marco de los bienes y servicios que requiera la administración pública;
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+XII. Supervisar a las distintas áreas responsables sobre la administración de los bienes muebles e inmuebles de la administración pública directa cuidando su mantenimiento, conservación y acondicionamiento;
 
-XIII. Autorizar las normas y políticas sobre la imagen institucional del Gobierno del Estado;
+XIII. Determinar la política en materia de uso y aprovechamiento de datos, tecnologías de la información y comunicaciones para optimizar el uso y la administración de los recursos;
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+XIV. Conducir a las distintas dependencias, entidades y órganos desconcentrados, en la implementación de estrategias para la mejora de los procesos y sistemas de información, el uso de recursos tecnológicos en la mejora de procesos, así como proporcionarles apoyo y soporte técnico necesario;
 
-XIV. Autorizar las publicaciones y materiales promocionales para la difusión de las acciones gubernamentales;
+XV. Establecer las normas y procedimientos para la organización, coordinación y funcionamiento de los sistemas de información, la gobernanza de los datos públicos, su interoperabilidad y las comunicaciones;
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+XVI. Definir los lineamientos de actuación de los titulares de las distintas áreas de administración, tanto de recursos humanos, materiales y tecnológicos del Poder Ejecutivo;
 
-XV. Establecer normas, lineamientos y programas para promover la realización de campañas de comunicación gubernamental;
+XVII. Someter al Titular del Ejecutivo las propuestas de nombramientos y remociones de los titulares de las unidades de administración y finanzas, previo acuerdo con los titulares de las dependencias y órganos administrativos desconcentrados;
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+XVIII. Ejercer la atracción de los procedimientos de contratación cuando así lo considere;
 
-XVI. Promover la coordinación y colaboración del Poder Ejecutivo Estatal con los medios de comunicación;
+XIX. Adjudicar los contratos de aquellos procedimientos que ejecute;
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+XX. Definir, para el resto de la administración pública estatal, los parámetros mínimos y máximos de precios de referencia;
 
-XVII. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental;
+XXI. Convocar y conducir las reuniones de planeación con las Direcciones Generales de Administración, de Informática o sus equivalentes; y
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+XXII. Las demás que le confieran otras leyes y reglamentos.
 
-XVIII. Coordinar y dirigir el sistema de medios de comunicación propiedad del Gobierno del Estado, en específico Televisora de Hermosillo, S.A. de C.V. (Telemax) y Radio Sonora;
-
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
-
-XIX. Realizar las tareas inherentes al monitoreo a medios de comunicación en general;
-
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
-
-XX. Programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Titular del Ejecutivo del Estado, así como de las dependencias, entidades paraestatales y fideicomisos de la administración pública del Estado;
-
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
-
-XXI. Preparar el diseño gráfico de la imagen institucional, de las publicaciones y materiales promocionales de las actividades de la administración pública del Estado; y
-
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
-
-XXII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
-
-> <small>(REFORMADO, B.O. 22 DE JUNIO DE 2020)</small>
-
-ARTICULO 23 BIS 3.- La Secretaría Técnica, para el cumplimiento de sus facultades, estará integrada por las Unidades Administrativas siguientes:
-
-I. Coordinación General de Comunicación Social; y
-
-II. Dirección General de Estudios y Proyectos Estratégicos.
-
-Además de las Unidades Administrativas descritas anteriormente, contará con las direcciones y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+ARTICULO 23 BIS 3.- (DEROGADO, B.O. 8 DE MARZO DE 2022)
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -839,21 +893,17 @@ II. Expedir o cancelar, en su caso, las licencias para la operación y funcionam
 
 F. En materia de administración e informática:
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
-
-I. Establecer normas, lineamientos y políticas en materia de administración, organización, remuneración, capacitación, profesionalización y desarrollo del personal de la administración pública directa;
+I.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-II. Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
+II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
 
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-III. Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
+III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
-
-IV. Expedir para efectos administrativos en el ámbito de su competencia, las disposiciones que establezcan los criterios de interpretación para la aplicación de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal; así como fijar los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios sobre dichos bienes muebles; y
+IV.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -880,6 +930,22 @@ V. Determinar las directrices, estándares y procedimientos necesarios para la i
 VI. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
 
 VII. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 8 DE MARZO DE 2022)</small>
+
+H. En materia de prevención del delito de operaciones con recursos de procedencia ilícita, combate a los delitos fiscales y la delincuencia:
+
+I. Obtener, generar, explotar y analizar información patrimonial, económica y fiscal, así como cualquier otra que se pudiera proporcionar a las autoridades competentes, de utilidad para la prevención y detección de delitos fiscales, y del delito de Operaciones con Recursos de Procedencia Ilícita y sus delitos relacionados, conforme a los lineamientos que al efecto emita, así como generar productos de inteligencia para el combate y la afectación a la economía de la delincuencia.
+
+II. Presentar denuncias y querellas ante el Ministerio Público competente, por los hechos de los que tenga conocimiento y que puedan constituir delitos, así como fungir como coadyuvante de aquél.
+
+III. Coordinarse, colaborar con otras autoridades y concertar con particulares, a fin de generar acciones conjuntas para el combate al delito de Operaciones con Recursos de Procedencia Ilícita, los delitos fiscales y la delincuencia, así como suscribir y celebrar actos jurídicos necesarios para el ejercicio de sus atribuciones.
+
+IV. Requerir informes, documentación y presentación de avisos a los particulares, que permitan prevenir y combatir el delito de Operaciones con Recursos de Procedencia Ilícita, y sancionar, en términos de las disposiciones aplicables, la omisión por parte de los particulares a la atención de dichos requerimientos.
+
+V. Requerir la información y documentación necesaria para el ejercicio de las atribuciones, a las unidades administrativas, órganos desconcentrados, delegaciones y entidades de la administración pública estatal, así como de la federal y municipal en términos de los convenios y acuerdos que al efecto se celebren.
+
+VI. Tramitar y resolver, en el ámbito de su competencia, y en términos de las disposiciones aplicables, los requerimientos de autoridades judiciales, administrativas o ministeriales que se realicen en materia de combate a los delitos fiscales, de operaciones con recursos de procedencia ilícita, y combate a la delincuencia.
 
 (REFORMADO, B.O. 21 DE DICIEMBRE DE 2015) (F. DE E., B.O. 18 DE ENERO DE 2016)
 
@@ -939,21 +1005,21 @@ III.- Promover y orientar el mejoramiento del desempeño de la administración p
 
 IV.- Instrumentar toda clase de acciones tendientes a incrementar la competitividad y mejoramiento del desempeño de los servidores públicos;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-V.- Emitir y difundir la política en materia de uso y aprovechamiento de tecnologías de la información y las comunicaciones;
+V.- Suspender los procesos de adquisición o contratación de servicios en cualquiera de sus etapas, cuando se detecte alguna irregularidad, de conformidad con lo previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal.
+
+Al igual, suspender las obras contratadas por la administración pública estatal, cuando se detecte alguna irregularidad, de conformidad con la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Sonora.
 
 > <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
 
 VI.- Promover el uso de las tecnologías de la información y las comunicaciones e implementar las mejores prácticas de gobierno electrónico en la prestación de servicios al público y en los procesos internos de la administración pública estatal;
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+VII.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-VII.- Intervenir y coordinarse con las dependencias y entidades en la mejora de sus procesos y sistemas de información, así como proporcionarles apoyo y soporte técnico necesario;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
-
-VIII.- Diseñar y coordinar la implementación de estrategias y el uso de recursos tecnológicos para la mejora de los procesos de prestación de servicios públicos y operación interna de la administración pública estatal;
+VIII.- Vigilar la implementación de las estrategias y del uso de recursos tecnológicos para la mejora de los procesos de prestación de servicios públicos y operación interna de la administración pública estatal;
 
 > <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1033,7 +1099,7 @@ II.- Formular, difundir e impulsar una cultura de transparencia, integridad y le
 
 III.- Crear y mantener actualizado un registro de servidores públicos del Estado que hayan sido sancionados con motivo de algún acto u omisión que constituya responsabilidad administrativa, así como de personas que incumplan sus obligaciones derivadas de cualquier acto jurídico celebrado con las dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 27.
 
@@ -1041,57 +1107,73 @@ A la Secretaría de Educación y Cultura le corresponden las facultades y obliga
 
 A. En materia de operación educativa:
 
-I.- Prestar el servicio público de educación, sin perjuicio de la concurrencia de los municipios y de la Federación, conforme a las leyes y reglamentos aplicables;
+I. Prestar el servicio público de educación, sin perjuicio de la concurrencia de los municipios y de la federación, conforme a las leyes y reglamentos aplicables;
 
-II.- Vigilar que en los planteles educativos del Estado y de los particulares, se cumpla estrictamente el artículo 3º. de la Constitución General de la República, la Constitución Política Local, la Ley de Educación para el Estado y las demás disposiciones legales y reglamentarias relacionadas con la educación preescolar, primaria, secundaria, telesecundaria y normal;
+II. Vigilar que en los planteles educativos del Estado y de los particulares, se cumpla estrictamente el artículo tercero de la Constitución General de la República, la Constitución Política Local, la Ley de Educación para el Estado y las demás disposiciones legales y reglamentarias relacionadas con la educación inicial, preescolar, primaria, secundaria, media superior y superior, así como las modalidades de telebachillerato y la normal.
 
-III.- Promover Programas relativos al desarrollo de los pueblos y comunidades indígenas del Estado, procurando la preservación de sus valores culturales; y
+III. La formación de niños, niñas, adolescentes, jóvenes y adultos se basará en el respeto irrestricto de la dignidad de las personas con un enfoque de derechos humanos y de la igualdad sustantiva. La participación democrática será la base para promover el respeto, la libertad y la honestidad desde la escuela y a través del proceso de enseñanza aprendizaje, de conformidad con lo previsto en la Ley de Educación del Estado de Sonora.
 
-IV.- Promover Programas y contenidos relativos a la equidad de género y de integración social de personas con capacidades diferentes.
+IV. Se promoverá la formación de los estudiantes en todos los niveles educativos, para el impulso del bienestar colectivo y la inclusión social, con enfoque de género y para la atención de personas que se encuentren en condiciones de vulnerabilidad de cualquier tipo, sea ésta por discapacidad biológica o psicológica o alguna otra condición que las coloque en situación de desigualdad social, de conformidad con lo previsto en la Ley de Educación del Estado de Sonora.
+
+V. Se buscará un equilibrio entre la formación de una vida saludable basada en el desarrollo biológico, cognitivo y emocional de las personas, bajo el impulso de actividades científicas, deportivas, culturales y recreativas. La formación ambiental para la sustentabilidad, los principios de una convivencia y participación democrática, la promoción del diálogo y el acceso a las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, serán la base que sustenten los programas educativos, y
+
+VI. Se diseñarán, impulsarán y promoverán programas orientados al desarrollo y reconocimiento de las culturas de los pueblos originarios, así como la convergencia de culturas que prevalecen en nuestro Estado, todo ello en la construcción de una sociedad comprometida y responsable que promueva la paz social.
 
 B. En materia de coordinación y política educativa:
 
-I.- Determinar, de conformidad con las disposiciones aplicables, los requisitos a que deberá sujetarse la incorporación de escuelas particulares al Sistema Educativo Estatal y ejercer la supervisión que corresponda;
+I. Determinar de conformidad con las disposiciones aplicables, los requisitos a que deberá sujetarse la incorporación de escuelas particulares al sistema educativo estatal y ejercer la supervisión que corresponda;
 
-II.- Promover y fomentar la educación superior;
+II. Promover y establecer políticas que fomenten la inclusión, permanencia y continuidad, así como medios para el acceso a la educación superior, en términos de los requisitos dispuestos por las instituciones de educación superior;
 
-III.- Mantener, por si o en coordinación con los Gobiernos Federal y Municipales, programas permanentes de educación para adultos;
+III. Promover políticas que favorezcan la permanencia de plazas directivas, docentes, de personal de apoyo y asistencia a la educación, en los municipios rurales;
 
-IV.- Coordinar con las instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos y culturales; y
+IV. Mantener por si o en coordinación con los gobiernos federal y municipales, programas permanentes de educación para adultos;
 
-V.- Vigilar el cumplimiento de la (sic) leyes y reglamentos en materia de ejercicio de las profesiones en el Estado.
+V. Coordinar con las instituciones de educación media superior y superior la orientación vocacional y/o a las profesiones, el servicio social de pasantes, prácticas profesionales y otros aspectos educativos y culturales, y
 
-C. En materia de fomento a la cultura, investigación, recreación y deporte:
+VI. Vigilar el cumplimiento de las leyes y reglamentos en materia de ejercicio de las profesiones en el Estado.
 
-I.- Proponer las políticas y ejecutar los programas relativos al fomento de la educación, la cultura, la recreación, la investigación y el deporte;
+C. En materia de fomento a la ciencia, deporte, cultura, investigación y recreación:
 
-II.- Coordinar y promover actividades educativas tendientes al conocimiento de los diversos ecosistemas de la Entidad, así como a la preservación, conservación y el uso social del entorno físico y de los recursos naturales con las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales y con los miembros de los sectores social y privado;
+I. Proponer las políticas y ejecutar los programas relativos al fomento de la educación y la formación en ciencia, deporte, cultura, investigación y recreación;
 
-III.- Promover y fomentar el desarrollo de la investigación científica y tecnológica en el Estado;
+II. Coordinar, diseñar y promover prácticas formativas tendientes al conocimiento de los diversos ecosistemas de la Entidad, así como a la preservación, conservación y el uso social del entorno físico y de los recursos naturales con las dependencias y entidades de la administración pública estatal, los gobiernos federal y municipales y con los miembros de los sectores social y privado;
 
-IV.- Promover, organizar y supervisar programas de capacitación y adiestramiento, en coordinación con las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales y con los miembros de los sectores social y privado;
+III. Promover y fomentar el desarrollo de la investigación científica y tecnológica en el Estado con la participación del organismo descentralizado en materia de ciencia y tecnología, para la creación de institutos de investigación científica y técnica, así como el establecimiento de laboratorios, observatorios, planetarios y demás centros tecnológicos que requiera (sic) el desarrollo de la educación primaria, secundaria, media superior y superior y las escuelas de formadores;
 
-V.- Conservar y desarrollar el acervo cultural del Estado, en coordinación con las demás dependencias y entidades de la administración pública estatal y en concertación con los sectores social y privado;
+IV. Promover, organizar y supervisar programas de capacitación y adiestramiento, en coordinación con las dependencias y entidades de la administración pública estatal, los gobiernos federal y municipales y con los miembros de los sectores social y privado;
 
-VI.- Fomentar las actividades que tiendan al fortalecimiento de los valores regionales y a la afirmación de nuestra identidad nacional;
+V. Conservar y desarrollar el acervo cultural del Estado, en coordinación con las demás dependencias y entidades de la administración pública estatal y en concertación con los sectores social y privado;
 
-VII.- Promover la creación de bibliotecas y hemerotecas, organizando y administrando las que correspondan al Gobierno Estatal;
+VI. Fomentar las actividades que tiendan al fortalecimiento de los valores regionales y a la afirmación de nuestra identidad nacional;
 
-VIII.- Fomentar el establecimiento de museos en la Entidad;
+VII. Promover la creación de bibliotecas y hemerotecas, organizando y administrando las que correspondan al gobierno estatal;
 
-IX.- Fomentar las relaciones de orden cultural con el Gobierno Federal, con los gobiernos de otras entidades federativas y con los ayuntamientos;
+VIII. Fomentar el establecimiento de museos en la Entidad;
 
-X.- Impulsar la edición y distribución de obras científicas, históricas y literarias, sobre temas de interés para el Estado;
+IX. Fomentar las relaciones de orden científico, deportivo y cultural con el gobierno federal, con los gobiernos de otras entidades federativas y con los ayuntamientos;
 
-XI.- Organizar y desarrollar la educación artística en el medio escolar;
+X. Impulsar la edición y distribución de obras científicas, históricas y literarias, sobre temas de interés para el Estado;
 
-XII.- Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud sonorenses; y
+XI. Organizar y desarrollar en coordinación con el Instituto Sonorense de Cultura, la educación cultural y artística, para que sea impartida en las escuelas e institutos oficiales incorporados o reconocidos para la enseñanza y difusión de las bellas artes, las artes populares, las obras históricas, los museos y la difusión de la lectura a través de las bibliotecas;
 
-XIII.- Coordinar, fomentar y dirigir la enseñanza y práctica del deporte en el medio escolar, y organizar la participación de los alumnos en eventos estatales, regionales y nacionales.
+XII. Organizar y desarrollar la educación deportiva y competencias Interescolares, en coordinación con la Comisión del Deporte del Estado de Sonora;
+
+XIII. Promover y organizar actividades de recreación y aprovechamiento de tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud sonorense, impulsados desde las escuelas, y
+
+XIV. Coordinar, fomentar y dirigir la enseñanza y práctica del deporte en el medio escolar y organizar la participación de los alumnos en eventos estatales, regionales y nacionales en coordinación con la Comisión del Deporte del Estado de Sonora.
 
 D. En materia de ejecución de normatividad educativa y cultural:
 
-I.- Proponer y ejecutar, en su caso, los acuerdos de coordinación que en materia de educación y cultura celebre el Ejecutivo del Estado con los Gobiernos Federal y Municipales, así como los convenios de concertación de acciones que en la misma materia se celebren con los sectores privado y social.
+I. Proponer y ejecutar los acuerdos de coordinación que en materia de educación y cultura celebre el Ejecutivo del Estado con los gobiernos federal y municipales, así como los convenios de concertación de acciones que en la misma materia se celebren con los sectores privado y social.
+
+E. En materia de evaluación:
+
+I. Establecer, en colaboración con la Comisión Nacional para la Mejora Educativa, un sistema destinado a obtener, sistematizar, procesar, analizar, estudiar, difundir y poner al alcance de la sociedad, información sobre la operación, cobertura, equidad, calidad y demás atributos y condiciones estructurales del sistema educativo sonorense;
+
+II. Garantizar la capacitación y formación continua del magisterio del Estado, así como del personal directivo y de supervisión escolar, con el fin de contribuir a su profesionalización, incluidas las referidas al aprovechamiento tecnológico de la información y comunicación, y
+
+III. Establecer mecanismos para conocer e impulsar las mejores prácticas educativas a nivel nacional e internacional.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -1187,9 +1269,9 @@ II.- Elaborar, directamente o a través de terceros, los estudios, proyectos arq
 
 D. En materia de transporte:
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-I.- Promover las políticas y ejecutar los programas relativos a la planeación, administración, regulación, modernización, control y supervisión del servicio público y privado de transporte en el Estado, y en su caso, promover las políticas y elaborar programas relativos a la prestación directa del servicio público de transporte por parte del Ejecutivo Estatal.
+I.- Proponer y ejecutar por conducto del Instituto de Movilidad y Transporte para el Estado de Sonora, las políticas y programas relativos a movilidad y transporte, así como la planeación, administración, regulación, modernización, control y supervisión del servicio público y privado de transporte en el Estado y la prestación directa del servicio público de transporte por parte del Ejecutivo Estatal.
 
 E. En materia de investigación y asesoría:
 
@@ -1439,9 +1521,9 @@ XI.- Promover programas relativos al desarrollo integral de los pueblos y las co
 
 XII.- Coordinar las acciones, planes y programas que sean implementados por el Instituto Sonorense de la Mujer, que propicien y faciliten la plena incorporación de la mujer en la vida económica, política, cultural y social.
 
-(ADICIONADA, B.O. 4 DE JULIO DE 2016) (F. DE E., B.O. 22 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
-XIII.- Coordinar las acciones del Instituto Sonorense de la Juventud, de la Comisión del Deporte del Estado de Sonora y de la Comisión del (sic) Vivienda del Estado.
+XIII.- Coordinar las acciones del Instituto Sonorense de la Juventud, de la Comisión de Vivienda del Estado y el Instituto Sonorense para la Atención de los Adultos Mayores.
 
 B. En materia de desarrollo regional:
 
@@ -1461,25 +1543,23 @@ VII.- Asesorar y prestar asistencia técnica a los municipios que así lo solici
 
 VIII.- Diseñar e instrumentar políticas y programas para la atención de las micro regiones de más alta marginación en el Estado.
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 22 DE JUNIO DE 2020)</small>
+C. (DEROGADO [N. DE E. ESTE PÁRRAFO], B.O. 8 DE MARZO DE 2022)
 
-C.·En materia de atención ciudadana:
+I.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-I. Atender de manera personalizada a la ciudadanía que acude a las oficinas del Titular del Ejecutivo del Estado para solicitar algún apoyo, atención o manifestar alguna queja o sugerencia;
+II.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-II. Atender y dar seguimiento hasta su conclusión a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa al Titular del Ejecutivo del Estado en las diferentes ramas de la administración pública, que le sean turnados para su atención;
+III.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-III. Coordinar el registro, análisis, clasificación y gestión de la documentación recibida en giras de trabajo, oficialía de partes, medios de comunicación, redes sociales, correo electrónico, vía telefónica, programas radiofónicos y televisivos y Presidencia de la República, entre otros, para su canalización a las instancias correspondientes;
+IV.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-IV. Establecer los procedimientos de atención a las demandas ciudadanas;
+V.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-V. Registrar y controlar la documentación soporte mediante un sistema automatizado de Control de Gestión, así como elaborar reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
+VI.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-VI. Programar y coordinar la audiencia pública que atenderá el Titular del Ejecutivo, conjuntamente con los titulares de las dependencias y entidades paraestatales del Estado;
+VII.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-VII. Elaborar con base a los registros de peticiones que reciba, reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención; y
-
-VIII. Presentar al Titular del Ejecutivo del Estado proyectos de planes y programas que deban desarrollar las dependencias de la administración pública estatal que le permitan atender las peticiones ciudadanas.
+VIII.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
 > <small>(REFORMADO [ADICIONADO], B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1613,13 +1693,13 @@ XXV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 La creación o constitución de las entidades paraestatales deberá llevarse a cabo con sujeción a lo establecido en esta Ley, así como en las leyes o decretos de creación correspondientes.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 36.
 
-Las entidades paraestatales, como auxiliares de la administración pública estatal, gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, facultades y obligaciones establecidas en sus instrumentos de creación, y de los objetivos y metas señaladas en sus programas. Al efecto se vigilará que su administración sea ágil y eficiente, sujetándose a los sistemas de control establecidos en esta Ley y demás disposiciones legales aplicables.
+Las entidades paraestatales, como auxiliares de la administración pública estatal, gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, facultades y obligaciones establecidas en sus instrumentos de creación, y de los objetos y metas señaladas en sus programas.
 
-Cuando alguna entidad paraestatal haya cumplido o deje de cumplir con su objeto o fines para los que fueron creadas o su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación no resulte conveniente para la economía estatal o el interés público, la Secretaría de Hacienda, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción, según sea el caso.
+Al efecto, la Oficialía Mayor emitirá los lineamientos necesarios y procurará que su administración sea ágil y eficiente, y la Secretaría de Hacienda supervisará sus ingresos, su situación financiera y presupuestal, sujetándose a los sistemas de control establecidos en esta Ley y demás disposiciones legales aplicables. Cuando alguna entidad paraestatal haya cumplido o deje de cumplir con su objeto o fines para los que fueron creadas o su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación no resulte conveniente para la economía estatal o el interés público, la Secretaría de Hacienda, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión disolución, liquidación o extinción, según sea el caso.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1795,7 +1875,9 @@ En ningún caso podrán ser miembros del órgano de gobierno del organismo:
 
 I.- El Director General del organismo de que se trate, quien únicamente asistirá con voz a sus sesiones;
 
-II.- Los representantes de la Secretaría de la Contraloría General y los titulares de los órganos de control y vigilancia y los comisarios públicos oficiales y ciudadanos, quienes asistirán a sus sesiones correspondientes en ejercicio de las atribuciones competenciales a su cargo;
+> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+
+II.- Los representantes de la Secretaría de la Contraloría General, quienes asistirán a sus sesiones correspondientes en ejercicio de las atribuciones competenciales a su cargo;
 
 III.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con el titular de la Secretaría coordinadora de sector o quien tenga a su cargo la designación de los integrantes del órgano de gobierno;
 
@@ -2001,37 +2083,33 @@ Los manuales de organización, de procedimientos y de atención al público debe
 
 ### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 57.
 
-Las funciones de prevención, control y evaluación de las dependencias y entidades paraestatales estarán a cargo de los órganos internos de control, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría de la Contraloría General.
+Las funciones de prevención, control y evaluación de las dependencias y entidades paraestatales, estarán a cargo de los órganos internos de control, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría de la Contraloría General.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+La Secretaría de la Contraloría General ejercerá las funciones de vigilancia de las entidades paraestatales.
 
-Los Comisarios Públicos Oficiales y Comisarios Públicos Ciudadanos, designados por la Secretaría de la Contraloría General, ejercerán las funciones de vigilancia de las entidades paraestatales.
+Los representantes de la Secretaría de la Contraloría General participarán con voz en las reuniones de los órganos de gobierno de las entidades, mismas que serán públicas y transmitidas por medios electrónicos.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-El Comisario Público Ciudadano percibirá los estímulos que se fijen anualmente en el presupuesto de egresos de la Secretaría de la Contraloría General.
-
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
-
-Los titulares de los órganos internos de control y los Comisionarios Públicos, participarán con voz en las reuniones de los órganos de gobierno de las entidades.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 58.
 
-Los comisarios públicos, que serán propietarios y suplentes, evaluarán el desempeño general y por funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General del Estado les asigne específicamente conforme a las leyes.
+Los representantes de la Secretaría de la Contraloría General, evaluarán el desempeño general y las funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones.
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 59.
 
-Los órganos internos de control realizarán las funciones de prevención, control y evaluación de la gestión pública de las dependencias y entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente y con los lineamientos que emita la Secretaría de la Contraloría General.
+Los representantes de la Secretaría de la Contraloría General realizarán las funciones de prevención, control y evaluación de la gestión pública de las dependencias y entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente.
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
 
 La Secretaría de la Contraloría General cubrirá las remuneraciones del personal de los órganos internos de control con cargo al presupuesto de las entidades paraestatales respectivas, las cuales proveerán lo necesario para tal efecto.
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
 
 Asimismo, las dependencias y entidades paraestatales proveerán los recursos materiales, servicios generales e instalaciones físicas adecuadas necesarias para el funcionamiento de los órganos internos de control y proporcionarán la colaboración técnica y toda la información que se requiera para el cumplimiento de sus atribuciones.
 
@@ -2724,3 +2802,45 @@ B.O. 23 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 8 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 31, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría Técnica pasan a formar parte de la Oficina del Ejecutivo del Estado, la Coordinación General del Sistema Estatal de Comunicación Social y la Oficialía Mayor, conforme a la estructura administrativa que el Titular del Ejecutivo determine.
+
+###### ARTICULO TERCERO.
+
+El titular del Ejecutivo Estatal cuenta con un plazo de noventa días a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones reglamentarias y administrativas conforme a lo establecido en el mismo.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la publicación del Decreto de creación del Instituto de Movilidad y Transporte para el Estado de Sonora, se abroga el Decreto que Crea el Fondo Estatal para la Modernización del Transporte publicado en el Boletín Oficial del Gobierno del Estado de Sonora el nueve de agosto de dos mil uno.
+
+Una vez cumplido lo dispuesto en el párrafo anterior, todas las atribuciones que se confieran a la Dirección General de Transporte y al Fondo Estatal para la Modernización del Transporte en cualquier ordenamiento jurídico se entenderán transferidas al Instituto de Movilidad y Transporte para el Estado de Sonora; así como todos los recursos humanos, materiales y financieros que actualmente tengan asignados.
+
+###### ARTÍCULO QUINTO.
+
+Se concede un plazo de hasta ciento ochenta días para que en el marco de esta iniciativa, el Titular del Poder Ejecutivo publique el Decreto de creación del Instituto de Movilidad y Transporte para el Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+Se concede al Ejecutivo del Estado un plazo de hasta ciento ochenta días para que en el marco de esta iniciativa, realice las modificaciones necesarias al reglamento interior de la Secretaría de Infraestructura y Desarrollo Urbano para reformar o derogar en su caso las disposiciones relacionadas con las atribuciones de la Dirección General de Transporte.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Hacienda, la Secretaría de Gobierno, la Secretaría de la Contraloría General y la Secretaría de Desarrollo Social deberán realizar los actos administrativos necesarios para transferir los recursos humanos, financieros y materiales que en el ejercicio de sus atribuciones venían utilizando dichas Secretarías y que en virtud del presente Decreto pasarán a conformar la Oficialía Mayor, la Oficina del Ejecutivo y a la Secretaría Particular.
+
+###### ARTÍCULO OCTAVO.
+
+El Titular del Ejecutivo Estatal, deberá emitir el Reglamento Interior de la Oficialía Mayor en un plazo no mayor a sesenta días a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO NOVENO.
+
+El apartado H del artículo 24 del presente Decreto entrará en vigor una vez que el Congreso del Estado de Sonora, en un plazo de 180 días naturales, expida la legislación necesaria para adecuar el marco normativo para la aplicación de lo dispuesto en dicho apartado.
