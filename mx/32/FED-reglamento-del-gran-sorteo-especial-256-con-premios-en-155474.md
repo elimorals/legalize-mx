@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-gran-sorteo-especial-256-con-premios-en-155474"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-02-15"
-last_updated: "2022-02-15"
+last_updated: "2022-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2022-02-03"
 ---
 # REGLAMENTO DEL GRAN SORTEO ESPECIAL 256, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MARZO DE 2022 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL GRAN SORTEO ESPECIAL 256, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 8 DE MARZO DE 2022.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 15 de febrero de 2022.
 
@@ -91,9 +91,11 @@ El Sorteo se apegará a la normatividad aplicable a Lotería Nacional, que conte
 
 ###### Artículo 4.
 
-El Sorteo se celebrará el 29 de marzo de 2022 a las 16:00 horas, con una emisión de 3’000,000 (tres millones) de billetes, que al imprimirse para su distribución se realizará con una numeración aleatoria comprendida entre el número 0’000,000 y el número 2’999,999.
+El Sorteo se celebrará el 29 de marzo de 2022 a las 16:00 horas, con una emisión de 3'000,000 (tres millones) de billetes, que al imprimirse para su distribución se realizará con una numeración aleatoria comprendida entre el número 0'000,000 y el número 2'999,999.
 
-Donde serán sorteados premios en especie y efectivo, con un valor total de $303’011,800.00 (Trescientos tres millones once mil ochocientos pesos 00/100 M.N.).
+> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2022)</small>
+
+Donde serán sorteados premios en especie y efectivo, con un valor total de $302,978,800.00 (Trescientos dos millones novecientos setenta y ocho mil ochocientos pesos 00/100 M.N.)
 
 ###### Artículo 5.
 
@@ -206,6 +208,8 @@ f) La extracción de una Bola de sorteos tradicionales por Esfera de sorteo trad
 g) En la primera etapa del Sorteo se llevarán a cabo únicamente 6 (seis) extracciones, las cuales corresponderán a los siguientes premios, en el orden que se indica:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 15 DE FEBRERO DE 2020, PÁGINAS DE LA 250 A LA 251.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL D.O.F. DE 8 DE MARZO DE 2022, PÁGINA 204.]</small>
 
 h) Los números de las 6 (seis) extracciones serán verificados por los miembros del Presídium y quedarán inscritos en el medio de comunicación destinado para tal efecto, además se llevará cabo la localización de los billetes ganadores, para conocer el lugar donde fue vendido el mismo, el cual será mencionado al término de la celebración del Sorteo.
 
