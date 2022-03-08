@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2021-12-30"
+last_updated: "2022-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MARZO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -167,9 +167,9 @@ Dentro de los 10 días naturales de cada mes, el Gobierno del Estado aportará e
 
 El Fideicomiso creado por el ejecutivo estatal tendrá como Fideicomitente y Fideicomisario al Gobierno del Estado y, como fiduciaria a la institución bancaria que mejores condiciones ofrezca.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
-El Fideicomiso contará con un Comité Técnico que estará integrado por un Representante de la Secretaría de Hacienda, uno de la Secretaría de Economía, dos Representantes de la Secretaría de Turismo y, siete vocales del sector turístico privado del Estado.
+El Fideicomiso contará con un Comité Técnico que estará integrado por un Representante de la Secretaria de Hacienda, uno de la secretaria de Economía, uno de la Secretaría de Turismo, uno de la Secretaria de la Contraloría, uno del Consejo para el Desarrollo Sostenible y cuatro vocales del sector turístico privado del Estado.
 
 El Comité Técnico del Fideicomiso determinará y autorizará los importes, acciones y programas en los cuales deberá invertirse el patrimonio fideicomitido.
 
@@ -8510,3 +8510,15 @@ Artículo Segundo.- Los juicios contenciosos administrativos que se hubieran int
 Artículo Tercero.- Los juicios de nulidad que se hubieran interpuesto a partir de la entrada en vigor de la Ley de Justicia Administrativa para el Estado de Sonora, se tramitarán y resolverán de acuerdo con lo dispuesto en esa misma Ley, por lo que las leyes que remitan a los artículos comprendidos del 196 al 251, contenidos en el Título Sexto del Código Fiscal del Estado de Sonora que se deroga, se entenderán referidos a los correlativos de la Ley de Justicia Administrativa del Estado de Sonora.
 
 Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 8 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 29, QUE REFORMA EL ARTÍCULO 12, SEGUNDO PÁRRAFO, DE LA LEY DE HACIENDA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En la conformación del Comité Técnico al que se refiere el segundo párrafo del artículo 12 de esta Ley, el representante del Consejo para el Desarrollo Sostenible deberá contar con un perfil ligado a la promoción turística y uno de los cuatro integrantes del sector turístico privado deberá pertenecer al sector turístico rural.
