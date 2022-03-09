@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-148454"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2021-03-17"
+last_updated: "2022-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
 
 Ley publicada en el número 5926 del Periódico Oficial del Estado de Morelos, el miércoles 17 de marzo de 2021.
 
@@ -231,9 +231,11 @@ El Estado está obligado a prestar servicios educativos con equidad y excelencia
 
 Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos o preferencia sexual o prácticas culturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 13.
 
-La autoridad educativa estatal y los Organismos Descentralizados, en el ámbito de sus respectivas competencias y con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, con equidad y excelencia, realizarán entre otras, las siguientes acciones:
+La autoridad educativa estatal y los organismos descentralizados, en el ámbito de sus respectivas competencias y con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, con equidad y excelencia, realizarán entre otras, las siguientes acciones:
 
 I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
 
@@ -243,31 +245,39 @@ III. Apoyar conforme a las disposiciones que, para tal efecto emita la autoridad
 
 IV. Establecer protocolos de actuación y protección de las víctimas de acoso, hostigamiento, abuso sexual o violación dentro de los planteles Educativos para garantizar la seguridad física, emocional y académica de la víctima y evitar la deserción escolar provocada por estos supuestos;
 
-V. Celebrar convenios para que las instituciones que presten servicios de estancias infantiles faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2022)</small>
 
-VI. Establecer de acuerdo con la suficiencia presupuestal, programas de apoyo a los planteles de Educación Básica del Estado para el mantenimiento de las instalaciones, así como del inmobiliario;
+V. Garantizar el acceso gratuito a las personas que así lo requieran, a productos tales como toallas sanitarias, tampones y/o copas menstruales en las escuelas públicas pertenecientes al Sistema Educativo Estatal;
 
-VII. Dar a conocer y, en su caso, fomentar diversas opciones educativas, como la educación abierta y a distancia, mediante el aprovechamiento de las plataformas digitales, la televisión educativa y las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2022)</small>
 
-VIII. Celebrar convenios de colaboración interinstitucional con las autoridades de los tres órdenes de gobierno, a fin de impulsar acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario, preferentemente a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+VI. Fomentar la educación sexual integral y reproductiva que implica la educación menstrual, el ejercicio responsable de la sexualidad, prevención de enfermedades de transmisión sexual y los embarazos no planeados, sin menoscabo de la libertad y del respeto absoluto a la dignidad y los derechos humanos;
 
-IX. Fomentar programas de incentivos dirigidos a las maestras y los maestros que presten sus servicios en localidades aisladas, zonas urbanas marginadas y de alta conflictividad social, para fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
+VII. Celebrar convenios para que las instituciones que presten servicios de estancias infantiles faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
 
-X. Establecer, de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, escuelas con horario completo en educación básica, con jornadas de entre 6 y 8 horas diarias, para promover un mejor aprovechamiento del tiempo disponible, generar un mayor desempeño académico y desarrollo integral de los educandos;
+VIII. Establecer de acuerdo con la suficiencia presupuestal, programas de apoyo a los planteles de Educación Básica del Estado para el mantenimiento de las instalaciones, así como del inmobiliario;
 
-XI. Facilitar el acceso a la educación básica y media superior, previo cumplimiento de los requisitos que para tal efecto se establezcan, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos en los términos de este Capítulo y de conformidad con los lineamientos que emita la autoridad educativa federal.
+IX. Dar a conocer y, en su caso, fomentar diversas opciones educativas, como la educación abierta y a distancia, mediante el aprovechamiento de las plataformas digitales, la televisión educativa y las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
-Los Organismos Descentralizados ofrecerán opciones que faciliten la obtención de los documentos académicos y celebrarán convenios de colaboración con las instituciones competentes para la obtención de los documentos de identidad, asimismo, en el caso de la educación básica y media superior, se les ubicará en el nivel y grado que corresponda, conforme a la edad, el desarrollo cognitivo, la madurez emocional y, en su caso, los conocimientos que demuestren los educandos mediante la evaluación correspondiente.
+X. Celebrar convenios de colaboración interinstitucional con las autoridades de los tres órdenes de gobierno, a fin de impulsar acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario, preferentemente a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
-Los Organismos Descentralizados de nivel superior promoverán acciones similares;
+XI. Fomentar programas de incentivos dirigidos a las maestras y los maestros que presten sus servicios en localidades aisladas, zonas urbanas marginadas y de alta conflictividad social, para fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
 
-XII. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Estatal;
+XII. Establecer, de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, escuelas con horario completo en educación básica, con jornadas de entre 6 y 8 horas diarias, para promover un mejor aprovechamiento del tiempo disponible, generar un mayor desempeño académico y desarrollo integral de los educandos;
 
-XIII. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2022)</small>
 
-XIV. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
+XIII. Facilitar el acceso a la educación básica y media superior, previo cumplimiento de los requisitos que para tal efecto se establezcan, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos en los términos de este capítulo y de conformidad con los lineamientos que emita la autoridad educativa federal.
 
-XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, así como la seguridad escolar y la sana convivencia.
+Los organismos descentralizados ofrecerán opciones que faciliten la obtención de los documentos académicos y celebrarán convenios de colaboración con las instituciones competentes para la obtención de los documentos de identidad, asimismo, en el caso de la educación básica y media superior, se les ubicará en el nivel y grado que corresponda, conforme a la edad, el desarrollo cognitivo, la madurez emocional y, en su caso, los conocimientos que demuestren los educandos mediante la evaluación correspondiente. Los organismos descentralizados de nivel superior promoverán acciones similares;
+
+XIV. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Estatal;
+
+XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
+
+XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
+
+XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, así como la seguridad escolar y la sana convivencia.
 
 ###### ARTÍCULO 14.
 
@@ -2416,3 +2426,15 @@ SECRETARIO DE GOBIERNO
 LIC. PABLO HÉCTOR OJEDA CÁRDENAS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO CUARENTA Y CUATRO POR EL CUAL SE ADICIONAN LAS FRACCIONES QUINTA Y SEXTA AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES".]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Las acciones que deberá realizar la autoridad educativa estatal y los organismos descentralizados adicionadas mediante el presente decreto, estarán supeditadas a la planeación, programación y disponibilidad presupuestal del Poder Ejecutivo, priorizando a pueblos y comunidades indígenas, así como zonas de alta y muy alta marginación, implementándose las mismas de manera gradual en el territorio estatal y debiendo tener cobertura total en los dos años posteriores a la entrada vigor del presente decreto.
+
+TERCERA.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
