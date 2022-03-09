@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-138039"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-09-06"
-last_updated: "2020-11-17"
+last_updated: "2022-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2019-08-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2022.
 
 Acuerdo publicado al Número 5 de la Primera Sección del Diario Oficial de la Federación, el viernes 6 de septiembre de 2019.
 
@@ -523,7 +523,9 @@ Del acceso a las videograbaciones de las sesiones de los Tribunales Colegiados d
 
 Las partes podrán obtener una copia de las videograbaciones que realiza el órgano jurisdiccional.
 
-Las sesiones de los tribunales colegiados de Circuito o Plenos de Circuito podrán ser consultadas en la Biblioteca Virtual de Sesiones, a través del portal del Consejo en Internet.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+
+Las sesiones de los tribunales colegiados de Circuito o Plenos de Circuito se transmitirán en vivo por internet y, posteriormente, podrán ser consultadas en la Biblioteca Virtual de Sesiones, a través del portal del Consejo en Internet.
 
 Las sesiones ordinarias o extraordinarias deberán ser ingresadas a la Biblioteca Virtual de Sesiones, previo a que se celebre la siguiente sesión ordinaria que corresponda.
 
@@ -678,3 +680,15 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
+
+D.O.F. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 10 de marzo de 2022 para los tribunales colegiados y el 1 de abril del mismo año para los Plenos de Circuito.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se instruye a las unidades administrativas competentes, emitir los lineamientos para incorporar el video y, en su caso, el acta respectiva a la Biblioteca Virtual de Sesiones.
+
+CUARTO. Las referencias hechas a los Plenos de Circuito, se entenderán formuladas a los Plenos Regionales, hasta en tanto entren en operación los segundos.
