@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-transparencia-11814
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-17"
-last_updated: "2022-02-25"
+last_updated: "2022-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2016-11-01"
 
 > <small>[N. DE E. LAS MODIFICACIONES APARECEN EN LA DIRECCIÓN ELECTRÓNICA www.dof.gob.mx/2022/INAI/ACT-PUB-09-02-2022-07.zip]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2022 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE MARZO DE 2022.]</small>
 
 Estatuto publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el martes 17 de enero de 2017.
 
@@ -653,10 +653,6 @@ Para el ejercicio de sus funciones, la Secretaría de Acceso a la Información s
 
 ### CAPÍTULO OCTAVO. De la Secretaría de Protección de Datos Personales
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INAI/ACT-PUB-09-02-2022-07.zip]</small>
-
-> <small>[N. DE E. VÉASE LA LITERALIDAD DEL ANEXO ACT-PUB/09/02/2022.07, D.O.F. DE FECHA 25 DE FEBRERO DE 2022, PÁGINAS DE LA 3 A LA 4.]</small>
-
 ###### Artículo 25.
 
 La Secretaría de Protección de Datos Personales tendrá las siguientes funciones:
@@ -731,23 +727,35 @@ XXIII. Ejecutar las instrucciones que dicte el Pleno del Instituto respecto de l
 
 XXIV. Coordinar y supervisar los procedimientos de protección de derechos, investigación, verificación e imposición de sanciones, en términos de lo previsto por la normatividad aplicable;
 
+> <small>(F. DE E., D.O.F. 9 DE MARZO DE 2022)</small>
+
+XXV. Acordar conjuntamente con el Director General de Protección de Derechos y Sanción, la ampliación del plazo de resolución definitiva de los procedimientos de protección de derechos y de imposición de sanciones en el sector privado, en términos de la Ley de Protección de Datos Personales sin perjuicio de su ejercicio directo por el Pleno de este Instituto;
+
+> <small>(F. DE E., D.O.F. 9 DE MARZO DE 2022)</small>
+
+XXVI. Resolver conjuntamente con el Director General de Protección de Derechos y Sanción, sobre el desechamiento y sobreseimiento de las solicitudes de protección de derechos del sector privado, en términos de lo dispuesto por la Ley de Protección de Datos Personales, sin perjuicio de su ejercicio directo por el Pleno de este Instituto;
+
+> <small>(F. DE E., D.O.F. 9 DE MARZO DE 2022)</small>
+
+XXVII. Coordinar la elaboración de los anteproyectos de criterios en materia de protección de datos personales, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XXVIII. Coordinar y supervisar el diseño, elaboración, aplicación y seguimiento de los indicadores y criterios para evaluar el desempeño de los sujetos obligados respecto del cumplimiento de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones que resulten aplicables, y
+
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INAI/ACT-PUB-09-02-2022-07.zip]</small>
 
-> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2022)</small>
+(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2022) (F. DE E., D.O.F. 9 DE MARZO DE 2022)
 
-XXV. Coordinar y supervisar la administración general del esquema de certificación de personas en materia de protección de datos personales para el sector público implementado por el Instituto a cargo de la Dirección General de Normatividad y Consulta.
+XXIX. Coordinar y supervisar la administración general del esquema de certificación de personas en materia de protección de datos personales para el sector público implementado por el Instituto a cargo de la Dirección General de Normatividad y Consulta.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INAI/ACT-PUB-09-02-2022-07.zip]</small>
+> <small>(F. DE E., D.O.F. 9 DE MARZO DE 2022)</small>
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXIX], D.O.F. 25 DE FEBRERO DE 2022)
+XXX. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno y el Comisionado Presidente.
 
-XXVI. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno y el Comisionado Presidente.
+(REFORMADO, D.O.F. 13 DE FEBRERO DE 2018) (F. DE E., D.O.F. 9 DE MARZO DE 2022)
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INAI/ACT-PUB-09-02-2022-07.zip]</small>
-
-> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2022)</small>
-
-Para el ejercicio de sus funciones, la Secretaría de Protección de Datos Personales se auxiliará de las Direcciones Generales de Investigación y Verificación; de Normatividad y Consulta; de Prevención y Autorregulación; y de Protección de Derechos y Sanción; así como de una Dirección de Coordinación y Seguimiento.
+Para el ejercicio de sus funciones, la Secretaría de Protección de Datos Personales se auxiliará de las Direcciones Generales de Investigación y Verificación del Sector Privado; de Evaluación, Investigación y Verificación del Sector Público; de Normatividad y Consulta; de Prevención y Autorregulación; y de Protección de Derechos y Sanción; así como de una Dirección de Coordinación y Seguimiento.
 
 ### CAPÍTULO NOVENO. De la Secretaría Ejecutiva
 
@@ -1595,13 +1603,15 @@ X. Proponer el desarrollo de estudios para difundir y ampliar el conocimiento en
 
 XI. Coadyuvar en materia de colaboración con otras autoridades nacionales e internacionales para compartir estudios y demás información en materia de datos personales, y
 
-XII. Las demás que deriven de la normatividad aplicable en la materia y las que dispongan el Comisionado Presidente, el Pleno y el Secretario de Protección de Datos Personales.
-
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INAI/ACT-PUB-09-02-2022-07.zip]</small>
 
-> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2022)</small>
+(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2022) (F. DE E., D.O.F. 9 DE MARZO DE 2022)
 
-XIII. Administrar el esquema de certificación de personas en materia de protección de datos personales para el sector público propiedad del Instituto, conocer, resolver y realizar todos los trámites y procedimientos relativos a dicho esquema, así como desarrollar sus requerimientos normativos.
+XII. Administrar el esquema de certificación de personas en materia de protección de datos personales para el sector público propiedad del Instituto, conocer, resolver y realizar todos los trámites y procedimientos relativos a dicho esquema, así como desarrollar sus requerimientos normativos.
+
+> <small>(F. DE E., D.O.F. 9 DE MARZO DE 2022)</small>
+
+XIII. Las demás que deriven de la normatividad aplicable en la materia y las que dispongan el Comisionado Presidente, el Pleno y el Secretario de Protección de Datos Personales.
 
 > <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, SE ELIMINAN LAS FRACCIONES XIV HASTA LA XVIII Y SE RECORREN LAS RESTANTES.]</small>
 
