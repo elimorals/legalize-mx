@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2021-09-14"
+last_updated: "2022-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -4197,15 +4197,17 @@ Para juzgar de la capacidad del testador se atenderá especialmente al estado me
 
 Es válido el testamento hecho por un demente en un intervalo de lucidez.
 
-###### ARTÍCULO 531
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 531.
 
 TESTAMENTO POR DEMENTES. Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará una solicitud al juez que corresponda. El juez nombrará dos médicos especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
 
 Se hará constar en acta formal el resultado del reconocimiento.
 
-Si éste fuere favorable, se procederá en el mismo acto a la formación de testamento ante notario público, con todas las solemnidades que se requieren para los testamentos públicos abiertos.
+Si éste fuere favorable, se procederá en el mismo acto a la formación de testamento ante notario público, con todas las formalidades que se requieren para los testamentos públicos abiertos.
 
-Firmarán el acta, además del notario y de los testigos, el juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio y sin este requisito y su constancia, será nulo el testamento.
+Firmarán el acta, además del notario y de dos testigos, el juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio y sin este requisito y su constancia, será nulo el testamento.
 
 Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
 
@@ -4747,9 +4749,11 @@ La capitalización e imposición del capital se hará interviniendo la autoridad
 
 ### CAPÍTULO IX. INEXISTENCIA, NULIDAD, REVOCACIÓN Y CADUCIDAD DE LOS TESTAMENTOS
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 627.
 
-INEXISTENCIA DEL TESTAMENTO. El testamento será inexistente cuando no se observen las solemnidades requeridas por la ley.
+INVALIDEZ DEL TESTAMENTO. El testamento será inválido cuando no se observen las formalidades requeridas por la ley.
 
 ###### ARTÍCULO 628.
 
@@ -4761,13 +4765,15 @@ La nulidad será relativa en los casos de incapacidad del testador o de vicios e
 
 Dicha pretensión podrá intentarse por los herederos legítimos y está sujeta a prescripción.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 629.
 
 NULIDAD DEL TESTAMENTO LOGRADO POR VIOLENCIA. Es nulo el testamento obtenido por violencia física o moral, cuando se haya empleado contra el testador fuerza física o amenazas que importen peligro de su vida, o impliquen ataque a su libertad, honra, dignidad, salud o parte considerable de sus bienes o cuando tales ataques o amenazas se dirijan contra su cónyuge, ascendientes, descendientes o parientes colaterales dentro del cuarto grado.
 
-El Juez que tuviere noticia de que alguno impide a otro testar, se presentará sin demora en la casa del testador para asegurar el ejercicio de su derecho, y levantará acta en que haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios que al efecto haya empleado o intentado emplear, y si la persona cuya libertad ampara hace uso de su derecho.
+El juez que tuviere noticia de que alguno impide a otro testar, se presentará sin demora en la casa del testador para asegurar el ejercicio de su derecho, y levantará acta en que haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios que al efecto haya empleado o intentado emplear, y si la persona cuya libertad ampara hace uso de su derecho.
 
-El testador que se encuentre en el caso anterior, luego que cese la violencia o disfrute de libertad completa, podrá revalidar su testamento, pero dentro de las condiciones, solemnidades o forma exigidas para el otorgamiento de un nuevo testamento. No llenándose esos requisitos subsistirá la nulidad, de la cual quedará afectada también la revalidación.
+El testador que se encuentre en el caso anterior, luego que cese la violencia o disfrute de libertad completa, podrá revalidar su testamento, pero dentro de las condiciones y formalidades exigidas para el otorgamiento de un nuevo testamento. No llenándose esos requisitos subsistirá la nulidad, de la cual quedará afectada también la revalidación.
 
 ###### ARTÍCULO 630.
 
@@ -4863,15 +4869,17 @@ VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge, o he
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 642.
 
-CONOCIMIENTO DEL TESTADOR POR EL NOTARIO Y TESTIGOS. Tanto el Notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquier coacción.
+IDENTIDAD DEL TESTADOR. El notario en cualquier testamento deberá cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquier coacción.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 643.
 
-IMPOSIBILIDAD DE IDENTIDAD DEL TESTADOR. Si la identidad del testador no pudiere ser verificada, se declarará esta circunstancia por el Notario o por los testigos, en su caso, agregando uno y otros todas las señales que caractericen la persona de aquél.
-
-En el caso del párrafo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
+IMPOSIBILIDAD DE IDENTIDAD DEL TESTADOR. En el caso del artículo que precede, no tendrá validez el testamento mientras no se verifique la identidad del testador.
 
 ###### ARTÍCULO 644.
 
@@ -4893,19 +4901,19 @@ Cuando el Archivo General de Notarías del Estado reciba una solicitud de inform
 
 ### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 646.
 
-CARACTERÍSTICAS DEL TESTAMENTO PÚBLICO ABIERTO. Testamento público abierto es el que se otorga ante Notario y tres testigos idóneos.
+CARACTERÍSTICAS DEL TESTAMENTO PÚBLICO ABIERTO. Testamento público abierto es el que se otorga ante notario, conforme a las disposiciones de este código.
 
-El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos, el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al notario. Personal y voluntariamente el testador podrá acompañarse hasta con dos testigos de conocimiento que previamente identificados, estén en todo el procedimiento y firmen el testamento. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, se firmará el instrumento público, asentándose el lugar, año, mes, día y hora del otorgamiento.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 647.
 
-SUPLENCIA EN LA FIRMA DEL TESTADOR Y TESTIGOS. Si el testador no pudiere o no supiere escribir intervendrá otro testigo más, que firme a su ruego.
-
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
-
-Si alguno de los testigos no supiere escribir firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+SUPLENCIA EN LA FIRMA DEL TESTADOR. Si el testador no pudiere o no supiere firmar, incluso en el caso de extrema urgencia, intervendrá un testigo, que firme a su ruego y encargo, debiendo asentar el testador la huella del dedo pulgar de ambas manos, o de cualquier otro dedo, salvo que nos los tuviere, lo que se deberá hacer constar en el instrumento.
 
 ###### ARTÍCULO 648.
 
@@ -4921,11 +4929,13 @@ Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá e
 
 Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 650.
 
-SOLEMNIDADES EN EL TESTAMENTO. Las solemnidades se practicarán de modo continuo y el Notario dará fe de haberse llenado todas.
+FORMALIDADES EN EL TESTAMENTO. Las formalidades se practicarán de modo continuo y el notario dará fe de haberse llenado todas.
 
-Faltando alguna de las referidas, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pérdida de oficio.
+Faltando alguna de las referidas, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios en su caso.
 
 ### CAPÍTULO III. DEL TESTAMENTO PÚBLICO CERRADO
 
@@ -4943,9 +4953,11 @@ TESTAMENTO PÚBLICO CERRADO DEL SORDOMUDO. El sordomudo podrá hacer testamento 
 
 En el caso del párrafo anterior, si el testador no puede firmar la cubierta se observará lo dispuesto en el artículo 658 de este Código, dando fe el Notario de la elección que el testador haga de uno de los testigos para que firme por él.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 654.
 
-TESTAMENTO PÚBLICO CERRADO DEL SOLO SORDO O SOLO MUDO. El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás solemnidades requeridas para esta clase de testamento.
+TESTAMENTO PÚBLICO CERRADO DEL SOLO SORDO O SOLO MUDO. El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás formalidades requeridas para esta clase de testamento.
 
 ###### ARTÍCULO 655.
 
@@ -4957,11 +4969,13 @@ En el caso del párrafo que precede, la persona que haya rubricado y firmado por
 
 REQUISITOS DEL TESTAMENTO PÚBLICO CERRADO. El papel en que esté escrito el testamento o el que le sirve de cubierta, deberá estar cerrado y sellado, o lo hará cerrar y sellar el testador, en el acto del otorgamiento, y lo exhibirá al Notario en presencia de tres testigos.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 657.
 
 PROCEDIMIENTO PARA EL OTORGAMIENTO DEL TESTAMENTO PÚBLICO CERRADO. El testador, al hacer la presentación, declarará que en aquel pliego está contenida su última voluntad.
 
-El Notario dará fe del otorgamiento, con expresión de las solemnidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, y deberá ser firmada por el testador, los testigos y el Notario, quien además, pondrá su sello.
+El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, y deberá ser firmada por el testador, los testigos y el notario, quien además, pondrá su sello.
 
 ###### ARTÍCULO 658.
 
@@ -4971,9 +4985,11 @@ Si al hacer la presentación del testamento no pudiere firmar el testador, lo ha
 
 Sólo en los casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que no sepa hacerlo, ya por el testador. El Notario hará constar expresamente esta circunstancia, bajo la pena de suspensión de oficio por tres años.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 659.
 
-EFECTOS POR FALTA DE SOLEMNIDAD. El testamento cerrado que carezca de alguna de las solemnidades prescritas, quedarán sin efecto, y el Notario será responsable en los términos del artículo 650 de este Ordenamiento.
+EFECTOS POR FALTA DE FORMALIDAD. El testamento cerrado que carezca de alguna de las formalidades prescritas, quedarán sin efecto, y el notario será responsable en los términos del artículo 650 de este ordenamiento.
 
 ###### ARTÍCULO 660.
 
@@ -4989,9 +5005,11 @@ El testador que quiera depositar su testamento en el Archivo, se presentará con
 
 Pueden hacerse por mandatario la presentación y depósito, y en este caso el poder quedará unido al testamento.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 662.
 
-RETIRO DEL TESTAMENTO PÚBLICO CERRADO. El testador puede retirar, cuando le parezca, su testamento, pero la devolución se hará con las mismas solemnidades que la entrega.
+RETIRO DEL TESTAMENTO PÚBLICO CERRADO. El testador puede retirar, cuando le parezca, su testamento, pero la devolución se hará con las mismas formalidades que la entrega.
 
 El poder para la entrega y para la extracción del testamento, debe otorgarse en escritura pública, y esta circunstancia se hará constar en la nota respectiva.
 
@@ -5067,11 +5085,13 @@ a) Tipo de testamento y lugar y fecha de su otorgamiento, y
 
 b) Datos de la autoridad encargada de los Servicios Registrales y Catastrales donde se depositó.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 672.
 
 REQUISITOS PARA EL DEPÓSITO DEL TESTAMENTO OLÓGRAFO EN EL REGISTRO PÚBLICO DE LA PROPIEDAD. El depósito en el Registro Público de la Propiedad se hará personalmente por el testador, quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se haga el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
 
-Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público de la Propiedad, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las solemnidades del depósito.
+Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público de la Propiedad, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
 
 ###### ARTÍCULO 673.
 
@@ -5111,33 +5131,37 @@ PERSONAS A LAS QUE SE PUEDE INFORMAR DE LA EXISTENCIA DE TESTAMENTO OLÓGRAFO. E
 
 ### CAPÍTULO V. DEL TESTAMENTO PRIVADO
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 682.
 
 HIPÓTESIS EN LAS QUE PUEDE VERIFICARSE EL TESTAMENTO PRIVADO. El testamento privado está permitido en los casos siguientes:
 
-I.- Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra ante Notario a hacer el testamento;
+I.- Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para otorgar cualquier testamento ordinario;
 
-II.- Cuando no haya Notario en la población, o Juez que actúe por receptoría; y
+II.- Cuando no haya notario en la población, y
 
-III.- Cuando, aunque haya Notario o Juez en la población, sea imposible, o por lo menos muy difícil, que concurran al otorgamiento del testamento.
+III.- Cuando, aunque haya notario, sea imposible, o por lo menos muy difícil, que concurran al otorgamiento del testamento.
 
-Para que en los casos enumerados en el párrafo que precede pueda otorgarse testamento privado, es necesario que el testador no le sea posible hacer testamento ológrafo.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 683.
 
-REQUISITOS PARA LA REALIZACIÓN DEL TESTAMENTO PRIVADO. El testador que se encuentra en el caso de hacer testamento privado, declarará en presencia de cinco testigos idóneos su última voluntad, que uno de ellos redactará por escrito, si el testador no puede escribir.
+REQUISITOS PARA LA REALIZACIÓN DEL TESTAMENTO PRIVADO. El testador que se encuentra en el caso de hacer testamento privado, redactará su testamento o lo declarará en presencia de tres testigos idóneos su última voluntad, que uno de ellos redactará por escrito, si el testador no puede escribir.
 
-No será necesario redactar por escrito el testamento, cuando ninguno de los testigos sepa escribir y en los casos de suma urgencia.
+En los casos de suma urgencia bastarán dos testigos idóneos.
 
-En los casos de suma urgencia bastarán tres testigos idóneos.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 684.
 
-SUPLENCIA DE REGLAS DEL TESTAMENTO PÚBLICO ABIERTO AL PRIVADO. Al otorgarse el testamento privado se observarán en su caso las disposiciones contenidas en los artículos del 646 segundo párrafo al 650 primer párrafo de este Código.
+SUPLENCIA DE REGLAS DEL TESTAMENTO PÚBLICO ABIERTO AL PRIVADO. Al otorgarse el testamento privado es indispensable que la voluntad del testador sea clara y terminante, sujetándose estrictamente a la voluntad del testador, firmando todos los testigos y el testador o en su caso plasmando las huellas digitales de los pulgares de ambas manos, anotando de forma clara el lugar del otorgamiento, la hora, el día el mes y año del otorgamiento.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 685.
 
-SUPUESTOS PARA QUE SURTA EFECTOS EL TESTAMENTO PRIVADO. El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba o dentro de un mes de desaparecida la causa que lo motivó a realizarlo.
+SUPUESTOS PARA QUE SURTA EFECTOS EL TESTAMENTO PRIVADO. El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o de la causa que puso en peligro la vida o dentro de un mes posterior a aquella que lo motivó a realizarlo.
 
 ###### ARTÍCULO 686.
 
@@ -5167,9 +5191,11 @@ EFECTOS JUDICIALES DE LAS DECLARACIONES TESTIMONIALES EN EL TESTAMENTO PRIVADO. 
 
 Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 689.
 
-MUERTE O AUSENCIA DE ALGUN TESTIGO. Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente capaces y contestes.
+MUERTE O AUSENCIA DE ALGÚN TESTIGO. Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de dos, manifiestamente capaces y contestes.
 
 Lo dispuesto en el párrafo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
 
@@ -6918,3 +6944,13 @@ TERCERA. Dentro de los noventa días hábiles siguientes a la entrada en vigor d
 CUARTA. Una vez que sea publicado el presente Decreto, se informe a la Cámara de Diputados del Congreso de la Unión, que el Congreso del Estado de Morelos, realizó la reforma necesaria a su Código Familiar para garantizar el derecho al cambio de nombre y documentos de identidad, a través de un procedimiento administrativo ante el Registro Civil, conforme a la identidad de género auto percibida, atendiendo al procedimiento idóneo propuesto por los resolutivos de la Suprema Corte de Justicia de la Nación, y en particular del amparo en revisión 1317/2017.
 
 QUINTA. Se derogan las disposiciones jurídicas de igual o menor grado que se opongan al presente decreto.
+
+P.O. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO CINCUENTA Y CUATRO POR EL CUAL SE REFORMAN LOS ARTÍCULOS 531, 627, 629, 642, 643, 654, 646, 647, 650, 682, 683, 684, 685 Y 689 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, en términos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente decreto.
