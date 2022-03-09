@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-12-2020-del-pleno-del-consejo-de-la-143196"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-12"
-last_updated: "2020-11-17"
+last_updated: "2022-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143196&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-06-08"
 
 ACUERDO GENERAL 12/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de junio de 2020.
 
@@ -433,7 +433,9 @@ II. “Enviar” a dichos intervinientes a “salas de espera” virtuales, util
 
 Los Tribunales Colegiados de Circuito y los Plenos de Circuito podrán celebrar sesiones utilizando la plataforma tecnológica que permita la celebración de videoconferencias, para lo cual deberán atender en lo que corresponda a lo previsto en el presente Acuerdo y en el Anexo Técnico. Con independencia del método de comunicación utilizado, en lo relativo a los lineamientos que regulan las sesiones resulta aplicable lo señalado en los Acuerdos Generales 16/2009 y 8/2015, salvo por lo que hace a la presencia física de sus participantes y del público, quienes participarán virtualmente en la sesión, de conformidad con lo dispuesto en el presente Acuerdo y su Anexo.
 
-En el caso de las audiencias y sesiones regidas por el principio de publicidad, se garantizará la posibilidad de que las partes en un primer momento y eventualmente el público en general, tengan acceso en la misma modalidad virtual, atendiendo al tipo de videoconferencia y de acuerdo con las reglas que se generen al respecto. Cuando por alguna razón no sea posible el acceso del público a las audiencias o sesiones por videoconferencia, se deberá garantizar su acceso a los registros de la misma desde la Biblioteca Virtual de Sesiones.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+
+En el caso de las audiencias y sesiones regidas por el principio de publicidad, se garantizará la posibilidad de que las partes y el público en general tengan acceso en las sesiones mediante su transmisión en vivo desde la plataforma que para tal efecto se habilite, de acuerdo con las reglas que se generen al respecto. Con independencia de lo anterior, cualquier persona tendrá acceso a los registros de la misma desde la Biblioteca Virtual de Sesiones.
 
 ###### Artículo 31.
 
@@ -1216,3 +1218,15 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
+
+D.O.F. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 10 de marzo de 2022 para los tribunales colegiados y el 1 de abril del mismo año para los Plenos de Circuito.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se instruye a las unidades administrativas competentes, emitir los lineamientos para incorporar el video y, en su caso, el acta respectiva a la Biblioteca Virtual de Sesiones.
+
+CUARTO. Las referencias hechas a los Plenos de Circuito, se entenderán formuladas a los Plenos Regionales, hasta en tanto entren en operación los segundos.
