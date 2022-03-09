@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2020-09-11"
+last_updated: "2022-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -495,9 +495,9 @@ IV. La persona Titular de la unidad encargada de obras públicas.
 
 El Reglamento Municipal, establecerá lo relativo a la organización y funcionamiento del Concejo Municipal de Transporte. Además, se contemplará la participación de particulares que presten el Servicio de Transporte Público en el territorio del Municipio con voz pero sin voto.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -533,9 +533,9 @@ Para los fines del artículo anterior, el Secretario tomará en cuenta los recur
 
 Los Ayuntamientos, podrán emitir opinión al Programa Estatal de Desarrollo del Transporte, en lo que respecta al ámbito territorial de su competencia, llevándose a cabo en el inicio del sexenio o en su revisión.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -747,9 +747,9 @@ Los permisos particulares que refiere este precepto, serán otorgados por la Dir
 
 Los funcionarios que contravengan lo establecido en el presente artículo, serán acreedores a las sanciones establecidas en el Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -1345,7 +1345,9 @@ II. Contar con Licencia de chofer expedida por la Dirección General de Transpor
 
 III. Tener 21 años cumplidos;
 
-IV. Aprobar la capacitación como operador del transporte público, con las condiciones y modalidades que señale el Reglamento de la presente Ley o en su caso determine la Secretaría;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2022)</small>
+
+IV. Aprobar la capacitación como operador del transporte público, igualdad de género, no discriminación y derechos humanos, con las condiciones y modalidades que señale el reglamento de la presente ley o en su caso determine la Secretaría;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1447,19 +1449,29 @@ La Secretaría, diseñará e instrumentará, a través de la Dirección General 
 
 Son facultades de la Dirección General de Transporte en materia de capacitación:
 
-I. Dar a conocer mediante convocatorias publicadas en los medios de comunicación, los cursos, conferencias y talleres sobre temas y materias relativas al transporte;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2022)</small>
+
+I. Dar a conocer mediante convocatorias publicadas en los medios de comunicación, los cursos, conferencias y talleres sobre temas y materias relativas al transporte, igualdad de género, no discriminación y derechos humanos;
 
 II. Ejecutar y dar seguimiento al Programa de Capacitación y Profesionalización del Operador del transporte público en cualquiera de sus modalidades;
 
-III. Practicar las evaluaciones correspondientes con el objeto de que los operadores del transporte público acrediten estar debidamente capacitados;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2022)</small>
+
+III. Practicar las evaluaciones correspondientes con el objeto de que los operadores del transporte público acrediten estar debidamente capacitados sobre temas y materias relativas al transporte, igualdad de género, no discriminación y derechos humanos;
 
 IV. Extender constancias a favor de quienes hayan aprobado los cursos de capacitación, y
 
-V. Coordinará con las Dependencias y Entidades correspondientes, el diseño e instrumentación de programas permanentes de seguridad en el transporte, educación vial y prevención de accidentes, que tengan como propósito fundamental crear en los habitantes del Estado, conciencia, hábitos y cultura de respeto a los ordenamientos legales en materia de transporte y vialidad.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2022)</small>
+
+V. Coordinar con las dependencias y entidades correspondientes, el diseño e instrumentación de programas permanentes de seguridad en el transporte, educación vial y prevención de accidentes, igualdad de género, no discriminación y derechos humanos, que tengan como propósito fundamental crear en los habitantes del estado, conciencia, hábitos y cultura de respeto a los ordenamientos legales en materia de transporte y vialidad.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### Artículo 90.
 
-Los operadores del transporte público, en cualquiera de sus modalidades, están obligados a acreditar la capacitación, para lo cual deberá aprobar cuando menos el curso básico y curso de actualización para operadores del transporte público, así como los demás cursos de actualización que al efecto señale la Dirección General de Transporte.
+Los operadores del transporte público, en cualquiera de sus modalidades, están obligados a acreditar la capacitación, para lo cual deberán aprobar cuando menos el curso básico y curso de actualización para operadores del transporte público, así como los demás cursos de actualización que al efecto señale la Dirección General de Transporte.
+
+Además, deberán acreditar que se encuentran capacitados en materia de igualdad de género, no discriminación y derechos humanos, conforme lo señale el reglamento respectivo.
 
 ###### Artículo 91.
 
@@ -2292,3 +2304,13 @@ SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERA.- En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al siguiente Decreto.
 
 CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO CUARENTA Y TRES.- POR EL QUE REFORMA Y ADICIONA LOS ARTÍCULOS 82, 89 Y 90 DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- (SIC) La Secretaría de Movilidad y Transporte, deberá adecuar sus reglamentos y demás ordenamientos jurídicos, dentro del término de noventa días naturales contados a partir de la publicación del presente decreto.
