@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2020-11-06"
+last_updated: "2022-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -57,7 +57,17 @@ Ambas sesiones podrán celebrarse de manera presencial o a través de videoconfe
 
 Cuando las sesiones se lleven a cabo por videoconferencia, el Presidente del Tribunal, deberá establecer las razones o causas que justifiquen y motiven la celebración de la sesión por este método, lo cual será asentado en el acta correspondiente.
 
-En el caso de las sesiones regidas por el principio de publicidad, se garantizará la posibilidad de que las partes en un primer momento y eventualmente el público en general, tengan acceso en la misma modalidad virtual, atendiendo al tipo de videoconferencia y de acuerdo con las reglas que se generen al respecto. Cuando por alguna razón no sea posible el acceso del público a las sesiones por videoconferencia, se deberá garantizar su acceso a los registros de la misma desde la Biblioteca Virtual de Sesiones.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+
+En el caso de las sesiones regidas por el principio de publicidad, se transmitirán en vivo por internet y posteriormente podrán ser consultadas desde la Biblioteca Virtual de Sesiones.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+
+Las sesiones que no pudieran ser transmitidas en vivo por internet por razones de fuerza mayor, caso fortuito o fallas técnicas, deberán encontrar justificación en un acuerdo del Tribunal debidamente fundado y motivado, que será remitido a la unidad de transparencia, cuyo titular determinará si fuese necesaria la reposición del video a fin de incorporarlo a la Biblioteca Virtual de Sesiones.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+
+Las sesiones en vivo podrán ser visualizadas en la página de internet que para tal efecto habilite el Consejo de la Judicatura Federal.
 
 ###### Artículo 2.
 
@@ -225,11 +235,11 @@ Finalizado el debate de los asuntos de todas las ponencias y sin otro tema que t
 
 La sala de sesiones de los tribunales colegiados de Circuito en la República contará con un equipo de grabación de audio y video. La unidad administrativa competente en materia informática, verificará su debido funcionamiento, para lo cual, implementará las acciones tendentes a capacitar al personal que el Pleno del tribunal designe, para operar el sistema de grabación.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
 
 ###### Artículo 18 Bis.
 
-La Dirección General de Tecnologías de la Información, será la encargada de brindar atención técnica y planeación de la logística operacional para el desarrollo de las videoconferencias, en el marco del Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo y su Anexo Técnico.
+La Dirección General de Tecnologías de la Información, será la encargada de brindar atención técnica y planeación de la logística operacional para el desarrollo de las videoconferencias, en el marco del Acuerdo General 12/2020, del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo y su Anexo Técnico, así como para la transmisión en vivo por internet de las sesiones.
 
 ###### Artículo 19.
 
@@ -243,7 +253,9 @@ El sistema de grabación, desde el punto de vista técnico, deberá ser instalad
 
 Se generará un archivo digital por cada sesión videograbada, el cual será guardado en un dispositivo de almacenamiento de datos.
 
-Las sesiones de los Tribunales Colegiados de Circuito que hayan sido videograbadas, se incorporarán a una biblioteca virtual que estará a disposición del público en general; en aquellos casos en que excepcionalmente se hubiere elaborado la versión estenográfica de la sesión pública, dicho archivo deberá ser incorporado a la biblioteca virtual.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+
+Las sesiones de los Tribunales Colegiados de Circuito que hayan sido videograbadas, se incorporarán a una biblioteca virtual que estará a disposición del público en general; en aquellos casos en que no sea factible incorporar la videograbación, se deberá integrar el acta de la sesión a la biblioteca virtual, lo que deberá encontrar justificación en un acuerdo del Tribunal debidamente fundado y motivado, el cual deberá ser remitido a la Unidad de Transparencia, cuyo titular determinará lo conducente.
 
 Previo a remitir el video o acta respectiva para ser integrada a la Biblioteca Virtual de Sesiones, el Secretario de Acuerdos corroborará que en su contenido se encuentre garantizada la protección de datos personales, por lo que en caso de advertir la mención de alguno, deberá proceder a su supresión.
 
@@ -267,9 +279,9 @@ El dispositivo de almacenamiento de datos en donde se guarde el archivo digital 
 
 El servidor público que haga uso indebido de los archivos digitales de las videograbaciones, será sancionado administrativamente en términos de la Ley Orgánica del Poder Judicial de la Federación.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
 
-La unidad administrativa competente en materia informática emitirá los lineamientos para remitir la copia del aludido archivo digital, la cual deberá incorporarse a la Biblioteca Virtual de Sesiones.
+La unidad administrativa competente en materia informática emitirá los lineamientos para incorporar el video y, en su caso, el acta respectiva a la Biblioteca Virtual de Sesiones.
 
 ###### Artículo 24.
 
@@ -404,3 +416,15 @@ D.O.F. 6 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 10 de marzo de 2022 para los tribunales colegiados y el 1 de abril del mismo año para los Plenos de Circuito.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se instruye a las unidades administrativas competentes, emitir los lineamientos para incorporar el video y, en su caso, el acta respectiva a la Biblioteca Virtual de Sesiones.
+
+CUARTO. Las referencias hechas a los Plenos de Circuito, se entenderán formuladas a los Plenos Regionales, hasta en tanto entren en operación los segundos.
