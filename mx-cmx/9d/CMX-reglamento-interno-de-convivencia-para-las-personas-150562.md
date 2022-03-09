@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-150562"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-08-10"
-last_updated: "2021-09-28"
+last_updated: "2022-03-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150562&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-07-30"
 
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES) DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2022.
 
 Reglamento publicado en el Número 658 de la Gaceta Oficial de la Ciudad de México, el martes 10 de agosto de 2021.
 
@@ -40,21 +40,21 @@ AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS 
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2022)</small>
 
 ###### Artículo 1.
 
 El presente Reglamento Interno de Convivencia es de observancia obligatoria para todas las personas residentes y las personas servidoras públicas que desempeñan sus labores en el CAIS Coruña Jóvenes y tiene por objeto:
 
-a).- Garantizar el derecho de los niños y adolescentes hombres en situación de desamparo que se encuentran en acogimiento de corto o largo plazo en el CAIS Coruña Jóvenes.
+a).- Garantizar el derecho de Niñas, Niños y Adolescentes en situación de calle y abandono que se encuentran en acogimiento de corto o largo plazo en el CAIS Coruña Jóvenes.
 
-b).- Regular el comportamiento de los niños y adolescentes hombres residentes que reciben acogimiento de corto o largo plazo en el CAIS Coruña Jóvenes.
+b).- Regular el comportamiento de Niñas, Niños y Adolescentes residentes que reciben acogimiento de corto o largo plazo en el CAIS Coruña Jóvenes.
 
-> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2022)</small>
 
 ###### Artículo 2.
 
-El CAIS Coruña Jóvenes atiende a niños y adolescentes hombres de 6 años hasta 17 años 11 meses en situación de calle, abandono, sin antecedente de consumo de sustancias psicoactivas, sin patologías psiquiátricas, cognitivas o físicas.
+El CAIS Coruña Jóvenes atiende a Niñas, Niños y Adolescentes de entre los 3 años hasta los 17 años 11 meses, en situación de calle y abandono.
 
 ### CAPÍTULO II. Definiciones
 
@@ -545,3 +545,19 @@ TERCERO.- Las referencias realizadas a las “… niñas, niños y adolescentes 
 CUARTO.- A partir de la entrada en vigor del presente Aviso, las niñas y adolescentes mujeres beneficiarias de los servicios sociales que proporciona el Centro de Asistencia e Integración Social (CAIS Coruña Jóvenes) y las que requieran servicio de estancia, serán canalizadas a las instituciones públicas o privadas con atención especializada a Niños, Niñas y Adolescentes, para continuar recibiendo de forma gratuita los servicios sociales que permitan el fortalecimiento de su cuidado dentro del marco de la Ley de Cuidados Alternativos para Niñas, Niños y Adolescentes en el Distrito Federal, por lo que se deberán coordinar las acciones y/o gestiones institucionales necesarias, con la finalidad de privilegiar el interés superior de las niñas y adolescentes mujeres en todo momento.
 
 QUINTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso, será resuelto por la Coordinación General de Inclusión Social de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
+
+G.O. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES AL DIVERSO DEL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 28 DE SEPTIEMBRE DE 2021".]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su difusión y conocimiento.
+
+SEGUNDO.- El presente aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las referencias realizadas a "…niños y adolescentes hombres…" dentro del Reglamento Interno de Convivencia para las Personas Residentes y Personas Servidoras Públicas del Centro de Asistencia e Integración Social (CAIS Coruña Jóvenes), se entenderán hechas en todos los preceptos, supuestos y menciones que lo integran a las "…Niñas, Niños y Adolescentes… ", sin necesidad de aclaración posterior, quedando vigentes las disposiciones que regulan al Centro de Asistencia e Integración Social (CAIS Coruña Jóvenes), publicadas en la Gaceta Oficial de la Ciudad de México, el 10 de agosto de 2021, sin modificar la forma de operación establecida en dicho cuerpo normativo.
+
+CUARTO.- Para el caso de que se presenten casos excepcionales de atención con relación a la población objetivo y que se encuentren fuera de los rangos de edad comprendidos en el Reglamento Interno, el Consejo Técnico del Centro de Asistencia e Integración Social, (CAIS Coruña Jóvenes), deberá justificar y determinar a través de recomendaciones, las acciones a implementar, el tipo de atención permanente o semipermanente, así como la forma de proporcionar los servicios asistenciales, tomando en cuenta para ello el plan de vida elaborado.
+
+QUINTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso, será resuelto por la Coordinación General de Inclusión Social de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
+
+SEXTO.- A partir de la entrada en vigor del presente Aviso, los servicios sociales que otorga el Centro de Asistencia e Integración Social (CAIS Coruña Jóvenes), serán proporcionados en Calle Sur 65 A, número 3246, Colonia Viaducto Piedad, C.P. 08200, Alcaldía Iztacalco, en la Ciudad de México.
