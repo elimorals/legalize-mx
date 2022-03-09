@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2021-10-06"
+last_updated: "2022-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -579,7 +579,7 @@ Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que in
 
 I.- Designar a los Titulares de las Dependencias de la Administración Pública Municipal, así como a la Titular de la Dirección de la Instancia de la Mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente; en ambos casos las designaciones tendrán que ajustarse al principio de paridad, en una proporción que no exceda el cincuenta por ciento para un mismo género. Por lo que respecta al Contralor Municipal, dicho nombramiento se sujetará a la ratificación de las dos terceras partes del Cabildo. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del estado de Morelos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE MARZO DE 2022)</small>
 
 II.- El número y denominación de las Comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
@@ -679,6 +679,10 @@ w) Ciencia, Tecnología e Innovación; y,
 
 x) Participación Ciudadana.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2022)</small>
+
+y) Atención a personas con discapacidad,
+
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 Las comisiones que se designen a los miembros del Ayuntamiento serán irrenunciables, salvo causa grave justificada así calificada por la mayoría absoluta de los integrantes del Cabildo.
@@ -722,6 +726,10 @@ Todos los Ayuntamientos deberán de crear la Dirección denominada Instancia Mun
 Así también, desde el inicio de sus funciones constitucionales, los Ayuntamientos, deberán crear una Instancia Municipal de la Juventud, la cual estará encargada de abrir un espacio físico para la atención, foros, iniciativas y actividades encaminadas a políticas públicas a favor de los jóvenes del municipio y cuya titularidad deberá ser encomendada a un joven.
 
 Para el pleno desarrollo de sus funciones ambas instancias deberán contar con la suficiencia presupuestal necesaria para dicho fin.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2022)</small>
+
+Artículo 24 ter.- Los ayuntamientos deberán crear una instancia de atención a las personas con discapacidad, la que tendrá la obligación de implementar las políticas públicas, programas y acciones para este sector social, en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas con alguna condición de discapacidad como una medida de inclusión en los ayuntamientos.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -905,11 +913,11 @@ En el último año de la gestión administrativa del Ayuntamiento, el informe se
 
 Para lo no previsto en la presente Ley sobre el funcionamiento de los Ayuntamientos, se estará a lo que dispongan su Bando de Policía y Gobierno y sus Reglamentos Municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### Artículo 38.
 
-Los AYUNTAMIENTOS tienen a su cargo el gobierno de sus respectivos municipios, por lo cual están facultados para:
+Los ayuntamientos tienen a su cargo el gobierno de sus respectivos municipios, por lo cual están facultados para:
 
 I. Ejercer el derecho de iniciar Leyes y decretos ante el Congreso, en los términos de la fracción IV del Artículo 42 de la Constitución Política local;
 
@@ -1104,6 +1112,10 @@ LXVIII. Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2015)</small>
 
 LXX (SIC). Resolver en relación a la admisión y trámite de Iniciativas Populares Administrativas conforme a lo establecido en la Sección Segunda, del Capítulo III, de la Ley de Participación Ciudadana del Estado de Morelos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2022)</small>
+
+LXXI. Promover los derechos humanos y diseñar e implementar políticas públicas, acciones y programas para la población de personas con discapacidad, con el objetivo de promover a su favor la Igualdad y prevenir discriminación en su contra.
 
 ###### Artículo 39.
 
@@ -1713,11 +1725,11 @@ k).- Un Cronista Municipal podrá ser removido del Concejo cuando incurra en vio
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
 
 ###### Artículo 75.
 
-Cada municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una secretaría del ayuntamiento, una tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos éstos, asimismo, garantizará el control y resguardo del archivo documental laboral y del padrón de servidores públicos tanto del ayuntamiento como de los organismos públicos descentralizados municipales, así como de los pensionistas; materiales y técnicos del municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios, otra de la seguridad pública y tránsito municipal, un cronista municipal, una Dirección de la Instancia Municipal de la Mujer cuando menos una Oficialia del Registro Civil y una Contraloría Municipal.
+Cada municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento; una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos estos, asimismo, garantizará el control, y resguardo del archivo documental laboral y del padrón de servidores públicos y pensionistas; materiales y técnicos del municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la protección ambiental y desarrollo sustentable, una dependencia encargada de la ejecución de la administración de obras públicas, de atención de asuntos migratorios y religiosos, otra de seguridad pública, tránsito municipal, un concejo de cronistas municipal, un (sic) área de información pública y protección de datos personales, una Dirección de la Instancia de la Mujer; cuando menos una Oficialia del Registro Civil, una Contraloría Municipal y una Dirección de la Instancia de Atención a Personas con Discapacidad.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -4430,3 +4442,13 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su aprobaci
 TERCERO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 CUARTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 9 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO CINCUENTA Y TRES POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE DERECHO DE IGUALDAD Y NO DISCRIMINACIÓN".]
+
+PRIMERA.- Remítase el presente al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto iniciará su vigencia el uno de enero de dos mil veintidós
+
+TERCERA.- Se derogan todas aquellas disposiciones de igual o menor jerarquía jurídica que se oponga (sic) al presente decreto.
