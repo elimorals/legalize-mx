@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-centro-cultural-y-de-convenciones-130381
 country: "mx"
 rank: "codigo"
 publication_date: "2018-04-01"
-last_updated: "2018-04-01"
+last_updated: "2022-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DEL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE MARZO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2022 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 1 de abril de 2018.
 
@@ -720,3 +722,17 @@ Dado en la Ciudad de Durango, Dgo, a los 15 días del mes de Enero de dos mil di
 LA DIRECCIÓN GENERAL
 
 LIC. PSIC. JOSEFINA LÓPEZ OLOÑO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL CENTRO CULTURAL Y DE CONVENCIONES DEL ESTADO DE DURANGO.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta del Centro Cultural y de Convenciones del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango el día 1 de abril del 2018 No.26
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet del Centro Cultural y de Convenciones del Estado de Durango.
+
+CUARTO.- El presente Código de Conducta fue aprobado por unanimidad de votos en la Segunda Sesión Ordinaria N.° 08-01/2021.- de los integrantes del Consejo Directivo del Centro Cultural y de Convenciones del Estado efectuada el día 29 de Septiembre del 2021.
