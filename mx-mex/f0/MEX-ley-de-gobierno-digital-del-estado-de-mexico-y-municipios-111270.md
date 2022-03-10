@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-gobierno-digital-del-estado-de-mexico-y-municipios-11127
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2020-09-29"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -111,6 +111,10 @@ II. Autenticidad: a la certeza que un documento digital electrónico determinado
 
 III. Autoridad Certificadora: a la dependencia facultada para la emisión, administración y registro de certificados digitales.
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+III Bis. Carnet Jurídico: Al establecido en la fracción IV Bis del artículo 4 de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios;
+
 IV. CEMER: a la Comisión Estatal de Mejora Regulatoria.
 
 V. Consejo: al Consejo Estatal de Gobierno Digital.
@@ -129,11 +133,13 @@ IX Bis. Dictamen Técnico: al documento emitido por la autoridad competente, que
 
 X. Documento electrónico: al soporte escrito con caracteres alfanuméricos, archivo de imagen, video, audio o cualquier otro formato tecnológicamente disponible, que contenga información en lenguaje natural o convencional, intercambiado por medios electrónicos, con el que sea posible dar constancia de un hecho y que esté signado con la firma electrónica avanzada y/o en el que se encuentre plasmado el sello electrónico.
 
-XI. Expediente digital: al conjunto de documentos electrónicos que, sujetos a los requisitos de esta ley, se utilicen en la gestión electrónica de trámites, servicios, procesos y procedimientos administrativos y jurisdiccionales.
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XI. Expediente Digital: Al conjunto de documentos electrónicos utilizados para la gestión de procesos y procedimientos administrativos y jurisdiccionales;
 
-XI Bis. Firma Electrónica: a la emitida por la Unidad Certificadora conformada por el al (sic) conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos y que produce los mismos efectos jurídicos que la firma autógrafa.
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XI Bis. Expediente para Trámites y Servicios: Al establecido en la fracción XV Bis del artículo 4 de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios;
 
 XII. Firma Electrónica Avanzada: al conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de estos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
 
@@ -143,7 +149,9 @@ XII Bis. Firma Electrónica Notarial: al certificado digital de Firma Electróni
 
 XIII. Gobierno Digital: a las políticas, acciones, planeación, organización, aplicación y evaluación de las tecnologías de la información para la gestión pública entre los sujetos de la presente Ley, con la finalidad de mejorar los trámites y servicios para facilitar el acceso de las personas a la información así como hacer más eficiente la gestión gubernamental para un mejor gobierno.
 
-XIV. Identidad electrónica: al conjunto de datos con los cuales los sujetos de la presente Ley, se han identificado con carácter legal como únicos ante la Dirección al inscribirse en el Registro Único de Personas Acreditadas en el Estado de México.
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XIV. Identidad Electrónica: Al conjunto de datos con los cuales los sujetos de la presente Ley, así como las personas físicas y jurídicas colectivas, se han inscrito e identificado con carácter legal en el Registro Único de Personas Acreditadas en el Estado de México;
 
 XV. Ley: a la Ley de Gobierno Digital del Estado de México y Municipios.
 
@@ -158,6 +166,10 @@ XIX. No repudio: al servicio de seguridad por el que es posible probar la partic
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 XX. Personas: las personas físicas o jurídicas colectivas que decidan utilizar los medios electrónicos ante los sujetos de la Ley.
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XX Bis. Persona Acreditada: A las personas físicas, jurídicas colectivas, notarios públicos o personas servidoras públicas inscritas en el Registro Único de Personas Acreditadas en el Estado de México;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -359,9 +371,9 @@ La organización y funcionamiento de los Comités Internos deberá apegarse a lo
 
 La Dirección tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
 
-I. Almacenar y custodiar por cinco años en el repositorio los documentos y datos otorgados por las personas físicas y/o jurídicas colectivas a través de los portales que se establezcan por parte de los sujetos de la presente Ley, conforme a lo establecido en la Ley de Protección de Datos Personales del Estado de México.
+I. Almacenar y custodiar por cinco años en el repositorio del SEITS los documentos y datos otorgados por las Personas Acreditadas a través de los portales que se establezcan por parte de los sujetos de la presente Ley, conforme a lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios.
 
 II. Implementar, operar, administrar, mantener y actualizar el RUPAEMEX, aplicando las políticas establecidas en la presente Ley, así como las disposiciones reglamentarias que surjan de esta.
 
@@ -370,6 +382,10 @@ II. Implementar, operar, administrar, mantener y actualizar el RUPAEMEX, aplican
 III. Formular el proyecto de estándares de tecnologías de la información y comunicación y someterlo a consideración del Consejo.
 
 IV. Otorgar el CUTS a las personas que soliciten su inscripción en el RUPAEMEX.
+
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
+
+IV Bis. Coadyuvar con la CEMER en el diseño e implementación del Expediente para Trámites y Servicios.
 
 V. Planear, operar, administrar y proporcionar el soporte técnico del SEITS, aplicando las políticas establecidas en la presente Ley y en los ordenamientos jurídicos aplicables en la materia.
 
@@ -615,13 +631,11 @@ Para la transformación de los portales informativos a portales transaccionales,
 
 ### CAPÍTULO QUINTO. DEL REGISTRO ÚNICO DE PERSONAS ACREDITADAS EN EL ESTADO DE MÉXICO
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
 
 ###### Artículo 26.
 
-El RUPAEMEX es la base de datos que se conforma con los documentos e información otorgados por las personas físicas y jurídicas colectivas, para efecto de realizar trámites y solicitar servicios en línea.
-
-El Reglamento de la presente Ley deberá establecer los requisitos para que las personas físicas y jurídicas colectivas se inscriban en el RUPAEMEX.
+El RUPAEMEX es la base de datos que se conforma con la información entregada de personas físicas, jurídicas colectivas, notarios y servidores públicos en ejercicio de sus funciones, para efecto de realizar trámites y solicitar servicios en línea.
 
 ###### Artículo 27.
 
@@ -643,11 +657,11 @@ El Reglamento de la presente Ley establecerá las bases para la administración 
 
 ###### Artículo 29.
 
-Cuando alguno de los documentos otorgados por los usuarios del RUPAEMEX no estén vigentes, se le enviará al peticionario una notificación electrónica por parte del sujeto de la Ley que requiera dichos documentos de manera electrónica para que dentro del plazo de tres días hábiles entregue vía electrónica el documento solicitado.
+(DEROGADO, G.G. 10 DE MARZO DE 2022)
 
 ###### Artículo 30.
 
-Es obligación de los usuarios registrados mantener actualizada la información y documentación comprendida en el RUPAEMEX.
+(DEROGADO, G.G. 10 DE MARZO DE 2022)
 
 ### CAPÍTULO SEXTO. DEL SISTEMA ELECTRÓNICO DE INFORMACIÓN, TRÁMITES Y SERVICIOS
 
@@ -685,17 +699,23 @@ El Sistema de Gestión de Trámites y Servicios en Línea del Estado de México 
 
 La implementación del Sistema de Gestión de Trámites y Servicios en Línea del Estado de México no excluye la posibilidad de la realización de trámites y servicios de manera presencial por las personas físicas y/o jurídicas colectivas.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
 
 ###### Artículo 35.
 
-Para hacer uso del Sistema de Gestión de Trámites y Servicios en Línea del Estado de México, las personas físicas y/o jurídicas colectivas necesitaran estar inscritos en el RUPAEMEX, así como ser propietarios de una CUTS y de una Firma Electrónica Avanzada.
+Para hacer uso del Sistema de Gestión de Trámites y Servicios en Línea del Estado de México, las Personas Acreditadas deberán estar inscritos en el RUPAEMEX.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+Para el caso de personas físicas, será necesario tener Carnet Jurídico y/o CUTS.
+
+Las personas jurídicas colectivas, notarios y servidores públicos en ejercicio de sus funciones necesitarán CUTS y Firma Electrónica Avanzada.
+
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
 
 ###### Artículo 36.
 
-Para la gestión de trámites y servicios que realicen en línea de principio a fin, las personas físicas y/o jurídicas colectivas deberán acreditar su personalidad jurídica con su Firma Electrónica Avanzada y su identidad electrónica con su CUTS respectiva.
+Para la gestión de trámites y servicios que realicen en línea de principio a fin, las personas físicas deberán acreditar su Identidad Electrónica con su CUTS y/o Carnet Jurídico.
+
+Las personas jurídicas colectivas, notarios y servidores públicos en ejercicio de sus funciones, deberán acreditar su personalidad jurídica con su Firma Electrónica Avanzada, y su Identidad electrónica con su CUTS y/o Carnet Jurídico.
 
 El Reglamento de la presente Ley establecerá las bases para atender la gestión de trámites y servicios en ventanilla, a través de la utilización del SEITS.
 
@@ -760,6 +780,10 @@ I. Desarrollar acciones y gestiones dirigidas a implementar en su funcionamiento
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 II. Incorporar en el SETS (sic); los trámites y servicios digitales que sean de nueva creación.
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+II Bis. Implementar el Expediente para Trámites y Servicios a que hace referencia la Ley para la Mejora Regulatoria del Estado de México y sus Municipios;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -853,7 +877,9 @@ II. Establecer de acuerdo con la Agenda Digital, la política municipal para el 
 
 III. Fomentar la celebración de convenios de coordinación, colaboración y concertación, según corresponda, con la Federación, los Estados y municipios así como los sectores social y privado en materia de uso y aprovechamiento estratégico de las tecnologías de la información y comunicación.
 
-IV. Implementar el Gobierno Digital en la prestación de los trámites y servicios que la Administración Pública Municipal ofrece a las personas.
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
+
+IV. Implementar el Gobierno Digital y el uso del Expediente para Trámites y Servicios para hacer eficiente la prestación de los trámites y servicios que la Administración Pública Municipal ofrece a las personas;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1169,9 +1195,11 @@ El tratamiento de los documentos firmados electrónicamente estará a lo dispues
 
 El estrado electrónico es la herramienta tecnológica instrumentada en el SEITS, que permite a las personas acreditadas dar seguimiento a sus promociones, para conocimiento público, notificación, citación o emplazamiento.
 
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
+
 ###### Artículo 76.
 
-El expediente digital es la conservación de documentos electrónicos, que se realizará conforme a los requisitos técnicos y jurídicos que la Dirección determine y que haga del conocimiento a los sujetos de la presente Ley, o cualquier otra norma vigente que prevalezca durante su uso.
+El Expediente digital es la conservación de documentos electrónicos derivados de los procesos o procedimientos administrativos y jurisdiccionales realizados por autoridades, que se realizará conforme a los requisitos técnicos previstos en la Ley o cualquier otra norma vigente.
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LAS RESPONSABILIDADES
 
@@ -1570,3 +1598,23 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 33.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1.5 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 33; Y SE ADICIONAN LAS FRACCIONES IV BIS, XV BIS, XX BIS Y XXIII BIS AL ARTÍCULO 4, LAS FRACCIONES IV Y V AL ARTÍCULO 33, EL CAPÍTULO SÉPTIMO Y SUS ARTÍCULOS 59 BIS, 59 TER, 59 QUÁTER, 59 QUINQUIES, 59 SEXTIES, 59 SEPTIES, 59 OCTIES, 59 NONIES Y 59 DECIES AL TÍTULO TERCERO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, SE REFORMAN LAS FRACCIONES XI, XI BIS Y XIV DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 11 , LOS ARTÍCULOS 26, 35 Y 36, LA FRACCIÓN IV DEL ARTÍCULO 45 Y EL ARTÍCULO 76; SE ADICIONAN LAS FRACCIONES III BIS, Y XX BIS Al ARTÍCULO 5, LA FRACCIÓN IV BIS AL ARTÍCULO 11 , LA FRACCIÓN II BIS Al ARTÍCULO 44; Y SE DEROGAN LOS ARTÍCULOS 29 Y 30 DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 5 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, las autoridades del Estado contarán con un plazo que no podrá exceder de cinco años para la ejecución de las acciones tecnológicas necesarias para la implementación del Expediente para Trámites y Servicios y del Carnet Jurídico.
+
+CUARTO. La Dirección General del Sistema Estatal de Informática, a partir de la entrada en vigor de las presentes reformas, deberá coordinarse con la Comisión Estatal de Mejora Regulatoria para iniciar con el desarrollo, actualización o, en su caso, implementación de las plataformas tecnológicas que hagan posible la interoperabilidad, funcionamiento y consulta del Registro Estatal para Trámites y Servicios, el Expediente para Trámites y Servicios, el Sistema de Gestión de Trámites y Servicios en Línea y el uso del Carnet Jurídico en términos de lo dispuesto por el presente Decreto.
+
+QUINTO. El Ejecutivo Estatal emitirá las disposiciones reglamentarias correspondientes en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SEXTO. El presente Decreto, no genera gasto adicional al Presupuesto del Poder Ejecutivo, por lo cual las Dependencias encargadas de la implementación de la presente Ley, realizarán las adecuaciones presupuestales correspondientes.
+
+SÉPTIMO. La Comisión Estatal de Mejora Regulatoria emitirá el manual de funcionamiento del Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+OCTAVO. La Dirección General del Sistema Estatal de Informática emitirá los Lineamientos correspondientes al mantenimiento, almacenamiento, manejo y resguardo de la información y documentación contenida en el Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
