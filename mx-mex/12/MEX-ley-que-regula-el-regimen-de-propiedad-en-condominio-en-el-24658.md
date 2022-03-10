@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-regimen-de-propiedad-en-condominio-en-el-2465
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-11"
-last_updated: "2016-12-20"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE MARZO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno, el 11 de abril de 2002.
 
@@ -37,9 +37,7 @@ LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
 
-LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN
-
-CONDOMINIO EN EL ESTADO DE MEXICO
+LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -73,11 +71,11 @@ IX. Residente: persona que en calidad de poseedor por cualquier título legal, a
 
 X. Reglamento Interior del Condominio: conjunto de acuerdos de observancia obligatoria por los condóminos y residentes, en los que se establecen las normas internas de convivencia de un condominio. Es aprobado por la asamblea y se hará constar en testimonio notarial.
 
-> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
 
 ###### Artículo 3.
 
-Son autoridades competentes para la aplicación de la presente Ley, los ayuntamientos, el Poder Judicial del Estado de México y las demás que señale el presente ordenamiento.
+Son autoridades competentes para la aplicación de la presente Ley, los ayuntamientos, el Poder Judicial del Estado de México, la Secretaría de Justicia y Derechos Humanos y las demás que señale el presente ordenamiento.
 
 ### CAPITULO SEGUNDO. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -215,9 +213,13 @@ V. Solicitar a la administración y a la mesa directiva información respecto al
 
 VI. Acudir ante las mesas de arbitraje a efecto de excusarse del pago de cuotas, cuando éstas no sean fijadas en asamblea por mayoría de los condóminos o se demuestre que resultan excesivas para el fin que se pretenden destinar;
 
-> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
 
-VII. Acudir a las mesas de arbitraje a solicitar su intervención por violaciones a la presente Ley, o al Reglamento Interior del Condominio, por autoridades o particulares.
+VII. Acudir a las mesas de arbitraje o a la mediación y conciliación, según sea el caso, para solicitar su intervención por violaciones a la presente Ley, o al Reglamento Interior del Condominio, por autoridades o particulares, y
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+VIII. Recibir asesoría gratuita, orientación, información y asistencia inclusiva, considerando las condiciones sociales de los habitantes, por parte de las autoridades estatales y municipales en materia del régimen de propiedad en condominio, gestión social, atención condominal y lo relacionado con éstas en materia administrativa y de resolución de conflictos.
 
 ###### Artículo 17.
 
@@ -400,6 +402,10 @@ Cuando el pago de las cuotas o aportaciones se divida en mensualidades éstas ha
 Las primeras aportaciones para la constitución de ambos fondos, serán determinadas en la escritura constitutiva del condominio. El fondo de reserva en tanto no se use deberá invertirse en valores de renta fija redimibles a la vista. El fondo destinado al mantenimiento y administración será bastante para contar anticipadamente con el numerario que cubra los gastos de tres meses.
 
 Las decisiones respecto a asuntos de convivencia cotidiana, serán facultad de la asamblea, incluyendo las modificaciones a la propiedad condominal, excluyendo los cambios de uso del suelo, de densidad e intensidad de su aprovechamiento y de altura máxima permitida.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+La Secretaría de Justicia y Derechos Humanos, en el ámbito de su competencia, brindará asesoría jurídica sobre las decisiones facultad de la asamblea previstas en el párrafo anterior.
 
 ###### Artículo 31.
 
@@ -591,7 +597,9 @@ El arbitraje tendrá como característica ser un procedimiento para la resoluci�
 
 Podrán iniciar el procedimiento de arbitraje los condóminos o residentes de los condominios o los administradores en términos de la presente ley, así como las mesas directivas, previo acuerdo de la Asamblea, en los casos de incumplimiento de los administradores y por el manejo indebido de los recursos que integran los fondos de mantenimiento y administración y de reserva.
 
-Para iniciar el procedimiento arbitral ya sea el administrador, la mesa directiva o cualquier persona, deberán presentar ante las mesas arbitrales de la demarcación territorial en que se ubique el condominio, un escrito, que será denominado demanda de arbitraje, en el que explique las causas de controversia, mismo que deberá ir acompañado de copia del acta de asamblea en la que se toma tal acuerdo, copia simple de los documentos que acrediten su personalidad y la descripción de los hechos.
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
+
+Para iniciar el procedimiento arbitral ya sea el administrador, la mesa directiva o cualquier persona, deberán presentar ante las mesas arbitrales de la demarcación territorial en que se ubique el condominio, un escrito, que será denominado demanda de arbitraje, en el que explique las causas de controversia, adjuntando copia simple de los documentos que acrediten su personalidad y la descripción de los hechos.
 
 ###### Artículo 54.
 
@@ -621,19 +629,21 @@ III. Acuerdo de las partes mediante convenio ajustado a la legislación civil vi
 
 IV.- Convenio celebrado vía mediación Judicial, o ante las Mesas Calificadoras y Conciliadoras Municipales.
 
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
+
 ###### Artículo 58.
 
-Terminada la instrucción del procedimiento, la mesa de arbitraje dictará el laudo que resuelva la controversia. En caso de que alguna de las partes o ambas consideren que el laudo no es claro en alguno de sus contenidos, solicitarán a la mesa, dentro de los tres días siguientes de la notificación, se aclare o corrija. La interpretación que emita la mesa de arbitraje formará parte del laudo.
+Terminada la instrucción del procedimiento, la Sindicatura Municipal dictará el laudo que resuelva la controversia en un plazo no mayor a quince días hábiles. En caso de que alguna de las partes o ambas consideren que el laudo no es claro en alguno de sus contenidos, solicitarán a la sindicatura, dentro de los tres días siguientes de la notificación, se aclare o corrija. La interpretación que emita la Sindicatura Municipal formará parte del laudo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO TERCERO. DE LA MEDIACION Y CONCILIACION
 
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
 
 ###### Artículo 59.
 
-El Síndico Municipal hasta antes de emitir sus laudos, podrá remitir a las partes al centro de mediación y conciliación del poder judicial del estado, previo el consentimiento de éstas que conste de manera fehaciente.
+El Síndico Municipal, desde que tenga conocimiento de los hechos y hasta antes de emitir sus laudos, deberá informar a las partes la posibilidad de acceder a la solución de su controversia a través de los procesos de mediación y conciliación y, en caso de que éstas decidan someterse a dichos mecanismos las remitirán a la Secretaría de Justicia y Derechos Humanos o al Centro de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado de México, previo el consentimiento de éstas que conste de manera fehaciente.
 
 > <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
 
@@ -646,6 +656,14 @@ La mediación o conciliación tienen el carácter de voluntaria y suspenden el p
 ###### Artículo 61.
 
 Los convenios suscritos en vía de mediación o conciliación, gozarán de las características que la misma ley les envista.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 62.
+
+En los procedimientos de mediación y conciliación, en los que las partes acudan directamente a la Secretaría de Justicia y Derechos Humanos o el Centro de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado de México y no llegaren a un acuerdo, la Secretaría de Justicia y Derechos Humanos o el Centro de Mediación, Conciliación y Justicia Restaurativa del Poder Judicial del Estado de México, dejará a salvo los derechos de los particulares para que acudan al procedimiento de arbitraje a que hace referencia la presente Ley, o bien, ante la instancia administrativa o jurisdiccional que convenga a sus intereses.
+
+Para iniciar el procedimiento arbitral ya sea el administrador, la mesa directiva o cualquier persona, deberán presentar ante las mesas arbitrales de la demarcación territorial en que se ubique el condominio, un escrito, que será denominado demanda de arbitraje, en el que explique las causas de controversia, adjuntando copia simple de los documentos que acrediten su personalidad y la descripción de los hechos.
 
 ## TRANSITORIOS
 
@@ -732,3 +750,17 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 32.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO, SE REFORMA EL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 53, LOS ARTÍCULOS 58 Y 59, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 16, UN SÉPTIMO PÁRRAFO AL ARTÍCULO 30 Y EL ARTÍCULO 62 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO, SE EXPIDE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO, SE REFORMAN LOS INCISOS B) Y C), Y SE ADICIONA EL INCISO K), TODOS DE LA FRACCIÓN I DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno”.
+
+TERCERO. El Ejecutivo Estatal a través de la Secretaría de Justicia y Derechos Humanos, deberá diseñar un programa para coordinarse con el Poder Judicial y, en su caso, con los municipios, a fin de promover la cultura de la paz, la solución amigable de conflictos y procedimientos de autocomposición en las relaciones entre vecinos y condóminos.
+
+Asimismo, deberá generar un plan estratégico de capacitación y orientación en mecanismos de autorregulación con las agrupaciones, asociaciones u organizaciones de colonos.
+
+CUARTO. El presente Decreto, no genera gasto adicional al Presupuesto autorizado, por lo cual las instancias encargadas de la implementación del Decreto realizarán las adecuaciones presupuestales correspondientes.
