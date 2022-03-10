@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2021-01-26"
+last_updated: "2022-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -2067,6 +2067,10 @@ X. Definir, unificar y difundir los criterios para la interpretación de las dis
 
 XI. Asesorar jurídicamente y orientar, cuando así lo requieran, a las dependencias y organismos auxiliares de la Administración Pública del Estado, así como a las autoridades municipales;
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XI Bis. Llevar a cabo la Mediación y Conciliación vecinal en la atención y resolución de conflictos cotidianos entre particulares;
+
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XII. Someter a la consideración del Gobernador el otorgamiento de nombramientos de notario;
@@ -4020,3 +4024,17 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 32.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO, SE REFORMA EL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 53, LOS ARTÍCULOS 58 Y 59, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 16, UN SÉPTIMO PÁRRAFO AL ARTÍCULO 30 Y EL ARTÍCULO 62 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO, SE EXPIDE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO, SE REFORMAN LOS INCISOS B) Y C), Y SE ADICIONA EL INCISO K), TODOS DE LA FRACCIÓN I DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+TERCERO. El Ejecutivo Estatal a través de la Secretaría de Justicia y Derechos Humanos, deberá diseñar un programa para coordinarse con el Poder Judicial y, en su caso, con los municipios, a fin de promover la cultura de la paz, la solución amigable de conflictos y procedimientos de autocomposición en las relaciones entre vecinos y condóminos.
+
+Asimismo, deberá generar un plan estratégico de capacitación y orientación en mecanismos de autorregulación con las agrupaciones, asociaciones u organizaciones de colonos.
+
+CUARTO. El presente Decreto, no genera gasto adicional al Presupuesto autorizado, por lo cual las instancias encargadas de la implementación del Derecho realizarán las adecuaciones presupuestales correspondientes.
